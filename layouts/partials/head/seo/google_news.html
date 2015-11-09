@@ -1,0 +1,4 @@
+<!-- Output news_keywords taxonomy as Google news_keywords -->
+{{ with .Params.news_keywords }}
+	<meta name="news_keywords" content="{{ range $i, $kw := first 10 . }}{{ if $i }},{{ end }}{{ $kw }}{{ end }}" />
+{{ end }}
