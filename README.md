@@ -5,7 +5,7 @@ This is the website for DevOpsDays.org
 
 ## Contributing
 
-Here are the steps to follow to get going as an ADO content contributor (or heck, even a code contributor)
+Here are the steps to follow to get going as an DevOpsDays content contributor (or heck, even a code contributor)
 
 1. Install [Hugo](http://gohugo.io)
 2. Clone this repo
