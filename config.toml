@@ -2,3 +2,22 @@ theme = "devopsdays"
 baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 title = "devopsdays"
+canonifyurls = false
+dataDir = "data"
+archetypedir = "archetypes"
+
+[params]
+Facebook = "//www.facebook.com/group.php?gid=106761636771"
+GATracker = ""
+Twitter = "//www.twitter.com/devopsdays"
+	[params.social]
+		github = "arresteddevops"
+		facebook = "Arresteddevops"
+		facebook_admin = "500557137"  # This needs to be a page admin to get domain insights
+		twitter = "devopsdays"
+		twitter_domain = "devopsdays.org" # This domain shows in twitter cards as "View on `twitter_domain`"
+		googleplus = ""
+		pinterest = ""
+		instagram = ""
+		youtube = ""
+		linkedin = "nozzleio"
