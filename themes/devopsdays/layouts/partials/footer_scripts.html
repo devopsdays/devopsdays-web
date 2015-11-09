@@ -1,0 +1,36 @@
+
+<script src="{{ .Site.BaseURL }}/js/jquery.min.js"></script>
+<script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
+<script src="{{ .Site.BaseURL }}/js/scripts.js"></script>
+<script src="{{ .Site.BaseURL }}/js/html5slider.js"></script>
+<script src="{{ .Site.BaseURL }}/js/bootstrap3_player.js"></script>
+<script src="{{ .Site.BaseURL }}/js/social-share-kit.js"></script>
+<script src="{{ .Site.BaseURL }}/js/jquery.validate.min.js"></script>
+<script src="{{ .Site.BaseURL }}/js/additional-methods.min.js"></script>
+
+<script type="text/javascript">
+  SocialShareKit.init();
+</script>
+
+<script>
+/*menu handler*/
+$(function(){
+  function stripTrailingSlash(str) {
+    if(str.substr(-1) == '/') {
+      return str.substr(0, str.length - 1);
+    }
+    return str;
+  }
+
+  var url = window.location.pathname;
+  var activePage = stripTrailingSlash(url);
+
+  $('.nav li a').each(function(){
+    var currentPage = stripTrailingSlash($(this).attr('href'));
+
+    if (activePage == currentPage) {
+      $(this).parent().addClass('active');
+    }
+  });
+});
+</script>
