@@ -1,0 +1,4 @@
+theme = "devopsdays"
+baseurl = "http://localhost:1313/"
+languageCode = "en-us"
+title = "devopsdays"
