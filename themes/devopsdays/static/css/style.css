@@ -1,0 +1,67 @@
+# Empty CSS file for your own CSS
+
+.post-content {
+    background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+    opacity: 0.5;
+    top:0;
+    left:0;
+    min-width: 500px;
+    min-height: 500px;
+    position: absolute;
+    color: #ffffff;
+}
+
+.episode-image-homepage{
+    position:relative;
+    padding: 0;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.details {
+    position: absolute;
+    z-index: 2;
+    color: #ffffff;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+    padding: 5px;
+    font-size: larger;
+  }
+
+.episode-list {
+  /*background-color: grey;*/
+  margin-top: 15px;
+}
+
+.episode-list-header {
+  background-color: black;
+  color: white;
+}
+
+.sidebar {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.social-links {
+  margin-top: 10px  !important;
+  margin-bottom: 0px  !important;
+  margin-right: 0px !important;
+  padding-left: 2px !important;
+  padding-right: 2px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.image-centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.youtube-video {
+  margin-bottom: 15px;
+}
