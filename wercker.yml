@@ -1,0 +1,15 @@
+box: wercker/default
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.14"
+        theme: devopsdays
+        flags: --buildDrafts=true
+
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: devopsdays.github.io
+        basedir: public
+        repo: devopsdays/devopsdays.github.io
