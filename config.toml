@@ -1,5 +1,5 @@
 theme = "devopsdays"
-baseurl = "http://localhost:1313/"
+baseurl = "http://devopsdays.github.io/"
 languageCode = "en-us"
 title = "devopsdays"
 canonifyurls = false
