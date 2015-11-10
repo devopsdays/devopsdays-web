@@ -1,0 +1,7 @@
+box: wercker/default
+build:
+  steps:
+    - arjen/hugo-build:
+        version: 0.14
+        theme: devopsdays
+        flags: --buildDrafts=true
