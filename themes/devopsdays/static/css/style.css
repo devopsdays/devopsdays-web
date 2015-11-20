@@ -30,16 +30,6 @@
     font-size: larger;
   }
 
-.episode-list {
-  /*background-color: grey;*/
-  margin-top: 15px;
-}
-
-.episode-list-header {
-  background-color: black;
-  color: white;
-}
-
 .sidebar {
   display: inline-block;
   vertical-align: middle;
@@ -69,4 +59,8 @@
 #map_canvas {
     width: 100%;
     height: 100%;
+}
+
+.event-list-header {
+  background-color: #d7d7d7;
 }
