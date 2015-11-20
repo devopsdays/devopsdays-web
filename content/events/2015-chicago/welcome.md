@@ -6,6 +6,7 @@ title = "welcome"
 City = "Chicago"
 Year = "2015"
 type = "event"
+aliases = ["/events/2015-chicago"]
 +++
 
 <h2>Tuesday, August 25th and Wednesday, August 26th</h2>
