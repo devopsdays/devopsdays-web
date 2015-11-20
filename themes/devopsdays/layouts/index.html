@@ -3,6 +3,13 @@
   <div class = "row">
     <div class="col-md-8">
       <h1>Upcoming DevOpsDays Events</h1>
+      <!--map-->
+      <div id="map_wrapper">
+          <div id="map_canvas" class="mapping"></div>
+      </div>
+      <!-- end map -->
+      {{ partial "maps" . }}
+
     </div>
     <div class = "col-md-3">
       <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=devopsdays%20OR%20devopsday%20OR%20%23devopsday%20OR%20%23devopsdays" data-widget-id="667543157886816256">Tweets about devopsdays OR devopsday OR #devopsday OR #devopsdays</a>
