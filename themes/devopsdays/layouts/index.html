@@ -10,6 +10,15 @@
       <!-- end map -->
       {{ partial "maps" . }}
 
+      <h2> List of upcoming events</h2>
+      {{ range $e := $.Site.Data.events }}
+        {{ if ge $e.startdate .Now }}
+          {{ .city }} {{ .startdate }}<br />
+        {{ end }}
+      {{ end }}
+      current date {{ .Now }}
+
+
     </div>
     <div class = "col-md-3">
       <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/search?q=devopsdays%20OR%20devopsday%20OR%20%23devopsday%20OR%20%23devopsdays" data-widget-id="667543157886816256">Tweets about devopsdays OR devopsday OR #devopsday OR #devopsdays</a>
