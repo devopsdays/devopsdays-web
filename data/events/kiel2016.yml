@@ -1,0 +1,18 @@
+name: kiel2016
+year: "2016"
+city: "Kiel"
+startdate: "2016-05-12"
+enddate: "2016-05-13"
+coordinates: "47.609895, -122.330259"
+friendly: "2016-kiel"
+t1sponsortitle: "Gold"
+t2sponsortitle: "Host"
+t3sponsortitle: "Special"
+t4sponsortitle: "Silver"
+t5sponsortitle: "Media"
+t1sponsors:
+t2sponsors: ["kiwi"]
+t3sponsors: ["wobe"]
+t4sponsors:
+t5sponsors:
+navigationelements: ["welcome", "propose", "location", "registration", "sponsor", "contact", "conduct"]
