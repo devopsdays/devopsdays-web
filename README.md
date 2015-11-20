@@ -19,6 +19,6 @@ Here are the steps to follow to get going as an DevOpsDays content contributor (
 
 This is by no means complete, but a couple things to know:
 
-1. Create a data file for your event in `data/events`, for example, `data/events/chicago2015.yml`. Note that the name of the file can NOT include special characters, such as a dash.
+1. Create a data file for your event in `data/events`, for example, `data/events/chicago2015.toml`. Note that the name of the file can NOT include special characters, such as a dash.
 2. Generate the pages for your event, in the following manner for each page. `hugo new events/2016-kiel/welcome.md --kind=event`
 3. The `welcome.md` file needs to have a field added to its frontmatter for the alias, i.e., `aliases = ["/events/2015-chicago"]`
