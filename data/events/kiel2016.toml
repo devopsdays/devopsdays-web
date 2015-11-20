@@ -1,10 +1,11 @@
 name = "kiel2016"
 year = "2016"
 city = "Kiel"
+friendly = "2016-kiel"
+status = "current"
 startdate = 2016-05-12T23:29:49Z
 enddate = 2016-05-13T23:29:49Z
 coordinates = "47.609895, -122.330259"
-friendly = "2016-kiel"
 t1sponsortitle = "Gold"
 t2sponsortitle = "Host"
 t3sponsortitle = "Special"
