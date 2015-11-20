@@ -1,0 +1,14 @@
+name = "chicago2015"
+year = "2015"
+city = "Chicago"
+friendly = "2015-chicago"
+startdate = "2015-08-25T23:29:49-06:00"
+enddate = "2015-08-26T23:29:49-06:00"
+t1sponsortitle = "Platinum"
+t2sponsortitle = "Gold"
+t3sponsortitle = "Silver"
+t4sponsortitle = "Bronze"
+t5sponsortitle = "Media"
+t1sponsors = ["chef", "datadog"]
+t5sponsors = ["arresteddevops"]
+navigationelements = ["welcome", "contact","location", "conduct","sponsor"]
