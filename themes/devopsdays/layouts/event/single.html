@@ -1,4 +1,59 @@
 {{ partial "header.html" . }}
-{{ .Content }}
-i am an event
+
+{{ $event := .Params.event}}
+{{ $e :=  (index $.Site.Data.events $event) }}
+<div class = "container-fluid">
+  <div class="row">
+		<div class="col-md-8">
+      <h1> {{ $e.city }} - {{ title .Title }} </h1>
+      <!-- Main navigation -->
+      <ul class="nav nav-tabs">
+        {{ range $navigation := $e.navigationelements}}
+          <li role="presentation"><a href="/events/{{ $e.friendly }}/{{ $navigation}}">{{ $navigation }}</a></li>
+        {{ end }}
+      </ul>
+
+      {{ .Content }}
+    </div>
+    <div class="col-md-4">
+      {{ range $sponsor := $e.t1sponsors }}
+        {{ if isset $.Site.Data.sponsors $sponsor }}
+          <h2>{{ $e.t1sponsortitle }} Sponsors</h2>
+          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
+          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
+        {{ end }}
+      {{ end }}
+      {{ range $sponsor := $e.t2sponsors }}
+        {{ if isset $.Site.Data.sponsors $sponsor }}
+          <h2>{{ $e.t2sponsortitle }} Sponsors</h2>
+          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
+          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
+        {{ end }}
+      {{ end }}
+      {{ range $sponsor := $e.t3sponsors }}
+        {{ if isset $.Site.Data.sponsors $sponsor }}
+          <h2>{{ $e.t3sponsortitle }} Sponsors</h2>
+          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
+          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
+        {{ end }}
+      {{ end }}
+      {{ range $sponsor := $e.t4sponsors }}
+        {{ if isset $.Site.Data.sponsors $sponsor }}
+          <h2>{{ $e.t4sponsortitle }} Sponsors</h2>
+          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
+          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
+        {{ end }}
+      {{ end }}
+      {{ range $sponsor := $e.t5sponsors }}
+        {{ if isset $.Site.Data.sponsors $sponsor }}
+          <h2>{{ $e.t5sponsortitle }} Sponsors</h2>
+          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
+          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+
+</div>
 {{ partial "footer.html" . }}
