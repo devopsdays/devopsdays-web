@@ -1,5 +1,5 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script type="text/javascript">
+<script>
 jQuery(function($) {
     // Asynchronously Load the map API
     var script = document.createElement('script');
@@ -20,14 +20,11 @@ function initialize() {
 
     // Multiple Markers
     var markers = [
-        ['Kiel', 54.34208,10.121949],
-        ['Seattle', 47.609895, -122.330259],
-        ['Minneapolis', 44.9726428,-93.2752562],
-        ['Ohio', 39.9833, -82.9833],
-        ['Warsaw', 52.1800879, 20.9788363],
-        ['Washington D.C.', 38.8011545,-77.0659376],
-
-
+      {{ range $.Site.Data.events }}
+        {{ if eq .status "current" }}
+          ['{{ .city }}', {{ .coordinates | safeHTML }}],
+        {{ end }}
+      {{ end }}
     ];
 
     // Info Window Content
