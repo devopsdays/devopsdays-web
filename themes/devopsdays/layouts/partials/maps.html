@@ -18,11 +18,17 @@ function initialize() {
     map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
     map.setTilt(45);
 
-    // Multiple Markers
+    // Add upcoming events here
+    // Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
     var markers = [
       {{ range $.Site.Data.events }}
         {{ if eq .status "current" }}
-          ['{{ .city }}', {{ .coordinates | safeHTML }}],
+          ['Denver: April 21 & 22', 39.739236, -104.990251],
+          ['Minneapolis: Jul 20 & 21', 44.9726428,-93.2752562],
+          ['Warsaw: Nov 24 & 25', 52.1800879, 20.9788363],
+          ['Washington D.C.: June 8 & 9', 38.8011545,-77.0659376],
+          ['Kiel: May 12 & 13', 54.34208,10.121949],
+          ['Seattle: May 12 & 13', 47.609895, -122.330259],
         {{ end }}
       {{ end }}
     ];
