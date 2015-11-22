@@ -1,6 +1,6 @@
 +++
 Description = ""
-event = "chicago2015"
+event = "2015chicago"
 date = "2015-11-09T17:40:56-06:00"
 title = "conduct"
 City = "Chicago"
