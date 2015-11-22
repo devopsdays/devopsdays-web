@@ -7,6 +7,9 @@ canonifyurls = false
 dataDir = "data"
 archetypedir = "archetypes"
 
+[permalinks]
+	page = "/:filename/"
+
 [params]
 Facebook = "//www.facebook.com/group.php?gid=106761636771"
 GATracker = ""
