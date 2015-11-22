@@ -8,9 +8,15 @@
           <h3>
           {{ range $.Site.Data.events }}
             {{ if eq .status "current" }}
-              <a href = "/events/{{ .friendly }}/welcome">{{ .city }}</a> -
+            {{ $.Scratch.Add "events" "<a href = '/events/" }}
+            {{ $.Scratch.Add "events" .friendly }}
+            {{ $.Scratch.Add "events" "/welcome'>" }}
+            {{ $.Scratch.Add "events" .city }}
+            {{ $.Scratch.Add "events" "</a> - " }}
+              <!-- <a href = "/events/{{ .friendly }}/welcome">{{ .city }}</a> - -->
             {{ end }}
           {{ end }}
+          {{ substr ($.Scratch.Get "events") 0 -3 | safeHTML }}
           </h3>
         </div>
       </div>
