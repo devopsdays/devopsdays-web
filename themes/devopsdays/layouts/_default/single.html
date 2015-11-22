@@ -1,4 +1,13 @@
 {{ partial "header.html" . }}
-{{ .Content }}
+<div class = "container-fluid">
+  <div class = "row">
+    <div class="col-md-8">
+      {{ .Content }}
+    </div>
+    <div class = "col-md-3">
+      {{ partial "twitter.html" . }}
+    </div>
+  </div>
+</div>
 
 {{ partial "footer.html" . }}
