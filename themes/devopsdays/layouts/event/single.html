@@ -16,42 +16,20 @@
       {{ .Content }}
     </div>
     <div class="col-md-4">
-      {{ range $sponsor := $e.t1sponsors }}
-        {{ if isset $.Site.Data.sponsors $sponsor }}
-          <h2>{{ $e.t1sponsortitle }} Sponsors</h2>
-          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
+    <!-- sponsor code begin -->
+    {{ $sponsors := $e.sponsors }}
+    {{ range $e.sponsor_levels }}
+    <h2>{{ .label }} Sponsors</h2>
+      {{ range where $sponsors "level" .id }}
+        {{ $s :=  (index $.Site.Data.sponsors .id) }}
+        {{ if isset $.Site.Data.sponsors .id }}
+          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive"></a>
         {{ end }}
       {{ end }}
-      {{ range $sponsor := $e.t2sponsors }}
-        {{ if isset $.Site.Data.sponsors $sponsor }}
-          <h2>{{ $e.t2sponsortitle }} Sponsors</h2>
-          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
-        {{ end }}
-      {{ end }}
-      {{ range $sponsor := $e.t3sponsors }}
-        {{ if isset $.Site.Data.sponsors $sponsor }}
-          <h2>{{ $e.t3sponsortitle }} Sponsors</h2>
-          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
-        {{ end }}
-      {{ end }}
-      {{ range $sponsor := $e.t4sponsors }}
-        {{ if isset $.Site.Data.sponsors $sponsor }}
-          <h2>{{ $e.t4sponsortitle }} Sponsors</h2>
-          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
-        {{ end }}
-      {{ end }}
-      {{ range $sponsor := $e.t5sponsors }}
-        {{ if isset $.Site.Data.sponsors $sponsor }}
-          <h2>{{ $e.t5sponsortitle }} Sponsors</h2>
-          {{ $s :=  (index $.Site.Data.sponsors $sponsor) }}
-          <a href = "{{ $s.url }}"><img alt = "{{ $sponsor }}" src = "/img/sponsors/{{ $sponsor }}.png" class="img-responsive"></a>
-        {{ end }}
-      {{ end }}
+      <a href = "/events/{{ $e.friendly }}/sponsor">Become a {{ .label }} Sponsor!</a>
+    {{ end }}
 
+    <!-- sponsor code end -->
     </div>
   </div>
 
