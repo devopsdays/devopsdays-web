@@ -9,7 +9,7 @@ This is the website for DevOpsDays.org
 
 Here are the steps to follow to get going as an DevOpsDays content contributor (or heck, even a code contributor)
 
-1. Install [Hugo](http://gohugo.io)
+1. Install [Hugo v0.15+](http://gohugo.io) 
 2. Fork this repo
 3. If you want to fire up a local copy to see your changes as you go, enter this command `hugo server -w --baseUrl="http://localhost:1313"`
 4. The `--baseUrl` flag is kind of flaky, so a good solution is to change the `config.toml` file to point to `localhost` before starting `hugo server -w`. DO NOT COMMIT THIS CHANGED FILE BACK TO GITHUB. Just exclude it for now. We don't add it to `.gitignore` because we might need to muck with that file...although once everything is stable we might do this for safety.

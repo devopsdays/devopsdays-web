@@ -5,7 +5,7 @@ friendly: "2016-kiel"
 status: "current"
 startdate: 2016-05-12
 enddate: 2016-05-13
-coordinates: "47.609895, -122.330259"
+coordinates: "54.3233, 10.1228"
 navigationelements: ["welcome", "propose", "location", "registration", "sponsor", "contact", "conduct"]
 sponsors:
   - id: kiwi
