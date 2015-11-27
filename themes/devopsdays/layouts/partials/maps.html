@@ -23,12 +23,7 @@ function initialize() {
     var markers = [
       {{ range $.Site.Data.events }}
         {{ if eq .status "current" }}
-          ['Denver: April 21 & 22', 39.739236, -104.990251],
-          ['Minneapolis: Jul 20 & 21', 44.9726428,-93.2752562],
-          ['Warsaw: Nov 24 & 25', 52.1800879, 20.9788363],
-          ['Washington D.C.: June 8 & 9', 38.8011545,-77.0659376],
-          ['Kiel: May 12 & 13', 54.34208,10.121949],
-          ['Seattle: May 12 & 13', 47.609895, -122.330259],
+          ['{{ .city}}', {{ .coordinates | safeJS }}],
         {{ end }}
       {{ end }}
     ];
