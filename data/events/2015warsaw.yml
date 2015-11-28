@@ -5,7 +5,7 @@ friendly: "2015-warsaw"
 status: "current"
 startdate: 2015-11-24
 enddate: 2015-11-25
-coordinates: "47.609895, -122.330259"
+coordinates: "52.1800879, 20.9788363"
 navigationelements: ["welcome", "location", "register", "program", "ignites", "partners", "contact", "conduct"]
 sponsors:
   - id: allegro
