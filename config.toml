@@ -1,4 +1,4 @@
-theme = "devopsdays"
+theme = "devopsdays-legacy"
 baseurl = "http://devopsdays.github.io/"
 # baseurl = "http://localhost:1313/"
 languageCode = "en-us"
@@ -6,9 +6,11 @@ title = "devopsdays"
 canonifyurls = false
 dataDir = "data"
 archetypedir = "archetypes"
+PaginatePath = "blog"
 
 [permalinks]
 	page = "/:filename/"
+  blog = "/blog/:year/:month/:day/:title/"
 
 [params]
 Facebook = "//www.facebook.com/group.php?gid=106761636771"
