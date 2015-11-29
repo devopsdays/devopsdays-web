@@ -2,12 +2,10 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2015-11-22T00:34:27-06:00"
-title = "Contact devopsdays"
+Date = "2015-11-22T00:34:27-06:00"
+Title = "Contact devopsdays"
 
 +++
-
-# Contact devopsdays
 
 The devopsdays global core team helps local organizers host their own devopsdays events worldwide. The core team consists of the following people:
 
