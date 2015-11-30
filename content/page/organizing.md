@@ -7,8 +7,6 @@ title = "Devopsdays - Organizing Guide"
 aliases = ["/pages/organizing/"]
 +++
 
-# Devopsdays - Organizing Guide
-
 **This guide can be its most useful if you add your experiences. [Submit a PR with your suggestions!](https://github.com/devopsdays/devopsdays-web)**
 
 ---
