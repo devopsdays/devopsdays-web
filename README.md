@@ -2,6 +2,8 @@
 
 You can see progress on tasks at http://waffle.io/devopsdays/devopsdays-web
 
+[![Throughput Graph](https://graphs.waffle.io/devopsdays/devopsdays-web/throughput.svg)](https://waffle.io/devopsdays/devopsdays-web/metrics)
+
 # devopsdays-web
 This is the website for DevOpsDays.org
 
