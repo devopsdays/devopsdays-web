@@ -1,34 +1,14 @@
 <div class="submenu" style="width:550px">
   <h3>
-    <a href="/events/2016-vancouver/">
-     Vancouver
-    </a>
-    -
-    <a href="/events/2016-london/">
-     London
-    </a>
-    -
-    <a href="/events/2016-denver/">
-     Denver
-    </a>
-    -
-    <a href="/events/2016-kiel/">
-      Kiel
-    </a>
-    <br>
-    <a href="/events/2016-seattle">
-      Seattle
-    </a>
-	-
-    <a href="/events/2016-toronto">
-      Toronto
-    </a>
-    -
-    <a href="/events/2016-washington-dc">
-      Washington, DC
-    </a>
-    -
-    <a href="/events/2016-minneapolis">
-      Minneapolis
+  {{ range $.Site.Data.events }}
+    {{ if eq .status "current" }}
+      {{ $.Scratch.Add "events" "<a href = '/events/" }}
+      {{ $.Scratch.Add "events" .friendly }}
+      {{ $.Scratch.Add "events" "/welcome'>" }}
+      {{ $.Scratch.Add "events" .city }}
+      {{ $.Scratch.Add "events" "</a> - " }}
+    {{ end }}
+  {{ end }}
+  {{ substr ($.Scratch.Get "events") 0 -3 | safeHTML }}
   </h3>
 </div>
