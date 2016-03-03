@@ -20,24 +20,13 @@
           </h3>
         </div>
       </div>
-      <!--map-->
-      <div id="map_wrapper">
-          <div id="map_canvas" class="mapping"></div>
-      </div>
-      <!-- end map -->
-      {{ partial "maps" . }}
+      {{ range .Paginator.Pages }}
+          {{ .Render "summary"}}
+      {{ end }}
+      {{ partial "blog_pagination.html" . }}
     </div>
     <div class = "col-md-3">
       {{ partial "twitter.html" . }}
-    </div>
-  </div>
-  <div class = "row">
-    <div class = "col-md-8">
-      <h2>Past</h2>
-      {{ partial "past.html" }}
-    <div class = "col-md-3">
-      <h2>Future</h2>
-      {{ partial "future.html" }}
     </div>
   </div>
 </div>
