@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.15
-        theme: ado
+        theme: devopsdays-legacy
         flags: --buildDrafts=false
 
 deploy:
