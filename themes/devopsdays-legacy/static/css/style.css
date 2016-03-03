@@ -1,0 +1,70 @@
+# Empty CSS file for your own CSS
+
+.post-content {
+    background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+    opacity: 0.5;
+    top:0;
+    left:0;
+    min-width: 500px;
+    min-height: 500px;
+    position: absolute;
+    color: #ffffff;
+}
+
+.episode-image-homepage{
+    position:relative;
+    padding: 0;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.details {
+    position: absolute;
+    z-index: 2;
+    color: #ffffff;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+    padding: 5px;
+    font-size: larger;
+  }
+
+.sidebar {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.social-links {
+  margin-top: 10px  !important;
+  margin-bottom: 0px  !important;
+  margin-right: 0px !important;
+  padding-left: 2px !important;
+  padding-right: 2px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.image-centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#map_wrapper {
+    height: 400px;
+}
+
+#map_canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.event-list-header {
+  background-color: #d7d7d7;
+}
+
+.event-list-footer {
+  background-color: #18b;
+}
