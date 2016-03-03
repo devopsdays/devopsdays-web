@@ -2,15 +2,20 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.15"
-        theme: devopsdays-legacy
-        flags: --buildDrafts=true
+        version: 0.15
+        theme: ado
+        flags: --buildDrafts=false
 
 deploy:
   steps:
+    - script:
+        name: Install packages
+        code: |
+          apt-get update
     - install-packages:
-      packages: git ssh-client
-    - lukevivier/gh-pages@0.2.1:
+        packages: git ssh-client
+
+    - burrbd/gh-pages@0.2.3:
         token: $GIT_TOKEN
         domain: devopsdays.github.io
         basedir: public
