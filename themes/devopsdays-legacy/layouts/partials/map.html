@@ -23,13 +23,13 @@ function initialize() {
     var markers = [
       {{ range $.Site.Data.events }}
         {{ if eq .status "current" }}
-          ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ .startdate }}'],
+          ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ .startdate }}', '/events/{{ .friendly }}'],
         {{ end }}
       {{ end }}
     ];
 
     // Display multiple markers on a map
-    var infoWindow = new google.maps.InfoWindow(), marker, i;
+    // var infoWindow = new google.maps.InfoWindow(), marker, i;
 
     // Loop through our array of markers & place each one on the map
     for( i = 0; i < markers.length; i++ ) {
@@ -43,6 +43,9 @@ function initialize() {
             labelClass: "labels",
             labelStyle: { opacity: 1 }
         });
+        // cityLink = markers[i][4]
+        // This isn't working right now btw
+        // google.maps.event.addListener(marker, "click", function (e) { location.href=cityLink});
 
         // refocus
         map.fitBounds(bounds);
