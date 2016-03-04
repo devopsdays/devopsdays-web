@@ -8,6 +8,7 @@ canonifyurls = false
 dataDir = "data"
 archetypedir = "archetypes"
 PaginatePath = "blog"
+buildDrafts = false
 
 [permalinks]
 	page = "/:filename/"
