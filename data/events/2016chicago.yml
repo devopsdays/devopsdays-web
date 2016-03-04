@@ -5,24 +5,22 @@ friendly: "2016-chicago"
 status: "current"
 startdate: 2016-08-30
 enddate: 2016-08-31
-coordinates: "47.609895, -122.330259"
+coordinates: "41.882219, -87.640530"
 navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
 sponsors:
   - id: chef
-    level: platinum
+    level: gold
   - id: datadog
     level: gold
   - id: arresteddevops
-    level: media
+    level: community
 
 sponsor_levels:
-  - id: platinum
-    label: Platinum
   - id: gold
     label: Gold
   - id: silver
     label: Silver
   - id: bronze
     label: Bronze
-  - id: media
-    label: Media
+  - id: community
+    label: Community
