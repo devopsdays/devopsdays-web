@@ -1,4 +1,3 @@
 {{ $event := (print .Page.Params.year (lower .Page.Params.city)) }}
 {{ $e :=  (index $.Page.Site.Data.events $event) }}
-{{ $enddate := $e.enddate}}
-{{ dateFormat "Monday, Jan 2, 2006" $enddate }}
+<a href = "/events/{{ .Page.Params.year }}-{{ lower .Page.Params.city }}/location">{{ $e.location }}</a>
