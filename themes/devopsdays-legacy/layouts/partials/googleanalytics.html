@@ -11,8 +11,10 @@
 
 {{ if isset .Params "year" }}
 
+  {{ $path := split $.Source.File.Path "/" }}
+  {{ $event_slug := index $path 1 }}
   {{ $event := (print .Params.year (lower .Params.city)) }}
-  {{ $e :=  (index .Site.Data.events $event) }}
+  {{ $e :=  (index $.Site.Data.events $event_slug) }}
 
   {{ if isset $e "ga_tracking_id" }}
 
