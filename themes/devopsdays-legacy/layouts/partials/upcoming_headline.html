@@ -1,6 +1,6 @@
 <div class="submenu" style="width:550px">
   <h3>
-  {{ range $.Site.Data.events }}
+  {{ range sort $.Site.Data.events "startdate" }}
     {{ if eq .status "current" }}
       {{ $.Scratch.Add "events" "<a href = '/events/" }}
       {{ $.Scratch.Add "events" .friendly }}
