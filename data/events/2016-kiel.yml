@@ -1,0 +1,33 @@
+name: 2016kiel
+year: "2016"
+city: "Kiel"
+friendly: "2016-kiel"
+status: "current"
+startdate: 2016-05-12
+enddate: 2016-05-13
+coordinates: "54.3233, 10.1228"
+navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"]
+team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
+organizer_email: "organizers-kiel-2016@devopsdays.org"
+proposal_email: "proposals-kiel-2016@devopsdays.org"
+sponsors:
+  - id: kiwi
+    level: host
+  - id: wobe
+    level: special
+    override:
+      url: www.microsoft.co.il
+  - id: puppet
+    level: special
+
+sponsor_levels:
+  - id: gold
+    label: Gold
+  - id: host
+    label: Host
+  - id: special
+    label: Special
+  - id: silver
+    label: Silver
+  - id: media
+    label: Media
