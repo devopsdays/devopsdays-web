@@ -1,0 +1,4 @@
+{{ $event := .Page.Params.event}}
+{{ $e :=  (index $.Page.Site.Data.events $event) }}
+{{ $startdate := $e.startdate}}
+{{ dateFormat "Monday, Jan 2, 2006" $startdate }}
