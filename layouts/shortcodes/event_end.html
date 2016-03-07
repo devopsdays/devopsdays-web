@@ -1,4 +1,10 @@
-{{ $event := (print .Page.Params.year (lower .Page.Params.city)) }}
-{{ $e :=  (index $.Page.Site.Data.events $event) }}
+{{ $path := split .Page.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 {{ $enddate := $e.enddate}}
-{{ dateFormat "Monday, Jan 2, 2006" $enddate }}
+
+{{ if isset $e "enddate" }}
+  {{ dateFormat "Monday, Jan 2, 2006" $enddate }}
+{{ else }}
+  TBD
+{{ end }}
