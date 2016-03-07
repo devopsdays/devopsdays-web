@@ -5,14 +5,22 @@ friendly: "2016-chicago"
 status: "current"
 startdate: 2016-08-30
 enddate: 2016-08-31
+cfp_date_start: 2016-04-01
+cfp_date_end: 2016-06-01
+cfp_date_announce: 2016-07-01
 coordinates: "41.882219, -87.640530"
-navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
+location: "Summit West"
+navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registation", "conduct", "sponsor"]
+team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
+organizer_email: "organizers-chicago-2016@devopsdays.org"
+proposal_email: "proposals-chicago-2016@devopsdays.org"
+
 sponsors:
   - id: chef
     level: gold
-  - id: datadog
-    level: gold
   - id: arresteddevops
+    level: community
+  - id: softwaredefinedtalk
     level: community
 
 sponsor_levels:
