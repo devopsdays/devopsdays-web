@@ -6,22 +6,43 @@ status: "current" # Options are "past" or "current".
 startdate: 2016-04-26 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-04-27 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-01
-cfp_date_announce: 2016-07-01
+cfp_date_end: 2016-05-01
+cfp_date_announce: 2016-05-07
 coordinates: "30.2500, -97.7500" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
+location: "Georgia Tech Historic Academy of Medicine" # The name of your location
 navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
+team: ["Tom Hall", "John Dyer", "Ian Buchanan", "Laura Little", "Chris Corriere"]
 organizer_email: "organizers-atlanta-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-atlanta-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: chef
     level: gold
-  - id: datadog
+  - id: pivotal
     level: gold
+  - id: versionone
+    level: gold
+  - id: redislabs
+    level: gold
+  - id: victorops
+    level: gold
+  - id: autotrader
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: mailchimp
+    level: silver
+  - id: salesforcepardot
+    level: bronze
+  - id: careerbuilder
+    level: bronze
   - id: arresteddevops
-    level: community
-
+    level: media
+  - id: oreilly
+    level: media
+  - id: blacksintechnology
+    level: media
+  - id: upguard
+    level: badges
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
@@ -29,5 +50,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+  - id: media
+    label: Media
+  - id: badges
+    label: Badges
