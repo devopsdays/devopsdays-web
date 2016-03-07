@@ -30,4 +30,4 @@ This is by no means complete, but a couple things to know:
 2. Generate the pages for your event, in the following manner for each page. `hugo new events/2016-kiel/welcome.md --kind=event`
 3. The `welcome.md` file needs to have a field added to its frontmatter for the alias, i.e., `aliases = ["/events/2015-chicago"]`
 4. Sponsors each need a file in the data directory, as such: `data/sponsors/chef.yml`. If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/2015chicagochef.yml`. Again, no special characters in the filename, please.
-5. Put the images for your sponsors in the `/static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `/static/img/sponsors/chef.png`.
+5. Put the images for your sponsors in the `/static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `/static/img/sponsors/chef.png`..
