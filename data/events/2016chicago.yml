@@ -14,6 +14,7 @@ navigationelements: ["welcome", "contact", "location", "program", "propose", "pr
 team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
 organizer_email: "organizers-chicago-2016@devopsdays.org"
 proposal_email: "proposals-chicago-2016@devopsdays.org"
+ga_tracking_id: "UA-74738648-1"
 
 sponsors:
   - id: chef
