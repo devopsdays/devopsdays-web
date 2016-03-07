@@ -1,7 +1,17 @@
 {{ partial "header.html" . }}
 
+{{/*
+  This section is what creates the query to get at all the site data. If you need this somewhere, you can just copy
+  it and paste it. Need to figure out if a partial would expose the variables/elements/array created herein. It could be done in a partial (need to include the trailing .) but I don't think it would work in shortcodes, which is where we need it the most - mattstratton
+*/}}
+
+{{ $path := split $.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
 {{ $event := (print .Params.year (lower .Params.city)) }}
-{{ $e :=  (index $.Site.Data.events $event) }}
+{{ $e :=  (index $.Site.Data.events $event_slug) }}
+
+{{/* end site data query */}}
+
 <div class = "container-fluid">
   <div class="row">
 		<div class="col-md-8">
@@ -10,7 +20,7 @@
       <div class="submenu">
         <h3>
         {{ range $navigation := $e.navigationelements}}
-          <a href="/events/{{ $e.friendly }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
+          <a href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
         {{ end }}
         </h3>
       </div>
