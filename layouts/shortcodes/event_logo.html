@@ -1,0 +1,6 @@
+{{ $event := .Page.Params.event}}
+{{ $e :=  (index $.Page.Site.Data.events $event) }}
+{{ $city := $e.city}}
+
+{{ $cityyear := $e.year }}
+<img alt="DevOpsDays {{ $city }} {{ $cityyear }}" src="/img/events/{{ $cityyear }}-{{lower $city }}/logo.png"/>
