@@ -1,4 +1,6 @@
 {{ $event := (print .Page.Params.year (lower .Page.Params.city)) }}
 {{ $e :=  (index $.Page.Site.Data.events $event) }}
-{{ $enddate := $e.enddate}}
-{{ dateFormat "Monday, Jan 2, 2006" $enddate }}
+
+{{ $cfp_date_start := $e.proposal_email }}
+
+<a href='mailto:{{ $e.proposal_email }}'>{{ $e.proposal_email }}</a>
