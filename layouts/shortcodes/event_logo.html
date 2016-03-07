@@ -1,1 +1,5 @@
-<img alt="DevOpsDays {{ .Page.Params.city }} {{ .Page.Params.year }}" src="/img/events/{{ .Page.Params.year }}-{{lower .Page.Params.city }}/logo.png"/>
+{{ $path := split .Page.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
+
+<img alt="DevOpsDays {{ $e.city }} {{ $e.year }}" src="/img/events/{{ $event_slug }}/logo.png"/>
