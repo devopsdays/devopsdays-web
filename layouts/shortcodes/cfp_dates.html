@@ -1,0 +1,12 @@
+{{ $event := (print .Page.Params.year (lower .Page.Params.city)) }}
+{{ $e :=  (index $.Page.Site.Data.events $event) }}
+
+{{ $cfp_date_start := $e.cfp_date_start }}
+{{ $cfp_date_end := $e.cfp_date_end }}
+{{ $cfp_date_announce := $e.cfp_date_announce }}
+
+<center>
+<b>Call for proposals opens {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_start }}.</b><br>
+<b>Call for proposals closes {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_end }}.</b><br>
+Selected proposals will be announced on {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_announce }}.
+</center>
