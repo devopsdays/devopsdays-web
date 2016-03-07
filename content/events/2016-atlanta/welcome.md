@@ -13,9 +13,9 @@ aliases = ["/events/2016-atlanta"]
 
 DevOps Days is coming to Atlanta!
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <table>
   <tr>
