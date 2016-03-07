@@ -1,12 +1,9 @@
 +++
-City = ""
-Description = ""
-Year = ""
+City = "Chicago"
+Year = "2016"
 date = "2016-03-06T21:16:08-06:00"
 title = "contact"
 type = "event"
-draft = true
-
 
 +++
 
