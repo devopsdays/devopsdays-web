@@ -10,7 +10,7 @@ cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
 coordinates: "41.882219, -87.640530"
 location: "Summit West"
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"]
+navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "conduct", "sponsor"]
 team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
 organizer_email: "organizers-chicago-2016@devopsdays.org"
 proposal_email: "proposals-chicago-2016@devopsdays.org"
