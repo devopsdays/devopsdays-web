@@ -1,17 +1,19 @@
 {{ partial "header.html" . }}
 
-{{ $event := .Params.event}}
+{{ $event := (print .Params.year (lower .Params.city)) }}
 {{ $e :=  (index $.Site.Data.events $event) }}
 <div class = "container-fluid">
   <div class="row">
 		<div class="col-md-8">
       <h1> {{ $e.city }} - {{ title .Title }} </h1>
       <!-- Main navigation -->
-      <ul class="nav nav-tabs">
+      <div class="submenu">
+        <h3>
         {{ range $navigation := $e.navigationelements}}
-          <li role="presentation"><a href="/events/{{ $e.friendly }}/{{ $navigation}}">{{ $navigation }}</a></li>
+          <a href="/events/{{ $e.friendly }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
         {{ end }}
-      </ul>
+        </h3>
+      </div>
 
       {{ .Content }}
     </div>
@@ -23,10 +25,12 @@
       {{ range where $sponsors "level" .id }}
         {{ $s :=  (index $.Site.Data.sponsors .id) }}
         {{ if isset $.Site.Data.sponsors .id }}
-          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive"></a>
+          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive sponsor-logo" width = "100px"></a>
         {{ end }}
       {{ end }}
-      <a href = "/events/{{ $e.friendly }}/sponsor">Become a {{ .label }} Sponsor!</a>
+      <div class = "sponsor-cta">
+        <a href = "/events/{{ $e.friendly }}/sponsor">Become a {{ .label }} Sponsor!</a>
+      </div>
     {{ end }}
 
     <!-- sponsor code end -->
