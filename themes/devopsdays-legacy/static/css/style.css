@@ -68,3 +68,12 @@
 .event-list-footer {
   background-color: #18b;
 }
+
+.sponsor-logo {
+  float: left;
+  padding: 5px !important;
+}
+
+.sponsor-cta {
+  clear: both;
+}

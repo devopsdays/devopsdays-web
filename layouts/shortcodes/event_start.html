@@ -1,4 +1,4 @@
-{{ $event := .Page.Params.event}}
+{{ $event := (print .Page.Params.year (lower .Page.Params.city)) }}
 {{ $e :=  (index $.Page.Site.Data.events $event) }}
 {{ $startdate := $e.startdate}}
 {{ dateFormat "Monday, Jan 2, 2006" $startdate }}
