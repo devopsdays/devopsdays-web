@@ -6,7 +6,7 @@ status: "current"
 startdate: 2016-05-12
 enddate: 2016-05-13
 coordinates: "54.3233, 10.1228"
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registation", "conduct", "sponsor"]
+navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"]
 team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
 organizer_email: "organizers-kiel-2016@devopsdays.org"
 proposal_email: "proposals-kiel-2016@devopsdays.org"
