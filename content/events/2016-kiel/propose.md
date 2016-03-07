@@ -1,15 +1,12 @@
 +++
 City = "Kiel"
-Description = ""
 Year = "2016"
-date = "2015-11-19T23:29:49-06:00"
-event = "2016kiel"
+date = "2016-03-06T22:47:24-06:00"
 title = "propose"
 type = "event"
 
 +++
-
-{{< cfp_dates >}}
+  {{< cfp_dates >}}
 
 <hr>
 There are three ways to propose a session:

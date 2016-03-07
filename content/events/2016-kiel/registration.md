@@ -1,10 +1,14 @@
 +++
 City = "Kiel"
-Description = ""
 Year = "2016"
-date = "2015-11-19T23:29:49-06:00"
-event = "2016kiel"
+date = "2016-03-06T21:28:23-06:00"
 title = "registration"
 type = "event"
 
 +++
+
+<div style="width:100%; text-align:left;">
+
+Embed registration iframe/link/etc.
+</div></div>
+</div>
