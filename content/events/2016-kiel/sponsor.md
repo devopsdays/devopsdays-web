@@ -1,9 +1,7 @@
 +++
 City = "Kiel"
-Description = ""
 Year = "2016"
-date = "2015-11-19T23:29:49-06:00"
-event = "2016kiel"
+date = "2016-03-06T21:17:14-06:00"
 title = "sponsor"
 type = "event"
 
@@ -21,7 +19,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
-<!-- 
+<!--
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
@@ -47,6 +45,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
 <br/>
 <br/>
-</div> -->
-
+</div>
+-->
 <hr/>
