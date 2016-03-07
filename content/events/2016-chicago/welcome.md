@@ -10,18 +10,18 @@ aliases = ["/events/2016-chicago"]
 
 +++
 
-## Tuesday, August 30 and Wednesday, August 31
+## {{< event_start >}} - {{< event_end >}}
 
 Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together and planning the 2016 event.  We're encouraged by the feedback from last year's event and are determined to bring an improved experience and continue the DevOps conversation this August in Chicago.
 
 <div style="text-align:center;">
-  <img alt="DevOpsDays Chicago 2016" src="./logo.png"/>
+  {{< event_logo >}}
 </div>
 
 <table>
   <tr>
     <td><b>Date</b></td>
-    <td><%= render(:partial => "/#{@eventhome}/_target_date") -%></td>
+    <td>{{< event_start >}} - {{< event_end >}}
   </tr>
   <tr>
     <td><b>Location</b></td>
@@ -38,16 +38,16 @@ Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together an
 -->
   <tr>
     <td><b>Sponsors</b></td>
-    <td><a href="/sponsor/">Sponsor the event!</a> It's a great way to attract new talent and promote your organization.</td>
+    <td><a href="sponsor/">Sponsor the event!</a> It's a great way to attract new talent and promote your organization.</td>
   </tr>
   <tr>
     <td><b>Contact</b></td>
-    <td><a href="/contact/">Get in touch with the Organizers</a>.</td>
+    <td><a href="contact/">Get in touch with the Organizers</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td><a href="https://twitter.com/devopsdaysChi" class="twitter-follow-button" data-show-count="false">Follow @devopsdaysChi</a>
-    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    <td>
+    {{< event_twitter devopsdayschi >}}
     </td>
   </tr>
 </table>
