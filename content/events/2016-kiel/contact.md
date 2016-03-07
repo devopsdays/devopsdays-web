@@ -1,10 +1,19 @@
 +++
 City = "Kiel"
-Description = ""
 Year = "2016"
-date = "2015-11-19T23:29:49-06:00"
-event = "2016kiel"
+date = "2016-03-06T21:16:08-06:00"
 title = "contact"
 type = "event"
 
+
 +++
+
+If you'd like to contact us by email: {{< email_organizers >}}
+
+** Our local team**
+
+{{< list_organizers >}}
+
+** The core devopsdays organizer group**
+
+{{< list_core >}}
