@@ -1,10 +1,9 @@
 +++
-Categories = []
-Description = ""
-Tags = []
 date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
+City = ""
+Year = ""
 aliases = ["/events/YYYY-city"]
 draft = true
 
