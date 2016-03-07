@@ -1,1 +1,4 @@
-<a href = "/events/{{ .Page.Params.year }}-{{ lower .Page.Params.city }}/{{ .Get "page" }}">{{ .Get "text" }}</a>
+{{ $path := split .Page.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+
+<a href = "/events/{{ $event_slug }}/{{ .Get "page" }}">{{ .Get "text" }}</a>
