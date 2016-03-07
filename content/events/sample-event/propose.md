@@ -6,9 +6,7 @@ title = "propose"
 type = "event"
 
 +++
-<center>
   {{< cfp_dates >}}
-</center>
 
 <hr>
 There are three ways to propose a session:
