@@ -1,12 +1,11 @@
 +++
-City = "Detroit"
+City = "Seattle"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "program"
 type = "event"
 
 +++
-
 <hr>
 <div class="span-16 last ">If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</div>
 </center>
@@ -23,20 +22,25 @@ type = "event"
 <div class="span-2">08:00-09:00</div><div class="span-4 box last">Registration, Breakfast, and Sponsor Booths Open</div>
 <div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong></strong>Opening Welcome</div>
 <div class="span-2">09:15-09:45</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/nicolefv">Nicole Forsgren</a> -
+  <a href="/events/2016-seattle/proposals/My_First_Year_at_Chef_Measuring_All_the_Things">My First Year at Chef: Measuring All the Things</a>
     <br />
 </div>
 <div class="span-2">09:45-09:55</div><div class="span-4 box last">
   Sponsors
 </div>
 <div class="span-2">09:55-10:25</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/jemolesky">Joanne Molesky</a> -
+  <a href="/events/2016-seattle/proposals/An_unlikely_happy_couple_DevOps_and_IT_Audit">An unlikely happy couple - DevOps and IT Audit?</a>
     <br />
-
 </div>
 <div class="span-2">10:25-10:40</div><div class="span-4 box last">
   Break
 </div>
 
 <div class="span-2">10:40-11:10</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/paulycomtois">Pauly Comtois</a> -
+  <a href="/events/2016-seattle/proposals/Building_an_Enterprise_DevOps_Community">Building an Enterprise DevOps Community</a>
     <br />
 </div>
 
@@ -45,6 +49,8 @@ type = "event"
 </div>
 
 <div class="span-2">11:20-11:50</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/benr">Ben Rockwood</a> -
+  <a href="/events/2016-seattle/proposals/The_Power_of_A3_Thinking_in_Action">The Power of A3 Thinking in Action</a>
     <br />
 </div>
 
@@ -63,11 +69,10 @@ type = "event"
 
 <div class="span-2">16:45-17:00</div><div class="span-4 box last"><strong></strong>Close Day & Logistics</div>
 
-<div class="span-2">19:00-late</div><div class="span-4 box last"><strong>Evening Event</strong><br /></div>
+<div class="span-2">19:00-late</div><div class="span-4 box last"><strong>DevOpsDays Seattle Opening Day Party @ Chef HQ <br /> <a target='_blank' href="http://www.meetup.com/Chef-Meetup/events/229825263/?rv=ea1">RSVP Here</a></strong><br /></div>
 
 
 </div>
-
 
 <div class="span-7 append-bottom border">
 
@@ -78,20 +83,25 @@ type = "event"
 <div class="span-2">08:00-09:00</div><div class="span-4 box last"> Registration, Breakfast, and Sponsor Booths Open</div>
 <div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong></strong>Opening Welcome</div>
 <div class="span-2">09:15-09:45</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/ladyhock">Courtney Kissler</a> -
+  <a href="/events/2016-seattle/proposals/Living_in_a_Hybrid_World">Living in a Hybrid World</a>
     <br />
 </div>
 <div class="span-2">09:45-09:55</div><div class="span-4 box last">
   Sponsors
 </div>
 <div class="span-2">09:55-10:25</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/jasonhand">Jason Hand</a> -
+  <a href="/events/2016-seattle/proposals/Understanding_Cognitive_Bias_Found_In_Judgement_and_Choice">Understanding Cognitive Bias Found In Judgement & Choice</a>
     <br />
-
 </div>
 <div class="span-2">10:25-10:40</div><div class="span-4 box last">
   Break
 </div>
 
 <div class="span-2">10:40-11:10</div><div class="span-4 box last" style="height:100px;">
+  <a target="_blank" href="https://twitter.com/brendandburns">Brendan Burns</a> -
+  <a href="/events/2016-seattle/proposals/How_Container_Clusters_like_Kubernetes_change_operations">How Container Clusters, like Kubernetes, change operations</a>
     <br />
 </div>
 
@@ -100,6 +110,8 @@ type = "event"
 </div>
 
 <div class="span-2">11:20-11:50</div><div class="span-4 box last">
+  <a target="_blank" href="https://twitter.com/bignimble">Michael Kauffman</a> -
+  <a href="/events/2016-seattle/proposals/Past_The_Hype_A_Better_Way_To_Think_About_Big_Data">Past The Hype: A Better Way To Think About Big Data</a>
     <br />
 </div>
 
@@ -120,5 +132,12 @@ type = "event"
 <div class="span-2">17:00</div><div class="span-4 box last"><strong></strong>Close Day & Farewell</div>
 
 
+</div>
 
+<div class="span-14 append-bottom border">
+  <h4>Partner Event: Day 3 (Saturday, May 14)</h4>
+    <div class="span-14">
+    <div class="span-2">10:00-17:00</div>
+    <div class="span-11 box last"><strong><a href="https://pages.chef.io/201605-DevOpsDaysSeattleMSFTHackDay_01.1LandingPage.html">DevOps Hackathon</a></strong> (Microsoft, Chef) Separate free registration required!</div>
+    </div>
 </div>
