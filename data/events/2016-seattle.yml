@@ -15,9 +15,29 @@ team: ["John Doe", "Jane Smith", "Sally Fields"]
 organizer_email: "organizers-seattle-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-seattle-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: pivotal
+    level: gold
   - id: chef
     level: gold
-  - id: datadog
+  - id: thoughtworks
+    level: gold
+  - id: victorops
+    level: gold
+  - id: expedia
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: slalom
+    level: gold
+  - id: sendachi
+    level: gold
+  - id: github
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: splunk
+    level: gold
+  - id: capitalone
     level: gold
   - id: arresteddevops
     level: community
