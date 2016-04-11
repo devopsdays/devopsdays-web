@@ -1,0 +1,47 @@
++++
+City = "Minneapolis"
+Year = "2016"
+date = "2016-03-06T21:28:07-06:00"
+title = "Megan Carney"
+type = "event"
+
++++
+
+<div class="span-15  ">
+  <div class="span-15  last ">
+  <p><strong>Title:</strong>
+How Security Can Win Friends and Influence People
+</p>
+
+<p><strong>Description:</strong></p>
+
+<p>
+Security 101 principles often conflict with how organizations function in the real world. Developers need flexibility in order to solve hard problems; companies need a stable product to satisfy customers. Employees don’t want to click through ten different screens to complete daily tasks; auditors and regulators demand logs and accountability.
+</p>
+<p>
+
+Legacy systems need to be monitored. New projects need to be nurtured. And, while you’re doing all of that, attackers are constantly rattling the doorknobs to find a foothold in your network. I’ll go over a few lessons I’ve learned about how security departments can lobby for continuous improvement, while collaborating with others and even occasionally saving the organization money.
+</p>
+<p>
+
+Over my career, I’ve worked in .com, retail, and academia. While the challenges in each of these realms are unique, there is a common thread in all of the successful outcomes I’ve witnessed. Effective security departments are optimists who play well with others.
+</p>
+<p>
+
+It's fun to pretend you're the smartest person in the room ... until no one wants to play with you. The “us versus the world” mindset isn’t constructive. In this talk I’ll illustrate how security can work for change without alienating everyone else on the playground.
+
+</p>
+
+
+<p><strong>Speaker:</strong>
+Megan Carney
+</p>
+<p>
+<a href="https://twitter.com/PwnieFan">@PwnieFan</a>
+<p>
+Megan Carney is an Infosecurity engineer at Yelp. Previous to working with Yelp, she worked as an analyst at a university and a retail company. She tries to keep her paranoia at healthy levels while protecting Yelp from the evils of the Internet.
+</p>
+
+  </div>
+</div>
+
