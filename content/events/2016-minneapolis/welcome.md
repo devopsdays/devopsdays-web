@@ -11,7 +11,7 @@ aliases = ["/events/2016-minneapolis"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-**DevOps Days is returning to Minneapolis!**
+**devopsdays is returning to Minneapolis!**
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -28,16 +28,16 @@ aliases = ["/events/2016-minneapolis"]
   </tr>
   <tr>
     <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a 30 minute talk!" >}}.</td>
+    <td>{{< event_link page="propose" text="Propose an Ignite!" >}}</td>
   </tr>
   <tr>
     <td><b>Register</b></td>
     <td>{{< event_link page="registration" text="Register to attend the conference!" >}}</td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Speakers</b></td>
     <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
+  </tr>
   <tr>
     <td><b>Sponsors</b></td>
     <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
