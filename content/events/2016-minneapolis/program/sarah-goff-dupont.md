@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Sarah Goff-Dupont"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/sarahgoffdupont/"]
 
 +++
@@ -27,15 +27,6 @@ This talk will cover practical and battle-tested ways to work together towards a
 
 </p>
 
-
-<p><strong>Speaker:</strong>
-Sarah Goff-Dupont
-</p>
-<p>
-<a href="https://twitter.com/DevToolSuperFan">@DevToolSuperFan</a>
-<p>
-Sarah has been working in and around software teams for 14 years – as QA engineer, agile coach, and now a marketer. When not writing about all things agile and/or automated, she can be found reading contemporary fiction, smashing it out & keeping it real at CrossFit, or rolling around on the floor with her kids (possibly all at once).
-</p>
 
   </div>
 </div>
