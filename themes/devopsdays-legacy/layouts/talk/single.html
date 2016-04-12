@@ -27,6 +27,7 @@
 
       {{ .Content }}
 
+
  <!-- speaker code begin -->
 
       {{ $speakers := $e.speakers }}
@@ -34,9 +35,15 @@
           {{ range where $speakers "level" .id }}
           {{ $filename := (print .id ".md") }}
             {{if eq $filename (index $path 3)}}
+
+<!-- trying to generate the .Site.Data.events.minneapolis2016.speakers string -->
+{{ $cityyearspeakers := print ".Site.Data.events." ($e.city | lower) $e.year ".speakers" | printf "%s" }}
+
+{{print $cityyearspeakers}}
               <h2>Speaker</h2>
-              {{ $s :=  (index $.Site.Data.events.minneapolis2016.speakers .id) }}
-              {{ if isset $.Site.Data.events.minneapolis2016.speakers .id }}
+              {{ $s :=  (index $cityyearspeakers .id) }}
+              {{ if isset $cityyearspeakers .id }}
+<!-- these didn't work the way spelling out $.Site.Data.events.minneapolis2016.speakers did -->
                 <h3>{{ $s.name }}</h3>
                 <a href="https://twitter.com/{{ $s.twitter }}"><img width="32px" height="32px" alt="twitter" title="twitter" src="/images/twitter.png">@{{ $s.twitter }}</a>
                  <br><br>
