@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Nicole Forsgren"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/nicoleforsgren/"]
 
 +++
@@ -29,15 +29,6 @@ Management and practitioners alike will leave with a better understanding of how
 
 </p>
 
-
-<p><strong>Speaker:</strong>
-Nicole Forsgren
-</p>
-<p>
-<a href="https://twitter.com/nicolefv">@nicolefv</a>
-<p>
-Dr. Nicole Forsgren is an IT impacts expert who shows leaders and practitioners how to unlock the potential of technology change in their organizations. Best known for her work with tech professionals and as the lead investigator on the State of DevOps Reports, she is the Director of Organizational Performance and Analytics at Chef and an Academic Partner at Clemson University. In a previous life, she was a professor, sysadmin, and hardware performance analyst.
-</p>
 
   </div>
 </div>
