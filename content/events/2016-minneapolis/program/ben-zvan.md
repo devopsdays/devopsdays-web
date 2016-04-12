@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Ben Zvan"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/benzvan/"]
 
 +++
@@ -32,15 +32,6 @@ In this session, I’ll present my version of the DevOps philosophy and how it c
 
 </p>
 
-
-<p><strong>Speaker:</strong>
-Ben Zvan
-</p>
-<p>
-<a href="https://twitter.com/BenZvan">@BenZvan</a>
-<p>
-Ben Zvan is an IT professional who has been using Linux since 1996. He started his professional Ops career at the University of Minnesota in 2006 and moved to Capella University, a for-profit university in Minnesota, in 2011. He has concentrated on the mantra "simplify, standardize, automate" since hearing the phrase from Jim Hall at the U of MN, when he realized that's what he had been doing for years. Learning about agile and DevOps made him an instant evangelist. He currently struggles with change management, production support, and not having enough time for photography or motorcycling.
-</p>
 
   </div>
 </div>
