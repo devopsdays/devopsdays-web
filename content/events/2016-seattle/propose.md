@@ -1,4 +1,5 @@
 +++
+City = "Seattle"
 date = "2016-03-06T22:47:24-06:00"
 title = "DevOpsDays Seattle 2016 - Propose a talk"
 type = "event"
