@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Jamie Riedesel"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/jamieriedesel/"]
 
 +++
@@ -30,14 +30,6 @@ We will cover what those components are and how they work together. What’s mor
 </p>
 
 
-<p><strong>Speaker:</strong>
-Jamie Riedesel
-</p>
-<p>
-<a href="https://twitter.com/sysadm1138">@sysadm1138</a>
-<p>
-Jamie Riedesel started out in Government IT for the City of St. Paul and has since moved into the private sector. Currently she’s working remotely for a San Francisco based startup. In the meantime, she’s earned the Chuck Yerkes award from LOPSA for being helpful online, and is trying to become more helpful in person.
-</p>
 
   </div>
 </div>
