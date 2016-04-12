@@ -1,8 +1,6 @@
 +++
-City = "Detroit"
-Year = "2016"
 date = "2016-03-06T21:17:08-06:00"
-title = "conduct"
+title = "DevOpsDays Seattle 2016 - Code of Conduct"
 type = "event"
 
 +++
