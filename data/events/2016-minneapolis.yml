@@ -63,3 +63,26 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: community
     label: Community Partner
+
+speakers:
+  - id: "nicole-forsgren"
+    level: talk
+  - id: "megan-carney"
+    level: talk
+  - id: "jamie-riedesel"
+    level: talk
+  - id: "jeff-smith"
+    level: talk
+  - id: "ben-zvan"
+    level: talk
+  - id: "sarah-goff-dupont"
+    level: talk
+  - id: "allan-espinosa"
+    level: talk
+  - id: "charity-majors"
+    level: talk
+
+
+speaker_levels:
+  - id: talk
+    label: Talk
