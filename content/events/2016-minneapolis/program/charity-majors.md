@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Charity Majors"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/charitymajors/"]
 
 +++
@@ -25,12 +25,6 @@ What does this mean for you and me?  It means that good technical judgment is bo
 </p>
 
 
-<p><strong>Speaker:</strong>
-Charity Majors</p>
-<p>
-<a href="https://twitter.com/mipsytipsy">@mipsytipsy</a>
-<p>
-Cofounder and CTO of Hound, a new startup focused on mining machine data. Previously running infrastructure at Parse, engineering manager at Facebook. Worked with the RocksDB team to build and deploy world’s first Mongo+Rocks in production. Likes single malt scotch.</p>
 
   </div>
 </div>
