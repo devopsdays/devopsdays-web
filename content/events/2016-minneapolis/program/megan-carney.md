@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Megan Carney"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/megancarney/"]
 
 +++
@@ -33,15 +33,6 @@ It's fun to pretend you're the smartest person in the room ... until no one want
 
 </p>
 
-
-<p><strong>Speaker:</strong>
-Megan Carney
-</p>
-<p>
-<a href="https://twitter.com/PwnieFan">@PwnieFan</a>
-<p>
-Megan Carney is an Infosecurity engineer at Yelp. Previous to working with Yelp, she worked as an analyst at a university and a retail company. She tries to keep her paranoia at healthy levels while protecting Yelp from the evils of the Internet.
-</p>
 
   </div>
 </div>
