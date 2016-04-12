@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Allan Espinosa"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/allanespinosa/"]
 
 +++
@@ -23,18 +23,6 @@ However, if you look at everyday things like your air conditioner and thermostat
 </p>
 
 
-
-<p><strong>Speaker:</strong>
-Allan Espinosa
-</p>
-<p>
-<a href="https://twitter.com/AllanEspinosa">@AllanEspinosa</a>
-<p>
-Allan works at Engineyard where he supports customers' Deis, Docker and Kubernetes infrastructures in production. Prior to that, he worked on managing one of the world's largest CloudFoundry deployments using Chef.
-</p>
-<p>
-Allan is also the author of <i>Docker High Performance</i> from Packt Publishing. The book contains some worked examples and high level concepts on how to get Docker up and running in production.
-</p>
 
   </div>
 </div>
