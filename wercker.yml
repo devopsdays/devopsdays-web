@@ -20,3 +20,9 @@ deploy:
         domain: devopsdays.github.io
         basedir: public
         repo: devopsdays/devopsdays.github.io
+  after-steps:
+      - slack-notifier:
+          url: $SLACK_URL
+          channel: website
+          username: wercker-bot
+          branch: master
