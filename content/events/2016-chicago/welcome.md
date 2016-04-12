@@ -1,6 +1,4 @@
 +++
-City = "Chicago"
-Year = "2016"
 date = "2016-03-04T17:36:05-06:00"
 title = "welcome"
 type = "event"
