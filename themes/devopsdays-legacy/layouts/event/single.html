@@ -7,7 +7,6 @@
 
 {{ $path := split $.Source.File.Path "/" }}
 {{ $event_slug := index $path 1 }}
-{{ $event := (print .Params.year (lower .Params.city)) }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 
 {{/* end site data query */}}
@@ -35,7 +34,7 @@
       {{ range where $sponsors "level" .id }}
         {{ $s :=  (index $.Site.Data.sponsors .id) }}
         {{ if isset $.Site.Data.sponsors .id }}
-          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" width = "100px"></a>
+          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" width = "95px"></a>
         {{ end }}
       {{ end }}
       <div class = "sponsor-cta">
