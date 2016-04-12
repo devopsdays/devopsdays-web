@@ -1,13 +1,11 @@
 +++
-City = "Detroit"
-Year = "2016"
 date = "2016-03-06T21:17:14-06:00"
-title = "sponsor"
+title = "DevOpsDays Seattle 2016 - Sponsor Information"
 type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
 <hr>
 
@@ -19,7 +17,30 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
-<!--
+
+<table style="width:100%">
+  <tr>
+    <td>Gold Sponsorship <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="LDL9YT3DT62DC">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form></td>
+    <td>Silver Sponsorship <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="XSZA34MYCG3FS">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form></td>
+    <td>Bronze Sponsorship <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="F24MPPK5RC5Z8">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form></td>
+  </tr>
+</table>
+<hr/>
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
@@ -42,9 +63,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
 <hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
+There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event send us an email at {{< email_organizers >}}
 <br/>
 <br/>
 </div>
--->
+
 <hr/>
