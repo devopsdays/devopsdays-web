@@ -1,0 +1,80 @@
+{{ partial "header.html" . }}
+
+{{/*
+  This section is what creates the query to get at all the site data. If you need this somewhere, you can just copy
+  it and paste it. Need to figure out if a partial would expose the variables/elements/array created herein. It could be done in a partial (need to include the trailing .) but I don't think it would work in shortcodes, which is where we need it the most - mattstratton
+*/}}
+
+{{ $path := split $.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+{{ $event := (print .Params.year (lower .Params.city)) }}
+{{ $e :=  (index $.Site.Data.events $event_slug) }}
+
+{{/* end site data query */}}
+
+<div class = "container-fluid">
+  <div class="row">
+		<div class="col-md-8">
+      <h1> {{ $e.city }} {{ $e.year }} - {{ title .Title }} </h1>
+      <!-- Main navigation -->
+      <div class="submenu">
+        <h3>
+        {{ range $navigation := $e.navigationelements}}
+          <a href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
+        {{ end }}
+        </h3>
+      </div>
+
+      {{ .Content }}
+
+ <!-- speaker code begin -->
+
+      {{ $speakers := $e.speakers }}
+        {{ range $e.speaker_levels }}
+          {{ range where $speakers "level" .id }}
+          {{ $filename := (print .id ".md") }}
+            {{if eq $filename (index $path 3)}}
+              <h2>Speaker</h2>
+              {{ $s :=  (index $.Site.Data.events.minneapolis2016.speakers .id) }}
+              {{ if isset $.Site.Data.events.minneapolis2016.speakers .id }}
+                <h3>{{ $s.name }}</h3>
+                <a href="https://twitter.com/{{ $s.twitter }}"><img width="32px" height="32px" alt="twitter" title="twitter" src="/images/twitter.png">@{{ $s.twitter }}</a>
+                 <br><br>
+              {{ $s.bio | markdownify }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+
+<!-- speaker code end -->
+
+
+
+
+    </div>
+
+
+
+    <div class="col-md-4">
+    <!-- sponsor code begin -->
+    {{ $sponsors := $e.sponsors }}
+    {{ range $e.sponsor_levels }}
+    <h2>{{ .label }} Sponsors</h2>
+      {{ range where $sponsors "level" .id }}
+        {{ $s :=  (index $.Site.Data.sponsors .id) }}
+        {{ if isset $.Site.Data.sponsors .id }}
+          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" width = "95px"></a>
+        {{ end }}
+      {{ end }}
+      <div class = "sponsor-cta">
+        <a href = "/events/{{ $e.friendly }}/sponsor">Become a {{ .label }} Sponsor!</a>
+      </div>
+    {{ end }}
+
+    <!-- sponsor code end -->
+    </div>
+  </div>
+
+</div>
+{{ partial "footer.html" . }}
