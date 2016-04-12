@@ -3,7 +3,7 @@ City = "Minneapolis"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Jeff Smith"
-type = "event"
+type = "talk"
 aliases = ["/events/2016-minneapolis/program/jeffsmith/"]
 
 +++
@@ -39,15 +39,6 @@ and more! Don’t think these hurdles are new or unique. You’ll get through th
 
 </p>
 
-
-<p><strong>Speaker:</strong>
-Jeff Smith
-</p>
-<p>
-<a href="https://twitter.com/DarkAndNerdy">@DarkAndNerdy</a>
-<p>
-Jeff Smith has been in the technology field for over 15 years, oscillating between manager and individual contributor. He currently serves as the Manager of Site Reliability Engineering at GrubHub. Jeff enjoys discussing the psychological aspect of problems in organizations. Jeff is also one of the co-founders of the Chicago Nerd Social Club. He occasionally musters up the strength to write on his All Things Dork blog.
-</p>
 
   </div>
 </div>
