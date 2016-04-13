@@ -27,7 +27,7 @@ proposal_email: "proposals-chicago-2016@devopsdays.org"
 ga_tracking_id: "UA-74738648-1"
 
 sponsors:
-  - id: chef
+  - id: chef-2016
     level: gold
   - id: arresteddevops
     level: community
