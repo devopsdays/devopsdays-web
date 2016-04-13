@@ -2,16 +2,13 @@
 date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
-City = "raleigh"
-Year = "2016"
 aliases = ["/events/2016-raleigh"]
-draft = false
 
 +++
 
 ## {{< event_start >}} - {{< event_end >}}
 
-Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tuned to our <a href="https://twitter.com/devopsdaysTRI">twitter account</a> as we solidify plans for the event. 
+Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tuned to our <a href="https://twitter.com/devopsdaysTRI">twitter account</a> as we solidify plans for the event.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
