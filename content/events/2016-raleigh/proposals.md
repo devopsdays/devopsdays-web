@@ -1,9 +1,10 @@
 +++
-City = "Singapore"
-Year = "2016"
+City = ""
+Year = ""
 date = "2016-03-06T21:28:14-06:00"
 title = "proposals"
 type = "event"
+draft = true
 
 +++
 
