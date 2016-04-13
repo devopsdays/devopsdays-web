@@ -10,7 +10,7 @@ type = "event"
 ### Conference location:
 DevOps Days Toronto is being hosted at the Glenn Gould Studio located at corner of Front and John in the Canadian Broadcasting Centre. The Studio and its washrooms are wheelchair accessible.<br><br>
 <b><a href="http://music.cbc.ca/#!/glenngould/studio/" target="_blank">Glenn Gould Studios</a>:</b> 250 Front St West, Toronto, ON. M5V 3G5 - (416) 205-5000<br><br>
-<img width="580px" src="/img/events/2016-toronto/corporate-StageOverhead.jpg" alt="Glenn Gould Studios Overhead - DevOps Days Toronto" />
+<img width="580px" src="/events/2016-toronto/corporate-StageOverhead.jpg" alt="Glenn Gould Studios Overhead - DevOps Days Toronto" />
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1443.5872637504913!2d-79.3879314!3d43.6445371!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x7c5132f735d581a8!2sCBC+-+Canadian+Broadcasting+Corporation!5e0!3m2!1sen!2sca!4v1447623546736" width="580" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br><br>
@@ -29,4 +29,4 @@ There are a number of parking lots near the Canadian Broadcasting Centre. Please
 Toronto is a world class city with a multitude of accomodation options near Glenn Gould Studios. We are investigating group space at a nearby hotel. More details will be shared in the near future.
 
 ### Tourism
-Come to Toronto for DevOps Days, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports? 
+Come to Toronto for DevOps Days, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?
