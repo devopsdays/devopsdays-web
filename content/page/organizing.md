@@ -166,9 +166,9 @@ If you have some legal entity created for the event, have the details at hand (l
 
 ---
 
-## Designing a devopsdays logo
+## Designing a local event's devopsdays logo
 
-The devopsdays logo with the gears in the brain has become recognizable for the overall devopsdays brand.  For each individual devopsdays event you should take elements from this and design something that denotes your city specifically.
+The devopsdays logo with the gears in the brain has become recognizable for the overall devopsdays brand. For each individual devopsdays event you can take elements from the devopsdays brand logo. This is optional, but recommended. The goal should be to design something that denotes your city specifically.
 
 Note different existing logos:
 
