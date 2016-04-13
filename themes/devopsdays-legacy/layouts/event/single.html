@@ -18,11 +18,22 @@
       <!-- Main navigation -->
       <div class="submenu">
         <h3>
-        {{ range $navigation := $e.navigationelements}}
-          <a href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
+        {{ if $e.nav_elements }}
+          {{ range $e.nav_elements }}
+            {{ if .url }}
+              <a href="{{ .url}}">{{ .name }}</a>&nbsp;
+            {{ else }}
+              <a href="/events/{{ $event_slug }}/{{ .name }}">{{ .name }}</a>&nbsp;
+            {{ end }}
+          {{ end }}
+        {{ else }}
+          {{ range $navigation := $e.navigationelements}}
+            <a href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
+          {{ end }}
         {{ end }}
         </h3>
       </div>
+      <!-- end main navigation -->
 
       {{ .Content }}
     </div>
