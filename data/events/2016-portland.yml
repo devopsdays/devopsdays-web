@@ -5,12 +5,20 @@ friendly: "2016-portland" # Four digit year and the city name in lower-case. Don
 status: "current" # Options are "past" or "current".
 startdate: 2016-08-09 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-08-10 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-01
+cfp_date_start: 2016-03-15
+cfp_date_end: 2016-05-23
 cfp_date_announce: 2016-07-01
 coordinates: "45.528562, -122.663028" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Oregon Convention Center" # The name of your location
-navigationelements: ["welcome", "propose", "location", "registration", "sponsor", "contact", "conduct"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+location: "The Oregon Convention Center" # The name of your location
+nav_elements:
+  - name: welcome
+  - name: propose
+  - name: location
+  - name: registration
+    url: https://devopsdayspdx2016.busyconf.com/bookings/new
+  - name: sponsor
+  - name: contact
+  - name: conduct
 team: ["Bill Weiss", "Alice Goldfuss", "Alistair Drong", "Daniel Dreier", "Jason Yee", "Joe Nuspi", "Michelle Carroll", "Rich Burroughs", "Spencer Krum"]
 organizer_email: "organizers-portland-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal email address here
