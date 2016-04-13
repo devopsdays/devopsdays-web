@@ -57,13 +57,13 @@ type = "event"
 <div class="span-2">13:00-13:30</div><div class="span-4 box last"><strong>Ignites</strong> <br />
 </div>
 
-<div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space Opening</div>
+<div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space Opening</strong> <br /> Introduction and session nominations</div>
 
-<div class="span-2">14:00-14:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #1</div>
+<div class="span-2">14:00-14:45</div><div class="span-4 box last"><strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> <br /> Open Space #1</div>
 
-<div class="span-2">15:00-15:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #2</div>
+<div class="span-2">15:00-15:45</div><div class="span-4 box last"><strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> <br /> Open Space #2</div>
 
-<div class="span-2">16:00-16:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #3</div>
+<div class="span-2">16:00-16:45</div><div class="span-4 box last"><strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> <br /> Open Space #3</div>
 
 <div class="span-2">16:45-17:00</div><div class="span-4 box last"><strong></strong>Close Day & Logistics</div>
 
@@ -119,13 +119,13 @@ type = "event"
 
 </div>
 
-<div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space Opening</div>
+<div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space Opening</strong> <br /> Introduction and session nominations</div>
 
-<div class="span-2">14:00-14:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #1</div>
+<div class="span-2">14:00-14:45</div><div class="span-4 box last"><strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> <br /> Open Space #1</div>
 
-<div class="span-2">15:00-15:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #2</div>
+<div class="span-2">15:00-15:45</div><div class="span-4 box last"><strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> <br /> Open Space #2</div>
 
-<div class="span-2">16:00-16:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #3</div>
+<div class="span-2">16:00-16:45</div><div class="span-4 box last"><strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> <br /> Open Space #3</div>
 
 <div class="span-2">17:00</div><div class="span-4 box last"><strong></strong>Close Day & Farewell</div>
 
