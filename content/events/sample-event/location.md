@@ -5,7 +5,7 @@ type = "event"
 draft = true
 
 +++
-<h4>
 
 Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
-<p>
+
+<!-- {{< event_map >}} -->
