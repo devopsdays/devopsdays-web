@@ -166,6 +166,21 @@ If you have some legal entity created for the event, have the details at hand (l
 
 ---
 
+## Designing a local event's devopsdays logo
+
+The devopsdays logo with the gears in the brain has become recognizable for the overall devopsdays brand. For each individual devopsdays event you can take elements from the devopsdays brand logo. This is optional, but recommended. The goal should be to design something that denotes your city specifically.
+
+Note different existing logos:
+
+- Silicon Valley 2016 - Bridges inside the gears in the brain
+- Seattle 2016 - Needle using the gears with a backdrop of mountains
+- Chicago 2016 - Simple whimsical inversion of gears in the brain
+- Minneapolis 2016 - A very different take, still using the gear
+
+A simple exercise to do with your organizers would be to ask for one word descriptions of your city and then review and vote on the list.
+
+---
+
 ## Announce your event
 
 Once you have a time and place, you can announce your event to the world! It's great if you've had a chance to open your CFP and registration, though those aren't essential to announce your dates.
