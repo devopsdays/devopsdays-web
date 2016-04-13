@@ -4,14 +4,14 @@ Year ="2016"
 date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2016-detroit"]
+aliases = ["/events/2016-saltlakecity"]
 
 
 +++
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to XXXXXX
+DevOps Days is coming to Salt Lake City
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
