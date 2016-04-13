@@ -10,14 +10,24 @@ cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
 coordinates: "41.882219, -87.640530"
 location: "Summit West"
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "conduct", "sponsor"]
+newnav: "yes"
+# navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "conduct", "sponsor"]
+nav_elements:
+  - name: welcome
+  - name: contact
+  - name: location
+  - name: program
+  - name: propose
+  - name: conduct
+  - name: sponsor
+
 team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
 organizer_email: "organizers-chicago-2016@devopsdays.org"
 proposal_email: "proposals-chicago-2016@devopsdays.org"
 ga_tracking_id: "UA-74738648-1"
 
 sponsors:
-  - id: chef
+  - id: chef-2016
     level: gold
   - id: arresteddevops
     level: community
