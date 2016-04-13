@@ -5,29 +5,27 @@ friendly: "2016-singapore" # Four digit year and the city name in lower-case. Do
 status: "current" # Options are "past" or "current".
 startdate: 2016-10-08 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-10-09 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-01
-cfp_date_announce: 2016-07-01
-coordinates: "41.882219, -87.640530" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
+cfp_date_start: 2016-03-24
+cfp_date_end: 2016-08-15
+cfp_date_announce: 2016-08-29
+coordinates: "1.293396, 103.853462" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Raffles City Convention Centre, Singapore" # The name of your location
+# List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+navigationelements: [
+  "welcome",
+  "location",
+  "propose",
+  "sponsor",
+  "contact",
+  "conduct"
+]
+team: ["Christian Trabold", "Maris Prabhakaran", "Satyam Agarwala", "Sergiu Bodiu"]
 organizer_email: "organizers-singapore-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-singapore-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: chef
+  - id: Be the first sponsor!
     level: gold
-  - id: datadog
-    level: gold
-  - id: arresteddevops
-    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    label:
