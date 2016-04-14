@@ -1,17 +1,14 @@
 +++
-City = "SaltLakeCity"
-Year ="2016"
 date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2016-saltlakecity"]
-
+aliases = ["/events/2016-raleigh"]
 
 +++
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to Salt Lake City
+Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tuned to our <a href="https://twitter.com/devopsdaysTRI">twitter account</a> as we solidify plans for the event.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
