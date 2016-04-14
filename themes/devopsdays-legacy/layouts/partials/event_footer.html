@@ -1,0 +1,30 @@
+{{ $path := split $.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index $.Site.Data.events $event_slug) }}
+
+</div>
+
+
+
+<div class="col-md-4">
+<!-- sponsor code begin -->
+{{ $sponsors := $e.sponsors }}
+{{ range $e.sponsor_levels }}
+<h2>{{ .label }} Sponsors</h2>
+  {{ range where $sponsors "level" .id }}
+    {{ $s :=  (index $.Site.Data.sponsors .id) }}
+    {{ if isset $.Site.Data.sponsors .id }}
+      <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" width = "95px"></a>
+    {{ end }}
+  {{ end }}
+  <div class = "sponsor-cta">
+    <a href = "/events/{{ $e.friendly }}/sponsor">Become a {{ .label }} Sponsor!</a>
+  </div>
+{{ end }}
+
+<!-- sponsor code end -->
+</div>
+</div>
+
+</div>
+{{ partial "footer.html" . }}
