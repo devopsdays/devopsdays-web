@@ -1,31 +1,23 @@
 +++
-City = "Singapore"
-Year = "2016"
+
 date = "2016-03-06T21:17:14-06:00"
 title = "sponsor"
 type = "event"
 
+
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please <a href="mailto:organizers-singapore-2016@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2016">drop us an email</a>.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
+<hr>
 
-Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-
+DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+<br>
+Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+<br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-
-
-## Why Sponsor Us?
-
-The DevOpsDays event mandate is to bring the highest­ quality speakers, experts, and the curious together.
-
-Singapore is not only one of the fastest growing startup hubs in the world but is also a trusted healthcare, telecom, and financial services nexus in Asia with strong investment in technology from the Government. We aim to attract representation from large enterprises and the startup community alike.
-
-By sponsoring DevOpsDays, you will be exposing your company’s brand and services to Singapore and Southeast Asia’s top talent in this rapidly growing space.
-
-Sounds good? <a href="mailto:organizers-singapore-2016@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2016">Drop us an email</a>!
-
+<br>
+<hr/>
 
 <!--
 
