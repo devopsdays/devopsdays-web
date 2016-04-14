@@ -30,7 +30,7 @@
 
  <!-- speaker code begin -->
 
- {{ range $fname, $s := index .Site.Data.events (printf "%s%s" (lower $e.city) $e.year) }}
+ {{ range $fname, $s := index .Site.Data.speakers (printf "%s%s" $e.year (lower $e.city) ) }}
    {{ if eq $fname ($.Title | urlize) }}
      <h2>Speaker</h2>
      <h3>{{ $s.name }}</h3>
