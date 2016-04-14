@@ -1,61 +1,9 @@
-{{ partial "header.html" . }}
-
-{{/*
-  This section is what creates the query to get at all the site data. If you need this somewhere, you can just copy
-  it and paste it. Need to figure out if a partial would expose the variables/elements/array created herein. It could be done in a partial (need to include the trailing .) but I don't think it would work in shortcodes, which is where we need it the most - mattstratton
-*/}}
+{{ partial "event_header.html" . }}
 
 {{ $path := split $.Source.File.Path "/" }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 
-{{/* end site data query */}}
-
-<div class = "container-fluid">
-  <div class="row">
-		<div class="col-md-8">
-      <h1> {{ $e.city }} {{ $e.year }} - {{ title .Title }} </h1>
-      <!-- Main navigation -->
-      <div class="submenu">
-        <h3>
-        {{ if $e.nav_elements }}
-          {{ range $e.nav_elements }}
-            {{ if .url }}
-              <a href="{{ .url}}">{{ .name }}</a>&nbsp;
-            {{ else }}
-              <a href="/events/{{ $event_slug }}/{{ .name }}">{{ .name }}</a>&nbsp;
-            {{ end }}
-          {{ end }}
-        {{ else }}
-          {{ range $navigation := $e.navigationelements}}
-            <a href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
-          {{ end }}
-        {{ end }}
-        </h3>
-      </div>
-      <!-- end main navigation -->
-
       {{ .Content }}
-    </div>
-    <div class="col-md-4">
-    <!-- sponsor code begin -->
-    {{ $sponsors := $e.sponsors }}
-    {{ range $e.sponsor_levels }}
-    <h2>{{ .label }} Sponsors</h2>
-      {{ range where $sponsors "level" .id }}
-        {{ $s :=  (index $.Site.Data.sponsors .id) }}
-        {{ if isset $.Site.Data.sponsors .id }}
-          <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" width = "95px"></a>
-        {{ end }}
-      {{ end }}
-      <div class = "sponsor-cta">
-        <a href = "/events/{{ $e.friendly }}/sponsor">Become a {{ .label }} Sponsor!</a>
-      </div>
-    {{ end }}
 
-    <!-- sponsor code end -->
-    </div>
-  </div>
-
-</div>
-{{ partial "footer.html" . }}
+{{ partial "event_footer.html" . }}
