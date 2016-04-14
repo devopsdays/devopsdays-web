@@ -1,0 +1,12 @@
+---
+extension: html
+filter:    
+- erb
+- markdown
+author: Rachel Davies
+event: 2009-ghent
+dirty: true
+title: "Non-Functional Requirements: do user stories really help?"
+video: "http://blip.tv/file/3021957/" 
+slides: "/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf"
+---
