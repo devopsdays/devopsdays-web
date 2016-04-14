@@ -4,6 +4,8 @@ Description = ""
 Tags = []
 date = "2016-04-14T11:28:51-05:00"
 title = "Devopsdays - openspace concept"
+aliases = ["/pages/open-space-format/"]
+
 
 +++
 
