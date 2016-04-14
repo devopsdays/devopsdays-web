@@ -10,8 +10,14 @@ cfp_date_end: 2016-05-31
 cfp_date_announce: 2016-04-18
 coordinates: "35.779590,-78.638179" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Raleigh, North Carolina" # The name of your location
-# navigationelements: ["welcome", "propose", "location", "registration", "sponsor", "contact", "conduct"]
-navigationelements: ["welcome", "location", "sponsor", "contact"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+  - name: welcome
+  - name: contact
+  - name: location
+  # - name: program
+  # - name: propose
+  - name: conduct
+  - name: sponsor
 team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "Chris Knotts", "Mark Mzyk"]
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
