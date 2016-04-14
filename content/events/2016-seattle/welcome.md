@@ -9,15 +9,14 @@ aliases = ["/events/2016-detroit"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
+<div style="float: left; padding-right: 20px;">
+  {{< event_logo >}}
+</div>
 DevOps Days is coming to Seattle!
 
 DevOpsDays Seattle brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. With over 10% in technology job growth in the last two years, Seattle is considered by many to be the tech hub of America.
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<table>
+<table style="clear: both;">
   <tr>
     <td><b>Dates</b></td>
     <td>{{< event_start >}} - {{< event_end >}}
