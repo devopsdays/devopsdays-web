@@ -5,6 +5,9 @@ build:
         version: 0.15
         theme: devopsdays-legacy
         flags: --buildDrafts=false
+  after-steps:
+      - wantedly/pretty-slack-notify:
+          webhook_url: $SLACK_WEBHOOK_URL
 
 deploy:
   steps:
@@ -21,8 +24,5 @@ deploy:
         basedir: public
         repo: devopsdays/devopsdays.github.io
   after-steps:
-      - slack-notifier:
-          url: $SLACK_URL
-          channel: website
-          username: wercker-bot
-          branch: master
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
