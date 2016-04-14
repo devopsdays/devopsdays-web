@@ -1,0 +1,12 @@
+---
+extension: html
+filter:    
+- erb
+- markdown
+author: Chris Read
+event: 2009-ghent
+dirty: true
+title: "Continuous Integration, Pipelines and Deployment"
+video: "http://blip.tv/file/3022239/" 
+slides: "/blog/wp-content/uploads/2010/02/rachel-davies-nonfunctional-devopsdays.pdf"
+---
