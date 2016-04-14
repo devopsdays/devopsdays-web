@@ -29,8 +29,15 @@
 
 
  <!-- speaker code begin -->
-
- {{ range $fname, $s := index .Site.Data.speakers (printf "%s%s" $e.year (lower $e.city) ) }}
+ {{/*
+   For future reference, this range listed below is going to be a key element for when we refactor the data directory
+   Notice how you pass the variables, etc. So the new code would probably be something like this:
+   .Site.Data.events $e.year "speakers" (printf "%s" (lower $e.city))
+   and to get at the meta.yml for the city it will be
+   .Site.Data.events $e.year (printf "%s" (lower $e.city))
+   - mattstratton
+ */}}
+ {{ range $fname, $s := index .Site.Data.speakers $e.year (printf "%s" (lower $e.city)) }}
    {{ if eq $fname ($.Title | urlize) }}
      <h2>Speaker</h2>
      <h3>{{ $s.name }}</h3>
