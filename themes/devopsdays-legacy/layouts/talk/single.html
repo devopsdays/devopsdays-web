@@ -30,27 +30,15 @@
 
  <!-- speaker code begin -->
 
-      {{ $speakers := $e.speakers }}
-        {{ range $e.speaker_levels }}
-          {{ range where $speakers "level" .id }}
-          {{ $filename := (print .id ".md") }}
-            {{if eq $filename (index $path 3)}}
-
-              <h2>Speaker</h2>
-
-{{ $s := (index (.Site.Data.events (printf "%s%s" ($e.city | lower) $e.year)) .id) }}
-{{ if isset (index .Site.Data.events (printf "%s%s" ($e.city | lower) $e.year)) .id }}
-
-
-{{ print $s }}
-                <h3>{{ $s.name }}</h3>
-                <a href="https://twitter.com/{{ $s.twitter }}"><img width="32px" height="32px" alt="twitter" title="twitter" src="/images/twitter.png">@{{ $s.twitter }}</a>
-                 <br><br>
-              {{ $s.bio | markdownify }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
+ {{ range $fname, $s := index .Site.Data.events (printf "%s%s" (lower $e.city) $e.year) }}
+   {{ if eq $fname ($.Title | urlize) }}
+     <h2>Speaker</h2>
+     <h3>{{ $s.name }}</h3>
+     <a href="https://twitter.com/{{ $s.twitter }}"><img width="32px" height="32px" alt="twitter" title="twitter" src="/images/twitter.png">@{{ $s.twitter }}</a>
+     <br><br>
+     {{ $s.bio | markdownify }}
+   {{ end }}
+ {{ end }}
 
 
 <!-- speaker code end -->
