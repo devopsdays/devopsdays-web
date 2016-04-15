@@ -19,7 +19,31 @@ nav_elements:
   - name: sponsor
   - name: contact
   - name: conduct
-team: ["Bill Weiss", "Alice Goldfuss", "Alistair Drong", "Daniel Dreier", "Jason Yee", "Joe Nuspi", "Michelle Carroll", "Rich Burroughs", "Spencer Krum"]
+team_members:
+  - name: "Bill Weiss"
+    twitter: "billweiss"
+    employer: "Puppet"
+  - name: "Alice Goldfuss"
+    twitter: "alicegoldfuss"
+    employer: "New Relic"
+  - name: "Alastair Drong"
+  - name: "Daniel Dreier"
+    twitter: "daniel_dreier"
+    employer: "Puppet"
+  - name: "Jason Yee"
+    twitter: "@gitbisect"
+  - name: "Joe Nuspl"
+    twitter: "joenuspl"
+    employer: "Workday"
+  - name: "Michelle Carroll"
+    twitter: "miiiiiche"
+    employer: "Elastic"
+  - name: "Rich Burroughs"
+    twitter: "richburroughs"
+    employer: "Yesmail"
+  - name: "Spencer Krum"
+    twitter: "nibalizer"
+    employer: "IBM"
 organizer_email: "organizers-portland-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
