@@ -77,3 +77,6 @@
 .sponsor-cta {
   clear: both;
 }
+.twitter-sidebar {
+  overflow: hidden;
+}
