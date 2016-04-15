@@ -18,6 +18,7 @@ nav_elements:
   - name: location
   - name: program
   - name: propose
+    url: http://cfp.devopsdayschi.org
   - name: conduct
   - name: sponsor
 
