@@ -1,23 +1,28 @@
-<div style="height:550px;" id="quicklinks">
-  <table>
-    <tr>
-      <td>
-        <strong>2016</strong><br/>
-        <a href="/events/2016-vancouver/">Vancouver - Apr 15 & 16</a><br/>
-        <a href="/events/2016-london/">London - Apr 19 & 20</a><br/>
-        <a href="/events/2016-denver/">Denver - Apr 21 & 22</a><br/>
-        <a href="/events/2016-atlanta/">Atlanta - Apr</a><br/>
-        <a href="/events/2016-kiel/">Kiel - May 12 & 13</a><br/>
-        <a href="/events/2016-seattle/">Seattle - May 12 & 13</a><br/>
-        <a href="/events/2016-toronto/">Toronto - May 26 & 27</a><br/>
-        <a href="/events/2016-washington-dc/">Washington, DC - Jun 8 & 9</a><br/>
-        <a href="/events/2016-minneapolis/">Minneapolis - Jul 20 & 21</a><br/>
-        <a href="/events/2016-edinburgh/">Edinburgh - Jul</a><br/>
-        <a href="/events/2016-saltlakecity/">Salt Lake City</a><br/>
-        <a href="/events/2016-philadelphia/">Philadelphia</a><br/>
-        <a href="/events/2016-portland/">Portland - Aug 9 & 10</a><br/>
-        <a href="/events/2016-istanbul/">Istanbul</a><br/>
-      </td>
-    </tr>
-  </table>
-</div>
+<div class="span-6 last">
+    <div style=" padding-top:18px;" class="span-5 last">
+        <h1>Future</h1>
+    </div>
+
+    <div class="span-6 last">
+        <div style="height:700px;" id="quicklinks">
+            <table>
+                <tr>
+                    <div style="display:table-cell; vertical-align:top">
+                        <div style="margin:1px;">
+                            <strong>2016</strong> <!--lazy hardcoding! -->
+                            <br/>
+
+                            {{ range $.Site.Data.events }}
+                              {{ if eq .status "current" }}
+                                <a href="/events/{{ .friendly}}">{{ .city }}: {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}</a>
+                                <br />
+                              {{ end }}
+                            {{ end }}
+                        </div>
+                    </div>
+
+                </tr>
+            </table>
+        </div>
+    </div>
+  </div>
