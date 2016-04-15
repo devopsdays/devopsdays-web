@@ -11,23 +11,12 @@
      {{ partial "upcoming_headline.html" . }}
      {{ partial "map.html" .}}
   </div>
-  <div class="span-8 last">
-      {{ partial "twitterfeed.html" . }}
-  </div>
 
-  <div style="padding-top:18px;" class="span-18">
-    <h1>Past</h1>
-  </div>
-  <div style="padding-top:18px;" class="span-5 last">
-    <h1>Future</h1>
-  </div>
+    <div class="span-8 last twitter-sidebar">
+        {{ partial "twitterfeed.html" . }}
+    </div>
 
-  <div class="span-18">
     {{ partial "past.html" . }}
-  </div>
-  <div class="span-5 last">
     {{ partial "future.html" . }}
-  </div>
-</div>
 
 {{ partial "footer.html" . }}
