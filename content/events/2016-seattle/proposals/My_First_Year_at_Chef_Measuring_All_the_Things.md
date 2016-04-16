@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T10:56:22-07:00"
 title = "My First Year at Chef: Measuring All the Things"
-type = "event"
+type = "talk"
 
 +++
 
