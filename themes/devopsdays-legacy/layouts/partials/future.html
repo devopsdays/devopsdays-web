@@ -12,7 +12,7 @@
                             <strong>2016</strong> <!--lazy hardcoding! -->
                             <br/>
 
-                            {{ range $.Site.Data.events }}
+                            {{ range sort $.Site.Data.events "startdate" "asc"}}
                               {{ if eq .status "current" }}
                                 <a href="/events/{{ .friendly}}">{{ .city }}: {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}</a>
                                 <br />
