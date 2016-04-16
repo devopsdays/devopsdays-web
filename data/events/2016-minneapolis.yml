@@ -53,6 +53,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: softwaredefinedtalk
     level: community
+  - id: target
+    level: gold
+  - id: govdelivery
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
