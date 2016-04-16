@@ -9,38 +9,37 @@ aliases = ["/events/2016-saltlakecity"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+## DevOps Days is coming to the Silicon Slopes!
 
-DevOps Days is coming to Salt Lake City
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+**For the most up to date information, visit our official page by clicking the image below**
+<div style=text-align:center>
+<a href="http://slcdevopsdays.org">{{< event_logo >}}</a>
+</div> 
 
 <table>
   <tr>
     <td><b>Dates</b></td>
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
+    <td><a href=http://www.cs1893.com>Church and State</a><p>370 S 300 E Salt Lake City
+  </tr>
+  <tr>
     <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
+    <td><a href=http://slcdevopsdays.org/speaker-proposals/>Propose a talk.</a></td>
+  </tr>
+  <tr>
     <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
+    <td><a href=http://slcdevopsdays.org/register/>Register to attend the event!</a></td>
+  </tr>
+<!--  <tr>
     <td><b>Speakers</b></td>
     <td>View the {{< event_link page="program" text="program" >}}.</td>
   </tr> -->
   <tr>
     <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
+    <td><a href=http://slcdevopsdays.org/our-sponsors/>Sponsor the event!</a> It's a great way to attract new talent and promote your organization.</td>
   </tr>
   <tr>
     <td><b>Contact</b></td>
@@ -49,7 +48,7 @@ DevOps Days is coming to Salt Lake City
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdayschi >}} <!-- add your twitter name here without the @ sign -->
+    {{< event_twitter devopsdaysslc >}} <!-- add your twitter name here without the @ sign -->
     </td>
   </tr>
 </table>
