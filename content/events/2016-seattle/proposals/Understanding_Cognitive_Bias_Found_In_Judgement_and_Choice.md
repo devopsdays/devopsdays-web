@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T12:18:48-07:00"
 title = "Understanding Cognitive Bias Found In Judgement & Choice"
-type = "event"
+type = "talk"
 
 +++
 
