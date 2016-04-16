@@ -55,6 +55,13 @@ type = "event"
 <div class="span-2">11:50-13:00</div><div class="span-4 append-bottom last">Lunch (catered)</div>
 
 <div class="span-2">13:00-13:30</div><div class="span-4 box last"><strong>Ignites</strong> <br />
+  <a href="https://twitter.com/cote">Michael Coté</a> - <a href="/events/2016-seattle/proposals/How_to_survive_and_thrive_in_a_big_company">How to survive and thrive in a big company</a>
+  <br /><br />
+  <a href="https://twitter.com/EverydayKanban">Julia Wester</a> - <a href="/events/2016-seattle/proposals/Combat_Chaos_Driven_Delivery_by_thinking_like_an_OS">Combat Chaos-Driven Delivery by thinking like an OS</a>
+  <br /><br />
+  <a href="https://twitter.com/luckylefky">Adam Lefkowitz</a> - <a href="/events/2016-seattle/proposals/How_DevOps_could_have_saved_the_Super_Sonics">How DevOps could have saved the Super Sonics</a>
+  <br /><br />
+  <a href="https://twitter.com/jjasghar">JJ Asghar</a> - <a href="/events/2016-seattle/proposals/Being_an_introvert_at_a_conference_is_not_as_hellish_as_you_think">Being an introvert at a conference is not as hellish as you think</a>
 </div>
 
 <div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space Opening</strong> <br /> Introduction and session nominations</div>
@@ -116,7 +123,13 @@ type = "event"
 <div class="span-2">11:50-13:00</div><div class="span-4 append-bottom last">Lunch (catered)</div>
 
 <div class="span-2">13:00-13:30</div><div class="span-4 box last"><strong>Ignites</strong> <br />
-
+  <a href="https://twitter.com/chadeb">Chad Buffett</a> - <a href="/events/2016-seattle/proposals/DevOps_at_Expedia_Local_Expert">DevOps at Expedia Local Expert</a>
+  <br /><br />
+  <a href="https://twitter.com/dominicad">Dominica DeGrandis</a> - <a href="/events/2016-seattle/proposals/Why_Weekends_Matter">Why Weekends Matter</a>
+  <br /><br />
+  <a href="https://twitter.com/scottnasello">Scott Nasello</a> - <a href="/events/2016-seattle/proposals/The_first_50_nodes_the_story_of_our_journey_at_a_Windows-centric_enterprise">The first 50 nodes... the story of our journey at a Windows-centric enterprise</a>
+  <br /><br />
+  <a href="https://twitter.com/OguzPastirmaci">Oguz Pastirmaci</a> - <a href="/events/2016-seattle/proposals/Moving_from_SysAdmin_to_DevOps">Everything you always wanted to know about moving from a regular sysadmin role to a DevOps role (but were afraid to ask)</a>
 </div>
 
 <div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space Opening</strong> <br /> Introduction and session nominations</div>
