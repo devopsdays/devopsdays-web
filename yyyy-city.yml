@@ -21,6 +21,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: sponsor
 team: ["John Doe", "Jane Smith", "Sally Fields"]
+team_members:
+  - name: "John Doe"
+  - name: "Jane Smith"
+    twitter: "devopsdays"
+  - name: "Sally Fields"
+    employer: "Acme Anvil Co."
 organizer_email: "organizers-city-year@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-city-year@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
