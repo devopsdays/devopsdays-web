@@ -31,7 +31,6 @@ through these lists to generate our event info.
                         <div style="margin:1px;">
                             {{ range ($.Scratch.GetSortedMapValues "future_years") }}
                                 <strong>{{ . }}</strong><br/>
-
                                 {{ range ($.Scratch.GetSortedMapValues (print "future" .)) }}
                                     {{ $c_event := (index $.Site.Data.events .) }}
                                     <a href="/events/{{ $c_event.friendly }}">{{ $c_event.city }}: {{ dateFormat "Jan 2" $c_event.startdate }} - {{ dateFormat "Jan 2" $c_event.enddate }}</a><br />
