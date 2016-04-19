@@ -23,7 +23,7 @@ function initialize() {
     var markers = [
       {{ range $.Site.Data.events }}
         {{ if eq .status "current" }}
-          ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ .startdate }}', '/events/{{ .friendly }}'],
+          ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}', '/events/{{ .friendly }}'],
         {{ end }}
       {{ end }}
     ];
