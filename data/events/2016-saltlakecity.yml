@@ -26,7 +26,21 @@ nav_elements:
     url: http://slcdevopsdays.org/register/
   - name: conduct
     url: http://slcdevopsdays.org/code-of-conduct/
-team: ["Jason Vance", "David Snider", "Allia DeAngelis", "Thomas Cook", "Mike Duffy", "Alex Lutz", "Trent Cameron"]
+team_members:
+  - name: "Jason Vance"
+    twitter: "jasonsvance"
+    employer: "Mojo Marketplace"
+  - name: "David Snider"
+    twitter: "davidasnider"
+    employer: "Optum Technology"
+  - name: "Allia DeAngelis"
+    twitter: "adeangelis"
+    employer: "NCR"
+  - name: "Trent Cameron"
+  - name: "Thomas Cook"
+  - name: "Mike Duffy"
+  - name: "Alex Lutz"
+
 organizer_email: "organizers-saltlakecity-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-saltlakecity-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
