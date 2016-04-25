@@ -13,7 +13,9 @@ through these lists to generate our event info.
   {{ range $.Site.Data.events }}
     {{ if and (eq .year $future_year) (eq .status "current") }}
       {{ $.Scratch.SetInMap "future_years" $future_year $future_year }}
-      {{ $.Scratch.SetInMap (print "future" $future_year) .startdate .friendly }}
+      {{ if .startdate }}
+        {{ $.Scratch.SetInMap (print "future" $future_year) .startdate .friendly }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}

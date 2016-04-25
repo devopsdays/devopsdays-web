@@ -3,7 +3,7 @@
 {{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 {{ $enddate := $e.enddate}}
 
-{{ if isset $e "enddate" }}
+{{ if $enddate }}
   {{ dateFormat "Monday, Jan 2, 2006" $enddate }}
 {{ else }}
   TBD

@@ -13,9 +13,11 @@ draft = false
 
 DevOps Days is coming to Ohio!
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+Thanks to a great success in <a href="http://www.devopsdays.org/events/2015-ohio">DevOpsDays Ohio 2015</a>, we are now planning to have it once again for 2016! More details to come!
 
 <table>
   <tr>
