@@ -7,7 +7,7 @@ title = "John Willis"
 
 +++
 
-### Coming Soon
+### Devops Enterprise State of the Union
 
 **Abstract:**
 
