@@ -15,30 +15,36 @@ cfp_date_announce: 2016-10-01 # inform proposers of status
 # Location
 #
 coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "yourlocation" # Defaults to city, but you can make it the venue name.
+location: "Ohio" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
-#  - name: registration
+  - name: location
   - name: sponsor
+  - name: program
   - name: contact
   - name: conduct
 
 # These are the same people you have on the mailing list and Slack channel.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
+#team: ["John Doe", "Jane Smith", "Sally Fields"]
+team: ["Ben Blanquera","Bill Schwanitz","Dan Sajner","David Laulusa","Faye Thompson","Kyle Jenkins","Mark Goodmanson","Matt Stratton","Michael Ducy","Michael Swartzbaugh","Warner Moore"]
+
+
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-organizer_email: "organizers-city-year@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-city-year@devopsdays.org" # Put your proposal email address here
+ - name: "Ben Blanquera"
+ - name: "Bill Schwanitz"
+ - name: "Dan Sajner"
+ - name: "David Laulusa"
+ - name: "Faye Thompson"
+ - name: "Kyle Jenkins"
+ - name: "Mark Goodmanson"
+ - name: "Matt Stratton"
+ - name: "Michael Ducy"
+ - name: "Michael Swartzbaugh"
+ - name: "Warner Moore"
+organizer_email: "organizers-ohio-2015@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-ohio-2015@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
