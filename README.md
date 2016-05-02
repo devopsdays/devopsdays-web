@@ -47,3 +47,7 @@ There are a few simple guidelines regarding sponsor logo files and formatting:
 * There must *not* be a border.
 
 All logos will be constrained, via markup, to 100px square; combined with the image file dimensions, this allows for high-density displays (ex. Retina). A border will be drawn around the logo using CSS.
+
+## Speakers & Program
+
+The program is driven by the program.md file in your event (copied from the [sample program.md](https://raw.githubusercontent.com/devopsdays/devopsdays-web/master/content/events/sample-event/program.md). To generate a data-driven program, look at the Minneapolis 2016 [speakers data files](https://github.com/devopsdays/devopsdays-web/tree/master/data/speakers/2016/minneapolis) and [program directory](https://github.com/devopsdays/devopsdays-web/tree/master/content/events/2016-minneapolis/program).
