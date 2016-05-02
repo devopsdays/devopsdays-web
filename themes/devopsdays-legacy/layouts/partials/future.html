@@ -11,11 +11,9 @@ through these lists to generate our event info.
 {{ range seq .Now.Year (add .Now.Year 1) }}
   {{ $future_year := (chomp .) }}
   {{ range $.Site.Data.events }}
-    {{ if and (eq .year $future_year) (eq .status "current") }}
+    {{ if and (eq .year $future_year) (eq .status "current") ( .startdate ) }}
       {{ $.Scratch.SetInMap "future_years" $future_year $future_year }}
-      {{ if .startdate }}
         {{ $.Scratch.SetInMap (print "future" $future_year) .startdate .friendly }}
-      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}

@@ -5,8 +5,8 @@ friendly: "2016-Ohio" # Four digit year and the city name in lower-case. Don't f
 status: "current" # Options are "past" or "current".
 startdate: false # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: false # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: false
-cfp_date_end: false
+cfp_date_start:
+cfp_date_end:
 cfp_date_announce: false
 coordinates: "40.038877, -82.874830" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "location" # The name of your location
