@@ -33,3 +33,15 @@ This is by no means complete, but a couple things to know:
 5. Sponsors each need a file in the data directory, as such: `data/sponsors/chef-2016.yml`. Please make sure to use the year for the sponsor (just so that the old events don't end up with newer sponsor logos, etc - but don't make one just for your city). If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/chicagochef-2016.yml`.  (Note: there is an experimental feature for an "override" of the sponsor data; more on this feature as it is developed)
 6. Put the images for your sponsors in the `/static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `/static/img/sponsors/chef.png`.
 7. You will also want to add your event's logo to the following directory (creating the directory if necessary) `/static/events/yyyy-city/logo.png`. The file MUST be called `logo.png`.
+
+## Sponsor logo guidelines
+
+There are a few simple guidelines regarding sponsor logo files and formatting:
+
+* The dimensions of the image file must be 200px square.
+  * The background must be either white or transparent.
+  * There must *not* be a border.
+* The image must be constrained, via markup, to 100px square.
+  * Combined with the image file dimensions, this allows for high-density displays (ex. Retina).
+* A border must be drawn around the logo using CSS.
+  * The colour must match the standard blue of this website.
