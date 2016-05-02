@@ -17,7 +17,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. To watch for changes and rebuild on the fly, open a new terminal, cd to your fork of the repo, and enter this command: `hugo server -w --baseUrl="http://localhost:1313"`
 
 ### Contribute changes
-1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content.
+1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. tl;dr: don't add "giant template change" in the same PR as "here are some more sponsors". If it affects anything other than your event, it should be in its own PR.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new ones if you like (or read/comment on existing ones).
 1. Before you commit any changes, create a new branch, i.e., `git checkout -b fix-that-thing`
 1. Make your changes, test them locally, then push that branch up to origin on your fork (`git push origin BRANCHNAME`)
