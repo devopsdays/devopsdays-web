@@ -6,47 +6,13 @@ aliases = ["/events/2011-boston"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
+	<tr>
+		<td><img src='/img/boston-bridge.jpg'><br><small>Source: <a href="http://cache.virtualtourist.com/1192290-Leonard_P_Zakim_Bunker_Hill_Bridge-Boston.jpg">http://cache.virtualtourist.com/1192290-Leonard_P_Zakim_Bunker_Hill_Bridge-Boston.jpg</a></small></td>
+		<td><p>With all its beautiful bridges, Boston is the perfect place for bridging the gap.</p> <p><b>Devopsdays Boston 2011</b> will be a <em>two day event</em> for discussing all topics around improving the interaction between what is traditionally considered development activity and that which is traditionally considered operations activity.</p>
+			<p>It will happen on <b>7 and 8 March 2011</b></p>
+			<p>Kindly hosted at <a href="location">Microsoft NERD Center</a> </p>
+
+		</td>
+	</tr>
 </table>
