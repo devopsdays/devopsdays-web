@@ -34,7 +34,7 @@ type = "event"
 <div class="span-2">10:00-10:15</div><div class="span-4 box last">Opening Welcome</div>
 
 <div class="span-2">10:15-10:45</div><div class="span-4 box last">
-    <a href="/events/2016-toronto/proposals/keynote/">Coming soon</a><br />
+    <a href="/events/2016-toronto/proposals/keynote/">Devops Enterprise State of the Union</a><br />
     <em>John Willis</em>, <a href="https://twitter.com/botchagalupe" target="_blank">@botchagalupe</a>
     Keynote<br />
 </div>
