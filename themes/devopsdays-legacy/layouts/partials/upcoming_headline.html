@@ -3,7 +3,7 @@
   {{ range sort $.Site.Data.events "startdate" }}
     {{ if eq .status "current" }}
       {{ $.Scratch.Add "events" "<a href = '/events/" }}
-      {{ $.Scratch.Add "events" .friendly }}
+      {{ $.Scratch.Add "events" .name }}
       {{ $.Scratch.Add "events" "/welcome'>" }}
       {{ $.Scratch.Add "events" .city }}
       {{ $.Scratch.Add "events" "</a> - " }}
