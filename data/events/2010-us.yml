@@ -20,14 +20,11 @@ location: "us" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
-#  - name: registration
-  - name: sponsor
+  - name: program
+  - name: lightning talks
+    url: events/2010-us/lightning-talks
+  - name: speakers
   - name: contact
-  - name: conduct
 
 # These are the same people you have on the mailing list and Slack channel.
 team: ["John Doe", "Jane Smith", "Sally Fields"]
@@ -43,17 +40,33 @@ proposal_email: "proposals-us-2010@devopsdays.org" # Put your proposal email add
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-  - id: arresteddevops
-    level: community
+  - id: 2010-linkedin
+    level: hosting
+  - id: 2010-appdynamics
+    level: Supporting
+  - id: 2010-bitnami
+    level: supporting
+  - id: 2010-cloudscaling
+    level: supporting
+  - id: 2010-dto
+    level: supporting
+  - id: 2010- newrelic
+    level: supporting
+  - id: 2010-opscode
+    level: supporting
+  - id: 2010-puppetlabs
+    level: supporting
+  - id: 2010-rpath
+    level: supporting
+  - id: 2010-thoughtworks
+    level: supporting
+  - id: 2010-zenoss
+    level: supporting
+  - id: 2010-vmware
+    level: supporting
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+  - id: hosting
+    label: Hosting
+  - id: supporting
+    label: Supporting
