@@ -1,10 +1,10 @@
-name: 2012austin
-year: 2012
-city: Austin
-friendly: 2012-austin
+name: 2010-sydney
+year: 2010
+city: Sydney
+friendly: 2010-sydney
 status: past
-startdate: 2012-01-01
-enddate: 2012-01-02
+startdate: 2010-01-01
+enddate: 2010-01-02
 coordinates: "47.609895, -122.330259"
 navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
 sponsors:
