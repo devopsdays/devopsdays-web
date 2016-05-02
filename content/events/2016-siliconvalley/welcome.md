@@ -1,6 +1,10 @@
 +++
-date = "2016-04-30T23:13:15-07:00"
+City = "Silicon Valley"
+Year ="2016"
+date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
+type = "event"
+aliases = ["/events/2016-siliconvalley"]
 
 +++
 
@@ -9,6 +13,7 @@ title = "welcome"
 <div style="float: left; padding-right: 20px;">
   {{< event_logo >}}
 </div>
+
 <table>
   <tr>
     <td><b>Dates</b></td>
@@ -19,7 +24,7 @@ title = "welcome"
     <td>{{< event_location >}}</td>
   </tr>
   <tr>
-    <td><b>Proposals</b></td>
+    <td><b>Propose</b></td>
     <td><a href=https://dodsv2016.busyconf.com/proposals/new>Propose a talk.</a></td>
   </tr>
   <tr>
@@ -32,11 +37,15 @@ title = "welcome"
   </tr> -->
   <tr>
     <td><b>Sponsors</b></td>
-    <td><a href=http://slcdevopsdays.org/our-sponsors/>Sponsor the event!</a> It's a great way to attract new talent and promote your organization.</td>
+    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
   </tr>
   <tr>
     <td><b>Contact</b></td>
     <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
+  </tr>
+  <tr>
+    <td><b>Scholarship</b></td>
+    <td>{{< event_link page="scholarship" text="Apply for a  Scholarship" >}}</td>
   </tr>
   <tr>
   <td></td>
