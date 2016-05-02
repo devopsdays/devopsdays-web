@@ -20,7 +20,6 @@ event_slug=$year-$cityabbr
 
 
 cp yyyy-city.yml data/events/$event_slug.yml
-sed -i '' "s/yyyycity/$year$cityabbr/" data/events/$event_slug.yml
 sed -i '' "s/YYYY/$year/" data/events/$event_slug.yml
 sed -i '' "s/City/$city/" data/events/$event_slug.yml
 sed -i '' "s/yourlocation/$city/" data/events/$event_slug.yml
