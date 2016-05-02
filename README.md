@@ -28,8 +28,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 The easiest way to create a new event is with the [make_new_event.sh](https://github.com/devopsdays/devopsdays-web/blob/master/make_new_event.sh) script. Create a branch, run the script to make a skeleton site for your event, make any desired edits, and submit a PR as explained above.
 
-Note:
-1. If your city name has special characters or diacritics, the script will remove them for the event stub.
+1. If your city name has special characters or diacritics, the script will remove them when it creates the event stub.
 1. Events need a data file in `data/events`, for example, `data/events/2015-chicago.yml`. It must be the same name as the directory you will create for your event. See the [template data file](https://github.com/devopsdays/devopsdays-web/blob/master/yyyy-city.yml) for an example.
 1. When the script copies the content directory from the sample site to `content/events/YYYY-city`, it removes `draft = true` from the frontmatter of the pages (so they will be built). Also, the `welcome.md` file needs to have a field added to its frontmatter for the alias, i.e., `aliases = ["/events/2015-chicago"]`.
 
