@@ -1,7 +1,7 @@
 +++
 date = "2016-04-30T23:15:12-07:00"
 title = "location"
-
+type = "event"
 +++
 <h4>
 Venue
