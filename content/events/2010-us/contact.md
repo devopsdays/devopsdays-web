@@ -6,12 +6,11 @@ type = "event"
 
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+If you want to contact us by email at <a href="mailto:organizers-us-2010@devopsdays.org">organizers-us-2010@devopsdays.org</a>
 
-**Our local team**
+the devopsdays US team
 
-{{< list_organizers >}}
-
-**The core devopsdays organizer group**
-
-{{< list_core >}}
+- Andrew Shafer
+- Damon Edwards
+- Gildas Lenadan
+- Patrick Debois
