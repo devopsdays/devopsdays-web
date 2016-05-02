@@ -14,7 +14,7 @@
   {{ range where $sponsors "level" .id }}
     {{ $s :=  (index $.Site.Data.sponsors .id) }}
     {{ if isset $.Site.Data.sponsors .id }}
-      <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" width = "95px"></a>
+      <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" height="100px" width="100px"></a>
     {{ end }}
   {{ end }}
   <div class = "sponsor-cta">
