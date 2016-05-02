@@ -11,13 +11,13 @@ through these lists to generate our event info.
 {{ range seq .Now.Year (add .Now.Year 1) }}
   {{ $future_year := (chomp .) }}
   {{ range $.Site.Data.events }}
-    {{ if and (eq .year $future_year) (eq .status "current") }}
+    {{ if and (eq .year $future_year) (eq .status "current") ( .startdate ) }}
       {{ $.Scratch.SetInMap "future_years" $future_year $future_year }}
       {{ $.Scratch.SetInMap (print "future" $future_year) .startdate .friendly }}
     {{ end }}
   {{ end }}
 {{ end }}
-    
+
 <div class="span-6 last">
     <div style=" padding-top:18px;" class="span-5 last">
         <h1>Future</h1>
@@ -33,7 +33,7 @@ through these lists to generate our event info.
                                 <strong>{{ . }}</strong><br/>
                                 {{ range ($.Scratch.GetSortedMapValues (print "future" .)) }}
                                     {{ $c_event := (index $.Site.Data.events .) }}
-                                    <a href="/events/{{ $c_event.friendly }}">{{ $c_event.city }}: {{ dateFormat "Jan 2" $c_event.startdate }} - {{ dateFormat "Jan 2" $c_event.enddate }}</a><br />
+                                    <a href="/events/{{ $c_event.name }}">{{ $c_event.city }}: {{ dateFormat "Jan 2" $c_event.startdate }} - {{ dateFormat "Jan 2" $c_event.enddate }}</a><br />
                                 {{ end }}
                             {{ end }}
                         </div>
