@@ -8,7 +8,7 @@ aliases = ["/events/2016-siliconvalley"]
 
 +++
 
-## DevOps Days is returning to the Silicon Valley!
+## DevOps Days is returning to Silicon Valley!
 
 <div style="float: left; padding-right: 20px;">
   {{< event_logo >}}
