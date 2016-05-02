@@ -36,9 +36,8 @@ Chomping .year has the nice effect of turning an int into string. -->
                       Chomping here in order to convert int to string -->
                             {{ range ($.Scratch.GetSortedMapValues (chomp .)) }}
                               {{ $city := (index $.Site.Data.events . "city") }}
-                              {{ $year := (index $.Site.Data.events . "year") }}
                               {{ $friendly := (index $.Site.Data.events . "friendly") }}
-                              <a href="/events/{{ $friendly }}/">{{ $city }} {{ $year }}</a>
+                              <a href="/events/{{ $friendly }}/">{{ $city }}</a>
                               <br/>
                             {{ end }}
                         </div>
