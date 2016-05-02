@@ -1,4 +1,4 @@
-name: 2016portland # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: 2016-portland # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Portland" # The city name of the event. Capitalize it.
 friendly: "2016-portland" # Four digit year and the city name in lower-case. Don't forget the dash!
@@ -19,7 +19,31 @@ nav_elements:
   - name: sponsor
   - name: contact
   - name: conduct
-team: ["Bill Weiss", "Alice Goldfuss", "Alistair Drong", "Daniel Dreier", "Jason Yee", "Joe Nuspi", "Michelle Carroll", "Rich Burroughs", "Spencer Krum"]
+team_members:
+  - name: "Bill Weiss"
+    twitter: "billweiss"
+    employer: "Puppet"
+  - name: "Alice Goldfuss"
+    twitter: "alicegoldfuss"
+    employer: "New Relic"
+  - name: "Alastair Drong"
+  - name: "Daniel Dreier"
+    twitter: "daniel_dreier"
+    employer: "Puppet"
+  - name: "Jason Yee"
+    twitter: "@gitbisect"
+  - name: "Joe Nuspl"
+    twitter: "joenuspl"
+    employer: "Workday"
+  - name: "Michelle Carroll"
+    twitter: "miiiiiche"
+    employer: "Elastic"
+  - name: "Rich Burroughs"
+    twitter: "richburroughs"
+    employer: "Yesmail"
+  - name: "Spencer Krum"
+    twitter: "nibalizer"
+    employer: "IBM"
 organizer_email: "organizers-portland-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
@@ -29,10 +53,16 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef
     level: gold
+  - id: ca_tech
+    level: gold
+  - id: thoughtworks
+    level: gold
   - id: victorops
     level: silver
   - id: columbia
     level: silver
+  - id: arresteddevops
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
