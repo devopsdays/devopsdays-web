@@ -17,9 +17,14 @@
       <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" height="100px" width="100px"></a>
     {{ end }}
   {{ end }}
-  <div class = "sponsor-cta">
-    <a href = "/events/{{ $e.name }}/sponsor">Become a {{ .label }} Sponsor!</a>
-  </div>
+  {{ if eq $e.status "current" }}
+    <div class = "sponsor-cta">
+      <a href = "/events/{{ $e.name }}/sponsor">Become a {{ .label }} Sponsor!</a>
+    </div>
+  {{ else }}
+    <div class = "sponsor-cta">
+    </div>
+  {{ end }}
 {{ end }}
 
 <!-- sponsor code end -->
