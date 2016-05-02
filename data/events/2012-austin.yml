@@ -1,10 +1,10 @@
-name: 2013london
-year: 2013
-city: London
-friendly: 2013-london
+name: 2012-austin
+year: 2012
+city: Austin
+friendly: 2012-austin
 status: past
-startdate: 2013-01-01
-enddate: 2013-01-02
+startdate: 2012-01-01
+enddate: 2012-01-02
 coordinates: "47.609895, -122.330259"
 navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
 sponsors:

@@ -9,13 +9,13 @@ aliases = ["/events/2016-detroit"]
 
 +++
 
+<div style="text-align:center;">
+  {{< event_logo >}}<br><br>
+</div>
+
+
+
 ## {{< event_start >}} - {{< event_end >}}
-
-DevOps Days is coming to XXXXXX
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
 <table>
   <tr>
@@ -49,7 +49,10 @@ DevOps Days is coming to XXXXXX
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdayschi >}} <!-- add your twitter name here without the @ sign -->
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+      <div class="addthis_horizontal_follow_toolbox"></div>
     </td>
   </tr>
 </table>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5724f5b54cc142a1"></script>
