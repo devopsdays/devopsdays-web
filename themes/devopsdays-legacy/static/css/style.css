@@ -71,7 +71,9 @@
 
 .company-logo {
   float: left;
-  padding: 5px !important;
+  padding: 2px !important;
+  border: 1px solid #18b;
+  margin: 2px;
 }
 
 .sponsor-cta {
