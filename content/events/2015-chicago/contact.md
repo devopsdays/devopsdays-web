@@ -1,9 +1,17 @@
 +++
-Description = ""
-event = "2015chicago"
-date = "2015-11-09T17:40:56-06:00"
+date = "2016-05-02T13:21:25-05:00"
 title = "contact"
-City = "Chicago"
-Year = "2015"
 type = "event"
+
+
 +++
+
+If you'd like to contact us by email: {{< email_organizers >}}
+
+**Our local team**
+
+{{< list_organizers >}}
+
+**The core devopsdays organizer group**
+
+{{< list_core >}}
