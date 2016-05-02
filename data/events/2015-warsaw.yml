@@ -1,0 +1,26 @@
+name: 2015-warsaw
+year: "2015"
+city: "Warsaw"
+friendly: "2015-warsaw"
+status: "past"
+startdate: 2015-11-24
+enddate: 2015-11-25
+coordinates: "52.1800879, 20.9788363"
+navigationelements: ["welcome", "location", "register", "program", "ignites", "partners", "contact", "conduct"]
+sponsors:
+  - id: allegro
+    level: main
+  - id: uniteam
+    level: platinum
+  - id: kainos
+    level: gold
+  - id: connectis
+    level: regeneration-zone
+  - id: codersmill
+    level: sponsor
+  - id: eventory
+    level: partners
+  - id: kamea
+    level: partners
+  - id: teetbee
+    level: partners
