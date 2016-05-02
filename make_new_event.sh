@@ -33,7 +33,7 @@ cp -r content/events/sample-event content/events/$event_slug
 sed -i '' '/draft = true/d' content/events/$event_slug/*
 
 # setting the creation date at the time the event is instantiated
-datestamp=$(date +%Y-%m-%dT:%H:%M:%S:%z)
+datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
 sed -i '' "s/2000-01-01T01:01:01-06:00/$datestamp/" content/events/$event_slug/*
 
 sed -i '' "s/YYYY-city/$event_slug/" content/events/$event_slug/welcome.md
