@@ -1,9 +1,10 @@
 +++
-Description = ""
-event = "2015chicago"
-date = "2015-11-09T17:40:56-06:00"
+date = "2016-05-02T13:21:25-05:00"
 title = "location"
-City = "Chicago"
-Year = "2015"
 type = "event"
+
 +++
+
+Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+
+<!-- {{< event_map >}} -->
