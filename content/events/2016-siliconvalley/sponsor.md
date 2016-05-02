@@ -1,7 +1,7 @@
 +++
 date = "2016-04-30T23:16:15-07:00"
 title = "sponsor"
-
+type = "event"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}} or sign up directly <a href="https://register.devopsdayssv.com/sponsorship/">here</a>.
