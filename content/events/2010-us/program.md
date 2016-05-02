@@ -5,118 +5,72 @@ type = "event"
 
 +++
 
-<hr>
-<div class="span-16 last ">If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</div>
-</center>
-<hr />
+DevOps Day US  was a single-track conference organized around a series of panels where open discussion amongst all conference participants was encouraged.
 
-
-<center><b><h2>The Schedule</h2></b></center>
-<div class="span-7 append-bottom border">
-
-<div class="span-7 last">
-<h4>Day 1</h4>
-</div>
-
-<div class="span-2">08:00-09:00</div><div class="span-4 box last">Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong></strong>Opening Welcome</div>
-<div class="span-2">09:15-09:45</div><div class="span-4 box last">
-    <br />
-</div>
-<div class="span-2">09:45-09:55</div><div class="span-4 box last">
-  Sponsors
-</div>
-<div class="span-2">09:55-10:25</div><div class="span-4 box last">
-    <br />
-
-</div>
-<div class="span-2">10:25-10:40</div><div class="span-4 box last">
-  Break
-</div>
-
-<div class="span-2">10:40-11:10</div><div class="span-4 box last">
-    <br />
-</div>
-
-<div class="span-2">11:10-11:20</div><div class="span-4 box last">
-  Sponsors
-</div>
-
-<div class="span-2">11:20-11:50</div><div class="span-4 box last">
-    <br />
-</div>
-
-<div class="span-2">11:50-13:00</div><div class="span-4 append-bottom last">Lunch (catered)</div>
-
-<div class="span-2">13:00-13:30</div><div class="span-4 box last"><strong>Ignites</strong> <br />
-</div>
-
-<div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space Opening</div>
-
-<div class="span-2">14:00-14:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #1</div>
-
-<div class="span-2">15:00-15:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #2</div>
-
-<div class="span-2">16:00-16:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #3</div>
-
-<div class="span-2">16:45-17:00</div><div class="span-4 box last"><strong></strong>Close Day & Logistics</div>
-
-<div class="span-2">19:00-late</div><div class="span-4 box last"><strong>Evening Event</strong><br /></div>
-
-
-</div>
-
-
-<div class="span-7 append-bottom border">
-
-<div class="span-7 last">
-<h4>Day 2</h4>
-</div>
-
-<div class="span-2">08:00-09:00</div><div class="span-4 box last"> Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong></strong>Opening Welcome</div>
-<div class="span-2">09:15-09:45</div><div class="span-4 box last">
-    <br />
-</div>
-<div class="span-2">09:45-09:55</div><div class="span-4 box last">
-  Sponsors
-</div>
-<div class="span-2">09:55-10:25</div><div class="span-4 box last">
-    <br />
-
-</div>
-<div class="span-2">10:25-10:40</div><div class="span-4 box last">
-  Break
-</div>
-
-<div class="span-2">10:40-11:10</div><div class="span-4 box last" style="height:100px;">
-    <br />
-</div>
-
-<div class="span-2">11:10-11:20</div><div class="span-4 box last">
-  Sponsors
-</div>
-
-<div class="span-2">11:20-11:50</div><div class="span-4 box last">
-    <br />
-</div>
-
-<div class="span-2">11:50-13:00</div><div class="span-4 append-bottom last">Lunch (catered)</div>
-
-<div class="span-2">13:00-13:30</div><div class="span-4 box last"><strong>Ignites</strong> <br />
-
-</div>
-
-<div class="span-2">13:30-14:00</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space Opening</div>
-
-<div class="span-2">14:00-14:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #1</div>
-
-<div class="span-2">15:00-15:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #2</div>
-
-<div class="span-2">16:00-16:45</div><div class="span-4 box last"><strong>Open Space</strong> (Open Space) <br /> Open Space #3</div>
-
-<div class="span-2">17:00</div><div class="span-4 box last"><strong></strong>Close Day & Farewell</div>
-
-
-
-</div>
+<ol>
+	<li><strong>Your mileage may vary</strong>: Experiences and lessons learned facing DevOps problems in the IT trenches (even if they weren't calling it DevOps!). The good, the bad, the surprises, and ideas for the future.
+<ul>
+	<li><em>Stefan Apitz</em> - LinkedIn</li>
+	<li><em>Ernest Muller</em> - National Instruments</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#dan-nemec">Dan Nemec</a></em> - SilverPop</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#burzin-engineer">Burzin Engineer</a></em> - Shopzilla</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#kevin-rae">Kevin Rae</a></em> - PowerReviews</li>
+	<li>moderator: <em>Andrew Shafer</em></li>
+</ul>
+</li>
+	<li><strong>Infrastructure as code</strong>: Automation is essential to DevOps. The infrastructure as code concept drives many of today's cutting edge automaton techniques. What is it all about? Where are its limitations?
+<ul>
+	<li><em><a href="/events/2010-us/speakers/index.html#theo-schlossnagle">Theo Schlossnagle </a></em> - OmniTI</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#luke-kanies">Luke Kanies</a></em> - Puppet Labs</li>
+	<li><em>Adam Jacob</em> - Opscode</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#erik-troan">Erik Troan</a></em> - rPath</li>
+<li>moderator: <em>Patrick Debois</em></li>
+</ul>
+</li>
+	<li><strong>Changing culture to enable DevOps</strong>: Changing tools is easy when compared to changing people and processes. How can we cultivate an organization's culture to identify and solve DevOps problems?
+<ul>
+	<li><em><a href="/events/2010-us/speakers/index.html#john-allspaw">John Allspaw</a></em> - Etsy</li>
+	<li><em>Lee Thompson</em> - DTO Solutions</li>
+	<li><em>Israel Gat</em> - The Agile Executive</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#lloyd-taylor">Lloyd Taylor</a></em> - Netelder Associates</li>
+	<li>moderator: <em>Andrew Shafer</em></li>
+</ul>
+</li>
+	<li><strong>Does the Cloud needs DevOps? Does DevOps need the Cloud?</strong>: Examining the role that cloud technologies can play in solving DevOps problems and the role that DevOps solutions can play in getting the most out of cloud technologies.
+<ul>
+	<li><em><a href="/events/2010-us/speakers/index.html#james-urquhart">James Urquhart</a></em> - Cisco</li>
+	<li><em>Adrian Cole</em> - Jclouds</li>
+	<li><em>Justin Dean</em> - Shopzilla</li>
+	<li><em>Joe Arnold</em> - Cloudscaling</li>
+	<li>moderator: <em>John Willis</em></li>
+</ul>
+</li>
+	<li><strong>DevOps requires visibility: monitoring, testing, and performance</strong> : Examining the (often overlooked) role of monitoring and testing techniques in solving DevOps problems.
+<ul>
+	<li><em><a href="/events/2010-us/speakers/index.html#jyoti-bansal">Jyoti Bansal</a></em> - AppDynamics</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#gareth-bowles">Gareth Bowles</a></em> - Appscio</li>
+	<li><em>John Willis</em> - Opscode</li>
+	<li><em>Eishay Smith</em> - kaChing</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#javier-soltero">Javier Soltero</a></em> - SpringSource</li>
+	<li>moderator: <em>Damon Edwards</em></li>
+</ul>
+</li>
+	<li><strong>DevOps outside of Web Operations</strong>: Much of the public discussion about DevOps focuses on Web Operations. This panel is about taking the lessons of DevOps to other types of IT.
+<ul>
+	<li><em><a href="/events/2010-us/speakers/index.html#adam-fletcher">Adam Fletcher</a> </em>- ITA Software</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#gene-kim">Gene Kim</a></em> - Tripwire</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#michael-stahnke">Michael Stahnke</a></em> -</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#james-turnbull">James Turnbull</a> </em> - Puppet Labs</li>
+<li>moderator: <em>Patrick Debois</em></li>
+</ul>
+</li>
+	<li><strong>Making the business case</strong>: We know that solving DevOps problems improves your business operations and improves the bottom line, but how do you do you explain that to your CEO or CFO? How do you get the executives to buy in and invest in DevOps solutions?
+<ul>
+	<li><em><a href="/events/2010-us/speakers/index.html#kurt-milne">Kurt Milne</a></em> - IT Process Institute</li>
+	<li><em>Jay Lyman</em> - The 451 Group</li>
+	<li><em><a href="/events/2010-us/speakers/index.html#rolf-russel">Rolf Andrew Russell</a></em> - ThoughtWorks</li>
+         <li><em>Jody Mulkey</em> - Shopzilla</li>
+	<li>moderator: <em>Damon Edwards</em></li>
+</ul>
+</li>
+</ol>
