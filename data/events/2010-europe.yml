@@ -43,27 +43,27 @@ proposal_email: "proposals-europe-2010@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: xing-2010
+  - id: 2010-xing
     level: gold
-  - id: nokia
+  - id: 2010-nokia
     level: gold
-  - id: thoughtworks-2010
+  - id: 2010-thoughtworks
     level: gold
-  - id: itgaile-2010
+  - id: 2010-itgaile
     level: gold
-  - id: codecentric-2010
+  - id: 2010-codecentric
     level: gold
-  - id: agilealliance-2010
+  - id: 2010-agilealliance
     level: silver
-  - id: puppetlabs-2010
+  - id: 2010-puppetlabs
     level: silver
-  - id: opscode-2010
+  - id: 2010-opscode
     level: silver
-  - id: urbancode-2010
+  - id: 2010-urbancode
     level: silver
-  - id: skillsmatter-2010
+  - id: 2010-skillsmatter
     level: media
-  - id: adminmagazine-2010
+  - id: 2010-adminmagazine
     level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
