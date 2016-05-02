@@ -9,7 +9,7 @@
       <!-- Main navigation -->
       <ul class="nav nav-tabs">
         {{ range $navigation := $e.navigationelements}}
-          <li role="presentation"><a href="/events/{{ $e.friendly }}/{{ $navigation}}">{{ $navigation }}</a></li>
+          <li role="presentation"><a href="/events/{{ $e.name }}/{{ $navigation}}">{{ $navigation }}</a></li>
         {{ end }}
       </ul>
 
