@@ -6,47 +6,10 @@ aliases = ["/events/2010-europe"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+It's about one year since the first devopsdays 2009 took place in <a href="/events/2009-ghent/">Belgium</a>. Since then we have had successful conference in both <a href="/events/2010-sydney/">Australia</a> and the <a href="/events/2010-us/">United States</a>. Now we came back home to Europe.
 
-DevOps Days is coming to {{< event_location >}}!
+<strong>Location:</strong> <a href="http://www.east-hotel.de/new/en/index.php?page=6&amp;sub=0&amp;subsub=0&amp;subsubsub=0">East Hotel in Hamburg</a>/Germany
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<strong>Date: </strong>Friday, 15th - Saturday 16th October 2010
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
-</table>
+<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/ucc-Q_F1Gvg?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ucc-Q_F1Gvg?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
