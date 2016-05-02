@@ -38,13 +38,13 @@ proposal_email: "proposals-brazil-2010@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: thoughtworks-2010
+  - id: 2010-thoughtworks
     level: sponsor
-  - id: puppet-2010
+  - id: 2010-puppetlabs
     level: sponsor
-  - id: opscode-2010
+  - id: 2010-opscode
     level: sponsor
-  - id: locaweb-2010
+  - id: 2010-locaweb
     level: sponsor
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
