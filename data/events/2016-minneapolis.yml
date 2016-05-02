@@ -1,4 +1,4 @@
-name: 2016minneapolis # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: 2016-minneapolis # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Minneapolis" # The city name of the event. Capitalize it.
 friendly: "2016-minneapolis" # Four digit year and the city name in lower-case. Don't forget the dash!
@@ -53,6 +53,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: softwaredefinedtalk
     level: community
+  - id: target
+    level: gold
+  - id: govdelivery
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
