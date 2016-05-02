@@ -11,10 +11,10 @@ draft = false
 
 If you'd like to contact us by email: {{< email_organizers >}}
 
-** Our local team**
+<b>Our local team</b>
 
 {{< list_organizers >}}
 
-** The core devopsdays organizer group**
+<b>The core devopsdays organizer group</b>
 
 {{< list_core >}}

@@ -5,14 +5,14 @@ friendly: "2016-Ohio" # Four digit year and the city name in lower-case. Don't f
 status: "current" # Options are "past" or "current".
 startdate: false # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: false # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-06-01
-cfp_date_end: 2016-06-01
-cfp_date_announce: 2016-06-01
+cfp_date_start: false
+cfp_date_end: false
+cfp_date_announce: false
 coordinates: "40.038877, -82.874830" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "location" # The name of your location
 #navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-navigationelements: ["welcome", "contact", "program", "propose", "conduct", "sponsor"]
-team: ["Kyle Jenkins"]
+navigationelements: ["welcome", "contact", "propose", "conduct", "sponsor"]
+team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Faye Thompson", "Kyle Jenkins", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
 organizer_email: "organizers-ohio-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-ohio-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
