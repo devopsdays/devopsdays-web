@@ -1,7 +1,7 @@
 +++
 date = "2016-04-30T23:16:05-07:00"
 title = "conduct"
-
+type = "event"
 +++
 
 Please read the anti-harassment policy and code of conduct following the important contact information:
