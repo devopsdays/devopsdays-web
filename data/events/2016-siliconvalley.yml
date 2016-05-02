@@ -10,15 +10,29 @@ cfp_date_end: 2016-05-02
 cfp_date_announce: 2016-05-16
 coordinates: "37.4143233, -122.07951,17" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "scholarship", "program", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+# navigationelements: ["welcome", "contact", "location", "scholarship", "program","propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
 team: ["Jennifer Davis", "Rob Berger", "Jamesha Fisher", "Linda Laubenheimer", "Peter Mooshammer", "Ralf Pieper"]
 organizer_email: "organizers-siliconvalley-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-siliconvalley-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: bigpanda
     level: gold
+  - id: deis
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: chef
+    level: gold
+  - id: signalfx
+    level: silver
   - id: datadog
     level: absponsor
+  - id: victorops
+    level: csstation
+  - id: stackiq
+    level: bronze
   - id: arresteddevops
     level: community
 
@@ -27,13 +41,29 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
+  - id: tsponsors
+    label: Events T-Shirt
   - id: csstation
     label: Charging Station
-  - id: abreak
+  - id: absponsor
     label: Afternoon Break
   - id: bronze
     label: Bronze
-  - id: shirt
-    label: Shirt Sponsor
+  - id: psponpor
+    label: Party Sponsor
   - id: community
     label: Community
+
+nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+  - name: welcome
+  - name: contact
+  - name: location
+  - name: registration
+    url: https://dodsv2016.busyconf.com/bookings/new
+  - name: propose
+    url: https://dodsv2016.busyconf.com/proposals/new/
+  - name: proposals
+  - name: program
+  - name: conduct
+  - name: sponsor
+  - name: scholarship
