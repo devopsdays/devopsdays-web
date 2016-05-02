@@ -39,9 +39,9 @@ This is by no means complete, but a couple things to know:
 There are a few simple guidelines regarding sponsor logo files and formatting:
 
 * The dimensions of the image file must be 200px square.
-  * The background must be either white or transparent.
-  * There must *not* be a border.
-* The image must be constrained, via markup, to 100px square.
-  * Combined with the image file dimensions, this allows for high-density displays (ex. Retina).
-* A border must be drawn around the logo using CSS.
-  * The colour must match the standard blue of this website.
+* The background must be either white or transparent.
+* There must *not* be a border.
+
+For reference, the all logos will be constrained, via markup, to 100px square;
+combined with the image file dimensions, this allows for high-density displays
+(ex. Retina). Lastly, a border will be drawn around the logo using CSS.
