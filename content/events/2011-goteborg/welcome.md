@@ -6,47 +6,21 @@ aliases = ["/events/2011-goteborg"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <table>
   <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
+    <td width=50%>
+      <p>The conference will be a two day event on <b>Friday 14 and Saturday 15 of October 2011</b></p>
+      <p>The location is <a href="location"> Elite Park Avenue Hotel</a> in Goteborg.</p>
+      <p>It will be a <a href="program">mixture of conference talks and openspaces</a>.</p>
+
+      <p>Want to <a href="sponsor">sponsor</a> or <a href="proposals">propose a talk</a>?</p>
+
+      Don't hesitate <a href="contact">to contact us if you are interested!</a>
+    </td>
+    <td width=50%>
+      <center><img src="/img/inclusive-sign.jpg">
+        <small><a href="http://www.flickr.com/photos/mmechtley/2205859730/#/photos/mmechtley/2205859730/lightbox/">Flick collection by mmetchtley</a></small>
+      </center>
     </td>
   </tr>
 </table>
