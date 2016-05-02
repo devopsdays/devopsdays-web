@@ -1,10 +1,10 @@
-name: 2010boston
-year: 2010
-city: Boston
-friendly: 2010-boston
+name: 2013-london
+year: 2013
+city: London
+friendly: 2013-london
 status: past
-startdate: 2010-10-01
-enddate: 2010-10-02
+startdate: 2013-01-01
+enddate: 2013-01-02
 coordinates: "47.609895, -122.330259"
 navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
 sponsors:
