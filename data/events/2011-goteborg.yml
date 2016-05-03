@@ -1,0 +1,66 @@
+name: "2011-goteborg" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2011 # The year of the event. Make sure it is in quotes.
+city: "Göteborg" # The city name of the event. Capitalize it.
+friendly: "2011-goteborg" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current". Use "current" for upcoming.
+
+# All dates are in unquoted 2011-MM-DD, like this:   variable: 2016-01-05
+startdate: 2011-10-14  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2011-10-15  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2016-01-01 # start accepting talk proposals.
+cfp_date_end: 2016-01-01 # close your call for proposals.
+cfp_date_announce: 2016-01-01 # inform proposers of status
+
+# Location
+#
+coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "goteborg" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: program
+#  - name: propose
+#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: location
+#  - name: registration
+  - name: contact
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ulf Mansson"
+  - name: "Pal-Kristian Hamre"
+
+organizer_email: "organizers-goteborg-2011@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-goteborg-2011@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: 2011-puppetlabs
+    level: gold
+  - id: 2011-urbancode
+    level: gold
+  - id: 2011-engineyard
+    level: gold
+  - id: 2011-redpill
+    level: gold
+  - id: 2011-immobilienscout
+    level: gold
+  - id: 2011-thoughtworks
+    level: silver
+  - id: 2011-diabol
+    level: silver
+  - id: 2011-redbridge
+    level: silver
+  - id: 2011-serverdensity
+    level: silver
+  - id: 2011-guardian
+    level: silver
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
