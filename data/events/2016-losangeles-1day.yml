@@ -46,25 +46,25 @@ proposal_email: "devopsdayla-planning@googlegroups.com" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: carsdotcom
+  - id: 2016-carsdotcom
     level: break
-  - id: chef
+  - id: 2016-chef
     level: break
-  - id: cisco
+  - id: 2016-cisco
     level: break
-  - id: puppetlabs
+  - id: 2016-puppetlabs
     level: break
-  - id: sumologic
+  - id: 2016-sumologic
     level: break
-  - id: verizon
+  - id: 2016-verizon
     level: break
-  - id: devopsdotcom
+  - id: 2016-devopsdotcom
     level: media
-  - id: usenix
+  - id: 2016-usenix
     level: media
-  - id: linuxjournal
+  - id: 2016-linuxjournal
     level: media
-  - id: linuxpromagazine
+  - id: 2016-linuxpromagazine
     level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
