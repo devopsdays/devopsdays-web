@@ -36,7 +36,7 @@ Once you have created a logo graphic, you will want to add it to the following d
 
 ## Adding sponsors
 
-Sponsors each need a file in the data directory, as such: `data/sponsors/chef-2016.yml`. Please make sure to use the year for the sponsor (just so that the old events don't end up with newer sponsor logos, etc - but don't make one just for your city). If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/chicagochef-2016.yml`.  (Note: there is an experimental feature for an "override" of the sponsor data; more on this feature as it is developed)
+Sponsors each need a file in the data directory, as such: `data/sponsors/2016-chef.yml`. Please make sure to use the year for the sponsor (just so that the old events don't end up with newer sponsor logos, etc - but don't make one just for your city). If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/2016-chefchicago.yml`.  (Note: there is an experimental feature for an "override" of the sponsor data; more on this feature as it is developed)
 
 Put the images for your sponsors in the `/static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `/static/img/sponsors/chef.png`.
 
