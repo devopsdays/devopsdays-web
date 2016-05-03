@@ -2,9 +2,8 @@
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 
-{{ $startdate := $e.startdate}}
-
-{{ if isset $e "startdate" }}
+{{ if $e.startdate }}
+  {{ $startdate := $e.startdate}}
   {{ dateFormat "Monday, Jan 2, 2006" $startdate }}
 {{ else }}
   TBD

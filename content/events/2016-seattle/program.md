@@ -144,11 +144,3 @@ type = "event"
 
 
 </div>
-
-<div class="span-14 append-bottom border">
-  <h4>Partner Event: Day 3 (Saturday, May 14)</h4>
-    <div class="span-14">
-    <div class="span-2">10:00-17:00</div>
-    <div class="span-11 box last"><strong><a href="https://pages.chef.io/201605-DevOpsDaysSeattleMSFTHackDay_01.1LandingPage.html">DevOps Hackathon</a></strong> (Microsoft, Chef) Separate free registration required!</div>
-    </div>
-</div>
