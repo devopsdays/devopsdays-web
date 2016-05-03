@@ -7,7 +7,8 @@ draft = false
 +++
 
 <hr>
-<div class="span-16 last ">If you are new to the Open Space concept you may want to read some more details.</div>
+<div class="span-16 last ">If you are new to the Open Space concept you <a href="/pages/open-space-format">want to
+                                                                            read some more details</a>.</div>
 </center>
 <hr />
 
