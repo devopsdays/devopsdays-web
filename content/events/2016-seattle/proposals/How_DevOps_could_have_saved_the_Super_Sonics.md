@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T12:18:48-07:00"
 title = "How DevOps Could’ve Saved the SuperSonics"
-type = "ignite"
+type = "talk"
 
 +++
 
