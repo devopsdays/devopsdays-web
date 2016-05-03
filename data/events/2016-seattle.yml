@@ -5,9 +5,9 @@ friendly: "2016-seattle" # Four digit year and the city name in lower-case. Don'
 status: "current" # Options are "past" or "current".
 startdate: 2016-05-12
 enddate: 2016-05-13
-cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-01
-cfp_date_announce: 2016-07-01
+cfp_date_start: 2016-02-01
+cfp_date_end: 2016-02-28
+cfp_date_announce: 2016-03-20
 coordinates: "47.609895, -122.330259" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Sheraton Seattle" # The name of your location
 team: ["Rob Cummings", "Dominica DeGrandis", "Dan Dicamillo", "Jeremy Dyche", "Michael Goetz", "Ken Mugrage", "Michael Towbin", "Todd Wilson"]
