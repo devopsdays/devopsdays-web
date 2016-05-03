@@ -30,7 +30,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
 
 # These are the same people you have on the mailing list and Slack channel.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
 team_members: # Name is the only required field for team members.
   - name: "John Doe"
   - name: "Jane Smith"
