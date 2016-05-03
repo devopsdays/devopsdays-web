@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T12:14:41-07:00"
 title = "Building an Enterprise DevOps Community"
-type = "event"
+type = "talk"
 
 +++
 
