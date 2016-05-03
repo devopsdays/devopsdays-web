@@ -6,47 +6,28 @@ aliases = ["/events/2016-losangeles-1day"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to {{< event_location >}}!
+<b>DevOps Days is returning to {{< event_location >}}!</b>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+Dates: {{< event_start >}}, 2016
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}}
-    </td>
-  </tr>
-</table>
+We are proud to announce 6th Annual DevOps Day LA, to be held Friday, January 22, 2016, co-located
+with <a href="http://www.socallinuxexpo.org">SCALE 14x</a>, at the Pasadena Convention Center.
+<br/><br/>
+
+DevOps Day LA is a single day event dedicated to the DevOps community, and professionals who wish
+to improve the interaction and integration between these traditional silos of Development and
+Operations. We're looking for speakers interested in presenting to this forum. The theme for the
+conference this year is <strong>"Surprise!"</strong>, a phrase that all too often fills devops
+teams with dread, but can also be positive.<br/></br/>
+
+{{< event_link page="propose" text="Proposals" >}} for sessions, open spaces, and ignite style talks will be reviewed through Nov 30th.
+<br><br>
+<a href="https://reg.socallinuxexpo.org/reg6/">Register</a>!<br/>
+    {{< event_link page="program" text="View the program" >}}!
+<br><br>
+
+
+{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to promote your organization.
+
+Email the organizers: {{< email_organizers >}}
