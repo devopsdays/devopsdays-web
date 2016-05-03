@@ -26,10 +26,6 @@ aliases = ["/events/2016-saltlakecity"]
     <td><a href=http://www.cs1893.com>Church and State</a><p>370 S 300 E Salt Lake City
   </tr>
   <tr>
-    <td><b>Propose</b></td>
-    <td><a href=http://slcdevopsdays.org/speaker-proposals/>Propose a talk.</a></td>
-  </tr>
-  <tr>
     <td><b>Register</b></td>
     <td><a href=http://slcdevopsdays.org/register/>Register to attend the event!</a></td>
   </tr>
