@@ -34,40 +34,40 @@ draft = false
                 <br>
                 <ul>
                     <li>
-                        <a href="./slides/Carmen_DeArdo.pdf">Carmen DeArdo - The Nationwide DevOps Journey</a>
+                        <a href="https://speakerdeck.com/devopsdaysohio/carmen-deardo-the-nationwide-devops-journey" target="_blank">Carmen DeArdo - The Nationwide DevOps Journey</a>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a href="./slides/ChangeManagementNotHorrible.pdf">Gene Pavell - Change Management Does Not Have
+                        <a href="https://speakerdeck.com/devopsdaysohio/gene-pavell-change-management-does-not-have-to-be-horrible" target="_blank">Gene Pavell - Change Management Does Not Have
                             To Be Horrible</a>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a href="https://docs.google.com/presentation/d/1gt1aoP_U6tx2VEzIRu2-XP4hSZIDlWgMc7wg7z2bxko/edit?usp=sharing">Mike
+                        <a href="https://docs.google.com/presentation/d/1gt1aoP_U6tx2VEzIRu2-XP4hSZIDlWgMc7wg7z2bxko/edit?usp=sharing" target="_blank">Mike
                             Sandman, Dan McSorley and Adam Kentosh - Zero effort developer on-boarding</a>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a href="./slides/McJunkin.pdf">Monica McJunkin - Driving DevOps with Data</a>
+                        <a href="https://speakerdeck.com/devopsdaysohio/monica-mcjunkin-driving-devops-with-data" target="_blank">Monica McJunkin - Driving DevOps with Data</a>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a href="./slides/twelve-factor-app.pdf">Adam Kentosh - 12-factor assessment</a>
+                        <a href="https://speakerdeck.com/devopsdaysohio/adam-kentosh-12-factor-assessment" target="_blank">Adam Kentosh - 12-factor assessment</a>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a href="http://www.slideshare.net/krlooney/devops-days-ohio">Kelly Looney - The DevOps Journey
+                        <a href="http://www.slideshare.net/krlooney/devops-days-ohio" target="_blank">Kelly Looney - The DevOps Journey
                             in Real Money Gaming</a>
                     </li>
                 </ul>
                 <ul>
                     <li>
-                        <a href="http://www.slideshare.net/DustinCollins1/human-error-and-secure-systems-devopsdays-ohio-2015">Dustin
+                        <a href="http://www.slideshare.net/DustinCollins1/human-error-and-secure-systems-devopsdays-ohio-2015" target="_blank">Dustin
                             Collins - Human Error and Secure Systemss</a>
                     </li>
                 </ul>
