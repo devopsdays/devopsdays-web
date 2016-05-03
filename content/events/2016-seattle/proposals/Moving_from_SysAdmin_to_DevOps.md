@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T12:18:48-07:00"
 title = "Everything you always wanted to know about moving from a regular sysadmin role to a DevOps role (but were afraid to ask)"
-type = "ignite"
+type = "talk"
 
 +++
 
