@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T12:14:21-07:00"
 title = "An unlikely happy couple, DevOps and IT Audit"
-type = "event"
+type = "talk"
 
 +++
 
