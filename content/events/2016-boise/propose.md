@@ -1,6 +1,6 @@
 +++
 date = "2016-05-03T13:24:36-06:00"
-title = "Propose A Session - DevOpsDays Boise 2016"
+title = "Propose A Session"
 type = "event"
 +++
   {{< cfp_dates >}}
