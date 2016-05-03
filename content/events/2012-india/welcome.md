@@ -2,8 +2,8 @@
 date = "2000-01-01T01:01:01-06:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/YYYY-city"]
-draft = true
+aliases = ["/events/2012-india"]
+draft = false
 
 +++
 
@@ -47,7 +47,7 @@ DevOps Days is coming to {{< event_location >}}!
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdaysyourtown >}} 
+    {{< event_twitter devopsdaysyourtown >}}
     </td>
   </tr>
 </table>
