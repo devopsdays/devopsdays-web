@@ -6,47 +6,23 @@ aliases = ["/events/2011-manila"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
+	<tr>
+		<td><img src='/img/devops_manila.png'></td>
     <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
+      <p>Be part of the first DevOpsDays in Southeast Asia brought to
+      you by DevCon Philippines!</p>
+      <p>
+        <strong>
+        December 2, 2011<br/>
+        8:00 am to 5:00pm<br/>
+        <a href="http://g.co/maps/qw5js" target="_blank">Makati Palace Hotel</a>
+        </strong>
+      </p>
+      <p>Please register <a href="#" onclick="showRegistration();">here</a>. Limited slots!</p>
+		</td>
+	</tr>
 </table>
+
+<h3>Organized by:</h3>
+    <a href="http://devcon.ph/" target="_blank"><img src="/img/sponsors/2011-devcon.png"/></a>
