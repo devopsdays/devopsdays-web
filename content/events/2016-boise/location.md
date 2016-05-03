@@ -1,6 +1,6 @@
 +++
 date = "2016-05-03T13:24:36-06:00"
-title = "Location - DevOpsDays Boise 2016"
+title = "Location"
 type = "event"
 
 +++
