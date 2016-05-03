@@ -6,47 +6,14 @@ aliases = ["/events/2011-mountainview"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h3>Devopsdays Mountain View 2011</h3>
 
-DevOps Days is coming to {{< event_location >}}!
+will be a two day event for discussing all topics around improving the interaction between what is traditionally considered development activity and that which is traditionally considered operations activity.
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+It will happen on <b>17 and 18 June 2011</b> in Mountain View, California.
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
-</table>
+<hr>
+<center><img src='/events/2011-mountainview/devops-shark.jpg'><br><br>
+<small><a href="http://www.motifake.com/jump-the-shark-october-challenge-shark-happy-days-and-the-fo-demotivational-poster-72962.html">Image Source: Motivational Shark</a>
+</small>
+</center>
