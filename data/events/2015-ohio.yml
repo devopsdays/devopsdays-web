@@ -49,10 +49,48 @@ proposal_email: "organizers-ohio-2015@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: covermymeds
     level: gold
-  - id: arresteddevops
-    level: community
+  - id: sumologic
+    level: gold
+  - id: scrumorg
+    level: gold
+  - id: chef
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: puppetlabs
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: solarwinds
+    level: gold
+  - id: fuse
+    level: silver
+  - id: victorops
+    level: silver
+  - id: servicenow
+    level: silver
+  - id: cardinal
+    level: silver
+  - id: bmc
+    level: silver
+  - id: appdynamics
+    level: silver
+  - id: column
+    level: silver
+  - id: advizex
+    level: bronze
+  - id: teksystems
+    level: bronze
+  - id: redhat
+    level: bronze
+  - id: bit
+    level: media
+  - id: oreilly
+    level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -61,5 +99,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+  - id: media
+    label: Media
