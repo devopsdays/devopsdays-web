@@ -12,7 +12,7 @@ type = "event"
 <p></p>
 
 
-###Note: The host hotel is sold out of rooms!
+### Note: The host hotel is sold out of rooms!
 
 We don't have any relationship with these hotels, but here are some other options:
 
