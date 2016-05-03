@@ -16,8 +16,6 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
-
 Our main criteria to make it to the top selection are:
 
 - _original content_: content not yet presented at other conferences, or a new angle to an existing problem
@@ -37,4 +35,14 @@ Our main criteria to make it to the top selection are:
 	<li>Propose your own talk; don't have someone else do it for you.</li>
 	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
 	<li>Multiple proposals welcome... just follow the other rules</li>
+</ul>
+<strong>Some example topics:</strong>
+<br>Including but not limited to:
+<ul>
+	<li>Introducing cloud computing to skeptics</li>
+	<li>The virtues of diversity hiring</li>
+	<li>How to manage on-call effectively</li>
+	<li>How to get your team to care about security</li>
+	<li>DevOps means educating, sharing, and building trust</li>
+	<li>How to resolve technical disagreements in your organization</li>
 </ul>
