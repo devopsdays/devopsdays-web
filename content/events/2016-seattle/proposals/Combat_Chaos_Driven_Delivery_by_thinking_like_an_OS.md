@@ -1,7 +1,7 @@
 +++
 date = "2016-04-16T10:10:21-07:00"
 title = "Combat Chaos-Driven Delivery by thinking like an OS"
-type = "ignite"
+type = "talk"
 
 +++
 
