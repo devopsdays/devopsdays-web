@@ -6,44 +6,38 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.
 
-<hr>
+If you are interested in sponsoring [drop us an email](mailto:organizers-austin-2012@devopsdays.org).
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<br>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-<br>
-<hr/>
+For this event we provide the following options:
 
-<!--
+<table>
+	<tr><th><i>Packages</i></th><th><center><b><u>Silver (1000 USD)</u></center></b></th><th><center><b><u>Gold (2000 USD)</u></b></center></th></tr>
+	<tr><td></td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="9FJJSBK6XQPTY">
+	<input type="image" src="https://www.paypalobjects.com/en_US/BE/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+	</td><td><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="3KDB9J6TCBAUS">
+	<input type="image" src="https://www.paypalobjects.com/en_US/BE/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+	</form>
+	</td></tr>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+	<tr><td>Logo on website</td><td bgcolor="green">&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+	<tr><td>Logo on all email communications</td><td bgcolor="green">&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+	<tr><td>3 minute Pitch during Openspace</td><td bgcolor="green">&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+	<tr><td>Ability to demo product (5min max) during Openspace Demo Session</td><td bgcolor="green">&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+
+	<tr><td>Exhibit Booth Space (simple table, no full blown commercial booth:)</td><td>&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+	<tr><td>Additional free conference pass for person manning the booth</td><td>&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+	<tr><td>Listed as 'hosting' the beer event, lunch or dinner</td><td>&nbsp;</td><td bgcolor="green">&nbsp;</td></tr>
+
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
-<br/>
-<br/>
-</div>
--->
+
+DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships to happen. However, because of the nature of the event, we do not have vendor booths or book product pitches.  Gold sponsors do get a table they can hang out at and put materials on for interested people to come visit during breaks, and of course all attendees are welcome to propose any subject they want during the openspaces, but this is not 'that kind of conference' and heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <hr/>
