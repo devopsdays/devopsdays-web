@@ -1,7 +1,7 @@
 +++
 date = "2016-04-13T12:18:48-07:00"
 title = "The first 50 nodes... the story of our journey at a Windows-centric enterprise"
-type = "ignite"
+type = "talk"
 
 +++
 
