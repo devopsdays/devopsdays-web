@@ -1,7 +1,7 @@
 +++
 date = "2016-04-16T10:10:21-07:00"
 title = "DevOps at Expedia Local Expert"
-type = "ignite"
+type = "talk"
 
 +++
 

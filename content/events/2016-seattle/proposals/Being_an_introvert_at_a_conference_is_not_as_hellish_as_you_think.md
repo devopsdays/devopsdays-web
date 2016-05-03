@@ -1,7 +1,7 @@
 +++
 date = "2016-04-16T10:10:21-07:00"
 title = "Being an introvert at a conference is not as hellish as you think"
-type = "ignite"
+type = "talk"
 
 +++
 
