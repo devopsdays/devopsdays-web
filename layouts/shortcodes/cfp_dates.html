@@ -2,7 +2,7 @@
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 
-{{ if isset $e "cfp_date_start" }}
+{{ if ($e.cfp_date_start) }}
 
   {{ $cfp_date_start := $e.cfp_date_start }}
   {{ $cfp_date_end := $e.cfp_date_end }}

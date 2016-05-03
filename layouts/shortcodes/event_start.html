@@ -4,8 +4,10 @@
 
 {{ $startdate := $e.startdate}}
 
-{{ if isset $e "startdate" }}
+{{ if $startdate }}
   {{ dateFormat "Monday, Jan 2, 2006" $startdate }}
 {{ else }}
   TBD
 {{ end }}
+
+
