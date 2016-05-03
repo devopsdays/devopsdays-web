@@ -64,6 +64,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bluesquare
   - id: victorops
     level: bluesquare
+  - id: vmware
+    level: bluesquare
+  - id: healthcatalyst
+    level: bluesquare
   - id: centurylink
     level: greencircle
   - id: arresteddevops
