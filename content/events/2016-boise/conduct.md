@@ -1,6 +1,6 @@
 +++
 date = "2016-05-03T13:24:36-06:00"
-title = "Code of Conduct - DevOpsDays Boise 2016"
+title = "Code of Conduct"
 type = "event"
 
 +++
