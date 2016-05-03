@@ -6,12 +6,6 @@ type = "event"
 
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+If you want to contact us by email at <a href="mailto:organizers-sydney-2011@devopsdays.org">organizers-sydney-2011@devopsdays.org</a>
 
-**Our local team**
-
-{{< list_organizers >}}
-
-**The core devopsdays organizer group**
-
-{{< list_core >}}
+the devopsdays Sydney team
