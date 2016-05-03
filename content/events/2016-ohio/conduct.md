@@ -1,17 +1,14 @@
 +++
+City = "Ohio"
+Year = "2016"
 date = "2016-03-06T21:17:08-06:00"
 title = "conduct"
 type = "event"
+draft = false
 
 +++
 
-## HB2
-
-In light of the recent passage of House Bill 2, the organizers of DevOpsDays Raleigh would like to affirm our support of the DevOpsDays Code of Conduct. We are all personally committed to a policy of non-discrimination and will be taking that commitment seriously over the course of the event. The code of conduct will be prominently displayed upon registration and at various locations around the event to remind attendees that this will be a safe space for all.
-
-To make it easier for those who are considering attending, we are working to provide a list of local businesses (restaurants, hotels, etc.) that have identified as LGBTQA friendly. If you have any questions or concerns, please do not hesitate to reach out to the organizers: {{< email_organizers >}}
-
-## ANTI-HARASSMENT POLICY
+<h2>ANTI-HARASSMENT POLICY</h2>
 
 DevOpsDays is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
@@ -27,7 +24,7 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
 
-## CODE OF CONDUCT
+<h2>CODE OF CONDUCT</h2>
 
 I. I am an attendee at devopsdays, learning from and sharing with other devopsdays attendees in an effort to better myself and my industry. I co-create the experience with fellow attendees. I am prepared to give my energy, presence and sensitivity to creating the best possible experience for myself and others.
 
