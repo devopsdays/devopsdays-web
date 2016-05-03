@@ -27,6 +27,7 @@ team_members:
     twitter: "alicegoldfuss"
     employer: "New Relic"
   - name: "Alastair Drong"
+    twitter: "BitXDeadweight"
   - name: "Daniel Dreier"
     twitter: "daniel_dreier"
     employer: "Puppet"
@@ -56,6 +57,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: ca_tech
     level: gold
   - id: thoughtworks
+    level: gold
+  - id: github
     level: gold
   - id: victorops
     level: silver
