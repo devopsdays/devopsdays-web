@@ -9,7 +9,7 @@ Chomping .year has the nice effect of turning an int into string. -->
 {{ range seq 2009 2020 }}
   {{ $r_year := . }}
   {{ range $.Site.Data.events }}
-    {{ if eq .year $r_year }}
+    {{ if and (eq .year $r_year) (eq .status "past")  }}
       {{ $.Scratch.SetInMap "active_years" (chomp .year) (chomp .year) }}
       {{ $.Scratch.SetInMap (chomp .year) .startdate (.name) }}
     {{ end }}
@@ -36,9 +36,8 @@ Chomping .year has the nice effect of turning an int into string. -->
                       Chomping here in order to convert int to string -->
                             {{ range ($.Scratch.GetSortedMapValues (chomp .)) }}
                               {{ $city := (index $.Site.Data.events . "city") }}
-                              {{ $year := (index $.Site.Data.events . "year") }}
                               {{ $friendly := (index $.Site.Data.events . "friendly") }}
-                              <a href="/events/{{ $friendly }}/">{{ $city }} {{ $year }}</a>
+                              <a href="/events/{{ $friendly }}/">{{ $city }}</a>
                               <br/>
                             {{ end }}
                         </div>
