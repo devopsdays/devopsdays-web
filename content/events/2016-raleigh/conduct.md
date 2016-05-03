@@ -5,6 +5,12 @@ type = "event"
 
 +++
 
+## HB2
+
+In light of the recent passage of House Bill 2, the organizers of DevOpsDays Raleigh would like to affirm our support of the DevOpsDays Code of Conduct. We are all personally committed to a policy of non-discrimination and will be taking that commitment seriously over the course of the event. The code of conduct will be prominently displayed upon registration and at various locations around the event to remind attendees that this will be a safe space for all.
+
+To make it easier for those who are considering attending, we are working to provide a list of local businesses (restaurants, hotels, etc.) that have identified as LGBTQA friendly. If you have any questions or concerns, please do not hesitate to reach out to the organizers: {{< email_organizers >}}
+
 ## ANTI-HARASSMENT POLICY
 
 DevOpsDays is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
