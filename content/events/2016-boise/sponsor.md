@@ -38,8 +38,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tr>
     <td>Price (USD)</td>
     <td>$1,000</td>
+    <td>$2,000</td>
     <td>$3,000</td>
-    <td>$5,000</td>
     <td>$10,000</td>
   </tr>
   <tr>
