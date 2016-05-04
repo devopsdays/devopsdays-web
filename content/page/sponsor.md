@@ -14,7 +14,7 @@ Sponsoring devopsdays conferences gives your organization an opportunity to spea
 
 **Code of Conduct**
 
-All devopsdays events have a code of conduct and require sponsors to follow it. This applies to giveaways, items and images at your table, behavior of your staff, etc. See the specific city's site for their code of conduct wording.
+All devopsdays events have a code of conduct and require sponsors to follow it. This applies to giveaways, items and images at your table, behavior of your staff, etc. See the specific city's site for the details of their code of conduct.
 
 
 **How to sponsor**
@@ -23,7 +23,7 @@ All devopsdays events are independently organized. No multi-city sponsorships ar
 
 Events set their own rates and can tell you about their expected attendance in terms of numbers and communities represented. Sometimes they will offer additional special sponsorships for more visibility, such as lanyard, evening event, etc. They typically are charging exactly what they need to run the event; nobody's making any money off these events, so discounts are generally not available.
 
-The vast majority of events do not have a legal tax-deductible status. Most sponsors fund this sponsorship either out of their marketing budget or recruiting budget, depending on their goals for sponsorship. Because the vast majority of events are put on by a loose affiliation of like-minded community members with no legal status, contracts are generally not used. However, most events employ some form of professional accounting, so you usually have the option of paypal/credit card or invoice followed by check or bank transfer.
+The vast majority of events do not have a legal tax-deductible status. Most sponsors fund this sponsorship either out of their marketing budget or recruiting budget, depending on their goals for sponsorship. Because these events are organized by volunteers who usually have no legal entity, contracts are generally not used. However, most events employ some form of professional accounting, so you usually have the option of paypal/credit card or invoice followed by check or bank transfer.
 
 
 **Staffing & participation onsite**
@@ -38,23 +38,16 @@ All attendees including sponsors are welcome to propose any subject they would l
 
 Demos at your table are one good way to show off your org. It's usually possible to bring or rent monitors, though be sure to check with a given event about the exact mechanism at their venue.
 
-Devopsdays events aren't your standard trade show, so you won't be shipping your booth. Most events have sponsorships available that come with a simple six-foot table and a couple of chairs.
-
-Typical sponsor packing list:
-<ul>
-<li>branded tablecloth
-<li>stand-up sign(s)
-<li>giveaways
-<li>laptops with demos
-<li>business cards pointing to your event landing page
-</ul>
+You don't need to ship your own booth or tables; devopsdays will provide table and chairs corresponding to your sponsorship level. You'll likely want to ship a table cloth, banner/background, giveaways, etc.
 
 
 **Speaking & Attendee contact info**
 
-Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals in the same call for proposals as anyone else. Most events have an opportunity for sponsors to make a short elevator pitch for their services (generally in the order of a minute or two).
+Devopsdays does not sell conference speaking slots; sponsors' employees are welcome to submit talk proposals in the same call for proposals as anyone else. The talks are videorecorded and freely available online after the fact, and occasionally livestreamed, which is a great takeaway for the speakers and their orgs. Most events have an opportunity for sponsors to make a short elevator pitch for their services (generally in the order of a minute or two); this makes it to the livestream but usually not into the edited recordings.
 
-Devopsdays does not ever distribute attendee contact information. If you're interested in lead generation, have conversations with the attendees and ask for their contact info directly. Do not expect badge scanning of any sort. Most events don't even collect information about job title. _Sometimes_ company affiliation is on the badges. In general, if you want information, you're going to need to interact (and perhaps run a raffle to collect business cards).
+Devopsdays does not ever distribute attendee contact information. Do not expect badge scanning of any sort. Most events don't even collect information about job title. _Sometimes_ company affiliation is on the badges, and sometimes it's not.
+
+If you want to collect leads, you'll have to talk directly with individuals and request their contact info. Vendors also often raffle off prizes ranging from large Lego sets to tablets and other desirable items, collecting contact info in the process.
 
 
 **When will a devopsdays conference happen in some specific place?**
