@@ -26,7 +26,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: expedia
     level: gold
-  - id: sendachi
+  - id: 2016-sendachi
     level: gold
   - id: slalom
     level: gold
@@ -40,6 +40,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: newrelic
     level: gold
+  - id: datadog
+    level: gold
   - id: parasoft
     level: gold
   - id: amazon
@@ -48,6 +50,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: extrahop
     level: gold
+  - id: 2016-platform9
+    level: silver
   - id: rei
     level: bronze
   - id: luxoft
