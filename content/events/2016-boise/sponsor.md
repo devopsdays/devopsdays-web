@@ -22,9 +22,10 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 <style>
-#sponsorship th { text-align: center }
-#sponsorship td { text-align: center }
-#sponsorship td:first-child { text-align: left }
+#sponsorship th { text-align: center; }
+#sponsorship td { text-align: center; }
+#sponsorship td:first-child { text-align: left; }
+a.payment:link, a.payment:visited, a.payment:hover, a.payment:active { text-decoration: none !important; }
 </style>
 <div style="width:590px">
 <table border=1 cellspacing=1 id="sponsorship">
@@ -83,6 +84,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
+  </tr>
+  <tr>
+    <td>pay online</td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6R6VW7CB22EVN"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HPF2CQF5839TU"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HNMFE4QGD3RCN"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
+    <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EMQKJYTCHFHNN"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
   </tr>
 </table>
 <hr/>
