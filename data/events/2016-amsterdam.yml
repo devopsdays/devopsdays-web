@@ -1,28 +1,74 @@
-name: amsterdam-2016 # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2016-amsterdam" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Amsterdam" # The city name of the event. Capitalize it.
 friendly: "2016-amsterdam" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current".
-startdate: 2016-06-29 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2016-07-01 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-02-01
-cfp_date_end: 2016-04-30
-cfp_date_announce: 2016-06-01
-coordinates: "52.373791, 4.920502" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
+
+# Datus and status
+status: "current" # Options are "past" or "current". Use "current" for upcoming.
+startdate: 2016-06-29  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-07-01  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+cfp_date_start: 2016-01-15 # start accepting talk proposals.
+cfp_date_end: 2016-04-30 # close your call for proposals.
+cfp_date_announce: 2016-01-01 # inform proposers of status
+
+# Location
+coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Amsterdam" # Defaults to city, but you can make it the venue name.
+
+# Team members
+team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Marjana Shammi", "Mine Heck", "Daniel Paulus", "Mark Heistek"]
+
+# Emails
 organizer_email: "organizers-amsterdam-2016@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-amsterdam-2016@devopsdays.org" # Put your proposal email address here
-sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: chef
+proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal email address here
+
+# Sponsors 2016-sendachi
+sponsors:
+  # gold
+  - id: 2016-chef
     level: gold
-  - id: datadog
+  - id: github
     level: gold
-  - id: arresteddevops
+  - id: 2016-pivotal
+    level: gold
+  - id: schubergphilis
+    level: gold
+  - id: solvinity
+    level: gold
+  - id: stackstate
+    level: gold
+  - id: 2016-thoughtworks
+    level: gold
+  - id: ubuntu
+    level: gold
+  - id: wehkamp
+    level: gold
+  # silver
+  - id: icemobile
+    level: silver
+  - id: linkit
+    level: silver
+  - id: redhat
+    level: silver
+  # bronze
+  - id: beslist
+    level: bronze
+  # BBQ
+  - id: 2016-chef
+    level: bbq
+  # Beer
+  - id: redhat
+    level: beer
+  # Community
+  - id: oreilly
     level: community
 
-sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+# Declare the sponsors for dodAMS 2016
+sponsor_levels:
+  - id: bbq
+    label: BBQ
+  - id: beer
+    label: Beer
   - id: gold
     label: Gold
   - id: silver
@@ -31,3 +77,13 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: community
     label: Community
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+#  - name: program
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
