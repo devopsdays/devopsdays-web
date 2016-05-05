@@ -6,47 +6,50 @@ aliases = ["/events/2012-tokyo"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <table>
   <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
     <td>
-    {{< event_twitter devopsdays >}} 
+      <img src="/events/2012-tokyo/devops_heart.png"/>
     </td>
-  </tr>
+    <td>
+<p>This is a 1-day event and it will take place on <b>Saturday 26th of May</b>
+
+<p>The <a href="location">location</a> is kindly provided by <a href="http://www.gmo.jp/en/">GMO Internet Group</a>, <a href="http://www.gmo-media.jp/">GMO Media Inc.</a>,<a href="http://ir.gmocloud.com/english/index.html "> GMO CLOUD, K.K.</a></p>
+
+<p>Expect the usual <a href="program">mixture of conference talks and openspaces</a></p>
+
+<p>If you want to <a href="sponsor">sponsor</a> or <a href="proposals">propose a talk</a>, don't hesitate <a href="contact">to contact us if you are interested!</a>
+
+
+
+  </td>
+</tr>
 </table>
+
+<p>
+Please register for an after the event social sponsered by Dell.
+</P>
+Registration site link:
+[https://connpass.com/event/490/](https://connpass.com/event/490/)
+
+<P>
+PLEASE BRING YOUR NAME CARD TO RECIVE ENTRANCE PASS FOR THE VENUE.
+</P>
+
+<hr>
+Sponsors in Japan:
+- [Creationline, Inc.](http://www.creationline.com/)
+- [GMO Internet Group](http://www.gmo.jp/en/)
+- [GMO Media, Inc.](http://www.gmo-media.jp/)
+- [GMO CLOUD, K.K.](http://ir.gmocloud.com/english/index.html)
+
+Cooperation：
+- [Dell Japan](http://www.dell.co.jp/)
+
+Contents support:
+- [CyberAgent](http://www.cyberagent.info/)
+
+
+Links:
+- [Official Facebook Page for DevOps Days Tokyo 2012](https://www.facebook.com/DevOpsDays)
+- [Access Map to Cerulian Tower](http://ir.gmocloud.com/company/profile/access02/)
