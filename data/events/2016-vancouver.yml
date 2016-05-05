@@ -63,6 +63,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: 2016-samsung
     level: bronze
+  - id: 2016-statsearchanalytics
+    level: bronze
   - id: 2016-appneta
     level: party
   - id: 2016-citytosuburb
