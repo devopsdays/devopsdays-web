@@ -8,7 +8,7 @@ aliases = ["/events/2016-madison"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to {{< event_location >}}!
+DevOps Days is coming to <!--{{< event_location >}}-->Madison!
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
