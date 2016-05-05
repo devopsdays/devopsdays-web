@@ -1,5 +1,5 @@
 name: 2016-chicago
-year: 2016
+year: "2016"
 city: "Chicago"
 friendly: "2016-chicago"
 status: "current"
@@ -14,26 +14,59 @@ newnav: "yes"
 # navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "conduct", "sponsor"]
 nav_elements:
   - name: welcome
-  - name: contact
-  - name: location
-  - name: program
   - name: propose
     url: http://cfp.devopsdayschi.org
-  - name: conduct
+  - name: registration
   - name: sponsor
+  - name: volunteer
+  - name: location
+  - name: contact
+  - name: conduct
 
-team: ["Jerry Cattell", "Brian Devlin", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
-organizer_email: "organizers-chicago-2016@devopsdays.org"
-proposal_email: "proposals-chicago-2016@devopsdays.org"
+team: ["Jerry Cattell", "Brian Devlin", "Cora Hays-Magan", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
+organizer_email: "organizers@devopsdayschi.org"
+proposal_email: "cfp@devopsdayschi.org"
 ga_tracking_id: "UA-74738648-1"
 
 sponsors:
-  - id: chef-2016
+  - id: pivotal
     level: gold
+  - id: sumologic
+    level: gold
+  - id: elastic
+    level: gold
+  - id: victorops
+    level: gold
+  - id: ahead
+    level: gold
+  - id: threatstack
+    level: gold
+  - id: chef
+    level: gold
+  - id: thoughtworkscdproducts
+    level: gold
+  - id: github
+    level: gold
+  - id: 10thmagnitude
+    level: gold
+  - id: ca_tech
+    level: gold
+  - id: pagerduty
+    level: silver
+  - id: servercentral
+    level: silver
+  - id: panopta
+    level: bronze
   - id: arresteddevops
     level: community
   - id: softwaredefinedtalk
     level: community
+  - id: devopsconferences
+    level: community
+  - id: blacksintechnology
+    level: community
+  - id: grubhub
+    level: lunch
 
 sponsor_levels:
   - id: gold
@@ -44,3 +77,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: lunch
+    label: Lunch
