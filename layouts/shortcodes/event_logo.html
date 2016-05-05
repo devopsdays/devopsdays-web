@@ -2,4 +2,4 @@
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 
-<img alt="DevOpsDays {{ $e.city }} {{ $e.year }}" src="/events/{{ $event_slug }}/logo.png"/>
+<img alt="DevOpsDays {{ $e.city }} {{ $e.year }}" src="/events/{{ $event_slug }}/logo.png" style="max-width: 90%; margin:5%;"/>
