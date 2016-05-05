@@ -9,9 +9,9 @@ aliases = ["/events/2016-vancouver"]
 
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+ {{< event_logo >}}
+</div>
 
 <div style="text-align:center;">
 <h2>DevOpsDays Vancouver 2016</h2>
