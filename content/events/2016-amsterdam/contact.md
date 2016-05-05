@@ -2,7 +2,7 @@
 City = "Amsterdam"
 Year = "2016"
 date = "2016-03-06T21:16:08-06:00"
-title = "contact"
+title = "Contact"
 type = "event"
 
 
