@@ -36,6 +36,11 @@ DevOps Days is coming to <!--{{< event_location >}}-->Madison!
     <td>View the {{< event_link page="program" text="program" >}}.</td>
   </tr> -->
   <tr>
+    <iframe src="https://docs.google.com/forms/d/1wFJR6-czvW6sM6_yKN-Alk0Im_MLXaO5Fm6XOQboOfY/viewform?embedded=true#start=embed"
+                width="570" height="1500" frameborder="0" marginheight="0"
+                marginwidth="0">Loading...</iframe>
+  </tr>
+  <tr>
     <td><b>Sponsors</b></td>
     <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
   </tr>
