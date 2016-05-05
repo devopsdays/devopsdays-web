@@ -52,6 +52,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2016-platform9
     level: silver
+  - id: 2016-concur
+    level: silver
   - id: rei
     level: bronze
   - id: luxoft
