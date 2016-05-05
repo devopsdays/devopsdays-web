@@ -13,12 +13,13 @@ location: "location" # The name of your location
 
 nav_elements:
   - name: welcome
-  - name: contact
-  - name: location
   - name: program
-  - name: propose
-  - name: conduct
+  - name: location
+  - name: livestream
+  - name: registration
   - name: sponsor
+  - name: contact
+  - name: conduct
 
 team_members: # Name is the only required field for team members.
  - name: "Chris Demwell"
@@ -62,6 +63,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: 2016-mobify
     level: bronze
   - id: 2016-samsung
+    level: bronze
+  - id: 2016-statsearchanalytics
     level: bronze
   - id: 2016-appneta
     level: party
