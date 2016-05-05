@@ -156,7 +156,7 @@ No. As a Sponsor, you will be included in the Thank You email at the end of the 
 Send your technical folks that can interact with the attendees during sessions, Open Spaces, and breaks. All experience levels are welcome.
 
 ### What are the demographics of the attendees?
-Technologists, architects, technology managers.  Refer to the registration list, to be released shortly.
+Technologists, architects, technology managers. 
 
 ## Sponsor DevOpsDays!
 Become a sponsor now by emailing [organizers-vancouver-2016@devopsdays.org](mailto:organizers-vancouver-2016@devopsdays.org).
