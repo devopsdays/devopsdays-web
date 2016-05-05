@@ -10,9 +10,9 @@ aliases = ["/events/2016-chicago"]
 
 Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together and planning the 2016 event.  We're encouraged by the feedback from last year's event and are determined to bring an improved experience and continue the DevOps conversation this August in Chicago.
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  {{< event_logo >}} 
+</div>
 
 <table>
   <tr>
@@ -21,17 +21,16 @@ Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together an
   </tr>
   <tr>
     <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
+    <td>{{< event_location >}} in downtown Chicago</td>
   </tr>
   <tr>
     <td><b>Participants</b></td>
-    <td>{{< event_link page="registration" text="Registrat to attend the event!" >}}</td>
-</tr>
-<tr>
-    <td><b>Speakers</b></td>
-    <td>Check out the {{< event_link page="program" text="program" >}}.</td>
+    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
   </tr>
-
+  <tr>
+    <td><b>Speakers</b></td>
+    <td>{{< event_link page="propose" text="Propose a Session or Ignite!" >}}</td>
+  </tr>
   <tr>
     <td><b>Sponsors</b></td>
     <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
