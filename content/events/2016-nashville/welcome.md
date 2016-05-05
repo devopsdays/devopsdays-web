@@ -2,10 +2,7 @@
 date = "2016-11-10T21:15:25-06:00"
 title = "welcome"
 type = "event"
-City = "nashville"
-Year = "2016"
-aliases = ["/events/2016-Nashville"]
-draft = false
+aliases = ["/events/2016-nashville"]
 
 +++
 
