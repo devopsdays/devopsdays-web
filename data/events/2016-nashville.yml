@@ -1,0 +1,30 @@
+name: 2016-nashville # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2016 # The year of the event. Make sure it is in quotes.
+city: "Nashville" # The city name of the event. Capitalize it.
+friendly: "2016-nashville" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "current" # Options are "past" or "current".
+startdate: 2016-11-10 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+enddate: 2016-11-11 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: 2016-06-01
+cfp_date_end: 2016-08-31
+cfp_date_announce: 2016-09-15
+coordinates: "36.160606, -86.7746752" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "aVenue" # The name of your location
+navigationelements: ["welcome", "contact", "location", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+team: ["James Fryman", "Jurnell Cockhren", "Eliza Marcum", "Chris Wage", "Nick Wallace"]
+organizer_email: "organizers-nashville-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-nashville-2016@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: raventools
+    level: silver
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: media
+    label: Media
+  - id: badges
+    label: Badges
