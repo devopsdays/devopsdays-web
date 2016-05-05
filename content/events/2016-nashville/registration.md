@@ -1,10 +1,7 @@
 +++
-City = "Nashville"
-Year = "2016"
 date = "2016-11-10T21:28:23-06:00"
 title = "Registration"
 type = "event"
-draft = false
 
 
 +++
