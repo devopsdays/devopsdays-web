@@ -6,47 +6,11 @@ aliases = ["/events/2012-newyork"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<center>
+<img src='/events/2012-newyork/workers.png'>
+<h4>We're in this together</h4>
+      <p><b>17 and 18 January 2013 (originally scheduled for 2012)</b><br/>Brooklyn, NYC</p>
+      <p>You can <a href="sponsor">become a sponsor.</a></p>
+</center>
 
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
-</table>
+<center>This event was livestreamed thanks to <a href="http://twitter.com/livestream">@livestream</a> - <a href="https://new.livestream.com/devopsdaysorg/nyc2013">Watch it live</a></center>
