@@ -1,8 +1,8 @@
-name: 2016-london # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2016-london" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: 2016 # The year of the event. Make sure it is in quotes.
 city: "London" # The city name of the event. Capitalize it.
 friendly: "2016-london" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current".
+status: "past" # Options are "past" or "current".
 startdate: 2016-04-19 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-04-20 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-04-01
@@ -10,24 +10,90 @@ cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
 coordinates: "51.5072, -0.1275" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
+
+
+nav_elements:
+  - name: welcome
+  - name: program
+  - name: hackathon
+  - name: presenters
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+team_members: # Name is the only required field for team members.
+ - name: "Barry Chandler"
+   employer: "Barclays"
+ - name: "Owen Gardner"
+   employer: "Barclays"
+ - name: "Philippe Guenet"
+   employer: "GFT"
+ - name: "Mark Rendell"
+   employer: "Accenture"
+
 organizer_email: "organizers-london-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-london-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: barclays
+    level: platinum
+  - id: gft
+    level: platinum
+  - id: hpe
+    level: platinum
+  - id: oracle
+    level: gold
   - id: chef
     level: gold
-  - id: datadog
+  - id: microsoft
     level: gold
-  - id: arresteddevops
-    level: community
+  - id: pagerduty
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: accenture
+    level: gold
+  - id: redhat
+    level: gold
+  - id: docker
+    level: gold
+  - id: serverdensity
+    level: silver
+  - id: opentext
+    level: silver
+  - id: coscale
+    level: silver
+  - id: delphix
+    level: silver
+  - id: moog
+    level: silver
+  - id: xebialabs
+    level: silver
+  - id: nuagenetworks
+    level: bronze
+  - id: parasoft
+    level: bronze
+  - id: 2016-devopsdotcom
+    level: media
+  - id: oreilly
+    level: media
+  - id: hays
+    level: reception
+
+
+
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
   - id: silver
     label: Silver
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+  - id: media
+    label: Media
+  - id: reception
+    label: Event Reception
