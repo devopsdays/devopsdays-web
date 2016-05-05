@@ -5,6 +5,14 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+## Hosted by
 
-<!-- {{< event_map >}} -->
+- [GMO Internet Group](http://www.gmo.jp/en/company-profile/outline/)
+- [GMO Media, Inc.](http://www.gmo-media.jp/)
+- [GMO CLOUD, K.K.](http://ir.gmocloud.com/english/)
+
+<br>
+
+Cerulean Tower 11F, 26-1 Sakuragaoka-cho, Shibuya-ku, Tokyo, JAPAN
+
+<img src="http://www.gmo.jp/en/images/public/common/profile/map.gif">
