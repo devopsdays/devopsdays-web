@@ -6,7 +6,15 @@ title = "propose"
 type = "event"
 
 +++
+
+<center>
+<b>Call for proposals closed for 30 minutes talks, </b><br>
+
+<b>We still accept proposals for ignite talks as there are open slots.</b><br>
+
+</center>
   {{< cfp_dates >}}
+
 
 <hr>
 There are three ways to propose a session:
@@ -16,7 +24,7 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
+### Even if you don't propose, please consider [commenting on proposals submitted by others](/events/2016-istanbul/proposals/)
 
 Our main criteria to make it to the top selection are:
 
@@ -24,7 +32,7 @@ Our main criteria to make it to the top selection are:
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<strong>How to submit a proposal:</strong> Send an email to {{< email_organizers >}} with the following information
 <ol>
 	<li>Proposal working title (can be changed later)</li>
 	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
