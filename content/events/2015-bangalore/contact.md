@@ -6,7 +6,7 @@ type = "event"
 
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+If you'd like to contact us by email: [team@devopsdaysindia.org](mailto:team@devopsdaysindia.org)
 
 **Our local team**
 
