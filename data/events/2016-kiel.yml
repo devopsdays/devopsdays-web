@@ -31,7 +31,7 @@ proposal_email: "proposals-kiel-2016@devopsdays.org"
 sponsors:
   - id: serverdensity
     level: gold
-  - id: chef
+  - id: chef-io
     level: gold
   - id: nuagenetworks
     level: gold
