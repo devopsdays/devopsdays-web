@@ -25,7 +25,7 @@ proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal e
 # Sponsors 2016-sendachi
 sponsors:
   # gold
-  - id: 2016-chef
+  - id: chef
     level: gold
   - id: github
     level: gold
@@ -54,7 +54,7 @@ sponsors:
   - id: beslist
     level: bronze
   # BBQ
-  - id: 2016-chef
+  - id: chef
     level: bbq
   # Beer
   - id: redhat
