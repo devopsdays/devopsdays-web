@@ -8,45 +8,17 @@ aliases = ["/events/2015-austin"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to {{< event_location >}}!
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
-</table>
+<div>
+  Location: <a href="location">The Marchesa - Austin</a>
+  <br/><br/>
+  DevOps Days Austin 2015 was a big success! <a href="http://atxdevops.github.io/">Please visit our site</a> for a summary of the conference including <a href="http://atxdevops.github.io/">slides/talks/conference summary</a>, etc.
+
+</div>
+<hr>
+
+If you want to be the first to know [subscribe to the devopsdays mailinglist](http://groups.google.com/group/devopsdays)
