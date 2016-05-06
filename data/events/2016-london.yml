@@ -44,7 +44,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: oracle
     level: gold
-  - id: chef
+  - id: chef-io
     level: gold
   - id: microsoft
     level: gold
