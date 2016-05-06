@@ -4,30 +4,42 @@ city: "Istanbul" # The city name of the event. Capitalize it.
 friendly: "2016-istanbul" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current".
 startdate: 2016-06-03 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2016-06-03 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-01
-cfp_date_announce: 2016-07-01
-coordinates: "41.0136, 28.9550" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
-organizer_email: "organizers-instanbul-2016@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-instanbul-2016@devopsdays.org" # Put your proposal email address here
+enddate: 2016-06-04 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: 2016-02-21
+cfp_date_end: 2016-04-22
+cfp_date_announce: 2016-05-06
+coordinates: "41.110065,29.041329" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Borsa İstanbul Conference Room" # The name of your location
+navigationelements: ["welcome", "location", "program", "propose", "proposals", "registration", "contact", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+team: ["Derya Sezen", "Rommel Tinoco", "Altuğ Bilgin Altıntaş", "Birge Elif Basık", "Zülfikar Karakaya", "Ismail Arslan", "Firat Arig", "Zeldal Özdemir", "Erkan Binici", "Mesut Can Gürle", "Safiye Nur Şimşek", "Mehmet Ali Aydın"]
+organizer_email: "organizers-istanbul-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-istanbul-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: chef
+  - id: borsaistanbul
+    level: host
+  - id: comparex-tr
     level: gold
-  - id: datadog
+  - id: hpe-tr
     level: gold
-  - id: arresteddevops
-    level: community
+  - id: agile42
+    level: silver
+  - id: iyzico
+    level: silver
+  - id: kloia
+    level: silver
+  - id: vngrs
+    level: silver
+  - id: vmware-tr
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: host
+    label: Host
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
   - id: silver
     label: Silver
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
