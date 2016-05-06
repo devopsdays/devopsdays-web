@@ -10,8 +10,29 @@ cfp_date_end: 2016-02-23
 cfp_date_announce: 2016-02-29
 coordinates: "43.7000, -79.4000" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Glenn Gould Studio" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "register", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Steve Pereira", "Dave Cliffe", "Bruce Martins", "Erik Levinson", "Martin Cleaver", "Chris Little", "Fawzy Manaa", "Philippe Tremblay", "Abeer Rahman", "Peter Meth"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: propose
+  - name: program
+  - name: location
+  - name: register
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Steve Pereira"
+  - name: "Dave Cliffe"
+  - name: "Bruce Martins"
+  - name: "Erik Levinson"
+  - name: "Martin Cleaver"
+  - name: "Chris Little"
+  - name: "Fawzy Manaa"
+  - name: "Philippe Tremblay"
+  - name: "Abeer Rahman"
+  - name: "Peter Meth"
 organizer_email: "organizers-toronto-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-toronto-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
