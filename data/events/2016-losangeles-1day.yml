@@ -48,7 +48,7 @@ proposal_email: "devopsdayla-planning@googlegroups.com" # Put your proposal emai
 sponsors:
   - id: 2016-carsdotcom
     level: break
-  - id: 2016-chef
+  - id: chef
     level: break
   - id: 2016-cisco
     level: break
