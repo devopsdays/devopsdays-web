@@ -14,10 +14,6 @@ type = "event"
 <hr />
 
 
-<!--
-- [Harm Boertien](https://twitter.com/Harm_Ops)
--->
-
 <div class="span-7 append-bottom border">
 
 <div class="span-7 last">
@@ -25,7 +21,7 @@ type = "event"
 </div>
 
 <div class="span-2">08:00-09:00</div><div class="span-4 box last">Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:30</div><div class="span-4 box last"><p><strong>Opening Welcome</strong></p><p>Dr. Ulf Kämpfer, Mayor of the City of Kiel<br>Werner Kässens (KiWi)<br>Moderation:<br> Sabine Bernecker-Bendixen</p></div>
+<div class="span-2">09:00-9:30</div><div class="span-4 box last"><p><strong>Opening Welcome</strong></p><p>Dr. Ulf Kämpfer, Mayor of the City of Kiel<br>Werner Kässens (KiWi)<br>Dr. Inge Schröder (Wissenschaftszentrum)<br>Moderation:<br> Sabine Bernecker-Bendixen</p></div>
 <div class="span-2">09:30-10:10</div><div class="span-4 box last">
     <p><strong>Oliver Siebenmarck</strong></p><p><a href="#desc1">From 0 to DevOps - Coping with Continuous Delivery to the Cloud</a></p>
 </div>
@@ -133,8 +129,6 @@ type = "event"
 
 <div class="span-2">15:40-16:10</div><div class="span-4 box last"><strong>Ignites</strong><br /><a href="#desc14">Scalable & clean build environments with Jenkins and Docker</a><br />
 <i>Stefan Kahlhöfer</i><br /><br />
-The empty talentpool<br />
-<i>Harm Boertien</i><br /><br />
 <a href="#desc18">Praise the "overwrite" - Why boring approaches are awesome!</a><br />
 <i>Florian Sellmayr</i>
 </div>
@@ -145,7 +139,7 @@ The empty talentpool<br />
 
 <div class="span-2">17:10-17:45</div><div class="span-4 box last"><strong>Get together with AMA Panel</strong><br /><br />
 Moderation:<br />
-Willi Hasselbring<br />
+Maik Wojcieszak<br />
 Sabine Bernecker-Bendixen
 </div>
 
