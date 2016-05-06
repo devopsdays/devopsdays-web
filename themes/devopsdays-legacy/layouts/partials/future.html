@@ -6,21 +6,10 @@ is December of the current year.
 This code creates 2-3 lists: One of current years and a list of current events
 for each year (namespaced with "future" to prevent collisions). Later we loop
 through these lists to generate our event info.
+
+^^^ This isn't how this works right now - this is a sloppy implementation which hard-codes it to the year 2016, but it works for now -@mattstratton
 -->
 
-{{ range seq .Now.Year (add .Now.Year 1) }}
-  {{ $future_year := (chomp .) }}
-  {{ range $.Site.Data.events }}
-    {{ if and (eq .year $future_year) (eq .status "current") }}
-      {{ $.Scratch.SetInMap "future_years" $future_year $future_year }}
-      {{ if .startdate }}
-        {{ $.Scratch.SetInMap (print "future" $future_year) .startdate .friendly }}
-      {{ else }}
-        {{ $.Scratch.SetInMap (print "future" $future_year) "TBD" .friendly }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
 
 <div class="span-6 last">
     <div style=" padding-top:18px;" class="span-5 last">
@@ -33,18 +22,25 @@ through these lists to generate our event info.
                 <tr>
                     <div style="display:table-cell; vertical-align:top">
                         <div style="margin:1px;">
-                            {{ range ($.Scratch.GetSortedMapValues "future_years") }}
-                                <strong>{{ . }}</strong><br/>
-                                {{ range ($.Scratch.GetSortedMapValues (print "future" .)) }}
-                                    {{ $c_event := (index $.Site.Data.events .) }}
-                                    <a href="/events/{{ $c_event.name }}">{{ $c_event.city }}:
-                                      {{ if $c_event.startdate }}
-                                        {{ dateFormat "Jan 2" $c_event.startdate }} - {{ dateFormat "Jan 2" $c_event.enddate }}
-                                      {{ else }}
-                                        Coming Soon!
-                                      {{ end }}
-                                    </a><br />
-                                {{ end }}
+                            <strong>2016</strong><br/>
+                            {{ range sort $.Site.Data.events "startdate" }}
+                              {{ if  and ( eq .status "current") ( .startdate ) }}
+                              <a href = "/events/{{ .name }}/welcome">
+                                {{ .city }}
+                                {{ dateFormat "Jan 2" .startdate }}
+                                -
+                                {{ dateFormat "Jan 2" .enddate }}
+                              </a><br />
+                              {{ end }}
+                            {{ end }}
+                            <br />
+                            <strong>2016, Dates TBD</strong><br/>
+                            {{ range sort $.Site.Data.events "startdate" }}
+                              {{ if  and ( eq .status "current") ( not .startdate ) }}
+                              <a href = "/events/{{ .name }}/welcome">
+                                {{ .city }}
+                              </a><br />
+                              {{ end }}
                             {{ end }}
                         </div>
                     </div>
