@@ -1,0 +1,518 @@
+"votes","type","url","author","title","description","voter1"
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/PatrickvanDissel_Buildingthe21stcenturyCItooltogether/","Patrick van Dissel","the 21st century CI tool together","Abstract:
+
+   I'm currently in progress of building a Minimal Viable CI product (MVP), which is completely open-source (https://github.com/pvdissel/cy.io/). It's name is still temporary. The idea is to have the MVP demoable during the open-space. But even if it's not demoable, my focus of this open-space is gathering input on experiences and ideas from the attendees from different kind of backgrounds. Topics I want to discuss are for example:
+ - pain-points people face with current CI tools
+ - CI tool must-haves
+ - How should a CI tool work within the network/cloud? eg. preferences on distributed architectures, used protocols, firewall issues, security related requirements
+
+Speaker:
+
+Patrick van Dissel, Software Engineer working at Tricode in The Netherlands. I've been setting-up, maintaining and improving the continuous integration/delivery pipeline from the technical side for the last 2 years now. During this time I've been looking at all kinds of aspects to get better code and get it to production faster.
+
+It boils down to:
+I came to the conclusion that I'm not happy with the existing so called 'Continuous Integration' tools like Hudson/Jenkins, Go, TeamCity, AntHill, TravisCI, etc. They get the job done, but they don't follow the principles of this age, like:
+- Configuration-as-Code
+- Infrastructure-as-Code
+- Keep It Simple Stupid
+- Don't Repeat Yourself
+- Single Responsibility Principle
+I've investigated if I could help improve the existing tools to up-to-date. But at a code level it just looked not doable.
+
+So, in my free time, I started my own CI tool project. You can read the specifics at:
+   https://github.com/pvdissel/cy.io/wiki/Why-a-new-CI-tool
+   (and the other wiki pages and stories in the issue tracker)
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/WesMason_TwoPointOhMyReleaseengineeringforeveryone/","Wes Mason","Two Point Oh My! Release engineering for everyone","Abstract:
+
+With continuous integration, continuous deployment and packaging systems that just install all the latest shiny for us, we don't need to worry about releases any more..do we?
+
+Release engineering is an important aspect of any projects development and deployment cycle. From testing to building, packaging and releasing,  a version number is not just an arbitrary string and relying on one person to understand how your product makes it to customers is a recipe for disaster.
+
+Walk this way and we'll explore methodologies and tooling for managing releases and solutions to common problems such as:
+
+
+Documenting builds and release processes for both devs and ops.
+Understanding when to automate..and when not.
+Dependency tracking and avoiding stale dependencies or security issues without breaking builds.
+
+
+
+Speaker:
+
+Wes Mason
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/SamEaton_TrustInDevops/","Sam Eaton","Trust in DevOps","Abstract:
+
+Trust is essential in a successful DevOps environment. But it&rsquo;s generally something established directly between individuals over time, and thus is hard to scale to larger teams and organisations.
+
+We commonly think about DevOps practices such as automation, testing, metrics and continuous integration/delivery in terms of their technical benefits. However, the practices, tools and culture of DevOps are often, at their core, about how to scale trust past individuals by extending visibility to other teams, as well as the wider business.
+
+This talk will provide some recipes for building trust in DevOps, by examining how trust (and lack of it) affects DevOps teams, and how concentrating on this can help you sell DevOps in your organisation.
+
+Speaker:
+
+Sam Eaton (@thesamoth) has been involved in web operations and DevOps teams for the last 17 years, in companies ranging from small startup ISPs through major media companies. He currently works at Yelp. Rumour has it that he invented #failcake (https://github.com/failcake/recipes)
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/UriCohen_TestingasaServiceHowweusedOpenStacktoautomateourentiredevandtestingenvironment/","Uri Cohen","Testing as a Service - How we usiied OpenStack to automate our entire dev and testing environment.","Abstract:
+
+Building and testing distributed software platforms can be a tedious and daunting task. Achieving good coverage can be very hard since a lot of factors affect the overall testability and coverage of a system.  Some problems only become apparent on a distributed setup, such as timing and network issues, etc. In this session we&rsquo;ll explain how we used OpenStack and Cloudify to implement and automate real integration testing (as in, no mocks) for our entire product suite, and how we significantly improved our overall coverage and reliability.
+
+Speaker:
+
+Uri Cohen
+
+Uri heads the Product and Developer community efforts at GigaSpaces, and is a frequent speaker at various industry events and meetups. Most recently, Uri co-organized the first DevOps conference in Israel. Uri has spoken at QCon New York, Cassandra Summit, CloudStack Collaboration Conference, QCon London, QCon San Francisco, CloudBeat and Devoxx, among others.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/MielDonkers_Successfultestingthecontinuousdeliveryprocess/","Miel Donkers","Successful testing the continuous delivery process","Abstract:
+
+Many organisations want to shorten their time-to-market. By
+implementing agile they try to shorten the delivery time. Agile
+projects use practices like continuous integration, automated
+deployment, (acceptance) test-driven development and regression
+test automation to get to continuous delivery. In this process build,
+integration, test, and deployment automation plays an important role.
+
+The delivery of software has to become fast and reliable. But what
+does it take to get to continuous delivery? What are the testing
+challenges we face in a continuous delivery? Which test strategies can
+we apply be able to test continuous delivery?
+
+This talk zooms in on fully automated testing and a high degree
+of automation in the business facing testing to get to continuous
+delivery. It focusses on solutions (tooling) within a continuous
+delivery model from a testing perspective. It gives the participants
+insights in the use of requirements management tooling, test
+solutions built with tooling like Selenium and Fitnesse, JMeter,
+Appdynamics and other tooling. How can deployment processes
+be implemented with the use of the right (often lightweight)
+tooling? Which test strategy fits in this process and how to organize
+collaboration between developers, testers and operations?
+
+Finally this talk gives practical examples of projects were these
+solutions were used.
+
+Speaker:
+
+Miel Donkers (Agile Solution Developer) + colleague (tester)
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/JeffSutherland_PoweringUpYourDevopsScrumTeam/","Jeff Sutherland","Powering Up Your Devops Scrum Team","Abstract:
+
+Recently an overloaded 25 person Devops team supporting a large bank in the Netherlands found they could achieve a better level of support with less than 14 people using Scrum. Achieving this level of performance consistently requires more than just implementing Scrum by the book. Over the past four years, the Scrum Patterns community has created a small pattern language that can enable every Scrum team to achieve extraordinary results. This talk will discuss patterns of implementation that should be adopted by every Devops Scrum.
+
+Speaker:
+
+Jeff created the first Scrum team in 1993 and worked with Ken Schwaber to formalize Scrum at OOPSLA'95. Together, they extended and enhanced Scrum at many software companies, helped write the Agile Manifesto in 2001, and authored the Scrum Guide.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/DavidMytton_OnHumansandDevOps/","David Mytton","On Humans and DevOps","Abstract:
+
+Given the sysadmin stereotype, it's sometimes easy to forget that not everyone is up at 3am and ready to respond to alerts on a Friday night. In all but the most critical high availability environments, most teams will not have someone actively monitoring graphs 24/7. This means you have to deal with on-call schedules, technical handoffs, documentation, procedure manuals and trying to ensure mistakes aren't made, even in the middle of the night.
+
+This talk will look at how to approach the social aspects of running an ops team in terms of the human impact as well as using automation and tools.
+
+Speaker:
+
+David Mytton is the founder of server monitoring tool, Server Density, where he has been using MongoDB in production for almost 4 years. He has been programming in PHP and Python for over 10 years, regularly speaks about MongoDB (including starting the London MongoDB User Group), co-founded the Open Rights Group and can often be found cycling in London or drinking tea in Japan.
+
+David Mytton
+http://www.serverdensity.com
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/PavloBaron_NoCountryForOldMen/","Pavlo Baron","No country for old men","Abstract:
+
+Abstract: In this talk, I will tell some true war stories and anecdotes from bringing DevOps into companies that have never heard of it or probably would never touch it. I will explain the tricks that can be used to try to bring them there. I will also explain the motivation behind their resistance and how to come around it.
+
+Objectives: entertain the audience, deliver concrete ideas on how to push DevOps in the own companies
+
+Speaker:
+
+Pavlo Baron
+
+During the past 23 years, Pavlo Baron has gained knowledge of and put in to practice a wide variety of technologies and approaches. He works for codecentric, a german consulting company, as their lead architect. His passion is hacking and playing with distributed systems and large data sets. Pavlo is frequent conference speaker and has written four German books: 'Erlang/OTP', 'Pragmatic IT Architecture', 'Fragile Agile' and 'Big Data for IT decision makers'.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/MichaHernandezvanLeuffen_MovingBeyondRedAndGreen/","Micha Hernandez van Leuffen","Moving beyond red and green; collaboration as the next big challenge in Agile","Abstract:
+
+After years of talking about agile as a methodology we are now seeing the fruits of our labor throughout our places of work. We have automated our systems and by tying them together we are now able to develop and deliver software at a frequent and sustainable pace. Tester have mastered the skills to automate their work. Continuous integration servers are doing their best to decide whether the software is 'red' or 'green' and operations is no longer a place where we dump our support tickets.
+
+Still software is not continuously flowing to production. The problems even tend to get bigger when software is dependent on other software. In this presentation I want to share our vision that one of the big reasons for this lack of flow lies within collaboration, and that the next big challenge in agile, deals with culture and how we cooperate in these automated environments that we have now created.
+
+Speaker:
+
+Micha Hernandez van Leuffen
+Cofounder &amp; CEO - wercker
+http://beta.wercker.com
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/JasperSonnevelt_KanbanDealingwiththeelephantintheroomonechunkatatime/","Jasper Sonnevelt","Kanban. Dealing with the elephant in the room, one chunk at a time.","Abstract:
+
+Large and mostly early Scrum implementations in a very revolutionary big bang fashion have taught us that not every organization is fit for a fast change in way of working. We talk about culture, tooling, we hear Agile but which methodology are we going to use? Scrum, Lean, Agile, KanBan? KanBan seams the natural fit for DevOps.
+
+Small incremental changes that help you to get closer to your objective are a very effective way to lower resistance when transitioning to DevOps. With business and Ops usually furthest away from each other and business asking to 'just fix the problem' there can be a big gap. Bridging this gap is a long process where past solutions usually don't work. Context is king.
+
+In this talk I wil share how Kanban can be used as a catalyst for change in culture and behaviour in the whole organization involved in the transition to DevOps and how it can help focus on fixing the problems that need fixing most to achieve your goal.
+
+Speaker:
+
+Jasper Sonnevelt
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/WesMason_HowwebuiltanddeployedtheHonshuway/","Wes Mason","Island Life: How we built and deployed the Honshū way","Abstract:
+
+Honsh&#363;, or Honshuu, is the largest island of Japan.
+It is also the codename for the complete rewrite of Server Density that has been over a year in the making, embracing a service orientated architecture similar to those popularised by Amazon and Netflix.
+At the heart of Honshuu is the idea that every service is an island. Any island can talk to another, using strict traditions and customs, and almost any island can communicate freely with the wider world via intermediaries and guardians of custom.
+
+Each island is the main land, looking after it's own concerns, only caring that other islands can communicate with it, but not what goes on outside.
+This is a cultural shift away from other ways of working more than technological. Knowing when to spin out a new 'island' and making sure it can be communicated with in the same fashion as it's neighbours, from common build strategies regardless of base technology, to involving ops as a guiding principle from the very first steps as to how an island should be built.
+
+Speaker:
+
+Wes Mason
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/KiefMorris_InfrastructreAsCodePatterns/","Kief Morris","Infrastructure as Code Patterns & Anti-patterns","Abstract:
+
+The hand-waving blurb: Cloud technology and automated configuration has freed us from the Iron Age of IT infrastructure, and led us into the Cloud Era. Our infrastructure is no longer tightly shackled to physical hardware, but has become fluid data and code, which allows us to apply tools and practices from software development to IT operations.
+
+Many or most of the people at DevOpsDays have been doing this stuff for a while. Although we hear about many common approaches and techniques, I believe it would be useful to describe and share these ideas in a way that makes it easier to talk about them, compare experiences, and introduce good ideas to people who are looking to get into this stuff.
+
+I'll describe some basic anti-patterns and evolutions to better patterns, starting with the old ways of building servers by hand with checklists, to cloning new servers from existing ones (remember Ghost?), to more modern uses of automated configuration management tools such as Cfengine, Puppet, and Chef. I'll also talk about more advanced patterns used by the likes of Netflix, such as Phoenix servers and immutable servers.
+
+Speaker:
+
+Kief Morris
+
+I'm a Continuous Delivery Consultant at ThoughtWorks, which involves DevOps evangelism, automated infrastructure implementation, and various semi-related things. I started using automated configuration over 10 years ago on pre-virtualization systems (PXE-boot and TFTP) using shell scripts and Perl, moving to Cfengine, and later getting into Puppet and Chef as each one came out. I have yet to build an infrastructure which I felt really does this stuff right, but I plan to keep trying. I've occasionally posted about this kind of thing on my blog at http://kief.com.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/RubenKoster_How_Cloudfoundry_Will_Change_Saas/","Ruben Koster","How Cloudfoundry will change Saas (and why you should be using BOSH)","Abstract:
+
+Presentation about how we as developers all face the same problem;
+The problem of running applications and their services and scaling them.
+But that we all solve this problem using a different technology stack.
+This talk will be a call to action to unite our forces to solve this problem together.
+By using 'Open standards with broad industry support'.
+The proposed stack will be CloudFoundry deployed by BOSH on OpenStack.
+This talk is intended as a discussion starter and to help people understand the problem space.
+
+Speaker:
+
+Ruben Koster
+
+github.com/rkoster
+Experience: Have been working with CloudFoundry and BOSH for the past year.
+I'm not related to Vmware or EMC (the companies behind CloudFoundry and BOSH)
+Also contributed to bosh and bosh-bootstrap.
+Got user level knowledge of OpenStack.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/SashaGilenson_HighIQDevops/","Sasha Gilenson","High IQ DevOps: Why Automation Is Not Enough","Abstract:
+
+There are multiple views on DevOps - a philosophy of more collaborative and productive relationship between development teams and operations teams, a set of integrated release and deployment processes and recently a suite of automation tools due to the strong push from tool vendors. Whatever view you adopt one area is clearly ignored by today&rsquo;s DevOps proponents and adopters. Continuous handling of a highly dynamic changes stream across numerous complex environments and various teams requires a detailed knowledge of what happened, happens and will happen in these environments.
+
+These session will speak about the specific gaps of DevOps caused by the lack of visibility into related IT processes and IT environments. We will rethink chronic IT challenges inherited by DevOps and present a new approach addressing them that started to gain momentum recently &ndash; IT Operations Analytics. Learn how to raise intelligence of your DevOps teams and initiatives.
+
+Speaker:
+
+Sasha Gilenson is Founder and CEO of Evolven. Prior to founding Evolven in 2007, he spent 13 years with Mercury Interactive (acquired by HP), managing the QA organization and participating in establishing Mercury Interactive's Software as a Service (SaaS). Sasha played a key role in the development of Mercury Interactive's worldwide Business Technology Optimization (BTO) strategy and drove field operations of the Wireless Business Unit, all while taking on the duties as the Mercury Interactive's top 'guru' in quality processes and IT practices domain.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/FrankBreedijk_HelpmySecurityOfficerdoesnttrustme/","Frank Breedijk","Help, my Security Officer doesn’t trust me","Abstract:
+
+In many companies, devops and security officers don&rsquo;t make for a happy couple. The first impulse for a security officer is to think &lsquo;devops is along memory lane back to the eighties, when engineers changed directly in PROD and no OTAP streets &hellip;.&rsquo;.Too bad that they are not happy couple because they are far less incompatible than it seems at a first glance. In this presentation by Frank, a hardcore security officer himself, he will explain how his colleagues seduced him to become a devops-supporter. Moreover, how he became to appreciate the possibility of ten releases a day. Perhaps, he will even explain why and how Security might benefit from devops.
+
+Speaker:
+
+Frank Breedijk
+
+Frank Breedijk CISSP B ICT is employed as a Security Engineer at Schuberg
+Philis since 2006. He is responsible for the technical information security of
+Schuberg Philis Mission Critical outsourcing services. This includes, but is
+not limited to Security Awareness, Vulnerability management, Internal security consultancy, Internal technical audits, AutoNessus development.
+
+Frank Breedijk has been active in IT Security for over 10 years. Before
+joining Schuberg Philis he worked as a Security Consultant for INS/BT and
+Security Officer for Interxion. He managed the European Security Operations
+Center (SOC) for Unisys' managed security services. During this period Gartner
+labeled Unisys leader in the magic quadrant for Managed Security Services in
+Europe.
+
+Besides his day job Frank Breedijk is an active on Twitter and writes blog
+entries for CupFighter.net. He has also written magazine articles about
+Seccubus and security awareness.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/DavidMytton_Growinganopsteamfrom1founder/","David Mytton","Growing an ops team from 1 founder","Abstract:
+
+Bootstrapped startups don't have the luxury of a full team of ops engineers available to respond to issues 24/7, so how can you survive on your own? This talk will tell the story of how to run your infrastructure as a single founder through to growing that into a team of on call engineers. It will include some interesting war stories as well as tips and suggestions for how to run ops at a startup.
+
+Speaker:
+
+David Mytton is the founder of server monitoring tool, Server Density, where he has been using MongoDB in production for almost 4 years. He has been programming in PHP and Python for over 10 years, regularly speaks about MongoDB (including starting the London MongoDB User Group), co-founded the Open Rights Group and can often be found cycling in London or drinking tea in Japan.
+
+David Mytton
+http://www.serverdensity.com
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/OnnoDijkstra_ExtendingtheAgile/","Onno Dijkstra","Extending the Agile Development Discipline to Deployment: The Need for a Holistic Approach","Abstract:
+
+The research identifies the different paths that can be chosen to implement DevOps for companies that use Scrum as their current development method and experience the same issues as the case company. DevOps proposes solutions to the business drivers in the interest of this organization. The research shows what the rationale is of using DevOps by providing an in-depth explanation what drivers trigger the company to implement this extension. Furthermore, different integration scenarios are discussed using method increments and the optimal scenario is provided to help other practitioners that face the same problems in the development process.
+
+The aims of this research are:
+Support practitioners in the implementation of DevOps using Method Engineering
+Disseminate knowledge regarding DevOps patterns
+Increase the maturity of Application Lifecycle Management processes in IT organizations
+This research is a graduation project for a master program at Utrecht University and is supported by Ordina.
+
+Speaker:
+
+Onno Dijkstra
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/MichaelDucy_DudeOps_WhyTheBigLebowskiisAboutYourITProject/","Michael Ducy","DudeOps - Why The Big Lebowski is About your IT project","Abstract:
+
+In this off colored talk, I'll cover the major players of cult favorite The Big Lebowski and how those players map to the people you are likely to encounter when executing an IT project. Successful IT projects are often more about the organizational issues you'll encounter rather than the technical issues. In this talk, we'll cover some of the 'characters' of IT you will encounter on your journey, and how to overcome them. For fun, we will draw from the characters of The Big Lebowski, as well as the Dude's experiences, in order to help you navigate your organization.
+
+After all, 'All the Dude ever wanted was his project done.'
+
+The big change I would make is to go a bit deeper into the characters of IT (based on feedback I got after CloudStack Collab) and incorporate more theory regarding psychology, organizational management, and sociology to educate the audience on organization dynamics. As IT people often lack interpersonal relationship skills (I know I do at times), I think this talk can be very useful for attendees.
+
+Speaker:
+
+Michael Ducy
+
+Michael Ducy currently works as a Cloud Architecture Lead for CompuCom Systems focused on designing and implementing large scale Cloud environments for customers. Additionally, Michael's work includes leveraging process improvement methodologies such as Lean to refine things such as server build processes. Prior to CompuCom, Michael worked at enStratus where he had the opportunity to work with a wide variety of private and public cloud solutions including CloudStack, OpenStack, and Eucalyptus. Before enStratus, Michael worked at BMC Software focusing on Cloud Computing and Data Center Automation. Michael has also worked in various capacities at Orbitz Worldwide, focusing on performance management, capacity planning, and operations. Michael has held other roles as a Linux Systems Engineer, Instructor of IT courses, and as a Private Consultant. After graduating from the University of Missouri St. Louis with a degree in Computer Science, Michael completed his Masters degree in Computer Science at the University of Chicago. More recently Michael completed his MBA at the Fisher College of Business at The Ohio State University.
+
+He has spoken at a few conferences in the past, including:
+
+Computer Measurement Group 2008
+Cloud Connect Chicago 2012
+Defrag 2012
+CloudStack Collab 2012
+Cloud Connect Silicon Valley 2013 (proposal accepted)
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/JonathanWeiss_ContinuousDeploymentandIntegrationintheCloud/","Jonathan Weiss","Continuous Deployment and Integration in the Cloud","Abstract:
+
+The cloud gives organizations the ability to develop and run applications with speed and flexibility like never before. Working with an infrastructure that can be 100% API driven enables businesses to use lean methodologies and realize these benefits. However, developers also need to think about the operational tasks needed to keep applications running smoothly. The speed of cloud computing makes getting your code onto the servers and in the proper configuration essential, especially if changes are required in multiple places. Without automation, at scale these routine operational tasks can become time consuming and error-prone.
+
+In this session we'll talk about some key concepts and design patterns for continuous deployment and integration in the cloud using technologies like Chef to enable better control of applications and infrastructures. We will discuss how the use of API-based services for the entire software tool chain &ndash; including source code, build, test, deployment and monitoring -- can both enable the automation of complex pipelines and ensure consistent results. We will cover resource provisioning, configuration management, application deployment including red/black and staggered deployments, software updates, as well as important metrics to review. We will share lessons learned from real-world examples of applying these principles to a running service.
+
+Speaker:
+
+Jonathan Weiss, AWS
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/NatiShalom_ContinuousDeliverywithJenkinsandCloudify/","Nati Shalom","Continuous Delivery with Jenkins and Cloudify (FastConnect)","Abstract:
+
+Continuous delivery is not an option anymore for organizations and companies that implement online services and products. The ability to rollout new code changes quickly and as frequently as needed is an important business enabler. In this session we&rsquo;ll review the current options for CD in the cloud, and learn how to implement an automated CD process using Cloudify and Jenkins.
+
+Speaker:
+
+Nati Shalom
+
+Nati is the Founder and CTO of GigaSpaces, he was recently recognized as a Top Cloud Computing Blogger for CIO&rsquo;s by The CIO Magazine and he is also the founder of the IGTCLoud.  Nati is also a frequent presenter at industry conferences. He has spoken at IBM Information on Demand, Big Data Spain, DevOpsCon, NoSQL Now, UP Cloud, Computing Conference, OpenStack Israel, and Cloud Mafia San Francisco, among others.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/UriCohen_BuildingyourownOpsWorkswithChefandCloudify/","Uri Cohen","Building your own OpsWorks with Chef and Cloudify","Abstract:
+
+AWS OpsWorks is a DevOps solution for managing applications of any scale or complexity on the AWS cloud. With OpsWorks you can manage your complete application lifecycle, including resource provisioning, configuration management, application deployment, software updates, monitoring, etc. However, OpsWorks is only applicable to AWS. What if you could create and manage a similar service on top of any cloud? In this session we will introduce Cloudify, a new open source PaaS framework. Cloudify takes a different approach by using recipes (as opposed to heavyweight coding and platform extension) as a means to introduce new application stacks to the PaaS layer. You can think of it as extending the recipe model of Chef to support application level concerns such as orchestration, dependency management, multi-tier and multi-host deployments, monitoring and auto-scaling. This session will introduce how Cloudify leverages Chef as a key enabler for an open PaaS framework.
+
+Speaker:
+
+Uri Cohen
+
+Uri heads the Product and Developer community efforts at GigaSpaces, and is a frequent speaker at various industry events and meetups. Most recently, Uri co-organized the first DevOps conference in Israel. Uri has spoken at QCon New York, Cassandra Summit, CloudStack Collaboration Conference, QCon London, QCon San Francisco, CloudBeat and Devoxx, among others.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/NatiShalom_Buildingcrossregionandcrosscloudhighavailabilityintoyourapp/","Nati Shalom","Building cross region and cross cloud high availability into your app","Abstract:
+
+A real life case: Achieving high levels of availability and disaster recovery in a cloud environment requires the implementation of patterns and practices that introduce redundancy through multi-zone, multi-region, and multi-cloud deployments. As we move towards implementing higher availability, we cannot escape the direct increase in the accidental complexity of the deployment architecture resulting from lack of cloud portability and deployment lifecycle automation. We present a solution approach implemented by a real-world user for achieving high availability and disaster recovery using the Cloudify open source framework. This approach applies to not just AWS, but also other public clouds and private cloud environments such as Eucalyptus . The resulting reference architecture provides portable PostgreSQL replication and disaster recovery as well as application tier scalability across zones, regions, and public/private clouds through a unified deployment workflow.
+
+Speaker:
+
+Nati Shalom
+
+Nati is the Founder and CTO of GigaSpaces, he was recently recognized as a Top Cloud Computing Blogger for CIO&rsquo;s by The CIO Magazine and he is also the founder of the IGTCLoud.  Nati is also a frequent presenter at industry conferences. He has spoken at IBM Information on Demand, Big Data Spain, DevOpsCon, NoSQL Now, UP Cloud, Computing Conference, OpenStack Israel, and Cloud Mafia San Francisco, among others.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/GaborTorok_BakequalityactionsintoyourprocessesandkillyourQA/","Gábor Török","Bake quality actions into your processes and kill your QA","Abstract:
+
+Follow me on the journey how we learnt that bugs are product, QA is
+rather quality actions, and DevOps is about ownership.
+
+In the recent years we went through all the typical problems. We had
+low quality tests that were sometimes also slow, flaky and broken for
+a long time. Developers depended too much on operations team. They did
+not care about monitoring. QA was a single person in the team, the
+blocker role in release. We had too much open bugs we did not fix but
+still spent huge amount of time maintaining them. Teams didn't feel
+responsible for their feature, there was no clear rule which team is
+responsible for upcoming bugs.
+
+In my talk I will focus on the learnings of our journey and how we
+solved these problems.
+
+How it ended up in an agile company working in continuous delivery
+that we don't have DevOps team nor QA team any more and still we have
+solid test frameworks, we do trust in our tests, developers take full
+ownership of the features they develop and are on call for critical
+services, UX team is dealing with product bugs, and teams have clear
+responsibility boundaries.
+
+Speaker:
+
+G&aacute;bor T&ouml;r&ouml;k
+
+After several years of back-end and front-end development, G&aacute;bor joined Prezi's QA team. At Prezi, he's always finding new ways to automatize product testing. He prefers Emacs over Vim.
+
+He can't say no if you invite him for a drink, and if you don't see him for a short time, he's probably doing yoga in a quiet room or dancing at a psychedelic party.
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/MartinEnglund_AmazontimetravelorhowtolivewithAWSeventualconsistencytimewarps/","Martin Englund","Amazon time travel, or how to live with AWS eventual consistency time warps","Abstract:
+During the development of the BOSH AWS cloud provider interface[1] we have been exposed to the ugly side of the AWS eventual consistency - which also got me into a heated twitter argument with the Clouderati about (bad) API design. This presentation will show you the pitfalls of heavy use of AWS, why the current AWS eventual consistency model is flawed, how to work around it, and how BOSH now can scale out a deployment on AWS from 0 to 400 VMs in 10 minutes.
+
+[1] https://github.com/cloudfoundry/bosh
+
+Speaker:
+
+Martin Englund is a Principal Engineer at Pivotal, where he works on BOSH - the orchestration tool chain that deploys, runs and manages the open source Cloud Foundry PaaS as the commercial service cloudfoundry.com. He is a firm believer that if you aren't automating it, you are doing it wrong.
+
+Martin has over twenty years of experience in security and automation, and has contributed to other automation tools, like Puppet. Prior to this role, he worked at Sun Microsystems as a Principal Security Engineer running Sun's external web presence, in Java Security Engineering and the Sun IT Security Office, where he was responsible for creating the standards and tools used by Sun IT to secure its servers. He has also authored numerous technical papers on security, including co-authoring the Solaris Security Essentials book.
+
+twitter: @pmenglund
+blog: http://blog.codenursery.com/
+
+linkedin: http://www.linkedin.com/in/pmenglund
+
+Twitter: @pmenglund
+Blog: http://blog.codenursery.com/
+Linkedin: http://www.linkedin.com/in/pmenglund
+",""
+"","talk","http://devopsdays.org/events/2013-amsterdam/proposals/FrancescoVollero_AeolusandKatelloFTW_FortheWin/","Francesco Vollero","Aeolus and Katello FTW (For the Win)","Abstract:
+
+Recent years have seen an influx of Cloud Computing services offered by
+a plethora of vendors with many different APIs and interfaces. The
+diversity of these products offer many solutions at various levels of
+the stack, but increases the risk of proprietary cloud adoption due to
+vendor lock-in and downtime.
+With Aeolus we aim to provide a Free and Open Source cloud computing
+framework through which instances can be launched against any cloud provider
+using the same API and toolset.  The infrastructure permits the
+description of software services and hardware components in such a way
+that any set of software packages can be deployed to any cloud provider
+matching specified criteria.
+For Katello i will show how to manage running instances, apply errata,
+do updates, compare status with deployed images, manage content effectively.
+All of this to simplify the life of sysadmins and devops.
+
+Speaker:
+
+Francesco Vollero
+
+Bio:
+
+In addition to being the official main front person for Aeolus in the EU,
+Francesco is Ruby Software Engineer on Aeolus and the Deltacloud project (also Apache licensed),
+with a background as a sysadmin.
+He has developed many webapps beginning with mod_perl and php, and crossed
+the river of object oriented programming with Python at first, after Ruby,
+Rails and Sinatra, where I found my real happiness.
+He's a LILIK Member (Florence University association for the spread of open source)
+and as member he is involved to the creation of events with Open source and Linux/BSD topics.
+Functional languages lover (Clojure as first).
+Actively contributes in multiple gems and openshift 'redis-openshift'.
+
+
+Fosdem 2011 (Lightning talk about Sinatra)
+Red Hat OpenHouse 2011 - Brno
+Bratislava Ruby Meetup 05/2011
+RubyDay 2011 - Milan
+Speaker FUDCon 2011 - Milan
+Speaker RuPy 2011 - Poznan (PL)
+Cloud Room Speaker FOSDEM 2012 - Bruxelles
+Fedora Developer Conference - Brno
+FlossWeekly podcast episode 205
+Loadays 2012
+RuPy 2012 (As part of the organization and session chair)
+FUDCon 2012 - Paris
+
+
+",""
+"","ignite","http://devopsdays.org/events/2013-amsterdam/proposals/RichardKettelerij_MigratedDeploymentPipeline/","Richard Kettelerij","migrating to a fully-automated deployment pipeline in the real-world","Abstract:
+
+none provided
+
+Speaker:
+
+Richard Kettelerij and his colleague
+",""
+"","ignite","http://devopsdays.org/events/2013-amsterdam/proposals/WillyWijnands_eduscrumScrumInTheClassroom/","Willy Wijnands","eduscrum, scrum in the classroom","Abstract:
+
+eduScrum is an edit for Secondary Education/High School.
+
+eduScrum uses the powerful ceremonies, roles and tools of Scrum. In this way the group owned scrum board gives the students an overview and the structure to make the group&rsquo;s work transparent. Every lesson starts with the stand-up, which sees to it that there is a focus and a bond, this also put them in the right work mode. The retrospectives help students to continuously improve their tactics.
+In eduScrum learning is the key element: smarter learning, learning to cooperate better, more responsibility, more freedom, learning to get to know themselves better. Because of that eduScrum owns an extra ceremony: creating teams on the basis of additional qualities. Own and extra instruments have also been developed. These instruments challenge and appeal to young people. With that eduScrum puts a powerful pedagogic layer under Scrum.
+
+Speaker:
+
+Willy Wijnands, behalf of the eduScrum team.
+
+Willy Wijnands is a science and physics teacher, Jan van Rossum is a science teacher, both on the Ashram College in Alphen aan de Rijn. Ellen Reehorst is an education designer and trainer. Together they form the eduScrum team and are developing an educational version of scrum: eduScrum.
+http://www.eduscrum.nl/
+",""
+"","ignite","http://devopsdays.org/events/2013-amsterdam/proposals/GaborTorok_WhoBrokeTheTests/","Gábor Török","Who broke the tests?","Abstract:
+
+As Kanban helps to highlight the bottlenecks in your project and
+understand your workflow, make problems visible the same way in your
+engineering processes, too.
+
+The essence of continuous delivery is that your code base should
+always be in a deployable state. And you want to add the less overhead
+and complexity to your system.
+
+What should happen if you want to deploy but tests are broken?  How
+will you find out who or what broke them? Who will fix them? Was there
+a problem with the tests? Is the VCS server down again? Or is it
+really the feature broken?
+
+I will talk about how frank communication on who broke the tests
+helped us to solve these problems in a no-blame engineering culture.
+Also I will present the technologies and methods we used to achieve
+it.
+
+Speaker:
+
+G&aacute;bor T&ouml;r&ouml;k
+
+After several years of back-end and front-end development, G&aacute;bor joined Prezi's QA team. At Prezi, he's always finding new ways to automatize product testing. He prefers Emacs over Vim.
+
+He can't say no if you invite him for a drink, and if you don't see him for a short time, he's probably doing yoga in a quiet room or dancing at a psychedelic party.
+",""
+"","ignite","http://devopsdays.org/events/2013-amsterdam/proposals/MichaelDucy_Igot99problemsbutDevOpsaintOne/","Michael Ducy","I got 99 problems and Devops ain't one of them","Abstract:
+
+This idea is inspired by this tweet: https://twitter.com/AndiMann/status/326449569586114560
+
+Speaker
+
+Michael Ducy
+",""
+"","ignite","http://devopsdays.org/events/2013-amsterdam/proposals/PatrickvanDissel_21stcenturyCItool/","Patrick van Dissel","21st Century CI tool","Abstract:
+
+Describe pain-points of currently existing CI tools based on practices/principles of the 21st century, and high level how I think this can be improved. Hinting to my open-space which is my second proposal.
+
+Speaker:
+
+Patrick van Dissel, Software Engineer working at Tricode in The Netherlands. I've been setting-up, maintaining and improving the continuous integration/delivery pipeline from the technical side for the last 2 years now. During this time I've been looking at all kinds of aspects to get better code and get it to production faster.
+
+It boils down to:
+I came to the conclusion that I'm not happy with the existing so called 'Continuous Integration' tools like Hudson/Jenkins, Go, TeamCity, AntHill, TravisCI, etc. They get the job done, but they don't follow the principles of this age, like:
+- Configuration-as-Code
+- Infrastructure-as-Code
+- Keep It Simple Stupid
+- Don't Repeat Yourself
+- Single Responsibility Principle
+I've investigated if I could help improve the existing tools to up-to-date. But at a code level it just looked not doable.
+
+So, in my free time, I started my own CI tool project. You can read the specifics at:
+   https://github.com/pvdissel/cy.io/wiki/Why-a-new-CI-tool
+   (and the other wiki pages and stories in the issue tracker)
+",""
+"","ignite","http://devopsdays.org/events/2013-amsterdam/proposals/PatrickDeZoete_100pctCulture/","Patrick de Zoete","100% Culture","Abstract:
+
+An ignite talk about the culture to promise and deliver 100% uptime in a mission critical environment. This 100% availability commitment requires a nonconventional way of working which is reflected in technology and processes, but most of all culture.  After working across the whole stack for over 10 years Patrick realized that all technical problems become trivial when compared with talented, moody, wonderful but utterly analog human beings.
+
+Speaker:
+
+Patrick de Zoete, a big bald geek that loves anything zombie and 6502 related, works for Schuberg Philis, a company that specializes in designing, building and running application landscapes for which it guarantees 100% availability to its customers, which include energy companies, banks and other financial institutions, and online retailers. To all of them their applications are critical to their business.
+
+
+Twitter: https://twitter.com/BigBaldGeek
+Blog: http://www.hackalong.org/
+
+
+",""
