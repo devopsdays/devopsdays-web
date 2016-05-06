@@ -46,6 +46,8 @@ sponsors:
   # silver
   - id: icemobile
     level: silver
+  - id: icinga
+    level: silver
   - id: linkit
     level: silver
   - id: redhat
