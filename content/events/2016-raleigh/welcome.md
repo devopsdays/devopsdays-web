@@ -10,9 +10,9 @@ aliases = ["/events/2016-raleigh"]
 
 Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tuned to our <a href="https://twitter.com/devopsdaysTRI">twitter account</a> as we solidify plans for the event.
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <table>
   <tr>
@@ -25,7 +25,7 @@ Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tun
   </tr>
   <tr>
     <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
+    <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
   </tr>
   <tr>
     <td><b>Register</b></td>
