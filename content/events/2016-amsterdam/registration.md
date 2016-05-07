@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:23-06:00"
 title = "Registration"
 type = "event"
-
+tags = ["amsterdam","amsterdam-2016"]
 +++
 
 <div style="width:100%; text-align:left;">
