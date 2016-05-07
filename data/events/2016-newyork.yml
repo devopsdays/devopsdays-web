@@ -10,8 +10,28 @@ cfp_date_end: 2016-07-01
 cfp_date_announce: 2016-07-30
 coordinates: "40.7127, -74.0059" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Microsoft Technology Center" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Katherine Daniels", "Mike Rembetsy", "Peter Norton", "Pris Nasrat"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: contact
+  - name: location
+#  - name: program
+#  - name: propose
+#  - name: registration
+#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: conduct
+  - name: sponsor
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Katherine Daniels"
+  - name: "Mike Rembetsy"
+  - name: "Peter Norton"
+  - name: "Pris Nasrat"
+#  - name: "Jane Smith"
+#    twitter: "janesmithtwitterhandle"
+#  - name: "Sally Fields"
+#    employer: "Acme Anvil Co."
 organizer_email: "organizers-newyork-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newyork-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
