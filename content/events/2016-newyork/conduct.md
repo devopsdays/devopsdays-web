@@ -7,7 +7,16 @@ type = "event"
 
 +++
 
-##ANTI-HARASSMENT POLICY
+Please read the anti-harassment policy and code of conduct following the important contact information:
+
+
+* Local law enforcement: New York City Police - call 911</li>
+* Sexual assault hotlines: NYC Alliance Against Sexual Assault: (212) 229-0345</li>
+* Medical Emergency: Call 911</li>
+* Local car services: Carmel Car and Limo Service (212) 666-6666; Dial 7 Car and Limo Service (212) 777-7777</li>
+* Devopsdays NYC Organizers: [<a href="mailto:organizers-nyc-2016@devopsdays.org">organizers-nyc-2016@devopsdays.org</a>]</li>
+
+## ANTI-HARASSMENT POLICY
 
 DevOpsDays is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
@@ -23,7 +32,7 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
 
-##CODE OF CONDUCT
+## CODE OF CONDUCT
 
 I. I am an attendee at devopsdays, learning from and sharing with other devopsdays attendees in an effort to better myself and my industry. I co-create the experience with fellow attendees. I am prepared to give my energy, presence and sensitivity to creating the best possible experience for myself and others.
 
