@@ -9,11 +9,65 @@ cfp_date_start: 2016-04-01
 cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
 coordinates: "38.8011545,-77.0659376" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
-organizer_email: "organizers-washington-dc-year@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-washington-dc-year@devopsdays.org" # Put your proposal email address here
+location: "US Patent and Trademark Office" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: register
+    url: https://devopsdaysdc2016.busyconf.com/bookings/new
+  - name: propose
+    url: https://devopsdaysdc2016.busyconf.com/proposals/new
+#  - name: program
+  - name: location
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Nathen Harvey"
+    twitter: "nathenharvey"
+    employer: "Chef"
+  - name: "Alan Kraft"
+    employer: "United States Patent and Trademark Office (USPTO)"
+  - name: "Michael Barbine"
+    twitter: "BigNerdLoLz"
+    employer: "Excella Consulting"
+  - name: "Laura Barton"
+    twitter: "laurabartondev"
+    employer: "Excella Consulting"
+  - name: "Mark Cornick"
+    twitter: "markcornick"
+    employer: "Learning Objects"
+  - name: "Mike DelNegro"
+    twitter: "radiocats"
+    employer: "FireEye"
+  - name: "Greg Elin"
+    twitter: "gregelin"
+    employer: "GovReady"
+  - name: "Jeff Gallimore"
+    twitter: "jgallimore"
+    employer: "Excella Consulting"
+  - name: "James Martin"
+    twitter: "grepless"
+    employer: "RedHat"
+  - name: "Ramez Mourad"
+    twitter: "ramezjm"
+    employer: "Cvent"
+  - name: "Jason Simpson"
+    twitter: "jfsimpson1"
+    employer: "Netuitive"
+  - name: "Robert Treat"
+    twitter: "robtreat2"
+    employer: "OmniTI"
+  - name: "Jake Vanderdray"
+    twitter: "clumpidy"
+    employer: "CustomInk"
+
+
+organizer_email: "organizers-washington-dc-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-washington-dc-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: uspto
     level: platinum_and_venue
