@@ -7,6 +7,8 @@ type = "event"
 
 +++
 
+
+<!--
 <hr>
 <div class="span-16 last ">If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</div>
 </center>
@@ -122,3 +124,4 @@ type = "event"
 
 
 </div>
+-->
