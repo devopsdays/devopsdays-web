@@ -13,7 +13,7 @@ cfp_date_announce: 2016-01-01 # inform proposers of status
 
 # Location
 coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Amsterdam" # Defaults to city, but you can make it the venue name.
+location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 
 # Team members
 team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Marjana Shammi", "Mine Heck", "Daniel Paulus", "Mark Heistek"]
