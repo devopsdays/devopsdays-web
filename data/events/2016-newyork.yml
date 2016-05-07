@@ -5,22 +5,22 @@ friendly: "2016-newyork" # Four digit year and the city name in lower-case. Don'
 status: "current" # Options are "past" or "current".
 startdate: 2016-09-23 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-09-24 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-01
-cfp_date_announce: 2016-07-01
+cfp_date_start: 2016-06-01
+cfp_date_end: 2016-07-01
+cfp_date_announce: 2016-07-30
 coordinates: "40.7127, -74.0059" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
+location: "Microsoft Technology Center" # The name of your location
 navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
+team: ["Katherine Daniels", "Mike Rembetsy", "Peter Norton", "Pris Nasrat"]
 organizer_email: "organizers-newyork-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newyork-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: chef
-    level: gold
-  - id: datadog
-    level: gold
-  - id: arresteddevops
-    level: community
+#   - id: chef
+#     level: gold
+#   - id: datadog
+#     level: gold
+#   - id: arresteddevops
+#     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
