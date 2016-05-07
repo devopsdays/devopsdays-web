@@ -15,4 +15,3 @@ These are 5 minute talks with 20 slides which auto-advance. If you aren't famili
 Tell us about tools, processes, tips, tricks, war stories, whatever... make us laugh, make us cry, show us how to be more awesome...
 
 The only rule is don't give a straight sales pitch. That's not even a rule we'll enforce, everyone will just think you are uncool... that is punishment enough.
-Status API Training Shop Blog About

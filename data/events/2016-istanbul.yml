@@ -10,8 +10,32 @@ cfp_date_end: 2016-04-22
 cfp_date_announce: 2016-05-06
 coordinates: "41.110065,29.041329" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Borsa İstanbul Conference Room" # The name of your location
-navigationelements: ["welcome", "location", "program", "propose", "proposals", "registration", "contact", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Derya Sezen", "Rommel Tinoco", "Altuğ Bilgin Altıntaş", "Birge Elif Basık", "Zülfikar Karakaya", "Ismail Arslan", "Firat Arig", "Zeldal Özdemir", "Erkan Binici", "Mesut Can Gürle", "Safiye Nur Şimşek", "Mehmet Ali Aydın"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: location
+  - name: program
+  - name: propose
+  - name: proposals
+  - name: registration
+  - name: contact
+  - name: conduct
+  - name: sponsor
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Derya Sezen"
+  - name: "Rommel Tinoco"
+  - name: "Altuğ Bilgin Altıntaş"
+  - name: "Birge Elif Basık"
+  - name: "Zülfikar Karakaya"
+  - name: "Ismail Arslan"
+  - name: "Firat Arig"
+  - name: "Zeldal Özdemir"
+  - name: "Erkan Binici"
+  - name: "Mesut Can Gürle"
+  - name: "Safiye Nur Şimşek"
+  - name: "Mehmet Ali Aydın"
 organizer_email: "organizers-istanbul-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-istanbul-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
