@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T22:47:24-06:00"
 title = "Propose"
 type = "event"
-
+tags = ["amsterdam","amsterdam-2016"]
 +++
   {{< cfp_dates >}}
 
