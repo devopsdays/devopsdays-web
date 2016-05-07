@@ -33,4 +33,4 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: silver
     label: Silver
   - id: community
-    label: Community Partner
+    label: Community
