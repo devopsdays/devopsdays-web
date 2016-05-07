@@ -24,7 +24,7 @@ aliases = ["/events/2016-Singapore"]
   </tr>
   <tr>
     <td><b>Location</b></td>
-    <td>{{< event_location >}} (same as <a href="../2015-singapore">last year</a>)</td>
+    <td>{{< event_location >}} (same as <a href="/events/2015-singapore">last year</a>)</td>
   </tr>
   <tr>
     <td><b>Propose</b></td>
