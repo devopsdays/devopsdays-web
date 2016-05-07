@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:14-06:00"
 title = "Proposals"
 type = "event"
-
+tags = ["amsterdam","amsterdam-2016"]
 +++
 
 This page lists the proposals we have received. Help the presenters with your feedback!
