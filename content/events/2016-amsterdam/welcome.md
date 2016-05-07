@@ -5,8 +5,7 @@ date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2016-amsterdam"]
-
-
+tags = ["amsterdam","amsterdam-2016"]
 +++
 
 ## {{< event_start >}} - {{< event_end >}}
