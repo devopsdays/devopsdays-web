@@ -1,9 +1,8 @@
 +++
-date = "2000-01-01T01:01:01-06:00"
+date = "2016-05-07T08:37:22-05:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/YYYY-city"]
-draft = true
+aliases = ["/events/2016-boston"]
 
 +++
 
@@ -20,14 +19,14 @@ DevOps Days is coming to {{< event_location >}}!
     <td><b>Dates</b></td>
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
+  </tr>
+   <tr>
     <td><b>Propose</b></td>
     <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
-  </tr> -->
+  </tr>
   <!-- <tr>
     <td><b>Register</b></td>
     <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
@@ -47,7 +46,7 @@ DevOps Days is coming to {{< event_location >}}!
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdaysyourtown >}} 
+    {{< event_twitter devopsdaysbos >}} 
     </td>
   </tr>
 </table>
