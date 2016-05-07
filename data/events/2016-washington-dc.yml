@@ -75,9 +75,64 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: cloudpassage
     level: platinum
+  - id: netuitive
+    level: platinum
+  - id: capitalone
+    level: platinum
+  - id: eglobaltech
+    level: platinum
+  - id: excella
+    level: platinum
+  - id: solarwinds
+    level: platinum
+  - id: csra
+    level: platinum
+  - id: docker
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: thoughtworks-products
+    level: platinum
+  - id: pagerduty
+    level: platinum
+  - id: github
+    level: platinum
+  - id: customink
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: ansible
+    level: platinum
+  - id: infozen
+    level: platinum
+  - id: dlt
+    level: platinum
+  - id: omniti
+    level: platinum
+  - id: comcast
+    level: gold
+  - id: karsun
+    level: gold
+  - id: harmonia
+    level: gold
+  - id: evident
+    level: gold
+  - id: sonatype
+    level: silver
+  - id: halvik
+    level: silver
+  - id: jhc
+    level: silver
+  - id: stsi
+    level: silver
+
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum_and_venue
     label: Platinum & Venue
   - id: platinum
     label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
