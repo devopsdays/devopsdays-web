@@ -22,7 +22,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. Before you commit any changes, create a new branch, i.e., `git checkout -b fix-that-thing`
 1. Make your changes, test them locally, then push that branch up to origin on your fork (`git push origin BRANCHNAME`)
 1. Submit a pull request from the branch you just pushed
-1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://devopsdays.github.io](http://devopsdays.github.io).
+1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
 ## Creating a new event
 
