@@ -5,7 +5,7 @@ friendly: "2016-amsterdam" # Four digit year and the city name in lower-case. Do
 
 # Datus and status
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-sponsor_status: "closed"
+sponsor_link_ask: "closed"
 startdate: 2016-06-29  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2016-07-01  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 cfp_date_start: 2016-01-15 # start accepting talk proposals.
