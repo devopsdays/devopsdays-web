@@ -22,7 +22,7 @@ team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco No
 organizer_email: "organizers-amsterdam-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal email address here
 
-sponsor_link_ask: "closed"
+sponsors_accepted: "yes"
 sponsors:
   # gold
   - id: chef
