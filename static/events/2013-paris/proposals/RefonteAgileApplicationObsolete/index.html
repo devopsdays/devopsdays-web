@@ -1,0 +1,306 @@
+
+
+
+
+  
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<title>Paris 2013
+ -  Proposal</title>
+<meta name="author" content="Fabrice Bernhard" >
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="devopsdays RSS Feed" href="http://www.devopsdays.org/feed/" >
+
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('jquery', '1.3.2');
+</script>
+
+<!---This is a combined jAmpersand, jqwindont , jPullquote -->
+<script type="text/javascript" src="/js/devops.js"></script>
+
+<!--- Blueprint CSS Framework Screen + Fancytype-Screen + jedi.css -->
+<link rel="stylesheet" href="/css/devops.min.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+</head>
+
+
+<body onload="initialize()">
+
+<div class="container ">
+<div class="span-24 last" id="header">
+
+ <div class="span-16 first">
+	<img src="/images/devopsdays-banner.png" title="devopsdays banner" width="801" height="115" alt="devopdays banner" ><br>
+ </div>
+ <div class="span-8 last">
+ </div>
+</div>
+
+<div class="span-24 last">
+<div class="span-15 first">
+<div id="headermenu">
+<table >
+  <tr>
+    <td>
+      <a href="/"><img alt="home" title="home" src="/images/home.png"></a>
+      <a href="/">Home</a>
+    </td>
+    <td>
+      <a href="/contact/"><img alt="contact" title="contact" src="/images/contact.png"></a>
+      <a href="/contact/">Contact</a>
+    </td>
+    <td>
+      <a href="/events/"><img alt="events" title="events" src="/images/events.png"></a>
+      <a href="/events/">Events</a>
+    </td>
+    <td>
+      <a href="/presentations/"><img alt="presentations" title="presentations" src="/images/presentations.png"></a>
+      <a href="/presentations/">Presentations</a>
+    </td>
+    <td>
+      <a href="/blog/"><img alt="blog" title="blog" src="/images/blog.png"></a>
+      <a href="/blog/">Blog</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div>
+<div class="span-8 last">
+</div>
+
+<div class="span-24 last" id="title">
+<div class="span-15 first">
+<h1>Paris 2013
+ -  Proposal </h1>
+</div>
+
+<div class="span-8 last">
+</div>
+
+  
+<h1>Platinum sponsors</h1>
+  
+
+</div>
+
+
+<div class="span-15  ">
+  <div class="span-15  last ">
+  <div class="submenu">
+<h3>
+<a href="/events/2013-paris/">Accueil</a>
+-
+<a href="/events/2013-paris/program">Programme</a>
+-
+<a href="/events/2013-paris/propose">Proposer</a>
+-
+<a href="/events/2013-paris/registration">S'inscrire</a>
+-
+<a href="/events/2013-paris/location">Venir</a>
+-
+<a href="/events/2013-paris/sponsor">Sponsoriser</a>
+-
+<a href="/events/2013-paris/contact">Contact</a>
+-
+<a href="/events/2013-paris/reactions">Réactions</a>
+<br/>
+<a href="/events/2013-paris/">Welcome</a>
+-
+<a href="/events/2013-paris/program">Program</a>
+-
+<a href="/events/2013-paris/propose">Propose</a>
+-
+<a href="/events/2013-paris/registration">Register</a>
+-
+<a href="/events/2013-paris/location">Location</a>
+-
+<a href="/events/2013-paris/sponsor">Sponsoring</a>
+-
+<a href="/events/2013-paris/contact">Contact</a>
+-
+<a href="/events/2013-paris/reactions">Reactions</a>
+</h3>
+</div>
+
+
+Back to <a href='..'>proposals overview</a> - <a href='../../program'>program</a>
+<hr>
+<h3>Refonte agile d'une application obsolète</h3>
+
+  <p><strong>Abstract:</strong></p>
+
+<p>Entre les débuts du web, la sortie de Rails 1.0 en 2005, et maintenant Rails 3, Symfony2 Play2, Zend Framework2, Django 1.5 etc. beaucoup d'applications webs critiques ont été développées sur des architectures improvisées et des technologies aujourd'hui obsolètes. Ces applications sont difficiles à faire évoluer et représentent un vrai danger pour la vélocité des entreprises qui en dépendent.</p>
+
+<p>La solution de tout jeter pour recommencer est peut-être tentante pour l'équipe de développeurs mais c'est une solution extrêmement risquée en termes de continuité de services. Pour diminuer le risque, il faut avoir une approche agile à la fois dans le développement des évolutions et dans la mise à jour de l'application en production et bien coordonner les deux aspects : il faut une approche devops.</p>
+
+<p>Basée sur l'expérience de plusieurs projets, nous aborderons les 7 étapes chronologiques de la refonte agile d'un existant associées à des solutions culturelles et techniques que nous avons identifiées :</p>
+
+<ul>
+<li>prévention des régressions</li>
+<li>mise à jour de l'infrastructure</li>
+<li>gestion du routing et des entrées/sorties</li>
+<li>partage du layout</li>
+<li>intégration de la session</li>
+<li>amorcer la transition la du code vers une architecture orientée service</li>
+<li>migration progressive du modèle et des données</li>
+</ul>
+
+
+<p>Nous verrons au passage que l'essentiel des problématiques rencontrées pendant une refonte agile sont celles auxquelles s'intéresse le mouvement devops.</p>
+
+<p><em>Pourquoi ?</em></p>
+
+<p>Le sujet de la migration progressive de Symfony1 vers Symfony2 est un sujet sur lequel nous travaillons beaucoup chez Theodo et Allomatch. En effet dans les deux sociétés nous travaillons énormément avec Symfony et la version 2 n'est pas juste une amélioration mais un nouveau framework, donc pas de migration automatique possible.</p>
+
+<p>Au fur et à mesure que nous avons pris du recul sur le sujet nous nous sommes rendus compte que l'ensemble des solutions que nous mettons en place sont haut-niveau et donc généralisables à n'importe quel langage ou framework. Nous nous rendons aussi compte que beaucoup des solutions que nous apportons sont culturelles et que nous introduisons sous couvert de "solution innovante de migration progressive" tout un ensemble de bonnes pratiques devops sur les projets : monitoring business, intégration continue, pipeline de déploiement automatisé, releases petites et régulières, etc. D'un point de vue haut-niveau, ce que nous apportons c'est un regain de vélocité sur des projets embourbés, ce qui à mon avis est exactement l'objectif de la philosophie devops.</p>
+
+<p>J'ai déjà abordé notre expérience sur la migration progressive de Symfony1 à Symfony2 en conférences, je n'ai jamais eu l'occasion d'aborder le sujet d'un point de vue non Symfony et plus devops.</p>
+
+<p><strong>Speaker:</strong></p>
+
+<p><em>Fabrice Bernhard, Fondateur et Directeur Technique Theodo</em></p>
+
+  </div>
+  
+    <div class="span-15 first last">
+  
+<script type="text/javascript">
+
+//    var disqus_developer = 1; 
+
+</script> 
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'devopsdays'; 
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+     <hr>
+    </div>
+  
+</div>
+
+<div class="span-8 last">
+  <div class="span-8 last">
+
+
+
+<a href='http://www.hp.com/'><img border=0 alt='HP' title='HP' width=100px height=100px src='/events/2013-paris/logos/hp.png'></a>
+
+<a href='http://www.zeroturnaround.com/'><img border=0 alt='Zeroturnaround' title='Zeroturnaround' width=100px height=100px src='/events/2013-paris/logos/zeroturnaround.png'></a>
+
+<a href='http://www.datadoghq.com/'><img border=0 alt='Datadog' title='Datadog' width=100px height=100px src='/events/2013-paris/logos/datadog.png'></a>
+
+
+<h1>Gold sponsors</h1>
+
+
+
+
+
+<a href='http://www.oxalide.com/'><img border=0 alt='Oxalide' title='Oxalide' width=100px height=100px src='/events/2013-paris/logos/oxalide.png'></a>
+
+<a href='http://www.normation.com/'><img border=0 alt='Normation' title='Normation' width=100px height=100px src='/events/2013-paris/logos/normation.png'></a>
+
+<a href='http://www.serena.com/'><img border=0 alt='Serena' title='Serena' width=100px height=100px src='/events/2013-paris/logos/serena.png'></a>
+
+<a href='http://www.enovance.com/'><img border=0 alt='Enovance' title='Enovance' width=100px height=100px src='/events/2013-paris/logos/enovance.png'></a>
+
+
+
+
+<h1>Silver sponsors</h1>
+
+
+<a href='http://www.alterway.fr/'><img border=0 alt='Alter Way' title='Alter Way' width=100px height=100px src='/events/2013-paris/logos/alterway.png'></a>
+
+<a href='http://www.synalabs.com/'><img border=0 alt='Synalabs' title='Synalabs' width=100px height=100px src='/events/2013-paris/logos/synalabs.png'></a>
+
+<a href='http://www.xebialabs.com/'><img border=0 alt='Xebialabs' title='Xebialabs' width=100px height=100px src='/events/2013-paris/logos/xebialabs.png'></a>
+
+<a href='http://www.cfengine.com/'><img border=0 alt='Cfengine' title='Cfengine' width=100px height=100px src='/events/2013-paris/logos/cfengine.png'></a>
+
+<a href='http://www.theodo.fr/'><img border=0 alt='Theodo' title='Theodo' width=100px height=100px src='/events/2013-paris/logos/theodo.png'></a>
+
+<a href='http://www.sfeir.com/'><img border=0 alt='Sfeir' title='Sfeir' width=100px height=100px src='/events/2013-paris/logos/sfeir.png'></a>
+
+<a href='http://www.daysofwonder.com/'><img border=0 alt='Days of Wonder' title='Days of Wonder' width=100px height=100px src='/events/2013-paris/logos/dow.png'></a>
+
+<a href='http://www.gsb.stanford.edu/ignite/paris'><img border=0 alt='Stanford Ignite Paris' title='Stanford Ignite Paris' width=100px height=100px src='/events/2013-paris/logos/stanford.png'></a>
+
+<a href='http://www.mozilla.org/'><img border=0 alt='Mozilla' title='Mozilla' width=100px height=100px src='/events/2013-paris/logos/mozilla.png'></a>
+
+<a href='http://www.sqli.com/'><img border=0 alt='Sqli' title='Sqli' width=100px height=100px src='/events/2013-paris/logos/sqli.png'></a>
+
+<a href='http://www.prologism.fr'><img border=0 alt='Prologism' title='Prologism' width=100px height=100px src='/events/2013-paris/logos/prologism.png'></a>
+
+
+
+
+
+<h1>Media Sponsors</h1>
+
+
+
+<a href='http://www.rudebaguette.com/'><img border=0 alt='Rude Baguette' title='Rude Baguette' width=100px height=100px src='/events/2013-paris/logos/rudebaguette.png'></a>
+
+<a href='http://www.toolinux.com/'><img border=0 alt='TooLinux' title='TooLinux' width=100px height=100px src='/events/2013-paris/logos/toolinux.png'></a>
+
+<a href='http://webriver.eu/'><img border=0 alt='WebRIVER' title='WebRIVER' width=100px height=100px src='/events/2013-paris/logos/webriver.png'></a>
+
+<a href='http://www.developpez.com/'><img border=0 alt='Developpez.com' title='Developpez.com' width=100px height=100px src='/events/2013-paris/logos/developpez.png'></a>
+
+
+
+</div>
+  <div class="span-8 last">
+  </div>
+
+
+</div>
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9713393-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
