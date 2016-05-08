@@ -22,18 +22,18 @@ aliases = ["/events/2016-dallas"]
     <td><b>Dates</b></td>
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
+  </tr>
+  <tr>
     <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
+    <td>{{< event_link page="proposals" text="Propose a talk!" >}}.</td>
+  </tr>
+  <tr>
     <td><b>Register</b></td>
     <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
+  </tr>
   <!-- <tr>
     <td><b>Speakers</b></td>
     <td>View the {{< event_link page="program" text="program" >}}.</td>
