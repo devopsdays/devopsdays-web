@@ -19,8 +19,9 @@
       {{ end }}
     {{ end }}
     {{ if eq $e.status "current" }}
-      {{ if eq $e.sponsor_status "closed" }}
+      {{ if eq $e.sponsor_link_ask "closed" }}
         <div class = "sponsor-cta">
+          <br>
         </div>
       {{ else }}
         <div class = "sponsor-cta">
