@@ -31,6 +31,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: absponsor
   - id: victorops
     level: csstation
+  - id: netuitive
+    level: csstation
   - id: stackiq
     level: bronze
   - id: arresteddevops
