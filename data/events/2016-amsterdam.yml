@@ -22,7 +22,7 @@ team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco No
 organizer_email: "organizers-amsterdam-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal email address here
 
-# Sponsors 2016-sendachi
+sponsors_accepted: "no"
 sponsors:
   # gold
   - id: chef
@@ -69,16 +69,22 @@ sponsors:
 sponsor_levels:
   - id: bbq
     label: BBQ
+    max: 1
   - id: beer
     label: Beer
+    max: 1
   - id: gold
     label: Gold
+    max: 8
   - id: silver
     label: Silver
+    max: 4
   - id: bronze
     label: Bronze
+    max: 4
   - id: community
     label: Community
+
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
