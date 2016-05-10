@@ -20,7 +20,7 @@ deploy:
 
     - burrbd/gh-pages@0.2.3:
         token: $GIT_TOKEN
-        domain: devopsdays.github.io
+        domain: www.devopsdays.org
         basedir: public
         repo: devopsdays/devopsdays.github.io
   after-steps:
