@@ -24,6 +24,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: location
   - name: registration
+    url:  http://www.eventbrite.com/e/devopsdays-boston-2016-tickets-24041271089
   - name: sponsor
   - name: contact
   - name: conduct
@@ -47,8 +48,18 @@ proposal_email: "proposals-boston-2016@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: chef
+    level: platinum
+  - id: 2016-g2-tech-group
+    level: platinum
+  - id: datadog
     level: gold
+  - id: 2016-pivotal
+    level: gold
+  - id: 2016-victorops
+    level: gold
+  - id: 2016-brainshark
+    level: silver
 #  - id: arresteddevops
 #    level: community
 
