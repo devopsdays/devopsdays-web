@@ -33,7 +33,7 @@ type = "event"
 <td></td>
 <td><strong>1,000 USD</strong></td>
 <td><strong>3,000 USD</strong></td>
-<td><strong>5,000 USD</strong></td>
+<td><strong>SOLD OUT</strong></td>
 </tr>
 <tr>
 <td>2 included tickets</td>
@@ -113,13 +113,12 @@ type = "event"
   <li><a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Gold sponsor now</a>.</li>
 </ul>
 
-<h3>Platinum $5,000 USD</h3>
+<h3>Platinum - SOLD OUT</h3>
 <ul>
   <li>All benefits of Gold sponsors</li>
   <li>1 minute pitch to full audience, including streaming audience</li>
   <li>3 additional tickets, 5 in total</li>
   <li>Dedicated table for swag</li>
-  <li><a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.</li>
 </ul>
 
 <p>We greatly value sponsors for this open event. If you are interested in other types of sponsorships, please contact us directly at <a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>.</p>
