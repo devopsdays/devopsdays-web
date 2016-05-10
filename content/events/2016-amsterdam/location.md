@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:17:00-06:00"
 title = "Event Location"
 type = "event"
-
+tags = ["amsterdam","amsterdam-2016"]
 +++
 ### Conference Location
 <b><a href="http://www.dezwijger.nl/" target="_blank">Pakhuis de Zwijger</a></b><br>

@@ -8,45 +8,26 @@ aliases = ["/events/2015-bangalore"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
-</table>
+The 4th Devopsdays in India will take place on 12-13th September 2015 at the [Royal Orchid](location).
+
+## Sponsorship
+Sponsorship Opportunities are still available please visit [DevOpsDays India](http://devopsdaysindia.org)
+
+## Tickets
+
+Please purchase tickets [here](https://www.townscript.com/devopsdays-2015)
+
+## Language
+
+All of the presentations will be held in *English*.
+
+For more information, you can reach us at <a href='mailto:team@devopsdaysindia.org'>team@devopsdaysindia.org</a>
+
+## More information
+
+Please visit [DevOpsDays India](http://devopsdaysindia.org) for more and upto date information
+
