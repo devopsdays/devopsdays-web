@@ -57,6 +57,8 @@ sponsors:
     level: bronze
   - id: devoteam
     level: bronze
+  - id: indigo
+    level: bronze
   # BBQ
   - id: chef
     level: bbq
