@@ -1,6 +1,6 @@
 +++
 date = "2016-05-09T10:06:26-03:00"
-title = "welcome"
+title = "inicio"
 type = "event"
 aliases = ["/events/2016-portoalegre"]
 
@@ -8,7 +8,7 @@ aliases = ["/events/2016-portoalegre"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to {{< event_location >}}!
+DevOps Days será em {{< event_location >}}!
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -16,13 +16,13 @@ DevOps Days is coming to {{< event_location >}}!
 
 <table>
   <tr>
-    <td><b>Dates</b></td>
+    <td><b>Data</b></td>
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
+  <tr>
+    <td><b>Localização</b></td>
     <td>{{< event_location >}}</td>
-  </tr> -->
+  </tr>
   <!-- <tr>
     <td><b>Propose</b></td>
     <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
@@ -33,15 +33,15 @@ DevOps Days is coming to {{< event_location >}}!
   </tr> -->
   <!-- <tr>
     <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
+    <td>View the {{< event_link page="programacao" text="programação" >}}.</td>
   </tr> -->
   <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
+    <td><b>Patrocinadores</b></td>
+    <td>{{< event_link page="patrocinio" text="Patrocine o nosso evento" >}} Essa é uma grande forma de atrair novos talentes e promover sua organização.</td>
   </tr>
   <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
+    <td><b>Contatos</b></td>
+    <td>{{< event_link page="contato" text="Esteja em contato com os organizadores" >}}</td>
   </tr>
   <tr>
   <td></td>
