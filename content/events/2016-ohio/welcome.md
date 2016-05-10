@@ -51,7 +51,7 @@ Thanks to a great success in <a href="http://www.devopsdays.org/events/2015-ohio
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdayschi >}} <!-- add your twitter name here without the @ sign -->
+    {{< event_twitter DevOpsDaysOhio >}} <!-- add your twitter name here without the @ sign -->
     </td>
   </tr>
 </table>
