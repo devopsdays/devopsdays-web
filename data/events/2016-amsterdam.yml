@@ -13,7 +13,7 @@ cfp_date_announce: 2016-01-01 # inform proposers of status
 
 # Location
 coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Amsterdam" # Defaults to city, but you can make it the venue name.
+location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 
 # Team members
 team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Marjana Shammi", "Mine Heck", "Daniel Paulus", "Mark Heistek"]
@@ -22,10 +22,10 @@ team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco No
 organizer_email: "organizers-amsterdam-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal email address here
 
-# Sponsors 2016-sendachi
+sponsors_accepted: "no"
 sponsors:
   # gold
-  - id: 2016-chef
+  - id: chef
     level: gold
   - id: github
     level: gold
@@ -37,7 +37,7 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
-  - id: 2016-thoughtworks
+  - id: thoughtworks-products
     level: gold
   - id: ubuntu
     level: gold
@@ -45,6 +45,8 @@ sponsors:
     level: gold
   # silver
   - id: icemobile
+    level: silver
+  - id: icinga
     level: silver
   - id: linkit
     level: silver
@@ -54,7 +56,7 @@ sponsors:
   - id: beslist
     level: bronze
   # BBQ
-  - id: 2016-chef
+  - id: chef
     level: bbq
   # Beer
   - id: redhat
@@ -67,16 +69,22 @@ sponsors:
 sponsor_levels:
   - id: bbq
     label: BBQ
+    max: 1
   - id: beer
     label: Beer
+    max: 1
   - id: gold
     label: Gold
+    max: 8
   - id: silver
     label: Silver
+    max: 4
   - id: bronze
     label: Bronze
+    max: 4
   - id: community
     label: Community
+
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
