@@ -8,45 +8,45 @@ aliases = ["/events/2015-amsterdam"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to {{< event_location >}}!
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+This year, we are hosting the third edition of devopsdays Amsterdam. We are looking forward to welcoming 300+ attendees, speakers and trainers for three days of interesting sessions in June 2015.
+<br>
 
 <table>
   <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
+    <td><strong>Date</strong></td>
+    <td>24, 25 and 26 June 2015</td>
   </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
+
   <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
+    <td><strong>Location</strong></td>
+    <td><a href="http://devopsdays.org/events/2015-amsterdam/location/" target="_blank">Pakhuis de Zwijger - Amsterdam</a></td>
   </tr>
+
   <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
+    <td><strong>Registration</strong></td>
+    <td><a href="http://devopsdays.org/events/2015-amsterdam/registration/" target="_blank">We've lowered our ticket prices! Register now.</a></td>
   </tr>
+
   <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
+    <td><strong>Speakers</strong></td>
+    <td>Our speakers have been picked. <a href="program/">Program</a> is live.</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sponsors</strong></td>
+    <td><a href="sponsor/">Limited sponsoring opportunities</a> are available. Help us make this event an outstanding one!</td>
+  </tr>
+
+  <tr>
+    <td><strong>Contact</strong></td>
+    <td><a href="contact/">Get in touch with the Organisers</a>.</td>
   </tr>
 </table>
+
+-----
+
+Do you have any thoughts, concerns or ideas you want to share with us? <a href="mailto:organizers-amsterdam-2015@devopsdays.org">Talk to the organizers!</a>!
