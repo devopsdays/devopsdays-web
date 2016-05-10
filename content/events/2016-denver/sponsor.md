@@ -7,44 +7,71 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
-<hr>
+## Sponsorship Packages
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<br>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-<br>
-<hr/>
 
-<!--
+### Gold Sponsorship ($3,500) (Sold out!)
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
-<br/>
-<br/>
-</div>
--->
-<hr/>
+* 6 tickets to the event
+* Logo on DevOpsDays Rockies event website
+* Logo on all email communication
+* 1 minute pitch to full audience (including streaming audience)
+* Demo a product (20 min) during Open Space Session
+* Booth/Table space
+* Logo Co-branded on lanyard
+
+### Silver Sponsorship ($2,500)
+
+* 4 tickets to the event
+* Logo on DevOpsDays Rockies event website
+* Logo on all email communication
+* Booth/Table space
+* Display of your roll-up/pop-up banner in the venue near high traffic areas
+
+### Copper Sponsorship ($2,000)
+
+* 2 tickets to the event
+* Logo on DevOpsDays Rockies event website
+* Logo on all email communication
+* Shared table for gifeaways
+* Special Visibility promotion
+
+### Bronze Sponsorship ($1,500)
+* 2 tickets to the event
+* Logo on DevOpsDays Rockies event website
+* Logo on all email communication
+* Shared table for gifeaways
+
+### Social Hour Sponsorship – Availability 1 ($4,000)
+
+* 2 tickets to the event
+* 6 tickets to the event
+* Logo on DevOpsDays Rockies event website
+* Logo on all email communication
+* 1 minute pitch to full audience (including streaming audience)
+* Demo a product (20 min) during Open Space Session
+* Booth/Table space
+* Logo Co-branded on lanyard
+* Full access to decorate bar and host activities during Happy Hour
+
+### Special Visibility Packages
+With each of these sponsor options, we will make sure the attendees know you sponsored the
+event by providing the opportunity to associate your brand with a high-visibility activity during
+the event. There will be up-front announcements of these events, social media, website
+promotion and, of course, your logo or pop-up banner will be incorporated in some fashion
+(depends on option).
+Each of these are unique opportunities and are available on a first-come / first served basis.
+When we run out, we have run out!
+
+* Caffeine: We plan to have a coffee cart to keep the audience caffeinated through the
+event.
+* Wireless Networking: Your company name will be the SSID for the network at the
+conference.
+* Ice Cream Social/Smoothie: During our afternoon break on day 1, we will have an ice
+cream social featuring Little Man Ice Cream.
+* Dessert/Cupcake Break: During our afternoon break on day 2, we will have a little
+dessert social.
+
+
+For more information and FAQ's see the [Sponsorship Packages.pdf](http://www.devopsdaysrox.org/sponsor/2016-DevOpsDaysRox-Sponsorship.pdf)
