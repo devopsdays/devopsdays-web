@@ -19,7 +19,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. To watch for changes and rebuild on the fly, open a new terminal, cd to your fork of the repo, and enter this command: `hugo server -w --baseUrl="http://localhost:1313"`
 1. OS X has low ulimits, so you may see this message:
 ```
-hugo server -w --baseUrl="http://localhost:1313”
+hugo server -w --baseUrl="http://localhost:1313"
 [...]
 Error: listen tcp 127.0.0.1:1313: socket: too many open files
 ```
