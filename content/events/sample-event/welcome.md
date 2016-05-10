@@ -26,7 +26,7 @@ DevOps Days is coming to {{< event_location >}}!
   </tr> -->
   <!-- <tr>
     <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
+    <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
   </tr> -->
   <!-- <tr>
     <td><b>Register</b></td>
