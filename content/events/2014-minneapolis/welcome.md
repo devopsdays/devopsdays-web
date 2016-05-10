@@ -6,47 +6,35 @@ aliases = ["/events/2014-minneapolis"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<center>
+  <table><tr><td>
+        <center>
+        <img border=0 width="160" height="240" src="/events/2014-minneapolis/logo2014.png">
+</td><td valign=top>
+<strong>DevOpsDays is coming to Minneapolis! </strong>
+<br><br>
+Dates: July 17-18, 2014
+<br><br>
+Location: {{< event_link page="location" text="Downtown Minneapolis, University of St. Thomas" >}} 
+<br>
 
-DevOps Days is coming to {{< event_location >}}!
+<b>New!</b> - Open Spaces Schedule: <a href="http://bit.ly/dodmsp-openspaces">http://bit.ly/dodmsp-openspaces</a>
+<br>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+{{< event_link page="registration" text="Register now!" >}}
+<br>
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
+View the {{< event_link page="program" text="program!" >}}
+<br>
+
+{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to promote your organization.
+<br>
+
+{{< event_link page="contact" text="Email the organizers." >}}
+<br>
+</td>
+</tr>
 </table>
+</center>
+
+<hr>

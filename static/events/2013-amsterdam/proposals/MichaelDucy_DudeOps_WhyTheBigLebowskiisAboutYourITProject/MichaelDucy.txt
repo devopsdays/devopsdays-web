@@ -1,0 +1,30 @@
+Based on feedback from Harm Boertien I wanted to submit a similar talk to one that I did at the CloudStack Collab conference: DudeOps - Why The Big Lebowski is About Building a Cloud.
+
+Proposed title: DudeOps - Why The Big Lebowski is About Your IT Project 
+
+In this off colored talk, I'll cover the major players of cult favorite The Big Lebowski and how those players map to the people you are likely to encounter when executing an IT project. Successful IT projects are often more about the organizational issues you'll encounter rather than the technical issues. In this talk, we'll cover some of the "characters" of IT you will encounter on your journey, and how to overcome them. For fun, we will draw from the characters of The Big Lebowski, as well as the Dude's experiences, in order to help you navigate your organization.
+
+After all, "All the Dude ever wanted was his project done."
+
+The big change I would make is to go a bit deeper into the characters of IT (based on feedback I got after CloudStack Collab) and incorporate more theory regarding psychology, organizational management, and sociology to educate the audience on organization dynamics. As IT people often lack interpersonal relationship skills (I know I do at times), I think this talk can be very useful for attendees.
+
+You can find a video of my presentation here:
+
+http://www.youtube.com/watch?v=uDBnYsKkMT0
+
+The audience was small 15-20 attendees, so the content would still be fresh for the DevOps Amsterdam audience.  
+
+My Bio:
+
+Michael Ducy currently works as a Cloud Architecture Lead for CompuCom Systems focused on designing and implementing large scale Cloud environments for customers. Additionally, Michael's work includes leveraging process improvement methodologies such as Lean to refine things such as server build processes. Prior to CompuCom, Michael worked at enStratus where he had the opportunity to work with a wide variety of private and public cloud solutions including CloudStack, OpenStack, and Eucalyptus. Before enStratus, Michael worked at BMC Software focusing on Cloud Computing and Data Center Automation. Michael has also worked in various capacities at Orbitz Worldwide, focusing on performance management, capacity planning, and operations. Michael has held other roles as a Linux Systems Engineer, Instructor of IT courses, and as a Private Consultant. After graduating from the University of Missouri St. Louis with a degree in Computer Science, Michael completed his Masters degree in Computer Science at the University of Chicago. More recently Michael completed his MBA at the Fisher College of Business at The Ohio State University.
+
+I have spoken at a few conferences in the past, including:
+
+Computer Measurement Group 2008
+Cloud Connect Chicago 2012
+Defrag 2012
+CloudStack Collab 2012
+Cloud Connect Silicon Valley 2013 (proposal accepted)
+
+Thanks,
+Michael
