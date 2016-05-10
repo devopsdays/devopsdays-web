@@ -11,8 +11,6 @@ aliases = ["/events/2016-philadelphia"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to XXXXXX
-
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
@@ -49,7 +47,7 @@ DevOps Days is coming to XXXXXX
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdayschi >}} <!-- add your twitter name here without the @ sign -->
+    {{< event_twitter devopsdaysphl >}} <!-- add your twitter name here without the @ sign -->
     </td>
   </tr>
 </table>

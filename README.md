@@ -14,7 +14,27 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 ### Setup
 1. Install [Hugo v0.15+](http://gohugo.io)
 1. Fork this repo
+
+### View site locally
 1. To watch for changes and rebuild on the fly, open a new terminal, cd to your fork of the repo, and enter this command: `hugo server -w --baseUrl="http://localhost:1313"`
+1. OS X has low ulimits, so you may see this message:
+```
+hugo server -w --baseUrl="http://localhost:1313”
+[...]
+Error: listen tcp 127.0.0.1:1313: socket: too many open files
+```
+
+You can correct it with this:
+```
+ $  hugo check ulimit
+ $  sudo sysctl -w kern.maxfiles=65536
+ $  sudo sysctl -w kern.maxfilesperproc=65536
+ $  ulimit -n 65536 65536
+```
+Then in a new window:
+```
+ $  hugo server -w --baseUrl="http://localhost:1313"
+```
 
 ### Contribute changes
 1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. tl;dr: don't add "giant template change" in the same PR as "here are some more sponsors". If it affects anything other than your event, it should be in its own PR.
@@ -22,7 +42,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. Before you commit any changes, create a new branch, i.e., `git checkout -b fix-that-thing`
 1. Make your changes, test them locally, then push that branch up to origin on your fork (`git push origin BRANCHNAME`)
 1. Submit a pull request from the branch you just pushed
-1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://devopsdays.github.io](http://devopsdays.github.io).
+1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
 ## Creating a new event
 
@@ -36,7 +56,7 @@ Once you have created a logo graphic, you will want to add it to the following d
 
 ## Adding sponsors
 
-Sponsors each need a file in the data directory, as such: `data/sponsors/2016-chef.yml`. Please make sure to use the year for the sponsor (just so that the old events don't end up with newer sponsor logos, etc - but don't make one just for your city). If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/2016-chefchicago.yml`.  (Note: there is an experimental feature for an "override" of the sponsor data; more on this feature as it is developed)
+Sponsors each need a file in the data directory, as such: `data/sponsors/chef.yml`. Please make sure to use the year for the sponsor (just so that the old events don't end up with newer sponsor logos, etc - but don't make one just for your city). If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/chefchicago.yml`.  (Note: there is an experimental feature for an "override" of the sponsor data; more on this feature as it is developed)
 
 Put the images for your sponsors in the `/static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `/static/img/sponsors/chef.png`.
 
