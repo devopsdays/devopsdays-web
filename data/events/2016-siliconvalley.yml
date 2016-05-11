@@ -29,6 +29,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: signalfx
     level: silver
+  - id: kontena
+    level: silver
   - id: datadog
     level: absponsor
   - id: victorops
