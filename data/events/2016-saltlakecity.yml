@@ -37,6 +37,10 @@ team_members:
     twitter: "adeangelis"
     employer: "NCR"
   - name: "Trent Cameron"
+    twitter: "tvc123"
+  - name: "Tim Ward"
+    twitter: "roboticward"
+    employer: "EMC"
   - name: "Thomas Cook"
   - name: "Mike Duffy"
   - name: "Alex Lutz"
@@ -60,6 +64,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: blackdiamond
   - id: thoughtworks-products
     level: blackdiamond
+  - id: saltstack
+    level: blackdiamond
   - id: ca_tech
     level: bluesquare
   - id: victorops
@@ -69,6 +75,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: healthcatalyst
     level: bluesquare
   - id: morpheus_data
+    level: bluesquare
+  - id: hpe-tr
     level: bluesquare
   - id: centurylink
     level: greencircle
