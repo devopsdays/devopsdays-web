@@ -64,6 +64,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: sonatype
     level: lunch
+  - id: 2016-sumologic
+    level: gold
+  - id: 2015-microsoft
+    level: gold
+  - id: shomi
+    level: party
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
