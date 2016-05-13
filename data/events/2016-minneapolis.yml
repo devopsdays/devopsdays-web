@@ -10,7 +10,7 @@ cfp_date_end: 2016-03-31
 cfp_date_announce: 2016-05-01
 coordinates: "44.972610,-93.272960" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Downtown Minneapolis Hilton" # The name of your location
-navigationelements: ["welcome", "program", "propose", "location", "registration", "sponsor", "contact", "conduct"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+navigationelements: ["welcome", "program", "speakers", "propose", "location", "registration", "sponsor", "contact", "conduct"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
 team_members: # Name is the only required field for team members.
   - name: "Bridget Kromhout"
     twitter: "bridgetkromhout"
