@@ -6,7 +6,7 @@ type = "event"
   {{< cfp_dates >}}
 
 
-<strong><a href="https://docs.google.com/forms/d/18eXmb25pbYkV0uaEiHq7QJmrI_O8WCydrHaQA6Ub-zU/edit">Propose a session here</a></strong>
+<h2><a href="https://docs.google.com/forms/d/18eXmb25pbYkV0uaEiHq7QJmrI_O8WCydrHaQA6Ub-zU/edit">Click here to propose a session</a></h2>
 
 <hr>
 There are three types of sessions:
