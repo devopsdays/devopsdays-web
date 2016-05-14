@@ -66,9 +66,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: lunch
   - id: 2016-sumologic
     level: gold
-  - id: 2015-microsoft
+  - id: 2016-microsoft
     level: gold
-  - id: shomi
+  - id: 2016-shomi
     level: party
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -80,6 +80,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
+  - id: party
+    label: Party
   - id: lunch
     label: Lunch
   - id: community
