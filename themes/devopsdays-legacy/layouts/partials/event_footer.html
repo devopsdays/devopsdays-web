@@ -4,9 +4,8 @@
 
 </div>
 
+<p>
 
-
-<div class="col-md-4">
 <!-- sponsor code begin -->
 {{ if $e.sponsors }}
   {{ $sponsors := $e.sponsors }}
@@ -21,11 +20,12 @@
     {{ if eq $e.status "current" }}
       {{ if eq $e.sponsors_accepted "no" }}
         <div class = "sponsor-cta">
-          <br>
+          <br><br><hr><br>
         </div>
       {{ else }}
         <div class = "sponsor-cta">
         <a href = "/events/{{ $e.name }}/sponsor">Become a {{ .label }} Sponsor!</a>
+          <br><br><hr><br>
         </div>
       {{ end }}
     {{ else }}
@@ -39,5 +39,4 @@
 </div>
 </div>
 
-</div>
 {{ partial "footer.html" . }}
