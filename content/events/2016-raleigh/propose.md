@@ -8,7 +8,6 @@ type = "event"
 
 <h2><a href="https://docs.google.com/forms/d/18eXmb25pbYkV0uaEiHq7QJmrI_O8WCydrHaQA6Ub-zU/edit">Click here to propose a session</a></h2>
 
-<hr>
 There are three types of sessions:
 <ol>
   <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
