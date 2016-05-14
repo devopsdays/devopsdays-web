@@ -5,12 +5,9 @@ type = "event"
 aliases = ["/events/2016-raleigh"]
 
 +++
-
-Welcome to Raleigh DevOpsDays! 
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <table>
   <tr>
