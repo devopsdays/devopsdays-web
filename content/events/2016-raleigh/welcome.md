@@ -5,14 +5,9 @@ type = "event"
 aliases = ["/events/2016-raleigh"]
 
 +++
-
-## {{< event_start >}} - {{< event_end >}}
-
-Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tuned to our <a href="https://twitter.com/devopsdaysTRI">twitter account</a> as we solidify plans for the event.
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <table>
   <tr>
@@ -29,7 +24,7 @@ Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tun
   </tr>
   <tr>
     <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the conference!" >}}</td>
+    <td><a href="https://www.eventbrite.com/e/devopsdays-raleigh-2016-tickets-23830096460">Register to attend the conference!</a></td>
   </tr>
   <!-- <tr>
     <td><b>Speakers</b></td>
@@ -46,7 +41,7 @@ Welcome to Raleigh DevOpsDays! More information will be coming shortly. Stay tun
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdaystri >}} <!-- add your twitter name here without the @ sign -->
+    {{< event_twitter devopsdaysrdu >}} <!-- add your twitter name here without the @ sign -->
     </td>
   </tr>
 </table>
