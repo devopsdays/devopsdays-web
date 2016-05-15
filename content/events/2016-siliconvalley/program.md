@@ -10,4 +10,4 @@ type = "event"
 
 
 <center><b><h2>The Schedule (TBD)</h2></b></center>
-<div class="span-7 append-bottom border">
+<div class="span-11 append-bottom border">

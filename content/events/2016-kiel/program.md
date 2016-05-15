@@ -14,136 +14,136 @@ type = "event"
 <hr />
 
 
-<div class="span-7 append-bottom border">
+<div class="span-11 append-bottom border">
 
-<div class="span-7 last">
+<div class="span-11 last">
 <h4>Thursday May,12th 2016</h4>
 </div>
 
-<div class="span-2">08:00-09:00</div><div class="span-4 box last">Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:30</div><div class="span-4 box last"><p><strong>Opening Welcome</strong></p><p>Dr. Ulf Kämpfer, Mayor of the City of Kiel<br>Werner Kässens (KiWi)<br>Dr. Inge Schröder (Wissenschaftszentrum)<br>Moderation:<br> Sabine Bernecker-Bendixen</p></div>
-<div class="span-2">09:30-10:10</div><div class="span-4 box last">
+<div class="span-2">08:00-09:00</div><div class="span-8 box last">Registration, Breakfast, and Sponsor Booths Open</div>
+<div class="span-2">09:00-9:30</div><div class="span-8 box last"><p><strong>Opening Welcome</strong></p><p>Dr. Ulf Kämpfer, Mayor of the City of Kiel<br>Werner Kässens (KiWi)<br>Dr. Inge Schröder (Wissenschaftszentrum)<br>Moderation:<br> Sabine Bernecker-Bendixen</p></div>
+<div class="span-2">09:30-10:10</div><div class="span-8 box last">
     <p><strong>Oliver Siebenmarck</strong></p><p><a href = "/events/2016-kiel/program/#desc1">From 0 to DevOps - Coping with Continuous Delivery to the Cloud</a></p>
 </div>
-<div class="span-2">10:15-10:55</div><div class="span-4 box last">
+<div class="span-2">10:15-10:55</div><div class="span-8 box last">
   <p><strong>Jan-Joost Bouwman</strong></p><p><a href = "/events/2016-kiel/program/#desc2">ITIL and DevOps can be friends</a></p>
 </div>
-<div class="span-2">10:55-11:20</div><div class="span-4 box last">
+<div class="span-2">10:55-11:20</div><div class="span-8 box last">
     <strong>Coffee Break</strong>
 </div>
-<div class="span-2">11:20-12:00</div><div class="span-4 box last">
+<div class="span-2">11:20-12:00</div><div class="span-8 box last">
   <p><strong>Wayne Ariola</strong></p><p><a href = "/events/2016-kiel/program/#desc3">Continous Testing for DevOps: Evolving Beyond Automation</a></p>
 </div>
 
-<div class="span-2">12:00-13:00</div><div class="span-4 box last">
+<div class="span-2">12:00-13:00</div><div class="span-8 box last">
     <strong>Lunch</strong>
 </div>
 
-<div class="span-2">13:00-13:40</div><div class="span-4 box last">
+<div class="span-2">13:00-13:40</div><div class="span-8 box last">
   <p><strong>Rafael Ördög</strong></p><p><a href = "/events/2016-kiel/program/#desc4">Learning to fall</a></p>
 </div>
 
-<div class="span-2">13:45-14:25</div><div class="span-4 box last">
+<div class="span-2">13:45-14:25</div><div class="span-8 box last">
     <p><strong>Marta Paciorkowska</strong></p><p><a href = "/events/2016-kiel/program/#desc17">DevOps and sharing</a></p>
 </div>
 
-<div class="span-2">14:25-14:35</div><div class="span-4 box last"><strong>Sponsor pitches</strong>
+<div class="span-2">14:25-14:35</div><div class="span-8 box last"><strong>Sponsor pitches</strong>
 </div>
 
-<div class="span-2">14:35-15:00</div><div class="span-4 box last"><strong>Ignites</strong><br />
+<div class="span-2">14:35-15:00</div><div class="span-8 box last"><strong>Ignites</strong><br />
 <a href = "/events/2016-kiel/program/#desc7">Keep it simple, Stupid</a><br />
 <i>Moritz Rogalli</i><br />
 <a href = "/events/2016-kiel/program/#desc14">The (Un)Surprising Truth About DevOps Culture</a><br />
 <i>Manuel Pais</i><br /><br />
 </div>
 
-<div class="span-2">15:00-15:30</div><div class="span-4 box last"><strong>Preparing Open Spaces</strong></div>
+<div class="span-2">15:00-15:30</div><div class="span-8 box last"><strong>Preparing Open Spaces</strong></div>
 
-<div class="span-2">15:30-16:00</div><div class="span-4 box last">
+<div class="span-2">15:30-16:00</div><div class="span-8 box last">
 <strong>Coffee Break</strong>
 </div>
 
-<div class="span-2">16:00-16:30</div><div class="span-4 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #1</div>
+<div class="span-2">16:00-16:30</div><div class="span-8 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #1</div>
 
-<div class="span-2">16:35-17:05</div><div class="span-4 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #2</div>
+<div class="span-2">16:35-17:05</div><div class="span-8 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #2</div>
 
-<div class="span-2">17:10-17:40</div><div class="span-4 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #3</div>
+<div class="span-2">17:10-17:40</div><div class="span-8 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #3</div>
 
-<div class="span-2">17:40-18:30</div><div class="span-4 box last"><strong>Happy Hour</strong></div>
+<div class="span-2">17:40-18:30</div><div class="span-8 box last"><strong>Happy Hour</strong></div>
 
-<div class="span-2">18:30-19:30</div><div class="span-4 box last"><strong>Free time</strong></div>
+<div class="span-2">18:30-19:30</div><div class="span-8 box last"><strong>Free time</strong></div>
 
-<div class="span-2">19:30-late</div><div class="span-4 box last"><strong>Evening Event</strong><br /></div>
+<div class="span-2">19:30-late</div><div class="span-8 box last"><strong>Evening Event</strong><br /></div>
 
 
 </div>
 
 
-<div class="span-7 append-bottom border">
+<div class="span-11 append-bottom border">
 
-<div class="span-7 last">
+<div class="span-11 last">
 <h4>Friday May,13th 2016</h4>
 </div>
 
-<div class="span-2">08:00-09:00</div><div class="span-4 box last"> Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong>Opening 2nd Day</strong><br>Moderation:<br> Sabine Bernecker-Bendixen</div>
+<div class="span-2">08:00-09:00</div><div class="span-8 box last"> Registration, Breakfast, and Sponsor Booths Open</div>
+<div class="span-2">09:00-9:15</div><div class="span-8 box last"><strong>Opening 2nd Day</strong><br>Moderation:<br> Sabine Bernecker-Bendixen</div>
 
-<div class="span-2">09:15-09:55</div><div class="span-4 box last">
+<div class="span-2">09:15-09:55</div><div class="span-8 box last">
     <p><strong>Bianca Heinemann</strong></p><p><a href = "/events/2016-kiel/program/#desc8">The Challenges of Adopting DevOps</a></p>
 </div>
-<div class="span-2">10:00-10:40</div><div class="span-4 box last">
+<div class="span-2">10:00-10:40</div><div class="span-8 box last">
   <p><strong>Baruch Sadogursky</strong></p><p><a href = "/events/2016-kiel/program/#desc9">Docker Container Lifecyle: Problem or Opportunity?</a></p>
 </div>
 
-<div class="span-2">10:40-11:10</div><div class="span-4 box last">
+<div class="span-2">10:40-11:10</div><div class="span-8 box last">
     <strong>Coffee Break</strong>
 </div>
 
-<div class="span-2">11:10-11:50</div><div class="span-4 box last">
+<div class="span-2">11:10-11:50</div><div class="span-8 box last">
   <p><strong>Philipp Krenn</strong></p><p><a href = "/events/2016-kiel/program/#desc8">Collect all the things with Beats</a></p>
 </div>
 
-<div class="span-2">11:50-12:00</div><div class="span-4 box last">
+<div class="span-2">11:50-12:00</div><div class="span-8 box last">
   <strong>Sponsor Pitches</strong>
 </div>
 
-<div class="span-2">12:00-13:00</div><div class="span-4 box last">
+<div class="span-2">12:00-13:00</div><div class="span-8 box last">
   <strong>Lunch</strong>
 </div>
 
-<div class="span-2">13:00-13:40</div><div class="span-4 box last">
+<div class="span-2">13:00-13:40</div><div class="span-8 box last">
     <p><strong>Jorge Salamero Sanz</strong></p><p><p><a href = "/events/2016-kiel/program/#desc6">War Games - flight training for DevOps</a></p>
 </div>
 
-<div class="span-2">13:45-14:25</div><div class="span-4 box last">
+<div class="span-2">13:45-14:25</div><div class="span-8 box last">
 <p><strong>Felix Willnecker/André van Hoorn</strong></p><p><a href = "/events/2016-kiel/program/#desc11">Rethinking Performance Engineering in the DevOps World</a></p>
 </div>
 
-<div class="span-2">14:25-15:00</div><div class="span-4 box last">
+<div class="span-2">14:25-15:00</div><div class="span-8 box last">
     <strong>Coffee Break</strong>
 </div>
 
-<div class="span-2">15:00-15:40</div><div class="span-4 box last">
+<div class="span-2">15:00-15:40</div><div class="span-8 box last">
 <p><strong>Bernd Erk</strong></p><p><a href = "/events/2016-kiel/program/#desc12">Working in and with Open Source Communities</a></p>
 </div>
 
-<div class="span-2">15:40-16:10</div><div class="span-4 box last"><strong>Ignites</strong><br /><a href = "/events/2016-kiel/program/#desc14">Scalable & clean build environments with Jenkins and Docker</a><br />
+<div class="span-2">15:40-16:10</div><div class="span-8 box last"><strong>Ignites</strong><br /><a href = "/events/2016-kiel/program/#desc14">Scalable & clean build environments with Jenkins and Docker</a><br />
 <i>Stefan Kahlhöfer</i><br /><br />
 <a href = "/events/2016-kiel/program/#desc18">Praise the "overwrite" - Why boring approaches are awesome!</a><br />
 <i>Florian Sellmayr</i>
 </div>
 
-<div class="span-2">16:10-16:30</div><div class="span-4 box last"><strong>Preparing Open Spaces</strong></div>
+<div class="span-2">16:10-16:30</div><div class="span-8 box last"><strong>Preparing Open Spaces</strong></div>
 
-<div class="span-2">16:35-17:05</div><div class="span-4 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #4</div>
+<div class="span-2">16:35-17:05</div><div class="span-8 box last"><strong>Open Space</strong> (3-4 groups) <br /> Open Space #4</div>
 
-<div class="span-2">17:10-17:45</div><div class="span-4 box last"><strong>Get together with AMA Panel</strong><br /><br />
+<div class="span-2">17:10-17:45</div><div class="span-8 box last"><strong>Get together with AMA Panel</strong><br /><br />
 Moderation:<br />
 Maik Wojcieszak<br />
 Sabine Bernecker-Bendixen
 </div>
 
-<div class="span-2">17:45</div><div class="span-4 box last"><strong>Close Day & Farewell</strong></div>
+<div class="span-2">17:45</div><div class="span-8 box last"><strong>Close Day & Farewell</strong></div>
 
 </div>
 <div style="clear:both"></div>

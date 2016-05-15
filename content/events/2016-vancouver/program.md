@@ -15,15 +15,15 @@ type = "event"
 
 
 <center><b><h2>The Schedule</h2></b></center>
-<div class="span-7 append-bottom border">
+<div class="span-11 append-bottom border">
 
-<div class="span-7 last">
+<div class="span-11 last">
 <h4>Day 1</h4>
 </div>
 
-<div class="span-2">08:00-09:00</div><div class="span-4 box last">Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong></strong>Opening Welcome</div>
-<div class="span-2">09:15-09:45</div><div class="span-4 box last">
+<div class="span-2">08:00-09:00</div><div class="span-8 box last">Registration, Breakfast, and Sponsor Booths Open</div>
+<div class="span-2">09:00-9:15</div><div class="span-8 box last"><strong></strong>Opening Welcome</div>
+<div class="span-2">09:15-09:45</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Capacity_Planning_at_Demonware/"><strong>Capacity Planning at Demonware</strong></a>
   <br />
   Dmytro Dyachuk
@@ -35,21 +35,21 @@ type = "event"
   Capacity Planning engineer, Demonware
   <br />
 </div>
-<div class="span-2">09:45-10:15</div><div class="span-4 box last">
+<div class="span-2">09:45-10:15</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/What_do_the_recent_CVEs_tell_us_about_Container_Security_compliance/"><strong>What do the recent CVEs tell us about Container Security compliance?</strong></a>
   <br />
   Diógenes Rettori, <a href='https://twitter.com/@rettori'>@rettori</a>
   <br />
   Product Manager, Redhat OpenShift
 </div>
-<div class="span-2">10:15-10:20</div><div class="span-4 box last">
+<div class="span-2">10:15-10:20</div><div class="span-8 box last">
   Message from Gold Sponsors
 </div>
-<div class="span-2">10:20-10:30</div><div class="span-4 box last">
+<div class="span-2">10:20-10:30</div><div class="span-8 box last">
   Break
 </div>
 
-<div class="span-2">10:30-11:00</div><div class="span-4 box last">
+<div class="span-2">10:30-11:00</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Empathy_is_a_Core_Engineering_Skill/"><strong>Empathy is a core engineering skill</strong></a>
   <br />
   Matthew Smillie
@@ -57,13 +57,13 @@ type = "event"
   Software Engineer, Joyent
 </div>
 
-<div class="span-2">11:00-11:30</div><div class="span-4 box last">
+<div class="span-2">11:00-11:30</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Gender_in_organizations_From_fixing_the_women_to_liberating_the_men/"><strong>Gender in organizations: From fixing the women to liberating the men</strong></a>
   <br />
   Dr. Jennifer Berdahl
 </div>
 
-<div class="span-2">11:30-12:00</div><div class="span-4 box last"><strong>Ignites</strong> <br /><br />
+<div class="span-2">11:30-12:00</div><div class="span-8 box last"><strong>Ignites</strong> <br /><br />
   <ol>
     <li><a href="/events/2016-vancouver/proposals/Data_Pipelines_for_the_Lazy/">Data Pipelines for the Lazy</a> - Kyle Young, <a href='https://twitter.com/@ksgyoung'>@ksgyoung</a><br />Systems Engineer, Mobify</li>
     <li><a href="/events/2016-vancouver/proposals/Improve_the_impact_of_DevOps–driven_application_delivery_with_machine_data_insights/">Improve the impact of DevOps–driven application delivery with machine data insights</a> - Stela Udovicic, <a href='https://twitter.com/@stela_udo'>@stela_udo</a><br />Senior Product Marketing Manager, Splunk</li>
@@ -74,54 +74,54 @@ type = "event"
   </ol>
 </div>
 
-<div class="span-2">12:00-13:00</div><div class="span-4 append-bottom last">Lunch (catered)</div>
+<div class="span-2">12:00-13:00</div><div class="span-8 append-bottom last">Lunch (catered)</div>
 
-<div class="span-2">13:00-14:15</div><div class="span-4 box last">Open Space Opening</div>
+<div class="span-2">13:00-14:15</div><div class="span-8 box last">Open Space Opening</div>
 
-<div class="span-2">14:15-15:15</div><div class="span-4 box last">Open Space #1</div>
+<div class="span-2">14:15-15:15</div><div class="span-8 box last">Open Space #1</div>
 
-<div class="span-2">15:15-16:15</div><div class="span-4 box last">Open Space #2</div>
+<div class="span-2">15:15-16:15</div><div class="span-8 box last">Open Space #2</div>
 
-<div class="span-2">16:15-17:15</div><div class="span-4 box last">Open Space #3</div>
+<div class="span-2">16:15-17:15</div><div class="span-8 box last">Open Space #3</div>
 
-<div class="span-2">17:15-17:45</div><div class="span-4 box last"><strong></strong>Close Day & Logistics</div>
+<div class="span-2">17:15-17:45</div><div class="span-8 box last"><strong></strong>Close Day & Logistics</div>
 
-<div class="span-2">18:00-late</div><div class="span-4 box last"><strong>Evening Event</strong><br /></div>
+<div class="span-2">18:00-late</div><div class="span-8 box last"><strong>Evening Event</strong><br /></div>
 
 
 </div>
 
 
-<div class="span-7 append-bottom border">
+<div class="span-11 append-bottom border">
 
-<div class="span-7 last">
+<div class="span-11 last">
 <h4>Day 2</h4>
 </div>
 
-<div class="span-2">08:00-09:00</div><div class="span-4 box last"> Registration, Breakfast, and Sponsor Booths Open</div>
-<div class="span-2">09:00-9:15</div><div class="span-4 box last"><strong></strong>Opening Welcome</div>
-<div class="span-2">09:15-09:45</div><div class="span-4 box last">
+<div class="span-2">08:00-09:00</div><div class="span-8 box last"> Registration, Breakfast, and Sponsor Booths Open</div>
+<div class="span-2">09:00-9:15</div><div class="span-8 box last"><strong></strong>Opening Welcome</div>
+<div class="span-2">09:15-09:45</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Scaling_out_Continuous_Delivery/"><strong>Scaling out Continuous Delivery</strong></a>
   <br />
   John Arthorne
   <br />
   Production Engineering, Shopify
 </div>
-<div class="span-2">09:45-10:15</div><div class="span-4 box last">
+<div class="span-2">09:45-10:15</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/The_Cognitive_Neuroscience_of_Empathy_Youre_a_DevOps_Natural/"><strong>The Cognitive Neuroscience of Empathy: You’re a DevOps Natural</strong></a>
   <br />
   Dave Mangot, <a href='https://twitter.com/@davemangot'>@davemangot</a>
   <br />
   Director of Operations, Papertrail and Librato
 </div>
-<div class="span-2">10:15-10:20</div><div class="span-4 box last">
+<div class="span-2">10:15-10:20</div><div class="span-8 box last">
   Message from Gold Sponsors
 </div>
-<div class="span-2">10:20-10:30</div><div class="span-4 box last">
+<div class="span-2">10:20-10:30</div><div class="span-8 box last">
   Break
 </div>
 
-<div class="span-2">10:30-11:00</div><div class="span-4 box last">
+<div class="span-2">10:30-11:00</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/System_Testing_with_pytest_and_docker_py/"><strong>System Testing with pytest and docker-py</strong></a>
   <br />
   Christie Wilson, <a href='https://twitter.com/@bobcatwilson'>@bobcatwilson</a>
@@ -133,7 +133,7 @@ type = "event"
   Software Engineer at Demonware
 </div>
 
-<div class="span-2">11:00-11:30</div><div class="span-4 box last">
+<div class="span-2">11:00-11:30</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Improved_Resilience_by_Testing_in_Production/"><strong>Improved Resilience by Testing in Production</strong></a>
   <br />
   Kenneth Rose, <a href='https://twitter.com/@klprose'>@klprose</a>
@@ -141,7 +141,7 @@ type = "event"
   Principal Engineer, PagerDuty
 </div>
 
-<div class="span-2">11:30-12:00</div><div class="span-4 box last"><strong>Ignites</strong> <br /> <br />
+<div class="span-2">11:30-12:00</div><div class="span-8 box last"><strong>Ignites</strong> <br /> <br />
   <ol>
     <li><a href="/events/2016-vancouver/proposals/Leveling_Up_Deployment_Infrastructure/">Leveling Up Deployment Infrastructure</a> - Jan Ulrich<br />DevOps team manager and developer, Salesforce Pardot</li>
     <li><a href="/events/2016-vancouver/proposals/Infrastructure_drift_detection_using_Terraform/">Infrastructure drift detection using Terraform</a> - Payam Moghaddam, <a href='https://twitter.com/@payammoghaddam'>@payammoghaddam</a><br />Infrastructure Engineer, ACL</li>
@@ -154,9 +154,9 @@ type = "event"
 
 </div>
 
-<div class="span-2">12:00-13:00</div><div class="span-4 append-bottom last">Lunch (catered)</div>
+<div class="span-2">12:00-13:00</div><div class="span-8 append-bottom last">Lunch (catered)</div>
 
-<div class="span-2">13:00-13:30</div><div class="span-4 box last">
+<div class="span-2">13:00-13:30</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Making_Single_Page_Applications_SPA_faster/"><strong>Making Single Page Applications (SPA) faster</strong></a>
   <br />
   Boris Livshutz
@@ -168,7 +168,7 @@ type = "event"
   Enterprise Architect, Advanced Solutions and Services, Akamai Technologies
 </div>
 
-<div class="span-2">13:30-14:00</div><div class="span-4 box last">
+<div class="span-2">13:30-14:00</div><div class="span-8 box last">
   <a style="text-decoration:none;" href="/events/2016-vancouver/proposals/Utilizing_DevOps_for_effective_IoT_and_User_Telemetry_correlation-based_Data_Analytics/"><strong>Utilizing DevOps for effective IoT and User Telemetry correlation-based Data Analytics</strong></a>
   <br />
   Hubert Duan
@@ -180,13 +180,13 @@ type = "event"
   Boeing Canada Ltd – AeroInfo Systems
 </div>
 
-<div class="span-2">14:00-15:15</div><div class="span-4 box last">Open Space Opening</div>
+<div class="span-2">14:00-15:15</div><div class="span-8 box last">Open Space Opening</div>
 
-<div class="span-2">15:15-16:15</div><div class="span-4 box last">Open Space #4</div>
+<div class="span-2">15:15-16:15</div><div class="span-8 box last">Open Space #4</div>
 
-<div class="span-2">16:15-17:15</div><div class="span-4 box last">Open Space #5</div>
+<div class="span-2">16:15-17:15</div><div class="span-8 box last">Open Space #5</div>
 
-<div class="span-2">17:15-17:45</div><div class="span-4 box last"><strong></strong>Close Day & Farewell</div>
+<div class="span-2">17:15-17:45</div><div class="span-8 box last"><strong></strong>Close Day & Farewell</div>
 
 
 
