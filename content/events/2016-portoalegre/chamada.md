@@ -1,6 +1,6 @@
 +++
 date = "2016-05-09T10:06:26-03:00"
-title = "c4p"
+title = "chamada"
 type = "event"
 +++
   {{< cfp_dates >}}
@@ -19,17 +19,13 @@ Nosso critério para escolha de propostas são:
 - _novos palestrantes_: Pessoas novas e que tem coisas interessante a dizer; Nós precisamos ouvir todos
 - _sem vendas_: Nós valorizamos fornecedores e patrocinadores, nos apenas não achamos que é o melhor local para isso. Você pode demonstrar em sua mesa.
 
-<strong>Como submeter uma proposta:</strong> Envie um email para [{{< email_proposals >}}] com as seguintes informações:
-<ol>
-	<li>Título da proposta (pode ser modificada posteriormente)</li>
-	<li>Tipo (palestra, painel, debate, etc)</li>
-	<li>Descrição</li>
-</ol>
 <strong>Regras:</strong>
 <ul>
 	<li>Seja específico... nós não somos leitores de mente ( uma descrição com ao menos 20 linhas é algo desejável)</li>
 	<li>Detalhes são bons... explique porque sua palestra é interessante</li>
 	<li>Proponha sua própria palestra</li>
-	<li>Indicações são bem vindas... Se você conhece alguém com conteúdo/relevância em DevOps, por favor nos indique e nos mesmos poderemos entrar em contato com essa pessoa!</li>
+	<li>Indicações são bem vindas... Se você conhece alguém com conteúdo/relevância em DevOps, por favor nos indique através do email {{< email_organizers >}}</li>
 	<li>Múltiplas propostas são bem vindas... apenas sigas todas as outras regras</li>
 </ul>
+
+<iframe src="https://docs.google.com/forms/d/1YpszxP3MuTIO61oxDd3a4TySymPTK4kCEGiStGtQVTY/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
