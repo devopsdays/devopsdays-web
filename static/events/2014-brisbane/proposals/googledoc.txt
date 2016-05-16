@@ -1,0 +1,98 @@
+"votes","type","url","author","title","description","voter1"
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/why_youre_destroying_devops/","Michael Ducy","Why You're Destroying DevOps","Abstract:
+
+It's been five years since the first DevOpsDays in the sleepy little Belgian town of Gent. DevOps is now all the rage and everyone is talking about DevOps, doing DevOps, selling DevOps, or ''thought leading'' DevOps. But the success of DevOps is also it's downfall. The practitioners often like to blame the marketers and opportunists for the downfall.
+
+Analysts blame the ''trough of disillusionment''. But the reality of the situation is that YOU are to blame. Marketers, Opportunists, Practitioners, Recruiters, Analysts, Enterprise IT, StartUps, Devs, Ops, and DevOps all have will a role in the downfall of the movement if we don't change the way we act, transform, inform, and inspire others to change.
+
+This talk will focus on the current problems in DevOps, and provide attendees with solutions to take out into the DevOps and IT community to improve DevOps as it scales across the greater IT community.
+
+Speaker:
+
+Michael Ducy (@mfdii) currently works as an Solutions Architect for Chef focused on designing and implementing automation solutions for customer's Cloud, IT Automation, and Continuous Delivery needs. Michael has worked in a variety of roles in his career including Systems Engineering , Performance Engineering, and IT Instructor. After DevOpsDays Amsterdam 2013 Michael is also known as the GoatFather.
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/transforming_thoughtworks_internal_systems/","Sam Newman","Transforming ThoughtWorks' Internal Systems","Abstract:
+
+I recently took over as the architect for ThoughtWorks' internal systems. During the last year or so we have been undergoing multiple shifts in what - and how - we work. Out goes monolithic applications, in comes Microservices. Out goes teams oriented around a single IT system, in come product teams. Throw in four data centres, as many cloud providers, 40+ COTS products and 5 delivery teams spread globally and we have an interesting story to share!
+
+This talk will discuss the transition we have been making, and our use of technology like Spacewalk, Ansible, Packer and Docker. I will also talk about how to deal with SFDC, what we mean by a 'product' team, what that means for support and ownership of legacy systems.
+
+Speaker:
+
+I'm a technical consultant at ThoughtWorks, where amongst other things I look after our internal systems. I've spent the last ten years or so with a foot in both the development and operations worlds, and find interesting things occur when these two worlds survive. I am also currently writing a book, Building Microservices, for O'Reilly.
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/managing_security_updates_under_the_devops_model/","David Jorm","Managing security updates under the DevOps model","Abstract:
+
+The DevOps model empowers developers to bundle all the dependencies with their application, and deploy this complete package to infrastructure they control. While this enables many capabilities, it also shifts the responsibility for managing security updates from the system administrator to the developer.
+
+This talk will examine this problem in detail, using Java projects built using maven as an example. It will also cover potential solutions, including the victi.ms project and properly-layered docker images.
+
+Speaker:
+
+I am the manager of product security for Red Hat's cloud and middleware products. I have been a Linux nerd, paranoid security guy, and developer for 15 years. My recreational obsessions include gaming frequent flyer schemes and open source intelligence on North Korea.
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/keynote/","Sidney Dekker","Keynote: System Failure, Human Error: Who's to Blame?","Keynote
+
+We are delighted to have world-renowned speaker and author, Sidney Dekker, present this year's keynote address focusing on the history of our understanding of system failures and the assumed role of human error.
+
+Speaker:
+
+Sidney Dekker (PhD Ohio State University, USA, 1996) is professor at Griffith University in Brisbane, Australia, where he runs the Safety Science Innovation Lab. He is also Professor (Hon.) of psychology at The University of Queensland, and Professor (Hon.) of human factors and patient safety at Royal Children's Hospital in Brisbane. Previously, he was Professor of human factors and system safety at Lund University in Sweden. After becoming professor, he learned to fly the Boeing 737, working part-time as an airline pilot out of Copenhagen. He has won worldwide acclaim for his groundbreaking work in human factors and safety, and is best-selling author of, most recently, Second Victim (2013), Just Culture (2012), Drift into Failure (2011), and Patient Safety (2011). His latest book is Safety Differently (2014). More at sidneydekker.com
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/getting_devs_to_own_their_ops/","Karl Chu and Fabian Iannarella","Getting Devs to Own Their Ops","Abstract:
+
+Fabian Iannarella and Karl Chu will give an overview about the self-serve infrastructure system that the team at IOOF is building to enable, encourage, and enforce development teams to own the ops of their application. They will describe where IOOF was a year ago, the challenges the team was facing, how some of those challenges were addressed, and the current state of the solution. Fabian and Karl will also delve slightly into IOOF's implementation of role-based Puppet deployment that transfers complete ownership of the infrastructure code to the development team.
+
+Speaker:
+
+Fabian Iannarella is an I.T. infrastructure specialist at IOOF. His expertise lies in UNIX/LINUX, firewalls, and web technologies. He is currently leading a team focused on system automation and developing a devops culture, with the vision that development teams will be able to self-service their own infrastructure environments. Outside of I.T., Fabian has a background in electronics and audio engineering.
+
+Karl Chu is a software development and continuous delivery consultant at ThoughtWorks Australia. He has diverse experiences spanning across different technologies and industries; from .NET to ruby, healthcare to telecommunication. Prior to becoming a software professional, Karl was a professional mechanical engineer.
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/devops_at_wotif_making_easy_equals_right/","Alexandra Spillane & Matt Callanan","DevOps @ Wotif: Making Easy = Right","Abstract:
+
+We know the &ldquo;right thing&rdquo; to do is to work together, to remove bottlenecks, to automate, automate, automate. But when the status quo is finger-pointing, mistrust, blame, and over-exhaustion from increasingly complex manual releases, it seems impossible to find a way to climb out of the downward spiral. How did an IT department turn this around to become a harmonious department with common goals and over 10x faster cycle times?
+
+Winning the hearts and minds needed for lasting DevOps change requires something more than just great automation. This is the story of how local Brisbane success story, Wotif Group, found a way to incentivise a DevOps transformation across an entire IT department, resulting in cycle times measured in hours instead of weeks/months.  While this journey involved tools such as Puppet, Hiera, Fabric &amp; ZooKeeper, Matt (dev) and Alexandra (ops) extract principles that they hope can be applied to any organisation at grassroots and leadership levels using existing toolchains to support not only the best ideas of the present but also the legacy of the past and the unknown innovation of the future.
+
+Speaker:
+
+Alexandra Spillane is a systems administrator with more than ten years experience administering Linux and Unix systems. She has been a member of Wotif Group's Continuous Delivery team since its inception in 2013. She loves using tools like Puppet to solve thorny problems in creative ways and will be speaking at PuppetConf 2014.
+
+Matt Callanan is a senior software developer in the Continuous Delivery team at Wotif Group. He has over 14 years development experience including DevOps implementation and agile mentoring in small teams and large enterprises. He is most passionate about helping companies realise their potential through automation and reducing feedback cycles to quickly deliver value to customers.  Matt has spoken internationally on DevOps, is a well-received presenter to IT departments and executive teams, and co-organises the DevOps Brisbane Meetup.
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/designing_and_developing_software_for_operations/","Will Thames","Designing and Developing software for Operations","Abstract:
+
+Making software operable is hard. I would like to discuss a variety of patterns that make operating software easier, and anti-patterns that make it harder, covering the topics of monitorability, resiliency and recoverability along with configuration, deployment and orchestration.
+
+Whether the software comes from a third party or from your friendly developers across the desk, there's almost always something that can be improved!
+
+As this is a biggish topic, I plan to cover the main areas along with an example of patterns and anti-patterns for each, before referencing further reading on this subject (Release It, Web Operations, etc)
+
+Speaker:
+
+I have been doing software releases to production for over ten years, and have learned a lot of the lessons about operability from the sharp end. One memorable weekend involving 30+ hours handling an outage led to some twenty-odd recommendations for improving operability.
+",""
+"","talk","http://devopsdays.org/events/2014-brisbane/proposals/acquisition_ownership_and_migration_of_legacy_applications/","Mujtaba Hussain","Acquisition, ownership and migration of legacy applications a.k.a. OH MY GOD IS THIS PHP ? a.k.a. WHY OH WHY OH WHY! a.k.a. I told you PHP would not die without holy water.","Abstract:
+
+Recently realestate.com.au acquired a business called 1Form, a website enabling the streamlined management of applications for rental properties online. Since its creation in 2006 and alliance with realestate.com.au in 2011, 1Form has enabled renters all over Australia to apply for housing in a secure and hassle free manner.
+
+In this talk I will outline how my team went about migrating the application from its previous hosted infrastructure to realestate.com.au&rsquo;s AWS infrastructure within 3 months and all the challenges that came with it; like:
+
+Assessment of the internals of the application
+Security analysis
+Infrastructure planning
+QA and Deployment pipelining
+Unforeseen obstacles e.g. DAMN YOU HEARTBLEED
+Domain knowledge transfer
+Monitoring and Alerting infrastructure planning
+AND MORE &hellip;
+
+And things we did well, things we did not do well. All this in the hopes of providing a real world example of how all the good things about a shared mindset between people operational and software engineers with a common goal makes at times very challenging projects smooth, fun and worthwhile.
+
+Speaker:
+
+I am software engineer for realestate.com.au (Australia's number #1 online portal for finding properties) and have been involved in projects across all spectrums; from web development in Java and Rails and Perl to writing Obj-C code for realestate.com.au iOS apps to writing C for fun.
+
+I am an enthusiastic cricketer, rock climbing and gardener and in my spare team learn organic chemistry from my wife.
+",""

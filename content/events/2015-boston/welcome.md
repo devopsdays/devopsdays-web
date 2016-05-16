@@ -6,47 +6,41 @@ aliases = ["/events/2015-boston"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<center>
+  <table><tr><td>
+        <center>
+        <img border=0 src="/events/2015-boston/boston.jpg">
+<br><br>
 
-DevOps Days is coming to {{< event_location >}}!
+<a href="./location">Microsoft NERD Center</a><br/>
+1 Memorial Dr #1<br/>
+Cambridge, MA 02142
+<br><br>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<!--<a href="./registration">Registration is open!</a>
+<br><br>-->
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <!-- <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdays >}} 
-    </td>
-  </tr>
+<!--<a href="./sponsor">Sponsor the event</a>! It's a great way to promote your organization.
+<br><br>-->
+
+<a href="/events/2015-boston/program">View our speakers</a><br><br>
+
+Email the organizers - {{< email_organizers >}}
+<br><br>
+
+</td><td valign=top>
+<p>On <strong>Tuesday, September 15th and Wednesday, September 16th</strong>, DevOpsDays is returning to Boston!</p>
+
+<p>The event's schedule will consist of a mixture of traditional sessions, ignite talks,
+and the unique "open space" format that DevOpsDays is known for. We've reserved the first floor of the <a href="/events/2015-boston/location">Microsoft NERD Center</a>
+ and expect to fill it to capacity.</p>
+
+<p><em>NOTE: Microsoft has been extremely generous in providing us access to their private space to
+host this event. To repay their generosity, we ask that you pay attention to their guidelines.
+Most importantly, <strong>you must present identification to sign into the building!</strong> If you don't bring
+identification on the day of the event, you will not be permitted to attend.</em></p>
+</td>
+</tr>
 </table>
+</center>
+<hr>
