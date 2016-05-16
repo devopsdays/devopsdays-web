@@ -7,7 +7,7 @@ type = "event"
 
 O evento acontecerá na UniRitter, que fica na Rua Orfanotrófio, 515 - Alto Teresópolis, Porto Alegre.
 
-<a href="http://www.uniritter.edu.br/nossos-campi"><img src="/events/2016-portoalegre/uniritter.jpg"/></a>
+<a href="http://www.uniritter.edu.br/nossos-campi"><img src="/events/2016-portoalegre/uniritter.jpg" width="80%"/></a>
 
 Auditório do Prédio C (subsolo), próximo a entrada do prédio C.
 
