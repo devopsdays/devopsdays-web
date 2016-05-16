@@ -2,9 +2,9 @@
 City = "Amsterdam"
 Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
-title = "Warner More"
+title = "Warner Moore"
 type = "talk"
-aliases = ["/events/2016-amsterdam/program/warnermore/"]
+aliases = ["/events/2016-amsterdam/program/warnermoore/"]
 
 +++
 
