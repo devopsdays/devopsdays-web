@@ -12,7 +12,7 @@ aliases = ["/events/2016-kiel"]
 
 <h1>DevOpsDays is coming to Kiel!</h1>
 
-## {{< event_start >}} - {{< event_end >}}
+## Thursday, May 12, 2016 - Friday, May 13, 2016
 
 
 
