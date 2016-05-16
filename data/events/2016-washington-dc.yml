@@ -15,9 +15,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: welcome
   - name: register
     url: https://devopsdaysdc2016.busyconf.com/bookings/new
-  - name: propose
-    url: https://devopsdaysdc2016.busyconf.com/proposals/new
-#  - name: program
+  # - name: propose
+  #   url: https://devopsdaysdc2016.busyconf.com/proposals/new
+  - name: program
+    url: http://devopsdaysdc2016.busyconf.com/schedule
   - name: location
   - name: sponsor
   - name: contact
