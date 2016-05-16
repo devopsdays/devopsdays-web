@@ -167,7 +167,7 @@ tags = ["amsterdam","amsterdam-2016"]
 </div>
 
 <div class="span-3 box-green">11:30-12:00</div><div class="span-10 box-green last">
-<a href="/events/2016-amsterdam/program/harim-weites">Harim Weites (Wehkamp) <br /> One engineer, four environments, no termination protection.</a>
+<a href="/events/2016-amsterdam/program/harm-weites">Harim Weites (Wehkamp) <br /> One engineer, four environments, no termination protection.</a>
     <br />
 </div>
 
