@@ -1,6 +1,6 @@
 name: 2016-washington-dc # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
-city: "Washington, D.C. " # The city name of the event. Capitalize it.
+city: "Washington, DC" # The city name of the event. Capitalize it.
 friendly: "2016-washington-dc" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current".
 startdate: 2016-06-08 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
@@ -9,11 +9,66 @@ cfp_date_start: 2016-04-01
 cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
 coordinates: "38.8011545,-77.0659376" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "location" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["John Doe", "Jane Smith", "Sally Fields"]
-organizer_email: "organizers-washington-dc-year@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-washington-dc-year@devopsdays.org" # Put your proposal email address here
+location: "US Patent and Trademark Office" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: register
+    url: https://devopsdaysdc2016.busyconf.com/bookings/new
+  - name: propose
+    url: https://devopsdaysdc2016.busyconf.com/proposals/new
+#  - name: program
+  - name: location
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Nathen Harvey"
+    twitter: "nathenharvey"
+    employer: "Chef"
+  - name: "Alan Kraft"
+    employer: "United States Patent and Trademark Office (USPTO)"
+  - name: "Michael Barbine"
+    twitter: "BigNerdLoLz"
+    employer: "Excella Consulting"
+  - name: "Laura Barton"
+    twitter: "laurabartondev"
+    employer: "Excella Consulting"
+  - name: "Mark Cornick"
+    twitter: "markcornick"
+    employer: "Learning Objects"
+  - name: "Mike DelNegro"
+    twitter: "radiocats"
+    employer: "FireEye"
+  - name: "Greg Elin"
+    twitter: "gregelin"
+    employer: "GovReady"
+  - name: "Jeff Gallimore"
+    twitter: "jgallimore"
+    employer: "Excella Consulting"
+  - name: "James Martin"
+    twitter: "grepless"
+    employer: "RedHat"
+  - name: "Ramez Mourad"
+    twitter: "ramezjm"
+    employer: "Cvent"
+  - name: "Jason Simpson"
+    twitter: "jfsimpson1"
+    employer: "Netuitive"
+  - name: "Robert Treat"
+    twitter: "robtreat2"
+    employer: "OmniTI"
+  - name: "Jake Vanderdray"
+    twitter: "clumpidy"
+    employer: "CustomInk"
+
+
+organizer_email: "organizers-washington-dc-2016@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-washington-dc-2016@devopsdays.org" # Put your proposal email address here
+sponsors_accepted: "no"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: uspto
     level: platinum_and_venue
@@ -21,9 +76,68 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: cloudpassage
     level: platinum
+  - id: netuitive
+    level: platinum
+  - id: capitalone
+    level: platinum
+  - id: eglobaltech
+    level: platinum
+  - id: excella
+    level: platinum
+  - id: solarwinds
+    level: platinum
+  - id: csra
+    level: platinum
+  - id: docker
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: thoughtworks-products
+    level: platinum
+  - id: pagerduty
+    level: platinum
+  - id: github
+    level: platinum
+  - id: customink
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: ansible
+    level: platinum
+  - id: infozen
+    level: platinum
+  - id: dlt
+    level: platinum
+  - id: omniti
+    level: platinum
+  - id: comcast
+    level: gold
+  - id: karsun
+    level: gold
+  - id: harmonia
+    level: gold
+  - id: evident
+    level: gold
+  - id: sonatype
+    level: silver
+  - id: halvik
+    level: silver
+  - id: jhc
+    level: silver
+  - id: stsi
+    level: silver
+  - id: phishme
+    level: silver
+  - id: victorops
+    level: gold
+
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum_and_venue
     label: Platinum & Venue
   - id: platinum
     label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver

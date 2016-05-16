@@ -6,7 +6,7 @@ title = "location"
 type = "event"
 
 +++
-The conference will take place Wednesday July 20 and Thursday July 21, 2016 at the <a href="http://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-MSPMHHH/index.html">downtown Minneapolis Hilton</a>. We will have a discounted rate for those who'd like to stay at the Hilton.
+The conference will take place Wednesday July 20 and Thursday July 21, 2016 at the <a href="http://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-MSPMHHH/index.html">downtown Minneapolis Hilton</a>. The Hilton has very few hotel rooms available, but there are many other hotels nearby.
 <p>
 Last year, we worked with the hotel to make space available for nursing mothers, and if that would be useful for you, please let us know. We'd also be happy to accommodate any other accessibility needs. You can reach out <a href="http://www.devopsmsp.org/slack/">on devops MSP Slack</a> or via <a href="mailto:organizers-minneapolis-2016@devopsdays.org">email</a>.
 <p>
