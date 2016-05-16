@@ -1,0 +1,221 @@
++++
+date = "2016-01-01T01:01:01-06:00"
+title = "welcome"
+type = "event"
+aliases = ["/events/2015-newyork"]
+
++++
+
+OLD
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<title>New York 2015
+ - welcome</title>
+<meta name="author" content="" >
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="devopsdays RSS Feed" href="http://www.devopsdays.org/feed/" >
+
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('jquery', '1.3.2');
+</script>
+
+<!---This is a combined jAmpersand, jqwindont , jPullquote -->
+<script type="text/javascript" src="/js/devops.js"></script>
+
+<!--- Blueprint CSS Framework Screen + Fancytype-Screen + jedi.css -->
+<link rel="stylesheet" href="/css/devops.min.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+</head>
+
+
+<body onload="initialize()">
+
+<div class="container ">
+<div class="span-24 last" id="header">
+
+ <div class="span-16 first">
+	<img src="/images/devopsdays-banner.png" title="devopsdays banner" width="801" height="115" alt="devopdays banner" ><br>
+ </div>
+ <div class="span-8 last">
+ </div>
+</div>
+
+<div class="span-24 last">
+<div class="span-15 first">
+<div id="headermenu">
+<table >
+  <tr>
+    <td>
+      <a href="/"><img alt="home" title="home" src="/images/home.png"></a>
+      <a href="/">Home</a>
+    </td>
+    <td>
+      <a href="/contact/"><img alt="contact" title="contact" src="/images/contact.png"></a>
+      <a href="/contact/">Contact</a>
+    </td>
+    <td>
+      <a href="/events/"><img alt="events" title="events" src="/images/events.png"></a>
+      <a href="/events/">Events</a>
+    </td>
+    <td>
+      <a href="/presentations/"><img alt="presentations" title="presentations" src="/images/presentations.png"></a>
+      <a href="/presentations/">Presentations</a>
+    </td>
+    <td>
+      <a href="/blog/"><img alt="blog" title="blog" src="/images/blog.png"></a>
+      <a href="/blog/">Blog</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div>
+<div class="span-8 last">
+</div>
+
+<div class="span-24 last" id="title">
+<div class="span-15 first">
+<h1>New York 2015
+ - welcome </h1>
+</div>
+
+<div class="span-8 last">
+</div>
+
+  
+<h1>Gold sponsors</h1>
+  
+
+</div>
+
+
+<div class="span-15  ">
+  <div class="span-15  last ">
+  <div class="submenu">
+<h3>
+<a href="/events/2015-newyork/">welcome</a>&nbsp;
+<a href="/events/2015-newyork/program">program</a>&nbsp;
+<a href="/events/2015-newyork/location">location</a>&nbsp; 
+<a href="https://ti.to/devopsdaysnyc/devopsdays-nyc-2015/" target="_blank">register</a>&nbsp;
+<a href="/events/2015-newyork/sponsor">sponsor</a>&nbsp;
+<a href="/events/2015-newyork/contact">contact</a>&nbsp;
+<a href="/events/2015-newyork/code-of-conduct">code of conduct</a>&nbsp;
+</h3>
+</div>
+
+
+  <center>
+<img src='workers.png'>
+<h4>We're in this together</h4>
+      <p><b>Thursday, April 30 - Friday, May 1, 2015</b><br/>NYC</p>
+      <hr>
+      <p>You can <a href="sponsor">become a sponsor.</a></p>
+</center>
+
+
+
+
+<!--
+<center>This event will be livestreamed thanks to <a href="http://twitter.com/livestream">@livestream</a> - <a href="https://new.livestream.com/devopsdaysorg/nyc2013">Watch it live</a></center>
+-->
+
+
+  </div>
+  
+</div>
+
+<div class="span-8 last">
+  <div class="span-8 last">
+
+
+
+
+
+
+
+
+
+<br><br>
+<h1>Sponsors</h1>
+
+
+<a href='http://www.microsoft.com/'><img border=0 alt='Microsoft' title='Microsoft' width=100px height=100px src='/events/2015-newyork/logos/microsoft.png'></a>
+
+<a href='http://www.nextbigsound.com/'><img border=0 alt='Next Big Sound' title='Next Big Sound' width=100px height=100px src='/events/2015-newyork/logos/nextbigsound.png'></a>
+
+<a href='http://www.2u.com/'><img border=0 alt='2U' title='2U' width=100px height=100px src='/events/2015-newyork/logos/2u.png'></a>
+
+<a href='http://www.intentmedia.com/'><img border=0 alt='Intent Media' title='Intent Media' width=100px height=100px src='/events/2015-newyork/logos/intentmedia.png'></a>
+
+<a href='http://www.apprenda.com/'><img border=0 alt='Apprenda' title='Apprenda' width=100px height=100px src='/events/2015-newyork/logos/apprenda.png'></a>
+
+<a href='http://www.etsy.com/'><img border=0 alt='Etsy' title='Etsy' width=100px height=100px src='/events/2015-newyork/logos/etsy.png'></a>
+
+<a href='http://www.digitalocean.com/'><img border=0 alt='DigitalOcean' title='DigitalOcean' width=100px height=100px src='/events/2015-newyork/logos/digitalocean.png'></a>
+
+<a href='http://www.amplify.com/'><img border=0 alt='Amplify' title='Amplify' width=100px height=100px src='/events/2015-newyork/logos/amplify.png'></a>
+
+<a href='http://www.victorops.com/'><img border=0 alt='VictorOps' title='VictorOps' width=100px height=100px src='/events/2015-newyork/logos/victorops.png'></a>
+
+<a href='http://www.datadoghq.com/'><img border=0 alt='Datadog' title='Datadog' width=100px height=100px src='/events/2015-newyork/logos/datadog.png'></a>
+
+<a href='http://www.rancher.com/'><img border=0 alt='Rancher' title='Rancher' width=100px height=100px src='/events/2015-newyork/logos/rancher.png'></a>
+
+<a href='http://www.ibm.com/devops'><img border=0 alt='IBM' title='IBM' width=100px height=100px src='/events/2015-newyork/logos/ibm.png'></a>
+
+<a href='http://www.conjur.net/'><img border=0 alt='Conjur' title='Conjur' width=100px height=100px src='/events/2015-newyork/logos/conjur.png'></a>
+
+<a href='http://www.bmc.com/'><img border=0 alt='BMC' title='BMC' width=100px height=100px src='/events/2015-newyork/logos/bmc.png'></a>
+
+
+
+
+
+
+</div>
+  <div class="span-8 last">
+  </div>
+
+
+</div>
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9713393-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
