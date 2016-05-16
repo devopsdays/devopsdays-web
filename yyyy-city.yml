@@ -5,12 +5,12 @@ friendly: "yyyy-city" # Four digit year and the city name in lower-case. Don't f
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-01-01  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-01-01  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-01-01 # start accepting talk proposals.
-cfp_date_end: 2016-01-01 # close your call for proposals.
-cfp_date_announce: 2016-01-01 # inform proposers of status
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
 
 # Location
 #
@@ -47,6 +47,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
