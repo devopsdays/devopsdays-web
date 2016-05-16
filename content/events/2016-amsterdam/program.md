@@ -106,11 +106,16 @@ tags = ["amsterdam","amsterdam-2016"]
   Open Space Opening
 </div>
 
-<div class="span-3 box-green">14:30-15:00</div><div class="span-10 box-green last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1</div>
+<div class="span-3 box-green">14:30-15:00</div>
+<div class="span-5 box-green "><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1</div>
+<div class="span-5 box-green last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/melanie-rieback">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a></div>
 
 <div class="span-3 box-blue">15:00-15:15</div><div class="span-10 box-blue last"><strong>Break</strong> <br /> </div>
 
-<div class="span-3 box-green">15:15-15:45</div><div class="span-10 box-green last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2</div>
+<div class="span-3 box-green">15:15-15:45</div>
+<div class="span-5 box-green"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2</div>
+<div class="span-5 box-green last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/guy-podjarny">Guy Podjarny (Snyk)<br />Writing Secure Node Code</a></div>
+
 
 <div class="span-3 box-blue">15:45-16:15</div><div class="span-10 box-blue last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #3</div>
 
