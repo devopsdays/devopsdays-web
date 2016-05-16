@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:17:14-06:00"
 title = "Sponsor Information"
 type = "event"
-
+tags = ["amsterdam","amsterdam-2016"]
 +++
 
 <style type="text/css">
@@ -82,11 +82,11 @@ Here is a quick overview of the options for this year:
 <table class="tg">
   <tr>
     <th class="tg-yw4l"></th>
-    <th class="tg-4bw1">Bronze<br>(6 slots)</th>
-    <th class="tg-4bw1">Silver<br>(4 slots)</th>
-    <th class="tg-4bw1">Gold<br>(8 slots)</th>
-    <th class="tg-4bw1">Beer<br>(1 slot)</th>
-    <th class="tg-4bw1">BBQ<br>(1 slot)</th>
+    <th class="tg-4bw1">Bronze<br></th>
+    <th class="tg-4bw1"><s>Silver</s><br><b>SOLD OUT</b></th>
+    <th class="tg-4bw1"><s>Gold</s><br><b>SOLD OUT</b></th>
+    <th class="tg-4bw1"><s>Beer</s><br><b>SOLD OUT</b></th>
+    <th class="tg-4bw1"><s>BBQ</s><br><b>SOLD OUT</b></th>
   </tr>
   <tr>
     <td class="tg-yw4l"></td>
