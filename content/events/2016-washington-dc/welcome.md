@@ -18,20 +18,17 @@ aliases = ["/events/2016-washington-dc"]
 DevOpsDays DC will be held **June 8 and 9, 2016** at the [US Patent and Trademark
 Office](location) in Alexandria, Virginia.
 
-## Call for Presenters (CFP)
-
-You have a great story and we want to hear from you!  [Submit a proposal for a
-presentation in our CFP](https://devopsdaysdc2016.busyconf.com/proposals/new).
-Proposals from speakers who work within 100 miles of Washington, DC will be
-given a higher priority.  <strong>[CFP](https://devopsdaysdc2016.busyconf.com/proposals/new)
-closes Monday, April 18, 2016.</strong>
-
 ## Registration and ticket sales
 
 [Tickets are on sale now](https://devopsdaysdc2016.busyconf.com/bookings/new)
 for both Government and private sector employees ($100 each).  Please [register
 early](https://devopsdaysdc2016.busyconf.com/bookings/new) as this event will
 sell out.
+
+## Schedule
+
+The keynote and ignite sessions have been announced and are now [available on
+the schedule](http://devopsdaysdc2016.busyconf.com/schedule).
 
 ## Hotel
 
@@ -42,11 +39,6 @@ Reserve your room at the [Westin Alexandria](https://www.starwoodmeeting.com/eve
 ## Sponsorship
 
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships to happen.  We have {{< event_link page="sponsor" text="three different sponsorship levels available" >}}.
-
-## Schedule
-
-The organizing committee is working on arranging the schedule.  At a high-level, each day will consist of a mix of keynote presentations, ignite presentations, and open spaces.  There will be at least one evening activity for all participants scheduled for the evening of June 8.
-
 
 ## Why Attend?
 
