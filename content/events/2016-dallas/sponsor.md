@@ -12,8 +12,8 @@ type = "event"
 
 Why Sponsor Us?
 
-The DevOps Days event mandate is to bring the highest­quality speakers, experts and the curious together. 
-By sponsoring DevOps Days, you will be exposing your company’s brand and services to Dallas’s top talent 
+The DevOpsDays event mandate is to bring the highest­ quality speakers, experts and the curious together. 
+By sponsoring DevOpsDays, you will be exposing your company’s brand and services to Dallas’s top talent 
 in this rapidly growing space. (And feel great about it, too!)<br><br>
 We greatly value sponsors for this open event. If you are interested in sponsoring please reach out to us at: {{< email_organizers >}}.
 
@@ -52,6 +52,14 @@ Silver Sponsor:
 </td>
 </tr>
 </table>
+
+<br>
+<br>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_horizontal_follow_toolbox"></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5724f5b54cc142a1"></script>
+
 
 <hr>
 DevOpsDays is a self-organizing conference for DevOps enthusiasts and evangelists that depends on your sponsorship and participation to happen. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.

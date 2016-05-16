@@ -5,11 +5,11 @@ friendly: "2016-raleigh" # Four digit year and the city name in lower-case. Don'
 status: "current" # Options are "past" or "current".
 startdate: 2016-10-06 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-10-07 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-04-18
-cfp_date_end: 2016-05-31
-cfp_date_announce: 2016-04-18
+cfp_date_start: 2016-05-16
+cfp_date_end: 2016-06-19
+cfp_date_announce: 2016-07-11
 coordinates: "35.779590,-78.638179" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Raleigh, North Carolina" # The name of your location
+location: "McKimmon Conference & Training Center"
 nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
   - name: welcome
   - name: contact
@@ -32,5 +32,4 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
-  - id: community
-    label: Community Partner
+
