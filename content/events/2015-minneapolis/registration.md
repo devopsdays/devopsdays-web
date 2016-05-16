@@ -6,8 +6,6 @@ type = "event"
 
 +++
 
-<div style="width:100%; text-align:left;">
+<a href="http://www.devopsdays.org/events/2016-minneapolis/registration/">Go to devopsdays Minneapolis registration for 2016</a>.
 
-Embed registration iframe/link/etc.
-</div></div>
 </div>

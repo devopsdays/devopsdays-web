@@ -5,6 +5,14 @@ type = "event"
 
 +++
 
+Please read the anti-harassment policy and code of conduct following the important contact information:
+
+* Email address for organizers: organizers-minneapolis-2014@devopsdays.org
+* Local law enforcement: City of Minneapolis Police - call 911
+* Sexual assault hotlines: Sexual Violence Center (612) 871-5111; Rape and Sexual Abuse Center (612) 825-4357
+* Medical Emergency: Call 911
+* Local taxi companies: Viking Airport Taxi (952) 927-0000; Reli-a-Car Transportation (612) 333-6363
+
 ## ANTI-HARASSMENT POLICY
 
 DevOpsDays is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.

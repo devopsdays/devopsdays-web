@@ -8,8 +8,8 @@ type = "event"
 +++
 
 
-<strong><a href="#location">Conference Location</a> | 
-<a href="#hotels">Hotel Booking</a></strong>
+<strong><a href="/events/2016-kiel/location/#location">Conference Location</a> | 
+<a href="/events/2016-kiel/location/#hotels">Hotel Booking</a></strong>
 
 
 
