@@ -83,7 +83,7 @@ tags = ["amsterdam","amsterdam-2016"]
 </div>
 
 <div class="span-3 box-green">10:45-11:15</div><div class="span-10 box-green last">
-<a href="/events/2016-amsterdam/program/warner-more">Warner More (CoverMyMeds) <br /> DevOps has Always Been About Security</a>
+<a href="/events/2016-amsterdam/program/warner-moore">Warner Moore (CoverMyMeds) <br /> DevOps has Always Been About Security</a>
     <br />
 </div>
 
