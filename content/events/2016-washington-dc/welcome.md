@@ -15,9 +15,8 @@ aliases = ["/events/2016-washington-dc"]
 ### A house divided against itself cannot stand.
 
 **_Change is in session!_**
-DevOpsDays DC will be held **June 8 and 9, 2016** at the [US Patent and Trademark
-Office](location) in Alexandria, Virginia.
-
+DevOpsDays DC will be held **June 8 and 9, 2016** at the {{< event_link page="location"
+text="US Patent and Trademark Office" >}} in Alexandria, Virginia.
 
 ## Registration and ticket sales
 
