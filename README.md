@@ -14,7 +14,27 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 ### Setup
 1. Install [Hugo v0.15+](http://gohugo.io)
 1. Fork this repo
+
+### View site locally
 1. To watch for changes and rebuild on the fly, open a new terminal, cd to your fork of the repo, and enter this command: `hugo server -w --baseUrl="http://localhost:1313"`
+1. OS X has low ulimits, so you may see this message:
+```
+hugo server -w --baseUrl="http://localhost:1313"
+[...]
+Error: listen tcp 127.0.0.1:1313: socket: too many open files
+```
+
+You can correct it with this:
+```
+ $  hugo check ulimit
+ $  sudo sysctl -w kern.maxfiles=65536
+ $  sudo sysctl -w kern.maxfilesperproc=65536
+ $  ulimit -n 65536 65536
+```
+Then in a new window:
+```
+ $  hugo server -w --baseUrl="http://localhost:1313"
+```
 
 ### Contribute changes
 1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. tl;dr: don't add "giant template change" in the same PR as "here are some more sponsors". If it affects anything other than your event, it should be in its own PR.
@@ -22,7 +42,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 1. Before you commit any changes, create a new branch, i.e., `git checkout -b fix-that-thing`
 1. Make your changes, test them locally, then push that branch up to origin on your fork (`git push origin BRANCHNAME`)
 1. Submit a pull request from the branch you just pushed
-1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://devopsdays.github.io](http://devopsdays.github.io).
+1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
 ## Creating a new event
 

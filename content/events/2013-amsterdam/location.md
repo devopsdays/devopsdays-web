@@ -5,6 +5,9 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+### Conference Location
+<b><a href="http://www.dezwijger.nl/" target="_blank">Pakhuis de Zwijger</a></b>
 
-<!-- {{< event_map >}} -->
+Piet Heinkade 179 <br>
+1019 HC Amsterdam<br>
+<br>
