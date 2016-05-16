@@ -7,16 +7,41 @@ type = "event"
 
 +++
 
+
+
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<br>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-<br>
+<h2>Sponsorship Packages</h2>
+<h3>Platinum Sponsor ($5000)</h3>
+
+* 3 tickets included
+* Table Space
+* Logo on Website, Main Room Signage & Email Communications
+* 3 Minute Pitch to Full Audience on Day One
+
+<h3>Gold Sponsor ($3000)</h3>
+
+* 2 tickets included
+* Table Space
+* Logo on Website, Main Room Signage & Email Communications
+
+<h3>Silver Sponsor ($1000)</h3>
+
+* 2 tickets included
+* Logo on Website, Main Room Signage & Email Communications
+
+
+<h3>A la carte opportunities (also available without sponsorship purchase):</h3>
+
+* Cocktail hour  ‐ $5000
+* Logo on conference bag ‐ $2500
+* Lanyard sponsor ‐ $500
+* Bag inserts ‐ $250
+* Other opportunities available upon request
+
+
 <hr/>
 
 <!--
