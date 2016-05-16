@@ -8,7 +8,7 @@ aliases = ["/events/2016-bangalore"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is returning to {{< event_location >}}!
+DevOps Days is returning to Bangalore!
 
 <table>
   <tr>
