@@ -46,6 +46,7 @@ tags = ["amsterdam","amsterdam-2016"]
 .centerstyle {
   text-align:center;
 }
+
 </style>
 
 <hr>
@@ -100,11 +101,10 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-green">13:00-13:40</div>
 <div class="span-10 box-green last"><strong>Ignites</strong><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a>
+   <!-- <a href="/events/2016-amsterdam/program/jody-wolfborn">Jody Wolfborn (Chef) - You Don't Belong Here: Dealing with Imposter Syndrome</a><br /> -->
+   <a href="/events/2016-amsterdam/program/pavel-chunyayev">Pavel Chunyayev (Levi9) - The importance of ‘why’ for software operations.</a><br />
+   <a href="/events/2016-amsterdam/program/takahiko-ito">Takahiko Ito - Document Writing in CI Environment</a><br />
+   <a href="/events/2016-amsterdam/program/jason-yee">Jason Yee (Datadog) - Breaking Brooks' Law with DevOps.</a><br />
 </div>
 
 <div class="span-3 box-blue">13:40-14:30</div>
@@ -158,7 +158,8 @@ tags = ["amsterdam","amsterdam-2016"]
 </div>
 
 <div class="span-3 box-green">10:45-11:15</div><div class="span-10 box-green last">
-<a href="/events/2016-amsterdam/program/jeffrey-snover">Jeffrey Snover (Microsoft) <br /> Rearchitecting Windows Server for DevOps</a>
+<!-- <a href="/events/2016-amsterdam/program/jeffrey-snover">Jeffrey Snover (Microsoft) <br /> Rearchitecting Windows Server for DevOps</a> -->
+     <a href="/events/2016-amsterdam/program/to-be-determined">Speaker In Talks <br /> Under Construction</a>
     <br />
 </div>
 
@@ -175,11 +176,10 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-green">13:00-13:40</div>
 <div class="span-10 box-green last"><strong>Ignites</strong><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a><br />
-   <a href="/events/2016-amsterdam/program/ignite-speaker">Ignite Speaker (Company) - Topic</a>
+   <a href="/events/2016-amsterdam/program/will-button">Will Button (Trax) - An ElasticSearch Cluster Named George Armstrong Custer</a><br />
+   <a href="/events/2016-amsterdam/program/hannah-foxwell">Hannah Foxwell (Pendrica) - Systems are Simple. Humans are Complex.</a><br />
+   <a href="/events/2016-amsterdam/program/gopal-ramachandran">Gopal Ramachandran (TMNS) - Test driven Dockerized infrastructure</a><br />
+   <a href="/events/2016-amsterdam/program/marco-ceppi">Marco Ceppi - Open Source Operations - punching up</a><br />
 </div>
 
 <div class="span-3 box-blue">13:40-14:30</div>
