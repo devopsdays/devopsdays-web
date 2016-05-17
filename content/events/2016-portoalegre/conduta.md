@@ -25,7 +25,7 @@ Por assédio entende-se sem limitação:
   <li>Fotografias ou gravações que gerem embaraço;</li>
   <li>Interrupções reiteradas de palestras, bate-papos, reuniões eletrônicas, reuniões físicas ou outros eventos;</li>
   <li>Contato físico inadequado ou atenção sexual indesejada.</li>
-
+</ul>
 Espera-se que os participantes cumpram imediatamente solicitações para descontinuar qualquer assédio ou comportamento de bullying. Sejam gentis com os outros. Não insultem ou ofendam outros participantes. Lembrem-se de que piadas de assédio, sexismo, racismo ou exclusão não são aceitas pela sociedade, muito menos para nosso evento.
 
 Qualquer participante que violar tais regras pode ser convidado a se retirar, a critério exclusivo dos organizadores do evento.
