@@ -105,6 +105,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 speakers:
   - id: "erica-baker"
     level: talk
+  - id: "adam-jacob"
+    level: talk
   - id: "daniel-van-gils"
     level: talk
   - id: "warner-moore"
@@ -112,6 +114,8 @@ speakers:
   - id: "avishai-ish-shalom"
     level: talk
   - id: "ken-mugrage"
+    level: talk
+  - id: "desmond-delissen"
     level: talk
   - id: "victoria-jeffrey"
     level: talk
