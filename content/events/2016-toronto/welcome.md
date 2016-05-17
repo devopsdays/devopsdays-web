@@ -29,7 +29,7 @@ aliases = ["/events/2016-toronto"]
   </tr>
   <tr>
     <td><b>Register</b></td>
-    <td>{{< event_link page="register" text="Register now!" >}}</td>
+    <td>DevOpsDays Toronto is sold out. Be sure to watch out for next year's event.</td>
   </tr>
   <tr>
     <td><b>Program</b></td>
