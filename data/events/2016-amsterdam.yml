@@ -115,16 +115,66 @@ speakers:
     level: talk
   - id: "victoria-jeffrey"
     level: talk
-  - id: "jeffrey-snover"
-    level: talk
+#  - id: "jeffrey-snover"
+#    level: talk
   - id: "harm-weites"
     level: talk
-
+  # Security Track
+  - id: "melanie-rieback"
+    level: talk
+  - id: "guy-podjarny"
+    level: talk
+  # Ignites - No wireframe for ignites/workshops according to @bridgetkromhout
+  - id: "bernd-erk"
+    level: talk
+  - id: "gopal-ramachandran"
+    level: talk
+  - id: "hannah-foxwell"
+    level: talk
+  - id: "jason-yee"
+    level: talk
+  - id: "jody-wolfborn"
+    level: talk
+  - id: "marco-ceppi"
+    level: talk
+  - id: "pavel-chunyayev"
+    level: talk
+  - id: "takahiko-ito"
+    level: talk
+  - id: "will-button"
+    level: talk
+  # workshops
+#  - id: "andrew-farley"
+#    level: talk
+#  - id: "arnold-van-wijnbergen"
+#    level: talk
+  - id: "nati-cohen"
+    level: talk
+  - id: "bas-meijer"
+    level: talk
+  - id: "christoph-andreas-torlinsky"
+    level: talk
+  - id: "dave-van-herpen"
+    level: talk
+  - id: "jan-de-vries"
+    level: talk
+  - id: "jim-leitch"
+    level: talk
+  - id: "michael-ducy"
+    level: talk
+  - id: "philipp-krenn"
+    level: talk
+#  - id: "remi-bergsma"
+#    level: talk
+  - id: "simon-fisher"
+    level: talk
+  - id: "stefan-stolze"
+    level: talk
+#  - id: "stephen-hoogendijk"
+#    level: talk
+#  - id: "tiziano-perrucci"
+#    level: talk
 
 speaker_levels:
   - id: talk
     label: Talk
-  - id: ignite
-    label: Ignite
-  - id: workshop
-    label: Workshop
