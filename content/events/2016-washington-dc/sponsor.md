@@ -5,14 +5,10 @@ type = "event"
 
 +++
 
-<p>
-  We greatly value sponsors for this open event.  Have questions about
-  sponsoring?  Contact us at <a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>.
-</p>
-
-<p>
-  <a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Sign-up to sponsor DevOpsDays DC now</a>.
-</p>
+We greatly value sponsors for this open event.  **All of our current Sponsorship
+options have sold out**.  We may add additional options so please contact us at
+<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>
+if you'd like to join the sponsorship waiting list.
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -31,7 +27,7 @@ type = "event"
 </tr>
 <tr class="hed2">
 <td></td>
-<td><strong>1,000 USD</strong></td>
+<td><strong>SOLD OUT</strong></td>
 <td><strong>SOLD OUT</strong></td>
 <td><strong>SOLD OUT</strong></td>
 </tr>
@@ -92,41 +88,45 @@ type = "event"
 </tbody>
 </table>
 
-<p>
-  <a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Sign-up to sponsor DevOpsDays DC now</a>.
-</p>
+All of our current Sponsorship
+options have sold out.  We may add additional options so please contact us at
+<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>
+if you'd like to join the sponsorship waiting list.
 
-<h3>Silver $1,000 USD</h3>
-<ul>
-  <li>2 included tickets</li>
-  <li>Logo on shared slide, rotating during breaks</li>
-  <li>Logo on DevOpsDays Washington, DC 2016 event website</li>
-  <li><a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Silver sponsor now</a>.</li>
-</ul>
+### Silver - SOLD OUT
 
-<h3>Gold - SOLD OUT</h3>
-<ul>
-  <li>All benefits of Silver sponsors</li>
-  <li>Logo on all email communication</li>
-  <li>1 additional ticket, 3 in total</li>
-  <li>Shared table for swag</li>
-</ul>
+* 2 included tickets
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Washington, DC 2016 event website
 
-<h3>Platinum - SOLD OUT</h3>
-<ul>
-  <li>All benefits of Gold sponsors</li>
-  <li>1 minute pitch to full audience, including streaming audience</li>
-  <li>3 additional tickets, 5 in total</li>
-  <li>Dedicated table for swag</li>
-</ul>
+### Gold - SOLD OUT
 
-<p>We greatly value sponsors for this open event. If you are interested in other types of sponsorships, please contact us directly at <a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>.</p>
+* All benefits of Silver sponsors
+* Logo on all email communication
+* 1 additional ticket, 3 in total
+* Shared table for swag
 
-<hr />
+### Platinum - SOLD OUT
 
-<p>
-  DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships to happen. However, because of the nature of the event, we do not have vendor booths or book product pitches.
-</p>
-<p>
-  Gold sponsors do get a table they can hang out at and put materials on for interested people to come visit during breaks, and of course all attendees are welcome to propose any subject they want during the open spaces, but this is not 'that kind of conference' and heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
+* All benefits of Gold sponsors
+* 1 minute pitch to full audience, including streaming audience
+* 3 additional tickets, 5 in total
+* Dedicated table for swag
+
+We greatly value sponsors for this open event. If you are interested in other
+types of sponsorships, please contact us directly at
+<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>.
+
+---
+
+DevOpsDays is a self-organizing conference for DevOps practitioners that depends
+on your sponsorships to happen. However, because of the nature of the event, we
+do not have vendor booths or book product pitches.
+
+Gold sponsors do get a table they can hang out at and put materials on for
+interested people to come visit during breaks, and of course all attendees are
+welcome to propose any subject they want during the open spaces, but this is not
+'that kind of conference' and heavy marketing will probably work against you
+when trying to make a good impression on the attendees. The best thing to do is
+send engineers to interact with the experts at DevOpsDays on their own terms.
 </p>
