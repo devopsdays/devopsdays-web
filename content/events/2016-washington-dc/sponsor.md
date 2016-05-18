@@ -32,7 +32,7 @@ type = "event"
 <tr class="hed2">
 <td></td>
 <td><strong>1,000 USD</strong></td>
-<td><strong>3,000 USD</strong></td>
+<td><strong>SOLD OUT</strong></td>
 <td><strong>SOLD OUT</strong></td>
 </tr>
 <tr>
@@ -104,13 +104,12 @@ type = "event"
   <li><a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Silver sponsor now</a>.</li>
 </ul>
 
-<h3>Gold $3,000 USD</h3>
+<h3>Gold - SOLD OUT</h3>
 <ul>
   <li>All benefits of Silver sponsors</li>
   <li>Logo on all email communication</li>
   <li>1 additional ticket, 3 in total</li>
   <li>Shared table for swag</li>
-  <li><a href="https://devopsdaysdc2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Gold sponsor now</a>.</li>
 </ul>
 
 <h3>Platinum - SOLD OUT</h3>
