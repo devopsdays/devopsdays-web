@@ -92,10 +92,10 @@ sponsor_levels:
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-#  - name: workshops
+  - name: program
+  - name: workshops
 #  - name: propose
-#  - name: speakers
+  - name: speakers
   - name: location
   - name: registration
   - name: sponsor
@@ -146,10 +146,10 @@ speakers:
   - id: "will-button"
     level: talk
   # workshops
-#  - id: "andrew-farley"
-#    level: talk
-#  - id: "arnold-van-wijnbergen"
-#    level: talk
+  - id: "andrew-farley"
+    level: talk
+  - id: "arnold-van-wijnbergen"
+    level: talk
   - id: "nati-cohen"
     level: talk
   - id: "bas-meijer"
@@ -158,24 +158,24 @@ speakers:
     level: talk
   - id: "dave-van-herpen"
     level: talk
-  - id: "jan-de-vries"
+  - id: "karleen-wijsman"
     level: talk
   - id: "jim-leitch"
     level: talk
   - id: "michael-ducy"
     level: talk
+  - id: "michael-friedrich"
+    level: talk
   - id: "philipp-krenn"
     level: talk
-#  - id: "remi-bergsma"
-#    level: talk
+  - id: "remi-bergsma"
+    level: talk
   - id: "simon-fisher"
     level: talk
   - id: "stefan-stolze"
     level: talk
-#  - id: "stephen-hoogendijk"
-#    level: talk
-#  - id: "tiziano-perrucci"
-#    level: talk
+  - id: "tiziano-perrucci"
+    level: talk
 
 speaker_levels:
   - id: talk
