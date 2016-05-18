@@ -22,8 +22,8 @@ text="US Patent and Trademark Office" >}} in Alexandria, Virginia.
 
 [Tickets are on sale now](https://devopsdaysdc2016.busyconf.com/bookings/new)
 for both Government and private sector employees ($100 each).  Please [register
-early](https://devopsdaysdc2016.busyconf.com/bookings/new) as this event will
-sell out.
+early](https://devopsdaysdc2016.busyconf.com/bookings/new).  Some ticket types
+have already **sold out**.
 
 ## Schedule
 
