@@ -17,13 +17,20 @@
    .Site.Data.events $e.year (printf "%s" (lower $e.city))
    - mattstratton
  */}}
- {{ range $fname, $s := index .Site.Data.speakers $e.year (lower $e.city) }}
+ {{ range $fname, $s := index .Site.Data.speakers (chomp $e.year) (lower $e.city) }}
    {{ if eq $fname ($.Title | urlize) }}
-     <h2>Speaker</h2>
-     <h3>{{ $s.name }}</h3>
-     <a href="https://twitter.com/{{ $s.twitter }}"><img width="32px" height="32px" alt="twitter" title="twitter" src="/images/twitter.png">@{{ $s.twitter }}</a>
+<hr>
+<div class="row">
+    <div class="col-md-3">
+        <img alt = "{{ $s.name }}" src = "/events/{{ $event_slug }}/speakers/{{$fname}}.png" class="img-responsive" width = "250px">
+    </div>
+    <div class= "col-md-8">
+       <h3>{{ $s.name }}</h3>
+       <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a>
      <br><br>
      {{ $s.bio | markdownify }}
+    </div>
+</div>
    {{ end }}
  {{ end }}
 

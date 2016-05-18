@@ -10,12 +10,34 @@ cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
 coordinates: "32.7767, -96.7970" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Grapevine Convention Center, 1209 S. Main Street, Grapevine, TX 76051" # The name of your location
-navigationelements: ["welcome", "contact", "location", "program", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Mike Rosado", "Jeremy Hillin", "John Jelinek", "Gokul Sridharan", "Ben Johnson", "Mark Saum", "Ken Valerdi"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: contact
+  - name: location
+  - name: program
+  - name: proposals
+  - name: registration
+  - name: conduct
+  - name: sponsor
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mike Rosado"
+  - name: "Annie Hedgpeth"
+  - name: "John Jelinek"
+  - name: "Gokul Sridharan"
+  - name: "Ben Johnson"
+  - name: "Mark Saum"
+  - name: "Ken Valerdi"
+
+
 organizer_email: "organizers-dallas-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: pivotal
+    level: gold
+  - id: deis
     level: gold
   - id: chef
     level: platinum
@@ -26,7 +48,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
