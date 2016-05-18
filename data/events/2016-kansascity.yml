@@ -40,6 +40,7 @@ team_members: # Name is the only required field for team members.
 - name: "Chip Warden"
 - name: "Chris Stein"
 - name: "Chase Pettet"
+- name: "Curtis Cockerham"
 organizer_email: "organizers-kansascity-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-kansascity-2016@devopsdays.org" # Put your proposal email address here
 
@@ -49,6 +50,8 @@ sponsors:
   - id: pivotal
     level: gold
   - id: victorops
+    level: silver
+  - id: dstsystems
     level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
