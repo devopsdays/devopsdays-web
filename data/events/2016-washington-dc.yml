@@ -133,6 +133,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: cloudbees
     level: gold
+  - id: aspe
+    level: platinum
 
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
