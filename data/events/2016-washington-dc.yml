@@ -40,7 +40,7 @@ team_members: # Name is the only required field for team members.
     employer: "Excella Consulting"
   - name: "Mark Cornick"
     twitter: "markcornick"
-    employer: "Learning Objects"
+    employer: "Cava Grill"
   - name: "Mike DelNegro"
     twitter: "radiocats"
     employer: "FireEye"
