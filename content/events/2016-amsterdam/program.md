@@ -78,8 +78,8 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-green">08:00-09:00</div><div class="span-10 box-green last">Registration, Breakfast, and Sponsor Booths Open</div>
 <div class="span-3 box-blue">09:00-09:15</div><div class="span-10 box-blue last">Opening Welcome</div>
-<div class="span-3 box-green">09:15-09:55</div><div class="span-10 box-green last"><b>Opening keynote</b><br />
-<a href="/events/2016-amsterdam/program/erica-baker">Erica Baker (Slack) <br /> Diversity in Technology</a>
+<div class="span-3 box-green">09:15-09:55</div><div class="span-10 box-green last">
+<a href="/events/2016-amsterdam/program/erica-baker">Erica Baker (Slack) <br /><b>Opening Keynote</b></a>
     <br />
 </div>
 <div class="span-3 box-blue">09:55-10:00</div><div class="span-10 box-blue last">
