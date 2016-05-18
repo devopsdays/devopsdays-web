@@ -63,6 +63,11 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-14 append-bottom">
 
+<hr>
+<div class="span-14 last centerstyle">
+<h3>The <a href="http://www.devopsdays.org/events/2016-amsterdam/workshops/">Workshops</a> have their own section this year! Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/workshops/">click here</a> for the 29 June schedule!</h3></div>
+</hr>
+
 <div class="span-14 last centerstyle">
 <h2>The Program</h2>
 </div>
@@ -83,7 +88,7 @@ tags = ["amsterdam","amsterdam-2016"]
     <br />
 
 <div class="span-3 box-green">10:00-10:40</div><div class="span-10 box-green last">
-<a href="/events/2016-amsterdam/program/adam-jacob">Adam Jacob (Chef) <br /> State of DevOps</a>
+<a href="/events/2016-amsterdam/program/adam-jacob">Adam Jacob (Chef) <br />The Evolution of Automation</a>
     <br />
 </div>
 
@@ -206,7 +211,7 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-coral">14:30-15:00</div><div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1</div>
 
-<div class="span-3 box-blue">15:00-15:15</div><div class="span-10 box-blue last"><strong>Break</strong> <br /> </div>
+<div class="span-3 box-blue">15:00-15:15</div><div class="span-10 box-blue last">Break<br /> </div>
 
 <div class="span-3 box-coral">15:15-15:45</div><div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2</div>
 
