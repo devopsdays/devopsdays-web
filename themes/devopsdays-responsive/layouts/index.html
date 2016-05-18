@@ -1,0 +1,54 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <div class="col-md-3">
+    <img src="/img/devopsdays-brain.png" class="img-responsive pull-left">
+  </div>
+  <div class="col-md-9">
+    <h2>The conference that brings development and operations together.</h2>
+  </div>
+</div>
+
+<!-- new navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="/">Home</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/events">Events</a></li>
+        <li><a href="/presentations">Presentations</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/sponsor">Sponsor</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a class = "social-links" href="https://facebook.com/{{ .Site.Params.social.facebook }}"><i class="fa fa-facebook-square fa-2x"></i></a>
+        </li>
+        <li>
+          <a class = "social-links" href="https://twitter.com/{{ .Site.Params.social.twitter }}"><i class="fa fa-twitter-square fa-2x"></i></a>
+        </li>
+        <li>
+          <a class = "social-links"  href="https://youtube.com/{{ .Site.Params.social.youtube }}"><i class="fa fa-youtube fa-2x"></i></a>
+        </li>
+        <li>
+          <a class = "social-links" href="https://plus.google.com/+{{ .Site.Params.social.googleplus }}"><i class="fa fa-google-plus-square fa-2x"></i></a>
+        </li>
+        <li>
+          <a class = "social-links" href="https://github.com/{{ .Site.Params.social.github }}"><i class="fa fa-github fa-2x"></i></a>
+        </li>
+      </ul>
+    </div><!-- /.nav-collapse -->
+  </div><!-- /.container -->
+</nav><!-- /.navbar -->
+<!-- end of new nav -->
+
+{{ partial "footer.html" . }}
