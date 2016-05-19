@@ -74,7 +74,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class="span-15 box-green centerstyle"><h4>08:00-09:00 Registration and Breakfast</h4></div>
 <div>
     <div class="box-orange span-15 centerstyle"><h4><b>09:00 - 11:30</b> Workshop Schedule </h4></div>
-    <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/nati-cohen">Avishai Ish-Shalom (FewBytes) & Nati Cohen (Independent) <br /> Docker From Scratch</a></div>
+    <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/nati-cohen">Avishai Ish-Shalom (FewBytes) & Nati Cohen (SimilarWeb) <br /> Docker From Scratch</a></div>
 		<div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/christoph-andreas-torlinsky">Christoph Andreas Torlinsky (Nuage Networks) <br /> A Place for SDN in DevOps</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/dave-van-herpen">Dave van Herpen & Robert den Broeder (Sogeti) <br /> Creating high-performance teams with DevOps behavior</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/remi-bergsma">Remi Bergsma & Fred Neubauer (Schuberg Philis) <br /> Cloudstack / Cosmic Cloud</a></div>
