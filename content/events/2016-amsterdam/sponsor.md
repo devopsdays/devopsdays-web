@@ -196,5 +196,5 @@ Here is a quick overview of the options for this year:
 
 <br>
 
-Please find all information about our sponsorship opportunities for 2016 in our <a href="/events/2016-amsterdam/devopsdays_2016_-_sponsor_prospectus.pdf">sponsor document.</a>
+Please find all information about our sponsorship opportunities for 2016 in our <a href="http://dodams-prospectus.s3-eu-west-1.amazonaws.com/devopsdays_2016_-_sponsor_prospectus.pdf">sponsor document</a>.
 <hr/>
