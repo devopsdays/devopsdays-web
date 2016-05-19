@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Monitoring with Icinga 2"
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/michael-friedrich/"]
+aliases = ["/events/2016-amsterdam/program/michael-friedrich/"]
 
 +++
 
