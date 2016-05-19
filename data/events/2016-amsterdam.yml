@@ -52,14 +52,14 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
-  - id: workiva
-    level: silver
   # bronze
   - id: beslist
     level: bronze
   - id: devoteam
     level: bronze
   - id: indigo
+    level: bronze
+  - id: workiva
     level: bronze
   # BBQ
   - id: chef
