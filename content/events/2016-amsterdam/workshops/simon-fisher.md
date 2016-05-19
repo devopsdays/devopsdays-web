@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Out with the old, in with the new – modernizing Rails application deployment with Chef"
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/simon-fisher/"]
+aliases = ["/events/2016-amsterdam/program/simon-fisher/"]
 
 +++
 
