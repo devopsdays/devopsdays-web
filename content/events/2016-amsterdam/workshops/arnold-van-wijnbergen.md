@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "First steps to create your IT Operations data lake with ELK Stack and Graphite"
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/arnoldvanwijnbergen/"]
+aliases = ["/events/2016-amsterdam/program/arnold-van-wijnbergen/"]
 
 +++
 
