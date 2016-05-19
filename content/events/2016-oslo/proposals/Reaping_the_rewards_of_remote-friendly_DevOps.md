@@ -1,5 +1,5 @@
 +++
-date = "2016-05-18:14:21-07:00"
+date = "2016-05-18T14:21:00-07:00"
 type = "talk"
 title = "Reaping the rewards of remote-friendly DevOps"
 +++
@@ -11,4 +11,3 @@ This talk will discuss some of the difficulties and benefits of being a remote w
 Martin B. Smith: It's one thing to say you want to make the world a better place, but as an engineer I feel I have an opportunity to put those words into action. With over 15 years of experience in infrastructure automation, software development, and systems administration for large scale public cloud providers and top public universities, my mission is to solve for real-world business problems with technical solutions that scale.
 
 For me, it's important to share the lessons I've learned with local technical communities, particularly by mentoring minority college students in STEM fields. I strongly believe in open source and actively contribute to automation projects like Chef. When I’m not writing a technical talk or reviewing pull requests, I enjoy traveling the world, sharing my skills with other like-minded professionals who want to make the world more awesome. I encourage you to contact me at @martinb3 on Twitter.
-
