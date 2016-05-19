@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "A Place for SDN in DevOps"
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/christoph-andreas-torlinsky/"]
+aliases = ["/events/2016-amsterdam/program/christoph-andreas-torlinsky/"]
 
 +++
 
