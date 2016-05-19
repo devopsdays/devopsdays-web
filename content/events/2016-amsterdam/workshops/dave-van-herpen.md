@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Creating high-performance teams with DevOps behavior"
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/dave-van-herpen/"]
+aliases = ["/events/2016-amsterdam/program/dave-van-herpen/"]
 
 +++
 
