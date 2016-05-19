@@ -63,6 +63,11 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-14 append-bottom">
 
+<hr>
+<div class="span-14 last centerstyle">
+<h3>The <a href="http://www.devopsdays.org/events/2016-amsterdam/workshops/">Workshops</a> have their own section this year! Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/workshops/">click here</a> for the 29 June schedule!</h3></div>
+</hr>
+
 <div class="span-14 last centerstyle">
 <h2>The Program</h2>
 </div>
@@ -73,8 +78,8 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-green">08:00-09:00</div><div class="span-10 box-green last">Registration, Breakfast, and Sponsor Booths Open</div>
 <div class="span-3 box-blue">09:00-09:15</div><div class="span-10 box-blue last">Opening Welcome</div>
-<div class="span-3 box-green">09:15-09:55</div><div class="span-10 box-green last"><b>Opening keynote</b><br />
-<a href="/events/2016-amsterdam/program/erica-baker">Erica Baker (Slack) <br /> Diversity in Technology</a>
+<div class="span-3 box-green">09:15-09:55</div><div class="span-10 box-green last">
+<a href="/events/2016-amsterdam/program/erica-baker">Erica Baker (Slack) <br /><b>Opening Keynote</b></a>
     <br />
 </div>
 <div class="span-3 box-blue">09:55-10:00</div><div class="span-10 box-blue last">
@@ -83,7 +88,7 @@ tags = ["amsterdam","amsterdam-2016"]
     <br />
 
 <div class="span-3 box-green">10:00-10:40</div><div class="span-10 box-green last">
-<a href="/events/2016-amsterdam/program/adam-jacob">Adam Jacob (Chef) <br /> State of DevOps</a>
+<a href="/events/2016-amsterdam/program/adam-jacob">Adam Jacob (Chef) <br />The Evolution of Automation</a>
     <br />
 </div>
 
@@ -191,22 +196,23 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-blue">11:50-13:00</div><div class="span-10 append-bottom box-blue">Lunch (catered)</div>
 
-<div class="span-3 box-green">13:00-13:40</div>
+<div class="span-3 box-green">13:00-13:45</div>
 <div class="span-10 box-green last"><strong>Ignites</strong><br />
    <a href="/events/2016-amsterdam/program/will-button">Will Button (Trax) - An ElasticSearch Cluster Named George Armstrong Custer</a><br />
+   <a href="/events/2016-amsterdam/program/bernd-erk">Bernd Erk - Working in and with Open Source Communities</a><br />
    <a href="/events/2016-amsterdam/program/hannah-foxwell">Hannah Foxwell (Pendrica) - Systems are Simple. Humans are Complex.</a><br />
    <a href="/events/2016-amsterdam/program/gopal-ramachandran">Gopal Ramachandran (TMNS) - Test driven Dockerized infrastructure</a><br />
    <a href="/events/2016-amsterdam/program/marco-ceppi">Marco Ceppi - Open Source Operations - punching up</a><br />
 </div>
 
-<div class="span-3 box-coral">13:40-14:30</div>
+<div class="span-3 box-coral">13:45-14:30</div>
 <div class="span-10 box-coral last"><strong>Open Space</strong> <br />
   Open Space Opening
 </div>
 
 <div class="span-3 box-coral">14:30-15:00</div><div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1</div>
 
-<div class="span-3 box-blue">15:00-15:15</div><div class="span-10 box-blue last"><strong>Break</strong> <br /> </div>
+<div class="span-3 box-blue">15:00-15:15</div><div class="span-10 box-blue last">Break<br /> </div>
 
 <div class="span-3 box-coral">15:15-15:45</div><div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2</div>
 
