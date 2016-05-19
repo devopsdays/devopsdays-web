@@ -1,5 +1,5 @@
 +++
-date = "2016-05-17:14:21-07:00"
+date = "2016-05-17T14:21:00-07:00"
 type = "talk"
 title = "Opening Open Source with DevOps"
 +++
@@ -9,5 +9,3 @@ DevOps has made great strides across the software world, but not yet in open-sou
 
 **Speaker:**
 Tim Perry is a tech lead and the open-source champion at Softwire, a bespoke software development company in London, Bristol and Bucharest. He's also the creator of Build Focus, a contributor to a huge range of open-source tools across the JS, Java and C# ecosystems, and the maintainer of Loglevel and Server Components.
-
-
