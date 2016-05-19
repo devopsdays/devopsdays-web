@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Building Scalable Docker Services in Amazon’s Web Services with ECS"
 type = "talk"
-aliases = ["/events/2016-amsterdam/program/andrewfarley/"]
+aliases = ["/events/2016-amsterdam/program/andrew-farley/"]
 
 +++
 

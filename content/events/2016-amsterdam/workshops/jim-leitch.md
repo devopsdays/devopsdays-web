@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Like A Rhino in Your Kid Brother's White Tuxedo - Legacy and Awesome is not an Oxymoron"
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/jim-leitch/"]
+aliases = ["/events/2016-amsterdam/program/jim-leitch/"]
 
 +++
 
