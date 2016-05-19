@@ -1,10 +1,13 @@
 .upcoming-headline h3 {
+	color: #333333;
 	font-weight: bold;
 	background-color: #D7D7D7;
 	padding: 10px;
+	font-size: 19px;
+	text-align: center;
 }
 
-.upcoming-headline h3 a {
+.upcoming-headline a {
 	color: #333333;
 	text-decoration: none;
 }
