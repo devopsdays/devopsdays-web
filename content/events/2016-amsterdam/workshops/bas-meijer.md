@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Ansible, best practices."
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/bas-meijer/"]
+aliases = ["/events/2016-amsterdam/program/bas-meijer/"]
 
 +++
 
