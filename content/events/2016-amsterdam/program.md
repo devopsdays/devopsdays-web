@@ -196,15 +196,16 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class="span-3 box-blue">11:50-13:00</div><div class="span-10 append-bottom box-blue">Lunch (catered)</div>
 
-<div class="span-3 box-green">13:00-13:40</div>
+<div class="span-3 box-green">13:00-13:45</div>
 <div class="span-10 box-green last"><strong>Ignites</strong><br />
    <a href="/events/2016-amsterdam/program/will-button">Will Button (Trax) - An ElasticSearch Cluster Named George Armstrong Custer</a><br />
+   <a href="/events/2016-amsterdam/program/bernd-erk">Bernd Erk - Working in and with Open Source Communities</a><br />
    <a href="/events/2016-amsterdam/program/hannah-foxwell">Hannah Foxwell (Pendrica) - Systems are Simple. Humans are Complex.</a><br />
    <a href="/events/2016-amsterdam/program/gopal-ramachandran">Gopal Ramachandran (TMNS) - Test driven Dockerized infrastructure</a><br />
    <a href="/events/2016-amsterdam/program/marco-ceppi">Marco Ceppi - Open Source Operations - punching up</a><br />
 </div>
 
-<div class="span-3 box-coral">13:40-14:30</div>
+<div class="span-3 box-coral">13:45-14:30</div>
 <div class="span-10 box-coral last"><strong>Open Space</strong> <br />
   Open Space Opening
 </div>
