@@ -11,15 +11,15 @@ aliases = ["/events/2016-amsterdam/program/ericabaker/"]
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-  Diversity Efforts Need To Extend Beyond Gender (Keynote)
+  devopsdays Amsterdam Keynote
 </p>
 
-<p><strong>Description:</strong></p>
+<!-- <p><strong>Description:</strong></p>
 
 <p>To be Provided</p>
 
 <p></p>
-
+-->
 
 
 
