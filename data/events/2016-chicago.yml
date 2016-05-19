@@ -59,6 +59,8 @@ sponsors:
     level: silver
   - id: panopta
     level: bronze
+  - id: morpheus_data
+    level: bronze
   - id: arresteddevops
     level: community
   - id: softwaredefinedtalk
