@@ -40,7 +40,7 @@ team_members: # Name is the only required field for team members.
     employer: "Excella Consulting"
   - name: "Mark Cornick"
     twitter: "markcornick"
-    employer: "Learning Objects"
+    employer: "Cava Grill"
   - name: "Mike DelNegro"
     twitter: "radiocats"
     employer: "FireEye"
@@ -106,7 +106,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: ansible
     level: platinum
   - id: infozen
-    level: platinum
+    level: gold
   - id: dlt
     level: platinum
   - id: omniti
@@ -132,6 +132,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: victorops
     level: gold
   - id: cloudbees
+    level: gold
+  - id: aspe
+    level: platinum
+  - id: govready
+    level: silver
+  - id: solidfire
     level: gold
 
 
