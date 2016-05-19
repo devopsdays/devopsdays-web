@@ -4,7 +4,7 @@ Year = "2016"
 date = "2016-03-06T21:28:07-06:00"
 title = "Appreciative Inquiry, the most enjoyable way of change."
 type = "talk"
-aliases = ["/events/2016-amsterdam/workshops/karleen-wijsman/"]
+aliases = ["/events/2016-amsterdam/program/karleen-wijsman/"]
 
 +++
 
