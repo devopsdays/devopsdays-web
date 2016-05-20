@@ -6,8 +6,4 @@ type = "event"
 
 +++
 
-<div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
-</div>
+[Register Now](https://devopsdaysbaltimore2016.busyconf.com/bookings/new)!
