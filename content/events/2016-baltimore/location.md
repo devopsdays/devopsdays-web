@@ -5,6 +5,9 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+DevOpsDays Baltimore will be held at UMBC's Columbus Center.
+
+701 E Pratt St.
+Baltimore, MD  21202
 
 <!-- {{< event_map >}} -->
