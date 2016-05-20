@@ -96,7 +96,7 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div>
     <div class="box-orange span-15 centerstyle"><h4><b>15:00 - 17:30</b> Workshop Schedule</h4></div>
-    <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/andrew-farley">Andrew Farley (Olindata) <br /> Building Scalable Docker Services in Amazon’s Web Services with ECS</a></div>
+    <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/andrew-farley">Andrew Farley (Olindata) <br /> Designing Scalable Services on Amazon’s Web Services</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/arnold-van-wijnbergen">Arnold van Wijnbergen (Devoteam) <br /> First steps to create your IT Operations data lake with ELK Stack and Graphite</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/bas-meijer">Bas Meijer (Independent Consultant)<br /> Ansible, best practices</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/michael-ducy">Michael Ducy (Chef) <br /> Test Driven Development With Chef</a></div>
