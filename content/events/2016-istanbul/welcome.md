@@ -8,8 +8,8 @@ aliases = ["/events/2016-istanbul"]
 +++
 
 <center>
-  <a href="http://devopsdays.devopsturkey.org" target="_blank"><img border=0 width="256px" height="256px" src="/events/2016-istanbul/logo.png"><br>
-  devopsdays.devopsturkey.org</a>
+  <a href="http://devopsdays.istanbul" target="_blank"><img border=0 width="256px" height="256px" src="/events/2016-istanbul/logo.png"><br>
+  http://devopsdays.istanbul</a>
   <br><br>
   {{< event_twitter devopsdaysist >}} <!-- add your twitter name here without the @ sign -->
 
