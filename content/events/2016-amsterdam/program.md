@@ -134,25 +134,25 @@ tags = ["amsterdam","amsterdam-2016"]
   Open Space Opening
 </div>
 
-<div class="span-3 box-blue">15:00-15:10</div><div class="span-10 box-blue last">
+<div class="span-3 box-blue">15:00-15:15</div><div class="span-10 box-blue last">
   Break
 </div>
 
-<div class="span-3 box-green">15:10-16:40</div>
+<div class="span-3 box-green">15:15-15:45</div>
 <div class="span-5 box-coral "><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1</div>
 <div class="span-5 box-darkgreen last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/melanie-rieback">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a></div>
 
-<div class="span-3 box-blue">16:40-16:50</div><div class="span-10 box-blue last">Break <br /> </div>
+<div class="span-3 box-blue">15:45-16:00</div><div class="span-10 box-blue last">Break <br /> </div>
 
-<div class="span-3 box-green">16:30-17:00</div>
+<div class="span-3 box-green">16:00-16:30</div>
 <div class="span-5 box-coral"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2</div>
 <div class="span-5 box-darkgreen last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/guy-podjarny">Guy Podjarny (Snyk)<br />Writing Secure Node Code</a></div>
 
-<div class="span-3 box-blue">17:00-17:30</div><div class="span-10 box-blue last">Closing</div>
+<div class="span-3 box-blue">16:30-17:00</div><div class="span-10 box-blue last">Closing</div>
 
-<div class="span-3 box-redhat">17:30-18:30</div><div class="span-10 box-redhat last"><strong>Sponsor happy hour (Sponsored by Red Hat)</strong><br /></div>
+<div class="span-3 box-redhat">17:00-18:00</div><div class="span-10 box-redhat last"><strong>Sponsor happy hour (Sponsored by Red Hat)</strong><br /></div>
 
-<div class="span-3 box-cheforange">18:30-20:00</div><div class="span-10 box-cheforange last"><strong>BBQ (Sponsored by Chef) & Band </strong><br /></div>
+<div class="span-3 box-cheforange">18:00-20:00</div><div class="span-10 box-cheforange last"><strong>BBQ (Sponsored by Chef) & Band </strong><br /></div>
 
 </div>
 
