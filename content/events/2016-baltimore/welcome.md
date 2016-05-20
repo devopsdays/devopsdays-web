@@ -46,7 +46,7 @@ DevOps Days is coming to {{< event_location >}}!
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdaysbmore >}} 
+    {{< event_twitter devopsdaysbmore >}}
     </td>
   </tr>
 </table>
