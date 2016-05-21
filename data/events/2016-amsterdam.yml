@@ -31,6 +31,8 @@ sponsors:
     level: gold
   - id: 2016-pivotal
     level: gold
+  - id: microsoft
+    level: gold
   - id: schubergphilis
     level: gold
   - id: solvinity
@@ -59,9 +61,9 @@ sponsors:
     level: bronze
   - id: indigo
     level: bronze
-  - id: workiva
-    level: bronze
   - id: 2015-sdl
+    level: bronze
+  - id: workiva
     level: bronze
   # BBQ
   - id: chef
