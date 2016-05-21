@@ -1,0 +1,267 @@
+
+
+
+
+  
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<title>Chicago 2014
+ -  Proposal</title>
+<meta name="author" content="Proposal 21" >
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="devopsdays RSS Feed" href="http://www.devopsdays.org/feed/" >
+
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('jquery', '1.3.2');
+</script>
+
+<!---This is a combined jAmpersand, jqwindont , jPullquote -->
+<script type="text/javascript" src="/js/devops.js"></script>
+
+<!--- Blueprint CSS Framework Screen + Fancytype-Screen + jedi.css -->
+<link rel="stylesheet" href="/css/devops.min.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+</head>
+
+
+<body onload="initialize()">
+
+<div class="container ">
+<div class="span-24 last" id="header">
+
+ <div class="span-16 first">
+	<img src="/images/devopsdays-banner.png" title="devopsdays banner" width="801" height="115" alt="devopdays banner" ><br>
+ </div>
+ <div class="span-8 last">
+ </div>
+</div>
+
+<div class="span-24 last">
+<div class="span-15 first">
+<div id="headermenu">
+<table >
+  <tr>
+    <td>
+      <a href="/"><img alt="home" title="home" src="/images/home.png"></a>
+      <a href="/">Home</a>
+    </td>
+    <td>
+      <a href="/contact/"><img alt="contact" title="contact" src="/images/contact.png"></a>
+      <a href="/contact/">Contact</a>
+    </td>
+    <td>
+      <a href="/events/"><img alt="events" title="events" src="/images/events.png"></a>
+      <a href="/events/">Events</a>
+    </td>
+    <td>
+      <a href="/presentations/"><img alt="presentations" title="presentations" src="/images/presentations.png"></a>
+      <a href="/presentations/">Presentations</a>
+    </td>
+    <td>
+      <a href="/blog/"><img alt="blog" title="blog" src="/images/blog.png"></a>
+      <a href="/blog/">Blog</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div>
+<div class="span-8 last">
+</div>
+
+<div class="span-24 last" id="title">
+<div class="span-15 first">
+<h1>Chicago 2014
+ -  Proposal </h1>
+</div>
+
+<div class="span-8 last">
+</div>
+
+  
+<h1>Gold sponsors</h1>
+  
+
+</div>
+
+
+<div class="span-15  ">
+  <div class="span-15  last ">
+  
+<div class="submenu">
+  <h3>
+    <a href="/events/2014-chicago/">welcome</a>&nbsp;
+    <!-- <a href="/events/2014-chicago/propose/">propose</a>&nbsp; -->
+    <!-- <a href="/events/2014-chicago/proposals/">proposals</a>&nbsp; -->
+    <a href="/events/2014-chicago/program/">program</a>&nbsp;
+    <a href="/events/2014-chicago/location/">location</a>&nbsp;
+    <!-- <a href="/events/2014-chicago/registration/">register</a>&nbsp; -->
+    <!-- <a href="/events/2014-chicago/sponsor/">sponsor</a>&nbsp; -->
+    <a href="/events/2014-chicago/contact/">contact</a>&nbsp;
+    <a href="/events/2014-chicago/conduct/">conduct</a>&nbsp;
+  </h3>
+</div>
+
+
+Back to <a href='..'>proposals overview</a> - <a href='../../program'>program</a>
+<hr>
+<h3>From Water-Scrum-Fall to DevOps -- The journey we had and ahead of us</h3>
+
+  <p><strong>Abstract</strong></p>
+
+<p>In IBM we have adopted Scrum few years ago. While we thought we were Scrum, we were actually Water-Scrum-Fall. Our release cycle was 6~12 months, and that's nowhere near competitive in today's market. So we decides to adopt DevOps about 15 months ago. However, in a huge company like IBM, adopting something as big as DevOps is very difficult. Our failure in Scrum adoption was a very good proof that this is not easy. We didn't want to fail this time, and couldn't afford to fail. So, we did the following:</p>
+
+<ul>
+<li><p>Made a lot of changes in the process and organization. For example, we merged our functional test team into development team. We also adopted many new processes within the development teams</p></li>
+<li><p>Worked very hard in getting the support from managers and executives of all levels. We had worldwide technical leaders conducting many meetings and education sessions to managers and executives at all level to get their continued support.</p></li>
+<li><p>Delivered many educations targeting every roles in software project. We delivered tens of education sessions to developers, testers, and managers.</p></li>
+<li><p>Learned and explored knowledge and tools. We have specialized team working on investigating tools and studying DevOps related knowledge, and share with everyone.</p></li>
+<li><p>Invested tons of efforts in developing automation tests of all types, as well as modifying existing automation tests to fulfill DevOps requirement.</p></li>
+<li><p>Greatly improved our build process and scripts. We have a centralized build team helping us do this, and each development team also worked on improving their build scripts.</p></li>
+</ul>
+
+
+<p>I'll share what we did specifically in the areas above. As always, this is a continuous improvement and continuous learning process, and you're never "done" with DevOps. So, I'd like to discuss some topics that we don't have an answer as of now:</p>
+
+<ul>
+<li><p>Centralized build team or not? Most DevOps practitioners will say no to centralized build team, but in IBM we have super complicated compliance that applies to build machines. If we don't use the service of the centralized build team, the product team will have to handle the compliance, which is not fun at all.</p></li>
+<li><p>Find and fix every single defect before releasing to production, or move that effort to production environment monitoring and improve the recovery process of the production environment? This is especially valid for our system test, where we run 5 days long run once every few weeks. Those tests can only find about 20% of defects, so is the result worth the effort?</p></li>
+</ul>
+
+
+<p>This topic should be very interesting for those who want to or just started to adopt DevOps in a relatively large organization. Applying DevOps in a web startup is what many people had already done. Applying DevOps in a large organization with on-premise products and huge amount of legacy codes and tests is a very different story.</p>
+
+  </div>
+  
+    <div class="span-15 first last">
+  
+<script type="text/javascript">
+
+//    var disqus_developer = 1; 
+
+</script> 
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'devopsdays'; 
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+     <hr>
+    </div>
+  
+</div>
+
+<div class="span-8 last">
+  <div class="span-8 last">
+
+
+
+
+<a href='http://www.signal.co/'><img alt='Signal' title='Signal' width='100' height='100' src='/events/2014-chicago/logos/signal-100x100.png'></a>
+<a href='http://www.datadoghq.com'><img alt='Datadog' title='Datadog' width='100' height='100' src='/events/2014-chicago/logos/datadog-100x100.png'></a>
+<a href='http://www.cloudbees.com'><img alt='CloudBees' title='CloudBees' width='100' height='100' src='/events/2014-chicago/logos/cloudbees-100x100.png'></a>
+<a href='http://scriptrock.com'><img alt='ScriptRock' title='ScriptRock' width='100' height='100' src='/events/2014-chicago/logos/scriptrock-100x100.png'></a>
+<a href='http://www.getchef.com'><img alt='CHEF' title='CHEF' width='100' height='100' src='/events/2014-chicago/logos/chef-100x100.png'></a>
+<a href='http://www.rackspace.com/'><img alt='Rackspace' title='Rackspace' width='100' height='100' src='/events/2014-chicago/logos/rackspace-100x100.png'></a>
+<a href='http://xebialabs.com/'><img alt='XebiaLabs' title='XebiaLabs' width='100' height='100' src='/events/2014-chicago/logos/xebialabs-100x100.png'></a>
+<a href='http://www.elasticsearch.org/'><img alt='Elasticsearch' title='Elasticsearch' width='100' height='100' src='/events/2014-chicago/logos/elasticsearch-100x100.png'></a>
+<a href='http://www.microsoft.com/'><img alt='Microsoft' title='Microsoft' width='100' height='100' src='/events/2014-chicago/logos/microsoft-100x100.png'></a>
+<a href='http://www.orbitz.com/'><img alt='Orbitz' title='Orbitz' width='100' height='100' src='/events/2014-chicago/logos/orbitz-100x100.png'></a>
+<a href='http://www.circonus.com/'><img alt='Circonus' title='Circonus' width='100' height='100' src='/events/2014-chicago/logos/circonus-100x100.png'></a>
+<br />
+
+
+<br/>
+<br/>
+<h1>Silver sponsors</h1>
+
+
+<a href='http://drw.com/'><img alt='DRW Trading' title='DRW Trading' width='100' height='100' src='/events/2014-chicago/logos/drw-100x100.png'></a>
+<a href='http://victorops.com/'><img alt='VictorOps' title='VictorOps' width='100' height='100' src='/events/2014-chicago/logos/victorops-100x100.png'></a>
+<a href='http://servercentral.com/'><img alt='ServerCentral' title='ServerCentral' width='100' height='100' src='/events/2014-chicago/logos/servercentral-100x100.png'></a>
+<a href='http://puppetlabs.com/'><img alt='Puppet Labs' title='Puppet Labs' width='100' height='100' src='/events/2014-chicago/logos/puppetlabs-100x100.png'></a>
+<a href='http://www.enova.com/'><img alt='Enova' title='Enova' width='100' height='100' src='/events/2014-chicago/logos/enova-100x100.png'></a>
+<a href='http://www.10thmagnitude.com/'><img alt='10th Magnitude' title='10th Magnitude' width='100' height='100' src='/events/2014-chicago/logos/10thmagnitude-100x100.png'></a>
+<br />
+
+
+<br/>
+<br/>
+<h1>Bronze sponsors</h1>
+
+
+<a href='http://www.opinionlab.com'><img alt='Opinion Lab' title='Opinion Lab' width='100' height='100' src='/events/2014-chicago/logos/opinionlab-100x100.png'></a>
+<br />
+
+
+<br/>
+<br/>
+<h1>Media sponsors</h1>
+
+<a href='http://oreilly.com/'><img alt='O&#39;Reilly Media' title='O&#39;Reilly Media' width='100' height='100' src='/events/2014-chicago/logos/oreilly-100x100.png'></a>
+<a href='http://arresteddevops.com/'><img alt='Arrested DevOps' title='Arrested DevOps' width='100' height='100' src='/events/2014-chicago/logos/ado-100x100.png'></a>
+<a href='http://foodfightshow.org/'><img alt='Food Fight Show' title='Food Fight Show' width='100' height='100' src='/events/2014-chicago/logos/ffs-100x100.png'></a>
+<a href='http://theshipshow.com/'><img alt='The Ship Show' title='The Ship Show' width='100' height='100' src='/events/2014-chicago/logos/tss-100x100.png'></a>
+<a href='http://www.blacksintechnology.net/'><img alt='Blacks in Technology' title='Blacks in Technology' width='100' height='100' src='/events/2014-chicago/logos/bit-100x100.png'></a>
+<br />
+
+
+<br/>
+<br/>
+<h1>Wifi sponsors</h1>
+
+<a href='https://meraki.cisco.com/'><img alt='Cisco Meraki' title='Cisco Meraki' width='100' height='100' src='/events/2014-chicago/logos/cisco-100x100.png'></a>
+<a href='https://www.backstopsolutions.com/'><img alt='Backstop Solutions Group' title='Backstop Solutions Group' width='100' height='100' src='/events/2014-chicago/logos/backstop-100x100.png'></a>
+<br />
+
+</div>
+  <div class="span-8 last">
+  </div>
+
+
+</div>
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9713393-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
