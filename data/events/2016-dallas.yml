@@ -11,7 +11,7 @@ cfp_date_announce: 2016-07-01
 coordinates: "32.7767, -96.7970" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Grapevine Convention Center, 1209 S. Main Street, Grapevine, TX 76051" # The name of your location
 navigationelements: ["welcome", "contact", "location", "program", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Mike Rosado", "Jeremy Hillin", "John Jelinek", "Gokul Sridharan", "Ben Johnson", "Mark Saum", "Ken Valerdi"]
+team: ["Annie Hegdpeth","Michael Hegdpeth","John Jelinek","Ben Johnson","Joshua Littlejohn","Mike Rosado","Mark Saum","Gokul Sridharan","Ken Valerdi"]
 organizer_email: "organizers-dallas-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
@@ -21,6 +21,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold    
   - id: chef
     level: platinum
+  - id: victorops
+    level: silver
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
