@@ -19,9 +19,15 @@
       {{ end }}
     {{ end }}
     {{ if eq $e.status "current" }}
-      <div class = "sponsor-cta">
+      {{ if eq $e.sponsors_accepted "no" }}
+        <div class = "sponsor-cta">
+          <br>
+        </div>
+      {{ else }}
+        <div class = "sponsor-cta">
         <a href = "/events/{{ $e.name }}/sponsor">Become a {{ .label }} Sponsor!</a>
-      </div>
+        </div>
+      {{ end }}
     {{ else }}
       <div class = "sponsor-cta">
       </div>
