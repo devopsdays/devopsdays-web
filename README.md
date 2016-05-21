@@ -72,6 +72,9 @@ All logos will be constrained, via markup, to 100px square; combined with the im
 
 The program is driven by the program.md file in your event (copied from the [sample program.md](https://raw.githubusercontent.com/devopsdays/devopsdays-web/master/content/events/sample-event/program.md). To generate a data-driven program, look at the Minneapolis 2016 [speakers data files](https://github.com/devopsdays/devopsdays-web/tree/master/data/speakers/2016/minneapolis) and [program directory](https://github.com/devopsdays/devopsdays-web/tree/master/content/events/2016-minneapolis/program).
 
+### Speaker Images
+The headshots for your speaker images should be exactly 500px wide (they display at 250px wide, but upload them at 500px wide in order to make them look good on retina displays). 
+
 ## Binary files
 
 Generally speaking, you should avoid storing any files other than logos or small images inside the repo itself (out of consideration for your fellow devopsdays organizers who have to pull down this repo). Please follow these guidelines:
