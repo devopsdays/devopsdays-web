@@ -1,0 +1,1023 @@
+"votes","type","url","author","title","description","voter1"
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Your Agile Performance Testing Checklist: MultiMechanize, Bees with Machine Guns, PageSpeed and AppDynamics/","Dustin Whittle","Your Agile Performance Testing Checklist: MultiMechanize, Bees with Machine Guns, PageSpeed and AppDynamics","Abstract:
+
+DevOps, when done right, usually goes unnoticed. It&rsquo;s only when something breaks that all eyes turn to IT. If your boss only sees you when the app is down, however, that&rsquo;s not really doing your career any favors. In this session we&rsquo;ll talk about how to prove your value to the organization by looking at the positive side &ndash; that is, how much money you&rsquo;ve saved your company. We&rsquo;ll take a look at how you can use tools like Chef, Puppet, Sensu and Logstash to quantify your value to your company. After this session, you&rsquo;ll be able to walk into a meeting with your boss ready to talk about your value to the company (and to ask for a raise).
+
+The performance of your application affects your business more than you might think. Top engineering organizations think of performance not as a nice-to-have, but as a crucial feature of their product. Those organizations understand that performance has a direct impact on user experience and, ultimately, their bottom line. Unfortunately, most engineering teams do not regularly test the performance and scalability of their infrastructure. Join this session to find out about the latest performance testing tools and why your team should add performance testing to your agile development process. We will dive in to how to evaluate performance and scalability with MultiMechanize, Bees with Machine Guns, and Google PageSpeed. In addition, we&rsquo;ll look at how to track the impact of every release with AppDynamics. You will leave this session with an understanding of how to automate performance testing and evaluate the impact it has on performance and your business.
+
+Agenda:
+
+
+Why performance matters?
+What was the performance impact the last release?
+What about the impact of that configuration change or package upgrade?
+Case studies on business impact of performance at Google/AOL/Shopzilla
+Tools of the trade
+MultiMechanize
+Bees with Machine Guns
+Google PageSpeed
+AppDynamics
+Best practices
+Server Side
+Client Side
+Integrating into your process
+develop -&gt; test -&gt; deploy -&gt; rinse &amp; repeat
+
+
+
+Speaker:
+
+Dustin Whittle
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/What we can learn about DevOps from Science Fiction/","Dawn Foster","What we can learn about DevOps from Science Fiction","Abstract:
+One of the important ideas behind DevOps is that people from
+development and operations should work together, just like the Doctor
+(a Time Lord) and his human companions work together to solve the
+problems of the universe. We're moving away from a model where control
+was centralized in the hands of a few, like the way the spice was
+tightly controlled in Dune, and we're sharing more of the
+responsibilities, like how the Stargate SG-1 team collaborates with
+the Tok'ra, the Asgard and others. We also work to automate processes
+and manage configurations, not unlike how Asimov created his 3 laws to
+make sure that robots, like our servers, were well-behaved and
+performing according to some standard rules. This is a fun session,
+but it focuses on real lessons from DevOps as told through science
+fiction.
+
+Note: this would be similar to the talk that I recently gave at
+LinuxCon, but with a focus on DevOps lessons, instead of community,
+and it would be much shorter to fit the Ignite format:
+http://www.slideshare.net/geekygirldawn/sci-fiandcommunity
+
+Options: I could also do this as a community talk if you prefer to
+have me
+talk about community, instead of DevOps, since community is also very
+relevant for DevOps projects.
+
+Speaker:
+
+Dawn Foster is the Community Manager at Puppet Labs. Dawn has more
+than 18 years of experience in technology with expertise in community
+building, open source software, and much more. She is passionate about
+bringing people together through a combination of online communities
+and real-world events. She has experience building new communities,
+and managing existing communities with a particular emphasis on
+developer and open source communities. Most recently, Dawn was leading
+the Community Office within Intel&rsquo;s Open Source Technology Center. In
+addition to working at Intel, Dawn was an online community consultant,
+and she has worked at Jive Software, Compiere, and a Midwestern
+manufacturing company in positions ranging from Unix system
+administrator to market researcher to community manager to open source
+strategist. Dawn holds an MBA from Ashland University and a bachelor&rsquo;s
+degree in computer science from Kent State University.
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/What is DevOps/","Alex Gaynor","What is DevOps?","Abstract:
+
+DevOps is a thing people talk about a lot today, but given any two people,
+you'll probably get at least three explanations for what it means. This talk
+endeavors to break down what DevOps actually means, and give a score card for
+how we're doing.
+
+DevOps is something you do, not something you are. Titles such as 'DevOps'
+engineer fundamentally misunderstand what this phenomenon is about.
+
+What is DevOps? DevOps is applying engineering methodologies to operations.
+Turning what used to be sys-admin problems, into engineering problems.
+
+What are engineering methodologies anyways? Testability, introspectability,
+and automation. How are we doing?
+
+We're doing nicely on automation. Thus far this has really been at the heart of
+the tools we look at.
+
+But we're doing lousy at introspection and testing. Very few DevOps tools take
+advantage of these paradigms of software development. I'll propose some ways in
+which we can improve this.
+
+Some material will be borrowed from a previous talk I gave, whose topic was
+unrelated, but which overlaps on some of the 'what are engineering
+methodologies' material
+(https://speakerdeck.com/alex/programming-and-programmers).
+
+Speaker:
+
+Alex Gaynor
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/What happened to the Dev in DevOps/","Mikhail Panchenko (mihasya)","What happened to the Dev in DevOps?","Abstract:
+
+Great changes have been under way in our industry and or profession. With great
+joy we have watched the advent of the DevOps movement and the formation and
+growth of a community. Yet from my perch on the Dev side of the equation, I
+can't help but feel inadequate. We've changed, sure, but we have not changed in
+a way that is truly commensurate. We've gotten away from the original spirit of
+'Dev+Ops cooperation.' Operators have been laboring to grease code's path to
+production, reducing the overhead and friction experienced by developers.
+Meanwhile, many developers get to pass the buck, as organizations falsely
+assume that Devops is a whole new 'job' or 'team' or just a new name for what
+they used to call 'Ops.'  What can developers do to return the favor and reduce
+the friction in the lives of operators? What tools and (dare I say it?)
+processes can teams introduce to better shield operators from alert fatigue,
+cognitive overload, sleep deprivation, and boredom? We'll take a look at how
+environment consistency, ease of instrumentation, a little bit of discipline,
+and a few other dev-side nuances can lead to ever more harmony between
+developers and operators.
+
+Speaker:
+
+Mikhail Panchenko (mihasya)
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Visualization of Kanban Flow for DevOps/","Greg Borchers","Visualization of Kanban Flow for DevOps","Abstract:
+
+Ignite talk to quickly describe a common visualization problem DevOps
+and a possible solution.
+
+Visualization of the flow present in a kanban board is difficult,
+without actually reading the details. The ignite talk will present an
+idea that allows an 'across the room grok' of what is going on. The
+goal is that with the visualization at arms length, the viewer will be
+able to understand the key information This ignite talk will describe
+a visualization for a Kanban board that improves the ability to see
+the level of active tasks that are working/waiting and undone/done.
+
+This is important to DevOps members because kanban is becoming a
+common way of managing flow.
+
+The standard boards are useful up close, but a better visualization is needed.
+
+Speaker:
+
+Greg Borchers
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Vagabond - Infrastructure testing and development tool/","Chris Roberts","Vagabond - Infrastructure testing and development tool","Abstract:
+
+Infrastructure automation development can be time consuming,
+especially when implementing solutions requiring integration and
+testing between multiple nodes. Vagabond aims to accelerate this
+process by decreasing the amount of time and interaction required to
+build complex stacks in development.
+
+Currently targeted at Opscode Chef[1], Vagabond is able to create an
+entire isolated infrastructure stack which not only provides a
+sandboxed development environment but also an integrated testing
+environment. Building off the existing test-kitchen[2] testing suite,
+Vagabond adds cluster style testing support for integration testing.
+It also introduces serverspec[3] to provide more black box acceptance
+style testing.
+
+This talk will start with a brief history on the evolution of
+Vagabond, covering the original problem set, the features that grew
+from the initial solution, and the new features currently being
+implemented. It will then move to a more in-depth look at setting up
+and integrating Vagabond into an example development environment to
+build multi-node stacks. Finally, some simple tests will be reviewed
+and added to the example environment, concluding the presentation with
+a ground up stack build and test run demonstration.
+
+Speaker:
+
+Chris Roberts
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/The Ghost Of DevOps Past: Creating a historical record of your infrastructure/","Brad Heller","The Ghost Of DevOps Past: Creating a historical record of your infrastructure","Abstract:
+Are you keeping a log of your infrastructure as it changes? Developers
+log the state of their application, but there is no equivalent for
+DevOps.
+
+As your cloud infrastructure becomes increasingly ephemeral, knowing
+what the state of your infrastructure was three Tuesday's ago when you
+had that one outage is nearly impossible. Add to that the fact that
+ops teams have more people and the problem is compounded.
+
+In this talk we'll discuss why it's important for you to keep track of
+the state of your infrastructure and show examples of infrastructure
+logs and how you can use them for capacity planning and postmortems.
+
+Speaker:
+
+Brad Heller
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/The DevOps Pay Raise: Quantifying Your Value to Move Up the Ladder/","Dustin Whittle","The DevOps Pay Raise: Quantifying Your Value to Move Up the Ladder","Abstract:
+
+DevOps, when done right, usually goes unnoticed. It&rsquo;s only when something breaks that all eyes turn to IT. If your boss only sees you when the app is down, however, that&rsquo;s not really doing your career any favors. In this session we&rsquo;ll talk about how to prove your value to the organization by looking at the positive side &ndash; that is, how much money you&rsquo;ve saved your company. We&rsquo;ll take a look at how you can use tools like Chef, Puppet, Sensu and Logstash to quantify your value to your company. After this session, you&rsquo;ll be able to walk into a meeting with your boss ready to talk about your value to the company (and to ask for a raise).
+
+
+Why devops matters?
+Tools of the trade
+
+
+Chef + Puppet
+Logstash + Loggly + SumoLogic + Splunk
+Fabric + Capistrano + Jenkins
+Sensu + Graphite
+AppDynamics
+
+
+Your real value
+
+
+A case study in the cost of failure
+Reactive to production failures
+
+
+How to win
+Automate everything
+Maximum Visibility with Minimum Effort
+
+
+
+Speaker:
+
+Dustin Whittle
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/That's Mr. The Plague to you. Security and this devops thing/","Ben Hughes","That's Mr. The Plague to you! Security and this devops thing.","Abstract:
+
+The landscape of security is very different to when we were
+younger. What possible directions is it heading in, and have we been
+looking at it wrong all this time?
+
+Devops culture has brought a number of improvements to the way engineering
+and operations interact with each other and it's time security comes along
+for the party too! This talk will discuss what we, at Etsy, have done to
+make people stop thinking of security as a four-letter word
+
+Rationale:
+
+It's a two part talk, at a dazzling pace, security talk and a devops talk.
+
+I think this would be grand, as security is occasionally an after thought.
+A lot of smaller shops don't have a dedicated security person or team, and
+this talk features things you do even without that. Plus devops really
+needs to stop being an organisational silo.... (=
+
+Speaker:
+
+Ben Hughes
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Test Kitchen 1.0 - A Config Management-Neutral Integration Testing Tool/","Fletcher Nichol","Test Kitchen 1.0 - A Config Management-Neutral Integration Testing Tool","Abstract:
+
+We've come a long way with infrastructure as code and are getting closer to better test frameworks and facilities. Test Kitchen was originally developed with Chef in mind, but it is now becoming a standard across different configuration management tools.
+
+This talk will focus on how Test Kitchen can help you shorten the feedback cycle during the development of infrastructure code and discover how it plays nice with other existing tools like ChefSpec, RSpec Puppet, and Vagrant.
+
+Learn about unit and smoke testing infrastructure as code in a Test Driven Development (TDD) cycle. Besides the technology we will look into the benefits of this faster feedback cycle and the current/future state of infrastructure as code testing.
+
+Speaker:
+
+Fletcher Nichol is a software developer from Edmonton, Canada who has worked in jobs ranging from systems administrator to web application developer. He spends far too much time writing open source software and far too little time playing the drums. He is active in many automation and testing projects such Vagrant and Chef and is the lead developer of Test Kitchen 1.0. Fletcher works for Heavy Water Operations, helping companies of all sizes automate and scale their business.
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/So you're the Puppet guy right/","Spencer Krum","So you're the Puppet guy right?","Abstract:
+
+This is a talk about my experience at my employer UTi Worldwide Inc.
+When I began a few months ago we had a Puppet infrastructure set up by
+a contractor that didn't do anything and wasn't being touched. I was
+brought in to change that and bring the light of automation to the
+cave of the uber-corporate world. I thought my biggest challenge would
+be technical, upgrading old Puppet infrastructure and automating app
+deployment with Puppet. What I found was that my biggest challenge was
+cultural. I needed to break down mental barriers and old habits, I
+needed to reframe DevOps for an older generation of administrators, I
+needed to teach not only the tools but the workflow and the mental
+patterns of DevOps. I needed to lower the price of admission to the
+automation expo. And most of the things I tried didn't work.
+
+This is going to be my story of how we went from no Puppet, to me
+sitting in the corner being the Puppet guy, to the whole team working
+with Puppet, version control and data driven infrastructure over the
+course of a few months. I'm going to talk about what I tried to do to
+engage my team that didn't work, what did work, and what I would do
+differently if I could do it all over again.
+
+The title of this talk comes from what people would come up to my cube
+and say to me. The team wanted to use Puppet, but for a while that
+meant having the 'Puppet guy' do it, not the whole team working
+collaboratively on a corpus of Puppet code.
+
+I'm giving this talk primarily to reach the people who want to DevOps
+but they're meeting resistance in their organization.
+
+I've never given this talk before, but I've talked at PuppetConf,
+Cascadia IT Conf, Open Source Bridge, and a few user groups in
+Portland, including PdxDevOps and Puppet Users Group. I am a
+comfortable public speaker and I usually get high marks for energy and
+humor. I am a co-author of the soon-to-be-published second edition of
+Pro Puppet (originally by James Turnbull and Jeff McCune.)
+
+I'm mostly talking about our adoption of the Puppet tool, but this
+will not be a talk about Puppet, it will be a talk about affecting
+change and adoption of a new workflow. The entire talk could easily be
+s/Puppet/Chef/g or s/Puppet/salt/g.
+
+Speaker:
+
+Spencer Krum
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Shifting Left for Secure, Component-based Development/","Mark Troester","Shifting Left for Secure, Component-based Development","Abstract:
+
+Cyberattacks are becoming more pervasive - think about the recent FBI advisory for the Struts exploit.
+
+Applications are the new threat vector of choice - Ponemon states that 90% of exploits are app related.
+
+Applications are now constructed of open source components - Research shows an app now consists of 90% components. .
+
+What's this got to do with DevOps?
+
+
+Some would say that DevOps is a reaction to Agile, which makes sense because DevOps is only going to be effective if it accommodates how apps are built today. That means supporting agile, component-based development.
+While organizations invest in network and perimeter security, application security is not a major focus. This focus needs to change based on the fact that cyberattacks are primarily focused on the application. DevOps is a great way to assimilate application security into the development process.
+The Struts example pulls it all together - it shows how applications are built from open source frameworks and components. The volume, dependency complexity, variety and release cadence of these components must be managed so organizations can realize the benefits of components while managing security, licensing and quality risk.
+
+
+
+We'll use real life examples to cover the following topics in this session:
+
+
+What open source component-based development means to DevOps - how do components work in conjunction with agile development? How should DevOps create a release management process that can support components? How can DevOps ensure that applications can be built and delivery quickly while mitigating security, licensing and quality risk.
+Why DevOps is a natural fit for integrating security - the DevOps philosophy to drive communication and collaboration can be extended to include the security organization. Integrating the security team and security processes can be done as part of the overall DevOps approach.
+How the DevOps 'shift left' approach can help improve and secure component-based development - if organizations can shift effort to the left, they can deliver applications more quickly and more cost effectively. We'll discuss how managing components effectively can prevent problems and allow flaws to be discovered and remediated early in the development lifecycle.
+
+
+
+Speaker:
+
+Mark Troester
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Sensu Introduction/","Sean Porter","Sensu Introduction","Abstract:
+
+This talk is an introduction to Sensu, an open source monitoring framework
+designed for the 'cloud'. I tell the story of how Sensu came to be,it's design
+goals, and the philosophy behind it. I explain how Sensu works, how it's configured,
+and provide practical usage examples. I share my experiences operating
+Sensu at scale and demonstrate what it's like to work with Sensu and
+Opscode's Chef.
+
+Speaker:
+
+Sean Porter is a toolsmith, with a love for composable systems. A
+practitioner of passion driven development with an appetite for a good
+post-mortem. Author of Sensu, a monitoring framework, and the
+caretaker of its community. A tea connoisseur and admirer of fine
+wine. Works at Heavy Water Operations, helping people automate and
+monitor their infrastructure.
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Replacing Process and Barriers with Feedback Loops and Trust/","Tim Smith","Replacing Process and Barriers with Feedback Loops and Trust","Abstract:
+
+Traditional organizations operate in silo'd environments isolating
+development from operations. Within that structure operations teams
+create processes and intentional gates to limit the access and damage
+to infrastructure by development teams. Processes and gates are
+created as Ops often feel they have ownership, and a responsibility to
+prevent damage to infrastructure.
+
+While intended to prevent damage the gates and processes create
+division amongst teams, which leads to further customer-impacting
+errors. These structures are created with the best of intentions, but
+are not the most effective technique.
+
+Effective Devops organizations give developers full access to
+infrastructure, and at the same time expect developers to own the
+outcome of their coding and changes. Technologies such as advanced
+monitoring / metrics systems, continuous integration testing, and
+automated failure alerting give feedback post-change. These
+technologies allow for a rapid deployment pace, which lessens the risk
+of individual changes, and allows for easier troubleshooting in the
+event of a failure. In addition, bringing development into the
+production environment encourages dialog and trust between teams,
+which leads to a better, easier to support product.
+
+Speaker:
+
+Tim Smith
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Put Some Dev in Your Ops: Functional Programming Applied to Systems Administration/","Mike English","Put Some Dev in Your Ops: Functional Programming Applied to Systems Administration","Abstract:
+
+This presentation will examine how functional programming concepts like referential transparency can be applied to problems like package management in the domain of operations and release engineering.
+
+NixOS and Guix are two GNU/Linux distributions applying functional programming concepts to package management and build systems to create systems that are better defined, more efficient, and more flexible.
+
+Package maintainers for Debian and developers for Tor have started research into reproducible, deterministic builds to enhance security.
+
+Regulated industries often use traceability matrices to map requirements onto the code and artifacts produced.
+
+We will look at how efforts like these, in addition to the seemingly mundane version number, relate to concepts at the heart of functional programming and how we might mine these ideas for inspiration to improve the way we operate.
+
+Speaker:
+
+Mike English
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/NoOps Cassandra at Scale on AWS/","Chris Fregly","NoOps Cassandra at Scale on AWS","Abstract:
+
+At Stackdriver, we rely heavily on Cassandra running in AWS to store,
+analyze, and query ~1.5 billion data points per day.
+
+In this presentation, we highlight our reasons for choosing Cassandra
+over other platforms as well as describe the novel architecture that
+allows us to tolerate failures inherent to cloud environments.
+
+We share tips, tricks, and best practices for running Cassandra on AWS
+with Little-to-NoOps.
+
+Speaker:
+
+Chris Fregly
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Monitoring a Scalable Highly-Available Distributed System Using NetflixOSS Cassandra and Various Monitoring Tools/","Chris Fregly","Monitoring a Scalable, Highly-Available Distributed System Using NetflixOSS, Cassandra and Various Monitoring Tools","Abstract:
+
+In this talk, I present a cloud-native reference architecture called
+FluxCapacitor (www.fluxcapacitor.com) that demonstrates most of the
+key NetflixOSS components as well as Cassandra running on AWS.
+
+FluxCapacitor emphasizes monitoring, metrics collection, and alerting.
+I'll compare self-hosted solutions such as Graphite/Nagios to hosted
+solutions such as Stackdriver.
+
+Speaker:
+
+Chris Fregly
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Just What Is This Continuous Delivery Thing, Anyway/","Eric Shamow","Just What Is This Continuous Delivery Thing, Anyway?","Abstract:
+
+Introduces the basic concepts of continuous delivery asking 'what is continuous delivery,' 'why does my company or development team want it,' and 'what does it do for me?'  The talk focuses on the notions behind the Theory of Constraints as well as Gene Kim&rsquo;s Three Ways and how CD relates to these and to DevOps as a whole.
+
+Speaker:
+
+Eric Shamow
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Infrastructure as Code, From a Developer's Point of View/","Fletcher Nichol","Infrastructure as Code, From a Developer's Point of View","Abstract:
+
+Infrastructure as Code. Catchy phrase and sounds good on paper, right? But what does that really mean? What would it take to model a complex system as a work of software?
+
+In this talk we frame the problem through the lens of a software engineering process. We will look at what goes into version control, collective code ownership, feature branching and environments, testing strategies, refactoring, and deployment among some of the topics. Put on your 'Dev' hat and see what happens when we expand on the Code metaphor.
+
+Speaker:
+
+Fletcher Nichol is a software developer from Edmonton, Canada who has worked in jobs ranging from systems administrator to web application developer. He spends far too much time writing open source software and far too little time playing the drums. He is active in many automation and testing projects such Vagrant and Chef and is the lead developer of Test Kitchen 1.0. Fletcher works for Heavy Water Operations, helping companies of all sizes automate and scale their business.
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Infrastructure Testing in Practice/","Seth Vargo","Infrastructure Testing in Practice (Panel Proposal)","Abstract:
+
+Panelists:
+
+
+Seth Vargo
+Tim Smith
+TBD (preferably someone from Puppet)
+TBD (preferably someone from Salt)
+TBD (preferably someone from Ansible)
+
+
+
+If you are interested in participating in the panel, please contact proposals-portland-2013@devopsdays.org
+
+Topics
+
+What is a &ldquo;test&rdquo;?
+
+We often talk about &ldquo;testing&rdquo;, but what is testing? What is the purpose of a test? Does testing criteria differ between organizations? How does CI play into this?
+
+Unit vs. Functional vs. Acceptance vs. Integration Tests
+
+What are the various levels of testing in the Devops world? You can test the Chef cookbook or Puppet Manifest, but when should you control the universe and when should the universe be a variant? What is already tested by these product manufacturers? Are you testing too much?
+
+Monitors as Tests
+
+When entering high-functionality tests, when does a test actually become a monitor? Should we duplicate tests as monitors and monitors as tests? Is PagerDuty really an extension of CI?
+
+Units and Orchestration in Context
+
+Running Test Kitchen on code that deploys an Apache Web Server is an acceptance test; but that code is a unit of infrastructure. What is a unit test at scale? How does an organization apply integration or acceptance tests to the entire infrastructure in a cost-effective manner? Can we leverage cloud providers to aide in this process? How often should this kind of testing be run / How does CI play into this?
+
+Panelists:
+
+Seth Vargo, Tim Smith
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/High Availability Server Clusters/","D. Cooper Stevenson","High Availability Server Clusters","Abstract:
+
+This presentation describes the process by which services remain online even after a catastrophic failure. DRBD, Heartbeat and Pacemaker (all OSS) automatically fail the replicated mass storage arrays and server daemons to the cluster's standby server. I will present a best practice guide for the technologist building her own cluster. I will further provide practical (i.e. database) examples.
+
+Production servers must stay online. Hardware and networking failures are among the primary causes of downtime.
+
+Wouldn&rsquo;t it be nice to have a system that reliably failed over to another server when Moore&rsquo;s Law strikes? Wouldn&rsquo;t it be nice if the standby server takes over without interruption of service to the users?
+
+Since the Linux kernel 2.6.33, a system for replicating the server&rsquo;s storage comes built-in. The Distributed, Replicated Block Device, or DRBD, replicates a system&rsquo;s mass-storage &ldquo;block for block.&rdquo; DRBD, along with the OSS Heartbeat and Pacemaker, lets your server stack automatically failover to a standby should the primary server fail.
+
+So, if you'd rather sleep at night rather than worrying about your local or cloud services staying online, this presentation is where it's at!
+
+Speaker:
+
+D. Cooper Stevenson
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Harnessing The Power of Conflict/","Nikolaos Katsimpras","Harnessing The Power of Conflict","Abstract:
+
+The increasing popularity of Devops the past few years signifies an
+organic transition in the IT industry. A remarkably similar transition
+has been slowly ongoing in multiple industries and fields, from
+academia to finance and even policy. We have begun to realize the
+paramount importance of effective interdisciplinary collaboration as
+the only solution for the immense complexity of the next generation of
+challenges. This requires a highly systemic approach that transcends
+the traditional organizational barriers. Progressive, innovative, and
+brilliant products require desiloisation, which creates conflict. The
+word conflict may include cultural or lingual connotations of violence
+and destruction, however once we harness its energy and steer it in a
+productive manner then we can maximize our collective efficiency.
+Devops is all about harnessing the power of conflict. This talk will
+focus on the significance of effective conflict resolution for Devops
+based on basic concepts of social psychology and systems thinking. It
+will begin by addressing the role of each individual member and
+transition into intra and inter group dynamics by introducing the
+audience to notions of cooperation and competition, the value of
+intellectual opposition, trust, and positive interdependence.
+
+Speaker:
+
+Nikolaos Katsimpras
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Hacking culture with better tools/","Luke Kanies","Hacking culture with better tools","Abstract:
+
+Everyone knows technology can't solve political problems, but
+sometimes software can make political problems small enough to make
+them tractable. This talk will cover specific ways that software can
+shrink political and cultural barriers, such as getting teams to work
+together, spreading best practice across an organization, converting
+from a push to a pull orgnaization, and focusing on the goal rather
+than the mechanism. It will include cases from both within a
+high-growth company and from the perspective of a software purveyor,
+and we will cover both good examples and horrible warnings.
+
+For example, many people try to switch from a culture of manually
+maintaining systems to a fully automated world by rebuilding
+everything, but as most developers could tell you, full rewrites
+rarely work. Instead, we've seen many organizations successfully
+change both the infrastructure and the team mentality by starting
+small, building credibility over time, and always making the better
+ways easier to do than the old ways.
+
+Poor communication is also often a major source of cultural friction.
+We have seen many cases where increases in communication, and
+reduction in the cost of communication, quickly ramp up the gears of
+change.
+
+Conversely, strategic initiatives tend to cause everyone to lose sight
+of their core jobs, or gain no traction because people do not want to
+let the ball drop. With enough leadership and support, they can work,
+but they're far more likely to fail, and fail big, than a more
+guerrilla-style effort.
+
+Speaker:
+
+Luke Kanies
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Gaming DevOps - Operating High Traffic Games for Mobile/","Eduardo Saito","Gaming DevOps - Operating High Traffic Games for Mobile","Abstract:
+GREE creates free-to-play mobile games for iOS and Android devices played by millions of people around the world.
+
+This session will cover how we combined DevOps and ITIL practices into daily operations, including how monitor game health, deal with incident response, enable mass system configuration, and handle release management.
+
+We will provide insights into the benefits and challenges of working with Amazon AWS and how game analytics are used to improve player engagement and drive monetization.
+
+In addition, technical details will be shared around implementing EC2 auto-scaling policies combining on-demand and scheduled events, supporting major spikes in game traffic.
+
+Speaker:
+
+Eduardo Saito
+
+I'm director of operations for a gaming company with offices in US, Canada, Japan and Korea, and we have multiple titles in the top grossing list in both iOS and Android app stores, including Modern War, Crime City, Kingdom Age, War of Nations and Jackpot Slots.
+
+My team operates a farm of thousands of servers in both AWS and traditional datacenter, and support traffic generated by millions of players around the world.
+
+We've implemented a DevOps team in the last 2 years, and I think we have interesting stories to share about the challenges we faced during this period, moving from a more traditional ITIL-based operations to a DevOps approach.
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Gamification of Infrastructure/","Marni Cohen","Gamification of Infrastructure","Abstract:
+
+Gamification is rad and all, but how can it actually make my day job
+as a SysAdmin better without making it worse first?  This talk will
+explore ways to implement types of gamification in everyday use,
+ranging from software to employee infrastructure.
+
+I'll cover the following:
+
+
+The two main types of gamification, and the strengths/weaknesses of
+them when applied to working in a tech company
+
+
+Competitive (rewards/recognition)
+Experiential (self expression, closure)
+
+
+Gamification within infrastructure on three levels:
+
+
+Within the tools we use
+
+
+Gamification plugins for tools we already use (jira, zendesk,microsoft word)
+personal use v. office wide
+Ways to gamify tools without plugins (hip chat, etc)
+
+
+Within the tools we make
+
+
+what to consider when making a tool (example: employee directory)
+How to do this without derailing from your project
+
+
+Within the people we interact with
+
+
+Alternative Reality Gaming in the workplace
+The incentives of gaming vs. the incentives of working
+
+
+
+
+
+
+
+Speaker:
+
+Marni Cohen
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Don't fear the OpsWorks embrace the automation!/","Ted Timmons","Don't fear the OpsWorks: embrace the automation!","Abstract:
+
+Do you have to set up new EC2 instances using some saved notes? A
+small bash script? You have to save an AMI? Level up and start using
+OpsWorks ('chef for AWS'). I'll run through your best documentation
+resources, how to find cookbooks, and how to make complicated recipes.
+
+Speaker:
+
+Ted Timmons
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Doing it Wrong - How to Break A Big Important System/","Jeremy Grosser","Doing It Wrong: How to Break A Big Important System","Abstract:
+
+SYNOPSIS
+Automation enables us to make more changes at a faster pace than ever
+before. This talk is a series of cautionary tales and lessons about
+what happens when those changes go awry in production and how to avoid
+making the same mistakes.
+
+FORMAT
+30 minute presentation, could be condensed into an Ignite talk with
+less detail
+
+DESCRIPTION
+This talk will cover a range of real-world scenarios, the decisions
+that led to them and their impact to a production service. Mostly,
+these are war stories.
+
+Launching a redesign of a high profile website and vastly
+underestimating app performance. A very brief overview of the site's
+architecture and how it unraveled in the days following the launch.
+
+Upgrading Hadoop, even by a point release should not be taken lightly.
+A story of how a junior admin destroyed six months of HDFS data by
+forgetting to flip a single bit.
+
+When running distributed database clusters on EC2, you're bound to
+encounter some unusual behavior. In this case, we had servers randomly
+reboot for two months straight and managed to reproduce the problem
+using a brute-force method which led to confirmation of a kernel bug.
+
+Sometimes managed hosting providers aren't as capable as you'd like.
+Sometimes you ask them to reimage a server, and your entire internal
+VLAN goes down. How we survived this outage... Three times.
+
+Speaker:
+
+Jeremy Grosser
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Devops - the best thing since sliced bread/","Elijah Lovejoy","DevOps: The Best Thing Since Sliced Bread","Abstract:
+
+My team @ &lt;it.megacorp&gt;has been working to sneak in /evangelize agile,
+continuous integration, and other goodness for years, and the one
+truth we can be sure of, is that 99.999% of the time, managers and
+executives will glaze over when a developer starts to talk about
+agile, continuous integration, and other goodness.
+
+DevOps is changing this: All of a sudden, we have a found a way to
+tell suits about why they should care about agile, about debt, and
+about CI. More than that, we're finding other teams that have been
+trying to do bottoms-up culture change, and we're seeing the needle
+move.
+
+This talk includes references to a lot of the talks you've already
+seen/ heard of (flicker '09! amazon '11! gene kim '12), since managers
+like to know what other companies are doing. And it talks about how,
+after years of failing to get suits the slightest bit interested in
+agile &amp; CI, we're getting some real traction.
+
+This presentation is entirely about managing up, by someone who used
+to be a web developer and now spends too much time in meetings and
+writing powerpoint presentations.
+
+Speaker:
+
+Elijah Lovejoy
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/DevOps outside of WebOps. Cultural change from the ground up/","Michael Stahnke","DevOps outside of WebOps. Cultural change from the ground up.","Abstract:
+DevOps has been a hot topic for several years, but  it&rsquo;s nearly always
+talked about with respect to web operations and startups. Since DevOps
+starts culturally, you can take a bottom-up approach and create a
+DevOps mindset inside your organization, even if you&rsquo;re not deploying
+code twenty times a day.
+
+Culturally, you can win a DevOps ground war. In this talk we&rsquo;ll
+discuss changes to team, process and culture that can move your
+organization forward. We&rsquo;ll consider a reactive team mired in
+fire-fighting and incapable of making headway, then watch as change
+that betters the team&rsquo;s output and perception throughout the
+organization is slowly introduced. We&rsquo;ll cover root-cause analysis
+efforts, bringing pain forward, experimentation, and selling
+automation and DevOps tooling to management.  This talk will not focus
+on tools, but rather procedural and cultural improvements that can
+make your operations team better.
+
+Notes:
+
+This case study is something I lived through at a business unit in one
+of the largest companies in the world, (not an IT company).  I think
+this talk is different than other talks in that DevOps days has always
+hammered culture as the core item needed to succeed, but I felt like
+it rarely offered tips and guides to fix or influence culture. Most
+talks were about already awesome culture, which is great if you can
+find it. Sometimes people can't job hop and relocate to find a better
+culture so they have to influence and change their own business
+culture.
+
+Speaker:
+
+Michael Stahnke
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Deploying all day without breaking the Internet/","Sean O'Connor","Deploying all day without breaking the Internet","Abstract:
+
+When operating at a certain scale, things can get hard. In addition to
+dealing with a large volume of requests/data, downtime becomes less
+and less acceptable.
+
+Often as web companies get big, they face a pair of opposing
+challenges 1. Not breaking the Internet - if a major service stops
+working, people notice. Users can't do what they want to do and the
+trust people place in the service provider can be lost. 2. Moving fast
+- Product companies need to continually adapt to change and build new
+tools to provide more value to their users.
+
+This presents the eternal challenge of accomplishing both stability
+and speed. In this talk we'll cover the processes, approaches, and
+tools that one company uses to do over 20-30 deploys each day to over
+400 servers without causing any major disruptions to service.
+
+Some of the topics to be covered include:
+
+
+Benefits of Service Oriented Architecture
+Designing with ops in mind from day one
+The power of NSQ (realtime distributed messaging)
+Asynchronous &gt; Synchronous (except when it isn't)
+Designing for predictability
+Route around failure (via hostpool)
+Automate + Monitor ALL THE THINGS
+Peer review for code + process
+
+
+
+Speaker:
+
+Sean O'Connor
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Dealing with the Culture Chaos Monkey on Your Ops Team/","Michael Chletsos","Dealing with the Culture Chaos Monkey on Your Ops Team","Abstract:
+
+It is hard to hire Operations people, almost impossible to get good
+ones, and possibly harder than finding a good developer. Often you
+have an Operations team that is siloed from the rest of the teams and
+hide their work. The culture is hard to change. While implementing
+some DevOps notions at the company I work for, I came across this
+exact situation:
+
+
+The Developers were starting to collaborate more across teams.
+The Operations were putting out fires constantly - causing more work
+for themselves
+Devs and Operations were not collaborating
+There was open hostility between the groups
+Operations was hiding their work from each other as well
+Incomplete solutions were being implemented (killing processes for
+months instead of solving the root causes)
+
+
+
+So we had to roll up our sleeves and get everyone working together.
+Since the Operations team was stressed and overworked, we reduced
+their workload to the important tasks of finishing the server
+automation project. We asked developers to do the work they were
+asking Operations to preform themselves, while Operations gave them
+the tools, access and knowledge they needed to proceed. We also asked
+some developers to join the Operations team in helping to automate the
+server configs.
+
+In the end, we saw more collaboration, less stress and projects
+started to flow again. People were collaborating across the teams and
+since there was now more eyes on the problems, they were getting
+solved at a faster pace and with more complete solutions.
+
+Why/Who Cares: This talk will be interesting to those who find
+themselves embroiled in a Culture war at their jobs and will give
+ideas and hints on how to solve the problems in front of them. As
+well, it will show that even the worst environment can be improved
+through collaboration.
+
+Speaker:
+
+Michael Chletsos
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Continuous Delivery with Containers/","Tim Dysinger","Continuous Delivery with Containers","Abstract:
+
+Containers provide us with a friendly technology that allows us to package our applications as an operating system image.  We can use containers in three distinct ways within our software delivery cycle.
+
+1) Containers enable developers to easily assemble &amp; deploy their applications on a clean-room OS image.  No need to learn Chef or Puppet for Java developers.  No need to learn Salt for those Rails guys.   We just package a container and we are ready to start testing and deploying.
+
+2) Within our CI system we can use containers to close over (or package) the application &amp; configuration files deployed inside a fresh OS image.  We can then ship those versioned images straight to a repository &amp; on to the software delivery pipeline.  This is again done with the same developer-created container packaging checked into the base of the project.  Very simple.
+
+3) We can use containers to deploy &amp; test the application in our CI system.  This is very useful in that we can start with a clean OS image, deploy, test and then quickly dispose of the mess after the integration/unit tests are run.  Think of it as a diaper for test-run that may get messy.  Nice and clean.  Keeps our CI host fresh and scientific.
+
+In the talk I'll demonstrate these 3 uses of containers and show a CI build system where packaging and testing is executed.  I'll then show how easy it is to deploy the build artifact (container image) into a staging/production setting.
+
+Speaker:
+
+Tim Dysinger
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Comparing the Popularity of Key Infrastructure Building Blocks/","Chris Fregly","Comparing the Popularity of Key Infrastructure Building Blocks","Abstract:
+
+At Stackdriver, we've collected infrastructure-usage data from
+hundreds of customers running on AWS.
+
+We'll share this aggregated data comparing the absolute and relative
+popularity of following infrastructure building blocks:
+
+
+Cassandra vs. MongoDB vs. DynamoDB vs. RDS vs. MySQL vs. Postgres
+Nginx vs. Apache
+Memcache vs. Redis vs. Elasticache
+CollectD vs. StatsD
+Windows vs. Linux
+RabbitMQ vs. SQS
+Solr vs. ElasticSearch vs. CloudSearch
+
+
+
+We'll also break down the popularity data by AWS region which leads
+to some interesting results.
+
+How does your infrastructure compare?
+
+Speaker:
+
+Chris Fregly
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Cloud-Native DevOps/","Matthew Hooker","Cloud-Native DevOps","Abstract:
+
+ The role of IT administrators is constantly evolving. We've been burdened (bestowed?) with the task of automating as much as possible as our infrastructure changes faster than we can keep up.
+
+Until 2005, you were probably using CFEngine or shell scripts and whatever package manager your OS supported. Around that time Puppet and Chef dropped, and it was enlightening. Then, in 2008, EC2 went stable, and the term DevOps started gaining popularity the next year.
+
+Unfortunately, both Puppet and Chef arrived just on the cusp of the transition to IaaS, before we understood best practices for operating in this new environment. These tools were the product of years of experience operating raw hardware. There is something lost in translation when we apply these tools to the cloud.
+
+This talk is about how we've worked to bridge the gap, to go Cloud-Native. I'll demonstrate the impedance mismatch that occurs when you run chef in the cloud, and how we created a system better adapted to this new environment. I'll argue that instances need to be treated as ephemeral; that the ability to quickly launch instances is critical to agility; and reinforce the idea that automation is essential at every step of the process.
+
+By the end I hope I can convince you that there are ways to operate with more agility, to insulate yourselves from failure, and let every engineer sleep better at night.
+
+I also hope to inspire you to look for the gaps, and to come up with better ways to close them. This is only the beginning. We need fresh eyes and new ideas.
+
+Speaker:
+
+Matthew Hooker
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Building an AMI Factory with Open Source Tools/","Jeremy Carroll","Building an AMI Factory with Open Source Tools","Abstract:
+
+Walk through the patterns and anti-patterns creating an build pipeline for fully baked images usable by EC2. Discuss the current system we have implemented Open Source tools.
+
+
+Jenkins for workflow management
+Packer.io for managing image building
+Cloud-init for run-time modifications to cloud images
+Puppet for deterministic state enforcement on fresh images
+BATS for testing images before being released to production
+
+
+
+Will walk through challenges we have overcome setting this system up, such as developing a process and tooling around image management. Fact based provisioning via Puppet creating challenges in determinism. Obstacles overcome using ephemeral only images. Tagging and filtering images, and the naming conventions which allows quick search of current builds.
+
+Speaker:
+
+Jeremy Carroll
+",""
+"","talk","http://devopsdays.org/events/2013-portland/proposals/Best Practices for Setting up Effective Alert Policies to Avoid False Alarms/","Chris Fregly","Best Practices for Setting up Effective Alert Policies to Avoid False Alarms","Abstract:
+
+Provide best practices and examples for creating effective alert policies.  Topics include some of the following:
+  -Taming rollbar and other error-collection mechanisms
+  -Group resources effectively
+  -Avoid static thresholds in favor of dynamic, adaptive thresholds
+  -Document alert response for others
+  -Think twice about the importance of the alert at setup and documentation time
+  -Understand and prepare for anomalies caused of external events (examples from Netflix:  Oscars, Ski Week, Super Bowl, etc)
+  -Maintain communication with your customers to understand bursts, etc.
+
+Speaker:
+
+Chris Fregly, DevOps Evangelist @ Stackdriver.  Formerly @ Netflix.
+",""
+"","ignite","http://devopsdays.org/events/2013-portland/proposals/What we can learn about DevOps from Science Fiction/","Dawn Foster","What we can learn about DevOps from Science Fiction","Abstract:
+One of the important ideas behind DevOps is that people from
+development and operations should work together, just like the Doctor
+(a Time Lord) and his human companions work together to solve the
+problems of the universe. We're moving away from a model where control
+was centralized in the hands of a few, like the way the spice was
+tightly controlled in Dune, and we're sharing more of the
+responsibilities, like how the Stargate SG-1 team collaborates with
+the Tok'ra, the Asgard and others. We also work to automate processes
+and manage configurations, not unlike how Asimov created his 3 laws to
+make sure that robots, like our servers, were well-behaved and
+performing according to some standard rules. This is a fun session,
+but it focuses on real lessons from DevOps as told through science
+fiction.
+
+Note: this would be similar to the talk that I recently gave at
+LinuxCon, but with a focus on DevOps lessons, instead of community,
+and it would be much shorter to fit the Ignite format:
+http://www.slideshare.net/geekygirldawn/sci-fiandcommunity
+
+Options: I could also do this as a community talk if you prefer to
+have me
+talk about community, instead of DevOps, since community is also very
+relevant for DevOps projects.
+
+Speaker:
+
+Dawn Foster is the Community Manager at Puppet Labs. Dawn has more
+than 18 years of experience in technology with expertise in community
+building, open source software, and much more. She is passionate about
+bringing people together through a combination of online communities
+and real-world events. She has experience building new communities,
+and managing existing communities with a particular emphasis on
+developer and open source communities. Most recently, Dawn was leading
+the Community Office within Intel&rsquo;s Open Source Technology Center. In
+addition to working at Intel, Dawn was an online community consultant,
+and she has worked at Jive Software, Compiere, and a Midwestern
+manufacturing company in positions ranging from Unix system
+administrator to market researcher to community manager to open source
+strategist. Dawn holds an MBA from Ashland University and a bachelor&rsquo;s
+degree in computer science from Kent State University.
+",""
+"","ignite","http://devopsdays.org/events/2013-portland/proposals/Visualization of Kanban Flow for DevOps/","Greg Borchers","Visualization of Kanban Flow for DevOps","Abstract:
+
+Ignite talk to quickly describe a common visualization problem DevOps
+and a possible solution.
+
+Visualization of the flow present in a kanban board is difficult,
+without actually reading the details. The ignite talk will present an
+idea that allows an 'across the room grok' of what is going on. The
+goal is that with the visualization at arms length, the viewer will be
+able to understand the key information This ignite talk will describe
+a visualization for a Kanban board that improves the ability to see
+the level of active tasks that are working/waiting and undone/done.
+
+This is important to DevOps members because kanban is becoming a
+common way of managing flow.
+
+The standard boards are useful up close, but a better visualization is needed.
+
+Speaker:
+
+Greg Borchers
+",""
+"","ignite","http://devopsdays.org/events/2013-portland/proposals/Use CDNs, not s3, dammit!/","Ted Timmons","Use CDNs, not s3, dammit!","Abstract:
+
+You are hosting your website or some static content on s3, so you're
+good, right? NOPE. I'll show you why S3 is not a static web host, give
+examples of CDNs, and show how it helps in real life, even for a small
+website.
+
+I've never done an Ignite talk. But I've attended them at Bagdad (and
+online), and I've presented AWS/'cloud' knowledge informally many
+times.
+
+Speaker:
+
+Ted Timmons
+",""
+"","ignite","http://devopsdays.org/events/2013-portland/proposals/Stupid Graphite Tips/","Jason Dixon","Stupid Graphite Tips","Abstract:
+
+This will be an ignite talk demonstrating a number of 'Graphite Tips' similar to those found on my blog http://obfuscurity.com/Tags/Graphite. Each will be performed step-by-step on a live demo system, with explanations along the way.
+
+Speaker:
+
+Jason Dixon
+",""
+"","ignite","http://devopsdays.org/events/2013-portland/proposals/Adding sanity to AWS CloudFormation/","Chris Roberts","Adding sanity to AWS CloudFormation","Abstract:
+
+SparkleFormation is a helper library that allows building and maintaining of AWS CloudFormation templates in Ruby. It provides novel features like: reusable components, simple merging strategies, and automatic support for future CloudFormation resources. It also can be used with Opscode's knife CLI tool to build CloudFormations from the command line.
+
+This talk will walk through the key features and demonstrate how the library works in action.
+
+Speaker:
+
+Chris Roberts
+",""
