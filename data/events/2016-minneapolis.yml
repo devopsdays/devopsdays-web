@@ -10,8 +10,24 @@ cfp_date_end: 2016-03-31
 cfp_date_announce: 2016-05-01
 coordinates: "44.972610,-93.272960" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Downtown Minneapolis Hilton" # The name of your location
-navigationelements: ["welcome", "program", "propose", "location", "registration", "sponsor", "contact", "conduct"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Tom Duffield", "Bridget Kromhout", "Andy Domeier", "Donnie Berkholz", "Tony Notto", "Joe Laha", "Heather Mickman", "Jeff Williams", "Samantha Grumdahl"]
+navigationelements: ["welcome", "program", "speakers", "propose", "location", "registration", "sponsor", "contact", "conduct"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
+team_members: # Name is the only required field for team members.
+  - name: "Bridget Kromhout"
+    twitter: "bridgetkromhout"
+    employer: "Pivotal"
+  - name: "Andy Domeier"
+    twitter: "ajdomie"
+    employer: "SPS Commerce"
+  - name: "Donnie Berkholz"
+    twitter: "dberkholz"
+    employer: "451 Research"
+  - name: "Tony Notto"
+  - name: "Joe Laha"
+    twitter: "joelaha"
+  - name: "Heather Mickman"
+  - name: "Jeff Williams"
+  - name: "Samantha Grumdahl"
+
 organizer_email: "organizers-minneapolis-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-minneapolis-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
@@ -57,6 +73,16 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: govdelivery
     level: silver
+  - id: 2016-gitmsp
+    level: community
+  - id: parasoft
+    level: gold
+  - id: solidfire
+    level: gold
+  - id: morpheus_data
+    level: silver
+  - id: cloudbees
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -66,7 +92,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: silver
     label: Silver
   - id: community
-    label: Community Partner
+    label: Community
 
 speakers:
   - id: "nicole-forsgren"
