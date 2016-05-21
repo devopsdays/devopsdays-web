@@ -41,11 +41,15 @@ proposal_email: "proposals-istanbul-2016@devopsdays.org" # Put your proposal ema
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: borsaistanbul
     level: host
+  - id: kalitek
+    level: platinum
   - id: comparex-tr
     level: gold
   - id: hpe-tr
     level: gold
   - id: agile42
+    level: silver
+  - id: bilgeadam
     level: silver
   - id: iyzico
     level: silver
@@ -53,6 +57,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: vngrs
     level: silver
+  - id: konsalt
+    level: bronze
   - id: vmware-tr
     level: bronze
 

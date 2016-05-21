@@ -22,7 +22,7 @@ team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco No
 organizer_email: "organizers-amsterdam-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal email address here
 
-# Sponsors 2016-sendachi
+sponsors_accepted: "no"
 sponsors:
   # gold
   - id: chef
@@ -30,6 +30,8 @@ sponsors:
   - id: github
     level: gold
   - id: 2016-pivotal
+    level: gold
+  - id: microsoft
     level: gold
   - id: schubergphilis
     level: gold
@@ -55,6 +57,14 @@ sponsors:
   # bronze
   - id: beslist
     level: bronze
+  - id: devoteam
+    level: bronze
+  - id: indigo
+    level: bronze
+  - id: 2015-sdl
+    level: bronze
+  - id: workiva
+    level: bronze
   # BBQ
   - id: chef
     level: bbq
@@ -69,23 +79,112 @@ sponsors:
 sponsor_levels:
   - id: bbq
     label: BBQ
+    max: "1"
   - id: beer
     label: Beer
+    max: "1"
   - id: gold
     label: Gold
+    max: "8"
   - id: silver
     label: Silver
+    max: "4"
   - id: bronze
     label: Bronze
+    max: "4"
   - id: community
     label: Community
 
+
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
+  - name: workshops
 #  - name: propose
+  - name: speakers
   - name: location
   - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
+
+speakers:
+  - id: "erica-baker"
+    level: talk
+  - id: "adam-jacob"
+    level: talk
+  - id: "daniel-van-gils"
+    level: talk
+  - id: "warner-moore"
+    level: talk
+  - id: "avishai-ish-shalom"
+    level: talk
+  - id: "ken-mugrage"
+    level: talk
+  - id: "desmond-delissen"
+    level: talk
+  - id: "victoria-jeffrey"
+    level: talk
+  - id: "harm-weites"
+    level: talk
+  # Security Track
+  - id: "melanie-rieback"
+    level: talk
+  - id: "guy-podjarny"
+    level: talk
+  # Ignites - No wireframe for ignites/workshops according to @bridgetkromhout
+  - id: "bernd-erk"
+    level: talk
+  - id: "gopal-ramachandran"
+    level: talk
+  - id: "hannah-foxwell"
+    level: talk
+  - id: "jason-yee"
+    level: talk
+  - id: "jody-wolfborn"
+    level: talk
+  - id: "marco-ceppi"
+    level: talk
+  - id: "pavel-chunyayev"
+    level: talk
+  - id: "takahiko-ito"
+    level: talk
+  - id: "will-button"
+    level: talk
+  # workshops
+  - id: "andrew-farley"
+    level: talk
+  - id: "arnold-van-wijnbergen"
+    level: talk
+  - id: "nati-cohen"
+    level: talk
+  - id: "bas-meijer"
+    level: talk
+  - id: "christoph-andreas-torlinsky"
+    level: talk
+  - id: "dave-van-herpen"
+    level: talk
+  - id: "karleen-wijsman"
+    level: talk
+  - id: "jim-leitch"
+    level: talk
+  - id: "michael-ducy"
+    level: talk
+  - id: "michael-friedrich"
+    level: talk
+  - id: "philipp-krenn"
+    level: talk
+  - id: "remi-bergsma"
+    level: talk
+  - id: "simon-fisher"
+    level: talk
+  - id: "stefan-stolzle"
+    level: talk
+  - id: "tiziano-perrucci"
+    level: talk
+  - id: "robert-den-broeder"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk
