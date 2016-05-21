@@ -236,7 +236,6 @@
     padding-top:    10px;
     padding-bottom: 10px;
     line-height: @line-height-computed;
-    text-align: center;
   }
 
   @media (max-width: @grid-float-breakpoint-max) {
@@ -380,7 +379,7 @@
   .navbar-left  { .pull-left(); }
   .navbar-right {
     .pull-right();
-    margin-right: 20px;
+    margin-right: @navbar-padding-horizontal;
 
     ~ .navbar-right {
       margin-right: 0;
@@ -412,7 +411,7 @@
 
   .navbar-nav {
     > li > a {
-      color: @devopsdays-blue;
+      color: @navbar-default-link-color;
 
       &:hover,
       &:focus {
