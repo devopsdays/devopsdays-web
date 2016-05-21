@@ -74,7 +74,7 @@ type = "event"
 
 <div class="span-2">16:45-17:00</div><div class="span-4 box last"><strong></strong>Close Day & Logistics</div>
 
-<div class="span-2">19:00-late</div><div class="span-4 box last"><strong>DevOpsDays Seattle Opening Day Party @ Chef HQ <br /> <a target='_blank' href="http://www.meetup.com/Chef-Meetup/events/229825263/?rv=ea1">RSVP Here</a></strong><br /></div>
+<div class="span-2">19:00-late</div><div class="span-4 box last"><strong>DevOpsDays Seattle Opening Day Party @ Moz <br /> <a target='_blank' href="http://www.meetup.com/Chef-Meetup/events/229825263/?rv=ea1">RSVP Here</a></strong><br /></div>
 
 
 </div>
