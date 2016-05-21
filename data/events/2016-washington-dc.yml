@@ -1,6 +1,6 @@
 name: 2016-washington-dc # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
-city: "Washington, D.C. " # The city name of the event. Capitalize it.
+city: "Washington, DC" # The city name of the event. Capitalize it.
 friendly: "2016-washington-dc" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current".
 startdate: 2016-06-08 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
@@ -15,9 +15,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: welcome
   - name: register
     url: https://devopsdaysdc2016.busyconf.com/bookings/new
-  - name: propose
-    url: https://devopsdaysdc2016.busyconf.com/proposals/new
-#  - name: program
+  # - name: propose
+  #   url: https://devopsdaysdc2016.busyconf.com/proposals/new
+  - name: program
+    url: http://devopsdaysdc2016.busyconf.com/schedule
   - name: location
   - name: sponsor
   - name: contact
@@ -39,7 +40,7 @@ team_members: # Name is the only required field for team members.
     employer: "Excella Consulting"
   - name: "Mark Cornick"
     twitter: "markcornick"
-    employer: "Learning Objects"
+    employer: "Cava Grill"
   - name: "Mike DelNegro"
     twitter: "radiocats"
     employer: "FireEye"
@@ -68,6 +69,7 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "organizers-washington-dc-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-washington-dc-2016@devopsdays.org" # Put your proposal email address here
+sponsors_accepted: "no"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: uspto
     level: platinum_and_venue
@@ -104,7 +106,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: ansible
     level: platinum
   - id: infozen
-    level: platinum
+    level: gold
   - id: dlt
     level: platinum
   - id: omniti
@@ -125,6 +127,18 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: stsi
     level: silver
+  - id: phishme
+    level: silver
+  - id: victorops
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: aspe
+    level: platinum
+  - id: govready
+    level: silver
+  - id: solidfire
+    level: gold
 
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
