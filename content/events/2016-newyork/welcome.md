@@ -29,10 +29,10 @@ DevOps Days is coming to New York.
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Propose</b></td>
     <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
+  </tr>
   <!-- <tr>
     <td><b>Register</b></td>
     <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
