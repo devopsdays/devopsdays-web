@@ -29,9 +29,9 @@ sponsors:
     level: gold
   - id: github
     level: gold
-  - id: 2016-pivotal
-    level: gold
   - id: microsoft
+    level: gold
+  - id: 2016-pivotal
     level: gold
   - id: schubergphilis
     level: gold
@@ -94,7 +94,6 @@ sponsor_levels:
     max: "4"
   - id: community
     label: Community
-
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
