@@ -148,7 +148,9 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
 <div class="span-10 box-blue last">Break <br /> </div>
 
 <div class="span-3 box-green">16:00-16:30</div>
-<div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1</div>
+<div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />
+  Open Space #2
+</div>
 
 <div class="span-3 box-blue">16:30-17:00</div>
 <div class="span-10 box-blue last">Closing</div>
