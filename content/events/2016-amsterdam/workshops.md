@@ -58,13 +58,13 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <hr>
 <div class="span-15 last centerstyle"><h3>Please vote for your favorite workshops! This will help us determine which rooms to place them in.</h3></div>
-<div class="span-15 last centerstyle"><h3><strong><a href="https://www.surveymonkey.com/r/75RHW9D">Click on this link to get started!</strong></h3></div>
+<div class="span-15 last centerstyle"><h3><strong><a href="https://www.surveymonkey.com/r/75RHW9D">Click on this link to get started!</a></strong></h3></div>
 <hr />
 
 <div class="span-15 append-bottom">
 
 <div class="span-15 last centerstyle">
-  <h2>Workshop Schedule</h2>
+  <h2><a href="https://www.surveymonkey.com/r/75RHW9D">Workshop Schedule</a></h2>
 </div>
 
 <div class="span-15 last centerstyle">
