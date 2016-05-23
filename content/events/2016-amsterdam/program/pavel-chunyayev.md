@@ -11,7 +11,7 @@ aliases = ["/events/2016-amsterdam/program/pavelchunyayev/"]
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-  Diversity Efforts Need To Extend Beyond Gender (Keynote)
+  The importance of ‘why’ for software operations.
 </p>
 
 <p><strong>Description:</strong></p>
