@@ -141,7 +141,7 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
 
 <div class="span-3 box-green">15:15-15:45</div>
 <div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />
-Open Space #1
+ Open Space #1
 </div>
 
 <div class="span-3 box-blue">15:45-16:00</div>
@@ -154,10 +154,10 @@ Open Space #1
 <div class="span-10 box-blue last">Closing</div>
 
 <div class="span-3 box-redhat">17:00-18:00</div>
-<div class="span-10 box-redhat last"><strong>Sponsor happy hour (Sponsored by Red Hat)</strong><br /></div>
+<div class="span-10 box-redhat last"><strong>Sponsor happy hour (Sponsored by Red Hat)</strong></div>
 
 <div class="span-3 box-cheforange">18:00-20:00</div>
-<div class="span-10 box-cheforange last"><strong>BBQ (Sponsored by Chef) & Band </strong><br /></div>
+<div class="span-10 box-cheforange last"><strong>BBQ (Sponsored by Chef) & Band </strong></div>
 
 </div>
 
