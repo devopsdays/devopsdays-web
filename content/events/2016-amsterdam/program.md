@@ -170,7 +170,7 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
 <div class="span-3 box-green">08:00-09:00</div>
 <div class="span-10 box-green last"> Registration, Breakfast, and Sponsor Booths Open</div>
 
-<div class="span-3 box-blue">09:00-9:15</div>
+<div class="span-3 box-blue">09:00-09:15</div>
 <div class="span-10 box-blue last"><strong></strong>Opening Welcome</div>
 
 <div class="span-3 box-green">09:15-09:45</div>
