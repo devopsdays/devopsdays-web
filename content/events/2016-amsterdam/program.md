@@ -127,7 +127,7 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
 <div class="span-10 box-green last"><strong>Ignites</strong><br />
    <a href="/events/2016-amsterdam/program/jody-wolfborn">Jody Wolfborn (Chef) - You Don't Belong Here: Dealing with Imposter Syndrome</a><br />
    <a href="/events/2016-amsterdam/program/pavel-chunyayev">Pavel Chunyayev (Levi9) - The importance of ‘why’ for software operations.</a><br />
-   <a href="/events/2016-amsterdam/program/takahiko-ito">Takahiko Ito - Document Writing in CI Environment</a><br />
+   <a href="/events/2016-amsterdam/program/takahiko-ito">Takahiko Ito (‎‎Recruit Technologies) - Document Writing in CI Environment</a><br />
    <a href="/events/2016-amsterdam/program/jason-yee">Jason Yee (Datadog) - Breaking Brooks' Law with DevOps.</a><br />
 </div>
 
