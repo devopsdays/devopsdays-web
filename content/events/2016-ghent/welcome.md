@@ -6,9 +6,7 @@ aliases = ["/events/2016-ghent"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
-DevOps Days is coming to {{< event_location >}}!
+## devopsdays is coming back to Ghent
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -17,12 +15,12 @@ DevOps Days is coming to {{< event_location >}}!
 <table>
   <tr>
     <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
+    <td>{{< event_start >}} and {{< event_end >}}
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
-  </tr> -->
+  </tr>
   <!-- <tr>
     <td><b>Propose</b></td>
     <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
