@@ -5,6 +5,11 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+Devopsdays Ghent will be held at <a href="http://www.zebrastrat.be">Zebrastraat</a><br />
+Address: Zebrastraat 32, 9000 Gent, Belgium<br />
+Phone: +32 471 31 00 01<br />
+<a href="http://www.zebrastraat.be/pages/routebeschrijving.html" target="_new">How to get there</a>
 
-<!-- {{< event_map >}} -->
+Looking for <a href="https://visit.gent.be/en/accommodation">accomodation</a>?
+
+{{< event_map >}}
