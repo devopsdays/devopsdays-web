@@ -202,7 +202,7 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
    One engineer, four environments, no termination protection.</a>
 </div>
 
-<div class="span-3 box-blue">11:50-13:00</div>
+<div class="span-3 box-blue">12:00-13:00</div>
 <div class="span-10 append-bottom box-blue">Lunch (catered)</div>
 
 <div class="span-3 box-green">13:00-13:45</div>
