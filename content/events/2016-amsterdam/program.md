@@ -223,7 +223,9 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
 <div class="span-5 box-coral "><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />
   Open Space #1
 </div>
-<div class="span-5 box-darkgreen last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/melanie-rieback">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a></div>
+<div class="span-5 box-darkgreen last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/melanie-rieback">Melanie Rieback (Radically Open Security)<br />
+  Pentesting ChatOps</a>
+</div>
 
 <div class="span-3 box-blue">15:00-15:15</div>
 <div class="span-10 box-blue last">Break<br /> </div>
@@ -232,7 +234,9 @@ Please <a href="http://www.devopsdays.org/events/2016-amsterdam/2016-amsterdam/w
 <div class="span-5 box-coral"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />
   Open Space #2
 </div>
-<div class="span-5 box-darkgreen last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/guy-podjarny">Guy Podjarny (Snyk)<br />Writing Secure Node Code</a></div>
+<div class="span-5 box-darkgreen last"><h5><u>Security Talk Track:</u></h5><a href="/events/2016-amsterdam/program/guy-podjarny">Guy Podjarny (Snyk)<br />
+  Writing Secure Node Code</a>
+</div>
 
 <div class="span-3 box-coral">15:45-16:15</div>
 <div class="span-10 box-coral last"><strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />
