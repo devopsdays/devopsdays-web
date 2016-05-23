@@ -29,6 +29,8 @@ sponsors:
     level: gold
   - id: github
     level: gold
+  - id: microsoft
+    level: gold
   - id: 2016-pivotal
     level: gold
   - id: schubergphilis
@@ -58,6 +60,8 @@ sponsors:
   - id: devoteam
     level: bronze
   - id: indigo
+    level: bronze
+  - id: 2015-sdl
     level: bronze
   - id: workiva
     level: bronze
@@ -90,7 +94,6 @@ sponsor_levels:
     max: "4"
   - id: community
     label: Community
-
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
@@ -177,6 +180,8 @@ speakers:
   - id: "stefan-stolzle"
     level: talk
   - id: "tiziano-perrucci"
+    level: talk
+  - id: "robert-den-broeder"
     level: talk
 
 speaker_levels:
