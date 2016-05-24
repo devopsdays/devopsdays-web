@@ -10,9 +10,9 @@ aliases = ["/events/2016-capetown"]
 
 DevOps Days is coming to {{< event_location >}}!
 
-<!-- <div style="text-align:center;">
+ <div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div> 
 
 <table>
   <tr>
