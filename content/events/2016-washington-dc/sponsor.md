@@ -6,9 +6,8 @@ type = "event"
 +++
 
 We greatly value sponsors for this open event.  **All of our current Sponsorship
-options have sold out**.  We may add additional options so please contact us at
-<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>
-if you'd like to join the sponsorship waiting list.
+options have sold out**.  Would you like to [sponsor DevOpsDays
+Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/)?
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -88,10 +87,13 @@ if you'd like to join the sponsorship waiting list.
 </tbody>
 </table>
 
-All of our current Sponsorship
-options have sold out.  We may add additional options so please contact us at
-<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>
-if you'd like to join the sponsorship waiting list.
+**All of our current Sponsorship options have sold out**.
+
+Although we no longer have sponsorships available, there will be another
+DevOpsDays in the area later this Summer.  Checkout the [sponsorship
+opportunities for DevOpsDays
+Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/).
+
 
 ### Silver - SOLD OUT
 
@@ -113,9 +115,12 @@ if you'd like to join the sponsorship waiting list.
 * 3 additional tickets, 5 in total
 * Dedicated table for swag
 
-We greatly value sponsors for this open event. If you are interested in other
-types of sponsorships, please contact us directly at
-<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>.
+We greatly value sponsors for this open event.
+
+Although we no longer have sponsorships available, there will be another
+DevOpsDays in the area later this Summer.  Checkout the [sponsorship
+opportunities for DevOpsDays
+Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/).
 
 ---
 
