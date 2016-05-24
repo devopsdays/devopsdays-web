@@ -25,9 +25,9 @@ Please contact us at {{< email_organizers >}}.
 </tr>
 <tr class="hed2">
 <td></td>
-<td><strong>$5,000 USD</strong></td>
+<td><strong>$1,000 USD</strong></td>
 <td><strong>$3,000 USD</strong></td>
-<td><strong>$1, 000 USD</strong></td>
+<td><strong>$5,000 USD</strong></td>
 </tr>
 <tr>
 <td>2 included tickets</td>
