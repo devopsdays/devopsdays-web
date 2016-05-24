@@ -1,11 +1,14 @@
++++
+date = "2016-01-01T01:01:01-06:00"
+title = "welcome"
+type = "event"
+aliases = ["/events/2015-paris"]
+
++++
+
+OLD
 
 
-
-
-
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" >
