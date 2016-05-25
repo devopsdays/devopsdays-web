@@ -1,20 +1,19 @@
-+++
-date = "2016-01-01T01:01:01-06:00"
-title = "welcome"
-type = "event"
-aliases = ["/events/2015-paris"]
-
-+++
-
-OLD
 
 
+
+
+  
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" >
 <title>Paris 14-15 April 2015
- - welcome</title>
-<meta name="author" content="" >
+ -  Proposal</title>
+<meta name="author" content="Arnaud Bailly & Willem van den Ende" >
 
 
 
@@ -89,7 +88,7 @@ google.load('jquery', '1.3.2');
 <div class="span-24 last" id="title">
 <div class="span-15 first">
 <h1>Paris 14-15 April 2015
- - welcome </h1>
+ -  Proposal </h1>
 </div>
 
 <div class="span-8 last">
@@ -118,31 +117,53 @@ google.load('jquery', '1.3.2');
 </div>
 
 
-  <p><img src="/events/2015-paris/images/paris.jpg" alt="Paris" /></p>
+Back to <a href='..'>proposals overview</a> - <a href='../../program'>program</a>
+<hr>
+<h3>Haskell all the way down</h3>
 
-<p>Photo credit: <a href="https://commons.wikimedia.org/wiki/User:Benh">CC-BY-SA "BenH"</a></p>
+  <p><strong>Abstract:</strong></p>
 
-<h2>14th - 15th April 2015</h2>
+<p>In order to survive in the short and long term, as a startup we want to ship solid code and process user feedback fast now and in the future. We also can't spend too much time and money on getting the slickest of continuous delivery pipelines set up.</p>
 
-<p>The 2nd Devopsdays in Paris will take place on 14-15th April 2015 at the <a href="/events/2015-paris/location">MAS</a>.</p>
+<p>Therefore we decided to also use the programming language we use for our backend services for everything else as much as possible. In the past we've had good experiences doing this with Ruby and Smalltalk, this time with Haskell we expected to save time and money by getting feedback on our configuration management and build pipeline from the Haskell compiler, because running builds and creating virtual machines and docker containers take a long time, getting feedback on a simple error after building for 10 or more minutes makes for slow improvement. The same goes for end-to-end and integration tests.</p>
 
-<h2>Sponsorship</h2>
+<p>Come to our talk to hear how we used Propellor (instead of e.g. chef or puppet) to configure our laptops, set up a disposable shared development environment in the cloud, and create our web and build servers, how we use Shake to build a set of Docker containers and Bake to run our continuous integration and delivery server, and hs/webdriver to run end-to-end tests.</p>
 
-<p>Silver-level <a href="/events/2015-paris/sponsor">sponsorship</a> opportunities are still available.</p>
+<p>We've made quite a few unusual choices in our tooling, as well as the design of our web API and application to help us deliver fast and long. Some were no-brainers from the beginning, some are starting to work after a couple of months, and some we are still unsure about. And of course some choices turned out to be bad ideas.
+"
+<strong>Speaker:</strong></p>
 
-<h2>Tickets</h2>
+<p><em>Arnaud Bailly</em>
+<em>Willem van den Ende</em></p>
 
-<p>We are officially <em>sold out</em> of tickets for this year! Thank you everybody!</p>
+<p>Both of us have applied continuous deployment to projects we worked on, and coached others in doing the same since we started doing eXtreme Programming. We’ve learnt that even though at times you feel like you are rolling rocks uphill, solid automation that is understood by as much of the team as humanly possible always pays off. Be it in better disaster recovery, faster feedback to users or being able to develop a solution in unexpected directions quickly and relatively cheaply.</p>
 
-<h2>Language</h2>
-
-<p>All of the presentations will be held in <em>English</em>.</p>
-
-<p>For more information, you can reach us at <a href='mailto:organizers-paris-2015@devopsdays.org
-'>organizers-paris-2015@devopsdays.org
-</a></p>
+<p>Igitur Ventures invests in early stage startups through seed software development and fulfilling CTO roles.</p>
 
   </div>
+  
+    <div class="span-15 first last">
+  
+<script type="text/javascript">
+
+//    var disqus_developer = 1; 
+
+</script> 
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'devopsdays'; 
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+     <hr>
+    </div>
   
 </div>
 
