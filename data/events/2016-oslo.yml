@@ -15,7 +15,7 @@ cfp_date_announce: 2016-07-01 # inform proposers of status
 # Location
 #
 coordinates: "59.908029, 10.744314" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Oslo" # Defaults to city, but you can make it the venue name.
+location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
