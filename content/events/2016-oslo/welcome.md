@@ -30,16 +30,24 @@ aliases = ["/events/2016-oslo"]
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
   <tr>
+    <td><b>Register</b></td>
+    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
+  </tr>
+  <tr>
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
   </tr>
   <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
+    <td><b>Conference hotel</b></td>
+    <td><a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a></td>
   </tr>
   <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
+    <td><b>Alternatve accommodation</b></td>
+    <td>There are <a href="https://www.google.no/maps/search/Hoteller/@59.908037,10.7421253,17z/data=!3m1!4b1!4m8!2m7!3m6!1sHoteller!2sDronningensgate+4+Kvadraturen,+Gamle+Museet+Konferanse+og+Selskapslokaler,+0152+Oslo!3s0x46416e659eb51631:0xa98021d023cb87b2!4m2!1d10.744314!2d59.908029?hl=no">many alternatives</a> close by.<br>You could also check out <a href="https://www.airbnb.com/s/Gamle-Museet-Konferanse-og-Selskapslokaler--Oslo--Norway?guests=&checkin=09%2F05%2F2016&checkout=09%2F06%2F2016&ss_id=ot0usqa1&source=bb&s_tag=s10_tSLJ">AirBnB.</td>
+  </tr>
+  <tr>
+    <td><b>Propose</b></td>
+    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
   </tr>
   <!-- <tr>
     <td><b>Speakers</b></td>
