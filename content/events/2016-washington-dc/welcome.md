@@ -30,20 +30,6 @@ have already **sold out**.
 The keynote and ignite sessions have been announced and are now [available on
 the schedule](http://devopsdaysdc2016.busyconf.com/schedule).
 
-## Hotel
-
-Reserve your room at the [Westin
-Alexandria](https://www.starwoodmeeting.com/events/start.action?id=1604145506&key=15F5399A)
-in the DevOpsDays Room Block for $249 per night.
-
-<a href="https://www.starwoodmeeting.com/events/start.action?id=1604145506&key=15F5399A"><img src="/events/2016-washington-dc/wes1718ex.109692_lg.jpg"></a>
-
-## Sponsorship
-
-DevOpsDays is a self-organizing conference for DevOps practitioners that depends
-on your sponsorships to happen.  We have {{< event_link page="sponsor"
-text="three different sponsorship levels available" >}}.
-
 ## Why Attend?
 
 Whether you're in government, academia, or the private sector, _DevOpsDays is
@@ -57,6 +43,23 @@ shop with DevOps practitioners, _DevOpsDays is for you._
 
 DevOpsDays are a mix of keynote sessions and [open
 spaces](http://en.wikipedia.org/wiki/Open_Space_Technology).
+
+## Local Hotels
+
+There are a number of hotels near the US Patent and Trademark Office.  Some
+options include:
+
+* [The Westin Alexandria](http://www.westinalexandria.com/) - official hotel of
+DevOpsDays DC.
+* [Residence Inn Alexandria Old Town/Duke Street](http://www.marriott.com/hotels/travel/wasdk-residence-inn-alexandria-old-town-duke-street/)
+* [Hilton Alexandria Old Town](http://www3.hilton.com/en/hotels/virginia/hilton-alexandria-old-town-DCAOTHF/index.html)
+* [Wyndham Old Town Alexandria](https://www.extraholidays.com/washington-dc/wyndham-old-town-alexandria.aspx)
+
+## Sponsorship
+
+DevOpsDays is a self-organizing conference for DevOps practitioners that depends
+on your sponsorships to happen.  We no longer have sponsorship opportunities
+available.
 
 ## About Washington, DC
 
@@ -75,3 +78,4 @@ Smithsonian museums to great food and drink!
 For those coming from out of town, there are flights from just about everywhere
 to our three local airports, and there are several hotels nearby. More details
 are on the {{< event_link page="location" text="location page" >}}.
+
