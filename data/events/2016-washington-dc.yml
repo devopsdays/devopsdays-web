@@ -147,6 +147,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: fanniemae
     level: gold
+  - id: opsgenie
+    level: happy_hour
+  - id: aol
+    level: happy_hour
 
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -158,3 +162,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
+  - id: happy_hour
+    label: Happy Hour
