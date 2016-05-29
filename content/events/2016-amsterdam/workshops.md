@@ -77,7 +77,7 @@ tags = ["amsterdam","amsterdam-2016"]
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/nati-cohen">Avishai Ish-Shalom (FewBytes) & Nati Cohen (SimilarWeb) <br /> Docker From Scratch</a></div>
 		<div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/christoph-andreas-torlinsky">Christoph Andreas Torlinsky (Nuage Networks) <br /> A Place for SDN in DevOps</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/dave-van-herpen">Dave van Herpen & Robert den Broeder (Sogeti) <br /> Creating high-performance teams with DevOps behavior</a></div>
-    <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/remi-bergsma">Remi Bergsma & Fred Neubauer (Schuberg Philis) <br /> Cloudstack / Cosmic Cloud</a></div>
+    <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/remi-bergsma">Remi Bergsma & Fred Neubauer (Schuberg Philis) <br /> Build your own Cloud in record time with Cosmic</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/stefan-stolzle">Stefan Stölzle (Github) <br /> Implementing a CI and CD Pipeline with GitHub</a></div>
 </div>
 
@@ -89,7 +89,7 @@ tags = ["amsterdam","amsterdam-2016"]
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/karleen-wijsman">Karleen Wijsman & Jan de Vries (Independent) <br /> Appreciative Inquiry, the most enjoyable way of change.</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/michael-friedrich">Michael Friedrich (Netways) <br /> Monitoring with Icinga 2</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/philipp-krenn">Philipp Krenn (Elastic) <br /> Going Elastic</a></div>
-    <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/simon-fisher">Simon Fisher (Chef) <br /> Out with the old, in with the new – modernizing Rails application deployment with Chef</a></div>
+    <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/simon-fisher">Simon Fisher (Chef) <br /> Out with the old, in with the new – Modernizing Application Deployment</a></div>
 </div>
 
 <div class="span-15 box-green centerstyle"><h4>14:30 - 15:00 Break</h4></div>
