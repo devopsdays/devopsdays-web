@@ -10,7 +10,7 @@ aliases = ["/events/2016-amsterdam/program/simon-fisher/"]
 
 <div class="span-15  ">
   <div class="span-15  last ">
-  <p><strong>Title: Out with the old, in with the new – modernizing Rails application deployment with Chef</strong>
+  <p><strong>Title: Out with the old, in with the new – Modernizing Application Deployment</strong>
 
 </p>
 
