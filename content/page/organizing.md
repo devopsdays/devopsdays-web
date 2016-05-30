@@ -499,6 +499,8 @@ If you're going to livestream, rehearse ahead of time, and then assign at least 
 Running Ignites can be a challenge: people tend to submit them last minute, or they didn't understand the format too well. Here are few tips on making this process run more smoothly:
 
 - Ask the Ignite presenters to send the slides ahead of time
+- Inform the Ignite presenters that there are no presenter notes during their talks
+- Animations (gifs or slide transitions) and videos do not work due to the conversion process
  - An option is to use a Dropbox shared directory
 - Be prepared to run around with a USB stick to get the 'on the spot' deciders.
 - PDF is the easiest format to collect all presentations
@@ -509,6 +511,7 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
 - Use a dedicated laptop (avoid any popups etc...)
 - Mention again on the day itself.
   - "Just so you know, your slides will auto advance every 15 seconds; you can't advance them yourself"
+  - Remind the presenters again that there are no presenter notes
 - Have Ignite presenters queue next to the stage and either:
   -start the slidedeck for them.
  - or even build all slides in Slidedeck and build in a bio slide as a interludium and have that autoadvance as well
