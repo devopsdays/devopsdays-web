@@ -19,12 +19,21 @@ navigationelements: [
   "contact",
   "conduct"
 ]
-team: [
-  "Christian Trabold",
-  "Maris Prabhakaran",
-  "Satyam Agarwala",
-  "Sergiu Bodiu"
-]
+
+team_members:
+  - name: "Christian Trabold"
+    twitter: "ctrabold"
+    employer: ""
+  - name: "Maris Prabhakaran"
+    twitter: "MarisAgility"
+    employer: ""
+  - name: "Satyam Agarwala"
+    twitter: "satyamag"
+    employer: ""
+  - name: "Sergiu Bodiu"
+    twitter: "sergiu_bodiu"
+    employer: ""
+
 organizer_email: "organizers-singapore-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-singapore-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
