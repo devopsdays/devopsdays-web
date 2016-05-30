@@ -93,6 +93,8 @@ proposal_email: "proposals-oslo-2016@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: bekk
     level: gold
+  - id: chef-io
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
