@@ -11,14 +11,16 @@ cfp_date_announce: 2016-08-29
 coordinates: "1.293396, 103.853462" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Raffles City Convention Centre, Singapore" # The name of your location
 # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-navigationelements: [
-  "welcome",
-  "location",
-  "propose",
-  "sponsor",
-  "contact",
-  "conduct"
-]
+newnav: "yes"
+nav_elements:
+  - name: welcome
+  - name: location
+  - name: propose
+  - name: sponsor
+  - name: registration
+    url: https://ti.to/devopsdays-singapore/2016/
+  - name: contact
+  - name: conduct
 
 team_members:
   - name: "Christian Trabold"
