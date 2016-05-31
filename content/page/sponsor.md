@@ -54,4 +54,4 @@ If you want to collect leads, you'll have to talk directly with individuals and 
 
 New cities start a devopsdays event each year, and some cities run regularly. When planning out your sponsorship budget for the year, it's a good idea to assume that at least one or two must-sponsor devopsdays will crop up after you've already starting reaching out and sponsoring the early announcers.
 
-If one hasn't happened near you, and you wish it would, you can always look into running your own event!
+If one hasn't happened near you, and you wish it would, you can always look into [running your own event](/pages/organizing)!
