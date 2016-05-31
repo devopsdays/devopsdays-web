@@ -15,6 +15,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: welcome
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-nashville-2016-tickets-23942633060
+  - name: propose
   - name: sponsor
   - name: contact
   - name: conduct
