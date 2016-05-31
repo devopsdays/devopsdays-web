@@ -28,6 +28,7 @@ Our main criteria to make it to the top selection are:
 	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
 	<li>Description or abstract</li>
 </ol>
+
 <strong>Rules:</strong>
 <ul>
 	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>
@@ -36,13 +37,16 @@ Our main criteria to make it to the top selection are:
 	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
 	<li>Multiple proposals welcome... just follow the other rules</li>
 </ul>
-<strong>Some example topics:</strong>
-<br>Including but not limited to:
-<ul>
-	<li>Introducing cloud computing to skeptics</li>
-	<li>The virtues of diversity hiring</li>
-	<li>How to manage on-call effectively</li>
-	<li>How to get your team to care about security</li>
-	<li>DevOps means educating, sharing, and building trust</li>
-	<li>How to resolve technical disagreements in your organization</li>
-</ul>
+
+
+Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+
+- _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
+- _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
+- _under-represented voices_: We want to hear all voices, including those that may speak less frequently at similar events. Whether you're in a field not typically thought of as a technology field, you're in a large, traditional organization, or you're the only person at your organization with your background, we are interested in your unique experience.
+- _original content_: We prefer talks not already presented at another event, especially another one in the local area or one available in recorded form.
+- _no third-party submissions_: If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process. This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees.
+- _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
+
+
+If your employer does not cover travel expenses you incur as a speaker at devopsdays Nashville, the conference can and will help; speakers receive free conference tickets and should not need to incur out-of-pocket travel expenses in order to participate.
