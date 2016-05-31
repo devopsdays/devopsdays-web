@@ -87,7 +87,7 @@ type = "event"
 
 <div class="span-2">16:40-17:25</div><div class="span-4 box last"><strong>Attendee-suggested breakout discussions</strong><br /> Open Space #3</div>
 
-<div class="span-2">17:45-20:30</div><div class="span-4 box last"><strong>Happy Hour - details to come</strong></div>
+<div class="span-2">17:30-20:30</div><div class="span-4 box last"><strong>Happy Hour</strong><br />Come join us a <a href="http://fionnmaccools.com/locations/front-street" target="_blank">Fionn MacCool's</a> for food, drink, ignite karaoke</div>
 
 
 </div>

@@ -15,7 +15,7 @@ cfp_date_announce: 2016-07-01 # inform proposers of status
 # Location
 #
 coordinates: "59.908029, 10.744314" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Oslo" # Defaults to city, but you can make it the venue name.
+location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -91,10 +91,12 @@ proposal_email: "proposals-oslo-2016@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: bekk
     level: gold
-#  - id: arresteddevops
-#    level: community
+  - id: chef-io
+    level: gold
+  - id: telenor-digital
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

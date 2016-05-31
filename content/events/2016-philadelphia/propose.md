@@ -6,7 +6,6 @@ title = "propose"
 type = "event"
 
 +++
-  {{< cfp_dates >}}
 
 <center>
 <b>Call for proposals closes Thursday June 30th.</b><br>
