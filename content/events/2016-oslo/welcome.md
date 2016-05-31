@@ -14,7 +14,9 @@ aliases = ["/events/2016-oslo"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-<p>For the first time, DevOpsDays is coming to Oslo! DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
+<p>For the first time, DevOpsDays is coming to Oslo!</p>
+
+<p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
 
 <p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.</p>
 
@@ -30,25 +32,29 @@ aliases = ["/events/2016-oslo"]
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
   <tr>
+    <td><b>Register</b></td>
+    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
+  </tr>
+  <tr>
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
+  </tr>
+  <tr>
+    <td><b>Conference hotel</b></td>
+    <td><a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a></td>
+  </tr>
+  <tr>
+    <td><b>Alternatve accommodation</b></td>
+    <td>There are <a href="https://www.google.no/maps/search/Hoteller/@59.908037,10.7421253,17z/data=!3m1!4b1!4m8!2m7!3m6!1sHoteller!2sDronningensgate+4+Kvadraturen,+Gamle+Museet+Konferanse+og+Selskapslokaler,+0152+Oslo!3s0x46416e659eb51631:0xa98021d023cb87b2!4m2!1d10.744314!2d59.908029?hl=no">many alternatives</a> close by.
   </tr>
   <tr>
     <td><b>Propose</b></td>
     <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
   </tr>
-  <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr>
   <!-- <tr>
     <td><b>Speakers</b></td>
     <td>View the {{< event_link page="program" text="program" >}}.</td>
   </tr> -->
-  <tr>
-    <td><b>Language</b></td>
-    <td>All presentations will be held in <i>English</i>.</td>
-  </tr>
   <tr>
     <td><b>Sponsors</b></td>
     <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
