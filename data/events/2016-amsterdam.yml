@@ -61,6 +61,10 @@ sponsors:
     level: bronze
   - id: indigo
     level: bronze
+  - id: 2016-inuits
+    level: bronze
+  - id: pcextreme
+    level: bronze
   - id: 2015-sdl
     level: bronze
   - id: workiva
@@ -164,6 +168,8 @@ speakers:
   - id: "dave-van-herpen"
     level: talk
   - id: "karleen-wijsman"
+    level: talk
+  - id: "jan-de-vries"
     level: talk
   - id: "jim-leitch"
     level: talk

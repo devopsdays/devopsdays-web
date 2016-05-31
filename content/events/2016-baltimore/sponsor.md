@@ -25,9 +25,9 @@ Please contact us at {{< email_organizers >}}.
 </tr>
 <tr class="hed2">
 <td></td>
-<td><strong>$5,000 USD</strong></td>
+<td><strong>$1,000 USD</strong></td>
 <td><strong>$3,000 USD</strong></td>
-<td><strong>$1, 000 USD</strong></td>
+<td><strong>$5,000 USD</strong></td>
 </tr>
 <tr>
 <td>2 included tickets</td>
@@ -113,8 +113,7 @@ types of sponsorships, please contact us directly at {{< email_organizers >}}.
 * <a href="https://devopsdaysbaltimore2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.
 
 We greatly value sponsors for this open event. If you are interested in other
-types of sponsorships, please contact us directly at
-<a href="mailto:organizers-washington-dc-2016@devopsdays.org">organizers-washington-dc-2016@devopsdays.org</a>.
+types of sponsorships, please contact us directly at {{< email_organizers >}}.
 
 ---
 
