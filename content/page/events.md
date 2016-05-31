@@ -7,4 +7,6 @@ Title = "Devopsdays Events"
 
 +++
 
-### Learn how to [organize your own devopsdays event](/pages/organizing)!
+Learn how to [organize your own devopsdays event](/pages/organizing)!
+
+After each event, local organizers link to the slides and videos from their event; check individual event program pages for more info. The [devopsdays vimeo account](https://vimeo.com/devopsdays/albums) contains many videos from past events.
