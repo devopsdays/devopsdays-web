@@ -27,11 +27,15 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: opsclarity
     level: gold
+  - id: redislabs
+    level: gold
   - id: signalfx
     level: silver
   - id: kontena
     level: silver
   - id: 2016-platform9
+    level: silver
+  - id: extrahop
     level: silver
   - id: datadog
     level: absponsor
