@@ -138,12 +138,26 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: govready
     level: silver
   - id: solidfire
+    level: silver
+  - id: fearless
+    level: silver
+  - id: saucelabs
+    level: platinum
+  - id: ais
+    level: silver
+  - id: fanniemae
     level: gold
+  - id: opsgenie
+    level: happy_hour
+  - id: aol
+    level: happy_hour
 
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum_and_venue
     label: Platinum & Venue
+  - id: happy_hour
+    label: Happy Hour
   - id: platinum
     label: Platinum
   - id: gold
