@@ -18,21 +18,6 @@ aliases = ["/events/2016-oslo"]
 
 <p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.</p>
 
-<h3>Frokostseminarer om DevOps og smidig drift</h3>
-
-<p>Redpill Linpro is organizing DevOps breakfast seminar 7th of June. The program consists of presentations both for Devs and Ops. There will be these talks:</p>
-
-<ul>
-<li>Don't wait for JDK9, develop modular Java software today with OSGi</li>
-<li>Docker orchestration with Ansible in practice</li>
-<li>A presentations about OpenShift</li>
-</ul>
-
-<p>You can find more details and RSVP on <a href="http://www.meetup.com/Redpill-Linpro-frokostseminar-smidig-drift/events/230340363/" target="_blank">event page</a></p>
-
-<p>This breakfast seminar is for IT Managers, CIOs, system administrators, system architects, developers, DevOps, DBAs, infrastructure consultants and others interested in DevOps, deveopment and agile operations.</p>
-
-
 <!--## Sponsorships
 {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.-->
 
