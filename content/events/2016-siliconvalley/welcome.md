@@ -8,11 +8,12 @@ aliases = ["/events/2016-siliconvalley"]
 
 +++
 
-## DevOps Days is returning to Silicon Valley!
+## devopsdays returns to Silicon Valley June 24-June 25!
 
 <div style="float: left; padding-right: 20px;">
   {{< event_logo >}}
 </div>
+<div style="float: right;">
 
 <table>
   <tr>
@@ -24,17 +25,13 @@ aliases = ["/events/2016-siliconvalley"]
     <td>{{< event_location >}}</td>
   </tr>
   <tr>
-    <td><b>Propose</b></td>
-    <td><a href=https://dodsv2016.busyconf.com/proposals/new>Propose a talk.</a></td>
-  </tr>
-  <tr>
     <td><b>Registration</b></td>
     <td><a href=https://dodsv2016.busyconf.com/bookings/new>Register to attend the event!</a></td>
   </tr>
-<!--  <tr>
+<tr>
     <td><b>Speakers</b></td>
     <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
+  </tr>
   <tr>
     <td><b>Sponsors</b></td>
     <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
@@ -54,3 +51,4 @@ aliases = ["/events/2016-siliconvalley"]
     </td>
   </tr>
 </table>
+</div>
