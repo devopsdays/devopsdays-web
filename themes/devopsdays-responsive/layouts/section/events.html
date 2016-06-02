@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>Devopsdays Events</h1>
+    <div>
+      <p>Learn how to <a href = "/pages/organizing">organize your own devopsdays event</a>!</p>
+      <p>After each event, local organizers link to the slides and videos from their event; check individual event program pages for more info. The <a href = "https://vimeo.com/devopsdays/albums">devopsdays vimeo account</a> contains many videos from past events.</p>
+
+      {{ partial "future.html" . }}
+      {{ partial "past.html" . }}
+    </div>
+  </div>
+</div>
+
+
+{{ partial "footer.html" . }}
