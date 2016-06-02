@@ -1,10 +1,6 @@
 name: "2016-portoalegre" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
-<<<<<<< HEAD
-city: "PortoAlegre" # The city name of the event. Capitalize it.
-=======
 city: "Porto Alegre" # The city name of the event. Capitalize it.
->>>>>>> upstream/master
 friendly: "2016-portoalegre" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
@@ -32,11 +28,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: patrocinio
   - name: contato
   - name: conduta
-<<<<<<< HEAD
   - name: inscricao
     url: http://www.devopsdayspoa2016.eventize.com.br/index.php
-=======
->>>>>>> upstream/master
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -54,21 +47,15 @@ proposal_email: "proposals-portoalegre-2016@devopsdays.org" # Put your proposal 
 sponsors:
   - id: thoughtworks-services
     level: gold
-<<<<<<< HEAD
   - id: instruct
     level: gold
-=======
->>>>>>> upstream/master
   - id: arresteddevops
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-<<<<<<< HEAD
   - id: platinum
     label: Platinum
-=======
->>>>>>> upstream/master
   - id: gold
     label: Gold
   - id: silver
