@@ -7,7 +7,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this community event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="devopsdaysMSP2016-prospectus.pdf">prospectus</a>.
+We greatly value sponsors for this community event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="/events/2016-minneapolis/sponsor/devopsdaysMSP2016-prospectus.pdf">prospectus</a>.
 
 Additional à la carte sponsorships:
 
