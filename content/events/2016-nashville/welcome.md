@@ -5,28 +5,27 @@ type = "event"
 aliases = ["/events/2016-nashville"]
 
 +++
+## {{< event_start >}} - {{< event_end >}}
 
-## DevOpsDays Nashville - {{< event_start >}}
-
-Due to popular demand, DevOpsDays 2016 is coming to Nashville, TN! More details to come!
+**DevOpsDays is coming to Nashville!**
 
 <table>
   <tr>
     <td><b>Dates</b></td>
     <td>{{< event_start >}} - {{< event_end >}}
   </tr>
-  <!-- <tr>
+  <tr>
     <td><b>Location</b></td>
     <td>{{< event_location >}}</td>
-  </tr> -->
-  <!-- <tr>
+  </tr>
+  <tr>
     <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr> -->
-  <!-- <tr>
+    <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
+  </tr>
+  <tr>
     <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
+    <td><a href="https://www.eventbrite.com/e/devopsdays-nashville-2016-tickets-23942633060">Register Now!</a></td>
+  </tr>
   <!-- <tr>
     <td><b>Speakers</b></td>
     <td>View the {{< event_link page="program" text="program" >}}.</td>
@@ -42,7 +41,7 @@ Due to popular demand, DevOpsDays 2016 is coming to Nashville, TN! More details 
   <tr>
   <td></td>
     <td>
-    {{< event_twitter devopsdaysbna >}} <!-- add your twitter name here without the @ sign -->
+    {{< event_twitter devopsdaysbna >}} <!-- devopsdaysbna -->
     </td>
   </tr>
 </table>

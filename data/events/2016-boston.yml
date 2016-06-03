@@ -52,11 +52,23 @@ sponsors:
     level: platinum
   - id: 2016-g2-tech-group
     level: platinum
+  - id: 2016-wayfair
+    level: platinum
+  - id: 2016-cisco
+    level: platinum
+  - id: 2016-newrelic
+    level: platinum
   - id: datadog
     level: gold
   - id: 2016-pivotal
     level: gold
   - id: 2016-victorops
+    level: gold
+  - id: logicmonitor
+    level: gold
+  - id: threatstack
+    level: gold
+  - id: xebialabs
     level: gold
   - id: 2016-brainshark
     level: silver
