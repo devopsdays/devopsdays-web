@@ -45,6 +45,10 @@ team_members:
   - name: "Spencer Krum"
     twitter: "nibalizer"
     employer: "IBM"
+  - name: "Scott Nasello"
+    twitter: "scottnasello"
+    employer: "Columbia Sportswear"
+
 organizer_email: "organizers-portland-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
