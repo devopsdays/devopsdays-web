@@ -12,6 +12,9 @@ see [USPTO's directions
 page](http://www.uspto.gov/about/contacts/locations/directions.jsp) for driving
 directions and parking information.
 
+View the [site layout](https://drive.google.com/open?id=0BwBlCaTaiDH-dnVTRXJfT3NBbEU)
+to see the sponsor tables, registration, and lunch area.
+
 ## Local Hotels
 
 There are a number of hotels near the US Patent and Trademark Office.  Some
