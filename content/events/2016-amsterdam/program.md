@@ -22,7 +22,7 @@ tags = ["amsterdam","amsterdam-2016"]
   margin-bottom:0.75em;
   margin-right:0.75em;
   margin-left:0.75em;
-  background:#1c981c;
+  background:#05FA15;
   font-size: small;
 }
 
