@@ -7,15 +7,11 @@ type = "event"
 
 +++
 
-<b>Ignite talks</b>
-<br>
-Want to be part of devopsdays Minneapolis? Got something to say? Can you say it in five minutes? We need you for our evening Ignite event. Have a side project, a unique hobby, a hilarious or tragicomic work story? Any topic is fair game as long as it’s something you’re passionate about. Speakers are limited to exactly 20 slides which auto-advance every 15 seconds. Sound like fun? <a href="https://docs.google.com/forms/d/1zdI8cwViECAkM7AZAZfDX3hTts7aH8ICVWep1GLhBes/viewform">Submit your Ignite</a> now (or by May 15th)! We'll publish the Ignite schedule by June 1st.
 
-<hr>
-
-<b>30 minute talks</b>
 <br>
 The CFP for 30-minute talks is closed and the selected talks have been listed on <a href="../program">the program</a>.
+<br>
+The CFP for Ignites is also closed and selected talks will be listed on the program as soon as all proposers have been notifed.
 <hr>
 
 <b>Open Space breakout sessions</b>
