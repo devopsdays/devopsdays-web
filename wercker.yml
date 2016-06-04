@@ -3,7 +3,7 @@ build:
   steps:
     - arjen/hugo-build:
         version: 0.15
-        theme: devopsdays-legacy
+        theme: devopsdays-responsive
         flags: --buildDrafts=false
   after-steps:
       - wantedly/pretty-slack-notify:
