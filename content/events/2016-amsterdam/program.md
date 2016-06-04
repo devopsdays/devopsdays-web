@@ -223,7 +223,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-green">
-    <time>13:30-13:45</time>
+    <time>13:45-14:15</time>
   </div>
   <div class = "col-md-6 box-green">
       <strong>Ignites</strong><br />
@@ -248,7 +248,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-blue">
-    <time>15:00-15:10</time>
+    <time>15:00-15:15</time>
   </div>
   <div class = "col-md-6 box-blue">
     Break
@@ -258,20 +258,17 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-green">
-    <time>15:10-16:40</time>
+    <time>15:15-15:45</time>
   </div>
-  <div class = "col-md-3 box-coral">
+  <div class = "col-md-6 box-coral">
     <strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1
   </div>
-  <div class = "col-md-3 box-darkgreen">
-    <strong><u>Security Talk Track:</u></strong><br /><a href="/events/2016-amsterdam/program/melanie-rieback">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a>
-  </div>
 </div><!-- end timeslot row-->
 
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-blue">
-    <time>16:40-16:50</time>
+    <time>15:45-16:00</time>
   </div>
   <div class = "col-md-6 box-blue">
     Break
@@ -281,20 +278,17 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-green">
-    <time>16:30-17:00</time>
+    <time>16:00-16:30</time>
   </div>
-  <div class = "col-md-3 box-coral">
+  <div class = "col-md-6 box-coral">
     <strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2
-  </div>
-  <div class = "col-md-3 box-darkgreen">
-    <strong><u>Security Talk Track:</u></strong><br /><a href="/events/2016-amsterdam/program/guy-podjarny">Guy Podjarny (Snyk)<br />Writing Secure Node Code</a>
   </div>
 </div><!-- end timeslot row-->
 
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-blue">
-    <time>17:00-17:30</time>
+    <time>16:30-17:00</time>
   </div>
   <div class = "col-md-6 box-blue">
     Closing
@@ -304,7 +298,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-redhat">
-    <time>17:30-18:30</time>
+    <time>17:00-18:00</time>
   </div>
   <div class = "col-md-6 box-redhat">
     <strong>Sponsor happy hour (Sponsored by Red Hat)</strong>
@@ -314,7 +308,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
   <div class = "col-md-2 box-cheforange">
-    <time>18:30-20:00</time>
+    <time>18:00-20:00</time>
   </div>
   <div class = "col-md-6 box-cheforange">
     <strong>BBQ (Sponsored by Chef) &amp; Band </strong>
@@ -432,18 +426,8 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
-  <div class = "col-md-2 box-blue">
-    <time>13:00-13:30</time>
-  </div>
-  <div class = "col-md-6 box-blue">
-    Sponsors
-  </div>
-</div><!-- end timeslot row-->
-
-<div class = "row"><!-- this row is repeated for each timeslot -->
-  <div class = "col-md-2"></div>
   <div class = "col-md-2 box-green">
-    <time>13:30-13:45</time>
+    <time>13:00-13:45</time>
   </div>
   <div class = "col-md-6 box-green">
       <strong>Ignites</strong><br />
@@ -468,11 +452,14 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
-  <div class = "col-md-2 box-green">
+  <div class = "col-md-2 box-coral">
     <time>14:30-15:00</time>
   </div>
-  <div class = "col-md-6 box-coral">
+  <div class = "col-md-3 box-coral">
     <strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #1
+  </div>
+  <div class = "col-md-3 box-darkgreen">
+    <strong><u>Security Talk Track:</u></strong><br /><a href="/events/2016-amsterdam/program/melanie-rieback">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a>
   </div>
 </div><!-- end timeslot row-->
 
@@ -488,17 +475,20 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
-  <div class = "col-md-2 box-green">
+  <div class = "col-md-2 box-coral">
     <time>15:15-15:45</time>
   </div>
-  <div class = "col-md-6 box-coral">
+  <div class = "col-md-3 box-coral">
     <strong>Attendee Driven <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong><br />Open Space #2
+  </div>
+  <div class = "col-md-3 box-darkgreen">
+    <strong><u>Security Talk Track:</u></strong><br /><a href="/events/2016-amsterdam/program/guy-podjarny">Guy Podjarny (Snyk)<br />Writing Secure Node Code</a>
   </div>
 </div><!-- end timeslot row-->
 
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-2"></div>
-  <div class = "col-md-2 box-green">
+  <div class = "col-md-2 box-coral">
     <time>15:45-16:15</time>
   </div>
   <div class = "col-md-6 box-coral">
