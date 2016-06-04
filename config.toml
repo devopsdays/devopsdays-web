@@ -1,4 +1,4 @@
-theme = "devopsdays-legacy"
+theme = "devopsdays-responsive"
 baseurl = "http://www.devopsdays.org/"
 # baseurl = "http://localhost:1313/"
 languageCode = "en-us"
