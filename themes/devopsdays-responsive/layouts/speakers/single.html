@@ -18,8 +18,8 @@
     </div>
     <div class= "col-md-8">
        <h3><a href="/events/{{ $event_slug }}/program/{{$fname}}">{{ $s.name }}</a></h3>
-       <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a>
-     <br><br>
+       {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
+     <br>
      {{ $s.bio | markdownify }}
 <hr>
     </div>
