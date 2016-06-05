@@ -6,55 +6,8 @@ title = "Workshops"
 type = "event"
 tags = ["amsterdam","amsterdam-2016"]
 +++
-
-<style type="text/css">
-.box-green {
-  padding:0.75em;
-  margin-bottom:0.75em;
-  margin-top:0.75em;
-  background:#76d89a;
-}
-
-.box-blue {
-  padding:0.1em;
-  margin-bottom:0.1em;
-  background:#E5ECF9;
-}
-
-.box-redhat {
-  padding:0.75em;
-  margin-bottom:0.75em;
-  background:#cc0000;
-  font-family: 'OverpassRegular';
-  font-weight: normal;
-  font-style: normal;
-}
-
-.box-orange {
-  padding:0.75em;
-  margin-bottom:0.75em;
-  font-family: sans-serif;
-  font-weight: normal;
-  font-style: normal;
-  background:#f18b21;
-}
-
-.centerstyle {
-  text-align:center;
-}
-
-.box-blue {
-  padding:1.5em;
-  margin-bottom:1.5em;
-  background:#E5ECF9;
-}
-
-.box-gray {
-  padding:1.5em;
-  margin-bottom:1.5em;
-  background:#e7e3e3;
-}
-</style>
+<!-- file located in static/events/2016-amsterdam/custom-workshops.css -->
+<link href="/events/2016-amsterdam/custom-workshops.css" rel="stylesheet">
 
 <hr>
 <div class="span-15 last centerstyle"><h3>Please vote for your favorite workshops! This will help us determine which rooms to place them in.</h3></div>
