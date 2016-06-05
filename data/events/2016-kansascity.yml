@@ -14,7 +14,7 @@ cfp_date_announce:  # inform proposers of status
 
 # Location
 #
-coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "39.082920, -94.582451" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Musical Theater Heritage" # Defaults to city, but you can make it the venue name.
 #
 
