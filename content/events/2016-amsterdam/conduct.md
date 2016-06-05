@@ -2,6 +2,7 @@
 City = "Amsterdam"
 Year = "2016"
 date = "2016-03-06T21:17:08-06:00"
+heading = "devopsdays Amsterdam - Code of Conduct"
 title = "Code of Conduct"
 type = "event"
 tags = ["amsterdam","amsterdam-2016"]
