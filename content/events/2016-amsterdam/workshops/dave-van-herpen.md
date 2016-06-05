@@ -27,7 +27,7 @@ High-performance teams are NOT the teams with the newest tools or the coolest pi
 </p>
 
 <p>
- This highly interactive workshop will give you real practical instruments, tips & tricks (all based on scientific & practical evidence and experience) how to help truly create a high-performance environment in your organization."
+ This highly interactive workshop will give you real practical instruments, tips & tricks (all based on scientific & practical evidence and experience) how to help truly create a high-performance environment in your organization.
 </p>
 
 <p><strong>About the speakers</strong>
