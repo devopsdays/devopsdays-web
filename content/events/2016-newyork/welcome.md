@@ -49,14 +49,14 @@ DevOps Days is coming to New York.
   </div>
 </div>
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
+  	<a href="https://www.eventbrite.com/e/devopsdays-new-york-2016-tickets-25887868311">Register to attend the event!</a>
+	</div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
