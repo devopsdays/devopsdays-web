@@ -111,4 +111,4 @@ This year, we are hosting the fourth edition of devopsdays Amsterdam. We are loo
 
 <!-- add your city twitter name here without the @ sign -->
 
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter devopsams >}}
