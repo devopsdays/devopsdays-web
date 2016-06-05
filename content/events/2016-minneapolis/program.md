@@ -188,13 +188,12 @@ type = "event"
         <strong>Evening event</strong>
         <p>
         Ignites<br>
+        <a href="/events/2016-minneapolis/program/aj-bowen">AJ Bowen -  Your Meetings Are Unbearable: Cheat Codes From Occupy</a><br>
+        <a href="/events/2016-minneapolis/program/dana-engebretson">Dana Engebretson -  HealthOps in Team Chat</a><br>
+        <a href="/events/2016-minneapolis/program/jasmine-russell">Jasmine Russell -  The Woes of Data Reporting</a><br>
+        <a href="/events/2016-minneapolis/program/john-kelly">John Kelly -  Confessions of a Former Professional Lego Master Builder</a><br>
         <a href="/events/2016-minneapolis/program/matt-genelin">Matt Genelin -  Updating classic workplace sabotage techniques</a><br>
-        
-        
-        
-        
-        
-        
+        <a href="/events/2016-minneapolis/program/mike-bjerkness">Mike Bjerkness -  Why &lt;insert programming language here&gt; sucks</a><br>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
