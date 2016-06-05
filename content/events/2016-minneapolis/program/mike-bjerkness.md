@@ -10,7 +10,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-  Why &lt;insert programming language here&gt; sucks
+  Why &lt;insert programming language here&gt; Sucks
 </p>
 
 <p><strong>Description:</strong></p>
