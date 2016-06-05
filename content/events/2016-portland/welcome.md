@@ -14,42 +14,79 @@ aliases = ["/events/2016-portland"]
   {{< event_logo >}}
 </div>
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr>
-  <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
-  </tr>
-  <tr>
-    <td><b>Register</b></td>
-    <td><a href="https://devopsdayspdx2016.busyconf.com/bookings/new">Register to attend the event!</a></td>
-  </tr>
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdayspdx >}} <!-- add your twitter name here without the @ sign -->
-    </td>
-  </tr>
-</table>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://devopsdayspdx2016.busyconf.com/bookings/new">Register to attend the event!</a>
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Sponsors</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contact</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the Organizers" >}}
+  </div>
+</div>
+{{< event_twitter devopsdayspdx >}} <!-- add your twitter name here without the @ sign -->
 
 
 If you'd like to be notified about DevOpsDays PDX 2016, we've got the mailing list for you.  We won't ever sell the addresses on the list, we'll never let sponsors email it, it's just for us to let you know what's going on.
