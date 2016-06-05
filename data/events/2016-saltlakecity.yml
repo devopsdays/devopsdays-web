@@ -78,6 +78,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bluesquare
   - id: hpe-tr
     level: bluesquare
+  - id: ubuntu
+    level: bluesquare
   - id: centurylink
     level: greencircle
   - id: arresteddevops
