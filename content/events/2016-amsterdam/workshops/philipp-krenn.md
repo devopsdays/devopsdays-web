@@ -24,7 +24,7 @@ aliases = ["/events/2016-amsterdam/program/philipp-krenn/"]
 </p>
 
 <p>
- This workshop gives you an overview of the four technologies, how they are working together, and how they can solve your problems. And of course attendees are setting up the full stack on their laptop to try it out for themselves!"
+ This workshop gives you an overview of the four technologies, how they are working together, and how they can solve your problems. And of course attendees are setting up the full stack on their laptop to try it out for themselves!
 </p>
 
 
