@@ -552,7 +552,7 @@ tags = ["amsterdam","amsterdam-2016"]
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-3 box-darkgreen">
-    <strong><u>Security Talk Track:</u></strong><br /><a href="/events/2016-amsterdam/program/melanie-rieback" style="color:#62BBD9">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a>
+    <strong>Security Talk Track:</strong><br /><a href="/events/2016-amsterdam/program/melanie-rieback" style="color:#62BBD9">Melanie Rieback (Radically Open Security)<br />Pentesting ChatOps</a>
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
