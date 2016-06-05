@@ -26,50 +26,100 @@ aliases = ["/events/2016-oslo"]
 <!--## Call for papers
 {{< event_link page="propose" text="Propose a talk!" >}}. -->
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
-  <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr>
-  <tr>
-    <td><b>Location</b></td>
-    <td>{{< event_location >}}</td>
-  </tr>
-  <tr>
-    <td><b>Conference hotel</b></td>
-    <td><a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a></td>
-  </tr>
-  <tr>
-    <td><b>Alternatve accommodation</b></td>
-    <td>There are <a href="https://www.google.no/maps/search/Hoteller/@59.908037,10.7421253,17z/data=!3m1!4b1!4m8!2m7!3m6!1sHoteller!2sDronningensgate+4+Kvadraturen,+Gamle+Museet+Konferanse+og+Selskapslokaler,+0152+Oslo!3s0x46416e659eb51631:0xa98021d023cb87b2!4m2!1d10.744314!2d59.908029?hl=no">many alternatives</a> close by.
-  </tr>
-  <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}.</td>
-  </tr>
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="program" text="program" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.</td>
-  </tr>
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdaysoslo >}}
-    </td>
-  </tr>
-</table>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Register to attend the event!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Conference hotel</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Alternative accommodation</strong>
+  </div>
+  <div class = "col-md-8">
+    There are <a href="https://www.google.no/maps/search/Hoteller/@59.908037,10.7421253,17z/data=!3m1!4b1!4m8!2m7!3m6!1sHoteller!2sDronningensgate+4+Kvadraturen,+Gamle+Museet+Konferanse+og+Selskapslokaler,+0152+Oslo!3s0x46416e659eb51631:0xa98021d023cb87b2!4m2!1d10.744314!2d59.908029?hl=no">many alternatives</a> close by.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-3">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-3">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Sponsors</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Contact</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the Organizers" >}}
+  </div>
+</div>
+
+{{< event_twitter devopsdaysoslo >}}
+
+
 <hr>
 <div style="height:340px">
 <a class="twitter-timeline" href="https://twitter.com/search?q=devopsdaysoslo+OR+devopsdayoslo+OR+%23devopsdayoslo+OR+%23devopsdaysoslo" data-widget-id="710501757596651520">Tweets about DevOpsDays Oslo</a>

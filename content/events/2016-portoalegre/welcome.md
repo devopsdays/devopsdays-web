@@ -14,35 +14,68 @@ DevOps Days será em {{< event_location >}}!
   {{< event_logo >}}
 </div> -->
 
-<table>
-  <tr>
-    <td><b>Localização</b></td>
-    <td>{{< event_location >}}</td>
-  </tr>
-  <!-- <tr>
-    <td><b>Propose</b></td>
-    <td>{{< event_link page="propose" text="Propose a talk!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Register</b></td>
-    <td>{{< event_link page="registration" text="Register to attend the event!" >}}</td>
-  </tr> -->
-  <!-- <tr>
-    <td><b>Speakers</b></td>
-    <td>View the {{< event_link page="programacao" text="programação" >}}.</td>
-  </tr> -->
-  <tr>
-    <td><b>Patrocinadores</b></td>
-    <td>{{< event_link page="patrocinio" text="Patrocine o nosso evento" >}} Essa é uma grande forma de atrair novos talentos e promover sua organização.</td>
-  </tr>
-  <tr>
-    <td><b>Contatos</b></td>
-    <td>{{< event_link page="contato" text="Esteja em contato com os organizadores" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter poadevopsday >}} 
-    </td>
-  </tr>
-</table>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Localização</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="programacao" text="programação" >}}.
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Patrocinadores</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="patrocinio" text="Patrocine o nosso evento" >}} Essa é uma grande forma de atrair novos talentos e promover sua organização.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contatos</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="contato" text="Esteja em contato com os organizadores" >}}
+  </div>
+</div>
+
+{{< event_twitter poadevopsday >}}
