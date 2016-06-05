@@ -186,9 +186,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Evening event</strong>
-        
+        <p>
         Ignites<br>
-        <a href="/events/2016-minneapolis/program/matt-genelin">Matt Genelin -  Updating classic workplace sabotage techniques</a>
+        <a href="/events/2016-minneapolis/program/matt-genelin">Matt Genelin -  Updating classic workplace sabotage techniques</a><br>
         
         
         
