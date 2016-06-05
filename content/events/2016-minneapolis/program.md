@@ -188,7 +188,7 @@ type = "event"
         <strong>Evening event</strong>
         
         Ignites<br>
-        [Matt Genelin](http://devopsdays.org/events/2016-minneapolis/program/matt-genelin/)
+        <a href="/events/2016-minneapolis/program/matt-genelin">Matt Genelin -  Updating classic workplace sabotage techniques</a>
         
         
         
