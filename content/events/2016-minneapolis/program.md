@@ -186,6 +186,15 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Evening event</strong>
+        
+        Ignites<br>
+        [Matt Genelin](http://devopsdays.org/events/2016-minneapolis/program/matt-genelin/)
+        
+        
+        
+        
+        
+        
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
