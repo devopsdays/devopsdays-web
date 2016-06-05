@@ -10,7 +10,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-  Updating classic workplace sabotage techniques
+  Updating Classic Workplace Sabotage Techniques
 </p>
 
 <p><strong>Description:</strong></p>
