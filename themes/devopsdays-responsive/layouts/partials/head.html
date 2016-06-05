@@ -11,10 +11,8 @@
 {{ if eq $url "/" }}
     {{ .Site.Title }}
 {{ else }}
-    {{ if .Params.heading }}
-      {{ .Params.heading }}
-    {{ else }}
-      {{ .Title }}
+    {{ if .Params.heading }} {{ .Params.heading }}
+    {{ else }} {{ .Title }}
     {{ end }}
 {{ end }}
 </title>
