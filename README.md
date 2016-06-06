@@ -36,6 +36,14 @@ Then in a new window:
  $  hugo server -w --baseUrl="http://localhost:1313"
 ```
 
+A more permanent fix is to add the following to `/etc/sysctl.conf` (run `touch /etc/sysctl.conf` first if the file doesn't exist; it likely does not):
+
+```
+kern.maxfiles=20480 
+kern.maxfilesperproc=24576
+```
+...and reboot!
+
 ### Contribute changes
 1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. tl;dr: don't add "giant template change" in the same PR as "here are some more sponsors". If it affects anything other than your event, it should be in its own PR.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new ones if you like (or read/comment on existing ones).
