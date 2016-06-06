@@ -5,11 +5,6 @@ build:
         version: 0.15
         theme: devopsdays-responsive
         flags: --buildDrafts=false
-    - samueldebruyn/minify:
-        base_dir: public
-        css: false
-        js: false
-        only_on_branches: master
 
 deploy:
   steps:
