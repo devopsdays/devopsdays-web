@@ -4,7 +4,7 @@
     {{ if  and ( eq .status "current") ( .startdate ) }}
       {{ $.Scratch.Add "events" "<a href = '/events/" }}
       {{ $.Scratch.Add "events" .name }}
-      {{ $.Scratch.Add "events" "/welcome'>" }}
+      {{ $.Scratch.Add "events" "/welcome' class = 'upcoming-headline'>" }}
       {{ $.Scratch.Add "events" .city }}
       {{ $.Scratch.Add "events" "</a> - " }}
     {{ end }}
