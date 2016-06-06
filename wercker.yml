@@ -10,6 +10,9 @@ build:
         css: false
         js: false
         only_on_branches: master
+  after-steps:
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
 
 deploy:
   steps:
@@ -25,3 +28,6 @@ deploy:
         domain: www.devopsdays.org
         basedir: public
         repo: devopsdays/devopsdays.github.io
+  after-steps:
+    - wantedly/pretty-slack-notify:
+        webhook_url: $SLACK_WEBHOOK_URL
