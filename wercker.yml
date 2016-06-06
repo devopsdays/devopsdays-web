@@ -5,9 +5,11 @@ build:
         version: 0.15
         theme: devopsdays-responsive
         flags: --buildDrafts=false
-  after-steps:
-      - wantedly/pretty-slack-notify:
-          webhook_url: $SLACK_WEBHOOK_URL
+    - samueldebruyn/minify:
+        base_dir: public
+        css: false
+        js: false
+        only_on_branches: master
 
 deploy:
   steps:
