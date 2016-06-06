@@ -82,3 +82,15 @@ Generally speaking, you should avoid storing any files other than logos or small
 - Do not upload presentations, artifacts from your event, etc. Either link to the preso on Speakerdeck/Slideshare from the presenter, or even better, create a Speakerdeck account for your event and put the presos there.
 - Small, web images are fine (logos, etc). If you have high-resolution versions of your logo to share with others, please do not host them on the devopsdays-web repo.
 - It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `/static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
+
+## Advanced Contributions
+If you are going to be making changes to the core functionality of the site, please keep the following in mind:
+
+### CSS changes are done with LESS
+Please do NOT make changes to any of the files in the `/themes/devopsdays-responsive/static/css` directory. These are files that are compiled via LESS, and while your changes in there might work, they will be blown away by the LESS compiler at some point.
+
+If you want to make changes to CSS, you will need a LESS compiler on your system. [@mattstratton](https://github.com/mattstratton) uses [CodeKit](https://incident57.com/codekit/), but that is OS X only, and is not free. Here's a list of other possible LESS compilers (note - Matt has not tested any of these):
+- [SimpleLess](http://wearekiss.com/simpless) - all platforms, free.
+- [Less.js](http://lesscss.org/) - node application, free.
+
+The only place to make changes to the LESS files is in `/themes/devopsdays-responsive/static/site_variables.less` and `/themes/devopsdays-responsive/static/site.less`. Make sure your LESS compiler is compiling the output into `/themes/devopsdays-responsive/static/css/`. *DO NOT* make any changes to any other LESS file (do not directly modify the bootstrap LESS files, for example).
