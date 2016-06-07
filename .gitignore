@@ -46,3 +46,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+node_modules
+_mdwriter.cson
