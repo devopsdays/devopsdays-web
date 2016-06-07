@@ -43,7 +43,7 @@ team_members: # Name is the only required field for team members.
     employer: "Cava Grill"
   - name: "Mike DelNegro"
     twitter: "radiocats"
-    employer: "FireEye"
+    employer: "Deltek"
   - name: "Greg Elin"
     twitter: "gregelin"
     employer: "GovReady"
