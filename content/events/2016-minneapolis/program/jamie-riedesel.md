@@ -25,7 +25,7 @@ Monitoring is a stack, and like most web applications there are discrete compone
 </p>
 <p>
 
-We will cover what those components are and how they work together. What’s more, we’ll touch on the conversations you should have as you work to systematize your monitoring practices. We won’t tell you what technology you should use, that’s entirely up to you."
+We will cover what those components are and how they work together. What’s more, we’ll touch on the conversations you should have as you work to systematize your monitoring practices. We won’t tell you what technology you should use, that’s entirely up to you.
 
 </p>
 
