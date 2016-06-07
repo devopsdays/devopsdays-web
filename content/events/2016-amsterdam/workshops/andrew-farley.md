@@ -50,7 +50,7 @@ To participate in this workshop and to maximize what you can get out of this wor
 In this workshop I will provide…
 </p>
 
-<p><
+<p>
 • Slides at the start of the chat<br />
 • Demo/Sample API endpoints and code to be used by some of the workshop<br />
 • Various sample codebases and/or tools in various git repositories to be used in the workshop<br />
