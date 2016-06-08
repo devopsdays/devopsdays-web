@@ -18,6 +18,15 @@ aliases = ["/events/2016-washington-dc"]
 DevOpsDays DC will be held **June 8 and 9, 2016** at the {{< event_link page="location"
 text="US Patent and Trademark Office" >}} in Alexandria, Virginia.
 
+## Watch The Live Stream
+
+<iframe id="ls_embed_1465389591"
+src="//livestream.com/accounts/4828334/events/5290229/player?width=560&height=315&autoPlay=true&mute=false"
+width="560" height="315" frameborder="0" scrolling="no"></iframe>
+
+Courtesy of our Platinum and Venue Sponsor, the [US Patent and Trademark
+Office](http://www.uspto.gov/)
+
 ## Registration and ticket sales
 
 [Tickets are on sale now](https://devopsdaysdc2016.busyconf.com/bookings/new)
