@@ -368,7 +368,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>08:00-09:00</time>
+    <time>08:30-09:20</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
@@ -382,7 +382,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>09:00-09:15</time>
+    <time>09:20-09:30</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
@@ -396,7 +396,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>09:15-09:45</time>
+    <time>09:30-10:00</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
@@ -410,7 +410,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>09:45-10:00</time>
+    <time>10:00-10:10</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
@@ -424,7 +424,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>10:00-10:30</time>
+    <time>10:10-10:40</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
@@ -438,7 +438,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>10:30-10:45</time>
+    <time>10:40-10:50</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
@@ -452,7 +452,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>10:45-11:15</time>
+    <time>10:50-11:20</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
@@ -466,7 +466,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>11:15-11:30</time>
+    <time>11:20-11:30</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
