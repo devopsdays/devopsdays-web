@@ -46,10 +46,10 @@ tags = ["amsterdam","amsterdam-2016"]
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/simon-fisher">Simon Fisher (Chef) <br /> Out with the old, in with the new – Modernizing Application Deployment</a></div>
 </div>
 
-<div class="span-15 box-green centerstyle"><h4>14:30 - 15:00 Break</h4></div>
+<div class="span-15 box-green centerstyle"><h4>14:30 - 14:45 Break</h4></div>
 
 <div>
-    <div class="box-orange span-15 centerstyle"><h4><b>15:00 - 17:30</b> Workshop Schedule</h4></div>
+    <div class="box-orange span-15 centerstyle"><h4><b>14:45 - 17:15</b> Workshop Schedule</h4></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/andrew-farley">Andrew Farley (Olindata) <br /> Designing Scalable Services on Amazon’s Web Services</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/arnold-van-wijnbergen">Arnold van Wijnbergen (Devoteam) <br /> First steps to create your IT Operations data lake with ELK Stack and Graphite</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/bas-meijer">Bas Meijer (Independent Consultant)<br /> Ansible, best practices</a></div>
@@ -57,6 +57,6 @@ tags = ["amsterdam","amsterdam-2016"]
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/tiziano-perrucci">Tiziano Perrucci (Independent Consulant) <br /> Feature based continuous deployment</a></div>
 </div>
 
-<div class="span-15 box-green centerstyle"><h4>17:30 - 18:30 Happy Hour sponsored by devopsdays Amsterdam</h4></div>
+<div class="span-15 box-green centerstyle"><h4>17:15 - 18:30 Happy Hour sponsored at <a href="https://goo.gl/maps/eDjgFTvp2ev">Cafe Delirium (6 minute walk)</a></h4></div>
 
 </div>
