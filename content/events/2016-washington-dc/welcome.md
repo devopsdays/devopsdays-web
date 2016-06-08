@@ -20,8 +20,8 @@ text="US Patent and Trademark Office" >}} in Alexandria, Virginia.
 
 ## Watch The Live Stream
 
-<iframe id="ls_embed_1465389591"
-src="//livestream.com/accounts/4828334/events/5290229/player?width=560&height=315&autoPlay=true&mute=false"
+<iframe id="ls_embed_1465391059"
+src="//livestream.com/accounts/4828334/events/5290229/player?width=560&height=315&autoPlay=false&mute=false"
 width="560" height="315" frameborder="0" scrolling="no"></iframe>
 
 Courtesy of our Platinum and Venue Sponsor, the [US Patent and Trademark
