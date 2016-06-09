@@ -247,7 +247,7 @@ type = "event"
         <time>09:55-10:15</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="http://dodsv2016.busyconf.com/activities/57283b31150a7ef24300008b">Ramin Khatibiz - How I Learned to Change My Mind and Became a Better Engineer</a>
+        <a href="http://dodsv2016.busyconf.com/activities/57283b31150a7ef24300008b">Ramin Khatibi - How I Learned to Change My Mind and Became a Better Engineer</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -310,7 +310,7 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="http://dodsv2016.busyconf.com/activities/57278398bd6d6fe40c000102">Dave Dash , Nicole Grinstead, and Melissa Sandgren - (Parental) Leave Actually</a>
+        <a href="http://dodsv2016.busyconf.com/activities/57278398bd6d6fe40c000102">Dave Dash, and Nicole Grinstead - (Parental) Leave Actually</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
