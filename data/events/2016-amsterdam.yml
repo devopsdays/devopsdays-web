@@ -25,8 +25,6 @@ proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal e
 sponsors_accepted: "no"
 sponsors:
   # gold
-  - id: chef
-    level: gold
   - id: github
     level: gold
   - id: microsoft
@@ -62,6 +60,8 @@ sponsors:
   - id: indigo
     level: bronze
   - id: 2016-inuits
+    level: bronze
+  - id: nuagenetworks
     level: bronze
   - id: pcextreme
     level: bronze
