@@ -25,7 +25,8 @@ src="//livestream.com/accounts/4828334/events/5290229/player?width=560&height=31
 width="560" height="315" frameborder="0" scrolling="no"></iframe>
 
 Courtesy of our Platinum and Venue Sponsor, the [US Patent and Trademark
-Office](http://www.uspto.gov/)
+Office](http://www.uspto.gov/). Archived video is available via
+[Livestream.com](http://livestream.com/uspto/Devops2016).
 
 ## Registration and ticket sales
 
