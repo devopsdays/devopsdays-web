@@ -21,7 +21,7 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 <div style="width:590px">
   <table border=1 cellspacing=1>
     <tr>
-      <th><i>packages</i></th>
+      <th><i>Packages</i></th>
       <th><center><b><u>Bronze<br />1000 USD</u></center></b></th>
       <th><center><b><u>Silver<br />2500 USD</u></center></b></th>
       <th><center><b><u>Gold<br />5000 USD</u></center></b></th>
