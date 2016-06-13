@@ -5,7 +5,7 @@ type = "event"
 
 +++
 
-DevOpsDays DC 2016 will be held at [The United States Patent and Trademark
+DevOpsDays DC 2016 was held at [The United States Patent and Trademark
 Office](http://www.uspto.gov/)'s Madison Auditorium at 600 Dulany Street,
 Alexandria, Virginia, just outside the District (but inside the Beltway!) Please
 see [USPTO's directions
