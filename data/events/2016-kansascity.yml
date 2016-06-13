@@ -24,7 +24,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://www.papercall.io/devopsdayskc
   - name: location
-#  - name: registration
+  - name: registration
+    url: http://devopsdayskc.eventbrite.com/
   - name: sponsor
   - name: contact
   - name: conduct
