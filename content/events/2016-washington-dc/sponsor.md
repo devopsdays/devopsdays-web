@@ -5,8 +5,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  **All of our current Sponsorship
-options have sold out**.  Would you like to [sponsor DevOpsDays
+**DevOpsDays DC 2016 has ended.** Would you like to [sponsor DevOpsDays
 Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/)?
 
 <style>
@@ -87,14 +86,6 @@ Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/)?
 </tbody>
 </table>
 
-**All of our current Sponsorship options have sold out**.
-
-Although we no longer have sponsorships available, there will be another
-DevOpsDays in the area later this Summer.  Checkout the [sponsorship
-opportunities for DevOpsDays
-Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/).
-
-
 ### Silver - SOLD OUT
 
 * 2 included tickets
@@ -117,7 +108,7 @@ Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/).
 
 We greatly value sponsors for this open event.
 
-Although we no longer have sponsorships available, there will be another
+Although DevOpsDays DC 2016 has ended, there will be another
 DevOpsDays in the area later this Summer.  Checkout the [sponsorship
 opportunities for DevOpsDays
 Baltimore](http://www.devopsdays.org/events/2016-baltimore/sponsor/).
