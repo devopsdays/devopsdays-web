@@ -16,7 +16,7 @@ coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude 
 location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 
 # Team members
-team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjan Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Marjana Shammi", "Mine Heck", "Daniel Paulus", "Mark Heistek"]
+team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjen Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Marjana Shammi", "Mine Heck", "Daniel Paulus", "Mark Heistek"]
 
 # Emails
 organizer_email: "organizers-amsterdam-2016@devopsdays.org" # Put your organizer email address here
@@ -25,8 +25,6 @@ proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal e
 sponsors_accepted: "no"
 sponsors:
   # gold
-  - id: chef
-    level: gold
   - id: github
     level: gold
   - id: microsoft
@@ -60,6 +58,12 @@ sponsors:
   - id: devoteam
     level: bronze
   - id: indigo
+    level: bronze
+  - id: 2016-inuits
+    level: bronze
+  - id: nuagenetworks
+    level: bronze
+  - id: pcextreme
     level: bronze
   - id: 2015-sdl
     level: bronze
@@ -164,6 +168,8 @@ speakers:
   - id: "dave-van-herpen"
     level: talk
   - id: "karleen-wijsman"
+    level: talk
+  - id: "jan-de-vries"
     level: talk
   - id: "jim-leitch"
     level: talk

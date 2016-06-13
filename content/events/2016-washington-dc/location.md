@@ -12,12 +12,19 @@ see [USPTO's directions
 page](http://www.uspto.gov/about/contacts/locations/directions.jsp) for driving
 directions and parking information.
 
+View the [site layout](https://drive.google.com/open?id=0BwBlCaTaiDH-dnVTRXJfT3NBbEU)
+to see the sponsor tables, registration, and lunch area.
 
-We recommend the [Westin](https://www.starwoodmeeting.com/events/start.action?id=1604145506&key=15F5399A), just a few
-blocks from the USPTO. Reserve your room in the <strong>DevOpsDays Room Block</strong> for 
-$249 per night by May 15.
+## Local Hotels
 
-<a href="https://www.starwoodmeeting.com/events/start.action?id=1604145506&key=15F5399A"><img src="/events/2016-washington-dc/wes1718ex.109692_lg.jpg"></a>
+There are a number of hotels near the US Patent and Trademark Office.  Some
+options include:
+
+* [The Westin Alexandria](http://www.westinalexandria.com/) - official hotel of
+DevOpsDays DC.
+* [Residence Inn Alexandria Old Town/Duke Street](http://www.marriott.com/hotels/travel/wasdk-residence-inn-alexandria-old-town-duke-street/)
+* [Hilton Alexandria Old Town](http://www3.hilton.com/en/hotels/virginia/hilton-alexandria-old-town-DCAOTHF/index.html)
+* [Wyndham Old Town Alexandria](https://www.extraholidays.com/washington-dc/wyndham-old-town-alexandria.aspx)
 
 DC and Northern Virginia traffic is consistently rated among the worst in the
 nation, so we recommend that you do not drive, especially if you are visiting

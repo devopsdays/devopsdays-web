@@ -5,10 +5,10 @@ friendly: "2016-newyork" # Four digit year and the city name in lower-case. Don'
 status: "current" # Options are "past" or "current".
 startdate: 2016-09-23 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-09-24 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2016-06-01
-cfp_date_end: 2016-07-01
-cfp_date_announce: 2016-07-30
-coordinates: "40.7127, -74.0059" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+cfp_date_start: 2016-05-22
+cfp_date_end: 2016-07-15
+cfp_date_announce: 2016-08-10
+coordinates: "40.7127, -74.0059" # The coordinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Microsoft Technology Center" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -16,9 +16,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: location
 #  - name: program
-#  - name: propose
-#  - name: registration
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: propose
+  - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-new-york-2016-tickets-25887868311 # The url setting is optional, and only if you want the navigation to link off-site
   - name: conduct
   - name: sponsor
 

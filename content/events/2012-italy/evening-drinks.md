@@ -23,7 +23,7 @@ Location is in Testaccio, a quartier of Rome with vibrant night life. you can ge
 
 ### Sponsored by
 
-<img border=0 title'github' width=150px height=150px src='logos/github.png'>
+<img border=0 title='github' width=150px height=150px src='logos/github.png'>
 
 ### Map
 

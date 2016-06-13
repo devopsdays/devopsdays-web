@@ -10,20 +10,22 @@ aliases = ["/events/2016-bangalore"]
 
 DevOps Days is returning to Bangalore!
 
-<table>
-  <tr>
-    <td><b>Dates</b></td>
-    <td>{{< event_start >}} - {{< event_end >}}
-  </tr>
 
-  <tr>
-    <td><b>Contact</b></td>
-    <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>
-    {{< event_twitter devopsdaysin >}}
-    </td>
-  </tr>
-</table>
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contact</strong>
+  </div>  <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+{{< event_twitter devopsdaysin >}}
+
