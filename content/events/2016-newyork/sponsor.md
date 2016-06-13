@@ -13,9 +13,8 @@ We greatly value sponsors for this community event. If you are interested in spo
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <br>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
+Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br>
 <hr/>
 
@@ -73,38 +72,38 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 
   <tr>
-  	<td>included tickets</td>
+  	<td>Included tickets</td>
     <td bgcolor="bronze"><center><strong>1</strong></center></td>
     <td bgcolor="silver"><center><strong>2</strong></center></td>
     <td bgcolor="gold"><center><strong>3</strong></center></td>
   </tr>
 
   <tr>
-   <td>logo on event website</td>
+   <td>Logo on event website</td>
    <td bgcolor="bronze">&nbsp;</td>
    <td bgcolor="silver">&nbsp;</td>
    <td bgcolor="gold">&nbsp;</td>
  </tr>
  <tr>
-   <td>logo on shared slide, rotating during breaks</td>
+   <td>Logo on shared slide, rotating during breaks</td>
    <td bgcolor="bronze">&nbsp;</td>
    <td bgcolor="silver">&nbsp;</td>
    <td bgcolor="gold">&nbsp;</td>
  </tr>
  <tr>
-   <td>logo on all email communication</td>
+   <td>Logo on all email communication</td>
    <td>&nbsp;</td>
    <td bgcolor="silver">&nbsp;</td>
    <td bgcolor="gold">&nbsp;</td>
  </tr>
  <tr>
-   <td>logo on its own slide, rotating during breaks</td>
+   <td>Logo on its own slide, rotating during breaks</td>
    <td>&nbsp;</td>
    <td bgcolor="silver">&nbsp;</td>
    <td bgcolor="gold">&nbsp;</td>
  </tr>
  <tr>
-   <td>mention by MC at kickoff and close</td>
+   <td>Mention by MC at kickoff and close</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td bgcolor="gold">&nbsp;</td>
@@ -116,13 +115,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
    <td bgcolor="gold">&nbsp;</td>
  </tr>
  <tr>
-   <td>shared table for swag</td>
-   <td>&nbsp;</td>
+   <td>Shared table for swag</td>
+   <td bgcolor="bronze">&nbsp;</td>
    <td bgcolor="silver">&nbsp;</td>
    <td>&nbsp;</td>
  </tr>
  <tr>
-   <td>sponsor table space</td>
+   <td>Sponsor table space</td>
    <td>&nbsp;</td>
    <td>&nbsp;</td>
    <td bgcolor="gold">&nbsp;</td>
