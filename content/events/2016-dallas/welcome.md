@@ -40,7 +40,7 @@ aliases = ["/events/2016-dallas"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="proposals" text="Propose a talk!" >}}
   </div>
 </div>
 
