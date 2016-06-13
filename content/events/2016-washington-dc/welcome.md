@@ -15,10 +15,10 @@ aliases = ["/events/2016-washington-dc"]
 ### A house divided against itself cannot stand.
 
 **_Change is in session!_**
-DevOpsDays DC will be held **June 8 and 9, 2016** at the {{< event_link page="location"
+DevOpsDays DC was held **June 8 and 9, 2016** at the {{< event_link page="location"
 text="US Patent and Trademark Office" >}} in Alexandria, Virginia.
 
-## Watch The Live Stream
+## Review The Video
 
 <iframe id="ls_embed_1465391059"
 src="//livestream.com/accounts/4828334/events/5290229/player?width=560&height=315&autoPlay=false&mute=false"
@@ -27,18 +27,6 @@ width="560" height="315" frameborder="0" scrolling="no"></iframe>
 Courtesy of our Platinum and Venue Sponsor, the [US Patent and Trademark
 Office](http://www.uspto.gov/). Archived video is available via
 [Livestream.com](http://livestream.com/uspto/Devops2016).
-
-## Registration and ticket sales
-
-[Tickets are on sale now](https://devopsdaysdc2016.busyconf.com/bookings/new)
-for both Government and private sector employees ($100 each).  Please [register
-early](https://devopsdaysdc2016.busyconf.com/bookings/new).  Some ticket types
-have already **sold out**.
-
-## Schedule
-
-The keynote and ignite sessions have been announced and are now [available on
-the schedule](http://devopsdaysdc2016.busyconf.com/schedule).
 
 ## Why Attend?
 
@@ -53,23 +41,6 @@ shop with DevOps practitioners, _DevOpsDays is for you._
 
 DevOpsDays are a mix of keynote sessions and [open
 spaces](http://en.wikipedia.org/wiki/Open_Space_Technology).
-
-## Local Hotels
-
-There are a number of hotels near the US Patent and Trademark Office.  Some
-options include:
-
-* [The Westin Alexandria](http://www.westinalexandria.com/) - official hotel of
-DevOpsDays DC.
-* [Residence Inn Alexandria Old Town/Duke Street](http://www.marriott.com/hotels/travel/wasdk-residence-inn-alexandria-old-town-duke-street/)
-* [Hilton Alexandria Old Town](http://www3.hilton.com/en/hotels/virginia/hilton-alexandria-old-town-DCAOTHF/index.html)
-* [Wyndham Old Town Alexandria](https://www.extraholidays.com/washington-dc/wyndham-old-town-alexandria.aspx)
-
-## Sponsorship
-
-DevOpsDays is a self-organizing conference for DevOps practitioners that depends
-on your sponsorships to happen.  We no longer have sponsorship opportunities
-available.
 
 ## About Washington, DC
 
