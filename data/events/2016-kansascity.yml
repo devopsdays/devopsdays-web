@@ -21,10 +21,11 @@ location: "Musical Theater Heritage" # Defaults to city, but you can make it the
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: propose
+    url: https://www.papercall.io/devopsdayskc
   - name: location
-#  - name: registration
+  - name: registration
+    url: http://devopsdayskc.eventbrite.com/
   - name: sponsor
   - name: contact
   - name: conduct
