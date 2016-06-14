@@ -14,8 +14,8 @@ newnav: "yes"
 # navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "conduct", "sponsor"]
 nav_elements:
   - name: welcome
-  - name: propose
-    url: http://cfp.devopsdayschi.org
+  # - name: propose
+  #   url: http://cfp.devopsdayschi.org
   - name: registration
   - name: sponsor
   - name: volunteer
@@ -23,7 +23,17 @@ nav_elements:
   - name: contact
   - name: conduct
 
-team: ["Jerry Cattell", "Brian Devlin", "Cora Hays-Magan", "Michael Lanyon", "Aaron Lindstrom", "Chris Read", "Kevin Reedy", "Sasha Rosenbaum", "Matt Stratton"]
+team_members:
+  - name: "Jerry Cattell"
+  - name: "Brian Devlin"
+  - name: "Cora Hays-Magan"
+  - name: "Michael Lanyon"
+  - name: "Aaron Lindstrom"
+  - name: "Chris Read"
+  - name: "Kevin Reedy"
+  - name: "Sasha Rosenbaum"
+  - name: "Matt Stratton"
+    twitter: "mattstratton"
 organizer_email: "organizers@devopsdayschi.org"
 proposal_email: "cfp@devopsdayschi.org"
 ga_tracking_id: "UA-74738648-1"
