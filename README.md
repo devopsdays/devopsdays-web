@@ -94,6 +94,11 @@ Generally speaking, you should avoid storing any files other than logos or small
 ## Advanced Contributions
 If you are going to be making changes to the core functionality of the site, please keep the following in mind:
 
+### Changes to content should be separate from the core
+"Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories. 
+
+Changes to content should be submitted as a separate PR from changes to core functionality. It would be additionally delightful if you label PR's for core (such as `bug` or `enhancement`), but that's not required.
+
 ### CSS changes are done with LESS
 Please do NOT make changes to any of the files in the `/themes/devopsdays-responsive/static/css` directory. These are files that are compiled via LESS, and while your changes in there might work, they will be blown away by the LESS compiler at some point.
 
