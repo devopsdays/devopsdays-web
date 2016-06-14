@@ -11,11 +11,20 @@ aliases = ["/events/2016-singapore"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-**DevOpsDays is coming back to Singapore!**
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center; margin-bottom: 1.5em;">
   {{< event_logo >}}
-</div> -->
+  <img src="/events/2016-singapore/logo_text.png" width="660">
+</div>
+
+This 2-day event brings together development and operations professionals from Singapore and around the world. It is organized by people who care about DevOps, for people who care about collaboration, automation, measurement, and improvement.
+
+DevOpsDays are are organized frequently around the globe and this is the first conference in Singapore designed to bridge the gap between development and operations, providing a platform to
+
+- Share Experiences and Ideas
+- Get Advice
+- Learn from your Peers
+- Check out New Tools
+- And much more!
 
 <div class = "row">
   <div class = "col-md-2">
@@ -85,8 +94,7 @@ aliases = ["/events/2016-singapore"]
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the Organizers" >}}
+    {{< event_link page="contact" text="Get in touch with the Organizers" >}}<br>
+    {{< event_twitter devopsdayssg >}}
   </div>
 </div>
-
-{{< event_twitter devopsdayssg >}} <!-- add your twitter name here without the @ sign -->
