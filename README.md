@@ -92,7 +92,12 @@ Generally speaking, you should avoid storing any files other than logos or small
 - It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `/static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
 
 ## Advanced Contributions
-If you are going to be making changes to the core functionality of the site, please keep the following in mind:
+If you are going to be making changes to the overall functionality of the site, please keep the following in mind:
+
+### Changes to content should be separate from overall functionality
+"Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories. 
+
+Changes to content should be submitted as a separate PR from changes to site functionality. It would be additionally delightful if you label PR's for site functionality (such as `bug` or `enhancement`), but that's not required.
 
 ### CSS changes are done with LESS
 Please do NOT make changes to any of the files in the `/themes/devopsdays-responsive/static/css` directory. These are files that are compiled via LESS, and while your changes in there might work, they will be blown away by the LESS compiler at some point.
