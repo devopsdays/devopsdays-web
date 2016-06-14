@@ -39,6 +39,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: pagerduty
     level: silver
+  - id: wavefront
+    level: silver
   - id: 2016-monitis
     level: tsponsors
   - id: datadog
