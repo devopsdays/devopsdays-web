@@ -33,6 +33,8 @@ tags = ["amsterdam","amsterdam-2016"]
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/dave-van-herpen">Dave van Herpen & Robert den Broeder (Sogeti) <br /> Creating high-performance teams with DevOps behavior</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/remi-bergsma">Remi Bergsma & Fred Neubauer (Schuberg Philis) <br /> Build your own Cloud in record time with Cosmic</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/stefan-stolzle">Stefan Stölzle (Github) <br /> Implementing a CI and CD Pipeline with GitHub</a></div>
+    <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/mark-van-holsteijn">Mark van Holsteijn (Xebia) <br /> Working with Docker & Microsoft Azure Container Service</a></div>
+
 </div>
 
 <div class="span-15 box-green centerstyle"><h4>11:30 - 12:00 Fast Lunch (Catered)</h4></div>
