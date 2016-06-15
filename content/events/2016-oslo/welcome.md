@@ -10,9 +10,7 @@ aliases = ["/events/2016-oslo"]
   {{< event_logo >}}
 <!--</div> -->
 
-<!--## DevOps Days is coming to {{< event_location >}}!</h2> -->
-
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <p>For the first time, DevOpsDays is coming to Oslo!</p>
 
@@ -77,7 +75,7 @@ aliases = ["/events/2016-oslo"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    CfP is closed, but you can still {{< event_link page="propose" text="propose an ignite talk!" >}}
+    Call for papers is closed, but you can still {{< event_link page="propose" text="propose an ignite talk!" >}}
   </div>
 </div>
 
