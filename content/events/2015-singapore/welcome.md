@@ -18,7 +18,7 @@ aliases = ["/events/2015-singapore"]
       </div>
       <div class="span-15">
         <div class="span-15 last">
-          <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/devopsdayssg/22165830280/in/dateposted/" title="DevOps2015_SG-7889"><img src="https://farm1.staticflickr.com/646/22165830280_c7ff55bfb6.jpg" width="100%" alt="DevOps2015_SG-7889"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+          <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/devopsdayssg/22165830280/in/dateposted/" title="DevOpsDays Singapore 2015"><img src="https://farm1.staticflickr.com/646/22165830280_c7ff55bfb6.jpg" width="650" alt="DevOpsDays Singapore 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
           <table>
             <tr>
               <td style="width: 295px; vertical-align: top;">
@@ -53,7 +53,8 @@ aliases = ["/events/2015-singapore"]
       </div>
       <div class="span-8 last">
         <div class="span-8 last">
-          <a href='http://www.thoughtworks.com/' target='_blank'><img alt='ThoughtWorks' title='ThoughtWorks' width='100%' style='' src='/events/2015-singapore/logos/thoughtworks.png'></a>
+          <h1>Host Sponsor</h1>
+          <a href='http://www.thoughtworks.com/' target='_blank'><img alt='ThoughtWorks' title='ThoughtWorks' width='450' style='' src='/events/2015-singapore/logos/thoughtworks.png'></a>
           <br/>
           <br/>
           <br/>

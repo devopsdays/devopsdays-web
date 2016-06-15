@@ -37,6 +37,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: extrahop
     level: silver
+  - id: pagerduty
+    level: silver
+  - id: wavefront
+    level: silver
+  - id: 2016-monitis
+    level: tsponsors
   - id: datadog
     level: absponsor
   - id: dataloop
@@ -51,6 +57,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: 2016-d4k_usa
     level: community
+  - id: 2016-viawest
+    level: stsponsor
+  - id: overnest
+    level: stsponsor
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -65,8 +75,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Afternoon Break
   - id: bronze
     label: Bronze
-  - id: psponsor
-    label: Party
+  - id: stsponsor
+    label: StartUp
   - id: community
     label: Community
 
