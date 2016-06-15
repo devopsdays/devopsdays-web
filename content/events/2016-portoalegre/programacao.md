@@ -8,7 +8,7 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12">
     <hr />
-Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pages/open-space-format">deve ler mais sobre isso</a>.
+    <strong>Grade de palestras sujeita a alteração</strong>
     <hr />
   </div>
 </div>
@@ -41,7 +41,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>09:00-09:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Infra ágil do conceito a prática</strong> - Guto Carvalho
+        <a href="/events/2016-portoalegre/programa/infraagil"><strong> Infra ágil do conceito a prática</strong> - Guto Carvalho</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -50,7 +50,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>09:35-09:50</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>DevOps: Primeiros Passos</strong> - Fernanda Martins
+        <a href="/events/2016-portoalegre/programa/devops"><strong>DevOps: Primeiros Passos</strong> - Fernanda Martins</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -59,7 +59,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>09:55-10:10</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ansible Vault</strong> - Mantendo arquivos de configuração secretos - Iury Alves
+        <a href="/events/2016-portoalegre/programa/vault"><strong>Ansible Vault</strong> - Mantendo arquivos de configuração secretos - Iury Alves</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>10:15-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Docker CI</strong> - Vinícius de Jesus e Rodrigo Morais
+        <a href="/events/2016-portoalegre/programa/dockerci"><strong>Docker CI</strong> - Vinícius de Jesus e Rodrigo Morais</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -95,7 +95,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>11:40-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Dissecando e entendendo pipelines de entrega de software</strong> - Guilherme Motta
+        <a href="/events/2016-portoalegre/programa/pipeline"><strong>Dissecando e entendendo pipelines de entrega de software</strong> - Guilherme Motta</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>12:00-12:15</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Blue-Green Deployment com Docker</strong> - Pedro Cavalheiro
+        <a href="/events/2016-portoalegre/programa/bluegreen"><strong>Blue-Green Deployment com Docker</strong> - Pedro Cavalheiro</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,7 +122,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>13:40-14:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <a href="http://www.devopsdays.org/ignite-talks-format/"><strong>Ignites</strong></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -131,7 +131,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>14:25-15:05</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open spaces</strong>
+        <a href="http://www.devopsdays.org/open-space-format/"><strong>Open spaces</strong></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -149,7 +149,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>15:40-15:55</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Métricas real-time com ELK</strong> - Waldemar Neto e Jefferson Stachelski
+        <a href="/events/2016-portoalegre/programa/elk"><strong>Métricas real-time com ELK</strong> - Waldemar Neto e Jefferson Stachelski</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -158,7 +158,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>16:00-16:15</time>
       </div>
       <div class = "col-md-6 box">
-       <strong>Da idade da pedra a Cloud - Do monolítico em busca do micro serviço</strong> - Rafael Gomes e Thiago Xavier
+       <strong>Palestra convidada a confirmar</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -167,7 +167,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>16:20-16:35</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Testes de provisionamento: garantindo a qualidade da sua infraestrutura</strong> - Glauco Vinicius
+        <a href="/events/2016-portoalegre/programa/testeinfra"><strong>Testes de provisionamento: garantindo a qualidade da sua infraestrutura</strong> - Glauco Vinicius</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -185,7 +185,7 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>17:20-18:00</time>
       </div>
       <div class = "col-md-6 box">
-      <strong>Fishbowl</strong>
+      <a href="http://agiletrendsbr.com/fishbowls/"><strong>Fishbowl</strong></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
