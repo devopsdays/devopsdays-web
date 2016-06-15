@@ -10,7 +10,11 @@ type = "talk"
 <div class="span-15">
   <div class="span-15 last">
     <h2>Keynote</h2>
-    TBA
+    <p>TBA</p>
+
+    <h2>When</h2>
+    Saturday, 8th October
+
     <h2>About</h2>
     <p>
     <img src="https://pbs.twimg.com/profile_images/560587841445445632/YAgfrk50_400x400.jpeg" style="width: 150px; float: left; margin-right: 1em;">
