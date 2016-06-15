@@ -167,7 +167,8 @@ type = "event"
         <time>16:20-16:35</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-portoalegre/programa/testeinfra"><strong>Testes de provisionamento: garantindo a qualidade da sua infraestrutura</strong> - Glauco Vinicius</a>
+        <a href="/events/2016-portoalegre/programa/ddosaws"><strong>
+DDoS Resiliency on AWS</strong> - Joao Palma</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
