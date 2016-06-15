@@ -77,7 +77,7 @@ aliases = ["/events/2016-oslo"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    CfP is closed, but you can still {{< event_link page="propose" text="propose an ignite talk!" >}}
   </div>
 </div>
 
