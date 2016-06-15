@@ -6,10 +6,10 @@ type = "event"
 
 <hr>
 Call for papers is now closed, but you can still propose an ignite talk!
-<ol>
+<ul>
   <li><strong><em>An Ignite talk</em></strong> will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
   <li><strong><em>Open Space session</em></strong>: even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
-</ol>
+</ul>
 
 Our main criteria to make it to the top selection are:
 
