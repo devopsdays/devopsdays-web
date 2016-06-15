@@ -34,7 +34,7 @@ type = "talk"
 
     <h2>Description</h2>
     <p><img src="https://pbs.twimg.com/profile_images/517438651253276672/qQuEwsRL_400x400.jpeg" style="width: 150px; float: left; margin-right: 1em;">
-    Director of Evangelism at @HashiCorp. Author of books at @OReillyMedia. Alum of @CarnegieMellon. Frequenter of stages. Lover of learning.
+    Seth Vargo is the Director of Evangelism at HashiCorp. Previously, Seth worked at Chef (Opscode), CustomInk, and a few Pittsburgh-based startups. He the author of Learning Chef and is passionate about reducing inequality in technology. When he is not writing, working on open source, or speaking at conferences, Seth enjoys spending time with his friends and advising non-profits. He loves all things bacon.
     <br>
     {{< event_twitter sethvargo >}}
     </p>
