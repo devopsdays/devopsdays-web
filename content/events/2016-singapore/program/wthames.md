@@ -11,6 +11,9 @@ type = "talk"
   <div class="span-15 last">
     <h2>Workshop - Ansible: From Zero to Best Practices</h2>
 
+    <h2>When</h2>
+    Sunday, 9th October, 9AM-2:30PM (tentative)
+
     <h2>Audience</h2>
     TBA
 
