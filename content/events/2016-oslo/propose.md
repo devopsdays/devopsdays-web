@@ -3,18 +3,13 @@ date = "2016-05-04T09:30:06+02:00"
 title = "propose"
 type = "event"
 +++
-  {{< cfp_dates >}}
 
 <hr>
-There are four ways to propose a session:
-<ol>
-  <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
-  <li><strong><em>An Ignite talk</em></strong> that will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
-  <li>We are considering having <strong><em>workshops</em></strong>, but we cannot promise it. So if you've got a good proposal, send it in, and we will consider it!"</li>
+Call for papers is now closed, but you can still propose an ignite talk!
+<ul>
+  <li><strong><em>An Ignite talk</em></strong> will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
   <li><strong><em>Open Space session</em></strong>: even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
-</ol>
-
-<!--### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}-->
+</ul>
 
 Our main criteria to make it to the top selection are:
 
@@ -38,7 +33,7 @@ Our main criteria to make it to the top selection are:
 </ul>
 
 <br>
-<p>Fill in the form below to propose your talk <b><a href="https://devopsdaysoslo.typeform.com/to/N46Faw" target="_blank">Click here if you prefer a full-screen experience.</a></b></p>
+<p>Fill in the form below to propose your ignite talk <b><a href="https://devopsdaysoslo.typeform.com/to/N46Faw" target="_blank">Click here if you prefer a full-screen experience.</a></b></p>
 
 <div class="typeform-widget" data-url="https://devopsdaysoslo.typeform.com/to/N46Faw" data-text="DevOpsDays Oslo 2016" style="width:100%;height:500px;"></div>
 
