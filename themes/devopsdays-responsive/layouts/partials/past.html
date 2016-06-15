@@ -10,8 +10,8 @@ Chomping .year has the nice effect of turning an int into string. -->
   {{ $r_year := . }}
   {{ range $.Site.Data.events }}
     {{ if and (eq .year $r_year) (eq .status "past")  }}
-      {{ $.Scratch.SetInMap "active_years" (chomp .year) (chomp .year) }}
-      {{ $.Scratch.SetInMap (chomp .year) .startdate (.name) }}
+      {{ $.Scratch.SetInMap "active_years" (print (chomp .year)) (print (chomp .year)) }}
+      {{ $.Scratch.SetInMap (print (chomp .year)) .startdate (.name) }}
     {{ end }}
   {{ end }}
 {{ end }}
@@ -29,7 +29,7 @@ Chomping .year has the nice effect of turning an int into string. -->
       <br/>
         <!-- Finally, scan throug the scratch with the ID of that year and print all the events sorted by startdate
   Chomping here in order to convert int to string -->
-        {{ range ($.Scratch.GetSortedMapValues (chomp .)) }}
+        {{ range ($.Scratch.GetSortedMapValues (print (chomp .))) }}
           {{ $city := (index $.Site.Data.events . "city") }}
           {{ $friendly := (index $.Site.Data.events . "friendly") }}
           <a href="/events/{{ $friendly }}/">{{ $city }}</a>

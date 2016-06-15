@@ -9,9 +9,7 @@ draft = false
 
   {{< cfp_dates >}}
 
-Proposal submission is not available at this time. Stay tuned for more information.
-
-
+<a href="http://devopsdaysohio.herokuapp.com/events/devopsdaysohio" target="_blank">To propose, click here.</a>
 
 <hr>
 There are three ways to propose a session:
@@ -28,7 +26,7 @@ Our main criteria to make it to the top selection are:
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-<strong>How to submit a proposal:</strong> Coming Soon
+<strong>How to submit a proposal:</strong> <a href="http://devopsdaysohio.herokuapp.com/events/devopsdaysohio" target="_blank">Click here</a>
 
 <strong>Rules:</strong>
 <ul>

@@ -8,7 +8,7 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12">
     <hr />
-Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pages/open-space-format">deve ler mais sobre isso</a>.
+    <strong>Grade de palestras sujeita a alteração</strong>
     <hr />
   </div>
 </div>
@@ -32,152 +32,171 @@ Se você é novo no cinceito de Espaço aberto, então você talvez <a href="/pa
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registro, Café, e abertura dos stands de patrocinadores
+        <strong>Registro e Abertura</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:30</time>
       </div>
       <div class = "col-md-6 box">
-        Abertura
+        <a href="/events/2016-portoalegre/programa/infraagil"><strong> Infra ágil do conceito a prática</strong> - Guto Carvalho</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:35-09:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-portoalegre/programa/devops"><strong>DevOps: Primeiros Passos</strong> - Fernanda Martins</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
+        <time>09:55-10:10</time>
       </div>
       <div class = "col-md-6 box">
-        Patrocinadores
+        <a href="/events/2016-portoalegre/programa/vault"><strong>Ansible Vault</strong> - Mantendo arquivos de configuração secretos - Iury Alves</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>10:15-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-portoalegre/programa/dockerci"><strong>Docker CI</strong> - Vinícius de Jesus e Rodrigo Morais</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:35-11:05</time>
       </div>
       <div class = "col-md-6 box">
-        Pausa
+        <strong>Coffee break</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>11:05-11:35</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <strong>Produção nove vezes ao dia - Como um time da rackspace torna isso possivel?</strong> - Bárbara Hartmann e Eduardo Radanovitsck
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:40-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        Patrocinadores
+        <a href="/events/2016-portoalegre/programa/pipeline"><strong>Dissecando e entendendo pipelines de entrega de software</strong> - Guilherme Motta</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>12:00-12:15</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-portoalegre/programa/bluegreen"><strong>Blue-Green Deployment com Docker</strong> - Pedro Cavalheiro</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>12:15-13:40</time>
       </div>
       <div class = "col-md-6 box">
-        Lunch (catered)
+        <strong>Almoço</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:30</time>
+        <time>13:40-14:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <a href="http://www.devopsdays.org/ignite-talks-format/"><strong>Ignites</strong></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>14:25-15:05</time>
       </div>
       <div class = "col-md-6 box">
-        Espaço aberto
+        <a href="http://www.devopsdays.org/open-space-format/"><strong>Open spaces</strong></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>15:05-15:35</time>
       </div>
       <div class = "col-md-6 box">
-        Espaço aberto
+        <strong>Coffee break</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:40-15:55</time>
       </div>
       <div class = "col-md-6 box">
+        <a href="/events/2016-portoalegre/programa/elk"><strong>Métricas real-time com ELK</strong> - Waldemar Neto e Jefferson Stachelski</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:00-16:15</time>
       </div>
       <div class = "col-md-6 box">
+       <strong>Palestra convidada a confirmar</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>16:20-16:35</time>
       </div>
       <div class = "col-md-6 box">
-        Fechamento
+        <a href="/events/2016-portoalegre/programa/testeinfra"><strong>Testes de provisionamento: garantindo a qualidade da sua infraestrutura</strong> - Glauco Vinicius</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>16:45-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+      <strong>Palestra convidada a confirmar</strong>
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>17:20-18:00</time>
+      </div>
+      <div class = "col-md-6 box">
+      <a href="http://agiletrendsbr.com/fishbowls/"><strong>Fishbowl</strong></a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>18:05-18:35</time>
+      </div>
+      <div class = "col-md-6 box">
+        <strong>Encerramento</strong>
       </div>
     </div> <!-- end timeslot div -->
 
 </div>
 </div>
-
