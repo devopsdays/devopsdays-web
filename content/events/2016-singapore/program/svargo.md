@@ -21,6 +21,9 @@ type = "talk"
     <li>Evaluating changes with Atlas
     </ul>
 
+    <h2>When</h2>
+    Sunday, 9th October, 9AM-2:30PM (tentative)
+
     <h2>Audience</h2>
     Anyone.
 
