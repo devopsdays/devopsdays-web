@@ -3,7 +3,6 @@ date = "2016-05-04T09:30:06+02:00"
 title = "propose"
 type = "event"
 +++
-  {{< cfp_dates >}}
 
 <hr>
 Call for papers is now closed, but you can still propose an ignite talk!
