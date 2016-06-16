@@ -78,11 +78,16 @@ sponsors:
   # Community
   - id: oreilly
     level: community
+  - id: microsoft
+    level: preevent
 
 # Declare the sponsors for dodAMS 2016
 sponsor_levels:
   - id: bbq
     label: BBQ
+    max: "1"
+  - id: preevent
+    label: "Pre Event"
     max: "1"
   - id: beer
     label: Beer
