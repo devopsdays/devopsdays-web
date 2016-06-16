@@ -189,6 +189,7 @@ type = "event"
         <p>
         Ignites (Speakers Listed Alphabetically)<br>
         <a href="/events/2016-minneapolis/program/aj-bowen">AJ Bowen -  Your Meetings Are Unbearable: Cheat Codes From Occupy</a><br><br>
+        <a href="/events/2016-minneapolis/program/antoinette-smith">Antoinette Smith -  Barriers to Entry: Educating Future Developers</a><br><br>
         <a href="/events/2016-minneapolis/program/dana-engebretson">Dana Engebretson -  HealthOps in Team Chat</a><br><br>
         <a href="/events/2016-minneapolis/program/jasmine-russell">Jasmine Russell -  The Woes of Data Reporting</a><br><br>
         <a href="/events/2016-minneapolis/program/john-kelly">John Kelly -  Confessions of a Former Professional Lego Master Builder</a><br><br>
