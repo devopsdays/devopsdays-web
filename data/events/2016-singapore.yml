@@ -39,9 +39,15 @@ team_members:
 organizer_email: "organizers-singapore-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-singapore-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: Be the first sponsor!
-    level: gold
+  - id: thoughtworks-services
+    level: platinum
+  - id: redhat
+    level: travel
+  - id: chef
+    level: travel
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-  - id: gold
-    label:
+  - id: platinum
+    label: Platinum
+  - id: travel
+    label: Travel
