@@ -8,9 +8,8 @@ aliases = ["/events/2016-amsterdam/program/christoph-andreas-torlinsky/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title: A Place for SDN in DevOps</strong></p>
+<div class="col-12">
+<p><strong>Title: A Place for SDN in DevOps</strong></p>
 
 <p>
 This workshop will let you bring your own laptop (provided wifi works) and we will download an SDN SDK from the Github at Nuage Networks (https://github.com/nuagenetworks/) and with the SAN box SDN setup on the cloud we will code some primitives using python against the Network, then dump it all into JSON format for further consumption or version control.
@@ -28,11 +27,7 @@ The Workshop will detail the Hardware Decoupled architectural drivers for Softwa
 By the end of the workshop you will have the understand to see how a Network is translated into Infrastructure as Code for use cases such as Containers or Private Cloud Deployments at Scale and faster Application Delivery
 </p>
 
-<p><strong>About the speaker</strong>
+<p><strong>About the speaker</strong></p>
 <p>Hello, i work for a Startup called Nuage Networks in EMEA and we are actively trying to change how Software interacts with the Network. Check us out, I've been working for a number of companies prior to Nuage in the Networking and Linux and Operating Space.</p>
 
-
-</p>
-
-  </div>
 </div>
