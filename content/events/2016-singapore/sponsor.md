@@ -15,44 +15,26 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-
 ## Why Sponsor Us?
 
 The DevOpsDays event mandate is to bring the highest­ quality speakers, experts, and the curious together.
 
 Singapore is not only one of the fastest growing startup hubs in the world but is also a trusted healthcare, telecom, and financial services nexus in Asia with strong investment in technology from the Government. We aim to attract representation from large enterprises and the startup community alike.
 
-By sponsoring DevOpsDays, you will be exposing your company’s brand and services to Singapore and Southeast Asia’s top talent in this rapidly growing space.
+By sponsoring DevOpsDays, you will be exposing your organizations brand and services to Singapore and Southeast Asia’s top talent in this rapidly growing space.
 
-Sounds good? <a href="mailto:organizers-singapore-2016@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2016">Drop us an email</a>!
+Sponsoring DevOpsDays Singapore connects your company to some of the greatest technical and business minds in the industry who are influencing decisions in security, monitoring, operations, engineering, quality, and organisational change.
 
+## The Venue
 
-<!--
+DevOpsDays Singapore 2016 will be held at the [Atrium Ballroom in the Raffles City Convention Centre](http://www.swissotel.com/hotels/singapore-stamford/meeting-events/ballrooms/atrium-ballroom/) ([80 Bras Basah Road, Level 4](https://www.google.com/maps/place/Raffles+City/@1.2938362,103.8529555,17z/data=!4m2!3m1!1s0x0000000000000000:0xcfcde1c1d52b371c)), in the middle of one of Singapore’s numerous cultural hubs. Many attractions are within walking distance and the location is well connected with public transport ([map](https://www.google.com/maps/place/Raffles+City/@1.2938362,103.8529555,17z/data=!4m2!3m1!1s0x0000000000000000:0xcfcde1c1d52b371c)).
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
-<br/>
-<br/>
-</div>
--->
-<hr/>
+<img src="/events/2016-singapore/the_venue.jpg" alt="Picture of the venue - Mainhall" style="width: 100%;"/>
+
+## Booth Space
+
+Gold and Platinum sponsors receive booth space at the event. This is the perfect spot for your engineers to meet other tech geeks. Your booth space will have a booth table (185 cm x 80 cm) and two chairs. You can set up your table as you like, be it to display signage, products, materials, or swag giveaways. We encourage sponsors to send engineers to interact with attendees during session breaks.
+
+Large displays and oversized marketing material are not allowed in the exhibitor space. Please check with the organizers if your items fall under the restricted category. You may ship your booth materials to the venue prior to the event day.
+
+<img src="/events/2016-singapore/the_sponsor_area.jpg" alt="Picture of the sponsor area" style="width: 100%;"/>
