@@ -12,6 +12,8 @@ aliases = ["/events/2016-bangalore"]
 
 DevOpsDays India this year is scheduled for 5th and 6th of November’ 2016. We have CFP open till 4th September’ 2016 with Speakers having enough time to propose a talk.
 
+**[Submit Your Talk Here](https://www.papercall.io/devopsdays-india-2016)**
+
 We are looking for submissions under all 3 traditional categories
 <ol>
   <li>Lightening Talk (5-10min)</li>
