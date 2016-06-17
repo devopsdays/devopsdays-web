@@ -243,9 +243,13 @@ tags = ["amsterdam","amsterdam-2016"]
     <time>14:15-15:00</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-coral">
+  <div class = "col-md-3 box-coral">
     <strong>Open Space</strong> <br />
     Open Space Opening
+  </div>
+  <div class = "col-md-1"></div>
+  <div class = "col-md-3 box-atlassianblue">
+    <a href="/events/2016-amsterdam/program/jan-kaan" style="color:#f5f5f5">Workshopping Bias:<br /> Designing Solutions to<br /> Improve Decision Making<br /> and Unleash Your Team's Potential</a>
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
