@@ -6,7 +6,7 @@ aliases = ["/events/2016-boise"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOps Days is coming to Boise!
 
