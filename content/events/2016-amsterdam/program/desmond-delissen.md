@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/desmonddelissen/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-Continuous testing in the world of APIs
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> Continuous testing in the world of APIs</p>
 
 <p><strong>Description:</strong></p>
 
@@ -27,6 +24,4 @@ Continuous testing in the world of APIs
 
  <p>We also learned continuously regarding our test implementation and acted upon these learnings. Therefore, we hope to share our story that others can relate/learn from the pain we suffered before we could enjoy our continuous testing process.</p>
 
-
-  </div>
 </div>

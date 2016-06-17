@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/kenmugrage/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-What we’re learning about burnout and how a DevOps culture can help
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> What we’re learning about burnout and how a DevOps culture can help</p>
 
 <p><strong>Description:</strong></p>
 
@@ -26,7 +23,4 @@ What we’re learning about burnout and how a DevOps culture can help
 
 <p>In this talk Ken will go over some of the leading research in the area of burnout. We’ll talk about some of the more common causes of burnout as identified by clinical research and talk about how you can learn from organizations with solid DevOps cultural practices to help alleviate them.</p>
 
-
-
-  </div>
 </div>
