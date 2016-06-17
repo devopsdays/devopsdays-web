@@ -42,7 +42,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div>
     <div class="box-orange span-15 centerstyle"><h4><b>12:00 - 14:30</b> Workshop Schedule</h4></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/philipp-krenn"><strong>Going Elastic</strong><br />Philipp Krenn (Elastic)<br /> Location: Main Room / Grote Zaal</a></div>
-    <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/simon-fisher"><strong>Out with the old, in with the new – Modernizing Application Deployment</strong><br />Simon Fisher (Chef) <br />Location: Workshop Room (next to Grote Zaal)</a></div>
+    <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/simon-fisher"><strong>Out with the old, in with the new – Modernizing Application Deployment with Habitat</strong><br />Simon Fisher (Chef) <br />Location: Workshop Room (next to Grote Zaal)</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/karleen-wijsman"><strong>Appreciative Inquiry, the most enjoyable way of change.</strong><br />Karleen Wijsman & Jan de Vries (Independent) <br />Location:Small Room (Kleine Zaal)</a></div>
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/michael-friedrich"><strong>Monitoring with Icinga 2</strong><br />Michael Friedrich (Netways) <br />Location: Studio</a></div>
     <div class="box-gray span-15"><a href="/events/2016-amsterdam/workshops/jim-leitch"><strong>Like A Rhino in Your Kid Brother's White Tuxedo - Legacy and Awesome is not an Oxymoron</strong><br />Jim Leitch (SBS)<br />Location: Expo1</a></div>
