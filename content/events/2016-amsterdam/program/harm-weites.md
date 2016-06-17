@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/harmweites/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-One engineer, four environments, no termination policy.
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> One engineer, four environments, no termination policy.</p>
 
 <p><strong>Description:</strong></p>
 
@@ -20,5 +17,4 @@ One engineer, four environments, no termination policy.
 
 <p>This talk will focus on how we build and operate the new Wehkamp stack. We’ll start at the AWS level where we have several hundred instances, ELB’s and supporting services. On top of those instances we run services like Mesos, Consul, Kafka, ElasticSearch and Cassandra. Our real workload lives on Mesos, the microservices architecture we call Blaze. Next we’ll go over what happened in the days before we flipped the switch to go live, and the steps involved creating everything from scratch. How we utilize ansible and we’ll briefly touch Jenkins as our CI/CD tool. The final words will describe our plans in this area for the near future, and the improvements on what we’ve seen so far.</p>
 
-  </div>
 </div>
