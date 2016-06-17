@@ -8,13 +8,9 @@ aliases = ["/events/2016-amsterdam/program/hannahfoxwell/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-  Systems are Simple. Humans are Complex.
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> Systems are Simple. Humans are Complex.</p>
 
-<p> In this talk we’ll take a light hearted look at some of the cruel tricks our brains play on us, which makes change so frustratingly hard.</p>
+<p>In this talk we’ll take a light hearted look at some of the cruel tricks our brains play on us, which makes change so frustratingly hard.</p>
 
-  </div>
 </div>
