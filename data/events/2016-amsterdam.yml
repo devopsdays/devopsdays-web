@@ -78,6 +78,7 @@ sponsors:
   # Community
   - id: oreilly
     level: community
+  # Pre-event Sponsor (a Harm special)
   - id: microsoft
     level: preevent
 
@@ -134,6 +135,9 @@ speakers:
   - id: "victoria-jeffrey"
     level: talk
   - id: "harm-weites"
+    level: talk
+  # Diversity workshops
+  - id: "jan-kaan"
     level: talk
   # Security Track
   - id: "melanie-rieback"
