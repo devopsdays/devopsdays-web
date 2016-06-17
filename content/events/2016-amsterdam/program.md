@@ -556,6 +556,7 @@ tags = ["amsterdam","amsterdam-2016"]
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
+</p>
 
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
@@ -589,6 +590,7 @@ tags = ["amsterdam","amsterdam-2016"]
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
+</p>
 
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
