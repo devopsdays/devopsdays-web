@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/marcoceppi/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-  Open Source Operations - punching up
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> Open Source Operations - punching up</p>
 
 <p><strong>Description:</strong></p>
 
@@ -20,5 +17,4 @@ aliases = ["/events/2016-amsterdam/program/marcoceppi/"]
 
 <p>Open Sourcing operations not only allows us to keep up, but punch up above our weight classes.</p>
 
-  </div>
 </div>
