@@ -32,5 +32,12 @@ Guto Carvalho
 Consultor, instrutor e especialista em TI com foco em automação e infraestrutura ágil. Entusiasta da cultura DevOps, procura adaptar métodos ágeis para tornar a infraestrutura de seus clientes mais eficientes e autônoma. Possui mais de 15 anos de experiência em TI em operação de datacenters governamentais e privados, mora atualmente em Brasília/DF. É arquiteto de automação e sócio na empresa Instruct Infraestrutura Ágil.
 </p>
 
+<p><strong>Palestrante:</strong>
+Miguel Di Ciurcio Filho</p>
+
+<p>
+Co-fundador da comunidade Puppet Brasil e foi o primeiro profissional certificado Puppet da América Latina. Participou do Google Summer Of Code no projeto QEMU e contribuiu com diversos projetos open source via patches, palestras e eventos. Em 2011 fundou a Instruct Infraestrutura Ágil e desde então dedica-se a oferecer consultoria e treinamentos sobre infraestrutura e automação em seu país. A Instruct é a única representante da Puppet e GitLab no Brasil oferecendo treinamentos, projetos e produtos.
+</p>
+
   </div>
 </div>
