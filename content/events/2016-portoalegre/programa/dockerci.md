@@ -31,11 +31,19 @@ Já para os projetos públicos a ferramenta apresentada será o popular Travis C
 </p>
 
 <p><strong>Palestrante:</strong>
-Vinícius Fernandes de Jesus e Rodrigo Morais
+Rodrigo Morais
 </p>
 
 <p>
-Desenvolvedores na ThoughtWorks Porto Alegre, que estão usando Docker/Drone/Travis em seus projetos
+Desenvolvedor de software com mais de 15 anos de experiência trabalhando com back e front-end. Aprendendo mais sobre info-estrutura e com a cultura DevOps, interessado em aplicar boas práticas na automaçāo de tarefas. Atualmente trabalhando na ThoughtWorks e aplicando os novos conhecimentos.
+</p>
+
+<p><strong>Palestrante:</strong>
+Vinícius Fernandes de Jesus
+</p>
+
+<p>
+Desenvolvedor de software, com experiência em desenvolvimento web, especialmente em Java e JavaScript, tanto front-end quanto backend. Recentemente tenho aprendido mais sobre a cultura DevOps e as ferramentas que a viabilizam.
 </p>
 
   </div>
