@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/bernderk/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-Working in and with Open Source Communities
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> Working in and with Open Source Communities</p>
 
 <p><strong>Description:</strong></p>
 
@@ -20,5 +17,4 @@ Working in and with Open Source Communities
 
 <p>One of the most important things for a successful open source project is to treat you community well. This talk will share some experiences made during the last 6 years with Icinga. Starting with basic concepts, it deals with tools and methods helping to increase and cultivate your community. It also covers internal organisation requirements for successful community work and upcoming challenges if you strike some new paths with your project.</p>
 
-  </div>
 </div>
