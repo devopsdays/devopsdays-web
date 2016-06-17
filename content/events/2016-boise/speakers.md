@@ -18,6 +18,6 @@ Staff Developer Advocate, Google Cloud Platform
 *[Google](http://www.google.com)*  
 
 ### Closing Keynote
-VM Brassuer - [@vmbrasseur](https://twitter.com/vmbrasseur)  
+VM Brasseur - [@vmbrasseur](https://twitter.com/vmbrasseur)  
 Senior Engineering Manager  
 *[Hewlett Packard Enterprise](http://www.hpe.com)*  
