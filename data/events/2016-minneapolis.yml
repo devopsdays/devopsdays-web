@@ -49,8 +49,6 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: thoughtworks-products
     level: gold
-  - id: newrelic
-    level: gold
   - id: appdynamics
     level: gold
   - id: sps_commerce
