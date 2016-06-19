@@ -283,7 +283,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-minneapolis/program/charity-majors">Charity Majors (Hound) - Making good choices with software (and other impossible things)</a> (Closing keynote)
+        <a href="/events/2016-minneapolis/program/charity-majors">Charity Majors (Honeycomb) - Making good choices with software (and other impossible things)</a> (Closing keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
