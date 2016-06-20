@@ -6,9 +6,9 @@ aliases = ["/events/2016-newzealand"]
 
 +++
 
-{{< event_start >}} - {{< event_end >}}
+## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to Middle Earth at {{< event_location >}}!
+DevOps Days is coming to Middle Earth at {{< event_location>}}
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
