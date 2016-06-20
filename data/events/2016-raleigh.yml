@@ -22,8 +22,10 @@ team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "C
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: TBD
-    level: TBD
+  - id: 2016-victorops
+    level: silver
+  - id: 2016-techtowntraining
+    level: platinum
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
