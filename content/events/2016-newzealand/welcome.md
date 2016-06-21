@@ -8,15 +8,16 @@ aliases = ["/events/2016-newzealand"]
 
 ## DevOpsDays Middle Earth is in Wellington 
 
-It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}
+**It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
+**Early bird Tickets will be available from Monday, Jul 4, 2016**
 
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<HR>
+<hr/>
 
 <div style="float:left;">
   <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo.png" style="max-width: 90%;">
@@ -32,7 +33,7 @@ So, is improvement then all about tools and technologies?  Or the people (as ind
 
 At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answer the 'what, why and how' of improvement in any organisation that uses IT as part of its business.
 
-<HR>
+<hr/>
 
 <div class = "row">
   <div class = "col-md-2">

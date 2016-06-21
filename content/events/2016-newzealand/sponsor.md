@@ -8,7 +8,7 @@ type = "event"
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
-## Sponsorhsip Prospectus
+## Sponsorship Prospectus
 
 DevOps in New Zealand is hitting a critical mass, reaching all aspects of the technology space. From banking institutions to government departments, to SaaS providers to disruptive start ups - DevOps is the new black.
 
