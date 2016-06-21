@@ -107,7 +107,7 @@ type = "event"
         <a href="/events/2016-boston/program/anjuan-simmons">Anjuan Simmons - Lending Privilege</a>
       </div>
       <div class = "col-md-4 box">
-        <a href="/events/2016-boston/program/leon-fayer">Leon Fayer (OmniTI) - BizOps and You</a>
+        <a href="/events/2016-boston/program/leon-fayer">Leon Fayer - BizOps and You</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

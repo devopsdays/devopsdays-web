@@ -47,7 +47,7 @@ DevOps Days is coming to {{< event_location >}}!
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="http://www.eventbrite.com/e/devopsdays-boston-2016-tickets-24041271089">Register to attend the conference!</a>
   </div>
 </div>
 
