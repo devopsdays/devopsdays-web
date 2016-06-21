@@ -9,8 +9,8 @@ status: "current" # Options are "past" or "current". Use "current" for upcoming.
 startdate: 2016-09-29  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2016-09-30  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2016-06-21  # start accepting talk proposals.
+cfp_date_end: 2016-07-29  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 # Location
 #
@@ -21,8 +21,8 @@ location: "BNZ Harbour Quays, 60 Waterloo Quay, Wellington!" # Defaults to city,
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: propose
+    url: https://www.papercall.io/devopsdays-wellington # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
 #  - name: registration
   - name: sponsor
@@ -41,6 +41,7 @@ team_members: # Name is the only required field for team members.
 - name: "Nigel Somerfield"
 - name: "Emily Dwyer"
 - name: "David White"
+- name: "BMK"
 organizer_email: "organizers-newzealand-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newzealand-2016@devopsdays.org" # Put your proposal email address here
 
