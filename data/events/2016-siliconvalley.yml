@@ -41,6 +41,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: wavefront
     level: silver
+  - id: foxpass
+    level: silver
   - id: 2016-monitis
     level: tsponsors
   - id: datadog
@@ -60,6 +62,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: 2016-viawest
     level: stsponsor
   - id: overnest
+    level: stsponsor
+  - id: 6connect
     level: stsponsor
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
