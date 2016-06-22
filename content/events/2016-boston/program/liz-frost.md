@@ -2,9 +2,9 @@
 City = "Boston"
 Year = "2016"
 date = "2016-06-20T18:00:00-05:00"
-title = "stillinbeta"
+title = "Liz Frost"
 type = "talk"
-aliases = ["/events/2016-boston/program/stillinbeta/"]
+aliases = ["/events/2016-boston/program/liz-frost/"]
 +++
 
 <div class="span-15  ">
