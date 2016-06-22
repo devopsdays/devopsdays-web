@@ -315,7 +315,7 @@ type = "event"
         <time>10:10-10:40</time>
       </div>
       <div class = "col-md-4 box">
-        <a href="/events/2016-boston/program/stillinbeta">stillinbeta - Oncall Equity</a><br><br><br>
+        <a href="/events/2016-boston/program/liz-frost">Liz Frost - Oncall Equity</a><br><br><br>
       </div>
       <div class = "col-md-4 box">
         <a href="/events/2016-boston/program/andreas-grabner">Andreas Grabner (Dynatrace) - Implementing Metrics-Driven DevOps: Why and How!</a>
