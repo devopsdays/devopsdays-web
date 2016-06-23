@@ -6,14 +6,6 @@ type = "event"
 +++
 
 <div class = "row">
-  <div class = "col-md-12">
-    <hr />
-    With talks in the morning and attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions in the afternoon, we have two full days of content!
-    <hr />
-  </div>
-</div>
-
-<div class = "row">
   <div class = "col-md-12 col-md-offset-4">
     <h2>The Schedule</h2>
   </div>
@@ -29,16 +21,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>08:00-09:00</time>
+        <time>08:30-09:20</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registration, breakfast, and sponsor booths open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:20-09:30</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -47,34 +39,25 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:30-10:00</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/mark-burgess/">Mark Burgess - How can we know if IT systems are working well?</a> (Opening keynote)
+        <a href="/events/2016-oslo/program/mark-burgess/">How can we know if IT systems are working well? - Mark Burgess</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
+        <time>10:00-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        <a href="/events/2016-oslo/program/jon-arild-torresdal/">A Devops Journey - Jon Arild Tørresdal</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:55-10:25</time>
-      </div>
-      <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jon-arild-torresdal/">Jon Arild Tørresdal - A devops journey</a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:30-10:45</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -83,43 +66,43 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>10:45-11:15</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/martin-b-smith/">Martin B. Smith - Reaping the rewards of remote-friendly DevOps</a>
+        <a href="/events/2016-oslo/program/martin-b-smith/">Reaping the rewards of remote-friendly DevOps - Martin B. Smith</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        <a href="/events/2016-oslo/program/jason-diller/">Complaining is not a strategy. (How to make things better even if you're not the boss.) - Jason Diller</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:45-12:15</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jason-diller/">Jason Diller - Complaining is not a strategy. (How to make things better even if you're not the boss.)</a>
+        Ignite talks
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>12:15-13:15</time>
       </div>
       <div class = "col-md-6 box">
-        Lunch (catered)
+        Lunch
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-14:00</time>
+        <time>13:15-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space Opening</strong>
@@ -128,19 +111,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:15-15:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #1
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>14:45-15:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        Break
+        <strong><a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> #1
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -149,7 +123,7 @@ type = "event"
         <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #2
+        <strong><a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -158,25 +132,7 @@ type = "event"
         <time>15:45-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #3
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>16:30-16:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        Closing
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>17:00-18:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Sponsor happy hour</strong>
+        <strong><a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -185,12 +141,7 @@ type = "event"
         <time>18:00-20:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening event</strong>
-        <p>
-        Ignites (Speakers Listed Alphabetically)<br>
-        <a href="/events/2016-oslo/program/anders-sveen/">Anders Sveen - DevOps - The Anti-patterns</a><br><br>
-        <a href="/events/2016-oslo/program/anton-babenko/">Anton Babenko - DevOps is not only about tools, but they exist for a reason</a><br><br>
-	    <a href="/events/2016-oslo/program/kjetil-jorgensen-dahl/">Kjetil Jørgensen-Dahl - How to kill DevOps (in 5 minutes)</a><br><br>
+        <strong>Evening event - TBA</strong>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
@@ -203,16 +154,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>08:00-09:00</time>
+        <time>08:30-09:20</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registration, breakfast, and sponsor booths open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:20-09:30</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -221,25 +172,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:30-10:00</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/kris-buytaert/">Kris Buytaert - Devops is a Reorg</a>
+        <a href="/events/2016-oslo/program/kris-buytaert/">Devops is a Reorg - Kris Buytaert</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
-      </div>
-      <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>10:00-10:30</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-oslo/program/jody-wolfborn/">Jody Wolfborn - You Don't Belong Here: Dealing with Impostor Syndrome</a>
@@ -248,7 +190,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:30-10:45</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -257,7 +199,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>10:45-11:15</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-oslo/program/marta-paciorkowska/">Marta Paciorkowska - DevOps is dead (a story by the Jesus of DevOps)</a>
@@ -266,34 +208,34 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        <a href="/events/2016-oslo/program/">TBA</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:45-12:15</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/">TBC</a>
+        Ignite talks
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>12:15-13:15</time>
       </div>
       <div class = "col-md-6 box">
-        Lunch (catered)
+        Lunch
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-14:00</time>
+        <time>13:15-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space Opening</strong>
@@ -302,19 +244,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:15-15:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #1
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>14:45-15:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        Break
+        <strong><a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> #1
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -323,7 +256,7 @@ type = "event"
         <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #2
+        <strong><a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -332,16 +265,7 @@ type = "event"
         <time>15:45-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #3
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>16:30-16:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        Closing
+        <strong><a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> #3
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
