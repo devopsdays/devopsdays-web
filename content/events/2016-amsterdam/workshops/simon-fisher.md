@@ -21,7 +21,7 @@ Enter a new way of deployment offered by Chef called <a href="https://www.habita
 
 <p>
 <strong>Pre-Requisites:</strong> <br />
-- Signed up for <a href="https://www.habitat.sh">Habitat</a>
+- Signed up for <a href="https://www.habitat.sh">Habitat</a> <br />
 - A Github Account <br />
 - A Docker Registry account<br />
 - A laptop installed with an OS that can reliably execute Rust and Go<br />
