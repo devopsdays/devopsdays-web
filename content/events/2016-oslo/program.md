@@ -1,5 +1,5 @@
 +++
-date = "2016-03-06T21:28:07-06:00"
+date = "2016-06-23T10:28:07+01:00"
 title = "program"
 type = "event"
 
@@ -8,7 +8,7 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12">
     <hr />
-    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+    With talks in the morning and attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions in the afternoon, we have two full days of content!
     <hr />
   </div>
 </div>
@@ -23,7 +23,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 1</h3>
+        <h3>Monday September 5</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/mark-burgess">Mark Burgess - How can we know if IT systems are working well?</a> (Opening keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/jon-arild-torresdal">Jon Arild Tørresdal - A devops journey</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/martin-b-smith">Martin B. Smith - Reaping the rewards of remote-friendly DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/jason-diller">Jason Diller - Complaining is not a strategy. (How to make things better even if you're not the boss.)</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -119,20 +119,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:30</time>
+        <time>13:00-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>13:30-14:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space Opening
+        <strong>Open Space Opening</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -141,8 +131,16 @@ type = "event"
         <time>14:00-14:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #1
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #1
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>14:45-15:00</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -151,49 +149,55 @@ type = "event"
         <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #2
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>15:45-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #3
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>16:30-16:45</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Logistics
+        Closing
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>17:00-18:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Sponsor happy hour</strong>
       </div>
     </div> <!-- end timeslot div -->
-
-
-
-
-
-
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>18:00-20:00</time>
+      </div>
+      <div class = "col-md-6 box">
+        <strong>Evening event</strong>
+        <p>
+        Ignites (Speakers Listed Alphabetically)<br>
+        <a href="/events/2016-oslo/program/anders-sveen">Anders Sveen - DevOps - The Anti-patterns</a><br><br>
+        <a href="/events/2016-oslo/program/anton-babenko">Anton Babenko - DevOps is not only about tools, but they exist for a reason</a><br><br>
+	    <a href="/events/2016-oslo/program/kjetil-jorgensen-dahl">Kjetil Jørgensen-Dahl - How to kill DevOps (in 5 minutes)</a><br><br>
+      </div>
+    </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 2</h3>
+        <h3>Tuesday September 6</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -220,7 +224,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/kris-buytaert">Kris Buytaert - Devops is a Reorg</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +242,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/jody-wolfborn">Jody Wolfborn - You Don't Belong Here: Dealing with Impostor Syndrome</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +260,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/">TBC</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +278,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-oslo/program/">TBC</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -289,20 +293,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:30</time>
+        <time>13:00-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>13:30-14:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space Opening
+        <strong>Open Space Opening</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -311,8 +305,16 @@ type = "event"
         <time>14:00-14:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #1
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #1
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>14:45-15:00</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -321,27 +323,25 @@ type = "event"
         <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #2
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>15:45-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #3
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>17:00</time>
+        <time>16:30-16:45</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Farewell
+        Closing
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
