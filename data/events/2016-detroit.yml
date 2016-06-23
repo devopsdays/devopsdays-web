@@ -19,6 +19,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: rightbrain
     level: gold
+  - id: 2016-canonical
+    level: gold
   - id: chef
     level: gold
   - id: victorops
