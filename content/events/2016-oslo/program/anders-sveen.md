@@ -22,12 +22,6 @@ DevOps - The Anti-patterns
 
 <p>This talk will mostly be about the soft sides of DevOps. Technology is what I love to do. But using it to it’s full potential requires getting the most out of humans and organisations.</p>
 
-<p><strong>Bio:</strong></p>
-
-<p>Anders has been working as an developer, architect, team-lead and automation nut for the last 12 years. He's a big proponent off most things agile and think it's time IT started enabling organisations to change. Not limiting the organisation.</p>
-
-<p>Anders is a tech guy and programmer first. The last 4-years he has been trying to automate anything that is needed to deploy applications reliably. Learning (a little too much) Bash and Python along the way.</p>
-
   </div>
 </div>
 
