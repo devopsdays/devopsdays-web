@@ -9,6 +9,8 @@ type = "event"
   <div class = "col-md-12">
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+    <br/>
+    There will be a pre-conference evening with drinks and snacks.
     <hr />
   </div>
 </div>
@@ -32,7 +34,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registration, and Sponsor Booths Open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -202,7 +204,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registration, and Sponsor Booths Open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -344,5 +346,13 @@ type = "event"
         Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
+  <!-- this div is repeated for each timeslot -->
+  <div class = "row">
+    <div class = "col-md-4">
+      <time>17:00-late</time>
+    </div>
+    <div class = "col-md-6 box">
+      <strong>Closing drinks at the venue</strong>
+    </div>
+  </div> <!-- end timeslot div -->  
   </div><!-- end day 2 -->
-</div>

@@ -8,6 +8,6 @@ type = "event"
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
+Registration will open soon.
 </div></div>
 </div>
