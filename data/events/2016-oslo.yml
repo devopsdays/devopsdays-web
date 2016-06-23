@@ -20,7 +20,7 @@ location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make i
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
   - name: propose
 #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
