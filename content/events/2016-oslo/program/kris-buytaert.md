@@ -4,7 +4,6 @@ Year = "2016"
 date = "2016-06-23T10:28:07+01:00"
 title = "Kris Buytaert"
 type = "talk"
-aliases = ["/events/2016-oslo/program/kris-buytaert/"]
 
 +++
 
