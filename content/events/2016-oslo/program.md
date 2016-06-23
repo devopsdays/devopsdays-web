@@ -224,7 +224,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/kris-buytaert">Kris Buytaert - Devops is a Reorg</a>
+        <a href="/events/2016-oslo/program/kris-buytaert/">Kris Buytaert - Devops is a Reorg</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -242,7 +242,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jody-wolfborn">Jody Wolfborn - You Don't Belong Here: Dealing with Impostor Syndrome</a>
+        <a href="/events/2016-oslo/program/jody-wolfborn/">Jody Wolfborn - You Don't Belong Here: Dealing with Impostor Syndrome</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -260,7 +260,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/">TBC</a>
+        <a href="/events/2016-oslo/program/marta-paciorkowska/">Marta Paciorkowska - DevOps is dead (a story by the Jesus of DevOps)</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
