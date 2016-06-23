@@ -10,8 +10,6 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   
-  <!--<p align="center"><img src="/events/2016-oslo/program/kjetil-jorgensen-dahl.png" alt="kjetil-jorgensen-dahl" style="margin: 20px 0; width: 250px;" /></p>-->
-  
   <p><strong>Title:</strong>
 How to kill DevOps (in 5 minutes)
 </p>
@@ -21,10 +19,6 @@ How to kill DevOps (in 5 minutes)
 <p>Not a DevOps-fan? This Ignite talk will provide you with a surefire set of techniques for bringing down any DevOps initiative!</p>
 
 <p>Great patterns for avoiding the DevOps pitfall come in all flavours from organizational, through managerial to architectural, and this summary of best practices will be instantly useful to any DevOps saboteur.</p>
-
-<p><strong>Bio:</strong></p>
-
-<p>Kjetil Jørgensen-Dahl is a developer and consultant, who sometimes dabbels in process and ops-related activities.</p>
 
   </div>
 </div>
