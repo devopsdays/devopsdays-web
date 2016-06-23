@@ -59,6 +59,6 @@ tags = ["amsterdam","amsterdam-2016"]
     <div class="box-blue span-15"><a href="/events/2016-amsterdam/workshops/andrew-farley"><strong>Designing Scalable Services on Amazon’s Web Services</strong><br />Andrew Farley (Olindata) <br />Location: Expo1</a></div>
 </div>
 
-<div class="span-15 box-green centerstyle"><h4>17:15 - 18:30 Pubquiz and Beers sponsored by <a href="https://www.microsoft.nl">Microsoft</a><br/>@ <a href="https://goo.gl/maps/eDjgFTvp2ev">Cafe Delirium (6 minute walk)</a></h4></div>
+<div class="span-15 box-green centerstyle"><h4>17:30 - 19:00 Kick off party (Pubquiz and Beers) sponsored by <a href="https://www.microsoft.nl">Microsoft</a><br/>@ <a href="https://goo.gl/maps/eDjgFTvp2ev">Cafe Delirium (6 minute walk)</a></h4></div>
 
 </div>
