@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/mark-burgess">Mark Burgess - How can we know if IT systems are working well?</a> (Opening keynote)
+        <a href="/events/2016-oslo/program/mark-burgess/">Mark Burgess - How can we know if IT systems are working well?</a> (Opening keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jon-arild-torresdal">Jon Arild Tørresdal - A devops journey</a>
+        <a href="/events/2016-oslo/program/jon-arild-torresdal/">Jon Arild Tørresdal - A devops journey</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/martin-b-smith">Martin B. Smith - Reaping the rewards of remote-friendly DevOps</a>
+        <a href="/events/2016-oslo/program/martin-b-smith/">Martin B. Smith - Reaping the rewards of remote-friendly DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jason-diller">Jason Diller - Complaining is not a strategy. (How to make things better even if you're not the boss.)</a>
+        <a href="/events/2016-oslo/program/jason-diller/">Jason Diller - Complaining is not a strategy. (How to make things better even if you're not the boss.)</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -188,9 +188,9 @@ type = "event"
         <strong>Evening event</strong>
         <p>
         Ignites (Speakers Listed Alphabetically)<br>
-        <a href="/events/2016-oslo/program/anders-sveen">Anders Sveen - DevOps - The Anti-patterns</a><br><br>
-        <a href="/events/2016-oslo/program/anton-babenko">Anton Babenko - DevOps is not only about tools, but they exist for a reason</a><br><br>
-	    <a href="/events/2016-oslo/program/kjetil-jorgensen-dahl">Kjetil Jørgensen-Dahl - How to kill DevOps (in 5 minutes)</a><br><br>
+        <a href="/events/2016-oslo/program/anders-sveen/">Anders Sveen - DevOps - The Anti-patterns</a><br><br>
+        <a href="/events/2016-oslo/program/anton-babenko/">Anton Babenko - DevOps is not only about tools, but they exist for a reason</a><br><br>
+	    <a href="/events/2016-oslo/program/kjetil-jorgensen-dahl/">Kjetil Jørgensen-Dahl - How to kill DevOps (in 5 minutes)</a><br><br>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->

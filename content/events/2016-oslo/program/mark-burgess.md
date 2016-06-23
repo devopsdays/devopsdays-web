@@ -4,10 +4,8 @@ Year = "2016"
 date = "2016-06-23T10:28:07+01:00"
 title = "Mark Burgess"
 type = "talk"
-aliases = ["/events/2016-oslo/program/mark-burgess/"]
 
 +++
-
 <div class="span-15  ">
   <div class="span-15  last ">
   
