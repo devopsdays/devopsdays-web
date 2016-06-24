@@ -6,10 +6,6 @@ aliases = ["/events/2016-oslo"]
 
 +++
 
-<!--<div style="text-align:center;"> -->
-  {{< event_logo >}}
-<!--</div> -->
-
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <p>For the first time, DevOpsDays is coming to Oslo!</p>
@@ -17,6 +13,10 @@ aliases = ["/events/2016-oslo"]
 <p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
 
 <p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.</p>
+
+<!--<div style="text-align:center;"> -->
+  {{< event_logo >}}
+<!--</div> -->
 
 <!--## Sponsorships
 {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.-->
