@@ -7,8 +7,7 @@ type = "talk"
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
+<div class="col-12">
   
   <p><strong>Title:</strong>
 A devops journey
@@ -22,6 +21,5 @@ A devops journey
 
 <p>By sharing what this company did and their experienced outcome, we hope this will give valuable input to others in a similar process or motivate to fight for the DevOps way if you're not. Not to mention shed light on some of the more controversial decisions, which we believe might benefit a lot more than you might first think.</p>
 
-  </div>
 </div>
 
