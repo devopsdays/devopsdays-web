@@ -169,7 +169,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
   </tr>
 </table>
 
-### Conference wrap-up Social (Drinks) – Availability 1 (R15,000)
+### Conference Social (Drinks) – Availability 1 (R15,000)
 <table>
   <tr>
     <td width="70%"><h4>Details</h4></td>
