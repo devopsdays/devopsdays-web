@@ -8,7 +8,6 @@ type = "talk"
 +++
 
 <div class="col-12">
-  
   <p><strong>Title:</strong>
 Complaining is not a strategy. (How to make things better even if you're not the boss.)
 </p>
