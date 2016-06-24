@@ -134,7 +134,6 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Logo on event t-shirt</li>
         <li>1 minute pitch to full audience</li>
         <li>Demo a product (20 min) during Open Space Session</li>
-        <li>Booth/Table space</li>
         <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>        
       </ul>
   </td>
@@ -184,7 +183,6 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Logo on event t-shirt</li>
         <li>1 minute pitch to full audience</li>
         <li>Demo a product (20 min) during Open Space Session</li>
-        <li>Booth/Table space</li>
         <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
       </ul>
   </td>
