@@ -7,8 +7,7 @@ type = "talk"
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
+<div class="col-12">
   
   <p><strong>Title:</strong>
 DevOps is not only about tools, but they exist for a reason
@@ -20,6 +19,5 @@ DevOps is not only about tools, but they exist for a reason
 
 <p>Which criteria should you pay attention when deciding on tools to become productive? This ignite talk will not try to sell any product, but it will illustrate how to identify “red flags” (aka YAGNI principle) in tools and products used for various DevOps tasks.</p>
 
-  </div>
 </div>
 

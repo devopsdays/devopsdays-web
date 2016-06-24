@@ -7,8 +7,7 @@ type = "talk"
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
+<div class="col-12">
   
   <p><strong>Title:</strong>
 DevOps - The Anti-patterns
@@ -22,6 +21,5 @@ DevOps - The Anti-patterns
 
 <p>This talk will mostly be about the soft sides of DevOps. Technology is what I love to do. But using it to it’s full potential requires getting the most out of humans and organisations.</p>
 
-  </div>
 </div>
 
