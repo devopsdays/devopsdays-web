@@ -8,7 +8,6 @@ type = "talk"
 +++
 
 <div class="col-12">
-  
   <p><strong>Title:</strong>
 Devops is a Reorg
 </p>
