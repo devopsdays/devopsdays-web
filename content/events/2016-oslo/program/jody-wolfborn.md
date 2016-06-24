@@ -8,7 +8,6 @@ type = "talk"
 +++
 
 <div class="col-12">
-  
   <p><strong>Title:</strong>
 You Don't Belong Here: Dealing with Impostor Syndrome
 </p>

@@ -2,13 +2,12 @@
 City = "Oslo"
 Year = "2016"
 date = "2016-06-23T10:28:07+01:00"
-title = "Kjetil Jørgensen-Dahl"
+title = "Kjetil Jorgensen-Dahl"
 type = "talk"
 
 +++
 
 <div class="col-12">
-  
   <p><strong>Title:</strong>
 How to kill DevOps (in 5 minutes)
 </p>

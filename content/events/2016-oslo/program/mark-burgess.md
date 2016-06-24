@@ -8,7 +8,6 @@ type = "talk"
 +++
 
 <div class="col-12">
-  
   <p><strong>Title:</strong>
 How can we know if IT systems are working well?
 </p>
