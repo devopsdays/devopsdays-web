@@ -49,6 +49,8 @@ sponsors:
     level: gold
   - id: instruct
     level: gold
+  - id: e-core
+    level: bronze
   - id: arresteddevops
     level: community
 
