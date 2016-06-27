@@ -85,6 +85,9 @@ sponsors:
   # Pre-event Sponsor (a Harm special)
   - id: microsoft
     level: preevent
+  # Tent sponsor
+  - id: radicaltech
+    level: tent
 
 # Declare the sponsors for dodAMS 2016
 sponsor_levels:
@@ -106,6 +109,8 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: "4"
+  - id: tent
+    label: "Rain Prevention / Mitigation"
   - id: community
     label: Community
 
