@@ -59,7 +59,7 @@ type = "event"
         <time>09:55-10:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-portoalegre/programa/vault"><strong>Ansible Vault</strong> - Mantendo arquivos de configuração secretos - Iury Alves</a>
+        <a href="/events/2016-portoalegre/programa/testes"><strong>Não "D"test seus tests</strong> - Marcelo Adamatti</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
