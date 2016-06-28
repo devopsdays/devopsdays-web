@@ -53,11 +53,11 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-green">
+  <div class = "col-md-2 box-blue">
     <time>08:00-09:00</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-green">
+  <div class = "col-md-7 box-blue">
     Registration, Breakfast, and Sponsor Booths Open
   </div>
   <div class = "col-md-1"></div>
@@ -67,11 +67,11 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
+  <div class = "col-md-2 box-green">
     <time>09:00-09:15</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
+  <div class = "col-md-7 box-green">
     Opening Welcome
   </div>
   <div class = "col-md-1"></div>
@@ -95,20 +95,6 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
-    <time>09:55-10:00</time>
-  </div>
-  <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
-    Sponsors
-  </div>
-  <div class = "col-md-1"></div>
-</div><!-- end timeslot row-->
-</p>
-
-<p>
-<div class = "row"><!-- this row is repeated for each timeslot -->
-  <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
     <time>10:00-10:40</time>
   </div>
@@ -124,7 +110,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>10:40-10:45</time>
+    <time>10:45-11:00</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
@@ -138,25 +124,11 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>10:45-11:15</time>
+    <time>11:00-11:30</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
     <a href="/events/2016-amsterdam/program/daniel-van-gils">Daniël van Gils (Cloud66) <br /> How the hell do I run my microservices in production, and will it scale?</a>
-  </div>
-  <div class = "col-md-1"></div>
-</div><!-- end timeslot row-->
-</p>
-
-<p>
-<div class = "row"><!-- this row is repeated for each timeslot -->
-  <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
-    <time>11:15-11:30</time>
-  </div>
-  <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
-    Sponsors
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -207,20 +179,6 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
-    <time>13:30-13:45</time>
-  </div>
-  <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
-    Sponsors
-  </div>
-  <div class = "col-md-1"></div>
-</div><!-- end timeslot row-->
-</p>
-
-<p>
-<div class = "row"><!-- this row is repeated for each timeslot -->
-  <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
     <time>13:45-14:15</time>
   </div>
@@ -240,16 +198,12 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-coral">
-    <time>14:15-15:00</time>
+    <time>14:15-14:45</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-3 box-coral">
+  <div class = "col-md-7 box-coral">
     <strong>Open Space</strong> <br />
     Open Space Opening
-  </div>
-  <div class = "col-md-1"></div>
-  <div class = "col-md-3 box-atlassianblue">
-    <a href="/events/2016-amsterdam/program/jan-kaan" style="color:#f5f5f5">Workshopping Bias:<br /> Designing Solutions to<br /> Improve Decision Making<br /> and Unleash Your Team's Potential</a>
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -259,7 +213,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>15:00-15:15</time>
+    <time>14:45-15:00</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
@@ -273,13 +227,17 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>15:15-15:45</time>
+    <time>15:00-15:45</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-coral">
+  <div class = "col-md-3 box-coral">
     <strong>Attendee Driven<br />
     <a href="/pages/open-space-format">Open Space #1</a><br />
     breakout discussions</strong><br />
+  </div>
+  <div class = "col-md-1"></div>
+  <div class = "col-md-3 box-atlassianblue">
+    <a href="/events/2016-amsterdam/program/jan-kaan" style="color:#f5f5f5">Workshopping Bias:<br /> Designing Solutions to<br /> Improve Decision Making<br /> and Unleash Your Team's Potential</a>
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -302,8 +260,8 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-green">
-    <time>16:00-16:30</time>
+  <div class = "col-md-2 box-coral">
+    <time>16:00-16:45</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-coral">
@@ -318,12 +276,12 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
-    <time>16:30-17:00</time>
+  <div class = "col-md-2 box-green">
+    <time>16:45-17:00</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
-    Closing
+  <div class = "col-md-7 box-green">
+    Closing / Wrap Up
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -337,7 +295,7 @@ tags = ["amsterdam","amsterdam-2016"]
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-redhat">
-    <strong>Sponsor happy hour (Sponsored by Red Hat)</strong>
+    <strong>Happy Hour (Thank you Red Hat!)</strong>
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -351,7 +309,7 @@ tags = ["amsterdam","amsterdam-2016"]
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-cheforange">
-    <strong>BBQ (Sponsored by Chef) &amp; Band </strong>
+    <strong>BBQ & special beer (Thank you Chef!) &amp; Band </strong>
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -371,11 +329,11 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-green">
+  <div class = "col-md-2 box-blue">
     <time>08:30-09:20</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-green">
+  <div class = "col-md-7 box-blue">
     Registration, Breakfast, and Sponsor Booths Open
   </div>
   <div class = "col-md-1"></div>
@@ -385,11 +343,11 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
+  <div class = "col-md-2 box-green">
     <time>09:20-09:30</time>
   </div>
   <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
+  <div class = "col-md-7 box-green">
     Opening Welcome
   </div>
   <div class = "col-md-1"></div>
@@ -413,20 +371,6 @@ tags = ["amsterdam","amsterdam-2016"]
 <p>
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
-    <time>10:00-10:10</time>
-  </div>
-  <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
-    Sponsors
-  </div>
-  <div class = "col-md-1"></div>
-</div><!-- end timeslot row-->
-</p>
-
-<p>
-<div class = "row"><!-- this row is repeated for each timeslot -->
-  <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
     <time>10:10-10:40</time>
   </div>
@@ -442,7 +386,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-blue">
-    <time>10:40-10:50</time>
+    <time>10:45-11:00</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-blue">
@@ -456,25 +400,11 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>10:50-11:20</time>
+    <time>11:00-11:30</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
   <a href="/events/2016-amsterdam/program/desmond-delissen">Desmond Delissen<br />Continuous testing in the world of APIs</a>
-  </div>
-  <div class = "col-md-1"></div>
-</div><!-- end timeslot row-->
-</p>
-
-<p>
-<div class = "row"><!-- this row is repeated for each timeslot -->
-  <div class = "col-md-1"></div>
-  <div class = "col-md-2 box-blue">
-    <time>11:20-11:30</time>
-  </div>
-  <div class = "col-md-1"></div>
-  <div class = "col-md-7 box-blue">
-    Sponsors
   </div>
   <div class = "col-md-1"></div>
 </div><!-- end timeslot row-->
@@ -616,7 +546,7 @@ tags = ["amsterdam","amsterdam-2016"]
 <div class = "row"><!-- this row is repeated for each timeslot -->
   <div class = "col-md-1"></div>
   <div class = "col-md-2 box-green">
-    <time>16:15-16:45</time>
+    <time>16:30-16:45</time>
   </div>
   <div class = "col-md-1"></div>
   <div class = "col-md-7 box-green">
