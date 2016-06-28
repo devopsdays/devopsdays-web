@@ -41,25 +41,13 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-minneapolis-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-minneapolis-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: chef
+  - id: pivotal 
     level: platinum
-  - id: pivotal
+  - id: chef
     level: platinum
   - id: uhg_optum
     level: platinum
   - id: thoughtworks-products
-    level: gold
-  - id: newrelic
-    level: gold
-  - id: appdynamics
-    level: gold
-  - id: sps_commerce
-    level: gold
-  - id: sumologic
-    level: gold
-  - id: github
-    level: gold
-  - id: ca_tech
     level: gold
   - id: signalfx
     level: silver
@@ -67,44 +55,62 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: veritas
     level: silver
-  - id: logicmonitor
-    level: silver
   - id: victorops
     level: silver
+  - id: ca_tech
+    level: gold
   - id: elastic
     level: silver
+  - id: sumologic
+    level: gold
+  - id: govdelivery
+    level: silver
+  - id: logicmonitor
+    level: silver
+  - id: parasoft
+    level: gold
+  - id: cloudbees
+    level: silver
+  - id: target
+    level: gold
+  - id: solidfire
+    level: gold
+  - id: morpheus_data
+    level: silver
+  - id: deis
+    level: silver
+  - id: evident
+    level: gold
+  - id: ubuntu
+    level: silver
+  - id: pagerduty
+    level: gold
+  - id: sps_commerce
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: saucelabs
+    level: silver
+  - id: newrelic
+    level: gold
+  - id: wheniwork
+    level: silver
+  - id: apprenda
+    level: gold
+  - id: workiva
+    level: gold
+  - id: github
+    level: gold
   - id: arresteddevops
     level: community
   - id: oreilly
     level: community
   - id: softwaredefinedtalk
     level: community
-  - id: target
-    level: gold
-  - id: govdelivery
-    level: silver
   - id: 2016-gitmsp
     level: community
-  - id: parasoft
-    level: gold
-  - id: solidfire
-    level: gold
-  - id: morpheus_data
-    level: silver
-  - id: cloudbees
-    level: silver
-  - id: deis 
-    level: silver
-  - id: evident
-    level: gold
   - id: blacksintechnology
     level: community
-  - id: pagerduty
-    level: gold
-  - id: ubuntu
-    level: silver
-  - id: saucelabs
-    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
