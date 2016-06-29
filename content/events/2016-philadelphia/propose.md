@@ -8,7 +8,7 @@ type = "event"
 +++
 
 <center>
-<b>Call for proposals closes Thursday June 30th.</b><br>
+<b>Call for proposals extended to Friday July 8th 12am Eastern.</b><br>
 Selected proposals will be announced within a few weeks of the closing date.
 </center>
 
@@ -20,7 +20,7 @@ Selected proposals will be announced within a few weeks of the closing date.
 
 Devopsdays Philadelphia is a single track, two day event. The format will include main track presentations, <a href="/pages/ignite-talks-format">Ignite talks</a>, and <a href="pages/open-space-format">Open Spaces sessions</a>. We're soliciting proposals for 30 minute presentations and Ignite style lightning talks.
 
-A selection committee will review all proposed talks. Submitters will receive an email update before the program is announced. All proposals must be received by Thursday June 30th. Selected proposals will be announced within a few weeks of the closing date.
+A selection committee will review all proposed talks. Submitters will receive an email update before the program is announced. All proposals must be received by Friday July 8th night into Saturday at 12am Eastern. Selected proposals will be announced within a few weeks of the closing date.
 
 Are you new to public speaking? We can provide guidance/coaching for new speakers upon request.
 
