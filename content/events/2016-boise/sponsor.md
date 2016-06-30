@@ -27,8 +27,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 #sponsorship td:first-child { text-align: left; }
 a.payment:link, a.payment:visited, a.payment:hover, a.payment:active { text-decoration: none !important; }
 </style>
-<div style="width:590px">
-<table border=1 cellspacing=1 id="sponsorship">
+<div>
+<table border=1 cellspacing=1 id="sponsorship" class="table table-striped table-bordered">
   <tr>
     <th><i>packages</i></th>
     <th><b><u>Bronze</u></b></th>

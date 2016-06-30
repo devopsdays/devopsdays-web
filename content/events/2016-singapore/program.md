@@ -51,8 +51,7 @@ type="event"
   <div class="col-md-6">
     <div class="row"><div class="col-md-12"><h3>Day 2</h3></div></div>
     <div class="row"><div class="col-md-4"><time>08:00-09:00</time></div><div class="col-md-6 box">Registration, Breakfast, and Sponsor Booths Open</div></div>
-    <div class="row"><div class="col-md-4"><time>09:00-09:15</time></div><div class="col-md-6 box"><strong>Workshops Begin</strong></div></div>
-    <div class="row"><div class="col-md-4"><time>09:15-10:25</time></div><div class="col-md-6 box">
+    <div class="row"><div class="col-md-4"><time>09:00-10:20</time></div><div class="col-md-6 box"><strong>Workshops Begin</strong>
         &nbsp;<br>
         &nbsp;<br>
         &nbsp;<br>
@@ -64,8 +63,9 @@ type="event"
         &nbsp;<br>
       </div>
     </div>
-    <div class="row"><div class="col-md-4"><time>10:25-10:40</time></div><div class="col-md-6 box">Break</div></div>
-    <div class="row"><div class="col-md-4"><time>10:40-12:40</time></div><div class="col-md-6 box">
+    <div class="row"><div class="col-md-4"><time>10:20-10:30</time></div><div class="col-md-6 box">Break</div></div>
+    <div class="row"><div class="col-md-4"><time>10:30-12:30</time></div><div class="col-md-6 box">
+        Workshops continue
         &nbsp;<br>
         &nbsp;<br>
         &nbsp;<br>
@@ -77,8 +77,8 @@ type="event"
         &nbsp;<br>
       </div>
     </div>
-    <div class="row"><div class="col-md-4"><time>12:40-13:00</time></div><div class="col-md-6 box"><strong>Lunch (catered) [TBD]</strong></div></div>
-    <div class="row"><div class="col-md-4"><time>13:00-14:30</time></div><div class="col-md-6 box">[TBD]
+    <div class="row"><div class="col-md-4"><time>12:30-13:00</time></div><div class="col-md-6 box"><strong>Lunch (catered) [TBD]</strong></div></div>
+    <div class="row"><div class="col-md-4"><time>13:00-14:30</time></div><div class="col-md-6 box">Workshops continue [TBD]
         &nbsp;<br>
         &nbsp;<br>
         &nbsp;<br>

@@ -20,8 +20,9 @@ location: "Boston Park Plaza" # Defaults to city, but you can make it the venue 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-  - name: propose
+#  - name: propose
   - name: program
+  - name: speakers
   - name: location
   - name: registration
     url:  http://www.eventbrite.com/e/devopsdays-boston-2016-tickets-24041271089
@@ -31,17 +32,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-- name: "Dave Fredricks"
-- name: "James Meickle"
-- name: "Peter Nealon"
-- name: "Dustin Collins"
-- name: "Jarrod Pooler"
-- name: "Myles Steinhauser"
-- name: "Cody Mathiason"
-#  - name: "Jane Smith"
-#    twitter: "devopsdays"
-#  - name: "Sally Fields"
-#    employer: "Acme Anvil Co."
+  - name: "Dave Fredricks"
+  - name: "James Meickle"
+  - name: "Peter Nealon"
+    twitter: "peternealon"
+    employer: "G2 Tech Group"
+  - name: "Dustin Collins"
+  - name: "Jarrod Pooler"
+  - name: "Myles Steinhauser"
+    twitter: "masteinhauser"
+    employer: "IBM Blue Box"
+  - name: "Cody Mathiason"
 organizer_email: "organizers-boston-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-boston-2016@devopsdays.org" # Put your proposal email address here
 
@@ -57,6 +58,8 @@ sponsors:
   - id: 2016-cisco
     level: platinum
   - id: 2016-newrelic
+    level: platinum
+  - id: opsgenie
     level: platinum
   - id: datadog
     level: gold
@@ -82,3 +85,51 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
+
+speakers:
+  - id: "elliot-murphy"
+    level: talk
+  - id: "jill-jubinski"
+    level: talk
+  - id: "kirsten-hunter"
+    level: talk
+  - id: "john-downey"
+    level: talk
+  - id: "tracy-osborn"
+    level: talk
+  - id: "anjuan-simmons"
+    level: talk
+  - id: "andreas-grabner"
+    level: talk
+  - id: "david-fredricks"
+    level: talk
+  - id: "steve-faulkner"
+    level: talk
+  - id: "david-blank-edelman"
+    level: talk
+  - id: "sara-jarjoura"
+    level: talk
+  - id: "andy-rosequist"
+    level: talk
+  - id: "spencer-krum"
+    level: talk
+  - id: "liz-frost"
+    level: talk
+  - id: "leon-fayer"
+    level: talk
+  - id: "michael-kristan"
+    level: talk
+  - id: "matthew-barr"
+    level: talk
+  - id: "corey-quinn"
+    level: talk
+  - id: "rafael-benevides"
+    level: talk
+  - id: "barak-chamo"
+    level: talk
+  - id: "james-meickle"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk

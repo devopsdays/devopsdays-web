@@ -12,8 +12,7 @@ type = "talk"
     <h2>Keynote - Sciencing the Crap Out of DevOps</h2>
     <h2>Description</h2>
     <p>
-    For years we laboured under the misapprehension that going faster meant breaking things. After several years of science-ing, Nicole and Jez have identified the key elements that enable not just higher throughput but also higher stability and quality, lower cost, and happier teams. Discover how continuous delivery and lean management practices produce higher IT performance (and indeed what we might mean by performance), along with how to measure culture and its impact on IT and organizational culture. Find out how we actually ensure our results are reliable and meaningful. Learn the patterns and practices used by high performing organizations to outcompete their peers.
-    </p>
+    For years we all worked under the (incorrect) assumption that going faster meant breaking things. After several years of science-ing, Nicole has identified the key elements that enable not just higher throughput but also higher stability and quality, lower cost, and happier teams. Discover how continuous delivery and lean management practices produce higher IT performance (and indeed what we might mean by IT performance), along with how to measure culture and its impact on IT and organizational culture. Find out how we actually ensure our results are reliable and meaningful. Learn the patterns and practices used by high performing organizations to outcompete their peers.    </p>
 
     <h2>When</h2>
     Saturday, 8th October

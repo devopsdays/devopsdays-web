@@ -49,7 +49,7 @@ aliases = ["/events/2016-minneapolis"]
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}} 30min talks listed now; Ignites coming soon!
+    View the {{< event_link page="program" text="program." >}}
   </div>
 </div>
 
