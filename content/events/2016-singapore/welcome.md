@@ -11,7 +11,7 @@ aliases = ["/events/2016-singapore"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-<div style="text-align:center; margin-bottom: 1.5em;">
+<div style="text-align:center; margin: 1.5em 0;">
   <img src="/events/2016-singapore/logo.png" width="80">
   <img style="max-width: 90%;" src="/events/2016-singapore/logo_text.png" width="460">
 </div>
