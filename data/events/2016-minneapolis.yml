@@ -97,6 +97,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: apprenda
     level: gold
+  - id: dynatrace
+    level: silver
   - id: workiva
     level: gold
   - id: github
@@ -110,6 +112,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: 2016-gitmsp
     level: community
   - id: blacksintechnology
+    level: community
+  - id: hackthegap
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
