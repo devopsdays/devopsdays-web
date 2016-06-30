@@ -8,15 +8,15 @@ aliases = ["/events/2016-madison"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-DevOps Days is coming to <!--{{< event_location >}}-->Madison!
+DevOps Days is coming to Madison, WI!
 
-<iframe src="https://docs.google.com/forms/d/1wFJR6-czvW6sM6_yKN-Alk0Im_MLXaO5Fm6XOQboOfY/viewform?embedded=true#start=embed"
-            width="570" height="1500" frameborder="0" marginheight="0"
-            marginwidth="0">Loading...</iframe>
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<!-- <iframe src="https://docs.google.com/forms/d/1wFJR6-czvW6sM6_yKN-Alk0Im_MLXaO5Fm6XOQboOfY/viewform?embedded=true#start=embed"
+            width="570" height="1500" frameborder="0" marginheight="0"
+            marginwidth="0">Loading...</iframe> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -27,14 +27,14 @@ DevOps Days is coming to <!--{{< event_location >}}-->Madison!
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    {{< event_location >}} in downtown Madison
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
