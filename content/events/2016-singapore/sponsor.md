@@ -39,6 +39,7 @@ Large displays and oversized marketing material are not allowed in the exhibitor
 
 <img src="/events/2016-singapore/the_sponsor_area.jpg" alt="Picture of the sponsor area" style="width: 100%;"/>
 
+<a name="packages"></a>
 # SPONSORSHIP PACKAGES
 
 Our sponsorship packages are structured around how you can help be part of the conference.
