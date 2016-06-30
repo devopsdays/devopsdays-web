@@ -40,7 +40,7 @@ DevOpsDays are are organized frequently around the globe and this is the first c
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}} (same as <a href="/events/2015-singapore">last year</a>)
+    {{< event_location >}}
   </div>
 </div>
 
