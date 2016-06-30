@@ -25,6 +25,8 @@ proposal_email: "organizers-amsterdam-2016@devopsdays.org" # Put your proposal e
 sponsors_accepted: "no"
 sponsors:
   # gold
+  - id: atlassian
+    level: gold
   - id: github
     level: gold
   - id: microsoft
@@ -65,6 +67,10 @@ sponsors:
     level: bronze
   - id: pcextreme
     level: bronze
+  - id: prowareness
+    level: bronze
+  - id: radicaltech
+    level: bronze
   - id: 2015-sdl
     level: bronze
   - id: workiva
@@ -78,11 +84,17 @@ sponsors:
   # Community
   - id: oreilly
     level: community
+  # Pre-event Sponsor (a Harm special)
+  - id: microsoft
+    level: preevent
 
 # Declare the sponsors for dodAMS 2016
 sponsor_levels:
   - id: bbq
     label: BBQ
+    max: "1"
+  - id: preevent
+    label: "Pre Event"
     max: "1"
   - id: beer
     label: Beer
@@ -129,6 +141,9 @@ speakers:
   - id: "victoria-jeffrey"
     level: talk
   - id: "harm-weites"
+    level: talk
+  # Diversity workshops
+  - id: "jan-kaan"
     level: talk
   # Security Track
   - id: "melanie-rieback"

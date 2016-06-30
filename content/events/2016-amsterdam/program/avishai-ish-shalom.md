@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/avishai-ish-shalom/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-The Mathematics of Reliability
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> The Mathematics of Reliability</p>
 
 <p><strong>Description:</strong></p>
 
@@ -21,5 +18,4 @@ The Mathematics of Reliability
 
 <p>This talk will present a simple failure models, explain the math behind common practices, introduce emergent system properties and showcase mathematical examples of why things behave differently at scale and how things that work well in small systems can be horrible at scale.</p>
 
-  </div>
 </div>

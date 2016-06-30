@@ -6,8 +6,8 @@ status: "current" # Options are "past" or "current".
 startdate: 2016-10-06 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-10-07 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-05-16
-cfp_date_end: 2016-06-19
-cfp_date_announce: 2016-07-11
+cfp_date_end: 2016-06-30
+cfp_date_announce: 2016-07-15
 coordinates: "35.779590,-78.638179" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "McKimmon Conference & Training Center"
 nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
@@ -22,8 +22,16 @@ team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "C
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: TBD
-    level: TBD
+  - id: 2016-techtowntraining
+    level: platinum
+  - id: 2016-victorops
+    level: silver
+  - id: 2016-dzone
+    level: media
+  - id: 2016-omniti
+    level: gold
+  - id: 2016-spreedly
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -32,4 +40,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
+  - id: media
+    label: Media
 

@@ -8,11 +8,12 @@ aliases = ["/events/2016-amsterdam/program/mark-van-holsteijn/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title: Working with Docker & Microsoft Azure Container Service</strong></p>
+<div class="col-12">
+<p><strong>Title: Working with Docker & Microsoft Azure Container Service</strong></p>
 
-<p>Docker is taking the world by storm and Microsoft Azure Container Service is where Azure and Docker meet! During this workshop Mark van Holsteijn will give you a brief introduction into Docker and Microsoft Container Service. After which you will have ample opportunity to get hands-on with Docker, Marathon, Azure and ASP.NET core.</p>
+<p>
+Docker is taking the world by storm and Microsoft Azure Container Service is where Azure and Docker meet! During this workshop Mark van Holsteijn will give you a brief introduction into Docker and Microsoft Container Service. After which you will have ample opportunity to get hands-on with Docker, Marathon, Azure and ASP.NET core.
+</p>
 
 <p>We will show you how Azure Container Services provides an excellent platform for creating cross-cloud applications.</p>
 
@@ -20,5 +21,4 @@ aliases = ["/events/2016-amsterdam/program/mark-van-holsteijn/"]
 
 <p>Mark van Holsteijn is Principal Consultant at Xebia specialized in cloud software architectures with open-source technologies.</p>
 
-  </div>
 </div>
