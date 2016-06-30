@@ -8,7 +8,7 @@ type = "event"
 +++
 {{< cfp_dates >}}
 
-<h2 style="text-align: center"><a href="https://docs.google.com/forms/d/1rRowHmmZbcFhTuQmhf-ptpWE04bCLYpA7VbSVb6Bs-4/viewform" target="_blank">Submit your proposal here</a></h2>
+<h2 style="text-align: center"><a href="https://docs.google.com/forms/d/1rRowHmmZbcFhTuQmhf-ptpWE04bCLYpA7VbSVb6Bs-4/viewform" target="_blank" class="btn btn-primary btn-lg">Click here to submit your proposal!</a></h2>
 
 <hr>
 There are three ways to propose a session:
