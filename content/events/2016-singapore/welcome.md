@@ -11,9 +11,9 @@ aliases = ["/events/2016-singapore"]
 
 ## {{< event_start >}} - {{< event_end >}}
 
-<div style="text-align:center; margin-bottom: 1.5em;">
+<div style="text-align:center; margin: 1.5em 0;">
   <img src="/events/2016-singapore/logo.png" width="80">
-  <img src="/events/2016-singapore/logo_text.png" width="460">
+  <img style="max-width: 90%;" src="/events/2016-singapore/logo_text.png" width="460">
 </div>
 
 This 2-day event brings together development and operations professionals from Singapore and around the world. It is organized by people who care about DevOps, for people who care about collaboration, automation, measurement, and improvement.
@@ -40,7 +40,7 @@ DevOpsDays are are organized frequently around the globe and this is the first c
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}} (same as <a href="/events/2015-singapore">last year</a>)
+    {{< event_location >}}
   </div>
 </div>
 
@@ -53,14 +53,14 @@ DevOpsDays are are organized frequently around the globe and this is the first c
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://ti.to/devopsdays-singapore/2016/" target="_blank">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -71,14 +71,14 @@ DevOpsDays are are organized frequently around the globe and this is the first c
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the {{< event_link page="proposals" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
