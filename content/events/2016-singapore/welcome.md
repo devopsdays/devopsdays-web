@@ -13,7 +13,7 @@ aliases = ["/events/2016-singapore"]
 
 <div style="text-align:center; margin-bottom: 1.5em;">
   <img src="/events/2016-singapore/logo.png" width="80">
-  <img src="/events/2016-singapore/logo_text.png" width="460">
+  <img style="max-width: 90%;" src="/events/2016-singapore/logo_text.png" width="460">
 </div>
 
 This 2-day event brings together development and operations professionals from Singapore and around the world. It is organized by people who care about DevOps, for people who care about collaboration, automation, measurement, and improvement.
