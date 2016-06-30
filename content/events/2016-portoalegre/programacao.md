@@ -41,7 +41,7 @@ type = "event"
         <time>09:00-09:30</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-portoalegre/programa/infraagil"><strong> Infra ágil do conceito a prática</strong> - Guto Carvalho</a>
+        <a href="/events/2016-portoalegre/programa/infraagil"><strong> Infra ágil do conceito a prática</strong> - Guto Carvalho e Miguel Di Ciurcio Filho</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -59,7 +59,7 @@ type = "event"
         <time>09:55-10:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-portoalegre/programa/vault"><strong>Ansible Vault</strong> - Mantendo arquivos de configuração secretos - Iury Alves</a>
+        <a href="/events/2016-portoalegre/programa/testes"><strong>Não "D"test seus tests</strong> - Marcelo Adamatti</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>11:05-11:35</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Produção nove vezes ao dia - Como um time da rackspace torna isso possivel?</strong> - Bárbara Hartmann e Eduardo Radanovitsck
+        <a href="/events/2016-portoalegre/programa/rackspace"><strong>Produção nove vezes ao dia - Como um time da rackspace torna isso possivel?</strong> - Bárbara Hartmann e Eduardo Radanovitsck</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

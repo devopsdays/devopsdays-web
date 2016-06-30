@@ -189,6 +189,8 @@ type = "event"
         <p>
         Ignites (Speakers Listed Alphabetically)<br>
         <a href="/events/2016-minneapolis/program/aj-bowen">AJ Bowen -  Your Meetings Are Unbearable: Cheat Codes From Occupy</a><br><br>
+        <a href="/events/2016-minneapolis/program/antoinette-smith">Antoinette Smith -  Barriers to Entry: Educating Future Developers</a><br><br>
+	<a href="/events/2016-minneapolis/program/corwin-atkins">Corwin Atkins - Becoming a Professional Nerd</a><br><br>
         <a href="/events/2016-minneapolis/program/dana-engebretson">Dana Engebretson -  HealthOps in Team Chat</a><br><br>
         <a href="/events/2016-minneapolis/program/jasmine-russell">Jasmine Russell -  The Woes of Data Reporting</a><br><br>
         <a href="/events/2016-minneapolis/program/john-kelly">John Kelly -  Confessions of a Former Professional Lego Master Builder</a><br><br>
@@ -281,7 +283,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-minneapolis/program/charity-majors">Charity Majors (Hound) - Making good choices with software (and other impossible things)</a> (Closing keynote)
+        <a href="/events/2016-minneapolis/program/charity-majors">Charity Majors (Honeycomb) - Making good choices with software (and other impossible things)</a> (Closing keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

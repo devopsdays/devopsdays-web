@@ -8,10 +8,8 @@ aliases = ["/events/2016-amsterdam/program/ericabaker/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-  devopsdays Amsterdam Keynote
+<div class="col-12">
+<p><strong>Title:</strong> devopsdays Amsterdam Keynote
 </p>
 
 <!-- <p><strong>Description:</strong></p>
@@ -21,7 +19,4 @@ aliases = ["/events/2016-amsterdam/program/ericabaker/"]
 <p></p>
 -->
 
-
-
-  </div>
 </div>

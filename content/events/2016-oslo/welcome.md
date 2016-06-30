@@ -6,13 +6,13 @@ aliases = ["/events/2016-oslo"]
 
 +++
 
-<!--<div style="text-align:center;"> -->
-  {{< event_logo >}}
-<!--</div> -->
-
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <p>For the first time, DevOpsDays is coming to Oslo!</p>
+
+<!--<div style="text-align:center;"> -->
+  {{< event_logo >}}
+<!--</div> -->
 
 <p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
 
@@ -115,12 +115,3 @@ aliases = ["/events/2016-oslo"]
   </div>
 </div>
 
-{{< event_twitter devopsdaysoslo >}}
-
-
-<hr>
-<div style="height:340px">
-<a class="twitter-timeline" href="https://twitter.com/search?q=devopsdaysoslo+OR+devopsdayoslo+OR+%23devopsdayoslo+OR+%23devopsdaysoslo" data-widget-id="710501757596651520">Tweets about DevOpsDays Oslo</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
-<hr>

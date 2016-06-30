@@ -8,11 +8,8 @@ aliases = ["/events/2016-amsterdam/program/jasonyee/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
-  Breaking Brooks' Law with DevOps
-</p>
+<div class="col-12">
+<p><strong>Title:</strong> Breaking Brooks' Law with DevOps</p>
 
 <p>In 1975, Fred Brooks published The Mythical Man-Month, a book of observations and recommendations for software project management and team collaboration. One of the most enduring statements from the book, often called "Brooks’ Law," states that “adding manpower to a late software project makes it later.</p>
 

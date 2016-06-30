@@ -64,10 +64,18 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: github
     level: gold
+  - id: puppet
+    level: gold
+  - id: newrelic
+    level: gold
   - id: victorops
     level: silver
   - id: columbia
     level: silver
+  - id: simple
+    level: silver
+  - id: symantec
+    level: bronze
   - id: arresteddevops
     level: community
   - id: recompiler
