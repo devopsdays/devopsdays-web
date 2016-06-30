@@ -42,7 +42,9 @@ proposal_email: "proposals-capetown-2016@devopsdays.org" # Put your proposal ema
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: 2016-offerzen
+    level: platinum
 #  - id: samplesponsorname
 #    level: gold
 #  - id: arresteddevops
