@@ -15,6 +15,8 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B-L7Gu-eJct3em15bzFreGZWMU5jVnZ6S2pyckl2TGpZY053" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+
 ## Why Sponsor Us?
 
 The DevOpsDays event mandate is to bring the highest­ quality speakers, experts, and the curious together.
@@ -158,7 +160,7 @@ Our sponsorship packages are structured around how you can help be part of the c
   </table>
 </div>
 
-Sounds good? <a href="mailto:organizers-singapore-2016@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2016">Drop us an email</a> or [download the prospectus](https://drive.google.com/open?id=0B-L7Gu-eJct3em15bzFreGZWMU5jVnZ6S2pyckl2TGpZY053) right away!
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B-L7Gu-eJct3em15bzFreGZWMU5jVnZ6S2pyckl2TGpZY053" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## THE SMALL PRINT
 
