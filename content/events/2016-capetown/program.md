@@ -5,15 +5,17 @@ type = "event"
 
 +++
 
-<div class = "row">
-  <div class = "col-md-12">
-    <hr />
-    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
-    <br/>
-    There will be a pre-conference evening with drinks and snacks.
-    <hr />
+<p>
+  <div class = "row">
+    <div class = "col-md-12">
+      <hr />
+      If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+      <br/>
+      There will be a pre-conference evening with drinks and snacks.
+      <hr />
+    </div>
   </div>
-</div>
+</p>
 
 <div class = "row">
   <div class = "col-md-12 col-md-offset-4">
@@ -179,18 +181,12 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>18:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
       </div>
     </div> <!-- end timeslot div -->
-
-
-
-
-
-
   </div><!-- end day 1 -->
   <div class = "col-md-6">
     <div class = "row">
@@ -347,12 +343,13 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
   <!-- this div is repeated for each timeslot -->
-  <div class = "row">
-    <div class = "col-md-4">
-      <time>17:00-late</time>
-    </div>
-    <div class = "col-md-6 box">
-      <strong>Closing drinks at the venue</strong>
-    </div>
-  </div> <!-- end timeslot div -->  
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>17:00-late</time>
+      </div>
+      <div class = "col-md-6 box">
+        <strong>Closing drinks at the venue</strong>
+      </div>
+    </div> <!-- end timeslot div -->  
   </div><!-- end day 2 -->
+</div>
