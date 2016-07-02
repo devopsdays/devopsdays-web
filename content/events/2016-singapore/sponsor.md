@@ -209,6 +209,10 @@ You must bring your own signage and all signage must either fit on or behind the
 
 No, but you are welcome to submit a proposal for consideration through <a href="http://devopsdays.org/events/2016-singapore/propose/">our CfP form</a>.
 
+### How many talk tracks do you have?
+
+It's a single-track program. You find more details on the program on {{< event_link page="program" text="our program page" >}}.
+
 ### Do we get electricity connection for out booth?
 
 Yes, you will get a power strip (Plug <a href="http://www.iec.ch/worldplugs/typeG.htm">Type G</a>).
