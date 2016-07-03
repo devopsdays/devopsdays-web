@@ -14,8 +14,8 @@ cfp_date_announce: "2016-10-01"# inform proposers of status
 
 # Location
 #
-coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
+coordinates: "32.1052681,34.8072141" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tel Aviv Convention Center" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
