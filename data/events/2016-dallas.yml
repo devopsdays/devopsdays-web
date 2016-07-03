@@ -41,6 +41,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: deis
     level: gold
+  - id: xebialabs
+    level: gold
   - id: chef
     level: platinum
   - id: victorops
