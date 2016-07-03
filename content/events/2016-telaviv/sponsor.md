@@ -18,15 +18,14 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
-<!--
 
 <div style="width:590px">
 <table border=1 cellspacing=1>
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1500 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
+    <th><center><b><u>Silver<br />1500 usd</u></center></b></th>
+    <th><center><b><u>Gold<br />3500 usd</u></center></b></th>
+    <th><center><b><u>Platinum<br />5000 usd</u></center></b></th>
     <th></th>
   </tr>
 <tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
@@ -37,6 +36,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
 <tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
 <tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>Social media mention</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
 <tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
@@ -45,5 +45,4 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 <br/>
 <br/>
 </div>
--->
 <hr/>
