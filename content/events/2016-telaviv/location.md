@@ -5,6 +5,6 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+Tel Aviv Convention Center, 101 Rokach Blvd.
 
-<!-- {{< event_map >}} -->
+{{< event_map >}}
