@@ -5,8 +5,8 @@ friendly: "2016-telaviv" # Four digit year and the city name in lower-case. Don'
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2016-12-12" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2016-12-13" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2016-06-28" # start accepting talk proposals.
 cfp_date_end: "2016-08-31" # close your call for proposals.
