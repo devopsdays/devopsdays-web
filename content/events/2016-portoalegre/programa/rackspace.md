@@ -1,7 +1,7 @@
 +++
 City = "Porto Alegre"
 Year = "2016"
-title = "Vinícius Fernandes de Jesus e Rodrigo Morais"
+title = "Bárbara Hartmann e Eduardo Aquiles Radanovitsck"
 type = "talk"
 
 +++
@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Palestra:</strong>
-  Docker em CI
+  Produção nove vezes ao dia - Como um time da rackspace torna isso possivel?
 </p>
 
 <p><strong>Resumo:</strong></p>
