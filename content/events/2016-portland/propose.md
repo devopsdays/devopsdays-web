@@ -35,7 +35,3 @@ We will open a CFP for ignite talks closer to the event.
 - Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!
 - Multiple proposals welcome... just follow the other rules
 
-<br />
-<div style="text-align:center;">
-  <a href="https://devopsdayspdx2016.busyconf.com/proposals/new" style="padding:15px; background:#1581AB; color:#FFF; font-size:150%;">Submit a talk/panel</a>
-</div>
