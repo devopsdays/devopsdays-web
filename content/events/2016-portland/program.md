@@ -19,7 +19,7 @@ type = "event"
   </div>
 </div>
 
-## Day 1
+## Day 1 (2016-08-09)
 
 *Keynote*: Kelsey Hightower
 
@@ -36,7 +36,7 @@ type = "event"
 
 *Closing Talk*: What we’re learning about burnout and how a DevOps culture can help (Ken Mugrage)
 
-## Day 2
+## Day 2 (2016-08-10)
 
 *Keynote*: Everything is Terrible: Three Perspectives on Building, Configuring, and Securing Software (Chris Barker, Adrien Thebo, Cody Herriges)
 
