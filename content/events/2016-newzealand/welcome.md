@@ -10,7 +10,7 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-**Early bird Tickets will be available from Monday, Jul 4, 2016**
+**Early bird Tickets will be available very soon**
 
 
 <!-- <div style="text-align:center;">
