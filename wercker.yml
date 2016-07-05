@@ -1,6 +1,9 @@
 box: debian
 build:
   steps:
+    - script:
+        name: Check for filenames not valid on Windows
+        code: build/check-invalid-filenames.sh
     - arjen/hugo-build:
         version: "0.15"
         theme: devopsdays-responsive
