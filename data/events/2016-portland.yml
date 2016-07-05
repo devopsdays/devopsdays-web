@@ -12,10 +12,10 @@ coordinates: "45.528562, -122.663028" # The corrodinates of your venue. Get Lati
 location: "The Oregon Convention Center" # The name of your location
 nav_elements:
   - name: welcome
-  - name: propose
   - name: location
   - name: registration
     url: https://devopsdayspdx2016.busyconf.com/bookings/new
+  - name: program
   - name: sponsor
   - name: contact
   - name: conduct
