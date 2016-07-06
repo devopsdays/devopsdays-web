@@ -4,6 +4,12 @@ title = "program"
 type = "event"
 
 +++
+<style>
+  .box {
+    padding: .75em;
+    margin-bottom: .5em;
+  }
+</style>
 
 <div class = "row">
   <div class = "col-md-12">
