@@ -41,19 +41,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>09:30-10:00</time>
+        <time>09:30-09:40</time>
       </div>
       <div class = "col-md-8 box">
-        <a href="/events/2016-boston/program/elliot-murphy">Elliot Murphy (Kindly Ops) - (Opening keynote)<br><br></a>
+        Sponsors
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>10:00-10:10</time>
+        <time>09:40-10:10</time>
       </div>
       <div class = "col-md-8 box">
-        Sponsors
+        <a href="/events/2016-boston/program/elliot-murphy">Elliot Murphy (Kindly Ops) - (Opening keynote)<br><br></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -285,19 +285,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>09:30-10:00</time>
+        <time>09:30-09:40</time>
       </div>
       <div class = "col-md-8 box">
-        <a href="/events/2016-boston/program/jill-jubinski">Jill Jubinski (IBM) - If You Build it, They Will Come: But Will They Stay?</a>
+        Sponsors
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>10:00-10:10</time>
+        <time>09:40-10:10</time>
       </div>
       <div class = "col-md-8 box">
-        Sponsors
+        <a href="/events/2016-boston/program/jill-jubinski">Jill Jubinski (IBM) - If You Build it, They Will Come: But Will They Stay?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
