@@ -66,7 +66,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 </tr>
 <tr>
-<td>2 additional tickets (4 in total)</td>
+<td>3 additional tickets (5 in total)</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
@@ -108,7 +108,7 @@ types of sponsorships, please contact us directly at {{< email_organizers >}}.
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
-* 1 additional tickets, 4 in total
+* 2 additional tickets, 5 in total
 * Dedicated table for swag
 * <a href="https://devopsdaysbaltimore2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.
 
