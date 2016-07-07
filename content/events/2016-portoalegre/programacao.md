@@ -177,7 +177,7 @@ DDoS Resiliency on AWS</strong> - Joao Palma</a>
         <time>16:45-17:15</time>
       </div>
       <div class = "col-md-6 box">
-      <strong>Palestra convidada a confirmar</strong>
+      <strong>Como containers e microserviços estão mudando a forma de desenvolver software</strong> - Osvaldo Daibert
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
