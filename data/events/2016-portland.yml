@@ -33,6 +33,7 @@ team_members:
     employer: "Puppet"
   - name: "Jason Yee"
     twitter: "@gitbisect"
+    employer: "Datadog"
   - name: "Joe Nuspl"
     twitter: "joenuspl"
     employer: "Workday"
