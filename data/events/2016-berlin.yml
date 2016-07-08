@@ -6,13 +6,14 @@ status: "current" # Options are "past" or "current".
 startdate: 2016-11-16 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-11-17 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-07-15
-cfp_date_end: 2016-09-15
-cfp_date_announce: 2016-10-01
+cfp_date_end: 2016-09-01
+cfp_date_announce: 2016-09-15
 coordinates: "52.524332,13.389849" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Kalkscheune Berlin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
+  - name: propose
   - name: program
   - name: location
   - name: registration
