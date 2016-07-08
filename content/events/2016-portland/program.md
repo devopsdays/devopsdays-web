@@ -229,7 +229,7 @@ type = "event"
     <time>09:15-09:45</time>
   </div>
   <div class = "col-md-8 box">
-    Everything is Terrible: Three Perspectives on Building, Configuring, and Securing Software (<em>Chris Barker, Adrien Thebo, Cody Herriges</em>)
+    Everything is Terrible: Three Perspectives on Building, Configuring, and Securing Software (<em>Chris Barker, Adrien Thebo, Ben Hughes</em>)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
