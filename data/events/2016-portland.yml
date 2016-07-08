@@ -16,6 +16,7 @@ nav_elements:
   - name: registration
     url: https://devopsdayspdx2016.busyconf.com/bookings/new
   - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -95,3 +96,49 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: community
     label: Community
+
+speakers:
+  - id: kelsey-hightower
+    level: talk
+  - id: nell-shamrell-harrington
+    level: talk
+  - id: david-blank-edelman
+    level: talk
+  - id: caskey-dickson
+    level: talk
+  - id: dan-young
+    level: talk
+  - id: josh-berkus
+    level: talk
+  - id: matthew-barker
+    level: talk
+  - id: jj-ashghar
+    level: talk
+  - id: ken-mugrage
+    level: talk
+  - id: chris-barker
+    level: talk
+  - id: adrian-thebo
+    level: talk
+  - id: cody-herriges
+    level: talk
+  - id: julia-wester
+    level: talk
+  - id: ben-hughes
+    level: talk
+  - id: stephen-boak
+    level: talk
+  - id: e-dunham
+    level: talk
+  - id: aaron-jenson
+    level: talk
+  - id: ben-burry
+    level: talk
+  - id: eric-passmore
+    level: talk
+  - id: terrence-ryan
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk
