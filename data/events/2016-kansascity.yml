@@ -51,6 +51,8 @@ proposal_email: "proposals-kansascity-2016@devopsdays.org" # Put your proposal e
 sponsors:
   - id: pivotal
     level: gold
+  - id: servicenow
+    level: gold
   - id: victorops
     level: silver
   - id: dstsystems
