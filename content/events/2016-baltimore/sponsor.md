@@ -121,7 +121,7 @@ DevOpsDays is a self-organizing conference for DevOps practitioners that depends
 on your sponsorships to happen. However, because of the nature of the event, we
 do not have vendor booths or book product pitches.
 
-Gold sponsors do get a table they can hang out at and put materials on for
+Platinum sponsors do get a table they can hang out at and put materials on for
 interested people to come visit during breaks, and of course all attendees are
 welcome to propose any subject they want during the open spaces, but this is not
 'that kind of conference' and heavy marketing will probably work against you
