@@ -49,6 +49,9 @@ team_members: # Name is the only required field for team members.
   - name: "Nathen Harvey"
     twitter: "nathenharvey"
     employer: "Chef"
+  - name: "Ramez Mourad"
+    twitter: "@ramezjm"
+    employer: "Cvent"
   - name: "Robert Treat"
     twitter:  "robtreat2"
     employer: "OmniTI"
@@ -60,6 +63,12 @@ proposal_email: "organizers-baltimore-2016@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: eglobaltech
+    level: platinum
+  - id: fearless
+    level: gold
+  - id: arresteddevops
+    level:  media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -71,5 +80,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: media
     label: Media
-  - id: community
-    label: Community
+  # - id: community
+  #   label: Community

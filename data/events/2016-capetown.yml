@@ -42,20 +42,25 @@ proposal_email: "proposals-capetown-2016@devopsdays.org" # Put your proposal ema
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  - id: arresteddevops
-#    level: community
-
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: 2016-offerzen-cape-town
+    level: platinum
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
+    max: "1"
   - id: gold
     label: Gold
+    max: "3"
   - id: silver
     label: Silver
+    max: "3"
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: "3"
+  - id: preevent
+    label: "Pre event"
+  - id: eventdinner
+    label: "Event dinner"
+  - id: closingevent
+    label: "Closing drinks"
