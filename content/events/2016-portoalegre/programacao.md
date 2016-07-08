@@ -158,7 +158,7 @@ type = "event"
         <time>16:00-16:15</time>
       </div>
       <div class = "col-md-6 box">
-       <strong>Palestra convidada a confirmar</strong>
+      <a href="/events/2016-portoalegre/programa/sysadmin"> <strong>Construindo um novo Sysadmin </strong> - Diego Morales e Christiano Linuxmen</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -177,7 +177,7 @@ DDoS Resiliency on AWS</strong> - Joao Palma</a>
         <time>16:45-17:15</time>
       </div>
       <div class = "col-md-6 box">
-      <strong>Palestra convidada a confirmar</strong>
+      <strong>Como containers e microserviços estão mudando a forma de desenvolver software</strong> - Osvaldo Daibert
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

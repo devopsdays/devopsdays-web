@@ -5,17 +5,13 @@ type = "event"
 
 +++
 
-<p>
-  <div class = "row">
-    <div class = "col-md-12">
-      <hr />
-      If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
-      <br/>
-      There will be a pre-conference evening with drinks and snacks.
-      <hr />
-    </div>
+<div class = "row">
+  <div class = "col-md-12">
+    <hr />
+    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+    <hr />
   </div>
-</p>
+</div>
 
 <div class = "row">
   <div class = "col-md-12 col-md-offset-4">
@@ -27,7 +23,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3 align="center">7 November 2016</h3>
+        <h3>Day 1</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -36,7 +32,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, and Sponsor Booths Open
+        Registration, Breakfast, and Sponsor Booths Open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -181,17 +177,23 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>18:00-late</time>
+        <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
       </div>
     </div> <!-- end timeslot div -->
+
+
+
+
+
+
   </div><!-- end day 1 -->
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3 align="center">8 November 2016</h3>
+        <h3>Day 2</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -200,7 +202,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, and Sponsor Booths Open
+        Registration, Breakfast, and Sponsor Booths Open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -342,14 +344,5 @@ type = "event"
         Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
-  <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>17:00-late</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Closing drinks at the venue</strong>
-      </div>
-    </div> <!-- end timeslot div -->  
   </div><!-- end day 2 -->
 </div>
