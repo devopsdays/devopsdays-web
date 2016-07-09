@@ -7,6 +7,7 @@ type = "talk"
 +++
 
 **Title:** Everything is Terrible: Three Perspectives on Building, Configuring, and Securing Software
+
 **Description:**
 
 Developers, operations, and security all have differing agendas and benchmarks for success. One is tasked with building new features, the next with delivering and making them available, and the third is tasked with mitigating the risks associated with the previous two.
