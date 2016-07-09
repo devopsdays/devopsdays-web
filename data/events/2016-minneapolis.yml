@@ -101,6 +101,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: workiva
     level: gold
+  - id: columnpuppet
+    level: silver
+  - id: merrill
+    level: gold
   - id: github
     level: gold
   - id: arresteddevops
