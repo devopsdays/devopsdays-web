@@ -72,6 +72,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: emc
     level: gold
+  - id: netapp
+    level: gold
+  - id: workday
+    level: gold
+  - id: sumologic
+    level: gold
   - id: victorops
     level: silver
   - id: columbia
@@ -98,45 +104,43 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Community
 
 speakers:
-  - id: kelsey-hightower
+  - id: "kelsey-hightower"
     level: talk
-  - id: nell-shamrell-harrington
+  - id: "nell-shamrell-harrington"
     level: talk
-  - id: david-blank-edelman
+  - id: "david-blank-edelman"
     level: talk
-  - id: caskey-dickson
+  - id: "caskey-dickson"
     level: talk
-  - id: dan-young
+  - id: "dan-young"
     level: talk
-  - id: josh-berkus
+  - id: "josh-berkus"
     level: talk
-  - id: matthew-barker
+  - id: "matthew-barker"
     level: talk
-  - id: jj-asghar
+  - id: "jj-asghar"
     level: talk
-  - id: ken-mugrage
+  - id: "ken-mugrage"
     level: talk
-  - id: chris-barker
+  - id: "chris-barker"
     level: talk
-  - id: adrian-thebo
+  - id: "adrien-thebo"
     level: talk
-  - id: cody-herriges
+  - id: "julia-wester"
     level: talk
-  - id: julia-wester
+  - id: "ben-hughes"
     level: talk
-  - id: ben-hughes
+  - id: "stephen-boak"
     level: talk
-  - id: stephen-boak
+  - id: "e-dunham"
     level: talk
-  - id: e-dunham
+  - id: "aaron-jensen"
     level: talk
-  - id: aaron-jenson
+  - id: "ben-burry"
     level: talk
-  - id: ben-burry
+  - id: "eric-passmore"
     level: talk
-  - id: eric-passmore
-    level: talk
-  - id: terrence-ryan
+  - id: "terrence-ryan"
     level: talk
 
 speaker_levels:
