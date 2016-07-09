@@ -72,6 +72,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: emc
     level: gold
+  - id: netapp
+    level: gold
+  - id: workday
+    level: gold
+  - id: sumologic
+    level: gold
   - id: victorops
     level: silver
   - id: columbia
