@@ -192,7 +192,7 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
-    <time>19:00-late</time>
+    <time>18:00-late</time>
   </div>
   <div class = "col-md-8 box">
     Evening Event
