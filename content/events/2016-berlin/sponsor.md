@@ -6,7 +6,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at </br></br>[{{< email_organizers >}}].
 
 <hr>
 
@@ -45,7 +45,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <hr/>
 ### Evening event package
 <p>
-In addition to the standard sponsoring packages we are offering an <b>exclusiv evening event sponsoring</b> for 7500 EUR. The evening event sponsor package includes all Platinum benefits and an exlusive evening event branding.
+In addition to the standard sponsoring packages we are offering an <s><b>exclusiv evening event sponsoring</b></s> for 7500 EUR. The evening event sponsor package includes all Platinum benefits and an exlusive evening event branding.
 </p>
 <hr/>
 <p>
