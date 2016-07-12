@@ -36,7 +36,6 @@ This is what we're especially looking for:
     <li>You Build It You Run It: Which kind of team do you need for that? 
 </ul>
 
-<hr>
 <h3>There are four ways to propose a session:</h3>
 <ol>
   <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
