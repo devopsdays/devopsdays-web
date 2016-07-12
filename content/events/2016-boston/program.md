@@ -53,7 +53,7 @@ type = "event"
         <time>09:40-10:10</time>
       </div>
       <div class = "col-md-8 box">
-        <a href="/events/2016-boston/program/elliot-murphy">Elliot Murphy (Kindly Ops) - (Opening keynote)<br><br></a>
+        <a href="/events/2016-boston/program/elliot-murphy">Elliot Murphy (Kindly Ops) - Redefining collaboration norms as your company grows</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
