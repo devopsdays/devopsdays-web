@@ -110,6 +110,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: github
     level: gold
+  - id: microsoft
+    level: silver
   - id: arresteddevops
     level: community
   - id: oreilly
