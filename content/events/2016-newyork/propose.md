@@ -8,6 +8,7 @@ type = "event"
 +++
 {{< cfp_dates >}}
 
+<!--
 <br>
 <b>Ignite talks</b>
 <br>
@@ -40,4 +41,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 
 If your employer does not cover travel expenses you incur as a speaker at devopsdays New York, the conference can and will help; all speakers receive free conference tickets and we can provide financial assistance for travel and lodging expenses for 30 minute speakers upon request.
-
+-->
