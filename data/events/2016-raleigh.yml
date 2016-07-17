@@ -12,12 +12,14 @@ coordinates: "35.779590,-78.638179" # The corrodinates of your venue. Get Latitu
 location: "McKimmon Conference & Training Center"
 nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
   - name: welcome
+  - name: program
+  - name: sponsor
+  - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-raleigh-2016-tickets-23830096460
   - name: contact
   - name: location
-  # - name: program
-  # - name: propose
   - name: conduct
-  - name: sponsor
+
 team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "Chris Knotts", "Mark Mzyk"]
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
