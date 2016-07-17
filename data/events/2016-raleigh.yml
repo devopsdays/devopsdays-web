@@ -13,6 +13,7 @@ location: "McKimmon Conference & Training Center"
 nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
   - name: welcome
   - name: program
+  - name: speakers
   - name: sponsor
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-raleigh-2016-tickets-23830096460
@@ -45,3 +46,10 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: media
     label: Media
 
+speakers:
+  - id: "michael-dehaan"
+    level: talk
+  
+speaker_levels:
+  - id: talk
+    label: Talk
