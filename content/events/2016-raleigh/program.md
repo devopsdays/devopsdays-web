@@ -125,7 +125,7 @@ type = "event"
         <strong>Ignites</strong>
       </div>
       <div class = "col-md-6 box">
-        1. <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - "Code Is Communication</a>
+        1. <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - "Code Is Communication</a><br>
         2. TBD<br>
         3. TBD<br>
         4. TBD<br>
