@@ -66,9 +66,8 @@ speakers:
     level: talk
   - id: "worth-becker"
     level: talk
-   - id: "fraser-pollock"
+  - id: "fraser-pollock"
     level: talk
-    
     
   speaker_levels:
   - id: talk
