@@ -27,7 +27,8 @@ Context & Contingency: Patterns for choosing good tools
 </p>
 <p>I’ll show how our implementation decisions impacted the processes and behaviors of our team; which in turn influenced and reflected our organization’s culture.
 </p>
-
+  </div>
+</div>
 
 <div class="span-15  ">
   <div class="span-15  last ">
