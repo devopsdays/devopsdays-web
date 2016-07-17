@@ -45,10 +45,3 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: media
     label: Media
 
-speakers:
-  - id: "michael-dehaan"
-    level: talk
-    
-  speaker_levels:
-  - id: talk
-    label: Talk
