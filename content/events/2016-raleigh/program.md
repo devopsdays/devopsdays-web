@@ -122,9 +122,7 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
-      </div>
-      <div class = "col-md-6 box">
+        <strong>Ignites</strong><br>
         1. <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - "Code Is Communication</a><br>
         2. TBD<br>
         3. TBD<br>
@@ -299,9 +297,7 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
-      </div>
-      <div class = "col-md-6 box">
+        <strong>Ignites</strong><br>
         1. <a href="/events/2016-raleigh/program/leon-fayer/">Leon Fayer - Oncall for developers</a><br>
         2. <a href="/events/2016-raleigh/program/worth-becker/">Worth Becker - We're All Adults Here</a><br>
         3. <a href="/events/2016-raleigh/program/fraser-pollock/">Fraser Pollock - Data Before DevOps</a><br>
