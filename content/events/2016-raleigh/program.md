@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-raleigh/program/michael-dehaan/">Michael DeHaan - Speaking for the Dead: Is "Waterfall" and "Monolithic" Actually Good?</a> (Opening keynote)
+        <a href="/events/2016-raleigh/program/michael-dehaan/">Michael DeHaan - Speaking for the Dead: Is "Waterfall" and "Monolithic" Actually Good?</a> (Day One Opening Keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -137,7 +137,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space Opening
+        Open Space Intro & Topic Voting
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -312,7 +312,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space Opening
+        Open Space Intro & Topic Voting
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
