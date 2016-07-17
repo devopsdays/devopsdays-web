@@ -47,7 +47,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 
 speakers:
   - id: "michael-dehaan"
-    level: keynote
+    level: talk
   - id: "peter-lamar"
     level: talk
   - id: "eric-sigler"
@@ -55,7 +55,7 @@ speakers:
   - id: "suzie-prince"
     level: talk
   - id: "aaron-suggs"
-    level: keynote
+    level: talk
   - id: "rebecca-fernandez-jen-krieger"
     level: talk
   - id: "josh-atwell"
@@ -63,17 +63,14 @@ speakers:
   - id: "chris-collins"
     level: talk
   - id: "leon-fayer"
-    level: ignite
+    level: talk
   - id: "worth-becker"
-    level: ignite 
+    level: talk
    - id: "fraser-pollock"
-    level: ignite
+    level: talk
     
     
   speaker_levels:
-  - id: keynote
-    label: keynote
   - id: talk
     label: Talk
-  - id: ignite
-    label: ignite
+
