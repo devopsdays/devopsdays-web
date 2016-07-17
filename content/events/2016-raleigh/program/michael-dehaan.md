@@ -1,4 +1,4 @@
-+++ City = "Raleigh" Year = "2016" date = "2016-10-06T21:15:00-21:45:00" title = "Michael DeHaan" type = "talk" 
++++ City = "Raleigh" Year = "2016" date = "2016-10-06T21:15:00-21:45:00" title = "Michael DeHaan" type = "keynote" 
 aliases = ["/events/2016-raleigh/program/michaeldehaan/"]
 
 +++
