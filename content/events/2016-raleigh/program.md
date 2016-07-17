@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-    [Speaking for the Dead: Is "Waterfall" and "Monolithic" Actually Good? (<em>Michael DeHaan</em>)](/events/2016-raleigh/program/michael-dehaan/)
+        <a href="/events/2016-raleigh/program/michael-dehaan/">Michael DeHaan - Speaking for the Dead: Is "Waterfall" and "Monolithic" Actually Good?</a> (Opening keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
