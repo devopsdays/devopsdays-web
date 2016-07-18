@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-raleigh/program/michael-dehaan/">Michael DeHaan - Speaking for the Dead: Is "Waterfall" and "Monolithic" Actually Good?</a> (Day One Opening Keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-raleigh/program/peter-lamar/">Peter Lamar - The (Business) Case for Devops</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-raleigh/program/eric-sigler/">Eric Sigler - "Is there any strong objection?" - How to have a (relatively) stress free time during an outage.</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-raleigh/program/suzie-prince/">Suzie Prince - "Continuous Integration: a bittersweet love story</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,7 +122,12 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br>
+        1. <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - "Code Is Communication</a><br>
+        2. TBD<br>
+        3. TBD<br>
+        4. TBD<br>
+        5. TBD<br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -132,7 +137,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space Opening
+        Open Space Intro & Topic Voting
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -220,7 +225,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+       <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - Context & Contingency: Patterns for choosing good tools</a> (Day Two Opening Keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +243,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+       <a href="/events/2016-raleigh/program/rebecca-fernandez/">Rebecca Fernandez & Jen Krieger - How to be more open, collaborative, and inclusive at work</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +261,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+       <a href="/events/2016-raleigh/program/josh-atwell/">Josh Atwell - How to Evolve Ops Skills to a DevOps World</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +279,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <a href="/events/2016-raleigh/program/chris-collins/">Chris Collins - Embracing the Container</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -292,7 +297,12 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br>
+        1. <a href="/events/2016-raleigh/program/leon-fayer/">Leon Fayer - Oncall for developers</a><br>
+        2. <a href="/events/2016-raleigh/program/worth-becker/">Worth Becker - We're All Adults Here</a><br>
+        3. <a href="/events/2016-raleigh/program/fraser-pollock/">Fraser Pollock - Data Before DevOps</a><br>
+        4. TBD<br>
+        5. TBD<br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -302,7 +312,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space Opening
+        Open Space Intro & Topic Voting
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
