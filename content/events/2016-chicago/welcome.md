@@ -46,7 +46,7 @@ Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together an
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a Session or Ignite!" >}}
+    {{< event_link page="program" text="View the program." >}}
   </div>
 </div>
 

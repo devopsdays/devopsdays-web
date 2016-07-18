@@ -1,5 +1,5 @@
 +++
-date = "2016-03-06T21:28:07-06:00"
+date = "2016-07-15T21:31:25-06:00"
 title = "program"
 type = "event"
 
@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Adam Jacob - The Evolution of Automation
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Joel Vasallo - The Five Phases of DevOps
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Jeremy Edberg - How is the role of DevOps changing in a Serverless environment?
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Angela Dugan - Fear and (Self) Loathing in IT – A Healthy Discussion on Imposter Syndrome</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,7 +122,12 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <p><strong>Ignites</strong></p>
+        <p>Alison Stanton - Ways DevOps Could Be More Accessible</p>
+        <p>Allie Richards - What's that creature living in my cloud?</p>
+        <p>Jamesha Fisher - Out of the Basement: Demystifying Security and Operations</p>
+        <p>Rebecca Miller-Webster - Building resilience in our organizations, our teams, and ourselves</p>
+        <p>Jeff Smith - Dungeons and Dragons....and DevOps</p>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -177,7 +182,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>18:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
@@ -220,7 +225,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Jill Jubinski - DevOps'ing Recruitment
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +243,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Àbéjídé Àyodélé - Lessons learnt from "Shipping" Containers
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +261,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Nell Shamrell-Harrington - Untangling Infrastructure Code Through Refactoring
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +279,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Brian Henerey - Leading an Enterprise to the Public Cloud
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -292,7 +297,12 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <p><strong>Ignites</strong></p>
+        <p>Ken Mugrage - The answer to the “where do we start” question</p>
+        <p>Heidi Waterhouse - Fear of the Bus</p>
+        <p>Morgan Rhodes - Presenting Nervously</p>
+        <p>Michael Stahnke - What I’ve learned interviewing more than 150 people face to face</p>
+        <p>Joshua Zimmerman - DevOps Deep Thoughts by Not Jack Handey</p>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
