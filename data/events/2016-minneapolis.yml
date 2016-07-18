@@ -16,7 +16,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: location
-  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -40,12 +39,13 @@ team_members: # Name is the only required field for team members.
 
 organizer_email: "organizers-minneapolis-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-minneapolis-2016@devopsdays.org" # Put your proposal email address here
+sponsors_accepted: "no"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: pivotal 
     level: platinum
   - id: chef
     level: platinum
-  - id: uhg_optum
+  - id: optum
     level: platinum
   - id: thoughtworks-products
     level: gold
@@ -109,6 +109,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: github
     level: gold
+  - id: microsoft
+    level: silver
   - id: arresteddevops
     level: community
   - id: oreilly
