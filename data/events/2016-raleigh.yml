@@ -21,7 +21,26 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: conduct
 
-team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "Chris Knotts", "Mark Mzyk"]
+team_members: 
+ - name: "Joe Brockmeier"
+    twitter: "jzb"
+    employer: "Red Hat"
+ - name: "Ann Marie Fred"
+    twitter: "DukeAMO"
+    employer: "IBM"    
+ - name: "Chris Knotts"
+    twitter: "chris_knotts"
+    employer: "ASPE Inc."
+ - name: "Jen Krieger"
+    twitter: "mrry550"
+    employer: "Red Hat"
+ - name: "Kaete Piccirilli"
+    twitter: "kaetepiccirilli"
+    employer: "Ansible"
+ - name: "Mark Mzyk"
+    twitter: "mzyk83"
+    employer: "Chef"
+  
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
