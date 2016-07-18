@@ -7,9 +7,10 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this community event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="/events/2016-minneapolis/sponsor/devopsdaysMSP2016-prospectus.pdf">prospectus</a>.
+Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="/events/2016-minneapolis/sponsor/devopsdaysMSP2016-prospectus.pdf">prospectus</a>.
+All Platinum, Gold, and Silver Sponsorships for 2016 are sold out! Thank you for your support!
 
-Additional à la carte sponsorships:
+Additional à la carte sponsorships are still available:
 
 <ul>
 <li>coffee ($1k) - 2 slots available - signage by the coffee displays with your logo throughout the day
@@ -37,8 +38,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <table border=1 cellspacing=1>
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Silver<br />$5,000</u></b></center></th>
-    <th><center><b><u>Gold<br />$7,000</u></b></center></th>
+    <th><center><b><u><del>Silver*</del><br />SOLD OUT</u></b></center></th>
+    <th><center><b><u><del>Gold*</del><br />SOLD OUT</u></b></center></th>
     <th><center><b><u><del>Platinum*</del><br />SOLD OUT</u></b></center></th>
     <th></th>
   </tr>
