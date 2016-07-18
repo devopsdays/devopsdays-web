@@ -2,9 +2,10 @@
 City = "Raleigh" 
 Year = "2016" 
 date = "2016-10-06" 
-title = "Rebecca Fernandez" 
+title = "Rebecca Fernandez & Jen Krieger" 
 type = "talk" 
 aliases = ["/events/2016-raleigh/program/rebecca-fernandez/"]
+aliases = ["/events/2016-raleigh/program/jen-krieger/"]
 
 +++
 <div class="span-15  ">
