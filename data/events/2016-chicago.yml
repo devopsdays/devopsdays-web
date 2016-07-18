@@ -16,6 +16,7 @@ nav_elements:
   - name: welcome
   # - name: propose
   #   url: http://cfp.devopsdayschi.org
+  - name: program
   - name: registration
   - name: sponsor
   - name: volunteer
@@ -110,3 +111,4 @@ sponsor_levels:
     label: Community
   - id: lunch
     label: Lunch
+
