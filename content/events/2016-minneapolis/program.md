@@ -199,6 +199,7 @@ type = "event"
         Ignites<br>
         <a href="/events/2016-minneapolis/program/antoinette-smith">Antoinette Smith -  Barriers to Entry: Educating Future Developers</a><br><br>
         <a href="/events/2016-minneapolis/program/dana-engebretson">Dana Engebretson -  HealthOps in Team Chat</a><br><br>
+	<a href="/events/2016-minneapolis/program/tracey-treat">Tracey Treat - Positively preoccupied with Pokémon (and other timely topics)<br><br>
         <a href="/events/2016-minneapolis/program/john-kelly">John Kelly -  Confessions of a Former Professional Lego Master Builder</a><br><br>
 	<a href="/events/2016-minneapolis/program/corwin-atkins">Corwin Atkins - Becoming a Professional Nerd</a><br><br>
         <a href="/events/2016-minneapolis/program/jasmine-russell">Jasmine Russell -  The Woes of Data Reporting</a><br><br>
