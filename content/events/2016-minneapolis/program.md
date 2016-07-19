@@ -131,7 +131,8 @@ type = "event"
         <time>13:00-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space Opening</strong>
+        <strong>Open Space Opening</strong><br>
+	<a href="https://docs.google.com/spreadsheets/d/1JZdZEdd_8cR6UHeGXp3nl50fZEFjjcBvrOqXiOPqPic/edit?ts=578e45fd#gid=0">Wednesday Open Space Schedule</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -311,7 +312,8 @@ type = "event"
         <time>13:00-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space Opening</strong>
+        <strong>Open Space Opening</strong><br>
+        <a href="https://docs.google.com/spreadsheets/d/1JZdZEdd_8cR6UHeGXp3nl50fZEFjjcBvrOqXiOPqPic/edit?ts=578e45fd#gid=519838719">Thursday Open Space Schedule</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
