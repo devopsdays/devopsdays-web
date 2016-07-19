@@ -58,7 +58,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: elastic
     level: gold
-  - id: chef-before-20160714 
+  - id: chef-before-20160714
     level: gold
   - id: ca_tech
     level: gold
@@ -79,6 +79,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: sumologic
     level: gold
   - id: pagerduty
+    level: gold
+  - id: pure-storage
     level: gold
   - id: victorops
     level: silver
