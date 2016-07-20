@@ -16,7 +16,7 @@ team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Faye T
 organizer_email: "organizers-ohio-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-ohio-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: none
+  - id: containership
     level: gold
   - id: none
     level: silver
