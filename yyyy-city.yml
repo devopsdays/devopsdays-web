@@ -48,9 +48,13 @@ sponsors:
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level.
+sponsor_levels:
   - id: gold
     label: Gold
+    #max: 10
   - id: silver
     label: Silver
   - id: bronze
