@@ -82,6 +82,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pure-storage
     level: gold
+  - id: newrelic
+    level: event
   - id: victorops
     level: silver
   - id: columbia
@@ -100,6 +102,9 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Platinum
   - id: gold
     label: Gold
+  - id: event
+    label: Event
+    max: 1
   - id: silver
     label: Silver
   - id: bronze
