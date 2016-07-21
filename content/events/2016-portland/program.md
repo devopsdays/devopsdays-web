@@ -195,7 +195,7 @@ type = "event"
     <time>18:00-late</time>
   </div>
   <div class = "col-md-8 box">
-    Evening Event
+    Evening Event hosted by New Relic
   </div>
 </div> <!-- end timeslot div -->
 
