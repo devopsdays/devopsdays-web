@@ -18,6 +18,8 @@ proposal_email: "organizers-ohio-2016@devopsdays.org" # Put your proposal email 
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: containership
     level: gold
+  - id: pivotal
+    level: gold
   - id: none
     level: silver
   - id: none
