@@ -20,7 +20,7 @@
    - mattstratton
  */}}
  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (lower $e.city) }}
-   {{ if eq $fname ($.Title | urlize) }}
+   {{ if eq $fname ($.LinkTitle | urlize) }}
 <hr>
 <div class="row">
     <div class="col-md-3">
