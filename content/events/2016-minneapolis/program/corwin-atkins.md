@@ -19,6 +19,9 @@ type = "talk"
 College is the most well-known path to landing a professional job, and a four-year degree is frequently listed as a requirement on IT job postings. How else can one establish themselves as a professional nerd?
 </p>
 
+<br>
+<br>
+<script async class="speakerdeck-embed" data-id="16e25b7cf5f340a9ba9d1b8538e67dd0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 
   </div>
