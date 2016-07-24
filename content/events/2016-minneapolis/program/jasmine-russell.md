@@ -19,6 +19,10 @@ type = "talk"
 A light comical talk surrounding the daily woes and benefits of reporting across an organization. Tough conversations, difficult personalities, unrealistic expectations.
 </p>
 
+<br>
+<br>
+<script async class="speakerdeck-embed" data-id="41e09801e05e444ca5721e531071785c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<br>
 
 
   </div>
