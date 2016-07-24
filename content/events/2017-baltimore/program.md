@@ -10,4 +10,4 @@ type = "event"
 </center>
 <hr />
 
-[Full schedule details](http://devopsdaysbaltimore2016.busyconf.com/schedule).
+[Full schedule details](http://devopsdaysbaltimore2017.busyconf.com/schedule).
