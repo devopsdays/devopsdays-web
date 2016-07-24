@@ -32,6 +32,15 @@ In this session, I’ll present my version of the DevOps philosophy and how it c
 
 </p>
 
+<br>
+<br>
+
+<a href="https://www.dropbox.com/s/qjbypsagcgsdvot/DevOps%20Days%20Mpls%202016.pdf">Slides</a>
+
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqhFUe7JTGU" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>
