@@ -26,6 +26,9 @@ What does this mean for you and me?  It means that good technical judgment is bo
 
 <br>
 <br>
+<script async class="speakerdeck-embed" data-id="fbf31dc0dff848be927d30c0b30024f0" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<br>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PF7Uxa9J8vI" frameborder="0" allowfullscreen></iframe>
 <br>
 
