@@ -6,4 +6,4 @@ type = "event"
 
 +++
 
-[Register Now](https://devopsdaysbaltimore2016.busyconf.com/bookings/new)!
+[Register Now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new)!
