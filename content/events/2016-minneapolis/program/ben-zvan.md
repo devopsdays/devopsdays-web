@@ -35,7 +35,7 @@ In this session, I’ll present my version of the DevOps philosophy and how it c
 <br>
 <br>
 
-<a href="https://www.dropbox.com/s/qjbypsagcgsdvot/DevOps%20Days%20Mpls%202016.pdf">Slides</a>
+<script async class="speakerdeck-embed" data-id="8ecc825b4c8d485eb49a229760931b3e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 <br>
 <br>
