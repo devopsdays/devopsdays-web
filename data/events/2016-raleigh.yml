@@ -35,9 +35,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2016-spreedly
     level: silver
-  - id: 2016-adzerk
+  - id: adzerk
     level: silver
-  - id: 2016-chef
+  - id: chef
     level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
