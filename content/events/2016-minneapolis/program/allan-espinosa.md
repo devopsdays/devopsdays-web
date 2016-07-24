@@ -22,6 +22,13 @@ Autoscaling Containers... with Math
 However, if you look at everyday things like your air conditioner and thermostat, they don't have an Ops team that gets paged to set the correct level of the coolant to set your room to the right temperature. They use some math called <i>Control Theory</i> to keep your room's temperature stable. In this talk, I will show how we can use the same concepts to autoscale and manage the health of our applications on Kubernetes.
 </p>
 
+<br>
+<br>
+<script async class="speakerdeck-embed" data-id="07209241539e49bf9918e1305614a491" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xA0MlIq9oms" frameborder="0" allowfullscreen></iframe>
+<br>
 
 
   </div>
