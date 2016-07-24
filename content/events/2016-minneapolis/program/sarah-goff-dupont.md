@@ -27,6 +27,8 @@ This talk will cover practical and battle-tested ways to work together towards a
 
 </p>
 
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/goom0X3TFX4" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>
