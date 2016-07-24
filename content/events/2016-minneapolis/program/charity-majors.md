@@ -24,6 +24,10 @@ Once upon a time there was a LAMP stack, and a data center, and making reasonabl
 What does this mean for you and me?  It means that good technical judgment is both more challenging and more important than ever before. In this talk we will cover things like about when to use boring technology, versus when to take a flyer on something new and shiny. We'll also talk about how to resist software sprawl, gating new technologies into production, and how to balance speed of development vs operational impact over time. So don't despair! With just a little bit of discipline, we can still build systems that ordinary humans can understand and maintain, even in the face of skyrocketing complexity and problems of scale."
 </p>
 
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PF7Uxa9J8vI" frameborder="0" allowfullscreen></iframe>
+<br>
 
 
   </div>
