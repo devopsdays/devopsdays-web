@@ -42,7 +42,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>Logo on DevOpsDays Baltimore 2016 event website</td>
+<td>Logo on DevOpsDays Baltimore 2017 event website</td>
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -93,8 +93,8 @@ types of sponsorships, please contact us directly at {{< email_organizers >}}.
 
 * 2 included tickets
 * Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays Baltimore 2016 event website
-* <a href="https://devopsdaysbaltimore2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Silver sponsor now</a>.
+* Logo on DevOpsDays Baltimore 2017 event website
+* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Silver sponsor now</a>.
 
 ### Gold - $3,000
 
@@ -102,7 +102,7 @@ types of sponsorships, please contact us directly at {{< email_organizers >}}.
 * Logo on all email communication
 * 1 additional ticket, 3 in total
 * Shared table for swag
-* <a href="https://devopsdaysbaltimore2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Gold sponsor now</a>.
+* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Gold sponsor now</a>.
 
 ### Platinum - $5,000
 
@@ -110,7 +110,7 @@ types of sponsorships, please contact us directly at {{< email_organizers >}}.
 * 1 minute pitch to full audience, including streaming audience
 * 2 additional tickets, 5 in total
 * Dedicated table for swag
-* <a href="https://devopsdaysbaltimore2016.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.
+* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.
 
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
