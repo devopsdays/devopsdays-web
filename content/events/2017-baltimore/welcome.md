@@ -2,13 +2,17 @@
 date = "2016-05-20T09:31:15-04:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2016-baltimore"]
+aliases = ["/events/2017-baltimore"]
 
 +++
 
 ## {{< event_start >}} - {{< event_end >}}
 
 DevOps Days is coming to {{< event_location >}}!
+
+*DevOpsDays Baltimore postponed* - a number of factors have led the organizers
+of DevOpsDays Baltimore to postpone our inaugural event.  Please join us in
+March for DevOpsDays Baltimore.
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -37,7 +41,7 @@ DevOps Days is coming to {{< event_location >}}!
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdaysbaltimore2016.busyconf.com/bookings/new">Register to attend the conference!</a>
+    <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new">Register to attend the conference!</a>
   </div>
 </div>
 
@@ -46,7 +50,7 @@ DevOps Days is coming to {{< event_location >}}!
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdaysbaltimore2016.busyconf.com/proposals/new">Propose a talk!</a>
+    <a href="https://devopsdaysbaltimore2017.busyconf.com/proposals/new">Propose a talk!</a>
   </div>
 </div>
 
