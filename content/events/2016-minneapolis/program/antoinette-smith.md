@@ -25,6 +25,7 @@ Often times going from non-developer to new developer isn't as much about the di
 
 <br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VU9llUzsU7o" frameborder="0" allowfullscreen></iframe>
 
 
   </div>

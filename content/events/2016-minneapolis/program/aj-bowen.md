@@ -23,6 +23,9 @@ Most work meetings are full of interruptions, repetitions and microaggressions. 
 <br>
 <script async class="speakerdeck-embed" data-id="dd91e7b6f7974994857e778f89497c1c" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7VroJy_Gi4" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>
