@@ -17,6 +17,7 @@ nav_elements:
   # - name: propose
   #   url: http://cfp.devopsdayschi.org
   - name: program
+  - name: speakers
   - name: registration
   - name: sponsor
   - name: volunteer
@@ -111,4 +112,46 @@ sponsor_levels:
     label: Community
   - id: lunch
     label: Lunch
+
+speakers:
+  - id: "abejide-ayodele"
+    level: talk
+  - id: "adam-jacob"
+    level: talk
+  - id: "alison-stanton"
+    level: talk
+  - id: "allie-richards"
+    level: talk
+  - id: "angela-dugan"
+    level: talk
+  - id: "brian-henerey"
+    level: talk
+  - id: "heidi-waterhouse"
+    level: talk
+  - id: "jamesha-fisher"
+    level: talk
+  - id: "jeff-smith"
+    level: talk
+  - id: "jeremy-edberg"
+    level: talk
+  - id: "jill-jubinski"
+    level: talk
+  - id: "joel-vasallo"
+    level: talk
+  - id: "joshua-zimmerman"
+    level: talk
+  - id: "ken-mugrage"
+    level: talk
+  - id: "michael-stahnke"
+    level: talk
+  - id: "morgan-rhodes"
+    level: talk
+  - id: "nell-shamrell-harrington"
+    level: talk
+  - id: "rebecca-miller-webster"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk
 
