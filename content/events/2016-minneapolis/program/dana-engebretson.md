@@ -23,6 +23,8 @@ I wanted to learn google cloud deployment with docker and kubernetes so that I c
 <br>
 <script async class="speakerdeck-embed" data-id="7652852936324400aa99cb1638c7e8f1" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Avt2Fd1PYAE" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>
