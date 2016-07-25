@@ -19,6 +19,9 @@ Positively preoccupied with Pokémon (and other timely topics)
 Are half the adults you know suddenly preoccupied with Pokémon? Today's teens may be as well, but, like adults, they also use tech in many other ways, for good or for ill. Let's talk about the negative influence technology can have on teens (e.g. cyberbullying) and ways that technology can make a positive impact on teenagers' lives.
 </p>
 
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yjlai6ILjXM" frameborder="0" allowfullscreen></iframe>
 
 
   </div>
