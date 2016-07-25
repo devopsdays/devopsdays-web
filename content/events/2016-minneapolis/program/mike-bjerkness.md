@@ -19,7 +19,10 @@ type = "talk"
 A walk through multiple programming languages, discussing the issues and strengths with each language.
 </p>
 
+<br>
+<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgcRRsXt7zM" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>
