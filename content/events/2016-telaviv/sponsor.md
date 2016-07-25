@@ -6,8 +6,10 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email</a>.
+We greatly value sponsors for this open event. If you are interested in sponsoring, please fill out this form: 
+http://tinyurl.com/sponsortlv 
+
+There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email at [{{< email_organizers >}}]</a>.
 
 <br>
 <br>
