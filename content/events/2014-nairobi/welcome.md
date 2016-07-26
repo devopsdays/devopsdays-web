@@ -6,7 +6,7 @@ aliases = ["/events/2014-nairobi"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOps Days is coming to {{< event_location >}}!
 
