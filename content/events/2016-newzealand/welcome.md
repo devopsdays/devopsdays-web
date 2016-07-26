@@ -19,7 +19,7 @@ Early bird Tickets are now available at our [registration site](https://devopsda
 
 <hr/>
 
-<div style="float:left">
+<div style="float:left;">
   <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo.png" style="max-width: 90%;">
 </div> 
 
