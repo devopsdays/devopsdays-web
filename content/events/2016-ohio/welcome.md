@@ -9,7 +9,7 @@ draft = false
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOps Days will be coming to <a href="http://www.shadowboxlive.org/">Shadowbox Live</a> in Columbus, Ohio!
 

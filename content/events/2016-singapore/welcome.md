@@ -9,7 +9,7 @@ aliases = ["/events/2016-singapore"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <div style="text-align:center; margin: 1.5em 0;">
   <img src="/events/2016-singapore/logo.png" width="80">
