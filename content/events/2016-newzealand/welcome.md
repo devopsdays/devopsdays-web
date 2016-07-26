@@ -19,7 +19,7 @@ Early bird Tickets are now available at our [registration site](https://devopsda
 
 <hr/>
 
-<div style="float:left;">
+<div style="float:left">
   <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo.png" style="max-width: 90%;">
 </div> 
 
@@ -44,14 +44,14 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div> 
 
  <div class = "row">
   <div class = "col-md-2">
@@ -62,14 +62,14 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
