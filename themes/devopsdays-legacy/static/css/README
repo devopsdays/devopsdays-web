@@ -1,3 +1,0 @@
-#need to remove dependency on erb from devops.css in order to merge
-
- juicer merge -o  devops.min.css blueprint/screen.css  blueprint/plugins/fancy-type/screen.css devops.css
