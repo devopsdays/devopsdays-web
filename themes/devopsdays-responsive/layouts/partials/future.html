@@ -26,7 +26,11 @@ through these lists to generate our event info.
                             {{ range sort $.Site.Data.events "startdate" }}
                               {{ if  and ( eq .status "current") ( .startdate ) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ .city }}
+                                {{ if .displayname }}
+                                  {{ .displayname }}
+                                {{ else }}
+                                  {{ .city }}
+                                {{ end }}
                                 {{ dateFormat "Jan 2" .startdate }}
                                 -
                                 {{ dateFormat "Jan 2" .enddate }}
@@ -38,7 +42,11 @@ through these lists to generate our event info.
                             {{ range sort $.Site.Data.events "startdate" }}
                               {{ if  and ( eq .status "current") ( not .startdate ) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ .city }}
+                                {{ if .displayname }}
+                                  {{ .displayname }}
+                                {{ else }}
+                                  {{ .city }}
+                                {{ end }}
                               </a><br />
                               {{ end }}
                             {{ end }}
