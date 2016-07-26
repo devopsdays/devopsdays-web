@@ -39,7 +39,7 @@ Then in a new window:
 A more permanent fix is to add the following to `/etc/sysctl.conf` (run `touch /etc/sysctl.conf` first if the file doesn't exist; it likely does not):
 
 ```
-kern.maxfiles=20480 
+kern.maxfiles=20480
 kern.maxfilesperproc=24576
 ```
 ...and reboot!
@@ -62,6 +62,18 @@ The easiest way to create a new event is with the [make_new_event.sh](https://gi
 
 Once you have created a logo graphic, you will want to add it to the following directory (creating the directory if necessary) `/static/events/yyyy-city/logo.png`. The file MUST be called `logo.png`.
 
+### Special characters in city names
+
+If your city has either spaces, or accented characters, you will want to add the optional parameter `displayname` to your `yyyy-city.yml`. The `name` and `city` parameters need to be named with "URL-friendly" (i.e., ASCII, no spaces), but `displayname` can have whatever you want in it.
+
+For example, for Zürich, your event directory would be `2016-zurich`, and the data file would have the following elements:
+```
+name: "2015-zurich"
+year: 2015
+city: "Zurich"
+displayname: "Zürich"
+```
+
 ## Adding sponsors
 
 Sponsors each need a file in the data directory, as such: `data/sponsors/chef.yml`. Please make sure to use the year for the sponsor (just so that the old events don't end up with newer sponsor logos, etc - but don't make one just for your city). If there is an existing sponsor and you can use it, you do not need to create the data file (or the image). If your information is different, please create a new file, such as `data/sponsors/chefchicago.yml`.  (Note: there is an experimental feature for an "override" of the sponsor data; more on this feature as it is developed)
@@ -81,7 +93,7 @@ All logos will be constrained, via markup, to 100px square; combined with the im
 The program is driven by the program.md file in your event (copied from the [sample program.md](https://raw.githubusercontent.com/devopsdays/devopsdays-web/master/content/events/sample-event/program.md). To generate a data-driven program, look at the Minneapolis 2016 [speakers data files](https://github.com/devopsdays/devopsdays-web/tree/master/data/speakers/2016/minneapolis) and [program directory](https://github.com/devopsdays/devopsdays-web/tree/master/content/events/2016-minneapolis/program).
 
 ### Speaker Images
-The headshots for your speaker images should be exactly 500px wide (they display at 250px wide, but upload them at 500px wide in order to make them look good on retina displays). 
+The headshots for your speaker images should be exactly 500px wide (they display at 250px wide, but upload them at 500px wide in order to make them look good on retina displays). They must be in JPG format and named with the `.jpg` extension.
 
 ## Binary files
 
@@ -95,7 +107,7 @@ Generally speaking, you should avoid storing any files other than logos or small
 If you are going to be making changes to the overall functionality of the site, please keep the following in mind:
 
 ### Changes to content should be separate from overall functionality
-"Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories. 
+"Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
 
 Changes to content should be submitted as a separate PR from changes to site functionality. It would be additionally delightful if you label PR's for site functionality (such as `bug` or `enhancement`), but that's not required.
 
