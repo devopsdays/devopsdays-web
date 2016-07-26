@@ -10,7 +10,7 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-**Early bird Tickets will be available very soon**
+Early bird Tickets are now available at our [registration site](https://devopsdays-wellington-2016.lilregie.com/step1)
 
 
 <!-- <div style="text-align:center;">
@@ -53,14 +53,14 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
