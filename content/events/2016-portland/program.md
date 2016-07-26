@@ -174,6 +174,15 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
+    <time>15:50-16:10</time>
+  </div>
+  <div class = "col-md-8 box">
+    Break
+  </div>
+</div> <!-- end timeslot div -->
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "col-md-2 col-md-offset-1">
     <time>16:10-16:40</time>
   </div>
   <div class = "col-md-8 box">
@@ -344,6 +353,15 @@ type = "event"
   </div>
   <div class = "col-md-8 box">
     Open Space #3
+  </div>
+</div> <!-- end timeslot div -->
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "col-md-2 col-md-offset-1">
+    <time>15:50-16:10</time>
+  </div>
+  <div class = "col-md-8 box">
+    Break
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
