@@ -81,8 +81,10 @@ sponsors:
   - id: servercentral
     level: silver
   - id: morpheus_data
-    level: bronze
+    level: silver
   - id: drw
+    level: bronze
+  - id: cons3rt
     level: bronze
   - id: arresteddevops
     level: community
