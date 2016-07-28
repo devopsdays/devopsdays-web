@@ -58,7 +58,7 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+  <a href="https://www.papercall.io/devopsdays-wellington">Propose a talk!</a>
   </div>
 </div>
 
@@ -67,7 +67,7 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  <a href="https://devopsdays-wellington-2016.lilregie.com/step1">Register to attend the conference!</a>
   </div>
 </div>
 
