@@ -19,6 +19,8 @@ nav_elements:
   - name: speakers
   - name: sponsor
   - name: contact
+  - name: volunteer
+    url: http://tinyurl.com/devopsdayspdx2016-volunteer
   - name: conduct
 team_members:
   - name: "Bill Weiss"
@@ -97,6 +99,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: arresteddevops
     level: community
   - id: recompiler
+    level: community
+  - id: oreilly
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
