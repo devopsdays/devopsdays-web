@@ -81,7 +81,13 @@ sponsors:
     level: gold
   - id: 2016-athenahealth
     level: gold
+  - id: 2016-logz
+    level: gold
   - id: 2016-brainshark
+    level: silver
+  - id: 2016-vistaprint
+    level: silver
+  - id: 2016-constantcontact
     level: silver
 #  - id: arresteddevops
 #    level: community
