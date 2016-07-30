@@ -19,6 +19,8 @@ nav_elements:
   - name: speakers
   - name: sponsor
   - name: contact
+  - name: volunteer
+    url: http://tinyurl.com/devopsdayspdx2016-volunteer
   - name: conduct
 team_members:
   - name: "Bill Weiss"
