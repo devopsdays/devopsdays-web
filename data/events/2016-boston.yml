@@ -61,6 +61,8 @@ sponsors:
     level: platinum
   - id: pagerduty
     level: platinum
+  - id: gcp
+    level: platinum
   - id: datadog
     level: gold
   - id: 2016-pivotal
@@ -74,6 +76,10 @@ sponsors:
   - id: xebialabs
     level: gold
   - id: 2016-sumologic
+    level: gold
+  - id: 2016-onpage
+    level: gold
+  - id: 2016-athenahealth
     level: gold
   - id: 2016-brainshark
     level: silver
