@@ -46,7 +46,7 @@ Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together an
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="program" text="View the program." >}}
+    View the {{< event_link page="program" text="program" >}} and {{< event_link page="speakers" text="speakers." >}}
   </div>
 </div>
 
