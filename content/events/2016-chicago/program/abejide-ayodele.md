@@ -4,7 +4,6 @@ Year = "2016"
 date = "2016-07-15T22:06:24-06:00"
 linktitle = "abejide-ayodele"
 title = "Àbéjídé Àyodélé"
-#title = "Abejide Ayodele"
 type = "talk"
 aliases = ["/events/2016-chicago/program/abejideayodele/"]
 
