@@ -39,8 +39,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: takipi
     level: gold
-#   - id: chef
-#     level: gold
+  - id: pivotal
+    level: gold
+  - id: victorops
+    level: silver
+  - id: chef
+    level: bronze
 #   - id: arresteddevops
 #     level: community
 
