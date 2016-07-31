@@ -76,11 +76,15 @@ sponsors:
     level: gold
   - id: panopta
     level: gold
+  - id: evident
+    level: gold
   - id: pagerduty
-    level: silver
+    level: gold
   - id: servercentral
     level: silver
   - id: morpheus_data
+    level: silver
+  - id: herzum
     level: silver
   - id: drw
     level: bronze
