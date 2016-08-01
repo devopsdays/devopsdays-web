@@ -40,7 +40,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: chef
     level: gold
   - id: 2016-g2-tech-group
-   level: platinum
+    level: platinum
   - id: tintri
     level: gold
 
