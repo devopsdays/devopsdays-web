@@ -108,11 +108,13 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Platinum
   - id: gold
     label: Gold
+    max: 15
   - id: event
     label: Event
     max: 1
   - id: silver
     label: Silver
+    max: 6
   - id: bronze
     label: Bronze
   - id: community
