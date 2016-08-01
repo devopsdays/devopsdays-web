@@ -39,6 +39,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: chef
     level: gold
+  - id: 2016-g2-tech-group
+   level: platinum
+  - id: tintri
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
