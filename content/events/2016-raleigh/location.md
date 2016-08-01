@@ -29,7 +29,7 @@ From I-40 traveling west:
 Parking in the front lots of the McKimmon Center is free and usually plentiful. There are three smaller parking lots on each side of the Center that are reserved for University employees. Visitors are asked to park in designated visitor parking spaces in order to avoid ticketing.
 <br><br>
 <h2>Hotel Information</h2>
-We have secured a block of hotel rooms at the DoubleTree Brownstone at a reduced rate of $129/night. This offer expires on 9/14. Please use <a href="http://bit.ly/2awYYZA">this link</a> to reserve for the discounted price. 
+We have secured a block of hotel rooms at the DoubleTree Brownstone at a reduced rate of $129/night. This offer expires on September 14th, 2016. Please use <a href="http://bit.ly/2awYYZA">this link</a> to reserve for the discounted price. 
 <br><br>
 Hotel Information:<br>
 1707 Hillsborough Street<br>
