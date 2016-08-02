@@ -43,6 +43,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: tintri
     level: gold
+  - id: ibm
+    level: gold
+  - id: netapp
+    level: platinum
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
