@@ -14,7 +14,7 @@
             {{ $s := (index $.Site.Data.sponsors .id) }}
             {{ if isset $.Site.Data.sponsors .id }}
               {{ $.Scratch.Add $level.id 1 }}
-              <a href = "{{ $s.url }}"><img alt = "{{ .id }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" height="100px" width="100px"></a>
+              <a href = "{{ $s.url }}"><img alt = "{{ $s.name }}" title = "{{ $s.name }}" src = "/img/sponsors/{{ .id }}.png" class="img-responsive company-logo" height="100px" width="100px"></a>
             {{ end }}
           {{ end }}
         </div>
