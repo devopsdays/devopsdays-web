@@ -37,8 +37,14 @@ proposal_email: "proposals-newyork-2016@devopsdays.org" # Put your proposal emai
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: datadog
     level: gold
-#   - id: chef
-#     level: gold
+  - id: takipi
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: victorops
+    level: silver
+  - id: chef
+    level: bronze
 #   - id: arresteddevops
 #     level: community
 

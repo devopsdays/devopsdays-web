@@ -14,7 +14,6 @@ navigationelements:
   - "welcome"
   - "contact"
   - "location"
-  - "propose"
   - "registration"
   - "conduct"
   - "sponsor" # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
@@ -42,6 +41,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: promptworks
     level: bronze
+  - id: rtop
+    level: branding
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -50,3 +51,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
+  - id: branding
+    label: Branding

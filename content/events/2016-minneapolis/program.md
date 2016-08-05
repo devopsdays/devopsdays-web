@@ -131,7 +131,8 @@ type = "event"
         <time>13:00-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space Opening</strong>
+        <strong>Open Space Opening</strong><br>
+	<a href="https://docs.google.com/spreadsheets/d/1JZdZEdd_8cR6UHeGXp3nl50fZEFjjcBvrOqXiOPqPic/edit?ts=578e45fd#gid=0">Wednesday Open Space Schedule</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -199,6 +200,7 @@ type = "event"
         Ignites<br>
         <a href="/events/2016-minneapolis/program/antoinette-smith">Antoinette Smith -  Barriers to Entry: Educating Future Developers</a><br><br>
         <a href="/events/2016-minneapolis/program/dana-engebretson">Dana Engebretson -  HealthOps in Team Chat</a><br><br>
+	<a href="/events/2016-minneapolis/program/tracey-treat">Tracey Treat - Positively preoccupied with Pokémon (and other timely topics)<br><br>
         <a href="/events/2016-minneapolis/program/john-kelly">John Kelly -  Confessions of a Former Professional Lego Master Builder</a><br><br>
 	<a href="/events/2016-minneapolis/program/corwin-atkins">Corwin Atkins - Becoming a Professional Nerd</a><br><br>
         <a href="/events/2016-minneapolis/program/jasmine-russell">Jasmine Russell -  The Woes of Data Reporting</a><br><br>
@@ -310,7 +312,8 @@ type = "event"
         <time>13:00-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space Opening</strong>
+        <strong>Open Space Opening</strong><br>
+        <a href="https://docs.google.com/spreadsheets/d/1JZdZEdd_8cR6UHeGXp3nl50fZEFjjcBvrOqXiOPqPic/edit?ts=578e45fd#gid=519838719">Thursday Open Space Schedule</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
