@@ -6,7 +6,7 @@ aliases = ["/events/2016-chicago"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together and planning the 2016 event.  We're encouraged by the feedback from last year's event and are determined to bring an improved experience and continue the DevOps conversation this August in Chicago.
 
@@ -46,7 +46,7 @@ Welcome!  The group that brought you DevOpsDays Chicago 2015 is back together an
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a Session or Ignite!" >}}
+    View the {{< event_link page="program" text="program" >}} and {{< event_link page="speakers" text="speakers." >}}
   </div>
 </div>
 

@@ -18,10 +18,10 @@ There are three ways to propose a session:
 
 Our main criteria to make it to the top selection are:
 
-- _original content_: content not yet presented at other conferences, or a new angle to an existing problem
-- _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
+- _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice.
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 - _no third-party submissions_: If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process. This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees.
+- _original content_: the talk should have been created by yourself and not copied from another person's one.
 
 <strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
 <ol>

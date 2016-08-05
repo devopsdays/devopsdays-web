@@ -6,7 +6,7 @@ aliases = ["/events/2016-madison"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOps Days is coming to Madison, WI!
 

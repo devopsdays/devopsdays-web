@@ -9,9 +9,7 @@ aliases = ["/events/2016-minneapolis"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
-
-**devopsdays is returning to Minneapolis!**
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -40,7 +38,7 @@ aliases = ["/events/2016-minneapolis"]
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    At 700+ attendees, the conference is sold out!
   </div>
 </div>
 

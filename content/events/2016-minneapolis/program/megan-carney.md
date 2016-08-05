@@ -33,6 +33,13 @@ It's fun to pretend you're the smartest person in the room ... until no one want
 
 </p>
 
+<a href="http://megancarney.com/presentations/HowSecurityCanWinFriendsandInfluencePeople.pdf">Slides - How Security Can Win Friends and Influence People</a>
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sznQjTPRZqs" frameborder="0" allowfullscreen></iframe>
+
+<br>
 
   </div>
 </div>
