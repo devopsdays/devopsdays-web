@@ -187,7 +187,7 @@ Once you have a time and place, you can announce your event to the world! It's g
 
 ### Website
 
-Update your data file for your event and [submit a pull request](https://github.com/devopsdays/devopsdays-web]) to get your event listed on the front page!
+Update your data file for your event and [submit a pull request](https://github.com/devopsdays/devopsdays-web) to get your event listed on the front page!
 
 ### Twitter
 

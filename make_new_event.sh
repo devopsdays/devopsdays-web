@@ -8,7 +8,7 @@ read -p "Enter your event year (default: $(date +"%Y")): " year
 
 # We don't use accent marks or spaces or other special characters in city names
 read -p "Enter your city name: " city
-cityabbr=$(echo $city | tr -dc '[:alpha:]' | tr 'āáǎàēéěèīíǐìōóǒòöūúǔùǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛ' 'aaaaeeeeiiiiooooouuuuuuuuAAAAEEEEIIIIOOOOUUUUUUUU' | tr '[:upper:]' '[:lower:]')
+cityabbr=$(echo $city | tr -dc '[:alpha:]' | tr 'āáǎàēéěèīíǐìōóǒòöūúǔùǖǘǚǜüĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÜ' 'aaaaeeeeiiiiooooouuuuuuuuuAAAAEEEEIIIIOOOOUUUUUUUUU' | tr '[:upper:]' '[:lower:]')
 
 read -p "Enter your devopsdays event twitter handle (defaults to devopsdays): " twitter
 [ -z "${twitter}" ] && twitter='devopsdays'

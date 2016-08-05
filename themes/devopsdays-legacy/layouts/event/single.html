@@ -1,9 +1,0 @@
-{{ partial "event_header.html" . }}
-
-{{ $path := split $.Source.File.Path "/" }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-
-      {{ .Content }}
-
-{{ partial "event_footer.html" . }}
