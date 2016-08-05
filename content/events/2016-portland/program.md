@@ -292,7 +292,7 @@ type = "event"
     <time>11:20-11:50</time>
   </div>
   <div class = "col-md-8 box">
-    [On-call developers: how we got here and what we need to do about it (<em>Stephen Boak</em>)](/events/2016-portland/program/stephen-boak)
+    [TBA (<em>Jennifer Davis</em>)](/events/2016-portland/program/jennifer-davis)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
