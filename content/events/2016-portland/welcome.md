@@ -42,30 +42,21 @@ aliases = ["/events/2016-portland"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Volunteer</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="http://tinyurl.com/devopsdayspdx2016-volunteer">Be a part of DevOpsDays by volunteering.</a>
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
