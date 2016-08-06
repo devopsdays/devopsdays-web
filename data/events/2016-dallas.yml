@@ -47,6 +47,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2016-techtowntraining
     level: gold
+  - id: ca_tech
+    level: gold
+  - id: upengroup
+    level: gold  
   - id: rightstar
     level: silver
   - id: praecipio
