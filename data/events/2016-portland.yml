@@ -94,6 +94,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: simple
     level: silver
+  - id: 2016-canonical
+    level: silver
   - id: symantec
     level: bronze
   - id: volt
