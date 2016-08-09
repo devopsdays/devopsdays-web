@@ -12,7 +12,7 @@ draft = false
 We greatly value sponsors for this open event.
 
 
-Sponsorship Prospectus TBD.
+<a href="https://www.dropbox.com/s/obvgh13dvw2r0ug/DOD_OHIO_Prospectus_2016.pdf?dl=0" target="_blank">Sponsorship Prospectus.</a>
 
 
 If you are interested in sponsoring this event in any way, please email us: {{< email_organizers >}}.

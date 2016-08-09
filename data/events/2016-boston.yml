@@ -57,9 +57,11 @@ sponsors:
     level: platinum
   - id: 2016-cisco
     level: platinum
-  - id: 2016-newrelic
-    level: platinum
   - id: opsgenie
+    level: platinum
+  - id: pagerduty
+    level: platinum
+  - id: gcp
     level: platinum
   - id: datadog
     level: gold
@@ -73,7 +75,19 @@ sponsors:
     level: gold
   - id: xebialabs
     level: gold
+  - id: 2016-sumologic
+    level: gold
+  - id: 2016-onpage
+    level: gold
+  - id: 2016-athenahealth
+    level: gold
+  - id: 2016-logz
+    level: gold
   - id: 2016-brainshark
+    level: silver
+  - id: 2016-vistaprint
+    level: silver
+  - id: 2016-constantcontact
     level: silver
 #  - id: arresteddevops
 #    level: community
@@ -113,7 +127,7 @@ speakers:
     level: talk
   - id: "spencer-krum"
     level: talk
-  - id: "stillinbeta"
+  - id: "liz-frost"
     level: talk
   - id: "leon-fayer"
     level: talk

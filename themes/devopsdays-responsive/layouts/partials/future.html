@@ -22,11 +22,15 @@ through these lists to generate our event info.
                 <tr>
                     <div style="display:table-cell; vertical-align:top">
                         <div style="margin:1px;">
-                            <strong>2016</strong><br/>
+                            <strong>2016 - 2017</strong><br/>
                             {{ range sort $.Site.Data.events "startdate" }}
                               {{ if  and ( eq .status "current") ( .startdate ) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ .city }}
+                                {{ if .displayname }}
+                                  {{ .displayname }}
+                                {{ else }}
+                                  {{ .city }}
+                                {{ end }}
                                 {{ dateFormat "Jan 2" .startdate }}
                                 -
                                 {{ dateFormat "Jan 2" .enddate }}
@@ -34,11 +38,15 @@ through these lists to generate our event info.
                               {{ end }}
                             {{ end }}
                             <br />
-                            <strong>2016, Dates TBD</strong><br/>
+                            <strong>Future Dates TBD</strong><br/>
                             {{ range sort $.Site.Data.events "startdate" }}
                               {{ if  and ( eq .status "current") ( not .startdate ) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ .city }}
+                                {{ if .displayname }}
+                                  {{ .displayname }}
+                                {{ else }}
+                                  {{ .city }}
+                                {{ end }}
                               </a><br />
                               {{ end }}
                             {{ end }}

@@ -6,7 +6,7 @@ status: "current" # Options are "past" or "current".
 startdate: 2016-10-26 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-10-27 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-04-01
-cfp_date_end: 2016-06-30
+cfp_date_end: 2016-07-08
 cfp_date_announce: 2016-07-15
 coordinates: "39.9500, -75.1667" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chemical Heritage Foundation" # The name of your location
@@ -14,7 +14,6 @@ navigationelements:
   - "welcome"
   - "contact"
   - "location"
-  - "propose"
   - "registration"
   - "conduct"
   - "sponsor" # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
@@ -42,6 +41,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: promptworks
     level: bronze
+  - id: rtop
+    level: branding
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -50,3 +51,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
+  - id: branding
+    label: Branding

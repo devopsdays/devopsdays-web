@@ -6,7 +6,7 @@ aliases = ["/events/2016-bangalore"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOps Days is returning to Bangalore!
 

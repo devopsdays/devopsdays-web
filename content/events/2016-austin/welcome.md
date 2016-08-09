@@ -9,7 +9,7 @@ aliases = ["/events/2016-austin"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
 Visit the [www.devopsdaysaustin.com](http://www.devopsdaysaustin.com) for more up to date information. Registration and CFP coming soon.

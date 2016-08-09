@@ -23,8 +23,11 @@ tags = ["amsterdam","amsterdam-2016"]
 
 <div style="text-align:center;">
 <h3>
-This year, we are hosting the fourth edition of devopsdays Amsterdam. We are looking forward to welcoming 300+ attendees, speakers and trainers for three days of interesting sessions in the end of June 2016.
+Thank you for attending devopsdays Amsterdam 2016! We will see you in June of 2017!
 </h3>
+<h2>
+Please watch this space for links to photos and videos to the event!
+</h2>
 </div>
 
 <div class = "row">
@@ -45,14 +48,14 @@ This year, we are hosting the fourth edition of devopsdays Amsterdam. We are loo
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
