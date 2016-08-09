@@ -45,7 +45,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: forest_technologies
     level: gold
-  - id: redhat
+  - id: puppet
     level: gold
   - id: chef
     level: travel
