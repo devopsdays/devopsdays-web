@@ -6,7 +6,7 @@ aliases = ["/events/2016-telaviv"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
 **devopsdays is coming to {{< event_location >}}!**
@@ -42,14 +42,14 @@ aliases = ["/events/2016-telaviv"]
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -87,7 +87,4 @@ aliases = ["/events/2016-telaviv"]
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->
+{{< event_twitter devopsdaystlv >}}

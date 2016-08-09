@@ -6,7 +6,7 @@ aliases = ["/events/2016-kansascity"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <div style="float:left;">
   <img alt="DevOpsDays Kansas City 2016" src="/events/2016-kansascity/logo.png" style="max-width: 90%;">

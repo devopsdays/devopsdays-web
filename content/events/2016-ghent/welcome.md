@@ -84,4 +84,28 @@ aliases = ["/events/2016-ghent"]
   </div>
 </div>
 
+<br/>
+<br/>
+
+<div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.co.uk/tickets-external?eid=26322043942&ref=etckt" frameborder="0" height="293" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/l/registration-online/">Powered by Eventbrite</a></div></div>
+
+<br/>
+<br/>
+
+<p>The DevOpsDays Belgium team didn't want to wait another 5 years to bring the conference back to Belgium.</p>
+<div>
+  <div>
+    <p><span>Enjoy two full days of presentations followed by open space discussions, with topics spanning the range of Automation, Metrics, Culture, and Sharing. At the end of each day, expect evening social events, both organized and ad hoc.</span>
+    </p>
+    <p>Included in the price are 2 days of conference attendance, breakfast, hot lunch, drinks and dinner/happy hour the
+      first day.
+    </p>
+    <p><strong>NOTE:</strong> we send invoices for all orders. If you want your TVA id on the invoice, please register
+      as a business and fill in the TVA Registration ID field. <em>We can <strong>not</strong> change this
+        afterwards!</em>
+    </p>
+  </div>
+</div>
+
+
 {{< event_twitter devopsdays >}}

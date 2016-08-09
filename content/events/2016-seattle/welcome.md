@@ -7,7 +7,7 @@ aliases = ["/events/2016-seattle"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <div style="float: left; padding-right: 20px;">
   {{< event_logo >}}

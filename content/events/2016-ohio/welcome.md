@@ -9,9 +9,11 @@ draft = false
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOps Days will be coming to <a href="http://www.shadowboxlive.org/">Shadowbox Live</a> in Columbus, Ohio!
+
+<b>Registration is now open! <a href="https://devopsdaysohio2016.eventbrite.com" target="_blank">Click here to register.</a></b>
 
 CFP is now open! To propose a session <a href="http://devopsdaysohio.herokuapp.com/events/devopsdaysohio" target="_blank">click here.</a>
 

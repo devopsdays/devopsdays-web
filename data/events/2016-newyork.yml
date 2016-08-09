@@ -7,7 +7,7 @@ startdate: 2016-09-23 # The start date of your event, in YYYY-MM-DD format. Leav
 enddate: 2016-09-24 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-05-22
 cfp_date_end: 2016-07-15
-cfp_date_announce: 2016-08-10
+cfp_date_announce: 2016-08-16
 coordinates: "40.7127, -74.0059" # The coordinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Microsoft Technology Center" # The name of your location
 
@@ -35,10 +35,16 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-newyork-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newyork-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-#   - id: chef
-#     level: gold
-#   - id: datadog
-#     level: gold
+  - id: datadog
+    level: gold
+  - id: takipi
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: victorops
+    level: silver
+  - id: chef
+    level: bronze
 #   - id: arresteddevops
 #     level: community
 

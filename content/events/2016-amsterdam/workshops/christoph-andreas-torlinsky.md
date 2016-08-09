@@ -27,6 +27,13 @@ The Workshop will detail the Hardware Decoupled architectural drivers for Softwa
 By the end of the workshop you will have the understand to see how a Network is translated into Infrastructure as Code for use cases such as Containers or Private Cloud Deployments at Scale and faster Application Delivery
 </p>
 
+<p>
+The DevOps Workshop is inspired by the Austin Texas OpenStack Summit presented by Betfair London and their
+Online DevOps and SDN Video posted here: <a href="http://www.openstack.org/videos/video/devops-at-betfair-using-openstack-and-sdn">http://www.openstack.org/videos/video/devops-at-betfair-using-openstack-and-sdn</a>.
+</p>
+
+<p>Leveraging Nuage SDN APIs, Red Hat OpenStack and Thoughtworks Go for Speedy Application Delivery.</p>
+
 <p><strong>About the speaker</strong></p>
 <p>Hello, i work for a Startup called Nuage Networks in EMEA and we are actively trying to change how Software interacts with the Network. Check us out, I've been working for a number of companies prior to Nuage in the Networking and Linux and Operating Space.</p>
 
