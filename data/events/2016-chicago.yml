@@ -41,6 +41,7 @@ organizer_email: "organizers@devopsdayschi.org"
 proposal_email: "cfp@devopsdayschi.org"
 ga_tracking_id: "UA-74738648-1"
 
+sponsors_accepted: "no"
 sponsors:
   - id: pivotal
     level: gold
@@ -80,11 +81,17 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
+  - id: 2016-newrelic
+    level: gold
+  - id: signalsciences
+    level: gold
   - id: servercentral
     level: silver
   - id: morpheus_data
     level: silver
   - id: herzum
+    level: silver
+  - id: columntech
     level: silver
   - id: drw
     level: bronze
