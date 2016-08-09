@@ -29,6 +29,13 @@ Management and practitioners alike will leave with a better understanding of how
 
 </p>
 
+<br>
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/AHb6ytptDDitUm" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nicolefv/the-data-on-devops-making-the-case-for-awesome" title="The Data on DevOps: Making the Case for Awesome" target="_blank">The Data on DevOps: Making the Case for Awesome</a> </strong> from <strong><a href="//www.slideshare.net/nicolefv" target="_blank">Nicole Forsgren</a></strong> </div>
+<br>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6IjVf2dcKM" frameborder="0" allowfullscreen></iframe>
+<br>
 
   </div>
 </div>

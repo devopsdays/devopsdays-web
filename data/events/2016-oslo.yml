@@ -20,7 +20,8 @@ location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make i
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
+  - name: speakers
   - name: propose
 #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -93,11 +94,13 @@ proposal_email: "proposals-oslo-2016@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: bekk
     level: gold
-  - id: chef-io
+  - id: chef-before-20160714
     level: gold
   - id: telenor-digital
     level: gold
   - id: praqma
+    level: gold
+  - id: knowit
     level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -107,3 +110,30 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Student
   - id: exclusive
     label: Exclusive
+
+speakers:
+  - id: "mark-burgess"
+    level: talk
+  - id: "jon-arild-torresdal" # no bio here - http://localhost:1313/events/2016-oslo/program/jon-arild-torresdal/ ???
+    level: talk
+  - id: "martin-b-smith"
+    level: talk
+  - id: "jason-diller"
+    level: talk
+  - id: "anders-sveen"
+    level: talk
+  - id: "anton-babenko"
+    level: talk
+  - id: "kjetil-jorgensen-dahl" # no bio here - http://localhost:1313/events/2016-oslo/program/kjetil-jorgensen-dahl/ ???
+    level: talk
+  - id: "kris-buytaert"
+    level: talk
+  - id: "jody-wolfborn"
+    level: talk
+  - id: "marta-paciorkowska"
+    level: talk
+
+
+speaker_levels:
+  - id: talk
+    label: Talk

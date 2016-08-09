@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        [Delightful DevOps Days (<em>Nathen Harvey</em>)](/events/2016-dallas/program/nathen-harvey/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        [NetDevOps - Network Engineer's Journey (<em>Kevin Witherstine</em>)](/events/2016-dallas/program/kevin-witherstine/) 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Encouraging Future Leaders [(<em>Allison Pollard</em>)](/events/2016-dallas/program/allison-pollard/) [(<em>Zach Cannon</em>)](/events/2016-dallas/program/zach-cannon/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      [RoboCop - Bringing Law and Order to CI/CD (<em>Franklin Mosley</em>)](/events/2016-dallas/program/franklin-mosley/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -128,7 +128,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-14:45</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -138,7 +138,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -148,21 +148,11 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #2
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
         <time>16:00-16:45</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #3
+        Open Space #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -220,7 +210,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      [The Devopsification of Windows Server 2016 (<em>Jeffrey Snover</em>)](/events/2016-dallas/program/jeffrey-snover/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +228,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      [Where My Ladies At: The Radical Topic of Women in Tech (<em>Marissa Levy Lerer</em>)](/events/2016-dallas/program/marissa-lerer/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +246,9 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Orchestrating Independence
+        [(<em>Shazad Brohi</em>)](/events/2016-dallas/program/shazad-brohi/)
+        [(<em>Michael Hedgpeth</em>)](/events/2016-dallas/program/michael-hedgpeth/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +266,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        [DevOps for Normals (<em>Michael Coté</em>)](/events/2016-dallas/program/michael-cote/) 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
