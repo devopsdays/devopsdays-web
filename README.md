@@ -122,4 +122,4 @@ The only place to make changes to the LESS files is in `/themes/devopsdays-respo
 
 ## Credits
 
-Thanks to Jess Frazelle @jfrazelle for clueing us into the awesome previews with [Netlify](https://www.netlify.com)!
+Thanks to Jess Frazelle [@jfrazelle](https://github.com/jfrazelle) for clueing us into the awesome previews with [Netlify](https://www.netlify.com)!
