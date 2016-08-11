@@ -14,6 +14,7 @@ location: "Raffles City Convention Centre, Singapore" # The name of your locatio
 newnav: "yes"
 nav_elements:
   - name: welcome
+  - name: program
   - name: location
   - name: propose
   - name: proposals
@@ -42,13 +43,17 @@ proposal_email: "proposals-singapore-2016@devopsdays.org" # Put your proposal em
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: thoughtworks-services
     level: platinum
-  - id: redhat
-    level: travel
+  - id: forest_technologies
+    level: gold
+  - id: puppet
+    level: gold
   - id: chef
     level: travel
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
+  - id: gold
+    label: Gold
   - id: travel
     label: Travel

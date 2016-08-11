@@ -5,7 +5,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf">prospectus</a> and [drop us an email](mailto:sponsorships@devopsdayschi.org?subject=Interested in Sponsoring DevOpsDays Chicago 2016).
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2016-chicago/devopsdays-chicago-2016-prospectus.pdf">prospectus</a> and <a href="https://drive.google.com/open?id=1uqTh6PldcqDgNIitQ8iuR_NOenHPYDQVyMaafk-LqGs">details</a>, or [send us an email](mailto:sponsorships@devopsdayschi.org?subject=Interested in Sponsoring DevOpsDays Chicago 2016).
 
 <hr>
 
@@ -29,51 +29,9 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <table border=1>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u>Bronze<br />1000 USD</u></center></b></th>
-      <th><center><b><u>Silver<br />3000 USD</u></center></b></th>
-      <th><center><b><u>Gold<br />6000 USD</u></center></b></th>
-    </tr>
-    <tr>
-      <td></td><td colspan="3"><small>Note: Paypal payments include 3% service charge.</small></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td colspan="3" style="padding:0px;">
-        <table style="margin:0px;line-height:6px;">
-          <tr>
-            <td style="padding: 4px 10px 0px 5px;">
-              <!-- bronze Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
-            </td>
-            <td style="padding: 4px 10px 0px 5px;">
-              <!-- silver Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="FMZ9VU3WY2XPW">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
-            </td>
-            <td style="width:90px;text-align:center;vertical-align:middle;">
-              <!-- gold Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
-            </td>
-          </tr>
-          <tr>
-            <td colspan="3" style="padding: 2px 0 12px 0;text-align: center;">[Email us](mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays Chicago 2016 Sponsorship) if you prefer to pay by check</td>
-          </tr>
-        </table>
-      </td>
+      <th><center><b><u>Bronze<br />SOLD OUT</u></center></b></th>
+      <th><center><b><u>Silver<br />SOLD OUT</u></center></b></th>
+      <th><center><b><u>Gold<br />SOLD OUT</u></center></b></th>
     </tr>
     <tr>
       <td>included tickets</td>

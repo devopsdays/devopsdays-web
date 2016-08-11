@@ -62,10 +62,10 @@ aliases = ["/events/2016-minneapolis"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>In Review</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
+    Read the <a href="/blog/2016/08/08/minneapolis-2016-in-review/">Minneapolis 2016 in review blog post</a>
   </div>
 </div>
 
