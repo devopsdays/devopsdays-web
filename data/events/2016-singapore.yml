@@ -57,5 +57,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Platinum
   - id: gold
     label: Gold
+  - id: silver
+    label: Silver
   - id: travel
     label: Travel
