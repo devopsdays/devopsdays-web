@@ -106,6 +106,10 @@ sponsors:
     level: gold
   - id: tripletex
     level: gold
+  - id: atlassian
+    level: gold
+  - id: stackstate
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
