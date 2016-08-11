@@ -11,7 +11,7 @@
 
  <!-- speaker page code begin -->
 
-  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (lower $e.city) }}
+  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (replace $e.city " " "" | lower) }}
 <div class="row">
     <div class="col-md-3">
         <img alt = "{{ $s.name }}" src = "/events/{{ $event_slug }}/speakers/{{$fname}}.jpg" class="img-responsive" width = "250px">
