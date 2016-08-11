@@ -47,6 +47,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: puppet
     level: gold
+  - id: 2016-akeles
+    level: silver
+  - id: redhat
+    level: travel
   - id: chef
     level: travel
 
@@ -55,5 +59,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Platinum
   - id: gold
     label: Gold
+  - id: silver
+    label: Silver
   - id: travel
     label: Travel
