@@ -22,7 +22,7 @@ DevOps Days will be coming to <a href="http://www.shadowboxlive.org/">Shadowbox 
 CFP is now open! To propose a session <a href="http://devopsdaysohio.herokuapp.com/events/devopsdaysohio" target="_blank">click here.</a>
 
 
-Special thanks to our partners <a href="www.cohaa.org">COHAA</a> for helping organize this event, in addition to providing highlights for the event to share!
+Special thanks to our partners <a href="http://www.cohaa.org">COHAA</a> for helping organize this event, in addition to providing highlights for the event to share!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/71h0o3mpdaM" frameborder="0" allowfullscreen style="margin: 15px 0 30px;max-width: 100%"></iframe>
 
