@@ -28,7 +28,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pivotal
     level: gold
-  - id: none
+  - id: 2015-covermymeds
+    level: gold
+  - id: thoughtworks-services
+    level: gold
+  - id: victorops
     level: silver
   - id: none
     level: bronze
