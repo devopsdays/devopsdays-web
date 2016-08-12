@@ -9,11 +9,16 @@ aliases = ["/events/2016-warsaw"]
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**devopsdays is coming to {{< event_location >}}!**
+<!--**devopsdays is coming to {{< event_location >}}!** -->
+We are coming back with DevOpsDays in <a href="https://www.youtube.com/watch?v=Qbu_FRg8vuU">Poland</a>.
+  We are extremely excited and would like to invite everyone from Europe and outside to attend, participate, and perhaps become a speaker.
+  Join us to share the adventure!
 
-<!-- <div style="text-align:center;">
+  <a href="http://devopsdays.pl">On the separate website</a> you can find all the information about DevOpsDays Warsaw 2016.
+
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

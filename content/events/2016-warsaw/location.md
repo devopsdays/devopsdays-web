@@ -5,6 +5,11 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+DevOpsDays Warsaw 2016 will be held in <b><a href="http://devopsdays.pl/venue/" target="_blank">Gromada Hotel Airport</a></b><br>
 
-<!-- {{< event_map >}} -->
+<strong>Gromada Warsaw Airport Hotel ***</strong> <br/>
+17 Stycznia Street No. 32<br/>
+02 - 148 Warsaw<br/>
+<hr><br/>
+
+{{< event_map >}}
