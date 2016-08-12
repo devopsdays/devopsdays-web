@@ -32,7 +32,7 @@ type = "event"
 <div class = "row">
   <div class = "col-md-2">
   </div>
-  <div class = "col-md-3">
+  <div class = "col-md-4">
     <b>CAMS</b>:
       <ul>
         <li class="text-primary"><b>[C]</b> Culture</li>
