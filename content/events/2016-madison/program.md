@@ -8,6 +8,9 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12">
     <hr />
+    We are planning to announce our talks on 9/7. Our CFP is open until 8/31, you can propose a talk <a href="/events/2016-madison/propose/">here</a>. 
+    <br/>
+    <br/>
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
   </div>
@@ -50,7 +53,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 1
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +71,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +89,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +107,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 4
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -175,14 +178,14 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+<!--    <div class = "row">
       <div class = "col-md-4">
         <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
       </div>
-    </div> <!-- end timeslot div -->
+    </div> <!-- end timeslot div --> -->
 
 
 
@@ -220,7 +223,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 1
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +241,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +259,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +277,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk 4
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
