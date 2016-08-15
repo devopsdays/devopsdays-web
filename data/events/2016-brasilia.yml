@@ -39,7 +39,7 @@ team_members: # Name is the only required field for team members.
   - name: "Aline Hubner"
   - name: "Dirceu Silva"
   - name: "Rafael Gomes"
-  - name: "Eustáquio Guimaraes"
+  - name: "Eustáquio Guimarães"
   - name: "Diego Aguilera"
   - name: "Rogério Fernandes Pereira"
 organizer_email: "organizers-brasilia-2016@devopsdays.org" # Put your organizer email address here
