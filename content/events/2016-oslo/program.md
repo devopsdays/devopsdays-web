@@ -57,7 +57,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:30-10:45</time>
+        <time>10:30-10:40</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -66,10 +66,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:45-11:15</time>
+        <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/martin-b-smith/">Reaping the rewards of remote-friendly DevOps - Martin B. Smith</a>
+        <a href="/events/2016-oslo/program/daniela-soares-cruzes/">Communication in DevOps: A Fairy Tale or a Horror Story? - Daniela Soares Cruzes</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -201,7 +201,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:30-10:45</time>
+        <time>10:30-10:40</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -210,10 +210,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:45-11:15</time>
+        <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/">TBA</a>
+        <a href="/events/2016-oslo/program/martin-b-smith/">Reaping the rewards of remote-friendly DevOps - Martin B. Smith</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
