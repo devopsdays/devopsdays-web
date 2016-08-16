@@ -85,13 +85,21 @@ sponsors:
     level: gold
   - id: signalsciences
     level: gold
+  - id: appdynamics
+    level: gold
+  - id: slalom
+    level: gold
   - id: servercentral
     level: silver
   - id: morpheus_data
     level: silver
+  - id: columntech
+    level: silver
   - id: herzum
     level: silver
-  - id: columntech
+  - id: atlassian
+    level: silver
+  - id: puppet
     level: silver
   - id: 2016-ns1
     level: silver
