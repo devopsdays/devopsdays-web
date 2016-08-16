@@ -15,13 +15,14 @@ cfp_date_announce: 2016-09-07 # inform proposers of status
 # Location
 #
 coordinates: "-33.935600, 18.457423" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Cape Town" # Defaults to city, but you can make it the venue name.
+location: "Hilton Doubletree, Woodstock, Cape Town" # Defaults to city, but you can make it the venue name.
 #
+
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
   - name: program
+  - name: speakers
   - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
   - name: sponsor
@@ -30,13 +31,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-- name: "Adrian Moisey"
-  twitter: "adrianmoisey"
-- name: "Cobus Bernard"
-  twitter: "cobusbernard"
-- name: "Tom Bamford"
-  twitter: "tom_bamford"
-- name: "Julia Quickfall"
+  - name: "Adrian Moisey"
+    twitter: "adrianmoisey"
+  - name: "Cobus Bernard"
+    twitter: "cobusbernard"
+  - name: "Tom Bamford"
+    twitter: "tom_bamford"
+  - name: "Julia Quickfall"
+
 organizer_email: "organizers-capetown-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-capetown-2016@devopsdays.org" # Put your proposal email address here
 
@@ -45,6 +47,7 @@ proposal_email: "proposals-capetown-2016@devopsdays.org" # Put your proposal ema
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: 2016-offerzen-cape-town
     level: platinum
+
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
@@ -64,3 +67,13 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: "Event dinner"
   - id: closingevent
     label: "Closing drinks"
+
+speakers:
+  - id: "daniel-maher"
+    level: talk
+  - id: "seth-vargo"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk
