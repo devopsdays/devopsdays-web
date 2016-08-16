@@ -7,26 +7,12 @@ Title = "Contact devopsdays"
 
 +++
 
-The devopsdays global core team helps local organizers host their own devopsdays events worldwide. The core team consists of the following people:
+Organization is decentralized. Local events handle their own sponsorships, registration, and all other organization. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
 
-- Patrick Debois
-- John Willis
-- Damon Edwards
-- Kris Buytaert
-- John Vincent
-- Andrew Shafer
-- Lindsay Holmwood
-- Stephen Nelson-Smith
-- Christian Trabold
-- James Wickett
-- Anthony Goddard
-- Bernd Erk (January 2015-present)
-- Bridget Kromhout (January - 2015-present)
-- Jennifer Davis (November 2015-present)
+The devopsdays global core team guides local organizers in hosting their own devopsdays events worldwide.
 
-Organization is decentralized, so each individual event handles their own sponsorships, registration, and so forth. For questions about a specific event you see listed on the site, please contact the organizers for that event.
+**Core Organizers**
 
-If you have other questions (such as inquiries about hosting your own event or about potential future events you don't see on the site), the core organizers are happy to hear from you:
+{{< list_core >}}
 
-- Email: [info@devopsdays.org](mailto:info@devopsdays.org)
-- Twitter: [@devopsdays](https://twitter.com/devopsdays)
+If you have questions about hosting your own event or about potential future events you don't see listed, [email the core organizers](mailto:info@devopsdays.org). The core organizers cannot answer questions about sponsorships or registration for individual cities.
