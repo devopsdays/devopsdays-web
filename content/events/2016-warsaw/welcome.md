@@ -29,32 +29,35 @@ We are coming back with DevOpsDays in <a href="https://www.youtube.com/watch?v=Q
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    <!--{{< event_location >}}-->
+    <a href="https://www.google.pl/maps/place/Hotel+Gromada+Warszawa+Lotnisko+***/@52.1800152,20.9766055,17z/data=!3m1!4b1!4m5!3m4!1s0x4719333c36799b29:0x19a73c6f7fa639d7!8m2!3d52.1800152!4d20.9787942">Hotel Gromada Airport</a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSd2Y2glHixJA2QvyKgUuaIszV9AfUtElkHoRvP4yj8rWf_XOw/viewform">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <!-- {{< event_link page="propose" text="Propose a talk!" >}} -->
+    <a href="http://2016.devopsdays.pl/cfp/form/">Propose a talk!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -79,7 +82,8 @@ We are coming back with DevOpsDays in <a href="https://www.youtube.com/watch?v=Q
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    <!-- {{< event_link page="sponsor" text="Sponsor the conference!" >}} -->
+    <a href="http://2016.devopsdays.pl/call-for-partners/">Sponsor the conference!</a>
   </div>
 </div>
 
@@ -88,7 +92,8 @@ We are coming back with DevOpsDays in <a href="https://www.youtube.com/watch?v=Q
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    <!-- {{< event_link page="contact" text="Get in touch with the organizers" >}} -->
+    <a href="mailto:joanna.okrajni@proidea.org.pl">Get in touch with the organizers</a>
   </div>
 </div>
 
