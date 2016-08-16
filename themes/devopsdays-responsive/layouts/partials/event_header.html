@@ -23,20 +23,33 @@
   <div class="col-md-8">
     <h1>{{ $.Scratch.Get "citydisplay" }} {{ $e.year }} - {{ title .Title }}</h1>
     <!-- Main navigation -->
-    <div class = "event-navigation">
-      <h3 class="event-navigation">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+      <div class="collapse navbar-collapse" id="navbar-collapse-1">
+      <div class="btn-group " role="group">
         {{ if $e.nav_elements }}
           {{ range $e.nav_elements }}
             {{ if .url }}
-              <a href="{{ .url}}">{{ .name }}</a>&nbsp;
+            <div class="btn-group">
+              <a class="btn btn-default" href="{{ .url}}">
+                 {{ .name }}
+                 <small><span class="glyphicon glyphicon-new-window"></span></small>
+              </a>
+            </div>
             {{ else }}
-              <a href="/events/{{ $event_slug }}/{{ .name }}">{{ .name }}</a>&nbsp;
+              <div class="btn-group">
+                <a class="btn btn-default" href="/events/{{ $event_slug }}/{{ .name }}">{{ .name }}</a>
+              </div>
             {{ end }}
          {{ end }}
          {{ else }}
           {{ range $navigation := $e.navigationelements}}
-            <a href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>&nbsp;
+            <div class="btn-group">
+              <a class="btn btn-default" href="/events/{{ $event_slug }}/{{ $navigation}}">{{ $navigation }}</a>
+            </div>
           {{ end }}
          {{ end }}
-      </h3>
-    </div>
+      </div>
+      </div>
+      </div>
+    </nav>
