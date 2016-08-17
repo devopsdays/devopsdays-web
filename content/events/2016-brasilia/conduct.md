@@ -5,6 +5,12 @@ type = "event"
 
 +++
 
+<div class = "event-navigation">
+  <h3 class="event-navigation">
+          <a href="/events/2016-brasilia/conduct-pt_BR">see it in Portuguese (pt_BR)</a>
+  </h3>
+</div>
+
 ## ANTI-HARASSMENT POLICY
 
 DevOpsDays is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
