@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: slalom
     level: gold
+  - id: cloudbees
+    level: gold
   - id: servercentral
     level: silver
   - id: morpheus_data
