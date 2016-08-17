@@ -10,7 +10,7 @@ type = "event"
 
 <div class = "event-navigation">
   <h3 class="event-navigation">
-    <a href="/events/2016-brasilia/conduct">see it in English (US))</a>
+    <a href="/events/2016-brasilia/conduct">see it in English (US)</a>
   </h3>
 </div>
 
