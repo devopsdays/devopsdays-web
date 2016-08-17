@@ -51,9 +51,11 @@ proposal_email: "proposals-brasilia-2016@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: samplesponsorname
     level: gold
-  - id: arresteddevops
-    level: community
   - id: 2016-puppetbr
+    level: community
+  - id: 2016-dockerbr
+    level: community
+  - id: arresteddevops
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
