@@ -209,7 +209,7 @@ type = "event"
         <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-capetown/program/seth-vargo">Seth Vargo (HashiCorp)</br></br>Vault</a>
+        <a href="/events/2016-capetown/program/seth-vargo">Seth Vargo (HashiCorp)</br>Managing secrets with Vault</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot
