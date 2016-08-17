@@ -38,6 +38,7 @@ team_members: # Name is the only required field for team members.
 - name: "Peter Sellars"
 - name: "Will Robertson"
 - name: "Adarsh Jupudi"
+  twitter: "adarshnz"
 - name: "Aurynn Shaw"
 - name: "Ben Vidulich"
 - name: "Nigel Somerfield"
