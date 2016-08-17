@@ -53,6 +53,8 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
+  - id: 2016-devopsbr
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
