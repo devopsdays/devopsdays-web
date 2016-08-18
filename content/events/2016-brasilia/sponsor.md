@@ -108,14 +108,14 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="gold"><center>Yes</center></td>
       <td><center>Yes</center></td>
     </tr>
-    <tr>
+    <!--tr>
       <th>Amount of investment</th>
       <th><center>1,000 BRL</center></th>
       <th><center>4,000 BRL</center></th>
       <th><center>6,000 BRL</center></th>
       <th><center>9,000 BRL</center></th>
       <th><center>-</center></th>
-    </tr>
+    </tr-->
   </table>
   <hr/>
 
