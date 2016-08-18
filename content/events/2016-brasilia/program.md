@@ -195,7 +195,7 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box text-info">
-        <i>Slot 7 <b>[A]</b></i>:
+        <i>Slot 7 <b>[M]</b></i>:
       </div>
     </div> <!-- end timeslot div -->
 

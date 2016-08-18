@@ -23,33 +23,104 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
-<!--
+<div style="width:90%">
+  <table border=1 cellspacing=1>
+    <tr>
+    <th rowspan=2><i>Packages</i></th>
+      <th colspan="5"><center>Sponsor group</center></th>
+    </tr>
+    <tr>
+      <th><center>Supporter</center></th>
+      <th><center>Bronze</center></th>
+      <th><center>Silver</center></th>
+      <th><center>Gold</center></th>
+      <th><center>Venue</center></th>
+    </tr>
+    <tr>
+      <td>Included tickets</td>
+      <td><center>2</center></td>
+      <td><center>4</center></td>
+      <td><center>6</center></td>
+      <td><center>8</center></td>
+      <td><center>30</center></td>
+    </tr>
+    <tr>
+      <td>Releases on website and communities</td>
+      <td><center>-</center></td>
+      <td><center>-</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>Yes</center></td>
+    </tr>
+    <tr>
+      <td>Distribution of flyers</td>
+      <td><center>-</center></td>
+      <td><center>-</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>Yes</center></td>
+    </tr>
+    <tr>
+      <td>logo on event website</td>
+      <td><center>Yes</center></td>
+      <td bgcolor="bronze"><center>Yes</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>Yes</center></td>
+    </tr>
+    <tr>
+      <td>logo on badges</td>
+      <td><center>Yes</center></td>
+      <td bgcolor="bronze"><center>Yes</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>Yes</center></td>
+    </tr>
+    <tr>
+      <td>logo on event posters</td>
+      <td><center>Yes</center></td>
+      <td bgcolor="bronze"><center>Yes</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>Yes</center></td>
+    </tr>
+    <tr>
+      <td>table and banner next to coffee break table</td>
+      <td><center>-</center></td>
+      <td><center>-</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>-</center></td>
+    </tr>
+    <tr>
+      <td>1 minute pitch to full audience between talks (if it's the case including streaming audience)</td>
+      <td><center>-</center></td>
+      <td bgcolor="bronze"><center>Yes</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>-</center></td>
+    </tr>
+    <tr>
+      <td>1 minute pitch to full audience in the Opening Welcome</td>
+      <td><center>Yes</center></td>
+      <td bgcolor="bronze"><center>Yes</center></td>
+      <td bgcolor="silver"><center>Yes</center></td>
+      <td bgcolor="gold"><center>Yes</center></td>
+      <td><center>Yes</center></td>
+    </tr>
+    <!--tr>
+      <th>Amount of investment</th>
+      <th><center>1,000 BRL</center></th>
+      <th><center>4,000 BRL</center></th>
+      <th><center>6,000 BRL</center></th>
+      <th><center>9,000 BRL</center></th>
+      <th><center>-</center></th>
+    </tr-->
+  </table>
+  <hr/>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
-<br/>
-<br/>
+  <br/>
+  <br/>
 </div>
 
 <hr/>
--->
