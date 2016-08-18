@@ -1,0 +1,67 @@
+now = {{ dateFormat "Jan 2, 2006" (.Now.Format "2006-01-02") }}
+
+{{/*
+This is the sort of search that in theory would work for "is this CFP date in the future".
+*/}}
+{{ if ge ( dateFormat "Monday, Jan 2, 2006" "2016-09-01" ) (dateFormat "Monday, Jan 2, 2006" (.Now.Format "2006-01-02")) }}
+   {{ dateFormat "Monday, Jan 2, 2006" "2016-09-01" }} is later than {{ dateFormat "Monday, Jan 2, 2006" (.Now.Format "2006-01-02") }}
+{{ else }}
+  not in the future
+{{ end }}
+
+{{ if ge ( dateFormat "Monday, Jan 2, 2006" "2016-05-01" ) (dateFormat "Monday, Jan 2, 2006" (.Now.Format "2006-01-02")) }}
+   {{ dateFormat "Monday, Jan 2, 2006" "2016-05-01" }} is later than {{ dateFormat "Monday, Jan 2, 2006" (.Now.Format "2006-01-02") }}
+{{ else }}
+  {{ dateFormat "Monday, Jan 2, 2006" "2016-05-01" }} is not in the future
+{{ end }}
+
+
+
+  <h4>
+
+{{/*
+Definitely should do something with a div better than a table but this is for readability during dev
+*/}}
+
+      {{ $.Scratch.Add "events" "<table><tr><th>City</th><th>&nbsp;&nbsp;CFP Close</th><th>&nbsp;&nbsp;&nbsp;&nbsp;Event Date</th></tr>" }}
+
+{{/*
+We can sort by startdate for now because it isn't blank in any current events, but that's not something we can rely on - but moving the range sort inside that if statement was problematic.
+*/}}
+
+  {{ $.Scratch.Add "events" (dateFormat "Jan 2, 2006" (.Now.Format "2006-01-02")) }}
+  {{ range sort $.Site.Data.events "startdate" }}
+{{/*
+  {{ $.Scratch.Add "events" (dateFormat "Jan 2, 2006" (.Now.Format "2006-01-02")) }}
+
+Can't use dateFormat "Jan 2, 2006" (.Now.Format "2006-01-02") in here - if I uncomment this line, I get "executing "theme/partials/cfp.html" at <dateFormat "Jan 2, 2...>: error calling dateFormat: Unable to Cast <nil> to Time"
+*/}}
+    {{ if  and ( eq .status "current") ( .startdate ) }}
+      {{ $.Scratch.Add "events" "<tr><td><a href = '/events/" }}
+      {{ $.Scratch.Add "events" .name }}
+      {{ $.Scratch.Add "events" "/welcome' class = 'cfp'>" }}
+      {{ $.Scratch.Add "events" .city }}
+      {{ $.Scratch.Add "events" "</a></td><td>&nbsp;&nbsp;" }}
+
+{{/*
+We need to ensure the cfp end date is even set before relying on it
+*/}}
+
+      {{ if .cfp_date_end }}
+
+{{/*
+What I'd like to put here is a search for CFP dates greater or equal to current - but first this "unable to cast <nil> to Time issue needs resolving.
+*/}}
+        {{ $.Scratch.Add "events" .cfp_date_end}}
+      {{ end }} {{/* end: if .cfp_date_end */}}
+
+      {{ $.Scratch.Add "events" "</td><td>&nbsp;&nbsp;&nbsp;&nbsp;" }}
+      {{ $.Scratch.Add "events" .startdate}}
+      {{ $.Scratch.Add "events" "</td></tr>" }}
+    {{ end }} {{/* end: if  and ( eq .status "current") ( .startdate ) */}}
+
+  {{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
+
+  {{ substr ($.Scratch.Get "events") 0 -3 | safeHTML }}
+
+  </h4>
