@@ -36,7 +36,8 @@ We can sort by startdate for now because it isn't blank in any current events, b
 
 Can't use dateFormat "Jan 2, 2006" (.Now.Format "2006-01-02") in here - if I uncomment this line, I get "executing "theme/partials/cfp.html" at <dateFormat "Jan 2, 2...>: error calling dateFormat: Unable to Cast <nil> to Time"
 */}}
-    {{ if  and ( eq .status "current") ( .startdate ) }}
+  {{ if .cfp_date_end }}
+    {{ if  ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
       {{ $.Scratch.Add "events" "<tr><td><a href = '/events/" }}
       {{ $.Scratch.Add "events" .name }}
       {{ $.Scratch.Add "events" "/welcome' class = 'cfp'>" }}
@@ -45,22 +46,17 @@ Can't use dateFormat "Jan 2, 2006" (.Now.Format "2006-01-02") in here - if I unc
 
 {{/*
 We need to ensure the cfp end date is even set before relying on it
-*/}}
 
-      {{ if .cfp_date_end }}
-
-{{/*
 What I'd like to put here is a search for CFP dates greater or equal to current - but first this "unable to cast <nil> to Time issue needs resolving.
 */}}
-        {{ $.Scratch.Add "events" .cfp_date_end}}
-      {{ end }} {{/* end: if .cfp_date_end */}}
-
+      {{ $.Scratch.Add "events" .cfp_date_end}}
       {{ $.Scratch.Add "events" "</td><td>&nbsp;&nbsp;&nbsp;&nbsp;" }}
       {{ $.Scratch.Add "events" .startdate}}
       {{ $.Scratch.Add "events" "</td></tr>" }}
     {{ end }} {{/* end: if  and ( eq .status "current") ( .startdate ) */}}
 
   {{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
+{{ end }}
 
   {{ substr ($.Scratch.Get "events") 0 -3 | safeHTML }}
 
