@@ -9,49 +9,7 @@ This is the website for devopsdays.org
 
 ## Contributing
 
-If you'd like to edit a specific devopsdays event site (and/or contribute code), here's how to get started:
-
-### Setup
-1. Install [Hugo v0.15+](http://gohugo.io)
-1. Fork this repo
-
-### View site locally
-1. To watch for changes and rebuild on the fly, open a new terminal, cd to your fork of the repo, and enter this command: `hugo server -w --baseUrl="http://localhost:1313"`
-1. OS X has low ulimits, so you may see this message:
-```
-hugo server -w --baseUrl="http://localhost:1313"
-[...]
-Error: listen tcp 127.0.0.1:1313: socket: too many open files
-```
-
-You can correct it with this:
-```
- $  hugo check ulimit
- $  sudo sysctl -w kern.maxfiles=65536
- $  sudo sysctl -w kern.maxfilesperproc=65536
- $  ulimit -n 65536 65536
-```
-Then in a new window:
-```
- $  hugo server -w --baseUrl="http://localhost:1313"
-```
-
-A more permanent fix is to add the following to `/etc/sysctl.conf` (run `touch /etc/sysctl.conf` first if the file doesn't exist; it likely does not):
-
-```
-kern.maxfiles=20480
-kern.maxfilesperproc=24576
-```
-...and reboot!
-
-### Contribute changes
-1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. tl;dr: don't add "giant template change" in the same PR as "here are some more sponsors". If it affects anything other than your event, it should be in its own PR.
-1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new ones if you like (or read/comment on existing ones).
-1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
-1. Before you commit any changes, create a new branch, i.e., `git checkout -b fix-that-thing`
-1. Make your changes, test them locally, then push that branch up to origin on your fork (`git push origin BRANCHNAME`)
-1. Submit a pull request from the branch you just pushed
-1. When a commit is merged to master on github (ideally via a PR reviewed by at least one other person), wercker will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
+The technical details and guidelines for contributing to this repository are outlined in `CONTRIBUTING.md`. If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
 
 ## Creating a new event
 
@@ -81,13 +39,17 @@ Sponsors each need a file in the data directory, as such: `data/sponsors/chef.ym
 
 Put the images for your sponsors in the `/static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `/static/img/sponsors/chef.png`.
 
+### Sponsor logo guidelines
+
 There are a few simple guidelines regarding sponsor logo files and formatting:
 
 * The dimensions of the image file must be 200px square.
 * The background must be either white or transparent.
 * There must *not* be a border.
 
-All logos will be constrained, via markup, to 100px square; combined with the image file dimensions, this allows for high-density displays (ex. Retina). A border will be drawn around the logo using CSS.
+All logos will be constrained, via markup, to 100px square; combined with the image file dimensions, this allows for high-density display (ex. Retina) compatibility.
+
+Note that a border will be drawn around the logo using CSS, so the logo shouldn't have one already.
 
 ## Speakers & Program
 
@@ -100,27 +62,6 @@ The headshots for your speaker images should be exactly 500px wide (they display
 
 Generally speaking, you should avoid storing any files other than logos or small images inside the repo itself (out of consideration for your fellow devopsdays organizers who have to pull down this repo). Please follow these guidelines:
 
-- Do not upload presentations, artifacts from your event, etc. Either link to the preso on Speakerdeck/Slideshare from the presenter, or even better, create a Speakerdeck account for your event and put the presos there.
-- Small, web images are fine (logos, etc). If you have high-resolution versions of your logo to share with others, please do not host them on the devopsdays-web repo.
-- It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `/static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
-
-## Advanced Contributions
-If you are going to be making changes to the overall functionality of the site, please keep the following in mind:
-
-### Changes to content should be separate from overall functionality
-"Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
-
-Changes to content should be submitted as a separate PR from changes to site functionality. It would be additionally delightful if you label PR's for site functionality (such as `bug` or `enhancement`), but that's not required.
-
-### CSS changes are done with LESS
-Please do NOT make changes to any of the files in the `/themes/devopsdays-responsive/static/css` directory. These are files that are compiled via LESS, and while your changes in there might work, they will be blown away by the LESS compiler at some point.
-
-If you want to make changes to CSS, you will need a LESS compiler on your system. [@mattstratton](https://github.com/mattstratton) uses [CodeKit](https://incident57.com/codekit/), but that is OS X only, and is not free. Here's a list of other possible LESS compilers (note - Matt has not tested any of these):
-- [SimpleLess](http://wearekiss.com/simpless) - all platforms, free.
-- [Less.js](http://lesscss.org/) - node application, free.
-
-The only place to make changes to the LESS files is in `/themes/devopsdays-responsive/static/site_variables.less` and `/themes/devopsdays-responsive/static/site.less`. Make sure your LESS compiler is compiling the output into `/themes/devopsdays-responsive/static/css/`. *DO NOT* make any changes to any other LESS file (do not directly modify the bootstrap LESS files, for example).
-
-## Credits
-
-Thanks to Jess Frazelle [@jfrazelle](https://github.com/jfrazelle) for clueing us into the awesome previews with [Netlify](https://www.netlify.com)!
+* Do not upload presentations, artifacts from your event, etc. Either link to the preso on Speakerdeck/Slideshare from the presenter, or even better, create a Speakerdeck account for your event and put the presos there.
+* Small, web images are fine (logos, etc). If you have high-resolution versions of your logo to share with others, please do not host them on the devopsdays-web repo.
+* It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `/static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
