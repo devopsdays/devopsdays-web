@@ -1,1 +1,2 @@
 /events/2009-ghent/*  http://legacy.devopsdays.org/events/2009-ghent/:splat 301!
+/events/2010*         http://legacy.devopsdays.org/events/2010:splat  301!
