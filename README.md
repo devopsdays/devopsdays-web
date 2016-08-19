@@ -5,11 +5,11 @@ You can see progress on tasks at http://waffle.io/devopsdays/devopsdays-web
 [![Throughput Graph](https://graphs.waffle.io/devopsdays/devopsdays-web/throughput.svg)](https://waffle.io/devopsdays/devopsdays-web/metrics)
 
 # devopsdays-web
-This is the website for devopsdays.org
+This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
 ## Contributing
 
-The technical details and guidelines for contributing to this repository are outlined in `CONTRIBUTING.md`. If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
+The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
 
 ## Creating a new event
 
