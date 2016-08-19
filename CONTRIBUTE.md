@@ -63,22 +63,19 @@ Note that on OS X (which has notoriously low ulimits by default) you may need to
 ### Process
 
 1. Make your own [fork](https://help.github.com/articles/fork-a-repo/) of the `devopsdays-web` repository.
-
 1. Create a new local [branch](https://help.github.com/articles/about-branches/) for your changes. This helps to keep things tidy!
-```
-$ git checkout -b fix_that_thing
-```
-(Replace `fix_that_thing` with a quick description of your *actual* change.)
+  ```
+  $ git checkout -b fix_that_thing
+  ```
+  (Replace `fix_that_thing` with a quick description of your *actual* change.)
 
 1. Make your changes, test them locally (see above), then push that branch up to `origin` on your fork.
-```
-$ git push origin fix_that_thing
-```
+  ```
+  $ git push origin fix_that_thing
+  ```
 
 1. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed.
-
 1. Take a break - you've earned it!
-
 1. When a commit is merged to `master` on GitHub (ideally via a PR reviewed by at least one other person), `wercker` (a build tool) will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
 ### Guidelines
