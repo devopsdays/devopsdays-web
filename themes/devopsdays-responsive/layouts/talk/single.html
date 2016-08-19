@@ -19,7 +19,7 @@
    .Site.Data.events $e.year (printf "%s" (lower $e.city))
    - mattstratton
  */}}
- {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (lower $e.city) }}
+ {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (replace $e.city " " "" | lower) }}
    {{ if eq $fname ($.LinkTitle | urlize) }}
 <hr>
 <div class="row">

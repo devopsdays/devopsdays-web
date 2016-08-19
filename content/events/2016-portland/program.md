@@ -201,7 +201,7 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
-    <time>18:00-late</time>
+    <time>18:00-21:00</time>
   </div>
   <div class = "col-md-8 box">
     Evening Event hosted by New Relic
@@ -292,7 +292,7 @@ type = "event"
     <time>11:20-11:50</time>
   </div>
   <div class = "col-md-8 box">
-    [On-call developers: how we got here and what we need to do about it (<em>Stephen Boak</em>)](/events/2016-portland/program/stephen-boak)
+    [Monitor the Unmeasureable (<em>Jennifer Davis</em>)](/events/2016-portland/program/jennifer-davis)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->

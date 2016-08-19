@@ -47,6 +47,7 @@ kern.maxfilesperproc=24576
 ### Contribute changes
 1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. tl;dr: don't add "giant template change" in the same PR as "here are some more sponsors". If it affects anything other than your event, it should be in its own PR.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new ones if you like (or read/comment on existing ones).
+1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
 1. Before you commit any changes, create a new branch, i.e., `git checkout -b fix-that-thing`
 1. Make your changes, test them locally, then push that branch up to origin on your fork (`git push origin BRANCHNAME`)
 1. Submit a pull request from the branch you just pushed
@@ -119,3 +120,7 @@ If you want to make changes to CSS, you will need a LESS compiler on your system
 - [Less.js](http://lesscss.org/) - node application, free.
 
 The only place to make changes to the LESS files is in `/themes/devopsdays-responsive/static/site_variables.less` and `/themes/devopsdays-responsive/static/site.less`. Make sure your LESS compiler is compiling the output into `/themes/devopsdays-responsive/static/css/`. *DO NOT* make any changes to any other LESS file (do not directly modify the bootstrap LESS files, for example).
+
+## Credits
+
+Thanks to Jess Frazelle [@jfrazelle](https://github.com/jfrazelle) for clueing us into the awesome previews with [Netlify](https://www.netlify.com)!

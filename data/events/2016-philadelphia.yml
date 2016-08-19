@@ -34,7 +34,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: pivotal
     level: gold
   - id: victorops
-    level: gold
+    level: silver
+  - id: 2016-ns1
+    level: silver
   - id: omniti
     level: gold
   - id: capitalone
