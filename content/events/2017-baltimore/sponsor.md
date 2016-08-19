@@ -23,18 +23,24 @@ Please contact us at {{< email_organizers >}}.
 <tbody>
 <tr class="hed1">
 <td><strong>Packages</strong></td>
+<td><strong>Community</strong></td>
+<td><strong>Media</strong></td>
 <td><strong>Silver</strong></td>
 <td><strong>Gold</strong></td>
 <td><strong>Platinum</strong></td>
 </tr>
 <tr class="hed2">
 <td></td>
+<td><strong>$0 USD</strong></td>
+<td><strong>$0 USD</strong></td>
 <td><strong>$1,000 USD</strong></td>
 <td><strong>$3,000 USD</strong></td>
 <td><strong>$5,000 USD</strong></td>
 </tr>
 <tr>
-<td>2 included tickets</td>
+<td>1 included ticket</td>
+<td class="yes"> </td>
+<td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -44,15 +50,21 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
 </tr>
 <tr>
 <td>Logo on DevOpsDays Baltimore 2017 event website</td>
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
 </tr>
 <tr>
 <td>Logo on all email communication</td>
+<td class="no"> </td>
+<td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -61,16 +73,30 @@ Please contact us at {{< email_organizers >}}.
 <td>1 minute pitch to full audience (including streaming audience)</td>
 <td class="no"> </td>
 <td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>1 additional tickets (3 in total)</td>
+<td>1 additional ticket (2 in total)</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+</tr>
+<tr>
+<td>2 additional tickets (3 in total)</td>
+<td class="no"> </td>
+<td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
 <td class="no"> </td>
 </tr>
 <tr>
-<td>3 additional tickets (5 in total)</td>
+<td>4 additional tickets (5 in total)</td>
+<td class="no"> </td>
+<td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
@@ -78,11 +104,15 @@ Please contact us at {{< email_organizers >}}.
 <tr>
 <td>Shared table for swag</td>
 <td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
 <td class="yes"> </td>
 <td class="no"> </td>
 </tr>
 <tr>
 <td>Dedicated table in preferred location for swag</td>
+<td class="no"> </td>
+<td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
@@ -92,6 +122,39 @@ Please contact us at {{< email_organizers >}}.
 
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
+
+DevOps Days is not 'that kind of conference' and heavy marketing will probably
+work against you when trying to make a good impression on the attendees. Contact
+{{< email_organizers >}} for some ideas about how to make the most of
+your sponsorship.
+
+### Community - $0
+
+The community sponsorship is ideal for local meetups, co-working spaces, and
+other communities who support DevOps.  This sponsorship is free but we ask that
+you share information about DevOpsDays Baltimore with your members in order to
+become a Community Sponsor.
+
+* 1 ticket
+* 10% discount code to share with your members
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2017 event website
+* Please contact {{< email_organizers >}} for details about becoming a community
+sponsor.
+
+### Media - $0
+
+The media sponsorship is ideal for podcasts, blogs, news outlets, and other
+media who support DevOps.  This sponsorship is free but we ask that you share
+information about DevOpsDays Baltimore with your audience in order to become a
+Community Sponsor.
+
+* 1 ticket
+* 10% discount code to share with your audience
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2017 event website
+* Please contact {{< email_organizers >}} for details about becoming a media
+sponsor.
 
 ### Silver - $1,000
 
