@@ -28,8 +28,6 @@ Se você está sendo assediado, ao perceber que alguém está sendo assediado, o
 
 Os organizadores da Conferência podem ser identificados por crachás e camisas específicos. Os organizadores da conferência ficarão felizes em ajudar os participantes  a contatar a equipe de segurança do local ou agentes da lei local ou ajudar aqueles que experimentam o assédio para se sentirem seguros durante a conferência. Nós valorizamos a sua participação.
 
-We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
-
 Esperamos que os participantes permaneçam aderentes ao código de conduta em todos os locais de conferência e eventos sociais relacionados com a conferência.
 
 ## CÓDIGO DE CONDUTA
