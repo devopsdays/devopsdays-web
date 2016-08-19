@@ -84,5 +84,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: media
     label: Media
-  # - id: community
-  #   label: Community
+  - id: community
+    label: Community
