@@ -11,9 +11,9 @@
       {{ $.Scratch.Add "events" .name }}
       {{ $.Scratch.Add "events" "/welcome' class = 'cfp'>" }}
       {{ $.Scratch.Add "events" .city }}
-      {{ $.Scratch.Add "events" "</a></td><td>&nbsp;&nbsp;" }}
+      {{ $.Scratch.Add "events" "</a></td><td data-dateformat='YYYY-MM-DD'>&nbsp;&nbsp;" }}
       {{ $.Scratch.Add "events" .cfp_date_end}}
-      {{ $.Scratch.Add "events" "</td><td>&nbsp;&nbsp;&nbsp;&nbsp;" }}
+      {{ $.Scratch.Add "events" "</td><td data-dateformat='YYYY-MM-DD'>&nbsp;&nbsp;&nbsp;&nbsp;" }}
       {{ $.Scratch.Add "events" .startdate}}
       {{ $.Scratch.Add "events" "</td></tr>" }}
     {{ end }} {{/* end: if  and ( eq .status "current") ( .startdate ) */}}
