@@ -40,9 +40,17 @@ proposal_email: "proposals-dallas-2016@devopsdays.org" # Put your proposal email
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: chef
     level: platinum
+  - id: appdynamics
+    level: platinum
   - id: pivotal
     level: gold
   - id: deis
+    level: gold
+  - id: 2016-ns1
+    level: gold
+  - id: venafi
+    level: gold
+  - id: microsoft
     level: gold
   - id: xebialabs
     level: gold
@@ -53,21 +61,21 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: ca_tech
     level: gold
   - id: upengroup
-    level: gold  
+    level: gold
   - id: rightstar
     level: silver
   - id: sumologic
-    level: gold    
+    level: gold
   - id: praecipio
     level: gold
   - id: victorops
     level: silver
   - id: cumulus
-    level: silver    
+    level: silver
   - id: oreilly
     level: media
   - id: arresteddevops
-    level: media    
+    level: media
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
@@ -104,4 +112,4 @@ speakers:
 
 speaker_levels:
   - id: talk
-    label: Talk    
+    label: Talk
