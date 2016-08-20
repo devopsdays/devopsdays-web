@@ -1,4 +1,4 @@
-<!-- The following blocks of comments explains how this list is generated with Hugo.
+ <!-- The following blocks of comments explains how this list is generated with Hugo.
 If you read this post generation, it will make no sense. see pre generated sources -->
 
 <!-- Scan through a range of years and look in data/events for events during these years.
@@ -25,7 +25,7 @@ Chomping .year has the nice effect of turning an int into string. -->
 <div class = "row">
   <!-- Now scan through all the years that were marked as active in order to print the headline -->
   {{ range ($.Scratch.GetSortedMapValues "active_years") }}
-    <div class = "col-md-3">
+    <div class = "col-md-4">
       <strong>{{ . }}</strong>
       <br/>
         <!-- Finally, scan throug the scratch with the ID of that year and print all the events sorted by startdate
