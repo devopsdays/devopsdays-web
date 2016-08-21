@@ -10,12 +10,7 @@
 {{ $path := split $.Source.File.Path "/" }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{ $citydisplay := $e.displayname }}
-{{ if $e.displayname }}
-  {{ $.Scratch.Add "citydisplay" $e.displayname }}
-{{ else }}
-  {{ $.Scratch.Add "citydisplay" $e.city }}
-{{ end }}
+{{ $.Scratch.Add "citydisplay" $e.city }}
 
 {{/* end site data query */}}
 
