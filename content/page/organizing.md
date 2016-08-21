@@ -7,12 +7,6 @@ title = "Devopsdays - Organizing Guide"
 aliases = ["/pages/organizing/"]
 +++
 
-**This guide can be its most useful if you add your experiences. [Submit a PR with your suggestions!](https://github.com/devopsdays/devopsdays-web)**
-
----
-
-*table goes here*
-
 ---
 
 ## Introduction
@@ -30,26 +24,23 @@ In the devops spirit of collaboration, find people in your region that want to h
 
 - Talk to people at your local devops or related community meetups.
 - Tweet that you'd be interested in running one in your region. (Use the #devopsdays hashtag.)
-- Post your interest on the [devopsdays google group](https://groups.google.com/forum/#!forum/devopsdays) or local mailing lists
 - [Email the global core organizers](mailto:info@devopsdays.org) and we'll try to connect you to other people in your region
 
-You're going to want a few people from different organizations on your local organizing team, so you have a broader base of support and involvement from the community.
+You're going to need people from different organizations on your local organizing team, so you have a broader base of support and involvement from the community.
 
 ---
 
 ## Website, Email, and Slack
 
-When you have your initial team, [email the global core organizers](mailto:info@devopsdays.org) and we'll set up the @devopsdays.org mail aliases for your team. This will let you have a standard email for organizer contact and proposals.
+When you have your initial team, [email the global core organizers](mailto:info@devopsdays.org) and we'll schedule a kickoff meeting with you. After chatting, we'll set up the @devopsdays.org mail aliases for your team. This will let you have a standard email for organizer contact and proposals. We'll also invite you to the Slack team to you can meet other organizers and share ideas.
 
 We prefer the city name for the actual email and site. Wider regional terms are less preferable since someone in a nearby city may want to have a devopsdays in a following year. Fun nicknames require too much dereferencing of pointers and so are best kept for slogans and t-shirt designs.
 
-The other thing you'll want to do as soon as possible is get your event listed on the website by submitting a pull request to https://github.com/devopsdays/devopsdays-web. The most up-to-date instructions can always be found on that repo's [README](https://github.com/devopsdays/devopsdays-web/blob/master/README.md).
+One thing you'll want to do as soon as possible is get your event listed on the website by submitting a pull request to https://github.com/devopsdays/devopsdays-web. The most up-to-date instructions can always be found on that repo's [README](https://github.com/devopsdays/devopsdays-web/blob/master/README.md).
 
 It's fine if you just list the organizers, the city, and say "coming soon". You don't have to have the date & venue set or open registration & the CFP right away.
 
-The [devopsdays code of conduct](/conduct-template) is based on the one from the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) as well additions by Andrew Clay Shafer for [devopsdaysPGH 2014](/events/2014-pittsburgh/conduct/). You will need to have a code of conduct before your initial pull request will be merged.
-
-Once your pull request is merged, we will add you (if desired) to the Slack team for devopsdays organizers, where you can easily share ideas with other organizers from other cities.
+The [devopsdays code of conduct](/conduct) is based on the one from the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) as well additions by Andrew Clay Shafer for [devopsdaysPGH 2014](/events/2014-pittsburgh/conduct/). You will need to have a code of conduct before your initial pull request will be merged.
 
 ---
 
@@ -59,26 +50,26 @@ Every devopsdays event is different, but there are a few rules to keep in mind i
 
 - Inclusiveness and respect for differences are core devops values, and we invite you to help us make each devopsdays event a place that is welcoming and respectful to all participants. Your event will need to have a code of conduct.
 - These are community events, so your event must have an open call for proposals and accept registrations from the general public. Internal devops events focused on a specific organization or curated events with all speakers privately selected are wonderful and we encourage them, but they won't be listed as "devopsdays" events on this site.
-- These events are not for individual or corporate profit. If you have money left over, you can use it for your next event, to help other devopsdays events, or for [charity](/charity/). The global core team does not have any ability to accept your money, but neither should it be making its way into anyone's pockets.
+- These events are not for individual or corporate profit. If you have money left over, you can use it for your next event, to help other devopsdays events, or for [charity](/devops-gives-back/). The global core team does not have any ability to accept your money, but neither should it be making its way into anyone's pockets.
 - Sponsors are much appreciated for their financial assistance, and they are welcome to participate in devopsdays events. They are never given attendee contact info by a devopsdays event's organizers, nor are they allowed to purchase speaking slots for talks or ignites at a devopsdays.
 
 ---
 
 ## Handling Money
 
-Part of organizing the event is the handling of the money, which means official invoicing. This will be needed for:
+Part of organizing the event is handling of the local event's money. This will be needed for:
 
 - Invoicing sponsors and accepting their payments.
-- Accepting money from and sending official invoices to people that register
+- Accepting money from and (as needed) sending official invoices to people that register
 - Paying suppliers like the venue, catering, T-shirts, etc.
 
 You cannot announce a date until you know you have a way to handle money. Realizing too late that you cannot process money has led to rescheduled or canceled events in the past.
 
-The way many events have handled this is to find a local company that is willing to handle these logistics. In some countries, a local company is the only way to handle taxes.
+The way many events have handled this is to find a local company that is willing to handle these logistics. In some countries, a local company is the only way to handle taxes. Some events register a local not-for-profit entity; there is no such central entity.
 
 Depending on the size of the event, you might want to give them a Silver or Gold sponsorship in return. Make sure they understand they will need to generate invoices and accept/make payments with a fast turn-around.
 
-If a local company is not an option, we've worked with a few companies in the past that are willing to help you for a small fee in return.
+If a local company is not an option, we've worked with a few companies in the past that are willing to help you for a fee:
 
 - US Based: Laura from Conference Ops
 - EU Based: Bernd from Netways
@@ -96,7 +87,7 @@ Now that you have assembled your team, the next step is choosing a date. We usua
 - Avoid overlapping dates with other devopsdays, especially nearby. We want to spread the events out; think of it as loadbalancing. All devopsdays events with their dates scheduled will be shown on the front page of [devopsdays.org](/).
 - Avoid overlap in dates with other important local events: with other events happening at the same time, your attendance rate might be affected negatively
 - 'Piggyback' after/before other events: it's a great way to get started, and as people might have traveled already, they can be potentially be interested in a pre or post event conference
-- Take a look at the [devops conferences and events calendar](/events/calendar/) so as to avoid accidentally scheduling during a time it may be more challenging to get the speakers and sponsors you want.
+- Take a look at the [devops conferences site](http://devopsconferences.org/) so as to avoid accidentally scheduling during a time it may be more challenging to get the speakers and sponsors you want.
 - You cannot announce a date until you have two things: an agreement with a venue, and a way to handle money.
 - Look at a few two-day choices you can accept. When talking to a venue, you might find that they can accommodate you better during some parts of the week than others. Sometimes they may be fully booked a given week, but available the next.
 - Consider that if you schedule one or more day on a weekend, you are likely to see a significant drop-off of attendance on the weekend day(s). DevOps is part of people's work life, and the weekends are typically used for refreshing energy with family. We recommend choosing weekdays.
@@ -119,14 +110,15 @@ Expenses:
 - Venue for talks & open space discussions
 - Internet for attendees
 - Livestream/recording of talks
-- Catering for breakfast/coffee breaks/lunches
+- Catering for breakfast/coffee breaks/lunches (some venues require the use of their caterer)
 - Evening event
-- Insurance/taxes
 - T-shirts/other swag
 - Badges/lanyards
 - Signage
 - Speakers dinner
 - Speaker gifts (small token)
+- Insurance/taxes
+- Payment for accounting services
 
 ---
 
@@ -136,13 +128,13 @@ When you have some idea of when you want to run and how much you want to spend, 
 
 Venue space considerations:
 
-- A (big) room where everybody can sit comfortably and listen to the talks. This of course depends on the number of attendees you expect. We have done events with a minimum of 70 people - 400 people. Assess the numbers usually attending your best-attended local meetups; you might get 2-3x that.
+- A (big) room where everybody can sit comfortably and listen to the talks. This of course depends on the number of attendees you expect. Events have ranged from 70 to 700 people. Assess the numbers usually attending your best-attended local meetups; you might get 2-3x that.
 - A number of break-out rooms for the afternoon sessions:
  - it's nice to be able to put the chairs in a circle for better discussions
  - you can be creative by splitting the big room in smaller rooms but in practice, separate rooms are less noisy
  - we usually go for a few smaller (10-20) and few bigger (20-40) rooms
  - it's helpful if the rooms are close to one another, making it easier to move between open space rooms.
- - you can still use the big room for sessions too
+ - you can use the big room for open space too
 - Room to hang out: not everybody attends sessions, and some are more interested in the hallway track. If there is some room for the food or a quiet room that's a plus.
 - Sponsor space: Gold sponsors (at a minimum) get a table to have a presence. Make sure they have a nice spot at the event (typically close to the food or hangout space).
 
@@ -154,11 +146,11 @@ Aside from having enough space, there are other things to consider:
 - Does the venue have enough wifi/internet capacity, or can more be added? Attendees will likely expect it.
 - Can the video be streamed with enough capacity (if livestreaming is an option)?
 
-A final big space differentiator is the pricing: as the price of devopsdays ranges from free to pretty low, we can't afford to pay the big bucks there. We've gotten around this in the past by:
+A final big space differentiator is the pricing: as the price of devopsdays is typically relatively low, we look for affordable venue space:
 
 - looking for (free) innovation centers or educational venues (universities...)
 - finding local companies that can act as a host with their facilities
-finding a host sponsor that is willing to pay for a venue for you
+- finding a host sponsor that is willing to pay for a venue for you
 
 Don't overcommit on the number of people coming and don't do a pre-payment for the venue until you must. The same goes for food: it's always easier to add a few extra plates as opposed to having too much food ordered.
 
@@ -172,10 +164,9 @@ The devopsdays logo with the gears in the brain has become recognizable for the 
 
 Note different existing logos:
 
-- Silicon Valley 2016 - Bridges inside the gears in the brain
-- Seattle 2016 - Needle using the gears with a backdrop of mountains
-- Chicago 2016 - Simple whimsical inversion of gears in the brain
-- Minneapolis 2016 - A very different take, still using the gear
+- [Seattle 2016 - Needle using the gears with a backdrop of mountains](https://www.devopsdays.org/events/2016-seattle/logo.png)
+- [Chicago 2016 - A local take on the gears in the brain](https://www.devopsdays.org/events/2016-chicago/logo.png)
+- [Cape Town 2016 - The characteristic Table Mountain skyline, using the gears](https://www.devopsdays.org/events/2016-capetown/logo.png)
 
 A simple exercise to do with your organizers would be to ask for one word descriptions of your city and then review and vote on the list.
 
@@ -187,15 +178,11 @@ Once you have a time and place, you can announce your event to the world! It's g
 
 ### Website
 
-Update your data file for your event and [submit a pull request](https://github.com/devopsdays/devopsdays-web) to get your event listed on the front page!
+Update your data file for your event to add your start & end dates; this adds your event to the map on the front page!
 
 ### Twitter
 
-Tweet with the hashtag #devopsdays and if desired, set up a city-specific Twitter account such as @devopsdaysmsp. Your tweets will be included in the Twitter feed on devopsdays.org and we'll also retweet you.
-
-### Google group
-
-Announcements can be made on the official [devopsdays googlegroup](https://groups.google.com/forum/#!forum/devopsdays).
+Tweet with the hashtag #devopsdays and if desired, set up an event-specific Twitter account such as @devopsdaysmsp. If you PR your event Twitter handle onto your site, your tweets will be included in the Twitter feed on devopsdays.org.
 
 ---
 
@@ -218,7 +205,7 @@ On your local organizing team, it's best to discuss the following tasks. Of cour
 
 When you're ready to open your call for proposals, you'll want to include the date it opens, the date it closes, and the date by which people will be informed of your decisions. People will usually need at least 4-6 weeks to arrange for travel or time off, and you'll want your call to be open for at least a month, and you'll want at least 2 weeks to consider proposals and fill in any gaps. This means that you should open your CFP as soon as possible, and close it at least 6-8 weeks before your event.
 
-Set an official theme if one beyond "devops" is desired. Within the context of this theme (but other proposals can work too) we look for:
+Set an official theme if one beyond "devops" is desired. Within the context of this theme (but other proposals can work too):
 
 - **no speaker spots can be bought by sponsors: not ever - period.**
 - encourage new content: if the content has already been presented/published online we will consider it but it's less attractive. We want to stimulate the creation of new content as much as we can, as part of the goal is to record and spread the ideas from these sessions
@@ -228,36 +215,29 @@ Set an official theme if one beyond "devops" is desired. Within the context of t
 - shy away from specific technology/product talks: always try to elevate it to the conceptual part
 balance between technical and cultural content: for specific tools talk, there are open spaces not the main conference talks
 
-We usually have 4 conference slots/day + ignite talks. Open space sessions are scheduled during the conference, not ahead of time
+Events usually have 4 30-min talks per day + ignite talks. Open space sessions are scheduled during the conference, not ahead of time.
 
-For people to respond to the call for proposals we create a specific address (proposals-yourlocation-year@devopsdays.org). Also proposals will be published on the website, both for inspiration and commenting by others. We encourage you to remove names when posting proposals that aren't yet accepted.
+For people to respond to the call for proposals we create a specific address (proposals-yourlocation-year@devopsdays.org). You can also use a third-party CFP tool.
 
 Keep in mind that under-represented people in tech are much less likely to respond to your CFP. If you would like to encourage diverse viewpoints from voices other than those you hear the most often, you will need to reach out into those communities and encourage participation.
 
 Talk selection doesn't have to be finished when you announce a schedule; it's ok to leave to space until the end. Still, we found that a finished schedule helps for attendees to make the case for them to attend. Remember that announcing only a few speakers can lead to unwarranted assumptions about your demographics.
 
-If people qualify as a speaker (either talk or ignite):
+Don't be surprised if proposals don't flow in quickly at first. People usually wait a bit before sending them in and need some extra calls. It's good to have a backup plan and contact individual speakers as well. You're not required to create your schedule solely from responses to your CFP. You should also provide speaker support according to your budget; at a minimum, all speakers should receive a free event ticket.
 
-- they get a free ticket to the event
-- we don't do speaker-fees, sorry
-- we ask speakers to stay for both days, not just for the talk
-- travel cost assistance is unlikely except for in special circumstances at your team's discretion
-
-Don't be surprised if proposals don't flow in quickly at first. People usually wait a bit before sending them in and need some extra calls. It's good to have a backup plan and contact individual speakers as well. You're not required to create your schedule solely from responses to your CFP.
-
-It works best if you dedicate a person/pair to respond to proposals/speakers and handling communication. This is best for both ignite and conference talks. While your local team is going to select your event's talks, the core organizers may weigh in to help you make a more balanced schedule having less overlap with other devopsdays.
+It works best if you dedicate a person/pair to respond to proposals/speakers and handle communication. This is best for both ignite and conference talks. While your local team is going to select your event's talks, the core organizers may weigh in to help you make a more balanced schedule having less overlap with other devopsdays.
 
 ---
 
 ## Sponsorship packages
 
-Sponsor packages are decided upon by the local organizing team for a city. The global core team does not offer sponsor packages, so any sponsors will work directly with the devopsdays event(s) they'd like to sponsor. You can use the examples in the template to help you make your decisions. Here are some typical offerings:
+Overall [guidelines for sponsorship](http://www.devopsdays.org/sponsor/) are available. Sponsor packages are decided upon by the local organizing team for a city. The global core team does not offer sponsor packages, so any sponsors will work directly with the devopsdays event(s) they'd like to sponsor. You can use the examples in the template to help you make your decisions. Here are some typical offerings:
 
 - Host (cost of venue): if a company sponsors the venue/food they will be acknowledged as a Host sponsor. Their logo will be directly visible on the main event page. They also have the opportunity to do a pre/post event meetup that will get promoted. And of course they get the same benefits as Gold and Silver sponsors
 - Gold (around 5000 Euro/USD): 6 included tickets + a 'promo' spot during talk intermissions + the ability to have a simple table/sponsor presence at the venue.
 - Silver (around 3000 Euro/USD): 4 included tickets, sometimes half a table depending on the local event's choices, sometimes just a single shared swag table.
 - Bronze (around 1000 Euro/USD): 2 included tickets, sometimes can leave stickers/flyers/etc in public spaces
-- Media Sponsor: get logo on the site and acknowledgement on social media. Used for media outlets and other conferences that are interested in cross-promotion with you. Sometimes they'll provide giveaways; usually you will not ask them to provide cash.
+- Community Sponsor: get logo on the site and acknowledgement on social media. Used for media outlets and other conferences that are interested in cross-promotion with you. Sometimes they'll provide giveaways; usually you will not ask them to provide cash.
 
 We want to avoid the traditional high-priced model for sponsors. We believe that the more companies that sponsor, the better: it amplifies the ideas and shows that many companies subscribe to the devops idea.
 
@@ -265,15 +245,14 @@ We believe the pricing is low compared to the value sponsors get compared to wha
 
 Other offerings might be:
 
-- Companies sponsoring travel expenses of speakers
-- A Lanyard sponsorship
-- A drinkup sponsor
-- A speakers dinner sponsor
+- A lanyard sponsor
+- An evening event sponsor
+- A lunch or breaks sponsor
 
 As a reminder:
 
-- we do NOT offer speaker slots in return for sponsorship, and we want to maintain a standard policy on the pricing.
-- we do NOT ever sell contact details of attendees. you can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
+- we do NOT offer speaker slots in return for sponsorship, and we want to maintain a standard policy on the pricing inside a given event.
+- we do NOT ever sell contact details of attendees. You can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
 
 ---
 
@@ -281,21 +260,21 @@ As a reminder:
 
 Sponsors pay the bills. You rely on them. So what can you do to find them and keep them satisfied?
 
-- post the event on the devopsdays google group. We've informed previous sponsors to subscribe themselves to get information on new events.
 - post on Twitter and other social media
 - find local meetups/companies that can help you
 - if you're looking for a contact of a specific company that sponsored before, ping the devopsdays core organizers to see if they can help.
+- talk to the other organizers on Slack - many of them work at sponsors!
 - write a blog on the website to promote your event.
 
 Sponsors will usually ask you the following; best to have this information ready.
 
 - Projected number of attendees
 - Industries/Companies represented (share only in aggregate)
-- What they get with what level of sponsorship (refer to the sponsor page)
-- If they can buy a speaker spot (NO, but they can submit a talk, ignite or openspace topic)
-- If you provide a badge-scanning mechanism (no, we don't go that route)
+- What they get with what level of sponsorship (refer them to your sponsor page)
+- If they can buy a speaker spot (NO, but they can submit a talk, ignite or open space topic)
+- If you provide a badge-scanning mechanism (no)
 - If they will have electricity & network at the venue
-- If they can get a monitor (let them bring their own)
+- If they can get a monitor (let them bring their own or rent one themselves)
 - Where to ship their stuff and pick it up (don't take responsibility and let them handle that directly with venue)
 - What size of table they have? Find out from the venue and say it has to fit behind the one table
 - Where their table will be located (produce a map and let them choose in the order they signed up)
@@ -307,16 +286,18 @@ When they sponsor they need to supply:
 - a logo for the website
 - a URL to link it to
 - an email address of a contact you can reach
+- a Twitter handle for you to thank (optionally)
 - the invoice details (including VAT in Europe)
 
 In return you'll :
 
 - put the logo online
 - link it on the website
-- send the official invoice
+- send the official invoice (as applicable)
 - once payment has been received, provide the registration discount code
 
-On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts are traveling from event to event, you'll have to follow up with them a bit so they sign up their crew in time for your badge printing. Make sure you make the invoices "due on receipt" so sponsors don't wait months to pay you. Make sure they sponsor directly by check or by paypal; do not make it a special ticket type in Eventbrite, or you'll have to wait for Eventbrite to disperse funds after your event.
+On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts are traveling from event to event, you'll have to follow up with them a bit so they sign up their crew in time for your badge printing. Make sure you make the invoices "due on receipt" or provide Paypal links so sponsors don't wait months to pay you.
+
 
 ---
 
@@ -356,6 +337,7 @@ To encourage people to register early it's advised to offer discounted **early-b
 ## Setting up registration
 
 Once pricing has been decided you're ready to set up registration. We've had good experiences with [Eventbrite](http://www.eventbrite.com) integrated with [PayPal](http://paypal.com) payments. The paypal account for payment needs to be linked directly to the company that does the invoicing.
+(Note: if using Eventbrite, use Paypal, not "Eventbrite payment processing", or you'll have to wait for Eventbrite to disperse funds after your event.)
 
 The core organizers will not run registration for you, but we can suggest things that will be useful to you in your registration process.
 
@@ -364,13 +346,12 @@ Specifically on eventbrite we usually:
 - ask for employer name (optional) if people want it printed on their badge
 - ask for Twitter handle (optional) to help attendees connect with one another
 - ask for T-shirt sizes (make sure you offer more than S-M-L-XL "unisex")
-- ask if they require an invoice; if yes ask more details like VAT number if needed
-- ask if they are interested in attending the evening event on the first night
+- (in Europe) ask if they require an invoice; if yes ask more details like VAT number if needed
+- ask if they are interested in attending the evening event on the first night (optionally)
 - disable the facebook integration
-- some events choose to allow people to see who is coming (name, company - not email!)
-- set up a sponsor/helper ticket which has a high price ($9999)
-- create discount codes for sponsors/helpers/organizers and have them select the special ticket so you can keep track of regular attendees and sponsors/helpers/speakers free tickets.
-- the main reason is that when the event is full, you still might want to register the sponsor/helper/speaker people.
+- don't allow people to see who is coming
+- set up hidden ticket types for sponsors, organizers, speakers, etc
+- create access codes for hidden ticket types
 
 *Attendee email or direct-contact information should never be visible on the website or given out to vendors.* We value privacy and anti-spam a lot!
 
@@ -413,7 +394,7 @@ A few words of advice:
 
 Printing shirts is entirely optional. Some events choose to donate to charity instead, while others go with a different kind of swag. If you decide to do shirts, bear in mind that at registration time, attendees can help you know what their body shapes and sizes mean for their preferences. Ask! Do not just guess, or you will find you've inadvertently made some attendees feel excluded.
 
-While some shirt styles only go to 2XL, there will be attendees who (given the option) will choose 3XL or 4XL. Women will sometimes be happier with a fitted shirt (which is not the same as a "girl" shirt - those are typically a "junior" size). Avoid making your extended sizes and your fitted shirts significantly different from the "main" shirt in color or design.
+While some shirt styles only go to 2XL, there will be attendees who (given the option) will choose 3XL, 4XL, or 5XL. Women will sometimes be happier with a fitted shirt (which is not the same as a "girl" shirt - those are typically a "junior" size). Avoid making your extended sizes and your fitted shirts significantly different from the "S-2XL unisex" shirt in color or design.
 
 Keep in mind that you want your design to be appealing on a wide range of humans, not just those who happen to have smaller torsos without many curves. If you want soft, comfortable shirts that can fit many people, consider something like a tri-blend instead of a 100% cotton shirt.
 
@@ -457,15 +438,15 @@ You will want some members of your local organizing team to be tasked with...
 
 Most devopsdays host a social gathering the evening after the first day of the two-day event. This is a great place for attendees to get to know one another better. There's some sort of food and drink, but usually a full dinner is not provided. Having fun activities to participate in (bowling, trivia, other games, etc) is recommended. While alcohol is enjoyable, it should not be the only activity, and it's important to remember the needs of attendees who aren't choosing to drink alcohol.
 
-Usually the evening event will be at a different location than the venue for the talks. It's a good idea to make it within walking distance or provide transportation if possible.
+Often the evening event will be at a different location than the venue for the talks. It's a good idea to make it within walking distance or provide transportation if possible. Running it at the same venue can lead to higher attendance, especially if you provide some content such as the Ignite talks.
 
 ---
 
 ## Running registration
 
-You are going to want a place where people can check in and get their badges when they arrive. They may also pick up T-shirts there. If you use Eventbrite, there is an app which makes check-in much easier than using paper. Sort the badges ahead of time alphabetical by last, then first name. If you separate out the sponsor ones, keep in mind that some people might not realize if they fell into the 2, 4, or 6 "sponsor" tickets or a "regular attendee" ticket according to how their company registered them.
+You are going to want a place where people can check in and get their badges when they arrive. They may also pick up T-shirts there. If you use Eventbrite, there is an app which makes check-in much easier than using paper, but it may not be necessary to do more than just give the badges out (as you can see which ones are left at the end.) Sort the badges ahead of time alphabetical by last, then first name. If you separate out the sponsor ones, keep in mind that some people might not realize if they fell into the "sponsor" tickets or a "regular attendee" ticket according to how their company registered them.
 
-Sort shirts by style and size, and then let attendees pick out their own. If you built in enough margin of error, this won't cause any problems and will be the most efficient way to deal with it.
+Sort shirts by style and size, and then let attendees just tell you which size they wanted. If you built in enough margin of error, this won't cause any problems and will be the most efficient way to deal with it, rather than looking up what they ordered.
 
 You may want to staff the registration desk at all times if you want to be able to help attendees with their questions. As the conference organizers may want to attend talks, it's wise to call in favors from friends and family who aren't interested in the subject matter of the talks and won't mind missing them all. Make sure any such staff have a way of getting ahold of the organizer on duty for any questions they can't answer on their own.
 
@@ -473,7 +454,7 @@ You may want to staff the registration desk at all times if you want to be able 
 
 ## Video - recording and streaming
 
-Whether or not you're able to livestream, it's important to record all the talks. This is invaluable for your speakers, and it's great for the community. Your audiovisual company should be able to provide a camera or cameras and record the feed off the board into a computer.
+Whether or not you're able to livestream, it's important to record all the talks. This is invaluable for your speakers, and it's great for the community. Your audiovisual company should be able to provide a camera or cameras and record the feed off the board into a computer. If you have no budget for recording talks, a smartphone is better than nothing.
 
 If you're going to livestream, rehearse ahead of time, and then assign at least one person to run it during the event.
 
@@ -498,15 +479,14 @@ If you're going to livestream, rehearse ahead of time, and then assign at least 
 
 Running Ignites can be a challenge: people tend to submit them last minute, or they didn't understand the format too well. Here are few tips on making this process run more smoothly:
 
-- Ask the Ignite presenters to send the slides ahead of time
+- Require the Ignite presenters to send the slides ahead of time
 - Inform the Ignite presenters that there are no presenter notes during their talks
-- Animations (gifs or slide transitions) and videos do not work due to the conversion process
- - An option is to use a Dropbox shared directory
-- Be prepared to run around with a USB stick to get the 'on the spot' deciders.
+- Animations (gifs or slide transitions) and videos may not work due to the conversion process
 - PDF is the easiest format to collect all presentations
+ - An option is to use a Dropbox shared directory
 - You can run either :
  - `impressive -a 15` [http://impressive.sourceforge.net/](http://impressive.sourceforge.net/)
-- Adobe Acrobat Reader in [auto-advance mode](http://malektips.com/adobe_reader_7_0019.html); ask presenters to add empty slide to the end as Reader doesn't exit after last slide
+ - Adobe Acrobat Reader in [auto-advance mode](http://malektips.com/adobe_reader_7_0019.html); ask presenters to add empty slide to the end as Reader doesn't exit after last slide
 - Don't let them run on their own laptops
 - Use a dedicated laptop (avoid any popups etc...)
 - Mention again on the day itself.
@@ -520,7 +500,7 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
 
 ---
 
-## Running Openspaces
+## Running Open Space
 
 There is a wealth of detail on the [Open Space format page](/open-space-format/). Consider both a physical schedule grid and an easily-updated shared spreadsheet you can link from your event page. Also consider posting the open space choices for a specific room outside that room.
 
@@ -529,14 +509,10 @@ There is a wealth of detail on the [Open Space format page](/open-space-format/)
 ## Website updates
 
 - The core organizers want the devopsdays website to be a central reference for all content produced during your event.
- -Add links to each of your speakers' slides on your program page. (You may have to remind some of them a couple of times!)
- - Submit the videos to the official devopsdays video archive, then link them on your program page. (Talk to the core team for access.)
+ - Embed links to each of your speakers' slides on your program page. (Ask them to post slides on slideshare, speakerdeck, etc.)
+ - Upload the videos to youtube or your video site of choice, then embed them on your program page.
 - Surveying your attendees and blogging about the results is optional, but strongly recommended.
 
 ---
 
-## How to pay us back
-
-- The core team can be involved in the selection process of your talks if we ask to be.
-- If any global core organizers are able to attend your event, offer them a free courtesy ticket.
-- Consider giving back to the community. See our [charity page](/charity) to get some ideas.
+If you have further questions, chat with the other organizers on Slack, and have fun! It's going to be great!
