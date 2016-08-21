@@ -2,6 +2,7 @@
 date = "2016-08-21T15:00:22-04:00"
 title = "David Blank-Edelman"
 type = "talk"
+aliases = ["/events/2016-boston/program/david-blank-edelman/"]
 
 +++
 
