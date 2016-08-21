@@ -9,12 +9,14 @@ Chomping .year has the nice effect of turning an int into string. -->
 {{ range seq 2009 2020 }}
   {{ $r_year := . }}
   {{ range $.Site.Data.events }}
+  {{ if .startdate }}
   {{ $my_year := string ((dateFormat "2006" .startdate ))}}
     {{ if and (eq $my_year (string $r_year)) ( lt (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")))  }}
       {{ $.Scratch.SetInMap "active_years" (print (chomp $my_year)) (print (chomp $my_year)) }}
       {{ $.Scratch.SetInMap (print (chomp $my_year)) .startdate (.name) }}
     {{ end }}
   {{ end }}
+{{ end }}
 {{ end }}
 
 <div class = "row">
