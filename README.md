@@ -50,6 +50,7 @@ There are a few simple guidelines regarding sponsor logo files and formatting:
 All logos will be constrained, via markup, to 100px square; combined with the image file dimensions, this allows for high-density display (ex. Retina) compatibility.
 
 Note that a border will be drawn around the logo using CSS, so the logo shouldn't have one already.
+There is a small helper script "mk_sponsor_logo.sh" in the `/static/img/sponsors` directoy which will convert a logo centered into the right dimensions.
 
 ## Speakers & Program
 
