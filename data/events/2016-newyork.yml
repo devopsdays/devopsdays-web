@@ -15,8 +15,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: welcome
   - name: contact
   - name: location
+  - name: speakers 
 #  - name: program
-  - name: propose
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-new-york-2016-tickets-25887868311 # The url setting is optional, and only if you want the navigation to link off-site
   - name: conduct
@@ -42,6 +42,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: pivotal
     level: gold
   - id: victorops
+    level: silver
+  - id: ns1
     level: silver
   - id: chef
     level: bronze
