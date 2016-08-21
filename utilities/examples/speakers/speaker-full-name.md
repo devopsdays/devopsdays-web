@@ -1,5 +1,6 @@
 +++
 date = "2000-01-01T01:01:01-06:00"
+linktitle = "SPEAKERSLUG"
 title = "SPEAKERNAME"
 type = "talk"
 
