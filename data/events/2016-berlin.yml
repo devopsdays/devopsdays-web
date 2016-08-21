@@ -44,14 +44,15 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Norman Messtorff"
     twitter: "nmesstorff"
-    employer: "EPost"
+    employer: "Deutsche Post E-POST"
   - name: "Ralph Angenendt"
     twitter: "lestighaniker"
     employer: "ImmobilienScout24"
   - name: "Ravi Yadav"
     twitter: "ravi_yadav_de"
     employer: "ImmobilienScout24"
-  - name: "Sabrina Messvoi"
+  - name: "Sabrina Voigt"
+    twitter: "sakiddo"
 
 organizer_email: "organizers-berlin-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-berlin-2016@devopsdays.org" # Put your proposal email address here
@@ -61,6 +62,12 @@ sponsors_accepted: "yes"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: 2016-norisnetwork
     level: eveningevent
+  - id: chef
+    level: platinum
+  - id: 2016-idealo
+    level: platinum
+  - id: netways
+    level: partner
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent
@@ -71,6 +78,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
+  - id: partner
+    label: Partner
 
 speakers:
 
