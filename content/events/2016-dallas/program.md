@@ -170,8 +170,7 @@ type = "event"
         <time>17:00-19:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Happy Hour Event</strong>
-        sponsored by [Chef](http://chef.io)
+        <strong>Happy Hour Event</strong> sponsored by [Chef](http://chef.io)
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
