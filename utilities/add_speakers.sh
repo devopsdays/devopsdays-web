@@ -62,6 +62,7 @@ cp examples/speakers/speaker-full-name.jpg ../static/events/$event_slug/speakers
 cp examples/speakers/speaker-full-name.md ../content/events/$event_slug/program/$speaker_slug.md
 
 sed -i '' "s/SPEAKERNAME/$speakername/" ../content/events/$event_slug/program/$speaker_slug.md
+sed -i '' "s/SPEAKERSLUG/$speaker_slug/" ../content/events/$event_slug/program/$speaker_slug.md
 sed -i '' "s/TITLE/$title/" ../content/events/$event_slug/program/$speaker_slug.md
 sed -i '' "s/ABSTRACT/$abstract/" ../content/events/$event_slug/program/$speaker_slug.md
 
