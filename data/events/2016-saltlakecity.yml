@@ -43,7 +43,8 @@ team_members:
     employer: "EMC"
   - name: "Thomas Cook"
   - name: "Mike Duffy"
-  - name: "Alex Lutz"
+    twitter: "michaeljduffy"
+    employer: "Quint Wellington Redwood"
 
 organizer_email: "organizers-saltlakecity-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-saltlakecity-2016@devopsdays.org" # Put your proposal email address here
