@@ -23,14 +23,14 @@ Once you have created a logo graphic, you will want to add it to the following d
 
 ### Special characters in city names
 
-If your city has either spaces, or accented characters, you will want to add the optional parameter `displayname` to your `yyyy-city.yml`. The `name` and `city` parameters need to be named with "URL-friendly" (i.e., ASCII, no spaces), but `displayname` can have whatever you want in it.
+If your city name contains spaces or accented characters, the `name` parameter need to be "URL-friendly" (i.e., ASCII, no spaces), but `city` can have whatever you want in it.
 
-For example, for Zürich, your event directory would be `2016-zurich`, and the data file would have the following elements:
+For example, for São Paulo, your event directory would be `2016-sao-paulo`, and the data file would have the following elements:
+
 ```
-name: "2015-zurich"
-year: 2015
-city: "Zurich"
-displayname: "Zürich"
+name: "2016-sao-paulo"
+year: 2016
+city: "São Paulo"
 ```
 
 ## Adding sponsors
