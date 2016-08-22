@@ -28,11 +28,7 @@ that point will need to be changed.
                               {{ if .startdate }}
                               {{ if and (ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02"))) (lt (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" "2017-01-01" )) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ if .displayname }}
-                                  {{ .displayname }}
-                                {{ else }}
                                   {{ .city }}
-                                {{ end }}
                                 {{ dateFormat "Jan 2, 2006" .startdate }}
                                 -
                                 {{ dateFormat "Jan 2, 2006" .enddate }}
@@ -46,11 +42,7 @@ that point will need to be changed.
                               {{ if .startdate }}
                               {{ if ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" "2017-01-01" ) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ if .displayname }}
-                                  {{ .displayname }}
-                                {{ else }}
                                   {{ .city }}
-                                {{ end }}
                                 {{ dateFormat "Jan 2, 2006" .startdate }}
                                 -
                                 {{ dateFormat "Jan 2, 2006" .enddate }}
@@ -64,11 +56,7 @@ that point will need to be changed.
                             {{ range sort $.Site.Data.events "city" }}
                               {{ if not .startdate }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ if .displayname }}
-                                  {{ .displayname }}
-                                {{ else }}
                                   {{ .city }}
-                                {{ end }}
                               </a><br />
                               {{ end }}
                             {{ end }}
