@@ -5,11 +5,7 @@
       {{ $.Scratch.Add "events" "<a href = '/events/" }}
       {{ $.Scratch.Add "events" .name }}
       {{ $.Scratch.Add "events" "/welcome' class = 'upcoming-headline'>" }}
-      {{ if .displayname }}
-        {{ $.Scratch.Add "events" .displayname }}
-      {{ else }}
         {{ $.Scratch.Add "events" .city }}
-      {{ end }}
       {{ $.Scratch.Add "events" "</a> - " }}
     {{ end }}
   {{ end }}
