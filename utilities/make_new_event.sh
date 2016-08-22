@@ -6,17 +6,17 @@ set -e
 read -p "Enter your event year (default: $(date +"%Y")): " year
 [ -z "${year}" ] && year='2016'
 
-# We don't use accent marks or spaces or other special characters in city names
+# We urlize the city slug
 read -p "Enter your city name: " city
-cityabbr=$(echo $city | tr -dc '[:alpha:]' | tr 'āáǎàēéěèīíǐìōóǒòöūúǔùǖǘǚǜüĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛÜ' 'aaaaeeeeiiiiooooouuuuuuuuuAAAAEEEEIIIIOOOOUUUUUUUUU' | tr '[:upper:]' '[:lower:]')
+city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
 read -p "Enter your devopsdays event twitter handle (defaults to devopsdays): " twitter
 [ -z "${twitter}" ] && twitter='devopsdays'
 # remove @ if they added it
-twitter=$(echo $twitter | tr -dc '[:alnum:]')
+twitter=$(echo $twitter | sed 's/@//')
 
 # We use the term event_slug in the hugo files too
-event_slug=$year-$cityabbr
+event_slug=$year-$city_slug
 
 
 cp yyyy-city.yml data/events/$event_slug.yml
@@ -24,7 +24,9 @@ sed -i '' "s/YYYY/$year/" data/events/$event_slug.yml
 sed -i '' "s/City/$city/" data/events/$event_slug.yml
 sed -i '' "s/yourlocation/$city/" data/events/$event_slug.yml
 sed -i '' "s/yyyy-city/$event_slug/" data/events/$event_slug.yml
-sed -i '' "s/city-year/$cityabbr-$year/" data/events/$event_slug.yml
+
+# this handles the email lists
+sed -i '' "s/city-year/$city_slug-$year/" data/events/$event_slug.yml
 
 cp -r content/events/sample-event content/events/$event_slug
 
