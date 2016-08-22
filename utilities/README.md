@@ -24,11 +24,13 @@ The sample datafile has some sponsor levels pre-populated; edit as desired. You 
 
 ### Creating a new sponsor
 
-1. Sponsors need a file in the data directory, as such: `data/sponsors/sponsorname.yml`.
+Use [create_sponsors.sh](create_sponsors.sh) to easily create new sponsors.
+
+1. Sponsors need a file in the data directory, as such: `data/sponsors/sponsorname.yml`. Before creating a new one, look to see if there is an old one, possibly with a date prepended. If it has the right URL and logo, you can use it.
 1. Put the images for your sponsors in the `static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `static/img/sponsors/sponsorname.png`.
 1. Add the new sponsor to your event's datafile with the appropriate level.
 
-See [make_sponsors.rb](make_sponsors.rb).
+See [make_sponsors.rb](make_sponsors.rb) as well.
 
 ### Updating a sponsor
 
