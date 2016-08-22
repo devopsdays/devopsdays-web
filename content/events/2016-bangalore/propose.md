@@ -10,7 +10,7 @@ aliases = ["/events/2016-bangalore"]
 
 > {{< cfp_dates >}}
 
-DevOpsDays India this year is scheduled for 5th and 6th of November’ 2016. We have CFP open till 4th September’ 2016 with Speakers having enough time to propose a talk.
+DevOpsDays India this year is scheduled for {{< event_start >}} - {{< event_end >}}. We have CFP open till 4th September’ 2016 with Speakers having enough time to propose a talk.
 
 **[Submit Your Talk Here](https://www.papercall.io/devopsdays-india-2016)**
 
