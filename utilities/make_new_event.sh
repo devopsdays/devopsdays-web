@@ -8,7 +8,7 @@ read -p "Enter your event year (default: $(date +"%Y")): " year
 
 # We urlize the city slug
 read -p "Enter your city name: " city
-city_slug=$(echo $city | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
+city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
 read -p "Enter your devopsdays event twitter handle (defaults to devopsdays): " twitter
 [ -z "${twitter}" ] && twitter='devopsdays'
