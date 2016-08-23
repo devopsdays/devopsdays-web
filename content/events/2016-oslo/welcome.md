@@ -6,13 +6,13 @@ aliases = ["/events/2016-oslo"]
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-<p>For the first time, DevOpsDays is coming to Oslo!</p>
-
-<!--<div style="text-align:center;"> -->
+<div style="text-align:center;">
+  <h2>{{< event_start >}} - {{< event_end >}}</h2>
+  <h1><a href="http://www.eventbrite.co.uk/e/devopsdays-oslo-2016-tickets-24508983028?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=24508983028" height=" 80px" alt="Register for DevOpsDays Oslo 2016" /></a></h1>
   {{< event_logo >}}
-<!--</div> -->
+</div>
+
+<p><strong>For the first time, DevOpsDays is coming to Oslo!</strong></p>
 
 <p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
 

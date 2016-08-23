@@ -20,11 +20,12 @@ location: "BNZ Harbour Quays, 60 Waterloo Quay, Wellington" # Defaults to city, 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdays-wellington # The url setting is optional, and only if you want the navigation to link off-site
+#  - name: propose
+#    url: https://www.papercall.io/devopsdays-wellington # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+#  - name: program
+  - name: registration
+    url: https://devopsdays-wellington-2016.lilregie.com/step1
   - name: sponsor
   - name: contact
   - name: conduct
@@ -32,10 +33,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
 - name: "Reuben Dunn"
+  twitter: "defsol"
 - name: "Nigel Charman"
 - name: "Peter Sellars"
 - name: "Will Robertson"
 - name: "Adarsh Jupudi"
+  twitter: "adarshnz"
 - name: "Aurynn Shaw"
 - name: "Ben Vidulich"
 - name: "Nigel Somerfield"
@@ -50,6 +53,12 @@ proposal_email: "proposals-newzealand-2016@devopsdays.org" # Put your proposal e
 sponsors:
   - id: 2016-bnz
     level: host
+  - id: puppet
+    level: gold
+  - id: 2016-assurity
+    level: gold
+  - id: 2016-apitalent
+    level: gold
 #  - id: arresteddevops
 #    level: community
 

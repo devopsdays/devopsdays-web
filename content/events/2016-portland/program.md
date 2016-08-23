@@ -4,6 +4,12 @@ title = "program"
 type = "event"
 
 +++
+<style>
+  .box {
+    padding: .75em;
+    margin-bottom: .5em;
+  }
+</style>
 
 <div class = "row">
   <div class = "col-md-12">
@@ -48,7 +54,7 @@ type = "event"
     <time>09:15-09:45</time>
   </div>
   <div class = "col-md-8 box">
-    No Ops (<em>Kelsey Hightower</em>)
+    [No Ops (<em>Kelsey Hightower</em>)](/events/2016-portland/program/kelsey-hightower/)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -66,7 +72,7 @@ type = "event"
     <time>09:55-10:25</time>
   </div>
   <div class = "col-md-8 box">
-    DevOps: A History (<em>Nell Shamrell-Harrington</em>)
+    [DevOps: A History (<em>Nell Shamrell-Harrington</em>)](/events/2016-portland/program/nell-shamrell-harrington)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -84,7 +90,7 @@ type = "event"
     <time>10:40-11:10</time>
   </div>
   <div class = "col-md-8 box">
-    DevOps vs. SRE: Fight! (wait, I mean learn!) (<em>David Blank-Edelman</em>)
+    [DevOps vs. SRE: Fight! (wait, I mean learn!) (<em>David Blank-Edelman</em>)](/events/2016-portland/program/david-blank-edelman)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -102,7 +108,7 @@ type = "event"
     <time>11:20-11:50</time>
   </div>
   <div class = "col-md-8 box">
-    Metrics, Gauges, Counters and Ratios: designing and implementing quality metrics (<em>Caskey Dickson</em>)
+    [Metrics, Gauges, Counters and Ratios: designing and implementing quality metrics (<em>Caskey Dickson</em>)](/events/2016-portland/program/caskey-dickson)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -131,10 +137,10 @@ type = "event"
   <div class = "col-md-8 box">
     <strong>Ignites</strong>
     <ul>
-      <li>McRouter: Over 100 billion Memcache GETs served (<em>Dan Young</em>)</li>
-      <li>Bots Not Cattle (<em>Josh Berkus</em>)</li>
-      <li>Docker Provides Convenience with Hidden Complexity - How Can We Cope? (<em>Matthew Barker</em>)</li>
-      <li>Being an introvert and at a conference, not as hellish as you think it is (<em>JJ Asghar</em>)</li>
+      <li>[McRouter: Over 100 billion Memcache GETs served (<em>Dan Young</em>)](/events/2016-portland/program/dan-young)</li>
+      <li>[Bots Not Cattle (<em>Josh Berkus</em>)](/events/2016-portland/program/josh-berkus)</li>
+      <li>[Docker Provides Convenience with Hidden Complexity - How Can We Cope? (<em>Matthew Barker</em>)](/events/2016-portland/program/matthew-barker)</li>
+      <li>[Being an introvert and at a conference, not as hellish as you think it is (<em>JJ Asghar</em>)](/events/2016-portland/program/jj-asghar)</li>
     </ul>
   </div>
 </div> <!-- end timeslot div -->
@@ -168,10 +174,19 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
+    <time>15:50-16:10</time>
+  </div>
+  <div class = "col-md-8 box">
+    Break
+  </div>
+</div> <!-- end timeslot div -->
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "col-md-2 col-md-offset-1">
     <time>16:10-16:40</time>
   </div>
   <div class = "col-md-8 box">
-    What we’re learning about burnout and how a DevOps culture can help (<em>Ken Mugrage</em>)
+    [What we’re learning about burnout and how a DevOps culture can help (<em>Ken Mugrage</em>)](/events/2016-portland/program/ken-mugrage)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -186,10 +201,10 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
-    <time>19:00-late</time>
+    <time>18:00-21:00</time>
   </div>
   <div class = "col-md-8 box">
-    Evening Event
+    Evening Event hosted by New Relic
   </div>
 </div> <!-- end timeslot div -->
 
@@ -223,7 +238,7 @@ type = "event"
     <time>09:15-09:45</time>
   </div>
   <div class = "col-md-8 box">
-    Everything is Terrible: Three Perspectives on Building, Configuring, and Securing Software (<em>Chris Barker, Adrien Thebo, Cody Herriges</em>)
+    [Everything is Terrible: Three Perspectives on Building, Configuring, and Securing Software (<em>Chris Barker, Adrien Thebo, Ben Hughes</em>)](/events/2016-portland/program/chris-barker)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -241,7 +256,7 @@ type = "event"
     <time>09:55-10:25</time>
   </div>
   <div class = "col-md-8 box">
-    Defending against CDD: Chaos-Driven Delivery (<em>Julia Wester</em>)
+    [Defending against CDD: Chaos-Driven Delivery (<em>Julia Wester</em>)](/events/2016-portland/program/julia-wester)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -259,7 +274,7 @@ type = "event"
     <time>10:40-11:10</time>
   </div>
   <div class = "col-md-8 box">
-    Why won't my DevOps team talk to my Security team? (<em>Ben Hughes</em>)
+    [Why won't my DevOps team talk to my Security team? (<em>Ben Hughes</em>)](/events/2016-portland/program/ben-hughes)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -277,7 +292,7 @@ type = "event"
     <time>11:20-11:50</time>
   </div>
   <div class = "col-md-8 box">
-    On-call developers: how we got here and what we need to do about it (<em>Stephen Boak</em>)
+    [Monitor the Unmeasureable (<em>Jennifer Davis</em>)](/events/2016-portland/program/jennifer-davis)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -306,10 +321,10 @@ type = "event"
   <div class = "col-md-8 box">
     <strong>Ignites</strong>
     <ul>
-      <li>DevOpsing Your Resume (<em>E Dunham</em>)</li>
-      <li>Carbon: PowerShell automation for Windows computers, websites, and services (<em>Aaron Jensen</em>)</li>
-      <li>Are you talking to me? (<em>Ben Burry</em>)</li>
-      <li>Stop doing Failure Mode Analysis and Start doing Checklists (<em>Eric Passmore</em>)</li>
+      <li>[DevOpsing Your Resume (<em>E Dunham</em>)](/events/2016-portland/program/e-dunham)</li>
+      <li>[Carbon: PowerShell automation for Windows computers, websites, and services (<em>Aaron Jensen</em>)](/events/2016-portland/program/aaron-jensen)</li>
+      <li>[Are you talking to me? (<em>Ben Burry</em>)](/events/2016-portland/program/ben-burry)</li>
+      <li>[Stop doing Failure Mode Analysis and Start doing Checklists (<em>Eric Passmore</em>)](/events/2016-portland/program/eric-passmore)</li>
     </ul>
   </div>
 </div> <!-- end timeslot div -->
@@ -343,10 +358,19 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
+    <time>15:50-16:10</time>
+  </div>
+  <div class = "col-md-8 box">
+    Break
+  </div>
+</div> <!-- end timeslot div -->
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "col-md-2 col-md-offset-1">
     <time>16:10-16:40</time>
   </div>
   <div class = "col-md-8 box">
-    Driving Technical Change (<em>Terrence Ryan</em>)
+    [Driving Technical Change (<em>Terrence Ryan</em>)](/events/2016-portland/program/terrence-ryan)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->

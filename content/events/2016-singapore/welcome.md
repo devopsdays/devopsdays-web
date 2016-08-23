@@ -9,7 +9,7 @@ aliases = ["/events/2016-singapore"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <div style="text-align:center; margin: 1.5em 0;">
   <img src="/events/2016-singapore/logo.png" width="80">
@@ -62,14 +62,14 @@ DevOpsDays are are organized frequently around the globe and this is the first c
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
