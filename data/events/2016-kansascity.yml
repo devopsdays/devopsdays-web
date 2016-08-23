@@ -53,6 +53,8 @@ sponsors:
     level: gold
   - id: servicenow
     level: gold
+  - id: 2016-techtowntraining
+    level: gold    
   - id: victorops
     level: silver
   - id: dstsystems
