@@ -1,7 +1,9 @@
 +++
 date = "2016-08-21T15:03:02-04:00"
-title = "Rakia Finley"
+title = "Marcus Finley & Rakia Finley"
+linktitle = "marcus-finley, rakia-finley"
 type = "talk"
+aliases = ["/events/2016-newyork/program/marcus-finley/", "/events/2016-newyork/program/rakia-finley/"]
 
 +++
 
