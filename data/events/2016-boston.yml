@@ -57,9 +57,13 @@ sponsors:
     level: platinum
   - id: 2016-cisco
     level: platinum
-  - id: 2016-newrelic
-    level: platinum
   - id: opsgenie
+    level: platinum
+  - id: pagerduty
+    level: platinum
+  - id: gcp
+    level: platinum
+  - id: atlassian
     level: platinum
   - id: datadog
     level: gold
@@ -73,10 +77,26 @@ sponsors:
     level: gold
   - id: xebialabs
     level: gold
+  - id: 2016-sumologic
+    level: gold
+  - id: 2016-onpage
+    level: gold
+  - id: 2016-athenahealth
+    level: gold
+  - id: 2016-logz
+    level: gold
   - id: 2016-brainshark
     level: silver
-#  - id: arresteddevops
-#    level: community
+  - id: 2016-vistaprint
+    level: silver
+  - id: 2016-constantcontact
+    level: silver
+  - id: 2016-spotify
+    level: silver
+  - id: 2016-ns1
+    level: silver
+  - id: 2016-microsoft
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum

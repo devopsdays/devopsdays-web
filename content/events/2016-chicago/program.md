@@ -1,5 +1,5 @@
 +++
-date = "2016-03-06T21:28:07-06:00"
+date = "2016-07-15T21:31:25-06:00"
 title = "program"
 type = "event"
 
@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/adam-jacob">Adam Jacob - The Evolution of Automation</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/joel-vasallo">Joel Vasallo - The Five Phases of DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/jeremy-edberg">Jeremy Edberg - How is the role of DevOps changing in a Serverless environment?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/angela-dugan">Angela Dugan - Fear and (Self) Loathing in IT – A Healthy Discussion on Imposter Syndrome</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -123,6 +123,13 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul>
+          <li><a href="/events/2016-chicago/program/alison-stanton">Alison Stanton - Ways DevOps Could Be More Accessible</a></li>
+          <li><a href="/events/2016-chicago/program/allie-richards">Allie Richards - What's that creature living in my cloud?</a></li>
+          <li><a href="/events/2016-chicago/program/jamesha-fisher">Jamesha Fisher - Out of the Basement: Demystifying Security and Operations</a></li>
+          <li><a href="/events/2016-chicago/program/rebecca-miller-webster">Rebecca Miller-Webster - Building resilience in our organizations, our teams, and ourselves</a></li>
+          <li><a href="/events/2016-chicago/program/jeff-smith">Jeff Smith - Dungeons and Dragons....and DevOps</a></li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -177,7 +184,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>18:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
@@ -220,7 +227,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/jill-jubinski">Jill Jubinski - DevOps'ing Recruitment</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +245,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/abejide-ayodele">Àbéjídé Àyodélé - Lessons learnt from "Shipping" Containers</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +263,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/nell-shamrell-harrington">Nell Shamrell-Harrington - Untangling Infrastructure Code Through Refactoring</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +281,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-chicago/program/brian-henerey">Brian Henerey - Leading an Enterprise to the Public Cloud</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -293,6 +300,13 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul>
+          <li><a href="/events/2016-chicago/program/ken-mugrage">Ken Mugrage - The answer to the “where do we start” question</a></li>
+          <li><a href="/events/2016-chicago/program/heidi-waterhouse">Heidi Waterhouse - Fear of the Bus</a></li>
+          <li><a href="/events/2016-chicago/program/morgan-rhodes">Morgan Rhodes - Presenting Nervously</a></li>
+          <li><a href="/events/2016-chicago/program/michael-stahnke">Michael Stahnke - What I’ve learned interviewing more than 150 people face to face</a></li>
+          <li><a href="/events/2016-chicago/program/joshua-zimmerman">Joshua Zimmerman - DevOps Deep Thoughts by Not Jack Handey</a></li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

@@ -47,6 +47,7 @@ team_members: # Name is the only required field for team members.
   - name: "Paul Remeis"
     employer: "In Time Tec"
 
+
 organizer_email: "organizers-boise-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-boise-2016@devopsdays.org" # Put your proposal email address here
 
@@ -62,6 +63,18 @@ sponsors:
   - id: thenewstack
     level: community
   - id: idahotechcouncil
+    level: community
+  - id: 2016-intimetec
+    level: gold
+  - id: hpe
+    level: diamond
+  - id: chef
+    level: gold
+  - id: openshift
+    level: silver
+  - id: jfrog
+    level: gold
+  - id: oreilly
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

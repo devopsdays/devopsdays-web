@@ -39,6 +39,12 @@ and more! Don’t think these hurdles are new or unique. You’ll get through th
 
 </p>
 
+<br>
+<br>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/17ZarQtZtPfNil" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jeffs78/devops-whats-buried-in-the-fine-print" title="DevOps: What&#x27;s Buried in the Fine Print" target="_blank">DevOps: What&#x27;s Buried in the Fine Print</a> </strong> from <strong><a href="//www.slideshare.net/jeffs78" target="_blank">Jeffery Smith</a></strong> </div>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZaY4vSh_-tY" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>
