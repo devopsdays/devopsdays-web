@@ -1,13 +1,14 @@
 <!--
-Future events (i.e. "current" status) should take place in the current or
-following year. E.g. We should have events in January next year appear when it
+Future events should take place in the current or following year.
+E.g. We should have events in January next year appear when it
 is December of the current year.
 
 This code creates 2-3 lists: One of current years and a list of current events
 for each year (namespaced with "future" to prevent collisions). Later we loop
 through these lists to generate our event info.
 
-^^^ This isn't how this works right now - this is a sloppy implementation which hard-codes it to the year 2016, but it works for now -@mattstratton
+There are currently two hard-coded references to 2017-01-01 which at or before
+that point will need to be changed.
 -->
 
 
@@ -22,23 +23,40 @@ through these lists to generate our event info.
                 <tr>
                     <div style="display:table-cell; vertical-align:top">
                         <div style="margin:1px;">
-                            <strong>2016</strong><br/>
+                            <strong>{{ $.Now.Format "2006" }}</strong><br/>
                             {{ range sort $.Site.Data.events "startdate" }}
-                              {{ if  and ( eq .status "current") ( .startdate ) }}
+                              {{ if .startdate }}
+                              {{ if and (ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02"))) (lt (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" "2017-01-01" )) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ .city }}
-                                {{ dateFormat "Jan 2" .startdate }}
+                                  {{ .city }}
+                                {{ dateFormat "Jan 2, 2006" .startdate }}
                                 -
-                                {{ dateFormat "Jan 2" .enddate }}
+                                {{ dateFormat "Jan 2, 2006" .enddate }}
                               </a><br />
                               {{ end }}
+                              {{ end }}
                             {{ end }}
-                            <br />
-                            <strong>2016, Dates TBD</strong><br/>
+
+                            <br/><strong>{{ .Now.AddDate 1 0 0 | dateFormat "2006" }}</strong><br/>
                             {{ range sort $.Site.Data.events "startdate" }}
-                              {{ if  and ( eq .status "current") ( not .startdate ) }}
+                              {{ if .startdate }}
+                              {{ if ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" "2017-01-01" ) }}
                               <a href = "/events/{{ .name }}/welcome">
-                                {{ .city }}
+                                  {{ .city }}
+                                {{ dateFormat "Jan 2, 2006" .startdate }}
+                                -
+                                {{ dateFormat "Jan 2, 2006" .enddate }}
+                              </a><br />
+                              {{ end }}
+                              {{ end }}
+                            {{ end }}
+
+                            <br />
+                            <strong>Future Dates TBD</strong><br/>
+                            {{ range sort $.Site.Data.events "city" }}
+                              {{ if not .startdate }}
+                              <a href = "/events/{{ .name }}/welcome">
+                                  {{ .city }}
                               </a><br />
                               {{ end }}
                             {{ end }}

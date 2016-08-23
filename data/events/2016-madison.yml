@@ -8,9 +8,9 @@ status: "current" # Options are "past" or "current". Use "current" for upcoming.
 startdate: 2016-11-02 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2016-11-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2016-07-13 # start accepting talk proposals.
+cfp_date_end: 2016-08-31 # close your call for proposals.
+cfp_date_announce: 2016-09-09 # inform proposers of status
 
 # Location
 #
@@ -20,11 +20,11 @@ location: "Overture Center for the Arts" # Defaults to city, but you can make it
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-#  - name: propose
+  - name: program
+  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct

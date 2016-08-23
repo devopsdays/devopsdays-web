@@ -15,7 +15,7 @@ aliases = ["/events/2016-dallas"]
 
 
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <div class = "row">
   <div class = "col-md-2">

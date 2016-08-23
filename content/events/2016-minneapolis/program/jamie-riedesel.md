@@ -29,6 +29,12 @@ We will cover what those components are and how they work together. What’s mor
 
 </p>
 
+<a href="https://twitter.com/SysAdm1138/status/755803149168939012">Tweet with key slides</a>
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3nXxYOt-VYc" frameborder="0" allowfullscreen></iframe>
+<br>
 
 
   </div>
