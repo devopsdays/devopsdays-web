@@ -23,13 +23,13 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 1</h3>
+        <h3>Friday, September 23rd</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>08:00-09:00</time>
+        <time>9:00-10:00</time>
       </div>
       <div class = "col-md-6 box">
         Registration, Breakfast, and Sponsor Booths Open
@@ -38,7 +38,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>10:00-10:15</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -47,16 +47,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>10:15-10:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-newyork/program/tim-jarrett/">Tim Jarett  Beyond Testing: Application Security in the Age of DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
+        <time>10:50-11:20</time>
       </div>
       <div class = "col-md-6 box">
         Sponsors
