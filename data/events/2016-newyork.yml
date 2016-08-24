@@ -24,7 +24,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Katherine Daniels"
+  - name: "Rachel King"
   - name: "Mike Rembetsy"
   - name: "Peter Norton"
   - name: "Pris Nasrat"
