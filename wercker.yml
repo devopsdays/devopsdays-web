@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "0.15"
+        version: "0.16"
         theme: devopsdays-responsive
         flags: --buildDrafts=false
 

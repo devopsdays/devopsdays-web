@@ -5,7 +5,7 @@ type = "event"
 
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+If you'd like to contact us by email: {{< email_organizers subject="DevOpsDays Chicago">}}
 
 **Our local team**
 
