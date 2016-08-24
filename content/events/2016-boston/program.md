@@ -10,6 +10,9 @@ type = "event"
     <hr />
     With talks in the morning and attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions in the afternoon, we have two full days of content!
     <hr />
+    <div style="text-align:center;">
+      <h1><a href="https://s3.amazonaws.com/storage.mylessteinhauser.com/DevOps-Days-Boston-2016-Booklet.pdf">Download Program Booklet (PDF)</a></h1>
+    </div>
   </div>
 </div>
 
