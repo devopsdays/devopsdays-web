@@ -48,3 +48,6 @@ $RECYCLE.BIN/
 *.lnk
 node_modules
 _mdwriter.cson
+
+# A script to update the ulimt for OS X
+increase_ulimit.sh
