@@ -11,6 +11,7 @@ aliases = ["/events/2016-boston"]
 DevOps Days is coming to {{< event_location >}}!
 
 <div style="text-align:center;">
+  <h1><a href="https://s3.amazonaws.com/storage.mylessteinhauser.com/DevOps-Days-Boston-2016-Booklet.pdf">Download Program Booklet (PDF)</a></h1>
   {{< event_logo >}}
 </div>
 
