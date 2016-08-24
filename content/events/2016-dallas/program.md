@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        [NetDevOps - Network Engineer's Journey (<em>Kevin Witherstine</em>)](/events/2016-dallas/program/kevin-witherstine/) 
+        [NetDevOps - Network Engineer's Journey (<em>Kevin Witherstine</em>)](/events/2016-dallas/program/kevin-witherstine/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -167,18 +167,12 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>17:00-19:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Happy Hour Event</strong> sponsored by [Chef](http://chef.io)
       </div>
     </div> <!-- end timeslot div -->
-
-
-
-
-
-
   </div><!-- end day 1 -->
   <div class = "col-md-6">
     <div class = "row">
@@ -266,7 +260,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        [DevOps for Normals (<em>Michael Coté</em>)](/events/2016-dallas/program/michael-cote/) 
+        [DevOps for Normals (<em>Michael Coté</em>)](/events/2016-dallas/program/michael-cote/)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -344,4 +338,3 @@ type = "event"
 <div class="addthis_horizontal_follow_toolbox"></div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5724f5b54cc142a1"></script>
-

@@ -72,6 +72,10 @@ sponsors:
     level: gold
   - id: openshift
     level: silver
+  - id: jfrog
+    level: gold
+  - id: oreilly
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: diamond
