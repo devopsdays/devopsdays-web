@@ -76,6 +76,10 @@ sponsors:
     level: gold
   - id: oreilly
     level: community
+  - id: bodybuilding
+    level: gold
+  - id: forgerock
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: diamond
