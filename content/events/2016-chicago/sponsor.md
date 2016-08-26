@@ -5,7 +5,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsday.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf">prospectus</a> and <a href="https://drive.google.com/open?id=1uqTh6PldcqDgNIitQ8iuR_NOenHPYDQVyMaafk-LqGs">details</a>, or [send us an email](mailto:sponsorships@devopsdayschi.org?subject=Interested in Sponsoring DevOpsDays Chicago 2016).
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf">prospectus</a> and <a href="https://drive.google.com/open?id=1uqTh6PldcqDgNIitQ8iuR_NOenHPYDQVyMaafk-LqGs">details</a>, or [send us an email](mailto:sponsorships@devopsdayschi.org?subject=Interested in Sponsoring DevOpsDays Chicago 2016).
 
 <hr>
 
