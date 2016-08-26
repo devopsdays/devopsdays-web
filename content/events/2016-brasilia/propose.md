@@ -2,7 +2,7 @@
 date = "2000-01-01T01:01:01-06:00"
 title = "propose"
 type = "event"
-draft = true
+draft = false
 +++
   {{< cfp_dates >}}
 
@@ -22,17 +22,23 @@ Our main criteria to make it to the top selection are:
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
-	<li>Description or abstract</li>
-</ol>
-<strong>Rules:</strong>
-<ul>
-	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>
-	<li>Detail is good... but not as important as explaining why your proposal would be interesting</li>
-	<li>Propose your own talk; don't have someone else do it for you.</li>
-	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
-	<li>Multiple proposals welcome... just follow the other rules</li>
-</ul>
+<strong>How to submit a proposal:</strong>
+
+* The prefered method: fill in the form below (questions only in Portuguese for now)
+* **or** send us an email to [{{< email_proposals >}}] with the following information
+
+    <ol>
+    	<li>Proposal working title (can be changed later)</li>
+    	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
+    	<li>Description or abstract</li>
+    </ol>
+    <strong>Tips for your proposals:</strong>
+    <ul>
+    	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>
+    	<li>Detail is good... but not as important as explaining why your proposal would be interesting</li>
+    	<li>Propose your own talk; don't have someone else do it for you.</li>
+    	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
+    	<li>Multiple proposals welcome... just follow the other rules</li>
+    </ul>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2dKOvCB1fVKnRkUD2C0dJ_f0QzZBIDQTeGMd9grSSYEibcg/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
