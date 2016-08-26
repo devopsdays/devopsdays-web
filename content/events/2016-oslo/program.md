@@ -149,10 +149,11 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>18:00-20:00</time>
+        <time>17:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening event - TBA</strong>
+        <strong>Dinner and Evening event - TBA</strong>
+        (at the same location as the conference)
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
