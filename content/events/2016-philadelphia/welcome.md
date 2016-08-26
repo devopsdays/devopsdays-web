@@ -9,11 +9,9 @@ aliases = ["/events/2016-philadelphia"]
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

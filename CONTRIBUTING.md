@@ -16,7 +16,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 To watch for changes and rebuild on the fly, open a new terminal, change directories to your fork of the repo, and execute the following:
 
 ```
-hugo server -w --baseUrl="http://localhost:1313"`.
+hugo server -w --baseUrl="http://localhost:1313"
 ```
 
 Now open `baseURL` in a browser and navigate to the content that you're editing - voilà!
@@ -34,7 +34,7 @@ Error: listen tcp 127.0.0.1:1313: socket: too many open files
 You can correct it *temporarily* with this:
 
 ```
-$ hugo check ulimisudo sysctl -w kern.maxfiles=65536
+$ hugo check ulimit
 $ sudo sysctl -w kern.maxfilesperproc=65536
 $ ulimit -n 65536 65536
 ```
@@ -58,6 +58,12 @@ With that done, just reboot, and you should be ready to go!
 
 Note that on OS X (which has notoriously low ulimits by default) you may need to make [additional changes](https://apple.stackexchange.com/questions/168495/why-wont-kern-maxfiles-setting-in-etc-sysctl-conf-stick) to your system.
 
+You can change the launch limits directly via `launchctl`
+
+```
+sudo launchctl limit maxfiles 65536 65536
+```
+
 ## Pull requests
 
 ### Process
@@ -76,7 +82,7 @@ Note that on OS X (which has notoriously low ulimits by default) you may need to
 
 1. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed.
 1. Take a break - you've earned it!
-1. When a commit is merged to `master` on GitHub (ideally via a PR reviewed by at least one other person), `wercker` (a build tool) will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
+1. When a commit is merged to `master` on GitHub (ideally via a PR reviewed by at least one other person), `Netlify` (a build tool) will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
 ### Guidelines
 
