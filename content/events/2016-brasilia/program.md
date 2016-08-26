@@ -46,7 +46,7 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12">
 
-    <h3>Day 1 - November 19</h3>
+    <h3>Day 1 - {{< event_start >}}</h3>
 
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
