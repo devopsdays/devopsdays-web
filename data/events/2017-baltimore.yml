@@ -63,8 +63,6 @@ proposal_email: "organizers-baltimore-2017@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: eglobaltech
-    level: platinum
   - id: omniti
     level: platinum
   - id: fearless
@@ -72,7 +70,13 @@ sponsors:
   - id: que-technology-group
     level: silver
   - id: arresteddevops
-    level:  media
+    level: media
+  - id: spark
+    level: community
+  - id: betamore
+    level: community
+  - id: groundfloor
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
