@@ -82,7 +82,7 @@ sudo launchctl limit maxfiles 65536 65536
 
 1. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed.
 1. Take a break - you've earned it!
-1. When a commit is merged to `master` on GitHub (ideally via a PR reviewed by at least one other person), `wercker` (a build tool) will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
+1. When a commit is merged to `master` on GitHub (ideally via a PR reviewed by at least one other person), `Netlify` (a build tool) will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
 ### Guidelines
 
