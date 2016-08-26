@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-chicago/program/adam-jacob">Adam Jacob - The Evolution of Automation</a>
+        <a href="/events/2016-chicago/program/adam-jacob">Adam Jacob - The Evolution of Automation</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-chicago/program/joel-vasallo">Joel Vasallo - The Five Phases of DevOps</a>
+        <a href="/events/2016-chicago/program/joel-vasallo">Joel Vasallo - The Five Phases of DevOps</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -135,7 +135,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-13:40</time>
+      </div>
+      <div class = "col-md-6 box">
+        Sponsors
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:40-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -145,7 +154,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:15-15:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -155,7 +164,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:00-15:15</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:15-16:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -165,7 +183,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:15-17:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -175,7 +193,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>17:00-17:15</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Logistics
@@ -184,7 +202,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>18:00-late</time>
+        <time>18:30-21:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
@@ -281,7 +299,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-chicago/program/brian-henerey">Brian Henerey - Leading an Enterprise to the Public Cloud</a>
+        <a href="/events/2016-chicago/program/brian-henerey">Brian Henerey - Leading an Enterprise to the Public Cloud</a><br /><br/>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -307,12 +325,22 @@ type = "event"
           <li><a href="/events/2016-chicago/program/michael-stahnke">Michael Stahnke - What I’ve learned interviewing more than 150 people face to face</a></li>
           <li><a href="/events/2016-chicago/program/joshua-zimmerman">Joshua Zimmerman - DevOps Deep Thoughts by Not Jack Handey</a></li>
         </ul>
+        <br/><br/><br/><br/><br/>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-13:40</time>
+      </div>
+      <div class = "col-md-6 box">
+        Sponsors
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:40-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -322,7 +350,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:15-15:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -332,7 +360,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:00-15:15</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:15-16:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -342,7 +379,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:15-17:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -352,7 +389,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>17:00</time>
+        <time>17:00-17:15</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Farewell
