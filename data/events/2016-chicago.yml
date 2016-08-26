@@ -29,6 +29,7 @@ team_members:
   - name: "Jerry Cattell"
     twitter: "jcattell"
   - name: "Brian Devlin"
+  - name: "Joshua Goldman"
   - name: "Cora Hays-Magan"
   - name: "Michael Lanyon"
   - name: "Aaron Lindstrom"
@@ -125,6 +126,8 @@ sponsors:
     level: community
   - id: grubhub
     level: lunch
+  - id: appdynamics
+    level: lanyard
 
 sponsor_levels:
   - id: gold
@@ -137,6 +140,8 @@ sponsor_levels:
     label: Community
   - id: lunch
     label: Lunch
+  - id: lanyard
+    label: Lanyard
 
 speakers:
   - id: "abejide-ayodele"
