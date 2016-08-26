@@ -10,22 +10,33 @@ cfp_date_end: 2016-07-08
 cfp_date_announce: 2016-07-15
 coordinates: "39.9500, -75.1667" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chemical Heritage Foundation" # The name of your location
-navigationelements:
-  - "welcome"
-  - "contact"
-  - "location"
-  - "registration"
-  - "conduct"
-  - "sponsor" # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team:
-  - "Peter Shannon"
-  - "Dave Konopka"
-  - "Sarah Gray"
-  - "Yash Prabhu"
-  - "Mike Tyler"
-  - "Clinton Wolfe"
+
+nav_elements:
+  - name: welcome
+  - name: contact
+  - name: speakers
+  - name: location
+  - name: registration
+  - name: conduct
+  - name: sponsor
+
+team_members:
+  - name: "Peter Shannon"
+    employer: "DramaFever"
+  - name: "Dave Konopka"
+    employer: "ReactiveOps"
+  - name: "Sarah Gray"
+    employer: "PromptWorks"
+  - name: "Yash Prabhu"
+    employer: "DramaFever"
+  - name: "Mike Tyler"
+    employer: "Chef"
+  - name: "Clinton Wolfe"
+    employer: "Omniti"
+
 organizer_email: "organizers-philadelphia-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-philadelphia-2016@devopsdays.org" # Put your proposal email address here
+
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: chef
     level: gold
@@ -55,3 +66,13 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: branding
     label: Branding
+
+speakers:
+  - id: bridget-kromhout
+    level: Keynote
+
+speaker_levels:
+  - id: talk
+    label: Talk
+  - id: keynote
+    label: Keynote
