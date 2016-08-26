@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-Stop Shipping Your Org Chart
+Software-Defined Culture
 </p>
 
 <p><strong>Description:</strong></p>
