@@ -20,7 +20,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: conduct
   - name: sponsor
-team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Faye Thompson", "Kyle Jenkins", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
+team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Kyle Jenkins", "John Lusk", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
 organizer_email: "organizers-ohio-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-ohio-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
@@ -32,11 +32,17 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: thoughtworks-services
     level: gold
+  - id: apprenda
+    level: gold
+  - id: roundtowertechnologies
+    level: gold
+  - id: icc
+    level: gold
   - id: victorops
     level: silver
   - id: none
     level: bronze
-  - id: none
+  - id: techlifecolumbus
     level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
