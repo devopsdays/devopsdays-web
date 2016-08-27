@@ -66,7 +66,9 @@ sponsors:
   - id: cumulus
     level: silver
   - id: jfrog
-    level: silver    
+    level: silver
+  - id: thoughtworks-products
+    level: bronze   
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
