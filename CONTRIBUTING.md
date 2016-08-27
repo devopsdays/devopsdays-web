@@ -21,49 +21,6 @@ hugo server -w --baseUrl="http://localhost:1313"
 
 Now open `baseURL` in a browser and navigate to the content that you're editing - voilà!
 
-### "ulimit" warnings or errors
-
-At any point in this process you may see a message related to [ulimits](https://stackoverflow.com/questions/24955883/what-is-the-max-opened-files-limitation-on-linux), for example:
-
-```
-hugo server -w --baseUrl="http://localhost:1313"
-[...]
-Error: listen tcp 127.0.0.1:1313: socket: too many open files
-```
-
-You can correct it *temporarily* with this:
-
-```
-$ hugo check ulimit
-$ sudo sysctl -w kern.maxfilesperproc=65536
-$ ulimit -n 65536 65536
-```
-
-Then in a new window:
-
-```
-$ hugo server -w --baseUrl="http://localhost:1313"
-```
-
-The changes noted above will be lost when you reboot. For a more permanent fix, add the following to `/etc/sysctl.conf` (run `touch /etc/sysctl.conf` first if the file doesn't exist; it likely does not):
-
-```
-kern.maxfiles=20480
-kern.maxfilesperproc=24576
-```
-
-With that done, just reboot, and you should be ready to go!
-
-### ulimits and OS X
-
-Note that on OS X (which has notoriously low ulimits by default) you may need to make [additional changes](https://apple.stackexchange.com/questions/168495/why-wont-kern-maxfiles-setting-in-etc-sysctl-conf-stick) to your system.
-
-You can change the launch limits directly via `launchctl`
-
-```
-sudo launchctl limit maxfiles 65536 65536
-```
-
 ## Pull requests
 
 ### Process
