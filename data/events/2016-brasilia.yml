@@ -47,6 +47,7 @@ team_members: # Name is the only required field for team members.
   - name: "Rogério Fernandes Pereira"
 organizer_email: "organizers-brasilia-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-brasilia-2016@devopsdays.org" # Put your proposal email address here
+ga_tracking_id: "UA-83133994-2"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
