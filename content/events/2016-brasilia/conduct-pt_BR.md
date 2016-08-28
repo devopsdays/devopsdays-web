@@ -43,3 +43,16 @@ IV. Se estou ofendido ou incomodado, vou informar as pessoas em que confio ou ao
 V. Eu entendo que as pessoas são diferentes e eu tentarei ser complacente com outras ações em nível de sua verdadeira intenção, mas a minha prioridade é minha segurança e a segurança dos outros. Vou agir sem hesitação ou reserva até que não haja segurança de todas as partes.
 
 VI. Eu confio que os organizadores do devopsdays e os participantes colaborativamente criarão a melhor experiência possível para todos os envolvidos, como eu quero e também farei. Acredito devopsdays é de empoderamento de pessoas e não vou esquecer que eu tenho o poder para criar um ambiente seguro e acolhedor. Se eu ou qualquer outro participante viole este Código de Conduta do evento, espero que os organizadores da conferência tomem atitudes adequadas que protejam os participantes, incluindo expulsando aqueles que violem e entre em contato com as autoridades apropriadas para medidas cabíveis.
+
+<div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-83133994-2', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+</div>
