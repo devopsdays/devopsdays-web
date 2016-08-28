@@ -96,15 +96,17 @@ sponsors:
     level: silver
   - id: morpheus_data
     level: silver
+  - id: 2016-ns1
+    level: silver
   - id: columntech
+    level: silver
+  - id: puppet
+    level: silver
+  - id: concurrency
     level: silver
   - id: herzum
     level: silver
   - id: atlassian
-    level: silver
-  - id: puppet
-    level: silver
-  - id: 2016-ns1
     level: silver
   - id: drw
     level: bronze
