@@ -88,7 +88,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-oslo/program/anton-babenko/">Ignite: Tools exist for a reason - Anton Babenko</a><br /><br />
-<!--        <a href="/events/2016-oslo/program/kjetil-jorgensen-dahl/">Ignite: How to kill DevOps (in 5 minutes) - Kjetil Jørgensen-Dahl</a><br /><br /> -->
+        <a href="/events/2016-oslo/program/kjetil-jorgensen-dahl/">Ignite: How to kill DevOps (in 5 minutes) - Kjetil Jørgensen-Dahl</a><br /><br />
         <a href="/events/2016-oslo/program/anders-sveen/">Ignite: DevOps - The Anti-patterns - Anders Sveen</a><br />
       </div>
     </div> <!-- end timeslot div -->
@@ -234,7 +234,8 @@ type = "event"
       <div class = "col-md-6 box">
         <a href="/events/2016-oslo/program/hans-kristian-flaatten/">Ignite: How we built the Node.js Foundation with Open Open Source - Hans Kristian Flaatten</a><br /><br />
         <a href="/events/2016-oslo/program/mandi-walls/">Ignite: Automating applications with Habitat - Mandi Walls</a><br /><br />
-<!--        <a href="/events/2016-oslo/program/magnus-reftel/">Ignite: Behaviour-Driven Devops - Magnus Reftel</a><br /> -->
+        <a href="/events/2016-oslo/program/magnus-reftel/">Ignite: Behaviour-Driven Devops - Magnus Reftel</a><br /><br />
+        <a href="/events/2016-oslo/program/mari-grini/">Ignite: Breaking free from the DevOps security myths - Mari Grini</a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
