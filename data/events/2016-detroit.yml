@@ -10,8 +10,33 @@ cfp_date_end: 2016-08-31
 cfp_date_announce: 2016-09-12
 coordinates: "42.331034, -83.046382" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: " A. Alfred Taubman Center for Design Education, College for Creative Studies" # The name of your location
-navigationelements: ["welcome", "contact", "location", "registration", "propose", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-team: ["Ben Chess", "Jamie Begin", "Brian Nuszkowski", "Joe Arnet", "Vito Brooks", "Adam Jurevicius", "Sam Boyer", "Jeremy Wdowik", "Trevor Smith", "Allison Green"]
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: contact
+  - name: location
+  - name: registration
+  - name: propose
+#  - name: program
+#  - name: speakers
+  - name: conduct
+  - name: sponsor
+
+team_members: # Name is the only required field for team members.
+  - name: "Ben Chess"
+  - name: "Jamie Begin"
+  - name: "Brian Nuszkowski"
+  - name: "Joe Arnet"
+  - name: "Vito Brooks"
+  - name: "Adam Jurevicius"
+  - name: "Jeremy Wdowik"
+  - name: "Trevor Smith"
+  - name: "Allison Green"
+#  - name: "Full Name"
+#    twitter: "fullname"
+#    employer: "Acme Co"
+
+
 organizer_email: "organizers-detroit-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
