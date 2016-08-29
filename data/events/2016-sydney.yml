@@ -13,7 +13,7 @@ cfp_date_announce:  2016-10-31 # inform proposers of status
 
 # Location
 #
-coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "-33.8688,151.2093" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Sydney" # Defaults to city, but you can make it the venue name.
 #
 
