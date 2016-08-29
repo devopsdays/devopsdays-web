@@ -14,6 +14,16 @@ type = "event"
 </div>
 
 <div class = "row">
+  <div class = "col-md-12" style="text-align:center;">
+    <hr />
+    <b><strike>Live Stream</strike>
+    &mdash;
+    <strike>Transcription</strike>
+    <hr /></b>
+  </div>
+</div>
+
+<div class = "row">
   <div class = "col-md-12 col-md-offset-4">
     <h2>The Schedule</h2>
   </div>
@@ -205,7 +215,10 @@ type = "event"
         <time>18:30-21:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Event</strong><br />
+        <a href = "http://www.10pinchicago.com/#Evolution">10Pin Bowling Lounge</a> - River North<br />
+        330 N. State St.<br />
+        Chicago, IL
       </div>
     </div> <!-- end timeslot div -->
 
