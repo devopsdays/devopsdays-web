@@ -32,7 +32,10 @@ aliases = ["/events/2016-raleigh"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    We are opening CFP for the remaining Ignite talks. To submit a talk, <a href="https://docs.google.com/forms/d/1g2ll3b0CeMSLHrLk9ZHCV7X02BAYBpqcOacvavqM4R0/">go here</a>. The call for Ignites will remain open until September 9th and the remaining talks announced on September 12th.
+    We are opening CFP for the remaining Ignite talks. The call for Ignites will remain open until September 9th and the remaining talks announced on September 12th.
+    <br><br>
+    To submit a talk, <a href="https://docs.google.com/forms/d/1g2ll3b0CeMSLHrLk9ZHCV7X02BAYBpqcOacvavqM4R0/">please click here</a>.
+    
   </div>
 </div>
 
