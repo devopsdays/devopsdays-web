@@ -29,6 +29,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pagerduty
     level: gold
+  - id: netapp
+    level: gold
   - id: victorops
     level: silver
   - id: oreilly
