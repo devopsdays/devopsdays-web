@@ -10,7 +10,7 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-Early bird Tickets are now available at our [registration site](https://devopsdays-wellington-2016.lilregie.com/step1)
+~~Early bird~~ Tickets are now available at our [registration site](https://devopsdays-wellington-2016.lilregie.com/step1)
 
 
 <!-- <div style="text-align:center;">
@@ -51,15 +51,6 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> 
-
- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-  <a href="https://www.papercall.io/devopsdays-wellington">Propose a talk!</a>
-  </div>
 </div>
 
 <div class = "row">
@@ -71,14 +62,14 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View our provisional {{< event_link page="program" text="program." >}} (session and speaker details to follow)
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -88,15 +79,6 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">
