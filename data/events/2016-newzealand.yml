@@ -23,7 +23,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
 #    url: https://www.papercall.io/devopsdays-wellington # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: program
+  - name: program
   - name: registration
     url: https://devopsdays-wellington-2016.lilregie.com/step1
   - name: sponsor
@@ -48,6 +48,8 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-newzealand-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newzealand-2016@devopsdays.org" # Put your proposal email address here
 
+sponsors_accepted: "no"
+
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
@@ -59,17 +61,28 @@ sponsors:
     level: gold
   - id: 2016-apitalent
     level: gold
+#  - id: 2016-solnet
+#    level: gold
+  - id: 2016-oss
+    level: silver
+  - id: 2016-pushpay
+    level: evening
+
 #  - id: arresteddevops
 #    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: host
     label: Host
+    max: 1
   - id: gold
     label: Gold
+    max: 6
   - id: silver
     label: Silver
-  - id: bronze
-    label: Bronze
+    max: 2
+  - id: evening
+    label: Evening Fun Event
+    max: 1
 #  - id: community
 #   label: Community
