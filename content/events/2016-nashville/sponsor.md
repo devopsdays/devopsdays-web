@@ -7,7 +7,7 @@ type = "event"
 
 +++
 
-Thank you for being here, and for considering sponsorship of Nashville's innagural DevOpsDays! Sponsors are what makes community events like this possible. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}. Gold, Silver, and Bronze packages are detailed in our <a href="https://dl.dropboxusercontent.com/u/443584/DevOpsDays/devopsdays-nashville-2016-prospectus.pdf">prospectus</a>.
+Thank you for being here, and for considering sponsorship of Nashville's inaugural DevOpsDays! Sponsors are what makes community events like this possible. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}. Gold, Silver, and Bronze packages are detailed in our <a href="https://dl.dropboxusercontent.com/u/443584/DevOpsDays/devopsdays-nashville-2016-prospectus.pdf">prospectus</a>.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 
