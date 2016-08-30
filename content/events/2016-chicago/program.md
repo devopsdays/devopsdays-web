@@ -16,10 +16,10 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12" style="text-align:center;">
     <hr />
-    <b><strike>Live Stream</strike>
+    <strong><a href="https://www.youtube.com/watch?v=U9wBgFEnWjY">Live Stream</a>
     &mdash;
-    <strike>Transcription</strike>
-    <hr /></b>
+    <a href="https://www.streamtext.net/player?event=DevOpsDays">Transcription</a>
+    <hr /></strong>
   </div>
 </div>
 
