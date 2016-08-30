@@ -5,8 +5,8 @@ friendly: "2016-bangalore" # Four digit year and the city name in lower-case. Do
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-11-05  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-11-06  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-11-04  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-11-05  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-06-10 # start accepting talk proposals.
 cfp_date_end: 2016-09-04 # close your call for proposals.
@@ -25,7 +25,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: devopsdaysindia.org
     url: http://devopsdaysindia.org
 #  - name: location
-#  - name: registration
+  - name: registration
 #  - name: sponsor
   - name: contact
 #  - name: conduct
@@ -40,18 +40,3 @@ team_members: # Name is the only required field for team members.
 organizer_email: "team@devopsdaysindia.org"
 proposal_email: "team@devopsdaysindia.org"
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
-
-sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-  - id: gold
-    label: Gold
-  - id: silver
-    label: Silver
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community

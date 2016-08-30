@@ -10,6 +10,9 @@ type = "event"
     <hr />
     With talks in the morning and attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions in the afternoon, we have two full days of content!
     <hr />
+    <div style="text-align:center;">
+      <h1><a href="https://s3.amazonaws.com/storage.mylessteinhauser.com/DevOps-Days-Boston-2016-Booklet.pdf">Download Program Booklet (PDF)</a></h1>
+    </div>
   </div>
 </div>
 
@@ -41,19 +44,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>09:30-10:00</time>
+        <time>09:30-09:40</time>
       </div>
       <div class = "col-md-8 box">
-        <a href="/events/2016-boston/program/elliot-murphy">Elliot Murphy (Kindly Ops) - (Opening keynote)<br><br></a>
+        Sponsors
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>10:00-10:10</time>
+        <time>09:40-10:10</time>
       </div>
       <div class = "col-md-8 box">
-        Sponsors
+        <a href="/events/2016-boston/program/elliot-murphy">Elliot Murphy (Kindly Ops) - Redefining collaboration norms as your company grows</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -285,19 +288,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>09:30-10:00</time>
+        <time>09:30-09:40</time>
       </div>
       <div class = "col-md-8 box">
-        <a href="/events/2016-boston/program/jill-jubinski">Jill Jubinski (IBM) - If You Build it, They Will Come: But Will They Stay?</a>
+        Sponsors
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-1">
-        <time>10:00-10:10</time>
+        <time>09:40-10:10</time>
       </div>
       <div class = "col-md-8 box">
-        Sponsors
+        <a href="/events/2016-boston/program/jill-jubinski">Jill Jubinski (IBM) - If You Build it, They Will Come: But Will They Stay?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -315,7 +318,7 @@ type = "event"
         <time>10:10-10:40</time>
       </div>
       <div class = "col-md-4 box">
-        <a href="/events/2016-boston/program/stillinbeta">stillinbeta - Oncall Equity</a><br><br><br>
+        <a href="/events/2016-boston/program/liz-frost">Liz Frost - Oncall Equity</a><br><br><br>
       </div>
       <div class = "col-md-4 box">
         <a href="/events/2016-boston/program/andreas-grabner">Andreas Grabner (Dynatrace) - Implementing Metrics-Driven DevOps: Why and How!</a>

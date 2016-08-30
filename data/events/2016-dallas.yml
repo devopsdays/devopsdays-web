@@ -16,6 +16,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: location
   - name: program
+  - name: speakers
   - name: proposals
   - name: registration
   - name: conduct
@@ -37,15 +38,45 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-dallas-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: chef
+    level: platinum
+  - id: appdynamics
+    level: platinum
   - id: pivotal
     level: gold
   - id: deis
     level: gold
-  - id: chef
-    level: platinum
+  - id: 2016-ns1
+    level: gold
+  - id: venafi
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: xebialabs
+    level: gold
+  - id: evident
+    level: gold
+  - id: 2016-techtowntraining
+    level: gold
+  - id: ca_tech
+    level: gold
+  - id: netapp
+    level: gold
+  - id: upengroup
+    level: gold
+  - id: rightstar
+    level: silver
+  - id: sumologic
+    level: gold
+  - id: praecipio
+    level: gold
   - id: victorops
     level: silver
+  - id: cumulus
+    level: silver
   - id: oreilly
+    level: media
+  - id: arresteddevops
     level: media
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -58,3 +89,29 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Community
   - id: media
     label: Media
+
+speakers:
+  - id: "jeffery-snover"
+    level: talk
+  - id: "allison-pollard"
+    level: talk
+  - id: "franklin-mosely"
+    level: talk
+  - id: "kevin-witherstine"
+    level: talk
+  - id: "marisa-lerer"
+    level: talk
+  - id: "michael-cote"
+    level: talk
+  - id: "michael-hedgpeth"
+    level: talk
+  - id: "nathen-harvey"
+    level: talk
+  - id: "shazard"
+    level: talk
+  - id: "zach-canon"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk

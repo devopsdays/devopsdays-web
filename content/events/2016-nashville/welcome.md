@@ -5,7 +5,7 @@ type = "event"
 aliases = ["/events/2016-nashville"]
 
 +++
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 **DevOpsDays is coming to Nashville!**
 

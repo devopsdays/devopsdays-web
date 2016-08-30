@@ -1,8 +1,8 @@
 name: 2016-siliconvalley # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2016" # The year of the event. Make sure it is in quotes.
+year: 2016 # The year of the event. Make sure it is in quotes.
 city: "Silicon Valley" # The city name of the event. Capitalize it.
 friendly: "2016-siliconvalley" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current".
+status: "past" # Options are "past" or "current".
 startdate: 2016-06-24 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-06-25 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-04-01
@@ -41,6 +41,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: wavefront
     level: silver
+  - id: foxpass
+    level: silver
   - id: 2016-monitis
     level: tsponsors
   - id: datadog
@@ -60,6 +62,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: 2016-viawest
     level: stsponsor
   - id: overnest
+    level: stsponsor
+  - id: 6connect
     level: stsponsor
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

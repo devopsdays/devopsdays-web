@@ -9,7 +9,7 @@ aliases = ["/events/2016-detroit"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 DevOpsDays is returning to Detroit!
 

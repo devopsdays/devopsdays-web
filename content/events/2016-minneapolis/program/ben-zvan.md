@@ -32,6 +32,15 @@ In this session, I’ll present my version of the DevOps philosophy and how it c
 
 </p>
 
+<br>
+<br>
+
+<script async class="speakerdeck-embed" data-id="8ecc825b4c8d485eb49a229760931b3e" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<br>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqhFUe7JTGU" frameborder="0" allowfullscreen></iframe>
 
   </div>
 </div>

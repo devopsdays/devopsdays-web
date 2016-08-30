@@ -3,6 +3,9 @@
 {{ $path := split $.Source.File.Path "/" }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
+{{ $city_slug := substr $e.name 5 }}
+
+
 <!-- end event header partial -->
 <div>
       {{ .Content }}
@@ -11,7 +14,8 @@
 
  <!-- speaker page code begin -->
 
-  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (lower $e.city) }}
+
+  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) $city_slug }}
 <div class="row">
     <div class="col-md-3">
         <img alt = "{{ $s.name }}" src = "/events/{{ $event_slug }}/speakers/{{$fname}}.jpg" class="img-responsive" width = "250px">
@@ -19,6 +23,8 @@
     <div class= "col-md-8">
        <h3><a href="/events/{{ $event_slug }}/program/{{$fname}}">{{ $s.name }}</a></h3>
        {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
+       {{ if $s.website }}Website: <a href="{{ $s.website }}">{{ $s.website }}</a><br>{{ end }}
+       {{ if $s.pronouns }}Pronouns: {{ $s.pronouns }}{{ end }}
      <br>
      {{ $s.bio | markdownify }}
 <hr>

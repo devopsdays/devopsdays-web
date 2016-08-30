@@ -5,26 +5,26 @@ friendly: "2016-telaviv" # Four digit year and the city name in lower-case. Don'
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2016-12-12" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2016-12-13" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: "2016-06-28" # start accepting talk proposals.
+cfp_date_end: "2016-08-31" # close your call for proposals.
+cfp_date_announce: "2016-10-01"# inform proposers of status
 
 # Location
 #
-coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
+coordinates: "32.1052681,34.8072141" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tel Aviv Convention Center" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
-#  - name: registration
+  - name: propose
+    # url: http://goo.gl/forms/UBAWiffHptWZENGK2 # The url setting is optional, and only if you want the navigation to link off-site
+  - name: location
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -36,9 +36,15 @@ team_members: # Name is the only required field for team members.
   - name: "Nati Cohen"
   - name: "Alon Becker"
   - name: "Evgeny Zislis"
-  - name: "Sharone Zitsman"
+  - name: "Sharone Zitzman"
   - name: "Omer Molcho"
   - name: "Uzi Krieger"
+  - name: "Asaf Yigal"
+  - name: "Daniel Berman"
+  - name: "Yoav Abrahami"
+  - name: "Uri Cohen"
+  - name: "Dor Laor"
+  - name: "Jonathann Zenou"
 organizer_email: "organizers-telaviv-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-telaviv-2016@devopsdays.org" # Put your proposal email address here
 

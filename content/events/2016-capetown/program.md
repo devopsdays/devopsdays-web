@@ -5,13 +5,17 @@ type = "event"
 
 +++
 
-<div class = "row">
-  <div class = "col-md-12">
-    <hr />
-    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
-    <hr />
+<p>
+  <div class = "row">
+    <div class = "col-md-12">
+      <hr />
+      If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+      <br/>
+      There will be a pre-conference evening with drinks and snacks.
+      <hr />
+    </div>
   </div>
-</div>
+</p>
 
 <div class = "row">
   <div class = "col-md-12 col-md-offset-4">
@@ -23,7 +27,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 1</h3>
+        <h3 align="center">7 November 2016</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -32,85 +36,76 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registration, and Sponsor Booths Open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:10</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Welcome & Announcements
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/daniel-maher">Daniel Maher (Mozilla) </br> DevOps: Past, Present, Future</a>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
+    <!-- this div is repeated for each timeslot
     <div class = "row">
       <div class = "col-md-4">
         <time>09:45-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        Platinum Sponsor
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:30-11:00</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+        Coffee Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>11:00-11:35</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:35-12:10</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        Talk #4
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
-      </div>
-      <div class = "col-md-6 box">
-        &nbsp;
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>12:10-13:10</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)
@@ -119,7 +114,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:30</time>
+        <time>13:10-13:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
@@ -171,29 +166,23 @@ type = "event"
         <time>16:45-17:00</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Logistics
+        Close Day &amp; Logistics for evening event
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>18:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
       </div>
     </div> <!-- end timeslot div -->
-
-
-
-
-
-
   </div><!-- end day 1 -->
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 2</h3>
+        <h3 align="center">8 November 2016</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -202,64 +191,64 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registration, and Sponsor Booths Open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:10</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Welcome & Announcements
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/seth-vargo">Seth Vargo (HashiCorp)</br>Managing secrets with Vault</a>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
+    <!-- this div is repeated for each timeslot
     <div class = "row">
       <div class = "col-md-4">
         <time>09:45-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:55-10:25</time>
-      </div>
-      <div class = "col-md-6 box">
         &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+        Talk #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>10:30-10:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Coffee Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>10:45-11:20</time>
+      </div>
+      <div class = "col-md-6 box">
+        Talk #3
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot
     <div class = "row">
       <div class = "col-md-4">
         <time>11:10-11:20</time>
@@ -271,16 +260,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:20-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Talk #4
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>11:55-13:00</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)
@@ -344,5 +333,14 @@ type = "event"
         Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
+  <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>17:00-late</time>
+      </div>
+      <div class = "col-md-6 box">
+        <strong>Closing drinks at the venue</strong>
+      </div>
+    </div> <!-- end timeslot div -->  
   </div><!-- end day 2 -->
 </div>

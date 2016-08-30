@@ -6,14 +6,34 @@ aliases = ["/events/2016-newzealand"]
 
 +++
 
-## {{< event_start >}} - {{< event_end >}}
+## DevOpsDays Middle Earth is in Wellington 
 
-DevOps Days is coming to {{< event_location >}}!
+**It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
+
+~~Early bird~~ Tickets are now available at our [registration site](https://devopsdays-wellington-2016.lilregie.com/step1)
+
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
+<hr/>
+
+<div style="float:left;">
+  <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo.png" style="max-width: 90%;">
+</div> 
+
+DevOps is all about Continuous Improvement - but what is meant by this?  What are we improving?  Why do we want to continuously improve?  
+
+How do we continuously improve, when we have to deal with incumbent technologies, increased learning curves and ever-increasing business demand for new features?
+
+Technology is continuously changing, and the pace is only accelerating; there is no evidence of a plateau or slow-down any time soon.  Therefore, there are new opportunities emerging all the time - activities that were previously done manually are now automated, and this automation is increasing in sophistication.
+
+So, is improvement then all about tools and technologies?  Or the people (as individuals and teams) that use them?  Or is it about organisations having the right investment in processes that support continuous improvement?
+
+At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answer the 'what, why and how' of improvement in any organisation that uses IT as part of its business.
+
+<hr/>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -24,41 +44,32 @@ DevOps Days is coming to {{< event_location >}}!
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  <a href="https://devopsdays-wellington-2016.lilregie.com/step1">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View our provisional {{< event_link page="program" text="program." >}} (session and speaker details to follow)
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -68,15 +79,6 @@ DevOps Days is coming to {{< event_location >}}!
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">

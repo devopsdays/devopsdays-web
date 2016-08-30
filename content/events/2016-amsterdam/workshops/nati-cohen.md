@@ -19,6 +19,13 @@ Docker is very popular these days, how many of us are really familiar with the b
 In this hands-on workshop, we will build a small Docker like tool from O/S level primitives in order to learn how Docker and containers actually work. Starting from a regular process, we will gradually isolate and constrain it until we have a (nearly) full container solution, pausing after each step to learn how our new constraints behave.
 </p>
 
+<p>
+<strong>Pre-Requisites:</strong> <br />
+Be sure to <a href="https://docs.google.com/presentation/d/10vFQfEUvpf7qYyksNqiy-bAxcy-bvF0OnUElCOtTTRc/edit?usp=sharing">read up on the prep material</a> that will give you the necessary background to be successful for this workshop!
+</p>
+
+
+
 <p><strong>About the speakers</strong></p>
 <p>Avishai Ish-Shalom is a veteran Ops and a survivor of many production skirmishes. Avishai helps companies deal with web era operations and scale as an independent consultant. In his spare time Avishai is spreading weird ideas and conspiracy theories such as DevOps.</p>
 <p>Nati Cohen is a Production Engineer at SimilarWeb, fighting manual labor with code and vengeance. Previous experience includes: operations consulting, software development, *nix administration and security research in the Intelligence corps as well as in multiple startup companies.</p>

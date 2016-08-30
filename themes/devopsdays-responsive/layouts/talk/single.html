@@ -3,6 +3,7 @@
 {{ $path := split $.Source.File.Path "/" }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
+{{ $city_slug := substr $e.name 5 }}
 <!-- end event header partial -->
 
 <div>
@@ -19,8 +20,8 @@
    .Site.Data.events $e.year (printf "%s" (lower $e.city))
    - mattstratton
  */}}
- {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (lower $e.city) }}
-   {{ if eq $fname ($.Title | urlize) }}
+ {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) $city_slug }}
+   {{ if in ($.LinkTitle | urlize) $fname }}
 <hr>
 <div class="row">
     <div class="col-md-3">
