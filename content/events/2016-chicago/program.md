@@ -9,6 +9,8 @@ type = "event"
   <div class = "col-md-12">
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+    <br />
+    <a href = "https://docs.google.com/spreadsheets/d/1qC97WQD0MNTZV1ZJEjJ1Uw-n469TqqK5qLudZmBw5L0/edit?usp=sharing">Open Space Schedule</a>
     <hr />
   </div>
 </div>
