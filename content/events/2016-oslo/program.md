@@ -152,7 +152,7 @@ type = "event"
         <time>17:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Dinner and Evening event - TBA</strong>
+        <strong>Dinner and Evening event</strong>
         (at the same location as the conference)
       </div>
     </div> <!-- end timeslot div -->
