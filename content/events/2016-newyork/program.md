@@ -84,7 +84,7 @@ type = "event"
         <time>11:40-12:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newyork/program/nivia-henry/">Nivia Henry Blue Grass in a Brown Field: Building Awesome People and a Culture of Learning</a>
+        <a href="/events/2016-newyork/program/anthony-caiafa/">Anthony Caiafa SRE: An incomplete guide to cultural Narnia</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -218,7 +218,7 @@ type = "event"
         <time>11:25-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newyork/program/anthony-caiafa/">Anthony Caiafa SRE: An incomplete guide to cultural Narnia</a>
+        <a href="/events/2016-newyork/program/nivia-henry/">Nivia Henry Blue Grass in a Brown Field: Building Awesome People and a Culture of Learning</a>
       </div>
     </div>
     <div class = "row">
