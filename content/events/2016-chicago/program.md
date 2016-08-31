@@ -14,6 +14,18 @@ type = "event"
 </div>
 
 <div class = "row">
+  <div class = "col-md-12" style="text-align:center;">
+    <hr />
+    <strong><a href="https://www.youtube.com/watch?v=U9wBgFEnWjY">Live Stream</a>
+    &mdash;
+    <a href="https://www.streamtext.net/player?event=DevOpsDays">Transcription</a>
+    &mdash;
+    <a href = "https://docs.google.com/spreadsheets/d/1qC97WQD0MNTZV1ZJEjJ1Uw-n469TqqK5qLudZmBw5L0/edit?usp=sharing">Day 1 Open Space Schedule</a>
+    <hr /></strong>
+  </div>
+</div>
+
+<div class = "row">
   <div class = "col-md-12 col-md-offset-4">
     <h2>The Schedule</h2>
   </div>
@@ -205,7 +217,10 @@ type = "event"
         <time>18:30-21:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Event</strong><br />
+        <a href = "http://www.10pinchicago.com/#Evolution">10Pin Bowling Lounge</a> - River North<br />
+        330 N. State St.<br />
+        Chicago, IL
       </div>
     </div> <!-- end timeslot div -->
 

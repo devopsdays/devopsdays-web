@@ -77,6 +77,10 @@ sponsors:
     level: community
   - id: groundfloor
     level: community
+  - id: harbor_launch
+    level: community
+  - id: bw_tech
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

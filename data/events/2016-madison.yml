@@ -46,10 +46,12 @@ proposal_email: "proposals-madison-2016@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-#  - id: arresteddevops
-#    level: community
+  - id: concurrency
+    level: silver
+  - id: chef
+    level: silver
+  - id: arresteddevops
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
