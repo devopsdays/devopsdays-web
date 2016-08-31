@@ -61,8 +61,8 @@ sponsors:
     level: gold
   - id: 2016-apitalent
     level: gold
-#  - id: 2016-solnet
-#    level: gold
+  - id: 2016-solnet
+    level: gold
   - id: 2016-oss
     level: silver
   - id: 2016-pushpay
