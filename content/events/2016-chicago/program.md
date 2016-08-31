@@ -16,7 +16,7 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12" style="text-align:center;">
     <hr />
-    <strong><a href="https://www.youtube.com/watch?v=U9wBgFEnWjY">Live Stream</a>
+    <strong><a href="https://www.youtube.com/watch?v=Z9bY-R_pNoM">Live Stream</a>
     &mdash;
     <a href="https://www.streamtext.net/player?event=DevOpsDays">Transcription</a>
     &mdash;
