@@ -45,6 +45,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: ns1
     level: silver
+  - id: facebook
+    level: silver
   - id: redhat
     level: silver
   - id: chef
