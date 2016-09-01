@@ -9,6 +9,8 @@ type = "event"
   {{< cfp_dates >}}
 
 <hr>
+Our CFP has now ended. Thank you to all those who submitted!
+<hr>
 There are three ways to propose a session:
 <ol>
   <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
