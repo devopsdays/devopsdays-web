@@ -66,6 +66,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: 2016-idealo
     level: platinum
+  - id: puppet
+    level: platinum
   - id: example42
     level: silver
   - id: linuxmagazin
