@@ -8,6 +8,11 @@
 {
   "@context": "http://schema.org",
   "@type": "ExhibitionEvent",
+  {{ if and ($e.description) (ne $e.description "") }}
+    "description": "{{ $e.description }}",
+  {{ else }}
+    "description": "The conference that brings development and operations together.",
+  {{ end }}
   "name": "DevOpsDays {{ $e.city }} {{ $e.year }}",
   "startDate": "{{ $e.startdate }}",
   "endDate": "{{ $e.enddate }}",
