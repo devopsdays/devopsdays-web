@@ -6,8 +6,6 @@ type = "event"
 
 +++
 
-<div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
-</div>
+<script src='https://js.tito.io/v1'></script>
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+<tito-widget event="devopsaustralia/2016-sydney"></tito-widget>
