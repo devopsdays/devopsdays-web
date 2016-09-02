@@ -8,15 +8,11 @@ aliases = ["/events/2016-madison"]
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-DevOps Days is coming to Madison, WI! We plan to announce our speakers on September 7th, if you're interested in speaking. Consider <a href="/events/2016-madison/propose/">proposing a talk</a>!
+DevOps Days is coming to Madison, WI! Our CFP is now closed. Stay tuned for a full schedule. We hope to have it announced by Friday, September 9th!
 
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
-
-<!-- <iframe src="https://docs.google.com/forms/d/1wFJR6-czvW6sM6_yKN-Alk0Im_MLXaO5Fm6XOQboOfY/viewform?embedded=true#start=embed"
-            width="570" height="1500" frameborder="0" marginheight="0"
-            marginwidth="0">Loading...</iframe> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +32,14 @@ DevOps Days is coming to Madison, WI! We plan to announce our speakers on Septem
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
