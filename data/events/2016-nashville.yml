@@ -45,6 +45,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: opensky
     level: silver
+  - id: ena
+    level: silver
+  - id: stratasan
+    level: beverage
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
@@ -56,3 +60,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Media
   - id: badges
     label: Badges
+  - id: beverage
+    label: Beverage
