@@ -7,9 +7,8 @@ aliases = ["/events/2016-oslo"]
 +++
 
 <div style="text-align:center;">
-  <h2>{{< event_start >}} - {{< event_end >}}</h2>
-  <h1><a href="http://www.eventbrite.co.uk/e/devopsdays-oslo-2016-tickets-24508983028?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=24508983028" height=" 80px" alt="Register for DevOpsDays Oslo 2016" /></a></h1>
-  {{< event_logo >}}
+  <iframe width="500" height="300" src="https://www.youtube.com/embed/2vXNyVX7BAo" frameborder="0" allowfullscreen></iframe>
+  <!--{{< event_logo >}}-->
 </div>
 
 <p><strong>For the first time, DevOpsDays is coming to Oslo!</strong></p>
