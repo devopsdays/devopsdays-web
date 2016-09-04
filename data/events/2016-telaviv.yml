@@ -45,6 +45,7 @@ team_members: # Name is the only required field for team members.
   - name: "Uri Cohen"
   - name: "Dor Laor"
   - name: "Jonathann Zenou"
+  - name: "Corey Quinn"
 organizer_email: "organizers-telaviv-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-telaviv-2016@devopsdays.org" # Put your proposal email address here
 
