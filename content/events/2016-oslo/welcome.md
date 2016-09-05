@@ -7,7 +7,7 @@ aliases = ["/events/2016-oslo"]
 +++
 
 <div style="text-align:center;">
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/2vXNyVX7BAo" frameborder="0" allowfullscreen></iframe>
+  <iframe width="500" height="300" src="https://youtu.be/BTTqGoLdRJM" frameborder="0" allowfullscreen></iframe>
   <!--{{< event_logo >}}-->
 </div>
 
