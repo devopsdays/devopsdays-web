@@ -15,7 +15,7 @@ type="event"
 
 <div class="row">
   <div class="col-md-6">
-    <div class="row"><div class="col-md-12"><h3>Day 1</h3></div></div>
+    <div class="row"><div class="col-md-12"><h3>Day 1 - Saturday</h3></div></div>
     <div class="row"><div class="col-md-4"><time>08:00-08:45</time></div><div class="col-md-6 box">Registration, Breakfast, and Sponsor Booths Open</div></div>
     <div class="row"><div class="col-md-4"><time>08:45-09:00</time></div><div class="col-md-6 box"><strong>Opening Welcome</strong></div></div>
     <div class="row"><div class="col-md-4"><time>09:00-09:30</time></div><div class="col-md-6 box">Talk 1 - Keynote - Speaker</div></div>
@@ -49,7 +49,7 @@ type="event"
     <div class="row"><div class="col-md-4"><time>17:00-late</time></div><div class="col-md-6 box"><strong>Evening Event & Happy Hour</strong></div></div>
   </div>
   <div class="col-md-6">
-    <div class="row"><div class="col-md-12"><h3>Day 2</h3></div></div>
+    <div class="row"><div class="col-md-12"><h3>Day 2 - Sunday</h3></div></div>
     <div class="row"><div class="col-md-4"><time>08:00-09:00</time></div><div class="col-md-6 box">Registration, Breakfast, and Sponsor Booths Open</div></div>
     <div class="row"><div class="col-md-4"><time>09:00-10:20</time></div><div class="col-md-6 box"><strong>Workshops Begin</strong>
         &nbsp;<br>
