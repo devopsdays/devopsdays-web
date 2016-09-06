@@ -10,8 +10,7 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-~~Early bird~~ Tickets are now available at our [registration site](https://devopsdays-wellington-2016.lilregie.com/step1)
-
+~~Early bird~~ Tickets are now sold out
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -58,7 +57,7 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-  <a href="https://devopsdays-wellington-2016.lilregie.com/step1">Register to attend the conference!</a>
+   At 175 attendees the conference is now sold out
   </div>
 </div>
 
