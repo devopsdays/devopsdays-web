@@ -8,9 +8,9 @@ aliases = ["/events/2016-capetown/program/daniel-maher/"]
 
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-    <p><strong>Title:</strong>DevOps: Past, Present, Future</p>
-    <p><strong>Description:</strong></p>
-  </div>
-</div>
+<div class="col-12">
+  <p><strong>Title:</strong>
+DevOps: Past, Present, Future
+</p>
+
+<p><strong>Abstract:</strong></p>
