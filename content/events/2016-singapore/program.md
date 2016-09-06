@@ -32,20 +32,20 @@ type="event"
     </div>
     <div class="row">
       <div class="col-md-4"><time>10:10-10:40</time></div>
-      <div class="col-md-6 box">Adrian Cole - An Introduction to Distributed Tracing and Zipkin</div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/acole">Adrian Cole - An Introduction to Distributed Tracing and Zipkin</a></div>
     </div>
     <div class="row">
       <div class="col-md-4"><time>10:40-11:10</time></div>
-      <div class="col-md-6 box">Jason Man - I want DevOps, but how do I justify it?</div></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/jman">Jason Man - I want DevOps, but how do I justify it?</a></div></div>
     <div class="row">
       <div class="col-md-4"><time>11:10-11:20</time></div>
       <div class="col-md-6 box">Break</div></div>
     <div class="row">
       <div class="col-md-4"><time>11:20-11:50</time></div>
-      <div class="col-md-6 box">Mike Place - Event-driven automation</div></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/mplace">Mike Place - Event-driven automation</a></div></div>
     <div class="row">
       <div class="col-md-4"><time>11:50-12:20</time></div>
-      <div class="col-md-6 box">Bret Gray - DevOps: A cultural primer and practical lessons learnt</div></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/bgray">Bret Gray - DevOps: A cultural primer and practical lessons learnt</a></div></div>
     <div class="row">
       <div class="col-md-4"><time>12:20-12:30</time></div>
       <div class="col-md-6 box">Announcements</div>
