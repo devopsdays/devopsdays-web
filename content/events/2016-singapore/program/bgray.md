@@ -1,7 +1,7 @@
 +++
 City = "Singapore"
 Year = "2016"
-date = "2016-06-14T11:00:00-06:00"
+date = "2016-10-08T11:50:00+08:00"
 title = "Brett Gray"
 type = "talk"
 

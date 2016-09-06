@@ -1,30 +1,25 @@
 +++
 City = "Singapore"
 Year = "2016"
-date = "2016-06-14T11:00:00-06:00"
-title = "Nicole Forsgren"
+date = "2016-10-08T10:40:00+08:00"
+title = "Jason Man"
 type = "talk"
 
 +++
 
 <div class="span-15">
   <div class="span-15 last">
-    <h2>Keynote - Sciencing the Crap Out of DevOps</h2>
+    <h2>I want DevOps, but how do I justify it?</h2>
     <h2>Description</h2>
     <p>
-    For years we all worked under the (incorrect) assumption that going faster meant breaking things. After several years of science-ing, Nicole has identified the key elements that enable not just higher throughput but also higher stability and quality, lower cost, and happier teams. Discover how continuous delivery and lean management practices produce higher IT performance (and indeed what we might mean by IT performance), along with how to measure culture and its impact on IT and organizational culture. Find out how we actually ensure our results are reliable and meaningful. Learn the patterns and practices used by high performing organizations to outcompete their peers.    </p>
+    This talk will focus on the journey to adopting DevOps within your organisation. Many conversations we have with our customers start with “How will this deliver business value?”. We will aim to answer this question and show you steps of which you can take to truly understand what the DevOps culture is really about. We will also provide some quick wins that any organisation can begin to adopt without the big “DevOps transformation project”. To begin to quantify and justify the feasibility of a DevOps transformation, we will delve into the different areas required to help you build a business case to ensure you get your ROI.   </p>
 
     <h2>When</h2>
     Saturday, 8th October
 
     <h2>About</h2>
     <p>
-    <img src="https://pbs.twimg.com/profile_images/544902367666114561/y3ZskhG__400x400.jpeg" style="width: 150px; float: left; margin-right: 1em;">
-    I am an IT impacts expert who shows leaders and tech professionals how to unlock the potential of technology change. Best known for my work with tech professionals and as the lead investigator on the Puppet Labs State of DevOps study, I am a consultant, expert, and researcher in DevOps, IT adoption and impacts, and knowledge management. I am the Director of Organizational Performance and Analytics at Chef. You can read more about it here, and about what Gartner says about my move from academia here. I am also an Academic Partner at Clemson University. In a previous life, I was a professor, sysadmin, and hardware performance analyst.
-
-    I hold a PhD in Management Information Systems and a Masters in Accounting. I have been awarded public and private research grants (funders include NASA and the NSF), and my work has been featured in various media outlets, including the Wall Street Journal, Forbes, ComputerWorld, and InfoWeek. I have been named a Top 100 Leader and renowned expert in DevOps, and a Top 20 Most Influential Women in DevOps by TechBeacon.
-    <br>
-    {{< event_twitter nicolefv >}}
+    Jason Man is an experienced Continuous Delivery and DevOps consultant at Forest Technologies. Forest has been helping companies worldwide transform their ability to deliver value to their customers through the adoption of DevOps and Automation for over 12 years.  We’ve worked across a variety of sectors including retail, telecoms, financial, online gambling and online travel, from the biggest enterprises to small start-ups.  This gives us a unique insight into what it takes for companies to successfully adopt a collaborative culture, and the underpinning processes and tools to increase the speed and quality that software and software-related services can be delivered to customers.   Jason’s previous experience covers most aspects of the SDLC working as a Developer, Build and Release Engineering as well as architecting and implementing DevOps practices for many organisations around the world.
     </p>
   </div>
   <a href="/events/2016-singapore/proposals/">back</a>
