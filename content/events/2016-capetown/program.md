@@ -72,7 +72,7 @@ type = "event"
         <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        Talk #2
+        <a href="/events/2016-capetown/program/daniel-maher">Spencer Krym (IBM) </br> Code Review for Operations</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -209,7 +209,7 @@ type = "event"
         <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-capetown/program/seth-vargo">Seth Vargo (HashiCorp)</br>Managing secrets with Vault</a>
+        <a href="/events/2016-capetown/program/seth-vargo">Seth Vargo (HashiCorp)</br>Building Secure Applications with Vault</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot
