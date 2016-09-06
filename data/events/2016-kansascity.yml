@@ -37,11 +37,8 @@ team_members: # Name is the only required field for team members.
 - name: "CJ Obermaier"
 - name: "Ryan McNair"
 - name: "Tom Martin"
-- name: "Brian Stevens"
-- name: "Chip Warden"
 - name: "Chris Stein"
 - name: "Chase Pettet"
-- name: "Curtis Cockerham"
 - name: "Bert Weidt"
 organizer_email: "organizers-kansascity-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-kansascity-2016@devopsdays.org" # Put your proposal email address here
@@ -77,3 +74,53 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
+
+speakers:
+  - id: "charles-butler"
+    level: talk
+  - id: "baruch-sadogursky"
+    level: talk
+  - id: "david-blank-edelman"
+    level: talk 
+  - id: "alyssa-nicoll"
+    level: talk 
+  - id: "kyle-sexton"
+    level: talk 
+  - id: "pauly-comtois"
+    level: talk 
+  - id: "cynthia-thomas"
+    level: talk 
+  - id: "caleb-hyde"
+    level: talk 
+  - id: "jeffrey-sykes"
+    level: talk 
+  - id: "kevin-slattery"
+    level: talk 
+  - id: "kevin-obrien"
+    level: talk 
+  - id: "scott-smerchek"
+    level: talk 
+  - id: "ashmita-sarma"
+    level: talk 
+  - id: "aaron-blythe"
+    level: talk
+  - id: "leon-fayer"
+    level: talk 
+  - id: "suzie-prince"
+    level: talk 
+  - id: "aj-bowen"
+    level: talk 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
