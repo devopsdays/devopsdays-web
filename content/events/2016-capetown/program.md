@@ -72,7 +72,7 @@ type = "event"
         <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-capetown/program/daniel-maher">Spencer Krym (IBM) </br> Code Review for Operations</a>
+        <a href="/events/2016-capetown/program/spencer-krum">Spencer Krum (IBM) </br> Code Review for Operations</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
