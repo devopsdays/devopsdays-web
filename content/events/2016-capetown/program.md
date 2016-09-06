@@ -54,7 +54,7 @@ type = "event"
         <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-capetown/program/daniel-maher">Daniel Maher (Mozilla)</br>DevOps: Past, Present, Future</a>
+        <a href="/events/2016-capetown/program/daniel-maher">Daniel Maher (Mozilla)</br>Where are we going and how did we get here?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot
