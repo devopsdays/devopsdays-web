@@ -18,15 +18,38 @@ type="event"
     <div class="row"><div class="col-md-12"><h3>Day 1 - Saturday</h3></div></div>
     <div class="row"><div class="col-md-4"><time>08:00-08:45</time></div><div class="col-md-6 box">Registration, Breakfast, and Sponsor Booths Open</div></div>
     <div class="row"><div class="col-md-4"><time>08:45-09:00</time></div><div class="col-md-6 box"><strong>Opening Welcome</strong></div></div>
-    <div class="row"><div class="col-md-4"><time>09:00-09:30</time></div><div class="col-md-6 box">Talk 1 - Keynote - Speaker</div></div>
-    <div class="row"><div class="col-md-4"><time>09:30-10:00</time></div><div class="col-md-6 box">Talk 2 - Keynote - Speaker</div></div>
-    <div class="row"><div class="col-md-4"><time>10:00-10:10</time></div><div class="col-md-6 box">Break</div></div>
-    <div class="row"><div class="col-md-4"><time>10:10-10:40</time></div><div class="col-md-6 box">Talk 3 - Speaker</div></div>
-    <div class="row"><div class="col-md-4"><time>10:40-11:10</time></div><div class="col-md-6 box">Talk 4 - Speaker</div></div>
-    <div class="row"><div class="col-md-4"><time>11:10-11:20</time></div><div class="col-md-6 box">Break</div></div>
-    <div class="row"><div class="col-md-4"><time>11:20-11:50</time></div><div class="col-md-6 box">Talk 5 - Speaker</div></div>
-    <div class="row"><div class="col-md-4"><time>11:50-12:20</time></div><div class="col-md-6 box">Talk 6 - Speaker</div></div>
-    <div class="row"><div class="col-md-4"><time>12:20-12:30</time></div><div class="col-md-6 box">Announcements</div></div>
+    <div class="row">
+      <div class="col-md-4"><time>09:00-09:30</time></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/mhashimoto">Mitchell Hashimoto - Keynote</a></div>
+    </div>
+    <div class="row">
+      <div class="col-md-4"><time>09:30-10:00</time></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/nforsgren">Nicole Forsgren - Sciencing the Crap Out of DevOps</a></div>
+    </div>
+    <div class="row">
+      <div class="col-md-4"><time>10:00-10:10</time></div>
+      <div class="col-md-6 box">Break</div>
+    </div>
+    <div class="row">
+      <div class="col-md-4"><time>10:10-10:40</time></div>
+      <div class="col-md-6 box">Adrian Cole - An Introduction to Distributed Tracing and Zipkin</div>
+    </div>
+    <div class="row">
+      <div class="col-md-4"><time>10:40-11:10</time></div>
+      <div class="col-md-6 box">Jason Man - I want DevOps, but how do I justify it?</div></div>
+    <div class="row">
+      <div class="col-md-4"><time>11:10-11:20</time></div>
+      <div class="col-md-6 box">Break</div></div>
+    <div class="row">
+      <div class="col-md-4"><time>11:20-11:50</time></div>
+      <div class="col-md-6 box">Mike Place - Event-driven automation</div></div>
+    <div class="row">
+      <div class="col-md-4"><time>11:50-12:20</time></div>
+      <div class="col-md-6 box">Bret Gray - DevOps: A cultural primer and practical lessons learnt</div></div>
+    <div class="row">
+      <div class="col-md-4"><time>12:20-12:30</time></div>
+      <div class="col-md-6 box">Announcements</div>
+    </div>
     <div class="row"><div class="col-md-4"><time>12:30-13:15</time></div><div class="col-md-6 box"><strong>Lunch (catered)</strong></div></div>
     <div class="row"><div class="col-md-4"><time>13:15-14:00</time></div><div class="col-md-6 box">Panel Discussion</div></div>
     <div class="row"><div class="col-md-4"><time>14:00-14:40</time></div><div class="col-md-6 box">Ignites (max 8)
