@@ -10,7 +10,7 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-~~Early bird~~ Tickets are now sold out
+Sorry, the conference is now SOLD OUT, since the venue is limited to 175 attendees. Applications for diversity tickets close on 15th September. A wait list is in operation for unallocated or returned tickets.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -18,8 +18,8 @@ aliases = ["/events/2016-newzealand"]
 
 <hr/>
 
-<div style="float:left;">
-  <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo.png" style="max-width: 90%;">
+<div>
+  <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo-wide.png" style="max-width: 90%;">
 </div> 
 
 DevOps is all about Continuous Improvement - but what is meant by this?  What are we improving?  Why do we want to continuously improve?  
