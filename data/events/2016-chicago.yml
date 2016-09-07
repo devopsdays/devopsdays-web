@@ -18,7 +18,7 @@ nav_elements:
   #   url: http://cfp.devopsdayschi.org
   - name: program
   - name: speakers
-  - name: registration
+  # - name: registration
   - name: sponsor
   - name: volunteer
   - name: location
@@ -29,11 +29,14 @@ team_members:
   - name: "Jerry Cattell"
     twitter: "jcattell"
   - name: "Brian Devlin"
+    twitter: "nilved"
   - name: "Joshua Goldman"
   - name: "Cora Hays-Magan"
   - name: "Michael Lanyon"
+    twitter: "lanyonm"
   - name: "Aaron Lindstrom"
   - name: "Chris Read"
+    twitter: "cread"
   - name: "Kevin Reedy"
   - name: "Sasha Rosenbaum"
   - name: "Matt Stratton"
