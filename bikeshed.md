@@ -1,0 +1,1 @@
+It should be red.
