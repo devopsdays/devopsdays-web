@@ -47,8 +47,8 @@ proposal_email: "proposals-belgium-2016@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: chef
     level: gold
-#  - id: arresteddevops
-#    level: community
+  - id: cegeka
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
