@@ -1,1 +1,1 @@
-It should be red.
+It should be red. (No way. Pink!)
