@@ -77,13 +77,15 @@ type="event"
     <div class="row"><div class="col-md-4"><time>09:00-10:20</time></div><div class="col-md-6 box"><strong>Workshops Begin</strong>
         &nbsp;<br>
         &nbsp;<br>
+        <ul>
+        <li><a href="/events/2016-singapore/program/seth-vargo">HashiCorp - Modern Infrastructure with Terraform & Consul</a>
+        <li><a href="/events/2016-singapore/program/ken-mugrage">ThoughtWorks - Creating a Continuous Delivery Pipeline: A Hands-On Workshop</a>
+        <li><a href="/events/2016-singapore/program/will-thames">Ansible - From Zero to Best Practices</a>
+        </ul>
         &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
+        <p>
+        <i>Workshops run in parallel and require a workshop ticket</i>
+        </p>
       </div>
     </div>
     <div class="row"><div class="col-md-4"><time>10:20-10:30</time></div><div class="col-md-6 box">Break</div></div>
