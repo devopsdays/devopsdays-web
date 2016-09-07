@@ -25,6 +25,9 @@ nav_elements:
   - name: conduct
 
 team_members:
+  - name: "Andy Domeier"
+    twitter: "ajdomie"
+    employer: "SPS Commerce"
   - name: "Bridget Kromhout"
     twitter: "bridgetkromhout"
     employer: "Pivotal"
