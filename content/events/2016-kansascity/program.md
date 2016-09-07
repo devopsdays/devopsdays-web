@@ -104,6 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
+        <a href="/events/2016-kansascity/program/scott-howell"> Scott Howell and </a>
         <a href="/events/2016-kansascity/program/caleb-hyde">Caleb Hyde - Outgrowing a Startup Culture or Learning from the Trenches: a DevOps war story</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
@@ -303,8 +304,10 @@ type = "event"
           <li><a href="/events/2016-kansascity/program/charles-butler">Charles Butler - Magic of Application Modeling</a></li>
           <li><a href="/events/2016-kansascity/program/ashmita-sarma">Ashmita Sarma - Ansible Wizardry 101</a></li>
           <li><a href="/events/2016-kansascity/program/alyssa-nicoll">Alyssa Nicoll - Innovating is not about tech, but psych</a></li>
+          <li><a href="/events/2016-kansascity/program/jeffrey-sykes">Jeffrey Sykes - Escaping the Black Hole of Release Management</a></li>
+
         </ul>
-        <br/><br/><br/><br/><br/>
+        <br/><br/>
       </div>
     </div> 
     <div class = "row">

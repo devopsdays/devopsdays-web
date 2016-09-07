@@ -15,7 +15,7 @@ Outgrowing a Startup Culture
 <p><strong>Description:</strong></p>
 
 <p>
-If your company is bringing in millions in revenue, but still editing configs by hand, there’s a crisis of identity. We’ll share our experiences of growing Pinsight Media's platforms for resiliency and scale.
+If your company is bringing in millions in revenue, but still editing configs by hand, there’s a crisis of identity. We’ll share our experiences of growing small companies' platforms  for resiliency and scale.
 </p>
 <p>
 
