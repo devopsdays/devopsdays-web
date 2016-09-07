@@ -7,7 +7,7 @@ aliases = ["/events/2016-oslo"]
 +++
 
 <div style="text-align:center;">
-<h2>Live streaming starts at 9:20 am (CET+1)</h2>
+<h2>Videos from Day 2</h2>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/sr3OS6wfxzc" frameborder="0" allowfullscreen></iframe>
   <h2>Videos from Day 1</h2>
   <h3><a href="https://youtu.be/BTTqGoLdRJM">https://youtu.be/BTTqGoLdRJM</a></h3>
