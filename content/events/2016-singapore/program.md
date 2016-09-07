@@ -20,11 +20,11 @@ type="event"
     <div class="row"><div class="col-md-4"><time>08:45-09:00</time></div><div class="col-md-6 box"><strong>Opening Welcome</strong></div></div>
     <div class="row">
       <div class="col-md-4"><time>09:00-09:30</time></div>
-      <div class="col-md-6 box"><a href="/events/2016-singapore/program/mhashimoto">Mitchell Hashimoto - Keynote</a></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/mitchell-hashimoto">Mitchell Hashimoto - Keynote</a></div>
     </div>
     <div class="row">
       <div class="col-md-4"><time>09:30-10:00</time></div>
-      <div class="col-md-6 box"><a href="/events/2016-singapore/program/nforsgren">Nicole Forsgren - Sciencing the Crap Out of DevOps</a></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/nicole-forsgren">Nicole Forsgren - Sciencing the Crap Out of DevOps</a></div>
     </div>
     <div class="row">
       <div class="col-md-4"><time>10:00-10:10</time></div>
@@ -32,20 +32,20 @@ type="event"
     </div>
     <div class="row">
       <div class="col-md-4"><time>10:10-10:40</time></div>
-      <div class="col-md-6 box"><a href="/events/2016-singapore/program/acole">Adrian Cole - An Introduction to Distributed Tracing and Zipkin</a></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/adrian-cole">Adrian Cole - An Introduction to Distributed Tracing and Zipkin</a></div>
     </div>
     <div class="row">
       <div class="col-md-4"><time>10:40-11:10</time></div>
-      <div class="col-md-6 box"><a href="/events/2016-singapore/program/jman">Jason Man - I want DevOps, but how do I justify it?</a></div></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/jason-man">Jason Man - I want DevOps, but how do I justify it?</a></div></div>
     <div class="row">
       <div class="col-md-4"><time>11:10-11:20</time></div>
       <div class="col-md-6 box">Break</div></div>
     <div class="row">
       <div class="col-md-4"><time>11:20-11:50</time></div>
-      <div class="col-md-6 box"><a href="/events/2016-singapore/program/mplace">Mike Place - Event-driven automation</a></div></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/mike-place">Mike Place - Event-driven automation</a></div></div>
     <div class="row">
       <div class="col-md-4"><time>11:50-12:20</time></div>
-      <div class="col-md-6 box"><a href="/events/2016-singapore/program/bgray">Bret Gray - DevOps: A cultural primer and practical lessons learnt</a></div></div>
+      <div class="col-md-6 box"><a href="/events/2016-singapore/program/brett-gray">Brett Gray - DevOps: A cultural primer and practical lessons learnt</a></div></div>
     <div class="row">
       <div class="col-md-4"><time>12:20-12:30</time></div>
       <div class="col-md-6 box">Announcements</div>
