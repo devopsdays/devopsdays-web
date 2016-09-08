@@ -57,7 +57,7 @@ sponsors:
   - id: 2016-victorops
     level: gold
   - id: taos
-    level: silver
+    level: dinner
   - id: tesora
     level: bronze
   - id: thenewstack
@@ -84,6 +84,9 @@ sponsors:
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: diamond
     label: Diamond
+  - id: dinner
+    label: Speaker Dinner
+    max: 1
   - id: gold
     label: Gold
   - id: silver
