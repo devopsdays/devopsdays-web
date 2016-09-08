@@ -143,7 +143,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
   </tr>
 </table>
 
-### Conference Social – Availability 1 (R30,000 ~ R35,000)
+### Conference Social (Sold Out)
 <table>
   <tr>
     <td width="70%"><h4>Details</h4></td>

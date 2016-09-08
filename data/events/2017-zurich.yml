@@ -46,7 +46,7 @@ team_members: # Name is the only required field for team members.
     employer: "tba"
   - name: "Bastian Widmer"
     twitter: "dasrecht"
-    employer: "amazee.io"    
+    employer: "amazee.io"
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
 
@@ -57,8 +57,10 @@ sponsors:
     level: gold
   - id: glenfis
     level: gold
-  - id: tbd
-    level: Evening Event
+  - id: redhat
+    level: gold
+  - id: ipt
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

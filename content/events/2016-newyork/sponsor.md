@@ -29,7 +29,7 @@ DevOpsDays is a self-organizing conference for practitioners that depends on spo
     </tr>
    <tr>
     <td></td>
-    <td colspan="3" style="padding: 5px 0 12px 0;text-align: center;">[Email us](mailto:organizers-nyc-2016@devopsdaysnyc.org?subject=DevOpsDays New York 2016 Sponsorship) for availability and payment</td>
+    <td colspan="3" style="padding: 5px 0 12px 0;text-align: center;">[Email us](mailto:organizers-nyc-2016@devopsdays.org?subject=DevOpsDays New York 2016 Sponsorship) for availability and payment</td>
   </tr>
   <tr>
   	<td>Included tickets</td>
