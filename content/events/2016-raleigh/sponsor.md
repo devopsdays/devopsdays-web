@@ -13,7 +13,9 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-<h2>Sponsorship Packages (only three spots left for either Platinum or Gold Sponsors!)</h2>
+<h2>Sponsorship Packages</h2>
+<h3>Only three spots left for either Platinum or Gold Sponsors!</h3>
+<br><br>
 <h3>Platinum Sponsor ($5000)</h3>
 
 * 3 tickets included
