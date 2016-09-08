@@ -243,7 +243,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-       <a href="/events/2016-raleigh/program/rebecca-fernandez/">Rebecca Fernandez & Jen Krieger - How to be more open, collaborative, and inclusive at work</a>
+       <a href="/events/2016-raleigh/program/rebecca-fernandez/">Rebecca Fernandez & Jen Krieger - Tools aren't just about tech</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
