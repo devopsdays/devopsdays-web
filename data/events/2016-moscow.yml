@@ -30,11 +30,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
+  - name: "Boris Zlobin"
+    employer: "Logrocon - Registrations, event sponsorship"
+  - name: "Michael Krivilev"
+    employer: "Logrocon - General event questions"
+  - name: "Vitaly Mosin"
+    employer: "Logrocon - General event questions"
+  - name: "Vladislav Zavisnov"
+    employer: "RT-Labs - Technical information, speakers"
+  - name: "Alexander Titov"
+    employer: "express42 - General event questions"
 organizer_email: "organizers-moscow-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-moscow-2016@devopsdays.org" # Put your proposal email address here
 
