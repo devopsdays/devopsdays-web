@@ -9,7 +9,7 @@ startdate: 2016-10-27   # The start date of your event. Leave blank if you don't
 enddate: 2016-10-28  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-06-03  # start accepting talk proposals.
-cfp_date_end: 2016-09-07 # close your call for proposals.
+cfp_date_end: 2016-09-11 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 # Location
@@ -47,8 +47,8 @@ proposal_email: "proposals-belgium-2016@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: chef
     level: gold
-#  - id: arresteddevops
-#    level: community
+  - id: cegeka
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

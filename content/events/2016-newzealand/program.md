@@ -96,7 +96,7 @@ type = "event"
         <time>11:25-11:35</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        TBA
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -303,7 +303,7 @@ type = "event"
         <time>11:50-12:00</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        TBA
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

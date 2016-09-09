@@ -17,11 +17,25 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-raleigh-2016-tickets-23830096460
+  - name: volunteer
   - name: contact
   - name: location
   - name: conduct
 
-team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "Chris Knotts", "Mark Mzyk", "Katie Cothran"]
+team_members: # Name is the only required field for team members.
+  - name: "Jen Krieger"
+  - name: "Joe Brockmeier"
+  - name: "Ann Marie Fred"
+  - name: "Kaete Piccirilli"
+  - name: "Chris Knotts"
+  - name: "Mark Mzyk"
+  - name: "Katie Cothran"
+
+# Add twitter and/or employer to team member individual listings like this
+#  - name: "Foo Bar"
+#    twitter: "foobartwitter"
+#    employer: "Acme Inc"
+
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
@@ -51,7 +65,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: sumologic
     level: platinum
-
+  - id: thoughtworks-products
+    level: platinum
+  - id: pivotal
+    level: platinum
+  
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum

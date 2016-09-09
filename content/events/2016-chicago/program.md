@@ -20,7 +20,7 @@ type = "event"
     &mdash;
     <a href="https://www.streamtext.net/player?event=DevOpsDays">Transcription</a>
     &mdash;
-    <a href = "https://docs.google.com/spreadsheets/d/1qC97WQD0MNTZV1ZJEjJ1Uw-n469TqqK5qLudZmBw5L0/edit?usp=sharing">Day 1 Open Space Schedule</a>
+    <a href = "https://docs.google.com/spreadsheets/d/1qC97WQD0MNTZV1ZJEjJ1Uw-n469TqqK5qLudZmBw5L0/edit?usp=sharing">Open Space Schedule</a>
     <hr /></strong>
   </div>
 </div>

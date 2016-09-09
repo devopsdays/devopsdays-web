@@ -42,6 +42,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: appdynamics
     level: platinum
+  - id: veracode
+    level: platinum
   - id: pivotal
     level: gold
   - id: deis
@@ -74,6 +76,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: cumulus
     level: silver
+  - id: athenahealth
+    level: silver  
   - id: oreilly
     level: media
   - id: arresteddevops

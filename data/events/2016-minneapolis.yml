@@ -47,7 +47,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: optum
     level: platinum
-  - id: thoughtworks-products
+  - id: thoughtworks-products-before-20160908
     level: gold
   - id: signalfx
     level: silver

@@ -7,6 +7,7 @@ type = "event"
 
 <a href="http://www.mthkc.com/">Musical Theater Heritage</a> in Crown Center<br>
 2450 Grand Blvd #301, Kansas City, MO 64108<br>
+The event will take place on the third floor directly up the escalators inside the door on Grand Boulevard.
 
 Take a <a href="http://www.musicaltheaterheritage.com/RENTAL.html">Virtual Tour</a> of this awesome venue!
 

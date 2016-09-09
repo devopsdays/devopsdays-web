@@ -6,7 +6,7 @@ type = "event"
   {{< cfp_dates >}}
 <hr>
 <center>
-### <a href="https://www.papercall.io/devopsdaysmsn">Propose your session here!</a>
+##### Sorry, the CFP is now closed.
 </center>
 <hr>
 There are three ways to propose a session:
