@@ -102,19 +102,6 @@ type="event"
         &nbsp;<br>
       </div>
     </div>
-    <div class="row"><div class="col-md-4"><time>12:30-13:00</time></div><div class="col-md-6 box"><strong>Lunch (catered) [TBD]</strong></div></div>
-    <div class="row"><div class="col-md-4"><time>13:00-14:30</time></div><div class="col-md-6 box">Workshops continue [TBD]
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-        &nbsp;<br>
-       </div>
-     </div>
-    <div class="row"><div class="col-md-4"><time>14:30-15:00</time></div><div class="col-md-6 box"><strong>Workshops End [TBD]</strong></div></div>
+    <div class="row"><div class="col-md-4"><time>12:30-13:00</time></div><div class="col-md-6 box"><strong>Workshops End</strong></div></div>
  </div>
 </div>
