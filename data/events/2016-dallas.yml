@@ -64,6 +64,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: netapp
     level: gold
+  - id: 10thmagnitude
+    level: gold
   - id: upengroup
     level: gold
   - id: rightstar
@@ -76,12 +78,16 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: cumulus
     level: silver
+  - id: redhat
+    level: silver
   - id: athenahealth
-    level: silver  
+    level: silver
   - id: oreilly
     level: media
   - id: arresteddevops
     level: media
+  - id: devopslive
+    level: media    
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
@@ -89,8 +95,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: silver
     label: Silver
-  - id: community
-    label: Community
   - id: media
     label: Media
 
