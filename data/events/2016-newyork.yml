@@ -51,6 +51,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: veracode
     level: silver
+  - id: containership
+    level: silver 
   - id: chef
     level: bronze
   - id: etsy
@@ -58,6 +60,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: kickstarter
     level: bronze
   - id: cagedata
+    level: bronze
+  - id: ubuntu
     level: bronze
 #   - id: arresteddevops
 #     level: community
@@ -68,7 +72,9 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 3
   - id: silver
     label: Silver
+    max: 6
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
