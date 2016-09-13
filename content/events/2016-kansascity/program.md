@@ -275,7 +275,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/david-blank-edelman">David Blank Edelman - How can you Scale if you Don’t Trust It?</a>
+        <a href="/events/2016-kansascity/program/david-blank-edelman">David N. Blank-Edelman - How can you Scale if you Don’t Trust It?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
