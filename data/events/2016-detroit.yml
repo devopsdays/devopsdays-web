@@ -29,7 +29,6 @@ team_members: # Name is the only required field for team members.
   - name: "Joe Arnet"
   - name: "Vito Brooks"
   - name: "Adam Jurevicius"
-  - name: "Jeremy Wdowik"
   - name: "Trevor Smith"
   - name: "Allison Green"
 #  - name: "Full Name"
