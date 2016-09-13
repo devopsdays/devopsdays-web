@@ -119,8 +119,8 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   </table>
   <hr/>
 
-  <br/>
-  <br/>
 </div>
+[Sponsor details (in Portuguese)](http://brasilia.devopsdays.com.br/about/sponsor/)
+<br/>
 
 <hr/>
