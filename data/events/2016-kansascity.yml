@@ -52,7 +52,7 @@ sponsors:
   - id: servicenow
     level: gold
   - id: 2016-techtowntraining
-    level: gold    
+    level: gold
   - id: victorops
     level: silver
   - id: dstsystems
@@ -66,7 +66,9 @@ sponsors:
   - id: jfrog
     level: silver
   - id: thoughtworks-products
-    level: bronze   
+    level: bronze
+  - id: 2016-otsi
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -82,34 +84,32 @@ speakers:
   - id: "baruch-sadogursky"
     level: talk
   - id: "david-blank-edelman"
-    level: talk 
+    level: talk
   - id: "alyssa-nicoll"
-    level: talk 
+    level: talk
   - id: "kyle-sexton"
-    level: talk 
+    level: talk
   - id: "pauly-comtois"
-    level: talk 
+    level: talk
   - id: "cynthia-thomas"
-    level: talk 
+    level: talk
   - id: "caleb-hyde"
-    level: talk 
+    level: talk
   - id: "jeffrey-sykes"
-    level: talk 
+    level: talk
   - id: "kevin-slattery"
-    level: talk 
+    level: talk
   - id: "kevin-obrien"
-    level: talk 
+    level: talk
   - id: "scott-smerchek"
-    level: talk 
+    level: talk
   - id: "ashmita-sarma"
-    level: talk 
+    level: talk
   - id: "aaron-blythe"
     level: talk
   - id: "leon-fayer"
-    level: talk 
+    level: talk
   - id: "suzie-prince"
-    level: talk 
+    level: talk
   - id: "aj-bowen"
-    level: talk 
-
-
+    level: talk
