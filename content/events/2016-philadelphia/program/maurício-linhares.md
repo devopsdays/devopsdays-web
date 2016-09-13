@@ -1,6 +1,6 @@
 +++
 date = "2016-09-12T11:08:48"
-linktitle = "maurício-linhares"
+linktitle = "mauricio-linhares"
 title = "Maurício Linhares"
 type = "talk"
 
