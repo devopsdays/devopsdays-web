@@ -13,7 +13,8 @@ cfp_date_end: 2016-09-30 # close your call for proposals.
 cfp_date_announce: 2016-10-08 # inform proposers of status
 
 # Location
-#
+#-15.792391, -47.887187 = Brasilia/DF
+#-15.7951612, -47.8934636 = Parque Cidade Corporate, Brasilia/DF
 coordinates: "-15.792391, -47.887187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Brasília/DF, Brazil" # Defaults to city, but you can make it the venue name.
 #
@@ -47,7 +48,6 @@ team_members: # Name is the only required field for team members.
   - name: "Rogério Fernandes Pereira"
 organizer_email: "organizers-brasilia-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-brasilia-2016@devopsdays.org" # Put your proposal email address here
-ga_tracking_id: "UA-83133994-2"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -62,6 +62,8 @@ sponsors:
     level: community
   - id: arresteddevops
     level: community
+  - id: instruct
+    level: supporter
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -78,5 +80,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: supporter
+    label: Supporter
   - id: community
     label: Community
