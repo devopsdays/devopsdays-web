@@ -23,7 +23,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 1 - Thursday, 10/20/2016</h3>
+        <h3>Day 1 - Thu, 10/20/2016</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -210,7 +210,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 2 - Friday, 10/21/2016</h3>
+        <h3>Day 2 - Fri, 10/21/2016</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
