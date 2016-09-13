@@ -57,6 +57,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: kickstarter
     level: bronze
+  - id: cagedata
+    level: bronze
 #   - id: arresteddevops
 #     level: community
 
