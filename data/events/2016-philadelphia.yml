@@ -14,6 +14,7 @@ location: "Chemical Heritage Foundation" # The name of your location
 nav_elements:
   - name: welcome
   - name: contact
+  - name: program
   - name: speakers
   - name: location
   - name: registration

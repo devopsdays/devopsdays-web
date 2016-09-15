@@ -14,7 +14,9 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
+<!-- ### Even if you don't propose, please consider
+
+{{< event_link page="proposals" text="commenting on proposals submitted by others" >}} -->
 
 Our main criteria to make it to the top selection are:
 
@@ -24,8 +26,9 @@ Our main criteria to make it to the top selection are:
 
 <strong>How to submit a proposal:</strong>
 
-* The prefered method: fill in the form below (questions only in Portuguese for now)
-* **or** send us an email to [{{< email_proposals >}}] with the following information
+* fill in the form below (questions only in Portuguese for now)
+
+<!-- * **or** send us an email to [{{< email_proposals >}}] with the following information
 
     <ol>
     	<li>Proposal working title (can be changed later)</li>
@@ -39,6 +42,6 @@ Our main criteria to make it to the top selection are:
     	<li>Propose your own talk; don't have someone else do it for you.</li>
     	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
     	<li>Multiple proposals welcome... just follow the other rules</li>
-    </ul>
+    </ul> -->
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2dKOvCB1fVKnRkUD2C0dJ_f0QzZBIDQTeGMd9grSSYEibcg/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>

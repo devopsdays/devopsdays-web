@@ -17,3 +17,9 @@ The Taubman Center parking structure is located on Baltimore between Cass and 2n
 <p>
 <a href="http://www.collegeforcreativestudies.edu/support-ccs/capital-campaign-advancing-the-creative-spirit/a-alfred-taubman-center-for-design-education">The A. Alfred Taubman Center for Design Education</a> is an educational complex devoted to creativity. It houses a learning community, focused on art and design, extending from middle school through graduate school and beyond into the professional realm. It houses several departments for the College of Creative Studies, a library, dormitory, gymnasium, book store, cafe, and conference space. The building, formerly known as the Argonaut building, was designed by Albert Kahn for General Motors.
 </p>
+<h2>Hotel</h2>
+<p>
+We have reserved a block of rooms at the <a
+href="http://www.hotelstregisdetroit.com/">Hotel St. Regis</a>.
+<p>King or Double rooms are $119, and valet parking is $20/day. Use this
+<a href="http://bookings.ihotelier.com/bookings.jsp?hotelID=13247&userType=GRP">link to reservations</a> and enter group code `GDOP`
