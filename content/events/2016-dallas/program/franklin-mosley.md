@@ -6,8 +6,10 @@ title = "Franklin Mosley"
 type = "talk"
 +++
 
-**Title:** RoboCop: Bringing law and order to CICD 
+**Title:** RoboCop: Bringing law and order to CICD
 
 **Description:**
 
-Franklin has 15 years experience as an information security professional, and prior to that, was a software engineer, which makes him perfectly suited for his passionate focus on Application Security. At Ellucian, a leader in higher education technology, his mission is to help effectively and efficiently develop, deliver and support the most secure platform possible. He received his MS and BS in Computer Science, is an active participant in various security groups, still likes to write code, and enjoys participating in capture the flag challenges. Aside from technology and security, Franklin is a tennis player, enjoys traveling and photography.
+In the movie, RoboCop is given three primary directives: "Serve the public trust, Protect the innocent, and Uphold the law". We built our own RoboCop in order to bring law and order to our CI/CD pipeline. DevOps practices are all about enabling fast and frequent delivery of new software. In order to keep pace in a DevOps culture, application security must be reliably integrated into the CI/CD pipeline.
+
+In this talk, we will show how our small AppSec team combined automated tools along with human oversight in order to achieve our directives at scale, while winning the hearts and minds of our development teams.
