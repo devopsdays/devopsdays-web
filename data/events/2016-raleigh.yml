@@ -86,7 +86,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: media
     label: Media
   - id: community
-    label: community
+    label: Community
 
 speakers:
   - id: "michael-dehaan"
