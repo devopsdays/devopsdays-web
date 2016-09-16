@@ -244,7 +244,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/berenice-venegas-cotero/">Berenice Venegas Cotero (IT Consultant) - Infrastructure Automation</a>
+        <a href="/events/2016-philadelphia/program/berenice-venegas-cotero/">Berenice Venegas Cotero - TBD</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
