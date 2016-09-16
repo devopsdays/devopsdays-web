@@ -51,6 +51,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: beverage
   - id: pivotal
     level: gold
+  - id: netapp
+    level: silver
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
