@@ -15,7 +15,7 @@ cfp_date_announce: 2016-10-08 # inform proposers of status
 # Location
 #-15.792391, -47.887187 = Brasilia/DF
 #-15.7951612, -47.8934636 = Parque Cidade Corporate, Brasilia/DF
-coordinates: "-15.792391, -47.887187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "-15.7951612, -47.8934636" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Brasília/DF, Brazil" # Defaults to city, but you can make it the venue name.
 #
 
@@ -24,11 +24,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: propose
 #    url: http://brasilia.devopsdays.com.br/about/cfp/ # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: Site(pt_BR)
+    url: http://brasilia.devopsdays.com.br/
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
