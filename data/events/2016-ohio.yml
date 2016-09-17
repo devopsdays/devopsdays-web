@@ -30,7 +30,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2015-covermymeds
     level: gold
-  - id: thoughtworks-services
+  - id: thoughtworks-products
     level: gold
   - id: apprenda
     level: gold
@@ -45,6 +45,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: ahead
     level: gold
   - id: victorops
+    level: silver
+  - id: netapp
     level: silver
   - id: none
     level: bronze
