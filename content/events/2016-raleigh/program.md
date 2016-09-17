@@ -299,7 +299,7 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong><br>
         1. <a href="/events/2016-raleigh/program/leon-fayer/">Leon Fayer - Oncall for developers</a><br>
-        2. <a href="/events/2016-raleigh/program/maggie-gourley/">Maggie Gourlay - My Gaming Days Weren’t Wasted: How Gaming Trained Me for Testing in DevOps</a><br>
+        2. <a href="/events/2016-raleigh/program/maggie-gourlay/">Maggie Gourlay - My Gaming Days Weren’t Wasted: How Gaming Trained Me for Testing in DevOps</a><br>
         3. <a href="/events/2016-raleigh/program/worth-becker/">Worth Becker - We're All Adults Here</a><br>
         4. <a href="/events/2016-raleigh/program/fraser-pollock/">Fraser Pollock - Data Before DevOps</a><br>
         5. <a href="/events/2016-raleigh/program/dylan-schowengerdt/">Dylan Schowengerdt - Customer Success: The Missing Link in the Feedback Loop to Engineering<br>
