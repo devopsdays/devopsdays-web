@@ -2,9 +2,9 @@
 City = "Raleigh" 
 Year = "2016" 
 date = "2016-10-06" 
-title = "Maggie Gourley" 
+title = "Maggie Gourlay" 
 type = "talk" 
-aliases = ["/events/2016-raleigh/program/maggie-gourley/"]
+aliases = ["/events/2016-raleigh/program/maggie-gourlay/"]
 
 +++
 <div class="span-15  ">
