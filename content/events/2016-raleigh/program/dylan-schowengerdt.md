@@ -26,9 +26,10 @@ Audience members will learn:
 <li>How to strategically sell the idea and value of Customer Success internally. What it is, what it is not and how it affects each department in your organization</li>
 <li>How to generate dynamic visuals with tailored data for business experts</li>
 <li>How to promote internal collaboration through information transparency</li>
+<li>How to turn a vision into reality by working as the hub of the wheel between engineering, product, marketing, sales and support</li>
+
 </ul>
 </p>
-How to turn a vision into reality by working as the hub of the wheel between engineering, product, marketing, sales and support
 
   </div>
 </div>
