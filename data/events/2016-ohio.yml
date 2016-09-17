@@ -17,7 +17,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://devopsdaysohio2016.eventbrite.com
-  - name: propose
+  - name: program
   - name: conduct
   - name: sponsor
 team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Kyle Jenkins", "John Lusk", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
