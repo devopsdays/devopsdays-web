@@ -69,6 +69,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: pivotal
     level: platinum
+  - id: sonatype
+    level: community
+  - id: apprenda
+    level: platinum
+  - id: interactive-intelligence
+    level: gold
   
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -79,6 +85,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: media
     label: Media
+  - id: community
+    label: Community
 
 speakers:
   - id: "michael-dehaan"
@@ -105,6 +113,19 @@ speakers:
     level: talk
   - id: "fraser-pollock"
     level: talk  
+  - id: "clinton-wolfe"
+    level: talk
+  - id: "gabe-ortiz"
+    level: talk
+  - id: "brian-oconnell"
+    level: talk
+  - id: "ryan-cook"
+    level: talk
+  - id: "maggie-gourlay"
+    level: talk
+  - id: "dylan-schowengerdt"
+    level: talk
+  
 speaker_levels:
   - id: talk
     label: Talk
