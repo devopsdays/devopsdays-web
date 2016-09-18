@@ -4,14 +4,13 @@ set -e
 
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
-if [[ $OSNAME == 'Linux' ]]; then
-  SEDCMD="sed -i"
-elif [[ $OSNAME == 'Darwin' ]]; then
-  SEDCMD="sed -i ''"
-else
-  echo "Unrecognised OS, exiting..."
-  exit 1
-fi
+SEDCMD(){
+  if [[ $OSNAME == 'Linux' ]]; then
+    sed -i $@
+  elif [[ $OSNAME == 'Darwin' ]]; then
+    sed -i '' $@
+  fi
+}
 
 # Get year
 read -p "Enter your event year (default: $(date +"%Y")): " year
@@ -32,7 +31,7 @@ mkdir -p ../static/events/$event_slug/speakers
 cp examples/speakers/speakers.md ../content/events/$event_slug/
 # Set the creation date to current timestamp
 datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
-eval $SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/speakers.md
+SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/speakers.md
 
 # Prompt for inputting speakers
 while [ 1 ]
@@ -60,9 +59,9 @@ read -p "Enter speaker talk description (return for none): " abstract
 # Populate speaker data file
 cp examples/speakers/speaker-full-name.yml ../data/speakers/$year/$city_slug/$speaker_slug.yml
 
-eval $SEDCMD "s/SPEAKERNAME/$speakername/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
-eval $SEDCMD "s/SPEAKERTWITTER/$twitter/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
-eval $SEDCMD "s/SPEAKERBIO/$bio/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
+SEDCMD "s/SPEAKERNAME/$speakername/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
+SEDCMD "s/SPEAKERTWITTER/$twitter/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
+SEDCMD "s/SPEAKERBIO/$bio/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
 
 # Set default image
 
@@ -72,13 +71,13 @@ cp examples/speakers/speaker-full-name.jpg ../static/events/$event_slug/speakers
 
 cp examples/speakers/speaker-full-name.md ../content/events/$event_slug/program/$speaker_slug.md
 
-eval $SEDCMD "s/SPEAKERNAME/$speakername/" ../content/events/$event_slug/program/$speaker_slug.md
-eval $SEDCMD "s/SPEAKERSLUG/$speaker_slug/" ../content/events/$event_slug/program/$speaker_slug.md
-eval $SEDCMD "s/TITLE/$title/" ../content/events/$event_slug/program/$speaker_slug.md
-eval $SEDCMD "s/ABSTRACT/$abstract/" ../content/events/$event_slug/program/$speaker_slug.md
+SEDCMD "s/SPEAKERNAME/$speakername/" ../content/events/$event_slug/program/$speaker_slug.md
+SEDCMD "s/SPEAKERSLUG/$speaker_slug/" ../content/events/$event_slug/program/$speaker_slug.md
+SEDCMD "s/TITLE/$title/" ../content/events/$event_slug/program/$speaker_slug.md
+SEDCMD "s/ABSTRACT/$abstract/" ../content/events/$event_slug/program/$speaker_slug.md
 
 # Set the creation date to current timestamp
 datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
-eval $SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/program/$speaker_slug.md
+SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/program/$speaker_slug.md
 
 done
