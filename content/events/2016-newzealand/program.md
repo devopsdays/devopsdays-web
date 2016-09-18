@@ -30,7 +30,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>08:00-09:00</time>
+        <time>08:15-09:00</time>
       </div>
       <div class = "col-md-6 box">
         Registration, tea, coffee and Sponsor Booths Open
@@ -253,7 +253,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>08:00-09:00</time>
+        <time>08:15-09:00</time>
       </div>
       <div class = "col-md-6 box">
         Registration, tea, coffee and Sponsor Booths Open
