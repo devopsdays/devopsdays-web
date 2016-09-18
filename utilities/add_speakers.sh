@@ -6,9 +6,9 @@ set -e
 OSNAME=`uname`
 SEDCMD(){
   if [[ $OSNAME == 'Linux' ]]; then
-    sed -i $@
+    sed -i "$@"
   elif [[ $OSNAME == 'Darwin' ]]; then
-    sed -i '' $@
+    sed -i '' "$@"
   fi
 }
 
