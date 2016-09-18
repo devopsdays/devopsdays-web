@@ -157,29 +157,11 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:20-14:25</time>
-      </div>
-      <div class = "col-md-6 box">
-        Open Space switch rooms
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
         <time>14:25-15:05</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
         Open Space #2
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>15:05-15:10</time>
-      </div>
-      <div class = "col-md-6 box">
-        Open Space switch rooms
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -380,29 +362,11 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:20-14:25</time>
-      </div>
-      <div class = "col-md-6 box">
-        Open Space switch rooms
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
         <time>14:25-15:05</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
         Open Space #2
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>15:05-15:10</time>
-      </div>
-      <div class = "col-md-6 box">
-        Open Space switch rooms
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
