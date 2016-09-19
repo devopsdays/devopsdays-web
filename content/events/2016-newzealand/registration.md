@@ -8,3 +8,8 @@ type = "event"
 +++
 
 At 175 attendees, the conference is sold out! A [wait list](https://devopsdays-wellington-2016.lilregie.com/step1) is available.
+
+If you are no longer able to attend the conference then please let us know
+from the email address that you used to sign up. We'll attempt to reallocate
+the ticket to someone in the waitlist. Upon successful reallocation we will
+refund you for the ticket.
