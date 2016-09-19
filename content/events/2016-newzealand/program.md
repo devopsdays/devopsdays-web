@@ -403,7 +403,7 @@ type = "event"
         <time>16:30-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        Lindsay Holmwood (Aus Gov Digital Transformation Office) TBC (Locknote)
+        Lindsay Holmwood - Deepening people to weather the organisation (Locknote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
