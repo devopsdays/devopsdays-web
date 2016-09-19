@@ -189,7 +189,7 @@ type = "event"
         <time>16:10-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Ignites (TBC)
+        Ignites
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -394,7 +394,7 @@ type = "event"
         <time>16:10-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Ignites (TBC)
+        Ignites
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
