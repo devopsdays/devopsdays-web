@@ -7,10 +7,7 @@ type = "event"
 
 <div class = "row">
   <div class = "col-md-12">
-    <hr />
-    We are planning to announce our talks on 9/7. Our CFP is open until 8/31, you can propose a talk <a href="/events/2016-madison/propose/">here</a>. 
-    <br/>
-    <br/>
+    <hr/>
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
   </div>
@@ -44,7 +41,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Opening Remarks - featuring Bridget Kromhout
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -53,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 1
+        Jeff Smith - Starting with C: Implementing DevOps from the Bottom Up
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -71,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 2
+        Michael Stahnke - Welcome to the Brownfield: Where Automation Meets Reality
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -89,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 3
+        Emily Dowdle - Humpty Dumpty: A Story of DevOps Gone Wrong
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -107,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 4
+        Michael Lanyon - Creative & Tech - A Partnership
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -126,6 +123,13 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul>
+          <li>Cea Stapleton - The Fiery Flames of Production and Mellow Pastels of Staging: Distinguishing environments on instances</li>
+          <li>Christian Weber - Mining metrics from Source Code Meta Data</li>
+          <li>Joe Nuspl - Team Building for $39.99</li>
+          <li>Gareth Greenaway - Leaving an Open Source Project</li>
+          <li>Aaron Aldrich - Humane Treatment of OnCall Engineers: Stopping the burnout while firefighting</li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -223,7 +227,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 1
+        Rhea Ghosh - From Databases to DevOps
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -241,7 +245,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 2
+        Dakota Dux - Next level learning
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -259,7 +263,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 3
+        Suzie Prince - Tips for selling Continuous Delivery to your business (from a business person :))
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -277,7 +281,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 4
+        Andy Fleener - An Optimist’s Guide to Chaos Engineering
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -296,6 +300,13 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul>
+          <li>Kim Crayton - Overcoming the Challenges of Mentoring</li>
+          <li>K R Bard - case when devops = 1 then compliance = 'simplified' else compliance = 'pita' end</li>
+          <li>Kevin Babcock - Don't be a Security Bully: Strategies for Getting Security Picked First on the Developer Playground</li>
+          <li>Alison Stanton - Ways DevOps Could Be More Accessible</li>
+          <li>James Jones - Why Superior Technologies Fail</li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
