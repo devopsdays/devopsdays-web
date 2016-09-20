@@ -189,7 +189,7 @@ type = "event"
         <time>16:10-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Ignites (TBC)
+        Ignites
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -213,7 +213,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>18:00-late</time>
+        <time>17:30-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Fun Event</strong>
@@ -394,7 +394,7 @@ type = "event"
         <time>16:10-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Ignites (TBC)
+        Ignites
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -403,7 +403,7 @@ type = "event"
         <time>16:30-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        Lindsay Holmwood (Aus Gov Digital Transformation Office) TBC (Locknote)
+        Lindsay Holmwood - Deepening people to weather the organisation (Locknote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
