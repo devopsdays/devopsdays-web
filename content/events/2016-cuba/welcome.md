@@ -10,11 +10,11 @@ DevOps Days is coming to Cuba!
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} till {{< event_end  >}}**
 
-Please go to the local website to get more information: <a href="https://devopsdayscuba.eventos.uci.cu/">devopsdayscuba.eventos.uci.cu</a>
+Please go to the local website to get more information: <a href="https://devopsdayscuba.eventos.uci.cu/">devopsdayscuba.eventos.uci.cu</a> (Yes, please accept the certificate...)
 
-<!-- <div style="text-align:center;">
+ <div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <table>
   <tr>
@@ -37,10 +37,6 @@ Please go to the local website to get more information: <a href="https://devopsd
     <td><b>Speakers</b></td>
     <td>Already confirmed speakers, Patrick Debois, Bridgit Kromhout, Bernard Grymonpon, Mike Rosado.<br/>  More will be announced later.</td>
   </tr> 
-  <tr>
-    <td><b>Sponsors</b></td>
-    <td>DevOps Days Cuba is supported by the Belgian Development Cooperation through VLIR-UOS.<br/>VLIR-UOS supports partnerships between universities and university colleges in Flanders (Belgium) and the South looking for innovative responses to global and local challenges. Visit <a href="http://www.vliruos.be">www.vliruos.be</a> for more information. 
-  </tr>
   <tr>
     <td><b>Contact</b></td>
     <td>{{< event_link page="contact" text="Get in touch with the Organizers" >}}</td>
