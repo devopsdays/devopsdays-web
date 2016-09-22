@@ -189,7 +189,7 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>
       </div>
-    </div> <!-- end timeslot div --> -->
+    </div> <!-- end timeslot div -->
 
 
 
