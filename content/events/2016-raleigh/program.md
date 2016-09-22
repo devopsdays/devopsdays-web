@@ -6,7 +6,7 @@ type = "event"
 +++
 
 <div class = "row">
-  <div class = "col-md-12">
+  <div class = "col-md-12">d
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
@@ -182,10 +182,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>17:00-18:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Cocktail Hour at the McKimmon Center</strong>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -302,7 +302,7 @@ type = "event"
         2. <a href="/events/2016-raleigh/program/maggie-gourlay/">Maggie Gourlay - My Gaming Days Weren’t Wasted: How Gaming Trained Me for Testing in DevOps</a><br>
         3. <a href="/events/2016-raleigh/program/worth-becker/">Worth Becker - We're All Adults Here</a><br>
         4. <a href="/events/2016-raleigh/program/fraser-pollock/">Fraser Pollock - Data Before DevOps</a><br>
-        5. <a href="/events/2016-raleigh/program/dylan-schowengerdt/">Dylan Schowengerdt - Customer Success: The Missing Link in the Feedback Loop to Engineering<br>
+        5. <a href="/events/2016-raleigh/program/dylan-schowengerdt/">Dylan Schowengerdt - Customer Success: The Missing Link in the Feedback Loop to Engineering</a><br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
