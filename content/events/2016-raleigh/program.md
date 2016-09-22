@@ -6,7 +6,7 @@ type = "event"
 +++
 
 <div class = "row">
-  <div class = "col-md-12">d
+  <div class = "col-md-12">
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
