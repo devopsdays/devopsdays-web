@@ -34,6 +34,8 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-nyc-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newyork-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: microsoft
+    level: venue
   - id: datadog
     level: gold
   - id: overops
@@ -64,6 +66,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: venue
+    label: Venue
+    max: 1
   - id: gold
     label: Gold
     max: 3
