@@ -10,6 +10,8 @@ type = "event"
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
+    Our open spaces topics, times, and locations will be <a href="http://tinyurl.com/openspaces-dodnyc">available here</a>.
+    <hr />
   </div>
 </div>
 
