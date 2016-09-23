@@ -62,7 +62,7 @@ type = "event"
     {{< program_entry time="08:00-09:00" title="Registration, Breakfast, and Sponsor Booths Open" >}}
     {{< program_entry time="09:00-09:15" title="Opening Welcome" >}}
     {{< program_entry time="09:15-09:45" title="Day 2 Keynote" presenter="-vm-brasseur" >}}
-    {{< program_entry time="09:15-10:15" title="NASA Jet Propulsion Lab and DevOps" presenter="dan-isla" >}}
+    {{< program_entry time="09:45-10:15" title="NASA Jet Propulsion Lab and DevOps" presenter="dan-isla" >}}
     {{< program_entry time="10:15-10:30" title="Break" >}}
     {{< program_entry time="10:30-11:00" title="Patterns and Antipatterns in Docker Image Lifecycle" presenter="baruch-sadogursky" >}}
     {{< program_entry time="11:00-11:30" title="IC to VP: An Experience Report on Becoming a Manage" presenter="seth-falcon" >}}
