@@ -258,6 +258,13 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Ignites <b>[CAMS]</b></i>:
+
+            <br /><br />
+            <b>Ignite 1</b>: Puppet <br />
+            <b>Ignite 2</b>: Docker <br />
+            <b>Ignite 3</b>: GitLab <br />
+            <b>Ignite 4</b>: ELK    <br />
+
       </div>
     </div> <!-- end timeslot div -->
 
