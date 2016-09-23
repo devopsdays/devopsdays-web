@@ -12,6 +12,17 @@ type = "event"
 </div>
 
 <div class = "row">
+  <div class = "col-md-12 text-center">
+    <a href="dropbox.com/s/inacc25vm8rgmir/DevOpsDaysBoise_PROGRAM.pdf?dl=1"><i class='fa-file-pdf-o fa fa-2x'></i></a> &bull;
+    <a href="https://play.google.com/store/apps/details?id=com.nicusa.myevents2go"><i class='fa-android fa fa-2x'></i></a>
+    <a href="https://itunes.apple.com/us/app/myevents2go/id694825364?ls=1&mt=8"><i class='fa-apple fa fa-2x'></i></a>
+    <a href="http://www.windowsphone.com/en-us/store/app/myevents2go/03420bd1-37d7-4517-b0ef-069b598ded58"><i class='fa-windows fa fa-2x'></i></a>
+    <br/>
+    Search for "DevOpsDays Boise 2016" in the <a href="https://www.myevents2go.com">MyEvents2Go</a> app.
+  </div>
+</div>
+
+<div class = "row">
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
