@@ -51,7 +51,7 @@ type = "event"
         <time>09:15-09:50</time>
       </div>
       <div class = "col-md-6 box">
-        Ken Mugrage (ThoughtWorks) - What we’re learning about burnout and how a DevOps culture can help
+       <a href="/events/2016-newzealand/program/ken-mugrage">Ken Mugrage (ThoughtWorks) - What we’re learning about burnout and how a DevOps culture can help</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -69,7 +69,7 @@ type = "event"
         <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        Damian Brady (Octopus) - Just let me do my job!
+        <a href="/events/2016-newzealand/program/damian-brady">Damian Brady (Octopus) - Just let me do my job!</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -87,7 +87,7 @@ type = "event"
         <time>10:50-11:25</time>
       </div>
       <div class = "col-md-6 box">
-        Martina Iglesias (Spotify) - Automatic discovery of service metadata for systems at scale.
+        <a href="/events/2016-newzealand/program/martina-iglesias">Martina Iglesias (Spotify) - Automatic discovery of service metadata for systems at scale.</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -105,7 +105,7 @@ type = "event"
         <time>11:30-12:05</time>
       </div>
       <div class = "col-md-6 box">
-        Bridget Cowie - The story of a performance outage, and how we could have prevented it
+        <a href="/events/2016-newzealand/program/bridget-cowie">Bridget Cowie - The story of a performance outage, and how we could have prevented it</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -198,7 +198,7 @@ type = "event"
         <time>16:30-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        Owen Evans - DevOps is dead, long live DevOps (Locknote)
+        <a href="/events/2016-newzealand/program/owen-evans">Owen Evans - DevOps is dead, long live DevOps</a> (Locknote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +256,7 @@ type = "event"
         <time>09:10-09:45</time>
       </div>
       <div class = "col-md-6 box">
-       Peter Sellars (Clearpoint) - Culture as a Strategy
+       <a href="/events/2016-newzealand/program/peter-sellars">Peter Sellars (Clearpoint) - Culture as a Strategy</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +274,7 @@ type = "event"
         <time>09:50-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Quentin Adam - Containers, VMs, Processes… Isolation, performances, I/O... How all of these technologies work and compare to each other? Deep dive and learn about your Operating System.
+        <a href="/events/2016-newzealand/program/quentin-adam">Quentin Adam - Containers, VMs, Processes… Isolation, performances, I/O... How all of these technologies work and compare to each other? Deep dive and learn about your Operating System.</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -292,7 +292,7 @@ type = "event"
         <time>10:45-11:20</time>
       </div>
       <div class = "col-md-6 box">
-        Troy Cornwall &amp; Alex Corkin - Health is hard: A story about making healthcare less hard, and faster!
+        <a href="/events/2016-newzealand/program/troy-cornwall">Troy Cornwall</a> &amp; <a href="/events/2016-newzealand/program/alex-corkin">Alex Corkin</a> - Health is hard: A story about making healthcare less hard, and faster!
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -310,7 +310,7 @@ type = "event"
         <time>11:25-12:00</time>
       </div>
       <div class = "col-md-6 box">
-        Pavel Jelínek (Movio) - Kubernetes in Production
+        <a href="/events/2016-newzealand/program/pavel-jelinek">Pavel Jelínek (Movio) - Kubernetes in Production.</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -403,7 +403,7 @@ type = "event"
         <time>16:30-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        Lindsay Holmwood - Deepening people to weather the organisation (Locknote)
+        <a href="/events/2016-newzealand/program/lindsay-holmwood">Lindsay Holmwood - Deepening people to weather the organisation</a> (Locknote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
