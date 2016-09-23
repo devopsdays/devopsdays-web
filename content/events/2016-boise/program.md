@@ -31,7 +31,7 @@ type = "event"
     {{< program_entry time="09:15-09:45" title="No Ops" presenter="-kelsey-hightower" >}}
     {{< program_entry time="09:45-10:15" title="People Make It Happen" presenter="dave-harrison" >}}
     {{< program_entry time="10:15-10:30" title="Break" >}}
-    {{< program_entry time="10:30-11:00" title="Configuration Management is an Anti-Pattern" presenter="jonah-horrowitz" >}}
+    {{< program_entry time="10:30-11:00" title="Configuration Management is an Anti-Pattern" presenter="jonah-horowitz" >}}
     {{< program_entry time="11:00-11:30" title="Bottoms Up! Exploring History of Operations Mgmt from Henry Ford to John Willis" presenter="ben-rockwood" >}}
     {{< program_entry time="11:30-12:00" title="DevOps will Fail... How the Phoenix Project Simulation can help you Succeed" presenter="jean-bennett" >}}
     {{< program_entry time="12:00-12:55" title="Lunch" >}}
@@ -44,7 +44,7 @@ type = "event"
     1:20–1:25SRE Lessons from a 17thCentury Samurai; Caskey Dickson, Microsoft
     1:25–1:30The Benefit of a Systems Lens; Jason Hand, VictorOp
     -->
-    {{< program_entry time="13:30-14:00" title="" presenter="" >}}
+    {{< program_entry time="13:30-14:00" title="How Netflix Thinks about DevOps" presenter="dave-hahn" >}}
     {{< program_entry time="14:00-14:45" title="Open Space" >}}
     {{< program_entry time="14:45-15:00" title="Break" >}}
     {{< program_entry time="15:00-15:30" title="DevOps @Scale with Baruch Sadogursky" presenter="leonid-igolnik" >}}
