@@ -6,15 +6,7 @@ type = "event"
 +++
 
 <div class = "row">
-  <div class = "col-md-12">
-    <hr />
-    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
-    <hr />
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-12 col-md-offset-4">
+  <div class = "col-md-12 text-center">
     <h2>The Schedule</h2>
   </div>
 </div>
@@ -78,4 +70,12 @@ type = "event"
     {{< program_entry time="15:45-16:15" title="The Database Server is about to Have a Terrible Accident" presenter="corey-quinn" >}}
     {{< program_entry time="16:15-16:30" title="Wrap-Up" >}}
   </div><!-- end day 2 -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-12">
+    <hr />
+    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+    <hr />
+  </div>
 </div>
