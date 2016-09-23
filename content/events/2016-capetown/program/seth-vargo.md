@@ -9,9 +9,7 @@ aliases = ["/events/2016-capetown/program/seth-vargo/"]
 +++
 
 <div class="col-12">
-  <p><strong>Title:</strong>
-Building Secure Applications with Vault
-</p>
+<p><strong>Title:</strong> Building Secure Applications with Vault</p>
 
 <p><strong>Abstract:</strong></p>
 

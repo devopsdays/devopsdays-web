@@ -9,9 +9,7 @@ aliases = ["/events/2016-capetown/program/spencer-krum/"]
 +++
 
 <div class="col-12">
-  <p><strong>Title:</strong>
-Code Review for Operations
-</p>
+<p><strong>Title:</strong> Code Review for Operations</p>
 
 <p><strong>Abstract:</strong></p>
 

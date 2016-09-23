@@ -90,7 +90,7 @@ type = "event"
         <time>11:00-11:35</time>
       </div>
       <div class = "col-md-6 box">
-        Talk #3
+        <a href="/events/2016-capetown/program/dale-humby">Dale Humby (Nomanini)</br>DevOps vs Hardware: Round 2</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -227,7 +227,7 @@ type = "event"
         <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        Talk #2
+        <a href="/events/2016-capetown/program/jp-viljoen">JP Viljoen</br>Infrastructure That Goes Bump In The Night</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -245,7 +245,7 @@ type = "event"
         <time>10:45-11:20</time>
       </div>
       <div class = "col-md-6 box">
-        Talk #3
+        <a href="/events/2016-capetown/program/noa-resare">Noa Resare (Facebook)</br>Scaling operations with DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot
