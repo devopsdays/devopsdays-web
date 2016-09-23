@@ -85,7 +85,11 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        Introdução ao DevOps (DevOps Overview)
+        <a href="/events/2016-brasilia/program/gutocarvalho/" class="text text-success">
+          Introdução a Cultura DevOps<br />
+          <b>Palestrante:</b> Guto Carvalho <br />
+          Co-palestrante: Miguel Di Ciurcio Filho
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -127,6 +131,11 @@ type = "event"
       </div>
       <div class = "col-md-8 box text-success">
         <i>Slot 3 <b>[A]</b></i>:
+        <a href="/events/2016-brasilia/program/inajara-leppa" class="text text-success">
+          Produção nove vezes ao dia - Como um time da rackspace torna isso possível?<br />
+          <b>Palestrante:</b> Inajara Leppa <br />
+          Co-palestrante: Bárbara Hartmann
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -208,7 +217,7 @@ type = "event"
         <!-- room -->
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 8 <b>TBD</b></i>:
+        <i>Slot 8 <b>Lightning talks</b></i>:
       </div>
     </div> <!-- end timeslot div -->
 
@@ -221,7 +230,7 @@ type = "event"
         <!-- room -->
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 9 <b>TBD</b></i>:
+        <i>Slot 9 <b>Lightning talks</b></i>:
       </div>
     </div> <!-- end timeslot div -->
 
