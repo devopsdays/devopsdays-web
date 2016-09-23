@@ -279,6 +279,13 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Open spaces <b>[CAMS]</b></i>:
+
+            <br /><br />
+            <b>OpenSpace 1</b>: Puppet <br />
+            <b>OpenSpace 2</b>: Docker <br />
+            <b>OpenSpace 3</b>: GitLab <br />
+            <b>OpenSpace 4</b>: ELK    <br />
+
         <br>
         <p>If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</p>
       </div>
