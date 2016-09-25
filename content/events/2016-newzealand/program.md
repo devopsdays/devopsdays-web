@@ -274,7 +274,7 @@ type = "event"
         <time>09:50-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newzealand/program/quentin-adam">Quentin Adam - Containers, VMs, Processes… Isolation, performances, I/O... How all of these technologies work and compare to each other? Deep dive and learn about your Operating System.</a>
+        <a href="/events/2016-newzealand/program/jethro-carr">Jethro Carr (Fairfax Media) - Powering stuff.co.nz with DevOps goodness</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

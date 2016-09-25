@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-Powering stuff.co.nz with DevOps goodness (Ignite)
+Powering stuff.co.nz with DevOps goodness
 </p>
 
 <p><strong>Description:</strong></p>
