@@ -150,6 +150,11 @@ type = "event"
       </div>
       <div class = "col-md-8 box text-info">
         <i>Slot 4 <b>[M]</b></i>:
+        <br />
+        <a href="/events/2016-brasilia/program/gustavo-hoyer" class="text text-info">
+          Gestão centralizada de logs com ELK<br />
+          <b>Palestrante: </b>Gustavo Hoyer<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -191,6 +196,11 @@ type = "event"
       </div>
       <div class = "col-md-8 box text-success">
         <i>Slot 6 <b>[A]</b></i>:
+        <br />
+        <a href="/events/2016-brasilia/program/rafael-gomes" class="text text-success">
+          Docker Cluster - Swarm<br />
+          <b>Palestrante: </b>Rafael Gomes<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
