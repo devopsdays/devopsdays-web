@@ -85,7 +85,11 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        Introdução ao DevOps (DevOps Overview)
+        <a href="/events/2016-brasilia/program/gutocarvalho/" class="text text-success">
+          Introdução a Cultura DevOps<br />
+          <b>Palestrante:</b> Guto Carvalho <br />
+          Co-palestrante: Miguel Di Ciurcio Filho
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -127,6 +131,11 @@ type = "event"
       </div>
       <div class = "col-md-8 box text-success">
         <i>Slot 3 <b>[A]</b></i>:
+        <a href="/events/2016-brasilia/program/inajara-leppa" class="text text-success">
+          Produção nove vezes ao dia - Como um time da rackspace torna isso possível?<br />
+          <b>Palestrante:</b> Inajara Leppa <br />
+          Co-palestrante: Bárbara Hartmann
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -141,6 +150,11 @@ type = "event"
       </div>
       <div class = "col-md-8 box text-info">
         <i>Slot 4 <b>[M]</b></i>:
+        <br />
+        <a href="/events/2016-brasilia/program/gustavo-hoyer" class="text text-info">
+          Gestão centralizada de logs com ELK<br />
+          <b>Palestrante: </b>Gustavo Hoyer<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -182,6 +196,11 @@ type = "event"
       </div>
       <div class = "col-md-8 box text-success">
         <i>Slot 6 <b>[A]</b></i>:
+        <br />
+        <a href="/events/2016-brasilia/program/rafael-gomes" class="text text-success">
+          Docker Cluster - Swarm<br />
+          <b>Palestrante: </b>Rafael Gomes<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -208,7 +227,7 @@ type = "event"
         <!-- room -->
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 8 <b>TBD</b></i>:
+        <i>Slot 8 <b>Lightning talks</b></i>:
       </div>
     </div> <!-- end timeslot div -->
 
@@ -221,7 +240,7 @@ type = "event"
         <!-- room -->
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 9 <b>TBD</b></i>:
+        <i>Slot 9 <b>Lightning talks</b></i>:
       </div>
     </div> <!-- end timeslot div -->
 
@@ -249,6 +268,13 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Ignites <b>[CAMS]</b></i>:
+
+            <br /><br />
+            <b>Ignite 1</b>: Puppet <br />
+            <b>Ignite 2</b>: Docker <br />
+            <b>Ignite 3</b>: GitLab <br />
+            <b>Ignite 4</b>: ELK    <br />
+
       </div>
     </div> <!-- end timeslot div -->
 
@@ -263,6 +289,13 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Open spaces <b>[CAMS]</b></i>:
+
+            <br /><br />
+            <b>OpenSpace 1</b>: Puppet <br />
+            <b>OpenSpace 2</b>: Docker <br />
+            <b>OpenSpace 3</b>: GitLab <br />
+            <b>OpenSpace 4</b>: ELK    <br />
+
         <br>
         <p>If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</p>
       </div>

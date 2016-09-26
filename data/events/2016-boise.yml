@@ -20,7 +20,7 @@ location: "Boise Centre" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
 #  - name: propose
   - name: speakers
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -57,7 +57,7 @@ sponsors:
   - id: 2016-victorops
     level: gold
   - id: taos
-    level: silver
+    level: dinner
   - id: tesora
     level: bronze
   - id: thenewstack
@@ -80,10 +80,23 @@ sponsors:
     level: gold
   - id: forgerock
     level: silver
+  - id: dellemc
+    level: bronze
+  - id: startupidaho
+    level: community
+  - id: accessidaho
+    level: community
+  - id: netflix
+    level: gold
+  - id: hp
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: diamond
     label: Diamond
+  - id: dinner
+    label: Speaker Dinner
+    max: 1
   - id: gold
     label: Gold
   - id: silver

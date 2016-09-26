@@ -16,8 +16,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: location
   - name: registration
-  - name: propose
-#  - name: program
+#  - name: propose
+  - name: program
 #  - name: speakers
   - name: conduct
   - name: sponsor
@@ -29,7 +29,6 @@ team_members: # Name is the only required field for team members.
   - name: "Joe Arnet"
   - name: "Vito Brooks"
   - name: "Adam Jurevicius"
-  - name: "Jeremy Wdowik"
   - name: "Trevor Smith"
   - name: "Allison Green"
 #  - name: "Full Name"
@@ -44,7 +43,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: rightbrain
     level: gold
-  - id: 2016-canonical
+  - id: 2016-canonical-and-friends
     level: gold
   - id: chef
     level: gold
@@ -56,7 +55,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: netapp
     level: gold
+  - id: ahead
+    level: gold
   - id: victorops
+    level: silver
+  - id: yelp
     level: silver
   - id: oreilly
     level: media

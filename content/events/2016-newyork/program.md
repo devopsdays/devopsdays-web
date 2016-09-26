@@ -10,6 +10,8 @@ type = "event"
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
+    Our open spaces topics, times, and locations will be <a href="http://tinyurl.com/openspaces-dodnyc">available here</a>.
+    <hr />
   </div>
 </div>
 
@@ -84,7 +86,7 @@ type = "event"
         <time>11:40-12:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newyork/program/nivia-henry/">Nivia Henry Blue Grass in a Brown Field: Building Awesome People and a Culture of Learning</a>
+        <a href="/events/2016-newyork/program/anthony-caiafa/">Anthony Caiafa SRE: An incomplete guide to cultural Narnia</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -218,7 +220,7 @@ type = "event"
         <time>11:25-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newyork/program/anthony-caiafa/">Anthony Caiafa SRE: An incomplete guide to cultural Narnia</a>
+        <a href="/events/2016-newyork/program/nivia-henry/">Nivia Henry Blue Grass in a Brown Field: Building Awesome People and a Culture of Learning</a>
       </div>
     </div>
     <div class = "row">

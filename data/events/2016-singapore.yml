@@ -14,6 +14,7 @@ location: "Raffles City Convention Centre, Singapore" # The name of your locatio
 newnav: "yes"
 nav_elements:
   - name: welcome
+  - name: speakers
   - name: program
   - name: location
   - name: propose
@@ -28,14 +29,14 @@ team_members:
   - name: "Christian Trabold"
     twitter: "ctrabold"
     employer: ""
-  - name: "Maris Prabhakaran"
-    twitter: "MarisAgility"
-    employer: ""
   - name: "Satyam Agarwala"
     twitter: "satyamag"
     employer: ""
   - name: "Sergiu Bodiu"
     twitter: "sergiu_bodiu"
+    employer: ""
+  - name: "Stefan Streichsbier"
+    twitter: "s_streichsbier"
     employer: ""
 
 organizer_email: "organizers-singapore-2016@devopsdays.org" # Put your organizer email address here

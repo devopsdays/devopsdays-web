@@ -25,9 +25,15 @@ nav_elements:
   - name: conduct
 
 team_members:
+  - name: "Andy Domeier"
+    twitter: "ajdomie"
+    employer: "SPS Commerce"
   - name: "Bridget Kromhout"
     twitter: "bridgetkromhout"
     employer: "Pivotal"
+  - name: "Heather Mickman"
+    twitter: "hmickman"
+  - name: "Jeff Williams"
   - name: "Joe Laha"
     twitter: "joelaha"
   - name: "Samantha Grumdahl"

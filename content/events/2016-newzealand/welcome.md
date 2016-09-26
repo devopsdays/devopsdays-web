@@ -10,8 +10,9 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-Early bird Tickets are now available at our [registration site](https://devopsdays-wellington-2016.lilregie.com/step1)
+Sorry, the conference is now SOLD OUT, since the venue is limited to 175 attendees. A wait list is in operation for unallocated or returned tickets.
 
+If youre realising right now that you cannot attend, please let us know! There is a long waiting list. Were happy to give you a full refund or change the name/email on your ticket if you contact us by 11:59PM NZT on Tuesday 27 September.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -19,8 +20,8 @@ Early bird Tickets are now available at our [registration site](https://devopsda
 
 <hr/>
 
-<div style="float:left;">
-  <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo.png" style="max-width: 90%;">
+<div>
+  <img alt="DevOpsDay Wellington 2016" src="/events/2016-newzealand/logo-wide.png" style="max-width: 90%;">
 </div> 
 
 DevOps is all about Continuous Improvement - but what is meant by this?  What are we improving?  Why do we want to continuously improve?  
@@ -51,15 +52,6 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> 
-
- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-  <a href="https://www.papercall.io/devopsdays-wellington">Propose a talk!</a>
-  </div>
 </div>
 
 <div class = "row">
@@ -67,18 +59,18 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-  <a href="https://devopsdays-wellington-2016.lilregie.com/step1">Register to attend the conference!</a>
+   At 175 attendees the conference is now sold out
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View our provisional {{< event_link page="program" text="program." >}} (session and speaker details to follow)
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -88,15 +80,6 @@ At the 2016 DevOpsDays NZ conference we hope to cover all these aspects and answ
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">
