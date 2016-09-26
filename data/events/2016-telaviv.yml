@@ -58,6 +58,10 @@ sponsors:
   - id: chef
     level: gold
   # gold
+  - id: bigpanda
+    level: silver
+  - id: Outbrain
+    level: silver
   - id: yotpo
     level: silver
   - id: redislabs
@@ -66,15 +70,14 @@ sponsors:
     level: silver
   - id: soluto
     level: silver
-  - id: bigpanda
-    level: silver
-  - id: Outbrain
-    level: silver
   - id: Inneractive
     level: silver
   # silver
   - id: AppsFlyer
     level: bronze
+  # Happy Hour
+  - id: aol
+    level: happyhour
   # media
   - id: oreilly
     level: media
@@ -87,5 +90,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Gold
   - id: bronze
     label: Silver
+  - id: happyhour
+    label: Happy Hour
   - id: media
     label: Media
