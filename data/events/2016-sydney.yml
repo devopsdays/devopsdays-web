@@ -49,6 +49,8 @@ sponsor_email: "sponsors-sydney-2016@devopsdays.org"
 sponsors:
   - id: samplesponsorname
     level: gold
+  - id: rea-group
+    level: silver
   - id: arresteddevops
     level: community
   - id: sdtp
