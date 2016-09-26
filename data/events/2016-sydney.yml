@@ -49,7 +49,11 @@ sponsor_email: "sponsors-sydney-2016@devopsdays.org"
 sponsors:
   - id: samplesponsorname
     level: gold
+  - id: rea-group
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: sdtp
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
