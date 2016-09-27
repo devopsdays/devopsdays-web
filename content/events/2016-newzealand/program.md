@@ -33,7 +33,7 @@ type = "event"
         <time>08:15-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, tea, coffee and Sponsor Booths Open
+        Registration, breakfast, tea, coffee and sponsor booths open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -105,7 +105,7 @@ type = "event"
         <time>11:30-12:05</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newzealand/program/bridget-cowie">Bridget Cowie - The story of a performance outage, and how we could have prevented it</a>
+        <a href="/events/2016-newzealand/program/bridget-cowie">Bridget Cowie (Datacom) - The story of a performance outage, and how we could have prevented it</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -189,7 +189,8 @@ type = "event"
         <time>16:10-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Ignites
+        Ignites/Ignite Karaoke
+        <a href= "/events/2016-newzealand/program/mrinal-mukherjee">Mrinal Mukherjee (Assurity) - How to select a DevOps tool</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -198,7 +199,7 @@ type = "event"
         <time>16:30-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newzealand/program/owen-evans">Owen Evans - DevOps is dead, long live DevOps</a> (Locknote)
+        <a href="/events/2016-newzealand/program/owen-evans">Owen Evans (8i Ltd) - DevOps is dead, long live DevOps</a> (Locknote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +239,7 @@ type = "event"
         <time>08:15-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, tea, coffee and Sponsor Booths Open
+        Registration, breakfast, tea, coffee and sponsor booths open
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -292,7 +293,7 @@ type = "event"
         <time>10:45-11:20</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newzealand/program/troy-cornwall">Troy Cornwall</a> &amp; <a href="/events/2016-newzealand/program/alex-corkin">Alex Corkin</a> - Health is hard: A story about making healthcare less hard, and faster!
+        <a href="/events/2016-newzealand/program/troy-cornwall">Troy Cornwall (Healthlink NZ)</a> &amp; <a href="/events/2016-newzealand/program/alex-corkin">Alex Corkin (Healthlink NZ)</a> - Health is hard: A story about making healthcare less hard, and faster!
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -394,7 +395,7 @@ type = "event"
         <time>16:10-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Ignites
+        Ignites/Ignite Karaoke
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -403,7 +404,7 @@ type = "event"
         <time>16:30-17:15</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-newzealand/program/lindsay-holmwood">Lindsay Holmwood - Deepening people to weather the organisation</a> (Locknote)
+        <a href="/events/2016-newzealand/program/lindsay-holmwood">Lindsay Holmwood (Aus DTO)- Deepening people to weather the organisation</a> (Locknote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
