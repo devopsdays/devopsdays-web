@@ -99,7 +99,7 @@ type = "event"
         <time>11:35-12:10</time>
       </div>
       <div class = "col-md-6 box">
-        Talk #4
+        <a href="/events/2016-capetown/program/eric-maxwell">Eric Maxwell (Chef)</br>The Looming Complexity Crisis</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -245,7 +245,7 @@ type = "event"
         <time>10:45-11:20</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-capetown/program/noa-resare">Noa Resare (Facebook)</br>Scaling operations with DevOps</a>
+        <a href="/events/2016-capetown/program/david-rubin">David Rubin (OLX)</br>Migrating at Scale</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot
@@ -263,7 +263,7 @@ type = "event"
         <time>11:20-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        Talk #4
+        <a href="/events/2016-capetown/program/noa-resare">Noa Resare (Facebook)</br>Scaling operations with DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
