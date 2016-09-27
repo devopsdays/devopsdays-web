@@ -51,7 +51,8 @@ type = "event"
         <time>10:00-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jon-arild-torresdal/">A Devops Journey - Jon Arild Tørresdal</a> <a href="https://www.youtube.com/watch?v=QeLgdE9zAJY&index=2&list=PLJt-lZXtV66BOEPoEkbWyxXl4Hun6fsU7">[Video]</a>
+        <a href="/events/2016-oslo/program/jon-arild-torresdal/">A Devops Journey - Jon Arild Tørresdal</a> <a href="https://www.youtube.com/watch?v=QeLgdE9zAJY&index=2&list=PLJt-lZXtV66BOEPoEkbWyxXl4Hun6fsU7">[Video]</a> <a href="http://www.slideshare.net/JonArildTrresdal/2016-09dev-opsjourneydevopsdaysoslo">[Slides]</a>
+
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -78,7 +79,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/jason-diller/">Complaining is not a strategy. (How to make things better even if you're not the boss.) - Jason Diller</a> <a href="https://www.youtube.com/watch?v=-jPMTsP7b8s&index=4&list=PLJt-lZXtV66BOEPoEkbWyxXl4Hun6fsU7">[Video]</a>
+        <a href="/events/2016-oslo/program/jason-diller/">Complaining is not a strategy. (How to make things better even if you're not the boss.) - Jason Diller</a> <a href="https://www.youtube.com/watch?v=-jPMTsP7b8s&index=4&list=PLJt-lZXtV66BOEPoEkbWyxXl4Hun6fsU7">[Video]</a> <a href="https://github.com/jdiller/talks/blob/master/oslo/DevOpsDaysOslo.md">[Slides]</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -223,7 +224,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-oslo/program/marta-paciorkowska/">DevOps is dead (a story by the Jesus of DevOps) - Marta Paciorkowska</a> <a href="https://www.youtube.com/watch?v=kjOfuGnyUbE&index=8&list=PLJt-lZXtV66BOEPoEkbWyxXl4Hun6fsU7">[Video]</a>
+        <a href="/events/2016-oslo/program/marta-paciorkowska/">DevOps is dead (a story by the Jesus of DevOps) - Marta Paciorkowska</a> <a href="https://www.youtube.com/watch?v=kjOfuGnyUbE&index=8&list=PLJt-lZXtV66BOEPoEkbWyxXl4Hun6fsU7">[Video]</a> <a href="https://speakerdeck.com/xamebax/devops-is-dead">[Slides]</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
