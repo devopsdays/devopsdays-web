@@ -12,6 +12,8 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+<!-- .event.team_members_historic || list_organizers_historic  -->
+
 **The core devopsdays organizer group**
 
 {{< list_core >}}
