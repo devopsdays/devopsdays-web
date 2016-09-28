@@ -14,7 +14,7 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 <!-- .event.team_members_historic || list_organizers_historic  -->
 
-Historic: Aline Hubner, Dirceu Silva, Eustáquio Guimarães, Diego Aguilera,  Rogério Fernandes Pereira
+Team for funding and publishing: Aline Hubner, Dirceu Silva, Eustáquio Guimarães, Diego Aguilera,  Rogério Fernandes Pereira
 
 **The core devopsdays organizer group**
 
