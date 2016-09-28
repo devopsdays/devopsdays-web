@@ -180,14 +180,6 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>19:00-late</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
-      </div>
-    </div> <!-- end timeslot div -->
 
 
 
@@ -350,7 +342,15 @@ type = "event"
         <time>17:00</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Farewell
+        Close Day &amp; Logistics
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>19:00-late</time>
+      </div>
+      <div class = "col-md-6 box">
+        <strong>Evening Event</strong>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
