@@ -49,12 +49,12 @@ type = "event"
     1:25–1:30The Benefit of a Systems Lens; Jason Hand, VictorOp
     -->
     {{< program_entry time="13:30-14:00" title="Configuration Management is an Anti-Pattern" presenter="jonah-horowitz" >}}
-    {{< program_entry time="14:00-14:45" title="Open Space" >}}
-    {{< program_entry time="14:45-15:00" title="Break" >}}
-    {{< program_entry time="15:00-15:30" title="DevOps @Scale with Baruch Sadogursky" presenter="leonid-igolnik" >}}
-    {{< program_entry time="15:30-16:00" title="The Unrealized Role of Monitoring & Alerting" presenter="jason-hand" >}}
-    {{< program_entry time="16:00-16:30" title="From Theory to Practice –Developing DevOps Capability to Delivery Enterprise Level Products" presenter="darryl-bowler" >}}
-    {{< program_entry time="16:30-16:45" title="Day One Wrap-Up" >}}
+    {{< program_entry time="14:00-15:30" title="Open Space" >}}
+    {{< program_entry time="15:30-16:00" title="DevOps @Scale with Baruch Sadogursky" presenter="leonid-igolnik" >}}
+    {{< program_entry time="16:00-16:15" title="Break" >}}
+    {{< program_entry time="16:15-16:45" title="The Unrealized Role of Monitoring & Alerting" presenter="jason-hand" >}}
+    {{< program_entry time="16:45-17:15" title="From Theory to Practice –Developing DevOps Capability to Delivery Enterprise Level Products" presenter="darryl-bowler" >}}
+    {{< program_entry time="17:15-17:30" title="Day One Wrap-Up" >}}
     {{< program_entry time="19:00-21:00" title="Evening Social @ Basque Center" >}}
   </div><!-- end day 1 -->
   <div class = "col-md-6">
@@ -74,12 +74,13 @@ type = "event"
     {{< program_entry time="12:00-13:00" title="Lunch" >}}
     {{< program_entry time="13:00-13:30" title="New Docker Features for Orchestration and Clusters" presenter="jeff-anderson" >}}
     {{< program_entry time="13:30-14:00" title="What Goes in Must Come Out: Hidden Defects in your Software Application" presenter="matthew-barker" >}}
-    {{< program_entry time="14:00-14:30" title="Talking to People: The Forgotten DevOps Tool" presenter="peter-varhol" >}}
-    {{< program_entry time="14:30-14:45" title="Break" >}}
-    {{< program_entry time="14:45-15:15" title="Managing Multiple SaltStack Environments for Fun & Profit" presenter="gareth-greenaway" >}}
-    {{< program_entry time="15:15-15:45" title="Cross Platform Tool Development in GO" presenter="caskey-dickson" >}}
-    {{< program_entry time="15:45-16:15" title="The Database Server is about to Have a Terrible Accident" presenter="corey-quinn" >}}
-    {{< program_entry time="16:15-16:30" title="Wrap-Up" >}}
+    {{< program_entry time="14:00-15:00" title="Open Space" >}}
+    {{< program_entry time="15:00-15:30" title="Talking to People: The Forgotten DevOps Tool" presenter="peter-varhol" >}}
+    {{< program_entry time="15:30-15:45" title="Break" >}}
+    {{< program_entry time="15:45-16:15" title="Managing Multiple SaltStack Environments for Fun & Profit" presenter="gareth-greenaway" >}}
+    {{< program_entry time="16:15-16:45" title="Cross Platform Tool Development in GO" presenter="caskey-dickson" >}}
+    {{< program_entry time="16:45-17:15" title="The Database Server is about to Have a Terrible Accident" presenter="corey-quinn" >}}
+    {{< program_entry time="17:15-17:30" title="Wrap-Up" >}}
   </div><!-- end day 2 -->
 </div>
 
