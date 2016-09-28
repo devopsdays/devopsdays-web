@@ -1,8 +1,9 @@
 +++
 date = "2016-09-21T21:31:22+12:00"
-linktitle = "chris-mcfee"
-title = "Chris Mcfee"
+linktitle = "chris-mcfee-john-rzeszotarski"
+title = "Chris Mcfee & John Rzeszotarski"
 type = "talk"
+aliases = ["/events/2016-ohio/program/chris-mcfee/", "/events/2016-ohio/program/john-rzeszotarski/"]
 
 +++
 
