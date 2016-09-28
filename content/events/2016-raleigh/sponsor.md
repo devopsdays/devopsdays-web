@@ -14,16 +14,15 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 <hr>
 
 <h2>Sponsorship Packages</h2>
-<h3>Only three spots left for either Platinum or Gold Sponsors!</h3>
 <br><br>
-<h3>Platinum Sponsor ($5000)</h3>
+<h3>Platinum Sponsor ($5000) - SOLD OUT</h3>
 
 * 3 tickets included
 * Table Space
 * Logo on Website, Main Room Signage & Email Communications
 * 3 Minute Pitch to Full Audience on Day One
 
-<h3>Gold Sponsor ($3000)</h3>
+<h3>Gold Sponsor ($3000) - SOLD OUT</h3>
 
 * 2 tickets included
 * Table Space
