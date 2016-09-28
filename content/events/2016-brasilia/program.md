@@ -85,7 +85,7 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        <a href="/events/2016-brasilia/program/gutocarvalho/" class="text text-success">
+        <a href="/events/2016-brasilia/program/gutocarvalho/" class="text text-primary">
           Introdução a Cultura DevOps<br />
           <b>Palestrante:</b> Guto Carvalho <br />
           Co-palestrante: Miguel Di Ciurcio Filho
