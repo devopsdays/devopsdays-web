@@ -43,6 +43,7 @@ team_members: # Name is the only required field for team members.
   - name: "Adriano Vieira"
     twitter: "adriano_vieira"
   - name: "Lauro Silveira"
+    twitter: "laurosn"
   - name: "Rafael Gomes"
     twitter: "gomex"
 team_members_historic:
