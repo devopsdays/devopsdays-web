@@ -58,6 +58,10 @@ sponsors:
   - id: chef
     level: gold
   # gold
+  - id: wix
+    level: silver
+  - id: similarweb
+    level: silver
   - id: bigpanda
     level: silver
   - id: outbrain
