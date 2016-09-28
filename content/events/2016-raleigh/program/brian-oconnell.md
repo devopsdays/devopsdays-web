@@ -18,5 +18,4 @@ Mission Critical DevOps
 <p>
 
 This talk will show you how to enable rapid and safe changes to critical cloud services when the world is watching your infrastructure.  
-<p>By capturing the context and contingency of our choices, we can more easily adapt to changes in our organization and the tech community.
 </p>
