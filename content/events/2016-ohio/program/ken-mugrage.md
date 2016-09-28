@@ -20,6 +20,6 @@ type = "talk"
 
 <p>We’ll go over what a value stream map is, how you can create one, and how it can help you answer some important questions about your business. Questions like “where do we start?”.</p>
 
-  </div>
+  </div>c
 </div>
 
