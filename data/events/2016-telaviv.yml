@@ -60,7 +60,7 @@ sponsors:
   # gold
   - id: bigpanda
     level: silver
-  - id: Outbrain
+  - id: outbrain
     level: silver
   - id: yotpo
     level: silver
@@ -70,10 +70,10 @@ sponsors:
     level: silver
   - id: soluto
     level: silver
-  - id: Inneractive
+  - id: inneractive
     level: silver
   # silver
-  - id: AppsFlyer
+  - id: appsflyer
     level: bronze
   # Happy Hour
   - id: aol
