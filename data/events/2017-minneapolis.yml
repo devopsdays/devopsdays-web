@@ -3,8 +3,8 @@ year: "2017"
 city: "Minneapolis"
 status: "current"
 
-startdate:
-enddate:
+startdate: 2017-07-25
+enddate: 2017-07-26
 
 cfp_date_start:
 cfp_date_end:
