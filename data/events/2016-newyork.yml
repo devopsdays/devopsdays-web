@@ -62,7 +62,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: cagedata
     level: bronze
-  - id: ubuntu
+  - id: ubuntu-before-20160929
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
