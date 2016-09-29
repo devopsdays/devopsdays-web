@@ -80,4 +80,7 @@ aliases = ["/events/2017-minneapolis"]
   </div>
 </div>
 
+
 {{< event_twitter devopsdaysmsp >}}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeRx17zV0JZGFevX3yTeen7vJ8Dwy_Rjh6LiussGI3nXxbY9A/viewform?embedded=true" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

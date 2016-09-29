@@ -69,6 +69,8 @@ sponsors:
     level: bronze
   - id: 2016-otsi
     level: silver
+  - id: netapp
+    level: silver  
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

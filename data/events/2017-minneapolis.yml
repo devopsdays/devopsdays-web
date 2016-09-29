@@ -3,8 +3,8 @@ year: "2017"
 city: "Minneapolis"
 status: "current"
 
-startdate:
-enddate:
+startdate: 2017-07-25
+enddate: 2017-07-26
 
 cfp_date_start:
 cfp_date_end:
@@ -33,6 +33,7 @@ team_members:
     employer: "Pivotal"
   - name: "Heather Mickman"
     twitter: "hmickman"
+  - name: "Jeff Williams"
   - name: "Joe Laha"
     twitter: "joelaha"
   - name: "Samantha Grumdahl"

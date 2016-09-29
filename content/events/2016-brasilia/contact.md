@@ -12,6 +12,10 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+<!-- .event.team_members_historic || list_organizers_historic  -->
+
+Team for funding and publishing: Aline Hubner, Dirceu Silva, Eustáquio Guimarães, Diego Aguilera,  Rogério Fernandes Pereira
+
 **The core devopsdays organizer group**
 
 {{< list_core >}}

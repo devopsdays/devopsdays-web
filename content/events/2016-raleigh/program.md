@@ -123,11 +123,11 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong><br>
-        1. <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - "Code Is Communication</a><br>
-        2. TBD<br>
-        3. TBD<br>
-        4. TBD<br>
-        5. TBD<br>
+        1. <a href="/events/2016-raleigh/program/clinton-wolfe/">Clinton Wolfe - Your goat antifragiled my snowflake!: Demystifying DevOps Jargon</a><br>
+        2. <a href="/events/2016-raleigh/program/aaron-suggs/">Aaron Suggs - Code Is Communication</a><br>
+        3. <a href="/events/2016-raleigh/program/gabe-ortiz/">Gabe Ortiz - Database Automation is Hard</a><br>
+        4. <a href="/events/2016-raleigh/program/brian-oconnell/">Brian O'Connell - Mission Critical DevOps</a><br>
+        5. <a href="/events/2016-raleigh/program/ryan-cook/">Ryan Cook - Oh no! MGMT wants to do DevOps now</a><br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -182,10 +182,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>17:00-18:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Cocktail Hour at the McKimmon Center</strong>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -299,10 +299,10 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong><br>
         1. <a href="/events/2016-raleigh/program/leon-fayer/">Leon Fayer - Oncall for developers</a><br>
-        2. <a href="/events/2016-raleigh/program/worth-becker/">Worth Becker - We're All Adults Here</a><br>
-        3. <a href="/events/2016-raleigh/program/fraser-pollock/">Fraser Pollock - Data Before DevOps</a><br>
-        4. TBD<br>
-        5. TBD<br>
+        2. <a href="/events/2016-raleigh/program/maggie-gourlay/">Maggie Gourlay - My Gaming Days Weren’t Wasted: How Gaming Trained Me for Testing in DevOps</a><br>
+        3. <a href="/events/2016-raleigh/program/worth-becker/">Worth Becker - We're All Adults Here</a><br>
+        4. <a href="/events/2016-raleigh/program/fraser-pollock/">Fraser Pollock - Data Before DevOps</a><br>
+        5. <a href="/events/2016-raleigh/program/dylan-schowengerdt/">Dylan Schowengerdt - Customer Success: The Missing Link in the Feedback Loop to Engineering</a><br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

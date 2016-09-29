@@ -10,7 +10,9 @@ aliases = ["/events/2016-newzealand"]
 
 **It will be hosted at {{< event_location>}} on {{< event_start >}} - {{< event_end  >}}**
 
-Sorry, the conference is now SOLD OUT, since the venue is limited to 175 attendees. Applications for diversity tickets close on 15th September. A wait list is in operation for unallocated or returned tickets.
+Sorry, the conference is now SOLD OUT, since the venue is limited to 175 attendees. A wait list is in operation for unallocated or returned tickets.
+
+If youre realising right now that you cannot attend, please let us know! There is a long waiting list. Were happy to give you a full refund or change the name/email on your ticket if you contact us by 11:59PM NZT on Tuesday 27 September.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}

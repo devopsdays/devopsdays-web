@@ -33,9 +33,6 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
       <li>Custom package</li>
     </ul>
   </td>
-  <td>
-    <i>Contact us! {{< email_organizers >}}</i>
-  </td>
   </tr>
 
 </table>
@@ -119,11 +116,10 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
     </tr>
 </table>
 
-### Pre-conference Social (drinks & snacks) – Availability 1 (R20,000 ~ R25,000)
+### Pre-conference Social (drinks & snacks) – (Sold Out)
 <table>
   <tr>
     <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sponsor Now</h4></td>
   </tr>
   <tr>
     <td>
@@ -132,22 +128,17 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Swag at the social</li>
         <li>Logo on DevOpsDays Cape Town event website</li>
         <li>Logo on event t-shirt</li>
-        <li>1 minute pitch to full audience</li>
         <li>Demo a product (20 min) during Open Space Session</li>
         <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>        
       </ul>
   </td>
-  <td>
-    <i>Contact us! {{< email_organizers >}}</i>
-  </td>
   </tr>
 </table>
 
-### Conference Social (Sold Out)
+### Conference Social - (Sold Out)
 <table>
   <tr>
     <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sponsor Now</h4></td>
   </tr>
   <tr>
     <td>
@@ -156,23 +147,18 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Swag at the social</li>
         <li>Logo on DevOpsDays Cape Town event website</li>
         <li>Logo on event t-shirt</li>
-        <li>1 minute pitch to full audience</li>
         <li>Demo a product (20 min) during Open Space Session</li>
         <li>Booth/Table space</li>
         <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
       </ul>
   </td>
-  <td>
-    <i>Contact us! {{< email_organizers >}}</i>
-  </td>
   </tr>
 </table>
 
-### Conference Social (Drinks) – Availability 1 (R15,000)
+### Post-conference Social (Drinks) – (Sold Out)
 <table>
   <tr>
     <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sponsor Now</h4></td>
   </tr>
   <tr>
     <td>
@@ -181,13 +167,9 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Swag at the social</li>
         <li>Logo on DevOpsDays Cape Town event website</li>
         <li>Logo on event t-shirt</li>
-        <li>1 minute pitch to full audience</li>
         <li>Demo a product (20 min) during Open Space Session</li>
         <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
       </ul>
-  </td>
-  <td>
-    <i>Contact us! {{< email_organizers >}}</i>
   </td>
   </tr>
 </table>

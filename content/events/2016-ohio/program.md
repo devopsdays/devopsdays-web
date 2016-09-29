@@ -2,13 +2,14 @@
 date = "2016-03-06T21:28:07-06:00"
 title = "program"
 type = "event"
-
 +++
 
 <div class = "row">
   <div class = "col-md-12">
     <hr />
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
+    <hr />
+    This schedule is subject to change.
     <hr />
   </div>
 </div>
@@ -50,7 +51,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Eric Sigler</b>: Humans are terrible compilers: A User's Guide
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +69,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Clinton Wolfe</b>: Maintaining Config Management Code: Why is Everything Awful?
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +87,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Jarred Olson</b>: Introduction to Serverless Architecture
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +105,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Jody Wolfborn</b> You Don't Belong Here: Dealing with Impostor Syndrome
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,7 +123,11 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br/><br/>
+        <b>Jason Yee</b>: What I learned about engineering from being a chef<br/><br/>
+        <b>Bill Condo</b>: Lessons from The Phoenix Project in 5 minutes<br/><br/>
+        <b>Peter Walsh</b>: If it’s not automated, it’s broken.<br/><br/>
+        <b>Leon Adato</b>: Getting Away from it All - Living an Unplugged Life as an IT professional
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -175,14 +180,6 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>19:00-late</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
-      </div>
-    </div> <!-- end timeslot div -->
 
 
 
@@ -220,7 +217,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Nathen Harvey</b>: Community, the secret ingredient for DevOps
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +235,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Chris McFee, John Rzeszotarski</b>: Banking on DevOps
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +253,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <b>Paul Bauer</b>: Deep Visibility in Production
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +271,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+       <b> Aaron Aldrich</b>: Reducing the burden of the OnCall rotation
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -292,7 +289,11 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br/><br/>
+        <b>Matt Williams</b>: ITIL in an Agile World <br/><br/>
+        <b>Clinton Wolfe</b>: DevOps Jargon: Your goat antifragiled my snowflake! <br/><br/>
+        <b>Leon Fayer</b>: Oncall for developers <br/><br/>
+        <b>Ken Mugrage</b>: The answer to the "where do we start" question
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -341,7 +342,15 @@ type = "event"
         <time>17:00</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Farewell
+        Close Day &amp; Logistics
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>19:00-late</time>
+      </div>
+      <div class = "col-md-6 box">
+        <strong>Evening Event</strong>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->

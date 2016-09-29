@@ -2,7 +2,7 @@ name: 2016-newyork # The name of the event. Four digit year with the city name i
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "New York" # The city name of the event. Capitalize it.
 friendly: "2016-newyork" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current".
+status: "past" # Options are "past" or "current".
 startdate: 2016-09-23 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-09-24 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-05-22
@@ -34,6 +34,8 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-nyc-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-newyork-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: microsoft
+    level: venue
   - id: datadog
     level: gold
   - id: overops
@@ -60,10 +62,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: cagedata
     level: bronze
-  - id: ubuntu
+  - id: ubuntu-before-20160929
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: venue
+    label: Venue
+    max: 1
   - id: gold
     label: Gold
     max: 3
