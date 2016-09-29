@@ -17,8 +17,7 @@ professional and educational factors behind this question.
 There are many examples of very powerful women in technology. In fact, we can't
 go without women in technology. Interesting fact: The VP of Product of Slack is
 a woman. Her name is April Underwood. The VP of Google Maps is also a woman.
-Her name is Jen Fitzpatrick. (Perhaps because women get so lost while driving,
-they brought in a woman!!) 
+Her name is Jen Fitzpatrick.
 
 Women account for approximately 70% of shoppers in the world. If you are
 developing a product or a service, most likely a woman will be purchasing it.
