@@ -51,7 +51,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Eric Sigler</b>: Humans are terrible compilers: A User's Guide
+        <a href="eric-sigler"><b>Eric Sigler</b>: Humans are terrible compilers: A User's Guide</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -69,7 +69,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Clinton Wolfe</b>: Maintaining Config Management Code: Why is Everything Awful?
+        <a href="clinton-wolfe"><b>Clinton Wolfe</b>: Maintaining Config Management Code: Why is Everything Awful?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -87,7 +87,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Jarred Olson</b>: Introduction to Serverless Architecture
+        <a href="jarred-olson"><b>Jarred Olson</b>: Introduction to Serverless Architecture</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -105,7 +105,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Jody Wolfborn</b> You Don't Belong Here: Dealing with Impostor Syndrome
+        <a href="jody-wolfborn"><b>Jody Wolfborn</b> You Don't Belong Here: Dealing with Impostor Syndrome</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -124,10 +124,10 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong><br/><br/>
-        <b>Jason Yee</b>: What I learned about engineering from being a chef<br/><br/>
-        <b>Bill Condo</b>: Lessons from The Phoenix Project in 5 minutes<br/><br/>
-        <b>Peter Walsh</b>: If it’s not automated, it’s broken.<br/><br/>
-        <b>Leon Adato</b>: Getting Away from it All - Living an Unplugged Life as an IT professional
+        <a href="jason-yee"><b>Jason Yee</b>: What I learned about engineering from being a chef</a><br/><br/>
+        <a href="bill-condo"><b>Bill Condo</b>: Lessons from The Phoenix Project in 5 minutes</a><br/><br/>
+        <a href="peter-walsh"><b>Peter Walsh</b>: If it’s not automated, it’s broken.</a><br/><br/>
+        <a href="leon-adato"><b>Leon Adato</b>: Getting Away from it All - Living an Unplugged Life as an IT professional</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -217,7 +217,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Nathen Harvey</b>: Community, the secret ingredient for DevOps
+        <a href="nathen-harvey"><b>Nathen Harvey</b>: Community, the secret ingredient for DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -235,7 +235,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Chris McFee, John Rzeszotarski</b>: Banking on DevOps
+        <a href="chris-mcfee"><b>Chris McFee, John Rzeszotarski</b>: Banking on DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -253,7 +253,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <b>Paul Bauer</b>: Deep Visibility in Production
+        <a href="paul-bauer"><b>Paul Bauer</b>: Deep Visibility in Production</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -271,7 +271,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-       <b> Aaron Aldrich</b>: Reducing the burden of the OnCall rotation
+       <a href="aaron-aldrich"><b> Aaron Aldrich</b>: Reducing the burden of the OnCall rotation</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -290,10 +290,10 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong><br/><br/>
-        <b>Matt Williams</b>: ITIL in an Agile World <br/><br/>
-        <b>Clinton Wolfe</b>: DevOps Jargon: Your goat antifragiled my snowflake! <br/><br/>
-        <b>Leon Fayer</b>: Oncall for developers <br/><br/>
-        <b>Ken Mugrage</b>: The answer to the "where do we start" question
+        <a href="matt-williams"><b>Matt Williams</b>: ITIL in an Agile World</a> <br/><br/>
+        <a href="clinton-wolfe"><b>Clinton Wolfe</b>: DevOps Jargon: Your goat antifragiled my snowflake!</a> <br/><br/>
+        <a href="leon-fayer"><b>Leon Fayer</b>: Oncall for developers</a> <br/><br/>
+        <a href="ken-mugrage"><b>Ken Mugrage</b>: The answer to the "where do we start" question</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
