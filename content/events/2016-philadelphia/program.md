@@ -128,6 +128,7 @@ type = "event"
           <li><a href="/events/2016-philadelphia/program/shilpa-jindal">Shilpa Jindal - How CI/CD helped us "Bill Pay team" to deliver features faster to customers</a></li>
           <li><a href="/events/2016-philadelphia/program/leon-fayer">Leon Fayer - How DevOps Antipatterns Ruined Holidays</a></li>
           <li><a href="/events/2016-philadelphia/program/jon-mosco">Jon Mosco - The History of Linux Containers</a></li>
+          <li><a href="/events/2016-philadelphia/program/oguz-pastirmaci">Oguz Pastirmaci - Moving from regular sysadmin to DevOps</a></li>
         </ul>
       </div>
     </div> <!-- end timeslot div -->
@@ -301,7 +302,6 @@ type = "event"
         <strong>Ignites</strong>
         <ul>
           <li><a href="/events/2016-philadelphia/program/ken-mugrage">Ken Mugrage - The answer to the “where do we start” question</a></li>
-          <li><a href="/events/2016-philadelphia/program/oguz-pastirmaci">Oguz Pastirmaci - Moving from regular sysadmin to DevOps</a></li>
           <li><a href="/events/2016-philadelphia/program/rick-pufky">Rick Pufky - Effective Remote Workers</a></li>
         </ul>
       </div>
