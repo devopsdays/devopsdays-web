@@ -303,7 +303,7 @@ type = "event"
           <li><a href="/events/2016-philadelphia/program/dave-long">Dave Long - Programming your Infrastructure</a></li>     
           <li><a href="/events/2016-philadelphia/program/ken-mugrage">Ken Mugrage - The answer to the “where do we start” question</a></li>
           <li><a href="/events/2016-philadelphia/program/rick-pufky">Rick Pufky - Effective Remote Workers</a></li>
-          <li>Ignite Karaoke!<li>
+          <li>Ignite Karaoke!</li>
         </ul>
       </div>
     </div> <!-- end timeslot div -->
