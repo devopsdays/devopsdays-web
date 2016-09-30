@@ -111,4 +111,4 @@ sessions, and discussions from industry practitioners and taste-makers.
 
 <br />
 <!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdaysparis >}}
+{{< event_twitter devopsdaysrex >}}
