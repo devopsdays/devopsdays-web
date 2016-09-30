@@ -128,8 +128,9 @@ type = "event"
         <ul>
           <li><a href="/events/2016-kansascity/program/aaron-blythe">Aaron Blythe - Failure and the Third Way</a></li>
           <li><a href="/events/2016-kansascity/program/kyle-sexton">Kyle Sexton - Introduction to Habitat</a></li>
-          <li><a href="/events/2016-kansascity/program/kevin-slattery">Kevin Slattery - Everything is OK Alarm</a></li>
           <li><a href="/events/2016-kansascity/program/aj-bowen">AJ Bowen - Cheat codes from Occupy</a></li>
+          <li>Ignite Karaoke</li>
+          <li>Ignite Karaoke</li>
         </ul>
       </div>
     </div> 
