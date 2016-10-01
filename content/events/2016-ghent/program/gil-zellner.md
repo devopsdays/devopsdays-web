@@ -2,7 +2,7 @@
 date = "2016-09-25T12:01:38+02:00"
 linktitle = "gil-zellner"
 title = "Gil Zellner"
-type = "ignite"
+type = "talk"
 
 +++
 
