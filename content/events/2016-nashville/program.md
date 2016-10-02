@@ -266,10 +266,10 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:00-11:30</time>
+<time>11:00-11:30</timen
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-nashville/program/norbert-crombrach">Norbert Crombrach - Ops for Africa</a>
+        <a href="/events/2016-nashville/program/norbert-crombach">Norbert Crombach - Ops for Africa</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -331,6 +331,15 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
         Open Space #2
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:45-16:00</time>
+      </div>
+      <div class = "col-md-6 box">
+          Break + Snacks
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
