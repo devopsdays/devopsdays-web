@@ -96,3 +96,5 @@ Special thanks to our partners <a href="http://www.cohaa.org">COHAA</a> for help
 </div>
 
 {{< event_twitter DevOpsDaysOhio >}} <!-- add your twitter name here without the @ sign -->
+
+<a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/DevOpsDaysOhio">Tweets by DevOpsDaysOhio</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
