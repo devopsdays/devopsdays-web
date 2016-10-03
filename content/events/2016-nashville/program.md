@@ -59,7 +59,7 @@ type = "event"
         <time>10:00-10:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-nashville/program/john-willis">John Willis - TBD</a>
+        <a href="/events/2016-nashville/program/john-willis">John Willis - DevOps State of the Union</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
