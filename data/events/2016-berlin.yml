@@ -13,7 +13,7 @@ location: "Kalkscheune Berlin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-  - name: propose
+  - name: speakers
   - name: program
   - name: location
   - name: registration

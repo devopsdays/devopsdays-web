@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to DevOpsDays Singapore 2015!</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link href="assets/css/styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle
+
+<img src="assets/images/singapore-2015-banner.png" width="100%" />
+
+---
+name: sponsors
+class: center, middle
+
+## <strong><span style="font-family: arial">Host Sponsor</span><strong>
+<img class="sponsor-host" src="../logos/thoughtworks.png" />
+
+## <strong><span style="font-family: arial">Gold Sponsors</span><strong>
+<img class="sponsor-gold" src="../logos/pivotal.png" />
+<img class="sponsor-gold" src="../logos/puppetlabs.png" />
+<img class="sponsor-gold" src="../logos/titansoft.png" />
+<img class="sponsor-gold" src="../logos/datarobot.png" />
+<br>
+<img class="sponsor-gold" src="../logos/ca.png" />
+<img class="sponsor-gold" src="../logos/forest_tech.png" />
+<img class="sponsor-gold" src="../logos/actifio.jpg" />
+<img class="sponsor-gold" src="../logos/dynatrace.gif" />
+
+### <strong><span style="font-family: arial">Silver Sponsors</span><strong>
+<img class="sponsor-silver" src="../logos/redmart.png" />
+<img class="sponsor-silver" src="../logos/xebia.jpg" />
+<img class="sponsor-silver" src="../logos/redhat.png" />
+<img class="sponsor-silver" src="../logos/paypal.png" />
+<img class="sponsor-silver" src="../logos/zalora.png" />
+<img class="sponsor-silver" src="../logos/microsoft.png" />
+
+---
+
+# Thanks to all our sponsors!
+
+---
+
+# Tweet hashtag \#devopsdays
+
+Mention us @DevOpsDaysSG
+
+
+
+---
+
+## <strong><span style="font-family: arial">Host Sponsor</span><strong>
+<img class="sponsor-host" src="../logos/thoughtworks.png" />
+
+---
+
+## <strong><span style="font-family: arial">Gold Sponsors</span><strong>
+<img class="sponsor-gold" src="../logos/pivotal.png" />
+<img class="sponsor-gold" src="../logos/puppetlabs.png" />
+<img class="sponsor-gold" src="../logos/titansoft.png" />
+<img class="sponsor-gold" src="../logos/datarobot.png" />
+<br>
+<img class="sponsor-gold" src="../logos/ca.png" />
+<img class="sponsor-gold" src="../logos/forest_tech.png" />
+<img class="sponsor-gold" src="../logos/actifio.jpg" />
+<img class="sponsor-gold" src="../logos/dynatrace.gif" />
+
+---
+
+### <strong><span style="font-family: arial">Silver Sponsors</span><strong>
+<img class="sponsor-silver" src="../logos/redmart.png" />
+<img class="sponsor-silver" src="../logos/xebia.jpg" />
+<img class="sponsor-silver" src="../logos/redhat.png" />
+<img class="sponsor-silver" src="../logos/paypal.png" />
+<img class="sponsor-silver" src="../logos/zalora.png" />
+<img class="sponsor-silver" src="../logos/microsoft.png" />
+
+    </textarea>
+    <script src="assets/js/remark-latest.min.js">
+    </script>
+    <script>
+    var slideshow = remark.create();
+
+    // every 8 seconds (change to your desired interval), fire the helper function
+    setInterval(function () {carousel(slideshow)}, 8000);
+
+    function carousel(varObject) {
+      var slideCount = varObject.getSlideCount()-1;
+      var currentSlide = varObject.getCurrentSlideIndex();
+      // if the slideshow is on the last slide, go back to the first slide; if not, call gotoNextSlide();
+      if (currentSlide == slideCount) {
+          varObject.gotoFirstSlide();
+      }
+      else { varObject.gotoNextSlide(); }
+    }
+    </script>
+  </body>
+</html>

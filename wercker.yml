@@ -1,0 +1,22 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "0.15"
+        theme: devopsdays-responsive
+        flags: --buildDrafts=false
+
+deploy:
+  steps:
+    - script:
+        name: Install packages
+        code: |
+          apt-get update
+    - install-packages:
+        packages: git ssh-client
+
+    - burrbd/gh-pages@0.2.3:
+        token: $GIT_TOKEN
+        domain: www.devopsdays.org
+        basedir: public
+        repo: devopsdays/devopsdays.github.io

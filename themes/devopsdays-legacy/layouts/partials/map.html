@@ -1,0 +1,69 @@
+<!--
+  Customize the labels on the map
+
+  *References*
+  - http://code.google.com/apis/maps/documentation/javascript/maptypes.html#StyledMaps
+  - http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerwithlabel/1.1/examples/basic.html
+-->
+<link href="/css/googlemaps.css" rel="stylesheet">
+<script type="text/javascript" language="javascript">
+function initialize() {
+    var map;
+    var bounds = new google.maps.LatLngBounds();
+    var mapOptions = {
+        mapTypeId: 'roadmap'
+    };
+
+    // Display a map on the page
+    map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+    map.setTilt(45);
+
+    // Add upcoming events here
+    // Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+    var markers = [
+      {{ range $.Site.Data.events }}
+        {{ if  and (eq .status "current") ( .startdate ) }}
+          ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}', '/events/{{ .name }}'],
+        {{ end }}
+      {{ end }}
+    ];
+
+    // Display multiple markers on a map
+    // var infoWindow = new google.maps.InfoWindow(), marker, i;
+
+    // Loop through our array of markers & place each one on the map
+    for( i = 0; i < markers.length; i++ ) {
+        var position = new google.maps.LatLng(markers[i][1], markers[i][2]);
+        bounds.extend(position);
+        marker = new MarkerWithLabel({
+            position: position,
+            map: map,
+            labelContent: markers[i][0] + "<br>" + markers[i][3],
+            labelAnchor: new google.maps.Point(25, 50),
+            labelClass: "labels",
+            labelStyle: { opacity: 1 }
+        });
+        // cityLink = markers[i][4]
+        // This isn't working right now btw
+        // google.maps.event.addListener(marker, "click", function (e) { location.href=cityLink});
+
+        // refocus
+        map.fitBounds(bounds);
+    }
+}
+</script>
+
+<script type="text/javascript" language="javascript">
+      window.onload = function()
+      {
+          initialize();
+      };
+</script>
+
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew&sensor=false"></script>
+<script type="text/javascript" src="/js/googlemaps_label.js"></script>
+<!-- <script type="text/javascript" src="/js/googlemaps_content.js"></script> -->
+
+<div id="map_canvas" style="width: 550px; height: 265px"></div>
+<br>
+<center><a href="/pages/organizing">Want to run your own event?</a></center>

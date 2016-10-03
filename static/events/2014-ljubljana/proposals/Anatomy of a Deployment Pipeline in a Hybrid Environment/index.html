@@ -1,0 +1,239 @@
+
+
+
+
+  
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<title>Ljubljana 2014
+ -  Proposal</title>
+<meta name="author" content="Alon Becker" >
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="devopsdays RSS Feed" href="http://www.devopsdays.org/feed/" >
+
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('jquery', '1.3.2');
+</script>
+
+<!---This is a combined jAmpersand, jqwindont , jPullquote -->
+<script type="text/javascript" src="/js/devops.js"></script>
+
+<!--- Blueprint CSS Framework Screen + Fancytype-Screen + jedi.css -->
+<link rel="stylesheet" href="/css/devops.min.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+</head>
+
+
+<body onload="initialize()">
+
+<div class="container ">
+<div class="span-24 last" id="header">
+
+ <div class="span-16 first">
+	<img src="/images/devopsdays-banner.png" title="devopsdays banner" width="801" height="115" alt="devopdays banner" ><br>
+ </div>
+ <div class="span-8 last">
+ </div>
+</div>
+
+<div class="span-24 last">
+<div class="span-15 first">
+<div id="headermenu">
+<table >
+  <tr>
+    <td>
+      <a href="/"><img alt="home" title="home" src="/images/home.png"></a>
+      <a href="/">Home</a>
+    </td>
+    <td>
+      <a href="/contact/"><img alt="contact" title="contact" src="/images/contact.png"></a>
+      <a href="/contact/">Contact</a>
+    </td>
+    <td>
+      <a href="/events/"><img alt="events" title="events" src="/images/events.png"></a>
+      <a href="/events/">Events</a>
+    </td>
+    <td>
+      <a href="/presentations/"><img alt="presentations" title="presentations" src="/images/presentations.png"></a>
+      <a href="/presentations/">Presentations</a>
+    </td>
+    <td>
+      <a href="/blog/"><img alt="blog" title="blog" src="/images/blog.png"></a>
+      <a href="/blog/">Blog</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div>
+<div class="span-8 last">
+</div>
+
+<div class="span-24 last" id="title">
+<div class="span-15 first">
+<h1>Ljubljana 2014
+ -  Proposal </h1>
+</div>
+
+<div class="span-8 last">
+</div>
+
+  
+<h1>Gold sponsors</h1>
+  
+
+</div>
+
+
+<div class="span-15  ">
+  <div class="span-15  last ">
+  <div class="submenu">
+<h3>
+<a href="/events/2014-ljubljana/">welcome</a>&nbsp;
+<a href="/events/2014-ljubljana/propose">propose</a>&nbsp;
+<a href="/events/2014-ljubljana/registration">register</a>&nbsp;
+<a href="/events/2014-ljubljana/program">program</a>&nbsp;
+<a href="/events/2014-ljubljana/location">location</a>&nbsp;
+<a href="/events/2014-ljubljana/sponsor">sponsor</a>&nbsp;
+<a href="/events/2014-ljubljana/contact">contact</a>&nbsp;
+
+</h3>
+</div>
+
+
+Back to <a href='..'>proposals overview</a> - <a href='../../program'>program</a>
+<hr>
+<h3>Anatomy of a Deployment Pipeline in a Hybrid (Windows/Linux) Environment</h3>
+
+  <p><strong>Abstract:</strong></p>
+
+<p>Our team at EToro was challenged with creating a Continuous Delivery system that was generic enough to be used by our over 70 different services. An additional complexity is that most of our environment is Windows .NET, but we have Linux systems for Load Balancing, Message Queueing, Big Data and other operations tasks. In addition dealing with the persistence issues of a Database deployment presents us with additional challenges. An additional complexity is that our environment is highly regulated and access to production systems is restricted. In addition our architecture, processes and culture needed to change.</p>
+
+<p>Our proposal was to create a Deployment Pipeline using Jenkins, Orchestration via MCollective and custom ruby scripts and Puppet for Configuration Management and Deployment. Having successfully implemented this process, I want to explain how we did it, what were the issues we faced and why we chose the tools we did.</p>
+
+<p>Having worked years on the Application Lifecycle Management (ALM) side of things I have a deep knowledge of Jenkins. Many of the people I've talked to on the ALM side did not understand why Jenkins is not enough to deploy from Development to Production. Now living on the Web Operations side of the business I understand that it comes down to Orchestration. A Deployment Pipeline does not do Orchestration. It handles the flow from Dev to Production, but not the complex task of creating zero downtime deployment. Enter MCollective, HAProxy, Puppet, NUnit and friends. By using multiple Load Balancing pools - moving servers between online and maintenance pools we can deploy and test on a portion of servers without bringing down all servers and without exposing these servers to our customers. Once passing our testing phase we can bring the tested servers online and continue with deploying on the rest of the servers.</p>
+
+<p>We used several custom MCollective plugins that interact with HAProxy, and our health check system and created orchestration around MCollective and Puppet using Ruby. And finally tying this all in to the Deployment Pipeline with Jenkins we have a generic, scalable framework for Continuous Delivery.</p>
+
+<p>Monitoring and Logging are also a critical piece for visibility into our process. We use Splunk, Graphite and Nagios for this.</p>
+
+<p>In addition we use pull deployments not push deployments to enable a Continuous Delivery system in our secure environment. MCollective is one of the only tools that can deploy using a Publish/Subscribe (PubSub) paradigm with the help of RabbitMQ.</p>
+
+<p>Finally, none of this could have happened without teamwork. There is a very good reason why DevOps is a cultural revolution. Participation and communication between everyone in the company is what made this possible, from Developers, Operations, QA, Product Management, "The Business", everyone needed to be bought in to this process. We have not rolled out this process to all our services, but we are off and running.</p>
+
+<p><strong>Speaker:</strong>
+Alon Becker has over 15 years of experience in Web Operations, Data Base Administration, Build/Release Management and Development. He has worked in both small startups and large enterprises. He has a passion for automation, continuous delivery and configuration management. He worked at Bladelogic, HP Software, various startups and now works at EToro, the largest social investment network. Currently working in a .Net development environment, he is a true believer in using open source products as the primary tools in his toolchain. But even more important than the tools he believes that DevOps culture creates an environment that solves problems. His toolchain includes Puppet, MCollective, Jenkins, Ruby and many others.</p>
+
+  </div>
+  
+    <div class="span-15 first last">
+  
+<script type="text/javascript">
+
+//    var disqus_developer = 1; 
+
+</script> 
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'devopsdays'; 
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+     <hr>
+    </div>
+  
+</div>
+
+<div class="span-8 last">
+  <div class="span-8 last">
+
+
+
+<i>&nbsp;&nbsp;&nbsp;<a href='/events/2014-ljubljana/sponsor'>Be the first to sponsor!</a></i>
+
+
+
+
+
+
+<h1>Silver sponsors</h1>
+
+
+<a href='http://www.github.com/'><img border=0 alt='Github' title='Github' width=150px height=150px src='/events/2014-ljubljana/logos/github.png'></a>
+
+
+
+<h1>Special sponsors</h1>
+
+<a href='http://astina.si'><img border=0 alt='Astina' title='Astina' height=150px width=150px src='/events/2014-ljubljana/logos/astina.png'></a>
+
+<a href='http://www.comtrade.com/si/'><img border=0 alt='Comtrade' title='Comtrade' height=150px width=150px src='/events/2014-ljubljana/logos/comtrade.png'></a>
+
+<a href='http://dlabs.si/'><img border=0 alt='Dlabs' title='Dlabs' height=150px width=150px src='/events/2014-ljubljana/logos/dlabs.png'></a>
+
+<a href='http://klika.si/'><img border=0 alt='Klika' title='Klika' height=150px width=150px src='/events/2014-ljubljana/logos/klika.png'></a>
+
+<a href='http://www.zemanta.com/'><img border=0 alt='Zemanta' title='Zemanta' height=150px width=150px src='/events/2014-ljubljana/logos/zemanta.png'></a>
+
+
+
+<h1>Media sponsors</h1>
+
+<a href='https://www.kiberpipa.org/sl/'><img border=0 alt='Kiberpipa' title='Kiberpipa' height=150px width=150px src='/events/2014-ljubljana/logos/kiberpipa.png'></a>
+
+<a href='http://www.netokracija.si/'><img border=0 alt='Netokracija' title='Netokracija' height=150px width=150px src='/events/2014-ljubljana/logos/netokracija.png'></a>
+
+<a href='http://www.internetweek.si/'><img border=0 alt='InternetWeek' title='InternetWeek' height=150px width=150px src='/events/2014-ljubljana/logos/internetweek.png'></a>
+
+
+</div>
+  <div class="span-8 last">
+  </div>
+
+
+</div>
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9713393-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>

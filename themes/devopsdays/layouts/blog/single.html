@@ -1,0 +1,31 @@
+{{ partial "header.html" . }}
+<div class = "container-fluid">
+  <div class = "row">
+    <div class="col-md-8">
+      <h2>Upcoming devopsdays events</h2>
+      <div class = "event-list-header">
+        <div class="container">
+          <h3>
+          {{ range $.Site.Data.events }}
+            {{ if eq .status "current" }}
+            {{ $.Scratch.Add "events" "<a href = '/events/" }}
+            {{ $.Scratch.Add "events" .name }}
+            {{ $.Scratch.Add "events" "/welcome'>" }}
+            {{ $.Scratch.Add "events" .city }}
+            {{ $.Scratch.Add "events" "</a> - " }}
+              <!-- <a href = "/events/{{ .friendly }}/welcome">{{ .city }}</a> - -->
+            {{ end }}
+          {{ end }}
+          {{ substr ($.Scratch.Get "events") 0 -3 | safeHTML }}
+          </h3>
+        </div>
+      </div>
+       {{ .Content }}
+    </div>
+    <div class = "col-md-3">
+      {{ partial "twitter.html" . }}
+    </div>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}
