@@ -38,7 +38,7 @@ type = "event"
 
     {{< program_entry time="11:00-11:30" title="Bottoms Up! Exploring History of Operations Mgmt from Henry Ford to John Willis" presenter="ben-rockwood" >}}
     {{< program_entry time="11:30-12:00" title="DevOps will Fail... How the Phoenix Project Simulation can help you Succeed" presenter="jean-bennett" >}}
-    {{< program_entry time="12:00-12:55" title="Lunch" >}}
+    {{< program_entry time="12:00-12:55" title="Lunch & Book Signing with Kelsey Hightower and Jason Hand" >}}
     {{< program_entry time="12:55-13:30" title="Ignite Talks" >}}
     <!--
     1:00–1:05How to Keep the Pace...with the Ever Evolving Technologist Skill Set; Trish Palumbo, Taos
