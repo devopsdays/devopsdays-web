@@ -30,8 +30,8 @@ aliases = ["/events/2016-singapore/program/wthames"]
 
   <h3>Requirements</h2>
   <ul>
-    <li><a href="https://docs.docker.com/engine/installation/" target="_blank">Docker</a> pre-installed
-    <li><a href="https://hub.docker.com/r/ansible/ansible/" target="_blank">Ansible Docker image</a> pre-installed
+    <li>Please follow the following documentation well in advance, to have a more enjoyable experience on the day:
+    <a href="https://github.com/willthames/devops-singapore-2016" target="_blank">https://github.com/willthames/devops-singapore-2016</a>
   </ul>
 
   <h2>When</h2>
