@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/kris-buytaert">Kris Buytaert: <em>Looking back at 7 years of DevOpsDays</em></a> <br><strong>Opening Keynote</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/konrad-hosemann">Konrad Hosemann: <em>Infrastructure as a Microservice</em></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,6 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
+        <a href="/events/2016-berlin/program/martin-thalmann">Martin Thalmann: <em>Communities of practice in large scale DevOps transformation</em></a>
         &nbsp;
       </div>
     </div> <!-- end timeslot div -->
@@ -104,7 +105,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/peter-varhol">Peter Varhol: <em>Talking to People: The forgotten DevOps Tool</em></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,7 +123,12 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><p>
+        <a href="/events/2016-berlin/program/michael-huettermann">Michael Hüttermann: <em>The 20 Shades of Grey</em></a><br />
+        <a href="/events/2016-berlin/program/nathen-harvey">Nathen Harvey: <em>DevOps? That's not my Job!</em></a><br />
+        <a href="/events/2016-berlin/program/michal-bryxi">Michal Bryxí: <em>Git and GitHub Tricks</em></a><br />
+        <a href="/events/2016-berlin/program/anup-bishnoi">Anup Bishnoi: <em>Implementing versioned service discovery in 100 LOC</em></a><br />
+        <a href="/events/2016-berlin/program/anthony-stanton">Anthony Stanton: <em>Come to Germany, Pepe</em></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -142,7 +148,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #1
+        Open Space #1<p>
+        <strong>Hands-On Workshop 1</strong><br />
+        <a href="/events/2016-berlin/program/george-miranda-2">George Miranda: <em>Habitat Workshop</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -152,7 +160,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #2
+        Open Space #2<p>
+        <strong>Hands-On Workshop 2</strong><br />
+        <a href="/events/2016-berlin/program/david-schmitt-2">David Schmitt: <em>How to read code and understand bugs</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -162,7 +172,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #3
+        Open Space #3<p>
+        <strong>Hands-On Workshop 3</strong><br />
+        <a href="/events/2016-berlin/program/james-shubin">James Shubin: <em>Next Generation Config Mgmt</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -220,7 +232,8 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/hannah-foxwell">Hannah Foxwell: <em>Information Overload and the Real Cost of Interuptions</em></a><br />
+        <strong>Day 2 Keynote</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +251,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/tp-honey">TP Honey: <em>The Art of Supportability</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +269,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/avishai-ish-shalom">Avishai Ish-Shalom: <em>The Mathematics of Reliability</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +287,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-berlin/program/rodrigo-campos">Rodrigo Campos: <em>Building a Culture of Builders – The adventures of building an engineering team at Facebook London</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -293,6 +306,11 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <a href="/events/2016-berlin/program/blerim-sheqa">Blerim Sheqa: <em>Boost your Graphs!</em></a><br />
+        <a href="/events/2016-berlin/program/gerald-schmidt">Gerald Schmidt: <em>Turtles all the way down: Native Containers, Native Code</em></a><br />
+        <a href="/events/2016-berlin/program/david-schmitt">David Schmitt: <em>Diversity vs. Cultural Fit</em></a><br />
+        <a href="/events/2016-berlin/program/alexander-schwartz">Alexander Schwartz: <em>Forget about Red Shirts, here come the Tribbles</em></a><br />
+        <a href="/events/2016-berlin/program/george-miranda">George Miranda: <em>Dissecting the Role-Cookbook pattern</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -312,7 +330,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #1
+        Open Space #1<p>
+        <strong>Hands-On Workshop 1</strong><br />
+        <a href="/events/2016-berlin/program/romain-pelisse">Romain Pelisse and François Le Droff: <em>Chef vs. Ansible</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -322,7 +342,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #2
+        Open Space #2<p>
+        <strong>Hands-On Workshop 2</strong><br />
+        <a href="/events/2016-berlin/program/johannes-nicolai">Johannes Nicolai: <em>How GitHub uses GitHub to develop and deploy GitHub</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
