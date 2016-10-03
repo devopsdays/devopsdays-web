@@ -14,6 +14,8 @@ location: "Raffles City Convention Centre, Singapore" # The name of your locatio
 newnav: "yes"
 nav_elements:
   - name: welcome
+  - name: speakers
+  - name: program
   - name: location
   - name: propose
   - name: proposals
@@ -27,14 +29,14 @@ team_members:
   - name: "Christian Trabold"
     twitter: "ctrabold"
     employer: ""
-  - name: "Maris Prabhakaran"
-    twitter: "MarisAgility"
-    employer: ""
   - name: "Satyam Agarwala"
     twitter: "satyamag"
     employer: ""
   - name: "Sergiu Bodiu"
     twitter: "sergiu_bodiu"
+    employer: ""
+  - name: "Stefan Streichsbier"
+    twitter: "s_streichsbier"
     employer: ""
 
 organizer_email: "organizers-singapore-2016@devopsdays.org" # Put your organizer email address here
@@ -42,6 +44,12 @@ proposal_email: "proposals-singapore-2016@devopsdays.org" # Put your proposal em
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: thoughtworks-services
     level: platinum
+  - id: forest_technologies
+    level: gold
+  - id: puppet
+    level: gold
+  - id: 2016-akeles
+    level: gold
   - id: redhat
     level: travel
   - id: chef
@@ -50,5 +58,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
   - id: travel
     label: Travel

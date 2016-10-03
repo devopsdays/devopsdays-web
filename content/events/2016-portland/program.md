@@ -174,6 +174,15 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
+    <time>15:50-16:10</time>
+  </div>
+  <div class = "col-md-8 box">
+    Break
+  </div>
+</div> <!-- end timeslot div -->
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "col-md-2 col-md-offset-1">
     <time>16:10-16:40</time>
   </div>
   <div class = "col-md-8 box">
@@ -192,10 +201,10 @@ type = "event"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-2 col-md-offset-1">
-    <time>18:00-late</time>
+    <time>18:00-21:00</time>
   </div>
   <div class = "col-md-8 box">
-    Evening Event
+    Evening Event hosted by New Relic
   </div>
 </div> <!-- end timeslot div -->
 
@@ -283,7 +292,7 @@ type = "event"
     <time>11:20-11:50</time>
   </div>
   <div class = "col-md-8 box">
-    [On-call developers: how we got here and what we need to do about it (<em>Stephen Boak</em>)](/events/2016-portland/program/stephen-boak)
+    [Monitor the Unmeasureable (<em>Jennifer Davis</em>)](/events/2016-portland/program/jennifer-davis)
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -344,6 +353,15 @@ type = "event"
   </div>
   <div class = "col-md-8 box">
     Open Space #3
+  </div>
+</div> <!-- end timeslot div -->
+<!-- this div is repeated for each timeslot -->
+<div class = "row">
+  <div class = "col-md-2 col-md-offset-1">
+    <time>15:50-16:10</time>
+  </div>
+  <div class = "col-md-8 box">
+    Break
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->

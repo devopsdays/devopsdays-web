@@ -14,6 +14,18 @@ type = "event"
 </div>
 
 <div class = "row">
+  <div class = "col-md-12" style="text-align:center;">
+    <hr />
+    <strong><a href="https://www.youtube.com/watch?v=Z9bY-R_pNoM">Live Stream</a>
+    &mdash;
+    <a href="https://www.streamtext.net/player?event=DevOpsDays">Transcription</a>
+    &mdash;
+    <a href = "https://docs.google.com/spreadsheets/d/1qC97WQD0MNTZV1ZJEjJ1Uw-n469TqqK5qLudZmBw5L0/edit?usp=sharing">Open Space Schedule</a>
+    <hr /></strong>
+  </div>
+</div>
+
+<div class = "row">
   <div class = "col-md-12 col-md-offset-4">
     <h2>The Schedule</h2>
   </div>
@@ -50,7 +62,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Adam Jacob - The Evolution of Automation
+        <a href="/events/2016-chicago/program/adam-jacob">Adam Jacob - The Evolution of Automation</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +80,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Joel Vasallo - The Five Phases of DevOps
+        <a href="/events/2016-chicago/program/joel-vasallo">Joel Vasallo - The Five Phases of DevOps</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +98,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        Jeremy Edberg - How is the role of DevOps changing in a Serverless environment?
+        <a href="/events/2016-chicago/program/jeremy-edberg">Jeremy Edberg - How is the role of DevOps changing in a Serverless environment?</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +116,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        Angela Dugan - Fear and (Self) Loathing in IT – A Healthy Discussion on Imposter Syndrome</a>
+        <a href="/events/2016-chicago/program/angela-dugan">Angela Dugan - Fear and (Self) Loathing in IT – A Healthy Discussion on Imposter Syndrome</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,18 +134,29 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <p><strong>Ignites</strong></p>
-        <p>Alison Stanton - Ways DevOps Could Be More Accessible</p>
-        <p>Allie Richards - What's that creature living in my cloud?</p>
-        <p>Jamesha Fisher - Out of the Basement: Demystifying Security and Operations</p>
-        <p>Rebecca Miller-Webster - Building resilience in our organizations, our teams, and ourselves</p>
-        <p>Jeff Smith - Dungeons and Dragons....and DevOps</p>
+        <strong>Ignites</strong>
+        <ul>
+          <li><a href="/events/2016-chicago/program/alison-stanton">Alison Stanton - Ways DevOps Could Be More Accessible</a></li>
+          <li><a href="/events/2016-chicago/program/allie-richards">Allie Richards - What's that creature living in my cloud?</a></li>
+          <li><a href="/events/2016-chicago/program/jamesha-fisher">Jamesha Fisher - Out of the Basement: Demystifying Security and Operations</a></li>
+          <li><a href="/events/2016-chicago/program/rebecca-miller-webster">Rebecca Miller-Webster - Building resilience in our organizations, our teams, and ourselves</a></li>
+          <li><a href="/events/2016-chicago/program/jeff-smith">Jeff Smith - Dungeons and Dragons....and DevOps</a></li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-13:40</time>
+      </div>
+      <div class = "col-md-6 box">
+        Sponsors
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:40-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -143,7 +166,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:15-15:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -153,7 +176,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:00-15:15</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:15-16:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -163,7 +195,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:15-17:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -173,7 +205,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>17:00-17:15</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Logistics
@@ -182,10 +214,13 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>18:00-late</time>
+        <time>18:30-21:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Event</strong><br />
+        <a href = "http://www.10pinchicago.com/#Evolution">10Pin Bowling Lounge</a> - River North<br />
+        330 N. State St.<br />
+        Chicago, IL
       </div>
     </div> <!-- end timeslot div -->
 
@@ -225,7 +260,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Jill Jubinski - DevOps'ing Recruitment
+        <a href="/events/2016-chicago/program/jill-jubinski">Jill Jubinski - DevOps'ing Recruitment</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -243,7 +278,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Àbéjídé Àyodélé - Lessons learnt from "Shipping" Containers
+        <a href="/events/2016-chicago/program/abejide-ayodele">Àbéjídé Àyodélé - Lessons learnt from "Shipping" Containers</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -261,7 +296,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        Nell Shamrell-Harrington - Untangling Infrastructure Code Through Refactoring
+        <a href="/events/2016-chicago/program/nell-shamrell-harrington">Nell Shamrell-Harrington - Untangling Infrastructure Code Through Refactoring</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -279,7 +314,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        Brian Henerey - Leading an Enterprise to the Public Cloud
+        <a href="/events/2016-chicago/program/brian-henerey">Brian Henerey - Leading an Enterprise to the Public Cloud</a><br /><br/>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -297,18 +332,30 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <p><strong>Ignites</strong></p>
-        <p>Ken Mugrage - The answer to the “where do we start” question</p>
-        <p>Heidi Waterhouse - Fear of the Bus</p>
-        <p>Morgan Rhodes - Presenting Nervously</p>
-        <p>Michael Stahnke - What I’ve learned interviewing more than 150 people face to face</p>
-        <p>Joshua Zimmerman - DevOps Deep Thoughts by Not Jack Handey</p>
+        <strong>Ignites</strong>
+        <ul>
+          <li><a href="/events/2016-chicago/program/ken-mugrage">Ken Mugrage - The answer to the “where do we start” question</a></li>
+          <li><a href="/events/2016-chicago/program/heidi-waterhouse">Heidi Waterhouse - Fear of the Bus</a></li>
+          <li><a href="/events/2016-chicago/program/morgan-rhodes">Morgan Rhodes - Presenting Nervously</a></li>
+          <li><a href="/events/2016-chicago/program/michael-stahnke">Michael Stahnke - What I’ve learned interviewing more than 150 people face to face</a></li>
+          <li><a href="/events/2016-chicago/program/joshua-zimmerman">Joshua Zimmerman - DevOps Deep Thoughts by Not Jack Handey</a></li>
+        </ul>
+        <br/><br/><br/><br/><br/>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-13:40</time>
+      </div>
+      <div class = "col-md-6 box">
+        Sponsors
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:40-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -318,7 +365,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:15-15:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -328,7 +375,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:00-15:15</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:15-16:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -338,7 +394,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:15-17:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -348,7 +404,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>17:00</time>
+        <time>17:00-17:15</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Farewell

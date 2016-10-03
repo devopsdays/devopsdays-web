@@ -1,4 +1,4 @@
-<!-- The following blocks of comments explains how this list is generated with Hugo.
+ <!-- The following blocks of comments explains how this list is generated with Hugo.
 If you read this post generation, it will make no sense. see pre generated sources -->
 
 <!-- Scan through a range of years and look in data/events for events during these years.
@@ -9,11 +9,14 @@ Chomping .year has the nice effect of turning an int into string. -->
 {{ range seq 2009 2020 }}
   {{ $r_year := . }}
   {{ range $.Site.Data.events }}
-    {{ if and (eq .year $r_year) (eq .status "past")  }}
-      {{ $.Scratch.SetInMap "active_years" (print (chomp .year)) (print (chomp .year)) }}
-      {{ $.Scratch.SetInMap (print (chomp .year)) .startdate (.name) }}
+  {{ if .startdate }}
+  {{ $my_year := string ((dateFormat "2006" .startdate ))}}
+    {{ if and (eq $my_year (string $r_year)) ( lt (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")))  }}
+      {{ $.Scratch.SetInMap "active_years" (print (chomp $my_year)) (print (chomp $my_year)) }}
+      {{ $.Scratch.SetInMap (print (chomp $my_year)) .startdate (.name) }}
     {{ end }}
   {{ end }}
+{{ end }}
 {{ end }}
 
 <div class = "row">
@@ -24,15 +27,15 @@ Chomping .year has the nice effect of turning an int into string. -->
 <div class = "row">
   <!-- Now scan through all the years that were marked as active in order to print the headline -->
   {{ range ($.Scratch.GetSortedMapValues "active_years") }}
-    <div class = "col-md-3">
+    <div class = "col-md-4">
       <strong>{{ . }}</strong>
       <br/>
         <!-- Finally, scan throug the scratch with the ID of that year and print all the events sorted by startdate
   Chomping here in order to convert int to string -->
         {{ range ($.Scratch.GetSortedMapValues (print (chomp .))) }}
-          {{ $city := (index $.Site.Data.events . "city") }}
-          {{ $friendly := (index $.Site.Data.events . "friendly") }}
-          <a href="/events/{{ $friendly }}/">{{ $city }}</a>
+            {{ $.Scratch.Set "citydisplay" (index $.Site.Data.events . "city") }}
+          {{ $friendly := (index $.Site.Data.events . "name") }}
+          <a href="/events/{{ $friendly }}/">{{ $.Scratch.Get "citydisplay" }}</a>
           <br/>
         {{ end }}
       </div>

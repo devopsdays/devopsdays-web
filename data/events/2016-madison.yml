@@ -20,11 +20,12 @@ location: "Overture Center for the Arts" # Defaults to city, but you can make it
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-  - name: propose
+  - name: program
+  - name: speakers
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -34,9 +35,9 @@ team_members: # Name is the only required field for team members.
   - name: "Michael Goodness"
   - name: "Christian Herro"
     twitter: "christianherro"
-  - name: "Javier Alvarez Samayoa"
 #    employer: "Acme Anvil Co."
   - name: "Michael Stahnke"
+    twitter: "stahnma"
   - name: "Cea Stapleton"
   - name: "Josh Zimmerman"
     twitter: "thejewberwocky"
@@ -46,10 +47,24 @@ proposal_email: "proposals-madison-2016@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: github
     level: gold
-#  - id: arresteddevops
-#    level: community
+  - id: concurrency
+    level: silver
+  - id: chef
+    level: silver
+  - id: arresteddevops
+    level: community
+  - id: victorops
+    level: silver
+  - id: pivotal
+    level: gold
+  - id: adorable
+    level: event
+  - id: healthfinch
+    level: gold
+  - id: widen
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -60,3 +75,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: community
     label: Community
+  - id: event
+    label: Evening Event

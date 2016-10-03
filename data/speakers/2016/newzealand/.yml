@@ -1,0 +1,3 @@
+name: ""
+twitter: "Regardless of how fast you can release features into your production environments, unfortunately we caeterlikely that you will have to deal with a business impacting outage at some point. Having resilient mechanisms, and procedures in place means that 90% of these potential issues can be caught before they cause you true headaches, but in a true worst case scenario it's important to be able to quickly diagnose issues, and restore services."
+bio: ""

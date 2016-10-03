@@ -2,7 +2,7 @@ name: "2016-boston" # The name of the event. Four digit year with the city name 
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The city name of the event. Capitalize it.
 friendly: "2016-boston" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current". Use "current" for upcoming.
+status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
 startdate: 2016-08-25  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -61,6 +61,10 @@ sponsors:
     level: platinum
   - id: pagerduty
     level: platinum
+  - id: gcp
+    level: platinum
+  - id: atlassian
+    level: platinum
   - id: datadog
     level: gold
   - id: 2016-pivotal
@@ -75,10 +79,24 @@ sponsors:
     level: gold
   - id: 2016-sumologic
     level: gold
+  - id: 2016-onpage
+    level: gold
+  - id: 2016-athenahealth
+    level: gold
+  - id: logz
+    level: gold
   - id: 2016-brainshark
     level: silver
-#  - id: arresteddevops
-#    level: community
+  - id: 2016-vistaprint
+    level: silver
+  - id: 2016-constantcontact
+    level: silver
+  - id: 2016-spotify
+    level: silver
+  - id: 2016-ns1
+    level: silver
+  - id: 2016-microsoft
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum

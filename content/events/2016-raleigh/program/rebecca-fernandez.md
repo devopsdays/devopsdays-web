@@ -10,7 +10,7 @@ aliases = ["/events/2016-raleigh/program/rebecca-fernandez/"]
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-How to be more open, collaborative, and inclusive at work</p>
+Tools aren't just about tech</p>
 
 <p><strong>Description:</strong></p>
 <p>There are foundational reasons why collaboration and communication is highly valued by the Agile and DevOps communities. However, much of the industry focuses on software tooling, rather than providing foundations to help with improving culture. When the industry thinks about the human parts of Agile and DevOps, they often think about things like Scrum, Kanban, Extreme Programming, or alternatively, how much they will not do one of those things. Yet experienced practitioners will tell you that the standard methodologies like Scrum and Kanban are significantly less important than the method you use to communicate with your coworkers.

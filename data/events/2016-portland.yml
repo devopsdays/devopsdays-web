@@ -1,8 +1,8 @@
 name: 2016-portland # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2016" # The year of the event. Make sure it is in quotes.
+year: 2016 # The year of the event. Make sure it is in quotes.
 city: "Portland" # The city name of the event. Capitalize it.
 friendly: "2016-portland" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current".
+status: "past" # Options are "past" or "current".
 startdate: 2016-08-09 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-08-10 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-03-15
@@ -58,11 +58,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: elastic
     level: gold
-  - id: chef-before-20160714 
+  - id: chef-before-20160714
     level: gold
   - id: ca_tech
     level: gold
-  - id: thoughtworks-products
+  - id: thoughtworks-products-before-20160908
     level: gold
   - id: github
     level: gold
@@ -80,17 +80,33 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pagerduty
     level: gold
+  - id: pure-storage
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: newrelic
+    level: event
   - id: victorops
     level: silver
   - id: columbia
     level: silver
   - id: simple
     level: silver
+  - id: 2016-canonical
+    level: silver
   - id: symantec
     level: bronze
+  - id: volt
+    level: lanyard
   - id: arresteddevops
     level: community
   - id: recompiler
+    level: community
+  - id: oreilly
+    level: community
+  - id: bsidespdx
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -98,10 +114,18 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Platinum
   - id: gold
     label: Gold
+    max: 16
+  - id: event
+    label: Evening Event
+    max: 1
   - id: silver
     label: Silver
+    max: 6
   - id: bronze
     label: Bronze
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: community
     label: Community
 
@@ -132,7 +156,7 @@ speakers:
     level: talk
   - id: "ben-hughes"
     level: talk
-  - id: "stephen-boak"
+  - id: "jennifer-davis"
     level: talk
   - id: "e-dunham"
     level: talk

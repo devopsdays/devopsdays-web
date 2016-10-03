@@ -2,7 +2,7 @@ name: "2016-oslo" # The name of the event. Four digit year with the city name in
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Oslo" # The city name of the event. Capitalize it.
 friendly: "2016-oslo" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current". Use "current" for upcoming.
+status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
 startdate: 2016-09-05  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -102,6 +102,18 @@ sponsors:
     level: gold
   - id: knowit
     level: gold
+  - id: microsoft
+    level: gold
+  - id: tripletex
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: stackstate
+    level: gold
+  - id: soprasteria
+    level: gold
+  - id: intility
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -114,7 +126,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 speakers:
   - id: "mark-burgess"
     level: talk
-  - id: "jon-arild-torresdal" # no bio here - http://localhost:1313/events/2016-oslo/program/jon-arild-torresdal/ ???
+  - id: "jon-arild-torresdal"
     level: talk
   - id: "martin-b-smith"
     level: talk
@@ -124,13 +136,17 @@ speakers:
     level: talk
   - id: "anton-babenko"
     level: talk
-  - id: "kjetil-jorgensen-dahl" # no bio here - http://localhost:1313/events/2016-oslo/program/kjetil-jorgensen-dahl/ ???
+  - id: "kjetil-jorgensen-dahl"
     level: talk
   - id: "kris-buytaert"
     level: talk
   - id: "jody-wolfborn"
     level: talk
   - id: "marta-paciorkowska"
+    level: talk
+  - id: "daniela-soares-cruzes"
+    level: talk
+  - id: "mari-grini"
     level: talk
 
 

@@ -42,79 +42,70 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:10</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Welcome & Announcements
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/daniel-maher">Daniel Maher (Mozilla)</br>Where are we going and how did we get here?</a>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
+    <!-- this div is repeated for each timeslot
     <div class = "row">
       <div class = "col-md-4">
         <time>09:45-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        Platinum Sponsor
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/spencer-krum">Spencer Krum (IBM)</br>Code Review for Operations</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:30-11:00</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+        Coffee Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>11:00-11:35</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/dale-humby">Dale Humby (Nomanini)</br>DevOps vs Hardware: Round 2</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:35-12:10</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+        <a href="/events/2016-capetown/program/eric-maxwell">Eric Maxwell (Chef)</br>The Looming Complexity Crisis</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
-      </div>
-      <div class = "col-md-6 box">
-        &nbsp;
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>12:10-13:10</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)
@@ -123,7 +114,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:30</time>
+        <time>13:10-13:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
@@ -175,7 +166,7 @@ type = "event"
         <time>16:45-17:00</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Logistics
+        Close Day &amp; Logistics for evening event
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -206,58 +197,58 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:10</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Welcome & Announcements
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:10-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/seth-vargo">Seth Vargo (HashiCorp)</br>Building Secure Applications with Vault</a>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
+    <!-- this div is repeated for each timeslot
     <div class = "row">
       <div class = "col-md-4">
         <time>09:45-09:55</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:55-10:25</time>
-      </div>
-      <div class = "col-md-6 box">
         &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>09:55-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+        <a href="/events/2016-capetown/program/jp-viljoen">JP Viljoen</br>Infrastructure That Goes Bump In The Night</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>10:30-10:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        Coffee Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>10:45-11:20</time>
+      </div>
+      <div class = "col-md-6 box">
+        <a href="/events/2016-capetown/program/david-rubin">David Rubin (OLX)</br>Migrating at Scale</a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot
     <div class = "row">
       <div class = "col-md-4">
         <time>11:10-11:20</time>
@@ -269,16 +260,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:20-11:55</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-capetown/program/noa-resare">Noa Resare (Facebook)</br>Scaling operations with DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>11:55-13:00</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)

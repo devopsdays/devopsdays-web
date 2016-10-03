@@ -17,11 +17,25 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-raleigh-2016-tickets-23830096460
+  - name: volunteer
   - name: contact
   - name: location
   - name: conduct
 
-team: ["Jen Krieger", "Joe Brockmeier", "Ann Marie Fred", "Kaete Piccirilli", "Chris Knotts", "Mark Mzyk"]
+team_members: # Name is the only required field for team members.
+  - name: "Jen Krieger"
+  - name: "Joe Brockmeier"
+  - name: "Ann Marie Fred"
+  - name: "Kaete Piccirilli"
+  - name: "Chris Knotts"
+  - name: "Mark Mzyk"
+  - name: "Katie Cothran"
+
+# Add twitter and/or employer to team member individual listings like this
+#  - name: "Foo Bar"
+#    twitter: "foobartwitter"
+#    employer: "Acme Inc"
+
 organizer_email: "organizers-raleigh-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
@@ -35,7 +49,39 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2016-spreedly
     level: silver
-
+  - id: adzerk
+    level: silver
+  - id: chef
+    level: gold
+  - id: 2016-g2-tech-group
+    level: platinum
+  - id: tintri
+    level: gold
+  - id: ibm
+    level: gold
+  - id: netapp
+    level: platinum
+  - id: pagerduty
+    level: platinum
+  - id: sumologic
+    level: platinum
+  - id: thoughtworks-products
+    level: platinum
+  - id: pivotal
+    level: platinum
+  - id: sonatype
+    level: community
+  - id: apprenda
+    level: platinum
+  - id: interactive-intelligence
+    level: gold
+  - id: ansible
+    level: gold
+  - id: ally
+    level: gold
+  - id: tek-systems
+    level: coffee
+  
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
     label: Platinum
@@ -45,6 +91,10 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: media
     label: Media
+  - id: community
+    label: Community
+  - id: coffee
+    label: Coffee
 
 speakers:
   - id: "michael-dehaan"
@@ -71,6 +121,19 @@ speakers:
     level: talk
   - id: "fraser-pollock"
     level: talk  
+  - id: "clinton-wolfe"
+    level: talk
+  - id: "gabe-ortiz"
+    level: talk
+  - id: "brian-oconnell"
+    level: talk
+  - id: "ryan-cook"
+    level: talk
+  - id: "maggie-gourlay"
+    level: talk
+  - id: "dylan-schowengerdt"
+    level: talk
+  
 speaker_levels:
   - id: talk
     label: Talk

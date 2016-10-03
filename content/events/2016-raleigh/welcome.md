@@ -17,7 +17,7 @@ aliases = ["/events/2016-raleigh"]
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -26,16 +26,16 @@ aliases = ["/events/2016-raleigh"]
     {{< event_location >}}
   </div>
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    CFP is now closed.
+   All talks have been selected at this time. Thank you so much for your submissions!
   </div>
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -44,7 +44,7 @@ aliases = ["/events/2016-raleigh"]
     <a href="https://www.eventbrite.com/e/devopsdays-raleigh-2016-tickets-23830096460">Register to attend the conference!</a>
   </div>
 </div>
-
+<br>
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -71,7 +71,7 @@ aliases = ["/events/2016-raleigh"]
     {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
   </div>
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>

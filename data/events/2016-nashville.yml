@@ -39,6 +39,26 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef
     level: silver
+  - id: cons3rt
+    level: bronze
+  - id: eventbrite
+    level: bronze
+  - id: opensky
+    level: silver
+  - id: ena
+    level: silver
+  - id: stratasan
+    level: beverage
+  - id: pivotal
+    level: gold
+  - id: netapp
+    level: silver
+  - id: changehealthcare
+    level: bronze
+  - id: gitlab 
+    level: bronze
+  - id: cloudian
+    level: bronze
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
@@ -46,7 +66,9 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
-  - id: media
-    label: Media
   - id: badges
     label: Badges
+  - id: beverage
+    label: Beverage
+  - id: media
+    label: Media

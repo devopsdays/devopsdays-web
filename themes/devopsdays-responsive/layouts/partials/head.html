@@ -5,7 +5,6 @@
 {{ partial "meta.html" . }}
 {{ partial "head/seo.html" . }}
 {{ .Hugo.Generator }}
-<base href="{{ .Site.BaseURL }}">
 <title>
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
 {{ if eq $url "/" }}

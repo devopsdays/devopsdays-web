@@ -2,7 +2,7 @@ name: 2016-chicago
 year: "2016"
 city: "Chicago"
 friendly: "2016-chicago"
-status: "current"
+status: "past"
 startdate: 2016-08-30
 enddate: 2016-08-31
 cfp_date_start: 2016-04-01
@@ -17,7 +17,8 @@ nav_elements:
   # - name: propose
   #   url: http://cfp.devopsdayschi.org
   - name: program
-  - name: registration
+  - name: speakers
+  # - name: registration
   - name: sponsor
   - name: volunteer
   - name: location
@@ -28,10 +29,14 @@ team_members:
   - name: "Jerry Cattell"
     twitter: "jcattell"
   - name: "Brian Devlin"
+    twitter: "nilved"
+  - name: "Joshua Goldman"
   - name: "Cora Hays-Magan"
   - name: "Michael Lanyon"
+    twitter: "lanyonm"
   - name: "Aaron Lindstrom"
   - name: "Chris Read"
+    twitter: "cread"
   - name: "Kevin Reedy"
   - name: "Sasha Rosenbaum"
   - name: "Matt Stratton"
@@ -40,6 +45,7 @@ organizer_email: "organizers@devopsdayschi.org"
 proposal_email: "cfp@devopsdayschi.org"
 ga_tracking_id: "UA-74738648-1"
 
+sponsors_accepted: "no"
 sponsors:
   - id: pivotal
     level: gold
@@ -55,7 +61,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: thoughtworks-products
+  - id: thoughtworks-products-before-20160908
     level: gold
   - id: github
     level: gold
@@ -69,19 +75,45 @@ sponsors:
     level: gold
   - id: 2016-carsdotcom
     level: gold
-  - id: takipi
+  - id: overops
     level: gold
   - id: opsgenie
     level: gold
   - id: panopta
     level: gold
+  - id: evident
+    level: gold
   - id: pagerduty
-    level: silver
+    level: gold
+  - id: 2016-newrelic
+    level: gold
+  - id: signalsciences
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: slalom
+    level: gold
+  - id: cloudbees
+    level: gold
   - id: servercentral
     level: silver
   - id: morpheus_data
-    level: bronze
+    level: silver
+  - id: 2016-ns1
+    level: silver
+  - id: columntech
+    level: silver
+  - id: puppet
+    level: silver
+  - id: concurrency
+    level: silver
+  - id: herzum
+    level: silver
+  - id: atlassian
+    level: silver
   - id: drw
+    level: bronze
+  - id: cons3rt
     level: bronze
   - id: arresteddevops
     level: community
@@ -99,6 +131,8 @@ sponsors:
     level: community
   - id: grubhub
     level: lunch
+  - id: appdynamics
+    level: lanyard
 
 sponsor_levels:
   - id: gold
@@ -111,4 +145,47 @@ sponsor_levels:
     label: Community
   - id: lunch
     label: Lunch
+  - id: lanyard
+    label: Lanyard
 
+speakers:
+  - id: "abejide-ayodele"
+    level: talk
+  - id: "adam-jacob"
+    level: talk
+  - id: "alison-stanton"
+    level: talk
+  - id: "allie-richards"
+    level: talk
+  - id: "angela-dugan"
+    level: talk
+  - id: "brian-henerey"
+    level: talk
+  - id: "heidi-waterhouse"
+    level: talk
+  - id: "jamesha-fisher"
+    level: talk
+  - id: "jeff-smith"
+    level: talk
+  - id: "jeremy-edberg"
+    level: talk
+  - id: "jill-jubinski"
+    level: talk
+  - id: "joel-vasallo"
+    level: talk
+  - id: "joshua-zimmerman"
+    level: talk
+  - id: "ken-mugrage"
+    level: talk
+  - id: "michael-stahnke"
+    level: talk
+  - id: "morgan-rhodes"
+    level: talk
+  - id: "nell-shamrell-harrington"
+    level: talk
+  - id: "rebecca-miller-webster"
+    level: talk
+
+speaker_levels:
+  - id: talk
+    label: Talk
