@@ -266,7 +266,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-<time>11:00-11:30</timen
+        <time>11:00-11:30</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-nashville/program/norbert-crombach">Norbert Crombach - Ops for Africa</a>
