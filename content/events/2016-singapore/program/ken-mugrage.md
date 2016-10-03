@@ -32,6 +32,8 @@ aliases = ["/events/2016-singapore/program/kmugrage"]
   <ul>
     <li><a href="https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a> for Virtualbox
     <li><a href="https://www.vagrantup.com/downloads.html">https://www.vagrantup.com/downloads.html</a> for Vagrant
+    <li>command line <code>ssh</code> client
+    <li>command line <code>git</code> client
   </ul>
   </div>
 </div>
