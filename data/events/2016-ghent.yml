@@ -59,3 +59,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: community
     label: Community
+  - id:  combell
+    level: silver
+
