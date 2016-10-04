@@ -301,7 +301,6 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
         <ul>
-          <li><a href="/events/2016-madison/program/kim-crayton">Kim Crayton - Overcoming the Challenges of Mentoring</a></li>
           <li><a href="/events/2016-madison/program/kevan-bard">Kevan Bard - case when devops = 1 then compliance = 'simplified' else compliance = 'pita' end</a></li>
           <li><a href="/events/2016-madison/program/kevin-babcock">Kevin Babcock - Don't be a Security Bully: Strategies for Getting Security Picked First on the Developer Playground</a></li>
           <li><a href="/events/2016-madison/program/alison-stanton">Alison Stanton - Ways DevOps Could Be More Accessible</a></li>
