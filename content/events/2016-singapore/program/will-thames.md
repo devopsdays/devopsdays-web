@@ -22,12 +22,6 @@ aliases = ["/events/2016-singapore/program/wthames"]
 
   Each section will be succeeded by a practical session.
 
-  <h3>Deliverables</h3>
-  <ul>
-    <li>Two docker containers, one for running ansible and one as a target.
-    <li>Slides of the content including links to helpful resources
-  </ul>
-
   <h3>Requirements</h2>
   <ul>
     <li>Please follow the following documentation well in advance, to have a more enjoyable experience on the day:
