@@ -15,10 +15,6 @@ aliases = [
 
 DevOps Days is coming to {{< event_location >}}!
 
-*DevOpsDays Baltimore postponed* - a number of factors have led the organizers
-of DevOpsDays Baltimore to postpone our inaugural event.  Please join us in
-March for DevOpsDays Baltimore.
-
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
