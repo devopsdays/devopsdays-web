@@ -71,6 +71,14 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: kms-technology
     level: bronze
+  - id: comcast
+    level: silver
+  - id: github
+    level: gold
+  - id: vistarmedia
+    level: bronze
+  - id: cloudbees
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
