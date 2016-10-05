@@ -74,7 +74,9 @@ sponsors:
   - id: redhat
     level: silver
   - id: 2016-vml
-    level: silver     
+    level: silver
+  - id: bmc
+    level: bronze          
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
