@@ -55,10 +55,14 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: changehealthcare
     level: bronze
-  - id: gitlab 
+  - id: gitlab
     level: bronze
   - id: cloudian
     level: bronze
+  - id: sumologic
+    level: gold
+  - id: icinga
+    level: badges
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
