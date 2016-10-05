@@ -52,17 +52,14 @@ type="event"
     </div>
     <div class="row"><div class="col-md-4"><time>12:30-13:15</time></div><div class="col-md-6 box"><strong>Lunch (catered)</strong></div></div>
     <div class="row"><div class="col-md-4"><time>13:15-14:00</time></div><div class="col-md-6 box">Panel Discussion</div></div>
-    <div class="row"><div class="col-md-4"><time>14:00-14:40</time></div><div class="col-md-6 box">Ignites (max 8)
-    <ol>
-      <li>14:00
-      <li>14:05
-      <li>14:10
-      <li>14:15
-      <li>14:20
-      <li>14:25
-      <li>14:30
-      <li>14:35
-    </ol>
+    <div class="row"><div class="col-md-4"><time>14:00-14:40</time></div><div class="col-md-10 box">Ignites
+      <br/><a href="/events/2016-singapore/program/clemri-steyn">Clemri Steyn - 7 Habits of successful DevOps</a>
+      <br/><br/><a href="/events/2016-singapore/program/benjamin-henshall">Benjamin Henshall	- Are we bridging the cultural divide that is necessary for DevOps to succeed</a>
+      <br/><br/><a href="/events/2016-singapore/program/stefan-streichsbier">Stefan Streichsbier - Security in an Agile World OR Security at DevOps Speed</a>
+      <br/><br/><a href="/events/2016-singapore/program/ion-mudreac">Ion Mudreac - Beyond DevOps ?</a>
+      <br/><br/><a href="/events/2016-singapore/program/angad-singh">Angad Singh - Devops and Standards</a>
+      <br/><br/><a href="/events/2016-singapore/program/10-tips-to-create-toxic-tech-team">Seth Vargo - 10 Tips to Create a Toxic Tech Team</a>
+      <br/><br/><a href="/events/2016-singapore/program/clemens-perz">Clemens Perz - Can't keep it simple, stupid!</a>
     </div></div>
     <div class="row"><div class="col-md-4"><time>14:40-14:50</time></div><div class="col-md-6 box">Break / Open Space Opening</div></div>
     <div class="row"><div class="col-md-4"><time>14:50-15:15</time></div><div class="col-md-6 box">Open Space Voting</div></div>
