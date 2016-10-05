@@ -47,6 +47,8 @@ team_members: # Name is the only required field for team members.
   - name: "Bastian Widmer"
     twitter: "dasrecht"
     employer: "amazee.io"
+  - name: "Margo Cronin"
+
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
 

@@ -22,10 +22,10 @@ aliases = ["/events/2016-singapore/program/wthames"]
 
   Each section will be succeeded by a practical session.
 
-  <h3>Deliverables</h3>
+  <h3>Requirements</h2>
   <ul>
-    <li>Two docker containers, one for running ansible and one as a target.
-    <li>Slides of the content including links to helpful resources
+    <li>Please follow the following documentation well in advance, to have a more enjoyable experience on the day:
+    <a href="https://github.com/willthames/devops-singapore-2016" target="_blank">https://github.com/willthames/devops-singapore-2016</a>
   </ul>
 
   <h2>When</h2>

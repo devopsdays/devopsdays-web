@@ -8,7 +8,7 @@ aliases = ["/events/2016-madison"]
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-DevOps Days is coming to Madison, WI! Our CFP is now closed. Stay tuned for a full schedule. We hope to have it announced by Friday, September 9th!
+DevOps Days is coming to Madison, WI!
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -50,14 +50,14 @@ DevOps Days is coming to Madison, WI! Our CFP is now closed. Stay tuned for a fu
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

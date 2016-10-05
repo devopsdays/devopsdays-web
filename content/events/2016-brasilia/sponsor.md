@@ -26,7 +26,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <div style="width:90%">
   <table border=1 cellspacing=1>
     <tr>
-    <th rowspan=2><i>Packages</i></th>
+    <th rowspan=2 style="width:50%"><i>Packages</i></th>
       <th colspan="5"><center>Sponsor group</center></th>
     </tr>
     <tr>
@@ -34,7 +34,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <th><center>Bronze</center></th>
       <th><center>Silver</center></th>
       <th><center>Gold</center></th>
-      <th><center>Venue</center></th>
     </tr>
     <tr>
       <td>Included tickets</td>
@@ -42,7 +41,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><center>4</center></td>
       <td><center>6</center></td>
       <td><center>8</center></td>
-      <td><center>30</center></td>
     </tr>
     <tr>
       <td>Releases on website and communities</td>
@@ -50,7 +48,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><center>-</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>Yes</center></td>
     </tr>
     <tr>
       <td>Distribution of flyers</td>
@@ -58,7 +55,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><center>-</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>Yes</center></td>
     </tr>
     <tr>
       <td>logo on event website</td>
@@ -66,7 +62,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="bronze"><center>Yes</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>Yes</center></td>
     </tr>
     <tr>
       <td>logo on badges</td>
@@ -74,7 +69,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="bronze"><center>Yes</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>Yes</center></td>
     </tr>
     <tr>
       <td>logo on event posters</td>
@@ -82,7 +76,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="bronze"><center>Yes</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>Yes</center></td>
     </tr>
     <tr>
       <td>table and banner next to coffee break table</td>
@@ -90,7 +83,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td><center>-</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>-</center></td>
     </tr>
     <tr>
       <td>1 minute pitch to full audience between talks (if it's the case including streaming audience)</td>
@@ -98,7 +90,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="bronze"><center>Yes</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>-</center></td>
     </tr>
     <tr>
       <td>1 minute pitch to full audience in the Opening Welcome</td>
@@ -106,21 +97,12 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td bgcolor="bronze"><center>Yes</center></td>
       <td bgcolor="silver"><center>Yes</center></td>
       <td bgcolor="gold"><center>Yes</center></td>
-      <td><center>Yes</center></td>
     </tr>
-    <!--tr>
-      <th>Amount of investment</th>
-      <th><center>1,000 BRL</center></th>
-      <th><center>4,000 BRL</center></th>
-      <th><center>6,000 BRL</center></th>
-      <th><center>9,000 BRL</center></th>
-      <th><center>-</center></th>
-    </tr-->
   </table>
   <hr/>
 
-  <br/>
-  <br/>
 </div>
+[Sponsor details (in Portuguese)](http://brasilia.devopsdays.com.br/about/sponsor/)
+<br/>
 
 <hr/>

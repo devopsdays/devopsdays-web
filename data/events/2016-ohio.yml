@@ -17,7 +17,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://devopsdaysohio2016.eventbrite.com
-  - name: propose
+  - name: program
+  - name: speakers
   - name: conduct
   - name: sponsor
 team: ["Ben Blanquera", "Bill Schwanitz", "Dan Sajner", "David Laulusa", "Kyle Jenkins", "John Lusk", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
@@ -30,7 +31,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2015-covermymeds
     level: gold
-  - id: thoughtworks-services
+  - id: thoughtworks-products
     level: gold
   - id: apprenda
     level: gold
@@ -40,7 +41,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef
     level: gold
+  - id: redhat
+    level: gold
+  - id: ahead
+    level: gold
   - id: victorops
+    level: silver
+  - id: netapp
     level: silver
   - id: none
     level: bronze

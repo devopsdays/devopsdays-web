@@ -13,7 +13,7 @@ location: "Kalkscheune Berlin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-  - name: propose
+  - name: speakers
   - name: program
   - name: location
   - name: registration
@@ -68,9 +68,17 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: puppet
     level: platinum
-  - id: thoughtworks-services
+  - id: thoughtworks-products
+    level: platinum
+  - id: logz
+    level: platinum
+  - id: ubuntu
+    level: platinum
+  - id: stackstate
     level: platinum
   - id: example42
+    level: silver
+  - id: 2016-solarisbank
     level: silver
   - id: linuxmagazin
     level: partner

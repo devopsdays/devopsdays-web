@@ -32,8 +32,8 @@ aliases = ["/events/2016-singapore/program/svargo"]
 
   <h2>Requirements</h2>
   <ul>
-    <li>HashiCorp Atlas account
-    <li>Free GitHub account
+    <li>HashiCorp Atlas account <a href="https://atlas.hashicorp.com/account/new" target="_blank">create here</a>
+    <li>Free GitHub account <a href="https://github.com/join" target="_blank">create here</a>
     <li>Internet-enabled device with an SSH client installed
     <li>Modern Internet browser such as Firefox, Chrome, or Safari
   </ul>

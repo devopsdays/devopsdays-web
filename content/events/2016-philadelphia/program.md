@@ -23,7 +23,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 1</h3>
+        <h3>Wednesday October 26th</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+         <a href="/events/2016-philadelphia/program/tim-gross">Tim Gross (Joyent) - Software-Defined Culture </a> (Opening Keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+         <a href="/events/2016-philadelphia/program/eric-windisch">Eric Windisch (IOPipe) - Nooo! Ops: Ops for Serverless Apps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+         <a href="/events/2016-philadelphia/program/catherine-enck-kaitlin-picco/">Catherine Enck (Hire an Esquire) & Kaitlin Picco (Tonic Design Co.) - DIY Tech Inclusion</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-philadelphia/program/ross-kukulinski/">Ross Kukulinski (NodeSource) - Buzzword Bingo: Architecting a Cloud-Native Wayback Machine</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -123,6 +123,12 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul>
+          <li><a href="/events/2016-philadelphia/program/shilpa-jindal">Shilpa Jindal - How CI/CD helped us "Bill Pay team" to deliver features faster to customers</a></li>
+          <li><a href="/events/2016-philadelphia/program/leon-fayer">Leon Fayer - How DevOps Antipatterns Ruined Holidays</a></li>
+          <li><a href="/events/2016-philadelphia/program/jon-mosco">Jon Mosco - The History of Linux Containers</a></li>
+          <li><a href="/events/2016-philadelphia/program/oguz-pastirmaci">Oguz Pastirmaci - Moving from regular sysadmin to DevOps</a></li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -193,7 +199,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 2</h3>
+        <h3>Thursday October 27</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -220,7 +226,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-philadelphia/program/eric-sigler/">Eric Sigler (PagerDuty) - Do You Know If Your Service Is Working Properly? A Guide To Being Paranoid.</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +244,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-philadelphia/program/berenice-venegas-cotero/">Berenice Venegas Cotero (IT Consultant) - Infrastructure Automation</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +262,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-philadelphia/program/andrey-utis/">Andrey Utis (CapitalOne) - Application Secret Management with AWS KMS</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +280,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2016-philadelphia/program/bridget-kromhout/">Bridget Kromhout (Pivotal) - Cloudy With a Chance of Devops</a> (Closing Keynote)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -293,6 +299,12 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul>
+          <li><a href="/events/2016-philadelphia/program/dave-long">Dave Long - Programming your Infrastructure</a></li>     
+          <li><a href="/events/2016-philadelphia/program/ken-mugrage">Ken Mugrage - The answer to the “where do we start” question</a></li>
+          <li><a href="/events/2016-philadelphia/program/rick-pufky">Rick Pufky - Effective Remote Workers</a></li>
+          <li>Ignite Karaoke!</li>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
