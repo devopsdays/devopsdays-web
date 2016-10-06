@@ -60,9 +60,10 @@ type="event"
       <br/><br/><a href="/events/2016-singapore/program/angad-singh">Angad Singh - Devops and Standards</a>
       <br/><br/><a href="/events/2016-singapore/program/10-tips-to-create-toxic-tech-team">Seth Vargo - 10 Tips to Create a Toxic Tech Team</a>
       <br/><br/><a href="/events/2016-singapore/program/clemens-perz">Clemens Perz - Can't keep it simple, stupid!</a>
+      <br/><br/><a href="/events/2016-singapore/program/yagnik-khanna">Yagnik Khanna - Infrastructure as code at Snapdeal</a>
+      <br/><br/><a href="/events/2016-singapore/program/rizky-ariestiyansyah">Rizky Ariestiyansyah - Building Infrastructure for MOOC</a>
     </div></div>
-    <div class="row"><div class="col-md-4"><time>14:40-14:50</time></div><div class="col-md-6 box">Break / Open Space Opening</div></div>
-    <div class="row"><div class="col-md-4"><time>14:50-15:15</time></div><div class="col-md-6 box">Open Space Voting</div></div>
+    <div class="row"><div class="col-md-4"><time>14:50-15:15</time></div><div class="col-md-6 box">Break / Open Space Voting</div></div>
     <div class="row"><div class="col-md-4"><time>15:15-16:00</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #1</div></div>
     <div class="row"><div class="col-md-4"><time>16:00-16:45</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #2</div></div>
     <div class="row"><div class="col-md-4"><time>16:45-17:00</time></div><div class="col-md-6 box">Close Day &amp; Logistics</div></div>
