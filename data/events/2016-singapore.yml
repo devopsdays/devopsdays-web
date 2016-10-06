@@ -17,7 +17,6 @@ nav_elements:
   - name: speakers
   - name: program
   - name: location
-  - name: propose
   - name: proposals
   - name: sponsor
   - name: registration
