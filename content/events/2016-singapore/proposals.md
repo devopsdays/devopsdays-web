@@ -7,35 +7,32 @@ type = "event"
 
 +++
 
-This page lists the talk proposals and workshops we have received.
+This page lists the talk proposals and workshops we have chosen.
 
-<h2>Keynotes</h2>
+# Keynotes
 
-1. <a href="/events/2016-singapore/program/mitchell-hashimoto">Mitchell Hashimoto - Keynote</a>
-2. <a href="/events/2016-singapore/program/nicole-forsgren">Nicole Forsgren - Keynote - Sciencing the Crap Out of DevOps</a>
+1. [Mitchell Hashimoto - Keynote](/events/2016-singapore/program/mitchell-hashimoto)
+2. [Nicole Forsgren - Keynote - Sciencing the Crap Out of DevOps](/events/2016-singapore/program/nicole-forsgren)
 
-<h2>Conference Talks</h2>
+# Conference Talks
 
-3. <a href="/events/2016-singapore/program/adrian-cole">Adrian Cole - An Introduction to Distributed Tracing and Zipkin</a>
-4. <a href="/events/2016-singapore/program/jason-man">Jason Man - I want DevOps, but how do I justify it?</a>
-5. <a href="/events/2016-singapore/program/mike-place">Mike Place - Event-driven automation</a>
-6. <a href="/events/2016-singapore/program/brett-gray">Brett Gray - DevOps: A cultural primer and practical lessons learnt</a>
+3. [Adrian Cole - An Introduction to Distributed Tracing and Zipkin](/events/2016-singapore/program/adrian-cole)
+4. [Jason Man - I want DevOps, but how do I justify it?](/events/2016-singapore/program/jason-man)
+5. [Mike Place - Event-driven automation](/events/2016-singapore/program/mike-place)
+6. [Brett Gray - DevOps: A cultural primer and practical lessons learnt](/events/2016-singapore/program/brett-gray)
 
-<h2>Workshops</h2>
+# Ignite Talks
 
-1. <a href="/events/2016-singapore/program/seth-vargo">HashiCorp - Modern Infrastructure with Terraform & Consul</a>
-2. <a href="/events/2016-singapore/program/ken-mugrage">ThoughtWorks - Creating a Continuous Delivery Pipeline: A Hands-On Workshop</a>
-3. <a href="/events/2016-singapore/program/will-thames">Ansible - From Zero to Best Practices</a>
+1. [Clemri Steyn - 7 Habits of successful DevOps](/events/2016-singapore/program/clemri-steyn)
+2. [Benjamin Henshall - Are we bridging the cultural divide that is necessary for DevOps to succeed](/events/2016-singapore/program/benjamin-henshall)
+3. [Stefan Streichsbier - Security in an Agile World OR Security at DevOps Speed](/events/2016-singapore/program/stefan-streichsbier)
+4. [Ion Mudreac - Beyond DevOps ?](/events/2016-singapore/program/ion-mudreac)
+5. [Angad Singh - Devops and Standards](/events/2016-singapore/program/angad-singh)
+6. [Seth Vargo - 10 Tips to Create a Toxic Tech Team](/events/2016-singapore/program/10-tips-to-create-toxic-tech-team)
+7. [Clemens Perz - Can't keep it simple, stupid!](/events/2016-singapore/program/clemens-perz)
 
-<!--
-<h2>Ignite Talks</h2>
+# Workshops
 
-1. TBA
-2. TBA
-3. TBA
-4. TBA
-5. TBA
-6. TBA
-7. TBA
-8. TBA
--->
+1. [HashiCorp - Modern Infrastructure with Terraform & Consul](/events/2016-singapore/program/seth-vargo)
+2. [ThoughtWorks - Creating a Continuous Delivery Pipeline: A Hands-On Workshop](/events/2016-singapore/program/ken-mugrage)
+3. [Ansible - From Zero to Best Practices](/events/2016-singapore/program/will-thames)

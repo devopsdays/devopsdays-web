@@ -86,7 +86,7 @@ sponsors:
   - id: oreilly
     level: media
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Platinum

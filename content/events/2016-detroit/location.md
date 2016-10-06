@@ -13,6 +13,7 @@ The location is approximately 30 minutes via car from <a href="http://www.metroa
 <br/><br/>
 <h2>Parking</h2>
 The Taubman Center parking structure is located on Baltimore between Cass and 2nd Avenue.<br/><br/>
+<img src="http://www.collegeforcreativestudies.edu/files/assets/images/medium/1341277791_taubman-center-map-3D-names.png"/>
 <h2>About the Taubman Center</h2>
 <p>
 <a href="http://www.collegeforcreativestudies.edu/support-ccs/capital-campaign-advancing-the-creative-spirit/a-alfred-taubman-center-for-design-education">The A. Alfred Taubman Center for Design Education</a> is an educational complex devoted to creativity. It houses a learning community, focused on art and design, extending from middle school through graduate school and beyond into the professional realm. It houses several departments for the College of Creative Studies, a library, dormitory, gymnasium, book store, cafe, and conference space. The building, formerly known as the Argonaut building, was designed by Albert Kahn for General Motors.

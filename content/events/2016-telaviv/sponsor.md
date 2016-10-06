@@ -6,6 +6,8 @@ type = "event"
 
 +++
 
+<b>Platinum and Gold sponsorships are SOLD OUT, but Silver and specialty sponsorships are still available!</b>
+
 We greatly value sponsors for this open event. If you are interested in sponsoring, please fill out this form: 
 http://tinyurl.com/sponsortlv 
 

@@ -70,7 +70,13 @@ sponsors:
   - id: 2016-otsi
     level: silver
   - id: netapp
-    level: silver  
+    level: silver 
+  - id: redhat
+    level: silver
+  - id: 2016-vml
+    level: silver
+  - id: bmc
+    level: bronze          
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -98,8 +104,6 @@ speakers:
   - id: "caleb-hyde"
     level: talk
   - id: "jeffrey-sykes"
-    level: talk
-  - id: "kevin-slattery"
     level: talk
   - id: "kevin-obrien"
     level: talk
