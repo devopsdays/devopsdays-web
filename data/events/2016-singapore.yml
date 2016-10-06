@@ -17,7 +17,6 @@ nav_elements:
   - name: speakers
   - name: program
   - name: location
-  - name: proposals
   - name: sponsor
   - name: registration
     url: https://ti.to/devopsdays-singapore/2016/
