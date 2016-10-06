@@ -55,7 +55,7 @@ type="event"
     <div class="row"><div class="col-md-4"><time>14:00-14:40</time></div><div class="col-md-10 box">Ignites
       <br/><a href="/events/2016-singapore/program/clemri-steyn">Clemri Steyn - 7 Habits of successful DevOps</a>
       <br/><br/><a href="/events/2016-singapore/program/benjamin-henshall">Benjamin Henshall	- Are we bridging the cultural divide that is necessary for DevOps to succeed</a>
-      <br/><br/><a href="/events/2016-singapore/program/stefan-streichsbier">Stefan Streichsbier - Security in an Agile World OR Security at DevOps Speed</a>
+      <br/><br/><a href="/events/2016-singapore/program/stefan-streichsbier">Stefan Streichsbier - Security at DevOps Speed</a>
       <br/><br/><a href="/events/2016-singapore/program/ion-mudreac">Ion Mudreac - Beyond DevOps ?</a>
       <br/><br/><a href="/events/2016-singapore/program/angad-singh">Angad Singh - Devops and Standards</a>
       <br/><br/><a href="/events/2016-singapore/program/10-tips-to-create-toxic-tech-team">Seth Vargo - 10 Tips to Create a Toxic Tech Team</a>
@@ -64,8 +64,8 @@ type="event"
       <br/><br/><a href="/events/2016-singapore/program/rizky-ariestiyansyah">Rizky Ariestiyansyah - Building Infrastructure for MOOC</a>
     </div></div>
     <div class="row"><div class="col-md-4"><time>14:50-15:15</time></div><div class="col-md-6 box">Break / Open Space Voting</div></div>
-    <div class="row"><div class="col-md-4"><time>15:15-16:00</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #1</div></div>
-    <div class="row"><div class="col-md-4"><time>16:00-16:45</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong> Open Space #2</div></div>
+    <div class="row"><div class="col-md-4"><time>15:15-16:00</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions Open Space #1</div></div>
+    <div class="row"><div class="col-md-4"><time>16:00-16:45</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions Open Space #2</div></div>
     <div class="row"><div class="col-md-4"><time>16:45-17:00</time></div><div class="col-md-6 box">Close Day &amp; Logistics</div></div>
     <div class="row"><div class="col-md-4"><time>17:00-late</time></div><div class="col-md-6 box"><strong>Evening Event & Happy Hour (TBA)</strong></div></div>
   </div>
