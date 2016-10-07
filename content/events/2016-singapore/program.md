@@ -51,6 +51,7 @@ type="event"
       <div class="col-md-6 box">Announcements</div>
     </div>
     <div class="row"><div class="col-md-4"><time>12:30-13:15</time></div><div class="col-md-6 box"><strong>Lunch (catered)</strong></div></div>
+    <div class="row"><div class="col-md-4"><time>12:50-13:05</time></div><div class="col-md-6 box"><strong>Lunch Talk (15min)</strong><br><br><span title="Principal Product Manager at Akeles">Jason Wong</span> - Journey to a Stress Free Release</div></div>
     <div class="row"><div class="col-md-4"><time>13:15-14:00</time></div><div class="col-md-6 box">Panel Discussion</div></div>
     <div class="row"><div class="col-md-4"><time>14:00-14:40</time></div><div class="col-md-10 box">Ignites
       <br/><a href="/events/2016-singapore/program/clemri-steyn">Clemri Steyn - 7 Habits of successful DevOps</a>
@@ -67,7 +68,10 @@ type="event"
     <div class="row"><div class="col-md-4"><time>15:15-16:00</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions Open Space #1</div></div>
     <div class="row"><div class="col-md-4"><time>16:00-16:45</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions Open Space #2</div></div>
     <div class="row"><div class="col-md-4"><time>16:45-17:00</time></div><div class="col-md-6 box">Close Day &amp; Logistics</div></div>
-    <div class="row"><div class="col-md-4"><time>17:00-late</time></div><div class="col-md-6 box"><strong>Evening Event & Happy Hour (TBA)</strong></div></div>
+    <div class="row"><div class="col-md-4"><time>17:00-late</time></div><div class="col-md-6 box"><strong>Evening Event & Happy Hour at <i>Bobbys</i> in Chijmes</strong>
+    <br>
+    <br>
+    <a href="http://www.bobbys.com.sg/bobbys-contact.html">Location</a> booked under "DevOpsDays"</div></div>
   </div>
   <div class="col-md-6">
     <div class="row"><div class="col-md-12"><h3>Day 2 - Sunday</h3></div></div>
