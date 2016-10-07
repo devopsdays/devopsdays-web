@@ -8,7 +8,7 @@ type = "talk"
 
 <div class="span-15  ">
   <div class="span-15  last ">
-  <h2>Security in an Agile World OR Security at DevOps Speed</h2>
+  <h2>Security at DevOps Speed</h2>
   <p>
   More and more companies are switching to Agile and DevOps methodologies to enable continuous delivery. And while development is becoming faster and faster and new features are released on a daily basis, application security is struggling to keep up. For the most part application security seems to be stuck in the dark ages of waterfall.
   </p>

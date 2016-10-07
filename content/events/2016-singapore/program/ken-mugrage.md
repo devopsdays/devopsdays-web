@@ -35,5 +35,8 @@ aliases = ["/events/2016-singapore/program/kmugrage"]
     <li>command line <code>ssh</code> client
     <li>command line <code>git</code> client
   </ul>
+  <br>
+  <br>
+  Now <a href="https://github.com/kmugrage/GoCD-Basic-Workshop">follow these instructions</a> to setup the VM with Vagrant.
   </div>
 </div>
