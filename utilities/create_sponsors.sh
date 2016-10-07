@@ -42,7 +42,7 @@ sed -i '' "s%URL%$url%" ../data/sponsors/$sponsor_slug.yml
 
 # Set logo
 
-cp $logo ../static/img/sponsors/$sponsor_slug.png
+cp "$logo" ../static/img/sponsors/$sponsor_slug.png
 
 echo "Add this to ../data/events/"$event_slug".yml under sponsors:"
 echo "  - id: " $sponsor_slug
