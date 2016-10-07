@@ -8,8 +8,20 @@ aliases = ["/events/2017-charlotte"]
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
+<div style="float:left;">
+  <img alt="DevOpsDays Charlotte 2017" src="/events/2017-charlotte/logo.png" style="max-width: 90%;">
+</div>
 
-**devopsdays is coming to {{< event_location >}}!**
+<br>
+<br>
+DevOpsDays is coming to {{< event_location >}} in Charlotte!
+
+DevOpsDays is at the forefront of shared knowledge, collaboration, culture and inclusion of developers, operations and anyone involved with technology. The conference will include a mix of presentations, ignite talks, ignite karaoke and open spaces covering a broad range of culture, devops and technical topics. Your ticket includes breakfast, lunch, drinks and conference swag.
+
+<br>
+<br>
+<br>
+<br>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -24,23 +36,32 @@ aliases = ["/events/2017-charlotte"]
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Coming soon!
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    Coming soon!
+  </div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -48,15 +69,6 @@ aliases = ["/events/2017-charlotte"]
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
   </div>
 </div> -->
 
@@ -74,20 +86,20 @@ aliases = ["/events/2017-charlotte"]
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    Sponsor the event! It's a great way to attract new talent and promote your organization.
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-</div>
+</div> -->
+
+<br>
 
 <!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->
+{{< event_twitter devopsdays_clt >}}
