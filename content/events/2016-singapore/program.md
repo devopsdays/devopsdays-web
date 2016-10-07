@@ -68,7 +68,10 @@ type="event"
     <div class="row"><div class="col-md-4"><time>15:15-16:00</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions Open Space #1</div></div>
     <div class="row"><div class="col-md-4"><time>16:00-16:45</time></div><div class="col-md-6 box">Attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions Open Space #2</div></div>
     <div class="row"><div class="col-md-4"><time>16:45-17:00</time></div><div class="col-md-6 box">Close Day &amp; Logistics</div></div>
-    <div class="row"><div class="col-md-4"><time>17:00-late</time></div><div class="col-md-6 box"><strong>Evening Event & Happy Hour (TBA)</strong></div></div>
+    <div class="row"><div class="col-md-4"><time>17:00-late</time></div><div class="col-md-6 box"><strong>Evening Event & Happy Hour at <i>Bobbys</i> in Chijmes</strong>
+    <br>
+    <br>
+    <a href="http://www.bobbys.com.sg/bobbys-contact.html">Location</a> booked under "DevOpsDays"</div></div>
   </div>
   <div class="col-md-6">
     <div class="row"><div class="col-md-12"><h3>Day 2 - Sunday</h3></div></div>
