@@ -54,6 +54,18 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: travel
   - id: chef
     level: travel
+  - id: agile-singapore
+    level: community
+  - id: singapore-devops-community
+    level: community
+  - id: singapore-devsecops-community
+    level: community
+  - id: singapore-spring-community
+    level: community
+  - id: aspose
+    level: partner
+  - id: automic-singapore
+    level: partner
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -64,3 +76,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: travel
     label: Travel
+  - id: community
+    label: Community
+  - id: partner
+    label: Partner
