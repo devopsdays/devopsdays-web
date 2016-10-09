@@ -2,7 +2,7 @@ name: 2016-singapore # The name of the event. Four digit year with the city name
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Singapore" # The city name of the event. Capitalize it.
 friendly: "2016-singapore" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current".
+status: "past" # Options are "past" or "current".
 startdate: 2016-10-08 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-10-09 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-03-24
@@ -54,6 +54,18 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: travel
   - id: chef
     level: travel
+  - id: agile-singapore
+    level: community
+  - id: singapore-devops-community
+    level: community
+  - id: singapore-devsecops-community
+    level: community
+  - id: singapore-spring-community
+    level: community
+  - id: aspose
+    level: partner
+  - id: automic-singapore
+    level: partner
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -64,3 +76,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: travel
     label: Travel
+  - id: community
+    label: Community
+  - id: partner
+    label: Partner

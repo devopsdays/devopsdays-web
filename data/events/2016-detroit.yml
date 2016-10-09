@@ -65,6 +65,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: newrelic
     level: bronze
+  - id: proquest
+    level: bronze
+  - id: sonatype
+    level: bronze
   - id: oreilly
     level: media
   - id: arresteddevops
