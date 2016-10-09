@@ -55,8 +55,18 @@ sponsors:
     level: gold
   - id: uci
     level: gold
-#  - id: vlired
-#   level: gold
+  - id: vlired
+    level: gold
+  - id: kartar 
+    level: honorary
+  - id: oreilly
+    level: honorary
+  - id: itrevolution
+    level: honorary
+  - id: chef
+    level: honorary
+  - id: ado
+    level: honorary
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -66,5 +76,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 #    label: Silver
 #  - id: bronze
 #    label: Bronze
-#  - id: community
-#    label: Community
+  - id: honorary
+    label: Honorary
