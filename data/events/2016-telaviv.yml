@@ -76,6 +76,10 @@ sponsors:
     level: silver
   - id: inneractive
     level: silver
+  - id: ness
+    level: silver
+  - id: cloudify
+    level: silver
   # silver
   - id: appsflyer
     level: bronze
