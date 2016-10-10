@@ -83,6 +83,8 @@ sponsors:
   # silver
   - id: appsflyer
     level: bronze
+  - id: elastic
+    level: bronze
   # Happy Hour
   - id: aol
     level: happyhour
