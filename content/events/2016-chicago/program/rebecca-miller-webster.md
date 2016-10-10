@@ -26,6 +26,7 @@ From the start-up financial roller coaster to a teammate's marriage (or divorce)
 In order to succeed, we need to create resilience, not just in our technology, but also in our organizations, our teams, and ourselves.
 </p>
 <p>
+{{< youtube KQFxyfYEMSM >}}
 
 </p>
 

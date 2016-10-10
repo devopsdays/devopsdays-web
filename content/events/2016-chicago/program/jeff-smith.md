@@ -17,9 +17,11 @@ aliases = ["/events/2016-chicago/program/jeffsmith/"]
     What can the world of Roleplaying Games teach us about our organizational journey towards DevOps?
   </p>
   <p>
+  {{< youtube COZW4DPLdeI >}}
+</p>
+  <p>
     <br>
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/lBAOfnpsnQuNdt" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jeffs78/dungeons-and-dragons-and-dev-ops" title="Dungeons and dragons and dev ops" target="_blank">Dungeons and dragons and dev ops</a> </strong> from <strong><a href="//www.slideshare.net/jeffs78" target="_blank">Jeffery Smith</a></strong> </div>
   </p>
   </div>
 </div>
-

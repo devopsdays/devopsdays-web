@@ -23,6 +23,8 @@ aliases = ["/events/2016-chicago/program/kenmugrage/"]
     We’ll go over what a value stream map is, how you can create one, and how it can help you answer some important questions about your business. Questions like “where do we start?”.
   </p>
   <p>
+  {{< youtube OoSlkzO9vvc >}}
+  <p>
     <br>
     <iframe src="//www.slideshare.net/slideshow/embed_code/key/ik4O4eE83xNhZa" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/kmugrage/value-stream-mapping-chicago-devopsdays" title="Value Stream Mapping - Chicago DevOpsDays" target="_blank">Value Stream Mapping - Chicago DevOpsDays</a> </strong> from <strong><a href="//www.slideshare.net/kmugrage" target="_blank">Ken Mugrage</a></strong> </div>
   </p>
