@@ -20,6 +20,7 @@ Leading an Enterprise to the Public Cloud
 I want to talk about the experience I've been a part of, bringing a large Enterprise company to using AWS for mission critical applications. This required collaboration across Development, Operations, Networking, Legal, Security, Audit, Risk, and Executive Management. Cross-team representatives worked together over several months, developed a written business case, and won executive backing to use AWS for mission critical services, including NPI data.  I'll be sharing lessons learned along the way.
 </p>
 <p>
+{{< youtube _Pys-zz5BlQ >}}
 
 </p>
 

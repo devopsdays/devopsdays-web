@@ -20,6 +20,7 @@ The Evolution of Automation
 We’ll talk about the fundamentals of automation, what we’ve learned over multiple generations of tooling and research, and discuss the path forward.
 </p>
 <p>
+{{< youtube emGKB8TABvI >}}
 
 </p>
 
