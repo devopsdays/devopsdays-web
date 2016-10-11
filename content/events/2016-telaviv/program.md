@@ -27,7 +27,7 @@ type = "event"
         <time>09:15-09:20</time>
       </div>
       <div class = "col-md-9 box">
-        Opening Welcome
+        <a href="/events/2016-telaviv/program/opening">Opening Words</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -176,7 +176,7 @@ type = "event"
         <time>15:15-15:50</time>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/anjuan-simmons">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
+        <a href="/events/2016-telaviv/program/josephpierri">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/tbd">TBD</a>
@@ -231,7 +231,7 @@ type = "event"
         <time>09:30-09:35</time>
       </div>
       <div class = "col-md-9 box">
-        Opening Words
+        <a href="/events/2016-telaviv/program/opening">Opening Words</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
