@@ -18,6 +18,45 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
+<h1>Sponsorship Levels</h1>
+
+<h3>Gold Sponsorship ($5,000)</h3>
+<h4>Details</h4>
+<ul>
+  <li>5 tickets to the event</li>
+  <li>Logo on event website</li>
+  <li>Logo on all email communication</li>
+  <li>Logo on Eventbrite registration page</li>
+  <li>Logo on slides during breaks</li>
+  <li>1 minute pitch to full audience</li>
+  <li>Booth/Table space</li>
+  <li>Shoutout via Twitter with $100 promoted tweet campaign</li>
+  <li>Logo on conference t-shirt</li>   
+</ul>
+
+<h3>Silver Sponsorship ($3,000)</h3>
+<h4>Details</h4>
+<ul>
+  <li>3 tickets to the event</li>
+  <li>Logo on event website</li>
+  <li>Logo on slides during breaks</li>
+  <li>1 minute pitch to full audience</li>
+  <li>Booth/Table space</li>
+  <li>Shoutout via Twitter</li>
+  <li>Logo on conference t-shirt</li>      
+</ul>
+
+<h3>Bronze Sponsorship ($1,000)</h3>
+<h4>Details</h4>
+<ul>
+  <li>2 tickets to the event</li>
+  <li>Logo on event website</li>
+  <li>Booth/Table space</li>
+  <li>Logo on conference t-shirt</li>
+</ul>
+
+<hr/>
+
 <!--
 
 <div style="width:590px">
