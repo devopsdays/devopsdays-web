@@ -197,7 +197,7 @@ type = "event"
         <time>16:20-17:30</time>
       </div>
       <div class = "col-md-9 box">
-        Openspaces
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -387,7 +387,7 @@ type = "event"
         <time>16:20-17:30</time>
       </div>
       <div class = "col-md-9 box">
-        Openspaces
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
