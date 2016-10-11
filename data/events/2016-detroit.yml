@@ -64,7 +64,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: yelp
     level: silver
   - id: newrelic
-    level: bronze
+    level: silver
   - id: proquest
     level: bronze
   - id: sonatype
