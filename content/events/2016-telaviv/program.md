@@ -45,7 +45,7 @@ type = "event"
         <time>10:05-10:10</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-boston/program/sponsors-facebook">Sponsors - Facebook</a>
+        <a href="http://facebook.com">Sponsors - Facebook</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -54,7 +54,7 @@ type = "event"
         <time>10:10-10:15</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-boston/program/sponsors-chef">Sponsors - Chef</a>
+        <a href="http://chef.io">Sponsors - Chef</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">

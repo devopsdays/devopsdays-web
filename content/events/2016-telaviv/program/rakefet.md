@@ -13,6 +13,6 @@ type = "talk"
 
   <p><strong>Description:</strong></p>
 
-  <p>Building successful apps using application telemetry and data-driven insights</p>
+  <p>Building successful apps is hard! Whether you build a service or an app, there is fierce competition, and success requires data-driven decision making. It requires detecting and resolving issues before your customers do, and knowing how your product is being used to decide where to invest next. In this talk, we’ll see how APM and Analytics tools can help in building successful apps.</p>
   </div>
 </div>
