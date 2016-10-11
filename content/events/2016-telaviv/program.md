@@ -279,7 +279,7 @@ type = "event"
         <time>11:35-12:15</time>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/rakefet">Erik Zaadi - Scaling Humans: BigPanda's fabulous ChatOps adventure</a>
+        <a href="/events/2016-telaviv/program/erikzaadi">Erik Zaadi - Scaling Humans: BigPanda's fabulous ChatOps adventure</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/coreyquinn">Corey Quinn - The Stories We Tell and the Failures We've Lived</a>

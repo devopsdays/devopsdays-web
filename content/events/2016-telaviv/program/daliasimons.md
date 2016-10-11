@@ -13,6 +13,6 @@ type = "talk"
 
   <p><strong>Description:</strong></p>
 
-  <p>The immor(t)ality of legacy projects</p>
+  <p>Have you ever been assigned a legacy project ? Were you happy about it ? probably not. We all know that maintaining a legacy project can be hard and challenging. In this talk i will share best practices I've learned from my experience of maintaining legacy projects @ Wix and give some tips so that your task of maintaining such projects can be a big success</p>
   </div>
 </div>

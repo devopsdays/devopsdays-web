@@ -2,7 +2,7 @@
 City = "Tel Aviv"
 Year = "2016"
 title = "Christoph Wurm"
-type = "talk"
+type = "workshop"
 +++
 
 <div class="span-15  ">

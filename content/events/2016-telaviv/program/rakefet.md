@@ -8,11 +8,11 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-  TBD
+  Building successful apps using application telemetry and data-driven insights
   </p>
 
   <p><strong>Description:</strong></p>
 
-  <p>TBD  </p>
+  <p>Building successful apps using application telemetry and data-driven insights</p>
   </div>
 </div>
