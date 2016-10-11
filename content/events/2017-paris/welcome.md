@@ -1,30 +1,27 @@
 +++
-date = "2016-09-20T21:46:51+01:00"
+date = "2016-10-11T18:48:25+02:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2017-seattle"]
+aliases = ["/events/2017-paris"]
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
 
-
-**devopsdays is returning to {{< event_location >}} in 2017!**
-
-We're working hard to finalize CFP dates and will announce soon! See you in April! 
+<h2>devopsdays is coming to {{< event_location >}} in Spring 2017!</h2>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -71,14 +68,14 @@ We're working hard to finalize CFP dates and will announce soon! See you in Apri
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -89,7 +86,4 @@ We're working hard to finalize CFP dates and will announce soon! See you in Apri
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->
+{{< event_twitter devopsdaysparis >}}

@@ -5,6 +5,9 @@ type = "event"
 
 +++
 
-We're finalizing our venue for 2017 and will be updating this soon!
+
+This year's event will be held at [McCaw Hall](https://www.mccawhall.com/plan-your-event/event-spaces/nesholm-family-lecture-hall) in Seattle Center.
+
+We don't have an offical conference hotel, but the venue has a list available [here](https://www.mccawhall.com/plan-your-visit/nearby-lodging).
 
 <!-- {{< event_map >}} -->
