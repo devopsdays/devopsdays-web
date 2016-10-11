@@ -11,7 +11,7 @@ aliases = ["/events/2017-seattle"]
 
 **devopsdays is returning to {{< event_location >}} in 2017!**
 
-We're working hard to finalize venue and dates, and will be updating this site ASAP. 
+We're working hard to finalize CFP dates and will announce soon! See you in April! 
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
