@@ -13,7 +13,7 @@ The location is approximately 30 minutes via car from <a href="http://www.metroa
 <br/><br/>
 <h2>Parking</h2>
 Attendee Parking is available at the Woodward Lot, located on Baltimore between Cass and Woodward.<br/><br/>
-<img width="600px" src="/events/2016-detroit/css_map.png" alt="CSS Map" />
+<img width="600px" src="/events/2016-detroit/ccs_map.png" alt="CCS Map" />
 <h2>About the Taubman Center</h2>
 <p>
 <a href="http://www.collegeforcreativestudies.edu/support-ccs/capital-campaign-advancing-the-creative-spirit/a-alfred-taubman-center-for-design-education">The A. Alfred Taubman Center for Design Education</a> is an educational complex devoted to creativity. It houses a learning community, focused on art and design, extending from middle school through graduate school and beyond into the professional realm. It houses several departments for the College of Creative Studies, a library, dormitory, gymnasium, book store, cafe, and conference space. The building, formerly known as the Argonaut building, was designed by Albert Kahn for General Motors.
