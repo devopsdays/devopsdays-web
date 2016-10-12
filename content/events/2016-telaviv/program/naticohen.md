@@ -13,6 +13,8 @@ type = "talk"
 
   <p><strong>Description:</strong></p>
 
-  <p>Doing Terrifying Things</p>
+  <p>During the last few years, I've been constantly challenging myself to do things which terrified me. Not big things like jumping off planes, or hunting lions in the savanna, but small ones: like asking for help, and speaking publicly. In this talk, I’ll share the experience I gained leaving my comfort zone, why tackling scary tasks is crucial for your engineering career, and tips that will help you on your journey.
+
+</p>
   </div>
 </div>
