@@ -206,7 +206,7 @@ type = "event"
         <time>17:30-late</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/happyhour">Happy Hour Sponsored by AOL!</a>
+        <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
@@ -405,7 +405,7 @@ type = "event"
         <time>17:40-late</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/happyhour">Happy Hour Sponsored by AOL!</a>
+        <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
