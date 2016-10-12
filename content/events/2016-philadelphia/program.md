@@ -138,7 +138,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Spaces Intro and Proposals</strong><br />
-        We'll describe the Open Spaces format, in which attendees propose their own break-out sessions.  Then, attendees will forma a consensus on which topics they'd like to discuss as  groups, and we'll assign them to the following three time slots, with 5 tracks of varying sizes available.
+        We'll describe the Open Spaces format, in which attendees propose their own breakout session topics.  Then, attendees will form a consensus on which topics they'd like to discuss as groups, and we'll assign them to the following three time slots, with 5 tracks of varying sizes available.
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
