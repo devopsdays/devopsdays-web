@@ -53,8 +53,8 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: samplesponsorname
     level: gold
-  - id: arresteddevops
-    level: community
+#  - id: arresteddevops
+#    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
