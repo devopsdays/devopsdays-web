@@ -105,7 +105,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>12:10-13:10</time>
+        <time>12:10-13:00</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)
@@ -114,16 +114,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:10-13:30</time>
+        <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <a href="/events/2016-capetown/program/tim-haak">Tim Haak </br> (Docker Captain)</br>The Simplicity of Docker Swarm</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:35-14:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
