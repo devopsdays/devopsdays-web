@@ -85,10 +85,12 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
+        <i>Slot 1</i> <b class="text text-primary">[C]</b>: <br />
         <a href="/events/2016-brasilia/program/gutocarvalho/" class="text text-primary">
           Introdução a Cultura DevOps<br />
           <b>Palestrante:</b> Guto Carvalho <br />
-          Co-palestrante: Miguel Di Ciurcio Filho
+          Co-palestrante: Miguel Di Ciurcio Filho <br />
+          <b>Empresa:</b> Instruct <br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -115,8 +117,9 @@ type = "event"
         <!-- room -->
         Auditório <br> (Main Room)
       </div>
-      <div class = "col-md-8 box text-primary">
-        <i>Slot 2 <b>[C]</b></i>:
+      <div class = "col-md-8 box">
+        <i>Slot 2</i>: <br />
+        <span class = "text-default">(Não definido) </span>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -129,12 +132,13 @@ type = "event"
         <!-- room -->
         Auditório <br> (Main Room)
       </div>
-      <div class = "col-md-8 box text-success">
-        <i>Slot 3 <b>[A]</b></i>:
+      <div class = "col-md-8 box">
+        <i>Slot 3</i> <b class="text text-success">[A]</b>: <br />
         <a href="/events/2016-brasilia/program/inajara-leppa" class="text text-success">
           Produção nove vezes ao dia - Como um time da rackspace torna isso possível?<br />
           <b>Palestrante:</b> Inajara Leppa <br />
-          Co-palestrante: Bárbara Hartmann
+          Co-palestrante: Bárbara Hartmann <br />
+          <b>Empresa:</b> ThoughtWorks<br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -148,12 +152,12 @@ type = "event"
         <!-- room -->
         Auditório <br> (Main Room)
       </div>
-      <div class = "col-md-8 box text-info">
-        <i>Slot 4 <b>[M]</b></i>:
-        <br />
-        <a href="/events/2016-brasilia/program/gustavo-hoyer" class="text text-info">
-          Gestão centralizada de logs com ELK<br />
-          <b>Palestrante: </b>Gustavo Hoyer<br />
+      <div class = "col-md-8 box">
+        <i>Slot 4</i> <b class="text text-success">[A]</b>:<br/>
+        <a href="/events/2016-brasilia/program/douglas-barbosa-alexandre" class="text text-success">
+          GitLab - Faster from Idea to Production <br />
+          <b>Palestrante: </b>Douglas Barbosa Alexandre<br />
+          <b>Empresa:</b> GitLab Inc.<br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -167,8 +171,13 @@ type = "event"
         <!-- room -->
         Auditório <br> (Main Room)
       </div>
-      <div class = "col-md-8 box text-warning">
-        <i>Slot 5 <b>[S]</b></i>:
+      <div class = "col-md-8 box">
+        <i>Slot 5</i> <b class="text text-success">[A]</b>: <br />
+        <a href="/events/2016-brasilia/program/eric-maxwell" class="text text-success">
+          Learning From Configuration Management<br />
+          <b>Palestrante: </b>Eric Maxwell<br />
+          <b>Empresa:</b> Chef Inc.<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -194,12 +203,12 @@ type = "event"
         <!-- room -->
         Auditório <br> (Main Room)
       </div>
-      <div class = "col-md-8 box text-success">
-        <i>Slot 6 <b>[A]</b></i>:
-        <br />
+      <div class = "col-md-8 box">
+        <i>Slot 6</i> <b class="text text-success">[A]</b>: <br />
         <a href="/events/2016-brasilia/program/rafael-gomes" class="text text-success">
           Docker Cluster - Swarm<br />
           <b>Palestrante: </b>Rafael Gomes<br />
+          <b>Empresa:</b> Docker Inc. | ThoughtWorks <br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -213,8 +222,13 @@ type = "event"
         <!-- room -->
         Auditório <br> (Main Room)
       </div>
-      <div class = "col-md-8 box text-info">
-        <i>Slot 7 <b>[M]</b></i>:
+      <div class = "col-md-8 box">
+        <i>Slot 7</i> <b class="text text-primary">[C]</b>: <br />
+        <a href="/events/2016-brasilia/program/edson-yanaga" class="text text-primary">
+          The Deploy Master: From Basic to Zero Downtime, Blue/Green, A/B, and Canary<br />
+          <b>Palestrante: </b>Edson Yanaga<br />
+          <b>Empresa:</b> RedHat Inc.<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -227,7 +241,12 @@ type = "event"
         <!-- room -->
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 8 <b>Lightning talks</b></i>:
+        <i>Slot 8</i> <b class="text text-info" title='Metrics'>[M]</b>: <br />
+        <a href="/events/2016-brasilia/program/gustavo-hoyer" class="text text-info">
+          Gestão centralizada de logs com ELK<br />
+          <b>Palestrante: </b>Gustavo Hoyer<br />
+          <b>Empresa:</b> Dataprev<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -240,7 +259,12 @@ type = "event"
         <!-- room -->
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 9 <b>Lightning talks</b></i>:
+        <i>Slot 9</i> <b class="text text-success">[A]</b>: <br />
+        <a href="/events/2016-brasilia/program/matheus-petronillio-hernandes" class="text text-success">
+          Infraestrutura como código no Tribunal de Contas da União<br />
+          <b>Palestrante: </b>Matheus Petronillio Hernandes<br />
+          <b>Empresa:</b> TCU<br />
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -267,13 +291,13 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        <i>Ignites <b>[CAMS]</b></i>:
+        <i>Ignites</i>:
 
             <br /><br />
-            <b>Ignite 1</b>: Puppet <br />
-            <b>Ignite 2</b>: Docker <br />
-            <b>Ignite 3</b>: GitLab <br />
-            <b>Ignite 4</b>: ELK    <br />
+            <b>1</b>: Puppet Intro (Miguel Di Ciurcio Filho) <br />
+            <b>2</b>: Ansible Intro <br />
+            <b>3</b>: OpenShift Intro (Taciano Tres) <br />
+            <b>4</b>: GitLab CI + Rancher (Adriano Vieira) <br />
 
       </div>
     </div> <!-- end timeslot div -->
@@ -291,10 +315,10 @@ type = "event"
         <i>Open spaces <b>[CAMS]</b></i>:
 
             <br /><br />
-            <b>OpenSpace 1</b>: Puppet <br />
-            <b>OpenSpace 2</b>: Docker <br />
-            <b>OpenSpace 3</b>: GitLab <br />
-            <b>OpenSpace 4</b>: ELK    <br />
+            <b>1</b>: Puppet <br />
+            <b>2</b>: Ansible <br />
+            <b>3</b>: OpenShift <br />
+            <b>4</b>: GitLab CI + Rancher <br />
 
         <br>
         <p>If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</p>
