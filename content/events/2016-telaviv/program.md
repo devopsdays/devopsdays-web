@@ -179,7 +179,7 @@ type = "event"
         <a href="/events/2016-telaviv/program/josephpierri">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/antonweiss">Anton Weiss - Business goals my aaS</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -279,7 +279,7 @@ type = "event"
         <time>11:35-12:15</time>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/erikzaadi">Erik Zaadi - Scaling Humans: BigPanda's fabulous ChatOps adventure</a>
+        <a href="/events/2016-telaviv/program/mikeplace">Mike Place - Event-Driven Automation: Full Stack Monitoring</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/coreyquinn">Corey Quinn - The Stories We Tell and the Failures We've Lived</a>
@@ -294,7 +294,7 @@ type = "event"
         <time>12:15-12:50</time>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/erikzaadi">Erik Zaadi - Scaling Humans: BigPanda's fabulous ChatOps adventure</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/yaronamirorilahav">Ori Lahav and Yaron Amir - Culture bottom up Culture driven by employees</a>
