@@ -23,7 +23,7 @@ Serverless is the next step after containers. DevOps will not go away, but it wi
 I’ll cover where my company ran into trouble when going serverless and how we solved all the new problems that come with managing a bunch of small functions instead of larger programs. I’ll also cover specifics of how our company manages an almost completely serverless environment, including the open source tools that we use and publish.
 </p>
 <p>
-
+{{< youtube uvyn3RoUyQE >}}
 </p>
 
 

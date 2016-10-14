@@ -15,7 +15,7 @@ cfp_date_announce:  # inform proposers of status
 # Location
 #
 coordinates: "35.2271, -80.8431" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Charlotte" # Defaults to city, but you can make it the venue name.
+location: "Mint Museum Uptown" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -53,8 +53,8 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: samplesponsorname
     level: gold
-  - id: arresteddevops
-    level: community
+#  - id: arresteddevops
+#    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

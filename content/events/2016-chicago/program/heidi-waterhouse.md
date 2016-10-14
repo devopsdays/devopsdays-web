@@ -23,6 +23,7 @@ Do you wake up in a cold sweat when you think about what would happen if one of 
 Devops is such a dynamic and flexible part of an organization that it is the absolute hardest thing to get documented, and the place where it really makes a difference to burnout if you have managed the miracle.
 </p>
 <p>
+{{< youtube K3VjhM3SJBM >}}
 
 </p>
 

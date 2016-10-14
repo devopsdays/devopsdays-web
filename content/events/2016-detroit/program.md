@@ -248,11 +248,11 @@ Jim Drewes
         <time>10:45a-11:15a</time>
       </div>
       <div class = "col-md-6 box">
-<a href="/events/2016-detroit/program/dev-owns-quality">
-Dev Owns Quality When Dev Feels The Pain
+<a href="/events/2016-detroit/program/drawing-success-from-dfd">
+How You Can Help in Your Corner with Data Science: Drawing from Successes at the Detroit Fire Department
 </a>
 -
-Jeremy Rickard
+Cassie DeWitt
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -294,11 +294,11 @@ Lunch
         <time>1:00p-1:30p</time>
       </div>
       <div class = "col-md-6 box">
-<a href="/events/2016-detroit/program/drawing-success-from-dfd">
-How You Can Help in Your Corner with Data Science: Drawing from Successes at the Detroit Fire Department
+<a href="/events/2016-detroit/program/dev-owns-quality">
+Dev Owns Quality When Dev Feels The Pain
 </a>
 -
-Cassie DeWitt
+Jeremy Rickard
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

@@ -57,10 +57,18 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: ahead
     level: gold
+  - id: github
+    level: gold
   - id: victorops
     level: silver
   - id: yelp
     level: silver
+  - id: newrelic
+    level: silver
+  - id: proquest
+    level: bronze
+  - id: sonatype
+    level: bronze
   - id: oreilly
     level: media
   - id: arresteddevops

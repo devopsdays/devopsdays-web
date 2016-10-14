@@ -48,8 +48,12 @@ proposal_email: "proposals-capetown-2016@devopsdays.org" # Put your proposal ema
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: 2016-offerzen-cape-town
     level: platinum
+  - id: 2016-takealot-cape-town
+    level: bronze
   - id: 2016-atplanet
     level: bronze
+  - id: 2016-aws-cape-town
+    level: eventdinner    
   - id: 2016-olx-cape-town
     level: closingevent
 
