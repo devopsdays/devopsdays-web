@@ -33,7 +33,7 @@ aliases = ["/events/2016-singapore/program/wthames"]
 
   <h2>Slides</h2>
   <ul>
-    <li>https://willthames.github.io/devops-singapore-2016/
+    <li><a href="https://willthames.github.io/devops-singapore-2016/" target="_blank">https://willthames.github.io/devops-singapore-2016/</a>
   </ul>
   </div>
 </div>
