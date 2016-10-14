@@ -30,5 +30,10 @@ aliases = ["/events/2016-singapore/program/wthames"]
 
   <h2>When</h2>
   <p><time datetime="2016-10-09T08:00">Sunday, 9th October, 9AM-12:00PM</time></p>
+
+  <h2>Slides</h2>
+  <ul>
+    <li><a href="https://willthames.github.io/devops-singapore-2016/" target="_blank">https://willthames.github.io/devops-singapore-2016/</a>
+  </ul>
   </div>
 </div>
