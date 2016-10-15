@@ -7,6 +7,8 @@ draft = false
   {{< cfp_dates >}}
 
 <hr>
+<p class="alert alert-danger text-center text-warning">It is closed the period of proposals submission!</p>
+<hr>
 There are three ways to propose a session:
 <ol>
   <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>

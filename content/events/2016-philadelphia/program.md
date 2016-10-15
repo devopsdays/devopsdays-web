@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-         <a href="/events/2016-philadelphia/program/eric-windisch">Eric Windisch (IOPipe) - Nooo! Ops: Ops for Serverless Apps</a>
+         <a href="/events/2016-philadelphia/program/mauricio-linhares">Maurício Linhares (neat.com) - From Dev to DevOps</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -137,8 +137,8 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space Opening
+        <strong>Open Spaces Intro and Proposals</strong><br />
+        We'll describe the Open Spaces format, in which attendees propose their own breakout session topics.  Then, attendees will form a consensus on which topics they'd like to discuss as groups, and we'll assign them to the following three time slots, with 5 tracks of varying sizes available.
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -148,7 +148,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #1
+        Breakout Session Time Slot #1
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -158,7 +158,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #2
+        Breakout Session Time Slot #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -168,7 +168,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #3
+        Breakout Session Time Slot #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -244,7 +244,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/berenice-venegas-cotero/">Berenice Venegas Cotero (IT Consultant) - Infrastructure Automation</a>
+        <a href="/events/2016-philadelphia/program/berenice-venegas-cotero/">Berenice Venegas Cotero (IT Consultant) - Automation of Data Analysis in AWS</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -313,8 +313,8 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space Opening
+        <strong>Open Space Proposals</strong><br />
+        Attendees will propose and vote on topics for our breakout sessions, and we'll assign them to the 3 time slots below, over 5 tracks.
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -324,7 +324,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #1
+        Breakout Session Time Slot #4        
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -334,7 +334,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #2
+        Breakout Session Time Slot #5
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -344,7 +344,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Open Space #3
+        Breakout Session Time Slot #6
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

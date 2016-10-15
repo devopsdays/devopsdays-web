@@ -52,6 +52,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: 2016-atplanet
     level: bronze
+  - id: 2016-aws-cape-town
+    level: eventdinner    
   - id: 2016-olx-cape-town
     level: closingevent
 
