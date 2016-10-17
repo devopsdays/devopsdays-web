@@ -9,9 +9,10 @@ aliases = ["/events/2017-seattle"]
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**devopsdays is returning to {{< event_location >}} in 2017!**
+**DevOpsDays is returning to {{< event_location >}} in 2017!**
 
-We're working hard to finalize CFP dates and will announce soon! See you in April! 
+Our Call for Proposals (CFP) will open on October 24th. We'll make talk selections in late January and 
+announce the program in early February.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
