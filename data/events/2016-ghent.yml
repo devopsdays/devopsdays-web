@@ -53,10 +53,12 @@ sponsors:
     level: gold
   - id: coscale
     level: gold
+  - id: ordina
+    level: gold
   - id:  combell
     level: silver
   - id:  openminds
-    level: silver
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
