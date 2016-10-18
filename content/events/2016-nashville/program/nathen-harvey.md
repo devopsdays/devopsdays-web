@@ -1,7 +1,7 @@
 +++
 date = "2016-09-22T11:03:02-05:00"
-linktitle = "nathan-harvey"
-title = "Nathan Harvey"
+linktitle = "nathen-harvey"
+title = "Nathen Harvey"
 type = "talk"
 +++
 
