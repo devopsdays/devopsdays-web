@@ -110,7 +110,7 @@ type = "event"
         <a href="/events/2016-telaviv/program/ianirideses">Ianir Ideses - Debugging Skynet: A Machine Learning Approach to Log Analysis</a>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/crystalhuff">Interviewing Various Technical Candidates (Badly)</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything (continued)</a>
