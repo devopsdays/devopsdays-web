@@ -1,7 +1,7 @@
 +++
 City = "Tel Aviv"
 Year = "2016"
-title = "Nathan Harvy and Adam Jacobs"
+title = "Nathen Harvey and Adam Jacob"
 type = "talk"
 +++
 
