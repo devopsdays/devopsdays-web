@@ -127,7 +127,7 @@ type = "event"
         <strong>Ignites</strong><br/><br/>
         <a href="jason-yee"><b>Jason Yee</b>: What I learned about engineering from being a chef</a><br/><br/>
         <a href="bill-condo"><b>Bill Condo</b>: Lessons from The Phoenix Project in 5 minutes</a><br/><br/>
-        <a href="peter-walsh"><b>Peter Walsh</b>: If it’s not automated, it’s broken.</a><br/><br/>
+        <a href="pete-gordon"><b>Pete Gordon</b>: TACTful Agile</a><br/><br/>
         <a href="leon-adato"><b>Leon Adato</b>: Getting Away from it All - Living an Unplugged Life as an IT professional</a>
       </div>
     </div> <!-- end timeslot div -->
