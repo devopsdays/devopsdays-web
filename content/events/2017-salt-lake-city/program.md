@@ -23,7 +23,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Wednesday October 26th</h3>
+        <h3>Day 1</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-         <a href="/events/2016-philadelphia/program/tim-gross">Tim Gross (Joyent) - Software-Defined Culture </a> (Opening Keynote)
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-         <a href="/events/2016-philadelphia/program/mauricio-linhares">Maurício Linhares (neat.com) - From Dev to DevOps</a>
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-         <a href="/events/2016-philadelphia/program/catherine-enck-kaitlin-picco/">Catherine Enck (Hire an Esquire) & Kaitlin Picco (Tonic Design Co.) - DIY Tech Inclusion</a>
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/ross-kukulinski/">Ross Kukulinski (NodeSource) - Buzzword Bingo: Architecting a Cloud-Native Wayback Machine</a>
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -123,12 +123,6 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
-        <ul>
-          <li><a href="/events/2016-philadelphia/program/shilpa-jindal">Shilpa Jindal - How CI/CD helped us "Bill Pay team" to deliver features faster to customers</a></li>
-          <li><a href="/events/2016-philadelphia/program/leon-fayer">Leon Fayer - How DevOps Antipatterns Ruined Holidays</a></li>
-          <li><a href="/events/2016-philadelphia/program/jon-mosco">Jon Mosco - The History of Linux Containers</a></li>
-          <li><a href="/events/2016-philadelphia/program/oguz-pastirmaci">Oguz Pastirmaci - Moving from regular sysadmin to DevOps</a></li>
-        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -137,8 +131,8 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Spaces Intro and Proposals</strong><br />
-        We'll describe the Open Spaces format, in which attendees propose their own breakout session topics.  Then, attendees will form a consensus on which topics they'd like to discuss as groups, and we'll assign them to the following three time slots, with 5 tracks of varying sizes available.
+        <strong>Open Space</strong><br />
+        Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -148,30 +142,17 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Breakout Session Time Slot #1
+        Open Space #1
       </div>
     </div> <!-- end timeslot div -->
-
-
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:45-15:05</time>
-      </div>
-      <div class = "col-md-6 box">
-        Break
-      </div>
-    </div> <!-- end timeslot div -->
-
-
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>15:05-15:50</time>
+        <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Breakout Session Time Slot #2
+        Open Space #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -181,7 +162,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Breakout Session Time Slot #3
+        Open Space #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -193,14 +174,13 @@ type = "event"
         Close Day &amp; Logistics
       </div>
     </div> <!-- end timeslot div -->
-    
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>18:00-late</time>
+        <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Reception at CHF</strong>
+        <strong>Evening Event</strong>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -213,7 +193,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Thursday October 27</h3>
+        <h3>Day 2</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -240,7 +220,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/eric-sigler/">Eric Sigler (PagerDuty) - Do You Know If Your Service Is Working Properly? A Guide To Being Paranoid.</a>
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -258,7 +238,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/berenice-venegas-cotero/">Berenice Venegas Cotero (IT Consultant) - Automation of Data Analysis in AWS</a>
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -276,7 +256,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/andrey-utis/">Andrey Utis (CapitalOne) - Application Secret Management with AWS KMS</a>
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -294,7 +274,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-philadelphia/program/bridget-kromhout/">Bridget Kromhout (Pivotal) - Cloudy With a Chance of Devops</a> (Closing Keynote)
+        &nbsp;
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -313,12 +293,6 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
-        <ul>
-          <li><a href="/events/2016-philadelphia/program/dave-long">Dave Long - Programming your Infrastructure</a></li>     
-          <li><a href="/events/2016-philadelphia/program/ken-mugrage">Ken Mugrage - The answer to the “where do we start” question</a></li>
-          <li><a href="/events/2016-philadelphia/program/rick-pufky">Rick Pufky - Effective Remote Workers</a></li>
-          <li>Ignite Karaoke!</li>
-        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -327,8 +301,8 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space Proposals</strong><br />
-        Attendees will propose and vote on topics for our breakout sessions, and we'll assign them to the 3 time slots below, over 5 tracks.
+        <strong>Open Space</strong><br />
+        Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -338,26 +312,17 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Breakout Session Time Slot #4        
+        Open Space #1
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:45-15:05</time>
-      </div>
-      <div class = "col-md-6 box">
-        Break
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>15:05-15:50</time>
+        <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Breakout Session Time Slot #5
+        Open Space #2
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -367,7 +332,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
-        Breakout Session Time Slot #6
+        Open Space #3
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
