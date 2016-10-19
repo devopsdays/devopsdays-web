@@ -358,7 +358,7 @@ type = "event"
         <a href="/events/2016-telaviv/program/leonadato">Leon Adato - There’s An App For That: Why Every Team Has Their Own Tools</a>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/heidi">Heidi Waterhouse - Fear of the Bus</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/tbd">TBD</a>
