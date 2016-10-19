@@ -128,7 +128,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>14:00-15:00</time>
+        <time>14:00-14:40</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/ignites">Ignites!</a>
@@ -136,36 +136,29 @@ type = "event"
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
-      <div class = "col-md-3 col-md-offset-3">
+      <div class = "col-md-5 col-md-offset-3">
         Tech
       </div>
-      <div class = "col-md-3">
+      <div class = "col-md-4">
         Culture
       </div>
-      <div class = "col-md-3">
-        Workshop
-      </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:00-15:35</time>
+        <time>14:40-15:15</time>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-5 box">
         <a href="/events/2016-telaviv/program/rakefet">Rakefet Jackoby Galazan - Building successful apps using application telemetry and data-driven insights</a>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-4 box">
         <a href="/events/2016-telaviv/program/jeffpierce">Jeff Pierce - Effectively Culturing a Healthy Culture and Workflow</a>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit
-</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:35-15:45</time>
+        <time>15:15-15:30</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/coffeesponsor">Coffee Time!</a>
@@ -174,28 +167,42 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:45-16:20</time>
+        <time>15:30-16:05</time>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-5 box">
         <a href="/events/2016-telaviv/program/josephpierri">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-4 box">
         <a href="/events/2016-telaviv/program/antonweiss">Anton Weiss - Business goals my aaS</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
-      <div class = "col-md-2">
-        <time>16:20-17:30</time>
+      <div class = "col-md-5 col-md-offset-3">
+        Openspaces
       </div>
-      <div class = "col-md-9 box">
+      <div class = "col-md-4">
+        Workshop
+      </div>
+    </div> 
+    <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-2">
+        <time>16:05-17:25</time>
+      </div>
+      <div class = "col-md-5 box">
         <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
+      </div>
+      <div class = "col-md-4 box">
+        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers
+</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>17:30-late</time>
+        <time>17:25-late</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>
@@ -308,7 +315,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>14:00-15:00</time>
+        <time>14:00-14:40</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/ignites">Ignites!</a>
@@ -316,35 +323,29 @@ type = "event"
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
-      <div class = "col-md-3 col-md-offset-3">
+      <div class = "col-md-5 col-md-offset-3">
         Tech
       </div>
-      <div class = "col-md-3">
+      <div class = "col-md-4">
         Culture
       </div>
-      <div class = "col-md-3">
-        Workshop
-      </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:00-15:35</time>
+        <time>14:40-15:15</time>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-5 box">
         <a href="/events/2016-telaviv/program/liorredlus">Lior Redlus - Machine Learning concepts for software monitoring</a>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-4 box">
         <a href="/events/2016-telaviv/program/daliasimons">Dalia Simons - The immor(t)ality of legacy projects</a>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for Engineers</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:35-15:45</time>
+        <time>15:15-15:30</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/coffeesponsor">Coffee Time!</a>
@@ -353,31 +354,42 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:45-16:20</time>
+        <time>15:30-16:05</time>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-5 box">
         <a href="/events/2016-telaviv/program/leonadato">Leon Adato - There’s An App For That: Why Every Team Has Their Own Tools</a>
       </div>
-      <div class = "col-md-3 box">
+      <div class = "col-md-4 box">
         <a href="/events/2016-telaviv/program/heidi">Heidi Waterhouse - Fear of the Bus</a>
       </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for Engineers (continued)</a>
-      </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
-      <div class = "col-md-2">
-        <time>16:20-17:30</time>
+      <div class = "col-md-5 col-md-offset-3">
+        Openspaces
       </div>
-      <div class = "col-md-9 box">
+      <div class = "col-md-4">
+        Workshop
+      </div>
+    </div> 
+    <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-2">
+        <time>16:05-17:25</time>
+      </div>
+      <div class = "col-md-5 box">
         <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
       </div>
+      <div class = "col-md-4 box">
+        <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit
+</a>
+      </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>17:30-17:40</time>
+        <time>17:25-17:35</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/closing">Closing Words</a>
@@ -386,7 +398,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>17:40-late</time>
+        <time>17:35-late</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>
