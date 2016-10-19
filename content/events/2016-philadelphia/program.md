@@ -151,10 +151,23 @@ type = "event"
         Breakout Session Time Slot #1
       </div>
     </div> <!-- end timeslot div -->
+
+
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>14:45-15:05</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
+      </div>
+    </div> <!-- end timeslot div -->
+
+
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:05-15:50</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -180,13 +193,14 @@ type = "event"
         Close Day &amp; Logistics
       </div>
     </div> <!-- end timeslot div -->
+    
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>18:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Reception at CHF</strong>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -330,7 +344,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>14:45-15:05</time>
+      </div>
+      <div class = "col-md-6 box">
+        Break
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>15:05-15:50</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
