@@ -158,7 +158,8 @@ type = "event"
         <a href="/events/2016-telaviv/program/jeffpierce">Jeff Pierce - Effectively Culturing a Healthy Culture and Workflow</a>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit
+</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -337,7 +338,7 @@ type = "event"
         <a href="/events/2016-telaviv/program/daliasimons">Dalia Simons - The immor(t)ality of legacy projects</a>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for Engineers</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -361,7 +362,7 @@ type = "event"
         <a href="/events/2016-telaviv/program/heidi">Heidi Waterhouse - Fear of the Bus</a>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for Engineers (continued)</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
