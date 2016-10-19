@@ -6,6 +6,10 @@ aliases = ["/events/2016-telaviv"]
 
 +++
 
+<div style="float:left;">
+  <img alt="DevOpsDays Tel Aviv 2016" src="/events/2016-telaviv/logo.png" style="max-width: 90%;">
+</div>
+
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
