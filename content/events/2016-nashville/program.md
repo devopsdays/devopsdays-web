@@ -126,6 +126,7 @@ type = "event"
         <ul>
           <li><a href="/events/2016-nashville/program/michael-stahnke">Michael Stahnke - Management or Technical</a></li>
           <li><a href="/events/2016-nashville/program/aaron-aldrich">Aaron Aldrich - Better Living through Storytelling</a></li>
+          <li><a href="/events/2016-nashville/program/stephen-yeargin">Stephen Yeargin - What Color is This? How (not) to be a jerk to the colorblind.</a></li>
         </ul>
       </div>
     </div> <!-- end timeslot div -->
@@ -298,8 +299,10 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
         <ul>
-          <li><a href="/events/2016-nashville/program/aziz-shamim">Aziz Shamim - Patterns of Empathy in DevOps</a></li>
           <li><a href="/events/2016-nashville/program/bernd-erk">Bernd Erk - Working in and with Open Source Communities</a></li>
+          <li><a href="/events/2016-nashville/program/adil-aijaz">Adil Aijaz - An ode to 'if-else': how this simple construct changed LinkedIn's engineering culture</a></li>
+          <li><a href="/events/2016-nashville/program/lee-jones">Lee Jones - Continuous Improvement</a></li>
+          <li><a href="/events/2016-nashville/program/keith-marcum">Keith Marcum - TBD</a></li>
         </ul>
       </div>
     </div> <!-- end timeslot div -->
