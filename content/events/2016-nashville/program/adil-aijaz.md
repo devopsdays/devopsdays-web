@@ -1,5 +1,5 @@
 +++
-date = "2016-19-29T11:03:02-05:00"
+date = "2016-10-20T11:03:02-05:00"
 linktitle = "adil-aijaz"
 title = "Adil Aijaz"
 type = "talk"
