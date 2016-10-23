@@ -7,7 +7,7 @@ aliases = ["/events/2017-salt-lake-city"]
 +++
 
 <!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
-<h2>We'll be announcing our dates shortly!  Check back soon</h2>
+<h2>DevOpsDays is returning to Salt Lake City in May!</h2>
 
 
 **devopsdays is coming to {{< event_location >}}!**
