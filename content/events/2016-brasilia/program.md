@@ -278,7 +278,7 @@ type = "event"
         Auditório
       </div>
       <div class = "col-md-8 box">
-        Slot 10: <br />
+        <i>Slot 10</i> <b class="text text-success">[A]</b>: <br />
         <a href="/events/2016-brasilia/program/jonathan-baraldi" class="text text-success">
           Começando com tudo: Rancher Convoy-NFS, Proxy, Private Registry e Catalog<br />
           <b>Palestrante: </b>Jonathan Baraldi<br />
@@ -297,7 +297,7 @@ type = "event"
         Auditório
       </div>
       <div class = "col-md-8 box">
-        Slot 11: <br />
+        <i>Slot 11</i> <b class="text text-success">[A]</b>: <br />
         <a href="/events/2016-brasilia/program/diego-dorgam-aguilera" class="text text-success">
           ChatOps com Rocket.chat<br />
           <b>Palestrante: </b>Diego Dorgam<br />
@@ -317,7 +317,7 @@ type = "event"
         Auditório
       </div>
       <div class = "col-md-8 box">
-        Slot 12:<br>
+        <i>Slot 12</i> <b class="text text-success">[A]</b>:<br>
         <a href="/events/2016-brasilia/program/cezar-sa-spinola" class="text text-success">
           Docker na Globo.com: Usando o tsuru para escalar milhares de containers em centenas de maquinas<br />
           <b>Palestrante: </b>Cézar Sá Spinola<br />
@@ -336,7 +336,7 @@ type = "event"
         Auditório
       </div>
       <div class = "col-md-8 box">
-        Slot 13:<br>
+        <i>Slot 13</i> <b class="text text-primary">[C]</b>:<br>
         <a href="/events/2016-brasilia/program/fernando-moraes" class="text text-primary">
           Implementando DevOps em nossos clientes no Vale do Silício: 5 práticas comprovadas para acelerar a mudança de cultura<br />
           <b>Palestrante:</b> Fernando Moraes<br />
