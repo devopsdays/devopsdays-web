@@ -17,7 +17,7 @@ show = true
 </div>
 <br/>
 <br/>
-DevOpsDays Ohio will be paying for parking this year at the Grange garage located at 600 South Front St in the form of a parking voucher which will be provided during checkin.  Other parking locations are available in the area but will not be payed for by the event.
+DevOpsDays Ohio will be paying for parking this year at the Grange garage located at 600 South Front St in the form of a parking voucher which will be provided during checkin.  Other parking locations are available in the area but will not be paid for by the event.
 <div>
 <iframe src="https://www.google.com/maps/d/embed?mid=1iHkRjIycwk_LtvwdCqcM4T42RK8" width="640" height="480"></iframe>
 </div>

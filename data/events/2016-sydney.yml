@@ -51,7 +51,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: github
+    level: gold
   - id: rea-group
+    level: silver
+  - id: odecee
     level: silver
   - id: arresteddevops
     level: community

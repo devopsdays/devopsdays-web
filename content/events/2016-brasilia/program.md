@@ -271,7 +271,85 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-0">
+        <time>15:30-16:00</time>
+      </div>
+      <div class = "col-md-2">
+        <!-- room -->
+        Auditório
+      </div>
+      <div class = "col-md-8 box">
+        <i>Slot 10</i> <b class="text text-success">[A]</b>: <br />
+        <a href="/events/2016-brasilia/program/jonathan-baraldi" class="text text-success">
+          Começando com tudo: Rancher Convoy-NFS, Proxy, Private Registry e Catalog<br />
+          <b>Palestrante: </b>Jonathan Baraldi<br />
+          <b>Empresa:</b> Rancher Inc | BRCloudServices<br />
+        </a>
+      </div>
+    </div> <!-- end timeslot div -->
+
+        <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-2 col-md-offset-0">
         <time>16:00-16:30</time>
+      </div>
+      <div class = "col-md-2">
+        <!-- room -->
+        Auditório
+      </div>
+      <div class = "col-md-8 box">
+        <i>Slot 11</i> <b class="text text-success">[A]</b>: <br />
+        <a href="/events/2016-brasilia/program/diego-dorgam-aguilera" class="text text-success">
+          ChatOps com Rocket.chat<br />
+          <b>Palestrante: </b>Diego Dorgam<br />
+          <b>Co-Palestrante: </b>Rodrigo Nascimento<br />
+          <b>Empresa:</b> Rocket.chat<br />
+        </a>
+      </div>
+    </div> <!-- end timeslot div -->
+
+    <!-- this div is repeated for each timeslot -->
+     <div class = "row">
+      <div class = "col-md-2 col-md-offset-0">
+        <time>16:30-17:00</time>
+      </div>
+      <div class = "col-md-2">
+        <!-- room -->
+        Auditório
+      </div>
+      <div class = "col-md-8 box">
+        <i>Slot 12</i> <b class="text text-success">[A]</b>:<br>
+        <a href="/events/2016-brasilia/program/cezar-sa-spinola" class="text text-success">
+          Docker na Globo.com: Usando o tsuru para escalar milhares de containers em centenas de maquinas<br />
+          <b>Palestrante: </b>Cézar Sá Spinola<br />
+          <b>Empresa:</b> Globo.com<br />
+        </a>
+      </div>
+    </div> <!-- end timeslot div -->
+
+    <!-- this div is repeated for each timeslot -->
+     <div class = "row">
+      <div class = "col-md-2 col-md-offset-0">
+        <time>17:00-17:30</time>
+      </div>
+      <div class = "col-md-2">
+        <!-- room -->
+        Auditório
+      </div>
+      <div class = "col-md-8 box">
+        <i>Slot 13</i> <b class="text text-primary">[C]</b>:<br>
+        <a href="/events/2016-brasilia/program/fernando-moraes" class="text text-primary">
+          Implementando DevOps em nossos clientes no Vale do Silício: 5 práticas comprovadas para acelerar a mudança de cultura<br />
+          <b>Palestrante:</b> Fernando Moraes<br />
+          <b>Co-Palestrante:</b> Alexandre Maldaner<br />
+          <b>Empresa:</b> Daitan Group
+        </a>
+      </div>
+    </div> <!-- end timeslot div -->
+
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-2 col-md-offset-0">
+        <time>17:30-18:00</time>
       </div>
       <div class = "col-md-2">
         <!-- room -->
@@ -284,7 +362,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2 col-md-offset-0">
-        <time>16:30-17:00</time>
+        <time>18:00-18:30</time>
       </div>
       <div class = "col-md-2">
         <!-- room -->
@@ -293,12 +371,39 @@ type = "event"
       <div class = "col-md-8 box">
         <i>Ignites</i>:
 
-            <br /><br />
-            <b>1</b>: Puppet Intro (Miguel Di Ciurcio Filho) <br />
-            <b>2</b>: Ansible Intro <br />
-            <b>3</b>: OpenShift Intro (Taciano Tres) <br />
-            <b>4</b>: GitLab CI + Rancher (Adriano Vieira) <br />
-
+        <ol>
+          <li>
+            <i class="text-warning">Baleias (Docker) versus Foguetes (RKT)</i>
+            <i class="fa fa-question-circle text-warning" style="cursor:pointer;" aria-hidden="true" data-toggle="collapse" data-target="#ignite1"></i><br/>
+            <div class="collapse" id="ignite1">
+              <i class="small">
+                "Comparar sistema de containers (engine) Docker e Rkt. São dois grandes projetos, com abordagens diferentes que realmente vale comparar qual é mais adequado para você".
+              </i>
+            </div>
+            Fernando Ike
+          </li>
+          <li>
+            <i class="text-warning">OpenShift Intro</i>
+            <i class="fa fa-question-circle text-warning" style="cursor:pointer;" aria-hidden="true" data-toggle="collapse" data-target="#ignite2"></i><br/>
+            <div class="collapse" id="ignite2">
+              <i class="small">
+                Uma discussão sobre OpenShift e suas principais funcionalidades.
+              </i>
+            </div>
+            Taciano Tres
+          </li>
+          <li>
+            <i class="text-warning">GitLab CI + Rancher</i>
+            <i class="fa fa-question-circle text-warning" style="cursor:pointer;" aria-hidden="true" data-toggle="collapse" data-target="#ignite3"></i><br/>
+            <div class="collapse" id="ignite3">
+              <i class="small">
+                Pipeline de integração contínua do GitLab (GitLab-CI) integrado à plataforma de gerenciamento de containers Rancher.
+              </i>
+            </div>                
+            Adriano Vieira
+          </li>
+          <li></li>
+        </ol>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -313,13 +418,18 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Open spaces <b>[CAMS]</b></i>:
-
-            <br /><br />
-            <b>1</b>: Puppet <br />
-            <b>2</b>: Ansible <br />
-            <b>3</b>: OpenShift <br />
-            <b>4</b>: GitLab CI + Rancher <br />
-
+        <ol>
+          <li>
+            <i class="text-warning">Baleias (Docker) versus Foguetes (RKT)</i><br/>
+          </li>
+          <li>
+            <i class="text-warning">OpenShift Intro</i><br/>
+          </li>
+          <li>
+            <i class="text-warning">GitLab CI + Rancher</i><br/>
+          </li>
+          <li></li>
+        </ol>
         <br>
         <p>If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</p>
       </div>

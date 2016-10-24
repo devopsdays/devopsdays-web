@@ -42,6 +42,9 @@ team_members: # Name is the only required field for team members.
   - name: "Stephane Crivisier"
     twitter: "scrivisier"
     employer: "ETNA"
+  - name: "Raphaël Dubigny"
+    twitter: "rdubigny"
+    employer: "Theodo"
   - name: "Brice Figureau"
     twitter: "_masterzen_"
     employer: "Days of Wonder"
@@ -59,6 +62,9 @@ team_members: # Name is the only required field for team members.
   - name: "Alexandre Rodiere"
     twitter: "alx_rodiere"
     employer: "Silver Spring"
+  - name: "Maxime Thoonsen"
+    twitter: "maxthoon"
+    employer: "Theodo"
 
 organizer_email: "organizers-paris-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "hello@devopsrex.fr" # Put your proposal email address here

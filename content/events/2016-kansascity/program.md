@@ -362,20 +362,9 @@ type = "event"
         <a href="/pages/open-space-format"> Open Space #2 </a>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space Discussion</strong><br />
-        <a href="/pages/open-space-format"> Open Space #3 </a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>17:00</time>
+        <time>16:00</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Farewell
