@@ -51,9 +51,11 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: sumologic
     level: gold
-  - id:  split-software
+  - id: thoughtworks-products
+    level: gold    
+  - id: split-software
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
