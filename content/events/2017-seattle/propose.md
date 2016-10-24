@@ -13,6 +13,8 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdPbt-tTPWnuawF2WwPDGyhlmjlif0EDgqj7j3coYmWiQZLg/viewform?embedded=true" width="700" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 <!--
 
 Our main criteria to make it to the top selection are:
