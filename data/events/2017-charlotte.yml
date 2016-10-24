@@ -53,7 +53,7 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: sumologic
     level: gold
-  - id: thoughtworks-services
+  - id: thoughtworks-products
     level: gold    
   - id: split-software
     level: silver
