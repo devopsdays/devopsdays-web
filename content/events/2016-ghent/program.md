@@ -65,7 +65,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:30-10:45</time>
+        <time>10:30-11:00</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -74,7 +74,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:45-11:30</time>
+        <time>11:00-11:40</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Talk</strong><br/><a href=bart-vanbrabant>Introducing self-service to researchers<br/><strong>Bart Vanbrabant</strong></a>
@@ -83,7 +83,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:30-12:15</time>
+        <time>11:40-12:20</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Talk</strong><br/><a href=joseph-pierri>"We'll do it Live!" - Why you should test your software in production<br/><strong>Joseph Pierri</strong></a>
@@ -92,7 +92,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>12:15-12:30</time>
+        <time>12:20-12:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
@@ -216,7 +216,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:30-10:45</time>
+        <time>10:30-11:00</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -225,7 +225,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:45-11:30</time>
+        <time>11:00-11:40</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Talk</strong><br/><a href=bart-blommaerts>Serverless as a Collaborative Economy enabler<br/><strong>Bart Blommaerts</strong></a>
@@ -234,7 +234,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:30-12:15</time>
+        <time>11:40-12:20</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Talk</strong><br/><a href=quentin-adam>Why and how bookkeepers f***d up IT<br/><strong>Quentin Adam</strong></a>
@@ -243,7 +243,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>12:15-12:30</time>
+        <time>12:20-12:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
