@@ -49,6 +49,8 @@ team_members: # Name is the only required field for team members.
     employer: "Virtustream, A Dell Technologies Business"
     twitter: "rmawhinnie"
   - name: "Alex Lutz"
+    employer: "HealthEquity"
+    twitter: "alexinslc"
   - name: "Lindley White"
 
 organizer_email: "organizers-saltlakecity-2017@devopsdays.org" # Put your organizer email address here
