@@ -52,7 +52,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/pauly-comtois">Pauly Comtois  Building a DevOps Enterprise Community Across 10 Businesses</a><br /><br />
+        <a href="/events/2016-kansascity/program/pauly-comtois">Pauly Comtois  Building a DevOps Enterprise Community Across 10 Businesses</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYU25pNmlTRzJHVzA">slides</a>)<br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -321,9 +321,9 @@ type = "event"
           <li><a href="/events/2016-kansascity/program/charles-butler">Charles Butler - Magic of Application Modeling</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYeGlYVU9YclFERjQ">slides</a>)</li>
           <li><a href="/events/2016-kansascity/program/ashmita-sarma">Ashmita Sarma - Ansible Wizardry 101</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYczVWcjc2c3p1R3c">slides</a>)</li>
           <li><a href="/events/2016-kansascity/program/jeffrey-sykes">Jeffrey Sykes - Escaping the Black Hole of Release Management</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYYVNCU2J4TkVPM0U">slides</a>)</li>
-          <li>Ignite Karaoke</li>
-          <li>Ignite Karaoke</li>
-          <li>Ignite Karaoke</li>
+          <li>Ignite Karaoke 1 (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPT2U0Q2dJS3JaOEE">slides</a>)</li>
+          <li>Ignite Karaoke 2 (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPMXd2WWhwZzhLM1U">slides</a>)</li>
+          <li>Ignite Karaoke - Canada (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPcEE1U0IyR2IwVGc">slides</a>)</li>
         </ul>
       </div>
     </div> 
