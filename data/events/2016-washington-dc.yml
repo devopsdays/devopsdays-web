@@ -131,7 +131,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: victorops
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20161025
     level: gold
   - id: aspe
     level: platinum
