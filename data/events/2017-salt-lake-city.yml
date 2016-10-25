@@ -45,7 +45,7 @@ team_members: # Name is the only required field for team members.
   - name: "Tim Ward"
     twitter: "roboticward"
     employer: "Dell EMC"
-  - name: "Randal Mawhinnie"
+  - name: "Randall Mawhinnie"
     employer: "Virtustream, A Dell Technologies Business"
     twitter: "rmawhinnie"
   - name: "Alex Lutz"
