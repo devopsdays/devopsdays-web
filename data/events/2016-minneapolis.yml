@@ -69,7 +69,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: parasoft
     level: gold
-  - id: cloudbees
+  - id: cloudbees-before-20161025
     level: silver
   - id: target
     level: gold
