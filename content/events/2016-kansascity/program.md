@@ -126,11 +126,11 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
         <ul>
-          <li><a href="/events/2016-kansascity/program/aaron-blythe">Aaron Blythe - Failure and the Third Way</a></li>
-          <li><a href="/events/2016-kansascity/program/kyle-sexton">Kyle Sexton - Introduction to Habitat</a></li>
-          <li><a href="/events/2016-kansascity/program/aj-bowen">AJ Bowen - Cheat codes from Occupy</a></li>
-          <li>Ignite Karaoke</li>
-          <li>Ignite Karaoke</li>
+          <li><a href="/events/2016-kansascity/program/aaron-blythe">Aaron Blythe - Failure and the Third Way</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYRjhsYTlxS3pSQnc">slides</a>)</li>
+          <li><a href="/events/2016-kansascity/program/kyle-sexton">Kyle Sexton - Introduction to Habitat</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYek1yNEdPcVBPRDg">slides</a>)</li>
+          <li><a href="/events/2016-kansascity/program/aj-bowen">AJ Bowen - Cheat codes from Occupy</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYaUdzZURNS2tVZDg">slides</a>)</li>
+          <li>Ignite Karaoke 1 - DevOps (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYRHpCdjl1Y3ZmY1E">slides</a>)</li>
+          <li>Ignite Karaoke 2 - KC (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYZ1VtX0E1aHhvWGM">slides</a>)</li>
         </ul>
       </div>
     </div> 
@@ -241,6 +241,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-kansascity/program/suzie-prince">Suzie Prince - Our Continuous Delivery Journey</a>
+        (<a href="https://speakerdeck.com/suziejprince/our-continuous-delivery-journey">slides</a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -259,6 +260,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
          <a href="/events/2016-kansascity/program/leon-fayer">Leon Fayer - BizOps and you</a>
+         (<a href="http://www.slideshare.net/LeonFayer1/bizops-and-you">slides</a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -294,8 +296,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/scott-howell"> Scott Howell and </a>
-        <a href="/events/2016-kansascity/program/caleb-hyde">Caleb Hyde - Outgrowing a Startup Culture or Learning from the Trenches: a DevOps war story</a><br /><br />
+        <a href="/events/2016-kansascity/program/caleb-hyde">Caleb Hyde - Outgrowing a Startup Culture</a><br /><br />
      </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -315,11 +316,14 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
         <ul>
-          <li><a href="/events/2016-kansascity/program/alyssa-nicoll">Alyssa Nicoll - Innovating is not about tech, but psych</a></li>
-          <li><a href="/events/2016-kansascity/program/scott-smerchek">Scott Smerchek - Bulletproof Logging</a></li>
-          <li><a href="/events/2016-kansascity/program/charles-butler">Charles Butler - Magic of Application Modeling</a></li>
-          <li><a href="/events/2016-kansascity/program/ashmita-sarma">Ashmita Sarma - Ansible Wizardry 101</a></li>
-          <li><a href="/events/2016-kansascity/program/jeffrey-sykes">Jeffrey Sykes - Escaping the Black Hole of Release Management</a></li>
+          <li><a href="/events/2016-kansascity/program/alyssa-nicoll">Alyssa Nicoll - Innovating is not about tech, but psych</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYM2UtR096NU1KM1k">slides</a>)</li>
+          <li><a href="/events/2016-kansascity/program/scott-smerchek">Scott Smerchek - Bulletproof Logging</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYUGNrbDdROEhSVm8">slides</a>)</li>
+          <li><a href="/events/2016-kansascity/program/charles-butler">Charles Butler - Magic of Application Modeling</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYeGlYVU9YclFERjQ">slides</a>)</li>
+          <li><a href="/events/2016-kansascity/program/ashmita-sarma">Ashmita Sarma - Ansible Wizardry 101</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYczVWcjc2c3p1R3c">slides</a>)</li>
+          <li><a href="/events/2016-kansascity/program/jeffrey-sykes">Jeffrey Sykes - Escaping the Black Hole of Release Management</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYYVNCU2J4TkVPM0U">slides</a>)</li>
+          <li>Ignite Karaoke</li>
+          <li>Ignite Karaoke</li>
+          <li>Ignite Karaoke</li>
         </ul>
       </div>
     </div> 
