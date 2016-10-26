@@ -10,14 +10,11 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-TBD
+  DevOps in a Hurry: Flattening the Learning Curve for a Team of Devs
 </p>
 
 <p><strong>Description:</strong></p>
-
-<p>
-TBD
-</p>
+Ignore fancy new tools. You can get team-owned, repeatable deploys with tools developers already know.
 <p>
 
   </div>
