@@ -302,7 +302,7 @@ type = "event"
         <ul>
           <li><a href="/events/2016-nashville/program/adil-aijaz">Adil Aijaz - An ode to 'if-else': how this simple construct changed LinkedIn's engineering culture</a></li>
           <li><a href="/events/2016-nashville/program/lee-jones">Lee Jones - Continuous Improvement</a></li>
-          <li><a href="/events/2016-nashville/program/keith-marcum">Keith Marcum - TBD</a></li>
+          <li><a href="/events/2016-nashville/program/keith-marcum">Keith Marcum - DevOps in a Hurry: Flattening the Learning Curve for a Team of Devs</a></li>
         </ul>
       </div>
     </div> <!-- end timeslot div -->
