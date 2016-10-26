@@ -43,7 +43,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYTlBhcDRKeW80anc"> slides </a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -70,7 +70,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/baruch-sadogursky">Baruch Sadogursky - Patterns and Antipatterns in Docker Image Lifecycle</a><br /><br />
+        <a href="/events/2016-kansascity/program/baruch-sadogursky">Baruch Sadogursky - Patterns and Antipatterns in Docker Image Lifecycle</a> (<a href="https://drive.google.com/open?id=0BxT4IOU-1YayZ3VMUVRlUVI4R1k">slides</a>)<br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -231,7 +231,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYU2ZQb282Sk5kdHM"> slides </a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
