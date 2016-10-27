@@ -5,9 +5,7 @@ type = "event"
 
 +++
 
-Platinum, Gold, and Silver sponsorship packages will be available. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-
-Additional à la carte sponsorships will also be an option.
+Our prospectus will be available soon outlining our different sponsorship levels as well as à la carte sponsorship options. Reach out to us if you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
