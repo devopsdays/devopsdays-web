@@ -88,13 +88,16 @@ sponsors:
   # Happy Hour
   - id: aol
     level: happyhour
+  # Coffee
+  - id: via
+    level: coffee
   # media
   - id: oreilly
     level: media
   - id: igtcloud
     level: media
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Platinum
@@ -104,5 +107,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: happyhour
     label: Happy Hour
+  - id: coffee
+    label: Coffee
   - id: media
     label: Media
