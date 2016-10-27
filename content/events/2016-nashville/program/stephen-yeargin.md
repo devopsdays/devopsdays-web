@@ -16,7 +16,7 @@ What Color is This? How (not) to be a jerk to the colorblind.
 <p><strong>Description:</strong></p>
 
 <p>
-1 in 5 American males are colorblind. Following these few quick tips can help make sure you are not inadvertently pissing them off.
+1 in 12 men and 1 in 200 women worldwide are colorblind. Following these few quick tips can help make sure you are not inadvertently pissing them off.
 </p>
 <p>
 
