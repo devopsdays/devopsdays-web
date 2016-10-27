@@ -80,6 +80,10 @@ sponsors:
     level: silver
   - id: cloudify
     level: silver
+  - id: cloudinary
+    level: silver
+  - id: aws
+    level: silver
   # silver
   - id: appsflyer
     level: bronze
