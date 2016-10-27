@@ -88,6 +88,9 @@ sponsors:
   # Happy Hour
   - id: aol
     level: happyhour
+  # Coffee
+  - id: via
+    level: coffee
   # media
   - id: oreilly
     level: media
@@ -104,5 +107,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: happyhour
     label: Happy Hour
+  - id: coffee
+    label: Coffee
   - id: media
     label: Media
