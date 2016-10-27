@@ -20,6 +20,10 @@ type = "event"
 </div>
 
 <div class = "row">
+The talks during the morning will take place in <br/>room "Ned Kahn" in the expo wing.
+</div>
+
+<div class = "row">
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
@@ -50,7 +54,7 @@ type = "event"
         <time>09:10-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=terrence-ryan>Driving Technical Change<br/><strong>Terrence Ryan</strong></a>
+        <strong>Talk</strong><br/><a href=terrence-ryan>Driving Technical Change<br/><strong>Terrence Ryan</strong></a><br/>room "Ned Kahn"
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -59,7 +63,7 @@ type = "event"
         <time>09:45-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=nick-boucart>Data Driven Product Management: product management meets devops<br/><strong>Nick Boucart</strong></a>
+        <strong>Talk</strong><br/><a href=nick-boucart>Data Driven Product Management: product management meets devops<br/><strong>Nick Boucart</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -77,7 +81,7 @@ type = "event"
         <time>11:00-11:40</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=bart-vanbrabant>Introducing self-service to researchers<br/><strong>Bart Vanbrabant</strong></a>
+        <strong>Talk</strong><br/><a href=bart-vanbrabant>Introducing self-service to researchers<br/><strong>Bart Vanbrabant</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +90,7 @@ type = "event"
         <time>11:40-12:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=joseph-pierri>"We'll do it Live!" - Why you should test your software in production<br/><strong>Joseph Pierri</strong></a>
+        <strong>Talk</strong><br/><a href=joseph-pierri>"We'll do it Live!" - Why you should test your software in production<br/><strong>Joseph Pierri</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -201,7 +205,7 @@ type = "event"
         <time>09:10-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=martin-goodwell>Running against the oneway: push the hassle from production to developers. Easily.<br/><strong>Martin Goodwell</strong></a>
+        <strong>Talk</strong><br/><a href=martin-goodwell>Running against the oneway: push the hassle from production to developers. Easily.<br/><strong>Martin Goodwell</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -210,7 +214,7 @@ type = "event"
         <time>09:45-10:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=karel-de-smet>DevOps: the Power of Honesty<br/><strong>Karel De Smet</strong></a>
+        <strong>Talk</strong><br/><a href=karel-de-smet>DevOps: the Power of Honesty<br/><strong>Karel De Smet</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -228,7 +232,7 @@ type = "event"
         <time>11:00-11:40</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=bart-blommaerts>Serverless as a Collaborative Economy enabler<br/><strong>Bart Blommaerts</strong></a>
+        <strong>Talk</strong><br/><a href=bart-blommaerts>Serverless as a Collaborative Economy enabler<br/><strong>Bart Blommaerts</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -237,7 +241,7 @@ type = "event"
         <time>11:40-12:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Talk</strong><br/><a href=quentin-adam>Why and how bookkeepers f***d up IT<br/><strong>Quentin Adam</strong></a>
+        <strong>Talk</strong><br/><a href=quentin-adam>Why and how bookkeepers f***d up IT<br/><strong>Quentin Adam</strong></a> <br/>room "Ned Kahn" 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
