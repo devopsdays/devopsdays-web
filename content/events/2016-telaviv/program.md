@@ -62,7 +62,7 @@ type = "event"
         <time>10:15-11:00</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-TBD</a>
+        <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
