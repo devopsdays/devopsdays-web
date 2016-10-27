@@ -14,7 +14,7 @@ cfp_date_announce:  # inform proposers of status
 
 # Location
 #
-coordinates: "43.7000, -79.4000" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "43.6532,-79.3831" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Toronto" # The name of your location
 #
 
