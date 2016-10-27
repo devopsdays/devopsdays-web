@@ -73,14 +73,14 @@ aliases = ["/events/2016-telaviv"]
   </div>
 </div> -->
 
-<div class = "row">
+<!--div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Platinum and Gold sponsorships are SOLD OUT, but Silver and specialty sponsorships are still available!" >}}
   </div>
-</div>
+</div -->
 
 <div class = "row">
   <div class = "col-md-2">
