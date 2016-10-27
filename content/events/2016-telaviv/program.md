@@ -71,7 +71,7 @@ type = "event"
         <time>11:00-11:30</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/coffeesponsor">Coffee time!</a>
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -161,7 +161,7 @@ type = "event"
         <time>15:15-15:30</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/coffeesponsor">Coffee Time!</a>
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -258,7 +258,7 @@ type = "event"
         <time>11:05-11:35</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/coffeesponsor">Coffee Time!</a>
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -348,7 +348,7 @@ type = "event"
         <time>15:15-15:30</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/coffeesponsor">Coffee Time!</a>
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
