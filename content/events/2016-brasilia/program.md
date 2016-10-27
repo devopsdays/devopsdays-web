@@ -89,7 +89,6 @@ type = "event"
         <a href="/events/2016-brasilia/program/gutocarvalho/" class="text text-primary">
           Introdução a Cultura DevOps<br />
           <b>Palestrante:</b> Guto Carvalho <br />
-          Co-palestrante: Miguel Di Ciurcio Filho <br />
           <b>Empresa:</b> Instruct <br />
         </a>
       </div>
@@ -118,8 +117,13 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 2</i>: <br />
-        <span class = "text-default">(Não definido) </span>
+        <i>Slot 2</i> <b class="text text-primary">[C]</b>:<br>
+        <a href="/events/2016-brasilia/program/fernando-moraes" class="text text-primary">
+          Implementando DevOps em nossos clientes no Vale do Silício: 5 práticas comprovadas para acelerar a mudança de cultura<br />
+          <b>Palestrante:</b> Fernando Moraes<br />
+          <b>Co-Palestrante:</b> Alexandre Maldaner<br />
+          <b>Empresa:</b> Daitan Group
+        </a>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -336,12 +340,11 @@ type = "event"
         Auditório
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 13</i> <b class="text text-primary">[C]</b>:<br>
-        <a href="/events/2016-brasilia/program/fernando-moraes" class="text text-primary">
-          Implementando DevOps em nossos clientes no Vale do Silício: 5 práticas comprovadas para acelerar a mudança de cultura<br />
-          <b>Palestrante:</b> Fernando Moraes<br />
-          <b>Co-Palestrante:</b> Alexandre Maldaner<br />
-          <b>Empresa:</b> Daitan Group
+        <i>Slot 13</i> <b class="text text-success">[A]</b>:<br>
+        <a href="/events/2016-brasilia/program/miguel-di-ciurcio" class="text text-success">
+          Evolução da linguagem do Puppet<br />
+          <b>Palestrante:</b> Miguel Di Ciurcio Filho<br />
+          <b>Empresa:</b> Puppet.com | Instruct
         </a>
       </div>
     </div> <!-- end timeslot div -->
