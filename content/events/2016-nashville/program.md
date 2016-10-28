@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-10:00</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-nashville/program/jill-jubinski">Jill Jubinski - Raised This Way: DevOps Lessons I Learned From My Family</a>
+        <a href="/events/2016-nashville/program/andrew-clay-shafer">Andrew Clay Shafer - Chop Wood, Carry Water</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -235,7 +235,7 @@ type = "event"
         <time>09:15-10:00</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-nashville/program/andrew-clay-shafer">Andrew Clay Shafer - TBD</a>
+        <a href="/events/2016-nashville/program/jill-jubinski">Jill Jubinski - Raised This Way: DevOps Lessons I Learned From My Family</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
