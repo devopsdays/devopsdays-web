@@ -209,10 +209,10 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Slot 6</i> <b class="text text-success">[A]</b>: <br />
-        <a href="/events/2016-brasilia/program/rafael-gomes" class="text text-success">
+        <a href="/events/2016-brasilia/program/fernando-ike" class="text text-success">
           Docker Cluster - Swarm<br />
-          <b>Palestrante: </b>Rafael Gomes<br />
-          <b>Empresa:</b> Docker Inc. | ThoughtWorks <br />
+          <b>Palestrante: </b>Fernando Ike<br />
+          <!--<b>Empresa:</b> Highwinds <br />-->
         </a>
       </div>
     </div> <!-- end timeslot div -->
