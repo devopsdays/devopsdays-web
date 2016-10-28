@@ -70,11 +70,13 @@ sponsors:
   - id: nextpoint
     level: coffee
   - id: 2016-newrelic
-    level: bronze
+    level: silver
   - id: breakfreesolutions
     level: bronze
   - id: ipswitch
     level: silver
+  - id: elastic
+    level: gold
 
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
