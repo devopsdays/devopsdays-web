@@ -1,7 +1,7 @@
 +++
-date = "2016-09-25T01:50:43-03:00"
-linktitle = "rafael-gomes"
-title = "Rafael Gomes"
+date = "2016-10-28T17:32:04-02:00"
+linktitle = "fernando-ike"
+title = "Fernando Ike"
 type = "talk"
 
 +++

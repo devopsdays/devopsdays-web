@@ -71,6 +71,12 @@ sponsors:
     level: community
   - id: instruct
     level: supporter
+  - id: rancher
+    level: gold
+  - id: puppet
+    level: gold
+  - id: gitlab
+    level: supporter
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
