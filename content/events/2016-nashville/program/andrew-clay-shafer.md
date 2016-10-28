@@ -9,14 +9,13 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-  TBD
+  Chop Wood, Carry Water
 </p>
 
-<p><strong>Bio:</strong></p>
+<p><strong>Description:</strong></p>
 
 <p>
- Andrew Clay Shafer has built a career helping people improve technology and processes for delivering software services. As a co-founder of Puppet Labs, he evangelized devops practices and tools before devops was a word. He got first hand experience implementing and operating cloud infrastructure as the the VP of Engineering at Cloudscaling. Now at Pivotal, Andrew focuses on helping the Cloud Foundry ecosystem and Pivotal customers leverage platforms to build the future.
-
+Everyone is looking for the secret techniques, the one true way. Devops never had secrets, with the possible exception of the secret everyone is hiding, devops is hard. The search for secrets leads to nowhere. Now we better get back to work.
 </p>
 <p>
 
