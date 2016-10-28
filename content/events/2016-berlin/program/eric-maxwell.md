@@ -1,7 +1,7 @@
 +++
 date = "2016-10-03T15:44:27+02:00"
-linktitle = "george-miranda"
-title = "George Miranda"
+linktitle = "eric-maxwell"
+title = "Eric Maxwell"
 type = "ignite"
 
 +++

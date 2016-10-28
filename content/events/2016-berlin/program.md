@@ -150,7 +150,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #1<p>
         <strong>Hands-On Workshop 1</strong><br />
-        <a href="/events/2016-berlin/program/george-miranda-2">George Miranda: <em>Habitat Workshop</em></a><br />
+        <a href="/events/2016-berlin/program/eric-maxwell-2">Eric Maxwell: <em>Habitat Workshop</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -310,7 +310,7 @@ type = "event"
         <a href="/events/2016-berlin/program/gerald-schmidt">Gerald Schmidt: <em>Turtles all the way down: Native Containers, Native Code</em></a><br />
         <a href="/events/2016-berlin/program/david-schmitt">David Schmitt: <em>Diversity vs. Cultural Fit</em></a><br />
         <a href="/events/2016-berlin/program/alexander-schwartz">Alexander Schwartz: <em>Forget about Red Shirts, here come the Tribbles</em></a><br />
-        <a href="/events/2016-berlin/program/george-miranda">George Miranda: <em>Dissecting the Role-Cookbook pattern</em></a><br />
+        <a href="/events/2016-berlin/program/eric-maxwell">Eric Maxwell: <em>Dissecting the Role-Cookbook pattern</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
