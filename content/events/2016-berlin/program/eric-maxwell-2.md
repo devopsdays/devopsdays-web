@@ -1,7 +1,7 @@
 +++
 date = "2016-10-03T15:44:27+02:00"
-linktitle = "george-miranda-2"
-title = "George Miranda"
+linktitle = "eric-maxwell-2"
+title = "Eric Maxwell"
 type = "hands-on"
 
 +++
