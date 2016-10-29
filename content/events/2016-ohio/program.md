@@ -338,7 +338,7 @@ type = "event"
     </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>17:00-late</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong>

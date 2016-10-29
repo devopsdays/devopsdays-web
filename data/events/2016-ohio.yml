@@ -49,7 +49,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: netapp
     level: silver
-  - id: none
+  - id: elastic
+    level: silver
+  - id: sonatype
     level: bronze
   - id: techlifecolumbus
     level: support
