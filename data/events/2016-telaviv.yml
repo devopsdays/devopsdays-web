@@ -84,6 +84,10 @@ sponsors:
     level: silver
   - id: aws
     level: silver
+  - id: ibm
+    level: silver
+  - id: smartx
+    level: silver
   # silver
   - id: appsflyer
     level: bronze
