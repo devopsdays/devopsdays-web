@@ -80,6 +80,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: 2016-solarisbank
     level: silver
+  - id: endocode
+    level: silver
   - id: linuxmagazin
     level: partner
   - id: netways
