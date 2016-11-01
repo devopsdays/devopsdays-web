@@ -77,6 +77,8 @@ sponsors:
     level: gold
   - id: gitlab
     level: supporter
+  - id: 2016-stickergiant
+    level: supporter
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
