@@ -10,6 +10,8 @@ type = "event"
     <hr/>
     If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
     <hr />
+    <a href="https://docs.google.com/spreadsheets/d/10HxUBA1SXgYf3DDnHpNZbfF-9XKYEDNrb5xHz0RiQOU">Day 1 Open Spaces</a>
+    <hr />
   </div>
 </div>
 
