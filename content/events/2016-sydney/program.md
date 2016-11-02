@@ -206,7 +206,7 @@ type = "event"
         <time>09:50-10:20</time>
       </div>
       <div class = "col-md-6 box">
-        TBD
+        Functions as a Service: Beyond the rainbow<br /><strong>Peter Hall</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
