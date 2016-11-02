@@ -72,9 +72,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: bronze
     label: Bronze
     max: "3"
-  - id: preevent
-    label: "Pre event"
-    max: "1"
   - id: eventdinner
     label: "Event dinner"
     max: "1"
