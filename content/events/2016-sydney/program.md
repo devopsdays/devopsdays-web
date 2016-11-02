@@ -233,7 +233,7 @@ type = "event"
         <time>11:00-11:30</time>
       </div>
       <div class = "col-md-6 box">
-        TBD
+        Do small data sets dream of big data?<br/><strong>Mujtaba Hussain</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -242,7 +242,7 @@ type = "event"
         <time>11:30-12:00</time>
       </div>
       <div class = "col-md-6 box">
-        Closing Keynote<br /><strong>Nigel Kersten</strong>
+        Three years of breaking things to make them better<br /><strong>Donny Nadolny</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -257,7 +257,16 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:15</time>
+        <time>13:00-13:30</time>
+      </div>
+      <div class = "col-md-6 box">
+        Closing Keynote<br /><strong>Nigel Kersten</strong>
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:30-13:45</time>
       </div>
       <div class = "col-md-6 box">
         Open Spaces intro
@@ -266,7 +275,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:15-14:00</time>
+        <time>13:45-14:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #1</strong><br />
@@ -275,16 +284,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space #2</strong><br />
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>14:45-15:15</time>
+        <time>14:30-15:00</time>
       </div>
       <div class = "col-md-6 box">
         Afternoon tea
@@ -293,19 +293,27 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:15-16:00</time>
+        <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space #3</strong><br />
+        <strong>Open Space #2</strong><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:15</time>
+        <time>15:45-16:30</time>
       </div>
       <div class = "col-md-6 box">
-        Closing Day &amp; Farewell
+         <strong>Open Space #3</strong><br />
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>16:30-16:45</time>
+      </div>
+      <div class = "col-md-6 box">
+         Closing Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
