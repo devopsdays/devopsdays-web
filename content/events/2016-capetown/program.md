@@ -11,8 +11,6 @@ type = "event"
       <hr />
       If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
       <br/>
-      There will be a pre-conference evening with drinks and snacks.
-      <hr />
     </div>
   </div>
 </p>
@@ -126,7 +124,7 @@ type = "event"
         <time>13:35-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
         Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
@@ -136,8 +134,9 @@ type = "event"
         <time>14:00-14:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #1
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a>
+        <br />
+        Open Space #1<br><br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -146,7 +145,7 @@ type = "event"
         <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
         Open Space #2
       </div>
     </div> <!-- end timeslot div -->
@@ -156,7 +155,7 @@ type = "event"
         <time>16:00-16:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
         Open Space #3
       </div>
     </div> <!-- end timeslot div -->
@@ -175,7 +174,7 @@ type = "event"
         <time>18:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Event at Woodstock Lounge</strong>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
@@ -245,7 +244,7 @@ type = "event"
         <time>10:45-11:20</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-capetown/program/david-rubin">David Rubin (OLX)</br>Migrating at Scale</a>
+        <a href="/events/2016-capetown/program/david-rubin">David Rubin (OLX)</br>Migrating at Scale<br><br></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot
@@ -281,7 +280,7 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong><br>Ignites<br><br><br></strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -290,7 +289,7 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
         Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
@@ -300,8 +299,9 @@ type = "event"
         <time>14:00-14:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #1
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
+        Open Space #1<br>
+        Chef Habitat Workshop
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -310,7 +310,7 @@ type = "event"
         <time>15:00-15:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
         Open Space #2
       </div>
     </div> <!-- end timeslot div -->
@@ -320,7 +320,7 @@ type = "event"
         <time>16:00-16:45</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <a href="/pages/open-space-format"><strong>Open Space</strong></a><br />
         Open Space #3
       </div>
     </div> <!-- end timeslot div -->
@@ -330,7 +330,7 @@ type = "event"
         <time>17:00</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Farewell
+        Close Day &amp; Farewell </br></br>
       </div>
     </div> <!-- end timeslot div -->
   <!-- this div is repeated for each timeslot -->
