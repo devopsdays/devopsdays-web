@@ -16,6 +16,7 @@ aliases = ["/events/2016-raleigh"]
   <div class = "col-md-8">
   Presentation <a href="https://speakerdeck.com/devopsdaysrdu">slide decks</a> and <a href="https://www.youtube.com/channel/UC7xelUnc2jdDIBrvWtorhyw">videos</a> are now online! 
    </div>
+   <br>
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
