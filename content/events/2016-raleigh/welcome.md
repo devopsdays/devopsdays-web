@@ -8,7 +8,11 @@ aliases = ["/events/2016-raleigh"]
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
-
+<div style="text-align:center;">
+    <strong>
+  Presentation <a href="https://speakerdeck.com/devopsdaysrdu">slide decks</a> and <a href="https://www.youtube.com/channel/UC7xelUnc2jdDIBrvWtorhyw">videos</a> are now online! 
+  </strong> </div>
+  <br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
