@@ -307,7 +307,7 @@ type = "event"
           <li><a href="/events/2016-madison/program/kevan-bard">Kevan Bard - case when devops = 1 then compliance = 'simplified' else compliance = 'pita' end</a></li>
           <li><a href="/events/2016-madison/program/kevin-babcock">Kevin Babcock - Don't be a Security Bully: Strategies for Getting Security Picked First on the Developer Playground</a></li>
           <li><a href="/events/2016-madison/program/alison-stanton">Alison Stanton - Ways DevOps Could Be More Accessible</a></li>
-          <li><a href="/events/2016-madison/program/joe-laha">Joe Laha - The Most Influencial TV Show You've Never Heard Of</a></li>
+          <li><a href="/events/2016-madison/program/joe-laha">Joe Laha - The Most Influential TV Show You've Never Heard Of</a></li>
           <li><a href="/events/2016-madison/program/james-jones">James Jones - Why Superior Technologies Fail</a></li>
         </ul>
       </div>
