@@ -20,7 +20,8 @@ location: "Sydney" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
   - name: program
-  - name: propose
+  - name: speakers
+  #- name: propose
   - name: location
   - name: registration
   - name: sponsor
