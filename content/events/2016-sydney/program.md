@@ -42,17 +42,18 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Keynote<br /><strong>Bridget Kromhout</strong>
+        {{< program_link speaker="bridget-kromhout" title="Opening Keynote" >}}
+        <br /><strong>Bridget Kromhout</strong>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
         <time>09:50-10:20</time>
       </div>
       <div class = "col-md-6 box">
-        Why?: the forgotten word of DevOps<br /><strong>Hannah Browne</strong>
+        {{< program_link speaker="hannah-browne" title="Why?: the forgotten word of DevOps" >}}
+        <br /><strong>Hannah Browne</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -79,7 +80,8 @@ type = "event"
         <time>11:00-11:30</time>
       </div>
       <div class = "col-md-6 box">
-        10 rules of automation<br /><strong>Patrick Robinson</strong>
+        {{< program_link speaker="patrick-robinson" title="10 rules of automation" >}}
+        <br /><strong>Patrick Robinson</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -197,7 +199,8 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Deepening our people, to weather the org<br /><strong>Lindsay Holmwood</strong>
+        {{< program_link speaker="lindsay-holmwood" title="Deepening our people, to weather the org" >}}
+        <br /><strong>Lindsay Holmwood</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -206,7 +209,8 @@ type = "event"
         <time>09:50-10:20</time>
       </div>
       <div class = "col-md-6 box">
-        Functions as a Service: Beyond the rainbow<br /><strong>Peter Hall</strong>
+        {{< program_link speaker="peter-hall" title="Functions as a Service: Beyond the rainbow" >}}
+        <br /><strong>Peter Hall</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -233,7 +237,8 @@ type = "event"
         <time>11:00-11:30</time>
       </div>
       <div class = "col-md-6 box">
-        Do small data sets dream of big data?<br/><strong>Mujtaba Hussain</strong>
+        {{< program_link speaker="mujtaba-hussain" title="Do small data sets dream of big data?" >}}
+        <br/><strong>Mujtaba Hussain</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -242,7 +247,8 @@ type = "event"
         <time>11:30-12:00</time>
       </div>
       <div class = "col-md-6 box">
-        Three years of breaking things to make them better<br /><strong>Donny Nadolny</strong>
+        {{< program_link speaker="donny-nadolny" title="Three years of breaking things to make them better" >}}
+        <br /><strong>Donny Nadolny</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -260,7 +266,9 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        Closing Keynote<br /><strong>Nigel Kersten</strong>
+        Closing Keynote<br />
+        {{< program_link speaker="nigel-kersten" title="Abstractions and Metaphors: words matter in operations" >}}
+        <strong>Nigel Kersten</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
