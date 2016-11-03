@@ -1,5 +1,5 @@
 +++
-date = "2016-09-22T11:09:08-05:00"
+date = "2016-11-03T07:43:45-05:00"
 title = "speakers"
 type = "speakers"
 
