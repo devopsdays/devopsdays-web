@@ -52,8 +52,8 @@ type = "event"
         <time>09:50-10:20</time>
       </div>
       <div class = "col-md-6 box">
-        {{< program_link speaker="hannah-browne" title="Why?: the forgotten word of DevOps" >}}
-        <br /><strong>Hannah Browne</strong>
+        {{< program_link speaker="hannah-browne-steve-mactaggart" title="Why?: the forgotten word of DevOps" >}}
+        <br /><strong>Hannah Browne &amp; Steve Mactaggart</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -268,7 +268,7 @@ type = "event"
       <div class = "col-md-6 box">
         Closing Keynote<br />
         {{< program_link speaker="nigel-kersten" title="Abstractions and Metaphors: words matter in operations" >}}
-        <strong>Nigel Kersten</strong>
+        <br /><strong>Nigel Kersten</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

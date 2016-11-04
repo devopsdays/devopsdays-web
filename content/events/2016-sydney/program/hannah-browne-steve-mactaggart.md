@@ -1,8 +1,9 @@
 +++
 date = "2016-11-03T00:00:00-00:00"
-title = "Hannah Browne"
-linktitle = "hannah-browne"
+title = "Hannah Browne & Steve Mactaggart"
+linktitle = "hannah-browne-steve-mactaggart"
 type = "talk"
+aliases = ["/events/2016-sydney/program/hannah-browne/", "/events/2016-sydney/program/steve-mactaggart/"]
 
 +++
 
