@@ -44,7 +44,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYTlBhcDRKeW80anc">slides</a>)
+        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYTlBhcDRKeW80anc">slides</a>) (<a href="http://youtu.be/vTPElcrSDHk?a">video</a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -131,7 +131,7 @@ type = "event"
           <li><a href="/events/2016-kansascity/program/kyle-sexton">Kyle Sexton - Introduction to Habitat</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYek1yNEdPcVBPRDg">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-introduction-to-habitat">video</a>)</li>
           <li><a href="/events/2016-kansascity/program/aj-bowen">AJ Bowen - Cheat codes from Occupy</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYaUdzZURNS2tVZDg">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-cheat-codes-from-occupy">video</a>)</li>
           <li>Ignite Karaoke 1 - DevOps - David Blank-Edelman (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYRHpCdjl1Y3ZmY1E">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-karaoke-1-devops">video</a>)</li>
-          <li>Ignite Karaoke 2 - KC (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYZ1VtX0E1aHhvWGM">slides</a>) (<a href="">video</a>)</li>
+          <li>Ignite Karaoke 2 - KC - Thien-An Mac (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYZ1VtX0E1aHhvWGM">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-karaoke-2-kc">video</a>)</li>
         </ul>
       </div>
     </div> 
@@ -232,7 +232,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYU2ZQb282Sk5kdHM">slides</a>) (<a href="">video</a>)
+        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYU2ZQb282Sk5kdHM">slides</a>) (<a href="http://youtu.be/3BYW1Q0Fz-0?a">video</a>) 
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -322,9 +322,9 @@ type = "event"
           <li><a href="/events/2016-kansascity/program/charles-butler">Charles Butler - Magic of Application Modeling</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYeGlYVU9YclFERjQ">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-magic-of-application-modeling">video</a>)</li>
           <li><a href="/events/2016-kansascity/program/ashmita-sarma">Ashmita Sarma - Ansible Wizardry 101</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYczVWcjc2c3p1R3c">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-ansible-wizardry-101">video</a>)</li>
           <li><a href="/events/2016-kansascity/program/jeffrey-sykes">Jeffrey Sykes - Escaping the Black Hole of Release Management</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYYVNCU2J4TkVPM0U">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-escaping-the-black-hole-of-release-management">video</a>)</li>
-          <li>Ignite Karaoke 1 (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPT2U0Q2dJS3JaOEE">slides</a>)</li>
-          <li>Ignite Karaoke 2 (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPMXd2WWhwZzhLM1U">slides</a>)</li>
-          <li>Ignite Karaoke - Canada (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPcEE1U0IyR2IwVGc">slides</a>)</li>
+          <li>Ignite Karaoke 1 - Daniel Doughty (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPT2U0Q2dJS3JaOEE">slides</a>) (<a href="https://www.youtube.com/watch?v=v_1Jbed_Le0&list=PLE7tQUdRKcybhZsL8yLODmpwBmerptnqu&index=22">video</a>)</li>
+          <li>Ignite Karaoke 2 - Timothy Dryer (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPMXd2WWhwZzhLM1U">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-karaoke-2">video</a>)</li>
+          <li>Ignite Karaoke - Canada - Todd Brees (<a href="https://drive.google.com/open?id=0B-Ji7HiXj6xPcEE1U0IyR2IwVGc">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-ignite-karaoke-canada">video</a>)</li>
         </ul>
       </div>
     </div> 
