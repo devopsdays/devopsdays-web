@@ -43,7 +43,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYTlBhcDRKeW80anc"> slides </a>)
+        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYTlBhcDRKeW80anc">slides</a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -106,7 +106,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/cynthia-thomas">Cynthia Thomas - Secure Your Containers! What Network Administrators Should Know When Moving Into Production</a>
+        <a href="/events/2016-kansascity/program/cynthia-thomas">Cynthia Thomas - Secure Your Containers! What Network Administrators Should Know When Moving Into Production (<a href="http://www.slideshare.net/techcet/secure-your-containers-what-network-admins-should-know-when-moving-into-production">slides</a>)</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -231,7 +231,7 @@ type = "event"
         <time>09:00-09:15</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYU2ZQb282Sk5kdHM"> slides </a>)
+        Opening Welcome (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYU2ZQb282Sk5kdHM">slides</a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -296,7 +296,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/caleb-hyde">Caleb Hyde - Outgrowing a Startup Culture</a><br /><br />
+        <a href="/events/2016-kansascity/program/caleb-hyde">Caleb Hyde - Outgrowing a Startup Culture</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYYnFXT3FaaVFoUUU">slides</a>) <br /><br />
      </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
