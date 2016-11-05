@@ -92,7 +92,7 @@ type = "event"
         <time>11:30-12:05</time>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/tbd">TBD</a>
+        <a href="/events/2016-telaviv/program/ranleibman">Ran Leibman - Production Engineering, There is no Spoon</a>
       </div>
       <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/naticohen">Nati Cohen - Doing Terrifying Things</a>
