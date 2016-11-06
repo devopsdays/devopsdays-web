@@ -279,7 +279,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/david-blank-edelman">David N. Blank-Edelman - How can you Scale if you Don’t Trust It?</a> (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-how-can-you-scale-if-you-don-t-trust-it">video</a>)
+        <a href="/events/2016-kansascity/program/david-blank-edelman">David N. Blank-Edelman - How can you Scale if you Don’t Trust It?</a> (<a href="https://drive.google.com/open?id=0Bz33o_Xkz6GYYnRXRzhLSlpydG8">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-how-can-you-scale-if-you-don-t-trust-it">video</a>)
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
