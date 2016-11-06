@@ -16,4 +16,8 @@ type = "talk"
   <p>"So you heard of ChatOps right? Ever pondered to take the leap?
 We'll discuss how BigPanda went from boring deploying manually using ssh to boss level smooth Slack EPICNESS deploying process, How it improved our operations workflows, and finally how it became easy and fun for our developers to improve our operations."</p>
   </div>
+    <p><strong>Bio:</strong></p>
+
+  <p>Love all things code, strong believer in AUTOMATE ALL THE THINGZ.</p>
+
 </div>

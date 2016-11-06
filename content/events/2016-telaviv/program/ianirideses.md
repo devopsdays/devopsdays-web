@@ -14,5 +14,9 @@ type = "talk"
   <p><strong>Description:</strong></p>
 
   <p>TBD  </p>
+      <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

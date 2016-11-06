@@ -14,5 +14,9 @@ type = "talk"
   <p><strong>Description:</strong></p>
 
   <p>Often, the most difficult part of moving towards a highly-integrated development environment is not any technical issues, but cultural issues within the engineering organization.  In this talk, attendees will learn effective techniques to make the cultural changes needed to get a smooth, integrated workflow implemented.</p>
+      <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

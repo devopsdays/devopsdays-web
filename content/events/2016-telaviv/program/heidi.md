@@ -17,5 +17,9 @@ type = "talk"
   Heidi Waterhouse - Fear of the Bus
 
 </p>
+    <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

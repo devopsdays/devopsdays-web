@@ -17,5 +17,9 @@ Culture driven by employees.
   <p>In most organizations the organizational culture is the dictated by management and executed via HR.
 What happens to a company when everyone, managers, developers and DBAs drives the culture?
 At Outbrain we tried it and the results are  :-)</p>
+    <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

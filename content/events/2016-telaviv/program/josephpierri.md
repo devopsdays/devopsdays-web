@@ -14,5 +14,9 @@ type = "talk"
   <p><strong>Description:</strong></p>
 
   <p>"We'll do it Live!" - Why you should test your software in production</p>
+      <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

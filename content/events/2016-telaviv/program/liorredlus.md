@@ -16,5 +16,9 @@ type = "talk"
   <p>"Cloud environments and Open Source software have lowered the bar for anyone to implement software solutions.
 Complex relationships between system components are frequently missed by the human eye, and small but important changes are neglected. This, along with the sheer amount of monitoring data, call for a new approach.
 "</p>
+    <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

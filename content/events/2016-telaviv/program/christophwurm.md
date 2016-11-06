@@ -14,5 +14,9 @@ type = "workshop"
   <p><strong>Description:</strong></p>
 
   <p>Using Elastic to monitor everything</p>
+      <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

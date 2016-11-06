@@ -14,6 +14,10 @@ type = "talk"
   <p><strong>Description:</strong></p>
   	Production Engineering - There is no Spoon
   <p></p>
+    <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>
 

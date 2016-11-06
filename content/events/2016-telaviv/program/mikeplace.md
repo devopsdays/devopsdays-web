@@ -14,5 +14,9 @@ type = "talk"
   <p><strong>Description:</strong></p>
 
   <p>Event-Driven Automation: Full Stack Monitoring  </p>
+      <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>

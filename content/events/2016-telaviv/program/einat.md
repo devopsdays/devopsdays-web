@@ -17,5 +17,9 @@ type = "workshop"
   Statistics for Engineers
 
 </p>
+    <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>
