@@ -21,6 +21,10 @@ LIVE coding
 - Deploy static web app
 - Extend it with dynamic web app
 - Extend it with git server acting as CMS"</p>
+  <p><strong>Bio:</strong></p>
+
+  <p> On field Cloud Architect, DevOps and Developer advocate with 15 years experience in DEV area. Was one of the first infra-structure-as-code practitioners in Accenture. Has passion to discover new technologies and search for new use cases it can give.</p>
+
   </div>
 </div>
 

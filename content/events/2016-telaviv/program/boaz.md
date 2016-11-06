@@ -17,5 +17,9 @@ type = "workshop"
   Boaz Shuster - Hack docker for fun and profit
 
 </p>
+    <p><strong>Bio:</strong></p>
+
+  <p></p>
+
   </div>
 </div>
