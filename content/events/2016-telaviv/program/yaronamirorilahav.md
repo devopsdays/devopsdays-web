@@ -18,7 +18,14 @@ Culture driven by employees.
 What happens to a company when everyone, managers, developers and DBAs drives the culture?
 At Outbrain we tried it and the results are  :-)</p>
     <p><strong>Bio:</strong></p>
+"Ori:
+Ori Lahav is Co-Founder and General Manager, Israel at Outbrain, and he oversees the company's R&D center located in Netanya, Israel. Prior to co-founding Outbrain, Ori led the R&D groups in search and classification at Shopping.com, which was acquired by eBay for $634 million. Ori also previously led the video streaming server group at technology company Vsoft. A practical engineer from the Rupin Academic Institute Ori is also a Major (reserve) officer in the Israeli Navy. 
 
+Yaron:  
+OpsSchool Manager at Outbrain
+In the last years Yaron was leading the Outbrain ops data team, managing thouseds of data servers with big Data technologies such as cassandra, mysql and hadoop.
+Yaron found his passion in passing the knowledge to others and decided to start the OpsSchool from within Outbrain.
+"
   <p></p>
 
   </div>

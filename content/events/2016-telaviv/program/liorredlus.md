@@ -18,7 +18,7 @@ Complex relationships between system components are frequently missed by the hum
 "</p>
     <p><strong>Bio:</strong></p>
 
-  <p></p>
+  <p>Lior Redlus is the Chief Scientist and Co-founder @ Coralogix. He holds a B.Sc and an M.Sc degrees in Neuroscience and Information Processing from Bar-Ilan University, and has been a statistics advisor for a variety of scientific research papers. Lior is enthusiastic about science and technology, and likes everything pixel-perfect. Including pictures.</p>
 
   </div>
 </div>

@@ -18,6 +18,8 @@ We'll discuss how BigPanda went from boring deploying manually using ssh to boss
   </div>
     <p><strong>Bio:</strong></p>
 
-  <p>Love all things code, strong believer in AUTOMATE ALL THE THINGZ.</p>
+  <p>Love all things code, strong believer in AUTOMATE ALL THE THINGZ.
+  "DadOps supreme, been doing web since FrontPage98, Operations since .bat was extreme and all around geek passionate about ALL THE THINGZ.
+Has a tendency to get as excited about working log pipelines, elegant code and amazing MEMEz."</p>
 
 </div>

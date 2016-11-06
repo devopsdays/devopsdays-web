@@ -16,7 +16,9 @@ type = "talk"
   <p></p>
     <p><strong>Bio:</strong></p>
 
-  <p></p>
+  <p>"linkedin - https://www.linkedin.com/in/ran-leibman-2b345115
+github - https://github.com/ranl
+my talk in DevOpsDays last year - https://www.youtube.com/watch?v=zf-0WOvJaQc"</p>
 
   </div>
 </div>
