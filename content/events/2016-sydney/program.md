@@ -42,7 +42,8 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        {{< program_link speaker="bridget-kromhout" title="Opening Keynote" >}}
+        Opening Keynote<br />
+        {{< program_link speaker="bridget-kromhout" title="Containers will not fix your broken culture (and other hard truths)">}}
         <br /><strong>Bridget Kromhout</strong>
       </div>
     </div> <!-- end timeslot div -->
