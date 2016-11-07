@@ -89,7 +89,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2016-kansascity/program/kevin-obrien">Kevin O'Brien - Human Factors and DevOps</a> (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-human-factors-and-devops">video</a>)<br /><br />
+        <a href="/events/2016-kansascity/program/kevin-obrien">Kevin O'Brien - Human Factors and DevOps</a> (<a href="https://speakerdeck.com/kmob/human-factors-and-devops">slides</a>) (<a href="https://confreaks.tv/videos/devopsdayskansascity2016-human-factors-and-devops">video</a>)<br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
