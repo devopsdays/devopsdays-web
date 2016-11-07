@@ -15,10 +15,15 @@ type = "talk"
   	Production Engineering - There is no Spoon
   <p></p>
     <p><strong>Bio:</strong></p>
-
-  <p>"linkedin - https://www.linkedin.com/in/ran-leibman-2b345115
-github - https://github.com/ranl
-my talk in DevOpsDays last year - https://www.youtube.com/watch?v=zf-0WOvJaQc"</p>
+      <div class = "col-md box">
+        <a href="https://www.linkedin.com/in/ran-leibman-2b345115">linkedin</a>
+      </div>
+      <div class = "col-md box">
+        <a href="https://github.com/ranl">github</a>
+      </div>
+      <div class = "col-md box">
+        <a href="https://www.youtube.com/watch?v=zf-0WOvJaQc">my talk in DevOpsDays last year</a>
+      </div>
 
   </div>
 </div>
