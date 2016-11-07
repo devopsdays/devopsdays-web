@@ -51,3 +51,6 @@ _mdwriter.cson
 
 # A script to update the ulimt for OS X
 increase_ulimit.sh
+
+#Intellij Idea Project file
+*.iml
