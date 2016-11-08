@@ -405,7 +405,6 @@ type = "event"
             </div>                
             Adriano Vieira
           </li>
-          <li></li>
         </ol>
       </div>
     </div> <!-- end timeslot div -->
@@ -431,7 +430,6 @@ type = "event"
           <li>
             <i class="text-warning">GitLab CI + Rancher</i><br/>
           </li>
-          <li></li>
         </ol>
         <br>
         <p>If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</p>
