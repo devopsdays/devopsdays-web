@@ -176,11 +176,11 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 5</i> <b class="text text-success">[A]</b>: <br />
-        <a href="/events/2016-brasilia/program/eric-maxwell" class="text text-success">
-          Learning From Configuration Management<br />
-          <b>Palestrante: </b>Eric Maxwell<br />
-          <b>Empresa:</b> Chef Inc.<br />
+        <i>Slot 5</i> <b class="text text-primary">[C]</b>: <br />
+        <a href="/events/2016-brasilia/program/arthur-furlan" class="text text-primary">
+          Os desafios de entregar DevOps para leigos<br />
+          <b>Palestrante: </b>Arthur Furlan<br />
+          <b>Empresa:</b> Configr<br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -265,7 +265,7 @@ type = "event"
       <div class = "col-md-8 box">
         <i>Slot 9</i> <b class="text text-success">[A]</b>: <br />
         <a href="/events/2016-brasilia/program/matheus-petronillio-hernandes" class="text text-success">
-          Infraestrutura como código no Tribunal de Contas da União<br />
+          O início da infraestrutura como código no Tribunal de Contas da União<br />
           <b>Palestrante: </b>Matheus Petronillio Hernandes<br />
           <b>Empresa:</b> TCU<br />
         </a>
@@ -405,7 +405,6 @@ type = "event"
             </div>                
             Adriano Vieira
           </li>
-          <li></li>
         </ol>
       </div>
     </div> <!-- end timeslot div -->
@@ -431,7 +430,6 @@ type = "event"
           <li>
             <i class="text-warning">GitLab CI + Rancher</i><br/>
           </li>
-          <li></li>
         </ol>
         <br>
         <p>If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.</p>
