@@ -7,6 +7,10 @@ type = "event"
 
 +++
 
+<hr>
+<p class="alert alert-danger text-center text-warning">It is finished the sponsorship program for this event!</p>
+<hr>
+
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
