@@ -176,11 +176,11 @@ type = "event"
         Auditório <br> (Main Room)
       </div>
       <div class = "col-md-8 box">
-        <i>Slot 5</i> <b class="text text-success">[A]</b>: <br />
-        <a href="/events/2016-brasilia/program/eric-maxwell" class="text text-success">
-          Learning From Configuration Management<br />
-          <b>Palestrante: </b>Eric Maxwell<br />
-          <b>Empresa:</b> Chef Inc.<br />
+        <i>Slot 5</i> <b class="text text-primary">[C]</b>: <br />
+        <a href="/events/2016-brasilia/program/arthur-furlan" class="text text-primary">
+          Os desafios de entregar DevOps para leigos<br />
+          <b>Palestrante: </b>Arthur Furlan<br />
+          <b>Empresa:</b> Configr<br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
