@@ -265,7 +265,7 @@ type = "event"
       <div class = "col-md-8 box">
         <i>Slot 9</i> <b class="text text-success">[A]</b>: <br />
         <a href="/events/2016-brasilia/program/matheus-petronillio-hernandes" class="text text-success">
-          Infraestrutura como código no Tribunal de Contas da União<br />
+          O início da infraestrutura como código no Tribunal de Contas da União<br />
           <b>Palestrante: </b>Matheus Petronillio Hernandes<br />
           <b>Empresa:</b> TCU<br />
         </a>
