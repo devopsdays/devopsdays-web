@@ -328,7 +328,7 @@ type = "event"
         <time>14:00-14:40</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/ignites">Ignites!</a>
+        <a href="/events/2016-telaviv/program/ignites_day_two">Ignites!</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
