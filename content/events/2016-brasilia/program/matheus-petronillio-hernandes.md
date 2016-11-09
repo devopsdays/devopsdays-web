@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-Infraestrutura como código no Tribunal de Contas da União
+O início da infraestrutura como código no Tribunal de Contas da União
 </p>
 
 <p><strong>Description:</strong></p>
@@ -21,4 +21,3 @@ Nesta apresentação iremos compartilhar nossa experiência com “Infra as Code
 
   </div>
 </div>
-

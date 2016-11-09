@@ -80,11 +80,15 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: appdynamics
     level: bronze
   - id: arresteddevops
-    level: media
+    level: community
   - id: comcast
     level: wifi
   - id: apprenda
     level: gold
+  - id: techfednashville
+    level: community
+  - id: nashdevops
+    level: community
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
@@ -98,5 +102,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Badges
   - id: beverage
     label: Beverage
-  - id: media
-    label: Media
+  - id: community
+    label: Community
