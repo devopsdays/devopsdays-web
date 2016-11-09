@@ -39,10 +39,26 @@ type = "event"
         <a href="/events/2016-telaviv/program/charitymajors">Charity Majors-TBD</a>
       </div>
     </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-2">
+        <time>10:05-10:50</time>
+      </div>
+      <div class = "col-md-9 box">
+        <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-2">
+        <time>10:50-11:05</time>
+      </div>
+      <div class = "col-md-9 box">
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
+      </div>
+    </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>10:05-10:10</time>
+        <time>11:05-11:10</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://facebook.com">Sponsors - Facebook</a>
@@ -51,7 +67,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>10:10-10:15</time>
+        <time>11:10-11:15</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://chef.io">Sponsors - Chef</a>
@@ -59,22 +75,69 @@ type = "event"
     </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>10:15-11:00</time>
+        <time>11:15-11:55</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
+        <a href="/events/2016-telaviv/program/ignites_day_one">Ignites!</a>
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
+     <div class = "row">
+       <div class = "col-md-2">
+         <time>11:55-12:20</time>
+       </div>
+       <div class = "col-md-9 box">
+         <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
+       </div>
+     </div> <!-- end timeslot div -->
     <div class = "row">
-      <div class = "col-md-2">
-        <time>11:00-11:30</time>
+      <div class = "col-md-3 col-md-offset-3">
+        Tech
       </div>
-      <div class = "col-md-9 box">
-        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
+      <div class = "col-md-3">
+        Culture
+      </div>
+      <div class = "col-md-3">
+        Workshop
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
+     <!-- this div is repeated for each timeslot -->
+     <div class = "row">
+       <div class = "col-md-2">
+         <time>12:20-12:55</time>
+       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/ranleibman">Ran Leibman - Production Engineering, There is no Spoon</a>
+       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/naticohen">Nati Cohen - Doing Terrifying Things</a>
+       </div>
+      <div class = "col-md-3 box">
+        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers</a>
+      </div>
+     </div> <!-- end timeslot div -->
+     <!-- this div is repeated for each timeslot -->
+     <div class = "row">
+       <div class = "col-md-2">
+         <time>12:55-13:30</time>
+       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/ianirideses">Ianir Ideses - Debugging Skynet: A Machine Learning Approach to Log Analysis</a>
+       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/crystalhuff">Crystal Huff - Interviewing Various Technical Candidates (Badly)</a>
+       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers (continued)</a>
+       </div>
+     </div> <!-- end timeslot div -->
+   <div class = "row">
+      <div class = "col-md-2">
+        <time>13:30-14:30</time>
+      </div>
+      <div class = "col-md-9 box">
+        <a href="/events/2016-telaviv/program/lunchsponsor">Lunch!</a>
+      </div>
+    </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-3 col-md-offset-3">
         Tech
@@ -89,92 +152,32 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>11:30-12:05</time>
+        <time>14:30-15:05</time>
       </div>
       <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/ranleibman">Ran Leibman - Production Engineering, There is no Spoon</a>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/naticohen">Nati Cohen - Doing Terrifying Things</a>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything</a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-2">
-        <time>12:05-12:40</time>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/ianirideses">Ianir Ideses - Debugging Skynet: A Machine Learning Approach to Log Analysis</a>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/crystalhuff">Crystal Huff - Interviewing Various Technical Candidates (Badly)</a>
-      </div>
-      <div class = "col-md-3 box">
-        <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything (continued)</a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-2">
-        <time>12:40-14:00</time>
-      </div>
-      <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/lunchsponsor">Lunch!</a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-2">
-        <time>14:00-14:40</time>
-      </div>
-      <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/ignites">Ignites!</a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-5 col-md-offset-3">
-        Tech
-      </div>
-      <div class = "col-md-4">
-        Culture
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-2">
-        <time>14:40-15:15</time>
-      </div>
-      <div class = "col-md-5 box">
         <a href="/events/2016-telaviv/program/rakefet">Rakefet Jackoby Galazan - Building successful apps using application telemetry and data-driven insights</a>
       </div>
-      <div class = "col-md-4 box">
+      <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/jeffpierce">Jeff Pierce - Effectively Culturing a Healthy Culture and Workflow</a>
       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers (continued)</a>
+       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:15-15:30</time>
+        <time>15:05-15:40</time>
       </div>
-      <div class = "col-md-9 box">
-        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-2">
-        <time>15:30-16:05</time>
-      </div>
-      <div class = "col-md-5 box">
+      <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/josephpierri">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
       </div>
-      <div class = "col-md-4 box">
+      <div class = "col-md-3 box">
         <a href="/events/2016-telaviv/program/antonweiss">Anton Weiss - Business goals my aaS</a>
       </div>
+       <div class = "col-md-3 box">
+         <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers (continued)</a>
+       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
@@ -185,18 +188,25 @@ type = "event"
         Workshop
       </div>
     </div> 
+    <div class = "row">
+      <div class = "col-md-2">
+        <time>15:40-15:55</time>
+      </div>
+      <div class = "col-md-9 box">
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
+      </div>
+    </div> <!-- end timeslot div -->
     <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>16:05-17:25</time>
+        <time>15:55-17:25</time>
       </div>
       <div class = "col-md-5 box">
         <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
       </div>
-      <div class = "col-md-4 box">
-        <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers
-</a>
+       <div class = "col-md-4 box">
+         <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
