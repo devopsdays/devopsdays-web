@@ -60,6 +60,8 @@ sponsors:
     level: silver
   - id: chef
     level: silver
+  - id: accenture
+    level: bronze
   - id: arresteddevops
     level: community
   - id: sdtp
