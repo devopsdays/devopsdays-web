@@ -215,6 +215,7 @@ type = "event"
         <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>
       </div>
     </div><!-- end day 1 -->
+ </div>
     <div class = "row">
       <div class = "col-md-12">
         <div class = "row">
@@ -419,4 +420,4 @@ type = "event"
           </div>
         </div> <!-- end timeslot div -->
       </div><!-- end day 2 -->
-    </div>
+</div>
