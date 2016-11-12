@@ -35,7 +35,7 @@ type = "event"
         <time>09:20-10:05</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/charitymajors">Charity Majors-TBD</a>
+        <a href="/events/2016-telaviv/program/charitymajors">Charity Majors-A Young Lady's Illustrated Primer to Technical Decision-Making</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
