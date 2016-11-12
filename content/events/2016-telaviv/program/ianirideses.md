@@ -1,7 +1,7 @@
 +++
 City = "Tel Aviv"
 Year = "2016"
-title = "Ianir Deses"
+title = "Ianir Ideses"
 type = "talk"
 +++
 
