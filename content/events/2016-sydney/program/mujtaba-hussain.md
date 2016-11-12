@@ -15,7 +15,7 @@ Do small data sets dream of big data?
 <p><strong>Description:</strong></p>
 
 <p>
-As a startup, its imperative to have a firm grasp of way your user base interacts with your product in order to progress and improve.  In this talk, I will outline how we at Fillr, went from spending money on Facebook to get users to using data from our own users to get more users and save a whole heap of money along the way. At the end of the presentation, the attendees will hopefully have a better understanding of the challenges that this approach poses and the benefits of taking them head on like:
+As a startup, it's imperative to have a firm grasp of the way your user base interacts with your product in order to progress and improve.  In this talk, I will outline how we at Fillr, went from spending money on Facebook to get users, to using data from our own users to get more users, and save a whole heap of money along the way. At the end of the presentation, the attendees will hopefully have a better understanding of the challenges that this approach poses, and the benefits of taking them head on like:
 </p>
 <ul>
 <li>How to work with a very small user base to generate usage patterns.</li>
