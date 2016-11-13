@@ -2,7 +2,11 @@
 City = "Tel Aviv"
 Year = "2016"
 title = "Einat Orr"
+<<<<<<< HEAD
+type = "talk"
+=======
 type = "workshop"
+>>>>>>> devopsdays/master
 +++
 
 <div class="span-15  ">
