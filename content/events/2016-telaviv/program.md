@@ -351,10 +351,10 @@ type = "event"
             <time>14:20-14:55</time>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/rakefet">Rakefet Jackoby Galazan - Building successful apps using application telemetry and data-driven insights</a>
+            <a href="/events/2016-telaviv/program/liorredlus">Lior Redlus - Machine Learning concepts for software monitoring</a>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/jeffpierce">Jeff Pierce - Effectively Culturing a Healthy Culture and Workflow</a>
+            <a href="/events/2016-telaviv/program/daliasimons">Dalia Simons - The immor(t)ality of legacy projects</a>
           </div>
            <div class = "col-md-3 box">
             <a href="/events/2016-telaviv/program/antonskranga">Antons Kranga - Build Serverless Architectures with AWS (continued)</a>
@@ -366,10 +366,10 @@ type = "event"
             <time>14:55-15:30</time>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/josephpierri">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
+            <a href="/events/2016-telaviv/program/leonadato">Leon Adato - There’s An App For That: Why Every Team Has Their Own Tools</a>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/antonweiss">Anton Weiss - Business goals my aaS</a>
+            <a href="/events/2016-telaviv/program/heidi">Heidi Waterhouse - Fear of the Bus</a>
           </div>
            <div class = "col-md-3 box">
             <a href="/events/2016-telaviv/program/antonskranga">Antons Kranga - Build Serverless Architectures with AWS (continued)</a>
