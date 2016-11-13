@@ -2,11 +2,7 @@
 City = "Tel Aviv"
 Year = "2016"
 title = "Boaz Shuster"
-<<<<<<< HEAD
 type = "talk"
-=======
-type = "workshop"
->>>>>>> devopsdays/master
 +++
 
 <div class="span-15  ">
@@ -18,7 +14,6 @@ type = "workshop"
   <p><strong>Description:</strong></p>
 
   <p>
-<<<<<<< HEAD
   "Introduction:<br>
  - What's Docker? - in case no one knows what it does<br>
  - The Project History - details about Docker<br>
@@ -42,9 +37,6 @@ Testing: How to test that your change didn't break Docker<br>
  - Running unit-tests<br>
  - Running integration tests<br>
  - Running validation tests"
-=======
-  Boaz Shuster - Hack docker for fun and profit
->>>>>>> devopsdays/master
 
 </p>
     <p><strong>Bio:</strong></p>

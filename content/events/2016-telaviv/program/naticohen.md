@@ -18,11 +18,7 @@ type = "talk"
 </p>
     <p><strong>Bio:</strong></p>
 
-<<<<<<< HEAD
   <p>Production Engineer at SimilarWeb, fighting manual labor with code and vengeance. Previous experience includes: operations consultancy, software development, *nix administration and security research in the Intelligence corps and multiple startup companies.</p>
-=======
-  <p></p>
->>>>>>> devopsdays/master
 
   </div>
 </div>
