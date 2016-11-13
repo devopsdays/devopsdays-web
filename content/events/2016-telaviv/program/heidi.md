@@ -14,7 +14,34 @@ type = "talk"
   <p><strong>Description:</strong></p>
 
   <p>
+<<<<<<< HEAD
+  Devops is almost always responsible for documenting their own stuff, and frequently they are moving so quickly that this step gets shortcut or omitted. I want to give people in devops some simple, straightforward, repeatable, testable tools to make sure that all the mission-critical data is not dependent on one person or role.<br>
+  We're going to have to do much more nimble, flexible documentation methods than remembering to enter things in Confluence. I'm going to use post-its, commit messages, slack emojis, and crowd suggestions to show you how to do good-enough documentation without slowing your organization down.<br><br>
+
+Outline: 
+<ul>
+<li>Problem statement </li>
+  <ul>
+    <li>Critical people</li>
+    <li>Cognitive (over)load</li>
+    <li>Onboarding is an apprenticeship, not an orientation</li>
+  </ul>
+<li>Solutions</li>
+<ul>
+    <li>Automation</li>
+    <li>Collation</li>
+    <li>Sprints</li>
+</ul>
+<li>How you know it worked</li>
+<ul>
+    <li>Chaos monkey</li>
+    <li>Onboarding</li>
+    <li>Vacations</li>
+</ul>
+</ul>
+=======
   Heidi Waterhouse - Fear of the Bus
+>>>>>>> devopsdays/master
 
 </p>
     <p><strong>Bio:</strong></p>
