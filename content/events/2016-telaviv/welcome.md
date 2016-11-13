@@ -6,6 +6,10 @@ aliases = ["/events/2016-telaviv"]
 
 +++
 
+<div style="float:left;">
+  <img alt="DevOpsDays Tel Aviv 2016" src="/events/2016-telaviv/logo.png" style="max-width: 90%;">
+</div>
+
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
@@ -69,14 +73,14 @@ aliases = ["/events/2016-telaviv"]
   </div>
 </div> -->
 
-<div class = "row">
+<!--div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Platinum and Gold sponsorships are SOLD OUT, but Silver and specialty sponsorships are still available!" >}}
   </div>
-</div>
+</div -->
 
 <div class = "row">
   <div class = "col-md-2">
