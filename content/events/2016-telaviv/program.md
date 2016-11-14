@@ -175,7 +175,7 @@ type = "event"
         <a href="/events/2016-telaviv/program/antonweiss">Anton Weiss - Business goals my aaS</a>
       </div>
        <div class = "col-md-3 box">
-         <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers (continued)</a>
+         <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything</a>
        </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -184,7 +184,7 @@ type = "event"
         <time>15:40-15:55</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
+        <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a> + Open Spaces Selection
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -197,13 +197,34 @@ type = "event"
     </div>
     <div class = "row">
       <div class = "col-md-2">
-        <time>15:55-17:25</time>
+        <time>15:55-16:25</time>
       </div>
       <div class = "col-md-5 box">
         <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
       </div>
        <div class = "col-md-4 box">
-         <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything</a>
+         <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything (continued)</a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+        <div class = "row">
+      <div class = "col-md-2">
+        <time>16:25-16:55</time>
+      </div>
+      <div class = "col-md-5 box">
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
+      </div>
+       <div class = "col-md-4 box">
+         <a href="/events/2016-telaviv/program/christophwurm">Christoph Wurm - Using Elastic to monitor everything (continued)</a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <!-- this div is repeated for each timeslot -->
+            <div class = "row">
+      <div class = "col-md-2">
+        <time>16:55-17:25</time>
+      </div>
+      <div class = "col-md-9 box">
+        <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -351,10 +372,10 @@ type = "event"
             <time>14:20-14:55</time>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/rakefet">Rakefet Jackoby Galazan - Building successful apps using application telemetry and data-driven insights</a>
+            <a href="/events/2016-telaviv/program/liorredlus">Lior Redlus - Machine Learning concepts for software monitoring</a>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/jeffpierce">Jeff Pierce - Effectively Culturing a Healthy Culture and Workflow</a>
+            <a href="/events/2016-telaviv/program/daliasimons">Dalia Simons - The immor(t)ality of legacy projects</a>
           </div>
            <div class = "col-md-3 box">
             <a href="/events/2016-telaviv/program/antonskranga">Antons Kranga - Build Serverless Architectures with AWS (continued)</a>
@@ -366,14 +387,14 @@ type = "event"
             <time>14:55-15:30</time>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/josephpierri">Joseph Pierri - "We'll do it Live!" - Why you should test your software in production</a>
+            <a href="/events/2016-telaviv/program/leonadato">Leon Adato - There’s An App For That: Why Every Team Has Their Own Tools</a>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/antonweiss">Anton Weiss - Business goals my aaS</a>
+            <a href="/events/2016-telaviv/program/heidi">Heidi Waterhouse - Fear of the Bus</a>
           </div>
            <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/antonskranga">Antons Kranga - Build Serverless Architectures with AWS (continued)</a>
-           </div>
+            <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit</a>
+        </div>
         </div> <!-- end timeslot div -->
         <!-- this div is repeated for each timeslot -->
         <div class = "row">
@@ -381,7 +402,7 @@ type = "event"
             <time>15:30-15:45</time>
           </div>
           <div class = "col-md-9 box">
-            <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
+            <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a> + Open Spaces Selection
           </div>
         </div> <!-- end timeslot div -->
         <div class = "row">
@@ -400,7 +421,26 @@ type = "event"
             <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
           </div>
            <div class = "col-md-4 box">
-            <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit</a>
+            <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit (continued)</a>
+          </div>
+        </div> <!-- end timeslot div -->
+        <div class = "row">
+          <div class = "col-md-2">
+            <time>15:45-17:25</time>
+          </div>
+          <div class = "col-md-5 box">
+            <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
+          </div>
+           <div class = "col-md-4 box">
+            <a href="/events/2016-telaviv/program/boaz">Boaz Shuster - Hack Docker for Fun and Profit (continued)</a>
+        </div>
+        </div> <!-- end timeslot div -->
+          <div class = "row">
+          <div class = "col-md-2">
+            <time>15:45-17:25</time>
+          </div>
+          <div class = "col-md-9 box">
+            <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
           </div>
         </div> <!-- end timeslot div -->
         <div class = "row">
@@ -413,7 +453,7 @@ type = "event"
         </div> <!-- end timeslot div -->
         <div class = "row">
           <div class = "col-md-2">
-            <time>17:25-late</time>
+            <time>17:35-late</time>
           </div>
           <div class = "col-md-9 box">
             <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>

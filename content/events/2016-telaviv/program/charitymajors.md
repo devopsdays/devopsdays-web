@@ -19,7 +19,7 @@ type = "talk"
   </p>
       <p><strong>Bio:</strong></p>
 
-  <p></p>
+  <p>Charity Majors is the cofounder and CTO of Honeycomb, a new startup focused on mining machine data. Previously, Charity ran infrastructure at Parse and was an engineering manager at Facebook. She also worked with the RocksDB team to build and deploy the world’s first Mongo + Rocks in production. Charity likes single malt scotch.</p>
 
   </div>
 </div>

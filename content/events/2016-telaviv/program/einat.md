@@ -2,7 +2,7 @@
 City = "Tel Aviv"
 Year = "2016"
 title = "Einat Orr"
-type = "workshop"
+type = "talk"
 +++
 
 <div class="span-15  ">
