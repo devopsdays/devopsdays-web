@@ -141,7 +141,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #1<p>
         <strong>Hands-On Workshop 1</strong><br />
-        <a href="/events/2016-berlin/program/eric-maxwell-2">Eric Maxwell: <em>Habitat Workshop</em></a><br />
+        <a href="/events/2016-berlin/program/james-shubin">James Shubin: <em>Next Generation Config Mgmt</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -165,7 +165,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #3<p>
         <strong>Hands-On Workshop 3</strong><br />
-        <a href="/events/2016-berlin/program/james-shubin">James Shubin: <em>Next Generation Config Mgmt</em></a><br />
+        <a href="/events/2016-berlin/program/eric-maxwell-2">Eric Maxwell: <em>Habitat Workshop</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
