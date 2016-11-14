@@ -138,10 +138,9 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Slot 3</i> <b class="text text-success">[A]</b>: <br />
-        <a href="/events/2016-brasilia/program/inajara-leppa" class="text text-success">
+        <a href="/events/2016-brasilia/program/barbara-hartmann" class="text text-success">
           Produção nove vezes ao dia - Como um time da rackspace torna isso possível?<br />
-          <b>Palestrante:</b> Inajara Leppa <br />
-          Co-palestrante: Bárbara Hartmann <br />
+          <b>Palestrante:</b> Bárbara Hartmann <br />
           <b>Empresa:</b> ThoughtWorks<br />
         </a>
       </div>
