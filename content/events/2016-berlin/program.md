@@ -116,10 +116,9 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong><p>
         <a href="/events/2016-berlin/program/michael-huettermann">Michael Hüttermann: <em>The 20 Shades of Grey</em></a><br />
-        <a href="/events/2016-berlin/program/nathen-harvey">Nathen Harvey: <em>DevOps? That's not my Job!</em></a><br />
         <a href="/events/2016-berlin/program/michal-bryxi">Michal Bryxí: <em>Git and GitHub Tricks</em></a><br />
-        <a href="/events/2016-berlin/program/anup-bishnoi">Anup Bishnoi: <em>Implementing versioned service discovery in 100 LOC</em></a><br />
         <a href="/events/2016-berlin/program/anthony-stanton">Anthony Stanton: <em>Come to Germany, Pepe</em></a>
+        <a href="/events/2016-berlin/program/nathen-harvey">Nathen Harvey: <em>DevOps? That's not my Job!</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
