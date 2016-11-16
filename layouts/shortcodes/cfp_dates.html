@@ -1,4 +1,4 @@
-{{ $path := split .Page.Source.File.Path "/" }}
+{{ $path := split .Page.Source.File.Path .Site.Params.PathSeperator }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 
