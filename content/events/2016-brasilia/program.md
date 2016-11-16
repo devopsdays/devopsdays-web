@@ -392,7 +392,7 @@ type = "event"
                 Uma discussão sobre OpenShift e suas principais funcionalidades.
               </i>
             </div>
-            Taciano Tres
+            Gustavo Luszczynski
           </li>
           <li>
             <i class="text-warning">GitLab CI + Rancher</i>
