@@ -182,7 +182,11 @@ type = "event"
         <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Event</strong><br>
+        <a href="http://www.panoramapunkt.de/en/opening-hours-and-location.html">Panoramapunkt Potsdamer Platz</a><br>
+        Potsdamer Platz 1, 10785 Berlin <br><br>
+        Directions:<br>
+        Walk to <strong>S Oranienburger Str</strong> - S1 direction <strong>S Wannsee Bhf</strong> - leave at <strong>S Potsdamer Platz</strong>.
       </div>
     </div> <!-- end timeslot div -->
 
