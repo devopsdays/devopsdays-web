@@ -465,6 +465,22 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
 
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-2 col-md-offset-0">
+        <time>20:30-21:00+</time>
+      </div>
+      <div class = "col-md-2">
+        <!-- room -->
+        O'Rilley<br/>Irish Pub
+      </div>
+      <div class = "col-md-8 box">
+        <span class="text text-warning">
+          <b>After-Party</b>: DevOpsDays Brasília! <small>(<i>infos with organizers</i>)</small>
+        </span>
+      </div>
+    </div> <!-- end timeslot div -->
+
   </div><!-- end day 1 -->
 
 </div>
