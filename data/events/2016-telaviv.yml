@@ -93,8 +93,10 @@ sponsors:
     level: bronze
   - id: elastic
     level: bronze
+  - id: gitlab
+    level: bronze
   # Happy Hour
-  - id: aol
+  - id: aolil
     level: happyhour
   # Coffee
   - id: via
