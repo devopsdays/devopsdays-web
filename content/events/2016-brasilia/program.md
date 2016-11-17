@@ -211,7 +211,7 @@ type = "event"
         <a href="/events/2016-brasilia/program/fernando-ike" class="text text-success">
           Docker Cluster - Swarm<br />
           <b>Palestrante: </b>Fernando Ike<br />
-          <!--<b>Empresa:</b> Highwinds <br />-->
+          <b>Empresa:</b> Highwinds Network Group, Inc. <br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -392,7 +392,7 @@ type = "event"
                 Uma discussão sobre OpenShift e suas principais funcionalidades.
               </i>
             </div>
-            Taciano Tres
+            Gustavo Luszczynski
           </li>
           <li>
             <i class="text-warning">GitLab CI + Rancher</i>
