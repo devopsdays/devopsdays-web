@@ -64,6 +64,8 @@ sponsors:
     level: silver
   - id: accenture-au
     level: bronze
+  - id: infoxchange
+    level: bronze
   - id: arresteddevops
     level: community
   - id: sdtp
