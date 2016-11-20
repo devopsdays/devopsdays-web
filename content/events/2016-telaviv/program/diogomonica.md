@@ -22,7 +22,7 @@ Given the popularity of containers in the enterprise, it is critical that we sta
   </p>
       <p><strong>Bio:</strong></p>
 
-  <p></p>
+  <p>Diogo Mónica is the security lead at Docker, an open platform for building, shipping and running distributed applications. He was an early employee at Square where he led the platform security team, has a BSc, MSc and PhD degrees in Computer Science, serves on the board of advisors of several security startups, and is a long-time IEEE Volunteer.</p>
 
   </div>
 </div>
