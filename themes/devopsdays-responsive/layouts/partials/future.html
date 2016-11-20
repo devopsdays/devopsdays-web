@@ -7,8 +7,6 @@ This code creates 2-3 lists: One of current years and a list of current events
 for each year (namespaced with "future" to prevent collisions). Later we loop
 through these lists to generate our event info.
 
-There are currently two hard-coded references to 2017-01-01 which at or before
-that point will need to be changed.
 -->
 
 
@@ -23,24 +21,9 @@ that point will need to be changed.
                 <tr>
                     <div style="display:table-cell; vertical-align:top">
                         <div style="margin:1px;">
-                            <strong>{{ $.Now.Format "2006" }}</strong><br/>
                             {{ range sort $.Site.Data.events "startdate" }}
                               {{ if .startdate }}
-                              {{ if and (ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02"))) (lt (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" "2017-01-01" )) }}
-                              <a href = "/events/{{ .name }}/welcome">
-                                  {{ .city }}
-                                {{ dateFormat "Jan 2, 2006" .startdate }}
-                                -
-                                {{ dateFormat "Jan 2, 2006" .enddate }}
-                              </a><br />
-                              {{ end }}
-                              {{ end }}
-                            {{ end }}
-
-                            <br/><strong>{{ .Now.AddDate 1 0 0 | dateFormat "2006" }}</strong><br/>
-                            {{ range sort $.Site.Data.events "startdate" }}
-                              {{ if .startdate }}
-                              {{ if ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" "2017-01-01" ) }}
+                              {{ if ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
                               <a href = "/events/{{ .name }}/welcome">
                                   {{ .city }}
                                 {{ dateFormat "Jan 2, 2006" .startdate }}

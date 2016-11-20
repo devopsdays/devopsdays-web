@@ -22,8 +22,10 @@ function initialize() {
     // Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
     var markers = [
       {{ range $.Site.Data.events }}
-        {{ if  and (eq .status "current") ( .startdate ) }}
+        {{ if .startdate }}
+        {{ if ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
           ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}', '/events/{{ .name }}'],
+        {{ end }}
         {{ end }}
       {{ end }}
     ];
