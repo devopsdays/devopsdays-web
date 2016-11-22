@@ -16,7 +16,7 @@ type = "talk"
 </div> <!-- end timeslot div -->
 <div class = "row">
   <div class = "col-md-9 box">
-    <a>Boaz Menuhin-How Cost cutting can lead to added value</a>
+    <a>Alex Balk-Switches, penguins, and one bad cable (DevOpsing the Networkz)</a>
   </div>
 </div> <!-- end timeslot div -->
 <div class = "row">
