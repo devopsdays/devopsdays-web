@@ -54,7 +54,9 @@ sponsors:
   - id: sumologic
     level: gold
   - id: thoughtworks-products
-    level: gold    
+    level: gold
+  - id: opsgenie
+    level: gold
   - id: split-software
     level: silver
   - id: city-of-charlotte
