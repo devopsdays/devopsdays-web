@@ -415,7 +415,7 @@ type = "event"
         </div>
         <div class = "row">
           <div class = "col-md-2">
-            <time>15:45-17:25</time>
+            <time>15:45-16:15</time>
           </div>
           <div class = "col-md-5 box">
             <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
@@ -426,7 +426,7 @@ type = "event"
         </div> <!-- end timeslot div -->
         <div class = "row">
           <div class = "col-md-2">
-            <time>15:45-17:25</time>
+            <time>16:15-16:45</time>
           </div>
           <div class = "col-md-5 box">
             <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
@@ -437,7 +437,7 @@ type = "event"
         </div> <!-- end timeslot div -->
           <div class = "row">
           <div class = "col-md-2">
-            <time>15:45-17:25</time>
+            <time>16:45-17:15</time>
           </div>
           <div class = "col-md-9 box">
             <strong>attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout discussions</strong>
@@ -445,7 +445,7 @@ type = "event"
         </div> <!-- end timeslot div -->
         <div class = "row">
           <div class = "col-md-2">
-            <time>17:25-17:35</time>
+            <time>17:15-17:25</time>
           </div>
           <div class = "col-md-9 box">
             <a href="/events/2016-telaviv/program/closing">Closing Words</a>
@@ -453,7 +453,7 @@ type = "event"
         </div> <!-- end timeslot div -->
         <div class = "row">
           <div class = "col-md-2">
-            <time>17:35-late</time>
+            <time>17:25-late</time>
           </div>
           <div class = "col-md-9 box">
             <a href="http://www.aol.com">Happy Hour Sponsored by AOL!</a>
