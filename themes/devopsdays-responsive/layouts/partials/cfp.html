@@ -6,7 +6,7 @@
   {{ range sort $.Site.Data.events "startdate" }}
 
   {{ if .cfp_date_end }}
-    {{ if  ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+    {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
       {{ $.Scratch.Add "events" "<tr><td><a href = '/events/" }}
       {{ $.Scratch.Add "events" .name }}
       {{ $.Scratch.Add "events" "/welcome' class = 'cfp'>" }}
@@ -16,10 +16,10 @@
       {{ $.Scratch.Add "events" "</td><td data-dateformat='YYYY-MM-DD'>&nbsp;&nbsp;&nbsp;&nbsp;" }}
       {{ $.Scratch.Add "events" .startdate}}
       {{ $.Scratch.Add "events" "</td></tr>" }}
-    {{ end }} {{/* end: if  and ( eq .status "current") ( .startdate ) */}}
+    {{ end }} {{/* end: date is now or afterwards */}}
 
-  {{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
-{{ end }}
+  {{ end }} {{/* end: if .cfp_date_end */}}
+{{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
 {{ $.Scratch.Add "events" "</tbody></table>" }}
 
 

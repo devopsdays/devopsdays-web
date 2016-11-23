@@ -7,7 +7,7 @@
   it and paste it. Need to figure out if a partial would expose the variables/elements/array created herein. It could be done in a partial (need to include the trailing .) but I don't think it would work in shortcodes, which is where we need it the most - mattstratton
 */}}
 
-{{ $path := split $.Source.File.Path "/" }}
+{{ $path := split $.Source.File.Path .Site.Params.PathSeperator }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 {{ $.Scratch.Add "citydisplay" $e.city }}

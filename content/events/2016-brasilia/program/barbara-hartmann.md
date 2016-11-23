@@ -1,7 +1,7 @@
 +++
-date = "2016-09-23T19:32:33-03:00"
-linktitle = "inajara-leppa"
-title = "Inajara Leppa"
+date = "2016-11-14T19:37:59-02:00"
+linktitle = "barbara-hartmann"
+title = "Bárbara Hartmann"
 type = "talk"
 
 +++
@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-Produção nove vezes ao dia - Como um time da rackspace torna isso possível?
+Produção nove vezes ao dia - Como um time da Rackspace torna isso possível?
 </p>
 
 <p><strong>Description:</strong></p>
@@ -21,4 +21,3 @@ Vamos apresentar quais técnicas e ferramentas são usadas no nosso time para ga
 
   </div>
 </div>
-

@@ -38,7 +38,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:10</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -47,7 +47,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:10-09:40</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-berlin/program/kris-buytaert">Kris Buytaert: <em>Looking back at 7 years of DevOpsDays</em></a> <br><strong>Opening Keynote</strong>
@@ -56,16 +56,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
-      </div>
-      <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>09:40-10:10</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-berlin/program/konrad-hosemann">Konrad Hosemann: <em>Infrastructure as a Microservice</em></a>
@@ -74,7 +65,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:10-10:40</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -93,7 +84,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:10-11:15</time>
       </div>
       <div class = "col-md-6 box">
         Sponsors
@@ -102,7 +93,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-berlin/program/peter-varhol">Peter Varhol: <em>Talking to People: The forgotten DevOps Tool</em></a>
@@ -111,7 +102,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>11:45-13:00</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)
@@ -125,16 +116,15 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong><p>
         <a href="/events/2016-berlin/program/michael-huettermann">Michael Hüttermann: <em>The 20 Shades of Grey</em></a><br />
-        <a href="/events/2016-berlin/program/nathen-harvey">Nathen Harvey: <em>DevOps? That's not my Job!</em></a><br />
         <a href="/events/2016-berlin/program/michal-bryxi">Michal Bryxí: <em>Git and GitHub Tricks</em></a><br />
-        <a href="/events/2016-berlin/program/anup-bishnoi">Anup Bishnoi: <em>Implementing versioned service discovery in 100 LOC</em></a><br />
         <a href="/events/2016-berlin/program/anthony-stanton">Anthony Stanton: <em>Come to Germany, Pepe</em></a>
+        <a href="/events/2016-berlin/program/nathen-harvey">Nathen Harvey: <em>DevOps? That's not my Job!</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -144,19 +134,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:20-15:05</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
         Open Space #1<p>
         <strong>Hands-On Workshop 1</strong><br />
-        <a href="/events/2016-berlin/program/eric-maxwell-2">Eric Maxwell: <em>Habitat Workshop</em></a><br />
+        <a href="/events/2016-berlin/program/james-shubin">James Shubin: <em>Next Generation Config Mgmt</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:15-16:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -168,19 +158,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:10-16:55</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
         Open Space #3<p>
         <strong>Hands-On Workshop 3</strong><br />
-        <a href="/events/2016-berlin/program/james-shubin">James Shubin: <em>Next Generation Config Mgmt</em></a><br />
+        <a href="/events/2016-berlin/program/eric-maxwell-2">Eric Maxwell: <em>Habitat Workshop</em></a><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>16:55-17:00</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Logistics
@@ -192,7 +182,11 @@ type = "event"
         <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Evening Event</strong><br>
+        <a href="http://www.panoramapunkt.de/en/opening-hours-and-location.html">Panoramapunkt Potsdamer Platz</a><br>
+        Potsdamer Platz 1, 10785 Berlin <br><br>
+        Directions:<br>
+        Walk to <strong>S Oranienburger Str</strong> - S1 direction <strong>S Wannsee Bhf</strong> - leave at <strong>S Potsdamer Platz</strong>.
       </div>
     </div> <!-- end timeslot div -->
 
@@ -220,7 +214,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>09:00-09:10</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -229,7 +223,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>09:10-09:40</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-berlin/program/hannah-foxwell">Hannah Foxwell: <em>Information Overload and the Real Cost of Interuptions</em></a><br />
@@ -239,16 +233,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
-      </div>
-      <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>09:40-10:10</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-berlin/program/tp-honey">TP Honey: <em>The Art of Supportability</em></a><br />
@@ -257,7 +242,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:10-10:40</time>
       </div>
       <div class = "col-md-6 box">
         Break
@@ -275,7 +260,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:10-11:15</time>
       </div>
       <div class = "col-md-6 box">
         Sponsors
@@ -284,7 +269,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2016-berlin/program/rodrigo-campos">Rodrigo Campos: <em>Building a Culture of Builders – The adventures of building an engineering team at Facebook London</em></a><br />
@@ -293,7 +278,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>11:45-13:00</time>
       </div>
       <div class = "col-md-6 box">
         Lunch (catered)
@@ -316,7 +301,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>13:30-14:15</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -326,7 +311,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:20-15:05</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -338,7 +323,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:15-16:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -350,20 +335,11 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:10-16:55</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
         Open Space #3
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>17:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->

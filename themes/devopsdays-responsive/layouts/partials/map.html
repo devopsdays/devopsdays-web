@@ -22,10 +22,31 @@ function initialize() {
     // Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
     var markers = [
       {{ range $.Site.Data.events }}
-        {{ if  and (eq .status "current") ( .startdate ) }}
-          ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}', '/events/{{ .name }}'],
-        {{ end }}
-      {{ end }}
+
+      // if there is a startdate set
+        {{ if .startdate }}
+
+      // if the startdate is today or in the future
+          {{ if ge (dateFormat "2006-01-02" .startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+
+      // if the startdate month and enddate month are different, show both months
+            {{ if ne (dateFormat "Jan" .startdate) (dateFormat "Jan" .enddate) }}
+              ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}-{{ dateFormat "Jan 2" .enddate }}', '/events/{{ .name }}'],
+            {{ else }}
+
+      // if the startdate and enddate are the same (ie, a one-day event), show one day
+            {{ if eq .startdate .enddate }}
+              ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}', '/events/{{ .name }}'],
+            {{ else }}
+
+      // if both dates in one month, show startdate with month & enddate without month
+              ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}-{{ dateFormat "2" .enddate }}', '/events/{{ .name }}'],
+            {{ end }} // end of same month
+
+            {{ end }} // end of different month
+          {{ end }} // end of "ge dateformat"
+        {{ end }} // end of startdate
+      {{ end }} // end of "range"
     ];
 
     // Display multiple markers on a map

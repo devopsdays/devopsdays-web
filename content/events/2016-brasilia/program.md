@@ -138,10 +138,9 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         <i>Slot 3</i> <b class="text text-success">[A]</b>: <br />
-        <a href="/events/2016-brasilia/program/inajara-leppa" class="text text-success">
+        <a href="/events/2016-brasilia/program/barbara-hartmann" class="text text-success">
           Produção nove vezes ao dia - Como um time da rackspace torna isso possível?<br />
-          <b>Palestrante:</b> Inajara Leppa <br />
-          Co-palestrante: Bárbara Hartmann <br />
+          <b>Palestrante:</b> Bárbara Hartmann <br />
           <b>Empresa:</b> ThoughtWorks<br />
         </a>
       </div>
@@ -212,7 +211,7 @@ type = "event"
         <a href="/events/2016-brasilia/program/fernando-ike" class="text text-success">
           Docker Cluster - Swarm<br />
           <b>Palestrante: </b>Fernando Ike<br />
-          <!--<b>Empresa:</b> Highwinds <br />-->
+          <b>Empresa:</b> Highwinds Network Group, Inc. <br />
         </a>
       </div>
     </div> <!-- end timeslot div -->
@@ -393,7 +392,7 @@ type = "event"
                 Uma discussão sobre OpenShift e suas principais funcionalidades.
               </i>
             </div>
-            Taciano Tres
+            Gustavo Luszczynski
           </li>
           <li>
             <i class="text-warning">GitLab CI + Rancher</i>
@@ -463,6 +462,22 @@ type = "event"
       </div>
       <div class = "col-md-8 box">
         Encerramento e informes (Closing and general infos)
+      </div>
+    </div> <!-- end timeslot div -->
+
+    <!-- this div is repeated for each timeslot -->
+    <div class = "row">
+      <div class = "col-md-2 col-md-offset-0">
+        <time>20:30-21:00+</time>
+      </div>
+      <div class = "col-md-2">
+        <!-- room -->
+        O'Rilley<br/>Irish Pub
+      </div>
+      <div class = "col-md-8 box">
+        <span class="text text-warning">
+          <b>After-Party</b>: DevOpsDays Brasília! <small>(<i>infos with organizers</i>)</small>
+        </span>
       </div>
     </div> <!-- end timeslot div -->
 

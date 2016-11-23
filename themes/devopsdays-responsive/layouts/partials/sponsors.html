@@ -1,4 +1,4 @@
-{{ $path := split $.Source.File.Path "/" }}
+{{ $path := split $.Source.File.Path .Site.Params.PathSeperator }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 
@@ -19,7 +19,8 @@
           {{ end }}
         </div>
 
-        {{ if eq $e.status "current" }}
+        {{ if $e.startdate }}
+          {{ if ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
           {{ if ne $e.sponsors_accepted "no" }}
             {{ if or (not $level.max) (lt ($.Scratch.Get $level.id) $level.max) }}
               <div class = "row">
@@ -29,6 +30,7 @@
               </div>
             {{ end }}
           {{ end }}
+        {{ end }}
         {{ end }}
 
       </div>

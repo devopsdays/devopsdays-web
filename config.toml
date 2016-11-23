@@ -19,3 +19,7 @@ buildDrafts = false
 	Twitter = "http://www.twitter.com/devopsdays"
 	Linkedin = "http://www.linkedin.com/groups?home=&gid=2445279"
 	Groups = "http://groups.google.com/group/devopsdays"
+
+	# Set to "/" on *nix and Mac, "\\" on Windows
+	# Refer to https://github.com/spf13/hugo/issues/2394 for more information
+	PathSeperator = "/"

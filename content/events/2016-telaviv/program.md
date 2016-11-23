@@ -268,7 +268,7 @@ type = "event"
             <time>09:20-10:05</time>
           </div>
           <div class = "col-md-9 box">
-            <a href="/events/2016-telaviv/program/diogomonica">Diogo Monica-TBD</a>
+            <a href="/events/2016-telaviv/program/diogomonica">Diogo Monica-Orchestrating Least Privilege</a>
           </div>
         </div> <!-- end timeslot div -->
 

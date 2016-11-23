@@ -1,6 +1,6 @@
 {{ partial "event_header.html" . }}
 
-{{ $path := split $.Source.File.Path "/" }}
+{{ $path := split $.Source.File.Path .Site.Params.PathSeperator }}
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 {{ $city_slug := substr $e.name 5 }}
