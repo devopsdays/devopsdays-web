@@ -8,24 +8,17 @@ type = "talk"
 
 <div class="span-15  ">
   <div class="span-15  last ">
-  <p><strong>Title:</strong>
-What we’re learning about burnout and how a DevOps culture can help
+  <p><strong>Title: The answer to the “where do we start” question</strong>
+
 </p>
 
 <p><strong>Description:</strong></p>
 
-<p>
-One of the most overlooked advantages of converting to a DevOps culture can be the reduction of stress. This could be due to “sharing the load” as a whole team, the feeling of joint ownership in solving a business problem, or many other things.
+<p>Where do we start? This is by far the question I’m asked the most when talking to people about implementing continuous delivery. Unlike other types of long journeys, the answer is rarely “at the beginning”.</p>
 
-If you’re asked to support somebody else’s application without any insight to how it was built and what problems it’s trying to solve you’re likely to experience more than a little stress. The same is true if you’ve toiled away creating the perfect application only to see it deployed in a way that makes it unable to perform.
+<p>One of the best ways to determine the best place to start is to figure out where you’re wasting the most resources, and one of the best ways to do that is to create a value stream map.</p>
 
-The combination of stress and burnout is perhaps the biggest health threat in our industry. In fact, recent research has found that burnout--and the related concept of ""vital exhaustion""--increases your risk of cardiovascular disease as much as body mass index, smoking and lipid levels. Unfortunately there are also well-known stories of burnout-related suicides in our industry, making this literally a life and death issue.
-
-If that isn’t reason enough to address the issue, we also know from the State of DevOps survey that the #1 indicator of company success is job satisfaction.
-
-In this talk Ken will go over some of the leading research in the area of burnout. We’ll talk about some of the more common causes of burnout as identified by clinical research and talk about how you can learn from organizations with solid DevOps cultural practices to help alleviate them.
-</p>
-<p>
+<p>We’ll go over what a value stream map is, how you can create one, and how it can help you answer some important questions about your business. Questions like “where do we start?”.</p>
 
   </div>
 </div>
