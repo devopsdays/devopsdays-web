@@ -59,9 +59,13 @@ sponsors:
     level: gold
   - id: rea-group
     level: silver
+  - id: chef
+    level: silver
+  - id: puppet
+    level: silver
   - id: odecee
     level: silver
-  - id: chef
+  - id: actifio
     level: silver
   - id: accenture-au
     level: bronze
