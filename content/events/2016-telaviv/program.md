@@ -90,10 +90,10 @@ type = "event"
      </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-3 col-md-offset-3">
-        Tech
+        Track 1
       </div>
       <div class = "col-md-3">
-        Culture
+        Track 2
       </div>
       <div class = "col-md-3">
         Workshop
@@ -139,10 +139,10 @@ type = "event"
     </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-3 col-md-offset-3">
-        Tech
+        Track 1
       </div>
       <div class = "col-md-3">
-        Culture
+        Track 2
       </div>
       <div class = "col-md-3">
         Workshop
@@ -309,10 +309,10 @@ type = "event"
          </div> <!-- end timeslot div -->
         <div class = "row">
           <div class = "col-md-3 col-md-offset-3">
-            Tech
+            Track 1
           </div>
           <div class = "col-md-3">
-            Culture
+            Track 2
           </div>
           <div class = "col-md-3">
             Workshop
@@ -357,10 +357,10 @@ type = "event"
         </div> <!-- end timeslot div -->
         <div class = "row">
           <div class = "col-md-3 col-md-offset-3">
-            Tech
+            Track 1
           </div>
           <div class = "col-md-3">
-            Culture
+            Track 2
           </div>
           <div class = "col-md-3">
             Workshop
