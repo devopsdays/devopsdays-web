@@ -1,6 +1,7 @@
 name: "2017-moscow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Moscow" # The displayed city name of the event. Capitalize it.
+status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-02-11 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -30,11 +31,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Alexander Titov"
   - name: "Boris Zlobin"
   - name: "Michael Krivilev"
   - name: "Vitaly Mosin"
+  - name: "Vladimir Turovtsev"
   - name: "Vladislav Zavisnov"
-  - name: "Alexander Titov"
 organizer_email: "organizers-moscow-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-moscow-2016@devopsdays.org" # Put your proposal email address here
 
