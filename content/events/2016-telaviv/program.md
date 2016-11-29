@@ -134,7 +134,7 @@ type = "event"
         <time>13:30-14:30</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/lunchsponsor">Lunch!</a>
+        <a href="http://www.taboola.com">Lunch sponsored by Taboola!</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -352,7 +352,7 @@ type = "event"
             <time>13:20-14:20</time>
           </div>
           <div class = "col-md-9 box">
-            <a href="/events/2016-telaviv/program/lunchsponsor">Lunch!</a>
+            <a href="http://www.taboola.com">Lunch sponsored by Taboola!</a>
           </div>
         </div> <!-- end timeslot div -->
         <div class = "row">
