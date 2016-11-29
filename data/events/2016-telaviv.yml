@@ -101,6 +101,9 @@ sponsors:
   # Coffee
   - id: via
     level: coffee
+  # Lunch and Wifi
+  - id: taboola
+    level: lunch_and_wifi
   # media
   - id: oreilly
     level: media
@@ -119,5 +122,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Happy Hour
   - id: coffee
     label: Coffee
+  - id: lunch_and_wifi
+    label: Lunch and Wifi
   - id: media
     label: Media
