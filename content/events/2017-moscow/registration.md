@@ -1,4 +1,4 @@
-+++
+﻿+++
 date = "2016-09-05T09:42:50+03:00"
 title = "registration"
 type = "event"
@@ -12,5 +12,4 @@ The official registration will be available soon. Meanwhile, you can fill the �
 <br>
 <em>Совсем скоро мы объявим официальную регистрацию на мероприятие. Но уже сейчас вы можете заполнить форму предварительной регистрации (внизу страницы) и получить специальную скидку на ваш билет. </em>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4NDAHlaQR2Djk-YOeDpkZmYHLQBzJmKUG3R2WN-IbkDJmeg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</div></div>
 </div>
