@@ -6,10 +6,11 @@ aliases = ["/events/2016-moscow"]
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<h2>{{< event_start >}}</h2>
 
 
-**devopsdays is coming to {{< event_location >}}!**
+**DevOpsDays is coming to {{< event_location >}}!**
+**<em>Конференция DevOpsDays приходит в {{< event_link page="location" text="Москву!" >}}</em>**
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -17,10 +18,10 @@ aliases = ["/events/2016-moscow"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Dates <br>(<em>Дата проведения</em>):</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
@@ -33,14 +34,7 @@ aliases = ["/events/2016-moscow"]
   </div>
 </div> -->
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
+
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -60,34 +54,50 @@ aliases = ["/events/2016-moscow"]
   </div>
 </div> -->
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Speakers (<em>Спикеры</em>):</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    Want to become a speaker? Tell us! <br>Хотите стать спикером? Напишите нам! <br>{{< email_organizers >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Sponsors (<em>Спонсоры</em>):</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="/events/2017-moscow/Sponsorship-information-DevOpsDays-Moscow-2017.pdf" target="_blank">Sponsor the conference!</a>
+	<br/>
+	<a href="/events/2017-moscow/Как-стать-партнером-международной-конференции-DevOpsDays-Moscow-2017.pdf" target="_blank"><em>Станьте спонсором!</em></a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contact (<em>Контакты</em>):</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
+	<br>
+	<em>{{< event_link page="contact" text="Свяжитесь с организаторами!" >}}</em>
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Registration (Регистрация)</strong>
+  </div>
+  <div class = "col-md-8">
+  {{< event_link page="registration" text="Fill a pre-registration form and get tickets at a special price!" >}}
+  <br>
+  <em>{{< event_link page="registration" text="Заполните форму предварительной регистрации и получите билеты по специальной цене!" >}}
+    </em>
+  </div>
+</div>
 <!-- add your city twitter name here without the @ sign -->
 <!--
 {{< event_twitter devopsdaysyourcity >}}
 -->
+
