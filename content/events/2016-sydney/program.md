@@ -119,6 +119,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #1</strong><br />
+        <b>Room 1</b>: Ops Team planning/Tracking Metrics<br>
+        <b>Room 2</b>: How to sell the "Why" to our organisations<br>
+        <b>Room 3</b>: How to run integration tests with microservices<br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -128,6 +131,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #2</strong><br />
+        <b>Room 1</b>: Teaching Ops<br>
+        <b>Room 2</b>: Infra as code with multiple teams <br>
+        <b>Room 3</b>: Patching all the immutable things \o/<br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -146,6 +152,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #3</strong><br />
+        <b>Room 1</b>: How to do documentation right <br>
+        <b>Room 2</b>: Improving Communication & Mentoring Junior team members<br>
+        <b>Room 3</b>: Container orchestration<br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
