@@ -297,6 +297,10 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #1</strong><br />
+         <b>Main Stage</b>: Arrested DevOps Podcast
+         <b>Room 1</b>: More 'dev' in the 'ops'<br />
+         <b>Room 2</b>: What is tradional project management<br />
+         <b>Room 3</b>: DevOps for DB admin<br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -315,6 +319,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #2</strong><br />
+         <b>Room 1</b>: War Stories<br />
+         <b>Room 2</b>: Management and Leadership <br />
+         <b>Room 3</b>: Building better containers with Habitat<br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -324,6 +331,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
          <strong>Open Space #3</strong><br />
+         <b>Room 1</b>: Security and DevOps<br />
+         <b>Room 2</b>: Hiring Best Practice <br />
+         <b>Room 3</b>: Convincing the business to retire the old stuff<br />
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -331,7 +341,8 @@ type = "event"
         <time>16:30-16:45</time>
       </div>
       <div class = "col-md-6 box">
-         Closing Day &amp; Farewell
+         Closing Day &amp; Farewell<br/>
+         <i>Followed by Conference Retro</i>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
