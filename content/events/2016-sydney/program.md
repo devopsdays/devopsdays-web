@@ -297,7 +297,7 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space #1</strong><br />
-         <b>Main Stage</b>: Arrested DevOps Podcast
+         <b>Main Stage</b>: Arrested DevOps Podcast<br/>
          <b>Room 1</b>: More 'dev' in the 'ops'<br />
          <b>Room 2</b>: What is tradional project management<br />
          <b>Room 3</b>: DevOps for DB admin<br />
