@@ -9,7 +9,7 @@ aliases = ["/events/2017-chicago"]
 <!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
 
 
-Welcome!  The group that brought you DevOpsDays Chicago 2014-2016 is back together and planning the 2017 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2017 in Chicago.
+Welcome!  The group that brought you DevOpsDays Chicago 2014-2016 are back together and planning the 2017 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2017 in Chicago.
 
 <div style="text-align:center;">
   {{< event_logo >}}
