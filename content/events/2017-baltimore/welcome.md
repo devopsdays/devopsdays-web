@@ -20,6 +20,54 @@ DevOps Days is coming to {{< event_location >}}!
 </div>
 
 <div class = "row">
+  <div class = "col-md-10">
+    <p>
+      DevOpsDays is a unique conference for anyone interested in building or
+      operating a high-velocity, software-driven business or agency.  The
+      <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule">program</a>
+      includes keynote talks, Ignite talks, and participant-organized open space
+      discussions on the topics most important to the attendees.
+    </p>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-10">
+    <h4>Call for Presenters Closing Soon</h4>
+    <p>
+      The
+      <a href="https://devopsdaysbaltimore2017.busyconf.com/proposals/new">call
+      for presenters</a> will close on December 9, 2016 at 11:59PM EST.  We want
+      to hear your story, please
+      <a href="https://devopsdaysbaltimore2017.busyconf.com/proposals/new">propose
+      a talk now</a>!
+    </p>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-10">
+    <h4>Opening Keynotes Announced</h4>
+    <ul>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_581b512bfa6077d5c4000073">Building
+        the Baltimore DevOps Community</a> - Nathen Harvey
+      </li>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_582f3514384144ce6900008c">The
+        Rainbow of Death</a> - Mike Bland
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-10">
+    <h4>Conference Details</h4>
+  </div>
+</div>
+
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
@@ -55,14 +103,15 @@ DevOps Days is coming to {{< event_location >}}!
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the
+    <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule">program</a>.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -91,4 +140,12 @@ DevOps Days is coming to {{< event_location >}}!
   </div>
 </div>
 
-{{< event_twitter devopsdaysbmore >}}
+<div class = "row">
+  &nbsp;
+</div>
+
+<div class = "row">
+  <p>
+    {{< event_twitter devopsdaysbmore >}}
+  </p>
+</div>
