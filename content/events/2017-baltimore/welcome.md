@@ -108,7 +108,8 @@ DevOps Days is coming to {{< event_location >}}!
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the
+    <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule">program</a>.
   </div>
 </div>
 
