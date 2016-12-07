@@ -277,7 +277,7 @@ type = "event"
             <time>10:05-10:50</time>
           </div>
           <div class = "col-md-9 box">
-            <a href="/events/2016-telaviv/program/gsxap">Nati Shalom & Barak Bar-Orion - Disrupt yourself before someone else does - Adventures of Open Sourcing a mature product</a>
+            <a href="/events/2016-telaviv/program/gsxap">Avishai Ish-Shalom - It's Time to Rethink Work</a>
           </div>
         </div> <!-- end timeslot div -->
 
