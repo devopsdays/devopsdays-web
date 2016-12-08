@@ -32,7 +32,7 @@ You're going to need people from different organizations on your local organizin
 
 ## Website, Email, and Slack
 
-When you have your initial team, [email the global core organizers](mailto:info@devopsdays.org) and we'll schedule a kickoff meeting with you. After chatting, we'll set up the @devopsdays.org mail aliases for your team. This will let you have a standard email for organizer contact and proposals. We'll also invite you to the Slack team to you can meet other organizers and share ideas.
+When you have your initial team, [email the global core organizers](mailto:info@devopsdays.org) and we'll schedule a kickoff meeting with you. After chatting, we'll set up the @devopsdays.org mail aliases for your team. This will let you have a standard email for organizer contact and proposals. We'll also invite you to the Slack team so you can meet other organizers and share ideas. (Slack has an XMPP gateway if you'd prefer that.)
 
 We prefer the city name for the actual email and site. Wider regional terms are less preferable since someone in a nearby city may want to have a devopsdays in a following year. Fun nicknames require too much dereferencing of pointers and so are best kept for slogans and t-shirt designs.
 
@@ -50,7 +50,7 @@ Every devopsdays event is different, but there are a few rules to keep in mind i
 
 - Inclusiveness and respect for differences are core devops values, and we invite you to help us make each devopsdays event a place that is welcoming and respectful to all participants. Your event will need to have a code of conduct.
 - These are community events, so your event must have an open call for proposals and accept registrations from the general public. Internal devops events focused on a specific organization or curated events with all speakers privately selected are wonderful and we encourage them, but they won't be listed as "devopsdays" events on this site.
-- These events are not for individual or corporate profit. If you have money left over, you can use it for your next event, to help other devopsdays events, or for [charity](/devops-gives-back/). The global core team does not have any ability to accept your money, but neither should it be making its way into anyone's pockets.
+- These events are not for individual or corporate profit. If you have money left over, you can use it for your next event, to help other devopsdays events directly or via sending participants, or for [charity](/devops-gives-back/). The global core team does not have any ability to accept your money, but neither should it be making its way into anyone's pockets.
 - Sponsors are much appreciated for their financial assistance, and they are welcome to participate in devopsdays events. They are never given attendee contact info by a devopsdays event's organizers, nor are they allowed to purchase speaking slots for talks or ignites at a devopsdays.
 
 ---
@@ -332,6 +332,8 @@ Bottom line: if you want to charge a fee (which gives you better financial prote
 
 To encourage people to register early it's advised to offer discounted **early-bird** registration.
 
+Because getting time away from work may already be a barrier for under-represented people in tech, offering free tickets to those individuals may make it more possible for them to secure workplace buy-in on their participation. If your budget has room, this is a good place to spend some of the extra money.
+
 ---
 
 ## Setting up registration
@@ -436,9 +438,11 @@ You will want some members of your local organizing team to be tasked with...
 
 ## Evening event
 
-Most devopsdays host a social gathering the evening after the first day of the two-day event. This is a great place for attendees to get to know one another better. There's some sort of food and drink, but usually a full dinner is not provided. Having fun activities to participate in (bowling, trivia, other games, etc) is recommended. While alcohol is enjoyable, it should not be the only activity, and it's important to remember the needs of attendees who aren't choosing to drink alcohol.
+Most devopsdays host a social gathering the evening after the first day of the two-day event. This is a great place for attendees to get to know one another better. There's some sort of food and drink, but usually a full dinner is not provided. Having fun activities to participate in (bowling, trivia, other games, etc) is recommended. While alcohol is enjoyable, it should not be the only activity, and it's important to remember the needs of attendees who aren't choosing to drink alcohol. It's also not required for your event to pay for any alcohol; if it's not free, it is more socially acceptable to refrain from choosing it.
 
 Often the evening event will be at a different location than the venue for the talks. It's a good idea to make it within walking distance or provide transportation if possible. Running it at the same venue can lead to higher attendance, especially if you provide some content such as the Ignite talks.
+
+Offering a family-inclusive evening event will allow more people to participate; unlike at a destination conference, many local devopsdays events occur within commuting distance. While people who work outside the home typically have a daycare arrangement in place, it probably does not extend into the evening.
 
 ---
 
