@@ -11,6 +11,8 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
+<p><a href="https://www.dropbox.com/s/qlez7zr1zpebhul/DevOpsDays-Seattle-2017-Sponsor-Prospectus.pdf?dl=1">Click here to download a sponsorship prospectus</a></p>
+
 <p>
   This year's event will be held at McCaw Hall in Seattle. This venue should allow great interaction with attendees throughout
   the event.
