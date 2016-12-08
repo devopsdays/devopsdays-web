@@ -43,10 +43,18 @@ proposal_email: "proposals-moscow-2016@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# media
+  - id: Express42
+    level: media
+  - id: Logrocon
+    level: media
+  - id: superjob
+    level: media
   - id: samplesponsorname
     level: gold
   - id: arresteddevops
     level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -55,13 +63,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: media
+    label: Media
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
     max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community
+  
