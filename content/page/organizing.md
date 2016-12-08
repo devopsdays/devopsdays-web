@@ -332,7 +332,7 @@ Bottom line: if you want to charge a fee (which gives you better financial prote
 
 To encourage people to register early it's advised to offer discounted **early-bird** registration.
 
-Because getting time away from work may already be a barrier for under-represented people in tech, offering free tickets to those individuals may make it more possible for them to secure workplace buy-in on their participation. If your budget has room, this is a good place to spend some of the extra money.
+Because getting time away from work may already be a barrier for under-represented people in tech, offering free tickets to those individuals may make it more possible for them to secure workplace buy-in on their participation. If your budget has room, this is a good place to spend some of the extra money. Be sure you comply with all local laws that may apply in regards to demographic information and the uses thereof.
 
 ---
 
