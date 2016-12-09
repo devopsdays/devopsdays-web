@@ -1,6 +1,6 @@
 +++
 date = "2016-03-06T21:28:07-06:00"
-title = "program"
+title = "Programação"
 type = "event"
 
 +++
@@ -15,7 +15,7 @@ type = "event"
 
 <div class = "row">
   <div class = "col-md-12 col-md-offset-4">
-    <h2>The Schedule</h2>
+    <h2>Programação</h2>
   </div>
 </div>
 
@@ -32,7 +32,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+        Registro e Abertura
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -113,7 +113,7 @@ type = "event"
         <time>11:50-13:00</time>
       </div>
       <div class = "col-md-6 box">
-        Lunch (catered)
+        Almoço
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -283,7 +283,7 @@ type = "event"
         <time>11:50-13:00</time>
       </div>
       <div class = "col-md-6 box">
-        Lunch (catered)
+        Almoço
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
