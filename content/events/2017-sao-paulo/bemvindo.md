@@ -1,6 +1,6 @@
 +++
 date = "2016-12-08T16:35:49-05:00"
-title = "welcome"
+title = "bemvindo"
 type = "event"
 aliases = ["/events/2017-sao-paulo"]
 
@@ -83,11 +83,10 @@ aliases = ["/events/2017-sao-paulo"]
     <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Entre em contato com os organizadoress" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
   </div>
 </div>
 
 <!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->
+
+{{< event_twitter devopsdayssp >}}
