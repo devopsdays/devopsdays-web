@@ -1,6 +1,6 @@
 +++
 date = "2016-12-08T16:35:49-05:00"
-title = "location"
+title = "local"
 type = "event"
 
 +++
