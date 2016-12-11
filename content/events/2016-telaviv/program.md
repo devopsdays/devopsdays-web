@@ -341,7 +341,7 @@ type = "event"
             <a href="/events/2016-telaviv/program/erikzaadi">Erik Zaadi - Scaling Humans: BigPanda's fabulous ChatOps adventure</a>
           </div>
           <div class = "col-md-3 box">
-            <a href="/events/2016-telaviv/program/yaronamirorilahav">Ori Lahav and Yaron Amir - Culture bottom up Culture driven by employees</a>
+            <a href="/events/2016-telaviv/program/yaronamir">Yaron Amir - Culture bottom up Culture driven by employees</a>
           </div>
           <div class = "col-md-3 box">
             <a href="/events/2016-telaviv/program/antonskranga">Antons Kranga - Build Serverless Architectures with AWS (continued)</a>
