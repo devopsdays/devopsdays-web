@@ -50,7 +50,7 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    Coming soon!
+    {{< event_link page="registration" text="Register to attend the event here!" >}}
   </div>
 </div>
 
@@ -63,14 +63,14 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://www.papercall.io/dod-clt">Propose a talk!</a>   
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
