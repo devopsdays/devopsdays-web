@@ -123,7 +123,7 @@ type = "event"
          <a href="/events/2016-telaviv/program/ianirideses">Ianir Ideses - Debugging Skynet: A Machine Learning Approach to Log Analysis</a>
        </div>
        <div class = "col-md-3 box">
-         <a href="/events/2016-telaviv/program/crystalhuff">Crystal Huff - Interviewing Various Technical Candidates (Badly)</a>
+         <a href="/events/2016-telaviv/program/crystalhuff">Crystal Huff - Interviewing Candidates (Badly)</a>
        </div>
        <div class = "col-md-3 box">
          <a href="/events/2016-telaviv/program/einat">Einat Orr - Statistics for engineers (continued)</a>
@@ -277,7 +277,7 @@ type = "event"
             <time>10:05-10:50</time>
           </div>
           <div class = "col-md-9 box">
-            <a href="/events/2016-telaviv/program/gsxap">Avishai Ish-Shalom - It's Time to Rethink Work</a>
+            <a href="/events/2016-telaviv/program/avishai">Avishai Ish-Shalom - It's Time to Rethink Work</a>
           </div>
         </div> <!-- end timeslot div -->
 
