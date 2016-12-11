@@ -33,20 +33,6 @@ DevOps Days is coming to {{< event_location >}}!
 
 <div class = "row">
   <div class = "col-md-10">
-    <h4>Call for Presenters Closing Soon</h4>
-    <p>
-      The
-      <a href="https://devopsdaysbaltimore2017.busyconf.com/proposals/new">call
-      for presenters</a> will close on December 9, 2016 at 11:59PM EST.  We want
-      to hear your story, please
-      <a href="https://devopsdaysbaltimore2017.busyconf.com/proposals/new">propose
-      a talk now</a>!
-    </p>
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-10">
     <h4>Opening Keynotes Announced</h4>
     <ul>
       <li>
