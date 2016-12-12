@@ -14,7 +14,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>08:15-09:40</time>
+        <time>08:15-09:15</time>
       </div>
       <div class = "col-md-9 box">
         Registration, Breakfast, and Sponsor Booths Open
@@ -23,7 +23,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>09:40-09:45</time>
+        <time>09:15-09:20</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/opening">Opening Words</a>
@@ -32,7 +32,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>09:45-10:30</time>
+        <time>09:20-10:05</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
@@ -40,7 +40,7 @@ type = "event"
     </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>10:30-11:15</time>
+        <time>10:05-10:50</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/avishai">Avishai Ish-Shalom - It's Time to Rethink Work</a>
@@ -48,7 +48,7 @@ type = "event"
     </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>11:15-11:30</time>
+        <time>10:50-11:05</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
@@ -57,7 +57,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>11:30-11:35</time>
+        <time>11:05-11:10</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://facebook.com">Sponsors - Facebook</a>
@@ -66,7 +66,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>11:35-11:40</time>
+        <time>11:10-11:15</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://chef.io">Sponsors - Chef</a>
@@ -74,7 +74,7 @@ type = "event"
     </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>11:40-12:20</time>
+        <time>11:15-11:55</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/ignites_day_one">Ignites!</a>
@@ -82,7 +82,7 @@ type = "event"
     </div> <!-- end timeslot div -->
      <div class = "row">
        <div class = "col-md-2">
-         <time>12:20-12:35</time>
+         <time>11:55-12:20</time>
        </div>
        <div class = "col-md-9 box">
          <a href="http://ridewithvia.com/">Coffee time sponsored by Via!</a>
@@ -102,7 +102,7 @@ type = "event"
      <!-- this div is repeated for each timeslot -->
      <div class = "row">
        <div class = "col-md-2">
-         <time>12:35-13:10</time>
+         <time>12:20-12:55</time>
        </div>
        <div class = "col-md-3 box">
          <a href="/events/2016-telaviv/program/ranleibman">Ran Leibman - Production Engineering, There is no Spoon</a>
@@ -117,7 +117,7 @@ type = "event"
      <!-- this div is repeated for each timeslot -->
      <div class = "row">
        <div class = "col-md-2">
-         <time>13:10-13:45</time>
+         <time>12:55-13:30</time>
        </div>
        <div class = "col-md-3 box">
          <a href="/events/2016-telaviv/program/ianirideses">Ianir Ideses - Debugging Skynet: A Machine Learning Approach to Log Analysis</a>
@@ -131,7 +131,7 @@ type = "event"
      </div> <!-- end timeslot div -->
    <div class = "row">
       <div class = "col-md-2">
-        <time>13:45-14:30</time>
+        <time>13:30-14:30</time>
       </div>
       <div class = "col-md-9 box">
         <a href="http://www.taboola.com">Lunch sponsored by Taboola!</a>
