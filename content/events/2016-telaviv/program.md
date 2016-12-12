@@ -14,7 +14,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>08:15-09:15</time>
+        <time>08:15-09:40</time>
       </div>
       <div class = "col-md-9 box">
         Registration, Breakfast, and Sponsor Booths Open
@@ -23,7 +23,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>09:15-09:20</time>
+        <time>09:40-09:45</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/opening">Opening Words</a>
@@ -32,7 +32,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-2">
-        <time>09:20-10:05</time>
+        <time>09:45-10:30</time>
       </div>
       <div class = "col-md-9 box">
         <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
