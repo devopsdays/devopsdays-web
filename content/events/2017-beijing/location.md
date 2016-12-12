@@ -5,6 +5,10 @@ type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+We have an exciting new venue for our 2017 conference, Sofitel Wanda Beijing hotel!<br/>
+93 Jianguo Road  Tower C Wanda Plaza  Chaoyang District  <br/>
+100022 BEIJING<br/>
+CHINA<br/>
+
 
 <!-- {{< event_map >}} -->
