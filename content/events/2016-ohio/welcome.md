@@ -15,7 +15,7 @@ draft = false
   {{< event_logo >}}
 </div>
 
-DevOps Days will be coming to <a href="http://www.shadowboxlive.org/">Shadowbox Live</a> in Columbus, Ohio!
+Thank you to all of the attendees, sponsors, and <a href="http://www.shadowboxlive.org/" target="_blank">Shadowbox Live</a> for making DevOps Days Ohio 2016 a great success!
 
 You can now view all the wonderful presentations <a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg" target="_blank">here</a>
 
