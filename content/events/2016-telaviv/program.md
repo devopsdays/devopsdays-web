@@ -35,7 +35,7 @@ type = "event"
         <time>09:20-10:05</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/charitymajors">Charity Majors-A Young Lady's Illustrated Primer to Technical Decision-Making</a>
+        <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -43,7 +43,7 @@ type = "event"
         <time>10:05-10:50</time>
       </div>
       <div class = "col-md-9 box">
-        <a href="/events/2016-telaviv/program/nathenharvey">Nathen Harvey and Adam Jacob-The Evolution of Automation</a>
+        <a href="/events/2016-telaviv/program/avishai">Avishai Ish-Shalom - It's Time to Rethink Work</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -277,7 +277,7 @@ type = "event"
             <time>10:05-10:50</time>
           </div>
           <div class = "col-md-9 box">
-            <a href="/events/2016-telaviv/program/avishai">Avishai Ish-Shalom - It's Time to Rethink Work</a>
+        <a href="/events/2016-telaviv/program/charitymajors">Charity Majors-A Young Lady's Illustrated Primer to Technical Decision-Making</a>
           </div>
         </div> <!-- end timeslot div -->
 
