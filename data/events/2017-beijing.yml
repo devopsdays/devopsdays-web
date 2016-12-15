@@ -15,6 +15,7 @@ cfp_date_announce:  # inform proposers of status
 #
 coordinates: "39.905523, 116.455078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Beijing, China" # Defaults to city, but you can make it the venue name.
+#location: "Sofitel Wanda Beijing hotel" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.

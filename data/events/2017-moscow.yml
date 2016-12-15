@@ -50,10 +50,12 @@ sponsors:
     level: media
   - id: superjob
     level: media
+  - id: avito
+    level: media
   - id: samplesponsorname
     level: gold
   - id: arresteddevops
-    level: community
+    level: media
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -63,8 +65,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: media
-    label: Media
   - id: platinum
     label: Platinum
   - id: gold
@@ -73,6 +73,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
   - id: community
     label: Community
   
