@@ -56,7 +56,14 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: media
-
+  - id: pcweek
+    level: media
+  - id: logo_vox
+    level: media
+  - id: unicraft
+    level: media
+  - id: hh
+    level: hrsponsor
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -73,6 +80,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: hrsponsor
+    label: HR
   - id: media
     label: Media
   - id: community
