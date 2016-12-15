@@ -47,6 +47,8 @@ proposal_email: "proposals-seattle-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: thoughtworks-products
     level: gold
+  - id: sumologic
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
