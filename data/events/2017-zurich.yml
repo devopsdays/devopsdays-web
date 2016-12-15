@@ -50,6 +50,7 @@ team_members: # Name is the only required field for team members.
   - name: "Tobias Brunner"
     twitter: "tobruzh"
     employer: "VSHN AG"
+  - name: "Vittorio Boccone"
 
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
@@ -68,6 +69,8 @@ sponsors:
   - id: chef
     level: gold
   - id: vshn
+    level: bronze
+  - id:  dectris
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -15,15 +15,9 @@ draft = false
   {{< event_logo >}}
 </div>
 
-DevOps Days will be coming to <a href="http://www.shadowboxlive.org/">Shadowbox Live</a> in Columbus, Ohio!
+Thank you to all of the attendees, sponsors, and <a href="http://www.shadowboxlive.org/" target="_blank">Shadowbox Live</a> for making DevOps Days Ohio 2016 a great success!
 
-<b>Registration is now open! <a href="https://devopsdaysohio2016.eventbrite.com" target="_blank">Click here to register.</a></b>
-
-Check the <a href="../location">location page</a> for directions and parking information.
-
-Special thanks to our partners <a href="http://www.cohaa.org">COHAA</a> for helping organize this event, in addition to providing highlights for the event to share!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/71h0o3mpdaM" frameborder="0" allowfullscreen style="margin: 15px 0 30px;max-width: 100%"></iframe>
+You can now view all the wonderful presentations <a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg" target="_blank">here</a>
 
 <div class = "row">
   <div class = "col-md-2">

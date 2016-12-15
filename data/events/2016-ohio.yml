@@ -13,10 +13,10 @@ location: "Shadow Box" # The name of your location
 #navigationelements: ["welcome", "contact", "location", "program", "propose", "proposals", "registration", "conduct", "sponsor"] # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
+  - name: videos
+    url: "https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg"
   - name: contact
   - name: location
-  - name: registration
-    url: https://devopsdaysohio2016.eventbrite.com
   - name: program
   - name: speakers
   - name: conduct
