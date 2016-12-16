@@ -67,7 +67,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>10:30-11:10</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 1 (<em>Доклад 1</em>)
+        <a href="/events/2017-moscow/program/konstantin-nazarov">Building a PaaS with Docker, Consul and Python (<em>Как сделать PaaS при помощи Docker, Consul и обвязки на Python</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Lecture 2 (<em>Доклад 2</em>)
