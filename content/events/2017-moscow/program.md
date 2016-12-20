@@ -30,16 +30,16 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 <br/>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" >
-		<strong>Time (<em>Время</em>)</strong>
+		<strong>Time <br>(<em>Время</em>)</strong>
 	</div>
     <div class = "col-md-4 " style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <strong>Section 1 (<em>Секция 1</em>)</strong>
+        <strong>Section 1 <br>(<em>Секция 1</em>)</strong>
 	</div>
 	<div class = "col-md-4 " style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <strong>Section 2 (<em>Секция 2</em>)</strong>
+        <strong>Section 2 <br>(<em>Секция 2</em>)</strong>
 	</div>
 	<div class = "col-md-2 " style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-		<strong>Master-classes (<em>Мастер-классы</em>)</strong>
+		<strong>Master-classes <br>(<em>Мастер-классы</em>)</strong>
 	</div>
 </div>
 <div class = "row" style="display:flex;">
@@ -47,7 +47,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>9:00-9:30</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Registration (<em>Регистрация, привественный кофе</em>)
+        Registration <br>(<em>Регистрация, привественный кофе</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
@@ -57,7 +57,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>9:30-10:30</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Keynote 1 (<em>Ключевой доклад 1</em>)
+        Keynote 1 <br>(<em>Ключевой доклад 1</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
@@ -67,10 +67,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>10:30-11:10</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <a href="/events/2017-moscow/program/konstantin-nazarov">Building a PaaS with Docker, Consul and Python (<em>Как сделать PaaS при помощи Docker, Consul и обвязки на Python</em>)</a>
+        <a href="/events/2017-moscow/program/konstantin-nazarov">Building a PaaS with Docker, Consul and Python <br>(<em>Как сделать PaaS при помощи Docker, Consul и обвязки на Python</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <a href="/events/2017-moscow/program/anton-ivanov">How does the SRE team makes HH stable (<em>Как команда SRE делает HeadHunter стабильным </em>)</a>
+        <a href="/events/2017-moscow/program/anton-ivanov">How does the SRE team makes HH stable <br>(<em>Как команда SRE делает HeadHunter стабильным </em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -80,13 +80,13 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>11:10-11:50</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <a href="/events/2017-moscow/program/sergey-egorov">How to stop being a DevOps engineer (<em>Как перестать быть DevOps инженером</em>)</a>
+        <a href="/events/2017-moscow/program/sergey-egorov">How to stop being a DevOps engineer <br>(<em>Как перестать быть DevOps инженером</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/anton-weiss"><em>Как измерить поток? </em></a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Master-class 1 (<em>Мастер-класс 1</em>)
+        Master-class 1 <br>(<em>Мастер-класс 1</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
@@ -94,10 +94,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>11:50-12:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 5 (<em>Доклад 5</em>)
+        Lecture 5 <br>(<em>Доклад 5</em>)
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 6 (<em>Доклад 6</em>)
+        Lecture 6 <br>(<em>Доклад 6</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -107,7 +107,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>12:30-13:30</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Dinner (<em>Обед</em>)
+        Dinner <br>(<em>Обед</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
@@ -117,7 +117,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>13:30 - 14:30</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Keynote 2 (<em>Ключевой доклад 2</em>)
+        Keynote 2 <br>(<em>Ключевой доклад 2</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
@@ -130,7 +130,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
         Ignite	
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 7 (<em>Доклад 7</em>)
+        Lecture 7 <br>(<em>Доклад 7</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -140,13 +140,13 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>15:10 - 15:50</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 8 (<em>Доклад 8</em>)
+        Lecture 8 <br>(<em>Доклад 8</em>)
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 9 (<em>Доклад 9</em>)
+        Lecture 9 <br>(<em>Доклад 9</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Master-class 2 (<em>Мастер-класс 2</em>)
+        Master-class 2 <br>(<em>Мастер-класс 2</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
@@ -154,10 +154,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>15:50 - 16:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 10 (<em>Доклад 10</em>)
+        Lecture 10 <br>(<em>Доклад 10</em>)
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 11 (<em>Доклад 11</em>)
+        Lecture 11 <br>(<em>Доклад 11</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -167,7 +167,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>16:30 - 17:00</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Coffee-break (<em>Кофе-брейк</em>)
+        Coffee-break <br>(<em>Кофе-брейк</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
@@ -177,10 +177,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>17:00-17:40</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 12 (<em>Доклад 12</em>)
+        Lecture 12 <br>(<em>Доклад 12</em>)
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 13 (<em>Доклад 13</em>)
+        Lecture 13 <br>(<em>Доклад 13</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -190,10 +190,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>17:40-18:20</time>
 	</div>
     <div class = "col-md-8 box" style="text-align:center;margin-bottom: 0;">
-        <div style="vertical-align:middle;margin-top:50px;">Open Space Session (<em>Открытая сессия</em>)</div>
+        <div style="vertical-align:middle;margin-top:50px;">Open Space Session <br>(<em>Открытая сессия</em>)</div>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;center;margin-bottom: 0;">
-		Master-class3 (<em>Мастер-класс 3</em>)
+		Master-class3 <br>(<em>Мастер-класс 3</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
@@ -211,7 +211,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>19:00 - 19:30</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Conference closing, awards	 (<em>Закрытие конференции, призы</em>)
+        Conference closing, awards	 <br>(<em>Закрытие конференции, призы</em>)
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
