@@ -70,7 +70,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
         <a href="/events/2017-moscow/program/konstantin-nazarov">Building a PaaS with Docker, Consul and Python (<em>Как сделать PaaS при помощи Docker, Consul и обвязки на Python</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 2 (<em>Доклад 2</em>)
+        <a href="/events/2017-moscow/program/anton-ivanov">How does the SRE team makes HH stable (<em>Как команда SRE делает HeadHunter стабильным </em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -80,10 +80,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>11:10-11:50</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 3 (<em>Доклад 3</em>)
+        <a href="/events/2017-moscow/program/sergey-egorov">How to stop being a DevOps engineer (<em>Как перестать быть DevOps инженером</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 4 (<em>Доклад 4</em>)
+        <a href="/events/2017-moscow/program/anton-weiss"><em>Как измерить поток? </em></a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Master-class 1 (<em>Мастер-класс 1</em>)
