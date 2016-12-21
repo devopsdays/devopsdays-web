@@ -12,6 +12,8 @@ aliases = [
 We greatly value sponsors for this open event.  Have questions about sponsoring?  
 Please contact us at {{< email_organizers >}}.
 
+[Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+
 <style>
   table.sponsorship            { border-collapse: collapse; }
   table.sponsorship td         { text-align: left; border: 1px solid #000; padding: 3px; }
@@ -128,6 +130,8 @@ work against you when trying to make a good impression on the attendees. Contact
 {{< email_organizers >}} for some ideas about how to make the most of
 your sponsorship.
 
+[Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+
 ### Community - $0
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
@@ -197,4 +201,6 @@ send engineers to interact with the experts at DevOpsDays on their own terms.
 </p>
 
 We greatly value sponsors for this open event.  If you are interested in
-sponsoring, please drop us an email at {{< email_organizers >}}.
+sponsoring, please drop us an email at {{< email_organizers >}} or [sponsor
+DevOpsDays Baltimore
+now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
