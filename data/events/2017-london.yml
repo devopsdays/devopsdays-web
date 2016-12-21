@@ -31,16 +31,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Bob Walker"
-    twitter: "rjw"	 
+    twitter: "rjw1"
   - name: "Dean Wilson"
     twitter: "unixdaemon"
-  - name: "Paula Kennedy"	
+  - name: "Paula Kennedy"
     twitter: "PaulaLKennedy"
-  - name: "Dawn Foster" 
+  - name: "Dawn Foster"
     twitter: "geekygirldawn"
-  - name: "Markos Rendell" 
+  - name: "Markos Rendell"
     twitter: "markosrendell"
-  - name: "Barry Chandler" 
+  - name: "Barry Chandler"
     twitter: "bdc101"
 organizer_email: "organizers-london-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email address here
@@ -50,8 +50,6 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: samplesponsorname
     level: gold
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
