@@ -7,9 +7,6 @@ aliases = ["/events/2017-toronto"]
 
 +++
 
-Welcome! Planning is underway for DevOpsDays Toronto 2017. We're targeting late May and hope to be able to
-share firm dates soon.
-
 <div style="text-align:center;">
   {{< event_logo >}}<br><br>
   <b>Be part of the fourth DevOpsDays Toronto in May 2017!</b>
