@@ -1,8 +1,7 @@
 +++
-date = "2000-01-01T01:01:01-06:00"
+date = "2016-12-16T21:17:00-06:00"
 title = "propose"
 type = "event"
-draft = true
 +++
   {{< cfp_dates >}}
 

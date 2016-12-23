@@ -1,12 +1,19 @@
 +++
-date = "2016-08-24T11:29:13-05:00"
+date = "2016-09-26T12:57:27-04:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2017-minneapolis"]
+aliases = ["/events/2017-washington-dc"]
 
 +++
 
-**devopsdays is returning to {{< event_location >}} for a fourth year!**
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
+
+
+**devopsdays is coming to {{< event_location >}}!**
+
+<!-- <div style="text-align:center;">
+  {{< event_logo >}}
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -17,32 +24,32 @@ aliases = ["/events/2017-minneapolis"]
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -80,6 +87,7 @@ aliases = ["/events/2017-minneapolis"]
   </div>
 </div>
 
-
-{{< event_twitter devopsdaysmsp >}}
-
+<!-- add your city twitter name here without the @ sign -->
+<!--
+{{< event_twitter devopsdaysyourcity >}}
+-->

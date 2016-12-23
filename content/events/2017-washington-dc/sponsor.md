@@ -1,18 +1,12 @@
 +++
-date = "2016-05-20T09:31:15-04:00"
+date = "2016-09-26T12:57:27-04:00"
 title = "sponsor"
 type = "event"
-aliases = [
-  "/events/2017-baltimore/sponsor",
-  "/events/2016-baltimore/sponsor"
-]
+
 
 +++
-
 We greatly value sponsors for this open event.  Have questions about sponsoring?  
 Please contact us at {{< email_organizers >}}.
-
-[Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -56,7 +50,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>Logo on DevOpsDays Baltimore 2017 event website</td>
+<td>Logo on DevOpsDays DC 2017 event website</td>
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -72,7 +66,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>1 minute pitch to full audience (including streaming audience)</td>
+<td>1 minute pitch to full audience</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -80,15 +74,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>1 additional ticket (2 in total)</td>
-<td class="no"> </td>
-<td class="no"> </td>
-<td class="yes"> </td>
-<td class="no"> </td>
-<td class="no"> </td>
-</tr>
-<tr>
-<td>2 additional tickets (3 in total)</td>
+<td>1 additional tickets (2 in total)</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -96,7 +82,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 </tr>
 <tr>
-<td>4 additional tickets (5 in total)</td>
+<td>3 additional tickets (4 in total)</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -130,19 +116,17 @@ work against you when trying to make a good impression on the attendees. Contact
 {{< email_organizers >}} for some ideas about how to make the most of
 your sponsorship.
 
-[Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
-
 ### Community - $0
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
 other communities who support DevOps.  This sponsorship is free but we ask that
-you share information about DevOpsDays Baltimore with your members in order to
-become a Community Sponsor.
+you share information about DevOpsDays DC with your members in order to become a
+Community Sponsor.
 
 * 1 ticket
 * 10% discount code to share with your members
 * Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays Baltimore 2017 event website
+* Logo on DevOpsDays DC 2017 event website
 * Please contact {{< email_organizers >}} for details about becoming a community
 sponsor.
 
@@ -150,38 +134,35 @@ sponsor.
 
 The media sponsorship is ideal for podcasts, blogs, news outlets, and other
 media who support DevOps.  This sponsorship is free but we ask that you share
-information about DevOpsDays Baltimore with your audience in order to become a
+information about DevOpsDays DC with your audience in order to become a
 Community Sponsor.
 
 * 1 ticket
 * 10% discount code to share with your audience
 * Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays Baltimore 2017 event website
+* Logo on DevOpsDays DC 2017 event website
 * Please contact {{< email_organizers >}} for details about becoming a media
 sponsor.
 
 ### Silver - $1,000
 
-* 2 included tickets
+* 1 included ticket
 * Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays Baltimore 2017 event website
-* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Silver sponsor now</a>.
+* Logo on DevOpsDays DC 2017 event website
 
 ### Gold - $3,000
 
 * All benefits of Silver sponsors
 * Logo on all email communication
-* 1 additional ticket, 3 in total
+* 1 additional ticket, 2 in total
 * Shared table for swag
-* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Gold sponsor now</a>.
 
 ### Platinum - $5,000
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
-* 2 additional tickets, 5 in total
+* 2 additional tickets, 4 in total
 * Dedicated table for swag
-* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.
 
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
@@ -201,6 +182,4 @@ send engineers to interact with the experts at DevOpsDays on their own terms.
 </p>
 
 We greatly value sponsors for this open event.  If you are interested in
-sponsoring, please drop us an email at {{< email_organizers >}} or [sponsor
-DevOpsDays Baltimore
-now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+sponsoring, please drop us an email at {{< email_organizers >}}.

@@ -7,9 +7,6 @@ aliases = ["/events/2017-toronto"]
 
 +++
 
-Welcome! Planning is underway for DevOpsDays Toronto 2017. We're targeting late May and hope to be able to
-share firm dates soon.
-
 <div style="text-align:center;">
   {{< event_logo >}}<br><br>
   <b>Be part of the fourth DevOpsDays Toronto in May 2017!</b>
@@ -17,23 +14,23 @@ share firm dates soon.
 
 <br/>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -44,14 +41,14 @@ share firm dates soon.
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
