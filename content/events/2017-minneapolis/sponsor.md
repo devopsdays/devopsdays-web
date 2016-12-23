@@ -5,7 +5,7 @@ type = "event"
 
 +++
 
-Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2017/minneapolis/devopsdays-minneapolis-2017-prospectus.pdf">prospectus</a>.
+Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2017/minneapolis/devopsdays-minneapolis-2017-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships are available:
 
