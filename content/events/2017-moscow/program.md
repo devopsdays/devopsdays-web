@@ -80,7 +80,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>11:10-11:50</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <a href="/events/2017-moscow/program/sergey-egorov">How to stop being a DevOps engineer <br>(<em>Как перестать быть DevOps инженером</em>)</a>
+        <a href="/events/2017-moscow/program/sergei-egorov">How to stop being a DevOps engineer <br>(<em>Как перестать быть DevOps инженером</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/anton-weiss"><em>Как измерить поток? </em></a>
@@ -94,7 +94,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>11:50-12:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 5 <br>(<em>Доклад 5</em>)
+        <a href="/events/2017-moscow/program/alexleyn">Deployment automatization <br>(<em>Автоматизация деплоя</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Lecture 6 <br>(<em>Доклад 6</em>)
@@ -215,4 +215,8 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
 	</div>
+</div>
+
+<div style="display:block;clear:both;">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfrH8eoqCMD5xwPq7g8_SoimdnK0XF9bsNH4dYbx90ycUgZXA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </div>
