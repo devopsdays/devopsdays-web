@@ -11,9 +11,9 @@ aliases = ["/events/2017-dallas"]
 
 **DevOpsDays is returning to {{< event_location >}} in 2017!**
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 We're still working out all the details.  If you'd like to help out, email us!
 
