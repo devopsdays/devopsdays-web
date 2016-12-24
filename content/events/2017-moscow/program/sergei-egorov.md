@@ -1,7 +1,7 @@
 +++
 date = "2016-12-16T14:40:46+03:00"
-linktitle = "sergey-egorov"
-title = "Sergey Egorov"
+linktitle = "sergei-egorov"
+title = "Sergei Egorov"
 type = "talk"
 
 +++
