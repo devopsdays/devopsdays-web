@@ -9,4 +9,4 @@ The DevOps Days event mandate is to bring the highest­quality speaker
 
 Download our <a href="https://drive.google.com/open?id=0B11zFUqD2x7uM1kweHJFRERmaE0" target="_blank">prospectus</a> to see the features of the various sponsorship options.
 
-We greatly value sponsors for this open event. Please email us at {{< email_organizers >}} if you interested in sponsoring.
+We greatly value sponsors for this open event. If you are interested in sponsoring, please email us at {{< email_organizers >}}.
