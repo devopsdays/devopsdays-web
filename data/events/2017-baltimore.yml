@@ -90,9 +90,11 @@ sponsors:
     level: platinum
   - id: redhat
     level: platinum
-  - id: que-technology-group
-    level: silver
   - id: acesinc
+    level: silver
+  - id: bookerdimaio
+    level: silver
+  - id: que-technology-group
     level: silver
   - id: arresteddevops
     level: media
