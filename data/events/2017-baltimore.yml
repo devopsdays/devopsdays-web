@@ -89,7 +89,9 @@ sponsors:
   - id: redhat
     level: platinum
   - id: acesinc
-    level: silver
+    level: platinum
+  - id: sumologic
+    level: platinum
   - id: bookerdimaio
     level: silver
   - id: que-technology-group
