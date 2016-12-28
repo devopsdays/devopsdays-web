@@ -26,11 +26,6 @@ type = "talk"
 </div> <!-- end timeslot div -->
 <div class = "row">
   <div class = "col-md-9 box">
-    <a>Etai Lev Ran-Amalgam8.io: A Programmable Integration Fabric for Microservices</a>
-  </div>
-</div> <!-- end timeslot div -->
-<div class = "row">
-  <div class = "col-md-9 box">
     <a>Anton Weiss-Measuring the flow</a>
   </div>
 </div> <!-- end timeslot div -->
