@@ -47,6 +47,8 @@ proposal_email: "proposals-minneapolis-2017@devopsdays.org"
 sponsors:
   - id: arresteddevops
     level: community
+  - id: pivotal 
+    level: platinum
 
 sponsors_accepted : "yes"
 
