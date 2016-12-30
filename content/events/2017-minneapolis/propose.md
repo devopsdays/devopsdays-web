@@ -7,10 +7,10 @@ type = "event"
 
 <hr>
 
-There are three ways to propose a topic at devopsdays:
+There are three ways to propose a topic at devopsdays Minneapolis:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
+  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, in the mornings. We're currently accepting proposals for 30-minute talks via the form below.</li>
+  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies; in 2016 we had Ignites at our evening event). These are 5 minutes slots with slides changing every 15 seconds (20 slides total). We will open the call for Ignite talks closer to the time of the conference.</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
 
@@ -27,9 +27,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li> 
-</ol>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsXiLOfQQg43T1cTmBlR-bHXPuP7yNjKUCXCswiSPxK_pGPw/viewform?embedded=true" width="760" height="1900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
