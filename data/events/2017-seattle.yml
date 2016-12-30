@@ -51,6 +51,8 @@ sponsors:
     level: gold
   - id: deis
     level: gold
+  - id: slalom
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
