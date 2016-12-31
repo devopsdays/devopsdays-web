@@ -1,6 +1,6 @@
 +++
 date = "2016-12-22T21:17:14-06:00"
-title = "sponsor"
+title = "register"
 type = "event"
 
 +++

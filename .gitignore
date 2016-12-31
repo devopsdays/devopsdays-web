@@ -1,6 +1,7 @@
 /public
 # General CodeKit files to ignore
 config.codekit
+config.toml
 /min
 .DS_Store
 .AppleDouble
@@ -20,7 +21,6 @@ Icon
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
-.toml
 
 # Directories potentially created on remote AFP share
 .AppleDB
