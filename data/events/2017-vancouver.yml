@@ -9,7 +9,7 @@ startdate:  2017-03-31 # The start date of your event. Leave blank if you don't 
 enddate:  2017-04-01 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-12-01 # start accepting talk proposals.
-cfp_date_end: # 2017-02-01 # close your call for proposals.
+cfp_date_end: 2017-02-01 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 # Location

@@ -97,7 +97,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
         <a href="/events/2017-moscow/program/alexleyn">Deployment automatization <br>(<em>Автоматизация деплоя</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 6 <br>(<em>Доклад 6</em>)
+         <a href="/events/2017-moscow/program/katerina-troshina">When program developing goes well or the best practices of secure code development. <br>(<em>Когда разработка идет как надо или практика построения процесса разработки защищенного программного кода.</em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
