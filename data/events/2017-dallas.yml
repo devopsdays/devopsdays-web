@@ -60,7 +60,7 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: samplesponsorname
     level: gold
-  - id: samplesponsorname
+  - id: arresteddevops
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
