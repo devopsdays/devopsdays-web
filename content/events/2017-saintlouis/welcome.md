@@ -6,31 +6,33 @@ aliases = ["/events/2017-saintlouis"]
 
 +++
 
-<!--<div style="text-align:center;">
- {{< event_logo >}}
-</div>-->
+<div>
+ <!--{{< event_logo >}}-->
+ <img style="width: 400px; margin: 35px 0px 10px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_St._Louis,_Missouri.svg/1280px-Flag_of_St._Louis,_Missouri.svg.png" alt="Saint Louis City Flag">
+</div>
 
-<div style="text-align:center;">
+<div>
 <h2>DevOpsDays Saint Louis 2017</h2>
 </div>
 
-<div style="width: 100%;text-align:center">
-    <p style="font-size:large;">Dates: TBD</p>
-    <!--<p style="font-size:large;">Location: TBD</p>-->
-    <p>Welcome! DevOpsDays is coming to Saint Louis in 2017! </p>
-    <p>2017 will mark the first year the event will be held in Saint Louis, and
-    we are excited to bring the party to town. It'll be a great opportunity to
-    share knowledge and stories, socialize and promote the great technical community
-    in town.</p>
-    <p>More details to come soon!</p>
+<div>
+    <!--<p style="font-size:large;">Date: Fall 2017</p>
+    <p style="font-size:large;">Location: TBD</p>-->
+    <div style="padding-left: 10px">
+      <p>DevOpsDays is coming to Saint Louis in 2017! </p>
+      <p>This will mark the first year the event will be held in Saint Louis. It'll be a great
+      opportunity to share knowledge and stories, socialize and promote our great technical
+      community.</p>
+      <p>More details to come soon!</p>
+    </div>
 </div>
-
+<!--
 <div style="width:100%;overflow:hidden;">
-    <!--<div style="width:44%;margin:3% 1em;float:left;text-align:right;">
+    <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Location</h2>
         <p>Saint Louis Missouri</p>
         <p><a href="/events/2017-saintlouis/location/">Venue and Maps</a></p>
-    </div>-->
+    </div>
     <div style="width:100%;margin:3% 1em;float:left;text-align:center;">
         <h2>Sponsor</h2>
         <p>Help support this event!</p>
@@ -49,3 +51,4 @@ aliases = ["/events/2017-saintlouis"]
         <p><a href="/events/2017-saintlouis/contact/">Contact Information</a></p>
     </div>
 </div>
+-->
