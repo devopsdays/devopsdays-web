@@ -60,6 +60,10 @@ sponsors:
     level: silver
   - id: deis
     level: bronze
+  - id: sonatype
+    level: bronze
+  - id: versionone
+    level: bronze
   - id: city-of-charlotte
     level: community
 

@@ -82,15 +82,17 @@ proposal_email: "organizers-baltimore-2017@devopsdays.org" # Put your proposal e
 sponsors:
   - id: omniti
     level: platinum
-  - id: eglobaltech
-    level: platinum
   - id: opsgenie
     level: platinum
   - id: fearless
     level: platinum
-  - id: que-technology-group
-    level: silver
+  - id: redhat
+    level: platinum
   - id: acesinc
+    level: silver
+  - id: bookerdimaio
+    level: silver
+  - id: que-technology-group
     level: silver
   - id: arresteddevops
     level: media

@@ -5,10 +5,8 @@ type = "event"
 
 +++
 
-Our prospectus will be available soon outlining our different sponsorship levels as well as à la carte sponsorship options. Reach out to us if you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+The DevOps Days event mandate is to bring the highest­quality speakers, experts and the curious together. By sponsoring DevOps Days, you will be exposing your company’s brand and services to Toronto’s top talent in this rapidly growing space. (And feel great about it, too!)
 
-<hr>
+Download our <a href="https://drive.google.com/open?id=0B11zFUqD2x7uM1kweHJFRERmaE0" target="_blank">prospectus</a> to see the features of the various sponsorship options.
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-
-<br>
+We greatly value sponsors for this open event. If you are interested in sponsoring, please email us at {{< email_organizers >}}.
