@@ -14,7 +14,7 @@ cfp_date_announce: # inform proposers of status
 
 # Location
 #
-coordinates: "38.627003, 90.199404" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "38.7084, -90.4390" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Saint Louis" # Defaults to city, but you can make it the venue name.
 #
 
