@@ -3,6 +3,7 @@ date = "2016-08-10T20:18:13+02:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-amsterdam"]
+tags = ["amsterdam","amsterdam-2017"]
 
 +++
 
@@ -24,14 +25,14 @@ aliases = ["/events/2017-amsterdam"]
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

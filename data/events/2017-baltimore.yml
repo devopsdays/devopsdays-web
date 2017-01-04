@@ -17,8 +17,8 @@ location: "Baltimore" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-  # - name: program
-  #   url: http://devopsdaysbaltimore2017.busyconf.com/schedule
+  - name: program
+    url: http://devopsdaysbaltimore2017.busyconf.com/schedule
   - name: propose
     url: https://devopsdaysbaltimore2017.busyconf.com/proposals/new
   - name: location
@@ -82,15 +82,17 @@ proposal_email: "organizers-baltimore-2017@devopsdays.org" # Put your proposal e
 sponsors:
   - id: omniti
     level: platinum
-  - id: eglobaltech
-    level: platinum
   - id: opsgenie
     level: platinum
   - id: fearless
-    level: gold
-  - id: que-technology-group
-    level: silver
+    level: platinum
+  - id: redhat
+    level: platinum
   - id: acesinc
+    level: silver
+  - id: bookerdimaio
+    level: silver
+  - id: que-technology-group
     level: silver
   - id: arresteddevops
     level: media

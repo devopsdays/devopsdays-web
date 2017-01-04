@@ -45,7 +45,11 @@ proposal_email: "proposals-seattle-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: thoughtworks-products
+  - id: gocd
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: deis
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
