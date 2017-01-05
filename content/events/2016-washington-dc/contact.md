@@ -14,10 +14,12 @@ What questions can we answer for you?  Drop us an email: {{< email_organizers >}
 
 {{< list_organizers >}}
 
+<div style="text-align:right" >
+  <a href="https://twitter.com/devopsdaysdc" class="twitter-follow-button" data-show-count="false">Follow @devopsdaysdc</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <div>
-<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/DevOpsDaysDC" data-widget-id="554808639337553920">Tweets by @DevOpsDaysDC</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  <a class="twitter-timeline" data-width="600" data-height="1200" data-theme="light" href="https://twitter.com/DevOpsDaysDC">Tweets by DevOpsDaysDC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 **The core devopsdays organizer group**
