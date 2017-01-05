@@ -14,9 +14,7 @@ What questions can we answer for you?  Drop us an email: {{< email_organizers >}
 
 {{< list_organizers >}}
 
-<div style="text-align:right" >
-  <a href="https://twitter.com/devopsdaysdc" class="twitter-follow-button" data-show-count="false">Follow @devopsdaysdc</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+{{< event_twitter devopsdaysdc >}}
 
 <div>
   <a class="twitter-timeline" data-width="600" data-height="1200" data-theme="light" href="https://twitter.com/DevOpsDaysDC">Tweets by DevOpsDaysDC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
