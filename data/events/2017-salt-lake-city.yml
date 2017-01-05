@@ -64,6 +64,8 @@ proposal_email: "proposals-saltlakecity-2017@devopsdays.org" # Put your proposal
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: morpheus_data
+    level: greencircle
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -73,6 +75,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: eveningsocial
     label: Evening Social
+  - id: doubleblackdiamond
+    label: Double Black Diamond
   - id: blackdiamond
     label: Black Diamond
   - id: bluesquare
