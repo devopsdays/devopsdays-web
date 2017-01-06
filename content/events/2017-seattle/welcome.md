@@ -10,7 +10,7 @@ aliases = ["/events/2017-seattle"]
 
 <h3 style="color: black"> {{< event_link page="propose" text="The CFP is now open! Click here to propose a talk!" >}}</h3>
 
-<img style="float: left; max-width: 400px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/mccaw_hall.jpg">
+<img style="float: left; max-width: 400px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/devopsdays-seattle.png">
 
 We're very excited to bring DevOpsDays back to Seattle in 2017. This year the event will be held at
 {{< event_link page="location" text="McCaw Hall" >}} in the Seattle Center. This theater style venue
