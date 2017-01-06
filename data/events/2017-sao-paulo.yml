@@ -37,6 +37,8 @@ team_members: # Name is the only required field for team members.
   - name: "Fernando Ike"
   - name: "Luciano Ramalho"
   - name: "Luis Albinati Jr"
+  - name: "Melina Deraldo"
+    twitter: "melderaldo"
   - name: "Rafael Gomes"
     twitter: "gomex"
   - name: "Thiago Araki"
