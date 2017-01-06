@@ -59,6 +59,8 @@ sponsors:
     level: gold
   - id: split-software
     level: silver
+  - id: netapp
+    level: silver
   - id: deis
     level: bronze
   - id: sonatype
