@@ -35,6 +35,10 @@ team_members: # Name is the only required field for team members.
   - name: "Alex Papadimoulis"
     employer: "Inedo"
     twitter: "apapadimoulis"
+  - name: "Hiroki Arai"
+    employer: "Creationline"
+  - name: "Tadahiro Yasuda"
+    employer: "Creationline"
 organizer_email: "organizers-tokyo-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tokyo-2017@devopsdays.org" # Put your proposal email address here
 
