@@ -8,6 +8,7 @@ type = "event"
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
+TBD.
+
 </div></div>
 </div>
