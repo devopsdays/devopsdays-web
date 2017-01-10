@@ -24,6 +24,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://www.papercall.io/dod-clt
   - name: location
+  - name: agenda
   - name: registration
   - name: sponsor
   - name: contact
