@@ -154,7 +154,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>15:50 - 16:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 10 <br>(<em>Доклад 10</em>)
+        <a href="/events/2017-moscow/program/yartsev">Problems I faced while building just another Docker PaaS<br>(<em>Проблемы, с которыми я столкнулся при создании очередной Docker PaaS</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Lecture 11 <br>(<em>Доклад 11</em>)
