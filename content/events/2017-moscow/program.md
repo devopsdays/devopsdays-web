@@ -130,7 +130,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
         Ignite	
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 7 <br>(<em>Доклад 7</em>)
+        <a href="/events/2017-moscow/program/leon-fayer">Production testing through monitoring <br>(<em>Тестирование и мониторинг в production</em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 	</div>
@@ -140,10 +140,10 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 		<time>15:10 - 15:50</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 8 <br>(<em>Доклад 8</em>)
+        <a href="/events/2017-moscow/program/leon-fayer2">BizOps and You <br>(<em>BizOps и ты</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 9 <br>(<em>Доклад 9</em>)
+        <a href="/events/2017-moscow/program/michael-huttermann">From Zero to Hero: Firing up a holistic Continuous Delivery pipeline, with DevOps tools</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Master-class 2 <br>(<em>Мастер-класс 2</em>)
