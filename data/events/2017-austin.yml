@@ -52,6 +52,10 @@ proposal_email: "proposals-austin-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: opsgenie
     level: happyhour
+  - id: pivotal
+    level: gold
+  - id: deis
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -60,12 +64,12 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-    max: 30
   - id: happyhour
     label: Happy Hour
     max: 1
+  - id: gold
+    label: Gold
+    max: 30
   - id: lanyard
     label: Lanyard
     max: 1
