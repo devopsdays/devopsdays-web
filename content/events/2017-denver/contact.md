@@ -8,14 +8,14 @@ type = "event"
 
 +++
 
-[DevOpsDaysRox Twitter](https://twitter.com/devopsdaysrox)
+{{< event_twitter devopsdaysrox >}}
 
 If you'd like to contact us by email: {{< email_organizers >}}
 
-** Our local team**
+### Our local team
 
 {{< list_organizers >}}
 
-** The core devopsdays organizer group**
+### The core devopsdays organizer group
 
 {{< list_core >}}
