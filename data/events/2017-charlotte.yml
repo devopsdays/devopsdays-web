@@ -58,11 +58,19 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
+  - id: pivotal
+    level: gold
+  - id: ns1
+    level: gold
   - id: split-software
     level: silver
   - id: netapp
     level: silver
   - id: honeycomb
+    level: silver
+  - id: actifio
+    level: silver
+  - id: victorops
     level: silver
   - id: deis
     level: bronze
