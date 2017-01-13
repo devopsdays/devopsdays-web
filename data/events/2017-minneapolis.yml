@@ -49,6 +49,12 @@ sponsors:
     level: community
   - id: pivotal 
     level: platinum
+  - id: deis
+    level: silver
+  - id: hackthegap
+    level: community
+  - id: saucelabs
+    level: silver
 
 sponsors_accepted : "yes"
 

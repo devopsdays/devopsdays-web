@@ -55,6 +55,10 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: opsgenie
+    level: gold
+  - id: spoken
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
