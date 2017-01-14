@@ -13,8 +13,6 @@ aliases = [
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-DevOps Days is coming to {{< event_location >}}!
-
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
@@ -134,4 +132,8 @@ DevOps Days is coming to {{< event_location >}}!
   <p>
     {{< event_twitter devopsdaysbmore >}}
   </p>
+</div>
+
+<div>
+<a class="twitter-timeline" data-width="800" data-height="600" data-theme="light" href="https://twitter.com/devopsdaysbmore">Tweets by DevOpsDaysBmore</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

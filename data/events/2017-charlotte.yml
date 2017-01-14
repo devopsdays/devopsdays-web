@@ -23,6 +23,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://www.papercall.io/dod-clt
   - name: location
+  - name: agenda
   - name: registration
   - name: sponsor
   - name: contact
@@ -52,17 +53,31 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: sumologic
     level: gold
-  - id: thoughtworks-products
+  - id: gocd
     level: gold
   - id: opsgenie
     level: gold
+  - id: pivotal
+    level: gold
+  - id: ns1
+    level: gold
   - id: split-software
+    level: silver
+  - id: netapp
+    level: silver
+  - id: honeycomb
+    level: silver
+  - id: actifio
+    level: silver
+  - id: victorops
     level: silver
   - id: deis
     level: bronze
   - id: sonatype
     level: bronze
   - id: versionone
+    level: bronze
+  - id: spoken
     level: bronze
   - id: city-of-charlotte
     level: community

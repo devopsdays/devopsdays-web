@@ -20,11 +20,11 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
-<div>
-<a class="twitter-timeline" href="https://twitter.com/DevOpsDaysBmore" data-widget-id="733693713298382849">Tweets by @DevOpsDaysBmore</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div>
+{{< event_twitter devopsdaysbmore >}}
 
+<div>
+<a class="twitter-timeline" data-width="800" data-height="600" data-theme="light" href="https://twitter.com/devopsdaysbmore">Tweets by DevOpsDaysBmore</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 **The core devopsdays organizer group**
 

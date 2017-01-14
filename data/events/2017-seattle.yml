@@ -13,7 +13,7 @@ cfp_date_announce: 2017-02-07 # inform proposers of status
 
 # Location
 #
-coordinates: "47.606209, -122.332071" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "47.623948, -122.350088" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 
@@ -53,6 +53,12 @@ sponsors:
     level: gold
   - id: slalom
     level: gold
+  - id: pivotal
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: spoken
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
