@@ -66,8 +66,12 @@ sponsors:
     level: media
   - id: globalcio
     level: media
+  - id: probusiness
+    level: media
   - id: hh
     level: hrsponsor
+  - id: meyou
+    level: NetworkingPartner
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -84,6 +88,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: NetworkingPartner
+    label: Networking Partner
   - id: hrsponsor
     label: HR
   - id: media
