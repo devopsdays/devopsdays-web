@@ -13,32 +13,13 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 </em>
 
 
-<!--
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
-<br/>
-<br/>
+<div id='div2'></div>
+<div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type='text/javascript'>
+$(document).ready(function(){
+    jQuery("#div2").html(jQuery('.row').find('.col-md-4').html());
+	//alert(jQuery('.row').find('.col-md-4').html());
+})
+</script>
 </div>
--->
-<hr/>

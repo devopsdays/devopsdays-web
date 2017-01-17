@@ -90,9 +90,9 @@ aliases = ["/events/2016-moscow"]
     <strong>Registration (Регистрация)</strong>
   </div>
   <div class = "col-md-8">
-  {{< event_link page="registration" text="Fill a pre-registration form and get tickets at a special price!" >}}
+   <a href="https://devopsdays.timepad.ru/event/431694/">Follow the link and register</a>
   <br>
-  <em>{{< event_link page="registration" text="Заполните форму предварительной регистрации и получите билеты по специальной цене!" >}}
+  <em><a href="https://devopsdays.timepad.ru/event/431694/">Пройдите по ссылке и регистрируйтесь</a>
     </em>
   </div>
 </div>
