@@ -1,8 +1,7 @@
 sudo: required
 dist: trusty
-language: ruby
-rvm:
-  - 2.2
+language: go
+install: go get -v github.com/spf13/hugo
 before_install:
 - sudo apt-get update
 - sudo apt-get install nodejs
