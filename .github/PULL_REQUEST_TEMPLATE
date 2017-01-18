@@ -1,0 +1,19 @@
+*Delete the unneeded portions of this template before submitting.*
+
+Please ensure that the following is included in your pull request:
+
+## Title
+### Event Changes
+The event name and year in the title of the PR, along with a description of what is being changed. <br>
+**Good title**: `[CHI-2017] Add Bluth Company as a sponsor`<br>
+**Less good title**: `updated stuff for Des Moines`
+
+### Functionality changes
+Any changes made outside of event content (specifically made in the `themes` directory) must be labeled as `Enhancement` or `Bug`, and the PR should include an at-mention of @mattstratton.
+
+## Content
+The description field of the PR should explain what this pull request will change (if it is content-only, and the title summarizes it well, you can skip this)
+
+Please verify that there are no PDF or other large files in the pull request, as it will likely be rejected.
+
+If this pull request fixes an open issue, please note this in the description with `Fixes #<issuenumber>`, i.e., `Fixes #5`

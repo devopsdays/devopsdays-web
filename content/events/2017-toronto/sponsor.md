@@ -10,3 +10,5 @@ The DevOps Days event mandate is to bring the highest­quality speaker
 Download our <a href="https://drive.google.com/open?id=0B11zFUqD2x7uM1kweHJFRERmaE0" target="_blank">prospectus</a> to see the features of the various sponsorship options.
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please email us at {{< email_organizers >}}.
+
+Bronze sponsorships can be purchased directly on <a href="https://www.eventbrite.com/e/devopsdays-toronto-2017-tickets-30499799722?ref=elink" target="_blank" style="color:#005580">Eventbrite</a>. After you complete the purchase, email us at {{< email_organizers >}} with the logo and URL you would like to use on the web site.

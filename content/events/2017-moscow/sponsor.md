@@ -13,6 +13,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 </em>
 
 
+<<<<<<< HEAD
 <!--
 
 <div style="width:590px">
@@ -42,3 +43,15 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </div>
 -->
 <hr/>
+=======
+<div id='div2'></div>
+<div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type='text/javascript'>
+$(document).ready(function(){
+    jQuery("#div2").html(jQuery('.row').find('.col-md-4').html());
+	//alert(jQuery('.row').find('.col-md-4').html());
+})
+</script>
+</div>
+>>>>>>> master
