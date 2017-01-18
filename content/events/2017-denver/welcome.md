@@ -19,6 +19,14 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Tickets</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="tickets" text="Tickets are now availible. Early Bird ends on Feb 11th so get yours today!" >}}
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">

@@ -90,8 +90,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: Networking
-    label: Networking
+  - id: NetworkingPartner
+    label: Networking Partner
   - id: venuesponsor
     label: Venue
   - id: hrsponsor
