@@ -72,6 +72,8 @@ sponsors:
     level: hrsponsor
   - id: meyou
     level: NetworkingPartner
+  - id: technopolis
+    level: venuesponsor
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -90,6 +92,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: NetworkingPartner
     label: Networking Partner
+  - id: venuesponsor
+    label: Venue
   - id: hrsponsor
     label: HR
   - id: media
