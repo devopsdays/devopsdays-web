@@ -1,0 +1,9 @@
+sudo: required
+dist: trusty
+language: ruby
+rvm:
+  - 2.2
+before_install:
+- sudo apt-get update
+- sudo apt-get install nodejs
+- sudo apt-get install npm
