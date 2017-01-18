@@ -57,6 +57,8 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
+  - id: xmatters
+    level: gold
   - id: spoken
     level: bronze
 
