@@ -6,3 +6,8 @@ before_install:
 - sudo apt-get update
 - sudo apt-get install nodejs
 - sudo apt-get install npm
+before_script:
+- npm install
+script:
+  - hugo
+  - gulp min-html
