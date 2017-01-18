@@ -19,10 +19,18 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>CFP</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="CFP for talks is now open. Submit yours now!" >}}
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Tickets</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="tickets" text="Tickets are now availible. Early Bird ends on Feb 11th so get yours today!" >}}
+    [Tickets are now availible. Early Bird ends on Feb 11th so get yours today!](https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364)
   </div>
 </div>
 <div class = "row">
