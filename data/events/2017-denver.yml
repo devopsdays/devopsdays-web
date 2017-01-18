@@ -18,6 +18,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: conduct
   - name: location
+  - name: tickets
+    url: https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
