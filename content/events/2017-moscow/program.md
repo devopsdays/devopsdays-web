@@ -116,7 +116,7 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Ignite-1:
 <br>1. <a href="/events/2017-moscow/program/boris-gerasin">Open Source != Free Software</a>
-<br>2.
+<br>2. <a href="/events/2017-moscow/program/leon-fayer3">What DevOps is NOT (<em>Чем DevOps НЕ является</em>)</a>
 <br>3.
 <br>4.
 <br>5.
