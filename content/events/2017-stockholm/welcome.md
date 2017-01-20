@@ -6,7 +6,7 @@ aliases = ["/events/2017-stockholm"]
 
 +++
 
-{{< event_twitter sthlmdevops >}}
+{{< event_twitter devopsdayssthlm >}}
 
 **devopsdays is coming to {{<event_location>}}!**
 

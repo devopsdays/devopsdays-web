@@ -14,9 +14,9 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 <table border="0" width="100%" style="padding: 5px;">
   <tr>
     <th><b>Packages</b></th>
-    <th><center><b><u>Bronze<br />/u>1000 €</center></b></th>
-    <th><center><b><u>Silver<br />/u>3000 €</center></b></th>
-    <th><center><b><u>Gold<br />/u>5000 €</center></b></th>
+    <th><center><b><u>Bronze<br /></u>1000 €</center></b></th>
+    <th><center><b><u>Silver<br /></u>3000 €</center></b></th>
+    <th><center><b><u>Gold<br /></u>5000 €</center></b></th>
     <th></th>
   </tr>
 
@@ -70,21 +70,9 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
     <td>Logo on shared slide, rotating during breaks</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
   <tr>
