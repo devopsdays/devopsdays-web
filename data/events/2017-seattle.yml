@@ -59,6 +59,10 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: victorops
+    level: silver
+  - id: netapp
+    level: silver
   - id: spoken
     level: bronze
 
