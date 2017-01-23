@@ -37,7 +37,7 @@ We can’t seem to emphasize this enough: DevOpsDays is a conference for everyon
 
 ### I have a rough idea, but I need a sounding board.
 
-We’re all about community. Talk to some of your coworkers about it, or maybe drop in the devopsdays [_slack community_](http://devopsdays.slack.com/) to see what some other Vancouver-area operations people think about your ideas.
+We’re all about community. Talk to some of your coworkers about it, or maybe drop in the #vandevops channel on freenode to see what some other Vancouver-area operations people think about your ideas.
 
 ### What’s your selection process?
 
