@@ -23,6 +23,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://www.papercall.io/dod-clt
   - name: location
+  - name: agenda
   - name: registration
   - name: sponsor
   - name: contact
@@ -56,9 +57,25 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
+  - id: pivotal
+    level: gold
+  - id: ns1
+    level: gold
+  - id: red-ventures
+    level: gold
+  - id: jfrog
+    level: gold
   - id: split-software
     level: silver
   - id: netapp
+    level: silver
+  - id: honeycomb
+    level: silver
+  - id: actifio
+    level: silver
+  - id: techtowntraining
+    level: silver
+  - id: victorops
     level: silver
   - id: deis
     level: bronze
@@ -66,7 +83,11 @@ sponsors:
     level: bronze
   - id: versionone
     level: bronze
+  - id: spoken
+    level: bronze
   - id: city-of-charlotte
+    level: community
+  - id: softwaredefinedtalk
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

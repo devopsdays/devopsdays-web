@@ -46,25 +46,30 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 	<div class = "col-md-2" style="padding: 1.5em;">
 		<time>9:00-9:30</time>
 	</div>
-    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Registration <br>(<em>Регистрация, привественный кофе</em>)
 	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>9:30-10:00</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        1. Opening the conference (<em>Открытие конференции</em>)
+		<br>2. Sponsor speech (<em>Слово спонсоров</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>9:30-10:30</time>
+		<time>10:00-10:30</time>
 	</div>
-    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Keynote 1 <br>(<em>Ключевой доклад 1</em>)
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Keynote One <br>(<em>Ключевой доклад 1</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>10:30-11:10</time>
+		<time>10:30-11:00</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/konstantin-nazarov">Building a PaaS with Docker, Consul and Python <br>(<em>Как сделать PaaS при помощи Docker, Consul и обвязки на Python</em>)</a>
@@ -73,11 +78,12 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
         <a href="/events/2017-moscow/program/anton-ivanov">How does the SRE team makes HH stable <br>(<em>Как команда SRE делает HeadHunter стабильным </em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+	N/A
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>11:10-11:50</time>
+		<time>11:00-11:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/sergei-egorov">How to stop being a DevOps engineer <br>(<em>Как перестать быть DevOps инженером</em>)</a>
@@ -86,12 +92,12 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
         <a href="/events/2017-moscow/program/anton-weiss"><em>Как измерить поток? </em></a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Master-class 1 <br>(<em>Мастер-класс 1</em>)
+        N/A
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>11:50-12:30</time>
+		<time>11:30-12:00</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/alexleyn">Deployment automatization <br>(<em>Автоматизация деплоя</em>)</a>
@@ -100,50 +106,65 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
          <a href="/events/2017-moscow/program/katerina-troshina">When program developing goes well or the best practices of secure code development. <br>(<em>Когда разработка идет как надо или практика построения процесса разработки защищенного программного кода.</em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+		Master-class 1 <br>(<em>Мастер-класс 1</em>)
+	</div>
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>12:00-12:30</time>
+	</div>
+    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Ignite-1:
+<br>1. <a href="/events/2017-moscow/program/boris-gerasin">Open Source != Free Software</a>
+<br>2. <a href="/events/2017-moscow/program/leon-fayer3">What DevOps is NOT (<em>Чем DevOps НЕ является</em>)</a>
+<br>3.
+<br>4.
+<br>5.
+<br>6.
+	</div>
+	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+		N/A
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
 		<time>12:30-13:30</time>
 	</div>
-    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Dinner <br>(<em>Обед</em>)
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Dinner <br>(<em>Обед + Мастерская идей</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>13:30 - 14:30</time>
+		<time>13:30 - 14:00</time>
 	</div>
-    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Keynote 2 <br>(<em>Ключевой доклад 2</em>)
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Keynote Two <br>(<em>Ключевой доклад 2</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>14:30 - 15:10</time>
+		<time>14:00-14:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Ignite	
+        <a href="/events/2017-moscow/program/leon-fayer">Production testing through monitoring <br>(<em>Тестирование и мониторинг в production</em>)</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 7 <br>(<em>Доклад 7</em>)
+        <a href="/events/2017-moscow/program/leon-fayer2">BizOps and You <br>(<em>BizOps и ты</em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        N/A
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>15:10 - 15:50</time>
+		<time>14:30-15:00</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 8 <br>(<em>Доклад 8</em>)
+        <a href="/events/2017-moscow/program/michael-huttermann">From Zero to Hero: Firing up a holistic Continuous Delivery pipeline, with DevOps tools</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 9 <br>(<em>Доклад 9</em>)
+        <a href="/events/2017-moscow/program/yartsev">Problems I faced while building just another Docker PaaS<br>(<em>Проблемы, с которыми я столкнулся при создании очередной Docker PaaS</em>)</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Master-class 2 <br>(<em>Мастер-класс 2</em>)
@@ -151,69 +172,76 @@ Otherwise, check  back later, and you will be surprised (in a good way :) ).
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>15:50 - 16:30</time>
+		<time>15:00 - 15:30</time>
 	</div>
     <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 10 <br>(<em>Доклад 10</em>)
+        Доклад 11
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 11 <br>(<em>Доклад 11</em>)
+        Доклад 12
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        N/A
+	</div>
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>15:30-16:00</time>
+	</div>
+    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Ignite-2:
+<br>1. 
+<br>2.
+<br>3.
+<br>4.
+<br>5.
+<br>6.
+	</div>
+	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+		N/A
+	</div>
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>16:00 - 16:30</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Coffee-break <br>(<em>Кофе-брейк</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
 		<time>16:30 - 17:00</time>
 	</div>
-    <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Coffee-break <br>(<em>Кофе-брейк</em>)
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Keynote Three <br>(<em>Ключевой доклад 3</em>)
 	</div>
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>17:00-17:40</time>
-	</div>
-    <div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 12 <br>(<em>Доклад 12</em>)
-	</div>
-	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Lecture 13 <br>(<em>Доклад 13</em>)
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-	</div>
-</div>
-<div class = "row" style="display:flex;">
-	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>17:40-18:20</time>
-	</div>
-    <div class = "col-md-8 box" style="text-align:center;margin-bottom: 0;">
-        <div style="vertical-align:middle;margin-top:50px;">Open Space Session <br>(<em>Открытая сессия</em>)</div>
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;center;margin-bottom: 0;">
-		Master-class3 <br>(<em>Мастер-класс 3</em>)
-	</div>
-</div>
-<div class = "row" style="display:flex;">
-	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>18:20-19:00</time>
-	</div>
-    <div class = "col-md-8 box" style="text-align:center;">
-        
-	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-	</div>
-</div>
-<div class = "row" style="display:flex;">
-	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>19:00 - 19:30</time>
+		<time>17:00-19:00</time>
 	</div>
     <div class = "col-md-8 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Open-space talks	
+	</div>
+	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+		Master-class 3 <br>(<em>Мастер-класс 3</em>)
+	</div>
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>19:00 - 19:15</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         Conference closing, awards	 <br>(<em>Закрытие конференции, призы</em>)
 	</div>
-	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">		
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>19:15 - 21:00</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        VIP-part <br>(<em>VIP-часть	</em>)
 	</div>
 </div>
 
