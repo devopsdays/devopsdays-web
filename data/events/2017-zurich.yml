@@ -74,10 +74,12 @@ sponsors:
     level: gold
   - id: vshn
     level: bronze
-  - id:  dectris
+  - id: dectris
     level: bronze
-  - id:  atos
+  - id: atos
     level: gold
+  - id: codecentric
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
