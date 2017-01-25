@@ -57,6 +57,16 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
+  - id: ns1
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: chef
+    level: gold
+  - id: victorops
+    level: silver
+  - id: netapp
+    level: silver
   - id: spoken
     level: bronze
 
