@@ -52,6 +52,8 @@ proposal_email: "proposals-stockholm-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: praqma
     level: silver
+  - id: chef
+    level: gold
   - id: arresteddevops
     level: community
 
@@ -64,7 +66,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 8
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
