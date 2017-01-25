@@ -37,6 +37,10 @@ proposal_email: "proposals-denver-2017@devopsdays.org" # Put your proposal email
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: victorops
     level: social
+  - id: netapp
+    level: gold
+  - id: signalsciences
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: social
@@ -49,4 +53,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: silver
     label: Silver
   - id: bronze
-    lable: Bronze
+    label: Bronze
+  - id: community
+    label: Community
