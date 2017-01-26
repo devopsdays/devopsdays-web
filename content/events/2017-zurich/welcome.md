@@ -6,16 +6,13 @@ aliases = ["/events/2017-zuerich"]
 
 +++
 
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopszh >}}
-
-**DevOpsDays is coming to {{< event_location >}}**
-
 <h3>{{< event_start >}} - {{< event_end >}}</h3>
-
 
 <img src="/events/2017-zurich/logo.png" style="float:center"/>
 
+<strong>
+  In 2017 DevOpsDays is coming to Switzerland for the first time!
+</strong>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -25,8 +22,6 @@ aliases = ["/events/2017-zuerich"]
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
-
-
 
 <div class = "row">
   <div class = "col-md-2">
@@ -87,6 +82,7 @@ aliases = ["/events/2017-zuerich"]
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}<br>
+    {{< event_twitter devopszh >}}
   </div>
 </div>
