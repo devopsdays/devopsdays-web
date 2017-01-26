@@ -22,7 +22,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 ## Sponsorship Levels
 ### Platinum Sponsorship (R65,000)
-<table width=500px>
+<table style="width:700px">
 <tr>
   <td>
     <ul>
@@ -46,7 +46,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 </table>
 
 ### Gold Sponsorship (R55,000)
-<table width=500px>
+<table style="width:700px">
   <tr>
     <td>
       <ul>
@@ -68,7 +68,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 </table>
 
 ### Silver Sponsorship (R45,000)
-<table width=500px>
+<table style="width:700px">
   <tr>
     <td>
       <ul>
@@ -89,7 +89,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 
 ### Basic Sponsorship (R35,000)
-<table width=500px>
+<table style="width:700px">
   <tr>
     <td>
       <ul>
