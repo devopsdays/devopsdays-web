@@ -8,16 +8,19 @@ aliases = ["/events/2017-seattle"]
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<h3 style="color: black"> {{< event_link page="propose" text="The CFP is now open! Click here to propose a talk!" >}}</h3>
+<br>
 
 <img style="float: left; max-width: 400px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/devopsdays-seattle.png">
 
 We're very excited to bring DevOpsDays back to Seattle in 2017. This year the event will be held at
 {{< event_link page="location" text="McCaw Hall" >}} in the Seattle Center. This theater style venue
-will be great for both speakers and attendees. 
+will be great for both speakers and attendees.
+
+We've reviewing the over 130 talk proposals we received, and will be updating the program soon!
 
 <div style="clear: both"></div>
 
+<br>
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
@@ -49,14 +52,14 @@ will be great for both speakers and attendees.
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
