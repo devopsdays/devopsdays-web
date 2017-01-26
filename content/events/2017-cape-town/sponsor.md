@@ -24,9 +24,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 ### Platinum Sponsorship (R65,000)
 <table width=500px>
 <tr>
-  <td width="70%"><h4>Details</h4></td>  
-</tr>
-<tr>
   <td>
     <ul>
     <li>Logo on DevOpsDays Cape Town event website</li>
@@ -51,10 +48,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 ### Gold Sponsorship (R55,000)
 <table width=500px>
   <tr>
-    <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sponsor Now</h4></td>
-  </tr>
-  <tr>
     <td>
       <ul>
       <li>Logo on DevOpsDays Cape Town event website</li>
@@ -77,10 +70,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 ### Silver Sponsorship (R45,000)
 <table width=500px>
   <tr>
-    <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sponsor Now</h4></td>
-  </tr>
-  <tr>
     <td>
       <ul>
       <li>Logo on DevOpsDays Cape Town event website</li>
@@ -101,10 +90,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 ### Basic Sponsorship (R35,000)
 <table width=500px>
-  <tr>
-    <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sponsor Now</h4></td>
-  </tr>
   <tr>
     <td>
       <ul>
