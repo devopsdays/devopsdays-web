@@ -22,10 +22,29 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 ## Sponsorship Levels
 ### Platinum Sponsorship (R65,000)
-<table style="width:700px">
-<tr>
-  <td>
-    <ul>
+<div style="width: 450px; max-width: 90%; float: left;">
+  <ul>
+  <li>Logo on DevOpsDays Cape Town event website</li>
+  <li>Logo on all DevOpsDays email communication</li>
+  <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
+  <li>Branded items for goodie bag</li>
+  <li>Branded poster at the event (provided by the sponsor)</li>
+  <li>Logo on event t-shirt</li>
+  <li>Booth/Table space</li>
+  <li>Logo on lanyard</li>
+  <li>5 minute slot after keynote to full audience</li>
+  <li>Wifi password</li>
+  <li>5 tickets to the event</li>
+  </ul>
+</div>
+<div style="width: 250px; float: right;">
+  <i>Contact us! {{< email_organizers >}}</i>
+</div>
+<div style="clear: both;"></div>
+
+### Gold Sponsorship (R55,000)
+<div style="width: 450px; max-width: 90%; float: left;">
+  <ul>
     <li>Logo on DevOpsDays Cape Town event website</li>
     <li>Logo on all DevOpsDays email communication</li>
     <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
@@ -34,75 +53,43 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <li>Logo on event t-shirt</li>
     <li>Booth/Table space</li>
     <li>Logo on lanyard</li>
-    <li>5 minute slot after keynote to full audience</li>
-    <li>Wifi password</li>
-    <li>5 tickets to the event</li>
-    </ul>
-  </td>
-  <td>
-    <i>Contact us! {{< email_organizers >}}</i>
-  </td>
-</tr>
-</table>
-
-### Gold Sponsorship (R55,000)
-<table style="width:700px">
-  <tr>
-    <td>
-      <ul>
-      <li>Logo on DevOpsDays Cape Town event website</li>
-      <li>Logo on all DevOpsDays email communication</li>
-      <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
-      <li>Branded items for goodie bag</li>
-      <li>Branded poster at the event (provided by the sponsor)</li>
-      <li>Logo on event t-shirt</li>
-      <li>Booth/Table space</li>
-      <li>Logo on lanyard</li>
-      <li>4 tickets to the event</li>
-      </ul>
-    </td>
-    <td>
-      <i>Contact us! {{< email_organizers >}}</i>
-    </td>
-  </tr>
-</table>
+    <li>4 tickets to the event</li>
+  </ul>
+</div>
+<div style="width: 250px; float: right;">
+  <i>Contact us! {{< email_organizers >}}</i>
+</div>
+<div style="clear: both;"></div>
 
 ### Silver Sponsorship (R45,000)
-<table style="width:700px">
-  <tr>
-    <td>
-      <ul>
-      <li>Logo on DevOpsDays Cape Town event website</li>
-      <li>Logo on all DevOpsDays email communication</li>
-      <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
-      <li>Branded items for goodie bag</li>
-      <li>Branded poster at the event (provided by the sponsor)</li>
-      <li>Logo on event t-shirt</li>
-      <li>3 tickets to the event</li>
-      </ul>
-    </td>
-    <td>
-      <i>Contact us! {{< email_organizers >}}</i>
-    </td>
-  </tr>
-</table>
-
+<div style="width: 450px; max-width: 90%; float: left;">
+  <ul>
+    <li>Logo on DevOpsDays Cape Town event website</li>
+    <li>Logo on all DevOpsDays email communication</li>
+    <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
+    <li>Branded items for goodie bag</li>
+    <li>Branded poster at the event (provided by the sponsor)</li>
+    <li>Logo on event t-shirt</li>
+    <li>3 tickets to the event</li>
+  </ul>
+</div>
+<div style="width: 250px; float: right;">
+  <i>Contact us! {{< email_organizers >}}</i>
+</div>
+<div style="clear: both;"></div>
 
 ### Basic Sponsorship (R35,000)
-<table style="width:700px">
-  <tr>
-    <td>
-      <ul>
-      <li>Logo on DevOpsDays Cape Town event website</li>
-      <li>Logo on all DevOpsDays email communication</li>
-      <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
-      <li>Branded items for goodie bag</li>
-      <li>Logo on event t-shirt</li>
-      <li>2 tickets to the event</li>
-      </ul>
-    </td>
-    <td>
-      <i>Contact us! {{< email_organizers >}}</i>
-    </td>
-  </tr>
-</table>
+<div style="width: 450px; max-width: 90%; float: left;">
+  <ul>
+    <li>Logo on DevOpsDays Cape Town event website</li>
+    <li>Logo on all DevOpsDays email communication</li>
+    <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdayscpt">@DevOpsDaysCPT</a>)</li>
+    <li>Branded items for goodie bag</li>
+    <li>Logo on event t-shirt</li>
+    <li>2 tickets to the event</li>
+  </ul>
+</div>
+<div style="width: 250px; float: right;">
+  <i>Contact us! {{< email_organizers >}}</i>
+</div>
+<div style="clear: both;"></div>
