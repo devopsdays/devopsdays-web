@@ -59,7 +59,7 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    Coming soon!
+    View the {{< event_link page="program" text="Program" >}}
   </div>
 </div>
 

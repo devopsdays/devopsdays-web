@@ -19,11 +19,11 @@ location: "Mint Museum Uptown" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
   - name: propose
     url: https://www.papercall.io/dod-clt
   - name: location
-  - name: agenda
+#  - name: agenda
   - name: registration
   - name: sponsor
   - name: contact
@@ -89,6 +89,8 @@ sponsors:
     level: community
   - id: softwaredefinedtalk
     level: community
+  - id: dynatrace
+    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -107,3 +109,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: coffee
+    label: Coffee
