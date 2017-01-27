@@ -74,8 +74,6 @@ proposal_email: "organizers-baltimore-2017@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: circonus
-    level: platinum
   - id: omniti
     level: platinum
   - id: opsgenie
@@ -87,6 +85,12 @@ sponsors:
   - id: sumologic
     level: platinum
   - id: ns1
+    level: platinum
+  - id: circonus
+    level: platinum
+  - id: victorops
+    level: platinum
+  - id: servicenow
     level: platinum
   - id: acesinc
     level: silver
