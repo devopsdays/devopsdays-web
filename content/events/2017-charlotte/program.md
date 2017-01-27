@@ -1,6 +1,6 @@
 +++
 date = "2017-01-10T10:34:20-04:00"
-title = "agenda"
+title = "program"
 type = "event"
 
 +++
