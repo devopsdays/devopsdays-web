@@ -44,9 +44,11 @@ proposal_email: "proposals-moscow-2016@devopsdays.org" # Put your proposal email
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # media
+  - id: Logrocon
+    level: media
   - id: Express42
     level: media
-  - id: Logrocon
+  - id: YEx
     level: media
   - id: superjob
     level: media
