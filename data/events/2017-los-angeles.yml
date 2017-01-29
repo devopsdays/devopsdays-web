@@ -42,6 +42,8 @@ proposal_email: "devopsdayla-planning@googlegroups.com"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: 2017-vdms
+    level: sponsor
   - id: datadog
     level: sponsor
   - id: 2016-carsdotcom
