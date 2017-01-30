@@ -23,6 +23,7 @@ build_script:
 #  Build the devopsdays-web site once
 - cmd: >-
     hugo_0.18.1_windows_amd64.exe version
+    
     hugo_0.18.1_windows_amd64.exe --verbose
 
 test: off
