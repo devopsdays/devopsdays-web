@@ -6,12 +6,7 @@ install:
 #  Install Hugo from chocolatey and display the version number
 - cmd: >-
     choco install hugo -y
-    
-- ps: >-
-    Get-ChildItem -Path "C:\ProgramData\chocolatey\lib\hugo\tools\*.exe" | Rename-Item  -NewName "hugo.exe"
-
-- cmd: >-
-    hugo version
+    hugo_0.18.1_windows_amd64.exe version
 
 # Change the Path seperator to a Windows version (backslash)    
 - ps: >-
@@ -28,6 +23,6 @@ install:
 build_script:
 #  Build the devopsdays-web site once
 - cmd: >-
-    hugo --verbose
+    hugo_0.18.1_windows_amd64.exe --verbose
 
 test: off
