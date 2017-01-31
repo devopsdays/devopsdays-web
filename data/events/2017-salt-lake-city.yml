@@ -66,6 +66,8 @@ proposal_email: "proposals-saltlakecity-2017@devopsdays.org" # Put your proposal
 sponsors:
   - id: morpheus_data
     level: greencircle
+  - id: xmatters
+    level: bluesquare
   - id: deis
     level: blackdiamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
