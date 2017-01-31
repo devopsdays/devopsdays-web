@@ -69,6 +69,10 @@ sponsors:
     level: silver
   - id: spoken
     level: bronze
+  - id: seattle-devops-meetup
+    level: community
+  - id: seattle-coffeeops
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
