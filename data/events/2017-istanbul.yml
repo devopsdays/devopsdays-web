@@ -1,0 +1,53 @@
+name: 2017-istanbul # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2017 # The year of the event. Make sure it is in quotes.
+city: "Istanbul" # The city name of the event. Capitalize it.
+friendly: "2017-istanbul" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "past" # Options are "past" or "current".
+startdate: 2017-05-16 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+enddate: 2017-05-17 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: 2017-02-10
+cfp_date_end: 2017-03-10
+cfp_date_announce: 2017-03-15
+coordinates: "40.9621189,29.1094486" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Dedeman Bostanci" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: location
+  - name: program
+  - name: propose
+  - name: proposals
+  - name: registration
+  - name: contact
+  - name: conduct
+  - name: sponsor
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Derya Sezen"
+  - name: "Ismail Arslan"
+  - name: "Zeldal Özdemir"
+  - name: "Erkan Binici"
+  - name: "Mesut Can Gürle"
+  - name: "Mehmet Ali Aydın"
+organizer_email: "organizers-istanbul-2017@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-istanbul-2017@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: kloia
+    level: host
+  - id: vngrs
+    level: host
+  - id: thoughtworks
+    level: host
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: host
+    label: Host
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
