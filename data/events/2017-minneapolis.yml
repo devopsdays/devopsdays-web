@@ -55,6 +55,12 @@ sponsors:
     level: community
   - id: saucelabs
     level: silver
+  - id: victorops
+    level: platinum
+  - id: chef
+    level: silver
+  - id: sumologic
+    level: platinum
 
 sponsors_accepted : "yes"
 
