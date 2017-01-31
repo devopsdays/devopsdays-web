@@ -10,6 +10,8 @@ type = "event"
 
 If you'd like to contact us by email: {{< email_organizers >}}
 
+{{< event_twitter dodaustin >}}
+
 **Our local team**
 
 {{< list_organizers >}}
