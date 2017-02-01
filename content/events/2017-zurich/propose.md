@@ -9,7 +9,6 @@ type = "event"
   <b>Call for proposals is now closed.<br>
   </center>
 
-
 <hr>
 There are three ways to propose a session:
 <ol>
