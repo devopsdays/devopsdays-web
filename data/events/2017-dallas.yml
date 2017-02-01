@@ -1,6 +1,7 @@
 name: "2017-dallas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysdfw"
 friendly: "2017-dallas" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
