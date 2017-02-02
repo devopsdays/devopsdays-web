@@ -1,11 +1,10 @@
 version: 1.0.{build}
-branches:
-    except:
-      - master
 install:
 #  Install Hugo from chocolatey and display the version number
 - cmd: >-
     choco install hugo -y
+
+    hugo version
 
 # Change the Path seperator to a Windows version (backslash)    
 - ps: >-
@@ -22,8 +21,6 @@ install:
 build_script:
 #  Build the devopsdays-web site once
 - cmd: >-
-    hugo_0.18.1_windows_amd64.exe version
-    
-    hugo_0.18.1_windows_amd64.exe --verbose
+    hugo --verbose
 
 test: off
