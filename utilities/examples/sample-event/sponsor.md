@@ -64,7 +64,6 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 <tr><td>Additional important details</td><td></td></tr>
 </table>
 </div>
-</div>
 
 -->
 <hr/>
