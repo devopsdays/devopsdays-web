@@ -45,28 +45,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 <br/>
 <br/>
-</div>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor Info</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>When is set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>How do we order A/V?</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
 <br>
 <br>
 <table border=1 cellspacing=1>
