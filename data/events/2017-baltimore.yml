@@ -1,6 +1,7 @@
 name: "2017-baltimore"
 year: "2017"
 city: "Baltimore"
+event_twitter: "devopsdaysbmore"
 friendly: "2017-baltimore"
 
 startdate:  2017-03-07
@@ -33,42 +34,36 @@ team_members: # Name is the only required field for team members.
   - name: "Delali Dzirasa"
     twitter:  "DelaliDzirasa"
     employer:  "Fearless Solutions"
-  - name: "Bryan Liles"
-    twitter:  "bryanl"
-    employer:  "Digital Ocean"
   - name: "Charles Bushong"
     twitter:  "totalnerd"
     employer: "Fearless Solutions"
-  - name: "Chris Stone"
-    twitter: "cmstone"
-    employer:  "E-Moxie"
-  - name: "Daniel Coulbourne"
-    twitter: ""
-    employer: ""
-  - name: "Drew Malone"
-    twitter: ""
-    employer: ""
+  - name: "Rachel Davis"
+    twitter: "patterns_pixels"
+    employer: "Meta Studios Inc"
   - name: "John Favorite"
     twitter: ""
     employer: ""
-  - name: "Laura Semesky"
-    twitter: ""
-    employer: "Fearless Solutions"
-  - name: "Michael Stump"
+  - name: "Steven Haddox"
     twitter: ""
     employer: ""
   - name: "Nathen Harvey"
     twitter: "nathenharvey"
     employer: "Chef"
+  - name: "Drew Malone"
+    twitter: ""
+    employer: ""
   - name: "Ramez Mourad"
     twitter: "ramezjm"
     employer: "Cvent"
+  - name: "Laura Semesky"
+    twitter: ""
+    employer: "Fearless Solutions"
+  - name: "Chris Stone"
+    twitter: "cmstone"
+    employer:  "E-Moxie"
   - name: "Robert Treat"
     twitter:  "robtreat2"
     employer: "OmniTI"
-  - name: "Steven Haddox"
-    twitter: ""
-    employer: ""
   - name: "Nicole Yancey"
     twitter: ""
     employer: ""
@@ -82,17 +77,33 @@ proposal_email: "organizers-baltimore-2017@devopsdays.org" # Put your proposal e
 sponsors:
   - id: omniti
     level: platinum
-  - id: eglobaltech
-    level: platinum
   - id: opsgenie
     level: platinum
   - id: fearless
     level: platinum
-  - id: que-technology-group
-    level: silver
+  - id: redhat
+    level: platinum
+  - id: sumologic
+    level: platinum
+  - id: ns1
+    level: platinum
+  - id: circonus
+    level: platinum
+  - id: victorops
+    level: platinum
+  - id: servicenow
+    level: platinum
+  - id: dynatrace
+    level: gold
   - id: acesinc
     level: silver
+  - id: bookerdimaio
+    level: silver
+  - id: que-technology-group
+    level: silver
   - id: arresteddevops
+    level: media
+  - id: technically-baltimore
     level: media
   - id: spark
     level: community
@@ -104,6 +115,12 @@ sponsors:
     level: community
   - id: bw_tech
     level: community
+  - id: code-for-baltimore
+    level: community
+  - id: ladies-that-ux-bmore
+    level: community
+  - id: innovation-village-baltimore
+    level:  community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

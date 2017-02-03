@@ -1,7 +1,4 @@
 version: 1.0.{build}
-branches:
-    except:
-      - master
 install:
 #  Install Hugo from chocolatey and display the version number
 - cmd: >-

@@ -4,7 +4,9 @@ title = "location"
 type = "event"
 
 +++
+<div style='float:left;'><a href='http://technocongress.ru/'><img alt="technopolis" title="technopolis" src="/img/sponsors/technopolis.png" class="img-responsive company-logo" height="100px" width="100px"/></a></div>
+<div>Technopolis "Moscow", congress-center (Volgogradsky prospect, 42\5)</div>
 
-Technopolis "Moscow", congress-center (Volgogradsky prospect, 42\5)
+<div style='clear:both;'></div>
 
 {{< event_map >}}

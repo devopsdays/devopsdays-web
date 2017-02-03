@@ -4,17 +4,18 @@ title = "welcome"
 type = "event"
 aliases = ["/events/2017-amsterdam"]
 tags = ["amsterdam","amsterdam-2017"]
-
+heading = "devopsdays Amsterdam - Welcome"
 +++
 
+<div style="text-align:center;">
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
+</div>
 
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
 
 **devopsdays is coming to {{< event_location >}}!**
-
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -34,23 +35,24 @@ tags = ["amsterdam","amsterdam-2017"]
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <!-- {{< event_link page="propose" text="Propose a talk!" >}} -->
+    <a href="https://devopsdays.typeform.com/to/hbkd2j">Propose a talk!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -88,7 +90,4 @@ tags = ["amsterdam","amsterdam-2017"]
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->
+{{< event_twitter devopsams >}}

@@ -1,6 +1,6 @@
 +++
 date = "2016-09-20T21:46:51+01:00"
-title = "sponsor"
+title = "DevOpsDays Seattle 2017 Sponsorship Info"
 type = "event"
 
 
@@ -19,8 +19,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 </p>
 
 <p>
-  DevOpsDays is a volunteer organized event for practitioners that depends on sponsorships. All of the talks are 
-  selected via an open CFP in order to present the highest quality conference possible. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+  DevOpsDays is a volunteer organized event for practitioners that depends on sponsorships. All of the talks are selected via an open CFP in order to present the highest quality conference possible. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 </p>
 
 

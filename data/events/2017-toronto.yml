@@ -1,29 +1,30 @@
 name: "2017-toronto" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Toronto" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysTO"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-05-25 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-05-26 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2016-12-21 # start accepting talk proposals.
+cfp_date_end:  2017-02-07 # close your call for proposals.
+cfp_date_announce: 2017-03-07 # inform proposers of status.
 
 # Location
 #
-coordinates: "43.6532,-79.3831" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Toronto" # The name of your location
+coordinates: "43.644489,-79.388044" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Glenn Gould Studio" # The name of your location
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
+  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
-#  - name: registration
+  - name: location
+  - name: register
   - name: sponsor
   - name: contact
   - name: conduct
@@ -49,6 +50,10 @@ proposal_email: "proposals-toronto-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: victorops
+    level: gold
+  - id: sourcedgroup
+    level: lunch
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -57,13 +62,21 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
   - id: gold
     label: Gold
-    max: 10
+    max: 14
+  - id: happyhour
+    label: Happy Hour
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: 20

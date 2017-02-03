@@ -13,7 +13,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 #### Twitter (Transparent for everyone):
 {{< event_twitter devopszh >}}
 
-#### Via Email to the organizer team: 
+#### Via Email to the organizer team:
 <div>
 report violations:
 <a href="mailto:organizers-zuerich-2017@devopsdays.org?Subject=Code%20of%20conduct%20violation" target="_top">now</a>
@@ -93,7 +93,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 <div>
 Contact the DevOpsDays Zürich:
-<a href="mailto:organizers-zuerich-2017@devopsdays.org target="_top">crew</a>
+<a href="mailto:organizers-zuerich-2017@devopsdays.org">crew</a>
 </div>
 
 ### License and attribution

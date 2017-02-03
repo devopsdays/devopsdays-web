@@ -13,8 +13,6 @@ aliases = [
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-DevOps Days is coming to {{< event_location >}}!
-
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
@@ -33,7 +31,8 @@ DevOps Days is coming to {{< event_location >}}!
 
 <div class = "row">
   <div class = "col-md-10">
-    <h4>Opening Keynotes Announced</h4>
+    <h4>Keynotes &amp; Plenary Session Talks Announced</h4>
+    <p>Keynotes</p>
     <ul>
       <li>
         <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_581b512bfa6077d5c4000073">Building
@@ -44,6 +43,30 @@ DevOps Days is coming to {{< event_location >}}!
         Rainbow of Death</a> - Mike Bland
       </li>
     </ul>
+    <p>Plenary Sessions</p>
+    <ul>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_5813a612c9853bf76e000034">Continuous Integration: a bittersweet love story</a> - Suzie Prince
+      </li>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_584718b7d39ecb7cc7000082">Lost art of troubleshooting</a> - Leon Fayer
+      </li>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_584ae19dd33c2785b800003e">Decoding Culture: Beyond the Fluff and Back to Business</a> - Jeff Gallimore
+      </li>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_5789ad1e476907523a000039">The Transversal Delivery Pipeline</a> - Mike Nescot
+      </li>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_578025242dcf0305bd000177">Don't Mind the Gap: How to DevOps in an Airgapped world</a> - Galen Emery
+      </li>
+      <li>
+        <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule#activity_584b2fb3b5c1a1cd5b00007d">Making Your Product Manager Productive</a> - Clinton Wolfe
+      </li>
+    </ul>
+    <p>
+      <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule">Full schedule details</a>.
+    </p>
   </div>
 </div>
 
@@ -134,4 +157,8 @@ DevOps Days is coming to {{< event_location >}}!
   <p>
     {{< event_twitter devopsdaysbmore >}}
   </p>
+</div>
+
+<div>
+<a class="twitter-timeline" data-width="800" data-height="600" data-theme="light" href="https://twitter.com/devopsdaysbmore">Tweets by DevOpsDaysBmore</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>

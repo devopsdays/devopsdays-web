@@ -14,17 +14,25 @@ aliases = ["/events/2017-vancouver"]
 <h2>DevOpsDays Vancouver 2017</h2>
 </div>
 
+
 <div style="text-align:center;">
     <p style="font-size:large;">{{< event_start >}} - {{< event_end >}}</p>
     <p style="font-size:large;">UBC Robson Square</p>
     <p>DevOpsDays is returning to Vancouver in 2017.</p>
     <p><a href="http://devopsdays.org/">DevOpsDays</a> is a self-organizing conference for DevOps practitioners.</p>
-    <!-- <p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p> -->
+    <!-- 
+<p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p>
+ -->
+
+<div style="text-align:center;">
+<h2>Call for proposals!</h2>
+We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZb5t2">speaker submissions!</a>.  Please also review our <a href="https://docs.google.com/document/d/1uOqMhTbrSPQ88EWHvTBhr1TOkMS6Tgu2ZIkqE2BT2Bw/edit#heading=h.yfnrdtyvxdnm">speaker submission guidelines</a> when considering a talk submission.
+</div>
 </div>
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Register</h2>
-        <p>Tickets are not yet on sale</p>
+        <p><a href="https://www.eventbrite.ca/e/devops-days-vancouver-2017-mar-31st-apr-1st-tickets-29634403298">Tickets are now on sale!</a>
     </div>
 
 <div style="width:44%;margin:3% 1em;float:left;">

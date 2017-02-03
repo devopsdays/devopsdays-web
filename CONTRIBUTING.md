@@ -8,7 +8,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo v0.16+](http://gohugo.io).
+1. Install [Hugo v0.18+](http://gohugo.io).
 1. Fork this repo.
 
 ### View site locally
@@ -37,7 +37,7 @@ Now open `baseURL` in a browser and navigate to the content that you're editing 
   $ git push origin fix_that_thing
   ```
 
-1. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed.
+1. Submit a [Pull Request](https://help.github.com/articles/using-pull-requests/) for the branch you just pushed. Please title the pull request according to the event affected, i.e., `[CHI-2017] Add Bluth Company as a sponsor`
 1. Take a break - you've earned it!
 1. When a commit is merged to `master` on GitHub (ideally via a PR reviewed by at least one other person), `Netlify` (a build tool) will automatically build the site and publish it to [http://www.devopsdays.org](http://www.devopsdays.org).
 
