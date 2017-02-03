@@ -22,8 +22,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #  - name: speakers
 #  - name: location
-#  - name: registration
-    url: http://devopsdayskc.eventbrite.com/?aff=website
+  - name: registration
+    url: https://devopsdayskc2017.eventbrite.com/?aff=website
   - name: justification
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
 #  - name: sponsor
