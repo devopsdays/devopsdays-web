@@ -104,10 +104,11 @@ sponsor_levels:
     label: Venue
   - id: hrsponsor
     label: HR
+  - id: reading
+    label: Reading
   - id: media
     label: Media
   - id: community
     label: Community
-  - id: reading
-    label: Reading
+  
   
