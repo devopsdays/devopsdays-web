@@ -80,6 +80,8 @@ sponsors:
     level: Networking
   - id: technopolis
     level: venuesponsor
+  - id: alpina
+    level: reading
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -106,4 +108,6 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+  - id: reading
+    label: Reading
   
