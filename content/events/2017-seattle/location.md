@@ -21,6 +21,7 @@ McCaw Hall encompasses the state-of-the-art 2,900-seat Susan Brotman Auditorium,
 
 Each year the Ballet and Opera present approximately 150 performances in McCaw Hall. In addition, the Hall hosts two productions of the Seattle Men’s Chorus annually, as well as a wide range of popular music concerts, lectures, corporate meetings, receptions, weddings, festival performances, community, and non-profit events.
 
-<div style="clear: both"></div>
+<div style="clear: both">
+</div>
 
 <!-- {{< event_map >}} -->
