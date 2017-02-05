@@ -48,8 +48,7 @@ proposal_email: "proposals-istanbul-2017@devopsdays.org" # Put your proposal ema
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
     - id:  devopsturkey
-    level: community
-
+      level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
