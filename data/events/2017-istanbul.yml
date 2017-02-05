@@ -31,23 +31,23 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Barbaros Kuz"
   - name: "Derya Sezen"
     twitter: "derya_sezen"
     employer: "kloia"
-  - name: "Ismail Arslan"
-  - name: "Zeldal Ozdemir"
   - name: "Erkan Binici"
-  - name: "Mesut Can Gurle"
+  - name: "Ismail Arslan"
   - name: "Mehmet Ali Aydın"
-  - name: "Barbaros Kuz"
+  - name: "Mesut Can Gurle"
   - name: "Sinan Tecer"
+  - name: "Zeldal Ozdemir"
 organizer_email: "organizers-istanbul-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-istanbul-2017@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: DevOps Turkey
+    - id:  devops-turkey
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
