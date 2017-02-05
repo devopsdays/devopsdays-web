@@ -24,7 +24,7 @@ The conference location is at Anatolian part of Istanbul. It will be easier if y
 - There is metro station close to the convention center. Take the [M4 metro line](https://en.wikipedia.org/wiki/M4_(Istanbul_Metro)) and get off at Bostanci station.
 
 #### Alternative methods of transportation
-Taxi fares are relatively cheap is Istanbul.
+Taxi fares are relatively cheap in Istanbul.
 
 - [BiTaksi](http://www.bitaksi.com/en/)  
 - [Uber](https://www.uber.com/)  
