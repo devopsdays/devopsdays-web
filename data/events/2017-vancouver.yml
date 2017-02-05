@@ -59,10 +59,10 @@ sponsors:
     level: friends
   - id: pearlfisher-adaptech
     level: friends
-#  - id: deis
-#    level: gold
-#  - id: sourcedgroup
-#    level: bronze
+  - id: deis
+    level: gold
+  - id: sourcedgroup
+    level: bronze
   - id: pivotal
     level: gold
   - id: statsearchanalytics
