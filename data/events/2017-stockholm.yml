@@ -1,15 +1,18 @@
 name: "2017-stockholm" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Stockholm" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayssthlm"
 description: "DevOpsdays are finally coming to Stockholm!"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-05-08  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2017-05-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-02-03  # start accepting talk proposals.
+cfp_date_end:  2017-03-05 # close your call for proposals.
+cfp_date_announce: 2017-03-26 # inform proposers of status
+
+event_logo_square: "logo-square.jpg"
 
 # Location
 #
@@ -20,8 +23,8 @@ location: "Stockholm, Ballroom 12" # Defaults to city, but you can make it the v
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: propose
+    #url: https://devopsdayssthlm.typeform.com/to/eMaXqd
   - name: location
 #  - name: registration
   - name: sponsor
@@ -52,6 +55,8 @@ proposal_email: "proposals-stockholm-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: praqma
     level: silver
+  - id: chef
+    level: gold
   - id: arresteddevops
     level: community
 
@@ -64,7 +69,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 8
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

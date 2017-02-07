@@ -2,6 +2,7 @@
 date = "2016-08-10T20:18:13+02:00"
 title = "conduct"
 type = "event"
+heading = "devopsdays Amsterdam - Code of Conduct"
 
 +++
 

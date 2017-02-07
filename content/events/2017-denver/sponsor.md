@@ -36,6 +36,11 @@ For more information about sponsorship checkout our [Sponsorship Prospectus](htt
 * Logo on DevOpsDays Rockies event website
 * Shared table for giveaways
 
+### Community Sponsorship
+* 1 tickets to the event
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Denver 2017 event website
+
 ### Social Hour Sponsorship – Availability 1
 
 * 2 tickets to the event

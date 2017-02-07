@@ -1,6 +1,7 @@
 name: "2017-charlotte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Charlotte" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays_clt"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -11,6 +12,8 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
+event_logo_square: "logo-square.jpg"
+
 # Location
 #
 coordinates: "35.2271, -80.8431" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -19,11 +22,11 @@ location: "Mint Museum Uptown" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
   - name: propose
     url: https://www.papercall.io/dod-clt
   - name: location
-  - name: agenda
+#  - name: agenda
   - name: registration
   - name: sponsor
   - name: contact
@@ -89,6 +92,8 @@ sponsors:
     level: community
   - id: softwaredefinedtalk
     level: community
+  - id: dynatrace
+    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -107,3 +112,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: coffee
+    label: Coffee

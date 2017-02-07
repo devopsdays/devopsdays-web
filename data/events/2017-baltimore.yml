@@ -1,6 +1,7 @@
 name: "2017-baltimore"
 year: "2017"
 city: "Baltimore"
+event_twitter: "devopsdaysbmore"
 friendly: "2017-baltimore"
 
 startdate:  2017-03-07
@@ -10,6 +11,8 @@ enddate:  2017-03-08
 cfp_date_start: 2016-05-26
 cfp_date_end: 2016-12-09
 cfp_date_announce: 2017-01-06
+
+event_logo_square: "logo-square.jpg"
 
 # Location
 coordinates: "39.286400, -76.605606" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -74,8 +77,6 @@ proposal_email: "organizers-baltimore-2017@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: circonus
-    level: platinum
   - id: omniti
     level: platinum
   - id: opsgenie
@@ -88,6 +89,14 @@ sponsors:
     level: platinum
   - id: ns1
     level: platinum
+  - id: circonus
+    level: platinum
+  - id: victorops
+    level: platinum
+  - id: servicenow
+    level: platinum
+  - id: dynatrace
+    level: gold
   - id: acesinc
     level: silver
   - id: bookerdimaio
@@ -95,6 +104,8 @@ sponsors:
   - id: que-technology-group
     level: silver
   - id: arresteddevops
+    level: media
+  - id: technically-baltimore
     level: media
   - id: spark
     level: community
@@ -110,6 +121,8 @@ sponsors:
     level: community
   - id: ladies-that-ux-bmore
     level: community
+  - id: innovation-village-baltimore
+    level:  community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
