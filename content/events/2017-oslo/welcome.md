@@ -1,0 +1,150 @@
++++
+date = "2017-02-07"
+title = "welcome"
+type = "event"
+aliases = ["/events/2016-oslo"]
+
++++
+
+<div style="text-align:center;">
+
+<p><h3>For the second time, DevOpsDays is coming to Oslo!</h3></p>
+
+</div>
+
+<div style="text-align:left">
+
+<p>We have not settled the dates just yet. Follow us on Twitter, <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a> for notifications.
+
+<p>In the meantime have a look at videos from last year's event further down on this page.</p>
+
+<hr>
+
+<p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
+
+<p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.</p>
+
+<!--
+<h2>Sponsorships</h2>
+{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
+-->
+
+<hr>
+
+<h2>Videos from last year</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BTTqGoLdRJM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sr3OS6wfxzc" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+</div>
+
+<br>
+<hr>
+
+<!--
+
+## Call for papers
+{{< event_link page="propose" text="Propose a talk!" >}}.
+
+-->
+
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    Registration has not yet opened.
+    <!-- 
+    {{< event_link page="registration" text="Register to attend the event!" >}}
+    -->
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Conference hotel</strong>
+  </div>
+  <div class = "col-md-8">
+    TBA
+    <!--<a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a>-->
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Alternative accommodation</strong>
+  </div>
+  <div class = "col-md-8">
+    There are <a href="https://www.google.no/maps/search/Hoteller/@59.908037,10.7421253,17z/data=!3m1!4b1!4m8!2m7!3m6!1sHoteller!2sDronningensgate+4+Kvadraturen,+Gamle+Museet+Konferanse+og+Selskapslokaler,+0152+Oslo!3s0x46416e659eb51631:0xa98021d023cb87b2!4m2!1d10.744314!2d59.908029?hl=no">many alternatives</a> close by.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    Call for papers has not opened yet. Stay tuned!
+  </div>
+</div>
+
+<!-- <div class = "row">
+  <div class = "col-md-3">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div> -->
+
+<!-- <div class = "row">
+  <div class = "col-md-3">
+    <strong>Speakers</strong>
+  </div>
+  <div class = "col-md-8">
+    Check out the {{< event_link page="speakers" text="speakers!" >}}
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Sponsors</strong>
+  </div>
+  <div class = "col-md-8">
+    Stay tuned!
+    <!--{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.-->
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Contact</strong>
+  </div>
+  <div class = "col-md-8">
+    Follow us on Twitter: <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a>
+    <!--{{< event_link page="contact" text="Get in touch with the Organizers" >}} -->
+  </div>
+</div>
+
