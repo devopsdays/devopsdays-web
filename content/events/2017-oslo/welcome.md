@@ -24,10 +24,10 @@ aliases = ["/events/2016-oslo"]
 
 <p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.</p>
 
-<!--
+<hr>
+
 <h2>Sponsorships</h2>
 {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
--->
 
 <hr>
 
@@ -44,13 +44,8 @@ aliases = ["/events/2016-oslo"]
 <br>
 <hr>
 
-<!--
-
 ## Call for papers
 {{< event_link page="propose" text="Propose a talk!" >}}.
-
--->
-
 
 <div class = "row">
   <div class = "col-md-3">
@@ -133,8 +128,7 @@ aliases = ["/events/2016-oslo"]
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    Stay tuned!
-    <!--{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.-->
+    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
   </div>
 </div>
 
@@ -143,8 +137,7 @@ aliases = ["/events/2016-oslo"]
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    Follow us on Twitter: <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a>
-    <!--{{< event_link page="contact" text="Get in touch with the Organizers" >}} -->
+    {{< event_link page="contact" text="Get in touch with the Organizers" >}}
   </div>
 </div>
 
