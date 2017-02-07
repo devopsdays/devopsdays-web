@@ -1,7 +1,7 @@
 +++
 title = "Welcome"
 type = "event"
-aliases = ["/events/2017-losangeles"]
+aliases = ["/events/2017-los-angeles"]
 +++
 
 <h2>{{< event_start >}}</h2>
