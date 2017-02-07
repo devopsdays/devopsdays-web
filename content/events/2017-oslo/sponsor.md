@@ -6,7 +6,7 @@ type = "event"
 
 +++
 
-<!--We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].-->
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}
 
 <hr>
 DevopsDays is a self-organizing conference for practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn.
