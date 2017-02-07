@@ -8,7 +8,7 @@ type = "event"
 
 <strong>Follow us on Twitter: </strong><a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a>
 
-<!--If you'd like to contact us by email: {{< email_organizers >}}-->
+If you'd like to contact us by email: {{< email_organizers >}}
 
 **Our local team**
 
