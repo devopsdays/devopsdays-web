@@ -15,7 +15,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 1</h3>
+        <h3>{{< event_start >}}</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->
@@ -157,7 +157,7 @@ type = "event"
   <div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
-        <h3>Day 2</h3>
+        <h3>{{< event_end >}}</h3>
       </div>
     </div>
     <!-- this div is repeated for each timeslot -->

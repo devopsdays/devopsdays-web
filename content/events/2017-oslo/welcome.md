@@ -14,7 +14,7 @@ aliases = ["/events/2016-oslo"]
 
 <div style="text-align:left">
 
-<p>We have not settled the dates just yet. Follow us on Twitter, <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a> for notifications.
+<p>Call for papers and registration will open soon. Follow us on Twitter, <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a> for notifications.
 
 <p>In the meantime have a look at videos from last year's event further down on this page.</p>
 
