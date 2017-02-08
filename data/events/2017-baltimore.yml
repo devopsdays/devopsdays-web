@@ -95,6 +95,8 @@ sponsors:
     level: platinum
   - id: servicenow
     level: platinum
+  - id: chef
+    level: platinum
   - id: dynatrace
     level: gold
   - id: acesinc
