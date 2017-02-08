@@ -37,6 +37,11 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Corriere"
     twitter: "cacorriere"
   - name: "John Dyer"
+  - name: "Jeremy Duvall"
+  - name: "Maruene Preas"
+  - name: "Greg Cordell"
+  - name: "Jim Song"
+  - name: "Andre Thenot"	
   - name: "Twitter"
     twitter: "devopsdaysATL"
 organizer_email: "organizers-atlanta-2017@devopsdays.org" # Put your organizer email address here
@@ -46,6 +51,8 @@ proposal_email: "proposals-atlanta-2017@devopsdays.org" # Put your proposal emai
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: opsgenie
+    level: gold
+  - id: pivotal
     level: gold
   - id: arresteddevops
     level: community
