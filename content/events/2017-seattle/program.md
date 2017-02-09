@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2017-seattle/program/gene-kim/">Gene Kim - The Top Things I’ve Learned Since The Phoenix Project Came Out.</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
