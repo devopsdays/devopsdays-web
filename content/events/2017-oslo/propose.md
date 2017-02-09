@@ -4,8 +4,15 @@ title = "propose"
 type = "event"
 +++
 
+{{< cfp_dates >}}
+
 <hr>
-<strong>Call for papers has not opened yet, but that doesn't mean you can't start thinking about what you want to propose. Follow us on Twitter to be notified when it opens: <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a></strong>
+There are four ways to propose a session:
+<ol>
+  <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
+  <li><strong><em>An Ignite talk</em></strong> that will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
+  <li>We are considering having <strong><em>workshops</em></strong> the day before the main conference, but we cannot promise it. So if you've got a good proposal, send it in, and we will consider it!"</li>
+
 <ul>
   <li><strong><em>An Ignite talk</em></strong> will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
   <li><strong><em>Open Space session</em></strong>: even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
@@ -35,3 +42,8 @@ Our main criteria to make it to the top selection are:
 </ul>
 
 <br>
+<p>Fill in the form below to propose your talk <b><a href="https://devopsdaysoslo.typeform.com/to/v1LcjK" target="_blank">Click here if you prefer a full-screen experience.</a></b></p>
+
+<div class="typeform-widget" data-url="https://devopsdaysoslo.typeform.com/to/v1LcjK" data-text="DevOpsDays Oslo 2017" style="width:100%;height:500px;"></div>
+
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
