@@ -5,14 +5,12 @@ event_twitter: "devopsdaysoslo"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
 #
-startdate:
-enddate:
-#startdate: 2017-09-05  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#enddate: 2017-09-06  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-11-01  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-11-02  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:
-cfp_date_end:
-cfp_date_announce:
+cfp_date_start: 2017-02-09
+cfp_date_end: 2017-08-01
+cfp_date_announce: 2017-08-15
 
 event_logo_square: "logo-square.jpg"
 
@@ -22,10 +20,10 @@ event_logo_square: "logo-square.jpg"
 
 # Location
 #
-coordinates: "59.913869,10.752245"
-#coordinates: "59.908029, 10.744314" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: Oslo
-#location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make it the venue name.
+#coordinates: "59.913869,10.752245"
+coordinates: "59.908029, 10.744314" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: Oslo
+location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -34,7 +32,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: speakers
   - name: propose
 #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -70,6 +68,12 @@ team_members: # Name is the only required field for team members.
 #    twitter: ""
 #    employer: ""
   - name: "Anders Bruvik"
+#    twitter: ""
+#    employer: ""
+  - name: "Hans Kristian Flaatten"
+#    twitter: ""
+#    employer: ""
+  - name: "Tor Magnus Castberg"
 #    twitter: ""
 #    employer: ""
 organizer_email: "organizers-oslo-2017@devopsdays.org" # Put your organizer email address here
