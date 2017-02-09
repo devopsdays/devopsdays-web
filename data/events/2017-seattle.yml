@@ -70,13 +70,13 @@ sponsors:
     level: gold
   - id: automic-seattle
     level: gold
+  - id: leankit
+    level: gold
   - id: victorops
     level: silver
   - id: netapp
     level: silver
   - id: spoken
-    level: bronze
-  - id: leankit
     level: bronze
   - id: seattle-devops-meetup
     level: community
