@@ -2,7 +2,7 @@
 City = "Oslo"
 Year = "2017"
 date = "2017-02-07"
-title = "Anders Sveen"
+title = "Jon Doe"
 type = "talk"
 
 +++

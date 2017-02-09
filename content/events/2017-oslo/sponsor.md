@@ -17,14 +17,12 @@ Sponsoring DevopsDays will give you the opportunity to network and build relatio
 
 Our sponsorship package are constructed to offer our sponsors lead generation, networking, branding, and talent recruitment.
 
-<!--
 <h2>Practical Information</h2>
 <ul>
-  <li>Date: TBA</li>
-  <li>Location: TBA</li>
+  <li>Date: {{< event_start >}} - {{< event_end >}}</li>
+  <li>Location: <a href="http://www.gamlemuseet.no/english/">Gamle Museet</a></li>
   <li>Expected attendee count: 200</li>
 </ul>
--->
 
 <!--
 <h3 id="sponsorship">Gold sponsor pack</h3>
