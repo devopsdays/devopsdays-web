@@ -1,6 +1,9 @@
 +++
-date = "2015-11-29T00:00:00-06:00"
-title = "speaking at devopsdays"
+Categories = []
+Description = ""
+Tags = []
+Date = "2017-01-31T13:04:25-05:00"
+Title = "Speaking at devopsdays"
 type = "cfp"
 
 +++

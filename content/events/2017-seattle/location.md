@@ -9,7 +9,6 @@ type = "event"
 <img style="max-width: 300px; float: left; margin: 0px 25px 25px 0px" src="/events/2017-seattle/mccaw_hall_03.jpg">
 
 
-
 ___[Marion Oliver McCaw Hall](https://www.mccawhall.com/plan-your-event/event-spaces/nesholm-family-lecture-hall) at Seattle Center is the region’s premier performance venue.___
 
 McCaw Hall opened in June 2003 as a $127 million renovation of the Seattle Opera House, made possible by a partnership between the Hall’s two world-class resident performing arts tenants, Pacific Northwest Ballet and Seattle Opera, along with Seattle Center and the Seattle Center Foundation. This partnership secured $55 million in public funds and over $72 million in private philanthropic gifts to make the Hall a reality. The Hall is owned by the City of Seattle and operated by Seattle Center, in accordance with a unique 25-year Operating Agreement with its resident tenants, which provides them with on-going oversight and shared responsibility for its operations and budget.
@@ -22,6 +21,7 @@ McCaw Hall encompasses the state-of-the-art 2,900-seat Susan Brotman Auditorium,
 
 Each year the Ballet and Opera present approximately 150 performances in McCaw Hall. In addition, the Hall hosts two productions of the Seattle Men’s Chorus annually, as well as a wide range of popular music concerts, lectures, corporate meetings, receptions, weddings, festival performances, community, and non-profit events.
 
-<div style="clear: both"></div>
+<div style="clear: both">
+</div>
 
 <!-- {{< event_map >}} -->

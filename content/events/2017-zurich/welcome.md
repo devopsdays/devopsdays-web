@@ -2,7 +2,7 @@
 date = "2016-07-20T13:45:44+02:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2017-zuerich"]
+aliases = ["/events/2017-zurich"]
 
 +++
 
@@ -46,7 +46,7 @@ aliases = ["/events/2017-zuerich"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    Call for proposals is now closed.
   </div>
 </div>
 

@@ -1,0 +1,67 @@
+name: "2017-kansascity" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2017" # The year of the event. Make sure it is in quotes.
+city: "Kansas City" # The city name of the event. Capitalize it.
+friendly: "2017-kansascity" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "current" # Options are "past" or "current". Use "current" for upcoming.
+
+# All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
+#startdate: 2016-10-20 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+#enddate: 2016-10-21  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+# Location
+#
+coordinates: "39.082920, -94.582451" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+#location: "Musical Theater Heritage" # Defaults to city, but you can make it the venue name.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+#  - name: program
+#  - name: speakers
+#  - name: location
+  - name: registration
+    url: https://devopsdayskc2017.eventbrite.com/?aff=website
+  - name: justification
+    url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
+#  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+- name: "Aaron Blythe"
+- name: "Dan Barker"
+- name: "CJ Obermaier"
+- name: "Ryan McNair"
+- name: "Tom Martin"
+- name: "Chris Stein"
+- name: "Chase Pettet"
+- name: "Bert Weidt"
+- name: "Josiah Berkebile"
+- name: "Rebecca Sowers"
+- name: "Caleb Hyde"
+organizer_email: "organizers-kansascity-2017@devopsdays.org" # Put your organizer email address here
+#proposal_email: "proposals-kansascity-2017@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+#sponsors:
+#  - id: pivotal
+#    level: gold
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+#speakers:
+#  - id: "charles-butler"
+#    level: talk

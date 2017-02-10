@@ -1,6 +1,7 @@
 name: "2017-indianapolis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Indianapolis" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysINDY"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -10,6 +11,8 @@ enddate:
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
+
+event_logo_square: "logo-square.jpg"
 
 # Location
 #
