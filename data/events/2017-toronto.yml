@@ -56,6 +56,8 @@ sponsors:
     level: gold
   - id: deloitte
     level: gold
+  - id: pivotal 
+    level: gold
   - id: sourcedgroup
     level: lunch
 
