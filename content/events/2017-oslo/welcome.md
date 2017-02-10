@@ -8,7 +8,9 @@ aliases = ["/events/2016-oslo"]
 
 <div style="text-align:center;">
 
-<p><h3>For the second time, DevOpsDays is coming to Oslo!</h3></p>
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
+
+<p><h3>For the second time, DevOpsDays is coming to Oslo!</h3></p
 
 </div>
 
