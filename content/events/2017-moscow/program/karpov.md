@@ -1,7 +1,7 @@
 +++
 date = "2016-12-16T14:40:46+03:00"
-linktitle = "boris-gerasin"
-title = "Boris Gerasin"
+linktitle = "karpov"
+title = "Andrey Karpov"
 type = "talk"
 
 +++
@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-Ignite 1: Борис Герасин, различия лицензий GPL, LGPL, Apache, MIT 
+Статический анализ кода тремя инструментами
 </p>
 
 
