@@ -42,7 +42,8 @@ team_members: # Name is the only required field for team members.
   - name: "Sayam Masood"
     twitter: "mixpix3ls"
   - name: "Matthew Perry"
-    twitter: "mlperry81" 
+    twitter: "mlperry81"
+  - name: "Eric Schremp" 
 
 organizer_email: "organizers-saint-louis-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-saint-louis-2017@devopsdays.org" # Put your proposal email address here
