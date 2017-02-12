@@ -74,8 +74,8 @@ sponsors:
     level: bronze
 #  - id: samsung-rd
 #    level: bronze
-#  - id: salesforce
-#    level: gold
+  - id: salesforce
+    level: gold
 #  - id: saucelabs
 #    level: gold
 #  - id: netapp
@@ -88,8 +88,6 @@ sponsors:
     level: coffee
   - id: demonware
     level: gold
-#  - id: deloitte
-#    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
