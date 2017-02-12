@@ -51,6 +51,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jarrod Lombardo"
   - name: "Colin Moller"
   - name: "Frederik Kuehn"
+  - name: "Kyle Young"
 organizer_email: "organizers-vancouver-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-vancouver-2017@devopsdays.org" # Put your proposal email address here
 
