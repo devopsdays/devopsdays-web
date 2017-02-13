@@ -2,7 +2,7 @@
 date = "2017-02-07"
 title = "welcome"
 type = "event"
-aliases = ["/events/2016-oslo"]
+aliases = ["/events/2017-oslo"]
 
 +++
 
