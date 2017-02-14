@@ -93,6 +93,8 @@ sponsors:
     level: gold
   - id: puzzle-itc
     level: bronze
+  - id: container-solutions
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
