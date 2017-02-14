@@ -30,7 +30,7 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
     <strong>Tickets</strong>
   </div>
   <div class = "col-md-8">
-    [Tickets are now availible. Early Bird ends on Feb 11th so get yours today!](https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364)
+    [Tickets are now availible](https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364)
   </div>
 </div>
 <div class = "row">

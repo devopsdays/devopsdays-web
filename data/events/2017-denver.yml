@@ -41,6 +41,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: social
   - id: netapp
     level: gold
+  - id: thoughtworks-products
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: software-freedom-school
+    level: bronze
   - id: signalsciences
     level: community
 
