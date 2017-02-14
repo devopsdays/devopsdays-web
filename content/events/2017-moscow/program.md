@@ -23,8 +23,8 @@ type = "event"
 <strong>Ignite:</strong>
 <ol>
   <li><a href="/events/2017-moscow/program/boris-gerasin">Борис Герасин (Сколково), различия лицензий GPL, LGPL, Apache, MIT</a></li>
-  <li><a href="/events/2017-moscow/program/leon-fayer3">Leon Fayer, должны ли программисты быть oncall</a></li>
-  <li><a href="/events/2017-moscow/program/rjd">РЖД, История о двух красавицах и одной проектной команде в 600 голосов или Как гибкие методологии помогают HR-службе РЖД заботиться о 5000 разработчиках</a></li>
+  <li><a href="/events/2017-moscow/program/leon-fayer3">Leon Fayer, What DevOps is NOT (Чем DevOps НЕ является)</a></li>
+  <li><a href="/events/2017-moscow/program/denisova">Elena Denisova (РЖД), Как гибкие методологии помогли HR-службе ГВЦ РЖД внедрить проект на 5000 разработчиков всего лишь за 12 месяцев</a></li>
   <li><a href="/events/2017-moscow/program/Kutakov">Павел Кутаков(Столото): DevNull. Как современные облачные платформы сводят объем Operations к минимуму</a></li>
   <li>Ignite 5: TBD</li>
   <li>Ignite 6: TBD</li>
@@ -36,7 +36,7 @@ type = "event"
 <strong>Доклады:</strong>
 <ol>
   <li><a href="/events/2017-moscow/program/JandeVries">Jan de Vries, Antifragility applied to DevOps. And to your life</a></li>
-  <li><a href="/events/2017-moscow/program/alexleyn">Александр Лейн (QIWI), Как избавиться от человека?</a></li>
+  <li><a href="/events/2017-moscow/program/alexleyn">Александр Лэйн (QIWI), Как избавиться от человека?</a></li>
   <li><a href="/events/2017-moscow/program/konstantin-nazarov">Константин Назаров (Tarantool), Building a PaaS with Docker, Consul and Python</a></li>
   <li><a href="/events/2017-moscow/program/anton-ivanov">Антон Иванов (HH.ru), Как команда SRE делает HeadHunter стабильным</a></li>
   <li><a href="/events/2017-moscow/program/sergei-egorov">Сергей Егоров (ZeroTurnaround), How to stop being a DevOps engineer</a></li>
@@ -51,7 +51,7 @@ type = "event"
   <li><a href="/events/2017-moscow/program/neradovskiy">Константин Нерадовский, (Банк Открытие) Укрощение слона в посудной лавке. Новый MS TFS в большой организации</a></li>
   <li><a href="/events/2017-moscow/program/Vetchinkin">Кирилл Ветчинкин (TYME), Практики DevOps при разработке большого проекта на примере Мегафон Банк API</a></li>
   <li><a href="/events/2017-moscow/program/MichaelKoltsov">Michaił Kołcow (Grand Parade), How Mesos has shaped my life as DevOps</a></li>
-  <li>Алик Курдюков (United Traders), DevOps для windows на базе ansible</li>
+  <li><a href="/events/2017-moscow/program/kurdyukov">Алик Курдюков (United Traders), DevOps для windows на базе ansible</a></li>
   <li>Николай Кныш (Raiffeisenbank), Внедрение DevOps в большой организации: в новый век за 1 год</li>
   <li>Marchin Wielgus (Google): Introduction to Kubernetes</li>
   <li><a href="/events/2017-moscow/program/Vakhov">Алексей Вахов (Учи.ру), Развитие DevOps-культуры в компании Учи.ру</a></li>

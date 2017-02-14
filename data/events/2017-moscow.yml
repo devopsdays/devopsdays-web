@@ -49,6 +49,8 @@ sponsors:
 # media
   - id: sbertech
     level: platinum
+  - id: aligntech
+    level: silver
   - id: Logrocon
     level: media
   - id: Express42
@@ -86,6 +88,8 @@ sponsors:
   - id: technopolis
     level: venuesponsor
   - id: alpina
+    level: reading
+  - id: mif
     level: reading
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
