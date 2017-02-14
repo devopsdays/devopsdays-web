@@ -18,6 +18,14 @@ If a participant engages in harassing behavior, the conference organizers may ta
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
+At Amsterdam we have staff dedicated to handle these incidents, please contact them via phone (WhatsApp, call, SMS):
+ 
+Kerim Satirli - +31 6 38 06 70 78
+Gerard DeVos - +31 6 47 43 00 94
+Mine Heck - +31 6 55 85 27 18
+
+You can also DM our Twitter handle {{< event_twitter devopsams >}}.
+
 Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
