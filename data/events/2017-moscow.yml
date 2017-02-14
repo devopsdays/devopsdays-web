@@ -49,6 +49,8 @@ sponsors:
 # media
   - id: sbertech
     level: platinum
+  - id: aligntech
+    level: silver
   - id: Logrocon
     level: media
   - id: Express42

@@ -23,7 +23,7 @@ type = "event"
 <strong>Ignite:</strong>
 <ol>
   <li><a href="/events/2017-moscow/program/boris-gerasin">Борис Герасин (Сколково), различия лицензий GPL, LGPL, Apache, MIT</a></li>
-  <li><a href="/events/2017-moscow/program/leon-fayer3">Leon Fayer, должны ли программисты быть oncall</a></li>
+  <li><a href="/events/2017-moscow/program/leon-fayer3">Leon Fayer, What DevOps is NOT (Чем DevOps НЕ является)</a></li>
   <li><a href="/events/2017-moscow/program/denisova">Elena Denisova (РЖД), Как гибкие методологии помогли HR-службе ГВЦ РЖД внедрить проект на 5000 разработчиков всего лишь за 12 месяцев</a></li>
   <li><a href="/events/2017-moscow/program/Kutakov">Павел Кутаков(Столото): DevNull. Как современные облачные платформы сводят объем Operations к минимуму</a></li>
   <li>Ignite 5: TBD</li>
