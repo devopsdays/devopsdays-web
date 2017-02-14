@@ -36,8 +36,8 @@ team_members: # Name is the only required field for team members.
   - name: "Jordan Schwartz"
   - name: "Lars Lehtonen"
 
-organizer_email: "devopsdayla-planning@googlegroups.com"
-proposal_email: "devopsdayla-planning@googlegroups.com"
+organizer_email: "organizers-los-angeles-2017@devopsdays.org"
+proposal_email: "organizers-los-angeles-2017@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
