@@ -52,6 +52,10 @@ sponsors:
     level: sponsor
   - id: opsgenie
     level: sponsor
+  - id: collabnet
+    level: sponsor
+  - id: threatstack
+    level: sponsor
   - id: 2017-openx
     level: lanyard
 
