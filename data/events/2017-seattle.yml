@@ -72,11 +72,15 @@ sponsors:
     level: gold
   - id: leankit
     level: gold
+  - id: vmware
+    level: gold
   - id: victorops
     level: silver
   - id: netapp
     level: silver
   - id: spoken
+    level: bronze
+  - id: rei
     level: bronze
   - id: seattle-devops-meetup
     level: community
