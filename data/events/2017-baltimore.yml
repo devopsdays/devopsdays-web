@@ -101,6 +101,10 @@ sponsors:
     level: platinum
   - id: pivotal
     level: platinum
+  - id: hpe
+    level: platinum
+  - id: columnpuppet
+    level: platinum
   - id: dynatrace
     level: gold
   - id: acesinc
@@ -112,6 +116,8 @@ sponsors:
   - id: arresteddevops
     level: media
   - id: technically-baltimore
+    level: media
+  - id: sdtp
     level: media
   - id: spark
     level: community
