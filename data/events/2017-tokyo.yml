@@ -22,9 +22,9 @@ location: "大崎ブライトコアホール" # Defaults to city, but you can ma
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: propose
+    url: https://confengine.com/devopsdays-tokyo-2017
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -58,13 +58,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-#  - id: gold
-#    label: Gold
-#    max: 10
-#  - id: silver
-#    label: Silver
-#    max: 0 # This is the same as omitting the max limit.
-#  - id: bronze
-#    label: Bronze
-#  - id: community
-#    label: Community
+  - id: gold
+    label: Gold
+    max: 2
+  - id: silver
+    label: Silver
+    max: 5
+  - id: bronze
+    label: Bronze
