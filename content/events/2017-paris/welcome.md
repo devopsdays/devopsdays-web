@@ -110,4 +110,4 @@ discussions from industry practitioners and taste-makers.
 <br />
 <br />
 <!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdaysrex >}}
+{{< event_twitter devopsrex >}}
