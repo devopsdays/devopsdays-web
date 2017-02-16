@@ -107,6 +107,8 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: gold
+  - id: techtowntraining
+    level: gold
   - id: acesinc
     level: silver
   - id: bookerdimaio
@@ -134,6 +136,8 @@ sponsors:
   - id: ladies-that-ux-bmore
     level: community
   - id: innovation-village-baltimore
+    level:  community
+  - id: bw-postgres-usergroup
     level:  community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
