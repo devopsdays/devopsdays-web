@@ -41,7 +41,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: social
   - id: netapp
     level: gold
-  - id: thoughtworks-products
+  - id: gocd
     level: gold
   - id: pivotal
     level: gold
