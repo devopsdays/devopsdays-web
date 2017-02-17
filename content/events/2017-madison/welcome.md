@@ -9,11 +9,11 @@ aliases = ["/events/2017-madison"]
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**devopsdays is coming to {{< event_location >}}!**
+**We are excited to bring DevOps Days back to {{< event_location >}}! We are once again hoping to host this event at The Overture Center for the Arts in early November; however, we can not book the venue until March. Please check this space for updates!**
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -88,6 +88,4 @@ aliases = ["/events/2017-madison"]
 </div>
 
 <!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->
+{{< event_twitter devopsdaysmsn >}}
