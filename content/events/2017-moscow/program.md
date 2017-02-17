@@ -52,7 +52,8 @@ type = "event"
   <li><a href="/events/2017-moscow/program/Vetchinkin">Кирилл Ветчинкин (TYME), Практики DevOps при разработке большого проекта на примере Мегафон Банк API</a></li>
   <li><a href="/events/2017-moscow/program/MichaelKoltsov">Michaił Kołcow (Grand Parade), How Mesos has shaped my life as DevOps</a></li>
   <li><a href="/events/2017-moscow/program/kurdyukov">Алик Курдюков (United Traders), DevOps для windows на базе ansible</a></li>
-  <li>Николай Кныш (Raiffeisenbank), Внедрение DevOps в большой организации: в новый век за 1 год</li>
+  <li><a href="/events/2017-moscow/program/knish">Николай Кныш (Raiffeisenbank), Внедрение DevOps в большой организации: в новый век за 1 год</a>
+  <a href="/events/2017-moscow/program/murashkin">Роман Мурашкин (Raiffeisenbank), Внедрение DevOps в большой организации: в новый век за 1 год</a></li>
   <li>Marchin Wielgus (Google): Introduction to Kubernetes</li>
   <li><a href="/events/2017-moscow/program/Vakhov">Алексей Вахов (Учи.ру), Развитие DevOps-культуры в компании Учи.ру</a></li>
 </ol>
