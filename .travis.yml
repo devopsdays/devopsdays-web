@@ -1,5 +1,4 @@
-sudo: required
-dist: trusty
+sudo: false
 language: go
 install: go get -v github.com/spf13/hugo
 # before_install:
