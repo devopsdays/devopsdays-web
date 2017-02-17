@@ -2,13 +2,13 @@ sudo: required
 dist: trusty
 language: go
 install: go get -v github.com/spf13/hugo
-before_install:
-- sudo apt-get update
-- sudo apt-get install nodejs
-- sudo apt-get install npm
-before_script:
-- npm install -g gulp
-- npm install
+# before_install:
+# - sudo apt-get update
+# - sudo apt-get install nodejs
+# - sudo apt-get install npm
+# before_script:
+# - npm install -g gulp
+# - npm install
 script:
   - hugo
-  - gulp min-html
+  # - gulp min-html
