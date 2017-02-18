@@ -67,6 +67,8 @@ sponsors:
     level: platinum
   - id: hpe
     level: gold
+  - id: veritas
+    level: silver
 
 sponsors_accepted : "yes"
 
