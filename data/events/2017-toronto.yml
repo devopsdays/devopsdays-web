@@ -56,10 +56,14 @@ sponsors:
     level: gold
   - id: deloitte
     level: gold
-  - id: pivotal 
+  - id: pivotal
+    level: gold
+  - id: hpe
     level: gold
   - id: sourcedgroup
     level: lunch
+  - id: dealer-fx
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
