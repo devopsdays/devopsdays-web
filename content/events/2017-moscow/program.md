@@ -54,7 +54,7 @@ type = "event"
   <li><a href="/events/2017-moscow/program/kurdyukov">Алик Курдюков (United Traders), DevOps для windows на базе ansible</a></li>
   <li><a href="/events/2017-moscow/program/knish">Николай Кныш (Raiffeisenbank), Внедрение DevOps в большой организации: в новый век за 1 год</a>
   <a href="/events/2017-moscow/program/murashkin">Роман Мурашкин (Raiffeisenbank), Внедрение DevOps в большой организации: в новый век за 1 год</a></li>
-  <li>Marchin Wielgus (Google): Introduction to Kubernetes</li>
+  <li><a href="/events/2017-moscow/program/marcinwielgus">Marchin Wielgus (Google): Introduction to Kubernetes</a></li>
   <li><a href="/events/2017-moscow/program/Vakhov">Алексей Вахов (Учи.ру), Развитие DevOps-культуры в компании Учи.ру</a></li>
 </ol>
 
