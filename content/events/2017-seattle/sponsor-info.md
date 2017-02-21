@@ -29,7 +29,9 @@ Information about the venue can be found at https://www.devopsdays.org/events/20
 This year’s event is on Wednesday, Apr 26, 2017 and Thursday, Apr 27, 2017
 
 The schedule for the day is at https://www.devopsdays.org/events/2017-seattle/program/ - As of this writing (21 February 2017) the times are not final! The start and finish times are unlikely to change very much, but the session schedule will.
-Access to the venue for setup will be at 7AM on day one. You’ll want to be ready to go when attendee registration opens at 8AM.
+
+##### Access to the venue for setup will be at 7AM on day one. You’ll want to be ready to go when attendee registration opens at 8AM.
+
 Tear down is after the last break on day two.
 
 Please don’t tear down early!
