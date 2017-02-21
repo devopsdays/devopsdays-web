@@ -95,6 +95,8 @@ sponsors:
     level: media
   - id: praim
     level: media
+  - id: hotwork
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
