@@ -22,6 +22,7 @@ location: "Zürich Winterthur" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
+#  - name: talks
   - name: speakers
 # - name: program
 # - name: propose
