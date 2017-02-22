@@ -64,9 +64,6 @@ team_members:
   - name: "Matt Greensmith"
     twitter: "mgreensmith"
     employer: "Cozy"
-  - name: "Tim Smith"
-    twitter: "tas50"
-    employer: "Chef"
   - name: "Megan Guiney"
 
 organizer_email: "organizers-portland-2017@devopsdays.org" # Put your organizer email address here
