@@ -70,6 +70,16 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: solarwinds
+    level: gold
+  - id: sentry
+    level: gold
+  - id: newiron
+    level: gold
+  - id: chef
+    level: gold
+  - id: duo
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
