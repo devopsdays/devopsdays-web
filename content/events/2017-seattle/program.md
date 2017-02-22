@@ -220,7 +220,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+        <a href="/events/2017-seattle/program/jez-humble/">Jez Humble - Continuous Delivery Sounds Great But It Won’t Work Here</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

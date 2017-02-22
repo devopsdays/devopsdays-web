@@ -9,7 +9,7 @@ type = "talk"
 <div class="span-15  ">
   <div class="span-15  last ">
   <p><strong>Title:</strong>
-Open Source != Free Software
+Ignite 1: Борис Герасин, различия лицензий GPL, LGPL, Apache, MIT 
 </p>
 
 

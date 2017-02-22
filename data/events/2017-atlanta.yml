@@ -12,8 +12,6 @@ cfp_date_start:  2017-01-05
 cfp_date_end:  2017-02-27
 cfp_date_announce:  2017-03-01
 
-event_logo_square: "logo-square.jpg"
-
 # Location
 #
 coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
