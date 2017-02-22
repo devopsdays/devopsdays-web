@@ -97,6 +97,8 @@ sponsors:
     level: media
   - id: hotwork
     level: media
+  - id: mailru
+    level: internet
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -123,7 +125,10 @@ sponsor_levels:
     label: Reading
   - id: media
     label: Media
+  - id: internet
+    label: General Internet
   - id: community
     label: Community
+
   
   
