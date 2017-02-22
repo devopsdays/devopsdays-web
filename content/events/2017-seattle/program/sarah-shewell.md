@@ -1,7 +1,7 @@
 +++
 City = "Seattle"
 Year = "2017"
-title = "Sarah Shewell"
+title = "Sarah Shewell and Suzanne Nielsen"
 type = "talk"
 
 +++
@@ -12,8 +12,6 @@ type = "talk"
   <h3>
   From Waterfall to River – A story of transitioning to flow
 </h3>
-
-
 
 The on-going journey of a transition from quarterly batched releases and teams working in silos to our target state of a mature DevOps organization from two points of view.  Suzanne is our long term employee and Application Development Manager. Sarah is a new employee to Starbucks working daily with the teams as a scrum master and transformation coach on this DevOps journey.
 
