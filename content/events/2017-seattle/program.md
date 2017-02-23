@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/jeffery-smith/">Jeffery Smith</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/julia-wester/">Julia Wester</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/nell-shamrell-harrington/">Nell Shamrell-Harrington</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -180,7 +180,7 @@ type = "event"
         <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Party at Chef HQ! Lyft code available!</strong>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -238,7 +238,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/sarah-shewell/">Sarah Shewell</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +256,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/scott-nasello/">Scott Nasello</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +274,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/suzie-prince/">Suzie Prince</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
