@@ -117,9 +117,18 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
+    <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
         <time>13:00-13:30</time>
+      </div>
+      <div class = "col-md-6 box">
+        Talk 9
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
@@ -128,7 +137,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -138,7 +147,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -148,7 +157,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -158,7 +167,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -168,7 +177,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>16:55-17:15</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Logistics
@@ -286,10 +295,17 @@ type = "event"
         Lunch (catered)
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
         <time>13:00-13:30</time>
+      </div>
+      <div class = "col-md-6 box">
+        Talk 10
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
@@ -298,7 +314,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -308,7 +324,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -318,7 +334,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -328,7 +344,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -341,6 +357,7 @@ type = "event"
         <time>17:00</time>
       </div>
       <div class = "col-md-6 box">
+        Sponsor Drawings! Collect your winnings!
         Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
