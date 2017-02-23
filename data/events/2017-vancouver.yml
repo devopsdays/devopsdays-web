@@ -70,12 +70,12 @@ sponsors:
     level: bronze
   - id: itglue
     level: bronze
-#  - id: samsung-rd
-#    level: bronze
+  - id: samsung-rd
+    level: bronze
   - id: salesforce
     level: gold
-#  - id: saucelabs
-#    level: gold
+  - id: saucelabs
+    level: gold
 #  - id: netapp
 #    level: silver
   - id: automic-vancouver
@@ -85,6 +85,14 @@ sponsors:
   - id: ea
     level: coffee
   - id: demonware
+    level: gold
+  - id: scalar
+    level: silver
+  - id: victorops
+    level: gold
+#  - id: opsgenie
+#    level: bronze
+  - id: trinimbus
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -48,7 +48,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: dell
     level: gold
+  - id: sumologic
+    level: gold
   - id: software-freedom-school
+    level: bronze
+  - id: aspe
     level: bronze
   - id: signalsciences
     level: community
