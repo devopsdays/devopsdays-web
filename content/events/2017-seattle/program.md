@@ -68,7 +68,8 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-seattle/program/jeffery-smith/">Jeffery Smith</a>
+        <a href="/events/2017-seattle/program/nell-shamrell-harrington/">Nell Shamrell-Harrington - DevOps in Politics
+</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +87,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-seattle/program/julia-wester/">Julia Wester</a>
+        <a href="/events/2017-seattle/program/scott-nasello/">Scott Nasello - Columbia's DevOps journey within a Microsoft Enterprise</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +105,8 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-seattle/program/nell-shamrell-harrington/">Nell Shamrell-Harrington</a>
+        <a href="/events/2017-seattle/program/suzie-prince/">Suzie Prince - Continuous Integration: a bittersweet love story.
+</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -117,13 +119,12 @@ type = "event"
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
-    <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 9
+        <a href="/events/2017-seattle/program/aaron-aldrich/">Aaron Aldrich - Managing Fires: Leadership through Crisis</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
@@ -247,7 +248,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-seattle/program/sarah-shewell/">Sarah Shewell</a>
+        <a href="/events/2017-seattle/program/sarah-shewell/">Sarah Shewell and Suzanne Nielsen - From Waterfall to River – A story of transitioning to flow</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -265,7 +266,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-seattle/program/scott-nasello/">Scott Nasello</a>
+        <a href="/events/2017-seattle/program/jeffery-smith/">Jeffery Smith - How to elevate your contributions as an Ops Engineer</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -283,7 +284,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-seattle/program/suzie-prince/">Suzie Prince</a>
+        <a href="/events/2017-seattle/program/julia-wester/">Julia Wester - Taming the chaos: After the quick wins</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -300,7 +301,7 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        Talk 10
+        <a href="/events/2017-seattle/program/terrance-ryan/">Terrance Ryan - Driving Technical Change</a>
       </div>
     </div> <!-- end timeslot div -->
     <div class = "row">
