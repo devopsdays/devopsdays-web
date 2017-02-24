@@ -68,7 +68,8 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/nell-shamrell-harrington/">Nell Shamrell-Harrington - DevOps in Politics
+</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +87,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/scott-nasello/">Scott Nasello - Columbia's DevOps journey within a Microsoft Enterprise</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +105,8 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/suzie-prince/">Suzie Prince - Continuous Integration: a bittersweet love story.
+</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,13 +124,21 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
+        <a href="/events/2017-seattle/program/aaron-aldrich/">Aaron Aldrich - Managing Fires: Leadership through Crisis</a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:30-14:00</time>
+      </div>
+      <div class = "col-md-6 box">
         <strong>Ignites</strong>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -138,7 +148,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -148,7 +158,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -158,7 +168,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -168,7 +178,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:45-17:00</time>
+        <time>16:55-17:15</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Logistics
@@ -180,7 +190,7 @@ type = "event"
         <time>19:00-late</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
+        <strong>Party at Chef HQ! Lyft code available!</strong>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -238,7 +248,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/sarah-shewell/">Sarah Shewell and Suzanne Nielsen - From Waterfall to River – A story of transitioning to flow</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +266,7 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/jeffery-smith/">Jeffery Smith - How to elevate your contributions as an Ops Engineer</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +284,7 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        To Be Announced
+        <a href="/events/2017-seattle/program/julia-wester/">Julia Wester - Taming the chaos: After the quick wins</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -286,10 +296,17 @@ type = "event"
         Lunch (catered)
       </div>
     </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
         <time>13:00-13:30</time>
+      </div>
+      <div class = "col-md-6 box">
+        <a href="/events/2017-seattle/program/terrance-ryan/">Terrance Ryan - Driving Technical Change</a>
+      </div>
+    </div> <!-- end timeslot div -->
+    <div class = "row">
+      <div class = "col-md-4">
+        <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
@@ -298,7 +315,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -308,7 +325,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -318,7 +335,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -328,7 +345,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space</strong><br />
@@ -341,6 +358,7 @@ type = "event"
         <time>17:00</time>
       </div>
       <div class = "col-md-6 box">
+        Sponsor Drawings! Collect your winnings!
         Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
