@@ -66,6 +66,16 @@ team_members: # Name is the only required field for team members.
   - name: "Victoria Guido"
     twitter: "victorialguido"
     employer: "Blackstone Technology Group"
+  - name: "Jason Simpson"
+    twitter: "jfsimpson1"
+    employer: "Netuitive"
+  - name: "Robert Treat"
+    twitter: "robtreat2"
+    employer: "OmniTI"
+  - name: "Jake Vanderdray"
+    twitter: "clumpidy"
+    employer: "CustomInk"
+
 organizer_email: "organizers-washington-dc-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-washington-dc-2017@devopsdays.org" # Put your proposal email address here
 
