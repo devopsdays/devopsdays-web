@@ -107,16 +107,16 @@ Please contact us at {{< email_organizers >}}.
 <td>Shared table for swag</td>
 <td class="no"> </td>
 <td class="no"> </td>
-<td class="no"> </td>
 <td class="yes"> </td>
+<td class="no"> </td>
 <td class="no"> </td>
 </tr>
 <tr>
-<td>Dedicated table in preferred location for swag</td>
+<td>Dedicated table for swag</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
-<td class="no"> </td>
+<td class="yes"> </td>
 <td class="yes"> </td>
 </tr>
 </tbody>
