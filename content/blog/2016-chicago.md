@@ -1,9 +1,10 @@
 +++
 Categories = []
-Description = ""
+Description = "[DevOpsDays Chicago](https://devopsdays.org/events/2016-chicago) took place on August 30th & 31st at Summit West in beautiful downtown Chicago. A sold-out, diverse crowd gathered for keynotes, presentations, lightning talks, and open spaces to learn, discuss, and promote all things DevOps."
 Tags = []
 date = "2016-12-12T16:31:00-06:00"
 title = "Chicago 2016 in review"
+Author = "Matt Stratton"
 
 +++
 
