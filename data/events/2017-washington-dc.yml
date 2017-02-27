@@ -24,7 +24,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -35,11 +35,14 @@ team_members: # Name is the only required field for team members.
   - name: "Nathen Harvey"
     twitter: "nathenharvey"
     employer: "Chef"
-  - name: "Alan Kraft"
-    employer: "United States Patent and Trademark Office (USPTO)"
   - name: "Michael Barbine"
     twitter: "BigNerdLoLz"
     employer: "Barbine Worldwide"
+  - name: "Holly Bazemore"
+    twitter: "hfbazemore"
+    employer: Comcast
+  - name: "Mark Cornick"
+    employer: "Cava"
   - name: "Jeffrey Damick"
     twitter: "jeffreydamick"
     employer: "CapitalOne"
@@ -52,6 +55,8 @@ team_members: # Name is the only required field for team members.
   - name: "Jeff Gallimore"
     twitter: "jgallimore"
     employer: "Excella Consulting"
+  - name: "Alan Kraft"
+    employer: "United States Patent and Trademark Office (USPTO)"
   - name: "James Martin"
     twitter: "grepless"
     employer: "3M"
@@ -67,6 +72,8 @@ proposal_email: "proposals-washington-dc-2017@devopsdays.org" # Put your proposa
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: capitalone
+    level: location_and_platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -75,13 +82,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: location_and_platinum
+    label: Location and Platinum
+    max: 1
   - id: platinum
     label: Platinum
   - id: gold
     label: Gold
   - id: silver
     label: Silver
-  - id: media
-    label: Media
   - id: community
     label: Community
+  - id: media
+    label: Media
