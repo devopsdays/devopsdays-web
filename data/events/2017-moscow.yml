@@ -45,6 +45,10 @@ proposal_email: "proposals-moscow-2016@devopsdays.org" # Put your proposal email
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 # media
+  - id: sbertech
+    level: platinum
+  - id: aligntech
+    level: silver
   - id: Logrocon
     level: media
   - id: Express42
@@ -81,6 +85,18 @@ sponsors:
     level: Networking
   - id: technopolis
     level: venuesponsor
+  - id: alpina
+    level: reading
+  - id: mif
+    level: reading
+  - id: vhpro
+    level: media
+  - id: praim
+    level: media
+  - id: hotwork
+    level: media
+  - id: mailru
+    level: internet
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -103,8 +119,14 @@ sponsor_levels:
     label: Venue
   - id: hrsponsor
     label: HR
+  - id: reading
+    label: Reading
   - id: media
     label: Media
+  - id: internet
+    label: General Internet
   - id: community
     label: Community
+
+  
   

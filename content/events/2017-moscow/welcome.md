@@ -2,7 +2,7 @@
 date = "2016-09-05T09:42:50+03:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2016-moscow"]
+aliases = ["/events/2017-moscow"]
 
 +++
 

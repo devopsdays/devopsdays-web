@@ -20,7 +20,11 @@ location: "Zürich Winterthur" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: talks
+  - name: speakers
+# - name: program
+# - name: propose
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
   - name: sponsor
@@ -86,6 +90,10 @@ sponsors:
     level: silver
   - id: xebialabs
     level: gold
+  - id: puzzle-itc
+    level: bronze
+  - id: container-solutions
+    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
