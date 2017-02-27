@@ -97,6 +97,14 @@ sponsors:
     level: media
   - id: mailru
     level: internet
+  - id: beameio
+    level: silver
+  - id: redhat
+    level: gold
+  - id: cnews
+    level: media
+  - id: hotelmilan
+    level: accommodation
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,6 +121,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: internet
+    label: General Internet
   - id: Networking
     label: Networking
   - id: venuesponsor
@@ -123,10 +133,10 @@ sponsor_levels:
     label: Reading
   - id: media
     label: Media
-  - id: internet
-    label: General Internet
   - id: community
     label: Community
+  - id: accommodation
+    label: Accommodation
 
   
   
