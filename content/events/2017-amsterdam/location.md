@@ -33,10 +33,9 @@ More information can be obtained by using the [GVB](http://en.gvb.nl/) or [9292]
 You can purchase an "OV chipkaart" at Amsterdam Centraal and most large metro stations (including Schiphol). Note that the unattended machines do not handle non-EU issued (e.g. Chip+Signature) cards well. Some U.S. Credit Unions now offer Chip+Pin technology on their *debit* card (note: not *credit* card). If your card doesn't work or want to use Euros (other than coins), there is a customer service center located on the "IJ side" of Amsterdam Centraal where you can purchase a chipkaart in person at the [Service Office](https://www.nsinternational.nl/en/tickets-services/opening-hours-ticket-and-service-shops "Link to NS International Service Office"). If you're arriving via Schiphol - a similar service is offered in the main train hall
 
 #### Alternative methods of transportation
-- [Uber](https://www.uber.com/)  
+- [Taxis](http://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around/taxis)
 - [Rent A Bike](http://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around/rental/bike-hire)  
-- And if you want must -- [Taxis](http://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around/taxis)
-
+- [Uber](https://www.uber.com/)  
 
 ### Accommodations
 Amsterdam has amazing hotels and incredible amount of Airbnbs spread out all over the city that allows you to experience life as an Amsterdammer (Beware of the dark red bike paths!). Besides Airbnbs, here is a list of hotels that are near to the [Pakhuis de Zwijger](http://www.dezwijger.nl/ "Website of Pakhuis de Zwijger").
