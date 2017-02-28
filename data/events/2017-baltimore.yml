@@ -143,6 +143,8 @@ sponsors:
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: happyhour
+    label: Happy Hour
   - id: platinum
     label: Platinum
   - id: gold
