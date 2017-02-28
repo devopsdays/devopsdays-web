@@ -43,6 +43,9 @@ team_members: # Name is the only required field for team members.
     employer: Comcast
   - name: "Mark Cornick"
     employer: "CAVA"
+  - name: "Derek Daczewitz"
+    twitter: "derekdaczewitz"
+    employer: "Spaceflight Industries"
   - name: "Jeffrey Damick"
     twitter: "jeffreydamick"
     employer: "CapitalOne"
