@@ -131,12 +131,13 @@ sponsor_levels:
     label: HR
   - id: reading
     label: Reading
+  - id: accommodation
+    label: Accommodation
   - id: media
     label: Media
   - id: community
     label: Community
-  - id: accommodation
-    label: Accommodation
+
 
   
   
