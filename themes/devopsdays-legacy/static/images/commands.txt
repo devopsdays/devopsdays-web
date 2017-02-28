@@ -1,0 +1,1 @@
+/opt/local/bin/convert -resize 50% -interlace png -resample 72x72 -strip bridging-the-gap.png -background white -flatten bridging-the-gap-header.jpg

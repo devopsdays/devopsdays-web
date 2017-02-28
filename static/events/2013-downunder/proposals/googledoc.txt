@@ -1,0 +1,405 @@
+"votes","type","url","author","title","description","voter1"
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Your Agile Performance Testing Checklist MultiMechanize Bees with Machine Guns PageSpeed and AppDynamics/","Dustin Whittle","Your Agile Performance Testing Checklist: MultiMechanize, Bees with Machine Guns, PageSpeed and AppDynamics","Abstract:
+
+The performance of your application affects your business more than you might think. Top engineering organizations think of performance not as a nice-to-have, but as a crucial feature of their product. Those organizations understand that performance has a direct impact on user experience and, ultimately, their bottom line. Unfortunately, most engineering teams do not regularly test the performance and scalability of their infrastructure. Join this session to find out about the latest performance testing tools and why your team should add performance testing to your agile development process. We will dive in to how to evaluate performance and scalability with MultiMechanize, Bees with Machine Guns, and Google PageSpeed. In addition, we&rsquo;ll look at how to track the impact of every release with AppDynamics. You will leave this session with an understanding of how to automate performance testing and evaluate the impact it has on performance and your business.
+
+Agenda:
+
+
+Why performance matters?
+What was the performance impact the last release?
+What about the impact of that configuration change or package upgrade?
+Case studies on business impact of performance at Google/AOL/Shopzilla
+Tools of the trade
+MultiMechanize
+Bees with Machine Guns
+Google PageSpeed
+AppDynamics
+Best practices
+Server Side
+Client Side
+Integrating into your process
+develop -&gt; test -&gt; deploy -&gt; rinse &amp; repeat
+
+
+
+Speaker:
+Dustin Whittle
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Using AWS to enable development teams/","Luke Chadwick","Using AWS to enable development teams","Abstract:
+
+At REA we have been on a long journey to enable our development teams. From one development and one test environment shared between all the teams, an environment that was hand rolled and frequently broken, to hundreds of automatically provisioned EC2 instances.
+
+From Continuous Delivery to spinning up arbitrary environments for development and testing purposes, being able to automatically provision an entire (production like) stack has changed the way we work. Using AWS has enabled teams to be more agile and efficient.
+
+Lessons have been learned, both at an technical level, but also team and organizational dynamics. I would like to share the challenges that we have faced, and the tools we have developed to aid in our management of our development cloud.
+
+Speaker:
+Luke Chadwick
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/There_is_no_talent_shortage/","Andrew Clay Shafer","There is no talent shortage","Abstract:
+
+Many organizations believe they are in a struggle to recruit and retain technical talent.
+While most recognize the time new hires require to become productive, very few organizations have a training component built into their onboarding, and even less emphasize learning as part of the ongoing process.
+The evidence suggests learning cultures have significant advantages, not only in productivity and quality, but also in attracting and retaining the best people, yet many seem reluctant to invest.  Or maybe they just don't know how?
+This talk will present a combination of research on learning and culture together with personal anecdotes from my career as a developer, manager, founder, tutor and consultant about the impact of learning on people and organizations.
+The goal is to outline a framework for self assessment of organizational learning and actionable recommendations to address deficiencies.
+
+Speaker:
+
+As a co-founder at Puppet Labs with a background in Agile development, Andrew Clay Shafer devops'd before devops had a name.
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/The devops journey that transformed REA/","Javier Turegano","The devops journey that transformed REA","Abstract:
+
+REA group, which runs between others realestate.com.au, realcommercial.com.au, casa.it and athome.lu websites, has been involved in an interesting transformation process following the Devops principles in the last years that has changed completely the way we do operations.
+
+From completed isolated worlds, delivery and operations, to a much more efficient approach which continues to evolve every day in this talk we will cover some of the key elements for this transformation including cultural and technical aspects that helped us during the journey and which ones make it hard.
+
+Speaker:
+Javier Turegano
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/The devops field guide to cognitive biases/","Lindsay Holmwood","The devops field guide to cognitive biases","Abstract:
+
+As devops practitioners we focus on improving the culture of
+collaboration so that others play nicely with us &amp; we play nicely with
+others - but what if the biggest thing holding us back from change is
+our own brains?
+
+Cognitive biases can deeply affect our behaviours towards others by
+herding us towards mental shortcuts that are optimised for timeliness
+over accuracy, at the expense of rationalising irrational behaviour.
+
+You are probably pushing these biases onto other people every day but
+don't even know it. Does that idea make you feel uncomfortable? You
+are probably experiencing the Semmelweis reflex kicking your
+confirmation bias right now.
+
+Knowing is half the battle. This talk will delve into some of the
+well-known and less well-known biases that may be affecting your
+ability to work with your peers, and your team's ability to work
+constructively with other teams.
+
+Attendees will leave the talk with an overview of biases they run into
+every day, how to hack their brains to use these biases to their
+advantage, and some tips on how to mitigate the effects of the
+limitations baked into their wetware.
+
+We have met the enemy and he is us.
+
+Speaker:
+Lindsay Holmwood
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/The DevOps Pay Raise Quantifying Your Value to Move Up the Ladder/","Dustin Whittle","The DevOps Pay Raise: Quantifying Your Value to Move Up the Ladder","Abstract:
+
+DevOps, when done right, usually goes unnoticed. It&rsquo;s only when something breaks that all eyes turn to IT. If your boss only sees you when the app is down, however, that&rsquo;s not really doing your career any favors. In this session we&rsquo;ll talk about how to prove your value to the organization by looking at the positive side &ndash; that is, how much money you&rsquo;ve saved your company. We&rsquo;ll take a look at how you can use tools like Chef, Puppet, Sensu and Logstash to quantify your value to your company. After this session, you&rsquo;ll be able to walk into a meeting with your boss ready to talk about your value to the company (and to ask for a raise).
+
+
+Why devops matters?
+Tools of the trade
+
+
+Chef + Puppet
+Logstash + Loggly + SumoLogic + Splunk
+Fabric + Capistrano + Jenkins
+Sensu + Graphite
+AppDynamics
+
+
+Your real value
+
+
+A case study in the cost of failure
+Reactive to production failures
+
+
+How to win
+Automate everything
+Maximum Visibility with Minimum Effort
+
+
+
+Speaker:
+Dustin Whittle
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Service-oriented architectures A DevOps Dream Come True/","Matt Palmer","Service-oriented architectures: A DevOps Dream Come True","Abstract:
+
+Automation is fun.  But dealing with the myriad of services that are in the
+typical company that has been around for a while (can you say 'legacy
+systems' without panicking?) tends to put a crimp in your style.  To add
+insult to injury, automating everything can reduce your ability to clean
+out the cruft because so many more things need to be changed in order to
+retire a legacy system.
+
+Enter: the service-oriented architecture.  Coming off the back of a
+year-long effort to put APIs in front of everything, Anchor CTO Matt
+Palmer will describe why Anchor decided to do all this work, what worked
+well, what didn't work, the benefits we've seen since the introduction of
+our new architecture, and how you can make a service-oriented utopia in your
+own company.
+
+Speaker:
+Matt Palmer
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Puppet On Windows and Linux In The Cloud - A Story Of Triumph Over Adversity/","Sebastian Cole (Mi9), Sam Newman (ThoughtWorks)","Puppet On Windows & Linux In The Cloud - A Story Of Triumph Over Adversity","Abstract:
+
+Using Puppet and AWS to automate your infrastructure is all well and good for a Linux shop, but what about a Windows shop? Now throw in the complexity of supporting the infrastructure for one of Australia&rsquo;s busiest websites, and also relocation of a physical data centre into the cloud, and you have yourself a challenge!
+
+Mi9 runs ninemsn.com.au along with multiple other websites, and over the last few months has been slowly moving away from physical hosting to move our websites into the cloud. We have now decided to move much of our existing Windows-based services over to AWS as well, while at the same time embracing automation, Puppet and Linux. This experience report will talk about how well Puppet works in a mixed Windows &amp; Puppet world, how to make PuppetMaster and CI play nicely together, managing OS-level access and why System Center Configuration Manager many not be the answer to all your prayers.
+
+Speaker:
+Sebastian Cole (Mi9), Sam Newman (ThoughtWorks)
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/MYOB: From no ops to devops in 12 easy months/","Peter May","MYOB: From no ops to devops in 12 easy months","Abstract:
+
+The content of this presentation is an exposition of how a devops team came to be created at MYOB Accountants Division a year ago in June 2012, what the team has achieved, what the team hopes to achieve in the future, and the lessons to be learnt.
+
+This presentation will be interesting because it touches upon:
+
+
+How to convince management that a devops team is required.   [Took a while to convince my immediate boss]
+How to get a devops team started up.    [What I did to kick off the team]
+How to convince management that a devops team gives on-going value.    [My boss&rsquo;s boss was not convinced]
+Is devops only for online software only or can it be applied to desktop software as well?    [The essence of devops applies equally I believe]
+How to leverage devops to add value to the business.    [How the team came to the attention of the business beyond PD]
+How does devops differ in for a software vendor vs enterprise software?   [Should become apparent during course of talk]
+How important is tool selection?    [We spent almost time on this &ndash; was that wise?]
+
+
+
+Speaker:
+Peter May
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Lies that cloud APIs tell/","Michael Neale","Lies that cloud APIs tell","Abstract:
+
+Amazon, rackspace and other top tier cloud hosting providers have
+quite comprehensive apis, however these apis have a far lower QoS than
+their hosting services, are eventually consistent (inconsistent?) in
+many places, and can be generally very very hard to work with if you
+get too carried away building on them. I got too carried away using
+them, and thought other people would like to hear about this (having
+said that, they are an excellent tool, but there are trick and traps
+to avoid so your application works well)
+
+Speaker:
+Michael Neale
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/How Micro Can You Go/","Sam Newman","How Micro Can You Go?","Abstract:
+
+Lots of people are talking about Micro Services. But how micro is micro? And while we're at it, what is a micro service anyway?
+
+This session will briefly introduce the concept of microservices, and why they are important. But then we'll focus on the tough questions. If you're starting with a big, monolithic system, how should you split it up? And how does the maturity of your operational environment impact on your system design? This talk attempts to bring the worlds of operations and architecture together, showing that only by evolving them together can long-lived systems really be successful.
+
+Speaker:
+Sam Newman
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Erlang for when you absolutely positively have to keep it running/","Michael Neale","Erlang for when you absolutely positively have to keep it running","Abstract:
+
+Erlang is really not that terrifying. It is often pimped for its
+concurrency features but it was really build for availability.
+Multiple lightweight processes, supervision trees, per process heaps
+and hot reloading mean you can build highly available fault tolerant
+systems. Surprisingly erlang is quite lightweight memory wise - a very
+small footprint making it a great tool for supervisory agents and
+automation (escript makes it easy to script with it as well).
+
+Speaker:
+Michael Neale
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Driving Environment configuration requirements early on your Continuous Deployment lifecycle/","Rene Medellin","Driving Environment configuration requirements early on your Continuous Deployment lifecycle","Abstract:
+
+When supporting a Continuous Deployment approach to software releases, think John Allspaw, your environment configuration is essential. It doesn't matter how fast you can build and test, if you're deploying into a broken environment. You can take a TDD or BDD approach to building up your environment infrastructure based on application requirements. Your environment acceptance tests become the contract by which you can develop your environment configuration using Puppet, Chef, etc... But more importantly, building up the functional testing for your 'Infrastructure as Code' allows you to discuss with all Project stakeholders all of the infrastructure requirements for a particular feature or product stream. Thus breaking down traditional barriers where a release is thrown over the fence to Operations. You can begin to discuss infrastructure requirements early in the cycle and have a natural launching pad for collaboration and communication.
+
+Speaker:
+Rene Medellin
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Devops Dungeons and Dragons/","David Lutz","Devops, Dungeons & Dragons","Abstract:
+
+An effective operations team is ready to react quickly and decisively
+when systems fail.  We all know they will fail.
+
+How do you maintain those ops muscles in prime condition when an
+infrastructure is basically stable?  We know muscles atrophy when not
+used regularly.  Failures and disasters can be simulated to give
+operations teams this much needed practice.  Netflix have their simian
+army to inject some chaos into their infrastructure.  Amazon, Etsy and
+others have firedrills and game days of different kinds.
+
+We have a framework for running incident firedrills at whole new level
+using ideas borrowed from D&amp;D.
+
+Instead of a band of elves and humans fighting orcs and trolls we have
+a campaign of sysadmins, DBAs, network and security engineers fighting
+cascading system failures, database corruption and increased latency
+in 3rd party APIs.  Complex campaign scenarios are planned out by one
+of the team acting as 'Dungeon Master'.
+
+By running these regularly we can roleplay leadership and
+communication within the team, distribute knowledge, train up new
+staff to go on-call, and even expose developers to the dangerous and
+exciting world of operations.
+
+Speaker:
+David Lutz
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/DevOpsing with myself an experience report/","Julian Simpson","DevOpsing with myself: an experience report","Abstract:
+
+What happens when you take an experienced systems administrator, build manager, and card-carrying DevOps guy, and drop them on their own into a project where there's no unit testing, infrastructure automation, or architecture?
+
+This happened to Julian Simpson recently, and he's still fixing stuff.  How did it work out?  What did he learn?  Will he be getting PagerDuty alerts during his talk?
+
+A retrospective will be had, on stage.
+
+Speaker:
+Julian Simpson
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/DevOps on the Cloud Using OpWorks to Power your Agile Development/","Joe Ziegler","DevOps on the Cloud:  Using OpWorks to Power your Agile Development","Abstract:
+
+This will be an end to end presentation with a live demo on how to do DevOps on AWS using OpsWorks.  We will address Development, Testing Environments, Infrastructure as Code, Continuos Integration &amp; Deployment using the AWS stack such as EC2, S3, open source tools and OpsWorks.
+
+Some info on OpsWorks:
+
+AWS OpsWorks is a DevOps solution for managing applications of any scale or complexity on the AWS cloud. AWS OpsWorks features an integrated experience for managing the complete application lifecycle, including resource provisioning, configuration management, application deployment, software updates, monitoring, and access control.
+
+AWS OpsWorks lets you model and visualize your application with layers that define how to configure a set of resources that are managed together. You can also define the software configuration for each layer, including installation scripts and initialization tasks. When an instance is added to a layer, all the configuration steps are applied for you. AWS OpsWorks promotes conventions but is flexible enough to let you customize any aspect of your environment. Since AWS OpsWorks uses Chef recipes, you can leverage hundreds of community-built configurations such as PostgreSQL, Nginx, and Solr.
+
+AWS OpsWorks uses automation to simplify operations. You specify how to deploy, scale, and maintain your applications and AWS OpsWorks performs the tasks for you. AWS OpsWorks can scale your applications using automatic load-based or time-based scaling, and maintain the health of your applications by detecting failed instances and replacing them. With AWS OpsWorks, you can deploy your applications to 1,000s of Amazon EC2 instances with the same effort as a single instance.
+
+There is no additional charge for AWS OpsWorks &ndash; you pay only for the AWS resources needed to store and run your applications.
+
+AWS OpsWorks is built on technology developed by Peritor, the creators of Scalarium, which was acquired by AWS in 2012.
+
+Speaker:
+Joe Ziegler
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/DevOps - Focus on planning and visibility not just automation/","Sean Hamawi","DevOps - Focus on planning & visibility not just automation","Abstract:
+
+The DevOps approach has had a very heavy focus on getting Release automation and Collaboration right but equally important is the need to have proper upfront Planning with checks and balances. Planning drives visibility &amp; coordination which assists in breaking down the wall of confusion across dev and ops teams. Within the dev team the multuple delivery functions such as BA, Developers and Testers need proper planning in order ensure they delivery ontime and quality products to IT Ops. While IT Ops need to gain confidence that Dev know what is happening in the sausage factory, they need varios forms of lite information to kept them across what is coming down the pipe.
+
+Speaker:
+Sean Hamawi
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Multitenant applications/","Mitch Denny","Designing and Deploying Multi-Tenant Applications","Abstract:
+
+Developing a high quality software application and deploying it is hard. It is important for DevOps team members to be involved early in the development process to be successful. When you add multi-tenancy to the mix of requirements deployment can get just that much harder.
+
+In this session I will present approaches to designing a multi-tenant web application. The session will look into technical challenges such as:
+
+
+Building reliable MSI packages with WiX.
+Deploying database updates via Entity Framework migrations.
+Adding manageability and automating updates via PowerShell.
+Tenant selection via hostname to database mapping (dealing with IIS).
+Supporting single sign-on via ADFS 2.0 and Windows Azure ACS.
+Considerations when choosing PaaS, IaaS or traditional hosting models.
+
+
+
+In this session I&rsquo;ll cover not only the abstract concepts, but also look at their practical implementation with some of the latest Microsoft technologies. This isn&rsquo;t going to be a vendor commercial &ndash; my job depends on being able to use these technologies to get the job done so expect me to point out the warts as we go through.
+
+Speaker:
+Mitch Denny
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/Build Pipelines and The Puppet Master Oil and Water/","Sam Newman","Build Pipelines & The Puppet Master: Oil & Water","Abstract:
+
+Build Pipelines &amp; Continuous Integration is a well understand development technique to provide constant feedback about the readiness of our code to go into production. It relies on source control as the source of truth, and the deployment of known artifacts. But how do Build Pipelines work with ChefServer or PuppetMaster?
+
+This talk explores the tension between CI &amp; Build Pipelines and the environment models implemented in PuppetMaster and ChefServer. It outlines a model, based on real-world experience, that allows operations teams and developers to both use the power of Build Pipelines to quickly release tested, production ready code.
+
+Speaker:
+Sam Newman
+",""
+"","talk","http://devopsdays.org/events/2013-downunder/proposals/A Build Engineering Teams journey of Infrastructure as Code/","Peter Leschev","A Build Engineering Team's journey of Infrastructure as Code","Abstract:
+
+What does it mean to be practising Infrastructure as Code? Can we tick
+that checkbox when we use puppet and have the code checked into SCM?
+This talk will cover the kaizen journey of a Build Engineering team
+that started with that, and have slowly taken traditional development
+practises (such as DVCS, pairing, code reviews, BDD, continuous
+integration, continuous delivery) and combined them with traditional
+DevOps tools (such as puppet, mcollective, veewee, vagrant,
+librarian-puppet, puppet-lint) and practises (automation, provisioning
+from scratch, cattle instead of pets mentality) in managing a largish
+build platform (20 physical machines, 260 VMs, and 300 EC2 instances,
+Linux &amp; Windows) that is critical to Atlassian's ability to deliver
+software to their customers. With the use of traditional development
+practises, come with development team related challenges, such as slow
+local development feedback loop, slow CI, flakey tests, ineffective
+code reviews, large infrequent releases causing large failures. You'll
+discover the tools &amp; practises that worked for the team in managing
+this build platform, what challenges that were faced and how they were
+resolved.
+
+Speaker:
+Peter Leschev
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/What happens if Brent quits/","Trent Hornibrook","What happens if Brent quits?","Abstract:
+
+Brent is the key operations engineer within the book The Phoenix Project - by the DevOPS godfathers. He is the guy that knows how everything works and is involved in every critical project within the organisation.
+
+Everyone at the DevOPS Days conference either has a little Brent within them or knows a Brent in their organisation. From an organisation perspective, how can you identify your Brent and what are some practical strategies on minimising your Brent risk. And if you are Brent, how can you loose your Brent title and unshackle the organisation improve your props.
+
+Speaker:
+Trent Hornibrook
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/Teach someone to fish/","Colin Panisset","Teach someone to fish ...","Abstract:
+
+It used to be the case that I sought to engineer myself out of a job ... but in this day and age, that's becoming harder to do.
+
+I reckon we should be helping others to engineer ourselves out of jobs (and trying to engineer each other out of a job as well). I have some thoughts and suggestions on how to achieve this in a nicely DevOps way.
+
+Perhaps we can help each other learn how to fish ...
+
+Speaker:
+Colin Panisset
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/Secrets of a DevOps Ninja/","Jonathan Thorpe","Secrets of a DevOps Ninja","Abstract:
+
+I'll cover 4 'techniques'
+
+Understand the process.  Make sure that the process is well understood and suitable for your DevOps initiative.  Understanding the people, key interactions, and how existing processes may need to change as part of a DevOps initiative is key.
+Automate the process.  Once a solid process has been outlined it is time to start looking at how things can be automated.  A big bang approach won't work, choose areas with the biggest pain points to get immediate benefit.
+Robust, reproducible deployments.  Deployments should happen in the same way in every environment.  Using the same process across all environments is something to strive for. Fragile scripts with hard coded environment logic is not ideal.
+Put the pieces together.  As more work is flowing through the system it is important be know the status of the work. While it is easier to have multiple islands of information from each individual tool that is used to automate the system, it is more useful to have a consolidated view that can put information in the correct context.
+The session is vendor and tool agnostic and is designed to stimulate thinking across the entire process.
+
+Speaker:
+Jonathan Thorpe
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/Putting the T in DevOps/","Elliot Pahl","Putting the T in DevOps","Abstract:
+
+I've got opinions, and I'm here to share them.  Here are some thoughts from the trenches on what DevOps means to me, based on the experience of operating under fire.  Amongst other things, I'll be touching on the many dimensions of trust, and how it relates to your tools, people, processes, and especially your toolchain.
+
+Speaker:
+Elliot Pahl
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/From chimps to champs/","Javier Turegano","From chimps to champs","Abstract:
+
+Leaving the Ops dungeon and living in the wild with other parts of the business can be a bit scary, is it worth it? Embedding operations engineers in delivery teams creates a really powerful combination that makes those teams crossunctional and helps to close the loop between ops and devs
+I would like to share a few stories about this journey and some implications in the process of the evolution in the relationship in different teams where we have tried this approach.
+
+Speaker:
+Javier Turegano
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/DevOps, is it only lip service for true collaboration across IT/","Rene Medellin","DevOps, is it only lip service for true collaboration across IT?","Abstract:
+
+DevOps has taken IT by storm and is very likely on track to become ubiquitous. But are we truly embracing a collaborative mindset and a notion of IT 'working as one'? Or are we simply paying lip service to the idea of breaking down silos? I want to challenge the audience to examine their understanding of the DevOps approach and challenge every individual to build connections and networks with someone new in their IT organisation, today.
+
+Speaker:
+Rene Medellin
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/DevOps when you cant hire the A-Team/","Jonathan Thorpe","DevOps when you can't hire the A-Team","Abstract:
+
+Presented this as an open mike ignite at DevOpsDays Austin.  Had good feedback from Gene Kim and Byron Miller, refined a bit would like to submit it for DevOpsDays Downunder.
+
+The DevOps movement, DevOpsDays especially is attended by the 1%, the people traditional companies wish they could hire.  In this session I go over a typical 1% approach to DevOps and why it risks condeming DevOps to be a niche way of working due to elitist, roll your own approaches that won't scale.
+
+Speaker:
+Jonathan Thorpe
+",""
+"","ignite","http://devopsdays.org/events/2013-downunder/proposals/8 mistakes that prevent DevOps success/","Jonathan Thorpe","8 mistakes that prevent DevOps success","Abstract:
+
+I've seen several problem in companies over the years that I believe are significant.  Besides cultural challenges, there are technical challenges that are not specific to any tool chain that need to be addressed in order for a DevOps initiative to scale beyond the scope of a small team.  I will also cover that while a technology first approach to DevOps with a coalition of the willing may make a successful proof of concept project, cultural issues need to be addressed too.
+
+Speaker:
+Jonathan Thorpe
+",""

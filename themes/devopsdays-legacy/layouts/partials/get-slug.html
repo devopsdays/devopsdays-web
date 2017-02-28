@@ -1,0 +1,3 @@
+{{ $path := split $.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+{{ $event_slug }}

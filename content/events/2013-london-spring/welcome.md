@@ -1,0 +1,237 @@
++++
+date = "2016-01-01T01:01:01-06:00"
+title = "welcome"
+type = "event"
+aliases = ["/events/2013-london-spring"]
+
++++
+
+OLD
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" >
+<title>London 2013
+ - welcome</title>
+<meta name="author" content="" >
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="devopsdays RSS Feed" href="http://www.devopsdays.org/feed/" >
+
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">
+google.load('jquery', '1.3.2');
+</script>
+
+<!---This is a combined jAmpersand, jqwindont , jPullquote -->
+<script type="text/javascript" src="/js/devops.js"></script>
+
+<!--- Blueprint CSS Framework Screen + Fancytype-Screen + jedi.css -->
+<link rel="stylesheet" href="/css/devops.min.css" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/css/blueprint/print.css" type="text/css" media="print">
+<!--[if IE]>
+<link rel="stylesheet" href="/css/blueprint/ie.css" type="text/css" media="screen, projection">
+<![endif]-->
+</head>
+
+
+<body onload="initialize()">
+
+<div class="container ">
+<div class="span-24 last" id="header">
+
+ <div class="span-16 first">
+	<img src="/images/devopsdays-banner.png" title="devopsdays banner" width="801" height="115" alt="devopdays banner" ><br>
+ </div>
+ <div class="span-8 last">
+ </div>
+</div>
+
+<div class="span-24 last">
+<div class="span-15 first">
+<div id="headermenu">
+<table >
+  <tr>
+    <td>
+      <a href="/"><img alt="home" title="home" src="/images/home.png"></a>
+      <a href="/">Home</a>
+    </td>
+    <td>
+      <a href="/contact/"><img alt="contact" title="contact" src="/images/contact.png"></a>
+      <a href="/contact/">Contact</a>
+    </td>
+    <td>
+      <a href="/events/"><img alt="events" title="events" src="/images/events.png"></a>
+      <a href="/events/">Events</a>
+    </td>
+    <td>
+      <a href="/presentations/"><img alt="presentations" title="presentations" src="/images/presentations.png"></a>
+      <a href="/presentations/">Presentations</a>
+    </td>
+    <td>
+      <a href="/blog/"><img alt="blog" title="blog" src="/images/blog.png"></a>
+      <a href="/blog/">Blog</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+</div>
+<div class="span-8 last">
+</div>
+
+<div class="span-24 last" id="title">
+<div class="span-15 first">
+<h1>London 2013
+ - welcome </h1>
+</div>
+
+<div class="span-8 last">
+</div>
+
+  
+<h1>Platinum sponsors</h1>
+  
+
+</div>
+
+
+<div class="span-15  ">
+  <div class="span-15  last ">
+  <div class="submenu">
+<h3>
+<a href="/events/2013-london-spring/">welcome</a>&nbsp;
+<a href="/events/2013-london-spring/propose">propose</a>&nbsp;
+<a href="/events/2013-london-spring/program">program</a>&nbsp;
+<a href="/events/2013-london-spring/location">location</a>&nbsp;
+<a href="/events/2013-london-spring/registration">register</a>&nbsp;
+<a href="/events/2013-london-spring/sponsor">sponsor</a>&nbsp;
+<a href="/events/2013-london-spring/contact">contact</a>&nbsp;
+<a href="/events/2013-london-spring/reactions">reactions</a>&nbsp;
+
+</h3>
+</div>
+
+
+  
+
+<center>
+  <table><tr><td>
+  <img border=0 width="213px" height="160px" src="bridge-the-gap.png">
+</td><td>
+  Date : 15 &amp; 16 of March 2013<br>Location: <a href="location">Mary Ward House - London</a>
+  <br><br>
+  DevOpsdays London is over. Please view the <a href="reactions">videos, slides and reactions</a> to the event
+</td>
+</tr>
+</table>
+</center>
+
+
+<hr>
+
+
+<p>Have a cool idea for the next Devopsdays London T-shirt? <a href="mailto:organizers-london-2013@devopsdays.org?subject=t-shirt%20design%20london">Send in your proposal(s)</a> and win a free ticket!</p>
+
+<p>If you want to be the first to get news <a href="http://groups.google.com/group/devopsdays">subscribe to the devopsdays mailinglist</a></p>
+
+  </div>
+  
+</div>
+
+<div class="span-8 last">
+  <div class="span-8 last">
+
+
+
+<a href='http://www.datadoghq.com/'><img border=0 alt='Datadog HQ' title='Datadog HQ' width=100px height=100px src='/events/2013-london-spring/logos/datadog.png'></a>
+
+<a href='http://www.bmc.com/'><img border=0 alt='BMC' title='BMC' width=100px height=100px src='/events/2013-london-spring/logos/bmc.png'></a>
+
+<a href='http://www.zeroturnaround.com/'><img border=0 alt='Zeroturnaround' title='Zeroturnaround' width=100px height=100px src='/events/2013-london-spring/logos/zeroturnaround.png'></a>
+
+<a href='http://www.urbancode.com/'><img border=0 alt='Urbancode' title='Urbancode' width=100px height=100px src='/events/2013-london-spring/logos/urbancode.png'></a>
+
+<a href='http://www.collabnet.com/'><img border=0 alt='Collabnet' title='Collabnet' width=100px height=100px src='/events/2013-london-spring/logos/collabnet.png'></a>
+
+<a href='http://www.uc4.com/ara'><img border=0 alt='UC4' title='UC4' width=100px height=100px src='/events/2013-london-spring/logos/uc4.png'></a>
+
+<a href='http://opscode.com/'><img border=0 alt='Opscode' title='Opscode' width=100px height=100px src='/events/2013-london-spring/logos/opscode.png'></a>
+
+
+
+
+<h1>Gold sponsors</h1>
+
+
+
+
+<a href='http://www.basho.com/'><img border=0 alt='Basho' title='Basho' width=100px height=100px src='/events/2013-london-spring/logos/basho.png'></a>
+
+<a href='http://www.serena.com/'><img border=0 alt='Serena' title='Serena' width=100px height=100px src='/events/2013-london-spring/logos/serena.png'></a>
+
+<a href='http://www.boundary.com/'><img border=0 alt='Boundary' title='Boundary' width=100px height=100px src='/events/2013-london-spring/logos/boundary.png'></a>
+
+<a href='http://www.google.com/'><img border=0 alt='Google' title='Google' width=100px height=100px src='/events/2013-london-spring/logos/google.png'></a>
+
+<a href='http://www.appdynamics.com/'><img border=0 alt='App Dynamics' title='App Dynamics' width=100px height=100px src='/events/2013-london-spring/logos/appdynamics.png'></a>
+
+
+
+
+<h1>Silver sponsors</h1>
+
+
+<a href='http://www.payback.net/'><img border=0 alt='Payback' title='Payback' width=100px height=100px src='/events/2013-london-spring/logos/payback.png'></a>
+
+<a href='http://atalanta-systems.com/'><img border=0 alt='Atalanta Systems' title='Atalanta Systems' width=100px height=100px src='/events/2013-london-spring/logos/atalanta-systems.png'></a>
+
+<a href='http://enstratius.com/'><img border=0 alt='Enstratius' title='Enstratius' width=100px height=100px src='/events/2013-london-spring/logos/enstratius.png'></a>
+
+<a href='http://serverdensity.com/'><img border=0 alt='Server Density' title='Server Density' width=100px height=100px src='/events/2013-london-spring/logos/serverdensity.png'></a>
+
+
+
+
+
+
+</div>
+  <div class="span-8 last">
+  </div>
+
+
+</div>
+
+
+</div>
+</div>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9713393-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+</body>
+</html>
