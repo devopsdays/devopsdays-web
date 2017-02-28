@@ -238,7 +238,6 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
         <ul>
-        <li><a href="/events/2016-newyork/program/eric-sigler/">Eric Sigler 3AM, a survey</a></li>
         <li><a href="/events/2016-newyork/program/natacha-springer/">Natacha Springer From Amazon Mom to Amazon Lambdas</a></li>
         <li><a href="/events/2016-newyork/program/jason-hand/">Jason Hand The Benefit of A Systems Lens</a></li>
         <li><a href="/events/2016-newyork/program/nick-doiron/">Nick Doiron Post-Quantum DevOps</a></li>
