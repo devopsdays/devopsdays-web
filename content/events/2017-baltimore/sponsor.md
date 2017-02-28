@@ -12,7 +12,8 @@ aliases = [
 We greatly value sponsors for this open event.  Have questions about sponsoring?  
 Please contact us at {{< email_organizers >}}.
 
-[Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+[Become a Happy Hour Sponsor for DevOpsDays Baltimore
+now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -34,11 +35,11 @@ Please contact us at {{< email_organizers >}}.
 </tr>
 <tr class="hed2">
 <td></td>
-<td><strong>$0 USD</strong></td>
-<td><strong>$0 USD</strong></td>
-<td><strong>$1,000 USD</strong></td>
-<td><strong>$3,000 USD</strong></td>
-<td><strong>$5,000 USD</strong></td>
+<td><strong>SOLD OUT</strong></td>
+<td><strong>SOLD OUT</strong></td>
+<td><strong>SOLD OUT</strong></td>
+<td><strong>SOLD OUT</strong></td>
+<td><strong>SOLD OUT</strong></td>
 <td><strong>$5,000 USD</strong></td>
 </tr>
 <tr>
@@ -142,7 +143,8 @@ work against you when trying to make a good impression on the attendees. Contact
 {{< email_organizers >}} for some ideas about how to make the most of
 your sponsorship.
 
-[Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+[Become a Happy Hour Sponsor for DevOpsDays Baltimore
+now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
 
 ### Happy Hour - $5,000 NEW!
 
@@ -164,7 +166,7 @@ Sponsor](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPON
 * 5 minute pitch to the happy hour attendees
 * [Become a Happy Hour sponsor now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
 
-### Community - $0
+### Community - $0 - SOLD OUT
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
 other communities who support DevOps.  This sponsorship is free but we ask that
@@ -178,7 +180,7 @@ become a Community Sponsor.
 * Please contact {{< email_organizers >}} for details about becoming a community
 sponsor.
 
-### Media - $0
+### Media - $0 - SOLD OUT
 
 The media sponsorship is ideal for podcasts, blogs, news outlets, and other
 media who support DevOps.  This sponsorship is free but we ask that you share
@@ -192,28 +194,25 @@ Community Sponsor.
 * Please contact {{< email_organizers >}} for details about becoming a media
 sponsor.
 
-### Silver - $1,000
+### Silver - $1,000 - SOLD OUT
 
 * 2 included tickets
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2017 event website
-* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Silver sponsor now</a>.
 
-### Gold - $3,000
+### Gold - $3,000 - SOLD OUT
 
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 3 in total
 * Shared table for swag
-* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Gold sponsor now</a>.
 
-### Platinum - $5,000
+### Platinum - $5,000 - SOLD OUT
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
 * 2 additional tickets, 5 in total
 * Dedicated table for swag
-* <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR">Become a Platinum sponsor now</a>.
 
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
