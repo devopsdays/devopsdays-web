@@ -12,8 +12,6 @@ cfp_date_start: 2017-02-03  # start accepting talk proposals.
 cfp_date_end:  2017-03-05 # close your call for proposals.
 cfp_date_announce: 2017-03-26 # inform proposers of status
 
-event_logo_square: "logo-square.jpg"
-
 # Location
 #
 coordinates: "59.290555, 18.084346" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html

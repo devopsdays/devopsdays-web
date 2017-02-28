@@ -10,6 +10,31 @@ archetypedir = "archetypes"
 PaginatePath = "blog"
 buildDrafts = false
 
+[[menu.main]]
+  name = "events"
+  url = "/events"
+  weight = -150
+[[menu.main]]
+  name = "blog"
+  url = "/blog"
+  weight = -140
+[[menu.main]]
+  name = "sponsor"
+  url = "/sponsor"
+  weight = -130
+[[menu.main]]
+  name = "speaking"
+  url = "/speaking"
+  weight = -120
+[[menu.main]]
+  name = "organizing"
+  url = "/organizing"
+  weight = -110
+[[menu.main]]
+  name = "about"
+  url = "/about"
+  weight = -100
+
 [permalinks]
 	page = "/:filename/"
   blog = "/blog/:year/:month/:day/:title/"
@@ -23,3 +48,5 @@ buildDrafts = false
 	# Set to "/" on *nix and Mac, "\\" on Windows
 	# Refer to https://github.com/spf13/hugo/issues/2394 for more information
 	PathSeperator = "/"
+  pathSeparator = "/"
+  weburl = "https://www.devopsdays.org"

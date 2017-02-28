@@ -2,7 +2,7 @@ name: "2017-saint-louis" # The name of the event. Four digit year with the city 
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Saint Louis" # The displayed city name of the event. Capitalize it.
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "DevOpsDays is coming to Saint Louis in 2017! It'll be a great opportunity to share knowledge, socialize, and have fun with other memnbers of our great technical community." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "DevOpsDays is coming to Saint Louis in 2017! It'll be a great opportunity to share knowledge, socialize, and have fun with other members of our great technical community." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  # 2017-03-31 # The start date of your event. Leave blank if you don't have a venue reserved yet.

@@ -11,8 +11,6 @@ cfp_date_start:  2017-01-23
 cfp_date_end:  2017-02-14
 cfp_date_announce:  2017-03-01
 
-event_logo_square: "logo-square.jpg"
-
 # Location
 #
 coordinates: "30.284901, -97.732391" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -70,6 +68,16 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: solarwinds
+    level: gold
+  - id: sentry
+    level: gold
+  - id: newiron
+    level: gold
+  - id: chef
+    level: gold
+  - id: duo
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

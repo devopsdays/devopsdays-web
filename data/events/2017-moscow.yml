@@ -12,8 +12,6 @@ cfp_date_start:  2016-12-01 # start accepting talk proposals.
 cfp_date_end:  2017-02-08 # close your call for proposals.
 cfp_date_announce:  2017-02-08 # inform proposers of status
 
-event_logo_square: "logo-square.jpg"
-
 # Location
 #
 coordinates: "55.708244, 37.724118" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -49,6 +47,8 @@ sponsors:
 # media
   - id: sbertech
     level: platinum
+  - id: aligntech
+    level: silver
   - id: Logrocon
     level: media
   - id: Express42
@@ -87,6 +87,24 @@ sponsors:
     level: venuesponsor
   - id: alpina
     level: reading
+  - id: mif
+    level: reading
+  - id: vhpro
+    level: media
+  - id: praim
+    level: media
+  - id: hotwork
+    level: media
+  - id: mailru
+    level: internet
+  - id: beameio
+    level: silver
+  - id: redhat
+    level: gold
+  - id: cnews
+    level: media
+  - id: hotelmilan
+    level: accommodation
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -103,6 +121,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: internet
+    label: General Internet
   - id: Networking
     label: Networking
   - id: venuesponsor
@@ -111,9 +131,13 @@ sponsor_levels:
     label: HR
   - id: reading
     label: Reading
+  - id: accommodation
+    label: Accommodation
   - id: media
     label: Media
   - id: community
     label: Community
+
+
   
   
