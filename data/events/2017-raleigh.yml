@@ -1,7 +1,7 @@
 name: "2017-raleigh" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Raleigh" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdayscityrdu" # The twitter handle for your event, which is often devopsdays and then an abbreviation for the city
+event_twitter: "devopsdaysrdu" # The twitter handle for your event, which is often devopsdays and then an abbreviation for the city
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -25,7 +25,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
 #  - name: registration
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 
@@ -44,20 +44,19 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 10
   - id: gold
     label: Gold
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    max: 0
