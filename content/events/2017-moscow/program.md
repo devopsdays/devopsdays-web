@@ -22,7 +22,7 @@ type = "event"
 
 <strong>Ignite:</strong>
 <ol>
-  <li><a href="/events/2017-moscow/program/boris-gerasin">Борис Герасин (Сколково), различия лицензий GPL, LGPL, Apache, MIT</a></li>
+  <li><a href="/events/2017-moscow/program/boris-gerasin">Борис Герасин (Сколково), Open Source != Free Software</a></li>
   <li><a href="/events/2017-moscow/program/leon-fayer3">Leon Fayer, What DevOps is NOT (Чем DevOps НЕ является)</a></li>
   <li><a href="/events/2017-moscow/program/denisova">Elena Denisova (РЖД), Как гибкие методологии помогли HR-службе ГВЦ РЖД внедрить проект на 5000 разработчиков всего лишь за 12 месяцев</a></li>
   <li><a href="/events/2017-moscow/program/Kutakov">Павел Кутаков(Столото): DevNull. Как современные облачные платформы сводят объем Operations к минимуму</a></li>
@@ -60,7 +60,13 @@ type = "event"
 
 
 <br>
+<strong>Мастер-классы:</strong>
+<ol>
+  <li><a href="/events/2017-moscow/program/suvorov">Konstantin Suvorov, Расширение возможностей Ansible</a></li>
+  <li><a href="/events/2017-moscow/program/karpov">Andrey Karpov, Статический анализ кода тремя инструментами</a></li>
+</ol>
 
+<br>
 
 <div class = "row">
   <div class = "col-md-12 col-md-offset-4">
