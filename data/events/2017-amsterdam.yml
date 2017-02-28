@@ -43,7 +43,11 @@ sponsors:
     level: gold
   # silver
   # bronze
+  - id: devoteam
+    level: bronze
   # BBQ / Evening Event
+  - id: schubergphilis
+    level: bbq
   # Pre-Event Social
   # beer
   # community
