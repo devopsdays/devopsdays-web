@@ -30,6 +30,7 @@ Please contact us at {{< email_organizers >}}.
 <td><strong>Silver</strong></td>
 <td><strong>Gold</strong></td>
 <td><strong>Platinum</strong></td>
+<td><strong>Happy Hour</strong></td>
 </tr>
 <tr class="hed2">
 <td></td>
@@ -38,9 +39,11 @@ Please contact us at {{< email_organizers >}}.
 <td><strong>$1,000 USD</strong></td>
 <td><strong>$3,000 USD</strong></td>
 <td><strong>$5,000 USD</strong></td>
+<td><strong>$5,000 USD</strong></td>
 </tr>
 <tr>
 <td>1 included ticket</td>
+<td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -54,9 +57,11 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
+<td class="yes"> </td>
 </tr>
 <tr>
 <td>Logo on DevOpsDays Baltimore 2017 event website</td>
+<td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -70,6 +75,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
+<td class="yes"> </td>
 </tr>
 <tr>
 <td>1 minute pitch to full audience (including streaming audience)</td>
@@ -78,12 +84,14 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
+<td class="yes"> </td>
 </tr>
 <tr>
 <td>1 additional ticket (2 in total)</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
+<td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
 </tr>
@@ -94,6 +102,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 <td class="yes"> </td>
 <td class="no"> </td>
+<td class="no"> </td>
 </tr>
 <tr>
 <td>4 additional tickets (5 in total)</td>
@@ -101,6 +110,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
+<td class="yes"> </td>
 <td class="yes"> </td>
 </tr>
 <tr>
@@ -110,6 +120,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="yes"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
+<td class="yes"> </td>
 </tr>
 <tr>
 <td>Dedicated table for swag</td>
@@ -118,6 +129,7 @@ Please contact us at {{< email_organizers >}}.
 <td class="no"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
+<td class="no"> </td>
 </tr>
 </tbody>
 </table>
@@ -131,6 +143,26 @@ work against you when trying to make a good impression on the attendees. Contact
 your sponsorship.
 
 [Sponsor DevOpsDays Baltimore now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+
+### Happy Hour - $5,000 NEW!
+
+Happy Hour will be held on Tuesday, March 7 from 4:30PM to 7:30PM.  Conference
+attendees will be invited to stick around for happy hour.  Additionally, we will
+invite other members of the Baltimore technical community to join us, space
+permitting.  The Happy Hour sponsorship is a late-minute addition to our offering
+and includes some special perks not listed in the table above.  Read the bullets
+below and [sign-up to become a Happy Hour
+Sponsor](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
+
+* 5 included tickets
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2017 event website
+* Logo on all email communication
+* Shared table for swag during the conference
+* Dedicated table for swag during the happy hour
+* 1 minute pitch to full audience, including streaming audience, during the conference
+* 5 minute pitch to the happy hour attendees
+* [Become a Happy Hour sponsor now](https://devopsdaysbaltimore2017.busyconf.com/bookings/new?discount=SPONSOR).
 
 ### Community - $0
 
