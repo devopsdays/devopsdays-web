@@ -43,6 +43,10 @@ team_members: # Name is the only required field for team members.
     employer: "Yahoo! Japan"
   - name: "Tsuyoshi Ushio"
     employer: "Microsoft Corp."
+  - name: "Hiro Arai"
+    employer: "Creationline"
+  - name: "Tadahiro Yasuda"
+    employer: "Creationline"
 
     
     
