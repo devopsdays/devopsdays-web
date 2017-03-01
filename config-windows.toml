@@ -36,17 +36,19 @@ buildDrafts = false
   weight = -100
 
 [permalinks]
-	page = "/:filename/"
+  page = "/:filename/"
   blog = "/blog/:year/:month/:day/:title/"
 
 [params]
-	Facebook = "//www.facebook.com/group.php?gid=106761636771"
-	Twitter = "http://www.twitter.com/devopsdays"
-	Linkedin = "http://www.linkedin.com/groups?home=&gid=2445279"
-	Groups = "http://groups.google.com/group/devopsdays"
+  Facebook = "//www.facebook.com/group.php?gid=106761636771"
+  Twitter = "http://www.twitter.com/devopsdays"
+  Linkedin = "http://www.linkedin.com/groups?home=&gid=2445279"
+  Groups = "http://groups.google.com/group/devopsdays"
 
-	# Set to "/" on *nix and Mac, "\\" on Windows
-	# Refer to https://github.com/spf13/hugo/issues/2394 for more information
-	PathSeperator = "\\"
+  # Set to "/" on *nix and Mac, "\\" on Windows
+  # Refer to https://github.com/spf13/hugo/issues/2394 for more information
+  # Do not change this setting in the file directly. Instead run hugo with the --config flag if using Windows. 
+  # See CONTRIBUTING.md on devopsdays/devopsdays-web for more details
+  PathSeperator = "\\" # this will be deprecated with devopsdays-theme
   pathSeparator = "\\"
   weburl = "https://www.devopsdays.org"
