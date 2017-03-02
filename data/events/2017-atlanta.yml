@@ -52,8 +52,14 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: verizon
+    level: gold
   - id: mailchimp
     level: gold
+  - id: chef
+    level: gold
+  - id: sonatype
+    level: bronze
   - id: arresteddevops
     level: community
 
