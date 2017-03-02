@@ -9,7 +9,7 @@ type = "event"
 
 
 <h3> Main Talks </h3>
-<table cellpadding="2">
+<table>
 <tr><th>Name</th><th>Session Title</th></tr>
 <tr><td>Andrew Clay Shafer</td><td>Keynote</td></tr>
 <tr><td>Connor Shea</td><td>Handling a Major Outage Transparently at GitLab</td></tr>
