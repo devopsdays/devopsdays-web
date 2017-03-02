@@ -6,14 +6,14 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton",
-      "files": [".gitignore","config.toml","config-windows.toml"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js"], 
       "skipTeamPrs": false 
     }
   ],
   "findPotentialReviewers": false,
   "userBlacklist": [], 
   "userBlacklistForPR": [],
-  "requiredOrgs": ["devopsdays],
+  "requiredOrgs": ["devopsdays"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
   "assignToReviewer": true,
