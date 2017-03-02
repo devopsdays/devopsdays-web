@@ -141,7 +141,7 @@ type = "event"
         <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
@@ -151,7 +151,7 @@ type = "event"
         <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #1
       </div>
     </div> <!-- end timeslot div -->
@@ -161,7 +161,7 @@ type = "event"
         <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #2
       </div>
     </div> <!-- end timeslot div -->
@@ -171,7 +171,7 @@ type = "event"
         <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #3
       </div>
     </div> <!-- end timeslot div -->
@@ -318,7 +318,7 @@ type = "event"
         <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
@@ -328,7 +328,7 @@ type = "event"
         <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #1
       </div>
     </div> <!-- end timeslot div -->
@@ -338,7 +338,7 @@ type = "event"
         <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #2
       </div>
     </div> <!-- end timeslot div -->
@@ -348,7 +348,7 @@ type = "event"
         <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #3
       </div>
     </div> <!-- end timeslot div -->
