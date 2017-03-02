@@ -6,9 +6,14 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton",
-      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "/themes/**], 
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "/themes/**"], 
       "skipTeamPrs": false 
-    }
+    },
+    {
+      "name": "bridgetkromhout",
+      "files": ["/utilities/**"],
+      "skipTeamPrs": false
+     }
   ],
   "findPotentialReviewers": false,
   "userBlacklist": [], 
