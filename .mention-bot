@@ -1,24 +1,24 @@
 {
-  "maxReviewers": 5, // Maximum  number of people to ping in the PR message, default is 3
-  "numFilesToCheck": 10, // Number of files to check against, default is 5
+  "maxReviewers": 5,
+  "numFilesToCheck": 10, 
   "message": "@pullRequester, thanks! @reviewers, please review this.",
-             // custom message using @pullRequester and @reviewers
+             
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton", // The user's Github username
-      "files": [".gitignore","config.toml","config-windows.toml"], // The array of file globs associated with the user
-      "skipTeamPrs": false // mention-bot will exclude the creator's own team from mentions
+      "files": [".gitignore","config.toml","config-windows.toml"], 
+      "skipTeamPrs": false 
     }
   ], // Users will always be mentioned based on file glob
-  "findPotentialReviewers": false, // mention-bot will try to find potential reviewers based on files history, if disabled, `alwaysNotifyForPaths` is used instead
-  "userBlacklist": [], // Users in this list will never be mentioned by mention-bot
-  "userBlacklistForPR": [], // PR made by users in this list will be ignored
-  "requiredOrgs": ["devopsdays], // mention-bot will only mention user who are a member of one of these organizations
-  "skipAlreadyAssignedPR": false, // mention-bot will ignore already assigned PR's
-  "skipAlreadyMentionedPR": false, // mention-bot will ignore if there is already existing an exact mention
-  "assignToReviewer": true, // mention-bot assigns the most appropriate reviewer for PR
-  "createReviewRequest": true, // mention-bot creates review request for the most appropriate reviewer for PR
-  "createComment": true, // mention-bot creates a comment mentioning the reviewers for the PR
-  "skipTitle": "", // mention-bot will ignore PR that includes text in the title,
-  "skipCollaboratorPR": false // mention-bot will ignore if PR is made by collaborator
+  "findPotentialReviewers": false,
+  "userBlacklist": [], 
+  "userBlacklistForPR": [],
+  "requiredOrgs": ["devopsdays],
+  "skipAlreadyAssignedPR": false, 
+  "skipAlreadyMentionedPR": false,
+  "assignToReviewer": true,
+  "createReviewRequest": true, 
+  "createComment": true, 
+  "skipTitle": "", 
+  "skipCollaboratorPR": false 
 }
