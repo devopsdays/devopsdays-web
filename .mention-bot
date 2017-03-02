@@ -6,7 +6,7 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton", // The user's Github username
-      "files": ["".gitignore","config.toml","config-windows.toml"], // The array of file globs associated with the user
+      "files": [".gitignore","config.toml","config-windows.toml"], // The array of file globs associated with the user
       "skipTeamPrs": false // mention-bot will exclude the creator's own team from mentions
     }
   ], // Users will always be mentioned based on file glob
