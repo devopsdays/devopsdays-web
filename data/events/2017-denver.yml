@@ -15,6 +15,7 @@ location: "Denver" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
   - name: sponsor
+  - name: speakers
   - name: contact
   - name: conduct
   - name: location
