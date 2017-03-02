@@ -71,12 +71,10 @@ If you have permissions to merge PR's on this repo, here are a few guidelines to
 ### PR Tests
 
 The following tests run when a PR is submitted:
-1. Travis.ci - this is a fairly simple test that confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the Travis tests fail, please take a look as to why they failed.
-1. Appveyor - this again is a simple test that builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason
-1. Gitmagic - This is a bot that makes sure our pull requests are fashioned cleanly. TODO: provide link to the configuration file
+1. [Travis](https://travis-ci.org/devopsdays/devopsdays-web/) - this is a fairly simple test that confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the Travis tests fail, please take a look as to why they failed.
+1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this again is a simple test that builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason
+1. [Gitmagic](https://gitmagic.io/) - This is a bot that makes sure our pull requests are fashioned cleanly. See [contributing.json](https://github.com/devopsdays/devopsdays-web/blob/master/contributing.json) for a list of rules that we enforce.
 1. Netlify - This is the very useful one. It builds the site, and hosts an ephemeral version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's pretty important to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
-
-
 
 ## Credits
 
