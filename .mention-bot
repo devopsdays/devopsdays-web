@@ -5,7 +5,7 @@
              
   "alwaysNotifyForPaths": [
     {
-      "name": "mattstratton", // The user's Github username
+      "name": "mattstratton",
       "files": [".gitignore","config.toml","config-windows.toml"], 
       "skipTeamPrs": false 
     }
