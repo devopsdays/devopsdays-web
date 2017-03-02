@@ -41,6 +41,8 @@ sponsors:
   # gold
   - id: pivotal
     level: gold
+  - id: elastic
+    level: gold
   # silver
   # bronze
   - id: devoteam
