@@ -1,8 +1,8 @@
 # Contributing to devopsdays-web
 
-This document contains thetechnical details on how to set up [Hugo](https://gohugo.io/) (to see your local edits), and prepare a Pull Request for inclusion on the [Devopsdays](http://www.devopsdays.org/) website.
+This document contains the technical details on how to set up [Hugo](https://gohugo.io/) (to see your edits locally before pushing them to GitHub), and how to prepare a Pull Request for inclusion on the [devopsdays](http://www.devopsdays.org/) website.
 
-If you'd like to assist in contributing the the code of the website, please see [devopsdays/devopsdays-theme](https://github.com/devopsdays/devopsdays-theme).
+If you'd like to assist in contributing to the code of the website, please see [devopsdays/devopsdays-theme](https://github.com/devopsdays/devopsdays-theme).
 
 ## Setup
 
@@ -26,7 +26,7 @@ If you are running Windows, change the command to
 hugo server -w --baseUrl="http://localhost:1313" --config config-windows.toml
 ```
 
-Now open `baseURL` in a browser and navigate to the content that you're editing - voilà!
+Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
 
 ## Pull requests
 
@@ -50,31 +50,31 @@ Now open `baseURL` in a browser and navigate to the content that you're editing 
 
 ### Guidelines
 
-1. Code changes that affect the overall site should be made only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes will be made there, and when released, will be used in this repo.
+1. Code changes that affect the overall site will be merged only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes should be made there, and when released, will be used in this repo.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-theme/issues) to track work, so feel free to create new issues if you like (or read/comment on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-theme/issues) so that it can be discussed by the team, prior to submitting a pull request.
 
 ### Only make changes to event content files
 "Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
 
-Changes to content should be submitted as a separate PR from changes to site functionality. It would be additionally delightful if you label PR's for site functionality (such as `bug` or `enhancement`), but that's not required.
+Changes to event-specific content should be submitted in a separate PR from changes to more general content for the whole site.
 
 
 ## Maintainer Guidlines
 
-If you have permissions to merge PR's on this repo, here are a few guidelines to watch out for:
+If you have permissions to merge PRs on this repo, here are a few guidelines to watch out for:
 
-1. Do not allow any PR's that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. 
-1. Make sure the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
+1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. 
+1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
 1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
 
 ### PR Tests
 
 The following tests run when a PR is submitted:
-1. [Travis](https://travis-ci.org/devopsdays/devopsdays-web/) - this is a fairly simple test that confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the Travis tests fail, please take a look as to why they failed.
-1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this again is a simple test that builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason
+1. [Travis](https://travis-ci.org/devopsdays/devopsdays-web/) - this is a basic test that confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the Travis tests fail, please take a look as to why they failed.
+1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this again is a small test that builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason.
 1. [Gitmagic](https://gitmagic.io/) - This is a bot that makes sure our pull requests are fashioned cleanly. See [contributing.json](https://github.com/devopsdays/devopsdays-web/blob/master/contributing.json) for a list of rules that we enforce.
-1. Netlify - This is the very useful one. It builds the site, and hosts an ephemeral version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's pretty important to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
+1. Netlify - This is a very useful test. It builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's pretty important to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
 ## Credits
 
