@@ -58,3 +58,5 @@ The program is driven by the program.md file in your event (copied from the [sam
 
 ### Speaker Images
 The headshots for your speaker images should be exactly 500px wide. (They display at 250px wide, but add them at 500px wide in order to make them look good on retina displays.) They must be in JPG format and named with the `.jpg` extension.
+
+## Fake PR, do not merge
