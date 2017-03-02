@@ -1,5 +1,6 @@
 /public
 # General CodeKit files to ignore
+# Adding a comment to test the mention bot
 config.codekit
 # config.toml # This is a dangerous file, but we need it not in here.
 /min
