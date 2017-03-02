@@ -1,8 +1,8 @@
 # Contributing to devopsdays-web
 
-The technical details on how to set up [Hugo](https://gohugo.io/) (to see your local edits), and prepare a Pull Request for inclusion on the [Devopsdays](http://www.devopsdays.org/) website.
+This document contains thetechnical details on how to set up [Hugo](https://gohugo.io/) (to see your local edits), and prepare a Pull Request for inclusion on the [Devopsdays](http://www.devopsdays.org/) website.
 
-If you'd like to assist in contributing the the overall code of the website, please see [devopsdays/devopsdays-theme](https://github.com/devopsdays/devopsdays-theme).
+If you'd like to assist in contributing the the code of the website, please see [devopsdays/devopsdays-theme](https://github.com/devopsdays/devopsdays-theme).
 
 ## Setup
 
@@ -50,11 +50,11 @@ Now open `baseURL` in a browser and navigate to the content that you're editing 
 
 ### Guidelines
 
-1. Code changes that affect the overall site should be made only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes will be made there, and when released, will be migrated to this repo.
+1. Code changes that affect the overall site should be made only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes will be made there, and when released, will be used in this repo.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-theme/issues) to track work, so feel free to create new issues if you like (or read/comment on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-theme/issues) so that it can be discussed by the team, prior to submitting a pull request.
 
-### Do not make changes to non-content files
+### Only make changes to event content files
 "Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
 
 Changes to content should be submitted as a separate PR from changes to site functionality. It would be additionally delightful if you label PR's for site functionality (such as `bug` or `enhancement`), but that's not required.
