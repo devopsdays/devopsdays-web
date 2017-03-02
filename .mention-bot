@@ -9,7 +9,7 @@
       "files": [".gitignore","config.toml","config-windows.toml"], 
       "skipTeamPrs": false 
     }
-  ], // Users will always be mentioned based on file glob
+  ],
   "findPotentialReviewers": false,
   "userBlacklist": [], 
   "userBlacklistForPR": [],
