@@ -96,6 +96,8 @@ sponsors:
     level: bronze
   - id: atlassian
     level: Evening Event
+  - id:  tamedia
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
