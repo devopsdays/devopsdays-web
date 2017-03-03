@@ -15,7 +15,7 @@ slideshare = ""
 slides = ""
 +++
 
-In a short ignite talk, I would like to give some inspiration what it means to work together in a devops environment:
+I would like to give some inspiration what it means to work together in a devops environment:
 
 * Away from tradtitional management (command & control)
 * Towards Devops leadership: The Coach, asking the right question, creating the right environment and the self-organizing team, with a strong improvement culture towards a common vision
