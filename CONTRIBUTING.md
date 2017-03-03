@@ -72,6 +72,7 @@ If you have permissions to merge PRs on this repo, here are a few guidelines to 
 ### PR Tests
 
 The following tests run when a PR is submitted:
+
 1. [Travis](https://travis-ci.org/devopsdays/devopsdays-web/) - this is a basic test that confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the Travis tests fail, please take a look as to why they failed.
 1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this again is a small test that builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason.
 1. [Gitmagic](https://gitmagic.io/) - This is a bot that makes sure our pull requests are fashioned cleanly. See [contributing.json](https://github.com/devopsdays/devopsdays-web/blob/master/contributing.json) for a list of rules that we enforce.
