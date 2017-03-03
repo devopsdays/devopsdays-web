@@ -65,7 +65,7 @@ Changes to event-specific content should be submitted in a separate PR from chan
 If you have permissions to merge PRs on this repo, here are a few guidelines to consider:
 
 1. Is the requestor authorized to make changes for that event? They need to appear on the contact list for the year and city they're editing.
-1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. 
+1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. Our bot will notify maintainers for any changes to non-content files and assign the PR's to the maintainers, so that should help.
 1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
 1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
 
