@@ -1,0 +1,43 @@
+ <!-- The following blocks of comments explains how this list is generated with Hugo.
+If you read this post generation, it will make no sense. see pre generated sources -->
+
+<!-- Scan through a range of years and look in data/events for events during these years.
+If found, store year in "active_years" scratch in order to get back to that year later.
+Also save the event name under scratch with the ID of the scratch equal to the year number.
+
+Chomping .year has the nice effect of turning an int into string. -->
+{{ range seq 2009 2020 }}
+  {{ $r_year := . }}
+  {{ range $.Site.Data.events }}
+  {{ if .startdate }}
+  {{ $my_year := string ((dateFormat "2006" .enddate ))}}
+    {{ if and (eq $my_year (string $r_year)) ( lt (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")))  }}
+      {{ $.Scratch.SetInMap "active_years" (print (chomp $my_year)) (print (chomp $my_year)) }}
+      {{ $.Scratch.SetInMap (print (chomp $my_year)) .enddate (.name) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ end }}
+
+<div class = "row">
+  <div class = "col-md-12">
+    <h2>Past</h2>
+  </div>
+</div>
+<div class = "row">
+  <!-- Now scan through all the years that were marked as active in order to print the headline -->
+  {{ range ($.Scratch.GetSortedMapValues "active_years") }}
+    <div class = "col-md-6 col-lg-3 events-page-col">
+      <h4 class="events-page-months">{{ . }}</h4>
+      <br/>
+        <!-- Finally, scan throug the scratch with the ID of that year and print all the events sorted by startdate
+  Chomping here in order to convert int to string -->
+        {{ range ($.Scratch.GetSortedMapValues (print (chomp .))) }}
+            {{ $.Scratch.Set "citydisplay" (index $.Site.Data.events . "city") }}
+          {{ $friendly := (index $.Site.Data.events . "name") }}
+          <a href="/events/{{ $friendly }}/" class = "events-page-event">{{ $.Scratch.Get "citydisplay" }}</a>
+          <br/>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
