@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    {{- partial "head.html" . -}}
+</head>
+
+<body lang="{{ .Site.Params.Lang }}">
+
+  {{- partial "global_navbar.html" . -}}
+  {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
+  {{ if or (eq (index $path 0) "events") (eq .Type "events") }}
+    {{- partial "events/event_navbar.html" . -}}
+  {{ end }}
+  <div class="container-fluid">
+        <div class="row">
+          {{ if .IsPage }}
+            {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
+            {{ if or (eq (index $path 0) "events") (eq .Type "events") }}
+
+              <div class="col-md-12">
+                  <!-- Main Content -->
+                  {{- block "main" . }} {{- end -}}
+              </div>
+            {{ else }}
+              <div class="col-md-8 push-md-2">
+                  <!-- Main Content -->
+                  {{- block "main" . }} {{- end -}}
+              </div>
+              <div class="col-md-2 pull-md-8">
+                  <a href = "/events" class="left-nav-navs">PAST EVENTS</a><br />
+                  {{- partial "future.html" . -}}
+              </div>
+            {{ end }}
+          {{ else }}
+            <div class="col-md-8 push-md-2">
+                <!-- Main Content -->
+                {{- block "main" . }} {{- end -}}
+            </div>
+            <div class="col-md-2 pull-md-8">
+                <a href = "/events" class="left-nav-navs">PAST EVENTS</a><br />
+                {{- partial "future.html" . -}}
+            </div>
+        {{ end }}
+        </div>
+
+      </div>
+
+    {{- partial "footer.html" . -}}
+    {{- partial "footer_scripts.html" . -}}
+
+</body>
+
+</html>

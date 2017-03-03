@@ -1,0 +1,87 @@
+<!--
+  Customize the labels on the map
+
+  *References*
+  - http://code.google.com/apis/maps/documentation/javascript/maptypes.html#StyledMaps
+  - http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerwithlabel/1.1/examples/basic.html
+-->
+<!-- <link href="/css/googlemaps.css" rel="stylesheet"> -->
+<!-- the above stylesheet has been moved into the main one -->
+<script type="text/javascript" language="javascript">
+function initialize() {
+    var map;
+    var bounds = new google.maps.LatLngBounds();
+    var mapOptions = {
+        mapTypeId: 'roadmap'
+    };
+
+    // Display a map on the page
+    map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+    map.setTilt(45);
+
+    // Add upcoming events here
+    // Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+    var markers = [
+      {{- range $.Site.Data.events -}}
+
+      // if there is a startdate set
+        {{ if .startdate }}
+
+      // if the startdate is today or in the future
+          {{ if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+
+      // if the startdate month and enddate month are different, show both months
+            {{ if ne (dateFormat "Jan" .startdate) (dateFormat "Jan" .enddate) }}
+              ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}-{{ dateFormat "Jan 2" .enddate }}', '/events/{{ .name }}'],
+            {{ else }}
+
+      // if the startdate and enddate are the same (ie, a one-day event), show one day
+            {{ if eq .startdate .enddate }}
+              ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}', '/events/{{ .name }}'],
+            {{ else }}
+
+      // if both dates in one month, show startdate with month & enddate without month
+              ['{{ .city}}', {{ .coordinates | safeJS }}, '{{ dateFormat "Jan 2" .startdate }}-{{ dateFormat "2" .enddate }}', '/events/{{ .name }}'],
+            {{- end -}} // end of same month
+
+            {{ end }} // end of different month
+          {{ end }} // end of "ge dateformat"
+        {{ end }} // end of startdate
+      {{ end }} // end of "range"
+    ];
+
+    // Display multiple markers on a map
+    // var infoWindow = new google.maps.InfoWindow(), marker, i;
+
+    // Loop through our array of markers & place each one on the map
+    for( i = 0; i < markers.length; i++ ) {
+        var position = new google.maps.LatLng(markers[i][1], markers[i][2]);
+        bounds.extend(position);
+        marker = new MarkerWithLabel({
+            position: position,
+            map: map,
+            labelContent: markers[i][0] + "<br>" + markers[i][3],
+            labelAnchor: new google.maps.Point(25, 50),
+            labelClass: "labels",
+            labelStyle: { opacity: 1 },
+            url: markers[i][4]
+        });
+        
+        google.maps.event.addListener(marker, 'click', function() {
+            window.location.href = this.url;
+        });
+        // refocus
+        map.fitBounds(bounds);
+    }
+}
+</script>
+
+<script type="text/javascript" language="javascript">
+      window.onload = function()
+      {
+          initialize();
+      };
+</script>
+
+<script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew"></script>
+<script type="text/javascript" src="/js/googlemaps_label-min.js"></script>

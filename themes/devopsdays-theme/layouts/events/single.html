@@ -1,0 +1,65 @@
+{{ define "main" }}
+
+<div>
+      {{ .Content }}
+</div>
+
+<div class = "row">
+  <div class = "col-md-12">
+    <h2>Future</h2>
+  </div>
+</div>
+
+<div class = "row">
+  {{ $.Scratch.Set "close-tag" "false" }}
+{{- range sort $.Site.Data.events "startdate" -}}
+  {{- if .startdate -}}
+    {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) -}}
+      {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
+        {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
+        {{- $.Scratch.Set "year-displayed" "false" -}}
+      {{- end -}}
+      {{- if ne ($.Scratch.Get "month") (dateFormat "January" .startdate ) -}}
+        {{- $.Scratch.Set "month" (dateFormat "January" .startdate ) -}}
+        {{- $.Scratch.Set "month-displayed" "false" -}}
+      {{- end -}}
+
+
+      {{- if ne ($.Scratch.Get "month-displayed") "true" -}}
+      {{- if eq ($.Scratch.Get "close-tag") "true"}}
+        </div>
+      {{ end }}
+      <div class = "col-md-6 col-lg-3 events-page-col">
+        <h4 class="events-page-months">{{ dateFormat "January" .startdate }}</h4>
+        {{- $.Scratch.Set "month-displayed" "true" -}}
+        {{ $.Scratch.Set "close-tag" "true" }}
+      {{- end -}}
+      {{- if ne .startdate .enddate }}
+      <a href = "/events/{{ .name }}/" class = "events-page-event">
+        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}
+        {{ .city }}
+      </a><br />
+      {{- else -}}
+      <a href = "/events/{{ .name }}/" class = "events-page-event">
+        {{ dateFormat "Jan 2" .startdate }}
+        {{ .city }}
+      </a><br />
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+</div>
+<div class = "col-md-6 col-lg-3 events-page-col">
+<h4 class="events-page-months">TBD</h4>
+{{- range $.Site.Data.events -}}
+  {{- if not .startdate -}}
+    <a href = "/events/{{ .name }}/" class = "events-page-event">{{ .city }}</a><br />
+  {{- end -}}
+{{- end -}}
+</div>
+  </div>
+
+
+{{ partial "past.html" . }}
+
+{{ end }}

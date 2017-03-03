@@ -1,0 +1,15 @@
++++
+Description = ""
+City = ""
+Year = ""
+Title = ""
+Speaker = ""
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Youtube = ""
+Vimeo = ""
+Slideshare = ""
+Slides = ""
+Type = "talk"
++++

@@ -1,0 +1,20 @@
+{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
+
+{{ if and ($e.cfp_date_start) ($e.cfp_date_end) ($e.cfp_date_announce)}}
+
+  {{ $cfp_date_start := $e.cfp_date_start }}
+  {{ $cfp_date_end := $e.cfp_date_end }}
+  {{ $cfp_date_announce := $e.cfp_date_announce }}
+
+  <center>
+  <b>Call for proposals opens {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_start }}.</b><br>
+  <b>Call for proposals closes {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_end }}.</b><br>
+  Selected proposals will be announced on {{ dateFormat "Monday, Jan 2, 2006" $cfp_date_announce }}.
+  </center>
+{{ else }}
+  <center>
+  <b>Call for proposals is TBD</b>
+  </center>
+{{ end }}
