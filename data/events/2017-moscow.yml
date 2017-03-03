@@ -50,9 +50,9 @@ sponsors:
   - id: aligntech
     level: silver
   - id: Logrocon
-    level: media
+    level: gold
   - id: Express42
-    level: media
+    level: gold
   - id: YEx
     level: media
   - id: superjob
@@ -94,6 +94,8 @@ sponsors:
   - id: praim
     level: media
   - id: hotwork
+    level: media
+  - id: realitsm
     level: media
   - id: mailru
     level: internet
