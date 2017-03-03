@@ -6,12 +6,12 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton",
-      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "themes/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "themes/**/*", "content/page/**/*", "static/_redirects"], 
       "skipTeamPrs": false 
     },
     {
       "name": "bridgetkromhout",
-      "files": ["utilities/**/*", "themes/**/*"],
+      "files": ["utilities/**/*", "themes/**/*", "content/page/**/*"],
       "skipTeamPrs": false
      }
   ],
