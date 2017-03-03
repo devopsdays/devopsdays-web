@@ -6,7 +6,7 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton",
-      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "/themes/**"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "themes/**/*"], 
       "skipTeamPrs": false 
     },
     {
