@@ -65,6 +65,7 @@ team_members:
     bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
     github: "DivineOps"
   - name: "Matt Stratton"
+    image: "matt-stratton.jpg"
     twitter: "mattstratton"
     employer: "Chef Software, Inc"
     website: "https://www.mattstratton.com"
