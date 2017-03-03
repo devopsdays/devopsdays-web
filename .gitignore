@@ -1,7 +1,7 @@
 /public
 # General CodeKit files to ignore
 config.codekit
-config.toml
+# config.toml # This is a dangerous file, but we need it not in here.
 /min
 .DS_Store
 .AppleDouble

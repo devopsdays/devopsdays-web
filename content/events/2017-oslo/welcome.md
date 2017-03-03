@@ -10,21 +10,32 @@ aliases = ["/events/2017-oslo"]
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<p><h3>For the second time, DevOpsDays is coming to Oslo!</h3></p
+<br>
+
+<p><h3>{{< event_link page="registration" text="Blind bird registration is open!" >}}</h3></p>
+
+<p>Be quick! Only 20 amazingly cheap tickets available.</p>
 
 </div>
 
+<br>
+
 <div style="text-align:left">
 
-<p>Registration will open soon. Follow us on Twitter, <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a> for notifications.
-
-<p>In the meantime have a look at videos from last year's event further down on this page.</p>
+<p>Make sure to follow us on Twitter, <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a> for notifications. We're pretty confident that you will enjoy them ;-)</p>
 
 <hr>
 
+<p>For the second time, DevOpsDays is coming to Oslo! While you wait for this year's event have a look at the videos from last year at the bottom of this page. And don't forget to {{< event_link page="registration" text="register!" >}}</p>
+
 <p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
 
-<p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of September 5th. A great opportunity for networking, mingling and having a good time.</p>
+<p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of November 1st. A great opportunity for networking, mingling and having a good time.</p>
+
+<hr>
+
+<h2>Call for papers</h2>
+{{< event_link page="propose" text="Propose a talk!" >}}
 
 <hr>
 
@@ -32,22 +43,6 @@ aliases = ["/events/2017-oslo"]
 {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
 
 <hr>
-
-<h2>Videos from last year</h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BTTqGoLdRJM" frameborder="0" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sr3OS6wfxzc" frameborder="0" allowfullscreen></iframe>
-
-</div>
-
-</div>
-
-<br>
-<hr>
-
-## Call for papers
-{{< event_link page="propose" text="Propose a talk!" >}}.
 
 <div class = "row">
   <div class = "col-md-3">
@@ -63,10 +58,7 @@ aliases = ["/events/2017-oslo"]
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    Registration has not yet opened.
-    <!-- 
     {{< event_link page="registration" text="Register to attend the event!" >}}
-    -->
   </div>
 </div>
 
@@ -84,7 +76,7 @@ aliases = ["/events/2017-oslo"]
     <strong>Conference hotel</strong>
   </div>
   <div class = "col-md-8">
-    TBA
+    TBD
     <!--<a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a>-->
   </div>
 </div>
@@ -103,7 +95,7 @@ aliases = ["/events/2017-oslo"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    Call for papers has not opened yet. Stay tuned!
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
 
@@ -143,3 +135,16 @@ aliases = ["/events/2017-oslo"]
   </div>
 </div>
 
+
+<h2>Videos from last year</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BTTqGoLdRJM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sr3OS6wfxzc" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
+</div>
+
+<br>
+<hr>

@@ -35,6 +35,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ilan Rabinovitch"
   - name: "Jordan Schwartz"
   - name: "Lars Lehtonen"
+  - name: "Omar Alva"
 
 organizer_email: "organizers-los-angeles-2017@devopsdays.org"
 proposal_email: "organizers-los-angeles-2017@devopsdays.org"
@@ -55,6 +56,10 @@ sponsors:
   - id: collabnet
     level: sponsor
   - id: threatstack
+    level: sponsor
+  - id: versionone
+    level: sponsor
+  - id: cyberark
     level: sponsor
   - id: 2017-openx
     level: lanyard

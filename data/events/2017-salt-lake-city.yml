@@ -12,8 +12,6 @@ cfp_date_start: 2016-12-14 # start accepting talk proposals.
 cfp_date_end: 2017-02-15 # close your call for proposals.
 cfp_date_announce: 2017-03-01 # inform proposers of status
 
-event_logo_square: "logo-square.jpg"
-
 # Location
 #
 coordinates: "40.552756, -111.901249" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -68,10 +66,22 @@ proposal_email: "proposals-saltlakecity-2017@devopsdays.org" # Put your proposal
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: morpheus_data
-    level: greencircle
+    level: bluesquare
   - id: xmatters
     level: bluesquare
   - id: deis
+    level: blackdiamond
+  - id: hpe
+    level: bluesquare
+  - id: influxdata
+    level: bluesquare
+  - id: victorops
+    level: bluesquare
+  - id: logz
+    level: blackdiamond
+  - id: newrelic
+    level: blackdiamond
+  - id: pivotal
     level: blackdiamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -19,10 +19,10 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>CFP</strong>
+    <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="CFP for talks is now open. Submit yours now!" >}}
+    [Speakers List](/events/2017-denver/speakers/)
   </div>
 </div>
 <div class = "row">

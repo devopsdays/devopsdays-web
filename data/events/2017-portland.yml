@@ -12,8 +12,6 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-event_logo_square: "logo-square.jpg"
-
 # Location
 #
 coordinates: "45.528562, -122.663028" # The coordinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -25,7 +23,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -66,9 +64,6 @@ team_members:
   - name: "Matt Greensmith"
     twitter: "mgreensmith"
     employer: "Cozy"
-  - name: "Tim Smith"
-    twitter: "tas50"
-    employer: "Chef"
   - name: "Megan Guiney"
 
 organizer_email: "organizers-portland-2017@devopsdays.org" # Put your organizer email address here
@@ -77,6 +72,14 @@ proposal_email: "proposals-portland-2017@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+    - id: columbia
+      level: gold
+    - id: pivotal
+      level: gold
+    - id: recompiler
+      level: community
+    - id: chef
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
