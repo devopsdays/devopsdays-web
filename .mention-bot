@@ -11,7 +11,7 @@
     },
     {
       "name": "bridgetkromhout",
-      "files": ["utilities/**/*"],
+      "files": ["utilities/**/*", "themes/**/*"],
       "skipTeamPrs": false
      }
   ],
