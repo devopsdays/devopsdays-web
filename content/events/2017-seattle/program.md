@@ -133,6 +133,12 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul style="padding-left: 15px">
+          <li><a href="/events/2017-seattle/program/david-blank-edelman/">David Blank-Edelman</a><br>
+          <li><a href="/events/2017-seattle/program/greg-elin/">Greg Elin</a><br>
+          <li><a href="/events/2017-seattle/program/dawn-parzych/">Dawn Parzych</a><br>
+          <li><a href="/events/2017-seattle/program/glenn-sarti/">Glenn Sarti</a><br>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -309,7 +315,12 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br>
+        <ul style="padding-left: 15px">
+          <li><a href="/events/2017-seattle/program/jason-yee/">Jason Yee</a>
+          <li><a href="/events/2017-seattle/program/ram-jothikumar/">Ram Jothikumar</a>
+          <li><a href="/events/2017-seattle/program/jason-vernon/">Jason Vernon</a>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
