@@ -140,6 +140,14 @@ aliases = [
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Streaming</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="stream" text="Stream the event!" >}} The days of the event, we will be live streaming all the keynote and ignite sessions.
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
