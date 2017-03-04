@@ -22,6 +22,112 @@ Our sponsorship package are constructed to offer our sponsors lead generation, n
   <li>Expected attendee count: 200</li>
 </ul>
 
+### Sponsor packages
+
+<table border=1 cellspacing=1>
+  <tr>
+    <th><i>Packages</i></th>
+    <th><center><b><u>Platinum</u></center></b></th>
+    <th><center><b><u>Gold</u></center></b></th>
+    <th><center><b><u>Community</u></center></b></th>
+  </tr>
+  <tr>
+    <td>Price</td>
+    <td>NOK 50.000</td>
+    <td>NOK 35.000</td>
+    <td>NOK 15.000</td>
+  </tr>
+  <tr>
+    <td>Available slots</td>
+    <td>???</td>
+    <td>???</td>
+    <td>???</td>
+  </tr>
+  <tr>
+    <td>Free tickets</td>
+    <td>5</td>
+    <td>4</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Ticket discount</td>
+    <td>15% off</td>
+    <td>10% off</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stand space</td>
+    <td>???</td>
+    <td>???</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Logo on web site</td>
+    <td bgcolor="gold">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1 minute pitch</td>
+    <td bgcolor="gold">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+### Add-ons
+
+If you have bought one of the sponsor packages we can also offer some add-ons:
+<table border=1 cellspacing=1>
+  <tr>
+    <th><i>Add-on</i></th>
+    <th><i>Price</i></th>
+    <th><i>Available</i></th>
+  </tr>
+  <tr>
+    <td>Party sponsor</td>
+    <td>NOK 10.000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Breakfast sponsor</td>
+    <td>NOK 10.000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Lunch sponsor</td>
+    <td>NOK 10.000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Dinner sponsor</td>
+    <td>NOK 10.000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Beer sponsor</td>
+    <td>NOK 10.000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Wifi sponsor</td>
+    <td>NOK 10.000</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Lanyard sponsor</td>
+    <td>NOK 10.000</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Badge sponsor</td>
+    <td>NOK 10.000</td>
+    <td>3</td>
+  </tr>
+</table>
+
+You are also free to suggest add-ons yourself. Just let us know. :)
+
 <!--
 <h3 id="sponsorship">Gold sponsor pack</h3>
 DevopsDays is gathering IT practitioners, managers, developers, and influencers from all over Scandinavia and as a Gold Sponsor you will have an opportunity to be right there with them. Gold Sponsorships include opportunities to connect with each one of these attendees as we strategically drive traffic to your sponsor booth. Gold sponsors enjoy pre-event promotion through our social media as well as our website. The package costs NOK 35.000, EUR 3.800, USD 4.300, which includes:
