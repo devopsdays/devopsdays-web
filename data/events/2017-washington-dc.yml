@@ -25,7 +25,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
+    url: https://devopsdaysdc2017.busyconf.com/bookings/new
   - name: sponsor
   - name: contact
   - name: conduct
