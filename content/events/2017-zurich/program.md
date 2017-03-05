@@ -225,7 +225,7 @@ type = "event"
         <time>09:10-09:40</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-zurich/program/charity-majors/">Charity Majors: <em>On making good technical decisions</em></a>
+        <a href="/events/2017-zurich/program/charity-majors/">Charity Majors: <em>A Young Lady's Illustrated Primer to Technical Decison-Making</em></a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
