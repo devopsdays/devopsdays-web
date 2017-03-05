@@ -304,10 +304,10 @@ type = "event"
       <div class = "col-md-6 box">
         <p><strong>Ignites</strong></p>
         <p><a href="/events/2017-zurich/program/alex-lichtenberger/">Alex Lichtenberger: <em>DevOps and Holacracy (or alternatively: Are you a manager or a leader?)</em></a></p>
-        <p><a href="/events/2017-zurich/program/cyrill-ruetimann/">Cyrill Rüttimann: <em>New ways to effectively develop a DevOps culture</em></a></p>
-        <p><a href="/events/2017-zurich/program/maik-Wojcieszak/">Maik Wojcieszak: <em>Industrial DevOps - cross organizational automation in production</em></a></p>
+        <p><a href="/events/2017-zurich/program/cyrill-ruettimann/">Cyrill Rüttimann: <em>New ways to effectively develop a DevOps culture</em></a></p>
+        <p><a href="/events/2017-zurich/program/maik-wojcieszak/">Maik Wojcieszak: <em>Industrial DevOps - cross organizational automation in production</em></a></p>
         <p><a href="/events/2017-zurich/program/dave-halter/">Dave Halter: <em>Beautiful Deployment Code</em></a></p>
-        
+
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

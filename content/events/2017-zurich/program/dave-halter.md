@@ -1,24 +1,31 @@
 +++
+City = "Zurich"
+Year = "2017"
 date = "2017-03-03T14:40:54+01:00"
-linktitle = "dave-halter"
-title = "Dave Halter"
+talk_date = ""
+talk_start_time = ""
+talk_end_time = ""
+title = "Beautiful Deployment Code"
 type = "talk"
-
+speakers = ["dave-halter"]
+youtube = ""
+vimeo = ""
+speakerdeck = ""
+slideshare = ""
+slides = ""
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
+We all know that DevOps is not (only) about deploying the latest WordPress anymore. There
+is a growing number of projects that have huge deployment scripts - think OpenStack or
+OpenShift. In this context it is extremely important to keep deployment code readable and
+maintainable.
 
-</p>
+This talk will not try to give you a best practice overview, but show you how Ansible as a
+whole could be improved. Ansible has a very rich set of features, its YAML files however
+are often a stumbling block and understanding a big YAML project is not a task for
+bystanders. In a simple RFC [1] there is a proposal on how Ansible could look like in the
+future.
 
-<p><strong>Description:</strong></p>
+[1] https://github.com/davidhalter/pysible
 
-<p>
-
-</p>
-<p>
-
-  </div>
-</div>
-
+[2] https://github.com/davidhalter/jedi"
