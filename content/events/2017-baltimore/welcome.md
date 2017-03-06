@@ -76,6 +76,16 @@ aliases = [
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Slack</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="http://slack.baltimoretech.org/">Sign-up for the Baltimore Tech
+    Slack Team</a> and join the #devopsdays channel.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Streaming</strong>
   </div>
   <div class = "col-md-8">
@@ -104,7 +114,7 @@ aliases = [
     <p>
       This is a free happy hour but
       <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new">registration
-      is required</a>. 
+      is required</a>.
     </p>
 
     <p>
