@@ -1,0 +1,46 @@
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>Upcoming devopsdays events</title>
+<atom:link href="{{ $.Site.Params.weburl }}/events/index.xml" rel="self" type="application/rss+xml" />
+<link>{{ $.Site.Params.weburl }}</link>
+    <description>Upcoming devopsdays events</description>
+<lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" .Now }}</lastBuildDate>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<language>en-us</language>
+<copyright>Copyright 2016-2017 devopsdays</copyright>
+<generator>Hugo -- gohugo.io</generator>
+{{- range sort $.Site.Data.events "startdate" -}}
+  {{- if .startdate -}}
+    {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) -}}
+    <item>
+      <title>devopsdays {{ .city }} {{ .year }}</title>
+      <link>{{ $.Site.Params.weburl }}/events/{{ .name}}</link>
+      <guid>{{ $.Site.Params.weburl }}/events/{{ .name}}</guid>
+      <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" $.Now }}</pubDate>
+      {{ if .description }}
+        <description>{{.description | markdownify | htmlEscape}}</description>
+      {{ else }}
+        {{ if eq .startdate .enddate }}
+          <description>devopsdays {{ .city }} {{ .year }} will be taking place {{ dateFormat "Mon, 2 Jan 2006" .startdate }}.</description>
+        {{ else }}
+          <description>devopsdays {{ .city }} {{ .year }} will be taking place {{ dateFormat "Mon, 2 Jan 2006" .startdate }} through {{ dateFormat "Mon, 2 Jan 2006" .enddate }}.</description>
+        {{ end }}
+      {{ end }}
+    </item>
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+</channel>
+
+
+</rss>
