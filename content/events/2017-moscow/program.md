@@ -247,7 +247,7 @@ Iginte<br>Илья Шеер (Beame), Lower your TCO with custom solutions and NG
 		<time>17:15-17:45</time>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-Доклад 18
+		<a href="/events/2017-moscow/program/ilyasher">Илья Шер (Beame.io), Lower your TCO with custom solutions and NGS</a>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/dubrovin">Александр Дубовин  (SuperJob),  Готовим тестовое окружение или сколько тестовых инстансов вам нужно</a>
