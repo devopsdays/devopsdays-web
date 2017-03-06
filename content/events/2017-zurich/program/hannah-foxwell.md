@@ -14,5 +14,10 @@ speakerdeck = ""
 slideshare = ""
 slides = ""
 +++
-<p>The health of your culture is a product of the ideas, beliefs and behaviour of your human colleagues. The health of your platform includes the health of the humans that build and support it.</p>
-<p>In this talk Hannah will discuss the very human aspects of DevOps and why we need to take a more Human approach to DevOps transformation. <a href="https://twitter.com/humanops">#HumanOps</a></p>
+
+The health of your culture is a product of the ideas, beliefs and behaviour of your human 
+colleagues. The health of your platform includes the health of the humans that build and 
+support it.
+
+In this talk Hannah will discuss the very human aspects of DevOps and why we need to take 
+a more Human approach to DevOps transformation. [@HumanOps](https://twitter.com/humanops)
