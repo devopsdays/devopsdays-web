@@ -1,0 +1,4 @@
+{{ $path := split .Page.Source.File.Path "/" }}
+{{ $event_slug := index $path 1 }}
+
+<a href = "/events/{{ $event_slug }}/program/{{ .Get "speaker" }}">{{ .Get "title" }}</a>

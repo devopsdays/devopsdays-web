@@ -1,0 +1,40 @@
+{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
+
+{{ $coords := split $e.coordinates "," }}
+{{ $lat := index $coords 0 }}
+{{ $lng := index $coords 1 }}
+
+lat is {{ $lat }}
+long is {{ $lng }}
+
+<!-- <link href="/css/googlemaps.css" rel="stylesheet"> -->
+<!-- this has been moved into the main stylesheet -->
+
+<div id="map_canvas" style="width: 550px; height: 265px"></div>
+
+<script type="text/javascript" language="javascript">
+  function initMap() {
+    var mapDiv = document.getElementById("map_canvas");
+    var position = new google.maps.LatLng({{ $lat }}, {{ $lng }});
+
+    var map = new google.maps.Map(mapDiv, {
+      center: position,
+      zoom: 14,
+      mapTypeID: google.maps.MapTypeId.ROADMAP
+    });
+
+    var marker = new google.maps.Marker({
+      position: position,
+      map: map,
+      title: "{{ $e.location }}",
+    });
+  }
+
+  window.onload = function() {
+    initMap();
+  };
+</script>
+
+<script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew"></script>
