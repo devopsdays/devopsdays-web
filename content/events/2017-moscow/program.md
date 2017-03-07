@@ -157,15 +157,7 @@ type = "event"
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>13:30-14:30</time>
-	</div>
-    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Dinner <br>(<em>Обед</em>)
-	</div>
-</div>
-<div class = "row" style="display:flex;">
-	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>14:30-15:00</time>
+		<time>13:30-14:00</time>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/konstantin-nazarov">Константин Назаров (Tarantool), Как сделать PaaS при помощи Docker, Consul и обвязки на Python</a>
@@ -180,7 +172,29 @@ type = "event"
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>14:00-15:00</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Dinner <br>(<em>Обед</em>)
+	</div>
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
 		<time>15:00-15:30</time>
+	</div>
+	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        <a href="/events/2017-moscow/program/dubrovin">Александр Дубовин  (SuperJob),  Готовим тестовое окружение или сколько тестовых инстансов вам нужно</a>
+	</div>
+	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Dinner (Обед продолжение)
+	</div>
+	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+
+	</div>
+</div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>15:30-16:00</time>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/anton-weiss"><em>Антон Вайс (Отомато), Как измерить поток? </em></a>
@@ -194,7 +208,7 @@ type = "event"
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>15:30-16:00</time>
+		<time>16:00-16:30</time>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/leon-fayer2">Leon Fayer, BizOps and You </a>
@@ -208,27 +222,7 @@ type = "event"
 </div>
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>16:00-16:15</time>
-	</div>
-    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-	Iginte<br>
-Солдатов (Ethcore) TBD<br><br>
-Iginte<br>Илья Шеер (Beame), Lower your TCO with custom solutions and NGS	
-	</div>
-</div>
-
-<div class = "row" style="display:flex;">
-	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>16:15-16:45</time>
-	</div>
-    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        Coffee-break <br>(<em>Кофе-брейк</em>)
-	</div>
-</div>
-
-<div class = "row" style="display:flex;">
-	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>16:45-17:15</time>
+		<time>16:30-17:00</time>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
         <a href="/events/2017-moscow/program/MichaelKoltsov">Michaił Kołcow (Grand Parade), Automate yourself out of running your applications with Apache Mesoss</a>
@@ -241,16 +235,37 @@ Iginte<br>Илья Шеер (Beame), Lower your TCO with custom solutions and NG
 
 	</div>
 </div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>17:00-17:15</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+	Iginte<br>
+Солдатов Денис (Parity Technologies) Особенности кросскомпиляции или почему мы отказались от Travis CI<br><br>
+Iginte<br><a href="/events/2017-moscow/program/ilyasher">Илья Шер (Beame.io), Lower your TCO with custom solutions and NGS</a>	
+	</div>
+</div>
 
 <div class = "row" style="display:flex;">
 	<div class = "col-md-2" style="padding: 1.5em;">
-		<time>17:15-17:45</time>
+		<time>17:15-17:30</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Coffee-break <br>(<em>Кофе-брейк</em>)
+	</div>
+</div>
+
+
+
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>17:30-17:45</time>
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-		<a href="/events/2017-moscow/program/ilyasher">Илья Шер (Beame.io), Lower your TCO with custom solutions and NGS</a>
+		Coffee-break(Кофе-брейк)
 	</div>
 	<div class = "col-md-4 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
-        <a href="/events/2017-moscow/program/dubrovin">Александр Дубовин  (SuperJob),  Готовим тестовое окружение или сколько тестовых инстансов вам нужно</a>
+        <a href="/events/2017-moscow/program/nistratov">Artem Nistratov (ООО "Нейрон"), Настройка окружения проекта в docker compose</a>
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
 
@@ -265,11 +280,11 @@ Iginte<br>Илья Шеер (Beame), Lower your TCO with custom solutions and NG
 Open Space Session	
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;padding-left:0px;padding-right:0px;">
-        <a href="/events/2017-moscow/program/nistratov">Artem Nistratov (ООО "Нейрон"), Настройка окружения проекта в docker compose</a>
+        
 		<hr style="margin-up:75px; margin-bottom:75px; border-color:white;"/>
 		<a href="/events/2017-moscow/program/suvorov">Konstantin Suvorov, Расширение возможностей Ansible</a>
 		<hr style="margin-up:75px; margin-bottom:75px; border-color:white;"/>
-		Ринат Кхабибиев
+		Ринат Кхабибиев, Несколько интересных кейсов продвинутого использования Fabricio
 		<hr style="margin-up:75px; margin-bottom:75px; border-color:white;"/>
 		Мастер-класс 4
 	</div>
@@ -308,3 +323,12 @@ Open Space Session
         VIP-part <br>(<em>VIP-часть	</em>)
 	</div>
 </div>
+<div class = "row" style="display:flex;">
+	<div class = "col-md-2" style="padding: 1.5em;">
+		<time>22:30 - 22:45</time>
+	</div>
+    <div class = "col-md-10 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;">
+        Трансфер зарубежных докладчиков
+	</div>
+</div>
+
