@@ -1,6 +1,7 @@
 name: "2017-seattle" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Seattle" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayssea"
 description: "DevOpsDays is returning to Seattle in 2017" # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -19,8 +20,8 @@ location: "Seattle" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-  - name: propose
+  - name: program
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
@@ -31,12 +32,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Rob Cummings"
+    twitter: "opsrob"
   - name: "Dominica DeGrandis"
+    twitter: "dominicad"
   - name: "Dan Dicamillo"
+    twitter: "criticalthinker"
   - name: "Jeremy Dyche"
   - name: "Michael Goetz"
+    twitter: "michaelpgoetz"
   - name: "Ken Mugrage"
+    twitter: "kmugrage"
   - name: "Michael Towbin"
+    twitter: "MichaelTowbin"
   - name: "Todd Wilson"
 
 organizer_email: "organizers-seattle-2017@devopsdays.org" # Put your organizer email address here
@@ -57,8 +64,44 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
+  - id: ns1
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: chef
+    level: gold
+  - id: stackstorm
+    level: gold
+  - id: automic-seattle
+    level: gold
+  - id: leankit
+    level: gold
+  - id: catchpoint
+    level: gold
+  - id: hpe-seattle-2017
+    level: gold
+  - id: northeastern-university
+    level: gold
+  - id: vmware
+    level: gold
+  - id: rei
+    level: gold
+  - id: accenture
+    level: gold
+  - id: getty-images
+    level: gold
+  - id: victorops
+    level: silver
+  - id: netapp
+    level: silver
+  - id: strongbridge-consulting
+    level: silver
   - id: spoken
     level: bronze
+  - id: seattle-devops-meetup
+    level: community
+  - id: seattle-coffeeops
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -69,7 +112,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 20
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

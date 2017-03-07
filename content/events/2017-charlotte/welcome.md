@@ -59,7 +59,7 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    Coming soon!
+    View the {{< event_link page="program" text="Program" >}}
   </div>
 </div>
 
@@ -103,3 +103,8 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
 
 <!-- add your city twitter name here without the @ sign -->
 {{< event_twitter devopsdays_clt >}}
+
+<hr>
+<h3>Featured speaker</h3>
+<p><strong>Charity Majors</strong></p>
+<blockquote style="font-size: 13px; height: 160px;"><p><img style="float:left; width:150px; height:150px; margin: 0px 10px 0px 0px" src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAATrAAAAJGI4NTBiNzEzLTE1OWUtNDUzYi05YjFiLTkzZjZkNmFlYTk5NA.jpg" width="150" height="150" alt="Charity Majors">Charity Majors is the cofounder and CTO of Honeycomb, a new startup focused on mining machine data. Previously, Charity ran infrastructure at Parse and was an engineering manager at Facebook. She also worked with the RocksDB team to build and deploy the world’s first Mongo + Rocks in production. Charity likes single malt scotch.</blockquote>

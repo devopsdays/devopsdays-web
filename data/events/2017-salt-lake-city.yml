@@ -1,6 +1,7 @@
 name: "2017-salt-lake-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysslc"
 description: "DevOpsDays returns to the Silicon Slopes!"# A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -65,8 +66,22 @@ proposal_email: "proposals-saltlakecity-2017@devopsdays.org" # Put your proposal
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: morpheus_data
-    level: greencircle
+    level: bluesquare
+  - id: xmatters
+    level: bluesquare
   - id: deis
+    level: blackdiamond
+  - id: hpe
+    level: bluesquare
+  - id: influxdata
+    level: bluesquare
+  - id: victorops
+    level: bluesquare
+  - id: logz
+    level: blackdiamond
+  - id: newrelic
+    level: blackdiamond
+  - id: pivotal
     level: blackdiamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

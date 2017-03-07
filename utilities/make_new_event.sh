@@ -4,7 +4,7 @@ set -e
 
 # We assume the current year (and also assume bash 3, because macs)
 read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2016'
+[ -z "${year}" ] && year='2017'
 
 # We urlize the city slug
 read -p "Enter your city name: " city

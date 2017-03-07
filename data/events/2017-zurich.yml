@@ -1,6 +1,7 @@
 name: "2017-zurich" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
+event_twitter: "devopszh"
 friendly: "2017-zurich" # Four digit year and the city name in lower-case. Don't forget the dash!
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -19,12 +20,12 @@ location: "Zürich Winterthur" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
-  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: speakers
+  - name: program
+# - name: propose
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
-    url: https://devopsdays.ch/
   - name: sponsor
   - name: contact
   - name: conduct
@@ -51,6 +52,10 @@ team_members: # Name is the only required field for team members.
     twitter: "tobruzh"
     employer: "VSHN AG"
   - name: "Vittorio Boccone"
+    twitter: "drbokko"
+    employer: "Dectris Ltd."
+  - name: "Matías E. Fernández"
+    twitter: "matiasfrndz"
 
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
@@ -76,14 +81,31 @@ sponsors:
     level: bronze
   - id:  atos
     level: gold
+  - id: codecentric
+    level: silver
+  - id: hidora
+    level: silver
+  - id: nine
+    level: silver
+  - id: xebialabs
+    level: gold
+  - id: puzzle-itc
+    level: bronze
+  - id: container-solutions
+    level: bronze
+  - id: atlassian
+    level: Evening Event
+  - id:  tamedia
+    level: silver
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: Evening Event
+    label: Evening Event
   - id: gold
     label: Gold
   - id: silver
     label: Silver
   - id: bronze
     label: Bronze
-  - id: Evening Event
-    label: Evening Event

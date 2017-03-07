@@ -1,6 +1,8 @@
 name: "2017-minneapolis"
 year: "2017"
 city: "Minneapolis"
+description: "devopsdays is returning to Minneapolis for a fourth year!"
+event_twitter: "devopsdaysmsp"
 
 startdate: 2017-07-25
 enddate: 2017-07-26
@@ -54,6 +56,16 @@ sponsors:
   - id: hackthegap
     level: community
   - id: saucelabs
+    level: silver
+  - id: victorops
+    level: platinum
+  - id: chef
+    level: silver
+  - id: sumologic
+    level: platinum
+  - id: hpe
+    level: gold
+  - id: veritas
     level: silver
 
 sponsors_accepted : "yes"

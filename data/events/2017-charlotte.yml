@@ -1,6 +1,7 @@
 name: "2017-charlotte" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Charlotte" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays_clt"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -19,11 +20,11 @@ location: "Mint Museum Uptown" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
   - name: propose
     url: https://www.papercall.io/dod-clt
   - name: location
-  - name: agenda
+#  - name: agenda
   - name: registration
   - name: sponsor
   - name: contact
@@ -61,6 +62,10 @@ sponsors:
     level: gold
   - id: ns1
     level: gold
+  - id: red-ventures
+    level: gold
+  - id: jfrog
+    level: gold
   - id: split-software
     level: silver
   - id: netapp
@@ -68,6 +73,8 @@ sponsors:
   - id: honeycomb
     level: silver
   - id: actifio
+    level: silver
+  - id: techtowntraining
     level: silver
   - id: victorops
     level: silver
@@ -81,6 +88,10 @@ sponsors:
     level: bronze
   - id: city-of-charlotte
     level: community
+  - id: softwaredefinedtalk
+    level: community
+  - id: dynatrace
+    level: coffee
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,3 +110,5 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: coffee
+    label: Coffee

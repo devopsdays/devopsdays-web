@@ -19,6 +19,22 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    [Speakers List](/events/2017-denver/speakers/)
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Tickets</strong>
+  </div>
+  <div class = "col-md-8">
+    [Tickets are now availible](https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364)
+  </div>
+</div>
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">

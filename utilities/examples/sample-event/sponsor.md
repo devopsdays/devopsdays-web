@@ -42,9 +42,28 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
 <hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
+There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 <br/>
 <br/>
+
+<br>
+<br>
+<table border=1 cellspacing=1>
+  <tr>
+    <th><i>Sponsor FAQ</i></th>
+    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
+    <th></th>
+  </tr>
+<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
+<tr><td>How do we ship to the venue?</td><td></td></tr>
+<tr><td>How do we ship from the venue?</td><td></td></tr>
+<tr><td>Whom should we send?</td><td></td></tr>
+<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
+<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
+<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
+<tr><td>Additional important details</td><td></td></tr>
+</table>
 </div>
+
 -->
 <hr/>

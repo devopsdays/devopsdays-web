@@ -14,7 +14,7 @@ aliases = ["/events/2017-beijing"]
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**DevOpsDays is coming to {{< event_location >}}!**
+**DevOpsDays is coming to {{< event_location >}} in Beijing,China!**
 <!-- **devopsdays is coming to {{< event_location >}}!** -->
 
 <!-- <div style="text-align:center;">
@@ -30,14 +30,14 @@ aliases = ["/events/2017-beijing"]
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

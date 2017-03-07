@@ -1,27 +1,46 @@
 +++
-date = "2016-10-11T18:48:25+02:00"
+date = "2017-02-16T14:22:48+02:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-paris"]
 
 +++
 
-<!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
+<h2>{{< event_start >}}</h2>
 
-<h2>devopsdays is coming to {{< event_location >}} in Spring 2017!</h2>
+L'équipe derrière devopsdays Paris 2013 et 2015, devops REX 2016, ainsi
+que les meetups Paris Devops, présente **devops REX 2017** : une
+conférence d'un jour, 100% retours d'expériences concrets du terrain,
+comprenant présentations, questions-réponses et échanges informels,
+directement auprès des décideurs informatiques qui pilotent et conçoivent
+ces changements.
+
+**La langue principale de cette conférence sera le français.**
+
+*(en)* From the team that brought you devopsdays Paris 2013 and 2015,
+devops REX 2016, as well as the Paris Devops Meetup, comes **devops
+REX 2017**: a one-day, single-track conference focusing on real world
+experience and feedback, featuring presentations, Q&A sessions, and
+discussions from industry practitioners and taste-makers.
+
+**The principal language of this conference will be French.**
+
+## Pour plus d'informations, veuillez visiter notre site principal: **https://www.devopsrex.fr/**
+
+<br />
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Date</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -68,14 +87,16 @@ aliases = ["/events/2017-paris"]
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<!--
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -86,4 +107,7 @@ aliases = ["/events/2017-paris"]
   </div>
 </div>
 
-{{< event_twitter devopsdaysparis >}}
+<br />
+<br />
+<!-- add your city twitter name here without the @ sign -->
+{{< event_twitter devopsrex >}}

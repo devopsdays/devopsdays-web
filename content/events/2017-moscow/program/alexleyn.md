@@ -8,36 +8,10 @@ type = "talk"
 
 <div class="span-15  ">
   <div class="span-15  last ">
-  <p><strong>Title:</strong>
-Deployment automatization
-</p>
 
-<p><strong>Description:</strong></p>
-
-<p><pre style='white-space: pre-wrap;       /* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;     '>
-•	Why delivery code for 4 days is not cool.
-•	Typical problems of delivery.
-•	High priority tasks for integration continuos delivery.
-•	Good test coverage. Quick rollback if we have errors. Full automatization. Deploy without maintenance. Feedback in real time.
-•	Jenkins integration with JIRA Software.
-•	Work with git.
-•	Testing in cloud systems.
-•	Consistent transitions to new version.
-•	Full processes monitoring.
-•	Notifications system.
-•	Rollback system at this moment.
-Total - 25 minutes from push to deploy on the production.
-
-</pre>
-
-</p>
   
   <p><strong>Тема:</strong>
-Автоматизация деплоя
+Как избавиться от человека?
 </p>
 
 <p><strong>Описание:</strong></p>

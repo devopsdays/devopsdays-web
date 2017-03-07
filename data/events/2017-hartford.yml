@@ -1,6 +1,7 @@
 name: "2017-hartford" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Hartford" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayshfd"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05

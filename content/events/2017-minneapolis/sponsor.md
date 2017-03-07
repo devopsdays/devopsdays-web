@@ -5,7 +5,7 @@ type = "event"
 
 +++
 
-Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2017/minneapolis/devopsdays-minneapolis-2017-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<del>Platinum</del>, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2017/minneapolis/devopsdays-minneapolis-2017-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships are available:
 
@@ -37,7 +37,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <th><i>packages</i></th>
     <th><center><b><u>Silver</u><br>$5,000</b></center></th>
     <th><center><b><u>Gold</u><br>$7,000</b></center></th>
-    <th><center><b><u>Platinum*</u><br>$10,000</b></center></th>
+    <th><center><b><u><del>Platinum*</del><br />SOLD OUT</u></b></center></th>
     <th></th>
   </tr>
 <tr><td>3 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
@@ -52,7 +52,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <tr><td>5 minute pitch to full audience on Day 1 (including streaming if applicable)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
 
-* There are a limited number of Platinum sponsorships available.
 
 </div>
 

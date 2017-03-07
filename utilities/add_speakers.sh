@@ -14,7 +14,7 @@ SEDCMD(){
 
 # Get year
 read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2016'
+[ -z "${year}" ] && year='2017'
 
 # Get city
 read -p "Enter your city name: " city

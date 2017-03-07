@@ -15,7 +15,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
     <th><b>Packages</b></th>
     <th><center><b><u>Bronze<br />1500 CHF</u></center></b></th>
     <th><center><b><u>Silver<br />3000 CHF</u></center></b></th>
-    <th><center><b><u>Gold<br />6000 CHF</u></center></b></th>
+    <th><center><b><u>Gold<br /><font color="red">SOLD OUT</font></u></center></b></th>
     <th></th>
   </tr>
 

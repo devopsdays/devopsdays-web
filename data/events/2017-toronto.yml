@@ -1,6 +1,7 @@
 name: "2017-toronto" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Toronto" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysTO"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -8,8 +9,8 @@ startdate: 2017-05-25 # The start date of your event. Leave blank if you don't h
 enddate: 2017-05-26 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-12-21 # start accepting talk proposals.
-cfp_date_end:  2017-01-31 # close your call for proposals.
-cfp_date_announce: 2017-02-28 # inform proposers of status
+cfp_date_end:  2017-02-07 # close your call for proposals.
+cfp_date_announce: 2017-03-07 # inform proposers of status.
 
 # Location
 #
@@ -49,8 +50,22 @@ proposal_email: "proposals-toronto-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: nocompany #HACK - add a sponsor at a non-existent level to force levels to show.
-    level: community
+  - id: victorops
+    level: gold
+  - id: deloitte
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: hpe
+    level: gold
+  - id: capitalonecanada
+    level: gold
+  - id: blendedperspectives
+    level: gold
+  - id: sourcedgroup
+    level: lunch
+  - id: dealer-fx
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -70,6 +85,7 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 5

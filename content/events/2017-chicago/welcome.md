@@ -15,23 +15,23 @@ Welcome!  The group that brought you DevOpsDays Chicago 2014-2016 is back togeth
   {{< event_logo >}}
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -88,5 +88,5 @@ Welcome!  The group that brought you DevOpsDays Chicago 2014-2016 is back togeth
 </div>
 
 <!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}} -->
+
+{{< event_twitter devopsdayschi >}}

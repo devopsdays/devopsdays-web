@@ -1,28 +1,29 @@
 name: "2017-stockholm" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Stockholm" # The displayed city name of the event. Capitalize it.
-description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+event_twitter: "devopsdayssthlm"
+description: "DevOpsdays are finally coming to Stockholm!"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-05-08  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2017-05-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-02-03  # start accepting talk proposals.
+cfp_date_end:  2017-03-05 # close your call for proposals.
+cfp_date_announce: 2017-03-26 # inform proposers of status
 
 # Location
 #
-coordinates: "59.329323, 18.068581" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Stockholm" # Defaults to city, but you can make it the venue name.
+coordinates: "59.290555, 18.084346" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Stockholm, Ballroom 12" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: propose
+    #url: https://devopsdayssthlm.typeform.com/to/eMaXqd
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -31,19 +32,35 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Andrey Devyatkin"
+    twitter: "Andrey9kin"
   - name: "Björn Sundling"
+    twitter: "Bjompen"
   - name: "Cecilia Wirén"
+    twitter: "CeciliaSHARP"
   - name: "Fredrik Nilsson"
+    twitter: "FredrikNilsson_"
+  - name: "Jessica Brown"
+    twitter: "jessalyn"
   - name: "Lowe Schmidt"
+    twitter: "loweschmidt"
   - name: "Niklas Åkerlund"
+    twitter: "vniklas"
 organizer_email: "organizers-stockholm-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-stockholm-2017@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: chef
+    level: gold
+  - id: pivotal
+    level: gold
   - id: praqma
     level: silver
+  - id: elastic
+    level: silver
+  - id: basefarm
+    level: bronze
   - id: arresteddevops
     level: community
 
@@ -56,7 +73,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
+    max: 8
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

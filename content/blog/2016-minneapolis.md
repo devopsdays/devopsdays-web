@@ -2,9 +2,10 @@
 Title = "Minneapolis 2016 in review"
 Date = "2016-08-08T15:59:27-05:00"
 Tags = ["2016"]
+Author = "Bridget Kromhout"
 +++
 
-<img src="https://raw.githubusercontent.com/devopsdays/devopsdays-web/master/static/events/2016-minneapolis/logo.png" style="max-width: 90%;" />
+<img src="https://raw.githubusercontent.com/devopsdays/devopsdays-web/master/static/events/2016-minneapolis/logo.png" alt="" style="max-width: 90%;" />
 
 <br>
 
@@ -123,5 +124,3 @@ Donnie Berkholz, Heather Mickman, Tony Notto, Samantha Grumdahl, Andy Domeier, J
 
 
 </div>
-
-

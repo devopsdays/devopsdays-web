@@ -3,47 +3,98 @@ date = "2016-11-28T22:36:47+01:00"
 title = "sponsor"
 type = "event"
 
-
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
-<hr>
+Please keep in mind, that you accept our Code of Conduct with sponsoring this event: {{< event_link page="conduct" text="Please read the Code of Conduct" >}}
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+<hr>
+### Sponsoring packages
+<table border="0" width="100%" style="padding: 5px;">
+  <tr>
+    <th><b>Packages</b></th>
+    <th><center><b><u>Bronze<br /></u>1000 €</center></b></th>
+    <th><center><b><u>Silver<br /></u>3000 €</center></b></th>
+    <th><center><b><u>Gold<br /></u>5000 €</center></b></th>
+    <th></th>
+  </tr>
+
+  <tr>
+    <td>Six sponsortickets in total</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Four sponsortickets in total</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Two sponsortickets in total</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Dedicated table/booth</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Shared table for swag</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo on its own slide, rotating during breaks</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo on all email communication</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo on shared slide, rotating during breaks</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Thank you tweet</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo on event website</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+</table>
+
+### Why DevOpsDays?
+
+DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+
 <br>
 Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br>
-<hr/>
-
-<!--
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:<%= render(:partial => "/#{@eventhome}/_email_organizers") %>?subject=Sponsor devopsdays <%= @eventid %>">send us an email</a>.
-<br/>
-<br/>
-</div>
--->
-<hr/>

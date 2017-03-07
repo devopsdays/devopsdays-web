@@ -2,6 +2,7 @@
 date = "2016-08-10T20:18:13+02:00"
 title = "conduct"
 type = "event"
+heading = "devopsdays Amsterdam - Code of Conduct"
 
 +++
 
@@ -16,6 +17,14 @@ Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are
 If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
+
+At Amsterdam we have staff dedicated to handle these incidents, please contact them via phone (WhatsApp, call, SMS):
+ 
+Kerim Satirli - +31 6 38 06 70 78
+Gerard DeVos - +31 6 47 43 00 94
+Mine Heck - +31 6 55 85 27 18
+
+You can also DM our Twitter handle {{< event_twitter devopsams >}}.
 
 Conference staff can be identified by distinct staff badges. Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 

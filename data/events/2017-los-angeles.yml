@@ -1,0 +1,82 @@
+name: "2017-los-angeles" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2017" # The year of the event. Make sure it is in quotes.
+city: "Los Angeles" # The displayed city name of the event. Capitalize it.
+description: "DevOpsDays is returning to Southern California in 2017" # A short blurb of text to describe your event, defaults to common DevOpsDays description
+
+# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+startdate:  2017-03-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2017-03-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2017-01-01 # start accepting talk proposals.
+cfp_date_end: 2017-02-17 # close your call for proposals.
+cfp_date_announce: 2017-02-20 # inform proposers of status
+
+# Location
+#
+coordinates: "34.149276,-118.142252"
+location: "Pasadena Convention Center" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: welcome
+  - name: program
+  - name: propose
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bryna Kirzner"
+  - name: "Chris Smith"
+  - name: "Chris Webber"
+  - name: "Ilan Rabinovitch"
+  - name: "Jordan Schwartz"
+  - name: "Lars Lehtonen"
+  - name: "Omar Alva"
+
+organizer_email: "organizers-los-angeles-2017@devopsdays.org"
+proposal_email: "organizers-los-angeles-2017@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: 2017-vdms
+    level: sponsor
+  - id: datadog
+    level: sponsor
+  - id: 2016-carsdotcom
+    level: sponsor
+  - id: gocd
+    level: sponsor
+  - id: opsgenie
+    level: sponsor
+  - id: collabnet
+    level: sponsor
+  - id: threatstack
+    level: sponsor
+  - id: versionone
+    level: sponsor
+  - id: cyberark
+    level: sponsor
+  - id: 2017-openx
+    level: lanyard
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: sponsor
+    label: ""
+    max: 10
+  - id: startup
+    label: "Startup"
+    max: 5
+  - id: lanyard
+    label: "Lanyard"
+    max: 1

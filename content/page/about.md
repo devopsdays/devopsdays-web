@@ -2,33 +2,32 @@
 Categories = []
 Description = ""
 Tags = []
-date = "2016-04-14T11:24:58-05:00"
+date = "2017-02-13T11:24:58-05:00"
 title = "About devopsdays"
+type = "about"
+aliases = ["/contact/"]
 
 +++
 
-DevopsDays is a technical conference, aimed at developers, sysadmins and anyone else involved in technology, wether expert or beginner.
+Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Topics often include automation, testing, security, and organizational culture.
 
-Truth is that agile techniques used in development have an impact on the way operations organizes its work. Similar, operations and sysadmins are becoming programmers because of the virtualization and automation trend where everything is managed through an API.
+### History
 
-> Some call this phenomenon **devops**, others **agile system administration**.
+The first devopsdays was held in Ghent, Belgium in 2009. Since then, devopsdays events have multiplied, and if there isn't one in your city, contact us about organizing one yourself!
 
-## Format
-Due to each event being organised by a local team, the format between events may differ, though after so many DevopsDays, it's structure has stabilised and is fairly consistent.
 
-Over the span of two days you can expect 3 presentations each morning, ignite talks just before lunch and openspace in the afternoon, as well as a social event on the first evening.
+### About the organization
+The devopsdays global core team guides local organizers in hosting their own devopsdays events worldwide.
 
-The content covers a broad range of topics like methodologies, tools and services, common practices for development and operations, as well as success stories.
+**Core Organizers**
 
-### Presentations
-Anyone can submit a presentation during the call for papers (which usually lasts until a month before the event), with the submissions being made public on the DevopsDays website. The DevopsDays team chooses 6 presentations from these submissions, based on a number of criteria but also with feedback received via the website.
+{{< list_core >}}
 
-### Ignites
-The ignite talks are a burst of knowledge, lasting for 15 minutes, with slides automatically changing every 15 seconds, and focusing on a specific topic, giving you a quick overview and letting you dig deeper by yourself if interested.
+If you have questions about hosting your own event or about potential future events you don't see listed, [email the core organizers](mailto:info@devopsdays.org). The core organizers cannot answer questions about sponsorships or registration for individual cities.
 
-Again, ignite talks are submitted in the same manner as the presentations.
+### Contact a specific event
 
-### Openspace
-The openspace format is a very successful and simple one. An hour before the openspace starts, topics are suggested by all attendees, and also each member votes on what topic they'd like to chat about from the ones suggested.
+Organization is decentralized. Local events handle their own sponsorships, registration, and all other organization. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
 
-There are 3 open space slots each day, running for 30 minutes, and for each slot, four topics are picked from the ones most voted, and a room (or a circle of chairs) is assigned to each topic. Everyone is welcome to go to whichever they are interested in.
+To contact the organizers for a given city:
+

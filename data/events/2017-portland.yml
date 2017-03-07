@@ -1,11 +1,12 @@
 name: "2017-portland" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Portland" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayspdx"
 friendly: "2017-portland"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2017-08-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
@@ -20,9 +21,9 @@ location: "Portland" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: propose
+    url: https://devopsdayspdx2017.busyconf.com/proposals/new
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -63,9 +64,6 @@ team_members:
   - name: "Matt Greensmith"
     twitter: "mgreensmith"
     employer: "Cozy"
-  - name: "Tim Smith"
-    twitter: "tas50"
-    employer: "Chef"
   - name: "Megan Guiney"
 
 organizer_email: "organizers-portland-2017@devopsdays.org" # Put your organizer email address here
@@ -74,6 +72,14 @@ proposal_email: "proposals-portland-2017@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+    - id: columbia
+      level: gold
+    - id: pivotal
+      level: gold
+    - id: recompiler
+      level: community
+    - id: chef
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
