@@ -100,7 +100,9 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br />
+    <a href="/events/2017-toronto/program/adam-lefkowitz/">Adam Lefkowitz - Automate all the things, including your brain.</a><br /><br />
+    <a href="/events/2017-toronto/program/philippe-tremblay/">Philippe Tremblay - Cloud First or DevOpsing with Governance, Legal and InfoSec</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -257,7 +259,10 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br />
+    <a href="/events/2017-toronto/program/david-numan/">David Numan - Automating Quality, and Learning to Contain Ourselves</a><br /><br />
+    <a href="/events/2017-toronto/program/fawzy-manaa/">Fawzy Manaa - Top 5 Ways to Fail at DevOps</a><br /><br />
+    <a href="/events/2017-toronto/program/ernest-kugel/">Ernest Kugel - A Case Study in Error Budgeting</a><br /><br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
