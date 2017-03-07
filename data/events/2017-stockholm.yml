@@ -55,6 +55,8 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: gocd
+    level: gold
   - id: praqma
     level: silver
   - id: elastic
