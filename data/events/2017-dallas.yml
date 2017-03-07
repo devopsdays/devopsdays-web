@@ -36,7 +36,7 @@ team_members: # Name is the only required field for team members.
   - name: "Mike Rosado"
     twitter: "MikeRosTX"
   - name: "Megan Bohl"
-    twitter: "megan_bohl"
+    twitter: "MeganBohl"
   - name: "Michael Hedgpeth"
     twitter: "michaelhedgpeth"
     employer: "NCR"
