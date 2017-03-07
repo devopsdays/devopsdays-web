@@ -212,7 +212,7 @@ type = "event"
         <time>10:15-10:45</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-toronto/program/arthur-maltson/">Arthur Maltson and Roderick Randolph - Deep Work: A New Working Model For Ops Teams in a DevOps Environment</a>
+        <a href="/events/2017-toronto/program/arthur-maltson-roderick-randolph/">Arthur Maltson and Roderick Randolph - Deep Work: A New Working Model For Ops Teams in a DevOps Environment</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
