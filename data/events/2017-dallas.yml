@@ -35,6 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Mike Rosado"
     twitter: "MikeRosTX"
+  - name: "Megan Bohl"
+    twitter: "MeganBohl"
   - name: "Michael Hedgpeth"
     twitter: "michaelhedgpeth"
     employer: "NCR"
