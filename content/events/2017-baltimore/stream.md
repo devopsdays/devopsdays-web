@@ -13,4 +13,4 @@ aliases = [
 
 The day of the events, we will be live streaming the keynotes and the ignite sessions.  Due to the organized chaos of Open Spaces, we will be unable to stream those.
 
-<a href="https://www.youtube.com/channel/UCxpCqO1jg-xyTB8uZo049Bw">DevOpsDays Baltmiore YouTube Channel</a>
+<a href="https://www.youtube.com/channel/UCxpCqO1jg-xyTB8uZo049Bw">DevOpsDays Baltimore YouTube Channel</a>
