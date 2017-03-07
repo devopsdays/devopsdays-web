@@ -1,0 +1,70 @@
+{{/* site data query copypasta */}}
+{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index $.Site.Data.events $event_slug) }}
+{{/* end site data query */}}
+
+
+  <!-- <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#eventNavBar" aria-controls="eventNavBar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button> -->
+  <!-- <div class="collapse navbar-collapse event-nav" id="eventNavBar"> -->
+    <ul class="nav">
+      <li class="nav-item event-navigation">
+        <span class = "hidden-md-down">
+          <a class="nav-link event-page-nav-home" href="/events/{{ $event_slug }}/">{{ $e.city }}</a>
+        </span>
+        <span class = "hidden-lg-up event-navigation-icon">
+          <a href="/events/{{ $event_slug }}/" class = "event-page-nav-home"><i class="fa fa-home fa-2x"></i></a>
+        </span>
+      </li>
+{{ if $e.nav_elements }}
+          {{ range $e.nav_elements }}
+            {{ if .url }}
+              <li class="nav-item event-navigation">
+                <span class = "hidden-md-down">
+                  <a class="nav-link" href="{{ .url}}">{{ .name }}</a>
+                </span>
+                <span class = "hidden-lg-up event-navigation-icon">
+                  {{ if .icon }}
+                    <a href = "{{ .url}}"><i class="fa fa-{{.icon}} fa-2x"></i></a>
+                  {{ else }}
+                    <a href = "{{ .url}}"><i class="fa fa-external-link fa-2x"></i></a>
+                  {{ end }}
+                </span></li>
+            {{ else }}
+              <li class="nav-item event-navigation">
+                <span class = "hidden-md-down">
+                  <a class="nav-link" href="/events/{{ $event_slug }}/{{ .name }}">{{ .name }}</a>
+                </span>
+                <span class = "hidden-lg-up event-navigation-icon">
+                  {{ if .icon }}
+                    <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-{{ .icon }} fa-2x"></i></a>
+                  {{ else }}
+                    {{ if eq .name "registration" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-user-plus fa-2x"></i></a>
+                    {{ else if eq .name "program" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-book fa-2x"></i></a>
+                    {{ else if eq .name "speakers" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-microphone fa-2x"></i></a>
+                    {{ else if eq .name "sponsor" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-money fa-2x"></i></a>
+                    {{ else if eq .name "contact" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-envelope-o fa-2x"></i></a>
+                    {{ else if eq .name "conduct" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-handshake-o fa-2x"></i></a>
+                    {{ else if eq .name "location" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-map-o fa-2x"></i></a>
+                    {{ else if eq .name "propose" }}
+                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-lightbulb-o fa-2x"></i></a>
+                    {{ else }}
+                    <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-plus fa-2x"></i></a>
+                   {{ end }}
+                  {{ end }}
+                </span>
+              </li>
+            {{ end }}
+         {{ end }}
+{{ end }}
+    </ul>
+  <!-- </div> -->
