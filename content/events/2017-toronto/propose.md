@@ -10,6 +10,8 @@ type = "event"
 
 <hr>
 
+__We're still looking for a few more ignites to round out our program. Submit your idea on <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> today.__
+
 ### Equal Opportunity
 
 DevOpsDays Toronto is committed to creating a diverse environment and is proud to invite people of all backgrounds and profiles to submit presentation proposals. All potential speakers will receive consideration without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, ability or age.
@@ -35,7 +37,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Submit
 
-To submit a talk create an account on our <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> and click the _Submit a talk_ button. 
+To submit a talk create an account on our <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> and click the _Submit a talk_ button.
 
 - Be specific... we aren't mind readers (a description of about 20 lines is about right)
 - Detail is good... but not as important as explaining why your proposal would be interesting

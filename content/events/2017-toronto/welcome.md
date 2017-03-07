@@ -46,7 +46,7 @@ aliases = ["/events/2017-toronto"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    We're still looking for a few more ignite proposals. {{< event_link page="propose" text="Submit your idea today!" >}}
   </div>
 </div>
 
