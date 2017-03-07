@@ -121,22 +121,19 @@ type = "event"
             <h4>Hacking your boss for DevOps - how to convince your manager to support DevOps</h4>
             <b>Emanuel Kleindienst - VSHN</b>
             <p>As a developer, you know you need to collaborate with the Ops-people to bring agility and DevOps to your project. But how do you explain this to your boss ? What are the other benefits your manager understands and can relate to ? Emanuel will show you different strategies to convince the bean counters in your company and brief you on the words and language they understand</p>
-            <p>About Emanuel Kleindienst:<br>
-            Emanuel Kleindienst is CCO at VSHN AG. He holds an Master of Arts degree in Management and eMBA @UCIrvine. He spent 20+ years in Swiss and international IT industry with stations at Honeywell (Intermec), Cisco Systems, Init7 (AS13030) and Brocade Communications. At VSHN, an Zurich based Start-up focused on managed services, DevOps and automation, he's currently building the Sales und Marketing department."</p>
         </div>
     </div> <!-- end timeslot div -->
     
     <div class = "row">
         <div class = "col-md-1"></div>
         <div class = "col-md-10 box">
-            <h4>DevOps and Holacracy (or alternatively: Are you a manager or a leader?)</h4>
+            <h4>DevOps and Holacracy (a.k.a. are you a manager or a leader?)</h4>
             <b>Alex Lichtenberger - Pontine</b>
-            <p>Description: In a short ignite talk, I would like to give some inspiration what it means to work together in a devops environment:</p>
-            <ul>
-                <li>Away from tradtitional management (command and control)</li>
-                <li>Towards Devops leadership: The Coach, asking the right question, creating the right environment and the self-organizing team, with a strong improvement culture towards a common vision</li>
-                <li>Enriched with some funny anecdotes from my past experience</li>
-            </ul>
+	    <p> Having the right cultural environment is key for DevOps success. In this short ignite talk, I would like to give some inspiration what it means to work together in a devops environment and the typical challenges:</p>
+	    <ul>
+		<li>Away from tradtitional management (command & control)</li>
+		<li>Towards Devops leadership: The coach, asking the right question, creating the right environment and the self-organizing team, with a strong improvement culture towards a common vision</li>
+	   </ul>
         </div>
     </div> <!-- end timeslot div -->
     
