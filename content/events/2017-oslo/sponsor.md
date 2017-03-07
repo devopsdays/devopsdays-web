@@ -33,45 +33,45 @@ Our sponsorship package are constructed to offer our sponsors lead generation, n
   </tr>
   <tr>
     <td>Price</td>
-    <td>NOK 50.000</td>
-    <td>NOK 35.000</td>
-    <td>NOK 15.000</td>
+    <td>NOK 50.000 <br>EUR 5.600 <br>USD 5.900)</td>
+    <td>NOK 35.000 <br>EUR 3.900 <br>USD 4.140)</td>
+    <td>NOK 15.000 <br>EUR 1.680 <br>USD 1.770)</td>
   </tr>
   <tr>
     <td>Available slots</td>
-    <td>???</td>
-    <td>???</td>
-    <td>???</td>
+    <td>2</td>
+    <td>8</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Free tickets</td>
     <td>5</td>
     <td>4</td>
-    <td>4</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Ticket discount</td>
     <td>15% off</td>
     <td>10% off</td>
-    <td></td>
+    <td>None</td>
   </tr>
   <tr>
     <td>Stand space</td>
-    <td>???</td>
-    <td>???</td>
-    <td></td>
+    <td>Large (4 sqm)</td>
+    <td>Standard (2 sqm)</td>
+    <td>None</td>
   </tr>
   <tr>
     <td>Logo on web site</td>
-    <td bgcolor="gold">&nbsp;</td>
-    <td bgcolor="gold">&nbsp;</td>
-    <td bgcolor="gold">&nbsp;</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
   </tr>
   <tr>
     <td>1 minute pitch</td>
-    <td bgcolor="gold">&nbsp;</td>
-    <td bgcolor="gold">&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>No</td>
   </tr>
 </table>
 
