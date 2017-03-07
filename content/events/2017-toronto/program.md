@@ -172,7 +172,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>19:00-late</time>
+        <time>17:30-20:30</time>
       </div>
       <div class = "col-md-6 box">
         <strong>Happy Hour</strong>
@@ -329,7 +329,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>17:00</time>
+        <time>17:30-17:45</time>
       </div>
       <div class = "col-md-6 box">
         Close Day &amp; Farewell
