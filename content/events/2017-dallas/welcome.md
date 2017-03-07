@@ -10,7 +10,7 @@ aliases = ["/events/2017-dallas"]
 
 
 **DevOpsDays was a huge success last year and is back in {{< event_location >}} for our second year in 2017!**<br>
-Come join us and share on August 29 & 29 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the C.A.M.S. principles AWESOME!!!
+Come join us and share on August 29 & 30 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the C.A.M.S. principles AWESOME!!!
 
 **NOTE:** On August 28th, we will be having a Leadership Summit. **(BY INVITATION ONLY)**<br>
 We're still working out all the details, more to come.
