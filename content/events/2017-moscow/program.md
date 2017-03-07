@@ -265,7 +265,7 @@ Iginte<br>Илья Шеер (Beame), Lower your TCO with custom solutions and NG
 Open Space Session	
 	</div>
 	<div class = "col-md-2 box" style="border-color:white;border-width:1px;border-style:solid;text-align:center;padding-left:0px;padding-right:0px;">
-        TBD
+        <a href="/events/2017-moscow/program/nistratov">Artem Nistratov (ООО "Нейрон"), Настройка окружения проекта в docker compose</a>
 		<hr style="margin-up:75px; margin-bottom:75px; border-color:white;"/>
 		<a href="/events/2017-moscow/program/suvorov">Konstantin Suvorov, Расширение возможностей Ansible</a>
 		<hr style="margin-up:75px; margin-bottom:75px; border-color:white;"/>
