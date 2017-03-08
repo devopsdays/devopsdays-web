@@ -40,7 +40,7 @@ aliases = [
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    Tuesday, Mar 7, 2017 - Wednesday, Mar 8, 2017
   </div>
 </div>
 
@@ -51,16 +51,6 @@ aliases = [
   <div class = "col-md-8">
     <a href="../location">UMBC's Columbus Center</a>, 701 E Pratt St.,
     Baltimore, MD  21202
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new">Register
-    to attend the conference!</a>
   </div>
 </div>
 
@@ -99,27 +89,6 @@ aliases = [
     <strong>Contact</strong>
   </div>  <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-10">
-    <h4>Taco Tuesday Happy Hour with Baltimore Tech Community</h4>
-    <p>
-      It's Taco Tuesday!  Join us for some drinks, tacos, and networking! We
-      have opened up the happy hour to the larger Baltimore Tech Community as
-      well.
-    </p>
-
-    <p>
-      This is a free happy hour but
-      <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new">registration
-      is required</a>.
-    </p>
-
-    <p>
-      <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new">Register for Happy Hour (free) now</a>!
-    </p>
   </div>
 </div>
 
