@@ -11,7 +11,7 @@ aliases = [
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<h2>Tuesday, Mar 7, 2017 - Wednesday, Mar 8, 2017</h2>
 
 <div style="text-align:center;">
   {{< event_logo >}}
