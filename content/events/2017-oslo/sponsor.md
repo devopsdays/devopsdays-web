@@ -10,10 +10,10 @@ We greatly value sponsors for this open event. If you are interested in sponsori
 
 </hr>
 
-<h2>Why sponsor DevopsDays?</h2>
-Sponsoring DevopsDays will give you the opportunity to network and build relationships with developers, IT executives, Ops, DevOps, and managers within the burgeoning Scandinavian DevOps community.
+<h2>Why sponsor DevOpsDays?</h2>
+By sponsoring DevOpsDays you'll get the opportunity to network and build relationships with highly motivated developers, sysadmins, IT executives and managers within the burgeoning Scandinavian DevOps community.
 
-Our sponsorship package are constructed to offer our sponsors lead generation, networking, branding, and talent recruitment.
+Our sponsorship packages are constructed to offer our sponsors lead generation, networking, branding, and talent recruitment.
 
 <h2>Practical Information</h2>
 <ul>
