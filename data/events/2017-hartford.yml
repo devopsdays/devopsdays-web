@@ -5,8 +5,8 @@ event_twitter: "devopsdayshfd"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-10-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-10-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
@@ -14,8 +14,8 @@ cfp_date_announce:  # inform proposers of status
 
 # Location
 #
-coordinates: "41.763711, -72.685093" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hartford" # Defaults to city, but you can make it the venue name.
+coordinates: "41.767352, -72.673939" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Society Room" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -23,7 +23,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -66,10 +66,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
