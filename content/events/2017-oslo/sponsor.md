@@ -10,8 +10,8 @@ We greatly value sponsors for this open event. If you are interested in sponsori
 
 </hr>
 
-<h2>Why sponsor DevopsDays?</h2>
-Sponsoring DevopsDays will give you the opportunity to network and build relationships with developers, IT executives, Ops, DevOps, and managers within the burgeoning Scandinavian DevOps community.
+<h2>Why sponsor DevOpsDays?</h2>
+Sponsoring DevOpsDays will give you the opportunity to network and build relationships with developers, IT executives, Ops, DevOps, and managers within the burgeoning Scandinavian DevOps community.
 
 Our sponsorship package are constructed to offer our sponsors lead generation, networking, branding, and talent recruitment.
 
@@ -130,7 +130,7 @@ You are also free to suggest add-ons yourself. Just let us know. :)
 
 <!--
 <h3 id="sponsorship">Gold sponsor pack</h3>
-DevopsDays is gathering IT practitioners, managers, developers, and influencers from all over Scandinavia and as a Gold Sponsor you will have an opportunity to be right there with them. Gold Sponsorships include opportunities to connect with each one of these attendees as we strategically drive traffic to your sponsor booth. Gold sponsors enjoy pre-event promotion through our social media as well as our website. The package costs NOK 35.000, EUR 3.800, USD 4.300, which includes:
+DevOpsDays is gathering IT practitioners, managers, developers, and influencers from all over Scandinavia and as a Gold Sponsor you will have an opportunity to be right there with them. Gold Sponsorships include opportunities to connect with each one of these attendees as we strategically drive traffic to your sponsor booth. Gold sponsors enjoy pre-event promotion through our social media as well as our website. The package costs NOK 35.000, EUR 3.800, USD 4.300, which includes:
 <ul>
   <li>Logo on event website</li>
   <li>Logo on shared slide, displayed during breaks</li>
