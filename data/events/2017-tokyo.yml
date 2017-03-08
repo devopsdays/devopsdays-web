@@ -7,8 +7,8 @@ description: # A short blurb of text to describe your event, defaults to common 
 startdate: 2017-04-25 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2017-02-20  # start accepting talk proposals.
+cfp_date_end:  2017-03-10 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 # Location
@@ -37,6 +37,18 @@ team_members: # Name is the only required field for team members.
     twitter: "apapadimoulis"
   - name: "Yasunobu Kawaguchi"
     employer: "Rakuten"
+  - name: "Ryutaro Toshiba"
+    employer: "Ryuzee.com"
+  - name: "Minoru Tsuka"
+    employer: "Yahoo! Japan"
+  - name: "Tsuyoshi Ushio"
+    employer: "Microsoft Corp."
+  - name: "Hiro Arai"
+    employer: "Creationline"
+  - name: "Tadahiro Yasuda"
+    employer: "Creationline"
+
+    
     
 organizer_email: "organizers-tokyo-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tokyo-2017@devopsdays.org" # Put your proposal email address here

@@ -20,329 +20,362 @@ type = "event"
 </div>
 
 <div class = "row">
-  <div class = "col-md-6">
+<div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
         <h3>Day 1</h3>
       </div>
     </div>
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>08:00-09:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:00-09:15</time>
-      </div>
-      <div class = "col-md-6 box">
-        Opening Welcome
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:15-09:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        &nbsp;
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:45-09:55</time>
-      </div>
-      <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>09:55-10:25</time>
-      </div>
-      <div class = "col-md-6 box">
-        &nbsp;
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>10:25-10:40</time>
-      </div>
-      <div class = "col-md-6 box">
-        Break
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>10:40-11:10</time>
-      </div>
-      <div class = "col-md-6 box">
-        &nbsp;
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>11:10-11:20</time>
-      </div>
-      <div class = "col-md-6 box">
-        Sponsors
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>11:20-11:50</time>
-      </div>
-      <div class = "col-md-6 box">
-        &nbsp;
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>11:50-13:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        Lunch (catered)
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>13:00-13:30</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Ignites</strong>
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>13:30-14:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space Opening
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>14:00-14:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #1
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>15:00-15:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #2
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>16:00-16:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #3
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>16:45-17:00</time>
-      </div>
-      <div class = "col-md-6 box">
-        Close Day &amp; Logistics
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>19:00-late</time>
-      </div>
-      <div class = "col-md-6 box">
-        <strong>Evening Event</strong>
-      </div>
-    </div> <!-- end timeslot div -->
 
-
-
-
-
-
-  </div><!-- end day 1 -->
-  <div class = "col-md-6">
+<div class = "row">
+      <div class = "col-md-4">
+        <time>8:00 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Registration opens
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>9:00 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Day 1 Opening Introduction
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>9:15 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Talk 1 - Chris Van Tuin: "A Security State of Mind: Continuous Security with Kubernetes"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>9:45 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Talk 2 - Dmytro Dyachuk, Gordon Klok, Roman Lisagor: "Modern Infrastructure"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>10:15 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Message from Gold Sponsors: Deis, Pivitol, Salesforce, SauceLabs, Automic
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>10:30 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Talk 3 - Nell Shamrell-Harrington: "Open Source Governance - The Hard Parts"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>11:00 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Talk 4 - Bill Weiss: "Moving to the Left: Lessons from the State of DevOps Report"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>11:30 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Introduction
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>11:45 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Proposals
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>12:15 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Lunch (voting during)
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>1:30 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Ignite Opening
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>1:35 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Ignite 1 - Adam Lefkowitz: "Don't listen to me, I'm a fraud."
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>1:40 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Ignite 2 - Jan Ulrich: "Compliance with Continuous Delivery"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>1:45 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Ignite 3 - Holly Burton: "Getting a Promotion: The Checklist"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>1:50 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Ignite 4 - Dmitry Vinnik: "Companies Which Need DevOps But Don't Know About It"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>1:55 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Ignite 5 - Matthew Fisher: "Remote Friendly: Making it Happen"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>2:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Slot 1
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>2:30 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          ...
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>3:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Slot 2
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>4:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Slot 3
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>5:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Day 1 Closing Comments
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>5:45 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Party at Tavern Starts
+      </div>
+    </div>
+</div>
+<div class = "col-md-6">
     <div class = "row">
       <div class = "col-md-12">
         <h3>Day 2</h3>
       </div>
     </div>
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+<div class = "row">
       <div class = "col-md-4">
-        <time>08:00-09:00</time>
+        <time>8:00 AM</time>
       </div>
       <div class = "col-md-6 box">
-        Registration, Breakfast, and Sponsor Booths Open
+          Registration opens
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>09:00-09:15</time>
+        <time>9:00 AM</time>
       </div>
       <div class = "col-md-6 box">
-        Opening Welcome
+          Day 2 Opening Introduction
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>09:15-09:45</time>
+        <time>9:15 AM</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+          Talk 5 - Jef King: "Zombies at Braains.io"
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>09:45-09:55</time>
+        <time>9:45 AM</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+          Talk 6 - Holly Burton: "Am I the Crazy One? Gaslighting and Gender in the Workplace."
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>09:55-10:25</time>
+        <time>10:15 AM</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+          Message from Gold Sponsors: Boeing Aeroinfo, Demonware, VictorOps, Trinimbus, Sumologic
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>10:25-10:40</time>
+        <time>10:30 AM</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+          Talk 7 - David Aldurien: "Machine Actionable Intelligence (or How I Learned to Stop Worrying and Trust the Watchdog)"
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>10:40-11:10</time>
+        <time>11:00 AM</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+          Talk 8 - Adam Arsenault: "Exploring Microservice Graphs in Real Time"
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>11:10-11:20</time>
+        <time>11:30 AM</time>
       </div>
       <div class = "col-md-6 box">
-        Sponsors
+          Open Space Introduction
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:50</time>
+        <time>11:45 AM</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+          Open Space Proposals
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>11:50-13:00</time>
+        <time>12:15 PM</time>
       </div>
       <div class = "col-md-6 box">
-        Lunch (catered)
+          Lunch (voting during)
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>13:00-13:30</time>
+        <time>1:30 PM</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+          Ignite Opening
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>13:30-14:00</time>
+        <time>1:35 PM</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space Opening
+          Ignite 6 - Victor Yang: "Event Driven Architecture "
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>14:00-14:45</time>
+        <time>1:40 PM</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #1
+          Ignite 7 - Jason Yee: "Third-wave DevOps"
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>15:00-15:45</time>
+        <time>1:45 PM</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #2
+          Ignite 8 - Michael Greenwell: "Big Game Hunting with ELK"
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>16:00-16:45</time>
+        <time>1:50 PM</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
-        Open Space #3
+          Ignite 9 - David Danzilio: "How I Learned to Stop Worrying and Contribute to Open Source"
       </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
+    </div>
+<div class = "row">
       <div class = "col-md-4">
-        <time>17:00</time>
+        <time>1:55 PM</time>
       </div>
       <div class = "col-md-6 box">
-        Close Day &amp; Farewell
+          Ignite 10 - : TBD
       </div>
-    </div> <!-- end timeslot div -->
-  </div><!-- end day 2 -->
-</div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>2:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Talk 9 - Oriol Martinez Pou: "Best Buy Canada's Holiday Survival Kit: Performance Strategy and real-time APM"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>2:30 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Talk 10 - Jason Hand: "Beyond Mean Time to Repair"
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>3:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Slot 5
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>4:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Open Space Slot 6
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>5:00 PM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Day 2 Closing Comments
+      </div>
+    </div>
+</div></div>

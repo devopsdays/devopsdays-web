@@ -19,6 +19,11 @@ To watch for changes and rebuild on the fly, open a new terminal, change directo
 hugo server -w --baseUrl="http://localhost:1313"
 ```
 
+If you are running Windows, change the command to 
+```
+hugo server -w --baseUrl="http://localhost:1313" --config config-windows.toml
+```
+
 Now open `baseURL` in a browser and navigate to the content that you're editing - voilà!
 
 ## Pull requests

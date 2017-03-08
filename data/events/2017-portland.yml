@@ -8,9 +8,11 @@ friendly: "2017-portland"
 startdate: 2017-08-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2017-08-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-03-04 # start accepting talk proposals.
+cfp_date_end: 2017-05-10 # close your call for proposals.
+cfp_date_announce: 2017-06-01 # inform proposers of status
+cfp_open: "true"
+cfp_link: "https://devopsdayspdx2017.busyconf.com/proposals/new"
 
 # Location
 #
@@ -21,8 +23,8 @@ location: "Portland" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: propose
+    url: https://devopsdayspdx2017.busyconf.com/proposals/new
   - name: location
 #  - name: registration
   - name: sponsor
@@ -75,6 +77,10 @@ sponsors:
     - id: columbia
       level: gold
     - id: pivotal
+      level: gold
+    - id: recompiler
+      level: community
+    - id: chef
       level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

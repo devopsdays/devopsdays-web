@@ -1,0 +1,29 @@
+{
+  "maxReviewers": 5,
+  "numFilesToCheck": 10, 
+  "message": "@pullRequester, thanks! Based upon the content in this PR, we need a review from @reviewers",
+             
+  "alwaysNotifyForPaths": [
+    {
+      "name": "mattstratton",
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "themes/**/*", "content/page/**/*", "static/_redirects"], 
+      "skipTeamPrs": false 
+    },
+    {
+      "name": "bridgetkromhout",
+      "files": ["utilities/**/*", "themes/**/*", "content/page/**/*"],
+      "skipTeamPrs": false
+     }
+  ],
+  "findPotentialReviewers": false,
+  "userBlacklist": [], 
+  "userBlacklistForPR": [],
+  "requiredOrgs": ["devopsdays"],
+  "skipAlreadyAssignedPR": false, 
+  "skipAlreadyMentionedPR": false,
+  "assignToReviewer": true,
+  "createReviewRequest": true, 
+  "createComment": true, 
+  "skipTitle": "", 
+  "skipCollaboratorPR": false 
+}

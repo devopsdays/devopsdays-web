@@ -66,10 +66,22 @@ proposal_email: "proposals-saltlakecity-2017@devopsdays.org" # Put your proposal
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: morpheus_data
-    level: greencircle
+    level: bluesquare
   - id: xmatters
     level: bluesquare
   - id: deis
+    level: blackdiamond
+  - id: hpe
+    level: bluesquare
+  - id: influxdata
+    level: bluesquare
+  - id: victorops
+    level: bluesquare
+  - id: logz
+    level: blackdiamond
+  - id: newrelic
+    level: blackdiamond
+  - id: pivotal
     level: blackdiamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

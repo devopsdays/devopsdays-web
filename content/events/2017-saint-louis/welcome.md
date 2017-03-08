@@ -8,7 +8,7 @@ aliases = ["/events/2017-saint-louis"]
 
 <div>
  <!--{{< event_logo >}}-->
- <img style="width: 400px; margin: 35px 0px 10px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_St._Louis,_Missouri.svg/1280px-Flag_of_St._Louis,_Missouri.svg.png" alt="Saint Louis City Flag">
+ <img style="float: center" src="/events/2017-saint-louis/logo.png" alt="Saint Louis City Flag">
 </div>
 
 <div>

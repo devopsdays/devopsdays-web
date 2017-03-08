@@ -76,6 +76,10 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: servicenow
+    level: gold
+  - id: signalsciences
+    level: gold
   - id: duo
     level: silver
 

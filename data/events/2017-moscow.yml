@@ -50,9 +50,9 @@ sponsors:
   - id: aligntech
     level: silver
   - id: Logrocon
-    level: media
+    level: gold
   - id: Express42
-    level: media
+    level: gold
   - id: YEx
     level: media
   - id: superjob
@@ -95,8 +95,20 @@ sponsors:
     level: media
   - id: hotwork
     level: media
+  - id: realitsm
+    level: media
   - id: mailru
     level: internet
+  - id: beameio
+    level: silver
+  - id: redhat
+    level: gold
+  - id: cnews
+    level: media
+  - id: hotelmilan
+    level: accommodation
+  - id: croc
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,6 +125,10 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: internet
+    label: General Internet
   - id: Networking
     label: Networking
   - id: venuesponsor
@@ -121,12 +137,13 @@ sponsor_levels:
     label: HR
   - id: reading
     label: Reading
+  - id: accommodation
+    label: Accommodation
   - id: media
     label: Media
-  - id: internet
-    label: General Internet
   - id: community
     label: Community
+
 
   
   

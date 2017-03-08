@@ -63,7 +63,7 @@ aliases = ["/events/2017-raleigh"]
   </div>
 </div> -->
 
-<!--<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
@@ -71,7 +71,7 @@ aliases = ["/events/2017-raleigh"]
     {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
   </div>
 </div>
-<br>-->
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>

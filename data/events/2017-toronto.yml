@@ -20,7 +20,8 @@ location: "Glenn Gould Studio" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: welcome
-#  - name: program
+  - name: program
+  - name: speakers
   - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -58,6 +59,10 @@ sponsors:
     level: gold
   - id: hpe
     level: gold
+  - id: capitalonecanada
+    level: gold
+  - id: blendedperspectives
+    level: gold
   - id: sourcedgroup
     level: lunch
   - id: dealer-fx
@@ -70,9 +75,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
   - id: gold
     label: Gold
     max: 14
@@ -84,7 +86,7 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-    max: 20
+    max: 5

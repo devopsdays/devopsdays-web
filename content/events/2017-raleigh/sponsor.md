@@ -6,63 +6,82 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+
+
+<style>
+	th 											{ font-weight:bold; }
+	th:first-of-type 							{ width: 50%; text-align: left; }
+	th 											{ width: 16.5%; text-align: center; background: #88c7e0; padding: 5px 10px; border: 1px solid #fff; }
+	table tr td.sponsor-cell-shaded 			{ color: #29749e; background: #29749e; }
+	td 											{ text-align: center; padding: 5px 10px; border: 1px solid #fff; }
+	td:first-of-type 							{ text-align: left; }
+	tr:nth-child(odd) td 						{ background: #e8e8e8; }
+	tr:nth-child(odd) td.sponsor-cell-shaded	{ color: #004973; background: #004973; }
+	tr:nth-child(even) td 						{ background: #f5f5f5; }
+	table 										{ width: 100%;}
+</style>
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
 <hr>
 
-DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<br>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<br>
-The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-<br>
-<hr/>
+<h3>Why Sponsor DevOpsDays Raleigh</h3>
 
-<!--
+Raleigh is one of the fastest growing locations for DevOps. With many companies headquartered here, and more with plans to move their operations here, it’s a beacon for DevOps. More than 250 DevOps experts, professionals and community members attended the inaugural DevOpsDays Raleigh, and we expect even more attendees at the second annual DevOpsDays Raleigh. This is your company’s chance to meet these people, gain their attention and interact with people who will become leaders in the DevOps community. 
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<h4>Highlights</h4>
+
+* 8 diverse presentations from DevOps experts and thought leaders
+* 250+ DevOps Professionals
+* Ignite Sessions
+* Open Spaces Sessions
+* Leaders and experts in the DevOps community
+* Venue is 13 miles from RDU Airport and RTP, the largest research park in the country;  4 miles from downtown Raleigh;  20 miles from downtown Durham; 26 miles from Chapel Hill 
+
+
+<h2>Sponsorship Packages</h2>
+<table>
+	<tr>
+		<th>Benefits</th>
+		<th>Silver<br />$1000</th>
+		<th>Gold<br />$3000</th>
+		<th>Platinum<br />$5000</th>
+	</tr>
+	<tr>
+		<td>Included Tickets</td>
+		<td>2</td>
+		<td>2</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>Table Space</td>
+		<td></td>
+		<td class="sponsor-cell-shaded">X</td>
+		<td class="sponsor-cell-shaded">X</td>
+	</tr>
+	<tr>
+		<td>Logo on Website, Signage & Emails</td>
+		<td class="sponsor-cell-shaded">X</td>
+		<td class="sponsor-cell-shaded">X</td>
+		<td class="sponsor-cell-shaded">X</td>
+	</tr>
+	<tr>
+		<td>3 Minute Pitch to Full Audience on Day One</td>
+		<td></td>
+		<td></td>
+		<td class="sponsor-cell-shaded">X</td>
+	</tr>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
 
 <br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
 
--->
-<hr/>
+<h4>A la carte opportunities (also available without sponsorship package):</h4>
+
+* Cocktail hour &ndash; $3000
+* Logo on conference bag &ndash; $2000
+* Lanyard sponsor &ndash; $500
+* Bag inserts &ndash; $250
+* Other opportunities available upon request
+
+<br>
+
+For more information and questions, please contact: {{< email_organizers >}}.

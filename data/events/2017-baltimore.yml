@@ -4,7 +4,7 @@ city: "Baltimore"
 event_twitter: "devopsdaysbmore"
 friendly: "2017-baltimore"
 
-startdate:  2017-03-07
+startdate:  2017-03-08
 enddate:  2017-03-08
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -20,14 +20,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: welcome
   - name: program
     url: http://devopsdaysbaltimore2017.busyconf.com/schedule
-  - name: propose
-    url: https://devopsdaysbaltimore2017.busyconf.com/proposals/new
+  #- name: propose
+    #url: https://devopsdaysbaltimore2017.busyconf.com/proposals/new
   - name: location
   - name: registration
     url: https://devopsdaysbaltimore2017.busyconf.com/bookings/new
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: stream
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -98,6 +99,8 @@ sponsors:
     level: platinum
   - id: versionone
     level: platinum
+  - id: github
+    level: platinum
   - id: dynatrace
     level: gold
   - id: techtowntraining
@@ -136,9 +139,13 @@ sponsors:
     level:  community
   - id: bw-postgres-usergroup
     level:  community
+  - id: bmore_healthy
+    level:  community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: happyhour
+    label: Happy Hour
   - id: platinum
     label: Platinum
   - id: gold

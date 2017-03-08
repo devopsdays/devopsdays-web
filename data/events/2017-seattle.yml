@@ -32,12 +32,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Rob Cummings"
+    twitter: "opsrob"
   - name: "Dominica DeGrandis"
+    twitter: "dominicad"
   - name: "Dan Dicamillo"
+    twitter: "criticalthinker"
   - name: "Jeremy Dyche"
   - name: "Michael Goetz"
+    twitter: "michaelpgoetz"
   - name: "Ken Mugrage"
+    twitter: "kmugrage"
   - name: "Michael Towbin"
+    twitter: "MichaelTowbin"
   - name: "Todd Wilson"
 
 organizer_email: "organizers-seattle-2017@devopsdays.org" # Put your organizer email address here
@@ -70,13 +76,25 @@ sponsors:
     level: gold
   - id: leankit
     level: gold
+  - id: catchpoint
+    level: gold
+  - id: hpe-seattle-2017
+    level: gold
+  - id: northeastern-university
+    level: gold
   - id: vmware
     level: gold
   - id: rei
     level: gold
+  - id: accenture
+    level: gold
+  - id: getty-images
+    level: gold
   - id: victorops
     level: silver
   - id: netapp
+    level: silver
+  - id: strongbridge-consulting
     level: silver
   - id: spoken
     level: bronze
