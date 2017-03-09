@@ -74,7 +74,7 @@ The sponsor area will be set up to encourage people to hang out and enjoy coffee
 
 ### A/V Rental<a id="av_rental"></a>
 
-Monitors are available for rental from "Meeting Tomorrow". Please download <a href="https://github.com/devopsdays/devopsdays-assets/blob/master/events/2017/seattle/DevOpsDays_Seattle_Monitor_Order_Information.pdf">this form</a> for more information.
+Monitors are available for rental from "Meeting Tomorrow". Please download <a href="https://assets.devopsdays.org/events/2017/seattle/DevOpsDays_Seattle_Monitor_Order_Information.pdf">this form</a> for more information.
 
 ### Lead Collection
 We don’t share attendee information with sponsors.
