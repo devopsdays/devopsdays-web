@@ -4,7 +4,7 @@ Description = ""
 Tags = []
 Date = "2017-01-31T13:04:25-05:00"
 Title = "Speaking at devopsdays"
-type = "cfp"
+type = "speaking"
 
 +++
 
