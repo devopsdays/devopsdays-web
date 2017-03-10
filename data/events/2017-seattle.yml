@@ -98,6 +98,8 @@ sponsors:
     level: silver
   - id: spoken
     level: bronze
+  - id: concur
+    level: bronze
   - id: seattle-devops-meetup
     level: community
   - id: seattle-coffeeops
