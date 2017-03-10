@@ -32,7 +32,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration Breakfast
+        Regisitration and Welcome coffee
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -198,7 +198,7 @@ type = "event"
         <time>08:00-09:00</time>
       </div>
       <div class = "col-md-6 box">
-        Registration Breakfast
+        Regisitration and Welcome coffee
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
