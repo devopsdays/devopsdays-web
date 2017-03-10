@@ -51,8 +51,18 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: sumologic
     level: gold
+  - id: chef
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: redhat
+    level: gold
   - id: software-freedom-school
-    level: bronze
+    level: lanyard
+  - id: asg
+    level: lanyard
   - id: aspe
     level: bronze
   - id: signalsciences
