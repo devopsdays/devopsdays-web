@@ -1,6 +1,6 @@
 +++
 Categories = []
-Description = ""
+Description = "about devopsdays"
 Tags = []
 date = "2017-02-13T11:24:58-05:00"
 title = "About devopsdays"
