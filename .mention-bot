@@ -21,8 +21,8 @@
   "requiredOrgs": ["devopsdays"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
-  "assignToReviewer": true,
-  "createReviewRequest": false, 
+  "assignToReviewer": false,
+  "createReviewRequest": true, 
   "createComment": true, 
   "skipTitle": "", 
   "skipCollaboratorPR": false 
