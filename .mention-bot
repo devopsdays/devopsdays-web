@@ -1,5 +1,5 @@
 {
-  "maxReviewers": 5,
+  "maxReviewers": 2,
   "numFilesToCheck": 10, 
   "message": "@pullRequester, thanks! Based upon the content in this PR, we need a review from @reviewers",
              
@@ -15,13 +15,13 @@
       "skipTeamPrs": false
      }
   ],
-  "findPotentialReviewers": false,
+  "findPotentialReviewers": true,
   "userBlacklist": [], 
   "userBlacklistForPR": [],
   "requiredOrgs": ["devopsdays"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
-  "assignToReviewer": false,
+  "assignToReviewer": true,
   "createReviewRequest": true, 
   "createComment": true, 
   "skipTitle": "", 
