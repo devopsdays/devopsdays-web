@@ -22,7 +22,7 @@
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
   "assignToReviewer": true,
-  "createReviewRequest": true, 
+  "createReviewRequest": false, 
   "createComment": true, 
   "skipTitle": "", 
   "skipCollaboratorPR": false 
