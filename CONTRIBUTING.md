@@ -68,6 +68,7 @@ If you have permissions to merge PRs on this repo, here are a few guidelines to 
 1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. Our bot will notify maintainers for any changes to non-content files and assign the PR's to the maintainers, so that should help.
 1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
 1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
+1. If you're reviewing all the details of a PR before merging or are communicating with the *Submitter*, add yourself to *Assignees* so that others know someone is waiting on a response or reviewing all the details of the PR thoroughly. Be sure to also add a comment into the PR that you are reviewing it, and if you need a change from the *Submitter* prior to merge, be sure to label the PR as `do-not-merge`.
 
 ### PR Tests
 
