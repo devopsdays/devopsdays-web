@@ -43,7 +43,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:00-10:15</time>
+        <time>10:00-10:10</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -52,7 +52,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:15-10:45</time>
+        <time>10:10-10:40</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2017-toronto/program/bridget-kromhout/">Bridget Kromhout - Computers are easy; people are hard</a>
@@ -61,19 +61,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:50-11:20</time>
+        <time>10:40-11:00</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-toronto/program/augusto-rosa/">Augusto Rosa - Shomi Stories: A Cloud Migration, Team Building and Having Fun in between</a>
+        Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:30</time>
+        <time>11:00-11:30</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+        <a href="/events/2017-toronto/program/augusto-rosa/">Augusto Rosa - Shomi Stories: A Cloud Migration, Team Building and Having Fun in between</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -202,7 +202,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:00-10:15</time>
+        <time>10:00-10:10</time>
       </div>
       <div class = "col-md-6 box">
         Opening Welcome
@@ -211,7 +211,7 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:15-10:45</time>
+        <time>10:10-10:40</time>
       </div>
       <div class = "col-md-6 box">
         <a href="/events/2017-toronto/program/arthur-maltson-roderick-randolph/">Arthur Maltson and Roderick Randolph - Deep Work: A New Working Model For Ops Teams in a DevOps Environment</a>
@@ -220,19 +220,19 @@ type = "event"
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>10:50-11:20</time>
+        <time>10:40-11:00</time>
       </div>
       <div class = "col-md-6 box">
-        <a href="/events/2017-toronto/program/andreas-grabner/">Andreas Grabner - From 6 Month Waterfall to 1h Code Deploys</a>
+        Break
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-4">
-        <time>11:20-11:30</time>
+        <time>11:00-11:30</time>
       </div>
       <div class = "col-md-6 box">
-        Break
+        <a href="/events/2017-toronto/program/andreas-grabner/">Andreas Grabner - From 6 Month Waterfall to 1h Code Deploys</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -281,6 +281,8 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Open Space Opening</strong><br />
+        <br />
+        Sponsor giveaways
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -329,15 +331,6 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Attendee-suggested breakout discussions</strong><br />
         Open Space #3
-      </div>
-    </div> <!-- end timeslot div -->
-    <!-- this div is repeated for each timeslot -->
-    <div class = "row">
-      <div class = "col-md-4">
-        <time>17:30-17:45</time>
-      </div>
-      <div class = "col-md-6 box">
-        Close Day &amp; Farewell
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
