@@ -120,10 +120,12 @@ sponsors:
 #    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
-  - id: student
-    label: Student
+  - id: community
+    label: Community
   - id: exclusive
     label: Exclusive
 
