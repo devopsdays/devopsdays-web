@@ -50,7 +50,12 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <strong>Opening Keynote</strong>
+        <br/>
+        <a style="text-decoration:none;"><strong>NoOps</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/kelseyhightower">Kelsey Hightower</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +73,10 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <a style="text-decoration:none;"><strong>Tales of test-driven infrastructure as told by a windows-toucher</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/chris_evett">Chris Evett</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +94,10 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <a style="text-decoration:none;"><strong>Best practices for leveraging UX in an agile enterprise development process</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/angelmbanks">Angel Banks</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +115,11 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <strong>Closing Keynote</strong>
+      <a style="text-decoration:none;"><strong>Cloud Native Java</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/starbuxman">Josh Long</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -123,6 +138,17 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <br/><br/>
+        Unconventional Wisdom: What Non-Techies Can Teach Us About Technology <br/> <a href="https://twitter.com/joshlohrman">Josh Lohrman</a>
+        <br/>  <br/>
+        You Will NEVER Be "Done" <br/> <a href="https://twitter.com/mykelalvis">Mykel Alvis</a>
+        <br/>  <br/>
+        Becoming a Plumber: Building Deployment Pipelines <br/> <a href="https://twitter.com/barkerd427">Daniel Barker</a>
+        <br/>  <br/>
+        Introduction to Azure Functions <br/> <a href="https://twitter.com/tobiaswright">Tobbias Wright</a>
+        <br/>  <br/>
+        Your goat antifragiled my snowflake!: Demystifying DevOps Jargon <br/> <a href="https://twitter.com/clintoncwolfe">Clinton Wolfe</a>
+        <br/>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -220,7 +246,10 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <a style="text-decoration:none;"><strong>The Five Dirty Words of CI</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/jpaulreed">J Paul Reed</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -238,7 +267,10 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <a style="text-decoration:none;"><strong>Fear of the Bus: devOps and Docs</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/wiredferret">Heidi Waterhouse</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -256,7 +288,10 @@ type = "event"
         <time>10:40-11:10</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+      <a style="text-decoration:none;"><strong>AppSec in a DevOps World</strong></a>
+        <br/>
+        <em>by</em> <a href="https://twitter.com/PeteChestna">Pete Chesna</a>
+          <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -274,7 +309,10 @@ type = "event"
         <time>11:20-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        &nbsp;
+  <a style="text-decoration:none;"><strong>DevOps is NOT a Strategy</strong></a>
+    <br/>
+    <em>by</em> <a href="https://twitter.com/CatSwetel">Cat Swetel</a>
+      <br />
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -292,7 +330,18 @@ type = "event"
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+      <strong>Ignites</strong>
+      <br/><br/>
+      Gamifying that Work/Life Balance <br/> <a href="https://twitter.com/FergatROn">Marc Ferguson</a>
+      <br/>  <br/>
+      Is it too late to learn how to program? How I become a developer later in life <br/> <a href="https://twitter.com/Fineblkwoman">Alicia V Carr</a>
+      <br/>  <br/>
+      Lessons Learned from Eventbrite's VPC Migration<br/> <a href="https://twitter.com/sciurus">Brian Pitts</a>
+      <br/>  <br/>
+      In Depth Monitoring<br/> <a>Eldon Stegall</a>
+      <br/>  <br/>
+      Marriage of UX and DevOps<br/> <a href="https://twitter.com/vcagwin">Virginia Cagwin</a>
+      <br/>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
