@@ -7,7 +7,7 @@ type = "event"
 {{< cfp_dates >}}
 
 <hr>
-There are four ways to propose a session:
+There are three ways to propose a session:
 <ol>
   <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
   <li><strong><em>An Ignite talk</em></strong> that will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
