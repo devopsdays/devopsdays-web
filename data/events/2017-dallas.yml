@@ -14,6 +14,14 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
+cfp_open: "false"
+cfp_link: ""
+
+registration_open: "false"
+registration_link: ""
+
+event_logo: "logo.jpg"
+
 # Location
 #
 coordinates: "33.08412347956714, -96.80671317624937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -34,33 +42,96 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Annie Hedgpeth"
-    twitter: "anniehedgie"
     employer: "10th Magnitude"
+    bio: "Annie will be our Speaker Liaison and MC for this year’s event. After a major career change in 2016, Annie became a cloud automation engineer at 10th Magnitude, a leading Azure cloud consultancy. Being involved in the DevOps community, she seeks to bring attention to technologies that lower the barrier to entry for others seeking a career change into technology."
+    twitter: "anniehedgie"
+    linkedin: "https://www.linkedin.com/in/annie-hedgpeth-203393112/"
+#   facebook: ""
+#   website: ""
+#   github: ""
+    image: "annie.jpg"
   - name: "Ben Johnson"
-    twitter: "benjohnson77"
     employer: "Particle41"
+#   bio:
+    twitter: "benjohnson77"
+    linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
+#   facebook:
+#   website: ""
+#   github: ""
+    image: "ben.jpg"
   - name: "Cory Forsythe"
-    twitter: "CoryForsythe"
     employer: "Capital One"
+#   bio: ""
+    twitter: "CoryForsythe"
+    linkedin: "https://www.linkedin.com/in/123123214cf/"
+#   facebook: ""
+#   website: ""
+#   github: ""
+    image: "cory.jpg"
   - name: "Gokul Sridharan"
-    twitter: "ConsultGokul_CA"
     employer: "CA Technologies"
+#   bio: ""
+    twitter: "ConsultGokul_CA"
+    linkedin: "https://www.linkedin.com/in/gokul-sridharan-98a12323/"
+#   facebook: ""
+#   website: ""
+#   github: ""
+    image: "gokul.jpg"
   - name: "Jack Teoh"
-    twitter: "jaxteoh"
     employer: "Alkami Technology"
+#   bio: ""
+    twitter: "jaxteoh"
+    linkedin: "https://www.linkedin.com/in/jackteoh/"
+#   facebook: ""
+#   website: ""
+#   github: ""
+    image: "jack.jpg"   
   - name: "Lee Herrin"
-    twitter: "TechnologicaLee"
     employer: "Six Sents"
+#   bio: ""
+    twitter: "TechnologicaLee"    
+    linkedin: "https://www.linkedin.com/in/wtleeherrin/"
+#   facebook: ""
+#   website: ""
+#   github: ""
+    image: "lee.jgp"    
   - name: "Mark Saum"
+    employer: "Fidelis Consulting"
+#   bio:
     twitter: "msaum"
-    employer: "Fidelis Consulting"      
+    linkedin: "https://www.linkedin.com/in/marksaum/"
+#   facebook:
+#   website:
+#   github:
+    image: "mark.jpg"    
   - name: "Megan Bohl"
+#   employer:
+#   bio:
     twitter: "MeganBohl"
+    linkedin: "https://www.linkedin.com/in/megan-bohl-gardner-60932310/"
+#   facebook:
+#   website:
+#   github:
+    image: "megan.jpg"    
   - name: "Michael Hedgpeth"
-    twitter: "michaelhedgpeth"
     employer: "NCR"
+#   bio:
+    twitter: "michaelhedgpeth"
+    linkedin: "https://www.linkedin.com/in/michael-hedgpeth/"
+#   facebook:
+#   website:
+#   github:
+    image: "michael.jpg"
   - name: "Mike Rosado"
+    employer: "Independent Consultant"
+    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about). <br>
+As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
+    linkedin: "https://www.linkedin.com/in/mikerostx/"
+#   facebook:
+#   website:
+    github: "mikerostx"
+    image: "mike.jpg"
 
 organizer_email: "organizers-dallas-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email address here
