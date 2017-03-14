@@ -48,6 +48,8 @@ sponsors:
   # silver
   - id: linkit
     level: silver
+  - id: valtech
+    level: silver
   # bronze
   - id: devoteam
     level: bronze
