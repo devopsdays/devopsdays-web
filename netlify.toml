@@ -1,0 +1,17 @@
+# Production context: All deploys to the main
+# repository branch will inherit these settings.
+[context.production]
+ command = "bin/netlify.sh"
+ publish = "public/"
+  #  command = "bin/netlify-production.sh"
+  #  publish = "exampleSite/dist/"
+
+# Deploy Preview context: All Deploy Previews
+# will inherit these settings.
+[context.deploy-preview]
+  publish = "public/"
+  command = "bin/netlify.sh"
+
+[context.test]
+ command = "bin/netlify-production.sh"
+ publish = "dist/"
