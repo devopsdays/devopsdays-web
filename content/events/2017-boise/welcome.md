@@ -9,7 +9,7 @@ aliases = ["/events/2017-boise"]
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**devopsdays is coming to {{< event_location >}}!**
+**devopsdays is returning to {{< event_location >}}!**
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
