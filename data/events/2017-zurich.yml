@@ -103,7 +103,7 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
     website: ""
-    image: ""
+    image: "vittorio-boccone.jpg"
   - name: "Matías E. Fernández"
     twitter: "matiasfrndz"
     employer: "ERNI Consulting AG"
@@ -112,7 +112,7 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/matiasfrndz/"
     website: "https://matiasfrndz.ch/"
-    image: ""
+    image: "matias-e-fernandez.jpg"
 
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
