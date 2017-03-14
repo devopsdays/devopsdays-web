@@ -2,7 +2,7 @@
 # General CodeKit files to ignore
 config.codekit
 # config.toml # This is a dangerous file, but we need it not in here.
-/min
+/min # not sure
 .DS_Store
 .AppleDouble
 .LSOverride
