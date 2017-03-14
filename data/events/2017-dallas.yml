@@ -94,7 +94,7 @@ team_members: # Name is the only required field for team members.
 #   facebook: ""
 #   website: ""
 #   github: ""
-    image: "lee.jgp"    
+    image: "lee.jpg"    
   - name: "Mark Saum"
     employer: "Fidelis Consulting"
 #   bio:
@@ -124,7 +124,7 @@ team_members: # Name is the only required field for team members.
     image: "michael.jpg"
   - name: "Mike Rosado"
     employer: "Independent Consultant"
-    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about). <br>
+    bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about). <br><br>
 As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
     linkedin: "https://www.linkedin.com/in/mikerostx/"
