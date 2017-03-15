@@ -1,10 +1,7 @@
 +++
-date = "2000-01-01T01:01:01-06:00"
-title = "contact"
-type = "event"
-draft = true
-
-
+Title = "Contact"
+Type = "event"
+Description = "Contact information for devopsdays CITY YYYY"
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}

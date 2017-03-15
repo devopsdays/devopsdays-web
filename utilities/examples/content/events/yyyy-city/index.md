@@ -1,16 +1,9 @@
 +++
-date = "2000-01-01T01:01:01-06:00"
-title = "welcome"
-type = "event"
-aliases = ["/events/YYYY-city"]
-draft = true
-
+Title = "devopsdays CITY YYYY"
+Type = "welcome"
+aliases = ["/events/yyyy-city/welcome"]
+Description = "devopsdays CITY YYYY"
 +++
-
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-
-**devopsdays is coming to {{< event_location >}}!**
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -88,7 +81,7 @@ draft = true
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
+<!-- Uncomment if you added your city twitter name -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->
