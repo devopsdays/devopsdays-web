@@ -1,6 +1,8 @@
 # Contributing to devopsdays-web
 
-The technical details on how to set up [Hugo](https://gohugo.io/) (to see your local edits), and prepare a Pull Request for inclusion on the [Devopsdays](http://www.devopsdays.org/) website.
+This document contains the technical details on how to set up [Hugo](https://gohugo.io/) (to see your edits locally before pushing them to GitHub), and how to prepare a Pull Request for inclusion on the [devopsdays](http://www.devopsdays.org/) website.
+
+If you'd like to assist in contributing to the code of the website, please see [devopsdays/devopsdays-theme](https://github.com/devopsdays/devopsdays-theme).
 
 ## Setup
 
@@ -24,7 +26,7 @@ If you are running Windows, change the command to
 hugo server -w --baseUrl="http://localhost:1313" --config config-windows.toml
 ```
 
-Now open `baseURL` in a browser and navigate to the content that you're editing - voilà!
+Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
 
 ## Pull requests
 
@@ -48,27 +50,34 @@ Now open `baseURL` in a browser and navigate to the content that you're editing 
 
 ### Guidelines
 
-1. Code changes that affect the overall site will be reviewed only if they are in a separate pull request from any event-specific content. In short, don't add "giant template change" in the same PR as "here are some more sponsors" - if it affects *anything other than your event*, it should be in its own PR.
-1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new issues if you like (or read/comment on existing ones).
-1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
+1. Code changes that affect the overall site will be merged only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes should be made there, and when released, will be used in this repo.
+1. We use [github issues](https://github.com/devopsdays/devopsdays-theme/issues) to track work, so feel free to create new issues if you like (or read/comment on existing ones).
+1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-theme/issues) so that it can be discussed by the team, prior to submitting a pull request.
 
-
-## Advanced
-If you are going to be making changes to the overall functionality of the site, please keep the following in mind:
-
-### Changes to content should be separate from overall functionality
+### Only make changes to event content files
 "Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
 
-Changes to content should be submitted as a separate PR from changes to site functionality. It would be additionally delightful if you label PR's for site functionality (such as `bug` or `enhancement`), but that's not required.
+Changes to event-specific content should be submitted in a separate PR from changes to more general content for the whole site.
 
-### CSS changes are done with LESS
-Please do NOT make changes to any of the files in the `/themes/devopsdays-responsive/static/css` directory. These are files that are compiled via [LESS](http://lesscss.org/), and while your changes in there might work, they will be blown away by the LESS compiler at some point.
 
-If you want to make changes to CSS, you will need a LESS compiler on your system. [@mattstratton](https://github.com/mattstratton) uses [CodeKit](https://incident57.com/codekit/), but that is OS X only, and is not free. Here's a list of other possible LESS compilers (note - Matt has not tested any of these):
-- [SimpleLess](http://wearekiss.com/simpless) - all platforms, free.
-- [Less.js](http://lesscss.org/) - node application, free.
+## Maintainer Guidelines
 
-The only place to make changes to the LESS files is in `/themes/devopsdays-responsive/static/site_variables.less` and `/themes/devopsdays-responsive/static/site.less`. Make sure your LESS compiler is compiling the output into `/themes/devopsdays-responsive/static/css/`. *DO NOT* make any changes to any other LESS file (do not directly modify the bootstrap LESS files, for example).
+If you have permissions to merge PRs on this repo, here are a few guidelines to consider:
+
+1. Is the requestor authorized to make changes for that event? They need to appear on the contact list for the year and city they're editing.
+1. Do not allow any PRs that change files outside of the above-mentioned "content" directories. Especially watch out for `.gitignore`, `config.toml`, `config-windows.toml`, and anything in the `themes` directory. Our bot will notify maintainers for any changes to non-content files and assign the PR's to the maintainers, so that should help.
+1. Check to see if the tests pass, but use your judgement on merging something that fails (see "PR Tests" below for guidance)
+1. If you are unsure about merging a PR, please use the "request a review" button on the PR to request one from other maintainers.
+1. If you're reviewing all the details of a PR before merging or are communicating with the *Submitter*, add yourself to *Assignees* so that others know someone is waiting on a response or reviewing all the details of the PR thoroughly. Be sure to also add a comment into the PR that you are reviewing it, and if you need a change from the *Submitter* prior to merge, be sure to label the PR as `do-not-merge`.
+
+### PR Tests
+
+The following tests run when a PR is submitted:
+
+1. [Travis](https://travis-ci.org/devopsdays/devopsdays-web/) - this is a basic test that confirms that the site can be built with Hugo on linux, and it runs an `html-min` gulp task which will identify if there is any invalid HTML in the site. This protects the final build, so if the Travis tests fail, please take a look as to why they failed.
+1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this again is a small test that builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason.
+1. [Gitmagic](https://gitmagic.io/) - This is a bot that makes sure our pull requests are fashioned cleanly. See [contributing.json](https://github.com/devopsdays/devopsdays-web/blob/master/contributing.json) for a list of rules that we enforce.
+1. [Netlify](https://app.netlify.com/sites/devopsdays-web) - This is a very useful test. It builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's pretty important to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
 ## Credits
 
