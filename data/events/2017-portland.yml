@@ -82,6 +82,8 @@ sponsors:
       level: community
     - id: chef
       level: gold
+    - id: influxdata
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
