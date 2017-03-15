@@ -1,6 +1,6 @@
 +++
 date = "2016-09-20T21:46:51+01:00"
-title = "DevOpsDays Seattle 2017 Sponsorship Info"
+title = "Sponsorship Info"
 type = "event"
 
 
