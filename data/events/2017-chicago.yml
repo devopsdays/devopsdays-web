@@ -55,7 +55,7 @@ team_members:
     website: "https://kevinreedy.net"
     linkedin: "https://www.linkedin.com/in/kevinreedy"
     github: "kevinreedy"
-    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update my blog more often."
+    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
   - name: "Sasha Rosenbaum"
     image: "sasha-rosenbaum.jpg"
     employer: "Microsoft"
