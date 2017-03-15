@@ -15,10 +15,6 @@ slideshare = ""
 slides = ""
 +++
 
-Please find my proposal below. As background, I'm an independent developer who is back in 
-CH after spending most of my career in San Francisco. I'm not affiliated with any vendor 
-or product!
-
 TLDR; The Linux system call interface is becoming an increasingly useful instrumentation 
 point for monitoring, troubleshooting, and security. This talk covers why that is happening, 
 what you can get from it, and how it will make your life better.
