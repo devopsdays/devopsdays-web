@@ -24,7 +24,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     #url: https://devopsdayssthlm.typeform.com/to/eMaXqd
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -57,6 +57,10 @@ sponsors:
     level: gold
   - id: gocd
     level: gold
+  - id: opsgenie
+    level: gold
+  - id: stackstate
+    level: gold
   - id: praqma
     level: silver
   - id: elastic
@@ -75,11 +79,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 8
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 4 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 4
   - id: community
     label: Community
