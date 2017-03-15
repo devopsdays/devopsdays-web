@@ -21,8 +21,6 @@ Generally speaking, you should avoid storing any files other than logos or small
 * OPTIONAL - you can host your PDF's for prospectus, etc, in the repo at [devopsdays/devopsdays-assets](https://github.com/devopsdays/devopsdays-assets) and then link to them from there. Files in that repo are presented under their relative URL at https://assets.devopsdays.org. For example, the file located at `static/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf` in the `devopsdays/devopsdays-assets` repo will be presented at `https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf`
 
 ## Feature Requests
-
-## Feature Requests
 If there is a feature in the theme that you would like to see, please visit our [ideas portal](https://www.devopsdays.org/ideas) and suggest it. On that same page, you can upvote existing feedback that you would like to see.
 
 If you'd like to see what we have planned, check out our [roadmap](https://www.devopsdays.org/roadmap).
