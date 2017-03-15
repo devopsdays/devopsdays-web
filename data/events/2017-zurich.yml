@@ -170,3 +170,181 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
+
+program:
+  - title: "Regisitration and Welcome Coffee"
+    type: custom
+    date: 2017-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-05-03
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "hannah-foxwell"
+    type: talk
+    date: 2017-05-03
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "thomas-philipona"
+    type: talk
+    date: 2017-05-03
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "alvaro-videla"
+    type: talk
+    date: 2017-05-03
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2017-05-03
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2017-05-03
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "emanuel-kleindienst"
+    type: talk
+    date: 2017-05-03
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-05-03
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: custom
+    date: 2017-05-03
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-05-03
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-05-03
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-05-03
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-05-03
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-05-03
+    start_time: "16:55"
+    end_time: "17:00"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-05-03
+    start_time: "18:30"
+    end_time: "24:00"
+    comments: "tba"
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2017-05-04
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-05-04
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "charity-majors"
+    type: talk
+    date: 2017-05-04
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "jorge-salamero-sanz"
+    type: talk
+    date: 2017-05-04
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "tharmes-siva"
+    type: talk
+    date: 2017-05-04
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2017-05-04
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "suzie-prince"
+    type: talk
+    date: 2017-05-04
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "beat-stutz"
+    type: talk
+    date: 2017-05-04
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-05-04
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: custom
+    date: 2017-05-04
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-05-04
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-05-04
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-05-04
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-05-04
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2017-05-04
+    start_time: "16:55"
+    end_time: "17:15"
+
+ignites:
+  - title: "dan-reif"
+    date: 2017-05-03
+  - title: "eric-maxwell"
+    date: 2017-05-03
+  - title: "henri-dubois-ferriere"
+    date: 2017-05-03
+  - title: "dirk-lehmann"
+    date: 2017-05-03
+  - title: "manuel-schweizer"
+    date: 2017-05-03
+  - title: "alex-lichtenberger"
+    date: 2017-05-04
+  - title: "cyrill-ruettimann"
+    date: 2017-05-04
+  - title: "maik-wojcieszak"
+    date: 2017-05-04
+  - title: "dave-halter"
+    date: 2017-05-04
