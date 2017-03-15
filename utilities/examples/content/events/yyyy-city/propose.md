@@ -1,8 +1,7 @@
 +++
-date = "2000-01-01T01:01:01-06:00"
-title = "propose"
-type = "event"
-draft = true
+Title = "Propose"
+Type = "event"
+Description = "Propose a talk for devopsdays CITY YYYY"
 +++
   {{< cfp_dates >}}
 
@@ -32,5 +31,5 @@ Choosing talks is part art, part science; here are some factors we consider when
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li> 
+	<li>Description (several sentences explaining what attendees will learn)</li>
 </ol>

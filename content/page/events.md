@@ -1,8 +1,8 @@
 +++
 date = "2015-11-29T00:00:00-06:00"
 title = "devopsdays events"
-type = "events-list"
-aliases = ["/calendar", "/events/calendar", "/devops-calendar", "/presentations"]
+type = "events"
+aliases = ["/calendar", "/events/calendar", "/devops-calendar", "/presentations", "/past"]
 
 +++
 

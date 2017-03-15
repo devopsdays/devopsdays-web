@@ -1,10 +1,7 @@
 +++
-date = "2000-01-01T01:01:01-06:00"
-title = "registration"
-type = "event"
-draft = true
-
-
+Title = "Registration"
+Type = "event"
+Description = "Registration for devopsdays CITY YYYY"
 +++
 
 <div style="width:100%; text-align:left;">
