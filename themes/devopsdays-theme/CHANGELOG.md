@@ -1,5 +1,15 @@
 # Change Log
 
+## [1.0.1](https://github.com/devopsdays/devopsdays-theme/tree/1.0.1) (2017-03-14)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.0...1.0.1)
+
+**Fixed bugs:**
+
+- Text set to bold in content pages does not display bold in Windows browsers [\#382](https://github.com/devopsdays/devopsdays-theme/issues/382)
+
+## [1.0.0](https://github.com/devopsdays/devopsdays-theme/tree/1.0.0) (2017-03-14)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.9.2...1.0.0)
+
 ## [0.9.2](https://github.com/devopsdays/devopsdays-theme/tree/0.9.2) (2017-03-07)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.9.1...0.9.2)
 

@@ -82,6 +82,8 @@ Author = "Bridget Kromhout"
 
 If an author is not specified, attempts to display it are ignored.
 
+## Feature Requests
+If there is a feature in the theme that you would like to see, first check to see if an [enhancement request](https://github.com/devopsdays/devopsdays-theme/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) has already been opened, and then [add a "thumbs up" reaction to the original](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). If not, please [open a new issue](https://github.com/devopsdays/devopsdays-theme/issues/new). 
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
