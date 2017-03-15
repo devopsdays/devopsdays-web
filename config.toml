@@ -38,6 +38,8 @@ buildDrafts = false
 [permalinks]
   page = "/:filename/"
   blog = "/blog/:year/:month/:day/:title/"
+  speaking = "/:filename/"
+
 
 [params]
   Facebook = "//www.facebook.com/group.php?gid=106761636771"
