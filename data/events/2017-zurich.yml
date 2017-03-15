@@ -93,7 +93,7 @@ team_members: # Name is the only required field for team members.
     github: "tobru"
     facebook: ""
     linkedin: ""
-    website: "https://tobrunet.ch/ "
+    website: "https://tobrunet.ch/"
     image: "tobias-brunner.jpg"
   - name: "Vittorio Boccone"
     twitter: "drbokko"
