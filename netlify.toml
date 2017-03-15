@@ -15,3 +15,7 @@
 [context.test]
  command = "bin/netlify-production.sh"
  publish = "dist/"
+
+[context.updates-for-new-theme]
+  command = "bin/netlify-production.sh"
+  publish = "dist/"
