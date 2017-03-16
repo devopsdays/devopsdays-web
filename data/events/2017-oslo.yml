@@ -11,6 +11,7 @@ enddate: 2017-11-02  # The end date of your event. Leave blank if you don't have
 cfp_date_start: 2017-02-09
 cfp_date_end: 2017-08-01
 cfp_date_announce: 2017-08-15
+cfp_open: "true"
 
 #cfp_date_start: 2017-03-18 # start accepting talk proposals.
 #cfp_date_end: 2017-05-29 # close your call for proposals.
@@ -25,7 +26,7 @@ location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make i
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
 #  - name: program
 #  - name: speakers
   - name: propose
