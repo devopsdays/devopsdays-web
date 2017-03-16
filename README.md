@@ -4,6 +4,10 @@
 # devopsdays-web
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
+## Reporting issues
+
+If you discover an issue with the theme, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new).
+
 ## Contributing
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
