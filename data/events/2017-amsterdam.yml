@@ -11,6 +11,9 @@ enddate:  2017-06-30
 cfp_date_start: 2017-01-15  # start accepting talk proposals.
 cfp_date_end:  2017-04-01 # close your call for proposals.
 cfp_date_announce: 2017-04-15 # inform proposers of status
+cfp_open: "true"
+cfp_link: "https://devopsdays.typeform.com/to/hbkd2j"
+registration_open: "true"
 
 # Location
 coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -25,7 +28,7 @@ organizer_email: "organizers-amsterdam-2017@devopsdays.org" # Put your organizer
 proposal_email: "organizers-amsterdam-2017@devopsdays.org" # Put your proposal email address here
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
 #  - name: program
   - name: propose
     url: https://devopsdays.typeform.com/to/hbkd2j

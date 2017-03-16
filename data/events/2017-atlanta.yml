@@ -11,6 +11,8 @@ enddate:  2017-04-19
 cfp_date_start:  2017-01-05
 cfp_date_end:  2017-02-27
 cfp_date_announce:  2017-03-01
+registration_open: "true"
+registration_link: "https://www.eventbrite.com/e/devopsdaysatl-2017-tickets-30968684168"
 
 # Location
 #
@@ -19,7 +21,7 @@ location: "Atlanta" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
   - name: program
 #  - name: propose
 #    url: https://www.papercall.io/devopsdaysatl2017 # The url setting is optional, and only if you want the navigation to link off-site
