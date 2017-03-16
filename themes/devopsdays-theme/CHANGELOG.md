@@ -1,11 +1,25 @@
 # Change Log
 
-## [1.0.1](https://github.com/devopsdays/devopsdays-theme/tree/1.0.1) (2017-03-14)
+## [1.0.2](https://github.com/devopsdays/devopsdays-theme/tree/1.0.2) (2017-03-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.1...1.0.2)
+
+**Closed issues:**
+
+- Logo images are not constrained on small viewports  [\#384](https://github.com/devopsdays/devopsdays-theme/issues/384)
+- data cleanup for event\_twitter shortcode change [\#214](https://github.com/devopsdays/devopsdays-theme/issues/214)
+- Add regression testing to current site [\#55](https://github.com/devopsdays/devopsdays-theme/issues/55)
+
+## [1.0.1](https://github.com/devopsdays/devopsdays-theme/tree/1.0.1) (2017-03-15)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.0...1.0.1)
 
 **Fixed bugs:**
 
 - Text set to bold in content pages does not display bold in Windows browsers [\#382](https://github.com/devopsdays/devopsdays-theme/issues/382)
+
+**Closed issues:**
+
+- Track clicks on CTA buttons into Google Analytics [\#381](https://github.com/devopsdays/devopsdays-theme/issues/381)
+- Track clicks on CTA buttons into Google Analytics [\#380](https://github.com/devopsdays/devopsdays-theme/issues/380)
 
 ## [1.0.0](https://github.com/devopsdays/devopsdays-theme/tree/1.0.0) (2017-03-14)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.9.2...1.0.0)
