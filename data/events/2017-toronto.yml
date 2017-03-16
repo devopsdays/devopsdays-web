@@ -11,6 +11,7 @@ enddate: 2017-05-26 # The end date of your event. Leave blank if you don't have 
 cfp_date_start: 2016-12-21 # start accepting talk proposals.
 cfp_date_end:  2017-02-07 # close your call for proposals.
 cfp_date_announce: 2017-03-07 # inform proposers of status.
+registration_open: "true"
 
 # Location
 #
@@ -19,7 +20,7 @@ location: "Glenn Gould Studio" # The name of your location
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
   - name: program
   - name: speakers
   - name: propose

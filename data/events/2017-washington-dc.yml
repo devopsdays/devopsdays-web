@@ -14,6 +14,8 @@ cfp_date_end:  2017-05-04
 cfp_date_announce: 2017-06-04
 cfp_open: "true"
 cfp_link: "https://devopsdaysdc2017.busyconf.com/proposals/new"
+registration_open: "true"
+registration_link: "https://devopsdaysdc2017.busyconf.com/bookings/new"
 
 # Location
 #
