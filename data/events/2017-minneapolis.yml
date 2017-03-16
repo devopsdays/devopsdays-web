@@ -15,7 +15,7 @@ coordinates: "44.972610,-93.272960"
 location: "Minneapolis"
 
 nav_elements:
-  - name: welcome
+ 
 #  - name: program
 #  - name: speakers
   - name: propose

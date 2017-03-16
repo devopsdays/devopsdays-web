@@ -19,7 +19,7 @@ location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make i
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: speakers
   - name: propose
