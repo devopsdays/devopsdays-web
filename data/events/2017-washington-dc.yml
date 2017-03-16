@@ -20,7 +20,7 @@ location: "Washington, DC" # Defaults to city, but you can make it the venue nam
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
   - name: propose
     url: https://devopsdaysdc2017.busyconf.com/proposals/new

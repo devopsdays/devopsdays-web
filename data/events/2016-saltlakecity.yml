@@ -12,7 +12,7 @@ coordinates: "40.7631, -111.8828" # The corrodinates of your venue. Get Latitude
 location: "Church and State" # The name of your location
 newnav: "yes"
 nav_elements:
-  - name: welcome
+ 
   - name: sponsor
     url: http://slcdevopsdays.org/our-sponsors/
   - name: contact

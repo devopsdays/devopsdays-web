@@ -13,7 +13,7 @@ location: "Raffles City Convention Centre, Singapore" # The name of your locatio
 # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
 newnav: "yes"
 nav_elements:
-  - name: welcome
+ 
   - name: speakers
   - name: program
   - name: location

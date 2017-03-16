@@ -18,7 +18,7 @@ coordinates: "39.082920, -94.582451" # The coordinates of your city. Get Latitud
 #location: "Musical Theater Heritage" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
 #  - name: speakers
 #  - name: location

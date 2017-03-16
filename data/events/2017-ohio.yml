@@ -12,7 +12,7 @@ cfp_date_announce: ""
 coordinates: "40.038877, -82.874830" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: contact
   - name: conduct
   - name: sponsor
