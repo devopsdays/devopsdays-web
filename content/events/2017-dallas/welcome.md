@@ -6,16 +6,18 @@ aliases = ["/events/2017-dallas"]
 
 +++
 
-<!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**DevOpsDays was a huge success that it is returning to {{< event_location >}} in 2017!**
+**DevOpsDays was a huge success last year and is back in {{< event_location >}} for our second year in 2017!**<br>
+Come join us and share on August 29 & 30 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the C.A.M.S. principles AWESOME!!!
 
+**NOTE:** On August 28th, we will be having a Leadership Summit. **(BY INVITATION ONLY)**<br>
+We're still working out all the details, more to come.
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
 
-We're still working out all the details.  If you'd like to help out, email us!
 
 <div class = "row">
   <div class = "col-md-2">
@@ -26,14 +28,14 @@ We're still working out all the details.  If you'd like to help out, email us!
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -96,7 +98,6 @@ We're still working out all the details.  If you'd like to help out, email us!
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5724f5b54cc142a1"></script>
 
-<!-- add your city twitter name here without the @ sign -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

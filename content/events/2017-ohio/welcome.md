@@ -93,6 +93,6 @@ In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program
   </div>
 </div>
 
-{{< event_twitter DevOpsDaysOhio >}} <!-- add your twitter name here without the @ sign -->
+{{< event_twitter >}}
 
 <a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/DevOpsDaysOhio">Tweets by DevOpsDaysOhio</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

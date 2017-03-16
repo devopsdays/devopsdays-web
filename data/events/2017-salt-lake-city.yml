@@ -19,7 +19,7 @@ location: "Noah's Event Venue" # Defaults to city, but you can make it the venue
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
   - name: propose
     url: https://www.papercall.io/slc-dev-ops-days
@@ -83,6 +83,12 @@ sponsors:
     level: blackdiamond
   - id: pivotal
     level: blackdiamond
+  - id: cloudpassage
+    level: blackdiamond
+  - id: opsgenie
+    level: bluesquare
+  - id: pure-storage
+    level: bluesquare
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

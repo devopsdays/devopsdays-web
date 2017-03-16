@@ -31,6 +31,69 @@ aliases = [
 
 <div class = "row">
   <div class = "col-md-10">
+    <h4>Conference Details</h4>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Location</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="../location">UMBC's Columbus Center</a>, 701 E Pratt St.,
+    Baltimore, MD  21202
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the
+    <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule">program</a>.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Slack</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="http://slack.baltimoretech.org/">Sign-up for the Baltimore Tech
+    Slack Team</a> and join the #devopsdays channel.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Streaming</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="stream" text="Stream the event!" >}} The days of the
+    event, we will be live streaming all the keynote and ignite sessions.
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Contact</strong>
+  </div>  <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-10">
     <h4>Keynotes &amp; Plenary Session Talks Announced</h4>
     <p>Keynotes</p>
     <ul>
@@ -71,91 +134,12 @@ aliases = [
 </div>
 
 <div class = "row">
-  <div class = "col-md-10">
-    <h4>Conference Details</h4>
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="https://devopsdaysbaltimore2017.busyconf.com/bookings/new">Register to attend the conference!</a>
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="https://devopsdaysbaltimore2017.busyconf.com/proposals/new">Propose a talk!</a>
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the
-    <a href="http://devopsdaysbaltimore2017.busyconf.com/schedule">program</a>.
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-  </div>
-</div>
-
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-<div class = "row">
   &nbsp;
 </div>
 
 <div class = "row">
   <p>
-    {{< event_twitter devopsdaysbmore >}}
+    {{< event_twitter >}}
   </p>
 </div>
 

@@ -14,15 +14,15 @@ cfp_date_announce:  2017-03-01
 
 # Location
 #
-coordinates: "41.882219, -87.640530" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "33.778376, -84.386701" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Atlanta" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
-#  - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdaysatl2017 # The url setting is optional, and only if you want the navigation to link off-site
+ 
+  - name: program
+#  - name: propose
+#    url: https://www.papercall.io/devopsdaysatl2017 # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
     url: https://www.eventbrite.com/e/devopsdaysatl-2017-tickets-30968684168
@@ -57,6 +57,8 @@ sponsors:
   - id: mailchimp
     level: gold
   - id: chef
+    level: gold
+  - id: googlecloud
     level: gold
   - id: victorops
     level: silver

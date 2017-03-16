@@ -19,7 +19,7 @@ location: "Overture Center for the Arts" # Defaults to city, but you can make it
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: speakers
 #  - name: propose

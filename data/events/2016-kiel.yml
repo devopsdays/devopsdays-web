@@ -8,7 +8,7 @@ enddate: 2016-05-13
 coordinates: "54.3233, 10.1228"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: location
   - name: registration

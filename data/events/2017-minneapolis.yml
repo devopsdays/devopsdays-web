@@ -15,7 +15,7 @@ coordinates: "44.972610,-93.272960"
 location: "Minneapolis"
 
 nav_elements:
-  - name: welcome
+ 
 #  - name: program
 #  - name: speakers
   - name: propose
@@ -67,13 +67,19 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
+  - id: thoughtworks-products
+    level: platinum
+  - id: mesosphere
+    level: silver
+  - id: redhat
+    level: gold
 
 sponsors_accepted : "yes"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 3
+    max: 5
   - id: gold
     label: Gold
   - id: silver

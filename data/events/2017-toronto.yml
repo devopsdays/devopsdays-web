@@ -19,8 +19,9 @@ location: "Glenn Gould Studio" # The name of your location
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
-#  - name: program
+ 
+  - name: program
+  - name: speakers
   - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -61,6 +62,10 @@ sponsors:
   - id: capitalonecanada
     level: gold
   - id: blendedperspectives
+    level: gold
+  - id: loyaltyone
+    level: gold
+  - id: cloudops
     level: gold
   - id: sourcedgroup
     level: lunch

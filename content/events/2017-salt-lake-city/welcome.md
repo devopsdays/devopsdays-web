@@ -99,5 +99,4 @@ The beauty of a Continuous Delivery pipeline and all of its components is knowin
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdaysslc >}}
+{{< event_twitter >}}
