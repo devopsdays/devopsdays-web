@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.3](https://github.com/devopsdays/devopsdays-theme/tree/1.0.3) (2017-03-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.2...1.0.3)
+
+**Fixed bugs:**
+
+- Alt text on organizer images needs fixing [\#388](https://github.com/devopsdays/devopsdays-theme/issues/388)
+- Regression on ability to control sponsor ship links [\#387](https://github.com/devopsdays/devopsdays-theme/issues/387)
+
 ## [1.0.2](https://github.com/devopsdays/devopsdays-theme/tree/1.0.2) (2017-03-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.1...1.0.2)
 
