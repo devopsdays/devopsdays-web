@@ -23,7 +23,7 @@ location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the v
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
 #  - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -73,6 +73,12 @@ team_members:
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
     bio: "Matt Stratton is a customer architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey."
+  - name: "Allie Richards"
+    image: "allie-richards.jpg"
+    twitter: "hpuxgirl"
+    employer: "Centro"
+    linkedin: "https://www.linkedin.com/in/alexandra-richards-88b54a36/"
+    bio: "Allie Richards has been ops-ing since before the terms \"DevOps\" and \"Operations Engineering\" existed. She is passionate about command lines, automation and performance at scale. When not at work she can usually be found trying to read with a cat on her lap."
 
 organizer_email: "organizers-chicago-2017@devopsdays.org"
 proposal_email: "cfp@devopsdayschi.org"
