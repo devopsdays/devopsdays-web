@@ -19,7 +19,7 @@ location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+# 
   - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -32,13 +32,31 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Rob Cummings"
+    twitter: "opsrob"
+    image: "rob-cummings.jpg"
   - name: "Dominica DeGrandis"
+    twitter: "dominicad"
+    image: "dominica-degrandis.jpg"
   - name: "Dan Dicamillo"
+    twitter: "criticalthinker"
+    image: "dan-dicamillo.jpg"
   - name: "Jeremy Dyche"
+    twitter: "JD892011"
+    image: "jeremy-dyche.jpg"
   - name: "Michael Goetz"
+    twitter: "michaelpgoetz"
+    image: "michael-goetz.jpg"
   - name: "Ken Mugrage"
+    twitter: "kmugrage"
+    image: "ken-mugrage.jpg"
+    bio: "Ken promotes DevOps and Continuous Delivery for ThoughtWorks. He'll be the guy with dog hair on his clothes."
+    linkedin: "https://www.linkedin.com/in/kmugrage/"
   - name: "Michael Towbin"
+    twitter: "MichaelTowbin"
+    image: "michael-towbin.jpg"
   - name: "Todd Wilson"
+    twitter: "t1wilson"
+    image: "todd-wilson.jpg"
 
 organizer_email: "organizers-seattle-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-seattle-2017@devopsdays.org" # Put your proposal email address here
@@ -70,15 +88,31 @@ sponsors:
     level: gold
   - id: leankit
     level: gold
+  - id: catchpoint
+    level: gold
+  - id: hpe-seattle-2017
+    level: gold
+  - id: northeastern-university
+    level: gold
   - id: vmware
     level: gold
   - id: rei
+    level: gold
+  - id: accenture
+    level: gold
+  - id: getty-images
+    level: gold
+  - id: dellemc
     level: gold
   - id: victorops
     level: silver
   - id: netapp
     level: silver
+  - id: strongbridge-consulting
+    level: silver
   - id: spoken
+    level: bronze
+  - id: concur
     level: bronze
   - id: seattle-devops-meetup
     level: community
@@ -94,7 +128,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 20
+    max: 15
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

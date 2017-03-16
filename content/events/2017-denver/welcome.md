@@ -22,7 +22,7 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    Check back Wednesday, March 1st!
+    [Speakers List](/events/2017-denver/speakers/)
   </div>
 </div>
 <div class = "row">
@@ -49,5 +49,5 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdaysrox >}}
+
+{{< event_twitter >}}

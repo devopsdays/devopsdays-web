@@ -10,7 +10,7 @@ type = "event"
 
 ---
 
-Submit your talk today! The submission form can be found [Here](https://devopsdayssthlm.typeform.com/to/eMaXqd)
+<strong> CFP is now closed </strong>
 
 ---
 There are three ways to propose a session:
@@ -27,7 +27,7 @@ Our main criteria to make it to the top selection are:
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
 
-<strong>How to submit a proposal:</strong> [Fill out our handy form](https://devopsdayssthlm.typeform.com/to/eMaXqd) with the following information
+<strong>How to submit a proposal:</strong> Fill out our handy form with the following information
 <ol>
     <li>Proposal working title (can be changed later)</li>
     <li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>

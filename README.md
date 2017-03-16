@@ -1,11 +1,12 @@
-[![Stories in Ready](https://badge.waffle.io/devopsdays/devopsdays-web.svg?label=ready&title=Ready)](http://waffle.io/devopsdays/devopsdays-web) [![Stories in Progress](https://badge.waffle.io/devopsdays/devopsdays-web.svg?label=ready&title=In%20Progress)](http://waffle.io/mattstratton/devopsdays-web) [![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web)
-
-You can see progress on tasks at http://waffle.io/devopsdays/devopsdays-web
-
-[![Throughput Graph](https://graphs.waffle.io/devopsdays/devopsdays-web/throughput.svg)](https://waffle.io/devopsdays/devopsdays-web/metrics)
+[![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
+[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE)
 
 # devopsdays-web
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
+
+## Reporting issues
+
+If you discover an issue with the theme, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new).
 
 ## Contributing
 
@@ -23,3 +24,13 @@ Generally speaking, you should avoid storing any files other than logos or small
 * Small, web images are fine (logos, etc). If you have high-resolution versions of your logo to share with others, please do not host them on the devopsdays-web repo.
 * It is acceptable to add in a single PDF for your sponsor prospectus if you desire (in `static/events/YYYY-city`), but please keep this file under 3 MB. It is better to host it on Google Drive or something similar, and then link to it from your site.
 * OPTIONAL - you can host your PDF's for prospectus, etc, in the repo at [devopsdays/devopsdays-assets](https://github.com/devopsdays/devopsdays-assets) and then link to them from there. Files in that repo are presented under their relative URL at https://assets.devopsdays.org. For example, the file located at `static/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf` in the `devopsdays/devopsdays-assets` repo will be presented at `https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf`
+
+## Feature Requests
+If there is a feature in the theme that you would like to see, please visit our [ideas portal](https://www.devopsdays.org/ideas) and suggest it. On that same page, you can upvote existing feedback that you would like to see.
+
+If you'd like to see what we have planned, check out our [roadmap](https://www.devopsdays.org/roadmap).
+
+Please only use [GitHub issues](https://www.github.com/devopsdays/devopsdays-theme) for reporting defects/bugs.
+
+## Contributing
+See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.

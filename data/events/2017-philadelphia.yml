@@ -1,0 +1,70 @@
+name: "2017-philadelphia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2017" # The year of the event. Make sure it is in quotes.
+city: "Philadelphia" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysPHL" # The twitter handle for your event, which is often devopsdays and then an abbreviation for the city
+description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+
+# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+startdate: 2017-10-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-10-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
+
+# Location
+#
+coordinates: "39.9500, -75.1667" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chemical Heritage Foundation" # The name of your location
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+#  - name: program
+#  - name: propose
+#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+#  - name: location
+#  - name: registration
+#  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Peter Shannon"
+    employer: "DramaFever"
+  - name: "Sarah Gray"
+    employer: "PromptWorks"
+  - name: "Mike Tyler"
+    employer: "Chef"
+  - name: "Clinton Wolfe"
+    employer: "Relus Cloud"
+  - name: "Sam Hollis"
+    employer: "AWeber"
+  - name: "Shahneen Beg"
+    employer: "University of Pennsylvania"
+
+organizer_email: "organizers-philadelphia-2017@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-philadelphia-2017@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

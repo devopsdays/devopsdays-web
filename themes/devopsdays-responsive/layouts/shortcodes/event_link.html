@@ -1,4 +1,0 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeperator }}
-{{ $event_slug := index $path 1 }}
-
-<a href = "/events/{{ $event_slug }}/{{ .Get "page" }}">{{ .Get "text" }}</a>

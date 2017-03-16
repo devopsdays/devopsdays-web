@@ -18,7 +18,7 @@ location: "Austin" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: sponsor
   - name: contact
   - name: conduct
@@ -75,6 +75,10 @@ sponsors:
   - id: newiron
     level: gold
   - id: chef
+    level: gold
+  - id: servicenow
+    level: gold
+  - id: signalsciences
     level: gold
   - id: duo
     level: silver

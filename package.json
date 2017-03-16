@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devopsdays/devopsdays-web.git"
+    "url": "https://github.com/devopsdays/devopsdays-web.git"
   },
   "author": "Matt Stratton",
   "license": "MIT",
@@ -17,7 +17,17 @@
   },
   "homepage": "https://github.com/devopsdays/devopsdays-web#readme",
   "devDependencies": {
+    "del": "^2.2.2",
     "gulp": "^3.9.1",
-    "gulp-htmlmin": "^3.0.0"
+    "gulp-cache": "^0.4.5",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-img-retina": "0.0.4",
+    "gulp-responsive": "^2.7.0",
+    "gulp-rev": "^7.1.2",
+    "gulp-rev-replace": "^0.4.3",
+    "gulp-useref": "^3.1.2",
+    "require-dir": "^0.3.0",
+    "run-sequence": "^1.2.2"
   }
 }

@@ -101,8 +101,7 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
 
 <br>
 
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdays_clt >}}
+{{< event_twitter >}}
 
 <hr>
 <h3>Featured speaker</h3>

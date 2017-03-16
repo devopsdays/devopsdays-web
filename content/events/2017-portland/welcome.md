@@ -15,8 +15,6 @@ aliases = ["/events/2017-portland"]
   {{< event_logo >}}
 </div>
 
-We're still working out all the details. If you'd like to help out, email us!
-
 Our event will be August 1st and 2nd. However, keep an eye out for a special follow-on event on the 3rd! More details to follow in this space soon.
 
 <div class = "row">
@@ -91,7 +89,7 @@ Our event will be August 1st and 2nd. However, keep an eye out for a special fol
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
+
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

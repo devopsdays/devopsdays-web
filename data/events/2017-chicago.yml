@@ -11,6 +11,10 @@ enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have 
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
+registration_open: "false"
+registration_link: ""
+cfp_open: "false"
+cfp_link: ""
 
 # Location
 #
@@ -19,7 +23,7 @@ location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the v
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
 #  - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -37,15 +41,45 @@ team_members:
     twitter: "nilved"
   - name: "Joshua Goldman"
   - name: "Cora Hays-Magan"
-  - name: "Michael Lanyon"
-    twitter: "lanyonm"
+    image: "cora-hays-magan.jpg"
+    twitter: "CorainChicago"
+    website: "http://corainchicago.github.io"
+    linkedin: "https://www.linkedin.com/in/corainchicago"
+    github: "corainChicago"
+    bio: "Cora became a developer after working in all the fun and exciting places, Central Asia, West Africa, and lovely Chicago.  In her household, the number of laptops outnumber the humans and cats combined."
   - name: "Aaron Lindstrom"
-  - name: "Chris Read"
-    twitter: "cread"
   - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    employer: "Chef"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
   - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
   - name: "Matt Stratton"
+    image: "matt-stratton.jpg"
     twitter: "mattstratton"
+    employer: "Chef Software, Inc"
+    website: "https://www.mattstratton.com"
+    facebook: "https://www.facebook.com/matt.stratton"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    bio: "Matt Stratton is a customer architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey."
+  - name: "Allie Richards"
+    image: "allie-richards.jpg"
+    twitter: "hpuxgirl"
+    employer: "Centro"
+    linkedin: "https://www.linkedin.com/in/alexandra-richards-88b54a36/"
+    bio: "Allie Richards has been ops-ing since before the terms \"DevOps\" and \"Operations Engineering\" existed. She is passionate about command lines, automation and performance at scale. When not at work she can usually be found trying to read with a cat on her lap."
+
 organizer_email: "organizers-chicago-2017@devopsdays.org"
 proposal_email: "cfp@devopsdayschi.org"
 

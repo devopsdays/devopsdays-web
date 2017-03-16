@@ -1,0 +1,21 @@
+<!-- Required Open Graph Info -->
+<meta property="og:title" content="{{ title .Title }}" />
+{{ if .IsHome }}
+  <meta property="og:description" content="devopsdays is a worldwide community conference series for anyone interested in IT improvement." />
+{{ else }}
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
+{{ end }}
+<meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ $.Site.Params.weburl }}{{ .Permalink | relURL }}" />
+{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
+  {{ $path := split ( .Permalink | relURL) "/" }}
+  {{ $event_slug := index $path 2 }}
+  <meta property="og:image" content="{{ $.Site.Params.weburl }}/events/{{ $event_slug }}/sharing.jpg" />
+{{ else }}
+  <meta property="og:image" content="{{ $.Site.Params.weburl }}/img/sharing.jpg" />
+{{- end -}}
+<meta property="fb:app_id" content="1904065206497317" />
+<!-- Optional Open Graph Markup -->
+<meta property="og:updated_time" content="{{ .Date }}"/>
+{{- with .Params.locale -}}<meta property="og:locale" content="{{ . }}" />{{- end -}}
+{{- with .Site.Params.title -}}<meta property="og:site_name" content="{{ . }}" />{{- end -}}

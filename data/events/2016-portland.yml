@@ -11,7 +11,7 @@ cfp_date_announce: 2016-07-01
 coordinates: "45.528562, -122.663028" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "The Oregon Convention Center" # The name of your location
 nav_elements:
-  - name: welcome
+ 
   - name: location
   - name: registration
     url: https://devopsdayspdx2016.busyconf.com/bookings/new

@@ -46,27 +46,27 @@ aliases = ["/events/2017-toronto"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    We're still looking for a few more ignite proposals. {{< event_link page="propose" text="Submit your idea today!" >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -86,10 +86,9 @@ aliases = ["/events/2017-toronto"]
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 <div style="text-align:center;">
     <br/>
-    {{< event_twitter DevOpsDaysTO >}}
+    {{< event_twitter >}}
 </div>
 
 <!-- Begin MailChimp Signup Form -->

@@ -87,4 +87,4 @@ aliases = ["/events/2017-detroit"]
   </div>
 </div>
 
-{{< event_twitter devopsdaysdet >}}
+{{< event_twitter >}}

@@ -1,0 +1,39 @@
+{
+  "maxReviewers": 5,
+  "numFilesToCheck": 10, 
+  "message": "@pullRequester, thanks! Based upon the content in this PR, we need a review from @reviewers",
+             
+  "alwaysNotifyForPaths": [
+    {
+      "name": "mattstratton",
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "utilities/**/*", "themes/**/*", "content/page/**/*", "static/_redirects"], 
+      "skipTeamPrs": false 
+    },
+        {
+      "name": "MikeRosTX",
+      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"], 
+      "skipTeamPrs": true 
+    },
+        {
+      "name": "phrawzty",
+      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"], 
+      "skipTeamPrs": true 
+    },
+    {
+      "name": "bridgetkromhout",
+      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"],
+      "skipTeamPrs": false
+     }
+  ],
+  "findPotentialReviewers": false,
+  "userBlacklist": [], 
+  "userBlacklistForPR": [],
+  "requiredOrgs": ["devopsdays"],
+  "skipAlreadyAssignedPR": false, 
+  "skipAlreadyMentionedPR": false,
+  "assignToReviewer": true,
+  "createReviewRequest": true, 
+  "createComment": true, 
+  "skipTitle": "", 
+  "skipCollaboratorPR": false 
+}

@@ -19,7 +19,7 @@ location: "Moscow" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: propose
   - name: speakers
@@ -50,9 +50,9 @@ sponsors:
   - id: aligntech
     level: silver
   - id: Logrocon
-    level: media
+    level: gold
   - id: Express42
-    level: media
+    level: gold
   - id: YEx
     level: media
   - id: superjob
@@ -95,6 +95,8 @@ sponsors:
     level: media
   - id: hotwork
     level: media
+  - id: realitsm
+    level: media
   - id: mailru
     level: internet
   - id: beameio
@@ -105,6 +107,8 @@ sponsors:
     level: media
   - id: hotelmilan
     level: accommodation
+  - id: croc
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,6 +125,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
   - id: internet
     label: General Internet
   - id: Networking

@@ -1,24 +1,23 @@
 +++
+City = "Zurich"
+Year = "2017"
 date = "2017-02-10T16:59:11+01:00"
-linktitle = "hannah-foxwell"
-title = "Hannah Foxwell"
+talk_date = ""
+talk_start_time = ""
+talk_end_time = ""
+title = "Tech is easy. Humans are hard."
 type = "talk"
-
+speakers = ["hannah-foxwell"]
+youtube = ""
+vimeo = ""
+speakerdeck = ""
+slideshare = ""
+slides = ""
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
+The health of your culture is a product of the ideas, beliefs and behaviour of your human 
+colleagues. The health of your platform includes the health of the humans that build and 
+support it.
 
-</p>
-
-<p><strong>Description:</strong></p>
-
-<p>
-
-</p>
-<p>
-
-  </div>
-</div>
-
+In this talk Hannah will discuss the very human aspects of DevOps and why we need to take 
+a more Human approach to DevOps transformation. [@HumanOps](https://twitter.com/humanops)

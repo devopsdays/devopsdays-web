@@ -5,7 +5,7 @@ friendly: "2015-austin" # Four digit year and the city name in lower-case. Don't
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2015-MM-DD, like this:   variable: 2015-01-05
-startdate: 2015-05-00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2015-05-04  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2015-05-05  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2015-01-01 # start accepting talk proposals.
@@ -19,7 +19,7 @@ location: "Austin" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

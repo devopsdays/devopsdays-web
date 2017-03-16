@@ -12,7 +12,7 @@ coordinates: "38.8011545,-77.0659376" # The corrodinates of your venue. Get Lati
 location: "US Patent and Trademark Office" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: register
     url: https://devopsdaysdc2016.busyconf.com/bookings/new
   # - name: propose

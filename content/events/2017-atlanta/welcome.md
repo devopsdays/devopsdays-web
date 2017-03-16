@@ -88,7 +88,6 @@ aliases = ["/events/2017-atlanta"]
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

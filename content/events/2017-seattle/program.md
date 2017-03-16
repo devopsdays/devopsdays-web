@@ -1,6 +1,6 @@
 +++
 date = "2016-03-06T21:28:07-06:00"
-title = "DevOpsDays Seattle 2017 Program"
+title = "Program"
 type = "event"
 
 +++
@@ -133,6 +133,12 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Ignites</strong>
+        <ul style="padding-left: 15px">
+          <li><a href="/events/2017-seattle/program/david-blank-edelman/">David Blank-Edelman</a><br>
+          <li><a href="/events/2017-seattle/program/greg-elin/">Greg Elin</a><br>
+          <li><a href="/events/2017-seattle/program/dawn-parzych/">Dawn Parzych</a><br>
+          <li><a href="/events/2017-seattle/program/glenn-sarti/">Glenn Sarti</a><br>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -141,7 +147,7 @@ type = "event"
         <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
@@ -151,7 +157,7 @@ type = "event"
         <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #1
       </div>
     </div> <!-- end timeslot div -->
@@ -161,7 +167,7 @@ type = "event"
         <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #2
       </div>
     </div> <!-- end timeslot div -->
@@ -171,7 +177,7 @@ type = "event"
         <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #3
       </div>
     </div> <!-- end timeslot div -->
@@ -309,7 +315,12 @@ type = "event"
         <time>13:30-14:00</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Ignites</strong>
+        <strong>Ignites</strong><br>
+        <ul style="padding-left: 15px">
+          <li><a href="/events/2017-seattle/program/jason-yee/">Jason Yee</a>
+          <li><a href="/events/2017-seattle/program/ram-jothikumar/">Ram Jothikumar</a>
+          <li><a href="/events/2017-seattle/program/jason-vernon/">Jason Vernon</a>
+        </ul>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -318,7 +329,7 @@ type = "event"
         <time>14:00-14:30</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space Opening
       </div>
     </div> <!-- end timeslot div -->
@@ -328,7 +339,7 @@ type = "event"
         <time>14:40-15:20</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #1
       </div>
     </div> <!-- end timeslot div -->
@@ -338,7 +349,7 @@ type = "event"
         <time>15:30-16:10</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #2
       </div>
     </div> <!-- end timeslot div -->
@@ -348,7 +359,7 @@ type = "event"
         <time>16:20-16:50</time>
       </div>
       <div class = "col-md-6 box">
-        <strong>Open Space</strong><br />
+        <strong><a href="/pages/open-space-format">Open Space</a></strong><br />
         Open Space #3
       </div>
     </div> <!-- end timeslot div -->

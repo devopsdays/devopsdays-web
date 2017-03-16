@@ -1,4 +1,4 @@
-theme = "devopsdays-responsive"
+theme = "devopsdays-theme"
 baseurl = "https://www.devopsdays.org/"
 # baseurl = "http://localhost:1313/"
 languageCode = "en-us"
@@ -36,17 +36,20 @@ buildDrafts = false
   weight = -100
 
 [permalinks]
-	page = "/:filename/"
+  page = "/:filename/"
   blog = "/blog/:year/:month/:day/:title/"
+  speaking = "/:filename/"
+
 
 [params]
-	Facebook = "//www.facebook.com/group.php?gid=106761636771"
-	Twitter = "http://www.twitter.com/devopsdays"
-	Linkedin = "http://www.linkedin.com/groups?home=&gid=2445279"
-	Groups = "http://groups.google.com/group/devopsdays"
+  Facebook = "//www.facebook.com/group.php?gid=106761636771"
+  Twitter = "http://www.twitter.com/devopsdays"
+  Linkedin = "http://www.linkedin.com/groups?home=&gid=2445279"
+  Groups = "http://groups.google.com/group/devopsdays"
 
-	# Set to "/" on *nix and Mac, "\\" on Windows
-	# Refer to https://github.com/spf13/hugo/issues/2394 for more information
-	PathSeperator = "/"
+  # Set to "/" on *nix and Mac, "\\" on Windows
+  # Refer to https://github.com/spf13/hugo/issues/2394 for more information
+  # Do not change in this file directly - use the --config flag to hugo with the config-windows.toml file instead
+  PathSeperator = "/" # this will be deprecated with devopsdays-theme
   pathSeparator = "/"
   weburl = "https://www.devopsdays.org"
