@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
-[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)]()
+[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE)
 
 # devopsdays-web
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
