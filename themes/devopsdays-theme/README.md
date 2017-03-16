@@ -3,6 +3,8 @@
 [![GitHub release](https://img.shields.io/github/release/devopsdays/devopsdays-theme.svg)](https://github.com/qubyte/rubidium/releases)
 [![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)]()
 [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-theme.svg)](https://greenkeeper.io/)
+[![Greenkeeper badge](https://img.shields.io/badge/roadmap-available-blue.svg)](https://www.devopsdays.org/roadmap)
+[![Greenkeeper badge](https://img.shields.io/badge/feedback-welcome-blue.svg)](https://www.devopsdays.org/ideas)
 
 [![Stories in Ready](https://badge.waffle.io/devopsdays/devopsdays-theme.svg?label=ready&title=Ready)](http://waffle.io/devopsdays/devopsdays-theme) [![Stories in Progress](https://badge.waffle.io/devopsdays/devopsdays-theme.svg?label=in%progress&title=In%20Progress)](http://waffle.io/devopsdays/devopsdays-theme) [![Needs Review](https://badge.waffle.io/devopsdays/devopsdays-theme.svg?label=needs-review&title=Needs%20Review)](http://waffle.io/devopsdays/devopsdays-theme)
 
@@ -83,7 +85,11 @@ Author = "Bridget Kromhout"
 If an author is not specified, attempts to display it are ignored.
 
 ## Feature Requests
-If there is a feature in the theme that you would like to see, first check to see if an [enhancement request](https://github.com/devopsdays/devopsdays-theme/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) has already been opened, and then [add a "thumbs up" reaction to the original](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments). If not, please [open a new issue](https://github.com/devopsdays/devopsdays-theme/issues/new). 
+If there is a feature in the theme that you would like to see, please visit our [ideas portal](https://www.devopsdays.org/ideas) and suggest it. On that same page, you can upvote existing feedback that you would like to see.
+
+If you'd like to see what we have planned, check out our [roadmap](https://www.devopsdays.org/roadmap).
+
+Please only use [GitHub issues](https://www.github.com/devopsdays/devopsdays-theme) for reporting defects/bugs.
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
