@@ -87,6 +87,5 @@ Welcome!  The group that brought you DevOpsDays Chicago 2014-2016 is back togeth
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 
-{{< event_twitter devopsdayschi >}}
+{{< event_twitter >}}

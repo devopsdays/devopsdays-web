@@ -89,7 +89,7 @@ Our event will be August 1st and 2nd. However, keep an eye out for a special fol
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
+
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

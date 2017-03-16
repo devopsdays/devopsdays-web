@@ -83,6 +83,6 @@ aliases = ["/events/2017-zurich"]
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}<br>
-    {{< event_twitter devopszh >}}
+    {{< event_twitter >}}
   </div>
 </div>

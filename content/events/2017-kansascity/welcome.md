@@ -95,4 +95,4 @@ Where large enterprise software companies and a growing startup community are fu
   </div>
 </div>
 
-{{< event_twitter devopsdayskc >}}
+{{< event_twitter >}}

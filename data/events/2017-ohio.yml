@@ -2,8 +2,7 @@ name: "2017-ohio" # The name of the event. Four digit year with the city name in
 year: 2017 # The year of the event. Make sure it is in quotes.
 city: "Ohio" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysOhio"
-friendly: "2017-ohio" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "past" # Options are "past" or "current".
+
 startdate: "" # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: "" # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: ""
