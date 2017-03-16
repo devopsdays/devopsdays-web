@@ -13,7 +13,7 @@
           <div class = "card" style="max-width: 300px;padding-left:0px;padding-right:0px">
             <h3 class = "card-header">{{ .name }}</h3>
             {{ if .image }}
-              <img class="card-img-top organizer-image" src="/events/{{$event_slug}}/organizers/{{.image}}" alt="Card image cap">
+              <img class="card-img-top organizer-image" src="/events/{{$event_slug}}/organizers/{{.image}}" alt="{{ .name }}">
             {{ end }}
             <div class = "card-block">
               {{ if .employer }}
