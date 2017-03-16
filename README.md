@@ -33,4 +33,4 @@ If you'd like to see what we have planned, check out our [roadmap](https://www.d
 Please only use [GitHub issues](https://www.github.com/devopsdays/devopsdays-theme) for reporting defects/bugs.
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
+See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
