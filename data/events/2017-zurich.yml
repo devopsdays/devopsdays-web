@@ -172,7 +172,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
 
 program:
-  - title: "Regisitration and Welcome Coffee"
+  - title: "Registration and Welcome Coffee"
     type: custom
     date: 2017-05-03
     start_time: "08:00"
@@ -201,37 +201,37 @@ program:
     type: custom
     date: 2017-05-03
     start_time: "10:40"
-    end_time: "11:10"
+    end_time: "11:00"
   - title: "chris-van-tuin"
     type: talk
     date: 2017-05-03
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "emanuel-kleindienst"
     type: talk
     date: 2017-05-03
-    start_time: "11:45"
-    end_time: "12:15"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-05-03
-    start_time: "12:15"
-    end_time: "13:15"
+    start_time: "12:00"
+    end_time: "13:00"
   - title: "Ignites"
     type: custom
     date: 2017-05-03
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Open Space Opening"
     type: custom
     date: 2017-05-03
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "13:30"
+    end_time: "14:10"
   - title: "Open Space #1"
     type: custom
     date: 2017-05-03
-    start_time: "14:20"
-    end_time: "15:05"
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Open Space #2"
     type: custom
     date: 2017-05-03
@@ -240,18 +240,18 @@ program:
   - title: "Open Space #3"
     type: custom
     date: 2017-05-03
-    start_time: "16:10"
-    end_time: "16:55"
+    start_time: "16:05"
+    end_time: "16:50"
   - title: "Close Day & Logistics"
     type: custom
     date: 2017-05-03
-    start_time: "16:55"
+    start_time: "16:50"
     end_time: "17:00"
   - title: "Evening Event"
     type: custom
     date: 2017-05-03
-    start_time: "18:30"
-    end_time: "24:00"
+    start_time: "19:00"
+    end_time: "late"
     comments: "tba"
   - title: "Registration and Welcome Coffee"
     type: custom
@@ -282,7 +282,7 @@ program:
     type: custom
     date: 2017-05-04
     start_time: "10:40"
-    end_time: "11:10"
+    end_time: "11:00"
   - title: "suzie-prince"
     type: talk
     date: 2017-05-04
@@ -291,28 +291,28 @@ program:
   - title: "michele-vuerich"
     type: talk
     date: 2017-05-04
-    start_time: "11:45"
-    end_time: "12:15"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-05-04
-    start_time: "12:15"
-    end_time: "13:15"
+    start_time: "12:00"
+    end_time: "13:00"
   - title: "Ignites"
     type: custom
     date: 2017-05-04
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Open Space Opening"
     type: custom
     date: 2017-05-04
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "13:30"
+    end_time: "14:10"
   - title: "Open Space #1"
     type: custom
     date: 2017-05-04
-    start_time: "14:20"
-    end_time: "15:05"
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Open Space #2"
     type: custom
     date: 2017-05-04
@@ -321,13 +321,13 @@ program:
   - title: "Open Space #3"
     type: custom
     date: 2017-05-04
-    start_time: "16:10"
-    end_time: "16:55"
+    start_time: "16:05"
+    end_time: "16:50"
   - title: "Close Day & Farewell"
     type: custom
     date: 2017-05-04
-    start_time: "16:55"
-    end_time: "17:15"
+    start_time: "16:50"
+    end_time: "17:10"
 
 ignites:
   - title: "dan-reif"
