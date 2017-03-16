@@ -83,7 +83,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->
