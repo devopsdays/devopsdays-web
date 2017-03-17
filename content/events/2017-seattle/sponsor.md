@@ -3,8 +3,6 @@ date = "2016-09-20T21:46:51+01:00"
 title = "Sponsorship Info"
 type = "event"
 
-
-
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
