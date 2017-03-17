@@ -2,6 +2,7 @@
 date = "2016-10-17T08:26:34-05:00"
 title = "propose"
 type = "event"
+description = "Propose a talk for DevOpsDays Chicago 2017!"
 +++
   {{< cfp_dates >}}
 
