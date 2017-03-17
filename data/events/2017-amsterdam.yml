@@ -49,9 +49,11 @@ sponsors:
   - id: chef
     level: gold
   # silver
+  - id: valtech
+    level: silver
   - id: linkit
     level: silver
-  - id: valtech
+  - id: mirabeau
     level: silver
   # bronze
   - id: devoteam
