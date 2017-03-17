@@ -78,12 +78,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/technovangelist"
     website: "http://technovangelist.com"
     image: "MattOnBlue2.png"
-    bio: >
-      Matt Williams is an Evangelist at Datadog. He is passionate
-      about the power of monitoring and metrics to make large-scale
-      systems stable and manageable. So he tours the country speaking
-      and writing about monitoring with Datadog. When he's not on the
-      road, he's coding. You can find Matt on Twitter at @Technovangelist.
+    bio: "Matt Williams is an Evangelist at Datadog. He is passionate about the power of monitoring and metrics to make large-scale systems stable and manageable. So he tours the country speaking and writing about monitoring with Datadog. When he's not on the road, he's coding. You can find Matt on Twitter at @Technovangelist."
 
   # Asst. organizers: TBD if we can separate out
 
