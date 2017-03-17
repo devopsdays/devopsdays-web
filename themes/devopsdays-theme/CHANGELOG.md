@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.0.4](https://github.com/devopsdays/devopsdays-theme/tree/1.0.4) (2017-03-17)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.3...1.0.4)
+
+**Fixed bugs:**
+
+- Register CTA button links to incorrect URL [\#394](https://github.com/devopsdays/devopsdays-theme/issues/394)
+- Program page bails if no startdate [\#393](https://github.com/devopsdays/devopsdays-theme/issues/393)
+- Remove .travis.yml from zipfile [\#392](https://github.com/devopsdays/devopsdays-theme/issues/392)
+
 ## [1.0.3](https://github.com/devopsdays/devopsdays-theme/tree/1.0.3) (2017-03-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.2...1.0.3)
 
