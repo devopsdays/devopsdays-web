@@ -286,9 +286,9 @@ program:
   - title: "suzie-prince"
     type: talk
     date: 2017-05-04
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: "beat-stutz"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "michele-vuerich"
     type: talk
     date: 2017-05-04
     start_time: "11:30"

@@ -28,4 +28,4 @@ future.
 
 [1] https://github.com/davidhalter/pysible
 
-[2] https://github.com/davidhalter/jedi"
+[2] https://github.com/davidhalter/jedi
