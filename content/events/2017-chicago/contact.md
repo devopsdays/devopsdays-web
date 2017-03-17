@@ -2,6 +2,7 @@
 date = "2016-10-17T08:26:34-05:00"
 title = "contact"
 type = "event"
+description = "DevOpsDays Chicago 2017 will take place on Sept 12-13, 2017! Contact the organizers for any questions!"
 
 
 +++
