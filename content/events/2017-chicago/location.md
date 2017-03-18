@@ -2,6 +2,7 @@
 date = "2016-10-17T08:26:34-05:00"
 title = "location"
 type = "event"
+description = "DevOpsDays Chicago 2017 will be taking place at the Holiday Inn Mart Plaza, 350 West Mart Center Drive, Chicago, IL 60654"
 
 +++
 

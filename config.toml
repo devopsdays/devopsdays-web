@@ -1,4 +1,4 @@
-theme = "devopsdays-responsive"
+theme = "devopsdays-theme"
 baseurl = "https://www.devopsdays.org/"
 # baseurl = "http://localhost:1313/"
 languageCode = "en-us"
@@ -38,6 +38,8 @@ buildDrafts = false
 [permalinks]
   page = "/:filename/"
   blog = "/blog/:year/:month/:day/:title/"
+  speaking = "/:filename/"
+
 
 [params]
   Facebook = "//www.facebook.com/group.php?gid=106761636771"

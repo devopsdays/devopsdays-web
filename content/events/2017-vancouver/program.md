@@ -343,7 +343,7 @@ type = "event"
         <time>2:00 PM</time>
       </div>
       <div class = "col-md-6 box">
-          Talk 9 - Oriol Martinez Pou: "Best Buy Canada's Holiday Survival Kit: Performance Strategy and real-time APM"
+          Talk 9 - Oriol Martinez Pou &amp; Solmaz Abbaspoursani: "Best Buy Canada's Holiday Survival Kit: Performance Strategy and real-time APM"
       </div>
     </div>
 <div class = "row">

@@ -2,6 +2,7 @@ name: "2017-madison" # The name of the event. Four digit year with the city name
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Madison" # The displayed city name of the event. Capitalize it.
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+event_twitter: "devopsdaysmsn"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -18,7 +19,7 @@ location: "Madison" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

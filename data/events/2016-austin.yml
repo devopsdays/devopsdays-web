@@ -12,7 +12,7 @@ coordinates: "30.2500, -97.7500" # The corrodinates of your venue. Get Latitude 
 location: "Austin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: sponsor
   - name: contact
   - name: conduct

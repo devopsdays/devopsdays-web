@@ -12,7 +12,7 @@ coordinates: "36.160606, -86.7746752" # The corrodinates of your venue. Get Lati
 location: "aVenue" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-nashville-2016-tickets-23942633060
   - name: location

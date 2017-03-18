@@ -13,7 +13,7 @@ location: "location" # The name of your location
 
 
 nav_elements:
-  - name: welcome
+ 
   - name: program
   - name: hackathon
   - name: presenters

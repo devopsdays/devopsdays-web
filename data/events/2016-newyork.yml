@@ -12,7 +12,7 @@ coordinates: "40.7127, -74.0059" # The coordinates of your venue. Get Latitude a
 location: "Microsoft Technology Center" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: contact
   - name: location
   - name: speakers 
