@@ -99,3 +99,172 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+
+program:
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-05-25
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-05-25
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "bridget-kromhout"
+    type: talk
+    date: 2017-05-25
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2017-05-25
+    start_time: "10:40"
+    end_time: "11:00"
+  - title: "augusto-rosa"
+    type: talk
+    date: 2017-05-25
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "mia-henderson"
+    type: talk
+    date: 2017-05-25
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-05-25
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2017-05-25
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "jason-hand"
+    type: talk
+    date: 2017-05-25
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-05-25
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-05-25
+    start_time: "14:40"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2017-05-25
+    start_time: "15:25"
+    end_time: "15:40"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-05-25
+    start_time: "15:40"
+    end_time: "16:25"
+  - title: "Break"
+    type: custom
+    date: 2017-05-25
+    start_time: "16:25"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-05-25
+    start_time: "16:40"
+    end_time: "17:25"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-05-25
+    start_time: "17:30"
+    end_time: "20:30"
+    comments: "tba"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-05-26
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-05-26
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "arthur-maltson"
+    type: talk
+    date: 2017-05-26
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2017-05-26
+    start_time: "10:40"
+    end_time: "11:00"
+  - title: "andreas-grabner"
+    type: talk
+    date: 2017-05-26
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2017-05-26
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-05-26
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2017-05-26
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "chris-van-tuin"
+    date: 2017-05-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-05-26
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-05-26
+    start_time: "14:40"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2017-05-26
+    start_time: "15:25"
+    end_time: "15:40"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-05-26
+    start_time: "15:40"
+    end_time: "16:25"
+  - title: "Break"
+    type: custom
+    date: 2017-05-26
+    start_time: "16:25"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-05-26
+    start_time: "16:40"
+    end_time: "17:25"
+
+ignites:
+  - title: "adam-lefkowitz"
+    date: 2017-05-25
+  - title: "philippe-tremblay"
+    date: 2017-05-25
+  - title: "david-numan"
+    date: 2017-05-26
+  - title: "fawzy-manaa"
+    date: 2017-05-26
+  - title: "ernest-kugel"
+    date: 2017-05-26
