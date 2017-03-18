@@ -83,6 +83,12 @@ sponsors:
     level: blackdiamond
   - id: pivotal
     level: blackdiamond
+  - id: cloudpassage
+    level: blackdiamond
+  - id: opsgenie
+    level: bluesquare
+  - id: pure-storage
+    level: bluesquare
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

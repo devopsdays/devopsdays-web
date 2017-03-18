@@ -43,7 +43,11 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: chef
+    level: gold
   # silver
+  - id: linkit
+    level: silver
   # bronze
   - id: devoteam
     level: bronze
