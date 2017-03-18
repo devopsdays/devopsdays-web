@@ -61,11 +61,19 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: redhat
     level: gold
+  - id: regis
+    level: gold
+  - id: trace3
+    level: gold
+  - id: influxdata
+    level: gold
   - id: software-freedom-school
     level: lanyard
   - id: asg
     level: lanyard
   - id: aspe
+    level: bronze
+  - id: workday
     level: bronze
   - id: signalsciences
     level: community
