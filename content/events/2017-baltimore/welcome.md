@@ -139,7 +139,7 @@ aliases = [
 
 <div class = "row">
   <p>
-    {{< event_twitter devopsdaysbmore >}}
+    {{< event_twitter >}}
   </p>
 </div>
 

@@ -6,6 +6,7 @@
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 
+{{ if $e.startdate }}
 
 <div class="row">
     <!-- enclosing div -->
@@ -244,6 +245,8 @@
 
 
 </div>{{ "<!-- whole big thing -->" | safeHTML }}
+
+{{ end }}
 
 
 {{ end }}

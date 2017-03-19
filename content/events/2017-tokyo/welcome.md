@@ -114,7 +114,6 @@ While English is becoming the de-facto language of software development, we will
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

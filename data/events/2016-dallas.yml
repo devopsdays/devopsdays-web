@@ -12,7 +12,7 @@ coordinates: "32.7767, -96.7970" # The corrodinates of your venue. Get Latitude 
 location: "Grapevine Convention Center, 1209 S. Main Street, Grapevine, TX 76051" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: contact
   - name: location
   - name: program

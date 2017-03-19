@@ -1,5 +1,46 @@
 # Change Log
 
+## [1.0.4](https://github.com/devopsdays/devopsdays-theme/tree/1.0.4) (2017-03-17)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.3...1.0.4)
+
+**Fixed bugs:**
+
+- Register CTA button links to incorrect URL [\#394](https://github.com/devopsdays/devopsdays-theme/issues/394)
+- Program page bails if no startdate [\#393](https://github.com/devopsdays/devopsdays-theme/issues/393)
+- Remove .travis.yml from zipfile [\#392](https://github.com/devopsdays/devopsdays-theme/issues/392)
+
+## [1.0.3](https://github.com/devopsdays/devopsdays-theme/tree/1.0.3) (2017-03-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.2...1.0.3)
+
+**Fixed bugs:**
+
+- Alt text on organizer images needs fixing [\#388](https://github.com/devopsdays/devopsdays-theme/issues/388)
+- Regression on ability to control sponsor ship links [\#387](https://github.com/devopsdays/devopsdays-theme/issues/387)
+
+## [1.0.2](https://github.com/devopsdays/devopsdays-theme/tree/1.0.2) (2017-03-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.1...1.0.2)
+
+**Closed issues:**
+
+- Logo images are not constrained on small viewports  [\#384](https://github.com/devopsdays/devopsdays-theme/issues/384)
+- data cleanup for event\_twitter shortcode change [\#214](https://github.com/devopsdays/devopsdays-theme/issues/214)
+- Add regression testing to current site [\#55](https://github.com/devopsdays/devopsdays-theme/issues/55)
+
+## [1.0.1](https://github.com/devopsdays/devopsdays-theme/tree/1.0.1) (2017-03-15)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.0...1.0.1)
+
+**Fixed bugs:**
+
+- Text set to bold in content pages does not display bold in Windows browsers [\#382](https://github.com/devopsdays/devopsdays-theme/issues/382)
+
+**Closed issues:**
+
+- Track clicks on CTA buttons into Google Analytics [\#381](https://github.com/devopsdays/devopsdays-theme/issues/381)
+- Track clicks on CTA buttons into Google Analytics [\#380](https://github.com/devopsdays/devopsdays-theme/issues/380)
+
+## [1.0.0](https://github.com/devopsdays/devopsdays-theme/tree/1.0.0) (2017-03-14)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.9.2...1.0.0)
+
 ## [0.9.2](https://github.com/devopsdays/devopsdays-theme/tree/0.9.2) (2017-03-07)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.9.1...0.9.2)
 

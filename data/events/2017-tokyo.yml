@@ -18,7 +18,7 @@ location: "大崎ブライトコアホール" # Defaults to city, but you can ma
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
   - name: propose
     url: https://confengine.com/devopsdays-tokyo-2017

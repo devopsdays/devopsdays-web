@@ -12,7 +12,7 @@ coordinates: "44.972610,-93.272960" # The corrodinates of your venue. Get Latitu
 location: "Downtown Minneapolis Hilton" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: speakers
   - name: location

@@ -1,29 +1,23 @@
 +++
-date = "2017-03-04T15:13:16-05:00"
-linktitle = "chris-van-tuin"
-title = "Chris Van Tuin"
+date = "2017-02-27T15:10:56+01:00"
+title = "A Security State of Mind: Continuous Security for DevOps with Kubernetes"
 type = "talk"
-
+speakers = ["chris-van-tuin"]
+youtube = ""
+vimeo = ""
+speakerdeck = ""
+slideshare = ""
+slides = ""
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <h3>A Security State of Mind: Continuous Security for DevOps with Kubernetes</h3>
+With the rise of DevOps, containers are at the brink of becoming a pervasive technology in Enterprise IT to accelerate application delivery for the business. When it comes to adopting containers in the enterprise, Security is the highest adoption barrier. Is your organization ready to address the security risks with containers in a DevOps environment?
 
-<p>With the rise of DevOps, containers are at the brink of becoming a pervasive technology in Enterprise IT to accelerate application delivery for the business. When it comes to adopting containers in the enterprise, Security is the highest adoption barrier. Is your organization ready to address the security risks with containers in a DevOps environment?</p>
+In this presentation, you'll learn about:
 
-<p>In this presentation, you'll learn about:</p>
+* An understanding of the underlying technologies for Containers and how they enable DevOps
+* The security risks with deploying containers in the enterprise
+* The dangers of untrusted content and importance of maintaining container images
+* How to make your Container workflow more secure using Kubernetes without slowing down DevOps
+* Automating vulnerability management, security management, and compliance checking for container images in a Kubernetes environment
 
-<ul>
-<li>An understanding of the underlying technologies for Containers and how they enable DevOps</li>
-<li>The security risks with deploying containers in the enterprise</li>
-<li>The dangers of untrusted content and importance of maintaining container images</li>
-<li>How to make your Container workflow more secure using Kubernetes without slowing down DevOps</li>
-<li>Automating vulnerability management, security management, and compliance checking for container images in a Kubernetes environment</li>
-</ul>
-
-<p>Join, Chris Van Tuin, Chief Technologist, West at Red Hat, as he walks through an overview of the underlying Container technologies, the security risks with deploying containers, and how to address these security challenges in a DevOps environment with Kubernetes.</p>
-
-</div>
-</div>
-
+Join, Chris Van Tuin, Chief Technologist, West at Red Hat, as he walks through an overview of the underlying Container technologies, the security risks with deploying containers, and how to address these security challenges in a DevOps environment with Kubernetes.

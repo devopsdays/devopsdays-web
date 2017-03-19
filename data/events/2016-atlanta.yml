@@ -13,7 +13,7 @@ location: "Georgia Tech Historic Academy of Medicine" # The name of your locatio
 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: location
   - name: program
   - name: registration

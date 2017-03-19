@@ -1,4 +1,4 @@
-theme = "devopsdays-responsive"
+theme = "devopsdays-theme"
 baseurl = "https://www.devopsdays.org/"
 # baseurl = "http://localhost:1313/"
 languageCode = "en-us"
@@ -47,7 +47,7 @@ buildDrafts = false
 
   # Set to "/" on *nix and Mac, "\\" on Windows
   # Refer to https://github.com/spf13/hugo/issues/2394 for more information
-  # Do not change this setting in the file directly. Instead run hugo with the --config flag if using Windows. 
+  # Do not change this setting in the file directly. Instead run hugo with the --config flag if using Windows.
   # See CONTRIBUTING.md on devopsdays/devopsdays-web for more details
   PathSeperator = "\\" # this will be deprecated with devopsdays-theme
   pathSeparator = "\\"

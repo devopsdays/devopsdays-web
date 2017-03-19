@@ -86,12 +86,6 @@ aliases = ["/events/2017-toronto"]
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-<div style="text-align:center;">
-    <br/>
-    {{< event_twitter DevOpsDaysTO >}}
-</div>
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
