@@ -6,11 +6,8 @@ title = "propose"
 type = "event"
 
 +++
-  {{< cfp_dates >}}
 
-<hr>
-
-__We're still looking for a few more ignites to round out our program. Submit your idea on <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> today.__
+Although 30 minute talk spaces in our program have been filled, and announced, we are still looking for a few more ignites to round out our program. Submit your idea on <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> today. We'll close the CFP again on March 24 at 11:59 PM Eastern.
 
 ### Equal Opportunity
 
