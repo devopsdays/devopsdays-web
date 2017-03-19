@@ -114,12 +114,12 @@ team_members: # Name is the only required field for team members.
     image: "megan.jpg"    
   - name: "Michael Hedgpeth"
     employer: "NCR"
-#   bio:
+    bio: "Michael manages NCR Hospitality's DevOps transition, and is a deeply committed technologist that appreciates the value and necessity of executive alignment. This year he will be focusing on the DevOps Leadership Summit event before DevOpsDays which will give upper management an avenue to understand, and embrace DevOps principles."
     twitter: "michaelhedgpeth"
     linkedin: "https://www.linkedin.com/in/michael-hedgpeth/"
 #   facebook:
-#   website:
-#   github:
+    website: "http://hedge-ops.com/"
+    github: "mhedgpeth"
     image: "michael.jpg"
   - name: "Mike Rosado"
     employer: "Independent Consultant"
