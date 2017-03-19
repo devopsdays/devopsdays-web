@@ -11,7 +11,7 @@ type = "event"
 
 <div>
 <iframe width="400" height="225" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMRa1nmVuQUYRsofLI9AhgKk&key=AIzaSyCQVseQXE2vOLizZJWabRhrHZJB9GpEwhs" allowfullscreen></iframe>
+src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMRa1nmVuQUYRsofLI9AhgKk&key=AIzaSyDGFHra2kxFIAMDNrU2yKoo8L0aLSSfy3w" allowfullscreen></iframe>
 </div>
 
 
