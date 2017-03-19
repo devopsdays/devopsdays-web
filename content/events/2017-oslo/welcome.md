@@ -137,6 +137,7 @@ aliases = ["/events/2017-oslo"]
   </div>
 </div>
 
+<hr>
 
 <h2>Videos from last year</h2>
 
