@@ -1,9 +1,7 @@
 +++
-date = "2017-02-07"
-title = "sponsor"
-type = "event"
-
-
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor devopsdays CITY YYYY"
 +++
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}
