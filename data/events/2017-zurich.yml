@@ -158,7 +158,8 @@ sponsors:
     level: Evening Event
   - id:  tamedia
     level: silver
-  - id: opsgenie-zurich-2017
+  - id: opsgenie
+    url: "http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Zurich_%20May&utm_medium=banner"
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
