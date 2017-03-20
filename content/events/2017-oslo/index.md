@@ -1,9 +1,8 @@
 +++
-date = "2017-02-07"
-title = "welcome"
-type = "event"
-aliases = ["/events/2017-oslo"]
-
+Title = "devopsdays OSLO 2017"
+Type = "welcome"
+aliases = ["/events/2017-oslo/"]
+Description = "devopsdays OSLO 2017"
 +++
 
 <div style="text-align:center;">
@@ -109,15 +108,16 @@ aliases = ["/events/2017-oslo"]
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div> -->
-
-<!-- <div class = "row">
+<!--
+<div class = "row">
   <div class = "col-md-3">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
+-->
 
 <div class = "row">
   <div class = "col-md-3">
@@ -140,14 +140,9 @@ aliases = ["/events/2017-oslo"]
 <hr>
 
 <h2>Videos from last year</h2>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BTTqGoLdRJM" frameborder="0" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sr3OS6wfxzc" frameborder="0" allowfullscreen></iframe>
 
 </div>
 
-</div>
-
-<br>
 <hr>
