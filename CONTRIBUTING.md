@@ -25,6 +25,8 @@ hugo server -w --baseUrl="http://localhost:1313" --config config-windows.toml
 ```
 
 Now open `baseURL` in a browser and navigate to the content that you're editing - voilà!
+<b>Note:</b> If you are still seeing previous theme cached, and using the port flag `-p` does not help, then try using the theme flag `--theme=`.
+
 
 ## Pull requests
 
