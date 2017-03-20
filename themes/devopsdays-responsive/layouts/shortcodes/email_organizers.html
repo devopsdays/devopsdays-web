@@ -1,4 +1,0 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeperator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-<a href='mailto:{{ $e.organizer_email }}?subject={{ .Get "subject"}}'>{{ $e.organizer_email }}</a>

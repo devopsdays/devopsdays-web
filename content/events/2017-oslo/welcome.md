@@ -12,7 +12,9 @@ aliases = ["/events/2017-oslo"]
 
 <br>
 
-<p><h3>{{< event_link page="registration" text="Blind bird registration is open!" >}}</h3></p>
+{{< event_logo >}}
+
+<p><h3>{{< event_link page="registration" text="Blind bird registration is open!" >}}</h3><img src=""></p>
 
 <p>Be quick! Only 20 amazingly cheap tickets available.</p>
 
@@ -135,6 +137,7 @@ aliases = ["/events/2017-oslo"]
   </div>
 </div>
 
+<hr>
 
 <h2>Videos from last year</h2>
 

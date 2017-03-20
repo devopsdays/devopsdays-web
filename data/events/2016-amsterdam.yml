@@ -112,7 +112,7 @@ sponsor_levels:
     label: Community
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: workshops
 #  - name: propose

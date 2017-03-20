@@ -9,12 +9,11 @@ type = "event"
 
 ### Conference location:
 
-DevOps Days Toronto is being hosted at the Glenn Gould Studio located at corner of Front and John in the Canadian Broadcasting Centre. The Studio and its washrooms are wheelchair accessible.<br><br>
-<b><a href="http://music.cbc.ca/#!/glenngould/studio/" target="_blank">Glenn Gould Studios</a>:</b> 250 Front St West, Toronto, ON. M5V 3G5 - (416) 205-5000<br><br>
-<img width="580px" src="/events/2016-toronto/corporate-StageOverhead.jpg" alt="Glenn Gould Studios Overhead - DevOps Days Toronto" />
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1443.5872637504913!2d-79.3879314!3d43.6445371!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x7c5132f735d581a8!2sCBC+-+Canadian+Broadcasting+Corporation!5e0!3m2!1sen!2sca!4v1447623546736" width="580" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+DevOps Days Toronto is being hosted at the Glenn Gould Studio located at corner of Front and John in the Canadian Broadcasting Centre. The Studio and its washrooms are wheelchair accessible.
 
-<br><br>
+<img width="580px" src="/events/2016-toronto/corporate-StageOverhead.jpg" alt="Glenn Gould Studios Overhead - DevOps Days Toronto" />
+
+<b><a href="http://www.cbc.ca/glenngouldstudio/" target="_blank">Glenn Gould Studios</a>:</b> <a href="https://www.google.com/maps/place/250+Front+St+W,+Toronto,+ON+M5V+3G5,+Canada/@43.644863,-79.388622,15z/data=!4m5!3m4!1s0x882b34d6c61cc5a1:0x25fa371b9be62bed!8m2!3d43.6447622!4d-79.3881812?hl=en" target="_blank">250 Front St West, Toronto, ON. M5V 3G5</a> - (416) 205-5000
 
 ### Public Transportation
 
@@ -24,13 +23,15 @@ Glenn Gould Studio is easily accessible by public transit. From the TTC and Go T
 
 Toronto has two airports: Toronto Pearson International Airport and Billy Bishop Toronto City Airport. Check Expedia.ca for flight information.
 
-Via Rail and GO Transit trains connect at Union Station, the main station for Toronto. Union Station connects with public transit.
+<a href="https://www.upexpress.com" target="_blank">Up Express</a> is a great way to get from Pearson to Union Station and the hotels near the venue. Glenn Gould is three blocks west of Union Station.
 
-There are a number of parking lots near the Canadian Broadcasting Centre. Please review <a href="http://music.cbc.ca/glenngould/pdfs/GGS-CBCParkingLotMap.pdf" target="_blank">Glenn Gould Parking Map</a> for all of the options. The nearest Green P lot is Carpark 52 at 40 York Street. Daytime rate (7am - 7pm) is $20.00 and night time rates (5pm - 7am) is $8.00.
+Union Station is a main transit hub for Toronto. You can get there by Via Rail, GO Transit and TTC.
+
+There are a number of parking lots near the Canadian Broadcasting Centre. Please review <a href="http://www.cbc.ca/glenngould/CBC_Parking_Lot_Map.pdf" target="_blank">Glenn Gould Parking Map</a> for all of the options. The nearest Green P lot is Carpark 52 at 40 York Street.
 
 ### Accommodations
 
-Toronto is a world class city with a multitude of accomodation options near Glenn Gould Studios. We are investigating group space at a nearby hotel. More details will be shared in the near future.
+Toronto is a world class city with a multitude of accomodation options near Glenn Gould Studios.
 
 ### Tourism
 

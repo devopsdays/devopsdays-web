@@ -11,9 +11,11 @@ cfp_date_end: 2017-02-17
 cfp_date_announce: 2017-03-01
 coordinates: "39.739236, -104.990251" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Denver" # The name of your location
+registration_open: "true"
+registration_link: "https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
   - name: sponsor
   - name: speakers
   - name: contact
@@ -51,9 +53,27 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: sumologic
     level: gold
+  - id: chef
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: redhat
+    level: gold
+  - id: regis
+    level: gold
+  - id: trace3
+    level: gold
+  - id: influxdata
+    level: gold
   - id: software-freedom-school
-    level: bronze
+    level: lanyard
+  - id: asg
+    level: lanyard
   - id: aspe
+    level: bronze
+  - id: workday
     level: bronze
   - id: signalsciences
     level: community

@@ -12,12 +12,12 @@
       {{ if eq $e.registration_open "true" }}
         {{ if $e.registration_link }}
           {{ if eq $e.registration_link "" }}
-            {{ $.Scratch.Set "registration_link" (printf "/events/%s/register" $event_slug)}}
+            {{ $.Scratch.Set "registration_link" (printf "/events/%s/registration" $event_slug)}}
           {{ else }}
             {{ $.Scratch.Set "registration_link" $e.registration_link }}
           {{ end }}
         {{ else }}
-          {{ $.Scratch.Set "registration_link" (printf "/events/%s/register" $event_slug)}}
+          {{ $.Scratch.Set "registration_link" (printf "/events/%s/registration" $event_slug)}}
 
       {{ end }}
       <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">

@@ -11,6 +11,8 @@ enddate:  2017-04-19
 cfp_date_start:  2017-01-05
 cfp_date_end:  2017-02-27
 cfp_date_announce:  2017-03-01
+registration_open: "true"
+registration_link: "https://www.eventbrite.com/e/devopsdaysatl-2017-tickets-30968684168"
 
 # Location
 #
@@ -19,10 +21,11 @@ location: "Atlanta" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
-#  - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdaysatl2017 # The url setting is optional, and only if you want the navigation to link off-site
+
+  - name: program
+  - name: speakers
+#  - name: propose
+#    url: https://www.papercall.io/devopsdaysatl2017 # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
     url: https://www.eventbrite.com/e/devopsdaysatl-2017-tickets-30968684168
@@ -48,7 +51,7 @@ proposal_email: "proposals-atlanta-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: opsgenie
+  - id: 2017-atlanta-opsgenie
     level: gold
   - id: pivotal
     level: gold
@@ -58,7 +61,11 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: gcp
+    level: gold
   - id: victorops
+    level: silver
+  - id: relus
     level: silver
   - id: sonatype
     level: bronze
@@ -82,3 +89,191 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2017-04-18
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-18
+    start_time: "9:00"
+    end_time: "9:15"
+
+  - title: "kelsey-hightower"
+    type: talk
+    date: 2017-04-18
+    start_time: "9:15"
+    end_time: "9:45"
+
+  - title: "sponsors"
+    type: custom
+    date: 2017-04-18
+    start_time: "9:45"
+    end_time: "9:55"
+
+  - title: "chris-evett"
+    type: talk
+    date: 2017-04-18
+    start_time: "9:55"
+    end_time: "10:25"
+
+  - title: "break"
+    type: custom
+    date: 2017-04-18
+    start_time: "10:25"
+    end_time: "10:40"
+
+  - title: "angel-banks"
+    type: talk
+    date: 2017-04-18
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-18
+    start_time: "11:10"
+    end_time: "11:20"
+
+  - title: "josh-long"
+    type: talk
+    date: 2017-04-18
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-04-18
+    start_time: "12:00"
+    end_time: "1:00"
+
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-18
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Open Spaces"
+    type: custom
+    date: 2017-04-18
+    start_time: "1:30"
+    end_time: "4:45"
+
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-04-18
+    start_time: "4:45"
+    end_time: "5:00"
+  - title: "MailChimp and Google Happy Hour"
+    type: custom
+    date: 2017-04-18
+    start_time: "5:00"
+    end_time: "7:00"
+    comments: "Gordon Biersch (Marzen room 2nd floor)"
+
+
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2017-04-19
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-19
+    start_time: "9:00"
+    end_time: "9:15"
+
+  - title: "carina-c-zona"
+    type: talk
+    date: 2017-04-19
+    start_time: "9:15"
+    end_time: "9:45"
+
+  - title: "sponsors"
+    type: custom
+    date: 2017-04-19
+    start_time: "9:45"
+    end_time: "9:55"
+
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2017-04-19
+    start_time: "9:55"
+    end_time: "10:25"
+
+  - title: "break"
+    type: custom
+    date: 2017-04-19
+    start_time: "10:25"
+    end_time: "10:40"
+
+  - title: "cat-swetel"
+    type: talk
+    date: 2017-04-19
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-19
+    start_time: "11:10"
+    end_time: "11:20"
+
+  - title: "j-paul-reed"
+    type: talk
+    date: 2017-04-19
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-04-19
+    start_time: "12:00"
+    end_time: "1:00"
+
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-19
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Open Spaces"
+    type: custom
+    date: 2017-04-19
+    start_time: "1:30"
+    end_time: "4:45"
+
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-04-19
+    start_time: "4:45"
+    end_time: "5:00"
+
+
+ignites:
+  - title: "josh-lohrman"
+    date: 2017-04-18
+  - title: "marc-ferguson"
+    date: 2017-04-18
+  - title: "clinton-wolfe"
+    date: 2017-04-18
+  - title: "virginia-cagwin"
+    date: 2017-04-18
+  - title: "devOps Ignite Karaoke"
+    date: 2017-04-18
+
+  - title: "tobias-wright"
+    date: 2017-04-19
+  - title: "brian-pitts"
+    date: 2017-04-19
+  - title: "TBD"
+    date: 2017-04-19
+  - title: "TBD"
+    date: 2017-04-19
+  - title: "devOps Ignite Karaoke"
+    date: 2017-04-19

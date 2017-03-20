@@ -1,0 +1,88 @@
+name: "yyyy-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "YYYY" # The year of the event. Make sure it is in quotes.
+city: "City" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscityabbr" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to City!" # Edit this to suit your preferences
+
+# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: ""
+
+registration_open: "false"
+registration_link: ""
+
+event_logo: "logo.jpg"
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "yourlocation" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+ # - name: location
+ #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+ # - name: registration
+ #   icon: "pencil"
+ # - name: program
+ #   icon: "book"
+ # - name: speakers
+ #   icon: "microphone"
+  - name: sponsor
+    icon: "money"
+  - name: contact
+    icon: "envelope-o"
+  - name: conduct
+    icon: "handshake-o"
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "John Doe"
+  - name: "Jane Smith"
+    twitter: "devopsdays"
+  - name: "Sally Fields"
+    employer: "Acme Anvil Co."
+    github: "devopsdays"
+    facebook: "https://www.facebook.com/sally.fields"
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://mattstratton.com"
+    image: "sally-fields.jpg"
+organizer_email: "organizers-city-year@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-city-year@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

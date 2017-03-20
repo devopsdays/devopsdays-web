@@ -12,7 +12,7 @@ coordinates: "39.9500, -75.1667" # The corrodinates of your venue. Get Latitude 
 location: "Chemical Heritage Foundation" # The name of your location
 
 nav_elements:
-  - name: welcome
+ 
   - name: contact
   - name: program
   - name: speakers

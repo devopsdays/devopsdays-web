@@ -1,8 +1,10 @@
-name: "2017-kansascity" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: 2017-kansascity # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Kansas City" # The city name of the event. Capitalize it.
-friendly: "2017-kansascity" # Four digit year and the city name in lower-case. Don't forget the dash!
-status: "current" # Options are "past" or "current". Use "current" for upcoming.
+friendly: "2017-kansascity"
+description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+event_twitter: "devopsdayskc"
+newnav: "yes"
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
 #startdate: 2016-10-20 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -11,20 +13,30 @@ status: "current" # Options are "past" or "current". Use "current" for upcoming.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
+cfp_open: "false"
+cfp_link: ""
 
 # Location
 #
 coordinates: "39.082920, -94.582451" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 #location: "Musical Theater Heritage" # Defaults to city, but you can make it the venue name.
+#location_address:
+
+# Registration
+# Displays the button, but not the menu item
+registration_open: "true"
+registration_link: "https://devopsdayskc2017.eventbrite.com/?aff=website"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
 #  - name: program
 #  - name: speakers
 #  - name: location
   - name: registration
+    icon: pencil
     url: https://devopsdayskc2017.eventbrite.com/?aff=website
   - name: justification
+    icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
 #  - name: sponsor
   - name: contact
@@ -32,22 +44,75 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-- name: "Aaron Blythe"
-- name: "Dan Barker"
-- name: "CJ Obermaier"
-- name: "Ryan McNair"
-- name: "Tom Martin"
-- name: "Chris Stein"
-- name: "Chase Pettet"
-- name: "Bert Weidt"
-- name: "Josiah Berkebile"
-- name: "Rebecca Sowers"
-- name: "Caleb Hyde"
+  - name: "Aaron Blythe"
+    twitter: "ablythe"
+    employer: "Hearst Business Media"
+    bio: "father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
+    image: aaron-blythe.jpg
+    github: aaronblythe
+    website: https://about.me/aaronblythe
+    linkedin: https://www.linkedin.com/in/aaronblythe/
+  - name: "Dan Barker"
+    twitter: "barkerd427"
+    employer: "DST Systems"
+    bio: "Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, before transitioning to a career in technology. He’s leading a team of engineers dedicated to bringing DevOps principles and practices to a financial and health services company through an opinionated CI/CD platform built on OSS technologies."
+    image: dan-barker.jpg
+    github: barkerd427
+    website: https://medium.com/@barkerd427
+    linkedin: https://www.linkedin.com/in/dan-barker/
+  - name: "CJ Obermaier"
+    employer: Federal Reserve Bank of Kansas City
+    image: cj-obermaier.jpg
+    linkedin: https://www.linkedin.com/in/cj-obermaier-bb90a639/
+    bio: "Passionate about international business, open-source technology, eSports, and dogs."
+  - name: "Ryan McNair"
+    employer: SMRxT
+    image: ryan-mcnair.jpg
+    bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence company focused on software and IoT devices to monitor when patients do and don't take their medicine. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of Electronic Health Record software and services to hospitals. Ryan is focused on successful technology implementations across the healthcare sector and sees DevOps as a powerful tool in the business value stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike trails and making sawdust in his basement workshop."
+    linkedin: https://www.linkedin.com/in/ryanmcnair/
+  - name: "Tom Martin"
+    employer: Codero Hosting
+    image: tom-martin.jpg
+    linkedin: https://www.linkedin.com/in/thomas-martin-a020a6a/
+  - name: "Chris Stein"
+    employer: Cerner Corporation
+    image: chris-stein.jpg
+    linkedin: https://LinkedIn.com/in/cdstein
+    website: http://chrisstein.io
+    bio: "For the past 4 years, Chris' personal career has been focused on infrastructure automation. He's interested in using new technologies and processes for continual improvement."
+  - name: "Chase Pettet"
+    employer: Wikimedia Foundation
+    image: chase-pettet.jpg
+    linkedin: https://www.linkedin.com/in/chase-pettet-68824777/
+    bio: "I specialize in infrastructure design and operations, information security, and Linux administration. I have built and supported all manner of solutions at many scales; from startup to Fortune 100. I have a particular fondness for effective monitoring and logging solutions. I believe being a senior engineer is about more than technical acumen."
+  - name: "Bert Weidt"
+    employer: VML
+    image: bert-weidt.jpg
+    linkedin: https://www.linkedin.com/in/bertweidt/
+  - name: "Josiah Berkebile"
+    employer: Oalva
+    linkedin: https://www.linkedin.com/in/garrett-berkebile-29b8299/
+  - name: "Rebecca Sowers"
+    image: rebecca-sowers.jpg
+    employer: Cerner Corporation
+    linkedin: https://www.linkedin.com/in/rebecca-sowers-931a8842/
+  - name: "Caleb Hyde"
+    employer: C2FO
+    image: caleb-hyde.jpg
+    linkedin: https://www.linkedin.com/in/calebhyde/
+    bio: "Software architect with over ten years experience with companies large and small, meeting customer deadlines on-time, with revenue streams of millions of dollars, and driving cost avoidance initiatives in the six-figure range.
+    I have built and maintained streaming data platforms, participate in open-source software communities, and strive for continuous delivery based on software-defined networking and immutable, disposable environments."
+  - name: "Jeff Stephens"
+    employer: DST Systems
+    linkedin: https://www.linkedin.com/in/jeff-stephens-6bb0928b/
+
 organizer_email: "organizers-kansascity-2017@devopsdays.org" # Put your organizer email address here
 #proposal_email: "proposals-kansascity-2017@devopsdays.org" # Put your proposal email address here
+ga_tracking_id: "UA-93890142-1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+sponsors_accepted: "yes"
 #sponsors:
 #  - id: pivotal
 #    level: gold

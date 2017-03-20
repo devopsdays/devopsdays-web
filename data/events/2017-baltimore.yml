@@ -17,7 +17,7 @@ coordinates: "39.286400, -76.605606" # The coordinates of your city. Get Latitud
 location: "Baltimore" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
     url: http://devopsdaysbaltimore2017.busyconf.com/schedule
   #- name: propose

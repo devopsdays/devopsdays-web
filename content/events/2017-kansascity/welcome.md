@@ -95,4 +95,13 @@ Where large enterprise software companies and a growing startup community are fu
   </div>
 </div>
 
-{{< event_twitter devopsdayskc >}}
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>For Updates</strong>
+  </div>
+  <div class = "col-md-8">
+    Join <a href="https://www.meetup.com/DevOps-Kansas-City/">the Meetup group</a> or one of our social media outlets.
+  </div>
+</div>
+
+{{< event_twitter >}}

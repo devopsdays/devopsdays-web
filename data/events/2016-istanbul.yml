@@ -12,7 +12,7 @@ coordinates: "41.110065,29.041329" # The corrodinates of your venue. Get Latitud
 location: "Borsa İstanbul Conference Room" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: location
   - name: program
   - name: propose

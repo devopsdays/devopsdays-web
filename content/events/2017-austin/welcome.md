@@ -10,7 +10,7 @@ aliases = ["/events/2017-austin"]
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-{{< event_twitter dodaustin >}}
+{{< event_twitter >}}
 
 Watch [www.devopsdaysaustin.com](http://www.devopsdaysaustin.com) for more up to date information as it becomes available.
 

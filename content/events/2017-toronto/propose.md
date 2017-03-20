@@ -6,9 +6,8 @@ title = "propose"
 type = "event"
 
 +++
-  {{< cfp_dates >}}
 
-<hr>
+Although 30 minute talk spaces in our program have been filled, and announced, we are still looking for a few more ignites to round out our program. Submit your idea on <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> today. We'll close the CFP again on March 24 at 11:59 PM Eastern.
 
 ### Equal Opportunity
 
@@ -35,7 +34,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Submit
 
-To submit a talk create an account on our <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> and click the _Submit a talk_ button. 
+To submit a talk create an account on our <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> and click the _Submit a talk_ button.
 
 - Be specific... we aren't mind readers (a description of about 20 lines is about right)
 - Detail is good... but not as important as explaining why your proposal would be interesting

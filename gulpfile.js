@@ -1,8 +1,4 @@
-var gulp = require('gulp'),
-    htmlmin = require('gulp-htmlmin');
+var requireDir = require('require-dir');
 
-gulp.task('min-html', function(){
-  return gulp.src('public/**/*.html')
-    .pipe(htmlmin({collapseWhitespace: true}))
-    .pipe(gulp.dest('public'));
-});
+// Require all tasks in gulp/tasks, including subfolders
+requireDir('./gulp/tasks', { recurse: true });

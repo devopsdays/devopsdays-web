@@ -90,4 +90,4 @@ heading = "devopsdays Amsterdam - Welcome"
   </div>
 </div>
 
-{{< event_twitter devopsams >}}
+{{< event_twitter >}}

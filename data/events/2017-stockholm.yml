@@ -11,6 +11,7 @@ enddate:  2017-05-09 # The end date of your event. Leave blank if you don't have
 cfp_date_start: 2017-02-03  # start accepting talk proposals.
 cfp_date_end:  2017-03-05 # close your call for proposals.
 cfp_date_announce: 2017-03-26 # inform proposers of status
+registration_open: "true"
 
 # Location
 #
@@ -19,12 +20,12 @@ location: "Stockholm, Ballroom 12" # Defaults to city, but you can make it the v
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
 #  - name: program
   - name: propose
     #url: https://devopsdayssthlm.typeform.com/to/eMaXqd
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -55,6 +56,12 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: gocd
+    level: gold
+  - id: 2017-stockholm-opsgenie
+    level: gold
+  - id: stackstate
+    level: gold
   - id: praqma
     level: silver
   - id: elastic
@@ -73,11 +80,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 8
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 4 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 4
   - id: community
     label: Community
