@@ -33,8 +33,14 @@
 
             {{ if isset $.Site.Data.sponsors .id }}
 
+            {{ if .url }}
+              {{ $.Scratch.Set "SponsorURL" .url }}
+            {{ else }}
+              {{ $.Scratch.Set "SponsorURL" $s.url }}
+            {{ end }}
+
               <div class = "col-lg-1 col-md-2 col-4">
-                <a href = "{{ $s.url }}"><img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid"></a>
+                <a href = "{{ $.Scratch.Get "SponsorURL" }}"><img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid"></a>
               </div>{{ "<!-- close individual sponsor div-->" | safeHTML}}
             {{- end -}}
           {{- end -}}
