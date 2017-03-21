@@ -92,7 +92,7 @@ team_members: # Name is the only required field for team members.
 #    employer: "Evry"
   - name: "Tor Magnus Castberg"
     twitter: "TMCastberg"
-    image: "tor-magnus-castberg.JPG"
+    image: "tor-magnus-castberg.jpg"
 #    employer: "Sopra Steria"
 #  - name: "Alex Albu"
 #    twitter: ""
