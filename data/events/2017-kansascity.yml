@@ -7,8 +7,8 @@ event_twitter: "devopsdayskc"
 newnav: "yes"
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-#startdate: 2016-10-20 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#enddate: 2016-10-21  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-09-21 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-09-22  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
@@ -19,8 +19,8 @@ cfp_link: ""
 # Location
 #
 coordinates: "39.082920, -94.582451" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#location: "Musical Theater Heritage" # Defaults to city, but you can make it the venue name.
-#location_address:
+location: "Uptown Theater" # Defaults to city, but you can make it the venue name.
+location_address: 3700 Broadway. Kansas City, MO 64111
 
 # Registration
 # Displays the button, but not the menu item
@@ -31,7 +31,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 #  - name: program
 #  - name: speakers
-#  - name: location
+  - name: location
   - name: registration
     icon: pencil
     url: https://devopsdayskc2017.eventbrite.com/?aff=website
@@ -115,7 +115,7 @@ ga_tracking_id: "UA-93890142-1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted: "yes"
+sponsors_accepted: "no"
 #sponsors:
 #  - id: pivotal
 #    level: gold
