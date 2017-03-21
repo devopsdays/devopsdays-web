@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.2.0](https://github.com/devopsdays/devopsdays-theme/tree/1.2.0) (2017-03-21)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.1.0...1.2.0)
+
+**Implemented enhancements:**
+
+- CTA "propose" button should be date-driven - IDEA 5 [\#401](https://github.com/devopsdays/devopsdays-theme/issues/401)
+- Make registration CTA button data-driven [\#396](https://github.com/devopsdays/devopsdays-theme/issues/396)
+
+**Fixed bugs:**
+
+- Confusion about logo file formats [\#403](https://github.com/devopsdays/devopsdays-theme/issues/403)
+- Fix meta tags [\#358](https://github.com/devopsdays/devopsdays-theme/issues/358)
+
 ## [1.1.0](https://github.com/devopsdays/devopsdays-theme/tree/1.1.0) (2017-03-20)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.4...1.1.0)
 
