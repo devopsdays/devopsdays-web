@@ -96,6 +96,8 @@ sponsors:
     level: gold
   - id: threatstack
     level: gold
+  - id: 10thmagnitude
+    level: gold
   - id: duo
     level: silver
 
