@@ -92,6 +92,8 @@ proposal_email: "proposals-washington-dc-2017@devopsdays.org" # Put your proposa
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id:  aurotech
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
