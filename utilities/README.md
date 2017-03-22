@@ -16,6 +16,10 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg` (url configurable in your datafile).
 
+## Google Analytics
+
+If you have set up a Google Analytics account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `YYYY-CITY.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+
 ### Event Square Logo
 
 To customize the logo that appears on the root of devopsdays.org, place a square file (jpg format only) in `static/events/yyyy-city`. It must be named `logo-square.jpg` and should be a minimum 300px x 300px, but optimizally should be 600px x 600px. 
