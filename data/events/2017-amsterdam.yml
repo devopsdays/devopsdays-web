@@ -48,6 +48,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: stackstate
+    level: gold
   # silver
   - id: valtech
     level: silver

@@ -7,8 +7,8 @@ event_twitter: "devopsdayskc"
 newnav: "yes"
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-#startdate: 2016-10-20 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#enddate: 2016-10-21  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-09-21 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-09-22  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
@@ -19,8 +19,8 @@ cfp_link: ""
 # Location
 #
 coordinates: "39.082920, -94.582451" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#location: "Musical Theater Heritage" # Defaults to city, but you can make it the venue name.
-#location_address:
+location: "Uptown Theater" # Defaults to city, but you can make it the venue name.
+location_address: 3700 Broadway. Kansas City, MO 64111
 
 # Registration
 # Displays the button, but not the menu item
@@ -31,7 +31,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 #  - name: program
 #  - name: speakers
-#  - name: location
+  - name: location
   - name: registration
     icon: pencil
     url: https://devopsdayskc2017.eventbrite.com/?aff=website
@@ -58,7 +58,7 @@ team_members: # Name is the only required field for team members.
     bio: "Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, before transitioning to a career in technology. He’s leading a team of engineers dedicated to bringing DevOps principles and practices to a financial and health services company through an opinionated CI/CD platform built on OSS technologies."
     image: dan-barker.jpg
     github: barkerd427
-    website: https://medium.com/@barkerd427
+    website: http://danbarker.codes
     linkedin: https://www.linkedin.com/in/dan-barker/
   - name: "CJ Obermaier"
     employer: Federal Reserve Bank of Kansas City
@@ -84,7 +84,7 @@ team_members: # Name is the only required field for team members.
     employer: Wikimedia Foundation
     image: chase-pettet.jpg
     linkedin: https://www.linkedin.com/in/chase-pettet-68824777/
-    bio: "I specialize in infrastructure design and operations, information security, and Linux administration. I have built and supported all manner of solutions at many scales; from startup to Fortune 100. I have a particular fondness for effective monitoring and logging solutions. I believe being a senior engineer is about more than technical acumen."
+    bio: "Chase has spent the last 15 years working on network and systems infrastructure with an emphasis on Linux. He currently works for the Wikimedia Foundation solving problems."
   - name: "Bert Weidt"
     employer: VML
     image: bert-weidt.jpg
@@ -96,6 +96,7 @@ team_members: # Name is the only required field for team members.
     image: rebecca-sowers.jpg
     employer: Cerner Corporation
     linkedin: https://www.linkedin.com/in/rebecca-sowers-931a8842/
+    bio: "Rebecca is currently a Service Portfolio Manager focusing on tools that monitor, automate, configure, and discover all layers of infrastructure. In her free time, she loves to do home renovation projects in her old 1903 \"money pit\"."
   - name: "Caleb Hyde"
     employer: C2FO
     image: caleb-hyde.jpg
@@ -103,8 +104,10 @@ team_members: # Name is the only required field for team members.
     bio: "Software architect with over ten years experience with companies large and small, meeting customer deadlines on-time, with revenue streams of millions of dollars, and driving cost avoidance initiatives in the six-figure range.
     I have built and maintained streaming data platforms, participate in open-source software communities, and strive for continuous delivery based on software-defined networking and immutable, disposable environments."
   - name: "Jeff Stephens"
+    image: jeff-stephens.jpg
     employer: DST Systems
     linkedin: https://www.linkedin.com/in/jeff-stephens-6bb0928b/
+    bio: "Jeff has worked as a Linux Systems Administrator for the last 12 years. His current focus is cloud application platforms as well as the expansion of his technical knowledge in development languages and CI/CD. Beyond work, he is an avid baseball fan, and spends his free time as a musician and photographer."
 
 organizer_email: "organizers-kansascity-2017@devopsdays.org" # Put your organizer email address here
 #proposal_email: "proposals-kansascity-2017@devopsdays.org" # Put your proposal email address here
@@ -112,7 +115,7 @@ ga_tracking_id: "UA-93890142-1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted: "yes"
+sponsors_accepted: "no"
 #sponsors:
 #  - id: pivotal
 #    level: gold
