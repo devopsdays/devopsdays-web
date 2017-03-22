@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.3.0](https://github.com/devopsdays/devopsdays-theme/tree/1.3.0) (2017-03-22)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.2.0...1.3.0)
+
+**Implemented enhancements:**
+
+- Enable site-specific google analytics - IDEA 35 [\#414](https://github.com/devopsdays/devopsdays-theme/issues/414)
+- Auto-detect for sharing image and show default if not there - IDEA 24 [\#412](https://github.com/devopsdays/devopsdays-theme/issues/412)
+- Navigation links to propose and register should respect the ones set in the YAML - IDEA 57 [\#406](https://github.com/devopsdays/devopsdays-theme/issues/406)
+- Text set to bold in content pages does not display as bold as it could - IDEA 47 [\#405](https://github.com/devopsdays/devopsdays-theme/issues/405)
+- Improve CONTRIBUTING.md [\#18](https://github.com/devopsdays/devopsdays-theme/issues/18)
+
+**Fixed bugs:**
+
+- All header tags in event content capitalize all words by default [\#391](https://github.com/devopsdays/devopsdays-theme/issues/391)
+
 ## [1.2.0](https://github.com/devopsdays/devopsdays-theme/tree/1.2.0) (2017-03-21)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.1.0...1.2.0)
 

@@ -25,7 +25,7 @@
     <br />
     <h3 class="talk-page">Talk Abstract</h3>
 
-      <span class="talk-page">
+      <span class="talk-page content-text">
         {{ .Content }}
       </span>
 
@@ -77,7 +77,7 @@
           <h4 class="talk-page"><a href = "/events/{{ $event_slug }}/speakers/{{ $.Scratch.Get "speakername" }}">
             {{ .Title }}
           </a></h4>
-          <span class="talk-page">{{ .Content }}</span>
+          <span class="talk-page content-text">{{ .Content }}</span>
         {{ end }}
 
       {{- end -}} <!-- end if eq $talk_slug $event_slug -->
