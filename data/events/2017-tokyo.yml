@@ -8,7 +8,7 @@ startdate: 2017-04-25 # The start date of your event. Leave blank if you don't h
 enddate: 2017-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-02-20  # start accepting talk proposals.
-cfp_date_end:  2017-03-10 # close your call for proposals.
+cfp_date_end:  2017-03-30 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 # Location
@@ -23,7 +23,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://confengine.com/devopsdays-tokyo-2017
   - name: location
-#  - name: registration
+  - name: registration
+    url: https://www.eventbrite.com/e/devops-days-tokyo-2017-tickets-31764173498
   - name: sponsor
   - name: contact
   - name: conduct
@@ -58,7 +59,7 @@ proposal_email: "proposals-tokyo-2017@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: opsgenie
     level: bronze
-  - id: agilergo-consulting
+  - id: agilergo
     level: silver 
   - id: creationline
     level: silver
