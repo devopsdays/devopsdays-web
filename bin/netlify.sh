@@ -1,1 +1,1 @@
-hugo_0.18 --theme=devopsdays-theme --buildDrafts=false --baseURL="/"
+hugo_0.19 --theme=devopsdays-theme --buildDrafts=false --baseURL="/"

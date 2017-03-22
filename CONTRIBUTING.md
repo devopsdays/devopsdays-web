@@ -10,7 +10,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo v0.18+](http://gohugo.io).
+1. Install [Hugo v0.19+](http://gohugo.io).
 1. Fork this repo.
 
 ### View site locally

@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
 [![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE)
 
+[![Report Issue](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_report-issue.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) [![Roadmap](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-roadmap.png)](https://www.devopsdays.org/roadmap) [![Feature Request](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-request.png)](https://www.devopsdays.org/ideas) 
+
 # devopsdays-web
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
