@@ -28,7 +28,7 @@ function initialize() {
         {{ if .startdate }}
 
       // if the startdate is today or in the future
-          {{ if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+          {{ if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) }}
 
       // if the startdate month and enddate month are different, show both months
             {{ if ne (dateFormat "Jan" .startdate) (dateFormat "Jan" .enddate) }}
