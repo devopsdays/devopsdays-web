@@ -170,6 +170,7 @@ gulp.task('responsive-images-remaining', function() {
             quality: 80,
             errorOnEnlargement: false,
             withoutEnlargement: false,
+            errorOnUnusedImage: false,
             progressive: true,
             silent: true,
             withMetadata: false,
