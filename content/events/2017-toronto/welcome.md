@@ -73,7 +73,7 @@ aliases = ["/events/2017-toronto"]
     <strong>Sponsor</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    All of our {{< event_link page="sponsor" text="sponsorship" >}} slots are filled.
   </div>
 </div>
 
@@ -84,11 +84,6 @@ aliases = ["/events/2017-toronto"]
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-</div>
-
-<div style="text-align:center;">
-    <br/>
-    {{< event_twitter >}}
 </div>
 
 <!-- Begin MailChimp Signup Form -->

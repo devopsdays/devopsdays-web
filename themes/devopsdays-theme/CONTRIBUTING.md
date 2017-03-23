@@ -20,7 +20,15 @@ hugo server -w --baseUrl="http://localhost:1313"
 
 NOTE: If you also load the existing `devopsdays-web` project, it is highly suggested that you use the `-p` flag on `hugo server` to load this theme on a different port. This will prevent your browser from caching assets like stylesheets, etc, from the other instance.
 
+## How can I help?
+
+Sort the existing GitHub issues for the tag of `ready`. These are issues that can be worked on. If they are already assigned to someone, please consult with that person before starting work. If you are going to work on an issue, please assign it to yourself. 
+
 ## Design Principles
+
+### Frameworks
+
+We use [Boostrap v4 Alpha](http://v4-alpha.getbootstrap.com/) as our basic framework. 
 
 ### Blocks
 All page templates should make use of the `layouts/_default/baseof.html` file. This file contains all wrappers for the content. Anything within the `{{- block "main" . }} {{- end -}}` section is what will be displayed on a sub-template. Include a `{{ define "main" }}` block in your template to include what should be rendered.
@@ -29,7 +37,7 @@ All page templates should make use of the `layouts/_default/baseof.html` file. T
 All CSS must be generated with SCSS. The SCSS files are located in `static/scss`.
 
 #### `site.scss`
-This is the file that imports all the other SCSS files, including Bootstrap, font-awesome (TBD; it seems that BS 4 brings this in for us), and the jquery oembed. It also imports our custom variables and any other customizations.
+This is the file that imports all the other SCSS files, including Bootstrap, font-awesome, jssocials, and the jquery oembed. It also imports our custom variables and any other customizations.
 
 #### `custom-variables.scss`
 Use this to set any SCSS variables, or to over-ride any variables used by Bootstrap.
@@ -43,37 +51,30 @@ The design and layout can be found in [here](https://drive.google.com/file/d/0Bz
 ## Continuous Integration
 The `devopsdays-theme` repo has hooks into Travis, Appveyor, and Netlify. Currently, the Travis build doesn’t do very much (the intent is to add some testing using Casper.js for web testing, but no tests have been written). The Appveyor tests ensure that the site can build with Windows.
 
-All changes are built by Netlify to https://dev.devopsdays.org
+All changes are built by Netlify to https://dev.devopsdays.org once merged to master.
 
 ### Asset Pipeline
 Peruse the `gulpfile.js` to see what is processed for the asset pipeline. Gulp is only called when changes are merged to master. Pull requests, and local changes will not trigger gulp.
 
-
 ## Workflow
 
-Our workflow is inspired by [Ian Bickering's guide to using GitHub Issues](http://www.ianbicking.org/blog/2014/03/use-github-issues-to-organize-a-project.html).
+Our workflow is very much a work in progress, but follow these guidelines.
 
 ### Milestones
 
 **Stuff we are doing right now:** this is the “main” milestone. We give it a minor SemVer name (like 1.2 or 2.3). We create a new milestone when we have released a new minor version.
 
-**Stuff we’ll probably do soon:** this is the standing [“Next Tasks” milestone](https://github.com/devopsdays/devopsdays-theme/milestone/3). We never change or rename this milestone.
+There should be no other milestones; issues that are logged as `bug` will be prioritized into the milestone when we are ready to work on them. Only issues with the tag of `ready` should be worked on.
 
-**Stuff we probably won’t do soon:** this is the standing [“Blue Sky” milestone](https://github.com/devopsdays/devopsdays-theme/milestone/4). We refer to these tickets and sometimes look through them, but they are easy to ignore, somewhat intentionally ignored.
-
-**What aren’t we sure about?:** issues with no milestone.
-
-We use the permanent “Next Tasks” milestone (as opposed to renaming it to “Alpha 3” or actual-next-iteration milestone) because we don’t want to presume or default to including something in the real next iteration. When we’re ready to start planning the next iteration we’ll create a new milestone, and only deliberately move things into that milestone.
+Feature requests can be created at https://www.devopsdays.org/ideas. The roadmap for feature development can always be viewed at https://www.devopsdays.org/roadmap. If you would like to participate in the roadmap development/feature discussion, please contact @mattstratton for access to ProdPad.
 
 ### Issues
 
 All changes should be driven by issues (this is because our changelog generator is issue-driven). So before you implement a bugfix or an enhancement, you should make sure an issue has been created and properly tagged. These are the issue labels that really matter:
 
-**Bug:** Something is broken in the theme and needs fixing.
+**Bug:** Something is broken in the theme and needs fixing. These can be created directly in GitHub and should not be created in ProdPad.
 
-**Enhancement:** Adding new functionality to the theme.
-
-TODO: list the other label types and how they are used by github_changelog_generator
+**Enhancement:** Adding new functionality to the theme. These issues should not be created by hand; they will be driven by ProdPad and set to tags including `ready` and `enhancement` when they are ready to be worked on.
 
 #### Collection of issues
 

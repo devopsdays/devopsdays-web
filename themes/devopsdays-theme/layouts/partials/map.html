@@ -7,7 +7,7 @@
 -->
 <!-- <link href="/css/googlemaps.css" rel="stylesheet"> -->
 <!-- the above stylesheet has been moved into the main one -->
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 function initialize() {
     var map;
     var bounds = new google.maps.LatLngBounds();
@@ -66,7 +66,7 @@ function initialize() {
             labelStyle: { opacity: 1 },
             url: markers[i][4]
         });
-        
+
         google.maps.event.addListener(marker, 'click', function() {
             window.location.href = this.url;
         });
@@ -76,7 +76,7 @@ function initialize() {
 }
 </script>
 
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
       window.onload = function()
       {
           initialize();

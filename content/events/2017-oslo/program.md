@@ -1,8 +1,7 @@
 +++
-date = "2017-02-07"
-title = "program"
-type = "event"
-
+Title = "Program"
+Type = "program"
+Description = "Program for devopsdays OSLO 2017"
 +++
 
 <div class = "row">
@@ -42,7 +41,7 @@ type = "event"
         <time>09:30-10:00</time>
       </div>
       <div class = "col-md-6 box">
-        TBD
+        <a href="/events/2017-oslo/program/patrick-debois/">Patrick Debois</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -184,7 +183,7 @@ type = "event"
         <time>09:30-10:00</time>
       </div>
       <div class = "col-md-6 box">
-        TBD
+        <a href="/events/2017-oslo/program/jeff-sussna/">Jeff Sussna</a>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

@@ -47,9 +47,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pivotal
     level: gold
-  - id: opsgenie
+  - id: 2017-denver-opsgenie
     level: gold
-  - id: dell
+    url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_Denver_%20April&utm_medium=banner
+  - id: 2017-denver-dellemc
     level: gold
   - id: sumologic
     level: gold
@@ -66,6 +67,10 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: trace3
     level: gold
   - id: influxdata
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: fortrust
     level: gold
   - id: software-freedom-school
     level: lanyard
