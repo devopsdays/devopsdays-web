@@ -72,6 +72,8 @@ sponsors:
     level: gold
   - id: cloudops
     level: gold
+  - id: trinimbus
+    level: gold
   - id: circleci
     level: happyhour
   - id: sourcedgroup
