@@ -11,7 +11,7 @@ Devopsdays Edinburgh 2017 will be held at [Dynamic Earth](www.dynamicearth.co.uk
 
  {{< event_map >}} 
 
-## Getting To Edinburgh
+### Getting To Edinburgh
 
 Edinburgh is served by Edinburgh Airport which has tram and bus services into the city centre both cost £5 for a single journey. Both the tram and 100 bus service stop on Princes Street which is Edinburgh's main shopping street and runs paralell to the Royal Mile (You can see the castle which alongside Arthurs Seat forms a great reference point for navigating the city). The 35 service takes a long time but is the cheapest option. Taxis cost around £25 between the city centre and the airport. Uber is also available.
 
