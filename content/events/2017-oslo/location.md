@@ -16,10 +16,7 @@ src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMRa1nmVuQUYRsofLI
 
 
 <h3>Accommodation</h3>
-We are working on getting the best possible deal for accommodation. Stay tuned!
-<!--
-<a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a> offer discounted rates for attendees and is just a two minute walk from the conference.
--->
+<a href="https://www.thonhotels.com/event/devopsdays2017/">Thon Hotel Oslo Panorama</a> offer discounted rates for attendees and is just a two minute walk from the conference.
 
 <h3>Alternatve accommodation</h3>
 There are <a href="https://www.google.no/maps/search/Hoteller/@59.908037,10.7421253,17z/data=!3m1!4b1!4m8!2m7!3m6!1sHoteller!2sDronningensgate+4+Kvadraturen,+Gamle+Museet+Konferanse+og+Selskapslokaler,+0152+Oslo!3s0x46416e659eb51631:0xa98021d023cb87b2!4m2!1d10.744314!2d59.908029?hl=no">many alternatives</a> close by.
