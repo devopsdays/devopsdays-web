@@ -80,6 +80,8 @@ sponsors:
     level: lunch
   - id: dealer-fx
     level: bronze
+  - id: dynatrace
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
