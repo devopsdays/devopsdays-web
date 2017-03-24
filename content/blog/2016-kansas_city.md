@@ -8,7 +8,7 @@ Author = "Aaron Blythe"
 
 +++
 
-On October 20th and 21st, 2016, 208 software practioners met in a packed house in Kansas City Missouri at Musical Theater Heritage to discuss DevOps at [DevOpsDays KC](https://devopsdays.org/events/2016-kansascity).  
+On October 20th and 21st, 2016, 208 software practioners met in a packed house in Kansas City Missouri at Musical Theater Heritage to discuss DevOps at [DevOpsDays KC](https://devopsdays.org/events/2016-kansascity).
 
 You can check out a recap here:
 
@@ -16,9 +16,9 @@ You can check out a recap here:
 src="https://www.youtube.com/embed/dyOaK7N0qf4">
 </iframe> 
 
-The conference was a mixture of presentations and open spaces.  Speakers came from both coasts and included viewpoints ranging a high school student to a PhD, from seasoned executives to software and system engineers, from first time presenters to presenters with over 60 conferences speaking slots.  Open spaces were held in the afternoon.  This is where the conference takes a term from organized formal content to informal self-organizing content.  Attendees suggested topics and voted throughout the day.  They then voted with their feet throughout the afternoon by moving from the 5 simultaneous discussions. 
+The conference was a mixture of presentations and open spaces. Speakers came from both coasts and included viewpoints ranging from a high school student to a PhD, from seasoned executives to software and system engineers, from first time presenters to presenters with over 60 conferences speaking slots. Open spaces were held in the afternoon. This is where the conference takes a turn from organized formal content to informal self-organizing content. Attendees suggested topics and voted throughout the day. They then voted with their feet throughout the afternoon by moving from the 5 simultaneous discussions. 
 
-The [videos](https://confreaks.tv/events/devopsdayskansascity2016) and [slides](https://www.devopsdays.org/events/2016-kansascity/program/) of all talks can be found linked from our [program](https://www.devopsdays.org/events/2016-kansascity/program/).
+The [videos](https://confreaks.tv/events/devopsdayskansascity2016) and [slides](https://www.devopsdays.org/events/2016-kansascity/program/) of all talks are linked on our [program](https://www.devopsdays.org/events/2016-kansascity/program/).
 
 Kudos were given across the board in the attendee survey here are some:
 
