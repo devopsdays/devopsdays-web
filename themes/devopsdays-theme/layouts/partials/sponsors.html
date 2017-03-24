@@ -15,7 +15,7 @@
                 {{ $.Scratch.Add $level.id 1 }}
               {{ end }}
             {{ end }}
-            {{- if ( $e.startdate) or (ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02"))) -}}
+            {{- if ( $e.startdate) or (ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
               {{- if ne $e.sponsors_accepted "no" -}}
                 {{- if or (not $level.max) (lt ($.Scratch.Get $level.id) $level.max) -}}
                   <a href = "/events/{{ $e.name }}/sponsor" class="sponsor-cta">

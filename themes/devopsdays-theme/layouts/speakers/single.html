@@ -59,23 +59,25 @@
 <!-- old stuff -->
 {{ if ne ($.Scratch.Get "speakers-exist") "true" }}
   {{ .Content }}
-
-  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) $city_slug }}
-<div class="row">
-  <div class="col-md-12 col-lg-3">
-      <img alt = "{{ $s.name }}" src = "/events/{{ $event_slug }}/speakers/{{$fname}}.jpg" class="speakers-page old-speaker">
-  </div>
-  <div class= "col-md-12 col-lg-9 old-speaker-bio speakers-page">
-     <h3><a href="/events/{{ $event_slug }}/program/{{$fname}}">{{ $s.name }}</a></h3>
-     {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
-     {{ if $s.website }}Website: <a href="{{ $s.website }}">{{ $s.website }}</a><br>{{ end }}
-     {{ if $s.pronouns }}Pronouns: {{ $s.pronouns }}{{ end }}
-   <br>
-   {{ $s.bio | markdownify }}
-<hr>
-  </div>
-</div>
-
+  {{ if (where (readDir "data/speakers") "Name" (chomp $e.year))}}
+    {{ if (where (readDir (printf "data/speakers/%s" (chomp $e.year) )) "Name" $city_slug )}}
+      {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) $city_slug }}
+        <div class="row">
+          <div class="col-md-12 col-lg-3">
+              <img alt = "{{ $s.name }}" src = "/events/{{ $event_slug }}/speakers/{{$fname}}.jpg" class="speakers-page old-speaker">
+          </div>
+          <div class= "col-md-12 col-lg-9 old-speaker-bio speakers-page">
+             <h3><a href="/events/{{ $event_slug }}/program/{{$fname}}">{{ $s.name }}</a></h3>
+             {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
+             {{ if $s.website }}Website: <a href="{{ $s.website }}">{{ $s.website }}</a><br>{{ end }}
+             {{ if $s.pronouns }}Pronouns: {{ $s.pronouns }}{{ end }}
+           <br>
+           {{ $s.bio | markdownify }}
+        <hr>
+          </div>
+        </div>
+    {{ end }}
+  {{end }}
 {{ end }}
 
 <style>

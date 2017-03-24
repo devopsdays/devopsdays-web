@@ -1,7 +1,7 @@
 +++
 Title = "Virginia Cagwin"
 Twitter = "vcagwin"
-image = "virginia-cagwin.jpeg"
+image = "virginia-cagwin.jpg"
 type = "speaker"
 linktitle = "virginia-cagwin"
 

@@ -93,13 +93,20 @@ sponsors:
     level: gold
   - id: cloudpassage
     level: gold
-  - id: solutionsiq
-    level: gold
   - id: threatstack
     level: gold
   - id: 10thmagnitude
     level: gold
+  - id: nvisium
+    level: gold
   - id: duo
+    level: silver
+  - id: solutionsiq
+    level: silver
+  - id: sailpoint
+    level: silver
+    url: "https://www.sailpoint.com/company/careers"
+  - id: elastic
     level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
