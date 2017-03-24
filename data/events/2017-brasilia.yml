@@ -1,8 +1,8 @@
 name: "2017-brasilia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
-city: "Brasilia" # The displayed city name of the event. Capitalize it.
+city: "Brasília" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbsb" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Brasilia!" # Edit this to suit your preferences
+description: "Devopsdays is coming to Brasília!" # Edit this to suit your preferences
 ga_tracking_id: "UA-83133994-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -28,7 +28,7 @@ event_logo: "logo.jpg"
 # Location
 #
 coordinates: "-15.794157, -47.882529" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Brasilia" # Defaults to city, but you can make it the venue name.
+location: "Brasília, DF - Brasil" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
