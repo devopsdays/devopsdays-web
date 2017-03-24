@@ -2,7 +2,7 @@ var gulp = require('gulp'),
     runSequence = require('run-sequence');
 
 gulp.task('copy-misc-files', function() {
-    return gulp.src(['public/sitemap.xml', 'public/**/index.xml', 'public/tags/**/*.xml', 'public/**/sharing.jpg', 'public/favicon*', 'public/apple-icon*', 'public/android-icon*', 'public/ms-icon*', 'public/manifest.json', 'public/browserconfig.xml', 'public/**/*.pdf','public/_redirects', 'public/robots.txt'])
+    return gulp.src(['public/sitemap.xml', 'public/**/index.xml', 'public/tags/**/*.xml', 'public/**/sharing.jpg', 'public/favicon*', 'public/apple-icon*', 'public/android-icon*', 'public/ms-icon*', 'public/manifest.json', 'public/browserconfig.xml', 'public/**/*.pdf', 'public/**/*.gif', 'public/_redirects', 'public/robots.txt'])
         .pipe(gulp.dest('dist'));
 });
 

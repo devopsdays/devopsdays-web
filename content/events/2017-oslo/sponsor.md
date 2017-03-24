@@ -1,9 +1,7 @@
 +++
-date = "2017-02-07"
-title = "sponsor"
-type = "event"
-
-
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor devopsdays OSLO 2017"
 +++
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}
@@ -24,13 +22,13 @@ Our sponsorship packages are constructed to offer our sponsors lead generation, 
 
 ### Sponsor packages
 
-Click <a href="/events/2017-oslo/DevOpsdays17_partnership_prospectus.pdf" target="_blank">here</a> for full prospectus.
+Click <a href="https://assets.devopsdays.org/events/2017/oslo/DevOpsdays17_partnership_prospectus.pdf" target="_blank">here</a> for full prospectus.
 
-<img src="/events/2017-oslo/sponsorship-packages.png" style="max-width: 100%; height: auto; width: auto\9;">
+<img src="../sponsorship-packages.png" style="max-width: 100%; height: auto; width: auto\9;">
 
 ### Add-ons
 If you have bought one of the sponsor packages we can also offer some add-ons.
 
-<img src="/events/2017-oslo/sponsorship-exclusive-packages.png" style="max-width: 100%; height: auto; width: auto\9;">
+<img src="../sponsorship-exclusive-packages.png" style="max-width: 100%; height: auto; width: auto\9;">
 
 <hr/>

@@ -12,6 +12,8 @@ enddate:  2017-04-01 # The end date of your event. Leave blank if you don't have
 cfp_date_start: 2016-12-01 # start accepting talk proposals.
 cfp_date_end: 2017-02-01 # close your call for proposals.
 cfp_date_announce: 2017-02-11 # inform proposers of status
+registration_open: "true"
+registration_link: "https://www.eventbrite.ca/e/devops-days-vancouver-2017-mar-31st-apr-1st-tickets-29634403298"
 
 # Location
 #
@@ -20,7 +22,7 @@ location: "Vancouver" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
   - name: program
   - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

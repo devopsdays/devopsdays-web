@@ -11,6 +11,8 @@ enddate: 2017-05-17 # The end date of your event. Leave blank if you don't have 
 cfp_date_start: 2016-12-14 # start accepting talk proposals.
 cfp_date_end: 2017-02-15 # close your call for proposals.
 cfp_date_announce: 2017-03-01 # inform proposers of status
+registration_open: "true"
+registration_link: "http://slcdevopsdays.org/tc-events/slc-devops-days-2917/"
 
 # Location
 #
@@ -19,7 +21,7 @@ location: "Noah's Event Venue" # Defaults to city, but you can make it the venue
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
 #  - name: program
   - name: propose
     url: https://www.papercall.io/slc-dev-ops-days
@@ -85,10 +87,12 @@ sponsors:
     level: blackdiamond
   - id: cloudpassage
     level: blackdiamond
-  - id: opsgenie
+  - id: 2017-slc-opsgenie
     level: bluesquare
   - id: pure-storage
     level: bluesquare
+  - id: elastic
+    level: blackdiamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

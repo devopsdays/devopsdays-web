@@ -16,6 +16,10 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg` (url configurable in your datafile).
 
+## Google Analytics
+
+If you have set up a Google Analytics account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `YYYY-CITY.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+
 ### Event Square Logo
 
 To customize the logo that appears on the root of devopsdays.org, place a square file (jpg format only) in `static/events/yyyy-city`. It must be named `logo-square.jpg` and should be a minimum 300px x 300px, but optimizally should be 600px x 600px. 
@@ -38,6 +42,20 @@ Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this
 1. Sponsors need a file in the data directory, as such: `data/sponsors/sponsorname.yml`. Before creating a new one, look to see if there is an old one, possibly with a date prepended. If it has the right URL and logo, you should use it instead of creating a new one.
 1. Put the images for your sponsors in the `static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `static/img/sponsors/sponsorname.png`.
 1. Add the new sponsor to your event's datafile with the appropriate level.
+
+#### Sponsor URL override
+Sometimes, an existing sponsor will want an event-specific URL for your event. Rather than creating a new event, you can add an optional `url` field to the sponsor in your event data file to override the default URL for that sponsor. For example:
+
+```
+sponsors: 
+  - id: victorops
+    level: social
+  - id: netapp
+    level: gold
+    url: http://netapp.com/?tracking=myeventthing
+  - id: gocd
+    level: gold
+```
 
 See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
 

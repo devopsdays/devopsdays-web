@@ -1,5 +1,67 @@
 # Change Log
 
+## [1.4.0](https://github.com/devopsdays/devopsdays-theme/tree/1.4.0) (2017-03-23)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.3.0...1.4.0)
+
+**Implemented enhancements:**
+
+- Add scripts for managing theme [\#416](https://github.com/devopsdays/devopsdays-theme/issues/416)
+
+**Fixed bugs:**
+
+- Newly created events with no speakers return an error [\#426](https://github.com/devopsdays/devopsdays-theme/issues/426)
+- speaker pics with .jpeg extenstion dropped from site [\#425](https://github.com/devopsdays/devopsdays-theme/issues/425)
+- Replace use of $.Now.Format [\#407](https://github.com/devopsdays/devopsdays-theme/issues/407)
+
+## [1.3.0](https://github.com/devopsdays/devopsdays-theme/tree/1.3.0) (2017-03-22)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.2.0...1.3.0)
+
+**Implemented enhancements:**
+
+- Enable site-specific google analytics - IDEA 35 [\#414](https://github.com/devopsdays/devopsdays-theme/issues/414)
+- Auto-detect for sharing image and show default if not there - IDEA 24 [\#412](https://github.com/devopsdays/devopsdays-theme/issues/412)
+- Navigation links to propose and register should respect the ones set in the YAML - IDEA 57 [\#406](https://github.com/devopsdays/devopsdays-theme/issues/406)
+- Text set to bold in content pages does not display as bold as it could - IDEA 47 [\#405](https://github.com/devopsdays/devopsdays-theme/issues/405)
+- Add amp conversion [\#27](https://github.com/devopsdays/devopsdays-theme/issues/27)
+- Improve CONTRIBUTING.md [\#18](https://github.com/devopsdays/devopsdays-theme/issues/18)
+
+**Fixed bugs:**
+
+- All header tags in event content capitalize all words by default [\#391](https://github.com/devopsdays/devopsdays-theme/issues/391)
+
+## [1.2.0](https://github.com/devopsdays/devopsdays-theme/tree/1.2.0) (2017-03-21)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.1.0...1.2.0)
+
+**Implemented enhancements:**
+
+- CTA "propose" button should be date-driven - IDEA 5 [\#401](https://github.com/devopsdays/devopsdays-theme/issues/401)
+- Make registration CTA button data-driven [\#396](https://github.com/devopsdays/devopsdays-theme/issues/396)
+
+**Fixed bugs:**
+
+- Confusion about logo file formats [\#403](https://github.com/devopsdays/devopsdays-theme/issues/403)
+- Fix meta tags [\#358](https://github.com/devopsdays/devopsdays-theme/issues/358)
+
+## [1.1.0](https://github.com/devopsdays/devopsdays-theme/tree/1.1.0) (2017-03-20)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.4...1.1.0)
+
+**Implemented enhancements:**
+
+- Add URL override for sponsors in city data file - IDEA 55 [\#398](https://github.com/devopsdays/devopsdays-theme/issues/398)
+
+## [1.0.4](https://github.com/devopsdays/devopsdays-theme/tree/1.0.4) (2017-03-17)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.3...1.0.4)
+
+**Fixed bugs:**
+
+- Register CTA button links to incorrect URL [\#394](https://github.com/devopsdays/devopsdays-theme/issues/394)
+- Program page bails if no startdate [\#393](https://github.com/devopsdays/devopsdays-theme/issues/393)
+- Remove .travis.yml from zipfile [\#392](https://github.com/devopsdays/devopsdays-theme/issues/392)
+
+**Closed issues:**
+
+- Release Checklist [\#49](https://github.com/devopsdays/devopsdays-theme/issues/49)
+
 ## [1.0.3](https://github.com/devopsdays/devopsdays-theme/tree/1.0.3) (2017-03-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.2...1.0.3)
 

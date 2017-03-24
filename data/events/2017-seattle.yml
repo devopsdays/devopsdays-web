@@ -11,6 +11,7 @@ enddate:  2017-04-27 # The end date of your event. Leave blank if you don't have
 cfp_date_start: 2016-10-24 # start accepting talk proposals.
 cfp_date_end: 2017-01-24 # close your call for proposals.
 cfp_date_announce: 2017-02-07 # inform proposers of status
+registration_open: "true"
 
 # Location
 #
@@ -19,8 +20,9 @@ location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# 
+#
   - name: program
+  - name: speakers
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -104,11 +106,15 @@ sponsors:
     level: gold
   - id: dellemc
     level: gold
+  - id: pagerduty
+    level: gold
   - id: victorops
     level: silver
   - id: netapp
     level: silver
   - id: strongbridge-consulting
+    level: silver
+  - id: joyent
     level: silver
   - id: spoken
     level: bronze
@@ -131,7 +137,7 @@ sponsor_levels:
     max: 15
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
