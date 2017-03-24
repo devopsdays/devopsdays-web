@@ -106,6 +106,8 @@ sponsors:
   - id: sailpoint
     level: silver
     url: "https://www.sailpoint.com/company/careers"
+  - id: elastic
+    level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
