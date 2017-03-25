@@ -8,7 +8,7 @@ description = "Interested in sponsoring DevOpsDays Chicago 2017? We greatly valu
 +++
 <div class = "row">
 <div class = "col-md-8" col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://github.com/devopsdays/devopsdays-assets/blob/master/events/2017/chicago/devopsdays_chicago_2017_prospectus.pdf">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202017">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2017/chicago/devopsdays_chicago_2017_prospectus.pdf">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202017">send us an email</a>.
 
 <hr>
 
