@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "BOSH: The Simple Solution for Complex Systems"
 Type = "talk"
-Speakers = [""]
+Speakers = ["kira-boyle"]
 +++
 
 Deploying systems consistently, quickly, and clearly can be hard for any operator.
