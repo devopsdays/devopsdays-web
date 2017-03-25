@@ -139,7 +139,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <br/>
   <br/>
   <hr/>
-  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, and wifi. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href=mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago 2017%20Sponsorship">send us an email</a>.
+  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, and wifi. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202017%20Sponsorship">send us an email</a>.
   <br/>
   <br/>
 </div>
