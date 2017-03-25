@@ -1,5 +1,5 @@
 +++
-date = "2016-10-17T08:26:34-05:00"
+date = "2017-03-24T08:26:34-05:00"
 title = "sponsor"
 type = "event"
 description = "Interested in sponsoring DevOpsDays Chicago 2017? We greatly value sponsors for this open event."
