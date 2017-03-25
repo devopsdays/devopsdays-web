@@ -70,7 +70,7 @@ proposal_email: "proposals-brasilia-2017@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: instruct
+  - id: 2017-instruct
     level: platinum
   - id: samplesponsorname
     level: gold
