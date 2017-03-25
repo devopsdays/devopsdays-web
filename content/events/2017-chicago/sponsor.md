@@ -7,7 +7,7 @@ description = "Interested in sponsoring DevOpsDays Chicago 2017? We greatly valu
 
 +++
 <div class = "row">
-<div class = "col-md-8" col-sm-12">
+<div class = "col-md-8 col-sm-12">
 We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2017/chicago/devopsdays_chicago_2017_prospectus.pdf">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202017">send us an email</a>.
 
 <hr>
@@ -139,7 +139,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <br/>
   <br/>
   <hr/>
-  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, and wifi. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href=mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago 2017%20Sponsorship">send us an email</a>.
+  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, and wifi. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202017%20Sponsorship">send us an email</a>.
   <br/>
   <br/>
 </div>
