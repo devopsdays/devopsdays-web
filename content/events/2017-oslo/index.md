@@ -77,8 +77,7 @@ Description = "devopsdays OSLO 2017"
     <strong>Conference hotel</strong>
   </div>
   <div class = "col-md-8">
-    TBD
-    <!--<a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a>-->
+    <a href="https://www.thonhotels.com/event/devopsdays2017/">Thon Hotel Oslo Panorama</a>
   </div>
 </div>
 

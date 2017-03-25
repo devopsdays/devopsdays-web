@@ -8,9 +8,9 @@ description: "The group that brought you DevOpsDays Chicago 2014-2016 is back to
 startdate: 2017-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-14 # start accepting talk proposals.
+cfp_date_end: 2017-06-16 # close your call for proposals.
+cfp_date_announce: 2017-07-10  # inform proposers of status
 registration_open: "false"
 registration_link: ""
 cfp_open: "false"

@@ -1,17 +1,13 @@
 +++
-date = "2016-10-17T08:26:34-05:00"
-title = "welcome"
-type = "event"
-aliases = ["/events/2017-chicago"]
-description = "The group that brought you DevOpsDays Chicago 2014-2016 is back together and planning the 2017 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2017 in Chicago."
-
+Title = "devopsdays Kiel 2018"
+Type = "welcome"
+aliases = ["/events/2018-kiel/welcome"]
+Description = "devopsdays Kiel 2018"
 +++
 
-<!-- <h2>{{< event_start >}} - {{< event_end >}}</h2> -->
-
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -22,14 +18,14 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -85,5 +81,7 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
   </div>
 </div>
 
-
+<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
+-->
