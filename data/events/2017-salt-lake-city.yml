@@ -87,8 +87,9 @@ sponsors:
     level: blackdiamond
   - id: cloudpassage
     level: blackdiamond
-  - id: 2017-slc-opsgenie
+  - id: opsgenie
     level: bluesquare
+    url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_SLC_%20May&utm_medium=banner
   - id: pure-storage
     level: bluesquare
   - id: elastic
