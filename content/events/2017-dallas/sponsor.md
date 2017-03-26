@@ -37,126 +37,126 @@ This year we have the privilege of hosting devopsdays DFW at Capital One Confere
 </p>
 </td>
 <td style="valign:top;">
-<table border=1 cellpadding="8px" style="padding:5px;">
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Silver<br />$3000</u></center></b></th>
-    <th><center><b><u>Gold<br />$5000</u></center></b></th>
-    <th><center><b><u>Platinum<br />$8000</u></center></b></th>
-  </tr>
-<tr>
-  <td>&nbsp;</td>
-  <td >
-  <center>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-    </form>
-  </center>
+    <table border=1 cellpadding="8px" style="padding:5px;">
+      <tr>
+        <th><i>packages</i></th>
+        <th><center><b><u>Silver<br />$3000</u></center></b></th>
+        <th><center><b><u>Gold<br />$5000</u></center></b></th>
+        <th><center><b><u>Platinum<br />$8000</u></center></b></th>
+      </tr>
+      <tr>
+      <td>&nbsp;</td>
+      <td >
+      <center>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+        </form>
+      </center>
+      </td>
+      <td >
+      <center>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="T9FFFGP72XC4Y">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </center>
+      </td>
+      <td >
+      <center>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="VZT48NR758M6A">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+        </center>
+      </td>
+    </tr>
+    <tr>
+      <td>included tickets</td>
+      <td ><center><b>2</b></center></td>
+      <td ><center><b>3</b></center></td>
+      <td ><center><b>6</b></center></td>
+    </tr>
+    <tr>
+      <td>Shared Table</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td >&nbsp;</td>
+      <td >&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Full Table</td>
+      <td >&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Choice of table location</td>
+      <td>&nbsp;</td>
+      <td >&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on website <br />      Logo on main room signage <br />      Logo on email communication      </td>      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on shared slide during breaks</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td >&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Logo on shared signage in breakout rooms</td>
+      <td>&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Logo on shared slide in recorded video pre-rolls</td>
+      <td>&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td >&nbsp;</td>
+    </tr>
+    <tr>
+      <td>Logo on dedicated slide during breaks</td>
+      <td>&nbsp;</td>
+      <td >&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on dedicated signage in breakout rooms</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>Logo on dedicated slide in recorded video pre-rolls</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    <tr>
+      <td>1-minute pitch to full audience</td>
+      <td>&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td >&nbsp;</td>
+    </tr>
+    <tr>
+      <td>5-minute pitch to full audience on Day 1</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+    </tr>
+    </table>
   </td>
-  <td >
-  <center>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="T9FFFGP72XC4Y">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-  </center>
-  </td>
-  <td >
-  <center>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="VZT48NR758M6A">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-    </center>
-  </td>
 </tr>
-<tr>
-  <td>included tickets</td>
-  <td ><center><b>2</b></center></td>
-  <td ><center><b>3</b></center></td>
-  <td ><center><b>6</b></center></td>
-</tr>
-<tr>
-  <td>Shared Table</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td >&nbsp;</td>
-  <td >&nbsp;</td>
-</tr>
-<tr>
-  <td>Full Table</td>
-  <td >&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-<tr>
-  <td>Choice of table location</td>
-  <td>&nbsp;</td>
-  <td >&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-<tr>
-  <td>Logo on website <br />  Logo on main room signage <br />  Logo on email communication  </td>  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-<tr>
-  <td>Logo on shared slide during breaks</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td >&nbsp;</td>
-</tr>
-</tr>
-<tr>
-  <td>Logo on shared signage in breakout rooms</td>
-  <td>&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td>&nbsp;</td>
-</tr>
-<tr>
-  <td>Logo on shared slide in recorded video pre-rolls</td>
-  <td>&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td >&nbsp;</td>
-</tr>
-<tr>
-  <td>Logo on dedicated slide during breaks</td>
-  <td>&nbsp;</td>
-  <td >&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-<tr>
-  <td>Logo on dedicated signage in breakout rooms</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-<tr>
-  <td>Logo on dedicated slide in recorded video pre-rolls</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-<tr>
-  <td>1-minute pitch to full audience</td>
-  <td>&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-  <td >&nbsp;</td>
-</tr>
-<tr>
-  <td>5-minute pitch to full audience on Day 1</td>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
-  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-</tr>
-</table>
-</td></tr>
 </table>
 </div>
 
