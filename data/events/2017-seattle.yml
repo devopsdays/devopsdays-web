@@ -108,6 +108,8 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
+  - id: newrelic
+    level: gold
   - id: victorops
     level: silver
   - id: netapp
