@@ -173,14 +173,6 @@ type = "event"
     </div>
 <div class = "row">
       <div class = "col-md-4">
-        <time>2:30 PM</time>
-      </div>
-      <div class = "col-md-6 box">
-          ...
-      </div>
-    </div>
-<div class = "row">
-      <div class = "col-md-4">
         <time>3:00 PM</time>
       </div>
       <div class = "col-md-6 box">
