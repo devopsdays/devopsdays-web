@@ -58,8 +58,9 @@ sponsors:
     level: gold
   - id: gocd
     level: gold
-  - id: 2017-stockholm-opsgenie
+  - id: opsgenie
     level: gold
+    url: https://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Stockholm_%20May&utm_medium=banner
   - id: stackstate
     level: gold
   - id: praqma

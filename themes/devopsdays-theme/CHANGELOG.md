@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.4.1](https://github.com/devopsdays/devopsdays-theme/tree/1.4.1) (2017-03-25)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.0...1.4.1)
+
+**Closed issues:**
+
+- correcting missing speakers pages on some sites [\#431](https://github.com/devopsdays/devopsdays-theme/issues/431)
+
 ## [1.4.0](https://github.com/devopsdays/devopsdays-theme/tree/1.4.0) (2017-03-23)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.3.0...1.4.0)
 
