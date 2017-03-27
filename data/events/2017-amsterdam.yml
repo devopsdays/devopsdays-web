@@ -48,6 +48,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: stackstate
+    level: gold
   # silver
   - id: valtech
     level: silver
@@ -65,6 +67,8 @@ sponsors:
     level: bbq
   # Pre-Event Social
   # beer
+  - id: 2017-redhat
+    level: beer
   # community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

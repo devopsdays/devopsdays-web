@@ -51,8 +51,9 @@ proposal_email: "proposals-atlanta-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-atlanta-opsgenie
+  - id: opsgenie
     level: gold
+    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Atlanta_%20April&utm_medium=banner
   - id: pivotal
     level: gold
   - id: verizon
@@ -271,9 +272,9 @@ ignites:
     date: 2017-04-19
   - title: "brian-pitts"
     date: 2017-04-19
-  - title: "TBD"
+  - title: "eldon-stegall"
     date: 2017-04-19
-  - title: "TBD"
+  - title: "mykel-alvis"
     date: 2017-04-19
   - title: "devOps Ignite Karaoke"
     date: 2017-04-19

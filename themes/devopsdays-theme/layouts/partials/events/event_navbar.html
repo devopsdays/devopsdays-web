@@ -21,49 +21,54 @@
 {{ if $e.nav_elements }}
           {{ range $e.nav_elements }}
             {{ if .url }}
-              <li class="nav-item event-navigation">
-                <span class = "hidden-md-down">
-                  <a class="nav-link" href="{{ .url}}">{{ .name }}</a>
-                </span>
-                <span class = "hidden-lg-up event-navigation-icon">
-                  {{ if .icon }}
-                    <a href = "{{ .url}}"><i class="fa fa-{{.icon}} fa-2x"></i></a>
-                  {{ else }}
-                    <a href = "{{ .url}}"><i class="fa fa-external-link fa-2x"></i></a>
-                  {{ end }}
-                </span></li>
+              {{ $.Scratch.Set "url" .url }}
             {{ else }}
+              {{ $.Scratch.Set "url" (printf "/events/%s/%s" $event_slug .name )}}
+            {{ end }}
+            {{ if eq .name "propose" }}
+              {{ if $e.cfp_link }}
+                {{ if ne $e.cfp_link "" }}
+                  {{ $.Scratch.Set "url" $e.cfp_link }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ if eq .name "registration" }}
+              {{ if $e.registration_link }}
+                {{ if ne $e.registration_link "" }}
+                  {{ $.Scratch.Set "url" $e.registration_link }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
               <li class="nav-item event-navigation">
                 <span class = "hidden-md-down">
-                  <a class="nav-link" href="/events/{{ $event_slug }}/{{ .name }}">{{ .name }}</a>
+                  <a class="nav-link" href="{{$.Scratch.Get "url" }}">{{ .name }}</a>
                 </span>
                 <span class = "hidden-lg-up event-navigation-icon">
                   {{ if .icon }}
-                    <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-{{ .icon }} fa-2x"></i></a>
+                    <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-{{ .icon }} fa-2x"></i></a>
                   {{ else }}
                     {{ if eq .name "registration" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-user-plus fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-user-plus fa-2x"></i></a>
                     {{ else if eq .name "program" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-book fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-book fa-2x"></i></a>
                     {{ else if eq .name "speakers" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-microphone fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-microphone fa-2x"></i></a>
                     {{ else if eq .name "sponsor" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-money fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-money fa-2x"></i></a>
                     {{ else if eq .name "contact" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-envelope-o fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-envelope-o fa-2x"></i></a>
                     {{ else if eq .name "conduct" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-handshake-o fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-handshake-o fa-2x"></i></a>
                     {{ else if eq .name "location" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-map-o fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-map-o fa-2x"></i></a>
                     {{ else if eq .name "propose" }}
-                      <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-lightbulb-o fa-2x"></i></a>
+                      <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-lightbulb-o fa-2x"></i></a>
                     {{ else }}
-                    <a href = "/events/{{ $event_slug }}/{{ .name }}"><i class="fa fa-plus fa-2x"></i></a>
+                    <a href = "{{$.Scratch.Get "url" }}"><i class="fa fa-plus fa-2x"></i></a>
                    {{ end }}
                   {{ end }}
                 </span>
               </li>
-            {{ end }}
          {{ end }}
 {{ end }}
     </ul>

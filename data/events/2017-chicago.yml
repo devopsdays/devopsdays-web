@@ -8,13 +8,14 @@ description: "The group that brought you DevOpsDays Chicago 2014-2016 is back to
 startdate: 2017-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-14 # start accepting talk proposals.
+cfp_date_end: 2017-06-16 # close your call for proposals.
+cfp_date_announce: 2017-07-10  # inform proposers of status
 registration_open: "false"
 registration_link: ""
 cfp_open: "false"
 cfp_link: ""
+ga_tracking_id: "UA-74738648-1"
 
 # Location
 #
@@ -53,6 +54,7 @@ team_members:
     github: "corainChicago"
     bio: "Cora became a developer after working in all the fun and exciting places, Central Asia, West Africa, and lovely Chicago.  In her household, the number of laptops outnumber the humans and cats combined."
   - name: "Aaron Lindstrom"
+    employer: "GrubHub"
     image: "default-male.jpg"
   - name: "Kevin Reedy"
     image: "kevin-reedy.jpg"
@@ -86,7 +88,13 @@ team_members:
     github: "mattstratton"
     bio: "Matt Stratton is a customer architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
   - name: "Joel Vasallo"
-    image: "default-male.jpg"
+    employer: "gogo"
+    twitter: "__jvasallo__"
+    website: "http://joelvasallo.com"
+    linkedin: "https://www.linkedin.com/in/joelvasallo/"
+    github: "jvasallo"
+    image: "joel-vasallo.jpg"
+    bio: "Joel is a Senior DevOps Engineer working at Gogo; providing a best-in-class cloud infrastructure and developing infrastructure/deployment tooling. Primarily works with Python, the cloud is his immutable data center, and loves tinkering with all things tech. In his spare time, Joel is also a GDG Organizer and loves exploring his home city Chicago from time to time."
 
 organizer_email: "organizers-chicago-2017@devopsdays.org"
 proposal_email: "cfp@devopsdayschi.org"

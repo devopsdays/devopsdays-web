@@ -24,27 +24,53 @@
         <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
           </div>
       {{ end }}
+    {{ else }}
+      {{ if $e.startdate }}
+        {{ if $e.registration_date_start }}
+          {{- if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.registration_date_start)) (le (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.registration_date_end)) }}
+            {{ if $e.registration_link }}
+              {{ if eq $e.registration_link "" }}
+                {{ $.Scratch.Set "registration_link" (printf "/events/%s/propose" $event_slug)}}
+              {{ else }}
+                {{ $.Scratch.Set "registration_link" $e.registration_link }}
+              {{ end }}
+            {{ else }}
+              {{ $.Scratch.Set "registration_link" (printf "/events/%s/propose" $event_slug)}}
+            {{ end }}
+            {{ if $e.registration_closed }}
+              {{ if ne $e.registration_closed "true" }}
+                <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+                  <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+                </div>
+              {{ end }}
+            {{ end }}
+            <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+              <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
     {{ end }}
 
 
 
   <!-- propose button -->
-
-  {{ if $e.cfp_open }}
-    {{ if eq $e.cfp_open "true" }}
-      {{ if $e.cfp_link }}
-        {{ if eq $e.cfp_link "" }}
-          {{ $.Scratch.Set "cfp_link" (printf "/events/%s/propose" $event_slug)}}
+  {{ if $e.startdate }}
+    {{ if $e.cfp_date_start }}
+      {{- if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.cfp_date_start)) (le (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.cfp_date_end)) }}
+        {{ if $e.cfp_link }}
+          {{ if eq $e.cfp_link "" }}
+            {{ $.Scratch.Set "cfp_link" (printf "/events/%s/propose" $event_slug)}}
+          {{ else }}
+            {{ $.Scratch.Set "cfp_link" $e.cfp_link }}
+          {{ end }}
         {{ else }}
-          {{ $.Scratch.Set "cfp_link" $e.cfp_link }}
+          {{ $.Scratch.Set "cfp_link" (printf "/events/%s/propose" $event_slug)}}
         {{ end }}
-      {{ else }}
-        {{ $.Scratch.Set "cfp_link" (printf "/events/%s/propose" $event_slug)}}
-
-    {{ end }}
-    <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
-      <a href="{{ $.Scratch.Get "cfp_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
-    </div>
+      <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+        <a href="{{ $.Scratch.Get "cfp_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
+      </div>
+      {{ end }}
     {{ end }}
   {{ end }}
 

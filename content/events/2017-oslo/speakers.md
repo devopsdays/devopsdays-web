@@ -1,7 +1,5 @@
 +++
-date = "2017-02-07"
-heading = "DevOpsDays Oslo - Speakers"
-title = "speakers"
-type = "speakers"
-
+Title = "Speakers"
+Type = "speakers"
+Description = "Speakers for devopsdays OSLO 2017"
 +++
