@@ -204,7 +204,7 @@ program:
     date: 2017-05-03
     start_time: "10:40"
     end_time: "11:00"
-  - title: "chris-van-tuin"
+  - title: "suzie-prince"
     type: talk
     date: 2017-05-03
     start_time: "11:00"
@@ -285,11 +285,11 @@ program:
     date: 2017-05-04
     start_time: "10:40"
     end_time: "11:00"
-  - title: "suzie-prince"
+  - title: "chris-van-tuin"
     type: talk
     date: 2017-05-04
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "michele-vuerich"
     type: talk
     date: 2017-05-04
