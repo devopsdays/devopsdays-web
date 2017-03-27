@@ -18,7 +18,7 @@ location: "Austin" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: sponsor
   - name: contact
   - name: conduct
@@ -47,6 +47,7 @@ team_members: # Name is the only required field for team members.
   - name: "Laura Wickett"
   - name: "Paul Czarkowski"
   - name: "Katelyn Parker"
+  - name: "Carl Perry"
 
 organizer_email: "organizers-austin-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-austin-2017@devopsdays.org" # Put your proposal email address here
@@ -56,6 +57,7 @@ proposal_email: "proposals-austin-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: opsgenie
     level: happyhour
+    url: https://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Austin_%20May&utm_medium=banner
   - id: pivotal
     level: gold
   - id: deis
@@ -67,6 +69,8 @@ sponsors:
   - id: netapp
     level: gold
   - id: xmatters
+    level: gold
+  - id: praecipio
     level: gold
   - id: solarwinds
     level: gold
@@ -80,7 +84,30 @@ sponsors:
     level: gold
   - id: signalsciences
     level: gold
+  - id: newrelic
+    level: gold
+  - id: cyberark
+    level: gold
+  - id: dellemc
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: cloudpassage
+    level: gold
+  - id: threatstack
+    level: gold
+  - id: 10thmagnitude
+    level: gold
+  - id: nvisium
+    level: gold
   - id: duo
+    level: silver
+  - id: solutionsiq
+    level: silver
+  - id: sailpoint
+    level: silver
+    url: "https://www.sailpoint.com/company/careers"
+  - id: elastic
     level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

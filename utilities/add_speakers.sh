@@ -24,60 +24,83 @@ event_slug=$year-$city_slug
 
 # Create necessary directories
 mkdir -p ../content/events/$event_slug/program
-mkdir -p ../data/speakers/$year/$city_slug/
+mkdir -p ../content/events/$event_slug/speakers
 mkdir -p ../static/events/$event_slug/speakers
 
-# Create empty speakers file
-cp examples/speakers/speakers.md ../content/events/$event_slug/
 # Set the creation date to current timestamp
 datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
-SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/speakers.md
+
+# Create empty speakers page file (will be auto-filled for display)
+speakerspage="../content/events/$event_slug/speakers.md"
+cp examples/templates/speakers.md $speakerspage
+SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" $speakerspage
+
+# uncomment link to speakers page
+SEDCMD "s/#  - name: speakers/  - name: speakers/" ../data/events/$event_slug.yml
+
 
 # Prompt for inputting speakers
 while [ 1 ]
 do
 echo "Entering speakers; use CTRL+C to stop..."
-# Gather info
+
+##############
+# Speaker file
+##############
 read -p "Enter speaker name: " speakername
 speaker_slug=$(echo $speakername | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
+# create speaker file
+speakerfile="../content/events/$event_slug/speakers/$speaker_slug.md"
+cp examples/templates/speakers-speaker-full-name.md $speakerfile
+
+SEDCMD "s/SPEAKERNAME/$speakername/" $speakerfile
+SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" $speakerfile
+SEDCMD "s/SPEAKERSLUG/$speaker_slug/" $speakerfile
+
+# twitter handle
 read -p "Enter speaker twitter handle (return for none): " twitter
 [ -z "${twitter}" ] && twitter=''
 # remove @ if they added it
 twitter=$(echo $twitter | sed 's/@//')
+SEDCMD "s/SPEAKERTWITTER/$twitter/" $speakerfile
 
+# bio
 read -p "Enter speaker bio (return for none): " bio
 [ -z "${bio}" ] && bio=''
+SEDCMD "s/SPEAKERBIO/$bio/" $speakerfile
 
+####################
+# Populate talk file
+####################
+talkfile="../content/events/$event_slug/program/$speaker_slug.md"
+cp examples/templates/program-speaker-full-name.md $talkfile
+
+SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" $talkfile
+SEDCMD "s/SPEAKERSLUG/$speaker_slug/" $talkfile
+
+# talk title
 read -p "Enter speaker talk title (return for none): " title
 [ -z "${title}" ] && title=''
+SEDCMD "s/TALKTITLE/$title/" $talkfile
 
+# talk description
 read -p "Enter speaker talk description (return for none): " abstract
 [ -z "${abstract}" ] && abstract=''
+SEDCMD "s/ABSTRACT/$abstract/" $talkfile
 
+#######################
+# Set speaker image
+#######################
 
-# Populate speaker data file
-cp examples/speakers/speaker-full-name.yml ../data/speakers/$year/$city_slug/$speaker_slug.yml
+read -p "Enter path to speaker image PNG: " speakerimage
+[ -z "${speakerimage}" ] && speakerimage=''
 
-SEDCMD "s/SPEAKERNAME/$speakername/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
-SEDCMD "s/SPEAKERTWITTER/$twitter/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
-SEDCMD "s/SPEAKERBIO/$bio/" ../data/speakers/$year/$city_slug/$speaker_slug.yml
-
-# Set default image
-
-cp examples/speakers/speaker-full-name.jpg ../static/events/$event_slug/speakers/$speaker_slug.jpg
-
-# Populate talk file
-
-cp examples/speakers/speaker-full-name.md ../content/events/$event_slug/program/$speaker_slug.md
-
-SEDCMD "s/SPEAKERNAME/$speakername/" ../content/events/$event_slug/program/$speaker_slug.md
-SEDCMD "s/SPEAKERSLUG/$speaker_slug/" ../content/events/$event_slug/program/$speaker_slug.md
-SEDCMD "s/TITLE/$title/" ../content/events/$event_slug/program/$speaker_slug.md
-SEDCMD "s/ABSTRACT/$abstract/" ../content/events/$event_slug/program/$speaker_slug.md
-
-# Set the creation date to current timestamp
-datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
-SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/program/$speaker_slug.md
+if [ $speakerimage ]; then
+  cp "$speakerimage" ../static/events/$event_slug/speakers/$speaker_slug.png
+  SEDCMD "s/image = \"\"/image = \"$speaker_slug.png\"/" $speakerfile
+else
+  echo "Put speaker image at ../static/events/$event_slug/speakers/$speaker_slug.png before creating the pull request, if desired."
+fi
 
 done

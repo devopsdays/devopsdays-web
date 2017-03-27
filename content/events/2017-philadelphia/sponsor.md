@@ -7,7 +7,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.  Gold, Silver, and Bronze sponsorship packages are detailed in our <a href="/events/2016-philadelphia/sponsor/devopsdaysPHL2016-prospectus.pdf">prospectus</a>.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.  Gold, Silver, and Bronze sponsorship packages are detailed in our <a href="/events/2017-philadelphia/sponsor/devopsdaysPHL2017-prospectus.pdf">prospectus</a>.
 
 Additional à la carte sponsorships are also possible:
 

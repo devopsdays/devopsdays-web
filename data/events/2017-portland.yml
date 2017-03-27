@@ -21,7 +21,7 @@ location: "Portland" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
   - name: propose
     url: https://devopsdayspdx2017.busyconf.com/proposals/new
@@ -82,6 +82,10 @@ sponsors:
       level: community
     - id: chef
       level: gold
+    - id: influxdata
+      level: gold
+    - id: symantec
+      level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

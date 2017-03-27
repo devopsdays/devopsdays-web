@@ -47,7 +47,7 @@
       <h3 class="footer-nav">CFP OPEN</h3>
       {{ range sort $.Site.Data.events "startdate" }}
         {{ if .cfp_date_end }}
-          {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+          {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) }}
             <a href = "/events/{{ .name }}/" class = "footer-content">{{ .city }}</a><br />
           {{ end }} {{/* end: date is now or afterwards */}}
         {{ end }} {{/* end: if .cfp_date_end */}}

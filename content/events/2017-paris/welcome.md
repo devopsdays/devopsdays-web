@@ -25,7 +25,7 @@ discussions from industry practitioners and taste-makers.
 
 **The principal language of this conference will be French.**
 
-## Pour plus d'informations, veuillez visiter notre site principal: **https://www.devopsrex.fr/**
+<div style="font-weight: bolder; font-size: 125%">Pour plus d'informations, veuillez visiter notre site principal: <a href="https://www.devopsrex.fr/">https://www.devopsrex.fr/</a></div>
 
 <br />
 
@@ -109,5 +109,5 @@ discussions from industry practitioners and taste-makers.
 
 <br />
 <br />
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsrex >}}
+
+{{< event_twitter >}}

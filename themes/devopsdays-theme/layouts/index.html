@@ -12,7 +12,7 @@
     <div class="row">
         {{- range sort $.Site.Data.events "startdate" -}}
         {{- if .startdate -}}
-        {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) -}}
+        {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
         {{ $.Scratch.Set "city" .city }}
         {{ $.Scratch.Set "year" .year }}
         {{ $.Scratch.Set "logo" "unset" }}

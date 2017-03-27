@@ -7,7 +7,7 @@
 -->
 <!-- <link href="/css/googlemaps.css" rel="stylesheet"> -->
 <!-- the above stylesheet has been moved into the main one -->
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 function initialize() {
     var map;
     var bounds = new google.maps.LatLngBounds();
@@ -28,7 +28,7 @@ function initialize() {
         {{ if .startdate }}
 
       // if the startdate is today or in the future
-          {{ if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+          {{ if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) }}
 
       // if the startdate month and enddate month are different, show both months
             {{ if ne (dateFormat "Jan" .startdate) (dateFormat "Jan" .enddate) }}
@@ -66,7 +66,7 @@ function initialize() {
             labelStyle: { opacity: 1 },
             url: markers[i][4]
         });
-        
+
         google.maps.event.addListener(marker, 'click', function() {
             window.location.href = this.url;
         });
@@ -76,7 +76,7 @@ function initialize() {
 }
 </script>
 
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
       window.onload = function()
       {
           initialize();

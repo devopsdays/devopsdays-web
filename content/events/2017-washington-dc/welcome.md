@@ -88,14 +88,10 @@ aliases = ["/events/2017-washington-dc"]
 </div>
 
 <p>
-  {{< event_twitter devopsdaysdc >}}
+  {{< event_twitter >}}
 </p>
 
 <div>
 <a class="twitter-timeline" data-width="800" data-height="600" data-theme="light" href="https://twitter.com/DevOpsDaysDC">Tweets by DevOpsDaysDC</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-<!--
-{{< event_twitter devopsdaysyourcity >}}
--->

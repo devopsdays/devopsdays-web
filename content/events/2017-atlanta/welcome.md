@@ -12,8 +12,8 @@ aliases = ["/events/2017-atlanta"]
 **devopsdays is coming to {{< event_location >}}!**
 <h3>Opening Keynote from <a href="https://github.com/kelseyhightower">Kelsey Hightower</a></h3>
 
- <div style="text-align:center;">
- <img alt="DevOpsDays Atlanta 2017" src="/events/2017-atlanta/logo.png" style="max-width: 90%;">
+<div style="text-align:center;">
+  {{< event_logo >}}
 </div>
 
 <div class = "row">
@@ -88,7 +88,6 @@ aliases = ["/events/2017-atlanta"]
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

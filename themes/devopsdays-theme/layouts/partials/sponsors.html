@@ -10,13 +10,17 @@
           <!--first sponsor row-->
           <div class="col-md-12">
             <h4 class="sponsor-cta">{{ $level.label }} Sponsors</h4>
-            {{- if ( $e.startdate) or (ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02"))) -}}
+            {{ if $e.sponsors}}
+              {{ range where $e.sponsors "level" $level.id }}
+                {{ $.Scratch.Add $level.id 1 }}
+              {{ end }}
+            {{ end }}
+            {{- if ( $e.startdate) or (ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
               {{- if ne $e.sponsors_accepted "no" -}}
                 {{- if or (not $level.max) (lt ($.Scratch.Get $level.id) $level.max) -}}
                   <a href = "/events/{{ $e.name }}/sponsor" class="sponsor-cta">
                     <i>Become a {{ $level.label }} Sponsor!</i>
                   </a>
-                  {{ $.Scratch.Add $level.id 1 }}
                 {{- end -}}
               {{- end -}}
               {{- end -}}
@@ -29,8 +33,14 @@
 
             {{ if isset $.Site.Data.sponsors .id }}
 
+            {{ if .url }}
+              {{ $.Scratch.Set "SponsorURL" .url }}
+            {{ else }}
+              {{ $.Scratch.Set "SponsorURL" $s.url }}
+            {{ end }}
+
               <div class = "col-lg-1 col-md-2 col-4">
-                <a href = "{{ $s.url }}"><img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid"></a>
+                <a href = "{{ $.Scratch.Get "SponsorURL" }}"><img src = "/img/sponsors/{{ .id }}.png" alt = "{{ $s.name }}" title = "{{ $s.name }}" class="img-fluid"></a>
               </div>{{ "<!-- close individual sponsor div-->" | safeHTML}}
             {{- end -}}
           {{- end -}}

@@ -10,12 +10,14 @@ enddate: 2017-07-26
 cfp_date_start: 2016-12-22
 cfp_date_end: 2017-04-09
 cfp_date_announce: 2017-05-07
+cfp_open: "true"
+registration_open: "true"
 
 coordinates: "44.972610,-93.272960"
 location: "Minneapolis"
 
 nav_elements:
-  - name: welcome
+
 #  - name: program
 #  - name: speakers
   - name: propose
@@ -49,7 +51,7 @@ proposal_email: "proposals-minneapolis-2017@devopsdays.org"
 sponsors:
   - id: arresteddevops
     level: community
-  - id: pivotal 
+  - id: pivotal
     level: platinum
   - id: deis
     level: silver
@@ -67,13 +69,25 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
+  - id: thoughtworks-products
+    level: platinum
+  - id: mesosphere
+    level: silver
+  - id: redhat
+    level: gold
+  - id: optum
+    level: platinum
+  - id: horizontalintegration
+    level: silver
+  - id: appdynamics
+    level: silver
 
 sponsors_accepted : "yes"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 3
+    max: 5
   - id: gold
     label: Gold
   - id: silver

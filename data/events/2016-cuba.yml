@@ -19,7 +19,7 @@ location: "Universidad de las Ciencias Informáticas" # Defaults to city, but yo
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: offical website
 #    url: https://devopsdayscuba.eventos.uci.cu/
 #  - name: program

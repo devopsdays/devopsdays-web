@@ -11,7 +11,7 @@ Chomping .year has the nice effect of turning an int into string. -->
   {{ range $.Site.Data.events }}
   {{ if .startdate }}
   {{ $my_year := string ((dateFormat "2006" .enddate ))}}
-    {{ if and (eq $my_year (string $r_year)) ( lt (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")))  }}
+    {{ if and (eq $my_year (string $r_year)) ( lt (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)))  }}
       {{ $.Scratch.SetInMap "active_years" (print (chomp $my_year)) (print (chomp $my_year)) }}
       {{ $.Scratch.SetInMap (print (chomp $my_year)) .enddate (.name) }}
     {{ end }}

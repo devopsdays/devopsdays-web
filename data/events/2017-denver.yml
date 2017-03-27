@@ -11,10 +11,13 @@ cfp_date_end: 2017-02-17
 cfp_date_announce: 2017-03-01
 coordinates: "39.739236, -104.990251" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Denver" # The name of your location
+registration_open: "true"
+registration_link: "https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
   - name: sponsor
+  - name: program
   - name: speakers
   - name: contact
   - name: conduct
@@ -25,13 +28,20 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Tavis Aitken"
+    twitter: "tavisto"
   - name: "Jason Hand"
+    twitter: "jasonhand"
   - name: "Beau Christensen"
+    twitter: "beauchristensen"
   - name: "Joe Thompson"
   - name: "Hannah Klemme"
+    twiter: "msklemme"
   - name: "Nick Huanca"
+    twitter: "NickHuanca"
   - name: "Ryan Koch"
+    twitter: "ryanckoch"
   - name: "Matt Knox"
+    twitter: "mknox42"
 
 
 organizer_email: "organizers-denver-2017@devopsdays.org" # Put your organizer email address here
@@ -47,13 +57,36 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: opsgenie
     level: gold
-  - id: dell
+    url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_Denver_%20April&utm_medium=banner
+  - id: dellemc
     level: gold
   - id: sumologic
     level: gold
+  - id: chef
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: redhat
+    level: gold
+  - id: regis
+    level: gold
+  - id: trace3
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: fortrust
+    level: gold
   - id: software-freedom-school
-    level: bronze
+    level: lanyard
+  - id: asg
+    level: lanyard
   - id: aspe
+    level: bronze
+  - id: workday
     level: bronze
   - id: signalsciences
     level: community
@@ -72,3 +105,215 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-04-10
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-10
+    start_time: "09:15"
+    end_time: "09:00"
+
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: 2017-04-10
+    start_time: "09:15"
+    end_time: "09:45"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-10
+    start_time: "09:45"
+    end_time: "09:55"
+
+  - title: "chris-mcdermott"
+    type: talk
+    date: 2017-04-10
+    start_time: "09:55"
+    end_time: "10:25"
+
+  - title: "Break"
+    type: custom
+    date: 2017-04-10
+    start_time: "10:25"
+    end_time: "10:40"
+
+  - title: "connor-shea"
+    type: talk
+    date: 2017-04-10
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-10
+    start_time: "11:10"
+    end_time: "11:20"
+
+  - title: "j-paul-reed"
+    type: talk
+    date: 2017-04-10
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-04-10
+    start_time: "11:50"
+    end_time: "13:00"
+
+  - title: "greg-poirier"
+    type: talk
+    date: 2017-04-10
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-10
+    start_time: "13:35"
+    end_time: "14:10"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-04-10
+    start_time: "14:10"
+    end_time: "14:40"
+
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-04-10
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-04-10
+    start_time: "15:25"
+    end_time: "15:55"
+
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-04-10
+    start_time: "16:00"
+    end_time: "16:35"
+
+  - title: "Close Day"
+    type: custom
+    date: 2017-04-10
+    start_time: "16:45"
+    end_time: "17:00"
+
+  - title: "Happy Hour Event"
+    type: custom
+    date: 2017-04-10
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-04-11
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-11
+    start_time: "09:15"
+    end_time: "09:00"
+
+  - title: "matt-stratton"
+    type: talk
+    date: 2017-04-11
+    start_time: "09:15"
+    end_time: "09:45"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-11
+    start_time: "09:45"
+    end_time: "09:55"
+
+  - title: "jessica-breckenridge"
+    type: talk
+    date: 2017-04-11
+    start_time: "09:55"
+    end_time: "10:25"
+
+  - title: "Break"
+    type: custom
+    date: 2017-04-11
+    start_time: "10:25"
+    end_time: "10:40"
+
+  - title: "pj-hagerty"
+    type: talk
+    date: 2017-04-11
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-11
+    start_time: "11:10"
+    end_time: "11:20"
+
+  - title: "kira-boyle"
+    type: talk
+    date: 2017-04-11
+    start_time: "11:20"
+    end_time: "11:50"
+
+  - title: "Lunch - Food Trucks!"
+    type: custom
+    date: 2017-04-11
+    start_time: "11:50"
+    end_time: "13:10"
+
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-04-11
+    start_time: "13:10"
+    end_time: "13:40"
+
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-11
+    start_time: "13:45"
+    end_time: "14:10"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-04-11
+    start_time: "14:10"
+    end_time: "14:35"
+
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-04-11
+    start_time: "14:45"
+    end_time: "15:10"
+
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-04-11
+    start_time: "15:20"
+    end_time: "15:45"
+
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-04-11
+    start_time: "15:55"
+    end_time: "16:20"
+
+  - title: "Closing"
+    type: custom
+    date: 2017-04-11
+    start_time: "16:30"
+    end_time: "17:00"
+

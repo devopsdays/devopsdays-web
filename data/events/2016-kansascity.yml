@@ -19,7 +19,7 @@ location: "Musical Theater Heritage" # Defaults to city, but you can make it the
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: speakers
   - name: location
