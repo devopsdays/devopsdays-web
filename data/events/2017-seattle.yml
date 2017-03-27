@@ -22,6 +22,7 @@ location: "Seattle" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #
   - name: program
+  - name: speakers
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -105,11 +106,15 @@ sponsors:
     level: gold
   - id: dellemc
     level: gold
+  - id: pagerduty
+    level: gold
   - id: victorops
     level: silver
   - id: netapp
     level: silver
   - id: strongbridge-consulting
+    level: silver
+  - id: joyent
     level: silver
   - id: spoken
     level: bronze
@@ -132,7 +137,7 @@ sponsor_levels:
     max: 15
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

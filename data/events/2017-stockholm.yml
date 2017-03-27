@@ -10,7 +10,7 @@ enddate:  2017-05-09 # The end date of your event. Leave blank if you don't have
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-02-03  # start accepting talk proposals.
 cfp_date_end:  2017-03-05 # close your call for proposals.
-cfp_date_announce: 2017-03-26 # inform proposers of status
+cfp_date_announce: 2017-04-02 # inform proposers of status
 registration_open: "true"
 
 # Location
@@ -60,6 +60,7 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
+    url: https://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Stockholm_%20May&utm_medium=banner
   - id: stackstate
     level: gold
   - id: praqma

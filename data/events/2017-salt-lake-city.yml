@@ -89,8 +89,11 @@ sponsors:
     level: blackdiamond
   - id: opsgenie
     level: bluesquare
+    url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_SLC_%20May&utm_medium=banner
   - id: pure-storage
     level: bluesquare
+  - id: elastic
+    level: blackdiamond
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

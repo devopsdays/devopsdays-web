@@ -16,6 +16,10 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg` (url configurable in your datafile).
 
+## Google Analytics
+
+If you have set up a Google Analytics account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `YYYY-CITY.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
+
 ### Event Square Logo
 
 To customize the logo that appears on the root of devopsdays.org, place a square file (jpg format only) in `static/events/yyyy-city`. It must be named `logo-square.jpg` and should be a minimum 300px x 300px, but optimizally should be 600px x 600px. 
@@ -31,6 +35,25 @@ Many sponsors are sponsors for multiple devopsdays. If a sponsor listing already
 
 The sample datafile has some sponsor levels pre-populated; edit as desired. You will want to decide what's in your sponsor packages before accepting most types of sponsors (other than Community).
 
+#### Sponsor URL override
+Sometimes, an existing sponsor will want an event-specific URL for your event. Rather than creating a new sponsor, you can add an optional `url` field to the sponsor in your event data file to override the default URL for that sponsor. For example:
+
+```
+sponsors: 
+  - id: victorops
+    level: social
+  - id: netapp
+    level: gold
+    url: http://netapp.com/?tracking=myeventthing
+  - id: gocd
+    level: gold
+```
+
+### Updating a sponsor
+
+If you want to update a sponsor, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. Basically you need to preserve past history before defining a changed default.
+
+
 ### Adding a new sponsor
 
 Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this if the sponsor doesn't already exist.)
@@ -41,15 +64,12 @@ Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this
 
 See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
 
-### Updating a sponsor
-
-If you want to update a sponsor, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. Basically you need to preserve past history before defining a changed default.
 
 ### Sponsor logos
 
 Guidelines regarding sponsor logo files and formatting:
 
-* The dimensions of the image file must be at least 200px wide.
+* The dimensions of the image file must be at least 200px wide. 600px will look best for high-density display.
 * The background must be either white or transparent.
 
 All logos will be resized at release time, to 200px wide. Versions for high-density display (ex. Retina) will also be created. It is recommended that you do not use a sponsor logo that is smaller than 200px wide to keep from quality degradation at resize time.

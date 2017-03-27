@@ -30,13 +30,21 @@ location: "Dallas / Ft. Worth" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: program
+#    icon: "book"
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+# - name: registration
+#   icon: "pencil"
+# - name: speakers
+#   icon: "microphone"
   - name: sponsor
+    icon: "money"
   - name: contact
+    icon: "envelope-o"
   - name: conduct
+    icon: "handshake-o"
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -51,7 +59,7 @@ team_members: # Name is the only required field for team members.
     image: "annie.jpg"
   - name: "Ben Johnson"
     employer: "Particle41"
-#   bio:
+    bio: "Consummate Technology Leader with strong open source programming background and hands on skills in Ruby on Rails, PHP and NodeJS. Extensive experience with remote distributed development teams. Establish highest levels of quality through continuous integration, continuous delivery, and automated testing standards. Constant focus on results and ways to improve while having fun building highly scalable and highly secure applications."
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
 #   facebook:
@@ -69,7 +77,7 @@ team_members: # Name is the only required field for team members.
     image: "cory.jpg"
   - name: "Gokul Sridharan"
     employer: "CA Technologies"
-#   bio: ""
+    bio: "Gokul Sridharan, is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
     twitter: "ConsultGokul_CA"
     linkedin: "https://www.linkedin.com/in/gokul-sridharan-98a12323/"
 #   facebook: ""
@@ -84,16 +92,16 @@ team_members: # Name is the only required field for team members.
 #   facebook: ""
 #   website: ""
 #   github: ""
-    image: "jack.jpg"   
+    image: "jack.jpg"
   - name: "Lee Herrin"
     employer: "Six Sents"
 #   bio: ""
-    twitter: "TechnologicaLee"    
+    twitter: "TechnologicaLee"
     linkedin: "https://www.linkedin.com/in/wtleeherrin/"
 #   facebook: ""
 #   website: ""
 #   github: ""
-    image: "lee.jpg"    
+    image: "lee.jpg"
   - name: "Mark Saum"
     employer: "Fidelis Consulting"
 #   bio:
@@ -102,7 +110,7 @@ team_members: # Name is the only required field for team members.
 #   facebook:
 #   website:
 #   github:
-    image: "mark.jpg"    
+    image: "mark.jpg"
   - name: "Megan Bohl"
 #   employer:
 #   bio:
@@ -111,15 +119,15 @@ team_members: # Name is the only required field for team members.
 #   facebook:
 #   website:
 #   github:
-    image: "megan.jpg"    
+    image: "megan.jpg"
   - name: "Michael Hedgpeth"
     employer: "NCR"
-#   bio:
+    bio: "Michael manages NCR Hospitality's DevOps transition, and is a deeply committed technologist that appreciates the value and necessity of executive alignment. This year he will be focusing on the DevOps Leadership Summit event before DevOpsDays which will give upper management an avenue to understand, and embrace DevOps principles."
     twitter: "michaelhedgpeth"
     linkedin: "https://www.linkedin.com/in/michael-hedgpeth/"
 #   facebook:
-#   website:
-#   github:
+    website: "http://hedge-ops.com/"
+    github: "mhedgpeth"
     image: "michael.jpg"
   - name: "Mike Rosado"
     employer: "Independent Consultant"

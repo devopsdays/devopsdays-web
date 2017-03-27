@@ -40,17 +40,17 @@ SEDCMD "s/yyyy-city/$event_slug/" $eventdatafile
 SEDCMD "s/devopsdayscityabbr/$twitter/" $eventdatafile
 
 # Name the email lists
-sed -i '' "s/city-year/$city_slug-$year/" $eventdatafile
+SEDCMD "s/city-year/$city_slug-$year/" $eventdatafile
 
 # Seed initial files for event
 cp -r examples/content/events/yyyy-city ../content/events/$event_slug
 
 # Setting the creation date at the time the event is instantiated
 datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
-sed -i '' "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/*.md
-sed -i '' "s/yyyy-city/$event_slug/" ../content/events/$event_slug/index.md
-sed -i '' "s/CITY/$city/" ../content/events/$event_slug/*.md
-sed -i '' "s/YYYY/$year/" ../content/events/$event_slug/*.md
+SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/*.md
+SEDCMD "s/yyyy-city/$event_slug/" ../content/events/$event_slug/index.md
+SEDCMD "s/CITY/$city/" ../content/events/$event_slug/*.md
+SEDCMD "s/YYYY/$year/" ../content/events/$event_slug/*.md
 
 echo " "
 echo "Check your event at http://localhost:1313/events/$event_slug/"
