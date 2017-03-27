@@ -351,7 +351,7 @@ type = "event"
         <time>1:55 PM</time>
       </div>
       <div class = "col-md-6 box">
-          Ignite 10 - : TBD
+          Ignite 10 - Xander Botha: "Kaos meets Containers"
       </div>
     </div>
 <div class = "row">
