@@ -69,6 +69,14 @@ type = "event"
     </div>
 <div class = "row">
       <div class = "col-md-4">
+        <time>10:20 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Break
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
         <time>10:30 AM</time>
       </div>
       <div class = "col-md-6 box">
@@ -248,6 +256,14 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
           Message from Gold Sponsors: Boeing Aeroinfo, Demonware, VictorOps, Trinimbus, Sumologic
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>10:20 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Break
       </div>
     </div>
 <div class = "row">
