@@ -1,5 +1,6 @@
 /public
 # General CodeKit files to ignore
+# This is another test
 config.codekit
 # config.toml # This is a dangerous file, but we need it not in here.
 /min
