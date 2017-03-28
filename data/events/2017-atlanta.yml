@@ -70,6 +70,8 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
+  - id: thoughtworks-services
+    level: gold
   - id: victorops
     level: silver
   - id: relus
