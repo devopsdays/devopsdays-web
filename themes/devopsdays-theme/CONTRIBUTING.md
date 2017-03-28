@@ -66,7 +66,9 @@ Our workflow is very much a work in progress, but follow these guidelines.
 
 There should be no other milestones; issues that are logged as `bug` will be prioritized into the milestone when we are ready to work on them. Only issues with the tag of `ready` should be worked on.
 
-Feature requests can be created at https://www.devopsdays.org/ideas. The roadmap for feature development can always be viewed at https://www.devopsdays.org/roadmap. If you would like to participate in the roadmap development/feature discussion, please contact @mattstratton for access to ProdPad.
+Feature requests can be created at https://www.devopsdays.org/ideas. The roadmap for feature development can always be viewed at https://www.devopsdays.org/roadmap. If you would like to participate in the roadmap development/feature discussion, please contact [@mattstratton](https://www.github.com/mattstratton) for access to ProdPad.
+
+For more specific details, check out our [workflow for feature enhancements](https://www.gliffy.com/go/publish/11899988)
 
 ### Issues
 
