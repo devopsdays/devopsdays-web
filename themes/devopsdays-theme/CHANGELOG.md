@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.5.0](https://github.com/devopsdays/devopsdays-theme/tree/1.5.0) (2017-03-27)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.1...1.5.0)
+
+**Implemented enhancements:**
+
+- Enable twitter cards with images on all pages - IDEA 60 [\#436](https://github.com/devopsdays/devopsdays-theme/issues/436)
+- center the city names under their logo squares [\#433](https://github.com/devopsdays/devopsdays-theme/issues/433)
+
+**Fixed bugs:**
+
+- fix the sharing card so all text is readable [\#434](https://github.com/devopsdays/devopsdays-theme/issues/434)
+
 ## [1.4.1](https://github.com/devopsdays/devopsdays-theme/tree/1.4.1) (2017-03-25)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.0...1.4.1)
 
