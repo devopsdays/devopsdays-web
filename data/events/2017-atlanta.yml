@@ -70,6 +70,8 @@ sponsors:
     level: silver
   - id: relus
     level: silver
+  - id: appdynamics
+    level: silver
   - id: sonatype
     level: bronze
   - id: arresteddevops
