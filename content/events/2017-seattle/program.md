@@ -319,7 +319,8 @@ type = "event"
         <ul style="padding-left: 15px">
           <li><a href="/events/2017-seattle/program/jason-yee/">Jason Yee</a>
           <li><a href="/events/2017-seattle/program/ram-jothikumar/">Ram Jothikumar</a>
-          <li><a href="/events/2017-seattle/program/jason-vernon/">Jason Vernon</a>
+          <li><a href="/events/2017-seattle/program/jason-vernon/">Jason Vernon and Radhika Gummadi</a>
+          <li><a href="/events/2017-seattle/program/soo-choi/">Soo Choi</a>
         </ul>
       </div>
     </div> <!-- end timeslot div -->
