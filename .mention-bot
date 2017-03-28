@@ -11,12 +11,12 @@
     },
         {
       "name": "MikeRosTX",
-      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "themes/**/*", "content/page/**/*"], 
       "skipTeamPrs": true 
     },
         {
       "name": "phrawzty",
-      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml",  "themes/**/*", "content/page/**/*"], 
       "skipTeamPrs": true 
     },
     {
