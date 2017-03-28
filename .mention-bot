@@ -27,7 +27,7 @@
   ],
   "findPotentialReviewers": false,
   "userBlacklist": [], 
-  "userBlacklistForPR": [],
+  "userBlacklistForPR": ["mattstratton","bridgetkromhout"],
   "requiredOrgs": ["devopsdays"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
