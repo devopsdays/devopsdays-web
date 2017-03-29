@@ -64,9 +64,19 @@ sponsors:
     level: gold
   - id: gcp
     level: gold
+  - id: newrelic
+    level: gold
+  - id: redhat
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: thoughtworks-services
+    level: gold
   - id: victorops
     level: silver
   - id: relus
+    level: silver
+  - id: appdynamics
     level: silver
   - id: sonatype
     level: bronze
