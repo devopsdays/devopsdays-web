@@ -78,7 +78,7 @@ All logos will be resized at release time, to 200px wide. Versions for high-dens
 
 ## Team members
 
-See the example team members listed in the generated data file. You can now add additional fields for each team member, as well as a photo. The photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images are located in the `static/events/YYYY-CITY/organizers` directory.
+See the example team members listed in the generated data file. You can now add additional fields for each team member, as well as a photo. The photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images are located in the `static/events/YYYY-CITY/organizers` directory. Any PRs adding a team member will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address.
 
 ## Social sharing image
 
