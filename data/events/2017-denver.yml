@@ -80,6 +80,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: fortrust
     level: gold
+  - id: logz
+    level: gold
   - id: software-freedom-school
     level: lanyard
   - id: asg
@@ -316,4 +318,3 @@ program:
     date: 2017-04-11
     start_time: "16:30"
     end_time: "17:00"
-
