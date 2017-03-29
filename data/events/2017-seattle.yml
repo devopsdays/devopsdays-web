@@ -127,6 +127,8 @@ sponsors:
     level: bronze
   - id: concur
     level: bronze
+  - id: extrahop
+    level: bronze
   - id: seattle-devops-meetup
     level: community
   - id: seattle-coffeeops
