@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.5.2](https://github.com/devopsdays/devopsdays-theme/tree/1.5.2) (2017-03-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.1...1.5.2)
+
+**Fixed bugs:**
+
+- CFPs which are not yet open show on the open list [\#448](https://github.com/devopsdays/devopsdays-theme/issues/448)
+- events with overlapping dates have problems displaying [\#444](https://github.com/devopsdays/devopsdays-theme/issues/444)
+
 ## [1.5.1](https://github.com/devopsdays/devopsdays-theme/tree/1.5.1) (2017-03-29)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.0...1.5.1)
 
