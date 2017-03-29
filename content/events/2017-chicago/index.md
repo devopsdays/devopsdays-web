@@ -10,6 +10,10 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
 <div class = "row">
   <div class = "col-md-6 push-md-6">
     {{< event_logo >}}
+    <blockquote class="blockquote">
+    <h3 class = "nav-item">"I have an army."</h3>
+    <h3 class = "nav-item">"We have a yak."</h3>
+    </blockquote>
   </div>
   <div class = "col-md-6 pull-md-6">
 
@@ -63,7 +67,7 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
     </div><!-- end a content element -->
     <div class = "row">
       <div class = "col-12">
-        <img src = "/events/2017-chicago/skyline.jpg" class = "img-fluid">
+        <img src = "/events/2017-chicago/adam-yak.jpg" class = "img-fluid">
       </div>
     </div>
 
