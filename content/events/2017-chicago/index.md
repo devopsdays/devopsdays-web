@@ -12,22 +12,7 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
     {{< event_logo >}}
   </div>
   <div class = "col-md-6 pull-md-6">
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Dates</strong>
-      </div>
-      <div class = "col-md-8">
-        {{< event_start >}} - {{< event_end >}}
-      </div>
-    </div><!-- end a content element -->
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Location</strong>
-      </div>
-      <div class = "col-md-8">
-        {{< event_location >}}
-      </div>
-    </div><!-- end a content element -->
+
     <!-- <div class = "row">
       <div class = "col-md-2">
         <strong>Register</strong>
@@ -61,21 +46,26 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
       </div>
     </div> -->
     <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Sponsor</strong>
-      </div>
-      <div class = "col-md-8">
-        {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+      <div class = "col-md-12"">
+      <div class = "row justify-content-center">
+        <div class = "col-lg-6 col-md-12">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/sponsor">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div>
+        <div class = "col-lg-6 col-md-12">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/contact">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+        </div>
       </div>
     </div><!-- end a content element -->
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Contact</strong>
+    <div class = "row">
+      <div class = "col-12">
+        <img src = "/events/2017-chicago/skyline.jpg" class = "img-fluid">
       </div>
-      <div class = "col-md-8">
-        {{< event_link page="contact" text="Get in touch with the organizers" >}}
-      </div>
-    </div><!-- end a content element -->
+    </div>
 
 
 
