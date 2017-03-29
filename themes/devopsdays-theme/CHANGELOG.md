@@ -1,6 +1,13 @@
 # Change Log
 
-## [1.5.0](https://github.com/devopsdays/devopsdays-theme/tree/1.5.0) (2017-03-27)
+## [1.5.1](https://github.com/devopsdays/devopsdays-theme/tree/1.5.1) (2017-03-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.0...1.5.1)
+
+**Fixed bugs:**
+
+- schema.org for events should only display if location\_address is set [\#445](https://github.com/devopsdays/devopsdays-theme/issues/445)
+
+## [1.5.0](https://github.com/devopsdays/devopsdays-theme/tree/1.5.0) (2017-03-28)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.1...1.5.0)
 
 **Implemented enhancements:**
