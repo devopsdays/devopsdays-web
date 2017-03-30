@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.6.1](https://github.com/devopsdays/devopsdays-theme/tree/1.6.1) (2017-03-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.0...1.6.1)
+
+**Fixed bugs:**
+
+- CTA buttons don't change color with custom masthead [\#456](https://github.com/devopsdays/devopsdays-theme/issues/456)
+
 ## [1.6.0](https://github.com/devopsdays/devopsdays-theme/tree/1.6.0) (2017-03-30)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.2...1.6.0)
 
