@@ -13,7 +13,7 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose a talk, please consider <a href="mailto:proposals-dallas-2017@devopsdays.org?subject=Request%20to%20help%comment%20and%20vote%20for%20CFP%20selection...&body=">asking for permission to comment and cast your vote on proposals submitted by others.</a>
+### Even if you don't propose a talk, please consider <a href="mailto:proposals-dallas-2017@devopsdays.org?subject=Request%20to%20help%20comment%20and%20vote%20on%20CFP%20selections...&body=">asking for permission to comment and cast your vote on proposals submitted by others.</a>
 
 Our main criteria to make it to the top selection are:
 
