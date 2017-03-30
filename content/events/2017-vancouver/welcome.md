@@ -20,9 +20,7 @@ aliases = ["/events/2017-vancouver"]
     <p style="font-size:large;">UBC Robson Square</p>
     <p>DevOpsDays is returning to Vancouver in 2017.</p>
     <p><a href="http://devopsdays.org/">DevOpsDays</a> is a self-organizing conference for DevOps practitioners.</p>
-    <!-- 
-<p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p>
- -->
+    <p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p>
 
 <div style="text-align:center;">
 <h2>Call for proposals!</h2>
