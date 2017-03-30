@@ -87,16 +87,49 @@
 
 
 </div>
-<style>
-a.jssocials-share-link {
-  color: white;
-  border-color: white;
-}
-a:hover.jssocials-share-link {
-  color: #bfbfc1;
-  border-color: #bfbfc1;
-}
-</style>
+
+{{ if $e.background }}
+  {{ if ne $e.background "" }}
+    <style>
+    a.jssocials-share-link {
+      color: #fff;
+      border-color: #fff;
+      background-color: gray;
+      z-index: 2;
+    }
+    a:hover.jssocials-share-link {
+      color: #bfbfc1;
+      border-color: #bfbfc1;
+    }
+    </style>
+  {{ else }}
+
+    <style>
+    a.jssocials-share-link {
+      color: white;
+      border-color: white;
+    }
+    a:hover.jssocials-share-link {
+      color: #bfbfc1;
+      border-color: #bfbfc1;
+    }
+    </style>
+  {{ end }}
+{{ else }}
+
+  <style>
+  a.jssocials-share-link {
+    color: white;
+    border-color: white;
+  }
+  a:hover.jssocials-share-link {
+    color: #bfbfc1;
+    border-color: #bfbfc1;
+  }
+  </style>
+
+{{ end }}
+
 <div class = "row">
   <div class = "col-md-12 offset-1 offset-md-0  welcome-page-cta">
     <div id="share"></div>

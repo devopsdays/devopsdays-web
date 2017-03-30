@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.6.0](https://github.com/devopsdays/devopsdays-theme/tree/1.6.0) (2017-03-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.2...1.6.0)
+
+**Implemented enhancements:**
+
+- Add support for background header image to event page - IDEA 41 [\#449](https://github.com/devopsdays/devopsdays-theme/issues/449)
+- Add theme documentation for end-users - IDEA 66 [\#443](https://github.com/devopsdays/devopsdays-theme/issues/443)
+
+**Fixed bugs:**
+
+- vertically align non-square sponsor logos [\#432](https://github.com/devopsdays/devopsdays-theme/issues/432)
+
 ## [1.5.2](https://github.com/devopsdays/devopsdays-theme/tree/1.5.2) (2017-03-29)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.1...1.5.2)
 
