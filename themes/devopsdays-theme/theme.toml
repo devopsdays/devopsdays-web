@@ -9,7 +9,7 @@ homepage = "https://github.com/devopsdays/devopsdays-theme/"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.18
-theme_version = 1.5.2
+theme_version = 1.6.0
 
 [author]
   name = "Matt Stratton"
