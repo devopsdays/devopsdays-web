@@ -16,7 +16,7 @@ The technical details and guidelines for contributing to this repository are out
 
 ## Managing event content
 
-Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md).
+Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md). Full documentation on the currently released theme is always found in  [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
 
 ## Binary files
 
