@@ -15,6 +15,8 @@ cfp_date_announce: 2017-04-04 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: ""
+ga_tracking_id: ""
+masthead_background: "capone-confcntr.jpg"
 
 registration_open: "false"
 registration_link: ""
