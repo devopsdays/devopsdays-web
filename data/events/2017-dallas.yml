@@ -114,8 +114,8 @@ team_members: # Name is the only required field for team members.
 #   github:
     image: "mark.jpg"
   - name: "Megan Bohl"
-#   employer:
-#   bio:
+    employer: "Aspiring Technical Consultant"
+    bio: "Megan is our Sponsor Liaison for DevOpsDays DFW 2017.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
     twitter: "MeganBohl"
     linkedin: "https://www.linkedin.com/in/megan-bohl-gardner-60932310/"
 #   facebook:
