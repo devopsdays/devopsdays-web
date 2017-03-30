@@ -78,3 +78,5 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
 
   </div>
 </div>
+
+<p class="font-italic">Header image By King of Hearts (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AChicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg">via Wikimedia Commons</a></p>
