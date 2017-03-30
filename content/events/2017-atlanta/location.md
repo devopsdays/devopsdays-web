@@ -28,7 +28,7 @@ There is a taxi stand outside of the baggage claim at the airport, and most taxi
 
 ## Lodging
 
-For folks coming from out of town here are lots of popular hotels in Midtown, and we have blocks at two of them. Unless otherwise negotiated with an organizer, you will be be picking up your room costs. In both cases, the block is under *DevOps Days Atlanta 2017*.
+For folks coming from out of town here are lots of popular hotels in Midtown, and we have blocks at two of them. Unless otherwise negotiated with an organizer, you will be be picking up your room costs. In both cases, the block is under *DevOps Days Atlanta 2017*. The **cut off date** to get a room in either hotel via the block is April 11th.
 
 **Hyatt Atlanta Midtown**  
 125 10th Street NE  
@@ -42,4 +42,4 @@ https://atlantamidtown.hyatt.com/en/hotel/home.html
 Atlanta, GA, 30308  
 Phone: (678) 412-2400  
 http://www.marriott.com/hotels/travel/atlbd-renaissance-atlanta-midtown-hotel/  
-**$179/night**
+**$174/night**
