@@ -57,8 +57,9 @@ proposal_email: "proposals-tokyo-2017@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-tokyo-opsgenie
+  - id: opsgenie
     level: bronze
+    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Tokyo_%20April&utm_medium=banner
   - id: agilergo
     level: silver 
   - id: creationline
