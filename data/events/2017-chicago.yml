@@ -105,6 +105,8 @@ proposal_email: "cfp@devopsdayschi.org"
 sponsors:
   - id: pivotal
     level: gold
+  - id: influxdata
+    level: gold
   - id: arresteddevops
     level: community
 
