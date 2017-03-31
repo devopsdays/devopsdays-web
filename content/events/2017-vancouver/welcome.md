@@ -21,23 +21,22 @@ aliases = ["/events/2017-vancouver"]
     <p>DevOpsDays is returning to Vancouver in 2017.</p>
     <p><a href="http://devopsdays.org/">DevOpsDays</a> is a self-organizing conference for DevOps practitioners.</p>
     <p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p>
-
-<div style="text-align:center;">
+</div>
+<!-- <div style="text-align:center;">
 <h2>Call for proposals!</h2>
 We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZb5t2">speaker submissions!</a>.  Please also review our <a href="https://docs.google.com/document/d/1uOqMhTbrSPQ88EWHvTBhr1TOkMS6Tgu2ZIkqE2BT2Bw/edit#heading=h.yfnrdtyvxdnm">speaker submission guidelines</a> when considering a talk submission.
-</div>
-</div>
+</div> -->
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Register</h2>
         <p><a href="https://www.eventbrite.ca/e/devops-days-vancouver-2017-mar-31st-apr-1st-tickets-29634403298">Tickets are now on sale!</a>
     </div>
 
-<div style="width:44%;margin:3% 1em;float:left;">
+<!-- <div style="width:44%;margin:3% 1em;float:left;">
 <h2>Sponsor</h2>
 <p>Help support this event with one of the sponsor packages.</p>
 <p><a href="/events/2017-vancouver/sponsor/">Sponsor DevOpsDays Vancouver 2017!</a></p>
-</div>
+</div>-->
 </div>
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
