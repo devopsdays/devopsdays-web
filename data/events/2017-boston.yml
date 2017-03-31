@@ -19,8 +19,6 @@ cfp_link: ""
 registration_open: "false"
 registration_link: ""
 
-event_logo: "logo.jpg"
-
 # Location
 #
 coordinates: "42.360082, -71.058880" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html

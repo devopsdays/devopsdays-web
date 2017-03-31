@@ -10,24 +10,13 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
 <div class = "row">
   <div class = "col-md-6 push-md-6">
     {{< event_logo >}}
+    <blockquote class="blockquote">
+    <h3 class = "nav-item">"I have an army."</h3>
+    <h3 class = "nav-item">"We have a yak."</h3>
+    </blockquote>
   </div>
   <div class = "col-md-6 pull-md-6">
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Dates</strong>
-      </div>
-      <div class = "col-md-8">
-        {{< event_start >}} - {{< event_end >}}
-      </div>
-    </div><!-- end a content element -->
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Location</strong>
-      </div>
-      <div class = "col-md-8">
-        {{< event_location >}}
-      </div>
-    </div><!-- end a content element -->
+
     <!-- <div class = "row">
       <div class = "col-md-2">
         <strong>Register</strong>
@@ -61,21 +50,26 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
       </div>
     </div> -->
     <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Sponsor</strong>
-      </div>
-      <div class = "col-md-8">
-        {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+      <div class = "col-md-12"">
+      <div class = "row justify-content-center">
+        <div class = "col-lg-6 col-md-12">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/sponsor">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div>
+        <div class = "col-lg-6 col-md-12">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/contact">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+        </div>
       </div>
     </div><!-- end a content element -->
-    <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-2">
-        <strong>Contact</strong>
+    <div class = "row">
+      <div class = "col-12">
+        <img src = "/events/2017-chicago/adam-yak.jpg" class = "img-fluid">
       </div>
-      <div class = "col-md-8">
-        {{< event_link page="contact" text="Get in touch with the organizers" >}}
-      </div>
-    </div><!-- end a content element -->
+    </div>
 
 
 
@@ -84,3 +78,5 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
 
   </div>
 </div>
+
+<p class="font-italic">Header image By King of Hearts (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AChicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg">via Wikimedia Commons</a></p>

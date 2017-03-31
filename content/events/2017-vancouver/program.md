@@ -152,7 +152,7 @@ type = "event"
         <time>1:50 PM</time>
       </div>
       <div class = "col-md-6 box">
-          Ignite 4 - Dmitry Vinnik: "Companies Which Need DevOps But Don't Know About It"
+          Ignite 4 - Xander Botha: "Kaos meets Containers"
       </div>
     </div>
 <div class = "row">
@@ -343,7 +343,7 @@ type = "event"
         <time>1:55 PM</time>
       </div>
       <div class = "col-md-6 box">
-          Ignite 10 - Xander Botha: "Kaos meets Containers"
+          Ignite 10 - Dmitry Vinnik: "Companies Which Need DevOps But Don't Know About It"
       </div>
     </div>
 <div class = "row">

@@ -16,11 +16,13 @@ registration_link: ""
 cfp_open: "false"
 cfp_link: ""
 ga_tracking_id: "UA-74738648-1"
+masthead_background: "skyline-night.jpg"
 
 # Location
 #
 coordinates: "41.888242, -87.637856" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the venue name.
+location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -103,6 +105,8 @@ proposal_email: "cfp@devopsdayschi.org"
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: pivotal
+    level: gold
+  - id: influxdata
     level: gold
   - id: arresteddevops
     level: community

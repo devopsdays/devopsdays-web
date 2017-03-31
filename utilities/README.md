@@ -53,6 +53,8 @@ sponsors:
 
 If you want to update a sponsor, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. Basically you need to preserve past history before defining a changed default.
 
+Note that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
+
 
 ### Adding a new sponsor
 
@@ -76,7 +78,7 @@ All logos will be resized at release time, to 200px wide. Versions for high-dens
 
 ## Team members
 
-See the example team members listed in the generated data file. You can now add additional fields for each team member, as well as a photo. The photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images are located in the `static/events/YYYY-CITY/organizers` directory.
+See the example team members listed in the generated data file. You can now add additional fields for each team member, as well as a photo. The photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images are located in the `static/events/YYYY-CITY/organizers` directory. Any PRs adding a team member will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address.
 
 ## Social sharing image
 

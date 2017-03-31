@@ -35,13 +35,20 @@
         {{ $.Scratch.Set "close-tag" "true" }}
       {{- end -}}
       {{- if ne .startdate .enddate }}
-      <a href = "/events/{{ .name }}/" class = "events-page-event">
-        {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}
-        {{ .city }}
-      </a><br />
+      {{- if eq (dateFormat "January" .startdate) (dateFormat "January" .enddate ) -}}
+        <a href = "/events/{{ .name }}/" class = "events-page-event">
+      {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
+      {{ .city }}
+        </a><br />
+      {{- else -}}
+    <a href = "/events/{{ .name }}/" class = "events-page-event">
+      {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}:
+      {{ .city }}
+    </a><br />
+      {{- end -}}
       {{- else -}}
       <a href = "/events/{{ .name }}/" class = "events-page-event">
-        {{ dateFormat "Jan 2" .startdate }}
+        {{ dateFormat "Jan 2" .startdate }}:
         {{ .city }}
       </a><br />
       {{- end -}}

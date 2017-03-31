@@ -16,12 +16,13 @@ Description = "Contact information for devopsdays Dallas 2017"
     </p>
   </div>
 </div>
-<hr>
-<h3>Our local team</h3>
+<br>
+
+## Our local team ##
 
 {{< list_organizers >}}
-<hr>
-<h3>The core devopsdays organizer group</h3>
+
+## The core devopsdays organizer group ##
 
 {{< list_core >}}
 

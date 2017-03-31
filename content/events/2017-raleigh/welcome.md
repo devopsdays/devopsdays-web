@@ -27,15 +27,15 @@ aliases = ["/events/2017-raleigh"]
   </div>
 </div>
 <br>
-<!--<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-   All talks have been selected at this time. Thank you so much for your submissions!
+   Have something to share?{{< event_link page="propose" text="Propose a session." >}}
   </div>
 </div>
-<br>-->
+<br>
 <!--<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -53,7 +53,6 @@ aliases = ["/events/2017-raleigh"]
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div> -->
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
@@ -62,7 +61,6 @@ aliases = ["/events/2017-raleigh"]
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>

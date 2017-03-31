@@ -19,7 +19,7 @@ location: "大崎ブライトコアホール" # Defaults to city, but you can ma
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
-#  - name: program
+  - name: program
   - name: propose
     url: https://confengine.com/devopsdays-tokyo-2017
   - name: location
@@ -59,10 +59,13 @@ proposal_email: "proposals-tokyo-2017@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: opsgenie
     level: bronze
+    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Tokyo_%20April&utm_medium=banner
   - id: agilergo
     level: silver 
   - id: creationline
     level: silver
+  - id: atlassian
+    level: silver 
   - id: chef
     level: gold
   - id: github
