@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.7.0](https://github.com/devopsdays/devopsdays-theme/tree/1.7.0) (2017-03-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.1...1.7.0)
+
+**Implemented enhancements:**
+
+- add defined place on event contact page for organizer's role [\#463](https://github.com/devopsdays/devopsdays-theme/issues/463)
+- improve readability of future events sidebar - IDEA 18 [\#424](https://github.com/devopsdays/devopsdays-theme/issues/424)
+
+**Fixed bugs:**
+
+- Open CFP widget in footer shows CFP's that aren't open yet [\#462](https://github.com/devopsdays/devopsdays-theme/issues/462)
+- Duplicate theme.toml [\#458](https://github.com/devopsdays/devopsdays-theme/issues/458)
+
 ## [1.6.1](https://github.com/devopsdays/devopsdays-theme/tree/1.6.1) (2017-03-30)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.0...1.6.1)
 
