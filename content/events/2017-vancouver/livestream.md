@@ -25,7 +25,7 @@ type = "event"
     <div>
         <h3>Brought to you by XE Live Broadcast</h3>
         <p>DevOpsDays Vancouver would like to thank XE Live Broadcast for their support in setting up the livestream.</p>
-        <p><a href="http://www.xelivebroadcast.com/">XE Live Broadcast</a> is a not-for-profit media company that helps events and movements reach their global audience.</p>
+        <p><a href="http://xelivebroadcast.com/">XE Live Broadcast</a> is a not-for-profit media company that helps events and movements reach their global audience.</p>
         <img src="/events/2016-vancouver/logos/xe-live-broadcast.jpg">
     </div>
 </div>
