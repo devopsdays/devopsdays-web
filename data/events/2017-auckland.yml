@@ -49,6 +49,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Reuben Dunn"
+    twitter: "DefSol"
   - name: "Flavia Machado"
   - name: "Adarsh Jupudi"
   - name: "David White"
@@ -59,7 +60,7 @@ team_members: # Name is the only required field for team members.
   - name: "Will Robertson"
   - name: "Ben Vidulich"
   - name: "Yogesh Shetty"
-#organizer_email: "organizers-auckland-2017@devopsdays.org" # Put your organizer email address here
+organizer_email: "info@devopsdays.nz" # Put your organizer email address here
 #proposal_email: "proposals-auckland-2017@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -68,8 +69,8 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+ # - id: arresteddevops
+ #   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
