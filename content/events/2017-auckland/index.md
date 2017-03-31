@@ -9,6 +9,16 @@ Description = "devopsdays Auckland 2017"
   {{< event_logo >}}
 </div> -->
 
+<p>
+DevOpsDays in New Zealand is back again and this year we'll be in Auckland. Stay tuned for more info...
+</p>
+
+<p>
+Check out last year's conference in Wellington
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JuctqYgeyiI" frameborder="0" allowfullscreen></iframe>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -82,6 +92,5 @@ Description = "devopsdays Auckland 2017"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
