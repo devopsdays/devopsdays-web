@@ -100,6 +100,9 @@ sponsors:
     level: gold
   - id: nvisium
     level: gold
+  - id: ibm
+    level: gold
+    url: https://www.ibm.com/cloud-computing/
   - id: duo
     level: silver
   - id: solutionsiq
@@ -109,6 +112,10 @@ sponsors:
     url: "https://www.sailpoint.com/company/careers"
   - id: elastic
     level: silver
+  - id: rackn
+    level: silver
+  - id: atxtechevents
+    level: media
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,3 +136,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
+    max: 5
