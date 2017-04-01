@@ -3,6 +3,7 @@ date = "2017-01-25T01:22:45-08:00"
 linktitle = "john-dewey"
 title = "John Dewey"
 type = "talk"
+aliases = ["/events/2017-losangeles/program/john-dewey"]
 +++
 
 <div class="span-15  ">

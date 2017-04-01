@@ -1,6 +1,7 @@
 +++
 title = "Call for Proposals"
 type = "event"
+aliases = ["/events/2017-losangeles/propose"]
 +++
   {{< cfp_dates >}}
 
