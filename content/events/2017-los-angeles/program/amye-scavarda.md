@@ -3,6 +3,7 @@ date = "2017-01-25T01:21:56-08:00"
 linktitle = "amye-scavarda"
 title = "Amye Scavarda"
 type = "talk"
+aliases = ["/events/2017-losangeles/program/amye-scavarda"]
 
 +++
 

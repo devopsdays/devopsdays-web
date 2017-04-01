@@ -1,6 +1,7 @@
 +++
 title = "Location"
 type = "event"
+aliases = ["/events/2017-losangeles/location"]
 +++
 
 <h2>Venue</h2>

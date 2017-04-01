@@ -1,6 +1,7 @@
 +++
 title = "Registration"
 type = "event"
+aliases = ["/events/2017-losangeles/registration"]
 +++
 
 <hr>
