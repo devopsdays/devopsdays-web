@@ -1,6 +1,6 @@
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
 /events/2010*                 http://legacy.devopsdays.org/events/2010:splat            301!
-/blog/wp-content/*            http://legacy.devopsdays.org/blog/wp-content:splat        301!
+/blog/wp-content/*            http://legacy.devopsdays.org/blog/wp-content/:splat       301!
 /events/2011*                 http://legacy.devopsdays.org/events/2011:splat            301!
 /events/2012*                 http://legacy.devopsdays.org/events/2012:splat            301!
 /events/2013*                 http://legacy.devopsdays.org/events/2013:splat            301!
