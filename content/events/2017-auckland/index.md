@@ -14,7 +14,7 @@ DevOpsDays in New Zealand is back again and this year we'll be in Auckland. Stay
 </p>
 
 <p>
-A Look back at last year in Wellington
+Check out last year's conference in Wellington
 </p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JuctqYgeyiI" frameborder="0" allowfullscreen></iframe>
@@ -94,4 +94,3 @@ A Look back at last year in Wellington
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
-
