@@ -2,6 +2,7 @@
 Title = "Boston Devopsdays 7-8 March 2011 Call for papers"
 Date = "2011-01-08T23:16:57+01:00"
 Tags = ["boston-2011"]
+aliases = ["/blog/2011/01/08/boston-devopsdays-7-8-march-2011/"]
 +++
 
 Another year, another devopsdays! This time in the marvelous city of Boston.
