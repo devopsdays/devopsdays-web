@@ -20,3 +20,4 @@
 /events/2015-siliconvalley/*  http://legacy.devopsdays.org/events/2015-siliconvalley/:splat     301!
 /events/2015-detroit/*        http://legacy.devopsdays.org/events/2015-detroit/:splat     301!
 /events/2015-warsaw/*         http://legacy.devopsdays.org/events/2015-warsaw/:splat     301!
+/events/2015-berlin/proposals/* http://legacy.devopsdays.org/events/2015-berlin/proposals/:splat     301!
