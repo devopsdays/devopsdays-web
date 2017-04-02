@@ -1,69 +1,77 @@
 +++
-title = "Welcome"
-type = "event"
-aliases = ["/events/2017-los-angeles", "/events/2017-losangeles"]
+Title = "devopsdays Auckland 2017"
+Type = "welcome"
+aliases = ["/events/2017-auckland/welcome"]
+Description = "devopsdays Auckland 2017"
 +++
-
-<h2>{{< event_start >}}</h2>
-
-<h3 style="color: black"> {{< event_link page="propose" text="The CFP is now open! Click here to propose a talk!" >}}</h3>
-
-<p>We are proud to announce 7th Annual DevOps Day LA, to be held Friday, March 3, 2017, co-located with <a href='http://www.socallinuxexpo.org'>SCALE 15x</a>, at the {{< event_link page="location" text="Pasadena Convention Center" >}}.</p>
-
-DevOps Day LA is a single day event held annually in Southern California. This volunteer organized conference is dedicated to the DevOps community, and professionals who wish to improve the interaction and integration between thee traditional silos of Development and Operations.
-
-<div style="clear: both"></div>
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
+<p>
+DevOpsDays in New Zealand is back again and this year we'll be in Auckland. Stay tuned for more info...
+</p>
+
+<p>
+Check out last year's conference in Wellington
+</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JuctqYgeyiI" frameborder="0" allowfullscreen></iframe>
+
 <div class = "row">
+  <div class = "col-md-2">
+    <strong>Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_start >}} - {{< event_end >}}
+  </div>
+</div>
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="location" text="Pasadena Convention Center" >}}
+    {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<!--
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
--->
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -83,6 +91,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
   </div>
 </div>
 
-<!--
+<!-- Uncomment if you added your city twitter name -->
+
 {{< event_twitter >}}
--->
