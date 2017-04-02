@@ -88,7 +88,7 @@ team_members: # Name is the only required field for team members.
     image: "gokul.jpg"
   - name: "Jack Teoh"
     employer: "Alkami Technology"
-#   bio: ""
+    bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
 #   facebook: ""
