@@ -18,7 +18,7 @@ Alternate parking options are available on <a href='http://en.parkopedia.com/par
 
 <h3>Hotel Room Block</h3>
 
-We have arranged for discounted hotel rooms at the <a href='https://www.starwoodmeeting.com/events/start.action?id=1608155800&key=AAD6BBD'>Sheraton Pasadena</a> and <a href='(http://www.hilton.com/en/hi/groups/personalized/P/PASPHHF-SCLE-20170227/index.jhtml?WT.mc_id=POG'>Hilton Pasadena</a>.
+We have arranged for discounted hotel rooms at the <a href='https://www.starwoodmeeting.com/events/start.action?id=1608155800&key=AAD6BBD'>Sheraton Pasadena</a> and <a href='http://www.hilton.com/en/hi/groups/personalized/P/PASPHHF-SCLE-20170227/index.jhtml?WT.mc_id=POG'>Hilton Pasadena</a>.
 Both hotels are offering rooms at $169/night (+tax).
 
 The Sheraton Pasadena is onsite at the Convention Center, while the Hitlon Pasadena is a short 5 minute walk from the venue.
