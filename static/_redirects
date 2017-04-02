@@ -20,3 +20,13 @@
 /events/2015-siliconvalley/*  http://legacy.devopsdays.org/events/2015-siliconvalley/:splat     301!
 /events/2015-detroit/*        http://legacy.devopsdays.org/events/2015-detroit/:splat     301!
 /events/2015-warsaw/*         http://legacy.devopsdays.org/events/2015-warsaw/:splat     301!
+/events/2015-berlin/proposals/* http://legacy.devopsdays.org/events/2015-berlin/proposals/:splat     301!
+/events/2015-amsterdam/proposals/* http://legacy.devopsdays.org/events/2015-amsterdam/proposals/:splat     301!
+/events/2015-minneapolis/proposals/* http://legacy.devopsdays.org/events/2015-minneapolis/proposals/:splat     301!
+/events/2015-ohio/proposals/* http://legacy.devopsdays.org/events/2015-ohio/proposals/:splat     301!
+/events/2016-istanbul/proposals/* http://legacy.devopsdays.org/events/2016-istanbul/proposals/:splat     301!
+/events/2016-london/proposals/* http://legacy.devopsdays.org/events/2016-london/proposals/:splat     301!
+/events/2016-oslo/proposals/* http://legacy.devopsdays.org/events/2016-oslo/proposals/:splat     301!
+/events/2016-saltlakecity/proposals/* http://legacy.devopsdays.org/events/2016-saltlakecity/proposals/:splat     301!
+/events/2016-toronto/proposals/* http://legacy.devopsdays.org/events/2016-toronto/proposals/:splat     301!
+/events/2016-vancouver/proposals/* http://legacy.devopsdays.org/events/2016-vancouver/proposals/:splat     301!
