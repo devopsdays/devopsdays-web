@@ -7,7 +7,7 @@ type = "event"
 +++
 We greatly value sponsors for this open event. If you are interested in sponsoring [drop us an email](mailto:organizers-amsterdam-2015@devopsdays.org).
 
-<h4>Please click <a href="DoDAmsterdam2015-SponsorDoc-v4.pdf">here</a> to download the Sponsor offering for Amsterdam 2015!</h4>
+<h4>Please click <a href="https://legacy.devopsdays.org/events/2015-amsterdam/sponsor/DoDAmsterdam2015-SponsorDoc-v4.pdf">here</a> to download the Sponsor offering for Amsterdam 2015!</h4>
 
 <hr>
 
