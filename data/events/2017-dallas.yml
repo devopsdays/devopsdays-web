@@ -152,6 +152,8 @@ sponsors:
     level: location_and_platinum
   - id: arresteddevops
     level: community
+  - id: devopslive
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -172,10 +174,11 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+# - id: bronze
+#   label: Bronze
   - id: community
     label: Community
+    max: 5
 
 program:
   - title: "Registration, Breakfast, and Sponsor Booths Open"
