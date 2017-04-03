@@ -2,6 +2,7 @@
 Title = "DevOpsDays Barcelona 2013"
 Date = "2013-08-26T14:02:27+01:00"
 Tags = ["2013", "barcelona"]
+aliases = ["/blog/2013/08/26/dod-barcelona-2013/"]
 
 +++
 

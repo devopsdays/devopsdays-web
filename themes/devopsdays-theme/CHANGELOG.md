@@ -1,5 +1,64 @@
 # Change Log
 
+## [1.7.0](https://github.com/devopsdays/devopsdays-theme/tree/1.7.0) (2017-03-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.1...1.7.0)
+
+**Implemented enhancements:**
+
+- add defined place on event contact page for organizer's role [\#463](https://github.com/devopsdays/devopsdays-theme/issues/463)
+- improve readability of future events sidebar - IDEA 18 [\#424](https://github.com/devopsdays/devopsdays-theme/issues/424)
+
+**Fixed bugs:**
+
+- Open CFP widget in footer shows CFP's that aren't open yet [\#462](https://github.com/devopsdays/devopsdays-theme/issues/462)
+- Duplicate theme.toml [\#458](https://github.com/devopsdays/devopsdays-theme/issues/458)
+
+## [1.6.1](https://github.com/devopsdays/devopsdays-theme/tree/1.6.1) (2017-03-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.0...1.6.1)
+
+**Fixed bugs:**
+
+- CTA buttons don't change color with custom masthead [\#456](https://github.com/devopsdays/devopsdays-theme/issues/456)
+
+## [1.6.0](https://github.com/devopsdays/devopsdays-theme/tree/1.6.0) (2017-03-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.2...1.6.0)
+
+**Implemented enhancements:**
+
+- Add support for background header image to event page - IDEA 41 [\#449](https://github.com/devopsdays/devopsdays-theme/issues/449)
+- Add theme documentation for end-users - IDEA 66 [\#443](https://github.com/devopsdays/devopsdays-theme/issues/443)
+
+**Fixed bugs:**
+
+- vertically align non-square sponsor logos [\#432](https://github.com/devopsdays/devopsdays-theme/issues/432)
+
+## [1.5.2](https://github.com/devopsdays/devopsdays-theme/tree/1.5.2) (2017-03-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.1...1.5.2)
+
+**Fixed bugs:**
+
+- CFPs which are not yet open show on the open list [\#448](https://github.com/devopsdays/devopsdays-theme/issues/448)
+- events with overlapping dates have problems displaying [\#444](https://github.com/devopsdays/devopsdays-theme/issues/444)
+
+## [1.5.1](https://github.com/devopsdays/devopsdays-theme/tree/1.5.1) (2017-03-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.0...1.5.1)
+
+**Fixed bugs:**
+
+- schema.org for events should only display if location\_address is set [\#445](https://github.com/devopsdays/devopsdays-theme/issues/445)
+
+## [1.5.0](https://github.com/devopsdays/devopsdays-theme/tree/1.5.0) (2017-03-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.1...1.5.0)
+
+**Implemented enhancements:**
+
+- Enable twitter cards with images on all pages - IDEA 60 [\#436](https://github.com/devopsdays/devopsdays-theme/issues/436)
+- center the city names under their logo squares [\#433](https://github.com/devopsdays/devopsdays-theme/issues/433)
+
+**Fixed bugs:**
+
+- fix the sharing card so all text is readable [\#434](https://github.com/devopsdays/devopsdays-theme/issues/434)
+
 ## [1.4.1](https://github.com/devopsdays/devopsdays-theme/tree/1.4.1) (2017-03-25)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.0...1.4.1)
 

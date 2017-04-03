@@ -40,7 +40,7 @@ team_members: # Name is the only required field for team members.
   - name: "John Dyer"
   - name: "Jeremy Duvall"
     twitter: "jduv2683"
-  - name: "Maruene Preas"
+  - name: "Maurene Preas"
   - name: "Greg Cordell"
   - name: "Jim Song"
   - name: "Andre Thenot"
@@ -64,9 +64,19 @@ sponsors:
     level: gold
   - id: gcp
     level: gold
+  - id: newrelic
+    level: gold
+  - id: redhat
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: thoughtworks-services
+    level: gold
   - id: victorops
     level: silver
   - id: relus
+    level: silver
+  - id: appdynamics
     level: silver
   - id: sonatype
     level: bronze

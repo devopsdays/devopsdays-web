@@ -13,7 +13,7 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
+### Even if you don't propose a talk, please consider <a href="mailto:proposals-dallas-2017@devopsdays.org?subject=Request%20to%20help%20comment%20and%20vote%20on%20CFP%20selections...&body=">asking for permission to comment and cast your vote on proposals submitted by others.</a>
 
 Our main criteria to make it to the top selection are:
 
@@ -21,12 +21,10 @@ Our main criteria to make it to the top selection are:
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
-	<li>Description or abstract</li>
-</ol>
+<strong>How to submit a proposal:</strong> Go to the following website and follow the instructions on that site.<br> 
+## <a href="https://www.papercall.io/dod-dfw-2017">devopsdays DFW 2017 - PaperCall.io</a><br>
+If you run into any problems, please don't hesitate to contact us by email at [{{< email_proposals >}}].
+
 <strong>Rules:</strong>
 <ul>
 	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>

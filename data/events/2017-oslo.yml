@@ -19,8 +19,6 @@ cfp_link: "https://devopsdaysoslo.typeform.com/to/v1LcjK"
 registration_open: "true"
 registration_link: "ihttps://www.eventbrite.co.uk/e/devopsdays-oslo-2017-tickets-32288225953"
 
-event_logo: "logo.jpg"
-
 # Location
 #
 coordinates: "59.908029, 10.744314" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html

@@ -47,6 +47,7 @@ team_members: # Name is the only required field for team members.
   - name: "Laura Wickett"
   - name: "Paul Czarkowski"
   - name: "Katelyn Parker"
+  - name: "Carl Perry"
 
 organizer_email: "organizers-austin-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-austin-2017@devopsdays.org" # Put your proposal email address here
@@ -99,6 +100,9 @@ sponsors:
     level: gold
   - id: nvisium
     level: gold
+  - id: ibm
+    level: gold
+    url: https://developer.ibm.com/code/
   - id: duo
     level: silver
   - id: solutionsiq
@@ -108,6 +112,10 @@ sponsors:
     url: "https://www.sailpoint.com/company/careers"
   - id: elastic
     level: silver
+  - id: rackn
+    level: silver
+  - id: atxtechevents
+    level: media
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,3 +136,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
+    max: 5

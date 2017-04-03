@@ -7,16 +7,16 @@
     {
       "name": "mattstratton",
       "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "utilities/**/*", "themes/**/*", "content/page/**/*", "static/_redirects"], 
-      "skipTeamPrs": false 
+      "skipTeamPrs": true 
     },
         {
       "name": "MikeRosTX",
-      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "themes/**/*", "content/page/**/*"], 
       "skipTeamPrs": true 
     },
         {
       "name": "phrawzty",
-      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"], 
+      "files": [".gitignore","config.toml","config-windows.toml",  "themes/**/*", "content/page/**/*"], 
       "skipTeamPrs": true 
     },
     {
@@ -27,7 +27,7 @@
   ],
   "findPotentialReviewers": false,
   "userBlacklist": [], 
-  "userBlacklistForPR": [],
+  "userBlacklistForPR": ["mattstratton","bridgetkromhout"],
   "requiredOrgs": ["devopsdays"],
   "skipAlreadyAssignedPR": false, 
   "skipAlreadyMentionedPR": false,
