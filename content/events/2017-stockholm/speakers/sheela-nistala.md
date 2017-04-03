@@ -1,7 +1,7 @@
 +++
 Title = "Sheela Nistala"
 Twitter = "sheelanistala"
-image = ""
+image = "sheela-nistala.jpg"
 type = "speaker"
 linktitle = "sheela-nistala"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Arup Chakrabarti"
 Twitter = "arupchak"
-image = ""
+image = "arup-chakrabarti.jpg"
 type = "speaker"
 linktitle = "arup-chakrabarti"
 +++

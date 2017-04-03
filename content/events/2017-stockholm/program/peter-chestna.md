@@ -2,9 +2,20 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "Full Spectrum Engineering – The new full-stack"
 Type = "talk"
 Speakers = ["peter-chestna"]
 +++
+Software development is changing and so are the roles that developers need to play. Companies have been filling their ranks with what was called full-stack engineers. Developers were versed in software development from database to GUI and everything in between. This was necessary in the age of monolithic application architectures.
 
-Pete joined Veracode in 2006 as a software developer and was instrumental in delivering the first version of Veracode’s service to customers. Later, as Director of Platform Engineering, Pete built and managed the Agile teams responsible for delivering Veracode’s SaaS platform. He also built the first DevOps team to deliver microservices. He is a certified product owner and scrum master. Pete also spearheaded Veracode’s initiative to automate the use of Veracode products into the company’s development processes called project Purina. Using this experience, he has spoken with hundreds of Veracode customers to help them set up similar programs.
+ The move to DevOps and microservices demands new skills. Now a developer must become fluent in software testing, deployment, telemetry and even security. It is less about multi-layer and more about multi-discipline.
+
+ In this talk, Pete Chestna, Director of Developer Engagement will share his insights into this transformation, the opportunity that it presents to developers as well as practical advice to get started. Don’t miss the shift. Get ahead of it!
+
+ What you will learn:
+
+ 1. How leaders used to think about the devs they hire
+
+ 2. What is the new breed of developer called the Full Spectrum Developer
+
+ 3. How can you get there ahead of demand

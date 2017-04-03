@@ -1,7 +1,7 @@
 +++
 Title = "Katherine Daniels"
 Twitter = "beerops"
-image = ""
+image = "katherine-daniels.jpg"
 type = "speaker"
 linktitle = "katherine-daniels"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Peter Örneholm"
 Twitter = "PeterOrneholm"
-image = ""
+image = "peter-orneholm.jpg"
 type = "speaker"
 linktitle = "peter-orneholm"
 

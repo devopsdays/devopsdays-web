@@ -1,7 +1,7 @@
 +++
 Title = "Jon Cowie"
 Twitter = "jonlives"
-image = ""
+image = "jon-cowie.png"
 type = "speaker"
 linktitle = "jon-cowie"
 
