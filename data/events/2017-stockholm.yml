@@ -21,9 +21,8 @@ location: "Stockholm, Ballroom 12" # Defaults to city, but you can make it the v
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
+  - name: program
   - name: propose
-    #url: https://devopsdayssthlm.typeform.com/to/eMaXqd
   - name: location
   - name: registration
   - name: sponsor
@@ -44,6 +43,11 @@ team_members: # Name is the only required field for team members.
     twitter: "jessalyn"
   - name: "Lowe Schmidt"
     twitter: "loweschmidt"
+    bio: "Lowe is currently an operations engineer for a major games development company, in his free time he brews beer, pets his cat and tries his best to be a dad. In a previous life he organized music clubs and festivals in the alternative electronic scene"
+    github: "lsc"
+    linkedin: "https://www.linkedin.com/in/loweschmidt/"
+    website: "http://www.loweschmidt.se"
+    image: "lowe-schmidt.jpg"
   - name: "Niklas Åkerlund"
     twitter: "vniklas"
 organizer_email: "organizers-stockholm-2017@devopsdays.org" # Put your organizer email address here
@@ -90,3 +94,169 @@ sponsor_levels:
     max: 4
   - id: community
     label: Community
+program:
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-05-08
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-05-08
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "h-waldo-grunenwald"
+    type: talk
+    date: 2017-05-08
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "eric-maxwell"
+    type: talk
+    date: 2017-05-08
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2017-05-08
+    start_time: "10:15"
+    end_time: "10:35"
+  - title: "katherine-daniels"
+    type: talk
+    date: 2017-05-08
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2017-05-08
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "Lunch"
+    type: custom
+    date: 2017-05-08
+    start_time: "11:35"
+    end_time: "12:45"
+  - title: "peter-chestna"
+    type: talk
+    date: 2017-05-08
+    start_time: "12:45"
+    end_time: "13:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-05-08
+    start_time: "13:15"
+    end_time: "13:25"
+  - title: "Ignites"
+    type: custom
+    date: 2017-05-08
+    start_time: "13:25"
+    end_time: "13:55"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-05-08
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-05-08
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-05-08
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-05-08
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Close Day"
+    type: custom
+    date: 2017-05-08
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Drinks and mingle"
+    type: custom
+    date: 2017-05-08
+    start_time: "17:30"
+    end_time: "20:00"
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-05-09
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-05-09
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jon-cowie"
+    type: talk
+    date: 2017-05-09
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "peter-orneholm"
+    type: talk
+    date: 2017-05-09
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2017-05-09
+    start_time: "10:15"
+    end_time: "10:35"
+  - title: "arup-chakrabarti"
+    type: talk
+    date: 2017-05-09
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "sheela-nistala"
+    type: talk
+    date: 2017-05-09
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "Lunch"
+    type: custom
+    date: 2017-05-09
+    start_time: "11:35"
+    end_time: "12:45"
+  - title: "gerie-owen"
+    type: talk
+    date: 2017-05-09
+    start_time: "12:45"
+    end_time: "13:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-05-09
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Ignites"
+    type: custom
+    date: 2017-05-09
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-05-09
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-05-09
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-05-09
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-05-09
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Closing"
+    type: custom
+    date: 2017-05-09
+    start_time: "17:00"
+    end_time: "17:15"
