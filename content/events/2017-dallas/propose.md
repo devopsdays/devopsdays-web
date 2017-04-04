@@ -1,7 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "propose"
+title = "Propose"
 type = "event"
+description = "Propose a talk for DevOpsDays Dallas 2017! CFP opens on April 4th and closes on June 30th."
 +++
   {{< cfp_dates >}}
 

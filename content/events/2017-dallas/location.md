@@ -1,7 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "location"
+title = "Location"
 type = "event"
+description = "DevOpsDays Dallas 2017 will be taking place at the Capital One Conference Center, 8036 Dominion Pkwy, Plano, TX 75024"
 
 +++
 <div style="float:left;">

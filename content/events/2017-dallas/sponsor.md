@@ -1,8 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "sponsor"
+title = "Sponsor"
 type = "event"
-
+description = "Interested in sponsoring DevOpsDays Dallas 2017? We greatly value sponsors for this open event and could not do it without their support."
 
 +++
 
@@ -102,7 +102,11 @@ This year we have the privilege of hosting devopsdays DFW at Capital One Confere
       <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo on website <br />      Logo on main room signage <br />      Logo on email communication      </td>      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td>Logo on website <br />
+      Logo on main room signage <br />
+      Logo on email communication
+      </td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
       <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
       <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
     </tr>

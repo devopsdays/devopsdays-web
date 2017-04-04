@@ -1,6 +1,6 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "welcome"
+title = "Welcome"
 type = "welcome"
 aliases = ["/events/2017-dallas/welcome"]
 description = "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW mMetroplex."
