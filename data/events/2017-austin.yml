@@ -103,6 +103,12 @@ sponsors:
   - id: ibm
     level: gold
     url: https://developer.ibm.com/code/
+  - id: collabnet
+    level: gold
+    url: https://www.collab.net/DevOps
+  - id: facebook
+    level: gold
+    url: https://code.facebook.com/posts/pe/
   - id: duo
     level: silver
   - id: solutionsiq
@@ -116,6 +122,8 @@ sponsors:
     level: silver
   - id: atxtechevents
     level: media
+  - id: sonatype
+    level: lanyard
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

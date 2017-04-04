@@ -10,9 +10,9 @@ type = "event"
 875 West Peachtree St., NW<br>
 Atlanta, GA 30309
 
-## Driving
+## Driving & Parking
 
-Parking will be provided free of charge.
+Free parking is available during conference hours in the lot behind our venue, The Historic Academy of Medicine. (Cars should be moved from the lot after 5 pm.)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3316.3149764327604!2d-84.38891028492215!3d33.77836348068135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f50467cecb6c7f%3A0x711487abe50b65de!2sAcademy+of+Medicine!5e0!3m2!1sen!2sus!4v1454538897102" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 

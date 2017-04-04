@@ -101,6 +101,12 @@ sponsors:
     level: silver
   - id: appdynamics
     level: silver
+  - id: logz
+    level: gold
+  - id: sps_commerce
+    level: gold
+  - id: apcera
+    level: silver
 
 sponsors_accepted : "yes"
 

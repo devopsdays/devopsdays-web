@@ -71,9 +71,12 @@ team_members: # Name is the only required field for team members.
     bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence company focused on software and IoT devices to monitor when patients do and don't take their medicine. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of Electronic Health Record software and services to hospitals. Ryan is focused on successful technology implementations across the healthcare sector and sees DevOps as a powerful tool in the business value stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike trails and making sawdust in his basement workshop."
     linkedin: https://www.linkedin.com/in/ryanmcnair/
   - name: "Tom Martin"
-    employer: Codero Hosting
-    image: tom-martin.jpg
+    employer: Twovi.com
+    image: thomas-martin.jpg
     linkedin: https://www.linkedin.com/in/thomas-martin-a020a6a/
+    twitter: https://twitter.com/twoflowers
+    website: https://twovi.com/
+    bio: "Father, Husband, Cat Herder, Generally just gets shit done."
   - name: "Chris Stein"
     employer: Cerner Corporation
     image: chris-stein.jpg
@@ -89,9 +92,6 @@ team_members: # Name is the only required field for team members.
     employer: VML
     image: bert-weidt.jpg
     linkedin: https://www.linkedin.com/in/bertweidt/
-  - name: "Josiah Berkebile"
-    employer: Oalva
-    linkedin: https://www.linkedin.com/in/garrett-berkebile-29b8299/
   - name: "Rebecca Sowers"
     image: rebecca-sowers.jpg
     employer: Cerner Corporation
