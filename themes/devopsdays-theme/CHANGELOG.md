@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.7.1](https://github.com/devopsdays/devopsdays-theme/tree/1.7.1) (2017-04-05)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.0...1.7.1)
+
+**Implemented enhancements:**
+
+- Disable generation of unnecessary content [\#467](https://github.com/devopsdays/devopsdays-theme/issues/467)
+
+**Fixed bugs:**
+
+- Extra space in welcome pages  [\#472](https://github.com/devopsdays/devopsdays-theme/issues/472)
+- removing broken-link home icon on events page [\#468](https://github.com/devopsdays/devopsdays-theme/issues/468)
+
 ## [1.7.0](https://github.com/devopsdays/devopsdays-theme/tree/1.7.0) (2017-03-31)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.1...1.7.0)
 
