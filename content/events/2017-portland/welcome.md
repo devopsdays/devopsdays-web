@@ -90,6 +90,4 @@ Our event will be August 1st and 2nd. However, keep an eye out for a special fol
 </div>
 
 
-<!--
 {{< event_twitter >}}
--->
