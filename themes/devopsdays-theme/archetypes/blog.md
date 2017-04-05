@@ -1,6 +1,0 @@
-+++
-Description = ""
-title = ""
-Author = ""
-
-+++
