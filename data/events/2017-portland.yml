@@ -86,6 +86,10 @@ sponsors:
       level: gold
     - id: symantec
       level: bronze
+    - id: aws
+      level: gold
+    - id: victorops
+      level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
