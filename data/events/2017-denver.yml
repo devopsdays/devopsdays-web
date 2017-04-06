@@ -202,7 +202,7 @@ program:
   - title: "Open Space #3"
     type: custom
     date: 2017-04-10
-    start_time: "16:00"
+    start_time: "16:05"
     end_time: "16:35"
 
   - title: "Close Day"
