@@ -11,7 +11,11 @@ type = "event"
 <div style="text-align:center;font-weight:bold;font-size:175%;margin-bottom:1em">
 <a href="https://goo.gl/forms/TdaHWw0aISc8VVNt2">Submit a Session Proposal</a>
 </div>
+{{< cfp_dates >}}
 <hr>
+
+
+
 
 Devopsdays Philadelphia is a single track, two day event. The format will include main track presentations, <a href="/pages/ignite-talks-format">Ignite talks</a>, and <a href="pages/open-space-format">Open Spaces sessions</a>. We're soliciting proposals for 30 minute presentations and Ignite style lightning talks.
 
