@@ -20,27 +20,27 @@ aliases = ["/events/2017-vancouver"]
     <p style="font-size:large;">UBC Robson Square</p>
     <p>DevOpsDays is returning to Vancouver in 2017.</p>
     <p><a href="http://devopsdays.org/">DevOpsDays</a> is a self-organizing conference for DevOps practitioners.</p>
-    <!-- 
-<p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p>
- -->
+    <p><a href="/events/2017-vancouver/guide.pdf">Download the event guide.</a></p>
+</div>
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
 <h2>Call for proposals!</h2>
 We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZb5t2">speaker submissions!</a>.  Please also review our <a href="https://docs.google.com/document/d/1uOqMhTbrSPQ88EWHvTBhr1TOkMS6Tgu2ZIkqE2BT2Bw/edit#heading=h.yfnrdtyvxdnm">speaker submission guidelines</a> when considering a talk submission.
-</div>
-</div>
+</div> -->
+
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Register</h2>
         <p><a href="https://www.eventbrite.ca/e/devops-days-vancouver-2017-mar-31st-apr-1st-tickets-29634403298">Tickets are now on sale!</a>
     </div>
-
-<div style="width:44%;margin:3% 1em;float:left;">
+</div>
+    
+<!-- <div style="width:44%;margin:3% 1em;float:left;">
 <h2>Sponsor</h2>
 <p>Help support this event with one of the sponsor packages.</p>
 <p><a href="/events/2017-vancouver/sponsor/">Sponsor DevOpsDays Vancouver 2017!</a></p>
-</div>
-</div>
+</div> -->
+
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Location</h2>
@@ -52,6 +52,7 @@ We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZ
       <p>Two full days of content. Presentations and ignite talks in the mornings, open spaces in the afternoons.</p>
     </div>
 </div>
+
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Conduct</h2>
@@ -64,12 +65,12 @@ We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZ
         <p><a href="/events/2017-vancouver/contact/">Contact Information</a></p>
     </div>
 </div>
-<!--
-<div style="text-align:center;width:94%;margin:3% 1em;">
+
+<!-- <div style="text-align:center;width:94%;margin:3% 1em;">
     <h2>Livestream</h2>
     <p>The conference will be live streamed</p>
-</div>
--->
+</div> -->
+
 <div style="width:100%;overflow:hidden;">
     <div style="width:44%;margin:3% 1em;float:left;text-align:right;">
         <h2>Twitter</h2>
@@ -81,6 +82,7 @@ We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZ
         <h3><a href="http://webchat.freenode.net/?channels=%23vandevops&uio=d4" style="text-decoration:none;">irc.freenode.net #vandevops</a></h3>
     </div>
 </div>
+
 <div style="text-align:center;width:94%;margin:3% 1em;">
     <h2>Subscribe to our Mailing List</h2>
     <!-- Begin MailChimp Signup Form -->
@@ -130,12 +132,14 @@ We've moved to a google form for our <a href="https://goo.gl/forms/ThJocIXxDofTZ
                 <div id="mce-responses" class="clear">
                     <div class="response" id="mce-error-response" style="display:none"></div>
                     <div class="response" id="mce-success-response" style="display:none"></div>
-                </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                </div>    
+<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
                 <div style="position: absolute; left: -5000px;"><input type="text" name="b_d082c1022e00534cb16870298_f9f59f8a36" tabindex="-1" value=""></div>
                 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
             </div>
-        </form>
+         </form>
     </div>
-    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='EMPLOYER';ftypes[4]='text';fnames[3]='JOBTITLE';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-    <!--End mc_embed_signup-->
+    <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+    <script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='EMPLOYER';ftypes[4]='text';fnames[3]='JOBTITLE';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+    <!-- End mc_embed_signup --> 
 </div>

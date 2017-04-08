@@ -1,23 +1,30 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
 title = "welcome"
-type = "event"
-aliases = ["/events/2017-dallas"]
+type = "welcome"
+aliases = ["/events/2017-dallas/welcome"]
+description = "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW mMetroplex."
 
 +++
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
+<br>
 
-**DevOpsDays was a huge success last year and is back in {{< event_location >}} for our second year in 2017!**<br>
+<img style="float: left; max-width: 300px; padding: 0px 20px 20px 0px" src="/events/2017-dallas/logo.png">
+
 Come join us and share on August 29 & 30 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the C.A.M.S. principles AWESOME!!!
 
 **NOTE:** On August 28th, we will be having a Leadership Summit. **(BY INVITATION ONLY)**<br>
-We're still working out all the details, more to come.
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div>
+We're still working out all the details, more to come. 
+<br> <br>
+This year the event will be held at
+{{< event_link page="location" text="Capital One Conference Center" >}} in Plano, TX. 
 
+<!-- div style="font-weight: bolder; font-size: 150%">Check out this year's {{< event_link page="program" text="awesome program!" >}}</div>
+
+<div style="clear: both"></div> -->
+<br> <br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -48,15 +55,6 @@ We're still working out all the details, more to come.
 
 <!-- <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
@@ -81,6 +79,15 @@ We're still working out all the details, more to come.
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Do you have something interesting to tell us? Propose a talk!" >}}
+  </div>
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">

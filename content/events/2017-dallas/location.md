@@ -4,8 +4,11 @@ title = "location"
 type = "event"
 
 +++
+<div style="float:left;">
+  <img alt="DevOpsDays Dallas 2017" src="/events/2017-dallas/capone-confcntr.jpg" style="max-width: 100%;">
+</div><br>
 
-Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+##### Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
 
 ### <b>Conference location:</b> 
 ### Capital One Conference Center<br>
