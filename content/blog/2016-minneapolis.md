@@ -5,7 +5,7 @@ Tags = ["2016"]
 Author = "Bridget Kromhout"
 +++
 
-<img src="https://raw.githubusercontent.com/devopsdays/devopsdays-web/master/static/events/2016-minneapolis/logo.png" alt="" style="max-width: 90%;" />
+<img src="/content/blog/2016-minneapolis/logo.png" alt="" style="max-width: 90%;" />
 
 <br>
 
@@ -20,7 +20,7 @@ We had about 700 people attend the event. (For comparison, 2015 had about 350 an
   </div>
 
   <div class = "col-md-4">
-    <a href="https://photos.google.com/u/3/share/AF1QipObly9yulZrV3jxVK3Q8FoytH0kGIO40gruyQtUNis7wHKyCaeOKYTMSTaoL7m68A/photo/AF1QipN8cvmyrLM7UMMIE5WYv5AIfnFArWxnVaJAS6Ha?key=M0xqTHYwd2M4aURvcFVZdGpHNGZjb2YybmVuSURR"><img src="https://lh3.googleusercontent.com/LRRWtSLLSQblSRiUJdcTUTXz1q4UONxjcJ_9Y0bt8uD9Lnd3Ubj8Debn72TK9NVZno5-USxsTH_UzcnzohTPq1O8O1OjWMpDwScZk4NCnnEolUeyAN9QvCbT5livlCNqzCiCwhnQbp2hcQT0Hw-BNH08ZQxgXOmF-WnNHUq0JIdO0kAsimk-eg6tgaeNDfJbx5tPymhGDkP19_1mCiFkknsEW_B-3WfAv1IOqftgxn9LsSrQHrxhX1sPhcSNTP8xWn9gV92OlkCi97xdfCxwVL86ypVTZIM3GGLeY-gOUkaa1GNJX4cT9zb1t76owRgnb5T4f2PPkDnldk2Xk26ygJwNzq8guoFAvwDHJ_njXbAk0CqZEobTakTD2uiPVx3iBXoiacrHbjK9a8aqbqwmeeJdf5odqxoAy4zkmRqkwvRBiGTvfvR6OwQ1Tb3dTIh6YHVVoz5GHPlRlzVTTlEoKUFRkNH0q77s_P52qMN1AScWENnAOkr3cw83i_0t2YvlQOJYLgi3OcPsEKJQl8lYzGzj_1a1-KP-SWIeSTM6LVDxiDnFSPChX3MLUcrTh4-tZXbZ4DGDfzt0pczs688TrmCPa3Aer98=w917-h610-no" style="max-width: 90%" /></a>
+    <img src="/content/blog/2016-minneapolis/attendees.jpg" style="max-width: 90%" />
 <br>
 Attendees listening to talk
 <br>
@@ -36,7 +36,7 @@ Diversity and inclusion are important to the organizers, and many attendees said
 <div class = "row">
 
   <div class = "col-md-4">
-    <a href="https://photos.google.com/u/3/share/AF1QipObly9yulZrV3jxVK3Q8FoytH0kGIO40gruyQtUNis7wHKyCaeOKYTMSTaoL7m68A/photo/AF1QipOOtTJZgwOtyuxO9jzontLQKXnaXwjKYV7xv_BD?key=M0xqTHYwd2M4aURvcFVZdGpHNGZjb2YybmVuSURR"><img src="https://lh3.googleusercontent.com/8UESAp2m_wTiZzdOOIkXnF7813Y--H3twEAPNdU5nQZvBvM3nPfkCmEM1LooUka9M9-H2BfCEYTUoIxmnQHtQ0H8An0ibJm1N4XWlJ2-B-b7YhB2Q1dVgW_weNV4RTu4AjiM2Dyjnv_CSD2hHwX67PeUXMuXfIt9A_Hz5u2YHbAugfuYr4p5oQuJvdlKJhHSPCKM4KoU4_1VXLiRa-ruaToc6BD0RBI0AibFG_m2NomD2WlL6J8QpZyVtgOQdwhM2IzCbARrBs7rI3vpnrvu59-wpH3wwau5IBK34_Yg3TGAkcTlloha_QsPygxittc7w0_zkzs4FXqHZ87SkXoXhd_lwg4ELUya2ntMtYBM1gCAWXLxHZQ7N-_pa4TOBs8m_ivYnX0kJZgmzfabSDD2W6Q1lWGL39kEqYTMtHwhDDT8MBvTF3iOs2OSij00D4sOzMel9SwDRFVbgD1A8jxuvVSrTb34C_q7F8mQSAO95fvnWu5ihIOZLqLn5FCfPp_NMoX99Phbk9YH_pXFXPa1pMma9gqqPl8ne8hULmSRwnPKv7XAaUVzRB_RQRx-BvSZrRgqkoF3yrsBwGMxJgbrL6YDanCw1Wo=w892-h669-no" style="max-width: 90%" /></a>
+    <img src="/content/blog/2016-minneapolis/jeff-smith.jpg" style="max-width: 90%" />
 <br>
 Jeff Smith presenting
 <br>
@@ -60,7 +60,7 @@ The organizer team said goodbye this year to Tom Duffield, who moved out of town
   </div>
 
   <div class = "col-md-4">
-    <a href="https://photos.google.com/u/3/share/AF1QipObly9yulZrV3jxVK3Q8FoytH0kGIO40gruyQtUNis7wHKyCaeOKYTMSTaoL7m68A/photo/AF1QipNUHvhf42pCOXgJn6NOZCN8oXBNcl4FBWvgtqVO?key=M0xqTHYwd2M4aURvcFVZdGpHNGZjb2YybmVuSURR"><img src="https://lh3.googleusercontent.com/_2JXYR65v0wBOMhhUtCQx_GoQz35XhM7wsG3eqAkQqjWeXfDp2NMLqLOGz6HpFjivNECkOM7ICzElWgIUmhN7XXVRdYZ_9YPJPRpEzS4IJHaoABpCWfbIRvWlmZR72XXeogFP-c_hKb_Aocv_twfkH1ivBZ_Ui3JpkpYLjgJtbGkz0SukkALnkPC3Q83NhgrR3bffFefGtZ9Z0ncMoZJ3r3CXgOz3J86FG6iiGm3dkkZ37EHGj2_JMpSxDc1ep8YWleR9YuLI4M6eD4gJ3gIOopQYryADNv3zMeIzGv1O_Txy7cIsco7NAw5jJAcBhZmwOajNTbASj8pZH1fyi80QymOUX8CW1GGTxpaO8PXnTzsvPZ3pppk1ZzBZu1gnW5IKC3xMjRPRSf_Lp7SZSIWCjR16W2I6if4UuCZP67Y9g4GfunzUabj-zAZcYGU8IqfRjIyn14NJvXj3ZL_LFESoU1_mHsPdgwIXEjToW73gcrHLIbqyhv_or3fdGyoo87wu5MW0vgK4DnDp3YORo4xcaBFRMB1tD484vQGIbgqyWRh8Om6ZDKGcoEntwlKtMdQRQ6Dn2csIcbG_h18KUvVUERFOAM43NI=w640-h426-no" style="max-width: 90%" /></a>
+    <img src="/content/blog/2016-minneapolis/sammi-bridget.jpg" style="max-width: 90%" />
 <br>
 Samantha Grumdahl & Bridget Kromhout
 <br>
@@ -72,7 +72,7 @@ Photo by Nell Alt (& t-shirts by Molly Watman)
 <div class = "row">
 
   <div class = "col-md-4">
-  <a href="https://photos.google.com/u/3/share/AF1QipObly9yulZrV3jxVK3Q8FoytH0kGIO40gruyQtUNis7wHKyCaeOKYTMSTaoL7m68A/photo/AF1QipMCVFDPVSFWvoLYPLgaD2bXVOpnoaT0RYEROtyt?key=M0xqTHYwd2M4aURvcFVZdGpHNGZjb2YybmVuSURR"><img src="https://lh3.googleusercontent.com/9r-Ol8_hxP46vQkEQquVpdprkMydX6e30mTz5jOtA_guD35Hl4vw9mEkH6iTdM2UFH7FMLM6vq6Qs43zWrQpTQrA_p1CG4CnrLeWGy5UZdY_a5pGhpGIOQSrTL6r5K79ONa7nOsXteGVBEUf4tZbOCFMO9PF3aUhOPT4e2T8tOjSnx9BBNiUzTp8V7LFADaB2yskPsOsu0ICO2oyEaD6KKcyWtj89ie3VOuDzeXnXDRCmZqU9V3uNRhkW-5nklMIpCGTRUEKZdbJE2503UDXZwwJJai7FySI5wNzBabBWoB6Byei7YGNw_mE_j--AxILxH37ihYMVWKEyOD2oGVAdw-9QKK9rrJ8bBVw0vBvi-9k26UwvTcgPxkjraXHA7miERqk3GtsecIokSe9ZFujlYblKyns4ikhM01tf_6XsOdd7KGhFq4pkvFFJRp1W-XS7jJNEoQSQNuI8FsmwlCkgKB9OUI-mvQaW2uUspVD86l7I2Scdxe2YX2Ssaf--7_WU1Wk7v3V0JEKzNCfUBDARZp7CUTQRlmCSmGo2xx8cGQgb0iLLJBipE_owyTxu_u6us259kefCIG7C4A2RhTK2bX5vmzFCdQ=w892-h669-no" style="max-width: 90%" /></a>
+  <img src="/content/blog/2016-minneapolis/tracey-treat.jpg" style="max-width: 90%" />
 <br>
 Tracey Treat presenting
 <br>
