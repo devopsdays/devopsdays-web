@@ -109,6 +109,10 @@ sponsors:
   - id: facebook
     level: gold
     url: https://code.facebook.com/posts/pe/
+  - id: jfrog
+    level: gold
+  - id: appdynamics
+    level: gold
   - id: duo
     level: silver
   - id: solutionsiq
