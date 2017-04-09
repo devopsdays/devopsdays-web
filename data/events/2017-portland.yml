@@ -90,6 +90,8 @@ sponsors:
       level: gold
     - id: victorops
       level: silver
+    - id: twistlock
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
