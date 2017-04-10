@@ -40,7 +40,7 @@ aliases = ["/events/2017-minneapolis"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    We're currently reviewing proposals for 30min talks. Ignite proposals will open soon.
   </div>
 </div>
 
