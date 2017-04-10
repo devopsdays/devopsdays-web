@@ -116,7 +116,7 @@ Donnie Berkholz, Heather Mickman, Tony Notto, Samantha Grumdahl, Andy Domeier, J
   </div>
 
   <div class = "col-md-4">
-    <a href="https://www.flickr.com/photos/ben-zvan-photography/28380977631/"><img alt="organizers {{ $e.city }} {{ $e.year }}" src="https://c8.staticflickr.com/9/8536/28380977631_caa7a404d9_z.jpg" style="max-width: 90%; margin:5%;" /></a>
+    <a href="https://www.flickr.com/photos/ben-zvan-photography/28380977631/"><img alt="organizers {{ $e.city }} {{ $e.year }}" src="/content/blog/2016-minneapolis/organizers.jpg" style="max-width: 90%; margin:5%;" /></a>
 <br>
 <a href="https://www.flickr.com/photos/ben-zvan-photography/28380977631/">Photo by Ben Zvan</a>
   </div>
