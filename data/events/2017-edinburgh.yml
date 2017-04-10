@@ -33,13 +33,24 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Matthew Slane"
     employer: "Skyscanner"
+    bio: "Lorum ipsum."
+    image: "matt.jpg"
     twitter: "@mjslane"
   - name: "Maria Gutierrez"
     employer: "Freeagent"
+    bio: "Lorum ipsum."
+    image: "maria.jpg"
+    twitter: "@mariagutierrez"
   - name: "Nick Goodall"
     employer: "Adobe"
+    bio: "Lorum ipsum."
+    image: "nick.jpg"
   - name: "Ryan Crawford"
     employer: "Skyscanner"
+    bio: "Senior Technical Manager, University of St Andrews alumni and inventor of two international patents published under the Patent Cooperation Treaty."
+    image: "ryan.jpg"
+    twitter: "@edinburghryan"
+
 organizer_email: "organizers-edinburgh-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2017@devopsdays.org" # Put your proposal email address here
 
@@ -50,6 +61,8 @@ sponsors:
   #   level: gold
   # - id: arresteddevops
   #   level: community
+   - id:  cirrushq
+     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -66,5 +79,5 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+#  - id: community
+#    label: Community
