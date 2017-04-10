@@ -3,6 +3,7 @@ date = "2016-08-24T11:29:13-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-minneapolis"]
+description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
 
 +++
 
