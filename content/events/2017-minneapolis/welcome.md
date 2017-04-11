@@ -3,6 +3,7 @@ date = "2016-08-24T11:29:13-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-minneapolis"]
+description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
 
 +++
 
@@ -40,7 +41,7 @@ aliases = ["/events/2017-minneapolis"]
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    We're currently reviewing proposals for 30min talks. Ignite proposals will open soon.
   </div>
 </div>
 

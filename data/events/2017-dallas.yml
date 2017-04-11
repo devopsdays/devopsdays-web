@@ -3,7 +3,7 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW mMetroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -150,6 +150,8 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id: pivotal
+    level: gold
   - id: arresteddevops
     level: community
   - id: devopslive
