@@ -115,7 +115,7 @@ ga_tracking_id: "UA-93890142-1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted: "no"
+sponsors_accepted: "yes"
 #sponsors:
 #  - id: pivotal
 #    level: gold
