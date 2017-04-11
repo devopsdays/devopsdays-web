@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: justification
     icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 
