@@ -1,6 +1,6 @@
 +++
 Title = "Mykel Alvis"
-Twitter = "eldondev"
+Twitter = "mykelalvis"
 image = "mykel-alvis.jpg"
 type = "speaker"
 linktitle = "mykel-alvis"
