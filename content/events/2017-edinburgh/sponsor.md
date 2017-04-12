@@ -5,63 +5,31 @@ type = "event"
 
 
 +++
-
-We greatly value sponsors for this open event.  Gold, Silver and Bronze sponsorship packages are described below, an event prospectus will follow shortly.  Please drop us an email at [{{< email_organizers >}}] if you are interested in sponsoring.
+<h2>Why sponsor us?</h2>
+Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them.  We depend on sponsorship, we are not-for-profit, and the organisers are all working people who are active in the Tech community and passionate about getting DevOps right.  We do not sell product presentations, nor will we distribute attendee contact lists.
 <br>
 <br>
-Devopsdays is a self-organising not-for-profit conference that depends on sponsorship.  We do not sell product presentations, nor do we distribute attendee contact lists.  Gold and Silver sponsors receive table presence where they can engage with attendees during breaks.  They also receive the opportunity to provide ‘elevator pitch’ style presentations during the program of events and will receive recognition on the website and social media before, during and after the event.
+Devopsdays is a great opportunity to network and build relationships with highly motivated specialists within the DevOps community; share your lessons learned; promote your brand and recruitment activities; and contribute to important discussions about diversity, burnout, and organisational transformation.  All sponsors are encouraged to participate in break-out sessions and generally engage with conference the attendees as peers, heavy marketing typically works against you when trying to make a good impression at devopsdays conferences.
 <br>
 <br>
-Details of additional à la carte sponsorship opportunities may become available shortly.  Available in addition to, or in lieu of, the packages described in our prospectus.  Please drop us an email at [{{< email_organizers >}}] if you are interested.
-<br>
-<br>
-All sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.  The best thing to do is send engineers to interact with the experts at Devopsdays so you can engage with attendees on their own terms.
-<br>
-<br>
-Attendees are welcome to propose any subject they want for discussion in the Open Spaces portion of the conference, but keep in mind that Devopsdays is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on attendees.
-<br>
+If you are interested in one of the medal packages below, offering a special sponsorship, or have creative ideas about how you could support the event in another way then please do drop us an email at {{< email_organizers >}}
 <hr/>
 <div style="width:590px">
 <table border=1 cellspacing=1>
   <tr>
-    <th><i>Sponsorship packages</i></th>
+    <th><i>Sponsorship medal packages</i></th>
     <th><center><b>Bronze<br />£500<br />(gbp)</center></b></th>
     <th><center><b>Silver<br />£3,000<br />(gbp)</center></b></th>
     <th><center><b>Gold<br />£5,000<br />(gbp)</center></b></th>
   </tr>
 <tr><td>Logo on Devopsdays Edinburgh website, main room signage and email communications</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>Number of tickets included in package</td><td bgcolor="gold"><center><i>1</i></center></td><td bgcolor="gold"><center><i>2</i></center></td><td bgcolor="gold"><center><i>3</i></center></td></tr>
-<tr><td>Booth / table presence</td><td>&nbsp;</td><td bgcolor="gold"><center><i>&nbsp;shared&nbsp;</i></center></td><td bgcolor="gold"><center><i>&nbsp;dedicated&nbsp;</i></center></td></tr>
-<tr><td>5 minute pitch to full audience on day 1</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 minute pitch to full audience on day 2</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr></tr>
-<tr><td>Logo on shared slide during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>Logo on dedicated slide during breaks</td><td>&nbsp;</td><td >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>Inclusion of your \*promo items in the conference 'swag bag'</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold" >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>Number of tickets included in package</td><td bgcolor="gold"><center><i>1</i></center></td><td bgcolor="gold"><center><i>2</i></center></td><td bgcolor="gold"><center><i>4</i></center></td></tr>
+<tr><td>Dedicated table for engaging with attendees</td><td>&nbsp;</td><td bgcolor="gold"><center><i></i></center></td><td bgcolor="gold"><center><i></i></center></td></tr>
+<tr><td>2 minute pitch to full audience</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
+<tr><td>Logo on dedicated slide, rotating during breaks</td><td>&nbsp;</td><td >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>Logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Thank you tweet sent out pre and post event</td><td>&nbsp;</td><td >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>Inclusion of a promotional flyer\* in the conference 'swag bag'</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold" >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
 <hr/>
-<br>
-\* Sponsors wishing to include promo items in the 'swag bag' should allow plenty of time for shipping and handling in advance of the conference date.  Please allow at least 3 to 4 weeks.
-<br>
-
-<!--
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
-
-<hr/>
--->
+<i>\*Promotional flyers should be no larger than A5, and provided by the sponsor no later than 3 weeks in advance of the conference date.</i>
