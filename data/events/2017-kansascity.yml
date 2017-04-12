@@ -25,7 +25,7 @@ location_address: 3700 Broadway. Kansas City, MO 64111
 # Registration
 # Displays the button, but not the menu item
 registration_open: "true"
-registration_link: "https://devopsdayskc2017.eventbrite.com/?aff=website"
+#registration_link: "https://devopsdayskc.eventbrite.com/?aff=website"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
@@ -33,12 +33,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: speakers
   - name: location
   - name: registration
-    icon: pencil
-    url: https://devopsdayskc2017.eventbrite.com/?aff=website
   - name: justification
     icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 
@@ -50,7 +48,7 @@ team_members: # Name is the only required field for team members.
     bio: "father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
     image: aaron-blythe.jpg
     github: aaronblythe
-    website: https://about.me/aaronblythe
+    website: https://aaronblythe.org
     linkedin: https://www.linkedin.com/in/aaronblythe/
   - name: "Dan Barker"
     twitter: "barkerd427"
@@ -115,7 +113,7 @@ ga_tracking_id: "UA-93890142-1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted: "no"
+sponsors_accepted: "yes"
 #sponsors:
 #  - id: pivotal
 #    level: gold

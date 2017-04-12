@@ -5,7 +5,7 @@ type = "event"
 City = "ohio"
 Year = "2017"
 aliases = ["/events/2017-ohio"]
-draft = false
+Description = "devopsdays Ohio 2017"
 
 +++
 

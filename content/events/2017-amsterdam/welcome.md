@@ -5,6 +5,7 @@ type = "event"
 aliases = ["/events/2017-amsterdam"]
 tags = ["amsterdam","amsterdam-2017"]
 heading = "devopsdays Amsterdam - Welcome"
+Description = "devopsdays Amsterdam 2017"
 +++
 
 <div style="text-align:center;">

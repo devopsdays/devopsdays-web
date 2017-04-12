@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays OSLO 2017"
+Title = "devopsdays Oslo 2017"
 Type = "welcome"
 aliases = ["/events/2017-oslo/","/events/2017-oslo/welcome/","/events/2017-oslo/index/"]
-Description = "devopsdays OSLO 2017"
+Description = "devopsdays Oslo 2017"
 +++
 
 <div style="text-align:center;">
