@@ -11,7 +11,7 @@ enddate:  2017-06-30
 cfp_date_start: 2017-01-15  # start accepting talk proposals.
 cfp_date_end:  2017-04-01 # close your call for proposals.
 cfp_date_announce: 2017-04-15 # inform proposers of status
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdays.typeform.com/to/hbkd2j"
 registration_open: "true"
 
@@ -30,8 +30,8 @@ proposal_email: "organizers-amsterdam-2017@devopsdays.org" # Put your proposal e
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
 #  - name: program
-  - name: propose
-    url: https://devopsdays.typeform.com/to/hbkd2j
+#  - name: propose
+#    url: https://devopsdays.typeform.com/to/hbkd2j
   - name: location
   - name: registration
   - name: sponsor
@@ -63,6 +63,8 @@ sponsors:
     level: silver
   # bronze
   - id: devoteam
+    level: bronze
+  - id: topdesk
     level: bronze
   # BBQ / Evening Event
   - id: schubergphilis

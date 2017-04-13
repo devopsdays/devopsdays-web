@@ -3,6 +3,7 @@ date = "2016-08-28T14:00:07-07:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-portland"]
+Description = "devopsdays Portland 2017"
 
 +++
 
@@ -90,6 +91,4 @@ Our event will be August 1st and 2nd. However, keep an eye out for a special fol
 </div>
 
 
-<!--
 {{< event_twitter >}}
--->

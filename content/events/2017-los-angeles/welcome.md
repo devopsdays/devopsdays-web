@@ -2,6 +2,7 @@
 title = "Welcome"
 type = "event"
 aliases = ["/events/2017-los-angeles", "/events/2017-losangeles"]
+Description = "devopsdays Los Angeles 2017"
 +++
 
 <h2>{{< event_start >}}</h2>

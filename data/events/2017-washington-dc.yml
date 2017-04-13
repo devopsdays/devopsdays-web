@@ -123,6 +123,10 @@ sponsors:
     level: platinum
   - id:  comcast
     level: gold
+  - id:  opsgenie
+    level: platinum
+  - id:  docker-alexandria
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

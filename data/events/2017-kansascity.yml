@@ -25,7 +25,7 @@ location_address: 3700 Broadway. Kansas City, MO 64111
 # Registration
 # Displays the button, but not the menu item
 registration_open: "true"
-registration_link: "https://devopsdayskc2017.eventbrite.com/?aff=website"
+#registration_link: "https://devopsdayskc.eventbrite.com/?aff=website"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
@@ -33,12 +33,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: speakers
   - name: location
   - name: registration
-    icon: pencil
-    url: https://devopsdayskc2017.eventbrite.com/?aff=website
   - name: justification
     icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 
@@ -50,7 +48,7 @@ team_members: # Name is the only required field for team members.
     bio: "father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
     image: aaron-blythe.jpg
     github: aaronblythe
-    website: https://about.me/aaronblythe
+    website: https://aaronblythe.org
     linkedin: https://www.linkedin.com/in/aaronblythe/
   - name: "Dan Barker"
     twitter: "barkerd427"
@@ -71,9 +69,12 @@ team_members: # Name is the only required field for team members.
     bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence company focused on software and IoT devices to monitor when patients do and don't take their medicine. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of Electronic Health Record software and services to hospitals. Ryan is focused on successful technology implementations across the healthcare sector and sees DevOps as a powerful tool in the business value stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike trails and making sawdust in his basement workshop."
     linkedin: https://www.linkedin.com/in/ryanmcnair/
   - name: "Tom Martin"
-    employer: Codero Hosting
-    image: tom-martin.jpg
+    employer: Twovi.com
+    image: thomas-martin.jpg
     linkedin: https://www.linkedin.com/in/thomas-martin-a020a6a/
+    twitter: https://twitter.com/twoflowers
+    website: https://twovi.com/
+    bio: "Father, Husband, Cat Herder, Generally just gets shit done."
   - name: "Chris Stein"
     employer: Cerner Corporation
     image: chris-stein.jpg
@@ -89,9 +90,6 @@ team_members: # Name is the only required field for team members.
     employer: VML
     image: bert-weidt.jpg
     linkedin: https://www.linkedin.com/in/bertweidt/
-  - name: "Josiah Berkebile"
-    employer: Oalva
-    linkedin: https://www.linkedin.com/in/garrett-berkebile-29b8299/
   - name: "Rebecca Sowers"
     image: rebecca-sowers.jpg
     employer: Cerner Corporation
@@ -115,10 +113,10 @@ ga_tracking_id: "UA-93890142-1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors_accepted: "no"
-#sponsors:
-#  - id: pivotal
-#    level: gold
+sponsors_accepted: "yes"
+sponsors:
+  - id: pivotal
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

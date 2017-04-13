@@ -1,8 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "contact"
+title = "Contact"
 type = "event"
-Description = "Contact information for devopsdays Dallas 2017"
+description = "DevOpsDays Dallas 2017 will take place on Aug 29-30, 2017! Contact the organizers for any questions!"
 
 +++
 

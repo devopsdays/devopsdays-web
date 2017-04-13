@@ -7,7 +7,7 @@ type = "event"
 
 +++
 
-Although 30 minute talk spaces in our program have been filled, and announced, we are still looking for a few more ignites to round out our program. Submit your idea on <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> today. We'll close the CFP again on March 24 at 11:59 PM Eastern.
+Thank you to everyone who submitted proposals for our event this year. Without your talent and creativity we would not be able put together our amazing program.
 
 ### Equal Opportunity
 

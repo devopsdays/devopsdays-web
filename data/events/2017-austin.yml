@@ -103,6 +103,16 @@ sponsors:
   - id: ibm
     level: gold
     url: https://developer.ibm.com/code/
+  - id: collabnet
+    level: gold
+    url: https://www.collab.net/DevOps
+  - id: facebook
+    level: gold
+    url: https://code.facebook.com/posts/pe/
+  - id: jfrog
+    level: gold
+  - id: appdynamics
+    level: gold
   - id: duo
     level: silver
   - id: solutionsiq
@@ -116,6 +126,10 @@ sponsors:
     level: silver
   - id: atxtechevents
     level: media
+  - id: sonatype
+    level: lanyard
+  - id: serverlessacademy
+    level: hackathon
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -136,6 +150,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: hackathon
+    label: Hackathon
+    max: 1
   - id: media
     label: Media
     max: 5

@@ -27,9 +27,8 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li> 
-</ol>
+<strong>How to submit a proposal:</strong> Go to the following website and follow the instructions there.
+
+### [DevOpsDays Hartford 2017 on PaperCall.io](https://www.papercall.io/devopsdays-hartford-2017)
+
+If you run into any problems, don't hesitate to email the organizers at {{< email_organizers >}}.
