@@ -14,6 +14,15 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
     <h3 class = "nav-item">"I have an army."</h3>
     <h3 class = "nav-item">"We have a yak."</h3>
     </blockquote>
+    
+    From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+
+DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2017 event will be the fourth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
+
+We expect 450 people this year and will be holding the event on September 12-13, 2017 at the Holiday Inn Mart Plaza in downtown Chicago.
+
+The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
+
   </div>
   <div class = "col-md-6 pull-md-6">
 
