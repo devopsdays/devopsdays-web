@@ -31,5 +31,6 @@ If you are interested in one of the medal packages below, offering a special spo
 <tr><td>Thank you tweet sent out pre and post event</td><td>&nbsp;</td><td >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>Inclusion of a promotional flyer\* in the conference 'swag bag'</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold" >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
+</div>
 <hr/>
 <i>\*Promotional flyers should be no larger than A5, and provided by the sponsor no later than 3 weeks in advance of the conference date.</i>
