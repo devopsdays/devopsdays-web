@@ -52,19 +52,24 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
     <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12"">
       <div class = "row justify-content-center">
-        <div class = "col-lg-6 col-md-12">
+        <div class = "col-lg-4 col-md-12">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/sponsor">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <div class = "col-lg-6 col-md-12">
+        <div class = "col-lg-4 col-md-12">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/contact">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
+        <div class = "col-lg-4 col-md-12">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="https://www.papercall.io/devopsdays-chicago-2017">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+          </a>
+        </div>
         </div>
       </div>
-    </div><!-- end a content element -->
+    </div> <!-- end a content element -->
     <div class = "row">
       <div class = "col-12">
         <img src = "/events/2017-chicago/adam-yak.jpg" class = "img-fluid">
