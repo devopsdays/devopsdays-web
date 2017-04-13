@@ -127,6 +127,8 @@ sponsors:
     level: platinum
   - id:  docker-alexandria
     level: community
+  - id:  redhat
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
