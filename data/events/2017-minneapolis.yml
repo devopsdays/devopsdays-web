@@ -107,6 +107,12 @@ sponsors:
     level: gold
   - id: apcera
     level: silver
+  - id: twistlock
+    level: silver
+  - id: merrill
+    level: gold
+  - id: influxdata
+    level: gold
 
 sponsors_accepted : "yes"
 

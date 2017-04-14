@@ -14,6 +14,15 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
     <h3 class = "nav-item">"I have an army."</h3>
     <h3 class = "nav-item">"We have a yak."</h3>
     </blockquote>
+    
+From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
+<br><br>
+DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2017 event will be the fourth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
+<br><br>
+We expect 450 people this year and will be holding the event on September 12-13, 2017 at the Holiday Inn Mart Plaza in downtown Chicago.
+<br><br>
+The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
+
   </div>
   <div class = "col-md-6 pull-md-6">
 
@@ -52,19 +61,24 @@ description = "The group that brought you DevOpsDays Chicago 2014-2016 is back t
     <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12"">
       <div class = "row justify-content-center">
-        <div class = "col-lg-6 col-md-12">
+        <div class = "col-lg-4 col-md-12">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/sponsor">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <div class = "col-lg-6 col-md-12">
+        <div class = "col-lg-4 col-md-12">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/contact">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
+        <div class = "col-lg-4 col-md-12">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="https://www.papercall.io/devopsdays-chicago-2017">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+          </a>
+        </div>
         </div>
       </div>
-    </div><!-- end a content element -->
+    </div> <!-- end a content element -->
     <div class = "row">
       <div class = "col-12">
         <img src = "/events/2017-chicago/adam-yak.jpg" class = "img-fluid">

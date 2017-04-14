@@ -93,6 +93,8 @@ sponsors:
     url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Toronto_%20May&utm_medium=banner
   - id: logz
     level: gold
+  - id: cgi
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
