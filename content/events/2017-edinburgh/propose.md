@@ -24,12 +24,8 @@ If you would like to <strong>demo</strong> a product or service at devopsdays th
 <hr/>
 
 <h3>How to submit a proposal</h3>
-Please send an email to {{< email_proposals >}} with the following information:
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li> 
-</ol>
+
+To propose a talk or ignite, please fill out the <b><a href="https://goo.gl/forms/5HQkomOad6JfX1an1" target="_blank">application form</a></b>
 
 <em>Some advice for your submission:</em>
 <ul>
