@@ -14,23 +14,63 @@ Devopsdays is a great opportunity to network and build relationships with highly
 <br>
 If you are interested in one of the medal packages below, offering a special sponsorship, or have creative ideas about how you could support the event in another way then please do drop us an email at {{< email_organizers >}}
 <hr/>
-<div style="width:590px">
-<table border=1 cellspacing=1>
+<div style="width:590px; margin: 0 auto;">
+<table border=1 cellspacing=1 cellpadding=3 style="color:#003CB6" bordercolor="003CB6">
   <tr>
     <th><i>Sponsorship medal packages</i></th>
     <th><center><b>Bronze<br />£500<br />(gbp)</center></b></th>
     <th><center><b>Silver<br />£3,000<br />(gbp)</center></b></th>
-    <th><center><b>Gold<br />£5,000<br />(gbp)</center></b></th>
+    <th><center><b>005EB8<br />£5,000<br />(gbp)</center></b></th>
   </tr>
-<tr><td>Logo on Devopsdays Edinburgh website, main room signage and email communications</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>Number of tickets included in package</td><td bgcolor="gold"><center><i>1</i></center></td><td bgcolor="gold"><center><i>2</i></center></td><td bgcolor="gold"><center><i>4</i></center></td></tr>
-<tr><td>Dedicated table for engaging with attendees</td><td>&nbsp;</td><td bgcolor="gold"><center><i></i></center></td><td bgcolor="gold"><center><i></i></center></td></tr>
-<tr><td>2 minute pitch to full audience</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>Logo on dedicated slide, rotating during breaks</td><td>&nbsp;</td><td >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>Logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>Thank you tweet sent out pre and post event</td><td>&nbsp;</td><td >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>Inclusion of a promotional flyer\* in the conference 'swag bag'</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold" >&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr>
+  <td>Logo on Devopsdays Edinburgh website, main room signage and email communications</td>
+  <td bgcolor="005EB8">&nbsp;</td>
+  <td bgcolor="005EB8">&nbsp;</td>
+  <td bgcolor="005EB8">&nbsp;</td>
+</tr>
+<tr>
+  <td>Number of tickets included in package</td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>1</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>2</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>4</i></center></td>
+</tr>
+<tr>
+  <td>Dedicated table for engaging with attendees</td>
+  <td>&nbsp;</td>
+  <td bgcolor="005EB8" ><center><i></i></center></td>
+  <td bgcolor="005EB8" ><center><i></i></center></td>
+</tr>
+<tr>
+  <td>2 minute pitch to full audience</td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
+  <td bgcolor="005EB8"  >&nbsp;</td>
+  </tr>
+</tr>
+<tr>
+  <td>Logo on dedicated slide, rotating during breaks</td>
+  <td>&nbsp;</td>
+  <td >&nbsp;</td>
+  <td bgcolor="005EB8" >&nbsp;</td>
+</tr>
+<tr>
+  <td>Logo on shared slide, rotating during breaks</td>
+  <td bgcolor="005EB8" >&nbsp;</td>
+  <td bgcolor="005EB8" >&nbsp;</td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td>Thank you tweet sent out pre and post event</td>
+  <td>&nbsp;</td><td >&nbsp;</td><td bgcolor="005EB8" >&nbsp;</td>
+</tr>
+<tr>
+  <td>Inclusion of a promotional flyer\* in the conference 'swag bag'</td>
+  <td bgcolor="005EB8" >&nbsp;</td>
+  <td bgcolor="005EB8" >&nbsp;</td>
+  <td bgcolor="005EB8" >&nbsp;</td>
+</tr>
 </table>
 </div>
 <hr/>
 <i>\*Promotional flyers should be no larger than A5, and provided by the sponsor no later than 3 weeks in advance of the conference date.</i>
+
