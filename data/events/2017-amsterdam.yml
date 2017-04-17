@@ -52,6 +52,10 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
+  - id: gocd
+    level: gold
+  - id: workiva
+    level: gold
   # silver
   - id: valtech
     level: silver
