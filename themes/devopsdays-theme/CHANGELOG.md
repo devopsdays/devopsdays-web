@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.7.2](https://github.com/devopsdays/devopsdays-theme/tree/1.7.2) (2017-04-18)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.1...1.7.2)
+
+**Fixed bugs:**
+
+- adjust dates as shown on frontpage [\#481](https://github.com/devopsdays/devopsdays-theme/issues/481)
+- old style event twitters not showing up [\#479](https://github.com/devopsdays/devopsdays-theme/issues/479)
+
 ## [1.7.1](https://github.com/devopsdays/devopsdays-theme/tree/1.7.1) (2017-04-05)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.0...1.7.1)
 
