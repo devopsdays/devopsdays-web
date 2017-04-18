@@ -60,6 +60,8 @@ sponsors:
     url: https://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Austin_%20May&utm_medium=banner
   - id: pivotal
     level: gold
+  - id: ca
+    level: gold 
   - id: deis
     level: gold
   - id: victorops
