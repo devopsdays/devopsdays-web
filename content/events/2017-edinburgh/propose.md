@@ -14,13 +14,14 @@ The people involved in anonymising the proposals will not be involved in their s
 
 <hr>
 <h3>Session Formats</h3>
+<br>
 Devopsdays Edinburgh is a single track, two-day event. The format will include main track presentations, <a href="/pages/ignite-talks-format">Ignite talks</a>, and <a href="pages/open-space-format">Open Spaces sessions</a>, i.e.
 <ol>
-  <li><strong><em>A 30-minute talk or panel</em></strong> presented during the conference, usually in the mornings.  These are 30 minute slots that will have the full attention of all attendees. We welcome all submissions.</li>
+  <li><strong><em>A 30-minute talk or panel</em></strong> presented during the conference, usually in the mornings.  These are 30 minute slots that will have the full attention of all delegates. We welcome all submissions.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total), also presented to all attendees in main conference room. We welcome all submissions.</li>
-  <li><strong><em>Open Space</em></strong>: The <a href="/pages/open-space-format">Open Space</a> breakout sessions allow you to propose, lead or participate in open group discussions. It is not necessary to propose topics ahead of time, topics can be suggested in person at the conference.</li>
+  <li><strong><em>Open Space</em></strong>: The <a href="/pages/open-space-format">Open Space</a> breakout sessions allow you to propose, lead or participate in open group discussions. It is not necessary to propose topics ahead of time - these can be suggested in person at the conference.</li>
 </ol>
-If you would like to <strong>demo</strong> a product or service at devopsdays then we encourage you to <a href="../sponsor">sponsor the event</a> and setup demos at your dedicated sponsors booth/table, where you will be able to engage directly with fellow engineers.
+If you would like to <strong>demo</strong> a product or service at devopsdays then we encourage you to <a href="../sponsor">sponsor the event</a> and set up demos at your dedicated sponsor's booth/table, where you will be able to engage directly with fellow engineers.
 <hr/>
 
 <h3>How to submit a proposal</h3>
@@ -29,7 +30,7 @@ To propose a talk or ignite, please fill out the <b><a href="https://goo.gl/form
 
 <em>Some advice for your submission:</em>
 <ul>
-	<li>It's always great to be specific; the more you can fill us in the better, but please do keep it concise (e.g. 20 or so lines should be enough).</li>
+	<li>It's always great to be specific; the more you can tell us the better, but please do keep it concise (e.g. 20 or so lines should be enough).</li>
 	<li>Detail is awesome, but not as important as explaining why your proposal would be interesting to conference attendees.</li>
 	<li>Multiple proposals from the same person are most definitely welcome - please just perform multiple submissions (i.e. one per proposal) as that would help us out massively in the selection process.</li> 
 </ul>
@@ -47,7 +48,7 @@ Choosing talks is part art and part science; here are some factors we consider w
 
 <hr/>
 <h3>Travel Expenses</h3>
-Speakers at Devopsdays Edinburgh will receive a free ticket for the 2 day conference. We also feel you should not incur out-of-pocket travel expenses in order to participate, so if your employer is unable to cover your travel expenses then we may be able to help.
+Speakers at Devopsdays Edinburgh will receive a free ticket for the 2-day conference. We also feel you should not incur out-of-pocket travel expenses in order to participate, so if your employer is unable to cover your travel expenses then we may be able to help.
 
 <hr/>
 <h3>Code of Conduct</h3>
