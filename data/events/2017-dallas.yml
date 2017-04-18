@@ -152,6 +152,8 @@ sponsors:
     level: location_and_platinum
   - id: pivotal
     level: gold
+  - id: alertlogic
+    level: silver
   - id: arresteddevops
     level: community
   - id: devopslive
