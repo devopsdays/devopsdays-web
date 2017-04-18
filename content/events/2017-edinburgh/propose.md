@@ -10,7 +10,7 @@ type = "event"
 <b>We are devoted to inclusivity and welcome talk proposals from anyone who wishes to tender, regardless of race, gender or experience.</b>  All proposals will be anonymised before review. Our anonymity process will involve stripping any identifiable information from proposals including name, gender, geography and company.
 <br>
 <br>
-The people involved in anonymising the proposals will not be involved in their selection. Once the proposals have been anonymised, a team of reviewers will individually rate and categorise all proposals before coming together to discuss each category. Our team of reviewers will be gender balanced and will consist of a mix of nationalities.  A draft conference program will follow and submitters will be notified via email before the program is finalised and announced.
+The people involved in anonymising the proposals will not be involved in their selection. Once the proposals have been anonymised, a team of reviewers will individually rate and categorise all proposals before coming together to discuss each category. Our team of reviewers will include members from under-represented groups. A draft conference program will follow and submitters will be notified via email before the program is finalised and announced.
 
 <hr>
 <h3>Session Formats</h3>

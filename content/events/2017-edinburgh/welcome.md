@@ -71,14 +71,14 @@ Description = "devopsdays Edinburgh 2017"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -98,3 +98,4 @@ Where better than Edinburgh, capital city of Scotland, to hold a devopsdays conf
 <p>
 Scotland has a culture of openess and inclusivity. This is very important to the organisers of devopsdays Edinburgh. All attendees and sponsor staff will be required to abide by our {{< event_link page="conduct" text="Code of Conduct" >}}. Devopsdays Edinburgh welcomes everyone who respects other people's health, comfort and safety.
 </p>
+<p style="font-size: 75%">Unicorn logo designed by Deborah Mullen (@debsmooth)</p>
