@@ -202,12 +202,11 @@ program:
     date: 2017-05-25
     start_time: "16:40"
     end_time: "17:25"
-  - title: "Evening Event"
+  - title: "Evening Event - Sponsored by CircleCI"
     type: custom
     date: 2017-05-25
     start_time: "17:30"
     end_time: "20:30"
-    comments: "tba"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-05-26
