@@ -161,6 +161,9 @@ sponsors:
   - id: opsgenie
     url: "http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Zurich_%20May&utm_medium=banner"
     level: silver
+  - id: cisco
+    url: "http://www.cisco.com/c/de_ch/solutions/data-center-virtualization/index.html"
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
