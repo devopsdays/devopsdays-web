@@ -157,7 +157,7 @@ program:
     date: 2017-05-25
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Lunch - Sponsored by Sourced Group"
     type: custom
     date: 2017-05-25
     start_time: "12:00"
@@ -238,7 +238,7 @@ program:
     date: 2017-05-26
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Lunch - Sponsored by Pure Storage"
     type: custom
     date: 2017-05-26
     start_time: "12:00"
