@@ -95,6 +95,10 @@ sponsors:
     level: gold
   - id: cgi
     level: gold
+  - id: redhat
+    level: silver
+  - id: pure-storage
+    level: lunch
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
