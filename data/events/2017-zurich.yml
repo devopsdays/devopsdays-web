@@ -257,7 +257,8 @@ program:
     date: 2017-05-03
     start_time: "19:00"
     end_time: "late"
-    comments: "tba"
+    comments: "The evening event will take place at [Boilerroom](http://www.boilerroom.ch/).<p>
+    Beer and snacks sponsored by [Atlassian](https://www.atlassian.com/)."
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2017-05-04
