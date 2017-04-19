@@ -2,5 +2,9 @@
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index .Page.Site.Data.events $event_slug) }}
 
+{{ if $e.event_twitter}}
 <a href="https://twitter.com/{{ $e.event_twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ $e.event_twitter }}</a>
+{{ else }}
+<a href="https://twitter.com/{{ index .Params 0 }}" class="twitter-follow-button" data-show-count="false">Follow @{{ index .Params 0 }}</a>
+{{ end }}
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
