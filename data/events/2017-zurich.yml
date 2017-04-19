@@ -111,12 +111,12 @@ Enabling organisations to achieve outstanding and sustainable results that excee
   - name: "Marcel Wolf"
     twitter: "_marcelwolf"
     employer: "codecentric AG"
-    bio: ""
+    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
     github: ""
     facebook: ""
     linkedin: ""
     website: ""
-    image: ""
+    image: "marcel-wolf.jpg"
 
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
