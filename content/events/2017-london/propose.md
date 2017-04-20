@@ -20,6 +20,7 @@ type = "event"
 - _original content_: content not yet presented at other conferences, or a new angle to an existing problem
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
+- _diversity_: our review process will involve stripping any identifiable information from proposals including name, gender, geography and company.
 
 <strong>Tips:</strong>
 <ul>
