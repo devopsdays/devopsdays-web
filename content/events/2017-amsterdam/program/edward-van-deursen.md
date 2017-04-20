@@ -16,7 +16,7 @@ Organisations are preparing for the General Data Protection Regulation (GDPR), t
 </p>
 <p>
  In this presentation we start with the relationship between privacy and security. And why it is even more relevant to Shift left in the development lifecycle (Privacy by Design). Then we will discuss some articles from the GDPR and will translate them in useful privacy requirements. This will demonstrate why you must have privacy and security requirements in place even before you start building or changing a system.
- </>
+ </p>
  <p>
  Next to the requirements we will end with the articles which are beneficial for organisations.
   some generic user and abuser stories which are relevant for most applications.
