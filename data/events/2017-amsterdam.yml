@@ -57,6 +57,10 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
+  - id: victorops
+    level: gold
+  - id: logz
+    level: gold
   # silver
   - id: valtech
     level: silver
