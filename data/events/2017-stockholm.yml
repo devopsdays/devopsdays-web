@@ -76,6 +76,8 @@ sponsors:
     level: silver
   - id: bonnier-news
     level: silver
+  - id: microsoft
+    level: silver
   - id: basefarm
     level: bronze
   - id: arresteddevops
