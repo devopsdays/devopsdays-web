@@ -1,6 +1,8 @@
 # Utilities
 These scripts help devopsdays organizers manage their events.
 
+Blahblah blha
+
 ## Contributing
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
