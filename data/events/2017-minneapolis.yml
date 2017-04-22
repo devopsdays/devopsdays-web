@@ -19,7 +19,7 @@ location: "Minneapolis"
 nav_elements:
 
 #  - name: program
-#  - name: speakers
+  - name: speakers
   - name: propose
   - name: location
   - name: registration
