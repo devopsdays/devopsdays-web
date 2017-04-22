@@ -41,7 +41,7 @@ description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    We're currently reviewing proposals for 30min talks. Ignite proposals will open soon.
+    {{<event_link page="propose" text="Ignite proposals accepted through May 15th!" >}}
   </div>
 </div>
 
@@ -54,14 +54,14 @@ description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
