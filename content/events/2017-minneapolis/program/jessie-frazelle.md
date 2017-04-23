@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Security in a Containerized World"
+Title = "Security in a Containerized World (Closing Keynote)"
 Type = "talk"
 Speakers = ["jessie-frazelle"]
 +++
