@@ -133,6 +133,8 @@ sponsors:
     level: bronze
   - id: extrahop
     level: bronze
+  - id: t-mobile
+    level: silver
   - id: seattle-devops-meetup
     level: community
   - id: seattle-coffeeops
