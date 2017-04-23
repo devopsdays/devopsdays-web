@@ -2,6 +2,7 @@
 # General CodeKit files to ignore
 config.codekit
 # config.toml # This is a dangerous file, but we need it not in here.
+# not sure if we need these
 /min
 dist
 staging
