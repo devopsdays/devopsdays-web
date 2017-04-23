@@ -94,6 +94,13 @@ sponsors:
     level: bluesquare
   - id: elastic
     level: blackdiamond
+  - id: netapp
+    level: blackdiamond
+  - id: sumologic
+    level: bluesquare
+  - id: chef
+    level: bluesquare
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

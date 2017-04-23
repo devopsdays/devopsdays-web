@@ -18,8 +18,8 @@ location: "Minneapolis"
 
 nav_elements:
 
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: propose
   - name: location
   - name: registration
@@ -49,9 +49,9 @@ team_members:
     bio: "Tech & biz strategy for emerging dev+ops trends. Director @451Research, fmr @redmonk @mayoclinic @gentoo. PhD comp biophysics. Craft-beer enthusiast."
     image: "donnie-berkholz.jpg"
   - name: "Heather Mickman"
-    employer: ""
+    employer: "Optum"
     twitter: "hmickman"
-    bio: ""
+    bio: "Heather Mickman is VP Enterprise Services + Platforms at Optum. Throughout her career, she has built APIs to unlock enterprise data, created awesome platforms, led Ops organizations, and built supply chain software for Fortune 50 companies. Heather has a passion for technology, building high performing teams, driving a culture of innovation, and having fun along the way."
     image: "heather-mickman.jpg"
   - name: "Jeff Williams"
   - name: "Joe Laha"
@@ -89,7 +89,7 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
-  - id: thoughtworks-products
+  - id: gocd
     level: platinum
   - id: mesosphere
     level: silver
@@ -128,3 +128,194 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-07-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-07-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "bryan-liles"
+    type: talk
+    date: 2017-07-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-07-25
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "michelle-noorali"
+    type: talk
+    date: 2017-07-25
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-07-25
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "eryn-oneil"
+    type: talk
+    date: 2017-07-25
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-07-25
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "duretti-hirpa"
+    type: talk
+    date: 2017-07-25
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-07-25
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2017-07-25
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-07-25
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: custom
+    date: 2017-07-25
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: 2017-07-25
+    start_time: "14:40"
+    end_time: "14:50"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: custom
+    date: 2017-07-25
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2017-07-25
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: custom
+    date: 2017-07-25
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "Closing"
+    type: custom
+    date: 2017-07-25
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Evening Program & Ignites"
+    type: custom
+    date: 2017-07-25
+    start_time: "16:30"
+    end_time: "20:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-07-26
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome & Sponsors"
+    type: custom
+    date: 2017-07-26
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "pete-cheslock"
+    type: talk
+    date: 2017-07-26
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-07-26
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2017-07-26
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-07-26
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "aneel-lakhani"
+    type: talk
+    date: 2017-07-26
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-07-26
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "jessie-frazelle"
+    type: talk
+    date: 2017-07-26
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-07-26
+    start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2017-07-26
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-07-26
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: custom
+    date: 2017-07-26
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: 2017-07-26
+    start_time: "14:40"
+    end_time: "14:50"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: custom
+    date: 2017-07-26
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2017-07-26
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: custom
+    date: 2017-07-26
+    start_time: "15:40"
+    end_time: "16:20"
+  - title: "Break"
+    type: custom
+    date: 2017-07-26
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Raffle & Closing"
+    type: custom
+    date: 2017-07-26
+    start_time: "16:30"
+    end_time: "17:00"

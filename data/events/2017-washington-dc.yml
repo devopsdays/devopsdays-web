@@ -115,20 +115,32 @@ proposal_email: "proposals-washington-dc-2017@devopsdays.org" # Put your proposa
 sponsors:
   - id: capitalone
     level: location_and_platinum
-  - id:  aurotech
-    level: gold
-  - id:  influxdata
-    level: gold
+  - id: govready
+    level: platinum
   - id:  eglobaltech
     level: platinum
-  - id:  comcast
+  - id: twistlock
     level: platinum
   - id:  opsgenie
     level: platinum
-  - id:  docker-alexandria
-    level: community
+  - id:  comcast
+    level: platinum
   - id:  redhat
     level: platinum
+  - id:  influxdata
+    level: gold
+  - id:  aurotech
+    level: gold
+  - id: sjtechcorp
+    level: gold
+  - id: valiantsolutions
+    level: gold
+  - id: omnitech
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id:  docker-alexandria
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
