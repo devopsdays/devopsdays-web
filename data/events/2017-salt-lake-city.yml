@@ -22,9 +22,12 @@ location: "Noah's Event Venue" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-  - name: propose
-    url: https://www.papercall.io/slc-dev-ops-days
+  - name: slcdevopsdays.org
+    url: https://slcdevopsdays.org/
+  - name: program
+    url: https://slcdevopsdays.org/schedule/
+  - name: speakers
+    url: https://slcdevopsdays.org/speakers/
   - name: location
   - name: registration
     url: http://slcdevopsdays.org/tc-events/slc-devops-days-2917/
@@ -98,8 +101,9 @@ sponsors:
     level: blackdiamond
   - id: sumologic
     level: bluesquare
-  - id: saltstack
-    level: blackdiamond
+  - id: chef
+    level: bluesquare
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
