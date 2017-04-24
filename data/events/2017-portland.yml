@@ -26,7 +26,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://devopsdayspdx2017.busyconf.com/proposals/new
   - name: location
-#  - name: registration
+  - name: registration
+    url: https://devopsdayspdx2017.busyconf.com/bookings/new
   - name: sponsor
   - name: contact
   - name: conduct
