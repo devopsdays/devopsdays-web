@@ -1,15 +1,6 @@
 +++
-City = "Seattle"
-Year = "2017"
-title = "David Blank-Edelman"
-type = "talk"
-
+Title = "SRE: What’s the Big Idea?"
+Type = "talk"
+Speakers = ["david-blank-edelman"]
 +++
 
-
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <h3>SRE: What’s the Big Idea?</h3>
-
-  </div>
-</div>

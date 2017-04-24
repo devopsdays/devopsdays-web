@@ -5,8 +5,8 @@ event_twitter: "devopsdayssea"
 description: "DevOpsDays is returning to Seattle in 2017" # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2017-04-26 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2017-04-27 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-04-26 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-04-27 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-10-24 # start accepting talk proposals.
 cfp_date_end: 2017-01-24 # close your call for proposals.
@@ -159,3 +159,198 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-04-26
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-26
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "gene-kim"
+    type: talk
+    date: 2017-04-26
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-26
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "nell-shamrell-harrington"
+    type: talk
+    date: 2017-04-26
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-04-26
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "scott-nasello"
+    type: talk
+    date: 2017-04-26
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-26
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "suzie-prince"
+    type: talk
+    date: 2017-04-26
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-04-26
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2017-04-26
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-04-26
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-04-26
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-04-26
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-04-26
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-04-26
+    start_time: "16:55"
+    end_time: "17:15"
+  - title: "Party at Chef HQ! Lyft code available!"
+    type: custom
+    date: 2017-04-26
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-04-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jez-humble"
+    type: talk
+    date: 2017-04-27
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-27
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "sarah-shewell-suzanne-nielsen"
+    type: talk
+    date: 2017-04-27
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-04-27
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "jeffery-smith"
+    type: talk
+    date: 2017-04-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-27
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "julia-wester"
+    type: talk
+    date: 2017-04-27
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-04-27
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "terrance-ryan"
+    type: talk
+    date: 2017-04-27
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-27
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-04-27
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-04-27
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-04-27
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-04-27
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Sponsor Drawings! Collect your winnings! Close Day & Farewell"
+    type: custom
+    date: 2017-04-27
+    start_time: "17:00"
+    end_time: "17:15"
+
+ignites:
+  - title: "david-blank-edelman"
+    date: 2017-04-26
+  - title: "greg-elin"
+    date: 2017-04-26
+  - title: "dawn-parzych"
+    date: 2017-04-26
+  - title: "glenn-sarti"
+    date: 2017-04-26
+  - title: "jason-yee"
+    date: 2017-04-27
+  - title: "ram-jothikumar"
+    date: 2017-04-27
+  - title: "jason-vernon-radhika-gummadi"
+    date: 2017-04-27
+  - title: "soo-choi"
+    date: 2017-04-27
