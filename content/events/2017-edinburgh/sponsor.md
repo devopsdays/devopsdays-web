@@ -60,11 +60,13 @@ If you are interested in one of the medal packages below, offering a special spo
   <td>&nbsp;</td>
 </tr>
 <tr>
-  <td>Thank you tweet sent out pre and post event</td>
-  <td>&nbsp;</td><td >&nbsp;</td><td bgcolor="005EB8" >&nbsp;</td>
+  <td>Recognition and thanks via Twitter\*</td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>2</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>3</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>4</i></center></td>
 </tr>
 <tr>
-  <td>Inclusion of a promotional flyer\* in the conference 'swag bag'</td>
+  <td>Inclusion of a promotional flyer\*\* in the conference 'swag bag'</td>
   <td bgcolor="005EB8" >&nbsp;</td>
   <td bgcolor="005EB8" >&nbsp;</td>
   <td bgcolor="005EB8" >&nbsp;</td>
@@ -72,5 +74,15 @@ If you are interested in one of the medal packages below, offering a special spo
 </table>
 </div>
 <hr/>
-<i>\*Promotional flyers should be no larger than A5, and provided by the sponsor no later than 3 weeks in advance of the conference date.</i>
+<i>\* All sponsors will be acknowledged officially on <strong>Twitter</strong>:
+<ul>
+  <li><strong>Bronze</strong> sponsors will be thanked once in the week leading up to the event.</li>
+  <li><strong>Silver</strong> sponsors will be thanked twice; once per week in the two weeks leading up to the event.</li>
+  <li><strong>Gold</strong> sponsors will be thanked three times; once per week in the three weeks leading up to the event.</li>
+  <li><strong>All</strong> sponsors will be thanked again after the event.</li>
+</ul>
+<br/>
+\*\* Promotional flyers should be no larger than A5, and provided by the sponsor no later than 3 weeks in advance of the conference date.
+</i>
+
 
