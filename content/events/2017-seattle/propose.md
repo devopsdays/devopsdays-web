@@ -3,7 +3,6 @@ date = "2016-09-20T21:46:51+01:00"
 title = "Call for Proposals"
 type = "event"
 +++
-  {{< cfp_dates >}}
 
 <hr>
 There are three ways to propose a session:

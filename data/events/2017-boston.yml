@@ -5,33 +5,33 @@ event_twitter: "devopsdaysbos" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-09-18  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-09-19 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-25 # start accepting talk proposals.
+cfp_date_end: 2017-07-01 # close your call for proposals.
+cfp_date_announce: 2017-08-01 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: ""
+# cfp_open: "false"
+# cfp_link: "https://www.papercall.io/devopsdays-boston-2017"
 
-registration_open: "false"
-registration_link: ""
+# registration_open: "true"
+# registration_link: "https://www.eventbrite.com/e/devopsdays-boston-2017-tickets-34019911471"
 
 # Location
 #
-coordinates: "42.360082, -71.058880" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Boston" # Defaults to city, but you can make it the venue name.
+coordinates: "42.344447, -71.071291" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Cyclorama at Boston Center for the Arts" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "539 Tremont St, Boston, MA 02116" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
- # - name: location
- #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
- # - name: registration
+    icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+  - name: registration
+  - name: location
  #   icon: "pencil"
  # - name: program
  #   icon: "book"
@@ -52,6 +52,9 @@ team_members: # Name is the only required field for team members.
 
   - name: "Cody Lazri"
     twitter: "ti_au_"
+    employer: "Cogito"
+    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
+    image: "codylazri.jpg"
 
   # Lead organizers: TBD if we can separate out
   - name: "James Meickle"
