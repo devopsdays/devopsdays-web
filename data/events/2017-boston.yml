@@ -48,7 +48,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
 
   # Advisors: TBD if we can separate out
-  - name: "Dave Fredricks"
 
   - name: "Cody Lazri"
     twitter: "ti_au_"
@@ -70,11 +69,6 @@ team_members: # Name is the only required field for team members.
     bio: "Barton is a Solutions Architect for Cohesive Networks where he promotes DevOps in the cloud security space. He has been a contributing member of the Boston DevOps community for a number of years and is excited to contribute to creating a world class event for this year’s DevOps Days Boston."
     image: "barton2.jpg"
 
-  - name: "Ed Rousseau"
-    twitter: "elrousseau"
-    employer: Cure Forward
-
-  - name: "Laura Stone"
 
   - name: "Matthew Williams"
     twitter: "technovangelist"
@@ -86,6 +80,12 @@ team_members: # Name is the only required field for team members.
     image: "MattOnBlue2.png"
     bio: "Matt Williams is an Evangelist at Datadog. He is passionate about the power of monitoring and metrics to make large-scale systems stable and manageable. So he tours the country speaking and writing about monitoring with Datadog. When he's not on the road, he's coding. You can find Matt on Twitter at @Technovangelist."
 
+  - name: "Ed Rousseau"
+    twitter: "elrousseau"
+    employer: Cure Forward
+
+  - name: "Laura Stone"
+  - name: "Dave Fredricks"
   # Asst. organizers: TBD if we can separate out
 
   # Example:
