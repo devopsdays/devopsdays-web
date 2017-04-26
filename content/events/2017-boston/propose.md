@@ -3,9 +3,13 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Boston 2017"
 +++
-  {{< cfp_dates >}}
-
+<center>
+  <b>Call for proposals opens Tuesday, Apr 25, 2017.</b><br>
+  <b>Call for proposals closes Saturday, Jul 1, 2017.</b><br>
+  </center>
 <hr>
+
+## Have something to share? Submit your proposal [here](https://www.papercall.io/devopsdays-boston-2017)!
 
 There are three ways to propose a topic at devopsdays:
 <ol>
@@ -27,7 +31,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<strong>How to submit a proposal:</strong> Visit [this page on papercall.io](https://www.papercall.io/devopsdays-boston-2017) with the following information
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>
