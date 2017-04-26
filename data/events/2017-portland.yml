@@ -26,7 +26,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
     url: https://devopsdayspdx2017.busyconf.com/proposals/new
   - name: location
-#  - name: registration
+  - name: registration
+    url: https://devopsdayspdx2017.busyconf.com/bookings/new
   - name: sponsor
   - name: contact
   - name: conduct
@@ -91,6 +92,10 @@ sponsors:
     - id: victorops
       level: silver
     - id: twistlock
+      level: gold
+    - id: itmotives
+      level: lanyard
+    - id: elastic
       level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

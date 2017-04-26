@@ -13,7 +13,7 @@ description = "The same group of organizers that brought you DevOpsDays DFW 2016
 
 <img style="float: left; max-width: 300px; padding: 0px 20px 20px 0px" src="/events/2017-dallas/logo.png">
 
-Come join us and share on August 29 & 30 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the C.A.M.S. principles AWESOME!!!
+Come join us and share on August 29 & 30 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the <b><a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a></b> principles <b>AWESOME</b>!!!
 
 **NOTE:** On August 28th, we will be having a Leadership Summit. **(BY INVITATION ONLY)**<br>
 We're still working out all the details, more to come. 
@@ -24,7 +24,6 @@ This year the event will be held at
 <!-- div style="font-weight: bolder; font-size: 150%">Check out this year's {{< event_link page="program" text="awesome program!" >}}</div>
 
 <div style="clear: both"></div> -->
-<br> <br>
 
 <div class = "row">
   <div class = "col-md-2">
