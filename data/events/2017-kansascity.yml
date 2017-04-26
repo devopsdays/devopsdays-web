@@ -118,6 +118,8 @@ sponsors_accepted: "yes"
 sponsors:
   - id: pivotal
     level: gold
+  - id: 2016-ku
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
