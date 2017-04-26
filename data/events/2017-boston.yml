@@ -13,10 +13,10 @@ cfp_date_start: 2017-04-25 # start accepting talk proposals.
 cfp_date_end: 2017-07-01 # close your call for proposals.
 cfp_date_announce: 2017-08-01 # inform proposers of status
 
-# cfp_open: "false"
+cfp_open: "true"
 # cfp_link: "https://www.papercall.io/devopsdays-boston-2017"
 
-# registration_open: "true"
+registration_open: "true"
 # registration_link: "https://www.eventbrite.com/e/devopsdays-boston-2017-tickets-34019911471"
 
 # Location
