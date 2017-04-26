@@ -61,7 +61,7 @@ If you are interested in one of the medal packages below, offering a special spo
 </tr>
 <tr>
   <td>Recognition and thanks via Twitter\*</td>
-  <td bgcolor="005EB8" style="color:white" ><center><i>4</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>3</i></center></td>
   <td bgcolor="005EB8" style="color:white" ><center><i>4</i></center></td>
   <td bgcolor="005EB8" style="color:white" ><center><i>5</i></center></td>
 </tr>
