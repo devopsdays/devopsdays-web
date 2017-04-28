@@ -210,6 +210,10 @@ sponsors:
     level: gold
   - id: logz
     level: gold
+  - id: viasat
+    level: gold
+  - id: omniti
+    level: gold
   - id: duo
     level: silver
   - id: solutionsiq
