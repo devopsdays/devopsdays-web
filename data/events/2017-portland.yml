@@ -97,6 +97,8 @@ sponsors:
       level: lanyard
     - id: elastic
       level: gold
+    - id: tintri
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
