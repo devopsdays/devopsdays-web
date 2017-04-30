@@ -4,7 +4,7 @@ Description = ""
 Tags = []
 date = "2015-11-22T01:21:47-06:00"
 title = "Devopsdays - Organizing Guide"
-aliases = ["/pages/organizing/"]
+aliases = ["/pages/organizing/", "/pages/organising/", "/organising/"]
 +++
 
 ---

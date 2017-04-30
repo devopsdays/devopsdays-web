@@ -231,6 +231,11 @@ program:
     date: 2017-04-26
     start_time: "14:40"
     end_time: "15:20"
+  - title: "elizabeth-joseph"
+    type: talk
+    date: 2017-04-26
+    start_time: "14:40"
+    end_time: "15:10"
   - title: "Open Space #2"
     type: custom
     date: 2017-04-26
@@ -246,10 +251,10 @@ program:
     date: 2017-04-26
     start_time: "16:55"
     end_time: "17:15"
-  - title: "Party at Chef HQ! Lyft code available!"
+  - title: "Party at Chef HQ! Lyft code HUGOPS17!"
     type: custom
     date: 2017-04-26
-    start_time: "19:00"
+    start_time: "18:30"
     end_time: "late"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
@@ -321,6 +326,11 @@ program:
     date: 2017-04-27
     start_time: "14:40"
     end_time: "15:20"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2017-04-27
+    start_time: "14:40"
+    end_time: "15:10"
   - title: "Open Space #2"
     type: custom
     date: 2017-04-27
