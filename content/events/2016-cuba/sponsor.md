@@ -6,9 +6,9 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Valoramos mucho a los patrocinadores que apoyen este evento abierto. Si usted está interesado en patrocinar, por favor envíenos un correo electrónico a [{{< email_organizers >}}].
 
-<i>Valoramos mucho a los patrocinadores que apoyen este evento abierto. Si usted está interesado en patrocinar, por favor envíenos un correo electrónico a [{{< email_organizers >}}].</i>
+<i>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</i>
 <hr>
 
 DevOpsDays es una conferencia de autoorganización para profesionales que depende de los patrocinios. No tenemos cabinas de vendedores, ni hacemos presentaciones de ventas de productos o distribuimos la listas de contactos de los asistentes. Los patrocinadores tienen la oportunidad de tener lanzamientos cortos del elevador durante el programa y tendrán el reconocimiento en el Web site y los medios sociales antes, durante y después del acontecimiento. Se recomienda a los patrocinadores a que se representen participando activamente y comprometiéndose con los asistentes como compañeros. Cualquier asistente también tiene la oportunidad de hacer demostraciones de productos/proyectos como parte de una sesión de espacio abierto.
