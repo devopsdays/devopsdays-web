@@ -115,6 +115,8 @@ sponsors:
     level: gold
   - id: solidfire
     level: silver
+  - id: scalyr
+    level: silver
 
 sponsors_accepted : "yes"
 
