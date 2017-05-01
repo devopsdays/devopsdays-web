@@ -3,7 +3,7 @@ date = "2016-09-17T16:53:08+02:00"
 heading = "DevOpsDays Havana - Ponentes / <i>Speakers</i>"
 title = "speakers"
 type = "speakers"
-Description = "Ponentes de devopsdays Havana 2016 / Speakers for devopsdays Seattle 2016"
+Description = "Ponentes de devopsdays Havana 2016 / Speakers for devopsdays Havana 2016"
 
 +++
 
