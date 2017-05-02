@@ -60,7 +60,7 @@ heading = "devopsdays Amsterdam - Program"
     <time>10:05-10:35</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/neil-crawford/">Neil Crawford - The Canary and the Caterpillar</a>
+    <a href="/events/2017-amsterdam/program/matthew-slane/">Matthew Slane - Start-up Culture at Scale</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -212,6 +212,7 @@ heading = "devopsdays Amsterdam - Program"
 <div class = "row">
   <div class = "col-md-3 col-md-offset-1">
     <time>09:30-09:40</time>
+    <a href="/events/2017-amsterdam/program/neil-crawford/">Neil Crawford - The Canary and the Caterpillar</a>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Day 2 Welcome
@@ -232,7 +233,7 @@ heading = "devopsdays Amsterdam - Program"
     <time>10:20-10:50</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/matthew-slane/">Matthew Slane - Start-up Culture at Scale</a>
+
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
