@@ -25,8 +25,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "microphone"
 # - name: program
 #   icon: "book"
-# - name: propose
-#   icon: "paper-plane"
+  - name: propose
+    icon: "paper-plane"
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 # - name: registration
