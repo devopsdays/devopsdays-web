@@ -44,7 +44,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Code of Conduct
 
-Please review the event <a href="http://www.devopsdays.org/events/2016-philadelphia/conduct/">code of conduct</a>.
+Please review the event <a href="http://www.devopsdays.org/events/2017-philadelphia/conduct/">code of conduct</a>.
 
 ### Travel Expenses
 
