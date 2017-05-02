@@ -1,7 +1,7 @@
 +++
 Title = "Building security into your workflow with InSpec"
 Type = "talk"
-Speakers = ["eric-maxwell]
+Speakers = ["eric-maxwell"]
 aliases = ["/events/2017-amsterdam/program/eric-maxwell/"]
 +++
 
