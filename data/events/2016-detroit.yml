@@ -69,6 +69,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: sonatype
     level: bronze
+  - id: proquest
+    level: bronze
   - id: oreilly
     level: media
   - id: arresteddevops
