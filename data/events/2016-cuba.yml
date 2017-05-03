@@ -1,6 +1,6 @@
 name: "2016-cuba" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
-city: "Havana" # The city name of the event. Capitalize it.
+city: "Cuba" # The city name of the event. Capitalize it.
 friendly: "2016-cuba" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
@@ -104,6 +104,8 @@ sponsors:
   - id: seekatv
     level: honorary
   - id: gitlab
+    level: honorary
+  - id: docker
     level: honorary
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
