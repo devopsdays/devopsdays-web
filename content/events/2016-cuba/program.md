@@ -1,6 +1,6 @@
 +++
 date = "2016-09-17T16:53:08+02:00"
-title = "program"
+title = "Programa / Program"
 type = "event"
 
 +++
