@@ -3,6 +3,7 @@ date = "2016-10-18T19:59:04-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-salt-lake-city"]
+Description = "devopsdays Salt Lake City 2017"
 
 +++
 
@@ -99,5 +100,4 @@ The beauty of a Continuous Delivery pipeline and all of its components is knowin
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdaysslc >}}
+{{< event_twitter >}}

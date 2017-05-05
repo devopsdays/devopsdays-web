@@ -12,6 +12,8 @@ enddate:  2017-04-01 # The end date of your event. Leave blank if you don't have
 cfp_date_start: 2016-12-01 # start accepting talk proposals.
 cfp_date_end: 2017-02-01 # close your call for proposals.
 cfp_date_announce: 2017-02-11 # inform proposers of status
+registration_open: "true"
+registration_link: "https://www.eventbrite.ca/e/devops-days-vancouver-2017-mar-31st-apr-1st-tickets-29634403298"
 
 # Location
 #
@@ -20,14 +22,15 @@ location: "Vancouver" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
   - name: program
-  - name: propose
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
+  - name: livestream
   - name: registration
     url: "https://www.eventbrite.ca/e/devops-days-vancouver-2017-mar-31st-apr-1st-tickets-29634403298"
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
   - name: policies
@@ -56,46 +59,58 @@ proposal_email: "proposals-vancouver-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: ay-tech
-    level: friends
-  - id: pearlfisher-adaptech
-    level: friends
+
+  - id: automic-vancouver
+    level: gold
+  - id: boeing-vancouver
+    level: gold
   - id: deis
     level: gold
-  - id: sourcedgroup
-    level: bronze
+  - id: demonware
+    level: gold
   - id: pivotal
     level: gold
-  - id: statsearchanalytics
-    level: bronze
-  - id: itglue
-    level: bronze
-  - id: samsung-rd
-    level: bronze
   - id: salesforce
     level: gold
   - id: saucelabs
     level: gold
-#  - id: netapp
-#    level: silver
-  - id: automic-vancouver
+  - id: sumologic
     level: gold
-#  - id: boeing-aeroinfo
-#    level: gold
-  - id: ea
-    level: coffee
-  - id: demonware
-    level: gold
-  - id: scalar
-    level: silver
-  - id: victorops
-    level: gold
-#  - id: opsgenie
-#    level: bronze
   - id: trinimbus
     level: gold
+  - id: victorops
+    level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: chef
+    level: silver
+  - id: netapp
+    level: silver
+  - id: scalar
+    level: silver
+  - id: unbounce
+    level: silver
+
+  - id: itglue
+    level: bronze
+  - id: opsgenie
+    level: bronze
+  - id: samsung-rd
+    level: bronze
+  - id: statsearchanalytics
+    level: bronze
+  - id: sourcedgroup
+    level: bronze
+
+  - id: ea
+    level: coffee
+
+  - id: ay-tech
+    level: friends
+  - id: pearlfisher-adaptech
+    level: friends
+
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -107,10 +122,15 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 4
   - id: bronze
     label: Bronze
+    max: 5
   - id: coffee
     label: Coffee
+    max: 1
+  - id: party
+    label: Happy Hour
   - id: friends
     label: Friends
+    max: 2

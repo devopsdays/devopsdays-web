@@ -1,0 +1,4 @@
+{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
+{{- (printf "<a href = \"/events/%s/location\">%s</a>" $event_slug $e.location) | safeHTML -}}

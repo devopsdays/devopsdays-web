@@ -5,6 +5,7 @@ date = "2017-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-denver"]
+Description = "devopsdays Denver 2017"
 
 
 +++
@@ -15,14 +16,17 @@ aliases = ["/events/2017-denver"]
   {{< event_logo >}}
 </div>
 
-DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}
+DevOpsDays is back for its 3rd annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
-  <div class = "col-md-8">
-    Check back Wednesday, March 1st!
+  <div class = "col-md-2">
+    <a href = "/events/2017-denver/program/">Schedule</a>
+  </div>
+  <div class = "col-md-4">
+    <a href = "/events/2017-denver/speakers/">Speakers List</a>
   </div>
 </div>
 <div class = "row">
@@ -30,7 +34,7 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
     <strong>Tickets</strong>
   </div>
   <div class = "col-md-8">
-    [Tickets are now availible](https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364)
+    <a href = "https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364">Tickets are now available</a>
   </div>
 </div>
 <div class = "row">
@@ -49,5 +53,5 @@ DevOpsDays is back for its 3rd anual event in the Rocky Mountains {{< event_star
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdaysrox >}}
+
+{{< event_twitter >}}

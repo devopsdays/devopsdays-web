@@ -1,7 +1,8 @@
 +++
 title = "Welcome"
 type = "event"
-aliases = ["/events/2017-los-angeles"]
+aliases = ["/events/2017-los-angeles", "/events/2017-losangeles"]
+Description = "devopsdays Los Angeles 2017"
 +++
 
 <h2>{{< event_start >}}</h2>
@@ -83,7 +84,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->

@@ -5,12 +5,12 @@ description: # A short blurb of text to describe your event, defaults to common 
 event_twitter: "DevOpsDaysLDN"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-#startdate: 2017-04-18
-#enddate:  2017-04-19
+startdate: 2017-09-06
+enddate:  2017-09-07
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-20 # start accepting talk proposals.
+cfp_date_end: 2017-05-31 # close your call for proposals.
+cfp_date_announce: 2017-06-14 # inform proposers of status
 
 # Location
 #
@@ -19,11 +19,11 @@ location: "London" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
 #  - name: program
-#  - name: propose
+  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
+  - name: location
 #  - name: registration
   - name: sponsor
   - name: contact
@@ -51,7 +51,7 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: pivotal
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -61,13 +61,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
   - id: gold
     label: Gold
-    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 7 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: 10

@@ -1,6 +1,7 @@
 +++
 title = "Sponsorship Info"
 type = "event"
+aliases = ["/events/2017-losangeles/sponsor"]
 +++
 
 As a not for profit community organized event, we greatly value our sponsors.

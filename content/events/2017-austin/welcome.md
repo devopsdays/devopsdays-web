@@ -5,12 +5,13 @@ date = "2016-08-25T06:01:53-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-austin"]
+Description = "devopsdays Austin 2017"
 
 +++
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-{{< event_twitter dodaustin >}}
+{{< event_twitter >}}
 
 Watch [www.devopsdaysaustin.com](http://www.devopsdaysaustin.com) for more up to date information as it becomes available.
 

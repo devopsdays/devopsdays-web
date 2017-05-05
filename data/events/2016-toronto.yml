@@ -12,7 +12,7 @@ coordinates: "43.7000, -79.4000" # The corrodinates of your venue. Get Latitude 
 location: "Glenn Gould Studio" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: propose
   - name: program
   - name: location

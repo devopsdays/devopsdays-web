@@ -1,24 +1,34 @@
 +++
+City = "Zurich"
+Year = "2017"
 date = "2017-02-21T21:20:35+01:00"
-linktitle = "jorge-salamero-sanz"
-title = "Jorge Salamero Sanz"
+talk_date = ""
+talk_start_time = ""
+talk_end_time = ""
+title = "You’re Monitoring Containers Wrong"
 type = "talk"
-
+speakers = ["jorge-salamero-sanz"]
+youtube = ""
+vimeo = ""
+speakerdeck = ""
+slideshare = ""
+slides = ""
 +++
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <p><strong>Title:</strong>
+I hate to say it, but there’s a lot of bad advice out there on how to monitor your
+containers in production. In this talk I hope to add some much-needed clarity on how to
+best monitor containers to manage the health of your applications.
 
-</p>
+My advice is built off our experience creating container monitoring solutions, and the
+information we’ve gotten from working with hundreds of customers deploying Docker.
+I’ll cover key questions like:
 
-<p><strong>Description:</strong></p>
+* Why is it so hard to get visibility into Docker containers?
+* How far can you get with the Docker stats API?
+* What metrics really matter for your containerized applications?
+* How does Kubernetes improve monitoring? How does it get in the way?
+* What open source tools can help with these challenges?
 
-<p>
-
-</p>
-<p>
-
-  </div>
-</div>
-
+In addition to this theory, I’ll get into some real examples that will ground our
+discussion. You’ll walk away with a new appreciation of what it takes to monitor your
+environment right, as well as a few ideas that you can put into practice right away.

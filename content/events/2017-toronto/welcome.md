@@ -3,6 +3,7 @@ date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-toronto"]
+Description = "devopsdays Toronto 2017"
 
 
 +++
@@ -41,39 +42,39 @@ aliases = ["/events/2017-toronto"]
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    We're still looking for a few more ignite proposals. {{< event_link page="propose" text="Submit your idea today!" >}}
   </div>
-</div>
+</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsor</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    All of our {{< event_link page="sponsor" text="sponsorship" >}} slots are filled.
   </div>
 </div>
 
@@ -84,12 +85,6 @@ aliases = ["/events/2017-toronto"]
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-</div>
-
-<!-- add your city twitter name here without the @ sign -->
-<div style="text-align:center;">
-    <br/>
-    {{< event_twitter DevOpsDaysTO >}}
 </div>
 
 <!-- Begin MailChimp Signup Form -->

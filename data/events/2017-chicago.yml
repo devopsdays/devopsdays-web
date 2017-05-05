@@ -2,27 +2,34 @@ name: "2017-chicago" # The name of the event. Four digit year with the city name
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Chicago" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysChi"
-description: "Welcome! The group that brought you DevOpsDays Chicago 2014-2016 is back together and planning the 2017 event. We’re encouraged by the feedback from previous year’s events and are determined to bring an improved experience and continue the DevOps conversation for 2017 in Chicago." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The group that brought you DevOpsDays Chicago 2014-2016 is back together and planning the 2017 event. We’re encouraged by the feedback from previous year’s events and are determined to bring an improved experience and continue the DevOps conversation for 2017 in Chicago." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-14 # start accepting talk proposals.
+cfp_date_end: 2017-06-16 # close your call for proposals.
+cfp_date_announce: 2017-07-10  # inform proposers of status
+registration_open: "false"
+registration_link: ""
+cfp_open: ""
+cfp_link: "https://www.papercall.io/devopsdays-chicago-2017"
+ga_tracking_id: "UA-74738648-1"
+masthead_background: "skyline-night.jpg"
 
 # Location
 #
 coordinates: "41.888242, -87.637856" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the venue name.
+location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+
 #  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: propose
+    url: https://www.papercall.io/devopsdays-chicago-2017 # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
 #  - name: registration
   - name: sponsor
@@ -33,25 +40,81 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members:
   - name: "Jerry Cattell"
     twitter: "jcattell"
+    image: "jerry-cattell.jpg"
+    bio: "Jerry Cattell is the VP of Engineering for LifeQode, a co-founder of ShiftGen, and occasional Senior Site Reliability Engineer for Yardi Systems. In his spare time, Jerry is a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops) and [DevOpsDays Chicago](http://devopsdayschi.org). Jerry has over 17 years experience as a developer, sysadmin, DBA, and systems architect."
+    linkedin: "https://www.linkedin.com/in/jerrycattell"
   - name: "Brian Devlin"
     twitter: "nilved"
+    image: "brian-devlin.jpg"
   - name: "Joshua Goldman"
+    image: "joshua-goldman.jpg"
   - name: "Cora Hays-Magan"
-  - name: "Michael Lanyon"
-    twitter: "lanyonm"
+    image: "cora-hays-magan.jpg"
+    twitter: "CorainChicago"
+    website: "http://corainchicago.github.io"
+    linkedin: "https://www.linkedin.com/in/corainchicago"
+    github: "corainChicago"
+    bio: "Cora became a developer after working in all the fun and exciting places, Central Asia, West Africa, and lovely Chicago.  In her household, the number of laptops outnumber the humans and cats combined."
   - name: "Aaron Lindstrom"
-  - name: "Chris Read"
-    twitter: "cread"
+    employer: "GrubHub"
+    image: "default-male.jpg"
   - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    employer: "Chef Software, Inc"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
+  - name: "Allie Richards"
+    image: "allie-richards.jpg"
+    twitter: "hpuxgirl"
+    employer: "Centro"
+    linkedin: "https://www.linkedin.com/in/alexandra-richards-88b54a36/"
+    bio: "Allie Richards has been ops-ing since before the terms \"DevOps\" and \"Operations Engineering\" existed. She is passionate about command lines, automation and performance at scale. When not at work she can usually be found trying to read with a cat on her lap."
   - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
   - name: "Matt Stratton"
+    image: "matt-stratton.jpg"
     twitter: "mattstratton"
+    employer: "Chef Software, Inc"
+    website: "https://www.mattstratton.com"
+    facebook: "https://www.facebook.com/matt.stratton"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    bio: "Matt Stratton is a customer architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Cohesive Networks"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is the Senior Marketing Specialist at Cohesive Networks.  She is responsible for growing Cohesive’s awareness through digital and written content creation, public relations, and community events. She organizes and leads the Chicago AWS user group. Previously, Margaret was VP of Operations at GreenPoint Partners, a sustainability consulting company for commercial real estate. At GreenPoint, Margaret managed the LEED building certification process for over 5 million square feet of commercial space and earned her LEED GA and LEED AP accreditations. Margaret has a BSM from Tulane University and is an AWS Certified Solutions Architect - Associate."
+  - name: "Joel Vasallo"
+    employer: "gogo"
+    twitter: "__jvasallo__"
+    website: "http://joelvasallo.com"
+    linkedin: "https://www.linkedin.com/in/joelvasallo/"
+    github: "jvasallo"
+    image: "joel-vasallo.jpg"
+    bio: "Joel is a Senior DevOps Engineer working at Gogo; providing a best-in-class cloud infrastructure and developing infrastructure/deployment tooling. Primarily works with Python, the cloud is his immutable data center, and loves tinkering with all things tech. In his spare time, Joel is also a GDG Organizer and loves exploring his home city Chicago from time to time."
+
 organizer_email: "organizers-chicago-2017@devopsdays.org"
 proposal_email: "cfp@devopsdayschi.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pivotal
+    level: gold
+  - id: influxdata
+    level: gold
   - id: arresteddevops
     level: community
 

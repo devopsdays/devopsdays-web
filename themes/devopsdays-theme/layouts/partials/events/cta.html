@@ -1,0 +1,138 @@
+{{/* site data query copypasta */}}
+{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index $.Site.Data.events $event_slug) }}
+{{/* end site data query */}}
+<!-- register button -->
+
+<div class = "row">
+
+    <!-- register button -->
+    {{ if $e.registration_open }}
+      {{ if eq $e.registration_open "true" }}
+        {{ if $e.registration_link }}
+          {{ if eq $e.registration_link "" }}
+            {{ $.Scratch.Set "registration_link" (printf "/events/%s/registration" $event_slug)}}
+          {{ else }}
+            {{ $.Scratch.Set "registration_link" $e.registration_link }}
+          {{ end }}
+        {{ else }}
+          {{ $.Scratch.Set "registration_link" (printf "/events/%s/registration" $event_slug)}}
+
+      {{ end }}
+      <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
+        <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+          </div>
+      {{ end }}
+    {{ else }}
+      {{ if $e.startdate }}
+        {{ if $e.registration_date_start }}
+          {{- if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.registration_date_start)) (le (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.registration_date_end)) }}
+            {{ if $e.registration_link }}
+              {{ if eq $e.registration_link "" }}
+                {{ $.Scratch.Set "registration_link" (printf "/events/%s/propose" $event_slug)}}
+              {{ else }}
+                {{ $.Scratch.Set "registration_link" $e.registration_link }}
+              {{ end }}
+            {{ else }}
+              {{ $.Scratch.Set "registration_link" (printf "/events/%s/propose" $event_slug)}}
+            {{ end }}
+            {{ if $e.registration_closed }}
+              {{ if ne $e.registration_closed "true" }}
+                <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+                  <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+                </div>
+              {{ end }}
+            {{ end }}
+            <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+              <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+
+
+  <!-- propose button -->
+  {{ if $e.startdate }}
+    {{ if $e.cfp_date_start }}
+      {{- if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.cfp_date_start)) (le (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" $e.cfp_date_end)) }}
+        {{ if $e.cfp_link }}
+          {{ if eq $e.cfp_link "" }}
+            {{ $.Scratch.Set "cfp_link" (printf "/events/%s/propose" $event_slug)}}
+          {{ else }}
+            {{ $.Scratch.Set "cfp_link" $e.cfp_link }}
+          {{ end }}
+        {{ else }}
+          {{ $.Scratch.Set "cfp_link" (printf "/events/%s/propose" $event_slug)}}
+        {{ end }}
+      <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
+        <a href="{{ $.Scratch.Get "cfp_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
+      </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+
+
+  <!-- follow on twitter button -->
+  {{ if $e.event_twitter }}
+    {{ if ne $e.event.twitter "" }}
+    <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
+    <a href="https://twitter.com/{{$e.event_twitter}}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Follow</a>
+    </div>
+    {{ end }}
+  {{ end }}
+
+
+</div>
+
+{{ if $e.masthead_background }}
+  {{ if ne $e.masthead_background "" }}
+    <style>
+    a.jssocials-share-link {
+      color: #fff;
+      border-color: #fff;
+      background-color: gray;
+      z-index: 2;
+    }
+    a:hover.jssocials-share-link {
+      color: #bfbfc1;
+      border-color: #bfbfc1;
+    }
+    </style>
+  {{ else }}
+
+    <style>
+    a.jssocials-share-link {
+      color: white;
+      border-color: white;
+    }
+    a:hover.jssocials-share-link {
+      color: #bfbfc1;
+      border-color: #bfbfc1;
+    }
+    </style>
+  {{ end }}
+{{ else }}
+
+  <style>
+  a.jssocials-share-link {
+    color: white;
+    border-color: white;
+  }
+  a:hover.jssocials-share-link {
+    color: #bfbfc1;
+    border-color: #bfbfc1;
+  }
+  </style>
+
+{{ end }}
+
+<div class = "row">
+  <div class = "col-md-12 offset-1 offset-md-0  welcome-page-cta">
+    <div id="share"></div>
+  </div>
+
+</div>

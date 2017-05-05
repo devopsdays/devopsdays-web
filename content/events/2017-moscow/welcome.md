@@ -3,6 +3,7 @@ date = "2016-09-05T09:42:50+03:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-moscow"]
+Description = "devopsdays Moscow 2017"
 
 +++
 
@@ -96,8 +97,8 @@ aliases = ["/events/2017-moscow"]
     </em>
   </div>
 </div>
-<!-- add your city twitter name here without the @ sign -->
+
 <!--
-{{< event_twitter devopsdaysyourcity >}}
+{{< event_twitter >}}
 -->
 

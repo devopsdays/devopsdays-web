@@ -3,6 +3,7 @@ date = "2016-09-22T10:34:20-04:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-charlotte"]
+Description = "devopsdays Charlotte 2017"
 
 +++
 
@@ -101,8 +102,7 @@ DevOpsDays is at the forefront of shared knowledge, collaboration, culture and i
 
 <br>
 
-<!-- add your city twitter name here without the @ sign -->
-{{< event_twitter devopsdays_clt >}}
+{{< event_twitter >}}
 
 <hr>
 <h3>Featured speaker</h3>

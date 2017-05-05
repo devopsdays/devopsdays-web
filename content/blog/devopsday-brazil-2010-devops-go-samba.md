@@ -2,6 +2,7 @@
 Title = "devopsday Brazil 2010 - devops go samba!"
 Date = "2010-11-04T11:38:11+00:00"
 Tags = ["2010-Brazil"]
+aliases = ["/blog/2010/11/04/devopsday-brazil-2010-devops-go-samba/"]
 +++
 
 <table>

@@ -1,0 +1,58 @@
+{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
+{{ $event_slug := index $path 1 }}
+{{ $e :=  (index $.Site.Data.events $event_slug) }}
+{{/* end site data query */}}
+
+{{ $.Scratch.Set "url" $.Site.Params.weburl }}
+{{ $.Scratch.Add "url" "/events/"}}
+{{ $.Scratch.Add "url" $event_slug }}
+{{ $.Scratch.Set "contentdir" (printf "static/events/%s/" $event_slug) }}
+
+{{ $url := $.Scratch.Get "url" }}
+{{ $.Scratch.Set "image_url" ($.Scratch.Get "url") }}
+
+{{ if (where (readDir "static/events") "Name" $event_slug)}}
+
+
+  {{ if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") }}
+    {{ $.Scratch.Add "image_url" "/logo.jpg" }}
+  {{ else }}
+    {{ $.Scratch.Add "image_url" "/logo.png" }}
+  {{ end }}
+
+{{ else }}
+    {{$.Scratch.Set "image_url" $.Site.Params.weburl }}
+    {{$.Scratch.Add "image_url" "/img/event-logo-square.jpg"}}
+{{ end}}
+
+
+
+{{- if  and $e.startdate $e.location_address -}}
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "ExhibitionEvent",
+    {{ if $e.description }}
+      "description": "{{ $e.description | htmlEscape | htmlUnescape | safeHTML}}",
+    {{ else }}
+      "description": "The conference that brings development and operations together.",
+    {{ end }}
+    "name": "devopsdays {{ $e.city }} {{ $e.year }}",
+    "startDate": "{{ $e.startdate }}",
+    "endDate": "{{ $e.enddate }}",
+    "url": "{{ $.Scratch.Get "url" }}",
+    "image": "{{ $.Scratch.Get "image_url" }}",
+    "location": {
+      "@type": "Place",
+      {{ if eq $e.city $e.location }}
+        "name": "{{ $e.city }}",
+      {{ else }}
+        "name": "{{ $e.location }}, {{ $e.city }}",
+      {{ end }}
+      "address": "{{ $e.location_address }}"
+
+    }
+  }
+  </script>
+{{- end -}}

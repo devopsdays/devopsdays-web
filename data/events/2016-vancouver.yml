@@ -12,7 +12,7 @@ coordinates: "49.2827, -123.1207" # The corrodinates of your venue. Get Latitude
 location: "location" # The name of your location
 
 nav_elements:
-  - name: welcome
+ 
   - name: program
   - name: location
   - name: livestream

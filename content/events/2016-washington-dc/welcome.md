@@ -8,7 +8,11 @@ aliases = ["/events/2016-washington-dc"]
 +++
 
 
-## DevOpsDays DC 2016 - June 8 &amp; 9
+## DevOpsDays DC 2017 - July 17 &amp; 18
+
+DevOpsDays DC returns for 2017! [Join us!](/events/2017-washington-dc/welcome/)
+
+## DevOpsDays DC 2016
 
 <img src="/events/2016-washington-dc/logo.png" style="float:right"/>
 

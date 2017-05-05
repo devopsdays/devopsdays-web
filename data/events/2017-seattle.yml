@@ -5,12 +5,13 @@ event_twitter: "devopsdayssea"
 description: "DevOpsDays is returning to Seattle in 2017" # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2017-04-26 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2017-04-27 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-04-26 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-04-27 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-10-24 # start accepting talk proposals.
 cfp_date_end: 2017-01-24 # close your call for proposals.
 cfp_date_announce: 2017-02-07 # inform proposers of status
+registration_open: "true"
 
 # Location
 #
@@ -19,8 +20,9 @@ location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+#
   - name: program
+  - name: speakers
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -32,13 +34,31 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Rob Cummings"
+    twitter: "opsrob"
+    image: "rob-cummings.jpg"
   - name: "Dominica DeGrandis"
+    twitter: "dominicad"
+    image: "dominica-degrandis.jpg"
   - name: "Dan Dicamillo"
+    twitter: "criticalthinker"
+    image: "dan-dicamillo.jpg"
   - name: "Jeremy Dyche"
+    twitter: "JD892011"
+    image: "jeremy-dyche.jpg"
   - name: "Michael Goetz"
+    twitter: "michaelpgoetz"
+    image: "michael-goetz.jpg"
   - name: "Ken Mugrage"
+    twitter: "kmugrage"
+    image: "ken-mugrage.jpg"
+    bio: "Ken promotes DevOps and Continuous Delivery for ThoughtWorks. He'll be the guy with dog hair on his clothes."
+    linkedin: "https://www.linkedin.com/in/kmugrage/"
   - name: "Michael Towbin"
+    twitter: "MichaelTowbin"
+    image: "michael-towbin.jpg"
   - name: "Todd Wilson"
+    twitter: "t1wilson"
+    image: "todd-wilson.jpg"
 
 organizer_email: "organizers-seattle-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-seattle-2017@devopsdays.org" # Put your proposal email address here
@@ -57,6 +77,7 @@ sponsors:
   - id: pivotal
     level: gold
   - id: opsgenie
+    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Seattle_%20April&utm_medium=banner
     level: gold
   - id: ns1
     level: gold
@@ -70,22 +91,58 @@ sponsors:
     level: gold
   - id: leankit
     level: gold
+  - id: catchpoint
+    level: gold
+  - id: hpe-seattle-2017
+    level: gold
+  - id: northeastern-university
+    level: gold
   - id: vmware
     level: gold
   - id: rei
+    level: gold
+  - id: accenture
+    level: gold
+  - id: getty-images
+    level: gold
+  - id: dellemc
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: aws
     level: gold
   - id: victorops
     level: silver
   - id: netapp
     level: silver
+  - id: strongbridge-consulting
+    level: silver
+  - id: joyent
+    level: silver
+  - id: base2
+    level: silver
+  - id: cloudcoreo
+    level: silver
+  - id: techtown
+    level: silver
   - id: spoken
     level: bronze
+  - id: concur
+    level: bronze
+  - id: extrahop
+    level: bronze
+  - id: t-mobile
+    level: silver
   - id: seattle-devops-meetup
     level: community
   - id: seattle-coffeeops
     level: community
+  - id: geekwire
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -94,11 +151,216 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 20
+    max: 15
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-04-26
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-26
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "gene-kim"
+    type: talk
+    date: 2017-04-26
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-26
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "nell-shamrell-harrington"
+    type: talk
+    date: 2017-04-26
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-04-26
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "scott-nasello"
+    type: talk
+    date: 2017-04-26
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-26
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "suzie-prince"
+    type: talk
+    date: 2017-04-26
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-04-26
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2017-04-26
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-04-26
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-04-26
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: "elizabeth-joseph"
+    type: talk
+    date: 2017-04-26
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-04-26
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-04-26
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-04-26
+    start_time: "16:55"
+    end_time: "17:15"
+  - title: "Party at Chef HQ! Lyft code HUGOPS17!"
+    type: custom
+    date: 2017-04-26
+    start_time: "18:30"
+    end_time: "late"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-04-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-04-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jez-humble"
+    type: talk
+    date: 2017-04-27
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-27
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "sarah-shewell-suzanne-nielsen"
+    type: talk
+    date: 2017-04-27
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-04-27
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "jeffery-smith"
+    type: talk
+    date: 2017-04-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-04-27
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "julia-wester"
+    type: talk
+    date: 2017-04-27
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-04-27
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "terrance-ryan"
+    type: talk
+    date: 2017-04-27
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2017-04-27
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-04-27
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-04-27
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2017-04-27
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2017-04-27
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "Open Space #3"
+    type: custom
+    date: 2017-04-27
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Sponsor Drawings! Collect your winnings! Close Day & Farewell"
+    type: custom
+    date: 2017-04-27
+    start_time: "17:00"
+    end_time: "17:15"
+
+ignites:
+  - title: "david-blank-edelman"
+    date: 2017-04-26
+  - title: "greg-elin"
+    date: 2017-04-26
+  - title: "dawn-parzych"
+    date: 2017-04-26
+  - title: "glenn-sarti"
+    date: 2017-04-26
+  - title: "jason-yee"
+    date: 2017-04-27
+  - title: "ram-jothikumar"
+    date: 2017-04-27
+  - title: "jason-vernon-radhika-gummadi"
+    date: 2017-04-27
+  - title: "soo-choi"
+    date: 2017-04-27

@@ -3,6 +3,7 @@ date = "2017-01-25T01:20:13-08:00"
 linktitle = "kevin-smith"
 title = "Kevin Smith"
 type = "talk"
+aliases = ["/events/2017-losangeles/program/kevin-smith"]
 
 +++
 

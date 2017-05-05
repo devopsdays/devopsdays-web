@@ -1,0 +1,79 @@
+name: 2017-berlin # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2017" # The year of the event. Make sure it is in quotes.
+city: "Berlin" # The city name of the event. Capitalize it.
+friendly: "2017-berlin" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "current" # Options are "past" or "current".
+startdate: 2017-10-18 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+enddate: 2017-10-19 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: 2017-06-01
+cfp_date_end: 2017-08-15
+cfp_date_announce: 2017-09-01
+coordinates: "52.524332,13.389849" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Kalkscheune Berlin" # The name of your location
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: program
+  - name: location
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+team_members: # Name is the only required field for team members.
+  - name: "Bernd Erk"
+    twitter: "gethash"
+    employer: "NETWAYS"
+  - name: "Ingmar Krusch"
+    twitter: "ingmarkrusch"
+    employer: "solarisBank AG"
+  - name: "Jens Brauer"
+    twitter: "jensenb"
+    employer: "AWS"
+  - name: "Martin Alfke"
+    twitter: "tuxmea"
+    employer: "Example42"
+  - name: "Markus Neder"
+    twitter: "markusneder"
+    employer: "NETWAYS"
+  - name: "Norman Messtorff"
+    twitter: "nmesstorff"
+    employer: "Deutsche Post E-POST"
+  - name: "Ralph Angenendt"
+    twitter: "lestighaniker"
+    employer: "ImmobilienScout24"
+  - name: "Ravi Yadav"
+    twitter: "ravi_yadav_de"
+    employer: "ImmobilienScout24"
+
+organizer_email: "organizers-berlin-2017@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-berlin-2017@devopsdays.org" # Put your proposal email address here
+
+sponsors_accepted: "yes"
+
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: linuxmagazin
+    level: partner
+  - id: netways
+    level: partner
+  - id: 2016-norisnetwork
+    level: eveningevent
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: eveningevent
+    label: Evening Event
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: partner
+    label: Partner
+
+speakers:
+
+
+speaker_levels:
+  - id: talk
+    label: Talk

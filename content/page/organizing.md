@@ -4,7 +4,7 @@ Description = ""
 Tags = []
 date = "2015-11-22T01:21:47-06:00"
 title = "Devopsdays - Organizing Guide"
-aliases = ["/pages/organizing/"]
+aliases = ["/pages/organizing/", "/pages/organising/", "/organising/"]
 +++
 
 ---
@@ -26,7 +26,7 @@ In the devops spirit of collaboration, find people in your region that want to h
 - Tweet that you'd be interested in running one in your region. (Use the #devopsdays hashtag.)
 - [Email the global core organizers](mailto:info@devopsdays.org) and we'll try to connect you to other people in your region
 
-You're going to need people from different organizations on your local organizing team, so you have a broader base of support and involvement from the community.
+You're going to need people from different organizations on your local organizing team, so you have a broader base of support and involvement from the community. We aren't going to green-light events put on by just one company, and you'll want the organizers from the relevant local meetups on board. Make sure everyone understands this is not about lead generation; organizers cannot use contact info from the event for their own companies.
 
 ---
 
@@ -220,6 +220,8 @@ Events usually have 4 30-min talks per day + ignite talks. Open space sessions a
 For people to respond to the call for proposals we create a specific address (proposals-yourlocation-year@devopsdays.org). You can also use a third-party CFP tool.
 
 Keep in mind that under-represented people in tech are much less likely to respond to your CFP. If you would like to encourage diverse viewpoints from voices other than those you hear the most often, you will need to reach out into those communities and encourage participation.
+
+When looking for the best selection of speakers for your event, consider that expensive paid speakers are usually not the right fit for devopsdays, not because they are paid but because you're looking for speakers who will connect with your community throughout and beyond your event (not just show up for their talk). While paying directly often can bring with it complex issues around taxes, visas, and conflict of interest/employment agreements, covering speaker expenses through direct payment or with reimbursements is a good use of funds if available.
 
 Talk selection doesn't have to be finished when you announce a schedule; it's ok to leave to space until the end. Still, we found that a finished schedule helps for attendees to make the case for them to attend. Remember that announcing only a few speakers can lead to unwarranted assumptions about your demographics.
 

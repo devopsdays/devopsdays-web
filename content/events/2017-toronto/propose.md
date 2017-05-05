@@ -6,9 +6,8 @@ title = "propose"
 type = "event"
 
 +++
-  {{< cfp_dates >}}
 
-<hr>
+Thank you to everyone who submitted proposals for our event this year. Without your talent and creativity we would not be able put together our amazing program.
 
 ### Equal Opportunity
 
@@ -35,7 +34,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Submit
 
-To submit a talk create an account on our <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> and click the _Submit a talk_ button. 
+To submit a talk create an account on our <a href="https://cfp.devopsto.com/" target="_blank">OpenCFP</a> and click the _Submit a talk_ button.
 
 - Be specific... we aren't mind readers (a description of about 20 lines is about right)
 - Detail is good... but not as important as explaining why your proposal would be interesting

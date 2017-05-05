@@ -1,10 +1,14 @@
 +++
 date = "2016-09-20T21:46:51+01:00"
-title = "DevOpsDays Seattle 2017 Registration"
+title = "Registration"
 type = "event"
 
 
 +++
+
+
+DevOpsDays 2017 Seattle is sold out. Please join the waiting list in case of cancellations.
+----
 
 <div style="width:100%; text-align:left;">
 

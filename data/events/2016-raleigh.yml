@@ -11,7 +11,7 @@ cfp_date_announce: 2016-07-15
 coordinates: "35.779590,-78.638179" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "McKimmon Conference & Training Center"
 nav_elements: # List of pages you want to show up in the navigation of your page. Remove any that aren't relevent yet.
-  - name: welcome
+ 
   - name: program
   - name: speakers
   - name: sponsor

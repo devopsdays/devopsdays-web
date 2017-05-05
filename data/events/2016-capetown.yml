@@ -19,7 +19,7 @@ location: "Hilton Doubletree, Woodstock, Cape Town" # Defaults to city, but you 
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: welcome
+ 
   - name: program
   - name: speakers
   - name: propose

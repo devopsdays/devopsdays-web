@@ -8,7 +8,8 @@ type = "event"
 <div class = "row">
   <div class = "col-md-12">
     <hr />
-    Coming soon! Currently, we are thinking of a single day event, with possibly a second hackathon or workshop day.
+    Please refer to <a href="https://confengine.com/devopsdays-tokyo-2017/speaker/info">https://confengine.com/devopsdays-tokyo-2017/speaker/info</a> 
+    for the latest speaking schedule.
     <hr />
   </div>
 </div>

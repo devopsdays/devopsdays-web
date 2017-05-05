@@ -3,12 +3,13 @@ date = "2016-12-14T09:07:19-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-saint-louis"]
+Description = "devopsdays Saint Louis 2017"
 
 +++
 
 <div>
  <!--{{< event_logo >}}-->
- <img style="width: 400px; margin: 35px 0px 10px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_St._Louis,_Missouri.svg/1280px-Flag_of_St._Louis,_Missouri.svg.png" alt="Saint Louis City Flag">
+ <img style="float: center" src="/events/2017-saint-louis/logo.png" alt="Saint Louis City Flag">
 </div>
 
 <div>

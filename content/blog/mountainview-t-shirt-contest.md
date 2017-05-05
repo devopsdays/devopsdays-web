@@ -2,6 +2,7 @@
 Title = "DevOpsDays 2011 - Mountain View T-Shirt Design Contest"
 Date = "2011-04-26T23:16:57+01:00"
 Tags = ["mountainview-2011"]
+aliases = ["/blog/2011/04/26/mountainview-t-shirt-contest/"]
 +++
 
 For the upcoming [DevOpsDays in Mountain View](/events/2011-mountainview) we're looking to create t-shirts based off of your design.  We're going to run a design submission period, followed by a brief rating period.  The design with the most votes will get printed on the back of the Devopsdays 2011 - Mountain View event shirt.  How cool is that?
