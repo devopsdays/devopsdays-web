@@ -117,6 +117,8 @@ sponsors:
     level: silver
   - id: scalyr
     level: silver
+  - id: workiva
+    level: gold
 
 sponsors_accepted : "yes"
 
