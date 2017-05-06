@@ -16,7 +16,15 @@ Description = "devopsdays Portland 2017"
   {{< event_logo >}}
 </div>
 
-Our event will be August 1st and 2nd. However, keep an eye out for a special follow-on event on the 3rd! More details to follow in this space soon.
+Our event will be August 1st and 2nd.
+
+BIG NEWS: We’re excited to be working with Config Mgmt Camp and Container Days! The two events follow DevOpsDays Portland for a third day of tech conference-y goodness in the same space.
+
+The CFP process for each conference is separate, but we’re working with them so that folks who want to attend multiple events get a discount on tickets, and sponsors who want to sponsor multiple events get a discount. See the registration page and sponsors pages below for more information. 
+
+August 1–2: DevOpsDays Portland<br>
+August 3: Config Mgmt Camp + Container Days
+
 
 <div class = "row">
   <div class = "col-md-2">
