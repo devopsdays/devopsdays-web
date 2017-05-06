@@ -132,7 +132,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Coffee – signage by the coffee displays with your logo throughout the day (option to have coffee cup sleeves printed is extra cost)</li>
         <li>T-shirt logo printed on sleeve (only available to Gold sponsor)</li>
         <li>Breakfast - signage by the breakfast tables and in the eating area with your logo in the morning before sessions</li>
-<       li>Lunch - signage by the lunch tables and in the eating area with your logo during lunch</li>
+	<li>Lunch - signage by the lunch tables and in the eating area with your logo during lunch</li>
       </ul>
   </td>
   <td>
