@@ -16,7 +16,7 @@ tags = ["amsterdam","amsterdam-2017"]
 
 
 <h3>Please vote for your favorite workshops! This will help us determine which rooms to place them in.</h3>
-<h3><strong><a href="INSERT URL">Click on this link to get started!</a></strong></h3>
+<h3><strong><a href="https://www.surveymonkey.com/r/TPQWR5W">Click on this link to get started!</a></strong></h3>
 <hr>
 
 <!-- <h2>Workshop Schedule</h2> -->
