@@ -117,6 +117,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: workiva
+    level: gold
   - id: arresteddevops
     level: community
 
