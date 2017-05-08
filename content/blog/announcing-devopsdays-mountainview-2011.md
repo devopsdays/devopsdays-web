@@ -2,6 +2,7 @@
 Title = "DevOpsDays 2011 - Mountain View Announcement"
 Date = "2011-04-13T00:00:00+01:00"
 Tags = ["mountainview-2011"]
+aliases = ["/blog/2011/04/13/announcing-devopsdays-mountainview-2011/"]
 +++
 
 ## Announcing the 2011 DevOps Days - Mt. View

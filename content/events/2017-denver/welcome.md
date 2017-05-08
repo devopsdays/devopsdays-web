@@ -5,6 +5,7 @@ date = "2017-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-denver"]
+Description = "devopsdays Denver 2017"
 
 
 +++
@@ -21,7 +22,10 @@ DevOpsDays is back for its 3rd annual event in the Rocky Mountains {{< event_sta
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
-  <div class = "col-md-8">
+  <div class = "col-md-2">
+    <a href = "/events/2017-denver/program/">Schedule</a>
+  </div>
+  <div class = "col-md-4">
     <a href = "/events/2017-denver/speakers/">Speakers List</a>
   </div>
 </div>

@@ -1,7 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "conduct"
+title = "Code of Conduct (CoC)"
 type = "event"
+description = "The code of conduct for DevOpsDays Dallas 2017"
 
 +++
 

@@ -1,35 +1,31 @@
 +++
-date = "2017-02-13T15:57:00-05:00"
+date = "2016-03-06T22:47:24-06:00"
 title = "propose"
 type = "event"
 +++
   {{< cfp_dates >}}
 
-<hr>
 
-There are three ways to propose a topic at devopsdays:
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSflRNmtOeAjvm4LaWbXyqx4qbAMniKgEIdiw1kJAaF7lY5TCg/viewform">Click here to propose a session</a></h2>
+
+There are three types of sessions:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
+  <li><strong><em>Full-length Panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
+  <li><strong><em>Ignite talk</em></strong> that will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
+  <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-<hr>
+<strong>Our main criteria to make it to the top selection are:</strong>
 
-Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
+- _original content_: content not yet presented at other conferences, or a new angle to an existing problem
+- _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
+- _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-- _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
-- _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
-- _under-represented voices_: We want to hear all voices, including those that may speak less frequently at similar events. Whether you're in a field not typically thought of as a technology field, you're in a large, traditional organization, or you're the only person at your organization with your background, we are interested in your unique experience.
-- _original content_: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn't likely to have already seen.
-- _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
-- _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
-
-<hr>
-
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li> 
-</ol>
+<strong>Rules:</strong>
+<ul>
+	<li>Be specific... we aren't mind readers (a description of 20 lines is about right)</li>
+	<li>Detail is good... but not as important as explaining why your proposal would be interesting</li>
+	<li>Propose your own talk; don't have someone else do it for you.</li>
+	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
+	<li>Multiple proposals welcome... just follow the other rules</li>
+</ul>

@@ -3,6 +3,7 @@ date = "2017-01-25T01:19:31-08:00"
 linktitle = "kiyor-cai"
 title = "Kiyor Cai"
 type = "talk"
+aliases = ["/events/2017-losangeles/program/kiyor-cai"]
 
 +++
 

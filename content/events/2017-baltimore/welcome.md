@@ -8,6 +8,7 @@ aliases = [
   "/events/2017-baltimore/welcome",
   "/events/2016-baltimore/welcome"
 ]
+Description = "devopsdays Baltimore 2017"
 
 +++
 

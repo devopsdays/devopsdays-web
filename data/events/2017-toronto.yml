@@ -27,7 +27,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: program
   - name: speakers
-  - name: propose
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: register
@@ -84,6 +84,21 @@ sponsors:
     level: bronze
   - id: joyent
     level: bronze
+  - id: highvail
+    level: bronze
+  - id: elastic
+    level: gold
+  - id: opsgenie
+    level: platinum
+    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Toronto_%20May&utm_medium=banner
+  - id: logz
+    level: gold
+  - id: cgi
+    level: gold
+  - id: redhat
+    level: silver
+  - id: pure-storage
+    level: lunch
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -142,7 +157,7 @@ program:
     date: 2017-05-25
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Lunch - Sponsored by Sourced Group"
     type: custom
     date: 2017-05-25
     start_time: "12:00"
@@ -187,12 +202,11 @@ program:
     date: 2017-05-25
     start_time: "16:40"
     end_time: "17:25"
-  - title: "Evening Event"
+  - title: "Evening Event - Sponsored by CircleCI"
     type: custom
     date: 2017-05-25
     start_time: "17:30"
     end_time: "20:30"
-    comments: "tba"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-05-26
@@ -223,7 +237,7 @@ program:
     date: 2017-05-26
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Lunch - Sponsored by Pure Storage"
     type: custom
     date: 2017-05-26
     start_time: "12:00"
@@ -273,9 +287,19 @@ ignites:
     date: 2017-05-25
   - title: "philippe-tremblay"
     date: 2017-05-25
+  - title: "niall-byrne"
+    date: 2017-05-25
+  - title: "peter-chestna"
+    date: 2017-05-25
+  - title: "jeremy-garnerhowe"
+    date: 2017-05-25
   - title: "david-numan"
     date: 2017-05-26
   - title: "fawzy-manaa"
     date: 2017-05-26
   - title: "ernest-kugel"
+    date: 2017-05-26
+  - title: "jason-harley"
+    date: 2017-05-26
+  - title: "dave-cliffe"
     date: 2017-05-26

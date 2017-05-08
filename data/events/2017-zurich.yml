@@ -111,12 +111,12 @@ Enabling organisations to achieve outstanding and sustainable results that excee
   - name: "Marcel Wolf"
     twitter: "_marcelwolf"
     employer: "codecentric AG"
-    bio: ""
+    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
     github: ""
     facebook: ""
     linkedin: ""
     website: ""
-    image: ""
+    image: "marcel-wolf.jpg"
 
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
@@ -137,7 +137,7 @@ sponsors:
   - id: gocd
     level: gold
   - id: vshn
-    level: bronze
+    level: silver
   - id:  dectris
     level: bronze
   - id:  atos
@@ -161,6 +161,9 @@ sponsors:
   - id: opsgenie
     url: "http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Zurich_%20May&utm_medium=banner"
     level: silver
+  - id: cisco
+    url: "http://www.cisco.com/c/de_ch/solutions/data-center-virtualization/index.html"
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -204,7 +207,7 @@ program:
     date: 2017-05-03
     start_time: "10:40"
     end_time: "11:00"
-  - title: "chris-van-tuin"
+  - title: "suzie-prince"
     type: talk
     date: 2017-05-03
     start_time: "11:00"
@@ -254,7 +257,8 @@ program:
     date: 2017-05-03
     start_time: "19:00"
     end_time: "late"
-    comments: "tba"
+    comments: "The evening event will take place at [Boilerroom](http://www.boilerroom.ch/).<p>
+    Beer and snacks sponsored by [Atlassian](https://www.atlassian.com/)."
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2017-05-04
@@ -285,11 +289,11 @@ program:
     date: 2017-05-04
     start_time: "10:40"
     end_time: "11:00"
-  - title: "suzie-prince"
+  - title: "chris-van-tuin"
     type: talk
     date: 2017-05-04
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "michele-vuerich"
     type: talk
     date: 2017-05-04
@@ -333,8 +337,6 @@ program:
 
 ignites:
   - title: "dan-reif"
-    date: 2017-05-03
-  - title: "eric-maxwell"
     date: 2017-05-03
   - title: "henri-dubois-ferriere"
     date: 2017-05-03

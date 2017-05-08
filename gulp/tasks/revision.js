@@ -4,7 +4,7 @@ var gulp = require('gulp'),
 
 
 gulp.task('revision', function(){
-  return gulp.src(['staging/**/*.+(png|jpg|gif|svg|js|css)','!staging/favicon*', '!staging/apple-icon*', '!staging/android-icon*', '!staging/ms-icon*', '!staging/**/sharing.jpg'])
+  return gulp.src(['staging/**/*.+(png|jpg|jpeg|gif|svg|js|css)','!staging/favicon*', '!staging/apple-icon*', '!staging/android-icon*', '!staging/ms-icon*', '!staging/**/sharing.jpg'])
   .pipe(rev())
   .pipe(gulp.dest('dist'))
   .pipe(rev.manifest())

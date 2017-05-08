@@ -7,20 +7,19 @@ type = "event"
 
 +++
 
-<center>
-<b>Call for proposals extended to Friday July 8th 12am Eastern.</b><br>
-Selected proposals will be announced within a few weeks of the closing date.
-</center>
-
 <hr>
 <div style="text-align:center;font-weight:bold;font-size:175%;margin-bottom:1em">
-<a href="http://bit.ly/devopsdaysphl16cfp">Submit a Session Proposal</a>
+<a href="https://goo.gl/forms/TdaHWw0aISc8VVNt2">Submit a Session Proposal</a>
 </div>
+{{< cfp_dates >}}
 <hr>
 
-Devopsdays Philadelphia is a single track, two day event. The format will include main track presentations, <a href="/pages/ignite-talks-format">Ignite talks</a>, and <a href="pages/open-space-format">Open Spaces sessions</a>. We're soliciting proposals for 30 minute presentations and Ignite style lightning talks.
 
-A selection committee will review all proposed talks. Submitters will receive an email update before the program is announced. All proposals must be received by Friday July 8th night into Saturday at 12am Eastern. Selected proposals will be announced within a few weeks of the closing date.
+
+
+Devopsdays Philadelphia is a single track, two day event on October 24th and 25th 2017. The format will include main track presentations, <a href="/pages/ignite-talks-format">Ignite talks</a>, and <a href="pages/open-space-format">Open Spaces sessions</a>. We're soliciting proposals for 30 minute presentations and Ignite style lightning talks.
+
+A selection committee will review all proposed talks. Submitters will receive an email update before the program is announced. All proposals must be received by Friday June 2nd night into Saturday at 12am Eastern. Selected proposals will be announced a few weeks after the closing date.
 
 Are you new to public speaking? We can provide guidance/coaching for new speakers upon request.
 
@@ -45,7 +44,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Code of Conduct
 
-Please review the event <a href="http://www.devopsdays.org/events/2016-philadelphia/conduct/">code of conduct</a>.
+Please review the event <a href="http://www.devopsdays.org/events/2017-philadelphia/conduct/">code of conduct</a>.
 
 ### Travel Expenses
 

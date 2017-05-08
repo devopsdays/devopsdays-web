@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays OSLO 2017"
+Description = "Contact information for devopsdays Oslo 2017"
 +++
 
 <div class = "card" style="max-width: 600px;padding-left:0px;padding-right:0px">

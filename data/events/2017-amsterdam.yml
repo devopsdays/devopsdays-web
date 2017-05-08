@@ -11,7 +11,7 @@ enddate:  2017-06-30
 cfp_date_start: 2017-01-15  # start accepting talk proposals.
 cfp_date_end:  2017-04-01 # close your call for proposals.
 cfp_date_announce: 2017-04-15 # inform proposers of status
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdays.typeform.com/to/hbkd2j"
 registration_open: "true"
 
@@ -29,11 +29,13 @@ proposal_email: "organizers-amsterdam-2017@devopsdays.org" # Put your proposal e
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-  - name: propose
-    url: https://devopsdays.typeform.com/to/hbkd2j
+  - name: workshop
+  - name: program
+#  - name: propose
+#    url: https://devopsdays.typeform.com/to/hbkd2j
   - name: location
   - name: registration
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -42,6 +44,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # gold
+  - id: atlassian
+    level: gold
   - id: pivotal
     level: gold
   - id: elastic
@@ -49,6 +53,14 @@ sponsors:
   - id: chef
     level: gold
   - id: stackstate
+    level: gold
+  - id: gocd
+    level: gold
+  - id: workiva
+    level: gold
+  - id: victorops
+    level: gold
+  - id: logz
     level: gold
   # silver
   - id: valtech
@@ -62,11 +74,17 @@ sponsors:
   # bronze
   - id: devoteam
     level: bronze
+  - id: topdesk
+    level: bronze
+  - id: simtech
+    level: bronze
   # BBQ / Evening Event
   - id: schubergphilis
     level: bbq
   # Pre-Event Social
   # beer
+  - id: 2017-redhat
+    level: beer
   # community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

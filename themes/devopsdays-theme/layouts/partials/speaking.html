@@ -6,7 +6,7 @@
   {{ range sort $.Site.Data.events "startdate" }}
 
   {{ if .cfp_date_end }}
-    {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" ($.Now.Format "2006-01-02")) }}
+    {{ if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" .cfp_date_start)) (ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) }}
       {{ $.Scratch.Add "events" "<tr><td><a href = '/events/" }}
       {{ $.Scratch.Add "events" .name }}
       {{ $.Scratch.Add "events" "/' class = 'speaking'>" }}
@@ -20,8 +20,8 @@
 
   {{ end }} {{/* end: if .cfp_date_end */}}
 {{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
+
 {{ $.Scratch.Add "events" "</tbody></table>" }}
 
 
   {{ $.Scratch.Get "events" | safeHTML}}
-

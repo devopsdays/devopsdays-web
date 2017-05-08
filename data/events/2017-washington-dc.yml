@@ -38,19 +38,36 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Nathen Harvey"
-    twitter: "nathenharvey"
     employer: "Chef"
+    github: "nathenharvey"
+    twitter: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
+    image: "nathenharvey.jpg"
   - name: "Michael Barbine"
     twitter: "BigNerdLoLz"
     employer: "Barbine Worldwide"
   - name: "Holly Bazemore"
     twitter: "hfbazemore"
-    employer: Comcast
+    employer: "Comcast"
+  - name: "David Bock"
+    twitter: "bokmann"
+    employer: "Excella Consulting"
+    github: "bokmann"
+    # facebook: "https://www.facebook.com/bokmann"
+    # website: ""
+    linkedin: "https://www.linkedin.com/in/davidbock/"
+    image: "davidbock.jpg"
   - name: "Mark Cornick"
     employer: "CAVA"
+    twitter: "markcornick"
+    github: "markcornick"
+    image: "mark-cornick.jpg"
   - name: "Derek Daczewitz"
     twitter: "derekdaczewitz"
     employer: "Spaceflight Industries"
+    image: "derek-daczewitz.jpg"
   - name: "Jeffrey Damick"
     twitter: "jeffreydamick"
     employer: "CapitalOne"
@@ -62,10 +79,16 @@ team_members: # Name is the only required field for team members.
     employer: "GovReady"
   - name: "Jeff Gallimore"
     twitter: "jgallimore"
+    github: "jgallimore"
+    linkedin: "https://www.linkedin.com/in/jgallimore/"
+    website: "https://itsanicelife.com/"
+    image: "jeff-gallimore.jpg"
     employer: "Excella Consulting"
   - name: "Victoria Guido"
     twitter: "victorialguido"
     employer: "Blackstone Technology Group"
+    image: "victoria-guido.jpg"
+    linkedin: "https://www.linkedin.com/in/victorialguido/"
   - name: "Alan Kraft"
     employer: "United States Patent and Trademark Office (USPTO)"
   - name: "James Martin"
@@ -92,9 +115,36 @@ proposal_email: "proposals-washington-dc-2017@devopsdays.org" # Put your proposa
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id: govready
+    level: platinum
+  - id:  eglobaltech
+    level: platinum
+  - id: twistlock
+    level: platinum
+  - id:  opsgenie
+    level: platinum
+  - id:  comcast
+    level: platinum
+  - id:  redhat
+    level: platinum
+  - id:  influxdata
+    level: gold
   - id:  aurotech
     level: gold
-
+  - id: sjtechcorp
+    level: gold
+  - id: valiantsolutions
+    level: gold
+  - id: omnitech
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id:  docker-alexandria
+    level: community
+  - id:  onyx-point
+    level: silver
+  - id:  excella
+    level: platinum
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

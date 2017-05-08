@@ -24,7 +24,6 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-event_logo: "logo.jpg"
 
 # Location
 #
@@ -71,7 +70,6 @@ team_members: # Name is the only required field for team members.
 
   - name: "Wolfgang Bär"
     bio: "Wolfgang Bär is co-founder of wobe-systems GmbH. He is the main link between worldwide customers and product development. By coordinating feature request and juggling requirements he designs automation solutions together with customers to make their visions a reality."
-
 
 organizer_email: "organizers-kiel-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-kiel-2018@devopsdays.org" # Put your proposal email address here
