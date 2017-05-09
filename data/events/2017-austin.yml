@@ -225,6 +225,10 @@ sponsors:
     level: silver
   - id: rackn
     level: silver
+  - id: pagerduty
+    level: silver
+  - id: cdkglobal
+    level: silver
   - id: atxtechevents
     level: media
   - id: devopsdotcom

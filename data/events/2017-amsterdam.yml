@@ -29,6 +29,7 @@ proposal_email: "organizers-amsterdam-2017@devopsdays.org" # Put your proposal e
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
+  - name: workshop
   - name: program
 #  - name: propose
 #    url: https://devopsdays.typeform.com/to/hbkd2j
@@ -75,6 +76,8 @@ sponsors:
     level: bronze
   - id: topdesk
     level: bronze
+  - id: simtech
+    level: bronze
   # BBQ / Evening Event
   - id: schubergphilis
     level: bbq
@@ -109,38 +112,3 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: "8"
-
-# speakers
-speakers:
-  - id: "bernd-erk"
-    level: talk
-  - id: "dirk-lehmann"
-    level: talk
-  - id: "edward-van-deursen"
-    level: talk
-  - id: "eric-maxwell"
-    level: talk
-  - id: "hannah-foxwell"
-    level: talk
-  - id: "ilkka-turunen"
-    level: talk
-  - id: "jason-yee"
-    level: talk
-  - id: "jody-wolfborn"
-    level: talk
-  - id: "katherine-daniels"
-    level: talk
-  - id: "kris-buytaert"
-    level: talk
-  - id: "mary-gouseti"
-    level: talk
-  - id: "matthew-simons"
-    level: talk
-  - id: "matthew-slane"
-    level: talk
-  - id: "neil-crawford"
-    level: talk
-  - id: "peter-souter"
-    level: talk
-  - id: "zane-lackey"
-    level: talk
