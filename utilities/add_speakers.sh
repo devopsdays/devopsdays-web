@@ -33,7 +33,8 @@ datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
 # Create empty speakers page file (will be auto-filled for display)
 speakerspage="../content/events/$event_slug/speakers.md"
 cp examples/templates/speakers.md $speakerspage
-SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" $speakerspage
+SEDCMD "s/CITY/$city/" $speakerspage
+SEDCMD "s/YYYY/$year/" $speakerspage
 
 # uncomment link to speakers page
 SEDCMD "s/#  - name: speakers/  - name: speakers/" ../data/events/$event_slug.yml

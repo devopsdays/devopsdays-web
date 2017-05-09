@@ -29,11 +29,13 @@ proposal_email: "organizers-amsterdam-2017@devopsdays.org" # Put your proposal e
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
+  - name: workshop
+  - name: program
 #  - name: propose
 #    url: https://devopsdays.typeform.com/to/hbkd2j
   - name: location
   - name: registration
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -56,6 +58,10 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
+  - id: victorops
+    level: gold
+  - id: logz
+    level: gold
   # silver
   - id: valtech
     level: silver
@@ -69,6 +75,8 @@ sponsors:
   - id: devoteam
     level: bronze
   - id: topdesk
+    level: bronze
+  - id: simtech
     level: bronze
   # BBQ / Evening Event
   - id: schubergphilis

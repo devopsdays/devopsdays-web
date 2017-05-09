@@ -8,9 +8,9 @@ description: # A short blurb of text to describe your event, defaults to common 
 startdate: 2017-10-23 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2017-10-24 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-17 # start accepting talk proposals.
+cfp_date_end: 2017-06-10 # close your call for proposals.
+cfp_date_announce: 2017-06-24 # inform proposers of status
 
 # Location
 #
@@ -21,25 +21,43 @@ location: "Dynamic Earth" # Defaults to city, but you can make it the venue name
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
 #  - name: program
-#  - name: propose
+  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  # - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Matthew Slane"
-    employer: "Skyscanner"
-    twitter: "@mjslane"
-  - name: "Maria Gutierrez"
-    employer: "Freeagent"
-  - name: "Nick Goodall"
-    employer: "Adobe"
   - name: "Ryan Crawford"
     employer: "Skyscanner"
+    bio: "Senior Technical Manager and Tribe Engineering Lead at Skyscanner. University of St Andrews alumni. Inventor of two international patents published under the Patent Cooperation Treaty."
+    image: "ryan.jpg"
+    twitter: "@edinburghryan"
+  - name: "Nick Goodall"
+    employer: "Adobe"
+    bio: "Engineering Manager at Adobe with responsibility for Adobe Edinburgh devops team. Been involved in network technologies since 1986 and currently interested in consumer based IoT."
+    image: "nick.jpg"
+    # twitter: "@"
+  - name: "Charlotte Taylor"
+    employer: "GBG"
+    bio: "Development Team Leader at GBG."
+    # image: "charlotte.jpg"
+    # twitter: "@"
+  - name: "Maria Gutierrez"
+    employer: "Freeagent"
+    bio: "Vice President of Engineering at Freeagent."
+    # image: "maria.jpg"
+    twitter: "@mariagutierrez"
+  - name: "Matthew Slane"
+    employer: "Skyscanner"
+    bio: "Senior Engineer at Skyscanner currently working in service routing and discovery."
+    # image: "matt.jpg"
+    twitter: "@mjslane"
+
+
 organizer_email: "organizers-edinburgh-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2017@devopsdays.org" # Put your proposal email address here
 
@@ -50,6 +68,8 @@ sponsors:
   #   level: gold
   # - id: arresteddevops
   #   level: community
+   - id:  cirrushq
+     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -66,5 +86,5 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+#  - id: community
+#    label: Community
