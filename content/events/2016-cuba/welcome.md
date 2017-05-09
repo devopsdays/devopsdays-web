@@ -8,9 +8,9 @@ aliases = ["/events/2016-cuba"]
 
 ¡DevOpsDays viene a Cuba! / <i>DevOpsDays is coming to Cuba!</i>
 
-**Será auspiciado en la {{< event_location >}} desde el jueves, 20 de octubre hasta viernes, 21 de octubre, 2016.**
+**Será auspiciado en la {{< event_location >}} desde el martes, 18 de octubre hasta viernes, 21 de octubre, 2016.**
 
-<i>**It will be hosted at the <a href="/events/2016-cuba/location">University of Computer Science</a> on {{< event_start >}} till {{< event_end  >}}.**</i>
+<i>**It will be hosted at the <a href="/events/2016-cuba/location">University of Informatic Sciences</a> on {{< event_start >}} till {{< event_end  >}}.**</i>
 
 <!-- Please go to the local website to get more information: <a href="https://devopsdayscuba.eventos.uci.cu/">devopsdayscuba.eventos.uci.cu</a> (Yes, please accept the certificate...) -->
 
@@ -49,11 +49,11 @@ aliases = ["/events/2016-cuba"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Ponente / <i>Speakers</i>:</strong>
+    <strong>Ponentes / <i>Speakers</i>:</strong>
   </div>
     <div class = "col-md-30">
-   Mira quienes son los {{< event_link page="speakers" text="ponentes Internacional confirmado..." >}}<br>
-   <i>Check out who are the {{< event_link page="speakers" text="confirmed International speakers..." >}}</i>
+   Mire quienes son los {{< event_link page="speakers" text="ponentes confirmados..." >}}<br>
+   <i>Check out who are the {{< event_link page="speakers" text="confirmed speakers..." >}}</i>
     </div>
 </div>  
 <br>
@@ -68,7 +68,18 @@ aliases = ["/events/2016-cuba"]
 </div>
 
 <br>
-  {{< event_twitter devopsdayscuba >}} 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Síganos / <i>Follow</i>:</strong>
+  </div>
+    <div class = "col-md-30">
+    <a href="https://twitter.com/devopsdayscuba">Twitter</a><br>
+    <a href="https://linkedin.com/groups/7070120">LinkedIn</a><br>
+    <a href="https://speakerdeck.com/devopsdayscuba/">Speakerdeck</a><br>
+    <a href="https://www.youtube.com/playlist?list=PLobspijdw3822IEFotAHz_vWrc0nTqwxn">Youtube</a><br>
+    <a href="https://www.flickr.com/photos/devopsdayscuba/sets/72157676474202286">Flickr</a><br>
+    </div>
+</div>  
 
  
   

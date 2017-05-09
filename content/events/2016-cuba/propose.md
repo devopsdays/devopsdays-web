@@ -36,7 +36,7 @@ Adicionalmente se aceptarán presentaciones relacionadas con temas presentados e
 
 Por favor considere, que por la novedad de estos temas y las capacidades para su presentación, no todos podrán ser cubiertos en este primer DevOpsDays Cuba. Por lo que se les exhorta a emplear los Espacios Abiertos para profundizar sobre las temáticas no cubiertas en las presentaciones.
 
-El envío de sus propuestas debe hacerse empleando esta plataforma mediante el registro de los datos solicitados para la evaluación de cada presentación. El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el programa oficial del evento.
+El envío de sus propuestas debe hacerse empleando el sitio https://devopsdayscuba.eventos.uci.cu mediante el registro de los datos solicitados para la evaluación de cada presentación. El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el programa oficial del evento.
 
 Si presenta algún problema por favor contáctenos:  <strong><a href="mailto:proposals-cuba-2016@devopsdays.org">proposals-cuba-2016@devopsdays.org</a></strong>  
 
