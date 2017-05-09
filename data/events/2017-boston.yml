@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #   icon: "book"
  # - name: speakers
  #   icon: "microphone"
-  # - name: sponsor
-  #   icon: "money"
+  - name: sponsor
+    icon: "money"
   - name: contact
     icon: "envelope-o"
   - name: conduct
@@ -49,11 +49,6 @@ team_members: # Name is the only required field for team members.
 
   # Advisors: TBD if we can separate out
 
-  - name: "Cody Lazri"
-    twitter: "ti_au_"
-    employer: "Cogito"
-    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
-    image: "codylazri.jpg"
 
   # Lead organizers: TBD if we can separate out
 
@@ -97,8 +92,15 @@ team_members: # Name is the only required field for team members.
   - name: "Ed Rousseau"
     twitter: "elrousseau"
     employer: Cure Forward
+
   # Asst. organizers: TBD if we can separate out
 
+  - name: "Cody Lazri"
+    twitter: "ti_au_"
+    employer: "Cogito"
+    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
+    image: "codylazri.jpg"
+    role: Advisor
   # Example:
   # - name: "Sally Fields"
   #   employer: "Acme Anvil Co."
@@ -114,10 +116,10 @@ proposal_email: "proposals-boston-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-  - id: arresteddevops
-    level: community
+  # - id: samplesponsorname
+  #   level: gold
+  # - id: arresteddevops
+  #   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,13 +130,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 8
+
   - id: gold
     label: Gold
     max: 10
   - id: silver
     label: Silver
-    max: 15 # This is the same as omitting the max limit.
+
   - id: recruiting
     label: Recruiting
+
 
