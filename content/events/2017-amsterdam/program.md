@@ -5,6 +5,13 @@ type = "event"
 heading = "devopsdays Amsterdam - Program"
 +++
 
+<style type="text/css">
+.box-grey{padding:1.5em;margin-bottom:1.5em;background:#e7e3e3}
+.box-lightorange{padding:1.5em;margin-bottom:1.5em;background:#ffcc99}
+.centerstyle {text-align:center;}
+</style>
+
+
 <div class = "row">
   <div class = "col-md-10">
     <hr />
@@ -27,7 +34,7 @@ heading = "devopsdays Amsterdam - Program"
 </div>
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>08:00-09:00</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -36,7 +43,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>09:00-09:25</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -46,7 +53,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>09:30-10:00</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -56,7 +63,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>10:05-10:35</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -65,7 +72,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>10:35-10:45</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -74,7 +81,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>10:50-11:20</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -83,7 +90,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>11:25-11:55</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -92,7 +99,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>12:00-13:00</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -101,7 +108,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>13:00-13:30</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -110,7 +117,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>13:40-14:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -119,7 +126,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>14:15-14:45</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -129,49 +136,49 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>15:00-15:30</time>
   </div>
   <div class = "col-md-3 col-md-offset-2 box">
     <strong>Open Space</strong><br />
     Open Space #1
   </div>
-  <div class = "col-md-3 col-md-offset-2 box">
+  <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>HumanOps Track</strong><br />
     <a href="/events/2017-amsterdam/program/bernd-erk/">Bernd Erk - How to make good and difficult decisions</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>15:40-16:10</time>
   </div>
   <div class = "col-md-3 col-md-offset-2 box">
     <strong>Open Space</strong><br />
     Open Space #2
   </div>
-  <div class = "col-md-3 col-md-offset-2 box">
+  <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>HumanOps Track</strong><br />
     <a href="/events/2017-amsterdam/program/talk-to-be-confirmed/">Talk to be confirmed</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>16:20-16:50</time>
   </div>
   <div class = "col-md-3 col-md-offset-2 box">
     <strong>Open Space</strong><br />
     Open Space #3
   </div>
-  <div class = "col-md-3 col-md-offset-2 box">
+  <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>HumanOps Track</strong><br />
     <a href="/events/2017-amsterdam/program/mary-gouseti/">Mary Gouseti - Operations in Jip-en-Janekketaal.</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>17:00-17:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -180,7 +187,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>18:00-late</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -201,7 +208,7 @@ heading = "devopsdays Amsterdam - Program"
 </div>
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>08:30-09:30</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -210,7 +217,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>09:30-09:40</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -219,7 +226,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>09:45-10:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -228,7 +235,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>10:20-10:50</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -237,7 +244,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -246,7 +253,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>11:05-11:35</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -255,7 +262,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>11:40-12:10</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -264,7 +271,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>12:15-13:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -273,7 +280,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>13:15-13:45</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -282,7 +289,7 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
     <time>13:50-14:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
@@ -291,8 +298,8 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
-    <time>13:30-14:00</time>
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
+    <time>14:15-14:45</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     <strong>Open Space &amp; Security </strong><br />
@@ -301,50 +308,50 @@ heading = "devopsdays Amsterdam - Program"
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
-    <time>14:00-14:45</time>
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
+    <time>15:00-15:30</time>
   </div>
   <div class = "col-md-3 col-md-offset-2 box">
     <strong>Open Space</strong><br />
     Open Space #1
   </div>
-  <div class = "col-md-3 col-md-offset-2 box">
+  <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>Security Track</strong><br />
     <a href="/events/2017-amsterdam/program/eric-maxwell/">Eric Maxwell - Building security into your workflow with InSpec</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
-    <time>15:00-15:45</time>
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
+    <time>15:40-16:10</time>
   </div>
   <div class = "col-md-3 col-md-offset-2 box">
     <strong>Open Space</strong><br />
     Open Space #2
   </div>
-  <div class = "col-md-3 col-md-offset-2 box">
+  <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>Security Track</strong><br />
     <a href="/events/2017-amsterdam/program/edward-van-deursen/">Edward van Deursen - GDPR in DevOps for Dummies</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
-    <time>16:00-16:45</time>
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
+    <time>16:20-16:50</time>
   </div>
   <div class = "col-md-3 col-md-offset-2 box">
     <strong>Open Space</strong><br />
     Open Space #3
   </div>
-  <div class = "col-md-3 col-md-offset-2 box">
+  <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>Security Track</strong><br />
     <a href="/events/2017-amsterdam/program/peter-souter/">Peter Souter - Secret Management in the world of Infrastructure as Code</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
-  <div class = "col-md-3 col-md-offset-1">
-    <time>16:45-17:00</time>
+  <div class = "box-lightorange col-md-3 col-md-offset-1">
+    <time>17:00-17:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Close 5th anniversary of devopsdays Amsterdam
