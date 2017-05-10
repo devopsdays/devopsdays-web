@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
     icon: "map-o"
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-# - name: registration
-#   icon: "pencil"
+  - name: registration
+    icon: "pencil"
 # - name: speakers
 #   icon: "microphone"
   - name: sponsor
@@ -159,6 +159,8 @@ sponsors:
   - id: arresteddevops
     level: community
   - id: devopslive
+    level: community
+  - id: addo2017
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

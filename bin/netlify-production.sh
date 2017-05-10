@@ -1,2 +1,3 @@
-hugo_0.19 --theme=devopsdays-theme --buildDrafts=false --baseURL="https://www.devopsdays.org"
+bin/hugo version
+bin/hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="https://www.devopsdays.org/"
 gulp
