@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["dirk-lehmann"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i2-ignite-dirk-lehmann-trust-as-the-foundation-of-devops"
 slideshare = ""
 slides = ""
 +++

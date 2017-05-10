@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["alex-lichtenberger"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-i1-alex-lichtenberger-devops-and-holacracy"
 slideshare = ""
 slides = ""
 +++

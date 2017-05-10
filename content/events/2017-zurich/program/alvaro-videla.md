@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["alvaro-videla"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-3-alvaro-videla-what-we-talk-about-when-we-talk-about-distributed-systems"
 slideshare = ""
 slides = ""
 +++

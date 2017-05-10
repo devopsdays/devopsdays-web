@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["tharmes-siva"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-3-tharmes-siva-continuous-performance-delivery-find-and-fix-the-things-that-matter"
 slideshare = ""
 slides = ""
 +++

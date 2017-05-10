@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["suzie-prince"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-4-suzie-prince-our-continuous-delivery-journey"
 slideshare = ""
 slides = ""
 +++

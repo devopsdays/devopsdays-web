@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["charity-majors"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-2-charity-majors-a-young-ladys-illustrated-primer-to-technical-decison-making"
 slideshare = ""
 slides = ""
 +++

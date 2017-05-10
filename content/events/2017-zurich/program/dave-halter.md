@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["dave-halter"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i4-dave-halter-beautiful-deployment-code"
 slideshare = ""
 slides = ""
 +++

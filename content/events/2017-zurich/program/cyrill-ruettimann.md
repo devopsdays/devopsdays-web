@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["cyrill-ruettimann"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-i2-cyrill-ruttimann-new-ways-to-effectively-develop-a-devops-culture"
 slideshare = ""
 slides = ""
 +++

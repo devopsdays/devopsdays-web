@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["jorge-salamero-sanz"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-2-jorge-salamero-sanz-youre-monitoring-containers-wrong"
 slideshare = ""
 slides = ""
 +++
