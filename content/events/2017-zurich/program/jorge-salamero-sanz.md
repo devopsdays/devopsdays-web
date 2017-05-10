@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["jorge-salamero-sanz"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-2-jorge-salamero-sanz-youre-monitoring-containers-wrong"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d2-2-jorge-salamero-sanz-youre-monitoring-containers-wrong"
 +++
 
 I hate to say it, but there’s a lot of bad advice out there on how to monitor your

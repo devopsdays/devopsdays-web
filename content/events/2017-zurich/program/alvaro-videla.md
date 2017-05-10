@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["alvaro-videla"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-3-alvaro-videla-what-we-talk-about-when-we-talk-about-distributed-systems"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d1-3-alvaro-videla-what-we-talk-about-when-we-talk-about-distributed-systems"
 +++
 
 Distributed Systems are a complex topic. There's abundant research about it but sometimes 
