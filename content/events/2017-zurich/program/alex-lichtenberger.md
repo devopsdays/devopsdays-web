@@ -12,7 +12,7 @@ youtube = ""
 vimeo = ""
 speakerdeck = "https://speakerdeck.com/dodzh/d2-i1-alex-lichtenberger-devops-and-holacracy"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d2-i1-alex-lichtenberger-devops-and-holacracy"
 +++
 
 Having the right cultural environment is key for DevOps success. In this short ignite talk, I would like to give some inspiration what it means to work together in a devops environment and the typical challenges:
