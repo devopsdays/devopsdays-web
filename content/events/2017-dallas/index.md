@@ -15,8 +15,8 @@ description = "The same group of organizers that brought you DevOpsDays DFW 2016
 
 Come join us and share on August 29 & 30 for a 2 day conference of presentations, talks and experiences from other DevOps practitioners and keep the <b><a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a></b> principles <b>AWESOME</b>!!!
 
-**NOTE:** On August 28th, we will be having a Leadership Summit. **(BY INVITATION ONLY)**<br>
-We're still working out all the details, more to come. 
+**NOTE:** On August 28th, we will be having a Leadership Summit. **(<a href="/events/2017-dallas/leadership">BY INVITATION ONLY</a>)**<br>
+Click <strong><a href="/events/2017-dallas/leadership">here</a></strong> for more details. 
 <br> <br>
 This year the event will be held at
 {{< event_link page="location" text="Capital One Conference Center" >}} in Plano, TX. 
