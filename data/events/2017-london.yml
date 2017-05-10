@@ -53,6 +53,8 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: pivotal
     level: gold
+  - id: twistlock
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

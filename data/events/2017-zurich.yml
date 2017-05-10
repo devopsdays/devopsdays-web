@@ -137,7 +137,7 @@ sponsors:
   - id: gocd
     level: gold
   - id: vshn
-    level: bronze
+    level: silver
   - id:  dectris
     level: bronze
   - id:  atos
@@ -337,8 +337,6 @@ program:
 
 ignites:
   - title: "dan-reif"
-    date: 2017-05-03
-  - title: "eric-maxwell"
     date: 2017-05-03
   - title: "henri-dubois-ferriere"
     date: 2017-05-03

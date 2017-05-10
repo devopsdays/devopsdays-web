@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #   icon: "book"
  # - name: speakers
  #   icon: "microphone"
-  # - name: sponsor
-  #   icon: "money"
+  - name: sponsor
+    icon: "money"
   - name: contact
     icon: "envelope-o"
   - name: conduct
@@ -49,20 +49,8 @@ team_members: # Name is the only required field for team members.
 
   # Advisors: TBD if we can separate out
 
-  - name: "Cody Lazri"
-    twitter: "ti_au_"
-    employer: "Cogito"
-    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
-    image: "codylazri.jpg"
 
   # Lead organizers: TBD if we can separate out
-  - name: "James Meickle"
-    employer: "Quantopian"
-    github: eronarn
-    linkedin: https://www.linkedin.com/in/eronarn
-    twitter: jmeickle
-    image: "jamesmeickle.jpg"
-    bio: "James is a site reliability engineer at Quantopian, a crowd-sourced quantitative investment firm located in Boston, MA. His focus is developing the cloud architecture that supports the Quantopian community's Python trading algorithms. Prior to joining Quantopian, he worked as a site reliability engineer at Harvard, a developer evangelist at AppNeta, and a release engineer at Romney for President 2012. <br><br>In his spare time James is a conference organizer for DevOpsDays Boston, now in its fourth year. He is also a meetup and conference speaker on topics including performance optimization, site reliability engineering, and devops tools. He is also quite committed to 'soft skills' education focusing on organizational culture and human behavior, particularly when he can incorporate lessons learned from his background in psychology and political science."
 
   - name: "Barton Nicholls"
     employer: "Cohesive Networks"
@@ -88,12 +76,31 @@ team_members: # Name is the only required field for team members.
     github: "tyrostone"
     image: "laurastone.jpg"
 
+  - name: "James Meickle"
+    employer: "Quantopian"
+    github: eronarn
+    linkedin: https://www.linkedin.com/in/eronarn
+    twitter: jmeickle
+    image: "jamesmeickle.jpg"
+    bio: "James is a site reliability engineer at Quantopian, a crowd-sourced quantitative investment firm located in Boston, MA. His focus is developing the cloud architecture that supports the Quantopian community's Python trading algorithms. Prior to joining Quantopian, he worked as a site reliability engineer at Harvard, a developer evangelist at AppNeta, and a release engineer at Romney for President 2012. <br><br>In his spare time James is a conference organizer for DevOpsDays Boston, now in its fourth year. He is also a meetup and conference speaker on topics including performance optimization, site reliability engineering, and devops tools. He is also quite committed to 'soft skills' education focusing on organizational culture and human behavior, particularly when he can incorporate lessons learned from his background in psychology and political science."
+
+  - name: "Dave Fredricks"
+    bio: "Professionally, I help companies gain a competitive edge in technical resource management, planning, and execution. On the personal side, I am very passionate about teaching and learning. 'Learning with the intent to teach others'."
+    twitter: "dfreddy76"
+    image: "davefredricks.jpg"
+
   - name: "Ed Rousseau"
     twitter: "elrousseau"
     employer: Cure Forward
-  - name: "Dave Fredricks"
+
   # Asst. organizers: TBD if we can separate out
 
+  - name: "Cody Lazri"
+    twitter: "ti_au_"
+    employer: "Cogito"
+    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
+    image: "codylazri.jpg"
+    role: Advisor
   # Example:
   # - name: "Sally Fields"
   #   employer: "Acme Anvil Co."
@@ -109,25 +116,28 @@ proposal_email: "proposals-boston-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-  - id: arresteddevops
-    level: community
+  # - id: samplesponsorname
+  #   level: gold
+  # - id: arresteddevops
+  #   level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+
+  - id: recruiting
+    label: Recruiting
+
+

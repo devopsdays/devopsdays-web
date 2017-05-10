@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["manuel-schweizer"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i3-manuel-schweizer-inside-the-cloud-from-dedicated-to-serverless"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d1-i3-manuel-schweizer-inside-the-cloud-from-dedicated-to-serverless"
 +++
 
 According to Gartner Inc. "By 2020, a corporate 'no-cloud' policy will be as rare as a 

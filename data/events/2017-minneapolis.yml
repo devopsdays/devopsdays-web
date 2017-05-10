@@ -115,6 +115,12 @@ sponsors:
     level: gold
   - id: solidfire
     level: silver
+  - id: scalyr
+    level: silver
+  - id: workiva
+    level: gold
+  - id: softwaredefinedtalk
+    level: community
 
 sponsors_accepted : "yes"
 

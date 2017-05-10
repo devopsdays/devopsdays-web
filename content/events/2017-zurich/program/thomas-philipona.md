@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["thomas-philipona"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-2-thomas-philipona-what-devs-should-consider-when-coding-applications"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d1-2-thomas-philipona-what-devs-should-consider-when-coding-applications"
 +++
 
 The third generation of OpenShift is built around applications running in Docker containers
