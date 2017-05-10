@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.8.0](https://github.com/devopsdays/devopsdays-theme/tree/1.8.0) (2017-05-08)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.2...1.8.0)
+
+**Implemented enhancements:**
+
+- Test and validate with Hugo 0.20 [\#494](https://github.com/devopsdays/devopsdays-theme/issues/494)
+- Support more than two-day events in automated program - IDEA 81 [\#490](https://github.com/devopsdays/devopsdays-theme/issues/490)
+- Improve use of truncate [\#351](https://github.com/devopsdays/devopsdays-theme/issues/351)
+
+**Closed issues:**
+
+- Front page logo align on mobile [\#483](https://github.com/devopsdays/devopsdays-theme/issues/483)
+
 ## [1.7.2](https://github.com/devopsdays/devopsdays-theme/tree/1.7.2) (2017-04-18)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.1...1.7.2)
 

@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["charity-majors"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-2-charity-majors-a-young-ladys-illustrated-primer-to-technical-decison-making"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d1-2-charity-majors-a-young-ladys-illustrated-primer-to-technical-decison-making"
 +++
 
 Over the last few years we’ve seen an explosion of complexity, in everything from polyglot 

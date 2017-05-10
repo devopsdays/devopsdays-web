@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["dan-reif"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-i4-dan-reif-massively-distributed-backups-at-facebook-scale"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d2-i4-dan-reif-massively-distributed-backups-at-facebook-scale"
 +++
 
 MySQL is at the core of Facebook's persistent storage. The graph itself, including every 

@@ -5,6 +5,8 @@ These scripts help devopsdays organizers manage their events.
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
+Full reference of all fields and features is located in [REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md) in the theme directory. 
+
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new script in [contrib](contrib/).
 
 ## Events

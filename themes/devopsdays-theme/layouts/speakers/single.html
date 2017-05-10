@@ -16,21 +16,8 @@
   {{- if eq $speaker_slug $event_slug -}}
   {{ $.Scratch.Set "speakers-exist" "true" }}
 
-  {{ $bio := .Content }}
-  {{ $subStr := split $bio " "}}
-  {{ $subStrLen := len $subStr }}
-  {{ if ge $subStrLen 51 }}
-      {{ $subStrTrim := first 51 $subStr }}
-      {{ $.Scratch.Set "bio" (delimit ($subStrTrim) " ") }}
-      {{ $.Scratch.Add "bio" "..." }}
-  {{ else }}
-    {{ $.Scratch.Set "bio" .Content }}
-  {{ end }}
-
     <!-- Now we can display stuff! -->
     <div class="col-lg-3 col-md-6">
-
-
 
       <a href = "{{ .Permalink }}">
         {{ if isset .Params "image" }}
@@ -43,7 +30,7 @@
       </a>
 
         <h3 class="card-title speakers-page"><a href = "{{ .Permalink }}">{{ .Title }}</a></h3>
-        <span class="speakers-page">{{ ($.Scratch.Get "bio") | markdownify }}</span>
+        <span class="speakers-page">{{ .Content | markdownify | truncate 300 }}</span>
 
     </div>
     {{ if modBool ($.Scratch.Get "i") 4 }}

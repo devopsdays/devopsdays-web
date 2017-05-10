@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["hannah-foxwell"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-1-hannah-foxwell-tech-is-easy-humans-are-hard"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d1-1-hannah-foxwell-tech-is-easy-humans-are-hard"
 +++
 
 The health of your culture is a product of the ideas, beliefs and behaviour of your human 

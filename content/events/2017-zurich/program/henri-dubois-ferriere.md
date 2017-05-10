@@ -10,9 +10,9 @@ type = "talk"
 speakers = ["henri-dubois-ferriere"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i1-henri-dubois-ferriere-cloudy-with-a-chance-of-syscalls"
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/dodzh/d1-i1-henri-dubois-ferriere-cloudy-with-a-chance-of-syscalls"
 +++
 
 TLDR; The Linux system call interface is becoming an increasingly useful instrumentation
