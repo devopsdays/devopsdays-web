@@ -173,12 +173,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "14:40"
     end_time: "15:25"
@@ -188,7 +188,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "15:40"
     end_time: "16:25"
@@ -198,7 +198,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "16:40"
     end_time: "17:25"
@@ -252,12 +252,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "14:40"
     end_time: "15:25"
@@ -267,7 +267,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "15:40"
     end_time: "16:25"
@@ -277,7 +277,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "16:40"
     end_time: "17:25"
