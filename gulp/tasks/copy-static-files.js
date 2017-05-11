@@ -22,4 +22,18 @@ gulp.task('copy-other-images', function() {
       .pipe(gulp.dest('dist'));
 })
 
+// gulp.task('copy-static-files', function(callback) {
+//     runSequence('copy-misc-files', 'copy-fonts', 'copy-css-maps',
+//         callback
+//     )
+// })
+
 gulp.task('copy-static-files', ['copy-misc-files', 'copy-fonts', 'copy-css-maps', 'copy-other-images'])
+
+
+// gulp.task('copy-images', function(callback) {
+//     return gulp.src(['public/**/*.png', 'public/**/*.jpg',
+//             '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*','!public/img/sponsors/*.png', '!public/img/sponsors/*.jpg','!public/events/**/logo-square.*'
+//         ])
+//         .pipe(gulp.dest('staging'));
+// })
