@@ -217,7 +217,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-26
     start_time: "13:30"
     end_time: "14:00"
@@ -312,7 +312,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-27
     start_time: "13:30"
     end_time: "14:00"
