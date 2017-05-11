@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.9.1](https://github.com/devopsdays/devopsdays-theme/tree/1.9.1) (2017-05-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.0...1.9.1)
+
+**Implemented enhancements:**
+
+- Test and validate with Hugo 0.20 [\#494](https://github.com/devopsdays/devopsdays-theme/issues/494)
+
+**Fixed bugs:**
+
+- Text color for times on "talks" on program page should be white [\#512](https://github.com/devopsdays/devopsdays-theme/issues/512)
+- Remove fingerprinting for static files [\#506](https://github.com/devopsdays/devopsdays-theme/issues/506)
+
 ## [1.9.0](https://github.com/devopsdays/devopsdays-theme/tree/1.9.0) (2017-05-11)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.8.0...1.9.0)
 
@@ -14,7 +26,6 @@
 **Fixed bugs:**
 
 - Speakerdeck url's are not consumable by jquery-oembed-all [\#508](https://github.com/devopsdays/devopsdays-theme/issues/508)
-- Gulp task does not fingerprint gif files [\#428](https://github.com/devopsdays/devopsdays-theme/issues/428)
 
 ## [1.8.0](https://github.com/devopsdays/devopsdays-theme/tree/1.8.0) (2017-05-09)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.2...1.8.0)
