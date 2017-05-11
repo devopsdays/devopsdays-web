@@ -8,7 +8,7 @@ runSequence = require('run-sequence');
 //     )
 // });
 
-gulp.task('responsive-images', ['responsive-images-logos', 'responsive-sponsor-images', 'responsive-organizer-images', 'responsive-images-remaining'])
+gulp.task('responsive-images', ['responsive-images-logos', 'responsive-sponsor-images', 'responsive-organizer-images'])
 
 
 
@@ -43,7 +43,7 @@ gulp.task('responsive-images-logos', function() {
             withMetadata: false,
             ignoreAspectRatio: true,
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 });
 
 gulp.task('responsive-organizer-images', function() {
@@ -75,7 +75,7 @@ gulp.task('responsive-organizer-images', function() {
       withMetadata: false,
       ignoreAspectRatio: true,
     }))
-    .pipe(gulp.dest('staging'));
+    .pipe(gulp.dest('dist'));
 });
 
 gulp.task('responsive-sponsor-images', function() {
@@ -116,7 +116,7 @@ gulp.task('responsive-sponsor-images', function() {
             silent: true,
             withMetadata: false,
         }))
-        .pipe(gulp.dest('staging/img/sponsors'));
+        .pipe(gulp.dest('dist/img/sponsors'));
 });
 
 
@@ -175,5 +175,5 @@ gulp.task('responsive-images-remaining', function() {
             silent: true,
             withMetadata: false,
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 });
