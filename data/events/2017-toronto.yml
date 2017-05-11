@@ -248,6 +248,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "chris-van-tuin"
+    type: talk
     date: 2017-05-26
     start_time: "13:30"
     end_time: "14:00"
