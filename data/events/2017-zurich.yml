@@ -228,22 +228,22 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "13:30"
     end_time: "14:10"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "14:15"
     end_time: "15:00"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "15:15"
     end_time: "16:00"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "16:05"
     end_time: "16:50"
@@ -310,22 +310,22 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "13:30"
     end_time: "14:10"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "14:15"
     end_time: "15:00"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "15:15"
     end_time: "16:00"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "16:05"
     end_time: "16:50"
