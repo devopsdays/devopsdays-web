@@ -3,17 +3,21 @@
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:0 updateOnSave:1 -->
 
-[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)   
-&emsp;[General Fields](#general-fields)   
-&emsp;[Date-related Fields](#date-related-fields)   
-&emsp;[Branding Fields](#branding-fields)   
-&emsp;[Location Fields](#location-fields)   
-&emsp;[Navigation Fields](#navigation-fields)   
-&emsp;[Organizer Fields](#organizer-fields)   
-&emsp;&emsp;[Team Members](#team-members)   
-&emsp;&emsp;[Organizer Emails](#organizer-emails)   
-&emsp;[Sponsor fields](#sponsor-fields)   
-&emsp;&emsp;[Sponsor Levels](#sponsor-levels)   
+[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)
+&emsp;[General Fields](#general-fields)
+&emsp;[Date-related Fields](#date-related-fields)
+&emsp;[Branding Fields](#branding-fields)
+&emsp;[Location Fields](#location-fields)
+&emsp;[Navigation Fields](#navigation-fields)
+&emsp;[Organizer Fields](#organizer-fields)
+&emsp;&emsp;[Team Members](#team-members)
+&emsp;&emsp;[Organizer Emails](#organizer-emails)
+&emsp;[Sponsor fields](#sponsor-fields)
+&emsp;&emsp;[Sponsor Levels](#sponsor-levels)
+&emsp;[Program Fields](#program-fields)
+&emsp;&emsp;[Program Items](#program-items)
+&emsp;&emsp;&emsp;[Program Element Colors](#program-element-colors)
+&emsp;&emsp;[Ignite Fields](#ignite-fields)
 
 <!-- /MDTOC -->
 
@@ -149,3 +153,61 @@ All sponsorship levels are elements of `sponsor_levels`.
 | `id`       | String | Yes      | Identifies the sponsor level as mapped to your list of sponsors. No spaces.                                                                                                                                                                 | gold    |
 | `label`    | String | Yes      | How the sponsor level appears on the site. Spaces are allowed.                                                                                                                                                                              | Gold    |
 | `max`      | String | No       | The maximum amount of sponsors allowed for this level. Once this has been reached, the "become a sponsor" link for that level will no longer appear. Setting this to "0", or leaving it blank, results in unlimited sponsors for that level | 10      |
+
+### Program Fields
+
+#### Program Items
+
+The elements of your program are set in the `program` section. Example:
+
+```
+program:
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-06-16
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-06-16
+    start_time: "09:15"
+    end_time: "09:00"
+```
+
+| Field Name         | Required | Description                                                                                                                                                                                                                                 | Example                                                                                                 |
+|--------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| `title`            | Yes      | The name of the program element. If it is a talk or ignite, it should be the name of the talk/ignite file, minus the `.md` extension.                                                                                                       | "Opening Welcome" or "apple-jack"                                                                       |
+| `type`             | Yes      | The type for the program element. Valid choices are `custom`, `talk`, `ignite`, `workshop`, or `open-space`. This defines the color of the program element. If you set `ignite`, it will also display all ignites for that date.            | talk                                                                                                    |
+| `date`             | Yes      | The date of the program element, in YYYY-MM-DD format.                                                                                                                                                                                      | 2017-06-16                                                                                              |
+| `start_time`       | Yes      | The start time of the program element.                                                                                                                                                                                                      | "08:00"                                                                                                 |
+| `end_time`         | Yes      | The end time of the program element.                                                                                                                                                                                                        | "13:40"                                                                                                 |
+| `comments`         | No       | Additional comments/notes about the program element (for example, location of an evening event). Markdown is supported.                                                                                                                     | "This will be at the [Pony Club](http://www.mattstratton.com),1005 Ponyville Drive,Ponyville, IL,60612" |
+| `background_color` | No       | Allows the ability to override the color of the program element. Only the background color can be changed; please test to make sure the color works with the displayed text colors. Color is expressed in RGB HEX value. Must be in quotes. | "#FFFA99"                                                                                            |
+
+##### Program Element Colors
+
+The current colors for program types (click on a link to see the color):
+
+- custom: [#bfbfc1](http://www.perbang.dk/rgb/BFBFC1/)
+- talk: [#0082AB](http://www.perbang.dk/rgb/0082AB/)
+- ignite: [#00C342](http://www.perbang.dk/rgb/00C342/)
+- workshop: [#99E6FF](http://www.perbang.dk/rgb/99E6FF/)
+- open-space: [#FF8300](http://www.perbang.dk/rgb/FF8300/)
+
+
+#### Ignite Fields
+
+The Ignite elements are set in the `ignites` section. Example:
+
+```
+ignites:
+  - title: "spike"
+    date: 2017-06-16
+  - title: "DevOps With Delight"
+    date: 2017-06-16
+```
+
+| Field Name | Required | Description                                                                                                                                   | Example                                  |
+|------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| `title`    | Yes      | The title of the ignite. If it is named after the filename (without the `.md` extension` of a talk, it will generate a link to the talk page. | "matt-stratton" or "DevOps With Delight" |
+| `date`     | Yes      | The date of the ignite, in YYYY-MM-DD format.                                                                                                 | 2017-06-16                               |

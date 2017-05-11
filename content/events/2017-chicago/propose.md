@@ -4,6 +4,11 @@ title = "propose"
 type = "event"
 description = "Propose a talk for DevOpsDays Chicago 2017! CFP opens on April 14th and closes on June 16th."
 +++
+
+<a class="btn btn-primary"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="https://www.papercall.io/devopsdays-chicago-2017">
+  <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+</a>
+
   {{< cfp_dates >}}
 
 <hr>

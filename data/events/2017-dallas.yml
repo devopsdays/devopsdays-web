@@ -37,8 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
     icon: "map-o"
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-# - name: registration
-#   icon: "pencil"
+  - name: registration
+    icon: "pencil"
 # - name: speakers
 #   icon: "microphone"
   - name: sponsor
@@ -160,6 +160,8 @@ sponsors:
     level: community
   - id: devopslive
     level: community
+  - id: addo2017
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -223,7 +225,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-08-29
     start_time: "13:00"
     end_time: "13:30"
@@ -233,12 +235,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "14:40"
     end_time: "15:25"
@@ -248,7 +250,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "15:40"
     end_time: "16:25"
@@ -258,7 +260,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "16:40"
     end_time: "17:25"
@@ -304,21 +306,22 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-08-30
     start_time: "13:00"
     end_time: "13:30"
   - title: ""
+    type: talk
     date: 2017-08-30
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "14:40"
     end_time: "15:25"
@@ -328,7 +331,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "15:40"
     end_time: "16:25"
@@ -338,7 +341,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "16:40"
     end_time: "17:25"

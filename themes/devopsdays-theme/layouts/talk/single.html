@@ -38,6 +38,17 @@
         {{ end }}
       {{ end }}
 
+      {{ if isset .Params "speakerdeck" }}
+        {{ if ne .Params.speakerdeck ""}}
+          <div>
+            <h2 class="talk-page">Speakerdeck</h2>
+            {{ $sdUrl := (print "http://speakerdeck.com/oembed.json?url=" print .Params.speakerdeck "&format=json" ) }}
+            {{ $dataJ := getJSON $sdUrl }}
+            {{ $dataJ.html | safeHTML }}
+          </div>
+        {{ end }}
+      {{ end }}
+
       {{ if isset .Params "slides" }}
         {{ if ne .Params.slides ""}}
         <div>
