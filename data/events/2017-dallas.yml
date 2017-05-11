@@ -225,7 +225,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-08-29
     start_time: "13:00"
     end_time: "13:30"
@@ -306,7 +306,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-08-30
     start_time: "13:00"
     end_time: "13:30"
