@@ -60,6 +60,8 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
+  - id: deloitte-digital
+    level: gold
   - id: logz
     level: gold
   # silver
@@ -82,6 +84,8 @@ sponsors:
   - id: schubergphilis
     level: bbq
   # Pre-Event Social
+  - id: opsgenie
+    level: preevent
   # beer
   - id: 2017-redhat
     level: beer
