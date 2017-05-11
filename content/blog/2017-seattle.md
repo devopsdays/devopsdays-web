@@ -10,7 +10,7 @@ Categories = []
 
 _this post was written by [Ken Mugrage](https://twitter.com/kmugrage/) and represents my views of the event_
 
-[DevOpsDays Seattle 2017](https://devopsdays.org/events/2017-seattle) was held at McCaw Hall on April 26th and 27th. Around 400 participants saw a mix of internationally known and local speaker talking about their challenges and successes.
+[DevOpsDays Seattle 2017](https://devopsdays.org/events/2017-seattle) was held at McCaw Hall on April 26th and 27th. Around 400 participants saw a mix of internationally known and local speakers talking about their challenges and successes.
 
 After the end of the event, we sent around a survey. The feedback has been overwhelmingly positive. You can see the full results [here](https://www.surveymonkey.com/results/SM-SCTVN9PB/).
 
