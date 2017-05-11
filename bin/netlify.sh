@@ -1,2 +1,2 @@
-bin/hugo version
-bin/hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="/"
+hugo version
+hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="/"
