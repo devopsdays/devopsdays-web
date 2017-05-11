@@ -8,12 +8,13 @@ Categories = []
 
 +++
 
-[DevOpsDays Seattle 2017](https://devopsdays.org/events/2017-seattle) was held at McCaw Hall on April 26th and 27th.
+[DevOpsDays Seattle 2017](https://devopsdays.org/events/2017-seattle) was held at McCaw Hall on April 26th and 27th. Around 400 participants saw a mix of internationally known and local speaker talking about their challenges and successes.
 
-Around 400 participants saw internationally known speakers as well as local
-practitioners talking about their challenges and successes. We'll post videos of the talks as soon as some post-production is complete.
+After the end of the event, we sent around a survey. The feedback has been overwhelmingly positive. You can see the full results [here](https://www.surveymonkey.com/results/SM-SCTVN9PB/).
 
-After the end of the event, we sent around a survey. Here are the results so far...
+Some things that went very well:
+
+* The speakers all did a great job. You can watch a recording of each session by clicking on the title on our [program page](/events/2017-seattle/program/).
 
 **How likely are you to recommend that we repeat this event next year?**
 
@@ -35,7 +36,7 @@ other answers when planning next year.
 
 **What would help make the event even better?**
 
-"Dedicated Seattle #Hashtag rather than just #devopsdays There were at least 50 people waitlisted, would like to see more of my team come since we are local" - 
+"Dedicated Seattle #Hashtag rather than just #devopsdays There were at least 50 people waitlisted, would like to see more of my team come since we are local" -
 
 "Signs to open space locations" - "A bit more organizational structure around facilitating the Open Space Talks." - "A way to vote for open space topics that took into consideration the two votes. On Day 2 there were 3 topics in round 1 I wanted to attend and none in round 2/3 so I left early" -
 
