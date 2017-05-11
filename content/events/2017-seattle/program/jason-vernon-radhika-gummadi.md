@@ -5,6 +5,7 @@ Speakers = ["jason-vernon", "radhika-gummadi"]
 aliases = ["/events/2017-seattle/program/jason-vernon", "/events/2017-seattle/program/radhika-gummadi"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SKdBi67RYV0" frameborder="0" allowfullscreen></iframe>
 
 T-Mobile is on a journey to becoming a world-class digital company. The entire company is looking at how they work and finding ways to make what they do radically simple and delivering a fantastic mobile first customer experience.
 
