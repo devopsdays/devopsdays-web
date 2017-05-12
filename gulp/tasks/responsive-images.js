@@ -8,7 +8,7 @@ runSequence = require('run-sequence');
 //     )
 // });
 
-gulp.task('responsive-images', ['responsive-images-logos', 'responsive-sponsor-images', 'responsive-organizer-images'])
+gulp.task('responsive-images', ['responsive-images-logos', 'responsive-sponsor-images', 'responsive-organizer-images', 'responsive-images-remaining'])
 
 
 
