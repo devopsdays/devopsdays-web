@@ -22,4 +22,4 @@ gulp.task('copy-other-images', function() {
       .pipe(gulp.dest('dist'));
 })
 
-gulp.task('copy-static-files', ['copy-misc-files', 'copy-fonts', 'copy-css-maps', 'copy-other-images'])
+gulp.task('copy-static-files', ['copy-misc-files', 'copy-fonts', 'copy-css-maps'])
