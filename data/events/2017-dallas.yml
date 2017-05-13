@@ -154,6 +154,10 @@ sponsors:
     level: gold
   - id: ns1
     level: gold
+  - id: improving
+    level: gold
+  - id: redhat
+    level: gold
   - id: alertlogic
     level: silver
   - id: arresteddevops
