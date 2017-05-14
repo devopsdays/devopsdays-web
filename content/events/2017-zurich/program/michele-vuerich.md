@@ -10,7 +10,7 @@ type = "talk"
 speakers = ["michele-vuerich","andreas-renggli"]
 youtube = ""
 vimeo = ""
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/d2-5-michele-vuerich-andreas-renggli-improving-time-to-market-the-new-speed-of-devops-in-a-corporate-environment"
 slideshare = ""
 slides = ""
 +++
