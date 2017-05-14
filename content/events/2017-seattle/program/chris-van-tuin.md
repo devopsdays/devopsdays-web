@@ -4,6 +4,7 @@ Type = "talk"
 Speakers = ["chris-van-tuin"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Waa33dLRtII" frameborder="0" allowfullscreen></iframe>
 
 A Security State of Mind: Compliance and Vulnerability Audits for Containers
 

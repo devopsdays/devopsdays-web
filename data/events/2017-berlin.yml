@@ -58,12 +58,16 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: partner
   - id: 2016-norisnetwork
     level: eveningevent
+  - id: gocd
+    level: platinum
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent
     label: Evening Event
+    max: 1
   - id: platinum
     label: Platinum
+    max: 9
   - id: gold
     label: Gold
   - id: silver

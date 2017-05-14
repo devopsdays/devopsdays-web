@@ -39,6 +39,8 @@ team_members: # Name is the only required field for team members.
     image: "ann-marie-fred.jpg"
   - name: "Chris Knotts"
   - name: "Josh Atwell"
+    twitter: "Josh_Atwell"
+    image: "josh-atwell.jpg"
   - name: "Kaete Piccirilli"
   - name: "Katie Cothran"
   - name: "Chris Short"

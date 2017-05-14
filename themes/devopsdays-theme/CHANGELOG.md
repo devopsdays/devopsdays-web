@@ -1,11 +1,37 @@
 # Change Log
 
-## [1.8.0](https://github.com/devopsdays/devopsdays-theme/tree/1.8.0) (2017-05-08)
-[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.2...1.8.0)
+## [1.9.1](https://github.com/devopsdays/devopsdays-theme/tree/1.9.1) (2017-05-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.0...1.9.1)
 
 **Implemented enhancements:**
 
 - Test and validate with Hugo 0.20 [\#494](https://github.com/devopsdays/devopsdays-theme/issues/494)
+
+**Fixed bugs:**
+
+- Text color for times on "talks" on program page should be white [\#512](https://github.com/devopsdays/devopsdays-theme/issues/512)
+- Remove fingerprinting for static files [\#506](https://github.com/devopsdays/devopsdays-theme/issues/506)
+
+## [1.9.0](https://github.com/devopsdays/devopsdays-theme/tree/1.9.0) (2017-05-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.8.0...1.9.0)
+
+**Implemented enhancements:**
+
+- Allow color overrides in program elements [\#511](https://github.com/devopsdays/devopsdays-theme/issues/511)
+- Remove accordion from program listing [\#497](https://github.com/devopsdays/devopsdays-theme/issues/497)
+- Program layout should not be evenly spread [\#496](https://github.com/devopsdays/devopsdays-theme/issues/496)
+- Ignites should display inline with the rest of the program [\#495](https://github.com/devopsdays/devopsdays-theme/issues/495)
+- Contextually style program elements [\#435](https://github.com/devopsdays/devopsdays-theme/issues/435)
+
+**Fixed bugs:**
+
+- Speakerdeck url's are not consumable by jquery-oembed-all [\#508](https://github.com/devopsdays/devopsdays-theme/issues/508)
+
+## [1.8.0](https://github.com/devopsdays/devopsdays-theme/tree/1.8.0) (2017-05-09)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.2...1.8.0)
+
+**Implemented enhancements:**
+
 - Support more than two-day events in automated program - IDEA 81 [\#490](https://github.com/devopsdays/devopsdays-theme/issues/490)
 - Improve use of truncate [\#351](https://github.com/devopsdays/devopsdays-theme/issues/351)
 
@@ -169,6 +195,10 @@
 - Alt text on organizer images needs fixing [\#388](https://github.com/devopsdays/devopsdays-theme/issues/388)
 - Regression on ability to control sponsor ship links [\#387](https://github.com/devopsdays/devopsdays-theme/issues/387)
 
+**Closed issues:**
+
+- Follow-up on \#300 squished images in IE11 [\#379](https://github.com/devopsdays/devopsdays-theme/issues/379)
+
 ## [1.0.2](https://github.com/devopsdays/devopsdays-theme/tree/1.0.2) (2017-03-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.1...1.0.2)
 
@@ -243,6 +273,7 @@
 - Test issue [\#304](https://github.com/devopsdays/devopsdays-theme/issues/304)
 - Add contributing guidelines file [\#303](https://github.com/devopsdays/devopsdays-theme/issues/303)
 - Create simple "Here's what an event needs" doc [\#181](https://github.com/devopsdays/devopsdays-theme/issues/181)
+- Image optimizations are a problem [\#127](https://github.com/devopsdays/devopsdays-theme/issues/127)
 
 ## [0.8.0](https://github.com/devopsdays/devopsdays-theme/tree/0.8.0) (2017-02-22)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.7.0...0.8.0)
@@ -309,6 +340,7 @@
 **Implemented enhancements:**
 
 - Add google analytics support [\#136](https://github.com/devopsdays/devopsdays-theme/issues/136)
+- Create backwards compatibility for old-style talks [\#4](https://github.com/devopsdays/devopsdays-theme/issues/4)
 
 **Fixed bugs:**
 
@@ -319,6 +351,7 @@
 
 **Implemented enhancements:**
 
+- Consider migrating to TOML over YAML [\#182](https://github.com/devopsdays/devopsdays-theme/issues/182)
 - Add dynamic CTA buttons to event hompages [\#162](https://github.com/devopsdays/devopsdays-theme/issues/162)
 - consolidate JS & CSS from speaking page [\#158](https://github.com/devopsdays/devopsdays-theme/issues/158)
 - Allow for non-square sponsor images [\#139](https://github.com/devopsdays/devopsdays-theme/issues/139)
@@ -327,12 +360,17 @@
 - Optimize social graph data in headers [\#128](https://github.com/devopsdays/devopsdays-theme/issues/128)
 - Update speaking page [\#117](https://github.com/devopsdays/devopsdays-theme/issues/117)
 - Create events page [\#116](https://github.com/devopsdays/devopsdays-theme/issues/116)
+- Create default event homepage images [\#81](https://github.com/devopsdays/devopsdays-theme/issues/81)
 - Create sponsor info page [\#74](https://github.com/devopsdays/devopsdays-theme/issues/74)
 - Add structured metadata for events [\#69](https://github.com/devopsdays/devopsdays-theme/issues/69)
 - Remove dependency on "welcome.md" [\#63](https://github.com/devopsdays/devopsdays-theme/issues/63)
+- Add optional "Event Name" parameter to yyyy-city data file [\#62](https://github.com/devopsdays/devopsdays-theme/issues/62)
+- Use a different method for specifying an event homepage [\#59](https://github.com/devopsdays/devopsdays-theme/issues/59)
 - add a description element to the frontmatter for a blog post [\#54](https://github.com/devopsdays/devopsdays-theme/issues/54)
+- Add feature toggles [\#50](https://github.com/devopsdays/devopsdays-theme/issues/50)
 - Make program page template dynamic [\#37](https://github.com/devopsdays/devopsdays-theme/issues/37)
 - Refactor homepage event grid [\#31](https://github.com/devopsdays/devopsdays-theme/issues/31)
+- Front page logo images need standardization [\#21](https://github.com/devopsdays/devopsdays-theme/issues/21)
 
 **Fixed bugs:**
 
@@ -343,6 +381,7 @@
 - Event level nav menu doesn't collapse [\#146](https://github.com/devopsdays/devopsdays-theme/issues/146)
 - single-day events don't display properly [\#135](https://github.com/devopsdays/devopsdays-theme/issues/135)
 - process-html gulp task takes a really long time [\#130](https://github.com/devopsdays/devopsdays-theme/issues/130)
+- Refactor image sizes [\#114](https://github.com/devopsdays/devopsdays-theme/issues/114)
 - Need bottom padding on all navs [\#106](https://github.com/devopsdays/devopsdays-theme/issues/106)
 
 **Closed issues:**
@@ -350,6 +389,7 @@
 - Consider adding bower\_component to .gitignore [\#172](https://github.com/devopsdays/devopsdays-theme/issues/172)
 - make city name as well as image linkable on front page [\#133](https://github.com/devopsdays/devopsdays-theme/issues/133)
 - Have global nav driven from config.toml menu [\#126](https://github.com/devopsdays/devopsdays-theme/issues/126)
+- Determine if program days should be fully collapsable [\#38](https://github.com/devopsdays/devopsdays-theme/issues/38)
 - Add Travis build step [\#17](https://github.com/devopsdays/devopsdays-theme/issues/17)
 
 ## [0.5.1](https://github.com/devopsdays/devopsdays-theme/tree/0.5.1) (2017-01-30)
@@ -407,6 +447,7 @@
 - Make current month highlighted [\#78](https://github.com/devopsdays/devopsdays-theme/issues/78)
 - Content of welcome page should show up somewhere [\#75](https://github.com/devopsdays/devopsdays-theme/issues/75)
 - Make gutters between sponsors smaller [\#73](https://github.com/devopsdays/devopsdays-theme/issues/73)
+- Clean up display of events that span months [\#71](https://github.com/devopsdays/devopsdays-theme/issues/71)
 - Add TBD events to event list sidebar [\#67](https://github.com/devopsdays/devopsdays-theme/issues/67)
 - Add styling to Upcoming Events sidebar [\#43](https://github.com/devopsdays/devopsdays-theme/issues/43)
 - Test out just using img-responsive with various existing logos [\#26](https://github.com/devopsdays/devopsdays-theme/issues/26)
@@ -476,6 +517,7 @@
 - test issue [\#36](https://github.com/devopsdays/devopsdays-theme/issues/36)
 - Populate exampleSite with sample data [\#19](https://github.com/devopsdays/devopsdays-theme/issues/19)
 - Optimize codekit settings [\#14](https://github.com/devopsdays/devopsdays-theme/issues/14)
+- Consider changing from Bootstrap to Bourbon/Neat [\#13](https://github.com/devopsdays/devopsdays-theme/issues/13)
 
 
 
