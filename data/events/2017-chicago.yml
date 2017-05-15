@@ -119,7 +119,11 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
+  - id: icagile
+    level: bronze
   - id: arresteddevops
+    level: community
+  - id: cwdevs
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
