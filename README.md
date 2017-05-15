@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
 [![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE)
 
+[![Report Issue](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_report-issue.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) [![Roadmap](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-roadmap.png)](https://github.com/devopsdays/devopsdays-theme/milestones) [![Feature Request](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-request.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) 
+
 # devopsdays-web
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
@@ -14,7 +16,7 @@ The technical details and guidelines for contributing to this repository are out
 
 ## Managing event content
 
-Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md).
+Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md). Full documentation on the currently released theme is always found in  [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
 
 ## Binary files
 
@@ -26,11 +28,9 @@ Generally speaking, you should avoid storing any files other than logos or small
 * OPTIONAL - you can host your PDF's for prospectus, etc, in the repo at [devopsdays/devopsdays-assets](https://github.com/devopsdays/devopsdays-assets) and then link to them from there. Files in that repo are presented under their relative URL at https://assets.devopsdays.org. For example, the file located at `static/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf` in the `devopsdays/devopsdays-assets` repo will be presented at `https://assets.devopsdays.org/events/2016/chicago/devopsdays-chicago-2016-prospectus.pdf`
 
 ## Feature Requests
-If there is a feature in the theme that you would like to see, please visit our [ideas portal](https://www.devopsdays.org/ideas) and suggest it. On that same page, you can upvote existing feedback that you would like to see.
+If there is a feature in the theme that you would like to see, please [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) to this repository and prepend the title with `[ENHANCEMENT]`. If you discover an issue with the theme, [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) and prepend the title with `[BUG]`.
 
-If you'd like to see what we have planned, check out our [roadmap](https://www.devopsdays.org/roadmap).
-
-Please only use [GitHub issues](https://www.github.com/devopsdays/devopsdays-theme) for reporting defects/bugs.
+If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.

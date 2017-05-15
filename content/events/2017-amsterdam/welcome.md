@@ -5,6 +5,7 @@ type = "event"
 aliases = ["/events/2017-amsterdam"]
 tags = ["amsterdam","amsterdam-2017"]
 heading = "devopsdays Amsterdam - Welcome"
+Description = "devopsdays Amsterdam 2017"
 +++
 
 <div style="text-align:center;">
@@ -44,33 +45,42 @@ heading = "devopsdays Amsterdam - Welcome"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <!-- {{< event_link page="propose" text="Propose a talk!" >}} -->
+    {{< event_link page="propose" text="Propose a talk!" >}}
     <a href="https://devopsdays.typeform.com/to/hbkd2j">Propose a talk!</a>
+  </div>
+</div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Workshops</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="workshop" text="workshop." >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

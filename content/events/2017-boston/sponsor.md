@@ -8,12 +8,125 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have traditional large-scale vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+
+
+<style>
+  table { border: 1px solid black;}
+
+  th {text-align: center; width: 15%; border: 1px solid black; border-bottom: 3px solid black;}
+  td {border: 1px solid black; text-align: center;}
+  .firstcol { width: 25%; text-align: left;}
+</style>
+
+<table>
+<thead>
+<tr>
+<th class='firstcol'>Sponsorship Package</th>
+<th> Platinum</th>
+<th> Gold</th>
+<th>Silver</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class='firstcol'>Contribution Cost</td>
+<td>$7500</td>
+<td>$5000</td>
+<td>$2500</td>
+</tr>
+
+<tr>
+<td class='firstcol'># of Conference Passes</td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Table Space</td>
+<td>6x2.5</td>
+<td>3x3</td>
+<td>&ndash;</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Company Logo on DevOpsDays website</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Company Logo on digital banners</td>
+<td>LG</td>
+<td>MED</td>
+<td>SM</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Mentions through Social Media</td>
+<td>Yes</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Minutes on Stage</td>
+<td>2</td>
+<td>1</td>
+<td>&ndash;</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+Sponsorship Add-Ons
+
+<table>
+<thead>
+<tr>
+<th class='firstcol'>Add-On</th>
+<th>Evening Event Sponsor</th>
+<th>Lanyard Sponsor</th>
+<th>Recruiting Sponsor</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td class='firstcol'>Cost</td>
+<td>$15000</td>
+<td>$5000</td>
+<td>$1500</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Minimum Sponsorship</td>
+<td>Gold</td>
+<td>Gold</td>
+<td>Silver</td>
+</tr>
+
+<tr>
+<td class='firstcol'>Availability</td>
+<td>2</td>
+<td>1</td>
+<td>(based on capacity)</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+Platinum sponsors get a full table and Gold sponsors a shared table where they can interact with those interested to come visit during breaks. Silver sponsor do not get a table but all three levels get their logo on the website and on digital banners. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+
+For more information about sponsorship opportunities, refer to the [Boston DevOpsDays Sponsorship Prospectus](/events/2017-boston/Boston2017SponsorProspectus.pdf)
+
 
 <!--
 <hr/>

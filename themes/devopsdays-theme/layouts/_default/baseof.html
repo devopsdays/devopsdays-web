@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html itemscope lang="{{ .Site.LanguageCode }}">
 
 <head>
     {{- partial "head.html" . -}}
@@ -9,7 +9,7 @@
 
   {{- partial "global_navbar.html" . -}}
   {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-  {{ if or (eq (index $path 0) "events") (eq .Type "events") }}
+  {{ if eq (index $path 0) "events" }}
     {{- partial "events/event_navbar.html" . -}}
   {{ end }}
   <div class="container-fluid">

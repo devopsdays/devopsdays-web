@@ -5,6 +5,8 @@ These scripts help devopsdays organizers manage their events.
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
+Full reference of all fields and features is located in [REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md) in the theme directory. 
+
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new script in [contrib](contrib/).
 
 ## Events
@@ -15,6 +17,10 @@ Use [add_new_event.sh](add_new_event.sh) to add a new event.
 1. The script will create a data file for your event in `data/events/yyyy-city.yml`. This is where you will configure many of your updates and customizations. In particular, you need to list your local organizer team here.
 1. The script will populate your event directory in `content/events/yyyy-city` with default content. You should edit it as desired.
 1. Once you have created a logo graphic, place it in `static/events/yyyy-city/logo.png`. (The file MUST be called `logo.png`.) The sample welcome page has a commented-out element to display a logo named in this way. For front-page use, you also need a square version in `static/events/yyyy-city/logo-square.jpg` (url configurable in your datafile).
+
+## Google Analytics
+
+If you have set up a Google Analytics account for tracking your specific event, you can enable tracking for your event pages by updating the `ga_tracking_id` field in your `YYYY-CITY.yml` file. Example: `ga_tracking_id: "UA-74738648-1"`
 
 ### Event Square Logo
 
@@ -31,16 +37,8 @@ Many sponsors are sponsors for multiple devopsdays. If a sponsor listing already
 
 The sample datafile has some sponsor levels pre-populated; edit as desired. You will want to decide what's in your sponsor packages before accepting most types of sponsors (other than Community).
 
-### Adding a new sponsor
-
-Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this if the sponsor doesn't already exist.)
-
-1. Sponsors need a file in the data directory, as such: `data/sponsors/sponsorname.yml`. Before creating a new one, look to see if there is an old one, possibly with a date prepended. If it has the right URL and logo, you should use it instead of creating a new one.
-1. Put the images for your sponsors in the `static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `static/img/sponsors/sponsorname.png`.
-1. Add the new sponsor to your event's datafile with the appropriate level.
-
 #### Sponsor URL override
-Sometimes, an existing sponsor will want an event-specific URL for your event. Rather than creating a new event, you can add an optional `url` field to the sponsor in your event data file to override the default URL for that sponsor. For example:
+Sometimes, an existing sponsor will want an event-specific URL for your event. Rather than creating a new sponsor, you can add an optional `url` field to the sponsor in your event data file to override the default URL for that sponsor. For example:
 
 ```
 sponsors: 
@@ -53,24 +51,41 @@ sponsors:
     level: gold
 ```
 
-See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
-
 ### Updating a sponsor
 
 If you want to update a sponsor, keep in mind that we don't want to retroactively change history for past events. See this [previous discussion](https://github.com/devopsdays/devopsdays-web/pull/503) for guidance. Basically you need to preserve past history before defining a changed default.
+
+Note that if a sponsor asks for an update affecting all future events, the shared sponsor entry will be changed for all events without any intervention needed from local organizers who have listed that sponsor. This is a benefit to using the shared sponsor entry.
+
+
+### Adding a new sponsor
+
+Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this if the sponsor doesn't already exist.)
+
+1. Sponsors need a file in the data directory, as such: `data/sponsors/sponsorname.yml`. Before creating a new one, look to see if there is an old one, possibly with a date prepended. If it has the right URL and logo, you should use it instead of creating a new one.
+1. Put the images for your sponsors in the `static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `static/img/sponsors/sponsorname.png`.
+1. Add the new sponsor to your event's datafile with the appropriate level.
+
+See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
+
 
 ### Sponsor logos
 
 Guidelines regarding sponsor logo files and formatting:
 
-* The dimensions of the image file must be at least 200px wide.
+* The dimensions of the image file must be at least 200px wide. 600px will look best for high-density display.
 * The background must be either white or transparent.
 
 All logos will be resized at release time, to 200px wide. Versions for high-density display (ex. Retina) will also be created. It is recommended that you do not use a sponsor logo that is smaller than 200px wide to keep from quality degradation at resize time.
 
-## Team members
+## Local Organizers
 
-See the example team members listed in the generated data file. You can now add additional fields for each team member, as well as a photo. The photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images are located in the `static/events/YYYY-CITY/organizers` directory.
+See the example local organizer team members listed in the generated data file found in `data/events/201?-yourcity.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
+
+The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `static/events/YYYY-CITY/organizers` directory (which the `add_organizers.sh` script will do).
+
+Any PRs adding a new local organizer will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address.
+
 
 ## Social sharing image
 

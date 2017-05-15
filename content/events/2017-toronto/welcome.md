@@ -3,6 +3,7 @@ date = "2016-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-toronto"]
+Description = "devopsdays Toronto 2017"
 
 
 +++
@@ -41,14 +42,14 @@ aliases = ["/events/2017-toronto"]
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     We're still looking for a few more ignite proposals. {{< event_link page="propose" text="Submit your idea today!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -73,7 +74,7 @@ aliases = ["/events/2017-toronto"]
     <strong>Sponsor</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    All of our {{< event_link page="sponsor" text="sponsorship" >}} slots are filled.
   </div>
 </div>
 

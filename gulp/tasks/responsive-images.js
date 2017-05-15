@@ -43,7 +43,7 @@ gulp.task('responsive-images-logos', function() {
             withMetadata: false,
             ignoreAspectRatio: true,
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 });
 
 gulp.task('responsive-organizer-images', function() {
@@ -75,7 +75,7 @@ gulp.task('responsive-organizer-images', function() {
       withMetadata: false,
       ignoreAspectRatio: true,
     }))
-    .pipe(gulp.dest('staging'));
+    .pipe(gulp.dest('dist'));
 });
 
 gulp.task('responsive-sponsor-images', function() {
@@ -116,17 +116,30 @@ gulp.task('responsive-sponsor-images', function() {
             silent: true,
             withMetadata: false,
         }))
-        .pipe(gulp.dest('staging/img/sponsors'));
+        .pipe(gulp.dest('dist/img/sponsors'));
 });
 
 
 gulp.task('responsive-images-remaining', function() {
-    return gulp.src(['public/**/*.png', 'public/**/*.jpg',
+    return gulp.src(['public/**/*.png', 'public/**/*.jpg','public/**/*.jpeg',
             '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg',
         ])
         .pipe(responsive({
             // produce multiple images from one source
             '**/*.png': [{
+                width: '100%'
+            }, {
+                width: '100%',
+                rename: {
+                    suffix: '@2x'
+                }
+            }, {
+                width: '100%',
+                rename: {
+                    suffix: '@3x'
+                }
+            }],
+            '**/*.jpeg': [{
                 width: '100%'
             }, {
                 width: '100%',
@@ -157,9 +170,10 @@ gulp.task('responsive-images-remaining', function() {
             quality: 80,
             errorOnEnlargement: false,
             withoutEnlargement: false,
+            errorOnUnusedImage: false,
             progressive: true,
             silent: true,
             withMetadata: false,
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 });

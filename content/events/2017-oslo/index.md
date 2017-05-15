@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays OSLO 2017"
+Title = "devopsdays Oslo 2017"
 Type = "welcome"
 aliases = ["/events/2017-oslo/","/events/2017-oslo/welcome/","/events/2017-oslo/index/"]
-Description = "devopsdays OSLO 2017"
+Description = "devopsdays Oslo 2017"
 +++
 
 <div style="text-align:center;">
@@ -77,8 +77,7 @@ Description = "devopsdays OSLO 2017"
     <strong>Conference hotel</strong>
   </div>
   <div class = "col-md-8">
-    TBD
-    <!--<a href="http://www.thonhotels.com/standalone-pages/block-booking/devopsdays-is-coming-to-oslo-/">Thon Hotel Oslo Panorama</a>-->
+    <a href="https://www.thonhotels.com/event/devopsdays2017/">Thon Hotel Oslo Panorama</a>
   </div>
 </div>
 

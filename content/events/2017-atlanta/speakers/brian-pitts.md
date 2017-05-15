@@ -1,7 +1,7 @@
 +++
 Title = "Brian Pitts"
 Twitter = "sciurus"
-image = "brian-pitts.jpeg"
+image = "brian-pitts.jpg" 
 type = "speaker"
 linktitle = "brian-pitts"
 

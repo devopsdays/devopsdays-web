@@ -69,6 +69,14 @@ type = "event"
     </div>
 <div class = "row">
       <div class = "col-md-4">
+        <time>10:20 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Break
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
         <time>10:30 AM</time>
       </div>
       <div class = "col-md-6 box">
@@ -144,7 +152,7 @@ type = "event"
         <time>1:50 PM</time>
       </div>
       <div class = "col-md-6 box">
-          Ignite 4 - Dmitry Vinnik: "Companies Which Need DevOps But Don't Know About It"
+          Ignite 4 - Xander Botha: "Kaos meets Containers"
       </div>
     </div>
 <div class = "row">
@@ -161,14 +169,6 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
           Open Space Slot 1
-      </div>
-    </div>
-<div class = "row">
-      <div class = "col-md-4">
-        <time>2:30 PM</time>
-      </div>
-      <div class = "col-md-6 box">
-          ...
       </div>
     </div>
 <div class = "row">
@@ -248,6 +248,14 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
           Message from Gold Sponsors: Boeing Aeroinfo, Demonware, VictorOps, Trinimbus, Sumologic
+      </div>
+    </div>
+<div class = "row">
+      <div class = "col-md-4">
+        <time>10:20 AM</time>
+      </div>
+      <div class = "col-md-6 box">
+          Break
       </div>
     </div>
 <div class = "row">
@@ -335,7 +343,7 @@ type = "event"
         <time>1:55 PM</time>
       </div>
       <div class = "col-md-6 box">
-          Ignite 10 - : TBD
+          Ignite 10 - Dmitry Vinnik: "Companies Which Need DevOps But Don't Know About It"
       </div>
     </div>
 <div class = "row">

@@ -3,6 +3,7 @@ date = "2017-01-25T01:20:39-08:00"
 linktitle = "bob-reselman"
 title = "What Do We Do After We've Automated Everything?"
 type = "talk"
+aliases = ["/events/2017-losangeles/program/bob-reselman"]
 
 +++
 

@@ -40,7 +40,7 @@ team_members: # Name is the only required field for team members.
   - name: "John Dyer"
   - name: "Jeremy Duvall"
     twitter: "jduv2683"
-  - name: "Maruene Preas"
+  - name: "Maurene Preas"
   - name: "Greg Cordell"
   - name: "Jim Song"
   - name: "Andre Thenot"
@@ -51,8 +51,13 @@ proposal_email: "proposals-atlanta-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-atlanta-opsgenie
+  - id: mailchimp
+    level: social
+  - id: gcp
+    level: social			
+  - id: opsgenie
     level: gold
+    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Atlanta_%20April&utm_medium=banner
   - id: pivotal
     level: gold
   - id: verizon
@@ -63,12 +68,28 @@ sponsors:
     level: gold
   - id: gcp
     level: gold
+  - id: newrelic
+    level: gold
+  - id: redhat
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: gocd
+    level: gold
   - id: victorops
     level: silver
   - id: relus
     level: silver
+  - id: appdynamics
+    level: silver
+  - id: nutanix
+    level: silver
+  - id: coxautomotive
+    level: silver  	
   - id: sonatype
     level: bronze
+  - id: coxautomotive
+    level: wifi
   - id: arresteddevops
     level: community
 
@@ -79,6 +100,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: social
+    label: Social
   - id: gold
     label: Gold
     max: 10
@@ -87,6 +110,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: wifi
+    label: Wifi	
   - id: community
     label: Community
 
@@ -152,13 +177,13 @@ program:
     end_time: "1:00"
 
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-18
     start_time: "1:00"
     end_time: "1:30"
 
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2017-04-18
     start_time: "1:30"
     end_time: "4:45"
@@ -188,7 +213,7 @@ program:
     start_time: "9:00"
     end_time: "9:15"
 
-  - title: "carina-c-zona"
+  - title: "michael-cote"
     type: talk
     date: 2017-04-19
     start_time: "9:15"
@@ -237,13 +262,13 @@ program:
     end_time: "1:00"
 
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-19
     start_time: "1:00"
     end_time: "1:30"
 
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2017-04-19
     start_time: "1:30"
     end_time: "4:45"
@@ -271,9 +296,9 @@ ignites:
     date: 2017-04-19
   - title: "brian-pitts"
     date: 2017-04-19
-  - title: "TBD"
+  - title: "eldon-stegall"
     date: 2017-04-19
-  - title: "TBD"
+  - title: "mykel-alvis"
     date: 2017-04-19
   - title: "devOps Ignite Karaoke"
     date: 2017-04-19

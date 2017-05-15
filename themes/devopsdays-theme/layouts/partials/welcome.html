@@ -3,7 +3,53 @@
 {{ $event_slug := index $path 1 }}
 {{ $e :=  (index $.Site.Data.events $event_slug) }}
 {{/* end site data query */}}
+{{ $.Scratch.Set "contentdir" (printf "static/events/%s/" $event_slug) }}
 
+    {{ if $e.masthead_background }}
+      {{ if ne $e.masthead_background "" }}
+      {{if (where (readDir "static/events") "Name" $event_slug)}}
+        {{ if (where (readDir ($.Scratch.Get "contentdir")) "Name" $e.masthead_background) }}
+        <style>
+
+          .welcome-page-masthead {
+            background: #bfbfc1; /* For browsers that do not support gradients */
+            background: -webkit-linear-gradient(#0082AB, #bfbfc1); /* For Safari 5.1 to 6.0 */
+            background: -o-linear-gradient(#0082AB, #bfbfc1); /* For Opera 11.1 to 12.0 */
+            background: -moz-linear-gradient(#0082AB, #bfbfc1); /* For Firefox 3.6 to 15 */
+            background: linear-gradient(#0082AB, #bfbfc1); /* Standard syntax */
+            padding: 20px;
+            margin-bottom:20px;
+            margin-top:20px;
+            z-index: 1;
+          }
+          .welcome-page-masthead:before {
+            content: ' ';
+            display: block;
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            opacity: 0.2;
+            background-image: url('/events/{{ $event_slug }}/{{$e.masthead_background}}');
+            background-repeat: no-repeat;
+            background-position: 50% 0;
+            -ms-background-size: cover;
+            -o-background-size: cover;
+            -moz-background-size: cover;
+            -webkit-background-size: cover;
+            background-size: cover;
+
+          }
+
+
+        </style>
+
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 <div class="row">
   <div class = "col-md-12 welcome-page-masthead">
 
@@ -57,14 +103,14 @@
         {{ end }}
 </div>
 
- <div class="col-xs-12 col-md-4 ">
+ <div class="col-xs-12 col-md-4">
         {{ partial "events/cta.html" . }}
     </div>
   </div>
 </div>
 </div>
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12 content-text">
     {{ .Content }}
   </div>
 </div>
