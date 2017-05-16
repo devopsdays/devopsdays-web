@@ -1,17 +1,13 @@
 {{ define "main" }}
 
-{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{ $city_slug := substr $e.name 5 }}
-
+{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
 
 <div class = "row">
     <div class = "col-md-5 offset-md-1">
     <h2 class="talk-page">{{ .Title }}</h2>
 
-    {{ if isset .Params "youtube" }}
-      {{ if ne .Params.youtube "" }}
+    {{- if isset .Params "youtube" -}}
+      {{- if ne .Params.youtube "" -}}
         <div class="row">
             <div class="col-md-12 youtube-video">
               <div class="embed-responsive embed-responsive-16by9">
@@ -20,43 +16,48 @@
               </div>
             </div>
           </div>
-        {{ end }}
-    {{ end }}
+        {{- end -}}
+    {{- end -}}
     <br />
-    <h3 class="talk-page">Talk Abstract</h3>
-
       <span class="talk-page content-text">
         {{ .Content }}
       </span>
 
-      {{ if isset .Params "slideshare" }}
-        {{ if ne .Params.slideshare ""}}
-          <div>
-            <h2 class="talk-page">Slideshare</h2>
-            <a href="{{ .Params.slideshare }}" class="embed"></a>
+      {{- if isset .Params "slideshare" -}}
+        {{- if ne .Params.slideshare "" -}}
+          <div class = "row">
+            <div class = "col">
+              <h2 class="talk-page">Slideshare</h2>
+              <a href="{{ .Params.slideshare }}" class="embed"></a>
+            </div>
           </div>
-        {{ end }}
-      {{ end }}
+        {{- end -}}
+      {{- end -}}
 
-      {{ if isset .Params "speakerdeck" }}
-        {{ if ne .Params.speakerdeck ""}}
-          <div>
+      {{- if isset .Params "speakerdeck" -}}
+        {{- if ne .Params.speakerdeck "" -}}
+        <div class = "row">
+          <div class = "col" style="max-width:100%">
             <h2 class="talk-page">Speakerdeck</h2>
-            {{ $sdUrl := (print "http://speakerdeck.com/oembed.json?url=" print .Params.speakerdeck "&format=json" ) }}
-            {{ $dataJ := getJSON $sdUrl }}
-            {{ $dataJ.html | safeHTML }}
+              {{/* {{- $dataJ := getJSON "http://speakerdeck.com/oembed.json?url=" .Params.speakerdeck "&format=json" -}}
+              {{ $dataJ.html | safeHTML }} */}}
+<a class="embedly-card" data-card-controls="0" href="{{.Params.speakerdeck}}">{{ .Title }}</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
           </div>
-        {{ end }}
-      {{ end }}
-
-      {{ if isset .Params "slides" }}
-        {{ if ne .Params.slides ""}}
-        <div>
-          <h2 class="talk-page">Slides</h2>
-          <a href = "{{ .Params.slides }}">Link to Slides</a>
         </div>
-        {{ end }}
-      {{ end }}
+        {{- end -}}
+      {{- end -}}
+
+      {{- if isset .Params "slides" -}}
+        {{- if ne .Params.slides "" -}}
+        <div class = "row">
+          <div class = "col">
+            <h2 class="talk-page">Slides</h2>
+            <a href = "{{ .Params.slides }}">Link to Slides</a>
+          </div>
+        </div>
+        {{- end -}}
+      {{- end -}}
 
   </div>
   <div class = "col-md-3 offset-md-1">
@@ -70,37 +71,35 @@
     {{- end -}}
 
 
-  {{ range .Params.speakers }}
-    {{ $.Scratch.Set "speakername" . }}
+  {{- range .Params.speakers -}}
+    {{- $.Scratch.Set "speakername" . -}}
     {{- range where $.Site.Pages "Type" "speaker" -}}
-      {{- $talk_path := split .File.Path .Site.Params.PathSeparator -}}
-      {{- $talk_slug := index $talk_path 1 -}}
-      {{- if eq $talk_slug $event_slug -}}
-        {{ if eq .File.BaseFileName ($.Scratch.Get "speakername") }}
-        <a href = "/events/{{ $event_slug }}/speakers/{{ $.Scratch.Get "speakername" }}">
-        {{ if isset .Params "image" }}
-          {{ if ne .Params.image "" }}
-            <img src = "/events/{{ $event_slug }}/speakers/{{ .Params.image }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
-          {{ end }}
-          {{ else }}
-            <img src = "/img/speaker-default.png" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
-        {{ end }}
-          <h4 class="talk-page"><a href = "/events/{{ $event_slug }}/speakers/{{ $.Scratch.Get "speakername" }}">
+      {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
+        {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
+        <a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL}}">
+        {{- if isset .Params "image" -}}
+          {{- if ne .Params.image "" -}}
+            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
+          {{- end -}}
+          {{- else -}}
+            <img src = "{{"img/speaker-default.png" | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
+        {{- end -}}
+          <h4 class="talk-page"><a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL }}">
             {{ .Title }}
           </a></h4>
           <span class="talk-page content-text">{{ .Content }}</span>
-        {{ end }}
+        {{- end -}}
 
-      {{- end -}} <!-- end if eq $talk_slug $event_slug -->
+      {{- end -}}
     {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
-  {{ end }}
-  {{ else }}<!-- now show the old stuff -->
+  {{- end -}}
+  {{- else -}}<!-- now show the old stuff -->
   <h2 class="talk-page">Speaker</h2>
-  {{ range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) $city_slug }}
-  {{ if in ($.LinkTitle | urlize) $fname }}
+  {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}
+  {{- if in ($.LinkTitle | urlize) $fname -}}
 <div class="row">
    <div class="col-md-12">
-       <img alt = "{{ $s.name }}" src = "/events/{{ $event_slug }}/speakers/{{$fname}}.jpg" class="img-responsive" width = "250px">
+       <img alt = "{{ $s.name }}" src = "{{ (printf "events/%s/speakers/%s.jpg" $e.name $fname) | absURL }}" class="img-responsive" width = "250px">
    </div>
 </div>
 <div class = "row">
@@ -111,13 +110,13 @@
     {{ $s.bio | markdownify }}
    </div>
 </div>
-  {{ end }}
-{{ end }}
+  {{- end -}}
+{{- end -}}
 {{- end -}} <!-- end check for speakers being set -->
 </div>
 </div>
 
-{{ partial "sponsors.html" . }}
+{{- partial "sponsors.html" . -}}
 
 
 {{ end }}

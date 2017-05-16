@@ -47,10 +47,3 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   Twitter = "http://www.twitter.com/devopsdays"
   Linkedin = "http://www.linkedin.com/groups?home=&gid=2445279"
   Groups = "http://groups.google.com/group/devopsdays"
-
-  # Set to "/" on *nix and Mac, "\\" on Windows
-  # Refer to https://github.com/spf13/hugo/issues/2394 for more information
-  # Do not change in this file directly - use the --config flag to hugo with the config-windows.toml file instead
-  PathSeperator = "/" # this will be deprecated with devopsdays-theme
-  pathSeparator = "/"
-  weburl = "https://www.devopsdays.org"
