@@ -1,14 +1,10 @@
-{{/* site data query copypasta */}}
-{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{/* end site data query */}}
-{{ $.Scratch.Set "contentdir" (printf "static/events/%s/" $event_slug) }}
+{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+{{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
 
-    {{ if $e.masthead_background }}
-      {{ if ne $e.masthead_background "" }}
-      {{if (where (readDir "static/events") "Name" $event_slug)}}
-        {{ if (where (readDir ($.Scratch.Get "contentdir")) "Name" $e.masthead_background) }}
+    {{- if $e.masthead_background -}}
+      {{- if ne $e.masthead_background "" -}}
+      {{- if (where (readDir "static/events") "Name" $e.name) -}}
+        {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" $e.masthead_background) -}}
         <style>
 
           .welcome-page-masthead {
@@ -32,7 +28,7 @@
             height: 100%;
             z-index: -1;
             opacity: 0.2;
-            background-image: url('/events/{{ $event_slug }}/{{$e.masthead_background}}');
+            background-image: url('{{ (printf "events/%s/%s" $e.name $e.masthead_background) | absURL}}');
             background-repeat: no-repeat;
             background-position: 50% 0;
             -ms-background-size: cover;
@@ -46,43 +42,41 @@
 
         </style>
 
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 <div class="row">
   <div class = "col-md-12 welcome-page-masthead">
-
-
   <div class = "row">
     <div class="col-xs-12 col-md-8">
       <h1 class = "welcome-page">devopsdays {{$e.city}}</h1>
         <span class="welcome-page-date">
-        {{ if $e.startdate }}
+        {{- if $e.startdate -}}
           {{- if ne $e.startdate $e.enddate }}
             {{- dateFormat "January 2" $e.startdate -}} - {{- dateFormat "2, 2006" $e.enddate -}}
-          {{- else }}
+          {{- else -}}
             {{- dateFormat "January 2" $e.startdate -}}
-          {{- end }}
+          {{- end -}}
         {{ end }}
         </span>
         <br />
 
-        {{if $e.location }}
+        {{- if $e.location -}}
           <span class = "welecome-page-masthead-venue">{{- $e.location -}}</span>
           <br />
-          {{ if $e.location_address }}
+          {{- if $e.location_address -}}
             <span><a href = "http://maps.google.com/?q={{$e.location_address}}" class = "welcome-page-masthead-link">{{ $e.location_address }}</a></span>
                         <br />
-          {{ end }}
-        {{ end }}
+          {{- end -}}
+        {{- end -}}
 
-        {{ if $e.description }}
+        {{- if $e.description -}}
           {{ $e.description | markdownify }}
            <br /><br />
-        {{ end }}
+        {{- end -}}
 
-        {{if $e.city }}
+        {{- if $e.city -}}
           {{- $.Scratch.Set "past-counter" 0 -}}
           {{- range sort $.Site.Data.events "startdate" -}}
           {{- if .startdate -}} <!-- for some reason, it bails on the city Chicago, and also Paris -->
@@ -93,18 +87,18 @@
                 {{- end -}}
               {{- if eq (lower .city) (lower $e.city)}}
                 {{- if ne .startdate $e.startdate -}}
-                  <a href = "/events/{{ .name }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
+                  <a href = "{{ (printf "events/%s" .name) | absURL }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
                 {{- end -}}
               {{- end -}}
               {{- end -}}
             {{- end -}}
           {{- end -}}
           <br /><br />
-        {{ end }}
+        {{- end -}}
 </div>
 
  <div class="col-xs-12 col-md-4">
-        {{ partial "events/cta.html" . }}
+        {{- partial "events/cta.html" . -}}
     </div>
   </div>
 </div>
