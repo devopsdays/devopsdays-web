@@ -1,5 +1,5 @@
-{{ partial "meta.html" . }}
-{{ partial "head/seo.html" . }}
+{{- partial "meta.html" . -}}
+{{- partial "head/seo.html" . -}}
 
 <title>
     {{- $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" -}}
@@ -13,5 +13,5 @@
       {{- end -}}
     {{- end -}}
 </title>
-<link rel="canonical" href="{{ .Permalink }}">
-{{ partial "head_includes.html" . }}
+<link rel="canonical" href="{{ .Permalink | absURL }}">
+{{- partial "head_includes.html" . -}}
