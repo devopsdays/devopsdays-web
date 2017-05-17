@@ -58,7 +58,7 @@ August 3: Config Mgmt Camp + Container Days
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    Propose a talk for <a href="https://devopsdayspdx2017.busyconf.com/proposals/new">DevOpsDays PDX</a> and/or <a href="https://github.com/cfgmgmtcamp/2017-pdx-cfp/">Config Management Camp</a>!
+    Propose a talk for <a href="https://github.com/cfgmgmtcamp/2017-pdx-cfp/">Config Management Camp</a> and/or <a href="http://www.containerdayspdx.org/call-for-presentations/">Container Days</a>! The DevOpsDays CFP is closed.
   </div>
 </div>
 
