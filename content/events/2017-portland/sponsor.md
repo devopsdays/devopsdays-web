@@ -17,6 +17,8 @@ Most sponsors find they get the best response by sending engineers to interact w
 
 ---
 
+## DevOpsDays Sponsorship Tiers
+
 <div style="width:90%" align="center">
   <table border=1>
     <tr>
@@ -139,7 +141,9 @@ Most sponsors find they get the best response by sending engineers to interact w
 
 ---
 
-There's only one tier for Config Management Camp and Container Days: Gold! It comes with all the bells and whistles above, just on the third day. If you're interested, the price is $2000. We'll happily provide a discount for DevOpsDays sponsors as well, just ask!
+## Config Management Camp / Container Days Sponsorship Tiers
+
+There's only one tier for Config Management Camp and Container Days: Gold! It comes with all the bells and whistles above, just on the third day. If you're interested, the price is $2000. We'll happily provide a discount for DevOpsDays sponsors who want to extend their sponsorship to Config Mgmt Camp and Container Days! Just send us a note at {{< email_organizers >}}.
 
 PayPal for those who want to just get their sponsorship in for the third day: <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -150,5 +154,5 @@ PayPal for those who want to just get their sponsorship in for the third day: <f
 
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
 
-There are also opportunities for exclusive special sponsorships. If your organization would be interested in sponsoring one of the conference meals, coffee, wifi, or even the evening event, please {{< email_organizers >}}. If you've got an idea that isn't one of those, let's talk about what you're thinking!
+There are also opportunities for exclusive special sponsorships. If your organization would be interested in sponsoring one of the conference meals, coffee, wifi, or even the evening event, please email {{< email_organizers >}}. If you've got an idea that isn't one of those, let's talk about what you're thinking!
 
