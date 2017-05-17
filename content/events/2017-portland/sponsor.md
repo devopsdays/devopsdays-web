@@ -143,7 +143,7 @@ Most sponsors find they get the best response by sending engineers to interact w
 
 ## Config Management Camp / Container Days Sponsorship Tiers
 
-There's only one tier for Config Management Camp and Container Days: Gold! It comes with all the bells and whistles above, just on the third day. If you're interested, the price is $2000. We'll happily provide a discount for DevOpsDays sponsors who want to extend their sponsorship to Config Mgmt Camp and Container Days! Just send us a note at {{< email_organizers >}}.
+There's only one tier for Config Management Camp and Container Days: Gold! It comes with all the bells and whistles above, but only on August 3rd. If you're interested, the price is $2000. We'll happily provide a discount for DevOpsDays sponsors who want to extend their sponsorship to Config Mgmt Camp and Container Days! Just send us a note at {{< email_organizers >}}.
 
 PayPal for those who want to just get their sponsorship in for the third day: <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
