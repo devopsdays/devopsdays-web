@@ -61,6 +61,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: eveningevent
   - id: gocd
     level: platinum
+  - id: codecentric
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent
