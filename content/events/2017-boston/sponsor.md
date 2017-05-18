@@ -146,7 +146,7 @@ Sponsorship Add-Ons
 
 <br>
 
-Platinum sponsors get a full table and Gold sponsors a shared table where they can interact with those interested to come visit during breaks. Silver sponsor do not get a table but all three levels get their logo on the website and on digital banners. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Platinum sponsors get a full 6'x2.5' table and Gold sponsors a 3'x3' table where they can interact with those interested to come visit during breaks. Silver sponsor do not get a table but all three levels get their logo on the website and on digital banners. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 
