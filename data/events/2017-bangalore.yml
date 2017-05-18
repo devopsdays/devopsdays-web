@@ -27,7 +27,7 @@ registration_link: "https://www.townscript.com/e/dod17" # If you have a custom r
 #
 coordinates: "12.973268, 77.620005" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Vivanta By Taj - MG Road Bangalore" # Defaults to city, but you can make it the venue name.
-location_address: "41/3,MG Road, Yellappa Garden, Yellappa Chetty Layout, Ulsoor, Bengaluru, Karnataka 560001, India" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "41/3, MG Road, Yellappa Garden, Yellappa Chetty Layout, Ulsoor, Bengaluru, Karnataka 560001, India" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  - name: propose
