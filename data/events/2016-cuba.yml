@@ -143,7 +143,7 @@ program:
     end_time: "10:30"
 
   - title: "ws1-patrick"
-    type: talk
+    type: workshop
     date: 2016-10-18
     start_time: "10:30"
     end_time: "12:30"
@@ -155,7 +155,7 @@ program:
     end_time: "14:00"
 
   - title: "ws2-mike-bernard"
-    type: talk
+    type: workshop
     date: 2016-10-18
     start_time: "14:00"
     end_time: "16:00"
@@ -168,7 +168,7 @@ program:
 
   # Day 2: 2016-10-19
   - title: "ws3-bridget"
-    type: talk
+    type: workshop
     date: 2016-10-19
     start_time: "8:50"
     end_time: "9:50"
@@ -204,7 +204,7 @@ program:
     end_time: "14:45"
 
   - title: "ws4-mike-bernard"
-    type: talk
+    type: workshop
     date: 2016-10-19
     start_time: "14:45"
     end_time: "16:45"
@@ -265,19 +265,19 @@ program:
     end_time: "14:15"
 
   - title: "Ignites Part One"
-    type: custom
+    type: ignite
     date: 2016-10-20
     start_time: "14:15"
     end_time: "14:45"
 
   - title: "Open Spaces Session 1"
-    type: custom
+    type: open-space
     date: 2016-10-20
     start_time: "14:45"
     end_time: "15:45"
 
   - title: "Open Spaces Session 2"
-    type: custom
+    type: open-space
     date: 2016-10-20
     start_time: "15:45"
     end_time: "16:45"
@@ -332,19 +332,19 @@ program:
     end_time: "14:00"
 
   - title: "Ignites Part Two"
-    type: custom
+    type: ignite
     date: 2016-10-21
     start_time: "14:00"
     end_time: "14:30"
 
   - title: "Open Spaces Session 1"
-    type: custom
+    type: open-space
     date: 2016-10-21
     start_time: "14:30"
     end_time: "15:30"
 
   - title: "Open Spaces Session 2"
-    type: custom
+    type: open-space
     date: 2016-10-21
     start_time: "15:30"
     end_time: "16:30"
