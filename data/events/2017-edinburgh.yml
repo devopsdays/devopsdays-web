@@ -44,7 +44,7 @@ team_members: # Name is the only required field for team members.
   - name: "Charlotte Taylor"
     employer: "GBG"
     bio: "Development team leader at GBG specialising in identity and marketing data intelligence. Previously I worked for several years as a software architect for a digital music streaming company. I am fascinated with the challenges involved in manipulating and interpreting big data."
-    # image: "charlotte.jpg"
+    image: "charlotte.jpg"
     # twitter: "@"
   - name: "Maria Gutierrez"
     employer: "Freeagent"
@@ -66,8 +66,8 @@ proposal_email: "proposals-edinburgh-2017@devopsdays.org" # Put your proposal em
 sponsors:
   # - id: samplesponsorname
   #   level: gold
-  # - id: arresteddevops
-  #   level: community
+   - id: chef
+     level: silver
    - id:  cirrushq
      level: silver
 
