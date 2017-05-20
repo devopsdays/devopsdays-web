@@ -124,6 +124,8 @@ sponsors:
     level: community
   - id: geekettes-tc
     level: community
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "yes"
 
