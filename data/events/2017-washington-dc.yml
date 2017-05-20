@@ -152,6 +152,8 @@ sponsors:
     level: platinum
   - id:  pivotal
     level: platinum
+  - id:  chef
+    level: platinum
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
