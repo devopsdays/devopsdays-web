@@ -9,8 +9,6 @@ heading = "DevOpsDays Riga 2017 - Propose a session"
 
 <hr>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
-
 Our main criteria to make it to the top selection are:
 
 - _original content_: content not yet presented at other conferences, or a new angle to an existing problem

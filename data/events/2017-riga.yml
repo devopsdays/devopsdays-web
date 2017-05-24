@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: speakers
   - name: sponsor
   - name: contact
-#  - name: conduct
+  - name: conduct
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.

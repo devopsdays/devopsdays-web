@@ -17,16 +17,12 @@ Riga
 
 {{< event_map >}}
 
-## Getting there and accommodation
+## Getting there and accommodations
 
 ### Transportation
-
-### Parking spots
-Paid parking spots are available within few minute walk to the hotel.
-
-##### A note to out of towners in in regards to obtaining a reloadable card for public transportation.
 
 #### Alternative methods of transportation
 - [Taxify](https://taxify.eu/)
 
-### Accommodations
+### Accommodations & parking
+Paid parking spots are available within few minutes' walk to the hotel.
