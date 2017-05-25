@@ -125,6 +125,10 @@ sponsors:
     level: community
   - id: pagerduty
     level: gold
+  - id: morpheus
+    level: silver
+  - id: catchpoint
+    level: silver
 
 sponsors_accepted : "yes"
 
