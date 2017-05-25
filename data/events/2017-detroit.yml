@@ -35,19 +35,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: Ben Chess
     employer: Yelp
-  - name: "Jamie Begin"
-    employer: RightBrain Networks
   - name: "Brian Nuszkowski"
     employer: "Uber ATG"
     twitter: nuszkowski
   - name: "Joe Arnet"
     employer: Barracuda Networks
+    twitter: JoeArnet
   - name: "Trevor Smith"
   - name: "Allison Green"
   - name: "Dave Barnett"
     employer: JSTOR
   - name: "Zach Zeid"
-    employer: AHEAD
+    employer: Cengage
 organizer_email: "organizers-detroit-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2017@devopsdays.org" # Put your proposal email address here
 
@@ -56,6 +55,10 @@ proposal_email: "proposals-detroit-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: gold
+  - id: ithaka
+    level: gold
+  - id: delphix
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
