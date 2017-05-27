@@ -150,6 +150,8 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id: chef
+    level: platinum
   - id: pivotal
     level: gold
   - id: ns1
@@ -185,9 +187,10 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10
 # - id: bronze
 #   label: Bronze
+#   max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
     max: 5
