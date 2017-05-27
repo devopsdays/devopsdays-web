@@ -105,6 +105,10 @@ sponsors:
       level: gold
     - id: loggly
       level: bronze
+    - id: puppet
+      level: gold
+    - id: workday
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
