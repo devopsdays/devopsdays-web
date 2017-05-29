@@ -12,7 +12,7 @@ youtube = ""
 vimeo = ""
 speakerdeck = "https://speakerdeck.com/dodzh/d2-4-chris-van-tuin-a-security-state-of-mind-compliance-and-vulnerability-audits-for-containers"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d2-4-chris-van-tuin-a-security-state-of-mind-compliance-and-vulnerability-audits-for-containers"
+slides = ""
 +++
 
 Data breaches are on the rise and placing increased pressure on Enterprise IT to protect 
