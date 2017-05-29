@@ -86,6 +86,17 @@ Description = "devopsdays Zürich 2017"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}<br>
     {{< event_twitter >}}
   </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Event impressions</strong>
+  </div>
+  <div class = "col-md-8">
+   <a href="https://vimeo.com/219050548">Checkout our video!</a> 
+  </div>
+
+
 
 <div class="row">
 <div class= "col-md-2">
