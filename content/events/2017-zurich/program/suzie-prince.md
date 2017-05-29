@@ -12,7 +12,7 @@ youtube = ""
 vimeo = "219025629"
 speakerdeck = "https://speakerdeck.com/dodzh/d1-4-suzie-prince-our-continuous-delivery-journey"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d1-4-suzie-prince-our-continuous-delivery-journey"
+slides = ""
 +++
 
 The journey to continuous delivery (CD) is long, winding and always evolving. We thought we 

@@ -12,7 +12,7 @@ youtube = ""
 vimeo = "218690890"
 speakerdeck = "https://speakerdeck.com/dodzh/d1-2-charity-majors-a-young-ladys-illustrated-primer-to-technical-decison-making"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d1-2-charity-majors-a-young-ladys-illustrated-primer-to-technical-decison-making"
+slides = ""
 +++
 
 Over the last few years we’ve seen an explosion of complexity, in everything from polyglot 

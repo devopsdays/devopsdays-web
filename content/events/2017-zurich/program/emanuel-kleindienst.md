@@ -12,7 +12,7 @@ youtube = ""
 vimeo = "219025599"
 speakerdeck = "https://speakerdeck.com/dodzh/d1-5-emanuel-kleindienst-hacking-your-boss-for-devops-how-to-convince-your-manager-to-support-devops"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d1-5-emanuel-kleindienst-hacking-your-boss-for-devops-how-to-convince-your-manager-to-support-devops"
+slides = ""
 +++
 
 As a developer, you know you need to collaborate with the Ops-people to bring agility and
