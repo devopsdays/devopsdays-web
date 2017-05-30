@@ -12,7 +12,7 @@ youtube = ""
 vimeo = ""
 speakerdeck = "https://speakerdeck.com/dodzh/d2-i3-maik-wojcieszak-industrial-devops-cross-organizational-automation-in-production"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d2-i3-maik-wojcieszak-industrial-devops-cross-organizational-automation-in-production"
+slides = ""
 +++
 
 Fast response to changing markets, flexible automation and cross organizational integration
