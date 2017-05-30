@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.10.1](https://github.com/devopsdays/devopsdays-theme/tree/1.10.1) (2017-05-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.0...1.10.1)
+
+**Closed issues:**
+
+- \[Bug\] Vimeo videos don't show up in speaker talk page [\#542](https://github.com/devopsdays/devopsdays-theme/issues/542)
+- \[Enhancement\] Add Flickr social sharing button [\#541](https://github.com/devopsdays/devopsdays-theme/issues/541)
+
 ## [1.10.0](https://github.com/devopsdays/devopsdays-theme/tree/1.10.0) (2017-05-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.1...1.10.0)
 
