@@ -49,6 +49,7 @@ networking, branding, and talent recruitment.</p>
 .tg .tg-h7od{background-color:#cb0000;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-yw4l{vertical-align:top}
 .tg .tg-93t1{background-color:#68cbd0;vertical-align:top}
+.tg .sold-out {text-decoration: line-through; color: #ccc; }
 </style>
 <table class="tg">
   <tr>
@@ -183,4 +184,52 @@ networking, branding, and talent recruitment.</p>
     <td class="tg-yw4l"></td>
   </tr>
 </table>
+<p>All prices are in EUR and excl. VAT</p>
+
+<p>If you have bought one of the sponsor packages we can also offer some add-ons to
+help you further promote your company or cause:</p>
+
+<table class="tg">
+  <tr>
+    <th class="tg-b44r">Add-on</th>
+    <th class="tg-b44r">Price</th>
+    <th class="tg-b44r">Benefit</th>
+  </tr>
+  <tr>
+    <th class="tg-yzt1">Student sponsor for at least 10 tickets </th>
+    <th class="tg-yzt1">€ 1,125</th>
+    <th class="tg-yzt1">10 Branded discounted tickets for Students </th>
+  </tr>
+  <tr>
+    <th class="tg-yzt1">Lanyards sponsor* </th>
+    <th class="tg-yzt1">€ 900</th>
+    <th class="tg-yzt1">Logo on lanyards </th>
+  </tr>
+  <tr>
+    <th class="tg-yzt1">Beer sponsor* </th>
+    <th class="tg-yzt1">€ 3,600</th>
+    <th class="tg-yzt1">Logo on beer bottles </th>
+  </tr>
+  <tr>
+    <th class="tg-yzt1">Dinners with speakers*</th>
+    <th class="tg-yzt1">€ 4,900</th>
+    <th class="tg-yzt1">One-minute welcome pitch, roll-ups at dinners </th>
+  </tr>
+  <tr>
+    <th class="tg-yzt1">Party sponsor*</th>
+    <th class="tg-yzt1">€ 4,900</th>
+    <th class="tg-yzt1">One-minute pitch at party, roll-ups at party, mentioning in conference opening and closing </th>
+  </tr>
+  <tr class="sold-out">
+    <th class="tg-yw4l">Venue sponsor* </th>
+    <th class="tg-yw4l">€ 6,900</th>
+    <th class="tg-yw4l">Additional roll-ups at conference venue, mentioning in conference opening and closing</th>
+  </tr>
+  <tr class="sold-out">
+    <th class="tg-yw4l">Lunch and break sponsor* </th>
+    <th class="tg-yw4l">€ 6,900</th>
+    <th class="tg-yw4l">Additional roll-ups at lunch and break area, mentioning in conference opening and closing</th>
+  </tr>
+</table>
+<p>* - exclusive</p>
 <p>All prices are in EUR and excl. VAT</p>

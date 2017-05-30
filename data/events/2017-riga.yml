@@ -44,10 +44,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum
+  - id: accenture
+    level: platinum
   # gold
-  #- id: xxx
-  #  level: gold
   # silver
+  # addons
+  - id: accenture
+    level: venue
+  - id: accenture
+    level: lunch 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -65,3 +70,23 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: "12"
+  #- id: students
+  #  label: Student tickets
+  #- id: lanyards
+  #  label: Lanyards
+  #  max: "1"
+  #- id: beer
+  #  label: Beer
+  #  max: "1"
+  #- id: dinners
+  #  label: Dinners with speakers
+  #  max: "1"
+  #- id: party
+  #  label: Party
+  #  max: "1"
+  - id: venue
+    label: Venue
+    max: "1"
+  - id: lunch
+    label: Lunch and break
+    max: "1"
