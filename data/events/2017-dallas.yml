@@ -152,6 +152,8 @@ sponsors:
     level: location_and_platinum
   - id: chef
     level: platinum
+  - id: verizon
+    level: platinum
   - id: pivotal
     level: gold
   - id: ns1
@@ -159,6 +161,8 @@ sponsors:
   - id: improving
     level: gold
   - id: redhat
+    level: gold
+  - id: opsgenie
     level: gold
   - id: alertlogic
     level: silver
