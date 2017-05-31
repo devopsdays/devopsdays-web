@@ -129,6 +129,14 @@ sponsors:
     level: silver
   - id: catchpoint
     level: silver
+  - id: signalfx
+    level: silver
+  - id: columnpuppet
+    level: gold
+  - id: granicus
+    level: silver
+  - id: opsgenie
+    level: gold
 
 sponsors_accepted : "yes"
 
