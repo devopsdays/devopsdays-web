@@ -10,7 +10,7 @@ Description = "devopsdays Detroit 2017"
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**DevOpsDays is returning to Detroit!**
+**DevOpsDays is returning to Detroit for its 3rd year!**
 
 <div style="text-align:center;">
   {{< event_logo >}}
