@@ -49,7 +49,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: thoughtworks-products-before-20160908
     level: gold
-  - id: signalfx
+  - id: signalfx-before-20170602
     level: silver
   - id: pantheon
     level: silver
