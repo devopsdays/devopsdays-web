@@ -83,7 +83,7 @@
                               {{- if .comments -}}
                                 <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
                               {{- end -}}
-                              {{- else if eq .type "talk" -}}
+                              {{- else if or (eq .type "talk") (eq .type "workshop") -}}
                               <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">
                                 {{ $.Scratch.Get (printf "%s-speaker" .title) }}
                                 -

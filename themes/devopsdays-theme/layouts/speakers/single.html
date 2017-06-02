@@ -20,13 +20,6 @@
       </a>
 
         <h3 class="card-title speakers-page"><a href = "{{ .Permalink }}">{{ .Title }}</a></h3>
-        <span class="speakers-page">
-        {{- if ge (countrunes .Content ) 300 -}}
-          {{ .Content | markdownify | truncate 300 " "}}<a href = "{{ .Permalink | absURL }}">...</a>
-        {{- else -}}
-          {{ .Content | markdownify }}
-        {{- end -}}
-        </span>
 
     </div>
     {{- if modBool ($.Scratch.Get "i") 4 -}}
