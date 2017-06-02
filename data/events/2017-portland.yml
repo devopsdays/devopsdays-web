@@ -109,6 +109,10 @@ sponsors:
       level: gold
     - id: workday
       level: gold
+    - id: opsgenie
+      level: gold
+    - id: nutanix
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

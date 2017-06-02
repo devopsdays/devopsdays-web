@@ -119,6 +119,16 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
+  - id: sumologic
+    level: gold
+  - id: servercentral
+    level: gold
+  - id: chef
+    level: gold
+  - id: victorops
+    level: gold
+  - id: netapp
+    level: silver
   - id: icagile
     level: bronze
   - id: arresteddevops
