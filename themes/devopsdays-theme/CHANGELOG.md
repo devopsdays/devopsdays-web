@@ -1,6 +1,19 @@
 # Change Log
 
-## [1.10.1](https://github.com/devopsdays/devopsdays-theme/tree/1.10.1) (2017-05-29)
+## [1.10.2](https://github.com/devopsdays/devopsdays-theme/tree/1.10.2) (2017-06-02)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.1...1.10.2)
+
+**Implemented enhancements:**
+
+- declutter speakers page [\#548](https://github.com/devopsdays/devopsdays-theme/issues/548)
+- Workshop program elements should link like talks do  [\#538](https://github.com/devopsdays/devopsdays-theme/issues/538)
+
+**Fixed bugs:**
+
+- default speaker image on talk page is broken [\#547](https://github.com/devopsdays/devopsdays-theme/issues/547)
+- Update Reference file to explain that program elements called "talk" link to the talk [\#537](https://github.com/devopsdays/devopsdays-theme/issues/537)
+
+## [1.10.1](https://github.com/devopsdays/devopsdays-theme/tree/1.10.1) (2017-05-30)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.0...1.10.1)
 
 **Closed issues:**

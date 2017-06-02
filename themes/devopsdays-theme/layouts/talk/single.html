@@ -98,7 +98,7 @@
             <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
           {{- end -}}
           {{- else -}}
-            <img src = "{{"img/speaker-default.png" | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
+            <img src = "{{"img/speaker-default.jpg" | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
         {{- end -}}
           <h4 class="talk-page"><a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL }}">
             {{ .Title }}
