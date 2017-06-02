@@ -137,6 +137,10 @@ sponsors:
     level: silver
   - id: opsgenie
     level: gold
+  - id: automic
+    level: gold
+  - id: joyent
+    level: silver
 
 sponsors_accepted : "yes"
 
