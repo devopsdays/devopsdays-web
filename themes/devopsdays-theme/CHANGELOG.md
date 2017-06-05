@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.10.3](https://github.com/devopsdays/devopsdays-theme/tree/1.10.3) (2017-06-05)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.2...1.10.3)
+
+**Fixed bugs:**
+
+- Stray curly brace on welcome pages [\#550](https://github.com/devopsdays/devopsdays-theme/issues/550)
+
 ## [1.10.2](https://github.com/devopsdays/devopsdays-theme/tree/1.10.2) (2017-06-02)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.1...1.10.2)
 
