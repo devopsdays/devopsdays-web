@@ -1,11 +1,15 @@
 sudo: false
 language: go
-install: go get -v github.com/netlify/binrc
-# before_install:
-# - sudo apt-get update
+install: wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz
+before_install:
+
+ - sudo apt-get update
+ - sudo apt-get install wget
 # - sudo apt-get install nodejs
 # - sudo apt-get install npm
-# before_script:
+ before_script:
+  - tar xvzf binrc_0.2.1_Linux-64bit.tar.gz
+  - mv binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 ../../binrc 
 # - npm install -g gulp
 # - npm install
 script:
