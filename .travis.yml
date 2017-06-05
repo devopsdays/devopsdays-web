@@ -2,7 +2,6 @@ sudo: false
 language: go
 install: wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz
 before_install:
-
  - sudo apt-get update
  - sudo apt-get install wget
 # - sudo apt-get install nodejs
