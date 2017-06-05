@@ -73,7 +73,7 @@ proposal_email: "hello@devopsrex.fr" # Put your proposal email address here
 sponsors:
   - id: normation
     level: platinum
-  - id: automic
+  - id: automic-fr
     level: platinum
   - id: atlassian
     level: gold
