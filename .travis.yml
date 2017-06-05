@@ -6,13 +6,13 @@ before_install:
  - sudo apt-get install wget
 # - sudo apt-get install nodejs
 # - sudo apt-get install npm
- before_script:
-  - tar xvzf binrc_0.2.1_Linux-64bit.tar.gz
-  - mv binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 ../../binrc 
+before_script:
+ - tar xvzf binrc_0.2.1_Linux-64bit.tar.gz
+ - mv binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 ../../binrc 
 # - npm install -g gulp
 # - npm install
 script:
-  - binrc install spf13/hugo 0.20.7
-  - hugo
-  - hugo version
+ - binrc install spf13/hugo 0.20.7
+ - hugo
+ - hugo version
   # - gulp min-html
