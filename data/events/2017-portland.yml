@@ -101,6 +101,18 @@ sponsors:
       level: gold
     - id: tintri
       level: gold
+    - id: scalyr
+      level: gold
+    - id: loggly
+      level: bronze
+    - id: puppet
+      level: gold
+    - id: workday
+      level: gold
+    - id: opsgenie
+      level: gold
+    - id: nutanix
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

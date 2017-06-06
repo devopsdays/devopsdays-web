@@ -60,7 +60,7 @@ proposal_email: "proposals-vancouver-2017@devopsdays.org" # Put your proposal em
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-  - id: automic-vancouver
+  - id: automic-before-20170605
     level: gold
   - id: boeing-vancouver
     level: gold

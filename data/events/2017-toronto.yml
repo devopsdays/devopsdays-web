@@ -99,6 +99,8 @@ sponsors:
     level: silver
   - id: pure-storage
     level: lunch
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -282,6 +284,11 @@ program:
     date: 2017-05-26
     start_time: "16:40"
     end_time: "17:25"
+  - title: "Sponsor Drawings! Collect your winnings! Close Day & Farewell"
+    type: custom
+    date: 2017-05-26
+    start_time: "17:30"
+    end_time: "17:45"
 
 ignites:
   - title: "adam-lefkowitz"

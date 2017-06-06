@@ -1,32 +1,26 @@
-<!-- Required Open Graph Info -->
 <meta property="og:title" content="{{ title .Title }}" />
-{{ if .IsHome }}
+{{- if .IsHome -}}
   <meta property="og:description" content="devopsdays is a worldwide community conference series for anyone interested in IT improvement." />
-{{ else }}
+{{- else -}}
   <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
-{{ end }}
+{{- end -}}
 <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ $.Site.Params.weburl }}{{ .Permalink | relURL }}" />
-{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
-  {{/* site data query copypasta */}}
-  {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-  {{ $event_slug := index $path 1 }}
-  {{ $e :=  (index $.Site.Data.events $event_slug) }}
-  {{ $.Scratch.Set "contentdir" (printf "static/events/%s/" $event_slug) }}
-  {{/* end site data query */}}
-  {{if (where (readDir "static/events") "Name" $event_slug)}}
-    {{ if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") }}
-      {{ $.Scratch.Set "sharing_url" (printf "%s/events/%s/sharing.jpg" $.Site.Params.weburl $event_slug ) }}
-    {{ else }}
-      {{ $.Scratch.Set "sharing_url" (printf "%s/img/sharing.jpg" $.Site.Params.weburl ) }}
-    {{ end }}
-  {{ end }}
-{{ else }}
-    {{ $.Scratch.Set "sharing_url" (printf "%s/img/sharing.jpg" $.Site.Params.weburl ) }}
-{{ end }}
+<meta property="og:url" content="{{ .Permalink | absURL }}" />
+{{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
+  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+  {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+  {{- if (where (readDir "static/events") "Name" $e.name) -}}
+    {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") -}}
+      {{- $.Scratch.Set "sharing_url" ((printf "events/%s/sharing.jpg" $e.name ) | absURL) -}}
+    {{- else -}}
+      {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+    {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+{{- end -}}
 <meta property="og:image" content="{{ $.Scratch.Get "sharing_url" }}" />
 <meta property="fb:app_id" content="1904065206497317" />
-<!-- Optional Open Graph Markup -->
 <meta property="og:updated_time" content="{{ now }}"/>
 {{- with .Params.locale -}}<meta property="og:locale" content="{{ . }}" />{{- end -}}
 {{- with .Site.Params.title -}}<meta property="og:site_name" content="{{ . }}" />{{- end -}}

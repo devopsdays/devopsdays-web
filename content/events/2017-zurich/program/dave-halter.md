@@ -9,10 +9,10 @@ title = "Beautiful Deployment Code"
 type = "talk"
 speakers = ["dave-halter"]
 youtube = ""
-vimeo = ""
+vimeo = "219025650"
 speakerdeck = "https://speakerdeck.com/dodzh/d1-i4-dave-halter-beautiful-deployment-code"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d1-i4-dave-halter-beautiful-deployment-code"
+slides = ""
 +++
 
 We all know that DevOps is not (only) about deploying the latest WordPress anymore. There

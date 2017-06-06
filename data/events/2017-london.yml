@@ -54,7 +54,25 @@ sponsors:
   - id: pivotal
     level: gold
   - id: twistlock
+    level: silver
+  - id: accenture
+    level: silver
+  - id: chef
     level: gold
+  - id: yelp
+    level: silver
+  - id: expedia
+    level: silver
+  - id: logz
+    level: gold
+  - id: scalefactory
+    level: silver
+  - id: devopsguys
+    level: silver
+  - id: 4armed
+    level: bronze
+  - id: hashicorp
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

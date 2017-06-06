@@ -90,7 +90,7 @@ team_members:
     facebook: "https://www.facebook.com/matt.stratton"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matt Stratton is a customer architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
+    bio: "Matt Stratton is a Customer Architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia, and their cat, Fancy. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Cohesive Networks"
@@ -119,7 +119,21 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
+  - id: sumologic
+    level: gold
+  - id: servercentral
+    level: gold
+  - id: chef
+    level: gold
+  - id: victorops
+    level: gold
+  - id: netapp
+    level: silver
+  - id: icagile
+    level: bronze
   - id: arresteddevops
+    level: community
+  - id: cwdevs
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

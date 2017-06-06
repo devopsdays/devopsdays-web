@@ -9,10 +9,10 @@ title = "DevOps and Holacracy (a.k.a.: Are You a Manager or a Leader?)"
 type = "talk"
 speakers = ["alex-lichtenberger"]
 youtube = ""
-vimeo = ""
+vimeo = "219577994"
 speakerdeck = "https://speakerdeck.com/dodzh/d2-i1-alex-lichtenberger-devops-and-holacracy"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d2-i1-alex-lichtenberger-devops-and-holacracy"
+slides = ""
 +++
 
 Having the right cultural environment is key for DevOps success. In this short ignite talk, I would like to give some inspiration what it means to work together in a devops environment and the typical challenges:

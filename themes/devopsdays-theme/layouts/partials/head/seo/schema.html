@@ -1,20 +1,16 @@
-<!-- Schema.org markup -->
 <meta itemprop="name" content="{{ .Title }}">
-{{ if .IsHome }}
+{{- if .IsHome -}}
   <meta itemprop="description" content="devopsdays is a worldwide community conference series for anyone interested in IT improvement." />
-{{ else }}
+{{- else -}}
   <meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}">
-{{ end }}
-
-{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
-  {{ $path := split ( .Permalink | relURL) "/" }}
-  {{ $event_slug := index $path 2 }}
-  <meta itemprop="image" content="{{ $.Site.Params.weburl }}/events/{{ $event_slug }}/sharing.jpg" />
-{{ else }}
-  <meta itemprop="image" content="{{ $.Site.Params.weburl }}/img/sharing.jpg" />
-{{ end }}
-
-
-{{ if .IsPage }}
+{{- end -}}
+{{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
+  {{- $path := split ( .Permalink | relURL) "/" -}}
+  {{- $event_slug := index $path 2 -}}
+  <meta itemprop="image" content="{{ (printf "events/%s/sharing.jpg" $event_slug) | absURL}}" />
+{{- else -}}
+  <meta itemprop="image" content="{{ "img/sharing.jpg" | absURL }}" />
+{{- end -}}
+{{- if .IsPage -}}
 <meta itemprop="wordCount" content="{{ .WordCount }}">
-{{ end }}
+{{- end -}}

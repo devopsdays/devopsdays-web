@@ -9,10 +9,10 @@ title = "Cloudy with a Chance of Syscalls"
 type = "talk"
 speakers = ["henri-dubois-ferriere"]
 youtube = ""
-vimeo = ""
+vimeo = "219025703"
 speakerdeck = "https://speakerdeck.com/dodzh/d1-i1-henri-dubois-ferriere-cloudy-with-a-chance-of-syscalls"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d1-i1-henri-dubois-ferriere-cloudy-with-a-chance-of-syscalls"
+slides = ""
 +++
 
 TLDR; The Linux system call interface is becoming an increasingly useful instrumentation

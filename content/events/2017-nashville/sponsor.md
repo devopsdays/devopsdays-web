@@ -67,6 +67,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
   <tr>
     <td>
       <ul>
+        <li>3 tickets to the event</li>
         <li>Logo on DevOpsDays Nashville event website</li>
         <li>Logo on all DevOpsDays email communications</li>
         <li>Press Release to announce partnership between DevOpsDays Nashville and sponsor</li>
