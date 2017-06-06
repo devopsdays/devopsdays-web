@@ -8,8 +8,6 @@ services:
 before_install:
   - docker run --rm -e SITE_URL="https://wwww.devopsdays.org" -v $(pwd):/site devopsdays/docker-hugo-compiler
 
-install: go get -v github.com/spf13/hugo
-
 script:
   - cd public
   - ls
