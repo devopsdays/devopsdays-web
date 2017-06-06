@@ -3,7 +3,7 @@ language: go
 before_install:
 - wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz
 - tar xvzf binrc_0.2.1_Linux-64bit.tar.gz
-- cp binrc_0.2.1_Linux-64bitbinrc_0.2.1_Linux-64bit ./binrc
+- cp binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 ./binrc
 install: binrc install spf13/hugo 0.20.7
 script:
   - hugo
