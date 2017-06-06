@@ -21,13 +21,14 @@ heading = "DevOpsDays Riga 2017 - Propose a session"
 
 <h3>How to submit a proposal</h3> 
 
-Go to <a href="https://www.papercall.io/devopsdays-riga-2017" target="_blank">PaperCall.io/DevOpsDays-Riga-2017</a> and submit your proposal there, or send an email to [{{< email_proposals >}}] with the following information: 
+<p>Go to <a href="https://www.papercall.io/devopsdays-riga-2017" target="_blank">PaperCall.io/DevOpsDays-Riga-2017</a> and submit your proposal there with the following information: </p>
 <ol>
 	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
+	<li>Type (presentation or ignite)</li>
 	<li>Description or abstract</li>
 	<li>Links to your previous presentations and/or videos</li>
 </ol>
+<p>If you have any questions, please send an email to [{{< email_proposals >}}].</p>
 
 <h3>Rules:</h3>
 <ul>
