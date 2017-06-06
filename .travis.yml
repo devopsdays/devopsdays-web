@@ -1,7 +1,7 @@
 sudo: false
 language: go
 before_install:
-- go get github.com/netlify/binrc
+- go get -u github.com/netlify/binrc
 install: binrc install spf13/hugo 0.20.7
 script:
   - hugo
