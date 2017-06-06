@@ -27,3 +27,5 @@ Audience takeaways:
   * Median
   * Standard Deviation
   * Percentiles
+
+<a href="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May25_2017_JasonHand.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May25_2017_JasonHand_lores.jpg" alt="Graphic Recording Beyond the Mean Time To Repair" /></a>
