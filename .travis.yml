@@ -1,14 +1,18 @@
 sudo: false
 language: go
-install: go get -v github.com/spf13/hugo
-# before_install:
-# - sudo apt-get update
-# - sudo apt-get install nodejs
-# - sudo apt-get install npm
-# before_script:
-# - npm install -g gulp
-# - npm install
+before_install:
+- sudo apt-get update -qq
+- sudo apt-get install wget -qq
+- sudo apt-get install nodejs
+- sudo apt-get install npm
+install: wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz
+before_script:
+- npm install -g gulp
+- npm install
+- tar -xvzf binrc_0.2.1_Linux-64bit.tar.gz
+- cp binrc_0.2.1_Linux-64bit/binrc_0.2.1_Linux-64bit ./binrc
+- binrc install spf13/hugo 0.20.7
 script:
   - hugo
   - hugo version
-  # - gulp min-html
+  - gulp min-html
