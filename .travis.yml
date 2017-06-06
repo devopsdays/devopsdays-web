@@ -1,7 +1,7 @@
 sudo: false
 language: go
 before_install:
-- wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz -O/tmp/binrc.tar.gz
+- wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz -O /tmp/binrc.tar.gz
 - tar xvzf /tmp/binrc.tar.gz
 - ls /tmp
 - cp /tmp/binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 /tmp/binrc
