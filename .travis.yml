@@ -11,4 +11,4 @@ before_install:
 script:
   - cd public
   - ls
-  - gulp min-html --cwd public/
+  - gulp min-html --cwd .
