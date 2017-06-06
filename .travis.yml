@@ -1,10 +1,10 @@
 sudo: false
 language: go
 before_install:
-- wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz -O /$HOME/binrc.tar.gz
-- tar xvzf /$HOME/binrc.tar.gz
-- ls /$HOME
-- cp /$HOME/binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 /$HOME/binrc
+- wget https://github.com/netlify/binrc/releases/download/v0.2.1/binrc_0.2.1_Linux-64bit.tar.gz -O binrc.tar.gz
+- tar xvzf $HOME/binrc.tar.gz
+- ls $HOME
+- cp $HOME/binrc_0.2.1_linux_amd64/binrc_0.2.1_linux_amd64 $HOME/binrc
 install: binrc install spf13/hugo 0.20.7
 script:
   - hugo
