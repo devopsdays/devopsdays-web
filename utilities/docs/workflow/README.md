@@ -268,6 +268,6 @@ Click "compare across forks"
 
 When filling out the pull request form, make sure that you follow the guidelines in the template - including replacing the template text itself! Also, if you tick the "Allow edits from maintainers" box, that will help the maintainers directly fix any issues with your PR.
 
-![](img/merge-to-orgin.png)
+![](img/merge-to-orgin-pr.png)
 
 That's it! Now you can either view the proposed merge via Netlify (using a similar technique as before), or wait for your change to be merged. Be advised that maintainers may have questions about your PR, so watch for the conversation thread.
