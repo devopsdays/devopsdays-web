@@ -1,6 +1,5 @@
 +++
 Title = "Rukia Sheikh-Mohamed"
-Twitter = "rukia-sheikh-mohamed"
 image = "rukia-sheikh-mohamed.png"
 type = "speaker"
 linktitle = "rukia-sheikh-mohamed"
