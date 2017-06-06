@@ -8,7 +8,11 @@ services:
 before_install:
   - docker run --rm -e SITE_URL="https://wwww.devopsdays.org" -v $(pwd):/site devopsdays/docker-hugo-compiler
 
+before_script:
+- npm install -g gulp
+- npm install
+- cd public
+
 script:
-  - cd public
   - ls
   - gulp min-html --cwd .
