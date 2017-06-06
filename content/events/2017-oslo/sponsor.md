@@ -31,4 +31,6 @@ If you have bought one of the sponsor packages we can also offer some add-ons.
 
 <img src="/events/2017-oslo/sponsorship-exclusive-packages.png" style="max-width: 100%; height: auto; width: auto\9;">
 
+For additional questions or requests please contact: vw@macsimum.no
+
 <hr/>
