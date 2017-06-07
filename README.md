@@ -33,4 +33,4 @@ If there is a feature in the theme that you would like to see, please [submit an
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
+See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
