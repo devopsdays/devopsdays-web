@@ -177,8 +177,8 @@ program:
     date: 2017-11-01
     start_time: "09:20"
     end_time: "09:30"
-  - title: "jeff-sussna"
-    type: talk
+  - title: "Keynote"
+    type: custom
     date: 2017-11-01
     start_time: "09:30"
     end_time: "10:00"
@@ -252,13 +252,13 @@ program:
     date: 2017-11-02
     start_time: "09:20"
     end_time: "09:30"
-  - title: "patrick-debois"
-    type: talk
+  - title: "Keynote 1"
+    type: custom
     date: 2017-11-02
     start_time: "09:30"
     end_time: "10:00"
-  - title: "hannah-foxwell"
-    type: talk
+  - title: "Keynote 2"
+    type: custom
     date: 2017-11-02
     start_time: "10:00"
     end_time: "10:30"
