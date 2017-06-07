@@ -7,14 +7,11 @@ Description = "devopsdays Cape Town 2017"
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-
-**devopsdays is coming to {{< event_location >}}!**
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<br>
 
 <div class = "row">
   <div class = "col-md-2">
