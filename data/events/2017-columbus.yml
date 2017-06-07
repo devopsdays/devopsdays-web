@@ -22,7 +22,9 @@ team: ["Andy Dyrcz", "Ben Blanquera", "Bill Schwanitz", "David Laulusa", "Kyle J
 organizer_email: "organizers-ohio-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-ohio-2017@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: test
+  - id: opsgenie
+    level: gold
+  - id: pivotal
     level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
