@@ -27,13 +27,22 @@ nav_elements:
 
 team_members:
   - name: "Adrian Moisey"
+    image: "adrian-moisey.jpg"
+    employer: "SweepSouth"
     twitter: "adrianmoisey"
+    github: "adrianmoisey"
   - name: "Cobus Bernard"
+    image: "cobus-bernard.jpg"
     twitter: "cobusbernard"
+    github: "cobusbernard"
   - name: "Julia Quickfall"
+    image: "julia-quickfall.jpg"
     twitter: "julesquickfall"
+    github: "juliaquickfall"
   - name: "Tom Bamford"
+    image: "tom-bamford.jpg"
     twitter: "tom_bamford"
+    github: "manicminer"
 organizer_email: "organizers-cape-town-2017@devopsdays.org"
 proposal_email: "proposals-cape-town-2017@devopsdays.org"
 
