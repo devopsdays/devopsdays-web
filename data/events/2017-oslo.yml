@@ -27,8 +27,8 @@ location: "Gamle Museet / The Old Museum" # Defaults to city, but you can make i
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: propose
 #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -166,3 +166,149 @@ sponsors_accepted : "yes"
 #speaker_levels:
 #  - id: talk
 #    label: Talk
+program:
+  - title: "Registration, breakfast, and sponsor booths open"
+    type: custom
+    date: 2017-11-01
+    start_time: "08:30"
+    end_time: "09:20"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-01
+    start_time: "09:20"
+    end_time: "09:30"
+  - title: "jeff-sussna"
+    type: talk
+    date: 2017-11-01
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "propose-a-talk"
+    type: talk
+    date: 2017-11-01
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2017-11-01
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "propose-a-talk"
+    type: talk
+    date: 2017-11-01
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "propose-a-talk"
+    type: talk
+    date: 2017-11-01
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Ignites"
+    type: custom
+    date: 2017-11-01
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-01
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-11-01
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Open Space breakout discussions #1"
+    type: custom
+    date: 2017-11-01
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2017-11-01
+    start_time: "15:10"
+    end_time: "15:20"
+  - title: "Open Space breakout discussions #2"
+    type: custom
+    date: 2017-11-01
+    start_time: "15:20"
+    end_time: "16:00"
+  - title: "Open Space breakout discussions #3"
+    type: custom
+    date: 2017-11-01
+    start_time: "16:00"
+    end_time: "16:40"
+  - title: "Dinner and Evening event (at the same location as the conference)"
+    type: custom
+    date: 2017-11-01
+    start_time: "17:00"
+    end_time: "late"
+  - title: "Registration, breakfast, and sponsor booths open"
+    type: custom
+    date: 2017-11-02
+    start_time: "08:30"
+    end_time: "09:20"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-02
+    start_time: "09:20"
+    end_time: "09:30"
+  - title: "patrick-debois"
+    type: talk
+    date: 2017-11-02
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "hannah-foxwell"
+    type: talk
+    date: 2017-11-02
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2017-11-02
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "propose-a-talk"
+    type: talk
+    date: 2017-11-02
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "propose-a-talk"
+    type: talk
+    date: 2017-11-02
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Ignites"
+    type: custom
+    date: 2017-11-02
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-02
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2017-11-02
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Open Space breakout discussions #1"
+    type: custom
+    date: 2017-11-02
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2017-11-02
+    start_time: "15:10"
+    end_time: "15:20"
+  - title: "Open Space breakout discussions #2"
+    type: custom
+    date: 2017-11-02
+    start_time: "15:20"
+    end_time: "16:00"
+  - title: "Open Space breakout discussions #3"
+    type: custom
+    date: 2017-11-02
+    start_time: "16:00"
+    end_time: "16:40"
