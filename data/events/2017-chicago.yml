@@ -137,6 +137,8 @@ sponsors:
     level: community
   - id: opsgenie
     level: gold
+  - id: 2017-facebook
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
