@@ -7,36 +7,45 @@
             </div>
         </div>
     </div>
-
-    {{ $.Scratch.Add "i" 1 }}
+    {{- $.Scratch.Add "i" 1 -}}
     <div class="row">
         {{- range sort $.Site.Data.events "startdate" -}}
         {{- if .startdate -}}
         {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
-        {{ $.Scratch.Set "city" .city }}
-        {{ $.Scratch.Set "year" .year }}
-        {{ $.Scratch.Set "logo" "unset" }}
+        {{- $.Scratch.Set "city" .city -}}
+        {{- $.Scratch.Set "year" .year -}}
+        {{- $.Scratch.Set "logo" "unset" -}}
         <div class="col-md-3 homepage-grid-col">
-            {{ $.Scratch.Set "subdir" .name }}
-            {{ $.Scratch.Set "contentdir" (printf "static/events/%s/" ($.Scratch.Get "subdir")) }}
-            {{ if (where (readDir "static/events") "Name" ($.Scratch.Get "subdir"))}}
-                {{if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo-square.jpg") }}
-                    <a href="/events/{{ .name }}"><img src="/events/{{ .name }}/logo-square.jpg" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
-                    {{ $.Scratch.Set "logo" "set" }}
-                {{ end }}
-            {{ end }}
-            {{ if ne ($.Scratch.Get "logo") "set" }}
-                <a href="/events/{{ .name }}"><img src="/img/event-logo-square.jpg" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
+            {{- $.Scratch.Set "subdir" .name -}}
+            {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" ($.Scratch.Get "subdir")) -}}
+            {{- if (where (readDir "static/events") "Name" ($.Scratch.Get "subdir")) -}}
+                {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo-square.jpg") -}}
+                    <a href="{{ (printf "events/%s" .name) | absURL}}"><img src="{{ (printf "events/%s/logo-square.jpg" .name) | absURL }}" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
+                    {{- $.Scratch.Set "logo" "set" -}}
+                {{- end -}}
+            {{- end -}}
+            {{- if ne ($.Scratch.Get "logo") "set" -}}
+                <a href="{{ (printf "events/%s" .name) | absURL}}"><img src="{{"img/event-logo-square.jpg" | absURL }}" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
                 {{- end -}}
                 <br/>
-                <span class="homepage-grid-date">
-                    {{- dateFormat "Jan 2" .startdate -}}
-                    &nbsp;-&nbsp;
-                    {{-  dateFormat "Jan 2, 2006" .enddate -}}<br/>
-                </span>
-                <span class="homepage-grid-city">
-                    <a href="/events/{{ .name }}">{{ .city }}</a>
-                </span>
+        {{- if ne .startdate .enddate -}}
+          {{- if eq (dateFormat "January" .startdate) (dateFormat "January" .enddate ) -}}
+            <span class="homepage-grid-date">
+            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
+            </span>
+          {{- else -}}
+            <span class="homepage-grid-date">
+            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2, 2006" .enddate }}<br />
+            </span>
+          {{- end -}}
+      {{- else -}}
+            <span class="homepage-grid-date">
+          {{ dateFormat "Jan 2, 2006" .startdate }}<br />
+            </span>
+      {{- end -}}
+        <span class="homepage-grid-city">
+            <a href="{{ (printf "events/%s" .name) | absURL}}">{{ .city }}</a>
+        </span>
             </div>
             {{- if modBool ($.Scratch.Get "i") 4 -}}
         </div>

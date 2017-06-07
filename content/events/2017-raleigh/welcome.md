@@ -3,6 +3,7 @@ date = "2017-02-13T15:57:00-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-raleigh"]
+Description = "devopsdays Raleigh 2017"
 
 +++
 
@@ -27,15 +28,15 @@ aliases = ["/events/2017-raleigh"]
   </div>
 </div>
 <br>
-<!--<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-   All talks have been selected at this time. Thank you so much for your submissions!
+   Have something to share?{{< event_link page="propose" text="Propose a session." >}}
   </div>
 </div>
-<br>-->
+<br>
 <!--<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -53,7 +54,6 @@ aliases = ["/events/2017-raleigh"]
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div> -->
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
@@ -62,7 +62,6 @@ aliases = ["/events/2017-raleigh"]
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>

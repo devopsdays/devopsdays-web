@@ -3,6 +3,7 @@ date = "2016-11-28T22:36:47+01:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-stockholm"]
+description = "DevOpsDays is coming to sunny Stockholm!"
 
 +++
 

@@ -32,26 +32,26 @@
         <h2 class="footer-heading">{{ dateFormat "02 January, 2006" .Date }}</h2>
       {{- end -}}
       <p class="footer-content">
-        {{ if isset .Params "description" }}
-          {{ if ne .Params.descripton "" }}
+        {{- if isset .Params "description" -}}
+          {{- if ne .Params.descripton "" -}}
             {{ .Params.description | markdownify }}
-          {{ end }}
-        {{ else }}
+          {{- end -}}
+        {{- else -}}
           {{ .Summary }}
-        {{ end }}
+        {{- end -}}
       </p>
     {{- end -}}
     <a href="https://www.devopsdays.org/blog/index.xml">Feed</a>
   </div>
   <div class="col-md-6 col-lg-3 footer-nav-col">
       <h3 class="footer-nav">CFP OPEN</h3>
-      {{ range sort $.Site.Data.events "startdate" }}
-        {{ if .cfp_date_end }}
-          {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) }}
-            <a href = "/events/{{ .name }}/" class = "footer-content">{{ .city }}</a><br />
-          {{ end }} {{/* end: date is now or afterwards */}}
-        {{ end }} {{/* end: if .cfp_date_end */}}
-      {{ end }} {{/* end: range sort $.Site.Data.events "startdate" */}}
+      {{- range sort $.Site.Data.events "startdate" -}}
+        {{- if .cfp_date_end -}}
+          {{- if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" .cfp_date_start)) (ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
+            <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "footer-content">{{ .city }}</a><br />
+          {{- end -}} {{/* end: date is now or afterwards */}}
+        {{- end -}} {{/* end: if .cfp_date_end */}}
+      {{- end -}} {{/* end: range sort $.Site.Data.events "startdate" */}}
       <br />Propose a talk at an event near you!<br />
   </div>
   <div class="col-md-6 col-lg-3 footer-nav-col">

@@ -7,8 +7,8 @@ program:
   - title: "Opening Welcome"
     type: custom
     date: day1
-    start_time: "09:15"
-    end_time: "09:00"
+    start_time: "09:00"
+    end_time: "09:15"
   - title: "talk-1"
     type: talk
     date: day1
@@ -92,8 +92,8 @@ program:
   - title: "Opening Welcome"
     type: custom
     date: day2
-    start_time: "09:15"
-    end_time: "09:00"
+    start_time: "09:00"
+    end_time: "09:15"
   - title: "talk-5"
     type: talk
     date: day2

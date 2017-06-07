@@ -2,41 +2,51 @@ name: "2017-dallas" # The name of the event. Four digit year with the city name 
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw"
-friendly: "2017-dallas" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-08-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-08-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-04  # start accepting talk proposals.
+cfp_date_end: 2017-06-30 # close your call for proposals.
+cfp_date_announce: 2017-07-14 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: ""
+ga_tracking_id: ""
+masthead_background: "capone-confcntr.jpg"
 
 registration_open: "false"
 registration_link: ""
 
-event_logo: "logo.jpg"
-
 # Location
 #
 coordinates: "33.08412347956714, -96.80671317624937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Dallas / Ft. Worth" # Defaults to city, but you can make it the venue name.
+location: "Capital One Conference Center" # Defaults to city, but you can make it the venue name.
+location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: program
-#  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+# - name: program
+#   icon: "book"
+  - name: propose
+    icon: "paper-plane"
+#   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+    icon: "map-o"
+#   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+  - name: registration
+    icon: "pencil"
+  - name: speakers
+    icon: "microphone"
   - name: sponsor
+    icon: "money"
   - name: contact
+    icon: "envelope-o"
   - name: conduct
+    icon: "handshake-o"
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -51,7 +61,7 @@ team_members: # Name is the only required field for team members.
     image: "annie.jpg"
   - name: "Ben Johnson"
     employer: "Particle41"
-#   bio:
+    bio: "Consummate Technology Leader with strong open source programming background and hands on skills in Ruby on Rails, PHP and NodeJS. Extensive experience with remote distributed development teams. Establish highest levels of quality through continuous integration, continuous delivery, and automated testing standards. Constant focus on results and ways to improve while having fun building highly scalable and highly secure applications."
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
 #   facebook:
@@ -60,7 +70,7 @@ team_members: # Name is the only required field for team members.
     image: "ben.jpg"
   - name: "Cory Forsythe"
     employer: "Capital One"
-#   bio: ""
+    bio: "Cory Forsythe is a Software Manager and DevOps evangelist working with Capital One’s Auto Finance teams. With a background in traditional .Net development in the healthcare and natural gas industries, he has worked to evolve his skillset toward more modern cloud-first architecture and serverless computing. Having spent some time working directly with Amazon, Cory is a proponent of the AWS Cloud and the infrastructure services provided within. Cory invests time heavily in the study of industry CI/CD tooling and test automation and is looking forward to hearing what great advances in practice come out of our DFW organizations in 2017."
     twitter: "CoryForsythe"
     linkedin: "https://www.linkedin.com/in/123123214cf/"
 #   facebook: ""
@@ -78,40 +88,40 @@ team_members: # Name is the only required field for team members.
     image: "gokul.jpg"
   - name: "Jack Teoh"
     employer: "Alkami Technology"
-#   bio: ""
+    bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
 #   facebook: ""
 #   website: ""
 #   github: ""
-    image: "jack.jpg"   
+    image: "jack.jpg"
   - name: "Lee Herrin"
     employer: "Six Sents"
-#   bio: ""
-    twitter: "TechnologicaLee"    
+    bio: "Lee Herrin is acting Marketing Organizer for DevOpsDays DFW. <br><br>Lee is an experienced technologist with a passion for solving problems. Whether technical, logistical, organizational - in every endeavor, Lee brings with him a high-level of integrity and an effective leadership style. His experience spans multiple disciplines including Employee Engagement, Distribution, IT Solutions Architecture, Virtual and Physical IT Infrastructure, and Cyber-security. <br><br>Lee is a volunteer for DevOpsDays DFW as a result of his passionate interest in DevOps (and DevSecOps) and the associated community of talented professionals. <br><br>Lee works with Six Sents - A machine learning predictive analytics and workforce intelligence platform as an Advisor for Partner and Channel Development. <br><br>Lee also volunteers his time acting as Prayer Team Chair for the DFW Technology Prayer Breakfast - a local faith-based nonprofit."
+    twitter: "TechnologicaLee"
     linkedin: "https://www.linkedin.com/in/wtleeherrin/"
 #   facebook: ""
-#   website: ""
+    website: "http://www.sixsents.com/"
 #   github: ""
-    image: "lee.jpg"    
+    image: "lee.jpg"
   - name: "Mark Saum"
     employer: "Fidelis Consulting"
-#   bio:
+    bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
     twitter: "msaum"
     linkedin: "https://www.linkedin.com/in/marksaum/"
 #   facebook:
-#   website:
+    website: "http://www.fideliscorp.com/"
 #   github:
-    image: "mark.jpg"    
+    image: "mark.jpg"
   - name: "Megan Bohl"
-#   employer:
-#   bio:
+    employer: "Aspiring Technical Consultant"
+    bio: "Megan is our Sponsor Liaison for DevOpsDays DFW 2017.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
     twitter: "MeganBohl"
     linkedin: "https://www.linkedin.com/in/megan-bohl-gardner-60932310/"
 #   facebook:
 #   website:
 #   github:
-    image: "megan.jpg"    
+    image: "megan.jpg"
   - name: "Michael Hedgpeth"
     employer: "NCR"
     bio: "Michael manages NCR Hospitality's DevOps transition, and is a deeply committed technologist that appreciates the value and necessity of executive alignment. This year he will be focusing on the DevOps Leadership Summit event before DevOpsDays which will give upper management an avenue to understand, and embrace DevOps principles."
@@ -140,7 +150,27 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id: chef
+    level: platinum
+  - id: verizon
+    level: platinum
+  - id: pivotal
+    level: gold
+  - id: ns1
+    level: gold
+  - id: improving
+    level: gold
+  - id: redhat
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: alertlogic
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: devopslive
+    level: community
+  - id: addo2017
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -161,8 +191,180 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+    max: 10
+# - id: bronze
+#   label: Bronze
+#   max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+    max: 5
+
+program:
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-08-29
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-08-29
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: ""
+    type: talk
+    date: 2017-08-29
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2017-08-29
+    start_time: "10:40"
+    end_time: "11:00"
+  - title: ""
+    type: talk
+    date: 2017-08-29
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: ""
+    type: talk
+    date: 2017-08-29
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-08-29
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-08-29
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: ""
+    type: talk
+    date: 2017-08-29
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-08-29
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-08-29
+    start_time: "14:40"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2017-08-29
+    start_time: "15:25"
+    end_time: "15:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-08-29
+    start_time: "15:40"
+    end_time: "16:25"
+  - title: "Break"
+    type: custom
+    date: 2017-08-29
+    start_time: "16:25"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-08-29
+    start_time: "16:40"
+    end_time: "17:25"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-08-29
+    start_time: "17:30"
+    end_time: "20:30"
+    comments: "tba"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-08-30
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-08-30
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: ""
+    type: talk
+    date: 2017-08-30
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2017-08-30
+    start_time: "10:40"
+    end_time: "11:00"
+  - title: ""
+    type: talk
+    date: 2017-08-30
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: ""
+    type: talk
+    date: 2017-08-30
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-08-30
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-08-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: ""
+    type: talk
+    date: 2017-08-30
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-08-30
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-08-30
+    start_time: "14:40"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2017-08-30
+    start_time: "15:25"
+    end_time: "15:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-08-30
+    start_time: "15:40"
+    end_time: "16:25"
+  - title: "Break"
+    type: custom
+    date: 2017-08-30
+    start_time: "16:25"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-08-30
+    start_time: "16:40"
+    end_time: "17:25"
+
+ignites:
+  - title: ""
+    date: 2017-08-29
+  - title: ""
+    date: 2017-08-29
+  - title: ""
+    date: 2017-08-30
+  - title: ""
+    date: 2017-08-30
+  - title: ""
+    date: 2017-08-30

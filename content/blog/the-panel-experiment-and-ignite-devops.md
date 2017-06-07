@@ -3,6 +3,7 @@ Title = "The Panel Experiment and Ignite DevOps"
 Author = "Andrew Clay Shafer"
 Date = "2010-05-16T23:08:03+00:00"
 Tags = ["2010-US", "Ignite", "devops"]
+aliases = ["/2010/05/16/the-panel-experiment-and-ignite-devops/"]
 +++
 
 When we first started organizing DevOpsDays for the US, we all had slightly different visions about what we wanted to see and what we wanted to participate in.

@@ -1,33 +1,35 @@
 +++
 date = "2016-12-17T13:55:35-05:00"
-title = "propose"
+title = "Proposals"
 type = "event"
 +++
   {{< cfp_dates >}}
 
 <hr>
-There are three ways to propose a session:
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSeOEbAXbJP2qNPIATC9WijkJAKJt_AOjxG2yDmrcrZtcrGjvQ/viewform#start=openform">Click here to propose a session</a></h2>
+
+<br/><strong>There are two types:</strong>
 <ol>
-  <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
-  <li><strong><em>An Ignite talk</em></strong> that will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
-  <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
+  <li><strong><em>Main talk</em></strong>: 30 minute slots.</li>
+  <li><strong><em>Ignite talk</em></strong>: 5 minute slots (presented using the <a href="/pages/ignite-talks-format"> Ignite format</a>.)</li>
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
+<strong>What the organisers have been blogging about:</strong>
 
-Our main criteria to make it to the top selection are:
+- <a href="https://medium.com/@hannahfoxwell/should-tech-conferences-be-more-inclusive-5a05a09cd302">Should Tech Conferences Be More Inclusive?</a>
+- <a href="http://randomness.org.uk/2017/05/21/Anonymising-talk-submissions-for-DevOpsDays-London.html">Anonymising talk submissions for DevOpsDays London</a>
+- <a href="https://markosrendell.wordpress.com/2017/05/16/transforming-the-future-together/">Thoughts on the theme: Transforming The Future Together</a>
 
+
+<strong>Our main criteria:</strong>
+
+- _relevant to our theme_: which is 'Transforming the future together'
 - _original content_: content not yet presented at other conferences, or a new angle to an existing problem
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
+- _diversity_: our review process will involve stripping any identifiable information from proposals including name, gender, geography and company.
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
-	<li>Description or abstract</li>
-</ol>
-<strong>Rules:</strong>
+<strong>Tips:</strong>
 <ul>
 	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>
 	<li>Detail is good... but not as important as explaining why your proposal would be interesting</li>

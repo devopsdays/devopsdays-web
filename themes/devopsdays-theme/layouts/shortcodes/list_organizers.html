@@ -1,33 +1,33 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-
-  {{ if $e.team_members }}
-
-
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+  {{- if $e.team_members -}}
 <div class="row" style="width:100%">
-      <!-- <div class = "card-deck"> -->
-
-      {{ range $e.team_members }}
+      {{- range $e.team_members -}}
         <div class="col-xl-3 col-lg-4 col-md-6 organizer-card">
           <div class = "card" style="max-width: 300px;padding-left:0px;padding-right:0px">
-            <h3 class = "card-header">{{ .name }}</h3>
-            {{ if .image }}
-              <img class="card-img-top organizer-image" src="/events/{{$event_slug}}/organizers/{{.image}}" alt="{{ .name }}">
-            {{ end }}
-            <div class = "card-block">
-              {{ if .employer }}
-                <h6 class="card-subtitle mb-2 text-muted">{{ .employer }}</h6>
+            <div class = "card-header">
+              <h3>{{ .name }}</h3>
+              {{- if .role -}}
+                <h4> {{ .role }}</h4>
+              {{- else -}}
+                <h4>Organizer</h4>
               {{ end }}
+            </div>
+            {{- if .image -}}
+              <img class="card-img-top organizer-image" src="{{ (printf "events/%s/organizers/%s" $e.name .image) | absURL }}" alt="{{ .name }}">
+            {{- end -}}
+            <div class = "card-block">
+              {{- if .employer -}}
+                <h6 class="card-subtitle mb-2 text-muted">{{ .employer }}</h6>
+              {{- end -}}
               <p class = "card-text">
                 {{ if .bio }}
                   {{ .bio | markdownify }}
                 {{ end }}
               </p>
-                {{ if .twitter }}
-                  {{ $twitter := replace .twitter "@" "" }}
+                {{- if .twitter -}}
+                  {{- $twitter := replace .twitter "@" "" -}}
                   <a href="http://twitter.com/{{ $twitter }}" class="card-link"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
-                {{ end }}
+                {{- end -}}
                 {{- if .website -}}
                     <a href = "{{ .website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
@@ -43,26 +43,17 @@
             </div>
           </div>
         </div>
-    {{ end }}
-      <!-- </div> -->
+    {{- end -}}
     </div>
-
-  {{ else }}
+  {{- else -}}
   <ul>
-
-    {{ range $event_organizers := $e.team }}
+    {{- range $event_organizers := $e.team -}}
       <li>{{ $event_organizers }}</li>
     {{ end }}
   {{ end }}
 </ul>
-
 <style>
-/*.card {
-  display: block !important;
-}
-*/
 .organizer-image {
   max-width: 100%;
 }
-
 </style>

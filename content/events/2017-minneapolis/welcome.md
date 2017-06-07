@@ -3,6 +3,7 @@ date = "2016-08-24T11:29:13-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-minneapolis"]
+description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
 
 +++
 
@@ -37,30 +38,21 @@ aliases = ["/events/2017-minneapolis"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

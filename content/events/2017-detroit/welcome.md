@@ -3,13 +3,14 @@ date = "2016-12-11T14:38:53-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-detroit"]
+Description = "devopsdays Detroit 2017"
 
 +++
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**DevOpsDays is returning to Detroit!**
+**DevOpsDays is returning to Detroit for its 3rd year!**
 
 <div style="text-align:center;">
   {{< event_logo >}}
@@ -33,23 +34,23 @@ aliases = ["/events/2017-detroit"]
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

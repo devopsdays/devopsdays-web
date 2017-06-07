@@ -3,17 +3,15 @@ date = "2017-01-21T10:28:40+02:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-cape-town"]
+Description = "devopsdays Cape Town 2017"
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-
-**devopsdays is coming to {{< event_location >}}!**
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -24,14 +22,14 @@ aliases = ["/events/2017-cape-town"]
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -42,14 +40,14 @@ aliases = ["/events/2017-cape-town"]
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
