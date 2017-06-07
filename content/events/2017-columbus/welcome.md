@@ -1,24 +1,32 @@
 +++
-date = "2016-03-06T21:15:25-06:00"
+date = "2017-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
-City = "ohio"
-Year = "2016"
-aliases = ["/events/2016-Ohio"]
-draft = false
+City = "columbus"
+Year = "2017"
+aliases = ["/events/2017-columbus", "/events/2017-ohio", "/events/2017-ohio/welcome"]
+Description = "DevOpsDays Ohio 2017"
 
 +++
+<div class="container" style="margin-bottom: 20px;">
+<div class="row">
 
+<div class="col-md-9" style="margin-bottom: 20px;">
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<div style="float: right;">
-  {{< event_logo >}}
+DevOps Days will be coming back to Columbus, Ohio in 2017!
+
+More information on the event will be coming soon.
+In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program</a> and
+<a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg" target="_blank">Videos</a>.
+
 </div>
-
-Thank you to all of the attendees, sponsors, and <a href="http://www.shadowboxlive.org/" target="_blank">Shadowbox Live</a> for making DevOps Days Ohio 2016 a great success!
-
-You can now view all the wonderful presentations <a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg" target="_blank">here</a>
-
+<div class="col-md-3">
+<img alt="devopsdays Ohio 2017" src="/events/2017-columbus/logo.png">
+</div>
+</div>
+</div>
+<div class="container">
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -28,14 +36,14 @@ You can now view all the wonderful presentations <a href="https://www.youtube.co
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -91,6 +99,16 @@ You can now view all the wonderful presentations <a href="https://www.youtube.co
   </div>
 </div>
 
-{{< event_twitter DevOpsDaysOhio >}} <!-- add your twitter name here without the @ sign -->
+<div class = "row">
+<div class="col-md-12">
+{{< event_twitter >}}
+</div>
 
+</div>
+
+<div class="row">
+<div class="col-6" style="float: right">
 <a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/DevOpsDaysOhio">Tweets by DevOpsDaysOhio</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+</div>
