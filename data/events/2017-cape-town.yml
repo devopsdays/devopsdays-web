@@ -55,7 +55,7 @@ sponsors:
 sponsors_accepted: "yes"
 sponsor_levels:
   - id: platinum
-    label: Gold
+    label: Platinum
     max: 1
   - id: gold
     label: Gold
