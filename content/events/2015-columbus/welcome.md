@@ -2,7 +2,7 @@
 date = "2000-01-01T01:01:01-06:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2015-ohio"]
+aliases = ["/events/2015-columbus", "/events/2015-ohio", "/events/2015-ohio/welcome"]
 draft = false
 
 +++

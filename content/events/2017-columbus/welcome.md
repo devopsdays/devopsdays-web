@@ -2,10 +2,10 @@
 date = "2017-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
-City = "ohio"
+City = "Columbus"
 Year = "2017"
-aliases = ["/events/2017-ohio"]
-Description = "devopsdays Ohio 2017"
+aliases = ["/events/2017-columbus", "/events/2017-ohio", "/events/2017-ohio/welcome"]
+Description = "DevOpsDays Ohio 2017"
 
 +++
 <div class="container" style="margin-bottom: 20px;">
@@ -22,7 +22,7 @@ In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program
 
 </div>
 <div class="col-md-3">
-<img alt="devopsdays Ohio 2017" src="/events/2017-ohio/logo.png">
+<img alt="devopsdays Ohio 2017" src="/events/2017-columbus/logo.png">
 </div>
 </div>
 </div>

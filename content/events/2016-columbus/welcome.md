@@ -4,7 +4,7 @@ title = "welcome"
 type = "event"
 City = "ohio"
 Year = "2016"
-aliases = ["/events/2016-Ohio"]
+aliases = ["/events/2016-columbus", "/events/2016-ohio", "/events/2016-ohio/welcome"]
 draft = false
 
 +++
