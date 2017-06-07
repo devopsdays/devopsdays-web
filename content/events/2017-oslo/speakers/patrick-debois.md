@@ -1,7 +1,7 @@
 +++
 Title = "Patrick Debois"
 Twitter = "patrickdebois"
-image = "patrick-debois.jpg"
+image = "patrick-debois.png"
 type = "speaker"
 linktitle = "patrick-debois"
 Website = "http://www.jedi.be/blog/"
