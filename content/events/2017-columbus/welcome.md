@@ -2,7 +2,7 @@
 date = "2017-03-06T21:15:25-06:00"
 title = "welcome"
 type = "event"
-City = "columbus"
+City = "Columbus"
 Year = "2017"
 aliases = ["/events/2017-columbus", "/events/2017-ohio", "/events/2017-ohio/welcome"]
 Description = "DevOpsDays Ohio 2017"
