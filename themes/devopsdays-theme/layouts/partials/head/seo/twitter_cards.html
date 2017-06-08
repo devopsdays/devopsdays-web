@@ -19,7 +19,11 @@
     {{- end -}}
   {{- end -}}
 {{- else -}}
+  {{- with .Params.sharing_image -}}
+    {{- $.Scratch.Set "sharing_url" ( . | absURL ) -}}
+  {{- else -}}
     {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+  {{- end -}}
 {{- end -}}
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{{ $.Scratch.Get "sharing_url" }}" />
