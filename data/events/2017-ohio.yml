@@ -16,7 +16,43 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: sponsor
   - name: location
-team: ["Andy Dyrcz", "Ben Blanquera", "Bill Schwanitz", "David Laulusa", "Kyle Jenkins", "John Lusk", "Michael Swartzbaugh", "Renee Weldy", "Sherry Stebens", "Warner Moore"]
+
+team_members: # Name is the only required field for team members.
+#  - name: "---"
+#    employer: "---"
+#    bio: "---"
+#    twitter: "---"
+#    linkedin: "---"
+#    facebook: "---"
+#    website: "---"
+#    github: "---"
+#    image: "---"
+  - name: "Andy Dyrcz"
+    employer: "Express"
+    bio: "Proud Member of Pipegreppers Union Local 614"
+    twitter: "https://twitter.com/adyrcz"
+    linkedin: "https://www.linkedin.com/in/adyrcz/"
+    website: "https://www.adyrcz.com"
+    github: "https://github.com/adyrcz"
+  - name: "Ben Blanquera"
+  - name: "Bill Schwanitz"
+  - name: "David Laulusa"
+  - name: "John Lusk"
+  - name: "Kyle Jenkins"
+    employer: "Improving"
+    bio: "Kyle Jenkins is a full stack developer and consultant with Improving, a software development consulting and training company in Columbus, Ohio. He assists with organizing the DevOpsDays Columbus conference. While working directly with clients to accomplish projects, he always strives to improve the quality of code and life for the team. In his spare time, you may find him at a variety of user groups around town, or online playing video games with friends."
+    linkedin: "https://www.linkedin.com/in/kyle-jenkins"
+    twitter: "kjenkinsdev"
+    github: "kjenkins19"
+  - name: "Michael Swartzbaugh"
+  - name: "Renee Weldy"
+  - name: "Sherry Stebens"
+  - name: "Warner Moore"
+    bio: "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams.
+    <br/><br/>As an international speaker, Warner has been invited to present to university students, technology professionals, and business leaders in a classroom setting as well as at conferences such as Startup Week, CloudDevelop, Path to Agility, InfoSec Summit, CodeMash, Security BSides, and DevOpsDays.
+    <br/><br/>Warner is passionate about culture, innovation, and community. His passion reflects in his volunteer work leading organizations such as [Ohio LinuxFest] (https://ohiolinux.org/), [LOPSA] (http://lopsacbus.org/), [DevOpsDays] (https://www.devopsdays.org/events/2016-ohio/welcome/), and [Toastmasters] (http://2checkout.easy-speak.org/)."
+    linkedin: "https://www.linkedin.com/in/warnermoore"
+
 organizer_email: "organizers-ohio-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-ohio-2017@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
