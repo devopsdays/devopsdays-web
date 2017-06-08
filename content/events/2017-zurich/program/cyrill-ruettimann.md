@@ -9,10 +9,10 @@ title = "New Ways to Effectively Develop a DevOps Culture"
 type = "talk"
 speakers = ["cyrill-ruettimann"]
 youtube = ""
-vimeo = ""
+vimeo = "219578401"
 speakerdeck = "https://speakerdeck.com/dodzh/d2-i2-cyrill-ruttimann-new-ways-to-effectively-develop-a-devops-culture"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d2-i2-cyrill-ruttimann-new-ways-to-effectively-develop-a-devops-culture"
+slides = ""
 +++
 
 I was working in agile projects for more than 10 years now. But I have never been in a

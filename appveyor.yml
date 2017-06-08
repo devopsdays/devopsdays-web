@@ -21,6 +21,6 @@ install:
 build_script:
 #  Build the devopsdays-web site once
 - cmd: >-
-    hugo --verbose --config config-windows.toml
+    hugo --verbose
 
 test: off

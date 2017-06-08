@@ -3,6 +3,7 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Amsterdam" # The city name of the event. Capitalize it.
 event_twitter: "devopsams"
 friendly: "2017-amsterdam" # Four digit year and the city name in lower-case. Don't forget the dash!
+ga_tracking_id: "UA-38891729-2"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  2017-06-28
@@ -79,6 +80,12 @@ sponsors:
   - id: topdesk
     level: bronze
   - id: simtech
+    level: bronze
+  - id:  transip
+    level: bronze
+  - id:  openebs
+    level: bronze
+  - id: 2017-inuits
     level: bronze
   # BBQ / Evening Event
   - id: schubergphilis

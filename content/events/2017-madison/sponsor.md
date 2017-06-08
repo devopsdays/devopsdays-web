@@ -6,7 +6,7 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href=https://assets.devopsdays.org/events/2017/madison/DevOpsDays-Madison-2017-Sponsor-Prospectus.pdf>prospectus</a> or send us an email at [{{< email_organizers >}}].
 
 <hr>
 
@@ -18,32 +18,76 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 <hr/>
 
-<!--
-
 <div style="width:590px">
-<table border=1 cellspacing=1>
+<table class = "table table-bordered table-responsive">
   <tr>
     <th><i>packages</i></th>
     <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
+    <th><center><b><u>Silver<br />2500 usd</u></center></b></th>
+    <th><center><b><u>Gold<br />4000 usd</u></center></b></th>
   </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+  <tr>
+    <td>included tickets</td>
+    <td bgcolor="peru">1</td>
+    <td bgcolor="silver">2</td>
+    <td bgcolor="gold">4</td>
+  </tr>
+  <tr>
+    <td>booth/table space</td>
+    <td>&nbsp;</td>
+    <td bgcolor="silver">half table</td>
+    <td bgcolor="gold">full table</td>
+  </tr>
+  <tr>
+    <td>shared table for swag</td>
+    <td bgcolor="peru">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>logo on event website</td>
+    <td bgcolor="peru">&nbsp;</td>
+    <td bgcolor="silver">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>logo on shared slide, rotating during breaks</td>
+    <td bgcolor="peru">&nbsp;</td>
+    <td bgcolor="silver">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>logo on its own slide, rotating during breaks</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>logo on shared slide in recorded video pre-roll</td>
+    <td bgcolor="peru">&nbsp;</td>
+    <td bgcolor="silver">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>logo on all email communication</td>
+    <td bgcolor="peru">&nbsp;</td>
+    <td bgcolor="silver">&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1-2 minute pitch to full audience (including streaming audience if applicable)</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="gold">&nbsp;</td>
+  </tr>
 </table>
+</div>
+<div>
 <hr/>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 <br/>
 <br/>
 </div>
--->
+<div style="width:590px">
+
 <hr/>

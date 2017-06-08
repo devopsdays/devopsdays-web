@@ -1,13 +1,18 @@
-sudo: false
-language: go
-install: go get -v github.com/spf13/hugo
-# before_install:
-# - sudo apt-get update
-# - sudo apt-get install nodejs
-# - sudo apt-get install npm
-# before_script:
-# - npm install -g gulp
-# - npm install
+sudo: required
+
+language: ruby
+
+services:
+  - docker
+
+before_install:
+  - docker run --rm -e SITE_URL="https://wwww.devopsdays.org" -v $(pwd):/site devopsdays/docker-hugo-compiler
+
+before_script:
+- npm install -g gulp
+- npm install
+- cd public
+
 script:
-  - hugo
-  # - gulp min-html
+  - ls
+  - gulp min-html --cwd .

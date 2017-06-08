@@ -159,7 +159,7 @@ heading = "devopsdays Amsterdam - Program"
   </div>
   <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>HumanOps Track</strong><br />
-    <a href="/events/2017-amsterdam/program/talk-to-be-confirmed/">Talk to be confirmed</a>
+    <a href="/events/2017-amsterdam/program/david-mytton/">David Mytton - How to do HumanOps</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->

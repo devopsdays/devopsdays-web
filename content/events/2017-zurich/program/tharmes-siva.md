@@ -9,10 +9,10 @@ title = "Continuous Performance Delivery: Find and Fix the Things That Matter"
 type = "talk"
 speakers = ["tharmes-siva"]
 youtube = ""
-vimeo = ""
+vimeo = "218690382"
 speakerdeck = "https://speakerdeck.com/dodzh/d2-3-tharmes-siva-continuous-performance-delivery-find-and-fix-the-things-that-matter"
 slideshare = ""
-slides = "https://speakerdeck.com/dodzh/d2-3-tharmes-siva-continuous-performance-delivery-find-and-fix-the-things-that-matter"
+slides = ""
 +++
 
 Businesses want to ensure that their end users are happy so they can maximize productivity,

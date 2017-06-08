@@ -78,6 +78,30 @@ devopsdays is a self-organizing conference for practitioners that depends on spo
 <td>1</td>
 <td>&ndash;</td>
 </tr>
+
+
+<tr>
+<td class='firstcol'>Submit Payment with PayPal<br><i>Contact us if you prefer to be invoiced</i></td>
+<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="P2AMSYE93YAX6">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></td>
+<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="F7E8E9ZKAZEM8">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></td>
+<td><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="JEEKZ6BUGHQRW">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></td>
+</tr>
+
 </tbody>
 </table>
 
@@ -116,12 +140,13 @@ Sponsorship Add-Ons
 <td>1</td>
 <td>(based on capacity)</td>
 </tr>
+
 </tbody>
 </table>
 
 <br>
 
-Platinum sponsors get a full table and Gold sponsors a shared table where they can interact with those interested to come visit during breaks. Silver sponsor do not get a table but all three levels get their logo on the website and on digital banners. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Platinum sponsors get a full 6'x2.5' table and Gold sponsors a 3'x3' table where they can interact with those interested to come visit during breaks. Silver sponsor do not get a table but all three levels get their logo on the website and on digital banners. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 

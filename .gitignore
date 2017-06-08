@@ -62,3 +62,6 @@ increase_ulimit.sh
 *~
 *.swp
 *.swo
+
+# Visual Studio Code
+.vscode/

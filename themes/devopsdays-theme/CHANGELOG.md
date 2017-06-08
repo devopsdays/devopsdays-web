@@ -1,5 +1,49 @@
 # Change Log
 
+## [1.10.3](https://github.com/devopsdays/devopsdays-theme/tree/1.10.3) (2017-06-05)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.2...1.10.3)
+
+**Fixed bugs:**
+
+- Stray curly brace on welcome pages [\#550](https://github.com/devopsdays/devopsdays-theme/issues/550)
+
+## [1.10.2](https://github.com/devopsdays/devopsdays-theme/tree/1.10.2) (2017-06-02)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.1...1.10.2)
+
+**Implemented enhancements:**
+
+- declutter speakers page [\#548](https://github.com/devopsdays/devopsdays-theme/issues/548)
+- Workshop program elements should link like talks do  [\#538](https://github.com/devopsdays/devopsdays-theme/issues/538)
+
+**Fixed bugs:**
+
+- default speaker image on talk page is broken [\#547](https://github.com/devopsdays/devopsdays-theme/issues/547)
+- Update Reference file to explain that program elements called "talk" link to the talk [\#537](https://github.com/devopsdays/devopsdays-theme/issues/537)
+
+## [1.10.1](https://github.com/devopsdays/devopsdays-theme/tree/1.10.1) (2017-05-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.0...1.10.1)
+
+**Closed issues:**
+
+- \[Bug\] Vimeo videos don't show up in speaker talk page [\#542](https://github.com/devopsdays/devopsdays-theme/issues/542)
+- \[Enhancement\] Add Flickr social sharing button [\#541](https://github.com/devopsdays/devopsdays-theme/issues/541)
+
+## [1.10.0](https://github.com/devopsdays/devopsdays-theme/tree/1.10.0) (2017-05-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.1...1.10.0)
+
+**Implemented enhancements:**
+
+- Sponsors should be singular if max-level is 1 [\#528](https://github.com/devopsdays/devopsdays-theme/issues/528)
+- Make ellipsis on truncated bios on speaker page clickable [\#519](https://github.com/devopsdays/devopsdays-theme/issues/519)
+- Remove filesystem deps [\#471](https://github.com/devopsdays/devopsdays-theme/issues/471)
+- Create custom 404 page [\#345](https://github.com/devopsdays/devopsdays-theme/issues/345)
+
+**Fixed bugs:**
+
+- The "about" sidebar should not be special-cased [\#532](https://github.com/devopsdays/devopsdays-theme/issues/532)
+- Speakerdeck width overlapping with speaker profile text [\#531](https://github.com/devopsdays/devopsdays-theme/issues/531)
+- Deprecate weburl key in config.toml [\#455](https://github.com/devopsdays/devopsdays-theme/issues/455)
+
 ## [1.9.1](https://github.com/devopsdays/devopsdays-theme/tree/1.9.1) (2017-05-11)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.0...1.9.1)
 
