@@ -16,7 +16,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: sponsor
   - name: location
-#team: ["Andy Dyrcz", "Ben Blanquera", "Bill Schwanitz", "David Laulusa", "John Lusk", "Kyle Jenkins", "Michael Swartzbaugh", "Renee Weldy", "Sherry Stebens", "Warner Moore"]
 
 team_members: # Name is the only required field for team members.
 #  - name: "---"
