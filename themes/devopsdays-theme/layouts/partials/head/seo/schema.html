@@ -9,7 +9,11 @@
   {{- $event_slug := index $path 2 -}}
   <meta itemprop="image" content="{{ (printf "events/%s/sharing.jpg" $event_slug) | absURL}}" />
 {{- else -}}
-  <meta itemprop="image" content="{{ "img/sharing.jpg" | absURL }}" />
+  {{- with .Params.sharing_image -}}
+    <meta itemprop="image" content="{{ . | absURL }}" />
+  {{- else -}}
+    <meta itemprop="image" content="{{ "img/sharing.jpg" | absURL }}" />
+  {{- end -}}
 {{- end -}}
 {{- if .IsPage -}}
 <meta itemprop="wordCount" content="{{ .WordCount }}">

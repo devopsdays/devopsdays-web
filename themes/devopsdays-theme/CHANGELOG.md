@@ -1,5 +1,23 @@
 # Change Log
 
+## [1.11.0](https://github.com/devopsdays/devopsdays-theme/tree/1.11.0) (2017-06-08)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.3...1.11.0)
+
+**Implemented enhancements:**
+
+- Refactor how "talks" are displayed on a speaker's page [\#554](https://github.com/devopsdays/devopsdays-theme/issues/554)
+- add twitter handles to talk pages [\#551](https://github.com/devopsdays/devopsdays-theme/issues/551)
+- Blog posts should have a sharing image [\#529](https://github.com/devopsdays/devopsdays-theme/issues/529)
+- Core organizers should be in a data file [\#526](https://github.com/devopsdays/devopsdays-theme/issues/526)
+- Move map to below city icons [\#516](https://github.com/devopsdays/devopsdays-theme/issues/516)
+- Markdown in program files should be displayed [\#514](https://github.com/devopsdays/devopsdays-theme/issues/514)
+- Events feed needs more robust information [\#474](https://github.com/devopsdays/devopsdays-theme/issues/474)
+
+**Fixed bugs:**
+
+- Broken links in the CFP RSS feed [\#540](https://github.com/devopsdays/devopsdays-theme/issues/540)
+- Speaker images of different sizes act differently [\#485](https://github.com/devopsdays/devopsdays-theme/issues/485)
+
 ## [1.10.3](https://github.com/devopsdays/devopsdays-theme/tree/1.10.3) (2017-06-05)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.2...1.10.3)
 
