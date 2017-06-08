@@ -23,13 +23,13 @@
 <!-- /MDTOC -->
 
 
-It's super helpful to run your own, event-level, GitHub project for `devopsdays-web` to make changes there, and then push the pull request up to the main repo.
+It's super helpful to run your own, event-level, GitHub fork of the main repository for `devopsdays-web` to make changes there, and then push the pull request up to the main repo.
 
 We suggest that you follow the same process that we do for the main repo, which would be as follows:
 
 1. Make your changes in a branch. Push that branch up to your repo.
 2. Submit a pull request in your own repo against your own master. Make sure that the deploy previews look good!
-3. If everything looks good to you, merge them into your own master just to make sure that the full build works (there are steps that occur in a build to master that do not occur in a branch deploy)
+3. If everything looks good to you, merge them into your own master just to make sure that the full build works (for example, in the build to master, Netlify will run various Gulp tasks to retinafy images, minify html, etc. View the tasks in the `gulp` directory if you're curious).
 4. If everything still looks awesome, submit a PR from your `master` branch to `devopsdays/devopsdays-web`.
 
 ## Organization Setup
@@ -63,7 +63,7 @@ You should end up with a fork that looks a little like this:
 
 ### Clone your organization's repository
 
-Click on the "Clone or Download" button on your repo. Copy the full URL listed there (if you prefer to use ssh, use that link, but choosing HTTPS over SSH is beyond the scope of this document).
+Click on the "Clone or Download" button on your repo. Copy the full URL listed there (ssh or https, [depending upon your preference](https://help.github.com/articles/which-remote-url-should-i-use/).
 
 ![](img/clone-button.jpg)
 
@@ -135,7 +135,7 @@ Choose to set up a new site from Git:
 
 ![](img/new-netlify.jpg)
 
-Select GitHub as the provider:
+Select GitHub as the provider (Note: We recommend you tick the "Limit GitHub access to public repositories" option to ensure you don't provide access to any private repos you may have access to by accident):
 
 ![](img/choose-github.jpg)
 
@@ -147,7 +147,7 @@ You will be prompted for some build commands. Enter them as follows:
 
 ![](img/netlify-settings.jpg)
 
-(Note. The build command is `hugo_0.19 --theme=devopsdays-theme --buildDrafts=false`; don't worry about the hugo version as this is handled in a settings file already in your repository)
+(Note. The build command is `hugo_0.19 --theme=devopsdays-theme --buildDrafts=false`; don't worry about the hugo version as this is handled in a [settings file](https://github.com/devopsdays/devopsdays-web/blob/master/netlify.toml) already in your repository. We have to put in a build command, even though it will be over-ridden.)
 
 Finish up by clicking on "Deploy Site". We aren't done, but this takes us to the next steps.
 
@@ -165,7 +165,7 @@ Also an optional step, but it's advised to perform it if your repository is not 
 
 ## Working Locally
 
-When you are ready to make some changes, the first thing to do is make sure you are in the local directory where you cloned down the fork. Before starting any new change, it is essential that you `rebase` your local repository from the upstream. Issue thee commands:
+When you are ready to make some changes, the first thing to do is make sure you are in the local directory where you cloned down the fork. Before starting any new change, it is essential that you `rebase` your local repository from the upstream. Issue these commands:
 
  - `git checkout master`
  - `git pull upstream master --rebase`
@@ -173,7 +173,7 @@ When you are ready to make some changes, the first thing to do is make sure you 
 
  This confirms you are on the master branch locally, and then applies the changes from the upstream to your copy.
 
- The next step is to create a new branch for the changes you are going to make. Use the command `git checkout -b my-new-branch` (where "my-new-branch" is a recognizeable name for the set of changes, such as `add-matt-bio`). This switches you to a new branch for you to do your work.
+ The next step is to create a new branch for the changes you are going to make. Use the command `git checkout -b my-new-branch` (where "my-new-branch" is a recognizable name for the set of changes, such as `add-matt-bio`). This switches you to a new branch for you to do your work.
 
 ### Saving and uploading your work
 
@@ -268,6 +268,8 @@ Click "compare across forks"
 
 When filling out the pull request form, make sure that you follow the guidelines in the template - including replacing the template text itself! Also, if you tick the "Allow edits from maintainers" box, that will help the maintainers directly fix any issues with your PR.
 
-![](img/merge-to-orgin-pr.png)
+![](img/merge-to-origin-pr.png)
 
 That's it! Now you can either view the proposed merge via Netlify (using a similar technique as before), or wait for your change to be merged. Be advised that maintainers may have questions about your PR, so watch for the conversation thread.
+
+Bear in mind that in order for your PR to be merged, you need to be one of the listed organizers for a given event, and we'll only merge your PRs regarding that event.
