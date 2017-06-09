@@ -17,8 +17,10 @@ Description = "devopsdays Kansas City 2017"
 <br>
 DevOpsDays is coming to the {{< event_location >}}!
 
-Where large enterprise software companies and a growing startup community are fueled by the fastest internet in the world. With more than 500 members in the local DevOps Meetup group, this conference will draw an elite group. Come and enjoy excellent presentations from local and international experts as well as the famous hallway track.
+Where large enterprise software companies and a growing startup community are fueled by the fastest internet in the world. With more than 750 members in the local DevOps Meetup group, this conference will draw an elite group. Come and enjoy excellent presentations from local and international experts as well as the famous hallway track.
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -42,14 +44,14 @@ Where large enterprise software companies and a growing startup community are fu
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

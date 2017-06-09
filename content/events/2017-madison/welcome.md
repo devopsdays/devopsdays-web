@@ -10,7 +10,7 @@ Description = "devopsdays Madison 2017"
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**We are excited to bring DevOps Days back to {{< event_location >}}! We are once again hoping to host this event at The Overture Center for the Arts in early November; however, we can not book the venue until March. Please check this space for updates!**
+**We are excited to bring DevOps Days back to {{< event_location >}}!**
 
 <div style="text-align:center;">
   {{< event_logo >}}

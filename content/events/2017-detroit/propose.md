@@ -6,6 +6,8 @@ type = "event"
   {{< cfp_dates >}}
 
 <hr>
+<h2><strong>Have something to share? Submit your proposal <a href="https://devopsdaysdetroit.typeform.com/to/HfQ847" target="_blank">here</a>!</strong></h2>
+<hr>
 There are three ways to propose a session:
 <ol>
   <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
@@ -13,7 +15,7 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
+<!-- ### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}} -->
 
 Our main criteria to make it to the top selection are:
 
@@ -21,7 +23,7 @@ Our main criteria to make it to the top selection are:
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<strong>How to submit a proposal:</strong> Use <a href="https://devopsdaysdetroit.typeform.com/to/HfQ847" target="_blank">this</a> form.
 <ol>
 	<li>Proposal working title (can be changed later)</li>
 	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>

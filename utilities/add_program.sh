@@ -58,4 +58,9 @@ do
   SEDCMD "s/talk-$talknumber/$speaker_slug/" ../data/events/$event_slug.yml
 done
 
+# Create empty program page file (will be auto-filled for display)
+programpage="../content/events/$event_slug/program.md"
+cp examples/templates/program.md $programpage
+SEDCMD "s/CITY/$city/" $programpage
+SEDCMD "s/YYYY/$year/" $programpage
 

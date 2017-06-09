@@ -7,7 +7,7 @@ description = "Interested in sponsoring DevOpsDays Kansas City 2017? We greatly 
 +++
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2017-kansascity/DODKC17_Prospectus.jpg">prospectus</a> or <a href="mailto:organizers-kansascity-2017@devopsdays.org?subject=DevOpsDays%Kansas%20City%202017%20Sponsorship">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2017-kansascity/DODKC17_Prospectus.jpg">prospectus</a> or <a href="mailto:organizers-kansascity-2017@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">send us an email</a>.
 
 <hr>
 
@@ -59,7 +59,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
               </form>
             </td>
-            <td style="width:90px;text-align:center;vertical-align:middle;">
+            <td style="padding: 4px 10px 0px 5px;">
               <!-- gold Paypal button  -->
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -70,7 +70,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
             </td>
           </tr>
           <tr>
-            <td colspan="3" style="padding: 2px 0 12px 0;text-align: center;"><a href="mailto:organizers-kansascity-2017@devopsdays.org?subject=DevOpsDays%Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
+            <td colspan="3" style="padding: 2px 0 12px 0;text-align: center;"><a href="mailto:organizers-kansascity-2017@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
           </tr>
         </table>
       </td>

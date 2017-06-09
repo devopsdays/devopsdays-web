@@ -21,12 +21,10 @@ Our main criteria to make it to the top selection are:
 - _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
 - _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
-	<li>Description or abstract</li>
-</ol>
+<strong>How to submit a proposal:</strong> 
+
+[PaperCall DevOpsDaysKC 2017](http://cfp.devopsdayskc.org/)
+
 <strong>Rules:</strong>
 <ul>
 	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>

@@ -1,21 +1,11 @@
 +++
-City = "Seattle"
-Year = "2017"
-title = "Julia Wester"
-type = "talk"
-
+Title = "Taming the chaos: After the quick wins"
+Type = "talk"
+Speakers = ["julia-wester"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kOAVjIhxdro" frameborder="0" allowfullscreen></iframe>
 
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <h3>
-  Taming the chaos: After the quick wins
-</h3>
+Your team started using Kanban boards and visualizing your work a while back and, though everyone is happy about the increased visibility, your team is nowhere near the utopia other teams say they’ve achieved. Even worse, you don’t know why or how to get there!
 
-<p>Your team started using Kanban boards and visualizing your work a while back and, though everyone is happy about the increased visibility, your team is nowhere near the utopia other teams say they’ve achieved. Even worse, you don’t know why or how to get there! </p>
-
-<p>Many teams hit this same plateau and stop, falling tragically short of the value that can be achieved with deeper Kanban implementations.  Julia Wester will share tangible steps to take to help transform shallow kanban implementations into systems focused on flow and continuous improvement.</p>
-
-  </div>
-</div>
+Many teams hit this same plateau and stop, falling tragically short of the value that can be achieved with deeper Kanban implementations.  Julia Wester will share tangible steps to take to help transform shallow kanban implementations into systems focused on flow and continuous improvement.

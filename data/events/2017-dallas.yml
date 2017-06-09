@@ -11,7 +11,7 @@ enddate: 2017-08-30 # The end date of your event. Leave blank if you don't have 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-04-04  # start accepting talk proposals.
 cfp_date_end: 2017-06-30 # close your call for proposals.
-cfp_date_announce: 2017-04-04 # inform proposers of status
+cfp_date_announce: 2017-07-14 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: ""
@@ -37,10 +37,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
     icon: "map-o"
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-# - name: registration
-#   icon: "pencil"
-# - name: speakers
-#   icon: "microphone"
+  - name: registration
+    icon: "pencil"
+  - name: speakers
+    icon: "microphone"
   - name: sponsor
     icon: "money"
   - name: contact
@@ -150,11 +150,27 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id: chef
+    level: platinum
+  - id: verizon
+    level: platinum
   - id: pivotal
     level: gold
+  - id: ns1
+    level: gold
+  - id: improving
+    level: gold
+  - id: redhat
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: alertlogic
+    level: silver
   - id: arresteddevops
     level: community
   - id: devopslive
+    level: community
+  - id: addo2017
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -175,9 +191,10 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10
 # - id: bronze
 #   label: Bronze
+#   max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
     max: 5
@@ -219,7 +236,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-08-29
     start_time: "13:00"
     end_time: "13:30"
@@ -229,12 +246,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "14:40"
     end_time: "15:25"
@@ -244,7 +261,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "15:40"
     end_time: "16:25"
@@ -254,7 +271,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-08-29
     start_time: "16:40"
     end_time: "17:25"
@@ -300,21 +317,22 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-08-30
     start_time: "13:00"
     end_time: "13:30"
   - title: ""
+    type: talk
     date: 2017-08-30
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "14:40"
     end_time: "15:25"
@@ -324,7 +342,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "15:40"
     end_time: "16:25"
@@ -334,7 +352,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-08-30
     start_time: "16:40"
     end_time: "17:25"

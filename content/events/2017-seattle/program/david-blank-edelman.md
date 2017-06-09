@@ -1,15 +1,7 @@
 +++
-City = "Seattle"
-Year = "2017"
-title = "David Blank-Edelman"
-type = "talk"
-
+Title = "SRE: What’s the Big Idea?"
+Type = "talk"
+Speakers = ["david-blank-edelman"]
 +++
 
-
-<div class="span-15  ">
-  <div class="span-15  last ">
-  <h3>SRE: What’s the Big Idea?</h3>
-
-  </div>
-</div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8dfYLRAWn_c" frameborder="0" allowfullscreen></iframe>

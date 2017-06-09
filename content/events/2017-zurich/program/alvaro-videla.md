@@ -9,8 +9,8 @@ title = "What We Talk About When We Talk About Distributed Systems"
 type = "talk"
 speakers = ["alvaro-videla"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025568"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-3-alvaro-videla-what-we-talk-about-when-we-talk-about-distributed-systems"
 slideshare = ""
 slides = ""
 +++

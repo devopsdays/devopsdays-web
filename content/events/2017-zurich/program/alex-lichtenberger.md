@@ -9,8 +9,8 @@ title = "DevOps and Holacracy (a.k.a.: Are You a Manager or a Leader?)"
 type = "talk"
 speakers = ["alex-lichtenberger"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219577994"
+speakerdeck = "https://speakerdeck.com/dodzh/d2-i1-alex-lichtenberger-devops-and-holacracy"
 slideshare = ""
 slides = ""
 +++

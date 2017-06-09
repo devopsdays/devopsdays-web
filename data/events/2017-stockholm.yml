@@ -22,7 +22,7 @@ location: "Ballroom 12, Tele2 Arena" # Defaults to city, but you can make it the
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: program
-  - name: propose
+  - name: speakers
   - name: location
   - name: registration
   - name: sponsor
@@ -75,6 +75,8 @@ sponsors:
   - id: elastic
     level: silver
   - id: bonnier-news
+    level: silver
+  - id: microsoft
     level: silver
   - id: basefarm
     level: bronze
@@ -225,7 +227,7 @@ program:
     date: 2017-05-09
     start_time: "11:35"
     end_time: "12:45"
-  - title: "gerie-owen"
+  - title: "gerie-owen-peter-varhol"
     type: talk
     date: 2017-05-09
     start_time: "12:45"

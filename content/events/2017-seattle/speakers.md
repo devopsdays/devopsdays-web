@@ -3,6 +3,7 @@ date = "2017-03-18"
 heading = "DevOpsDays Seattle - Speakers"
 title = "speakers"
 type = "speakers"
+Description = "Speakers for devopsdays Seattle 2017"
 
 +++
 

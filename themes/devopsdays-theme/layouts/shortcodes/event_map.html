@@ -1,16 +1,7 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-
-{{ $coords := split $e.coordinates "," }}
-{{ $lat := index $coords 0 }}
-{{ $lng := index $coords 1 }}
-
-lat is {{ $lat }}
-long is {{ $lng }}
-
-<!-- <link href="/css/googlemaps.css" rel="stylesheet"> -->
-<!-- this has been moved into the main stylesheet -->
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $coords := split $e.coordinates "," -}}
+{{- $lat := index $coords 0 -}}
+{{- $lng := index $coords 1 -}}
 
 <div id="map_canvas" style="width: 550px; height: 265px"></div>
 

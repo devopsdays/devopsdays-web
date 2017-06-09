@@ -5,12 +5,20 @@
  #publish = "public/"
  command = "bin/netlify-production.sh"
  publish = "dist/"
+ 
+[context.production.environment]
+   HUGO_VERSION = "0.20.7"
 
 # Deploy Preview context: All Deploy Previews
 # will inherit these settings.
 [context.deploy-preview]
   publish = "public/"
   command = "bin/netlify.sh"
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.20.7"
+  
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.20.7"
 
 [context.test]
  command = "bin/netlify-production.sh"
