@@ -77,11 +77,11 @@ team_members: # Name is the only required field for team members.
     website: https://twovi.com/
     bio: "Father, Husband, Cat Herder, Generally just gets shit done."
   - name: "Chris Stein"
-    employer: Cerner Corporation
+    employer: C2FO
     image: chris-stein.jpg
     linkedin: https://LinkedIn.com/in/cdstein
     website: http://chrisstein.io
-    bio: "For the past 4 years, Chris' personal career has been focused on infrastructure automation. He's interested in using new technologies and processes for continual improvement."
+    bio: "Chris has spent most of his career focusing on infrastructure automation. He's interested in using new technologies and processes for continual improvement."
   - name: "Chase Pettet"
     employer: Wikimedia Foundation
     image: chase-pettet.jpg
@@ -118,10 +118,14 @@ sponsors_accepted: "yes"
 sponsors:
   - id: pivotal
     level: gold
+  - id: appdynamics
+    level: gold
   - id: 2016-ku
     level: silver
   - id:  new-context
     level: silver
+  - id: cerner
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
