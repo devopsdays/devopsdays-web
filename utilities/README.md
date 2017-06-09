@@ -5,6 +5,8 @@ These scripts help devopsdays organizers manage their events.
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](../CONTRIBUTING.md).
 
+Full reference of all fields and features is located in [REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md) in the theme directory. 
+
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new script in [contrib](contrib/).
 
 ## Events
@@ -76,9 +78,14 @@ Guidelines regarding sponsor logo files and formatting:
 
 All logos will be resized at release time, to 200px wide. Versions for high-density display (ex. Retina) will also be created. It is recommended that you do not use a sponsor logo that is smaller than 200px wide to keep from quality degradation at resize time.
 
-## Team members
+## Local Organizers
 
-See the example team members listed in the generated data file. You can now add additional fields for each team member, as well as a photo. The photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images are located in the `static/events/YYYY-CITY/organizers` directory. Any PRs adding a team member will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address.
+See the example local organizer team members listed in the generated data file found in `data/events/201?-yourcity.yml`. To generate the  `team_members: ` section you can use [add_organizers.sh](add_organizers.sh).
+
+The organizer photo must be in JPG format, and should be a minimum 300px x 300px, but optimally 600px x 600px. These images should be placed in the `static/events/YYYY-CITY/organizers` directory (which the `add_organizers.sh` script will do).
+
+Any PRs adding a new local organizer will need to be accompanied by an email to `info@devopsdays.org` with their full name and email address.
+
 
 ## Social sharing image
 

@@ -1,8 +1,5 @@
 <!-- this div is repeated for each timeslot -->
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{ $city_slug := substr $e.name 5 }}
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
 
 <div class = "row">
   <div class = "col-md-4">
@@ -10,10 +7,10 @@
   </div>
   <div class = "col-md-6 box">
     {{ .Get "title" }}
-    {{ with .Get "presenter" }}
-      {{ $fname := . }}
-      {{ $s := index $.Site.Data.speakers (print (chomp $e.year)) $city_slug . }}
-      -- <a href="/events/{{ $event_slug }}/program/{{ $fname }}">{{ $s.name }}</a>
-    {{end}}
+    {{- with .Get "presenter" -}}
+      {{- $fname := . -}}
+      {{- $s := index $.Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) . -}}
+      -- <a href="{{ (printf "events/%s/program/%s" $e.name $fname) | absURL }}">{{ $s.name }}</a>
+    {{- end -}}
   </div>
 </div> <!-- end timeslot div -->

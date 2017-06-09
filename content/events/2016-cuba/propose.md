@@ -1,37 +1,47 @@
 +++
 date = "2016-09-17T16:53:08+02:00"
-title = "propose"
+title = "Propose / Proponer"
 type = "event"
 +++
   {{< cfp_dates >}}
 
 <hr>
-There are three ways to propose a session:
-<ol>
-  <li><strong><em>A proposal for a talk/panel</em></strong> during the conference part : these are 30 minute slots that will have the full attention of all attendees, as everybody will be in that one room.</li>
-  <li><strong><em>An Ignite talk</em></strong> that will be presented during the<a href="/pages/ignite-talks-format"> Ignite sessions</a>. These are 5 minutes slots with slides changing every 15 seconds (20 slides total) which are also presented to all attendees in one room</li>
-  <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
-</ol>
+El Comité Organizador del DevOpsDays Cuba hace oficialmente la apertura para el envío de ponencias en las categorías: Conferencias principales y Presentaciones <strong><a href="http://igniteshow.com/">Ignite</a></strong>.
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
-
-Our main criteria to make it to the top selection are:
-
-- _original content_: content not yet presented at other conferences, or a new angle to an existing problem
-- _new presenters_: people who are new to the space and have insightful stuff to say; we want to hear everybody's voice
-- _no vendor pitches_: as much as we value vendors and sponsors, we just don't think this is the right forum. You can demo at your table or during Open Space.
-
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation, panel discussion, moderated general discussion, debate, etc.,ignite)</li>
-	<li>Description or abstract</li>
-</ol>
-<strong>Rules:</strong>
+Para aprovechar al máximo las secciones y promover el intercambio sobre las últimas tendencias en el movimiento cultural del DevOps, se proponen como temas de interés a trabajar en el programa:
 <ul>
-	<li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>
-	<li>Detail is good... but not as important as explaining why your proposal would be interesting</li>
-	<li>Propose your own talk; don't have someone else do it for you.</li>
-	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
-	<li>Multiple proposals welcome... just follow the other rules</li>
+<li>Prácticas para el desarrollo de software en el mundo del DevOps</li>
+<li>Velocidad, sustentabilidad y deuda técnica</li>
+<li>Cuantificación de la productividad, fallas y métricas de riesgo</li>
+<li>Desarrollo profesional, enseñanza, entrenamiento y adiestramiento</li>
+<li>Formación de ingenieros noveles y su transformación en ingenieros expertos</li>
+<li>Temas de seguridad en el trabajo del desarrollo de software</li>
+</ul>
+
+Adicionalmente se aceptarán presentaciones relacionadas con temas presentados en otros DevOpsDays:
+<ul>
+<li>Despliegue continuo</li>
+<li>Automatización</li>
+<li>Contenedores y su empleo</li>
+<li>Infraestructura como Código</li>
+<li>Monitorización</li>
+<li>Gestión de la Configuración</li>
+<li>DevOps en las empresas</li>
+<li>Microservicios</li>
+<li>Gestión de servicios</li>
+<li>Metodologías de desarrollo</li>
+<li>Escalado horizontal</li>
+<li>Reclutamiento/contratación de especialistas del DevOps</li>
+</ul>
+
+Por favor considere, que por la novedad de estos temas y las capacidades para su presentación, no todos podrán ser cubiertos en este primer DevOpsDays Cuba. Por lo que se les exhorta a emplear los Espacios Abiertos para profundizar sobre las temáticas no cubiertas en las presentaciones.
+
+El envío de sus propuestas debe hacerse empleando el sitio https://devopsdayscuba.eventos.uci.cu mediante el registro de los datos solicitados para la evaluación de cada presentación. El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el programa oficial del evento.
+
+Si presenta algún problema por favor contáctenos:  <strong><a href="mailto:proposals-cuba-2016@devopsdays.org">proposals-cuba-2016@devopsdays.org</a></strong>  
+
+Los criterios principales para la selección de las presentaciones son:
+<ul>
+<li>originalidad del contenido: que el contenido no haya sido presentado en otras conferencias.</li>
+<li>presentadores con experiencia: presentadores con más de dos años de experiencia en el tema, de forma tal que pueda responder las interrogantes que surjan.</li>
 </ul>

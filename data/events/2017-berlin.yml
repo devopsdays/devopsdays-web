@@ -12,11 +12,11 @@ coordinates: "52.524332,13.389849" # The corrodinates of your venue. Get Latitud
 location: "Kalkscheune Berlin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
   - name: propose
   - name: program
   - name: location
   - name: registration
+    url: https://www.devops-berlin.de
   - name: sponsor
   - name: contact
   - name: conduct
@@ -57,12 +57,20 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: partner
   - id: netways
     level: partner
+  - id: 2016-norisnetwork
+    level: eveningevent
+  - id: gocd
+    level: platinum
+  - id: codecentric
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent
     label: Evening Event
+    max: 1
   - id: platinum
     label: Platinum
+    max: 9
   - id: gold
     label: Gold
   - id: silver

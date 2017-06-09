@@ -1,31 +1,29 @@
-<!-- Twitter cards -->
 <meta name="twitter:title" content="{{ .Title }}"/>
-{{ if .IsHome }}
+{{- if .IsHome -}}
   <meta name="twitter:description" content="devopsdays is a worldwide community conference series for anyone interested in IT improvement." />
-{{ else }}
+{{- else -}}
   <meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
-{{ end }}
+{{- end -}}
 <meta name="twitter:site" content="@devopsdays">
-{{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
-  {{/* site data query copypasta */}}
-  {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-  {{ $event_slug := index $path 1 }}
-  {{ $e :=  (index $.Site.Data.events $event_slug) }}
-  {{ $.Scratch.Set "contentdir" (printf "static/events/%s/" $event_slug) }}
-  {{/* end site data query */}}
-  {{ if $e.event_twitter }}
+{{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
+  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+  {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+  {{- if $e.event_twitter -}}
     <meta name="twitter:creator" content="@{{$e.event_twitter}}" />
-  {{ end }}
-  {{if (where (readDir "static/events") "Name" $event_slug)}}
-    {{ if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") }}
-      {{ $.Scratch.Set "sharing_url" (printf "%s/events/%s/sharing.jpg" $.Site.Params.weburl $event_slug ) }}
-    {{ else }}
-      {{ $.Scratch.Set "sharing_url" (printf "%s/img/sharing.jpg" $.Site.Params.weburl ) }}
-    {{ end }}
-  {{ end }}
-{{ else }}
-    {{ $.Scratch.Set "sharing_url" (printf "%s/img/sharing.jpg" $.Site.Params.weburl ) }}
-{{ end }}
+  {{- end -}}
+  {{- if (where (readDir "static/events") "Name" $e.name) -}}
+    {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") -}}
+      {{- $.Scratch.Set "sharing_url" ((printf "events/%s/sharing.jpg" $e.name ) | absURL) -}}
+    {{- else -}}
+      {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- with .Params.sharing_image -}}
+    {{- $.Scratch.Set "sharing_url" ( . | absURL ) -}}
+  {{- else -}}
+    {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+  {{- end -}}
+{{- end -}}
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{{ $.Scratch.Get "sharing_url" }}" />
-<!-- Optional Open Graph Markup -->

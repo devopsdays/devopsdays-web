@@ -3,14 +3,12 @@ date = "2016-12-16T21:17:00-06:00"
 title = "propose"
 type = "event"
 +++
-  {{< cfp_dates >}}
 
 <hr>
 
-There are three ways to propose a topic at devopsdays Minneapolis:
 <ol>
-  <li><strike><strong><em>A 30-minute talk</em></strong> presented during the conference, in the mornings.</strike>We're currently reviewing proposals.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies; in 2016 we had Ignites at our evening event). These are 5 minutes slots with slides changing every 15 seconds (20 slides total). We will open the call for Ignite talks closer to the time of the conference.</li>
+  <li> We've selected our lineup of 30-minute {{< event_link page="speakers" text="speakers!" >}}
+  <li> We are evaluating proposals for Ignite talks and will be notifying proposers by June 1.
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
 

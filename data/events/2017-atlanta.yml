@@ -177,13 +177,13 @@ program:
     end_time: "1:00"
 
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-18
     start_time: "1:00"
     end_time: "1:30"
 
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2017-04-18
     start_time: "1:30"
     end_time: "4:45"
@@ -262,13 +262,13 @@ program:
     end_time: "1:00"
 
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-19
     start_time: "1:00"
     end_time: "1:30"
 
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2017-04-19
     start_time: "1:30"
     end_time: "4:45"

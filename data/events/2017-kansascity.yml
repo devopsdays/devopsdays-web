@@ -10,11 +10,11 @@ newnav: "yes"
 startdate: 2017-09-21 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-09-22  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
-cfp_open: "false"
-cfp_link: ""
+cfp_date_start:  2017-04-17
+cfp_date_end:  2017-06-30
+cfp_date_announce:  2017-07-30
+cfp_open: "true"
+cfp_link: "http://cfp.devopsdayskc.org/"
 
 # Location
 #
@@ -33,6 +33,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: speakers
   - name: location
   - name: registration
+  - name: propose
   - name: justification
     icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
@@ -76,11 +77,11 @@ team_members: # Name is the only required field for team members.
     website: https://twovi.com/
     bio: "Father, Husband, Cat Herder, Generally just gets shit done."
   - name: "Chris Stein"
-    employer: Cerner Corporation
+    employer: C2FO
     image: chris-stein.jpg
     linkedin: https://LinkedIn.com/in/cdstein
     website: http://chrisstein.io
-    bio: "For the past 4 years, Chris' personal career has been focused on infrastructure automation. He's interested in using new technologies and processes for continual improvement."
+    bio: "Chris has spent most of his career focusing on infrastructure automation. He's interested in using new technologies and processes for continual improvement."
   - name: "Chase Pettet"
     employer: Wikimedia Foundation
     image: chase-pettet.jpg
@@ -114,9 +115,17 @@ ga_tracking_id: "UA-93890142-1"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors_accepted: "yes"
-#sponsors:
-#  - id: pivotal
-#    level: gold
+sponsors:
+  - id: pivotal
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: 2016-ku
+    level: silver
+  - id:  new-context
+    level: silver
+  - id: cerner
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

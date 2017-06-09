@@ -48,6 +48,9 @@ team_members: # Name is the only required field for team members.
   - name: "Michael Barbine"
     twitter: "BigNerdLoLz"
     employer: "Barbine Worldwide"
+    github: "mbarbine"
+    linkedin: "https://www.linkedin.com/in/michaelbarbine"
+    image: "michaelbarbine.jpg"
   - name: "Holly Bazemore"
     twitter: "hfbazemore"
     employer: "Comcast"
@@ -115,18 +118,46 @@ proposal_email: "proposals-washington-dc-2017@devopsdays.org" # Put your proposa
 sponsors:
   - id: capitalone
     level: location_and_platinum
-  - id:  aurotech
-    level: gold
-  - id:  influxdata
-    level: gold
+  - id: govready
+    level: platinum
   - id:  eglobaltech
     level: platinum
-  - id:  comcast
-    level: gold
+  - id: twistlock
+    level: platinum
   - id:  opsgenie
     level: platinum
+  - id:  comcast
+    level: platinum
+  - id:  redhat
+    level: platinum
+  - id:  influxdata
+    level: gold
+  - id:  aurotech
+    level: gold
+  - id: sjtechcorp
+    level: gold
+  - id: valiantsolutions
+    level: gold
+  - id: omnitech
+    level: silver
+  - id: contrast_security
+    level: silver
   - id:  docker-alexandria
     level: community
+  - id:  onyx-point
+    level: silver
+  - id:  excella
+    level: platinum
+  - id:  circonus
+    level: platinum
+  - id:  pivotal
+    level: platinum
+  - id:  chef
+    level: platinum
+  - id:  sparkpost
+    level: platinum
+  - id:  victorops
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

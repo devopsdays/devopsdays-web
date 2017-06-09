@@ -9,8 +9,8 @@ title = "Industrial DevOps - Cross Organizational Automation in Production"
 type = "talk"
 speakers = ["maik-wojcieszak"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219579306"
+speakerdeck = "https://speakerdeck.com/dodzh/d2-i3-maik-wojcieszak-industrial-devops-cross-organizational-automation-in-production"
 slideshare = ""
 slides = ""
 +++

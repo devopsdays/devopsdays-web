@@ -9,8 +9,8 @@ title = "New Ways to Effectively Develop a DevOps Culture"
 type = "talk"
 speakers = ["cyrill-ruettimann"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219578401"
+speakerdeck = "https://speakerdeck.com/dodzh/d2-i2-cyrill-ruttimann-new-ways-to-effectively-develop-a-devops-culture"
 slideshare = ""
 slides = ""
 +++

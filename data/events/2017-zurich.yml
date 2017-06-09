@@ -111,12 +111,12 @@ Enabling organisations to achieve outstanding and sustainable results that excee
   - name: "Marcel Wolf"
     twitter: "_marcelwolf"
     employer: "codecentric AG"
-    bio: ""
+    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
     github: ""
     facebook: ""
     linkedin: ""
     website: ""
-    image: ""
+    image: "marcel-wolf.jpg"
 
 organizer_email: "organizers-zuerich-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal email address here
@@ -137,7 +137,7 @@ sponsors:
   - id: gocd
     level: gold
   - id: vshn
-    level: bronze
+    level: silver
   - id:  dectris
     level: bronze
   - id:  atos
@@ -161,6 +161,9 @@ sponsors:
   - id: opsgenie
     url: "http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Zurich_%20May&utm_medium=banner"
     level: silver
+  - id: cisco
+    url: "http://www.cisco.com/c/de_ch/solutions/data-center-virtualization/index.html"
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -220,27 +223,27 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-05-03
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "13:30"
     end_time: "14:10"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "14:15"
     end_time: "15:00"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "15:15"
     end_time: "16:00"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-03
     start_time: "16:05"
     end_time: "16:50"
@@ -254,7 +257,8 @@ program:
     date: 2017-05-03
     start_time: "19:00"
     end_time: "late"
-    comments: "tba"
+    comments: "The evening event will take place at [Boilerroom](http://www.boilerroom.ch/).<p>
+    Beer and snacks sponsored by [Atlassian](https://www.atlassian.com/)."
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2017-05-04
@@ -301,27 +305,27 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-05-04
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "13:30"
     end_time: "14:10"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "14:15"
     end_time: "15:00"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "15:15"
     end_time: "16:00"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-04
     start_time: "16:05"
     end_time: "16:50"
@@ -333,8 +337,6 @@ program:
 
 ignites:
   - title: "dan-reif"
-    date: 2017-05-03
-  - title: "eric-maxwell"
     date: 2017-05-03
   - title: "henri-dubois-ferriere"
     date: 2017-05-03
