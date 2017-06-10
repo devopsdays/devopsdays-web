@@ -109,6 +109,8 @@ sponsors:
       level: gold
     - id: nutanix
       level: gold
+    - id: extrahop
+      level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
