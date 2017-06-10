@@ -142,8 +142,14 @@ sponsors:
     level: gold
   - id: joyent
     level: silver
+  - id: rancher
+    level: silver
+  - id: platform9
+    level: silver
+  - id: blacksintechnology
+    level: community
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
