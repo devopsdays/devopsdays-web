@@ -11,8 +11,18 @@ Virginia, just outside the District (but inside the Beltway!)
 
 ## Local Hotels
 
-There are a number of hotels near CapitalOne. Stay tuned for details on the
-official DevOpsDays DC 2017 hotel block.
+The official DevOpsDays DC 2017 hotel is the
+**Hyatt Regency Tysons Corner**. We have secured a special $199.00 rate
+for attendees. [Book Online](https://aws.passkey.com/go/dctechcommunitychampions)
+now or call 888-421-1442. The deadline for reservations to get this
+special rate is _Monday, June 26._
+
+Hyatt Regency Tysons Corner<br>
+7901 Tysons One Place<br>
+Tysons Corner, VA 22102
+
+There are many additional hotels in the McLean/Tysons Corner area. Check
+with your favorite booking site.
 
 ## Transportation
 
