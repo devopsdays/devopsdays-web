@@ -56,12 +56,6 @@ sponsors:
       level: community
     - id: dockerizmir
       level: community
-    - id: kloia
-      level: gold
-    - id: vngrs
-      level: gold
-    - id: thoughtworks-services
-      level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
