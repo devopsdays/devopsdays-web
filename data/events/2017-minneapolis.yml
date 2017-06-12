@@ -150,6 +150,10 @@ sponsors:
     level: silver
   - id: blacksintechnology
     level: community
+  - id: logicmonitor
+    level: silver
+  - id: electriccloud
+    level: gold
 
 sponsors_accepted : "no"
 
