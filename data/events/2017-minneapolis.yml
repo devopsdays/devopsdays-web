@@ -28,6 +28,8 @@ nav_elements:
 
 team_members:
   - name: "Michelle Blanchard"
+    bio: "A lifelong technology enthusiast, and starting her professional journey in the field of IT, Michelle came to discover her love for programming after studying Python and Django. Her desire to keep learning and to meet like-minded tech geeks has led her to be very active in the Minneapolis tech scene.  When she’s not programming and going to meetups, Michelle enjoys volunteering for rescue organizations and animal sanctuaries."
+    image: "michelle-blanchard.jpg"
   - name: "Andy Domeier"
     employer: "SPS Commerce"
     twitter: "ajdomie"
