@@ -85,7 +85,7 @@ team_members: # Name is the only required field for team members.
     image: "anders-bruvik.jpg"
 #    employer: ""
   - name: "Hans Kristian Flaatten"
-#    twitter: ""
+    twitter: "Starefossen"
     image: "hans-kristian-flaatten.jpg"
 #    employer: "Evry"
   - name: "Tor Magnus Castberg"
