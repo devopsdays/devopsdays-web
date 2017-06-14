@@ -143,6 +143,8 @@ sponsors:
     level: silver
   - id: tech-month-chicago
     level: community
+  - id: market-research-media-chicago
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
