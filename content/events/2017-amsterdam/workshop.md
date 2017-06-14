@@ -97,9 +97,9 @@ tags = ["amsterdam","amsterdam-2017"]
 </div>
 <div class = "row">
   <div class = "col-md-3 box">
-    <a href="/events/2017-amsterdam/workshop/vishal-biyani/">
+    <a href="/events/2017-amsterdam/workshop/andy-repton/">
     <strong>Introduction to Kubernetes</strong><br />
-    Vishal Biyani
+    Andy Repton
   </a>
   </div>
   <div class = "col-md-3 box-grey">
