@@ -3,13 +3,14 @@ date = "2017-02-01T09:20:34-06:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-madison"]
+Description = "devopsdays Madison 2017"
 
 +++
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**We are excited to bring DevOps Days back to {{< event_location >}}! We are once again hoping to host this event at The Overture Center for the Arts in early November; however, we can not book the venue until March. Please check this space for updates!**
+**We are excited to bring DevOps Days back to {{< event_location >}}!**
 
 <div style="text-align:center;">
   {{< event_logo >}}

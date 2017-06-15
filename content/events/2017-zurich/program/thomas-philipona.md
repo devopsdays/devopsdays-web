@@ -9,8 +9,8 @@ title = "What Devs Should Consider, When Coding Applications"
 type = "talk"
 speakers = ["thomas-philipona"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025549"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-2-thomas-philipona-what-devs-should-consider-when-coding-applications"
 slideshare = ""
 slides = ""
 +++

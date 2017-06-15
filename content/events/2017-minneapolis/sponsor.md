@@ -5,17 +5,17 @@ type = "event"
 
 +++
 
-<del>Platinum</del>, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2017/minneapolis/devopsdays-minneapolis-2017-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+Platinum, Gold and Silver sponsorship packages are sold out. If you are interested in an à la carte sponsorship, please drop us an email at [{{< email_organizers >}}].
 
-Additional à la carte sponsorships are available:
+Additional à la carte sponsorships that are still available:
 
 <ul>
-<li>coffee ($1k) - 2 slots available - signage by the coffee displays with your logo throughout the day
+<li>coffee ($1k) - 1 slot available - signage by the coffee displays with your logo throughout the day
 <li>breakfast ($2k) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
-<li>snacks ($1k) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
-<li>lunch ($2k) - 2 slots available - signage by the lunch service with your logo during lunch
-<li>evening happy hour ($4k) - 1 slot available - signage at the evening happy hour
-<li>lanyard - ($5k) - 1 slot available - your logo on the lanyards
+<li>snacks ($1k) - 1 slot available - signage by the snack area with your logo during the afternoon when snacks are available
+<li>lunch ($2k) - 1 slot available - signage by the lunch service with your logo during lunch
+<li>evening happy hour ($4k) - SOLD OUT
+<li>lanyard - ($5k) - SOLD OUT
 </ul>
 
 These may be purchased in addition to (or in lieu of) the sponsorships in the prospectus.
@@ -35,8 +35,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table border=1 cellspacing=1>
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Silver</u><br>$5,000</b></center></th>
-    <th><center><b><u>Gold</u><br>$7,000</b></center></th>
+    <th><center><b><u><del>Silver*</del><br />SOLD OUT</u><br></b></center></th>
+    <th><center><b><u><del>Gold*</del><br />SOLD OUT</u></b></center></th>
     <th><center><b><u><del>Platinum*</del><br />SOLD OUT</u></b></center></th>
     <th></th>
   </tr>

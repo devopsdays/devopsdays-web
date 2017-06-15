@@ -80,13 +80,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: fortrust
     level: gold
-  - id: logz
+  - id: logz-before-20170613
     level: gold
   - id: software-freedom-school
     level: lanyard
   - id: asg
     level: lanyard
-  - id: aspe
+  - id: techtown
     level: bronze
   - id: workday
     level: bronze
@@ -118,8 +118,8 @@ program:
   - title: "Opening Welcome"
     type: custom
     date: 2017-04-10
-    start_time: "09:15"
-    end_time: "09:00"
+    start_time: "09:00"
+    end_time: "09:15"
 
   - title: "andrew-clay-shafer"
     type: talk
@@ -176,33 +176,33 @@ program:
     end_time: "13:30"
 
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-10
     start_time: "13:35"
     end_time: "14:10"
 
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-04-10
     start_time: "14:10"
     end_time: "14:40"
 
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-04-10
     start_time: "14:45"
     end_time: "15:15"
 
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-04-10
     start_time: "15:25"
     end_time: "15:55"
 
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-04-10
-    start_time: "16:00"
+    start_time: "16:05"
     end_time: "16:35"
 
   - title: "Close Day"
@@ -214,7 +214,7 @@ program:
   - title: "Happy Hour Event"
     type: custom
     date: 2017-04-10
-    start_time: "18:00"
+    start_time: "17:35"
     end_time: "late"
 
   - title: "Registration, Breakfast, Sponsors"
@@ -284,31 +284,31 @@ program:
     end_time: "13:40"
 
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-04-11
     start_time: "13:45"
     end_time: "14:10"
 
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-04-11
     start_time: "14:10"
     end_time: "14:35"
 
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-04-11
     start_time: "14:45"
     end_time: "15:10"
 
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-04-11
     start_time: "15:20"
     end_time: "15:45"
 
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-04-11
     start_time: "15:55"
     end_time: "16:20"
@@ -316,5 +316,25 @@ program:
   - title: "Closing"
     type: custom
     date: 2017-04-11
-    start_time: "16:30"
+    start_time: "16:25"
     end_time: "17:00"
+
+ignites:
+  - title: "mary-thengvall"
+    date: 2017-04-10
+  - title: "josh-atwell"
+    date: 2017-04-10
+  - title: "leigh-capili"
+    date: 2017-04-10
+  - title: "margaret-gourlay"
+    date: 2017-04-10
+  - title: "adam-zolyak"
+    date: 2017-04-10
+  - title: "scott-nasello"
+    date: 2017-04-11
+  - title: "alison-poltonsimon"
+    date: 2017-04-11
+  - title: "matthew-boeckman"
+    date: 2017-04-11
+  - title: "matt-getty"
+    date: 2017-04-11

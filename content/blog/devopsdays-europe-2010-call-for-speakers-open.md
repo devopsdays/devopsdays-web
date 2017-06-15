@@ -2,6 +2,7 @@
 Title = "Devopsdays Europe 2010 - Call for Speakers open"
 Date = "2010-08-02T14:36:20+00:00"
 Tags = ["2010-Europe", "Uncategorized"]
+aliases = ["/blog/2010/08/02/devopsdays-europe-2010-call-for-speakers-open/", "/2010/08/02/devopsdays-europe-2010-call-for-speakers-open/"]
 +++
 
 <table>

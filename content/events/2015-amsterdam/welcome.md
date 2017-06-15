@@ -33,17 +33,17 @@ This year, we are hosting the third edition of devopsdays Amsterdam. We are look
 
   <tr>
     <td><strong>Speakers</strong></td>
-    <td>Our speakers have been picked. <a href="program/">Program</a> is live.</td>
+    <td>Our speakers have been picked. <a href="/events/2015-amsterdam/program/">Program</a> is live.</td>
   </tr>
 
   <tr>
     <td><strong>Sponsors</strong></td>
-    <td><a href="sponsor/">Limited sponsoring opportunities</a> are available. Help us make this event an outstanding one!</td>
+    <td><a href="/events/2015-amsterdam/sponsor/">Limited sponsoring opportunities</a> are available. Help us make this event an outstanding one!</td>
   </tr>
 
   <tr>
     <td><strong>Contact</strong></td>
-    <td><a href="contact/">Get in touch with the Organisers</a>.</td>
+    <td><a href="/events/2015-amsterdam/contact/">Get in touch with the Organisers</a>.</td>
   </tr>
 </table>
 

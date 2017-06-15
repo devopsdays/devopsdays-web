@@ -1,4 +1,2 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-<a href = "/events/{{ $event_slug }}/location">{{ $e.location }}</a>
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+<a href = "{{ (printf "events/%s/location" $e.name) | absURL}}">{{$e.location}}</a>

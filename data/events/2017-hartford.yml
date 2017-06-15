@@ -21,7 +21,7 @@ location: "The Society Room" # Defaults to city, but you can make it the venue n
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
 #  - name: program
   - name: propose
     url: https://www.papercall.io/devopsdays-hartford-2017 # The url setting is optional, and only if you want the navigation to link off-site
@@ -48,13 +48,16 @@ team_members: # Name is the only required field for team members.
   - name: Eric Loveland
     twitter: elovelan
   - name: Serena Ness
+  - name: David James
+    twitter: mego22
+    employer: "PhishMe, INC"
 organizer_email: "organizers-hartford-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-hartford-2017@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: pivotal
     level: gold
   - id: arresteddevops
     level: community

@@ -29,11 +29,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: redislabs
     level: gold
-  - id: signalfx
+  - id: signalfx-before-20170602
     level: silver
   - id: kontena
     level: silver
-  - id: 2016-platform9
+  - id: platform9-before-20170609
     level: silver
   - id: extrahop
     level: silver

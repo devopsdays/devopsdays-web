@@ -1,6 +1,7 @@
 +++
 title = "Code of Conduct"
 type = "event"
+aliases = ["/events/2017-losangeles/conduct"]
 +++
 
 ## ANTI-HARASSMENT POLICY

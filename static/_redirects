@@ -1,5 +1,6 @@
 /events/2009-ghent/*          http://legacy.devopsdays.org/events/2009-ghent/:splat     301!
 /events/2010*                 http://legacy.devopsdays.org/events/2010:splat            301!
+/blog/wp-content/*            http://legacy.devopsdays.org/blog/wp-content/:splat       301!
 /events/2011*                 http://legacy.devopsdays.org/events/2011:splat            301!
 /events/2012*                 http://legacy.devopsdays.org/events/2012:splat            301!
 /events/2013*                 http://legacy.devopsdays.org/events/2013:splat            301!
@@ -19,3 +20,17 @@
 /events/2015-siliconvalley/*  http://legacy.devopsdays.org/events/2015-siliconvalley/:splat     301!
 /events/2015-detroit/*        http://legacy.devopsdays.org/events/2015-detroit/:splat     301!
 /events/2015-warsaw/*         http://legacy.devopsdays.org/events/2015-warsaw/:splat     301!
+/events/2015-berlin/proposals/* http://legacy.devopsdays.org/events/2015-berlin/proposals/:splat     301!
+/events/2015-amsterdam/proposals/* http://legacy.devopsdays.org/events/2015-amsterdam/proposals/:splat     301!
+/events/2015-minneapolis/proposals/* http://legacy.devopsdays.org/events/2015-minneapolis/proposals/:splat     301!
+/events/2015-ohio/proposals/* http://legacy.devopsdays.org/events/2015-ohio/proposals/:splat     301!
+/events/2016-istanbul/proposals/* http://legacy.devopsdays.org/events/2016-istanbul/proposals/:splat     301!
+/events/2016-london/proposals/* http://legacy.devopsdays.org/events/2016-london/proposals/:splat     301!
+/events/2016-oslo/proposals/* http://legacy.devopsdays.org/events/2016-oslo/proposals/:splat     301!
+/events/2016-saltlakecity/proposals/* http://legacy.devopsdays.org/events/2016-saltlakecity/proposals/:splat     301!
+/events/2016-toronto/proposals/* http://legacy.devopsdays.org/events/2016-toronto/proposals/:splat     301!
+/events/2016-vancouver/proposals/* http://legacy.devopsdays.org/events/2016-vancouver/proposals/:splat     301!
+/presentations/2011-goteborg/* http://legacy.devopsdays.org/presentations/2011-goteborg/:splat     301!
+/presentations/2009-ghent/* http://legacy.devopsdays.org/presentations/2009-ghent/:splat     301!
+/roadmap https://ext.prodpad.com/ext/roadmap/a1c38db0fc446619eac7542562c9b9a09bc2e5b6 301!
+/ideas https://portal.prodpad.com/24442 301!

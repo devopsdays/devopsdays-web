@@ -8,7 +8,7 @@ runSequence = require('run-sequence');
 //     )
 // });
 
-gulp.task('responsive-images', ['responsive-images-logos', 'responsive-sponsor-images', 'responsive-organizer-images', 'responsive-images-remaining'])
+gulp.task('responsive-images', ['responsive-images-logos', 'responsive-speaker-images','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining'])
 
 
 
@@ -43,7 +43,7 @@ gulp.task('responsive-images-logos', function() {
             withMetadata: false,
             ignoreAspectRatio: true,
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 });
 
 gulp.task('responsive-organizer-images', function() {
@@ -75,8 +75,56 @@ gulp.task('responsive-organizer-images', function() {
       withMetadata: false,
       ignoreAspectRatio: true,
     }))
-    .pipe(gulp.dest('staging'));
+    .pipe(gulp.dest('dist'));
 });
+
+gulp.task('responsive-speaker-images', function() {
+    return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png'])
+        .pipe(responsive({
+            '**/*.png': [{
+                width: 300,
+                height: 300
+            }, {
+                width: 600,
+                height: 600,
+                rename: {
+                    suffix: '@2x'
+                }
+            }, {
+                width: 900,
+                height: 900,
+                rename: {
+                    suffix: '@3x'
+                }
+            }],
+            '**/*.jpg': [{
+                width: 300,
+                height: 300
+            }, {
+                width: 600,
+                height: 600,
+                rename: {
+                    suffix: '@2x'
+                }
+            }, {
+                width: 900,
+                height: 900,
+                rename: {
+                    suffix: '@3x'
+                }
+            }]
+        }, {
+            // global configuration
+            quality: 80,
+            errorOnEnlargement: false,
+            withoutEnlargement: false,
+            progressive: true,
+            silent: true,
+            withMetadata: false,
+        }))
+        .pipe(gulp.dest('dist'));
+});
+
 
 gulp.task('responsive-sponsor-images', function() {
     return gulp.src(['public/img/sponsors/*.png', 'public/img/sponsors/*.jpg'])
@@ -116,13 +164,13 @@ gulp.task('responsive-sponsor-images', function() {
             silent: true,
             withMetadata: false,
         }))
-        .pipe(gulp.dest('staging/img/sponsors'));
+        .pipe(gulp.dest('dist/img/sponsors'));
 });
 
 
 gulp.task('responsive-images-remaining', function() {
     return gulp.src(['public/**/*.png', 'public/**/*.jpg','public/**/*.jpeg',
-            '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg',
+            '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg','!public/**/speakers/*.jpg','!public/**/organizers/*.png'
         ])
         .pipe(responsive({
             // produce multiple images from one source
@@ -175,5 +223,5 @@ gulp.task('responsive-images-remaining', function() {
             silent: true,
             withMetadata: false,
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 });

@@ -2,6 +2,7 @@
 Title = "DevOpsDays 2012 - Rome Final Speakerslist"
 Date = "2012-08-30T20:16:57+01:00"
 Tags = ["2012"]
+aliases = ["/blog/2012/08/30/final-speakers-rome-2012/"]
 
 +++
 

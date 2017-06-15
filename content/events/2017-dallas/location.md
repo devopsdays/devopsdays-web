@@ -1,12 +1,13 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "location"
+title = "Location"
 type = "event"
+description = "DevOpsDays Dallas 2017 will be taking place at the Capital One Conference Center, 8036 Dominion Pkwy, Plano, TX 75024"
 
 +++
 <div style="float:left;">
-  <img alt="DevOpsDays Dallas 2017" src="/events/2017-dallas/capone-confcntr.jpg" style="max-width: 100%;">
-</div><br>
+  <img alt="DevOpsDays Dallas 2017" src="/events/2017-dallas/capone-confcntr.jpg" style="max-width: 90%;">
+</div><br><br>
 
 ##### Here we will provide you with information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
 

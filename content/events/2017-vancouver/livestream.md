@@ -19,7 +19,7 @@ type = "event"
     </div>
     <div>
         <h3>Day Two</h3>
-        <iframe width="560" height="315" src="//www.youtube.com/embed/nSZhiqPUu_k" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="//www.youtube.com/embed/MypnQYGkeeQ" frameborder="0" allowfullscreen></iframe>
     </div>
     <hr>
     <div>
