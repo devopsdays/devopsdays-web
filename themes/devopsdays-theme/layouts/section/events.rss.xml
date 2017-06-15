@@ -22,23 +22,27 @@
   {{- if .startdate -}}
     {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
     <item>
-      <title>devopsdays {{ .city }} {{ .year }}</title>
-      <link>{{ (printf "events/" .name) | absURL }}</link>
-      <guid>{{ (printf "events/" .name) | absURL }}</guid>
+      {{- if eq .startdate .enddate -}}
+        <title>devopsdays {{ .city }} {{ .year }} is coming! {{ dateFormat "Monday, January 2, 2006" .startdate }}</title>
+      {{- else -}}
+        <title>devopsdays {{ .city }} {{ .year }} is coming! {{ dateFormat "Monday, January 2, 2006" .startdate }} - {{ dateFormat "Monday, January 2, 2006" .enddate }}</title>
+      {{- end -}}
+      <link>{{ (printf "events/%s" .name) | absURL }}</link>
+      <guid>{{ (printf "events/%s" .name) | absURL }}</guid>
       <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" now }}</pubDate>
-      {{ if .description }}
+      {{- if .description -}}
         <description>{{.description | markdownify | htmlEscape}}</description>
-      {{ else }}
-        {{ if eq .startdate .enddate }}
-          <description>devopsdays {{ .city }} {{ .year }} will be taking place {{ dateFormat "Mon, 2 Jan 2006" .startdate }}.</description>
-        {{ else }}
-          <description>devopsdays {{ .city }} {{ .year }} will be taking place {{ dateFormat "Mon, 2 Jan 2006" .startdate }} through {{ dateFormat "Mon, 2 Jan 2006" .enddate }}.</description>
-        {{ end }}
-      {{ end }}
+      {{- else -}}
+        {{- if eq .startdate .enddate -}}
+          <description>devopsdays {{ .city }} {{ .year }} will be taking place {{ dateFormat "Monday, January 2, 2006" .startdate }}.</description>
+        {{- else -}}
+          <description>devopsdays {{ .city }} {{ .year }} will be taking place {{ dateFormat "Monday, January 2, 2006" .startdate }} through {{ dateFormat "Monday, January 2, 2006" .enddate }}.</description>
+        {{- end -}}
+      {{- end -}}
     </item>
-    {{ end }}
-  {{ end }}
-{{ end }}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
 </channel>
 

@@ -43,8 +43,8 @@
     {{- end -}}
     </span>
 <div class="speaker-bio-talks">
-     <h3>Talks by {{ .Title }}</h3>
-          <ul class="list-group list-group-flush">
+     <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
+          <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
             {{- range where $.Site.Pages "Type" "talk" -}}
               {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
@@ -55,9 +55,7 @@
                   {{- end -}}
                 {{- end -}}
                 {{- if eq ($.Scratch.Get "display") "true" -}}
-                <li class= "list-group-item">
-                  <a href = "{{ .Permalink | absURL }}">{{ .Title }}</a>
-                </li>
+                  <a href = "{{ .Permalink | absURL }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
                 {{- end -}}
               {{- end -}} <!-- end if eq $talk_slug $event_slug -->

@@ -27,6 +27,9 @@ nav_elements:
   - name: conduct
 
 team_members:
+  - name: "Michelle Blanchard"
+    bio: "A lifelong technology enthusiast, and starting her professional journey in the field of IT, Michelle came to discover her love for programming after studying Python and Django. Her desire to keep learning and to meet like-minded tech geeks has led her to be very active in the Minneapolis tech scene.  When she’s not programming and going to meetups, Michelle enjoys volunteering for rescue organizations and animal sanctuaries."
+    image: "michelle-blanchard.jpg"
   - name: "Andy Domeier"
     employer: "SPS Commerce"
     twitter: "ajdomie"
@@ -141,8 +144,18 @@ sponsors:
     level: gold
   - id: joyent
     level: silver
+  - id: rancher
+    level: silver
+  - id: platform9
+    level: silver
+  - id: blacksintechnology
+    level: community
+  - id: logicmonitor
+    level: silver
+  - id: electriccloud
+    level: gold
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
@@ -350,3 +363,22 @@ program:
     date: 2017-07-26
     start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+  - title: "kristen-womack"
+    date: 2017-07-25
+  - title: "rukia-sheikh-mohamed"
+    date: 2017-07-25
+  - title: "christian-herro"
+    date: 2017-07-25
+  - title: "emma-sax"
+    date: 2017-07-25
+  - title: "thabit-shafer"
+    date: 2017-07-25
+  - title: "kendra-gapinski"
+    date: 2017-07-25
+  - title: "michael-ducy"
+    date: 2017-07-25
+  - title: "joshua-zimmerman"
+    date: 2017-07-25
+

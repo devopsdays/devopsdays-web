@@ -1,7 +1,22 @@
 <em>Active</em><br>
-Bridget Kromhout (lead), Kris Buytaert, Jennifer Davis, Bernd Erk, Matthew Jones, Dan Maher, Mike Rosado, Andrew Clay Shafer, Matt Stratton (web team lead), John Willis<br>
+{{- $len := (len $.Site.Data.core.active) -}}
+{{- range $index, $organizer := $.Site.Data.core.active -}}
+  {{- if ne (add $index 1) $len -}}
+    {{ $organizer }},&nbsp;
+  {{- else -}}
+    {{ $organizer }}
+  {{- end -}}
+{{- end -}}
+<br>
 <br>
 <em>Historic</em><br>
-Patrick Debois (founder), Damon Edwards, Anthony Goddard, Lindsay Holmwood, Gildas Le Nadan, Stephen Nelson-Smith, Julian Simpson, Christian Trabold, John Vincent, James Wickett
+{{- $len := (len $.Site.Data.core.historic) -}}
+{{- range $index, $organizer := $.Site.Data.core.historic -}}
+  {{- if ne (add $index 1) $len -}}
+    {{ $organizer }},&nbsp;
+  {{- else -}}
+    {{ $organizer }}
+  {{- end -}}
+{{- end -}}
 <br>
 <br>

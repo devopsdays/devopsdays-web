@@ -21,7 +21,7 @@ coordinates: "56.948553, 24.122947" # The coordinates of your city. Get Latitude
 location: "Riga" # Defaults to city, but you can make it the venue name.
 
 # Team members
-team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Laura Arajuma", "Arturs Kovalenko", "Linards Liepins"]
+team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Laura Arajuma", "Arturs Kovalenko", "Liene Jansone"]
 
 # Emails
 organizer_email: "organizers-riga-2017@devopsdays.org" # Put your organizer email address here
@@ -61,6 +61,21 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
+    max: "1"
+  - id: lunch
+    label: Lunch and break
+    max: "1"
+  #- id: party
+  #  label: Party
+  #  max: "1"
+  #- id: dinners
+  #  label: Dinners with speakers
+  #  max: "1"
+  #- id: beer
+  #  label: Beer
+  #  max: "1"
   - id: platinum
     label: Platinum
     max: "5"
@@ -75,18 +90,3 @@ sponsor_levels:
   #- id: lanyards
   #  label: Lanyards
   #  max: "1"
-  #- id: beer
-  #  label: Beer
-  #  max: "1"
-  #- id: dinners
-  #  label: Dinners with speakers
-  #  max: "1"
-  #- id: party
-  #  label: Party
-  #  max: "1"
-  - id: venue
-    label: Venue
-    max: "1"
-  - id: lunch
-    label: Lunch and break
-    max: "1"

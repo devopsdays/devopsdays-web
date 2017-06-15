@@ -7,14 +7,11 @@ Description = "devopsdays Cape Town 2017"
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-
-**devopsdays is coming to {{< event_location >}}!**
-
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+
+<br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -25,14 +22,14 @@ Description = "devopsdays Cape Town 2017"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -43,14 +40,14 @@ Description = "devopsdays Cape Town 2017"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -89,3 +86,9 @@ Description = "devopsdays Cape Town 2017"
 </div>
 
 {{< event_twitter >}}
+
+<div class = "row">
+  <div class = "col-md-12">
+    <img alt="DevOpsDays Cape Town 2017" src="/events/2017-cape-town/website_banner.jpg" style="max-width: 90%;">
+  </div>
+</div>

@@ -83,6 +83,10 @@ sponsors:
     level: bronze
   - id:  transip
     level: bronze
+  - id:  openebs
+    level: bronze
+  - id: 2017-inuits
+    level: bronze
   # BBQ / Evening Event
   - id: schubergphilis
     level: bbq
