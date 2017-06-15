@@ -14,3 +14,4 @@ When all preventative measures fail, sometimes Really Big Problems occur. Your c
 
 This talk will explore exactly that role. When should you choose a leader, and when everyone is busy putting out the big fire, what should the leader actually be doing? I'll answer these questions and give you real ideas to bring back to your teams and improve your crisis response.
 
+<a href="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May26_2017_AaronAldrich.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May26_2017_AaronAldrich_lores.jpg" alt="Graphic Recording Managing Fires: The Role of Leadership in Crisis" /></a>
