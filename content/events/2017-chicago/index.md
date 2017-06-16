@@ -26,17 +26,17 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
   <div class = "col-md-12">
   <div class = "row justify-content-center">
     <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-chicago/sponsor">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.facebook.com/devopsdayschi">
         <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On Facebook
       </a>
     </div>
     <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-chicago/contact">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://www.devopsdayschi.org/linkedin">
         <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Our LinkedIn Group
       </a>
     </div>
     <div class = "d-flex p-2">
-      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-chicago/contact">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.instagram.com/devopsdayschi/">
         <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram
       </a>
     </div>
