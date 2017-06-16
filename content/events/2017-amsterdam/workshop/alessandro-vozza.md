@@ -1,8 +1,8 @@
 +++
 Title = "Hands-on Openshift Developer Workshop (in Azure)"
 Type = "workshop"
-Speakers = ["alessandro-vozza"]
-aliases = ["/events/2017-amsterdam/workshop/alessandro-vozza/"]
+Speakers = ["alessandro-vozza", "samuel-terburg"]
+aliases = ["/events/2017-amsterdam/workshop/alessandro-vozza/", "/events/2017-amsterdam/workshop/samuel-terburg/"]
 +++
 
 Openshift is the award-winning open source container orchestration platform built upon Kubernetes, and it's very popular in enterprises. We will guide you thru deploying your Openshift cluster and deploying your application on top of it.

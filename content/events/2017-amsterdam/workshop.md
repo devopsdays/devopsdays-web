@@ -162,7 +162,7 @@ tags = ["amsterdam","amsterdam-2017"]
   <div class = "col-md-3 box">
     <a href="/events/2017-amsterdam/workshop/alessandro-vozza/">
     <strong>Hands-on Openshift Developer Workshop (in Azure)</strong><br />
-    Alessandro Vozza
+    Alessandro Vozza & Samuel Terburg
   </a>
   </div>
 </div>
