@@ -154,6 +154,8 @@ sponsors:
     level: platinum
   - id: verizon
     level: platinum
+  - id: appdynamics
+    level: platinum
   - id: pivotal
     level: gold
   - id: ns1
@@ -163,6 +165,8 @@ sponsors:
   - id: redhat
     level: gold
   - id: opsgenie
+    level: gold
+  - id: xmatters
     level: gold
   - id: alertlogic
     level: silver
