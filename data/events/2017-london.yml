@@ -53,26 +53,39 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: pivotal
     level: gold
+  - id: chef
+    level: gold
   - id: twistlock
     level: silver
   - id: accenture
     level: silver
-  - id: chef
-    level: gold
   - id: yelp
     level: silver
   - id: expedia
     level: silver
-  - id: logz
-    level: gold
   - id: scalefactory
     level: silver
   - id: devopsguys
     level: silver
+  - id: logz
+    level: gold
   - id: 4armed
     level: bronze
   - id: hashicorp
     level: bronze
+
+  - id: nuagenetworks
+    level: bronze
+  - id: sysdig
+    level: silver
+  - id: opsgenie  
+    level: gold
+  - id: skybet  
+    level: bronze    
+  - id: docker  
+    level: silver 
+  - id: xmatters  
+    level: gold      
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
