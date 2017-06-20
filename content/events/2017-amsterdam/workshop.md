@@ -70,9 +70,9 @@ tags = ["amsterdam","amsterdam-2017"]
   </a>
   </div>
   <div class = "col-md-3 box">
-    <a href="/events/2017-amsterdam/workshop/pablo-musa/">
+    <a href="/events/2017-amsterdam/workshop/philipp-krenn/">
     <strong>Awesome Logging Infrastructure Using The Elastic Stack</strong><br />
-    Pablo Musa &amp; Philipp Krenn
+    Philipp Krenn
   </a>
   </div>
 </div>
@@ -136,9 +136,9 @@ tags = ["amsterdam","amsterdam-2017"]
 </div>
 <div class = "row">
   <div class = "col-md-3 box">
-    <a href="/events/2017-amsterdam/workshop/eric-maxwell/">
+    <a href="/events/2017-amsterdam/workshop/mandi-walls/">
     <strong>Habitat Workshop</strong><br />
-    Eric Maxwell
+    Mandi Walls
   </a>
   </div>
   <div class = "col-md-3 box-grey">
@@ -169,7 +169,8 @@ tags = ["amsterdam","amsterdam-2017"]
 </div>
 <div class = "row">
   <div class = "col-md-12 box centerstyle">
-    Evening Event
+    <strong>Evening Event at De Waag</strong><br />
+    Thank you OpsGenie for sponsoring the evening event!
   </div>
 </div>
 <!-- end timeslot div -->
