@@ -154,13 +154,17 @@ sponsors:
     level: silver
   - id: electriccloud
     level: gold
+  - id: healthpartners
+    level: silver
+  - id: aws
+    level: platinum
 
 sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 6
   - id: gold
     label: Gold
   - id: silver
