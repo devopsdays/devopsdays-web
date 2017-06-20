@@ -121,7 +121,11 @@ heading = "devopsdays Amsterdam - Program"
     <time>13:40-14:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <strong>Ignites</strong>
+    <strong>Ignites</strong><br />
+    Integrating security into your devops: use a security automation pipeline - Jeroen	Willemsen<br />
+    DevOps is Gezellig - Jason Yee<br />
+    Evolvo Labor, or the Latin version of DevOps - Alessandro	Vozza<br />
+    Trials and Tribulations of an AWS Multiple Account Strategy	- Nick Brown
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -191,7 +195,8 @@ heading = "devopsdays Amsterdam - Program"
     <time>18:00-late</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <strong>Evening Event</strong>
+    <strong>Evening Event at Café-Restaurant Stork</strong><br />
+    Thank you so much Schuberg Philis for sponsoring the evening event!
   </div>
 </div> <!-- end timeslot div -->
 
@@ -293,7 +298,11 @@ heading = "devopsdays Amsterdam - Program"
     <time>13:50-14:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <strong>Ignites</strong>
+    <strong>Ignites</strong><br />
+    In-line code documentation - Arnab Sinha<br />
+    Business = IT	- Pavel Chunyayev<br />
+    Pipelines: breaking the wall between Dev and Ops - Joep Weijers<br />
+    Devs on-call? Yes, it is possible! Implementing the new thinking of "on-call!" - Aaron Atwell
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -317,7 +326,7 @@ heading = "devopsdays Amsterdam - Program"
   </div>
   <div class = "col-md-3 col-md-offset-2 box-grey">
     <strong>Security Track</strong><br />
-    <a href="/events/2017-amsterdam/program/eric-maxwell/">Eric Maxwell - Building security into your workflow with InSpec</a>
+    <a href="/events/2017-amsterdam/program/mandi-walls/">Mandi Walls - Building security into your workflow with InSpec</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
