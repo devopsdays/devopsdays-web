@@ -53,6 +53,7 @@ August 3: Config Mgmt Camp + Container Days
   </div>
 </div>
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -61,6 +62,7 @@ August 3: Config Mgmt Camp + Container Days
     Propose a talk for <a href="https://github.com/cfgmgmtcamp/2017-pdx-cfp/">Config Management Camp</a> and/or <a href="http://www.containerdayspdx.org/call-for-presentations/">Container Days</a>! The DevOpsDays CFP is closed.
   </div>
 </div>
+-->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
