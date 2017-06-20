@@ -113,6 +113,8 @@ sponsors:
       level: gold
     - id: rigor
       level: bronze
+    - id: logicmonitor
+      level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
