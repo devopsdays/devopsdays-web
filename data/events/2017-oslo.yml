@@ -122,8 +122,8 @@ proposal_email: "proposals-oslo-2017@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: bekk
-#    level: gold
+  - id: bekk
+    level: gold
 #  - id: chef-before-20170714
 #    level: gold
 #  - id: telenor-digital
