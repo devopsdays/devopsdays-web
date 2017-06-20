@@ -158,6 +158,14 @@ sponsors:
     level: platinum
   - id:  victorops
     level: platinum
+  - id:  appdynamics
+    level: gold
+  - id:  orasi
+    level: gold
+  - id:  netapp
+    level: gold
+  - id:  stsi
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -41,7 +41,7 @@ team_members:
     employer: "Puppet"
   - name: "Alice Goldfuss"
     twitter: "alicegoldfuss"
-    employer: "New Relic"
+    employer: "Github"
   - name: "Alastair Drong"
     twitter: "dev_dull"
   - name: "Daniel Dreier"
@@ -59,13 +59,9 @@ team_members:
   - name: "Rich Burroughs"
     twitter: "richburroughs"
     employer: "Puppet"
-  - name: "Spencer Krum"
-    twitter: "nibalizer"
-    employer: "IBM"
   - name: "Scott Nasello"
     twitter: "scottnasello"
     employer: "Columbia Sportswear"
-  - name: "Elijah C. Voigt"
   - name: "Matt Greensmith"
     twitter: "mgreensmith"
     employer: "Cozy"
@@ -113,6 +109,12 @@ sponsors:
       level: gold
     - id: nutanix
       level: gold
+    - id: extrahop
+      level: gold
+    - id: rigor
+      level: bronze
+    - id: logicmonitor
+      level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

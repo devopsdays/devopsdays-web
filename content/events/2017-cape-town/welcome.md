@@ -86,3 +86,9 @@ Description = "devopsdays Cape Town 2017"
 </div>
 
 {{< event_twitter >}}
+
+<div class = "row">
+  <div class = "col-md-12">
+    <img alt="DevOpsDays Cape Town 2017" src="/events/2017-cape-town/website_banner.jpg" style="max-width: 90%;">
+  </div>
+</div>
