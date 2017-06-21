@@ -124,6 +124,8 @@ proposal_email: "proposals-oslo-2017@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: bekk
     level: gold
+  - id: evry
+    level: gold
 #  - id: chef-before-20170714
 #    level: gold
 #  - id: telenor-digital
