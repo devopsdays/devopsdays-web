@@ -44,15 +44,21 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum
-  - id: accenture
+  - id: accenture-latvia
     level: platinum
   # gold
   # silver
   # addons
-  - id: accenture
+  - id: accenture-latvia
     level: venue
-  - id: accenture
-    level: lunch 
+  - id: accenture-latvia
+    level: lunch
+  - id: 4sure
+    level: friends
+  - id: devclub-lv
+    level: friends
+  - id: devops-lv
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -90,3 +96,5 @@ sponsor_levels:
   #- id: lanyards
   #  label: Lanyards
   #  max: "1"
+  - id: friends
+    label: Friends
