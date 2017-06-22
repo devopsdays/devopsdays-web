@@ -4,8 +4,8 @@ city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-# startdate: 2017-05-03
-# enddate: 2017-05-04
+ startdate: 2018-05-02
+ enddate: 2018-05-03
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start: 2016-11-01 # start accepting talk proposals.
 # cfp_date_end: 2017-02-01 # close your call for proposals.
@@ -100,8 +100,8 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     website: ""
     image: ""
 
-organizer_email: "organizers-zuerich-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-zuerich-2018@devopsdays.org" # Put your proposal email address here
+organizer_email: "organizers@devopsdays.ch" # Put your organizer email address here
+proposal_email: "organizers@devopsdays.ch" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
