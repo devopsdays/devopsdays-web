@@ -154,13 +154,17 @@ sponsors:
     level: silver
   - id: electriccloud
     level: gold
+  - id: healthpartners
+    level: silver
+  - id: aws
+    level: platinum
 
 sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 6
   - id: gold
     label: Gold
   - id: silver
@@ -188,7 +192,7 @@ program:
     date: 2017-07-25
     start_time: "09:45"
     end_time: "09:55"
-  - title: "michelle-noorali"
+  - title: "erica-windisch"
     type: talk
     date: 2017-07-25
     start_time: "09:55"
@@ -370,6 +374,8 @@ ignites:
   - title: "rukia-sheikh-mohamed"
     date: 2017-07-25
   - title: "christian-herro"
+    date: 2017-07-25
+  - title: "nicole-forsgren"
     date: 2017-07-25
   - title: "emma-sax"
     date: 2017-07-25

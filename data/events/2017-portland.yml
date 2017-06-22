@@ -11,7 +11,7 @@ enddate:  2017-08-02 # The end date of your event. Leave blank if you don't have
 cfp_date_start: 2017-03-04 # start accepting talk proposals.
 cfp_date_end: 2017-05-09 # close your call for proposals.
 cfp_date_announce: 2017-06-01 # inform proposers of status
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdayspdx2017.busyconf.com/proposals/new"
 registration_open: "true"
 registration_link: "https://devopsdayspdx2017.busyconf.com/bookings/new"
@@ -24,9 +24,7 @@ location: "Portland" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
-#  - name: program
-  - name: propose
-    url: https://devopsdayspdx2017.busyconf.com/proposals/new
+  - name: program
   - name: location
   - name: registration
     url: https://devopsdayspdx2017.busyconf.com/bookings/new
@@ -113,6 +111,8 @@ sponsors:
       level: gold
     - id: rigor
       level: bronze
+    - id: logicmonitor
+      level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,3 +139,203 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-08-01
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-08-01
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2017-08-01
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-01
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "lucy-wyman-zach-reichert"
+    type: talk
+    date: 2017-08-01
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-08-01
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "geshan-manandhar"
+    type: talk
+    date: 2017-08-01
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-01
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "greg-poirier"
+    type: talk
+    date: 2017-08-01
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-08-01
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2017-08-01
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-08-01
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-08-01
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-08-01
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-08-01
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2017-08-01
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "holly-burton"
+    type: talk
+    date: 2017-08-01
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2017-08-01
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Evening event (TBD)"
+    type: custom
+    date: 2017-08-01
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-08-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-08-02
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jan-de-vries"
+    type: talk
+    date: 2017-08-02
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-02
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "jason-grimes"
+    type: talk
+    date: 2017-08-02
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-08-02
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "steve-desmond"
+    type: talk
+    date: 2017-08-02
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-02
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paige-bernier"
+    type: talk
+    date: 2017-08-02
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-08-02
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2017-08-02
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "dawn-parzych"
+    type: talk
+    date: 2017-08-02
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-08-02
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-08-02
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-08-02
+    start_time: "15:20"
+    end_time: "15:50"
+  - title: "Break"
+    type: custom
+    date: 2017-08-02
+    start_time: "15:50"
+    end_time: "16:10"
+  - title: "kristen-gallagher"
+    type: talk
+    date: 2017-08-02
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "Closing"
+    type: custom
+    date: 2017-08-02
+    start_time: "16:40"
+    end_time: "17:00"
+
+ignites:
+  - title: "glenn-sarti"
+    date: 2017-08-01
+  - title: "adam-lefkowitz"
+    date: 2017-08-01
+  - title: "soo-choi"
+    date: 2017-08-01
+  - title: "ed-anderson"
+    date: 2017-08-01
+  - title: "ken-mugrage"
+    date: 2017-08-01
