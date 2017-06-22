@@ -100,15 +100,55 @@ In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program
 </div>
 
 <div class = "row">
-<div class="col-md-12">
-{{< event_twitter >}}
-</div>
-
+  <div class="col-md-12">
+    {{< event_twitter >}}
+  </div>
 </div>
 
 <div class="row">
-<div class="col-6" style="float: right">
-<a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/DevOpsDaysOhio">Tweets by DevOpsDaysOhio</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <div class="col-lg-6">
+    <iframe src="https://www.youtube.com/embed/71h0o3mpdaM?ecver=1" frameborder="0" allowfullscreen class="dod-ohio-vid"></iframe>
+  </div>
+
+  <div class="col-lg-6">
+    <a class="twitter-timeline" data-height="600" data-theme="light" href="https://twitter.com/DevOpsDaysOhio">Tweets by DevOpsDaysOhio</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
 </div>
+
 </div>
-</div>
+
+<style type="text/css">
+.dod-ohio-vid {
+	margin-top: 15px;
+	width: calc(100vw - 60px);
+	height: calc((100vw - 60px) * .56);
+}
+
+@media screen and (min-width: 576px) {
+	.dod-ohio-vid {
+		width: 510px;
+		height: calc(510px * .56);
+	}
+}
+
+@media screen and (min-width: 767px) {
+	.dod-ohio-vid {
+		width: 560px;
+		height: 315px;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.dod-ohio-vid {
+		width: 450px;
+		height: calc(450px * .56);
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.dod-ohio-vid {
+		width: 540px;
+		height: calc(540px * .56);
+	}
+}
+</style>
