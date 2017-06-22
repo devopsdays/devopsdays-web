@@ -7,4 +7,4 @@
 
 docker stop hugo-server
 docker rm   hugo-server
-docker run -tp 1313:1313 -v $(pwd):/site -e VIRTUAL_HOST="${1}" --name hugo-server devopsdays/docker-hugo-server:v0.22
+docker run -tp 1313:1313 -v $(pwd):/site -e VIRTUAL_HOST="${1}" --name hugo-server devopsdays/docker-hugo-server:v0.23
