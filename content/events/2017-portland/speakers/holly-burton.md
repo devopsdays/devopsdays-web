@@ -1,7 +1,7 @@
 +++
 Title = "Holly Burton"
 Twitter = "hmkjburton"
-image = "holly_burton.png"
+image = "holly-burton.png"
 type = "speaker"
 linktitle = "holly-burton"
 
