@@ -58,6 +58,10 @@ sponsors:
     level: gold
   - id: veredus
     level: gold
+  - id: contrast_security
+	level: silver
+  - id: dzone
+	level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
