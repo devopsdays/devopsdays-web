@@ -37,7 +37,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: sponsor
-    url: "http://s.itho.me/devopsdays/2017/DevOpsDays%20Taipei2017-Sponsorchip-v20170617.pdf"
   - name: contact
   - name: conduct
 # - name: example
@@ -61,17 +60,19 @@ team_members: # Name is the only required field for team members.
     facebook: "https://www.facebook.com/tails32100"
   - name: "Sammy Lin"
     twitter: "SammyLinTw"
-organizer_email: "chrishuang@mail.ithome.com.tw" # Put your organizer email address here
-proposal_email: "chrishuang@mail.ithome.com.tw" # Put your proposal email address here
+organizer_email: "organizers-taipei-2017@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-taipei-2017@devopsdays.org" # Put your proposal email address here
+
+
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+ # - id: samplesponsorname
+ #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-  - id: arresteddevops
-    level: community
+ # - id: arresteddevops
+ #   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -80,13 +81,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+#    max: 10
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    #max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
