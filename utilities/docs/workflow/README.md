@@ -28,7 +28,7 @@ It's super helpful to run your own, event-level, GitHub fork of the main reposit
 We suggest that you follow the same process that we do for the main repo, which would be as follows:
 
 1. Make your changes in a branch. Push that branch up to your repo.
-2. Submit a pull request in your own repo against your own master. Make sure that the deploy previews look good!
+2. Submit a pull request in your own repo against your own master. Make sure that the deploy previews from Netlify (this doc will explain later how to set them up) look good!
 3. If everything looks good to you, merge them into your own master just to make sure that the full build works (for example, in the build to master, Netlify will run various Gulp tasks to retinafy images, minify html, etc. View the tasks in the `gulp` directory if you're curious).
 4. If everything still looks awesome, submit a PR from your `master` branch to `devopsdays/devopsdays-web`.
 
@@ -63,7 +63,7 @@ You should end up with a fork that looks a little like this:
 
 ### Clone your organization's repository
 
-Click on the "Clone or Download" button on your repo. Copy the full URL listed there (ssh or https, [depending upon your preference](https://help.github.com/articles/which-remote-url-should-i-use/).
+Click on the "Clone or Download" button on your repo. Copy the full URL listed there (ssh or https, [depending upon your preference](https://help.github.com/articles/which-remote-url-should-i-use/)).
 
 ![](img/clone-button.jpg)
 
@@ -107,7 +107,7 @@ upstream	git@github.com:devopsdays/devopsdays-web.git (fetch)
 upstream	git@github.com:devopsdays/devopsdays-web.git (push)
 ```
 
-This is useful because you will want, at some point, to be able to merge down changes from the upstream, which is `devopsdays/devopsdays-web`.
+This is essential because you will need to regularly merge down changes from upstream (`devopsdays/devopsdays-web`) or your pull requests may be rejected.
 
 ## Setting up Netlify
 
