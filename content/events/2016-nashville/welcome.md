@@ -1,6 +1,6 @@
 +++
 date = "2016-11-10T21:15:25-06:00"
-title = "welcome"
+title = "devopsdays nashville 2016"
 type = "event"
 aliases = ["/events/2016-nashville"]
 
