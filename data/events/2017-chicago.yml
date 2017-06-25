@@ -139,6 +139,12 @@ sponsors:
     level: gold
   - id: 2017-facebook
     level: silver
+  - id: kcura-relativity
+    level: silver
+  - id: tech-month-chicago
+    level: community
+  - id: market-research-media-chicago
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

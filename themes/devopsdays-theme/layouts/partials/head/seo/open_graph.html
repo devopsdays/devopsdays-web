@@ -17,7 +17,11 @@
     {{- end -}}
   {{- end -}}
 {{- else -}}
+  {{- with .Params.sharing_image -}}
+    {{- $.Scratch.Set "sharing_url" ( . | absURL ) -}}
+  {{- else -}}
     {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+  {{- end -}}
 {{- end -}}
 <meta property="og:image" content="{{ $.Scratch.Get "sharing_url" }}" />
 <meta property="fb:app_id" content="1904065206497317" />

@@ -12,7 +12,19 @@ heading = "DevOpsDays Riga 2017 - Registration"
 </style>
 
 <div class="full_width info_text">
-  If you or your company is interested in paying us directly via an invoice for a bulk ticket order, please contact us by sending us an email <a href="mailto:organizers-riga-2017@devopsdays.org">organizers-riga-2017@devopsdays.org</a>. Direct link to DevOpsDays Rigs 2017 Eventbrite available here: <a href="https://devopsdaysriga17.eventbrite.com">devopsdaysriga17.eventbrite.com</a>
+<p>If you or your company is interested in paying us directly via an invoice to:
+<ul>
+	<li>pay for a bulk ticket order</li>
+	<li>pay now and register attendees later (use Very Early bird option Now)</li>
+	<li>pay without VAT (reverse VAT for EU companies)</li>
+	<li>avoid Eventbrite fee</li>
+	<li>or any other reason</li>
+</ul>
+please contact us by sending us an email <a href="mailto:organizers-riga-2017@devopsdays.org">organizers-riga-2017@devopsdays.org</a>.
+</p>
+<p>
+Direct link to DevOpsDays Riga 2017 Eventbrite available here: <a href="https://devopsdaysriga17.eventbrite.com">devopsdaysriga17.eventbrite.com</a>
+</p>
 </div>
 
 <div class="full_width">

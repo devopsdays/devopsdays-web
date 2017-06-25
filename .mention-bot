@@ -6,7 +6,7 @@
   "alwaysNotifyForPaths": [
     {
       "name": "mattstratton",
-      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "utilities/**/*", "themes/**/*", "content/page/**/*", "static/_redirects"], 
+      "files": [".gitignore","config.toml","config-windows.toml", "gulpfile.js", "utilities/**/*", "themes/**/*", "content/page/**/*", "static/_redirects", "data/core.toml"], 
       "skipTeamPrs": true 
     },
         {
@@ -21,7 +21,7 @@
     },
     {
       "name": "bridgetkromhout",
-      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*"],
+      "files": [".gitignore","config.toml","config-windows.toml", "utilities/**/*", "themes/**/*", "content/page/**/*", "data/core.toml"],
       "skipTeamPrs": false
      }
   ],

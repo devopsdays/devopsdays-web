@@ -59,6 +59,14 @@ proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: dellemc
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: systemfrontier
+    level: silver
+  - id: eventbrite
+    level: bronze
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
