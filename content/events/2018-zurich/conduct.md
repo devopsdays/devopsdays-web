@@ -16,7 +16,7 @@ If you are subject to or witness unacceptable behavior, or have any other concer
 #### Via Email to the organizer team:
 <div>
 report violations:
-<a href="mailto:organizers-zuerich-2017@devopsdays.org?Subject=Code%20of%20conduct%20violation" target="_top">now</a>
+<a href="mailto:organizers-zurich-2018@devopsdays.org?Subject=Code%20of%20conduct%20violation" target="_top">now</a>
 </div>
 
 #### Directly at the conference
