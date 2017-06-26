@@ -23,7 +23,7 @@ heading = "DevOpsDays Riga 2017 - Registration"
 please contact us by sending us an email <a href="mailto:organizers-riga-2017@devopsdays.org">organizers-riga-2017@devopsdays.org</a>.
 </p>
 <p>
-Direct link to DevOpsDays Riga 2017 Eventbrite available here: <a href="https://devopsdaysriga17.eventbrite.com">devopsdaysriga17.eventbrite.com</a>
+Direct link to DevOpsDays Riga 2017 Eventbrite available here: <a href="https://devopsdaysriga17.eventbrite.com" target="_blank">devopsdaysriga17.eventbrite.com</a>
 </p>
 </div>
 
