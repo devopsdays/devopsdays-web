@@ -93,7 +93,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 <div>
 Contact the DevOpsDays Zürich:
-<a href="mailto:organizers-zuerich-2017@devopsdays.org">crew</a>
+<a href="mailto:organizers-zurich-2018@devopsdays.org">crew</a>
 </div>
 
 ### License and attribution
