@@ -115,6 +115,14 @@ sponsors:
       level: silver
     - id: centurylink
       level: silver
+    - id: chef
+      level: cmccd
+    - id: twistlock
+      level: cmccd
+    - id: scalyr
+      level: cmccd
+    - id: puppet
+      level: cmccd
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -141,6 +149,8 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+  - id: cmccd
+    label: "ConfigMgmtCamp and Container Days"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
