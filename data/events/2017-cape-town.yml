@@ -33,6 +33,8 @@ team_members:
     github: "adrianmoisey"
     linkedin: "https://www.linkedin.com/in/adrian-moisey-b6705744"
     facebook: "https://www.facebook.com/adrianbmoisey"
+    website: "https://adrianmoisey.github.io/"
+    bio: "Adrian is VP of Engineering at SweepSouth. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
   - name: "Cobus Bernard"
     image: "cobus-bernard.jpg"
     twitter: "cobusbernard"
