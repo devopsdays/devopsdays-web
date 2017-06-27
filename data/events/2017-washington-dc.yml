@@ -97,6 +97,8 @@ team_members: # Name is the only required field for team members.
   - name: "James Martin"
     twitter: "grepless"
     employer: "3M"
+    github: "jsmartin"
+    image: "james-martin.jpg"
   - name: "Ramez Mourad"
     twitter: "ramezjm"
     employer: "Cvent"
