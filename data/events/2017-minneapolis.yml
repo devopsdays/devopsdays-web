@@ -158,6 +158,8 @@ sponsors:
     level: silver
   - id: aws
     level: platinum
+  - id: target
+    level: gold
 
 sponsors_accepted : "no"
 
