@@ -57,6 +57,8 @@ team_members: # Name is the only required field for team members.
     image: "viki-slavin.jpg"
   - name: "Jeremy Hess"
     image: "jeremy-hess.jpg"
+    twitter: "jphess2"
+    website: "http://cloudify.co"
   - name: "Evgeny Zislis"
     image: "evgeny-zislis.jpg"
   - name: "Nati Cohen"
