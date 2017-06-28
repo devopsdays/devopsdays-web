@@ -87,10 +87,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Platinum
-#    max: 10
+    max: 4
   - id: silver
     label: Gold
-    max: 0 # This is the same as omitting the max limit.
+    max: 12 # This is the same as omitting the max limit.
   - id: bronze
     label: Silver
   - id: lanyrd
