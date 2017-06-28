@@ -23,6 +23,8 @@
 &emsp;[Talk Page Fields](#talk-page-fields)   
 &emsp;[Speaker Page Fields](#speaker-page-fields)   
 &emsp;[Blog Post Fields](#blog-post-fields)   
+[Shortcodes](#shortcodes)   
+&emsp;[google_form](#google_form)   
 
 <!-- /MDTOC -->
 
@@ -277,3 +279,13 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `Author`        | No       | The name of the person who wrote the blog post.                                                                                                                                     | "Matt Stratton"                                                                                                                                                                                                                                                                                      |
 | `title`         | Yes      | The title for the blog post.                                                                                                                                                        | "Chicago 2016 In Review"                                                                                                                                                                                                                                                                             |
 | `sharing_image` | No       | The image to use for social sharing. This is a path relative to the `static` directory.                                                                                             | "img/blog/chicago-2016-sharing.jpg"                                                                                                                                                                                                                                                                  |
+
+## Shortcodes
+
+Shortcodes can be used in any of your content (i.e., ".md" files. They provide easy ways to add content without having to write a lot of coding.)
+
+### google_form
+This shortcode allows for the embedding of a Google form on a page, in a manner that maintains the responsive, mobile-friendly design of the site. To use it, you only need the URL of your form (not the full embed code) and enter this on your page (substituting the proper URL):
+```
+{{< google_form "https://docs.google.com/forms/d/e/1FAIpQLScvv-ty_wEBlYkJaEC1OU0qqqbIHjf9JVa-Ptdo5TcHqz5EDA/viewform?usp=sf_link" >}}
+```
