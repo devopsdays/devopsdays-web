@@ -82,7 +82,7 @@
           {{- if .startdate -}} <!-- for some reason, it bails on the city Chicago, and also Paris -->
               {{- if eq (lower .city) (lower $e.city) -}}
                 {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
-                  <i>Past {{ $e.city }} Events</i><br />
+                  <i>Other {{ $e.city }} Events</i><br />
                   {{- $.Scratch.Set "past-counter" 1 -}}
                 {{- end -}}
               {{- if eq (lower .city) (lower $e.city)}}
