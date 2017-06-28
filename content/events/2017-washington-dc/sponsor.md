@@ -108,6 +108,15 @@ Please contact us at {{< email_organizers >}}.
 </tbody>
 </table>
 
+__Existing sponsors wishing to ship materials to the event__ may ship to:
+
+CapitalOne<br>
+1680 Capital One Drive<br>
+McLean VA  22102<br>
+attention: Beverly Rogers
+
+_These items should be received not before July 10._
+
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
 
