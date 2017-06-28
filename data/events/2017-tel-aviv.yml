@@ -73,7 +73,7 @@ proposal_email: "proposals-tel-aviv-2017@devopsdays.org" # Put your proposal ema
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: cloudify
-    level: silver
+    level: lanyrd
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 #  - id: arresteddevops
 #    level: community
@@ -93,5 +93,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Silver
+  - id: lanyrd
+    label: lanyrd
   - id: community
     label: Community
