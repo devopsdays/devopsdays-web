@@ -103,3 +103,5 @@ sponsor_levels:
     label: Lunch
   - id: coffee
     label: Coffee
+  - id: happyhour
+    label: HappyHour
