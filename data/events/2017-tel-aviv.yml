@@ -97,3 +97,9 @@ sponsor_levels:
     label: lanyrd
   - id: community
     label: Community
+  - id: media
+    label: Media
+  - id: lunch
+    label: Lunch
+  - id: coffee
+    label: Coffee
