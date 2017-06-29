@@ -73,6 +73,22 @@ sponsors:
     level: bronze
   - id: hashicorp
     level: bronze
+  - id: nuagenetworks
+    level: bronze
+  - id: sysdig
+    level: silver
+  - id: opsgenie  
+    level: gold
+  - id: skybet  
+    level: bronze    
+  - id: docker  
+    level: silver 
+  - id: xmatters  
+    level: gold
+  - id: sqreen
+    level: silver    
+  - id: gov-digital
+    level: silver
 
   - id: nuagenetworks
     level: bronze
