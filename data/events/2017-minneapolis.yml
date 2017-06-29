@@ -160,6 +160,8 @@ sponsors:
     level: platinum
   - id: target
     level: gold
+  - id: gitmsp
+    level: community
 
 sponsors_accepted : "no"
 

@@ -95,7 +95,7 @@ sponsors:
     level: media
   - id: arresteddevops
     level: media
-  - id: gitmsp
+  - id: gitmsp-before-20160101
     level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
