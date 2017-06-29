@@ -75,8 +75,6 @@ sponsors:
     level: bronze
   - id: nuagenetworks
     level: bronze
-  - id: sysdig
-    level: silver
   - id: opsgenie  
     level: gold
   - id: skybet  
@@ -89,19 +87,9 @@ sponsors:
     level: silver    
   - id: gov-digital
     level: silver
-
-  - id: nuagenetworks
-    level: bronze
   - id: sysdig
     level: silver
-  - id: opsgenie  
-    level: gold
-  - id: skybet  
-    level: bronze    
-  - id: docker  
-    level: silver 
-  - id: xmatters  
-    level: gold      
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
