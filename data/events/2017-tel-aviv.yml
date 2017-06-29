@@ -54,7 +54,7 @@ team_members: # Name is the only required field for team members.
     facebook: "https://www.facebook.com/gil.zellner"
     linkedin: "https://il.linkedin.com/in/gilzellner"
   - name: "Viki Slavin"
-#    image: "viki-slavin.jpg"
+    image: "viki-slavin.jpg"
     linkedin: "https://www.linkedin.com/in/viki-slavin-07b9207/"
   - name: "Jeremy Hess"
     image: "jeremy-hess.jpg"
