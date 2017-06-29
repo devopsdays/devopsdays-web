@@ -115,7 +115,8 @@ CapitalOne<br>
 McLean VA  22102<br>
 attention: Beverly Rogers
 
-_These items should be received not before July 10._
+_These items should be received not before July 10._ Sponsors may set up at
+Capital One on _July 16_ from 2:00-4:00 PM.
 
 We greatly value sponsors for this open event. If you are interested in other
 types of sponsorships, please contact us directly at {{< email_organizers >}}.
