@@ -1,6 +1,6 @@
 +++
 date = "2016-10-17T08:26:34-05:00"
-title = "devopsdays Chicago 2017 - Volunteer Sign Up"
+title = "volunteer"
 type = "event"
 description = "Sign up to volunteer at devopsdays Chicago 2017!"
 
