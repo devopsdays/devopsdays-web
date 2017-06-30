@@ -4,6 +4,8 @@
 #
 # Purpose: Run the Hugo container as a local server
 #
+# This requires Docker 17.06.0-ce or above.
+
 
 docker stop hugo-server
 docker rm   hugo-server
