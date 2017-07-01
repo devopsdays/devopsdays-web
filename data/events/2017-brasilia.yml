@@ -33,7 +33,7 @@ location_address: "Eixo Monumental, SHN quadra 5, bloco G" #Optional - use the s
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
