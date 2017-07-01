@@ -10,15 +10,17 @@ startdate: 2017-10-03 # The start date of your event. Leave blank if you don't h
 enddate: 2017-10-04  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-06-27 # start accepting talk proposals.
-cfp_date_end: 2017-07-31 # close your call for proposals.
+cfp_date_start: 2017-07-05 # start accepting talk proposals.
+cfp_date_end: 2017-08-05 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2017-06-30 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2017-07-08 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2017-10-02 # close registration. Leave blank if registration is not open yet.
+
+masthead_background: "harbour-bridge.jpg"
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -52,13 +54,16 @@ team_members: # Name is the only required field for team members.
   - name: "Reuben Dunn"
     twitter: "DefSol"
   - name: "Flavia Machado"
+    twitter: "flaviafmachado"
   - name: "Adarsh Jupudi"
+    twitter: "cloudoperator"
   - name: "David White"
   - name: "Julian Simpson"
-  - name: "Nigel Somerfield"
   - name: "Nigel Charman"
+    twitter: "nigel_charman"
   - name: "Emily Dwyer"
   - name: "Will Robertson"
+    twitter: "mexisme"
   - name: "Ben Vidulich"
   - name: "Yogesh Shetty"
 organizer_email: "info@devopsdays.nz" # Put your organizer email address here

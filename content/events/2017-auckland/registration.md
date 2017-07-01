@@ -6,7 +6,7 @@ Description = "Registration for devopsdays Auckland 2017"
 
 <div style="width:100%; text-align:left;">
 
-The conference registration will open on June 30th. Please come back here later for the registration information.
+Registrations will open soon. We'll announce here and on our social media channels the exact dates very soon.
 
 </div></div>
 </div>

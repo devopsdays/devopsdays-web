@@ -15,8 +15,6 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<h4>Please click <a href="/events/2017-auckland/SponsorProspectus17.pdf">here</a> to download the Sponsor offering for Auckland 2017!</h4>
-
 <!--
 <hr/>
 
