@@ -6,6 +6,7 @@ Description = "Registration for devopsdays Auckland 2017"
 
 <div style="width:100%; text-align:left;">
 
-Embed registration iframe/link/etc.
+Registrations will open soon. We'll announce here and on our social media channels the exact dates very soon.
+
 </div></div>
 </div>
