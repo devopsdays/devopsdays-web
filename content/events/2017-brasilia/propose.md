@@ -36,6 +36,12 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <strong>How to submit a proposal:</strong>
 
-* fill in the form below (questions only in Portuguese for now)
+* fill in the form below (questions only in Portuguese for now)  
 <!-- uncomment the iframe to have proposals -->
-<!--iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnwuTvh2Tr0oryLeliHxw3BzBovdTzwd-zD9PaaOewfIVnWg/viewform" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe-->
+<div class = "row">
+  <div class = "col-md-2">
+  </div>
+  <div class = "col-md-8">
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnwuTvh2Tr0oryLeliHxw3BzBovdTzwd-zD9PaaOewfIVnWg/viewform" width="800" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+  </div>
+</div>
