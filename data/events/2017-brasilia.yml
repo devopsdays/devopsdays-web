@@ -26,7 +26,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 # GRAND MERCURE Brasilia
-coordinates: "-15.7882039, -47.8921597" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "-15.787951, -47.890320" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Brasília, DF - Brasil" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Eixo Monumental, SHN quadra 5, bloco G" #Optional - use the street address of your venue. This will show up on the welcome page if set.
