@@ -33,7 +33,7 @@ location_address: "Eixo Monumental, SHN quadra 5, bloco G" #Optional - use the s
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -75,6 +75,16 @@ sponsors:
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: community
+  - id: 2016-puppetbr
+    level: community
+  - id: 2016-dockerbr
+    level: community
+  - id: 2016-devopsbr
+    level: community
+  - id: 2017-rancherbr
+    level: community
+  - id: 2017-gitlabbr
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
