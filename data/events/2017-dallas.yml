@@ -169,10 +169,12 @@ sponsors:
   - id: xmatters
     level: gold
   - id: signifai
-    level: gold    
+    level: gold
   - id: homedepot
     level: gold
   - id: hpe
+    level: gold
+  - id: elastic
     level: gold
   - id: alertlogic
     level: silver
