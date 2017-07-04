@@ -28,6 +28,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: speakers
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -61,7 +62,7 @@ sponsors:
     level: silver
   - id: yelp
     level: silver
-  - id: expedia
+  - id: hotels
     level: silver
   - id: scalefactory
     level: silver
@@ -75,8 +76,6 @@ sponsors:
     level: bronze
   - id: nuagenetworks
     level: bronze
-  - id: sysdig
-    level: silver
   - id: opsgenie  
     level: gold
   - id: skybet  
@@ -89,19 +88,9 @@ sponsors:
     level: silver    
   - id: gov-digital
     level: silver
-
-  - id: nuagenetworks
-    level: bronze
   - id: sysdig
     level: silver
-  - id: opsgenie  
-    level: gold
-  - id: skybet  
-    level: bronze    
-  - id: docker  
-    level: silver 
-  - id: xmatters  
-    level: gold      
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
