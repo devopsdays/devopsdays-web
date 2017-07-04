@@ -22,9 +22,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table border=1 cellspacing=1>
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Silver<br />5000 ILS</u></center></b></th>
-    <th><center><b><u>Gold<br />25000 ILS</u></center></b></th>
-    <th><center><b><u>Platinum<br />50000 ILS</u></center></b></th>
+    <th><center><b><u>Silver<br />2000 USD</u></center></b></th>
+    <th><center><b><u>Gold<br />7000 USD</u></center></b></th>
+    <th><center><b><u>Platinum<br />15000 USD</u></center></b></th>
     <th></th>
   </tr>
 <tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
