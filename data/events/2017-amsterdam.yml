@@ -22,7 +22,7 @@ coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude 
 location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 
 # Team members
-team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjen Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Mine Heck", "Daniel Paulus", "Mark Heistek", "Thiago de Faria", "Farisada Nurmohamed"]
+team: ["Harm Boertien", "Thomas Krag", "Kerim Satirli", "Arjen Wolfs", "Wilco Noordermeer", "Arjan Eriks", "Gérard de Vos", "Yvo van Doorn", "Mine Heck", "Daniel Paulus", "Mark Heistek", "Thiago de Faria", "Farisada Nurmohamed", "Peter Nijenhuis"]
 
 # Emails
 # FIXME - As soon as we get our 2017 email this should reflect that.
