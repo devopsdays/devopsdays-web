@@ -83,6 +83,9 @@ team_members: # Name is the only required field for team members.
     image: "avishai-ish-shalom.jpg"
   - name: "Omer Molcho"
     image: "omer-molcho.jpg"
+  - name: "Ariel Moskovich"
+    image: "ariel-moscowich.jpg"
+
 
 organizer_email: "organizers-tel-aviv-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tel-aviv-2017@devopsdays.org" # Put your proposal email address here
