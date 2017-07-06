@@ -41,7 +41,7 @@ team_members: # Name is the only required field for team members.
     employer: "Uber ATG"
     twitter: nuszkowski
   - name: "Joe Arnet"
-    employer: Barracuda Networks
+    employer: Cengage
     twitter: JoeArnet
   - name: "Trevor Smith"
   - name: "Allison Green"
@@ -59,8 +59,16 @@ sponsors:
     level: gold
   - id: ithaka
     level: gold
+  - id: opsgenie
+    level: gold
+  - id: signifai
+    level: gold
+  - id: 2016-compuware
+    level: gold
   - id: delphix
     level: silver
+  - id: proquest
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -71,10 +79,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 10
   - id: silver
     label: Silver
-    max: 0
+    max: 4
   - id: bronze
     label: Bronze
   - id: community

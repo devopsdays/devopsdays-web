@@ -1,0 +1,114 @@
+name: "2018-salt-lake-city" 
+year: "2018" 
+city: "Salt Lake City" 
+event_twitter: "devopsdaysslc" 
+description: "Devopsdays is returning to Salt Lake City!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate:  2018-05-15
+enddate: 2018-05-16 
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "40.552756, -111.901249" 
+location: "Noah's Event Venue" 
+#
+location_address: "322 11000 S, South Jordan, UT 84095" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jason Vance"
+    twitter: "jasonsvance"
+    employer: "Mojo Marketplace"
+  - name: "David Snider"
+    twitter: "davidasnider"
+    employer: "Optum Technology"
+    github: "davidasnider"
+    facebook: "https://www.facebook.com/david.snider.731"
+    linkedin: "https://www.linkedin.com/in/davidasnider/"
+    image: "david-snider.png"
+  - name: "Allia DeAngelis"
+    twitter: "adeangelis"
+    employer: "NCR"
+  - name: "Trent Cameron"
+    twitter: "tvc123"
+  - name: "Tim Ward"
+    twitter: "roboticward"
+    employer: "Dell EMC"
+    linkedin: "http://linkedin.com/in/tim-ward-419a2723"
+  - name: "Randall Mawhinnie"
+    employer: "Virtustream, A Dell Technologies Business"
+    twitter: "rmawhinnie"
+  - name: "Lindley White"
+  - name: "Brett Palmer"
+    twitter: "brettgpalmer"
+    employer: "Department of Workforce Services"
+    linkedin: "http://www.linkedin.com/in/brett-palmer-161177"
+    image: "brett-palmer.png"
+  - name: "Maria Bates"
+  - name: "Gwen Dobson"
+    twitter: "thisgirlgwen"
+    employer: "Waterford Institute"
+    facebook: "https://www.facebook.com/luminousgirl77"
+    linkedin: "http://linkedin.com/in/gwendobson"
+    image: "gwen-dobson.png"
+  - name: "Barry McCormick"
+    employer: "Digital Guardian"
+    image: "barry-mccormick.png"
+organizer_email: "organizers-salt-lake-city-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-salt-lake-city-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: double-black-diamond
+    label: Double Black Diamond
+    max: 5
+  - id: black-diamond
+    label: Black Diamond
+    max: 0 # This is the same as omitting the max limit.
+  - id: blue-square
+    label: Blue Square
+  - id: green-circle
+    label: Green Circle
+  - id: community
+    label: Community

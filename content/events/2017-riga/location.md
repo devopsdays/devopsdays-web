@@ -11,9 +11,7 @@ Year = "2017"
 
 ### Conference Location
 
-The conference is located at [Tallink Hotel Riga](https://www.tallinkhotels.com/tallink-hotel-riga "TALLINK HOTEL RIGA website, Elizabetes iela 24, Centra rajons, Riga, LV-1050"), Elizabetes iela 24, Riga, LV-1050
-
-Riga
+The conference is located at <a href="https://www.tallinkhotels.com/tallink-hotel-riga" target="_blank">TALLINK HOTEL RIGA</a>, Elizabetes iela 24, Riga, LV-1050
 
 {{< event_map >}}
 
@@ -22,7 +20,9 @@ Riga
 ### Transportation
 
 #### Alternative methods of transportation
-- [Taxify](https://taxify.eu/)
+<ul>
+	<li><a href="https://taxify.eu/" target="_blank">Taxify</a></li>
+</ul>
 
 ### Accommodations & parking
 Paid parking spots are available within few minutes' walk to the hotel.

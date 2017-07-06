@@ -28,6 +28,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: speakers
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -53,26 +54,43 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: pivotal
     level: gold
+  - id: chef
+    level: gold
   - id: twistlock
     level: silver
   - id: accenture
     level: silver
-  - id: chef
-    level: gold
   - id: yelp
     level: silver
-  - id: expedia
+  - id: hotels
     level: silver
-  - id: logz
-    level: gold
   - id: scalefactory
     level: silver
   - id: devopsguys
     level: silver
+  - id: logz
+    level: gold
   - id: 4armed
     level: bronze
   - id: hashicorp
     level: bronze
+  - id: nuagenetworks
+    level: bronze
+  - id: opsgenie  
+    level: gold
+  - id: skybet  
+    level: bronze    
+  - id: docker  
+    level: silver 
+  - id: xmatters  
+    level: gold
+  - id: sqreen
+    level: silver    
+  - id: gov-digital
+    level: silver
+  - id: sysdig
+    level: silver
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

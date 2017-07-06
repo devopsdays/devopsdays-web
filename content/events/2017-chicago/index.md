@@ -22,7 +22,27 @@ DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and 
 We expect 450 people this year and will be holding the event on September 12-13, 2017 at the Holiday Inn Mart Plaza in downtown Chicago.
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
-
+<div class = "row"><!-- begin a content element -->
+  <div class = "col-md-12">
+  <div class = "row justify-content-center">
+    <div class = "d-flex p-2">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.facebook.com/devopsdayschi">
+        <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On Facebook
+      </a>
+    </div>
+    <div class = "d-flex p-2">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://www.devopsdayschi.org/linkedin">
+        <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Join Our LinkedIn Group
+      </a>
+    </div>
+    <div class = "d-flex p-2">
+      <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.instagram.com/devopsdayschi/">
+        <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram
+      </a>
+    </div>
+    </div>
+  </div>
+</div> <!-- end a content element -->
   </div>
   <div class = "col-md-6 pull-md-6">
 
@@ -59,21 +79,16 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
       </div>
     </div> -->
     <div class = "row"><!-- begin a content element -->
-      <div class = "col-md-12"">
+      <div class = "col-md-12">
       <div class = "row justify-content-center">
-        <div class = "col-xl-4 col-lg-12">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/sponsor">
+        <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-chicago/sponsor">
             <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
           </a>
         </div>
-        <div class = "col-xl-4 col-lg-12">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="/events/2017-chicago/contact">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
-          </a>
-        </div>
-        <div class = "col-xl-4 col-lg-12">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #0082AB; border-color: #0082AB;" href="https://www.papercall.io/devopsdays-chicago-2017">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+        <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-chicago/contact">
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
           </a>
         </div>
         </div>

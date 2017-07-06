@@ -31,13 +31,19 @@ We are offering the following packages (all prices are excluding VAT @20%):
 <table border=1 cellspacing=1>
   <tr>
     <th><i>Contents</i></th>
-    <th><center><b><u>Bronze<br/>1000 GBP</u></center></b></th>
-    <th><center><b><u>Silver<br/>3000 GBP</u></center></b></th>
-    <th><center><b><u>Gold<br/>7000 GBP</u></center></b></th>
-    <th><center><b><u>Platinum<br/>20000 GBP</u></center></b></th>
+    <th width="80px"><center><b><u>Bronze<br/>1000 GBP</u></center></b></th>
+    <th width="80px"><center><b><u>Silver<br/>3000 GBP</u></center></b></th>
+    <th width="80px"><center><b><u>Gold<br/>7000 GBP</u></center></b></th>
+    <th width="80px"><center><b><u>Platinum<br/>20000 GBP</u></center></b></th>
   </tr>
   
-  <tr><td><i>Number of Packages Available</i></td><td>10</td><td>7</td><td>5</td><td>3</td></tr>
+  <tr><td><i>Number of Packages Available</i></td>
+      <td><center><b><u>10</u></b><br/>&nbsp;</center></td>
+      <td><center><b><u>7</u></b><br/>[Sold Out]</center></td>
+      <td><center><b><u>5</u></b><br/>[Sold Out]</center></td>
+      <td><center><b><u>3</u></b><br/>&nbsp;</center></td>
+  </tr>
+
 
   <tr><td>Inclusivity Sponsors: <a href="#1">*1</a><br/>
          These sponsors	will enable us to offer additional services and	facilities to delegates, which will be linked to our event theme of 'Transforming	the future together'</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold"><center>&#10004;</center></td></tr>
