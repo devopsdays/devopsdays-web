@@ -109,8 +109,8 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     website: ""
     image: "marcel-wolf.jpg"
 
-organizer_email: "organizers@devopsdays.ch" # Put your organizer email address here
-proposal_email: "organizers@devopsdays.ch" # Put your proposal email address here
+organizer_email: "organizer@devopsdays.ch" # Put your organizer email address here
+proposal_email: "organizer@devopsdays.ch" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
