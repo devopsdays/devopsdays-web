@@ -70,7 +70,7 @@ networking, branding, and talent recruitment.</p>
     <td class="tg-i9b1">€ 3,900</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Included tickets</td>
+    <td class="tg-yzt1">Included tickets (marketing passes or conference tickets)</td>
     <td class="tg-mtwr">1</td>
     <td class="tg-b44r">2</td>
     <td class="tg-i9b1">5</td>

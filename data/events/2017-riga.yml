@@ -51,6 +51,8 @@ sponsors:
   # gold
   - id: chef
     level: gold
+  - id: ctco
+    level: gold
   # silver
   - id: askfm
     level: silver
