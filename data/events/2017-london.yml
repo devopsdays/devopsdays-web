@@ -29,6 +29,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: conduct
   - name: speakers
+  - name: program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -111,3 +112,168 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
+
+program:
+  - title: "Welcome"
+    type: custom
+    date: 2017-09-06
+    start_time: "09:45"
+    end_time: "10:00"
+
+
+  - title: "dan-young-emma-jane"
+    type: talk
+    date: 2017-09-06
+    start_time: "10:00"
+    end_time: "10:35"
+
+  - title: "igor-galic"
+    type: talk
+    date: 2017-09-06
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-06
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "sally-goble"
+    type: talk
+    date: 2017-09-06
+    start_time: "11:25"
+    end_time: "12:00"
+  
+  - title: "alvaro-videla"
+    type: talk
+    date: 2017-09-06
+    start_time: "12:00"
+    end_time: "12:35"
+    
+  - title: "Ignites"
+    type: ignite 
+    date: 2017-09-06
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-06
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Space Start"
+    type: custom
+    date: 2017-09-06
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Space 1"
+    type: custom
+    date: 2017-09-06
+    start_time: "14:30"
+    end_time: "15:20"
+
+  - title: "Open Space 2"
+    type: custom
+    date: 2017-09-06
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: "Open Space 3"
+    type: custom
+    date: 2017-09-06
+    start_time: "16:10"
+    end_time: "17:00"
+
+
+
+
+
+
+  - title: "erik-romijn"
+    type: talk
+    date: 2017-09-07
+    start_time: "10:00"
+    end_time: "10:35"
+    
+  - title: "louise-paling"
+    type: talk
+    date: 2017-09-07
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-07
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "aubrey-stearn"
+    type: talk
+    date: 2017-09-07
+    start_time: "11:25"
+    end_time: "12:00"
+
+  - title: "jon-topper"
+    type: talk
+    date: 2017-09-07
+    start_time: "12:00"
+    end_time: "12:35"
+
+  - title: "Ignites"
+    type: ignite 
+    date: 2017-09-07
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-07
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Space Start"
+    type: custom
+    date: 2017-09-07
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Space 1"
+    type: custom
+    date: 2017-09-07
+    start_time: "14:30"
+    end_time: "15:20"
+
+  - title: "Open Space 2"
+    type: custom
+    date: 2017-09-07
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: "Open Space 3"
+    type: custom
+    date: 2017-09-07
+    start_time: "16:10"
+    end_time: "17:00"
+
+# ignites:
+#   - title: "kristen-womack"
+#     date: 2017-09-06
+#   - title: "rukia-sheikh-mohamed"
+#     date: 2017-09-06
+#   - title: "christian-herro"
+#     date: 2017-09-06
+#   - title: "nicole-forsgren"
+#     date: 2017-09-06
+#   - title: "emma-sax"
+#     date: 2017-09-06
+#   - title: "thabit-shafer"
+#     date: 2017-09-06
+#   - title: "kendra-gapinski"
+#     date: 2017-09-06
+#   - title: "michael-ducy"
+#     date: 2017-09-06
+#   - title: "joshua-zimmerman"
+#     date: 2017-09-06
