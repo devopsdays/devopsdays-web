@@ -36,14 +36,14 @@ Description = "devopsdays Phoenix 2017"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -88,4 +88,4 @@ Description = "devopsdays Phoenix 2017"
 
 We are proud to announce the first DevOpsDaysPHX will be held on October 24th, 2017!
 
-Check back soon for more information on registration, CFPs, and sponsorship! 
+Check back soon for more information on registration, CFPs, and sponsorship!
