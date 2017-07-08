@@ -1,5 +1,5 @@
 +++
-Title = "Igor Galic"
+Title = "Aubrey Stearn"
 Twitter = "auberryberry"
 image = "aubrey-stearn.png"
 type = "speaker"
