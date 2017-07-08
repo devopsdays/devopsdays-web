@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Humane Teams At Home and Around the World"
 Type = "talk"
-Speakers = ["dan-young"]
+Speakers = ["emma-jane-hogbin-westby", "dan-young"]
 +++
 
 DevOps includes developers operating, and operators developing, and everyone crafting code while taking responsibility for what happens when that code is in production.
