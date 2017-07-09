@@ -46,6 +46,8 @@ team_members: # Name is the only required field for team members.
     github: "kjenkins19"
   - name: "Michael Swartzbaugh"
   - name: "Renee Weldy"
+    bio: "Renee’s been working in some part or another of IT for 27 years now.  She’s been a technical writer, a software instructor, a web application developer, a Remedy administrator, a business/system analyst, and a project manager – not necessarily in that order.  She’s fairly new to DevOps, but attending the 2016 DevOpsDays Ohio conference showed her that this is a culture she definitely wants to help promote and grow!"
+    linkedin: "https://www.linkedin.com/in/reneeweldy"
   - name: "Sherry Stebens"
   - name: "Warner Moore"
     bio: "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams.
@@ -59,6 +61,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: opsgenie
     level: gold
   - id: pivotal
+    level: gold
+  - id: 2015-covermymeds
     level: gold
 
 sponsors_accepted : "yes"

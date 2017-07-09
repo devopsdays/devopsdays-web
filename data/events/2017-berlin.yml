@@ -39,13 +39,15 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Norman Messtorff"
     twitter: "nmesstorff"
-    employer: "Deutsche Post E-POST"
+    employer: "Deutsche Post E-POST Development"
   - name: "Ralph Angenendt"
     twitter: "lestighaniker"
     employer: "ImmobilienScout24"
   - name: "Ravi Yadav"
     twitter: "ravi_yadav_de"
     employer: "ImmobilienScout24"
+  - name: "Sabrina Voigt"
+    twitter: "sakiddo"
 
 organizer_email: "organizers-berlin-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-berlin-2017@devopsdays.org" # Put your proposal email address here
@@ -61,7 +63,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: eveningevent
   - id: gocd
     level: platinum
+  - id: logz
+    level: platinum
   - id: codecentric
+    level: gold
+  - id: kreuzwerker
     level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

@@ -4,6 +4,8 @@
 [![Report Issue](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_report-issue.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) [![Roadmap](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-roadmap.png)](https://github.com/devopsdays/devopsdays-theme/milestones) [![Feature Request](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-request.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) 
 
 # devopsdays-web
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
 ## Reporting issues

@@ -7,9 +7,10 @@ Description = "Propose a talk for devopsdays Brasilia 2017"
 
 <hr>
 
-There are three ways to propose a topic at devopsdays:
+There are four ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
+  <li><strong><em>A 60-minutes tutorial</em></strong> presented during the conference, usually in an specific room for workshops, hands-on, demos.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
@@ -36,6 +37,12 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <strong>How to submit a proposal:</strong>
 
-* fill in the form below (questions only in Portuguese for now)
+* fill in the form below (questions only in Portuguese for now)  
 <!-- uncomment the iframe to have proposals -->
-<!--iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnwuTvh2Tr0oryLeliHxw3BzBovdTzwd-zD9PaaOewfIVnWg/viewform" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe-->
+<div class = "row">
+  <div class = "col-md-2">
+  </div>
+  <div class = "col-md-8">
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnwuTvh2Tr0oryLeliHxw3BzBovdTzwd-zD9PaaOewfIVnWg/viewform" width="800" height="1200" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+  </div>
+</div>

@@ -13,9 +13,9 @@ Description = "devopsdays Oslo 2017"
 
 {{< event_logo >}}
 
-<p><h3>{{< event_link page="registration" text="Blind bird registration is open!" >}}</h3><img src=""></p>
+<p><h3>{{< event_link page="registration" text="Early bird registration is open!" >}}</h3><img src=""></p>
 
-<p>Be quick! Only 20 amazingly cheap tickets available.</p>
+<p>Act now to secure your ticket at early-bird rates - once they're gone, they're gone...</p>
 
 </div>
 

@@ -30,10 +30,10 @@ location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
 #  - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdays-chicago-2017 # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
+  - name: volunteer
+    icon: heart-o
   - name: sponsor
   - name: contact
   - name: conduct
@@ -139,6 +139,18 @@ sponsors:
     level: gold
   - id: 2017-facebook
     level: silver
+  - id: kcura-relativity
+    level: silver
+  - id: tech-month-chicago
+    level: community
+  - id: market-research-media-chicago
+    level: community
+  - id: morpheus_data
+    level: gold
+  - id: cloudbolt
+    level: gold
+  - id: writespeakcode
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

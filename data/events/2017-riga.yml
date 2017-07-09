@@ -21,7 +21,7 @@ coordinates: "56.948553, 24.122947" # The coordinates of your city. Get Latitude
 location: "Riga" # Defaults to city, but you can make it the venue name.
 
 # Team members
-team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Laura Arajuma", "Arturs Kovalenko", "Linards Liepins", "Liene Jansone"]
+team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Laura Arajuma", "Arturs Kovalenko", "Liene Jansone"]
 
 # Emails
 organizer_email: "organizers-riga-2017@devopsdays.org" # Put your organizer email address here
@@ -44,15 +44,29 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # platinum
-  - id: accenture
+  - id: accenture-latvia
+    level: platinum
+  - id: evolution-gaming
     level: platinum
   # gold
+  - id: chef
+    level: gold
+  - id: ctco
+    level: gold
   # silver
+  - id: askfm
+    level: silver
   # addons
-  - id: accenture
+  - id: accenture-latvia
     level: venue
-  - id: accenture
-    level: lunch 
+  - id: accenture-latvia
+    level: lunch
+  - id: 4sure
+    level: friends
+  - id: devclub-lv
+    level: friends
+  - id: devops-lv
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -90,3 +104,5 @@ sponsor_levels:
   #- id: lanyards
   #  label: Lanyards
   #  max: "1"
+  - id: friends
+    label: Friends
