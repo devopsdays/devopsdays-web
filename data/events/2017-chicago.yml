@@ -145,6 +145,12 @@ sponsors:
     level: community
   - id: market-research-media-chicago
     level: community
+  - id: morpheus_data
+    level: gold
+  - id: cloudbolt
+    level: gold
+  - id: writespeakcode
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
