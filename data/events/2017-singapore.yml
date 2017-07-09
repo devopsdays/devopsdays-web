@@ -6,8 +6,8 @@ description: "DevOpsDays is coming to Singapore!" # Edit this to suit your prefe
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-10-25 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-10-26 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
