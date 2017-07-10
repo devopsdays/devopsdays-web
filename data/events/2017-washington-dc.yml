@@ -132,22 +132,8 @@ sponsors:
     level: platinum
   - id:  redhat
     level: platinum
-  - id:  influxdata
-    level: gold
-  - id:  aurotech
-    level: gold
   - id: sjtechcorp
     level: platinum
-  - id: valiantsolutions
-    level: gold
-  - id: omnitech
-    level: silver
-  - id: contrast_security
-    level: silver
-  - id:  docker-alexandria
-    level: community
-  - id:  onyx-point
-    level: silver
   - id:  excella
     level: platinum
   - id:  circonus
@@ -160,26 +146,42 @@ sponsors:
     level: platinum
   - id:  victorops
     level: platinum
+  - id:  signifai
+    level: platinum
+  - id:  influxdata
+    level: gold
+  - id:  aurotech
+    level: gold
+  - id: valiantsolutions
+    level: gold
   - id:  appdynamics
     level: gold
   - id:  orasi
     level: gold
   - id:  netapp
     level: gold
-  - id:  stsi
-    level: silver
   - id:  techtown
     level: gold
-  - id:  signifai
-    level: platinum
-  - id:  openstack-northern-virginia-user-group
-    level: community
   - id:  instana
     level: gold
-  - id:  blackstone-federal
-    level: media
   - id:  validatek
     level: gold
+  - id: omnitech
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id:  onyx-point
+    level: silver
+  - id:  stsi
+    level: silver
+  - id:  docker-alexandria
+    level: community
+  - id:  openstack-northern-virginia-user-group
+    level: community
+  - id: women-who-code-dc
+    level: community
+  - id:  blackstone-federal
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
