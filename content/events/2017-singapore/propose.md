@@ -5,15 +5,16 @@ Description = "Propose a talk for DevOpsDays Singapore 2017"
 +++
   {{< cfp_dates >}}
 
-<h2 style="text-align: center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfaKUxAbRDOtmnW3ltkN4RLO4e6HDU6G0-L6VjNKW1YnaG9Tw/viewform" target="_blank" class="btn btn-primary btn-lg">Click here to submit your proposal!</a></h2>
-
 <hr>
-There are three ways to propose a topic at DevOpsDays:
+
+There are three ways to propose a topic at devopsdays:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.
+  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
+
+<hr>
 
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
 
@@ -24,12 +25,11 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
-<strong>How to submit a proposal:</strong> Use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfaKUxAbRDOtmnW3ltkN4RLO4e6HDU6G0-L6VjNKW1YnaG9Tw/viewform) and provide the details in the form.
+<hr>
 
-### Rules
-
-- Be specific... we aren't mind readers (a description of about 20 lines is about right)
-- Detail is good... but not as important as explaining why your proposal would be interesting
-- Propose your own talk; don't have someone else do it for you.
-- Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!
-- Multiple proposals welcome... just follow the other rules
+<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<ol>
+  <li>Type (presentation, panel discussion, ignite)</li>
+  <li>Proposal Title (can be changed later)</li>
+  <li>Description (several sentences explaining what attendees will learn)</li>
+</ol>
