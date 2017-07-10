@@ -59,7 +59,10 @@ Our sponsorship packages are structured around how you can help be part of the c
         -->
       </td>
       <td style="text-align: center">
+        <strong>2</strong>
+        <!--
         <span style="color: red">SOLD OUT</a>
+        -->
       </td>
     </tr>
     <tr>
