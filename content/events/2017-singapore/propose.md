@@ -3,8 +3,8 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for DevOpsDays Singapore 2017"
 +++
-  {{< cfp_dates >}}
-
+{{< cfp_dates >}}
+<br>
 <h2 style="text-align: center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfaKUxAbRDOtmnW3ltkN4RLO4e6HDU6G0-L6VjNKW1YnaG9Tw/viewform" target="_blank" class="btn btn-primary btn-lg">Click here to submit your proposal!</a></h2>
 
 <hr>
