@@ -4,9 +4,8 @@ Type = "event"
 Description = "Registration for devopsdays Auckland 2017"
 +++
 
-<div style="width:100%; text-align:left;">
+</p>
+### [Register here](https://devopsdays-auckland-2017.lilregie.com/step1) for DevOps Auckland 2017. ###
+</p>
 
-Registrations will open soon. We'll announce here and on our social media channels the exact dates very soon.
-
-</div></div>
-</div>
+DevOpsDays Auckland would love to have a wide range of attendees. So, if you're someone who'd love to attend the conference, but considers the cost to be prohibitive we'd love to hear from you. Please send us an email: {{< email_organizers >}}
