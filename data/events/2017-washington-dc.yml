@@ -178,6 +178,8 @@ sponsors:
     level: gold
   - id:  blackstone-federal
     level: media
+  - id:  validatek
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
