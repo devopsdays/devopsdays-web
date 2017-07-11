@@ -74,7 +74,7 @@ sponsors:
     level: community
   - id: pivotal
     level: platinum
-  - id: deis
+  - id: microsoftazure 
     level: silver
   - id: hackthegap
     level: community
@@ -173,6 +173,8 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
 program:

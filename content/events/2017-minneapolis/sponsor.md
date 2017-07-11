@@ -10,15 +10,15 @@ Platinum, Gold and Silver sponsorship packages are sold out. If you are interest
 Additional à la carte sponsorships that are still available:
 
 <ul>
-<li>coffee ($1k) - 1 slot available - signage by the coffee displays with your logo throughout the day
+<li>coffee ($1k) - SOLD OUT
 <li>breakfast ($2k) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
-<li>snacks ($1k) - 1 slot available - signage by the snack area with your logo during the afternoon when snacks are available
+<li>snacks ($1k) - SOLD OUT
 <li>lunch ($2k) - 1 slot available - signage by the lunch service with your logo during lunch
 <li>evening happy hour ($4k) - SOLD OUT
 <li>lanyard - ($5k) - SOLD OUT
 </ul>
 
-These may be purchased in addition to (or in lieu of) the sponsorships in the prospectus.
+These may be purchased in addition to (or in lieu of) the sponsorships in the prospectus. A la carte sponsorships do not come with tickets, discounted tickets, or a table.
 
 <hr>
 
