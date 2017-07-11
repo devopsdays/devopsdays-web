@@ -203,8 +203,8 @@ program:
     date: 2017-08-01
     start_time: "11:10"
     end_time: "11:20"
-  - title: "TBD"
-    type: custom
+  - title: "amye-scavarda"
+    type: talk
     date: 2017-08-01
     start_time: "11:20"
     end_time: "11:50"
