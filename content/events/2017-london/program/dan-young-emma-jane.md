@@ -7,10 +7,6 @@ Type = "talk"
 Speakers = ["emma-jane-hogbin-westby", "dan-young"]
 +++
 
-DevOps includes developers operating, and operators developing, and everyone crafting code while taking responsibility for what happens when that code is in production.
+Software development is a social activity that favours direct human contact, yet 21st century life can often get in the way, forcing us to reconsider our communication patterns. Whether you are building a collocated, remote, or distributed team, there is one component in software development that remains unchanged: the human element. 
 
-Sounds great, in theory. What about in practice? What if you don’t know what your code is doing? Or what your users are doing to your code? Or what the code your code relies on is doing? Or what the code and machines that that code relies on are doing?
-
-Operating with insufficient data is a failing proposition; you can’t operate what you can’t measure. So we have to measure things, and measurement starts early in the development lifecycle.
-
-Let’s walk through a brief field guide to the theory and practice of observability, so we can break down the barriers between teams by sharing real actionable introspection about the systems we co-create.
+Using the experiences of two team leaders from startup and enterprise contexts, this presentation will guide you to building happier, more resilient teams regardless of where its humans are located. 
