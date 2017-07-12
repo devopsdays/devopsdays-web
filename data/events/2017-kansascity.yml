@@ -120,11 +120,15 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: c2fo
+    level: gold
   - id: 2016-ku
     level: silver
   - id:  new-context
     level: silver
   - id: cerner
+    level: bronze
+  - id: aws
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
