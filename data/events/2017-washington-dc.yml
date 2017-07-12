@@ -176,6 +176,8 @@ sponsors:
     level: silver
   - id:  stsi
     level: silver
+  - id: riverbed
+    level: silver
   - id:  docker-alexandria
     level: community
   - id:  openstack-northern-virginia-user-group
