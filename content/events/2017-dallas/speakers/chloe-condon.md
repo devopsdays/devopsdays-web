@@ -1,7 +1,7 @@
 +++
 Title = "Chloe Condon"
 Twitter = "chloecondon"
-image = "chloe-condon.jpg"
+image = "chloe-condon-new.jpg"
 type = "speaker"
 linktitle = "chloe-condon"
 +++
