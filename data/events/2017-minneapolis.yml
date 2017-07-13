@@ -162,6 +162,21 @@ sponsors:
     level: gold
   - id: gitmsp
     level: community
+  - id: sps_commerce
+    level: alacarte
+  - id: scalyr
+    level: alacarte
+  - id: target
+    level: alacarte
+  - id: carlsonwagonlit
+    level: alacarte
+  - id: arista
+    level: alacarte
+  - id: centurylink
+    level: alacarte
+  - id: f5
+    level: bronze
+
 
 sponsors_accepted : "no"
 
@@ -175,6 +190,8 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community
 program:
