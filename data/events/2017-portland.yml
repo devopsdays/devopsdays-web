@@ -135,6 +135,9 @@ sponsors:
       level: gold
     - id: bitnami
       level: bronze
+    - id: microsoft
+      level: bronze
+      twitter: '@vsts'
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
