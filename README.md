@@ -33,3 +33,5 @@ If you would like to help prioritize enhancements, please upvote the original is
 ## Contributing
 
 The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
+
+Guidelines for contributing event-specific content to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document. The technical details for contributing to the site-wide theme's development are covered in [devopsdays-theme's CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md).
