@@ -91,6 +91,7 @@ team_members: # Name is the only required field for team members.
     employer: VML
     image: bert-weidt.jpg
     linkedin: https://www.linkedin.com/in/bertweidt/
+    bio: "Systems Architect and Security guy, but involved in many aspects of Technology for clients of all sizes. DevOps has changed the world for how solutions are implemented both internally and delivered to clients globally. Looking forward to what's next, other than self-driving cars. DevOpsDays is a great forum for sharing what's working, and talking about that thing that everyone wants most - innovation."
   - name: "Rebecca Sowers"
     image: rebecca-sowers.jpg
     employer: Cerner Corporation
