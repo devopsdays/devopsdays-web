@@ -6,8 +6,13 @@ description = "DevOpsDays Dallas 2017 program will be a single track, featuring 
 
 +++
 
-<br>
-<br>
+<div class = "row">
+  <div class = "col">
+    <hr />
+    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
+    <hr />
+  </div>
+</div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="addthis_horizontal_follow_toolbox"></div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->

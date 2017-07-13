@@ -1,16 +1,14 @@
 +++
-City = "Dallas"
-Year = "2017"
--date = ""
-talk_date = ""
-talk_start_time = ""
-talk_end_time = ""
-title = ""
-type = "talk"
-speakers = ["adam-jacob"]
-youtube = ""
-vimeo = ""
-speakerdeck = ""
-slideshare = ""
-slides = ""
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Keynote Speaker"
+Type = "talk"
+Speakers = ["adam-jacob"]
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Slideshare = ""
+Slides = ""
+Website = ""
 +++
