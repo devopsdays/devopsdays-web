@@ -133,6 +133,8 @@ sponsors:
       level: gold
     - id: newrelic
       level: gold
+    - id: bitnami
+      level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
