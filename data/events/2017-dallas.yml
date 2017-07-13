@@ -215,168 +215,186 @@ program:
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-29
-    start_time: "09:00"
-    end_time: "10:00"
-  - title: "Opening Welcome"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome by Capital One CIO"
     type: custom
     date: 2017-08-29
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "adam-jacob"
     type: talk
     date: 2017-08-29
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "09:10"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-29
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "manah-khalil"
+    type: talk
+    date: 2017-08-29
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-08-29
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "carlos-nunez"
+    type: talk
+    date: 2017-08-29
     start_time: "10:40"
-    end_time: "11:00"
-  - title: ""
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-29
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "mark-andersen"
     type: talk
     date: 2017-08-29
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
-    date: 2017-08-29
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-08-29
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Ignite Talks"
     type: ignite
     date: 2017-08-29
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
-    type: talk
-    date: 2017-08-29
-    start_time: "13:30"
-    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2017-08-29
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "13:30"
+    end_time: "14:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-08-29
-    start_time: "14:40"
-    end_time: "15:25"
+    start_time: "15:00"
+    end_time: "15:55"
   - title: "Break"
     type: custom
     date: 2017-08-29
     start_time: "15:25"
-    end_time: "15:40"
+    end_time: "15:45"
   - title: "Open Space #2"
     type: open-space
     date: 2017-08-29
-    start_time: "15:40"
-    end_time: "16:25"
-  - title: "Break"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
     type: custom
     date: 2017-08-29
-    start_time: "16:25"
-    end_time: "16:40"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2017-08-29
-    start_time: "16:40"
-    end_time: "17:25"
-  - title: "Evening Event"
+    start_time: "16:44"
+    end_time: "17:00"
+  - title: "Social Networking Event"
     type: custom
     date: 2017-08-29
-    start_time: "17:30"
-    end_time: "20:30"
-    comments: "tba"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-30
-    start_time: "09:00"
-    end_time: "10:00"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
     date: 2017-08-30
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "john-willis"
     type: talk
     date: 2017-08-30
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "09:10"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-30
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "chloe-condon"
+    type: talk
+    date: 2017-08-30
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-08-30
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-08-30
     start_time: "10:40"
-    end_time: "11:00"
-  - title: ""
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-30
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paul-grizzaffi"
     type: talk
     date: 2017-08-30
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
-    date: 2017-08-30
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-08-30
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Ignite Talks"
     type: ignite
     date: 2017-08-30
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
-    type: talk
-    date: 2017-08-30
-    start_time: "13:30"
-    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2017-08-30
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "13:30"
+    end_time: "14:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-08-30
-    start_time: "14:40"
-    end_time: "15:25"
-  - title: "Break"
-    type: custom
-    date: 2017-08-30
-    start_time: "15:25"
-    end_time: "15:40"
+    start_time: "15:00"
+    end_time: "15:45"
   - title: "Open Space #2"
     type: open-space
     date: 2017-08-30
-    start_time: "15:40"
-    end_time: "16:25"
-  - title: "Break"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing & Farewell"
     type: custom
     date: 2017-08-30
-    start_time: "16:25"
-    end_time: "16:40"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2017-08-30
-    start_time: "16:40"
-    end_time: "17:25"
+    start_time: "16:45"
+    end_time: "17:00"
 
 ignites:
-  - title: ""
+  - title: "david-laulusa"
     date: 2017-08-29
-  - title: ""
+  - title: "david-brown"
     date: 2017-08-29
-  - title: ""
+  - title: "michael-cote"
+    date: 2017-08-29
+  - title: "rob-hirschfeld"
+    date: 2017-08-29
+  - title: "lucas-harms"
+    date: 2017-08-29
+  - title: "TBA"
+    date: 2017-08-29
+  - title: "TBA"
     date: 2017-08-30
-  - title: ""
+  - title: "TBA"
     date: 2017-08-30
-  - title: ""
+  - title: "TBA"
+    date: 2017-08-30
+  - title: "TBA"
+    date: 2017-08-30
+  - title: "TBA"
+    date: 2017-08-30        
+  - title: "TBA"
     date: 2017-08-30
