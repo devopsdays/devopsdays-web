@@ -12,10 +12,6 @@ This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
 If you discover an issue with the theme, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new).
 
-## Contributing
-
-The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
-
 ## Managing event content
 
 Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md). Full documentation on the currently released theme is always found in  [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
@@ -34,5 +30,6 @@ If there is a feature in the theme that you would like to see, please [submit an
 
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
-## Contributing to Theme Development
-See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
+## Contributing
+
+The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
