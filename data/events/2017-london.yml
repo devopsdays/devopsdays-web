@@ -69,8 +69,6 @@ sponsors:
     level: silver
   - id: devopsguys
     level: silver
-  - id: logz
-    level: gold
   - id: 4armed
     level: bronze
   - id: hashicorp
@@ -91,7 +89,8 @@ sponsors:
     level: silver
   - id: sysdig
     level: silver
-  
+  - id: mq
+    level: charity
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -112,6 +111,9 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 10
+  - id: charity
+    label: Charity Partner
+    max: 3
 
 program:
   - title: "Welcome"
