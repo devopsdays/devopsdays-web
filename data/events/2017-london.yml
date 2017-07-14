@@ -112,7 +112,7 @@ sponsor_levels:
     label: Bronze
     max: 10
   - id: charity
-    label: Charity Partner
+    label: Charity
     max: 3
 
 program:
