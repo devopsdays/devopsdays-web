@@ -58,7 +58,7 @@ Adicionalmente se aceptarán presentaciones relacionadas con temas presentados e
   - Se aceptan múltiples propuestas...solo siga las otras reglas. / *Multiple proposals are welcome… just follow the other rules*
 
 
-El envío de sus propuestas debe hacerse empleando el sitio / *You can send your prupose vía*: **[PeperCall.io](https://www.papercall.io/devopsdayscuba-2017)** 
+El envío de sus propuestas debe hacerse empleando el sitio / *You can send your prupose vía*: **[PaperCall.io](https://www.papercall.io/devopsdayscuba-2017)** 
 
 El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2017-cuba/program/). / El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2017-cuba/program/). / *The organizer team will select the presentations and notify their inclusion on [official event program](https://www.devopsdays.org/events/2017-cuba/program/)*
 
