@@ -1,15 +1,13 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Auckland 2017"
+Description = "Propose a talk for DevOpsDays Auckland 2017"
 +++
   {{< cfp_dates >}}
 
 <hr>
 
-<p>
 Hi there! We're excited that you want to be a speaker at our conference, DevOpsDays Auckland 2017 is a single track conference and we are looking for proposals for the conference. We welcome you to our stage: from expert level speakers to absolute beginners who have never given a talk before.
-</p>
 
 ### We are seeking interest in the following types of presentations.
 
