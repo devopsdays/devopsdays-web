@@ -70,9 +70,8 @@ proposal_email: "proposals-singapore-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: microsoft
     level: platinum
-#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: arresteddevops
-#     level: community
+  - id: thoughtworks-services
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
