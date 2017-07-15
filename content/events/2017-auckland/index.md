@@ -14,8 +14,11 @@ Description = "devopsdays Auckland 2017"
 
    <p>We are excited to bring DevOpsDays to Auckland this year that will bring contributors from dev, ops, infoSec, QA management, leadership and a range of cultures - to share, learn, laugh and be encourage by the many great things happening in New Zealand technology sector.</p>
 
-  <p>We have increased this years conference and can cater for 300 people to take part in the event. Our CFP will be opening within the week, with early bird tickets to go on sale in the next week as well.
-    </p>
+  <p>Given the interest form last years event, we have increased the capacity to 300 participants. Our CFP is open, and we are looking to open registrations in the next week.</p>
+
+  <p>If you're looking to contribute as a sponsor, then details can be found {{< event_link page="sponsor" text="on the sponsorship page" >}}</p>
+
+
   </div>
   <div class = "col-md-6 col-md-push-6">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/JuctqYgeyiI" frameborder="0" allowfullscreen></iframe>
