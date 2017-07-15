@@ -5,10 +5,10 @@ Description = "Sponsor DevOpsDays Auckland 2017"
 +++
 
 
-DevOps in New Zealand is hitting a critical mass, reaching all aspects of the technology space. From banking institutions to government departments, to SaaS providers to disruptive start ups - DevOps is the new black.
+DevOps in New Zealand is hitting critical mass, reaching all aspects of the technology space - from banking institutions to government departments, to SaaS providers, to disruptive startups. DevOps is the new black.
 
 
-Coming to Auckland, DevOpsDays brings an opportunity to expose your brand to the DevOps community across NZ - whether you're looking for talent, wanting to extend the reach of your brand or just show the latest and greatest wares. Sponsoring DevOpsDays in Auckland provides a unique occasion to interact with technology professionals and gives your representatives a chance to connect with participants.
+Returning to Auckland after a four year haitus, DevOpsDays provides an opportunity to expose your brand to the DevOps community across NZ - whether you're looking for talent, wanting to extend the reach of your brand or just show the latest and greatest wares. Sponsoring DevOpsDays in Auckland is a unique occasion to interact with technology professionals and gives your representatives a chance to connect with participants.
 
 DevOpsDays Auckland will be held at Ellerslie Event Centre, at the Ellerslie Racecourse on the 3rd &amp; 4th October and we are expecting about 300 participants. Support DevOpsDays Auckland now to garner the attention you’ll receive for being an early sponsor.
 
