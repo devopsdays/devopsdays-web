@@ -4,6 +4,8 @@ Type = "event"
 Description = "Registration for DevOpsDays Auckland 2017"
 +++
 
+<hr/>
+
 ## Registration
 
 You can register now register for DevOpsDays Auckland 2017. We are currently offering a limited amount early bird tickets. So hurry now to avoid disappointment!
