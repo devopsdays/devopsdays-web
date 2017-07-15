@@ -21,8 +21,8 @@ Cuota de inscripción/*Registration fees*:
   <tbody>
     <tr>
       <td>Delegado/Delegate</td>
-      <td>250.00 CUC</td>
       <td>300.00 CUC</td>
+      <td>350.00 CUC</td>
     </tr>    
     <tr>
       <td>Acompañante/Accompanying persons</td>
