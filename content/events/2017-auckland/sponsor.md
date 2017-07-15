@@ -1,22 +1,22 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Auckland 2017"
+Description = "Sponsor DevOpsDays Auckland 2017"
 +++
 
-<p>
-DevOps in New Zealand is hitting a critical mass, reaching all aspects of the technology space. From banking institutions to government departments, to SaaS providers to disruptive start ups - DevOps is the new black.</p>
+
+DevOps in New Zealand is hitting a critical mass, reaching all aspects of the technology space. From banking institutions to government departments, to SaaS providers to disruptive start ups - DevOps is the new black.
 
 
-<p>Coming to Auckland, DevOpsDays brings an opportunity to expose your brand to the DevOps community across NZ - whether you're looking for talent, wanting to extend the reach of your brand or just show the latest and greatest wares. Sponsoring DevOpsDays in Auckland provides a unique occasion to interact with technology professionals and gives your representatives a chance to connect with participants.</p>
+Coming to Auckland, DevOpsDays brings an opportunity to expose your brand to the DevOps community across NZ - whether you're looking for talent, wanting to extend the reach of your brand or just show the latest and greatest wares. Sponsoring DevOpsDays in Auckland provides a unique occasion to interact with technology professionals and gives your representatives a chance to connect with participants.
 
-<p>DevOpsDays Auckland will be held at Ellerslie Event Centre, at the Ellerslie Racecourse on the 3rd &amp; 4th October and we are expecting about 300 participants. Support DevOpsDays Auckland now to garner the attention you’ll receive for being an early sponsor.</p>
+DevOpsDays Auckland will be held at Ellerslie Event Centre, at the Ellerslie Racecourse on the 3rd &amp; 4th October and we are expecting about 300 participants. Support DevOpsDays Auckland now to garner the attention you’ll receive for being an early sponsor.
 
 <hr/>
 
-<p>Sponsors are much appreciated for their financial assistance. Sponsorship is the main source of funding for the conference, with registration fees kept low to encourage broad community participation.</p>
+Sponsors are much appreciated for their financial assistance. Sponsorship is the main source of funding for the conference, with registration fees kept low to encourage broad community participation.
 
-<p>Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session, but this is not 'that kind of conference' and heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.</p>
+Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session, but this is not 'that kind of conference' and heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
 <hr/>
 
