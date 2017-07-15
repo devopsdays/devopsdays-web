@@ -36,7 +36,7 @@ DevOps in New Zealand is hitting a critical mass, reaching all aspects of the te
 | Shared table for swag (no chairs)                        |                  |         ✓        |                |
 | Dedicated table for swag (with chairs)                   |                  |                  |        ✓       |
 
-There are also opportunities for exclusive special sponsorships with special privileges, such as venue, lanyard, video, lunch and evening event sponsorship. If you are interested in special sponsorships or have a creative idea about how you can support the event, drop us an email at {{< email_organizers >}} and we’ll work something out together.
+There are also opportunities for exclusive special sponsorships with special privileges, such as venue, lanyard, video, lunch and evening event sponsorship. If you are interested in special sponsorships or have a creative idea about how you can support the event, drop us an email at <a href="mailto:sponsor@devopsdays.nz?subject=Sponsor DevOpsDays Auckland 2017">sponsor@devopsdays.nz</a> and we’ll work something out together.
 
 <hr/>
 
