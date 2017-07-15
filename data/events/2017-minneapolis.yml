@@ -176,6 +176,8 @@ sponsors:
     level: alacarte
   - id: f5
     level: bronze
+  - id: servicenow
+    level: bronze
 
 
 sponsors_accepted : "no"
