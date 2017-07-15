@@ -72,6 +72,14 @@ sponsors:
     level: platinum
   - id: thoughtworks-services
     level: gold
+  - id: agile-singapore
+    level: community
+  - id: singapore-devops-community
+    level: community
+  - id: singapore-devsecops-community
+    level: community
+  - id: singapore-spring-community
+    level: community
   - id: powershell-conference-asia
     level: community
 
