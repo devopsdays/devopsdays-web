@@ -5,9 +5,9 @@ aliases = ["/events/2017-porto-alegre/welcome"]
 Description = "devopsdays Porto Alegre 2017"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <a href="http://poa.devopsdays.com.br/">{{< event_logo >}}</a>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +81,4 @@ Description = "devopsdays Porto Alegre 2017"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
