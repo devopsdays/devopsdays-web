@@ -17,13 +17,13 @@ cfp_date_announce: 2017-08-25  # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-auckland-2017" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2017-07-10 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2017-07-15 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2017-10-02 # close registration. Leave blank if registration is not open yet.
 
 masthead_background: "harbour-bridge.jpg"
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "/events/2017-auckland/registration/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # event_logo: "logo.png"
 # masthead_background: "" # If you have a custom background header image...
