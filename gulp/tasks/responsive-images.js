@@ -79,7 +79,7 @@ gulp.task('responsive-organizer-images', function() {
 });
 
 gulp.task('responsive-speaker-images', function() {
-    return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png'])
+    return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png', 'public/**/speaker_default.jpg'])
         .pipe(responsive({
             '**/*.png': [{
                 width: 300,
