@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Lending Privilege"
 Type = "talk"
-Speakers = ["anjuran-simons"]
+Speakers = ["anjuan-simmons"]
 +++
 
 Privilege is access to societal and economic benefits based on a characteristic you possess. The most well understood forms of privilege are the ones most people don’t choose for themselves like racial, gender, and physical privilege, but there are also selected privileges like religion, sexuality, and education.

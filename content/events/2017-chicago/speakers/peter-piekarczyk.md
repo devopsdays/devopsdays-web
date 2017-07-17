@@ -3,6 +3,7 @@ Title = "Peter Piekarczyk"
 website = "http://peterp.me/"
 Twitter = "peterpme"
 type = "speaker"
+image = "peter-piekarczyk.jpg"
 linktitle = "peter-piekarczyk"
 
 +++

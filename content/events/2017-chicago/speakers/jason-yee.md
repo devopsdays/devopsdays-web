@@ -2,6 +2,8 @@
 Title = "Jason Yee"
 Twitter = "gitbisect"
 type = "speaker"
+linkedin = "https://www.linkedin.com/in/jason-yee-5b06966/"
+website = "https://www.datadoghq.com"
 image = "jason-yee.jpg"
 linktitle = "jason-yee"
 
