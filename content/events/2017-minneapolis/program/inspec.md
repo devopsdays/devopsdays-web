@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Introduction to Continuous Compliance & Remediation"
 Type = "talk"
 Speakers = ["nicole-johnson", "nathen-harvey"]
+aliases = ["/events/2017-minneapolis/program/nicole-johnson-nathen-harvey/"]
 +++
 
 Success with DevOps can be measured with a number of different metrics.  How frequently are systems audited for compliance to various policies?  How long does it take to remediate a failing control or vulnerability?  This workshop provide an introduction to practice of continuous compliance and remediation.  The workshop uses [InSpec](https://www.inspec.io/) and [Chef](https://www.chef.io/chef/) for compliance and remediation, respectively. InSpec is an open-source testing framework for infrastructure with a human-readable language for specifying compliance, security and other policy requirements. Chef is an open-source framework for infrastructure automation.  Easily integrate automated tests that check for adherence to policy into any stage of your deployment pipeline.
