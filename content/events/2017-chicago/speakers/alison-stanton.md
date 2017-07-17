@@ -2,7 +2,6 @@
 Title = "Alison Stanton"
 Twitter = "StantonVentures"
 website = "http://www.stantonventures.com/"
-image = ""
 type = "speaker"
 linktitle = "alison-stanton"
 

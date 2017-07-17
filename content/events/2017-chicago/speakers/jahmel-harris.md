@@ -2,7 +2,6 @@
 Title = "Jahmel Harris"
 Twitter = "JayHarris_Sec"
 website = "https://www.digitalinterruption.com/"
-image = ""
 type = "speaker"
 linktitle = "jahmel-harris"
 
