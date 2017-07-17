@@ -3,6 +3,7 @@ Title = "Bill Weiss"
 Twitter = "BillWeiss"
 type = "speaker"
 linktitle = "bill-weiss"
+image = "bill-weiss.jpg"
 
 +++
 
