@@ -4,6 +4,7 @@ Twitter = "StantonVentures"
 website = "http://www.stantonventures.com/"
 type = "speaker"
 linktitle = "alison-stanton"
+image = "alison-stanton.jpg"
 
 +++
 
