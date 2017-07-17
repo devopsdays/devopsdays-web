@@ -45,7 +45,7 @@ Adicionalmente se aceptarán presentaciones relacionadas con temas presentados e
 
 **Criterios para la selección de las presentaciones / *Criteria to select the presentation*:**
 
-  - Originalidad del contenido / *Original content*: que no se haya presentado en otro encuentro previo de **DevOpsDays Cuba** o que constituya un nuevo enfoque a un problema existente / *content that has not be presented before at **DevOpsDays Cuba** conferences, or a new point of view to an existing problem.*
+  - Originalidad del contenido / *Original content*: que no se haya presentado en otro encuentro previo de **DevOpsDays Cuba** o que constituya un nuevo enfoque a un problema existente / <i>content that has not be presented before at **DevOpsDays Cuba** conferences, or a new point of view to an existing problem.</i>
   - Presentadores con experiencia / *Presentation skills*: presentadores experimentados en el tema, pero nuevos presentadores son bienvenidos también; deseamos contar con la participación de todos. / *speakers with experiences are valued, but new presenters are welcomed as well; we want to hear everybody’s voice*
   - No presentaciones comerciales / *No vendor pitches*:  Por mucho que valoramos nuestros patrocinadores, consideramos que no es el marco ideal para estas presentaciones. Usted podrá solicitar un espacio con este fin o proponer un tema durante el Open Space / *as much as we value vendors and sponsors, we just don’t think this is the right forum. You can request an space to do it or propose a topic during Open Space*.
 

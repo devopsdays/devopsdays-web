@@ -6,7 +6,9 @@ type = "event"
 
 Si está interesado en participar en el evento debe ponerse en contacto con el **comité organizador** 
 para obtener información detallada sobre las **formas de pago establecidas** y los **paquetes de alojamiento** 
-que ofrecemos a precios preferenciales. / *If you are interested in participating in the event should contact the **organizer committee** to obtain information on the payment methods established and the accommodation packages we offer at preferential prices.*
+que ofrecemos a precios preferenciales. / <i>If you are interested in participating in the event should contact 
+the **organizer committee** to obtain information on the payment methods established and the accommodation 
+packages we offer at preferential prices.</i>
 
 Cuota de inscripción/*Registration fees*:
 
@@ -21,8 +23,8 @@ Cuota de inscripción/*Registration fees*:
   <tbody>
     <tr>
       <td>Delegado/Delegate</td>
+      <td>250.00 CUC</td>
       <td>300.00 CUC</td>
-      <td>350.00 CUC</td>
     </tr>    
     <tr>
       <td>Acompañante/Accompanying persons</td>
