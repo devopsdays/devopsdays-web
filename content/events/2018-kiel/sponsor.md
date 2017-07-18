@@ -8,40 +8,111 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
 
-<!--
+DevOpsDays is a self-organizing non-profit conference for practitioners which depends on sponsorship to make the conference affordable to everyone. We do not have vendor booth, sell product presentations or distribute attendee contact lists. Depending on the sponsor packages you chose, there are different opportunities like booth tables, elevator pitches, logo on website and further more. We encourage our sponsors to represent themselves by actively taking part and engaging with the attendees as peers. As a sponsor you are free to do anything like a lottery or what ever. Any attendee – and also the sponsors have the possibility to demo products / projects as a part of an open space. All sponsors are recommended to accept the code of conduct. We are aiming at 150 attendees in 2018.
+<p>
+In the name of all attendees and organizers we thank all sponsors for their support!
+<p>
+If we have money left after the conference, it will be given to a social project for educating children in topics of computer sciences.
+
 <hr/>
 
-<div style="width:590px">
+<div style="width:690px">
 <table border=1 cellspacing=1>
   <tr>
     <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
+    <th><center><b>Contributor</center></b></th>
+    <th><center><b>Silver</center></b></th>
+    <th><center><b>Gold</center></b></th>
+    <th><center><b>Evening</center></b></th>
+    <th><center><b>Speaker's Dinner</center></b></th>
+    <th><center><b>T-Shirt</center></b></th>
+    <th><center><b>Coffee Break</center></b></th>
     <th></th>
   </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+  <tr>
+    <td><font color="red">max. numbers</font></td>
+    <td><center><font color="red">open</font></center></td>
+    <td><center><font color="red">10</font></center></td>
+    <td><center><font color="red">5</font></center></td>
+    <td><center><font color="red">1</font></center></td>
+    <td><center><font color="red">1</font></center></td>
+    <td><center><font color="red">1</font></center></td>
+    <td><center><font color="red">2</font></center></td>
+  </tr>
+  <tr>
+    <td>Price ex. VAT</td>
+    <td><center>€ 300</center></td>
+    <td><center>€ 1.300</center></td>
+    <td><center>€ 2.500</center></td>
+    <td><center>€ 3.500</center></td>
+    <td><center>€ 2.200</center></td>
+    <td><center>€ 2.750</center></td>
+    <td><center>€ 700</center></td>
+  </tr>
+  <tr>
+    <td>tickets included</td>
+    <td><center>0</center></td>
+    <td><center>2</center></td>
+    <td><center>3</center></td>
+    <td><center>5</center></td>
+    <td><center>4</center></td>
+    <td><center>2</center></td>
+    <td><center>1</center></td>
+  </tr>
+  <tr>
+    <td>Logo website</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Logo all emails</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>1 min. pitch at conference</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>shared table for infos & giveaways</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Private Booth/table</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Named as evening sponsor</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Named as speaker's dinner sponsor</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Named as coffee break sponsor</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Named as T-Shirt sponsor</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>swag in give-away bags</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>names listed on website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+  </tr>
 </table>
+
 <hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
+<h3 id="gold-sponsor">Gold Sponsor</h3>
+<p>All Gold Sponsors get a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays. They will also be mentioned in social media. Gold sponsors get a one minute pitch at the conference and will be named as gold sponsor. They are free to use the giveaway bags. 3 tickets are included.</p>
+<h3 id="silver-sponsor">Silver Sponsor</h3>
+<p>All Silver Sponsors may present their information at a full table. The logo will be presented on the website and all emails, printings and displays. They will also be mentioned in social media. Silver Sponsors will be named as silver sponsor. They are free to use the giveaway bags. 2 tickets are included.</p>
+<h3 id="evening-sponsor">Evening Sponsor</h3>
+<p>The Evening Sponsor gets a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays. The Evening Sponsor will also be mentioned in social media and get a one minute pitch at the conference. The Evening Sponsor will be named as it during the whole conference and at the evening of the social event. They are free to use the giveaway bags. 5 tickets are included.</p>
+<h3 id="speaker-s-dinner-sponsor">Speaker´s Dinner Sponsor</h3>
+<p>The Speaker´s Dinner Sponsor gets a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays. The Speaker´s Dinner Sponsor will also be mentioned in social media and get a one minute pitch at the conference. The Speaker´s Dinner Sponsor will be named as it during the whole conference and at the evening of the Speaker´s Dinner. They are free to use the giveaway bags. 4 tickets are included.</p>
+<h3 id="coffee-break-sponsor">Coffee Break Sponsor</h3>
+<p>The Coffee Break Sponsor may present their information at a shared table (half). Their name will be listed on the website. The Coffee Break Sponsor will also be mentioned in social media. The Coffee Break Sponsor will be named as it during the day of sponsoring the coffee breaks and may put the logo on the buffet. They are free to use the giveaway bags. 1 ticket included.</p>
+<h3 id="t-shirt-sponsor">T-Shirt Sponsor</h3>
+<p>The T-Shirt Sponsor gets a full table to present products and information. The logo will be presented on the website and all emails, printings and displays, and also on one arm of the conference T-Shirts. They will also be mentioned in social media. T-Shirt Sponsors get a one minute pitch at the conference and will be named as T-Shirt Sponsor. They are free to use the giveaway bags. 2 tickets are included.</p>
+
+<!--
 <br/>
 <br/>
+
 
 <br>
 <br>
@@ -61,6 +132,7 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 <tr><td>Additional important details</td><td></td></tr>
 </table>
 </div>
-
 -->
+
 <hr/>
+

@@ -33,10 +33,10 @@ location_address: "Fraunhoferstraße 13, 24118 Kiel" #Optional - use the street 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: location
   - name: sponsor
   - name: contact
   - name: conduct
@@ -93,13 +93,23 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    max: 10
+  - id: gold
+    label: Gold
+    max: 5
+  - id: evening
+    label: Evening
+    max: 1
+  - id: speakersd
+    label: Speaker's Dinner
+    max: 1
+  - id: tshirt
+    label: T-Shirt
+    max: 1
+  - id: coffee
+    label: Coffee Break
+    max: 2
+  - id: contributor
+    label: Contributor
