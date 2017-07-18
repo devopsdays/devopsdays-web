@@ -138,6 +138,10 @@ sponsors:
     - id: microsoft
       level: bronze
       twitter: '@vsts'
+    - id: saltstack
+      level: silver
+    - id: saltstack
+      level: cmccd
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
