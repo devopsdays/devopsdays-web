@@ -178,6 +178,10 @@ sponsors:
     level: bronze
   - id: servicenow
     level: bronze
+  - id: checkmarx
+    level: bronze
+  - id: elastic
+    level: bronze
 
 
 sponsors_accepted : "no"
