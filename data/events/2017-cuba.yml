@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: registration
   - name: discount
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 
