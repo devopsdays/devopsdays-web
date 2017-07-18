@@ -3,6 +3,7 @@ Title = "Pramod Sadlage"
 Twitter = "pramodsadalage"
 type = "speaker"
 linktitle = "pramod-sadlage"
+image = "pramod-sadlage.jpg"
 
 +++
 
