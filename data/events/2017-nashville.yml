@@ -67,7 +67,11 @@ sponsors:
     level: silver
   - id: systemfrontier
     level: silver
+  - id: cbsinteractive
+    level: bronze
   - id: eventbrite
+    level: bronze
+  - id: stratasan
     level: bronze
   - id: juiceanalytics
     level: alacarte
