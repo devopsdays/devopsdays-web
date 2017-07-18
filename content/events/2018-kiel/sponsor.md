@@ -11,7 +11,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 DevOpsDays is a self-organizing non-profit conference for practitioners which depends on sponsorship to make the conference affordable to everyone. We do not have vendor booth, sell product presentations or distribute attendee contact lists. Depending on the sponsor packages you chose, there are different opportunities like booth tables, elevator pitches, logo on website and further more. We encourage our sponsors to represent themselves by actively taking part and engaging with the attendees as peers. As a sponsor you are free to do anything like a lottery or what ever. Any attendee – and also the sponsors have the possibility to demo products / projects as a part of an open space. All sponsors are recommended to accept the code of conduct. We are aiming at 150 attendees in 2018.
 <p>
-In the name of all attendees and organizers we thank all sponsors for their support!
+On behalf of all attendees and organizers we thank all sponsors for their support!
 <p>
 If we have money left after the conference, it will be given to a social project for educating children in topics of computer sciences.
 
