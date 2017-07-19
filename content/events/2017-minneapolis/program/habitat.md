@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Application Automation &amp; Containerization with Habitat"
+Title = "Application Automation & Containerization with Habitat"
 Type = "talk"
 Speakers = ["nicole-johnson", "nathen-harvey"]
 +++
