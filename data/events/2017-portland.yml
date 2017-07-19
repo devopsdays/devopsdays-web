@@ -142,6 +142,10 @@ sponsors:
       level: silver
     - id: saltstack
       level: cmccd
+    - id: ignw
+      level: platinum
+    - id: ignw
+      level: cmccd
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
