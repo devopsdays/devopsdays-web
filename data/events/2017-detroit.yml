@@ -67,6 +67,10 @@ sponsors:
     level: gold
   - id: rightbrain
     level: gold
+  - id: xmatters
+    level: gold
+  - id: servicenow
+    level: silver
   - id: delphix
     level: silver
   - id: proquest
