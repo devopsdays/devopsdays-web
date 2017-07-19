@@ -262,11 +262,11 @@ program:
     date: 2017-08-01
     start_time: "16:50"
     end_time: "17:00"
-  - title: "Evening event (TBD)"
+  - title: "Evening event - OMSI (1945 SE Water Ave), Turbine Hall: Come enjoy a catered reception while exploring a real turbine generator, playing rock, paper, scissors with robots, and many other STEM-related games!"
     type: custom
     date: 2017-08-01
-    start_time: "18:00"
-    end_time: "late"
+    start_time: "19:00"
+    end_time: "21:30"
 
   - title: "Registration, Breakfast, Sponsors"
     type: custom
