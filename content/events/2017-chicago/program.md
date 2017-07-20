@@ -7,7 +7,7 @@ Description = "Program for devopsdays Chicago 2017"
 <div class = "row">
   <div class = "col">
     <hr />
-    The specific times and dates of presentations may change as we get closer to the event!
+    The dates and times of specific presentations are subject to change.
     <hr />
   </div>
 </div>
