@@ -70,7 +70,7 @@ If we have money left after the conference, it will be given to a social project
     <td>1 min. pitch at conference</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
   </tr>
   <tr>
-    <td>shared table for infos & giveaways</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+    <td>shared table for infos & giveaways</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
   </tr>
   <tr>
     <td>Private Booth/table</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
