@@ -146,6 +146,8 @@ sponsors:
       level: platinum
     - id: ignw
       level: cmccd
+    - id: ansible
+      level: cmccd
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
