@@ -18,10 +18,11 @@ We have three (3) tiers of sponsorship available for any vendors that are intere
 <div>
 <table border=1 cellpadding="8px" style="padding:5px;">
   <tr>
-    <th><i>Sponsor Packages</i></th>
+    <th><i>Sponsor Levels</i></th>
     <th><center><b><u>Bronze<br />$750</u></center></b></th>
     <th><center><b><u>Silver<br />$2000</u></center></b></th>
     <th><center><b><u>Gold<br />$3500</u></center></b></th>
+    <th><center><b><u>Food<br />&nbsp;</u></center></b></th>
   </tr>
   <tr>
   <td>&nbsp;</td>
@@ -55,140 +56,89 @@ We have three (3) tiers of sponsorship available for any vendors that are intere
     </form>
   </center>
   </td>
+  <td>&nbsp;</td>
+</tr>
+<tr>
+  <td>Logo on website</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Logo on flyers</td>
+  <td>&nbsp;</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Logo on t-shirt (if we have one)</td>
+  <td>&nbsp;</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Logo on slideshow</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Table at event</td>
+  <td align="center">&nbsp;</td>
+  <td align="center"><i style="color:green;" class="fa fa-check">(1) 6ft table</i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check">(2) 6ft tables</i></td>
+  <td align="center">&nbsp;</td>
+</tr>
+<tr>
+  <td>Social media mentions</td>
+  <td align="center">&nbsp;</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Announcement during event</td>
+  <td align="center">&nbsp;</td>
+  <td align="center">&nbsp;</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Included tickets</td>
+  <td ><center><b>0</b></center></td>
+  <td ><center><b>4</b></center></td>
+  <td ><center><b>6</b></center></td>
+  <td ><center><b>4</b></center></td>
+</tr>
+<tr>
+  <td>Meetup exposure</td>
+  <td ><center><b>2</b></center></td>
+  <td ><center><b>4</b></center></td>
+  <td ><center><b>8</b></center></td>
+  <td ><center><b>4</b></center></td>
+</tr>
+<tr>
+  <td>Presentation time during event</td>
+  <td align="center">&nbsp;</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td>Items allowed in swag bags</td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+  <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
 </tr>
 </table>
 <br/>
 <br/>
-<h2>What's Included?</h2>
-<img src="/events/2017-phoenix/sponsorship.png">
-<br/>
-<br/>
-<!-- HTML table to be edited and inserted later
-    <table border=1 cellpadding="8px" style="padding:5px;">
-      <tr>
-        <th><i>packages</i></th>
-        <th><center><b><u>Bronze<br />$750</u></center></b></th>
-        <th><center><b><u>Silver<br />$2000</u></center></b></th>
-        <th><center><b><u>Gold<br />$3500</u></center></b></th>
-      </tr>
-      <tr>
-      <td>&nbsp;</td>
-      <td >
-      <center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="PMD4C6U8P4XSC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </center>
-      </td>
-      <td >
-      <center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="RSB97E487HS7Q">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </center>
-      </td>
-      <td >
-      <center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="XPCJREVYZF5JW">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-      </center>
-      </td>
-    </tr>
-    <tr>
-      <td>Logo on website <br />
-      Logo on main room signage <br />
-      Logo on email communication
-      </td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Included tickets</td>
-      <td ><center><b>0</b></center></td>
-      <td ><center><b>4</b></center></td>
-      <td ><center><b>6</b></center></td>
-    </tr>
-    <tr>
-      <td>Table at event</td>
-      <td align="center">&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check">(1) 6ft table</i></td>
-      <td align="center"><i style="color:green;" class="fa fa-check">(2) 6ft tables</i></td>
-    </tr>
-    <tr>
-      <td>Full Table</td>
-      <td >&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Choice of table location</td>
-      <td>&nbsp;</td>
-      <td >&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on shared slide during breaks</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td >&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Logo on shared signage in breakout rooms</td>
-      <td>&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Logo on shared slide in recorded video pre-rolls</td>
-      <td>&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td >&nbsp;</td>
-    </tr>
-    <tr>
-      <td>Logo on dedicated slide during breaks</td>
-      <td>&nbsp;</td>
-      <td >&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on dedicated signage in breakout rooms</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>Logo on dedicated slide in recorded video pre-rolls</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    <tr>
-      <td>1-minute pitch to full audience</td>
-      <td>&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-      <td >&nbsp;</td>
-    </tr>
-    <tr>
-      <td>5-minute pitch to full audience on Day 1</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
-    </tr>
-    </table>
-<br/>
-<br/>
--->
+
 <h2>Other sponsorship opportunities:</h2>
 <h3>Food Sponsors</h3>
 <p>
