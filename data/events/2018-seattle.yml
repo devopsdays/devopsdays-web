@@ -1,8 +1,8 @@
-name: "2018-indianapolis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2018-seattle" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2018" # The year of the event. Make sure it is in quotes.
-city: "Indianapolis" # The displayed city name of the event. Capitalize it.
-event_twitter: "DevOpsDaysINDY" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Indianapolis!" # Edit this to suit your preferences
+city: "Seattle" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysSEA" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Seattle!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -25,8 +25,8 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "39.768502, -86.158047" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Indianapolis" # Defaults to city, but you can make it the venue name.
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -46,31 +46,41 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Garrett Honeycutt"
-    employer: "LearnPuppet.com"
-    twitter: "learnpuppet"
-    github: "ghoneycutt"
-    linkedin: "https://www.linkedin.com/in/garretthoneycutt"
-    website: "http://learnpuppet.com"
-
-  - name: "Andrew Poland"
-    employer: ""
-    twitter: "fiznarp"
-
-  - name: "Byron Schaller"
-    employer: ""
-    twitter: "byronschaller"
-
-  - name: "Bryan Smith"
-
-organizer_email: "organizers-indianapolis-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal email address here
+  - name: "Rob Cummings"
+    twitter: "opsrob"
+    image: "rob-cummings.jpg"
+  - name: "Dominica DeGrandis"
+    twitter: "dominicad"
+    image: "dominica-degrandis.jpg"
+  - name: "Dan Dicamillo"
+    twitter: "criticalthinker"
+    image: "dan-dicamillo.jpg"
+  - name: "Jeremy Dyche"
+    twitter: "JD892011"
+    image: "jeremy-dyche.jpg"
+  - name: "Michael Goetz"
+    twitter: "michaelpgoetz"
+    image: "michael-goetz.jpg"
+  - name: "Ken Mugrage"
+    twitter: "kmugrage"
+    image: "ken-mugrage.jpg"
+  - name: "Michael Towbin"
+    twitter: "MichaelTowbin"
+    image: "michael-towbin.jpg"
+  - name: "Todd Wilson"
+    twitter: "t1wilson"
+    image: "todd-wilson.jpg"
+organizer_email: "organizers-seattle-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-seattle-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: arresteddevops
-    level: community
+#  - id: samplesponsorname
+#    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -79,12 +89,12 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
   - id: gold
     label: Gold
+#    max: 10
   - id: silver
     label: Silver
+    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

@@ -93,6 +93,24 @@ sponsors:
     level: charity
   - id: codeclub
     level: charity
+  - id: engineerbetter  
+    level: bronze    
+  - id: kloia
+    level: silver
+  - id: newrelic
+    level: platinum    
+  - id: automic
+    level: platinum
+  - id: armakuni
+    level: silver
+  - id: jfrog
+    level: gold
+  - id: veertu
+    level: silver
+  - id: puppet
+    level: silver
+ 
+           
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

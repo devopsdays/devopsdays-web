@@ -109,8 +109,6 @@ sponsors:
       level: gold
     - id: extrahop
       level: gold
-    - id: rigor
-      level: bronze
     - id: logicmonitor
       level: silver
     - id: centurylink
@@ -147,6 +145,10 @@ sponsors:
     - id: ignw
       level: cmccd
     - id: ansible
+      level: cmccd
+    - id: netapp
+      level: silver
+    - id: netapp
       level: cmccd
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
