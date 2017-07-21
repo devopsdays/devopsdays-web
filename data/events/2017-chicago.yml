@@ -371,6 +371,11 @@ program:
     date: 2017-09-13
     start_time: "16:00"
     end_time: "16:45"
+  - title: "arrested-devops"
+    type: workshop
+    date: 2017-09-13
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "Close Day & Farewell"
     type: custom
     date: 2017-09-13
