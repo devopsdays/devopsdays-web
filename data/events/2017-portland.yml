@@ -423,7 +423,7 @@ program:
     end_time: "11:20"
     background_color: "#4280f4"
 
-  - title: "eric-maxwell"
+  - title: "inspec"
     type: talk
     date: 2017-08-03
     start_time: "11:25"
@@ -546,6 +546,8 @@ ignites:
   - title: "buy-devops"
     date: 2017-08-01
   - title: "no-cd"
+    date: 2017-08-03
+  - title: "role-cookbook"
     date: 2017-08-03
   - title: "spencer-krum"
     date: 2017-08-03
