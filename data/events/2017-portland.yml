@@ -545,7 +545,8 @@ ignites:
     date: 2017-08-01
   - title: "buy-devops"
     date: 2017-08-01
-
+  - title: "no-cd"
+    date: 2017-08-03
   - title: "spencer-krum"
     date: 2017-08-03
   - title: "bernd-erk"
