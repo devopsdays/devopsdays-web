@@ -3,6 +3,7 @@ Title = "Rachael Byrne"
 Twitter = "b3rachael"
 linkedin = "https://www.linkedin.com/in/rachaelbyrne/"
 type = "speaker"
+image = "rachael-byrne.jpg"
 linktitle = "rachael-byrne"
 
 +++
