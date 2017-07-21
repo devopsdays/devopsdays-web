@@ -392,12 +392,14 @@ program:
     date: 2017-08-03
     start_time: "09:55"
     end_time: "10:30"
+    background_color:  "#42f1f4"
 
   - title: "christopher-adeo"
     type: talk
     date: 2017-08-03
     start_time: "09:55"
     end_time: "10:30"
+    background_color: "#4280f4"
 
   - title: "Break"
     type: custom
@@ -412,24 +414,28 @@ program:
     date: 2017-08-03
     start_time: "10:45"
     end_time: "11:20"
+    background_color:  "#42f1f4"
 
   - title: "kristen-accardi"
     type: talk
     date: 2017-08-03
     start_time: "10:45"
     end_time: "11:20"
+    background_color: "#4280f4"
 
   - title: "eric-maxwell"
     type: talk
     date: 2017-08-03
     start_time: "11:25"
     end_time: "12:00"
+    background_color:  "#42f1f4"
 
   - title: "john-willis"
     type: talk
     date: 2017-08-03
     start_time: "11:25"
     end_time: "12:00"
+    background_color: "#4280f4"
 
 
 
@@ -453,24 +459,28 @@ program:
     date: 2017-08-03
     start_time: "14:05"
     end_time: "14:40"
+    background_color:  "#42f1f4"
 
   - title: "william-henry"
     type: talk
     date: 2017-08-03
     start_time: "14:05"
     end_time: "14:40"
+    background_color: "#4280f4"
 
   - title: "james-shubin"
     type: talk
     date: 2017-08-03
     start_time: "14:45"
     end_time: "15:20"
+    background_color:  "#42f1f4"
 
   - title: "torin-sandall"
     type: talk
     date: 2017-08-03
     start_time: "14:45"
     end_time: "15:30"
+    background_color: "#4280f4"
 
 
   - title: "Break"
@@ -484,24 +494,28 @@ program:
     date: 2017-08-03
     start_time: "15:35"
     end_time: "16:10"
+    background_color:  "#42f1f4"
 
   - title: "ryan-jarniven"
     type: talk
     date: 2017-08-03
     start_time: "15:35"
     end_time: "16:10"
+    background_color: "#4280f4"
 
   - title: "anubhav-mishra"
     type: talk
     date: 2017-08-03
     start_time: "16:15"
     end_time: "16:50"
+    background_color:  "#42f1f4"
 
   - title: "soam-vasani"
     type: talk
     date: 2017-08-03
     start_time: "16:15"
     end_time: "16:50"
+    background_color: "#4280f4"
 
   - title: "eric-sorenson"
     type: talk
