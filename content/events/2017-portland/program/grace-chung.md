@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Fast, Reliable mongoDB deployment"
+Title = "Enterprise Container Strategy:  Start to finish in 15 minutes"
 Type = "talk"
 Speakers = ["grace-chung"]
 +++
