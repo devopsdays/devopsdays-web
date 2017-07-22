@@ -501,7 +501,7 @@ program:
     end_time: "16:10"
     background_color:  "#42f1f4"
 
-  - title: "ryan-jarniven"
+  - title: "dennis-kliban"
     type: talk
     date: 2017-08-03
     start_time: "15:35"
@@ -565,8 +565,6 @@ ignites:
   - title: "jj-asghar"
     date: 2017-08-03
   - title: "grace-chung"
-    date: 2017-08-03
-  - title: "dennis-kliban"
     date: 2017-08-03
   - title: "chakradhar-rao-jonagam"
     date: 2017-08-03
