@@ -182,6 +182,12 @@ sponsors:
     level: bronze
   - id: elastic
     level: bronze
+  - id: dynatrace
+    level: bronze
+  - id: newrelic
+    level: bronze
+  - id: cargill
+    level: alacarte
 
 
 sponsors_accepted : "no"
