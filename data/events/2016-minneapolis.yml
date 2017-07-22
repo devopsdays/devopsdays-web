@@ -87,7 +87,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: sps_commerce
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: gold
   - id: saucelabs
     level: silver
