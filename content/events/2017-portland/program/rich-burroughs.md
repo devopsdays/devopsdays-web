@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "What Are You Running? PuppetDB Knows."
 Type = "talk"
-Speakers = ["rich-burroughs"]
+Speakers = ["rich-burroughs","daniel-parks"]
 +++
 
 
