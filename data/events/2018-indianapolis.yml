@@ -61,6 +61,8 @@ team_members: # Name is the only required field for team members.
     employer: ""
     twitter: "byronschaller"
 
+  - name: "Bryan Smith"
+
 organizer_email: "organizers-indianapolis-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal email address here
 

@@ -36,14 +36,14 @@ Description = "devopsdays Boston 2017"
   </div>
 </div>
 
- <div class = "row">
+ <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://www.papercall.io/devopsdays-boston-2017">Propose a Talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

@@ -13,7 +13,7 @@ Additional à la carte sponsorships that are still available:
 <li>coffee ($1k) - SOLD OUT
 <li>breakfast ($2k) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
 <li>snacks ($1k) - SOLD OUT
-<li>lunch ($2k) - 1 slot available - signage by the lunch service with your logo during lunch
+<li>lunch ($2k) - SOLD OUT
 <li>evening happy hour ($4k) - SOLD OUT
 <li>lanyard - ($5k) - SOLD OUT
 </ul>

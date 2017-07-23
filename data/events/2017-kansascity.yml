@@ -131,6 +131,10 @@ sponsors:
     level: bronze
   - id: aws
     level: bronze
+  - id: adaptivesg
+    level: silver
+  - id: tgs
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
