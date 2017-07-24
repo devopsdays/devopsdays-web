@@ -64,6 +64,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2015-covermymeds
     level: gold
+  - id: ibm
+    level: gold
+  - id: arista
+    level: gold
+  - id: servicenow
+    level: silver
 
 sponsors_accepted : "yes"
 
