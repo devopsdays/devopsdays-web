@@ -33,8 +33,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
 <tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>5 minutes on stage to the entire audience post keynote</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>booth/table space</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>shared table for swag</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
 </table>
 <hr/>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
