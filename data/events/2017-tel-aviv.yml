@@ -122,6 +122,8 @@ sponsor_levels:
     label: Media
   - id: lunch
     label: Lunch
+  - id: breakfast
+    label: breakfast
   - id: coffee
     label: Coffee
   - id: happyhour
