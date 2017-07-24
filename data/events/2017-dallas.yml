@@ -65,18 +65,9 @@ team_members: # Name is the only required field for team members.
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
 #   facebook:
-#   website: ""
-#   github: ""
+    website: "http://particle41.com"
+    github: "benjohnson77"
     image: "ben.jpg"
-#  - name: "Cory Forsythe"
-#    employer: "Capital One"
-#    bio: "Cory Forsythe is a Software Manager and DevOps evangelist working with Capital One’s Auto Finance teams. With a background in traditional .Net development in the healthcare and natural gas industries, he has worked to evolve his skillset toward more modern cloud-first architecture and serverless computing. Having spent some time working directly with Amazon, Cory is a proponent of the AWS Cloud and the infrastructure services provided within. Cory invests time heavily in the study of industry CI/CD tooling and test automation and is looking forward to hearing what great advances in practice come out of our DFW organizations in 2017."
-#    twitter: "CoryForsythe"
-#    linkedin: "https://www.linkedin.com/in/123123214cf/"
-#    facebook: ""
-#    website: ""
-#    github: ""
-#    image: "cory.jpg"
   - name: "Gokul Sridharan"
     employer: "CA Technologies"
     bio: "Gokul Sridharan, is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
@@ -155,6 +146,8 @@ sponsors:
   - id: verizon
     level: platinum
   - id: appdynamics
+    level: platinum
+  - id: dell
     level: platinum
   - id: pivotal
     level: gold
@@ -374,27 +367,27 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "david-laulusa"
-    date: 2017-08-29
-  - title: "david-brown"
-    date: 2017-08-29
   - title: "michael-cote"
     date: 2017-08-29
-  - title: "rob-hirschfeld"
+  - title: "karen-odegaard"
     date: 2017-08-29
+  - title: "david-laulusa"
+    date: 2017-08-29
+  - title: "pete-chestna"
+    date: 2017-08-29
+  - title: "jane-prusakova"
+    date: 2017-08-29
+  - title: "TBA"
+    date: 2017-08-29
+  - title: "franklin-mosley"
+    date: 2017-08-30
+  - title: "emily-freeman"
+    date: 2017-08-30
   - title: "lucas-harms"
-    date: 2017-08-29
-  - title: "TBA"
-    date: 2017-08-29
-  - title: "TBA"
     date: 2017-08-30
   - title: "TBA"
     date: 2017-08-30
-  - title: "TBA"
+  - title: "david-brown"
     date: 2017-08-30
-  - title: "TBA"
-    date: 2017-08-30
-  - title: "TBA"
-    date: 2017-08-30        
-  - title: "TBA"
+  - title: "rob-hirschfeld"
     date: 2017-08-30
