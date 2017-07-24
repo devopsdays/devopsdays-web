@@ -15,7 +15,6 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<!--
 <hr/>
 
 <div style="width:590px">
@@ -23,8 +22,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tr>
     <th><i>packages</i></th>
     <th><center><b><u>Silver<br />2500 USD</u></center></b></th>
-    <th><center><b><u>Gold<br />7500 USD</u></center></b></th>
-    <th><center><b><u>Platinum<br />15000 USD</u></center></b></th>
+    <th><center><b><u>Gold<br />7000 USD</u></center></b></th>
+    <th><center><b><u>Platinum<br />12000 USD</u></center></b></th>
     <th></th>
   </tr>
 <tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
@@ -32,7 +31,6 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
 <tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
 <tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
@@ -40,27 +38,24 @@ The best thing to do is send engineers to interact with the experts at devopsday
 </table>
 <hr/>
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
+Current openings:
+
+Sponsor morning pastries! Cover the cost of morning pastries, the first thing people see in the morning, and brand it with your logo.
+
+Sponsor Lunch! Cover lunch costs and you can brand it.
+
+Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.
+
+Sponsor Happy hour! You bring and operate Happy hour. Bring your own beer, snacks and any other creative idea you can think of.
+
+Sponsor the WIFI! You get your name on the SSID.
+
+Room specific branding:
+You can brand one (or more) of the lecture halls with your company logo.
+
+
 <br/>
 <br/>
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
 
--->
 <hr/>
