@@ -102,3 +102,7 @@ August 3: Config Mgmt Camp + Container Days
 
 
 {{< event_twitter >}}
+<hr>
+We're pleased to announce [IGNW](http://www.ignw.io) as a platinum sponsor of our conference:
+
+*IGNW’s Dev/Ops, Hybrid IT, App Mod, CI/CD, IaC Automation and SI Practices combine our deep TECHNICAL domain expertise with an insanely powerful ability to execute against your most important business priorities TODAY.  Big name consulting firms dig deep into your business- and dig deep into your budget. Our Agile Practice Area Frameworks get you the business results you need RIGHT NOW without wasting time and resources telling you what you already know. WE build; YOU transform!*
