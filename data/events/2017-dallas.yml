@@ -147,7 +147,7 @@ sponsors:
     level: platinum
   - id: appdynamics
     level: platinum
-  - id: dell
+  - id: dellemc
     level: platinum
   - id: pivotal
     level: gold
@@ -355,8 +355,8 @@ program:
     date: 2017-08-30
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Open Space #2"
-    type: open-space
+  - title: "SPEAKER DISCUSSION PANEL"
+    type: custom
     date: 2017-08-30
     start_time: "16:00"
     end_time: "16:45"
