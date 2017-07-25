@@ -7,7 +7,7 @@ type = "event"
 
 <hr>
 
-##Idiomas oficiales para propuestas/Official languages for Proposals: 
+## Idiomas oficiales para propuestas/Official languages for Proposals: 
   - Spanish
   - English
   
