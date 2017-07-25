@@ -144,6 +144,8 @@ sponsors:
     level: platinum
   - id: digitalocean
     level: platinum
+  - id: hackernest
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -162,6 +164,8 @@ sponsor_levels:
 
   - id: recruiting
     label: Recruiting
+  - id: community
+    label: Community
 
 
 program:
