@@ -63,10 +63,14 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: instana
+    level: silver
   - id: systemfrontier
     level: silver
   - id: eventbrite
     level: bronze
+  - id: juiceanalytics
+    level: alacarte
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

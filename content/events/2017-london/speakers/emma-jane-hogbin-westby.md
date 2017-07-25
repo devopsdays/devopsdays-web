@@ -1,6 +1,6 @@
 +++
 Title = "Emma Jane Hogbin Westby"
-Twitter = "emmajane"
+Twitter = "emmajanehw"
 image = "emma-jane-hogbin-westby.png"
 type = "speaker"
 linktitle = "Humane Teams At Home and Around the World"

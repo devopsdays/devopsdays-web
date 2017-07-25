@@ -15,7 +15,7 @@ The official DevOpsDays DC 2017 hotel is the
 **Hyatt Regency Tysons Corner**. We have secured a special $199.00 rate
 for attendees. [Book Online](https://aws.passkey.com/go/dctechcommunitychampions)
 now or call 888-421-1442. The deadline for reservations to get this
-special rate has been extended to _Monday, July 3._
+special rate has been extended to _Friday, July 7._
 
 Hyatt Regency Tysons Corner<br>
 7901 Tysons One Place<br>

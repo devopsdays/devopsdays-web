@@ -32,6 +32,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
   - name: location
   - name: registration
+  - name: speakers
   - name: volunteer
     icon: heart-o
   - name: sponsor
@@ -144,6 +145,12 @@ sponsors:
   - id: tech-month-chicago
     level: community
   - id: market-research-media-chicago
+    level: community
+  - id: morpheus_data
+    level: gold
+  - id: cloudbolt
+    level: gold
+  - id: writespeakcode
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

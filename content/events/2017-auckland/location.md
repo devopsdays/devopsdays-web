@@ -6,7 +6,7 @@ Description = "DevOpsDays Auckland 2017 will be taking place at the Ellerslie Ev
 
 The event will be taking place at the Ellerslie Event Centre.
 
-Ellerslie Event Centre is within the grounds of Ellerslie Racecourse and is easily accessible by car (see [parking information] (http://www.eventcentre.ellerslie.co.nz/parking)), bus or train. 
+Ellerslie Event Centre is within the grounds of Ellerslie Racecourse and is easily accessible by car (see [parking information] (http://www.eventcentre.ellerslie.co.nz/parking)), bus or train.
 
 
 For up-to-date directions to the venue, please refer to the [Ellerslie Event Centre website](http://www.eventcentre.ellerslie.co.nz/getting-to-ellerslie-event-centre).

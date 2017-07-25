@@ -127,8 +127,19 @@ sponsors:
       level: cmccd
     - id: tripwire
       level: bronze
+    - id: gocd
+      level: silver
+    - id: pagerduty
+      level: gold
+    - id: newrelic
+      level: gold
+    - id: bitnami
+      level: bronze
+    - id: microsoft
+      level: bronze
+      twitter: '@vsts'
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -197,7 +208,7 @@ program:
     date: 2017-08-01
     start_time: "11:10"
     end_time: "11:20"
-  - title: "greg-poirier"
+  - title: "amye-scavarda"
     type: talk
     date: 2017-08-01
     start_time: "11:20"
