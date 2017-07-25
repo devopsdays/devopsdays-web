@@ -56,6 +56,8 @@ sponsors:
   # silver
   - id: askfm
     level: silver
+  - id: redhat
+    level: silver
   # addons
   - id: accenture-latvia
     level: venue
