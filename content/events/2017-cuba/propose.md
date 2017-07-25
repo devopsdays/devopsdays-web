@@ -7,6 +7,10 @@ type = "event"
 
 <hr>
 
+##Idiomas oficiales para propuestas/Official languages for Proposals: 
+  - Spanish
+  - English
+  
 Estamos complacidos por su interés de participar como ponente en nuestro evento, DevOpsDays Cuba 2017. Le damos la bienvenida !!!. / *We’re excited that you want to be a speaker at our event, DevOpsDays Cuba 2017. Be welcome !!!*
 
 El comité organizador hace oficial la apertura del CFP. Estamos buscando presentaciones en los siguientes formatos / *The organizer team of DevOpsDays Cuba officially opens CFP. We are interesting in the following types of presentations* :

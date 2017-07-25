@@ -18,20 +18,6 @@ Participe y comparta en 4 días de conferencias, charlas, workshops intercambian
 
 ----------
 
-**Por qué participar? / Why Attend?**
-
- - Si está en el gobierno, academia o es parte del sector privado, DevOpsDays es para usted. / *Whether you’re in government, academia, or the private sector, DevOpsDays is for you.* 
-
- - Si está en operaciones, desarrollo, calidad, seguridad u otro departamento, DevOpsDays es para usted. / *Whether you’re in operations, development, QA, security, or any other department, DevOpsDays is for you.*
-
- - Si desea aprender sobre **DevOps**, compartir sus experiencias o simplemente hablar con profesionales del DevOps, DevOpsDays es para usted. / * Whether you want to learn about DevOps, share your experiences, or just talk shop with DevOps practitioners, DevOpsDays is for you.
-
-<a href="/events/2017-cuba/about">Más../ *More...*</a>
-  
-  
-  
-  
-
 <img style="float: left; max-width: 300px; padding: 0px 20px 20px 0px" src="/events/2017-cuba/logo.png">
 
 <!-- <div style="text-align:center;">
