@@ -388,11 +388,6 @@ program:
     end_time: "09:50"
 
 
-  - title: "Sponsors"
-    type: custom
-    date: 2017-08-02
-    start_time: "09:50"
-    end_time: "09:55"
 
   - title: "max-timchenko"
     type: talk
@@ -437,7 +432,7 @@ program:
     end_time: "12:00"
     background_color:  "#42f1f4"
 
-  - title: "john-willis"
+  - title: "dustin-kirkland"
     type: talk
     date: 2017-08-03
     start_time: "11:25"
