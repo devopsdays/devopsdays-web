@@ -201,6 +201,11 @@ program:
     date: 2017-09-18
     start_time: "09:50"
     end_time: "10:25"
+  - title: "chloe-condon"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:50"
+    end_time: "10:25"
   - title: "Break"
     type: custom
     date: 2017-09-18
@@ -211,7 +216,17 @@ program:
     date: 2017-09-18
     start_time: "10:40"
     end_time: "11:15"
+  - title: "TBD"
+    type: custom
+    date: 2017-09-18
+    start_time: "10:40"
+    end_time: "11:15"
   - title: "franklin-mosley"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "tom-mclaughlin"
     type: talk
     date: 2017-09-18
     start_time: "11:20"
@@ -221,116 +236,151 @@ program:
     date: 2017-09-18
     start_time: "11:50"
     end_time: "13:00"
-  - title: "david-blank-edelman"
+  - title: "david-n-blankedelman"
     type: talk
-    date: 2017-09-19
-    start_time: "01:00"
-    end_time: "01:15"
-  
-  - title: "Open Space Opening"
-    type: custom
     date: 2017-09-18
-    start_time: "13:30"
+    start_time: "13:00"
+    end_time: "13:15"
+  - title: "amy-hailes"
+    type: talk
+    date: 2017-09-18
+    start_time: "13:15"
     end_time: "14:00"
-  - title: "Open Space #1"
+  - title: "break"
     type: custom
     date: 2017-09-18
     start_time: "14:00"
-    end_time: "14:45"
+    end_time: "14:15"
+  - title: "corey-quinn"
+    type: talk
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "flynn"
+    type: talk
+    date: 2017-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-09-18
+    start_time: "17:00"
+    end_time: "late"
+  
+  - title: "Open Space #1"
+    type: custom
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Open Space #2"
     type: custom
     date: 2017-09-18
     start_time: "15:00"
-    end_time: "15:45"
+    end_time: "16:00"
   - title: "Open Space #3"
     type: custom
     date: 2017-09-18
     start_time: "16:00"
     end_time: "16:45"
-  
-  - title: "Close Day"
-    type: custom
-    date: 2017-09-18
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening event"
-    type: custom
-    date: 2017-09-18
-    start_time: "19:00"
-    end_time: "late"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2017-09-19
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Introduction"
     type: custom
     date: 2017-09-19
     start_time: "09:00"
-    end_time: "09:15"
-  
-  - title: "Sponsors"
-    type: custom
-    date: 2017-09-19
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "amy-hailes-et-al"
+    end_time: "09:10"
+  - title: "yulan-lin"
     type: talk
     date: 2017-09-19
-    start_time: "09:55"
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "leon-fayer"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "adam-kaufman"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:50"
     end_time: "10:25"
   - title: "Break"
     type: custom
     date: 2017-09-19
     start_time: "10:25"
     end_time: "10:40"
-  - title: "corey-quinn"
+  - title: "rachael-byrne"
     type: talk
     date: 2017-09-19
     start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
+    end_time: "11:15"
+  - title: "ed-rousseau"
+    type: talk
     date: 2017-09-19
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "flynn"
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "michael-sacks"
     type: talk
     date: 2017-09-19
     start_time: "11:20"
-    end_time: "11:50"
+    end_time: "11:55"
+  - title: "john-sawers"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:20"
+    end_time: "11:55"
   - title: "Lunch"
     type: custom
     date: 2017-09-19
-    start_time: "11:50"
+    start_time: "11:55"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "TBD"
     type: custom
     date: 2017-09-19
     start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
+    end_time: "13:45"
+  - title: "alizishaan-khatri"
+    type: talk
+    date: 2017-09-19
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "TBD"
     type: custom
     date: 2017-09-19
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "richard-li"
+    type: talk
+    date: 2017-09-19
+    start_time: "15:10"
+    end_time: "15:55"
+  - title: "phil-lombardi"
+    type: talk
+    date: 2017-09-19
+    start_time: "16:00"
+    end_time: "16:45"
+  
   - title: "Open Space #1"
     type: custom
     date: 2017-09-19
-    start_time: "14:00"
-    end_time: "14:45"
+    start_time: "13:45"
+    end_time: "2:30"
   - title: "Open Space #2"
     type: custom
     date: 2017-09-19
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "14:30"
+    end_time: "15:10"
   - title: "Open Space #3"
+    type: custom
+    date: 2017-09-19
+    start_time: "15:10"
+    end_time: "15:55"
+  - title: "Open Space #4"
     type: custom
     date: 2017-09-19
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2017-09-19
-    start_time: "16:45"
-    end_time: "17:00"
