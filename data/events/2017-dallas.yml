@@ -169,13 +169,15 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: hpe
+    level: gold
   - id: alertlogic
     level: silver
   - id: arresteddevops
     level: community
   - id: devopslive
     level: community
-  - id: addo2017
+  - id: 2017-addo
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
