@@ -151,8 +151,8 @@ sponsors:
       level: cmccd
     - id: netapp
       level: silver
-    - id: netapp
-      level: cmccd
+    - id: ibm
+      level: coffee
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -181,6 +181,8 @@ sponsor_levels:
     label: Community
   - id: cmccd
     label: "ConfigMgmtCamp and Container Days"
+  - id: coffee
+    label: "Event Coffee"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
