@@ -169,8 +169,6 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
-  - id: hpe
-    level: gold
   - id: alertlogic
     level: silver
   - id: arresteddevops
