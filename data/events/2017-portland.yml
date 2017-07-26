@@ -157,6 +157,8 @@ sponsors:
       level: coffee
     - id:  atmosera
       level: event
+    - id:  puppet
+      level: event
 
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
