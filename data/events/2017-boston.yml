@@ -144,7 +144,7 @@ sponsors:
     level: platinum
   - id: 2017-digitalocean
     level: platinum
-  - id: hackernest
+  - id: hackernest-bos
     level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -167,18 +167,6 @@ sponsor_levels:
   - id: community
     label: Community
 
-
-program:
-  - title: "Registration, Breakfast, and Sponsor Booths Open"
-    type: custom
-    date: 2017-09-17
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Keynote - Rob Cummings - Settlers of DevOps: Down with the Tyranny of Architecture Governance"
-    type: talk
-    date: 2017-09-17
-    start_time: "09:10"
-    end_time: "09:45"
     
 program:
   - title: "Registration, Breakfast, Sponsors"
