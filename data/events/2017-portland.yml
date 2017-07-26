@@ -155,6 +155,9 @@ sponsors:
       level: cmccd
     - id: ibm
       level: coffee
+    - id:  atmosera
+      level: event
+
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
