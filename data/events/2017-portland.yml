@@ -151,6 +151,8 @@ sponsors:
       level: cmccd
     - id: netapp
       level: silver
+    - id: netapp
+      level: cmccd
     - id: ibm
       level: coffee
 
