@@ -4,14 +4,13 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Application Automation & Containerization with Habitat"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/nathenharvey/application-automation-and-containerization-with-habitat"
 Speakers = ["nicole-johnson", "nathen-harvey"]
 +++
 
 Habitat builds and manages modern applications following the practices and principles of modern application teams.  Build applications of any flavor, from microservices to traditional applications.  Deploy applications in any operational environment from bare metal to containers.  Habitat provides consistent, repeatable, auditable applications that lower operational complexity and simplify development workflows.
 
 This hands-on workshop is for anyone involved in building, deploying, or managing applications.  The workshop will give you experience running and building applications with Habitat and describe the application-first approach that Habitat provides.  Find out more at [habitat.sh](https://habitat.sh).
-
-[Slides from this workshop are available on Slideshare](https://speakerdeck.com/nathenharvey/application-automation-and-containerization-with-habitat).
 
 Prerequisites
 
