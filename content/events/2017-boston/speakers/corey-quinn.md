@@ -1,18 +1,12 @@
 +++
 Title = "Corey Quinn"
-Twitter = ""
-image = "corey-quinn.jpg"
+Twitter = "quinnypig"
 type = "speaker"
+image = "corey-quinn.jpg"
 linktitle = "corey-quinn"
-
+website = "https://quinnadvisory.com/"
 +++
+Corey is a Cloud Economist at quinnadvisory.com, which helps companies large and small with their horrifying AWS bills. He also runs lastweekinaws.com, a newsletter blending snark with weekly happenings in Amazon’s cloud ecosystem.
 
-Principal at The Quinn Advisory Group, Corey has a history as an
-engineering manager, public speaker, and advocate for business
-resilience through processes that aren't actively ridiculous. He
-specializes in helping FinTech companies leverage cloud technologies
-while managing and mitigating risk.
+He can frequently be seen giving talks about Docker, git, configuration management, and the finer points of DevOps culture.
 
-Outside of his professional work, Corey is known for overdressing,
-telling entertaining stories, and carrying a cigarette case full of
-drink umbrellas.
