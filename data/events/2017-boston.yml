@@ -136,11 +136,13 @@ sponsors:
     level: gold
   - id: treasuredata
     level: gold
+  - id: genians
+    level: gold
   - id: treasuredata
     level: recruiting
   - id: opsgenie
     level: platinum
-  - id: thoughtworks-services
+  - id: gocd
     level: platinum
   - id: 2017-digitalocean
     level: platinum
