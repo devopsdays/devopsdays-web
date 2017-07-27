@@ -82,7 +82,9 @@ Description = "devopsdays Brasilia 2017"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+
+<a class="btn btn-primary btn-xs fa fa-slack" type="button"
+   href="https://join.slack.com/t/devopsdaysbrasilia/shared_invite/MjE2MjY0NDc4MDk5LTE1MDA3MzQzNDEtNTEyMGQ0MmNjNA">
+  Slack connect
+</a>![QR Code](http://devopsdays.bsb.br/img/slack-qrchart.png)
