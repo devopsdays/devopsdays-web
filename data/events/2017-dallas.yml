@@ -172,7 +172,9 @@ sponsors:
   - id: alertlogic
     level: silver
   - id: arresteddevops
-    level: community
+    level: media
+  - id: devopsdotcom
+    level: media
   - id: devopslive
     level: community
   - id: 2017-addo
@@ -200,6 +202,8 @@ sponsor_levels:
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
   - id: community
     label: Community
     max: 5
