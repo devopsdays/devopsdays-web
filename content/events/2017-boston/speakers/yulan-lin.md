@@ -1,7 +1,7 @@
 +++
 Title = "Yulan Lin"
 Twitter = "y3l2n"
-
+image="yulan_lin.jpg"
 type = "speaker"
 linktitle = "yulan-lin"
 website = "https://y3l2n.com/"
