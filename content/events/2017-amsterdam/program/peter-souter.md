@@ -3,6 +3,9 @@ Title = "Secret Management in the world of Infrastructure as Code"
 Type = "talk"
 Speakers = ["peter-souter"]
 aliases = ["/events/2017-amsterdam/program/peter-souter/"]
+youtube = "https://www.youtube.com/watch?v=N_FpvLcdUpw"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Peter_Souter-Secret_Management_in_the_world_of_Infrastructure_as_Code.pdf"
 +++
 
 Config management tools have revolutionized how machines are managed, making it easy to keep your estate in infrastructure-as-code form. People can write code to modify your estate, and that can be treated in the same way as your regular code: CI, code review, and have unit and acceptance testing.
