@@ -6,6 +6,7 @@ Description = "devopsdays Brasilia 2017"
 +++
 
 ## Our hotsite in Portuguese [devopsdays.bsb.br](http://devopsdays.bsb.br)
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
@@ -87,4 +88,4 @@ Description = "devopsdays Brasilia 2017"
 <a class="btn btn-primary btn-xs fa fa-slack" type="button"
    href="https://join.slack.com/t/devopsdaysbrasilia/shared_invite/MjE2MjY0NDc4MDk5LTE1MDA3MzQzNDEtNTEyMGQ0MmNjNA">
   Slack connect
-</a>![QR Code](http://devopsdays.bsb.br/img/slack-qrchart.png)
+</a>![QR Code](/events/2017-brasilia/slack-qrchart.png)
