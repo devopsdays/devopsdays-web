@@ -58,6 +58,10 @@ sponsors:
     level: gold
   - id: hpe
     level: gold
+  - id: gocd
+    level: gold
+  - id: signifai
+    level: gold
   - id: arresteddevops
     level: community
   - id: perfbytes
