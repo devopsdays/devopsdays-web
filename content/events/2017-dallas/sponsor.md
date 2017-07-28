@@ -1,8 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "sponsor"
+title = "Sponsor"
 type = "event"
-
+description = "Interested in sponsoring DevOpsDays Dallas 2017? We greatly value sponsors for this open event and could not do it without their support."
 
 +++
 
@@ -68,12 +68,12 @@ This year we have the privilege of hosting devopsdays DFW at Capital One Confere
       </td>
       <td >
       <center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<!--        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="VZT48NR758M6A">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+          <input type="hidden" name="hosted_button_id" value="VZT48NR758M6A"> -->
+          <input type="image" src="/events/2017-dallas/sold-out.png" border="0" name="submit" alt="Sorry - Sold Out"> 
+          <img alt="Sorry - Sold Out" border="0" src="/events/2017-dallas/sold-out.png" width="1" height="1">
+        </form> 
         </center>
       </td>
     </tr>
@@ -102,7 +102,11 @@ This year we have the privilege of hosting devopsdays DFW at Capital One Confere
       <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
     </tr>
     <tr>
-      <td>Logo on website <br />      Logo on main room signage <br />      Logo on email communication      </td>      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+      <td>Logo on website <br />
+      Logo on main room signage <br />
+      Logo on email communication
+      </td>
+      <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
       <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
       <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
     </tr>

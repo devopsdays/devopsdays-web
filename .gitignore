@@ -57,8 +57,13 @@ increase_ulimit.sh
 
 #Intellij Idea Project file
 *.iml
+.idea/*
+
 
 #Vim
 *~
 *.swp
 *.swo
+
+# Visual Studio Code
+.vscode/

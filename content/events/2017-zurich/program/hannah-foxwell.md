@@ -9,8 +9,8 @@ title = "Tech is easy. Humans are hard."
 type = "talk"
 speakers = ["hannah-foxwell"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "218690958"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-1-hannah-foxwell-tech-is-easy-humans-are-hard"
 slideshare = ""
 slides = ""
 +++

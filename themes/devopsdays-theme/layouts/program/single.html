@@ -1,252 +1,146 @@
 {{ define "main" }}
+  <h2>Program</h2>
 
-<h2>Program</h2>
+  {{ .Content }}
 
-{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
+  {{- $.Scratch.Set "first" "true" -}}
 
-{{ if $e.startdate }}
+  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
 
-<div class="row">
-    <!-- enclosing div -->
-    <div class="col-md-12">
-        <!-- main content -->
-
-{{- range where $.Site.Pages "Type" "talk" -}}
-  {{- $talk_path := split .File.Path .Site.Params.PathSeparator -}}
-  {{- $talk_slug := index $talk_path 1 -}}
-  {{- if eq $talk_slug $event_slug -}}
-    {{- $.Scratch.Set "base_file_name" .File.BaseFileName }}
+  {{- if $e.startdate -}}
+  {{- range where $.Site.Pages "Type" "talk" -}}
+  {{/* {{- $talk_path := split .File.Path .Site.Params.PathSeparator -}} */}}
+  {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
+    {{- $.Scratch.Set "base_file_name" .File.BaseFileName -}}
     {{- $.Scratch.Set .File.BaseFileName .Title -}}
-    {{ if isset .Params "speakers" }}
-      {{ if ne .Params.speakers ""}}
-        {{ $.Scratch.Set "speaker_len" (.Params.speakers | len) }}
-        {{ $.Scratch.Set "speaker_count" 0 }}
-      {{ end }}
-    {{ end }}
-    {{- range .Params.speakers -}}
-      {{ $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1)}}
-      {{ $.Scratch.Set "speakername" . }}
-      {{- range where $.Site.Pages "Type" "speaker" -}}
-        {{- $speaker_path := split .File.Path .Site.Params.PathSeparator -}}
-        {{- $speaker_slug := index $speaker_path 1 -}}
-        {{- if eq $speaker_slug $event_slug -}}
-          {{ if eq .File.BaseFileName ($.Scratch.Get "speakername") }}
-            {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) .Title -}}
-            {{- if ne ($.Scratch.Get "speaker_count") ($.Scratch.Get "speaker_len") -}}
-              {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) ", " -}}
-            {{- end -}}
-          {{ end }}
-        {{- end -}} <!-- end if eq $speaker_slug $event_slug -->
-      {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
-    {{- end -}}<!-- end ranging over speakers -->
-
-  {{- end -}} <!-- end if eq $talk_slug $event_slug -->
-{{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
-
-<!-- begin the program -->
-<div id="accordion" role="tablist" aria-multiselectable="true">
-
-  <div class="card">
-    <div class="card-header" role="tab" id="headingOne">
-      <h5 class="mb-0">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseDayOne" aria-expanded="true" aria-controls="collapseDayOne">
-          {{- dateFormat "January 2, 2006" $e.startdate -}}
-        </a>
-      </h5>
-    </div>
-
-    <div id="collapseDayOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
-      <div class="card-block">
-        <div class = "row">
-          <div class = "col-md-6"><!-- first column -->
-              {{ with $e }}
-              {{ if .program }}
-                  {{ $program := (where .program "date" $e.startdate) }}
-                  {{ $program_len := (len $program) }}
-                  {{- $.Scratch.Set "program_len" $program_len -}}
-                  {{- $.Scratch.Set "program_counter" 0 -}}
-                  {{- range where .program "date" $e.startdate -}}
-                    {{- $.Scratch.Set "program_counter" (add ($.Scratch.Get "program_counter") 1) }}
-                    <div class = "row">
-                      <div class = "col-md-6">
-                        {{ .start_time }} - {{ .end_time }}
-                      </div>
-                      <div class = "col-md-6">
-                        {{ if eq .type "custom" }}
-                          {{ .title }}<br />
-                          {{ if .comments }}
-                            <span class = "program-page-desc">{{ .comments | markdownify }}<br /></span>
-                          {{ end }}
-                        {{ else }}
-                        <a href = "/events/{{ $event_slug}}/program/{{ .title }}">
-                          {{ $.Scratch.Get (printf "%s-speaker" .title) }} -
-                          {{ $.Scratch.Get .title }}
-                        </a><br />
-                        {{ end }}
-                      </div>
-                    </div>
-                    {{- if eq (div ($.Scratch.Get "program_len") 2) ($.Scratch.Get "program_counter") }}
-                    </div>
-                    <div class = "col-md-6">
-                    {{- end -}}
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-      </div>
-    </div>
-  </div>
-
-      </div>
-    </div>
-  <!--show second page if not a one-day event -->
-  {{ if ne $e.startdate $e.enddate}}
-  <div class="card">
-    <div class="card-header" role="tab" id="headingTwo">
-      <h5 class="mb-0">
-        <a data-toggle="collapse" data-parent="#accordion" href="#collapseDayTwo" aria-expanded="true" aria-controls="collapseDayTwo">
-          {{- dateFormat "January 2, 2006" $e.enddate -}}
-        </a>
-      </h5>
-    </div>
-
-    <div id="collapseDayTwo" class="collapse show" role="tabpanel" aria-labelledby="headingTwo">
-      <div class="card-block">
-        <div class = "row">
-          <div class = "col-md-6"><!-- first column -->
-              {{ with $e }}
-              {{ if .program }}
-                  {{ $program := (where .program "date" $e.enddate) }}
-                  {{ $program_len := (len $program) }}
-                  {{- $.Scratch.Set "program_len" $program_len -}}
-                  {{- $.Scratch.Set "program_counter" 0 -}}
-                  {{- range where .program "date" $e.enddate -}}
-                    {{- $.Scratch.Set "program_counter" (add ($.Scratch.Get "program_counter") 1) }}
-                    <div class = "row">
-                      <div class = "col-md-6">
-                        {{ .start_time }} - {{ .end_time }}
-                      </div>
-                      <div class = "col-md-6">
-                        {{ if eq .type "custom" }}
-                          {{ .title }}<br />
-                        {{ else }}
-                        <a href = "/events/{{ $event_slug}}/program/{{ .title }}">
-                          {{ $.Scratch.Get (printf "%s-speaker" .title) }} -
-                          {{ $.Scratch.Get .title }}
-                        </a><br />
-                        {{ end }}
-                      </div>
-                    </div>
-                    {{- if eq (div ($.Scratch.Get "program_len") 2) ($.Scratch.Get "program_counter") }}
-                    </div>
-                    <div class = "col-md-6">
-                    {{- end -}}
-                  {{ end }}
-                {{ end }}
-              {{ end }}
-      </div>
-    </div>
-  </div>
-
-      </div>
-    </div>
-
-      </div>
-    </div>
-  </div>
-  <!-- end the program -->
-{{ end }}
-
-<!--begin ignites -->
-{{ with $e }}
-  {{ if .ignites }}
-    <div class = "row">
-      <div class = "col-md-12">
-        <h3 class = "program-page">Ignite Sessions</h3>
-      </div>
-    </div>
-    <div class = "row">
-      <div class = "col-md-6">
-        <h4>{{- dateFormat "January 2, 2006" $e.startdate -}}</h4>
-        <div class = "row">
-          <div class = "col-md-6">
-            <ul>
-    {{ $ignites := (where .ignites "date" $e.startdate) }}
-    {{ $ignites_len := (len $ignites) }}
-    {{- $.Scratch.Set "ignites_len" $ignites_len -}}
-    {{- $.Scratch.Set "ignites_counter" 0 -}}
-    {{- range where .ignites "date" $e.startdate -}}
-      {{- $.Scratch.Set "ignites_counter" (add ($.Scratch.Get "ignites_counter") 1) }}
-
-        {{ if ($.Scratch.Get .title) }}
-              <li>
-                <a href = "/events/{{ $event_slug}}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} -
-                {{ $.Scratch.Get .title }}</a>
-              </li>
-          {{ else }}
-            <li>
-              {{.title}}
-            </li>
-          {{ end }}
-              {{- end -}}
-            </ul>
-          </div>
-        </div>
-        {{- if eq (div ($.Scratch.Get "ignites_len") 2) ($.Scratch.Get "ignites_counter") }}
-        </div>
-        <div class = "col-md-6">
-        {{- end -}}
-      </div>
-
-
-      <!--show second page if not a one-day event -->
-      {{ if ne $e.startdate $e.enddate}}
-      <div class = "col-md-6">
-        <h4>{{- dateFormat "January 2, 2006" $e.enddate -}}</h4>
-        <div class = "row">
-          <div class = "col-md-6">
-            <ul>
-              {{ $ignites := (where .ignites "date" $e.enddate) }}
-              {{ $ignites_len := (len $ignites) }}
-              {{- $.Scratch.Set "ignites_len" $ignites_len -}}
-              {{- $.Scratch.Set "ignites_counter" 0 -}}
-              {{- range where .ignites "date" $e.enddate -}}
-                {{- $.Scratch.Set "ignites_counter" (add ($.Scratch.Get "ignites_counter") 1) }}
-
-                {{ if ($.Scratch.Get .title) }}
-                  <li>
-                    <a href = "/events/{{ $event_slug}}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} -
-                    {{ $.Scratch.Get .title }}</a>
-                  </li>
-                  {{ else }}
-                    <li>
-                      {{.title}}
-                    </li>
-                {{- end -}}
-              {{- end -}}
-            </ul>
-          </div>
-        </div>
-        {{- if eq (div ($.Scratch.Get "ignites_len") 2) ($.Scratch.Get "ignites_counter") }}
-        </div>
-        <div class = "col-md-6">
-        {{- end -}}
-      </div>
-      {{ end }}
-
-    </div>
-
-  <!-- end ignites -->
+    {{- if isset .Params "speakers" -}}
+      {{- if ne .Params.speakers "" -}}
+        {{- $.Scratch.Set "speaker_len" (.Params.speakers | len) -}}
+        {{- $.Scratch.Set "speaker_count" 0 -}}
+      {{- end -}}
   {{- end -}}
+  {{- range .Params.speakers -}}
+  {{- $.Scratch.Set "speaker_count" (add ($.Scratch.Get "speaker_count") 1) -}}
+  {{- $.Scratch.Set "speakername" . -}}
+  {{- range where $.Site.Pages "Type" "speaker" -}}
+  {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
+  {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
+    {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) .Title -}}
+    {{- if ne ($.Scratch.Get "speaker_count") ($.Scratch.Get "speaker_len") -}}
+    {{- $.Scratch.Add (printf "%s-speaker" ($.Scratch.Get "base_file_name")) ", " -}}
+    {{- end -}}
+  {{- end -}}
+  {{- end -}}
+  <!-- end if eq $speaker_slug $e.name -->
+  {{- end -}}
+  <!-- end range where $.Site.Pages "Type" "speaker" -->
+  {{- end -}}
+  <!-- end ranging over speakers -->
+  {{- end -}}
+  <!-- end if eq $talk_slug $e.name -->
+  {{- end -}}
+  <!-- end range where $.Site.Pages "Type" "speaker" -->
+    <!-- Get the dates for the program -->
+    {{- with $e -}}
+      {{- range .program -}}
+        {{- $.Scratch.SetInMap "dates" .date .date -}}
+      {{- end -}}
+    {{- end -}}
+  <!-- new experimental program end -->
+  <div class="row">
+    <div class="col">
+      <div id="accordion" role="tablist" aria-multiselectable="true">
+  {{- range ($.Scratch.GetSortedMapValues "dates") -}}
+    {{- $.Scratch.Set "date" . -}}
+            {{- with $e -}}
+              {{- if .program -}}
+              <div class="card">
+                <div class="card-header" role="tab" id="{{printf "headingOne-%s" ($.Scratch.Get "date") }}">
+                  <h5 class="mb-0">
+                      {{- dateFormat "January 2, 2006" ($.Scratch.Get "date") -}}
+                    </a>
+                  </h5>
+                </div>
+
+                <div id="{{printf "#collapse-%s" ($.Scratch.Get "date") }}" class="collapse show" role="tabpanel" aria-labelledby="{{printf "headingOne-%s" ($.Scratch.Get "date") }}">
+                  <div class="card-block">
+                    <div class="row">
+                      <div class="col-lg-6">
+                        {{- $program := (where .program "date" ($.Scratch.Get "date")) -}}
+                        {{- $program_len := (len $program) -}}
+                        {{- $.Scratch.Set "program_len" $program_len -}}
+                        {{- $.Scratch.Set "program_counter" 0 -}}
+                        {{- range where .program "date" ($.Scratch.Get "date") -}}
+                        {{- $.Scratch.Set "program_counter" (add ($.Scratch.Get "program_counter") 1) -}}
+                        <div class = "row program-row">
+                          <div class="col-lg-3 col-md-3 program-element {{ printf "program-%s" .type }}" {{ if .background_color }}style="background-color: {{ .background_color }}"{{end}}>
+                            {{ .start_time }}
+                            -
+                            {{ .end_time }}
+                          </div>
+                          <div class="col-lg-8 col-md-6 program-element {{ printf "program-%s" .type }}" {{ if .background_color }}style="background-color: {{ .background_color }}"{{end}}>
+                            {{- if eq .type "custom" -}}
+                              {{ .title }}<br/>
+                              {{- if .comments -}}
+                                <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
+                              {{- end -}}
+                              {{- else if or (eq .type "talk") (eq .type "workshop") -}}
+                              <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">
+                                {{ $.Scratch.Get (printf "%s-speaker" .title) }}
+                                -
+                                {{ $.Scratch.Get .title }}
+                              </a><br/>
+                              {{- else if eq .type "ignite" -}}
+                              {{ .title }}
+                              <!-- do ignite stuff here -->
+                                {{- with $e -}}
+                                  {{- if .ignites -}}
+                                    {{- $ignites := (where $e.ignites "date" ($.Scratch.Get "date")) -}}
+                                    {{- $ignites_len := (len $ignites) -}}
+                                    {{- if ge $ignites_len 1 -}}
+                                      <ul class="list-unstyled">
+                                        {{- range where $e.ignites "date" ($.Scratch.Get "date") -}}
+                                        {{- if ($.Scratch.Get .title) -}}
+                                          <li>
+                                            <a href="/events/{{ $e.name}}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }}
+                                              -
+                                              {{ $.Scratch.Get .title }}</a>
+                                          </li>
+                                          {{- else -}}
+                                          <li>
+                                            {{.title}}
+                                          </li>
+                                        {{- end -}}
+                                        {{- end -}}
+                                    </ul>
+                                    {{- end -}}
+                                  {{- end -}}
+                                {{- end -}}
+                              <!-- end ignite stuff here -->
+                              {{- else -}}
+                                {{ .title }}
+                            {{- end -}}
+                          </div>
+                        </div>
+                        {{- if eq (div ($.Scratch.Get "program_len") 2) ($.Scratch.Get "program_counter") -}}
+                      </div>
+                      <div class="col-lg-6">
+                        {{- end -}}
+                      {{- end -}}
+                    {{- end -}}
+                  {{- end -}}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 {{- end -}}
-
-</div>{{ "<!-- close the content -->" | safeHTML }}
-
-
-</div>{{ "<!-- whole big thing -->" | safeHTML }}
-
-{{ end }}
-
+</div>
+</div>
+</div>
+<!--end row-->
+</div>
+</div>
+{{- end -}}
 
 {{ end }}

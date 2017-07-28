@@ -13,8 +13,6 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
-
 Our main criteria to make it to the top selection are:
 
 - _original content_: content not yet presented at other conferences, or a new angle to an existing problem
@@ -35,3 +33,7 @@ Our main criteria to make it to the top selection are:
 	<li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
 	<li>Multiple proposals welcome... just follow the other rules</li>
 </ul>
+
+## Submission form
+</br>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSek3VpVBSvFL0pLG6BIAgaukVc1aTTxEAhC7cqhyfi5thDu0Q/viewform?embedded=true" width="900" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

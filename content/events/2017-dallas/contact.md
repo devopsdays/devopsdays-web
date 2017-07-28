@@ -1,8 +1,8 @@
 +++
 date = "2016-12-24T11:00:07-07:00"
-title = "contact"
+title = "Contact"
 type = "event"
-Description = "Contact information for devopsdays Dallas 2017"
+description = "DevOpsDays Dallas 2017 will take place on Aug 29-30, 2017! Contact the organizers for any questions!"
 
 +++
 
@@ -16,12 +16,13 @@ Description = "Contact information for devopsdays Dallas 2017"
     </p>
   </div>
 </div>
-<hr>
-<h3>Our local team</h3>
+<br>
+
+## Our local team ##
 
 {{< list_organizers >}}
-<hr>
-<h3>The core devopsdays organizer group</h3>
+
+## The core devopsdays organizer group ##
 
 {{< list_core >}}
 

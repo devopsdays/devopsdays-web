@@ -5,12 +5,12 @@ description: # A short blurb of text to describe your event, defaults to common 
 event_twitter: "DevOpsDaysLDN"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-#startdate: 2017-04-18
-#enddate:  2017-04-19
+startdate: 2017-09-06
+enddate:  2017-09-07
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-04-20 # start accepting talk proposals.
+cfp_date_end: 2017-05-31 # close your call for proposals.
+cfp_date_announce: 2017-06-14 # inform proposers of status
 
 # Location
 #
@@ -21,13 +21,15 @@ location: "London" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
 #  - name: program
-#  - name: propose
+  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
-#  - name: registration
+  - name: location
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: speakers
+  - name: program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -51,8 +53,64 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: pivotal
     level: gold
+  - id: chef
+    level: gold
+  - id: twistlock
+    level: silver
+  - id: accenture
+    level: silver
+  - id: yelp
+    level: silver
+  - id: hotels
+    level: silver
+  - id: scalefactory
+    level: silver
+  - id: devopsguys
+    level: silver
+  - id: 4armed
+    level: bronze
+  - id: hashicorp
+    level: bronze
+  - id: nuagenetworks
+    level: bronze
+  - id: opsgenie  
+    level: gold
+  - id: skybet  
+    level: bronze    
+  - id: docker  
+    level: silver 
+  - id: xmatters  
+    level: gold
+  - id: sqreen
+    level: silver    
+  - id: gov-digital
+    level: silver
+  - id: sysdig
+    level: silver
+  - id: mq
+    level: charity
+  - id: codeclub
+    level: charity
+  - id: engineerbetter  
+    level: bronze    
+  - id: kloia
+    level: silver
+  - id: newrelic
+    level: platinum    
+  - id: automic
+    level: platinum
+  - id: armakuni
+    level: silver
+  - id: jfrog
+    level: gold
+  - id: veertu
+    level: silver
+  - id: puppet
+    level: silver
+  - id: ibmcode
+    level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -61,13 +119,183 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
   - id: gold
     label: Gold
-    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 7 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: 10
+  - id: charity
+    label: Charity
+    max: 3
+
+program:
+  - title: "Welcome"
+    type: custom
+    date: 2017-09-06
+    start_time: "09:45"
+    end_time: "10:00"
+
+
+  - title: "dan-young-emma-jane"
+    type: talk
+    date: 2017-09-06
+    start_time: "10:00"
+    end_time: "10:35"
+
+  - title: "igor-galic"
+    type: talk
+    date: 2017-09-06
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-06
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "sally-goble"
+    type: talk
+    date: 2017-09-06
+    start_time: "11:25"
+    end_time: "12:00"
+  
+  - title: "alvaro-videla"
+    type: talk
+    date: 2017-09-06
+    start_time: "12:00"
+    end_time: "12:35"
+    
+  - title: "Ignites"
+    type: ignite 
+    date: 2017-09-06
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-06
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Spaces Start"
+    type: open-space
+    date: 2017-09-06
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Space 1"
+    type: open-space
+    date: 2017-09-06
+    start_time: "14:30"
+    end_time: "15:20"
+
+  - title: "Open Space 2"
+    type: open-space
+    date: 2017-09-06
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: "Open Space 3"
+    type: open-space
+    date: 2017-09-06
+    start_time: "16:10"
+    end_time: "17:00"
+
+
+
+
+
+
+  - title: "erik-romijn"
+    type: talk
+    date: 2017-09-07
+    start_time: "10:00"
+    end_time: "10:35"
+    
+  - title: "louise-paling"
+    type: talk
+    date: 2017-09-07
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-07
+    start_time: "11:05"
+    end_time: "11:25"
+
+  - title: "aubrey-stearn"
+    type: talk
+    date: 2017-09-07
+    start_time: "11:25"
+    end_time: "12:00"
+
+  - title: "jon-topper"
+    type: talk
+    date: 2017-09-07
+    start_time: "12:00"
+    end_time: "12:35"
+
+  - title: "Ignites"
+    type: ignite 
+    date: 2017-09-07
+    start_time: "12:35"
+    end_time: "13:05"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-07
+    start_time: "13:05"
+    end_time: "14:05"
+
+  - title: "Open Spaces Start"
+    type: open-space
+    date: 2017-09-07
+    start_time: "14:05"
+    end_time: "14:30"
+
+  - title: "Open Space 1"
+    type: open-space
+    date: 2017-09-07
+    start_time: "14:30"
+    end_time: "15:20"
+
+  - title: "Open Space 2"
+    type: open-space
+    date: 2017-09-07
+    start_time: "15:20"
+    end_time: "16:10"
+
+  - title: "Open Space 3"
+    type: open-space
+    date: 2017-09-07
+    start_time: "16:10"
+    end_time: "17:00"
+
+# ignites:
+#   - title: "kristen-womack"
+#     date: 2017-09-06
+#   - title: "rukia-sheikh-mohamed"
+#     date: 2017-09-06
+#   - title: "christian-herro"
+#     date: 2017-09-06
+#   - title: "nicole-forsgren"
+#     date: 2017-09-06
+#   - title: "emma-sax"
+#     date: 2017-09-06
+#   - title: "thabit-shafer"
+#     date: 2017-09-06
+#   - title: "kendra-gapinski"
+#     date: 2017-09-06
+#   - title: "michael-ducy"
+#     date: 2017-09-06
+#   - title: "joshua-zimmerman"
+#     date: 2017-09-06

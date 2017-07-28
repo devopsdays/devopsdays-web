@@ -3,6 +3,7 @@ date = "2017-02-16T14:22:48+02:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-paris"]
+Description = "devopsdays Paris 2017"
 
 +++
 
@@ -26,6 +27,10 @@ discussions from industry practitioners and taste-makers.
 **The principal language of this conference will be French.**
 
 <div style="font-weight: bolder; font-size: 125%">Pour plus d'informations, veuillez visiter notre site principal: <a href="https://www.devopsrex.fr/">https://www.devopsrex.fr/</a></div>
+
+<br />
+
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.fr/tickets-external?eid=32056802760&ref=etckt" frameborder="0" height="308" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.fr/">Développé par Eventbrite</a></div></div>
 
 <br />
 

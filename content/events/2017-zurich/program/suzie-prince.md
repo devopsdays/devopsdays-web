@@ -9,8 +9,8 @@ title = "Our Continuous Delivery Journey"
 type = "talk"
 speakers = ["suzie-prince"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025629"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-4-suzie-prince-our-continuous-delivery-journey"
 slideshare = ""
 slides = ""
 +++

@@ -6,7 +6,157 @@ type = "event"
 
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}]. Gold, Silver, Bronze, and Evening Event sponsorship packages are details in our <a href="/events/2017-hartford/sponsor/devopsdays-hfd-2017-prospectus.pdf">prospectus</a>.
+
+Additional à la carte sponsorships are also possible:
+
+<ul>
+  <li>Coffee - Signage by the coffee displays with your logo throughout the day</li>
+  <li>Breakfast - Signage by the breakfast tables and in the eating area with your logo in the morning before sessions</li>
+  <li>Snacks - Signage by the snack area with your logo during the afternoon when snacks are available</li>
+  <li>Lunch - Signage by the lunch tables and in the eating area with your logo during lunch</li>
+  <li>Lanyards</li>
+</ul>
+
+These may be purchased in addition to (or in lieu of) the sponsorships in the prospectus.
+
+Please email us at {{< email_organizers>}} for more information.
+
+<table>
+<thead>
+<tr>
+<th>Packages</th>
+<th>Bronze - $1000</th>
+<th>Silver - $2500</th>
+<th>Gold - $5000</th>
+<th>Happy Hour - $6000</th>
+<th>Mug - $500*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tickets</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>4</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Logo on website</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Logo on email communications</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Logo on shared slide during breaks &amp; on TVs</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Logo on Dedicated Slide</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Logo on print banners</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Mention on Social Media</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Mention by MC during event</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Special announcement by  MC before Happy Hour</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>v</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>1 Min Pitch to Full Audience</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Shared Table for giveaways</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Dedicated table for giveaways</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Table in High-Traffic Location</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>Full access to decorate bar area and host demos during Happy Hour</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>X</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>1"x1" logo on mug given out to attendees</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>X</td>
+</tr></tbody>
+</table>
+
+*\*Mug sponsorship is only available to those that sponsor at other levels of sponsorship.*
 
 <hr>
 

@@ -3,13 +3,14 @@ date = "2016-12-21T13:55:35-05:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2017-london"]
+Description = "devopsdays London 2017"
 
 +++
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 
-**devopsdays is coming to {{< event_location >}}!**
+**devopsdays is coming to {{< event_location >}}! and our theme is 'Transforming the future together'.**
 
  <div style="text-align:center;">
  <img alt="DevOpsDays London 2017" src="/events/2017-london/logo.png" style="max-width: 90%;">

@@ -4,10 +4,10 @@
   <div class="col-md-12">
     <h1>Blog Posts</h1>
     <div>
-      {{ range .Paginator.Pages }}
-         {{ .Render "summary"}}
-      {{ end }}
-      {{ partial "blog_pagination.html" . }}
+      {{- range .Paginator.Pages -}}
+         {{ .Render "summary" }}
+      {{- end -}}
+      {{- partial "blog_pagination.html" . -}}
     </div>
   </div>
 </div>

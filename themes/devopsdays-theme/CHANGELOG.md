@@ -1,5 +1,197 @@
 # Change Log
 
+## [1.12.0](https://github.com/devopsdays/devopsdays-theme/tree/1.12.0) (2017-06-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.11.0...1.12.0)
+
+**Implemented enhancements:**
+
+- Improve title tags to remove duplication in Google [\#539](https://github.com/devopsdays/devopsdays-theme/issues/539)
+- Add embedded support for Google Forms on main pages [\#230](https://github.com/devopsdays/devopsdays-theme/issues/230)
+
+**Fixed bugs:**
+
+- List of other events should not say "past" [\#568](https://github.com/devopsdays/devopsdays-theme/issues/568)
+
+## [1.11.0](https://github.com/devopsdays/devopsdays-theme/tree/1.11.0) (2017-06-08)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.3...1.11.0)
+
+**Implemented enhancements:**
+
+- Refactor how "talks" are displayed on a speaker's page [\#554](https://github.com/devopsdays/devopsdays-theme/issues/554)
+- add twitter handles to talk pages [\#551](https://github.com/devopsdays/devopsdays-theme/issues/551)
+- Blog posts should have a sharing image [\#529](https://github.com/devopsdays/devopsdays-theme/issues/529)
+- Core organizers should be in a data file [\#526](https://github.com/devopsdays/devopsdays-theme/issues/526)
+- Move map to below city icons [\#516](https://github.com/devopsdays/devopsdays-theme/issues/516)
+- Markdown in program files should be displayed [\#514](https://github.com/devopsdays/devopsdays-theme/issues/514)
+- Events feed needs more robust information [\#474](https://github.com/devopsdays/devopsdays-theme/issues/474)
+
+**Fixed bugs:**
+
+- Broken links in the CFP RSS feed [\#540](https://github.com/devopsdays/devopsdays-theme/issues/540)
+- Speaker images of different sizes act differently [\#485](https://github.com/devopsdays/devopsdays-theme/issues/485)
+
+## [1.10.3](https://github.com/devopsdays/devopsdays-theme/tree/1.10.3) (2017-06-05)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.2...1.10.3)
+
+**Fixed bugs:**
+
+- Stray curly brace on welcome pages [\#550](https://github.com/devopsdays/devopsdays-theme/issues/550)
+
+## [1.10.2](https://github.com/devopsdays/devopsdays-theme/tree/1.10.2) (2017-06-02)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.1...1.10.2)
+
+**Implemented enhancements:**
+
+- declutter speakers page [\#548](https://github.com/devopsdays/devopsdays-theme/issues/548)
+- Workshop program elements should link like talks do  [\#538](https://github.com/devopsdays/devopsdays-theme/issues/538)
+
+**Fixed bugs:**
+
+- default speaker image on talk page is broken [\#547](https://github.com/devopsdays/devopsdays-theme/issues/547)
+- Update Reference file to explain that program elements called "talk" link to the talk [\#537](https://github.com/devopsdays/devopsdays-theme/issues/537)
+
+## [1.10.1](https://github.com/devopsdays/devopsdays-theme/tree/1.10.1) (2017-05-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.0...1.10.1)
+
+**Closed issues:**
+
+- \[Bug\] Vimeo videos don't show up in speaker talk page [\#542](https://github.com/devopsdays/devopsdays-theme/issues/542)
+- \[Enhancement\] Add Flickr social sharing button [\#541](https://github.com/devopsdays/devopsdays-theme/issues/541)
+
+## [1.10.0](https://github.com/devopsdays/devopsdays-theme/tree/1.10.0) (2017-05-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.1...1.10.0)
+
+**Implemented enhancements:**
+
+- Sponsors should be singular if max-level is 1 [\#528](https://github.com/devopsdays/devopsdays-theme/issues/528)
+- Make ellipsis on truncated bios on speaker page clickable [\#519](https://github.com/devopsdays/devopsdays-theme/issues/519)
+- Remove filesystem deps [\#471](https://github.com/devopsdays/devopsdays-theme/issues/471)
+- Create custom 404 page [\#345](https://github.com/devopsdays/devopsdays-theme/issues/345)
+
+**Fixed bugs:**
+
+- The "about" sidebar should not be special-cased [\#532](https://github.com/devopsdays/devopsdays-theme/issues/532)
+- Speakerdeck width overlapping with speaker profile text [\#531](https://github.com/devopsdays/devopsdays-theme/issues/531)
+- Deprecate weburl key in config.toml [\#455](https://github.com/devopsdays/devopsdays-theme/issues/455)
+
+## [1.9.1](https://github.com/devopsdays/devopsdays-theme/tree/1.9.1) (2017-05-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.9.0...1.9.1)
+
+**Implemented enhancements:**
+
+- Test and validate with Hugo 0.20 [\#494](https://github.com/devopsdays/devopsdays-theme/issues/494)
+
+**Fixed bugs:**
+
+- Text color for times on "talks" on program page should be white [\#512](https://github.com/devopsdays/devopsdays-theme/issues/512)
+- Remove fingerprinting for static files [\#506](https://github.com/devopsdays/devopsdays-theme/issues/506)
+
+## [1.9.0](https://github.com/devopsdays/devopsdays-theme/tree/1.9.0) (2017-05-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.8.0...1.9.0)
+
+**Implemented enhancements:**
+
+- Allow color overrides in program elements [\#511](https://github.com/devopsdays/devopsdays-theme/issues/511)
+- Remove accordion from program listing [\#497](https://github.com/devopsdays/devopsdays-theme/issues/497)
+- Program layout should not be evenly spread [\#496](https://github.com/devopsdays/devopsdays-theme/issues/496)
+- Ignites should display inline with the rest of the program [\#495](https://github.com/devopsdays/devopsdays-theme/issues/495)
+- Contextually style program elements [\#435](https://github.com/devopsdays/devopsdays-theme/issues/435)
+
+**Fixed bugs:**
+
+- Speakerdeck url's are not consumable by jquery-oembed-all [\#508](https://github.com/devopsdays/devopsdays-theme/issues/508)
+
+## [1.8.0](https://github.com/devopsdays/devopsdays-theme/tree/1.8.0) (2017-05-09)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.2...1.8.0)
+
+**Implemented enhancements:**
+
+- Support more than two-day events in automated program - IDEA 81 [\#490](https://github.com/devopsdays/devopsdays-theme/issues/490)
+- Improve use of truncate [\#351](https://github.com/devopsdays/devopsdays-theme/issues/351)
+
+**Closed issues:**
+
+- Front page logo align on mobile [\#483](https://github.com/devopsdays/devopsdays-theme/issues/483)
+
+## [1.7.2](https://github.com/devopsdays/devopsdays-theme/tree/1.7.2) (2017-04-18)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.1...1.7.2)
+
+**Fixed bugs:**
+
+- adjust dates as shown on frontpage [\#481](https://github.com/devopsdays/devopsdays-theme/issues/481)
+- old style event twitters not showing up [\#479](https://github.com/devopsdays/devopsdays-theme/issues/479)
+
+## [1.7.1](https://github.com/devopsdays/devopsdays-theme/tree/1.7.1) (2017-04-05)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.7.0...1.7.1)
+
+**Implemented enhancements:**
+
+- Disable generation of unnecessary content [\#467](https://github.com/devopsdays/devopsdays-theme/issues/467)
+
+**Fixed bugs:**
+
+- Extra space in welcome pages  [\#472](https://github.com/devopsdays/devopsdays-theme/issues/472)
+- removing broken-link home icon on events page [\#468](https://github.com/devopsdays/devopsdays-theme/issues/468)
+
+## [1.7.0](https://github.com/devopsdays/devopsdays-theme/tree/1.7.0) (2017-03-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.1...1.7.0)
+
+**Implemented enhancements:**
+
+- add defined place on event contact page for organizer's role [\#463](https://github.com/devopsdays/devopsdays-theme/issues/463)
+- improve readability of future events sidebar - IDEA 18 [\#424](https://github.com/devopsdays/devopsdays-theme/issues/424)
+
+**Fixed bugs:**
+
+- Open CFP widget in footer shows CFP's that aren't open yet [\#462](https://github.com/devopsdays/devopsdays-theme/issues/462)
+- Duplicate theme.toml [\#458](https://github.com/devopsdays/devopsdays-theme/issues/458)
+
+## [1.6.1](https://github.com/devopsdays/devopsdays-theme/tree/1.6.1) (2017-03-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.6.0...1.6.1)
+
+**Fixed bugs:**
+
+- CTA buttons don't change color with custom masthead [\#456](https://github.com/devopsdays/devopsdays-theme/issues/456)
+
+## [1.6.0](https://github.com/devopsdays/devopsdays-theme/tree/1.6.0) (2017-03-30)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.2...1.6.0)
+
+**Implemented enhancements:**
+
+- Add support for background header image to event page - IDEA 41 [\#449](https://github.com/devopsdays/devopsdays-theme/issues/449)
+- Add theme documentation for end-users - IDEA 66 [\#443](https://github.com/devopsdays/devopsdays-theme/issues/443)
+
+**Fixed bugs:**
+
+- vertically align non-square sponsor logos [\#432](https://github.com/devopsdays/devopsdays-theme/issues/432)
+
+## [1.5.2](https://github.com/devopsdays/devopsdays-theme/tree/1.5.2) (2017-03-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.1...1.5.2)
+
+**Fixed bugs:**
+
+- CFPs which are not yet open show on the open list [\#448](https://github.com/devopsdays/devopsdays-theme/issues/448)
+- events with overlapping dates have problems displaying [\#444](https://github.com/devopsdays/devopsdays-theme/issues/444)
+
+## [1.5.1](https://github.com/devopsdays/devopsdays-theme/tree/1.5.1) (2017-03-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.5.0...1.5.1)
+
+**Fixed bugs:**
+
+- schema.org for events should only display if location\_address is set [\#445](https://github.com/devopsdays/devopsdays-theme/issues/445)
+
+## [1.5.0](https://github.com/devopsdays/devopsdays-theme/tree/1.5.0) (2017-03-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.1...1.5.0)
+
+**Implemented enhancements:**
+
+- Enable twitter cards with images on all pages - IDEA 60 [\#436](https://github.com/devopsdays/devopsdays-theme/issues/436)
+- center the city names under their logo squares [\#433](https://github.com/devopsdays/devopsdays-theme/issues/433)
+
+**Fixed bugs:**
+
+- fix the sharing card so all text is readable [\#434](https://github.com/devopsdays/devopsdays-theme/issues/434)
+
 ## [1.4.1](https://github.com/devopsdays/devopsdays-theme/tree/1.4.1) (2017-03-25)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.4.0...1.4.1)
 
@@ -77,6 +269,10 @@
 - Alt text on organizer images needs fixing [\#388](https://github.com/devopsdays/devopsdays-theme/issues/388)
 - Regression on ability to control sponsor ship links [\#387](https://github.com/devopsdays/devopsdays-theme/issues/387)
 
+**Closed issues:**
+
+- Follow-up on \#300 squished images in IE11 [\#379](https://github.com/devopsdays/devopsdays-theme/issues/379)
+
 ## [1.0.2](https://github.com/devopsdays/devopsdays-theme/tree/1.0.2) (2017-03-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.0.1...1.0.2)
 
@@ -151,6 +347,7 @@
 - Test issue [\#304](https://github.com/devopsdays/devopsdays-theme/issues/304)
 - Add contributing guidelines file [\#303](https://github.com/devopsdays/devopsdays-theme/issues/303)
 - Create simple "Here's what an event needs" doc [\#181](https://github.com/devopsdays/devopsdays-theme/issues/181)
+- Image optimizations are a problem [\#127](https://github.com/devopsdays/devopsdays-theme/issues/127)
 
 ## [0.8.0](https://github.com/devopsdays/devopsdays-theme/tree/0.8.0) (2017-02-22)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/0.7.0...0.8.0)
@@ -217,6 +414,7 @@
 **Implemented enhancements:**
 
 - Add google analytics support [\#136](https://github.com/devopsdays/devopsdays-theme/issues/136)
+- Create backwards compatibility for old-style talks [\#4](https://github.com/devopsdays/devopsdays-theme/issues/4)
 
 **Fixed bugs:**
 
@@ -227,6 +425,7 @@
 
 **Implemented enhancements:**
 
+- Consider migrating to TOML over YAML [\#182](https://github.com/devopsdays/devopsdays-theme/issues/182)
 - Add dynamic CTA buttons to event hompages [\#162](https://github.com/devopsdays/devopsdays-theme/issues/162)
 - consolidate JS & CSS from speaking page [\#158](https://github.com/devopsdays/devopsdays-theme/issues/158)
 - Allow for non-square sponsor images [\#139](https://github.com/devopsdays/devopsdays-theme/issues/139)
@@ -235,12 +434,17 @@
 - Optimize social graph data in headers [\#128](https://github.com/devopsdays/devopsdays-theme/issues/128)
 - Update speaking page [\#117](https://github.com/devopsdays/devopsdays-theme/issues/117)
 - Create events page [\#116](https://github.com/devopsdays/devopsdays-theme/issues/116)
+- Create default event homepage images [\#81](https://github.com/devopsdays/devopsdays-theme/issues/81)
 - Create sponsor info page [\#74](https://github.com/devopsdays/devopsdays-theme/issues/74)
 - Add structured metadata for events [\#69](https://github.com/devopsdays/devopsdays-theme/issues/69)
 - Remove dependency on "welcome.md" [\#63](https://github.com/devopsdays/devopsdays-theme/issues/63)
+- Add optional "Event Name" parameter to yyyy-city data file [\#62](https://github.com/devopsdays/devopsdays-theme/issues/62)
+- Use a different method for specifying an event homepage [\#59](https://github.com/devopsdays/devopsdays-theme/issues/59)
 - add a description element to the frontmatter for a blog post [\#54](https://github.com/devopsdays/devopsdays-theme/issues/54)
+- Add feature toggles [\#50](https://github.com/devopsdays/devopsdays-theme/issues/50)
 - Make program page template dynamic [\#37](https://github.com/devopsdays/devopsdays-theme/issues/37)
 - Refactor homepage event grid [\#31](https://github.com/devopsdays/devopsdays-theme/issues/31)
+- Front page logo images need standardization [\#21](https://github.com/devopsdays/devopsdays-theme/issues/21)
 
 **Fixed bugs:**
 
@@ -251,6 +455,7 @@
 - Event level nav menu doesn't collapse [\#146](https://github.com/devopsdays/devopsdays-theme/issues/146)
 - single-day events don't display properly [\#135](https://github.com/devopsdays/devopsdays-theme/issues/135)
 - process-html gulp task takes a really long time [\#130](https://github.com/devopsdays/devopsdays-theme/issues/130)
+- Refactor image sizes [\#114](https://github.com/devopsdays/devopsdays-theme/issues/114)
 - Need bottom padding on all navs [\#106](https://github.com/devopsdays/devopsdays-theme/issues/106)
 
 **Closed issues:**
@@ -258,6 +463,7 @@
 - Consider adding bower\_component to .gitignore [\#172](https://github.com/devopsdays/devopsdays-theme/issues/172)
 - make city name as well as image linkable on front page [\#133](https://github.com/devopsdays/devopsdays-theme/issues/133)
 - Have global nav driven from config.toml menu [\#126](https://github.com/devopsdays/devopsdays-theme/issues/126)
+- Determine if program days should be fully collapsable [\#38](https://github.com/devopsdays/devopsdays-theme/issues/38)
 - Add Travis build step [\#17](https://github.com/devopsdays/devopsdays-theme/issues/17)
 
 ## [0.5.1](https://github.com/devopsdays/devopsdays-theme/tree/0.5.1) (2017-01-30)
@@ -315,6 +521,7 @@
 - Make current month highlighted [\#78](https://github.com/devopsdays/devopsdays-theme/issues/78)
 - Content of welcome page should show up somewhere [\#75](https://github.com/devopsdays/devopsdays-theme/issues/75)
 - Make gutters between sponsors smaller [\#73](https://github.com/devopsdays/devopsdays-theme/issues/73)
+- Clean up display of events that span months [\#71](https://github.com/devopsdays/devopsdays-theme/issues/71)
 - Add TBD events to event list sidebar [\#67](https://github.com/devopsdays/devopsdays-theme/issues/67)
 - Add styling to Upcoming Events sidebar [\#43](https://github.com/devopsdays/devopsdays-theme/issues/43)
 - Test out just using img-responsive with various existing logos [\#26](https://github.com/devopsdays/devopsdays-theme/issues/26)
@@ -384,6 +591,7 @@
 - test issue [\#36](https://github.com/devopsdays/devopsdays-theme/issues/36)
 - Populate exampleSite with sample data [\#19](https://github.com/devopsdays/devopsdays-theme/issues/19)
 - Optimize codekit settings [\#14](https://github.com/devopsdays/devopsdays-theme/issues/14)
+- Consider changing from Bootstrap to Bourbon/Neat [\#13](https://github.com/devopsdays/devopsdays-theme/issues/13)
 
 
 

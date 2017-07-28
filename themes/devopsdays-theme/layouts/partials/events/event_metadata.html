@@ -1,21 +1,23 @@
-{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{/* end site data query */}}
+{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
 
-{{ $.Scratch.Add "url" $.Site.Params.weburl }}
-{{ $.Scratch.Add "url" "/events/"}}
-{{ $.Scratch.Add "url" $event_slug }}
+{{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+
+{{- if (where (readDir "static/events") "Name" $e.name) -}}
+
+  {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
+    {{- $.Scratch.Set "image_url" ((printf "events/%s/logo.jpg" $e.name) | absURL) -}}
+  {{- else -}}
+    {{- $.Scratch.Set "image_url" ((printf "events/%s/logo.png" $e.name) | absURL) -}}
+  {{- end -}}
+
+{{- else -}}
+    {{- $.Scratch.Set "image_url" ("img/event-logo-square.jpg" | absURL) -}}
+{{- end -}}
 
 
 
-{{- if $e.startdate -}}
+{{- if and $e.startdate $e.location_address -}}
 
-
-  {{ $url := $.Scratch.Get "url" }}
-  {{ $.Scratch.Add "image_url" $url }}
-  {{ $.Scratch.Add "image_url" "/logo.png" }}
-  {{ $image_url := $.Scratch.Get "image_url" }}
   <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -28,8 +30,8 @@
     "name": "devopsdays {{ $e.city }} {{ $e.year }}",
     "startDate": "{{ $e.startdate }}",
     "endDate": "{{ $e.enddate }}",
-    "url": "{{ $url }}",
-    "image": "{{ $image_url }}",
+    "url": "{{ .Permalink | absURL }}",
+    "image": "{{ $.Scratch.Get "image_url" }}",
     "location": {
       "@type": "Place",
       {{ if eq $e.city $e.location }}
@@ -37,13 +39,8 @@
       {{ else }}
         "name": "{{ $e.location }}, {{ $e.city }}",
       {{ end }}
-      {{ if $e.location_address }}
-        {{ if ne $e.location_address "" }}
-          "address": "{{ $e.location_address }}"
-        {{ else }}
-          "address": "{{ $e.coordinates }}"
-        {{ end }}
-      {{ end }}
+      "address": "{{ $e.location_address }}"
+
     }
   }
   </script>

@@ -4,7 +4,7 @@ linktitle = "bridget-kromhout"
 title = "Computers are easy; people are hard"
 type = "talk"
 speakers = ["bridget-kromhout"]
-youtube = ""
+youtube = "RCb8LRiOmaI"
 vimeo = ""
 speakerdeck = ""
 slideshare = ""
@@ -16,3 +16,5 @@ Designing distributed systems means considering failure scenarios—both likely 
 The classic “hard problems” of cache invalidation and naming things revolve around our understanding of what’s correct and true and our agreements with one another on scope and relevance. Communication is essential for making context-dependent decisions.
 
 Whether we’re attempting to determine the current state of reality or distinguish logical boundaries, democratized observability is key to answering our questions. As the fractal complexity of our distributed systems grows, we need to mindfully choose practices that work with our tooling. You can’t buy a silver bullet, but you can forge one from the collaborative efforts of your team.
+
+<a href="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May25_2017_BridgetKromhout.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May25_2017_BridgetKromhout_lores.jpg" alt="Graphic Recording Computers are easy; people are hard" /></a>

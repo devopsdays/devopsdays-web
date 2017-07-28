@@ -3,7 +3,7 @@ date = "2017-02-27T15:10:56+01:00"
 title = "Beyond the Mean Time To Repair"
 type = "talk"
 speakers = ["jason-hand"]
-youtube = ""
+youtube = "Od3wgZNS9_Q"
 vimeo = ""
 speakerdeck = ""
 slideshare = ""
@@ -27,3 +27,5 @@ Audience takeaways:
   * Median
   * Standard Deviation
   * Percentiles
+
+<a href="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May25_2017_JasonHand.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May25_2017_JasonHand_lores.jpg" alt="Graphic Recording Beyond the Mean Time To Repair" /></a>

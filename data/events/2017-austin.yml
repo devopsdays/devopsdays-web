@@ -27,23 +27,114 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Ernest Mueller"
+    twitter: "ernestmueller"
+    employer: "AlienVault"
+    bio: "Ernest Mueller is Lean Systems Manager at AlienVault in Austin, TX. He organizes the CloudAustin user group, the Agile Austin DevOps SIG, and the DevOpsDays Austin conference, now in its sixth year. Along with his coauthor James, he wrote the DevOps Fundamentals course on lynda.com."
+    github: "ernestm"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ernestmueller/"
+    image: ""
   - name: "James Wickett"
+    twitter: "wickett"
+    employer: "Signal Sciences"
+    bio: ""
+    github: "wickett"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/wickett/"
+    image: ""
   - name: "Karthik Gaekwad"
+    twitter: "iteration1"
+    employer: "Oracle"
+    bio: "I live in Austin, write @golang, and know stuff about burgers, containers and cloud. I organize @dodaustin, @container_days, @cloud_austin and DockerAustin."
+    github: "karthequian"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/kgaekwad/"
+    image: ""
   - name: "Tom Hall"
+    twitter: "tmhall99"
+    employer: "American Campus Communities"
+    bio: "Tom instigated and helped organize the DevOpsDays Atlanta 2016 conference, as well as having attended DoD in Austin and Chicago in years prior. He worked as a Novell Certified Engineer in the mid to late 90's and more recently spent 5+ years managing the customer-facing enterprise products and solutions training labs at Dell in Round Rock. He is now a DevOps Engineering Manager at American Campus Communities."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/tmhall99/"
+    image: ""
   - name: "Marisa Sawatphadungkij"
   - name: "Tom Duffield"
+    twitter: "tomduffield"
+    employer: "Chef"
+    bio: "Tom is a senior engineer with Chef Software who recently moved to Austin from the frigid north: Minnesota. Outside of work he loves playing table top games and spending time with his fiancé and dog."
+    github: "tduffield"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/thomasduffield/"
+    image: ""
   - name: "Ian Richardson"
   - name: "Scott Baldwin"
+    twitter: "scottsbaldwin"
+    employer: "SeniorLeaf"
+    bio: "Scott has helped organize DevOps Days Austin since it started in 2012. His primary responsibility is the web site, although he has helped with sponsors in the past. He is currently the CTO of SeniorLeaf. He loves teams that care about happiness, vulnerability, and empathy. And he loves tennis."
+    github: "scottsbaldwin"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
+    image: ""
   - name: "Doug Palmer"
   - name: "Dan Zentgraf"
+    twitter: "danzentgraf"
+    employer: "CA Technologies"
+    bio: "Dan is a long time DevOps evangelist working with very large enterprises. He has been involved in the Agile / Lean / DevOps movement in a number of management, product management, and process consulting roles. In addition to the work stuff, he is active in the Austin community as a DevOpsDays organizer for the last 4 years as well as with the AgileAustin community as a program lead."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/zentgraf/"
+    image: ""
   - name: "Chris Little"
+    twitter: "cshl1"
+    employer: ""
+    bio: "I am a long-term supporter and advocate of DevOps and of DevOps Days. Many years in IT, mostly in start-ups, some big companies, lots of different tech."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/cshlittle/"
+    image: ""
   - name: "Revanth Reddy"
+    twitter: "revanthreddy"
+    employer: "National Instruments"
+    bio: "Software Engineer at National Instruments , Foodie and hackathon enthusiast"
+    github: "revanthreddy"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/revanth-anireddy-b7676616/"
+    image: ""
   - name: "Peco Karayanev"
   - name: "William Hackett"
+    twitter: "wchack"
+    employer: "National Instruments"
+    bio: "UT Grad. Long-time developer at National Instruments.  Currently managing the Cloud Team that was home to a number of the original DevOpsDays-Austin Organizers."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/william-hackett-4228252/"
+    image: ""
   - name: "Chris Casey"
   - name: "Boyd Hemphill"
+    twitter: "behemphi"
+    employer: "Victory CTO"
+    bio: "Boyd Hemphill is a DevOps raconteur and thought leader in the silicon hills of Austin Texas. Boyd founded Austin DevOps when he learned this thing he was doing had a name. Boyd also assists with the organization of DevOps Days Austin. In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracle and MySQL), and system administrator.  He has even been a Director of DevOps and would enjoy you coming to poke fun at him for it."
+    github: "behemphi"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/boydhemphill/"
+    image: ""
   - name: "Lee Thompson"
+    twitter: "stagr_lee"
+    employer: "AlienVault"
+    bio: "Lee has been an organizer/volunteer for DevOpsDays Austin since its founding and participated in the organization of the first US DevOpsDays event in Mountain View in 2010.  He keeps coming back to DevOpsDays because he still hasn't figured it all out yet.  When not messing with distributed applications, he's messing around with 240Z's and Airstreams."
+    github: "stagrlee"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/leewthompson/"
+    image: ""
   - name: "Richard Boyd"
+    twitter: "richardboydii"
+    employer: "Bright Health"
+    bio: "Richard is the Senior DevOps Engineer for Bright Health in Austin. He's active in the Austin DevOps community and speaks at Meetups and conferences. In his spare time he enjoys camping and the checking out the local brewery scene."
+    github: "richardboydii"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: ""
   - name: "Laura Wickett"
   - name: "Paul Czarkowski"
   - name: "Katelyn Parker"
@@ -100,6 +191,29 @@ sponsors:
     level: gold
   - id: nvisium
     level: gold
+  - id: ibm
+    level: gold
+    url: https://developer.ibm.com/code/
+  - id: collabnet
+    level: gold
+    url: https://www.collab.net/DevOps
+  - id: facebook
+    level: gold
+    url: https://code.facebook.com/posts/pe/
+  - id: jfrog
+    level: gold
+  - id: appdynamics-before-20170721
+    level: gold
+  - id: ca_tech
+    level: gold 
+  - id: riverbed
+    level: gold
+  - id: logz-before-20170613
+    level: gold
+  - id: viasat
+    level: gold
+  - id: omniti
+    level: gold
   - id: duo
     level: silver
   - id: solutionsiq
@@ -109,6 +223,20 @@ sponsors:
     url: "https://www.sailpoint.com/company/careers"
   - id: elastic
     level: silver
+  - id: rackn
+    level: silver
+  - id: pagerduty
+    level: silver
+  - id: cdkglobal
+    level: silver
+  - id: atxtechevents
+    level: media
+  - id: devopsdotcom
+    level: media
+  - id: sonatype
+    level: lanyard
+  - id: linuxacademy
+    level: hackathon
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,3 +257,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: hackathon
+    label: Hackathon
+    max: 1
+  - id: media
+    label: Media
+    max: 5

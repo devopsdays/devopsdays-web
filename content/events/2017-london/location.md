@@ -1,10 +1,12 @@
 +++
 date = "2016-12-17T13:55:35-05:00"
-title = "location"
+title = "Location"
 type = "event"
 
 +++
 
-Information about the venue including address, map/direction, parking/transit, and any hotel group discount codes.
+The event will be held at the <a href="https://qeiicentre.london/">QEII Centre</a> in the heart of London.
+
+For directions, <a href="https://qeiicentre.london/getting-here/">click here</a>.
 
 <!-- {{< event_map >}} -->

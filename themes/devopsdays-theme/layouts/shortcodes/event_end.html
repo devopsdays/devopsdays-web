@@ -1,11 +1,7 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-{{ $enddate := $e.enddate}}
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
 
-{{ if $e.enddate }}
-  {{ $enddate := $e.enddate}}
-  {{ dateFormat "Monday, Jan 2, 2006" $enddate }}
-{{ else }}
+{{- if $e.enddate -}}
+  {{ dateFormat "Monday, Jan 2, 2006" $e.enddate }}
+{{- else -}}
   TBD
-{{ end }}
+{{- end -}}

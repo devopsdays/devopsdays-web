@@ -8,9 +8,9 @@ description: # A short blurb of text to describe your event, defaults to common 
 startdate: 2017-10-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-10-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2017-04-06 # start accepting talk proposals.
+cfp_date_end: 2017-06-02 # close your call for proposals.
+cfp_date_announce: 2017-07-15 # inform proposers of status
 
 # Location
 #
@@ -21,10 +21,10 @@ location: "Chemical Heritage Foundation" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
 #  - name: program
-#  - name: propose
+  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: location
-#  - name: registration
+  - name: location
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -54,7 +54,13 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: redhat
+    level: gold
+  - id: hpe
+    level: gold
   - id: arresteddevops
+    level: community
+  - id: perfbytes
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

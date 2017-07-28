@@ -24,8 +24,6 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-event_logo: "logo.jpg"
-
 # Location
 #
 coordinates: "54.311009, 10.118408" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -35,10 +33,10 @@ location_address: "Fraunhoferstraße 13, 24118 Kiel" #Optional - use the street 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: location
   - name: sponsor
   - name: contact
   - name: conduct
@@ -72,8 +70,7 @@ team_members: # Name is the only required field for team members.
   - name: "Wolfgang Bär"
     bio: "Wolfgang Bär is co-founder of wobe-systems GmbH. He is the main link between worldwide customers and product development. By coordinating feature request and juggling requirements he designs automation solutions together with customers to make their visions a reality."
 
-  - name: "Tim Schlotfeldt"
-    twitter: "tschlotfeldt"
+
 
 
 
@@ -96,13 +93,23 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    max: 10
+  - id: gold
+    label: Gold
+    max: 5
+  - id: evening
+    label: Evening
+    max: 1
+  - id: speakersd
+    label: Speaker's Dinner
+    max: 1
+  - id: tshirt
+    label: T-Shirt
+    max: 1
+  - id: coffee
+    label: Coffee Break
+    max: 2
+  - id: contributor
+    label: Contributor

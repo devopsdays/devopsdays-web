@@ -1,17 +1,10 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-{{ $.Scratch.Set "contentdir" (printf "static/events/%s/" $event_slug) }}
-
-{{if (where (readDir "static/events") "Name" $event_slug)}}
-
-
-  {{ if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") }}
-    {{ $.Scratch.Set "logo" "logo.jpg" }}
-  {{ else }}
-    {{ $.Scratch.Set "logo" "logo.png" }}
-  {{ end }}
-
-  <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src="/events/{{ $event_slug }}/{{$.Scratch.Get "logo"}}" class="welcome-page-event-logo"/>
-
-{{ end }}
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
+{{- if (where (readDir "static/events") "Name" $e.name) -}}
+  {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
+    {{- $.Scratch.Set "logo" "logo.jpg" -}}
+  {{- else -}}
+    {{- $.Scratch.Set "logo" "logo.png" -}}
+  {{- end -}}
+  <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src="{{ (printf "events/%s/%s" $e.name ($.Scratch.Get "logo")) | absURL }}" class="welcome-page-event-logo"/>
+{{- end -}}

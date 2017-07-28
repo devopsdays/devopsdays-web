@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays OSLO 2017"
+Title = "devopsdays Oslo 2017"
 Type = "welcome"
 aliases = ["/events/2017-oslo/","/events/2017-oslo/welcome/","/events/2017-oslo/index/"]
-Description = "devopsdays OSLO 2017"
+Description = "devopsdays Oslo 2017"
 +++
 
 <div style="text-align:center;">
@@ -13,9 +13,9 @@ Description = "devopsdays OSLO 2017"
 
 {{< event_logo >}}
 
-<p><h3>{{< event_link page="registration" text="Blind bird registration is open!" >}}</h3><img src=""></p>
+<p><h3>{{< event_link page="registration" text="Early bird registration is open!" >}}</h3><img src=""></p>
 
-<p>Be quick! Only 20 amazingly cheap tickets available.</p>
+<p>Act now to secure your ticket at early-bird rates - once they're gone, they're gone...</p>
 
 </div>
 

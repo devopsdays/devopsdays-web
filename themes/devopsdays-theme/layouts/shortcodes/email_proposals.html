@@ -1,5 +1,2 @@
-{{ $path := split .Page.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index .Page.Site.Data.events $event_slug) }}
-
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
 <a href='mailto:{{ $e.proposal_email }}?subject={{ .Get "subject"}}'>{{ $e.proposal_email }}</a>
