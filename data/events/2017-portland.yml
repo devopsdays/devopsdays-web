@@ -159,7 +159,8 @@ sponsors:
       level: event
     - id:  puppet
       level: event
-
+    - id:  keybanc
+      level: donuts
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -190,6 +191,8 @@ sponsor_levels:
     label: "ConfigMgmtCamp and Container Days"
   - id: coffee
     label: "Event Coffee"
+  - id: donuts
+    label: "Event Donuts"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
