@@ -123,6 +123,8 @@ sponsors:
     level: gold
   - id: c2fo
     level: gold
+  - id: redhat
+    level: gold
   - id: 2016-ku
     level: community
   - id:  new-context
@@ -134,6 +136,8 @@ sponsors:
   - id: adaptivesg
     level: silver
   - id: tgs
+    level: bronze
+  - id: googlecloud
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
