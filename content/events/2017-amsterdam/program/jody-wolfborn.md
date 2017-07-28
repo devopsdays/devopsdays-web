@@ -3,7 +3,7 @@ Title = "Adapt or Die: how DevOps can (and should!) save the world"
 Type = "talk"
 Speakers = ["jody-wolfborn"]
 aliases = ["/events/2017-amsterdam/program/jody-wolfborn/"]
-youtube = "https://www.youtube.com/watch?v=Rxv9oOMY8HU"
+youtube = "Rxv9oOMY8HU"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Jody_Wolfborn-Adapt_or_Die.pdf"
 +++

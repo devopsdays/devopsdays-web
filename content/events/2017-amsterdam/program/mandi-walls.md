@@ -3,7 +3,7 @@ Title = "Building security into your workflow with InSpec"
 Type = "talk"
 Speakers = ["mandi-walls"]
 aliases = ["/events/2017-amsterdam/program/mandi-walls/"]
-youtube = "https://www.youtube.com/watch?v=DXw-0tJaOoU"
+youtube = "DXw-0tJaOoU"
 slideshare = "https://www.slideshare.net/lnxchk/inspec-for-devopsdays-amsterdam-2017"
 slides = ""
 +++

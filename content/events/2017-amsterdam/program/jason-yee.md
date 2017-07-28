@@ -3,7 +3,7 @@ Title = "Data-driven Postmortems"
 Type = "talk"
 Speakers = ["jason-yee"]
 aliases = ["/events/2017-amsterdam/program/jason-yee/"]
-youtube = "https://www.youtube.com/watch?v=SuYBXBa3T1w"
+youtube = "SuYBXBa3T1w"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Jason_Yee-Data-driven_postmortems.pdf"
 +++

@@ -3,7 +3,7 @@ Title = "Terminal Velocity: Doing DevOps Right by Removing CLIs from Production 
 Type = "talk"
 Speakers = ["matthew-simons"]
 aliases = ["/events/2017-amsterdam/program/mathew-simons"]
-youtube = "https://www.youtube.com/watch?v=g9l2IQCzVqY"
+youtube = "g9l2IQCzVqY"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Matthew_Simons-Terminal_Velocity.pdf"
 +++

@@ -3,7 +3,7 @@ Title = "DevSecOps - Security at Devops Speed"
 Type = "talk"
 Speakers = ["ilkka-turunen"]
 aliases = ["/events/2017-amsterdam/program/ilkka-turunen/"]
-youtube = "https://www.youtube.com/watch?v=GxrWr9flU3"
+youtube = "GxrWr9flU3"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Ilkka_Turunen-DevSecOps_Security_at_Devops_Speed.pdf"
 +++

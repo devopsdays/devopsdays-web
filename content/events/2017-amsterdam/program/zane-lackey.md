@@ -3,7 +3,7 @@ Title = "Practical tips for defending web applications in the age of agile/DevOp
 Type = "talk"
 Speakers = ["zane-lackey"]
 aliases = ["/events/2017-amsterdam/program/zane-lackey/"]
-youtube = "https://www.youtube.com/watch?v=Mae2iXUA7a4"
+youtube = "Mae2iXUA7a4"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Zane_Lacker-Practical_Tips_For_Defending_Web_Applications_In_The_Age_Of_Agile_Devops.pdf"
 +++

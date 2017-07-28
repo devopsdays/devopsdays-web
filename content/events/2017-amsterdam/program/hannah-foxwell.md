@@ -3,7 +3,7 @@ Title = "Resilient Systems Require Resilient People"
 Type = "talk"
 Speakers = ["hannah-foxwell"]
 aliases = ["/events/2017-amsterdam/program/hannah-foxwell/"]
-youtube = "https://www.youtube.com/watch?v=HjWmKnUHL20"
+youtube = "HjWmKnUHL20"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Hannah_Foxwell-Resilient_Systems_Require_Resilient_People.pdf"
 +++

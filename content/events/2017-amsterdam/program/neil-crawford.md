@@ -3,7 +3,7 @@ Title = "The Canary and the Caterpillar"
 Type = "talk"
 Speakers = ["neil-crawford"]
 aliases = ["/events/2017-amsterdam/program/neil-crawford/"]
-youtube = "https://www.youtube.com/watch?v=nUl8aXT82Do"
+youtube = "nUl8aXT82Do"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Neil_Crawford-The_Canary_and_the_Caterpillar.pdf"
 +++
