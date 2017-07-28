@@ -3,7 +3,7 @@ Title = "Start-up Culture at Scale"
 Type = "talk"
 Speakers = ["matthew-slane"]
 aliases = ["/events/2017-amsterdam/program/matthew-slane/"]
-youtube = "https://www.youtube.com/watch?v=tFZ1K3pyLfQ"
+youtube = "tFZ1K3pyLfQ"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Matthew_Slane-Start-up_Culture_at_Scale.pdf"
 +++

@@ -3,7 +3,7 @@ Title = "Secret Management in the world of Infrastructure as Code"
 Type = "talk"
 Speakers = ["peter-souter"]
 aliases = ["/events/2017-amsterdam/program/peter-souter/"]
-youtube = "https://www.youtube.com/watch?v=N_FpvLcdUpw"
+youtube = "N_FpvLcdUpw"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Peter_Souter-Secret_Management_in_the_world_of_Infrastructure_as_Code.pdf"
 +++

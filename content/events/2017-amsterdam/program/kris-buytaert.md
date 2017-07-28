@@ -3,7 +3,7 @@ Title = "7 years of #devopsdays, 5 years in Amsterdam"
 Type = "talk"
 Speakers = ["kris-buytaert"]
 aliases = ["/events/2017-amsterdam/program/kris-buytaert"]
-youtube = "https://www.youtube.com/watch?v=4_cqgwXfgus"
+youtube = "4_cqgwXfgus"
 slideshare = ""
 slides = ""
 +++

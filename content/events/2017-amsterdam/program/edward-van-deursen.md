@@ -3,7 +3,7 @@ Title = "GDPR in DevOps for Dummies"
 Type = "talk"
 Speakers = ["edward-van-deursen"]
 aliases = ["/events/2017-amsterdam/program/edward-van-deursen"]
-youtube = "https://www.youtube.com/watch?v=ePoslEhhf5g"
+youtube = "ePoslEhhf5g"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Edward_van_Deursen-GDPR_in_DevOps_for_Dummies.pdf"
 +++

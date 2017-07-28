@@ -3,7 +3,7 @@ Title = "Building Bridges with Effective DevOps"
 Type = "talk"
 Speakers = ["katherine-daniels"]
 aliases = ["/events/2017-amsterdam/program/katherine-daniels/"]
-youtube = "https://www.youtube.com/watch?v=nYzN9gClbEw"
+youtube = "nYzN9gClbEw"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Katherine_Daniels-Building_Bridges_with_Effective_Devops.pdf"
 +++

@@ -3,7 +3,7 @@ Title = "Trust as the foundation of DevOps"
 Type = "talk"
 Speakers = ["dirk-lehmann"]
 aliases = ["/events/2017-amsterdam/program/dirk-lehmann/"]
-youtube = "https://www.youtube.com/watch?v=A0JVTJG471w"
+youtube = "A0JVTJG471w"
 slideshare = ""
 slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Dirk_Lehmann-Trust_as_the_foundation_of_DevOps.pdf"
 +++
