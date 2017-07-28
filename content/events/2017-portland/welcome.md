@@ -102,7 +102,20 @@ August 3: Config Mgmt Camp + Container Days
 
 
 {{< event_twitter >}}
-<hr>
+<hr />
+<div>
+<h4 class="sponsor-cta">Platinum Sponsor Information:</h4>
 We're pleased to announce [IGNW](http://www.ignw.io) as a platinum sponsor of our conference:
 
 *IGNW’s Dev/Ops, Hybrid IT, App Mod, CI/CD, IaC Automation and SI Practices combine our deep TECHNICAL domain expertise with an insanely powerful ability to execute against your most important business priorities TODAY.  Big name consulting firms dig deep into your business- and dig deep into your budget. Our Agile Practice Area Frameworks get you the business results you need RIGHT NOW without wasting time and resources telling you what you already know. WE build; YOU transform!*
+
+<hr />
+<h4 class="sponsor-cta">Lunch Sponsor Information:</h4>
+We're pleased to announce [Microsoft Azure](https://azure.microsoft.com/en-us/?v=17.14) as the lunch sponsor of our conference:
+
+<h5>Lunch Location:</h5>
+<a href="/img/pdx2017_food_trucks_map.png"><img width="768" src="/img/pdx2017_food_trucks_map.png" /></a>
+
+<h5>Menu:</h5>
+<img src="/img/pdx2017_food_menu.png" />
+</div>
