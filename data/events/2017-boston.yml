@@ -138,6 +138,8 @@ sponsors:
     level: gold
   - id: genians
     level: gold
+  - id: datadog
+    level: gold
   - id: treasuredata
     level: recruiting
   - id: opsgenie
