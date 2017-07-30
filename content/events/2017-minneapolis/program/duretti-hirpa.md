@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How do you get an engineering team to eat their vegetables?"
 Type = "talk"
 Speakers = ["duretti-hirpa"]
+speakerdeck = "https://speakerdeck.com/duretti/how-to-get-engineering-teams-to-eat-their-vegetables"
 +++
 
 As engineers, we’re often singularly obsessed with the idea that our job satisfaction comes solely from solving only the most interesting technical challenges. In reality, research shows that we perform best when we are rested, feel valued, and feel connected to a cause so we can focus on high-priority work.
