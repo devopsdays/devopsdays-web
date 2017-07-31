@@ -161,6 +161,8 @@ sponsors:
       level: event
     - id:  keybanc
       level: donuts
+    #- id:  microsoftazure  # Commented until the cash rolls in
+    #  level: lunch
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -193,6 +195,8 @@ sponsor_levels:
     label: "Event Coffee"
   - id: donuts
     label: "Event Donuts"
+#  - id: lunch
+#    label: "Event Lunch"
 
 program:
   - title: "Registration, Breakfast, Sponsors"

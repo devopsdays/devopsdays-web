@@ -102,7 +102,44 @@ August 3: Config Mgmt Camp + Container Days
 
 
 {{< event_twitter >}}
-<hr>
+<hr />
+<div>
+<h4 class="sponsor-cta">Platinum Sponsor Information:</h4>
 We're pleased to announce [IGNW](http://www.ignw.io) as a platinum sponsor of our conference:
 
 *IGNW’s Dev/Ops, Hybrid IT, App Mod, CI/CD, IaC Automation and SI Practices combine our deep TECHNICAL domain expertise with an insanely powerful ability to execute against your most important business priorities TODAY.  Big name consulting firms dig deep into your business- and dig deep into your budget. Our Agile Practice Area Frameworks get you the business results you need RIGHT NOW without wasting time and resources telling you what you already know. WE build; YOU transform!*
+
+<hr />
+<h4 class="sponsor-cta">Lunch Information:</h4>
+<!-- commenting out the Azure stuff while we wait for the sweet, sweet dolla, dolla bills to roll in -->
+<!-- We're pleased to announce [Microsoft Azure](https://azure.microsoft.com/en-us/?v=17.14) as the lunch sponsor of our conference:  -->
+
+<h5>Lunch Location:</h5>
+<a href="/events/2017-portland/pdx2017_food_trucks_map.png"><img width="768" src="/events/2017-portland/pdx2017_food_trucks_map.png" /></a>
+
+<h5>Menu:</h5>
+<ul>
+  <li><b>August 1:</b></li>
+    <ul>
+      <li><i>Polli-Tico:</i> Peruvian style rotisserie chicken dishes, GF, Vegetarian options</li>
+      <li><i>El Taco Yucateco:</i> Yucatan style tacos and burittos</li>
+      <li><i>Ramy's Lamb Shack:</i> Mediterranean. Lamb and chicken kabobs, gyros, vegetarian options</li>
+      <li><i>The Dump Truck:</i> Chinese Dumplings; vegetarian options</li>
+    </ul>
+
+  <li><b>August 2:</b></li>
+  <ul>
+    <li><i>Ash Wood Fired:</i> Wood Fired Pizza; vegetarian options</li>
+    <li><i>Ramy's Lamb Shack:</i> Mediterranean. Lamb and chicken kabobs, gyros, vegetarian options</li>
+    <li><i>Polli-Tico:</i> Peruvian style rotisserie chicken dishes, GF, Vegetarian options</li>
+    <li><i>El Taco Yucateco:</i> Yucatan style tacos and burittos</li>
+  </ul>
+
+  <li><b>August 3:</b></li>
+  <ul>
+    <li><i>Ramy's Lamb Shack:</i> Mediterranean. Lamb and chicken kabobs, gyros, vegetarian options</li>
+    <li><i>The Dump Truck:</i> Chinese Dumplings; vegetarian options</li>
+    <li><i>Ash Wood Fired:</i> Wood Fired Pizza; vegetarian options</li>
+  </ul>
+</ul>
+</div>
