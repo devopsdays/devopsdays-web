@@ -114,6 +114,8 @@ We're pleased to announce [IGNW](http://www.ignw.io) as a platinum sponsor of ou
 <!-- commenting out the Azure stuff while we wait for the sweet, sweet dolla, dolla bills to roll in -->
 <!-- We're pleased to announce [Microsoft Azure](https://azure.microsoft.com/en-us/?v=17.14) as the lunch sponsor of our conference:  -->
 
+We are providing lunch via Portland’s famous food carts! Carts will be located directly across the street to the East from the main entrance to the OCC. There will be gluten free, vegan, and other speciality diet options available.
+
 <h5>Lunch Location:</h5>
 <a href="/events/2017-portland/pdx2017_food_trucks_map.png"><img width="768" src="/events/2017-portland/pdx2017_food_trucks_map.png" /></a>
 
