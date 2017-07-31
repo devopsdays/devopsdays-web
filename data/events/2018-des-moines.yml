@@ -46,8 +46,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Social Media Contact"
-    twitter: "devopsdaysdsm"
   - name: "Tim Gifford"
     github: "timgifford"
     linkedin: "https://www.linkedin.com/in/timgifford"
@@ -68,8 +66,8 @@ team_members: # Name is the only required field for team members.
     github: "espoelstra"
     linkedin: "https://www.linkedin.com/in/ethanspoelstra"
     twitter: "ewspoelstra"
-organizer_email: "devopsdaysdesmoines+organizers@gmail.com" # Put your organizer email address here
-proposal_email: "devopsdaysdesmoines+proposals@gmail.com" # Put your proposal email address here
+organizer_email: "organizers-des-moines-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-des-moines-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
