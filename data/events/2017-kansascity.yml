@@ -29,7 +29,7 @@ registration_open: "true"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
+
 #  - name: speakers
   - name: location
   - name: registration
@@ -38,8 +38,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
   - name: sponsor
+  - name: program
   - name: contact
   - name: conduct
+
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -123,8 +125,10 @@ sponsors:
     level: gold
   - id: c2fo
     level: gold
+  - id: redhat
+    level: gold
   - id: 2016-ku
-    level: silver
+    level: community
   - id:  new-context
     level: silver
   - id: cerner
@@ -134,6 +138,8 @@ sponsors:
   - id: adaptivesg
     level: silver
   - id: tgs
+    level: bronze
+  - id: googlecloud
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

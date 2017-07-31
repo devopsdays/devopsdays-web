@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Application Automation & Containerization with Habitat"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/nathenharvey/application-automation-and-containerization-with-habitat"
 Speakers = ["nicole-johnson", "nathen-harvey"]
 +++
 

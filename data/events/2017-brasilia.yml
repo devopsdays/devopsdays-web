@@ -18,8 +18,8 @@ cfp_date_announce: 2017-09-22 # inform proposers of status
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-07-25 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2017-10-20 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,7 +34,7 @@ location_address: "Eixo Monumental, SHN quadra 5, bloco G" #Optional - use the s
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -87,6 +87,8 @@ sponsors:
   - id: 2017-rancherbr
     level: community
   - id: 2017-gitlabbr
+    level: community
+  - id: 2017-phpdf
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

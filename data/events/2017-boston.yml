@@ -32,11 +32,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
   - name: registration
   - name: location
- #   icon: "pencil"
- # - name: program
- #   icon: "book"
- # - name: speakers
- #   icon: "microphone"
+    icon: "pencil"
+  - name: program
+    icon: "book"
+  - name: speakers
+    icon: "microphone"
   - name: sponsor
     icon: "money"
   - name: contact
@@ -136,14 +136,20 @@ sponsors:
     level: gold
   - id: treasuredata
     level: gold
+  - id: genians
+    level: gold
+  - id: datadog
+    level: gold
   - id: treasuredata
     level: recruiting
   - id: opsgenie
     level: platinum
-  - id: thoughtworks-services
+  - id: gocd
     level: platinum
-  - id: digitalocean
+  - id: 2017-digitalocean
     level: platinum
+  - id: hackernest-bos
+    level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -162,5 +168,216 @@ sponsor_levels:
 
   - id: recruiting
     label: Recruiting
+  - id: community
+    label: Community
 
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-18
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "rob-cummings"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "tobias-macey"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "chloe-condon"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-18
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "matthew-boeckman"
+    type: talk
+    date: 2017-09-18
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "TBD"
+    type: custom
+    date: 2017-09-18
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "franklin-mosley"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "tom-mclaughlin"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-18
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "david-n-blankedelman"
+    type: talk
+    date: 2017-09-18
+    start_time: "13:00"
+    end_time: "13:15"
+  - title: "amy-hailes"
+    type: talk
+    date: 2017-09-18
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: 2017-09-18
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "corey-quinn"
+    type: workshop
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "TBD"
+    type: custom
+    date: 2017-09-18
+    start_time: "15:00"
+    end_time: "16:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-18
+    start_time: "15:00"
+    end_time: "16:00"
+  - title: "flynn"
+    type: workshop
+    date: 2017-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-09-18
+    start_time: "17:00"
+    end_time: "late"
+  
 
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2017-09-19
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "yulan-lin"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "leon-fayer"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "adam-kaufman"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-19
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "rachael-byrne"
+    type: talk
+    date: 2017-09-19
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "ed-rousseau"
+    type: talk
+    date: 2017-09-19
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "michael-sacks"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "john-sawers"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-19
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "TBD"
+    type: custom
+    date: 2017-09-19
+    start_time: "13:00"
+    end_time: "13:45"
+  - title: "alizishaan-khatri"
+    type: workshop
+    date: 2017-09-19
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-19
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "TBD"
+    type: custom
+    date: 2017-09-19
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-19
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "richard-li"
+    type: workshop
+    date: 2017-09-19
+    start_time: "15:10"
+    end_time: "15:55"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-19
+    start_time: "15:10"
+    end_time: "15:55"
+  - title: "phil-lombardi"
+    type: workshop
+    date: 2017-09-19
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2017-09-19
+    start_time: "16:00"
+    end_time: "16:45"
+  

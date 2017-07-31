@@ -134,6 +134,8 @@ sponsors:
       level: gold
     - id: bitnami
       level: bronze
+    - id: bitnami
+      level: cmccd
     - id: microsoft
       level: bronze
       twitter: '@vsts'
@@ -151,6 +153,14 @@ sponsors:
       level: silver
     - id: netapp
       level: cmccd
+    - id: ibm
+      level: coffee
+    - id:  atmosera
+      level: event
+    - id:  puppet
+      level: event
+    - id:  keybanc
+      level: donuts
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -179,6 +189,10 @@ sponsor_levels:
     label: Community
   - id: cmccd
     label: "ConfigMgmtCamp and Container Days"
+  - id: coffee
+    label: "Event Coffee"
+  - id: donuts
+    label: "Event Donuts"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -386,11 +400,6 @@ program:
     end_time: "09:50"
 
 
-  - title: "Sponsors"
-    type: custom
-    date: 2017-08-02
-    start_time: "09:50"
-    end_time: "09:55"
 
   - title: "max-timchenko"
     type: talk
@@ -435,7 +444,7 @@ program:
     end_time: "12:00"
     background_color:  "#42f1f4"
 
-  - title: "john-willis"
+  - title: "dustin-kirkland"
     type: talk
     date: 2017-08-03
     start_time: "11:25"
@@ -484,7 +493,7 @@ program:
     type: talk
     date: 2017-08-03
     start_time: "14:45"
-    end_time: "15:30"
+    end_time: "15:20"
     background_color: "#4280f4"
 
 
