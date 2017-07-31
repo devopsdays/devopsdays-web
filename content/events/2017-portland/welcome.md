@@ -118,5 +118,28 @@ We're pleased to announce [IGNW](http://www.ignw.io) as a platinum sponsor of ou
 <a href="/events/2017-portland/pdx2017_food_trucks_map.png"><img width="768" src="/events/2017-portland/pdx2017_food_trucks_map.png" /></a>
 
 <h5>Menu:</h5>
-<img src="/events/2017-portland/pdx2017_food_menu.png" />
+<ul>
+  <li><b>August 1:</b></li>
+    <ul>
+      <li><i>Polli-Tico:</i> Peruvian style rotisserie chicken dishes, GF, Vegetarian options</li>
+      <li><i>El Taco Yucateco:</i> Yucatan style tacos and burittos</li>
+      <li><i>Ramy's Lamb Shack:</i> Mediterranean. Lamb and chicken kabobs, gyros, vegetarian options</li>
+      <li><i>The Dump Truck:</i> Chinese Dumplings; vegetarian options</li>
+    </ul>
+
+  <li><b>August 2:</b></li>
+  <ul>
+    <li><i>Ash Wood Fired:</i> Wood Fired Pizza; vegetarian options</li>
+    <li><i>Ramy's Lamb Shack:</i> Mediterranean. Lamb and chicken kabobs, gyros, vegetarian options</li>
+    <li><i>Polli-Tico:</i> Peruvian style rotisserie chicken dishes, GF, Vegetarian options</li>
+    <li><i>El Taco Yucateco:</i> Yucatan style tacos and burittos</li>
+  </ul>
+
+  <li><b>August 3:</b></li>
+  <ul>
+    <li><i>Ramy's Lamb Shack:</i> Mediterranean. Lamb and chicken kabobs, gyros, vegetarian options</li>
+    <li><i>The Dump Truck:</i> Chinese Dumplings; vegetarian options</li>
+    <li><i>Ash Wood Fired:</i> Wood Fired Pizza; vegetarian options</li>
+  </ul>
+</ul>
 </div>
