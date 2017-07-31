@@ -111,7 +111,8 @@ We're pleased to announce [IGNW](http://www.ignw.io) as a platinum sponsor of ou
 
 <hr />
 <h4 class="sponsor-cta">Lunch Information:</h4>
-We're pleased to announce [Microsoft Azure](https://azure.microsoft.com/en-us/?v=17.14) as the lunch sponsor of our conference:
+<!-- commenting out the Azure stuff while we wait for the sweet, sweet dolla, dolla bills to roll in -->
+<!-- We're pleased to announce [Microsoft Azure](https://azure.microsoft.com/en-us/?v=17.14) as the lunch sponsor of our conference:  -->
 
 <h5>Lunch Location:</h5>
 <a href="/events/2017-portland/pdx2017_food_trucks_map.png"><img width="768" src="/events/2017-portland/pdx2017_food_trucks_map.png" /></a>
