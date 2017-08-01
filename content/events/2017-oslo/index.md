@@ -13,6 +13,10 @@ Description = "devopsdays Oslo 2017"
 
 {{< event_logo >}}
 
+<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>
+
+<p>Act now to secure your ticket at early-bird rates - once they're gone, they're gone...</p>
+
 </div>
 
 <div style="text-align:left">
