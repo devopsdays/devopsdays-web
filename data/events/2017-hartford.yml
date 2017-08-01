@@ -39,15 +39,14 @@ team_members: # Name is the only required field for team members.
   - name: "Aaron Aldrich"
     twitter: crayzeigh
     employer: "Cage Data, Inc."
-  - name: "Scott Russel"
-    twitter: sergeography
-    employer: "Core Informatics"
+  - name: "José Padilla"
+    twitter: jpadilla_
+    employer: "Alias Payments / FilePreviews.io"
   - name: "Jose Andrade"
     twitter: jandrade
     employer: "Yale University"
   - name: Eric Loveland
     twitter: elovelan
-  - name: Serena Ness
   - name: David James
     twitter: mego22
     employer: "PhishMe, INC"
@@ -63,6 +62,8 @@ sponsors:
     level: silver
   - id: arresteddevops
     level: community
+  - id: victorops
+    level: mug
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -71,11 +72,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: happy_hour
+    label: "Happy Hour"
+    max: 2
   - id: gold
     label: Gold
   - id: silver
     label: Silver
   - id: bronze
     label: Bronze
+  - id: mug
+    label: Mug
+    max: 4
   - id: community
     label: Community

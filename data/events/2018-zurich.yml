@@ -1,0 +1,122 @@
+name: "2018-zurich" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Zürich" # The city name of the event. Capitalize it.
+event_twitter: "DevOpsZH"
+
+# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-05-02
+enddate: 2018-05-03
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+# cfp_date_start: 2016-11-01 # start accepting talk proposals.
+# cfp_date_end: 2017-02-01 # close your call for proposals.
+# cfp_date_announce: 2017-04-01 # inform proposers of status
+registration_open: "false"
+
+# Location
+#
+coordinates: "47.497854, 8.731663" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Zürich Winterthur" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+
+#  - name: speakers
+#  - name: program
+# - name: propose
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: location
+#  - name: registration
+#  - name: sponsor
+  - name: contact
+#  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Martin Thalmann"
+    twitter: "martin_thalmann"
+    employer: "Swisscom AG"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/martinthalmann/"
+    website: ""
+    image: "martin-thalmann.jpg"
+  - name: "Roderick Jonsson"
+    twitter: ""
+    employer: ""
+    bio: "Linux System Engineer by profession and some times developer (symfony or java).<p> Working with CoreOS, Kubernetes, Openstack and Docker. <p> Loves tech trend spotting. <p> If you are passionate about DevOps technologies and finding out how they will influence the coming digital economy, then chat me up ;)"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/roderick-jonsson-b299ba88/"
+    website: ""
+    image: "roderick-jonsson.jpg"
+  - name: "Bastian Widmer"
+    twitter: "dasrecht"
+    employer: "amazee.io"
+    bio: "Bastian takes care of systems since nearly 15 years. He is also an avid speaker and conference organizer.<p>
+The nature of his internet-centric position makes him very aware that we need to safeguard the openness and neutrality of the internet on a global scale. This is also why he engages in several groups in Switzerland to work on issues related to net neutrality, security, and surveillance.<p>
+Outside of his job, Bastian dedicates much of his time to organizing various conferences and gatherings such as TEDxBern, DrupalCons. Bastian is passionate about Architecture, Circular Economy, the future of work, digital revolution and the impact on society itself."
+    github: "dasrecht"
+    facebook: ""
+    linkedin: "http://ch.linkedin.com/in/bastianwidmer"
+    website: "https://bastianwidmer.ch"
+    image: "bastian-widmer.jpg"
+  - name: "Tobias Brunner"
+    twitter: "tobruzh"
+    employer: "VSHN AG"
+    bio: "Tobias (aka tobru) is a DevOps Engineer at VSHN. He loves Open Source and everything about modern technologies like Docker, Kubernetes, OpenShift and the like. In his day job he leads the DevOps team at VSHN, does some sort of project management and works on APPUiO - The Swiss Container Platform."
+    github: "tobru"
+    facebook: ""
+    linkedin: ""
+    website: "https://tobrunet.ch/"
+    image: "tobias-brunner.jpg"
+  - name: "Vittorio Boccone"
+    twitter: "drbokko"
+    employer: "Dectris Ltd."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily writing beautiful code for Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator. He's also a DevOps enthusiast, a Ham Radio operator, a tech-explorer, a geek, a hacker, a biker, not to mention a father and a husband."
+    github: "https://github.com/drbokko"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
+    website: ""
+    image: "vittorio-boccone.jpg"
+  - name: "Matías E. Fernández"
+    twitter: "matiasfrndz"
+    employer: "ERNI Consulting AG"
+    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
+Keen learner and challenger of the status quo.<p>
+Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
+    github: "matiasfrndz"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
+    website: "https://matiasfrndz.ch/"
+    image: "matias-e-fernandez.jpg"
+  - name: "Marcelo Ancelmo"
+    twitter: "marceloancelmo"
+    employer: ""
+    bio: "Marcelo S. Ancelmo is currently a Lead Technical Architect with Cognizant, delivering tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In more than fifteen years of practical IT field experience, he assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "marcelo-ancelmo.jpg"
+  - name: "Marcel Wolf"
+    twitter: "_marcelwolf"
+    employer: "codecentric AG"
+    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "marcel-wolf.jpg"
+
+organizer_email: "organizer@devopsdays.ch" # Put your organizer email address here
+proposal_email: "organizer@devopsdays.ch" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "false" # Whether you want "Become a XXX Sponsor!" link
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+
+program:

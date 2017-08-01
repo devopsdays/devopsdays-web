@@ -29,7 +29,7 @@ registration_open: "true"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
+
 #  - name: speakers
   - name: location
   - name: registration
@@ -38,8 +38,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: smile-o
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
   - name: sponsor
+  - name: program
   - name: contact
   - name: conduct
+
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -91,6 +93,7 @@ team_members: # Name is the only required field for team members.
     employer: VML
     image: bert-weidt.jpg
     linkedin: https://www.linkedin.com/in/bertweidt/
+    bio: "Systems Architect and Security guy, but involved in many aspects of Technology for clients of all sizes. DevOps has changed the world for how solutions are implemented both internally and delivered to clients globally. Looking forward to what's next, other than self-driving cars. DevOpsDays is a great forum for sharing what's working, and talking about that thing that everyone wants most - innovation."
   - name: "Rebecca Sowers"
     image: rebecca-sowers.jpg
     employer: Cerner Corporation
@@ -120,11 +123,23 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: c2fo
+    level: gold
+  - id: redhat
+    level: gold
   - id: 2016-ku
-    level: silver
+    level: community
   - id:  new-context
     level: silver
   - id: cerner
+    level: bronze
+  - id: aws
+    level: bronze
+  - id: adaptivesg
+    level: silver
+  - id: tgs
+    level: bronze
+  - id: googlecloud
     level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -136,6 +151,243 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-21
+    start_time: "07:30"
+    end_time: "08:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-21
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "talk-1"
+    type: talk
+    date: 2017-09-21
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-21
+    start_time: "09:30"
+    end_time: "09:35"
+  - title: "talk-1"
+    type: talk
+    date: 2017-09-21
+    start_time: "09:35"
+    end_time: "10:05"
+  - title: "Break"
+    type: custom
+    date: 2017-09-21
+    start_time: "10:05"
+    end_time: "10:20"
+  - title: "talk-3"
+    type: talk
+    date: 2017-09-21
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-21
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "talk-4"
+    type: talk
+    date: 2017-09-21
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-21
+    start_time: "11:30"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-21
+    start_time: "11:50"
+    end_time: "13:10"
+  - title: "talk-5"
+    type: talk
+    date: 2017-09-21
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-21
+    start_time: "13:50"
+    end_time: "14:50"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-21
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-21
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Break"
+    type: custom
+    date: 2017-09-21
+    start_time: "15:55"
+    end_time: "16:10"
+  - title: "Open Space Summary"
+    type: open-space
+    date: 2017-09-21
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "talk-6"
+    type: talk
+    date: 2017-09-21
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2017-09-21
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Evening event (TBD)"
+    type: custom
+    date: 2017-09-21
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-22
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-22
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "talk-7"
+    type: talk
+    date: 2017-09-22
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-22
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "talk-8"
+    type: talk
+    date: 2017-09-22
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-22
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "talk-9"
+    type: talk
+    date: 2017-09-22
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-22
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "talk-10"
+    type: talk
+    date: 2017-09-22
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-22
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-22
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "talk-11"
+    type: talk
+    date: 2017-09-22
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-22
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-22
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-22
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Break"
+    type: custom
+    date: 2017-09-22
+    start_time: "16:15"
+    end_time: "16:35"
+  - title: "Open Space Summary"
+    type: open-space
+    date: 2017-09-22
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Closing and Raffle"
+    type: custom
+    date: 2017-09-22
+    start_time: "17:00"
+    end_time: "17:20"
+
+ignites:
+  - title: "ignite-1"
+    date: 2017-09-21
+  - title: "ignite-2"
+    date: 2017-09-21
+  - title: "ignite-3"
+    date: 2017-09-21
+  - title: "ignite-4"
+    date: 2017-09-21
+  - title: "ignite-5"
+    date: 2017-09-21
+  - title: "ignite-6"
+    date: 2017-09-21
+  - title: "ignite-7"
+    date: 2017-09-21
+  - title: "ignite-kareoke"
+    date: 2017-09-21
+  - title: "ignite-kareoke"
+    date: 2017-09-21
+  - title: "ignite-kareoke"
+    date: 2017-09-21
+  - title: "ignite-8"
+    date: 2017-09-22
+  - title: "ignite-9"
+    date: 2017-09-22
+  - title: "ignite-10"
+    date: 2017-09-22
+  - title: "ignite-11"
+    date: 2017-09-22
+  - title: "ignite-12"
+    date: 2017-09-22
+  - title: "ignite-13"
+    date: 2017-09-22
+  - title: "ignite-14"
+    date: 2017-09-22
+  - title: "ignite-kareoke"
+    date: 2017-09-22
+  - title: "ignite-kareoke"
+    date: 2017-09-22
+  - title: "ignite-kareoke"
+    date: 2017-09-22
+
+
 
 #speakers:
 #  - id: "charles-butler"

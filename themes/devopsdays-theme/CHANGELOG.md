@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.12.0](https://github.com/devopsdays/devopsdays-theme/tree/1.12.0) (2017-06-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.11.0...1.12.0)
+
+**Implemented enhancements:**
+
+- Improve title tags to remove duplication in Google [\#539](https://github.com/devopsdays/devopsdays-theme/issues/539)
+- Add embedded support for Google Forms on main pages [\#230](https://github.com/devopsdays/devopsdays-theme/issues/230)
+
+**Fixed bugs:**
+
+- List of other events should not say "past" [\#568](https://github.com/devopsdays/devopsdays-theme/issues/568)
+
 ## [1.11.0](https://github.com/devopsdays/devopsdays-theme/tree/1.11.0) (2017-06-08)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.3...1.11.0)
 

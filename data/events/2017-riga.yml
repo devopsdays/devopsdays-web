@@ -46,8 +46,20 @@ sponsors:
   # platinum
   - id: accenture-latvia
     level: platinum
+  - id: evolution-gaming
+    level: platinum
+  - id: pivotal
+    level: platinum
   # gold
+  - id: chef
+    level: gold
+  - id: ctco
+    level: gold
   # silver
+  - id: askfm
+    level: silver
+  - id: redhat
+    level: silver
   # addons
   - id: accenture-latvia
     level: venue

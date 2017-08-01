@@ -24,7 +24,7 @@ heading = "DevOpsDays Riga 2017 - Propose a session"
 <p>Go to <a href="https://www.papercall.io/devopsdays-riga-2017" target="_blank">PaperCall.io/DevOpsDays-Riga-2017</a> and submit your proposal there with the following information: </p>
 <ol>
 	<li>Proposal working title (can be changed later)</li>
-	<li>Type (presentation or ignite)</li>
+	<li>Type (presentation or <a href="http://www.ignitetalks.io/" target="_blank">ignite</a> talk)</li>
 	<li>Description or abstract</li>
 	<li>Links to your previous presentations and/or videos</li>
 </ol>

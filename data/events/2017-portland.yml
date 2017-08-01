@@ -23,8 +23,9 @@ location: "Portland" # Defaults to city, but you can make it the venue name.
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
   - name: program
+  - name: speakers
   - name: location
   - name: registration
     url: https://devopsdayspdx2017.busyconf.com/bookings/new
@@ -109,12 +110,65 @@ sponsors:
       level: gold
     - id: extrahop
       level: gold
-    - id: rigor
-      level: bronze
     - id: logicmonitor
       level: silver
+    - id: centurylink
+      level: silver
+    - id: chef
+      level: cmccd
+    - id: twistlock
+      level: cmccd
+    - id: scalyr
+      level: cmccd
+    - id: puppet
+      level: cmccd
+    - id: redhat
+      level: cmccd
+    - id: tripwire
+      level: bronze
+    - id: gocd
+      level: silver
+    - id: pagerduty
+      level: gold
+    - id: newrelic
+      level: gold
+    - id: bitnami
+      level: bronze
+    - id: bitnami
+      level: cmccd
+    - id: microsoft
+      level: bronze
+      twitter: '@vsts'
+    - id: saltstack
+      level: silver
+    - id: saltstack
+      level: cmccd
+    - id: ignw
+      level: platinum
+    - id: ignw
+      level: cmccd
+    - id: ansible
+      level: cmccd
+    - id: netapp
+      level: silver
+    - id: netapp
+      level: cmccd
+    - id: ibm
+      level: coffee
+    - id:  atmosera
+      level: event
+    - id:  puppet
+      level: event
+    - id:  keybanc
+      level: donuts
+    - id:  microsoftazure
+      level: lunch
+    - id:  diamanti
+      level: cmccd
+    - id:  diamanti
+      level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -139,6 +193,14 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+  - id: cmccd
+    label: "ConfigMgmtCamp and Container Days"
+  - id: coffee
+    label: "Event Coffee"
+  - id: donuts
+    label: "Event Donuts"
+  - id: lunch
+    label: "Event Lunch"
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -181,7 +243,7 @@ program:
     date: 2017-08-01
     start_time: "11:10"
     end_time: "11:20"
-  - title: "greg-poirier"
+  - title: "amye-scavarda"
     type: talk
     date: 2017-08-01
     start_time: "11:20"
@@ -231,11 +293,11 @@ program:
     date: 2017-08-01
     start_time: "16:50"
     end_time: "17:00"
-  - title: "Evening event (TBD)"
+  - title: "Evening event - OMSI (1945 SE Water Ave), Turbine Hall: Come enjoy a catered reception while exploring a real turbine generator, playing rock, paper, scissors with robots, and many other STEM-related games!"
     type: custom
     date: 2017-08-01
-    start_time: "18:00"
-    end_time: "late"
+    start_time: "19:00"
+    end_time: "21:30"
 
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -328,6 +390,172 @@ program:
     start_time: "16:40"
     end_time: "17:00"
 
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-08-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-08-03
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "kelsey-hightower"
+    type: talk
+    date: 2017-08-03
+    start_time: "09:15"
+    end_time: "09:50"
+
+
+
+  - title: "max-timchenko"
+    type: talk
+    date: 2017-08-03
+    start_time: "09:55"
+    end_time: "10:30"
+    background_color:  "#42f1f4"
+
+  - title: "christopher-adeo"
+    type: talk
+    date: 2017-08-03
+    start_time: "09:55"
+    end_time: "10:30"
+    background_color: "#4280f4"
+
+  - title: "Break"
+    type: custom
+    date: 2017-08-03
+    start_time: "10:30"
+    end_time: "10:45"
+
+
+
+  - title: "mike-place"
+    type: talk
+    date: 2017-08-03
+    start_time: "10:45"
+    end_time: "11:20"
+    background_color:  "#42f1f4"
+
+  - title: "kristen-accardi"
+    type: talk
+    date: 2017-08-03
+    start_time: "10:45"
+    end_time: "11:20"
+    background_color: "#4280f4"
+
+  - title: "inspec"
+    type: talk
+    date: 2017-08-03
+    start_time: "11:25"
+    end_time: "12:00"
+    background_color:  "#42f1f4"
+
+  - title: "dustin-kirkland"
+    type: talk
+    date: 2017-08-03
+    start_time: "11:25"
+    end_time: "12:00"
+    background_color: "#4280f4"
+
+
+
+
+
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-08-03
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-08-03
+    start_time: "13:00"
+    end_time: "14:00"
+
+  - title: "gene-liverman"
+    type: talk
+    date: 2017-08-03
+    start_time: "14:05"
+    end_time: "14:40"
+    background_color:  "#42f1f4"
+
+  - title: "william-henry"
+    type: talk
+    date: 2017-08-03
+    start_time: "14:05"
+    end_time: "14:40"
+    background_color: "#4280f4"
+
+  - title: "james-shubin"
+    type: talk
+    date: 2017-08-03
+    start_time: "14:45"
+    end_time: "15:20"
+    background_color:  "#42f1f4"
+
+  - title: "torin-sandall"
+    type: talk
+    date: 2017-08-03
+    start_time: "14:45"
+    end_time: "15:20"
+    background_color: "#4280f4"
+
+
+  - title: "Break"
+    type: custom
+    date: 2017-08-03
+    start_time: "15:20"
+    end_time: "15:35"
+
+  - title: "dan-bode"
+    type: talk
+    date: 2017-08-03
+    start_time: "15:35"
+    end_time: "16:10"
+    background_color:  "#42f1f4"
+
+  - title: "dennis-kliban"
+    type: talk
+    date: 2017-08-03
+    start_time: "15:35"
+    end_time: "16:10"
+    background_color: "#4280f4"
+
+  - title: "anubhav-mishra"
+    type: talk
+    date: 2017-08-03
+    start_time: "16:15"
+    end_time: "16:50"
+    background_color:  "#42f1f4"
+
+  - title: "soam-vasani"
+    type: talk
+    date: 2017-08-03
+    start_time: "16:15"
+    end_time: "16:50"
+    background_color: "#4280f4"
+
+  - title: "eric-sorenson"
+    type: talk
+    date: 2017-08-03
+    start_time: "16:55"
+    end_time: "17:30"
+
+  - title: "Closing"
+    type: custom
+    date: 2017-08-03
+    start_time: "17:30"
+    end_time: "17:35"
+
+
+
+
+
+
 ignites:
   - title: "glenn-sarti"
     date: 2017-08-01
@@ -337,5 +565,27 @@ ignites:
     date: 2017-08-01
   - title: "ed-anderson"
     date: 2017-08-01
-  - title: "ken-mugrage"
+  - title: "buy-devops"
     date: 2017-08-01
+  - title: "no-cd"
+    date: 2017-08-03
+  - title: "role-cookbook"
+    date: 2017-08-03
+  - title: "spencer-krum"
+    date: 2017-08-03
+  - title: "bernd-erk"
+    date: 2017-08-03
+  - title: "josh-berkus"
+    date: 2017-08-03
+  - title: "garrett-honeycutt"
+    date: 2017-08-03
+  - title: "jj-asghar"
+    date: 2017-08-03
+  - title: "grace-chung"
+    date: 2017-08-03
+  - title: "chakradhar-rao-jonagam"
+    date: 2017-08-03
+  - title: "ryan-whitehurst"
+    date: 2017-08-03
+  - title: "rich-burroughs"
+    date: 2017-08-03

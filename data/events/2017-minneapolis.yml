@@ -74,7 +74,7 @@ sponsors:
     level: community
   - id: pivotal
     level: platinum
-  - id: deis
+  - id: microsoftazure 
     level: silver
   - id: hackthegap
     level: community
@@ -158,6 +158,37 @@ sponsors:
     level: silver
   - id: aws
     level: platinum
+  - id: target
+    level: gold
+  - id: gitmsp
+    level: community
+  - id: sps_commerce
+    level: alacarte
+  - id: scalyr
+    level: alacarte
+  - id: target
+    level: alacarte
+  - id: carlsonwagonlit
+    level: alacarte
+  - id: arista
+    level: alacarte
+  - id: centurylink
+    level: alacarte
+  - id: f5
+    level: bronze
+  - id: servicenow
+    level: bronze
+  - id: checkmarx
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: newrelic
+    level: bronze
+  - id: cargill
+    level: alacarte
+  - id: dynatrace
+    level: bronze
+
 
 sponsors_accepted : "no"
 
@@ -169,6 +200,10 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community
 program:
@@ -257,7 +292,7 @@ program:
     date: 2017-07-25
     start_time: "16:15"
     end_time: "17:00"
-  - title: "ashley-mcnamara"
+  - title: "jerome-petazzoni"
     type: workshop
     date: 2017-07-25
     start_time: "15:30"
@@ -337,7 +372,7 @@ program:
     date: 2017-07-26
     start_time: "14:00"
     end_time: "14:45"
-  - title: "jerome-petazzoni"
+  - title: "inspec"
     type: workshop
     date: 2017-07-26
     start_time: "13:15"
@@ -357,7 +392,7 @@ program:
     date: 2017-07-26
     start_time: "16:00"
     end_time: "16:45"
-  - title: "nicole-johnson-nathen-harvey"
+  - title: "habitat"
     type: workshop
     date: 2017-07-26
     start_time: "15:15"

@@ -13,6 +13,8 @@ DevOpsDays is a volunteer organized event for practitioners that depends on spon
 
 Gold sponsors have the opportunity to have short elevator pitches during the program. All sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 
+[Clarification added 2017-07-14] Silver sponsors have a shared table to put swag or giveaways at. The shared tables do not have space to be staffed. Have your folks join in the event!
+
 Most sponsors find they get the best response by sending engineers to interact with the experts at DevOpsDays on their own terms.
 
 ---
@@ -46,18 +48,13 @@ Most sponsors find they get the best response by sending engineers to interact w
         </form>
       </td>
       <td>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="CNNWD7D6SRFXL">
-            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        Sold out!
       </td>
       <td>
         Sold out!
       </td>
       <td>
-        Contact us!
+        Sold out!
       </td>
     </tr>
     <tr>
@@ -117,7 +114,7 @@ Most sponsors find they get the best response by sending engineers to interact w
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td style="padding-left: 5px">Shared table</td>
+      <td style="padding-left: 5px">Shared table (see clarification above)</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>

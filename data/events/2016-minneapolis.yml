@@ -87,7 +87,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: sps_commerce
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: gold
   - id: saucelabs
     level: silver
@@ -117,7 +117,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: community
   - id: softwaredefinedtalk
     level: community
-  - id: 2016-gitmsp
+  - id: gitmsp-before-20170629
     level: community
   - id: blacksintechnology
     level: community

@@ -3,6 +3,9 @@ Title = "Resilient Systems Require Resilient People"
 Type = "talk"
 Speakers = ["hannah-foxwell"]
 aliases = ["/events/2017-amsterdam/program/hannah-foxwell/"]
+youtube = "HjWmKnUHL20"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Hannah_Foxwell-Resilient_Systems_Require_Resilient_People.pdf"
 +++
 
 Building resilient systems is what we do and we do it well, but how much time do we spend working on our own personal resilience? In the ever changing world of technology, how do we ensure we are flexible, adaptable and resilient in the face of challenges and setbacks?

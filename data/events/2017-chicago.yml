@@ -29,11 +29,12 @@ location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdays-chicago-2017 # The url setting is optional, and only if you want the navigation to link off-site
+  - name: program
   - name: location
   - name: registration
+  - name: speakers
+  - name: volunteer
+    icon: heart-o
   - name: sponsor
   - name: contact
   - name: conduct
@@ -145,6 +146,18 @@ sponsors:
     level: community
   - id: market-research-media-chicago
     level: community
+  - id: morpheus_data
+    level: gold
+  - id: cloudbolt
+    level: gold
+  - id: writespeakcode
+    level: community
+  - id: columntech
+    level: gold
+  - id: sproutsocial
+    level: silver
+  - id: signal
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -163,3 +176,235 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-12
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeff-smith"
+    type: talk
+    date: 2017-09-12
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "bill-weiss"
+    type: talk
+    date: 2017-09-12
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-12
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "rhea-ghosh"
+    type: talk
+    date: 2017-09-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paul-hinze"
+    type: talk
+    date: 2017-09-12
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-09-12
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-12
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-12
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2017-09-12
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "rob-richardson"
+    type: workshop
+    date: 2017-09-12
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custo
+    date: 2017-09-12
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2017-09-12
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "jahmel-harris"
+    type: workshop
+    date: 2017-09-12
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2017-09-12
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-09-12
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening event"
+    type: custom
+    date: 2017-09-12
+    start_time: "18:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-13
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "katie-prizy"
+    type: talk
+    date: 2017-09-13
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "pramod-sadalage"
+    type: talk
+    date: 2017-09-13
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-13
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "ashley-sun"
+    type: talk
+    date: 2017-09-13
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "jason-yee"
+    type: talk
+    date: 2017-09-13
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-09-13
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-13
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-13
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2017-09-13
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "alison-stanton"
+    type: workshop
+    date: 2017-09-13
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2017-09-13
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2017-09-13
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "matthew-schlue"
+    type: workshop
+    date: 2017-09-13
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2017-09-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "arrested-devops"
+    type: workshop
+    date: 2017-09-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2017-09-13
+    start_time: "17:00"
+    end_time: "17:15"
+ignites:
+  - title: "joe-nuspl"
+    date: 2017-09-12
+  - title: "nell-shamrell-harrington"
+    date: 2017-09-12
+  - title: "anjuan-simmons"
+    date: 2017-09-12
+  - title: "rachael-byrne"
+    date: 2017-09-12
+  - title: "peter-piekarczyk"
+    date: 2017-09-12
+  - title: "jeffrey-sykes"
+    date: 2017-09-13
+  - title: "michael-stahnke"
+    date: 2017-09-13
+  - title: "soo-choi"
+    date: 2017-09-13
+  - title: "paul-reed"
+    date: 2017-09-13
+  - title: "joshua-zimmerman"
+    date: 2017-09-13

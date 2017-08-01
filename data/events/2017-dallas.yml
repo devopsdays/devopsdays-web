@@ -29,14 +29,14 @@ location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# - name: program
-#   icon: "book"
   - name: propose
     icon: "paper-plane"
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
     icon: "map-o"
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+  - name: program
+    icon: "book"
   - name: registration
     icon: "pencil"
   - name: speakers
@@ -60,23 +60,14 @@ team_members: # Name is the only required field for team members.
     github: "anniehedgpeth"
     image: "annie.jpg"
   - name: "Ben Johnson"
-    employer: "Particle41"
+    employer: ""
     bio: "Consummate Technology Leader with strong open source programming background and hands on skills in Ruby on Rails, PHP and NodeJS. Extensive experience with remote distributed development teams. Establish highest levels of quality through continuous integration, continuous delivery, and automated testing standards. Constant focus on results and ways to improve while having fun building highly scalable and highly secure applications."
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
 #   facebook:
-#   website: ""
-#   github: ""
+    website: ""
+    github: "benjohnson77"
     image: "ben.jpg"
-  - name: "Cory Forsythe"
-    employer: "Capital One"
-    bio: "Cory Forsythe is a Software Manager and DevOps evangelist working with Capital One’s Auto Finance teams. With a background in traditional .Net development in the healthcare and natural gas industries, he has worked to evolve his skillset toward more modern cloud-first architecture and serverless computing. Having spent some time working directly with Amazon, Cory is a proponent of the AWS Cloud and the infrastructure services provided within. Cory invests time heavily in the study of industry CI/CD tooling and test automation and is looking forward to hearing what great advances in practice come out of our DFW organizations in 2017."
-    twitter: "CoryForsythe"
-    linkedin: "https://www.linkedin.com/in/123123214cf/"
-#   facebook: ""
-#   website: ""
-#   github: ""
-    image: "cory.jpg"
   - name: "Gokul Sridharan"
     employer: "CA Technologies"
     bio: "Gokul Sridharan, is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
@@ -156,6 +147,8 @@ sponsors:
     level: platinum
   - id: appdynamics
     level: platinum
+  - id: dellemc
+    level: platinum
   - id: pivotal
     level: gold
   - id: ns1
@@ -168,13 +161,25 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: signifai
+    level: gold
+  - id: homedepot
+    level: gold
+  - id: hpe
+    level: gold
+  - id: elastic
+    level: gold
   - id: alertlogic
     level: silver
   - id: arresteddevops
-    level: community
+    level: media
+  - id: devopsdotcom
+    level: media
   - id: devopslive
     level: community
-  - id: addo2017
+  - id: 2017-addo
+    level: community
+  - id: hackernest-dfw
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -199,6 +204,8 @@ sponsor_levels:
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
   - id: community
     label: Community
     max: 5
@@ -207,168 +214,186 @@ program:
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-29
-    start_time: "09:00"
-    end_time: "10:00"
-  - title: "Opening Welcome"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome by Capital One CIO"
     type: custom
     date: 2017-08-29
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "adam-jacob"
     type: talk
     date: 2017-08-29
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "09:10"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-29
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "manah-khalil"
+    type: talk
+    date: 2017-08-29
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-08-29
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "carlos-nunez"
+    type: talk
+    date: 2017-08-29
     start_time: "10:40"
-    end_time: "11:00"
-  - title: ""
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-29
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "mark-andersen"
     type: talk
     date: 2017-08-29
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
-    date: 2017-08-29
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-08-29
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Ignite Talks"
     type: ignite
     date: 2017-08-29
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
-    type: talk
-    date: 2017-08-29
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space Opening"
+  - title: "Open Space - Overview & Topic Proposal/Selection"
     type: open-space
     date: 2017-08-29
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "13:30"
+    end_time: "14:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-08-29
-    start_time: "14:40"
-    end_time: "15:25"
+    start_time: "15:00"
+    end_time: "15:55"
   - title: "Break"
     type: custom
     date: 2017-08-29
     start_time: "15:25"
-    end_time: "15:40"
+    end_time: "15:45"
   - title: "Open Space #2"
     type: open-space
     date: 2017-08-29
-    start_time: "15:40"
-    end_time: "16:25"
-  - title: "Break"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
     type: custom
     date: 2017-08-29
-    start_time: "16:25"
-    end_time: "16:40"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2017-08-29
-    start_time: "16:40"
-    end_time: "17:25"
-  - title: "Evening Event"
+    start_time: "16:44"
+    end_time: "17:00"
+  - title: "Happy Hour - Social Networking Event"
     type: custom
     date: 2017-08-29
-    start_time: "17:30"
-    end_time: "20:30"
-    comments: "tba"
+    start_time: "17:00"
+    end_time: "19:00"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-30
-    start_time: "09:00"
-    end_time: "10:00"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
     date: 2017-08-30
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "john-willis"
     type: talk
     date: 2017-08-30
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "09:10"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-30
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "chloe-condon"
+    type: talk
+    date: 2017-08-30
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-08-30
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-08-30
     start_time: "10:40"
-    end_time: "11:00"
-  - title: ""
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-08-30
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paul-grizzaffi"
     type: talk
     date: 2017-08-30
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
-    date: 2017-08-30
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-08-30
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Ignite Talks"
     type: ignite
     date: 2017-08-30
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
-    type: talk
-    date: 2017-08-30
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space Opening"
+  - title: "Open Space - Topic Proposal/Selection"
     type: open-space
     date: 2017-08-30
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "13:30"
+    end_time: "14:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-08-30
-    start_time: "14:40"
-    end_time: "15:25"
-  - title: "Break"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "SPEAKER DISCUSSION PANEL"
     type: custom
     date: 2017-08-30
-    start_time: "15:25"
-    end_time: "15:40"
-  - title: "Open Space #2"
-    type: open-space
-    date: 2017-08-30
-    start_time: "15:40"
-    end_time: "16:25"
-  - title: "Break"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing & Farewell"
     type: custom
     date: 2017-08-30
-    start_time: "16:25"
-    end_time: "16:40"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2017-08-30
-    start_time: "16:40"
-    end_time: "17:25"
+    start_time: "16:45"
+    end_time: "17:00"
 
 ignites:
-  - title: ""
+  - title: "michael-cote"
     date: 2017-08-29
-  - title: ""
+  - title: "karen-odegaard"
     date: 2017-08-29
-  - title: ""
+  - title: "david-laulusa"
+    date: 2017-08-29
+  - title: "pete-chestna"
+    date: 2017-08-29
+  - title: "jane-prusakova"
+    date: 2017-08-29
+  - title: "TBA"
+    date: 2017-08-29
+  - title: "franklin-mosley"
     date: 2017-08-30
-  - title: ""
+  - title: "emily-freeman"
     date: 2017-08-30
-  - title: ""
+  - title: "lucas-harms"
+    date: 2017-08-30
+  - title: "TBA"
+    date: 2017-08-30
+  - title: "david-brown"
+    date: 2017-08-30
+  - title: "rob-hirschfeld"
     date: 2017-08-30

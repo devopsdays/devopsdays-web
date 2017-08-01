@@ -3,6 +3,9 @@ Title = "Practical tips for defending web applications in the age of agile/DevOp
 Type = "talk"
 Speakers = ["zane-lackey"]
 aliases = ["/events/2017-amsterdam/program/zane-lackey/"]
+youtube = "Mae2iXUA7a4"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Zane_Lacker-Practical_Tips_For_Defending_Web_Applications_In_The_Age_Of_Agile_Devops.pdf"
 +++
 
 The standard approaches for web application security over the last decade and beyond has focused heavily on slow gatekeeping controls like static analysis and dynamic scanning. However, these controls was originally designed in a world of Waterfall development and their heavy weight nature often cause more problems than they solve in today’s world of agile, DevOps, and CI/CD.
