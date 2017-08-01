@@ -19,6 +19,8 @@ Description = "devopsdays Oslo 2017"
 
 </div>
 
+<br>
+
 <div style="text-align:left">
 
 <p>Make sure to follow us on Twitter, <a href="https://twitter.com/devopsdaysoslo">@devopsdaysoslo</a> for notifications. We're pretty confident that you will enjoy them ;-)</p>
