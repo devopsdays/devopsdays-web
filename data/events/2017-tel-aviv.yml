@@ -98,6 +98,13 @@ sponsors:
     level: lanyard
   - id: 2017-cloudify
     level: silver
+#  - id: automic
+#    level: silver
+#  - id: automic
+#    level: coffee
+#  - id: statscraft
+#    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
