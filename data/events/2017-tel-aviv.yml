@@ -96,9 +96,8 @@ proposal_email: "proposals-tel-aviv-2017@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: 2017-cloudify
     level: lanyard
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-#  - id: arresteddevops
-#    level: community
+  - id: 2017-cloudify
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
