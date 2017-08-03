@@ -104,6 +104,22 @@ sponsors:
 #    level: coffee
 #  - id: statscraft
 #    level: community
+#  - id: appsflyer
+#    level: bronze
+#  - id: bigpanda
+#    level: silver
+#  - id: googlecloud
+#    level: silver
+#  - id: logzio
+#    level: silver
+#  - id: outbrain
+#    level: silver
+#  - id: oracle
+#    level: silver
+#  - id: elastic
+#    level: bronze
+#  - id: twistlock
+#    level: bronze
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
