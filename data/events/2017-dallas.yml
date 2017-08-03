@@ -228,7 +228,7 @@ program:
     date: 2017-08-29
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Sponsors"
+  - title: "Platinum Sponsor Pitch - Chef / Verizon"
     type: custom
     date: 2017-08-29
     start_time: "09:50"
@@ -248,7 +248,7 @@ program:
     date: 2017-08-29
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Platinum Sponsor Pitch - AppDynamics / DellEMC"
     type: custom
     date: 2017-08-29
     start_time: "11:10"
@@ -298,6 +298,8 @@ program:
     date: 2017-08-29
     start_time: "17:00"
     end_time: "19:00"
+
+
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-30
@@ -313,7 +315,7 @@ program:
     date: 2017-08-30
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Sponsors"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie"
     type: custom
     date: 2017-08-30
     start_time: "09:50"
@@ -333,7 +335,7 @@ program:
     date: 2017-08-30
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE"
     type: custom
     date: 2017-08-30
     start_time: "11:10"
