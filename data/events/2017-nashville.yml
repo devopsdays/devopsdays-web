@@ -65,11 +65,17 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: rubrik
+    level: gold
+  - id: changehealthcare
+    level: silver
   - id: instana
     level: silver
   - id: systemfrontier
     level: silver
   - id: axialhealthcare
+    level: bronze
+  - id: cardinalsolutions
     level: bronze
   - id: cbsinteractive
     level: bronze
