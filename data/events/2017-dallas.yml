@@ -169,6 +169,8 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: gocd
+    level: gold
   - id: alertlogic
     level: silver
   - id: arresteddevops
@@ -315,7 +317,7 @@ program:
     date: 2017-08-30
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks"
     type: custom
     date: 2017-08-30
     start_time: "09:50"
@@ -395,7 +397,7 @@ ignites:
     date: 2017-08-30
   - title: "lucas-harms"
     date: 2017-08-30
-  - title: "TBA"
+  - title: "nora-kennedy"
     date: 2017-08-30
   - title: "david-brown"
     date: 2017-08-30
