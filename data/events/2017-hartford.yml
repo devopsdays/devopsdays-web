@@ -58,6 +58,8 @@ proposal_email: "organizers-hartford-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: pivotal
     level: gold
+  - id: chef
+    level: gold
   - id: victorops
     level: silver
   - id: arresteddevops

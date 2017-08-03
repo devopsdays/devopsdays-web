@@ -175,9 +175,13 @@ sponsors:
     level: media
   - id: devopsdotcom
     level: media
+  - id: itrevolution
+    level: media
   - id: devopslive
     level: community
   - id: 2017-addo
+    level: community
+  - id: hackernest-dfw
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

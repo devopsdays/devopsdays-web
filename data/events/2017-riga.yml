@@ -65,9 +65,16 @@ sponsors:
     level: venue
   - id: accenture-latvia
     level: lunch
+  # friends
   - id: 4sure
     level: friends
   - id: devclub-lv
+    level: friends
+  - id: devclub-ee
+    level: friends
+  - id: devclub-eu
+    level: friends
+  - id: spark-tartu
     level: friends
   - id: devops-lv
     level: friends
@@ -109,4 +116,4 @@ sponsor_levels:
   #  label: Lanyards
   #  max: "1"
   - id: friends
-    label: Friends
+    label: Friends or other
