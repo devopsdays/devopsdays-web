@@ -1,10 +1,11 @@
 +++
 Title = "Adam Kaufman"
 Twitter = ""
-
+image = "adam-kaufman.jpg"
 type = "speaker"
 linktitle = "adam-kaufman"
-
+linkedin = "https://www.linkedin.com/in/adam-kaufman-1a501119/"
+github = "ajk8"
 +++
 
 

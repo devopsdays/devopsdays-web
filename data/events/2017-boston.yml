@@ -150,6 +150,10 @@ sponsors:
     level: platinum
   - id: hackernest-bos
     level: community
+  - id: questsoftware
+    level: gold
+  - id: verizon
+    level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
