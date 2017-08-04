@@ -171,6 +171,8 @@ sponsors:
     level: gold
   - id: gocd
     level: gold
+  - id: f5
+    level: gold
   - id: alertlogic
     level: silver
   - id: arresteddevops
@@ -337,7 +339,7 @@ program:
     date: 2017-08-30
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5"
     type: custom
     date: 2017-08-30
     start_time: "11:10"
