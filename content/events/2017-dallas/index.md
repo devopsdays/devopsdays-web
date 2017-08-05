@@ -96,9 +96,16 @@ This year the event will be held at
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+<br>
+
+<img style="float: center; max-width: 150px; padding: 0px 0px 0px 0px" src="/events/2017-dallas/available-now.png">
+
+## WORKSHOP
+## {{< event_link page="program/inspec" text="Continuous Compliance With InSpec" >}}
+### Click <strong>[here](https://www.eventbrite.com/e/devopsdays-dfw-2017-tickets-33482024637?=InSpecWS#tickets)</strong> to purchase ticket.
 
 <br>
-<br>
+
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="addthis_horizontal_follow_toolbox"></div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
