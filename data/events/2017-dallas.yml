@@ -189,6 +189,12 @@ sponsors:
     level: community
   - id: hackernest-dfw
     level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
