@@ -6,6 +6,7 @@ Title = "17th Century Shipbuilding and Your Failed Software Project"
 Type = "talk"
 Speakers = ["pete-cheslock"]
 slides = "https://pete.wtf/vasa/"
+youtube = "reZmgX2rmUw"
 +++
 
 Around 4:00 PM on August 10, 1628 the warship Vasa set sail in Stockholm harbor on its maiden voyage as the newest ship in the Royal Swedish Navy. After sailing about 1300 meters, a light gust of wind caused the Vasa to heel over on its side. Water poured in through the gun portals and the ship sank with a loss of 53 lives.

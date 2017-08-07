@@ -10,15 +10,15 @@ startdate: 2017-11-13
 enddate:  2017-11-14
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start:  2017-07-31
+cfp_date_end:  2017-10-01
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: https://www.papercall.io/devopsdaystlv
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-07-31
+registration_date_end: 2017-11-13
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -31,7 +31,8 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/devopsdaystlv
   - name: location
   - name: registration
  # - name: program
@@ -95,9 +96,8 @@ proposal_email: "proposals-tel-aviv-2017@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: 2017-cloudify
     level: lanyard
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-#  - id: arresteddevops
-#    level: community
+  - id: 2017-cloudify
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
