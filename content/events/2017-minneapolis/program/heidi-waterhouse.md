@@ -6,7 +6,6 @@ Title = "Fear of the Bus"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]
 googleslides = "1uxkjdWq4ZTcbbYFtyIgARvT26ZzoDlPXsN126J0o9wg"
-slides = "https://docs.google.com/presentation/d/1uxkjdWq4ZTcbbYFtyIgARvT26ZzoDlPXsN126J0o9wg/edit#slide=id.p"
 youtube = "Gj2UcMrr6Wk"
 +++
 
