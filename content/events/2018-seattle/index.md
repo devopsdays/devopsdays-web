@@ -9,12 +9,11 @@ Description = "devopsdays Seattle 2018"
   {{< event_logo >}}
 </div> -->
 
-DevOpsDays will be returning to Seattle in the spring of 2018. We'll update this
+DevOpsDays will be returning to Seattle in April 2018. We'll update this
 space as dates get set.
 
 Approximate timeline...
 
-* Dates announced: Very soon
 * CFP Open: Late fall 2017
 * Sponsorships open: Late fall 2017
 * Registration open: Early winter 2018
