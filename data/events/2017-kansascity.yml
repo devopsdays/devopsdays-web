@@ -171,7 +171,7 @@ program:
     date: 2017-09-21
     start_time: "08:30"
     end_time: "09:00"
-  - title: "talk-1"
+  - title: "chloe-condon"
     type: talk
     date: 2017-09-21
     start_time: "09:00"
@@ -181,7 +181,7 @@ program:
     date: 2017-09-21
     start_time: "09:30"
     end_time: "09:35"
-  - title: "talk-1"
+  - title: "matthew-boeckman"
     type: talk
     date: 2017-09-21
     start_time: "09:35"
@@ -191,7 +191,7 @@ program:
     date: 2017-09-21
     start_time: "10:05"
     end_time: "10:20"
-  - title: "talk-3"
+  - title: "jonathan-stacks"
     type: talk
     date: 2017-09-21
     start_time: "10:20"
@@ -201,7 +201,7 @@ program:
     date: 2017-09-21
     start_time: "10:50"
     end_time: "11:00"
-  - title: "talk-4"
+  - title: "julie-stark"
     type: talk
     date: 2017-09-21
     start_time: "11:00"
@@ -216,7 +216,7 @@ program:
     date: 2017-09-21
     start_time: "11:50"
     end_time: "13:10"
-  - title: "talk-5"
+  - title: "james-wickett"
     type: talk
     date: 2017-09-21
     start_time: "13:10"
@@ -241,15 +241,15 @@ program:
     date: 2017-09-21
     start_time: "15:55"
     end_time: "16:10"
-  - title: "Open Space Summary"
+  - title: "Open Space #3"
     type: open-space
     date: 2017-09-21
     start_time: "16:10"
-    end_time: "16:20"
-  - title: "talk-6"
-    type: talk
+    end_time: "16:40"
+  - title: "Open Space Summary"
+    type: open-space
     date: 2017-09-21
-    start_time: "16:20"
+    start_time: "16:40"
     end_time: "16:50"
   - title: "Close Day"
     type: custom
@@ -272,7 +272,7 @@ program:
     date: 2017-09-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "talk-7"
+  - title: "michael-coté"
     type: talk
     date: 2017-09-22
     start_time: "09:15"
@@ -282,7 +282,7 @@ program:
     date: 2017-09-22
     start_time: "09:45"
     end_time: "09:55"
-  - title: "talk-8"
+  - title: "mark-shead"
     type: talk
     date: 2017-09-22
     start_time: "09:55"
@@ -292,7 +292,7 @@ program:
     date: 2017-09-22
     start_time: "10:25"
     end_time: "10:40"
-  - title: "talk-9"
+  - title: "kishore-jalleda"
     type: talk
     date: 2017-09-22
     start_time: "10:40"
@@ -302,7 +302,7 @@ program:
     date: 2017-09-22
     start_time: "11:10"
     end_time: "11:20"
-  - title: "talk-10"
+  - title: "jyoti-mittal"
     type: talk
     date: 2017-09-22
     start_time: "11:20"
@@ -317,7 +317,7 @@ program:
     date: 2017-09-22
     start_time: "12:10"
     end_time: "13:30"
-  - title: "talk-11"
+  - title: "noah-kantrowitz"
     type: talk
     date: 2017-09-22
     start_time: "13:30"
@@ -354,45 +354,43 @@ program:
     end_time: "17:20"
 
 ignites:
-  - title: "ignite-1"
+  - title: "josh-wood"
     date: 2017-09-21
-  - title: "ignite-2"
+  - title: "joshua-goldman"
     date: 2017-09-21
-  - title: "ignite-3"
+  - title: "david-laulusa"
     date: 2017-09-21
-  - title: "ignite-4"
+  - title: "todd-brees"
     date: 2017-09-21
-  - title: "ignite-5"
+  - title: "kyle-sexton"
     date: 2017-09-21
-  - title: "ignite-6"
+  - title: "jeffrey-sykes"
     date: 2017-09-21
-  - title: "ignite-7"
+  - title: "dustin-collins"
     date: 2017-09-21
-  - title: "ignite-kareoke"
+  - title: "ignite-karaoke"
     date: 2017-09-21
-  - title: "ignite-kareoke"
+  - title: "ignite-karaoke"
     date: 2017-09-21
-  - title: "ignite-kareoke"
+  - title: "ignite-karaoke"
     date: 2017-09-21
-  - title: "ignite-8"
+  - title: "dane-hammer"
     date: 2017-09-22
-  - title: "ignite-9"
+  - title: "david-hollinger-iii"
     date: 2017-09-22
-  - title: "ignite-10"
+  - title: "scott-howell-iii"
     date: 2017-09-22
-  - title: "ignite-11"
+  - title: "dave-swersky"
     date: 2017-09-22
-  - title: "ignite-12"
+  - title: "adam-wieberg"
     date: 2017-09-22
-  - title: "ignite-13"
+  - title: "alison-stanton"
     date: 2017-09-22
-  - title: "ignite-14"
+  - title: "ignite-karaoke"
     date: 2017-09-22
-  - title: "ignite-kareoke"
+  - title: "ignite-karaoke"
     date: 2017-09-22
-  - title: "ignite-kareoke"
-    date: 2017-09-22
-  - title: "ignite-kareoke"
+  - title: "ignite-karaoke"
     date: 2017-09-22
 
 
