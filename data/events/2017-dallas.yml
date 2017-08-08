@@ -173,6 +173,8 @@ sponsors:
     level: gold
   - id: f5
     level: gold
+  - id: rubrik
+    level: gold   
   - id: alertlogic
     level: silver
   - id: inspec
