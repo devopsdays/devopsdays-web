@@ -1,5 +1,5 @@
 +++
-Title = "Alison Stanton"
+Title = "Josh Wood"
 Twitter = "joshixisjosh9"
 website = "https://joshix.com/"
 type = "speaker"

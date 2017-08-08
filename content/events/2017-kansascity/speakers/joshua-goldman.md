@@ -1,10 +1,9 @@
 +++
-Title = "Alison Stanton"
+Title = "Joshua Goldman"
 Twitter = "JGoldops"
 type = "speaker"
 linktitle = "joshua-goldman"
 image = "joshua-goldman.jpg"
-
 +++
 
 Joshua Goldman is a New Software Engineering Manager, Speaker, <strike>Genius</strike>, Philanthropist, <strike>Billionaire</strike>

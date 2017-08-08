@@ -1,5 +1,5 @@
 +++
-Title = "Alison Stanton"
+Title = "Michael Coté"
 Twitter = "cote"
 website = "https://cote.io/"
 type = "speaker"
