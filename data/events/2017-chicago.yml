@@ -158,6 +158,12 @@ sponsors:
     level: silver
   - id: signal
     level: silver
+  - id: checkmarx
+    level: gold
+  - id: redhat
+    level: gold
+  - id: mesosphere
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
