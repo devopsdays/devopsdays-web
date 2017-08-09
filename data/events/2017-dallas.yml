@@ -177,6 +177,8 @@ sponsors:
     level: gold   
   - id: alertlogic
     level: silver
+  - id: 10thmagnitude
+    level: silver
   - id: inspec
     level: workshop
   - id: arresteddevops
