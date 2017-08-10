@@ -48,21 +48,21 @@ This year we have the privilege of hosting devopsdays DFW at Capital One Confere
       <td>&nbsp;</td>
       <td >
       <center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<!--      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+          <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2"> -->
+          <input type="image" src="/events/2017-dallas/sold-out.png" border="0" name="submit" alt="Sorry - Sold Out"> 
+          <img alt="Sorry - Sold Out" border="0" src="/events/2017-dallas/sold-out.png" width="1" height="1">
         </form>
       </center>
       </td>
       <td >
       <center>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<!--        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="T9FFFGP72XC4Y">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          <input type="hidden" name="hosted_button_id" value="T9FFFGP72XC4Y"> -->
+          <input type="image" src="/events/2017-dallas/sold-out.png" border="0" name="submit" alt="Sorry - Sold Out"> 
+          <img alt="Sorry - Sold Out" border="0" src="/events/2017-dallas/sold-out.png" width="1" height="1">
         </form>
       </center>
       </td>
