@@ -2,7 +2,7 @@
 Title = "devopsdays Boston 2017"
 Type = "welcome"
 aliases = ["/events/2017-boston/welcome"]
-Description = "devopsdays Boston 2017"
+Description = "DevOps Days Boston 2017"
 +++
 
  <div style="text-align:center;">
