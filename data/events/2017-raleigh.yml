@@ -54,12 +54,22 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: platinum
+  - id: signifai
+    level: platinum
+  - id: opsgenie
+    level: platinum
+  - id: microsoft
+    level: platinum
+  - id: redhat
+    level: platinum
   - id: ibm
     level: gold
   - id: veredus
     level: gold
   - id: contrast_security
     level: silver
+  - id: spreedly
+    level: community
   - id: dzone
     level: community
 
