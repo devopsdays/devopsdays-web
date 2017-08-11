@@ -164,6 +164,14 @@ sponsors:
     level: gold
   - id: mesosphere
     level: silver
+  - id: ns1
+    level: gold
+  - id: saucelabs
+    level: gold
+  - id: vividseats
+    level: gold
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
