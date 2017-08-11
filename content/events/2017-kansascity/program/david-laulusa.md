@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Lessons from an Idaho Potato Farmer"
-Type = "talk"
+Type = "ignite"
 Speakers = ["david-laulusa"]
 +++
 
