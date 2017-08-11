@@ -8,4 +8,4 @@ image = "david-hollinger-iii.jpg"
 
 +++
 
-As Founder and Chief Problem Solver at Stanton Ventures, Alison Stanton focuses on business intelligence reporting, product measurement, and process improvement through automation. She makes data accessible, discoverable, and actionable for Operations teams, Product Managers, and clients. Currently, her main languages are SQL, Python, and LookML. She also provides diversity and inclusion consulting related to LGBTQ and women in tech communities upon request. She loves knitting, working on women coder retention, and using technology to empower audacious ideas.
+David (moduletux) Hollinger works as a DevOps Engineer III at NTT Security in Omaha, NE where he is developing an automated support platform off Linux, Puppet, Rails, Ruby, and REST. David pushes and implements open source solutions at work and is an active Vox Pupuli Maintainer. David has been doing Systems Admin since 2010, Puppet since 2012, and Ruby since 2015. He enjoys a good cookout, Husker Football (GO BIG RED!!), and RPG board/video games.

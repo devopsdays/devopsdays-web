@@ -1,7 +1,6 @@
 +++
 Title = "Scott Howell III"
 Twitter = "scottdh3"
-website = "http://www.stantonventures.com/"
 type = "speaker"
 linktitle = "scott-howell-iii"
 image = "scott-howell-iii.jpg"
