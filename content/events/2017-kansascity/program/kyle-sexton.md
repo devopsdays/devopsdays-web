@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Secret Management with HashiCorp Vault"
-Type = "talk"
+Type = "ignite"
 Speakers = ["kyle-sexton"]
 +++
 

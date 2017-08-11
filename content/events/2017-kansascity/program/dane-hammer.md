@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "The First Year Working Remotely"
-Type = "talk"
+Type = "ignite"
 Speakers = ["dane-hammer"]
 +++
 
