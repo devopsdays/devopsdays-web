@@ -62,6 +62,8 @@ sponsors:
     level: platinum
   - id: redhat
     level: platinum
+  - id: netapp
+    level: gold
   - id: ibm
     level: gold
   - id: veredus
@@ -71,6 +73,8 @@ sponsors:
   - id: spreedly
     level: community
   - id: dzone
+    level: community
+  - id: devops-institute
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -82,10 +86,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 10
+    max: 0
   - id: gold
     label: Gold
-    max: 10
+    max: 0
   - id: silver
     label: Silver
+    max: 0
+  - id: community
+    label: Community
     max: 0
