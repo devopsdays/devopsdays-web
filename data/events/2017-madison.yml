@@ -69,6 +69,8 @@ sponsors:
     level: bronze
   - id: nextpoint
     level: bronze
+  - id: ipswitch
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
