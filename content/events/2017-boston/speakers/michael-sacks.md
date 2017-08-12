@@ -1,7 +1,7 @@
 +++
 Title = "Michael Sacks"
 Twitter = "sacksonsacks"
-
+linkedin = "https://www.linkedin.com/in/sacksmichael/"
 type = "speaker"
 linktitle = "michael-sacks"
 

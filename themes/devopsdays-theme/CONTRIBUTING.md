@@ -37,7 +37,7 @@ Working with a Hugo theme outside of a content-based repo has a few challenges. 
 themesdir = "../.."
 ```
 
-This tells Hugo where to look for its theme directories. This requires Hugo 0.18 or later.
+This tells Hugo where to look for its theme directories.
 
 You will need to run your watch command from the `exampleSite` directory; use something like this:
 

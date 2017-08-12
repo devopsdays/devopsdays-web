@@ -64,6 +64,29 @@
         {{- end -}}
       {{- end -}}
 
+      {{- if isset .Params "googleslides" -}}
+        {{- if ne .Params.googleslides "" -}}
+        <div class="row">
+          <div class = "col" style="max-width:100%">
+            <iframe src="https://docs.google.com/presentation/d/{{ .Params.googleslides }}/embed?start=false&loop=false" allowfullscreen="true">
+            </iframe>
+          </div>
+        </div>
+        {{- end -}}
+      {{- end -}}
+
+      {{- if isset .Params "pdf" -}}
+        {{- if ne .Params.pdf "" -}}
+        <div class="row">
+          <div class = "col" style="max-width:100%">
+            <iframe src="{{.Params.pdf}}" width="100%" height="200%">
+              This browser does not support PDFs. Please download the PDF to view it: <a href="{{.Params.pdf}}">Download PDF</a>
+            </iframe>
+          </div>
+        </div>
+        {{- end -}}
+      {{- end -}}
+
       {{- if isset .Params "slides" -}}
         {{- if ne .Params.slides "" -}}
         <div class = "row">

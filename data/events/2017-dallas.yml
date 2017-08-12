@@ -3,10 +3,10 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The same group of organizers that brought you DevOpsDays DFW 2016 are back again this year planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received at last year's event, which is why they are determined to bring a better experience this year and improve the DevOps conversation throughout the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-08-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-04-04  # start accepting talk proposals.
@@ -169,8 +169,20 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: gocd
+    level: gold
+  - id: f5
+    level: gold
+  - id: rubrik
+    level: gold   
+  - id: praecipio
+    level: gold  
   - id: alertlogic
     level: silver
+  - id: 10thmagnitude
+    level: silver
+  - id: inspec
+    level: workshop
   - id: arresteddevops
     level: media
   - id: devopsdotcom
@@ -182,6 +194,12 @@ sponsors:
   - id: 2017-addo
     level: community
   - id: hackernest-dfw
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -203,6 +221,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: workshop
+    label: Workshop
+    max: 3
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
@@ -213,6 +234,36 @@ sponsor_levels:
     max: 5
 
 program:
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2017-08-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Inroductions by Jody Wolfborn & Scott Macfarlane"
+    type: custom
+    date: 2017-08-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "inspec"
+    type: workshop
+    date: 2017-08-28
+    start_time: "09:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2017-08-28
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "inspec"
+    type: workshop
+    date: 2017-08-28
+    start_time: "11:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-08-28
+    start_time: "12:30"
+    end_time: "13:30"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-29
@@ -228,7 +279,7 @@ program:
     date: 2017-08-29
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Sponsors"
+  - title: "Platinum Sponsor Pitch - Chef / Verizon"
     type: custom
     date: 2017-08-29
     start_time: "09:50"
@@ -248,7 +299,7 @@ program:
     date: 2017-08-29
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Platinum Sponsor Pitch - AppDynamics / DellEMC"
     type: custom
     date: 2017-08-29
     start_time: "11:10"
@@ -298,6 +349,8 @@ program:
     date: 2017-08-29
     start_time: "17:00"
     end_time: "19:00"
+
+
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-30
@@ -313,7 +366,7 @@ program:
     date: 2017-08-30
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Sponsors"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks / Rubrik"
     type: custom
     date: 2017-08-30
     start_time: "09:50"
@@ -333,7 +386,7 @@ program:
     date: 2017-08-30
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5"
     type: custom
     date: 2017-08-30
     start_time: "11:10"
@@ -385,7 +438,7 @@ ignites:
     date: 2017-08-29
   - title: "jane-prusakova"
     date: 2017-08-29
-  - title: "TBA"
+  - title: "mohamad-bayan"
     date: 2017-08-29
   - title: "franklin-mosley"
     date: 2017-08-30
@@ -393,7 +446,7 @@ ignites:
     date: 2017-08-30
   - title: "lucas-harms"
     date: 2017-08-30
-  - title: "TBA"
+  - title: "nora-kennedy"
     date: 2017-08-30
   - title: "david-brown"
     date: 2017-08-30

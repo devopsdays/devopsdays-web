@@ -62,6 +62,8 @@ sponsors:
     level: gold
   - id: signifai
     level: gold
+  - id: nutanix
+    level: gold
   - id: arresteddevops
     level: community
   - id: perfbytes

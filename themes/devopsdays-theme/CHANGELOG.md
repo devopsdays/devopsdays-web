@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.12.1](https://github.com/devopsdays/devopsdays-theme/tree/1.12.1) (2017-08-06)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.0...1.12.1)
+
+**Implemented enhancements:**
+
+- Adding PDF & google slides support to talk pages [\#584](https://github.com/devopsdays/devopsdays-theme/issues/584)
+
 ## [1.12.0](https://github.com/devopsdays/devopsdays-theme/tree/1.12.0) (2017-06-28)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.11.0...1.12.0)
 

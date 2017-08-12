@@ -141,161 +141,131 @@ program:
     date: 2017-09-06
     start_time: "09:45"
     end_time: "10:00"
-
-
   - title: "dan-young-emma-jane"
     type: talk
     date: 2017-09-06
     start_time: "10:00"
     end_time: "10:35"
-
   - title: "igor-galic"
     type: talk
     date: 2017-09-06
     start_time: "10:35"
     end_time: "11:05"
-
   - title: "Break"
     type: custom
     date: 2017-09-06
     start_time: "11:05"
     end_time: "11:25"
-
   - title: "sally-goble"
     type: talk
     date: 2017-09-06
     start_time: "11:25"
     end_time: "12:00"
-  
   - title: "alvaro-videla"
     type: talk
     date: 2017-09-06
     start_time: "12:00"
     end_time: "12:35"
-    
   - title: "Ignites"
     type: ignite 
     date: 2017-09-06
     start_time: "12:35"
     end_time: "13:05"
-
   - title: "Lunch"
     type: custom
     date: 2017-09-06
     start_time: "13:05"
     end_time: "14:05"
-
   - title: "Open Spaces Start"
     type: open-space
     date: 2017-09-06
     start_time: "14:05"
     end_time: "14:30"
-
   - title: "Open Space 1"
     type: open-space
     date: 2017-09-06
     start_time: "14:30"
     end_time: "15:20"
-
   - title: "Open Space 2"
     type: open-space
     date: 2017-09-06
     start_time: "15:20"
     end_time: "16:10"
-
   - title: "Open Space 3"
     type: open-space
     date: 2017-09-06
     start_time: "16:10"
     end_time: "17:00"
-
-
-
-
-
-
   - title: "erik-romijn"
     type: talk
     date: 2017-09-07
     start_time: "10:00"
     end_time: "10:35"
-    
   - title: "louise-paling"
     type: talk
     date: 2017-09-07
     start_time: "10:35"
     end_time: "11:05"
-
   - title: "Break"
     type: custom
     date: 2017-09-07
     start_time: "11:05"
     end_time: "11:25"
-
   - title: "aubrey-stearn"
     type: talk
     date: 2017-09-07
     start_time: "11:25"
     end_time: "12:00"
-
   - title: "jon-topper"
     type: talk
     date: 2017-09-07
     start_time: "12:00"
     end_time: "12:35"
-
   - title: "Ignites"
     type: ignite 
     date: 2017-09-07
     start_time: "12:35"
     end_time: "13:05"
-
   - title: "Lunch"
     type: custom
     date: 2017-09-07
     start_time: "13:05"
     end_time: "14:05"
-
   - title: "Open Spaces Start"
     type: open-space
     date: 2017-09-07
     start_time: "14:05"
     end_time: "14:30"
-
   - title: "Open Space 1"
     type: open-space
     date: 2017-09-07
     start_time: "14:30"
     end_time: "15:20"
-
   - title: "Open Space 2"
     type: open-space
     date: 2017-09-07
     start_time: "15:20"
     end_time: "16:10"
-
   - title: "Open Space 3"
     type: open-space
     date: 2017-09-07
     start_time: "16:10"
     end_time: "17:00"
 
-# ignites:
-#   - title: "kristen-womack"
-#     date: 2017-09-06
-#   - title: "rukia-sheikh-mohamed"
-#     date: 2017-09-06
-#   - title: "christian-herro"
-#     date: 2017-09-06
-#   - title: "nicole-forsgren"
-#     date: 2017-09-06
-#   - title: "emma-sax"
-#     date: 2017-09-06
-#   - title: "thabit-shafer"
-#     date: 2017-09-06
-#   - title: "kendra-gapinski"
-#     date: 2017-09-06
-#   - title: "michael-ducy"
-#     date: 2017-09-06
-#   - title: "joshua-zimmerman"
-#     date: 2017-09-06
+ignites:
+  - title: "luis-sousa"
+    date: 2017-09-06
+  - title: "kris-buytaert"
+    date: 2017-09-06
+  - title: "maja-schreiner"
+    date: 2017-09-06
+  - title: "kate-ertmann"
+    date: 2017-09-06
+  - title: "oli-wood"
+    date: 2017-09-07
+  - title: "sarah-wells"
+    date: 2017-09-07
+  - title: "tomasz-tarczynski"
+    date: 2017-09-07
+  - title: "ebru-cucen"
+    date: 2017-09-07    
