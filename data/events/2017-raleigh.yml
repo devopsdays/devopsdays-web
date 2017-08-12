@@ -78,6 +78,7 @@ sponsors:
   - id: devops-institute
     level: community
 
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -87,13 +88,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 0
+    max: 10
   - id: gold
     label: Gold
-    max: 0
+    max: 10
   - id: silver
     label: Silver
-    max: 0
+    max: 10
   - id: community
     label: Community
-    max: 0
+    max: 5
