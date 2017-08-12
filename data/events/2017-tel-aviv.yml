@@ -113,13 +113,13 @@ sponsors:
 #  - id: logzio
 #    level: silver
 #  - id: outbrain
-#    level: silver
+#    level: breakfast
 #  - id: oracle
 #    level: silver
 #  - id: elastic
 #    level: bronze
-#  - id: twistlock
-#    level: bronze
+  - id: twistlock
+    level: lunch
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
