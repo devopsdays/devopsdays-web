@@ -172,6 +172,10 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
+  - id: appdynamics
+    level: silver
+  - id: arista
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
