@@ -102,8 +102,8 @@ sponsors:
 #    level: silver
 #  - id: automic
 #    level: coffee
-#  - id: statscraft
-#    level: community
+  - id: statscraft
+    level: community
 #  - id: appsflyer
 #    level: bronze
 #  - id: bigpanda
