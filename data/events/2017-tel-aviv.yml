@@ -98,6 +98,29 @@ sponsors:
     level: lanyard
   - id: 2017-cloudify
     level: silver
+#  - id: automic
+#    level: silver
+#  - id: automic
+#    level: coffee
+  - id: statscraft
+    level: community
+#  - id: appsflyer
+#    level: bronze
+#  - id: bigpanda
+#    level: silver
+#  - id: googlecloud
+#    level: silver
+#  - id: logzio
+#    level: silver
+#  - id: outbrain
+#    level: breakfast
+#  - id: oracle
+#    level: silver
+#  - id: elastic
+#    level: bronze
+  - id: twistlock
+    level: lunch
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
