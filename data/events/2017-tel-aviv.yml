@@ -98,15 +98,19 @@ sponsors:
     level: lanyard
   - id: 2017-cloudify
     level: silver
+  - id: twistlock
+    level: lunch
+  - id: statscraft
+    level: community
 #  - id: automic
 #    level: silver
 #  - id: automic
 #    level: coffee
-  - id: statscraft
-    level: community
 #  - id: appsflyer
 #    level: bronze
 #  - id: bigpanda
+#    level: silver
+#  - id: microsoftazure
 #    level: silver
 #  - id: googlecloud
 #    level: silver
@@ -118,8 +122,9 @@ sponsors:
 #    level: silver
 #  - id: elastic
 #    level: bronze
-  - id: twistlock
-    level: lunch
+#  - id: wix
+#    level: happyhour
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -134,20 +139,28 @@ sponsor_levels:
     max: 4
   - id: silver
     label: Gold
-    max: 12 # This is the same as omitting the max limit.
+    max: 12
   - id: bronze
     label: Silver
   - id: lanyard
     label: lanyard
+    max: 1
   - id: community
     label: Community
   - id: media
     label: Media
   - id: lunch
     label: Lunch
+    max: 1
   - id: breakfast
     label: breakfast
+    max: 1
   - id: coffee
     label: Coffee
+    max: 1
   - id: happyhour
     label: HappyHour
+    max: 1
+  - id: massage
+    label: Massage
+    max: 1
