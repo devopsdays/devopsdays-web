@@ -64,7 +64,7 @@ Description = "DevOpsDays Auckland 2017"
       <strong>Propose</strong>
     </div>
     <div class = "col-md-8">
-      {{< event_link page="propose" text="Propose a talk!" >}}
+      Our CFP is now closed
     </div>
   </div>
 
