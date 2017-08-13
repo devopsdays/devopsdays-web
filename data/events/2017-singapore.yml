@@ -23,6 +23,8 @@ registration_date_end: # close registration. Leave blank if registration is not 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devopsdays-singapore/2017/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+masthead_background: "skyline-merlion.jpg"
+
 # Location
 #
 coordinates: "1.282387, 103.852437" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -34,8 +36,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -101,3 +103,125 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-10-25
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-25
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "kief-morris"
+    type: talk
+    date: 2017-10-25
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: ""
+    type: talk
+    date: 2017-10-25
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-25
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: ""
+    type: talk
+    date: 2017-10-25
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2017-10-25
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Break"
+    type: custom
+    date: 2017-10-25
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2017-10-25
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Closing Keynote"
+    type: talk
+    date: 2017-10-25
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "Announcements"
+    type: custom
+    date: 2017-10-25
+    start_time: "12:20"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-25
+    start_time: "12:30"
+    end_time: "13:15"
+  - title: "TBA"
+    type: custom
+    date: 2017-10-25
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: open-space
+    date: 2017-10-25
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Break / Open Space Voting"
+    type: custom
+    date: 2017-10-25
+    start_time: "14:50"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-25
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-25
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-10-25
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    comments: "TBA"
+    type: custom
+    date: 2017-10-25
+    start_time: "17:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-10-26
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Workshops Begin"
+    type: custom
+    date: 2017-10-26
+    start_time: "09:00"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2017-10-26
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Workshops continue"
+    type: custom
+    date: 2017-10-26
+    start_time: "10:30"
+    end_time: "12:30"
+  - title: "Workshops End"
+    type: custom
+    date: 2017-10-26
+    start_time: "12:30"
+    end_time: "13:00"
