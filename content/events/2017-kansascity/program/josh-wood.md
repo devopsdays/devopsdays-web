@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "OCI Container Image Spec v1 Update"
-Type = "ignite"
+Type = "talk"
 Speakers = ["josh-wood"]
 +++
 

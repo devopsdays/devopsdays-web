@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "3 Simple Lessons from Working With Public that Help in Technology"
-Type = "ignite"
+Type = "talk"
 Speakers = ["todd-brees"]
 +++
 

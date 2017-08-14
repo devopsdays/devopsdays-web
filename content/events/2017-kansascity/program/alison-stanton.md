@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Ways DevOps Could Be More Accessible"
-Type = "ignite"
+Type = "talk"
 Speakers = ["alison-stanton"]
 +++
 

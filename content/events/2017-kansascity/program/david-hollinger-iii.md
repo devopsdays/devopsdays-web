@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Vox Pupuli - The Importance of Working Together"
-Type = "ignite"
+Type = "talk"
 Speakers = ["david-hollinger-iii"]
 +++
 
