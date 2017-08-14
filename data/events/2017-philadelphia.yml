@@ -20,10 +20,11 @@ location: "Chemical Heritage Foundation" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
-#  - name: program
   - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
+  - name: speakers
+#  - name: program
   - name: registration
   - name: sponsor
   - name: contact
@@ -35,8 +36,6 @@ team_members: # Name is the only required field for team members.
     employer: "DramaFever"
   - name: "Sarah Gray"
     employer: "PromptWorks"
-  - name: "Mike Tyler"
-    employer: "Chef"
   - name: "Clinton Wolfe"
     employer: "Relus Cloud"
   - name: "Sam Hollis"
@@ -64,6 +63,8 @@ sponsors:
     level: gold
   - id: nutanix
     level: gold
+  - id: 2nd-watch
+    level: bronze
   - id: arresteddevops
     level: community
   - id: perfbytes
