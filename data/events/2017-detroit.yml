@@ -24,7 +24,6 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
   - name: program
-  - name: propose
   - name: speakers
     # url: https://devopsdaysdetroit.typeform.com/to/HfQ847
   - name: location
