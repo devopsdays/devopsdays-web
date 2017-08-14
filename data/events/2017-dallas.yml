@@ -3,7 +3,7 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The same group of organizers that brought you DevOpsDays DFW 2016 are back again this year planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received at last year's event, which is why they are determined to bring a better experience this year and improve the DevOps conversation throughout the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-08-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -175,7 +175,11 @@ sponsors:
     level: gold
   - id: rubrik
     level: gold   
+  - id: praecipio
+    level: gold  
   - id: alertlogic
+    level: silver
+  - id: 10thmagnitude
     level: silver
   - id: inspec
     level: workshop
@@ -362,7 +366,7 @@ program:
     date: 2017-08-30
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks / Rubrik"
     type: custom
     date: 2017-08-30
     start_time: "09:50"
@@ -382,7 +386,7 @@ program:
     date: 2017-08-30
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5 / Praecipio"
     type: custom
     date: 2017-08-30
     start_time: "11:10"
@@ -434,7 +438,7 @@ ignites:
     date: 2017-08-29
   - title: "jane-prusakova"
     date: 2017-08-29
-  - title: "TBA"
+  - title: "mohamad-bayan"
     date: 2017-08-29
   - title: "franklin-mosley"
     date: 2017-08-30

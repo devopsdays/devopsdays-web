@@ -58,6 +58,34 @@ team_members: # Name is the only required field for team members.
   #   image: "barton2.jpg"
 
 
+  - name: "Michael T. Clark"
+    linkedin: http://www.linkedin.com/in/michaeltclark
+    twitter: "michaeltclark"
+    bio: "Michael is a veteran systems management professional. In a career that has ranged from academic computing to finance to manufacturing and now, professional services, he has worked as a front-line technician, a back-office systems engineer, an enterprise architect, and a leader of teams of 100+ technologists in hybrid WAN, large-scale domestic and global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is equally comfortable learning something new at a command line and in the C-suite helping senior executives make sense of their IT strategy and spend. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
+    image: "michaelclark.jpg"
+  - name: "James Meickle"
+    employer: "Quantopian"
+    github: eronarn
+    linkedin: https://www.linkedin.com/in/eronarn
+    twitter: jmeickle
+    image: "jamesmeickle.jpg"
+    bio: "James is a site reliability engineer at Quantopian, a crowd-sourced quantitative investment firm located in Boston, MA. His focus is developing the cloud architecture that supports the Quantopian community's Python trading algorithms. Prior to joining Quantopian, he worked as a site reliability engineer at Harvard, a developer evangelist at AppNeta, and a release engineer at Romney for President 2012. <br><br>In his spare time James is a conference organizer for DevOpsDays Boston, now in its fourth year. He is also a meetup and conference speaker on topics including performance optimization, site reliability engineering, and devops tools. He is also quite committed to 'soft skills' education focusing on organizational culture and human behavior, particularly when he can incorporate lessons learned from his background in psychology and political science."
+
+  - name: "Ed Rousseau"
+    bio: "Ed is a 20+ year veteran of the software industry who has worked in numerous roles from tech support to QA and even management (!).  He is passionate about software quality and software engineering efficiency and an unabashed kanban fanboy. He is also a philosopher, lover of fine food and cocktails, occasional DJ and master of the rhetorically awkward question. Ed is currently employed at Cure Forward as a “DevOps Engineer” where he is developing infrastructure to match cancer patients with clinical trials and helping developers understand the operational implications of the code they write."
+    twitter: "elrousseau"
+    linkedin: "https://www.linkedin.com/in/edrousseau/"
+    image: "edrousseau.jpg"
+    employer: Cure Forward
+
+  - name: "Laura Stone"
+    bio: "Hi, I’m Laura. I believe that done is better than perfect, that iteration, simplicity, and customer feedback are keys to success, and that community-driven efforts lead to powerful change. When I’m not working (Senior Site Reliability Engineer at Klaviyo) or organizing the PyLadies Boston and Boston Devops meetups, I enjoy a nice cup of tea and board games with friends."
+    twitter: "tyrostone"
+    linkedin: "https://www.linkedin.com/in/lauraestone/"
+    github: "tyrostone"
+    image: "laurastone.jpg"
+
+
   - name: "Matthew Williams"
     twitter: "technovangelist"
     employer: "Datadog"
@@ -67,29 +95,6 @@ team_members: # Name is the only required field for team members.
     website: "http://technovangelist.com"
     image: "mattwilliams.jpg"
     bio: "Matt Williams is an Evangelist at Datadog. He is passionate about the power of monitoring and metrics to make large-scale systems stable and manageable. So he tours the country speaking and writing about monitoring with Datadog. When he's not on the road, he's coding. You can find Matt on Twitter at @Technovangelist."
-
-
-  - name: "Laura Stone"
-    bio: "Hi, I’m Laura. I believe that done is better than perfect, that iteration, simplicity, and customer feedback are keys to success, and that community-driven efforts lead to powerful change. When I’m not working (Senior Site Reliability Engineer at Klaviyo) or organizing the PyLadies Boston and Boston Devops meetups, I enjoy a nice cup of tea and board games with friends."
-    twitter: "tyrostone"
-    linkedin: "https://www.linkedin.com/in/lauraestone/"
-    github: "tyrostone"
-    image: "laurastone.jpg"
-
-  - name: "Ed Rousseau"
-    bio: "Ed is a 20+ year veteran of the software industry who has worked in numerous roles from tech support to QA and even management (!).  He is passionate about software quality and software engineering efficiency and an unabashed kanban fanboy. He is also a philosopher, lover of fine food and cocktails, occasional DJ and master of the rhetorically awkward question. Ed is currently employed at Cure Forward as a “DevOps Engineer” where he is developing infrastructure to match cancer patients with clinical trials and helping developers understand the operational implications of the code they write."
-    twitter: "elrousseau"
-    linkedin: "https://www.linkedin.com/in/edrousseau/"
-    image: "edrousseau.jpg"
-    employer: Cure Forward
-
-  - name: "James Meickle"
-    employer: "Quantopian"
-    github: eronarn
-    linkedin: https://www.linkedin.com/in/eronarn
-    twitter: jmeickle
-    image: "jamesmeickle.jpg"
-    bio: "James is a site reliability engineer at Quantopian, a crowd-sourced quantitative investment firm located in Boston, MA. His focus is developing the cloud architecture that supports the Quantopian community's Python trading algorithms. Prior to joining Quantopian, he worked as a site reliability engineer at Harvard, a developer evangelist at AppNeta, and a release engineer at Romney for President 2012. <br><br>In his spare time James is a conference organizer for DevOpsDays Boston, now in its fourth year. He is also a meetup and conference speaker on topics including performance optimization, site reliability engineering, and devops tools. He is also quite committed to 'soft skills' education focusing on organizational culture and human behavior, particularly when he can incorporate lessons learned from his background in psychology and political science."
 
 
 
@@ -148,6 +153,8 @@ sponsors:
     level: platinum
   - id: 2017-digitalocean
     level: platinum
+  - id: ns1
+    level: platinum
   - id: hackernest-bos
     level: community
   - id: questsoftware
@@ -156,7 +163,11 @@ sponsors:
     level: gold
   - id: nutanix
     level: gold
-  - id: instana
+  - id: 2017-instana
+    level: gold
+  - id: mabl
+    level: gold
+  - id: turbinelabs
     level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -158,6 +158,24 @@ sponsors:
     level: silver
   - id: signal
     level: silver
+  - id: checkmarx
+    level: gold
+  - id: redhat
+    level: gold
+  - id: mesosphere
+    level: silver
+  - id: ns1
+    level: gold
+  - id: saucelabs
+    level: gold
+  - id: vividseats
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: arista
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

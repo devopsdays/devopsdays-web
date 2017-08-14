@@ -7,6 +7,8 @@ Type = "talk"
 Speakers = ["scott-howell-iii"]
 +++
 
-You have a data lake and you’re worried about drowning in it. This talk will address solutions and process for using what data you’ve collected effectively with your team and the rest of the organization. Practical and hands-on lessons covering the glamorous and not-so-glamorous next steps.
+I spent my first year as a DevOps engineer believing it was DevOps vs the business, a couple of months ago I came to the revelation that there was a better way to do things. 
 
-You’ve collected a ton of data and it’s just sitting there. You want to use it but where do you start? This talk will give you map so you can navigate your unique situation by asking and answering questions such as: What kind of data do you have and why does it matter? What things will come back to bite you if you don’t consider them up-front? What does collaboration that rocks look like? What problems will you run into and what strategies are useful for troubleshooting them? How do you choose what to do first? Why is interdisciplinarity important? Once it works, how do you automate it?
+I recently have been embracing the team mentality as a member of a scrum team being the cog in the wheel that does the devOps/SysAdmin work for that team. There has already been a substantial change on the team. Being able to see the bigger picture as to why embracing the team mentality has already shown vast improvements. Now to scale this mentality out to the fellow team members of the DevOps team and growing the culture of the business to work as a team. 
+
+The final step that is just taking shape at Pinsightmedia is showing the company that DevOps isn't about tools, technology, or standards. It's about how the company begins to think about improving the concept to customer process. Where the company really begins to gain value from the code it is producing. The unique thing is an individual can begin to change the process just in how they interact on the teams they help out on.

@@ -38,6 +38,7 @@ team_members: # Name is the only required field for team members.
     twitter: "DukeAMO"
     image: "ann-marie-fred.jpg"
   - name: "Chris Knotts"
+    image: "chris-knotts.jpg"
   - name: "Josh Atwell"
     twitter: "Josh_Atwell"
     image: "josh-atwell.jpg"
@@ -54,14 +55,29 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: platinum
+  - id: redhat
+    level: platinum
+  - id: microsoft
+    level: platinum
+  - id: signifai
+    level: platinum
+  - id: opsgenie
+    level: platinum
   - id: ibm
+    level: gold
+  - id: netapp
     level: gold
   - id: veredus
     level: gold
   - id: contrast_security
     level: silver
+  - id: spreedly
+    level: community
   - id: dzone
     level: community
+  - id: devops-institute
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -78,4 +94,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0
+    max: 10
+  - id: community
+    label: Community
+    max: 5

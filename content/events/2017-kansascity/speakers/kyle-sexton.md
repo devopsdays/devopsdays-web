@@ -1,6 +1,6 @@
 +++
 Title = "Kyle Sexton"
-Twitter = "StantonVentures"
+Twitter = "mocker"
 website = "http://www.mocker.org/"
 type = "speaker"
 linktitle = "kyle-sexton"

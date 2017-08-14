@@ -80,6 +80,8 @@ sponsors:
     level: bronze
   - id: eventbrite
     level: bronze
+  - id: mesosphere
+    level: bronze
   - id: pluralsight
     level: bronze
   - id: stratasan

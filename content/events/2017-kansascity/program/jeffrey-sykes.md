@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Cuture Games: Making the Odds Ever in Your Favor"
+Title = "The Culture Games: Making the Odds Ever in Your Favor"
 Type = "talk"
 Speakers = ["jeffrey-sykes"]
 +++
