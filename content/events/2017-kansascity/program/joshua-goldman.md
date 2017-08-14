@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Help I'm a \"DevOps Engineer\" Now!!!!"
-Type = "ignite"
+Type = "talk"
 Speakers = ["joshua-goldman"]
 +++
 

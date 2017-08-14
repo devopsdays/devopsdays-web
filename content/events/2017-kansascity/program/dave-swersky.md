@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Cracking the Culture Code: Practical Advice on Promoting a Generative Culture"
-Type = "ignite"
+Type = "talk"
 Speakers = ["dave-swersky"]
 +++
 
