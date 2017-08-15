@@ -80,6 +80,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: platinum
+    label: Platinum
+    max: "2"
   - id: gold
     label: Gold
     max: "2"
@@ -91,23 +94,41 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: "7"
   - id: honorary
     label: Honorary
+    max: "2"
+  - id: media
+    label: Media
+    max: "5"
   - id: community
     label: Community
+    max: "3"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: devopsinstitute
+    level: bronze
+#  - id: devopsdotcom
+#    level: bronze
   - id: convencionuniversidadsantaclara
     level: honorary
   - id: uclv
     level: honorary
   - id: vlired
     level: honorary
-  - id: docker-havana
-    level: community
+  - id: 2017-addo
+    level: media
+  - id: itrevolution
+    level: media
+  - id: salt
+    level: media
+  - id: oreilly
+    level: media
+  - id: saltstack
+    level: media
   - id: ado
+    level: community
+  - id: docker-havana
     level: community
   - id: uic
     level: community
-  - id: 2017-addo
-    level: community
+
