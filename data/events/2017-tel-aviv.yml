@@ -106,8 +106,8 @@ sponsors:
     level: silver
   - id: automic
     level: coffee
-#  - id: appsflyer
-#    level: bronze
+  - id: appsflyer
+    level: bronze
 #  - id: bigpanda
 #    level: silver
 #  - id: microsoftazure
