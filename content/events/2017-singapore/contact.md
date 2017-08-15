@@ -11,6 +11,8 @@ Description = "Contact information for DevOpsDays Singapore 2017"
 * Local law enforcement: Singapore Police Force - call 999
 * Sexual assault hotline: 1800 774 5935
 
+Big THANK YOU to [Wenshu Kwek](https://twitter.com/wenshukwek) for designing the logo!
+
 ## Our local team
 
 {{< list_organizers >}}
