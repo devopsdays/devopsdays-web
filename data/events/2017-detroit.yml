@@ -74,6 +74,8 @@ sponsors:
     level: silver
   - id: delphix
     level: silver
+  - id: microsoft
+    level: silver
   - id: proquest
     level: bronze
 
