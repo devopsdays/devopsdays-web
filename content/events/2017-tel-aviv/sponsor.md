@@ -41,13 +41,20 @@ The best thing to do is send engineers to interact with the experts at devopsday
 There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
 Current openings:
 
-Sponsor morning pastries! Cover the cost of morning pastries, the first thing people see in the morning, and brand it with your logo.
+<strike>Sponsor morning pastries! Cover the cost of morning pastries, the first thing people see in the morning, and brand it with your logo.</strike> SOLD!
 
-Sponsor Lunch! Cover lunch costs and you can brand it.
+<strike>Sponsor Lunch! Cover lunch costs and you can brand it.</strike> SOLD!
 
-Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.
+<strike>Sponsor the Lanyards</strike> SOLD!
 
-Sponsor Happy hour! You bring and operate Happy hour. Bring your own beer, snacks and any other creative idea you can think of.
+
+<strike>Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.</strike> SOLD!
+
+Sponsor Happy hour! You pay us nothing, but run Happy hour. You bring Beer and snacks and get a fun atmosphere at end of day. 
+                    Make sure the Beer flows like water and your brand will be the hero of the day!                
+* All edible and drinkable things must be purchased from venue supplier.
+
+Sponsor Massages: Work is hard, people need to relax, sponsor their massage and while people take a load off, they are staring at your company logo :)
 
 Sponsor the WIFI! You get your name on the SSID.
 
