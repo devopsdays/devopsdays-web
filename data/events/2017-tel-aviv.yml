@@ -102,10 +102,10 @@ sponsors:
     level: lunch
   - id: statscraft
     level: community
-#  - id: automic
-#    level: silver
-#  - id: automic
-#    level: coffee
+  - id: automic
+    level: silver
+  - id: automic
+    level: coffee
 #  - id: appsflyer
 #    level: bronze
 #  - id: bigpanda
