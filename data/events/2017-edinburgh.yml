@@ -20,7 +20,7 @@ location: "Dynamic Earth" # Defaults to city, but you can make it the venue name
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
+  - name: program
   - name: speakers
   # - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -97,3 +97,195 @@ sponsor_levels:
     label: Bronze
 #  - id: community
 #    label: Community
+program:
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-10-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Opening Keynote"
+    type: custom
+    date: 2017-10-23
+    start_time: "09:15"
+    end_time: "09:45" 
+  - title: "adrian-mouat"
+    type: talk
+    date: 2017-10-23
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "jason-hand"
+    type: talk
+    date: 2017-10-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Break"
+    type: custom
+    date: 2017-10-23
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "charlotte-godley"
+    date: 2017-10-23
+    type: talk
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "abhishek-chanda"
+    type: talk
+    date: 2017-10-23
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "cookie"
+    type: custom
+    date: 2017-10-23
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "philipp-krenn"
+    type: talk
+    date: 2017-10-23
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-23
+    start_time: "13:00"
+    end_time: "13:10"
+  - title: "Lunch Break"
+    type: custom
+    date: 2017-10-23
+    start_time: "13:10"
+    end_time: "14:00"
+  - title: Ignites
+    type: custom
+    date: 2017-10-23
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-10-23
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space 1"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space 2"
+    type: custom
+    date: 2017-10-23
+    start_time: "16:00"
+    end_time: "16:30"    
+  - title: "Open Space 3"
+    type: custom
+    date: 2017-10-23
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Day Close"
+    type: custom
+    date: 2017-10-23
+    start_time: "17:00"
+    end_time: "17:20"
+# day 2
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-10-24
+    start_time: 08:00""
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-24
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "paul-gillespie"
+    type: talk
+    date: 2017-10-24
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "gerie-owen"
+    type: talk
+    date: 2017-10-24
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "josh-atwell"
+    type: talk
+    date: 2017-10-24
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "neil-crawford"
+    type: talk
+    date: 2017-10-24
+    start_time: "11:00"
+    end_time: "11.30"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2017-10-24
+    start_time: "11:30"
+    end_time: "12.00"
+  - title: "peter-varhol"
+    type: talk
+    date: 2017-10-24
+    start_time: "12:00"
+    end_time: "12.30"
+  - title: "jenny-duckett"
+    type: talk
+    date: 2017-10-24
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-24
+    start_time: "13:00"
+    end_time: "13:10"
+  - title: "Lunch Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "13:10"
+    end_time: "14:00"
+  - title: Ignites
+    type: custom
+    date: 2017-10-24
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-10-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space 1"
+    type: custom
+    date: 2017-10-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space 2"
+    type: custom
+    date: 2017-10-24
+    start_time: "16:00"
+    end_time: "16:30"    
+  - title: "Open Space 3"
+    type: custom
+    date: 2017-10-24
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Day Close"
+    type: custom
+    date: 2017-10-24
+    start_time: "17:00"
+    end_time: "17:20"
