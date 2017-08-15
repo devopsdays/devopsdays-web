@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Changing culture through personal reflection"
-Type = "ignite"
+Type = "talk"
 Speakers = ["scott-howell-iii"]
 +++
 
