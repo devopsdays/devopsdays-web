@@ -211,12 +211,12 @@ help you further promote your company or cause:</p>
     <th class="tg-yzt1">Logo on beer bottles </th>
   </tr>
   <tr>
-    <th class="tg-yzt1">Dinners with speakers*</th>
+    <th class="tg-yzt1">Dinners with speakers* </th>
     <th class="tg-yzt1">€ 4,900</th>
     <th class="tg-yzt1">One-minute welcome pitch, roll-ups at dinners </th>
   </tr>
   <tr>
-    <th class="tg-yzt1">Party sponsor*</th>
+    <th class="tg-yzt1">Party sponsor* </th>
     <th class="tg-yzt1">€ 4,900</th>
     <th class="tg-yzt1">One-minute pitch at party, roll-ups at party, mentioning in conference opening and closing </th>
   </tr>
