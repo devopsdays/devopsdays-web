@@ -78,6 +78,10 @@ sponsors:
     level: friends
   - id: devops-lv
     level: friends
+  - id: gdg-riga
+    level: friends
+  - id: gdg-daugavpils
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
