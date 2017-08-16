@@ -70,6 +70,8 @@ sponsors:
     level: gold
   - id: f5
     level: gold
+  - id: redhat
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
