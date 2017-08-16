@@ -28,14 +28,13 @@ organizer_email: "organizers-riga-2017@devopsdays.org" # Put your organizer emai
 proposal_email: "organizers-riga-2017@devopsdays.org" 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-
 #  - name: workshop
   - name: program
   - name: propose
 #    url: https://<url>
   - name: location
   - name: registration
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -84,11 +83,6 @@ sponsors:
     level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: venue
     label: Venue
@@ -121,3 +115,207 @@ sponsor_levels:
   #  max: "1"
   - id: friends
     label: Friends or other
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Day 1 - Opening Welcome"
+    type: custom
+    date: 2017-09-18
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "michiel-rook"
+    type: talk
+    date: 2017-09-18
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-18
+    start_time: "10:50"
+    end_time: "11:05"
+
+  - title: "samat-galimov"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "uldis-karlovs-karlovskis"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-18
+    start_time: "12:10"
+    end_time: "13:10"
+
+  - title: "mandi-walls"
+    type: talk
+    date: 2017-09-18
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites & Sponsors"
+    type: custom
+    date: 2017-09-18
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Openspace Opening and Voting (in bigger room)"
+    type: open-space
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "14:35"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-18
+    start_time: "14:35"
+    end_time: "15:00"
+
+  - title: "mark-smalley"
+    type: workshop
+    date: 2017-09-18
+    start_time: "15:00"
+    end_time: "16:50"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2017-09-18
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2017-09-18
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2017-09-18
+    start_time: "16:20"
+    end_time: "16:50"
+
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2017-09-18
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Party"
+    type: custom
+    date: 2017-09-18
+    start_time: "17:15"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2017-09-19
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "stephen-nelson-smith"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "TBA"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "dmitry-buzdin"
+    type: talk
+    date: 2017-09-19
+    start_time: "10:20"
+    end_time: "10:50"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-19
+    start_time: "10:50"
+    end_time: "11:05"
+
+  - title: "TBA"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "niek-palm"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-19
+    start_time: "12:10"
+    end_time: "13:10"
+
+  - title: "mark-smalley-kill-devops"
+    type: talk
+    date: 2017-09-19
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites & Sponsors"
+    type: custom
+    date: 2017-09-19
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Openspace Opening and Voting (in bigger room)"
+    type: open-space
+    date: 2017-09-19
+    start_time: "14:15"
+    end_time: "14:35"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-19
+    start_time: "14:35"
+    end_time: "15:00"
+
+  - title: "toshaan-bharvani"
+    type: workshop
+    date: 2017-09-19
+    start_time: "15:00"
+    end_time: "16:50"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2017-09-19
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2017-09-19
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2017-09-19
+    start_time: "16:20"
+    end_time: "16:50"
+
+  - title: "Closing event"
+    type: custom
+    date: 2017-09-19
+    start_time: "17:00"
