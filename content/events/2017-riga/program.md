@@ -1,12 +1,12 @@
 +++
 date = "2017-05-23T00:00:00+02:00"
 tags = ["riga","riga-2017"]
-type = "event"
+type = "program"
 title = "Program"
 heading = "DevOpsDays Riga 2017 - Program"
 +++
 
-<style type="text/css">
+<!--<style type="text/css">
 .box      { padding: 0.5em; margin-bottom:0.5em; }
 .box-grey { padding: 0.5em; margin-bottom:0.5em; background:#e7e3e3}
 .box-category { background: #f7f3f3; border-left: 0.1em solid white; }
@@ -22,7 +22,6 @@ heading = "DevOpsDays Riga 2017 - Program"
 
 <div class = "row"><div class="col-md-12 centerstyle"><h2>The Schedule</h2></div></div>
 
-<!-- begin day 1 -->
 <div class="row"><div class="col-md-12 centerstyle"><h3>Day 1</h3></div></div>
 
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>08:00 - 09:00</time></div><div class="col-md-6 box">Registration, Breakfast, and Sponsor Booths Open</div></div>
@@ -43,9 +42,8 @@ heading = "DevOpsDays Riga 2017 - Program"
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>16:20 - 16:50</time></div><div class="col-md-3 box"><strong>Open Space 3</strong></div><div class="col-md-3 box left-border">Workshop - Mark Smalley</div></div>
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>17:00 - 17:15</time></div><div class="col-md-6 box">Close Day / Wrap Up</div></div>
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>17:15</time></div><div class="col-md-6 box">Party</div></div>
-<!-- end day 1 -->
 
-<!-- begin day 2 -->
+
 <div class="row" style="margin-top:2em;"><div class="col-md-12 centerstyle"><h3>Day 2</h3></div></div>
 
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>08:00 - 09:00</time></div><div class="col-md-6 box">Registration, Breakfast, and Sponsor Booths Open</div></div>
@@ -64,4 +62,4 @@ heading = "DevOpsDays Riga 2017 - Program"
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>15:00 - 15:30</time></div><div class="col-md-3 box"><strong>Open Space 1</strong></div><div class="col-md-3 box left-border"><strong>Workshop - Toshaan Bharvani</strong> (Netherlands)<br>Ansible Infrastructure Orchestrator</div></div>
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>15:40 - 16:10</time></div><div class="col-md-3 box"><strong>Open Space 2</strong></div><div class="col-md-3 box left-border">Workshop - Toshaan Bharvani</div></div>
 <div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>16:20 - 16:50</time></div><div class="col-md-3 box"><strong>Open Space 3</strong></div><div class="col-md-3 box left-border">Workshop - Toshaan Bharvani</div></div>
-<div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>17:00</time></div><div class="col-md-6 box">Closing event</div></div>
+<div class="row"><div class="col-md-2"></div><div class="box-lightorange col-md-2"><time>17:00</time></div><div class="col-md-6 box">Closing event</div></div> -->
