@@ -7,7 +7,6 @@ type = "speaker"
 linktitle = ["kris-buytaert"]
 +++
 
-<h1>Kris Buytaert (Belgium)</h1>
 <h2>CoFounder & CTO at Inuits</h2>
 
 <p>Kris Buytaert is CoFounder & CTO at Inuits and long time Linux and Open Source Consultant. He spends most of his time working on bridging the gap between developers and operations with a strong focus on High Availability, Scalability, Virtualisation and Large Infrastructure Management projects hence trying to build infrastructures that can survive the 10th-floor test, better known today as the cloud.</p>

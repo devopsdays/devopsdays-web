@@ -7,8 +7,6 @@ type = "speaker"
 linktitle = ["stephen-nelson-smith"]
 +++
 
-<h1>Stephen Nelson-Smith (UK)</h1>
-
 <p>Stephen Nelson-Smith (SNS) is an internationally respected consultant, mentor and coach to organisations seeking to succeed in their ongoing digital transformations.
 
 <p>One of the founders of the Devops movement, he is a specialist in infrastructure automation and continuous delivery, with a particular emphasis on Chef.</p>

@@ -189,7 +189,7 @@ program:
     start_time: "14:35"
     end_time: "15:00"
 
-  - title: "mark-smalley-workshop"
+  - title: "mark-smalley"
     type: workshop
     date: 2017-09-18
     start_time: "15:00"
@@ -271,7 +271,7 @@ program:
     start_time: "12:10"
     end_time: "13:10"
 
-  - title: "mark-smalley"
+  - title: "mark-smalley-kill-devops"
     type: talk
     date: 2017-09-19
     start_time: "13:10"

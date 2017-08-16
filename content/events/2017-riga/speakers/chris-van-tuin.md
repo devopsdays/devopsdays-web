@@ -7,7 +7,6 @@ type = "speaker"
 linktitle = ["chris-van-tuin"]
 +++
 
-<h1>Chris Van Tuin (USA)</h1>
 <h2>Chief Technologist at Red Hat</h2>
 
 <p>Chris van Tuin, Chief Technologist at Red Hat has over 20 years of experience in IT and Software. Since joining Red Hat in 2005, Chris has been architecting solutions for strategic customers and partners. He is a frequent speaker on DevOps, Hybrid Cloud, Security, and Containers at various industry events. He started his career at Intel in IT and Managed Hosting followed by leadership roles in services and sales engineering at Loudcloud and Linux start-ups. </p>
