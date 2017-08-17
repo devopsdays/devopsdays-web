@@ -18,7 +18,7 @@ Sponsors are much appreciated for their financial assistance. Sponsorship is the
 
 Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session, but this is not 'that kind of conference' and heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<a href="https://drive.google.com/open?id=0B0Fp3aq_FEwsN1R3ZU5UcGo3R28">Our Sponsorship prospectus can be downloaded here</a>
+<a href="https://assets.devopsdays.org/events/2017/auckland/SponsorProspectus17.pdf">Our Sponsorship prospectus can be downloaded here</a>
 <hr/>
 
 ### Sponsorship Packages
