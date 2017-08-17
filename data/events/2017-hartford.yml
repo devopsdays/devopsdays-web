@@ -135,8 +135,9 @@ program:
     date: 2017-10-10
     start_time: "11:25"
     end_time: "11:30"
-  - title: "tim-mclaughlin"
+  - title: "tom-mclaughlin"
     type: talk
+    date: 2017-10-10
     start_time: "11:30"
     end_time: "12:00"
   - title: "Lunch"
@@ -221,7 +222,7 @@ program:
     start_time: "10:40"
     end_time: "11:10"
   - title: "Sponsors"
-    type: talk
+    type: custom
     date: 2017-10-11
     start_time: "11:10"
     end_time: "11:15"
