@@ -63,9 +63,13 @@ sponsors:
     level: platinum
   - id: opsgenie
     level: platinum
+  - id: chef
+    level: gold
   - id: ibm
     level: gold
   - id: netapp
+    level: gold
+  - id: newrelic
     level: gold
   - id: veredus
     level: gold
