@@ -22,7 +22,7 @@ location: "The Society Room" # Defaults to city, but you can make it the venue n
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
+  - name: program
   - name: propose
     url: https://www.papercall.io/devopsdays-hartford-2017 # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
@@ -51,7 +51,7 @@ team_members: # Name is the only required field for team members.
     twitter: mego22
     employer: "PhishMe, INC"
 organizer_email: "organizers-hartford-2017@devopsdays.org" # Put your organizer email address here
-proposal_email: "organizers-hartford-2017@devopsdays.org" # Put your proposal email address here
+# proposal_email: "organizers-hartford-2017@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -88,3 +88,203 @@ sponsor_levels:
     max: 4
   - id: community
     label: Community
+
+program:
+  - title: Registration Opens
+    type: custom
+    date: 2017-10-10
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Breakfast, Coffee & Sponsors"
+    type: custom
+    date: 2017-10-10
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome & Introduction"
+    type: custom
+    date: 2017-10-10
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "heather-mickman"
+    type: talk
+    date: 2017-10-10
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-10
+    start_time: "10:00"
+    end_time: "10:05"
+  - title: "nell-shamrell-harrington"
+    type: talk
+    date: 2017-10-10
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2017-10-10
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "emily-freeman"
+    type: talk
+    date: 2017-10-10
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-10
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: "tom-mclaughlin"
+    type: talk
+    date: 2017-10-10
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-10
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-10-10
+    start_time: "13:00"
+    end_time: "13:40"
+  - title: "Introduction to and Organization of Open Spaces"
+    type: custom
+    date: 2017-10-10
+    start_time: "13:40"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-10
+    start_time: "14:30"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-10
+    start_time: "15:20"
+    end_time: "16:05"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-10-10
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Close the Day"
+    type: custom
+    date: 2017-10-10
+    start_time: "16:55"
+    end_time: "17:00"
+  - title: Evening Happy Hour @ The Society Room
+    type: custom
+    date: 2017-10-10
+    start_time: "17:00"
+    end_time: "20:00"
+
+  - title: "Registration Opens"
+    type: custom
+    date: 2017-10-11
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Breakfast & Sponsors"
+    type: custom
+    date: 2017-10-11
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome To Day Two!"
+    type: custom
+    date: 2017-10-11
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeff-smith"
+    type: talk
+    date: 2017-10-11
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-11
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "ed-southard"
+    type: talk
+    date: 2017-10-11
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Coffe & Conversation"
+    type: custom
+    date: 2017-10-11
+    start_time: "10:20"
+    end_time: "10:35"
+  - title: "noah-kantrowitz"
+    type: talk
+    date: 2017-10-11
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-11
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "soo-choi"
+    type: talk
+    date: 2017-10-11
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-11
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-10-11
+    start_time: "13:00"
+    end_time: "13:40"
+  - title: "Open Space Introduction & Organizing"
+    type: custom
+    date: 2017-10-11
+    start_time: "13:40"
+    end_time: "14:20"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-11
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-11
+    start_time: "15:10"
+    end_time: "15:55"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-10-11
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing DevOpsDays & Sponsor Raffles"
+    type: custom
+    date: 2017-10-11
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "peter-chestna"
+    date: 2017-10-10
+  - title: "alfonso-cabrera"
+    date: 2017-10-10
+  - title: "tiffany-longworth"
+    date: 2017-10-10
+  - title: "jason-yee"
+    date: 2017-10-10
+  - title: "curtis-yanko"
+    date: 2017-10-10
+  - title: "david-laulusa"
+    date: 2017-10-11
+  - title: "jason-hand"
+    date: 2017-10-11
+  - title: "david-blank-edelman"
+    date: 2017-10-11
+  - title: "dustin-collins"
+    date: 2017-10-11
+  - title: "ignite-karaoke"
+    date: 2017-10-11
