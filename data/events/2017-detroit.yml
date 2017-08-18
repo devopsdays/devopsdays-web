@@ -78,6 +78,8 @@ sponsors:
     level: silver
   - id: microsoft
     level: silver
+  - id: stockx
+    level: silver
   - id: proquest
     level: bronze
 
