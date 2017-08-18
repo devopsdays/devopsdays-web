@@ -58,6 +58,8 @@ proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: contino
+    level: gold
   - id: datablue
     level: gold
   - id: dellemc
@@ -66,7 +68,13 @@ sponsors:
     level: gold
   - id: rubrik
     level: gold
+  - id: sjtechcorp
+    level: gold
   - id: changehealthcare
+    level: silver
+  - id: chef
+    level: silver
+  - id: dynatrace
     level: silver
   - id: instana
     level: silver
