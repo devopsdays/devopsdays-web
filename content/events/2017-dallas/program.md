@@ -10,7 +10,7 @@ description = "DevOpsDays Dallas 2017 program will be a single track, featuring 
   <div class = "col">
     <hr />
 ####    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br>
-####    Our <img alt="DoDDFW Slack" src="/events/2017-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/MjIyOTMyOTY1NDQxLTE1MDIxNTg0NDUtZjdkMGQ3MDhmNQ">here</a></strong> to join.  <hr />
+####    Our <img alt="DoDDFW Slack" src="/events/2017-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/MjI3MzA4NTE2NzI1LTE1MDI4NTUzOTktMTdhYzY1MGZiNQ">here</a></strong> to join.  <hr />
   </div>
 </div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
