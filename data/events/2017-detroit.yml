@@ -247,7 +247,7 @@ program:
     start_time: "1:30"
     end_time: "1:40"
 
-  - title: "stop-using-the-staging-server"
+  - title: "TBD"
     type: talk
     date: 2017-09-28
     start_time: "1:40"
