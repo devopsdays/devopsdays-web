@@ -63,11 +63,17 @@ sponsors:
     level: gold
   - id: nutanix
     level: gold
+  - id: linode
+    level: gold
+  - id: ns1
+    level: gold
   - id: 2nd-watch
     level: bronze
   - id: arresteddevops
     level: community
   - id: perfbytes
+    level: community
+  - id: postgresql
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
