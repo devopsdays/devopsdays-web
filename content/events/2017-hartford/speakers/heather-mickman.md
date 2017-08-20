@@ -1,7 +1,7 @@
 +++
 Title = "Heather Mickman"
 Twitter = "hmickman"
-image = ""
+image = "heather-mickman.jpg"
 type = "speaker"
 linketitle = "heather-mickman"
 +++

@@ -1,7 +1,7 @@
 +++
 Title = "Curtis Yanko"
 Twitter = "onCommit"
-image = ""
+image = "curtis-yanko.jpg"
 type = "speaker"
 linktitle = "curtis-yanko"
 website = "https://flipboard.com/@cmyanko/rugged-devops-in-the-enterprise-blvica71z"

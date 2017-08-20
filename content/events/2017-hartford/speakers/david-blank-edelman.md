@@ -1,7 +1,7 @@
 +++
 Title = "David Blank-Edelman"
 Twitter = "otterbook"
-image = ""
+image = "david-blank-edelman.jpg"
 type = "speaker"
 linktitle = "david-blank-edelman"
 website = ""

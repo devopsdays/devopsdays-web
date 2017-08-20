@@ -1,7 +1,7 @@
 +++
 Title = "Dustin Collins"
 Twitter = "dustinmm80"
-image = ""
+image = "dustin-collins.jpg"
 type = "speaker"
 linktitle = "dustin-collins"
 website = "http://dustinrcollins.com/"

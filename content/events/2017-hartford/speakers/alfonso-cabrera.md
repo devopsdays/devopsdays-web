@@ -1,7 +1,7 @@
 +++
 Title = "Alfonso Cabrera"
 Twitter = "alfonso__c"
-image = ""
+image = "alfonso-cabrera.jpg"
 type = "speaker"
 linktitle = "alfonso-cabrera"
 +++
