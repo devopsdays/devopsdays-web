@@ -1,7 +1,7 @@
 +++
 Title = "John Willis"
 Twitter = "botchagalupe"
-image = "john-willis.jpg"
+image = ""
 type = "speaker"
 linktitle = "john-willis"
 +++
