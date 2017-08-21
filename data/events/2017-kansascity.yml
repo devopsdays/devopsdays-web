@@ -155,6 +155,8 @@ sponsors:
     level: gold
   - id: techtowntraining
     level: silver
+  - id: teksystems
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
