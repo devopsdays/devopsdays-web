@@ -176,6 +176,8 @@ sponsors:
     level: gold
   - id: arista
     level: silver
+  - id: diamanti
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

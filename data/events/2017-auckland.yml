@@ -74,6 +74,10 @@ organizer_email: "organisers-auckland-2017@devopsdays.org" # Put your organizer 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: 2016-assurity
+    level: gold
+  - id: pivotal
+    level: gold
   - id: 2017-k2
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

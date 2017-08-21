@@ -90,7 +90,7 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
-  - id: gocd
+  - id: thoughtworks-gocd
     level: platinum
   - id: mesosphere
     level: silver
