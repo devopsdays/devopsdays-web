@@ -239,7 +239,7 @@ program:
     date: 2017-08-28
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Inroductions by Jody Wolfborn & Scott Macfarlane"
+  - title: "Introductions by Jody Wolfborn & Scott Macfarlane"
     type: custom
     date: 2017-08-28
     start_time: "09:00"
@@ -428,7 +428,7 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "michael-cote"
+  - title: "john-kerry"
     date: 2017-08-29
   - title: "karen-odegaard"
     date: 2017-08-29
