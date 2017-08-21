@@ -90,7 +90,7 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
-  - id: gocd
+  - id: thoughtworks-gocd
     level: platinum
   - id: mesosphere
     level: silver
@@ -181,6 +181,12 @@ sponsors:
   - id: checkmarx
     level: bronze
   - id: elastic
+    level: bronze
+  - id: newrelic
+    level: bronze
+  - id: cargill
+    level: alacarte
+  - id: dynatrace
     level: bronze
 
 

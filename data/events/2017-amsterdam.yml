@@ -1,4 +1,4 @@
-status: "past" 
+status: "past"
 name: "2017-amsterdam" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Amsterdam" # The city name of the event. Capitalize it.
@@ -41,6 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: postevent
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -56,7 +57,7 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
-  - id: gocd
+  - id: thoughtworks-gocd
     level: gold
   - id: workiva
     level: gold

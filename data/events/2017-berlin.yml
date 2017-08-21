@@ -61,7 +61,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: partner
   - id: 2016-norisnetwork
     level: eveningevent
-  - id: gocd
+  - id: thoughtworks-gocd
     level: platinum
   - id: logz
     level: platinum

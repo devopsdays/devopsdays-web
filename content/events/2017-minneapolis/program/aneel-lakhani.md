@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "A Field Guide to Observability"
 Type = "talk"
 Speakers = ["aneel-lakhani"]
+speakerdeck = "https://speakerdeck.com/aneel/a-field-guide-to-observability-devopsdays-msp-2017"
+youtube = "WkAy39JaFi0"
 +++
 
 DevOps includes developers operating, and operators developing, and everyone crafting code while taking responsibility for what happens when that code is in production.

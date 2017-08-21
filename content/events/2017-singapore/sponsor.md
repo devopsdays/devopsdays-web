@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Singapore 2017"
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please <a href="mailto:organizers-singapore-2017@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2017">drop us an email</a><!-- or [download the prospectus](https://drive.google.com/open?id=0B-L7Gu-eJct3em15bzFreGZWMU5jVnZ6S2pyckl2TGpZY053) right away -->.
+We greatly value sponsors for this open event. If you are interested in sponsoring, please <a href="mailto:organizers-singapore-2017@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2017">drop us an email</a> or [download the prospectus](https://drive.google.com/open?id=0B07tYym-SQCFUjBSdTFPVVM3Qnc) right away.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
@@ -12,25 +12,27 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<!-- <div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B-L7Gu-eJct3em15bzFreGZWMU5jVnZ6S2pyckl2TGpZY053" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div> -->
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFUjBSdTFPVVM3Qnc" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## Why Sponsor Us?
 
-The DevOpsDays event mandate is to bring the highest­ quality speakers, experts, and the curious together.
+The DevOpsDays event mandate is to bring the highest quality speakers, experts, and the curious together. This is the third edition of DevOpsDays in Singapore and Southeast Asia.
 
 Singapore is not only one of the fastest growing startup hubs in the world but is also a trusted healthcare, telecom, and financial services nexus in Asia with strong investment in technology from the Government. We aim to attract representation from large enterprises and the startup community alike.
 
-By sponsoring DevOpsDays, you will be exposing your organizations brand and services to Singapore and Southeast Asia’s top talent in this rapidly growing space.
+By sponsoring DevOpsDays, you will be exposing your organization’s brand and services to Singapore and Southeast Asia’s top talent in this rapidly growing space.
 
 Sponsoring DevOpsDays Singapore connects your company to some of the greatest technical and business minds in the industry who are influencing decisions in security, monitoring, operations, engineering, quality, and organisational change.
 
 ## The Venue
 
-TBA
+DevOpsDays Singapore 2017 will be held at the Microsoft Operations Offices, #22-01, 1 Marina Blvd, Singapore 018989, in the middle of one of Singapore’s numerous cultural hubs.
+
+Many attractions are within walking distance and the location is well connected with public transport ([map](https://goo.gl/maps/6nFrCeDDUuJ2)).
 
 ## Booth Space
 
-Gold and Platinum sponsors receive booth space at the event. This is the perfect spot for your engineers to meet other tech geeks. Your booth space will have a booth table (185 cm x 80 cm) and two chairs. You can set up your table as you like, be it to display signage, products, materials, or swag giveaways. We encourage sponsors to send engineers to interact with attendees during session breaks.
+Gold and Platinum sponsors receive dedicated booth space at the event. Silver sponsors share a table. This is the perfect spot for your engineers to meet other tech geeks. Your booth space will have a booth table (150 cm x 50 cm) and two chairs. You can set up your table as you like, be it to display signage, products, materials, or swag giveaways. We encourage sponsors to send engineers to interact with attendees during session breaks.
 
 Large displays and oversized marketing material are not allowed in the exhibitor space. Please check with the organizers if your items fall under the restricted category. You may ship your booth materials to the venue prior to the event day.
 
@@ -43,9 +45,9 @@ Our sponsorship packages are structured around how you can help be part of the c
   <table class="table table-hover table-condensed">
     <tr>
       <th><i>Packages</i></th>
-      <th><center><b>Silver<br />TBA&nbsp;SGD</center></b></th>
-      <th><center><b>Gold<br />TBA&nbsp;SGD</center></b></th>
-      <th><center><b>Platinum<br />TBA&nbsp;SGD</center></b></th>
+      <th><center><b>Silver<br />3,000&nbsp;SGD</center></b></th>
+      <th><center><b>Gold<br />6,000&nbsp;SGD</center></b></th>
+      <th><center><b>Platinum<br />12,500&nbsp;SGD</center></b></th>
     </tr>
     <tr>
       <td># available</td>
@@ -76,7 +78,7 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
     <tr>
       <td>Complimentary attendee tickets (workshops not included*)</td>
-      <td><center><strong>1</strong></center></td>
+      <td><center><strong>2</strong></center></td>
       <td><center><strong>3</strong></center></td>
       <td><center><strong>6</strong></center></td>
     </tr>
@@ -93,16 +95,10 @@ Our sponsorship packages are structured around how you can help be part of the c
       <td><center><strong>4</strong></center></td>
     </tr>
     <tr>
-      <td>Logo size in print program</td>
+      <td>Logo size</td>
       <td>&nbsp;</td>
       <td><center><strong>Regular</strong></center></td>
       <td><center><strong>Large</strong></center></td>
-    </tr>
-    <tr>
-      <td>No. of swag in goodie bag - requires approval</td>
-      <td>&nbsp;</td>
-      <td><center><strong>1</strong></center></td>
-      <td><center><strong>2</strong></center></td>
     </tr>
     <tr>
       <td>Dedicated Booth/table space</td>
@@ -110,9 +106,16 @@ Our sponsorship packages are structured around how you can help be part of the c
       <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
       <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
     </tr>
+    <tr>
+      <td>Shared Booth/table space</td>
+      <td><center><i class="fa fa-check" aria-hidden="true"></i></center></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
   </table>
   <small>* Please reach out to us if you would like to purchase workshop passes. We have workshop only special pricing for our sponsors.</small>
-  <h2>SPECIAL SPONSOR PACKS</h2>
+  <h2>ALTERNATIVE SPONSORSHIP OPTIONS</h2>
+  <p>In addition to the main sponsorship levels described in the table above, below are the stand-alone sponsorship options that can be purchased alternatively to a core sponsorship package.</p>
   <table class="table table-condensed table-hover">
     <tr>
       <th style="width: 125px;"><i>Packages</i></th>
@@ -122,20 +125,20 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
     <tr>
       <td>Drink Sponsor
-      <td>Sponsor the drinks for the social event happy hour and have your signage and logo at the bar
+      <td>Sponsor the drink for the social event happy hour and have your signage and logo at the bar
       <td><center>2</center>
-      <td>TBA&nbsp;SGD
+      <td>2000&nbsp;SGD
     </tr>
     <tr>
       <td>Logo on attendee badge
-      <td>Your logo will be placed on the attendee name badge. Size and placement to be determined by organizers.
+      <td>Your logo will be placed on the attendee name badge. Size and placement to be determined by organizers
       <td><center>1</center>
-      <td>TBA&nbsp;SGD
+      <td>1500&nbsp;SGD
     </tr>
   </table>
 </div>
 
-<!-- <div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B-L7Gu-eJct3em15bzFreGZWMU5jVnZ6S2pyckl2TGpZY053" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div> -->
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFUjBSdTFPVVM3Qnc" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## THE SMALL PRINT
 
@@ -148,7 +151,7 @@ TO ALLOW US SUFFICIENT TIME TO PREPARE FOR AND ORGANISE THE MARKETING AND OTHER 
 
 ### How big is our booth space?
 
-Gold and Platinum sponsors receive booth space at the event. You will receive a table (185 x 80 cm) and two chairs.
+Gold and Platinum sponsors receive booth space at the event. You will receive a table (150 cm x 50 cm) and two chairs.
 
 ### When can we pick our booth spot?
 
@@ -164,7 +167,7 @@ We have seen that sponsors benefit the most when they bring engineers to the con
 
 ### Can we bring a 1m roll-up as our back wall?
 
-Whatever you bring must fit behind or on your table (185 x 80 cm).
+Whatever you bring must fit behind or on your table (150 cm x 50 cm).
 
 ### Will we have any chairs at our booth?
 
@@ -188,11 +191,11 @@ Yes, you will get a power strip (Plug <a href="http://www.iec.ch/worldplugs/type
 
 ### Will wifi connection be good enough for showing demos?
 
-TBA
+There will be wifi available but we recommend to prepare your demos for offline mode because we can not guarantee availability of the network.
 
 ### Do we get an advertising in the program? When do you need the graphics?
 
-We will be using the logos that are sent by you.
+We will be using the logos that are sent by you (specifications are mentioned in the contract).
 
 ### Do we get a dedicated email blast?
 
@@ -230,7 +233,7 @@ Yes. Please <a href="mailto:organizers-singapore-2017@devopsdays.org?subject=Shi
 
 ### Can we lock things at the venue during the event?
 
-Yes. There is a shared room where you can stash stuff. Access is organized by the venue itself.
+Yes. There is a shared room where you can stash stuff. Please <a href="mailto:organizers-singapore-2017@devopsdays.org?subject=Shipping to DevOpsDays Singapore 2017">send us an email</a> so we can work out the details.
 
 ### My question is not covered here. What can I do?
 

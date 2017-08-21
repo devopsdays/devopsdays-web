@@ -27,16 +27,16 @@ registration_link: "https://www.eventbrite.com/e/devopsdays-nashville-2017-ticke
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Downtown Nashville" # Defaults to city, but you can make it the venue name.
+location: "The Bell Tower" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "400 4th Ave S, Nashville, TN 37201" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+  - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -51,7 +51,6 @@ team_members: # Name is the only required field for team members.
   - name: "Steve Stewart"
   - name: "Joel Parks"
   - name: "Alicia Sepanik"
-  - name: "Jurnell Cockhren"
   - name: "Brian Pitts"
 organizer_email: "organizers-nashville-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal email address here
@@ -59,15 +58,43 @@ proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: contino
+    level: gold
+  - id: datablue
+    level: gold
   - id: dellemc
     level: gold
   - id: pivotal
     level: gold
+  - id: rubrik
+    level: gold
+  - id: sjtechcorp
+    level: gold
+  - id: changehealthcare
+    level: silver
+  - id: chef
+    level: silver
+  - id: dynatrace
+    level: silver
   - id: instana
     level: silver
   - id: systemfrontier
     level: silver
+  - id: axialhealthcare
+    level: bronze
+  - id: cardinalsolutions
+    level: bronze
+  - id: cbsinteractive
+    level: bronze
   - id: eventbrite
+    level: bronze
+  - id: mesosphere
+    level: bronze
+  - id: pluralsight
+    level: bronze
+  - id: shadow-soft
+    level: bronze
+  - id: stratasan
     level: bronze
   - id: juiceanalytics
     level: alacarte

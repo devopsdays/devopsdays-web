@@ -3,6 +3,9 @@ Title = "Adapt or Die: how DevOps can (and should!) save the world"
 Type = "talk"
 Speakers = ["jody-wolfborn"]
 aliases = ["/events/2017-amsterdam/program/jody-wolfborn/"]
+youtube = "Rxv9oOMY8HU"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Jody_Wolfborn-Adapt_or_Die.pdf"
 +++
 
 From iterative improvement to the breaking down of silos, the core concepts of the ""DevOps"" movement represent a shift in how the technology industry perceives the status quo. And, the community continues to thrive as DevOps practices increasingly infect other industries like banks, manufacturers, schools, and retail chains. But as the movement continues to grow, the full breadth of its benefits are limited by the scope of what we as practitioners apply its principles to. Focused on solving the challenges of development and operations communities, it is easy to forget that we have a responsibility to the global community and culture as well.

@@ -3,6 +3,7 @@ Title = "Jahmel Harris"
 Twitter = "JayHarris_Sec"
 website = "https://www.digitalinterruption.com/"
 type = "speaker"
+image = "jahmel-harris.jpg"
 linktitle = "jahmel-harris"
 
 +++

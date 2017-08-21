@@ -2,14 +2,15 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Hands on with Habitat"
+Title = "Application Automation & Containerization with Habitat"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/nathenharvey/application-automation-and-containerization-with-habitat"
 Speakers = ["nicole-johnson", "nathen-harvey"]
 +++
 
-Habitat is Chef’s open-source project for application automation.  It simplifies container management by packaging applications in a compact, atomic, and easily auditable format that makes it easier to deploy your application on various container runtimes.  It also helps you run stateful application services (think Redis, Mongo, etc) on cloud instances, VMs, or bare metal. Find out more at [habitat.sh](https://habitat.sh).
+Habitat builds and manages modern applications following the practices and principles of modern application teams.  Build applications of any flavor, from microservices to traditional applications.  Deploy applications in any operational environment from bare metal to containers.  Habitat provides consistent, repeatable, auditable applications that lower operational complexity and simplify development workflows.
 
-This will be a hands-on workshop aimed at anyone involved in building, deploying, or managing applications.  You may be a developer or may come from an infrastructure background. You may currently be working with container technology or a microservices architecture (or planning to).   Habitat helps simplify the processes required to build, deploy, and manage your applications and, if you’re already using containers, even makes containers more awesome.
+This hands-on workshop is for anyone involved in building, deploying, or managing applications.  The workshop will give you experience running and building applications with Habitat and describe the application-first approach that Habitat provides.  Find out more at [habitat.sh](https://habitat.sh).
 
 Prerequisites
 

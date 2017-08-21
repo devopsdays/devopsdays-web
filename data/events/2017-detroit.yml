@@ -24,7 +24,6 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
   - name: program
-  - name: propose
   - name: speakers
     # url: https://devopsdaysdetroit.typeform.com/to/HfQ847
   - name: location
@@ -67,7 +66,19 @@ sponsors:
     level: gold
   - id: rightbrain
     level: gold
+  - id: xmatters
+    level: gold
+  - id: f5
+    level: gold
+  - id: redhat
+    level: gold
+  - id: servicenow
+    level: silver
   - id: delphix
+    level: silver
+  - id: microsoft
+    level: silver
+  - id: stockx
     level: silver
   - id: proquest
     level: bronze
@@ -97,13 +108,195 @@ sponsor_levels:
     label: Party
 
 program:
+        ### Day One ###
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-27
+    start_time: "9:30"
+    end_time: "9:45"
+
   - title: "richard-i-cook"
     type: talk
     date: 2017-09-27
-    start_time: "09:15"
-    end_time: "09:45"
+    start_time: "9:45"
+    end_time: "10:30"
+
+  - title: "psychology-of-estimation"
+    type: talk
+    date: 2017-09-27
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-27
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "distributed-systems-are-hard"
+    type: talk
+    date: 2017-09-27
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-27
+    start_time: "11:45"
+    end_time: "1:00"
+
+  - title: "adding-and-retiring-technologies"
+    type: talk
+    date: 2017-09-27
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "we-should-all-be-leaders"
+    type: talk
+    date: 2017-09-27
+    start_time: "1:30"
+    end_time: "2:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-27
+    start_time: "2:00"
+    end_time: "2:15"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-27
+    start_time: "2:15"
+    end_time: "2:35"
+
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-09-27
+    start_time: "2:35"
+    end_time: "3:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-27
+    start_time: "3:00"
+    end_time: "3:40"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-27
+    start_time: "3:45"
+    end_time: "4:25"
+
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-27
+    start_time: "4:30"
+    end_time: "5:15"
+
+  - title: "Evening Dinner & Party"
+    type: custom
+    date: 2017-09-27
+    start_time: "5:30"
+    end_time: "8:30"
+
+  - title: "presentation-karaoke"
+    type: talk
+    date: 2017-09-27
+    start_time: "5:30"
+    end_time: "8:30"
+
+        ### Day Two ###
+
+  - title: "Welcome"
+    type: custom
+    date: 2017-09-28
+    start_time: "9:30"
+    end_time: "9:40"
+
   - title: "mike-rother"
     type: talk
     date: 2017-09-28
-    start_time: "09:00"
-    end_time: "09:45"
+    start_time: "9:45"
+    end_time: "10:30"
+
+  - title: "tour-of-jstor"
+    type: talk
+    date: 2017-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-28
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "safety-and-lean"
+    type: talk
+    date: 2017-09-28
+    start_time: "11:15"
+    end_time: "11:55"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-28
+    start_time: "12:00"
+    end_time: "1:00"
+
+  - title: "one-womans-experience"
+    type: talk
+    date: 2017-09-28
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-28
+    start_time: "1:30"
+    end_time: "1:40"
+
+  - title: "TBD"
+    type: talk
+    date: 2017-09-28
+    start_time: "1:40"
+    end_time: "2:10"
+
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-09-28
+    start_time: "2:10"
+    end_time: "2:30"
+
+  - title: "kata-classroom"
+    type: workshop
+    date: 2017-09-28
+    start_time: "2:30"
+    end_time: "4:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-28
+    start_time: "2:30"
+    end_time: "3:10"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-28
+    start_time: "3:15"
+    end_time: "4:00"
+
+  - title: "Closing & Raffle"
+    type: custom
+    date: 2017-09-28
+    start_time: "4:15"
+    end_time: "3:30"
+
+ignites:
+  - title: "idaho-potato"
+    date: 2017-09-27
+  - title: "chasing-the-elk"
+    date: 2017-09-27
+  - title: "switch-jobs"
+    date: 2017-09-27
+  - title: "uptime"
+    date: 2017-09-27

@@ -3,6 +3,9 @@ Title = "Terminal Velocity: Doing DevOps Right by Removing CLIs from Production 
 Type = "talk"
 Speakers = ["matthew-simons"]
 aliases = ["/events/2017-amsterdam/program/mathew-simons"]
+youtube = "g9l2IQCzVqY"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Matthew_Simons-Terminal_Velocity.pdf"
 +++
 
 "...one of the inputs to the command was entered incorrectly..." - Amazon on S3 outage, 2017

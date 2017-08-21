@@ -37,6 +37,10 @@ team_members: # Name is the only required field for team members.
   - name: "Ben Blanquera"
   - name: "Bill Schwanitz"
   - name: "David Laulusa"
+    bio: "David has worked at Bell Labs, SAP and whole slew of companies in between. Three years ago when he started working at SAP, his boss handed him The Phoenix Project by Gene Kim and Continuous Delivery by Jez Humble and said, 'Read these and figure out this DevOps thing.' And he hasn’t stopped learning since.
+    <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."
+    twitter: "dlaulusa"
+    linkedin: "https://www.linkedin.com/in/davidlaulusa/"
   - name: "John Lusk"
   - name: "Kyle Jenkins"
     employer: "Improving"
@@ -64,6 +68,14 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: 2015-covermymeds
     level: gold
+  - id: ibm
+    level: gold
+  - id: arista
+    level: gold
+  - id: ahead
+    level: gold
+  - id: servicenow
+    level: silver
 
 sponsors_accepted : "yes"
 

@@ -18,7 +18,6 @@ location: "Hilton Doubletree, Woodstock, Cape Town"
 
 nav_elements:
   #  - name: program
-  - name: propose
   # - name: registration
   - name: location
   - name: sponsor

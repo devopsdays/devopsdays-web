@@ -3,10 +3,10 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The same group of organizers that brought you DevOpsDays DFW 2016 are back again this year planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received at last year's event, which is why they are determined to bring a better experience this year and improve the DevOps conversation throughout the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-08-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-04-04  # start accepting talk proposals.
@@ -60,23 +60,14 @@ team_members: # Name is the only required field for team members.
     github: "anniehedgpeth"
     image: "annie.jpg"
   - name: "Ben Johnson"
-    employer: "Particle41"
+    employer: ""
     bio: "Consummate Technology Leader with strong open source programming background and hands on skills in Ruby on Rails, PHP and NodeJS. Extensive experience with remote distributed development teams. Establish highest levels of quality through continuous integration, continuous delivery, and automated testing standards. Constant focus on results and ways to improve while having fun building highly scalable and highly secure applications."
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
 #   facebook:
-#   website: ""
-#   github: ""
+    website: ""
+    github: "benjohnson77"
     image: "ben.jpg"
-#  - name: "Cory Forsythe"
-#    employer: "Capital One"
-#    bio: "Cory Forsythe is a Software Manager and DevOps evangelist working with Capital One’s Auto Finance teams. With a background in traditional .Net development in the healthcare and natural gas industries, he has worked to evolve his skillset toward more modern cloud-first architecture and serverless computing. Having spent some time working directly with Amazon, Cory is a proponent of the AWS Cloud and the infrastructure services provided within. Cory invests time heavily in the study of industry CI/CD tooling and test automation and is looking forward to hearing what great advances in practice come out of our DFW organizations in 2017."
-#    twitter: "CoryForsythe"
-#    linkedin: "https://www.linkedin.com/in/123123214cf/"
-#    facebook: ""
-#    website: ""
-#    github: ""
-#    image: "cory.jpg"
   - name: "Gokul Sridharan"
     employer: "CA Technologies"
     bio: "Gokul Sridharan, is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
@@ -156,6 +147,8 @@ sponsors:
     level: platinum
   - id: appdynamics
     level: platinum
+  - id: dellemc
+    level: platinum
   - id: pivotal
     level: gold
   - id: ns1
@@ -176,13 +169,37 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: f5
+    level: gold
+  - id: rubrik
+    level: gold   
+  - id: praecipio
+    level: gold  
   - id: alertlogic
     level: silver
+  - id: 10thmagnitude
+    level: silver
+  - id: inspec
+    level: workshop
   - id: arresteddevops
-    level: community
+    level: media
+  - id: devopsdotcom
+    level: media
+  - id: itrevolution
+    level: media
   - id: devopslive
     level: community
-  - id: addo2017
+  - id: 2017-addo
+    level: community
+  - id: hackernest-dfw
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -204,14 +221,49 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: workshop
+    label: Workshop
+    max: 3
 # - id: bronze
 #   label: Bronze
 #   max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
   - id: community
     label: Community
     max: 5
 
 program:
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2017-08-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introductions by Jody Wolfborn & Scott Macfarlane"
+    type: custom
+    date: 2017-08-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "inspec"
+    type: workshop
+    date: 2017-08-28
+    start_time: "09:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2017-08-28
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "inspec"
+    type: workshop
+    date: 2017-08-28
+    start_time: "11:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-08-28
+    start_time: "12:30"
+    end_time: "13:30"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-29
@@ -227,7 +279,7 @@ program:
     date: 2017-08-29
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Sponsors"
+  - title: "Platinum Sponsor Pitch - Chef / Verizon"
     type: custom
     date: 2017-08-29
     start_time: "09:50"
@@ -247,7 +299,7 @@ program:
     date: 2017-08-29
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Platinum Sponsor Pitch - AppDynamics / DellEMC"
     type: custom
     date: 2017-08-29
     start_time: "11:10"
@@ -297,6 +349,8 @@ program:
     date: 2017-08-29
     start_time: "17:00"
     end_time: "19:00"
+
+
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-30
@@ -312,7 +366,7 @@ program:
     date: 2017-08-30
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Sponsors"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks / Rubrik"
     type: custom
     date: 2017-08-30
     start_time: "09:50"
@@ -332,7 +386,7 @@ program:
     date: 2017-08-30
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5 / Praecipio"
     type: custom
     date: 2017-08-30
     start_time: "11:10"
@@ -362,8 +416,8 @@ program:
     date: 2017-08-30
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Open Space #2"
-    type: open-space
+  - title: "SPEAKER DISCUSSION PANEL"
+    type: custom
     date: 2017-08-30
     start_time: "16:00"
     end_time: "16:45"
@@ -374,27 +428,27 @@ program:
     end_time: "17:00"
 
 ignites:
+  - title: "john-kerry"
+    date: 2017-08-29
+  - title: "karen-odegaard"
+    date: 2017-08-29
   - title: "david-laulusa"
     date: 2017-08-29
-  - title: "david-brown"
+  - title: "pete-chestna"
     date: 2017-08-29
-  - title: "michael-cote"
+  - title: "jane-prusakova"
     date: 2017-08-29
-  - title: "rob-hirschfeld"
+  - title: "mohamad-bayan"
     date: 2017-08-29
+  - title: "franklin-mosley"
+    date: 2017-08-30
+  - title: "emily-freeman"
+    date: 2017-08-30
   - title: "lucas-harms"
-    date: 2017-08-29
-  - title: "TBA"
-    date: 2017-08-29
-  - title: "TBA"
     date: 2017-08-30
-  - title: "TBA"
+  - title: "nora-kennedy"
     date: 2017-08-30
-  - title: "TBA"
+  - title: "david-brown"
     date: 2017-08-30
-  - title: "TBA"
-    date: 2017-08-30
-  - title: "TBA"
-    date: 2017-08-30        
-  - title: "TBA"
+  - title: "rob-hirschfeld"
     date: 2017-08-30
