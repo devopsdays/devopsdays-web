@@ -63,6 +63,8 @@ sponsors:
     level: platinum
   - id: opsgenie
     level: platinum
+  - id: techtown
+    level: platinum
   - id: chef
     level: gold
   - id: ibm
@@ -74,7 +76,15 @@ sponsors:
   - id: veredus
     level: gold
   - id: contrast_security
-    level: silver
+    level: gold
+  - id: datalink
+    level: gold
+  - id: extron
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: triangledevops
+    level: community
   - id: spreedly
     level: community
   - id: dzone
