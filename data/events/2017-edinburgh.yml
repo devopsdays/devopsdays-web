@@ -163,12 +163,12 @@ program:
     start_time: "13:10"
     end_time: "14:00"
   - title: Ignites
-    type: custom
+    type: ignite
     date: 2017-10-23
     start_time: "14:00"
     end_time: "14:30"
   - title: "Open Spaces Planning"
-    type: custom
+    type: open-space
     date: 2017-10-23
     start_time: "14:30"
     end_time: "15:00"
@@ -178,17 +178,17 @@ program:
     start_time: "15:00"
     end_time: "15:30"
   - title: "Open Space 1"
-    type: custom
+    type: open-space
     date: 2017-10-23
     start_time: "15:30"
     end_time: "16:00"
   - title: "Open Space 2"
-    type: custom
+    type: open-space
     date: 2017-10-23
     start_time: "16:00"
     end_time: "16:30"    
   - title: "Open Space 3"
-    type: custom
+    type: open-space
     date: 2017-10-23
     start_time: "16:30"
     end_time: "17:00"
@@ -259,7 +259,7 @@ program:
     start_time: "13:10"
     end_time: "14:00"
   - title: Ignites
-    type: custom
+    type: ignite
     date: 2017-10-24
     start_time: "14:00"
     end_time: "14:30"
@@ -274,17 +274,17 @@ program:
     start_time: "15:00"
     end_time: "15:30"
   - title: "Open Space 1"
-    type: custom
+    type: open-space
     date: 2017-10-24
     start_time: "15:30"
     end_time: "16:00"
   - title: "Open Space 2"
-    type: custom
+    type: open-space
     date: 2017-10-24
     start_time: "16:00"
     end_time: "16:30"    
   - title: "Open Space 3"
-    type: custom
+    type: open-space
     date: 2017-10-24
     start_time: "16:30"
     end_time: "17:00"
