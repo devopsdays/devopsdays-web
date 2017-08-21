@@ -1,6 +1,6 @@
 +++
 title = "Josh Atwell"
-twitter = "@josh_atwell"
+twitter = "josh_atwell"
 Image = "josh-atwell.jpg"
 type = "speaker"
 linktitle = "josh-atwell"

@@ -1,6 +1,6 @@
 +++
 title = "Abhishek Chanda"
-twitter = "@rony358"
+twitter = "rony358"
 Image = "abhishek-chanda.jpg"
 type = "speaker"
 linktitle = "abhishek-chanda"

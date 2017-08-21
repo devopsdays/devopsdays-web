@@ -1,6 +1,6 @@
 +++
 title = "Paul Gillespie"
-twitter = "@bigpg"
+twitter = "bigpg"
 Image = "paul-gillespie.jpg"
 type = "speaker"
 linktitle = "paul-gillespie"

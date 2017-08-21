@@ -1,6 +1,6 @@
 +++
 title = "Adrian Mouat"
-twitter = "@adrianmouat"
+twitter = "adrianmouat"
 Image = "adrian-mouat.jpg"
 type = "speaker"
 linktitle = "adrian-moauat"
