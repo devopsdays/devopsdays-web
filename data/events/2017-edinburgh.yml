@@ -108,7 +108,7 @@ program:
     date: 2017-10-23
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Opening Keynote"
+  - title: "Opening Keynote - TBC"
     type: custom
     date: 2017-10-23
     start_time: "09:15"
@@ -118,28 +118,28 @@ program:
     date: 2017-10-23
     start_time: "09:45"
     end_time: "10:15"
-  - title: "jason-hand"
+  - title: "peter-varhol"
     type: talk
     date: 2017-10-23
-    start_time: "09:00"
-    end_time: "09:15"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "gerie-owen"
+    type: talk
+    date: 2017-10-23
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "Break"
     type: custom
     date: 2017-10-23
     start_time: "10:45"
     end_time: "11:00"
-  - title: "charlotte-godley"
-    date: 2017-10-23
-    type: talk
-    start_time: "11:00"
-    end_time: "11:30"
   - title: "abhishek-chanda"
     type: talk
     date: 2017-10-23
     start_time: "11:30"
     end_time: "12:00"
-  - title: "cookie"
-    type: custom
+  - title: "cookie-lanfear"
+    type: talk
     date: 2017-10-23
     start_time: "12:00"
     end_time: "12:30"
@@ -209,9 +209,9 @@ program:
     date: 2017-10-24
     start_time: "09:15"
     end_time: "09:45"
-  - title: "gerie-owen"
-    type: talk
+  - title: "charlotte-godley"
     date: 2017-10-24
+    type: talk
     start_time: "09:45"
     end_time: "10:15"
   - title: "josh-atwell"
@@ -234,7 +234,7 @@ program:
     date: 2017-10-24
     start_time: "11:30"
     end_time: "12.00"
-  - title: "peter-varhol"
+  - title: "jason-hand"
     type: talk
     date: 2017-10-24
     start_time: "12:00"
