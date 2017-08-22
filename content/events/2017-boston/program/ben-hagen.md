@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "SRE, Security, and Presidential Campaigns"
 Type = "talk"
-Speakers = ["amy-hailes", "michael-fisher", "will-mccutcheon", "timothy-ball", "dylan-ayrey"]
+Speakers = ["ben-hagen", "amy-hailes", "michael-fisher", "will-mccutcheon", "timball", "dylan-ayrey"]
 +++
 
 
