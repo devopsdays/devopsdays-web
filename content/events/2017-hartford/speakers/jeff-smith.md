@@ -1,7 +1,7 @@
 +++
 Title = "Jeff Smith"
 Twitter = "DarkAndNerdy"
-image = ""
+image = "jeff-smith.jpg"
 type = "speaker"
 linktitle = "jeff-smith"
 website = "http://www.allthingsdork.com"

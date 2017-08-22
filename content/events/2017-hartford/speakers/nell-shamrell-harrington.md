@@ -1,7 +1,7 @@
 +++
 Title = "Nell Shamrell-Harrington"
 Twitter = "nellshamrell"
-image = ""
+image = "nell-shamrell-harrington.jpg"
 type = "speaker"
 linktitle = "nell-shamrell-harrington"
 website = "http://www.nellshamrell.com"

@@ -1,7 +1,7 @@
 +++
 Title = "Ed Southard"
-image = ""
 type = "speaker"
+image = "ed-southard.jpg"
 linktitle = "ed-southard"
 linkedin = "https://www.linkedin.com/in/edsouthardjr"
 +++

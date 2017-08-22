@@ -1,7 +1,7 @@
 +++
 Title = "Soo Choi"
 Twitter = "soosiechoi"
-image = ""
+image = "soo-choi.jpg"
 type = "speaker"
 linktitle = "soo-choi"
 website = "https://devops-research.com/"

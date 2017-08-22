@@ -3,7 +3,7 @@ Title = "Tom McLaughlin"
 Twitter = "tmclaughbos"
 type = "speaker"
 linktitle = "tom-mclaughlin"
-image = ""
+image = "tom-mclaughlin.jpg"
 
 +++
 
