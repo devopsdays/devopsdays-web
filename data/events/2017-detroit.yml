@@ -220,85 +220,85 @@ program:
     type: custom
     date: 2017-09-28
     start_time: "9:30"
-    end_time: "9:40"
+    end_time: "9:45"
 
   - title: "mike-rother"
     type: talk
     date: 2017-09-28
     start_time: "9:45"
-    end_time: "10:30"
+    end_time: "10:45"
 
   - title: "tour-of-jstor"
     type: talk
     date: 2017-09-28
-    start_time: "10:30"
-    end_time: "11:00"
+    start_time: "10:45"
+    end_time: "11:15"
 
   - title: "Break"
     type: custom
     date: 2017-09-28
-    start_time: "11:00"
-    end_time: "11:15"
+    start_time: "11:15"
+    end_time: "11:30"
 
   - title: "safety-and-lean"
     type: talk
     date: 2017-09-28
-    start_time: "11:15"
-    end_time: "11:55"
+    start_time: "11:30"
+    end_time: "12:30"
 
   - title: "Lunch"
     type: custom
     date: 2017-09-28
-    start_time: "12:00"
-    end_time: "1:00"
+    start_time: "12:30"
+    end_time: "1:30"
 
   - title: "one-womans-experience"
     type: talk
     date: 2017-09-28
-    start_time: "1:00"
-    end_time: "1:30"
+    start_time: "1:30"
+    end_time: "2:00"
 
   - title: "Break"
     type: custom
     date: 2017-09-28
-    start_time: "1:30"
-    end_time: "1:40"
+    start_time: "2:00"
+    end_time: "2:15"
 
-  - title: "TBD"
+  - title: "devops-state-of-mind"
     type: talk
     date: 2017-09-28
-    start_time: "1:40"
-    end_time: "2:10"
+    start_time: "2:15"
+    end_time: "2:45"
 
   - title: "Open Spaces Planning"
     type: custom
     date: 2017-09-28
-    start_time: "2:10"
-    end_time: "2:30"
+    start_time: "2:45"
+    end_time: "3:00"
 
   - title: "kata-classroom"
     type: workshop
     date: 2017-09-28
-    start_time: "2:30"
-    end_time: "4:00"
+    start_time: "3:00"
+    end_time: "4:30"
 
   - title: "Open Space #1"
-    type: open-space
-    date: 2017-09-28
-    start_time: "2:30"
-    end_time: "3:10"
-
-  - title: "Open Space #2"
     type: open-space
     date: 2017-09-28
     start_time: "3:15"
     end_time: "4:00"
 
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-28
+    start_time: "4:00"
+    end_time: "4:45"
+
   - title: "Closing & Raffle"
     type: custom
     date: 2017-09-28
-    start_time: "4:15"
-    end_time: "3:30"
+    start_time: "4:45"
+    end_time: "5:00"
 
 ignites:
   - title: "idaho-potato"
