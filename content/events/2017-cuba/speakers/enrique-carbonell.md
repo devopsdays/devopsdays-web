@@ -1,8 +1,8 @@
 +++
-Title = "Enrique Carbonell Muela"
+Title = "Enrique Carbonell"
 Twitter = "kikicarbonell"
 linkedin = "https://www.linkedin.com/in/enrique-carbonell"
-image = "enrique-carbonell-muela.jpg"
+image = "enrique-carbonell.jpg"
 type = "speaker"
 linktitle = "enrique-carbonell-muela"
 

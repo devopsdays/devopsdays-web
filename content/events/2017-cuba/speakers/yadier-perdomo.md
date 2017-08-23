@@ -1,7 +1,7 @@
 +++
-Title = "Yadier Perdomo Cuevas"
+Title = "Yadier Perdomo"
 Twitter = "ypc_cu"
-image = "yadier-perdomo-cuevas.jpg"
+image = "yadier-perdomo.jpg"
 type = "speaker"
 linktitle = "yadier-perdomo-cuevas"
 
