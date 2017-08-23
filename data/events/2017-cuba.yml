@@ -116,8 +116,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 sponsors:
   - id: devopsinstitute
     level: bronze
-#  - id: devopsdotcom
-#    level: bronze
+  - id: 2017-devopsdotcom
+    level: bronze
   - id: convencionuniversidadsantaclara
     level: honorary
   - id: uclv
