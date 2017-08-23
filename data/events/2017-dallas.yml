@@ -372,7 +372,7 @@ program:
     date: 2017-08-30
     start_time: "09:10"
     end_time: "09:50"
-  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks / Rubrik"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks / Rubrik / Orasi"
     type: custom
     date: 2017-08-30
     start_time: "09:50"
@@ -392,7 +392,7 @@ program:
     date: 2017-08-30
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5 / Praecipio"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5 / Praecipio /NetApp"
     type: custom
     date: 2017-08-30
     start_time: "11:10"
@@ -450,7 +450,7 @@ ignites:
     date: 2017-08-30
   - title: "emily-freeman"
     date: 2017-08-30
-  - title: "lucas-harms"
+  - title: "trevor-hess"
     date: 2017-08-30
   - title: "nora-kennedy"
     date: 2017-08-30
