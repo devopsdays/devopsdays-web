@@ -1,7 +1,7 @@
 +++
 Title = "John Sawers"
 Twitter = "emotionalapi"
-
+image = "logo-square.jpg"
 type = "speaker"
 linktitle = "john-sawers"
 website = "http://emotionalapi.com/"

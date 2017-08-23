@@ -270,8 +270,8 @@ program:
     date: 2017-09-18
     start_time: "14:00"
     end_time: "14:15"
-  - title: "TBD"
-    type: custom
+  - title: "alizishaan-khatri"
+    type: workshop
     date: 2017-09-18
     start_time: "14:15"
     end_time: "15:00"
@@ -280,12 +280,7 @@ program:
     date: 2017-09-18
     start_time: "14:15"
     end_time: "15:00"
-  - title: "alizishaan-khatri"
-    type: workshop
-    date: 2017-09-18
-    start_time: "15:00"
-    end_time: "16:00"
-  - title: "Open Space #2"
+  - title: "Open Space #2 / Snack Break"
     type: open-space
     date: 2017-09-18
     start_time: "15:00"
@@ -362,13 +357,13 @@ program:
     date: 2017-09-19
     start_time: "11:55"
     end_time: "13:00"
-  - title: "dr-karen-fiumara"
+  - title: "karen-fiumara"
     type: talk
     date: 2017-09-19
     start_time: "13:00"
     end_time: "13:45"
-  - title: "TBD"
-    type: custom
+  - title: "richard-li"
+    type: workshop
     date: 2017-09-19
     start_time: "13:45"
     end_time: "14:30"
@@ -377,21 +372,11 @@ program:
     date: 2017-09-19
     start_time: "13:45"
     end_time: "14:30"
-  - title: "TBD"
-    type: custom
-    date: 2017-09-19
-    start_time: "14:30"
-    end_time: "15:10"
-  - title: "Open Space #2"
+  - title: "Open Space #2 / Snack Break"
     type: open-space
     date: 2017-09-19
     start_time: "14:30"
     end_time: "15:10"
-  - title: "richard-li"
-    type: workshop
-    date: 2017-09-19
-    start_time: "15:10"
-    end_time: "15:55"
   - title: "Open Space #3"
     type: open-space
     date: 2017-09-19

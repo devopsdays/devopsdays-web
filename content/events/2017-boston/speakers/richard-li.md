@@ -4,7 +4,7 @@ Twitter = "rdl"
 
 type = "speaker"
 linktitle = "richard-li"
-
+image = "logo-square.jpg"
 +++
 
 
