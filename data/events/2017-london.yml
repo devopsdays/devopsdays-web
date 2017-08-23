@@ -138,6 +138,11 @@ sponsor_levels:
     max: 3
 
 program:
+  - title: "Breakfast"
+    type: custom
+    date: 2017-09-06
+    start_time: "09:00"
+    end_time: "09:45"
   - title: "Welcome"
     type: custom
     date: 2017-09-06
@@ -198,6 +203,21 @@ program:
     date: 2017-09-06
     start_time: "16:10"
     end_time: "17:00"
+  - title: "Reception at the venue"
+    type: custom
+    date: 2017-09-06
+    start_time: "17:00"
+    end_time: "18:30" 
+  - title: "After party (Venue: https://www.altitudelondon.com/london-venues/sky-loft/)"
+    type: custom
+    date: 2017-09-06
+    start_time: "18:30"
+    end_time: ""        
+  - title: "Breakfast"
+    type: custom
+    date: 2017-09-07
+    start_time: "09:00"
+    end_time: "10:00"
   - title: "erik-sasha-romijn"
     type: talk
     date: 2017-09-07
