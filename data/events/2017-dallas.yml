@@ -177,6 +177,10 @@ sponsors:
     level: gold   
   - id: praecipio
     level: gold  
+  - id: orasi
+    level: gold 
+  - id: xebialabs
+    level: gold     
   - id: alertlogic
     level: silver
   - id: 10thmagnitude
