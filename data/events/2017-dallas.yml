@@ -180,7 +180,9 @@ sponsors:
   - id: orasi
     level: gold 
   - id: xebialabs
-    level: gold     
+    level: gold   
+  - id: netapp
+    level: gold      
   - id: alertlogic
     level: silver
   - id: 10thmagnitude
