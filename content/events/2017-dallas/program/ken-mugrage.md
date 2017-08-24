@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Everything I need to know about DevOps I learned in The Marines"
+Title = "Keynote Speaker | Everything I need to know about DevOps I learned in The Marines"
 Type = "talk"
 Speakers = ["ken-mugrage"]
 Youtube = ""
