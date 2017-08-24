@@ -310,7 +310,7 @@ program:
     date: 2017-08-29
     start_time: "11:10"
     end_time: "11:20"
-  - title: "mark-andersen"
+  - title: "john-willis"
     type: talk
     date: 2017-08-29
     start_time: "11:20"
@@ -367,7 +367,7 @@ program:
     date: 2017-08-30
     start_time: "09:00"
     end_time: "09:10"
-  - title: "john-willis"
+  - title: "ken-mugrage"
     type: talk
     date: 2017-08-30
     start_time: "09:10"
@@ -387,7 +387,7 @@ program:
     date: 2017-08-30
     start_time: "10:30"
     end_time: "10:40"
-  - title: "ken-mugrage"
+  - title: "mark-andersen"
     type: talk
     date: 2017-08-30
     start_time: "10:40"
