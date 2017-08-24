@@ -178,6 +178,12 @@ sponsors:
     level: silver
   - id: diamanti
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: tempus
+    level: lanyard
+  - id: chicago-innovation-roundtable
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -194,6 +200,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: lanyard
+    label: Lanyard
   - id: community
     label: Community
 program:
