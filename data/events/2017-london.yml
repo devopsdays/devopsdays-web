@@ -79,8 +79,6 @@ sponsors:
     level: gold
   - id: skybet  
     level: bronze    
-  - id: docker  
-    level: silver 
   - id: xmatters  
     level: gold
   - id: sqreen
@@ -95,10 +93,8 @@ sponsors:
     level: charity
   - id: engineerbetter  
     level: bronze    
-  - id: kloia
+  - id: kloiauk
     level: silver
-  - id: newrelic
-    level: platinum    
   - id: automic
     level: platinum
   - id: armakuni
@@ -113,6 +109,12 @@ sponsors:
     level: gold 
   - id: ticketmaster
     level: bronze 
+  - id: rancher
+    level: bronze 
+  - id: elastic
+    level: bronze 
+  - id: intellimentsec
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -278,7 +280,7 @@ ignites:
   - title: "luis-sousa"
     date: 2017-09-06
   - title: "kris-buytaert"
-    date: 2017-09-06
+    date: 2017-09-07
   - title: "maja-schreiner"
     date: 2017-09-06
   - title: "kate-ertmann"
@@ -288,6 +290,6 @@ ignites:
   - title: "sarah-wells"
     date: 2017-09-07
   - title: "tomasz-tarczynski"
-    date: 2017-09-07
+    date: 2017-09-06
   - title: "ebru-cucen"
     date: 2017-09-07    
