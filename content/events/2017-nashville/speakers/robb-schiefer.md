@@ -1,7 +1,7 @@
 +++
 Title = "Robb Schiefer"
 Twitter = "chief7"
-image = ""
+image = "robb-schiefer.jpg"
 type = "speaker"
 linktitle = "robb-schiefer"
 

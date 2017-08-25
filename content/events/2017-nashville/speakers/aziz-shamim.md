@@ -1,7 +1,7 @@
 +++
 Title = "Aziz Shamim"
 Twitter = "azizshamim"
-image = ""
+image = "aziz-shamim.jpg"
 type = "speaker"
 linktitle = "aziz-shamim"
 

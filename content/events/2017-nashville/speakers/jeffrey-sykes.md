@@ -1,7 +1,7 @@
 +++
 Title = "Jeffrey Sykes"
 Twitter = "sykesjs"
-image = ""
+image = "jeffrey-sykes.jpg"
 type = "speaker"
 linktitle = "jeffrey-sykes"
 

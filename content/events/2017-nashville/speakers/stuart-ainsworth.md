@@ -1,7 +1,7 @@
 +++
 Title = "Stuart Ainsworth"
 Twitter = "codegumbo"
-image = ""
+image = "stuart-ainsworth.jpg"
 type = "speaker"
 linktitle = "stuart-ainsworth"
 
