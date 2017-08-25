@@ -1,7 +1,7 @@
 +++
 Title = "Dan Petit"
 Twitter = ""
-image = ""
+image = "dan-petit.jpg"
 type = "speaker"
 linktitle = "dan-petit"
 

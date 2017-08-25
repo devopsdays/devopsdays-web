@@ -1,7 +1,7 @@
 +++
 Title = "Kylie Schleicher"
 Twitter = ""
-image = ""
+image = "kylie-schleicher.jpg"
 type = "speaker"
 linktitle = "kylie-schleicher"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Peter Varhol"
 Twitter = "pvarhol"
-image = ""
+image = "peter-varhol.jpg"
 type = "speaker"
 linktitle = "pater-varhol"
 

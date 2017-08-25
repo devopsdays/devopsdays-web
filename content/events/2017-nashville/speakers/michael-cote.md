@@ -1,7 +1,7 @@
 +++
 Title = "Michael Cote"
 Twitter = "cote"
-image = ""
+image = "cote.jpg"
 type = "speaker"
 linktitle = "cote"
 

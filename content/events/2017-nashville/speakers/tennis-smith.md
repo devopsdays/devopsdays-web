@@ -1,7 +1,7 @@
 +++
 Title = "Tennis Smith"
 Twitter = ""
-image = ""
+image = "tennis-smith.jpg"
 type = "speaker"
 linktitle = "tennis-smith"
 
