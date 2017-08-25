@@ -81,6 +81,16 @@ sponsors:
     level: friends
   - id: gdg-daugavpils
     level: friends
+  - id: wallery
+    level: friends
+  - id: agile-lt
+    level: friends
+  - id: labs-of-latvia
+    level: friends
+  - id: startin-lv
+    level: friends
+  - id: riga-tech-girls
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
@@ -114,7 +124,7 @@ sponsor_levels:
   #  label: Lanyards
   #  max: "1"
   - id: friends
-    label: Friends or other
+    label: Friends, media partners or other
 
 program:
   # Day one
