@@ -24,7 +24,6 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
   - name: program
-  - name: propose
   - name: speakers
     # url: https://devopsdaysdetroit.typeform.com/to/HfQ847
   - name: location
@@ -71,9 +70,15 @@ sponsors:
     level: gold
   - id: f5
     level: gold
+  - id: redhat
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
+    level: silver
+  - id: microsoft
+    level: silver
+  - id: stockx
     level: silver
   - id: proquest
     level: bronze
@@ -85,6 +90,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
   - id: gold
     label: Gold
     max: 10
@@ -97,19 +105,207 @@ sponsor_levels:
     label: Community
   - id: lunch
     label: Lunch
+    max: 1
   - id: lanyard
     label: Lanyard
+    max: 1
   - id: party
     label: Party
+    max: 1
 
 program:
+        ### Day One ###
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-27
+    start_time: "9:30"
+    end_time: "9:45"
+
   - title: "richard-i-cook"
     type: talk
     date: 2017-09-27
-    start_time: "09:15"
-    end_time: "09:45"
+    start_time: "9:45"
+    end_time: "10:30"
+
+  - title: "psychology-of-estimation"
+    type: talk
+    date: 2017-09-27
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-27
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "distributed-systems-are-hard"
+    type: talk
+    date: 2017-09-27
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-27
+    start_time: "11:45"
+    end_time: "1:00"
+
+  - title: "adding-and-retiring-technologies"
+    type: talk
+    date: 2017-09-27
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "we-should-all-be-leaders"
+    type: talk
+    date: 2017-09-27
+    start_time: "1:30"
+    end_time: "2:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-27
+    start_time: "2:00"
+    end_time: "2:15"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-27
+    start_time: "2:15"
+    end_time: "2:35"
+
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-09-27
+    start_time: "2:35"
+    end_time: "3:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-27
+    start_time: "3:00"
+    end_time: "3:40"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-27
+    start_time: "3:45"
+    end_time: "4:25"
+
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-27
+    start_time: "4:30"
+    end_time: "5:15"
+
+  - title: "Evening Dinner & Party"
+    type: custom
+    date: 2017-09-27
+    start_time: "5:30"
+    end_time: "8:30"
+    comments: "The evening event will be held at the conference venue.<br/>
+    Heavy appetizers, beer, wine, and non-alcoholic beverages will be served."
+
+  - title: "Presentation Karaoke"
+    type: custom
+    date: 2017-09-27
+    start_time: "5:30"
+    end_time: "8:30"
+    comments: "This is an attendee's chance to present in a more informal setting. Bring any presentation you’d like, it must be 5-10 minutes in length and not include a business/sales pitch."
+
+        ### Day Two ###
+
+  - title: "Welcome"
+    type: custom
+    date: 2017-09-28
+    start_time: "9:30"
+    end_time: "9:45"
+
   - title: "mike-rother"
     type: talk
     date: 2017-09-28
-    start_time: "09:00"
-    end_time: "09:45"
+    start_time: "9:45"
+    end_time: "10:45"
+
+  - title: "tour-of-jstor"
+    type: talk
+    date: 2017-09-28
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-28
+    start_time: "11:15"
+    end_time: "11:30"
+
+  - title: "safety-and-lean"
+    type: talk
+    date: 2017-09-28
+    start_time: "11:30"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-28
+    start_time: "12:30"
+    end_time: "1:30"
+
+  - title: "one-womans-experience"
+    type: talk
+    date: 2017-09-28
+    start_time: "1:30"
+    end_time: "2:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-28
+    start_time: "2:00"
+    end_time: "2:15"
+
+  - title: "devops-state-of-mind"
+    type: talk
+    date: 2017-09-28
+    start_time: "2:15"
+    end_time: "2:45"
+
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-09-28
+    start_time: "2:45"
+    end_time: "3:00"
+
+  - title: "kata-classroom"
+    type: workshop
+    date: 2017-09-28
+    start_time: "3:00"
+    end_time: "4:30"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-28
+    start_time: "3:15"
+    end_time: "4:00"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-28
+    start_time: "4:00"
+    end_time: "4:45"
+
+  - title: "Closing & Raffle"
+    type: custom
+    date: 2017-09-28
+    start_time: "4:45"
+    end_time: "5:00"
+
+ignites:
+  - title: "idaho-potato"
+    date: 2017-09-27
+  - title: "chasing-the-elk"
+    date: 2017-09-27
+  - title: "switch-jobs"
+    date: 2017-09-27
+  - title: "uptime"
+    date: 2017-09-27

@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -51,7 +51,6 @@ team_members: # Name is the only required field for team members.
   - name: "Steve Stewart"
   - name: "Joel Parks"
   - name: "Alicia Sepanik"
-  - name: "Jurnell Cockhren"
   - name: "Brian Pitts"
 organizer_email: "organizers-nashville-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal email address here
@@ -59,6 +58,8 @@ proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: contino
+    level: gold
   - id: datablue
     level: gold
   - id: dellemc
@@ -67,7 +68,13 @@ sponsors:
     level: gold
   - id: rubrik
     level: gold
+  - id: sjtechcorp
+    level: gold
   - id: changehealthcare
+    level: silver
+  - id: chef
+    level: silver
+  - id: dynatrace
     level: silver
   - id: instana
     level: silver
@@ -81,7 +88,11 @@ sponsors:
     level: bronze
   - id: eventbrite
     level: bronze
+  - id: mesosphere
+    level: bronze
   - id: pluralsight
+    level: bronze
+  - id: shadow-soft
     level: bronze
   - id: stratasan
     level: bronze
@@ -108,3 +119,196 @@ sponsor_levels:
     label: Bronze
   - id: alacarte
     label: Alacarte
+
+program:
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-10-17
+    start_time: "8:00"
+    end_time: "8:45" 
+
+  - title: "Opening Welcome & State of Nashville IT"
+    type: custom
+    date: 2017-10-17
+    start_time: "8:45"
+    end_time: "9:00" 
+
+  - title: "Keynote Speaker"
+    type: custom
+    date: 2017-10-17
+    start_time: "9:00"
+    end_time: "9:45" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-17
+    start_time: "9:45"
+    end_time: "10:15" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-10-17
+    start_time: "10:15"
+    end_time: "10:30" 
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-17
+    start_time: "10:30"
+    end_time: "10:45" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-17
+    start_time: "10:45"
+    end_time: "11:15" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-17
+    start_time: "11:15"
+    end_time: "11:45" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-10-17
+    start_time: "11:45"
+    end_time: "12:15" 
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-17
+    start_time: "12:15"
+    end_time: "1:15" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-17
+    start_time: "1:15"
+    end_time: "1:45" 
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-10-17
+    start_time: "1:45"
+    end_time: "2:15"
+
+  - title: "Open Spaces Voting"
+    type: open-space
+    date: 2017-10-17
+    start_time: "2:15"
+    end_time: "2:45"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2017-10-17
+    start_time: "2:45"
+    end_time: "4:45"
+
+  - title: "Close of day"
+    type: custom
+    date: 2017-10-17
+    start_time: "4:45"
+    end_time: "4:50" 
+
+  - title: "Whiskey Tasting"
+    type: custom
+    date: 2017-10-17
+    start_time: "4:50"
+    end_time: "5:50" 
+
+  - title: "Open Bar & Hors d'Oeuvres"
+    type: custom
+    date: 2017-10-17
+    start_time: "5:50"
+    end_time: "7:50" 
+
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-10-18
+    start_time: "8:00"
+    end_time: "8:45" 
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-18
+    start_time: "8:45"
+    end_time: "9:00" 
+
+  - title: "Keynote Speaker"
+    type: custom
+    date: 2017-10-18
+    start_time: "9:00"
+    end_time: "9:45" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-18
+    start_time: "9:45"
+    end_time: "10:15" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-10-18
+    start_time: "10:15"
+    end_time: "10:30" 
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-18
+    start_time: "10:30"
+    end_time: "10:45" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-18
+    start_time: "10:45"
+    end_time: "11:15" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-18
+    start_time: "11:15"
+    end_time: "11:45" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-10-18
+    start_time: "11:45"
+    end_time: "12:15" 
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-18
+    start_time: "12:15"
+    end_time: "1:15" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-18
+    start_time: "1:15"
+    end_time: "1:45" 
+
+  - title: "Speaker"
+    type: custom
+    date: 2017-10-18
+    start_time: "1:45"
+    end_time: "2:15" 
+
+  - title: "Speaker"
+    type: ignite
+    date: 2017-10-18
+    start_time: "2:15"
+    end_time: "2:45"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2017-10-18
+    start_time: "2:45"
+    end_time: "4:45"
+
+  - title: "Close of Event"
+    type: custom
+    date: 2017-10-18
+    start_time: "4:45"
+    end_time: "5:00" 

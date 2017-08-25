@@ -158,6 +158,32 @@ sponsors:
     level: silver
   - id: signal
     level: silver
+  - id: checkmarx
+    level: gold
+  - id: redhat
+    level: gold
+  - id: mesosphere
+    level: silver
+  - id: ns1
+    level: gold
+  - id: saucelabs
+    level: gold
+  - id: vividseats
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: arista
+    level: silver
+  - id: diamanti
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: tempus
+    level: lanyard
+  - id: chicago-innovation-roundtable
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -174,6 +200,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: lanyard
+    label: Lanyard
   - id: community
     label: Community
 program:
@@ -392,7 +420,7 @@ ignites:
     date: 2017-09-12
   - title: "nell-shamrell-harrington"
     date: 2017-09-12
-  - title: "anjuan-simmons"
+  - title: "michael-stahnke"
     date: 2017-09-12
   - title: "rachael-byrne"
     date: 2017-09-12
@@ -400,7 +428,7 @@ ignites:
     date: 2017-09-12
   - title: "jeffrey-sykes"
     date: 2017-09-13
-  - title: "michael-stahnke"
+  - title: "anjuan-simmons"
     date: 2017-09-13
   - title: "soo-choi"
     date: 2017-09-13

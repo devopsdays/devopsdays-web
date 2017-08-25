@@ -6,6 +6,7 @@ Title = "Fear of the Bus"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]
 googleslides = "1uxkjdWq4ZTcbbYFtyIgARvT26ZzoDlPXsN126J0o9wg"
+youtube = "Gj2UcMrr6Wk"
 +++
 
 Do you wake up in a cold sweat when you think about what would happen if one of your devops people were to suddenly vanish, or win the lottery? Could you carry on? Can anyone on your team take vacations to cell-phone dead spots? Devops is such a dynamic and flexible part of an organization that it is the absolute hardest thing to get documented, and the place where it really makes a difference to burnout if you have managed the miracle.

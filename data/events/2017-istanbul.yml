@@ -25,7 +25,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -62,6 +62,8 @@ sponsors:
       level: gold
     - id: thoughtworks-services
       level: gold
+    - id: bkm
+      level: silver
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -77,7 +79,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community

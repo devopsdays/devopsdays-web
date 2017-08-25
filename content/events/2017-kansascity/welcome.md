@@ -15,9 +15,23 @@ Description = "devopsdays Kansas City 2017"
 
 <br>
 <br>
-DevOpsDays is coming to the {{< event_location >}}!
+DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, Specialists in Mobile, VR, AI, BI, etc...
 
-Where large enterprise software companies and a growing startup community are fueled by the fastest internet in the world. With more than 750 members in the local DevOps Meetup group, this conference will draw an elite group. Come and enjoy excellent presentations from local and international experts as well as the famous hallway track.
+<b>Learning</b>
+<br>
+At DevOpsDays we discuss the culture and tools that can make organizations run better, deliver faster, and improve quality. This year's list of talks and speakers will be finalized soon, last year topics included: Human Factors, Containers, BizOps, Scaling, and many other areas of interest. With a mix of in-depth talks and laser focused Ignite talks, you are sure to walk away having learned something new.
+
+<b>Sharing</b>
+<br>
+One of the great parts of DevOpsDays is Open Spaces, where all attendees contribute to the topics that will be discussed that day in small groups. Share success and failure stories, get feedback on your next crazy idea, ask for help solving a real world problem you are facing when you go back to work on Monday. Everyone can take away something from these highly collaborative sessions.
+
+<b>Fun</b>
+<br>
+• DevOpsDaysKC includes a happy hour Thursday evening for networking and just relaxing around people with at least something in common.
+<br>
+• The Organizers and various Sponsors will be giving away a variety of prizes throughout the conference. Of course, you must be present to win.
+<br>
+• Do you fancy yourself as someone who can think on their toes? Then, Ignite Karaoke is for you, and everyone else, to enjoy.
 
 <br>
 <br>

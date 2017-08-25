@@ -47,7 +47,7 @@ sponsors:
   - id: netapp
     level: gold
     url: http://netapp.com/?tracking=myeventthing
-  - id: gocd
+  - id: thoughtworks-gocd
     level: gold
 ```
 

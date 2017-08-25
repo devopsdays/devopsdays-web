@@ -4,7 +4,7 @@ Twitter = "a_hailes"
 
 type = "speaker"
 linktitle = "amy-hailes"
-
+image = "logo-square.jpg"
 +++
 
 

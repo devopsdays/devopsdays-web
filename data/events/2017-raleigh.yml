@@ -23,7 +23,8 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: program
-  - name: propose
+    url: http://dodral2017.busyconf.com/schedule
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
@@ -54,14 +55,43 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: platinum
+  - id: redhat
+    level: platinum
+  - id: microsoft
+    level: platinum
+  - id: signifai
+    level: platinum
+  - id: opsgenie
+    level: platinum
+  - id: techtown
+    level: platinum
+  - id: chef
+    level: gold
   - id: ibm
+    level: gold
+  - id: netapp
+    level: gold
+  - id: newrelic
     level: gold
   - id: veredus
     level: gold
   - id: contrast_security
-    level: silver
+    level: gold
+  - id: datalink
+    level: gold
+  - id: extron
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: triangledevops
+    level: community
+  - id: spreedly
+    level: community
   - id: dzone
     level: community
+  - id: devops-institute
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -78,4 +108,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0
+    max: 10
+  - id: community
+    label: Community
+    max: 5

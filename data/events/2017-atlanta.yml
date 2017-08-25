@@ -74,7 +74,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: gocd
+  - id: thoughtworks-gocd
     level: gold
   - id: victorops
     level: silver
