@@ -1,7 +1,8 @@
 +++
 title = "Toshaan Bharvani"
 twitter = "toshywoshy"
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/toshaan"
+website = "http://www.toshaan.com"
 image = "bharvani-circle.jpg"
 type = "speaker"
 linktitle = ["toshaan-bharvani"]

@@ -1,8 +1,9 @@
 +++
 title = "Michiel Rook"
-twitter = "https://twitter.com/michieltcs"
-linkedin = "https://www.linkedin.com/in/michieltcs/"
-image = "rook.jpg"
+twitter = "michieltcs"
+linkedin = "https://www.linkedin.com/in/michieltcs"
+website = "https://www.michielrook.nl"
+image = "rook-circle.jpg"
 type = "speaker"
 linktitle = ["michiel-rook"]
 +++

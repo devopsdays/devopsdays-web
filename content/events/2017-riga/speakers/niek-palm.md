@@ -1,7 +1,8 @@
 +++
 title = "Niek Palm"
 twitter = "niekos77"
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/niekpalm"
+website = "https://040code.github.io/"
 image = "palm-circle.jpg"
 type = "speaker"
 linktitle = ["niek-palm"]

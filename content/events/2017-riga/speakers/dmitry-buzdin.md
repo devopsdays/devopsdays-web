@@ -1,7 +1,7 @@
 +++
 title = "Dmitry Buzdin"
 twitter = "buzdin"
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/dmitrybuzdin/"
 image = "buzdin-circle.jpg"
 type = "speaker"
 linktitle = ["dmitry-buzdin"]

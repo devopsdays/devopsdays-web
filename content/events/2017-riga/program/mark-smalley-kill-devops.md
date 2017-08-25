@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["mark-smalley"]
 +++
 
-<p><em>A fast-moving, outside-in talk that 'sells' the value of DevOps to business executives, finds the weakest link in the value stream, and explores the often troubled relationship between IT people and normal people (the business).</em></p>
+<p><em>A fast-moving, outside-in talk that 'sells' the value of DevOps to business executives, finds the weakest link in the value stream and explores the often troubled relationship between IT people and normal people (the business).</em></p>
 
 <p>There is much hype around DevOps, so what are we actually talking about?
 DevOps improved Agile by speeding up deployment (and more). But how do you 'sell' DevOps to business executives who don't understand IT?</p>

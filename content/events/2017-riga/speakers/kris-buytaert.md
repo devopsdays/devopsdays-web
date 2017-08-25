@@ -1,7 +1,8 @@
 +++
 title = "Kris Buytaert"
-twitter = "https://twitter.com/KrisBuytaert"
-linkedin = "https://www.linkedin.com/in/krisbuytaert/"
+twitter = "KrisBuytaert"
+linkedin = "https://www.linkedin.com/in/krisbuytaert"
+website = "http://www.krisbuytaert.be/blog/"
 image = "buytaert-circle.jpg"
 type = "speaker"
 linktitle = ["kris-buytaert"]

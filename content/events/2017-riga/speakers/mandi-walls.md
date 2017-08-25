@@ -1,7 +1,8 @@
 +++
 title = "Mandi Walls"
 twitter = "lnxchk"
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/mandiwalls"
+website = "https://about.me/lnxchk"
 image = "walls-circle.jpg"
 type = "speaker"
 linktitle = ["mandi-walls"]
