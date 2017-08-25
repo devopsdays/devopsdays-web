@@ -1,7 +1,8 @@
 +++
 title = "Mark Smalley"
-twitter = "https://twitter.com/marksmalley"
-linkedin = ""
+twitter = "marksmalley"
+linkedin = "https://www.linkedin.com/in/marksmalley"
+website = "http://smalley.it/"
 image = "smalley-circle.jpg"
 type = "speaker"
 linktitle = ["mark-smalley"]

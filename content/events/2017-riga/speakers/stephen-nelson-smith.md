@@ -1,7 +1,7 @@
 +++
 title = "Stephen Nelson-Smith"
 twitter = "LordCope"
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/stephennelsonsmith"
 image = "smith-circle.jpg"
 type = "speaker"
 linktitle = ["stephen-nelson-smith"]

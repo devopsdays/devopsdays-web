@@ -177,7 +177,7 @@ program:
     date: 2017-09-18
     start_time: "13:45"
     end_time: "14:15"
-  - title: "Openspace Opening and Voting (in bigger room)"
+  - title: "Openspace Opening and Voting"
     type: open-space
     date: 2017-09-18
     start_time: "14:15"
@@ -237,7 +237,7 @@ program:
     date: 2017-09-19
     start_time: "09:10"
     end_time: "09:40"
-  - title: "TBA"
+  - title: "matthew-campbel"
     type: talk
     date: 2017-09-19
     start_time: "09:45"
@@ -254,7 +254,7 @@ program:
     start_time: "10:50"
     end_time: "11:05"
 
-  - title: "TBA"
+  - title: "michael-cote"
     type: talk
     date: 2017-09-19
     start_time: "11:05"
@@ -281,7 +281,7 @@ program:
     date: 2017-09-19
     start_time: "13:45"
     end_time: "14:15"
-  - title: "Openspace Opening and Voting (in bigger room)"
+  - title: "Openspace Opening and Voting"
     type: open-space
     date: 2017-09-19
     start_time: "14:15"
