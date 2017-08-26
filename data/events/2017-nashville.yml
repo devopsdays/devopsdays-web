@@ -187,8 +187,8 @@ program:
     start_time: "1:00"
     end_time: "1:30" 
 
-  - title: "Ignites"
-    type: ignite
+  - title: "Speaker"
+    type: custom
     date: 2017-10-17
     start_time: "1:30"
     end_time: "2:00"
@@ -295,7 +295,7 @@ program:
     start_time: "1:30"
     end_time: "2:00" 
 
-  - title: "Speaker"
+  - title: "Ignites"
     type: ignite
     date: 2017-10-18
     start_time: "2:00"
