@@ -4,7 +4,7 @@ Twitter = "_flynn"
 
 type = "speaker"
 linktitle = "flynn"
-
+image = "logo-square.jpg"
 +++
 
 

@@ -149,7 +149,7 @@ sponsors:
     level: recruiting
   - id: opsgenie
     level: platinum
-  - id: gocd
+  - id: thoughtworks-gocd
     level: platinum
   - id: 2017-digitalocean
     level: platinum
@@ -168,6 +168,14 @@ sponsors:
   - id: mabl
     level: gold
   - id: turbinelabs
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: threatstack
+    level: platinum
+  - id: cyberark
+    level: gold
+  - id: pivotal
     level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -227,8 +235,8 @@ program:
     date: 2017-09-18
     start_time: "10:40"
     end_time: "11:15"
-  - title: "TBD"
-    type: custom
+  - title: "corey-quinn"
+    type: talk
     date: 2017-09-18
     start_time: "10:40"
     end_time: "11:15"
@@ -252,7 +260,7 @@ program:
     date: 2017-09-18
     start_time: "13:00"
     end_time: "13:15"
-  - title: "amy-hailes"
+  - title: "ben-hagen"
     type: talk
     date: 2017-09-18
     start_time: "13:15"
@@ -262,7 +270,7 @@ program:
     date: 2017-09-18
     start_time: "14:00"
     end_time: "14:15"
-  - title: "corey-quinn"
+  - title: "alizishaan-khatri"
     type: workshop
     date: 2017-09-18
     start_time: "14:15"
@@ -272,12 +280,7 @@ program:
     date: 2017-09-18
     start_time: "14:15"
     end_time: "15:00"
-  - title: "TBD"
-    type: custom
-    date: 2017-09-18
-    start_time: "15:00"
-    end_time: "16:00"
-  - title: "Open Space #2"
+  - title: "Open Space #2 / Snack Break"
     type: open-space
     date: 2017-09-18
     start_time: "15:00"
@@ -354,12 +357,12 @@ program:
     date: 2017-09-19
     start_time: "11:55"
     end_time: "13:00"
-  - title: "TBD"
-    type: custom
+  - title: "karen-fiumara"
+    type: talk
     date: 2017-09-19
     start_time: "13:00"
     end_time: "13:45"
-  - title: "alizishaan-khatri"
+  - title: "richard-li"
     type: workshop
     date: 2017-09-19
     start_time: "13:45"
@@ -369,21 +372,11 @@ program:
     date: 2017-09-19
     start_time: "13:45"
     end_time: "14:30"
-  - title: "TBD"
-    type: custom
-    date: 2017-09-19
-    start_time: "14:30"
-    end_time: "15:10"
-  - title: "Open Space #2"
+  - title: "Open Space #2 / Snack Break"
     type: open-space
     date: 2017-09-19
     start_time: "14:30"
     end_time: "15:10"
-  - title: "richard-li"
-    type: workshop
-    date: 2017-09-19
-    start_time: "15:10"
-    end_time: "15:55"
   - title: "Open Space #3"
     type: open-space
     date: 2017-09-19

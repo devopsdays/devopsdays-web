@@ -151,6 +151,12 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: dstsystems
+    level: gold
+  - id: techtowntraining
+    level: silver
+  - id: teksystems
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -385,6 +391,8 @@ ignites:
   - title: "dave-swersky"
     date: 2017-09-22
   - title: "adam-wieberg"
+    date: 2017-09-22
+  - title: "matthew-barker"
     date: 2017-09-22
   - title: "alison-stanton"
     date: 2017-09-22

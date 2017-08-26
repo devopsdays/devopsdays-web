@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Chaos Theory + Civil Liberties = 21st Century Corporate Practices"
+Title = "Chaos Theory + Civil Rights = 21st Century Corporate Practices"
 Type = "talk"
 Speakers = ["kate-ertmann"]
 +++

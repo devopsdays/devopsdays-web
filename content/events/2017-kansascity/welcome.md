@@ -15,7 +15,7 @@ Description = "devopsdays Kansas City 2017"
 
 <br>
 <br>
-DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, Specialists in Mobile, VR, UX, etc...
+DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, Specialists in Mobile, VR, AI, BI, etc...
 
 <b>Learning</b>
 <br>
@@ -23,7 +23,7 @@ At DevOpsDays we discuss the culture and tools that can make organizations run b
 
 <b>Sharing</b>
 <br>
-One the great parts of DevOpsDays is Open Spaces, where all attendees contribute to the topics that will be discussed that day in small groups. Share success and failure stories, get feedback on your next crazy idea, ask for help solving a real world problem you are facing when you go back to work on Monday. Everyone can take away something from these highly collaborative sessions.
+One of the great parts of DevOpsDays is Open Spaces, where all attendees contribute to the topics that will be discussed that day in small groups. Share success and failure stories, get feedback on your next crazy idea, ask for help solving a real world problem you are facing when you go back to work on Monday. Everyone can take away something from these highly collaborative sessions.
 
 <b>Fun</b>
 <br>
