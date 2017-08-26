@@ -173,55 +173,55 @@ program:
     type: custom
     date: 2017-10-17
     start_time: "11:45"
-    end_time: "12:15" 
+    end_time: "12:00" 
 
   - title: "Lunch"
     type: custom
     date: 2017-10-17
-    start_time: "12:15"
-    end_time: "1:15" 
+    start_time: "12:00"
+    end_time: "1:00" 
 
   - title: "Speaker"
     type: custom
     date: 2017-10-17
-    start_time: "1:15"
-    end_time: "1:45" 
+    start_time: "1:00"
+    end_time: "1:30" 
 
   - title: "Ignites"
     type: ignite
     date: 2017-10-17
-    start_time: "1:45"
-    end_time: "2:15"
+    start_time: "1:30"
+    end_time: "2:00"
 
   - title: "Open Spaces Voting"
     type: open-space
     date: 2017-10-17
-    start_time: "2:15"
-    end_time: "2:45"
+    start_time: "2:00"
+    end_time: "2:30"
 
   - title: "Open Spaces"
     type: open-space
     date: 2017-10-17
-    start_time: "2:45"
+    start_time: "2:30"
     end_time: "4:45"
 
   - title: "Close of day"
     type: custom
     date: 2017-10-17
     start_time: "4:45"
-    end_time: "4:50" 
+    end_time: "5:00" 
 
   - title: "Whiskey Tasting"
     type: custom
     date: 2017-10-17
-    start_time: "4:50"
-    end_time: "5:50" 
+    start_time: "5:00"
+    end_time: "6:00" 
 
-  - title: "Open Bar & Hors d'Oeuvres"
+  - title: "Dinner and Open Bar"
     type: custom
     date: 2017-10-17
-    start_time: "5:50"
-    end_time: "7:50" 
+    start_time: "6:00"
+    end_time: "8:00" 
 
   - title: "Registration and Breakfast"
     type: custom
@@ -275,36 +275,36 @@ program:
     type: custom
     date: 2017-10-18
     start_time: "11:45"
-    end_time: "12:15" 
+    end_time: "12:00" 
 
   - title: "Lunch"
     type: custom
     date: 2017-10-18
-    start_time: "12:15"
-    end_time: "1:15" 
+    start_time: "12:00"
+    end_time: "1:00" 
 
   - title: "Speaker"
     type: custom
     date: 2017-10-18
-    start_time: "1:15"
-    end_time: "1:45" 
+    start_time: "1:00"
+    end_time: "1:30" 
 
   - title: "Speaker"
     type: custom
     date: 2017-10-18
-    start_time: "1:45"
-    end_time: "2:15" 
+    start_time: "1:30"
+    end_time: "2:00" 
 
   - title: "Speaker"
     type: ignite
     date: 2017-10-18
-    start_time: "2:15"
-    end_time: "2:45"
+    start_time: "2:00"
+    end_time: "2:30"
 
   - title: "Open Spaces"
     type: open-space
     date: 2017-10-18
-    start_time: "2:45"
+    start_time: "2:30"
     end_time: "4:45"
 
   - title: "Close of Event"
