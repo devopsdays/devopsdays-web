@@ -18,7 +18,8 @@ location: "Hilton Doubletree, Woodstock, Cape Town"
 
 nav_elements:
   #  - name: program
-  # - name: registration
+  - name: registration
+    url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
   - name: sponsor
   - name: contact
