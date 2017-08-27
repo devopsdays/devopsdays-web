@@ -106,22 +106,22 @@ sponsors:
     level: coffee
   - id: appsflyer
     level: bronze
-#  - id: bigpanda
-#    level: silver
-#  - id: microsoftazure
-#    level: silver
-#  - id: googlecloud
-#    level: silver
-#  - id: logzio
-#    level: silver
-#  - id: outbrain
-#    level: breakfast
-#  - id: oracle
-#    level: silver
+  - id: bigpanda
+    level: silver
+  - id: microsoftazure
+    level: silver
+  - id: logzio
+    level: silver
+  - id: outbrain
+    level: breakfast
+  - id: oracle
+    level: silver
+  - id: microsoftazure
+    level: happyhour
 #  - id: elastic
 #    level: bronze
-#  - id: microsoftazure
-#    level: happyhour
+#  - id: googlecloud
+#    level: silver
 
 
 
