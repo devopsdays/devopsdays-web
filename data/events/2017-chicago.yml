@@ -184,6 +184,10 @@ sponsors:
     level: lanyard
   - id: chicago-innovation-roundtable
     level: community
+  - id: arity
+    level: gold
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
