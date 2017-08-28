@@ -14,7 +14,7 @@ cfp_date_start: 2017-07-03 # start accepting talk proposals.
 cfp_date_end: 2017-08-05 # close your call for proposals.
 cfp_date_announce: 2017-08-25  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-auckland-2017" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2017-07-15 # start accepting registration. Leave blank if registration is not open yet
@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
