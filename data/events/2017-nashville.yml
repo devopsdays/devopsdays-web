@@ -133,8 +133,8 @@ program:
     start_time: "8:45"
     end_time: "9:00" 
 
-  - title: "Keynote Speaker"
-    type: custom
+  - title: "michael-cote"
+    type: talk
     date: 2017-10-17
     start_time: "9:00"
     end_time: "9:45" 
@@ -235,8 +235,8 @@ program:
     start_time: "8:45"
     end_time: "9:00" 
 
-  - title: "Keynote Speaker"
-    type: custom
+  - title: "john-willis"
+    type: talk
     date: 2017-10-18
     start_time: "9:00"
     end_time: "9:45" 
