@@ -139,8 +139,8 @@ program:
     start_time: "9:00"
     end_time: "9:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "robb-schiefer"
+    type: talk
     date: 2017-10-17
     start_time: "9:45"
     end_time: "10:15" 
@@ -157,14 +157,14 @@ program:
     start_time: "10:30"
     end_time: "10:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "adarsh-shah"
+    type: talk
     date: 2017-10-17
     start_time: "10:45"
     end_time: "11:15" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "carlos-nunez"
+    type: talk
     date: 2017-10-17
     start_time: "11:15"
     end_time: "11:45" 
@@ -181,14 +181,14 @@ program:
     start_time: "12:00"
     end_time: "1:00" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "dan-petit"
+    type: talk
     date: 2017-10-17
     start_time: "1:00"
     end_time: "1:30" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "aaron-kalin"
+    type: talk
     date: 2017-10-17
     start_time: "1:30"
     end_time: "2:00"
@@ -241,8 +241,8 @@ program:
     start_time: "9:00"
     end_time: "9:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "aziz-shamim"
+    type: talk
     date: 2017-10-18
     start_time: "9:45"
     end_time: "10:15" 
@@ -259,14 +259,14 @@ program:
     start_time: "10:30"
     end_time: "10:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "jeffrey-sykes"
+    type: talk
     date: 2017-10-18
     start_time: "10:45"
     end_time: "11:15" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "ned-bauerle"
+    type: talk
     date: 2017-10-18
     start_time: "11:15"
     end_time: "11:45" 
@@ -283,14 +283,14 @@ program:
     start_time: "12:00"
     end_time: "1:00" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "peter-varhol"
+    type: talk
     date: 2017-10-18
     start_time: "1:00"
     end_time: "1:30" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "tom-mclaughlin"
+    type: talk
     date: 2017-10-18
     start_time: "1:30"
     end_time: "2:00" 
@@ -312,3 +312,15 @@ program:
     date: 2017-10-18
     start_time: "4:45"
     end_time: "5:00" 
+
+ignites:
+  - title: "tennis-smith"
+    date: 2017-10-18
+  - title: "stuart-ainsworth"
+    date: 2017-10-18
+  - title: "kylie-schleicher"
+    date: 2017-10-18
+  - title: "gabe-weaver"
+    date: 2017-10-18
+  - title: "david-laulusa"
+    date: 2017-10-18
