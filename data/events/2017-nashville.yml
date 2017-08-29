@@ -64,12 +64,16 @@ sponsors:
     level: gold
   - id: dellemc
     level: gold
+  - id: influxdata
+    level: gold
   - id: pivotal
     level: gold
   - id: rubrik
     level: gold
   - id: sjtechcorp
     level: gold
+  - id: appdynamics
+    level: silver
   - id: changehealthcare
     level: silver
   - id: chef
