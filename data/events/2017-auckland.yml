@@ -78,8 +78,12 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
-  - id: 2017-k2
+  - id: k2
     level: silver
+  - id: 2016-xero
+    level: silver
+  - id: datacom
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
