@@ -7,9 +7,9 @@ linktitle = "emily-freeman"
 
 +++
 
-Emily Freeman grew up in the ‚Äúswamp‚Äù as Trump lovingly refers to it. With politics in her blood, she chased after her dream of living out an episode of the West Wing. After four years of arguing ‚Äî pretty much sums up a PoliSci degree ‚Äî she left school disappointed that campaigns are more about recruiting 20-year-olds to live in poverty than it is to wine and dine Koch brothers.
+Emily Freeman grew up in the “swamp” as Trump lovingly refers to it. With politics in her blood, she chased after her dream of living out an episode of the West Wing. After four years of arguing — pretty much sums up a PoliSci degree — she left school disappointed that campaigns are more about recruiting 20-year-olds to live in poverty than it is to wine and dine Koch brothers.
 
-Her dreams of Aaron Sorkin-level dialogue and Michelin-star dinners dashed, Emily took up ghostwriting. No, those bloggers you read with millions of followers don‚Äôt write their own articles. Sorry to disappoint.
+Her dreams of Aaron Sorkin-level dialogue and Michelin-star dinners dashed, Emily took up ghostwriting. No, those bloggers you read with millions of followers don’t write their own articles. Sorry to disappoint.
 
 After many years of typing, Emily had a slightly-older-than-quarterlife crisis and made the bold (insane?!) choice to switch careers into software engineering.
 
