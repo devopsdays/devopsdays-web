@@ -1,5 +1,5 @@
 +++
-Title = "Alison Polton-Simon"
+Title = "Aurynn Shaw"
 Twitter = "aurynn"
 image = ""
 type = "speaker"
