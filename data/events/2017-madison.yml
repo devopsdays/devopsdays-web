@@ -63,6 +63,8 @@ proposal_email: "proposals-madison-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: gold
+  - id: appdynamics
+    level: gold
   - id: arresteddevops
     level: community
   - id: widen
