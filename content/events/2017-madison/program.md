@@ -1,7 +1,7 @@
 +++
 Title = "Program"
 Type = "program"
-Description = "Program for devopsdays Chicago 2017"
+Description = "Program for DevOps Days Madison 2017"
 +++
 
 <div class = "row">
