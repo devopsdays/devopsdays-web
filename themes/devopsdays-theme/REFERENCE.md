@@ -271,6 +271,7 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `facebook` | No       | Speaker's Facebook URL                                                                                                                                                                                     | "https://www.facebook.com/matt.stratton"    |
 | `linkedin` | No       | Speaker's LinkedIn URL                                                                                                                                                                                     | "https://www.linkedin.com/in/mattstratton/" |
 | `github`   | No       | Speakers' GitHub username.                                                                                                                                                                                 | "mattstratton"                              |
+| `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
 | `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It must be square, and 300px square, 600px square, or 900px square.  | "matt-stratton.jpg"                         |
 
 ### Blog Post Fields
