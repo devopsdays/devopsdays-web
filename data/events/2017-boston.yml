@@ -37,8 +37,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "book"
   - name: speakers
     icon: "microphone"
-  - name: sponsor
-    icon: "money"
   - name: contact
     icon: "envelope-o"
   - name: conduct
@@ -177,7 +175,17 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: herzum
+    level: gold
+  - id: logz
+    level: platinum
+  - id: victorops
+    level: platinum
+  - id: appdynamics
+    level: gold
+  - id: influxdata
+    level: gold
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
