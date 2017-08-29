@@ -118,10 +118,10 @@
         <a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL}}">
         {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
-            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
+            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
           {{- end -}}
           {{- else -}}
-            <img src = "{{"img/speaker-default.jpg" | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br />
+            <img src = "{{"img/speaker-default.jpg" | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
         {{- end -}}
           <h4 class="talk-page"><a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL }}">
             {{ .Title }}

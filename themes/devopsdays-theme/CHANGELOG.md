@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.13.1](https://github.com/devopsdays/devopsdays-theme/tree/1.13.1) (2017-08-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.1...1.13.1)
+
+**Fixed bugs:**
+
+- Extra dash on program page if speaker is blank [\#586](https://github.com/devopsdays/devopsdays-theme/issues/586)
+- Talk page needs spacing below headshot and before speaker title [\#578](https://github.com/devopsdays/devopsdays-theme/issues/578)
+
 ## [1.12.1](https://github.com/devopsdays/devopsdays-theme/tree/1.12.1) (2017-08-06)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.0...1.12.1)
 
