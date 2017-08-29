@@ -59,6 +59,8 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
+  - id: taxify
+    level: silver
   # addons
   - id: accenture-latvia
     level: venue
@@ -91,6 +93,9 @@ sponsors:
     level: friends
   - id: riga-tech-girls
     level: friends
+  - id: kursors-lv
+    level: friends
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
@@ -124,7 +129,7 @@ sponsor_levels:
   #  label: Lanyards
   #  max: "1"
   - id: friends
-    label: Friends, media partners or other
+    label: Friends, media partners and other
 
 program:
   # Day one
@@ -182,7 +187,7 @@ program:
     date: 2017-09-18
     start_time: "13:10"
     end_time: "13:40"
-  - title: "Ignites & Sponsors"
+  - title: "Ignites"
     type: custom
     date: 2017-09-18
     start_time: "13:45"
@@ -286,7 +291,7 @@ program:
     date: 2017-09-19
     start_time: "13:10"
     end_time: "13:40"
-  - title: "Ignites & Sponsors"
+  - title: "Ignites"
     type: custom
     date: 2017-09-19
     start_time: "13:45"
