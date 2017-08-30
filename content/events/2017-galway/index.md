@@ -5,9 +5,9 @@ aliases = ["/events/2017-galway/welcome"]
 Description = "devopsdays Galway 2017"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -85,3 +85,4 @@ Description = "devopsdays Galway 2017"
 <!--
 {{< event_twitter >}}
 -->
+<p style="font-size: 75%">Húicéir logo designed by JP Sullivan (@j3p0uk) & Graham Hayes (@grahamhayes)</p>
