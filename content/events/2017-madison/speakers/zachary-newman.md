@@ -1,6 +1,7 @@
 +++
 Title = "Zachary Newman"
 Twitter = "znewman"
+image = "zachary-newman.jpg"
 type = "speaker"
 linktitle = "zachary-newman"
 
