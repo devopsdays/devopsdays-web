@@ -139,7 +139,7 @@ program:
     start_time: "11:00"
     end_time: "11:15"
 
-  - title: "distributed-systems-are-hard"
+  - title: "adding-and-retiring-technologies"
     type: talk
     date: 2017-09-27
     start_time: "11:15"
@@ -151,7 +151,7 @@ program:
     start_time: "11:45"
     end_time: "1:00"
 
-  - title: "adding-and-retiring-technologies"
+  - title: "devops-state-of-mind"
     type: talk
     date: 2017-09-27
     start_time: "1:00"
@@ -264,7 +264,7 @@ program:
     start_time: "2:00"
     end_time: "2:15"
 
-  - title: "devops-state-of-mind"
+  - title: "distributed-systems-are-hard"
     type: talk
     date: 2017-09-28
     start_time: "2:15"
