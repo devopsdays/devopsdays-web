@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -113,7 +113,7 @@ sponsors:
   - id: logzio
     level: silver
   - id: quali
-    level: silver
+    level: workshoproom
   - id: outbrain
     level: breakfast
   - id: oracle
@@ -163,4 +163,7 @@ sponsor_levels:
     max: 1
   - id: massage
     label: Massage
+    max: 1
+  - id: workshoproom
+    label: WorkShopRoom
     max: 1
