@@ -66,6 +66,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: microsoft
+    level: gold
   - id: pivotal
     level: gold
   - id: rubrik
