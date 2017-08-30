@@ -30,4 +30,4 @@ applications expires on <strong>September, the 30th</strong>.
 </ul>
 <p>Case studies of DevOps code creation or moving your company to this culture will be the most welcome.</p>
 
-<p><strong>To apply for regular presentation, please in the form on our <a href="https://2017.devopsdays.pl/form/">website</a></strong> (fields marked with <em>*</em> are obligatory).</p>
+<p><strong>To apply for regular presentation, please in the form on our <a href="https://2017.devopsdays.pl/form">website</a></strong> (fields marked with <em>*</em> are obligatory).</p>
