@@ -82,7 +82,5 @@ Description = "devopsdays Galway 2017"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
 <p style="font-size: 75%">Húicéir logo designed by JP Sullivan (@j3p0uk) & Graham Hayes (@grahamhayes)</p>
