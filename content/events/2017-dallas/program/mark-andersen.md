@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Capital One's DevOps Journey"
+Title = "Recipe for DevOps Success, Capital One Style"
 Type = "talk"
 Speakers = ["mark-andersen"]
 Youtube = ""
