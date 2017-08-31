@@ -78,3 +78,7 @@ sponsor_levels:
 #  - id: coffee
 #    label: "Coffee"
 #    max: 1
+
+sponsors:
+ - id: thoughtworks-gocd
+   level: gold
