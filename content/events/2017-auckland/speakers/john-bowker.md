@@ -1,7 +1,7 @@
 +++
 Title = "John Bowker"
 Twitter = "johnnybApostle"
-image = ""
+image = "john-bowker.png"
 type = "speaker"
 linktitle = "john-bowker"
 

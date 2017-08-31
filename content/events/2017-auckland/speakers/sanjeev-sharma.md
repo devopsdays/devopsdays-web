@@ -1,7 +1,7 @@
 +++
 Title = "Sanjeev Sharma "
 Twitter = "sd_architect"
-image = ""
+image = "sanjeev-sharama.jpg"
 type = "speaker"
 linktitle = "sanjeev-sharma"
 

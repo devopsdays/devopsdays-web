@@ -4,10 +4,10 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Metrics That Matter"
 Type = "talk"
-Speakers = ["alison-polton-smith"]
+Speakers = ["alison-polton-simon"]
 +++
 
-Peter Drucker famously said “It’s impossible to improve what you can’t measure.” At the same time, measuring the wrong thing can create a world of pain, incentivizing teams to optimize for the wrong behaviors, or to game metrics they see as useless.
+Peter Drucker famously said “It’s impossible to improve what you can’t measure.” At the same time, measuring the wrong thing can create a world of pain, incentivizing teams to optimize for the wrong behaviours, or to game metrics they see as useless.
 
 In this talk, I’ll share what I’ve learned about metrics that can be used to understand and improve an organization’s Continuous Delivery processes. I’ve selected these metrics based on interviews with more than a dozen DevOps practitioners and consultants conducted while developing an analytics offering for GoCD.
 

@@ -1,7 +1,7 @@
 +++
 Title = "Marcus Bristol"
 Twitter = "mightymuke"
-image = ""
+image = "marcus-bristol.jpg"
 type = "speaker"
 linktitle = "marcus-bristol"
 

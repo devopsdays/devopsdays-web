@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps in an Embedded World"
 Type = "talk"
-Speakers = ["sajeewa-dayarante"]
+Speakers = ["sajeewa-dayaratne"]
 +++
 
 Most material available these days cover DevOps from a very web centric perspective. The pains and problems however are equally real in the embedded space. Software development has similar challenges across different industries but companies in the embedded space aren’t aware of or able to leverage existing tools and processes that they may believe aren’t relevant to their industry.
