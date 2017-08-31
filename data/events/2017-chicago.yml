@@ -181,13 +181,17 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: tempus
-    level: lanyard
+    level: silver
   - id: chicago-innovation-roundtable
     level: community
   - id: arity
     level: gold
   - id: blacksintechnology
     level: community
+  - id: slalom
+    level: gold
+  - id: humio
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
