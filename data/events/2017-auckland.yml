@@ -78,6 +78,8 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: SECTION6
+    level: gold
   - id: k2
     level: silver
   - id: 2016-xero
@@ -86,6 +88,8 @@ sponsors:
     level: silver
   - id: datacom
     level: bronze
+  - id: SECTION6
+    level: evening
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
@@ -108,8 +112,8 @@ sponsor_levels:
 #  - id: lanyard
 #    label: Lanyard
 #    max: 1
-#  - id: evening
-#    label: Fun Evening Event
-#    max: 1
+  - id: evening
+    label: Fun Evening Event
+    max: 1
 #  - id: community
 #    label: Community
