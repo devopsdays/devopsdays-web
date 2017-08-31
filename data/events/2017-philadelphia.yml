@@ -75,6 +75,8 @@ sponsors:
     level: gold
   - id: capitalone
     level: gold
+  - id: mongodb
+    level: silver
   - id: 2nd-watch
     level: bronze
   - id: arresteddevops
