@@ -1,7 +1,7 @@
 +++
 Title = "Lindsay Holmwood"
 Twitter = "auxesis"
-image = ""
+image = "lindsay-holmwood.jpg"
 type = "speaker"
 linktitle = "lindsay-holmwood"
 
