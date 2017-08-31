@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "When DevOps met SRE: From Apollo 13 to Google SRE:"
+Title = "When DevOps met SRE: From Apollo 13 to Google SRE"
 Type = "talk"
 Speakers = ["sanjeev-sharma"]
 +++
