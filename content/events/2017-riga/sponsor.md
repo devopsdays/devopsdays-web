@@ -5,7 +5,7 @@ type = "event"
 title = "Sponsors"
 heading = "DevOpsDays Riga 2017 - Sponsor Info"
 +++
-<br>
+
 <h5>
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 </h5>
