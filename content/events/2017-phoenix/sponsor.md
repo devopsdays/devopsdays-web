@@ -24,40 +24,6 @@ We have three (3) tiers of sponsorship available for any vendors that are intere
     <th><center><b><u>Gold<br />$3500</u></center></b></th>
     <th><center><b><u>Food<br />&nbsp;</u></center></b></th>
   </tr>
-  <tr>
-  <td>&nbsp;</td>
-  <td >
-  <center>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="PMD4C6U8P4XSC">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-  </center>
-  </td>
-  <td >
-  <center>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="RSB97E487HS7Q">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-  </center>
-  </td>
-  <td >
-  <center>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-      <input type="hidden" name="cmd" value="_s-xclick">
-      <input type="hidden" name="hosted_button_id" value="XPCJREVYZF5JW">
-      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-      <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-    </form>
-  </center>
-  </td>
-  <td>&nbsp;</td>
-</tr>
 <tr>
   <td>Logo on website</td>
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
@@ -134,6 +100,50 @@ We have three (3) tiers of sponsorship available for any vendors that are intere
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
+</tr>
+<tr>
+  <td colspan="5">
+  <center>
+    By submitting payment via the below links, you agree to the terms of the Sponsorship Agreement and the <a href="http://localhost:1313/events/2017-phoenix/conduct/" target="_blank">Code of Conduct</a>.<br />Please complete and submit a Sponsorship Agreement to {{< email_organizers >}}.<br />If you would like more information or alternate payment methods, please contact us at {{< email_organizers >}}.
+  </center>
+  </td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td >
+<center>
+  <a href="https://docs.google.com/document/d/1ZoUAkIC--YXilSnNylHjkRwYFadWPGpJlftzs9PtA1I/edit?usp=sharing" target="_blank">Bronze Sponsorship Agreement</a><br/>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="PMD4C6U8P4XSC">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+  </form>
+</center>
+</td>
+<td >
+<center>
+  <a href="https://docs.google.com/document/d/1-tD_jO-ChjZH029cC38ermJVDUI17noF7mNX1aXSdtg/edit" target="_blank">Silver Sponsorship Agreement</a><br/>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="RSB97E487HS7Q">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+  </form>
+</center>
+</td>
+<td >
+<center>
+  <a href="https://docs.google.com/document/d/1JKt5QIObxxrc76O2jb6THCEr_JjlZYSfKkWlGpSfLPQ/edit?usp=sharing" target="_blank">Gold Sponsorship Agreement</a><br/>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="hosted_button_id" value="XPCJREVYZF5JW">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+    <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+  </form>
+</center>
+</td>
+<td>&nbsp;</td>
 </tr>
 </table>
 <br/>
