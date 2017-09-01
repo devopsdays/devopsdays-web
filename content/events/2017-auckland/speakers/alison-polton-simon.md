@@ -1,7 +1,6 @@
 +++
 Title = "Alison Polton-Simon"
 Twitter = ""
-image = ""
 type = "speaker"
 linktitle = "alison-polton-simon"
 
