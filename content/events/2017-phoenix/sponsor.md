@@ -103,7 +103,9 @@ We have three (3) tiers of sponsorship available for any vendors that are intere
 </tr>
 <tr>
   <td colspan="5">
-    By submitting payment via the below links, you agree to the terms of the Sponsorship Agreement and the <a href="http://localhost:1313/events/2017-phoenix/conduct/" target="_blank">Code of Conduct</a>.<br /> If you would like more information or alternate payment methods, please contact us at {{< email_organizers >}}.
+  <center>
+    By submitting payment via the below links, you agree to the terms of the Sponsorship Agreement and the <a href="http://localhost:1313/events/2017-phoenix/conduct/" target="_blank">Code of Conduct</a>.<br />Please complete and submit a Sponsorship Agreement to {{< email_organizers >}}.<br />If you would like more information or alternate payment methods, please contact us at {{< email_organizers >}}.
+  </center>
   </td>
 </tr>
 <tr>
