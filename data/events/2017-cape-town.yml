@@ -21,6 +21,7 @@ nav_elements:
   - name: registration
     url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
