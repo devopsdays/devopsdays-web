@@ -2,6 +2,8 @@
 
 set -e
 
+cd `dirname ${0}`
+
 # Get year
 read -p "Enter your event year (default: $(date +"%Y")): " year
 [ -z "${year}" ] && year='2017'
