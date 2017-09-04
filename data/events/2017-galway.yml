@@ -106,6 +106,10 @@ team_members: # Name is the only required field for team members.
     image: "allenthomasvarghese.jpg"
     github: "allentv"
     linkedin: "https://www.linkedin.com/in/allentv/"
+  - name: "Waldemar Znoinski"
+    employer: "Red Hat"
+    github: "wznoinsk"
+    linkedin: "https://www.linkedin.com/in/wznoinski/"
 
 organizer_email: "organizers-galway-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-galway-2017@devopsdays.org" # Put your proposal email address here
