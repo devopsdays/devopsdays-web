@@ -1,6 +1,7 @@
 +++
 Title = "Anthony Angell"
 Twitter = ""
+image = "anthony-angell.png"
 type = "speaker"
 linktitle = "anthony-angell"
 
