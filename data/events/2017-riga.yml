@@ -61,12 +61,21 @@ sponsors:
     level: silver
   - id: taxify
     level: silver
+  # transport
+  - id: taxify
+    level: transport
   # addons
   - id: accenture-latvia
     level: venue
   - id: accenture-latvia
     level: lunch
   # friends
+  - id: delfi
+    level: friends
+  - id: labs-of-latvia
+    level: friends
+  - id: kursors-lv
+    level: friends
   - id: 4sure
     level: friends
   - id: devclub-lv
@@ -87,13 +96,9 @@ sponsors:
     level: friends
   - id: agile-lt
     level: friends
-  - id: labs-of-latvia
-    level: friends
   - id: startin-lv
     level: friends
   - id: riga-tech-girls
-    level: friends
-  - id: kursors-lv
     level: friends
 
 
@@ -123,6 +128,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: "12"
+  - id: transport
+    label: Official Transport
+    max: 1
   #- id: students
   #  label: Student tickets
   #- id: lanyards
