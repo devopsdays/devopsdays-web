@@ -73,9 +73,9 @@ sponsors:
     level: platinum
   - id: samplesponsorname
     level: gold
-  - id: 2017-rancher-labs
+  - id: rancher
     level: gold
-  - id: 2017-configr
+  - id: configr
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
