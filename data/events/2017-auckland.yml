@@ -92,6 +92,8 @@ sponsors:
     level: bronze
   - id: SECTION6
     level: evening
+  - id: 2016-icagile
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
