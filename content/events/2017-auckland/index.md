@@ -10,8 +10,6 @@ Description = "DevOpsDays Auckland 2017"
   <div class = "col-md-6">
     <img alt="DevOpsDay Auckland 2017" src="/events/2017-auckland/logo-wide.png" width="500px" height="192px"/>
     <br/><br/>
-    <strong>Early bird registrations have now opened</strong>
-    <br/><br/>
     The DevOpsDays NZ organising team are pleased to announce DevOpsDays Auckland 2017 will be on Tuesday 3rd &amp; Wednesday the 4th of October 2017. This years conference will be held at the Ellerslie Convention Centre, at the Ellerslie Racecourse.
     <br/><br/>
     We are excited to bring DevOpsDays to Auckland, with contributors from dev, ops, infoSec, QA, management, leadership and a range of cultures - to share, learn, laugh and be encouraged by the many great things happening in New Zealand's technology sector.
