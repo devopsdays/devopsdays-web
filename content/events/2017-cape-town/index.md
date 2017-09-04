@@ -1,9 +1,9 @@
 +++
 date = "2017-01-21T10:28:40+02:00"
 title = "welcome"
-type = "event"
-aliases = ["/events/2017-cape-town"]
-Description = "devopsdays Cape Town 2017"
+type = "welcome"
+aliases = ["/events/2017-cape-town/welcome"]
+Description = "DevopsDays is coming back to Cape Town! Tickets on sale now."
 
 +++
 
