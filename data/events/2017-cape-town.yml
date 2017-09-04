@@ -82,5 +82,7 @@ sponsor_levels:
 #    max: 1
 
 sponsors:
+ - id: offerzen
+   level: gold
  - id: thoughtworks-gocd
    level: gold
