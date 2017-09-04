@@ -38,7 +38,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Logo on the back of the DevOps Days t-shirts</li>
         <li>Logo co-branded on conference lanyard</li>
         <li>BIGGEST logo on the onsite event signage</li>
-        <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdaysbna">@DevOpsDaysBNA</a>)</li>
+        <li>Shoutout via Twitter (<a href="https://twitter.com/nashvilledevops">@nashvilledevops</a>)</li>
         <li>Shared table for giveaways</li>
       </ul>
       <ul>
