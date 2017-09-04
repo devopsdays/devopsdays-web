@@ -8,7 +8,7 @@ Speakers = ["mark-andersen"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/mandersen94/mark-andersen-dfw-devops-days-2017"
 Slides = ""
 Website = ""
 +++
