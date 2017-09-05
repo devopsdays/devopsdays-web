@@ -275,8 +275,8 @@ program:
     date: 2017-08-29
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome by Capital One CIO"
-    type: custom
+  - title: "welcome-day1"
+    type: talk
     date: 2017-08-29
     start_time: "09:00"
     end_time: "09:10"
@@ -362,8 +362,8 @@ program:
     date: 2017-08-30
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
+  - title: "welcome-day2"
+    type: talk
     date: 2017-08-30
     start_time: "09:00"
     end_time: "09:10"
