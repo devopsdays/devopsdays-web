@@ -292,7 +292,7 @@ program:
     date: 2017-10-04
     start_time: "15:50"
     end_time: "16:35"
-  - title: "Confrence Closing"
+  - title: "Conference Closing"
     type: custom
     date: 2017-10-04
     start_time: "16:35"
