@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -121,3 +121,179 @@ sponsor_levels:
     max: 1
 #  - id: community
 #    label: Community
+program:
+  - title: "Registration, Coffee/Tea, and Sponsors"
+    type: custom
+    date: 2017-10-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-03
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "anthony-rees"
+    type: talk
+    date: 2017-10-03
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "john-bowker"
+    type: talk
+    date: 2017-10-03
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Open Space Intro, Topics and Timeslots"
+    type: open-space
+    date: 2017-10-03
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "Morning Tea"
+    type: custom
+    date: 2017-10-03
+    start_time: "10:45"
+    end_time: "11:10"
+  - title: "anthony-angell"
+    type: talk
+    date: 2017-10-03
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "Open Space room assignments"
+    type: open-space
+    date: 2017-10-03
+    start_time: "11:45"
+    end_time: "11:50"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-03
+    start_time: "11:50"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-03
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Open Space room assignments"
+    type: open-space
+    date: 2017-10-03
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-03
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-10-03
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "Afternoon Tea"
+    type: custom
+    date: 2017-10-03
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "lindsay-holmwood"
+    type: talk
+    date: 2017-10-03
+    start_time: "15:25"
+    end_time: "16:00"
+  - title: "aurynn-shaw"
+    type: talk
+    date: 2017-10-03
+    start_time: "16:05"
+    end_time: "16:50"
+  - title: "Day 1 Closing & Fun night info"
+    type: custom
+    date: 2017-10-03
+    start_time: "16:50"
+    end_time: "16:55"
+  - title: "Fun Evening Program"
+    type: custom
+    date: 2017-10-03
+    start_time: "17:00"
+    end_time: "21:30"
+  - title: "Registration, Coffee/Tea, and Sponsors"
+    type: custom
+    date: 2017-10-04
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-04
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "michael-cote"
+    type: talk
+    date: 2017-10-04
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "sajeewa-dayaratne"
+    type: talk
+    date: 2017-10-04
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Open Space Topics & Timeslots"
+    type: open-space
+    date: 2017-10-04
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Morning Tea"
+    type: custom
+    date: 2017-10-04
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "marcus-bristol"
+    type: talk
+    date: 2017-10-04
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "Open Space Room Assignments"
+    type: open-space
+    date: 2017-10-04
+    start_time: "11:30"
+    end_time: "11:35"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2017-10-04
+    start_time: "11:35"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-04
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Open Space Room Assignments"
+    type: open-space
+    date: 2017-10-04
+    start_time: "13:15"
+    end_time: "13:20"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2017-10-04
+    start_time: "13:20"
+    end_time: "14:00"
+  - title: "Open Space #6"
+    type: open-space
+    date: 2017-10-04
+    start_time: "14:05"
+    end_time: "14:45"
+  - title: "Afternoon Tea"
+    type: custom
+    date: 2017-10-04
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "alison-polton-simon"
+    type: talk
+    date: 2017-10-04
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "sanjeev-sharma"
+    type: talk
+    date: 2017-10-04
+    start_time: "15:50"
+    end_time: "16:35"
+  - title: "Conference Closing"
+    type: custom
+    date: 2017-10-04
+    start_time: "16:35"
+    end_time: "16:45"
