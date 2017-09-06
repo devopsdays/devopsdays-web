@@ -28,9 +28,7 @@ registration_open: "true"
 #registration_link: "https://devopsdayskc.eventbrite.com/?aff=website"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-
-
-#  - name: speakers
+ 
   - name: location
   - name: registration
   - name: propose
@@ -39,6 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
   - name: sponsor
   - name: program
+  - name: speakers
   - name: contact
   - name: conduct
 
@@ -160,6 +159,10 @@ sponsors:
   - id: newrelic
     level: gold
   - id: messenger-coffee
+    level: community
+  - id: vml
+    level: bronze
+  - id: codero
     level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -284,7 +287,7 @@ program:
     date: 2017-09-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "michael-coté"
+  - title: "michael-cote"
     type: talk
     date: 2017-09-22
     start_time: "09:15"
@@ -380,8 +383,8 @@ ignites:
     date: 2017-09-21
   - title: "dustin-collins"
     date: 2017-09-21
-  - title: "ignite-karaoke"
-    date: 2017-09-21
+  #- title: "ignite-karaoke"
+  #  date: 2017-09-21
   - title: "dane-hammer"
     date: 2017-09-22
   - title: "david-hollinger-iii"
@@ -396,8 +399,8 @@ ignites:
     date: 2017-09-22
   - title: "alison-stanton"
     date: 2017-09-22
-  - title: "ignite-karaoke"
-    date: 2017-09-22
+  #- title: "ignite-karaoke"
+  #  date: 2017-09-22
 
 
 #speakers:

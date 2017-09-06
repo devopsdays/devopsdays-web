@@ -3,8 +3,8 @@ Title = "Michael Coté"
 Twitter = "cote"
 website = "https://cote.io/"
 type = "speaker"
-linktitle = "michael-coté"
-image = "michael-coté.jpg"
+linktitle = "michael-cote"
+image = "michael-cote.jpg"
 
 +++
 

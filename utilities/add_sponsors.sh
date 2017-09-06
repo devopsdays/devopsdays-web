@@ -3,6 +3,15 @@
 set -e
 
 cd `dirname ${0}`
+# Detect OS for correct 'sed' syntax
+OSNAME=`uname`
+SEDCMD(){
+  if [[ $OSNAME == 'Linux' ]]; then
+    sed -i "$@"
+  elif [[ $OSNAME == 'Darwin' ]]; then
+    sed -i '' "$@"
+  fi
+}
 
 # Get year
 read -p "Enter your event year (default: $(date +"%Y")): " year
@@ -50,9 +59,9 @@ read -p "Enter path to 200x200 PNG logo: " logo
 # Populate data file
 cp examples/data/sponsors/sponsorname.yml $sponsorfile
 
-sed -i '' "s/SPONSORNAME/$sponsorname/" $sponsorfile
-sed -i '' "s%URL%$url%" $sponsorfile
-sed -i '' "s/TWITTER/$twitter/" $sponsorfile
+SEDCMD "s/SPONSORNAME/$sponsorname/" $sponsorfile
+SEDCMD "s%URL%$url%" $sponsorfile
+SEDCMD "s/TWITTER/$twitter/" $sponsorfile
 
 # Set logo
 

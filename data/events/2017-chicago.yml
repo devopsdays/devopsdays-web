@@ -192,6 +192,10 @@ sponsors:
     level: gold
   - id: humio
     level: lanyard
+  - id: allstate
+    level: gold
+  - id: cmegroup
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

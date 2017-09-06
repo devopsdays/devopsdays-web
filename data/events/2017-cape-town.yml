@@ -16,11 +16,14 @@ cfp_date_announce: 2017-08-08  # inform proposers of status
 coordinates: "-33.935600, 18.457423"
 location: "Hilton Doubletree, Woodstock, Cape Town"
 
+ga_tracking_id: "UA-105986234-1"
+
 nav_elements:
   #  - name: program
   - name: registration
     url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -38,24 +41,28 @@ team_members:
     bio: "Adrian is VP of Engineering at SweepSouth. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
   - name: "Cobus Bernard"
     image: "cobus-bernard.jpg"
+    employer: "Blue Battleship"
     twitter: "cobusbernard"
     github: "cobusbernard"
+    linkedin: "https://www.linkedin.com/in/cobusbernard/"
+    facebook: "https://www.facebook.com/cobusbernard"
+    website: "http://cobus.io/"
+    bio: "Cobus is currently working with HealthQ Technologies and Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
   - name: "Julia Quickfall"
     image: "julia-quickfall.jpg"
+    employer: "Kurtosys Systems"
     twitter: "julesquickfall"
     linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/"
+    bio: "Julia is an Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOpsDays looks good by taking care of design."
   - name: "Tom Bamford"
     image: "tom-bamford.jpg"
+    employer: "@planet"
     twitter: "tom_bamford"
     github: "manicminer"
+    linkedin: "https://www.linkedin.com/in/tombamford"
+    bio: "Tom helps organizations to self-integrate and move faster. Blaster of red tape and pointing/clicking. Mediator by day, automaton by night."
 organizer_email: "organizers-cape-town-2017@devopsdays.org"
 proposal_email: "proposals-cape-town-2017@devopsdays.org"
-
-sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  - id: arresteddevops
-#    level: community
 
 sponsors_accepted: "yes"
 sponsor_levels:
@@ -85,4 +92,6 @@ sponsors:
  - id: offerzen
    level: gold
  - id: thoughtworks-gocd
+   level: gold
+ - id: zappistore
    level: gold
