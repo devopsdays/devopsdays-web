@@ -24,6 +24,7 @@ Highly available kubernetes cluster, deploying multi master cluster in different
 * User management.
 
 Application deployment considerations on kubernetes clusters considerations
+
 * Zero down time deployments.
 * Auto-scaling applications using Horizontal Pod auto-scaler and Memory based auto-scaler.
 * Deploying apps in different Name-spaces.
