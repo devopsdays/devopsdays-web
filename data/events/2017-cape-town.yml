@@ -51,12 +51,6 @@ team_members:
 organizer_email: "organizers-cape-town-2017@devopsdays.org"
 proposal_email: "proposals-cape-town-2017@devopsdays.org"
 
-sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  - id: arresteddevops
-#    level: community
-
 sponsors_accepted: "yes"
 sponsor_levels:
   - id: platinum
