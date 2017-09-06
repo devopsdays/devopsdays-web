@@ -80,6 +80,10 @@ sponsors:
     level: gold
   - id: SECTION6
     level: gold
+  - id: redhat
+    level: gold
+  - id: 2016-oss
+    level: gold  
   - id: k2
     level: silver
   - id: 2016-xero
