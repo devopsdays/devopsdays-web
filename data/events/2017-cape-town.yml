@@ -16,6 +16,8 @@ cfp_date_announce: 2017-08-08  # inform proposers of status
 coordinates: "-33.935600, 18.457423"
 location: "Hilton Doubletree, Woodstock, Cape Town"
 
+ga_tracking_id: "UA-105986234-1"
+
 nav_elements:
   #  - name: program
   - name: registration
