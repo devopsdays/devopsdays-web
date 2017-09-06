@@ -16,6 +16,8 @@ cfp_date_announce: 2017-08-08  # inform proposers of status
 coordinates: "-33.935600, 18.457423"
 location: "Hilton Doubletree, Woodstock, Cape Town"
 
+ga_tracking_id: "UA-105986234-1"
+
 nav_elements:
   #  - name: program
   - name: registration
@@ -51,12 +53,6 @@ team_members:
     github: "manicminer"
 organizer_email: "organizers-cape-town-2017@devopsdays.org"
 proposal_email: "proposals-cape-town-2017@devopsdays.org"
-
-sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  - id: arresteddevops
-#    level: community
 
 sponsors_accepted: "yes"
 sponsor_levels:
