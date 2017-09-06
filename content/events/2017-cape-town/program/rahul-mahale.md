@@ -14,20 +14,21 @@ We will show on how to provision and deploy production ready kubernetes cluster 
 Some of the points I will try to cover:-
 
 Highly available kubernetes cluster, deploying multi master cluster in different data center regions.
-- Auto-scaling up and down kubernetes cluster.
-- Private networking (Calico/Weave/Flannel etc).
-- Monitoring kubernetes cluster using Prometheus and Grafana
-- Backup and restore Kubernetes Cluster.
-- Resource management.
-- Security policies.
-- User management.
 
--Application deployment considerations on kubernetes clusters considerations
-- Zero down time deployments.
-- Auto-scaling applications using Horizontal Pod auto-scaler and Memory based auto-scaler.
-- Deploying apps in different Name-spaces.
-- Effectively using Persistent volume and stateful sets.
-- When to use jobs and scheduled jobs.
-- Logging and Monitoring of applications.
+* Auto-scaling up and down kubernetes cluster.
+* Private networking (Calico/Weave/Flannel etc).
+* Monitoring kubernetes cluster using Prometheus and Grafana
+* Backup and restore Kubernetes Cluster.
+* Resource management.
+* Security policies.
+* User management.
+
+Application deployment considerations on kubernetes clusters considerations
+* Zero down time deployments.
+* Auto-scaling applications using Horizontal Pod auto-scaler and Memory based auto-scaler.
+* Deploying apps in different Name-spaces.
+* Effectively using Persistent volume and stateful sets.
+* When to use jobs and scheduled jobs.
+* Logging and Monitoring of applications.
 
 At the end of the talk attendees will be able to understand on how to deploy kubernetes production ready cluster. And best practices to deploy apps on Kubernetes.
