@@ -23,10 +23,8 @@ location: "The Society Room" # Defaults to city, but you can make it the venue n
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdays-hartford-2017 # The url setting is optional, and only if you want the navigation to link off-site
+  - name: registration
   - name: location
-#  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
