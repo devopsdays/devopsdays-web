@@ -51,11 +51,14 @@ team_members:
     employer: "Kurtosys Systems"
     twitter: "@julesquickfall"
     linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/"
-    bio: "Julia is an Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOpsDays looks good by taking care of design.
-  - name: "Tom Bamford"
-    image: "tom-bamford.jpg"
-    twitter: "tom_bamford"
-    github: "manicminer"
+    bio: "Julia is an Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOpsDays looks good by taking care of design."
+  - name: Tom Bamford
+    image: tom-bamford.jpg
+    employer: @planet
+    twitter: tom_bamford
+    github: manicminer
+    linkedin: "https://www.linkedin.com/in/tombamford"
+    bio: "Tom helps organizations to self-integrate and move faster. Blaster of red tape and pointing/clicking. Mediator by day, automaton by night."
 organizer_email: "organizers-cape-town-2017@devopsdays.org"
 proposal_email: "proposals-cape-town-2017@devopsdays.org"
 
