@@ -46,11 +46,11 @@ team_members:
     facebook: "https://www.facebook.com/cobusbernard"
     website: "http://cobus.io/"
     bio: "Cobus is currently working with HealthQ Technologies and Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
-  - name: "Julia Quickfall”
-    image: "julia-quickfall.jpg”
-    employer: "Kurtosys Systems”
-    twitter: "@julesquickfall”
-    linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/”
+  - name: "Julia Quickfall"
+    image: "julia-quickfall.jpg"
+    employer: "Kurtosys Systems"
+    twitter: "@julesquickfall"
+    linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/"
     bio: "Julia is Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOps Days looks good by taking care of design.
   - name: "Tom Bamford"
     image: "tom-bamford.jpg"
