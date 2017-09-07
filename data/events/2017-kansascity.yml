@@ -28,7 +28,7 @@ registration_open: "true"
 #registration_link: "https://devopsdayskc.eventbrite.com/?aff=website"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
+
   - name: location
   - name: registration
   - name: propose
@@ -164,10 +164,17 @@ sponsors:
     level: bronze
   - id: codero
     level: community
+  - id: gitlab
+    level: social
+  - id: cyberark
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
+  - id: social
+    label: Evening Social
+    limit: 1
   - id: silver
     label: Silver
   - id: bronze
