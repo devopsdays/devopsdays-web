@@ -124,6 +124,10 @@ sponsors:
     level: gold
   - id: daysha-consulting
     level: services
+  - id: gdg-galway
+    level: community
+  - id: nuig-compsoc
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
