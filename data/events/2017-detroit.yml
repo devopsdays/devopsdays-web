@@ -72,6 +72,12 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: e7solutions
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: newrelic
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
