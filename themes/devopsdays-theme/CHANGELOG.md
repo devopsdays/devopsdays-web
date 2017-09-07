@@ -1,7 +1,18 @@
 # Change Log
 
+## [1.14.0](https://github.com/devopsdays/devopsdays-theme/tree/1.14.0) (2017-08-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.1...1.14.0)
+
+**Implemented enhancements:**
+
+- Add shortcodes for registration dates [\#592](https://github.com/devopsdays/devopsdays-theme/issues/592)
+- \[Enhancement\] Some people think 'Open Space' in the Program means not taken [\#583](https://github.com/devopsdays/devopsdays-theme/issues/583)
+
 ## [1.13.1](https://github.com/devopsdays/devopsdays-theme/tree/1.13.1) (2017-08-29)
-[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.1...1.13.1)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.0...1.13.1)
+
+## [1.13.0](https://github.com/devopsdays/devopsdays-theme/tree/1.13.0) (2017-08-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.1...1.13.0)
 
 **Fixed bugs:**
 

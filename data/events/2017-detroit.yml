@@ -72,6 +72,12 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: e7solutions
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: newrelic
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
@@ -90,19 +96,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
   - id: gold
     label: Gold
-    max: 10
+    max: 16
   - id: silver
     label: Silver
     max: 4
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
   - id: lunch
     label: Lunch
     max: 1
@@ -139,7 +140,7 @@ program:
     start_time: "11:00"
     end_time: "11:15"
 
-  - title: "distributed-systems-are-hard"
+  - title: "adding-and-retiring-technologies"
     type: talk
     date: 2017-09-27
     start_time: "11:15"
@@ -151,7 +152,7 @@ program:
     start_time: "11:45"
     end_time: "1:00"
 
-  - title: "adding-and-retiring-technologies"
+  - title: "devops-state-of-mind"
     type: talk
     date: 2017-09-27
     start_time: "1:00"
@@ -264,7 +265,7 @@ program:
     start_time: "2:00"
     end_time: "2:15"
 
-  - title: "devops-state-of-mind"
+  - title: "distributed-systems-are-hard"
     type: talk
     date: 2017-09-28
     start_time: "2:15"

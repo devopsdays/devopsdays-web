@@ -8,7 +8,7 @@ Speakers = ["franklin-mosley"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/FranklinMosley/how-to-make-a-unicorn-finding-cybersecurity-talent-in-the-real-world"
 Slides = ""
 Website = "https://www.linkedin.com/in/franklinmosley"
 +++
