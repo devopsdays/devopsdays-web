@@ -37,7 +37,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 | Shared table for swag (no chairs)                        |                  |         ✓        |                |
 | Dedicated table for swag (with chairs)                   |                  |                  |        ✓       |
 
-There are also opportunities for exclusive special sponsorships with special privileges, such as venue, lanyard, video, lunch and evening event sponsorship. If you are interested in special sponsorships or have a creative idea about how you can support the event, drop us an email the <a href="mailto:organisers-auckland-2017@devopsdays.org?subject=Sponsor DevOpsDays Auckland 2017">organisers</a> and we’ll work something out together.
+There are also opportunities for exclusive special sponsorships with special privileges, such as video and lunch event sponsorship. If you are interested in special sponsorships or have a creative idea about how you can support the event, drop us an email the <a href="mailto:organisers-auckland-2017@devopsdays.org?subject=Sponsor DevOpsDays Auckland 2017">organisers</a> and we’ll work something out together.
 
 <hr/>
 
