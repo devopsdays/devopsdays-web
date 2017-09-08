@@ -85,7 +85,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <td bgcolor="gold">&nbsp;</td>
  </tr>
  <tr>
-  <td>add a promotional item in the conference 'swag bag'</td>
+  <td>option to send us a promotional item to be included in the conference 'swag bag'</td>
   <td>&nbsp;</td>
   <td>&nbsp;</td>
   <td bgcolor="gold">&nbsp;</td>
@@ -122,20 +122,20 @@ service being provided, but the list below is the minimum.
 * 1 included tickets
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Galway 2017 event website
-* Add item to swag bag
+* Option to send us a promotional item to be included in the conference 'swag bag'
 
 ### Silver - €1500
 
 * All benefits of Bronze sponsors
 * 1 additional ticket, 2 in total
 * Logo on all email communication
-* Shared sponsor table at event
+* Shared sponsor table (approx 1 meter per sponsor)
 
 ### Gold - €3000
 
 * All benefits of Silver sponsors
 * 2 additional tickets, 4 in total
-* Dedicated sponsor table
+* Dedicated sponsor table (approx 2 meter)
 * Logo on dedicated slide
 * 2 minute pitch to full audience
 
