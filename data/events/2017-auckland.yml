@@ -83,7 +83,9 @@ sponsors:
   - id: redhat
     level: gold
   - id: 2016-oss
-    level: gold  
+    level: gold
+  - id: 2016-bnz
+    level: gold
   - id: k2
     level: silver
   - id: 2016-xero
@@ -98,17 +100,22 @@ sponsors:
     level: evening
   - id: 2017-icagile
     level: bronze
+  - id: 2016-bnz
+    level: venue
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
   - id: gold
     label: Gold
 #    max: 10
@@ -123,8 +130,6 @@ sponsor_levels:
   - id: evening
     label: Fun Evening Event
     max: 1
-#  - id: community
-#    label: Community
 program:
   - title: "Registration, Coffee/Tea, and Sponsors"
     type: custom

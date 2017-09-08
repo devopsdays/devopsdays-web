@@ -27,9 +27,4 @@ Scholarship recipients will receive a complimentary registration pass (non-trans
 Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of colour, and/or persons with disabilities; and be unable to attend without some financial assistance.
  
 ### How to Apply
-Please fill the form below to apply for the scholarship. All application information will be kept confidential. Please allow the committee enough time to review the application. The accepted applicants will be notified via email on the week of September 1-8. If you have any questions, please contact us at: {{< email_organizers >}}
-
-<strong>Make sure you submit your application before the August 31th deadline.</strong>
-
-<iframe src="https://docs.google.com/forms/d/1h4fkaM40Hjh4xuQBAujTxTju2WDOvPJeGj1Kj1U-RKM/viewform?embedded=true" width="760" height="2812" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
-
+Please  contact us at: {{< email_organizers >}} to apply for the scholarship. 
