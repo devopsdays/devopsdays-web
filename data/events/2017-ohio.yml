@@ -16,6 +16,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
   - name: sponsor
   - name: location
+  - name: register
+    url: "https://devopsdaysohio2017.eventbrite.com/"
 
 team_members: # Name is the only required field for team members.
 #  - name: "---"
@@ -73,6 +75,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: arista
     level: gold
   - id: ahead
+    level: gold
+  - id: roundtowertechnologies
+    level: gold
+  - id: chef
+    level: gold
+  - id: appdynamics
     level: gold
   - id: servicenow
     level: silver

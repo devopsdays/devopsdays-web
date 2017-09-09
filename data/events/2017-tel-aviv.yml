@@ -112,6 +112,8 @@ sponsors:
     level: silver
   - id: logzio
     level: silver
+  - id: facebook
+    level: silver
   - id: quali
     level: workshoproom
   - id: outbrain

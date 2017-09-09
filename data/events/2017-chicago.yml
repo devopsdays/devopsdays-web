@@ -322,6 +322,10 @@ program:
     date: 2017-09-12
     start_time: "18:00"
     end_time: "late"
+    comments: "This will take place at [10pin](http://10pinchicago.com/)<br>
+    330 N. State St<br>
+    Chicago, IL<br>
+    60654"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2017-09-13
