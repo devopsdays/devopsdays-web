@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Continuous Delivery Using Crowdsourced Testing"
 Type = "talk"
 Speakers = ["maja-schreiner"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "vVQqwuzNkmE"
 +++
 
 Often testing can be viewed as a barrier to implementing Continuous Delivery and DevOps, but it shouldn't be. In this talk I'll be sharing my experiences of how we crowd sourced testing, learned more about our customers and removed the "testing bottleneck" in our delivery process.
