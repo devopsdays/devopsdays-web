@@ -2,6 +2,8 @@
 
 set -e
 
+cd `dirname ${0}`
+
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
 SEDCMD(){
