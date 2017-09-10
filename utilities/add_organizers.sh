@@ -2,6 +2,8 @@
 
 set -e
 
+cd `dirname ${0}`
+
 OUT=$(mktemp /tmp/output.XXXXXXXXXX) || { echo "Failed to create temp file"; exit 1; }
 
 
