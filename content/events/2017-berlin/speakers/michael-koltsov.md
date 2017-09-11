@@ -1,6 +1,6 @@
 +++
 Title = "Michael Koltsov"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = ""
 type = "speaker"
 linktitle = "michael-koltsov"
