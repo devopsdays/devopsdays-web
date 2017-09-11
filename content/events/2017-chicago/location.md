@@ -6,10 +6,10 @@ description = "DevOpsDays Chicago 2017 will be taking place at the Holiday Inn M
 
 +++
 
-Event will be taking place at the Holiday Inn Mart Plaza.
+Event will be taking place at the Holiday Inn Mart Plaza on the 14th Floor.
 
 ## A River North Hotel Near Chicago's Busy Downtown
-*350 West Mart Center Drive, Chicago, IL 60654 (Hotel Lobby: Floor 15 - Guest Rooms: Floors 16-23)*
+*350 West Mart Center Drive, Chicago, IL 60654*
 
 This contemporary hotel puts you in the middle of downtown Chicago's bustling River North area. Featuring upscale lodging atop the famous Chicago Sun-Times building, it's next door to the Merchandise Mart and within walking distance of the Loop, the main business district, and the Magnificent Mile. Near Chicago's chic shops and restaurants, you're close to attractions like Navy Pier, Millennium Park, Chicago Theatre, 360 Chicago and the Willis Tower Skydeck.
 
