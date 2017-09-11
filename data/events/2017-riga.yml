@@ -101,6 +101,8 @@ sponsors:
     level: friends
   - id: riga-tech-girls
     level: friends
+  - id: slido
+    level: friends
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
