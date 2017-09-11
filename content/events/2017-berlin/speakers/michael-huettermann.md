@@ -1,6 +1,6 @@
 +++
 Title = "Michael Hüttermann"
-Twitter = "SPEAKERTWITTER"
+Twitter = ""
 image = ""
 type = "speaker"
 linktitle = "michael-huettermann"
