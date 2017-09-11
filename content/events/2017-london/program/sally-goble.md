@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Not Wrong Long - is perfect software necessary in the world of continuous delivery?"
 Type = "talk"
 Speakers = ["sally-goble"]
+#speakerdeck = "https://speakerdeck.com/bryanl/devops-days-msp-2017"
+youtube = "RY1dLbfm5_Y"
 +++
 
 The Guardian digital team have worked hard towards implementing Continuous Delivery, and now deploy hundreds of times a day. But if you ship this fast, you need to remove all obstacles to delivery. 
