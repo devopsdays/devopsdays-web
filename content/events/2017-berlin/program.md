@@ -164,7 +164,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #3<p>
         <strong>Hands-On Workshop</strong><br />
-	    <a href="/events/2017-berlin/program/michael-huettermann/">Michael Huettermann - DevOps for Adults: Firing up a holistic Continuous Delivery Pipepline</a></br>
+	    <a href="/events/2017-berlin/program/michael-huettermann/">Michael Huettermann - DevOps for Adults: Concepts and Tools</a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
