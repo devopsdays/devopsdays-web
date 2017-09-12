@@ -2,8 +2,8 @@
 date = "2017-03-14T16:25:12-07:00"
 title = "welcome"
 type = "event"
-aliases = ["/events/2017-boise"]
-Description = "devopsdays Boise 2017"
+aliases = ["/events/2018-boise"]
+Description = "devopsdays Boise 2018"
 
 +++
 
