@@ -7,7 +7,7 @@ Description = "Program for devopsdays Chicago 2017"
 <div class = "row">
   <div class = "col">
     <hr />
-    The dates and times of specific presentations are subject to change.
+    Can't make it to the event? Check out <a href = "http://confreaks.tv/live_events/devopsdayschicago2017">the livestream</a>!
     <hr />
   </div>
 </div>
