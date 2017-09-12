@@ -59,6 +59,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: partner
   - id: netways
     level: partner
+  - id: admin-magazine
+    level: partner
   - id: 2016-norisnetwork
     level: eveningevent
   - id: thoughtworks-gocd
