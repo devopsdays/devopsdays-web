@@ -12,7 +12,7 @@ coordinates: "52.524332,13.389849" # The corrodinates of your venue. Get Latitud
 location: "Kalkscheune Berlin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  - name: speakers
   - name: program
   - name: location
   - name: registration
