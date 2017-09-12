@@ -11,7 +11,6 @@ heading = "DevOpsDays Riga 2017 - Registration"
 <ul>
 	<li>pay for a bulk ticket order</li>
 	<li>pay now and register attendees later (use Very Early bird option Now)</li>
-	<li>pay without VAT (reverse VAT for EU companies)</li>
 	<li>avoid Eventbrite fee</li>
 	<li>or any other reason</li>
 </ul>
