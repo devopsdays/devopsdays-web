@@ -288,7 +288,7 @@ program:
     date: 2017-09-18
     start_time: "14:15"
     end_time: "15:15"
-  - title: "Open Space #2 / Snack Break"
+  - title: "Open Space #2"
     type: open-space
     date: 2017-09-18
     start_time: "15:15"
@@ -396,7 +396,7 @@ program:
     start_time: "15:35"
     end_time: "16:35"
   - title: "phil-lombardi"
-    type: workshop
+    type: talk
     date: 2017-09-19
     start_time: "15:35"
     end_time: "16:35"
