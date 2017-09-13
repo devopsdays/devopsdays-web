@@ -70,6 +70,8 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: elastic
+    level: gold
   - id: arresteddevops
     level: community
   - id: widen
