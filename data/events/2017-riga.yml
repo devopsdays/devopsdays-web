@@ -142,6 +142,23 @@ sponsor_levels:
   - id: friends
     label: Friends, media partners and other
 
+ignites:  
+  - title: "janis-orlovs"
+    date: 2017-09-18
+  - title: "mikhail-iljin"
+    date: 2017-09-18
+  - title: "toshaan-bharvani-ignite"
+    date: 2017-09-18
+
+  - title: "esmee-snoey-kiewi"
+    date: 2017-09-19
+  - title: "karlis-broders"
+    date: 2017-09-19
+  - title: "daniel-houston"
+    date: 2017-09-19
+  - title: "antonio-cobo-ignite"
+    date: 2017-09-19
+
 program:
   # Day one
   - title: "Registration, Breakfast, and Sponsor Booths Open"
@@ -149,70 +166,70 @@ program:
     date: 2017-09-18
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Day 1 - Opening Welcome"
+  - title: "Opening of the Conference"
     type: custom
     date: 2017-09-18
     start_time: "09:00"
-    end_time: "09:10"
+    end_time: "09:30"
   - title: "kris-buytaert"
     type: talk
     date: 2017-09-18
-    start_time: "09:10"
-    end_time: "09:40"
+    start_time: "09:30"
+    end_time: "10:00"
   - title: "chris-van-tuin"
     type: talk
     date: 2017-09-18
-    start_time: "09:45"
-    end_time: "10:15"
+    start_time: "10:05"
+    end_time: "10:35"
   - title: "michiel-rook"
     type: talk
     date: 2017-09-18
-    start_time: "10:20"
-    end_time: "10:50"
+    start_time: "10:40"
+    end_time: "11:10"
 
   - title: "Break"
     type: custom
     date: 2017-09-18
-    start_time: "10:50"
-    end_time: "11:05"
+    start_time: "11:10"
+    end_time: "11:25"
 
   - title: "samat-galimov"
     type: talk
     date: 2017-09-18
-    start_time: "11:05"
-    end_time: "11:35"
+    start_time: "11:25"
+    end_time: "11:55"
   - title: "uldis-karlovs-karlovskis"
     type: talk
     date: 2017-09-18
-    start_time: "11:40"
-    end_time: "12:10"
+    start_time: "12:00"
+    end_time: "12:30"
 
   - title: "Lunch"
     type: custom
     date: 2017-09-18
-    start_time: "12:10"
-    end_time: "13:10"
+    start_time: "12:30"
+    end_time: "13:30"
 
-  - title: "mandi-walls"
+  - title: "edward-van-deursen"
     type: talk
     date: 2017-09-18
-    start_time: "13:10"
-    end_time: "13:40"
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-09-18
-    start_time: "13:45"
-    end_time: "14:15"
+    start_time: "14:05"
+    end_time: "14:25"
   - title: "Openspace Opening and Voting"
     type: open-space
     date: 2017-09-18
-    start_time: "14:15"
-    end_time: "14:35"
+    start_time: "14:30"
+    end_time: "14:45"
 
   - title: "Break"
     type: custom
     date: 2017-09-18
-    start_time: "14:35"
+    start_time: "14:45"
     end_time: "15:00"
 
   - title: "mark-smalley"
@@ -242,7 +259,7 @@ program:
     date: 2017-09-18
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Party"
+  - title: "ChillOps Networking Party"
     type: custom
     date: 2017-09-18
     start_time: "17:15"
@@ -258,12 +275,12 @@ program:
     date: 2017-09-19
     start_time: "09:00"
     end_time: "09:10"
-  - title: "stephen-nelson-smith"
+  - title: "mandi-walls"
     type: talk
     date: 2017-09-19
     start_time: "09:10"
     end_time: "09:40"
-  - title: "matthew-campbel"
+  - title: "antonio-cobo"
     type: talk
     date: 2017-09-19
     start_time: "09:45"
@@ -303,7 +320,7 @@ program:
     start_time: "13:10"
     end_time: "13:40"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-09-19
     start_time: "13:45"
     end_time: "14:15"
