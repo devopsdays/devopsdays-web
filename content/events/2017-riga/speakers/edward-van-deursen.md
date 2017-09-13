@@ -3,6 +3,7 @@ title = "Edward van Deursen"
 twitter = "Duceddie"
 linkedin = "https://www.linkedin.com/in/edwardvandeursen"
 type = "speaker"
+image = "edward-van-deursen.jpg"
 linktitle = ["edward-van-deursen"]
 +++
 

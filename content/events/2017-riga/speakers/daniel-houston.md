@@ -1,6 +1,7 @@
 +++
 title = "Daniel Houston"
 type = "speaker"
+image = "daniel-houston.jpg"
 linktitle = ["daniel-houston"]
 +++
 
