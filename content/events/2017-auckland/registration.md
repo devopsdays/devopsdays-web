@@ -8,7 +8,7 @@ Description = "Registration for DevOpsDays Auckland 2017"
 
 ## Registration
 
-You can register now register for DevOpsDays Auckland 2017. We have now sold out of all Early Bird tickets.
+You can now register for DevOpsDays Auckland 2017. We have now sold out of all Early Bird tickets.
 
 We'll be updating this page with more information for participants coming to DevOpsDays Auckland.
 
