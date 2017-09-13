@@ -95,7 +95,9 @@ sponsors:
   - id: thoughtworks-gocd
     level: silver
   - id: flux-PS
-    level: silver    
+    level: silver
+  - id: chef
+    level: silver
   - id: datacom
     level: bronze
   - id: SECTION6
