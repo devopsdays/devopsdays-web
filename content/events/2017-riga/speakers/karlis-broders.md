@@ -1,6 +1,7 @@
 +++
 title = "Kārlis Broders"
 type = "speaker"
+image = "karlis-broders.jpg"
 linktitle = ["karlis-broders"]
 +++
 
