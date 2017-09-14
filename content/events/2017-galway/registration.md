@@ -25,7 +25,8 @@ Registration for DevOpsDays Galway 2017 is now open. If you have any questions p
 
 Now that you're planning on attending, the next step is to look at accommodation.
 We've put together a small list to help, there are plenty of other options,
-these are just some with guidelines as to how f.
+these are just some with guidelines as to how long it will take to travel
+between your accommodation and the venue.
 
 If you're unsure about how easy it is to get from the location you are choosing
 to the venue, just email us at {{< email_organizers >}} and we'll provide some

@@ -3,6 +3,7 @@ title = "Janis Orlovs"
 twitter = "Orlovs"
 linkedin = "https://www.linkedin.com/in/janisorlovs/"
 type = "speaker"
+image = "janis-orlovs.jpg"
 linktitle = ["janis-orlovs"]
 +++
 

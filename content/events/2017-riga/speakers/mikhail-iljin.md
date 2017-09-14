@@ -3,6 +3,7 @@ title = "Mikhail Iljin"
 linkedin = "https://www.linkedin.com/in/mikhaili/"
 website = "https://www.mooncascade.com/"
 type = "speaker"
+image = "mikhail-iljin.jpg"
 linktitle = ["mikhail-iljin"]
 +++
 
