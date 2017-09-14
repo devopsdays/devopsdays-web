@@ -170,6 +170,10 @@ sponsors:
     level: silver
   - id: bluebaytechnologies
     level: bronze
+  - id: pagerduty
+    level: silver
+  - id: devopsinstitute
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

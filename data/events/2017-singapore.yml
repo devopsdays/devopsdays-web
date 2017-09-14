@@ -17,8 +17,8 @@ cfp_date_announce: 2017-09-13 # inform proposers of status
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-09-13 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2017-10-26 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devopsdays-singapore/2017/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -35,7 +35,7 @@ location_address: "#22-01, 1 Marina Blvd, Singapore" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -170,7 +170,7 @@ program:
     start_time: "13:15"
     end_time: "14:00"
   - title: "Ignites"
-    type: open-space
+    type: ignite
     date: 2017-10-25
     start_time: "14:00"
     end_time: "14:40"
@@ -204,24 +204,128 @@ program:
     type: custom
     date: 2017-10-26
     start_time: "08:00"
-    end_time: "09:00"
-  - title: "Workshops Begin"
+    end_time: "08:45"
+  - title: "Opening Welcome"
     type: custom
     date: 2017-10-26
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: ""
+    type: talk
+    date: 2017-10-26
     start_time: "09:00"
-    end_time: "10:20"
+    end_time: "09:30"
+  - title: ""
+    type: talk
+    date: 2017-10-26
+    start_time: "09:30"
+    end_time: "10:00"
   - title: "Break"
     type: custom
     date: 2017-10-26
-    start_time: "10:20"
-    end_time: "10:30"
-  - title: "Workshops continue"
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: ""
+    type: talk
+    date: 2017-10-26
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2017-10-26
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Break"
     type: custom
     date: 2017-10-26
-    start_time: "10:30"
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2017-10-26
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Closing Keynote"
+    type: talk
+    date: 2017-10-26
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "Announcements"
+    type: custom
+    date: 2017-10-26
+    start_time: "12:20"
     end_time: "12:30"
-  - title: "Workshops End"
+  - title: "Lunch"
     type: custom
     date: 2017-10-26
     start_time: "12:30"
-    end_time: "13:00"
+    end_time: "13:15"
+  - title: "TBA"
+    type: custom
+    date: 2017-10-26
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-10-26
+    start_time: "14:00"
+    end_time: "14:40"
+  - title: "Break / Open Space Voting"
+    type: custom
+    date: 2017-10-26
+    start_time: "14:50"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-26
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-26
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-10-26
+    start_time: "16:45"
+    end_time: "17:00"
+
+# ignites:
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#   - title: "ignite"
+#     date: 2017-10-25
+#
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
+#   - title: "ignite"
+#     date: 2017-10-26
