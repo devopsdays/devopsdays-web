@@ -82,6 +82,8 @@ sponsors:
     level: gold
   - id: rubrik
     level: gold
+  - id: llamasoft
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
@@ -102,7 +104,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 16
+    max: 0
   - id: silver
     label: Silver
     max: 4
