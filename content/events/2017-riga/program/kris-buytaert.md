@@ -1,7 +1,7 @@
 +++
 Talk_date = "18.09.2017"
-Talk_start_time = "09:10"
-Talk_end_time = "09:40"
+Talk_start_time = "09:30"
+Talk_end_time = "10:00"
 Title = "The return of the Dull Stack Engineer"
 Type = "talk"
 Speakers = ["kris-buytaert"]

@@ -52,7 +52,7 @@ read -p "Enter sponsor twitter handle (return for none): " twitter
 twitter=$(echo $twitter | sed 's/@//')
 
 
-read -p "Enter path to 200x200 PNG logo: " logo
+read -p "Enter path to PNG logo (must be at least 200px wide & have white or transparent background): " logo
 [ -z "${logo}" ] && logo=''
 
 

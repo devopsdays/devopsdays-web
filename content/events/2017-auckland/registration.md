@@ -8,7 +8,7 @@ Description = "Registration for DevOpsDays Auckland 2017"
 
 ## Registration
 
-You can register now register for DevOpsDays Auckland 2017. We have now sold out of all Early Bird tickets.
+You can now register for DevOpsDays Auckland 2017. We have now sold out of all Early Bird tickets.
 
 We'll be updating this page with more information for participants coming to DevOpsDays Auckland.
 
@@ -24,7 +24,7 @@ Scholarships are awarded based on a combination of need and impact. Selection is
 Scholarship recipients will receive a complimentary registration pass (non-transferrable). Please note, **travel expenses and accommodations are not covered under this scholarship** and are the responsibility of the scholarship recipient.
  
 ### Eligibility
-Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of colour, and/or persons with disabilities; and be unable to attend without some financial assistance.
+Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of colour, students and/or persons with disabilities; and be unable to attend without some financial assistance.
  
 ### How to Apply
-Please  contact us at: {{< email_organizers >}} to apply for the scholarship. 
+Please  contact us at: {{< email_organizers >}} to apply for the scholarship.

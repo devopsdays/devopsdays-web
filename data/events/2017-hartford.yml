@@ -60,6 +60,8 @@ sponsors:
     level: gold
   - id: victorops
     level: silver
+  - id: cyberark
+    level: silver
   - id: arresteddevops
     level: community
   - id: victorops
