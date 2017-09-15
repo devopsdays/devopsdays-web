@@ -1,7 +1,7 @@
 +++
 Title = "Matthew Simons"
 Twitter = "thatsimonsguy"
-image = ""
+image = "matthew-simons.jpg"
 type = "speaker"
 linktitle = "matthew-simons"
 
