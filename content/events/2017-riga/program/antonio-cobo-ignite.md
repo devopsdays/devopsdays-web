@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["antonio-cobo"]
 +++
 
-<p>TBA</p>
+<p>The concept of Technical Debt is always different when you ask a developer or a sponsor. Why is it that complicated to understand for the sponsors? why do developers struggle to explain it? I’m sharing one way I have used several times to deal with Technical Debt. it did work sometimes and it didn’t work on other, would it work for you?</p>
