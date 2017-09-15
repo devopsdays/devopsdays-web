@@ -4,9 +4,8 @@ Twitter = "a_hailes"
 
 type = "speaker"
 linktitle = "amy-hailes"
-image = "logo-square.jpg"
+image = "amy-hailes.jpg"
 +++
 
 
-Amy is a Site Reliability Engineer at The New York Times. Prior to the campaign, she was a performance engineer at Akamai for several years. At HFA, she was an SRE on the SRE/Ops team. The Ops team was responsible for CDN management and assisting in launching and maintaining the microservice infrastructure on AWS.
-
+Amy was a Site Reliabilty Engineer on the Hillary for America SRE/Ops team.  She has also worked as an SRE at The New York Times and as a performance engineer at Akamai Technologies.  When she's not working, she enjoys podcasts, aerial circus, and knitting.
