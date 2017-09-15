@@ -1,7 +1,7 @@
 +++
 Title = "Dennis Groves"
 Twitter = ""
-image = ""
+image = "dennis-groves.png"
 type = "speaker"
 linktitle = "dennis-groves"
 
