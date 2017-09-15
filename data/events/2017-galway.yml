@@ -122,6 +122,8 @@ sponsors:
 #   level: community
   - id: pivotal
     level: gold
+  - id: avaya
+    level: bronze
   - id: daysha-consulting
     level: services
   - id: gdg-galway
