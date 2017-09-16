@@ -5,7 +5,7 @@ image = "karlis-broders.jpg"
 linktitle = ["karlis-broders"]
 +++
 
-<h2>IT consultant, Project Manager at AA Projekts</h2>
+<h3>IT consultant, Project Manager at AA Projekts</h3>
 
 <p>After graduating with a degree in natural sciences of mathematics during his first interview at an IT company all Kārlis could say is: “I can fast, wait and think.” (akin to a certain character from a novel by Hermann Hesse). Either way, Kārlis ended up with having everyday work concerned with management, development, maintenance and auditing of enterprise information systems. Seeing the not-so-encouraging failure/success rate of many development and implementation projects, one starts looking for better ways, innovation and opportunities for improvement. 
 

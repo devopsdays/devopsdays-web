@@ -1,7 +1,7 @@
 +++
 Talk_date = "18.09.2017"
-Talk_start_time = "14:15"
-Talk_end_time = "14:20"
+Talk_start_time = "14:10"
+Talk_end_time = "14:15"
 Title = "DevOps meets Data Science - how to prepare?"
 Type = "talk"
 Speakers = ["mikhail-iljin"]
