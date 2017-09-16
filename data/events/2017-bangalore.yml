@@ -29,17 +29,20 @@ coordinates: "12.973268, 77.620005" # The coordinates of your city. Get Latitude
 location: "Vivanta By Taj - MG Road Bangalore" # Defaults to city, but you can make it the venue name.
 location_address: "41/3, MG Road, Yellappa Garden, Yellappa Chetty Layout, Ulsoor, Bengaluru, Karnataka 560001, India" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
+
 nav_elements: # List of pages you want to show up in the navigation of your page.
  - name: propose
  - name: location
  - name: registration
    url: https://www.townscript.com/e/dod17
  - name: program
-   url: http://devopsdaysindia.org/
+   url: http://devopsdaysindia.org/#section-schedule
+ - name: speakers
+   url: http://devopsdaysindia.org/#section-speakers
+ - name: sponsor
+   url: http://devopsdaysindia.org/#section-sponsors
  - name: contact
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+ - name: conduct
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -50,31 +53,8 @@ team_members: # Name is the only required field for team members.
     twitter: "wallydrag8"
   - name: "Sankalp Singh"
 organizer_email: "organizers-bangalore-2017@devopsdays.org" # Put your organizer email address here
-proposal_email: "" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-  - id: arresteddevops
-    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
