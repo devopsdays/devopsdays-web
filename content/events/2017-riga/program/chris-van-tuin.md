@@ -1,7 +1,7 @@
 +++
 Talk_date = "18.09.2017"
-Talk_start_time = "09:45"
-Talk_end_time = "10:15"
+Talk_start_time = "10:05"
+Talk_end_time = "10:35"
 Title = "A DevOps State of Mind: Continuous Security with DevSecOps + Containers"
 Type = "talk"
 Speakers = ["chris-van-tuin"]

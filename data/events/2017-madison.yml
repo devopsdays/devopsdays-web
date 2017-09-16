@@ -45,7 +45,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Michael Goodness"
+    image: "mike-goodness.jpg"
     twitter: "opsgoodness"
+    website: "http://http://opsgoodness.net"
+    linkedin: "https://www.linkedin.com/in/mgoodness"
+    github: "mgoodness"
   - name: "Christian Herro"
     twitter: "christianherro"
     image: "christian-herro.jpg"
@@ -65,6 +69,8 @@ sponsors:
   - id: pivotal
     level: gold
   - id: appdynamics
+    level: gold
+  - id: elastic
     level: gold
   - id: arresteddevops
     level: community

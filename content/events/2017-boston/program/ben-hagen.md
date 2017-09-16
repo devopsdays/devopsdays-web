@@ -12,5 +12,6 @@ Hillary for America was the organization created for Hillary Clinton’s 2016 pr
 
 This team helped build an environment for rapidly launching new projects, raising billions of dollars from donors, and withstanding spiky and semi-unpredictable traffic. We will walk through how we did this, the unusual schedule of a presidential campaign and how that affects a growing tech team.
 
-Panelists will dive into the technical details of our infrastructure, including our love/hate relationship with AWS, our use of open source technology like Packer, Ansible, and Consul, and our flat out love of Varnish. We will also discuss what makes a presidential campaign a unique technical environment, such as the pace of development, the work hours, and adversaries both foreign and domestic.
+Panelists will dive into the technical details of our infrastructure, including our love/hate relationship with AWS, our use of open source technology like Packer, Ansible, and Consul, and our flat out love of Varnish. We will also discuss what makes a presidential campaign a unique technical environment, such as the pace of development, and the work hours.
+
 

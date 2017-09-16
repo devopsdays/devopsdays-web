@@ -7,8 +7,8 @@ Type = "talk"
 Speakers = ["mark-andersen"]
 Youtube = "SS3swN18bZM"
 Vimeo = ""
-Speakerdeck = ""
-Slideshare = "https://www.slideshare.net/mandersen94/mark-andersen-dfw-devops-days-2017"
+Speakerdeck = "https://speakerdeck.com/doddfwvol/doddfw2017-recipe-for-devops-success-capital-one-style"
+Slideshare = ""
 Slides = ""
 Website = ""
 +++

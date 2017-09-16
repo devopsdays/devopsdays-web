@@ -21,8 +21,8 @@ location: "Paris" # Defaults to city, but you can make it the venue name.
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
 #  - name: program
-  - name: propose
-    url: https://www.devopsrex.fr/proposer-un-talk/
+#  - name: propose
+#    url: https://www.devopsrex.fr/proposer-un-talk/
   - name: location
     url: https://www.devopsrex.fr/#lelieu
   - name: devopsrex.fr
@@ -89,6 +89,60 @@ proposal_email: "cfp@devopsrex.fr" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: aneo
+    level: platinum
+  - id: automic
+    level: platinum
+  - id: ibm
+    level: platinum
+  - id: rudder
+    level: platinum
+  - id: alter-way
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: xebialabs
+    level: gold
+  - id: admantic
+    level: silver
+  - id: bleemeo
+    level: silver
+  - id: display-interactive
+    level: silver
+  - id: matters
+    level: silver
+  - id: objectif-libre
+    level: silver
+  - id: sqreen
+    level: silver
+  - id: talentio
+    level: silver
+  - id: voyages-sncf
+    level: silver
+  - id: cedexis
+    level: bronze
+  - id: centreon
+    level: bronze
+  - id: globalis
+    level: bronze
+  - id: oxalide
+    level: bronze
+  - id: prologism
+    level: bronze
+  - id: puppet
+    level: bronze
+  - id: synalabs
+    level: bronze
+  - id: synchrone
+    level: bronze
+  - id: waycom
+    level: bronze
+  - id: zenika
+    level: bronze
 sponsors_accepted: "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
