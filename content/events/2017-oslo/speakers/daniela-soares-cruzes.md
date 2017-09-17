@@ -4,6 +4,7 @@ Twitter = ""
 image = "daniela-soares-cruzes.png"
 type = "speaker"
 linktitle = "daniela-soares-cruzes"
+Website = "https://www.sintef.no/en/all-employees/employee/?empId=4504"
 
 +++
 

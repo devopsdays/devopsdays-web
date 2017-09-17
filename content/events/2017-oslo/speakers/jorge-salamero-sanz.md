@@ -4,6 +4,7 @@ Twitter = "bencerillo"
 image = "jorge-salamero-sanz.png"
 type = "speaker"
 linktitle = "jorge-salamero-sanz"
+Linkedin = "https://www.linkedin.com/in/jsalamero"
 
 +++
 

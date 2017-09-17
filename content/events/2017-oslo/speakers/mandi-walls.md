@@ -4,6 +4,7 @@ Twitter = "lnxchk"
 image = "mandi-walls.png"
 type = "speaker"
 linktitle = "mandi-walls"
+Linkedin = "https://www.linkedin.com/in/mandiwalls/"
 
 +++
 

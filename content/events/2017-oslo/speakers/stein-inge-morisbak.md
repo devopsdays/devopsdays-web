@@ -4,6 +4,7 @@ Twitter = "steinim"
 image = "stein-inge-morisbak.png"
 type = "speaker"
 linktitle = "stein-inge-morisbak"
+Linkedin = "https://www.linkedin.com/in/morisbak/"
 
 +++
 

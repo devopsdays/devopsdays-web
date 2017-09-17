@@ -4,6 +4,7 @@ Twitter = "jonhw87"
 image = "jon-hare-winton.png"
 type = "speaker"
 linktitle = "jon-hare-winton"
+Linkedin = "https://www.linkedin.com/in/jonathan-hare-winton-55b54515/"
 
 +++
 

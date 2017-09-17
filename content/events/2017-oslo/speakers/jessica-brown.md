@@ -4,6 +4,8 @@ Twitter = "jessalyn"
 image = "jessica-brown.png"
 type = "speaker"
 linktitle = "jessica-brown"
+Website = "http://jessabe.com/"
+Linkedin = "https://www.linkedin.com/in/jessica-b-6b76b755/"
 
 +++
 
