@@ -179,13 +179,13 @@ program:
     date: 2017-11-01
     start_time: "09:20"
     end_time: "09:30"
-  - title: "Keynote"
-    type: custom
+  - title: "jeff-sussna"
+    type: talk
     date: 2017-11-01
     start_time: "09:30"
     end_time: "10:00"
-  - title: "TBA"
-    type: custom
+  - title: "daniela-soares-cruzes"
+    type: talk
     date: 2017-11-01
     start_time: "10:00"
     end_time: "10:30"
@@ -194,13 +194,13 @@ program:
     date: 2017-11-01
     start_time: "10:30"
     end_time: "10:40"
-  - title: "TBA"
-    type: custom
+  - title: "stein-inge-morisbak"
+    type: talk
     date: 2017-11-01
     start_time: "10:40"
     end_time: "11:10"
-  - title: "TBA"
-    type: custom
+  - title: "jon-hare-winton"
+    type: talk
     date: 2017-11-01
     start_time: "11:15"
     end_time: "11:45"
@@ -254,12 +254,12 @@ program:
     date: 2017-11-02
     start_time: "09:20"
     end_time: "09:30"
-  - title: "Keynote 1"
-    type: custom
+  - title: "hannah-foxwell"
+    type: talk
     date: 2017-11-02
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Keynote 2"
+  - title: "TBA"
     type: custom
     date: 2017-11-02
     start_time: "10:00"
@@ -274,8 +274,8 @@ program:
     date: 2017-11-02
     start_time: "10:40"
     end_time: "11:10"
-  - title: "TBA"
-    type: custom
+  - title: "jessica-brown"
+    type: talk
     date: 2017-11-02
     start_time: "11:15"
     end_time: "11:45"
@@ -309,8 +309,8 @@ program:
     date: 2017-11-02
     start_time: "15:20"
     end_time: "16:00"
-  - title: "Open Space breakout discussions #3"
-    type: custom
+  - title: "patrick-debois"
+    type: talk
     date: 2017-11-02
     start_time: "16:00"
-    end_time: "16:40"
+    end_time: "16:30"
