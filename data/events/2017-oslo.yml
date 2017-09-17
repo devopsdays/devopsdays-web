@@ -294,23 +294,18 @@ program:
     date: 2017-11-02
     start_time: "13:30"
     end_time: "14:30"
-  - title: "Open Space breakout discussions #1"
+  - title: "Open Space breakout discussions"
     type: custom
     date: 2017-11-02
     start_time: "14:30"
-    end_time: "15:10"
+    end_time: "15:20"
   - title: "Break"
     type: custom
     date: 2017-11-02
-    start_time: "15:10"
-    end_time: "15:20"
-  - title: "Open Space breakout discussions #2"
-    type: custom
-    date: 2017-11-02
     start_time: "15:20"
-    end_time: "16:00"
+    end_time: "15:30"
   - title: "patrick-debois"
     type: talk
     date: 2017-11-02
-    start_time: "16:00"
-    end_time: "16:30"
+    start_time: "15:30"
+    end_time: "16:00"
