@@ -4,6 +4,7 @@ city: "Riga" # The city name of the event. Capitalize it.
 #event_twitter: ""
 friendly: "2017-riga" # Four digit year and the city name in lower-case. Don't forget the dash!
 description: "Devopsdays is finally coming to Riga!" # Edit this to suit your preferences
+ga_tracking_id: UA-105774008-1
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  2017-09-18
@@ -12,7 +13,7 @@ enddate:  2017-09-19
 cfp_date_start: 2017-05-30  # start accepting talk proposals.
 cfp_date_end: 2017-07-16  # close your call for proposals.
 cfp_date_announce: 2017-07-30 # inform proposers of status
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: ""
 registration_open: "true"
 
@@ -59,12 +60,23 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
+  - id: taxify
+    level: silver
+  # transport
+  - id: taxify
+    level: transport
   # addons
   - id: accenture-latvia
     level: venue
   - id: accenture-latvia
     level: lunch
   # friends
+  - id: delfi
+    level: friends
+  - id: labs-of-latvia
+    level: friends
+  - id: kursors-lv
+    level: friends
   - id: 4sure
     level: friends
   - id: devclub-lv
@@ -81,6 +93,17 @@ sponsors:
     level: friends
   - id: gdg-daugavpils
     level: friends
+  - id: wallery
+    level: friends
+  - id: agile-lt
+    level: friends
+  - id: startin-lv
+    level: friends
+  - id: riga-tech-girls
+    level: friends
+  - id: slido
+    level: friends
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
@@ -108,13 +131,33 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: "12"
+  - id: transport
+    label: Official Transport
+    max: 1
   #- id: students
   #  label: Student tickets
   #- id: lanyards
   #  label: Lanyards
   #  max: "1"
   - id: friends
-    label: Friends or other
+    label: Friends, media partners and other
+
+ignites:  
+  - title: "janis-orlovs"
+    date: 2017-09-18
+  - title: "mikhail-iljin"
+    date: 2017-09-18
+  - title: "toshaan-bharvani-ignite"
+    date: 2017-09-18
+
+  - title: "esmee-snoey-kiewit"
+    date: 2017-09-19
+  - title: "karlis-broders"
+    date: 2017-09-19
+  - title: "daniel-houston"
+    date: 2017-09-19
+  - title: "antonio-cobo-ignite"
+    date: 2017-09-19
 
 program:
   # Day one
@@ -123,70 +166,70 @@ program:
     date: 2017-09-18
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Day 1 - Opening Welcome"
+  - title: "Opening of the Conference"
     type: custom
     date: 2017-09-18
     start_time: "09:00"
-    end_time: "09:10"
+    end_time: "09:30"
   - title: "kris-buytaert"
     type: talk
     date: 2017-09-18
-    start_time: "09:10"
-    end_time: "09:40"
+    start_time: "10:30"
+    end_time: "10:00"
   - title: "chris-van-tuin"
     type: talk
     date: 2017-09-18
-    start_time: "09:45"
-    end_time: "10:15"
+    start_time: "10:05"
+    end_time: "10:35"
   - title: "michiel-rook"
     type: talk
     date: 2017-09-18
-    start_time: "10:20"
-    end_time: "10:50"
+    start_time: "10:40"
+    end_time: "11:10"
 
   - title: "Break"
     type: custom
     date: 2017-09-18
-    start_time: "10:50"
-    end_time: "11:05"
+    start_time: "11:10"
+    end_time: "11:25"
 
   - title: "samat-galimov"
     type: talk
     date: 2017-09-18
-    start_time: "11:05"
-    end_time: "11:35"
+    start_time: "11:25"
+    end_time: "11:55"
   - title: "uldis-karlovs-karlovskis"
     type: talk
     date: 2017-09-18
-    start_time: "11:40"
-    end_time: "12:10"
+    start_time: "12:00"
+    end_time: "12:30"
 
   - title: "Lunch"
     type: custom
     date: 2017-09-18
-    start_time: "12:10"
-    end_time: "13:10"
+    start_time: "12:30"
+    end_time: "13:30"
 
-  - title: "mandi-walls"
+  - title: "edward-van-deursen"
     type: talk
     date: 2017-09-18
-    start_time: "13:10"
-    end_time: "13:40"
-  - title: "Ignites & Sponsors"
-    type: custom
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
     date: 2017-09-18
-    start_time: "13:45"
-    end_time: "14:15"
+    start_time: "14:00"
+    end_time: "14:20"
   - title: "Openspace Opening and Voting"
     type: open-space
     date: 2017-09-18
-    start_time: "14:15"
-    end_time: "14:35"
+    start_time: "14:20"
+    end_time: "14:40"
 
   - title: "Break"
     type: custom
     date: 2017-09-18
-    start_time: "14:35"
+    start_time: "14:40"
     end_time: "15:00"
 
   - title: "mark-smalley"
@@ -216,7 +259,7 @@ program:
     date: 2017-09-18
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Party"
+  - title: "ChillOps Networking Party"
     type: custom
     date: 2017-09-18
     start_time: "17:15"
@@ -232,12 +275,12 @@ program:
     date: 2017-09-19
     start_time: "09:00"
     end_time: "09:10"
-  - title: "stephen-nelson-smith"
+  - title: "mandi-walls"
     type: talk
     date: 2017-09-19
     start_time: "09:10"
     end_time: "09:40"
-  - title: "matthew-campbel"
+  - title: "antonio-cobo"
     type: talk
     date: 2017-09-19
     start_time: "09:45"
@@ -276,8 +319,8 @@ program:
     date: 2017-09-19
     start_time: "13:10"
     end_time: "13:40"
-  - title: "Ignites & Sponsors"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2017-09-19
     start_time: "13:45"
     end_time: "14:15"

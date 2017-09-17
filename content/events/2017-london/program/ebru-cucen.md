@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Surviving as a Mum in DevOps"
 Type = "talk"
 Speakers = ["ebru-cucen"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "xvh2O9jtnWk"
 +++
 
 I will tell my story, Post-Maternity Blues in DevOps, the challenges I have faced and workarounds done for the last 4.5 years, so that I can still enjoy my family life, thrive with my passion and also remained sane. 

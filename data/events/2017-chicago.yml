@@ -181,11 +181,25 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: tempus
-    level: lanyard
+    level: silver
   - id: chicago-innovation-roundtable
     level: community
+  - id: arity
+    level: gold
+  - id: blacksintechnology
+    level: community
+  - id: slalom
+    level: gold
+  - id: humio
+    level: lanyard
+  - id: allstate
+    level: gold
+  - id: cmegroup
+    level: silver
+  - id: github
+    level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -310,6 +324,10 @@ program:
     date: 2017-09-12
     start_time: "18:00"
     end_time: "late"
+    comments: "This will take place at [10pin](http://10pinchicago.com/)<br>
+    330 N. State St<br>
+    Chicago, IL<br>
+    60654"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2017-09-13

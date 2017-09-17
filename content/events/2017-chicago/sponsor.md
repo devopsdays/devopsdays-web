@@ -57,7 +57,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
               </form>
             </td>
             <td style="width:100px;text-align:center;vertical-align:middle;">
-              <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202017%20Silver%20Sponsorship">Email us</a>
+              <b>SOLD OUT!</b>
               <!-- silver Paypal button  -->
               <!--form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -67,7 +67,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
               </form -->
             </td>
             <td style="width:100px;text-align:center;vertical-align:middle;">
-              <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202017%20Gold%20Sponsorship">Email us</a>
+              <b>SOLD OUT!</b>
               <!-- gold Paypal button  -->
               <!--form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">

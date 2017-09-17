@@ -50,9 +50,9 @@ Current openings:
 
 <strike>Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.</strike> SOLD!
 
-Sponsor Happy hour! You pay us nothing, but run Happy hour. You bring Beer and snacks and get a fun atmosphere at end of day. 
+<strike>Sponsor Happy hour! You pay us nothing, but run Happy hour. You bring Beer and snacks and get a fun atmosphere at end of day. 
                     Make sure the Beer flows like water and your brand will be the hero of the day!                
-* All edible and drinkable things must be purchased from venue supplier.
+* All edible and drinkable things must be purchased from venue supplier.</strike> SOLD!
 
 Sponsor Massages: Work is hard, people need to relax, sponsor their massage and while people take a load off, they are staring at your company logo :)
 

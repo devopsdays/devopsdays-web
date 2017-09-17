@@ -25,7 +25,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "32.1052681,34.8072141" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -106,22 +106,26 @@ sponsors:
     level: coffee
   - id: appsflyer
     level: bronze
-#  - id: bigpanda
-#    level: silver
-#  - id: microsoftazure
-#    level: silver
-#  - id: googlecloud
-#    level: silver
-#  - id: logzio
-#    level: silver
-#  - id: outbrain
-#    level: breakfast
-#  - id: oracle
-#    level: silver
+  - id: bigpanda
+    level: silver
+  - id: microsoftazure
+    level: silver
+  - id: logzio
+    level: silver
+  - id: facebook
+    level: silver
+  - id: quali
+    level: workshoproom
+  - id: outbrain
+    level: breakfast
+  - id: oracle
+    level: silver
+  - id: microsoftazure
+    level: happyhour
 #  - id: elastic
 #    level: bronze
-#  - id: microsoftazure
-#    level: happyhour
+#  - id: googlecloud
+#    level: silver
 
 
 
@@ -161,4 +165,7 @@ sponsor_levels:
     max: 1
   - id: massage
     label: Massage
+    max: 1
+  - id: workshoproom
+    label: WorkShopRoom
     max: 1

@@ -7,7 +7,7 @@ type = "speaker"
 linktitle = ["uldis-karlovs-karlovskis"]
 +++
 
-<h2>Accenture Latvia, devops.lv</h2>
+<h3>Nordics DevOps Lead at Accenture Latvia</h3>
 
 <p>In IT and DevOpsish field since 2005. Currently leading big DevOps people group in Accenture Latvia. Do a lot of talking internally for Accenture and it's clients. Sometimes go speak or at least visit other conferences.</p>
 

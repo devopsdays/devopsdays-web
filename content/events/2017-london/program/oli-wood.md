@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Five years on from the wall of learning"
 Type = "talk"
 Speakers = ["oli-wood"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "AEf5hqkzHeo"
 +++
 
 Whilst working in a tiny remote office for a small tech company I started writing sentences on sheets of A4 with a marker pen whenever I learned a hard lesson. I stuck them to the wall with BluTack so I had to look at them and maybe learnt something. Sadly I didn't keep up the practice when I moved onto working in a much larger company and I wish I had.

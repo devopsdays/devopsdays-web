@@ -1,7 +1,7 @@
 name: "2017-nashville" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Nashville" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdaysbna" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "nashvilledevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 status: "current"
 description: "DevOpsDays arrives in Music City!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -47,11 +47,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Nick Wallace"
-  - name: "Steve Stewart"
-  - name: "Joel Parks"
   - name: "Alicia Sepanik"
   - name: "Brian Pitts"
+  - name: "Calah Brewster"
+  - name: "Joel Parks"
+  - name: "Nick Wallace"
+  - name: "Steve Stewart"
 organizer_email: "organizers-nashville-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-nashville-2017@devopsdays.org" # Put your proposal email address here
 
@@ -64,12 +65,20 @@ sponsors:
     level: gold
   - id: dellemc
     level: gold
+  - id: influxdata
+    level: gold
+  - id: microsoft
+    level: gold
   - id: pivotal
+    level: gold
+  - id: pure-storage
     level: gold
   - id: rubrik
     level: gold
   - id: sjtechcorp
     level: gold
+  - id: appdynamics
+    level: silver
   - id: changehealthcare
     level: silver
   - id: chef
@@ -133,14 +142,14 @@ program:
     start_time: "8:45"
     end_time: "9:00" 
 
-  - title: "Keynote Speaker"
-    type: custom
+  - title: "michael-cote"
+    type: talk
     date: 2017-10-17
     start_time: "9:00"
     end_time: "9:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "robb-schiefer"
+    type: talk
     date: 2017-10-17
     start_time: "9:45"
     end_time: "10:15" 
@@ -157,14 +166,14 @@ program:
     start_time: "10:30"
     end_time: "10:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "adarsh-shah"
+    type: talk
     date: 2017-10-17
     start_time: "10:45"
     end_time: "11:15" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "carlos-nunez"
+    type: talk
     date: 2017-10-17
     start_time: "11:15"
     end_time: "11:45" 
@@ -173,55 +182,55 @@ program:
     type: custom
     date: 2017-10-17
     start_time: "11:45"
-    end_time: "12:15" 
+    end_time: "12:00" 
 
   - title: "Lunch"
     type: custom
     date: 2017-10-17
-    start_time: "12:15"
-    end_time: "1:15" 
+    start_time: "12:00"
+    end_time: "1:00" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "dan-petit"
+    type: talk
     date: 2017-10-17
-    start_time: "1:15"
-    end_time: "1:45" 
+    start_time: "1:00"
+    end_time: "1:30" 
 
-  - title: "Ignites"
-    type: ignite
+  - title: "aaron-kalin"
+    type: talk
     date: 2017-10-17
-    start_time: "1:45"
-    end_time: "2:15"
+    start_time: "1:30"
+    end_time: "2:00"
 
   - title: "Open Spaces Voting"
     type: open-space
     date: 2017-10-17
-    start_time: "2:15"
-    end_time: "2:45"
+    start_time: "2:00"
+    end_time: "2:30"
 
   - title: "Open Spaces"
     type: open-space
     date: 2017-10-17
-    start_time: "2:45"
+    start_time: "2:30"
     end_time: "4:45"
 
   - title: "Close of day"
     type: custom
     date: 2017-10-17
     start_time: "4:45"
-    end_time: "4:50" 
+    end_time: "5:00" 
 
   - title: "Whiskey Tasting"
     type: custom
     date: 2017-10-17
-    start_time: "4:50"
-    end_time: "5:50" 
+    start_time: "5:00"
+    end_time: "6:00" 
 
-  - title: "Open Bar & Hors d'Oeuvres"
+  - title: "Dinner and Open Bar"
     type: custom
     date: 2017-10-17
-    start_time: "5:50"
-    end_time: "7:50" 
+    start_time: "6:00"
+    end_time: "8:00" 
 
   - title: "Registration and Breakfast"
     type: custom
@@ -235,14 +244,14 @@ program:
     start_time: "8:45"
     end_time: "9:00" 
 
-  - title: "Keynote Speaker"
-    type: custom
+  - title: "john-willis"
+    type: talk
     date: 2017-10-18
     start_time: "9:00"
     end_time: "9:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "aziz-shamim"
+    type: talk
     date: 2017-10-18
     start_time: "9:45"
     end_time: "10:15" 
@@ -259,14 +268,14 @@ program:
     start_time: "10:30"
     end_time: "10:45" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "jeffrey-sykes"
+    type: talk
     date: 2017-10-18
     start_time: "10:45"
     end_time: "11:15" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "ned-bauerle"
+    type: talk
     date: 2017-10-18
     start_time: "11:15"
     end_time: "11:45" 
@@ -275,36 +284,36 @@ program:
     type: custom
     date: 2017-10-18
     start_time: "11:45"
-    end_time: "12:15" 
+    end_time: "12:00" 
 
   - title: "Lunch"
     type: custom
     date: 2017-10-18
-    start_time: "12:15"
-    end_time: "1:15" 
+    start_time: "12:00"
+    end_time: "1:00" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "peter-varhol"
+    type: talk
     date: 2017-10-18
-    start_time: "1:15"
-    end_time: "1:45" 
+    start_time: "1:00"
+    end_time: "1:30" 
 
-  - title: "Speaker"
-    type: custom
+  - title: "tom-mclaughlin"
+    type: talk
     date: 2017-10-18
-    start_time: "1:45"
-    end_time: "2:15" 
+    start_time: "1:30"
+    end_time: "2:00" 
 
-  - title: "Speaker"
+  - title: "Ignites"
     type: ignite
     date: 2017-10-18
-    start_time: "2:15"
-    end_time: "2:45"
+    start_time: "2:00"
+    end_time: "2:30"
 
   - title: "Open Spaces"
     type: open-space
     date: 2017-10-18
-    start_time: "2:45"
+    start_time: "2:30"
     end_time: "4:45"
 
   - title: "Close of Event"
@@ -312,3 +321,15 @@ program:
     date: 2017-10-18
     start_time: "4:45"
     end_time: "5:00" 
+
+ignites:
+  - title: "tennis-smith"
+    date: 2017-10-18
+  - title: "stuart-ainsworth"
+    date: 2017-10-18
+  - title: "kylie-schleicher"
+    date: 2017-10-18
+  - title: "gabe-weaver"
+    date: 2017-10-18
+  - title: "david-laulusa"
+    date: 2017-10-18

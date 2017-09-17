@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Healthy Minds in a Healthy Community"
 Type = "talk"
 Speakers = ["erik-sasha-romijn"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "TiQF9XFhse8"
 +++
 
 

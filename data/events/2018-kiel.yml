@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Sabine Wojcieszak"
     twitter: "sabinebendixen"
-    bio: "Sabine works as a consultant and trainer for companies in the tech industry on topics of team communication, soft skills, culture and leadership. She is an experienced speaker at international conferences and author of many articles and blog posts on these issues."
+    bio: "Sabine works as Enthusiastic Agile & Devops Enabler at getNext IT. She helps companies in the tech industry to improve team communication, soft skills, culture and leadership. She is an experienced speaker at international conferences and author of many articles and blog posts on these issues."
 
   - name: "Wilhelm Hasselbring"
     bio: "Prof. Dr. Wilhelm (Willi) Hasselbring is professor of Software Engineering at Kiel University. In the competence cluster Software Systems Engineering (KoSSE), he coordinates technology transfer projects with (local) industry. In the excellence cluster Future Ocean, a large-scale collaborative project of Kiel University and GEOMAR, he is principal investigator and coordinator of the research area Ocean Observations."
@@ -80,8 +80,8 @@ proposal_email: "proposals-kiel-2018@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: 2018-coreadmin
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community

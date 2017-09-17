@@ -29,8 +29,6 @@ registration_open: "true"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-
-#  - name: speakers
   - name: location
   - name: registration
   - name: propose
@@ -39,6 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://drive.google.com/file/d/0Bz33o_Xkz6GYQTF3Z1BFQmthdFU/view?usp=sharing
   - name: sponsor
   - name: program
+  - name: speakers
   - name: contact
   - name: conduct
 
@@ -157,10 +156,31 @@ sponsors:
     level: silver
   - id: teksystems
     level: bronze
+  - id: newrelic
+    level: gold
+  - id: messenger-coffee
+    level: community
+  - id: vml
+    level: bronze
+  - id: codero
+    level: community
+  - id: gitlab
+    level: social
+  - id: cyberark
+    level: silver
+  - id: bluebaytechnologies
+    level: bronze
+  - id: pagerduty
+    level: silver
+  - id: devopsinstitute
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
     label: Gold
+  - id: social
+    label: Evening Social
+    limit: 1
   - id: silver
     label: Silver
   - id: bronze
@@ -172,83 +192,83 @@ program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2017-09-21
-    start_time: "07:30"
-    end_time: "08:30"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
     date: 2017-09-21
-    start_time: "08:30"
-    end_time: "09:00"
+    start_time: "09:00"
+    end_time: "09:20"
   - title: "chloe-condon"
     type: talk
     date: 2017-09-21
-    start_time: "09:00"
-    end_time: "09:30"
+    start_time: "09:20"
+    end_time: "09:50"
   - title: "Sponsors"
     type: custom
     date: 2017-09-21
-    start_time: "09:30"
-    end_time: "09:35"
+    start_time: "09:50"
+    end_time: "09:55"
   - title: "matthew-boeckman"
     type: talk
     date: 2017-09-21
-    start_time: "09:35"
-    end_time: "10:05"
+    start_time: "09:55"
+    end_time: "10:25"
   - title: "Break"
     type: custom
     date: 2017-09-21
-    start_time: "10:05"
-    end_time: "10:20"
+    start_time: "10:25"
+    end_time: "10:40"
   - title: "jonathan-stacks"
     type: talk
     date: 2017-09-21
-    start_time: "10:20"
-    end_time: "10:50"
+    start_time: "10:40"
+    end_time: "11:10"
   - title: "Sponsors"
     type: custom
     date: 2017-09-21
-    start_time: "10:50"
-    end_time: "11:00"
+    start_time: "11:10"
+    end_time: "11:15"
   - title: "julie-stark"
     type: talk
     date: 2017-09-21
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: "Open Space Opening"
-    type: open-space
-    date: 2017-09-21
-    start_time: "11:30"
-    end_time: "11:50"
+    start_time: "11:15"
+    end_time: "11:45"
   - title: "Lunch"
     type: custom
     date: 2017-09-21
-    start_time: "11:50"
-    end_time: "13:10"
+    start_time: "11:45"
+    end_time: "12:45"
+  - title: "Ignite Karaoke"
+    type: custom
+    date: 2017-09-21
+    start_time: "12:45"
+    end_time: "13:00"
   - title: "james-wickett"
     type: talk
     date: 2017-09-21
-    start_time: "13:10"
-    end_time: "13:40"
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2017-09-21
-    start_time: "13:50"
-    end_time: "14:50"
+    start_time: "13:40"
+    end_time: "14:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-21
+    start_time: "14:40"
+    end_time: "15:00"
   - title: "Open Space #1"
     type: open-space
     date: 2017-09-21
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Open Space #2"
     type: open-space
     date: 2017-09-21
-    start_time: "15:25"
-    end_time: "15:55"
-  - title: "Break"
-    type: custom
-    date: 2017-09-21
-    start_time: "15:55"
-    end_time: "16:10"
+    start_time: "15:35"
+    end_time: "16:05"
   - title: "Open Space #3"
     type: open-space
     date: 2017-09-21
@@ -259,12 +279,12 @@ program:
     date: 2017-09-21
     start_time: "16:40"
     end_time: "16:50"
-  - title: "Close Day"
+  - title: "Close Day and Raffle"
     type: custom
     date: 2017-09-21
     start_time: "16:50"
     end_time: "17:00"
-  - title: "Evening event (TBD)"
+  - title: "Evening Event: Hamburger Mary's for Food, Drinks & Bingo"
     type: custom
     date: 2017-09-21
     start_time: "18:00"
@@ -280,7 +300,7 @@ program:
     date: 2017-09-22
     start_time: "09:00"
     end_time: "09:15"
-  - title: "michael-coté"
+  - title: "michael-cote"
     type: talk
     date: 2017-09-22
     start_time: "09:15"
@@ -289,77 +309,77 @@ program:
     type: custom
     date: 2017-09-22
     start_time: "09:45"
-    end_time: "09:55"
+    end_time: "09:50"
   - title: "mark-shead"
     type: talk
     date: 2017-09-22
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "09:50"
+    end_time: "10:20"
   - title: "Break"
     type: custom
     date: 2017-09-22
-    start_time: "10:25"
-    end_time: "10:40"
+    start_time: "10:20"
+    end_time: "10:35"
   - title: "kishore-jalleda"
     type: talk
     date: 2017-09-22
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:35"
+    end_time: "11:05"
   - title: "Sponsors"
     type: custom
     date: 2017-09-22
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:05"
+    end_time: "11:10"
   - title: "jyoti-mittal"
     type: talk
     date: 2017-09-22
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Open Space Opening"
-    type: open-space
-    date: 2017-09-22
-    start_time: "11:50"
-    end_time: "12:10"
+    start_time: "11:10"
+    end_time: "11:40"
   - title: "Lunch"
     type: custom
     date: 2017-09-22
-    start_time: "12:10"
-    end_time: "13:30"
+    start_time: "11:40"
+    end_time: "12:40"
+  - title: "Raffle and Ignite Karaoke"
+    type: custom
+    date: 2017-09-22
+    start_time: "12:40"
+    end_time: "13:00"
   - title: "noah-kantrowitz"
     type: talk
     date: 2017-09-22
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:00"
+    end_time: "13:30"
   - title: "Ignites"
     type: ignite
     date: 2017-09-22
-    start_time: "14:00"
-    end_time: "15:00"
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-22
+    start_time: "14:30"
+    end_time: "14:50"
   - title: "Open Space #1"
     type: open-space
     date: 2017-09-22
-    start_time: "15:10"
-    end_time: "15:40"
+    start_time: "14:50"
+    end_time: "15:20"
   - title: "Open Space #2"
     type: open-space
     date: 2017-09-22
-    start_time: "15:45"
-    end_time: "16:15"
-  - title: "Break"
-    type: custom
-    date: 2017-09-22
-    start_time: "16:15"
-    end_time: "16:35"
+    start_time: "15:25"
+    end_time: "15:55"
   - title: "Open Space Summary"
     type: open-space
     date: 2017-09-22
-    start_time: "16:40"
-    end_time: "17:00"
+    start_time: "15:55"
+    end_time: "16:05"
   - title: "Closing and Raffle"
     type: custom
     date: 2017-09-22
-    start_time: "17:00"
-    end_time: "17:20"
+    start_time: "16:05"
+    end_time: "16:20"
 
 ignites:
   - title: "josh-wood"
@@ -376,12 +396,8 @@ ignites:
     date: 2017-09-21
   - title: "dustin-collins"
     date: 2017-09-21
-  - title: "ignite-karaoke"
-    date: 2017-09-21
-  - title: "ignite-karaoke"
-    date: 2017-09-21
-  - title: "ignite-karaoke"
-    date: 2017-09-21
+  #- title: "ignite-karaoke"
+  #  date: 2017-09-21
   - title: "dane-hammer"
     date: 2017-09-22
   - title: "david-hollinger-iii"
@@ -396,13 +412,8 @@ ignites:
     date: 2017-09-22
   - title: "alison-stanton"
     date: 2017-09-22
-  - title: "ignite-karaoke"
-    date: 2017-09-22
-  - title: "ignite-karaoke"
-    date: 2017-09-22
-  - title: "ignite-karaoke"
-    date: 2017-09-22
-
+  #- title: "ignite-karaoke"
+  #  date: 2017-09-22
 
 
 #speakers:

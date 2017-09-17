@@ -38,7 +38,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
         <li>Logo on the back of the DevOps Days t-shirts</li>
         <li>Logo co-branded on conference lanyard</li>
         <li>BIGGEST logo on the onsite event signage</li>
-        <li>Shoutout via Twitter (<a href="https://twitter.com/devopsdaysbna">@DevOpsDaysBNA</a>)</li>
+        <li>Shoutout via Twitter (<a href="https://twitter.com/nashvilledevops">@nashvilledevops</a>)</li>
         <li>Shared table for giveaways</li>
       </ul>
       <ul>
@@ -62,7 +62,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
 <table width=500px>
   <tr>
     <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sold Out</h4></td>
+    <td><h4>Sold Out. Contact us for other options.</h4></td>
   </tr>
   <tr>
     <td>
@@ -85,7 +85,7 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
 <table width=500px>
   <tr>
     <td width="70%"><h4>Details</h4></td>
-    <td><h4>Sold Out</h4></td>
+    <td><h4>Sold Out. Contact us for other options.</h4></td>
   </tr>
   <tr>
     <td>
@@ -106,22 +106,25 @@ Please do not hesitate to reach out to us at {{< email_organizers >}} if you hav
 
 <table>
   <tr>
-    <td width="70%"><h4>Details</h4></td>
+    <td width="70%"><h4>Types</h4></td>
     <td><h4>Sponsor Now</h4></td>
   </tr>
   <tr>
     <td>
       <ul>
-        <li>Social Hour</li>
-        <li>Whisky Tasting Hour – with co-branded shot glasses for guests</li>
-        <li>Coffee – signage by the coffee displays with your logo throughout the day (option to have coffee cup sleeves printed is extra cost)</li>
-        <li>T-shirt logo printed on sleeve (only available to Gold sponsor)</li>
-        <li>Breakfast - signage by the breakfast tables and in the eating area with your logo in the morning before sessions</li>
-	<li>Lunch - signage by the lunch tables and in the eating area with your logo during lunch</li>
+        <li>Happy Hour</li>
+        <li>Whisky Tasting Hour</li>
+        <li>Coffee</li>
+        <li>Breakfast</li>
+	<li>Lunch</li>
+	<li>Wifi</li>
+	<li>Video</li>
+        <li>T-shirt logo</li>
+	<li>Swag Bag</li>
       </ul>
   </td>
   <td>
-    <i>Please reach out to the organizers at {{< email_organizers >}} for specific pricing on these A la carte sponsorship opportunities.</i>
+    <i>Please reach out to the organizers at {{< email_organizers >}} for specific details and pricing on these A la carte sponsorship opportunities.</i>
   </td>
   </tr>
 </table>
