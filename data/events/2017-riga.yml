@@ -192,12 +192,12 @@ program:
     date: 2017-09-18
     start_time: "11:10"
     end_time: "11:25"
-
-  - title: "samat-galimov"
+  - title: "antonio-cobo"
     type: talk
     date: 2017-09-18
     start_time: "11:25"
     end_time: "11:55"
+
   - title: "uldis-karlovs-karlovskis"
     type: talk
     date: 2017-09-18
@@ -280,7 +280,7 @@ program:
     date: 2017-09-19
     start_time: "09:10"
     end_time: "09:40"
-  - title: "antonio-cobo"
+  - title: "samat-galimov"
     type: talk
     date: 2017-09-19
     start_time: "09:45"
