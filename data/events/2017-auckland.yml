@@ -86,6 +86,8 @@ sponsors:
     level: gold
   - id: 2016-bnz
     level: gold
+  - id: alc
+    level: gold
   - id: k2
     level: silver
   - id: 2016-xero
@@ -97,6 +99,8 @@ sponsors:
   - id: flux-PS
     level: silver
   - id: chef
+    level: silver
+  - id: fairfax
     level: silver
   - id: datacom
     level: bronze
