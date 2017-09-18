@@ -1,7 +1,7 @@
 +++
-Talk_date = "2017-11-01"
-Talk_start_time = "10:40"
-Talk_end_time = "11:10"
+Talk_date = "2017-11-02"
+Talk_start_time = "11:15"
+Talk_end_time = "11:45"
 Title = "Robots took my job. But that's okay."
 Type = "talk"
 Speakers = ["jessica-brown"]
