@@ -1,7 +1,7 @@
 +++
 Title = "Akshay Ranganath and Duncan McAllister"
 Twitter = "rakshay"
-image = ""
+image = "akshay-ranganath.jpg"
 type = "speaker"
 linktitle = "akshay-ranganath-and-duncan-mcallister"
 
