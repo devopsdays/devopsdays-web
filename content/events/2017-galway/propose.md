@@ -9,6 +9,8 @@ Description = "Propose a talk for devopsdays Galway 2017"
 
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSe6LUVcpbXC35ZaV_vEpWcxQTcU5cFhP1ZxS7mHf0-U2hQVyg/viewform">Click here to propose a Talk</a></h2><br />
 
+If you need examples of CFP abstracts, click any of the following links: [Example 1](https://www.devopsdays.org/events/2017-riga/program/chris-van-tuin/) [Example 2](https://www.devopsdays.org/events/2017-riga/program/michiel-rook/) [Example 3](https://www.devopsdays.org/events/2017-riga/program/dmitry-buzdin/)
+
 <strong>There are two types</strong>:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
