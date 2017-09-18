@@ -1,7 +1,7 @@
 +++
 Title = "Keshav Vasudevan"
 Twitter = ""
-image = ""
+image = "keshav-vasudevan.jpg"
 type = "speaker"
 linktitle = "keshav-vasudevan"
 
