@@ -126,10 +126,10 @@ sponsors:
     level: gold
   - id: evry
     level: gold
-#  - id: chef-before-20170714
-#    level: gold
-#  - id: telenor-digital
-#    level: gold
+  - id: chef
+    level: gold
+  - id: telenor-digital
+    level: gold
 #  - id: praqma
 #    level: gold
 #  - id: knowit
