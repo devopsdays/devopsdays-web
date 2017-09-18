@@ -174,7 +174,7 @@ program:
   - title: "kris-buytaert"
     type: talk
     date: 2017-09-18
-    start_time: "10:30"
+    start_time: "9:30"
     end_time: "10:00"
   - title: "chris-van-tuin"
     type: talk
@@ -192,12 +192,12 @@ program:
     date: 2017-09-18
     start_time: "11:10"
     end_time: "11:25"
-
-  - title: "samat-galimov"
+  - title: "antonio-cobo"
     type: talk
     date: 2017-09-18
     start_time: "11:25"
     end_time: "11:55"
+
   - title: "uldis-karlovs-karlovskis"
     type: talk
     date: 2017-09-18
@@ -259,7 +259,7 @@ program:
     date: 2017-09-18
     start_time: "17:00"
     end_time: "17:15"
-  - title: "ChillOps Networking Party"
+  - title: "Dinner & Networking ChillOps"
     type: custom
     date: 2017-09-18
     start_time: "17:15"
@@ -280,7 +280,7 @@ program:
     date: 2017-09-19
     start_time: "09:10"
     end_time: "09:40"
-  - title: "antonio-cobo"
+  - title: "samat-galimov"
     type: talk
     date: 2017-09-19
     start_time: "09:45"

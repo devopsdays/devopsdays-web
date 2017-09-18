@@ -1,7 +1,7 @@
 +++
-Talk_date = "19.09.2017"
-Talk_start_time = "09:45"
-Talk_end_time = "10:15"
+Talk_date = "18.09.2017"
+Talk_start_time = "11:25"
+Talk_end_time = "11:55"
 Title = "Project Management: from Stone Age to DevOps"
 Type = "talk"
 Speakers = ["antonio-cobo"]

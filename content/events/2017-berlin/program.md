@@ -96,7 +96,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-	- 
+	    <a href="/events/2017-berlin/program/keshav-vasudevan/">Keshav Vasudevan - Understanding and Executing on API Developer Experience</a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
