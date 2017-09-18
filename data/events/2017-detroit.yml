@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: llamasoft
     level: gold
+  - id: dynatrace
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
@@ -104,7 +106,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 16
   - id: silver
     label: Silver
     max: 4
@@ -112,9 +114,6 @@ sponsor_levels:
     label: Bronze
   - id: lunch
     label: Lunch
-    max: 1
-  - id: lanyard
-    label: Lanyard
     max: 1
   - id: party
     label: Party
