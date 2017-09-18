@@ -124,6 +124,8 @@ sponsors:
     level: gold
   - id: avaya
     level: bronze
+  - id: cisco
+    level: bronze
   - id: daysha-consulting
     level: services
   - id: gdg-galway
