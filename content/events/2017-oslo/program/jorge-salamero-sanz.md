@@ -1,7 +1,7 @@
 +++
 Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "11:50"
+Talk_end_time = "12:10"
 Title = "15 Kubernetes failure points you should watch"
 Type = "talk"
 Speakers = ["jorge-salamero-sanz"]

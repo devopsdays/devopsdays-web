@@ -1,7 +1,7 @@
 +++
 Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_start_time = "11:50"
+Talk_end_time = "12:10"
 Title = "Configuration Management is Old and Boring"
 Type = "talk"
 Speakers = ["mandi-walls"]
