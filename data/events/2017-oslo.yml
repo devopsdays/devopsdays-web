@@ -128,14 +128,14 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: telenor-digital
-    level: gold
+#  - id: telenor-digital
+#    level: gold
 #  - id: praqma
 #    level: gold
 #  - id: knowit
 #    level: gold
-#  - id: microsoft
-#    level: gold
+  - id: microsoft
+    level: gold
 #  - id: tripletex
 #    level: gold
 #  - id: atlassian
