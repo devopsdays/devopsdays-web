@@ -1,7 +1,7 @@
 +++
 Title = "Andrea Giardini"
 Twitter = ""
-image = ""
+image = "andrea-giardini.jpg"
 type = "speaker"
 linktitle = "andrea-giardini"
 
