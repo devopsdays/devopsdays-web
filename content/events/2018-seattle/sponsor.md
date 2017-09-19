@@ -26,7 +26,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
         <th><center><b>Gold</b></center></th>
       </tr>
       <tr>
-        <td>Pricing</td><td>$1000</td><td>$3000</td><td>$7000</td>
+        <td>Pricing</td><td>$1000</td><td>$4000</td><td>$7000</td>
       </tr>
       <tr>
         <td colspan="4">&nbsp;</td>
