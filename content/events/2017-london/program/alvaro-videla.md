@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Metaphors We Compute By"
 Type = "talk"
 Speakers = ["alvaro-videla"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "hKOzJWNRBWA"
 +++
 
 We think in words, we talk with words, we understand the world thanks to words. Metaphors take words to the next level explaining concepts that were escaping our understanding before. In 1980 George Lakoff revolutionised the Linguistic and Philosophic worlds when he studied how metaphors affect our thinking, how they influence our actions and even shape who we are. What happens with the metaphors that we use in the Software Industry?

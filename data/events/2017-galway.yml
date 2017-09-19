@@ -11,8 +11,8 @@ enddate:  2017-11-14
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2017-08-17
-cfp_date_end:  2017-09-17
-cfp_date_announce:  2017-09-20
+cfp_date_end:  2017-09-20
+cfp_date_announce:  2017-09-22
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -26,9 +26,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "53.274193,-9.043818" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Radisson Blu" # Defaults to city, but you can make it the venue name.
+location: "Inis Mor Ballroom" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Lough Atalia Rd, Galway, Ireland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Radisson Blu Hotel & Spa, Lough Atalia Rd, Galway, Ireland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -122,6 +122,10 @@ sponsors:
 #   level: community
   - id: pivotal
     level: gold
+  - id: avaya
+    level: bronze
+  - id: cisco
+    level: bronze
   - id: daysha-consulting
     level: services
   - id: gdg-galway

@@ -78,6 +78,14 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: cengage
+    level: gold
+  - id: rubrik
+    level: gold
+  - id: llamasoft
+    level: gold
+  - id: dynatrace
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
@@ -87,6 +95,8 @@ sponsors:
   - id: stockx
     level: silver
   - id: proquest
+    level: bronze
+  - id: ally
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -106,9 +116,6 @@ sponsor_levels:
     label: Bronze
   - id: lunch
     label: Lunch
-    max: 1
-  - id: lanyard
-    label: Lanyard
     max: 1
   - id: party
     label: Party

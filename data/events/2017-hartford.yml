@@ -60,6 +60,8 @@ sponsors:
     level: gold
   - id: victorops
     level: silver
+  - id: cyberark
+    level: silver
   - id: arresteddevops
     level: community
   - id: victorops
@@ -67,6 +69,8 @@ sponsors:
   - id: code-monkey
     level: community
   - id: phishme
+    level: bronze
+  - id: sonatype
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

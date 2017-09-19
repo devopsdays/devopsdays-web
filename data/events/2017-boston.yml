@@ -61,6 +61,7 @@ team_members: # Name is the only required field for team members.
     twitter: "michaeltclark"
     bio: "Michael is a veteran systems management professional. In a career that has ranged from academic computing to finance to manufacturing and now, professional services, he has worked as a front-line technician, a back-office systems engineer, an enterprise architect, and a leader of teams of 100+ technologists in hybrid WAN, large-scale domestic and global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is equally comfortable learning something new at a command line and in the C-suite helping senior executives make sense of their IT strategy and spend. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
     image: "michaelclark.jpg"
+    employer: "Renaissance Tech & Media"
   - name: "James Meickle"
     employer: "Quantopian"
     github: eronarn
@@ -143,8 +144,6 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
-  - id: treasuredata
-    level: recruiting
   - id: opsgenie
     level: platinum
   - id: thoughtworks-gocd
@@ -185,6 +184,12 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: pagerduty
+    level: gold
+  - id: actblue
+    level: gold
+  - id: 2017-veracode
+    level: gold
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -197,12 +202,7 @@ sponsor_levels:
 
   - id: gold
     label: Gold
-    max: 10
-  - id: silver
-    label: Silver
-
-  - id: recruiting
-    label: Recruiting
+  
   - id: community
     label: Community
 
@@ -227,16 +227,16 @@ program:
     type: talk
     date: 2017-09-18
     start_time: "09:50"
-    end_time: "10:25"
+    end_time: "10:30"
   - title: "chloe-condon"
     type: talk
     date: 2017-09-18
     start_time: "09:50"
-    end_time: "10:25"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-09-18
-    start_time: "10:25"
+    start_time: "10:30"
     end_time: "10:40"
   - title: "matthew-boeckman"
     type: talk
@@ -266,13 +266,13 @@ program:
   - title: "david-n-blankedelman"
     type: talk
     date: 2017-09-18
-    start_time: "13:00"
+    start_time: "12:57"
     end_time: "13:15"
   - title: "ben-hagen"
     type: talk
     date: 2017-09-18
     start_time: "13:15"
-    end_time: "14:00"
+    end_time: "14:05"
   - title: "Break"
     type: custom
     date: 2017-09-18
@@ -282,27 +282,32 @@ program:
     type: workshop
     date: 2017-09-18
     start_time: "14:15"
-    end_time: "15:00"
+    end_time: "15:15"
   - title: "Open Space #1"
     type: open-space
     date: 2017-09-18
     start_time: "14:15"
-    end_time: "15:00"
-  - title: "Open Space #2 / Snack Break"
+    end_time: "15:15"
+  - title: "Open Space #2"
     type: open-space
     date: 2017-09-18
-    start_time: "15:00"
-    end_time: "16:00"
+    start_time: "15:15"
+    end_time: "15:45"
   - title: "flynn"
     type: workshop
     date: 2017-09-18
-    start_time: "16:00"
+    start_time: "15:45"
     end_time: "16:45"
   - title: "Open Space #3"
     type: open-space
     date: 2017-09-18
     start_time: "16:00"
     end_time: "16:45"
+  - title: "Day One Wrap Up"
+    type: custom
+    date: 2017-09-18
+    start_time: "16:45"
+    end_time: "17:00"
   - title: "Evening Event"
     type: custom
     date: 2017-09-18
@@ -328,17 +333,17 @@ program:
   - title: "leon-fayer"
     type: talk
     date: 2017-09-19
-    start_time: "09:50"
-    end_time: "10:25"
+    start_time: "09:53"
+    end_time: "10:30"
   - title: "adam-kaufman"
     type: talk
     date: 2017-09-19
-    start_time: "09:50"
-    end_time: "10:25"
+    start_time: "09:53"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-09-19
-    start_time: "10:25"
+    start_time: "10:30"
     end_time: "10:40"
   - title: "rachael-byrne"
     type: talk
@@ -369,35 +374,35 @@ program:
     type: talk
     date: 2017-09-19
     start_time: "13:00"
-    end_time: "13:45"
+    end_time: "13:35"
   - title: "richard-li"
     type: workshop
     date: 2017-09-19
-    start_time: "13:45"
-    end_time: "14:30"
+    start_time: "13:50"
+    end_time: "14:50"
   - title: "Open Space #1"
     type: open-space
     date: 2017-09-19
-    start_time: "13:45"
-    end_time: "14:30"
-  - title: "Open Space #2 / Snack Break"
+    start_time: "13:50"
+    end_time: "14:50"
+  - title: "Open Space #2"
     type: open-space
     date: 2017-09-19
-    start_time: "14:30"
-    end_time: "15:10"
+    start_time: "14:50"
+    end_time: "15:35"
   - title: "Open Space #3"
     type: open-space
     date: 2017-09-19
-    start_time: "15:10"
-    end_time: "15:55"
+    start_time: "15:35"
+    end_time: "16:35"
   - title: "phil-lombardi"
-    type: workshop
+    type: talk
     date: 2017-09-19
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Open Space #4"
-    type: open-space
+    start_time: "15:35"
+    end_time: "16:35"
+  - title: "Event Wrap Up"
+    type: custom
     date: 2017-09-19
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "16:35"
+    end_time: "17:00"
   

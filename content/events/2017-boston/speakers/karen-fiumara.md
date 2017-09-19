@@ -1,5 +1,5 @@
 +++
-Title = "Dr. Karen Fiumara"
+Title = "Karen Fiumara"
 type = "speaker"
 linktitle = "karen-fiumara"
 image = "karen-fiumara.jpg"

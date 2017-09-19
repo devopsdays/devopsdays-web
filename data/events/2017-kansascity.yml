@@ -168,6 +168,12 @@ sponsors:
     level: social
   - id: cyberark
     level: silver
+  - id: bluebaytechnologies
+    level: bronze
+  - id: pagerduty
+    level: silver
+  - id: devopsinstitute
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold
@@ -278,7 +284,7 @@ program:
     date: 2017-09-21
     start_time: "16:50"
     end_time: "17:00"
-  - title: "Evening event (TBD)"
+  - title: "Evening Event: Hamburger Mary's for Food, Drinks & Bingo"
     type: custom
     date: 2017-09-21
     start_time: "18:00"

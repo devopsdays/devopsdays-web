@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-11-01"
+Talk_start_time = "09:30"
+Talk_end_time = "10:00"
 Title = "Operationalizing Empathy"
 Type = "talk"
 Speakers = ["jeff-sussna"]

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Chaos Theory + Civil Rights = 21st Century Corporate Practices"
 Type = "talk"
 Speakers = ["kate-ertmann"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "pe06by1vSXg"
 +++
 
 There is much discussion about systemic actions and attitudes that have been the basis for so much homogeneity and exclusiveness in large corporations. Patriarchy. Ageism. Cultural Biases. 

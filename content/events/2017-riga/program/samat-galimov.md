@@ -1,7 +1,7 @@
 +++
-Talk_date = "18.09.2017"
-Talk_start_time = "11:05"
-Talk_end_time = "11:35"
+Talk_date = "19.09.2017"
+Talk_start_time = "09:45"
+Talk_end_time = "10:15"
 Title = "Homebrew CI/CD for a startup — bumpy road ahead"
 Type = "talk"
 Speakers = ["samat-galimov", "dmitry-zakharov"]

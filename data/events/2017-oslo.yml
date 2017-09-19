@@ -126,16 +126,16 @@ sponsors:
     level: gold
   - id: evry
     level: gold
-#  - id: chef-before-20170714
-#    level: gold
+  - id: chef
+    level: gold
 #  - id: telenor-digital
 #    level: gold
 #  - id: praqma
 #    level: gold
 #  - id: knowit
 #    level: gold
-#  - id: microsoft
-#    level: gold
+  - id: microsoft
+    level: gold
 #  - id: tripletex
 #    level: gold
 #  - id: atlassian
@@ -179,13 +179,13 @@ program:
     date: 2017-11-01
     start_time: "09:20"
     end_time: "09:30"
-  - title: "Keynote"
-    type: custom
+  - title: "jeff-sussna"
+    type: talk
     date: 2017-11-01
     start_time: "09:30"
     end_time: "10:00"
-  - title: "TBA"
-    type: custom
+  - title: "daniela-soares-cruzes"
+    type: talk
     date: 2017-11-01
     start_time: "10:00"
     end_time: "10:30"
@@ -194,13 +194,13 @@ program:
     date: 2017-11-01
     start_time: "10:30"
     end_time: "10:40"
-  - title: "TBA"
-    type: custom
+  - title: "stein-inge-morisbak"
+    type: talk
     date: 2017-11-01
     start_time: "10:40"
     end_time: "11:10"
-  - title: "TBA"
-    type: custom
+  - title: "jon-hare-winton"
+    type: talk
     date: 2017-11-01
     start_time: "11:15"
     end_time: "11:45"
@@ -254,12 +254,12 @@ program:
     date: 2017-11-02
     start_time: "09:20"
     end_time: "09:30"
-  - title: "Keynote 1"
-    type: custom
+  - title: "hannah-foxwell"
+    type: talk
     date: 2017-11-02
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Keynote 2"
+  - title: "TBA"
     type: custom
     date: 2017-11-02
     start_time: "10:00"
@@ -274,8 +274,8 @@ program:
     date: 2017-11-02
     start_time: "10:40"
     end_time: "11:10"
-  - title: "TBA"
-    type: custom
+  - title: "jessica-brown"
+    type: talk
     date: 2017-11-02
     start_time: "11:15"
     end_time: "11:45"
@@ -294,23 +294,18 @@ program:
     date: 2017-11-02
     start_time: "13:30"
     end_time: "14:30"
-  - title: "Open Space breakout discussions #1"
+  - title: "Open Space breakout discussions"
     type: custom
     date: 2017-11-02
     start_time: "14:30"
-    end_time: "15:10"
+    end_time: "15:20"
   - title: "Break"
     type: custom
     date: 2017-11-02
-    start_time: "15:10"
-    end_time: "15:20"
-  - title: "Open Space breakout discussions #2"
-    type: custom
-    date: 2017-11-02
     start_time: "15:20"
-    end_time: "16:00"
-  - title: "Open Space breakout discussions #3"
-    type: custom
+    end_time: "15:30"
+  - title: "patrick-debois"
+    type: talk
     date: 2017-11-02
-    start_time: "16:00"
-    end_time: "16:40"
+    start_time: "15:30"
+    end_time: "16:00"

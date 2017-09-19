@@ -54,14 +54,14 @@ In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+	<a href="https://devopsdaysohio2017.eventbrite.com/">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
