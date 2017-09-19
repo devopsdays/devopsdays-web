@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Integrating CDN into your CI/CD Pipeline"
 Type = "talk"
-Speakers = ["akshay-ranganath-and-duncan-mcallister"]
+Speakers = ["akshay-ranganath", "duncan-mcallister"]
 +++
 
 Content Delivery Networks (CDNs) are an essential part of ensuring fast, scalable and reliable internet applications. Yet, they are introduced during QA or Prod deployment.
