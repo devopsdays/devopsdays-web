@@ -151,7 +151,7 @@ program:
     date: 2017-10-25
     start_time: "11:20"
     end_time: "11:50"
-  - title: "Closing Keynote"
+  - title: "andrew-clay-shafer"
     type: talk
     date: 2017-10-25
     start_time: "11:50"
@@ -212,7 +212,7 @@ program:
     date: 2017-10-26
     start_time: "08:45"
     end_time: "09:00"
-  - title: ""
+  - title: "sriram-narayan"
     type: talk
     date: 2017-10-26
     start_time: "09:00"
@@ -247,7 +247,7 @@ program:
     date: 2017-10-26
     start_time: "11:20"
     end_time: "11:50"
-  - title: "Closing Keynote"
+  - title: "closing-keynote"
     type: talk
     date: 2017-10-26
     start_time: "11:50"
