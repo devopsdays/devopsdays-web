@@ -80,6 +80,8 @@ sponsors:
     level: gold
   - id: palo-it
     level: silver
+  - id: chef
+    level: silver
   - id: agile-singapore
     level: community
   - id: singapore-devops-community
