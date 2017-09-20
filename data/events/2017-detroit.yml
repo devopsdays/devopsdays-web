@@ -222,6 +222,11 @@ program:
     Heavy appetizers, beer, wine, and non-alcoholic beverages will be served."
 
     ### Day Two ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-28
+    start_time: "8:30"
+    end_time: "9:30"
 
   - title: "Welcome"
     type: custom
