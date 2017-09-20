@@ -114,6 +114,14 @@ sponsors:
     level: silver
   - id: facebook
     level: silver
+  - id: walkme
+    level: silver
+  - id: elastic
+    level: silver
+  - id: checkmarx
+    level: bronze
+  - id: similarweb
+    level: bronze
   - id: quali
     level: workshoproom
   - id: outbrain
@@ -122,6 +130,8 @@ sponsors:
     level: silver
   - id: microsoftazure
     level: happyhour
+  - id: facebook
+    level: giveaway
 #  - id: elastic
 #    level: bronze
 #  - id: googlecloud
@@ -168,4 +178,7 @@ sponsor_levels:
     max: 1
   - id: workshoproom
     label: WorkShopRoom
+    max: 1
+  - id: giveaway
+    label: GiveAwayBag
     max: 1
