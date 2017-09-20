@@ -60,7 +60,7 @@ team_members: # Name is the only required field for team members.
   - name: "Kevin Cross"
     employer: NCR
     bio: "Kevin is the Build and Automation team lead at NCR Edinburgh where he likes to work closely with development teams, test specialists, technical writers, infrastructure teams and anyone else that will talk to him in an attempt to makes everyone's life a little easier and the product a little better."
-    image: "kevin.png"
+    image: "kevin.jpg"
     twitter: kevinhcross
   - name: Mihaela 'Micky' Drumeva
     bio: "Development Operations engineer at SolarWinds working on programmable production infrastructure. Passionate about all things automation - provisioning infrastructure, deployment, verification."
@@ -91,7 +91,7 @@ sponsors:
      level: gold
    - id: qnrl
      level: bronze
-   - id: ncr
+   - id: ncredinburgh
      level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
