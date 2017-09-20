@@ -69,6 +69,8 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
+  - id: netapp
+    level: gold
   - id: pivotal
     level: gold
   - id: pure-storage
