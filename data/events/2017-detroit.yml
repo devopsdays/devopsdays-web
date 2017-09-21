@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: llamasoft
     level: gold
+  - id: dynatrace
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
@@ -93,6 +95,8 @@ sponsors:
   - id: stockx
     level: silver
   - id: proquest
+    level: bronze
+  - id: ally
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -104,7 +108,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 16
   - id: silver
     label: Silver
     max: 4
@@ -113,15 +117,18 @@ sponsor_levels:
   - id: lunch
     label: Lunch
     max: 1
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: party
     label: Party
     max: 1
 
 program:
         ### Day One ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-27
+    start_time: "8:30"
+    end_time: "9:30"
+
   - title: "Opening Welcome"
     type: custom
     date: 2017-09-27
@@ -214,14 +221,12 @@ program:
     comments: "The evening event will be held at the conference venue.<br/>
     Heavy appetizers, beer, wine, and non-alcoholic beverages will be served."
 
-  - title: "Presentation Karaoke"
+    ### Day Two ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
-    date: 2017-09-27
-    start_time: "5:30"
-    end_time: "8:30"
-    comments: "This is an attendee's chance to present in a more informal setting. Bring any presentation you’d like, it must be 5-10 minutes in length and not include a business/sales pitch."
-
-        ### Day Two ###
+    date: 2017-09-28
+    start_time: "8:30"
+    end_time: "9:30"
 
   - title: "Welcome"
     type: custom
@@ -312,7 +317,7 @@ ignites:
     date: 2017-09-27
   - title: "chasing-the-elk"
     date: 2017-09-27
-  - title: "switch-jobs"
+  - title: "great-venn-diagram"
     date: 2017-09-27
   - title: "uptime"
     date: 2017-09-27

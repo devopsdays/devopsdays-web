@@ -3,7 +3,7 @@ name: "2017-cape-town"
 year: "2017"
 city: "Cape Town"
 event_twitter: "devopsdayscpt"
-description: DevopsDays is coming back to Cape Town!
+description: DevOpsDays is coming back to Cape Town!
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
 startdate: 2017-11-06

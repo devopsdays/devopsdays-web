@@ -57,6 +57,14 @@ team_members: # Name is the only required field for team members.
     bio: "Senior Engineer at Skyscanner currently working in service routing and discovery. Experienced with monitoring systems and cloud architecture. Enjoys homebrewing, boardgames and being covered in cats."
     image: "matt.png"
     twitter: "@mjslane"
+  - name: "Kevin Cross"
+    employer: NCR
+    bio: "Kevin is the Build and Automation team lead at NCR Edinburgh where he likes to work closely with development teams, test specialists, technical writers, infrastructure teams and anyone else that will talk to him in an attempt to makes everyone's life a little easier and the product a little better."
+    image: "kevin.jpg"
+    twitter: kevinhcross
+  - name: Mihaela 'Micky' Drumeva
+    bio: "Development Operations engineer at SolarWinds working on programmable production infrastructure. Passionate about all things automation - provisioning infrastructure, deployment, verification."
+     
 
 
 organizer_email: "organizers-edinburgh-2017@devopsdays.org" # Put your organizer email address here
@@ -82,6 +90,8 @@ sponsors:
    - id: solarwinds
      level: gold
    - id: qnrl
+     level: bronze
+   - id: ncredinburgh
      level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

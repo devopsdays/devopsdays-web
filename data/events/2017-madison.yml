@@ -72,12 +72,16 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: morpheus_data
+    level: gold
   - id: arresteddevops
     level: community
   - id: widen
     level: bronze
   - id: nextpoint
     level: bronze
+  - id: dynatrace
+    level: silver
   - id: ipswitch
     level: silver
 
