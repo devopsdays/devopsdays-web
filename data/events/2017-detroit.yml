@@ -152,6 +152,7 @@ program:
     date: 2017-09-27
     start_time: "11:00"
     end_time: "11:15"
+    comments: "Drinks and snacks provided."
 
   - title: "adding-and-retiring-technologies"
     type: talk
@@ -164,6 +165,7 @@ program:
     date: 2017-09-27
     start_time: "11:45"
     end_time: "1:00"
+    comments: "Lunch will be provided at the venue."
 
   - title: "devops-state-of-mind"
     type: talk
@@ -182,6 +184,7 @@ program:
     date: 2017-09-27
     start_time: "2:00"
     end_time: "2:15"
+    comments: "Drinks and snacks provided."
 
   - title: "Ignites"
     type: ignite
@@ -251,6 +254,7 @@ program:
     date: 2017-09-28
     start_time: "11:15"
     end_time: "11:30"
+    comments: "Drinks and snacks provided."
 
   - title: "safety-and-lean"
     type: talk
@@ -263,6 +267,7 @@ program:
     date: 2017-09-28
     start_time: "12:30"
     end_time: "1:30"
+    comments: "Lunch will be provided at the venue."
 
   - title: "one-womans-experience"
     type: talk
@@ -275,6 +280,7 @@ program:
     date: 2017-09-28
     start_time: "2:00"
     end_time: "2:15"
+    comments: "Drinks and snacks provided."
 
   - title: "distributed-systems-are-hard"
     type: talk
