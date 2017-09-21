@@ -259,8 +259,8 @@ program:
     date: 2017-11-02
     start_time: "09:30"
     end_time: "10:00"
-  - title: "TBA"
-    type: custom
+  - title: "faz-sadeghi"
+    type: talk
     date: 2017-11-02
     start_time: "10:00"
     end_time: "10:30"
