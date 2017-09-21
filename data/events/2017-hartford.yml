@@ -72,6 +72,8 @@ sponsors:
     level: bronze
   - id: sonatype
     level: bronze
+  - id: stickermule
+    level: stickers
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -94,6 +96,8 @@ sponsor_levels:
     max: 4
   - id: community
     label: Community
+  - id: stickers
+    label: Stickers
 
 program:
   - title: Registration Opens
