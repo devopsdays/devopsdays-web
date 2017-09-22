@@ -16,7 +16,10 @@ Description = "devopsdays Amsterdam 2017"
   {{< event_logo >}}
 </div>
 
-**devopsdays is coming to {{< event_location >}}!**
+**Thank you for coming to devopsdays Amsterdam 2017!**
+**We'll see you next year June 27, 2018!!**
+
+## Visit our {{< event_link page="postevent" text="post event" >}} page for links to this years slides & videos!
 
 <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +39,14 @@ Description = "devopsdays Amsterdam 2017"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -54,6 +57,15 @@ Description = "devopsdays Amsterdam 2017"
     <a href="https://devopsdays.typeform.com/to/hbkd2j">Propose a talk!</a>
   </div>
 </div> -->
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Workshops</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="workshop" text="workshop." >}}
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -88,6 +100,15 @@ Description = "devopsdays Amsterdam 2017"
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Post Event Info</strong>
+  </div>
+  <div class = "col-md-8">
+  {{< event_link page="postevent" text="See what happened!" >}}
   </div>
 </div>
 

@@ -6,7 +6,7 @@ description: # A short blurb of text to describe your event, defaults to common 
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  2017-09-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2017-09-29 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2017-09-28 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2017-02-10 # start accepting talk proposals.
 cfp_date_end: 2017-05-10 # close your call for proposals.
@@ -25,7 +25,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -33,15 +33,19 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Barbaros Kuz"
+  - name: "Ceren Coşkun"
   - name: "Derya Sezen"
     twitter: "derya_sezen"
     employer: "kloia"
   - name: "Erkan Binici"
-  - name: "Fırat Arığ"
-  - name: "Ismail Arslan"
+    twitter: "erkanobi"
+    employer: "ThoughtWorks"
+  - name: "Heval Berk Nevruz"
+    twitter: "hevalberknevruz"
+    employer: "ThoughtWorks"
   - name: "Mehmet Ali Aydın"
-  - name: "Mehmet Taşkıner"
   - name: "Mesut Can Gurle"
+  - name: "Salih Emre Sert"
   - name: "Sinan Tecer"
   - name: "Zeldal Ozdemir"
 organizer_email: "organizers-istanbul-2017@devopsdays.org" # Put your organizer email address here
@@ -52,6 +56,48 @@ proposal_email: "proposals-istanbul-2017@devopsdays.org" # Put your proposal ema
 sponsors:
     - id:  devopsturkey
       level: community
+    - id: kodcu
+      level: community
+    - id: dockerizmir
+      level: community
+    - id: kloia
+      level: gold
+    - id: vngrs
+      level: gold
+    - id: thoughtworks-services
+      level: gold
+    - id: bkm
+      level: silver
+    - id: iyzico
+      level: silver
+    - id: deloitte-tr
+      level: silver  
+    - id: istanbulcoders
+      level: community
+    - id: dataistanbul
+      level: community
+    - id: testhive
+      level: community
+    - id: scturkey
+      level: community
+    - id: istanbuljug
+      level: community
+    - id: frontendistanbul
+      level: community
+    - id: agileturkey
+      level: community
+    - id: gdgistanbul
+      level: community
+    - id: openagile
+      level: community
+    - id: devnot
+      level: community
+    - id: milliyet
+      level: media
+    - id: insider
+      level: supporter
+    - id: opsgenie
+      level: supporter    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -59,13 +105,20 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinium
+    label: Platinium
+    max: 5
   - id: gold
     label: Gold
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: media
+    label: Media
+  - id: supporter
+    label: Supporter  

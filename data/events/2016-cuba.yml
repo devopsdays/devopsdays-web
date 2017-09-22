@@ -1,12 +1,16 @@
 name: "2016-cuba" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
-city: "Havana" # The city name of the event. Capitalize it.
+city: "Cuba" # The city name of the event. Capitalize it.
 friendly: "2016-cuba" # Four digit year and the city name in lower-case. Don't forget the dash!
+event_twitter: "devopsdayscuba"
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-10-20  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-10-18  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2016-10-21 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+eventdates: ["2016-10-18","2016-10-19","2016-10-20","2016-10-21"]
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 #cfp_date_start: 2016-09-25  # start accepting talk proposals.
 #cfp_date_end: 2016-10-10 # close your call for proposals.
@@ -21,18 +25,16 @@ location: "Universidad de las Ciencias Informáticas" # Defaults to city, but yo
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
     icon: "map-o"
+  - name: program
+    icon: "book"
   - name: speakers
     icon: "microphone"
-# - name: program
-#   icon: "book"
   - name: propose
     icon: "paper-plane"
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-# - name: registration
-#   icon: "pencil"
-# - name: speakers
-#   icon: "microphone"
+  - name: registration
+    icon: "pencil"
   - name: sponsor
     icon: "money"
   - name: contact
@@ -52,7 +54,7 @@ team_members: # Name is the only required field for team members.
     github:
     image: "rudy.jpg"
   - name: "Yadier Perdomo"
-    employer: "Universidad de las Ciencias Informáticas"
+    employer: "University of Informatic Sciences"
     bio:
     twitter: "ypc_cu"
     linkedin:
@@ -61,7 +63,7 @@ team_members: # Name is the only required field for team members.
     github:
     image: "yadier.jpg"
   - name: "Enrique Carbonell"
-    employer: "Datys"
+    employer: "DATYS"
     bio:
     twitter: "kikicarbonell"
     linkedin: "https://www.linkedin.com/in/enrique-carbonell/"
@@ -70,7 +72,7 @@ team_members: # Name is the only required field for team members.
     github:
     image: "enrique.jpg"
   - name: "Manuel Oliver"
-    employer: "University Marta Abreu of Las Villasa"
+    employer: "University Martha Abreu of Las Villas"
     bio:
     twitter: "taqchi"
     linkedin: "https://www.linkedin.com/in/manuel-oliver-dominguez-5bb6b639/"
@@ -80,7 +82,7 @@ team_members: # Name is the only required field for team members.
     image: "manuel.jpg"
 
 organizer_email: "organizers-cuba-2016@devopsdays.org" # Put your organizer email address here
-#proposal_email: "proposals-cuba-2016@devopsdays.org" # Put your proposal email address here
+proposal_email: "proposals-cuba-2016@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -103,6 +105,8 @@ sponsors:
     level: honorary
   - id: seekatv
     level: honorary
+  - id: docker
+    level: honorary
   - id: gitlab
     level: honorary
 
@@ -116,3 +120,276 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 #    label: Bronze
   - id: honorary
     label: Honorary
+
+program:
+  # Day 1: 2016-10-18
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2016-10-18
+    start_time: "8:00"
+    end_time: "9:30"
+
+
+  - title: "Opening"
+    type: custom
+    date: 2016-10-18
+    start_time: "9:30"
+    end_time: "10:00"
+
+  - title: "Break"
+    type: custom
+    date: 2016-10-18
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "ws1-patrick"
+    type: workshop
+    date: 2016-10-18
+    start_time: "10:30"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2016-10-18
+    start_time: "12:30"
+    end_time: "14:00"
+
+  - title: "ws2-mike-bernard"
+    type: workshop
+    date: 2016-10-18
+    start_time: "14:00"
+    end_time: "16:00"
+
+  - title: "Break & End of day"
+    type: custom
+    date: 2016-10-18
+    start_time: "16:00"
+    end_time: "16:15"
+
+  # Day 2: 2016-10-19
+  - title: "ws3-bridget"
+    type: workshop
+    date: 2016-10-19
+    start_time: "8:50"
+    end_time: "9:50"
+
+  - title: "Break"
+    type: custom
+    date: 2016-10-19
+    start_time: "9:50"
+    end_time: "10:30"
+
+  - title: "Workshop 3 part2"
+    type: custom
+    date: 2016-10-19
+    start_time: "10:30"
+    end_time: "11:50"
+
+  - title: "talk-yadier"
+    type: talk
+    date: 2016-10-19
+    start_time: "11:50"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2016-10-18
+    start_time: "12:30"
+    end_time: "14:00"
+
+  - title: "talk-anesto"
+    type: talk
+    date: 2016-10-19
+    start_time: "14:00"
+    end_time: "14:45"
+
+  - title: "ws4-mike-bernard"
+    type: workshop
+    date: 2016-10-19
+    start_time: "14:45"
+    end_time: "16:45"
+
+  - title: "Break & End of day"
+    type: custom
+    date: 2016-10-19
+    start_time: "16:45"
+    end_time: "17:00"
+
+  # Day 3: 2016-10-20
+  - title: "Registration"
+    type: custom
+    date: 2016-10-20
+    start_time: "8:30"
+    end_time: "9:00"
+
+  - title: "Opening"
+    type: custom
+    date: 2016-10-20
+    start_time: "9:00"
+    end_time: "9:15"
+
+  - title: "kn1-patrick"
+    type: talk
+    date: 2016-10-20
+    start_time: "9:15"
+    end_time: "10:15"
+
+  - title: "Break"
+    type: custom
+    date: 2016-10-20
+    start_time: "10:15"
+    end_time: "10:45"
+
+  - title: "talk-mike"
+    type: talk
+    date: 2016-10-20
+    start_time: "10:45"
+    end_time: "11:30"
+
+  - title: "talk-enrique-carbonell"
+    type: talk
+    date: 2016-10-20
+    start_time: "11:30"
+    end_time: "12:15"
+
+  - title: "Lunch"
+    type: custom
+    date: 2016-10-20
+    start_time: "12:15"
+    end_time: "13:30"
+
+  - title: "talk-ana-maria"
+    type: talk
+    date: 2016-10-20
+    start_time: "13:30"
+    end_time: "14:15"
+
+  - title: "Ignites Part One"
+    type: ignite
+    date: 2016-10-20
+    start_time: "14:15"
+    end_time: "14:45"
+
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2016-10-20
+    start_time: "14:45"
+    end_time: "15:45"
+
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2016-10-20
+    start_time: "15:45"
+    end_time: "16:45"
+
+  - title: "Break & End of day"
+    type: custom
+    date: 2016-10-20
+    start_time: "16:45"
+    end_time: "17:00"
+
+  # Day 4: 2016-10-21
+  - title: "Registration"
+    type: custom
+    date: 2016-10-21
+    start_time: "8:45"
+    end_time: "9:15"
+
+  - title: "Opening"
+    type: custom
+    date: 2016-10-21
+    start_time: "9:15"
+    end_time: "9:30"
+
+  - title: "kn2-bridget"
+    type: talk
+    date: 2016-10-21
+    start_time: "9:30"
+    end_time: "10:30"
+
+  - title: "Break"
+    type: custom
+    date: 2016-10-21
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "talk-l.lisette-d.wilfredo"
+    type: talk
+    date: 2016-10-21
+    start_time: "11:00"
+    end_time: "11:45"
+
+  - title: "talk-bernard"
+    type: talk
+    date: 2016-10-21
+    start_time: "11:45"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2016-10-21
+    start_time: "12:30"
+    end_time: "14:00"
+
+  - title: "Ignites Part Two"
+    type: ignite
+    date: 2016-10-21
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2016-10-21
+    start_time: "14:30"
+    end_time: "15:30"
+
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2016-10-21
+    start_time: "15:30"
+    end_time: "16:30"
+
+  - title: "Summary Open Spaces"
+    type: custom
+    date: 2016-10-21
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Closing"
+    type: custom
+    date: 2016-10-21
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "Snack"
+    type: custom
+    date: 2016-10-21
+    start_time: "17:30"
+    end_time: "17:18"
+
+  - title: "Transport to Havana for closing Event"
+    type: custom
+    date: 2016-10-21
+    start_time: "18:00"
+    end_time: "21:00"
+
+ignites:
+  - title: "ignite-duviel"
+    date: 2016-10-20
+  - title: "ignite-genry"
+    date: 2016-10-20
+  - title: "ignite-marialina"
+    date: 2016-10-20
+  - title: "ignite-dayron"
+    date: 2016-10-20
+  - title: "ignite-j.hubert"
+    date: 2016-10-20
+  - title: "ignite-j.carlos"
+    date: 2016-10-21
+  - title: "ignite-joelsy"
+    date: 2016-10-21
+  - title: "ignite-christian"
+    date: 2016-10-21
+  - title: "ignite-yadier"
+    date: 2016-10-21
+

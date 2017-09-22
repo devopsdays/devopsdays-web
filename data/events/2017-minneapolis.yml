@@ -20,7 +20,6 @@ nav_elements:
 
   - name: program
   - name: speakers
-  - name: propose
   - name: location
   - name: registration
   - name: sponsor
@@ -28,6 +27,9 @@ nav_elements:
   - name: conduct
 
 team_members:
+  - name: "Michelle Blanchard"
+    bio: "A lifelong technology enthusiast, and starting her professional journey in the field of IT, Michelle came to discover her love for programming after studying Python and Django. Her desire to keep learning and to meet like-minded tech geeks has led her to be very active in the Minneapolis tech scene.  When she’s not programming and going to meetups, Michelle enjoys volunteering for rescue organizations and animal sanctuaries."
+    image: "michelle-blanchard.jpg"
   - name: "Andy Domeier"
     employer: "SPS Commerce"
     twitter: "ajdomie"
@@ -45,15 +47,14 @@ team_members:
     image: "bridget-kromhout.jpg"
   - name: "Donnie Berkholz"
     twitter: "dberkholz"
-    employer: "451 Research"
-    bio: "Tech & biz strategy for emerging dev+ops trends. Director @451Research, fmr @redmonk @mayoclinic @gentoo. PhD comp biophysics. Craft-beer enthusiast."
+    employer: "Carlson Wagonlit Travel"
+    bio: "Leading DevOps Transformation. VP, IT Service Delivery at Carlson Wagonlit Travel. Data-driven, business-focused tech strategist & leader with a deep background in open source & research. Advised startups to Fortune 50 enterprises. Led >250 developers, among 15+ years of software experience. Cited for expertise in Wired, The Register, CIO.com & The New Stack."
     image: "donnie-berkholz.jpg"
   - name: "Heather Mickman"
     employer: "Optum"
     twitter: "hmickman"
     bio: "Heather Mickman is VP Enterprise Services + Platforms at Optum. Throughout her career, she has built APIs to unlock enterprise data, created awesome platforms, led Ops organizations, and built supply chain software for Fortune 50 companies. Heather has a passion for technology, building high performing teams, driving a culture of innovation, and having fun along the way."
     image: "heather-mickman.jpg"
-  - name: "Jeff Williams"
   - name: "Joe Laha"
     employer: ""
     twitter: "joelaha"
@@ -73,7 +74,7 @@ sponsors:
     level: community
   - id: pivotal
     level: platinum
-  - id: deis
+  - id: microsoftazure 
     level: silver
   - id: hackthegap
     level: community
@@ -89,7 +90,7 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
-  - id: gocd
+  - id: thoughtworks-gocd
     level: platinum
   - id: mesosphere
     level: silver
@@ -107,6 +108,8 @@ sponsors:
     level: gold
   - id: apcera
     level: silver
+  - id: threatstack
+    level: silver
   - id: twistlock
     level: silver
   - id: merrill
@@ -117,17 +120,90 @@ sponsors:
     level: silver
   - id: scalyr
     level: silver
+  - id: workiva
+    level: gold
+  - id: softwaredefinedtalk
+    level: community
+  - id: geekettes-tc
+    level: community
+  - id: pagerduty
+    level: gold
+  - id: morpheus
+    level: silver
+  - id: catchpoint
+    level: silver
+  - id: signalfx
+    level: silver
+  - id: columnpuppet
+    level: gold
+  - id: granicus
+    level: silver
+  - id: opsgenie
+    level: gold
+  - id: automic
+    level: gold
+  - id: joyent
+    level: silver
+  - id: rancher
+    level: silver
+  - id: platform9
+    level: silver
+  - id: blacksintechnology
+    level: community
+  - id: logicmonitor
+    level: silver
+  - id: electriccloud
+    level: gold
+  - id: healthpartners
+    level: silver
+  - id: aws
+    level: platinum
+  - id: target
+    level: gold
+  - id: gitmsp
+    level: community
+  - id: sps_commerce
+    level: alacarte
+  - id: scalyr
+    level: alacarte
+  - id: target
+    level: alacarte
+  - id: carlsonwagonlit
+    level: alacarte
+  - id: arista
+    level: alacarte
+  - id: centurylink
+    level: alacarte
+  - id: f5
+    level: bronze
+  - id: servicenow
+    level: bronze
+  - id: checkmarx
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: newrelic
+    level: bronze
+  - id: cargill
+    level: alacarte
+  - id: dynatrace
+    level: bronze
 
-sponsors_accepted : "yes"
+
+sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 6
   - id: gold
     label: Gold
   - id: silver
     label: Silver
+  - id: bronze
+    label: Bronze
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community
 program:
@@ -151,7 +227,7 @@ program:
     date: 2017-07-25
     start_time: "09:45"
     end_time: "09:55"
-  - title: "michelle-noorali"
+  - title: "erica-windisch"
     type: talk
     date: 2017-07-25
     start_time: "09:55"
@@ -187,44 +263,49 @@ program:
     start_time: "12:00"
     end_time: "13:15"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-07-25
     start_time: "13:15"
-    end_time: "14:00"
+    end_time: "14:15"
   - title: "attendee-suggested breakout discussions - Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-07-25
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "14:15"
+    end_time: "13:00"
+  - title: "tim-gross"
+    type: workshop
+    date: 2017-07-25
+    start_time: "13:30"
+    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2017-07-25
-    start_time: "14:40"
-    end_time: "14:50"
-  - title: "attendee-suggested breakout discussions - Open Space #2"
-    type: custom
-    date: 2017-07-25
-    start_time: "14:50"
+    start_time: "15:00"
     end_time: "15:30"
-  - title: "Break"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
     date: 2017-07-25
     start_time: "15:30"
-    end_time: "15:40"
+    end_time: "16:15"
   - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2017-07-25
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "jerome-petazzoni"
+    type: workshop
+    date: 2017-07-25
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Sponsor Happy Hour"
     type: custom
     date: 2017-07-25
-    start_time: "15:40"
-    end_time: "16:20"
-  - title: "Closing"
-    type: custom
-    date: 2017-07-25
-    start_time: "16:20"
-    end_time: "16:30"
+    start_time: "17:00"
+    end_time: "18:00"
   - title: "Evening Program & Ignites"
-    type: custom
+    type: ignite
     date: 2017-07-25
-    start_time: "16:30"
+    start_time: "18:00"
     end_time: "20:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -282,42 +363,63 @@ program:
     start_time: "12:00"
     end_time: "13:15"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-07-26
     start_time: "13:15"
     end_time: "14:00"
-  - title: "attendee-suggested breakout discussions - Open Space #1"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
     date: 2017-07-26
     start_time: "14:00"
-    end_time: "14:40"
-  - title: "Break"
+    end_time: "14:45"
+  - title: "inspec"
+    type: workshop
+    date: 2017-07-26
+    start_time: "13:15"
+    end_time: "14:45"
+  - title: "Break & 3pm Raffle"
     type: custom
     date: 2017-07-26
-    start_time: "14:40"
-    end_time: "14:50"
-  - title: "attendee-suggested breakout discussions - Open Space #2"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2017-07-26
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2017-07-26
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "habitat"
+    type: workshop
+    date: 2017-07-26
+    start_time: "15:15"
+    end_time: "16:45"
+  - title: "Closing"
     type: custom
     date: 2017-07-26
-    start_time: "14:50"
-    end_time: "15:30"
-  - title: "Break"
-    type: custom
-    date: 2017-07-26
-    start_time: "15:30"
-    end_time: "15:40"
-  - title: "attendee-suggested breakout discussions - Open Space #3"
-    type: custom
-    date: 2017-07-26
-    start_time: "15:40"
-    end_time: "16:20"
-  - title: "Break"
-    type: custom
-    date: 2017-07-26
-    start_time: "16:20"
-    end_time: "16:30"
-  - title: "Raffle & Closing"
-    type: custom
-    date: 2017-07-26
-    start_time: "16:30"
+    start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+  - title: "kristen-womack"
+    date: 2017-07-25
+  - title: "rukia-sheikh-mohamed"
+    date: 2017-07-25
+  - title: "christian-herro"
+    date: 2017-07-25
+  - title: "nicole-forsgren"
+    date: 2017-07-25
+  - title: "emma-sax"
+    date: 2017-07-25
+  - title: "thabit-shafer"
+    date: 2017-07-25
+  - title: "kendra-gapinski"
+    date: 2017-07-25
+  - title: "michael-ducy"
+    date: 2017-07-25
+  - title: "joshua-zimmerman"
+    date: 2017-07-25
+

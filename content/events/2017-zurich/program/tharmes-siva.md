@@ -9,8 +9,8 @@ title = "Continuous Performance Delivery: Find and Fix the Things That Matter"
 type = "talk"
 speakers = ["tharmes-siva"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "218690382"
+speakerdeck = "https://speakerdeck.com/dodzh/d2-3-tharmes-siva-continuous-performance-delivery-find-and-fix-the-things-that-matter"
 slideshare = ""
 slides = ""
 +++

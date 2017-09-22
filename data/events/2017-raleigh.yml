@@ -11,6 +11,8 @@ enddate: 2017-09-08 # The end date of your event. Leave blank if you don't have 
 cfp_date_start: 2017-03-29  # start accepting talk proposals.
 cfp_date_end: 2017-05-15 # close your call for proposals.
 cfp_date_announce: 2017-06-01 # inform proposers of status
+registration_open: "true"
+registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2017-tickets-34044332515?aff=es2"
 
 # Location
 #
@@ -20,11 +22,13 @@ location: "McKimmon Conference & Training Center" # Defaults to city, but you ca
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-  - name: propose
+  - name: program
+    url: http://dodral2017.busyconf.com/schedule
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
+    url: "https://www.eventbrite.com/e/devopsdays-raleigh-2017-tickets-34044332515?aff=es2"
   - name: sponsor
   - name: contact
   - name: conduct
@@ -36,6 +40,8 @@ team_members: # Name is the only required field for team members.
     image: "ann-marie-fred.jpg"
   - name: "Chris Knotts"
   - name: "Josh Atwell"
+    twitter: "Josh_Atwell"
+    image: "josh-atwell.jpg"
   - name: "Kaete Piccirilli"
   - name: "Katie Cothran"
   - name: "Chris Short"
@@ -49,8 +55,55 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: platinum
+  - id: redhat
+    level: platinum
+  - id: microsoft
+    level: platinum
+  - id: signifai
+    level: platinum
+  - id: opsgenie
+    level: platinum
+  - id: techtown
+    level: platinum
+  - id: chef
+    level: gold
+  - id: docker
+    level: gold
   - id: ibm
     level: gold
+  - id: netapp
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: veredus
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: datalink
+    level: gold
+  - id: extron
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: ca_tech
+    level: gold
+  - id: ally
+    level: silver
+  - id: platform9
+    level: silver
+  - id: sjtechcorp
+    level: silver
+  - id: triangledevops
+    level: community
+  - id: spreedly
+    level: community
+  - id: dzone
+    level: community
+  - id: devops-institute
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -67,4 +120,7 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0
+    max: 10
+  - id: community
+    label: Community
+    max: 5

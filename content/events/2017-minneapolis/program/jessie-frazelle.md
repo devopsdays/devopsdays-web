@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Security in a Containerized World (Closing Keynote)"
 Type = "talk"
 Speakers = ["jessie-frazelle"]
+googleslides = "1QnakgUC8AaNydPZCmKGYYja8gs2WoHbHRSjioIVdD9g"
+youtube = "Y0vt5VPZS_I"
 +++
 
 Everyone agrees that security is important, but in reality it's often a tickybox at the end. And by the time someone is thinking about security, many individual decisions have been made along the way that make security much more difficult than it has to be.

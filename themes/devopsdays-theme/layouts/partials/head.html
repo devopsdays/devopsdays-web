@@ -1,17 +1,50 @@
-{{ partial "meta.html" . }}
-{{ partial "head/seo.html" . }}
+{{- partial "meta.html" . -}}
+{{- partial "head/seo.html" . -}}
 
 <title>
-    {{- $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" -}}
-    {{- if eq $url "/" -}}
-      {{ .Site.Title }}
+    {{- if .IsHome -}}
+      {{ $.Scratch.Set "title" "devopsdays" }}
     {{- else -}}
-      {{- if .Params.Heading -}}
-        {{ .Params.Heading }}
+      {{- if .IsPage -}}
+        {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speakers") (eq .Type "talk") (eq .Type "speaker") -}}
+          {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+          {{- if eq (lower .Title) "welcome" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "conduct" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - code of conduct" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "contact" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - contact information" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "location" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - location information" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "program" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - program" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "propose" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - propose a talk" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "registration" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - register" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "speakers" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - speakers" $e.city (chomp $e.year)) -}}
+          {{- else if eq (lower .Title) "sponsor" -}}
+            {{- $.Scratch.Set "title" (printf "devopsdays %s %s - sponsorship information" $e.city (chomp $e.year)) -}}
+          {{- else if eq .Type "talk" -}}
+            {{- $.Scratch.Set "title" (printf "%s - devopsdays %s %s" .Title $e.city (chomp $e.year)) -}}
+          {{- else if eq .Type "speaker" -}}
+            {{- $.Scratch.Set "title" (printf "%s - devopsdays %s %s" .Title $e.city (chomp $e.year)) -}}
+          {{- else -}}
+            {{- $.Scratch.Set "title" .Title -}}
+          {{- end -}}
+          {{- if not ($.Scratch.Get "title") -}}
+            {{- $.Scratch.Set "title" .Title -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if not ($.Scratch.Get "title") -}}
+          {{- $.Scratch.Set "title" .Title -}}
+        {{- end -}}
       {{- else -}}
-        {{ .Title }}
+        {{- $.Scratch.Set "title" .Title -}}
       {{- end -}}
     {{- end -}}
+  {{ $.Scratch.Get "title" }}
 </title>
-<link rel="canonical" href="{{ .Permalink }}">
-{{ partial "head_includes.html" . }}
+<link rel="canonical" href="{{ .Permalink | absURL }}">
+{{- partial "head_includes.html" . -}}

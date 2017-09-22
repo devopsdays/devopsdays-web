@@ -4,6 +4,7 @@ city: "Detroit" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdet"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 status: "current"
+ga_tracking_id: "UA-94092408-1" # Google Analytics tracking ID
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  2017-09-27
@@ -12,6 +13,7 @@ enddate:  2017-09-28
 cfp_date_start: 2017-04-18
 cfp_date_end: 2017-07-31
 cfp_date_announce: 2017-08-07
+registration_open: "true"
 
 # Location
 #
@@ -21,11 +23,11 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
-#  - name: program
-  - name: propose
+  - name: program
+  - name: speakers
     # url: https://devopsdaysdetroit.typeform.com/to/HfQ847
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -34,25 +36,68 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: Ben Chess
     employer: Yelp
-  - name: "Jamie Begin"
-    employer: RightBrain Networks
   - name: "Brian Nuszkowski"
     employer: "Uber ATG"
     twitter: nuszkowski
   - name: "Joe Arnet"
-    employer: Barracuda Networks
+    employer: Cengage
+    twitter: JoeArnet
   - name: "Trevor Smith"
   - name: "Allison Green"
   - name: "Dave Barnett"
     employer: JSTOR
   - name: "Zach Zeid"
-    employer: AHEAD
+    employer: Cengage
 organizer_email: "organizers-detroit-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2017@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pivotal
+    level: gold
+  - id: ithaka
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: signifai
+    level: gold
+  - id: 2016-compuware
+    level: gold
+  - id: rightbrain
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: f5
+    level: gold
+  - id: redhat
+    level: gold
+  - id: e7solutions
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: cengage
+    level: gold
+  - id: rubrik
+    level: gold
+  - id: llamasoft
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: servicenow
+    level: silver
+  - id: delphix
+    level: silver
+  - id: microsoft
+    level: silver
+  - id: stockx
+    level: silver
+  - id: proquest
+    level: bronze
+  - id: ally
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -63,17 +108,222 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 16
   - id: silver
     label: Silver
-    max: 0
+    max: 4
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
   - id: lunch
     label: Lunch
-  - id: lanyard
-    label: Lanyard
+    max: 1
   - id: party
     label: Party
+    max: 1
+
+program:
+        ### Day One ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-27
+    start_time: "8:30"
+    end_time: "9:30"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-27
+    start_time: "9:30"
+    end_time: "9:45"
+
+  - title: "richard-i-cook"
+    type: talk
+    date: 2017-09-27
+    start_time: "9:45"
+    end_time: "10:30"
+
+  - title: "psychology-of-estimation"
+    type: talk
+    date: 2017-09-27
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-27
+    start_time: "11:00"
+    end_time: "11:15"
+    comments: "Drinks and snacks provided."
+
+  - title: "adding-and-retiring-technologies"
+    type: talk
+    date: 2017-09-27
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-27
+    start_time: "11:45"
+    end_time: "1:00"
+    comments: "Lunch will be provided at the venue."
+
+  - title: "devops-state-of-mind"
+    type: talk
+    date: 2017-09-27
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "we-should-all-be-leaders"
+    type: talk
+    date: 2017-09-27
+    start_time: "1:30"
+    end_time: "2:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-27
+    start_time: "2:00"
+    end_time: "2:15"
+    comments: "Drinks and snacks provided."
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-27
+    start_time: "2:15"
+    end_time: "2:35"
+
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-09-27
+    start_time: "2:35"
+    end_time: "3:00"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-27
+    start_time: "3:00"
+    end_time: "3:40"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-27
+    start_time: "3:45"
+    end_time: "4:25"
+
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-27
+    start_time: "4:30"
+    end_time: "5:15"
+
+  - title: "Evening Dinner & Party"
+    type: custom
+    date: 2017-09-27
+    start_time: "5:30"
+    end_time: "8:30"
+    comments: "The evening event will be held at the conference venue.<br/>
+    Heavy appetizers, beer, wine, and non-alcoholic beverages will be served."
+
+    ### Day Two ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-28
+    start_time: "8:30"
+    end_time: "9:30"
+
+  - title: "Welcome"
+    type: custom
+    date: 2017-09-28
+    start_time: "9:30"
+    end_time: "9:45"
+
+  - title: "mike-rother"
+    type: talk
+    date: 2017-09-28
+    start_time: "9:45"
+    end_time: "10:45"
+
+  - title: "tour-of-jstor"
+    type: talk
+    date: 2017-09-28
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-28
+    start_time: "11:15"
+    end_time: "11:30"
+    comments: "Drinks and snacks provided."
+
+  - title: "safety-and-lean"
+    type: talk
+    date: 2017-09-28
+    start_time: "11:30"
+    end_time: "12:30"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-28
+    start_time: "12:30"
+    end_time: "1:30"
+    comments: "Lunch will be provided at the venue."
+
+  - title: "one-womans-experience"
+    type: talk
+    date: 2017-09-28
+    start_time: "1:30"
+    end_time: "2:00"
+
+  - title: "Break"
+    type: custom
+    date: 2017-09-28
+    start_time: "2:00"
+    end_time: "2:15"
+    comments: "Drinks and snacks provided."
+
+  - title: "distributed-systems-are-hard"
+    type: talk
+    date: 2017-09-28
+    start_time: "2:15"
+    end_time: "2:45"
+
+  - title: "Open Spaces Planning"
+    type: custom
+    date: 2017-09-28
+    start_time: "2:45"
+    end_time: "3:00"
+
+  - title: "kata-classroom"
+    type: workshop
+    date: 2017-09-28
+    start_time: "3:00"
+    end_time: "4:30"
+
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-28
+    start_time: "3:15"
+    end_time: "4:00"
+
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-28
+    start_time: "4:00"
+    end_time: "4:45"
+
+  - title: "Closing & Raffle"
+    type: custom
+    date: 2017-09-28
+    start_time: "4:45"
+    end_time: "5:00"
+
+ignites:
+  - title: "idaho-potato"
+    date: 2017-09-27
+  - title: "chasing-the-elk"
+    date: 2017-09-27
+  - title: "great-venn-diagram"
+    date: 2017-09-27
+  - title: "uptime"
+    date: 2017-09-27

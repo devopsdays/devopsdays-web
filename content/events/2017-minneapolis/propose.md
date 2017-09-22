@@ -6,15 +6,11 @@ type = "event"
 
 <hr>
 
-There are three ways to propose a topic at devopsdays Minneapolis:
 <ol>
   <li> We've selected our lineup of 30-minute {{< event_link page="speakers" text="speakers!" >}}
+  <li> We are evaluating proposals for Ignite talks and will be notifying proposers by June 1.
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
-  <li><strong>We're currently accepting proposals through May 15th for <em>an <a href="/pages/ignite-talks-format">Ignite talk</a></em></strong> presented during the Tuesday evening event. These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
 </ol>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFX7-ygpLYGc5nHv1BEElxTWBDwlNOHF5-B-W-LvQSNPj95Q/viewform?embedded=true" width="900" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
 
 <hr>
 

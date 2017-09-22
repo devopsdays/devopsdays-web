@@ -1,66 +1,47 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Auckland 2017"
+Description = "Sponsor DevOpsDays Auckland 2017"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
-<hr>
+DevOps in New Zealand is hitting critical mass, reaching all aspects of the technology space - from banking institutions to government departments, to SaaS providers, to disruptive startups. DevOps is the new black.
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
 
-<!--
+Returning to Auckland after a four year hiatus, DevOpsDays provides an opportunity to expose your brand to the DevOps community across NZ - whether you're looking for talent, wanting to extend the reach of your brand or just show the latest and greatest wares. Sponsoring DevOpsDays in Auckland is a unique occasion to interact with technology professionals and gives your representatives a chance to connect with participants.
+
+DevOpsDays Auckland will be held at Ellerslie Event Centre, at the Ellerslie Racecourse on the 3rd &amp; 4th October and we are expecting about 300 participants. Support DevOpsDays Auckland now to garner the attention you’ll receive for being an early sponsor.
+
 <hr/>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+Sponsors are much appreciated for their financial assistance. Sponsorship is the main source of funding for the conference, with registration fees kept low to encourage broad community participation.
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
+Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session, but this is not 'that kind of conference' and heavy marketing will probably work against you when trying to make a good impression on the attendees. The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
--->
+<a href="https://assets.devopsdays.org/events/2017/auckland/SponsorProspectus17.pdf">Our Sponsorship prospectus can be downloaded here</a>
 <hr/>
+
+### Sponsorship Packages
+
+| Benefit                                                  | Bronze NZ $1,000 | Silver NZ $3,000 | Gold NZ $5,000 |
+|----------------------------------------------------------|:----------------:|:----------------:|:--------------:|
+| Included tickets                                         |         1        |         2        |        3       |
+| Logo on DevOpsDays NZ Website                            |         ✓        |         ✓        |        ✓       |
+| Mentions on social media and outgoing marketing material |         ✓        |         ✓        |        ✓       |
+| Logo on shared slide during breaks                       |         ✓        |         ✓        |                |
+| Logo on participant emails                               |                  |         ✓        |        ✓       |
+| Logo on dedicated slide during breaks                    |                  |                  |        ✓       |
+| Logo banner at venue                                     |                  |                  |        ✓       |
+| Mention by MC at kickoff and close                       |                  |                  |        ✓       |
+| 1 minute pitch to full audience                          |                  |                  |        ✓       |
+| Shared table for swag (no chairs)                        |                  |         ✓        |                |
+| Dedicated table for swag (with chairs)                   |                  |                  |        ✓       |
+
+There are also opportunities for exclusive special sponsorships with special privileges, such as venue, lanyard, video, lunch and evening event sponsorship. If you are interested in special sponsorships or have a creative idea about how you can support the event, drop us an email the <a href="mailto:organisers-auckland-2017@devopsdays.org?subject=Sponsor DevOpsDays Auckland 2017">organisers</a> and we’ll work something out together.
+
+<hr/>
+
+### Conditions
+Sponsors are never given attendee contact info by a devopsdays event’s organisers, nor are they allowed to purchase speaking slots for talks or ignites at a devopsdays.
+
+Sponsors will be required to follow the event’s {{< event_link page="conduct" text="code of conduct" >}}. This applies to giveaways, items and images at your table, behaviour of your staff, etc.

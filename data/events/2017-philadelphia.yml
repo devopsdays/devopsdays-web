@@ -20,10 +20,10 @@ location: "Chemical Heritage Foundation" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
-#  - name: program
-  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
+  - name: speakers
+  - name: program
   - name: registration
   - name: sponsor
   - name: contact
@@ -35,10 +35,17 @@ team_members: # Name is the only required field for team members.
     employer: "DramaFever"
   - name: "Sarah Gray"
     employer: "PromptWorks"
-  - name: "Mike Tyler"
-    employer: "Chef"
   - name: "Clinton Wolfe"
-    employer: "Relus Cloud"
+    employer: "Independent Consultant"
+    role: "Speaker Coordinator"
+    twitter: "clintoncwolfe"
+    github: "clintoncwolfe"
+    linkedin: "https://www.linkedin.com/in/clinton-wolfe-6927784a/"
+    email: "clintoncwolfe@gmail.com"
+  - name: "Hilary Muludiang"
+    twitter: "hlmuludiang"
+    linkedin: "http://linkedin.com/in/hlmuludiang"
+    email: "hilary.muludiang@gmail.com"
   - name: "Sam Hollis"
     employer: "AWeber"
   - name: "Shaheen Beg"
@@ -54,7 +61,37 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: redhat
+    level: gold
+  - id: hpe
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: signifai
+    level: gold
+  - id: nutanix
+    level: gold
+  - id: linode
+    level: gold
+  - id: ns1
+    level: gold
+  - id: diamanti
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: github
+    level: gold
+  - id: capitalone
+    level: gold
+  - id: mongodb
+    level: silver
+  - id: 2nd-watch
+    level: bronze
   - id: arresteddevops
+    level: community
+  - id: perfbytes
+    level: community
+  - id: postgresql
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -69,8 +106,203 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 1 # Actually will be 2 total, but we have one in-flight and need to stop accepting new requests
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+    
+program:
+  - date: '2017-10-24'
+    start_time: '08:00'
+    end_time: '09:00'
+    type: custom
+    title: Registration, Breakfast, Sponsor Booths Open
+  - date: '2017-10-24'
+    start_time: '09:00'
+    end_time: '09:15'
+    type: custom
+    title: Opening Welcome
+  - date: '2017-10-24'
+    start_time: '09:15'
+    end_time: '09:45'
+    type: talk
+    title: nicole-forsgren
+  - date: '2017-10-24'
+    start_time: '09:45'
+    end_time: '09:55'
+    type: custom
+    title: Sponsors
+  - date: '2017-10-24'
+    start_time: '09:55'
+    end_time: '10:25'
+    type: talk
+    title: tony-burns
+  - date: '2017-10-24'
+    start_time: '10:25'
+    end_time: '10:40'
+    type: custom
+    title: Break
+  - date: '2017-10-24'
+    start_time: '10:40'
+    end_time: '11:10'
+    type: talk
+    title: stephanie-herr
+  - date: '2017-10-24'
+    start_time: '11:10'
+    end_time: '11:20'
+    type: custom
+    title: Sponsors
+  - date: '2017-10-24'
+    start_time: '11:20'
+    end_time: '11:50'
+    type: talk
+    title: david-grizzanti
+  - date: '2017-10-24'
+    start_time: '11:50'
+    end_time: '13:00'
+    type: lunch
+    title: Lunch
+  - date: '2017-10-24'
+    start_time: '13:00'
+    end_time: '13:30'
+    type: ignite
+    title: Ignites Day 1
+  - date: '2017-10-24'
+    start_time: '13:30'
+    end_time: '14:15'
+    type: open-space
+    title: Open Spaces Intro and Proposals
+  - date: '2017-10-24'
+    start_time: '14:15'
+    end_time: '15:00'
+    type: open-space
+    title: 'Open Space 1: Attendee-suggested breakout session'
+  - date: '2017-10-24'
+    start_time: '15:05'
+    end_time: '15:50'
+    type: open-space
+    title: 'Open Space 2: Attendee-suggested breakout session'
+  - date: '2017-10-24'
+    start_time: '15:55'
+    end_time: '16:40'
+    type: open-space
+    title: 'Open Space 3: Attendee-suggested breakout session'
+  - date: '2017-10-24'
+    start_time: '16:45'
+    end_time: '17:00'
+    type: custom
+    title: Close Day & Announcements
+  - date: '2017-10-24'
+    start_time: '17:00'
+    end_time: '19:00'
+    type: custom
+    title: Evening Reception
+  - date: '2017-10-25'
+    start_time: '08:00'
+    end_time: '09:00'
+    type: custom
+    title: Registration, Breakfast, Sponsor Booths Open
+  - date: '2017-10-25'
+    start_time: '09:00'
+    end_time: '09:15'
+    type: custom
+    title: Opening Welcome
+  - date: '2017-10-25'
+    start_time: '09:15'
+    end_time: '09:45'
+    type: talk
+    title: andreas-grabner
+  - date: '2017-10-25'
+    start_time: '09:45'
+    end_time: '09:55'
+    type: custom
+    title: Sponsors
+  - date: '2017-10-25'
+    start_time: '09:55'
+    end_time: '10:25'
+    type: talk
+    title: kim-crayton
+  - date: '2017-10-25'
+    start_time: '10:25'
+    end_time: '10:40'
+    type: custom
+    title: Break
+  - date: '2017-10-25'
+    start_time: '10:40'
+    end_time: '11:10'
+    type: talk
+    title: sam-jones
+  - date: '2017-10-25'
+    start_time: '11:10'
+    end_time: '11:20'
+    type: custom
+    title: Sponsors
+  - date: '2017-10-25'
+    start_time: '11:20'
+    end_time: '11:50'
+    type: talk
+    title: erica-windisch
+  - date: '2017-10-25'
+    start_time: '11:50'
+    end_time: '13:00'
+    type: custom
+    title: Lunch
+  - date: '2017-10-25'
+    start_time: '13:00'
+    end_time: '13:35'
+    type: ignite
+    title: Ignites Day 2
+  - date: '2017-10-25'
+    start_time: '13:35'
+    end_time: '14:15'
+    type: open-space
+    title: Open Spaces Intro and Proposals
+  - date: '2017-10-25'
+    start_time: '14:15'
+    end_time: '15:00'
+    type: open-space
+    title: 'Open Space 4: Attendee-suggested breakout session'
+  - date: '2017-10-25'
+    start_time: '15:05'
+    end_time: '15:50'
+    type: open-space
+    title: 'Open Space 5: Attendee-suggested breakout session'
+  - date: '2017-10-25'
+    start_time: '15:55'
+    end_time: '16:40'
+    type: open-space
+    title: 'Open Space 6: Attendee-suggested breakout session'
+  - date: '2017-10-25'
+    start_time: '16:45'
+    end_time: '17:00'
+    type: open-space
+    title: Close Day, Prizes, and Farewell
+
+ignites:
+  - date: '2017-10-24'
+    title: jason-m-salberblack
+  - date: '2017-10-24'
+    title: sonia-sarda
+  - date: '2017-10-24'
+    title: daniel-olson
+  - date: '2017-10-24'
+    title: logan-daigle
+  - date: '2017-10-24'
+    title: andre-d-henry
+  - date: '2017-10-24'
+    title: Ignite Karaoke
+  - date: '2017-10-25'
+    title: tim-gross
+  - date: '2017-10-25'
+    title: brian-cole
+  - date: '2017-10-25'
+    title: michael-winslow
+  - date: '2017-10-25'
+    title: steve-desmond
+  - date: '2017-10-25'
+    title: darwin-sanoy
+  - date: '2017-10-25'
+    title: bridget-kromhout
+  - date: '2017-10-25'
+    title: Ignite Karaoke

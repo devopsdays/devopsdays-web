@@ -12,10 +12,11 @@ coordinates: "52.524332,13.389849" # The corrodinates of your venue. Get Latitud
 location: "Kalkscheune Berlin" # The name of your location
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  - name: speakers
   - name: program
   - name: location
   - name: registration
+    url: https://www.devops-berlin.de
   - name: sponsor
   - name: contact
   - name: conduct
@@ -30,6 +31,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jens Brauer"
     twitter: "jensenb"
     employer: "AWS"
+  - name: "Marco Woitschitzky"
   - name: "Martin Alfke"
     twitter: "tuxmea"
     employer: "Example42"
@@ -38,13 +40,15 @@ team_members: # Name is the only required field for team members.
     employer: "NETWAYS"
   - name: "Norman Messtorff"
     twitter: "nmesstorff"
-    employer: "Deutsche Post E-POST"
+    employer: "Deutsche Post E-POST Development"
   - name: "Ralph Angenendt"
     twitter: "lestighaniker"
     employer: "ImmobilienScout24"
   - name: "Ravi Yadav"
     twitter: "ravi_yadav_de"
     employer: "ImmobilienScout24"
+  - name: "Sabrina Voigt"
+    twitter: "sakiddo"
 
 organizer_email: "organizers-berlin-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-berlin-2017@devopsdays.org" # Put your proposal email address here
@@ -56,14 +60,26 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: partner
   - id: netways
     level: partner
+  - id: admin-magazine
+    level: partner
   - id: 2016-norisnetwork
     level: eveningevent
+  - id: thoughtworks-gocd
+    level: platinum
+  - id: logz
+    level: platinum
+  - id: codecentric
+    level: gold
+  - id: kreuzwerker
+    level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent
     label: Evening Event
+    max: 1
   - id: platinum
     label: Platinum
+    max: 9
   - id: gold
     label: Gold
   - id: silver

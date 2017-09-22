@@ -3,24 +3,91 @@ year: 2017 # The year of the event. Make sure it is in quotes.
 city: "Ohio" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysOhio"
 
-startdate: "" # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: "" # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: ""
-cfp_date_end: ""
-cfp_date_announce: ""
-coordinates: "40.038877, -82.874830" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # The name of your location
+startdate: "2017-11-08" # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+enddate: "2017-11-09" # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+cfp_date_start: "2017-05-22"
+cfp_date_end: "2017-09-09"
+cfp_date_announce: "2017-10-09"
+coordinates: "40.0120098, -82.9778019" # The coorodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Bluestone" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
- 
   - name: contact
+  - name: propose
   - name: conduct
   - name: sponsor
-team: ["Ben Blanquera", "Bill Schwanitz", "David Laulusa", "Kyle Jenkins", "John Lusk", "Mark Goodmanson", "Michael Ducy", "Michael Swartzbaugh", "Rob Kinyon", "Warner Moore"]
+  - name: location
+  - name: register
+    url: "https://devopsdaysohio2017.eventbrite.com/"
+
+team_members: # Name is the only required field for team members.
+#  - name: "---"
+#    employer: "---"
+#    bio: "---"
+#    twitter: "---"
+#    linkedin: "---"
+#    facebook: "---"
+#    website: "---"
+#    github: "---"
+#    image: "---"
+  - name: "Andy Dyrcz"
+    employer: "Express"
+    bio: "Proud Member of Pipegreppers Union Local 614"
+    twitter: "https://twitter.com/adyrcz"
+    linkedin: "https://www.linkedin.com/in/adyrcz/"
+    website: "https://www.adyrcz.com"
+    github: "https://github.com/adyrcz"
+  - name: "Ben Blanquera"
+  - name: "Bill Schwanitz"
+  - name: "David Laulusa"
+    bio: "David has worked at Bell Labs, SAP and whole slew of companies in between. Three years ago when he started working at SAP, his boss handed him The Phoenix Project by Gene Kim and Continuous Delivery by Jez Humble and said, 'Read these and figure out this DevOps thing.' And he hasn’t stopped learning since.
+    <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."
+    twitter: "dlaulusa"
+    linkedin: "https://www.linkedin.com/in/davidlaulusa/"
+  - name: "John Lusk"
+  - name: "Kyle Jenkins"
+    employer: "Improving"
+    bio: "Kyle Jenkins is a full stack developer and consultant with Improving, a software development consulting and training company in Columbus, Ohio. He assists with organizing the DevOpsDays Columbus conference. While working directly with clients to accomplish projects, he always strives to improve the quality of code and life for the team. In his spare time, you may find him at a variety of user groups around town, or online playing video games with friends."
+    linkedin: "https://www.linkedin.com/in/kyle-jenkins"
+    twitter: "kjenkinsdev"
+    github: "kjenkins19"
+  - name: "Michael Swartzbaugh"
+  - name: "Renee Weldy"
+    bio: "Renee’s been working in some part or another of IT for 27 years now.  She’s been a technical writer, a software instructor, a web application developer, a Remedy administrator, a business/system analyst, and a project manager – not necessarily in that order.  She’s fairly new to DevOps, but attending the 2016 DevOpsDays Ohio conference showed her that this is a culture she definitely wants to help promote and grow!"
+    linkedin: "https://www.linkedin.com/in/reneeweldy"
+  - name: "Sherry Stebens"
+  - name: "Warner Moore"
+    bio: "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams.
+    <br/><br/>As an international speaker, Warner has been invited to present to university students, technology professionals, and business leaders in a classroom setting as well as at conferences such as Startup Week, CloudDevelop, Path to Agility, InfoSec Summit, CodeMash, Security BSides, and DevOpsDays.
+    <br/><br/>Warner is passionate about culture, innovation, and community. His passion reflects in his volunteer work leading organizations such as [Ohio LinuxFest] (https://ohiolinux.org/), [LOPSA] (http://lopsacbus.org/), [DevOpsDays] (https://www.devopsdays.org/events/2016-ohio/welcome/), and [Toastmasters] (http://2checkout.easy-speak.org/)."
+    linkedin: "https://www.linkedin.com/in/warnermoore"
+
 organizer_email: "organizers-ohio-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-ohio-2017@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: test
+  - id: opsgenie
     level: gold
+  - id: pivotal
+    level: gold
+  - id: 2015-covermymeds
+    level: gold
+  - id: ibm
+    level: gold
+  - id: arista
+    level: gold
+  - id: ahead
+    level: gold
+  - id: roundtowertechnologies
+    level: gold
+  - id: chef
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: servicenow
+    level: silver
+  - id: stickermule
+    level: support
+
+sponsors_accepted : "yes"
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: gold

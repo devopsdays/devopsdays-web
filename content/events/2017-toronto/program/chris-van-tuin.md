@@ -3,7 +3,7 @@ date = "2017-02-27T15:10:56+01:00"
 title = "A Security State of Mind: Continuous Security for DevOps with Kubernetes"
 type = "talk"
 speakers = ["chris-van-tuin"]
-youtube = ""
+youtube = "1vIAmLsMKBY"
 vimeo = ""
 speakerdeck = ""
 slideshare = ""
@@ -21,3 +21,5 @@ In this presentation, you'll learn about:
 * Automating vulnerability management, security management, and compliance checking for container images in a Kubernetes environment
 
 Join, Chris Van Tuin, Chief Technologist, West at Red Hat, as he walks through an overview of the underlying Container technologies, the security risks with deploying containers, and how to address these security challenges in a DevOps environment with Kubernetes.
+
+<a href="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May26_2017_ChrisVanTuin.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May26_2017_ChrisVanTuin_lores.jpg" alt="Graphic Recording A Security State of Mind: Continuous Security for DevOps with Kubernetes" /></a>

@@ -13,9 +13,13 @@ DevOpsDays is a volunteer organized event for practitioners that depends on spon
 
 Gold sponsors have the opportunity to have short elevator pitches during the program. All sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 
+[Clarification added 2017-07-14] Silver sponsors have a shared table to put swag or giveaways at. The shared tables do not have space to be staffed. Have your folks join in the event!
+
 Most sponsors find they get the best response by sending engineers to interact with the experts at DevOpsDays on their own terms.
 
 ---
+
+## DevOpsDays Sponsorship Tiers
 
 <div style="width:90%" align="center">
   <table border=1>
@@ -44,23 +48,13 @@ Most sponsors find they get the best response by sending engineers to interact w
         </form>
       </td>
       <td>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="CNNWD7D6SRFXL">
-            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        Sold out!
       </td>
       <td>
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="2QJVW86QJLWMN">
-            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        Sold out!
       </td>
       <td>
-        Contact us!
+        Sold out!
       </td>
     </tr>
     <tr>
@@ -120,7 +114,7 @@ Most sponsors find they get the best response by sending engineers to interact w
       <td>&nbsp;</td>
     </tr>
     <tr>
-      <td style="padding-left: 5px">Shared table</td>
+      <td style="padding-left: 5px">Shared table (see clarification above)</td>
       <td>&nbsp;</td>
       <td bgcolor="silver">&nbsp;</td>
       <td>&nbsp;</td>
@@ -137,7 +131,20 @@ Most sponsors find they get the best response by sending engineers to interact w
 
 </div>
 
+---
+
+## Config Management Camp / Container Days Sponsorship Tiers
+
+There's only one tier for Config Management Camp and Container Days: Gold! It comes with all the bells and whistles above, but only on August 3rd. If you're interested, the price is $2000. We'll happily provide a discount for DevOpsDays sponsors who want to extend their sponsorship to Config Mgmt Camp and Container Days! Just send us a note at {{< email_organizers >}}.
+
+PayPal for those who want to just get their sponsorship in for the third day: <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="MDXA3WPFC6LXQ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
 
-There are also opportunities for exclusive special sponsorships. We have sponsorships available for an evening event and a speakers' dinner with special privileges for the sponsors of these events. We also have a lanyard sponsorship available. If you are interested in special sponsorships or have a creative idea about how you can support the event, {{< email_organizers >}}.
+There are also opportunities for exclusive special sponsorships. If your organization would be interested in sponsoring one of the conference meals, coffee, wifi, or even the evening event, please email {{< email_organizers >}}. If you've got an idea that isn't one of those, let's talk about what you're thinking!
 

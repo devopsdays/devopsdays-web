@@ -91,7 +91,7 @@ sponsors:
   - id: opsgenie
     level: platinum
     url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Toronto_%20May&utm_medium=banner
-  - id: logz
+  - id: logz-before-20170613
     level: gold
   - id: cgi
     level: gold
@@ -99,6 +99,8 @@ sponsors:
     level: silver
   - id: pure-storage
     level: lunch
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -163,7 +165,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-05-25
     start_time: "13:00"
     end_time: "13:30"
@@ -173,12 +175,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "14:40"
     end_time: "15:25"
@@ -188,7 +190,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "15:40"
     end_time: "16:25"
@@ -198,7 +200,7 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-25
     start_time: "16:40"
     end_time: "17:25"
@@ -243,21 +245,22 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-05-26
     start_time: "13:00"
     end_time: "13:30"
   - title: "chris-van-tuin"
+    type: talk
     date: 2017-05-26
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "14:00"
     end_time: "14:40"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "14:40"
     end_time: "15:25"
@@ -267,7 +270,7 @@ program:
     start_time: "15:25"
     end_time: "15:40"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "15:40"
     end_time: "16:25"
@@ -277,10 +280,15 @@ program:
     start_time: "16:25"
     end_time: "16:40"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2017-05-26
     start_time: "16:40"
     end_time: "17:25"
+  - title: "Sponsor Drawings! Collect your winnings! Close Day & Farewell"
+    type: custom
+    date: 2017-05-26
+    start_time: "17:30"
+    end_time: "17:45"
 
 ignites:
   - title: "adam-lefkowitz"

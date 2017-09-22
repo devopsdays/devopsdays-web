@@ -202,13 +202,13 @@ sponsors:
     url: https://code.facebook.com/posts/pe/
   - id: jfrog
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: gold
   - id: ca_tech
     level: gold 
   - id: riverbed
     level: gold
-  - id: logz
+  - id: logz-before-20170613
     level: gold
   - id: viasat
     level: gold

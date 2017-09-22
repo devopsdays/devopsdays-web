@@ -1,9 +1,6 @@
 {{ define "main" }}
 
-{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{ $city_slug := substr $e.name 5 }}
+{{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
 
 <div class = "row">
   <div class = "col-md-12 offset-md-1">
@@ -45,30 +42,22 @@
       {{- end -}}
     {{- end -}}
     </span>
-    <!-- <div class = "card">
-      <div class = "card-block"> -->
 <div class="speaker-bio-talks">
-
-
-     <h3>Talks by {{ .Title }}</h3>
-          <ul class="list-group list-group-flush">
-            {{ $.Scratch.Set "speaker" .File.BaseFileName }}
+     <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
+          <ul class="list-group">
+            {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
             {{- range where $.Site.Pages "Type" "talk" -}}
-              {{- $talk_path := split .File.Path .Site.Params.PathSeparator -}}
-              {{- $talk_slug := index $talk_path 1 -}}
-              {{- if eq $talk_slug $event_slug -}}
+              {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
                 <!-- Now we can display stuff! -->
-                {{ range .Params.speakers }}
-                  {{ if eq . ($.Scratch.Get "speaker") }}
-                    {{ $.Scratch.Set "display" "true" }}
-                  {{ end }}
-                {{ end }}
-                {{ if eq ($.Scratch.Get "display") "true" }}
-                <li class= "list-group-item">
-                  <a href = "{{ .Permalink }}">{{ .Title }}</a>
-                </li>
+                {{- range .Params.speakers -}}
+                  {{- if eq . ($.Scratch.Get "speaker") -}}
+                    {{- $.Scratch.Set "display" "true" -}}
+                  {{- end -}}
+                {{- end -}}
+                {{- if eq ($.Scratch.Get "display") "true" -}}
+                  <a href = "{{ .Permalink | absURL }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
-                {{ end }}
+                {{- end -}}
               {{- end -}} <!-- end if eq $talk_slug $event_slug -->
             {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
           </ul>
@@ -77,20 +66,14 @@
     </div> -->
   </div>
   <div class = "col-md-3 offset-md-1">
-    {{ if isset .Params "image" }}
-      {{ if ne .Params.image "" }}
-        <img src = "/events/{{ $event_slug }}/speakers/{{ .Params.image }}" class="img-fluid" alt="{{ .Title }}"/><br />
-      {{ end }}
-      {{ else }}
-        <img src = "/img/speaker-default.jpg" class="img-fluid"  alt="{{ .Title }}"/><br />
-    {{ end }}
-    <!-- <img src = "/events/{{ $event_slug }}/speakers/{{ .Params.image }}" class="img-fluid" alt="speaker image"/> -->
+    {{- if isset .Params "image" -}}
+      {{- if ne .Params.image "" -}}
+        <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) |absURL }}" class="img-fluid" alt="{{ .Title }}"/><br />
+      {{- end -}}
+      {{- else -}}
+        <img src = {{ "img/speaker-default.jpg" | absURL }} class="img-fluid"  alt="{{ .Title }}"/><br />
+    {{- end -}}
   </div>
 </div>
-
-
 {{ partial "sponsors.html" . }}
-
-
-
 {{ end }}

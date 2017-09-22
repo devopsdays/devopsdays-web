@@ -1,43 +1,43 @@
 name: "2017-phoenix" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Phoenix" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Phoenix!" # Edit this to suit your preferences
+event_twitter: "devopsdaysphx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "devopsdays is coming to Phoenix!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-10-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-10-24 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-07-07 # start accepting talk proposals.
+cfp_date_end: 2017-08-22 # close your call for proposals.
+cfp_date_announce: 2017-09-15 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-phoenix-2017" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-07-15 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2017-10-23 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-event_logo: "logo.jpg"
+event_logo: "logo-square.jpg"
 
 # Location
 #
-coordinates: "33.448377, -112.074037" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Phoenix" # Defaults to city, but you can make it the venue name.
+coordinates: "33.440454, -112.066924" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Galvanize" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "515 E Grant St, Phoenix, AZ 85004" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -49,21 +49,39 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Eric Harris"
+    employer: "Symantec"
     twitter: "itfargo"
     linkedin: "https://www.linkedin.com/in/itfargo"
+    bio: "Eric Harris is a recent transplant to the Phoenix area, moving from Fargo in 2015 to join LifeLock (now Symantec). He comes from the traditional sysadmin role, managing a dial-up & wireless ISP as well as network and web infrastructure. <br/><br/>Eric has worked closely with web developers and learned to highly value cooperation and communication in cross functional teams. Taking a step back from management, he continues those practices at Symantec today in an IC role focused on devops practices."
+    image: "eric-harris.jpg"
   - name: "Jonathan Lowsley"
     twitter: "fordodone"
     linkedin: "https://www.linkedin.com/in/jlowsley"
     website: "https://fordodone.com"
   - name: "Tomasz Stechly"
   - name: "Stephen Kuenzli"
+    image: "stephen-kuenzli.jpg"
+    bio: "Stephen uses modern processes and technology to build teams and platforms that deliver great customer experiences in the Cloud securely and at scale.<br/><br/>Stephen loves helping the community and clients build skill in continuous delivery, quality methods, security, and scalability."
+    twitter: "skuenzli"
+    employer: "QualiMente"
+    github: "skuenzli"
+    linkedin: "https://www.linkedin.com/in/stephenkuenzli/"
+    website: "https://www.qualimente.com/stephen-kuenzli"
+  - name: "Neil Shah"
+    employer: "Headfarmer"
+    linkedin: "https://www.linkedin.com/in/njshah/"
+    website: "https://www.hfrecruiting.com"
+    image: "neil-shah.jpg"
+    bio: "Neil is a geek. With a background in tech, he brings to headfarmer his unique blend of awkward humor, tech savvy, and outgoing introversion, along with 10 years of recruiting experience. Born in San Diego and raised here in beautiful Scottsdale, AZ, Neil is a proud Sun Devil.<br/><br/>After three years of pounding the pavement as an IBM field tech, Neil got his start in tech recruiting and has never looked back. He is focused on the long-term relationships and friendships he forms with candidates and clients alike. More than that, he gets to spend his entire day talking about all the fun new tech toys out there."
   - name: "Will Button"
   - name: "Chris Huie"
   - name: "Jeff Nappi"
   - name: "Matt Hickie"
-  - name: "Neil Shah"
   - name: "Robyn Bergeron"
   - name: "Bryan Maamo"
+    twitter: "nin_bryan"
+    github: "ninbryan"
+    linkedin: "https://www.linkedin.com/in/bryanmaamo"
   - name: "Jill Rouleau"
   - name: "Justin James"
   # - name: "Sally Fields"
@@ -80,11 +98,27 @@ proposal_email: "proposals-phoenix-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  # - id: samplesponsorname
+  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+  - id: headfarmer
+    level: silver
+  - id: qualimente
+    level: silver
+  - id: morpheus_data
+    level: silver
+  - id: diamanti
+    level: silver
+  - id: trace3
+    level: silver
+    url: http://trace3.com/devops/
+  - id: chef
+    level: silver
+  - id: tek-systems
+    level: bronze
+
+  # - id: arresteddevops
+  #   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

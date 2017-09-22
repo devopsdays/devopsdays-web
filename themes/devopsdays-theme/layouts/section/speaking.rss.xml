@@ -9,8 +9,8 @@
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>devopsdays events with open CFP's</title>
-<atom:link href="{{ $.Site.Params.weburl }}/events/index.xml" rel="self" type="application/rss+xml" />
-<link>{{ $.Site.Params.weburl }}</link>
+<atom:link href="{{ "events/index.xml" | absURL }}" rel="self" type="application/rss+xml" />
+<link>{{ .Permalink | absURL }}</link>
     <description>devopsdays events with open CFP's</description>
 <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" now }}</lastBuildDate>
 <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -25,8 +25,8 @@
         {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) }}
         <item>
           <title>devopsdays {{ .city }} {{ .year }}</title>
-          <link>{{ $.Site.Params.weburl }}/events/{{ .name}}</link>
-          <guid>{{ $.Site.Params.weburl }}/events/{{ .name}}</guid>
+          <link>{{ (printf "events/%s" .name) | absURL }}</link>
+          <guid>{{ (printf "events/%s" .name) | absURL }}</guid>
           <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" now }}</pubDate>
           {{ if .description }}
             <description>{{.description }}</description>

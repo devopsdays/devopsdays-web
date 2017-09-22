@@ -26,7 +26,7 @@ In the devops spirit of collaboration, find people in your region that want to h
 - Tweet that you'd be interested in running one in your region. (Use the #devopsdays hashtag.)
 - [Email the global core organizers](mailto:info@devopsdays.org) and we'll try to connect you to other people in your region
 
-You're going to need people from different organizations on your local organizing team, so you have a broader base of support and involvement from the community. We aren't going to green-light events put on by just one company, and you'll want the organizers from the relevant local meetups on board. Make sure everyone understands this is not about lead generation; organizers cannot use contact info from the event for their own companies.
+You're going to need at least three people from three different organizations on your local organizing team, so you have a broader base of support and involvement from the community. We aren't going to green-light events put on by just one company, and you'll want the organizers from the relevant local meetups on board. Make sure everyone understands this is not about lead generation; organizers cannot use contact info from the event for their own companies.
 
 ---
 
@@ -128,7 +128,7 @@ When you have some idea of when you want to run and how much you want to spend, 
 
 Venue space considerations:
 
-- A (big) room where everybody can sit comfortably and listen to the talks. This of course depends on the number of attendees you expect. Events have ranged from 70 to 700 people. Assess the numbers usually attending your best-attended local meetups; you might get 2-3x that.
+- A (big) room where everybody can sit comfortably and listen to the talks. This of course depends on the number of attendees you expect. Events have ranged from 70 to 700 people; a typical first-year event is often around 250 people. Assess the numbers usually attending your best-attended local meetups; you might get 2-3x that.
 - A number of break-out rooms for the afternoon sessions:
  - it's nice to be able to put the chairs in a circle for better discussions
  - you can be creative by splitting the big room in smaller rooms but in practice, separate rooms are less noisy
@@ -151,6 +151,8 @@ A final big space differentiator is the pricing: as the price of devopsdays is t
 - looking for (free) innovation centers or educational venues (universities...)
 - finding local companies that can act as a host with their facilities
 - finding a host sponsor that is willing to pay for a venue for you
+
+Venue sponsors (especially if you're in their facility) may try to set limits on other sponsors; try to clarify this in writing ahead of time.
 
 Don't overcommit on the number of people coming and don't do a pre-payment for the venue until you must. The same goes for food: it's always easier to add a few extra plates as opposed to having too much food ordered.
 

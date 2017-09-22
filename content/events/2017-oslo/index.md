@@ -13,9 +13,7 @@ Description = "devopsdays Oslo 2017"
 
 {{< event_logo >}}
 
-<p><h3>{{< event_link page="registration" text="Blind bird registration is open!" >}}</h3><img src=""></p>
-
-<p>Be quick! Only 20 amazingly cheap tickets available.</p>
+<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>
 
 </div>
 
@@ -32,11 +30,6 @@ Description = "devopsdays Oslo 2017"
 <p>DevOpsDays is a self-organizing conference for DevOps practitioners. It brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes and structure within organizations. We encourage both technologists and business people to attend, learn and share experiences.</p>
 
 <p>At a high-level, each day will consist of a mix of presentations, ignite presentations, and open spaces. There will be an evening party for all participants scheduled for the evening of November 1st. A great opportunity for networking, mingling and having a good time.</p>
-
-<hr>
-
-<h2>Call for papers</h2>
-{{< event_link page="propose" text="Propose a talk!" >}}
 
 <hr>
 
@@ -92,31 +85,21 @@ Description = "devopsdays Oslo 2017"
 
 <div class = "row">
   <div class = "col-md-3">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-3">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-<!--
-<div class = "row">
-  <div class = "col-md-3">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
--->
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-3">

@@ -11,8 +11,10 @@ enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have 
 cfp_date_start: 2017-04-14 # start accepting talk proposals.
 cfp_date_end: 2017-06-16 # close your call for proposals.
 cfp_date_announce: 2017-07-10  # inform proposers of status
-registration_open: "false"
-registration_link: ""
+registration_open: ""
+registration_link: "/events/2017-chicago/registration/"
+registration_date_start: 2017-05-05 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2017-09-12 # close registration. Leave blank if registration is not open yet.
 cfp_open: ""
 cfp_link: "https://www.papercall.io/devopsdays-chicago-2017"
 ga_tracking_id: "UA-74738648-1"
@@ -27,11 +29,12 @@ location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdays-chicago-2017 # The url setting is optional, and only if you want the navigation to link off-site
+  - name: program
   - name: location
-#  - name: registration
+  - name: registration
+  - name: speakers
+  - name: volunteer
+    icon: heart-o
   - name: sponsor
   - name: contact
   - name: conduct
@@ -41,7 +44,7 @@ team_members:
   - name: "Jerry Cattell"
     twitter: "jcattell"
     image: "jerry-cattell.jpg"
-    bio: "Jerry Cattell is the VP of Engineering for LifeQode, a co-founder of ShiftGen, and occasional Senior Site Reliability Engineer for Yardi Systems. In his spare time, Jerry is a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops) and [DevOpsDays Chicago](http://devopsdayschi.org). Jerry has over 17 years experience as a developer, sysadmin, DBA, and systems architect."
+    bio: "Jerry Cattell is the Director of Technical Operations for [Tempus](https://www.tempus.com/) and a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops). In his free time, Jerry enjoys traveling, reading, and playing with new technologies."
     linkedin: "https://www.linkedin.com/in/jerrycattell"
   - name: "Brian Devlin"
     twitter: "nilved"
@@ -88,7 +91,7 @@ team_members:
     facebook: "https://www.facebook.com/matt.stratton"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matt Stratton is a customer architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
+    bio: "Matt Stratton is a Customer Architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia, and their cat, Fancy. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Cohesive Networks"
@@ -115,10 +118,88 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: workiva
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: servercentral
+    level: gold
+  - id: chef
+    level: gold
+  - id: victorops
+    level: gold
+  - id: netapp
+    level: silver
+  - id: icagile
+    level: bronze
   - id: arresteddevops
     level: community
+  - id: cwdevs
+    level: community
+  - id: opsgenie
+    level: gold
+  - id: 2017-facebook
+    level: silver
+  - id: kcura-relativity
+    level: silver
+  - id: tech-month-chicago
+    level: community
+  - id: market-research-media-chicago
+    level: community
+  - id: morpheus_data
+    level: gold
+  - id: cloudbolt
+    level: gold
+  - id: writespeakcode
+    level: community
+  - id: columntech
+    level: gold
+  - id: sproutsocial
+    level: silver
+  - id: signal
+    level: silver
+  - id: checkmarx
+    level: gold
+  - id: redhat
+    level: gold
+  - id: mesosphere
+    level: silver
+  - id: ns1
+    level: gold
+  - id: saucelabs
+    level: gold
+  - id: vividseats
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: arista
+    level: silver
+  - id: diamanti
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: tempus
+    level: silver
+  - id: chicago-innovation-roundtable
+    level: community
+  - id: arity
+    level: gold
+  - id: blacksintechnology
+    level: community
+  - id: slalom
+    level: gold
+  - id: humio
+    level: lanyard
+  - id: allstate
+    level: gold
+  - id: cmegroup
+    level: silver
+  - id: github
+    level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -133,5 +214,243 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: lanyard
+    label: Lanyard
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-12
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeff-smith"
+    type: talk
+    date: 2017-09-12
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "bill-weiss"
+    type: talk
+    date: 2017-09-12
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-12
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "rhea-ghosh"
+    type: talk
+    date: 2017-09-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paul-hinze"
+    type: talk
+    date: 2017-09-12
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-09-12
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-12
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-12
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-12
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2017-09-12
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "rob-richardson"
+    type: workshop
+    date: 2017-09-12
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custo
+    date: 2017-09-12
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2017-09-12
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "jahmel-harris"
+    type: workshop
+    date: 2017-09-12
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2017-09-12
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2017-09-12
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening event"
+    type: custom
+    date: 2017-09-12
+    start_time: "18:00"
+    end_time: "late"
+    comments: "This will take place at [10pin](http://10pinchicago.com/)<br>
+    330 N. State St<br>
+    Chicago, IL<br>
+    60654"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-13
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "katie-prizy"
+    type: talk
+    date: 2017-09-13
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "pramod-sadalage"
+    type: talk
+    date: 2017-09-13
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2017-09-13
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "ashley-sun"
+    type: talk
+    date: 2017-09-13
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "jason-yee"
+    type: talk
+    date: 2017-09-13
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-09-13
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-09-13
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-09-13
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-09-13
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2017-09-13
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "alison-stanton"
+    type: workshop
+    date: 2017-09-13
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2017-09-13
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2017-09-13
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "matthew-schlue"
+    type: workshop
+    date: 2017-09-13
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2017-09-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "arrested-devops"
+    type: workshop
+    date: 2017-09-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2017-09-13
+    start_time: "17:00"
+    end_time: "17:15"
+ignites:
+  - title: "joe-nuspl"
+    date: 2017-09-12
+  - title: "nell-shamrell-harrington"
+    date: 2017-09-12
+  - title: "michael-stahnke"
+    date: 2017-09-12
+  - title: "rachael-byrne"
+    date: 2017-09-12
+  - title: "peter-piekarczyk"
+    date: 2017-09-12
+  - title: "jeffrey-sykes"
+    date: 2017-09-13
+  - title: "anjuan-simmons"
+    date: 2017-09-13
+  - title: "soo-choi"
+    date: 2017-09-13
+  - title: "paul-reed"
+    date: 2017-09-13
+  - title: "joshua-zimmerman"
+    date: 2017-09-13

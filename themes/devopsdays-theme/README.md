@@ -22,6 +22,8 @@ While we are in development, your help is appreciated in identifying outstanding
 ## Theme Layout
 Bear in mind that this theme lives in a separate repo from the main [devopsdays-web repo](https://github.com/devopsdays/devopsdays-web). No changes should be made to the `themes/devopsdays-theme` directory in `devopsdays-web`. If changes need to be made to the theme, they should be made in this repo, and a new version released, and the theme installed into `devopsdays-web`.
 
+All features are documented in [REFERENCE.md](https://github.com/devopsdays/devopsdays-theme/blob/master/REFERENCE.md).
+
 ## New Features
 
 ### Frontpage Logo
@@ -85,11 +87,10 @@ Author = "Bridget Kromhout"
 If an author is not specified, attempts to display it are ignored.
 
 ## Feature Requests
-If there is a feature in the theme that you would like to see, please visit our [ideas portal](https://www.devopsdays.org/ideas) and suggest it. On that same page, you can upvote existing feedback that you would like to see.
+If there is a feature in the theme that you would like to see, please [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) to this repository and prepend the title with `[ENHANCEMENT]`. If you discover an issue with the theme, [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) and prepend the title with `[BUG]`.
 
-If you'd like to see what we have planned, check out our [roadmap](https://www.devopsdays.org/roadmap).
+If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
-Please only use [GitHub issues](https://www.github.com/devopsdays/devopsdays-theme) for reporting defects/bugs.
 
 ## Contributing
 See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.

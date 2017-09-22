@@ -1,12 +1,10 @@
-<!--
-  Customize the labels on the map
+
+  {{/* Customize the labels on the map
 
   *References*
   - http://code.google.com/apis/maps/documentation/javascript/maptypes.html#StyledMaps
-  - http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerwithlabel/1.1/examples/basic.html
--->
-<!-- <link href="/css/googlemaps.css" rel="stylesheet"> -->
-<!-- the above stylesheet has been moved into the main one -->
+  - http://google-maps-utility-library-v3.googlecode.com/svn/tags/markerwithlabel/1.1/examples/basic.html */}}
+
 <script type="text/javascript">
 function initialize() {
     var map;
@@ -14,13 +12,8 @@ function initialize() {
     var mapOptions = {
         mapTypeId: 'roadmap'
     };
-
-    // Display a map on the page
     map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
     map.setTilt(45);
-
-    // Add upcoming events here
-    // Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
     var markers = [
       {{- range $.Site.Data.events -}}
 
@@ -84,4 +77,4 @@ function initialize() {
 </script>
 
 <script type="text/javascript" src="https://maps-api-ssl.google.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew"></script>
-<script type="text/javascript" src="/js/googlemaps_label-min.js"></script>
+<script type="text/javascript" src="{{ "js/googlemaps_label-min.js" | absURL }}"></script>

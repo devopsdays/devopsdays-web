@@ -3,15 +3,15 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "The same group of organizers that brought you a DevOpsDays DFW 2016 is back together and planning what we believe will an even more awesome 2017 event. We’re encouraged and motivated by the feedback received at last year's event, that we're determined to bring an improved experience and continue the DevOps conversation for 2017 ito the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "The same group of organizers that brought you DevOpsDays DFW 2016 are back again this year planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received at last year's event, which is why they are determined to bring a better experience this year and improve the DevOps conversation throughout the DFW Metroplex." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-08-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-04-04  # start accepting talk proposals.
 cfp_date_end: 2017-06-30 # close your call for proposals.
-cfp_date_announce: 2017-04-04 # inform proposers of status
+cfp_date_announce: 2017-07-14 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: ""
@@ -29,18 +29,18 @@ location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-# - name: program
-#   icon: "book"
   - name: propose
     icon: "paper-plane"
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
     icon: "map-o"
 #   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-# - name: registration
-#   icon: "pencil"
-# - name: speakers
-#   icon: "microphone"
+  - name: program
+    icon: "book"
+  - name: registration
+    icon: "pencil"
+  - name: speakers
+    icon: "microphone"
   - name: sponsor
     icon: "money"
   - name: contact
@@ -52,6 +52,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Annie Hedgpeth"
     employer: "10th Magnitude"
+    role: "Speaker Liaison"
     bio: "Annie will be our Speaker Liaison and MC for this year’s event. After a major career change in 2016, Annie became a cloud automation engineer at 10th Magnitude, a leading Azure cloud consultancy. Being involved in the DevOps community, she seeks to bring attention to technologies that lower the barrier to entry for others seeking a career change into technology."
     twitter: "anniehedgie"
     linkedin: "https://www.linkedin.com/in/annie-hedgpeth-203393112/"
@@ -60,25 +61,18 @@ team_members: # Name is the only required field for team members.
     github: "anniehedgpeth"
     image: "annie.jpg"
   - name: "Ben Johnson"
-    employer: "Particle41"
+    employer: ""
+    role: "Website + A/V Organizer"
     bio: "Consummate Technology Leader with strong open source programming background and hands on skills in Ruby on Rails, PHP and NodeJS. Extensive experience with remote distributed development teams. Establish highest levels of quality through continuous integration, continuous delivery, and automated testing standards. Constant focus on results and ways to improve while having fun building highly scalable and highly secure applications."
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
 #   facebook:
-#   website: ""
-#   github: ""
+    website: ""
+    github: "benjohnson77"
     image: "ben.jpg"
-  - name: "Cory Forsythe"
-    employer: "Capital One"
-    bio: "Cory Forsythe is a Software Manager and DevOps evangelist working with Capital One’s Auto Finance teams. With a background in traditional .Net development in the healthcare and natural gas industries, he has worked to evolve his skillset toward more modern cloud-first architecture and serverless computing. Having spent some time working directly with Amazon, Cory is a proponent of the AWS Cloud and the infrastructure services provided within. Cory invests time heavily in the study of industry CI/CD tooling and test automation and is looking forward to hearing what great advances in practice come out of our DFW organizations in 2017."
-    twitter: "CoryForsythe"
-    linkedin: "https://www.linkedin.com/in/123123214cf/"
-#   facebook: ""
-#   website: ""
-#   github: ""
-    image: "cory.jpg"
   - name: "Gokul Sridharan"
     employer: "CA Technologies"
+    role: "SWAG Organizer"
     bio: "Gokul Sridharan, is a Master’s Degree holder in IT, an entrepreneur by nature and a successful presales management professional at CA Technologies. He has worked there for the past 3 years and successfully managing a business of $10m+ from a technical sales standpoint. Prior to joining CA and pursuing his master’s degree, Gokul started off his career at Accenture as a software developer.<br><br>During that time frame, he also started his own restaurant venture called ‘The Snack Shack’ in India. He loves DevOps concepts and likes to be a part of local meetups. He is also part of the organizing committee in DevOpsDays Dallas, and on in his spare time likes to work on new and innovative ideas."
     twitter: "ConsultGokul_CA"
     linkedin: "https://www.linkedin.com/in/gokul-sridharan-98a12323/"
@@ -88,6 +82,7 @@ team_members: # Name is the only required field for team members.
     image: "gokul.jpg"
   - name: "Jack Teoh"
     employer: "Alkami Technology"
+    role: "Volunteers Organizer"
     bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
@@ -97,6 +92,7 @@ team_members: # Name is the only required field for team members.
     image: "jack.jpg"
   - name: "Lee Herrin"
     employer: "Six Sents"
+    role: "Social Media Organizer"
     bio: "Lee Herrin is acting Marketing Organizer for DevOpsDays DFW. <br><br>Lee is an experienced technologist with a passion for solving problems. Whether technical, logistical, organizational - in every endeavor, Lee brings with him a high-level of integrity and an effective leadership style. His experience spans multiple disciplines including Employee Engagement, Distribution, IT Solutions Architecture, Virtual and Physical IT Infrastructure, and Cyber-security. <br><br>Lee is a volunteer for DevOpsDays DFW as a result of his passionate interest in DevOps (and DevSecOps) and the associated community of talented professionals. <br><br>Lee works with Six Sents - A machine learning predictive analytics and workforce intelligence platform as an Advisor for Partner and Channel Development. <br><br>Lee also volunteers his time acting as Prayer Team Chair for the DFW Technology Prayer Breakfast - a local faith-based nonprofit."
     twitter: "TechnologicaLee"
     linkedin: "https://www.linkedin.com/in/wtleeherrin/"
@@ -106,6 +102,7 @@ team_members: # Name is the only required field for team members.
     image: "lee.jpg"
   - name: "Mark Saum"
     employer: "Fidelis Consulting"
+    role: "Venue + Open Spaces Organizer"
     bio: "20+ years advising large corporations and fast growth startups in IT architecture and security. <br><br>Mark Saum currently serves as the Chief Information Security Officer of DirectStream, LLC. DirectStream was founded by supercomputing pioneer Seymour Cray and provides a breakthrough supercomputing system and a secure cloud platform. DirectStream's goal is to provide the fastest, most secure computing platform on the planet. In this role, Mr. Saum has overall responsibility for the company’s corporate, hardware and cloud platform security. <br><br>Mr. Saum joined DirectStream from ModoPayments, where he was a co-founder and served as the CIO and CISO.  While at ModoPayments, he was co-inventor of US Patent US20120101887, A System and Method for Managing Merchant-Customer Interactions. He remains as an investor and advisor to ModoPayments. <br><br>Mr. Saum has provided IT consulting through Fidelis Consulting Corporation since 1997. His customers have included IBM, AT&T, General Motors, Sun Microsystems, JPMorganChase, Lucent Technologies, the Intelligence Community, US Cellular, GameStop,  and Verizon Wireless. <br><br>Mr. Saum is an AWS Certified Solutions Architect and holds a B. B. A. in Business Analysis/Management Information Systems from Texas A&M University, College Station."
     twitter: "msaum"
     linkedin: "https://www.linkedin.com/in/marksaum/"
@@ -114,6 +111,7 @@ team_members: # Name is the only required field for team members.
 #   github:
     image: "mark.jpg"
   - name: "Megan Bohl"
+    role: "Sponsorship Liaison"
     employer: "Aspiring Technical Consultant"
     bio: "Megan is our Sponsor Liaison for DevOpsDays DFW 2017.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
     twitter: "MeganBohl"
@@ -124,6 +122,7 @@ team_members: # Name is the only required field for team members.
     image: "megan.jpg"
   - name: "Michael Hedgpeth"
     employer: "NCR"
+    role: "Leadership Summit Organizer"
     bio: "Michael manages NCR Hospitality's DevOps transition, and is a deeply committed technologist that appreciates the value and necessity of executive alignment. This year he will be focusing on the DevOps Leadership Summit event before DevOpsDays which will give upper management an avenue to understand, and embrace DevOps principles."
     twitter: "michaelhedgpeth"
     linkedin: "https://www.linkedin.com/in/michael-hedgpeth/"
@@ -133,6 +132,7 @@ team_members: # Name is the only required field for team members.
     image: "michael.jpg"
   - name: "Mike Rosado"
     employer: "Independent Consultant"
+    role: "Core Organizer"
     bio: "Mike who is a DevOps Enthusiast and Technical Evangelist works as an Independent Consultant with customers in the United States and throughout Latin America. Mike enjoys sharing his views as it relates to the cultural movement of DevOps and technologies that contribute to the continuous improvement. He enjoys it so much, that he became one of the integral local organizers of DevOpsDays Dallas, [DevOps Live Meetup](https://www.meetup.com/DevOpsLive/), and active Global Core Organizer of [devopsday.org](https://www.devopsdays.org/about). <br><br>
 As a recognized leader in the DevOps space with exemplary recommendations in the LinkedIn community groups, Mike’s passion in this field shines as he mentors others and enjoys tackling challenges. Mike's vast experience in helping Enterprise customers for 22+ years at Microsoft in various capacity serves as a base as he continues to evolve in this DevOps journey. "
     twitter: "MikeRosTX"
@@ -150,17 +150,71 @@ proposal_email: "proposals-dallas-2017@devopsdays.org" # Put your proposal email
 sponsors:
   - id: capitalone
     level: location_and_platinum
+  - id: chef
+    level: platinum
+  - id: verizon
+    level: platinum
+  - id: appdynamics
+    level: platinum
+  - id: dellemc
+    level: platinum
   - id: pivotal
     level: gold
   - id: ns1
     level: gold
+  - id: improving
+    level: gold
+  - id: redhat
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: signifai
+    level: gold
+  - id: homedepot
+    level: gold
+  - id: hpe
+    level: gold
+  - id: elastic
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: f5
+    level: gold
+  - id: rubrik
+    level: gold   
+  - id: praecipio
+    level: gold  
+  - id: orasi
+    level: gold 
+  - id: xebialabs
+    level: gold   
+  - id: netapp
+    level: gold      
   - id: alertlogic
     level: silver
+  - id: 10thmagnitude
+    level: silver
+  - id: inspec
+    level: workshop
   - id: arresteddevops
-    level: community
+    level: media
+  - id: 2017-devopsdotcom
+    level: media
+  - id: itrevolution
+    level: media
   - id: devopslive
     level: community
-  - id: addo2017
+  - id: 2017-addo
+    level: community
+  - id: hackernest-dfw
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -181,178 +235,235 @@ sponsor_levels:
     max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10
+  - id: workshop
+    label: Workshop
+    max: 3
 # - id: bronze
 #   label: Bronze
+#   max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
   - id: community
     label: Community
     max: 5
 
 program:
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2017-08-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introductions by Jody Wolfborn & Scott Macfarlane"
+    type: custom
+    date: 2017-08-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "inspec"
+    type: workshop
+    date: 2017-08-28
+    start_time: "09:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2017-08-28
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "inspec"
+    type: workshop
+    date: 2017-08-28
+    start_time: "11:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2017-08-28
+    start_time: "12:30"
+    end_time: "13:30"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-29
-    start_time: "09:00"
-    end_time: "10:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2017-08-29
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "welcome-day1"
     type: talk
     date: 2017-08-29
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "adam-jacob"
+    type: talk
+    date: 2017-08-29
+    start_time: "09:10"
+    end_time: "09:50"
+  - title: "Platinum Sponsor Pitch - Chef / Verizon"
+    type: custom
+    date: 2017-08-29
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "manah-khalil"
+    type: talk
+    date: 2017-08-29
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-08-29
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "carlos-nunez"
+    type: talk
+    date: 2017-08-29
     start_time: "10:40"
-    end_time: "11:00"
-  - title: ""
+    end_time: "11:10"
+  - title: "Platinum Sponsor Pitch - AppDynamics / DellEMC"
+    type: custom
+    date: 2017-08-29
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "john-willis"
     type: talk
     date: 2017-08-29
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
-    date: 2017-08-29
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-08-29
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
-    type: custom
+  - title: "Ignite Talks"
+    type: ignite
     date: 2017-08-29
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
-    type: talk
+  - title: "Open Space - Overview & Topic Proposal/Selection"
+    type: open-space
     date: 2017-08-29
     start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2017-08-29
-    start_time: "14:00"
-    end_time: "14:40"
+    end_time: "14:45"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2017-08-29
-    start_time: "14:40"
-    end_time: "15:25"
+    start_time: "15:00"
+    end_time: "15:55"
   - title: "Break"
     type: custom
     date: 2017-08-29
     start_time: "15:25"
-    end_time: "15:40"
+    end_time: "15:45"
   - title: "Open Space #2"
+    type: open-space
+    date: 2017-08-29
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
     type: custom
     date: 2017-08-29
-    start_time: "15:40"
-    end_time: "16:25"
-  - title: "Break"
+    start_time: "16:44"
+    end_time: "17:00"
+  - title: "Happy Hour - Social Networking Event"
     type: custom
     date: 2017-08-29
-    start_time: "16:25"
-    end_time: "16:40"
-  - title: "Open Space #3"
-    type: custom
-    date: 2017-08-29
-    start_time: "16:40"
-    end_time: "17:25"
-  - title: "Evening Event"
-    type: custom
-    date: 2017-08-29
-    start_time: "17:30"
-    end_time: "20:30"
-    comments: "tba"
+    start_time: "17:00"
+    end_time: "19:00"
+
+
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2017-08-30
-    start_time: "09:00"
-    end_time: "10:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2017-08-30
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "welcome-day2"
     type: talk
     date: 2017-08-30
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-08-30
+    start_time: "09:10"
+    end_time: "09:50"
+  - title: "Gold Sponsor Pitch - Pivotal / NS1 / Improving / Red Hat / OpsGenie / ThoughtWorks / Rubrik / Orasi"
+    type: custom
+    date: 2017-08-30
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "chloe-condon"
+    type: talk
+    date: 2017-08-30
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-08-30
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "mark-andersen"
+    type: talk
+    date: 2017-08-30
     start_time: "10:40"
-    end_time: "11:00"
-  - title: ""
+    end_time: "11:10"
+  - title: "Gold Sponsor Pitch - SignfiAI / xmatters / Elastic / Home Depot / HPE / f5 / Praecipio /NetApp"
+    type: custom
+    date: 2017-08-30
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paul-grizzaffi"
     type: talk
     date: 2017-08-30
-    start_time: "11:00"
-    end_time: "11:30"
-  - title: ""
-    type: talk
-    date: 2017-08-30
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:20"
+    end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
     date: 2017-08-30
-    start_time: "12:00"
+    start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
-    type: custom
+  - title: "Ignite Talks"
+    type: ignite
     date: 2017-08-30
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
+  - title: "Open Space - Topic Proposal/Selection"
+    type: open-space
     date: 2017-08-30
     start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2017-08-30
-    start_time: "14:00"
-    end_time: "14:40"
+    end_time: "14:45"
   - title: "Open Space #1"
+    type: open-space
+    date: 2017-08-30
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "SPEAKER DISCUSSION PANEL"
     type: custom
     date: 2017-08-30
-    start_time: "14:40"
-    end_time: "15:25"
-  - title: "Break"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing & Farewell"
     type: custom
     date: 2017-08-30
-    start_time: "15:25"
-    end_time: "15:40"
-  - title: "Open Space #2"
-    type: custom
-    date: 2017-08-30
-    start_time: "15:40"
-    end_time: "16:25"
-  - title: "Break"
-    type: custom
-    date: 2017-08-30
-    start_time: "16:25"
-    end_time: "16:40"
-  - title: "Open Space #3"
-    type: custom
-    date: 2017-08-30
-    start_time: "16:40"
-    end_time: "17:25"
+    start_time: "16:45"
+    end_time: "17:00"
 
 ignites:
-  - title: ""
+  - title: "john-kerry"
     date: 2017-08-29
-  - title: ""
+  - title: "karen-odegaard"
     date: 2017-08-29
-  - title: ""
+  - title: "david-laulusa"
+    date: 2017-08-29
+  - title: "pete-chestna"
+    date: 2017-08-29
+  - title: "jane-prusakova"
+    date: 2017-08-29
+  - title: "mohamad-bayan"
+    date: 2017-08-29
+  - title: "franklin-mosley"
     date: 2017-08-30
-  - title: ""
+  - title: "emily-freeman"
     date: 2017-08-30
-  - title: ""
+  - title: "trevor-hess"
+    date: 2017-08-30
+  - title: "nora-kennedy"
+    date: 2017-08-30
+  - title: "david-brown"
+    date: 2017-08-30
+  - title: "rob-hirschfeld"
     date: 2017-08-30

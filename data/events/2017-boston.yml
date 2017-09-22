@@ -13,7 +13,7 @@ cfp_date_start: 2017-04-25 # start accepting talk proposals.
 cfp_date_end: 2017-07-01 # close your call for proposals.
 cfp_date_announce: 2017-08-01 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-boston-2017"
 
 registration_open: "true"
@@ -27,18 +27,16 @@ location: "The Cyclorama at Boston Center for the Arts" # Defaults to city, but 
 location_address: "539 Tremont St, Boston, MA 02116" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://www.papercall.io/devopsdays-boston-2017"
-    icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+  # - name: propose
+  #   url: "https://www.papercall.io/devopsdays-boston-2017"
+  #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
   - name: registration
   - name: location
- #   icon: "pencil"
- # - name: program
- #   icon: "book"
- # - name: speakers
- #   icon: "microphone"
-  # - name: sponsor
-  #   icon: "money"
+    icon: "pencil"
+  - name: program
+    icon: "book"
+  - name: speakers
+    icon: "microphone"
   - name: contact
     icon: "envelope-o"
   - name: conduct
@@ -49,18 +47,42 @@ team_members: # Name is the only required field for team members.
 
   # Advisors: TBD if we can separate out
 
-  - name: "Cody Lazri"
-    twitter: "ti_au_"
-    employer: "Cogito"
-    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
-    image: "codylazri.jpg"
 
   # Lead organizers: TBD if we can separate out
 
-  - name: "Barton Nicholls"
-    employer: "Cohesive Networks"
-    bio: "Barton is a Solutions Architect for Cohesive Networks where he promotes DevOps in the cloud security space. He has been a contributing member of the Boston DevOps community for a number of years and is excited to contribute to creating a world class event for this year’s DevOps Days Boston."
-    image: "barton2.jpg"
+  # - name: "Barton Nicholls"
+  #   employer: "Cohesive Networks"
+  #   bio: "Barton is a Solutions Architect for Cohesive Networks where he promotes DevOps in the cloud security space. He has been a contributing member of the Boston DevOps community for a number of years and is excited to contribute to creating a world class event for this year’s DevOps Days Boston."
+  #   image: "barton2.jpg"
+
+
+  - name: "Michael T. Clark"
+    linkedin: http://www.linkedin.com/in/michaeltclark
+    twitter: "michaeltclark"
+    bio: "Michael is a veteran systems management professional. In a career that has ranged from academic computing to finance to manufacturing and now, professional services, he has worked as a front-line technician, a back-office systems engineer, an enterprise architect, and a leader of teams of 100+ technologists in hybrid WAN, large-scale domestic and global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is equally comfortable learning something new at a command line and in the C-suite helping senior executives make sense of their IT strategy and spend. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
+    image: "michaelclark.jpg"
+    employer: "Renaissance Tech & Media"
+  - name: "James Meickle"
+    employer: "Quantopian"
+    github: eronarn
+    linkedin: https://www.linkedin.com/in/eronarn
+    twitter: jmeickle
+    image: "jamesmeickle.jpg"
+    bio: "James is a site reliability engineer at Quantopian, a crowd-sourced quantitative investment firm located in Boston, MA. His focus is developing the cloud architecture that supports the Quantopian community's Python trading algorithms. Prior to joining Quantopian, he worked as a site reliability engineer at Harvard, a developer evangelist at AppNeta, and a release engineer at Romney for President 2012. <br><br>In his spare time James is a conference organizer for DevOpsDays Boston, now in its fourth year. He is also a meetup and conference speaker on topics including performance optimization, site reliability engineering, and devops tools. He is also quite committed to 'soft skills' education focusing on organizational culture and human behavior, particularly when he can incorporate lessons learned from his background in psychology and political science."
+
+  - name: "Ed Rousseau"
+    bio: "Ed is a 20+ year veteran of the software industry who has worked in numerous roles from tech support to QA and even management (!).  He is passionate about software quality and software engineering efficiency and an unabashed kanban fanboy. He is also a philosopher, lover of fine food and cocktails, occasional DJ and master of the rhetorically awkward question. Ed is currently employed at Cure Forward as a “DevOps Engineer” where he is developing infrastructure to match cancer patients with clinical trials and helping developers understand the operational implications of the code they write."
+    twitter: "elrousseau"
+    linkedin: "https://www.linkedin.com/in/edrousseau/"
+    image: "edrousseau.jpg"
+    employer: Cure Forward
+
+  - name: "Laura Stone"
+    bio: "Hi, I’m Laura. I believe that done is better than perfect, that iteration, simplicity, and customer feedback are keys to success, and that community-driven efforts lead to powerful change. When I’m not working (Senior Site Reliability Engineer at Klaviyo) or organizing the PyLadies Boston and Boston Devops meetups, I enjoy a nice cup of tea and board games with friends."
+    twitter: "tyrostone"
+    linkedin: "https://www.linkedin.com/in/lauraestone/"
+    github: "tyrostone"
+    image: "laurastone.jpg"
 
 
   - name: "Matthew Williams"
@@ -74,31 +96,23 @@ team_members: # Name is the only required field for team members.
     bio: "Matt Williams is an Evangelist at Datadog. He is passionate about the power of monitoring and metrics to make large-scale systems stable and manageable. So he tours the country speaking and writing about monitoring with Datadog. When he's not on the road, he's coding. You can find Matt on Twitter at @Technovangelist."
 
 
-  - name: "Laura Stone"
-    bio: "Hi, I’m Laura. I believe that done is better than perfect, that iteration, simplicity, and customer feedback are keys to success, and that community-driven efforts lead to powerful change. When I’m not working (Senior Site Reliability Engineer at Klaviyo) or organizing the PyLadies Boston and Boston Devops meetups, I enjoy a nice cup of tea and board games with friends."
-    twitter: "tyrostone"
-    linkedin: "https://www.linkedin.com/in/lauraestone/"
-    github: "tyrostone"
-    image: "laurastone.jpg"
 
-  - name: "James Meickle"
-    employer: "Quantopian"
-    github: eronarn
-    linkedin: https://www.linkedin.com/in/eronarn
-    twitter: jmeickle
-    image: "jamesmeickle.jpg"
-    bio: "James is a site reliability engineer at Quantopian, a crowd-sourced quantitative investment firm located in Boston, MA. His focus is developing the cloud architecture that supports the Quantopian community's Python trading algorithms. Prior to joining Quantopian, he worked as a site reliability engineer at Harvard, a developer evangelist at AppNeta, and a release engineer at Romney for President 2012. <br><br>In his spare time James is a conference organizer for DevOpsDays Boston, now in its fourth year. He is also a meetup and conference speaker on topics including performance optimization, site reliability engineering, and devops tools. He is also quite committed to 'soft skills' education focusing on organizational culture and human behavior, particularly when he can incorporate lessons learned from his background in psychology and political science."
+
+
+  # Asst. organizers: TBD if we can separate out
 
   - name: "Dave Fredricks"
     bio: "Professionally, I help companies gain a competitive edge in technical resource management, planning, and execution. On the personal side, I am very passionate about teaching and learning. 'Learning with the intent to teach others'."
     twitter: "dfreddy76"
     image: "davefredricks.jpg"
+    role: Advisor
 
-  - name: "Ed Rousseau"
-    twitter: "elrousseau"
-    employer: Cure Forward
-  # Asst. organizers: TBD if we can separate out
-
+  - name: "Cody Lazri"
+    twitter: "ti_au_"
+    employer: "Cogito"
+    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
+    image: "codylazri.jpg"
+    role: Advisor
   # Example:
   # - name: "Sally Fields"
   #   employer: "Acme Anvil Co."
@@ -114,12 +128,69 @@ proposal_email: "proposals-boston-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  # - id: samplesponsorname
+  #   level: gold
+  # - id: arresteddevops
+  #   level: community
+  - id: microsoft
     level: gold
-  - id: arresteddevops
+  - id: 2016-onpage
+    level: gold
+  - id: signifai
+    level: gold
+  - id: treasuredata
+    level: gold
+  - id: genians
+    level: gold
+  - id: datadog
+    level: gold
+  - id: opsgenie
+    level: platinum
+  - id: thoughtworks-gocd
+    level: platinum
+  - id: 2017-digitalocean
+    level: platinum
+  - id: ns1
+    level: platinum
+  - id: hackernest-bos
     level: community
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: questsoftware
+    level: gold
+  - id: verizon
+    level: gold
+  - id: nutanix
+    level: gold
+  - id: 2017-instana
+    level: gold
+  - id: mabl
+    level: gold
+  - id: turbinelabs
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: threatstack
+    level: platinum
+  - id: cyberark
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: herzum
+    level: gold
+  - id: logz
+    level: platinum
+  - id: victorops
+    level: platinum
+  - id: appdynamics
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: actblue
+    level: gold
+  - id: 2017-veracode
+    level: gold
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -128,13 +199,210 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 8
+
   - id: gold
     label: Gold
-    max: 10
-  - id: silver
-    label: Silver
-    max: 15 # This is the same as omitting the max limit.
-  - id: recruiting
-    label: Recruiting
+  
+  - id: community
+    label: Community
 
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-09-18
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "rob-cummings"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "tobias-macey"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:50"
+    end_time: "10:30"
+  - title: "chloe-condon"
+    type: talk
+    date: 2017-09-18
+    start_time: "09:50"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2017-09-18
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "matthew-boeckman"
+    type: talk
+    date: 2017-09-18
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "corey-quinn"
+    type: talk
+    date: 2017-09-18
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "franklin-mosley"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "tom-mclaughlin"
+    type: talk
+    date: 2017-09-18
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-18
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "david-n-blankedelman"
+    type: talk
+    date: 2017-09-18
+    start_time: "12:57"
+    end_time: "13:15"
+  - title: "ben-hagen"
+    type: talk
+    date: 2017-09-18
+    start_time: "13:15"
+    end_time: "14:05"
+  - title: "Break"
+    type: custom
+    date: 2017-09-18
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "alizishaan-khatri"
+    type: workshop
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "15:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-18
+    start_time: "14:15"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-18
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "flynn"
+    type: workshop
+    date: 2017-09-18
+    start_time: "15:45"
+    end_time: "16:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-18
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Day One Wrap Up"
+    type: custom
+    date: 2017-09-18
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-09-18
+    start_time: "17:00"
+    end_time: "late"
+  
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-09-19
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2017-09-19
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "yulan-lin"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "leon-fayer"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:53"
+    end_time: "10:30"
+  - title: "adam-kaufman"
+    type: talk
+    date: 2017-09-19
+    start_time: "09:53"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2017-09-19
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "rachael-byrne"
+    type: talk
+    date: 2017-09-19
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "ed-rousseau"
+    type: talk
+    date: 2017-09-19
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "michael-sacks"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "john-sawers"
+    type: talk
+    date: 2017-09-19
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-09-19
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "karen-fiumara"
+    type: talk
+    date: 2017-09-19
+    start_time: "13:00"
+    end_time: "13:35"
+  - title: "richard-li"
+    type: workshop
+    date: 2017-09-19
+    start_time: "13:50"
+    end_time: "14:50"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-09-19
+    start_time: "13:50"
+    end_time: "14:50"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-09-19
+    start_time: "14:50"
+    end_time: "15:35"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-09-19
+    start_time: "15:35"
+    end_time: "16:35"
+  - title: "phil-lombardi"
+    type: talk
+    date: 2017-09-19
+    start_time: "15:35"
+    end_time: "16:35"
+  - title: "Event Wrap Up"
+    type: custom
+    date: 2017-09-19
+    start_time: "16:35"
+    end_time: "17:00"
+  

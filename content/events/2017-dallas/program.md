@@ -6,8 +6,14 @@ description = "DevOpsDays Dallas 2017 program will be a single track, featuring 
 
 +++
 
-<br>
-<br>
+<div class = "row">
+  <div class = "col">
+    <hr />
+####    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br>
+####    Our <img alt="DoDDFW Slack" src="/events/2017-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/MjI3MzA4NTE2NzI1LTE1MDI4NTUzOTktMTdhYzY1MGZiNQ">here</a></strong> to join.<br>
+####   Click <strong><a href="https://t.co/am9vlKVVSr">here</a></strong> to see pictures in the DevOpsDays DFW Photo Gallery.<hr />
+  </div>
+</div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <div class="addthis_horizontal_follow_toolbox"></div>
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
