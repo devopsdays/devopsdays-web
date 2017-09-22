@@ -62,6 +62,8 @@ sponsors:
     level: silver
   - id: cyberark
     level: silver
+  - id: netapp
+    level: silver
   - id: arresteddevops
     level: community
   - id: victorops
