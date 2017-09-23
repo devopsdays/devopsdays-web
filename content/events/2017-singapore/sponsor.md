@@ -114,6 +114,7 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
   </table>
   <small>* Please reach out to us if you would like to purchase workshop passes. We have workshop only special pricing for our sponsors.</small>
+  <a name="additional-packages"></a>
   <h2>ALTERNATIVE SPONSORSHIP OPTIONS</h2>
   <p>In addition to the main sponsorship levels described in the table above, below are the stand-alone sponsorship options that can be purchased alternatively to a core sponsorship package.</p>
   <table class="table table-condensed table-hover">
