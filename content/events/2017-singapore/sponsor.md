@@ -133,7 +133,7 @@ Our sponsorship packages are structured around how you can help be part of the c
     <tr>
       <td>Logo on attendee badge
       <td>Your logo will be placed on the attendee name badge. Size and placement to be determined by organizers
-      <td><center>1</center>
+      <td><center><span style="color: red">SOLD OUT</a></center>
       <td>1500&nbsp;SGD
     </tr>
   </table>
