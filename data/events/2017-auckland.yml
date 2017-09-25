@@ -110,6 +110,8 @@ sponsors:
     level: bronze
   - id: 2016-bnz
     level: venue
+  - id: techday
+    level: media
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
@@ -135,6 +137,9 @@ sponsor_levels:
 #  - id: lanyard
 #    label: Lanyard
 #    max: 1
+  - id: media
+    label: Media
+    max: 1
   - id: evening
     label: Fun Evening Event
     max: 1
