@@ -78,6 +78,8 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: scalyr
+    level: gold
   - id: palo-it
     level: silver
   - id: chef
