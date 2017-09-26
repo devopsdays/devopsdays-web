@@ -37,7 +37,6 @@ team_members: # Name is the only required field for team members.
   - name: Ben Chess
     employer: Yelp
   - name: "Brian Nuszkowski"
-    employer: "Uber ATG"
     twitter: nuszkowski
   - name: "Joe Arnet"
     employer: Cengage
