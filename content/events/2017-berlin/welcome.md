@@ -12,7 +12,7 @@ Description = "devopsdays Berlin 2017"
 **DevOpsDays is returning to Berlin, Germany!**
 
 <div style="text-align:center;">
-  <a style="background-color: rgb(42,75,116);padding: 15px; color: white; border-radius: 5px; font-size: 1.5em;" href="https://www.devops-berlin.de/">Register now!</a>
+  <a style="background-color: rgb(42,75,116);margin-bottom: 20px; padding: 15px; color: white; border-radius: 5px; font-size: 1.5em;" href="https://www.devops-berlin.de/">Register now!</a>
 </div>
 
 <div style="text-align:center;">
