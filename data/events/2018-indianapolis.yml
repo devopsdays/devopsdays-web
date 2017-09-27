@@ -63,6 +63,10 @@ team_members: # Name is the only required field for team members.
 
   - name: "Bryan Smith"
   
+  - name: "Andrew Kaczorek"    
+    employer: "Leaf Software Solutions"
+    github: "akaczorek" 
+
   - name: "Chris Chalfant
     employer: "Leaf Software Solutions"
     twitter: "chalfant"
