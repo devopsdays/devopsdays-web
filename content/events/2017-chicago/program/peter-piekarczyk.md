@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Your Body's Configuration is Important, too"
 Type = "talk"
 Speakers = ["peter-piekarczyk"]
+youtube = "8XrCfsR7GoU"
 +++
 
 Anxiety, stress and depression are becoming bigger parts of our lives as devs, whether we believe it or not. It’s time to confront the issues we’re facing rather than hiding from them. Carpenters fall off ladders, we burn out. We work our brains all day long, wtf do you think is going to happen!?
