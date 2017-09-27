@@ -62,6 +62,18 @@ team_members: # Name is the only required field for team members.
     twitter: "byronschaller"
 
   - name: "Bryan Smith"
+  
+  - name: "Andrew Kaczorek"    
+    employer: "Leaf Software Solutions"
+    github: "akaczorek" 
+
+  - name: "Chris Chalfant
+    employer: "Leaf Software Solutions"
+    twitter: "chalfant"
+
+  - name: "Andrew Kaczorek"
+    employer: "Leaf Software Solutions"
+    github: "akaczorek"
 
 organizer_email: "organizers-indianapolis-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal email address here

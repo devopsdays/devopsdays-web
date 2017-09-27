@@ -78,6 +78,8 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: scalyr
+    level: gold
   - id: palo-it
     level: silver
   - id: chef
@@ -91,6 +93,8 @@ sponsors:
   - id: singapore-spring-community
     level: community
   - id: powershell-conference-asia
+    level: community
+  - id: aspose
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

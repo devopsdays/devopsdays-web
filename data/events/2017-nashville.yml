@@ -111,11 +111,10 @@ sponsors:
     level: alacarte
   - id: juiceanalytics
     level: alacarte
-#  - id: samplesponsorname
-#    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: nashdevops
+    level: community
+  - id: ntc
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -132,6 +131,8 @@ sponsor_levels:
     label: Bronze
   - id: alacarte
     label: Alacarte
+  - id: community
+    label: Community
 
 program:
   - title: "Registration and Breakfast"

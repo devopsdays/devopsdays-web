@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Automating myself out of a job - A pentesters guide to left shifting security testing"
 Type = "talk"
 Speakers = ["jahmel-harris"]
+youtube = "1RSIh5DCt2Y"
 +++
 The security industry works best with a waterfall approach to development and has not keep up with modern methodologies. This talk will look at tools and techniques to shift security testing left so software can be released early and often without increasing risk to the organisation.
 

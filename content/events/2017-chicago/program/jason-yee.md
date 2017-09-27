@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Burnout: Community Problem & Community Solution"
 Type = "talk"
 Speakers = ["jason-yee"]
+youtube = "hu4FV_f93D8"
 +++
 
 With the constant demand to build systems rapidly with more resiliency and less budget, compounded with on-call support duties and a seemingly endless stream of alerts, it’s no wonder that burnout has become a serious problem within the DevOps community.

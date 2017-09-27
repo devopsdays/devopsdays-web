@@ -55,6 +55,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Cleriston Sampaio"
     twitter: "Cleriston_os"
+  
+  - name: "Thiago Colares"
+    twitter: "thicolares"
+    
+  - name: "Marco Junior"
+    twitter: "somatorio"
 
 
 organizer_email: "organizers-salvador-2017@devopsdays.org" # Put your organizer email address here
