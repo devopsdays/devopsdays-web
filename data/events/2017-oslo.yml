@@ -136,16 +136,16 @@ sponsors:
 #    level: gold
   - id: microsoft
     level: gold
-#  - id: tripletex
-#    level: gold
+#  - id: telia
+#    level: platinum
 #  - id: atlassian
 #    level: gold
 #  - id: stackstate
 #    level: gold
-#  - id: soprasteria
-#    level: gold
-#  - id: intility
-#    level: gold
+  - id: soprasteria
+    level: gold
+  - id: intility
+    level: platinum
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
