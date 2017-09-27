@@ -49,6 +49,7 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Corriere"
   - name: "John Dyer"
   - name: "Jeremy Duvall"
+  - name: "Andre Thenot"
   - name: "John Willis"
 organizer_email: "organizers-atlanta-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-atlanta-2018@devopsdays.org" # Put your proposal email address here
