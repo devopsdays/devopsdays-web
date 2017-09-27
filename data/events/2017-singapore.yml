@@ -94,6 +94,8 @@ sponsors:
     level: community
   - id: powershell-conference-asia
     level: community
+  - id: aspose
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
