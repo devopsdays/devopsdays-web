@@ -22,6 +22,8 @@ Our sponsorship packages are constructed to offer our sponsors lead generation, 
 
 ### Sponsor packages
 
+Platinum and gold packages are sold out, but we still have community packages and add-ons.
+
 Click <a href="https://assets.devopsdays.org/events/2017/oslo/DevOpsdays17_partnership_prospectus.pdf" target="_blank">here</a> for full prospectus.
 
 <img src="/events/2017-oslo/sponsorship-packages.png" style="max-width: 100%; height: auto; width: auto\9;">
