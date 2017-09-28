@@ -116,6 +116,8 @@ sponsors:
     level: silver
   - id: tek-systems
     level: bronze
+  - id: new-context
+    level: bronze
 
   # - id: arresteddevops
   #   level: community
