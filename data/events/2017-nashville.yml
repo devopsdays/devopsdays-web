@@ -211,6 +211,12 @@ program:
     type: open-space
     date: 2017-10-17
     start_time: "2:00"
+    end_time: "2:25"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-17
+    start_time: "2:25"
     end_time: "2:30"
 
   - title: "Open Spaces"
