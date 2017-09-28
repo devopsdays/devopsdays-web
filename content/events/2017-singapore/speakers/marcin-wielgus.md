@@ -1,7 +1,7 @@
 +++
-Title = "Marcin-Wielgus"
-Twitter = ""
-image = "marcin-wielgus.png"
+Title = "Marcin Wielgus"
+Twitter = "s4s0l"
+image = "marcin-wielgus.jpg"
 type = "speaker"
 linktitle = "marcin-wielgus"
 +++

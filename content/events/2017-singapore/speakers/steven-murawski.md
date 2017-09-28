@@ -1,7 +1,7 @@
 +++
 Title = "Steven Murawski"
 Twitter = "StevenMurawski"
-image = "steven-murawski.png"
+image = "steven-murawski.jpg"
 type = "speaker"
 linktitle = "steven-murawski"
 +++

@@ -1,6 +1,6 @@
 +++
 Title = "Amit Kumar"
-Twitter = ""
+Twitter = "toamit"
 image = "amit-kumar.jpg"
 type = "speaker"
 linktitle = "amit-kumar"
