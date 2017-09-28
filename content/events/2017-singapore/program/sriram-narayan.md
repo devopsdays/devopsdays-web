@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-10-25"
-Talk_start_time = "09:00"
-Talk_end_time = "09:30"
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Keynote: Taking DevOps to the Org Chart"
 Type = "talk"
 Speakers = ["sriram-narayan"]
