@@ -11,14 +11,12 @@ Registation ends {{< registration_end >}}
 
 Registration for DevOpsDays Galway 2017 is now open. If you have any questions please contact us at {{< email_organizers >}}.
 
-<h2><a href="https://ti.to/devopsdays-galway/2017/">Click here to register</a></h2>
-<br />Or you can use the widget below.
-
 <div style="width:100%; text-align:left;">
 <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 <script src='https://js.tito.io/v1' async></script>
 <tito-widget event="devopsdays-galway/2017"></tito-widget>
 </div>
+<h3>Alternatively register via <a href="https://ti.to/devopsdays-galway/2017/">https://ti.to/devopsdays-galway/2017/</a></h3>
 <br />
 
 ### Accommodation
@@ -52,3 +50,34 @@ Also some nearby hostels with private rooms:
 Galway is also well serviced by a number of Bed & Breakfast venues on College Road, less than 10 minutes walking distance from the venue.
 
 [^1]: For those wishing to stay at the Radisson Blu, it's recommended to contact <a href="mailto:helen.todd@hpe.com">helen.todd@hpe.com</a> to avail of a special deal.
+
+<style>
+.tito-ticket-list::before {
+  display: inline-block;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  vertical-align: middle;
+  color: #0082AB;
+  content: "{{< registration_start >}} - {{< registration_end >}}";
+  padding-left: 15px;
+  background-color: rgb(240, 240, 240);
+  border-bottom: 1px solid lightgray;
+}
+
+.tito-wrapper::before {
+  display: inline-block;
+  width: 100%;
+  font-size: xx-large;
+  font-weight: bold;
+  color: #0082AB;
+  content: "Tickets";
+  padding-left: 15px;
+  background-color: rgb(240, 240, 240);
+  border-bottom: 1px solid lightgray;
+}
+
+.tito-wrapper {
+  padding: 0px;
+}
+</style>

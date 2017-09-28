@@ -58,6 +58,10 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: pagerduty
+    level: gold
+  - id: opsgenie
+    level: gold
   - id: victorops
     level: silver
   - id: cyberark
@@ -187,11 +191,11 @@ program:
     date: 2017-10-10
     start_time: "16:55"
     end_time: "17:00"
-  - title: Evening Happy Hour @ The Society Room
+  - title: Evening Happy Hour @ The Society Room w/ Board Games by The Portal
     type: custom
     date: 2017-10-10
     start_time: "17:00"
-    end_time: "20:00"
+    end_time: "19:00"
 
   - title: "Registration Opens"
     type: custom

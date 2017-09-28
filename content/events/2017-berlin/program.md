@@ -267,7 +267,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-        -
+	    <a href="/events/2017-berlin/program/jenny-duckett/">Jenny Duckett - Encouraging a culture of learning across your organisation </a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
