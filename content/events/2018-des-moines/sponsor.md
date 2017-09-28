@@ -88,6 +88,33 @@ We greatly value sponsors for this open event. If you are interested in sponsori
                 <td><a href="mailto:organizers-des-moines-2018@devopsdays.org?subject=Social Sponsorship">Contact us</a></td>
             </tr>
             <tr>
+                <td class="label">Pay via Paypal</td>
+                <td>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="Z5XUDQ5985MHY">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    </form></td>
+                <td>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="Y2N4PQMPV8HRY">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    </form></td>
+                <td>
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="K7QVQTEKBWXPY">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                    </form></td>
+                <td>
+                    <a href="mailto:organizers-des-moines-2018@devopsdays.org?subject=Social Sponsorship">Contact us</a>
+                </td>
+            </tr> 
+            <tr>
                 <td class="label">Included tickets</td>
                 <td>1</td>
                 <td>2</td>
