@@ -118,8 +118,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-#  - id: hpe
-#    level: gold
+  - id: hpe
+    level: gold
   - id: avaya
     level: bronze
   - id: cisco
