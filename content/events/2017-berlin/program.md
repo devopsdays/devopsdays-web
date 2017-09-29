@@ -331,7 +331,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #3
         <strong>Hands-On Workshop</strong><br />
-	    <a href="/events/2017-berlin/program/ian-henry/">Habitat - Application automation and containerization with Habitat</a></br>
+	    <a href="/events/2017-berlin/program/thom-may/">Thom May - Habitat - Application automation and containerization with Habitat</a></br>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->
