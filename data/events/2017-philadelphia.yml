@@ -83,9 +83,19 @@ sponsors:
     level: gold
   - id: capitalone
     level: gold
+  - id: checksmarx
+    level: gold
+  - id: cloudbolt
+    level: gold
   - id: mongodb
     level: silver
+  - id: aweber
+    level: silver
+  - id: dynatrace
+    level: silver
   - id: 2nd-watch
+    level: bronze
+  - id: ascensus
     level: bronze
   - id: arresteddevops
     level: community
