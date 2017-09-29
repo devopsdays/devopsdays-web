@@ -38,13 +38,13 @@ We have three (3) tiers of sponsorship available for any vendors that are intere
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
 </tr>
-<tr>
+<!--<tr>
   <td>Logo on t-shirt (if we have one)</td>
   <td>&nbsp;</td>
   <td align="center">&nbsp;</td>
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
   <td align="center">&nbsp;</td>
-</tr>
+</tr>-->
 <tr>
   <td>Logo on slideshow</td>
   <td align="center"><i style="color:green;" class="fa fa-check"></i></td>
