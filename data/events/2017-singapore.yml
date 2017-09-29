@@ -120,91 +120,91 @@ program:
     type: custom
     date: 2017-10-25
     start_time: "08:00"
-    end_time: "08:45"
+    end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
     date: 2017-10-25
-    start_time: "08:45"
-    end_time: "09:00"
+    start_time: "09:00"
+    end_time: "09:15"
   - title: "kief-morris"
     type: talk
     date: 2017-10-25
-    start_time: "09:00"
-    end_time: "09:30"
-  - title: ""
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "scott-moore"
     type: talk
     date: 2017-10-25
-    start_time: "09:30"
-    end_time: "10:00"
+    start_time: "09:50"
+    end_time: "10:20"
   - title: "Break"
     type: custom
     date: 2017-10-25
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "steven-murawski"
     type: talk
     date: 2017-10-25
-    start_time: "10:10"
-    end_time: "10:40"
-  - title: ""
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "peter-chestna"
     type: talk
     date: 2017-10-25
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "11:05"
+    end_time: "11:35"
   - title: "Break"
     type: custom
     date: 2017-10-25
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: ""
+    start_time: "11:35"
+    end_time: "11:45"
+  - title: "dave-kerr"
     type: talk
     date: 2017-10-25
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "andrew-clay-shafer"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "sriram-narayan"
     type: talk
     date: 2017-10-25
-    start_time: "11:50"
-    end_time: "12:20"
+    start_time: "12:20"
+    end_time: "12:50"
   - title: "Announcements"
     type: custom
     date: 2017-10-25
-    start_time: "12:20"
-    end_time: "12:30"
+    start_time: "12:50"
+    end_time: "13:00"
   - title: "Lunch"
     type: custom
     date: 2017-10-25
-    start_time: "12:30"
-    end_time: "13:15"
+    start_time: "13:00"
+    end_time: "14:00"
   - title: "TBA"
     type: custom
     date: 2017-10-25
-    start_time: "13:15"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:15"
   - title: "Ignites"
     type: ignite
     date: 2017-10-25
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "14:15"
+    end_time: "14:50"
   - title: "Break / Open Space Voting"
     type: custom
     date: 2017-10-25
     start_time: "14:50"
-    end_time: "15:15"
+    end_time: "15:10"
   - title: "Open Space #1"
     type: open-space
     date: 2017-10-25
-    start_time: "15:15"
+    start_time: "15:10"
     end_time: "16:00"
   - title: "Open Space #2"
     type: open-space
     date: 2017-10-25
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "16:50"
   - title: "Close Day & Logistics"
     type: custom
     date: 2017-10-25
-    start_time: "16:45"
+    start_time: "16:50"
     end_time: "17:00"
   - title: "Evening event"
     comments: "TBA"
@@ -216,91 +216,91 @@ program:
     type: custom
     date: 2017-10-26
     start_time: "08:00"
-    end_time: "08:45"
+    end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
     date: 2017-10-26
-    start_time: "08:45"
-    end_time: "09:00"
-  - title: "sriram-narayan"
-    type: talk
-    date: 2017-10-26
     start_time: "09:00"
-    end_time: "09:30"
-  - title: ""
+    end_time: "09:15"
+  - title: "andrew-clay-shafer"
     type: talk
     date: 2017-10-26
-    start_time: "09:30"
-    end_time: "10:00"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "matt-ray"
+    type: talk
+    date: 2017-10-26
+    start_time: "09:50"
+    end_time: "10:20"
   - title: "Break"
     type: custom
     date: 2017-10-26
-    start_time: "10:00"
-    end_time: "10:10"
-  - title: ""
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "ion-mudreac"
     type: talk
     date: 2017-10-26
-    start_time: "10:10"
-    end_time: "10:40"
-  - title: ""
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "amit-kumar"
     type: talk
     date: 2017-10-26
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "11:05"
+    end_time: "11:35"
   - title: "Break"
     type: custom
     date: 2017-10-26
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: ""
+    start_time: "11:35"
+    end_time: "11:45"
+  - title: "marcin-wielgus"
     type: talk
     date: 2017-10-26
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:45"
+    end_time: "12:15"
   - title: "closing-keynote"
     type: talk
     date: 2017-10-26
-    start_time: "11:50"
-    end_time: "12:20"
+    start_time: "12:20"
+    end_time: "12:50"
   - title: "Announcements"
     type: custom
     date: 2017-10-26
-    start_time: "12:20"
-    end_time: "12:30"
+    start_time: "12:50"
+    end_time: "13:00"
   - title: "Lunch"
     type: custom
     date: 2017-10-26
-    start_time: "12:30"
-    end_time: "13:15"
+    start_time: "13:00"
+    end_time: "14:00"
   - title: "TBA"
     type: custom
     date: 2017-10-26
-    start_time: "13:15"
-    end_time: "14:00"
+    start_time: "14:00"
+    end_time: "14:15"
   - title: "Ignites"
     type: ignite
     date: 2017-10-26
-    start_time: "14:00"
-    end_time: "14:40"
+    start_time: "14:15"
+    end_time: "14:50"
   - title: "Break / Open Space Voting"
     type: custom
     date: 2017-10-26
     start_time: "14:50"
-    end_time: "15:15"
+    end_time: "15:10"
   - title: "Open Space #1"
     type: open-space
     date: 2017-10-26
-    start_time: "15:15"
+    start_time: "15:10"
     end_time: "16:00"
   - title: "Open Space #2"
     type: open-space
     date: 2017-10-26
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "16:50"
   - title: "Close Day & Logistics"
     type: custom
     date: 2017-10-26
-    start_time: "16:45"
+    start_time: "16:50"
     end_time: "17:00"
 
 # ignites:

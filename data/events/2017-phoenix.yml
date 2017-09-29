@@ -114,9 +114,14 @@ sponsors:
     url: http://trace3.com/devops/
   - id: chef
     level: silver
+  - id: forsythe
+    level: silver
   - id: tek-systems
     level: bronze
-
+  - id: new-context
+    level: bronze
+  - id: contrast_security
+    level: gold
   # - id: arresteddevops
   #   level: community
 
