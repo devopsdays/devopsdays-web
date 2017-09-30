@@ -7,4 +7,8 @@ Type = "talk"
 Speakers = ["dave-kerr"]
 +++
 
-As the popularity of microservice architecture grows, CI and CD becomes more and more critical. Systems which contain dozens of services and diverse databases can get very challenging to manage. In this presentation I'll take you through some hands on patterns which you can use to help you better manage your microservices!	This talk is based on some very practical lessons learned helping a leading South East Asian bank move from a monolith to microservices architecture. This is a great chance for people to learn what works (and what doesn't) from my experiences in this domain. The patterns are applicable regardless of the languages you implement your microservices in and a all accompanied with code examples.
+As the popularity of microservice architecture grows, CI and CD becomes more and more critical. Systems which contain dozens of services and diverse databases can get very challenging to manage. In this presentation I'll take you through some hands on patterns which you can use to help you better manage your microservices!
+
+This talk is based on some very practical lessons learned helping a leading South East Asian bank move from a monolith to microservices architecture. This is a great chance for people to learn what works (and what doesn't) from my experiences in this domain.
+
+The patterns are applicable regardless of the languages you implement your microservices in and a all accompanied with code examples.
