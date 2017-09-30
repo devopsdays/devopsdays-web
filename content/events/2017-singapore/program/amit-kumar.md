@@ -1,8 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
-Title = "Creating DevOps culture in BTPN"
+Talk_date = "2017-10-26"
+Talk_start_time = "11:05"
+Talk_end_time = "11:35"
+Title = "Creating DevOps culture in a bank"
 Type = "talk"
 Speakers = ["amit-kumar"]
 +++
@@ -20,3 +20,12 @@ The talk will take the audience through the journey we took:
 * from VM to full containerized microservices
 * from manual monitoring to full customer journey mapping
 * from just being a sysadmin to become Platform as a Service Provider
+
+### Why would this talk be a good fit for the DevOpsDays audience?
+
+This talk details the journey we took @BTPN. It will be a learning experience for the audience to understand:
+* challenges we faced in this DevOps transformation journey
+* balance between going wild introducing new tools and techs
+* mindset change
+
+{{< event_link page="program" text="view full program" >}}
