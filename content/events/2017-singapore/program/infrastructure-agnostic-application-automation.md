@@ -7,10 +7,12 @@ Type = "talk"
 Speakers = ["matt-ray"]
 +++
 
-Application and operations teams are at a crossroads of bring applications into "traditional infrastructure and containerized applications. Much of the effort of configuration management is dealing with the shortcomings of packages and the underlying operating systems. With the rush to move everything to containers, operational concerns are often overlooked. Applications need to standardize their builds, their packaging, and how they are instrumented for observability.
+For too long audits and security reviews have been seen as resistant or even blocking the frequent release of software. Auditors require access to static systems and environments, which would seem to make continuous delivery impossible. Too frequently audits are a fire drill reaction to the current state and temporary fixes are put in place to appease the compliance audit without being integrated into future releases.
 
-The open source Habitat project (https://habitat.sh) wants to make it easier to build, manage and deploy applications into containers and traditional operating systems. Habitat is a system for building, packaging and making applications more manageable. Habitat answers the question "what's in the box?" and complements container orchestrators like Kubernetes and Docker Swarm while providing a path for bringing new and legacy Linux and Windows applications into modern environments (not just containers!). This session will discuss the evolution of application management, provide an overview of Habitat and a demonstration of building and packaging multi-node applications.
+What if auditing, compliance and security could be fully integrated into continuous integration and continuous delivery pipelines? What if we automated our compliance policies so they could be ""shifted left"" as part of the application and infrastructure lifecycle? This session will discuss real-world examples of how to translate security and compliance requirements into software and make them a proactive part of the software-delivery process. We can decrease risk by defining compliance rules as code and making them a part of the standard continuous delivery workflow.
 
-Why would this talk be a good fit for the DevOpsDays audience?
-* Managing applications in hybrid environments is an ongoing struggle.
+### Why would this talk be a good fit for the DevOpsDays audience?
+
+Incorporating compliance and audit checking into continuous integration pipelines allows teams to move faster and safer at the same time.
+
 {{< event_link page="program" text="view full program" >}}

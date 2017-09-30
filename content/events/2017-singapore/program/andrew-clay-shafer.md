@@ -13,4 +13,6 @@ A lot has changed in the last few years and change does not appear to be slowing
 
 How can our mindsets, skillsets and toolsets accommodate change without being overwhelmed or falling behind?
 
-This talk will explore the most successful patterns that have emerged with an attempt to make these strategies for change more direct and actionable.{{< event_link page="program" text="view full program" >}}
+This talk will explore the most successful patterns that have emerged with an attempt to make these strategies for change more direct and actionable.
+
+{{< event_link page="program" text="view full program" >}}

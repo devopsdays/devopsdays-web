@@ -13,7 +13,6 @@ This transformation often comes at a price. Many firms focus on siloing security
 
 SecDevOps helps!
 
-
 ### Why would this talk be a good fit for the DevOpsDays audience?
 
 As more and more companies are making the shift from on-premises to public cloud; the standard approach to DevOps is evolving.
