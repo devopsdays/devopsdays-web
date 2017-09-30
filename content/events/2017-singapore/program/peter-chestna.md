@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-10-25"
+Talk_start_time = "11:05"
+Talk_end_time = "11:35"
 Title = "Full Spectrum Engineering – The new full-stack"
 Type = "talk"
 Speakers = ["peter-chestna"]

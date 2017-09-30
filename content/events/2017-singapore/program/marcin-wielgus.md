@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-10-26"
+Talk_start_time = "11:45"
+Talk_end_time = "12:15"
 Title = "Zero-ops Kubernetes"
 Type = "talk"
 Speakers = ["marcin-wielgus"]

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-10-25"
+Talk_start_time = "11:45"
+Talk_end_time = "12:15"
 Title = "Monoliths to Microservices - Practical Tips for CI, CD and DevOps"
 Type = "talk"
 Speakers = ["dave-kerr"]

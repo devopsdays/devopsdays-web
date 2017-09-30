@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-10-25"
+Talk_start_time = "09:50"
+Talk_end_time = "10:20"
 Title = "Security first: A SecDevOps approach to cloud building."
 Type = "talk"
 Speakers = ["scott-moore"]

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-10-26"
+Talk_start_time = "10:30"
+Talk_end_time = "11:00"
 Title = "Enterprise bus DevOps. How we are doing it in SCB"
 Type = "talk"
 Speakers = ["ion-mudreac"]
