@@ -20,3 +20,5 @@ The talk will take the audience through the journey we took:
 * from VM to full containerized microservices
 * from manual monitoring to full customer journey mapping
 * from just being a sysadmin to become Platform as a Service Provider
+
+{{< event_link page="program" text="view full program" >}}

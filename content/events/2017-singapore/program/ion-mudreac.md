@@ -11,3 +11,4 @@ As most of the enterprises struggle to implement DevOps in true sense as cultura
 
 Why would this talk be a good fit for the DevOpsDays audience?
 * Practical use case on digital transformation for most critical component of the firm. I can share failures and successes in our journey. 
+{{< event_link page="program" text="view full program" >}}

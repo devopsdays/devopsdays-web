@@ -24,3 +24,5 @@ One challenge I've found across organizations who attempt to adopt DevOps is the
 Since "DevOps" as a term is so overloaded, everyone has a different idea of what it means and everyone has a different idea of what needs to happen first.
 
 Using a technique like story mapping provides a visible artifact which can help create that alignment (or at least awareness).
+
+{{< event_link page="program" text="view full program" >}}

@@ -13,3 +13,5 @@ What if auditing, compliance and security could be fully integrated into continu
 
 Why would this talk be a good fit for the DevOpsDays audience?
 * Incorporating compliance and audit checking into continuous integration pipelines allows teams to move faster and safer at the same time.
+
+{{< event_link page="program" text="view full program" >}}

@@ -12,3 +12,5 @@ As the popularity of microservice architecture grows, CI and CD becomes more and
 This talk is based on some very practical lessons learned helping a leading South East Asian bank move from a monolith to microservices architecture. This is a great chance for people to learn what works (and what doesn't) from my experiences in this domain.
 
 The patterns are applicable regardless of the languages you implement your microservices in and a all accompanied with code examples.
+
+{{< event_link page="program" text="view full program" >}}

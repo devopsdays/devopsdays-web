@@ -23,3 +23,5 @@ From encryption, compliance and regulations like GDPR, security in the cloud has
 This presentation aims to highlight existing DevOps cultural approaches, tooling and how security can be wrapped in every facet of the build and release cycle and how to get sales and customer facing resources wrapped in.
 
 Scott will share real-life experiences working with customers at Microsoft Azure and Amazon Web Services and explain how focusing on ‘security first’ transformed their business from product ideation to creation.
+
+{{< event_link page="program" text="view full program" >}}

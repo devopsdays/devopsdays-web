@@ -16,3 +16,5 @@ During this presentation I will describe Kubernetes features that help to reduce
 ### Why would this talk be a good fit for the DevOpsDays audience?
 
 The keynote talk for this conference is about automation and this talk will show how to bring automation to production in the (probably) most popular container orchestration system.
+
+{{< event_link page="program" text="view full program" >}}

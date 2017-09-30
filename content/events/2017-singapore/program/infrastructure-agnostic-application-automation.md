@@ -13,3 +13,4 @@ The open source Habitat project (https://habitat.sh) wants to make it easier to 
 
 Why would this talk be a good fit for the DevOpsDays audience?
 * Managing applications in hybrid environments is an ongoing struggle.
+{{< event_link page="program" text="view full program" >}}

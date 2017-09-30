@@ -8,3 +8,5 @@ Speakers = ["closing-keynote-speaker"]
 +++
 
 TBA
+
+{{< event_link page="program" text="view full program" >}}
