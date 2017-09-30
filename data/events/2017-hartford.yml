@@ -78,6 +78,10 @@ sponsors:
     level: bronze
   - id: sonatype
     level: bronze
+  - id: checkmarx
+    level: bronze
+  - id: newrelic
+    level: bronze
   - id: stickermule
     level: stickers
 

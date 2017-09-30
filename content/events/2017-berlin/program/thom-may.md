@@ -1,7 +1,7 @@
 +++
 Title = "Application Automation and Containerization with Habitat"
 Type = "workshop"
-Speakers = ["ian-henry"]
+Speakers = ["thom-may"]
 +++
 
 Habitat builds and manages modern applications following the practices and principles of modern application teams. Build applications of any flavor, from microservices to traditional applications. Deploy applications in any operational environment from bare metal to containers. Habitat provides consistent, repeatable, auditable applications that lower operational complexity and simplify development workflows.

@@ -116,7 +116,6 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong><p>
 	    <a href="/events/2017-berlin/program/gerald-schmidt/">Gerald Schmidt - From scratch: Useful container services in 10MB or less</a></br>
-	    <a href="/events/2017-berlin/program/maris-prabhakaran-m/">Maris Prabhakaran M - HumBusDevSecOps - Missing block</a></br>
 	    <a href="/events/2017-berlin/program/patrick-j-hagerty/">Patrick J Hagerty - Chasing the Elk: Intro to ELK stack</a></br>
 	    <a href="/events/2017-berlin/program/philipp-krenn/">Philipp Krenn - Fighting Database Ransomware</a></br>
       </div>
@@ -332,7 +331,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #3
         <strong>Hands-On Workshop</strong><br />
-	    <a href="/events/2017-berlin/program/ian-henry/">Habitat - Application automation and containerization with Habitat</a></br>
+	    <a href="/events/2017-berlin/program/thom-may/">Thom May - Habitat - Application automation and containerization with Habitat</a></br>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->

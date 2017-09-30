@@ -1,9 +1,9 @@
 +++
-Title = "Ian Henry"
+Title = "Thom May"
 Twitter = ""
 image = ""
 type = "speaker"
-linktitle = "ian-henry"
+linktitle = "thom-may"
 
 +++
 
