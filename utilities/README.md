@@ -66,6 +66,8 @@ Use [add_sponsors.sh](add_sponsors.sh) to easily add new sponsors. (Only do this
 1. Put the images for your sponsors in the `static/img/sponsors` directory. They need to be PNG files and named exactly after the name of the sponsor in your event file (and the corresponding sponsor data file), i.e., `static/img/sponsors/sponsorname.png`.
 1. Add the new sponsor to your event's datafile with the appropriate level.
 
+See [contrib/make_sponsors.rb](make_sponsors.rb) for another option.
+
 
 ### Sponsor logos
 
