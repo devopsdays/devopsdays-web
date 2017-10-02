@@ -60,6 +60,7 @@ team_members: # Name is the only required field for team members.
   - name: "Farisada Nurmohamed"
   - name: "Peter Nijenhuis"
   - name: "Chris Lennon"
+  - name: "Daniel Paulus"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
     # facebook: "https://www.facebook.com/sally.fields"
