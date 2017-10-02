@@ -303,41 +303,41 @@ program:
     start_time: "16:50"
     end_time: "17:00"
 
-# ignites:
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#   - title: "ignite"
-#     date: 2017-10-25
-#
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
-#   - title: "ignite"
-#     date: 2017-10-26
+ignites:
+  - title: "ignite-dan-weidong-liang"
+    date: 2017-10-25
+  - title: "ignite-rob-sewell"
+    date: 2017-10-25
+  - title: "ignite-antonio-cocera"
+    date: 2017-10-25
+  - title: "ignite-paul-took"
+    date: 2017-10-25
+  - title: "ignite-jamie-donoghue"
+    date: 2017-10-25
+  - title: "ignite-david-varvel"
+    date: 2017-10-25
+  - title: "ignite-matt-ray"
+    date: 2017-10-25
+#  - title: "ignite"
+#    date: 2017-10-25
+#  - title: "ignite"
+#    date: 2017-10-25
+
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
+#  - title: "ignite"
+#    date: 2017-10-26
