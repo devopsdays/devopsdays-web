@@ -2,7 +2,7 @@ name: "2018-toronto" # The name of the event. Four digit year with the city name
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Toronto" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysTO" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Toronto!" # Edit this to suit your preferences
+description: "Be part of the fifth DevOpsDays Toronto!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -25,7 +25,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "43.654155,-79.385211" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Toronto" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -66,9 +66,6 @@ proposal_email: "proposals-toronto-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: samplesponsorname
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -77,12 +74,21 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
+  - id: happyhour
+    label: Happy Hour
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
   - id: bronze
     label: Bronze
   - id: community
