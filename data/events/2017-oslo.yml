@@ -132,13 +132,13 @@ sponsors:
 #    level: gold
   - id: praqma
     level: gold
-#  - id: knowit
-#    level: gold
+  - id: redpill-linpro
+    level: gold
   - id: microsoft
     level: gold
   - id: telia
     level: platinum
-#  - id: atlassian
+#  - id: finn
 #    level: gold
 #  - id: stackstate
 #    level: gold
