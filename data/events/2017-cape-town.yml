@@ -89,6 +89,9 @@ sponsor_levels:
 #    max: 1
 
 sponsors:
+ - id: obsidian
+   level: platinum
+   url: https://sites.elasticgrid.com/atlassian/devops-aw/obsidianza/
  - id: offerzen
    level: gold
  - id: thoughtworks-gocd

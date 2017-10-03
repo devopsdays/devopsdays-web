@@ -5,7 +5,7 @@ aliases = ["/events/2017-brasilia/welcome"]
 Description = "devopsdays Brasilia 2017"
 +++
 
-## Our hotsite in Portuguese [devopsdays.bsb.br](http://devopsdays.bsb.br)
+## Check out our hotsite in Portuguese [devopsdays.bsb.br](http://devopsdays.bsb.br)
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -47,23 +47,23 @@ Description = "devopsdays Brasilia 2017"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="http://devopsdays.bsb.br/about/programa">program <i class="fa fa-external-link"></i></a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the <a href="http://devopsdays.bsb.br/speakers">speakers! <i class="fa fa-external-link"></i></a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
