@@ -30,7 +30,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: about
   - name: location
-  - name: speakers
+#  - name: speakers
 #  - name: program
   - name: propose
   - name: registration
