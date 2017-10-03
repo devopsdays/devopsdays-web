@@ -2,12 +2,13 @@ name: "2018-indianapolis" # The name of the event. Four digit year with the city
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Indianapolis" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysINDY" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+status: "current"
 description: "Devopsdays is coming to Indianapolis!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-07-11
+enddate: 2018-07-12
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -25,14 +26,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "39.768502, -86.158047" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Indianapolis" # Defaults to city, but you can make it the venue name.
+coordinates: "39.766484, -86.164786" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Indianapolis Marriott Downtown" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "350 W Maryland St, Indianapolis, IN 46225" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -80,7 +81,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -95,5 +96,7 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: alacarte
+    label: Alacarte
   - id: community
     label: Community
