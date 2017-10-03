@@ -128,8 +128,6 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-#  - id: telenor-digital
-#    level: gold
   - id: praqma
     level: gold
   - id: redpill-linpro
@@ -139,8 +137,6 @@ sponsors:
   - id: telia
     level: platinum
 #  - id: finn
-#    level: gold
-#  - id: stackstate
 #    level: gold
   - id: soprasteria
     level: gold
