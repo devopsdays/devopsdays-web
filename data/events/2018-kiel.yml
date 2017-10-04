@@ -82,9 +82,11 @@ proposal_email: "proposals-kiel-2018@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: 2018-coreadmin
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+    # url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
+  - id: diwish
+    level: supporter
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -93,12 +95,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: silver
-    label: Silver
-    max: 10
   - id: gold
     label: Gold
     max: 5
+  - id: silver
+    label: Silver
+    max: 10
   - id: evening
     label: Evening
     max: 1
@@ -113,3 +115,5 @@ sponsor_levels:
     max: 2
   - id: contributor
     label: Contributor
+  - id: supporter
+    label: Supporter
