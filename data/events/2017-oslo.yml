@@ -136,8 +136,8 @@ sponsors:
     level: gold
   - id: telia
     level: platinum
-#  - id: finn
-#    level: gold
+  - id: finn
+    level: gold
   - id: soprasteria
     level: gold
   - id: intility
