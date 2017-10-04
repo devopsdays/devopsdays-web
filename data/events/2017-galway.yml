@@ -102,6 +102,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "http://linkedin.com/in/jpsulli"
   - name: "Waldemar Znoinski"
     employer: "Red Hat"
+    image: "waldemarznoinski.jpg"
     github: "wznoinsk"
     linkedin: "https://www.linkedin.com/in/wznoinski/"
 
