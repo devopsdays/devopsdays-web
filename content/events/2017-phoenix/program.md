@@ -68,7 +68,7 @@ aliases = ["/events/2017-phoenix/schedule"]
         <strong>{{< event_link page="program/aaron-contorer" text="Devops For Data Science With Docker Containerization, Packer, Terraform, SaltStack, And AWS" >}}</strong><br />{{< event_link page="speakers/aaron-contorer" text="Aaron Contorer" >}}<br />Room 1
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/heidi-waterhouse" text="Choose Your Own Deployment: Interactive Feature Flag Adventure" >}}</strong><br />{{< event_link page="speakers/heidi-waterhouse" text="Heidi Waterhouse" >}}<br />Room 3
+        <strong>{{< event_link page="program/heidi-waterhouse" text="Choose Your Own Deployment: Interactive Feature Flag Adventure" >}}</strong><br />{{< event_link page="speakers/heidi-waterhouse" text="Heidi Waterhouse" >}}<br />Room 2
       </div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/jeff-nickoloff" text="Empowering Operations and Simplifying Root Cause Analysis with Application Telemetry" >}}</strong><br />{{< event_link page="speakers/jeff-nickoloff" text="Jeff Nickoloff" >}}<br />Room 3
@@ -89,10 +89,10 @@ aliases = ["/events/2017-phoenix/schedule"]
         <time>11:30-12:00</time>
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/todd-benson" text="The unlikely couple, DevOps and Security. Can it work?" >}}</strong><br />{{< event_link page="speakers/todd-benson" text="Todd Benson" >}}<br />Room 3
+        <strong>{{< event_link page="program/todd-benson" text="The unlikely couple, DevOps and Security. Can it work?" >}}</strong><br />{{< event_link page="speakers/todd-benson" text="Todd Benson" >}}<br />Room 1
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/akshay-ranganath-and-duncan-mcallister" text="Integrating CDN into your CI/CD Pipeline" >}}</strong><br />{{< event_link page="speakers/akshay-ranganath" text="Akshay Ranganath" >}} and {{< event_link page="speakers/duncan-mcallister" text="Duncan Mcallister" >}}<br />Room 3
+        <strong>{{< event_link page="program/akshay-ranganath-and-duncan-mcallister" text="Integrating CDN into your CI/CD Pipeline" >}}</strong><br />{{< event_link page="speakers/akshay-ranganath" text="Akshay Ranganath" >}} and {{< event_link page="speakers/duncan-mcallister" text="Duncan Mcallister" >}}<br />Room 2
       </div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/stephen-kuenzli" text="Peek inside (one) modern infrastructure development environment" >}}</strong><br />{{< event_link page="speakers/stephen-kuenzli" text="Stephen Kuenzli" >}}<br />Room 3
@@ -113,10 +113,10 @@ aliases = ["/events/2017-phoenix/schedule"]
         <time>13:00-13:30</time>
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/dan-stolts" text="DevOps How To Put Value For All Into A Value Stream Mapping" >}}</strong><br />{{< event_link page="speakers/dan-stolts" text="Dan Stolts" >}}<br />Room 3
+        <strong>{{< event_link page="program/dan-stolts" text="DevOps How To Put Value For All Into A Value Stream Mapping" >}}</strong><br />{{< event_link page="speakers/dan-stolts" text="Dan Stolts" >}}<br />Room 1
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/michael-glenney" text="API Management - Why DevOps is critical to it's success" >}}</strong><br />{{< event_link page="speakers/michael-glenney" text="Michael Glenney" >}}<br />Room 3
+        <strong>{{< event_link page="program/michael-glenney" text="API Management - Why DevOps is critical to it's success" >}}</strong><br />{{< event_link page="speakers/michael-glenney" text="Michael Glenney" >}}<br />Room 2
       </div>
       <div class = "col-md-3 box">
         <strong>To Be Announced</strong><br /><br />Room 3
@@ -137,10 +137,10 @@ aliases = ["/events/2017-phoenix/schedule"]
         <time>13:45-14:15</time>
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/melanie-cey" text="Teaching Troubleshooting Through Modesty and Anti-Pattern Analysis" >}}</strong><br />{{< event_link page="speakers/melanie-cey" text="Melanie Cey" >}}<br />Room 3
+        <strong>{{< event_link page="program/melanie-cey" text="Teaching Troubleshooting Through Modesty and Anti-Pattern Analysis" >}}</strong><br />{{< event_link page="speakers/melanie-cey" text="Melanie Cey" >}}<br />Room 1
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/rob-richardson" text="CI/CD on the Microsoft Stack" >}}</strong><br />{{< event_link page="speakers/rob-richardson" text="Rob Richardson" >}}<br />Room 3
+        <strong>{{< event_link page="program/rob-richardson" text="CI/CD on the Microsoft Stack" >}}</strong><br />{{< event_link page="speakers/rob-richardson" text="Rob Richardson" >}}<br />Room 2
       </div>
       <div class = "col-md-3 box">
         <strong>To Be Announced</strong><br /><br />Room 3
