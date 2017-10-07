@@ -125,11 +125,15 @@ sponsors:
     level: silver
   - id: forsythe
     level: silver
+  - id: infusionsoft
+    level: silver
   - id: tek-systems
     level: bronze
   - id: new-context
     level: bronze
   - id: elastic
+    level: bronze
+  - id: li9
     level: bronze
   # - id: arresteddevops
   #   level: community
