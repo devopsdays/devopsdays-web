@@ -11,6 +11,9 @@ Description = "devopsdays Toronto 2018"
 
 </br>
 
+devopsdays Toronto is back for its fifth year and we're growing. Our new venue will allow us to have 700 attendees.
+</br>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -20,32 +23,38 @@ Description = "devopsdays Toronto 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Registration will open January 1, 2018
   </div>
-</div> -->
+<!--  <div class = "col-md-8">
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  </div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    Our CFP will open on December 1, 2017. Be sure to tell your friends and co-workers. We're always looking for new, local voices.
   </div>
-</div> -->
+<!--  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
+  </div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

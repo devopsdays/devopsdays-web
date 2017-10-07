@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Toronto 2018"
 +++
 
-The DevOps Days event mandate is to bring the highest ­quality speakers, experts and the curious together. By sponsoring DevOps Days, you will be exposing your company’s brand and services to Toronto’s top talent in this rapidly growing space. (And feel great about it, too!)
+The devopsdays event mandate is to bring the highest ­quality speakers, experts and the curious together. By sponsoring devopsdays, you will be exposing your company’s brand and services to Toronto’s top talent in this rapidly growing space. (And feel great about it, too!)
 
 The prospectus for the 2018 conference will be available soon.
 
