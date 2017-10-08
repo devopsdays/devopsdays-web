@@ -114,7 +114,7 @@ program:
     start_time: "9:15"
     end_time: "9:00" 
 
-  - title: "barbar-bouldin"
+  - title: "barbara-bouldin"
     type: talk
     date: 2017-11-08
     start_time: "9:15"
@@ -198,7 +198,7 @@ program:
     start_time: "9:15"
     end_time: "9:45" 
 
-  - title: "aaron-katlin"
+  - title: "aaron-kalin"
     type: talk
     date: 2017-11-09
     start_time: "9:55"
@@ -210,13 +210,13 @@ program:
     start_time: "10:25"
     end_time: "10:40"
 
-  - title: "jeffrey-sykes"
+  - title: "ryan-lockard"
     type: talk
     date: 2017-11-09
     start_time: "10:40"
     end_time: "11:10"
 
-  - title: "ned-bauerle"
+  - title: "jason-hand"
     type: talk
     date: 2017-11-09
     start_time: "11:20"
