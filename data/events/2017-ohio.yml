@@ -100,3 +100,164 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: support
     label: Community and Supporting
+
+program:
+  - title: "Registration and Breakfast" # Day 1 Start
+    type: custom
+    date: 2017-11-08
+    start_time: "8:00"
+    end_time: "9:00" 
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-08
+    start_time: "9:15"
+    end_time: "9:00" 
+
+  - title: "barbar-bouldin"
+    type: talk
+    date: 2017-11-08
+    start_time: "9:15"
+    end_time: "9:45" 
+
+  - title: "robb-schiefer"
+    type: talk
+    date: 2017-11-08
+    start_time: "9:55"
+    end_time: "10:25" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-08
+    start_time: "10:25"
+    end_time: "10:40" 
+
+  - title: "barry-tarlton"
+    type: talk
+    date: 2017-11-08
+    start_time: "10:40"
+    end_time: "11:15" 
+
+  - title: "Adarsh Shah"
+    type: talk
+    date: 2017-11-08
+    start_time: "11:20"
+    end_time: "11:50" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-08
+    start_time: "12:00"
+    end_time: "12:00" 
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-08
+    start_time: "12:00"
+    end_time: "1:00" 
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-08
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Open Spaces Voting"
+    type: open-space
+    date: 2017-11-08
+    start_time: "1:30"
+    end_time: "1:55"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2017-11-08
+    start_time: "2:00"
+    end_time: "4:45"
+
+  - title: "Close of day"
+    type: custom
+    date: 2017-11-08
+    start_time: "4:45"
+    end_time: "5:00" 
+
+#  - title: "Dinner and Open Bar"
+#    type: custom
+#    date: 2017-11-08
+#    start_time: "6:00"
+#    end_time: "8:00"
+
+  - title: "Registration and Breakfast" # Day 2 start
+    type: custom
+    date: 2017-11-09
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "chris-mcfee"
+    type: talk
+    date: 2017-11-09
+    start_time: "9:15"
+    end_time: "9:45" 
+
+  - title: "aaron-katlin"
+    type: talk
+    date: 2017-11-09
+    start_time: "9:55"
+    end_time: "10:25"
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-09
+    start_time: "10:25"
+    end_time: "10:40"
+
+  - title: "jeffrey-sykes"
+    type: talk
+    date: 2017-11-09
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "ned-bauerle"
+    type: talk
+    date: 2017-11-09
+    start_time: "11:20"
+    end_time: "11:55"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-09
+    start_time: "12:00"
+    end_time: "1:00"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-09
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2017-11-09
+    start_time: "1:30"
+    end_time: "4:00"
+
+  - title: "Close of Event"
+    type: custom
+    date: 2017-11-09
+    start_time: "4:00"
+    end_time: "4:30"
+
+ignites:
+  - title: "jerry-cattel"
+    date: 2017-10-10
+  - title: "pj-hagerty"
+    date: 2017-10-10
+  - title: "neil-primmer"
+    date: 2017-10-10
+  - title: "tiffany-longworth"
+    date: 2017-10-10
+  - title: "tom-larrow"
+    date: 2017-10-11
+  - title: "machael-butler"
+    date: 2017-10-11
+  - title: "michael-pinnegar"
+    date: 2017-10-11
