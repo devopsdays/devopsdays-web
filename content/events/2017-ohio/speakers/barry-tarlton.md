@@ -1,5 +1,5 @@
 +++
-Title = "Barry-tarlton"
+Title = "Barry Tarlton"
 Twitter = ""
 image = "barry-tarlton.jpg"
 type = "speaker"

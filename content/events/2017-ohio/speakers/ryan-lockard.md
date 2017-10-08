@@ -1,5 +1,5 @@
 +++
-Title = "ryan-lockard"
+Title = "Ryan Lockard"
 Twitter = ""
 image = "ryan-lockard.jpg"
 type = "speaker"

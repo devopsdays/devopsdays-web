@@ -120,7 +120,7 @@ program:
     start_time: "9:15"
     end_time: "9:45" 
 
-  - title: "robb-schiefer"
+  - title: "preston-waller"
     type: talk
     date: 2017-11-08
     start_time: "9:55"
@@ -138,7 +138,7 @@ program:
     start_time: "10:40"
     end_time: "11:15" 
 
-  - title: "Adarsh Shah"
+  - title: "adarsh-shah"
     type: talk
     date: 2017-11-08
     start_time: "11:20"
@@ -178,13 +178,7 @@ program:
     type: custom
     date: 2017-11-08
     start_time: "4:45"
-    end_time: "5:00" 
-
-#  - title: "Dinner and Open Bar"
-#    type: custom
-#    date: 2017-11-08
-#    start_time: "6:00"
-#    end_time: "8:00"
+    end_time: "5:00"
 
   - title: "Registration and Breakfast" # Day 2 start
     type: custom
@@ -247,17 +241,17 @@ program:
     end_time: "4:30"
 
 ignites:
-  - title: "jerry-cattel"
-    date: 2017-10-10
+  - title: "jerry-cattell"
+    date: 2017-11-08
   - title: "pj-hagerty"
-    date: 2017-10-10
+    date: 2017-11-08
   - title: "neil-primmer"
-    date: 2017-10-10
+    date: 2017-11-08
   - title: "tiffany-longworth"
-    date: 2017-10-10
+    date: 2017-11-08
   - title: "tom-larrow"
-    date: 2017-10-11
-  - title: "machael-butler"
-    date: 2017-10-11
+    date: 2017-11-09
+  - title: "michael-butler"
+    date: 2017-11-09
   - title: "michael-pinnegar"
-    date: 2017-10-11
+    date: 2017-11-09
