@@ -138,7 +138,7 @@ sponsors:
     level: silver
   - id: tgs
     level: bronze
-  - id: googlecloud
+  - id: googlecloud-before-20171005
     level: bronze
   - id: netapp
     level: silver
