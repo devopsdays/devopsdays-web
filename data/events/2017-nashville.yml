@@ -50,6 +50,7 @@ team_members: # Name is the only required field for team members.
   - name: "Alicia Sepanik"
   - name: "Brian Pitts"
   - name: "Calah Brewster"
+  - name: "Jeff Davis"
   - name: "Joel Parks"
   - name: "Nick Wallace"
   - name: "Steve Stewart"
