@@ -45,13 +45,6 @@ fi
 read -p "Enter sponsor url: " url
 [ -z "${url}" ] && url=''
 
-# twitter handle
-read -p "Enter sponsor twitter handle (return for none): " twitter
-[ -z "${twitter}" ] && twitter=''
-# remove @ if they added it
-twitter=$(echo $twitter | sed 's/@//')
-
-
 read -p "Enter path to PNG logo (must be at least 200px wide & have white or transparent background): " logo
 [ -z "${logo}" ] && logo=''
 
@@ -61,7 +54,6 @@ cp examples/data/sponsors/sponsorname.yml $sponsorfile
 
 SEDCMD "s/SPONSORNAME/$sponsorname/" $sponsorfile
 SEDCMD "s%URL%$url%" $sponsorfile
-SEDCMD "s/TWITTER/$twitter/" $sponsorfile
 
 # Set logo
 
