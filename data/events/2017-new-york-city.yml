@@ -47,12 +47,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Ross Clanton"
+    twitter: "RossClanton"
+    employer: "Verizon"
+    linkedin: "https://www.linkedin.com/in/rossclanton"
   - name: "Ceren Ercen"
   - name: "Nicole Johnson"
   - name: "Tom Limoncelli"
     twitter: "YesThatTom"
     employer: "Stack Overflow, Inc."
     github: "TomOnTime"
+  - name: "Jacki Damiano"
+  - name: "Karen Whelan"
+  - name: "Matt Walter"
 #  - name: "Sally Fields"
 #    employer: "Acme Anvil Co."
 #    facebook: "https://www.facebook.com/sally.fields"
