@@ -1,7 +1,6 @@
 +++
 Title = "Tiffany Longworth"
 Twitter = "thelongshanx"
-image = "../../2017-hartford/speakers/tiffany-longworth.jpg"
 type = "speaker"
 linktitle = "tiffany-longworth"
 +++
