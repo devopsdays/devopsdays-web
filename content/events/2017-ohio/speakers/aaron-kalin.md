@@ -1,7 +1,6 @@
 +++
 Title = "Aaron Kalin"
 Twitter = ""
-image = "../../2017-nashville/speakers/aaron-kalin.jpg"
 type = "speaker"
 linktitle = "aaron-kalin"
 
