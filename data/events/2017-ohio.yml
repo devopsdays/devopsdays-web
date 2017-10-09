@@ -12,7 +12,7 @@ coordinates: "40.0120098, -82.9778019" # The coorodinates of your venue. Get Lat
 location: "The Bluestone" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: contact
-  - name: propose
+  - name: program
   - name: conduct
   - name: sponsor
   - name: location
