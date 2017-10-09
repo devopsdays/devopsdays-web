@@ -1,6 +1,7 @@
 +++
 title = "Jason Hand"
 twitter = "jasonhand"
+image = "jason-hand.jpg"
 type = "speaker"
 linktitle = "jason-hand"
 

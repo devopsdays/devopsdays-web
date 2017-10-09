@@ -1,6 +1,7 @@
 +++
 Title = "Adarsh Shah"
 Twitter = "shahadarsh"
+image = "adarsh-shah.jpg"
 type = "speaker"
 linktitle = "adarsh-shah"
 +++
