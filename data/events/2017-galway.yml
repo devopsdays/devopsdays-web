@@ -288,7 +288,7 @@ program:
     start_time: "11:20"
     end_time: "11:35"
 
-  - title: "praveen-shukla"
+  - title: "reliability_at_scale"
     type: talk
     date: 2017-11-14
     start_time: "11:35"

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Reliability at Scale"
 Type = "talk"
-Speakers = ["praveen-shukla"]
+Speakers = ["praveen-shukla", "sankalp-singh"]
 +++
 
 <b>Abstract:</b>
