@@ -31,7 +31,8 @@ location: "Washington State Convention Center" # Defaults to city, but you can m
 location_address: "705 Pike Street, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/devopsdays-seattle-2108
   - name: location
  # - name: registration
  # - name: program
