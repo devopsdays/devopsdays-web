@@ -1,7 +1,6 @@
 +++
 Title = "Adarsh Shah"
 Twitter = "shahadarsh"
-image = "../../2017-nashville/speakers/adarsh-shah.jpg"
 type = "speaker"
 linktitle = "adarsh-shah"
 +++
