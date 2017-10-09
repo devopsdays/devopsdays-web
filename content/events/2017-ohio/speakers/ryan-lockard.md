@@ -1,7 +1,7 @@
 +++
 Title = "Ryan Lockard"
 Twitter = ""
-image = "ryan-lockard.jpg"
+image = ""
 type = "speaker"
 linktitle = "ryan-lockard"
 

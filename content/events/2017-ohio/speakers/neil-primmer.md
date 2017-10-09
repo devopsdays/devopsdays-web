@@ -1,7 +1,7 @@
 +++
 Title = "Neil S Primmer"
 Twitter = ""
-image = "neil-primmer.jpg"
+image = ""
 type = "speaker"
 linktitle = "neil-primmer"
 

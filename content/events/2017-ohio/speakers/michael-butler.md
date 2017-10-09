@@ -1,7 +1,7 @@
 +++
 Title = "Michael J Butler Jr"
 Twitter = ""
-image = "michael-butler.jpg"
+image = ""
 type = "speaker"
 linktitle = "michael-butler"
 
