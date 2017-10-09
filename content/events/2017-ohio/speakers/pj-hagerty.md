@@ -1,7 +1,6 @@
 +++
 Title = "PJ Hagerty"
 Twitter = "aspleenic"
-image = "../../2017-denver/speakers/pj-hagerty.jpg"
 type = "speaker"
 linktitle = "pj-hagerty"
 
