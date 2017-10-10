@@ -15,7 +15,7 @@ cfp_date_start: 2017-06-30  # start accepting talk proposals.
 cfp_date_end: 2017-08-31 # close your call for proposals.
 cfp_date_announce: 2017-09-05 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: ""
 cfp_link: ""
 
 registration_open: "true"
@@ -30,10 +30,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: about
   - name: location
-#  - name: speakers
+  - name: speakers
 #  - name: program
-#  - name: tickets
-#    url: https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364
   - name: propose
   - name: registration
   - name: discount
@@ -97,10 +95,10 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: "2"
   - id: silver
     label: Silver
-    max: "5"
+    max: "3"
   - id: bronze
     label: Bronze
-    max: "7"
+    max: "3"
   - id: honorary
     label: Honorary
     max: "2"
@@ -109,14 +107,15 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: "5"
   - id: community
     label: Community
-    max: "3"
+    max: "6"
+#  - id: alacarte
+#    label: ALACARTE
+#    max: "1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: devopsinstitute
-    level: bronze
-  - id: 2017-devopsdotcom
     level: bronze
   - id: convencionuniversidadsantaclara
     level: honorary
@@ -129,6 +128,8 @@ sponsors:
   - id: itrevolution
     level: media
   - id: salt
+    level: media
+  - id: 2017-devopsdotcom
     level: media
   - id: oreilly
     level: media
@@ -144,3 +145,83 @@ sponsors:
     level: community
   - id: devopslinks
     level: community
+  - id: docker
+    level: community
+  - id: accenture
+    level: community
+#  - id: stickermule
+#    level: alacarte
+#  - id: cloudingdotio
+#    level: alacarte
+
+#program:
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2017-10-23
+#    start_time: "08:00"
+#    end_time: "09:30"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2017-10-23
+#    start_time: "09:30"
+#    end_time: "10:30"
+#
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2017-10-24
+#    start_time: "08:00"
+#    end_time: "09:00"
+#
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2017-10-25
+#    start_time: "08:00"
+#    end_time: "09:00"
+#  - title: "Ignites"
+#    type: ignite
+#    date: 2017-10-25
+#    start_time: "13:00"
+#    end_time: "13:35"
+#
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2017-10-26
+#    start_time: "08:00"
+#    end_time: "09:00"
+#  - title: "Ignites"
+#    type: ignite
+#    date: 2017-10-26
+#    start_time: "13:00"
+#    end_time: "13:30"
+#
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2017-10-27
+#    start_time: "08:00"
+#    end_time: "09:30"
+#  - title: "Opening Welcome"
+#    type: custom
+#    date: 2017-10-27
+#    start_time: "09:30"
+#    end_time: "10:30"
+#  - title: "Close Day & Farewell"
+#    type: custom
+#    date: 2017-10-27
+#    start_time: "12:30"
+#    end_time: "13:30"
+
+#ignites:
+#  - title: "marialina-ballesteros"
+#    date: 2017-10-25
+#  - title: "genry-leyva"
+#    date: 2017-10-25
+#  - title: "hamler-rodriguez1"
+#    date: 2017-10-25
+#  - title: "arian-trujillo"
+#    date: 2017-10-25
+#  - title: "arnab-sinha"
+#    date: 2017-10-25
+#  - title: "hamler-rodriguez2"
+#    date: 2017-10-25
+
+

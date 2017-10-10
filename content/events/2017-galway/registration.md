@@ -52,7 +52,7 @@ Galway is also well serviced by a number of Bed & Breakfast venues on College Ro
 [^1]: For those wishing to stay at the Radisson Blu, it's recommended to contact <a href="mailto:helen.todd@hpe.com">helen.todd@hpe.com</a> to avail of a special deal.
 
 <style>
-.tito-ticket-list::before {
+#tito-previous-releases::before {
   display: inline-block;
   width: 100%;
   height: 40px;
