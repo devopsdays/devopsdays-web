@@ -19,11 +19,8 @@ location: "Pasadena Convention Center" # Defaults to city, but you can make it t
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-  - name: program
   - name: propose
   - name: location
-  - name: registration
-  - name: sponsor
   - name: contact
   - name: conduct
 
