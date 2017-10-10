@@ -174,11 +174,16 @@ program:
     type: custom
     date: 2017-11-01
     start_time: "09:20"
-    end_time: "09:30"
+    end_time: "09:25"
   - title: "jeff-sussna"
     type: talk
     date: 2017-11-01
-    start_time: "09:30"
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "A word from our sponsors"
+    type: custom
+    date: 2017-11-01
+    start_time: "09:55"
     end_time: "10:00"
   - title: "daniela-soares-cruzes"
     type: talk
@@ -249,11 +254,16 @@ program:
     type: custom
     date: 2017-11-02
     start_time: "09:20"
-    end_time: "09:30"
+    end_time: "09:25"
   - title: "hannah-foxwell"
     type: talk
     date: 2017-11-02
-    start_time: "09:30"
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "A word from our sponsors"
+    type: custom
+    date: 2017-11-02
+    start_time: "09:55"
     end_time: "10:00"
   - title: "faz-sadeghi"
     type: talk
@@ -300,8 +310,8 @@ program:
     date: 2017-11-02
     start_time: "15:20"
     end_time: "15:30"
-  - title: "patrick-debois"
-    type: talk
+  - title: "TBA"
+    type: custom
     date: 2017-11-02
     start_time: "15:30"
     end_time: "16:00"
