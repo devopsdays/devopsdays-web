@@ -86,6 +86,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: teksystems
     level: silver
+  - id: mesosphere
+    level: silver
   - id: stickermule
     level: support
 
