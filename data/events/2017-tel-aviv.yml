@@ -120,6 +120,8 @@ sponsors:
     level: silver
   - id: checkmarx
     level: bronze
+  - id: akamai
+    level: bronze
   - id: similarweb
     level: bronze
   - id: quali
@@ -129,11 +131,9 @@ sponsors:
   - id: oracle
     level: silver
   - id: microsoftazure
-    level: happyhour
+    level: day1happyhour
   - id: facebook
     level: giveaway
-#  - id: elastic
-#    level: bronze
 #  - id: googlecloud
 #    level: silver
 
@@ -170,15 +170,15 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
-  - id: happyhour
-    label: HappyHour
+  - id: day1happyhour
+    label: Day 1 HappyHour
     max: 1
   - id: massage
     label: Massage
     max: 1
   - id: workshoproom
-    label: WorkShopRoom
+    label: WorkShop Room
     max: 1
   - id: giveaway
-    label: GiveAwayBag
+    label: GiveAway Bag
     max: 1
