@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "VP Cloud Architecture and DevOps"
+Title = "Cloud Networking in Aerohive – How We Evolve in Technology, Deployment and Practice"
 Type = "talk"
 Speakers = ["dan-weidong-liang"]
 +++

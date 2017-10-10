@@ -67,7 +67,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/evgenyzislis/"
   - name: "Nati Cohen"
     image: "nati-cohen.jpg"
-  - name: "Sharone Zitsman"
+  - name: "Sharone Zitzman"
     image: "sharone-zitsman.jpg"
   - name: "Uri Cohen"
     image: "uri-cohen.jpg"

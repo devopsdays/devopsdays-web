@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Phoenix 2017"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
 <hr>
 <p>

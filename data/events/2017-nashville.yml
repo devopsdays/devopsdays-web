@@ -50,6 +50,7 @@ team_members: # Name is the only required field for team members.
   - name: "Alicia Sepanik"
   - name: "Brian Pitts"
   - name: "Calah Brewster"
+  - name: "Jeff Davis"
   - name: "Joel Parks"
   - name: "Nick Wallace"
   - name: "Steve Stewart"
@@ -107,11 +108,15 @@ sponsors:
     level: bronze
   - id: stratasan
     level: bronze
+  - id: advizex
+    level: alacarte
   - id: devops-institute
     level: alacarte
   - id: gcp
     level: alacarte
   - id: juiceanalytics
+    level: alacarte
+  - id: roundtowertechnologies
     level: alacarte
   - id: nashdevops
     level: community
