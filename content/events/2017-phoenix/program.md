@@ -143,8 +143,8 @@ aliases = ["/events/2017-phoenix/schedule"]
         <strong>{{< event_link page="program/rob-richardson" text="CI/CD on the Microsoft Stack" >}}</strong><br />{{< event_link page="speakers/rob-richardson" text="Rob Richardson" >}}<br />Room 2
       </div>
       <div class = "col-md-3 box">
-        <strong>To Be Announced</strong><br /><br />Room 3
-      </div>
+				<strong>{{< event_link page="program/aneesh-karve" text="Modeling data deployments on code deployments" >}}</strong><br />{{< event_link page="speakers/aneesh-karve" text="Aneesh Karve" >}}<br />Room 3
+			</div>
     </div> <!-- end timeslot div -->
          <!-- this div is repeated for each timeslot -->
     <div class = "row">
