@@ -4,7 +4,7 @@ Talk_start_time = "15:30"
 Talk_end_time = "16:00"
 Title = "TBA"
 Type = "talk"
-Speakers = ["patrick-debois"]
+Speakers = ["mark-burgess"]
 +++
 
 
