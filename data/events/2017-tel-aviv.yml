@@ -14,7 +14,7 @@ cfp_date_start:  2017-07-31
 cfp_date_end:  2017-10-01
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: https://www.papercall.io/devopsdaystlv
 
 registration_date_start: 2017-07-31
