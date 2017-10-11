@@ -107,7 +107,7 @@ devopsdays Toronto is back for its fifth year and we're growing. Our new venue w
 <div id="mc_embed_signup">
 <form action="//devopsdays.us12.list-manage.com/subscribe/post?u=9af4b8dabb471b1a393e57f53&amp;id=4859f773a9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to the DevOpsDays Toronto mailing list to stay current on the latest conference news.</label>
+	<label for="mce-EMAIL">Subscribe to the devopsdays Toronto mailing list to stay current on the latest conference news.</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9af4b8dabb471b1a393e57f53_4859f773a9" tabindex="-1" value=""></div>
