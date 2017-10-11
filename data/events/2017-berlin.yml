@@ -70,6 +70,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: 2016-idealo
     level: platinum
+  - id: opsgenie
+    level: platinum
   - id: codecentric
     level: gold
   - id: kreuzwerker
