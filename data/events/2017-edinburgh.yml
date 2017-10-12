@@ -122,8 +122,8 @@ program:
     date: 2017-10-23
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Opening Keynote - TBC"
-    type: custom
+  - title: "Opening Keynote: Maria Gutierrez"
+    type: Custom
     date: 2017-10-23
     start_time: "09:15"
     end_time: "09:45" 
@@ -303,3 +303,17 @@ program:
     date: 2017-10-24
     start_time: "17:00"
     end_time: "17:20"
+
+ignites:
+  - title: "jon-hall"
+    date: 2017-10-23
+  - title: "philipp-krenn2"
+    date: 2017-10-23
+  - title: "murdo-aird"
+    date: 2017-10-23
+  - title: "ken-mugrage"
+    date: 2017-10-24
+  - title: "gabriel-nepomuceno"
+    date: 2017-10-24
+  - title: "adrian-mouat2"
+    date: 2017-10-24
