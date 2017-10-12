@@ -30,6 +30,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ilan Rabinovitch"
   - name: "Jordan Schwartz"
   - name: "Omar Alva"
+  - name: "Christopher Webber"
 
 organizer_email: "organizers-los-angeles-2018@devopsdays.org"
 proposal_email: "organizers-los-angeles-2018@devopsdays.org"
