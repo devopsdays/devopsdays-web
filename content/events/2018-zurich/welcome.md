@@ -104,4 +104,3 @@ Description = "devopsdays Zürich 2018"
    <a href="https://www.flickr.com/photos/150616602@N02/albums/72157683712222866">Checkout our Photo Gallery</a>
   </div>
 -->
-</div>
