@@ -119,6 +119,8 @@ proposal_email: "organizer@devopsdays.ch" # Put your proposal email address here
 sponsors:
   - id: pontine
     level: Evening Event
+  - id: puzzle-itc
+    level: silver
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
