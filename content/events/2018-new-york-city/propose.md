@@ -5,6 +5,10 @@ Description = "Propose a talk for devopsdays New York City 2017"
 +++
   {{< cfp_dates >}}
 
+
+
+
+
 <hr>
 
 There are three ways to propose a topic at devopsdays:
