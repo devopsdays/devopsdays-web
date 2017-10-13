@@ -262,7 +262,7 @@ program:
     start_time: "8:45"
     end_time: "9:00" 
 
-  - title: "john-willis"
+  - title: "lawton-willis"
     type: talk
     date: 2017-10-18
     start_time: "9:00"
