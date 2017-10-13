@@ -7,7 +7,9 @@ Description = "Propose a talk for devopsdays New York City 2017"
 
 <hr>
 
-## Have something to share? Submit your proposal [here]({{ $e.cfp_link | safeURL }})!
+{{- if ($e.cfp_saas) -}}
+## Have something to share? Submit your proposal [here]({{ $e.cfp_saas | safeURL }})!
+{{- end -}}
 
 There are three ways to propose a topic at devopsdays:
 <ol>
@@ -29,9 +31,9 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-{{- if ($e.cfp_link) -}}
+{{- if ($e.cfp_saas) -}}
 <strong>How to submit a proposal:</strong>
-Visit our [CFP Site]({{ $e.cfp_link | safeURL }}) and submit a proposal there.
+Visit our [CFP Site]({{ $e.cfp_saas | safeURL }}) and submit a proposal there.
 If you run into any problems, please don't hesitate to contact us by email at [{{< email_proposals >}}].
 {{- else -}}
 <strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
