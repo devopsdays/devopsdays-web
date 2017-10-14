@@ -7,6 +7,8 @@ Description = "Propose a talk for devopsdays New York City 2017"
 
 <hr>
 
+## Have something to share? Submit your proposal [here](https://www.papercall.io/cfps/709/submissions/new)!
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
@@ -25,11 +27,27 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
+<strong>Rules:</strong>
+<ul>
+  <li>Be specific... we aren't mind readers (a description of about 20 lines is about right)</li>
+  <li>Detail is good... but not as important as explaining why your proposal would be interesting</li>
+  <li>Propose your own talk; don't have someone else do it for you.</li>
+  <li>Nominations welcome... if you know someone who has content/experience relevant to the DevOps conversation, please point us in their direction!</li>
+  <li>Multiple proposals welcome... just follow the other rules</li>
+</ul>
+
 <hr>
 
+<strong>How to submit a proposal:</strong>
+Visit our [CFP Site](https://www.papercall.io/cfps/709/submissions/new) and submit a proposal there.
+If you run into any problems, please don't hesitate to contact us by email at [{{< email_proposals >}}].
+
+<!--
 <strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>
 	<li>Description (several sentences explaining what attendees will learn)</li>
 </ol>
+{{- end -}}
+-->
