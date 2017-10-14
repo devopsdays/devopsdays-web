@@ -263,4 +263,4 @@ heading = "devopsdays Tel Aviv - Program"
   Happy hour!
   </div>
 </div> <!-- end timeslot div -->
-<!-- end day 1 -->
+<!-- end day 2 -->
