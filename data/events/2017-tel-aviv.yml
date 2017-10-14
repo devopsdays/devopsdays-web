@@ -14,7 +14,7 @@ cfp_date_start:  2017-07-31
 cfp_date_end:  2017-10-01
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: https://www.papercall.io/devopsdaystlv
 
 registration_date_start: 2017-07-31
@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.papercall.io/devopsdaystlv
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
