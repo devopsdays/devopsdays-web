@@ -241,6 +241,8 @@ heading = "devopsdays Tel Aviv - Program"
     How to hire a SRE in 10 minutes / Max Timchenko <br/>
     Lessons from an Idaho Potato Farmer / David Laulusa <br/>
     Container Orchestration with Rancher / Lidor Gerstel </div>
+    TBD</div>
+    TBD</div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
