@@ -1,7 +1,7 @@
 +++
-Title = "Understanding and Executing on API Developer Experience"
+Title = "Iterative API development through design and virtualization"
 Type = "talk"
-Speakers = ["keshav-vasudevan"]
+Speakers = ["ronan-trainor"]
 +++
 
 APIs acts as a bridge of communication between various software applications,
