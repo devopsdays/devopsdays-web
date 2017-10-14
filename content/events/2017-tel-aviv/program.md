@@ -86,7 +86,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-3 col-md-offset-0 box">
     Creating effective container images / Abby Fuller</div>
   <div class = "col-md-3 col-md-offset-3 box">
-    Concur’s Digital Transformation from Monolith to Microservices; DevOps IRL / Jason Grimes</div>
+    TBD</div>
   <div class = "col-md-3 col-md-offset-6 box">
     Large Scale NoSQL DB migration under fire / Ido Barkan  </div>
 </div> <!-- end timeslot div -->
@@ -96,9 +96,9 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-3 col-md-offset-0 box">
-    Open Tracing, to order and understand your mess / Gianluca Arbezzano</div>
+    TBD</div>
   <div class = "col-md-3 col-md-offset-3 box">
-    Design Patterns for Efficient DevOps Processes / Rebecca Fitzhugh</div>
+    TBD</div>
   <div class = "col-md-3 col-md-offset-6 box">
     Hold my beer while I try to DevOps with DICOM, HIPAA and Hospitals / Gil Bahat</div>
 </div> <!-- end timeslot div -->
@@ -121,7 +121,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-3 col-md-offset-3 box">
     Distributed Teams: Scaling Operations Around the World / Guido Iaquinti</div>
   <div class = "col-md-3 col-md-offset-6 box">
-    Building high scale system using serverless architecture for a burning man event / Daniel Borovsky</div>
+    TBD</div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -205,7 +205,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-3 col-md-offset-3 box">
     The Great PagerDuty DevOps Heist Of 2016 / Arup Chakrabarty</div>
   <div class = "col-md-3 col-md-offset-6 box">
-    Monitoring Unknown Unknowns with AI / Guy Fighel</div>
+    TBD </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -215,7 +215,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-3 col-md-offset-0 box">
     TBD</div>
   <div class = "col-md-3 col-md-offset-3 box">
-    A Culture of Automation / Joe Smith</div>
+    TBD</div>
   <div class = "col-md-3 col-md-offset-6 box">
     1 cloud, 2 clouds, 3 clouds, tons / Elad Amit</div>
 </div> <!-- end timeslot div -->
@@ -238,11 +238,11 @@ heading = "devopsdays Tel Aviv - Program"
     Building reusable Jenkins pipelines / Yoram Michaeli <br/>
     From Ops to Dev and Back again / Gil Zellner <br/>
     How our ISP's firewall cost us a full day of the entire R&D / Ariel Assaraf <br/>
-    How to hire a SRE in 10 minutes / Max Timchenko <br/>
-    Lessons from an Idaho Potato Farmer / David Laulusa <br/>
-    Container Orchestration with Rancher / Lidor Gerstel </div>
-    TBD</div>
-    TBD</div>
+    TBD <br/>
+    TBD <br/>
+    Container Orchestration with Rancher / Lidor Gerstel <br/>
+    TBD <br/>
+    TBD </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
