@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Continuous Delivery in Organizations Terrified of Risk"
 Type = "talk"
 Speakers = ["mark-shead"]
+youtube = "AZsEvl9npiM"
+slideshare = "https://www.slideshare.net/MarkShead1/rapid-deployment-in-organizations-terrified-of-risk"
 +++
 
 When an organization is terrified of taking risk, the change management requirements can make it seem impossible to get the full benefits of DevOps and Agile. This talk covers strategies for lowering risk & meeting change management requirements with examples of a project at the US Treasury.
