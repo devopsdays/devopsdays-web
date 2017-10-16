@@ -132,6 +132,8 @@ sponsors:
     level: silver
   - id: microsoftazure
     level: day1happyhour
+  - id: ziprecruiter
+    level: day2happyhour
   - id: facebook
     level: giveaway
 #  - id: googlecloud
@@ -172,6 +174,9 @@ sponsor_levels:
     max: 1
   - id: day1happyhour
     label: Day 1 HappyHour
+    max: 1
+  - id: day2happyhour
+    label: Day 2 HappyHour
     max: 1
   - id: massage
     label: Massage
