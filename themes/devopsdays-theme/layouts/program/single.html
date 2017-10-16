@@ -116,23 +116,23 @@
                                             <a href="/events/{{ $e.name}}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }}
                                               -
                                               {{ $.Scratch.Get .title }}</a>
+                                              {{- if .video -}}
+                                              {{- if ne .video "" -}}
+                                                <a href="{{ (printf "%s" .video) }}"> (video) </a>
+                                              {{- end -}}
+                                              {{- end -}}
+                                              {{- if .slides -}}
+                                              {{- if ne .slides "" -}}
+                                                <a href="{{ (printf "%s" .slides) }}"> (slides) </a>
+                                              {{- end -}}
+                                              {{- end -}} 
                                           </li>
                                           {{- else -}}
                                           <li>
                                             {{.title}}
                                           </li>
                                         {{- end -}}
-                                        {{- end -}}
-                                        {{- if .video -}}
-                                        {{- if ne .video "" -}}
-                                          <a href="{{ (printf "%s" .video) }}"> (video) </a>
-                                        {{- end -}}
-                                        {{- end -}}
-                                        {{- if .slides -}}
-                                        {{- if ne .slides "" -}}
-                                          <a href="{{ (printf "%s" .slides) }}"> (slides) </a>
-                                        {{- end -}}
-                                        {{- end -}}                                         
+                                        {{- end -}}                                        
                                     </ul>
                                     {{- end -}}
                                   {{- end -}}
