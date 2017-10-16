@@ -31,8 +31,8 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/devopsdaystlv
+#  - name: propose
+#    url: https://www.papercall.io/devopsdaystlv
   - name: location
   - name: registration
   - name: program
@@ -146,9 +146,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Platinum
-    max: 4
+#  - id: gold
+#    label: Platinum
+#    max: 4
   - id: silver
     label: Gold
     max: 12
