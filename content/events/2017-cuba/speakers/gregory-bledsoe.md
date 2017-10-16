@@ -8,8 +8,8 @@ type = "speaker"
 linktitle = "gregory-bledsoe"
 +++
 
-Greg Bledsoe is a managing consultant at Accenture in the DevOps architecture practice 
-and leads the implementation of DevOps principles and practices at the fortune 100. 
+Greg Bledsoe is a DevOps thought leader, consultant, author, and speaker who leads the 
+implementation of DevOps principles and practices at the fortune 100. 
 He is also a regularly published author and frequent conference speaker. Greg has spent 
 a career being responsible for keeping platforms secure, scalable, and reliable. 
 He brings twenty years of experience building performant, automated, and cost effective 
