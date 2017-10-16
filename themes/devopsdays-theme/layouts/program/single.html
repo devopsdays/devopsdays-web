@@ -88,7 +88,7 @@
                               <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">
                                 {{ $.Scratch.Get (printf "%s-speaker" .title) }}
                                 -
-                                {{ $.Scratch.Get .title }}  
+                                {{ $.Scratch.Get .title }}
                               </a><br/>
                               {{- else if eq .type "ignite" -}}
                               {{ .title }}
@@ -111,14 +111,14 @@
                                             {{.title}}
                                           </li>
                                         {{- end -}}
-                                        {{- end -}}                                        
+                                        {{- end -}}
                                     </ul>
                                     {{- end -}}
                                   {{- end -}}
                                 {{- end -}}
                               <!-- end ignite stuff here -->
                               <!-- do open-space stuff here -->
-                            {{- else if (eq .type "open-space") -}}
+                              {{- else if (eq .type "open-space") -}}
                                 <a href="{{ "open-space-format/" | absURL }}">
                                   {{ .title }}
                                 </a><br/>
