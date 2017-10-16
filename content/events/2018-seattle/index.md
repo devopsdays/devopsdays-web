@@ -14,7 +14,7 @@ space as dates get set.
 
 Approximate timeline...
 
-* CFP Open: Late fall 2017
+* CFP Open: <a href="https://www.papercall.io/devopsdays-seattle-2108">Open Now!</a>
 * Sponsorships: {{< event_link page="sponsor" text="Open Now!" >}}
 * Registration open: Early winter 2018
 * Program announced: Mid winter 2018

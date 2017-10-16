@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-10-25"
-Talk_start_time = "09:00"
-Talk_end_time = "09:30"
+Talk_start_time = "12:20"
+Talk_end_time = "12:50"
 Title = "Keynote: Taking DevOps to the Org Chart"
 Type = "talk"
 Speakers = ["sriram-narayan"]
@@ -21,3 +21,5 @@ It is insufficient to only aim for better engineering techniques and greater aut
 The reorg is a challenge for large tech organizations that are often split down the middle in the form of a change organization and a run organization.
 
 This talk explores the challenge and describes how it being addressed at some companies.
+
+{{< event_link page="program" text="view full program" >}}

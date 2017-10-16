@@ -10,99 +10,117 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 Please keep in mind, that you accept our Code of Conduct with sponsoring this event: {{< event_link page="conduct" text="Please read the Code of Conduct" >}}
 
 ### Sponsoring packages
-<table border="0" width="100%" style="padding: 5px;">
+<table border="1" width="100%" style="padding: 5px; border-collapse: collapse; border: 1px solid black;">
   <tr>
     <th><b>Packages</b></th>
-    <th><center><b><u>Bronze<br />1500 CHF</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 CHF</u></center></b></th>
-    <th><center><b><u>Gold<br /><font color="red">SOLD OUT</font></u></center></b></th>
-    <th></th>
+    <th><center><b><u>Evening<br /><font color="red">SOLD OUT</font></center></b></th>
+    <th><center><b><u>Gold<br />6'000.- CHF</u></center></b></th>
+    <th><center><b><u>Silver<br />3'000.- CHF</u></center></b></th>
+    <th><center><b><u>Bronze<br />1'500.- CHF</u></center></b></th>
   </tr>
 
   <tr>
-    <td>Four Sponsortickets in total</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Tickets (for sponsor booth staff and guests)</td>
+    <td><center>4</center></td>
+    <td><center>4</center></td>
+    <td><center>2</center></td>
+    <td><center>1</center></td>
+  </tr>
+
+  <tr>
+    <td>Dedicated Table</td>
     <td bgcolor="#1581AB">&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Two Sponsortickets in total</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>One Sponsortickets in total</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
 
   <tr>
-    <td>Dedicated table/booth</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
+    <td>Possibility to put on a max 3m billboard in the evening event location</td>
     <td bgcolor="#1581AB">&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>shared table for swag</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>logo on its own slide, rotating during breaks</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>logo on all email communication</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
 
   <tr>
-    <td>logo on shared slide, rotating during breaks</td>
+    <td>Possibility to put on a max 3m billboard in the hall *</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
   </tr>
 
   <tr>
-    <td>thank you tweet</td>
+    <td>Shared table for Swag</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Possibility to put on one roll-up display, max 1 meter wide</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo on ist own slide, rotating during breaks</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo on shared slides, rotating during breaks</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
   </tr>
 
   <tr>
-    <td>logo on event website</td>
+    <td>Logo on event website</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo on all email communication</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Thank you tweet</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Maximum Packages available</td>
+    <td><center>1</center></td>
+    <td><center>6</center></td>
+    <td><center>8</center></td>
+    <td><center>12</center></td>
+  </tr>
+
+  <tr>
+    <td><br/>* for gold sponsors in the foyer it is only possible to put on a max 1.8 Meter billboard</td>
   </tr>
 </table>
+
+<br/>
 
 ### Why DevOpsDays?
 

@@ -128,20 +128,16 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-#  - id: telenor-digital
-#    level: gold
-#  - id: praqma
-#    level: gold
-#  - id: knowit
-#    level: gold
+  - id: praqma
+    level: gold
+  - id: redpill-linpro
+    level: gold
   - id: microsoft
     level: gold
-#  - id: telia
-#    level: platinum
-#  - id: atlassian
-#    level: gold
-#  - id: stackstate
-#    level: gold
+  - id: telia
+    level: platinum
+  - id: finn
+    level: gold
   - id: soprasteria
     level: gold
   - id: intility
@@ -178,11 +174,16 @@ program:
     type: custom
     date: 2017-11-01
     start_time: "09:20"
-    end_time: "09:30"
+    end_time: "09:25"
   - title: "jeff-sussna"
     type: talk
     date: 2017-11-01
-    start_time: "09:30"
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "A word from our sponsors"
+    type: custom
+    date: 2017-11-01
+    start_time: "09:55"
     end_time: "10:00"
   - title: "daniela-soares-cruzes"
     type: talk
@@ -253,11 +254,16 @@ program:
     type: custom
     date: 2017-11-02
     start_time: "09:20"
-    end_time: "09:30"
+    end_time: "09:25"
   - title: "hannah-foxwell"
     type: talk
     date: 2017-11-02
-    start_time: "09:30"
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "A word from our sponsors"
+    type: custom
+    date: 2017-11-02
+    start_time: "09:55"
     end_time: "10:00"
   - title: "faz-sadeghi"
     type: talk
@@ -269,8 +275,8 @@ program:
     date: 2017-11-02
     start_time: "10:30"
     end_time: "10:40"
-  - title: "TBA"
-    type: custom
+  - title: "ramez-hanna"
+    type: talk
     date: 2017-11-02
     start_time: "10:40"
     end_time: "11:10"
@@ -304,7 +310,7 @@ program:
     date: 2017-11-02
     start_time: "15:20"
     end_time: "15:30"
-  - title: "patrick-debois"
+  - title: "mark-burgess"
     type: talk
     date: 2017-11-02
     start_time: "15:30"

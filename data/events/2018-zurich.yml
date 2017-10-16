@@ -26,7 +26,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
-#  - name: sponsor
+  - name: propose
+    url: https://cfp.devopsdays.ch
+  - name: sponsor
   - name: contact
   - name: conduct
 
@@ -109,14 +111,27 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     website: ""
     image: "marcel-wolf.jpg"
 
-organizer_email: "organizer@devopsdays.ch" # Put your organizer email address here
-proposal_email: "organizer@devopsdays.ch" # Put your proposal email address here
+organizer_email: "organizers-zurich-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-zurich-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pontine
+    level: Evening Event
+  - id: puzzle-itc
+    level: silver
 
-sponsors_accepted : "false" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: Evening Event
+    label: Evening Event
+    max: 1
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
 
 program:

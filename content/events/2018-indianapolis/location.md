@@ -1,10 +1,12 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Indianapolis 2018"
+Description = "DevOpsDays Indianapolis at the Marriott Downtown Indianapolis"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+### DevOpsDays Indianapolis will be held at the Marriott Downtown Indianapolis.
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+[Marriott Downtown Indianapolis](http://www.marriott.com/hotels/travel/indcc-indianapolis-marriott-downtown/)
+350 W Maryland St, Indianapolis, IN 46225
+
+{{< event_map >}}

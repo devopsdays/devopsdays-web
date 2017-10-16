@@ -9,4 +9,6 @@ linktitle = "rudy-gevaert"
 
 +++
 
-GNU/Linux sysadmin and ICT for Development expert Ghent University. With specialties: High available email setups. Configuration management with Puppet. Continuous integration an delivery. Development cooperation in ICT using Free Software.
+GNU/Linux sysadmin and ICT for Development expert Ghent University. With specialties: High available 
+email setups. Configuration management with Puppet. Continuous integration an delivery. Development 
+cooperation in ICT using Free Software.
