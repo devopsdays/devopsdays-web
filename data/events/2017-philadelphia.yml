@@ -95,6 +95,10 @@ sponsors:
     level: silver
   - id: dynatrace
     level: silver
+  - id: opsgenie
+    level: silver
+  - id: circonus
+    level: silver
   - id: 2nd-watch
     level: bronze
   - id: ascensus
