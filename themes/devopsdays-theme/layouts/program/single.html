@@ -89,18 +89,7 @@
                                 {{ $.Scratch.Get (printf "%s-speaker" .title) }}
                                 -
                                 {{ $.Scratch.Get .title }}  
-                              </a>
-                              {{- if .video -}}
-                              {{- if ne .video "" -}}
-                                <a href="{{ (printf "%s" .video) }}"> (video) </a>
-                              {{- end -}}
-                              {{- end -}}
-                              {{- if .slides -}}
-                              {{- if ne .slides "" -}}
-                                <a href="{{ (printf "%s" .slides) }}"> (slides) </a>
-                              {{- end -}}
-                              {{- end -}}                              
-                              <br/>
+                              </a><br/>
                               {{- else if eq .type "ignite" -}}
                               {{ .title }}
                               <!-- do ignite stuff here -->
@@ -116,16 +105,6 @@
                                             <a href="/events/{{ $e.name}}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }}
                                               -
                                               {{ $.Scratch.Get .title }}</a>
-                                              {{- if .video -}}
-                                              {{- if ne .video "" -}}
-                                                <a href="{{ (printf "%s" .video) }}"> (video) </a>
-                                              {{- end -}}
-                                              {{- end -}}
-                                              {{- if .slides -}}
-                                              {{- if ne .slides "" -}}
-                                                <a href="{{ (printf "%s" .slides) }}"> (slides) </a>
-                                              {{- end -}}
-                                              {{- end -}} 
                                           </li>
                                           {{- else -}}
                                           <li>
