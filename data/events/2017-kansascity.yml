@@ -413,13 +413,16 @@ ignites:
     slides: "https://speakerdeck.com/joshix/oci-image-format-specification-v1"
   - title: "joshua-goldman"
     date: 2017-09-21
+    slides: "https://speakerdeck.com/devopsdayskc/joshua-goldman-help-im-a-devops-engineer-now"
   - title: "david-laulusa"
     date: 2017-09-21
     slides: "https://speakerdeck.com/doddfwvol/lessons-from-an-idaho-potato-farmer"
   - title: "todd-brees"
     date: 2017-09-21
+    slides: "https://speakerdeck.com/devopsdayskc/todd-brees-3-simple-lessons-from-working-with-public-that-help-in-technology"
   - title: "kyle-sexton"
     date: 2017-09-21
+    slides: "https://speakerdeck.com/devopsdayskc/kyle-sexton-secret-management-with-hashicorp-vault"
   - title: "jeffrey-sykes"
     date: 2017-09-21
     slides: "https://www.slideshare.net/JeffreySykes2/culture-games"
@@ -430,18 +433,25 @@ ignites:
   #  date: 2017-09-21
   - title: "dane-hammer"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/dane-hammer-the-first-year-working-remotely"
   - title: "david-hollinger-iii"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/david-hollinger-iii-vox-pupuli-the-importance-of-working-together"
   - title: "scott-howell-iii"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/scott-howell-iii-changing-culture-through-personal-reflection"
   - title: "dave-swersky"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/dave-swersky-ron-mackenzie-cracking-the-culture-code-practical-advice-on-promoting-a-generative-culture"
   - title: "adam-wieberg"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/adam-wieberg-why-beta-users-are-key"
   - title: "matthew-barker"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/matthew-barker-what-goes-in-must-come-out-hidden-defects-in-your-docker-containers"
   - title: "alison-stanton"
     date: 2017-09-22
+    slides: "https://speakerdeck.com/devopsdayskc/alison-stanton-ways-devops-could-be-more-accessible"
   #- title: "ignite-karaoke"
   #  date: 2017-09-22
 
