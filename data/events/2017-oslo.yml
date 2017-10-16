@@ -157,13 +157,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 
 sponsors_accepted : "yes"
 
-#speakers:
-#  - id: "jon doe"
-#    level: talk
-#
-#speaker_levels:
-#  - id: talk
-#    label: Talk
 program:
   - title: "Registration, breakfast, and sponsor booths open"
     type: custom
@@ -175,7 +168,7 @@ program:
     date: 2017-11-01
     start_time: "09:20"
     end_time: "09:25"
-  - title: "jeff-sussna"
+  - title: "mike-long"
     type: talk
     date: 2017-11-01
     start_time: "09:25"
