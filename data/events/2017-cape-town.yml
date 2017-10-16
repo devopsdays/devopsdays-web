@@ -23,6 +23,7 @@ nav_elements:
   - name: registration
     url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -99,3 +100,150 @@ sponsors:
    level: gold
  - id: zappistore
    level: gold
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-11-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-06
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-11-06
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "christian-witts"
+    type: talk
+    date: 2017-11-06
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2017-11-06
+    start_time: "10:30"
+    end_time: "11:45"
+  - title: "jaco-greyling"
+    type: talk
+    date: 2017-11-06
+    start_time: "11:45"
+    end_time: "11:20"
+  - title: "TBD"
+    type: custom
+    date: 2017-11-06
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-06
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-06
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-11-06
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-11-06
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-11-06
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event"
+    type: custom
+    date: 2017-11-06
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-11-07
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2017-11-07
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "spencer-krum"
+    type: talk
+    date: 2017-11-07
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "duncan-phillips"
+    type: talk
+    date: 2017-11-07
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2017-11-07
+    start_time: "10:30"
+    end_time: "11:45"
+  - title: "rahul-mahale"
+    type: talk
+    date: 2017-11-07
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "william-stewart"
+    type: talk
+    date: 2017-11-07
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-07
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-07
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-11-07
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-11-07
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-11-07
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing Event"
+    type: custom
+    date: 2017-11-07
+    start_time: "17:00"
+    end_time: "19:00"
+
+ignites:
+  - title: "reuben-honigwachs"
+    date: 2017-11-06
