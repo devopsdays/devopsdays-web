@@ -88,8 +88,19 @@
                               <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">
                                 {{ $.Scratch.Get (printf "%s-speaker" .title) }}
                                 -
-                                {{ $.Scratch.Get .title }}
-                              </a><br/>
+                                {{ $.Scratch.Get .title }}  
+                              </a>
+                              {{- if .video -}}
+                              {{- if ne .video "" -}}
+                                <a href="{{ (printf "%s" .video) }}"> (video) </a>
+                              {{- end -}}
+                              {{- end -}}
+                              {{- if .slides -}}
+                              {{- if ne .slides "" -}}
+                                <a href="{{ (printf "%s" .slides) }}"> (slides) </a>
+                              {{- end -}}
+                              {{- end -}}                              
+                              <br/>
                               {{- else if eq .type "ignite" -}}
                               {{ .title }}
                               <!-- do ignite stuff here -->
@@ -112,13 +123,23 @@
                                           </li>
                                         {{- end -}}
                                         {{- end -}}
+                                        {{- if .video -}}
+                                        {{- if ne .video "" -}}
+                                          <a href="{{ (printf "%s" .video) }}"> (video) </a>
+                                        {{- end -}}
+                                        {{- end -}}
+                                        {{- if .slides -}}
+                                        {{- if ne .slides "" -}}
+                                          <a href="{{ (printf "%s" .slides) }}"> (slides) </a>
+                                        {{- end -}}
+                                        {{- end -}}                                         
                                     </ul>
                                     {{- end -}}
                                   {{- end -}}
                                 {{- end -}}
                               <!-- end ignite stuff here -->
                               <!-- do open-space stuff here -->
-                              {{- else if (eq .type "open-space") -}}
+                            {{- else if (eq .type "open-space") -}}
                                 <a href="{{ "open-space-format/" | absURL }}">
                                   {{ .title }}
                                 </a><br/>

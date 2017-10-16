@@ -199,11 +199,14 @@ program:
     date: 2017-09-21
     start_time: "09:00"
     end_time: "09:20"
+    video: "https://www.youtube.com/watch?v=2K5ju3sSfgg"
   - title: "chloe-condon"
     type: talk
     date: 2017-09-21
     start_time: "09:20"
     end_time: "09:50"
+    video: "https://www.youtube.com/watch?v=B8DAwfjlf6A"
+    slides: "https://www.slideshare.net/outlyer/why-you-need-to-stop-using-the-staging-server"
   - title: "Sponsors"
     type: custom
     date: 2017-09-21
@@ -214,6 +217,8 @@ program:
     date: 2017-09-21
     start_time: "09:55"
     end_time: "10:25"
+    video: "https://www.youtube.com/watch?v=JJE3OX-HceI"
+    slides: "https://www.slideshare.net/MatthewBoeckman/rewriting-devops-lessons-from-a-15-month-software-rewrite"
   - title: "Break"
     type: custom
     date: 2017-09-21
@@ -224,6 +229,8 @@ program:
     date: 2017-09-21
     start_time: "10:40"
     end_time: "11:10"
+    video: "https://www.youtube.com/watch?v=Ack-qY-wkmk"
+    slides: "https://speakerdeck.com/jonstacks/the-devops-awakens-moving-to-a-multi-cloud-architecture"
   - title: "Sponsors"
     type: custom
     date: 2017-09-21
@@ -234,6 +241,8 @@ program:
     date: 2017-09-21
     start_time: "11:15"
     end_time: "11:45"
+    video: "https://www.youtube.com/watch?v=aryeHTelORc"
+    slides: "https://speakerdeck.com/buttermilkcake/adventures-in-coding"
   - title: "Lunch"
     type: custom
     date: 2017-09-21
@@ -249,6 +258,8 @@ program:
     date: 2017-09-21
     start_time: "13:00"
     end_time: "13:30"
+    video: "https://www.youtube.com/watch?v=OqugjwaIiS0"
+    slides: "https://www.slideshare.net/wickett/the-path-of-devops-enlightenment-for-infosec"
   - title: "Ignites"
     type: ignite
     date: 2017-09-21
@@ -305,6 +316,8 @@ program:
     date: 2017-09-22
     start_time: "09:15"
     end_time: "09:45"
+    video: "https://www.youtube.com/watch?v=qvdt8uRf8RY"
+    slides: "https://www.slideshare.net/cote/not-actually-a-devops-talk-80043010"
   - title: "Sponsors"
     type: custom
     date: 2017-09-22
@@ -315,6 +328,8 @@ program:
     date: 2017-09-22
     start_time: "09:50"
     end_time: "10:20"
+    video: "https://www.youtube.com/watch?v=AZsEvl9npiM"
+    slides: "https://www.slideshare.net/MarkShead1/rapid-deployment-in-organizations-terrified-of-risk"  
   - title: "Break"
     type: custom
     date: 2017-09-22
@@ -325,6 +340,8 @@ program:
     date: 2017-09-22
     start_time: "10:35"
     end_time: "11:05"
+    video: "https://www.youtube.com/watch?v=_csvVZJgz_M"
+    slides: "https://www.slideshare.net/secret/48NLYUhwidXTiM"
   - title: "Sponsors"
     type: custom
     date: 2017-09-22
@@ -335,6 +352,8 @@ program:
     date: 2017-09-22
     start_time: "11:10"
     end_time: "11:40"
+    video: "https://www.youtube.com/watch?v=7O8vfCh2O-Y"
+    slides: "https://www.slideshare.net/JyotiMittal4/engineering-trust-in-your-automated-tests"
   - title: "Lunch"
     type: custom
     date: 2017-09-22
@@ -350,6 +369,8 @@ program:
     date: 2017-09-22
     start_time: "13:00"
     end_time: "13:30"
+    video: "https://www.youtube.com/watch?v=pf3-24JRDfo"
+    slides: "https://speakerdeck.com/coderanger/fine-print-intellectual-property-for-engineers-with-notes"
   - title: "Ignites"
     type: ignite
     date: 2017-09-22
@@ -389,18 +410,22 @@ program:
 ignites:
   - title: "josh-wood"
     date: 2017-09-21
+    slides: "https://speakerdeck.com/joshix/oci-image-format-specification-v1"
   - title: "joshua-goldman"
     date: 2017-09-21
   - title: "david-laulusa"
     date: 2017-09-21
+    slides: "https://speakerdeck.com/doddfwvol/lessons-from-an-idaho-potato-farmer"
   - title: "todd-brees"
     date: 2017-09-21
   - title: "kyle-sexton"
     date: 2017-09-21
   - title: "jeffrey-sykes"
     date: 2017-09-21
+    slides: "https://www.slideshare.net/JeffreySykes2/culture-games"
   - title: "dustin-collins"
     date: 2017-09-21
+    slides: "https://www.slideshare.net/DustinCollins1/inside-attacker-an-overview"
   #- title: "ignite-karaoke"
   #  date: 2017-09-21
   - title: "dane-hammer"

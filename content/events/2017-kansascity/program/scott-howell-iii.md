@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Changing culture through personal reflection"
 Type = "talk"
 Speakers = ["scott-howell-iii"]
+youtube = "-LzOuWZcCEk"
 +++
 
 I spent my first year as a DevOps engineer believing it was DevOps vs the business, a couple of months ago I came to the revelation that there was a better way to do things. 
