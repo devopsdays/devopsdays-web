@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "The Culture Games: Making the Odds Ever in Your Favor"
 Type = "talk"
 Speakers = ["jeffrey-sykes"]
-youtube = "CLaV2QN5FLw"
+youtube = "DgNRj3_8elc"
 slideshare = "https://www.slideshare.net/JeffreySykes2/culture-games"
 +++
 

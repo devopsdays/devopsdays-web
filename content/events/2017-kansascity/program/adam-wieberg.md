@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Why Beta Users are Key"
 Type = "talk"
 Speakers = ["adam-wieberg"]
-youtube = "-LzOuWZcCEk"
+youtube = "czgpE71bc6I"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/adam-wieberg-why-beta-users-are-key"
 +++
 

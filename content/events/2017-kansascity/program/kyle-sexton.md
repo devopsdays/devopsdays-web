@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Secret Management with HashiCorp Vault"
 Type = "talk"
 Speakers = ["kyle-sexton"]
-youtube = "CLaV2QN5FLw"
+youtube = "SEPHckCtbFU"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/kyle-sexton-secret-management-with-hashicorp-vault"
 +++
 

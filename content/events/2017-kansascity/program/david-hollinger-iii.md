@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Vox Pupuli - The Importance of Working Together"
 Type = "talk"
 Speakers = ["david-hollinger-iii"]
-youtube = "-LzOuWZcCEk"
+youtube = "28izTNK_-00"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/david-hollinger-iii-vox-pupuli-the-importance-of-working-together"
 +++
 

@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Cracking the Culture Code: Practical Advice on Promoting a Generative Culture"
 Type = "talk"
 Speakers = ["dave-swersky","ron-mackenzie"]
-youtube = "-LzOuWZcCEk"
+youtube = "LfVRw8iB3gY"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/dave-swersky-ron-mackenzie-cracking-the-culture-code-practical-advice-on-promoting-a-generative-culture"
 +++
 

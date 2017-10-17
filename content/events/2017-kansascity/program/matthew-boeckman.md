@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Rewriting DevOps"
 Type = "talk"
 Speakers = ["matthew-boeckman"]
-youtube = "JJE3OX-HceI"
+youtube = "vXmVxddEzW4"
 slideshare = "https://www.slideshare.net/MatthewBoeckman/rewriting-devops-lessons-from-a-15-month-software-rewrite"
 +++
 

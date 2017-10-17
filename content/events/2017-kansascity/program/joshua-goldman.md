@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Help I'm a \"DevOps Engineer\" Now!!!!"
 Type = "talk"
 Speakers = ["joshua-goldman"]
-youtube = "CLaV2QN5FLw"
+youtube = "d0lzt-7KeT0"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/joshua-goldman-help-im-a-devops-engineer-now"
 +++
 
