@@ -5,16 +5,16 @@ aliases = ["/events/2017-salvador/welcome"]
 Description = "devopsdays Salvador 2017"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <a href="http://salvador.devopsdays.com.br/">{{< event_logo >}}</a>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Date</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
@@ -65,15 +65,6 @@ Description = "devopsdays Salvador 2017"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
@@ -81,7 +72,4 @@ Description = "devopsdays Salvador 2017"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
