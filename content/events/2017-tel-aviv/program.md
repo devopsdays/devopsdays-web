@@ -253,7 +253,7 @@ heading = "devopsdays Tel Aviv - Program"
     From Ops to Dev and Back again / Gil Zellner <br/>
     How our ISP's firewall cost us a full day of the entire R&D / Ariel Assaraf <br/>
     How to hire a SRE in 10 minutes / Max Timchenko <br/>
-    Lessons from an Idaho Potato Farmer / David Laulusa <br/>
+    TBD <br/>
     Container Orchestration with Rancher / Lidor Gerstel <br/>
     TBD <br/>
     TBD</div>
