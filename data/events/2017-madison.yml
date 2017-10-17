@@ -88,6 +88,8 @@ sponsors:
     level: silver
   - id: sumologic
     level: silver
+  - id: swamp
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
