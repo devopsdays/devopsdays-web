@@ -106,9 +106,9 @@ sponsors:
     level: coffee
   - id: appsflyer
     level: bronze
-  - id: 2017-bigpanda
+  - id: bigpanda
     level: silver
-  - id: 2017-azure
+  - id: microsoftazure
     level: silver
   - id: logzio
     level: silver
@@ -132,7 +132,7 @@ sponsors:
     level: breakfast
   - id: oracle
     level: silver
-  - id: 2017-azure
+  - id: microsoftazure
     level: day1happyhour
   - id: ziprecruiter
     level: day2happyhour
