@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Open Tracing, to order and understand your mess <br/> Gianluca Arbezzano</div>
+    TBD</div>
   <div class = "col-md-2 col-md-offset-3 box">
     Design Patterns for Efficient DevOps Processes <br/> Rebecca Fitzhugh</div>
   <div class = "col-md-2 col-md-offset-6 box">
