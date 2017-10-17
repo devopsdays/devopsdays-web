@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Lessons from an Idaho Potato Farmer"
 Type = "talk"
 Speakers = ["david-laulusa"]
-youtube = "CLaV2QN5FLw"
+youtube = "A-pwEf_HjZY"
 speakerdeck = "https://speakerdeck.com/doddfwvol/lessons-from-an-idaho-potato-farmer "
 +++
 

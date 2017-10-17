@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Changing culture through personal reflection"
 Type = "talk"
 Speakers = ["scott-howell-iii"]
-youtube = "-LzOuWZcCEk"
+youtube = "UuBks44mPNo"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/scott-howell-iii-changing-culture-through-personal-reflection"
 +++
 

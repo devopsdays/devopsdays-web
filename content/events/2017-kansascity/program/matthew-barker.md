@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "What Goes In Must Come Out, Hidden Defects in Your Docker Containers"
 Type = "talk"
 Speakers = ["matthew-barker"]
-youtube = "-LzOuWZcCEk"
+youtube = "nhCUomSeYvA"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/matthew-barker-what-goes-in-must-come-out-hidden-defects-in-your-docker-containers"
 +++
 

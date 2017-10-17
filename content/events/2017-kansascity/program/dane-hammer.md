@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "The First Year Working Remotely"
 Type = "talk"
 Speakers = ["dane-hammer"]
-youtube = "-LzOuWZcCEk"
+youtube = "B4_3jK_Hyec"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/dane-hammer-the-first-year-working-remotely"
 +++
 

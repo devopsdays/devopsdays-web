@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "3 Simple Lessons from Working With Public that Help in Technology"
 Type = "talk"
 Speakers = ["todd-brees"]
-youtube = "CLaV2QN5FLw"
+youtube = "uhMg0FLQ59Y"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/todd-brees-3-simple-lessons-from-working-with-public-that-help-in-technology"
 +++
 

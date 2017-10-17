@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Inside Attacker: An Overview"
 Type = "talk"
 Speakers = ["dustin-collins"]
-youtube = "CLaV2QN5FLw"
+youtube = "ReuepsVYRq4"
 slideshare = "https://www.slideshare.net/DustinCollins1/inside-attacker-an-overview"
 +++
 

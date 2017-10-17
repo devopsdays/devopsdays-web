@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Ways DevOps Could Be More Accessible"
 Type = "talk"
 Speakers = ["alison-stanton"]
-youtube = "-LzOuWZcCEk"
+youtube = "xrfCZsKnCXI"
 speakerdeck = "https://speakerdeck.com/devopsdayskc/alison-stanton-ways-devops-could-be-more-accessible"
 +++
 
