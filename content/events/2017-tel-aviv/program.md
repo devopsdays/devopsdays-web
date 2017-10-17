@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    TBD</div>
+    Boaz Ziniman - TBD</div>
   <div class = "col-md-2 col-md-offset-3 box">
     Design Patterns for Efficient DevOps Processes <br/> Rebecca Fitzhugh</div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -211,7 +211,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    TBD</div>
+    Avishai Ish Shalom - TBD</div>
   <div class = "col-md-2 col-md-offset-3 box">
     The Great PagerDuty DevOps Heist Of 2016 <br/> Arup Chakrabarty</div>
   <div class = "col-md-2 col-md-offset-6 box">
