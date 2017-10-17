@@ -122,6 +122,8 @@ sponsors:
     level: bronze
   - id: akamai
     level: bronze
+  - id: gitlab
+    level: bronze
   - id: similarweb
     level: bronze
   - id: quali
