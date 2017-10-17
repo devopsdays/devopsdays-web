@@ -63,5 +63,59 @@ It’s always a tradeoff between stability and velocity when it comes to optimiz
 
 Twitter: @_praveenshukla
 
+<hr>
+
+### Siamak Sadeghianfar
+
+Technical Product Marketing Manager, OpenShift
+
+Siamak Sadeghianfar is a Principal Technical Product Marketing Manager for OpenShift at Red Hat and strives to educate IT professionals, customers and partners on all aspects of application development with containers and how new technologies can be used to solve business problems quicker and with less friction. A developer at heart, he is passionate about application development lifecycle, processes and architecture and has 15+ years of experience in the IT industry.
+
+“I'm a DevOps evangelist at Red Hat and regularly talk at developer, analyst and technology events with a purpose of educating the industry on what I learn from speaking with various Red Hat customers about their DevOps journeys.”
+
+## Ten Ways Kubernetes Enables DevOps
+
+DevOps adoption has increased rapidly over the last few years and with it the guidelines, practices, and tool that support this journey. Nevertheless, finding the right path towards DevOps is challenging for most organizations. In this session, we will discuss why containers and container orchestrators have proven to be a key enabler for DevOps practices with examples from real-world implementations and furthermore, you will learn about 10 ways that Kubernetes is helping teams to get ahead in their DevOps initiatives.
+
+## The Path to DevOps in Five Steps
+
+DevOps adoption has increased rapidly over the last few years and with it the guidelines, practices, and tools that support the DevOps principles. Nevertheless, finding the right path towards DevOps is challenging for most organizations. In this session we will discuss: - Where to start your DevOps journey - Key factors in successful DevOps adoption - Organizational tweaks for enabling DevOps - Steps taken by high-performing teams in the enterprise
+
+Twitter: @siamaks
+
+<hr>
+
+### Thiago Assuncao de Faria
+
+DataOps & AI Lead
+
+As a Mathematician and Statistician, he always enjoyed data modelling, predicting, data sharding algorithms and implementing data products. He worries about the Ops part of AI, joined the devops community (organiser of devopsdays Amsterdam) & co-founded itnext.io. Excited about the business implications of his IT endeavours and instigated by "The Goal" by Eliyahu Goldratt, Thiago is always looking for actual consequences of his products & diminishing time-to-market.
+
+“Time-to-market is one of the most effective ways to confirm your assumptions - fail fast, fail often. But ML algorithms & AI products usually take a lot of time to be finished! The audience will leave this session rethinking how they build AI products, how they could integrate configuration tools into it and put their ML processes in check.”
+
+## Can the AI hype & ML algorithms harm your DevOps initiatives?
+
+AI is such a buzzword, with its futuristic implementations and sophisticated machine learning algorithms (Hello, Deep learning!). We are using ML when we need external data to reach a working product because it would be impossible to solve it with the regular for/if/loops. What are the next steps? Moreover, what about Test, Release and Deployment? We will dive into AI implementations, its achievements & mistakes to discuss DevOps, Agile, ML & AI.
+
+Twitter: @thiagoavadore
+
+<hr>
+
+### Dirk Lehmann
+
+Cloud Quality Coach
+
+Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps techniques. In his former role he established the first daily delivering product at SAP. Dirk is a frequent speaker at conferences on Continuous Delivery and DevOps topics.
+
+“I think I can tell something about DevOps in large enterprises and the challenges that come along with that. Oh, and I'm pretty enthusiastic about DevOps and I hope/think/... this shows when I'm on the stage.”
+
+## Trust as foundation of DevOps
+
+DevOps requires a cultural change. But how can a DevOps transformation work (esp. in large enterprises)? Observing many teams at several occasions Dirk noticed that trust can be seen as the foundation of DevOps. Giving examples and concrete actions this talk shows you how to foster trust in your team, so that applying DevOps becomes a success. 
+
+Twitter: @doergn
+
+
+
 
 
