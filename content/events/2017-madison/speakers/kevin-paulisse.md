@@ -1,7 +1,7 @@
 +++
 Title = "Kevin Paulisse"
 Twitter = "kpaulisse"
-#image = ""
+image = "kevin-paulisse.jpg"
 type = "speaker"
 linktitle = "kevin-paulisse"
 
