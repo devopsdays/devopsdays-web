@@ -182,6 +182,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong><br>
+        <a href="https://goo.gl/maps/vgnYcH6vqs82">Paulaner im Spreebogen</a><br>
+        Alt-Moabit 98<br>
+        10559 Berlin<br>
       </div>
     </div> <!-- end timeslot div -->
 
