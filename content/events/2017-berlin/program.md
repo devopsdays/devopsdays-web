@@ -182,6 +182,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong><br>
+        <a href="https://goo.gl/maps/vgnYcH6vqs82">Paulaner im Spreebogen</a><br>
+        Alt-Moabit 98<br>
+        10559 Berlin<br>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -230,7 +233,7 @@ type = "event"
         <time>09:40-10:10</time>
       </div>
       <div class = "col-md-6 box">
-	    <a href="/events/2017-berlin/program/michael-koltsov/">Michael Koltsov - Serverless for the open source adepts</a></br>
+	    <a href="/events/2017-berlin/program/bernd-erk/">Bernd Erk - How to make good and difficult decisions</a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

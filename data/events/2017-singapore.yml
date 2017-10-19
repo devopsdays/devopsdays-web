@@ -138,7 +138,7 @@ program:
     end_time: "10:30"
   - title: "Break"
     type: custom
-    date: 2017-10-26
+    date: 2017-10-25
     start_time: "10:30"
     end_time: "10:40"
   - title: "peter-chestna"
@@ -183,7 +183,7 @@ program:
     end_time: "15:45"
   - title: "Break"
     type: custom
-    date: 2017-10-26
+    date: 2017-10-25
     start_time: "15:45"
     end_time: "15:55"
   - title: "Open Space #2"
@@ -244,27 +244,27 @@ program:
     end_time: "11:50"
   - title: "Lunch"
     type: custom
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "12:00"
     end_time: "13:00"
   - title: "Open Space Kickoff"
     type: custom
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "13:00"
     end_time: "13:25"
   - title: "matt-ray"
     type: talk
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "13:25"
     end_time: "14:10"
   - title: "Ignites"
     type: ignite
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "14:15"
     end_time: "14:50"
   - title: "Open Space #1"
     type: open-space
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "15:00"
     end_time: "15:45"
   - title: "Break"
@@ -274,17 +274,17 @@ program:
     end_time: "15:55"
   - title: "Open Space #2"
     type: open-space
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "15:55"
     end_time: "16:40"
   - title: "Open Space #3"
     type: open-space
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "16:40"
     end_time: "17:25"
-  - title: "Close Day & Logistics"
+  - title: "Close Day"
     type: custom
-    date: 2017-10-25
+    date: 2017-10-26
     start_time: "17:25"
     end_time: "17:30"
 
@@ -302,8 +302,6 @@ ignites:
   - title: "ignite-peter-chestna"
     date: 2017-10-26
   - title: "ignite-jaap-brasser"
-    date: 2017-10-26
-  - title: "ignite-dan-weidong-liang"
     date: 2017-10-26
   - title: "ignite-antonio-cocera"
     date: 2017-10-26

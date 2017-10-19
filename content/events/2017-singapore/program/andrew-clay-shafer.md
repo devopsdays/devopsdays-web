@@ -2,7 +2,7 @@
 Talk_date = "2017-10-26"
 Talk_start_time = "09:15"
 Talk_end_time = "09:45"
-Title = "Closing Keynote: Good Devops Copy; Great Devops Steal"
+Title = "Keynote: Good Devops Copy; Great Devops Steal"
 Type = "talk"
 Speakers = ["andrew-clay-shafer"]
 +++
