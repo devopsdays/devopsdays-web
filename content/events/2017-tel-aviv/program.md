@@ -121,7 +121,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>13:30-14:10</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Dynamic Security Testing with Zap <br/> Omer Levi Hevroni</div>
+    Dynamic Security Testing with Zap <br/> Omer Levi Hevroni & Yshay Yaacobi</div>
   <div class = "col-md-2 col-md-offset-3 box">
     Distributed Teams: Scaling Operations Around the World <br/> Guido Iaquinti</div>
   <div class = "col-md-2 col-md-offset-6 box">
