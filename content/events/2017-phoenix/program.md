@@ -118,8 +118,8 @@ aliases = ["/events/2017-phoenix/schedule"]
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/michael-glenney" text="API Management - Why DevOps is critical to it's success" >}}</strong><br />{{< event_link page="speakers/michael-glenney" text="Michael Glenney" >}}<br />Pima
       </div>
-      <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/arnab-sinha-chat-ops" text="ChatOps! - What's, How's & Possibilities..." >}}</strong><br />{{< event_link page="speakers/arnab-sinha" text="Arnab Sinha" >}}<br />Pinal
+      <div class = "col-md-3 box" style="color: #0082AB">
+        <strong>Nothing Scheduled / Quietly Typing Humans</strong><br />People sitting quietly, working on laptops.<br /><p style="color: #000000">Pinal</p>
       </div>
     </div> <!-- end timeslot div -->
          <!-- this div is repeated for each timeslot -->
@@ -163,7 +163,6 @@ aliases = ["/events/2017-phoenix/schedule"]
       <div class = "col-md-9 box">
         <H3>Lightning Talks</h3><br />
         <strong>{{< event_link page="program/nick-willever" text="Evolution of Software Deployments" >}}</strong> - {{< event_link page="speakers/nick-willever" text="Nick Willever" >}}
-         <br /><strong>{{< event_link page="program/arnab-sinha-ignite" text="Shift Left - Quality Documentation" >}}</strong> - {{< event_link page="speakers/arnab-sinha" text="Arnab Sinha" >}}
         <br /><strong>{{< event_link page="program/istvan-nagy" text="Why You Need A Parachute To Enter Devops" >}}</strong> - {{< event_link page="speakers/istvan-nagy" text="Istvan Nagy" >}}
         <br /><strong>{{< event_link page="program/adam-johnson" text="Why SCRUM Daily Standups Need a Facelift" >}}</strong> - {{< event_link page="speakers/adam-johnson" text="Adam Johnson" >}}
         <br /><br />Amphitheater
