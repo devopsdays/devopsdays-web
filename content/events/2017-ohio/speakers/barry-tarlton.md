@@ -1,7 +1,7 @@
 +++
 Title = "Barry Tarlton"
 Twitter = ""
-image = ""
+image = "barry-tarlton.jpg"
 type = "speaker"
 linktitle = "barry-tarlton"
 
