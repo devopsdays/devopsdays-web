@@ -77,10 +77,10 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 11
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 12 # This is the same as omitting the max limit.
   - id: happyhour
     label: Happy Hour
     max: 1
@@ -89,5 +89,4 @@ sponsor_levels:
     max: 2
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: 5
