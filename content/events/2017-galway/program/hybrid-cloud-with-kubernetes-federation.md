@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Hybrid Cloud with Kubernetes Federation"
 Type = "talk"
-Speakers = ["cynthia-lopes-do-sacramento"]
+Speakers = ["cynthia-lopes-do-sacramento","miguel-castilho-dias"]
 +++
 
 <p>Hybrid Cloud is awesome, but running applications across multiple clouds can be difficult. Features like Cloud bursting, high availability, federation etc. require highly skilled technical experts to deploy and manage - wouldn't it be great if there was a tool that could help? Fear no more, Kubernetes Federation is what you've been looking for.</p>
