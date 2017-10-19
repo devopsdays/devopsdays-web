@@ -138,7 +138,7 @@ program:
     end_time: "10:30"
   - title: "Break"
     type: custom
-    date: 2017-10-26
+    date: 2017-10-25
     start_time: "10:30"
     end_time: "10:40"
   - title: "peter-chestna"
@@ -183,7 +183,7 @@ program:
     end_time: "15:45"
   - title: "Break"
     type: custom
-    date: 2017-10-26
+    date: 2017-10-25
     start_time: "15:45"
     end_time: "15:55"
   - title: "Open Space #2"
@@ -302,8 +302,6 @@ ignites:
   - title: "ignite-peter-chestna"
     date: 2017-10-26
   - title: "ignite-jaap-brasser"
-    date: 2017-10-26
-  - title: "ignite-dan-weidong-liang"
     date: 2017-10-26
   - title: "ignite-antonio-cocera"
     date: 2017-10-26
