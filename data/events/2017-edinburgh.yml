@@ -93,8 +93,14 @@ sponsors:
      level: bronze
    - id: ncredinburgh
      level: bronze
+   - id: paywizard
+     level: bronze
+   - id: skyscanner
+     level: bronze
+   - id: harveynash
+     level: social
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -109,6 +115,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: social
+    label: Social    
 #  - id: community
 #    label: Community
 program:
@@ -122,8 +130,8 @@ program:
     date: 2017-10-23
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Opening Keynote - TBC"
-    type: custom
+  - title: "Opening Keynote: Maria Gutierrez"
+    type: Custom
     date: 2017-10-23
     start_time: "09:15"
     end_time: "09:45" 
@@ -303,3 +311,17 @@ program:
     date: 2017-10-24
     start_time: "17:00"
     end_time: "17:20"
+
+ignites:
+  - title: "jon-hall"
+    date: 2017-10-23
+  - title: "philipp-krenn2"
+    date: 2017-10-23
+  - title: "murdo-aird"
+    date: 2017-10-23
+  - title: "ken-mugrage"
+    date: 2017-10-24
+  - title: "gabriel-nepomuceno"
+    date: 2017-10-24
+  - title: "adrian-mouat2"
+    date: 2017-10-24

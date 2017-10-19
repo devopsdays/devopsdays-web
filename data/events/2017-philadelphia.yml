@@ -63,7 +63,7 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
-  - id: hpe
+  - id: micro-focus
     level: gold
   - id: thoughtworks-gocd
     level: gold
@@ -85,7 +85,7 @@ sponsors:
     level: gold
   - id: capitalone
     level: gold
-  - id: checksmarx
+  - id: checkmarx
     level: gold
   - id: cloudbolt
     level: gold
@@ -94,6 +94,10 @@ sponsors:
   - id: aweber
     level: silver
   - id: dynatrace
+    level: silver
+  - id: opsgenie
+    level: silver
+  - id: circonus
     level: silver
   - id: 2nd-watch
     level: bronze

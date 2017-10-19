@@ -96,7 +96,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-	    <a href="/events/2017-berlin/program/keshav-vasudevan/">Keshav Vasudevan - Understanding and Executing on API Developer Experience</a></br>
+	    <a href="/events/2017-berlin/program/ronan-trainor/">Ronan Trainor - Iterative API development through design and virtualization</a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -182,6 +182,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong><br>
+        <a href="https://goo.gl/maps/vgnYcH6vqs82">Paulaner im Spreebogen</a><br>
+        Alt-Moabit 98<br>
+        10559 Berlin<br>
       </div>
     </div> <!-- end timeslot div -->
 

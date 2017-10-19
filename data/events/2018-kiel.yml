@@ -65,6 +65,7 @@ team_members: # Name is the only required field for team members.
     bio: "Sabine works as Enthusiastic Agile & Devops Enabler at getNext IT. She helps companies in the tech industry to improve team communication, soft skills, culture and leadership. She is an experienced speaker at international conferences and author of many articles and blog posts on these issues."
 
   - name: "Wilhelm Hasselbring"
+    twitter: "whasselbring"
     bio: "Prof. Dr. Wilhelm (Willi) Hasselbring is professor of Software Engineering at Kiel University. In the competence cluster Software Systems Engineering (KoSSE), he coordinates technology transfer projects with (local) industry. In the excellence cluster Future Ocean, a large-scale collaborative project of Kiel University and GEOMAR, he is principal investigator and coordinator of the research area Ocean Observations."
 
   - name: "Wolfgang Bär"
@@ -116,4 +117,4 @@ sponsor_levels:
   - id: contributor
     label: Contributor
   - id: supporter
-    label: Supporter
+    label: Supporting
