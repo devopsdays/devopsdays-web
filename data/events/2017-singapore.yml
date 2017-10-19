@@ -282,7 +282,7 @@ program:
     date: 2017-10-26
     start_time: "16:40"
     end_time: "17:25"
-  - title: "Close Day & Logistics"
+  - title: "Close Day"
     type: custom
     date: 2017-10-26
     start_time: "17:25"

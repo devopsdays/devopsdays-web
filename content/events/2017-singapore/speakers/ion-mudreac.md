@@ -7,7 +7,7 @@ linktitle = "ion-mudreac"
 
 +++
 
-Ion is leading digital transformation and DevOps initiative for the Data group in Standard Chartered Bank. He has 20+ years IT experience with 10+ years’ experience in financial industry and Ph.D in Economics. He previously worked in Japan at Daiwa Securities and Merrill Lynch and eventually moved to Singapore.
+Ion is leading digital transformation and DevOps initiative for the Data group in Standard Chartered Bank. He has 20+ years IT experience with 10+ years experience in financial industry and Ph.D in Economics. He previously worked in Japan at Daiwa Securities and Merrill Lynch and eventually moved to Singapore.
 
 Prior joining Standard Chartered, he was with Commerzbank and held various team lead roles for global eFX Algorithmic Trading and FX Options IT operation teams.
 
