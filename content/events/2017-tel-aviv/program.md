@@ -184,7 +184,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote: <strong>Liz Rice</strong>
+    Keynote: <strong>Liz Rice</strong> - Where's my code? Securing your code when you don't even know where it's running
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
