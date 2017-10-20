@@ -88,6 +88,12 @@ sponsors:
     level: silver
   - id: sumologic
     level: silver
+  - id: swamp
+    level: silver
+  - id: newrelic
+    level: silver
+  - id: cloudbolt
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -182,7 +188,7 @@ program:
     date: 2017-10-30
     start_time: "15:00"
     end_time: "15:45"
-  - title: "pj-hagerty"
+  - title: "kevin-paulisse"
     type: workshop
     date: 2017-10-30
     start_time: "15:00"

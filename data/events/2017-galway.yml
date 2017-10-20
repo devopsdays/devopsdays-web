@@ -31,7 +31,7 @@ location: "Inis Mor Ballroom" # Defaults to city, but you can make it the venue 
 location_address: "Radisson Blu Hotel & Spa, Lough Atalia Rd, Galway, Ireland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
   - name: registration
   - name: program
@@ -134,6 +134,8 @@ sponsors:
   - id: nuig-compsoc
     level: community
   - id: linux_recruit
+    level: community
+  - id: women-in-technology-galway
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -288,7 +290,7 @@ program:
     start_time: "11:20"
     end_time: "11:35"
 
-  - title: "praveen-shukla"
+  - title: "reliability_at_scale"
     type: talk
     date: 2017-11-14
     start_time: "11:35"

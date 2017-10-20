@@ -130,87 +130,82 @@ program:
     type: talk
     date: 2017-10-25
     start_time: "09:15"
-    end_time: "09:45"
-  - title: "scott-moore"
-    type: talk
-    date: 2017-10-25
-    start_time: "09:50"
-    end_time: "10:20"
-  - title: "Break"
-    type: custom
-    date: 2017-10-25
-    start_time: "10:20"
-    end_time: "10:30"
+    end_time: "09:55"
   - title: "steven-murawski"
     type: talk
     date: 2017-10-25
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "peter-chestna"
-    type: talk
-    date: 2017-10-25
-    start_time: "11:05"
-    end_time: "11:35"
+    start_time: "09:55"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-10-25
-    start_time: "11:35"
-    end_time: "11:45"
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "peter-chestna"
+    type: talk
+    date: 2017-10-25
+    start_time: "10:40"
+    end_time: "11:15"
   - title: "dave-kerr"
     type: talk
     date: 2017-10-25
-    start_time: "11:45"
-    end_time: "12:15"
-  - title: "sriram-narayan"
-    type: talk
-    date: 2017-10-25
-    start_time: "12:20"
-    end_time: "12:50"
+    start_time: "11:15"
+    end_time: "11:50"
   - title: "Announcements"
     type: custom
     date: 2017-10-25
-    start_time: "12:50"
-    end_time: "13:00"
+    start_time: "11:50"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2017-10-25
-    start_time: "13:00"
-    end_time: "14:00"
-  - title: "TBA"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Open Space Kickoff"
     type: custom
     date: 2017-10-25
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "sriram-narayan"
+    type: talk
+    date: 2017-10-25
+    start_time: "13:25"
+    end_time: "14:10"
   - title: "Ignites"
     type: ignite
     date: 2017-10-25
     start_time: "14:15"
     end_time: "14:50"
-  - title: "Break / Open Space Voting"
-    type: custom
-    date: 2017-10-25
-    start_time: "14:50"
-    end_time: "15:10"
   - title: "Open Space #1"
     type: open-space
     date: 2017-10-25
-    start_time: "15:10"
-    end_time: "16:00"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2017-10-25
+    start_time: "15:45"
+    end_time: "15:55"
   - title: "Open Space #2"
     type: open-space
     date: 2017-10-25
-    start_time: "16:00"
-    end_time: "16:50"
+    start_time: "15:55"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-10-25
+    start_time: "16:40"
+    end_time: "17:25"
   - title: "Close Day & Logistics"
     type: custom
     date: 2017-10-25
-    start_time: "16:50"
-    end_time: "17:00"
+    start_time: "17:25"
+    end_time: "17:30"
   - title: "Evening event"
     comments: "TBA"
     type: custom
     date: 2017-10-25
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "late"
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
@@ -226,118 +221,87 @@ program:
     type: talk
     date: 2017-10-26
     start_time: "09:15"
-    end_time: "09:45"
-  - title: "matt-ray"
-    type: talk
-    date: 2017-10-26
-    start_time: "09:50"
-    end_time: "10:20"
-  - title: "Break"
-    type: custom
-    date: 2017-10-26
-    start_time: "10:20"
-    end_time: "10:30"
+    end_time: "09:55"
   - title: "ion-mudreac"
     type: talk
     date: 2017-10-26
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "amit-kumar"
-    type: talk
-    date: 2017-10-26
-    start_time: "11:05"
-    end_time: "11:35"
+    start_time: "09:55"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2017-10-26
-    start_time: "11:35"
-    end_time: "11:45"
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "amit-kumar"
+    type: talk
+    date: 2017-10-26
+    start_time: "10:40"
+    end_time: "11:15"
   - title: "marcin-wielgus"
     type: talk
     date: 2017-10-26
-    start_time: "11:45"
-    end_time: "12:15"
-  - title: "closing-keynote"
-    type: talk
-    date: 2017-10-26
-    start_time: "12:20"
-    end_time: "12:50"
-  - title: "Announcements"
-    type: custom
-    date: 2017-10-26
-    start_time: "12:50"
-    end_time: "13:00"
+    start_time: "11:15"
+    end_time: "11:50"
   - title: "Lunch"
     type: custom
     date: 2017-10-26
-    start_time: "13:00"
-    end_time: "14:00"
-  - title: "TBA"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Open Space Kickoff"
     type: custom
     date: 2017-10-26
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "matt-ray"
+    type: talk
+    date: 2017-10-26
+    start_time: "13:25"
+    end_time: "14:10"
   - title: "Ignites"
     type: ignite
     date: 2017-10-26
     start_time: "14:15"
     end_time: "14:50"
-  - title: "Break / Open Space Voting"
-    type: custom
-    date: 2017-10-26
-    start_time: "14:50"
-    end_time: "15:10"
   - title: "Open Space #1"
     type: open-space
     date: 2017-10-26
-    start_time: "15:10"
-    end_time: "16:00"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2017-10-26
+    start_time: "15:45"
+    end_time: "15:55"
   - title: "Open Space #2"
     type: open-space
     date: 2017-10-26
-    start_time: "16:00"
-    end_time: "16:50"
-  - title: "Close Day & Logistics"
+    start_time: "15:55"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-10-26
+    start_time: "16:40"
+    end_time: "17:25"
+  - title: "Close Day"
     type: custom
     date: 2017-10-26
-    start_time: "16:50"
-    end_time: "17:00"
+    start_time: "17:25"
+    end_time: "17:30"
 
 ignites:
-  - title: "ignite-dan-weidong-liang"
+  - title: "ignite-matt-ray"
     date: 2017-10-25
   - title: "ignite-rob-sewell"
-    date: 2017-10-25
-  - title: "ignite-antonio-cocera"
-    date: 2017-10-25
-  - title: "ignite-paul-took"
     date: 2017-10-25
   - title: "ignite-jamie-donoghue"
     date: 2017-10-25
   - title: "ignite-david-varvel"
     date: 2017-10-25
-  - title: "ignite-matt-ray"
-    date: 2017-10-25
-#  - title: "ignite"
-#    date: 2017-10-25
-#  - title: "ignite"
-#    date: 2017-10-25
-
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
-#  - title: "ignite"
-#    date: 2017-10-26
+  - title: "ignite-paul-took"
+    date: 2017-10-26
+  - title: "ignite-peter-chestna"
+    date: 2017-10-26
+  - title: "ignite-jaap-brasser"
+    date: 2017-10-26
+  - title: "ignite-antonio-cocera"
+    date: 2017-10-26

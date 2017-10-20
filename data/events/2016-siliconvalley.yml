@@ -15,7 +15,7 @@ team: ["Jennifer Davis", "Rob Berger", "Jamesha Fisher", "Linda Laubenheimer", "
 organizer_email: "organizers-siliconvalley-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-siliconvalley-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: bigpanda
+  - id: bigpanda-before-20171017
     level: gold
   - id: deis
     level: gold

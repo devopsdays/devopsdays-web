@@ -16,6 +16,10 @@ Participe y comparta en 4 días de conferencias, charlas, workshops intercambian
 
 **NOTA / NOTE:** Descuento de vuelo si viaja con la aereolinea COPA. / Fly discount if you use COPA Airlines*<a href="/events/2017-cuba/discount"> Más... / More...</a>*
 
+**[Actualizacion / Update]**: La sessiones del evento han sido reubicada para el Hotel Melia Marina Varadero. / The sessions of the event have been transferred to the Hotel Melia Marina Varadero.
+     
+
+
 ----------
 
 <img style="float: left; max-width: 300px; padding: 0px 20px 20px 0px" src="/events/2017-cuba/logo.png">

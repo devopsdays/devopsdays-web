@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Help I'm a \"DevOps Engineer\" Now!!!!"
 Type = "talk"
 Speakers = ["joshua-goldman"]
+youtube = "d0lzt-7KeT0"
+speakerdeck = "https://speakerdeck.com/devopsdayskc/joshua-goldman-help-im-a-devops-engineer-now"
 +++
 
 Did someone hand your VP of Software Engineering a copy of Google's SRE or The Phoenix Project/Devops Handbook?  They loved it so much and decided now is a good time to refactor your organization? 

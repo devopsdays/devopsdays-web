@@ -114,8 +114,6 @@ sponsors:
     level: silver
   - id: qualimente
     level: silver
-  - id: morpheus_data
-    level: silver
   - id: diamanti
     level: silver
   - id: trace3
@@ -126,6 +124,8 @@ sponsors:
   - id: forsythe
     level: silver
   - id: infusionsoft
+    level: silver
+  - id: thousandeyes
     level: silver
   - id: tek-systems
     level: bronze
