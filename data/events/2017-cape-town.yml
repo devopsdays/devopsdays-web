@@ -102,6 +102,9 @@ sponsors:
    level: gold
  - id: zappistore
    level: gold
+ - id: ca-tech-za
+   level: basic
+   url: https://www.ca.com/content/dam/ca/us/files/industry-analyst-report/continuous-testing-as-a-digital-business-enabler.pdf
 
 program:
   - title: "Registration, Breakfast, Sponsors"
