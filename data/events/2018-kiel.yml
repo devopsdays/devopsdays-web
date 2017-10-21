@@ -10,12 +10,12 @@ startdate: 2018-05-16  # The start date of your event. Leave blank if you don't 
 enddate: 2018-05-17  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2017-10-02 # start accepting talk proposals.
+cfp_date_end: 2017-12-15 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfIa7r1bDphxIk5k1hclulDDH7xeFbjqMiVNMg1s8nwWBPR7Q/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -32,7 +32,7 @@ location: "Kiel" # Defaults to city, but you can make it the venue name.
 location_address: "Fraunhoferstraße 13, 24118 Kiel" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: registration
  # - name: program
  # - name: speakers
@@ -65,6 +65,7 @@ team_members: # Name is the only required field for team members.
     bio: "Sabine works as Enthusiastic Agile & Devops Enabler at getNext IT. She helps companies in the tech industry to improve team communication, soft skills, culture and leadership. She is an experienced speaker at international conferences and author of many articles and blog posts on these issues."
 
   - name: "Wilhelm Hasselbring"
+    twitter: "whasselbring"
     bio: "Prof. Dr. Wilhelm (Willi) Hasselbring is professor of Software Engineering at Kiel University. In the competence cluster Software Systems Engineering (KoSSE), he coordinates technology transfer projects with (local) industry. In the excellence cluster Future Ocean, a large-scale collaborative project of Kiel University and GEOMAR, he is principal investigator and coordinator of the research area Ocean Observations."
 
   - name: "Wolfgang Bär"
@@ -82,9 +83,11 @@ proposal_email: "proposals-kiel-2018@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: 2018-coreadmin
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+    # url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
+  - id: diwish
+    level: supporter
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -93,12 +96,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: silver
-    label: Silver
-    max: 10
   - id: gold
     label: Gold
     max: 5
+  - id: silver
+    label: Silver
+    max: 10
   - id: evening
     label: Evening
     max: 1
@@ -113,3 +116,5 @@ sponsor_levels:
     max: 2
   - id: contributor
     label: Contributor
+  - id: supporter
+    label: Supporting

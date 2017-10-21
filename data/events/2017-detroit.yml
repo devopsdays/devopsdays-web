@@ -13,7 +13,7 @@ enddate:  2017-09-28
 cfp_date_start: 2017-04-18
 cfp_date_end: 2017-07-31
 cfp_date_announce: 2017-08-07
-registration_open: "true"
+registration_open: "false"
 
 # Location
 #
@@ -27,7 +27,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: speakers
     # url: https://devopsdaysdetroit.typeform.com/to/HfQ847
   - name: location
-  - name: registration
+    # - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -37,7 +37,6 @@ team_members: # Name is the only required field for team members.
   - name: Ben Chess
     employer: Yelp
   - name: "Brian Nuszkowski"
-    employer: "Uber ATG"
     twitter: nuszkowski
   - name: "Joe Arnet"
     employer: Cengage
@@ -84,6 +83,8 @@ sponsors:
     level: gold
   - id: llamasoft
     level: gold
+  - id: dynatrace
+    level: gold
   - id: servicenow
     level: silver
   - id: delphix
@@ -93,6 +94,8 @@ sponsors:
   - id: stockx
     level: silver
   - id: proquest
+    level: bronze
+  - id: ally
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -104,7 +107,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 16
   - id: silver
     label: Silver
     max: 4
@@ -113,15 +116,18 @@ sponsor_levels:
   - id: lunch
     label: Lunch
     max: 1
-  - id: lanyard
-    label: Lanyard
-    max: 1
   - id: party
     label: Party
     max: 1
 
 program:
         ### Day One ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-09-27
+    start_time: "8:30"
+    end_time: "9:30"
+
   - title: "Opening Welcome"
     type: custom
     date: 2017-09-27
@@ -145,6 +151,7 @@ program:
     date: 2017-09-27
     start_time: "11:00"
     end_time: "11:15"
+    comments: "Drinks and snacks provided."
 
   - title: "adding-and-retiring-technologies"
     type: talk
@@ -157,6 +164,7 @@ program:
     date: 2017-09-27
     start_time: "11:45"
     end_time: "1:00"
+    comments: "Lunch will be provided at the venue."
 
   - title: "devops-state-of-mind"
     type: talk
@@ -175,6 +183,7 @@ program:
     date: 2017-09-27
     start_time: "2:00"
     end_time: "2:15"
+    comments: "Drinks and snacks provided."
 
   - title: "Ignites"
     type: ignite
@@ -214,14 +223,12 @@ program:
     comments: "The evening event will be held at the conference venue.<br/>
     Heavy appetizers, beer, wine, and non-alcoholic beverages will be served."
 
-  - title: "Presentation Karaoke"
+    ### Day Two ###
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
-    date: 2017-09-27
-    start_time: "5:30"
-    end_time: "8:30"
-    comments: "This is an attendee's chance to present in a more informal setting. Bring any presentation you’d like, it must be 5-10 minutes in length and not include a business/sales pitch."
-
-        ### Day Two ###
+    date: 2017-09-28
+    start_time: "8:30"
+    end_time: "9:30"
 
   - title: "Welcome"
     type: custom
@@ -246,6 +253,7 @@ program:
     date: 2017-09-28
     start_time: "11:15"
     end_time: "11:30"
+    comments: "Drinks and snacks provided."
 
   - title: "safety-and-lean"
     type: talk
@@ -258,6 +266,7 @@ program:
     date: 2017-09-28
     start_time: "12:30"
     end_time: "1:30"
+    comments: "Lunch will be provided at the venue."
 
   - title: "one-womans-experience"
     type: talk
@@ -270,6 +279,7 @@ program:
     date: 2017-09-28
     start_time: "2:00"
     end_time: "2:15"
+    comments: "Drinks and snacks provided."
 
   - title: "distributed-systems-are-hard"
     type: talk
@@ -312,7 +322,9 @@ ignites:
     date: 2017-09-27
   - title: "chasing-the-elk"
     date: 2017-09-27
-  - title: "switch-jobs"
+  - title: "great-venn-diagram"
     date: 2017-09-27
   - title: "uptime"
+    date: 2017-09-27
+  - title: "continous-learning"
     date: 2017-09-27

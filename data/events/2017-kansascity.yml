@@ -138,7 +138,7 @@ sponsors:
     level: silver
   - id: tgs
     level: bronze
-  - id: googlecloud
+  - id: googlecloud-before-20171005
     level: bronze
   - id: netapp
     level: silver
@@ -264,27 +264,27 @@ program:
     date: 2017-09-21
     start_time: "15:00"
     end_time: "15:30"
+  - title: "Break"
+    type: open-space
+    date: 2017-09-21
+    start_time: "15:30"
+    end_time: "15:45"
   - title: "Open Space #2"
     type: open-space
     date: 2017-09-21
-    start_time: "15:35"
-    end_time: "16:05"
-  - title: "Open Space #3"
-    type: open-space
-    date: 2017-09-21
-    start_time: "16:10"
-    end_time: "16:40"
+    start_time: "15:45"
+    end_time: "16:15"
   - title: "Open Space Summary"
     type: open-space
     date: 2017-09-21
-    start_time: "16:40"
-    end_time: "16:50"
+    start_time: "16:15"
+    end_time: "16:45"
   - title: "Close Day and Raffle"
     type: custom
     date: 2017-09-21
-    start_time: "16:50"
+    start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event (TBD)"
+  - title: "Evening Event: Hamburger Mary's for Food, Drinks & Bingo"
     type: custom
     date: 2017-09-21
     start_time: "18:00"
@@ -359,21 +359,26 @@ program:
     type: open-space
     date: 2017-09-22
     start_time: "14:30"
-    end_time: "14:50"
+    end_time: "14:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-09-22
-    start_time: "14:50"
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "Break"
+    type: open-space
+    date: 2017-09-22
+    start_time: "15:10"
     end_time: "15:20"
   - title: "Open Space #2"
     type: open-space
     date: 2017-09-22
-    start_time: "15:25"
-    end_time: "15:55"
+    start_time: "15:20"
+    end_time: "15:45"
   - title: "Open Space Summary"
     type: open-space
     date: 2017-09-22
-    start_time: "15:55"
+    start_time: "15:45"
     end_time: "16:05"
   - title: "Closing and Raffle"
     type: custom
@@ -415,7 +420,3 @@ ignites:
   #- title: "ignite-karaoke"
   #  date: 2017-09-22
 
-
-#speakers:
-#  - id: "charles-butler"
-#    level: talk

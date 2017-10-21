@@ -7,7 +7,7 @@ image = "mikhail-iljin.jpg"
 linktitle = ["mikhail-iljin"]
 +++
 
-<h2>Data Scientist / Big Data Developer at Mooncascade</h2>
+<h3>Data Scientist / Big Data Developer at Mooncascade</h3>
 
 <p>The field of big data and data science Mike's huge passion and he have seen it develop in Estonia from "What are you, some scam artists?" to wide recognition among serious companies. During his everyday work with a variety of customers, he has seen, unfortunately, a lot of failures, but also eventual successes - and would love to share his experience with you.</p>
 

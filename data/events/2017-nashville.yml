@@ -50,6 +50,7 @@ team_members: # Name is the only required field for team members.
   - name: "Alicia Sepanik"
   - name: "Brian Pitts"
   - name: "Calah Brewster"
+  - name: "Jeff Davis"
   - name: "Joel Parks"
   - name: "Nick Wallace"
   - name: "Steve Stewart"
@@ -68,6 +69,8 @@ sponsors:
   - id: influxdata
     level: gold
   - id: microsoft
+    level: gold
+  - id: netapp
     level: gold
   - id: pivotal
     level: gold
@@ -105,13 +108,20 @@ sponsors:
     level: bronze
   - id: stratasan
     level: bronze
+  - id: advizex
+    level: alacarte
+  - id: devops-institute
+    level: alacarte
+  - id: gcp
+    level: alacarte
   - id: juiceanalytics
     level: alacarte
-#  - id: samplesponsorname
-#    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: roundtowertechnologies
+    level: alacarte
+  - id: nashdevops
+    level: community
+  - id: ntc
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -128,6 +138,8 @@ sponsor_levels:
     label: Bronze
   - id: alacarte
     label: Alacarte
+  - id: community
+    label: Community
 
 program:
   - title: "Registration and Breakfast"
@@ -160,7 +172,7 @@ program:
     start_time: "10:15"
     end_time: "10:30" 
 
-  - title: "Sponsors"
+  - title: "Sponsors - Continu, Data Blue, DellEMC"
     type: custom
     date: 2017-10-17
     start_time: "10:30"
@@ -206,6 +218,12 @@ program:
     type: open-space
     date: 2017-10-17
     start_time: "2:00"
+    end_time: "2:25"
+
+  - title: "Sponsors - InfluxData"
+    type: custom
+    date: 2017-10-17
+    start_time: "2:25"
     end_time: "2:30"
 
   - title: "Open Spaces"
@@ -238,13 +256,13 @@ program:
     start_time: "8:00"
     end_time: "8:45" 
 
-  - title: "Sponsors"
+  - title: "Sponsors - Microsoft, NetApp, Pivotal"
     type: custom
     date: 2017-10-18
     start_time: "8:45"
     end_time: "9:00" 
 
-  - title: "john-willis"
+  - title: "lawton-willis"
     type: talk
     date: 2017-10-18
     start_time: "9:00"
@@ -262,7 +280,7 @@ program:
     start_time: "10:15"
     end_time: "10:30" 
 
-  - title: "Sponsors"
+  - title: "Sponsors - Pure Storage, Rubrik, SJ Technologies"
     type: custom
     date: 2017-10-18
     start_time: "10:30"

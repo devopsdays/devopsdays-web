@@ -2,7 +2,7 @@ name: "2018-seattle" # The name of the event. Four digit year with the city name
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Seattle" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysSEA" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Seattle!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Seattle!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -10,12 +10,12 @@ startdate: 2018-04-24 # The start date of your event. Leave blank if you don't h
 enddate: 2018-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-10-09  # start accepting talk proposals.
+cfp_date_end: 2018-01-07 # close your call for proposals.
+cfp_date_announce: 2018-01-28 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdays-seattle-2108" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -25,18 +25,19 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Seattle" # Defaults to city, but you can make it the venue name.
+coordinates: "47.611656, -122.331519" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Washington State Convention Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "705 Pike Street, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+    url: https://www.papercall.io/devopsdays-seattle-2108
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
-#  - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -76,13 +77,15 @@ proposal_email: "organizers-seattle-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: thoughtworks-gocd
+    level: gold
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

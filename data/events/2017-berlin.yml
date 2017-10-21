@@ -31,6 +31,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jens Brauer"
     twitter: "jensenb"
     employer: "AWS"
+  - name: "Marco Woitschitzky"
   - name: "Martin Alfke"
     twitter: "tuxmea"
     employer: "Example42"
@@ -67,10 +68,20 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: logz
     level: platinum
+  - id: 2016-idealo
+    level: platinum
+  - id: opsgenie
+    level: platinum
   - id: codecentric
     level: gold
   - id: kreuzwerker
     level: gold
+  - id: chef
+    level: gold
+  - id: 2017-solarisbank
+    level: silver
+  - id: 2017-burdaforward
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent

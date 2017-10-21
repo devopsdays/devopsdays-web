@@ -126,26 +126,22 @@ sponsors:
     level: gold
   - id: evry
     level: gold
-#  - id: chef-before-20170714
-#    level: gold
-#  - id: telenor-digital
-#    level: gold
-#  - id: praqma
-#    level: gold
-#  - id: knowit
-#    level: gold
-#  - id: microsoft
-#    level: gold
-#  - id: tripletex
-#    level: gold
-#  - id: atlassian
-#    level: gold
-#  - id: stackstate
-#    level: gold
-#  - id: soprasteria
-#    level: gold
-#  - id: intility
-#    level: gold
+  - id: chef
+    level: gold
+  - id: praqma
+    level: gold
+  - id: redpill-linpro
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: telia
+    level: platinum
+  - id: finn
+    level: gold
+  - id: soprasteria
+    level: gold
+  - id: intility
+    level: platinum
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -161,13 +157,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 
 sponsors_accepted : "yes"
 
-#speakers:
-#  - id: "jon doe"
-#    level: talk
-#
-#speaker_levels:
-#  - id: talk
-#    label: Talk
 program:
   - title: "Registration, breakfast, and sponsor booths open"
     type: custom
@@ -178,14 +167,19 @@ program:
     type: custom
     date: 2017-11-01
     start_time: "09:20"
-    end_time: "09:30"
-  - title: "Keynote"
+    end_time: "09:25"
+  - title: "mike-long"
+    type: talk
+    date: 2017-11-01
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "A word from our sponsors"
     type: custom
     date: 2017-11-01
-    start_time: "09:30"
+    start_time: "09:55"
     end_time: "10:00"
-  - title: "TBA"
-    type: custom
+  - title: "daniela-soares-cruzes"
+    type: talk
     date: 2017-11-01
     start_time: "10:00"
     end_time: "10:30"
@@ -194,13 +188,13 @@ program:
     date: 2017-11-01
     start_time: "10:30"
     end_time: "10:40"
-  - title: "TBA"
-    type: custom
+  - title: "stein-inge-morisbak"
+    type: talk
     date: 2017-11-01
     start_time: "10:40"
     end_time: "11:10"
-  - title: "TBA"
-    type: custom
+  - title: "jon-hare-winton"
+    type: talk
     date: 2017-11-01
     start_time: "11:15"
     end_time: "11:45"
@@ -253,14 +247,19 @@ program:
     type: custom
     date: 2017-11-02
     start_time: "09:20"
-    end_time: "09:30"
-  - title: "Keynote 1"
+    end_time: "09:25"
+  - title: "hannah-foxwell"
+    type: talk
+    date: 2017-11-02
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "A word from our sponsors"
     type: custom
     date: 2017-11-02
-    start_time: "09:30"
+    start_time: "09:55"
     end_time: "10:00"
-  - title: "Keynote 2"
-    type: custom
+  - title: "faz-sadeghi"
+    type: talk
     date: 2017-11-02
     start_time: "10:00"
     end_time: "10:30"
@@ -269,13 +268,13 @@ program:
     date: 2017-11-02
     start_time: "10:30"
     end_time: "10:40"
-  - title: "TBA"
-    type: custom
+  - title: "ramez-hanna"
+    type: talk
     date: 2017-11-02
     start_time: "10:40"
     end_time: "11:10"
-  - title: "TBA"
-    type: custom
+  - title: "jessica-brown"
+    type: talk
     date: 2017-11-02
     start_time: "11:15"
     end_time: "11:45"
@@ -294,23 +293,18 @@ program:
     date: 2017-11-02
     start_time: "13:30"
     end_time: "14:30"
-  - title: "Open Space breakout discussions #1"
+  - title: "Open Space breakout discussions"
     type: custom
     date: 2017-11-02
     start_time: "14:30"
-    end_time: "15:10"
+    end_time: "15:20"
   - title: "Break"
     type: custom
     date: 2017-11-02
-    start_time: "15:10"
-    end_time: "15:20"
-  - title: "Open Space breakout discussions #2"
-    type: custom
-    date: 2017-11-02
     start_time: "15:20"
-    end_time: "16:00"
-  - title: "Open Space breakout discussions #3"
-    type: custom
+    end_time: "15:30"
+  - title: "mark-burgess"
+    type: talk
     date: 2017-11-02
-    start_time: "16:00"
-    end_time: "16:40"
+    start_time: "15:30"
+    end_time: "16:00"

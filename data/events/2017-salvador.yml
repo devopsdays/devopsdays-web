@@ -31,18 +31,30 @@ location: "Salvador" # Defaults to city, but you can make it the venue name.
 location_address: "Torre Europa, Alameda Salvador , 1057, Caminho das Árvores, Salvador - BA"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
+  - name: salvador.devopsdays.com.br
+    url: "http://salvador.devopsdays.com.br/"
+    icon: "home"
+  - name: Informações
+    url: "http://salvador.devopsdays.com.br/#informacoes"
+    icon: "map-o"
+  - name: Palestrantes
+    url: "http://salvador.devopsdays.com.br/#palestrantes"
+    icon: "microphone"
+  - name: Programação
+    url: "http://salvador.devopsdays.com.br/#programacao"
+    icon: "book"
+  - name: Conduta
+    url: "http://salvador.devopsdays.com.br/#conduta"
+    icon: "handshake"
+  - name: Inscreva-se
+    url: "http://salvador.devopsdays.com.br/#ingressos"
+    icon: "user-plus"
+  - name: Patrocinio
+    url: "http://salvador.devopsdays.com.br/#patrocinio"
+    icon: "money"
+  - name: Contato
+    url: "http://salvador.devopsdays.com.br/#rodape"
+    icon: "envelope-o"
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -55,6 +67,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Cleriston Sampaio"
     twitter: "Cleriston_os"
+  
+  - name: "Thiago Colares"
+    twitter: "thicolares"
+    
+  - name: "Marco Junior"
+    twitter: "somatorio"
 
 
 organizer_email: "organizers-salvador-2017@devopsdays.org" # Put your organizer email address here
@@ -62,27 +80,5 @@ proposal_email: "proposals-salvador-2017@devopsdays.org" # Put your proposal ema
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community

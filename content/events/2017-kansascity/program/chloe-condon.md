@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Why You Need to Stop Using “The” Staging Server"
 Type = "talk"
 Speakers = ["chloe-condon"]
+youtube = "B8DAwfjlf6A"
+slideshare = "https://www.slideshare.net/outlyer/why-you-need-to-stop-using-the-staging-server"
 +++
 
 Old staging methodology is broken for modern development. In fact, the staging server is left over from when we built monolithic applications. Find out why microservice architectures are driving ephemeral testing environments & why every sized dev shop should deliver true continuous deployment.
