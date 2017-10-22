@@ -225,7 +225,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    TBD</div>
+    <strong>Ben Rockwood</strong> - TBA</div>
   <div class = "col-md-2 col-md-offset-3 box">
     A Culture of Automation <br/> <strong>Joe Smith</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -280,7 +280,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>16:00-17:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  Happy hour! sponsored by ZipRecuiter
+  Happy hour Sponsored by ZipRecuiter!
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 2 -->
