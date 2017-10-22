@@ -145,16 +145,16 @@ program:
     date: 2017-10-23
     start_time: "10:15"
     end_time: "10:45"
-  - title: "gerie-owen"
-    type: talk
-    date: 2017-10-23
-    start_time: "11:00"
-    end_time: "11:30"
   - title: "Break"
     type: custom
     date: 2017-10-23
     start_time: "10:45"
     end_time: "11:00"
+  - title: "gerie-owen"
+    type: talk
+    date: 2017-10-23
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "abhishek-chanda"
     type: talk
     date: 2017-10-23
@@ -215,11 +215,16 @@ program:
     date: 2017-10-23
     start_time: "17:00"
     end_time: "17:20"
+  - title: "Drinks Reception"
+    type: custom
+    date: 2017-10-23
+    start_time: "17:30"
+    end_time: "19:30"
 # day 2
   - title: "Registration and Breakfast"
     type: custom
     date: 2017-10-24
-    start_time: 08:00""
+    start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
@@ -282,7 +287,7 @@ program:
     start_time: "14:00"
     end_time: "14:30"
   - title: "Open Spaces Planning"
-    type: custom
+    type: open-space
     date: 2017-10-24
     start_time: "14:30"
     end_time: "15:00"
