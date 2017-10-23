@@ -10,8 +10,7 @@ type = "event"
 <a href="http://www.gamlemuseet.no/english/">Gamle Museet /The Old Museum</a> is centrally located in Dronningensgate 4. It is close to public communication with all bus and tram lines in the immediate vicinity and a 5 minute walk to Oslo central station. A parking garage is located within a two minute walk from the venue.
 
 <div>
-<iframe width="400" height="225" frameborder="0" style="border:0"
-src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJMRa1nmVuQUYRsofLI9AhgKk&key=AIzaSyDGFHra2kxFIAMDNrU2yKoo8L0aLSSfy3w" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1687.0502402047262!2d10.744387699232895!3d59.90781212707427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa98021d023cb87b2!2sGamle+Museet+Konferanse+og+Selskapslokaler!5e0!3m2!1sen!2sno!4v1508788289454" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 
