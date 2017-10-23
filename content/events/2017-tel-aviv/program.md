@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <strong>Avishai Ish Shalom</strong> - TBD</div>
+    Data, you keep using that word <br><strong>Avishai Ish Shalom</strong></div>
   <div class = "col-md-2 col-md-offset-3 box">
     Design Patterns for Efficient DevOps Processes <br/> <strong>Rebecca Fitzhugh</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
