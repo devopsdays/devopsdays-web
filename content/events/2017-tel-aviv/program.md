@@ -121,11 +121,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>13:30-14:10</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-<<<<<<< HEAD
-    Dynamic Security Testing with Zap <br/> Omer Levi Hevroni & Yshay Yaacobi</div>
-=======
     Dynamic Security Testing with Zap <br/> <strong>Omer Levi Hevroni & Yshay Yaacobi</strong></div>
->>>>>>> upstream/master
   <div class = "col-md-2 col-md-offset-3 box">
     Distributed Teams: Scaling Operations Around the World <br/> <strong>Guido Iaquinti</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
