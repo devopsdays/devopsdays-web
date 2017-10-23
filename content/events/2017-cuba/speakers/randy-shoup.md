@@ -1,7 +1,7 @@
 +++
 Title = "Randy Shoup"
 Twitter = "randyshoup"
-linkedin = "www.linkedin.com/in/randyshoup"
+linkedin = "https://www.linkedin.com/in/randyshoup"
 Website = ""
 image = "randy-shoup.jpg"
 type = "speaker"

@@ -57,7 +57,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote: Rami Goldratt
+    Keynote: <strong>Sebastien Goasguen</strong> - How can we survive continuous innovation?
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -66,7 +66,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote 2: Sebastien Goasguen - How can we survive continuous innovation ?
+    Keynote 2: <strong>Corey Quinn</strong>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -84,13 +84,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Creating effective container images <br/> Abby Fuller</div>
+    Creating effective container images <br/> <strong>Abby Fuller</strong></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    Concur’s Digital Transformation from Monolith to Microservices; DevOps IRL <br/> Jason Grimes</div>
+    Concur’s Digital Transformation from Monolith to Microservices; DevOps IRL <br/> <strong>Jason Grimes</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Large Scale NoSQL DB migration under fire <br/> Ido Barkan  </div>
+    Large Scale NoSQL DB migration under fire <br/> <strong>Ido Barkan</strong>  </div>
   <div class = "col-md-2 col-md-offset-9 box">
-    Workshop: Machine Learning without the Hype <br/> Philipp Krenn  </div>
+    Workshop: Machine Learning without the Hype <br/> <strong>Philipp Krenn</strong>  </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -98,13 +98,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Boaz Ziniman - TBD</div>
+    <strong>Avishai Ish Shalom</strong> - TBD</div>
   <div class = "col-md-2 col-md-offset-3 box">
-    Design Patterns for Efficient DevOps Processes <br/> Rebecca Fitzhugh</div>
+    Design Patterns for Efficient DevOps Processes <br/> <strong>Rebecca Fitzhugh</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Hold my beer while I try to DevOps with DICOM, HIPAA and Hospitals <br/> Gil Bahat</div>
+    Hold my beer while I try to DevOps with DICOM, HIPAA and Hospitals <br/> <strong>Gil Bahat</strong></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    Workshop: Machine Learning without the Hype (Continued) <br/> Philipp Krenn  </div>
+    Workshop: Machine Learning without the Hype (Continued) <br/> <strong>Philipp Krenn</strong>  </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -121,13 +121,17 @@ heading = "devopsdays Tel Aviv - Program"
     <time>13:30-14:10</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
+<<<<<<< HEAD
     Dynamic Security Testing with Zap <br/> Omer Levi Hevroni & Yshay Yaacobi</div>
+=======
+    Dynamic Security Testing with Zap <br/> <strong>Omer Levi Hevroni & Yshay Yaacobi</strong></div>
+>>>>>>> upstream/master
   <div class = "col-md-2 col-md-offset-3 box">
-    Distributed Teams: Scaling Operations Around the World <br/> Guido Iaquinti</div>
+    Distributed Teams: Scaling Operations Around the World <br/> <strong>Guido Iaquinti</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Building high scale system using serverless architecture for a burning man event <br/> Daniel Borovsky</div>
+    Building high scale system using serverless architecture for a burning man event <br/> <strong>Daniel Borovsky</strong></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    Workshop: Machine Learning without the Hype (Continued) <br/> Philipp Krenn  </div>
+    Workshop: Machine Learning without the Hype (Continued) <br/> <strong>Philipp Krenn</strong>  </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -141,7 +145,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    Workshop: Machine Learning without the Hype (Continued)/ Philipp Krenn</div>
+    Workshop: Machine Learning without the Hype (Continued 14:10-15:10) <br><strong>Philipp Krenn</strong></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -184,7 +188,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote: Liz Rice
+    Keynote: <strong>Liz Rice</strong> - Where's my code? Securing your code when you don't even know where it's running
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -193,7 +197,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote 2: Corey Quinn
+    Keynote 2: <strong>Rami Goldratt</strong> - Coming up with the next Business Innovation Breakthrough
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -211,13 +215,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Avishai Ish Shalom - TBD</div>
+    <strong>Ben Rockwood</strong> - TBA</div>
   <div class = "col-md-2 col-md-offset-3 box">
-    The Great PagerDuty DevOps Heist Of 2016 <br/> Arup Chakrabarty</div>
+    The Great PagerDuty DevOps Heist Of 2016 <br/> <strong>Arup Chakrabarty</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Monitoring Unknown Unknowns with AI <br/> Guy Fighel</div>
+    Monitoring Unknown Unknowns with AI <br/> <strong>Guy Fighel</strong></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop <br/> Ran Leibman</div>
+    System Calls Deep Dive Workshop <br/> <strong>Ran Leibman</strong></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -225,13 +229,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    TBD</div>
+    “There is no compression algorithm for experience” - innovation at scale <br><strong>Boaz Ziniman</strong></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    A Culture of Automation <br/> Joe Smith</div>
+    A Culture of Automation <br/> <strong>Joe Smith</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    1 cloud, 2 clouds, 3 clouds, tons <br/> Elad Amit</div>
+    1 cloud, 2 clouds, 3 clouds, tons <br/> <strong>Elad Amit</strong></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop (continued) <br/> Ran Leibman</div>
+    System Calls Deep Dive Workshop (Continued) <br/> <strong>Ran Leibman</strong></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -249,16 +253,16 @@ heading = "devopsdays Tel Aviv - Program"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
-    Building reusable Jenkins pipelines / Yoram Michaeli <br/>
-    From Ops to Dev and Back again / Gil Zellner <br/>
-    How our ISP's firewall cost us a full day of the entire R&D / Ariel Assaraf <br/>
-    How to hire a SRE in 10 minutes / Max Timchenko <br/>
+    Building reusable Jenkins pipelines <strong>Yoram Michaeli</strong> <br/>
+    From Ops to Dev and Back again <strong>Gil Zellner</strong> <br/>
+    How our ISP's firewall cost us a full day of the entire R&D <strong>Ariel Assaraf</strong> <br/>
+    How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> <br/>
+    Container Orchestration with Rancher <strong>Lidor Gerstel</strong> <br/>
     TBD <br/>
-    Container Orchestration with Rancher / Lidor Gerstel <br/>
     TBD <br/>
     TBD</div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop (continued) <br/> Ran Leibman</div>
+    System Calls Deep Dive Workshop (Continued) <br/> <strong>Ran Leibman</strong></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -272,7 +276,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop (continued) <br/> Ran Leibman</div>
+    System Calls Deep Dive Workshop (Continued 14:10-15:10) <br/> <strong>Ran Leibman</strong></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -280,7 +284,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>16:00-17:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  Happy hour! sponsored by ZipRecuiter
+  Happy hour Sponsored by ZipRecuiter!
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 2 -->

@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -170,7 +170,7 @@ program:
     date: 2017-11-13
     start_time: "09:30"
     end_time: "10:00"
-  - title: "talk 1"
+  - title: "paula-kennedy"
     type: talk
     date: 2017-11-13
     start_time: "10:00"
@@ -209,7 +209,7 @@ program:
     start_time: "12:40"
     end_time: "14:00"
 
-  - title: "talk 5"
+  - title: "thomas-shaw"
     type: talk
     date: 2017-11-13
     start_time: "14:00"
@@ -278,7 +278,7 @@ program:
     date: 2017-11-14
     start_time: "10:35"
     end_time: "10:45"
-  - title: "cynthia-lopes-do-sacramento"
+  - title: "hybrid-cloud-with-kubernetes-federation"
     type: talk
     date: 2017-11-14
     start_time: "10:50"
@@ -307,10 +307,10 @@ program:
     start_time: "12:40"
     end_time: "14:00"
 
-  - title: "talk 5"
+  - title: "scott-moore"
     type: talk
     date: 2017-11-14
-    start_time: "14:0"
+    start_time: "14:00"
     end_time: "14:30"
   - title: "Ignites"
     type: ignite

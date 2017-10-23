@@ -2,7 +2,7 @@
 Talk_date = "2017-10-26"
 Talk_start_time = "09:50"
 Talk_end_time = "10:20"
-Title = "Continuous Auditing with Compliance as Code"
+Title = "Keynote: Continuous Auditing with Compliance as Code"
 Type = "talk"
 Speakers = ["matt-ray"]
 +++

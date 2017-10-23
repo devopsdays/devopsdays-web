@@ -1,7 +1,7 @@
 +++
 Title = "Jerry Cattell"
 Twitter = ""
-image = ""
+image = "jerry-cattell.jpg"
 type = "speaker"
 linktitle = "jerry-cattell"
 

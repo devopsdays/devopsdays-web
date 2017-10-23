@@ -12,4 +12,4 @@ This talk explores the connection between root access and automation on one hand
  
 Key takeaways are solid arguments that you can use to convince your boss and your peers to take a different approach on root access demonstrating how shared responsibility works for real.
  
-See Root for All - A DevOps Measure? (http://blog.schlomo.schapiro.org/2017/06/root-for-all-devops- measure.html) for more background information.
+See Root for All - A DevOps Measure? (http://blog.schlomo.schapiro.org/2017/06/root-for-all-devops-measure.html) for more background information.

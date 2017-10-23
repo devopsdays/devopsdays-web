@@ -1,7 +1,7 @@
 +++
-Talk_date = "2017-10-26"
-Talk_start_time = "09:50"
-Talk_end_time = "10:20"
+Talk_date = "2017-10-25"
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Infrastructure Agnostic Application Automation"
 Type = "talk"
 Speakers = ["matt-ray"]

@@ -282,7 +282,7 @@ program:
     date: 2017-10-26
     start_time: "16:40"
     end_time: "17:25"
-  - title: "Close Day & Logistics"
+  - title: "Close Day"
     type: custom
     date: 2017-10-26
     start_time: "17:25"
@@ -297,13 +297,9 @@ ignites:
     date: 2017-10-25
   - title: "ignite-david-varvel"
     date: 2017-10-25
-  - title: "ignite-paul-took"
-    date: 2017-10-26
   - title: "ignite-peter-chestna"
-    date: 2017-10-26
+    date: 2017-10-25
   - title: "ignite-jaap-brasser"
-    date: 2017-10-26
-  - title: "ignite-dan-weidong-liang"
     date: 2017-10-26
   - title: "ignite-antonio-cocera"
     date: 2017-10-26

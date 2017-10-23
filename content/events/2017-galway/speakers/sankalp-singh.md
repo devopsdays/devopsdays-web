@@ -1,6 +1,6 @@
 +++
 Title = "Sankalp Singh"
-Twitter = ""
+Twitter = "SSankalp1"
 image = ""
 type = "speaker"
 linktitle = "sankalp-singh"
@@ -8,3 +8,5 @@ linktitle = "sankalp-singh"
 +++
 
 
+<p>Senior SRE at Go-Jek India.<p>
+<p>Organiser of DevOpsDay India.<p>
