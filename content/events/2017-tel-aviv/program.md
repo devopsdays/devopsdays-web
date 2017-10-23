@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <strong>Avishai Ish Shalom</strong> - TBD</div>
+    Data, you keep using that word <br><strong>Avishai Ish Shalom</strong></div>
   <div class = "col-md-2 col-md-offset-3 box">
     Design Patterns for Efficient DevOps Processes <br/> <strong>Rebecca Fitzhugh</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -211,7 +211,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <strong>Boaz Ziniman</strong> - TBD</div>
+    <strong>Ben Rockwood</strong> - TBA</div>
   <div class = "col-md-2 col-md-offset-3 box">
     The Great PagerDuty DevOps Heist Of 2016 <br/> <strong>Arup Chakrabarty</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -225,7 +225,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    TBD</div>
+    “There is no compression algorithm for experience” - innovation at scale <br><strong>Boaz Ziniman</strong></div>
   <div class = "col-md-2 col-md-offset-3 box">
     A Culture of Automation <br/> <strong>Joe Smith</strong></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -252,7 +252,7 @@ heading = "devopsdays Tel Aviv - Program"
     Building reusable Jenkins pipelines <strong>Yoram Michaeli</strong> <br/>
     From Ops to Dev and Back again <strong>Gil Zellner</strong> <br/>
     How our ISP's firewall cost us a full day of the entire R&D <strong>Ariel Assaraf</strong> <br/>
-    How to hire a SRE in 10 minutes <strong>Max Timchenko</strong> <br/>
+    How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> <br/>
     Container Orchestration with Rancher <strong>Lidor Gerstel</strong> <br/>
     TBD <br/>
     TBD <br/>
@@ -280,7 +280,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>16:00-17:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  Happy hour! sponsored by ZipRecuiter
+  Happy hour Sponsored by ZipRecuiter!
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 2 -->

@@ -1,6 +1,6 @@
 +++
 Title = "Sebastien Goasguen"
-#Twitter = ""
+Twitter = "sebgoa"
 image = "sebastien-goasguen.jpg"
 type = "speaker"
 linktitle = "sebastien-goasguen"

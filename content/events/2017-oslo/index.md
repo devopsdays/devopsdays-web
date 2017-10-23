@@ -70,7 +70,7 @@ Description = "devopsdays Oslo 2017"
     <strong>Conference hotel</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.thonhotels.com/event/devopsdays2017/">Thon Hotel Oslo Panorama</a>
+    <a href="https://www.thonhotels.no/hoteller/norge/oslo/thon-hotel-oslo-panorama">Thon Hotel Oslo Panorama</a> offer discounted rates for attendees and is just a two minute walk from the conference. Although our discount code is expired, you will still get the discount by booking per e-mail to panorama.booking@olavthon.no and referring to the DevOpsDays conference.
   </div>
 </div>
 
