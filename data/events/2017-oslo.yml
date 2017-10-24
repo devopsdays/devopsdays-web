@@ -142,6 +142,12 @@ sponsors:
     level: gold
   - id: intility
     level: platinum
+  - id: redhat
+    level: community
+  - id: redhat
+    level: lunch
+  - id: fastly
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -152,8 +158,24 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 8
   - id: community
     label: Community
-  - id: exclusive
-    label: Exclusive
+  - id: lunch
+    label: Lunch
+    max: 1
+  - id: party
+    label: Party
+    max: 1
+  - id: beer
+    label: Beer
+    max: 10
+  - id: dinner
+    label: Dinner
+    max: 1
+  - id: breakfast
+    label: Breakfast
+    max: 1
+  - id: wifi
+    label: Wifi
+    max: 1
 
 sponsors_accepted : "yes"
 
