@@ -1,7 +1,7 @@
 +++
 Title = "Alan Duggan"
 Twitter = ""
-image = ""
+image = "alan-duggan.jpg"
 type = "speaker"
 linktitle = "alan-duggan"
 

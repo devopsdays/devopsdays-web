@@ -1,7 +1,8 @@
 +++
 Title = "Mark Walsh"
 Twitter = ""
-image = ""
+linkedin = "http://www.linkedin.com/in/markowalsh"
+image = "mark-walsh.jpg"
 type = "speaker"
 linktitle = "mark-walsh"
 
