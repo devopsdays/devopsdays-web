@@ -1,7 +1,8 @@
 +++
 Title = "Praveen Kumar"
-Twitter = ""
-image = ""
+Twitter = "_praveenshukla"
+linkedin = "http://www.linkedin.com/in/praveen-shukla-66b52b76"
+image = "praveen-shukla.png"
 type = "speaker"
 linktitle = "praveen-kumar"
 

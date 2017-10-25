@@ -1,7 +1,8 @@
 +++
 Title = "Sankalp Singh"
 Twitter = "SSankalp1"
-image = ""
+linkedin = "https://www.linkedin.com/in/singhsankalp/"
+image = "sankalp-singh.png"
 type = "speaker"
 linktitle = "sankalp-singh"
 
