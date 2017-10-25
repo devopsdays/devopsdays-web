@@ -199,7 +199,7 @@ program:
     start_time: "17:25"
     end_time: "17:30"
   - title: "Evening event"
-    comments: "TBA"
+    comments: "Screening Room, 12 Ann Siang Rd #03-00, Singapore ([map](/events/2017-singapore/location/#after-party))"
     type: custom
     date: 2017-10-25
     start_time: "17:30"
