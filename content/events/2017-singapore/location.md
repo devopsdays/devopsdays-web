@@ -5,7 +5,7 @@ Description = "Location for DevOpsDays Singapore 2017"
 +++
 <address>
 Microsoft Operations Offices<br>
-#22-01, 1 Marina Blvd, Singapore 018989<br>
+#21-01, 1 Marina Blvd, Singapore 018989<br>
 Floor: 21
 </address>
 
