@@ -96,6 +96,8 @@ sponsors:
     level: gold
   - id: contrast_security
     level: silver
+  - id: columntech
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
