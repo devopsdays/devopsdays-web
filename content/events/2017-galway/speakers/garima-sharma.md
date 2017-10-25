@@ -1,7 +1,7 @@
 +++
 Title = "Garima Sharma"
-Twitter = ""
-image = ""
+Twitter = "gariimash"
+image = "garima-sharma.jpg"
 type = "speaker"
 linktitle = "garima-sharma"
 

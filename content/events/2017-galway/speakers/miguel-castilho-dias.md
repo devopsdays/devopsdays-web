@@ -1,7 +1,7 @@
 +++
 Title = "Miguel Castilho Dias"
 Twitter = ""
-image = ""
+image = "miguel-castilho-dias.jpg"
 type = "speaker"
 linktitle = "miguel-castilho-dias"
 
