@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Jason Grimes"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "jason-grimes.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "jason-grimes"
 +++
 
 BIO

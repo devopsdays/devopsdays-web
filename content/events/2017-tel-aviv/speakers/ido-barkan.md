@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Ido Barkan"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "ido-barkan.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "ido-barkan"
 +++
 
 BIO
