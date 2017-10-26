@@ -135,7 +135,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>14:10-16:00</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    OpenSpaces</div>
+    <a href="/pages/open-space-format">Openspaces</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
      </div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -266,7 +266,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>14:10-16:00</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    OpenSpaces</div>
+    <a href="/pages/open-space-format">Openspaces</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
      </div>
   <div class = "col-md-2 col-md-offset-6 box">
