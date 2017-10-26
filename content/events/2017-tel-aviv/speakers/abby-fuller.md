@@ -1,7 +1,7 @@
 +++
-Title = "Creating effective container images "
+Title = "Abby Fuller"
 Twitter = "abbyfuller"
-image = "abby-fuller.jpg"
+image = "abby-fuller.png"
 type = "speaker"
 linktitle = "abby-fuller"
 +++
