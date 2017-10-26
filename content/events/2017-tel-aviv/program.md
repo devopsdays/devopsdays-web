@@ -57,7 +57,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote: <strong>Sebastien Goasguen</strong> - How can we survive continuous innovation?
+    <a href="/events/2017-tel-aviv/program/sebastien-goasguen">Keynote: <strong>Sebastien Goasguen</strong> - How can we survive continuous innovation?</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -66,7 +66,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote 2: <strong>Corey Quinn</strong>
+    <a href="/events/2017-tel-aviv/program/corey-quinn">Keynote 2: <strong>Corey Quinn</strong></a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -84,13 +84,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Creating effective container images <br/> <strong>Abby Fuller</strong></div>
+    <a href="/events/2017-tel-aviv/program/abby-fuller">Creating effective container images <br/> <strong>Abby Fuller</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    Concur’s Digital Transformation from Monolith to Microservices; DevOps IRL <br/> <strong>Jason Grimes</strong></div>
+    <a href="/events/2017-tel-aviv/program/jason-grimes">Concur’s Digital Transformation from Monolith to Microservices; DevOps IRL <br/> <strong>Jason Grimes</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Large Scale NoSQL DB migration under fire <br/> <strong>Ido Barkan</strong>  </div>
+    <a href="/events/2017-tel-aviv/program/ido-barkan">Large Scale NoSQL DB migration under fire <br/> <strong>Ido Barkan</strong>  </a></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    Workshop: Machine Learning without the Hype <br/> <strong>Philipp Krenn</strong>  </div>
+    <a href="/events/2017-tel-aviv/program/phillip-krenn">Workshop: Machine Learning without the Hype <br/> <strong>Philipp Krenn</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -98,13 +98,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Data, you keep using that word <br><strong>Avishai Ish Shalom</strong></div>
+    <a href="/events/2017-tel-aviv/program/avishai-ish-shalom">Data, you keep using that word <br><strong>Avishai Ish Shalom</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    Design Patterns for Efficient DevOps Processes <br/> <strong>Rebecca Fitzhugh</strong></div>
+    <a href="/events/2017-tel-aviv/program/rebecca-fitzhugh">Design Patterns for Efficient DevOps Processes <br/> <strong>Rebecca Fitzhugh</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Hold my beer while I try to DevOps with DICOM, HIPAA and Hospitals <br/> <strong>Gil Bahat</strong></div>
+    <a href="/events/2017-tel-aviv/program/gil-bahat">Hold my beer while I try to DevOps with DICOM, HIPAA and Hospitals <br/> <strong>Gil Bahat</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    Workshop: Machine Learning without the Hype (Continued) <br/> <strong>Philipp Krenn</strong>  </div>
+    <a href="/events/2017-tel-aviv/program/phillip-krenn">Workshop: Machine Learning without the Hype (continued) <br/> <strong>Philipp Krenn</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -121,13 +121,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>13:30-14:10</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    Dynamic Security Testing with Zap <br/> <strong>Omer Levi Hevroni & Yshay Yaacobi</strong></div>
+    <a href="/events/2017-tel-aviv/program/yshay-yaacobi">Dynamic Security Testing with Zap <br/> <strong>Omer Levi Hevroni & Yshay Yaacobi</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    Distributed Teams: Scaling Operations Around the World <br/> <strong>Guido Iaquinti</strong></div>
+    <a href="/events/2017-tel-aviv/program/guido-laquinti">Distributed Teams: Scaling Operations Around the World <br/> <strong>Guido Iaquinti</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Building high scale system using serverless architecture for a burning man event <br/> <strong>Daniel Borovsky</strong></div>
+    <a href="/events/2017-tel-aviv/program/daniel-borovsky">Building high scale system using serverless architecture for a burning man event <br/> <strong>Daniel Borovsky</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    Workshop: Machine Learning without the Hype (Continued) <br/> <strong>Philipp Krenn</strong>  </div>
+    <a href="/events/2017-tel-aviv/program/phillip-krenn">Workshop: Machine Learning without the Hype (continued) <br/> <strong>Philipp Krenn</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -141,7 +141,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    Workshop: Machine Learning without the Hype (Continued 14:10-15:10) <br><strong>Philipp Krenn</strong></div>
+    <a href="/events/2017-tel-aviv/program/phillip-krenn">Workshop: Machine Learning without the Hype (continued) <br/> <strong>Philipp Krenn</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
