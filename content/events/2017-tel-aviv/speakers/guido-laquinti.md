@@ -1,7 +1,7 @@
 +++
 Title = "Guido Iaquinti"
 Twitter = "guidoiaquinti"
-image = "guido-laquinti.jpg"
+image = "guido-lanquinti.jpg"
 type = "speaker"
 linktitle = "guido-laquinti"
 +++
