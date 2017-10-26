@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
-Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+Title = "Ben Rockwood"
+Twitter = "benr"
+image = "ben-rockwood.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "ben-rockwood"
 +++
 
 BIO
