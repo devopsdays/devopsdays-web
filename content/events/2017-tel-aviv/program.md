@@ -184,7 +184,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote: <strong>Liz Rice</strong> - Where's my code? Securing your code when you don't even know where it's running
+    <a href="/events/2017-tel-aviv/program/liz-rice">Keynote: <strong>Liz Rice</strong> - Where's my code? Securing your code when you don't even know where it's running</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -193,7 +193,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Keynote 2: <strong>Rami Goldratt</strong> - Coming up with the next Business Innovation Breakthrough
+    <a href="/events/2017-tel-aviv/program/rami-goldratt">Keynote 2: <strong>Rami Goldratt</strong> - Coming up with the next Business Innovation Breakthrough</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -211,13 +211,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <strong>Ben Rockwood</strong> - TBA</div>
+    <a href="/events/2017-tel-aviv/program/ben-rockwood"><strong>Ben Rockwood</strong> - TBA</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    The Great PagerDuty DevOps Heist Of 2016 <br/> <strong>Arup Chakrabarty</strong></div>
+    <a href="/events/2017-tel-aviv/program/arup-chakrabaty">The Great PagerDuty DevOps Heist Of 2016 <br/> <strong>Arup Chakrabarty</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    Monitoring Unknown Unknowns with AI <br/> <strong>Guy Fighel</strong></div>
+    <a href="/events/2017-tel-aviv/program/guy-fighel">Monitoring Unknown Unknowns with AI <br/> <strong>Guy Fighel</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop <br/> <strong>Ran Leibman</strong></div>
+    <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -225,13 +225,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    “There is no compression algorithm for experience” - innovation at scale <br><strong>Boaz Ziniman</strong></div>
+    <a href="/events/2017-tel-aviv/program/boaz-ziniman">“There is no compression algorithm for experience” - innovation at scale <br><strong>Boaz Ziniman</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    A Culture of Automation <br/> <strong>Joe Smith</strong></div>
+    <a href="/events/2017-tel-aviv/program/joe-smith">A Culture of Automation <br/> <strong>Joe Smith</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    1 cloud, 2 clouds, 3 clouds, tons <br/> <strong>Elad Amit</strong></div>
+    <a href="/events/2017-tel-aviv/program/elad-amit">1 cloud, 2 clouds, 3 clouds, tons <br/> <strong>Elad Amit</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop (Continued) <br/> <strong>Ran Leibman</strong></div>
+    <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -250,6 +250,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
     Building reusable Jenkins pipelines <strong>Yoram Michaeli</strong> <br/>
+    Building reusable Jenkins pipelines <strong>Yoram Michaeli</strong> <br/>
     From Ops to Dev and Back again <strong>Gil Zellner</strong> <br/>
     How our ISP's firewall cost us a full day of the entire R&D <strong>Ariel Assaraf</strong> <br/>
     How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> <br/>
@@ -258,7 +259,7 @@ heading = "devopsdays Tel Aviv - Program"
     TBD <br/>
     TBD</div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop (Continued) <br/> <strong>Ran Leibman</strong></div>
+    <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -272,7 +273,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    System Calls Deep Dive Workshop (Continued 14:10-15:10) <br/> <strong>Ran Leibman</strong></div>
+    <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
