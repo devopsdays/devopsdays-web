@@ -170,7 +170,7 @@ program:
   - title: "grant-finnemore"
     type: workshop
     date: 2017-11-06
-    start_time: "15:0A0"
+    start_time: "15:00"
     end_time: "15:45"
   - title: "Open Space #3"
     type: open-space
