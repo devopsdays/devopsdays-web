@@ -75,7 +75,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Coffee Time sponsored by Automic!
+    <a href="http://automic.com">Coffee Time sponsored by Automic!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -112,7 +112,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>12:20-13:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Lunch Sponsored by Twistlock!
+    <a href="https://www.twistlock.com/">Lunch Sponsored by Twistlock!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -149,7 +149,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>16:00-17:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  Happy hour Sponsored by Microsoft!
+    <a href="http://www.microsoft.com/">Happy hour Sponsored by Microsoft!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 1 -->
@@ -202,7 +202,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Coffee Time sponsored by Automic!
+    <a href="http://automic.com">Coffee Time sponsored by Automic!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -239,7 +239,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>12:20-13:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Lunch Sponsored by Twistlock!
+    <a href="https://www.twistlock.com/">Lunch Sponsored by Twistlock!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -280,7 +280,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>16:00-17:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-  Happy hour Sponsored by ZipRecuiter!
+    <a href="http://www.ziprecruiter.com/">Happy hour Sponsored by ZipRecuiter!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 2 -->
