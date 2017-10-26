@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Yoram Michaeli"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "yoram-michaeli.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "yoram-michaeli"
 +++
 
 BIO

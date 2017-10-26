@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Ran Leibman"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "ran-leibman.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "ran-leibman"
 +++
 
 BIO

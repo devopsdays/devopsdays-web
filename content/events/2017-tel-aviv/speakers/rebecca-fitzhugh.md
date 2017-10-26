@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Rebecca Fitzhugh"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "rebecca-fitzhugh.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "rebecca-fitzhugh"
 +++
 
 BIO

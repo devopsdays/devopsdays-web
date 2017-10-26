@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Lidor Gerstel"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "lidor-gerstel.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "lidor-gerstel"
 +++
 
 BIO

@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Yshay Yaacobi"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "yshay-yaacobi.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "yshay-yaacobi"
 +++
 
 BIO

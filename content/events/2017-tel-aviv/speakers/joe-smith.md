@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Joe Smith"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "joe-smith.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "joe-smith"
 +++
 
 BIO

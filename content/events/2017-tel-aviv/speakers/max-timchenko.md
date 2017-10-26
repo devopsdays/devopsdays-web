@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
+Title = "Max Timchenko"
 Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+image = "max-timchenko.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "max-timchenko"
 +++
 
 BIO
