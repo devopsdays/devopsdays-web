@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "How to hire a SRE in 5 minutes"
-Type = "ignite"
+Type = "talk"
 Speakers = ["max-timchenko"]
 +++
 

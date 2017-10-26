@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "From Ops to Dev and Back Again"
-Type = "ignite"
+Type = "talk"
 Speakers = ["gil-zellner"]
 +++
 
