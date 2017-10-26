@@ -1,6 +1,6 @@
 +++
 Title = "Joe Smith"
-Twitter = "TWITTERHANDLE"
+Twitter = "Yasumoto"
 image = "joe-smith.jpg"
 type = "speaker"
 linktitle = "joe-smith"
