@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Borovsky"
 #Twitter = "TWITTERHANDLE"
-image = "daniel-borovski.jpg"
+image = "daniel-borovsky.jpg"
 type = "speaker"
 linktitle = "daniel-borovski"
 +++

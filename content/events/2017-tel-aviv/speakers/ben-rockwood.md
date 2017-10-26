@@ -1,7 +1,7 @@
 +++
 Title = "Ben Rockwood"
 Twitter = "benr"
-image = "ben-rockwood.jpg"
+image = "ben-rockwood.jpeg"
 type = "speaker"
 linktitle = "ben-rockwood"
 +++
