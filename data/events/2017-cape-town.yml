@@ -162,6 +162,11 @@ program:
     date: 2017-11-06
     start_time: "14:00"
     end_time: "14:45"
+  - title: "grant-finnemore"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
     date: 2017-11-06
