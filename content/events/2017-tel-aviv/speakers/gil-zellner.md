@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
-Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+Title = "Gil Zellner"
+Twitter = "Heathenaspargus"
+image = "gil-zellner.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "gil-zellner"
 +++
 
-BIO
+Look morty I made myself into a conference talk!
