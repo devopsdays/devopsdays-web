@@ -1,9 +1,9 @@
 +++
-Title = "SPEAKER"
-Twitter = "TWITTERHANDLE"
-image = "SPEAKER.jpg"
+Title = "Arup Chakrabaty"
+Twitter = "arupchak"
+image = "arup-chakrabaty.jpg"
 type = "speaker"
-linktitle = "NAMEOFSPEAKER"
+linktitle = "arup-chakrabaty"
 +++
 
-BIO
+Currently working @pagerduty. I enjoy building things and taking them apart.
