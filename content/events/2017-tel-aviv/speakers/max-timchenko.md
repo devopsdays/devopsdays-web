@@ -1,6 +1,6 @@
 +++
 Title = "Max Timchenko"
-Twitter = "TWITTERHANDLE"
+Twitter = "maxvt"
 image = "max-timchenko.jpg"
 type = "speaker"
 linktitle = "max-timchenko"
