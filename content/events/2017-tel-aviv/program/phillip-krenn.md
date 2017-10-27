@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Machine Learning without the Hype"
-Type = "workshop"
+Type = "talk"
 Speakers = ["phillip-krenn"]
 +++
 
