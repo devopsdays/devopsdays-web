@@ -1,5 +1,5 @@
 +++
-alk_date = "2017-11-02"
+Talk_date = "2017-11-02"
 Talk_start_time = "10:40"
 Talk_end_time = "11:10"
 Title = "What is a technical team lead?"
