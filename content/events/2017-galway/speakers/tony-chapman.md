@@ -1,7 +1,9 @@
 +++
 Title = "Tony Chapman"
-Twitter = ""
-image = ""
+Twitter = "linuxrecruit"
+linkedin = "https://www.linkedin.com/in/tonychapmanlinux/"
+website = "http://linuxrecruit.co.uk/blog/"
+image = "tony-chapman.png"
 type = "speaker"
 linktitle = "tony-chapman"
 

@@ -57,9 +57,6 @@ team_members: # Name is the only required field for team members.
   - name: "Sergiu Bodiu"
     twitter: "sergiu_bodiu"
     employer: ""
-  - name: "Sriram Narayanan"
-    twitter: "sriramnrn"
-    employer: ""
   - name: "Stefan Streichsbier"
     twitter: "s_streichsbier"
     employer: ""
@@ -202,7 +199,7 @@ program:
     start_time: "17:25"
     end_time: "17:30"
   - title: "Evening event"
-    comments: "TBA"
+    comments: "Screening Room, 12 Ann Siang Rd #03-00, Singapore ([map](/events/2017-singapore/location/#after-party))"
     type: custom
     date: 2017-10-25
     start_time: "17:30"
@@ -293,8 +290,6 @@ ignites:
     date: 2017-10-25
   - title: "ignite-rob-sewell"
     date: 2017-10-25
-  - title: "ignite-jamie-donoghue"
-    date: 2017-10-25
   - title: "ignite-david-varvel"
     date: 2017-10-25
   - title: "ignite-peter-chestna"
@@ -302,4 +297,10 @@ ignites:
   - title: "ignite-jaap-brasser"
     date: 2017-10-26
   - title: "ignite-antonio-cocera"
+    date: 2017-10-26
+  - title: "ignite-jamie-donoghue"
+    date: 2017-10-26
+  - title: "ignite-faisal-ramay"
+    date: 2017-10-26
+  - title: "ignite-pradeep-buditi"
     date: 2017-10-26

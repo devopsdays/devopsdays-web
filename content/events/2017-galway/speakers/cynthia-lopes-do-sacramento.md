@@ -1,7 +1,7 @@
 +++
 Title = "Cynthia Lopes do Sacramento"
 Twitter = ""
-image = ""
+image = "cynthia-lopes-do-sacramento.jpg"
 type = "speaker"
 linktitle = "cynthia-lopes-do-sacramento"
 

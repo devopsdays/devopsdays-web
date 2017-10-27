@@ -1,7 +1,7 @@
 +++
 Title = "Mary Newell"
 Twitter = ""
-image = ""
+image = "mary-newell.png"
 type = "speaker"
 linktitle = "mary-newell"
 
