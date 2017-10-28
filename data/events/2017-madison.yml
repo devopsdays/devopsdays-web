@@ -98,6 +98,10 @@ sponsors:
     level: silver
   - id: columntech
     level: gold
+  - id: splunk
+    level: silver
+  - id: target
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
