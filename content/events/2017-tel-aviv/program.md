@@ -211,7 +211,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2017-tel-aviv/program/ben-rockwood"><strong>Ben Rockwood</strong> - TBA</a></div>
+    <a href="/events/2017-tel-aviv/program/ben-rockwood">Leading DevOps Teams: Hire, Grow, and Manage <br><strong>Ben Rockwood</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2017-tel-aviv/program/arup-chakrabaty">The Great PagerDuty DevOps Heist Of 2016 <br/> <strong>Arup Chakrabarty</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -225,7 +225,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2017-tel-aviv/program/boaz-ziniman">“There is no compression algorithm for experience” - innovation at scale <br><strong>Boaz Ziniman</strong></a></div>
+    <a href="/events/2017-tel-aviv/program/boaz-ziniman">There is no compression algorithm for experience - innovation at scale <br><strong>Boaz Ziniman</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2017-tel-aviv/program/joe-smith">A Culture of Automation <br/> <strong>Joe Smith</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -255,9 +255,7 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2017-tel-aviv/program/max-timchenko">How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/lidor-gerstel">Container Orchestration with Rancher <strong>Lidor Gerstel</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/corey-quinn">Death of an Enterprise Software Salesman <strong>Corey Quinn</strong> </a><br/>
-    TBD <br/>
-    TBD <br/>
-    TBD</div>
+    </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
