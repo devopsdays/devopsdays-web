@@ -182,7 +182,7 @@ program:
     date: 2017-11-06
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Evening Event"
+  - title: "Evening Event at Woodstock Lounge"
     type: custom
     date: 2017-11-06
     start_time: "18:00"
