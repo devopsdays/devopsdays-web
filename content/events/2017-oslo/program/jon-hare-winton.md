@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-11-01"
-Talk_start_time = "11:15"
-Talk_end_time = "11:45"
+Talk_start_time = "11:30"
+Talk_end_time = "12:05"
 Title = "Synthetic Monitoring: accurate alerting through simulated usage"
 Type = "talk"
 Speakers = ["jon-hare-winton"]

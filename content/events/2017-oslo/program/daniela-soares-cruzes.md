@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-11-01"
-Talk_start_time = "10:00"
-Talk_end_time = "10:30"
+Talk_start_time = "10:10"
+Talk_end_time = "10:40"
 Title = "DevOps vs Agile Testing: What is new? What is challenging? Experiences from Norwegian Software Companies"
 Type = "talk"
 Speakers = ["daniela-soares-cruzes"]
