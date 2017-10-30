@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Dynamic Security Testing with Zap"
 Type = "talk"
-Speakers = ["omer-levi-hevroni", "yshay-yaacobi"]
+Speakers = ["yshay-yaacobi","omri-lev-hevroni"]
 +++
 
 Running security tests as a part of your CI pipeline allows you to provide better and more relevant feedback to developers as quickly as possible (also known as the “Shift Left paradigm”/”DevSecOps” methodology).
