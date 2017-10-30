@@ -75,12 +75,9 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 3
-  - id: silver
-    label: Silver
-    max: 3
   - id: basic
     label: Basic
-    max: 3
+    max: 1
 #  - id: eventdinner
 #    label: "Event dinner"
 #    max: 1
@@ -182,7 +179,7 @@ program:
     date: 2017-11-06
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Evening Event"
+  - title: "Evening Event at Woodstock Lounge"
     type: custom
     date: 2017-11-06
     start_time: "18:00"
@@ -267,7 +264,7 @@ program:
 ignites:
   - title: "reuben-honigwachs"
     date: 2017-11-06
-  - title: "whitney-tennant"
-    date: 2017-11-06
   - title: "storm-joubert"
     date: 2017-11-06
+  - title: "whitney-tennant"
+    date: 2017-11-07
