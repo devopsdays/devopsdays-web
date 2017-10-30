@@ -1,5 +1,5 @@
 +++
-Talk_date = "2017-11-01"
+Talk_date = "2017-11-02"
 Talk_start_time = "12:05"
 Talk_end_time = "12:25"
 Title = "Ignite: \"Dynamic configuration in service deployments\""
