@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-11-02"
-Talk_start_time = "10:40"
-Talk_end_time = "11:10"
+Talk_start_time = "10:55"
+Talk_end_time = "11:30"
 Title = "What is a technical team lead?"
 Type = "talk"
 Speakers = ["ramez-hanna"]
