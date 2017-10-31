@@ -1,5 +1,5 @@
 +++
-Title = "Yshay Yaacobi"
+Title = "Omer Levi Hevroni"
 Twitter = "omerlh"
 image = "omer-levi-hevroni.jpg"
 type = "speaker"
