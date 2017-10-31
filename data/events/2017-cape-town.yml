@@ -130,11 +130,11 @@ program:
     type: custom
     date: 2017-11-06
     start_time: "10:30"
-    end_time: "11:45"
+    end_time: "10:45"
   - title: "jaco-greyling"
     type: talk
     date: 2017-11-06
-    start_time: "11:45"
+    start_time: "10:45"
     end_time: "11:20"
   - title: "TBD"
     type: custom
@@ -211,7 +211,7 @@ program:
     type: custom
     date: 2017-11-07
     start_time: "10:30"
-    end_time: "11:45"
+    end_time: "10:45"
   - title: "rahul-mahale"
     type: talk
     date: 2017-11-07
