@@ -254,6 +254,7 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2017-tel-aviv/program/ariel-assaraf">How our ISP's firewall cost us a full day of the entire R&D <strong>Ariel Assaraf</strong></a><br/>
     <a href="/events/2017-tel-aviv/program/max-timchenko">How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/lidor-gerstel">Container Orchestration with Rancher <strong>Lidor Gerstel</strong> </a><br/>
+    <a href="/events/2017-tel-aviv/program/keren-barzelai">Fake it till you make it <strong>Keren Barzelai</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/corey-quinn">Death of an Enterprise Software Salesman <strong>Corey Quinn</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
