@@ -33,9 +33,13 @@ Description = "devopsdays Oslo 2017"
 
 <hr>
 
-<h2>Sponsorships</h2>
-{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-
+<h2>Feedback</h2>
+Your feedback is highly appreciated! We have created two online forms for you:
+<ul>
+  <li>Use this form to <a href="https://goo.gl/forms/t6CxV2UQARXwqMNy2">share your thoughts on the conference in general</a></li>
+  <li>...and this one to <a href="https://goo.gl/forms/KYxJ16vXU7tyY6NH2">give feedback on speakers and talks</a></li>
+</ul>
+If you prefer using pen and paper, we have a good old mailbox for that at the venue.
 <hr>
 
 <div class = "row">
