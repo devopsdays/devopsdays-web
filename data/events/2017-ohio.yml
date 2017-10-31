@@ -15,7 +15,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: conduct
   - name: sponsor
-  - name: location
+  - name: "location/parking"
+    url: "/events/2017-ohio/location"
   - name: register
     url: "https://devopsdaysohio2017.eventbrite.com/"
 

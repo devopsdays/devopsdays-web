@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-11-01"
-Talk_start_time = "11:50"
-Talk_end_time = "12:10"
+Talk_start_time = "12:05"
+Talk_end_time = "12:25"
 Title = "Ignite: \"What if you could run all of AWS on your laptop?\""
 Type = "talk"
 Speakers = ["jack-danger"]

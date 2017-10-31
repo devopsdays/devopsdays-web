@@ -191,46 +191,46 @@ program:
     type: custom
     date: 2017-11-01
     start_time: "09:20"
-    end_time: "09:25"
+    end_time: "09:30"
   - title: "mike-long"
     type: talk
     date: 2017-11-01
-    start_time: "09:25"
-    end_time: "09:55"
+    start_time: "09:30"
+    end_time: "10:00"
   - title: "A word from our sponsors"
     type: custom
     date: 2017-11-01
-    start_time: "09:55"
-    end_time: "10:00"
+    start_time: "10:00"
+    end_time: "10:10"
   - title: "daniela-soares-cruzes"
     type: talk
     date: 2017-11-01
-    start_time: "10:00"
-    end_time: "10:30"
+    start_time: "10:10"
+    end_time: "10:40"
   - title: "Break"
     type: custom
     date: 2017-11-01
-    start_time: "10:30"
-    end_time: "10:40"
+    start_time: "10:40"
+    end_time: "10:55"
   - title: "stein-inge-morisbak"
     type: talk
     date: 2017-11-01
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:55"
+    end_time: "11:30"
   - title: "jon-hare-winton"
     type: talk
     date: 2017-11-01
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:30"
+    end_time: "12:05"
   - title: "Ignites"
     type: custom
     date: 2017-11-01
-    start_time: "11:50"
-    end_time: "12:10"
+    start_time: "12:05"
+    end_time: "12:25"
   - title: "Lunch"
     type: custom
     date: 2017-11-01
-    start_time: "12:10"
+    start_time: "12:25"
     end_time: "13:30"
   - title: "Open Space Opening"
     type: custom
@@ -242,90 +242,95 @@ program:
     date: 2017-11-01
     start_time: "14:30"
     end_time: "15:10"
-  - title: "Break"
-    type: custom
-    date: 2017-11-01
-    start_time: "15:10"
-    end_time: "15:20"
   - title: "Open Space breakout discussions #2"
     type: custom
     date: 2017-11-01
-    start_time: "15:20"
+    start_time: "15:10"
+    end_time: "15:50"
+  - title: "Break"
+    type: custom
+    date: 2017-11-01
+    start_time: "15:50"
     end_time: "16:00"
   - title: "Open Space breakout discussions #3"
     type: custom
     date: 2017-11-01
     start_time: "16:00"
     end_time: "16:40"
+  - title: "Fun and drink"
+    type: custom
+    date: 2017-11-01
+    start_time: "16:40"
+    end_time: "17:10"
   - title: "Dinner and Evening event (at the same location as the conference)"
     type: custom
     date: 2017-11-01
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "late"
   - title: "Registration, breakfast, and sponsor booths open"
     type: custom
     date: 2017-11-02
     start_time: "08:30"
-    end_time: "09:20"
+    end_time: "09:25"
   - title: "Opening Welcome"
     type: custom
     date: 2017-11-02
-    start_time: "09:20"
-    end_time: "09:25"
+    start_time: "09:25"
+    end_time: "09:30"
   - title: "hannah-foxwell"
     type: talk
     date: 2017-11-02
-    start_time: "09:25"
-    end_time: "09:55"
+    start_time: "09:30"
+    end_time: "10:00"
   - title: "A word from our sponsors"
     type: custom
     date: 2017-11-02
-    start_time: "09:55"
-    end_time: "10:00"
+    start_time: "10:00"
+    end_time: "10:10"
   - title: "trond-arve-wasskog"
     type: talk
     date: 2017-11-02
-    start_time: "10:00"
-    end_time: "10:30"
+    start_time: "10:10"
+    end_time: "10:40"
   - title: "Break"
     type: custom
     date: 2017-11-02
-    start_time: "10:30"
-    end_time: "10:40"
+    start_time: "10:40"
+    end_time: "10:55"
   - title: "ramez-hanna"
     type: talk
     date: 2017-11-02
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:55"
+    end_time: "11:30"
   - title: "jessica-brown"
     type: talk
     date: 2017-11-02
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:30"
+    end_time: "12:05"
   - title: "Ignites"
     type: custom
     date: 2017-11-02
-    start_time: "11:50"
-    end_time: "12:10"
+    start_time: "12:05"
+    end_time: "12:25"
   - title: "Lunch"
     type: custom
     date: 2017-11-02
-    start_time: "12:10"
+    start_time: "12:25"
     end_time: "13:30"
   - title: "Open Space Opening"
     type: custom
     date: 2017-11-02
     start_time: "13:30"
-    end_time: "14:30"
-  - title: "Open Space breakout discussions"
+    end_time: "14:00"
+  - title: "Open Space breakout discussions #1"
     type: custom
     date: 2017-11-02
-    start_time: "14:30"
-    end_time: "15:20"
-  - title: "Break"
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space breakout discussions #2"
     type: custom
     date: 2017-11-02
-    start_time: "15:20"
+    start_time: "14:45"
     end_time: "15:30"
   - title: "mark-burgess"
     type: talk

@@ -1,7 +1,7 @@
 +++
 Talk_date = "2017-11-02"
-Talk_start_time = "10:00"
-Talk_end_time = "10:30"
+Talk_start_time = "10:10"
+Talk_end_time = "10:40"
 Title = "Tis not agile!!"
 Type = "talk"
 Speakers = ["trond-arve-wasskog"]

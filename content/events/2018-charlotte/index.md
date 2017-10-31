@@ -18,32 +18,32 @@ Description = "devopsdays Charlotte 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -82,6 +82,5 @@ Description = "devopsdays Charlotte 2018"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
