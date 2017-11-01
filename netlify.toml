@@ -7,7 +7,7 @@
  publish = "dist/"
  
 [context.production.environment]
-   HUGO_VERSION = "0.23"
+   HUGO_VERSION = "0.30.2"
 
 # Deploy Preview context: All Deploy Previews
 # will inherit these settings.
