@@ -9,7 +9,8 @@ Description = "devopsdays Oslo 2017"
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<h1><a href="https://youtu.be/K72X8_KQeys">Live streaming</a></h1>
+<h1><a href="https://youtu.be/wLKBI2S2pFM">Live stream for Thursday Nov 2nd</a></h1>
+<h1><a href="https://youtu.be/K72X8_KQeys">Videos from Wednesday Nov 1st</a></h1>
 
 <br>
 
