@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -47,17 +47,63 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 
 # These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+team_members:
+  - name: "Jerry Cattell"
+    twitter: "jcattell"
+    image: "jerry-cattell.jpg"
+    bio: "Jerry Cattell is the Director of Technical Operations for [Tempus](https://www.tempus.com/) and a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops). In his free time, Jerry enjoys traveling, reading, and playing with new technologies."
+    linkedin: "https://www.linkedin.com/in/jerrycattell"
+  - name: "Brian Devlin"
+    twitter: "nilved"
+    image: "brian-devlin.jpg"
+  - name: "Joshua Goldman"
+    image: "joshua-goldman.jpg"
+  - name: "Cora Hays-Magan"
+    image: "cora-hays-magan.jpg"
+    twitter: "CorainChicago"
+    website: "http://corainchicago.github.io"
+    linkedin: "https://www.linkedin.com/in/corainchicago"
+    github: "corainChicago"
+    bio: "Cora became a developer after working in all the fun and exciting places, Central Asia, West Africa, and lovely Chicago.  In her household, the number of laptops outnumber the humans and cats combined."
+  - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    employer: "Chef Software, Inc"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
+  - name: "Allie Richards"
+    image: "allie-richards.jpg"
+    twitter: "hpuxgirl"
+    employer: "Centro"
+    linkedin: "https://www.linkedin.com/in/alexandra-richards-88b54a36/"
+    bio: "Allie Richards has been ops-ing since before the terms \"DevOps\" and \"Operations Engineering\" existed. She is passionate about command lines, automation and performance at scale. When not at work she can usually be found trying to read with a cat on her lap."
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
+  - name: "Matt Stratton"
+    image: "matt-stratton.jpg"
+    twitter: "mattstratton"
+    employer: "Chef Software, Inc"
+    website: "https://www.mattstratton.com"
+    facebook: "https://www.facebook.com/matt.stratton"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    bio: "Matt Stratton is a Customer Architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia, and their cat, Fancy. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Cohesive Networks"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is the Senior Marketing Specialist at Cohesive Networks.  She is responsible for growing Cohesive’s awareness through digital and written content creation, public relations, and community events. She organizes and leads the Chicago AWS user group. Previously, Margaret was VP of Operations at GreenPoint Partners, a sustainability consulting company for commercial real estate. At GreenPoint, Margaret managed the LEED building certification process for over 5 million square feet of commercial space and earned her LEED GA and LEED AP accreditations. Margaret has a BSM from Tulane University and is an AWS Certified Solutions Architect - Associate."
+
 organizer_email: "organizers-chicago-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-chicago-2018@devopsdays.org" # Put your proposal email address here
 
