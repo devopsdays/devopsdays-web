@@ -61,7 +61,7 @@ team_members: # Name is the only required field for team members.
   - name: "Karen Whelan"
     twitter: "corona_flga"
     employer: "Verizon"
-    image: "karen-whelan.JPG"
+    image: "karen-whelan.jpg"
   - name: "Matt Walter"
   - name: "Nick Maxwell"
     twitter: "CoffinNailVGD"
