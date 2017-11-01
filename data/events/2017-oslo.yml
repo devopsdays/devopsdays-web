@@ -223,7 +223,7 @@ program:
     start_time: "11:30"
     end_time: "12:05"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-11-01
     start_time: "12:05"
     end_time: "12:25"
@@ -233,17 +233,17 @@ program:
     start_time: "12:25"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "13:30"
     end_time: "14:30"
   - title: "Open Space breakout discussions #1"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "14:30"
     end_time: "15:10"
   - title: "Open Space breakout discussions #2"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "15:10"
     end_time: "15:50"
@@ -253,7 +253,7 @@ program:
     start_time: "15:50"
     end_time: "16:00"
   - title: "Open Space breakout discussions #3"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "16:00"
     end_time: "16:40"
@@ -308,7 +308,7 @@ program:
     start_time: "11:30"
     end_time: "12:05"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-11-02
     start_time: "12:05"
     end_time: "12:25"
@@ -318,17 +318,17 @@ program:
     start_time: "12:25"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-11-02
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space breakout discussions #1"
-    type: custom
+    type: open-space
     date: 2017-11-02
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space breakout discussions #2"
-    type: custom
+    type: open-space
     date: 2017-11-02
     start_time: "14:45"
     end_time: "15:30"
@@ -337,3 +337,21 @@ program:
     date: 2017-11-02
     start_time: "15:30"
     end_time: "16:00"
+
+ignites:
+  - title: "mandi-walls"
+    date: 2017-11-01
+  - title: "hans-kristian-flaatten"
+    date: 2017-11-01
+  - title: "anna-kennedy"
+    date: 2017-11-01
+  - title: "jack-danger"
+    date: 2017-11-01
+  - title: "tor-ledre"
+    date: 2017-11-02
+  - title: "viktorija-almazova"
+    date: 2017-11-02
+  - title: "trond-hindenes"
+    date: 2017-11-02
+  - title: "anton-babenko"
+    date: 2017-11-02
