@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Continuous Delivery with Gitlab, Apache Mesos and Marathon"
 Type = "talk"
 Speakers = ["juan-carlos-gomez"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-continuous-delivery-with-gitlab-apache-mesos-and-marathon"
+Slideshare = ""
+Slides = ""
 +++
 
 In the last few years software companies have been forced to shrink their 

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Using TDD for Infrastructure As Code -- confidence when moving to the cloud"
 Type = "talk"
-Speakers = ["thomas-gamble","alina-murphy"]
+Speakers = ["alina-murphy","pat-dale"]
 youtube = ""
 +++
 
