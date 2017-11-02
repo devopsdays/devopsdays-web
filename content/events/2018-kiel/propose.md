@@ -27,7 +27,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<strong>How to submit a proposal:</strong> Follow <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIa7r1bDphxIk5k1hclulDDH7xeFbjqMiVNMg1s8nwWBPR7Q/viewform">this link</a> and fill out the form.
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>

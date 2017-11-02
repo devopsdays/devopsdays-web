@@ -35,8 +35,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+    url: http://devopsdays.bsb.br/about/programa/
+  - name: speakers
+    url: http://devopsdays.bsb.br/speakers/
   - name: sponsor
   - name: contact
   - name: conduct
@@ -74,6 +76,10 @@ sponsors:
   - id: samplesponsorname
     level: gold
   - id: rancher
+    level: gold
+  - id: redhat
+    level: gold
+  - id: microsoft
     level: gold
   - id: configr
     level: bronze

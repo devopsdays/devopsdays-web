@@ -9,6 +9,9 @@ Description = "devopsdays Oslo 2017"
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
+<h1><a href="https://youtu.be/wLKBI2S2pFM">Live stream for Thursday Nov 2nd</a></h1>
+<h1><a href="https://youtu.be/K72X8_KQeys">Videos from Wednesday Nov 1st</a></h1>
+
 <br>
 
 {{< event_logo >}}
@@ -33,9 +36,13 @@ Description = "devopsdays Oslo 2017"
 
 <hr>
 
-<h2>Sponsorships</h2>
-{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-
+<h2>Feedback</h2>
+Your feedback is highly appreciated! We have created two online forms for you:
+<ul>
+  <li>Use this form to <a href="https://goo.gl/forms/t6CxV2UQARXwqMNy2">share your thoughts on the conference in general</a></li>
+  <li>...and this one to <a href="https://goo.gl/forms/KYxJ16vXU7tyY6NH2">give feedback on speakers and talks</a></li>
+</ul>
+If you prefer using pen and paper, we have a good old mailbox for that at the venue.
 <hr>
 
 <div class = "row">
@@ -70,7 +77,7 @@ Description = "devopsdays Oslo 2017"
     <strong>Conference hotel</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.thonhotels.com/event/devopsdays2017/">Thon Hotel Oslo Panorama</a>
+    <a href="https://www.thonhotels.no/hoteller/norge/oslo/thon-hotel-oslo-panorama">Thon Hotel Oslo Panorama</a> offer discounted rates for attendees and is just a two minute walk from the conference. Although our discount code is expired, you will still get the discount by booking per e-mail to panorama.booking@olavthon.no and referring to the DevOpsDays conference.
   </div>
 </div>
 

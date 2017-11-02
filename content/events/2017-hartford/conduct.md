@@ -34,3 +34,11 @@ IV. If I am offended or harassed, I will inform people around me who make me fee
 V. I understand that people are different and I attempt to be forgiving of others actions at the level of their sincere intent, but my priority is protecting my safety and the safety of others. I will act without hesitation or reservation until there are no question of the safety of all parties.
 
 VI. I trust the devopsdays organizers and attendees will co-create the best possible experience for everyone involved, as I will. I believe devopsdays is about empowering people and I will not forget I am empowered to create a safe and nurturing environment. If I or any other attendee violates this aspect of the event, I expect the conference organizers to protect the attendees by direct action, including expelling those in violation and contacting the proper authorities.
+
+## CONTACT
+
+While DevOpsDays Hartford doesn't anticipate any problems, we are prepared if something does happen. If there are any issues between the start of the conference on day one and the end of the conference on day two (inclusive of the night in between) and you cannot find an organizer in person, please call us at:
+
+### (203) 699-6767
+
+and an organizer will take care of the issue as immediately as we are able.

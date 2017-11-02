@@ -31,11 +31,11 @@ location: "Inis Mor Ballroom" # Defaults to city, but you can make it the venue 
 location_address: "Radisson Blu Hotel & Spa, Lough Atalia Rd, Galway, Ireland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -71,12 +71,6 @@ team_members: # Name is the only required field for team members.
     github: "grahamhayes"
     linkedin: "https://www.linkedin.com/in/grahamhayes/"
     website: "http://graham.hayes.ie/"
-  - name: "Remo H. Jansen"
-    twitter: "remohjansen"
-    employer: "Stellwagen Technology"
-    image: "remohjansen.jpg"
-    github: "remojansen"
-    linkedin: "https://www.linkedin.com/in/remojansen/"
   - name: "Emma Meehan"
     twitter: "destr0ya"
     employer: "Cisco"
@@ -100,14 +94,9 @@ team_members: # Name is the only required field for team members.
     image: "jonpaulsullivan.jpg"
     github: "j3p0uk"
     linkedin: "http://linkedin.com/in/jpsulli"
-  - name: "Allen Thomas Varghese"
-    twitter: "allentv4u"
-    employer: "Udemy"
-    image: "allenthomasvarghese.jpg"
-    github: "allentv"
-    linkedin: "https://www.linkedin.com/in/allentv/"
   - name: "Waldemar Znoinski"
     employer: "Red Hat"
+    image: "waldemarznoinski.jpg"
     github: "wznoinsk"
     linkedin: "https://www.linkedin.com/in/wznoinski/"
 
@@ -117,16 +106,22 @@ proposal_email: "proposals-galway-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #   level: community
-  - id: chef
-    level: gold
   - id: pivotal
     level: gold
+  - id: chef
+    level: gold
+  - id: hpe
+    level: gold
+  - id: puppet
+    level: silver
   - id: avaya
     level: bronze
   - id: cisco
+    level: bronze
+  - id: itag-skillnet
     level: bronze
   - id: daysha-consulting
     level: services
@@ -135,6 +130,8 @@ sponsors:
   - id: nuig-compsoc
     level: community
   - id: linux_recruit
+    level: community
+  - id: women-in-technology-galway
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -156,3 +153,214 @@ sponsor_levels:
     label: Services
   - id: community
     label: Community
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-11-13
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening of the Conference"
+    type: custom
+    date: 2017-11-13
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "paula-kennedy"
+    type: talk
+    date: 2017-11-13
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "sponsors"
+    type: custom
+    date: 2017-11-13
+    start_time:  "10:35"
+    end_time: "10:45"
+  - title: "mary-newell"
+    type: talk
+    date: 2017-11-13
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-13
+    start_time: "11:20"
+    end_time: "11:35"
+
+  - title: "ross-coll"
+    type: talk
+    date: 2017-11-13
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "peter-kennedy"
+    type: talk
+    date: 2017-11-13
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-13
+    start_time: "12:40"
+    end_time: "14:00"
+
+  - title: "thomas-shaw"
+    type: talk
+    date: 2017-11-13
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-13
+    start_time: "14:35"
+    end_time: "14:55"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2017-11-13
+    start_time: "15:00"
+    end_time: "15:40"
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-13
+    start_time: "15:40"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2017-11-13
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2017-11-13
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2017-11-13
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Close Day & Announcements"
+    type: custom
+    date: 2017-11-13
+    start_time: "17:45"
+    end_time: "18:00"
+  #- title: "Dinner & Networking ChillOps"
+  #  type: custom
+  #  date: 2017-11-13
+  #  start_time: "17:15"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2017-11-14
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2017-11-14
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "conall-bennett"
+    type: talk
+    date: 2017-11-14
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "sponsors"
+    type: custom
+    date: 2017-11-14
+    start_time: "10:35"
+    end_time: "10:45"
+  - title: "hybrid-cloud-with-kubernetes-federation"
+    type: talk
+    date: 2017-11-14
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-14
+    start_time: "11:20"
+    end_time: "11:35"
+
+  - title: "reliability_at_scale"
+    type: talk
+    date: 2017-11-14
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "shane-tuohy"
+    type: talk
+    date: 2017-11-14
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-14
+    start_time: "12:40"
+    end_time: "14:00"
+
+  - title: "scott-moore"
+    type: talk
+    date: 2017-11-14
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-14
+    start_time: "14:35"
+    end_time: "14:55"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2017-11-14
+    start_time: "15:00"
+    end_time: "15:40"
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-14
+    start_time: "15:40"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2017-11-14
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2017-11-14
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2017-11-14
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2017-11-14
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+  - title: "tony-chapman"
+    date: 2017-11-13
+  - title: "garima-sharma"
+    date: 2017-11-13
+  - title: "eoin-connaughton"
+    date: 2017-11-13
+  - title: "antoine-voiry"
+    date: 2017-11-13
+  - title: "mark-walsh"
+    date: 2017-11-14
+  - title: "owen-byrne"
+    date: 2017-11-14
+  - title: "alan-duggan"
+    date: 2017-11-14
+  - title: "paul-oconnor"
+    date: 2017-11-14

@@ -48,7 +48,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Jason Vance"
     twitter: "jasonsvance"
-    employer: "Mojo Marketplace"
+    employer: "Accela, Inc."
   - name: "David Snider"
     twitter: "davidasnider"
     employer: "Optum Technology"
@@ -82,7 +82,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "http://linkedin.com/in/gwendobson"
     image: "gwen-dobson.png"
   - name: "Barry McCormick"
-    employer: "Digital Guardian"
+    employer: "Digital Harbor"
     image: "barry-mccormick.png"
 organizer_email: "organizers-salt-lake-city-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-salt-lake-city-2018@devopsdays.org" # Put your proposal email address here

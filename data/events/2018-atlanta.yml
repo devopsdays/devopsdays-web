@@ -1,0 +1,256 @@
+name: "2018-atlanta" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Atlanta" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysATL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Atlanta!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: "2018-04-17" # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  "2018-04-18" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysatl2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysatl2018.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Historic Academy of Medicine" # Defaults to city, but you can make it the venue name.
+#
+location_address: "875 W Peachtree St NE, Atlanta, GA 30309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ - name: propose
+ - name: location
+ - name: registration
+ - name: program
+ - name: speakers
+ - name: sponsor
+ - name: contact
+ - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Chris Corriere"
+  - name: "John Dyer"
+  - name: "Jeremy Duvall"
+  - name: "Andre Thenot"
+  - name: "John Willis"
+organizer_email: "organizers-atlanta-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-atlanta-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+
+program:
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: "2018-04-17"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: "2018-04-17"
+    start_time: "9:00"
+    end_time: "9:15"
+
+  - title: "dr-sallyann-freudenberg"
+    type: talk
+    date: "2018-04-17"
+    start_time: "9:15"
+    end_time: "9:45"
+    start_time: "09:00"
+    end_time: "09:15"
+
+  - title: "Sponsors"
+    type: custom
+    date: "2018-04-17"
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "talk-2"
+    type: talk
+    date: "2018-04-17"
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: "2018-04-17"
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "talk-3"
+    type: talk
+    date: "2018-04-17"
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: "2018-04-17"
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "kim-crayton"
+    type: talk
+    date: "2018-04-17"
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-17"
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: "2018-04-17"
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-04-17"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-04-17"
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-04-17"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-04-17"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: "2018-04-17"
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: "2018-04-17"
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: "2018-04-18"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: "2018-04-18"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "talk-5"
+    type: talk
+    date: "2018-04-18"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: "2018-04-18"
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "talk-6"
+    type: talk
+    date: "2018-04-18"
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: "2018-04-18"
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "talk-7"
+    type: talk
+    date: "2018-04-18"
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: "2018-04-18"
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "talk-8"
+    type: talk
+    date: "2018-04-18"
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-18"
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: "2018-04-18"
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-04-18"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-04-18"
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-04-18"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-04-18"
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: "2018-04-18"
+    start_time: "16:45"
+    end_time: "17:00"

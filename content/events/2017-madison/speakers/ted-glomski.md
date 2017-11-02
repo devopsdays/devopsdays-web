@@ -1,6 +1,7 @@
 +++
 Title = "Ted Glomski"
 Twitter = "ted4tech"
+image = "ted-glomski.jpg"
 type = "speaker"
 linktitle = "ted-glomski"
 

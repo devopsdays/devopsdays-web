@@ -136,7 +136,7 @@ sponsors:
       level: bronze
     - id: bitnami
       level: cmccd
-    - id: microsoft
+    - id: microsoftazure-before-20171017
       level: bronze
       twitter: '@vsts'
     - id: saltstack
@@ -161,7 +161,7 @@ sponsors:
       level: event
     - id:  keybanc
       level: donuts
-    - id:  microsoftazure
+    - id:  microsoftazure-before-20171017
       level: lunch
     - id:  diamanti
       level: cmccd
