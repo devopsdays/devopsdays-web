@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "The use of metrics in the monitoring of the development infrastructure"
 Type = "talk"
 Speakers = ["dayron-aguero"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-the-use-of-metrics-in-the-monitoring-of-the-development-infrastructure"
+Slideshare = ""
+Slides = ""
 +++
 
 The investment in technological infrastructure represents a vital asset of 

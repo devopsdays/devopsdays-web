@@ -77,6 +77,10 @@ sponsors:
     level: gold
   - id: rancher
     level: gold
+  - id: redhat
+    level: gold
+  - id: microsoft
+    level: gold
   - id: configr
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

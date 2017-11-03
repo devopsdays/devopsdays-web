@@ -149,7 +149,7 @@ aliases = ["/events/2017-phoenix/schedule"]
          <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-3">
-        <time>14:14-14:30</time>
+        <time>14:15-14:30</time>
       </div>
       <div class = "col-md-9 box" style="color: #0082AB">
         <strong>Break</strong>

@@ -88,6 +88,10 @@ sponsors:
     level: community
   - id: diwish
     level: supporter
+  - id: kiwi
+    level: venue
+  - id: wobe-systems
+    level: tshirt
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -102,6 +106,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: venue
+    label: Venue
+    max: 1
   - id: evening
     label: Evening
     max: 1
