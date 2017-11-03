@@ -1,7 +1,7 @@
 +++
 Title = "Antoine Voiry"
 Twitter = ""
-image = ""
+image = "antoine-voiry.jpg"
 type = "speaker"
 linktitle = "antoine-voiry"
 
