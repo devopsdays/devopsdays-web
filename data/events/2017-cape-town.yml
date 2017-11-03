@@ -88,7 +88,7 @@ sponsors:
  - id: offerzen
    level: gold
    url: http://bit.ly/2xBHNm9
- - id: microsoft
+ - id: 2017-cape-town-microsoft
    level: gold
  - id: thoughtworks-gocd
    level: gold
@@ -244,6 +244,11 @@ program:
     end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
+    date: 2017-11-07
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "mark-clarke"
+    type: workshop
     date: 2017-11-07
     start_time: "15:00"
     end_time: "15:45"

@@ -31,7 +31,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: about
   - name: location
   - name: speakers
-#  - name: program
+  - name: program
   - name: propose
   - name: registration
   - name: discount
@@ -152,74 +152,214 @@ sponsors:
   - id: stickermule
     level: sticker
 
-#program:
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2017-10-23
-#    start_time: "08:00"
-#    end_time: "09:30"
-#  - title: "Opening Welcome"
-#    type: custom
-#    date: 2017-10-23
-#    start_time: "09:30"
-#    end_time: "10:30"
-#
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2017-10-24
-#    start_time: "08:00"
-#    end_time: "09:00"
-#
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2017-10-25
-#    start_time: "08:00"
-#    end_time: "09:00"
-#  - title: "Ignites"
-#    type: ignite
-#    date: 2017-10-25
-#    start_time: "13:00"
-#    end_time: "13:35"
-#
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2017-10-26
-#    start_time: "08:00"
-#    end_time: "09:00"
-#  - title: "Ignites"
-#    type: ignite
-#    date: 2017-10-26
-#    start_time: "13:00"
-#    end_time: "13:30"
-#
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2017-10-27
-#    start_time: "08:00"
-#    end_time: "09:30"
-#  - title: "Opening Welcome"
-#    type: custom
-#    date: 2017-10-27
-#    start_time: "09:30"
-#    end_time: "10:30"
-#  - title: "Close Day & Farewell"
-#    type: custom
-#    date: 2017-10-27
-#    start_time: "12:30"
-#    end_time: "13:30"
+program:
+  - title: "Registration"
+    type: custom
+    date: 2017-10-23
+    start_time: "08:00"
+    end_time: "11:30"
+  - title: "Opening of Convention UCLV 2017"
+    type: custom
+    date: 2017-10-23
+    start_time: "11:30"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-23
+    start_time: "12:30"
+    end_time: "14:30"
+  - title: "Visit to the historic center of Santa Clara"
+    type: custom
+    date: 2017-10-23
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Transfer to Hotel Melia Marina Varadero"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:30"
+    end_time: "18:30"
 
-#ignites:
-#  - title: "marialina-ballesteros"
-#    date: 2017-10-25
-#  - title: "genry-leyva"
-#    date: 2017-10-25
-#  - title: "hamler-rodriguez1"
-#    date: 2017-10-25
-#  - title: "arian-trujillo"
-#    date: 2017-10-25
-#  - title: "arnab-sinha"
-#    date: 2017-10-25
-#  - title: "hamler-rodriguez2"
-#    date: 2017-10-25
+  - title: "Opening/Welcome"
+    type: custom
+    date: 2017-10-24
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Speaker panel"
+    type: custom
+    date: 2017-10-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "ALLDAYDEVOPS 2017"
+    type: custom
+    date: 2017-10-24
+    start_time: "10:30"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-24
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Open Space - Overview & Topic Proposal/Selection"
+    type: open-space
+    date: 2017-10-24
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-24
+    start_time: "14:00"
+    end_time: "15:30"
+  - title: "Social Networking at the Hotel Bars"
+    type: custom
+    date: 2017-10-24
+    start_time: "19:00"
+    end_time: "21:00"
 
+  - title: "randy-shoup1"
+    type: talk
+    date: 2017-10-25
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "anesto-del-toro"
+    type: talk
+    date: 2017-10-25
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-25
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "rudy-gevaert"
+    type: talk
+    date: 2017-10-25
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "dayron-aguero"
+    type: talk
+    date: 2017-10-25
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "aymen-el-amri"
+    type: talk
+    date: 2017-10-25
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "yadier-perdomo"
+    type: talk
+    date: 2017-10-25
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-25
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2017-10-25
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-25
+    start_time: "14:00"
+    end_time: "15:30"
+  - title: "Social Networking at the Hotel Bars"
+    type: custom
+    date: 2017-10-25
+    start_time: "19:00"
+    end_time: "21:00"
+
+  - title: "alina-murphy-pat-dale"
+    type: talk
+    date: 2017-10-26
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "juan-carlos-gomez"
+    type: talk
+    date: 2017-10-26
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-26
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "conor-delanbanque"
+    type: talk
+    date: 2017-10-26
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "lee-fox"
+    type: talk
+    date: 2017-10-26
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "manuel-morejon"
+    type: talk
+    date: 2017-10-26
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "randy-shoup2"
+    type: talk
+    date: 2017-10-26
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-26
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-10-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "mike-rosado"
+    type: workshop
+    date: 2017-10-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Close event & Farewell"
+    type: custom
+    date: 2017-10-26
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Beach party"
+    type: custom
+    date: 2017-10-26
+    start_time: "21:00"
+    end_time: "23:00"
+
+  - title: "Close Day & Farewell of Convention UCLV 2017"
+    type: custom
+    date: 2017-10-27
+    start_time: "10:30"
+    end_time: "11:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-27
+    start_time: "12:30"
+    end_time: "14:30"
+  - title: "Transfer to Santa Clara/Havana"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:00"
+    end_time: "20:00"
+
+ignites:
+  - title: "marialina-ballesteros"
+    date: 2017-10-25
+  - title: "genry-leyva"
+    date: 2017-10-25
+  - title: "hamler-rodriguez1"
+    date: 2017-10-25
+  - title: "arian-trujillo"
+    date: 2017-10-25
 

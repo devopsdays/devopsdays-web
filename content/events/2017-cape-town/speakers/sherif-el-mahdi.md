@@ -1,6 +1,6 @@
 +++
 Title = "Sherif El Mahdi"
-Twitter = ""
+Twitter = "_SherifElMahdi"
 image = "sherif-el-mahdi.jpg"
 type = "speaker"
 linktitle = "sherif-el-mahdi"
