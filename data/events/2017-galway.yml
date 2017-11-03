@@ -303,7 +303,7 @@ program:
     start_time: "12:40"
     end_time: "14:00"
 
-  - title: "scott-moore"
+  - title: "konstantin-semenov"
     type: talk
     date: 2017-11-14
     start_time: "14:00"
