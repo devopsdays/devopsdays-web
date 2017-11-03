@@ -12,7 +12,7 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 **Organizers emeritus**
 
-[Noel Healy](https://www.linkedin.com/in/noel-healy-5797a328/), [Allen Thomas Varghese](https://www.linkedin.com/in/allentv/), [Remo Jansen](https://www.linkedin.com/in/remojansen/)
+[Noel Healy](https://www.linkedin.com/in/noel-healy-5797a328/), [Allen Thomas Varghese](https://www.linkedin.com/in/allentv/), [Remo Jansen](https://www.linkedin.com/in/remojansen/), [David Renton](https://www.linkedin.com/in/davidleerenton/)
 
 **The core devopsdays organizer group**
 
