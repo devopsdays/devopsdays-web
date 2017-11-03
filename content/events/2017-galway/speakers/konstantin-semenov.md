@@ -1,7 +1,7 @@
 +++
 Title = "Konstantin Semenov"
 Twitter = ""
-image = ""
+image = "konstantin-semenov.jpg"
 type = "speaker"
 linktitle = "konstantin-semenov"
 
