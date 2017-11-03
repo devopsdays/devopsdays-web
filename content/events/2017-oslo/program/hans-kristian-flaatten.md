@@ -13,4 +13,4 @@ When a developer commits and pushes their changes the change is automatically pi
 
 This is how all of the actively maintained applications at the Directorate are deployed, and we completed the transformation from a completely manual process in little less then a year!
 
-[slides](/events/2017-oslo/slides/hans-kristian-flaatten.pdf)
+[slides](https://assets.devopsdays.org/events/2017/oslo/slides/hans-kristian-flaatten.pdf)

@@ -8,4 +8,4 @@ Speakers = ["anton-babenko"]
 +++
 
 
-[slides](/events/2017-oslo/slides/anton-babenko.pdf)
+[slides](https://assets.devopsdays.org/events/2017/oslo/slides/anton-babenko.pdf)
