@@ -12,3 +12,5 @@ Remove as many packages as you think possible
 Bake into a new AMI
 Test and be surprised at the results
 Repeat until you have a secure bastion
+
+[slides](/events/2017-oslo/slides/anna-kennedy.pdf)
