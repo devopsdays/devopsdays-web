@@ -151,23 +151,23 @@ program:
     date: 2017-11-06
     start_time: "13:30"
     end_time: "14:00"
+  - title: "sherif-el-mahdi-day-1"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "grant-finnemore"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "16:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-11-06
     start_time: "14:00"
     end_time: "14:45"
-  - title: "sherif-el-mahdi-day-1"
-    type: workshop
-    date: 2017-11-06
-    start_time: "14:00"
-    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
-    date: 2017-11-06
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "grant-finnemore"
-    type: workshop
     date: 2017-11-06
     start_time: "15:00"
     end_time: "15:45"
@@ -232,23 +232,23 @@ program:
     date: 2017-11-07
     start_time: "13:30"
     end_time: "14:00"
+  - title: "sherif-el-mahdi-day-2"
+    type: workshop
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "mark-clarke"
+    type: workshop
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "16:45"
   - title: "Open Space #1"
     type: open-space
     date: 2017-11-07
     start_time: "14:00"
     end_time: "14:45"
-  - title: "sherif-el-mahdi-day-2"
-    type: workshop
-    date: 2017-11-07
-    start_time: "14:00"
-    end_time: "14:45"
   - title: "Open Space #2"
     type: open-space
-    date: 2017-11-07
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "mark-clarke"
-    type: workshop
     date: 2017-11-07
     start_time: "15:00"
     end_time: "15:45"
