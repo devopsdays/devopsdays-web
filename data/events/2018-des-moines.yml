@@ -14,7 +14,7 @@ cfp_date_start: 2017-11-06 # start accepting talk proposals.
 cfp_date_end: 2018-01-14 # close your call for proposals.
 cfp_date_announce: 2018-02-15 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysdesmoines"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,11 +31,11 @@ location: "Iowa Events Center" # Defaults to city, but you can make it the venue
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  # - name: program
-  - name: speakers
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
