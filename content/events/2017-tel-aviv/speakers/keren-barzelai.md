@@ -1,6 +1,5 @@
 +++
 Title = "Keren Barzelai"
-Twitter = "TWITTERHANDLE"
 image = "keren-barzelai.jpg"
 type = "speaker"
 linktitle = "keren-barzelai"
