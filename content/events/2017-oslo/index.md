@@ -7,16 +7,17 @@ Description = "devopsdays Oslo 2017"
 
 <div style="text-align:center;">
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<!--<h2>{{< event_start >}} - {{< event_end >}}</h2>-->
 
-<h1><a href="https://youtu.be/wLKBI2S2pFM">Live stream for Thursday Nov 2nd</a></h1>
 <h1><a href="https://youtu.be/K72X8_KQeys">Videos from Wednesday Nov 1st</a></h1>
+<h1><a href="https://youtu.be/uGEnG3wZqn4">Videos from Thursday Nov 2nd</a></h1>
+<h3><a href="program/">Slides from the ignite talks can be found as a link on each talk description</a></h3>
 
 <br>
 
 {{< event_logo >}}
 
-<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>
+<!--<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>-->
 
 </div>
 

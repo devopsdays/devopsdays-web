@@ -16,7 +16,7 @@ cfp_date_announce: 2017-09-13
 cfp_open: "false"
 #cfp_link: "https://devopsdaysoslo.typeform.com/to/v1LcjK"
 
-registration_open: "true"
+registration_open: "false"
 registration_link: "https://www.eventbrite.co.uk/e/devopsdays-oslo-2017-tickets-32288225953"
 
 # Location
@@ -31,10 +31,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
 #  - name: propose
 #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
-  - name: location
-    icon: "map-o"
-  - name: registration
-    icon: "pencil"
+#  - name: location
+#    icon: "map-o"
+#  - name: registration
+#    icon: "pencil"
   - name: sponsor
     icon: "money"
   - name: contact
@@ -160,26 +160,12 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 8
   - id: community
     label: Community
+    max: 3
   - id: lunch
     label: Lunch
     max: 1
-  - id: party
-    label: Party
-    max: 1
-  - id: beer
-    label: Beer
-    max: 10
-  - id: dinner
-    label: Dinner
-    max: 1
-  - id: breakfast
-    label: Breakfast
-    max: 1
-  - id: wifi
-    label: Wifi
-    max: 1
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
 program:
   - title: "Registration, breakfast, and sponsor booths open"
