@@ -31,11 +31,10 @@ location: "New York City" # Defaults to city, but you can make it the venue name
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: register
+    url: "https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363"
   - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -81,9 +80,12 @@ organizer_email: "organizers-new-york-city-2018@devopsdays.org" # Put your organ
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: mabl
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+  - id: thoughtworks-gocd
+    level: silver
+  - id: flatiron-health
+    level: bronze
   - id: arresteddevops
     level: community
 
