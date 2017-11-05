@@ -131,8 +131,8 @@ program:
     date: 2017-11-06
     start_time: "10:45"
     end_time: "11:20"
-  - title: "TBD"
-    type: custom
+  - title: "de-wet-blomerus"
+    type: talk
     date: 2017-11-06
     start_time: "11:20"
     end_time: "11:55"
