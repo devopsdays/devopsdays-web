@@ -19,13 +19,6 @@ Description = "DevOpsDays is coming back to Cape Town! Tickets on sale now."
 </div>
 <div class="row">
   <div class = "col-md-4 offset-md-4">
-    <a class="btn btn-primary btn-block" style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/#/">
-      <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for DevOpsDays Cape Town 2017
-    </a>
-  </div>
-</div>
-<div class="row">
-  <div class = "col-md-4 offset-md-4">
     <a class="btn btn-primary btn-block" style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-cape-town/program">
       <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;See the program for DevOpsDays Cape Town 2017
     </a>

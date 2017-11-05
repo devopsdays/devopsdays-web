@@ -22,8 +22,8 @@ ga_tracking_id: "UA-105986234-1"
 
 nav_elements:
   #  - name: program
-  - name: registration
-    url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
+  #- name: registration
+  #  url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
   - name: program
   - name: speakers
