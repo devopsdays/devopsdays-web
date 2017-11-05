@@ -111,12 +111,12 @@ program:
     date: 2017-11-06
     start_time: "09:00"
     end_time: "09:10"
-  - title: "ken-mugrage"
+  - title: "christian-witts"
     type: talk
     date: 2017-11-06
     start_time: "09:10"
     end_time: "09:55"
-  - title: "christian-witts"
+  - title: "rahul-mahale"
     type: talk
     date: 2017-11-06
     start_time: "09:55"
@@ -207,12 +207,12 @@ program:
     date: 2017-11-07
     start_time: "10:30"
     end_time: "10:45"
-  - title: "rahul-mahale"
+  - title: "william-stewart"
     type: talk
     date: 2017-11-07
     start_time: "10:45"
     end_time: "11:20"
-  - title: "william-stewart"
+  - title: "ken-mugrage"
     type: talk
     date: 2017-11-07
     start_time: "11:20"
