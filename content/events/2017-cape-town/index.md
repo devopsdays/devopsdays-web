@@ -89,15 +89,6 @@ Description = "DevOpsDays is coming back to Cape Town! Tickets on sale now."
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
