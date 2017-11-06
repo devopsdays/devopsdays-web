@@ -5,6 +5,7 @@ Talk_end_time = "11:30"
 Title = "What is a technical team lead?"
 Type = "talk"
 Speakers = ["ramez-hanna"]
+youtube = "m1hI9BpR5TE"
 +++
 
 We live in a world of agile and autonomous teams and devops culture,
