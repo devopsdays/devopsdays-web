@@ -19,6 +19,13 @@ Is There Something I Need To Know Before Attending?
 Yes, you should:
 
 have a VERY BASIC understanding of the C programming language. feel free to read this short tutorial for a quick refresh.
+
+https://www.tutorialspoint.com/cprogramming/c_basic_syntax.htm
+
 have a VERY VERY BASIC understanding of the At&t x86 assembly language. feel free to read this short tutorial for a quick refresh.
+
+https://en.wikibooks.org/wiki/X86_Assembly/GAS_Syntax
+https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm
+
 Also you should have a linux or mac available (a vm will do just fine, but windows is not enough).
 
