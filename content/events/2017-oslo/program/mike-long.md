@@ -5,6 +5,7 @@ Talk_end_time = "10:00"
 Title = "The Structure of DevOps Revolutions"
 Type = "talk"
 Speakers = ["mike-long"]
+youtube = "dpjNyTca40w"
 +++
 
 In Science, progress follows a path from tool development, leading to data, then on to theory. In software as well as science we have seen long periods of normal science and puzzle solving, and disruptive paradigm shifts. 
