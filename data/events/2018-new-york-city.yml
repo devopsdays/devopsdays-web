@@ -77,6 +77,8 @@ organizer_email: "organizers-new-york-city-2018@devopsdays.org" # Put your organ
 sponsors:
   - id: mabl
     level: gold
+  - id: chef
+    level: gold
   - id: thoughtworks-gocd
     level: silver
   - id: flatiron-health
