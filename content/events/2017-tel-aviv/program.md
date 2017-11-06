@@ -229,7 +229,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2017-tel-aviv/program/joe-smith">A Culture of Automation <br/> <strong>Joe Smith</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2017-tel-aviv/program/"><br/> <strong>TBD</strong></a></div>
+    <a href="/events/2017-tel-aviv/program/">1 cloud, 2 clouds, 3 clouds, tons <br/> <strong>Nir Cohen and Nati Shalom</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>
 </div> <!-- end timeslot div -->
