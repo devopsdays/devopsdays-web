@@ -5,6 +5,7 @@ Talk_end_time = "12:05"
 Title = "Robots took my job. But that's okay."
 Type = "talk"
 Speakers = ["jessica-brown"]
+youtube = "1rWyup6GGDQ"
 +++
 
 In this tale I will describe;
