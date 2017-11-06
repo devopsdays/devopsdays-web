@@ -12,8 +12,8 @@ Description = "DevOpsDays is coming back to Cape Town! Tickets on sale now."
 </div>
 <div class="row">
   <div class = "col-md-4 offset-md-4">
-    <a class="btn btn-primary btn-block" style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/#/">
-      <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for DevOpsDays Cape Town 2017
+    <a class="btn btn-primary btn-block" style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://docs.google.com/forms/d/e/1FAIpQLSfOZ1s9O-ghkioEByffVaNeZOmL70AF7mkyFkgogYDINe1jRA/viewform?usp=sf_link">
+      <i class="fa fa-comment fa-lg"></i>&nbsp;&nbsp;&nbsp;Open Spaces - Suggest a topic
     </a>
   </div>
 </div>
@@ -79,15 +79,6 @@ Description = "DevOpsDays is coming back to Cape Town! Tickets on sale now."
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">

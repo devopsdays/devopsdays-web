@@ -6,4 +6,3 @@ type = "speaker"
 linktitle = "max-timchenko"
 +++
 
-BIO
