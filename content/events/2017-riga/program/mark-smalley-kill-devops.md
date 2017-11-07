@@ -4,6 +4,7 @@ Talk_start_time = "13:10"
 Talk_end_time = "13:40"
 Title = "Kill DevOps"
 Type = "talk"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-mark-smalley-kill-devops"
 Speakers = ["mark-smalley"]
 +++
 
