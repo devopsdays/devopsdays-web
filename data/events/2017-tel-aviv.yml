@@ -142,7 +142,7 @@ sponsors:
     level: giveaway
   - id: cyberarktlv
     level: silver
-  - id: googlecloud
+  - id: googlecloudtlv2017
     level: silver
 
 
@@ -162,13 +162,6 @@ sponsor_levels:
     max: 12
   - id: bronze
     label: Silver
-  - id: lanyard
-    label: lanyard
-    max: 1
-  - id: community
-    label: Community
-  - id: media
-    label: Media
   - id: lunch
     label: Lunch
     max: 1
@@ -184,12 +177,14 @@ sponsor_levels:
   - id: day2happyhour
     label: Day 2 HappyHour
     max: 1
-  - id: massage
-    label: Massage
-    max: 1
   - id: workshoproom
     label: WorkShop Room
     max: 1
+  - id: lanyard
+    label: lanyard
+    max: 1
+  - id: community
+    label: Community
   - id: giveaway
     label: GiveAway Bag
     max: 1
