@@ -54,6 +54,8 @@ team_members: # Name is the only required field for team members.
   - name: "Meka Wakahulu"
   - name: "James Strong"
   - name: "Dennis Chisholm"
+  - name: "Logan Daigle"
+    employer: VersionOne
   - name: "Joseph Guerra"
     employer: MapAnything
 
