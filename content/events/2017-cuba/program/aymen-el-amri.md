@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "The Roadmap to Becoming a DevOps Professional"
 Type = "talk"
 Speakers = ["aymen-el-amri"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Slideshare = "https://www.slideshare.net/eon01/the-roadmap-to-becoming-a-devops-professional"
+Slides = ""
 +++
 
 3 years ago Docker was not a must-know technology for DevOps professionals. 
