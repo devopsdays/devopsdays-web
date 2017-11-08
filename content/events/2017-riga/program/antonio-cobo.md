@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Project Management: from Stone Age to DevOps"
 Type = "talk"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-antonio-cobo-project-management-from-stone-age-to-devops"
 Speakers = ["antonio-cobo"]
 +++
 
@@ -13,14 +14,14 @@ Speakers = ["antonio-cobo"]
 
 <p><strong>Agenda</strong>:
 <ul><li>
-- Project Management Archaeology: Stone Age
+Project Management Archaeology: Stone Age
 This part is about project management and project delivery before Agile. Explaining the mindset and interactions between team members.
 </li><li>
-- Project Management Archaeology: Renaissance
+Project Management Archaeology: Renaissance
 On this part Agile arrived to project management and project delivery, changing interactions within the team and making people to educate and learn more about other ways of delivering projects.
 </li><li>
--  Project Management in the DevOps Era
+Project Management in the DevOps Era
 The next step after agile, how DevOps is changing the mindset and the place/tasks of project managers on this time.
 </li><li>
-- Wrapping up
+Wrapping up
 </li></ul></p>

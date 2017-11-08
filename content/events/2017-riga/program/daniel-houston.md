@@ -5,6 +5,7 @@ Talk_end_time = "14:05"
 Title = "Thinking outside the box: The Docker socket security concern"
 Type = "talk"
 Speakers = ["daniel-houston"]
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-ignite-daniel-houston-thinking-outside-the-box-the-docker-socket-security-concern"
 +++
 
 <p><em>The Docker socket is insecure when mounted through to containers, allowing subsequent contains to escape the docker model and root the docker host.</em></p>

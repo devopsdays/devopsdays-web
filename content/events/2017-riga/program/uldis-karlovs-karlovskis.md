@@ -4,6 +4,7 @@ Talk_start_time = "12:00"
 Talk_end_time = "12:30"
 Title = "How to lead 100 DevOps specialists"
 Type = "talk"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-uldis-karlovskarlovskis-how-to-lead-100-devops-specialists"
 Speakers = ["uldis-karlovs-karlovskis"]
 +++
 
