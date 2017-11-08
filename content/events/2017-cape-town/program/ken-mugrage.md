@@ -5,6 +5,7 @@ Talk_end_time = "09:55"
 Title = "You Can’t Buy DevOps - Driving Real Change"
 Type = "talk"
 Speakers = ["ken-mugrage"]
+slideshare = "https://www.slideshare.net/kmugrage/devops-isnt-something-you-buy-devopsdays-cape-town"
 +++
 
 It’s not possible to convert money to culture. Neither buying a “DevOps” tool or hiring a “DevOps” team will give your organization the benefits you’re hoping for.
