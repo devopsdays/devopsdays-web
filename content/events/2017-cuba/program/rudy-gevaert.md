@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Talk By Rudy Gevaert"
 Type = "talk"
 Speakers = ["rudy-gevaert"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-devops-pitfalls"
+Slideshare = ""
+Slides = ""
 +++
 
-TBD
+A story on how we failed to implement devops but saved our team from self destruction

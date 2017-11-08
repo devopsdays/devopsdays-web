@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Evolving Architecture and Organization Together - Lessons from Google and eBay"
 Type = "talk"
 Speakers = ["randy-shoup"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Slideshare = ""
+Slides = ""
 +++
 
 The “right” architecture and organization depends on the size and scale of your company. 

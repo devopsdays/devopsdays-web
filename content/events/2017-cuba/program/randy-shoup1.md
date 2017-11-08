@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "DevOps -- It's About How We Work"
 Type = "talk"
 Speakers = ["randy-shoup"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Slideshare = ""
+Slides = ""
 +++
 
 DevOps is far more about culture and organization than it is about technology 

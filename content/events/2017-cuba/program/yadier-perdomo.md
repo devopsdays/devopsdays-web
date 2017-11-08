@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Talk By Yadier Perdomo"
 Type = "talk"
 Speakers = ["yadier-perdomo"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = ""
+Slideshare = ""
+Slides = ""
 +++
 
 TBD
