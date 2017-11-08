@@ -52,6 +52,7 @@ team_members: # Name is the only required field for team members.
     image: "tom-limoncelli.jpg"
   - name: "Jacki Damiano"
     image: "jacki-damiano.jpg"
+    linkedin: "https://www.linkedin.com/in/jaclyn-damiano-0a4b432/"
   - name: "Karen Whelan"
     twitter: "corona_flga"
     employer: "Verizon"
@@ -59,7 +60,7 @@ team_members: # Name is the only required field for team members.
   - name: "Matt Walter"
     twitter: "ohaiwalt"
     linkedin: "https://linkedin.com/in/ohaiwalt"
-    image: "matthew-walter.png"
+    image: "matthew-walter.jpg"
   - name: "Nick Maxwell"
     twitter: "CoffinNailVGD"
     employer: "Verizon"
@@ -81,6 +82,8 @@ sponsors:
   - id: mabl
     level: gold
   - id: chef
+    level: gold
+  - id: catchpoint
     level: gold
   - id: thoughtworks-gocd
     level: silver
