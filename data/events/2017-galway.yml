@@ -165,27 +165,27 @@ program:
     date: 2017-11-13
     start_time: "10:00"
     end_time: "10:30"
-  - title: "sponsors"
-    type: custom
-    date: 2017-11-13
-    start_time:  "10:35"
-    end_time: "10:45"
   - title: "mary-newell"
     type: talk
     date: 2017-11-13
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:35"
+    end_time: "11:05"
 
   - title: "Break"
     type: custom
     date: 2017-11-13
-    start_time: "11:20"
-    end_time: "11:35"
+    start_time: "11:05"
+    end_time: "11:20"
 
   - title: "ross-coll"
     type: talk
     date: 2017-11-13
-    start_time: "11:35"
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2017-11-13
+    start_time:  "11:55"
     end_time: "12:05"
   - title: "peter-kennedy"
     type: talk
@@ -197,28 +197,28 @@ program:
     type: custom
     date: 2017-11-13
     start_time: "12:40"
-    end_time: "14:00"
+    end_time: "13:50"
 
   - title: "thomas-shaw"
     type: talk
     date: 2017-11-13
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "13:50"
+    end_time: "14:20"
   - title: "Ignites"
     type: ignite
     date: 2017-11-13
-    start_time: "14:35"
-    end_time: "14:55"
+    start_time: "14:25"
+    end_time: "14:45"
   - title: "Openspace Opening and Voting"
     type: open-space
     date: 2017-11-13
-    start_time: "15:00"
-    end_time: "15:40"
+    start_time: "14:50"
+    end_time: "15:30"
 
   - title: "Break"
     type: custom
     date: 2017-11-13
-    start_time: "15:40"
+    start_time: "15:30"
     end_time: "16:00"
 
   - title: "Openspace 1"
@@ -263,27 +263,27 @@ program:
     date: 2017-11-14
     start_time: "10:00"
     end_time: "10:30"
-  - title: "sponsors"
-    type: custom
-    date: 2017-11-14
-    start_time: "10:35"
-    end_time: "10:45"
   - title: "hybrid-cloud-with-kubernetes-federation"
     type: talk
     date: 2017-11-14
-    start_time: "10:50"
-    end_time: "11:20"
+    start_time: "10:35"
+    end_time: "11:05"
 
   - title: "Break"
     type: custom
     date: 2017-11-14
-    start_time: "11:20"
-    end_time: "11:35"
+    start_time: "11:05"
+    end_time: "11:20"
 
   - title: "reliability_at_scale"
     type: talk
     date: 2017-11-14
-    start_time: "11:35"
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2017-11-14
+    start_time:  "11:55"
     end_time: "12:05"
   - title: "shane-tuohy"
     type: talk
@@ -295,28 +295,28 @@ program:
     type: custom
     date: 2017-11-14
     start_time: "12:40"
-    end_time: "14:00"
+    end_time: "13:50"
 
   - title: "konstantin-semenov"
     type: talk
     date: 2017-11-14
-    start_time: "14:00"
-    end_time: "14:30"
+    start_time: "13:50"
+    end_time: "14:20"
   - title: "Ignites"
     type: ignite
     date: 2017-11-14
-    start_time: "14:35"
-    end_time: "14:55"
+    start_time: "14:25"
+    end_time: "14:45"
   - title: "Openspace Opening and Voting"
     type: open-space
     date: 2017-11-14
-    start_time: "15:00"
-    end_time: "15:40"
+    start_time: "14:50"
+    end_time: "15:30"
 
   - title: "Break"
     type: custom
     date: 2017-11-14
-    start_time: "15:40"
+    start_time: "15:30"
     end_time: "16:00"
 
   - title: "Openspace 1"
