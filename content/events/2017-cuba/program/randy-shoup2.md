@@ -8,7 +8,7 @@ Speakers = ["randy-shoup"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/RandyShoup/evolving-architecture-and-organization-lessons-from-google-and-ebay"
 Slides = ""
 +++
 
