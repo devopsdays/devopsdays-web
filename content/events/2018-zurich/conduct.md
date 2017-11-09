@@ -23,7 +23,7 @@ report violations:
 
 We will wear special crew shirts and we try to be always around, please reach us out even if we look busy.
 
-{{< list_organizers >}}
+<a href="https://www.devopsdays.org/events/2018-zurich/contact/">See the organizer profile pictures</a>
 
 ## Addressing Grievances
 
