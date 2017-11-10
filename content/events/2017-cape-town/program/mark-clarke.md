@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Hands On With Ansible"
 Type = "talk"
 Speakers = ["mark-clarke"]
+slideshare = "https://www.slideshare.net/mxc4/devopsdayscpt-ansible-infrastrucutre-as-code-2017"
 +++
 
 ##### WORKSHOP ABSTRACT

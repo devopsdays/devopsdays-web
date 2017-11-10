@@ -84,7 +84,7 @@ Participe y comparta en 4 días de conferencias, charlas, workshops intercambian
     <a href="https://twitter.com/devopsdayscuba">Twitter</a><br>
     <a href="https://linkedin.com/groups/7070120">LinkedIn</a><br>
     <a href="https://speakerdeck.com/devopsdayscuba/">Speakerdeck</a><br>
-    <!--<a href="https://www.youtube.com/playlist?list=PLobspijdw3822IEFotAHz_vWrc0nTqwxn">Youtube</a><br>-->
+    <a href="https://www.youtube.com/playlist?list=PLQNo7rFEalvML1iGKGDJE9VE1D3a96Yek">Youtube</a><br>
     <a href="https://www.flickr.com/photos/devopsdayscuba/sets/72157686783672782">Flickr</a><br>
     </div>
 </div>  

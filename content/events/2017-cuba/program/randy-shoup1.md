@@ -8,7 +8,7 @@ Speakers = ["randy-shoup"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/RandyShoup/devops-its-about-how-we-work"
 Slides = ""
 +++
 

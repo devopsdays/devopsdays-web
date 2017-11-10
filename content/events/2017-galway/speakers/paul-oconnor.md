@@ -1,7 +1,7 @@
 +++
 Title = "Paul O'Connor"
 Twitter = ""
-image = ""
+image = "paul-oconnor.jpg"
 type = "speaker"
 linktitle = "paul-oconnor"
 
