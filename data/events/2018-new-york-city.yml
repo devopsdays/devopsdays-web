@@ -87,6 +87,8 @@ sponsors:
     level: gold
   - id: catchpoint
     level: gold
+  - id: verizon
+    level: gold
   - id: thoughtworks-gocd
     level: silver
   - id: flatiron-health
