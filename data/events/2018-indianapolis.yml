@@ -11,12 +11,12 @@ startdate: 2018-07-23
 enddate: 2018-07-24
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-11-09 # start accepting talk proposals.
+cfp_date_end: 2018-03-02 # close your call for proposals.
+cfp_date_announce: 2017-11-09 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysindy" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2017-11-09" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2018-07-24" # close registration. Leave blank if registration is not open yet.
@@ -32,7 +32,7 @@ location: "Indianapolis Marriott Downtown" # Defaults to city, but you can make 
 location_address: "350 W Maryland St, Indianapolis, IN 46225" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
   - name: registration
  # - name: program
@@ -63,6 +63,8 @@ team_members: # Name is the only required field for team members.
     twitter: "byronschaller"
 
   - name: "Bryan Smith"
+    employer: "Tacit Labs"
+    website: "http://tacitlabs.com/"
 
   - name: "Chris Chalfant"
     employer: "Leaf Software Solutions"
