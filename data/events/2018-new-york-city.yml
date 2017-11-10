@@ -79,6 +79,8 @@ organizer_email: "organizers-new-york-city-2018@devopsdays.org" # Put your organ
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: microsoft
+    level: venue
   - id: mabl
     level: gold
   - id: chef
@@ -99,6 +101,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
   - id: gold
     label: Gold
 #    max: 10
