@@ -4,6 +4,7 @@ Talk_start_time = "13:50"
 Talk_end_time = "13:55"
 Title = "Breaking barriers between business and developers: government case study"
 Type = "talk"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-krlis-broders-breaking-barriers-between-business-and-developers-government-case-study"
 Speakers = ["karlis-broders"]
 +++
 

@@ -255,7 +255,8 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2017-tel-aviv/program/max-timchenko">How to hire a SRE in 5 minutes <strong>Max Timchenko</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/lidor-gerstel">Container Orchestration with Rancher <strong>Lidor Gerstel</strong> </a><br/>
     <a href="/events/2017-tel-aviv/program/keren-barzelai">Fake it till you make it <strong>Keren Barzelai</strong> </a><br/>
-    <a href="/events/2017-tel-aviv/program/corey-quinn">Death of an Enterprise Software Salesman <strong>Corey Quinn</strong> </a><br/>
+    <a href="/events/2017-tel-aviv/program/sharone-zitzman">When Your Open Source Project Stops Being Cool <strong>Sharone Zitzman</strong> </a><br/>
+    <a href="/events/2017-tel-aviv/program/corey-quinn">Death of an Enterprise Software Salesman <strong>Corey Quinn</strong> </a>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2017-tel-aviv/program/ran-leibman">System Calls Deep Dive Workshop (continued) <br/> <strong>Ran Leibman</strong></a></div>

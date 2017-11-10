@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "LibreNMS and more"
 Type = "talk"
 Speakers = ["arian-trujillo"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-ignite-librenms-and-more"
+Slideshare = ""
+Slides = ""
 +++
 
 El objetivo de la presentación es mostrar a LibreNMS como un folk de Observuim, 
@@ -27,4 +31,4 @@ soporte a los fabricantes menos importantes, donde RANCID es mas exclusivo.
 
 - Se puede agregar smokeping una herramienta RRDtool, que recopila información de la red.
 
-- NFSen es una variante libre NetFlow propietaria de CISCO.\r\nEste seria el nucleo de la presentación.
+- NFSen es una variante libre NetFlow propietaria de CISCO.

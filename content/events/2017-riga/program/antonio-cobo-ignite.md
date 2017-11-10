@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:15"
 Title = "Technical Debt: One way (good or bad?) to deal with it"
 Type = "talk"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-antonio-cobo-technical-debt-one-way-good-or-bad-to-deal-with-it"
 Speakers = ["antonio-cobo"]
 +++
 

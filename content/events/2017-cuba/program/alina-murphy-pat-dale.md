@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Using TDD for Infrastructure As Code -- confidence when moving to the cloud"
 Type = "talk"
 Speakers = ["alina-murphy","pat-dale"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-using-tdd-for-infrastructure-as-code-confidence-when-moving-to-the-cloud"
+Slideshare = ""
+Slides = ""
 +++
 
 We believe that in today’s fast moving world, it’s more important than ever 

@@ -52,11 +52,15 @@ team_members: # Name is the only required field for team members.
     image: "tom-limoncelli.jpg"
   - name: "Jacki Damiano"
     image: "jacki-damiano.jpg"
+    linkedin: "https://www.linkedin.com/in/jaclyn-damiano-0a4b432/"
   - name: "Karen Whelan"
     twitter: "corona_flga"
     employer: "Verizon"
     image: "karen-whelan.jpg"
   - name: "Matt Walter"
+    twitter: "ohaiwalt"
+    linkedin: "https://linkedin.com/in/ohaiwalt"
+    image: "matthew-walter.jpg"
   - name: "Nick Maxwell"
     twitter: "CoffinNailVGD"
     employer: "Verizon"
@@ -75,7 +79,13 @@ organizer_email: "organizers-new-york-city-2018@devopsdays.org" # Put your organ
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: microsoft
+    level: venue
   - id: mabl
+    level: gold
+  - id: chef
+    level: gold
+  - id: catchpoint
     level: gold
   - id: thoughtworks-gocd
     level: silver
@@ -91,6 +101,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
   - id: gold
     label: Gold
 #    max: 10
