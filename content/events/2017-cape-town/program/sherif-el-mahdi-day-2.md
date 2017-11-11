@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "OSS-based DevOps on Azure"
 Type = "talk"
 Speakers = ["sherif-el-mahdi"]
+slides = "https://github.com/SherifElMahdi/DevOpsDays/tree/master/Day%202%20-%20OSS%20DevOps%20on%20Azure"
 +++
 
 ##### WORKSHOP ABSTRACT

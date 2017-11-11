@@ -11,3 +11,8 @@ Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-start
 Slideshare = ""
 Slides = ""
 +++
+
+DevOps, sure everybody is hiring right now. How many of us are actually successful 
+at doing this? How many of us spend hours daily and weekly searching for the right 
+person? The time wasting ends now. Let's collaborate and automate our hiring processes 
+to have Continuous Success with DevOps hiring.

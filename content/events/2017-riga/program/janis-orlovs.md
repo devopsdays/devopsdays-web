@@ -4,6 +4,7 @@ Talk_start_time = "14:05"
 Talk_end_time = "14:10"
 Title = "Automation and Security: Implementing Continuous Security Environments"
 Type = "talk"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-janis-orlovs-automation-and-security-implementing-continuous-security-environments"
 Speakers = ["janis-orlovs"]
 +++
 
