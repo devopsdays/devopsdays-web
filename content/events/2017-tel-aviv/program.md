@@ -193,7 +193,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2017-tel-aviv/program/corey-quinn">Keynote 2: <strong>Corey Quinn</strong></a>
+    <a href="/events/2017-tel-aviv/program/corey-quinn">Keynote 2: <strong>Corey Quinn</strong> - Inventing Yourself: The Musings of an Assistant Regional Thought Manager</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
