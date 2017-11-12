@@ -125,7 +125,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2017-tel-aviv/program/guido-laquinti">Distributed Teams: Scaling Operations Around the World <br/> <strong>Guido Iaquinti</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2017-tel-aviv/program/daniel-borovsky">Building high scale system using serverless architecture for a burning man event <br/> <strong>Daniel Borovsky</strong></a></div>
+    <a href="/events/2017-tel-aviv/program/jonathan-zenou">Building high scale system using serverless architecture for a burning man event <br/> <strong>Jonathan Zenou</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
     <a href="/events/2017-tel-aviv/program/phillip-krenn">Workshop: Machine Learning without the Hype (continued) <br/> <strong>Philipp Krenn</strong></a></div>
 </div> <!-- end timeslot div -->
