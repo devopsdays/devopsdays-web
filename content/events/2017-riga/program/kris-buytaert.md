@@ -4,6 +4,7 @@ Talk_start_time = "09:30"
 Talk_end_time = "10:00"
 Title = "The return of the Dull Stack Engineer"
 Type = "talk"
+youtube = "BasCCQ-4u3E"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-kris-buytaert-the-return-of-the-dull-stack-engineer"
 Speakers = ["kris-buytaert"]
 +++

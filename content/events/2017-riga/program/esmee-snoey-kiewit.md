@@ -4,6 +4,7 @@ Talk_start_time = "13:45"
 Talk_end_time = "13:50"
 Title = "Technical Privacy Testing"
 Type = "talk"
+youtube = "sCp88zmETHY"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-ignite-esme-snoey-kiewit-technical-privacy-testing"
 Speakers = ["esmee-snoey-kiewit"]
 +++

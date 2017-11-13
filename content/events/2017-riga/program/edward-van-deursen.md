@@ -4,6 +4,7 @@ Talk_start_time = "13:30"
 Talk_end_time = "14:00"
 Title = "GDPR in DevOps for Dummies"
 Type = "talk"
+youtube = "JgVqRQfQnGQ"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-edward-van-deursen-gdpr-in-devops-for-dummies"
 Speakers = ["edward-van-deursen"]
 +++
