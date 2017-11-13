@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Project Management: from Stone Age to DevOps"
 Type = "talk"
+youtube = "dhMp2xnnE5A"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-antonio-cobo-project-management-from-stone-age-to-devops"
 Speakers = ["antonio-cobo"]
 +++

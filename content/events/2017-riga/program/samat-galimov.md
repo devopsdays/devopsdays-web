@@ -4,6 +4,7 @@ Talk_start_time = "09:45"
 Talk_end_time = "10:15"
 Title = "Homebrew CI/CD for a startup — bumpy road ahead"
 Type = "talk"
+youtube = "4paaGLHJCq8"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-samat-galimov-dmitry-zakharov-homebrew-cicd-for-a-startup-bumpy-road-ahead"
 Speakers = ["samat-galimov", "dmitry-zakharov"]
 +++

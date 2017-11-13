@@ -4,6 +4,7 @@ Talk_start_time = "10:20"
 Talk_end_time = "10:50"
 Title = "Delivery Pipeline for Windows Machines"
 Type = "talk"
+youtube = "nhEzUzqdgAQ"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-dmitry-buzdin-delivery-pipeline-for-windows-machines"
 Speakers = ["dmitry-buzdin"]
 +++
