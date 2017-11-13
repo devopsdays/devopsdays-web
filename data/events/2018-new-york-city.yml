@@ -105,6 +105,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: venue
     label: Venue
+    max: 1
   - id: gold
     label: Gold
 #    max: 10
