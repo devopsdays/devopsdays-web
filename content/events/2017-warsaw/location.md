@@ -5,11 +5,15 @@ type = "event"
 
 +++
 
-DevOpsDays Warsaw 2017 will be held in <b><a href="https://2017.devopsdays.pl/venue/" target="_blank">Gromada Hotel Airport</a></b><br>
+DevOpsDays Warsaw 2017 will be held in 
 
-<strong>Gromada Warsaw Airport Hotel ***</strong> <br/>
-17 Stycznia Street No. 32<br/>
-02 - 148 Warsaw<br/>
-<hr><br/>
+
+
+<b>Nove Kino Wisła</b>
+
+address: Plac Wilsona 2, Warszawa
+
+
+
 
 {{< event_map >}}
