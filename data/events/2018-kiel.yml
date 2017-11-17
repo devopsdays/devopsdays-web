@@ -118,9 +118,6 @@ sponsor_levels:
   - id: tshirt
     label: T-Shirt
     max: 1
-  - id: coffee
-    label: Coffee Break
-    max: 2
   - id: contributor
     label: Contributor
   - id: supporter
