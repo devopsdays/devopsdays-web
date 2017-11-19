@@ -51,18 +51,6 @@ Aqui estão elas! As fotos do nosso evento ficaram muito boas e temos aqui muito
 - Momentos das oficinas e demonstrações;
 - Openspace com debates de cultura e práticas (este é o ápice do evento)
 
-<div id="flickrembed"></div>
-<small style="display: block; text-align: center; margin: 0 auto;">
-  Powered by <a href="https://flickrembed.com" target='blank'>flickr embed <i class='fa fa-external-link'></i></a>.
-</small>
-<script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/devops-df/albums/72157690674242776&sort=1&by=album&theme=default&scale=fit&limit=100&skin=default&autoplay=true'>
-</script>
-<div class="text text-center">
- <a href='https://www.flickr.com/photos/devops-df/albums/72157690674242776' target='blank'>
-    Clique aqui e veja mais fotos <i class='fa fa-external-link'></i>
- </a>
-</div><br />
-
 # Equipe de apoio
 
 Foi essencial podermos contar com pessoas tão especiais, comprometidas, prestativas, alegres em estar lá nos ajudando em um monte de coisas para a boa condução do evento. Fazendo um tanto para que tudo finalizasse da melhor forma possível para todos: participantes, palestrantes, patrocinadores, prestadores de serviços e tudo o mais.
