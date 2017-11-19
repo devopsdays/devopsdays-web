@@ -1,15 +1,15 @@
 +++
 Tags = ["2017"]
 Author = "Adriano Vieira"
-Description = "DevOpsDays Brasília 2017 aconteceu em 07 e 08 de novembro de 2017."
+Description = "DevOpsDays Brasilia 2017 aconteceu em 07 e 08 de novembro de 2017."
 date = "2017-11-19T16:51:36-02:00"
-title = "Revisitando o DevOpsDays Brasília 2017"
+title = "Revisitando o DevOpsDays Brasilia 2017"
 Categories = []
 +++
 
 # A Conferência
 
-{{< figure src="/events/2017-brasilia/inreview/sente-o-clima.jpg" title="Sente o clima..." class="img-responsive" width="100%" >}}
+<figure src="/events/2017-brasilia/inreview/sente-o-clima.jpg" title="Sente o clima..." class="img-responsive" width="100%">
 
 O DevOpsDays Brasília aconteceu em área central da Capital Federal em 07 e 08 de novembro de 2017. Este foi o segundo ano consecutivo que realizamos o DevOpsDays aqui pelo planalto central - Centro Oeste brasileiro.
 
@@ -50,18 +50,6 @@ Aqui estão elas! As fotos do nosso evento ficaram muito boas e temos aqui muito
 - Área dos patrocinadores e Coffee-break
 - Momentos das oficinas e demonstrações;
 - Openspace com debates de cultura e práticas (este é o ápice do evento)
-
-<div id="flickrembed"></div>
-<small style="display: block; text-align: center; margin: 0 auto;">
-  Powered by <a href="https://flickrembed.com" target='blank'>flickr embed <i class='fa fa-external-link'></i></a>.
-</small>
-<script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/devops-df/albums/72157690674242776&sort=1&by=album&theme=default&scale=fit&limit=100&skin=default&autoplay=true'>
-</script>
-<div class="text text-center">
- <a href='https://www.flickr.com/photos/devops-df/albums/72157690674242776' target='blank'>
-    Clique aqui e veja mais fotos <i class='fa fa-external-link'></i>
- </a>
-</div><br />
 
 # Equipe de apoio
 
