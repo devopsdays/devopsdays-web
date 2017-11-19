@@ -1,7 +1,7 @@
 +++
 Tags = ["2017"]
 Author = "Adriano Vieira"
-Description = "DevOpsDays Brasília 2017 aconteceu em 07 e 08 de novembro de 2017."
+Description = "DevOpsDays Brasilia 2017 aconteceu em 07 e 08 de novembro de 2017."
 date = "2017-11-19T16:51:36-02:00"
 title = "Revisitando o DevOpsDays Brasilia 2017"
 Categories = []
