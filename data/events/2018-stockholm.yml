@@ -55,7 +55,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/loweschmidt/"
 
   - name: "Jessica Brown"
-    twitter: "_jessington"
+    twitter: "jessalyn"
     employer: "Fastly"
 
   - name: "Daniel Lundin"
