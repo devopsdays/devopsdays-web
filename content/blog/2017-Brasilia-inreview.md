@@ -9,7 +9,7 @@ Categories = []
 
 # A Conferência
 
-{{< figure src="/events/2017-brasilia/inreview/sente-o-clima.jpg" title="Sente o clima..." class="img-responsive" width="100%" >}}
+<figure src="/events/2017-brasilia/inreview/sente-o-clima.jpg" title="Sente o clima..." class="img-responsive" width="100%">
 
 O DevOpsDays Brasília aconteceu em área central da Capital Federal em 07 e 08 de novembro de 2017. Este foi o segundo ano consecutivo que realizamos o DevOpsDays aqui pelo planalto central - Centro Oeste brasileiro.
 
