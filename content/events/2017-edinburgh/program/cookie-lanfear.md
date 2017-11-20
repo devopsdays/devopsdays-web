@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "From Software Development Bootcamp to Junior DevOps Engineer"
 Type = "talk"
 Speakers = ["cookie-lanfear"]
+youtube = "LKJVqcJRan0"
+slideshare = "https://www.slideshare.net/CookieLanfear/dod-presentation-v2"
 +++
 
 Cookie would like to review her findings and experience coming from a non-engineering background to changing careers through CodeClan, an intensive software development boot camp to obtaining a great opportunity at Adobe as a Junior DevOps Engineer.

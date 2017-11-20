@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Work + Family + Self + Fast Paced Industry = \\_(_)_/"
 Type = "talk"
 Speakers = ["josh-atwell"]
+youtube = "8_r3AxoAu4Y"
+slideshare = "https://www.slideshare.net/JoshAtwell/work-family-self-fast-paced-industry"
 +++
 
 Keeping up with the brisk pace of change requires a steady stream of investment of your time and energy. While this motivates us, it also takes a negative toll on our lives. How do you stay in the forefront while maintaining some element of balance in your overall life?
