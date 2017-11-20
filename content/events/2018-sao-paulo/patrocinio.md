@@ -2,7 +2,7 @@
 date = "2016-12-08T16:35:49-05:00"
 title = "patrocínio"
 type = "event"
-aliases = ["/events/2017-sao-paulo/sponsor"]
+aliases = ["/events/2018-sao-paulo/sponsor"]
 
 
 +++
