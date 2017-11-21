@@ -1,12 +1,16 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays edinburgh 2018"
+Description = "Location for devopsdays Edinburgh 2018"
 +++
 
 ### Event Location
 
-TBC
+Devopsdays Edinburgh 2018 will be held at <a href="http://www.dynamicearth.co.uk" target="_blank">Dynamic Earth</a>, a fully accessible venue with lifts to all areas that will be used for the conference. Dynamic Earth is located in the shadow of the extinct volcano Arthur's Seat, in the historic area of Holyrood. Holyrood is also home to the Scottish Parliament and the Queen's Edinburgh residence, the Palace of Holyroodhouse. It is a central location at the bottom of the Royal Mile - the road that joins Holyrood to Edinburgh Castle a mile away. There are plenty of hotels, pubs, cafes, restaurants and tourist attractions nearby.
+
+<div style="width: 550px; padding-bottom: 5px; margin: 0 auto;">
+{{< event_map >}} 
+</div>
 
 ### Getting To Edinburgh
 
