@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays Charlotte 2018"
 
 <hr>
 
-## Have something to share? Submit your proposal via Papercall.io [here](https://www.papercall.io/events/758)!
+## Have something to share? Submit your proposal via Papercall.io [here](https://www.papercall.io/dodclt2018)!
 
 <hr>
 
