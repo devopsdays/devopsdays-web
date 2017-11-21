@@ -9,15 +9,34 @@ Description = "devopsdays Seattle 2018"
   {{< event_logo >}}
 </div> -->
 
-DevOpsDays will be returning to Seattle in April 2018. We'll update this
-space as dates get set.
+<style>
+  .sea-prev-year-video {
+    float: right;
+    max-width: 560px;
+  }
+  .sea-prev-year-video p {
+    font-weight: bold;
+  }
+</style>
 
-Approximate timeline...
+<div class="sea-prev-year-video">
+<p>Last Year's Keynote:</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yIlNTnA-zUs" frameborder="0" allowfullscreen></iframe>
+</div>
 
-* CFP Open: <a href="https://www.papercall.io/devopsdays-seattle-2108">Open Now!</a>
-* Sponsorships: {{< event_link page="sponsor" text="Open Now!" >}}
-* Registration open: Early winter 2018
-* Program announced: Mid winter 2018
+DevOpsDays will be returning to Seattle in April 24th and 25th, 2018. We had
+long waiting lists the last two years, so this year we're expanding to make
+room for up to 500 participants.
+
+Would you like to share your story? Our CFP is open! <a href="https://www.papercall.io/devopsdays-seattle-2108">Click here</a> to
+submit a talk proposal.
+
+DevOpsDays is a great opportunity for sponsors. You'll have direct access
+to hundreds of practitioners. For more information about sponsorship
+opportunities {{< event_link page="sponsor" text="click here." >}}
+
+Registration for this year's event will open soon. Be sure to follow
+us on Twitter for announcements.
 
 
 <!--
