@@ -1,15 +1,9 @@
 +++
-date = "2016-12-08T16:35:49-05:00"
-title = "bemvindo"
-type = "event"
-aliases = ["/events/2017-sao-paulo", "/events/2017-sao-paulo/welcome"]
-
+Title = "devopsdays Victoria 2018"
+Type = "welcome"
+aliases = ["/events/2018-victoria/welcome"]
+Description = "devopsdays Victoria 2018"
 +++
-
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-
-
-**devopsdays está vindo para {{< event_location >}}!**
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -17,7 +11,7 @@ aliases = ["/events/2017-sao-paulo", "/events/2017-sao-paulo/welcome"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Datas</strong>
+    <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
@@ -71,22 +65,23 @@ aliases = ["/events/2017-sao-paulo", "/events/2017-sao-paulo/welcome"]
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Patrocinadores</strong>
+    <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Patrocine este Evento!" >}}
+    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contato</strong>
+    <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
+    {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
 
-<!-- add your city twitter name here without the @ sign -->
-
-{{< event_twitter devopsdayssp >}}
+<!-- Uncomment if you added your city twitter name -->
+<!--
+{{< event_twitter >}}
+-->

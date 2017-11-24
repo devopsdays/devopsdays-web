@@ -129,6 +129,8 @@ sponsors:
     level: silver
   - id: vshn
     level: gold
+  - id: mobiliar
+    level: silver
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

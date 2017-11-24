@@ -1,9 +1,15 @@
 +++
-Title = "devopsdays Barcelona 2018"
-Type = "welcome"
-aliases = ["/events/2018-barcelona/welcome"]
-Description = "devopsdays Barcelona 2018"
+date = "2016-12-08T16:35:49-05:00"
+title = "bemvindo"
+type = "event"
+aliases = ["/events/2018-sao-paulo", "/events/2018-sao-paulo/welcome"]
+
 +++
+
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
+
+
+**devopsdays está vindo para {{< event_location >}}!**
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -11,7 +17,7 @@ Description = "devopsdays Barcelona 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
@@ -65,23 +71,22 @@ Description = "devopsdays Barcelona 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Patrocine este Evento!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<!-- add your city twitter name here without the @ sign -->
+
+{{< event_twitter devopsdayssp >}}

@@ -1,13 +1,13 @@
-name: "2018-barcelona" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2018-philadelphia" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2018" # The year of the event. Make sure it is in quotes.
-city: "Barcelona" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Barcelona!" # Edit this to suit your preferences
+city: "Philadelphia" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysPHL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-23 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-24 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -25,14 +25,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Barcelona" # Defaults to city, but you can make it the venue name.
+coordinates: "39.9500, -75.1667" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chemical Heritage Foundation" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -46,26 +46,31 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Guillem Hernandez Sola"
-  - name: "Alex Ballarin Latre"
-  - name: "Ivan Ortiz"
-  - name: "Fernando Martins"
-  - name: "Patrick Heneise"
-  - name: "Oriol del Barrio"
-  - name: "Albert Valiente"
-  - name: "Jorge Peña"
-  - name: "Lee Thompson"
-  - name: "Sara de la Fuente"
-
-organizer_email: "organizers-barcelona-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-barcelona-2018@devopsdays.org" # Put your proposal email address here
+  - name: "Peter Shannon"
+    employer: "Warner Bros. Digital Labs"
+  - name: "Sarah Gray"
+    employer: "PromptWorks"
+  - name: "Clinton Wolfe"
+    employer: "Chef"
+    role: "Speaker Coordinator"
+    twitter: "clintoncwolfe"
+    github: "clintoncwolfe"
+    linkedin: "https://www.linkedin.com/in/clinton-wolfe-6927784a/"
+    email: "clintoncwolfe@gmail.com"
+  - name: "Hilary Muludiang"
+    twitter: "hlmuludiang"
+    linkedin: "http://linkedin.com/in/hlmuludiang"
+    email: "hilary.muludiang@gmail.com"
+  - name: "Sam Hollis"
+    employer: "AWeber"
+  - name: "Shaheen Beg"
+    employer: "University of Pennsylvania"
+organizer_email: "organizers-philadelphia-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
 
