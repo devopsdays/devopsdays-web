@@ -47,31 +47,31 @@ BRONZE
         <tr>
             <td>Included tickets</td>
             <td bgcolor=#8C7853><center><strong>1</strong></center></td>
-            <td bgcolor=#E6E8FA><center><strong>2</strong></center></td>
+            <td bgcolor=#C0C0C0><center><strong>2</strong></center></td>
             <td bgcolor=#CFB53B><center><strong>3</strong></center></td>
         </tr>
         <tr>
             <td>Logo on event website</td>
             <td bgcolor=#8C7853>&nbsp;</td>
-            <td bgcolor=#E6E8FA>&nbsp;</td>
+            <td bgcolor=#C0C0C0>&nbsp;</td>
             <td bgcolor=#CFB53B>&nbsp;</td>
         </tr>
         <tr>
             <td>Logo on shared slide, rotating during breaks</td>
             <td bgcolor=#8C7853>&nbsp;</td>
-            <td bgcolor=#E6E8FA>&nbsp;</td>
+            <td bgcolor=#C0C0C0>&nbsp;</td>
             <td bgcolor=#CFB53B>&nbsp;</td>
         </tr>
         <tr>
             <td>Logo on all email communication</td>
             <td>&nbsp;</td>
-            <td bgcolor=#E6E8FA>&nbsp;</td>
+            <td bgcolor=#C0C0C0>&nbsp;</td>
             <td bgcolor=#CFB53B>&nbsp;</td>
         </tr>
         <tr>
             <td>Logo on its own slide, rotating during breaks</td>
             <td>&nbsp;</td>
-            <td bgcolor=#E6E8FA>&nbsp;</td>
+            <td bgcolor=#C0C0C0>&nbsp;</td>
             <td bgcolor=#CFB53B>&nbsp;</td>
         </tr>
         <tr>
@@ -85,13 +85,13 @@ BRONZE
             <td bgcolor=#CFB53B>&nbsp;</td>
         </tr>
         <tr>
-            <td>Shared table for swag</td>
+            <td>Shared table (split a 5" x 1.5" with 1 other sponsor)</td>
             <td bgcolor=#8C7853>&nbsp;</td>
-            <td bgcolor=#E6E8FA>&nbsp;</td>
+            <td bgcolor=#C0C0C0>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
         <tr>
-            <td>Sponsor table space</td>
+            <td>Sponsor table (5" x 1.5")</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td bgcolor=#CFB53B>&nbsp;</td>
