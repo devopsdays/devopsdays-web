@@ -59,6 +59,9 @@ proposal_email: "proposals-atlanta-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: samplesponsorname
     level: gold
+
+  - id: rigor
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
