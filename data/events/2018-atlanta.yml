@@ -98,7 +98,7 @@ program:
     start_time: "9:00"
     end_time: "9:15"
 
-  - title: "dr-sallyann-freudenberg"
+  - title: "sallyann-freudenberg"
     type: talk
     date: "2018-04-17"
     start_time: "9:15"
