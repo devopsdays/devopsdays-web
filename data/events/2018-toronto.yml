@@ -10,12 +10,12 @@ startdate:  2018-05-30 # The start date of your event. Leave blank if you don't 
 enddate:  2018-05-31 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2017-12-01 # start accepting talk proposals.
+cfp_date_end:  2018-02-02 # close your call for proposals.
+cfp_date_announce:  2018-02-23 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/2018-toronto" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -31,7 +31,7 @@ location: "Chestnut Conference Centre" # Defaults to city, but you can make it t
 location_address: "89 Chestnut Street, Toronto, ON, M5G 1R1" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
