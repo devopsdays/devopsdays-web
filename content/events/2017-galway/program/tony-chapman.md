@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The elephant in the room. How to attract and retain great DevOps talent."
 Type = "talk"
 Speakers = ["tony-chapman"]
+Slides = "https://www.slideshare.net/TonyChapman9/devops-days-galway-talk"
 +++
 
 <p>People, Process, Technology, 3 of the key things to consider if you’re looking to implement DevOps principles.<p>
