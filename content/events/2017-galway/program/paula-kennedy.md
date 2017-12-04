@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Help me help you: show me the empathy!"
 Type = "talk"
+slideshare = "https://www.slideshare.net/paulakennedy/help-me-help-you-82381325/1"
 Speakers = ["paula-kennedy"]
 +++
 

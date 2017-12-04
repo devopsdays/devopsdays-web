@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Deploying a maintainable Kubernetes cluster in 20 minutes"
 Type = "talk"
+slideshare = "https://www.slideshare.net/KonstantinSemenov10/deploying-a-maintainable-kubernetes-cluster-in-under-20-minutes"
 Speakers = ["konstantin-semenov"]
 +++
 

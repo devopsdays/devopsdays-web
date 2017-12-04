@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Silent, but Deadly - Production End to End Testing"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/pjsk/silent-but-deadly-production-end-to-end-testing"
 Speakers = ["peter-kennedy"]
 +++
 
