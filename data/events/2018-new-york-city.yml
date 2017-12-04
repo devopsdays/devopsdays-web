@@ -115,9 +115,10 @@ sponsor_levels:
     max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 1 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 1
   - id: community
     label: Community
     max: 1
