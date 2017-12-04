@@ -5,6 +5,10 @@ Description = "Propose a talk for devopsdays New York City 2017"
 +++
   {{< cfp_dates >}}
 
+<center>
+NOTE: Due to circumstances beyond our control, the talk proposal <b>acceptance emails will be delayed to Dec 7th.</b> Thank you for your patience.
+</center>
+
 <hr>
 
 ## Have something to share? Submit your proposal [here](https://www.papercall.io/cfps/709/submissions/new)!
