@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Skypilot: Delivering amazing game experiences through containerized pipelines"
 Type = "talk"
+slideshare = "https://www.slideshare.net/Docker/activisions-skypilot-delivering-amazing-game-experiences-through-containerized-pipelines-thomas-shaw-activision"
 Speakers = ["thomas-shaw"]
 +++
 

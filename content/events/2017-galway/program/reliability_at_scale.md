@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Reliability at Scale"
 Type = "talk"
+slideshare = "https://www.slideshare.net/praveenshukla6/reliability-at-scale-82220023"
 Speakers = ["praveen-kumar", "sankalp-singh"]
 +++
 
