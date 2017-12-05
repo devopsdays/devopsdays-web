@@ -101,6 +101,8 @@ sponsors:
     level: silver
   - id: flatiron-health
     level: bronze
+  - id: dbmaestro
+    level: bronze
   - id: arresteddevops
     level: community
 
