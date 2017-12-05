@@ -6,7 +6,7 @@ Title = "The Wonderful Things You Can Do With Linux's Kernel Tracing"
 Type = "talk"
 Speakers = ["william-stewart"]
 slides = "http://www.zoidbergwill.com/presentations/2017/devopsdays2017-ebpf/index.pdf"
-youtube = "https://www.youtube.com/watch?v=SJV6VNbMHLM"
+youtube = "SJV6VNbMHLM"
 +++
 
 Berkley Packet Filters (BPF) started out as the language used for
