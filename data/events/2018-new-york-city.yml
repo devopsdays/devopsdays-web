@@ -93,6 +93,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: mongodb
+    level: gold
   - id: thoughtworks-gocd
     level: silver
   - id: portworx
