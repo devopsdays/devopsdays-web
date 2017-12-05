@@ -26,8 +26,8 @@ event_slug=$year-$city_slug
 
 # Get start and end dates
 
-day1=$(grep startdate ../data/events/$event_slug.yml | cut -f 2 -d " ")
-day2=$(grep enddate ../data/events/$event_slug.yml | cut -f 2 -d " ")
+day1=$(grep -h startdate ../data/events/$event_slug.yml | awk '{ print $2 }' )
+day2=$(grep -h enddate ../data/events/$event_slug.yml | awk '{ print $2 }' )
 
 if [[ $day1 == '' ]]
   then
