@@ -7,6 +7,7 @@ Type = "talk"
 Speakers = ["christian-witts"]
 slideshare = "https://www.slideshare.net/ChristianWitts/the-cap-theorem-of-humans"
 speakerdeck = "https://speakerdeck.com/christianwitts/the-cap-theorem-of-humans"
+youtube = "7fgOlAnZ0hk"
 +++
 
 No distributed system is safe from failures, and neither is your organisation. Is it possible to extend the CAP theorem to people and gain a Consistent, Available, and Partition Tolerant workforce in the face of disparate levels of leadership, anachronisms, and a million priorities ?
