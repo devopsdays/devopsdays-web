@@ -95,6 +95,8 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
+  - id: portworx
+    level: silver
   - id: flatiron-health
     level: bronze
   - id: arresteddevops
@@ -115,7 +117,7 @@ sponsor_levels:
     max: 5
   - id: silver
     label: Silver
-    max: 1 # This is the same as omitting the max limit.
+    max: 2 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
     max: 1
