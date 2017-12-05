@@ -6,6 +6,7 @@ Title = "Deploying Production ready Kubernetes clusters - Lessons Learnt"
 Type = "talk"
 Speakers = ["rahul-mahale"]
 speakerdeck = "https://speakerdeck.com/rahulmahale/deploying-production-ready-kubernetes-clusters-lessons-learnt-1"
+youtube = "https://www.youtube.com/watch?v=xlYvWwdjXNE"
 +++
 
 Kubernetes has proved itself as a Production grade container orchestration tool as almost 71% companies in container world use it as a container orchestration tool.

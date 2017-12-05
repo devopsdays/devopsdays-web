@@ -6,6 +6,7 @@ Title = "Security for Everyone"
 Type = "talk"
 Speakers = ["storm-joubert"]
 speakerdeck = "https://speakerdeck.com/storm/security-for-everyone"
+youtube = "https://www.youtube.com/watch?v=iVO8LEQbcB8"
 +++
 
 Digital security can be a really intimidating topic when you're new, and even when you have some experience it still seems like more effort than it's worth.
