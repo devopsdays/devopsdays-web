@@ -15,6 +15,10 @@ O DevOpsDays Brasília aconteceu em área central da Capital Federal em 07 e 08 
 
 O evento foi realizado no Centro de Convenções do Hotel Grand Mercure - além de ser um local bonito e elegante, está muito bem localizado possuindo inúmeras facilidades em seu entorno como bancos, shoppings, restaurantes e belas atrações turísticas (exemplo: Torre de TV, feira de artesanato, Clube do Choro, Planetário de Brasília, Centro Cultural Funarte, Estádio Nacional Mané Garrinha).
 
+### Abertura
+
+{{< youtube id="LmmFEuNzPVk" autoplay="false" >}}
+
 ## Benefícios aos paticipantes
 
 Como itens de conveniência aos participantes em geral proporcionamos alguns benefícios interessantes, como: camiseta e adesivo do evento, coffee-break (manhã e tarde nos dois dias), máquina multi-bebidas (o dia inteiro nos dois dias com café expresso, capuccino, chocolate, leite, chás), internet (este deu bastante trabalho para o prestador de serviço <i class="fa fa-frown-o" aria-hidden="true"></i>).
@@ -104,25 +108,31 @@ Agradecimento adicional precisamos manisfestar à ***Instruct***, cujo apoio em 
 
 Da quase uma centena de propostas de palestras recebidas, foram selecionadas algumas! Considerando o espírito de colaboração que fundamenta o DevOps nós buscamos opinião de todos e colocamos uma pesquisa que também orientou a seleção das propostas. A lista a seguir representa a compilação de tudo isto.
 
+* <i class="fa fa-file-pdf-o" aria-hidden="true"></i><small>: slides disponíveis</small> | <i class="fa fa-file-video-o" aria-hidden="true"></i><small>: vídeo disponível</small>
+
 |  Palestrante | Palestra  |  Palestrante | Palestra  |
 |---|---|---|---|
 |   |   |   |   |
-| **Adrian Goins** (Rancher) | *Distributed Storage with Rancher-NFS and Syncthing* | **Ana Schwendler** (Data Science Brigade) | *DevOps & Ciência de Dados: Operação Serenata de Amor* |
-| **Bruno Dantas** | *DevSecOps: Adotando uma cultura de segurança ágil* | **Cristiano Gomes** (Microsoft) | *Cloud DevOps Mobile* |
-| **Diego Dorgam** (Rocket.Chat) | *ChatBots com Linguagem Natural OpenSource com Rocket.Chat* | **Fábio Kaiser Rauber** | *Docker, Rancher e a Hospedagem de Produtos Interlegis* |
-| **Fernando Boaglio** (Keyrus Digital) | *Jenkins por dentro e por fora* | **Fernando Ike** | *Blameless: A culpa não é sua* |
-| **Gustavo Luszczynski** (Red Hat) | *Desenvolvimento Ágil de Aplicações utilizando o OpenShift* | **Guto Carvalho** (Instruct) | *DevOps State of Union 2017* |
-| **Igor Souza** | *“You build it, you run it” - Mantendo sua infraestrutura como parte da aplicação!* | **Jairo da Silva Junior** (Red Hat) | *Testes de Infraestrutura na Prática* |
-| **Jonathan Dias Baraldi** (BRCloud) | *DevOps com Kubernetes* | **Lucas Moreira Rodrigues Costa** (Globo.com) | *A arquitetura de monitoramento da plataforma de vídeos da Globo.com* |
-| **Luiz Henrique de Souza** (Movida) | *Automação de processos em empresas tradicionais* | **Marcos Macedo** | *Fazendo entregas contínuas no governo federal* |
-| **Mateus Prado** | *DevOps Behind The Scenes* | **Misael da Silva Santos** (SERPRO) | *Pipelines Turbinadas: Impulsionando a cultura DevOps com Contêineres, Qualidade e Segurança na nuvem* |
+| **Adrian Goins** (Rancher) | *Distributed Storage with Rancher-NFS and Syncthing* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> | **Ana Schwendler** (Data Science Brigade) | *DevOps & Ciência de Dados: Operação Serenata de Amor* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
+| **Bruno Dantas** | *DevSecOps: Adotando uma cultura de segurança ágil* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> | **Cristiano Gomes** (Microsoft) | *Cloud DevOps Mobile* |
+| **Diego Dorgam** (Rocket.Chat) | *ChatBots com Linguagem Natural OpenSource com Rocket.Chat* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> | **Fábio Kaiser Rauber** | *Docker, Rancher e a Hospedagem de Produtos Interlegis* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
+| **Fernando Boaglio** (Keyrus Digital) | *Jenkins por dentro e por fora* | **Fernando Ike** | *Blameless: A culpa não é sua* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
+| **Gustavo Luszczynski** (Red Hat) | *Desenvolvimento Ágil de Aplicações utilizando o OpenShift* | **Guto Carvalho** (Instruct) | *DevOps State of Union 2017* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
+| **Igor Souza** | *“You build it, you run it” - Mantendo sua infraestrutura como parte da aplicação!* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> | **Jairo da Silva Junior** (Red Hat) | *Testes de Infraestrutura na Prática* |
+| **Jonathan Dias Baraldi** (BRCloud) | *DevOps com Kubernetes* | **Lucas Moreira Rodrigues Costa** (Globo.com) | *A arquitetura de monitoramento da plataforma de vídeos da Globo.com* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
+| **Luiz Henrique de Souza** (Movida) | *Automação de processos em empresas tradicionais* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> | **Marcos Macedo** | *Fazendo entregas contínuas no governo federal* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
+| **Mateus Prado** | *DevOps Behind The Scenes* | **Misael da Silva Santos** (SERPRO) | *Pipelines Turbinadas: Impulsionando a cultura DevOps com Contêineres, Qualidade e Segurança na nuvem* <i class="fa fa-file-pdf-o" aria-hidden="true"></i> <i class="fa fa-file-video-o" aria-hidden="true"></i> |
 | **Rafael Benevides** (Red Hat) | *Kubernetes for Docker users* | **Vinícius de Faria Silva** (Ministério do Planejamento) | *Uso de nuvens públicas pelo setor público: como evitar o aprisionamento nos provedores de serviços de nuvem?* |
 
 Os slides das apresentações feitas estão disponíveis e podem ser obtidos acessando o programa de palestras e workshops que conterá os respectivos links.
 
-## Os vídeos
+## Os slides e os vídeos
 
-em breve...
+Na nossa [programação <i class="fa fa-external-link" aria-hidden="true"></i>](http://devopsdays.bsb.br/about/programa), você poderá acessar a lista de palestras e ter acesso aos respectivos *slides* e aos vídeos.
+
+O registro de vídeos foram disponibilizados em canal da comunidade DevOps-DF no Youtube.
+
+Então, assista lá à *Playlist* [**DevOpsDays Brasília 2017** <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.youtube.com/playlist?list=PL2g7rY-X5UZ_qRPlp7jBVitIWrOx8m-iU) e dê um "joinha (*like*)" naquelas palestras que mais gostarem.
 
 ## Oficinas, Workshops, Openspaces
 
