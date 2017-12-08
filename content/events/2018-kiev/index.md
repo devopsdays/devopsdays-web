@@ -5,9 +5,10 @@ aliases = ["/events/2018-kiev/welcome"]
 Description = "devopsdays Kiev 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+  <p></p>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +82,4 @@ Description = "devopsdays Kiev 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
