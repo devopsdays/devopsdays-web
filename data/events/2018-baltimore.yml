@@ -1,39 +1,39 @@
-name: "2018-baltimore" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2018" # The year of the event. Make sure it is in quotes.
-city: "Baltimore" # The displayed city name of the event. Capitalize it.
-event_twitter: "DevOpsDaysBmore" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+name: "2018-baltimore" 
+year: "2018" 
+city: "Baltimore" 
+event_twitter: "DevOpsDaysBmore" 
 description: "Devopsdays is coming to Baltimore!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-03-21 
+enddate: 2018-03-22 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-12-04 # start accepting talk proposals.
+cfp_date_end: 2018-01-07 # close your call for proposals.
+cfp_date_announce: 2018-01-15 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://devopsdaysbaltimore2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-12-04 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-03-23 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysbaltimore2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "39.286400, -76.605606" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Baltimore" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -117,13 +117,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: media
+    label: Media
   - id: community
     label: Community
