@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Vulnerability Testing in the Cloud by dint of DevSecOps"
 Type = "talk"
 Speakers = ["owen-byrne"]
-Slides = "https://www.slideshare.net/OwenByrne1/vulnerability-testing-in-the-cloud-by-dint-of-devsecops-82504056"
+Slideshare = "https://www.slideshare.net/OwenByrne1/vulnerability-testing-in-the-cloud-by-dint-of-devsecops-82504056"
 +++
 
 <p>Developers want speed. Customers want features. Security teams want time.</p>
