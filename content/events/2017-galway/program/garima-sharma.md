@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Deploy: Train, Driver and Tracks"
 Type = "talk"
 Speakers = ["garima-sharma"]
-Slides = "https://speakerdeck.com/gasharma/deploy-train-driver-and-tracks"
+Speakerdeck = "https://speakerdeck.com/gasharma/deploy-train-driver-and-tracks"
 +++
 
 <p>Platform as a Service (PaaS) allows customers to develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app. Operating a service which holds these complexities in itself can become challenging.  We need to answer a lot of questions beforehand like, how we decide when to deploy what? How and what to monitor for these huge and complex components? When shall we get paged? Why not  staging environments? and many more.</p>
