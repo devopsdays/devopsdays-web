@@ -4,47 +4,204 @@ Type = "event"
 Description = "Sponsor devopsdays Baltimore 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. 
 
-<hr>
+The following chart outlines our sponsorship packages. If you have questions or are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+[Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)
+
+<style>
+  table.sponsorship            { border-collapse: collapse; }
+  table.sponsorship td         { text-align: left; border: 1px solid #000; padding: 3px; }
+  table.sponsorship tr.hed1 td { border-bottom: 0px; }
+  table.sponsorship tr.hed2 td { border-top: 0px; }
+  table.sponsorship td.yes     { background-color: #888; }
+</style>
+<table class="sponsorship">
+<tbody>
+<tr class="hed1">
+<td><strong>Packages</strong></td>
+<td><strong>Community</strong></td>
+<td><strong>Media</strong></td>
+<td><strong>Silver</strong></td>
+<td><strong>Gold</strong></td>
+<td><strong>Platinum</strong></td>
+<td><strong>Happy Hour</strong></td>
+</tr>
+<tr class="hed2">
+<td></td>
+<td><strong>$0 USD</strong></td>
+<td><strong>$0 USD</strong></td>
+<td><strong>$1,000 USD</strong></td>
+<td><strong>$3,000 USD</strong></td>
+<td><strong>$5,000 USD</strong></td>
+<td><strong>$5,000 USD</strong></td>
+</tr>
+<tr>
+<td>1 included ticket</td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>Logo on shared slide, rotating during breaks</td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>Logo on DevOpsDays Baltimore 2018 event website</td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>Logo on all email communication</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>1 minute pitch to full audience (including streaming audience)</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>1 additional ticket (2 in total)</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+</tr>
+<tr>
+<td>2 additional tickets (3 in total)</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+</tr>
+<tr>
+<td>4 additional tickets (5 in total)</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>1/2 table for swag</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+</tr>
+<tr>
+<td>Dedicated table for swag</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+</tr>
+</tbody>
+</table>
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
+<hr/>
+### Happy Hour - $5,000    
+
+Happy Hour will be held on Wednesday, March 21 from 4:30PM to 7:30PM.  Conference
+attendees will be invited to stick around for happy hour.  Additionally, we will
+invite other members of the Baltimore technical community to join us, space
+permitting.  The Happy Hour sponsorship includes some special perks not listed in the table above.  
+
+* 5 included tickets
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2018 event website
+* Logo on all email communication
+* Shared table for swag during the conference
+* Dedicated table for swag during the happy hour
+* 1 minute pitch to full audience, including streaming audience, during the conference
+* 5 minute pitch to the happy hour attendees
+
+### Silver - $1,000 
+
+* 2 included tickets
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2018 event website
+
+### Gold - $3,000 
+
+* All benefits of Silver sponsors
+* Logo on all email communication
+* 1 additional ticket, 3 in total
+* Shared table for swag
+
+### Platinum - $5,000 
+
+* All benefits of Gold sponsors
+* 1 minute pitch to full audience, including streaming audience
+* 2 additional tickets, 5 in total
+* Dedicated table for swag
+
+### Media - $0 
+
+The media sponsorship is ideal for podcasts, blogs, news outlets, and other
+media who support DevOps.  This sponsorship is free but we ask that you share
+information about DevOpsDays Baltimore with your audience in order to become a
+Community Sponsor.
+
+* 1 ticket
+* 10% discount code to share with your audience
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2018 event website
+* Please contact {{< email_organizers >}} for details about becoming a media sponsor.
+
+### Community - $0 
+
+The community sponsorship is ideal for local meetups, co-working spaces, and
+other communities who support DevOps.  This sponsorship is free but we ask that
+you share information about DevOpsDays Baltimore with your members in order to
+become a Community Sponsor.
+
+* 1 ticket
+* 10% discount code to share with your members
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays Baltimore 2018 event website
+* Please contact {{< email_organizers >}} for details about becoming a community
+sponsor.
+
+[Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)
 
 <!--
 <hr/>
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
-<br>
-<br>
 <table border=1 cellspacing=1>
   <tr>
     <th><i>Sponsor FAQ</i></th>
