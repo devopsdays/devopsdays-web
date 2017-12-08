@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Single Pane View of your complete DevOps Process"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/rosscoll/devopsdayssinglepaneview"
 Speakers = ["ross-coll"]
 +++
 

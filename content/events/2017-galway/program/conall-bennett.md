@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Thunderstruck by Serverless"
 Type = "talk"
+slideshare = "https://www.slideshare.net/devopsdaysgalway/thunderstruck-by-serverless"
 Speakers = ["conall-bennett"]
 +++
 

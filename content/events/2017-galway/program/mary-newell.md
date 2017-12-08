@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Dragging the Dinosaur into the 21st Century - One Team’s Journey to DevOps"
 Type = "talk"
+slideshare = "https://www.slideshare.net/devopsdaysgalway/dragging-the-dinosaur-into-the-21-century"
 Speakers = ["mary-newell"]
 +++
 
