@@ -50,6 +50,7 @@ team_members: # Name is the only required field for team members.
     employer: "Provectus"
     twitter: ""
     bio: ""
+    image: "diana-tereshchenko.jpg"
 
   - name: "Dmitry Gutsalenko"
     employer: "RingCentral"
