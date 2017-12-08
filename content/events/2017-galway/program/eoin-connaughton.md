@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Operations driven Continuous Delivery Pipeline"
 Type = "talk"
 Speakers = ["eoin-connaughton"]
-Slideshare = "https://www.slideshare.net/secret/pg0etQu7E9tbqp"
+Slides = "https://www.slideshare.net/secret/pg0etQu7E9tbqp"
 +++
 
 <p>One of my first memories from my DevOps journey, was hearing the statement ""DevOps is primarily a mind-set"". Coming from an Operations focused background, at the time I didn't fully understand the significance of this statement. </p>
