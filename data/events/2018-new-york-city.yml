@@ -201,7 +201,7 @@ program:
     date: "2018-01-18"
     start_time: "15:45"
     end_time: "16:30"
-  - title: "Closing Talk"
+  - title: "Closing Talk (TBA)"
     type: custom
     date: "2018-01-18"
     start_time: "16:30"
@@ -286,7 +286,7 @@ program:
     date: "2018-01-19"
     start_time: "15:45"
     end_time: "16:30"
-  - title: "Closing Talk"
+  - title: "Closing Talk (TBA)"
     type: custom
     date: "2018-01-19"
     start_time: "16:30"
