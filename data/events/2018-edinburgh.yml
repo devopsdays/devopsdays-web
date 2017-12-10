@@ -46,7 +46,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-team_members: # Name is the only required field for team members.
   - name: "Nick Goodall"
     employer: "Adobe"
     bio: "Engineering Manager at Adobe with responsibility for Adobe Edinburgh devops team. Been involved in network technologies since 1986 and currently interested in consumer based IoT."
@@ -75,7 +74,17 @@ team_members: # Name is the only required field for team members.
     twitter: kevinhcross
   - name: Mihaela 'Micky' Drumeva
     bio: "Development Operations engineer at SolarWinds working on programmable production infrastructure. Passionate about all things automation - provisioning infrastructure, deployment, verification."
-     
+  - name: "Paul Gillespie"
+    employer: "Skyscanner"
+    bio: "I am the Developer Enablement tribe lead at Skyscanner where I help guide a number of cross functional teams who work on enabling the product engineering organisation to design, develop and operate their services at scale across multiple AWS regions and data centers. Over the past 20 years I have worked in a diverse range of industries from power utilities, to mobile gaming (remember WAP?) to travel meta search. Early in my career I realized that I hated error prone, manual processes and decide that the world would be a better place with just a little bit more automation and more diverse teams. My interest include automation, distributed computing, micro-services, cloud computing, Web scale infrastructure, system architecture and blasting through the Scottish countryside on my bike!"
+    image: "paul.jpg"
+    twitter: "@bigpg"
+  - name: "Percy Perez"
+    employer: "St-Andrews University"
+    bio: "PhD student working at the School of Computer Science in how to apply Name Based Networking protocol (NDN) to decentralised mobile architectures such as Android and Linux based Mobile Adhoc Networks. Interested in automation and continuous delivery through software development and infrastructure optimization. Motivated by previous industrial experiences in Telecoms, mobile gaming companies and APAC investment banking systems."
+    image: "percy.png"
+    twitter: "@percyperezd"
+
 
 organizer_email: "organizers-edinburgh-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2018@devopsdays.org" # Put your proposal email address here
