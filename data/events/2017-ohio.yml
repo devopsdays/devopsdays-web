@@ -17,19 +17,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: "location/parking"
     url: "/events/2017-ohio/location"
-  - name: register
-    url: "https://devopsdaysohio2017.eventbrite.com/"
 
 team_members: # Name is the only required field for team members.
-#  - name: "---"
-#    employer: "---"
-#    bio: "---"
-#    twitter: "---"
-#    linkedin: "---"
-#    facebook: "---"
-#    website: "---"
-#    github: "---"
-#    image: "---"
   - name: "Andy Dyrcz"
     employer: "Express"
     bio: "Proud Member of Pipegreppers Union Local 614"
