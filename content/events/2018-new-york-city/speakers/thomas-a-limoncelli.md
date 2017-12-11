@@ -1,7 +1,7 @@
 +++
 Title = "Thomas A. Limoncelli"
 Twitter = "YesThatTom"
-image = ""
+image = "tom-limoncelli.jpg"
 type = "speaker"
 linktitle = "thomas-a-limoncelli"
 

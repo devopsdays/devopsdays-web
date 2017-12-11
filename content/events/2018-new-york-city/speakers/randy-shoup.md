@@ -1,7 +1,7 @@
 +++
 Title = "Randy Shoup"
 Twitter = "randyshoup"
-image = ""
+image = "randy-shoup.jpg"
 type = "speaker"
 linktitle = "randy-shoup"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Aaron Aldrich"
 Twitter = "crayzeigh"
-image = ""
+image = "aaron-aldrich.jpg"
 type = "speaker"
 linktitle = "aaron-aldrich"
 

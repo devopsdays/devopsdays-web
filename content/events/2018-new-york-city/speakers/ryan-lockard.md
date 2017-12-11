@@ -1,7 +1,7 @@
 +++
 Title = "Ryan Lockard"
 Twitter = "AgilePHL"
-image = ""
+image = "ryan-lockard.png"
 type = "speaker"
 linktitle = "ryan-lockard"
 

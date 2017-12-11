@@ -1,7 +1,6 @@
 +++
 Title = "Adam Mckaig"
 Twitter = ""
-image = ""
 type = "speaker"
 linktitle = "adam-mckaig"
 

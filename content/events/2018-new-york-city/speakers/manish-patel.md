@@ -1,7 +1,5 @@
 +++
 Title = "Manish Patel"
-Twitter = "devopsvz"
-image = ""
 type = "speaker"
 linktitle = "manish-patel"
 
