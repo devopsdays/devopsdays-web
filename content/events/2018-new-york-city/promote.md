@@ -12,7 +12,7 @@ aliases = ["/events/2018-new-york-city/ecard"]
 <p>
 Please help us promote the event on social media by using the Twitter handle
 <a href="https://twitter.com/devopsdaysnyc">@DevOpsDaysNYC</a>
-and and hashtag
+and hashtag
 <a href="https://twitter.com/search?q=%23DevOpsDaysNYC">#DevOpsDaysNYC</a>
 when sharing info about the event.
 </p>
