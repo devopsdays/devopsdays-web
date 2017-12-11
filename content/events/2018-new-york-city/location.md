@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays New York City 2017"
+Description = "Location for devopsdays New York City 2018"
 +++
 
 Microsoft Technology Center
