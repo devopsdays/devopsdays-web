@@ -161,8 +161,8 @@ program:
     date: "2018-01-18"
     start_time: "11:00"
     end_time: "11:15"
-  - title: "(to be announced)"
-    type: custom
+  - title: "liz-fongjones"
+    type: talk
     date: "2018-01-18"
     start_time: "11:15"
     end_time: "11:45"
