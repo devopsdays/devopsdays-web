@@ -17,8 +17,8 @@ cfp_date_announce: 2018-02-15 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysdesmoines"
 
-registration_date_start: 2017-12-01# start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-04-01# close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-12-01 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-04-01 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-des-moines-tickets-39855883019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
