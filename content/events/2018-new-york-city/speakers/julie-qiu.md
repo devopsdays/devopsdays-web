@@ -1,7 +1,7 @@
 +++
 Title = "Julie Qiu"
 Twitter = "jqiu25"
-image = ""
+image = "julie-qiu.jpg"
 type = "speaker"
 linktitle = "julie-qiu"
 

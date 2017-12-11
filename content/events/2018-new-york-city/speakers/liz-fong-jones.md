@@ -1,9 +1,9 @@
 +++
 Title = "Liz Fong-Jones"
 Twitter = ""
-image = ""
+image = "liz-fong-jones.jpg"
 type = "speaker"
-linktitle = "liz-fongjones"
+linktitle = "liz-fong-jones"
 
 +++
 

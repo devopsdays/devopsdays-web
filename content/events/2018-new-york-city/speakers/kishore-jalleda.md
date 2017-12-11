@@ -1,7 +1,7 @@
 +++
 Title = "Kishore Jalleda"
 Twitter = "KishoreJalleda"
-image = ""
+image = "kishore-jalleda.jpg"
 type = "speaker"
 linktitle = "kishore-jalleda"
 
