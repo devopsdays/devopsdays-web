@@ -153,8 +153,8 @@ program:
     date: "2018-01-18"
     start_time: "10:00"
     end_time: "10:30"
-  - title: "(to be announced)"
-    type: custom
+  - title: "bridget-kromhout"
+    type: talk
     date: "2018-01-18"
     start_time: "10:30"
     end_time: "11:00"
