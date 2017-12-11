@@ -32,7 +32,8 @@ location_address: 11 Times Square
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
-  - name: propose
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -131,3 +132,169 @@ sponsor_levels:
   - id: community
     label: Community
     max: 1
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2018-01-18"
+    start_time: "08:00"
+    end_time: "09:30"
+  - title: "Conference Open & Welcome"
+    type: custom
+    date: "2018-01-18"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Keynote (TBA)"
+    type: custom
+    date: "2018-01-18"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "thomas-a-limoncelli"
+    type: talk
+    date: "2018-01-18"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "bridget-kromhout"
+    type: talk
+    date: "2018-01-18"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: "2018-01-18"
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "liz-fongjones"
+    type: talk
+    date: "2018-01-18"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "manish-patel"
+    type: talk
+    date: "2018-01-18"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-01-18"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: custom
+    date: "2018-01-18"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-01-18"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-01-18"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-01-18"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-01-18"
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Closing Talk (TBA)"
+    type: custom
+    date: "2018-01-18"
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: "2018-01-18"
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening event (TBA)"
+    type: custom
+    date: "2018-01-18"
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2018-01-19"
+    start_time: "08:00"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: "2018-01-19"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Keynote (TBA)"
+    type: custom
+    date: "2018-01-19"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "(to be announced)"
+    type: custom
+    date: "2018-01-19"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "peter-varhol"
+    type: talk
+    date: "2018-01-19"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: "2018-01-19"
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "julie-qiu"
+    type: talk
+    date: "2018-01-19"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "randy-shoup"
+    type: talk
+    date: "2018-01-19"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-01-19"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: custom
+    date: "2018-01-19"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-01-19"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-01-19"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-01-19"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-01-19"
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Closing Talk (TBA)"
+    type: custom
+    date: "2018-01-19"
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Conference Close"
+    type: custom
+    date: "2018-01-19"
+    start_time: "17:15"
+    end_time: "17:30"
