@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Stealing the Best Ideas from DevOps: Applying DevOps outside of SDLC"
+Title = "Stealing the Best Ideas from DevOps (Closing Talk)"
 Type = "talk"
 Speakers = ["thomas-a-limoncelli"]
 +++
