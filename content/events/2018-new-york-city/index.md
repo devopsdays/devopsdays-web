@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays New York City 2017"
+Title = "devopsdays New York City 2018"
 Type = "welcome"
 aliases = ["/events/2017-new-york-city/welcome"]
-Description = "devopsdays New York City 2017"
+Description = "devopsdays New York City 2018"
 +++
 
 <!-- <div style="text-align:center;">

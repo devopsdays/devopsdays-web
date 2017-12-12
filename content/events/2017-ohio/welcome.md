@@ -14,11 +14,31 @@ Description = "devopsdays Ohio 2017"
 <div class="col-md-9" style="margin-bottom: 20px;">
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-DevOps Days will be coming back to Columbus, Ohio in 2017!
+Thank you attendees and sponsors for making devopsdays Ohio 2017 a successful and wonderful part of the community!
+We will be coming back in 2018, so stay tuned for more info.
 
-More information on the event will be coming soon.
-In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program</a> and
-<a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg" target="_blank">Videos</a>.
+In the mean time, we now have the videos ready from 2017, so enjoy!
+
+<ul>
+	<li><a href='https://youtu.be/3rzrbmzJAMY'>One Woman's Experience as the Software Industry Evolved</a></li>
+    <li><a href='https://youtu.be/AgfXDbhsqVI'>Nationwide's DevOps Journey to Accelerated Delivery</a></li>
+    <li><a href='https://youtu.be/WvAjofQgV3o'>The MacGyver Mindset for Mastering Problem Solving</a></li>
+    <li><a href='https://youtu.be/RIEJe2eqN4I'>Role of Team structures in DevOps Transformation Journey</a></li>
+    <li><a href='https://youtu.be/lBl-YDUbe94'>How to Make Remote Work Work</a></li>
+    <li><a href='https://youtu.be/pAxGDqH_J_s'>The Most Productive Meeting in the World</a></li>
+    <li><a href='https://youtu.be/ErXaBoaK8Ok'>Change Management for Humans</a></li>
+    <li><a href='https://youtu.be/N3VDeo8zrlw'>Open spaces introduction, collection and voting</a></li>
+    <li><a href='https://youtu.be/ZU033WskOSo'>The DevOps Abides</a></li>
+    <li><a href='https://youtu.be/PYF1A2I3KRM'>Where are all the Chefs?</a></li>
+    <li><a href='https://youtu.be/_8b9x44G2p8'>Business Agility requires DevOps</a></li>
+    <li><a href='https://youtu.be/OQzpMKdQLjo'>Scrutinizing the Scrutiny</a></li>
+    <li><a href='https://youtu.be/nOn_tJyG5RE'>The Importance of Now</a></li>
+    <li><a href='https://youtu.be/U2-PzeiQEaE'>DevOps for Tweens</a></li>
+    <li><a href='https://youtu.be/FI1JcD340B0'>Dockerize Your Build Toolchain</a></li>
+    <li><a href='https://youtu.be/UtZsxfppNWM'>Ignite Karaoke</a></li>
+    <li><a href='https://youtu.be/dHcX49tRi9Y'>Open spaces introduction, collection and voting</a></li>
+</ul>
+
 
 </div>
 <div class="col-md-3">
@@ -44,42 +64,6 @@ In the mean time, check out the 2016 <a href="/events/2016-ohio/program">Program
     {{< event_location >}}
   </div>
 </div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-	<a href="https://devopsdaysohio2017.eventbrite.com/">Register to attend the conference!</a>
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
 
 <div class = "row">
   <div class = "col-md-2">

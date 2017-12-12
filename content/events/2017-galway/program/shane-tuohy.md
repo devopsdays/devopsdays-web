@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Enhanced Media Metrics"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/shanetuohy/enhanced-media-metrics"
 Speakers = ["shane-tuohy"]
 +++
 

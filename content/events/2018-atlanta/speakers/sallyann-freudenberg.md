@@ -1,9 +1,9 @@
 +++
 Title = "Dr. Sallyann Freudenberg"
 Twitter = "SalFreudenberg"
-image = "Sallyann-Freudenberg.png"
+image = "sallyann-freudenberg.png"
 type = "speaker"
-linktitle = "dr-sallyann-freudenberg"
+linktitle = "sallyann-freudenberg"
 
 +++
 Dr. Sallyann Freudenberg is an agile consultant and trainer who assists companies in transitioning to more nimble, customer-centric and human(e) ways of working. She holds a PhD in the Psychology of Collaborative Software Development and since parenting an autistic son has developed an interest in neuro-diversity.  

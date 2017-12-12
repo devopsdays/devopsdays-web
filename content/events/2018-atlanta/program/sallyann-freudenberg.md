@@ -1,11 +1,10 @@
 +++
-date = "2018-10-31"
 Talk_date = ""
 Talk_start_time = "9:15"
 Talk_end_time = "9:45"
 Title = "Inclusive Collaboration & Neuro-Diversity"
 Type = "talk"
-Speakers = ["dr-sallyann-freudenberg"]
+Speakers = ["sallyann-freudenberg"]
 +++
 In our work transforming our organisations, sometimes as an industry we appear to have forgotten that teams are still made up of individuals. That there is an “I” in team after all. That we are different to one another. That sometimes we need to work in different ways or different environments to each another.
 
