@@ -14,13 +14,14 @@ SEDCMD(){
   fi
 }
 
+default_year=$(date +"%Y")
 if [[ ! -z $DOD_YEAR ]] ; then
   year="$DOD_YEAR"
 else
   # We assume the current year (and also assume bash 3, because macs)
-  read -p "Enter your event year (default: $(date +"%Y")): " year
-  [ -z "${year}" ] && year='2018'
+  read -p "Enter your event year (default: $default_year): " year
 fi
+[ -z "${year}" ] && year="$default_year"
 
 if [[ ! -z $DOD_CITY ]] ; then
   city=$DOD_LUG_CITY
