@@ -4,6 +4,7 @@ Twitter = ""
 type = "speaker"
 linktitle = "adam-mckaig"
 Github = "adammck"
+Pronouns = ""
 
 +++
 
