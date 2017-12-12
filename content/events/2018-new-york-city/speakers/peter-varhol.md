@@ -4,6 +4,10 @@ Twitter = "pvarhol"
 image = "peter-varhol.jpg"
 type = "speaker"
 linktitle = "peter-varhol"
+Website = "https://pvarhol.wordpress.com/"
+Linkedin = "https://www.linkedin.com/in/peter-varhol-3ba6b7/"
+Pronouns = "he/him"
+Type = "speaker"
 
 +++
 
