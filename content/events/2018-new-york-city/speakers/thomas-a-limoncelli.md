@@ -4,6 +4,8 @@ Twitter = "YesThatTom"
 image = "tom-limoncelli.jpg"
 type = "speaker"
 linktitle = "thomas-a-limoncelli"
+Website = "http://everythingsysadmin.com"
+Pronouns = "he/him"
 
 +++
 
