@@ -99,6 +99,8 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
+  - id: puppet
+    level: gold
   - id: thoughtworks-gocd
     level: silver
   - id: portworx
