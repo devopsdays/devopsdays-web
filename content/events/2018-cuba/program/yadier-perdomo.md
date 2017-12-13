@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Talk By Yadier Perdomo"
+Title = ""
 Type = "talk"
 Speakers = ["yadier-perdomo"]
 Youtube = ""
