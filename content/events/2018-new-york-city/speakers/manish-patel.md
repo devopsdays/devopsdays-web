@@ -2,6 +2,7 @@
 Title = "Manish Patel"
 type = "speaker"
 linktitle = "manish-patel"
+image = "manish-patel.jpg"
 
 +++
 

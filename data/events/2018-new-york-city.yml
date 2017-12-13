@@ -235,8 +235,8 @@ program:
     date: "2018-01-19"
     start_time: "09:15"
     end_time: "10:00"
-  - title: "(to be announced)"
-    type: custom
+  - title: "heidi-waterhouse"
+    type: talk
     date: "2018-01-19"
     start_time: "10:00"
     end_time: "10:30"
