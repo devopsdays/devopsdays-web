@@ -7,9 +7,8 @@ Type = "talk"
 Speakers = ["rudy-gevaert"]
 Youtube = ""
 Vimeo = ""
-Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-devops-pitfalls"
+Speakerdeck = ""
 Slideshare = ""
 Slides = ""
 +++
 
-A story on how we failed to implement devops but saved our team from self destruction
