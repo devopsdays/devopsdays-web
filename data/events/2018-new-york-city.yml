@@ -99,6 +99,8 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
+  - id: puppet
+    level: gold
   - id: thoughtworks-gocd
     level: silver
   - id: portworx
@@ -143,12 +145,12 @@ program:
     date: "2018-01-18"
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote (TBA)"
-    type: custom
+  - title: "john-willis"
+    type: talk
     date: "2018-01-18"
     start_time: "09:15"
     end_time: "10:00"
-  - title: "thomas-a-limoncelli"
+  - title: "kishore-jalleda"
     type: talk
     date: "2018-01-18"
     start_time: "10:00"
@@ -203,8 +205,8 @@ program:
     date: "2018-01-18"
     start_time: "15:45"
     end_time: "16:30"
-  - title: "Closing Talk (TBA)"
-    type: custom
+  - title: "thomas-a-limoncelli"
+    type: talk
     date: "2018-01-18"
     start_time: "16:30"
     end_time: "17:15"
@@ -228,13 +230,13 @@ program:
     date: "2018-01-19"
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote (TBA)"
-    type: custom
+  - title: "tanya-reilly"
+    type: talk
     date: "2018-01-19"
     start_time: "09:15"
     end_time: "10:00"
-  - title: "(to be announced)"
-    type: custom
+  - title: "heidi-waterhouse"
+    type: talk
     date: "2018-01-19"
     start_time: "10:00"
     end_time: "10:30"
@@ -288,8 +290,8 @@ program:
     date: "2018-01-19"
     start_time: "15:45"
     end_time: "16:30"
-  - title: "Closing Talk (TBA)"
-    type: custom
+  - title: "ryan-lockard"
+    type: talk
     date: "2018-01-19"
     start_time: "16:30"
     end_time: "17:15"

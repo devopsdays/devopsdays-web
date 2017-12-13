@@ -9,9 +9,9 @@ Description = "devopsdays berlin 2018"
 
 **DevOpsDays is returning to Berlin, Germany!**
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
