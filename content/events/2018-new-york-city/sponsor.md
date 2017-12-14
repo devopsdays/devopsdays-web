@@ -4,7 +4,17 @@ Type = "event"
 Description = "Sponsor devopsdays New York City 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [ {{< email_organizers subject="Sponsor devopsdays NYC" >}}].
+
+<hr>
+<hr>
+<hr>
+
+NOTE: At this time all sponsorships except <b>Lanyard Sponsorship</b> and <b>Thursday Evening Social Sponsorship</b> are sold out.
+
+<hr>
+<hr>
+<hr>
 
 <hr>
 
@@ -14,6 +24,7 @@ Gold sponsors get a full table and Silver, and Bronze, sponsors a shared table w
 <p>
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
+
 
 <div style="width:590px">
     <table border="1" cellspacing="1">
@@ -82,6 +93,14 @@ The best thing to do is send engineers to interact with the experts at devopsday
         </tr>
         </tbody>
     </table>
+
+<ul>
+<p></P>
+<p>
+<li><b>Lanyard Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $2,500.  </li>
+<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event.  This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials.  While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved.  </li>
+</ul>
+</p>
     
 <hr>There are also opportunities for exclusive special sponsorships. We’ll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:organizers-nyc-2016@devopsdays.org?subject=Sponsor devopsdays NYC">send us an email</a>.<br><br></div>
 
