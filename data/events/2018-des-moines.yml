@@ -90,6 +90,8 @@ sponsors:
     level: bronze
   - id: microsoft
     level: gold
+  - id: appdynamics
+    level: gold
   # - id: workiva
   #   level: gold
   # - id: granular
