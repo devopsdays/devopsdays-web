@@ -26,13 +26,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: program
   # - name: propose
   #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-  # - name: location
+    - name: location
   # - name: livestream
   # - name: registration
   #   url: "https://www.eventbrite.ca/e/devops-days-vancouver-2018-mar-31st-apr-1st-tickets-29634403298"
   # - name: sponsor
-  # - name: contact
-  # - name: conduct
+    - name: contact
+    - name: conduct
   # - name: policies
 
 # These are the same people you have on the mailing list and Slack channel.
