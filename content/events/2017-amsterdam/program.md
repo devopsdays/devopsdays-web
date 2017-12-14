@@ -59,7 +59,7 @@ heading = "devopsdays Amsterdam - Program"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Keynote <br />
-    <a href="/events/2017-amsterdam/program/katherine-daniels/">Katherine Daniels - Building Bridges with Effective Devops</a><br />
+    <a href="/events/2017-amsterdam/program/ryn-daniels/">Ryn Daniels - Building Bridges with Effective Devops</a><br />
     Location: Main Room
   </div>
 </div> <!-- end timeslot div -->
