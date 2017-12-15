@@ -65,7 +65,7 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>1/2 table for swag/marketing during confernce</td>
+<td>Shared table for swag/marketing during conference</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -73,7 +73,7 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td class="no"> </td>
 <td class="yes"> </td>
 </tr>
-<td>Dedicated table for swag/marketing during conference</td>
+<td>Full table for swag/marketing during conference</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -156,21 +156,20 @@ permitting.  The Happy Hour sponsorship includes some special perks not listed i
 * 2 included tickets
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2018 event website
-* Drop-off table for swag by registration
 
 ### Gold - $3,000 
 
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 3 in total
-* 1/2 table for swag/marketing/staffing
+* Shared table for swag/marketing/staffing
 
 ### Platinum - $5,000 
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
 * 2 additional tickets, 5 in total
-* Dedicated table for swag/marketing/staffing
+* Full table for swag/marketing/staffing
 
 ### Media - $0 
 
