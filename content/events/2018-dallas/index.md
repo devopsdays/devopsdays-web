@@ -8,7 +8,6 @@ Description = "devopsdays Dallas 2018"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -17,7 +16,6 @@ Description = "devopsdays Dallas 2018"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
@@ -62,7 +60,6 @@ Description = "devopsdays Dallas 2018"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -71,7 +68,6 @@ Description = "devopsdays Dallas 2018"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
@@ -80,6 +76,8 @@ Description = "devopsdays Dallas 2018"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+
+<img style="float: left; max-width: 300px; padding: 0px 20px 20px 0px" src="/events/2017-dallas/logo.png">
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
