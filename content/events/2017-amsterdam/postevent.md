@@ -26,7 +26,7 @@ Experience devopsdays Amsterdam 2017 in three minutes!
 Talk Name | Slide Link | Video Link
 ------------ | ------------ | ------------
 Kris Buytaert - 7 years of #devopsdays, 5 years in Amsterdam | | [Video on YouTube](https://www.youtube.com/watch?v=4_cqgwXfgus)
-Katherine Daniels - Building Bridges with Effective Devops | [Talk in PDF format](https://assets.devopsdays.org/events/2017/amsterdam/presentations/Katherine_Daniels-Building_Bridges_with_Effective_Devops.pdf) | [Video on YouTube](https://www.youtube.com/watch?v=nYzN9gClbEw)
+Ryn Daniels - Building Bridges with Effective Devops | [Talk in PDF format](https://assets.devopsdays.org/events/2017/amsterdam/presentations/Ryn_Daniels-Building_Bridges_with_Effective_Devops.pdf) | [Video on YouTube](https://www.youtube.com/watch?v=nYzN9gClbEw)
 Matthew Slane - Start-up Culture at Scale | [Talk in PDF format](https://assets.devopsdays.org/events/2017/amsterdam/presentations/Matthew_Slane-Start-up_Culture_at_Scale.pdf) | [Video on YouTube](https://www.youtube.com/watch?v=tFZ1K3pyLfQ)
 Ilkka Turunen - DevSecOps: Security at Devops Speed | [Talk in PDF format](https://assets.devopsdays.org/events/2017/amsterdam/presentations/Ilkka_Turunen-DevSecOps_Security_at_Devops_Speed.pdf) | [Video on YouTube](https://www.youtube.com/watch?v=GxrWr9flU3E)
 Hannah Foxwell - Resilient Systems Require Resilient People | [Talk in PDF format](https://assets.devopsdays.org/events/2017/amsterdam/presentations/Hannah_Foxwell-Resilient_Systems_Require_Resilient_People.pdf) | [Video on YouTube](https://www.youtube.com/watch?v=HjWmKnUHL20)
