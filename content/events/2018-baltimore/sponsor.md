@@ -38,15 +38,6 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td><strong>$5,000 USD</strong></td>
 </tr>
 <tr>
-<td>1 included ticket</td>
-<td class="yes"> </td>
-<td class="yes"> </td>
-<td class="yes"> </td>
-<td class="yes"> </td>
-<td class="yes"> </td>
-<td class="yes"> </td>
-</tr>
-<tr>
 <td>Logo on shared slide, rotating during breaks</td>
 <td class="yes"> </td>
 <td class="yes"> </td>
@@ -74,6 +65,23 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td class="yes"> </td>
 </tr>
 <tr>
+<td>1/2 table for swag/marketing during confernce</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+</tr>
+<td>Dedicated table for swag/marketing during conference</td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+</tr>
+<tr>
 <td>1 minute pitch to full audience (including streaming audience)</td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -83,7 +91,17 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td class="yes"> </td>
 </tr>
 <tr>
-<td>1 additional ticket (2 in total)</td>
+<tr>
+<td>1 included ticket total</td>
+<td class="yes"> </td>
+<td class="yes"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+<td class="no"> </td>
+</tr>
+<tr>
+<td>2 included tickets total</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
@@ -92,7 +110,7 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td class="no"> </td>
 </tr>
 <tr>
-<td>2 additional tickets (3 in total)</td>
+<td>3 included tickets total</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
@@ -101,31 +119,13 @@ The following chart outlines our sponsorship packages. If you have questions or 
 <td class="no"> </td>
 </tr>
 <tr>
-<td>4 additional tickets (5 in total)</td>
+<td>5 included tickets total</td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="no"> </td>
 <td class="yes"> </td>
 <td class="yes"> </td>
-</tr>
-<tr>
-<td>1/2 table for swag</td>
-<td class="no"> </td>
-<td class="no"> </td>
-<td class="yes"> </td>
-<td class="no"> </td>
-<td class="no"> </td>
-<td class="yes"> </td>
-</tr>
-<tr>
-<td>Dedicated table for swag</td>
-<td class="no"> </td>
-<td class="no"> </td>
-<td class="no"> </td>
-<td class="yes"> </td>
-<td class="yes"> </td>
-<td class="no"> </td>
 </tr>
 </tbody>
 </table>
@@ -156,20 +156,21 @@ permitting.  The Happy Hour sponsorship includes some special perks not listed i
 * 2 included tickets
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2018 event website
+* Drop-off table for swag by registration
 
 ### Gold - $3,000 
 
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 3 in total
-* Shared table for swag
+* 1/2 table for swag/marketing/staffing
 
 ### Platinum - $5,000 
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
 * 2 additional tickets, 5 in total
-* Dedicated table for swag
+* Dedicated table for swag/marketing/staffing
 
 ### Media - $0 
 
