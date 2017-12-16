@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Essential DevOps Workshop"
 Type = "talk"
 Speakers = ["mike-rosado"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-workshop-essential-devops"
+Slideshare = ""
+Slides = ""
 +++
 
 Essential DevOps is a half day interactive workshop that provides a detailed overview 

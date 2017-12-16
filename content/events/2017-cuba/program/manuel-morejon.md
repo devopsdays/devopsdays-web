@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "El valor de Docker para grupos DevOps"
 Type = "talk"
 Speakers = ["manuel-morejon"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-el-valor-de-docker-para-grupos-devops"
+Slideshare = ""
+Slides = ""
 +++
 
 Los grupos de desarrollo de software están adoptando la cultura DevOps de 

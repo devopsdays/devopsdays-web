@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "On Call Engineer Happiness"
 Type = "talk"
 Speakers = ["paul-oconnor"]
+Slideshare = "https://www.slideshare.net/PaulOConnor21/on-call-engineer-happiness-devops-days-galway-2017/PaulOConnor21/on-call-engineer-happiness-devops-days-galway-2017"
 +++
 
 <p>On call is an unfortunate side effect of the technology industry. Outages happen outside business hours, frequently when engineers are sleeping. Using existing tools, and reexamining alerting healthchecks, it is possible to make on call a much happier experience.</p>

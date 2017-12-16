@@ -4,15 +4,39 @@ Type = "event"
 Description = "Sponsor devopsdays Charlotte 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<hr>
+
+## <strong>We greatly value sponsors for this open event. We can't do this without you! If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</strong>
 
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+
+<strong>Gold Sponsorship ($5,000)</strong>
+
+ - 4 tickets to the event
+ - Logo on event website
+ - Logo on all email communication
+ - Logo on Eventbrite registration page
+ - Logo on slides during breaks
+ - 1 minute pitch to full audience
+ - Booth/Table space with prime location
+ - Logo on conference t-shirt
+
+<strong>Silver Sponsorship ($3,000)</strong>
+
+ - 3 tickets to the event
+ - Logo on event website
+ - Logo on slides during breaks
+ - Booth/Table space
+ - Logo on conference t-shirt
+
+<strong>Bronze Sponsorship ($1,000)</strong>
+
+ - 2 tickets to the event
+ - Logo on event website
+ - Logo on conference t-shirt
 <p>
 
 <!--

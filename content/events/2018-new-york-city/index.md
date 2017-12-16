@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays New York City 2017"
+Title = "devopsdays New York City 2018"
 Type = "welcome"
 aliases = ["/events/2017-new-york-city/welcome"]
-Description = "devopsdays New York City 2017"
+Description = "devopsdays New York City 2018"
 +++
 
 <!-- <div style="text-align:center;">
@@ -18,23 +18,23 @@ Description = "devopsdays New York City 2017"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -45,23 +45,23 @@ Description = "devopsdays New York City 2017"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +81,4 @@ Description = "devopsdays New York City 2017"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->

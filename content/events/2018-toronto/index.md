@@ -49,11 +49,8 @@ devopsdays Toronto is back for its fifth year and we're growing. Our new venue w
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    Our CFP will open on December 1, 2017. Be sure to tell your friends and co-workers. We're always looking for new, local voices.
+    Our CFP is open. {{< event_link page="propose" text="Propose a talk!" >}}. Be sure to tell your friends and co-workers. We're always looking for new, local voices.
   </div>
-<!--  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div> -->
 </div>
 
 <!-- <div class = "row">

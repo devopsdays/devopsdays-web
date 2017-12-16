@@ -10,7 +10,7 @@ Categories = []
 # Auckland 2017 in Review
 ### The conference
 
-<img src="2017-Auckland/DevOpsLogo.png" width="200">
+<img src="/blog/2017-Auckland/DevOpsLogo.png" width="200">
 
 The DevOpsDays conference was held in **Auckland** on the 3rd and 4th October 2017. This was the third DevOpsDays conference in New Zealand after the first one in Auckland (2013) and the second in Wellington last year.
 
@@ -20,7 +20,7 @@ The videos and slides from the conference will be made available on the [confere
 
 There were some great speakers and a lot of knowledgeable and passionate folks who shared a common interest - to share, learn and contribute to the DevOps community.
 
-<img src="2017-Auckland/DevOpsDay1.png" width="500">
+<img src="/blog/2017-Auckland/DevOpsDay1.png" width="500">
 
 ### Sponsors
 The conference was sponsored by -
@@ -37,7 +37,7 @@ The conference was sponsored by -
 
 The sponsor tables saw a buzz of activity with the sponsors engaging with the attendees and sharing experiences. Some of the sponsors had attractive offers, discounts deals and swag items which were lapped away by the audience!
 
-<img src="2017-Auckland/DevOpsDay2.png" width="500">
+<img src="/blog/2017-Auckland/DevOpsDay2.png" width="500">
 
 ### The speakers
 This conference had a broad range of speakers coming in from various backgrounds. The speakers and topics were selected after a rigorous CFP process and only 9 out of the 61 proposals were selected. The topics were -
@@ -83,33 +83,33 @@ Open Spaces, though a relatively new concept in NZ - ended up being one of the m
 
 Topics ranged from technical ones (Kafka operations, Openshift, Analytics etc.) to cultural (addressing burnout, imposter syndrome etc) and conceptual (how DevOps works with Agile)
 
-<img src="2017-Auckland/DevOpsDay3.png" width="500">
+<img src="/blog/2017-Auckland/DevOpsDay3.png" width="500">
 
 ### Evening Event
 The evening event was just amazing! It provided a wonderful opportunity for attendees to socialize and it was great to see the sponsors, speakers and attendees fraternizing over a beer around the pool table. The excellent food and ambiance provided at the venue were an added bonus.
 
-<img src="2017-Auckland/DevOpsDay4.png" width="500">
+<img src="/blog/2017-Auckland/DevOpsDay4.png" width="500">
 
 ### The Job Board
 A job board was put up and the attendees and sponsors were encouraged to use it to advertise open positions. As one would observe - the job board just ran out of space!
 
-<img src="2017-Auckland/DevOpsDay5.png" width="250">
+<img src="/blog/2017-Auckland/DevOpsDay5.png" width="250">
 
 ### Swag items and takeaways
 Whats a conference without swag items? This conference had quite a few items which attendees could take back home. These items ranged from tshirts, stationery, bags, laptop stickers, webcam-covers, umbrellas, books and even a drone - which went to a lucky winner! Swag items were provided by the conference organisers as well as the sponsors.
 
-<img src="2017-Auckland/DevOpsDay6.png" width="250">
+<img src="/blog/2017-Auckland/DevOpsDay6.png" width="250">
 
 Special thanks to ITRevolution for the books they gave away at the conference!
 
-<img src="2017-Auckland/DevOpsDay7.png" width="250">
+<img src="/blog/2017-Auckland/DevOpsDay7.png" width="250">
 
 
 ### The organising team
 Lead by our charismatic leader - Reuben, the conference organisers teamed in from Wellington and Auckland. The green T-shirts with a the retro IPV4 **127.0.0.1** printed on them made the organisers stand out!
 The team worked over the last few months to organise the conference venue, sponsor engagements, budgets, ticketing, conference-day activities and procuring swag-items.
 
-<img src="2017-Auckland/DevOpsDay8.png" width="500">
+<img src="/blog/2017-Auckland/DevOpsDay8.png" width="500">
 
 ### What next?
 Learning from this year’s turnout and audience engagement, we are looking forward to organise the conference next year. Where will it be? When will it be? How would it look like? Stay tuned!!

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "The Perfect DevOps Storm"
 Type = "talk"
 Speakers = ["paul-gillespie"]
+youtube = "szi5xF6BYuI"
+speakerdeck = "https://speakerdeck.com/bigpg/the-perfect-devops-storm"
 +++
 
 Have you ever wondered what happens when you have a high traffic site, rapid organisation growth, significant technology change, a desire to reduce product lead time and improve availability occurring all at the same time?

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Scrutinizing the Scrutiny"
 Type = "talk"
 Speakers = ["jason-hand"]
+youtube = "ovXMk6rBnqY"
+slides = "https://acmedash.com/home"
 +++
 
 Many organizations have found great value in retrospective analysis following incidents that impact the reliability and availability of a service. Known as postmortems, companies routinely analyze what went wrong in retrospect. 

@@ -39,6 +39,8 @@ proposal_email: "organizers-los-angeles-2018@devopsdays.org"
 sponsors:
   - id: datadog
     level: sponsor
+  - id: influxdata
+    level: sponsor
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

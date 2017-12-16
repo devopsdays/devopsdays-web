@@ -29,6 +29,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: postevent
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -323,6 +324,8 @@ ignites:
   - title: "philipp-krenn2"
     date: 2017-10-23
   - title: "murdo-aird"
+    date: 2017-10-23
+  - title: "josh-atwell-ignite"
     date: 2017-10-23
   - title: "ken-mugrage"
     date: 2017-10-24

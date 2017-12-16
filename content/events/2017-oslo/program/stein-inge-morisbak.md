@@ -1,10 +1,11 @@
 +++
 Talk_date = "2017-11-01"
-Talk_start_time = "10:40"
-Talk_end_time = "11:10"
+Talk_start_time = "10:55"
+Talk_end_time = "11:30"
 Title = "Getting people to act on good ideas"
 Type = "talk"
 Speakers = ["stein-inge-morisbak"]
+youtube = "GZkrdm6cgfI"
 +++
 
 Why don't people around you act on good ideas and how to convince them that they should?

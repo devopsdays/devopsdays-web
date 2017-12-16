@@ -10,32 +10,32 @@ startdate: 2018-04-12 # The start date of your event. Leave blank if you don't h
 enddate: 2018-04-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-11-14 # start accepting talk proposals.
-cfp_date_end: 2018-01-15 # close your call for proposals.
+cfp_date_start: 2017-11-06 # start accepting talk proposals.
+cfp_date_end: 2018-01-14 # close your call for proposals.
 cfp_date_announce: 2018-02-15 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysdesmoines"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-12-01 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-04-01 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-des-moines-tickets-39855883019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "41.591913,-93.622598" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
 #
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
- # - name: speakers
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -79,7 +79,25 @@ proposal_email: "proposals-des-moines-2018@devopsdays.org" # Put your proposal e
 #    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
+sponsors:
+  - id: beaconhill
+    level: bronze
+  - id: qci
+    level: bronze
+  - id: trility
+    level: gold
+  - id: dhi
+    level: bronze
+  - id: microsoft
+    level: gold
+  - id: appdynamics
+    level: gold
+  # - id: workiva
+  #   level: gold
+  # - id: granular
+  #   level: gold
+  # - id: sourceallies
+  #   level: uranium
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
@@ -93,5 +111,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: uranium
+    label: Uranium
+    max: 1
   - id: community
     label: Community

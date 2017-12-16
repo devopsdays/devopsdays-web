@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "DevOps Archeology"
 Type = "talk"
 Speakers = ["lee-fox"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-devops-archeology"
+Slideshare = ""
+Slides = ""
 +++
 
 Back in at the 2001 OOPSLA Conference, the term Software Archeology was first coined. 

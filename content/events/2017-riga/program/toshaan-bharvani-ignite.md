@@ -4,6 +4,8 @@ Talk_start_time = "14:15"
 Talk_end_time = "14:20"
 Title = "POWER your DC"
 Type = "talk"
+youtube = "jH9rz6JlfnA"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-ignite-toshaan-bharvani-power-your-dc"
 Speakers = ["toshaan-bharvani"]
 +++
 

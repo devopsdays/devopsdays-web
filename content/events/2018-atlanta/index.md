@@ -80,6 +80,15 @@ Description = "devopsdays Atlanta 2018"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+<div style="text-align:center;">
+<h3>All Aboard the devOps Express with <a href="http://inclusive-collaboration.org">Inclusive Collaboration</a></h3>
+with day 1 keynote Presentations from <a href="https://twitter.com/SalFreudenberg">Dr. Sallyann Freudenberg</a> & <a href="https://twitter.com/KimCrayton1">Kim Crayton</a>
+<br/><br/>
+Would you like to speak? <a href="https://www.papercall.io/devopsdaysatl2018">Our CFP is Open</a>
+<br/><br/>
+  {{< event_logo >}}
+</div>
+
 
 <!-- Uncomment if you added your city twitter name -->
 <!--

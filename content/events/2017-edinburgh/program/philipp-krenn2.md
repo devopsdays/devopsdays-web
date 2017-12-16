@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "NoSQL Means No Security?"
 Type = "talk"
 Speakers = ["philipp-krenn"]
+youtube = "yQ1AH9mIbiw"
+slideshare = "https://www.slideshare.net/secret/rTR0a9kPLqoCVZ"
 +++
 
 New systems are always interesting targets since their security model couldn’t mature yet. NoSQL databases are no exception and had some lurid articles about their security, but how does their protection actually look like? We will take a look at three widely used systems and their unique approaches:

@@ -1,7 +1,7 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays New York City 2017"
+Description = "Code of conduct for devopsdays New York City 2018"
 +++
 
 ## ANTI-HARASSMENT POLICY

@@ -4,6 +4,8 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:15"
 Title = "DevOps meets Data Science - how to prepare?"
 Type = "talk"
+youtube = "zdLu9MnBA8I"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-mikhail-iljin-devops-meets-data-science-how-to-prepare"
 Speakers = ["mikhail-iljin"]
 +++
 

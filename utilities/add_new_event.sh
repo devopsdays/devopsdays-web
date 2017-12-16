@@ -14,12 +14,21 @@ SEDCMD(){
   fi
 }
 
-# We assume the current year (and also assume bash 3, because macs)
-read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2017'
+default_year=$(date +"%Y")
+if [[ ! -z $DOD_YEAR ]] ; then
+  year="$DOD_YEAR"
+else
+  # We assume the current year (and also assume bash 3, because macs)
+  read -p "Enter your event year (default: $default_year): " year
+fi
+[ -z "${year}" ] && year="$default_year"
 
+if [[ ! -z $DOD_CITY ]] ; then
+  city=$DOD_LUG_CITY
+else
+  read -p "Enter your city name: " city
+fi
 # We urlize the city slug
-read -p "Enter your city name: " city
 city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
 # Get event twitter handle

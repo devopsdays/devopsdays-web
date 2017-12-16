@@ -4,6 +4,8 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "A DevOps State of Mind: Continuous Security with DevSecOps + Containers"
 Type = "talk"
+youtube = "9fr0IbW6wSw"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-chris-van-tuin-a-devops-state-of-mind-continuous-security-with-devsecops-containers"
 Speakers = ["chris-van-tuin"]
 +++
 

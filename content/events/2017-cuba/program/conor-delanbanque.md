@@ -2,10 +2,14 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "7 Steps to DevOps Hiring Success"
+Title = "Starting and Growing Your DevOps Teams"
 Type = "talk"
 Speakers = ["conor-delanbanque"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-starting-and-growing-your-devops-teams"
+Slideshare = ""
+Slides = ""
 +++
 
 DevOps, sure everybody is hiring right now. How many of us are actually successful 

@@ -11,6 +11,11 @@ Devopsdays Galway 2017 will be held at <a href="http://www.radissonhotelgalway.c
 <div style="width: 550px; padding-bottom: 5px; margin: 0 auto;">
 {{< event_map >}}
 </div>
+<br />
+Using the <a href="https://www.radissonblu.com/en/hotel-galway/meetings/floorplans" target="_blank">Radisson Blu Galway Event Floorplan</a>, the main track and breakout sessions will occur in sections marked '1'. Registration on the Monday will take place beside the cloakroom on the way into the main conference area identified below with a red dot.
+<div style="width: 650px; padding-bottom: 5px; margin: 0 auto;">
+<img src="/events/2017-galway/location/floorplan.png" style="width: 650px;"/>
+</div>
 
 ### Flying to Galway
 

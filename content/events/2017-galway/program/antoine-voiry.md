@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "I cannot do DEVOPS because ..."
 Type = "talk"
 Speakers = ["antoine-voiry"]
+Slideshare = "https://www.slideshare.net/AntoineVoiry/dxc-antoine-voiry-ignite-i-cannot-do-devops/AntoineVoiry/dxc-antoine-voiry-ignite-i-cannot-do-devops"
 +++
 
 <p>In the past 3 years, my team assisted many teams in their DEVOPS transformation internally and externally.</p>

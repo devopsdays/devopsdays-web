@@ -1,7 +1,7 @@
 +++
 Title = "Conall Bennett"
 Twitter = ""
-image = ""
+image = "conall-bennett.jpg"
 type = "speaker"
 linktitle = "conall-bennett"
 

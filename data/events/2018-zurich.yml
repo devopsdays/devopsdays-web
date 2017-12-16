@@ -7,9 +7,9 @@ event_twitter: "DevOpsZH"
 startdate: 2018-05-02
 enddate: 2018-05-03
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2016-11-01 # start accepting talk proposals.
-# cfp_date_end: 2017-02-01 # close your call for proposals.
-# cfp_date_announce: 2017-04-01 # inform proposers of status
+cfp_date_start: 2017-10-01 # start accepting talk proposals.
+cfp_date_end: 2018-01-05 # close your call for proposals.
+cfp_date_announce: 2017-10-01 # inform proposers of status
 registration_open: "true"
 
 # Location
@@ -24,6 +24,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
 # - name: propose
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: speakers
   - name: location
   - name: registration
   - name: propose
@@ -34,24 +35,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Martin Thalmann"
-    twitter: "martin_thalmann"
-    employer: "Swisscom AG"
-    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/martinthalmann/"
-    website: ""
-    image: "martin-thalmann.jpg"
-  - name: "Roderick Jonsson"
-    twitter: ""
-    employer: ""
-    bio: "Linux System Engineer by profession and some times developer (symfony or java).<p> Working with CoreOS, Kubernetes, Openstack and Docker. <p> Loves tech trend spotting. <p> If you are passionate about DevOps technologies and finding out how they will influence the coming digital economy, then chat me up ;)"
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/roderick-jonsson-b299ba88/"
-    website: ""
-    image: "roderick-jonsson.jpg"
+  - name: "Noëmi Kruesi"
+    bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
+<p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
+    image: "noemi-krusi.jpg"
   - name: "Bastian Widmer"
     twitter: "dasrecht"
     employer: "amazee.io"
@@ -63,6 +50,53 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     linkedin: "http://ch.linkedin.com/in/bastianwidmer"
     website: "https://bastianwidmer.ch"
     image: "bastian-widmer.jpg"
+  - name: "Marcel Wolf"
+    twitter: "_marcelwolf"
+    employer: "codecentric AG"
+    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "marcel-wolf.jpg"
+  - name: "Marcelo Ancelmo"
+    twitter: "marceloancelmo"
+    employer: ""
+    bio: "Marcelo S. Ancelmo is currently a Lead Technical Architect with Cognizant, delivering tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In more than fifteen years of practical IT field experience, he assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "marcelo-ancelmo.jpg"
+  - name: "Martin Thalmann"
+    twitter: "martin_thalmann"
+    employer: "Swisscom AG"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/martinthalmann/"
+    website: ""
+    image: "martin-thalmann.jpg"
+  - name: "Matías E. Fernández"
+    twitter: "matiasfrndz"
+    employer: "ERNI Consulting AG"
+    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
+Keen learner and challenger of the status quo.<p>
+Enabling organisations to achieve outstanding and sustainable results that exceed customers?~@~Y expectations is his passion."
+    github: "matiasfrndz"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
+    website: "https://matiasfrndz.ch/"
+    image: "matias-e-fernandez.jpg"
+  - name: "Roderick Jonsson"
+    twitter: ""
+    employer: ""
+    bio: "Linux System Engineer by profession and some times developer (python, symfony or java).<p> Working with CoreOS, Kubernetes, Openstack and Docker. <p> Loves tech trend spotting. <p> If you are passionate about DevOps technologies and finding out how they will influence the coming digital economy, then chat me up ;)"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/roderick-jonsson-b299ba88/"
+    website: "http://www.powerodit.ch"
+    image: "roderick-jonsson.jpg"
   - name: "Tobias Brunner"
     twitter: "tobruzh"
     employer: "VSHN AG"
@@ -81,35 +115,7 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
     website: ""
     image: "vittorio-boccone.jpg"
-  - name: "Matías E. Fernández"
-    twitter: "matiasfrndz"
-    employer: "ERNI Consulting AG"
-    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
-Keen learner and challenger of the status quo.<p>
-Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
-    github: "matiasfrndz"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
-    website: "https://matiasfrndz.ch/"
-    image: "matias-e-fernandez.jpg"
-  - name: "Marcelo Ancelmo"
-    twitter: "marceloancelmo"
-    employer: ""
-    bio: "Marcelo S. Ancelmo is currently a Lead Technical Architect with Cognizant, delivering tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In more than fifteen years of practical IT field experience, he assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges."
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-    image: "marcelo-ancelmo.jpg"
-  - name: "Marcel Wolf"
-    twitter: "_marcelwolf"
-    employer: "codecentric AG"
-    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-    image: "marcel-wolf.jpg"
+
 
 organizer_email: "organizers-zurich-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-zurich-2018@devopsdays.org" # Put your proposal email address here
@@ -125,7 +131,9 @@ sponsors:
     level: gold
   - id: nine
     level: gold
-    
+  - id: mobiliar
+    level: silver
+
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: Evening Event

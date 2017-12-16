@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Hybrid Cloud with Kubernetes Federation"
 Type = "talk"
+slideshare = "https://www.slideshare.net/MiguelCastilhoDias/devops-days-galway-2017"
 Speakers = ["cynthia-lopes-do-sacramento","miguel-castilho-dias"]
 +++
 

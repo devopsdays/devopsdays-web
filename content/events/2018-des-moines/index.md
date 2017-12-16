@@ -16,6 +16,7 @@ Description = "devopsdays Des Moines 2018"
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
+  
 </div>
 
 <!-- <div class = "row">

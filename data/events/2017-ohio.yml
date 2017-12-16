@@ -15,20 +15,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: conduct
   - name: sponsor
-  - name: location
-  - name: register
-    url: "https://devopsdaysohio2017.eventbrite.com/"
+  - name: "location/parking"
+    url: "/events/2017-ohio/location"
 
 team_members: # Name is the only required field for team members.
-#  - name: "---"
-#    employer: "---"
-#    bio: "---"
-#    twitter: "---"
-#    linkedin: "---"
-#    facebook: "---"
-#    website: "---"
-#    github: "---"
-#    image: "---"
   - name: "Andy Dyrcz"
     employer: "Express"
     bio: "Proud Member of Pipegreppers Union Local 614"
@@ -89,6 +79,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
   - id: mesosphere
     level: silver
   - id: dynatrace
+    level: silver
+  - id: pagerduty
     level: silver
   - id: stickermule
     level: support

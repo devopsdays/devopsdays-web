@@ -17,6 +17,7 @@ Description = "devopsdays Kiel 2018"
 
 <img alt="DevOpsDays Kiel 2018" src="/events/2018-kiel/logo.jpg" style="float:left;width:200px;height:200px;padding-right:10px"/>
 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -91,4 +92,10 @@ Description = "devopsdays Kiel 2018"
 
 <!-- Uncomment if you added your city twitter name -->
 {{< event_twitter >}}
+
+### Coffee Break Sponsor
+
+KPS-Concepts GmbH, Schönkirchen
+
+
 

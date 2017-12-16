@@ -7,13 +7,17 @@ Description = "devopsdays Oslo 2017"
 
 <div style="text-align:center;">
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<!--<h2>{{< event_start >}} - {{< event_end >}}</h2>-->
+
+<h1><a href="https://youtu.be/K72X8_KQeys">Videos from Wednesday Nov 1st</a></h1>
+<h1><a href="https://youtu.be/uGEnG3wZqn4">Videos from Thursday Nov 2nd</a></h1>
+<h3><a href="program/">Slides from the ignite talks can be found as a link on each talk description</a></h3>
 
 <br>
 
 {{< event_logo >}}
 
-<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>
+<!--<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>-->
 
 </div>
 
@@ -33,9 +37,13 @@ Description = "devopsdays Oslo 2017"
 
 <hr>
 
-<h2>Sponsorships</h2>
-{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-
+<h2>Feedback</h2>
+Your feedback is highly appreciated! We have created two online forms for you:
+<ul>
+  <li>Use this form to <a href="https://goo.gl/forms/t6CxV2UQARXwqMNy2">share your thoughts on the conference in general</a></li>
+  <li>...and this one to <a href="https://goo.gl/forms/KYxJ16vXU7tyY6NH2">give feedback on speakers and talks</a></li>
+</ul>
+If you prefer using pen and paper, we have a good old mailbox for that at the venue.
 <hr>
 
 <div class = "row">

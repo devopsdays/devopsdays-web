@@ -2,10 +2,14 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Experiencias con test de carga y rendimiento en aplicaciones web"
+Title = "Performance test for Web Apps"
 Type = "talk"
 Speakers = ["marialina-ballesteros"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-ignite-performance-test-for-web-apps"
+Slideshare = ""
+Slides = ""
 +++
 
 Como parte del ciclo de integración continua de nuestros productos se le realizan 

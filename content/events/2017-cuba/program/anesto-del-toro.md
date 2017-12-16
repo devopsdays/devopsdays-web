@@ -5,7 +5,11 @@ Talk_end_time = ""
 Title = "Experiences on building a modular reactive architecture: CIR-BCC"
 Type = "talk"
 Speakers = ["anesto-del-toro"]
-youtube = ""
+Youtube = ""
+Vimeo = ""
+Speakerdeck = "https://speakerdeck.com/devopsdayscuba/devopsdays-cuba-2017-experiences-on-building-a-modular-reactive-architecture-cir-bcc"
+Slideshare = ""
+Slides = ""
 +++
 
 In this talk we’ll share some experiences during the development of the 

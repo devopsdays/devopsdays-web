@@ -98,6 +98,10 @@ sponsors:
     level: silver
   - id: columntech
     level: gold
+  - id: splunk
+    level: silver
+  - id: target
+    level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -217,6 +221,10 @@ program:
     date: 2017-10-30
     start_time: "17:00"
     end_time: "21:00"
+    comments: "This will take place at [High Noon Saloon](https://www.high-noon.com/)<br>
+    701 E Washington Ave<br>
+    Madison, WI<br>
+    53703"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2017-10-31

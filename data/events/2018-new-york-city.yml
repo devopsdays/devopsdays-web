@@ -21,28 +21,23 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "New York City" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: 40.756681, -73.989649
+location: Microsoft Technology Center
+location_address: 11 Times Square
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
+  - name: promote
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -50,16 +45,32 @@ team_members: # Name is the only required field for team members.
     twitter: "RossClanton"
     employer: "Verizon"
     linkedin: "https://www.linkedin.com/in/rossclanton"
+    image: "ross-clanton.jpg"
   - name: "Ceren Ercen"
-  - name: "Nicole Johnson"
   - name: "Tom Limoncelli"
     twitter: "YesThatTom"
     employer: "Stack Overflow, Inc."
     github: "TomOnTime"
     image: "tom-limoncelli.jpg"
   - name: "Jacki Damiano"
+    image: "jacki-damiano.jpg"
+    linkedin: "https://www.linkedin.com/in/jaclyn-damiano-0a4b432/"
   - name: "Karen Whelan"
+    twitter: "corona_flga"
+    employer: "Verizon"
+    image: "karen-whelan.jpg"
+  - name: "Kristen Olah"
+    employer: "Verizon"
   - name: "Matt Walter"
+    twitter: "ohaiwalt"
+    linkedin: "https://linkedin.com/in/ohaiwalt"
+    image: "matthew-walter.jpg"
+  - name: "Nick Maxwell"
+    twitter: "CoffinNailVGD"
+    employer: "Verizon"
+    linkedin: "https://www.linkedin.com/in/nick-maxwell-33169b56/"
+    github: "coffinnailvgd"
+    image: "nick-maxwell.jpg"
 #  - name: "Sally Fields"
 #    employer: "Acme Anvil Co."
 #    facebook: "https://www.facebook.com/sally.fields"
@@ -72,9 +83,32 @@ organizer_email: "organizers-new-york-city-2018@devopsdays.org" # Put your organ
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: microsoft
+    level: venue
+  - id: mabl
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+  - id: chef
+    level: gold
+  - id: catchpoint
+    level: gold
+  - id: verizon
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: mongodb
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: puppet
+    level: gold
+  - id: thoughtworks-gocd
+    level: silver
+  - id: portworx
+    level: silver
+  - id: flatiron-health
+    level: bronze
+  - id: dbmaestro
+    level: bronze
   - id: arresteddevops
     level: community
 
@@ -85,13 +119,184 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 1
   - id: community
     label: Community
+    max: 1
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2018-01-18"
+    start_time: "08:00"
+    end_time: "09:30"
+  - title: "Conference Open & Welcome"
+    type: custom
+    date: "2018-01-18"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "john-willis"
+    type: talk
+    date: "2018-01-18"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "kishore-jalleda"
+    type: talk
+    date: "2018-01-18"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "bridget-kromhout"
+    type: talk
+    date: "2018-01-18"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: "2018-01-18"
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "fong-jones-mckaig"
+    type: talk
+    date: "2018-01-18"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "manish-patel"
+    type: talk
+    date: "2018-01-18"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-01-18"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: custom
+    date: "2018-01-18"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-01-18"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-01-18"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-01-18"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-01-18"
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "thomas-a-limoncelli"
+    type: talk
+    date: "2018-01-18"
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: "2018-01-18"
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening event (TBA)"
+    type: custom
+    date: "2018-01-18"
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2018-01-19"
+    start_time: "08:00"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: "2018-01-19"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "tanya-reilly"
+    type: talk
+    date: "2018-01-19"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: "2018-01-19"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "peter-varhol"
+    type: talk
+    date: "2018-01-19"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: "2018-01-19"
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "julie-qiu"
+    type: talk
+    date: "2018-01-19"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "randy-shoup"
+    type: talk
+    date: "2018-01-19"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-01-19"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: custom
+    date: "2018-01-19"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-01-19"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-01-19"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-01-19"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-01-19"
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "ryan-lockard"
+    type: talk
+    date: "2018-01-19"
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Conference Close"
+    type: custom
+    date: "2018-01-19"
+    start_time: "17:15"
+    end_time: "17:30"

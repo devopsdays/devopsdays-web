@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Using Machine Learning to Optimize DevOps Practices"
 Type = "talk"
 Speakers = ["peter-varhol"]
+youtube = "8pxmQIq6bDs"
+slideshare = "https://www.slideshare.net/pvarhol/using-machine-learning-to-optimize-devops-practices"
 +++
 
 As we move into a world where decisions are being made by algorithms, the focus on machine learning systems is one of the central tenets around big data, analytics, and artificial intelligence surrounding a wide variety of industries, from self-driving cars to ecommerce engines.

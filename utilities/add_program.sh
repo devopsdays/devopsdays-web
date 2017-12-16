@@ -15,19 +15,29 @@ SEDCMD(){
 }
 
 # Get year
-read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2017'
+default_year=$(date +"%Y")
+if [[ ! -z $DOD_YEAR ]] ; then
+  year="$DOD_YEAR"
+else
+  # We assume the current year (and also assume bash 3, because macs)
+  read -p "Enter your event year (default: $default_year): " year
+fi
+[ -z "${year}" ] && year="$default_year"
 
 # Get city
-read -p "Enter your city name: " city
+if [[ ! -z $DOD_CITY ]] ; then
+  city="$DOD_CITY"
+else
+  read -p "Enter your city name: " city
+fi
 city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 # Generate event slug
 event_slug=$year-$city_slug
 
 # Get start and end dates
 
-day1=$(grep startdate ../data/events/$event_slug.yml | cut -f 2 -d " ")
-day2=$(grep enddate ../data/events/$event_slug.yml | cut -f 2 -d " ")
+day1=$(grep -h startdate ../data/events/$event_slug.yml | awk '{ print $2 }' )
+day2=$(grep -h enddate ../data/events/$event_slug.yml | awk '{ print $2 }' )
 
 if [[ $day1 == '' ]]
   then

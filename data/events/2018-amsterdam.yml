@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Amsterdam!" # Edit this to suit your prefe
 ga_tracking_id: "UA-38891729-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2018-01-05
-startdate:  2018-06-28
-enddate:  2018-06-30
+startdate:  2018-06-27
+enddate:  2018-06-29
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-01-15  # start accepting talk proposals.
@@ -32,7 +32,7 @@ location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the str
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -47,20 +47,33 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Thomas Krag"
+    twitter: "vikingopsio"
   - name: "Kerim Satirli"
+    twitter: "ksatirli"
   - name: "Harm Boertien"
+    twitter: "Harm_Ops"
   - name: "Yvo van Doorn"
+    twitter: "yvov"
   - name: "Gérard de Vos"
+    twitter: "gerardthefox"
   - name: "Mine Heck"
+    twitter: "Mine_Akman"
   - name: "Arjen Wolfs"
+    twitter: "aswolfs"
   - name: "Wilco Noordermeer"
+    twitter: "northernlake"
   - name: "Arjan Eriks"
+    twitter: "DrozerT"
   - name: "Mark Heistek"
-  - name: "Thiago de Faria"
+    twitter: "MarkHeistek"
   - name: "Farisada Nurmohamed"
+    twitter: "Farisadaaa"
   - name: "Peter Nijenhuis"
+    twitter: "Peter_Nijenhuis"
   - name: "Chris Lennon"
+    twitter: "leapyearboy88"
   - name: "Daniel Paulus"
+    twitter: "dpnl87"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
     # facebook: "https://www.facebook.com/sally.fields"
@@ -101,6 +114,3 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 8
-  - id: community
-    label: Community
-    max: 0
