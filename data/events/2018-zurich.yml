@@ -75,7 +75,7 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
   - name: "Vittorio Boccone"
     twitter: "drbokko"
     employer: "Dectris Ltd."
-    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily writing beautiful code for Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator. He's also a DevOps enthusiast, a Ham Radio operator, a tech-explorer, a geek, a hacker, a biker, not to mention a father and a husband."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
     github: "https://github.com/drbokko"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
@@ -123,7 +123,9 @@ sponsors:
     level: silver
   - id: vshn
     level: gold
-
+  - id: nine
+    level: gold
+    
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: Evening Event
