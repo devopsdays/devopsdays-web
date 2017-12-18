@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "A DevOps State of Mind: Continuous Security with Kubernetes"
 Type = "talk"
 Speakers = ["chris-van-tuin"]
+youtube = "taiFx_LHqrU"
 speakerdeck = "https://speakerdeck.com/cvantuin/a-devops-state-of-mind-continuous-security-with-kubernetes"
 +++
 

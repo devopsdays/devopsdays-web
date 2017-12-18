@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Microservice Deployment Techniques"
 Type = "talk"
 Speakers = ["adrian-mouat"]
+youtube = "FfFf2Ng_3HY"
+slideshare = "https://www.slideshare.net/KevinCross4/adrian-mouat-microservice-deployment-techniques"
 +++
 
 Handling deployments effectively is an essential aspect of making the most of modern microservice architectures. How do you safely and quickly deploy updates? How do you test that your microservices work at scale in a full production system? How do you measure and respond to problems occurring shortly after an update? 

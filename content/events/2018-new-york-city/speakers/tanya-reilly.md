@@ -1,8 +1,9 @@
 +++
 Title = "Tanya Reilly"
 Twitter = "whereistanya"
-image = ""
+image = "tanya-reilly.jpg"
 type = "speaker"
+Pronouns = "she/her"
 linktitle = "tanya-reilly"
 
 +++
