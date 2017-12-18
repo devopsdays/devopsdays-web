@@ -95,6 +95,8 @@ proposal_email: "proposals-minneapolis-2018@devopsdays.org" # Put your proposal 
 sponsors:
   - id: arresteddevops
     level: community
+  - id: influxdata
+    level: silver
 
 sponsors_accepted : "yes"
 
