@@ -5,9 +5,9 @@ aliases = ["/events/2018-des-moines/welcome"]
 Description = "devopsdays Des Moines 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div>
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
