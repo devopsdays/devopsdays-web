@@ -4,6 +4,7 @@ Twitter = "KishoreJalleda"
 image = "kishore-jalleda.jpg"
 type = "speaker"
 linktitle = "kishore-jalleda"
+website = "http://blog.kishorejalleda.com/"
 
 +++
 
