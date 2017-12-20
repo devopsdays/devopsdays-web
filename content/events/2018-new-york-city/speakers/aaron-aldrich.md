@@ -4,6 +4,7 @@ Twitter = "crayzeigh"
 image = "aaron-aldrich.jpg"
 type = "speaker"
 linktitle = "aaron-aldrich"
+pronouns = "he/him/his"
 website = "http://crayzeigh.com"
 
 +++
