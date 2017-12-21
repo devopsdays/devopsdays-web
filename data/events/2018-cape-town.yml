@@ -1,0 +1,91 @@
+---
+name: "2018-cape-town"
+year: "2018"
+city: "Cape Town"
+event_twitter: "devopsdayscpt"
+description: "Devopsdays is coming to Cape Town!"
+ga_tracking_id: "UA-105986234-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate:
+enddate:
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
+
+cfp_open: "false"
+cfp_link: ""
+
+registration_date_start:
+registration_date_end:
+
+registration_closed:
+registration_link:
+
+coordinates: ""
+location: "Cape Town"
+location_address: ""
+
+nav_elements:
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+team_members:
+  - name: "Adrian Moisey"
+    image: "adrian-moisey.jpg"
+    employer: "SweepSouth"
+    twitter: "adrianmoisey"
+    github: "adrianmoisey"
+    gitlab: "adrianmoisey"
+    linkedin: "https://www.linkedin.com/in/adrian-moisey-b6705744"
+    facebook: "https://www.facebook.com/adrianbmoisey"
+    website: "https://adrianmoisey.github.io/"
+    bio: "Adrian is VP of Engineering at SweepSouth. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
+  - name: "Cobus Bernard"
+    image: "cobus-bernard.jpg"
+    employer: "Blue Battleship"
+    twitter: "cobusbernard"
+    github: "cobusbernard"
+    linkedin: "https://www.linkedin.com/in/cobusbernard/"
+    facebook: "https://www.facebook.com/cobusbernard"
+    website: "http://cobus.io/"
+    bio: "Cobus is currently working with HealthQ Technologies and Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
+  - name: "Julia Quickfall"
+    image: "julia-quickfall.jpg"
+    employer: "Kurtosys Systems"
+    twitter: "julesquickfall"
+    linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/"
+    bio: "Julia is an Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOpsDays looks good by taking care of design."
+  - name: "Tom Bamford"
+    image: "tom-bamford.jpg"
+    employer: "@planet"
+    twitter: "tom_bamford"
+    github: "manicminer"
+    linkedin: "https://www.linkedin.com/in/tombamford"
+    bio: "Tom helps organizations to self-integrate and move faster. Blaster of red tape and pointing/clicking. Mediator by day, automaton by night."
+organizer_email: "organizers-cape-town-2018@devopsdays.org"
+proposal_email: "proposals-cape-town-2018@devopsdays.org"
+
+sponsors:
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+sponsor_levels:
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
