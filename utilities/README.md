@@ -139,10 +139,10 @@ slides = ""
 Set `$DOD_YEAR` and `$DOD_CITY` and the scripts won't ask
 for the year and city every time.
 
-Here are some useful bash exports/aliases:
+Here are some useful bash exports/aliases. Add them to your `.bashrc`:
 
 ```
-# DevOpsdays
+# devopsdays
 export DOD_YEAR="2018"            # your year
 export DOD_CITY="new-york-city"   # your city
 export DOD_DIR=~/git/devopsdays-web   # location of Git files
@@ -165,4 +165,4 @@ alias dodhugo='dod && echo open localhost:1313 ; hugo server -w --baseUrl="http:
   *  Example: Find all the files for speaker "jane-doe"
     * `dodfind -name '*jane-doe*'`
   *  Example: Find all the files that mention "jane-doe"
-     * `dodfind -type f -print0 | xargs -0 grep jane-doe`
+    * `dodfind -type f -print0 | xargs -0 grep jane-doe`
