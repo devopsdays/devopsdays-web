@@ -83,3 +83,4 @@ Description = "devopsdays Jakarta 2018"
 
 {{< event_twitter >}}
 
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://goo.gl/forms/RlTj5bavs6MxtZmr1" target="_blank" class="btn btn-primary btn-lg">Submit your talk now!</a></center></div>
