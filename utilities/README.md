@@ -145,11 +145,11 @@ Here are some useful bash exports/aliases. Add them to your `.bashrc`:
 # devopsdays
 export DOD_YEAR="2018"            # your year
 export DOD_CITY="new-york-city"   # your city
-export DOD_DIR=~/git/devopsdays-web   # location of Git files
-alias dod='cd $DOD_DIR'
-alias dods='cd $DOD_DIR/content/events/$DOD_YEAR-$DOD_CITY/speakers'
-alias dodp='cd $DOD_DIR/content/events/$DOD_YEAR-$DOD_CITY/program'
-alias dodi='cd $DOD_DIR/static/events/$DOD_YEAR-$DOD_CITY/speakers'
+export DODPATH=~/git/devopsdays-web   # location of Git files
+alias dod='cd $DODPATH'
+alias dods='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodp='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/program'
+alias dodi='cd $DODPATH/static/events/$DOD_YEAR-$DOD_CITY/speakers'
 alias dodyml='dod && $EDITOR data/events/$DOD_YEAR-$DOD_CITY.yml'
 alias dodfind='dod && find data/events/$DOD_YEAR-$DOD_CITY.yml content/events/$DOD_YEAR-$DOD_CITY/{speakers,program} static/events/$DOD_YEAR-$DOD_CITY/speakers'
 alias dodhugo='dod && echo open localhost:1313 ; hugo server -w --baseUrl="http://localhost:1313"'
