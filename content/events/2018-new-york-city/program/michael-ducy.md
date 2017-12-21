@@ -7,4 +7,5 @@ Type = "talk"
 Speakers = ["michael-ducy"]
 +++
 
-TBD
+In this talk I'll lay out a few key principles for monitoring microservices and
+the containers they are based on. 
