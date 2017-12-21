@@ -1,13 +1,13 @@
 +++
-Title = "devopsdays Austin 2018"
+Title = "devopsdays Austin Summit 2018"
 Type = "welcome"
 aliases = ["/events/2018-austin/welcome"]
-Description = "devopsdays Austin 2018"
+Description = "devopsdays Austin Summit 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,14 +18,14 @@ Description = "devopsdays Austin 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +36,14 @@ Description = "devopsdays Austin 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -68,7 +68,7 @@ Description = "devopsdays Austin 2018"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Sponsor the summit!" >}}
   </div>
 </div>
 
