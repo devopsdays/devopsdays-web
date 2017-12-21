@@ -7,4 +7,4 @@ linktitle = "jay-gordon"
 
 +++
 
-TBA
+Jay Gordon is a Cloud Developer Advocate at MongoDB in in New York City.
