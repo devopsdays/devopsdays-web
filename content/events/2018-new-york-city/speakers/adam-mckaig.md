@@ -3,6 +3,7 @@ Title = "Adam Mckaig"
 Twitter = ""
 type = "speaker"
 linktitle = "adam-mckaig"
+image = "adam-mckaig.jpg"
 Github = "adammck"
 Pronouns = "he/him"
 
