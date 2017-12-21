@@ -26,17 +26,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "30.284901,-97.732391" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Austin" # Defaults to city, but you can make it the venue name.
+location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but you can make it the venue name.
 #
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -171,20 +171,19 @@ sponsors:
 #  - id: arresteddevops
 #    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+  - id: happyhour
+    label: Happy Hour
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: communityleader
+    label: Community Leader
+    max: 20
