@@ -1,10 +1,19 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Maringá 2018"
+Description = "Location for Devopsdays Maringá 2018"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+<p></p>
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+<h1>Conference Location</h1>
+
+* <a href="http://www.sebraepr.com.br/PortalSebrae">Sebrae Maringá</a>
+* Avenida Bento Munhoz da Rocha Neto, 1116
+* Maringá - Paraná
+* <a href="https://goo.gl/BccKzE">Map</a>
+
+
+{{< event_map >}}
+
+<p></p>
