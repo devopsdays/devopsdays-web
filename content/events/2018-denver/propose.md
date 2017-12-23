@@ -9,7 +9,7 @@ type = "event"
 
 ---
 
-Submissions will be open soon, so stay tuned!
+Submit your proposal here: [https://www.papercall.io/devopsdaysdenver2018](https://www.papercall.io/devopsdaysdenver2018)
 
 ---
 There are three ways to propose a session:

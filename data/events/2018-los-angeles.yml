@@ -41,6 +41,9 @@ sponsors:
     level: sponsor
   - id: influxdata
     level: sponsor
+  - id: signalfx
+    level: sponsor
+   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -22,22 +22,19 @@ Many DevOpsDays use a small conference format, where there is a sponsor hall wit
 
 Only 1 available! You sponsor the happy hour. This price covers drink service for the attendees at the stadium venue - but if you want to do something more/different, we are happy to work with you on that. 
 
-**Sponsor the Happy Hour**  
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif"></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info">Pay Now to Sponsor the Happy Hour!</a>
 
 ### Lanyard Sponsor ($5000)
 
 Only 1 available! As the sole sponsor of the badge/lanyard, your logo appears on the lanyard.
 
-**Put Your Logo on the Lanyard**  
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif"></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info">Pay Now to Put Your Logo on the Lanyard!</a>
 
 ### Community Leader ($3000)
 
 20 Community Leader sponsorships available. You get 2 tickets, the ability to put collateral on the **unstaffed** swag tables, space for a pop-up banner. Your logo and link will be added to the DevOpsDays site. And more...
 
-**Be a Community Leader**  
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif"></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info">Pay Now to Be a Community Leader!</a>
 
 View the [sponsor prospectus](https://drive.google.com/open?id=17FHnDiv4ps0RgPETsZO9ZuhOZiq_aQdr) for more details about the Community Leader sponsorship.
 
@@ -49,7 +46,6 @@ For an additional $500, Community Leaders can have their logo posted as signage,
 * Lunch (2 available)
 * Wireless (1 available)
 
-**Be a Community Leader AND Add a Visibility Option**  
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif"></a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info">Pay Now to Be a Community Leader with a Visibility Option!</a>
 
 <hr/>
