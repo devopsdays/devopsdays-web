@@ -152,7 +152,7 @@ alias dodp='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/program'
 alias dodi='cd $DODPATH/static/events/$DOD_YEAR-$DOD_CITY/speakers'
 alias dodyml='dod && $EDITOR data/events/$DOD_YEAR-$DOD_CITY.yml'
 alias dodfind='dod && find data/events/$DOD_YEAR-$DOD_CITY.yml content/events/$DOD_YEAR-$DOD_CITY/{speakers,program} static/events/$DOD_YEAR-$DOD_CITY/speakers'
-alias dodhugo='dod && echo open localhost:1313 ; hugo server -w --baseUrl="http://localhost:1313"'
+alias dodhugo='dod && echo open http://localhost:1313 ; hugo server -w --baseUrl="http://localhost:1313"'
 ```
 
 * `dod`  -- chdir to your base directory
