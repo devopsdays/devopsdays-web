@@ -7,6 +7,9 @@ type = "event"
 
 <hr>
 
+Coming soon...
+
+<!--
 Although the primary audience for this conference is engineers, we’re looking for a mix of technical and cultural talks that relate to the central conference theme: DevOps for Japan.
 
 There are two types of sessions planned:
@@ -24,3 +27,4 @@ If you have any questions, don’t hesitate to email <organizers-tokyo-2018@devo
 
 - <u>通常のセッション：</u>45分（フルセッション）もしくは20分（ハーフセッション）
 - <u>ライトニングトーク：</u>ライトニングセッションを構成するもので、各々の発表は5分となります。
+-->

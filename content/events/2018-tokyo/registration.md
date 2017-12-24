@@ -8,7 +8,7 @@ type = "event"
 
 <div style="width:100%; text-align:left;">
 
-TBD.
+Coming soon...
 
 </div></div>
 </div>

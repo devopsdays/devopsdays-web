@@ -20,8 +20,7 @@ location: "大崎ブライトコアホール" # Defaults to city, but you can ma
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: program
   - name: location
-    #- name: registration
-    #  url: https://www.eventbrite.com/e/devops-days-tokyo-2017-tickets-31764173498
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -51,24 +50,7 @@ proposal_email: "proposals-tokyo-2018@devopsdays.org" # Put your proposal email 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: opsgenie
-    level: bronze
-    url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Tokyo_%20April&utm_medium=banner
-  - id: agilergo
-    level: silver 
-  - id: creationline
-    level: silver
-  - id: atlassian-before-20171216
-    level: silver 
-  - id: chef
-    level: gold
-  - id: github
-    level: gold
-  - id: inedo
-    level: gold
-  - id: microsoft
-    level: gold
+sponsors: []
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
