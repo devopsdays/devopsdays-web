@@ -182,7 +182,7 @@ sponsors:
     level: platinum
   - id: appdynamics
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20171218
     level: gold
   - id: pagerduty
     level: gold
@@ -405,4 +405,4 @@ program:
     date: 2017-09-19
     start_time: "16:35"
     end_time: "17:00"
-  
+

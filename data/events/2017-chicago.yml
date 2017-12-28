@@ -116,7 +116,7 @@ proposal_email: "cfp@devopsdayschi.org"
 sponsors:
   - id: pivotal
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20171218
     level: gold
   - id: workiva
     level: gold
