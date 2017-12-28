@@ -1,22 +1,22 @@
 +++
-Title = "devopsdays Kiel 2018"
-Type = "welcome"
-aliases = ["/events/2018-kiel/welcome"]
-Description = "devopsdays Kiel 2018"
+date = "2017-12-22T09:19:00-06:00"
+title = "welcome"
+type = "event"
+aliases = ["/events/2018-tokyo"]
+Description = "devopsdays Tokyo 2018"
+
 +++
 
-<!--
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
+
+
+**devopsdays is coming to {{< event_location >}}!**
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
--->
 
-<strong>
-  DevOpsDays Kiel are back in 2018! This year we will offer 14 fantastic talks, several ignites, interactive open spaces & an awesome social event! Brand new are our 2 workshop days where you can dive deep into special topics delivered by experts!
-</strong>
-
-<img alt="DevOpsDays Kiel 2018" src="/events/2018-kiel/logo.jpg" style="float:left;width:200px;height:200px;padding-right:10px"/>
-
+Coming soon...
 
 <div class = "row">
   <div class = "col-md-2">
@@ -36,23 +36,23 @@ Description = "devopsdays Kiel 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!--<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfIa7r1bDphxIk5k1hclulDDH7xeFbjqMiVNMg1s8nwWBPR7Q/viewform">Propose a talk!"</a>
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>-->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -90,12 +90,6 @@ Description = "devopsdays Kiel 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
-
-### Coffee Break Sponsor
-
-KPS-Concepts GmbH, Schönkirchen
-
-
-
+-->

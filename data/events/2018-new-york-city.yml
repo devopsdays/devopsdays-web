@@ -105,6 +105,12 @@ sponsors:
     level: silver
   - id: portworx
     level: silver
+  - id: appdynamics
+    level: silver
+  - id: instana
+    level: silver
+  - id: signalfx
+    level: silver
   - id: flatiron-health
     level: bronze
   - id: dbmaestro
@@ -127,7 +133,7 @@ sponsor_levels:
     max: 5
   - id: silver
     label: Silver
-    max: 2 # This is the same as omitting the max limit.
+    max: 4 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
     max: 1
@@ -307,11 +313,15 @@ ignites:
     date: "2018-01-18"
   - title: "mike-fiedler"
     date: "2018-01-18"
+  - title: "dawn-parzych"
+    date: "2018-01-18"
   - title: "jay-gordon"
     date: "2018-01-19"
   - title: "aaron-aldrich"
     date: "2018-01-19"
   - title: "michael-ducy"
+    date: "2018-01-19"
+  - title: "gerie-owen"
     date: "2018-01-19"
 #  - title: "thomas-a-mcgonagle"
 #    date: "2018-01-19"
