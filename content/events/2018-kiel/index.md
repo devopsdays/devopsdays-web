@@ -45,14 +45,14 @@ Description = "devopsdays Kiel 2018"
   </div>
 </div> -->
 
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfIa7r1bDphxIk5k1hclulDDH7xeFbjqMiVNMg1s8nwWBPR7Q/viewform">Propose a talk!"</a>
   </div>
-</div>
+</div>-->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
