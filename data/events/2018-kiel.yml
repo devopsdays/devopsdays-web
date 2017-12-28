@@ -34,7 +34,7 @@ location_address: "Fraunhoferstraße 13, 24118 Kiel" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: location
   - name: sponsor
@@ -122,3 +122,212 @@ sponsor_levels:
     label: Contributor
   - id: supporter
     label: Supporting
+
+program:
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2018-05-16
+    start_time: "08:00"
+    end_time: "09:00"    
+  - title: "Welcome! - MC Sabine Wojcieszak & (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "09:00"
+    end_time: "09:15"        
+  - title: "Key Note (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "09:55"
+    end_time: "10:30"                
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2018-05-16
+    start_time: "10:30"
+    end_time: "10:40"                    
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "10:40"
+    end_time: "11:00"                    
+    comments: "powered by KPS-Concepts GmbH"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "11:00"
+    end_time: "11:35"                    
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "11:40"
+    end_time: "12:15"                    
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "12:20"
+    end_time: "12:55"                    
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "12:55"
+    end_time: "14:00"                    
+  - title: "Ignites (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Open Space preparation"
+    type: custom
+    date: 2018-05-16
+    start_time: "14:20"
+    end_time: "14:45"                                        
+  - title: "Open Space Session 1"
+    type: custom
+    date: 2018-05-16
+    start_time: "14:45"
+    end_time: "15:15"                    
+  - title: "Open Space Session 2"
+    type: custom
+    date: 2018-05-16
+    start_time: "15:15"
+    end_time: "15:45"                    
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "15:45"
+    end_time: "16:00"
+    comments: "powered by KPS-Concepts GmbH"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "16:00"
+    end_time: "16:35"
+  - title: "Reception with Beer & Soft Drinks"
+    type: custom
+    date: 2018-05-16
+    start_time: "16:35"
+    end_time: "17:00"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-16
+    start_time: "17:00"
+    end_time: "17:35"
+  - title: "Evening Event"
+    type: custom
+    date: 2018-05-16
+    start_time: "17:35"
+    end_time: "open end" 
+    comments: "program of the evening event will be published later" 
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2018-05-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome back! - MC Sabine Wojcieszak"
+    type: custom
+    date: 2018-05-17
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "Key Note (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2018-05-17
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "11:00"
+    end_time: "11:35"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "11:40"
+    end_time: "12:15"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "12:20"
+    end_time: "12:55"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "12:55"
+    end_time: "14:00"
+  - title: "Ignites (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Preparation of Open Space"
+    type: custom
+    date: 2018-05-17
+    start_time: "14:20"
+    end_time: "14:40"
+  - title: "Open Space Session 3"
+    type: custom
+    date: 2018-05-17
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space Session 4"
+    type: custom
+    date: 2018-05-17
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Talk (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "16:00"
+    end_time: "16:35"
+  - title: "Closing Key Note (tba)"
+    type: custom
+    date: 2018-05-17
+    start_time: "16:40"
+    end_time: "17:15"
+  - title: "Farewell! - MC Sabine Wojcieszak"
+    type: custom
+    date: 2018-05-17
+    start_time: "17:15"
+    end_time: "17:30"
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    
+    
+
+    
+                                                                                                      
