@@ -2,6 +2,7 @@
 Title = "Mike Fiedler"
 Twitter = "mikefiedler"
 image = ""
+website = "http://www.miketheman.net"
 type = "speaker"
 linktitle = "mike-fiedler"
 
