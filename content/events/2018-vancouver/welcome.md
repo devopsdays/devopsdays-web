@@ -28,11 +28,6 @@ Description = "devopsdays Vancouver 2018"
         <h2>Register</h2>
         <p><a href="https://www.eventbrite.ca/e/devops-days-vancouver-2018-mar-31st-apr-1st-tickets-29634403298">Tickets are now on sale!</a>
     </div>
-    <div style="width:44%;margin:3% 1em;float:left;">
-        <h2>Sponsor</h2>
-        <p>Help support this event with one of the sponsor packages.</p>
-        <p><a href="/events/2018-vancouver/sponsor/">Sponsor DevOpsDays Vancouver 2018!</a></p>
-    </div>
 </div>
     
 
@@ -71,5 +66,10 @@ Description = "devopsdays Vancouver 2018"
         <h2>Twitter</h2>
         <h3><a href="https://twitter.com/devopsdaysyvr" style="text-decoration:none;">@devopsdaysyvr</a></h3>
         <h3><a href="https://twitter.com/search?q=%23devopsdays" style="text-decoration:none;">#devopsdays</a></h3>
+    </div>
+    <div style="width:44%;margin:3% 1em;float:left;">
+        <h2>Sponsor</h2>
+        <p>Help support this event with one of the sponsor packages.</p>
+        <p><a href="/events/2018-vancouver/SponsorDevOpsDays2018.pdf">Sponsor DevOpsDays Vancouver 2018!</a></p>
     </div>
 </div>
