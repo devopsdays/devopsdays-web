@@ -7,15 +7,17 @@ Description = "devopsdays Oslo 2017"
 
 <div style="text-align:center;">
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<!--<h2>{{< event_start >}} - {{< event_end >}}</h2>-->
+
+<h1><a href="https://youtu.be/K72X8_KQeys">Videos from Wednesday Nov 1st</a></h1>
+<h1><a href="https://youtu.be/uGEnG3wZqn4">Videos from Thursday Nov 2nd</a></h1>
+<h3><a href="program/">Slides from the ignite talks can be found as a link on each talk description</a></h3>
 
 <br>
 
 {{< event_logo >}}
 
-<p><h3>{{< event_link page="registration" text="Early bird registration is open!" >}}</h3><img src=""></p>
-
-<p>Act now to secure your ticket at early-bird rates - once they're gone, they're gone...</p>
+<!--<p><h3>{{< event_link page="registration" text="Registration is open!" >}}</h3><img src=""></p>-->
 
 </div>
 
@@ -35,14 +37,13 @@ Description = "devopsdays Oslo 2017"
 
 <hr>
 
-<h2>Call for papers</h2>
-{{< event_link page="propose" text="Propose a talk!" >}}
-
-<hr>
-
-<h2>Sponsorships</h2>
-{{< event_link page="sponsor" text="Sponsor the event!" >}} It's a great way to attract new talent and promote your organization.
-
+<h2>Feedback</h2>
+Your feedback is highly appreciated! We have created two online forms for you:
+<ul>
+  <li>Use this form to <a href="https://goo.gl/forms/t6CxV2UQARXwqMNy2">share your thoughts on the conference in general</a></li>
+  <li>...and this one to <a href="https://goo.gl/forms/KYxJ16vXU7tyY6NH2">give feedback on speakers and talks</a></li>
+</ul>
+If you prefer using pen and paper, we have a good old mailbox for that at the venue.
 <hr>
 
 <div class = "row">
@@ -77,7 +78,7 @@ Description = "devopsdays Oslo 2017"
     <strong>Conference hotel</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.thonhotels.com/event/devopsdays2017/">Thon Hotel Oslo Panorama</a>
+    <a href="https://www.thonhotels.no/hoteller/norge/oslo/thon-hotel-oslo-panorama">Thon Hotel Oslo Panorama</a> offer discounted rates for attendees and is just a two minute walk from the conference. Although our discount code is expired, you will still get the discount by booking per e-mail to panorama.booking@olavthon.no and referring to the DevOpsDays conference.
   </div>
 </div>
 
@@ -92,31 +93,21 @@ Description = "devopsdays Oslo 2017"
 
 <div class = "row">
   <div class = "col-md-3">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-3">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div> -->
-<!--
-<div class = "row">
-  <div class = "col-md-3">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
--->
+
+<div class = "row">
+  <div class = "col-md-3">
+    <strong>Program</strong>
+  </div>
+  <div class = "col-md-8">
+    View the {{< event_link page="program" text="program." >}}
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-3">

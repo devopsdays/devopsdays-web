@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Graphs: The Fabric of DevOps"
 Type = "talk"
 Speakers = ["ashley-sun"]
+youtube = "xzLPo3gtX-I"
 +++
 
 Lending Club runs 400+ microservices that comprise its online marketplace lending platform, the largest in America. Every one of these services has been developed, tested and deployed without drama. How? Our DevOps team uses graph database technology to manage infrastructure and operate the company.

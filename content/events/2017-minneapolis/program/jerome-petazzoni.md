@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Deploying and scaling microservices in containers with Docker Swarm"
 Type = "talk"
 Speakers = ["jerome-petazzoni"]
+youtube = "DABbqyJeG_E"
 +++
 
 The Docker Engine has native orchestration capabilities since June 2016. It touts unmatched operational simplicity and security, but does it live up to the hype?

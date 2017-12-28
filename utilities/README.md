@@ -47,7 +47,7 @@ sponsors:
   - id: netapp
     level: gold
     url: http://netapp.com/?tracking=myeventthing
-  - id: gocd
+  - id: thoughtworks-gocd
     level: gold
 ```
 
@@ -133,3 +133,36 @@ speakerdeck = ""
 slideshare = ""
 slides = ""
 ```
+
+# Bash tips:
+
+Set `$DOD_YEAR` and `$DOD_CITY` and the scripts won't ask
+for the year and city every time.
+
+Here are some useful bash exports/aliases. Add them to your `.bashrc`:
+
+```
+# devopsdays
+export DOD_YEAR="2018"            # your year
+export DOD_CITY="new-york-city"   # your city
+export DODPATH=~/git/devopsdays-web   # location of Git files
+alias dod='cd $DODPATH'
+alias dods='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodp='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/program'
+alias dodi='cd $DODPATH/static/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodyml='dod && $EDITOR data/events/$DOD_YEAR-$DOD_CITY.yml'
+alias dodfind='dod && find data/events/$DOD_YEAR-$DOD_CITY.yml content/events/$DOD_YEAR-$DOD_CITY/{speakers,program} static/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodhugo='dod && echo open http://localhost:1313 ; hugo server -w --baseUrl="http://localhost:1313"'
+```
+
+* `dod`  -- chdir to your base directory
+* `dods`  -- chdir to your devopsdays speaker files
+* `dodp`  -- chdir to your devopsdays program files
+* `dodi`  -- chdir to your devopsdays speaker JPGs (images)
+* `dodyml`  -- edit the YAML file
+* `dodhugo`  -- run hugo in "watch" mode
+* `dodfind`  -- Run "find" on your event's directories
+  *  Example: Find all the files for speaker "jane-doe"
+    * `dodfind -name '*jane-doe*'`
+  *  Example: Find all the files that mention "jane-doe"
+    * `dodfind -type f -print0 | xargs -0 grep jane-doe`

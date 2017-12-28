@@ -8,7 +8,7 @@ Description = "Registration for DevOpsDays Auckland 2017"
 
 ## Registration
 
-You can register now register for DevOpsDays Auckland 2017. We are currently offering a limited amount early bird tickets. So hurry now to avoid disappointment!
+You can now register for DevOpsDays Auckland 2017. We have now sold out of all Early Bird tickets.
 
 We'll be updating this page with more information for participants coming to DevOpsDays Auckland.
 
@@ -24,12 +24,7 @@ Scholarships are awarded based on a combination of need and impact. Selection is
 Scholarship recipients will receive a complimentary registration pass (non-transferrable). Please note, **travel expenses and accommodations are not covered under this scholarship** and are the responsibility of the scholarship recipient.
  
 ### Eligibility
-Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of colour, and/or persons with disabilities; and be unable to attend without some financial assistance.
+Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of colour, students and/or persons with disabilities; and be unable to attend without some financial assistance.
  
 ### How to Apply
-Please fill the form below to apply for the scholarship. All application information will be kept confidential. Please allow the committee enough time to review the application. The accepted applicants will be notified via email on the week of September 1-8. If you have any questions, please contact us at: {{< email_organizers >}}
-
-<strong>Make sure you submit your application before the August 31th deadline.</strong>
-
-<iframe src="https://docs.google.com/forms/d/1h4fkaM40Hjh4xuQBAujTxTju2WDOvPJeGj1Kj1U-RKM/viewform?embedded=true" width="760" height="2812" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
-
+Please  contact us at: {{< email_organizers >}} to apply for the scholarship.

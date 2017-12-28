@@ -16,21 +16,11 @@ Participe y comparta en 4 días de conferencias, charlas, workshops intercambian
 
 **NOTA / NOTE:** Descuento de vuelo si viaja con la aereolinea COPA. / Fly discount if you use COPA Airlines*<a href="/events/2017-cuba/discount"> Más... / More...</a>*
 
+**[Actualizacion / Update]**: La sessiones del evento han sido reubicada para el Hotel Melia Marina Varadero. / The sessions of the event have been transferred to the Hotel Melia Marina Varadero.
+     
+
+
 ----------
-
-**Por qué participar? / Why Attend?**
-
- - Si está en el gobierno, academia o es parte del sector privado, DevOpsDays es para usted. / *Whether you’re in government, academia, or the private sector, DevOpsDays is for you.* 
-
- - Si está en operaciones, desarrollo, calidad, seguridad u otro departamento, DevOpsDays es para usted. / *Whether you’re in operations, development, QA, security, or any other department, DevOpsDays is for you.*
-
- - Si desea aprender sobre **DevOps**, compartir sus experiencias o simplemente hablar con profesionales del DevOps, DevOpsDays es para usted. / * Whether you want to learn about DevOps, share your experiences, or just talk shop with DevOps practitioners, DevOpsDays is for you.
-
-<a href="/events/2017-cuba/about">Más../ *More...*</a>
-  
-  
-  
-  
 
 <img style="float: left; max-width: 300px; padding: 0px 20px 20px 0px" src="/events/2017-cuba/logo.png">
 
@@ -94,8 +84,8 @@ Participe y comparta en 4 días de conferencias, charlas, workshops intercambian
     <a href="https://twitter.com/devopsdayscuba">Twitter</a><br>
     <a href="https://linkedin.com/groups/7070120">LinkedIn</a><br>
     <a href="https://speakerdeck.com/devopsdayscuba/">Speakerdeck</a><br>
-    <!--<a href="https://www.youtube.com/playlist?list=PLobspijdw3822IEFotAHz_vWrc0nTqwxn">Youtube</a><br>-->
-    <a href="https://www.flickr.com/photos/devopsdayscuba/sets/72157676474202286">Flickr</a><br>
+    <a href="https://www.youtube.com/channel/UC164HR_pJ1mdIKrorv88AQw">Youtube</a><br>
+    <a href="https://www.flickr.com/photos/devopsdayscuba/sets/72157686783672782">Flickr</a><br>
     </div>
 </div>  
 

@@ -70,15 +70,15 @@ sponsors:
     level: silver
   - id: 2015-servicenow
     level: silver
-  - id: 2015-cardinalsolutions
+  - id: cardinalsolutions
     level: silver
   - id: 2015-bmc
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: silver
   - id: 2015-columntechnologies
     level: silver
-  - id: 2015-advizex
+  - id: advizex
     level: bronze
   - id: 2015-teksystems
     level: bronze

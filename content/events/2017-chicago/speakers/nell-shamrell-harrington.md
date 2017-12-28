@@ -3,6 +3,7 @@ Title = "Nell Shamrell-Harrington"
 Twitter = "nellshamrell"
 Website = "http://www.nellshamrell.com/"
 type = "speaker"
+image = "nell-shamrell-harrington.jpg"
 linktitle = "nell-shamrell-harrington"
 
 +++

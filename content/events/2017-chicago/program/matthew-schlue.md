@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Delivering Continuous Security with Docker"
 Type = "talk"
 Speakers = ["matthew-schlue"]
+youtube = "3Rjp2yNy9R8"
 +++
 
 With the trend towards increased usage of containerization, has your companies security practices kept pace? Many popular vulnerability scanners only examine the host OS, making it easier for CVE’s to go unnoticed. In this talk we explore how to identify and protect against vulnerable containers.

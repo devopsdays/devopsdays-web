@@ -89,7 +89,7 @@ sponsors:
     level: gold
   - id: signalsciences
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: gold
   - id: slalom-before-20161230
     level: gold
@@ -109,7 +109,7 @@ sponsors:
     level: silver
   - id: herzum
     level: silver
-  - id: atlassian
+  - id: atlassian-before-20171216
     level: silver
   - id: drw
     level: bronze
@@ -131,7 +131,7 @@ sponsors:
     level: community
   - id: grubhub
     level: lunch
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: lanyard
 
 sponsor_levels:

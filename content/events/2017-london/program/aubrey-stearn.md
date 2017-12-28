@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "What my dad taught me about ChatOps"
 Type = "talk"
 Speakers = ["aubrey-stearn"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "F-VjrwBTMHw"
 +++
 
 What my dad taught me about ChatOps

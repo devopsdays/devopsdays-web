@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Devops Deeper Thoughts by Not Jack Handey"
 Type = "talk"
 Speakers = ["joshua-zimmerman"]
+youtube = "Gi78QOVxqMw"
 +++
 
 If you thought that [last year’s thoughts were deep](https://www.devopsdays.org/events/2016-chicago/program/joshua-zimmerman/), wait until you hear this year’s. Not Jack Handey returns with another ignite full of one-liner jokes and fun “facts” about devops inspired by the SNL segments of yesteryear.

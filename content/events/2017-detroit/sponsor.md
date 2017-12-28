@@ -30,9 +30,9 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   <tr>
     <th><i>Benefits</i></th>
     <th><center><b><u>Bronze<br />$1,000 USD</u></center></b></th>
-    <th><center><b><u>Silver<br />$3,000 USD</u></center></b></th>
-    <th><center><b><u>Gold<br />$5,000 USD</u></center></b></th>
-    <th><center><b><u>Platinum<br />$10,000 USD</u></center></b></th>
+    <th><center><b><u>Silver<br />SOLD OUT</u></center></b></th>
+    <th><center><b><u>Gold<br />SOLD OUT</u></center></b></th>
+    <th><center><b><u>Platinum<br />SOLD OUT</u></center></b></th>
   </tr>
 <tr><td>Logo on Event Website</td>     <td bgcolor="gold">&nbsp;</td>          <td bgcolor="gold">&nbsp;</td>          <td bgcolor="gold">&nbsp;</td>       <td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>Logo on Shared Slides, Rotating During Breaks</td>     <td bgcolor="gold">&nbsp;</td>          <td bgcolor="gold">&nbsp;</td>          <td bgcolor="gold">&nbsp;</td>       <td bgcolor="gold">&nbsp;</td></tr>

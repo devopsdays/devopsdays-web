@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Devaluing Hard Work"
 Type = "talk"
 Speakers = ["katie-prizy"]
+youtube = "XepJYgblKqw"
 +++
 
 My team is finishing a 15 month project aimed to convert over 500 Enterprise applications to a standard development methodology and CI/CD pipeline. This included a company-wide re-org, defining new Scrum processes and attending bootcamps, and undergoing a complete tooling overhaul.

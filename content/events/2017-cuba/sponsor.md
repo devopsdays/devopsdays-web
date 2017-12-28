@@ -17,7 +17,7 @@ Los patrocinadores de nivel Oro se le asignará una mesa completa y patrocinador
 Lo mejor que puede hacer es enviar ingenieros para interactuar con los expertos en DevOpsDays en sus propios términos.
 
 <p>Agradecemos a todos los interesados en patrocinar este evento abierto. Si usted está interesado en patrocinar, por favor envíenos un email a [{{< email_organizers >}}].
-Para mayor información por favor <a href="http://assets.devopsdays.org/events/2017/cuba/devopsdays_cuba_2017_sponsor-prospectus_v20170331-01.pdf">descargue y revise nuestro prospecto</a>.</p>
+Para mayor información por favor <a href="https://assets.devopsdays.org/events/2017/cuba/sponsorship-devopsdayscuba2017.pdf">descargue y revise nuestro prospecto</a>.</p>
 
 <br><br>
 <i>DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
@@ -28,7 +28,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 <br>
 
 <p><i>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-For more information please <a href="http://assets.devopsdays.org/events/2017/cuba/devopsdays_cuba_2017_sponsor-prospectus_v20170331-01.pdf">download and view to our prospectus</a>.</i></p>
+For more information please <a href="https://assets.devopsdays.org/events/2017/cuba/sponsorship-devopsdayscuba2017.pdf">download and view to our prospectus</a>.</i></p>
 
 <hr/>
 

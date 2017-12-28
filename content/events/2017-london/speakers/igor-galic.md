@@ -1,5 +1,5 @@
 +++
-Title = "Igor Galic"
+Title = "Igor Galić"
 Twitter = "hirojin"
 image = "igor-galic.png"
 type = "speaker"

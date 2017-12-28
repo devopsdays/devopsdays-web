@@ -2,6 +2,7 @@
 Title = "Katie Prizy"
 Twitter = "kprizy"
 type = "speaker"
+image = "katie-prizy.jpg"
 linktitle = "katie-prizy"
 
 +++

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Boring Is Powerful"
 Type = "talk"
 Speakers = ["jon-topper"]
+speakerdeck = "https://speakerdeck.com/scalefactory/boring-is-powerful"
+youtube = "90EUfSpk96M"
 +++
 
 

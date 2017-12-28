@@ -78,7 +78,7 @@ sponsors:
     level: blackdiamond
   - id: hpe
     level: bluesquare
-  - id: influxdata
+  - id: influxdata-before-20171218
     level: bluesquare
   - id: victorops
     level: bluesquare

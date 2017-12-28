@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Security, Don't Fear the DevOps"
 Type = "talk"
 Speakers = ["bill-weiss"]
+youtube = "Piud8e9MvZw"
 +++
 
 A lot of security people have a bad attitude about DevOps. Heck, sometimes it’s for good reasons. Lots of vendors are selling “DevOps in a box”, they’ll come in and “do the DevOps for you”, etc. What can you end up with? Lots of people with root access to servers with real data on them, code being deployed straight into production without appropriate testing, dogs and cats living together, mass hysteria!

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Ops to Dev - What to bring, what to leave"
 Type = "talk"
 Speakers = ["igor-galic"]
+#speakerdeck = "https://speakerdeck.com/TODO"
+youtube = "qhqw88oU6kE"
 +++
 
 As student Richard Feynman had an unorthodox approach to mathematics. Later he would frequently stun his famous and well established colleagues — simply by using tools from a different box.
