@@ -1,8 +1,7 @@
 +++
-date = "2017-12-13T16:20:00-08:00"
-title = "policies"
-type = "event"
-
+Title = "Policies"
+Type = "event"
+Description = "Policies | devopsdays Vancouver 2018"
 +++
 
 ## Ticket Policies
