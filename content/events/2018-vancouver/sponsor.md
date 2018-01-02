@@ -1,7 +1,7 @@
 +++
 Title = "Sponsorship Information"
 Type = "event"
-Description = "Sponsor DevOpsDays Vancouver 2018"
+Description = "Sponsor | devopsdays Vancouver 2018"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
