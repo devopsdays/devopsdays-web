@@ -4,19 +4,21 @@ Type = "event"
 Description = "Sponsor devopsdays New York City 2018"
 +++
 
+<hr>
+<hr>
+<hr>
+
+<b>NOTE: At this time all sponsorships are sold out</b>.
+
+<hr>
+<hr>
+<hr>
+
+<hr>
+<p>
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [ {{< email_organizers subject="Sponsor devopsdays NYC" >}}].
+</p>
 
-<hr>
-<hr>
-<hr>
-
-NOTE: At this time all sponsorships except <b>Closed Captioning Sponsorship</b> are sold out.
-
-<hr>
-<hr>
-<hr>
-
-<hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <strike>
@@ -99,7 +101,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <p></P>
 <p>
 <li><b>Lanyard Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $2,500.  </li>
-<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event.  This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials.  While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. </strike> </li>
+<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event.  This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials.  While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. </li>
 
 <li><b>Closed Captioning Sponsorship:</b>  Everyone at the event will see  your name every
 time they look up to see the CC screen at the event.  We'll also mention you name
@@ -125,8 +127,8 @@ available for years.  There is only a single sponsorship available and it is $5,
 <hr>There are also opportunities for exclusive special sponsorships. We’ll have sponsors for various events with special privileges for the sponsors of these events.</strike>
 <p>
 If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:organizers-nyc-2016@devopsdays.org?subject=Sponsor devopsdays NYC">send us an email</a>.</p>
+</strike>
 <br><br></div>
-
 
 <!--
 <hr/>
