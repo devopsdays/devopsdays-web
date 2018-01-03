@@ -26,7 +26,7 @@
               </p>
                 {{- if .twitter -}}
                   {{- $twitter := replace .twitter "@" "" -}}
-                  <a href="http://twitter.com/{{ $twitter }}" class="card-link"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
+                  <a href="https://twitter.com/{{ $twitter }}" class="card-link"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .website -}}
                     <a href = "{{ .website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i></a>&nbsp;
@@ -38,7 +38,7 @@
                     <a href = "{{ .linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .github -}}
-                    <a href = "http://github.com/{{ .github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
+                    <a href = "https://github.com/{{ .github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
                 {{- end -}}
                 {{- if .gitlab -}}
                     <a href = "https://gitlab.com/{{ .gitlab}}"><i class="fa fa-gitlab fa-2x" aria-hidden="true"></i></a>&nbsp;
