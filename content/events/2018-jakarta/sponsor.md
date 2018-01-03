@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Jakarta 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="mailto:organizers-jakarta-2018@devopsdays.org?subject=Sponsor DevOpsDays Jakarta 2018">drop us an email</a> or [download the prospectus](https://drive.google.com/file/d/1_7L8gNjinErM5mG3gO8qEapNqb1yipBE) right away.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please <a href="mailto:organizers-jakarta-2018@devopsdays.org?subject=Sponsor DevOpsDays Jakarta 2018">drop us an email</a> or [download the prospectus](http://snipli.com/dodjkt18sponsor) right away.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
@@ -12,7 +12,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/file/d/1_7L8gNjinErM5mG3gO8qEapNqb1yipBE" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="http://snipli.com/dodjkt18sponsor" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## Why Sponsor Us?
 
