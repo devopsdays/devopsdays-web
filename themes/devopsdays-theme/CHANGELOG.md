@@ -1,5 +1,35 @@
 # Change Log
 
+## [1.15.0](https://github.com/devopsdays/devopsdays-theme/tree/1.15.0) (2018-01-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.2...1.15.0)
+
+**Implemented enhancements:**
+
+- Migrate from codekit to gulp [\#355](https://github.com/devopsdays/devopsdays-theme/issues/355)
+- Add "event\_group" optional key to event data file [\#61](https://github.com/devopsdays/devopsdays-theme/issues/61)
+
+**Fixed bugs:**
+
+- Default speaker image is too big [\#597](https://github.com/devopsdays/devopsdays-theme/issues/597)
+
+**Closed issues:**
+
+- Test issue for movebot [\#610](https://github.com/devopsdays/devopsdays-theme/issues/610)
+
+## [1.14.2](https://github.com/devopsdays/devopsdays-theme/tree/1.14.2) (2017-10-07)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.1...1.14.2)
+
+## [1.14.1](https://github.com/devopsdays/devopsdays-theme/tree/1.14.1) (2017-10-07)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.0...1.14.1)
+
+**Implemented enhancements:**
+
+- change organizers page to use https for twitter and github [\#595](https://github.com/devopsdays/devopsdays-theme/issues/595)
+
+**Fixed bugs:**
+
+- Version number in theme file needs to be a string [\#598](https://github.com/devopsdays/devopsdays-theme/issues/598)
+
 ## [1.14.0](https://github.com/devopsdays/devopsdays-theme/tree/1.14.0) (2017-08-31)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.1...1.14.0)
 
