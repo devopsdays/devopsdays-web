@@ -11,14 +11,14 @@ enddate: 2018-03-31 # The end date of your event. Leave blank if you don't have 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-12-01 # start accepting talk proposals.
-cfp_date_end: 2018-02-01 # close your call for proposals.
+cfp_date_end: 2018-03-01 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://goo.gl/forms/yrdB4jKfG6tgScFl1" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-01-01 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-03-30 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2018-05-05 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
