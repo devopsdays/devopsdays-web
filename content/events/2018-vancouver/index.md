@@ -28,23 +28,32 @@ aliases = ["/events/2018-vancouver/welcome"]
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href = "https://www.papercall.io/devopsdays-vancouver-2018">Propose a talk!</a>
   </div>
-</div> -->
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href = "https://www.eventbrite.ca/e/devops-days-vancouver-2018-apr-20th-21st-tickets-41596196343?aff=es2">Register to attend the conference!</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Sponsors</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="sponsor" text="Sponsor devopsdays Vancouver!" >}}
+  </div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,15 +72,6 @@ aliases = ["/events/2018-vancouver/welcome"]
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor devopsdays Vancouver!" >}}
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">
