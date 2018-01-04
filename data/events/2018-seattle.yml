@@ -87,6 +87,16 @@ sponsors:
     level: gold
   - id: t-mobile
     level: gold
+  - id: scalyr
+    level: gold
+  - id: slalom
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: ignw
+    level: gold
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
