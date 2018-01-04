@@ -9,11 +9,47 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
+
 Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
+
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+
+### Gold - 5000 EUR
+
+* 5 included tickets
+* 15% discount code on tickets to share with your members
+* A full sponsor table
+* One-minute sponsor pitch
+* Logo on website
+* Logo on email communication
+
+### Silver - 3000 EUR
+
+* 4 included tickets
+* 10% discount code on tickets to share with your members
+* A shared sponsor table
+* Logo on website
+* Logo on email communication
+
+### Community - 1500 EUR
+
+* 2 included tickets
+* Logo on website
+
+### Several sponsorship add-ons are available for 1100 EUR
+
+* party sponsor
+* breakfast sponsor
+* lunch sponsor
+* dinner sponsor
+* wifi sponsor
+* beer sponsor
+* cake sponsor
+* lanyard sponsor
+* badge sponsor
+
+
+If you are interested in sponsoring, please send us an email at [{{< email_organizers >}}].
 
 <!--
 <hr/>
