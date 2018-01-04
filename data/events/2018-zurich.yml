@@ -80,10 +80,10 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     image: "martin-thalmann.jpg"
   - name: "Matías E. Fernández"
     twitter: "matiasfrndz"
-    employer: "ERNI Consulting AG"
+    employer: "Swisscom AG"
     bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
 Keen learner and challenger of the status quo.<p>
-Enabling organisations to achieve outstanding and sustainable results that exceed customers?~@~Y expectations is his passion."
+Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
     github: "matiasfrndz"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/matiasfrndz/"
@@ -136,7 +136,7 @@ sponsors:
     level: silver
   - id: dectris
     level: bronze
-    
+
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: Evening Event
