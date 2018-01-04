@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "WordPress Goes Serverless"
 Type = "talk"
 Speakers = ["daniel-olson"]
+youtube = "04dDdvLkDEE"
 +++
 
 What can WordPress gain from Serverless Architecture?
