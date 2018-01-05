@@ -13,6 +13,22 @@ aliases = ["/events/2018-new-york-city/ecard"]
 The official URL for this event is: <code><a href="http://dod.nyc">http://dod.nyc</a></code>
 </p>
 
+<h1>Official Logos:</h1>
+
+<p>Small: (237 × 253 pixels)<br>
+<a href="/events/2018-new-york-city/devops_day_small.png">
+<img src="/events/2018-new-york-city/devops_day_small.png" style="border: #000000 1px solid; height: 50px;">
+</a>
+</p>
+
+<p>Big: (1334 × 1424 pixels)<br>
+<a href="/events/2018-new-york-city/devops_day.png">
+<img src="/events/2018-new-york-city/devops_day.png" style="border: #000000 1px solid; height: 300px;">
+</a>
+</p>
+
+
+
 <h1>Social Media:</h1>
 
 <p>
