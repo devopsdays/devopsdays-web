@@ -26,9 +26,9 @@ Only 1 available! You sponsor the happy hour. This price covers drink service fo
 
 ### Lanyard Sponsor ($5000)
 
-Only 1 available! As the sole sponsor of the badge/lanyard, your logo appears on the lanyard.
+~~Only 1 available!~~ **Sold!** As the sole sponsor of the badge/lanyard, your logo appears on the lanyard.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info">Pay Now to Put Your Logo on the Lanyard!</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info" style="display:none;">Pay Now to Put Your Logo on the Lanyard!</a>
 
 ### Community Leader ($3000)
 
