@@ -98,7 +98,7 @@ team_members: # Name is the only required field for team members.
   - name: "Elizabeth Tobin"
     twitter: ""
     employer: "Cigna"
-    github: "tobin860"
+    github: "etobin860"
     image: ""
     bio: ""
   - name: "Brian Jackson"
