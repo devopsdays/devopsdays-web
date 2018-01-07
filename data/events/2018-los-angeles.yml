@@ -43,7 +43,11 @@ sponsors:
     level: sponsor
   - id: microsoft
     level: sponsor
+  - id: scalyr
+    level: sponsor
   - id: signalfx
+    level: sponsor
+  - id: sysdig
     level: sponsor
    
 
