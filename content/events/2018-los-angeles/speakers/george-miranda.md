@@ -1,7 +1,7 @@
 +++
 Title = "George Miranda"
 Twitter = "gmiranda23"
-image = "george-miranda.png"
+image = "george-miranda.jpg"
 type = "speaker"
 linktitle = "george-miranda"
 
