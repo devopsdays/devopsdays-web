@@ -31,7 +31,7 @@ location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but yo
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -168,6 +168,8 @@ sponsors:
   - id: scalyr
     level: lanyard
   - id: scalyr
+    level: communityleader
+  - id: appdynamics
     level: communityleader
 #  - id: samplesponsorname
 #    level: gold
