@@ -111,10 +111,16 @@ sponsors:
     level: silver
   - id: signalfx
     level: silver
+  - id: opsgenie
+    level: silver
+  - id: fastly
+    level: silver
   - id: flatiron-health
     level: bronze
   - id: dbmaestro
     level: bronze
+  - id: kaizenops
+    level: cc
   - id: arresteddevops
     level: community
 
@@ -127,6 +133,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: venue
     label: Venue
+    max: 1
+  - id: cc
+    label: Closed Captioning
     max: 1
   - id: gold
     label: Gold
