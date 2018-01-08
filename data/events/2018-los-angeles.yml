@@ -20,6 +20,8 @@ location: "Pasadena Convention Center" # Defaults to city, but you can make it t
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: location
+  - name: program
+  - name: speakers
   - name: contact
   - name: conduct
 
@@ -49,7 +51,48 @@ sponsors:
     level: sponsor
   - id: sysdig
     level: sponsor
-   
+
+program:
+  - title: "Registration and Welcome"
+    type: custom
+    date: "2018-03-09"
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "george-miranda"
+    type: talk
+    date: "2018-03-09"
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "anthony-chow"
+    type: talk
+    date: "2018-03-09"
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch Break"
+    type: custom
+    date: "2018-03-09"
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Lightning Talks"
+    type: custom
+    date: "2018-03-09"
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "john-willis"
+    type: talk
+    date: "2018-03-09"
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "silvia-botros"
+    type: talk
+    date: "2018-03-09"
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "rami-al-ghanmi"
+    type: talk
+    date: "2018-03-09"
+    start_time: "16:45"
+    end_time: "17:30"
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
