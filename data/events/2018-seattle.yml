@@ -79,10 +79,6 @@ proposal_email: "organizers-seattle-2018@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: thoughtworks-gocd
     level: gold
-  - id: influxdata
-    level: silver
-  - id: rightstar
-    level: silver
   - id: rei
     level: gold
   - id: t-mobile
@@ -93,12 +89,26 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
+  - id: influxdata
+    level: gold
   - id: pagerduty
     level: gold
   - id: ignw
     level: gold
   - id: automic
     level: gold
+  - id: chef
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: extrahop
+    level: gold
+  - id: rightstar
+    level: silver
+  - id: sumologic
+    level: silver
+  - id: contrast_security
+    level: silver
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
