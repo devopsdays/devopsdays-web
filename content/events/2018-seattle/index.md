@@ -29,7 +29,7 @@ long waiting lists the last two years, so this year we're expanding to make
 room for up to 500 participants.
 
 Our Call for Proposals is now closed. We are busy going through more than 200
-great proposals and will announce the schedule soon!
+great submissions and will announce the schedule soon!
 
 DevOpsDays is a great opportunity for sponsors. You'll have direct access
 to hundreds of practitioners. For more information about sponsorship
