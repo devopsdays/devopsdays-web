@@ -5,7 +5,7 @@ Talk_end_time = "11:00"
 Title = "Describing Your DevOps Journey with Story Mapping"
 Type = "talk"
 Speakers = ["steven-murawski"]
-Youtube = ""
+Youtube = "https://www.youtube.com/watch?v=25Yddn85Dhw"
 Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""
