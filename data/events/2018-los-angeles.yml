@@ -41,9 +41,15 @@ proposal_email: "organizers-los-angeles-2018@devopsdays.org"
 sponsors:
   - id: datadog
     level: sponsor
+  - id: dynatrace
+    level: sponsor
   - id: influxdata
     level: sponsor
+  - id: kaizenops
+    level: sponsor
   - id: microsoft
+    level: sponsor
+  - id: portworx
     level: sponsor
   - id: scalyr
     level: sponsor
