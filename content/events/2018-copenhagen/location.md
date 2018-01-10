@@ -1,10 +1,19 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Copenhagen 2018"
+Description = "Location for DevOps Days Copenhagen 2018"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+<br/>
+**DevOps Days Copenhagen is being hosted at [Mogens Dahl Koncertsal](http://www.mogensdahl.dk/en/konferencer-events/event-2/ "Website of Mogens Dahl"), Snorresgade 22, 2300 Copenhagen S.**
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+### Parking
+
+There are parking spots right outside the venue at Copenhagen's cheapest parking rates.
+
+### Public transport
+
+The **Bus 250S** goes straight to the venue: stop at **Kigkurren**.
+The Metro stop **Islands Brygge** is a 8-minute walk from the venue.
+
+{{< event_map >}}
