@@ -67,6 +67,8 @@ proposal_email: "proposals-jakarta-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: btpn
     level: platinum
+  - id: ekipa
+    level: silver
   - id: agile-singapore
     level: community
   - id: singapore-devops-community
@@ -76,6 +78,8 @@ sponsors:
   - id: singapore-spring-community
     level: community
   - id: agile-circles
+    level: community
+  - id: devops-indonesia
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
