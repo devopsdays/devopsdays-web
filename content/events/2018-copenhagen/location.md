@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for DevOps Days Copenhagen 2018"
+Description = "Location for DevOpsDays Copenhagen 2018"
 +++
 
 <br/>
