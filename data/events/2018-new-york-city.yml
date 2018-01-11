@@ -48,6 +48,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/rossclanton"
     image: "ross-clanton.jpg"
   - name: "Ceren Ercen"
+    image: "ceren-ercen.jpg"
   - name: "Tom Limoncelli"
     twitter: "YesThatTom"
     employer: "Stack Overflow, Inc."
