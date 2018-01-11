@@ -17,7 +17,7 @@ Embed registration iframe/link/etc.
 ## Registration is closed
 
 <p style="width: 550px; border: 25px solid green; padding: 25px; margin: 25px; ">
-Due to high demand, we've sold out of tickets for the event.  We've reached room capacity and can not make exceptions.
+Due to high demand, we've sold out of tickets for the event.  We've reached room capacity and can not make exceptions. There is no waitlist. (sorry!)
 <br>
 Recordings of the talks will be posted on Youtube approximately 3 weeks after the event. 
 <br>
