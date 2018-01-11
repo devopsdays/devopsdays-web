@@ -7,6 +7,8 @@ Description = "Propose a talk for devopsdays Maringá 2018"
 
 <hr>
 
+## Have something to share? Submit your proposal [here](https://goo.gl/forms/qqEtGnPPULtZ7rQu1)!
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
