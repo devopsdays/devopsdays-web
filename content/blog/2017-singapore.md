@@ -1,7 +1,7 @@
 +++
 Tags = ["2017"]
 Author = "Christian Trabold"
-Description = "On October 25th and 26th 2016, software practitioners from all over the world met in Microsoft Operations Offices Singapore to discuss DevOps at [DevOpsDays Singapore](/events/2017-singapore/)."
+Description = "On October 25th and 26th 2017, software practitioners from all over the world met in Microsoft Operations Offices Singapore to discuss DevOps at [DevOpsDays Singapore](/events/2017-singapore/)."
 date = "2018-01-11T23:33:36+08:00"
 title = "Singapore 2017 in review"
 Categories = []
