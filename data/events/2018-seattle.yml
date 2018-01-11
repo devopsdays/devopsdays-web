@@ -103,6 +103,8 @@ sponsors:
     level: gold
   - id: extrahop
     level: gold
+  - id: opsgenie
+    level: gold
   - id: rightstar
     level: silver
   - id: sumologic
