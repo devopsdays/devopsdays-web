@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays Silicon Valley 2018"
 Type = "welcome"
-aliases = ["/events/2018-siliconvalley/welcome"]
+aliases = ["/events/2018-silicon-valley/welcome"]
 Description = "devopsdays Silicon Valley 2018"
 +++
 
