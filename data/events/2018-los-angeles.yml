@@ -41,6 +41,8 @@ proposal_email: "organizers-los-angeles-2018@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: catchpoint
+    level: sponsor
   - id: contrast_security
     level: sponsor
   - id: datadog
