@@ -123,8 +123,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <td>Naming rights to a breakout room (four available)</td>
       <td style="padding: 5px" bgcolor="peru"></td>
       <td style="padding: 5px" bgcolor="silver"></td>
-      <td style="padding: 5px" bgcolor="gold"></td>
-      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+      <td style="padding: 5px" bgcolor="gold" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
       <td>Premium placement of table</td>
