@@ -21,8 +21,8 @@ cfp_link: "" #if you have a custom link for submitting proposals, add it here. T
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363"
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363"
 
 # Location
 #

@@ -14,14 +14,17 @@ Embed registration iframe/link/etc.
 
 <br>
 
-## Registration is closed
+## Registration is full. Try our waitinglist.
 
 <p style="width: 550px; border: 25px solid green; padding: 25px; margin: 25px; ">
-Due to high demand, we've sold out of tickets for the event.  We've reached room capacity and can not make exceptions. There is no waitlist. (sorry!)
+Due to high demand, we've sold out of tickets for the event.  We've reached room capacity and can not make exceptions.
+<br>
+<b><a href="https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363
+">There is a waiting list.</a></b>
 <br>
 Recordings of the talks will be posted on Youtube approximately 3 weeks after the event. 
 <br>
-Thank you for your interest in DevOpsDays NYC and we hope to see you at the next one. 
+We may not be able to accommodate all waitlist requests due to space limitations, but anyone on the waitlist will receive early notification when registration opens for the next DevOpsDays-NYC. 
 </p>
 
 If you have a ticket, you can [manage it here](https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363).
