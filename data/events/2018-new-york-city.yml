@@ -66,6 +66,7 @@ team_members: # Name is the only required field for team members.
     image: "kristen-olah.jpg"
   - name: "Matt Walter"
     twitter: "ohaiwalt"
+    employer: "Flatiron Health"
     linkedin: "https://linkedin.com/in/ohaiwalt"
     image: "matthew-walter.jpg"
   - name: "Nick Maxwell"
