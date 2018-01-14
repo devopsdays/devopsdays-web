@@ -1,8 +1,7 @@
 +++
-date = "2016-05-09T10:06:26-03:00"
-title = "conduta"
-type = "event"
-
+Title = "Código de Contuda"
+Type = "event"
+Description = "Code of conduct for devopsdays São Paulo 2018"
 +++
 
 ## Código de conduta

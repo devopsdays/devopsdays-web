@@ -1,9 +1,7 @@
 +++
-date = "2016-12-08T16:35:49-05:00"
-title = "registration"
-type = "event"
-
-
+Title = "Registration"
+Type = "event"
+Description = "Registration for devopsdays São Paulo 2018"
 +++
 
 <div style="width:100%; text-align:left;">
