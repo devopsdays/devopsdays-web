@@ -18,12 +18,12 @@ Description = "devopsdays São Paulo 2018"
   </div>
 </div>
 
-<<div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Local</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_location >}}
+    {{< event_link page="local" text="Hotel Century Paulista" >}}
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Description = "devopsdays São Paulo 2018"
     <strong>Patrocínios</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Patrocine este evento!" >}}
+    {{< event_link page="patrocinio" text="Patrocine este evento!" >}}
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Description = "devopsdays São Paulo 2018"
     <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
+    {{< event_link page="contato" text="Entre em contato com os organizadores" >}}
   </div>
 </div>
 
