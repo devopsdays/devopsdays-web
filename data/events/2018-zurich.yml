@@ -144,6 +144,9 @@ sponsors:
     level: bronze
   - id: atos
     level: gold
+  - id: swisscom
+    level: gold
+    url: https://job.swisscom.ch/ict/de?showclose=1
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
