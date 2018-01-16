@@ -81,7 +81,4 @@ Description = "devopsdays Beijing 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
