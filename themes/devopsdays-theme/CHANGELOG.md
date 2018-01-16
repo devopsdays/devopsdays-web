@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.16.0](https://github.com/devopsdays/devopsdays-theme/tree/1.16.0) (2018-01-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.15.0...1.16.0)
+
+**Closed issues:**
+
+- Speaker attributes obscure twitter name [\#612](https://github.com/devopsdays/devopsdays-theme/issues/612)
+
 ## [1.15.0](https://github.com/devopsdays/devopsdays-theme/tree/1.15.0) (2018-01-03)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.2...1.15.0)
 
