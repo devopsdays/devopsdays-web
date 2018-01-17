@@ -32,14 +32,25 @@ location_address: "Rua Teixeira da Silva, 637 / 647 - Paraíso - São Paulo" #Op
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: local
+    icon: "map-o"
  # - name: registration
+ #   icon: "pencil"
+
  # - name: program
+ #   icon: "book"
+
  # - name: speakers
+ #   icon: "microphone"
+
   - name: patrocínio
-    url: patrocinio
+    url: /events/2018-sao-paulo/patrocinio
+    icon: "money"
   - name: contato
+    icon: "envelope-o"
   - name: código de conduta
-    url: conduta
+    url: /events/2018-sao-paulo/conduta
+    icon: "handshake-o"
+
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
