@@ -20,10 +20,10 @@ Description = "devopsdays São Paulo 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Local</strong>
+    <strong>Location</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="local" text="Hotel Century Paulista" >}}
+    {{< event_link page="location" text="Hotel Century Paulista" >}}
   </div>
 </div>
 
