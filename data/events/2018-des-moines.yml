@@ -80,18 +80,24 @@ proposal_email: "proposals-des-moines-2018@devopsdays.org" # Put your proposal e
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsors:
-  - id: beaconhill
-    level: bronze
-  - id: qci
-    level: bronze
   - id: trility
     level: gold
-  - id: dhi
-    level: bronze
   - id: microsoft
     level: gold
   - id: appdynamics
     level: gold
+  - id: workiva
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: beaconhill
+    level: bronze
+  - id: qci
+    level: bronze
+  - id: dhi
+    level: bronze
+  - id: sourceallies
+    level: party
   # - id: workiva
   #   level: gold
   # - id: granular
@@ -116,3 +122,5 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+  - id: party
+    label: Party
