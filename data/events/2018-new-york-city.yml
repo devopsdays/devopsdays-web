@@ -314,6 +314,11 @@ program:
     type: custom
     date: "2018-01-19"
     start_time: "15:45"
+    end_time: "16:15"
+  - title: "Raffles"
+    type: custom
+    date: "2018-01-19"
+    start_time: "16:15"
     end_time: "16:30"
   - title: "ryan-lockard"
     type: talk
