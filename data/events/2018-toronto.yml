@@ -84,7 +84,7 @@ sponsor_levels:
     max: 11
   - id: silver
     label: Silver
-    max: 12 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: happyhour
     label: Happy Hour
     max: 1
