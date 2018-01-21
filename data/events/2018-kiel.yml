@@ -134,8 +134,8 @@ program:
     date: 2018-05-16
     start_time: "09:00"
     end_time: "09:15"        
-  - title: "Key Note (tba)"
-    type: custom
+  - title: "frank-hollenberg"
+    type: talk
     date: 2018-05-16
     start_time: "09:15"
     end_time: "09:50"
@@ -155,13 +155,13 @@ program:
     start_time: "10:40"
     end_time: "11:00"                    
     comments: "powered by KPS-Concepts GmbH"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "matteo-emili"
+    type: talk
     date: 2018-05-16
     start_time: "11:00"
     end_time: "11:35"                    
-  - title: "Talk (tba)"
-    type: custom
+  - title: "felix-elliger"
+    type: talk
     date: 2018-05-16
     start_time: "11:40"
     end_time: "12:15"                    
@@ -175,23 +175,23 @@ program:
     date: 2018-05-16
     start_time: "12:55"
     end_time: "14:00"                    
-  - title: "Ignites (tba)"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2018-05-16
     start_time: "14:00"
     end_time: "14:20"
   - title: "Open Space preparation"
-    type: custom
+    type: open-space
     date: 2018-05-16
     start_time: "14:20"
     end_time: "14:45"                                        
   - title: "Open Space Session 1"
-    type: custom
+    type: open-space
     date: 2018-05-16
     start_time: "14:45"
     end_time: "15:15"                    
   - title: "Open Space Session 2"
-    type: custom
+    type: open-space
     date: 2018-05-16
     start_time: "15:15"
     end_time: "15:45"                    
@@ -201,8 +201,8 @@ program:
     start_time: "15:45"
     end_time: "16:00"
     comments: "powered by KPS-Concepts GmbH"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "alex-seriy"
+    type: talk
     date: 2018-05-16
     start_time: "16:00"
     end_time: "16:35"
@@ -232,13 +232,13 @@ program:
     date: 2018-05-17
     start_time: "09:00"
     end_time: "09:05"
-  - title: "Key Note (tba)"
-    type: custom
+  - title: "avishai-ish-shalom"
+    type: talk
     date: 2018-05-17
     start_time: "09:05"
     end_time: "09:40"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "reinhard-naegele"
+    type: talk
     date: 2018-05-17
     start_time: "09:45"
     end_time: "10:20"
@@ -252,13 +252,13 @@ program:
     date: 2018-05-17
     start_time: "10:30"
     end_time: "11:00"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "jon-hall"
+    type: talk
     date: 2018-05-17
     start_time: "11:00"
     end_time: "11:35"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "matthias-haensgen"
+    type: talk
     date: 2018-05-17
     start_time: "11:40"
     end_time: "12:15"
@@ -278,17 +278,17 @@ program:
     start_time: "14:00"
     end_time: "14:20"
   - title: "Preparation of Open Space"
-    type: custom
+    type: open-space
     date: 2018-05-17
     start_time: "14:20"
     end_time: "14:40"
   - title: "Open Space Session 3"
-    type: custom
+    type: open-space
     date: 2018-05-17
     start_time: "14:40"
     end_time: "15:10"
   - title: "Open Space Session 4"
-    type: custom
+    type: open-space
     date: 2018-05-17
     start_time: "15:10"
     end_time: "15:40"
@@ -302,8 +302,8 @@ program:
     date: 2018-05-17
     start_time: "16:00"
     end_time: "16:35"
-  - title: "Closing Key Note (tba)"
-    type: custom
+  - title: "dirk-lehmann"
+    type: talk
     date: 2018-05-17
     start_time: "16:40"
     end_time: "17:15"
@@ -312,6 +312,13 @@ program:
     date: 2018-05-17
     start_time: "17:15"
     end_time: "17:30"
+
+ignites:
+  - title: "daiany-palacios"
+    date: 2018-05-16
+  - title: "heinrich-hartmann"
+    date: 2018-05-16
+  
     
     
     
