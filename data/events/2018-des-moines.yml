@@ -99,7 +99,7 @@ sponsors:
   - id: dhi
     level: bronze
   - id: sourceallies
-    level: party
+    level: uranium
   # - id: workiva
   #   level: gold
   # - id: granular
@@ -113,10 +113,10 @@ sponsors:
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: uranium
@@ -124,5 +124,3 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
-  - id: party
-    label: Party
