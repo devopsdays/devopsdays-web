@@ -34,6 +34,7 @@ location_address: "Fraunhoferstraße 13, 24118 Kiel" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: registration
+  - name: workshop
   - name: program
  # - name: speakers
   - name: location

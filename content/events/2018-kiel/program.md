@@ -8,9 +8,9 @@ Description = "Program for devopsdays Kiel 2018"
 <div class = "row">
   <div class = "col">
     <hr />
-    <p><b>Workshop Day 1:</b> on May, 15th 2018 we will offer some workshops. </p>
-    <p><b>Workshop Day 2:</b> on May, 18th 2018 we will offer some workshops. </p>
-    <p>Further information and tickets will come soon.</p>
+    <a href="/events/2018-kiel/workshop/">
+    <p><b>Workshop Days: We offer workshops on May, 15th and 18th 2018.</p>
+    </a>
     <hr />
   </div>
 </div>
