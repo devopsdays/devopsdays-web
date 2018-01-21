@@ -211,6 +211,7 @@ program:
     date: 2018-05-16
     start_time: "16:35"
     end_time: "17:00"
+    comments: "powered by ASSPICK Versicherungsmakler GmbH"
   - title: "Talk (tba)"
     type: custom
     date: 2018-05-16
