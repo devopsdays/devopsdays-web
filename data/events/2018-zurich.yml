@@ -149,6 +149,8 @@ sponsors:
     url: https://job.swisscom.ch/ict/de?showclose=1
   - id: atlassian
     level: gold
+  - id: zhlke
+    level: gold
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
