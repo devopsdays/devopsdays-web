@@ -52,6 +52,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jennifer Davis"
     twitter: "sigje"
   - name: "Peter Mooshammer"
+    twitter: "pmoosh"
   - name: "Wren Turkal"
   - name: "Rob Berger"
   - name: "Ilan Rabinovitch"
@@ -78,15 +79,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 20
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 10
   - id: community
     label: Community
-  - id: tsponsors
-    label: Events T-Shirt
+  - id: psponsor
+    label: Evening Party Sponsor
+    max: 1
   - id: absponsor
     label: Afternoon Break
+    max: 2
