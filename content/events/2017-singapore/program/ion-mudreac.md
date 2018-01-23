@@ -6,7 +6,7 @@ Title = "Enterprise bus DevOps. How we are doing it in SCB"
 Type = "talk"
 Speakers = ["ion-mudreac"]
 speakerdeck = ""
-youtube = "https://www.youtube.com/watch?v=po-30QtSD_Y"
+youtube = "po-30QtSD_Y"
 +++
 
 As most of the enterprises struggle to implement DevOps in true sense as cultural and technological change. This talk is about practical use case where one of the most critical component in the Bank "EDM" is transforming and we are doing.

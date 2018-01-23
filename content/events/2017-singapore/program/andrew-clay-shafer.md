@@ -6,7 +6,7 @@ Title = "Keynote: Good Devops Copy; Great Devops Steal"
 Type = "talk"
 Speakers = ["andrew-clay-shafer"]
 speakerdeck = ""
-youtube = "https://www.youtube.com/watch?v=F-o4qphJ1pc"
+youtube = "F-o4qphJ1pc"
 +++
 
 For the better part of a decade, devops captured our imagination about delivering better solutions with better organizations.
