@@ -1,7 +1,5 @@
 +++
 City = "Amsterdam"
-Year = "2018"
-date = "2018-05-06T21:28:07-06:00"
 heading = "devopsdays Kiel - Workshops"
 title = "Workshops"
 type = "event"
