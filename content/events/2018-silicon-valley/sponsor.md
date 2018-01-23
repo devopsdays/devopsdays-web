@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays siliconvalley 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2018/siliconvalley/devopsdays-siliconvalley-2018-prospectus.pdf">prospectus</a>.If you have further questions in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
