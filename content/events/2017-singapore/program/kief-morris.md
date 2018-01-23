@@ -5,7 +5,7 @@ Talk_end_time = "09:45"
 Title = "Opening Keynote"
 Type = "talk"
 Speakers = ["kief-morris"]
-Youtube = "https://www.youtube.com/watch?v=kx-xVhm9QEU"
+Youtube = "kx-xVhm9QEU"
 Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""

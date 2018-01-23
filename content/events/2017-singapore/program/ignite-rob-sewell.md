@@ -6,7 +6,7 @@ Title = "Continuous Delivery to the PowerShell Gallery for your Modules and Scri
 Type = "talk"
 Speakers = ["rob-sewell"]
 speakerdeck = "https://speakerdeck.com/devopsdayssg/rob-sewell-continuous-delivery-to-the-powershell-gallery-for-your-modules-and-scripts"
-youtube = "https://www.youtube.com/watch?v=b4XTLx1w1eo"
+youtube = "b4XTLx1w1eo"
 +++
 
 Can I teach you to do Continuous Delivery to the PowerShell Gallery for your PowerShell Modules in 5 minutes?

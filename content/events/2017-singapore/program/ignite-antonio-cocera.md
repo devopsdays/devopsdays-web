@@ -6,7 +6,7 @@ Title = "Monitoring As A Service"
 Type = "talk"
 Speakers = ["antonio-cocera"]
 speakerdeck = "https://speakerdeck.com/devopsdayssg/antonio-cocera-monitoring-as-a-service"
-youtube = "https://www.youtube.com/watch?v=41Uez8c6Ho0"
+youtube = "41Uez8c6Ho0"
 +++
 
 The exponential grow of the numbers of servers and so-called micro services during the last years had drag some challenges on most of IT areas.

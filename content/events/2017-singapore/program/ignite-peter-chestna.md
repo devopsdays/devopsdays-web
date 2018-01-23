@@ -6,7 +6,7 @@ Title = "AppSec in a DevOps World"
 Type = "talk"
 Speakers = ["peter-chestna"]
 speakerdeck = "https://speakerdeck.com/devopsdayssg/peter-chestna-appsec-in-a-devops-world"
-youtube = "https://www.youtube.com/watch?v=b4XTLx1w1eo"
+youtube = "b4XTLx1w1eo"
 +++
 
 Security has typically been done at the end of the development cycle if it’s done at all. This has all of the same side effects as testing quality just before shipping namely surfacing work and risk at the worst possible time. DevOps is forcing development teams to re-think their accountability. Not only are they responsible for functional quality but now they must also operationalize their software. I assert that they should also be accountable for security. They should treat security findings as equal citizens to their functional defects. Software written without security in mind opens a company up to brand damage and the costs associated with breaches. This will reflect directly on the teams that built the software.
