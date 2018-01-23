@@ -95,11 +95,9 @@ Description = "devopsdays Kiel 2018"
 
 ### Coffee Break Sponsor
 
-KPS-Concepts GmbH, Schönkirchen
+KPS-Concepts GmbH, Schönkirchen</br>
+HCL America Inc.
 
 ### Happy Hour Sponsor
 
 ASSPICK Versicherungsmakler GmbH
-
-
-
