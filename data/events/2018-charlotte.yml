@@ -67,6 +67,8 @@ proposal_email: "proposals-charlotte-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: dynatrace
     level: gold
+  - id: microsoft
+    level: gold
   - id: opsgenie
     level: gold
   - id: oracle-dyn
