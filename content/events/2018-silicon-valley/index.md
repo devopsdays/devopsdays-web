@@ -32,7 +32,7 @@ Description = "devopsdays Silicon Valley 2018"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href = "https://dodsv2018.busyconf.com/bookings/new">Register to attend the conference!</a>
   </div>
 </div>
 
