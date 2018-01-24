@@ -4,6 +4,8 @@ Type = "talk"
 Speakers = ["scott-nasello"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/roFVOnRxXns" frameborder="0" allowfullscreen></iframe>
+
 This talk will revisit Columbia's DevOps journey within a Microsoft Enterprise with specific emphasis on 4 themes:<br>
 1) Etsy Day 1 Deploy<br>
 2) ChatOps<br>

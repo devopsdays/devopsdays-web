@@ -1,80 +1,274 @@
-name: "2017-cape-town" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2017" # The year of the event. Make sure it is in quotes.
-city: "Cape Town" # The displayed city name of the event. Capitalize it.
+---
+name: "2017-cape-town"
+year: "2017"
+city: "Cape Town"
 event_twitter: "devopsdayscpt"
-description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: DevOpsDays is coming back to Cape Town!
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
 startdate: 2017-11-06
 enddate: 2017-11-07
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-06-01 # start accepting talk proposals.
-cfp_date_end: 2017-07-31 # close your call for proposals.
-cfp_date_announce: 2017-08-08 # inform proposers of status
+cfp_date_start: 2017-06-01  # start accepting talk proposals.
+cfp_date_end: 2017-07-31  # close your call for proposals.
+cfp_date_announce: 2017-08-08  # inform proposers of status
 
-# Location
-#
-coordinates: "-33.935600, 18.457423" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hilton Doubletree, Woodstock, Cape Town" # Defaults to city, but you can make it the venue name.
-#
+registration_open: "true"
 
-nav_elements: # List of pages you want to show up in the navigation of your page.
+coordinates: "-33.935600, 18.457423"
+location: "Hilton Doubletree, Woodstock, Cape Town"
 
-#  - name: program
-  - name: propose
-#    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-#  - name: registration
+ga_tracking_id: "UA-105986234-1"
+
+nav_elements:
+  #  - name: program
+  #- name: registration
+  #  url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
 
-# These are the same people you have on the mailing list and Slack channel.
-team_members: # Name is the only required field for team members.
+team_members:
   - name: "Adrian Moisey"
+    image: "adrian-moisey.jpg"
+    employer: "SweepSouth"
     twitter: "adrianmoisey"
+    github: "adrianmoisey"
+    gitlab: "adrianmoisey"
+    linkedin: "https://www.linkedin.com/in/adrian-moisey-b6705744"
+    facebook: "https://www.facebook.com/adrianbmoisey"
+    website: "https://adrianmoisey.github.io/"
+    bio: "Adrian is VP of Engineering at SweepSouth. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
   - name: "Cobus Bernard"
+    image: "cobus-bernard.jpg"
+    employer: "Blue Battleship"
     twitter: "cobusbernard"
+    github: "cobusbernard"
+    linkedin: "https://www.linkedin.com/in/cobusbernard/"
+    facebook: "https://www.facebook.com/cobusbernard"
+    website: "http://cobus.io/"
+    bio: "Cobus is currently working with HealthQ Technologies and Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
   - name: "Julia Quickfall"
+    image: "julia-quickfall.jpg"
+    employer: "Kurtosys Systems"
     twitter: "julesquickfall"
+    linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/"
+    bio: "Julia is an Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOpsDays looks good by taking care of design."
   - name: "Tom Bamford"
+    image: "tom-bamford.jpg"
+    employer: "@planet"
     twitter: "tom_bamford"
-organizer_email: "organizers-cape-town-2017@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-cape-town-2017@devopsdays.org" # Put your proposal email address here
+    github: "manicminer"
+    linkedin: "https://www.linkedin.com/in/tombamford"
+    bio: "Tom helps organizations to self-integrate and move faster. Blaster of red tape and pointing/clicking. Mediator by day, automaton by night."
+organizer_email: "organizers-cape-town-2017@devopsdays.org"
+proposal_email: "proposals-cape-town-2017@devopsdays.org"
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  - id: arresteddevops
-#    level: community
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
-# In this section, list the level of sponsorships and the label to use.
-# You may optionally include a "max" attribute to limit the number of sponsors per level. For
-# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
-# sponsorship for a specific level, it is best to remove the level.
+sponsors_accepted: "no"
 sponsor_levels:
   - id: platinum
-    label: Gold
+    label: Platinum
     max: 1
   - id: gold
     label: Gold
     max: 3
-  - id: silver
-    label: Silver
-    max: 3
   - id: basic
     label: Basic
-    max: 3
-#  - id: eventdinner
-#    label: "Event dinner"
-#    max: 1
-#  - id: closingevent
-#    label: "Closing drinks"
-#    max: 1
-#  - id: coffee
-#    label: "Coffee"
-#    max: 1
+    max: 1
+  - id: community
+    label: Community
+
+sponsors:
+ - id: obsidian
+   level: platinum
+   url: https://sites.elasticgrid.com/atlassian/devops-aw/obsidianza/
+ - id: offerzen
+   level: gold
+   url: http://bit.ly/2xBHNm9
+ - id: 2017-cape-town-microsoft
+   level: gold
+ - id: thoughtworks-gocd
+   level: gold
+ - id: zappistore
+   level: gold
+ - id: ca-tech-za
+   level: basic
+   url: https://www.ca.com/content/dam/ca/us/files/industry-analyst-report/continuous-testing-as-a-digital-business-enabler.pdf
+ - id: lpi-za
+   level: community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-11-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-06
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "christian-witts"
+    type: talk
+    date: 2017-11-06
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "rahul-mahale"
+    type: talk
+    date: 2017-11-06
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2017-11-06
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "jaco-greyling"
+    type: talk
+    date: 2017-11-06
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "de-wet-blomerus"
+    type: talk
+    date: 2017-11-06
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-06
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-06
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-11-06
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "sherif-el-mahdi-day-1"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "grant-finnemore"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-11-06
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-11-06
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event at Woodstock Lounge"
+    type: custom
+    date: 2017-11-06
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-11-07
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2017-11-07
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "spencer-krum"
+    type: talk
+    date: 2017-11-07
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "duncan-phillips"
+    type: talk
+    date: 2017-11-07
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2017-11-07
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "william-stewart"
+    type: talk
+    date: 2017-11-07
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-11-07
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-07
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-07
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-11-07
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "sherif-el-mahdi-day-2"
+    type: workshop
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "mark-clarke"
+    type: workshop
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-11-07
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-11-07
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing Event"
+    type: custom
+    date: 2017-11-07
+    start_time: "17:00"
+    end_time: "19:00"
+
+ignites:
+  - title: "reuben-honigwachs"
+    date: 2017-11-06
+  - title: "storm-joubert"
+    date: 2017-11-06
+  - title: "whitney-tennant"
+    date: 2017-11-07
+  - title: "kingori-maina"
+    date: 2017-11-07

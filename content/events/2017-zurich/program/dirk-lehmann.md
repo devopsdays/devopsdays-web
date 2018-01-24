@@ -9,8 +9,8 @@ title = "Trust as the Foundation of DevOps"
 type = "talk"
 speakers = ["dirk-lehmann"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025674"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i2-ignite-dirk-lehmann-trust-as-the-foundation-of-devops"
 slideshare = ""
 slides = ""
 +++

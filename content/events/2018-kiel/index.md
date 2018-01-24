@@ -5,9 +5,18 @@ aliases = ["/events/2018-kiel/welcome"]
 Description = "devopsdays Kiel 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<!--
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
+-->
+
+<strong>
+  DevOpsDays Kiel are back in 2018! This year we will offer 14 fantastic talks, several ignites, interactive open spaces & an awesome social event! Brand new are our 2 workshop days where you can dive deep into special topics delivered by experts!
+</strong>
+
+<img alt="DevOpsDays Kiel 2018" src="/events/2018-kiel/logo.jpg" style="float:left;width:300px;height:300px;padding-right:10px"/>
+
 
 <div class = "row">
   <div class = "col-md-2">
@@ -18,14 +27,14 @@ Description = "devopsdays Kiel 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -36,23 +45,23 @@ Description = "devopsdays Kiel 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfIa7r1bDphxIk5k1hclulDDH7xeFbjqMiVNMg1s8nwWBPR7Q/viewform">Propose a talk!"</a>
   </div>
-</div> -->
+</div>-->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -82,6 +91,13 @@ Description = "devopsdays Kiel 2018"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+
+### Coffee Break Sponsor
+
+KPS-Concepts GmbH, Schönkirchen</br>
+HCL America Inc.
+
+### Happy Hour Sponsor
+
+ASSPICK Versicherungsmakler GmbH

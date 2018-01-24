@@ -1,54 +1,49 @@
-{{ if .IsHome }}
-  {{ partial "map.html" . }}
-  {{  $.Scratch.Set "twitter_handle" "devopsdays" }}
-  {{  $.Scratch.Set "sharing_title" "devopsdays" }}
-{{ end }}
+{{- if .IsHome -}}
+  {{- partial "map.html" . -}}
+  {{-  $.Scratch.Set "twitter_handle" "devopsdays" -}}
+  {{-  $.Scratch.Set "sharing_title" "devopsdays" -}}
+{{- end -}}
 
 <!-- set strutured metadata -->
-{{ if .IsPage }}
-  {{ if or (eq .Type "welcome") (eq .Type "event") }}
-    {{ partial "events/event_metadata.html" . }}
-  {{ end }}
-{{ end }}
+{{- if .IsPage -}}
+  {{- if or (eq .Type "welcome") (eq .Type "event") -}}
+    {{- partial "events/event_metadata.html" . -}}
+  {{- end -}}
+{{- end -}}
 <!-- end metadata -->
-<script src="/js/devopsdays-min.js"></script>
-<!-- <script async defer
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1bvNK9qFJGEhoWNbQuojmJJ1Tg0DoOew&callback=initMap">
-    </script> -->
-{{ if .IsPage }}
+<script src={{"js/devopsdays-min.js" | absURL}}></script>
+{{- if .IsPage -}}
 
-  {{ $my_path := split $.Source.File.Path .Site.Params.PathSeparator }}
-  {{ if eq (index $my_path 0) "events" }}
-    {{/* site data query copypasta */}}
-    {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-    {{ $event_slug := index $path 1 }}
-    {{ $e :=  (index $.Site.Data.events $event_slug) }}
-    {{/* end site data query */}}
+  {{ if eq (index (split (.Permalink | relURL) "/") 1) "events" }}
+    {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
     {{- if $e.event_twitter -}}
       {{- if ne $e.event_twitter "" -}}
-        {{ $.Scratch.Set "twitter_handle" $e.event_twitter -}}
+        {{- $.Scratch.Set "twitter_handle" $e.event_twitter -}}
       {{- end -}}
     {{- end -}}
     {{- if isset .Params "Title" -}}
-      {{ if ne .Params.Title "" }}
+      {{- if ne .Params.Title "" -}}
         {{- $.Scratch.Set "sharing_title" .Params.Title -}}
       {{- end -}}
     {{- else -}}
-      {{ $sharing_title := (printf "devopsdays %s - %s" $e.city $e.year)}}
+      {{- $sharing_title := (printf "devopsdays %s - %s" $e.city $e.year) -}}
       {{- $.Scratch.Set "sharing_title" $sharing_title -}}
     {{- end -}}
-  {{ else }}
-    {{  $.Scratch.Set "twitter_handle" "devopsdays" }}
+  {{- else -}}
+    {{- $.Scratch.Set "twitter_handle" "devopsdays" -}}
     {{- if isset .Params "Title" -}}
-      {{ if ne .Params.Title "" }}
+      {{- if ne .Params.Title "" -}}
         {{- $.Scratch.Set "sharing_title" .Params.Title -}}
       {{- end -}}
     {{- else -}}
-      {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
+      {{- if eq .Type "blog" -}}
+        {{- $.Scratch.Set "sharing_title" .Params.Title -}}
+      {{- else -}}
+        {{- $.Scratch.Set "sharing_title" "devopsdays" -}}
+      {{- end -}}
     {{- end -}}
-  {{ end }}
-{{ end }}
-
+  {{- end -}}
+{{- end -}}
 
 <script>
 //shares

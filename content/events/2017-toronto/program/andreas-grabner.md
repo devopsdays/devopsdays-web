@@ -3,7 +3,7 @@ date = "2017-02-27T15:10:56+01:00"
 title = "From 6 Month Waterfall to 1h Code Deploys"
 type = "talk"
 speakers = ["andreas-grabner"]
-youtube = ""
+youtube = "F9Xcn6xUMIw"
 vimeo = ""
 speakerdeck = ""
 slideshare = ""
@@ -19,3 +19,5 @@ To increase quality, we built and provide a DevOps pipeline that currently execu
 In this session I explain how this transformation worked from both "Top Down" as well as "Bottom Up" in our organization. A key component was the 4 people strong DevOps Team who developed and "sell" their DevOps Pipeline to the globally distributed application teams. I will give insights into how our pipeline enables application teams to design, code, test and run a new feature for our user base.
 
 I will also talk about the “dark moments” as change is never without friction. Both internally as well as with our customers who also had to get used to more rapid changes.
+
+<a href="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May26_2017_AndreasGrabner.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2017/toronto/DevOpsDaysTO_May26_2017_AndreasGrabner_lores.jpg" alt="Graphic Recording From 6 Month Waterfall to 1h Code Deploys" /></a>

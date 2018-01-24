@@ -68,11 +68,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: rt
     level: silver
-  - id: atlassian
+  - id: atlassian-before-20171216
     level: silver
   - id: regis
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: silver
   - id: github
     level: silver

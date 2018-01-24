@@ -9,8 +9,8 @@ title = "Improving Time to Market: The New Speed of DevOps in a Corporate Enviro
 type = "talk"
 speakers = ["michele-vuerich","andreas-renggli"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219581463"
+speakerdeck = "https://speakerdeck.com/dodzh/d2-5-michele-vuerich-andreas-renggli-improving-time-to-market-the-new-speed-of-devops-in-a-corporate-environment"
 slideshare = ""
 slides = ""
 +++

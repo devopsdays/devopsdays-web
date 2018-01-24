@@ -9,8 +9,8 @@ title = "Inside the Cloud - From Dedicated to Serverless"
 type = "talk"
 speakers = ["manuel-schweizer"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025716"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i3-manuel-schweizer-inside-the-cloud-from-dedicated-to-serverless"
 slideshare = ""
 slides = ""
 +++

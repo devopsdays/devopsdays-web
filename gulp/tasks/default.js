@@ -8,7 +8,7 @@ var gulp = require('gulp'),
 // })
 
 gulp.task('default', function (callback) {
-  runSequence('responsive-images', 'copy-static-files', 'copy-js', 'copy-css', 'process-html', 'revision', 'revision-update')
+  runSequence('responsive-images', 'copy-static-files', 'copy-js', 'copy-css', 'process-html')
 })
 
 // removing optimize-images from the sequence as it causes netlify to timeout

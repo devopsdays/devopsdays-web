@@ -2,6 +2,8 @@
 
 set -e
 
+cd `dirname ${0}`
+
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
 SEDCMD(){
@@ -13,11 +15,21 @@ SEDCMD(){
 }
 
 # Get year
-read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2017'
+default_year=$(date +"%Y")
+if [[ ! -z $DOD_YEAR ]] ; then
+  year="$DOD_YEAR"
+else
+  # We assume the current year (and also assume bash 3, because macs)
+  read -p "Enter your event year (default: $default_year): " year
+fi
+[ -z "${year}" ] && year="$default_year"
 
 # Get city
-read -p "Enter your city name: " city
+if [[ ! -z $DOD_CITY ]] ; then
+  city="$DOD_CITY"
+else
+  read -p "Enter your city name: " city
+fi
 city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 # Generate event slug
 event_slug=$year-$city_slug
@@ -26,9 +38,6 @@ event_slug=$year-$city_slug
 mkdir -p ../content/events/$event_slug/program
 mkdir -p ../content/events/$event_slug/speakers
 mkdir -p ../static/events/$event_slug/speakers
-
-# Set the creation date to current timestamp
-datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
 
 # Create empty speakers page file (will be auto-filled for display)
 speakerspage="../content/events/$event_slug/speakers.md"
@@ -56,7 +65,6 @@ speakerfile="../content/events/$event_slug/speakers/$speaker_slug.md"
 cp examples/templates/speakers-speaker-full-name.md $speakerfile
 
 SEDCMD "s/SPEAKERNAME/$speakername/" $speakerfile
-SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" $speakerfile
 SEDCMD "s/SPEAKERSLUG/$speaker_slug/" $speakerfile
 
 # twitter handle
@@ -77,7 +85,6 @@ SEDCMD "s/SPEAKERBIO/$bio/" $speakerfile
 talkfile="../content/events/$event_slug/program/$speaker_slug.md"
 cp examples/templates/program-speaker-full-name.md $talkfile
 
-SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" $talkfile
 SEDCMD "s/SPEAKERSLUG/$speaker_slug/" $talkfile
 
 # talk title

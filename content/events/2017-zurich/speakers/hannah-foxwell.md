@@ -3,7 +3,7 @@ Website = ""
 Title = "Hannah Foxwell"
 Twitter = "HannahFoxwell"
 Github = ""
-date = 2017-03-15T20:37:34+01:00
+date = "2017-03-15T20:37:34+01:00"
 type = "speaker"
 image = "hannah-foxwell.jpg"
 +++

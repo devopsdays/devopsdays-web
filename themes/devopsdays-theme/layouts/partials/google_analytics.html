@@ -4,9 +4,7 @@ window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 ga('create', '{{ $.Site.GoogleAnalytics }}', 'auto');
 ga('send', 'pageview');
 {{ if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program")}}
-  {{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-  {{ $event_slug := index $path 1 }}
-  {{ $e :=  (index $.Site.Data.events $event_slug) }}
+  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
   {{ if $e.ga_tracking_id }}
     {{ if ne $e.ga_tracking_id "" }}
       ga('create', '{{$e.ga_tracking_id}}', 'auto', 'clientTracker');

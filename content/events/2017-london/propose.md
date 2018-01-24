@@ -14,6 +14,13 @@ type = "event"
   <li><strong><em>Ignite talk</em></strong>: 5 minute slots (presented using the <a href="/pages/ignite-talks-format"> Ignite format</a>.)</li>
 </ol>
 
+<strong>What the organisers have been blogging about:</strong>
+
+- <a href="https://medium.com/@hannahfoxwell/should-tech-conferences-be-more-inclusive-5a05a09cd302">Should Tech Conferences Be More Inclusive?</a>
+- <a href="http://randomness.org.uk/2017/05/21/Anonymising-talk-submissions-for-DevOpsDays-London.html">Anonymising talk submissions for DevOpsDays London</a>
+- <a href="https://markosrendell.wordpress.com/2017/05/16/transforming-the-future-together/">Thoughts on the theme: Transforming The Future Together</a>
+
+
 <strong>Our main criteria:</strong>
 
 - _relevant to our theme_: which is 'Transforming the future together'

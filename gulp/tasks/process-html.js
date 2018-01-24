@@ -11,11 +11,11 @@ gulp.task('process-html', function(callback) {
 
 gulp.task('copy-html', function(){
   return gulp.src('public/**/*.html')
-  .pipe(gulp.dest('staging'))
+  .pipe(gulp.dest('dist'))
 })
 
 var retinaOpts = {
-    // Your options here.
+    suffix: {1: '', 2: '@2x'}
 };
 
 gulp.task('min-html', function() {
@@ -23,15 +23,15 @@ gulp.task('min-html', function() {
         .pipe(htmlmin({
             collapseWhitespace: true
         }))
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 })
 // min-html was taking forever
 
 gulp.task('retina-html', function() {
-    return gulp.src(['staging/**/*.html'])
+    return gulp.src(['dist/**/*.html'])
         .pipe(imgRetina(retinaOpts))
         .on('error', function(e) {
             console.log(e.message);
         })
-        .pipe(gulp.dest('staging'));
+        .pipe(gulp.dest('dist'));
 })

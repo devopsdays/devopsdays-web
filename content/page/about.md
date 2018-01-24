@@ -4,7 +4,6 @@ Description = ""
 Tags = []
 date = "2017-02-13T11:24:58-05:00"
 title = "About devopsdays"
-type = "about"
 aliases = ["/contact/"]
 
 +++
@@ -28,6 +27,4 @@ If you have questions about hosting your own event or about potential future eve
 ### Contact a specific event
 
 Organization is decentralized. Local events handle their own sponsorships, registration, and all other organization. For questions about a specific event you see listed on the site, contact the local organizers for that event; their email is on their contact page.
-
-To contact the organizers for a given city:
 

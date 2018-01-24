@@ -40,7 +40,7 @@ proposal_email: "proposals-dallas-2016@devopsdays.org" # Put your proposal email
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: chef
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: platinum
   - id: veracode
     level: platinum

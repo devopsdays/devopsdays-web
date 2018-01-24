@@ -1,0 +1,83 @@
+name: "2018-riga"
+year: "2018" 
+city: "Riga"
+event_twitter: "devopsdaysriga"
+friendly: "2018-riga"
+description: "DevOpsDays is coming back to Riga!"
+ga_tracking_id: UA-105774008-1
+
+#The image, relative to static/events/YYYY-CITY that you want to be the background of the header on your page.
+#masthead_background: ""
+
+# All dates are in unquoted 2017-MM-DD, like this: variable: 2016-01-05
+startdate:  2018-09-27
+enddate:  2018-09-28
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+#cfp_date_start: 2018-05-30  # start accepting talk proposals.
+#cfp_date_end: 2018-07-16  # close your call for proposals.
+#cfp_date_announce: 2018-07-30 # inform proposers of status
+#cfp_link: ""
+
+# Registration dates
+#registration_date_start: YYYY-MM-DD
+#registration_date_end: YYYY-MM-DD
+#registration_closed: "false"
+#registration_link: ""
+
+# Location
+coordinates: "56.946695, 24.076940" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Park Inn by Radisson Riga Valdemara" # Defaults to city, but you can make it the venue name.
+location_address: "Krogus iela 1, Riga LV-1048 Riga Latvia"
+
+# Team members
+team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Laura Arajuma", "Arturs Kovalenko", "Liene Jansone"]
+
+# Emails
+organizer_email: "organizers-riga-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-riga-2018@devopsdays.org" 
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: workshop
+#  - name: program
+#  - name: propose
+#    url: https://<url>
+  - name: location
+#  - name: registration
+#  - name: speakers
+#  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # platinum
+  # - id: <sponsor_name>
+  #  level: platinum
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsor_levels:
+  #- id: platinum
+  #  label: Platinum
+  #  max: "5"
+  #- id: gold
+  #  label: Gold
+  #  max: "8"
+  #- id: silver
+  #  label: Silver
+  #  max: "12"
+  #- id: friends
+  #  label: Friends, media partners and other
+
+# ignites:  
+  #- title: "speaker-mcspeaker"
+  #  date: 2018-09-27
+
+#program:
+  # Day one
+  #- title: "Registration, Breakfast, and Sponsor Booths Open"
+  #  type: custom
+  #  date: 2018-09-27
+  #  start_time: "08:00"
+  #  end_time: "09:00"

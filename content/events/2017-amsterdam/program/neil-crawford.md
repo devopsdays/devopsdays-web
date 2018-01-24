@@ -3,6 +3,9 @@ Title = "The Canary and the Caterpillar"
 Type = "talk"
 Speakers = ["neil-crawford"]
 aliases = ["/events/2017-amsterdam/program/neil-crawford/"]
+youtube = "nUl8aXT82Do"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2017/amsterdam/presentations/Neil_Crawford-The_Canary_and_the_Caterpillar.pdf"
 +++
 
 One day a canary drank an elixir and made friends with a little caterpillar, this is the story of how the canary protected the little caterpillar from all dangers until the caterpillar was ready to become a butterfly. In this talk I tell the story of how we migrated our first Microservice out of a large monolithic C# application into an elixir Microservice. I’ll tell the story in the style of the very hungry caterpillar (https://en.wikipedia.org/wiki/The_Very_Hungry_Caterpillar) with the caterpillar eating various things along the way.

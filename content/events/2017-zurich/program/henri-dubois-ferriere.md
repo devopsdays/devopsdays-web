@@ -9,8 +9,8 @@ title = "Cloudy with a Chance of Syscalls"
 type = "talk"
 speakers = ["henri-dubois-ferriere"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025703"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-i1-henri-dubois-ferriere-cloudy-with-a-chance-of-syscalls"
 slideshare = ""
 slides = ""
 +++

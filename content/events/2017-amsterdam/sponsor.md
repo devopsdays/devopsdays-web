@@ -11,9 +11,7 @@ heading = "devopsdays Amsterdam - Sponsor Info"
 <p>For more information please <a href="http://assets.devopsdays.org/events/2017/amsterdam/devopsdays_ams_2017_sponsor-prospectus_v20170331-01.pdf">download and view to our prospectus</a>.</p>  
 </h5>
 <hr>
-<h4 style="padding-top: 5px">Gold & Silver Sponsorships for this year's event is completely sold out.
-<br>
-<b>Bronze & The Pre-Event sponsorships are still available</b></h4>
+<h4 style="padding-top: 5px"><b>Only Bronze sponsorships are still available!</b></h4>
 <br>
 <h5 style="padding-top: 5px">We can't thank our sponsors enough for their support of our community. Please visit them!</h5>
 <hr>
@@ -25,7 +23,7 @@ heading = "devopsdays Amsterdam - Sponsor Info"
       <th style="width: 7%; padding: 5px"><center><strike>Silver</strike></center></th>
       <th style="width: 7%; padding: 5px"><center><strike>Gold</strike></center></th>
       <th style="width: 8%; padding: 5px"><center><strike>Beer</strike></center></th>
-      <th style="width: 8%; padding: 5px"><center>Pre-Event Social</center></th>
+      <th style="width: 8%; padding: 5px"><center><strike>Pre-Event Social</strike></center></th>
       <th style="width: 8%; padding: 5px"><center><strike>Evening Slot</strike></center></th>
     </tr>
     <tr>
@@ -43,7 +41,7 @@ heading = "devopsdays Amsterdam - Sponsor Info"
       <th><center>Sold Out</center></th>
       <th><center>Sold Out</center></th>
       <th><center>Sold Out</center></th>
-      <th><center>Available!</center></th>
+      <th><center>Sold Out</center></th>
       <th><center>Sold Out</center></th>
     </tr>
     <tr>

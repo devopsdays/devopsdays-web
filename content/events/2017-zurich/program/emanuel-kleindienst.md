@@ -9,8 +9,8 @@ title = "Hacking Your Boss for DevOps - How to Convince Your Manager to Support 
 type = "talk"
 speakers = ["emanuel-kleindienst"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "219025599"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-5-emanuel-kleindienst-hacking-your-boss-for-devops-how-to-convince-your-manager-to-support-devops"
 slideshare = ""
 slides = ""
 +++

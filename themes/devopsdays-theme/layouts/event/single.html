@@ -1,32 +1,15 @@
 {{ define "main" }}
-
-{{/* site data query copypasta */}}
-{{ $path := split $.Source.File.Path .Site.Params.PathSeparator }}
-{{ $event_slug := index $path 1 }}
-{{ $e :=  (index $.Site.Data.events $event_slug) }}
-{{/* end site data query */}}
-
-
-<div class="row">
-    <!-- enclosing div -->
-    <div class="col-md-12 content-text">
-        <!-- main content -->
-        {{ if eq .File.BaseFileName "welcome"}}
-          {{- partial "welcome.html" . -}}
-        {{ else }}
-        <h1>devopsdays {{$e.city}} - {{.Title}}</h1>
-          {{ .Content }}
-        {{ end }}
-        <br />
-        <!-- need to add else statement for the rest of the content types -->
-        {{ partial "sponsors.html" . }}
-
-
-    </div>{{ "<!-- close the content -->" | safeHTML }}
-
-
-</div>{{ "<!-- whole big thing -->" | safeHTML }}
-
-
-
+  {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
+  <div class="row">
+      <div class="col-md-12 content-text">
+          {{- if eq .File.BaseFileName "welcome" -}}
+            {{- partial "welcome.html" . -}}
+          {{- else -}}
+            <h1>devopsdays {{ $e.city }} - {{ .Title }}</h1>
+            {{ .Content }}
+          {{ end }}
+          <br />
+         {{- partial "sponsors.html" . -}}
+      </div>
+  </div>
 {{ end }}

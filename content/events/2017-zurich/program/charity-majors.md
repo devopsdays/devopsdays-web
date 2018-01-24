@@ -9,8 +9,8 @@ title = "A Young Lady’s Illustrated Primer to Technical Decison-Making"
 type = "talk"
 speakers = ["charity-majors"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "218690890"
+speakerdeck = "https://speakerdeck.com/dodzh/d1-2-charity-majors-a-young-ladys-illustrated-primer-to-technical-decison-making"
 slideshare = ""
 slides = ""
 +++
