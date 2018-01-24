@@ -70,6 +70,8 @@ sponsors:
     level: gold
   - id: 1password
     level: gold
+  - id: scalyr
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
