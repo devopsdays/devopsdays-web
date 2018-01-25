@@ -94,5 +94,5 @@ sponsor_levels:
     # max: 0 # This is the same as omitting the max limit.
   - id: platinum
     label: Platinum
-  # - id: community
-  #   label: Community
+  - id: community
+    label: Community
