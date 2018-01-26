@@ -1,5 +1,5 @@
 +++
-Title = "Daniel Bermann"
+Title = "Daniel Berman"
 Twitter = "proudboffin"
 linkedin = ""
 Website = ""

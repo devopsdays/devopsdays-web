@@ -140,8 +140,8 @@ program:
     date: 2018-05-16
     start_time: "09:15"
     end_time: "09:50"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "geetika-tandon"
+    type: talk
     date: 2018-05-16
     start_time: "09:55"
     end_time: "10:30"                
@@ -166,8 +166,8 @@ program:
     date: 2018-05-16
     start_time: "11:40"
     end_time: "12:15"                    
-  - title: "Talk (tba)"
-    type: custom
+  - title: "thiago-assuncao-de-faria"
+    type: talk
     date: 2018-05-16
     start_time: "12:20"
     end_time: "12:55"                    
@@ -213,17 +213,17 @@ program:
     start_time: "16:35"
     end_time: "17:00"
     comments: "powered by ASSPICK Versicherungsmakler GmbH"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "christian-kniep"
+    type: talk
     date: 2018-05-16
     start_time: "17:00"
     end_time: "17:35"
-  - title: "Evening Event"
+  - title: "Evening Event - Drinks, Food & Music!"
     type: custom
     date: 2018-05-16
     start_time: "17:35"
     end_time: "open end" 
-    comments: "program of the evening event will be published later" 
+    comments: "Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2018-05-17
@@ -265,8 +265,8 @@ program:
     date: 2018-05-17
     start_time: "11:40"
     end_time: "12:15"
-  - title: "Talk (tba)"
-    type: custom
+  - title: "jorge-salamero-sanz"
+    type: talk
     date: 2018-05-17
     start_time: "12:20"
     end_time: "12:55"
@@ -301,8 +301,8 @@ program:
     start_time: "15:40"
     end_time: "16:00"
     comments: "powered by HCL America Inc."
-  - title: "Talk (tba)"
-    type: custom
+  - title: "siamak-sadeghianfar"
+    type: talk
     date: 2018-05-17
     start_time: "16:00"
     end_time: "16:35"
