@@ -38,7 +38,7 @@ DevOps Day LA is a single day event held annually in Southern California. This v
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a lighting talk!" >}}
+    {{< event_link page="propose" text="Propose a lightning talk!" >}}
   </div>
 </div>
 
