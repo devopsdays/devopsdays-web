@@ -1,12 +1,9 @@
 +++
-Title = "devopsdays Beijing 2018"
+Title = "devopsdays shanghai 2018"
 Type = "welcome"
-aliases = ["/events/2018-beijing/welcome"]
-Description = "devopsdays Beijing 2018"
+aliases = ["/events/2018-shanghai/welcome"]
+Description = "devopsdays shanghai 2018"
 +++
-
-
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -80,14 +77,14 @@ Description = "devopsdays Beijing 2018"
 </div>
 
 <div style="text-align:center;">
-  {{< event_logo >}}<br><br>
+  {{< event_logo >}}
 </div>
 
 -------
 
 ### Follow Official DevOpsDays Wechat
-![DevOpsDays Official Wechat](days-weichat-logo-foot.jpg)
 
+![DevOpsDays Official Wechat](days-weichat-logo-foot.jpg)
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
