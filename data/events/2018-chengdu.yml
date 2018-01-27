@@ -1,7 +1,7 @@
 name: "2018-chengdu" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2018" # The year of the event. Make sure it is in quotes.
-city: "chengdu" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+city: "Chengdu" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDays_CN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to chengdu!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -26,7 +26,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "chengdu" # Defaults to city, but you can make it the venue name.
+location: "Chengdu" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
