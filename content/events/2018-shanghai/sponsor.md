@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays CITY YYYY"
+Description = "Sponsor devopsdays Shanghai 2018"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
