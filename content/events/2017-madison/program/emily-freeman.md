@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Scaling Sparta: Military Lessons for Growing A DevOps Team"
 Type = "talk"
 Speakers = ["emily-freeman"]
+youtube = "lpja3UHMlMM"
 +++
 
 Scaling systems is hard. Scaling people? That's significantly harder. So how do you scale a team of two to twenty? The answer starts over 2,000 years ago in Sparta. 
