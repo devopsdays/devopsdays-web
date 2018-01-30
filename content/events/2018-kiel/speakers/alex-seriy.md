@@ -3,7 +3,6 @@ Title = "Alex Seriy"
 Twitter = ""
 linkedin = ""
 Website = ""
-image = "alex-seriy.jpg"
 type = "speaker"
 linktitle = "alex-seriy"
 

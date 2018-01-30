@@ -6,16 +6,16 @@ description: "Devopsdays is coming to Beijing!" # Edit this to suit your prefere
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-05-06 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-05-07 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-05-04 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-05-05 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-01-29 # start accepting talk proposals.
+cfp_date_end: 2018-04-01 # close your call for proposals.
+cfp_date_announce: 2018-04-15 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "http://exinchina.mikecrm.com/xfAu6Qs" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -31,7 +31,7 @@ location: "Beijing - Empark Grand Hotel" # Defaults to city, but you can make it
 location_address: "69 Banjing Rd, Haidian Qu, China, 100097" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -39,6 +39,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: china
+    url: http://chinadevopsdays.org
+    icon: star-o
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -59,6 +62,7 @@ team_members: # Name is the only required field for team members.
     image: "liu-zheng.jpg"
   - name: "Lu Mengchun"
     image: "lu-mengchun.jpg"
+    linkedin: "https://www.linkedin.com/in/emily-lu-8149a567/"
   - name: "Wang Jun"
     image: "wang-jun.jpg"
     linkedin: "https://www.linkedin.com/in/wang-jun-Arthur"
@@ -67,6 +71,8 @@ team_members: # Name is the only required field for team members.
     image: "xu-feng.jpg"
   - name: "Zhang Le"
     image: "zhang-le.jpg"
+    linkedin: "https://www.linkedin.com/in/le-zhang-121b256b/"
+    twitter: "overloadzy"
 organizer_email: "organizers-beijing-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-beijing-2018@devopsdays.org" # Put your proposal email address here
 
@@ -88,11 +94,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 2
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 10
   - id: community
     label: Community

@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://dodsv2018.busyconf.com/proposals/new
   - name: location
   - name: registration
-    url: https://dodsv2016.busyconf.com/bookings/new
+    url: https://dodsv2018.busyconf.com/bookings/new
  # - name: program
  # - name: speakers
  # - name: sponsor
