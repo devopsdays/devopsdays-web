@@ -92,11 +92,19 @@ sponsors:
     level: gold
   - id: granular
     level: gold
+  - id: xebia
+    level: silver 
   - id: beaconhill
     level: bronze
   - id: qci
     level: bronze
   - id: dhi
+    level: bronze
+  - id: paragon
+    level: bronze
+  - id: realkinetic
+    level: bronze
+  - id: teksystems
     level: bronze
   - id: sourceallies
     level: uranium
