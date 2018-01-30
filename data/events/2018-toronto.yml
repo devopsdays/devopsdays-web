@@ -72,6 +72,10 @@ sponsors:
     level: gold
   - id: scalyr
     level: gold
+  - id: influxdata
+    level: silver
+  - id: scalar
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
