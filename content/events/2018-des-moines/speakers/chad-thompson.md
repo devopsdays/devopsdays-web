@@ -1,5 +1,5 @@
 +++
-Title = "Chad Thompson - Your Company Will Be Different Next Year: DevOps, Teamwork and the Cloud"
+Title = "Chad Thompson"
 Twitter = "chadothompson"
 linkedin = "chadothompson"
 Website = ""
