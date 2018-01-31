@@ -12,3 +12,4 @@ Slideshare = ""
 Slides = ""
 +++
 
+Change can be stressful, big change can be frustrating and change that you own can be downright scary. This talk is a story of a decision to transform an organization and what we learned on our journey in taking a $100 million business from colocation to the cloud.
