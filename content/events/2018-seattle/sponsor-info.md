@@ -93,7 +93,7 @@ We don’t share attendee information with sponsors.
 
 You’re welcome to ask people to share their contact information voluntarily.
 It’s very common for sponsors to hold drawings for this purpose and we will have
-a time and the end of day 2 to announce winners.
+a time at the end of day 2 to announce winners.
 
 Most attendees will not have business cards, so you’ll want to have a way to
 capture this information. Some sponsors will bring slips of paper and a
