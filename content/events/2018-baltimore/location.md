@@ -15,7 +15,7 @@ Baltimore, MD  21202
 
 ### Parking
 
-Parking is available at [Pier V Garage](http://www.pierfivegarage.com/) which is next to the IMET.  DevOpsDays will provide parking vouchers that reduce the price to $10 per day.
+Parking is available at [Pier V Garage](http://www.pierfivegarage.com/) which is next to the IMET.  DevOpsDays will provide parking vouchers that reduce the price to $12 per day.
 
 <img src="/img/pier_v_parking.jpg" width="580" height="295" alt="Pier V Parking" />
 

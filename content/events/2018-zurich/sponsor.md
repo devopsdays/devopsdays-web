@@ -15,7 +15,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
     <th><b>Packages</b></th>
     <th><center><b><u>Evening<br /><font color="red">SOLD OUT</font></center></b></th>
     <th><center><b><u>Gold<br /><font color="red">SOLD OUT</font></u></center></b></th>
-    <th><center><b><u>Silver<br />3'000.- CHF</u></center></b></th>
+    <th><center><b><u>Silver<br /><font color="red">SOLD OUT</font></u></center></b></th>
     <th><center><b><u>Bronze<br />1'500.- CHF</u></center></b></th>
   </tr>
 

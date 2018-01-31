@@ -41,7 +41,7 @@ Description = "devopsdays Amsterdam 2018"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/dodams2018">Propose a talk!</a>
+    <a href="https://www.papercall.io/dodams2018">Propose a talk or workshop!</a>
   </div>
 </div>
 

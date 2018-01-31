@@ -67,6 +67,8 @@ proposal_email: "proposals-charlotte-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: dynatrace
     level: gold
+  - id: microsoft
+    level: gold
   - id: opsgenie
     level: gold
   - id: oracle-dyn
@@ -75,6 +77,10 @@ sponsors:
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: chef
+    level: silver
+  - id: 2018-cyberark
+    level: silver
+  - id: 2018-kaizenOps
     level: silver
   - id: roundtowertechnologies
     level: silver

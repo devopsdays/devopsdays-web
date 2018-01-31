@@ -15,13 +15,13 @@ cfp_date_end: 2018-04-01 # close your call for proposals.
 cfp_date_announce: 2018-05-15  # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "https://goo.gl/forms/2UpFilKPOswrHcqp2" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://goo.gl/forms/2UpFilKPOswrHcqp2" 
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-01-24 
+registration_date_end: 2018-09-11 
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devops-days-raleigh-2018-tickets-42510017607" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -74,11 +74,10 @@ proposal_email: "proposals-raleigh-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: samplesponsorname
-  #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: techtown
+    level: platinum
+  - id: triangledevops
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -95,5 +94,5 @@ sponsor_levels:
     # max: 0 # This is the same as omitting the max limit.
   - id: platinum
     label: Platinum
-  # - id: community
-  #   label: Community
+  - id: community
+    label: Community

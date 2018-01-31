@@ -15,7 +15,7 @@ Description = "devopsdays Kiel 2018"
   DevOpsDays Kiel are back in 2018! This year we will offer 14 fantastic talks, several ignites, interactive open spaces & an awesome social event! Brand new are our 2 workshop days where you can dive deep into special topics delivered by experts!
 </strong>
 
-<img alt="DevOpsDays Kiel 2018" src="/events/2018-kiel/logo.jpg" style="float:left;width:200px;height:200px;padding-right:10px"/>
+<img alt="DevOpsDays Kiel 2018" src="/events/2018-kiel/logo.jpg" style="float:left;width:300px;height:300px;padding-right:10px"/>
 
 
 <div class = "row">
@@ -63,14 +63,14 @@ Description = "devopsdays Kiel 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -95,7 +95,9 @@ Description = "devopsdays Kiel 2018"
 
 ### Coffee Break Sponsor
 
-KPS-Concepts GmbH, Schönkirchen
+KPS-Concepts GmbH, Schönkirchen</br>
+HCL America Inc.
 
+### Happy Hour Sponsor
 
-
+ASSPICK Versicherungsmakler GmbH

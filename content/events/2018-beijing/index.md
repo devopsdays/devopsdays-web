@@ -5,9 +5,6 @@ aliases = ["/events/2018-beijing/welcome"]
 Description = "devopsdays Beijing 2018"
 +++
 
-<div style="text-align:center;">
-  {{< event_logo >}}<br><br>
-</div>
 
 
 <div class = "row">
@@ -81,6 +78,15 @@ Description = "devopsdays Beijing 2018"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+
+<div style="text-align:center;">
+  {{< event_logo >}}<br><br>
+</div>
+
+-------
+
+### Follow Official DevOpsDays Wechat
+![DevOpsDays Official Wechat](days-weichat-logo-foot.jpg)
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
