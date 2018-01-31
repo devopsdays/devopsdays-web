@@ -360,8 +360,3 @@ program:
     date: "2018-04-13"
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening Event"
-    type: custom
-    date: "2018-04-13"
-    start_time: "17:00"
-    end_time: "21:00"
