@@ -1,10 +1,10 @@
 +++
 Title = "Tyler Treat"
-Twitter = ""
+Twitter = "tyler_treat"
 linkedin = ""
 Website = ""
 image = "tyler-treat.jpg"
-type = "tyler_treat"
+type = "speaker"
 linktitle = "tyler-treat"
 
 +++
