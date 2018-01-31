@@ -1,10 +1,10 @@
 +++
-Talk_date = "2018-04-12"
+Talk_date = "2018-04-13"
 Talk_start_time = "13:00"
 Talk_end_time = "13:30"
-Title = ""
+Title = "Your Company Will Be Different Next Year: DevOps, Teamwork and the Cloud"
 Type = "talk"
-Speakers = ["tyler-treat"]
+Speakers = ["chad-thompson"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
