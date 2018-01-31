@@ -31,11 +31,11 @@ location: "Iowa Events Center" # Defaults to city, but you can make it the venue
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -92,11 +92,19 @@ sponsors:
     level: gold
   - id: granular
     level: gold
+  - id: xebia
+    level: silver 
   - id: beaconhill
     level: bronze
   - id: qci
     level: bronze
-  - id: dhi
+  - id: dice
+    level: bronze
+  - id: paragon
+    level: bronze
+  - id: realkinetic
+    level: bronze
+  - id: teksystems
     level: bronze
   - id: sourceallies
     level: uranium
@@ -124,3 +132,231 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Breakfast and Registration"
+    type: custom
+    date: "2018-04-12"
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Opening Comments"
+    type: custom
+    date: "2018-04-12"
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "Keynote"
+    type: custom
+    date: "2018-04-12"
+    start_time: "9:15"
+    end_time: "10:00"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-12"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-12"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-12"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-12"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: "2018-04-12"
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "tyler-treat"
+    type: talk
+    date: "2018-04-12"
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-12"
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-12"
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-12"
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Spaces"
+    type: custom
+    date: "2018-04-12"
+    start_time: "15:00"
+    end_time: "16:45"
+  - title: "Closing Comments"
+    type: custom
+    date: "2018-04-12"
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening Event"
+    type: custom
+    date: "2018-04-12"
+    start_time: "17:00"
+    end_time: "21:00"
+
+  - title: "Breakfast and Registration"
+    type: custom
+    date: "2018-04-13"
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Opening Comments"
+    type: custom
+    date: "2018-04-13"
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "Keynote"
+    type: custom
+    date: "2018-04-13"
+    start_time: "9:15"
+    end_time: "10:00"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-13"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-13"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-13"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-13"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: "2018-04-13"
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "chad-thompson"
+    type: talk
+    date: "2018-04-13"
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "TBD - Track 1"
+    type: custom
+    date: "2018-04-13"
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "TBD - Track 2"
+    type: custom
+    date: "2018-04-13"
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "TBD - Track 3"
+    type: custom
+    date: "2018-04-13"
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Spaces"
+    type: custom
+    date: "2018-04-13"
+    start_time: "15:00"
+    end_time: "16:45"
+  - title: "Closing Comments"
+    type: custom
+    date: "2018-04-13"
+    start_time: "16:45"
+    end_time: "17:00"
