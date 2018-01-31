@@ -105,9 +105,9 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
-  - id: rightstar
-    level: silver
   - id: sumologic
+    level: gold
+  - id: rightstar
     level: silver
   - id: contrast_security
     level: silver
