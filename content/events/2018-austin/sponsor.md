@@ -20,9 +20,9 @@ Many DevOpsDays use a small conference format, where there is a sponsor hall wit
 
 ### Happy Hour ($7000)
 
-Only 1 available! You sponsor the happy hour. This price covers drink service for the attendees at the stadium venue - but if you want to do something more/different, we are happy to work with you on that. 
+~~Only 1 available!~~ **Pending!** You sponsor the happy hour. This price covers drink service for the attendees at the stadium venue - but if you want to do something more/different, we are happy to work with you on that. 
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info">Pay Now to Sponsor the Happy Hour!</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info" style="display:none;">Pay Now to Sponsor the Happy Hour!</a>
 
 ### Lanyard Sponsor ($5000)
 

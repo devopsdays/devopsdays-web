@@ -171,6 +171,8 @@ sponsors:
     level: communityleader
   - id: appdynamics
     level: communityleader
+  - id: opsgenie
+    level: communityleader
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
