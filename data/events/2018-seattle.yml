@@ -107,6 +107,14 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
+  - id: mabl
+    level: gold
+  - id: portworx
+    level: gold
+  - id: dell
+    level: gold
+  - id: aspe
+    level: silver
   - id: rightstar
     level: silver
   - id: contrast_security
