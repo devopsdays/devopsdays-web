@@ -93,6 +93,8 @@ sponsors:
     level: venue
   - id: wobe-systems
     level: tshirt
+  - id: thoughtworks-gocd
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
