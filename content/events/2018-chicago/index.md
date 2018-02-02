@@ -13,7 +13,7 @@ From fledgling startups to established industry, the Midwest is home to a large,
 <br><br>
 DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2018 event will be the fifth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
 <br><br>
-We expect 500 people this year and will be holding the event on August 28-29, 2018 at the Holiday Inn Mart Plaza in downtown Chicago.
+We expect 500 people this year and will be holding the event on August 28-29, 2018 at the <a href="/events/2018-chicago/location">Holiday Inn Mart Plaza</a> in downtown Chicago.
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
 <div class = "row"><!-- begin a content element -->
