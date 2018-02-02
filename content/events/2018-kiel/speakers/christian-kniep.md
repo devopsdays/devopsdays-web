@@ -3,6 +3,7 @@ Title = "Christian Kniep"
 Twitter = "CQnib"
 linkedin = ""
 Website = ""
+image = "christian-kniep.jpg"
 type = "speaker"
 linktitle = "christian-kniep"
 
