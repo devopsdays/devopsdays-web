@@ -2,12 +2,12 @@ name: "2018-chicago" # The name of the event. Four digit year with the city name
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Chicago" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
+description: "The group that brought you DevOpsDays Chicago 2014-2017 is back together and planning the 2018 event. We’re encouraged by the feedback from previous year’s events and are determined to bring an improved experience and continue the DevOps conversation for 2018 in Chicago."
 ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-08-28
+enddate: 2018-08-29
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -23,22 +23,21 @@ registration_date_end:  # close registration. Leave blank if registration is not
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
-masthead_background: ""
+masthead_background: "skyline-night.jpg"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "41.888242, -87.637856" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the venue name.
+location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -90,12 +89,12 @@ team_members:
   - name: "Matt Stratton"
     image: "matt-stratton.jpg"
     twitter: "mattstratton"
-    employer: "Chef Software, Inc"
+    employer: "PagerDuty"
     website: "https://www.mattstratton.com"
     facebook: "https://www.facebook.com/matt.stratton"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matt Stratton is a Customer Architect at Chef, where he demonstrates how Chef’s automation platform provides speed and flexibility to clients’ infrastructure. He is devoted to concepts like Continuous Delivery and Infrastructure as Code, and his license plate actually says \"DevOps\". He lives in the Chicagoland area with his wife Andrea, and his three kids, Henry, Joey, and Sophia, and their cat, Fancy. He also has an unhealthy obsession with *Doctor Who*, *Firefly*, and *Game of Thrones*. And whiskey. Matt is also the creator and co-host of the [Arrested DevOps](https://www.arresteddevops.com) podcast."
+    bio: "Matt Stratton is a DevOps Evangelist at [PagerDuty](https://www.pagerduty.com), where he help dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader devops community, and his license plate actually says \"DevOps\". He is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com) podcast. Matt lives in the Chicagoland area with his wife Andrea, their cat Fancy, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with _Doctor Who_, _Firefly_, and _Game of Thrones_. And whiskey."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Cohesive Networks"
@@ -116,7 +115,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "" # Whether you want "Become a XXX Sponsor!" link
+# sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
