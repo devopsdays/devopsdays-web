@@ -80,8 +80,8 @@ A melhor coisa para se fazer é enviar engenheiros para interagir com os especia
         <tr>
             <td>Mesa compartilhada</td>
             <td>&nbsp;</td>
-            <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
+            <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
         </tr>
