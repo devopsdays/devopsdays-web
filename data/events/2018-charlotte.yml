@@ -78,13 +78,13 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: chef
     level: silver
-  - id: 2018-cyberark
+  - id: cyberark
     level: silver
-  - id: 2018-kaizenOps
+  - id: kaizenops
     level: silver
   - id: roundtowertechnologies
     level: silver
-  - id: 2018-instana
+  - id: instana
     level: silver
   - id: thoughtworks-gocd
     level: silver
