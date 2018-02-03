@@ -117,7 +117,23 @@ sponsors:
     level: community
   - id: baltimorepostgresql
     level: community
+  - id: groundfloor
+    level: community
+  - id: harborlaunch
+    level: community
+  - id: consciousventurelabs
+    level: community
+  - id: tu-incubator
+    level: community
+  - id: aging-2-0-baltimore
+    level: community
+  - id: technically-baltimore
+    level: media
   - id: opsgenie
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: contrast_security
     level: gold
   - id: appdynamics
     level: platinum
