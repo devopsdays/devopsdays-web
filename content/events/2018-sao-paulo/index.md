@@ -9,6 +9,20 @@ Description = "devopsdays São Paulo 2018"
   {{< event_logo >}}
 </div> -->
 
+<div>
+<h2>DevOpsDays São Paulo 2018</h2>
+</div>
+
+<div>
+    <!--<p style="font-size:large;">Date: TBD 2018</p>
+    <p style="font-size:large;">Location: TBD</p>-->
+    <div style="padding-left: 10px">
+      <p>O DevOpsDays virá para São Paulo em 2018! </p>
+      <p>Acabando com um hiato de aproximadamente 8 anos teremos de volta em São Paulo o DevopsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
+      <p>Mais detalhes sobre inscrições e submissões de propostas serão adicionadas em breve.</p>
+    </div>
+</div>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Datas</strong>
