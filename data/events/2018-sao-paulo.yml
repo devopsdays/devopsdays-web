@@ -58,29 +58,41 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+
+  - name: "Daniela Vieira"
+    employer: "VR Benefícios"
+    image: "dani-vieira.jpg"
+    twitter: "danivieira"
+    bio: "Formada em engenharia da computação, atua na área de tecnologia desde 2004. Trabalhou para empresas como UOL, Grupo Abril e Walmart.com. Voluntária do code club Brasil e entusiasta de programação e robótica para crianças. Apoia todo movimento que tenha como objetivo o protagonismo feminino. Atualmente trabalha como head de Qualidade na VR Benefícios."
+    linkedin: "https://www.linkedin.com/in/daniela-vieira-4680aa9/"
+
   - name: "Fernando Ike"
     employer: "QuintoAndar"
     image: "fernando-ike.jpg"
     twitter: "fernandoike"
-    bio: "DevOps Engineer, Na Estrada DevOps host and zombie hunter"
+    bio: "DevOps Engineer, Na Estrada DevOps host and zombie hunter."
     linkedin: "https://www.linkedin.com/in/fernandoike/"
 
   - name: "Magno Logan"
-    employer: ""
-    image: ""
-    twitter: ""
-    bio: ""
-    linkedin: ""
+    employer: "TecBan"
+    image: "magnologan.jpg"
+    twitter: "magnologan"
+    bio: "Application Security Specialist and Secure Development Consultant. DevSecOps Enthusiast."
+    linkedin: "https://www.linkedin.com/in/magnologan"
+
+  - name: "Rafael Gomes"
+    employer: "Stone Pagamentos"
+    image: "gomex.jpg"
+    twitter: "gomex"
+    bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
+    linkedin: "https://www.linkedin.com/in/rbgomes/"
 
   - name: "Wellington F. Silva"
     employer: "Easy"
-    image: ""
+    image: "wsilva.jpg"
     twitter: "_wsilva"
-    bio: ""
-    linkedin: ""
-
-  - name: "Rafael Gomes"
-    twitter: "gomex"
+    bio: "IT guy, used to be a drummer, loves to fly, father, speaker, author, coffee and Pizza addicted"
+    linkedin: "https://www.linkedin.com/in/wfsilva/"
 
 organizer_email: "organizers-sao-paulo-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-sao-paulo-2018@devopsdays.org" # Put your proposal email address here
