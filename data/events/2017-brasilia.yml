@@ -71,7 +71,7 @@ proposal_email: "proposals-brasilia-2017@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-instruct
+  - id: instruct
     level: platinum
   - id: samplesponsorname
     level: gold
@@ -86,7 +86,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
-  - id: 2017-devopsdf
+  - id: devopsdf
     level: community
   - id: 2016-puppetbr
     level: community
@@ -94,11 +94,11 @@ sponsors:
     level: community
   - id: 2016-devopsbr
     level: community
-  - id: 2017-rancherbr
+  - id: rancherbr
     level: community
-  - id: 2017-gitlabbr
+  - id: gitlabbr
     level: community
-  - id: 2017-phpdf
+  - id: phpdf
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

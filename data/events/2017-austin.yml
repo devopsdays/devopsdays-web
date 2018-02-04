@@ -197,7 +197,7 @@ sponsors:
   - id: collabnet
     level: gold
     url: https://www.collab.net/DevOps
-  - id: facebook
+  - id: facebook-before-20170607
     level: gold
     url: https://code.facebook.com/posts/pe/
   - id: jfrog
@@ -231,7 +231,7 @@ sponsors:
     level: silver
   - id: atxtechevents
     level: media
-  - id: devopsdotcom
+  - id: devopsdotcom-before-20170823
     level: media
   - id: sonatype
     level: lanyard
