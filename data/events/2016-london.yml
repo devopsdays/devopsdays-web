@@ -42,7 +42,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: hpe
     level: platinum
-  - id: oracle
+  - id: oracle-before-20171023
     level: gold
   - id: chef-before-20160714
     level: gold
@@ -74,7 +74,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: parasoft
     level: bronze
-  - id: 2016-devopsdotcom
+  - id: devopsdotcom-before-20160426
     level: media
   - id: oreilly
     level: media

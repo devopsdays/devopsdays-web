@@ -87,7 +87,7 @@ sponsors:
     level: bronze
   - id:  openebs
     level: bronze
-  - id: 2017-inuits
+  - id: inuits
     level: bronze
   - id:  tweakers-elect
     level: bronze
@@ -95,10 +95,11 @@ sponsors:
   - id: schubergphilis
     level: bbq
   # Pre-Event Social
-  - id: 2017-ams-opsgenie
+  - id: opsgenie
     level: preevent
+    url: "http://www.opsgenie.com?utm_source=Events&utm_medium=banner&utm_campaign=DevOpsDays_Amsterdam_June"
   # beer
-  - id: 2017-redhat
+  - id: redhat
     level: beer
   # community
 

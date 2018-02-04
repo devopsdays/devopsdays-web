@@ -44,7 +44,7 @@ proposal_email: "organizers-los-angeles-2017@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-vdms
+  - id: vdms
     level: sponsor
   - id: datadog
     level: sponsor
@@ -62,7 +62,7 @@ sponsors:
     level: sponsor
   - id: cyberark-before-20180203
     level: sponsor
-  - id: 2017-openx
+  - id: openx
     level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
