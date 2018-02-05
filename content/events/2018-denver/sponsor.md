@@ -23,7 +23,7 @@ For more information about sponsorship checkout our [Sponsorship Prospectus](htt
 * Demo Product (20 min) during open spaces in private demo room
 * 6 ft table and premiere booth space at event
 
-### Gold Sponsorship (4 Available)
+### Gold Sponsorship (3 Available)
 [Become a Gold Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ML24B6P3T9XDJ)
 
 * 5 tickets to the event
