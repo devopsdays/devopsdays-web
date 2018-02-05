@@ -265,8 +265,8 @@ program:
     date: "2018-04-13"
     start_time: "9:15"
     end_time: "10:00"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "gerie-owen"
+    type: talk
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
@@ -275,8 +275,8 @@ program:
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "keanan-koppenhaver"
+    type: talk
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
@@ -295,8 +295,8 @@ program:
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "matt-stratton"
+    type: talk
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
@@ -305,8 +305,8 @@ program:
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "peter-chestna"
+    type: talk
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
