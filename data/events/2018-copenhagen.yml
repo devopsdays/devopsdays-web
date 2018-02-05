@@ -64,6 +64,12 @@ proposal_email: "proposals-copenhagen-2018@devopsdays.org" # Put your proposal e
 sponsors:
   - id: praqma
     level: gold
+  - id: chef
+    level: gold
+  - id: nnit
+    level: silver
+  - id: platformsh
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
