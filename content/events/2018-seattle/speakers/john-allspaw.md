@@ -1,10 +1,7 @@
 +++
 Title = "John Allspaw"
 Twitter = "allspaw"
-image = ""
+image = "john-allspaw.jpg"
 type = "speaker"
 linktitle = "john-allspaw"
-
 +++
-
-
