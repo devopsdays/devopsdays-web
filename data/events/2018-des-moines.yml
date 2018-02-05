@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
-  - name: speakers
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -149,8 +149,8 @@ program:
     date: "2018-04-12"
     start_time: "9:15"
     end_time: "10:00"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "matt-busche"
+    type: talk
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
@@ -169,13 +169,13 @@ program:
     date: "2018-04-12"
     start_time: "10:35"
     end_time: "10:50"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "luke-amdor"
+    type: talk
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "annette-head"
+    type: talk
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
@@ -184,8 +184,8 @@ program:
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "darin-webb"
+    type: talk
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
@@ -219,8 +219,8 @@ program:
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "brandon-williams"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
@@ -265,8 +265,8 @@ program:
     date: "2018-04-13"
     start_time: "9:15"
     end_time: "10:00"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "gerie-owen"
+    type: talk
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
@@ -275,8 +275,8 @@ program:
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "keanan-koppenhaver"
+    type: talk
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
@@ -295,8 +295,8 @@ program:
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "matt-stratton"
+    type: talk
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
@@ -305,8 +305,8 @@ program:
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "peter-chestna"
+    type: talk
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
