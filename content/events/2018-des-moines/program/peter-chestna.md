@@ -1,7 +1,7 @@
 +++
-Talk_date: "2018-04-13"
-Talk_start_time: "11:25"
-Talk_end_time: "11:55"
+Talk_date = "2018-04-13"
+Talk_start_time = "11:25"
+Talk_end_time = "11:55"
 Title = "Not a free lunch – Managing your open source program"
 Type = "talk"
 Speakers = ["peter-chestna"]

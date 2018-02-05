@@ -7,6 +7,6 @@ Type = "talk"
 Speakers = ["brandon-williams"]
 +++
 
-New team. Old code.
+"New team. Old code.
 
-The code is complex and lacking any automated testing. You're tasked with a "small" change to a massive build script. You want to "fix" all the issues you see and completely rewrite the script. Should you rewrite or should you follow Kaizen to make it 1% better?
+The code is complex and lacking any automated testing. You're tasked with a "small" change to a massive build script. You want to "fix" all the issues you see and completely rewrite the script. Should you rewrite or should you follow Kaizen to make it 1% better?"

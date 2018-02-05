@@ -1,7 +1,7 @@
 +++
-Talk_date: "2018-04-13"
-Talk_start_time: "10:05"
-Talk_end_time: "10:35"
+Talk_date = "2018-04-13"
+Talk_start_time = "10:05"
+Talk_end_time = "10:35"
 Title = "Selling DevOps To Non-Technical Management"
 Type = "talk"
 Speakers = ["keanan-koppenhaver"]
