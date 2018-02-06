@@ -14,7 +14,7 @@ Most devopsdays events feature a combination of curated talks (see open [Calls f
 
 ### History
 
-The first devopsdays was held in Ghent, Belgium in 2009. Since then, devopsdays events have multiplied, and if there isn't one in your city, [check out the information](/organizing/) for organizing one yourself!
+The first devopsdays was held in Ghent, Belgium in 2009. Since then, devopsdays events have multiplied, and if there isn't one in your city, [check out the information](/organizing/) about organizing one yourself!
 
 
 ### About the organization
