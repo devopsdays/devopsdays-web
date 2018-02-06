@@ -2,7 +2,7 @@
 Title = "devopsdays Chicago 2018"
 Type = "welcome"
 aliases = ["/events/2018-chicago/welcome"]
-Description = "The group that brought you DevOpsDays Chicago 2014-2018 is back together and planning the 2018 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2018 in Chicago."
+Description = "DevOpsDays Chicago will take place August 28-29, 2018! The group that brought you DevOpsDays Chicago 2014-2018 is back together and planning the 2018 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2018 in Chicago."
 
 
 +++
