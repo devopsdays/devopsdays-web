@@ -1,13 +1,13 @@
 +++
 title = "sponsor"
 type = "event"
-description = "Interested in sponsoring DevOpsDays Chicago 2017? We greatly value sponsors for this open event."
+description = "Interested in sponsoring DevOpsDays Chicago 2018? We greatly value sponsors for this open event."
 
 
 +++
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2018/chicago/2018-chicago-devopsdays-prospectus.pdf">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2018/chicago/2018-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">send us an email</a>.
 
 <hr>
 
@@ -145,6 +145,6 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2018/chicago/2018-chicago-devopsdays-prospectus.pdf"><img src = "/events/2018-chicago/DOD_Chi_Prospectus_2018.jpg" class="img-fluid""></a>
+<a href = "https://assets.devopsdays.org/events/2018/chicago/2018-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2018-chicago/DOD_Chi_Prospectus_2018.jpg" class="img-fluid""></a>
 </div>
 </div>
