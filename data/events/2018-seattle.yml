@@ -113,6 +113,8 @@ sponsors:
     level: gold
   - id: dell
     level: gold
+  - id: launch-darkly
+    level: gold
   - id: aspe
     level: silver
   - id: rightstar
