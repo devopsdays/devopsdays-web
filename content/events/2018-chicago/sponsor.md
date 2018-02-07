@@ -26,7 +26,9 @@ impression on the attendees.
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br>
 <br><br>
-<table class="table table-bordered">
+<h2>Sponsorship Packages</h2>
+
+<table class="table table-bordered table-hover">
   <thead>
     <tr>
       <th scope="col">THE GOODS</th>
@@ -178,16 +180,95 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   </tbody>
 </table>
 
+<h2>Special Sponsorships</h2>
+
+All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsorships@devopsdayschi.org">sponsorship@devopsdayschi.org</a>.
+<br/><br/>
+
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+      <th scope="col">Tickets Included</th>
+      <th scope="col">Number Available</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><i class="fa fa-music fa-4x"></i></td>
+      <td>Evening Event</td>
+      <td>$10,000</td>
+      <td>Can be split by two sponsors</td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-wifi fa-4x"></i></td>
+      <td>Wifi</td>
+      <td>$4,000</td>
+      <td>Custom network name and password</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-pencil-square-o fa-4x"></i></td>
+      <td>Live Transcription</td>
+      <td>$3,000</td>
+      <td>Shout-out during opening remarks</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-video-camera fa-4x"></i></td>
+      <td>Video</td>
+      <td>$5,000</td>
+      <td>Your logo on each video recording</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
+      <td>Lanyard</td>
+      <td>$3,500</td>
+      <td>Your logo and company colors</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-car fa-4x"></i></td>
+      <td>Transportation</td>
+      <td>$2,000</td>
+      <td>Sponsor a custom Lyft code for participants</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-heart fa-4x"></i></td>
+      <td>Afternoon Snack</td>
+      <td>$4,000</td>
+      <td>Your logo on all food cards - each day</td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Lunch</td>
+      <td>$5,000</td>
+      <td>Your logo on all food cards - each day</td>
+      <td>2</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
 <div class = "row">
 <div class = "col-12">
   <br/>
   <br/>
   Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
-  <br/>
-  <br/>
-  <hr/>
-  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, and wifi. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202018%20Sponsorship">send us an email</a>.
-  <br/>
   <br/>
 </div>
 </div>
