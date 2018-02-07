@@ -45,6 +45,7 @@ Description = "devopsdays Maringá 2018"
   </div>
 </div>
 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -53,6 +54,7 @@ Description = "devopsdays Maringá 2018"
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div>
+-->
 
 <div class = "row">
   <div class = "col-md-2">
