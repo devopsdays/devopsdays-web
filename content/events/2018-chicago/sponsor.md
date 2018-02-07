@@ -22,116 +22,164 @@ opportunity to demo products/projects as part of an open space
 session, but this is not 'that kind of conference' and heavy
 marketing will probably work against you when trying to make a good
 impression on the attendees.
-<br>
+<br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br>
-
-<hr/>
-<div class = "row">
-<div class = "col-12">
-  <table class = "table table-bordered table-responsive">
+<br><br>
+<table class="table table-bordered">
   <thead>
     <tr>
-      <th><i>packages</i></th>
-      <th><center><b><u>Bronze<br />1000 USD</u></center></b></th>
-      <th><center><b><u>Silver<br />3000 USD</u></center></b></th>
-      <th><center><b><u>Gold<br />6000 USD</u></center></b></th>
+      <th scope="col">THE GOODS</th>
+      <th scope="col">GOLD</th>
+      <th scope="col">SILVER</th>
+      <th scope="col">BRONZE</th>
+      <th scope="col">COMMUNITY</th>
     </tr>
-    </thead>
+  </thead>
+  <tbody>
     <tr>
-      <td></td><td colspan="3"><small>Note: Paypal payments include 3% service charge.</small></td>
+      <td>Price</td>
+      <td>$6,000</td>
+      <td>$3,000</td>
+      <td>$1,000</td>
+      <td>Free</td>
     </tr>
     <tr>
       <td></td>
-      <td colspan="3" style="padding:0px;">
-        <table style="margin:0px;line-height:6px;">
-          <tr>
-            <td style="padding: 4px 0px 0px 5px;">
-              <!-- bronze Paypal button  -->
-              <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form> -->
-            </td>
-            <td style="width:100px;text-align:center;vertical-align:middle;">
-              <!-- silver Paypal button  -->
-              <!--form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="FMZ9VU3WY2XPW">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form -->
-            </td>
-            <td style="width:100px;text-align:center;vertical-align:middle;">
-              <!-- gold Paypal button  -->
-              <!--form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form-->
-            </td>
-          </tr>
-          <tr>
-            <td colspan="3" style="padding: 2px 0 12px 0;text-align: center;"><a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202018%20Sponsorship">Email us</a> if you prefer to pay by check</td>
-          </tr>
-        </table>
+      <td colspan="3"><small>
+      Note: Paypal payments include 3% service charge.
+      <br>
+      <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202018%20Sponsorship">Email us</a> if you prefer to pay by check
+      </small></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <!-- gold Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
       </td>
-    </tr>
-    <tbody>
-    <tr>
-      <td>included tickets</td>
-      <td bgcolor="peru"><center><strong>1</strong></center></td>
-      <td bgcolor="silver"><center><strong>2</strong></center></td>
-      <td bgcolor="gold"><center><strong>4</strong></center></td>
-    </tr>
-    <tr>
-      <td>logo on DevOpsDays Chicago event website</td>
-      <td bgcolor="peru">&nbsp;</td>
-      <td bgcolor="silver">&nbsp;</td>
-      <td bgcolor="gold">&nbsp;</td>
-    </tr>
-    <tr>
-      <td>logo on all email communication</td>
-      <td>&nbsp;</td>
-      <td bgcolor="silver">&nbsp;</td>
-      <td bgcolor="gold">&nbsp;</td>
-    </tr>
-    <tr>
-      <td>logo on banner at venue during event</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td bgcolor="gold">&nbsp;</td>
+      <td>
+        <!-- silver Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td>
+        <!-- bronze Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td></td>
     </tr>
     <tr>
-    <tr>
-      <td>mention by MC at kickoff and close</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td bgcolor="gold">&nbsp;</td>
+      <td>Tickets Included</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1</td>
+      <td></td>
     </tr>
     <tr>
-      <td>1 minute pitch to full audience (including streaming audience)</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td bgcolor="gold">&nbsp;</td>
+      <td>Logo on DevOpsDays Chicago website</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
     </tr>
     <tr>
-      <td>dedicated booth/table space</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td bgcolor="gold">&nbsp;</td>
+      <td>Social media shout-out</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
     </tr>
     <tr>
-      <td>shared booth/table for swag</td>
-      <td>&nbsp;</td>
-      <td bgcolor="silver">&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>Logo on marketing materials</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
     </tr>
-    </tbody>
-  </table>
+    <tr>
+      <td>Logo on slides at breaks</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logo on participant emails</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Booth space in sponsor area (with chair)</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logo on banner in sponsor area</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Logo on banner at evening event</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Shout-out from MC's at kickoff and again at breaks</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dedicated logo slide during breaks</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dedicated sponsor booth in sponsor area (with chair)</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>One-minute pitch between talks (includes live-stream audience)</td>
+      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<div class = "row">
+<div class = "col-12">
   <br/>
   <br/>
   Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
