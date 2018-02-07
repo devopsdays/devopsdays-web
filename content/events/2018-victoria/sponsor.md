@@ -40,14 +40,14 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tr>
     <th><strong>Sponsorship Packages</strong></th>
     <th><center><b><u>Bronze</u><br />$250</center></b></th>
-    <th><center><b><u>Silver</u><br />$500<br />(max 4)</center></b></th>
-    <th><center><b><u>Gold</u><br />$1000<br />(max 4)</center></b></th>
+    <th><center><b><u>Silver</u><br />$500</center></b></th>
+    <th><center><b><u>Gold</u><br />$1000</center></b></th>
   </tr>
   <tr>
     <td>Tickets Included</td>
     <td class="bronze">1</td>
-    <td class="silver">2</td>
-    <td class="gold">4</td>
+    <td class="silver">1</td>
+    <td class="gold">2</td>
   </tr>
   <tr>
     <td>Logo on Website</td>
