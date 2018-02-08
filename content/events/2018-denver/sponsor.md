@@ -13,8 +13,8 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 For more information about sponsorship checkout our [Sponsorship Prospectus](https://drive.google.com/file/d/1GYvLdCrSYBPmlMgw6AQpwiIlJQ2NDISA/view?usp=sharing)
 
-### Platinum Sponsorship (2 Available)
-[Become a Platinum Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMLWFADSP6KJG)
+### Platinum Sponsorship
+Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Platinum Sponsor
 
 * 5 tickets to the event
 * Logo on DevOpsDays Rockies event website
