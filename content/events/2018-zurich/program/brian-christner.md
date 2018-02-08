@@ -1,0 +1,25 @@
++++
+City = "Zurich"
+Year = "2018"
+talk_date = ""
+talk_start_time = ""
+talk_end_time = ""
+title = "Introduction to Docker - Hands On"
+type = "talk"
+speakers = ["brian-christner"]
+youtube = ""
+vimeo = ""
+speakerdeck = ""
+slideshare = ""
+slides = ""
++++
+
+A hands-on introductory course to Docker and Docker Orchestration. The course will cover 
+the basics of what are containers, how to create a container, create a Docker Swarm, and 
+finally, create a web-app and deploy it to a Docker Swarm.
+
+This course should take approximately 1 to 1.5 hours depending on the time slot allocated. 
+This is an abbreviated course (Normally 4 hours for the introduction course) which I 
+normally teach around Europe and Switzerland. At the end of the course, we will provide 
+handouts, a Slack Channel, and additional Docker resources so students can continue with 
+the leaning.
