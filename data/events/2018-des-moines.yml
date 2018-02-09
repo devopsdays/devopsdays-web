@@ -179,8 +179,8 @@ program:
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "joel-tosi"
+    type: talk
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
