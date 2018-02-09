@@ -285,8 +285,8 @@ program:
     date: "2018-04-13"
     start_time: "10:35"
     end_time: "10:50"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "jamie-riedesel"
+    type: talk
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
