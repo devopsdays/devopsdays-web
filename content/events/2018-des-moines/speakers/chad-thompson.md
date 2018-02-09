@@ -1,7 +1,7 @@
 +++
 Title = "Chad Thompson"
 Twitter = "chadothompson"
-linkedin = "chadothompson"
+linkedin = "https://www.linkedin.com/in/chadothompson/"
 Website = ""
 image = ""
 type = "speaker"
