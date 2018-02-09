@@ -189,13 +189,13 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "matt-stratton"
+  - title: "bryce-hemme"
     type: talk
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "matt-stratton"
+    type: talk
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
