@@ -159,8 +159,8 @@ program:
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "tim-andersen"
+    type: talk
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
