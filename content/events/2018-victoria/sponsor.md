@@ -5,8 +5,12 @@ Description = "Sponsor devopsdays Victoria 2018"
 +++
 
 <style type="text/css">
-    td {
+    td, th {
         text-align: center;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 5px;
+        padding-bottom: 5px;
     }
 
     .bronze {
