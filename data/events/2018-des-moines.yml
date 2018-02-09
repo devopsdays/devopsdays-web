@@ -144,8 +144,8 @@ program:
     date: "2018-04-12"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "Keynote"
-    type: custom
+  - title: "kelsey-hightower"
+    type: talk
     date: "2018-04-12"
     start_time: "9:15"
     end_time: "10:00"
