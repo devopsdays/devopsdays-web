@@ -96,11 +96,17 @@ sponsors:
     level: silver
   - id: newrelic
     level: silver
+  - id: portworx
+    level: silver
   - id: thoughtworks-gocd
+    level: silver
+  - id: spoken
     level: silver
   - id: sumologic
     level: silver
   - id: accenture
+    level: bronze
+  - id: relus
     level: bronze
   - id: arresteddevops
     level: community

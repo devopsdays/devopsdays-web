@@ -6,8 +6,9 @@ date = "2016-04-14T11:28:51-05:00"
 title = "Devopsdays - openspace concept"
 aliases = ["/pages/open-space-format/"]
 
-
 +++
+
+Most devopsdays events are a combination of curated talks and self organized conversations. The self organized content is known as "open spaces". Open Spaces give attendees the opportunity to talk about anything they'd like. A person might suggest a topic they want to learn about, or one they feel like they can help others with. The topics range widely, from highly technical, to pure culture, to board games for networking.
 
 <div><em>Open space is the simplest meeting format that could possibly work.</em>
 <em> </em></div>

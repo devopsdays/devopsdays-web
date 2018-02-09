@@ -5,9 +5,9 @@ aliases = ["/events/2018-victoria/welcome"]
 Description = "devopsdays Victoria 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
