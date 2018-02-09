@@ -67,6 +67,12 @@ proposal_email: "proposals-jakarta-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: btpn
     level: platinum
+  - id:  dimension-data
+    level: platinum
+  - id:  go-jek
+    level: gold
+  - id:  naradacode
+    level: gold
   - id: ekipa
     level: silver
   - id: chef
