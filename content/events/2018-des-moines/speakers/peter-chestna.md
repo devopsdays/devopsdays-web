@@ -1,6 +1,7 @@
 +++
 Title = "Peter Chestna"
 Twitter = "PeteChestna"
+linkedin = "https://www.linkedin.com/in/peter-chestna-665427"
 image = ""
 type = "speaker"
 linktitle = "peter-chestna"

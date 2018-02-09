@@ -62,6 +62,10 @@ team_members: # Name is the only required field for team members.
     github: "jessiepuls"
     linkedin: "https://www.linkedin.com/in/jessiepuls"
     twitter: "jessiepuls"
+  - name: "Bo Schatzberg"
+    github: "BoSchatzberg"
+    linkedin: "https://www.linkedin.com/in/BoSchatzberg/"
+    twitter: "BoSchatzberg"
   - name: "Ethan Spoelstra"
     github: "espoelstra"
     linkedin: "https://www.linkedin.com/in/ethanspoelstra"
@@ -144,8 +148,8 @@ program:
     date: "2018-04-12"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "Keynote"
-    type: custom
+  - title: "kelsey-hightower"
+    type: talk
     date: "2018-04-12"
     start_time: "9:15"
     end_time: "10:00"
@@ -154,13 +158,13 @@ program:
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "pramod-sadalage"
+    type: talk
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "tim-andersen"
+    type: talk
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
@@ -179,8 +183,8 @@ program:
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "joel-tosi"
+    type: talk
     date: "2018-04-12"
     start_time: "10:50"
     end_time: "11:20"
@@ -189,13 +193,13 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "bryce-hemme"
+    type: talk
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "matt-stratton"
+    type: talk
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
@@ -270,8 +274,8 @@ program:
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "spencer-herzberg"
+    type: talk
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
@@ -285,23 +289,23 @@ program:
     date: "2018-04-13"
     start_time: "10:35"
     end_time: "10:50"
-  - title: "TBD - Track 1"
-    type: custom
-    date: "2018-04-13"
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "TBD - Track 2"
-    type: custom
-    date: "2018-04-13"
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "matt-stratton"
+  - title: "jamie-riedesel"
     type: talk
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "avery-regier"
+    type: talk
+    date: "2018-04-13"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "david-laulusa"
+    type: talk
+    date: "2018-04-13"
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "wyatt-walter"
+    type: talk
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
@@ -310,8 +314,8 @@ program:
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "john-sonneville"
+    type: talk
     date: "2018-04-13"
     start_time: "11:25"
     end_time: "11:55"
@@ -330,8 +334,8 @@ program:
     date: "2018-04-13"
     start_time: "13:35"
     end_time: "14:05"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "ethan-harstad"
+    type: talk
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
