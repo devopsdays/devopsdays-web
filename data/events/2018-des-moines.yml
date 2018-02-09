@@ -290,8 +290,8 @@ program:
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "avery-regier"
+    type: talk
     date: "2018-04-13"
     start_time: "10:50"
     end_time: "11:20"
