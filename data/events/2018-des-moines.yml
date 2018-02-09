@@ -270,8 +270,8 @@ program:
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "spencer-herzberg"
+    type: talk
     date: "2018-04-13"
     start_time: "10:05"
     end_time: "10:35"
