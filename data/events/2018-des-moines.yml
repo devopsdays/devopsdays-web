@@ -154,8 +154,8 @@ program:
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "pramod-sadalage"
+    type: talk
     date: "2018-04-12"
     start_time: "10:05"
     end_time: "10:35"
