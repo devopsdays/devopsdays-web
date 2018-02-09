@@ -7,4 +7,7 @@ Type = "talk"
 Speakers = ["darin-webb"]
 +++
 
-Amazon Web Services continues to add services to their suite of Developer Tools. In this talk get an overview of the tools, an understanding of how they fit into a devops ecosystem, and an example of how you can deploy a containerized web service using CodeCommit, CodeBuild, & CodePipeline.
+Amazon Web Services is the world's largest cloud provider, and their ever-growing suit of tools are worth having in your toolkit. Of interest to devops practitioners are the Developer Tools: CodeCommit, CodeBuild, CodeDeploy, and CodePipeline. This talk will give an overview of these tools, and their place in a devops ecosystem.
+
+This talk will take a look at the options available in the infrastructure-as-code and CI/CD pipeline space, but will go deeply into CodePipeline and the rest of the AWS Developer Tools suite. We'll explore deploying a sample container application, going from source pushed to CodeCommit, triggering a CodePipeline pipeline, launching a CodeBuild Project, and finally deploying the application infrastructure using Cloudformation.
+

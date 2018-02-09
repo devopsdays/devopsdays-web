@@ -12,4 +12,4 @@ Slideshare = ""
 Slides = ""
 +++
 
-Change can be stressful, big change can be frustrating and change that you own can be downright scary. This talk is a story of a decision to transform an organization and what we learned on our journey in taking a $100 million business from colocation to the cloud.
+In 2015, DHI Group (with our primary product of the DIce.com technology recruiting site) made a decision to go "all in" on moving our business to the cloud (Amazon Web Services).  In some ways, we viewed this as a continuation of the strategy we had been pursuing with some of our other brands and sites that we had either acquired already running on the AWS platform, or through some projects supporting international customers.  We were also well aware that the skills and operational processes that had been developed over the course of 20+ years of supporting a public facing web application would be different at the end of a 2 year project.  In this talk, we'll go through how we migrated our organization to the cloud and how we needed to create a new culture in order to accomplish a successful migration to the public cloud.
