@@ -11,14 +11,14 @@ Valorizamos muito a importância dos patrocinadores para este evento. Se você e
 
 <hr>
 
-DevOpsDays é uma conferência auto-organizado que depende de patrocínios. Não temos estande de patrocinadores, apresentações focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a se representarem participando ativamente e se engajando com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
+DevOpsDays é uma conferência auto-organizado que depende de patrocínios. Não temos estande de patrocinadores, as apresentações focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento merecido no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a participarem ativamente do evento e se engajarem com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
 
 <p>
-Patrocinadores Platina, Hppy Hour e Ouro terão mesas própria, patrocinadores Prata terão uma mesa compartilhade entre si onde ele poderão interagir com os participantes interessado em conhecê-los durante as pausas. Todos os participantes serão bem-vindos a propor qualquer pergunta que desejarem durante os open spaces, but esta é uma conferência focada na comunidade, provavelmente um markegint muito agressivo funcionará contra você ao tentar causar uma boa impressão.
+Patrocinadores Platina, Hppy Hour e Ouro terão mesas própria, patrocinadores Prata terão uma mesa compartilhade entre si onde ele poderão interagir com os participantes interessado em conhecê-los durante as pausas. Todos os participantes serão bem-vindos a perguntarem o que desejarem durante as sessões open spaces, ressaltando que é uma conferência focada na comunidade, provavelmente um marketing muito agressivo funcionará contra você ao tentar causar uma boa impressão.
 
 
 <p>
-A melhor coisa para se fazer é enviar engenheiros para interagir com os especialista que estão no evento.
+O nossa recomendação é enviar seus especialistas técnicos para interagir com os outros especialistas que estarão no evento.
 <p>
 
 
