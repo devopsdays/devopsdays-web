@@ -1,7 +1,7 @@
 +++
 Title = "Joel Tosi"
 Twitter = "joeltosi"
-image = ""
+image = "joel-tosi.jpg"
 type = "speaker"
 linktitle = "joel-tosi"
 

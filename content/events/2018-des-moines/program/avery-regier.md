@@ -2,7 +2,7 @@
 Talk_date = "2018-04-13"
 Talk_start_time = "10:50"
 Talk_end_time = "11:20"
-Title = "Recognizing Zombies, Black Holes TALKTITLE Tribbles, before you get eaten: Techniques to avoid cascading failure"
+Title = "Recognizing Zombies, Black Holes Tribbles, before you get eaten: Techniques to avoid cascading failure"
 Type = "talk"
 Speakers = ["avery-regier"]
 +++
