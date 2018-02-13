@@ -127,6 +127,12 @@ sponsors:
     level: community
   - id: aging-2-0-baltimore
     level: community
+  - id: perfbytes
+    level: community
+  - id: code-in-the-schools
+    level: community
+  - id: spark
+    level: community
   - id: technically-baltimore
     level: media
   - id: opsgenie
@@ -134,6 +140,8 @@ sponsors:
   - id: sonatype
     level: gold
   - id: contrast_security
+    level: gold
+  - id: swamp
     level: gold
   - id: appdynamics
     level: platinum
@@ -145,6 +153,8 @@ sponsors:
     level: platinum
   - id: fearless
     level: happyhour
+  - id: asymmetrik
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
