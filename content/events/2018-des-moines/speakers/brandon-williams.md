@@ -1,9 +1,9 @@
 +++
 Title = "Brandon Williams"
 Twitter = "williamsbdev"
-image = "brandon-williams"
+image = "brandon-williams.jpg"
 type = "speaker"
-linktitle = "brandon-williams.jpg"
+linktitle = "brandon-williams"
 
 +++
 
