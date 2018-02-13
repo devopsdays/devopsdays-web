@@ -6,7 +6,7 @@ Description = "Sponsor DevOpsDays Austin Summit 2018"
 
 This year DevOpsDays Austin is using a slightly different "summit" format which affects how sponsorships work.  Even if you have sponsored other DevOpsDays or previously sponsored DevOpsDays Austin, please read the changes for this year as many things have changed.
 
-[DevOpsDays Austin Summit 2018 Sponsor Prospectus](https://drive.google.com/open?id=17FHnDiv4ps0RgPETsZO9ZuhOZiq_aQdr)
+[DevOpsDays Austin Summit 2018 Sponsor Prospectus](https://drive.google.com/open?id=19jZ4OhZUyLxRoi-RX64o5cISWAkgO1ZH)
 
 Feel free to contact us at [{{< email_organizers >}}] with any questions.
 
