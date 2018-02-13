@@ -1,7 +1,7 @@
 +++
 Title = "Keanan Koppenhaver"
 Twitter = "kkoppenhaver"
-image = ""
+image = "keanan-koppenhaver.jpg"
 type = "speaker"
 linktitle = "keanan-koppenhaver"
 

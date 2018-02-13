@@ -1,7 +1,7 @@
 +++
 Title = "Brandon Williams"
 Twitter = "williamsbdev"
-image = ""
+image = "brandon-williams.jpg"
 type = "speaker"
 linktitle = "brandon-williams"
 
