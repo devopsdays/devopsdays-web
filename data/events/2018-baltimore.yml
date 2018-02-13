@@ -107,8 +107,54 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: bwtech
     level: community
+  - id: jhtvfastforward
+    level: community
+  - id: betamore
+    level: community
+  - id: etcbaltimore
+    level: community
+  - id: baltimorepostgresql
+    level: community
+  - id: groundfloor
+    level: community
+  - id: harborlaunch
+    level: community
+  - id: consciousventurelabs
+    level: community
+  - id: tu-incubator
+    level: community
+  - id: aging-2-0-baltimore
+    level: community
+  - id: perfbytes
+    level: community
+  - id: code-in-the-schools
+    level: community
+  - id: spark
+    level: community
+  - id: technically-baltimore
+    level: media
+  - id: opsgenie
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: swamp
+    level: gold
+  - id: appdynamics
+    level: platinum
+  - id: scalyr
+    level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: fearless
+    level: happyhour
+  - id: asymmetrik
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "From 6 Month Waterfall To 1h Code Deploys"
 Type = "talk"
 Speakers = ["andreas-grabner"]
+youtube = "2zm6x4htPqg"
 +++
 
 In 2011 we delivered 2 major releases of our on premise enterprise software. Market, technology and customer requirements forced us to change that in order to remain competitive.

@@ -1,18 +1,16 @@
 +++
-date = "2016-12-08T16:35:49-05:00"
-title = "contato"
-type = "event"
-aliases = ["/events/2018-sao-paulo/contact"]
-
-
+Title = "Contato"
+Type = "event"
+Description = "Contact information for Devopsdays São Paulo 2018"
 +++
 
-Se você deseja falar conosco por e-mail: {{< email_organizers >}}
+Se você quiser entrar em contato conosco: {{< email_organizers >}}
 
-**Nosso time local**
+
+**Our local team**
 
 {{< list_organizers >}}
 
-**O grupo central de organizadores do devopsdays**
+**The core devopsdays organizer group**
 
 {{< list_core >}}

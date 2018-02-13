@@ -57,13 +57,28 @@ proposal_email: "proposals-atlanta-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
-
+  - id: microsoft
+    level: platinum
   - id: rigor
     level: gold
-  - id: instana
+  - id: instana-before-20170810
     level: gold
+  - id: chef
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: dell
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: sonatype
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -75,6 +90,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10

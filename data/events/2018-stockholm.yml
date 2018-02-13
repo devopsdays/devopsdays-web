@@ -53,10 +53,12 @@ team_members: # Name is the only required field for team members.
     website: "https://www.loweschmidt.se"
     facebook: "https://www.facebook.com/lowe.h.schmidt"
     linkedin: "https://www.linkedin.com/in/loweschmidt/"
+    image: "lowe-schmidt.jpg"
 
   - name: "Jessica Brown"
     twitter: "jessalyn"
     employer: "Fastly"
+    image: "jess-brown.jpg"
 
   - name: "Daniel Lundin"
     twitter: "dln_eintr"

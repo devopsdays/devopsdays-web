@@ -1,7 +1,7 @@
 +++
 Title = "Mike Fiedler"
 Twitter = "mikefiedler"
-image = ""
+image = "mike-fiedler.jpg"
 website = "http://www.miketheman.net"
 type = "speaker"
 linktitle = "mike-fiedler"
@@ -14,3 +14,5 @@ grown. He’s also taught a few people some things here and there. Currently
 Director of Engineering at Paribus, a Capital One flagship product. Alum of
 Datadog, Magnetic, MongoDB, to name a few. He’s been a roller derby referee for
 almost 10 years.
+
+A New York local, talk to him about where to get some of the best pastries in the city.

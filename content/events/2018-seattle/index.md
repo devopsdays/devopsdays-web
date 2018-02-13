@@ -28,8 +28,8 @@ DevOpsDays will be returning to Seattle in April 24th and 25th, 2018. We had
 long waiting lists the last two years, so this year we're expanding to make
 room for up to 500 participants.
 
-Would you like to share your story? Our CFP is open! <a href="https://www.papercall.io/devopsdays-seattle-2108">Click here</a> to
-submit a talk proposal.
+Our Call for Proposals is now closed. We are busy going through more than 200
+great submissions and will announce the schedule soon!
 
 DevOpsDays is a great opportunity for sponsors. You'll have direct access
 to hundreds of practitioners. For more information about sponsorship

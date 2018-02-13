@@ -9,7 +9,18 @@ Description = "Propose a talk for devopsdays Jakarta 2018"
 
 <div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://goo.gl/forms/RlTj5bavs6MxtZmr1" target="_blank" class="btn btn-primary btn-lg">Submit your proposal now!</a></center></div>
 
-There are four types of topics at devopsdays:
+We welcome any talks or workshops about:
+<ol>
+	<li>DevOps</li>
+	<li>Continuous Integration/Delivery</li>
+	<li>Tools for building, testing, monitoring and deploying</li>
+	<li>Engineering practices</li>
+	<li>On the broader theme of Agile such as change management or leadership challenges in the context of DevOps and their transformations</li>
+</ol>
+
+<hr>
+
+There are four types of speaking formats at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>

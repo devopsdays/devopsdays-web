@@ -5,6 +5,8 @@ Talk_end_time = "11:35"
 Title = "Full Spectrum Engineering – The new full-stack"
 Type = "talk"
 Speakers = ["peter-chestna"]
+speakerdeck = ""
+youtube = "qd4iHFEBSk4"
 +++
 
 Software development is changing and so are the roles that developers need to play. Over the last decade or so, companies have been trying to fill their ranks with what was called full-stack engineers. These developers were versed in software development from database to GUI and everything in between. This was necessary in the age of monolithic application architectures.

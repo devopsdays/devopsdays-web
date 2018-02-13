@@ -5,6 +5,8 @@ Talk_end_time = "12:15"
 Title = "Monoliths to Microservices - Practical Tips for CI, CD and DevOps"
 Type = "talk"
 Speakers = ["dave-kerr"]
+speakerdeck = ""
+youtube = "hSgeERy1_54"
 +++
 
 As the popularity of microservice architecture grows, CI and CD becomes more and more critical. Systems which contain dozens of services and diverse databases can get very challenging to manage. In this presentation I'll take you through some hands on patterns which you can use to help you better manage your microservices!

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "OpenSource PowerShell - How Could It Possibly Matter?"
 Type = "talk"
 Speakers = ["darwin-sanoy"]
+youtube = "nUxEtxDK90k"
 +++
 
 In DevOps it is common to have Ruby, Python and Bash on all Windows machines - will you install PowerShell on your Mac workstation and Linux servers?

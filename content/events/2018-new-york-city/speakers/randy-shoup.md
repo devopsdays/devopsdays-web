@@ -4,6 +4,11 @@ Twitter = "randyshoup"
 image = "randy-shoup.jpg"
 type = "speaker"
 linktitle = "randy-shoup"
+facebook = "https://www.facebook.com/randy.shoup"
+Website = "http://www.randyshoup.com"
+linkedin = "https://linkedin.com/in/randyshoup"
+Pronouns = "he/him"
+Github = "randyshoup"
 
 +++
 

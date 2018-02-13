@@ -64,6 +64,26 @@ proposal_email: "proposals-toronto-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: thoughtworks-gocd
     level: gold
+  - id: opsgenie
+    level: gold
+  - id: trinimbus
+    level: gold
+  - id: 1password
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: influxdata
+    level: silver
+  - id: scalar
+    level: silver
+  - id: hashicorp
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: puppet
+    level: silver
+  - id: victorops
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -77,10 +97,10 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 11
+    max: 12
   - id: silver
     label: Silver
-    max: 12 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: happyhour
     label: Happy Hour
     max: 1

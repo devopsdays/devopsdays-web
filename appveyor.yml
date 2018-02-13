@@ -2,7 +2,7 @@ version: 1.0.{build}
 install:
 #  Install Hugo from chocolatey and display the version number
 - cmd: >-
-    choco install hugo -y
+    choco install hugo -y --version 0.31.1
 
     hugo version
 

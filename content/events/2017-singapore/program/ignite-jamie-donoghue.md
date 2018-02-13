@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Organising for DevOps - People before Process and Technology"
 Type = "talk"
 Speakers = ["jamie-donoghue"]
+speakerdeck = "https://speakerdeck.com/devopsdayssg/amie-donoghue-organising-for-devops-people-before-process-and-technology"
+youtube = "41Uez8c6Ho0"
 +++
 
 A DevOps way of working promises many benefits; from faster delivery to a more stable operating environment. But it’s not all about the technology!

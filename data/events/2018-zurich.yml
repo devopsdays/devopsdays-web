@@ -8,8 +8,9 @@ startdate: 2018-05-02
 enddate: 2018-05-03
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-10-01 # start accepting talk proposals.
-cfp_date_end: 2018-01-05 # close your call for proposals.
+cfp_date_end: 2018-01-31 # close your call for proposals.
 cfp_date_announce: 2017-10-01 # inform proposers of status
+cfp_link: https://cfp.devopsdays.ch
 registration_open: "true"
 
 # Location
@@ -20,15 +21,11 @@ location: "Zürich Winterthur" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: speakers
-#  - name: program
-# - name: propose
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: speakers
   - name: location
   - name: registration
-  - name: propose
-    url: https://cfp.devopsdays.ch
+#  - name: propose
+#    url: https://cfp.devopsdays.ch
   - name: sponsor
   - name: contact
   - name: conduct
@@ -36,8 +33,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Noëmi Kruesi"
+    twitter: ""
+    employer: "Swisscom AG"
     bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
 <p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
+    website: ""
     image: "noemi-krusi.jpg"
   - name: "Bastian Widmer"
     twitter: "dasrecht"
@@ -50,15 +53,6 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     linkedin: "http://ch.linkedin.com/in/bastianwidmer"
     website: "https://bastianwidmer.ch"
     image: "bastian-widmer.jpg"
-  - name: "Marcel Wolf"
-    twitter: "_marcelwolf"
-    employer: "codecentric AG"
-    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-    image: "marcel-wolf.jpg"
   - name: "Marcelo Ancelmo"
     twitter: "marceloancelmo"
     employer: ""
@@ -79,10 +73,10 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     image: "martin-thalmann.jpg"
   - name: "Matías E. Fernández"
     twitter: "matiasfrndz"
-    employer: "ERNI Consulting AG"
+    employer: "Swisscom AG"
     bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
 Keen learner and challenger of the status quo.<p>
-Enabling organisations to achieve outstanding and sustainable results that exceed customers?~@~Y expectations is his passion."
+Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
     github: "matiasfrndz"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/matiasfrndz/"
@@ -133,6 +127,23 @@ sponsors:
     level: gold
   - id: mobiliar
     level: silver
+  - id: dectris
+    level: bronze
+  - id: atos
+    level: gold
+  - id: swisscom
+    level: gold
+    url: https://job.swisscom.ch/ict/de?showclose=1
+  - id: atlassian
+    level: gold
+  - id: zhlke
+    level: gold
+  - id: swiss-re
+    level: gold
+  - id: netapp-schweiz
+    level: gold
+  - id:  redgate
+    level: gold
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -141,8 +152,10 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 1
   - id: gold
     label: Gold
+    max: 8
   - id: silver
     label: Silver
+    max: 2
   - id: bronze
     label: Bronze
 

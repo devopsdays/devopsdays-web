@@ -64,7 +64,7 @@ sponsors:
     level: gold
   - id: victorops
     level: silver
-  - id: cyberark
+  - id: cyberark-before-20180203
     level: silver
   - id: netapp
     level: silver

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Virtual SA"
 Type = "talk"
 Speakers = ["faisal-ramay"]
+speakerdeck = "https://speakerdeck.com/devopsdayssg/faisal-ramay-virtual-sa"
+youtube = "41Uez8c6Ho0"
 +++
 
 To simplify the delivery of development environments for developers, PALO IT developed a solution using ChatBots, Natural Language Processing, Machine Learning, TerraForm, Ansible, Ansible Galaxy,

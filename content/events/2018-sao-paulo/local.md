@@ -1,11 +1,19 @@
 +++
-date = "2016-12-08T16:35:49-05:00"
-title = "local"
-type = "event"
-aliases = ["/events/2018-sao-paulo/location"]
-
+Title = "Local"
+Type = "event"
+Description = "Location for Devopsdays São Paulo 2018"
 +++
 
-Informações sobre o local, incluindo endereço, mapa / direção, estacionamento / trânsito, etc. estarão aqui.
+<p></p>
 
-<!-- {{< event_map >}} -->
+<h1>Local do evento</h1>
+
+* <a href="http://www.centuryflat.com.br/">Hotel Century Paulista</a>
+* Rua Teixeira da Silva, 637 / 647 - Paraíso 
+* São Paulo - São Paulo
+* <a href="https://goo.gl/BccKzE">Map</a>
+
+
+{{< event_map >}}
+
+<p></p>

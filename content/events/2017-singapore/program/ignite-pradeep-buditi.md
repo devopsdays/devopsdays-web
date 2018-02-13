@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Making an easily scalable Cloud using MaaS and CEPH"
 Type = "talk"
 Speakers = ["pradeep-buditi"]
+speakerdeck = "https://speakerdeck.com/devopsdayssg/pradeep-buditi-making-an-easily-scalable-cloud-using-maas-and-ceph"
+youtube = "41Uez8c6Ho0"
 +++
 
 Deploying and managing a cloud is a difficult task. With the use of MaaS and CEPHS on the Production cloud, at PALO IT, Pradeep was able to make it scalable with limited human intervention and full

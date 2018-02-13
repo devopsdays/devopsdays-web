@@ -2,8 +2,8 @@ name: "2018-amsterdam" # The name of the event. Four digit year with the city na
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Amsterdam" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsams" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Amsterdam!" # Edit this to suit your preferences
-ga_tracking_id: "UA-38891729-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+description: "devopsdays is coming to Amsterdam!" # Edit this to suit your preferences
+ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2018-01-05
 startdate:  2018-06-27
@@ -14,8 +14,8 @@ cfp_date_start: 2018-01-15  # start accepting talk proposals.
 cfp_date_end:  2018-04-01 # close your call for proposals.
 cfp_date_announce: 2018-04-16 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://devopsdays.typeform.com/to/hbkd2j"
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/dodams2018"
 
 registration_closed: "true"
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,9 +31,10 @@ location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make 
 location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/dodams2018
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
