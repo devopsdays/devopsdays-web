@@ -98,6 +98,10 @@ sponsors:
     level: gold
   - id: xebialabs
     level: silver 
+  - id: john-deere
+    level: silver 
+  - id: contrast_security 
+    level: silver 
   - id: beaconhill
     level: bronze
   - id: qci
@@ -107,6 +111,8 @@ sponsors:
   - id: paragon
     level: bronze
   - id: realkinetic
+    level: bronze
+  - id: robert-half
     level: bronze
   - id: teksystems
     level: bronze
