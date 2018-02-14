@@ -70,8 +70,6 @@ sponsors:
     level: gold
   - id: 1password
     level: gold
-  - id: scalyr
-    level: gold
   - id: influxdata
     level: silver
   - id: scalar
