@@ -1,7 +1,7 @@
 +++
 Title = "Luke Amdor"
 Twitter = "rubbish"
-image = ""
+image = "luke-amdor.jpg"
 type = "speaker"
 linktitle = "luke-amdor"
 

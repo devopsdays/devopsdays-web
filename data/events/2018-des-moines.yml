@@ -98,6 +98,10 @@ sponsors:
     level: gold
   - id: xebialabs
     level: silver 
+  - id: john-deere
+    level: silver 
+  - id: contrast_security 
+    level: silver 
   - id: beaconhill
     level: bronze
   - id: qci
@@ -108,18 +112,14 @@ sponsors:
     level: bronze
   - id: realkinetic
     level: bronze
+  - id: robert-half
+    level: bronze
   - id: teksystems
+    level: bronze
+  - id: leantechniques
     level: bronze
   - id: sourceallies
     level: uranium
-  - id: leantechniques
-    level: bronze
-  - id: john-deere
-    level: silver
-  - id: robert-half
-    level: bronze  
-  - id: contrast_security
-    level: silver
       
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
