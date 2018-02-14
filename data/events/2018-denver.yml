@@ -52,8 +52,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: mesosphere
     level: gold
-  - id: contrast_security
-    level: platinum
+  - id: ca_tech
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: releaseteam
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: social
