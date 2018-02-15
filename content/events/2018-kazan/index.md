@@ -1,13 +1,14 @@
 +++
-Title = "devopsdays CITY YYYY"
+Title = "devopsdays Kazan 2018"
 Type = "welcome"
-aliases = ["/events/yyyy-city/welcome"]
-Description = "devopsdays CITY YYYY"
+aliases = ["/events/2018-kazan/welcome"]
+Description = "devopsdays Kazan 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+  <p></p>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +82,4 @@ Description = "devopsdays CITY YYYY"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
