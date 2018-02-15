@@ -1,7 +1,7 @@
 +++
 Title = "devopsdays CITY YYYY"
 Type = "welcome"
-aliases = ["/events/yyyy-city/welcome"]
+aliases = ["/events/yyyy-city/"]
 Description = "devopsdays CITY YYYY"
 +++
 
