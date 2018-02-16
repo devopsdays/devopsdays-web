@@ -18,11 +18,11 @@ gulp.task('responsive-images-logos', function() {
             // produce multiple images from one source
 
             '**/*logo-square.jpg': [{
-                width: 250,
-                height: 250,
+                width: 300,
+                height: 300,
             }, {
-                width: 500,
-                height: 500,
+                width: 600,
+                height: 600,
                 rename: {
                     suffix: '@2x'
                 }
