@@ -23,8 +23,8 @@ Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you
 * Demo Product (20 min) during open spaces in private demo room
 * 6 ft table and premiere booth space at event
 
-### Gold Sponsorship (3 Available)
-[Become a Gold Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ML24B6P3T9XDJ)
+### Gold Sponsorship
+Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Gold Sponsor
 
 * 5 tickets to the event
 * Logo on DevOpsDays Rockies event website
@@ -32,7 +32,7 @@ Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you
 * 1 minute pitch to full audience (including streaming audience)
 * 6 ft table and space
 
-### Silver Sponsorship (6 Available)
+### Silver Sponsorship (5 Available)
 [Become a Silver Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A6BYBTMLMFNYJ)
 
 * 2 tickets to the event
