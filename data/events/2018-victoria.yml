@@ -58,9 +58,11 @@ proposal_email: "proposals-victoria-2018@devopsdays.org" # Put your proposal ema
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-#  - id: samplesponsorname
-#    level: gold
+sponsors:
+ - id: workday
+   level: gold
+ - id: sendwithus
+   level: gold
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 #  - id: arresteddevops
 #    level: community
