@@ -82,6 +82,14 @@ sponsors:
     level: silver
   - id: victorops
     level: gold
+  - id: capitalonecanada
+    level: gold
+  - id: loyaltyone
+    level: gold
+  - id: deloitte
+    level: gold
+  - id: servicenow
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
