@@ -36,14 +36,23 @@ team_members: # Name is the only required field for team members.
     twitter: "heavypackets"
   - name: "Phil Cryer"
     twitter: "fak3r"
-  - name: "Jim Hopkins"
   - name: "Jess Jackson"
     twitter: "jess_d_jackson"
-  - name: "Sayam Masood"
-    twitter: "mixpix3ls"
   - name: "Matthew Perry"
     twitter: "mlperry81"
-  - name: "Eric Schremp"
+  - name: "Michael Lombardi"
+    twitter: "barbariankb"
+  - name: "Ken Maglio"
+    twitter: "kenmaglio"
+  - name: "Dan Kennedy"
+    twitter: "dan_b_kennedy"
+  - name: "Brian Coen"
+    twitter: "Bryan_Koen"
+  - name: "Steven Pritchard"
+    twitter: "silug"
+  - name: "Jeff McDowell"
+    twitter: "jeffmickd"
+
 
 organizer_email: "organizers-saint-louis-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-saint-louis-2018@devopsdays.org" # Put your proposal email address here
