@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Portland 2018"
+Title = "DevOpsDays Portland 2018"
 Type = "welcome"
 aliases = ["/events/2018-portland"]
-Description = "devopsdays Portland 2018"
+Description = "DevOpsDays Portland 2018"
 +++
 
 <!-- <div style="text-align:center;">
@@ -82,6 +82,5 @@ Description = "devopsdays Portland 2018"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
