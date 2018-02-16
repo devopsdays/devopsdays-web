@@ -52,7 +52,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: mesosphere
     level: gold
-  - id: contrast_security
+  - id: freshtracks
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: releaseteam_qa
+    level: silver
+  - id: appdynamics
     level: platinum
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
