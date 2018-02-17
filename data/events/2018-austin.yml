@@ -31,7 +31,7 @@ location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but yo
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -165,6 +165,18 @@ proposal_email: "proposals-austin-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: scalyr
+    level: lanyard
+  - id: scalyr
+    level: communityleader
+  - id: appdynamics
+    level: communityleader
+  - id: opsgenie
+    level: communityleader
+  - id: ns1
+    level: communityleader
+  - id: servicenow
+    level: communityleader
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   

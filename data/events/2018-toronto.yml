@@ -17,8 +17,8 @@ cfp_date_announce:  2018-02-23 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/2018-toronto" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-01-01 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-05-29 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,7 +33,7 @@ location_address: "89 Chestnut Street, Toronto, ON, M5G 1R1" #Optional - use the
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -62,8 +62,34 @@ proposal_email: "proposals-toronto-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: thoughtworks-gocd
     level: gold
+  - id: opsgenie
+    level: gold
+  - id: trinimbus
+    level: gold
+  - id: 1password
+    level: gold
+  - id: influxdata
+    level: silver
+  - id: scalar
+    level: silver
+  - id: hashicorp
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: puppet
+    level: silver
+  - id: victorops
+    level: gold
+  - id: capitalonecanada
+    level: gold
+  - id: loyaltyone
+    level: gold
+  - id: deloitte
+    level: gold
+  - id: servicenow
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -77,10 +103,10 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 11
+    max: 12
   - id: silver
     label: Silver
-    max: 12 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: happyhour
     label: Happy Hour
     max: 1

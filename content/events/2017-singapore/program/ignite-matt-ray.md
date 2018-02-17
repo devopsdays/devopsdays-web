@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Infrastructure Agnostic Application Automation"
 Type = "talk"
 Speakers = ["matt-ray"]
+speakerdeck = "https://speakerdeck.com/devopsdayssg/matt-ray-infrastructure-agnostic-application-automation"
+youtube = "b4XTLx1w1eo"
 +++
 
 Application and operations teams are at a crossroads of bring applications into "traditional" infrastructure and containerized applications. Much of the effort of configuration management is dealing with the shortcomings of packages and the underlying operating systems. With the rush to move everything to containers, operational concerns are often overlooked. Applications need to standardize their builds, their packaging, and how they are instrumented for observability.

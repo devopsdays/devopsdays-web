@@ -5,27 +5,27 @@ The technical details on how to set up your local development environment for ma
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
-- [Contributing to devopsdays-theme](#contributing-to-devopsdays-theme)   
-- [Table of contents](#table-of-contents)   
-   - [Dev Setup](#dev-setup)   
-   - [How can I help?](#how-can-i-help)   
-   - [Design Principles](#design-principles)   
-      - [Frameworks](#frameworks)   
-      - [Blocks](#blocks)   
-      - [CSS and SCSS](#css-and-scss)   
-         - [`site.scss`](#sitescss)   
-         - [`custom-variables.scss`](#custom-variablesscss)   
-         - [`custom.scss`](#customscss)   
-      - [Colors and Layout](#colors-and-layout)   
-   - [Continuous Integration](#continuous-integration)   
-      - [Asset Pipeline](#asset-pipeline)   
-   - [Workflow](#workflow)   
-      - [Milestones](#milestones)   
-      - [Issues](#issues)   
-         - [Collection of issues](#collection-of-issues)   
-      - [GitHub Labels](#github-labels)   
-      - [Pull Requests](#pull-requests)   
-   - [Releasing](#releasing)   
+- [Contributing to devopsdays-theme](#contributing-to-devopsdays-theme)
+- [Table of contents](#table-of-contents)
+   - [Dev Setup](#dev-setup)
+   - [How can I help?](#how-can-i-help)
+   - [Design Principles](#design-principles)
+      - [Frameworks](#frameworks)
+      - [Blocks](#blocks)
+      - [CSS and SCSS](#css-and-scss)
+         - [`site.scss`](#sitescss)
+         - [`custom-variables.scss`](#custom-variablesscss)
+         - [`custom.scss`](#customscss)
+      - [Colors and Layout](#colors-and-layout)
+   - [Continuous Integration](#continuous-integration)
+      - [Asset Pipeline](#asset-pipeline)
+   - [Workflow](#workflow)
+      - [Milestones](#milestones)
+      - [Issues](#issues)
+         - [Collection of issues](#collection-of-issues)
+      - [GitHub Labels](#github-labels)
+      - [Pull Requests](#pull-requests)
+   - [Releasing](#releasing)
 
 <!-- /MDTOC -->
 
@@ -82,6 +82,10 @@ All changes are built by Netlify to https://dev.devopsdays.org once merged to ma
 
 ### Asset Pipeline
 Peruse the `gulpfile.js` to see what is processed for the asset pipeline. Gulp is only called when changes are merged to master. Pull requests, and local changes will not trigger gulp.
+
+If you are manipulating JavaScript or SCSS files, please be sure to use Gulp. If you run `gulp dev` inside the repo, it will build the CSS and JS files, and also start a `watch` task for you.
+
+If you need help with this, ask @mattstratton.
 
 ## Workflow
 

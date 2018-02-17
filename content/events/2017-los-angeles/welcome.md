@@ -11,7 +11,7 @@ Description = "devopsdays Los Angeles 2017"
 
 <p>We are proud to announce 7th Annual DevOps Day LA, to be held Friday, March 3, 2017, co-located with <a href='http://www.socallinuxexpo.org'>SCALE 15x</a>, at the {{< event_link page="location" text="Pasadena Convention Center" >}}.</p>
 
-DevOps Day LA is a single day event held annually in Southern California. This volunteer organized conference is dedicated to the DevOps community, and professionals who wish to improve the interaction and integration between thee traditional silos of Development and Operations.
+DevOps Day LA is a single day event held annually in Southern California. This volunteer organized conference is dedicated to the DevOps community, and professionals who wish to improve the interaction and integration between these traditional silos of Development and Operations.
 
 <div style="clear: both"></div>
 

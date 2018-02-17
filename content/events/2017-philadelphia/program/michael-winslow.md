@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Release Notes Automation"
 Type = "talk"
 Speakers = ["michael-winslow"]
+youtube = "L6JmegkMov4"
 +++
 
 As a team practicing DevOps for Xfinity Mobile, we are always looking for opportunities to increase the velocity in which we move software through the deployment pipeline. This becomes increasingly important as we begin to discover production issues which are impacting our customers and require immediate attention.

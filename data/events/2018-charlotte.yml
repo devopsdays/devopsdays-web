@@ -33,7 +33,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -65,13 +65,51 @@ proposal_email: "proposals-charlotte-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: dellemc
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: microsoft
+    level: gold
   - id: opsgenie
+    level: gold
+  - id: oracle-dyn
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: red-ventures
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: chef
     level: silver
+  - id: cloudbees
+    level: silver
+  - id: cyberark
+    level: silver
+  - id: forty8fifty-labs
+    level: silver
+  - id: kaizenops
+    level: silver
+  - id: roundtowertechnologies
+    level: silver
+  - id: influxdata
+    level: silver
+  - id: instana
+    level: silver
+  - id: newrelic
+    level: silver
+  - id: portworx
+    level: silver
   - id: thoughtworks-gocd
     level: silver
+  - id: spoken
+    level: silver
+  - id: sumologic
+    level: silver
+  - id: accenture
+    level: bronze
+  - id: relus
+    level: bronze
   - id: arresteddevops
     level: community
 

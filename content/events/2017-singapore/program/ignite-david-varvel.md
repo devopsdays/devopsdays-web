@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Extreme Automation: Testing the Limits of DevOps Automation"
 Type = "talk"
 Speakers = ["david-varvel"]
+speakerdeck = "https://speakerdeck.com/devopsdayssg/david-varvel-extreme-automation-testing-the-limits-of-devops-automation"
+youtube = "b4XTLx1w1eo"
 +++
 
 Enterprises are a showing a lot more love for DevOps, but this love for DevOps comes with very high expectations and very little tolerance for inefficiencies and defects in the final output. Time-to-market can now be measured in hours or days and that means software teams need to ensure very rapid delivery without compromising on cost, quality, and schedule.

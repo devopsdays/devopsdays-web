@@ -5,6 +5,8 @@ Talk_end_time = "11:35"
 Title = "Creating DevOps culture in a bank"
 Type = "talk"
 Speakers = ["amit-kumar"]
+speakerdeck = ""
+youtube = "1RaCLLNUq6U"
 +++
 
 Banks are being disrupted by fast changing expectation from customers. Most of the banks are struggling due to:

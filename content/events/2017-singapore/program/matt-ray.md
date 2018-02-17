@@ -5,6 +5,8 @@ Talk_end_time = "10:20"
 Title = "Keynote: Continuous Auditing with Compliance as Code"
 Type = "talk"
 Speakers = ["matt-ray"]
+speakerdeck = ""
+youtube = "_E5RryKiDvM"
 +++
 
 For too long audits and security reviews have been seen as resistant or even blocking the frequent release of software. Auditors require access to static systems and environments, which would seem to make continuous delivery impossible. Too frequently audits are a fire drill reaction to the current state and temporary fixes are put in place to appease the compliance audit without being integrated into future releases.

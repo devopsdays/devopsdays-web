@@ -1,6 +1,6 @@
 +++
 Title = "Ryn Daniels"
-Twitter = "beerops"
+Twitter = "rynchantress"
 image = "ryn-daniels.jpg"
 type = "speaker"
 linktitle = "ryn-daniels"

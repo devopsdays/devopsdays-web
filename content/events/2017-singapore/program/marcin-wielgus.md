@@ -5,6 +5,8 @@ Talk_end_time = "12:15"
 Title = "Zero-ops Kubernetes"
 Type = "talk"
 Speakers = ["marcin-wielgus"]
+speakerdeck = ""
+youtube = "ULumV7yK-Vs"
 +++
 
 4am on-call alerts that wake you only to restart an unresponsive web server. Developers, who can't decide if five machines is enough to run their new application. Sudden traffic spikes that force you to spin extra service instances on Friday evening. Misplaced deployments. Frequent requests for yet another 50gb of network storage.
