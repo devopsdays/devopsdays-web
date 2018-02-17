@@ -32,7 +32,7 @@ location_address: "Avenida Bento Munhoz da Rocha Neto, 1116 - Zona 7, Maringá -
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
-  - name: program
+#  - name: program
   - name: registration
   - name: speakers
   - name: contact
