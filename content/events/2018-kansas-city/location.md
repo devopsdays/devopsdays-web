@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for devopsdays Kansas City 2018"
 +++
 
-Come catch us at the <a https://www.plexpod.com/locations/westport/">Plexpod Westport Commons</a> this year.<br>
+Come catch us at the <a href="https://www.plexpod.com/locations/westport/">Plexpod Westport Commons</a> this year.<br>
 300 E 39th St, Kansas City, MO 64111<br>
 
 The entrepreneurial center of gravity for the central US States. Plexpod Westport Commons is surrounded by 80 acres of parks. This historic Junior High School is now a progressive coworking campus featuring original hardwood floors, lockers and a historic theater.
