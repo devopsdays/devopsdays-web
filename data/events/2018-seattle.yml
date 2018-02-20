@@ -115,7 +115,9 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
-  - id: aspe
+  - id: getty-images
+    level: gold
+  - id: techtown
     level: silver
   - id: rightstar
     level: silver
