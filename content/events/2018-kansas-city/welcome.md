@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Jakarta 2018"
+Title = "devopsdays Kansas City 2018"
 Type = "welcome"
-aliases = ["/events/2018-jakarta"]
-Description = "devopsdays Jakarta 2018"
+aliases = ["/events/2018-kansas-city"]
+Description = "devopsdays Kansas City 2018"
 +++
 
 <div style="text-align:center;">
@@ -27,32 +27,32 @@ Description = "devopsdays Jakarta 2018"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,14 +63,14 @@ Description = "devopsdays Jakarta 2018"
   </div>
 </div> -->
 
-<div class = "row">
+<!--<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,6 +81,7 @@ Description = "devopsdays Jakarta 2018"
   </div>
 </div>
 
+<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
-
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://goo.gl/forms/RlTj5bavs6MxtZmr1" target="_blank" class="btn btn-primary btn-lg">Submit your talk now!</a></center></div>
+-->
