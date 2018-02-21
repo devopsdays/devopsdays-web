@@ -72,7 +72,7 @@ proposal_email: "proposals-silicon-valley-2018@devopsdays.org" # Put your propos
 
 sponsors:
   - id: cyberark-conjur
-    level: gold
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
