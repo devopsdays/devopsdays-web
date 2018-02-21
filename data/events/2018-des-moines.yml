@@ -116,14 +116,16 @@ sponsors:
     level: bronze
   - id: teksystems
     level: bronze
-  - id: sourceallies
-    level: uranium
   - id: leantechniques
     level: bronze
   - id: robert-half
     level: bronze
   - id: mumosystems
     level: bronze
+  - id: sourceallies
+    level: uranium
+  - id: sidegarage
+    level: community
       
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -235,8 +237,8 @@ program:
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "bob-ready"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
@@ -346,13 +348,13 @@ program:
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "logan-daigle"
+    type: talk
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "matt-ring-john-van-rokel"
+    type: talk
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"

@@ -74,6 +74,10 @@ sponsors:
     level: partner
   - id: netways
     level: partner
+  - id: admin-magazine
+    level: partner
+  - id: stackstate
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
