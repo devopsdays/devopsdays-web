@@ -1,7 +1,7 @@
 +++
 Title = "Pramod Sadalage"
 Twitter = "pramodsadalage"
-image = ""
+image = "pramod-sadalage.jpg"
 type = "speaker"
 linktitle = "pramod-sadalage"
 
