@@ -231,8 +231,8 @@ program:
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "bob-ready"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
