@@ -1,7 +1,7 @@
 +++
 Title = "Matt Busche"
 Twitter = "mrbusche"
-image = ""
+image = "matt-busche.jpg"
 type = "speaker"
 linktitle = "matt-busche"
 
