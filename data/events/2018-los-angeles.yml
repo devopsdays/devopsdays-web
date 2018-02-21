@@ -72,8 +72,11 @@ sponsors:
     level: startup
   - id: sysdig
     level: sponsor
+  - id: vdms
+    level: sponsor
   - id: sensu
     level: startup
+
 
 
 program:

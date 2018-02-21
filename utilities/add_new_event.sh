@@ -59,7 +59,7 @@ cp -r examples/content/events/yyyy-city ../content/events/$event_slug
 # Setting the creation date at the time the event is instantiated
 datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
 SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/*.md
-SEDCMD "s/yyyy-city/$event_slug/" ../content/events/$event_slug/index.md
+SEDCMD "s/yyyy-city/$event_slug/" ../content/events/$event_slug/welcome.md
 SEDCMD "s/CITY/$city/" ../content/events/$event_slug/*.md
 SEDCMD "s/YYYY/$year/" ../content/events/$event_slug/*.md
 
