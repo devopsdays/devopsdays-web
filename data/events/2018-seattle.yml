@@ -35,8 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #   url: https://www.papercall.io/devopsdays-seattle-2108
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -167,7 +167,7 @@ program:
     date: 2018-04-24
     start_time: "09:45"
     end_time: "09:55"
-  - title: "TBD"
+  - title: "scott-nasello"
     type: talk
     date: 2018-04-24
     start_time: "09:55"
@@ -177,7 +177,7 @@ program:
     date: 2018-04-24
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBD"
+  - title: "sarah-hagan"
     type: talk
     date: 2018-04-24
     start_time: "10:40"
@@ -187,7 +187,7 @@ program:
     date: 2018-04-24
     start_time: "11:10"
     end_time: "11:20"
-  - title: "TBD"
+  - title: "jane-prusakova"
     type: talk
     date: 2018-04-24
     start_time: "11:20"
@@ -197,7 +197,7 @@ program:
     date: 2018-04-24
     start_time: "11:50"
     end_time: "13:00"
-  - title: "TBD"
+  - title: "anjuan-simmons"
     type: talk
     date: 2018-04-24
     start_time: "13:00"
