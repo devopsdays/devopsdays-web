@@ -129,7 +129,7 @@ Description = "devopsdays Maringá 2018"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Keynote <br>
-    <a href="/events/2018-maringa/program/rafael-peregrino/">Rafael Peregrino</a>
+    <a href="/events/2018-maringa/speakers/rafael-peregrino/">Rafael Peregrino</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 1 -->
@@ -156,7 +156,7 @@ Description = "devopsdays Maringá 2018"
     <time>09:00-09:50</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2018-maringa/program/andre-noel/">André Noel - Devops: O Que São? De Que Se Alimentam? Eles Precisam De Salário?</a>
+    <a href="/events/2018-maringa/speakers/andre-noel/">André Noel - Devops: O Que São? De Que Se Alimentam? Eles Precisam De Salário?</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -165,7 +165,7 @@ Description = "devopsdays Maringá 2018"
     <time>09:50-10:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/neil-crawford/">Felipe Rossi - Cloud Publica 100% opensource</a>
+    Felipe Rossi - Cloud Publica 100% opensource
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -183,7 +183,7 @@ Description = "devopsdays Maringá 2018"
     <time>10:40-11:10</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    Coffe Break
+    Coffee Break
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -228,7 +228,7 @@ Description = "devopsdays Maringá 2018"
     <time>15:10-15:40</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    Coffe Break!
+    Coffee Break!
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
