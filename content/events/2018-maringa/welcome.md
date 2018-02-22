@@ -128,7 +128,8 @@ Description = "devopsdays Maringá 2018"
     <time>20:15-21:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    Keynote
+    Keynote <br>
+    <a href="/events/2018-maringa/program/rafael-peregrino/">Rafael Peregrino</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- end day 1 -->
@@ -173,7 +174,7 @@ Description = "devopsdays Maringá 2018"
     <time>10:15-10:40</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/neil-crawford/">Pedro Henrique Mázala Machado - “Na minha máquina funciona!” - como nunca mais ouvir essa frase</a>
+    <a href="/events/2018-maringa/speakers/pedro-henrique-mazala-machado/">Pedro Henrique Mázala Machado - “Na minha máquina funciona!” - como nunca mais ouvir essa frase</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -191,7 +192,7 @@ Description = "devopsdays Maringá 2018"
     <time>11:10-12:00</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/jody-wolfborn/">Fernanda Machado - Testes de Performance with JMeter and Jenkins</a>
+    <a href="/events/2018-maringa/speakers/fernanda-machado/">Fernanda Machado - Testes de Performance with JMeter and Jenkins</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -209,7 +210,7 @@ Description = "devopsdays Maringá 2018"
     <time>13:30-14:20</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/jason-yee/">Everaldo Canuto - Infraestrutura barata e eficiente</a>
+    <a href="/events/2018-maringa/speakers/everaldo-canuto/">Everaldo Canuto - Infraestrutura barata e eficiente</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -218,7 +219,7 @@ Description = "devopsdays Maringá 2018"
     <time>14:20-15:10</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/jason-yee/">Fram Souza - The Elasticsearch ecosystem</a>
+    <a href="/events/2018-maringa/speakers/gustavo-biondo/">Gustavo Biondo - Provisionando sua infraestrutura com Ansible um case de sucesso</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -236,7 +237,7 @@ Description = "devopsdays Maringá 2018"
     <time>15:40-16:40</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/mandi-walls/">Bruno Dantas - DevSecOps: Adotando uma cultura de segurança ágil</a>
+    <a href="/events/2018-maringa/speakers/bruno-dantas/">Bruno Dantas - DevSecOps: Adotando uma cultura de segurança ágil</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -245,7 +246,7 @@ Description = "devopsdays Maringá 2018"
     <time>16:30-17:20</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
-    <a href="/events/2017-amsterdam/program/edward-van-deursen/">Gustavo Lichti - Problemas!? Oba!</a>
+    <a href="/events/2018-maringa/speakers/gustavo-lichti/">Gustavo Lichti - Problemas!? Oba!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
