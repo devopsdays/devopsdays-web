@@ -85,8 +85,9 @@ You should bring retractable banners instead of traditional trade show booths.
 <img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/banner_styles.png">
 
 ### A/V Rental<a id="av_rental"></a>
+If you are interested in any A/V rentals, please click the link below to order supplies. Please enter TBD if you have not yet been assigned a booth number.
 
-We'll post more information about this soon.
+<a href="https://assets.devopsdays.org/events/2018/seattle/DevOpsDays%20Exhibitor%20Kit%20Form.pdf">A/V Rental Form</a>
 
 ### Lead Collection
 We don’t share attendee information with sponsors.
