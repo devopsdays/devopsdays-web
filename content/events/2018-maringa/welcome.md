@@ -165,6 +165,7 @@ Description = "devopsdays Maringá 2018"
     <time>09:50-10:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
+    <a href="">Felipe Rossi - Cloud Publica 100% opensource</a>
     Felipe Rossi - Cloud Publica 100% opensource
   </div>
 </div> <!-- end timeslot div -->
