@@ -72,12 +72,7 @@ sponsors:
     level: silver
   - id: platformsh
     level: silver
-  - id: cloudeon
-    level: silver 
-  - id: phable
-    level: silver
-  - id: technologydenmark
-    level: community
+   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
