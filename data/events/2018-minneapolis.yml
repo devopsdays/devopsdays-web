@@ -102,8 +102,12 @@ sponsors:
     level: community
   - id: influxdata
     level: silver
+  - id: dynatrace
+    level: silver
   - id: scalyr
     level: gold
+  - id: launch-darkly
+    level: silver
 
 sponsors_accepted : "yes"
 

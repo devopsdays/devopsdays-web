@@ -70,6 +70,10 @@ proposal_email: "proposals-silicon-valley-2018@devopsdays.org" # Put your propos
  # - id: arresteddevops
  #   level: community
 
+sponsors:
+  - id: cyberark-conjur
+    level: silver
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -89,7 +93,7 @@ sponsor_levels:
   - id: community
     label: Community
   - id: psponsor
-    label: Evening Party Sponsor
+    label: Evening Party
     max: 1
   - id: absponsor
     label: Afternoon Break

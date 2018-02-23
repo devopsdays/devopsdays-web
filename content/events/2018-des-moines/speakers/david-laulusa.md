@@ -1,7 +1,7 @@
 +++
 Title = "David Laulusa"
 Twitter = "dlaulusa"
-image = ""
+image = "david-laulusa.jpg"
 type = "speaker"
 linktitle = "david-laulusa"
 

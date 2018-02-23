@@ -89,6 +89,14 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: schubergphilis
     level: gold
+  - id: stackstate
+    level: gold
+  - id: olindata
+    level: silver
+  - id: fullstaq
+    level: bronze
+  - id: devoteam
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 
 # TODO: Need to figure out sponsor levels for 2018 before opening this up
@@ -104,10 +112,10 @@ sponsor_levels:
     max: "1"
   - id: preevent
     label: "Pre Event Social"
-    max: 1
+    max: "1"
   - id: beer
     label: Beer
-    max: 1
+    max: "1"
   - id: gold
     label: Gold
     max: 8
