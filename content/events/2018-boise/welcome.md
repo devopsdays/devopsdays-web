@@ -7,32 +7,33 @@ Description = "devopsdays Boise 2018"
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<h2>{{< event_start >}}</h2>
 
 
-**devopsdays is returning to {{< event_location >}}!**
+**devopsdays is coming to {{< event_location >}}!**
 
-<!-- <div style="text-align:center;">
+<!-- Pushes content way too far down the page... -->
+<!-- div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div -->
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Date</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -43,14 +44,14 @@ Description = "devopsdays Boise 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
