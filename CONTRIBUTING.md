@@ -10,8 +10,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo v0.30.2+](http://gohugo.io).
-   * The theme is currently incompatible with `v0.32.x` and above; recommend `v0.31.1`.
+1. Install [Hugo v0.36.1+](http://gohugo.io). [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
 1. Fork this repo.
 
 ### View site locally

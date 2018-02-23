@@ -6,6 +6,8 @@ Description = "Sponsor devopsdays siliconvalley 2018"
 
 We greatly value sponsors for this open event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2018/siliconvalley/devopsdays-siliconvalley-2018-prospectus.pdf">prospectus</a>.If you have further questions in sponsoring, please drop us an email at [{{< email_organizers >}}].
 
+[Become A Sponsor For DevOpsDays 2018 Now!](https://register.linuxfests.org/sponsorship/)
+
 <hr>
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
