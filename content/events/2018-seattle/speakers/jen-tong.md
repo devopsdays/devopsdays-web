@@ -1,7 +1,7 @@
 +++
 Title = "Jen Tong"
 Twitter = "MimmingCodes"
-image = ""
+image = "jen-tong.jpg"
 type = "speaker"
 linktitle = "jen-tong"
 

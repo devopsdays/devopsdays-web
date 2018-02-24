@@ -1,7 +1,7 @@
 +++
 Title = "Billy Hoffman"
 Twitter = "Zoompf"
-image = ""
+image = "billy-hoffman.jpg"
 type = "speaker"
 linktitle = "billy-hoffman"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Paul Czarkowski"
 Twitter = "pczarkowski"
-image = ""
+image = "paul-czarkowski.jpg"
 type = "speaker"
 linktitle = "paul-czarkowski"
 

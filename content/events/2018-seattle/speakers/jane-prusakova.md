@@ -1,7 +1,7 @@
 +++
 Title = "Jane Prusakova"
-Twitter = ""
-image = ""
+Twitter = "jprusakova"
+image = "jane-prusakova.jpg"
 type = "speaker"
 linktitle = "jane-prusakova"
 
