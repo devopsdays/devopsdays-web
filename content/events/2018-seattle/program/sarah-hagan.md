@@ -1,7 +1,4 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "You’re so empathetic, you probably know this talk’s not about you"
 Type = "talk"
 Speakers = ["sarah-hagan"]

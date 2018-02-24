@@ -1,7 +1,4 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "Can you keep a secret? or Privacy in the Digital Age"
 Type = "talk"
 Speakers = ["jane-prusakova"]

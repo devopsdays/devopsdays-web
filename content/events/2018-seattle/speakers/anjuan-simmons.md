@@ -1,7 +1,7 @@
 +++
 Title = "Anjuan Simmons"
 Twitter = "anjuan"
-image = ""
+image = "anjuan-simmons.jpg"
 type = "speaker"
 linktitle = "anjuan-simmons"
 

@@ -1,7 +1,4 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
 Title = "You can't do that : Moving from a monolith to an API Economy at Columbia Sportswear"
 Type = "talk"
 Speakers = ["scott-nasello"]

@@ -1,7 +1,7 @@
 +++
 Title = "Ren Lee"
-Twitter = ""
-image = ""
+Twitter = "therendeye"
+image = "ren-lee.jpg"
 type = "speaker"
 linktitle = "ren-lee"
 
