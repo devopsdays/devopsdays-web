@@ -14,6 +14,7 @@ location: "The Bluestone" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: contact
   - name: program
+  - name: speakers
   - name: conduct
   - name: sponsor
   - name: "location/parking"
