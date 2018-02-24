@@ -83,9 +83,9 @@ a.payment:link, a.payment:visited, a.payment:hover, a.payment:active { text-deco
     <td>&nbsp;</td>
     <td><i class="fa fa-lg fa-check" aria-hidden="true"></i></td>
   </tr>
-  <!-- tr>
+  <tr>
     <td colspan=5><center>Please see the <a href="/events/2018-boise/prospectus.pdf">prospectus</a> for full sponsorship details</center></td>
-  </tr -->
+  </tr>
   <!-- tr>
     <td>pay online</td>
     <td><a class="payment" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NOTHING-HERE"><i class="fa fa-lg fa-paypal"></i> <i class="fa fa-lg fa-credit-card"></i></a></td>
