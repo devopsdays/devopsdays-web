@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #   url: https://www.papercall.io/devopsdays-seattle-2108
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -167,7 +167,7 @@ program:
     date: 2018-04-24
     start_time: "09:45"
     end_time: "09:55"
-  - title: "TBD"
+  - title: "scott-nasello"
     type: talk
     date: 2018-04-24
     start_time: "09:55"
@@ -177,7 +177,7 @@ program:
     date: 2018-04-24
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBD"
+  - title: "sarah-hagan"
     type: talk
     date: 2018-04-24
     start_time: "10:40"
@@ -187,7 +187,7 @@ program:
     date: 2018-04-24
     start_time: "11:10"
     end_time: "11:20"
-  - title: "TBD"
+  - title: "jane-prusakova"
     type: talk
     date: 2018-04-24
     start_time: "11:20"
@@ -197,7 +197,7 @@ program:
     date: 2018-04-24
     start_time: "11:50"
     end_time: "13:00"
-  - title: "TBD"
+  - title: "anjuan-simmons"
     type: talk
     date: 2018-04-24
     start_time: "13:00"
@@ -217,7 +217,7 @@ program:
     date: 2018-04-24
     start_time: "14:40"
     end_time: "15:20"
-  - title: "Tech 1"
+  - title: "tom-mclaughlin"
     type: workshop
     date: 2018-04-24
     start_time: "14:40"
@@ -227,8 +227,8 @@ program:
     date: 2018-04-24
     start_time: "15:30"
     end_time: "16:10"
-  - title: "Tech 2"
-    type: workshop
+  - title: "Tech Session TBA"
+    type: custom
     date: 2018-04-24
     start_time: "15:30"
     end_time: "16:00"
@@ -237,8 +237,8 @@ program:
     date: 2018-04-24
     start_time: "16:20"
     end_time: "16:50"
-  - title: "Tech 3"
-    type: workshop
+  - title: "Tech Session TBA"
+    type: custom
     date: 2018-04-24
     start_time: "16:20"
     end_time: "16:50"
@@ -272,7 +272,7 @@ program:
     date: 2018-04-25
     start_time: "09:45"
     end_time: "09:55"
-  - title: "TBD"
+  - title: "tiffany-longworth"
     type: talk
     date: 2018-04-25
     start_time: "09:55"
@@ -282,7 +282,7 @@ program:
     date: 2018-04-25
     start_time: "10:25"
     end_time: "10:40"
-  - title: "TBD"
+  - title: "sam-guckenheimer"
     type: talk
     date: 2018-04-25
     start_time: "10:40"
@@ -292,7 +292,7 @@ program:
     date: 2018-04-25
     start_time: "11:10"
     end_time: "11:20"
-  - title: "TBD"
+  - title: "paul-czarkowski"
     type: talk
     date: 2018-04-25
     start_time: "11:20"
@@ -302,7 +302,7 @@ program:
     date: 2018-04-25
     start_time: "11:50"
     end_time: "13:00"
-  - title: "TBD"
+  - title: "rebecca-fitzhugh"
     type: talk
     date: 2018-04-25
     start_time: "13:00"
@@ -322,7 +322,7 @@ program:
     date: 2018-04-25
     start_time: "14:40"
     end_time: "15:20"
-  - title: "Tech 1"
+  - title: "jen-tong"
     type: workshop
     date: 2018-04-25
     start_time: "14:40"
@@ -332,7 +332,7 @@ program:
     date: 2018-04-25
     start_time: "15:30"
     end_time: "16:10"
-  - title: "Tech 2"
+  - title: "billy-hoffman"
     type: workshop
     date: 2018-04-25
     start_time: "15:30"
@@ -342,7 +342,7 @@ program:
     date: 2018-04-25
     start_time: "16:20"
     end_time: "16:50"
-  - title: "Tech 3"
+  - title: "ren-lee"
     type: workshop
     date: 2018-04-25
     start_time: "16:20"
