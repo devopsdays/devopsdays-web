@@ -1,7 +1,6 @@
 +++
 Title = "Ravi Kalaga"
 Twitter = "ravi_kalaga"
-image = ""
 type = "speaker"
 linktitle = "ravi-kalaga"
 
