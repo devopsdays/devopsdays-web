@@ -203,7 +203,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-04-24
     start_time: "13:30"
     end_time: "14:00"
@@ -308,7 +308,7 @@ program:
     start_time: "13:00"
     end_time: "13:30"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-04-25
     start_time: "13:30"
     end_time: "14:00"
@@ -352,3 +352,20 @@ program:
     date: 2018-04-25
     start_time: "17:00"
     end_time: "17:15"
+ignites:
+  - title: "aaron-aldrich"
+    date: 2018-04-24
+  - title: "ravi-kalaga"
+    date: 2018-04-24
+  - title: "dawn-parzych"
+    date: 2018-04-24
+  - title: "steven-lattin"
+    date: 2018-04-24
+  - title: "donnell-baker"
+    date: 2018-04-25
+  - title: "ed-anderson"
+    date: 2018-04-25
+  - title: "david-awad"
+    date: 2018-04-25
+  - title: "sarah-shewell"
+    date: 2018-04-25
