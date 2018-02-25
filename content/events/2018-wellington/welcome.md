@@ -1,13 +1,24 @@
 +++
-Title = "devopsdays Wellington 2018"
+Title = "DevOpsDays Wellington 2018"
 Type = "welcome"
 aliases = ["/events/2018-wellington/"]
-Description = "devopsdays Wellington 2018"
+Description = "DevOpsDays Wellington 2018"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
+<div class="row">
+  <div class = "col-md-4">
+    <img alt="DevOpsDay Auckland 2017" src="/events/2018-wellington/logo-wide.png" class="img-fluid"/>
+  </div>
+  <div class = "col-md-8">
+    <br/>
+    The DevOpsDays NZ organising team is pleased to announce this year's conference is in Wellington.
+    <br/><br/>
+    If you're looking to contribute as a sponsor, then details can be found {{< event_link page="sponsor" text="on the sponsorship page" >}}
+  </div>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

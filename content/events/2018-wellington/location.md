@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Wellington 2018"
+Description = "Location for DevOpsDays Wellington 2018"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.

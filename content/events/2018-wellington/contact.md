@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays Wellington 2018"
+Description = "Contact information for DevOpsDays Wellington 2018"
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}
@@ -10,6 +10,6 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
-**The core devopsdays organizer group**
+**The core DevOpsDays organizer group**
 
 {{< list_core >}}
