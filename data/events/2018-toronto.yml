@@ -128,8 +128,8 @@ program:
     date: 2018-05-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote"
-    type: talk
+  - title: "Day 1 Keynote"
+    type: custom
     date: 2018-05-30
     start_time: "09:15"
     end_time: "09:45"
@@ -147,22 +147,22 @@ program:
     type: custom
     date: 2018-05-30
     start_time: "10:25"
-    end_time: "10:40"
+    end_time: "10:50"
   - title: "Talk 2"
     type: talk
     date: 2018-05-30
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2018-05-30
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:20"
+    end_time: "11:30"
   - title: "Talk 3"
     type: talk
     date: 2018-05-30
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch (catered)"
     type: custom
     date: 2018-05-30
@@ -173,50 +173,60 @@ program:
     date: 2018-05-30
     start_time: "13:00"
     end_time: "13:30"
+  - title: "Talk 4"
+    type: talk
+    date: 2018-05-30
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-05-30
-    start_time: "13:30"
-    end_time: "14:15"
-  - title: "attendee-suggested breakout discussions - Open Space #1"
-    type: open-space
-    date: 2018-05-30
-    start_time: "14:15"
-    end_time: "15:00"
-  - title: "Tech Talk 1"
-    type: workshop
-    date: 2018-05-30
-    start_time: "14:15"
-    end_time: "15:00"
+    start_time: "14:00"
+    end_time: "14:20"
   - title: "Break"
     type: custom
     date: 2018-05-30
-    start_time: "15:00"
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-05-30
+    start_time: "14:45"
     end_time: "15:30"
+  - title: "Tech Talk 1"
+    type: workshop
+    date: 2018-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "15:30"
+    end_time: "16:00"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
     date: 2018-05-30
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "Tech Talk 2"
     type: workshop
     date: 2018-05-30
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
     date: 2018-05-30
-    start_time: "16:15"
-    end_time: "17:00"
+    start_time: "16:45"
+    end_time: "17:30"
   - title: "Evening event"
     type: custom
     date: 2018-05-30
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "20:30"
     comments: "This will take place in the venue"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2018-05-30
+    date: 2018-05-31
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
@@ -224,7 +234,7 @@ program:
     date: 2018-05-31
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Keynote"
+  - title: "Day 2 Keynote"
     type: talk
     date: 2018-05-31
     start_time: "09:15"
@@ -234,7 +244,7 @@ program:
     date: 2018-05-31
     start_time: "09:45"
     end_time: "09:55"
-  - title: "Talk-1"
+  - title: "Talk-5"
     type: talk
     date: 2018-05-31
     start_time: "09:55"
@@ -243,22 +253,22 @@ program:
     type: custom
     date: 2018-05-31
     start_time: "10:25"
-    end_time: "10:40"
-  - title: "Talk 2"
+    end_time: "10:50"
+  - title: "Talk 6"
     type: talk
     date: 2018-05-31
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2018-05-31
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "Talk 3"
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "Talk 7"
     type: talk
     date: 2018-05-31
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch (catered)"
     type: custom
     date: 2018-05-31
@@ -269,38 +279,48 @@ program:
     date: 2018-05-31
     start_time: "13:00"
     end_time: "13:30"
+  - title: "Talk 8"
+    type: talk
+    date: 2018-05-31
+    start_time: "13:30"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-05-31
-    start_time: "13:30"
-    end_time: "14:15"
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-31
+    start_time: "14:20"
+    end_time: "14:45"
   - title: "attendee-suggested breakout discussions - Open Space #4"
     type: open-space
     date: 2018-05-31
-    start_time: "14:15"
-    end_time: "15:00"
+    start_time: "14:45"
+    end_time: "15:30"
   - title: "Tech Talk 3"
     type: workshop
     date: 2018-05-31
-    start_time: "14:15"
-    end_time: "15:00"
-  - title: "Break and 3 pm raffle in main ballroom"
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break and 2:45 pm raffle in main ballroom"
     type: custom
     date: 2018-05-31
-    start_time: "15:00"
-    end_time: "15:30"
+    start_time: "15:30"
+    end_time: "16:00"
   - title: "attendee-suggested breakout discussions - Open Space #5"
     type: open-space
     date: 2018-05-31
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "Tech Talk 4"
     type: workshop
     date: 2018-05-31
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "attendee-suggested breakout discussions - Open Space #6"
     type: open-space
     date: 2018-05-31
-    start_time: "16:15"
-    end_time: "17:00"
+    start_time: "16:45"
+    end_time: "17:30"
