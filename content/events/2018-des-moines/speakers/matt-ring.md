@@ -1,7 +1,6 @@
 +++
 Title = "Matt Ring"
 Twitter = "mjring"
-image = ""
 type = "speaker"
 linktitle = "matt-ring"
 
