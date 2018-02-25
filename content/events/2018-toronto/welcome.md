@@ -37,7 +37,7 @@ devopsdays Toronto is back for its fifth year and we're growing. Our new venue w
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Registration" >}} will open January 1, 2018
+    {{< event_link page="registration" text="Registration" >}} is open
   </div>
 </div>
 
