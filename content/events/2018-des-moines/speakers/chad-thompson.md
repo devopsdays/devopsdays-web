@@ -3,7 +3,6 @@ Title = "Chad Thompson"
 Twitter = "chadothompson"
 linkedin = "https://www.linkedin.com/in/chadothompson/"
 Website = ""
-image = ""
 type = "speaker"
 linktitle = "chad-thompson"
 

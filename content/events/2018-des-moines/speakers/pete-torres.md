@@ -1,7 +1,6 @@
 +++
 Title = "Pete Torres"
 Twitter = "peteness"
-image = ""
 type = "speaker"
 linktitle = "pete-torres"
 
