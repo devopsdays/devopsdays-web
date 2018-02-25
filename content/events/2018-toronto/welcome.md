@@ -46,7 +46,7 @@ devopsdays Toronto is back for its fifth year and we're growing. Our new venue w
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    Our CFP is open. {{< event_link page="propose" text="Propose a talk!" >}}. Be sure to tell your friends and co-workers. We're always looking for new, local voices.
+    Thank you for all of your submissions. We're selecting talks and confirming with speakers. We should be able to announce our program soon.
   </div>
 </div>
 
