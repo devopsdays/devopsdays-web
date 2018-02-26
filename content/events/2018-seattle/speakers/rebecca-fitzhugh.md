@@ -1,6 +1,7 @@
 +++
 Title = "Rebecca Fitzhugh"
 Twitter = "rebeccafitzhugh"
+image = "rebecca-fitzhugh.jpg"
 type = "speaker"
 linktitle = "rebecca-fitzhugh"
 
