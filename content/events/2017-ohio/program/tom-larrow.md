@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The Importance of Now"
 Type = "talk"
 Speakers = ["tom-larrow"]
+youtube = "nOn_tJyG5RE"
 +++
 
 In your CI/CD pipeline, every second counts. The faster you can get accurate results to back to your developers, the more productive you can make them.
