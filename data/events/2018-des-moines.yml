@@ -200,7 +200,7 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "bryce-hemme"
+  - title: "mike-douglas"
     type: talk
     date: "2018-04-12"
     start_time: "11:25"
@@ -225,8 +225,8 @@ program:
     date: "2018-04-12"
     start_time: "13:35"
     end_time: "14:05"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "bryce-hemme"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
