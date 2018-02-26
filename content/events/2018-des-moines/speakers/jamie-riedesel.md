@@ -1,7 +1,6 @@
 +++
 Title = "Jamie Riedesel"
 Twitter = "sysadm1138"
-image = ""
 type = "speaker"
 linktitle = "jamie-riedesel"
 

@@ -1,7 +1,6 @@
 +++
 Title = "Spencer Herzberg"
 Twitter = "linuxconvert"
-image = ""
 type = "speaker"
 linktitle = "spencer-herzberg"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Joe Beda"
 Twitter = "jbeda"
-image = ""
+image = "joe-beda.jpg"
 type = "speaker"
 linktitle = "joe-beda"
 

@@ -1,7 +1,6 @@
 +++
 Title = "Darin Webb"
 Twitter = "cat5inthecradle"
-image = ""
 type = "speaker"
 linktitle = "darin-webb"
 

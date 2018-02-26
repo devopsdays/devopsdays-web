@@ -31,6 +31,14 @@ Chestnut Conference Centre has underground, daily-rate parking.
 
 Toronto is a world class city with a multitude of accomodation options in the downtown core.
 
+The hotels closest to the venue are:
+
+- <a href="http://doubletree3.hilton.com/en/hotels/ontario/doubletree-by-hilton-hotel-toronto-downtown-YTOCSDT/index.html" target="_blank">DoubleTree by Hilton Hotel Toronto Downtown</a>
+- <a href="http://www.marriott.com/hotels/travel/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/" target="_blank">Marriott Downtown at CF Toronto Eaton Centre</a>
+
+You can also stay <a href="http://www.chestnut.utoronto.ca/home/summer/"  target="_blank">Chestnut Residence</a>.
+
+
 ### Tourism
 
 Come to Toronto for devopsdays, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?

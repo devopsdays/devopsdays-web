@@ -1,7 +1,6 @@
 +++
 Title = "Logan Daigle"
 Twitter = "Logan Daigle"
-image = ""
 type = "speaker"
 linktitle = "logan-daigle"
 

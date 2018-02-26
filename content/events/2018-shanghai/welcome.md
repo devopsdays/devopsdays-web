@@ -84,7 +84,7 @@ Description = "devopsdays shanghai 2018"
 
 ### Follow Official DevOpsDays Wechat
 
-![DevOpsDays Official Wechat](days-weichat-logo-foot.jpg)
+![DevOpsDays Official Wechat](/events/2018-shanghai/days-weichat-logo-foot.jpg)
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
