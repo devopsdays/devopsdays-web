@@ -6,9 +6,10 @@ Description = "Sponsor devopsdays Baltimore 2018"
 
 devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. 
 
-The following chart outlines our sponsorship packages. If you have questions or are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
+The following chart outlines our sponsorship packages. If you have questions or are interested in sponsoring, please check out our [Frequently Asked Questions](https://docs.google.com/document/d/1kd33p3QlWEy786C7Y2cfKtvxsmYXyXucu0KCbtpv__A/), or drop us an email at {{< email_organizers >}}.
 
-[Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)
+[Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)    
+[Check out our sponsor FAQ Here](https://docs.google.com/document/d/1kd33p3QlWEy786C7Y2cfKtvxsmYXyXucu0KCbtpv__A/)
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
