@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Where are all the Chefs?"
 Type = "talk"
 Speakers = ["aaron-kalin"]
+youtube = "PYF1A2I3KRM"
 +++
 
 We live in this world of DevOps with new and exciting things happening around every corner. How are we advancing ourselves in our trade and craft? Can DevOps culture support us while welcoming new people into the fold? We’ll dive into a little DevOps history and look towards the future.

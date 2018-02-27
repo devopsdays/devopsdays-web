@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -118,8 +118,12 @@ sponsors:
     level: bronze
   - id: leantechniques
     level: bronze
+  - id: mumosystems
+    level: bronze
   - id: sourceallies
     level: uranium
+  - id: sidegarage
+    level: community
       
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -196,7 +200,7 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "bryce-hemme"
+  - title: "mike-douglas"
     type: talk
     date: "2018-04-12"
     start_time: "11:25"
@@ -221,8 +225,8 @@ program:
     date: "2018-04-12"
     start_time: "13:35"
     end_time: "14:05"
-  - title: "TBD - Track 1"
-    type: custom
+  - title: "bryce-hemme"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
@@ -231,8 +235,8 @@ program:
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "bob-ready"
+    type: talk
     date: "2018-04-12"
     start_time: "14:10"
     end_time: "14:40"
@@ -342,13 +346,13 @@ program:
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 2"
-    type: custom
+  - title: "logan-daigle"
+    type: talk
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "TBD - Track 3"
-    type: custom
+  - title: "matt-ring-john-van-roekel"
+    type: talk
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"

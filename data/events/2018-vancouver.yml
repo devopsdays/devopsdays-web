@@ -82,11 +82,22 @@ sponsors:
      level: gold
    - id: scalyr
      level: gold
+   - id: dynatrace
+     level: gold
+   - id: influxdata
+     level: gold
 
    - id: realtor-dot-com
      level: silver
+   - id: sourcedgroup
+     level: silver
 
+   - id: unbounce
+     level: bronze
+   
    - id: ay-tech
+     level: friends
+   - id: hashicorp
      level: friends
 
    - id: papercall
@@ -115,8 +126,6 @@ sponsors:
   #   level: silver
   # - id: scalar
   #   level: silver
-  # - id: unbounce
-  #   level: silver
 
   # - id: itglue
   #   level: bronze
@@ -125,8 +134,6 @@ sponsors:
   # - id: samsung-rd
   #   level: bronze
   # - id: statsearchanalytics
-  #   level: bronze
-  # - id: sourcedgroup
   #   level: bronze
 
   # - id: ea

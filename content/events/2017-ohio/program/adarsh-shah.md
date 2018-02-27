@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Role of Team structures in DevOps Transformation Journey"
 Type = "talk"
 Speakers = ["adarsh-shah"]
+youtube = "RIEJe2eqN4I"
 +++
 
 Conway’s Law says that "Organizations which design systems, are constrained to produce designs which are copies of the communication structures of these organizations". The communication structures are heavily influenced by how the teams are structured and whether they can create a culture of shared responsibility.

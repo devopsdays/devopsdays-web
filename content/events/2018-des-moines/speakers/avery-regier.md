@@ -1,7 +1,6 @@
 +++
 Title = "Avery Regier"
 Twitter = "averyregier"
-image = ""
 type = "speaker"
 linktitle = "avery-regier"
 
