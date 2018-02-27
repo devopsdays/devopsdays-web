@@ -324,3 +324,25 @@ program:
     date: 2018-05-31
     start_time: "16:45"
     end_time: "17:30"
+
+ignites:
+  - title: "augusto-rosa"
+    date: 2018-05-30
+  - title: "donald-donovan"
+    date: 2018-05-30
+  - title: "simon-woodside"
+    date: 2018-05-30
+  - title: "fawzy-manaa"
+    date: 2018-05-30
+  - title: "karen-odegaard"
+    date: 2018-05-30
+  - title: "jason-harley"
+    date: 2018-05-31
+  - title: "matt-stratton"
+    date: 2018-05-31
+  - title: "logan-daigle"
+    date: 2018-05-31
+  - title: "christine-rohacz"
+    date: 2018-05-31
+  - title: ""
+    date: 2018-05-31
