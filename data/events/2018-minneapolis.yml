@@ -110,6 +110,8 @@ sponsors:
     level: silver
   - id: instana
     level: silver
+  - id: pivotal
+    level: gold
 
 sponsors_accepted : "yes"
 
