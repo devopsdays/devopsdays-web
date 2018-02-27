@@ -1,7 +1,7 @@
 +++
 Title = "Karen Odegaard"
 Twitter = "OdegaardKaren"
-image = ""
+image = "karen-odegaard.jpg"
 type = "speaker"
 linktitle = "karen-odegaard"
 

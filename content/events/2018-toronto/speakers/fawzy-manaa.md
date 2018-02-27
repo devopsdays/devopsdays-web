@@ -1,7 +1,7 @@
 +++
 Title = "Fawzy Manaa"
 Twitter = "FawzyManaa"
-image = ""
+image = "fawzy-manaa.png"
 type = "speaker"
 linktitle = "fawzy-manaa"
 

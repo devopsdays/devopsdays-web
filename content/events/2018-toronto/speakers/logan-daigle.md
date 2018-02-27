@@ -1,7 +1,7 @@
 +++
 Title = "Logan Daigle"
 Twitter = "TheDevOpsGuru"
-image = ""
+image = "logan-daigle.png"
 type = "speaker"
 linktitle = "logan-daigle"
 

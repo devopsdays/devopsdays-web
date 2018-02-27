@@ -1,7 +1,7 @@
 +++
 Title = "Jason Harley"
 Twitter = "redmind"
-image = ""
+image = "jason-harley.png"
 type = "speaker"
 linktitle = "jason-harley"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Augusto Rosa"
 Twitter = "kiniama"
-image = ""
+image = "augusto-rosa.png"
 type = "speaker"
 linktitle = "augusto-rosa"
 

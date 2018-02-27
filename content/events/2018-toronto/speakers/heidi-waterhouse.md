@@ -1,7 +1,7 @@
 +++
 Title = "Heidi Waterhouse"
 Twitter = "wiredferret"
-image = ""
+image = "heidi-waterhouse.jpg"
 type = "speaker"
 linktitle = "heidi-waterhouse"
 

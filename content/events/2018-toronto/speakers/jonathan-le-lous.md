@@ -1,7 +1,7 @@
 +++
 Title = "Jonathan Le Lous"
 Twitter = "Jollfr"
-image = ""
+image = "jonathan-le-lous.png"
 type = "speaker"
 linktitle = "jonathan-le-lous"
 
