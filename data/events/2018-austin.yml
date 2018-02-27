@@ -177,6 +177,10 @@ sponsors:
     level: communityleader
   - id: servicenow
     level: communityleader
+  - id: xmatters
+    level: communityleader
+  - id: sonatype
+    level: communityleader
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
