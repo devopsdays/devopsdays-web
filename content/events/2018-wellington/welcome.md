@@ -92,6 +92,20 @@ Description = "DevOpsDays Wellington 2018"
   </div>
 </div>
 
+<!-- Begin MailChimp Signup Form -->
+<form action="https://devopsdays.us16.list-manage.com/subscribe/post?u=41a04a7fc979777e2b39f48f0&amp;id=04e1d9e9f1" 
+      method="post" target="_blank" novalidate>
+  <div class = "row">
+      <div class = "col-md-2">
+        <strong>Mailing list</strong>
+      </div>
+      <div class = "col-md-8">
+        <input type="submit" value="Subscribe" name="subscribe" class="button"/>
+      </div>
+  </div>
+</form>
+
+<!--End mc_embed_signup-->
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
