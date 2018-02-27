@@ -235,7 +235,7 @@ program:
     start_time: "09:00"
     end_time: "09:15"
   - title: "Day 2 Keynote"
-    type: talk
+    type: custom
     date: 2018-05-31
     start_time: "09:15"
     end_time: "09:45"
@@ -244,7 +244,7 @@ program:
     date: 2018-05-31
     start_time: "09:45"
     end_time: "09:55"
-  - title: "Talk-5"
+  - title: "john-arthorne"
     type: talk
     date: 2018-05-31
     start_time: "09:55"
