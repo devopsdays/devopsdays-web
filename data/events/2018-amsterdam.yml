@@ -87,9 +87,13 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: newrelic
+    level: beer
   - id: schubergphilis
     level: gold
   - id: stackstate
+    level: gold
+  - id: newrelic
     level: gold
   - id: olindata
     level: silver
