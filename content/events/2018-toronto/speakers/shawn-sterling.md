@@ -1,7 +1,7 @@
 +++
 Title = "Shawn Sterling"
 Twitter = "systemtemplar"
-image = ""
+image = "shawn-sterling.png"
 type = "speaker"
 linktitle = "shawn-sterling"
 

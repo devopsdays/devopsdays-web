@@ -1,7 +1,7 @@
 +++
 Title = "Catherine Proulx"
 Twitter = ""
-image = ""
+image = "catherine-proulx.jpg"
 type = "speaker"
 linktitle = "catherine-proulx"
 
