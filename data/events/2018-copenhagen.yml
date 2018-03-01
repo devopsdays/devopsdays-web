@@ -34,8 +34,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+#  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -74,7 +74,14 @@ sponsors:
     level: silver
   - id: platformsh
     level: silver
-
+  - id: cloudeon
+    level: silver 
+  - id: phable
+    level: silver
+  - id: maersk
+    level: silver
+  - id: technologydenmark
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -61,9 +61,18 @@ proposal_email: "proposals-victoria-2018@devopsdays.org" # Put your proposal ema
 sponsors:
  - id: workday
    level: gold
+   url: https://www.workday.com/en-us/company/careers.html
  - id: sendwithus
    level: gold
+ - id: quartech-systems
+   level: gold
+ - id: xmatters
+   level: gold
+ - id: daitan-group
+   level: gold
  - id: stembolt
+   level: bronze
+ - id: hashicorp
    level: bronze
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 #  - id: arresteddevops
@@ -78,11 +87,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
+    max: 5

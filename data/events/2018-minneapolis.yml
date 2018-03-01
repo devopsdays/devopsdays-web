@@ -108,6 +108,10 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: silver
+  - id: instana
+    level: silver
+  - id: pivotal
+    level: gold
 
 sponsors_accepted : "yes"
 

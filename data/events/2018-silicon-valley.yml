@@ -71,6 +71,10 @@ proposal_email: "proposals-silicon-valley-2018@devopsdays.org" # Put your propos
  #   level: community
 
 sponsors:
+  - id: logz
+    level: gold
+  - id: xmatters
+    level: gold
   - id: cyberark-conjur
     level: silver
 
