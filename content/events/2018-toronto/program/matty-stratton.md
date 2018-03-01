@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Talk Selection as Mockumentary Film Editing"
 Type = "talk"
-Speakers = ["matt-stratton"]
+Speakers = ["matty-stratton"]
 +++
 
 One of the best, and also worst, parts of organizing a conference is selecting the talks. You likely receive submissions on an order of magnitude greater than the speaking slots you have. And most of them are super great! How do you pick the ones that tell the story you want?
