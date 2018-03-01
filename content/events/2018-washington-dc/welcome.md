@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Washington, DC 2018"
+Title = "DevOpsDays Washington, DC 2018"
 Type = "welcome"
-aliases = ["/events/2018-washington-dc/welcome"]
-Description = "devopsdays Washington, DC 2018"
+aliases = ["/events/2018-washington-dc/welcome", "/events/2018-washington-dc"]
+Description = "DevOpsDays Washington, DC 2018"
 +++
 
 <div style='float:right; padding-left:20px;'>
