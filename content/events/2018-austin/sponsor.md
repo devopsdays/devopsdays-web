@@ -47,5 +47,3 @@ For an additional $500, Community Leaders can have their logo posted as signage,
 * Wireless (1 available)
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info">Pay Now to Be a Community Leader with a Visibility Option!</a>
-
-<hr/>
