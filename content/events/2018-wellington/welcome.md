@@ -99,7 +99,12 @@ Description = "DevOpsDays Wellington 2018"
       <div class = "col-md-2">
         <strong>Mailing list</strong>
       </div>
-      <div class = "col-md-8">
+      <div class = "col-md-4">
+	      <div><input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="email address" style="width:100%" required></div>
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_41a04a7fc979777e2b39f48f0_04e1d9e9f1" tabindex="-1" value=""></div>
+      </div>
+      <div class = "col-md-2">
         <input type="submit" value="Subscribe" name="subscribe" class="button"/>
       </div>
   </div>
