@@ -64,7 +64,7 @@ team_members: # Name is the only required field for team members.
   - name: "Alex Albu"
     image: "alexandru-albu.jpg"
   - name: "Viktorija Almazova"
-    image: "viktorija-almazova.png"
+    image: "viktorija-almazova.jpg"
     twitter: "texnokot"
   - name: "Mike Long"
     image: "mike-long.jpg"
