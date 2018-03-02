@@ -32,7 +32,7 @@ Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you
 * 1 minute pitch to full audience (including streaming audience)
 * 6 ft table and space
 
-### Silver Sponsorship (5 Available)
+### Silver Sponsorship (2 Available)
 [Become a Silver Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A6BYBTMLMFNYJ)
 
 * 2 tickets to the event
