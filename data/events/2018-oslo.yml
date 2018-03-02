@@ -46,13 +46,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Lande Castberg"
   - name: "Anton Babenko"
     twitter: "antonbabenko"
     image: "anton-babenko.jpg"
   - name: "Lars Tobias Skjong-Børsting"
     twitter: "larstobi"
     image: "lars-tobias-skjong-borsting.jpg"
+  - name: "Lande Castberg"
   - name: "Anders Bruvik"
     twitter: "bruvik"
     image: "anders-bruvik.jpg"
@@ -62,6 +62,15 @@ team_members: # Name is the only required field for team members.
     image: "tor-magnus-castberg.jpg"
   - name: "Alex Albu"
     image: "alexandru-albu.jpg"
+  - name: "Viktorija Almazova"
+    image: "viktorija-almazova.png"
+    twitter: "texnokot"
+  - name: "Mike Long"
+    image: "mike-long.jpg"
+    twitter: "meekrosoft"
+  - name: "Jan Ivar Beddari"
+    twitter: "beddari"
+    image: "jan-ivar-beddari.jpg"
 
 organizer_email: "organizers-oslo-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-oslo-2018@devopsdays.org" # Put your proposal email address here
