@@ -11,7 +11,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 ## Sponsorship Packages
 
-For more information about sponsorship checkout our [Sponsorship Prospectus](https://drive.google.com/file/d/1GYvLdCrSYBPmlMgw6AQpwiIlJQ2NDISA/view?usp=sharing)
+For more information about sponsorship checkout our [Sponsorship Prospectus](https://docs.google.com/document/d/12-gJ7hgAVjW1M2V6KrOHKMDWMkMLqordT21EWvNGnSg/edit?usp=sharing)
 
 ### Platinum Sponsorship
 Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Platinum Sponsor
