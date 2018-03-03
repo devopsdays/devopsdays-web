@@ -92,6 +92,12 @@ sponsors:
     level: bronze
   - id: highvail
     level: gold
+  - id: blendedperspectives
+    level: silver
+  - id: sourcedgroup
+    level: silver
+  - id: cloudbees
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -83,6 +83,8 @@ proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal
 sponsors:
   - id: arresteddevops
     level: community
+  - id: blacks-in-technology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -120,6 +120,10 @@ sponsors:
     level: bronze
   - id: mumosystems
     level: bronze
+  - id: intl-fcstone
+    level: bronze
+  - id: meredith
+    level: bronze
   - id: sourceallies
     level: uranium
   - id: sidegarage
@@ -135,9 +139,10 @@ sponsor_levels:
     max: 6
   - id: silver
     label: Silver
-    max: 2 # This is the same as omitting the max limit.
+    max: 2
   - id: bronze
     label: Bronze
+    max: 10
   - id: uranium
     label: Uranium
     max: 1

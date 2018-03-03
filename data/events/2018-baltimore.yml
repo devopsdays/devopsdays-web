@@ -166,6 +166,8 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: dynatrace
+    level: gold
   - id: appdynamics
     level: platinum
   - id: scalyr
@@ -175,6 +177,8 @@ sponsors:
   - id: chef
     level: platinum
   - id: gitlab
+    level: platinum
+  - id: instana
     level: platinum
   - id: fearless
     level: happyhour
@@ -202,3 +206,4 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+    max: 13
