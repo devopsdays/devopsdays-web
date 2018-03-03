@@ -165,6 +165,8 @@ proposal_email: "proposals-austin-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: victorops
+    level: happyhour
   - id: scalyr
     level: lanyard
   - id: scalyr
