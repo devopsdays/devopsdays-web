@@ -1,5 +1,6 @@
 +++
 Title = "Ifnua Fatkhan"
+Twitter = "ifnubima"
 image = "ifnua-bima-fatkhan.jpeg"
 type = "speaker"
 linktitle = "ifnua-bima-fatkhan"

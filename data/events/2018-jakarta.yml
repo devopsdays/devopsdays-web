@@ -61,7 +61,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/sstreichsbier"
   - name: "Fitri Hardiyanti"
   - name: "Deepthi Shenilkumar"
-  - name: "Aulia"
+  - name: "Aulia Malita"
     linkedin: "https://www.linkedin.com/in/aulia-malitasari-32642792"
     twitter: "callmeaul"
 organizer_email: "organizers-jakarta-2018@devopsdays.org" # Put your organizer email address here

@@ -1,5 +1,6 @@
 +++
 Title = "Kamalika Majumder"
+Twitter = "mjkamalika"
 image = "kamalika-majumder.jpeg"
 type = "speaker"
 linktitle = "kamalika-majumder"
