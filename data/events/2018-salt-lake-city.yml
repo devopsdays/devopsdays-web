@@ -89,6 +89,26 @@ proposal_email: "proposals-salt-lake-city-2018@devopsdays.org" # Put your propos
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: instana
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: victorops
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: puppet
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: mesosphere
+    level: silver
+  - id: saltstack
+    level: silver
+  - id: accela
+    level: silver
   - id: arresteddevops
     level: community
 
@@ -99,14 +119,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: Platinum
-    label: platinum
+  - id: platinum
+    label: Platinum
     max: 1
-  - id: Gold
-    label: gold
+  - id: gold
+    label: Gold
     max: 10 # This is the same as omitting the max limit.
-  - id: Silver
-    label: silver
+  - id: silver
+    label: Silver
     max: 6
   - id: community
     label: Community
