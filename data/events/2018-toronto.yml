@@ -34,8 +34,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -124,3 +124,234 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-05-30
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-05-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Day 1 Keynote"
+    type: custom
+    date: 2018-05-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-30
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "shawn-sterling"
+    type: talk
+    date: 2018-05-30
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "catherine-proulx"
+    type: talk
+    date: 2018-05-30
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-30
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "chris-short"
+    type: talk
+    date: 2018-05-30
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-30
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "emily-freeman"
+    type: talk
+    date: 2018-05-30
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-30
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "kris-nova"
+    type: workshop
+    date: 2018-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-05-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "matt-williams"
+    type: workshop
+    date: 2018-05-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2018-05-30
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Evening event"
+    type: custom
+    date: 2018-05-30
+    start_time: "17:30"
+    end_time: "20:30"
+    comments: "This will take place in the venue"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-05-31
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-05-31
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Day 2 Keynote"
+    type: custom
+    date: 2018-05-31
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-31
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "john-arthorne"
+    type: talk
+    date: 2018-05-31
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-31
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "jason-yee"
+    type: talk
+    date: 2018-05-31
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-31
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2018-05-31
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-31
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-31
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "jonathan-le-lous"
+    type: talk
+    date: 2018-05-31
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-31
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-31
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2018-05-31
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "clay-smith"
+    type: workshop
+    date: 2018-05-31
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break and 2:45 pm raffle in main ballroom"
+    type: custom
+    date: 2018-05-31
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2018-05-31
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "julie-qiu"
+    type: workshop
+    date: 2018-05-31
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-05-31
+    start_time: "16:45"
+    end_time: "17:30"
+
+ignites:
+  - title: "augusto-rosa"
+    date: 2018-05-30
+  - title: "niall-byrne"
+    date: 2018-05-30
+  - title: "simon-woodside"
+    date: 2018-05-30
+  - title: "logan-daigle"
+    date: 2018-05-30
+  - title: "karen-odegaard"
+    date: 2018-05-30
+  - title: "jason-harley"
+    date: 2018-05-31
+  - title: "christine-rohacz"
+    date: 2018-05-31
+  - title: "donald-donovan"
+    date: 2018-05-31
+  - title: "fawzy-manaa"
+    date: 2018-05-31
+  - title: "matty-stratton"
+    date: 2018-05-31
+
