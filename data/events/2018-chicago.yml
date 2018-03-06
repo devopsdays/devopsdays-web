@@ -107,6 +107,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: silver
+  - id: pagerduty
+    level: gold
   - id: chef
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
