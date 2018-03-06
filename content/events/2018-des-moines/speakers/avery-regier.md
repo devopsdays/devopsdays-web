@@ -1,6 +1,7 @@
 +++
 Title = "Avery Regier"
 Twitter = "averyregier"
+image = "avery-regier.jpg"
 type = "speaker"
 linktitle = "avery-regier"
 
