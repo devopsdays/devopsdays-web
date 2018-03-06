@@ -46,13 +46,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Holly Bazemore"
-    employer: ""
-    twitter: ""
+    employer: "Amazon Web Services"
+    twitter: "https://twitter.com/hfbazemore"
     bio: ""
-    image: ""
+    image: "holly-bazemore.jpg"
     github: ""
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/hfbazemore/"
     website: ""
     role: "Co-chairperson"
 
@@ -96,13 +96,13 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Mark Cornick"
-    employer: ""
+    employer: "Cava"
     twitter: "markcornick"
     bio: ""
     image: "mark-cornick.jpg"
     github: "markcornick"
     facebook: ""
-    website: ""
+    website: "https://markcornick.com/"
     linkedin: ""
 
   - name: "Matthew Cupp"
