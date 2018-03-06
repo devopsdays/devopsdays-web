@@ -1,7 +1,7 @@
 +++
 Title = "Thibault Cohen"
 Twitter = ""
-image = ""
+image = "thibault-cohen.jpg"
 type = "speaker"
 linktitle = "thibault-cohen"
 
