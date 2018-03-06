@@ -96,13 +96,13 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Mark Cornick"
-    employer: ""
+    employer: "Cava"
     twitter: "markcornick"
     bio: ""
     image: "mark-cornick.jpg"
     github: "markcornick"
     facebook: ""
-    website: ""
+    website: "https://markcornick.com/"
     linkedin: ""
 
   - name: "Matthew Cupp"
