@@ -1,6 +1,7 @@
 +++
 Title = "Mike Douglas"
 Twitter = "mikedouglasdev"
+image = "mike-douglas.jpg"
 type = "speaker"
 linktitle = "mike-douglas"
 
