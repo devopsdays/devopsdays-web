@@ -1,7 +1,7 @@
 +++
 Title = "Niall Byrne"
 Twitter = "niallbyrne_svs"
-image = ""
+image = "niall-byrne.jpg"
 type = "speaker"
 linktitle = "niall-byrne"
 

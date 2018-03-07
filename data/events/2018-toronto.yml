@@ -98,6 +98,8 @@ sponsors:
     level: silver
   - id: cloudbees
     level: silver
+  - id: cgi
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
