@@ -183,6 +183,12 @@ sponsors:
     level: communityleader
   - id: sonatype
     level: communityleader
+  - id: contrast_security
+    level: communityleader
+  - id: cisco
+    level: communityleader
+  - id: chef
+    level: communityleader
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
