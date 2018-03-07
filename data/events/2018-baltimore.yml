@@ -168,9 +168,15 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: circonus
+    level: gold
+  - id: "540"
+    level: gold
   - id: appdynamics
     level: platinum
   - id: scalyr
+    level: platinum
+  - id: fearless
     level: platinum
   - id: cloudbolt
     level: platinum
@@ -180,9 +186,11 @@ sponsors:
     level: platinum
   - id: instana
     level: platinum
-  - id: fearless
+  - id: onyx-point
     level: happyhour
   - id: asymmetrik
+    level: silver
+  - id: acesinc
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
