@@ -98,7 +98,9 @@ sponsors:
   - id: olindata
     level: silver
   - id: mirabeau
-    level: silver 
+    level: silver
+  - id: redgate
+    level: silver
   - id: fullstaq
     level: bronze
   - id: devoteam
