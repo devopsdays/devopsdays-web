@@ -89,12 +89,14 @@ sponsors:
     level: community
   - id: diwish
     level: supporter
-  - id: kiwi
+  - id: 2018-kiwi-kiel
     level: venue
   - id: wobe-systems
     level: tshirt
   - id: thoughtworks-gocd
     level: gold
+  - id: 2018-objektspektrum
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,6 +123,9 @@ sponsor_levels:
   - id: tshirt
     label: T-Shirt
     max: 1
+  - id: media
+    label: Media
+    max: 2
   - id: contributor
     label: Contributor
   - id: supporter
@@ -277,8 +282,8 @@ program:
     date: 2018-05-17
     start_time: "12:55"
     end_time: "14:00"
-  - title: "Ignites (tba)"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2018-05-17
     start_time: "14:00"
     end_time: "14:20"
@@ -326,6 +331,10 @@ ignites:
     date: 2018-05-16
   - title: "daniel-berman"
     date: 2018-05-16
+  - title: "moritz-eysholdt"
+    date: 2018-05-17
+  - title: "axel-giernas"
+    date: 2018-05-17
       
   
     
