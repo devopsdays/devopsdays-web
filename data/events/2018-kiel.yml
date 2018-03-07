@@ -282,8 +282,8 @@ program:
     date: 2018-05-17
     start_time: "12:55"
     end_time: "14:00"
-  - title: "Ignites (tba)"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2018-05-17
     start_time: "14:00"
     end_time: "14:20"
@@ -331,6 +331,8 @@ ignites:
     date: 2018-05-16
   - title: "daniel-berman"
     date: 2018-05-16
+  - title: "moritz-eysholdt"
+    date: 2018-05-17
       
   
     
