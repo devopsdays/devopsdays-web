@@ -141,7 +141,9 @@ slides = ""
 Set `$DOD_YEAR` and `$DOD_CITY` and the scripts won't ask
 for the year and city every time.
 
-Here are some useful bash exports/aliases. Add them to your `.bashrc`:
+Here are some useful bash exports/aliases. Add them to your `.bashrc` or
+copy `.envrc.example` to `.envrc` and run `direnv allow`. See
+[direnv](https://direnv.net/) for more info.
 
 ```
 # devopsdays
