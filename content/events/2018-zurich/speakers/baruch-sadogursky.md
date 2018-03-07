@@ -5,7 +5,6 @@ image = "baruch-sadogursky.png"
 type = "speaker"
 linktitle = "baruch-sadogursky"
 Website = "http://www.jfrog.com"
-Twitter = "jbaruch"
 
 +++
 

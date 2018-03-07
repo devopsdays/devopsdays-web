@@ -4,7 +4,6 @@ Twitter = "thedeadrobots"
 image = "nicole-becher.png"
 type = "speaker"
 linktitle = "nicole-becher"
-Twitter = "thedeadrobots"
 
 +++
 
