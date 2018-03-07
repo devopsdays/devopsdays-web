@@ -1,8 +1,8 @@
 +++
 City = "Zürich"
 Year = "2018"
-date = "2017-03-15T20:37:34+01:00"
-title = "Zürich 208 Program"
+date = "2018-03-07T20:37:34+01:00"
+title = "Zürich 20s8 Program"
 type = "program"
-aliases = ["/events/2017-zurich/talks/"]
+aliases = ["/events/2018-zurich/talks/"]
 +++

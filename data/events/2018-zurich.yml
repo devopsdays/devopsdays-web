@@ -234,6 +234,11 @@ program:
     date: 2018-05-02
     start_time: "14:20"
     end_time: "16:05"
+  - title: "workshop-with-brian-christner"
+    type: workshop
+    date: 2018-05-02
+    start_time: "14:20"
+    end_time: "16:55"
   - title: "Open Space Session #2"
     type: open-space
     date: 2018-05-02
@@ -329,6 +334,11 @@ program:
     date: 2018-05-03
     start_time: "14:35"
     end_time: "16:20"
+  - title: "workshop-with-tanya-janca-and-nicole-becher"
+    type: workshop
+    date: 2018-05-03
+    start_time: "14:35"
+    end_time: "17:10"
   - title: "Open Space Session #2"
     type: open-space
     date: 2018-05-03
