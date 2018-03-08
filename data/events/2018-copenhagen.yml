@@ -68,6 +68,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: ibm
+    level: gold
   - id: atlassian
     level: gold
   - id: nnit
@@ -79,6 +81,10 @@ sponsors:
   - id: phable
     level: silver
   - id: maersk
+    level: silver
+  - id: fastly
+    level: silver
+  - id: unity
     level: silver
   - id: technologydenmark
     level: community
