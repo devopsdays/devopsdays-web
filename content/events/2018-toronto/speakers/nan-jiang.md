@@ -1,7 +1,7 @@
 +++
 Title = "Nan Jiang"
 Twitter = ""
-image = ""
+image = "nan-jiang.jpg"
 type = "speaker"
 linktitle = "nan-jiang"
 

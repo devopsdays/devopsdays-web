@@ -1,7 +1,7 @@
 +++
 Title = "Elijah Andrews"
 Twitter = ""
-image = ""
+image = "elijah-andrews.png"
 type = "speaker"
 linktitle = "elijah-andrews"
 
