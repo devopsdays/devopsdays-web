@@ -138,8 +138,8 @@ program:
     date: 2018-05-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Day 1 Keynote"
-    type: custom
+  - title: "nicole-forsgren"
+    type: talk
     date: 2018-05-30
     start_time: "09:15"
     end_time: "09:45"
