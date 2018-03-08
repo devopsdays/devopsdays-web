@@ -1,8 +1,8 @@
 +++
-date = "2016-12-24T11:00:07-07:00"
-title = "Scholarship Application"
-type = "event"
-
+Date = "2016-12-24T11:00:07-07:00"
+Title = "Scholarship Application"
+Type = "event"
+Description = "Scholarship Application for devopsdays Dallas 2017"
 
 +++
 <br><br>

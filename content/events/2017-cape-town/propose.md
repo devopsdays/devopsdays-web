@@ -13,8 +13,6 @@ There are three ways to propose a session:
   <li><strong><em>Open Space session</em></strong> : even without a prepared presentation we welcome the discussion and interaction by having people propose a session on the fly during Open Space. Check the <a href="/pages/open-space-format">Open Space explanation</a> for more information.
 </ol>
 
-### Even if you don't propose, please consider {{< event_link page="proposals" text="commenting on proposals submitted by others" >}}
-
 Our main criteria to make it to the top selection are:
 
 - _original content_: content not yet presented at other conferences, or a new angle to an existing problem

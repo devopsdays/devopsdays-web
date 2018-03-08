@@ -77,7 +77,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: split-software
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20170721
     level: bronze
   - id: arresteddevops
     level: community

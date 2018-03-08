@@ -1,6 +1,7 @@
 name: "2016-sydney" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2016" # The year of the event. Make sure it is in quotes.
 city: "Sydney" # The displayed city name of the event. Capitalize it.
+event_group: "Down Under"
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
 startdate: 2016-12-01  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -53,7 +54,7 @@ sponsors:
     level: gold
   - id: github
     level: gold
-  - id: atlassian
+  - id: atlassian-before-20171216
     level: gold
   - id: netapp
     level: gold

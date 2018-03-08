@@ -1,7 +1,7 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Boston 2017"
+Description = "Propose a talk for DevOps Days Boston 2017"
 +++
 <center>
   <b>Call for proposals opens Tuesday, Apr 25, 2017.</b><br>

@@ -54,7 +54,7 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: sumologic
     level: gold
-  - id: gocd
+  - id: thoughtworks-gocd
     level: gold
   - id: opsgenie
     level: gold

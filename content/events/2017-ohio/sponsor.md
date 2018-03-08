@@ -12,7 +12,7 @@ draft = false
 We greatly value sponsors for this open event.
 
 
-<a href="https://www.dropbox.com/s/obvgh13dvw2r0ug/DOD_OHIO_Prospectus_2016.pdf?dl=0" target="_blank">Sponsorship Prospectus.</a>
+<a href="https://drive.google.com/a/techcc.org/file/d/0BwMexOcJf7z2bjVoQ0wyLWdvYkE/view?usp=sharing" target="_blank">Sponsorship Prospectus.</a>
 
 
 If you are interested in sponsoring this event in any way, please email us: {{< email_organizers >}}.

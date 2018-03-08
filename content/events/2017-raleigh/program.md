@@ -50,7 +50,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 1
+        Lessons I've Learned as a Go Developer - Ashley McNamara
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -68,7 +68,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 2
+        What Should I Implement, And How Should I Do It? - Baron Schwartz
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -86,7 +86,7 @@ type = "event"
         <time>10:45-11:15</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 3
+        Embracing New Technology; How to Damage Trust, Increase Stress, and Create Worry - Chris Collins
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -104,7 +104,7 @@ type = "event"
         <time>11:25-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 4
+        It's Not Continuous Delivery if You Can't Deploy Right Now - Ken Mugrage
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -122,7 +122,7 @@ type = "event"
         <time>13:00-13:05</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 1
+        Infrastructure Extensibility at Home and DevOp - Josh Atwell
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -131,7 +131,7 @@ type = "event"
         <time>13:08-13:13</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 2
+        Automated Testing for Modern Industrial Control Systems - Andy Robinson
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -140,7 +140,7 @@ type = "event"
         <time>13:16-13:21</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 3
+        Slack:  The Good, the Bad, and the Ugly - Ann Marie Fred
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -149,7 +149,7 @@ type = "event"
         <time>13:24-13:29</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 4
+        Where's the Lean? - Chris Knotts
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -248,7 +248,7 @@ type = "event"
         <time>09:15-09:45</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 1
+        The Dark Side of DevOps - Chris Short
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -266,7 +266,7 @@ type = "event"
         <time>09:55-10:25</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 2
+        Measuring DevOps - Making it Part of Your Enterprise Telemetry - Logan Daigle
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -284,7 +284,7 @@ type = "event"
         <time>10:45-11:15</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 3
+        I've Got 99 Problems but Tech Ain't One - Nirmal Mehta
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -302,7 +302,7 @@ type = "event"
         <time>11:25-11:50</time>
       </div>
       <div class = "col-md-6 box">
-        Keynote 4
+        Using Machine Learning to Optimize DevOps Practices - Peter Varhol
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -320,7 +320,7 @@ type = "event"
         <time>13:00-13:05</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 1
+        Monitoring Tool Selection - Craig Cook
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -329,7 +329,7 @@ type = "event"
         <time>13:08-13:13</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 2
+        Women in DevOps - David Laulusa
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -338,7 +338,7 @@ type = "event"
         <time>13:16-13:21</time>
       </div>
       <div class = "col-md-6 box">
-        Ignite 3
+        Genetic Sequence Analysis using AWS Batch - Matt Lavin
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->

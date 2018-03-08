@@ -5,7 +5,7 @@ type = "event"
 title = "Sponsors"
 heading = "DevOpsDays Riga 2017 - Sponsor Info"
 +++
-<br>
+
 <h5>
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
 </h5>
@@ -70,7 +70,7 @@ networking, branding, and talent recruitment.</p>
     <td class="tg-i9b1">€ 3,900</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Included tickets</td>
+    <td class="tg-yzt1">Included tickets (marketing passes or conference tickets)</td>
     <td class="tg-mtwr">1</td>
     <td class="tg-b44r">2</td>
     <td class="tg-i9b1">5</td>
@@ -211,12 +211,12 @@ help you further promote your company or cause:</p>
     <th class="tg-yzt1">Logo on beer bottles </th>
   </tr>
   <tr>
-    <th class="tg-yzt1">Dinners with speakers*</th>
+    <th class="tg-yzt1">Dinners with speakers* </th>
     <th class="tg-yzt1">€ 4,900</th>
     <th class="tg-yzt1">One-minute welcome pitch, roll-ups at dinners </th>
   </tr>
   <tr>
-    <th class="tg-yzt1">Party sponsor*</th>
+    <th class="tg-yzt1">Party sponsor* </th>
     <th class="tg-yzt1">€ 4,900</th>
     <th class="tg-yzt1">One-minute pitch at party, roll-ups at party, mentioning in conference opening and closing </th>
   </tr>

@@ -20,14 +20,16 @@ location: "Dynamic Earth" # Defaults to city, but you can make it the venue name
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: program
-  - name: propose
+  - name: program
+  - name: speakers
+  # - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-  - name: registration
+  # - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: postevent
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -56,6 +58,14 @@ team_members: # Name is the only required field for team members.
     bio: "Senior Engineer at Skyscanner currently working in service routing and discovery. Experienced with monitoring systems and cloud architecture. Enjoys homebrewing, boardgames and being covered in cats."
     image: "matt.png"
     twitter: "@mjslane"
+  - name: "Kevin Cross"
+    employer: NCR
+    bio: "Kevin is the Build and Automation team lead at NCR Edinburgh where he likes to work closely with development teams, test specialists, technical writers, infrastructure teams and anyone else that will talk to him in an attempt to makes everyone's life a little easier and the product a little better."
+    image: "kevin.jpg"
+    twitter: kevinhcross
+  - name: Mihaela 'Micky' Drumeva
+    bio: "Development Operations engineer at SolarWinds working on programmable production infrastructure. Passionate about all things automation - provisioning infrastructure, deployment, verification."
+     
 
 
 organizer_email: "organizers-edinburgh-2017@devopsdays.org" # Put your organizer email address here
@@ -74,8 +84,24 @@ sponsors:
      level: bronze
    - id:  nuagenetworks
      level: bronze
+   - id: thoughtworks-gocd
+     level: gold
+   - id: gbg
+     level: bronze
+   - id: solarwinds-msp
+     level: gold
+   - id: qnrl
+     level: bronze
+   - id: ncredinburgh
+     level: bronze
+   - id: paywizard
+     level: bronze
+   - id: skyscanner
+     level: bronze
+   - id: harveynash
+     level: social
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -90,5 +116,220 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: social
+    label: Social    
 #  - id: community
 #    label: Community
+program:
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-10-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Opening Keynote: Maria Gutierrez"
+    type: Custom
+    date: 2017-10-23
+    start_time: "09:15"
+    end_time: "09:45" 
+  - title: "adrian-mouat"
+    type: talk
+    date: 2017-10-23
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "peter-varhol"
+    type: talk
+    date: 2017-10-23
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2017-10-23
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "gerie-owen"
+    type: talk
+    date: 2017-10-23
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "abhishek-chanda"
+    type: talk
+    date: 2017-10-23
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "cookie-lanfear"
+    type: talk
+    date: 2017-10-23
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "philipp-krenn"
+    type: talk
+    date: 2017-10-23
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-23
+    start_time: "13:00"
+    end_time: "13:10"
+  - title: "Lunch Break"
+    type: custom
+    date: 2017-10-23
+    start_time: "13:10"
+    end_time: "14:00"
+  - title: Ignites
+    type: ignite
+    date: 2017-10-23
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Spaces Planning"
+    type: open-space
+    date: 2017-10-23
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space 1"
+    type: open-space
+    date: 2017-10-23
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space 2"
+    type: open-space
+    date: 2017-10-23
+    start_time: "16:00"
+    end_time: "16:30"    
+  - title: "Open Space 3"
+    type: open-space
+    date: 2017-10-23
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Day Close"
+    type: custom
+    date: 2017-10-23
+    start_time: "17:00"
+    end_time: "17:20"
+  - title: "Drinks Reception"
+    type: custom
+    date: 2017-10-23
+    start_time: "17:30"
+    end_time: "19:30"
+# day 2
+  - title: "Registration and Breakfast"
+    type: custom
+    date: 2017-10-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-24
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "paul-gillespie"
+    type: talk
+    date: 2017-10-24
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "charlotte-godley"
+    date: 2017-10-24
+    type: talk
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "josh-atwell"
+    type: talk
+    date: 2017-10-24
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "neil-crawford"
+    type: talk
+    date: 2017-10-24
+    start_time: "11:00"
+    end_time: "11.30"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2017-10-24
+    start_time: "11:30"
+    end_time: "12.00"
+  - title: "jason-hand"
+    type: talk
+    date: 2017-10-24
+    start_time: "12:00"
+    end_time: "12.30"
+  - title: "jenny-duckett"
+    type: talk
+    date: 2017-10-24
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2017-10-24
+    start_time: "13:00"
+    end_time: "13:10"
+  - title: "Lunch Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "13:10"
+    end_time: "14:00"
+  - title: Ignites
+    type: ignite
+    date: 2017-10-24
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Spaces Planning"
+    type: open-space
+    date: 2017-10-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space 1"
+    type: open-space
+    date: 2017-10-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space 2"
+    type: open-space
+    date: 2017-10-24
+    start_time: "16:00"
+    end_time: "16:30"    
+  - title: "Open Space 3"
+    type: open-space
+    date: 2017-10-24
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Day Close"
+    type: custom
+    date: 2017-10-24
+    start_time: "17:00"
+    end_time: "17:20"
+
+ignites:
+  - title: "jon-hall"
+    date: 2017-10-23
+  - title: "philipp-krenn2"
+    date: 2017-10-23
+  - title: "murdo-aird"
+    date: 2017-10-23
+  - title: "josh-atwell-ignite"
+    date: 2017-10-23
+  - title: "ken-mugrage"
+    date: 2017-10-24
+  - title: "gabriel-nepomuceno"
+    date: 2017-10-24
+  - title: "adrian-mouat2"
+    date: 2017-10-24

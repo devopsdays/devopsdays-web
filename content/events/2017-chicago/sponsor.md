@@ -47,7 +47,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td colspan="3" style="padding:0px;">
         <table style="margin:0px;line-height:6px;">
           <tr>
-            <td style="padding: 4px 10px 0px 5px;">
+            <td style="padding: 4px 0px 0px 5px;">
               <!-- bronze Paypal button  -->
               <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
@@ -56,23 +56,25 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
               </form>
             </td>
-            <td style="padding: 4px 10px 0px 5px;">
+            <td style="width:100px;text-align:center;vertical-align:middle;">
+              <b>SOLD OUT!</b>
               <!-- silver Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <!--form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="FMZ9VU3WY2XPW">
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
+              </form -->
             </td>
-            <td style="width:90px;text-align:center;vertical-align:middle;">
+            <td style="width:100px;text-align:center;vertical-align:middle;">
+              <b>SOLD OUT!</b>
               <!-- gold Paypal button  -->
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <!--form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
                 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-              </form>
+              </form-->
             </td>
           </tr>
           <tr>

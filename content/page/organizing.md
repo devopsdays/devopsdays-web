@@ -9,7 +9,8 @@ aliases = ["/pages/organizing/", "/pages/organising/", "/organising/"]
 
 ---
 
-## Introduction
+# Introduction
+
 Congratulations! The fact that you have reached this page means you at least have an interest in spreading the devops love to the world. Back in 2009 when we organized the first event, we were probably as excited as you are now. But we were also bit scared and full of questions: how does this work? how do we get sponsors? what is the first thing we have to do?
 
 Years later, we can offer some advice from our experiences. Even though every event is a bit unique in its own way, we've come to a more or less standard approach for organizing these events. With this document we want to support you and make you feel at ease in organizing one yourself. Don't worry; we'll be there along the way!
@@ -26,7 +27,7 @@ In the devops spirit of collaboration, find people in your region that want to h
 - Tweet that you'd be interested in running one in your region. (Use the #devopsdays hashtag.)
 - [Email the global core organizers](mailto:info@devopsdays.org) and we'll try to connect you to other people in your region
 
-You're going to need people from different organizations on your local organizing team, so you have a broader base of support and involvement from the community. We aren't going to green-light events put on by just one company, and you'll want the organizers from the relevant local meetups on board. Make sure everyone understands this is not about lead generation; organizers cannot use contact info from the event for their own companies.
+You're going to need at least three people from three different organizations on your local organizing team, so you have a broader base of support and involvement from the community. We aren't going to green-light events put on by just one company, and you'll want the organizers from the relevant local meetups on board. Make sure everyone understands this is not about lead generation; organizers cannot use contact info from the event for their own companies.
 
 ---
 
@@ -36,7 +37,7 @@ When you have your initial team, [email the global core organizers](mailto:info@
 
 We prefer the city name for the actual email and site. Wider regional terms are less preferable since someone in a nearby city may want to have a devopsdays in a following year. Fun nicknames require too much dereferencing of pointers and so are best kept for slogans and t-shirt designs.
 
-One thing you'll want to do as soon as possible is get your event listed on the website by submitting a pull request to https://github.com/devopsdays/devopsdays-web. The most up-to-date instructions can always be found on that repo's [README](https://github.com/devopsdays/devopsdays-web/blob/master/README.md).
+One thing you'll want to do as soon as possible is get your event listed on the website by submitting a pull request to [https://github.com/devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web). The most up-to-date instructions can always be found on that repo's [README](https://github.com/devopsdays/devopsdays-web/blob/master/README.md).
 
 It's fine if you just list the organizers, the city, and say "coming soon". You don't have to have the date & venue set or open registration & the CFP right away.
 
@@ -128,13 +129,13 @@ When you have some idea of when you want to run and how much you want to spend, 
 
 Venue space considerations:
 
-- A (big) room where everybody can sit comfortably and listen to the talks. This of course depends on the number of attendees you expect. Events have ranged from 70 to 700 people. Assess the numbers usually attending your best-attended local meetups; you might get 2-3x that.
+- A (big) room where everybody can sit comfortably and listen to the talks. This of course depends on the number of attendees you expect. Events have ranged from 70 to 700 people; a typical first-year event is often around 250 people. Assess the numbers usually attending your best-attended local meetups; you might get 2-3x that.
 - A number of break-out rooms for the afternoon sessions:
- - it's nice to be able to put the chairs in a circle for better discussions
- - you can be creative by splitting the big room in smaller rooms but in practice, separate rooms are less noisy
- - we usually go for a few smaller (10-20) and few bigger (20-40) rooms
- - it's helpful if the rooms are close to one another, making it easier to move between open space rooms.
- - you can use the big room for open space too
+  - it's nice to be able to put the chairs in a circle for better discussions
+  - you can be creative by splitting the big room in smaller rooms but in practice, separate rooms are less noisy
+  - we usually go for a few smaller (10-20) and few bigger (20-40) rooms
+  - it's helpful if the rooms are close to one another, making it easier to move between open space rooms.
+  - you can use the big room for open space too
 - Room to hang out: not everybody attends sessions, and some are more interested in the hallway track. If there is some room for the food or a quiet room that's a plus.
 - Sponsor space: Gold sponsors (at a minimum) get a table to have a presence. Make sure they have a nice spot at the event (typically close to the food or hangout space).
 
@@ -151,6 +152,8 @@ A final big space differentiator is the pricing: as the price of devopsdays is t
 - looking for (free) innovation centers or educational venues (universities...)
 - finding local companies that can act as a host with their facilities
 - finding a host sponsor that is willing to pay for a venue for you
+
+Venue sponsors (especially if you're in their facility) may try to set limits on other sponsors; try to clarify this in writing ahead of time.
 
 Don't overcommit on the number of people coming and don't do a pre-payment for the venue until you must. The same goes for food: it's always easier to add a few extra plates as opposed to having too much food ordered.
 
@@ -212,8 +215,7 @@ Set an official theme if one beyond "devops" is desired. Within the context of t
 - a good balance between local and out-of-town speakers. building the local community is just as important as bringing in new ideas from the wider community.
 - favor new speakers: devopsdays is a supportive environment to encourage new voices in our space
 - encourage bold subjects: we don't want to hear the same things over and over, do we? This avoids us becoming an echo-chamber of ideas
-- shy away from specific technology/product talks: always try to elevate it to the conceptual part
-balance between technical and cultural content: for specific tools talk, there are open spaces not the main conference talks
+- shy away from specific technology/product talks: always try to elevate it to the conceptual part balance between technical and cultural content: for specific tools talk, there are open spaces not the main conference talks
 
 Events usually have 4 30-min talks per day + ignite talks. Open space sessions are scheduled during the conference, not ahead of time.
 
@@ -300,7 +302,6 @@ In return you'll :
 
 On the registration page, have them select the special sponsor ticket with their discount. Many of the sponsor contacts are traveling from event to event, you'll have to follow up with them a bit so they sign up their crew in time for your badge printing. Make sure you make the invoices "due on receipt" or provide Paypal links so sponsors don't wait months to pay you.
 
-
 ---
 
 ## Tickets and pricing
@@ -327,8 +328,8 @@ The downside is that this will require 'official' invoices:
 - It requires time to create the invoices (although it's pretty much automated if you use [http://eventbrite.com](http://eventbrite.com))
 - It might cost some accounting time because of the administration
 - Specifically in the EU region:
- - if a EU company organizes an event in another country, it will have to request a Tax-ID in that other country. The costs of doing that would take a significant portion of the event money.
- - charges for the event needs to be in the currency of the country where the event will take place
+  - if a EU company organizes an event in another country, it will have to request a Tax-ID in that other country. The costs of doing that would take a significant portion of the event money.
+  - charges for the event needs to be in the currency of the country where the event will take place
 
 Bottom line: if you want to charge a fee (which gives you better financial protection), make sure you have considered that in your handling of the money.
 
@@ -475,8 +476,8 @@ If you're going to livestream, rehearse ahead of time, and then assign at least 
 ## Running the event itself
 
 - Prepare and share a team playbook of exactly what is scripted to happen when.
- - Assign one or more MCs to kick off and orchestrate the event
- - Assign people to introduce specific speakers
+  - Assign one or more MCs to kick off and orchestrate the event
+  - Assign people to introduce specific speakers
 - Consider assigning "on duty" shifts so one person isn't the SPOF for all last-minute decision-making in crisis mode
 
 ---
@@ -489,10 +490,10 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
 - Inform the Ignite presenters that there are no presenter notes during their talks
 - Animations (gifs or slide transitions) and videos may not work due to the conversion process
 - PDF is the easiest format to collect all presentations
- - An option is to use a Dropbox shared directory
+  - An option is to use a Dropbox shared directory
 - You can run either :
- - `impressive -a 15` [http://impressive.sourceforge.net/](http://impressive.sourceforge.net/)
- - Adobe Acrobat Reader in [auto-advance mode](http://malektips.com/adobe_reader_7_0019.html); ask presenters to add empty slide to the end as Reader doesn't exit after last slide
+  - `impressive -a 15` [http://impressive.sourceforge.net/](http://impressive.sourceforge.net/)
+  - Adobe Acrobat Reader in [auto-advance mode](http://malektips.com/adobe_reader_7_0019.html); ask presenters to add empty slide to the end as Reader doesn't exit after last slide
 - Don't let them run on their own laptops
 - Use a dedicated laptop (avoid any popups etc...)
 - Mention again on the day itself.
@@ -500,7 +501,7 @@ Running Ignites can be a challenge: people tend to submit them last minute, or t
   - Remind the presenters again that there are no presenter notes
 - Have Ignite presenters queue next to the stage and either:
   -start the slidedeck for them.
- - or even build all slides in Slidedeck and build in a bio slide as a interludium and have that autoadvance as well
+  - or even build all slides in Slidedeck and build in a bio slide as a interludium and have that autoadvance as well
 
 [Ignite format page](/ignite-talks-format/)
 
@@ -515,8 +516,8 @@ There is a wealth of detail on the [Open Space format page](/open-space-format/)
 ## Website updates
 
 - The core organizers want the devopsdays website to be a central reference for all content produced during your event.
- - Embed links to each of your speakers' slides on your program page. (Ask them to post slides on slideshare, speakerdeck, etc.)
- - Upload the videos to youtube or your video site of choice, then embed them on your program page.
+  - Embed links to each of your speakers' slides on your program page. (Ask them to post slides on slideshare, speakerdeck, etc.)
+  - Upload the videos to youtube or your video site of choice, then embed them on your program page.
 - Surveying your attendees and blogging about the results is optional, but strongly recommended.
 
 ---

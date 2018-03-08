@@ -15,7 +15,7 @@ gulp.task('copy-html', function(){
 })
 
 var retinaOpts = {
-    // Your options here.
+    suffix: {1: '', 2: '@2x'}
 };
 
 gulp.task('min-html', function() {

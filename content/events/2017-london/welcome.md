@@ -7,75 +7,38 @@ Description = "devopsdays London 2017"
 
 +++
 
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
+<h2>Thanks for everything, see you next time!</h2>
 
+Our lovely event took place {{< event_start >}} - {{< event_end >}} and **our theme was 'Transforming the future together'.**  <a href="https://twitter.com/DevOpsDaysLDN/status/906131682197200896">Thanks for everything!</a>
 
-**devopsdays is coming to {{< event_location >}}! and our theme is 'Transforming the future together'.**
-
- <div style="text-align:center;">
+<div style="text-align:center;">
  <img alt="DevOpsDays London 2017" src="/events/2017-london/logo.png" style="max-width: 90%;">
 </div> 
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Videos</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    <a href="https://www.youtube.com/channel/UCNIOHOhgmypXQdkviMvMiSQ">All talks and ignites</a> 
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
 
@@ -88,6 +51,4 @@ Description = "devopsdays London 2017"
   </div>
 </div>
 
-<!--
 {{< event_twitter >}}
--->

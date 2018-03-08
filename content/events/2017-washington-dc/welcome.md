@@ -25,23 +25,23 @@ Description = "devopsdays Washington, D.C. 2017"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://devopsdaysdc2017.busyconf.com/bookings/new">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -52,14 +52,14 @@ Description = "devopsdays Washington, D.C. 2017"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://devopsdaysdc2017.busyconf.com/schedule">program.</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

@@ -3,6 +3,7 @@ year: 2015 # The year of the event. Make sure it is in quotes.
 city: "Melbourne" # The city name of the event. Capitalize it.
 friendly: "2015-melbourne" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
+event_group: "Down Under"
 
 # All dates are in unquoted 2015-MM-DD, like this:   variable: 2016-01-05
 startdate: 2015-07-16

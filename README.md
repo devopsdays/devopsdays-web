@@ -1,8 +1,6 @@
 [![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
 [![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE)
 
-[![Report Issue](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_report-issue.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) [![Roadmap](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-roadmap.png)](https://github.com/devopsdays/devopsdays-theme/milestones) [![Feature Request](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/img/button_feature-request.png)](https://github.com/devopsdays/devopsdays-theme/issues/new) 
-
 # devopsdays-web
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
@@ -11,10 +9,6 @@ This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 ## Reporting issues
 
 If you discover an issue with the theme, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new).
-
-## Contributing
-
-The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
 
 ## Managing event content
 
@@ -35,4 +29,7 @@ If there is a feature in the theme that you would like to see, please [submit an
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
+
+The technical details and guidelines for contributing to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document.
+
+Guidelines for contributing event-specific content to this repository are outlined in [CONTRIBUTING.md](CONTRIBUTING.md). If you intend to contribute (and we sure hope you do!), please take a moment to review that document. The technical details for contributing to the site-wide theme's development are covered in [devopsdays-theme's CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md).

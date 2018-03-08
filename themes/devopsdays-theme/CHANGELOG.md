@@ -1,5 +1,80 @@
 # Change Log
 
+## [1.16.0](https://github.com/devopsdays/devopsdays-theme/tree/1.16.0) (2018-01-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.15.0...1.16.0)
+
+**Closed issues:**
+
+- Speaker attributes obscure twitter name [\#612](https://github.com/devopsdays/devopsdays-theme/issues/612)
+
+## [1.15.0](https://github.com/devopsdays/devopsdays-theme/tree/1.15.0) (2018-01-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.2...1.15.0)
+
+**Implemented enhancements:**
+
+- Migrate from codekit to gulp [\#355](https://github.com/devopsdays/devopsdays-theme/issues/355)
+- Add "event\_group" optional key to event data file [\#61](https://github.com/devopsdays/devopsdays-theme/issues/61)
+
+**Fixed bugs:**
+
+- Default speaker image is too big [\#597](https://github.com/devopsdays/devopsdays-theme/issues/597)
+
+**Closed issues:**
+
+- Test issue for movebot [\#610](https://github.com/devopsdays/devopsdays-theme/issues/610)
+
+## [1.14.2](https://github.com/devopsdays/devopsdays-theme/tree/1.14.2) (2017-10-07)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.1...1.14.2)
+
+## [1.14.1](https://github.com/devopsdays/devopsdays-theme/tree/1.14.1) (2017-10-07)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.0...1.14.1)
+
+**Implemented enhancements:**
+
+- change organizers page to use https for twitter and github [\#595](https://github.com/devopsdays/devopsdays-theme/issues/595)
+
+**Fixed bugs:**
+
+- Version number in theme file needs to be a string [\#598](https://github.com/devopsdays/devopsdays-theme/issues/598)
+
+## [1.14.0](https://github.com/devopsdays/devopsdays-theme/tree/1.14.0) (2017-08-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.1...1.14.0)
+
+**Implemented enhancements:**
+
+- Add shortcodes for registration dates [\#592](https://github.com/devopsdays/devopsdays-theme/issues/592)
+- \[Enhancement\] Some people think 'Open Space' in the Program means not taken [\#583](https://github.com/devopsdays/devopsdays-theme/issues/583)
+
+## [1.13.1](https://github.com/devopsdays/devopsdays-theme/tree/1.13.1) (2017-08-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.0...1.13.1)
+
+## [1.13.0](https://github.com/devopsdays/devopsdays-theme/tree/1.13.0) (2017-08-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.1...1.13.0)
+
+**Fixed bugs:**
+
+- Extra dash on program page if speaker is blank [\#586](https://github.com/devopsdays/devopsdays-theme/issues/586)
+- Talk page needs spacing below headshot and before speaker title [\#578](https://github.com/devopsdays/devopsdays-theme/issues/578)
+
+## [1.12.1](https://github.com/devopsdays/devopsdays-theme/tree/1.12.1) (2017-08-06)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.0...1.12.1)
+
+**Implemented enhancements:**
+
+- Adding PDF & google slides support to talk pages [\#584](https://github.com/devopsdays/devopsdays-theme/issues/584)
+
+## [1.12.0](https://github.com/devopsdays/devopsdays-theme/tree/1.12.0) (2017-06-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.11.0...1.12.0)
+
+**Implemented enhancements:**
+
+- Improve title tags to remove duplication in Google [\#539](https://github.com/devopsdays/devopsdays-theme/issues/539)
+- Add embedded support for Google Forms on main pages [\#230](https://github.com/devopsdays/devopsdays-theme/issues/230)
+
+**Fixed bugs:**
+
+- List of other events should not say "past" [\#568](https://github.com/devopsdays/devopsdays-theme/issues/568)
+
 ## [1.11.0](https://github.com/devopsdays/devopsdays-theme/tree/1.11.0) (2017-06-08)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.10.3...1.11.0)
 

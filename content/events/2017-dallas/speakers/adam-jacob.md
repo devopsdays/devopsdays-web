@@ -1,7 +1,7 @@
 +++
 Title = "Adam Jacob"
 Twitter = "adamhjk"
-image = "adam-jacob.jpg"
+image = "adam-jacob-new.jpg"
 type = "speaker"
 linktitle = "adam-jacob"
 +++

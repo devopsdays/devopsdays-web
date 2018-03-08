@@ -23,6 +23,8 @@
 &emsp;[Talk Page Fields](#talk-page-fields)   
 &emsp;[Speaker Page Fields](#speaker-page-fields)   
 &emsp;[Blog Post Fields](#blog-post-fields)   
+[Shortcodes](#shortcodes)   
+&emsp;[google_form](#google_form)   
 
 <!-- /MDTOC -->
 
@@ -40,6 +42,7 @@ The YYYY-CITY.yml file is the main configuration file for your event. This is wh
 | `event_twitter`  | String | Yes      | The twitter handle for your event such as "devopsdayschi" or "devopsdaysmsp". Exclude the "@" symbol. | "devopsdayschi"                               |
 | `description`    | String | No       | Overall description of your event. Quotation marks need to be escaped.                                | "It's time for more DevOpsDays at Ponyville!" |
 | `ga_tracking_id` | String | No       | If you have your own Google Analytics tracking ID, enter it here.                                     | "UA-74738648-1"                               |
+| `speakers_verbose` | String | No     | Set this to "true" if you want verbose speaker attributes (URLs visible).                             | "true"                                        |
 
 ### Date-related Fields
 All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`
@@ -254,6 +257,8 @@ Pages of the type `talk` (which can include workshops, ignites, or talks) have a
 | `vimeo`       | No       | The ID of the Vimeo video (not the full URL).                                                                                                                                                                   | "219025568"                                                                         |
 | `speakerdeck` | No       | The URL to the talk on Speakerdeck. Use the full URL.                                                                                                                                                           | "https://speakerdeck.com/mattstratton/shifting-left-securely"                       |
 | `slideshare`  | No       | The URL to the talk on Slideshare. Use the full URL                                                                                                                                                             | "http://www.slideshare.net/mattstratton/the-five-love-languages-of-devops-54549536" |
+| `googleslides` | No      | The ID of the talk on Google Slides (not the full URL).                                                                                                                                                         | "1QnakgUC8AaNydPZCmKGYYja8gs2WoHbHRSjioIVdD9g" |
+| `pdf`          | No      | The URL to the PDF. Use the full URL.                                                                                                                                                                           | "http://www.mattstratton.com/my-slides.pdf" |
 | `slides`      | No       | If the slides are available on a service other than Speakerdeck or Slideshare, enter the URL here.                                                                                                              | "http://www.mattstratton.com/my-slides"                                             |
 
 ### Speaker Page Fields
@@ -267,6 +272,7 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `facebook` | No       | Speaker's Facebook URL                                                                                                                                                                                     | "https://www.facebook.com/matt.stratton"    |
 | `linkedin` | No       | Speaker's LinkedIn URL                                                                                                                                                                                     | "https://www.linkedin.com/in/mattstratton/" |
 | `github`   | No       | Speakers' GitHub username.                                                                                                                                                                                 | "mattstratton"                              |
+| `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
 | `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It must be square, and 300px square, 600px square, or 900px square.  | "matt-stratton.jpg"                         |
 
 ### Blog Post Fields
@@ -277,3 +283,13 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `Author`        | No       | The name of the person who wrote the blog post.                                                                                                                                     | "Matt Stratton"                                                                                                                                                                                                                                                                                      |
 | `title`         | Yes      | The title for the blog post.                                                                                                                                                        | "Chicago 2016 In Review"                                                                                                                                                                                                                                                                             |
 | `sharing_image` | No       | The image to use for social sharing. This is a path relative to the `static` directory.                                                                                             | "img/blog/chicago-2016-sharing.jpg"                                                                                                                                                                                                                                                                  |
+
+## Shortcodes
+
+Shortcodes can be used in any of your content (i.e., ".md" files. They provide easy ways to add content without having to write a lot of coding.)
+
+### google_form
+This shortcode allows for the embedding of a Google form on a page, in a manner that maintains the responsive, mobile-friendly design of the site. To use it, you only need the URL of your form (not the full embed code) and enter this on your page (substituting the proper URL):
+```
+{{< google_form "https://docs.google.com/forms/d/e/1FAIpQLScvv-ty_wEBlYkJaEC1OU0qqqbIHjf9JVa-Ptdo5TcHqz5EDA/viewform?usp=sf_link" >}}
+```
