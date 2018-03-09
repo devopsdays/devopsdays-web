@@ -112,6 +112,8 @@ sponsors:
     level: silver
   - id: pivotal
     level: gold
+  - id: mesosphere
+    level: silver
 
 sponsors_accepted : "yes"
 
