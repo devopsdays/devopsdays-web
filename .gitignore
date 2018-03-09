@@ -70,3 +70,4 @@ increase_ulimit.sh
 
 # Visual Studio Code
 .vscode/
+.Ulysses-Group.plist
