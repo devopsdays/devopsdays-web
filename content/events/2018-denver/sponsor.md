@@ -14,7 +14,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 For more information about sponsorship checkout our [Sponsorship Prospectus](https://docs.google.com/document/d/12-gJ7hgAVjW1M2V6KrOHKMDWMkMLqordT21EWvNGnSg/edit?usp=sharing)
 
 ### Platinum Sponsorship
-Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Platinum Sponsor
+== SOLD OUT ==
 
 * 5 tickets to the event
 * Logo on DevOpsDays Rockies event website
@@ -24,7 +24,7 @@ Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you
 * 6 ft table and premiere booth space at event
 
 ### Gold Sponsorship
-Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Gold Sponsor
+== SOLD OUT == 
 
 * 5 tickets to the event
 * Logo on DevOpsDays Rockies event website
@@ -33,12 +33,18 @@ Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you
 * 6 ft table and space
 
 ### Silver Sponsorship (2 Available)
-[Become a Silver Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=A6BYBTMLMFNYJ)
+== SOLD OUT ==
 
 * 2 tickets to the event
 * Logo on DevOpsDays Rockies event website
 * Logo on all email communication
 * Shared table for giveaways
+
+### Bronze Sponsorship
+[Become a Bronze Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JTJLYYCUD2RXJ)
+* 2 tickets to the event
+* Logo on DevOpsDays Rocies event website
+* Logo on all email communication
 
 ### Social Hour Sponsorship – (1 Available)
 Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Social Hour Sponsor
