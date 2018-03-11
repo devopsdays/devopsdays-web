@@ -30,7 +30,8 @@ location: "US Patent and Trademark Office" # The name of your location
 location_address: "600 Dulany Street, Alexandria, Virginia"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://devopsdaysdc2018.busyconf.com/proposals/new
   - name: location
  # - name: registration
  # - name: program
