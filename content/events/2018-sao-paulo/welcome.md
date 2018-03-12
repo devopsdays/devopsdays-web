@@ -17,9 +17,8 @@ Description = "devopsdays São Paulo 2018"
     <!--<p style="font-size:large;">Date: TBD 2018</p>
     <p style="font-size:large;">Location: TBD</p>-->
     <div style="padding-left: 10px">
-      <p>O DevOpsDays virá para São Paulo em 2018! </p>
-      <p>Acabando com um hiato de aproximadamente 8 anos teremos de volta em São Paulo o DevopsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
-      <p>Mais detalhes sobre inscrições e submissões de propostas serão adicionadas em breve.</p>
+      <p>O DevOpsDays virá para São Paulo em 2018!</p>
+      <p>Acabando com um hiato de aproximadamente 8 anos, teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
     </div>
 </div>
 
@@ -41,14 +40,14 @@ Description = "devopsdays São Paulo 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
+    <strong>Ingressos</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    {{< event_link page="registration" text="Obtenha seu ingresso!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
