@@ -162,7 +162,7 @@ Hour sponsorship includes some special perks not listed in the table above.
 * 1 included ticket
 * 10% discount code to share with your community
 * Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays Baltimore 2018 event website
+* Logo on DevOpsDays DC 2018 event website
 
 ### Gold - $3,000
 
