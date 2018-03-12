@@ -11,10 +11,10 @@ Valorizamos muito a importância dos patrocinadores para este evento. Se você e
 
 <hr>
 
-DevOpsDays é uma conferência auto-organizado que depende de patrocínios. Não temos estande de patrocinadores, as apresentações focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento merecido no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a participarem ativamente do evento e se engajarem com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
+DevOpsDays é uma conferência auto organizada que depende de patrocínios. Não havendo estande de patrocinadores, as apresentações são focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento merecido no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a participarem ativamente do evento e se engajarem com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
 
 <p>
-Patrocinadores Platina, Happy Hour e Ouro terão mesas própria, patrocinadores Prata terão uma mesa compartilhade entre si onde ele poderão interagir com os participantes interessado em conhecê-los durante as pausas. Todos os participantes serão bem-vindos a perguntarem o que desejarem durante as sessões open spaces, ressaltando que é uma conferência focada na comunidade, provavelmente um marketing muito agressivo funcionará contra você ao tentar causar uma boa impressão.
+Patrocinadores Platina, Happy Hour e Ouro terão mesas próprias, patrocinadores Prata terão uma mesa compartilhada entre si onde eles poderão interagir com os participantes interessado em conhecê-los durante as pausas. Todos os participantes serão bem-vindos a perguntarem o que desejarem durante as sessões open spaces, ressaltando que é uma conferência focada na comunidade, provavelmente um marketing muito agressivo funcionará contra você ao tentar causar uma boa impressão.
 
 
 <p>
@@ -120,4 +120,4 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
 
 </div>
 <p>
-Há também oportunidades para patrocínios especiais exclusivos. Nós temos vários eventos com privilégios para o patrocínio desses eventos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:organizers-sao-paulo-2018@devopsdays.org?subject=DevOpsDays S&atilde;o Paulo - Patroc&iacute;nio">mande um email para nós</a>.</p>
+Há também oportunidades para patrocínios especiais exclusivos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:organizers-sao-paulo-2018@devopsdays.org?subject=DevOpsDays S&atilde;o Paulo - Patroc&iacute;nio">mande um email para nós</a>.</p>
