@@ -188,7 +188,13 @@ sponsors:
     level: platinum
   - id: instana
     level: platinum
+  - id: devopsdaysdc
+    level: platinum
+  - id: usds
+    level: platinum
   - id: onyx-point
+    level: happyhour
+  - id: collabnet-versionone
     level: happyhour
   - id: asymmetrik
     level: silver
@@ -200,10 +206,6 @@ sponsors:
     level: silver
   - id: bixal
     level: silver
-  - id: collabnet-versionone
-    level: happyhour
-  - id: devopsdaysdc
-    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
