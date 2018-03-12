@@ -4,8 +4,4 @@ Type = "event"
 Description = "Registration for devopsdays Beijing 2018"
 +++
 
-<div style="width:100%; text-align:left;">
-
-Embed registration iframe/link/etc.
-</div></div>
-</div>
+We are opening for registration, [Please click here.](http://event.31huiyi.com/1281765435/index?c=ibpa)
