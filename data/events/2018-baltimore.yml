@@ -48,7 +48,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Delali Dzirasa"
     role:  "Chairperson"
-    image: "delali-dzirasa.png"
+    image: "delali-dzirasa.jpg"
     employer: "Fearless Solutions"
     github: "deld"
     linkedin: "https://www.linkedin.com/in/delalidzirasa/"
