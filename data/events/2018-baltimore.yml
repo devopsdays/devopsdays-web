@@ -206,6 +206,10 @@ sponsors:
     level: silver
   - id: bixal
     level: silver
+  - id: clarity
+    level: silver
+  - id: wortech
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
