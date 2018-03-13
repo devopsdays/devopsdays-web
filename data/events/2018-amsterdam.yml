@@ -95,6 +95,8 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: pivotal
+    level: gold
   - id: olindata
     level: silver
   - id: mirabeau
@@ -128,13 +130,12 @@ sponsor_levels:
     max: "1"
   - id: gold
     label: Gold
-    max: 8
+    max: "10"
   - id: silver
     label: Silver
-    max: 4 # This is the same as omitting the max limit.
+    max: 7 
   - id: recharge
     label: "Power recharge"
     max: "1"
   - id: bronze
     label: Bronze
-    max: 8
