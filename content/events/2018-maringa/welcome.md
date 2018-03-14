@@ -165,8 +165,12 @@ Description = "devopsdays Maringá 2018"
     <time>09:50-10:15</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
+<<<<<<< HEAD
+    <a href="/events/2018-maringa/speakers/felipe-rossi/">Felipe Rossi - Cloud Publica 100% opensource</a>
+=======
     <a href="">Felipe Rossi - Cloud Publica 100% opensource</a>
     Felipe Rossi - Cloud Publica 100% opensource
+>>>>>>> 16f552336e1a7d8fbe8b642d5c30b28a0482abae
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
