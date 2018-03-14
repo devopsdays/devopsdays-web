@@ -82,6 +82,8 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id:  pt-aims-progrez
+    level: gold
   - id: ekipa
     level: silver
   - id: chef
@@ -138,51 +140,51 @@ program:
     type: talk
     date: 2018-04-26
     start_time: "10:15"
-    end_time: "10:45"
+    end_time: "10:50"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2018-04-26
-    start_time: "10:45"
+    start_time: "10:50"
     end_time: "11:00"
   - title: "ifnua-bima-fatkhan"
     type: talk
     date: 2018-04-26
     start_time: "11:00"
-    end_time: "11:30"
+    end_time: "11:35"
   - title: "kamalika-majumder"
     type: talk
     date: 2018-04-26
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:35"
+    end_time: "12:10"
   - title: "Lunch Break"
     type: custom
     date: 2018-04-26
-    start_time: "12:00"
+    start_time: "12:10"
     end_time: "13:30"
   - title: "Ignites"
     type: custom
     date: 2018-04-26
     start_time: "13:30"
-    end_time: "14:00"
-  - title: "Talk 1"
-    type: custom
+    end_time: "14:05"
+  - title: "salman-el-farisi"
+    type: talk
     date: 2018-04-26
-    start_time: "14:00"
-    end_time: "14:30"
-  - title: "Talk 2"
-    type: custom
+    start_time: "14:05"
+    end_time: "14:40"
+  - title: "thomas-rothe"
+    type: talk
     date: 2018-04-26
-    start_time: "14:30"
-    end_time: "15:00"
+    start_time: "14:40"
+    end_time: "15:15"
   - title: "iskak-hendrawan"
     type: talk
     date: 2018-04-26
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:15"
+    end_time: "15:50"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2018-04-26
-    start_time: "15:45"
+    start_time: "15:50"
     end_time: "16:00"
   - title: "Open Spaces"
     type: custom
@@ -213,22 +215,22 @@ program:
     type: talk
     date: 2018-04-27
     start_time: "10:15"
-    end_time: "10:45"
+    end_time: "10:50"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2018-04-27
-    start_time: "10:45"
+    start_time: "10:50"
     end_time: "11:00"
   - title: "abdurrachman-mappuji"
     type: talk
     date: 2018-04-27
     start_time: "11:00"
-    end_time: "11:30"
+    end_time: "11:35"
   - title: "vincent-de-smet"
     type: talk
     date: 2018-04-27
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:35"
+    end_time: "12:10"
   - title: "Lunch Break & Friday Prayer"
     type: custom
     date: 2018-04-27
@@ -243,16 +245,16 @@ program:
     type: custom
     date: 2018-04-27
     start_time: "14:30"
-    end_time: "15:00"
+    end_time: "15:05"
   - title: "Closing Keynote"
     type: custom
     date: 2018-04-27
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "15:05"
+    end_time: "15:50"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2018-04-27
-    start_time: "15:45"
+    start_time: "15:50"
     end_time: "16:00"
   - title: "Open Spaces"
     type: custom
