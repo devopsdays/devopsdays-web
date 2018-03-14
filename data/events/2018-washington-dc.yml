@@ -227,6 +227,8 @@ sponsors:
     level: platinum
   - id: cloudbees
     level: platinum
+  - id: pivotal
+    level: platinum
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
