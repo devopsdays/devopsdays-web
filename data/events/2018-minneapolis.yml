@@ -114,6 +114,8 @@ sponsors:
     level: gold
   - id: mesosphere
     level: silver
+  - id: arista
+    level: silver
 
 sponsors_accepted : "yes"
 
