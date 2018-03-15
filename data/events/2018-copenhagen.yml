@@ -79,7 +79,7 @@ sponsors:
   - id: platformsh
     level: silver
   - id: cloudeon
-    level: silver 
+    level: silver
   - id: phable
     level: silver
   - id: maersk
@@ -104,7 +104,7 @@ sponsor_levels:
     max: 4
   - id: silver
     label: Silver
-    max: 8
+    max: 10
   - id: community
     label: Community
 
