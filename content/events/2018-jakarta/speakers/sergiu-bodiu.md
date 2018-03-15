@@ -1,9 +1,9 @@
 +++
-Title = "Sergiu Bodio"
-Twitter = "sergiu_bodio"
-image = "sergiu-bodio.jpeg"
+Title = "Sergiu Bodiu"
+Twitter = "sergiu_bodiu"
+image = "sergiu-bodiu.jpeg"
 type = "speaker"
-linktitle = "sergiu-bodio"
+linktitle = "sergiu-bodiu"
 
 +++
 Sergiu is passionate Software Architect within the Cloud group in Standard Chartered. Previously he was the Regional Platform Architect for APJ @Pivotal, where he was helping the region’s most strategic customers successfully implement technology, process and software architecture for cloud applications. Speaker presenting at SpringIO, InfoQ, Spring One Platform and DevOpsDays.

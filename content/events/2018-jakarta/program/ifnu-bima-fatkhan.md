@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Continuous Delivery for Mobile Apps (Android/iOS)"
 Type = "talk"
-Speakers = ["ifnua-bima-fatkhan"]
+Speakers = ["ifnu-bima-fatkhan"]
 +++
 
 Blibli.com mobile apps developer is delivering constant feature and code change, the work of building and submitting mobile apps code to several environment: UAT, Staging and Production to different audience is become repetitive with small value added. So we automate this process using Atlassian Bamboo and Hockey App. 
