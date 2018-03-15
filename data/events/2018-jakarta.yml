@@ -146,7 +146,7 @@ program:
     date: 2018-04-26
     start_time: "10:50"
     end_time: "11:00"
-  - title: "ifnua-bima-fatkhan"
+  - title: "ifnu-bima-fatkhan"
     type: talk
     date: 2018-04-26
     start_time: "11:00"
@@ -211,7 +211,7 @@ program:
     date: 2018-04-27
     start_time: "09:30"
     end_time: "10:15"
-  - title: "sergiu-bodio"
+  - title: "sergiu-bodiu"
     type: talk
     date: 2018-04-27
     start_time: "10:15"

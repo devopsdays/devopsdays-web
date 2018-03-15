@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Compliance as Code - Minimal Viable Cloud"
 Type = "talk"
-Speakers = ["sergiu-bodio"]
+Speakers = ["sergiu-bodiu"]
 +++
 
 Moving IT infrastructure to AWS services creates a model of shared responsibility between the customer and AWS. This shared model can help relieve customer’s operational burden as AWS operates, manages and controls the components from the host operating system and virtualization layer down to the physical security of the facilities in which the service operates.
