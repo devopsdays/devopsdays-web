@@ -1,7 +1,7 @@
 +++
 Title = "Baruch Sadogursky"
 Twitter = "jbaruch"
-image = "baruch-sadogursky.png"
+image = "baruch-sadogursky.jpg"
 type = "speaker"
 linktitle = "baruch-sadogursky"
 Website = "http://www.jfrog.com"

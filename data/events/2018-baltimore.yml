@@ -48,7 +48,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Delali Dzirasa"
     role:  "Chairperson"
-    image: "delali-dzirasa.png"
+    image: "delali-dzirasa.jpg"
     employer: "Fearless Solutions"
     github: "deld"
     linkedin: "https://www.linkedin.com/in/delalidzirasa/"
@@ -172,6 +172,8 @@ sponsors:
     level: gold
   - id: "540"
     level: gold
+  - id: hashicorp
+    level: gold
   - id: appdynamics
     level: platinum
   - id: scalyr
@@ -186,11 +188,29 @@ sponsors:
     level: platinum
   - id: instana
     level: platinum
+  - id: devopsdaysdc
+    level: platinum
+  - id: usds
+    level: platinum
+  - id: nutanix
+    level: platinum
   - id: onyx-point
+    level: happyhour
+  - id: collabnet-versionone
     level: happyhour
   - id: asymmetrik
     level: silver
   - id: acesinc
+    level: silver
+  - id: metricly
+    level: silver
+  - id: elevenpeppers
+    level: silver
+  - id: bixal
+    level: silver
+  - id: clarity
+    level: silver
+  - id: wortech
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

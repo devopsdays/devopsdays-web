@@ -13,14 +13,14 @@ cfp_date_start:  2018-03-09
 cfp_date_end:  2018-04-06
 cfp_date_announce:  2018-04-15
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
 
 registration_date_start: 2018-03-09
 registration_date_end: 2018-06-08
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysdc2018.busyconf.com/bookings/new"
 
 # Location
 #
@@ -30,9 +30,11 @@ location: "US Patent and Trademark Office" # The name of your location
 location_address: "600 Dulany Street, Alexandria, Virginia"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://devopsdaysdc2018.busyconf.com/proposals/new
   - name: location
- # - name: registration
+  - name: registration
+    url: https://devopsdaysdc2018.busyconf.com/bookings/new
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -217,6 +219,16 @@ sponsors:
     level: location_and_platinum
   - id: arresteddevops
     level: community
+  - id: chef
+    level: platinum
+  - id: eglobaltech
+    level: platinum
+  - id: excella
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: pivotal
+    level: platinum
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
