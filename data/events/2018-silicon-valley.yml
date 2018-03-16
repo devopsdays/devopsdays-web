@@ -77,6 +77,8 @@ sponsors:
     level: gold
   - id: cyberark-conjur
     level: silver
+  - id: contrast_security
+    level: silver
   - id: chef
     level: absponsor
   - id: facebook
