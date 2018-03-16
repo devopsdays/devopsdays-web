@@ -120,7 +120,7 @@ sponsors_accepted: "yes"
 sponsors:
   - id: pivotal
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: c2fo
     level: gold
