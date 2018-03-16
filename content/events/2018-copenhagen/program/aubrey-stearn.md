@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "What my Dad taught me about ChatOps"
+Title = "What My Dad taught Me about ChatOps"
 Type = "talk"
 Speakers = ["aubrey-stearn"]
 +++
