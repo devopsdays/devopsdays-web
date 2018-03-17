@@ -76,6 +76,8 @@ sponsors:
   - id: xmatters
     level: gold
   - id: cyberark-conjur
+    level: gold
+  - id: contrast_security
     level: silver
   - id: chef
     level: absponsor
