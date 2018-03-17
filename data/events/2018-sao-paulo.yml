@@ -115,7 +115,9 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
-  - id: naestradadevops
+  - id: 10deploys
+    level: community
+  - id: prometheusbr
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
