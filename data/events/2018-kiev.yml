@@ -28,14 +28,14 @@ registration_link: "https://2event.com/ru/events/1328005" # If you have a custom
 coordinates: "50.449379,30.5209386" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Kiev" # Defaults to city, but you can make it the venue name.
 #
-location_address: "50, Antonovycha str, Kyiv, Ukraine" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "52, Antonovycha str, Kyiv, Ukraine" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
