@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Porto Alegre 2017"
+Description = "Registration for devopsdays Porto Alegre 2018"
 +++
 
 <div style="width:100%; text-align:left;">
