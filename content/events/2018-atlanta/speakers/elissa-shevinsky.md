@@ -1,6 +1,6 @@
 +++
 Title = "Elissa Shevinsky"
-Twitter = ""
+Twitter = "ElissaBeth"
 image = "elissa-shevinsky.jpg"
 type = "speaker"
 linktitle = ""
