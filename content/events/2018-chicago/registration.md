@@ -3,10 +3,6 @@ Title = "Registration"
 Type = "event"
 Description = "Registration for devopsdays Chicago 2018"
 +++
-
-<div style="width:100%; text-align:left;">
-
-If you would like to attend but consider the cost to be prohibitive, please send us an email: organizers-chicago-2017@devopsdays.org
-
-</div></div>
-</div>
+<p>If you would like to attend but consider the cost to be prohibitive, please send us an email: {{< email_organizers >}}
+</p>
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.com/tickets-external?eid=33819872148&ref=etckt" frameborder="0" height="500" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
