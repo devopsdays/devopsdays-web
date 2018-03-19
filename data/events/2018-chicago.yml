@@ -10,14 +10,14 @@ startdate: 2018-08-28
 enddate: 2018-08-29
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-03-19 # start accepting talk proposals.
+cfp_date_end: 2018-06-01  # close your call for proposals.
+cfp_date_announce: 2018-06-15  # inform proposers of status
 
-cfp_open: ""
+cfp_open: "yes"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2018-03-19  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end:  # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
@@ -32,9 +32,9 @@ location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the v
 location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
