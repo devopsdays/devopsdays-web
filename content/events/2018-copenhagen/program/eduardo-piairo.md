@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Deployment pipeline for databases"
+Title = "Deployment Pipeline For Databases"
 Type = "talk"
 Speakers = ["eduardo-piairo"]
 +++

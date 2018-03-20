@@ -8,6 +8,12 @@ Description = "devopsdays Baltimore 2018"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
+## DevOpsDays Baltimore is delayed by one day!
+You may have heard that Baltimore is likely to be hit with another winter storm Wednesday morning. We want to ensure everyone is safe and has time to adjust travel plans as soon as possible. As a result, we have decided to delay the conference by one day. **DevOpsDays Baltimore will now be held this Thursday and Friday, March 22 and 23.**
+
+We will see you Thursday morning at UMBC’s Columbus Center!! Watch the on-line schedule for updates to reflect the revised agenda over the coming days.
+
+Thank you for being part of DevOpsDays Baltimore! What questions can we answer for you?
 
 <div class = "row">
   <div class = "col-md-2">

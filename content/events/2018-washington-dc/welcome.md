@@ -32,7 +32,7 @@ Description = "DevOpsDays Washington, DC 2018"
     <strong>Register</strong>
   </div>
   <div class="col-md-8">
-    Registration and ticket sales will begin on Friday, March 9.
+    <a href="https://devopsdaysdc2018.busyconf.com/bookings/new">Register now for $150.</a>
   </div>
 </div>
 
@@ -41,7 +41,7 @@ Description = "DevOpsDays Washington, DC 2018"
     <strong>Propose</strong>
   </div>
   <div class="col-md-8">
-    The Call for Presentations (CFP) will open on Friday, March 9.
+    <a href="https://devopsdaysdc2018.busyconf.com/proposals/new">Propose a talk now</a>.  You have a great story and we want to hear from you!
   </div>
 </div>
 
@@ -68,7 +68,7 @@ Description = "DevOpsDays Washington, DC 2018"
     <strong>Sponsors</strong>
   </div>
   <div class="col-md-8">
-    Sponsorship details and sales will be available on or before Friday, March 9.
+    <a href="https://www.devopsdays.org/events/2018-washington-dc/sponsor">Sponsorships are available now</a>.  Thank you for supporting DevOpsDays DC.
   </div>
 </div>
 

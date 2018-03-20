@@ -32,7 +32,7 @@ For more information about sponsorship checkout our [Sponsorship Prospectus](htt
 * 1 minute pitch to full audience (including streaming audience)
 * 6 ft table and space
 
-### Silver Sponsorship (2 Available)
+### Silver Sponsorship
 == SOLD OUT ==
 
 * 2 tickets to the event
@@ -42,12 +42,13 @@ For more information about sponsorship checkout our [Sponsorship Prospectus](htt
 
 ### Bronze Sponsorship
 [Become a Bronze Sponsor](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JTJLYYCUD2RXJ)
+
 * 2 tickets to the event
 * Logo on DevOpsDays Rocies event website
 * Logo on all email communication
 
-### Social Hour Sponsorship – (1 Available)
-Please contact us at [{{< email_organizers >}}]({{< email_organizers >}}) if you are interested in becoming a Social Hour Sponsor
+### Social Hour Sponsorship
+== SOLD OUT ==
 
 * 5 tickets to the event
 * Logo on DevOpsDays Rockies event website

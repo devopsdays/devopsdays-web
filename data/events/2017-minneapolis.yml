@@ -100,7 +100,7 @@ sponsors:
     level: platinum
   - id: horizontalintegration
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: silver
   - id: logz
     level: gold
