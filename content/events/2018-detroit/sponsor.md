@@ -5,6 +5,7 @@ type = "event"
 
 
 +++
+We greatly value sponsors for this open event. See a <a href="/events/2018-detroit/DevOpsDaysDetroit-Prospectus-2018.pdf">PDF of our prospectus</a> for all sponsorship opportunities, or see below.
 <style>
 </style>
 <hr>
@@ -145,7 +146,7 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   <tr>
     <td></td>
     <td style="text-align: right; color: #bbb;" colspan=3>
-        Note: These options may be purchased in addition to, or in lieu of, the bronze, silver, gold and platinum selections.<br/>We are willing to work with your company, if you have any ideas just ask! <a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a>
+        Note: These options may be purchased in addition to, or in lieu of, the bronze, silver and gold selections.<br/>We are willing to work with your company, if you have any ideas just ask! <a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a>
   </tr>
 </table>
 <span style="font-style: italic"></span>
