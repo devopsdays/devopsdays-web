@@ -67,7 +67,7 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
           </a>
         </div>
         <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://devopsdayschi2018.eventbrite.com/?aff=newsletter">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://devopsdayschi2018.eventbrite.com/?aff=devopsdaysorg">
             <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
           </a>
         </div>
