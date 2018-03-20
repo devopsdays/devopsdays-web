@@ -112,6 +112,12 @@ sponsors:
     level: silver
   - id: pivotal
     level: gold
+  - id: mesosphere
+    level: silver
+  - id: arista
+    level: silver
+  - id: bigswitchnetworks
+    level: silver
 
 sponsors_accepted : "yes"
 

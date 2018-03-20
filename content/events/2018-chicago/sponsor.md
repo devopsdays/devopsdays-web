@@ -12,7 +12,7 @@ We greatly value sponsors for this community event. If you are interested in spo
 <hr>
 
 DevOpsDays is a self-organizing conference for practitioners that
-depends on sponsorships. We do not have vendor booths or sell product
+depends on sponsorships. We do not have large vendor booths or sell product
 presentations. Sponsors have the opportunity to have short elevator
 pitches during the program and will get recognition on the website
 and social media before, during and after the event. Sponsors are

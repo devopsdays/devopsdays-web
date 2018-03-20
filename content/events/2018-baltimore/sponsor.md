@@ -138,7 +138,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <hr/>
 ### Happy Hour - $5,000    
 
-Happy Hour will be held on Wednesday, March 21 from 4:30PM to 7:30PM.  Conference
+Happy Hour will be held on Thursday, March 22 from 5PM to 7:30PM.  Conference
 attendees will be invited to stick around for happy hour.  Additionally, we will
 invite other members of the Baltimore technical community to join us, space
 permitting.  The Happy Hour sponsorship includes some special perks not listed in the table above.  

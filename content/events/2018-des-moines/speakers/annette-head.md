@@ -1,6 +1,7 @@
 +++
 Title = "Annette Head"
 Twitter = "dmartinigirl"
+image = "annette-head.jpg"
 type = "speaker"
 linktitle = "annette-head"
 

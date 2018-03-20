@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Crafting a robust deployment pipeline for the financial sector"
+Title = "Crafting a Robust Deployment Pipeline for the Financial Sector"
 Type = "talk"
 Speakers = ["boyan-mihaylov"]
 +++

@@ -40,7 +40,7 @@ echo "Adding new sponsors; use CTRL+C to stop..."
 
 # Gather info
 read -p "Enter sponsor name: " sponsorname
-sponsor_slug=$(echo $sponsorname | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
+sponsor_slug=$(echo $sponsorname | tr '-' ' ' | tr -dc '[:alnum:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
 # set default sponsor yaml file
 sponsorfile="../data/sponsors/$sponsor_slug.yml"

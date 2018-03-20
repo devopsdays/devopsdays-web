@@ -36,7 +36,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 * 2 included tickets
 * Logo on website
 
-### Several sponsorship add-ons are available for 1100 EUR
+### Several sponsorship add-ons are available for 1350 EUR
 
 * party sponsor
 * breakfast sponsor

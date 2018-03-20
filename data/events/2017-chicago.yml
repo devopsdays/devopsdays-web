@@ -172,7 +172,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: arista
     level: silver
