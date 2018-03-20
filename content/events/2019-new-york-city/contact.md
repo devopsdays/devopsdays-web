@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "DevOpsDays Chicago 2018 will take place on August 28-29, 2018! Contact the organizers for any questions!"
+Description = "Contact information for devopsdays new-york-city 2019"
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}
