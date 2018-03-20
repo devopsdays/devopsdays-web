@@ -146,6 +146,8 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
+  - id: plexpod
+    level: premium
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -159,9 +161,10 @@ sponsor_levels:
     max: 1
   - id: premium
     label: Premium
-    max: 10 # This is the same as omitting the max limit.
+    max: 9 # This is the same as omitting the max limit.
   - id: standard
     label: Standard
+    max: 4
   - id: basic
     label: Basic
   - id: community
