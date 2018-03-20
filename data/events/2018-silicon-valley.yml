@@ -79,6 +79,8 @@ sponsors:
     level: gold
   - id: contrast_security
     level: silver
+  - id: kaizenops
+    level: silver
   - id: chef
     level: absponsor
   - id: facebook
