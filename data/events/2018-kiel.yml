@@ -89,13 +89,13 @@ sponsors:
     level: community
   - id: diwish
     level: supporter
-  - id: 2018-kiwi-kiel
+  - id: kiwi-kiel
     level: venue
   - id: wobe-systems
     level: tshirt
   - id: thoughtworks-gocd
     level: gold
-  - id: 2018-objektspektrum
+  - id: objektspektrum
     level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
