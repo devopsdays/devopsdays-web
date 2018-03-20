@@ -1,7 +1,7 @@
 +++
 Title = "Donald Donovan"
 Twitter = ""
-image = ""
+image = "donald-donovan.jpg"
 type = "speaker"
 linktitle = "donald-donovan"
 
