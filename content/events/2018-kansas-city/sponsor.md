@@ -6,7 +6,7 @@ Description = "Interested in sponsoring DevOpsDays Kansas City 2017? We greatly 
 
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2018-kansas-city/prospectus.pdf">prospectus</a> or <a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="/events/2018-kansas-city/prospectus.pdf">prospectus</a> or <a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">send us an email</a>.
 
 <hr>
 
@@ -77,7 +77,7 @@ Sponsors are responsible for providing high-res logos for use on the website and
     </tr>
     <tr>
       <td style="border-bottom: 0; border-top: 0;"></td>
-      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
+      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
     </tr>
     <tr>
       <td>included tickets</td>
