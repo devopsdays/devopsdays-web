@@ -179,6 +179,7 @@ sponsor_levels:
     max: 2
   - id: friends
     label: Friends
+    max: 4
   - id: cfp
     label: CFP
     max: 1
