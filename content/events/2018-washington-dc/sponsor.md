@@ -155,7 +155,7 @@ Hour sponsorship includes some special perks not listed in the table above.
 * Dedicated table for swag during the happy hour
 * 10% discount code to share with your community
 * 1 minute pitch to full audience during the conference
-* 5 minute pitch to the happy hour attendees
+* 3 pitch to the happy hour attendees
 
 ### Silver - $1,000
 
