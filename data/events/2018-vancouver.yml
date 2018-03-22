@@ -81,15 +81,19 @@ sponsors:
      level: gold
    - id: scalyr
      level: gold
-   - id: dynatrace
-     level: gold
    - id: influxdata
      level: gold
    - id: scalar
      level: gold
    - id: xmatters
      level: gold
+   - id: salesforce
+     level: gold
+   - id: chef
+     level: gold
 
+   - id: dynatrace
+     level: silver
    - id: realtor-dot-com
      level: silver
    - id: sourcedgroup
@@ -97,7 +101,11 @@ sponsors:
 
    - id: unbounce
      level: bronze
+   - id: statsearchanalytics
+     level: bronze
    
+   - id: polyglot-van
+     level: friends
    - id: ay-tech
      level: friends
    - id: hashicorp
