@@ -21,9 +21,10 @@ There are three ways to propose a topic at devopsdays:
 - Be concise.
 - Add as much detail as you can.
 - Multiple entries are welcome.
+- Submissions must be made by one of the proposed presenters; **we do not accept proposals submitted on behalf of others**
 - Attempt to not give details to who you are, we prefer to judge based on content.
 - All presentations must conform to the code of conduct.
-- Preferably submit via [our CFP site](https://www.papercall.io/devopsdays-chicago-2018), however, we also will accept submissions by email: [{{< email_proposals >}}]
+- Proposals must be submitted via [our CFP site](https://www.papercall.io/devopsdays-chicago-2018). If you have questions about our CFP process, please email: [{{< email_proposals >}}]
 
 ### Ideas:
 This is what we would like to know. Do you have an answer?
@@ -56,10 +57,14 @@ If you’d like some more specific topic examples…
 - Having DevOps make #monitoringsucks less
 
 Our main criteria to make it to the top selection are:
-- <strong>Original content:</strong> Content not yet presented at other conferences, or a new angle to an existing problem
-- <strong>New presenters:</strong> People who are new to the space and have insightful stuff to say; we want to hear everybody’s voice
-- <strong>Open Space Fodder:</strong> Will this talk help generate discussion during the Open Spaces?
-- <strong>No vendor pitches:</strong> as much as we value vendors and sponsors, we just don’t think this is the right forum. You can demo at your table or during Open Space.
+
+- **Broad appeal:** How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
+- **New local presenters:** You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
+- **Under-represented voices:** We want to hear all voices, including those that may speak less frequently at similar events. Whether you’re in a field not typically thought of as a technology field, you’re in a large, traditional organization, or you’re the only person at your organization with your background, we are interested in your unique experience.
+- **original content:** We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn’t likely to have already seen.
+- **No third-party submissions:** This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you’ve already shown that as a speaker you’re distant from the process.
+- **No vendor pitches:** As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product. You can demo at your table or during Open Spaces.
+- **Open Space Fodder:** Will this talk help generate discussion during the Open Spaces?
 
 #### Even more tips
 
