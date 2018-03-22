@@ -60,8 +60,8 @@ Our main criteria to make it to the top selection are:
 
 - **Broad appeal:** How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
 - **New local presenters:** You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
-under-represented voices: We want to hear all voices, including those that may speak less frequently at similar events. Whether you’re in a field not typically thought of as a technology field, you’re in a large, traditional organization, or you’re the only person at your organization with your background, we are interested in your unique experience.
-original content: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn’t likely to have already seen.
+- **Under-represented voices:** We want to hear all voices, including those that may speak less frequently at similar events. Whether you’re in a field not typically thought of as a technology field, you’re in a large, traditional organization, or you’re the only person at your organization with your background, we are interested in your unique experience.
+- **original content:** We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn’t likely to have already seen.
 - **No third-party submissions:** This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you’ve already shown that as a speaker you’re distant from the process.
 - **No vendor pitches:** As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product. You can demo at your table or during Open Spaces.
 - **Open Space Fodder:** Will this talk help generate discussion during the Open Spaces?
