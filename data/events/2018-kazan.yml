@@ -1,7 +1,7 @@
 name: "2018-kazan" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Kazan" # The displayed city name of the event. Capitalize it.
-event_twitter: "" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "DevOpsDaysKZN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Kazan!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -15,7 +15,7 @@ cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://goo.gl/vJJvYU" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end:  # close registration. Leave blank if registration is not open yet.

@@ -15,10 +15,10 @@ cfp_date_end: 2018-04-01 # close your call for proposals.
 cfp_date_announce: 2018-05-15  # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "https://goo.gl/forms/2UpFilKPOswrHcqp2" 
+cfp_link: "https://goo.gl/forms/2UpFilKPOswrHcqp2"
 
-registration_date_start: 2018-01-24 
-registration_date_end: 2018-09-11 
+registration_date_start: 2018-01-24
+registration_date_end: 2018-09-11
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devops-days-raleigh-2018-tickets-42510017607" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -67,6 +67,9 @@ team_members: # Name is the only required field for team members.
     github: "nonstickzan"
   - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
+  - name: "RJ Williams"
+    website: "http://techtowntraining.com"
+    employer: "Techtown"
 
 organizer_email: "organizers-raleigh-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2018@devopsdays.org" # Put your proposal email address here
@@ -77,6 +80,16 @@ sponsors:
   - id: techtown
     level: platinum
   - id: triangledevops
+    level: community
+  - id: hays
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: opsgenie
+    level: platinum
+  - id: pivotal
+    level: platinum
+  - id: dzone
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

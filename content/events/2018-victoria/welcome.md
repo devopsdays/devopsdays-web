@@ -36,14 +36,14 @@ Description = "devopsdays Victoria 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -85,3 +85,5 @@ Description = "devopsdays Victoria 2018"
 <!--
 {{< event_twitter >}}
 -->
+<h3>Stay current with the DevOpsDays Victoria by subscribing to our mailing list</h3>
+<a href="http://bit.ly/victoriadevops">Subscribe to the mailing list</a>

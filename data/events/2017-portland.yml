@@ -84,7 +84,7 @@ sponsors:
       level: gold
     - id: symantec
       level: bronze
-    - id: aws
+    - id: aws-before-20180313
       level: gold
     - id: victorops
       level: silver

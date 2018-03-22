@@ -98,7 +98,7 @@ sponsors:
     level: gold
   - id: verizon
     level: gold
-  - id: influxdata
+  - id: influxdata-before-201802
     level: gold
   - id: mongodb
     level: gold
@@ -110,7 +110,7 @@ sponsors:
     level: silver
   - id: portworx
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: silver
   - id: instana
     level: silver

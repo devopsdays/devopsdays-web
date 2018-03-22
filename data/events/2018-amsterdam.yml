@@ -87,8 +87,32 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: newrelic
+    level: beer
   - id: schubergphilis
     level: gold
+  - id: stackstate
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: chef
+    level: gold
+  - id: olindata
+    level: silver
+  - id: mirabeau
+    level: silver
+  - id: redgate
+    level: silver
+  - id: linkit
+    level: recharge
+  - id: fullstaq
+    level: bronze
+  - id: devoteam
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 
 # TODO: Need to figure out sponsor levels for 2018 before opening this up
@@ -104,14 +128,18 @@ sponsor_levels:
     max: "1"
   - id: preevent
     label: "Pre Event Social"
+    max: "1"
   - id: beer
     label: Beer
+    max: "1"
   - id: gold
     label: Gold
-    max: 8
+    max: "10"
   - id: silver
     label: Silver
-    max: 4 # This is the same as omitting the max limit.
+    max: 7
+  - id: recharge
+    label: "Power recharge"
+    max: "1"
   - id: bronze
     label: Bronze
-    max: 8

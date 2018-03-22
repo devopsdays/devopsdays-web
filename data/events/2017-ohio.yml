@@ -14,6 +14,7 @@ location: "The Bluestone" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: contact
   - name: program
+  - name: speakers
   - name: conduct
   - name: sponsor
   - name: "location/parking"
@@ -71,7 +72,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: chef
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: servicenow
     level: silver

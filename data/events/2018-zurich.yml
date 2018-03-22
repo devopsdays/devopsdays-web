@@ -22,6 +22,7 @@ location: "Zürich Winterthur" # Defaults to city, but you can make it the venue
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: speakers
+  - name: program
   - name: location
   - name: registration
 #  - name: propose
@@ -144,6 +145,9 @@ sponsors:
     level: gold
   - id:  redgate
     level: gold
+  - id: exoscale
+    level: bronze
+    url: https://www.exoscale.com/?utm_source=devopsdayszurich2018URLutm_medium=emailURLutm_campaign=event
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -160,3 +164,212 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
 
 program:
+  - title: "Registration & Welcome Coffee"
+    type: custom
+    date: 2018-05-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2018-05-02
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "tanya-janca"
+    type: talk
+    date: 2018-05-02
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "bernd-erk"
+    type: talk
+    date: 2018-05-02
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-02
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "franziska-buehler"
+    type: talk
+    date: 2018-05-02
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ramon-medrano-llamas"
+    type: talk
+    date: 2018-05-02
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "paige-bernier"
+    type: talk
+    date: 2018-05-02
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-02
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2018-05-02
+    start_time: "12:30"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-02
+    start_time: "13:35"
+    end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-02
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2018-05-02
+    start_time: "14:20"
+    end_time: "15:05"
+  - title: "workshop-with-mathis-kretz"
+    type: workshop
+    date: 2018-05-02
+    start_time: "14:20"
+    end_time: "16:05"
+  - title: "workshop-with-brian-christner"
+    type: workshop
+    date: 2018-05-02
+    start_time: "14:20"
+    end_time: "16:55"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2018-05-02
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2018-05-02
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "workshop-with-philipp-krenn"
+    type: workshop
+    date: 2018-05-02
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-05-02
+    start_time: "17:00"
+    end_time: "17:10"
+  - title: "Registration & Coffe"
+    type: custom
+    date: 2018-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2018-05-03
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "georgiana-gligor"
+    type: talk
+    date: 2018-05-03
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "basil-brunner"
+    type: talk
+    date: 2018-05-03
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "rachael-byrne"
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2018-05-03
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-03
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2018-05-03
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "christian-hirsig"
+    type: talk
+    date: 2018-05-03
+    start_time: "13:35"
+    end_time: "13:50"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-03
+    start_time: "13:50"
+    end_time: "14:05"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-03
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2018-05-03
+    start_time: "14:35"
+    end_time: "15:20"
+  - title: "workshop-with-manuel-hutter"
+    type: workshop
+    date: 2018-05-03
+    start_time: "14:35"
+    end_time: "16:20"
+  - title: "workshop-with-tanya-janca-and-nicole-becher"
+    type: workshop
+    date: 2018-05-03
+    start_time: "14:35"
+    end_time: "17:10"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2018-05-03
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2018-05-03
+    start_time: "16:25"
+    end_time: "17:10"
+  - title: "workshop-with-torben-hoeft"
+    type: workshop
+    date: 2018-05-03
+    start_time: "16:25"
+    end_time: "17:10"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2018-05-03
+    start_time: "17:15"
+    end_time: "17:25"
+
+ignites:
+  - title: "ignite-talk-by-serhat-can"
+    date: 2018-05-02
+  - title: "ignite-talk-by-nicole-becher"
+    date: 2018-05-02
+  - title: "ignite-talk-by-maris-prabhakaran"
+    date: 2018-05-02
+  - title: "ignite-talk-by-philipp-krenn"
+    date: 2018-05-03
+  - title: "ignite-talk-by-heinrich-hartmann"
+    date: 2018-05-03
+  - title: "ignite-talk-by-marcin-niewiadomski"
+    date: 2018-05-03

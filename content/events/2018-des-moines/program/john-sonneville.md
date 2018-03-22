@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["john-sonneville"]
 +++
 
-My intended audience for this talk includes senior technical roles and non-technical managers.
+Senior Developers often lament the lack of a long-term technical career path. As a developer who recently took the leap into management, I’ll share my experiences and tell you why you should (and should not!) consider management as a viable career path.

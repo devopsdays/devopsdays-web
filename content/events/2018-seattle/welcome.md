@@ -24,20 +24,11 @@ Description = "devopsdays Seattle 2018"
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yIlNTnA-zUs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-DevOpsDays will be returning to Seattle in April 24th and 25th, 2018. We had
-long waiting lists the last two years, so this year we're expanding to make
-room for up to 500 participants.
+# {{< event_link page="program" text="2018 Program Announced!" >}}
 
-Our Call for Proposals is now closed. We are busy going through more than 200
-great submissions and will announce the schedule soon!
+DevOpsDays is a unique combination of {{< event_link page="program" text="curated talks" >}} and attendee driven <a href="https://www.devopsdays.org/open-space-format/">open spaces</a>. This is a great opportunity to hear ideas from industry leading speakers and experience reports from practitioners as well as discuss your own topics with peers.
 
-DevOpsDays is a great opportunity for sponsors. You'll have direct access
-to hundreds of practitioners. For more information about sponsorship
-opportunities {{< event_link page="sponsor" text="click here." >}}
-
-Registration for this year's event will open soon. Be sure to follow
-us on Twitter for announcements.
-
+## {{< event_link page="registration" text="Register to attend the conference!" >}}
 
 <!--
 <div class = "row">

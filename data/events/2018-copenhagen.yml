@@ -12,7 +12,7 @@ enddate:  2018-04-25 # The end date of your event. Leave blank if you don't have
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2018-01-10 # start accepting talk proposals.
 cfp_date_end:  2018-02-11 # close your call for proposals.
-cfp_date_announce:  2018-02-25 # inform proposers of status
+cfp_date_announce:  2018-02-28 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayscph" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -24,18 +24,19 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "https://www.eventbrite.co.uk/e/devops-days-copenhagen-tickets-41996806579" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
+
 coordinates: "55.663601, 12.576502" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Copenhagen" # Defaults to city, but you can make it the venue name.
-#
+
 location_address: "Mogens Dahl Concert Hall, København" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -56,15 +57,20 @@ team_members: # Name is the only required field for team members.
     employer: "Maersk"
   - name: "Jeppe Andersen"
     employer: "Momondo"
+  - name: "Mariusz Bury"
+    employer: "Praqma"
 organizer_email: "organizers-copenhagen-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-copenhagen-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+
 sponsors:
   - id: praqma
     level: gold
   - id: chef
+    level: gold
+  - id: ibm
     level: gold
   - id: atlassian
     level: gold
@@ -72,7 +78,18 @@ sponsors:
     level: silver
   - id: platformsh
     level: silver
-   
+  - id: cloudeon
+    level: silver
+  - id: phable
+    level: silver
+  - id: maersk
+    level: silver
+  - id: fastly
+    level: silver
+  - id: unity
+    level: silver
+  - id: technologydenmark
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -80,12 +97,220 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
+
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 2
+    max: 4
   - id: silver
     label: Silver
-    max: 8
+    max: 10
   - id: community
     label: Community
+
+program:
+
+  #Day 1 below:
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2018-04-24"
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: "2018-04-24"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: "2018-04-24"
+    start_time: "09:15"
+    end_time: "09:20"
+  - title: "yves-hwang"
+    type: talk
+    date: "2018-04-24"
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: Break
+    type: break
+    date: "2018-04-24"
+    start_time: "09:50"
+    end_time: "10:10"
+  - title: "eduardo-piairo"
+    type: talk
+    date: "2018-04-24"
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Sponsors"
+    type: custom
+    date: "2018-04-24"
+    start_time: "10:40"
+    end_time: "10:45"
+  - title: "thien-an-mac"
+    type: talk
+    date: "2018-04-24"
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
+    type: break
+    date: "2018-04-24"
+    start_time: "11:15"
+    end_time: "11:35"
+  - title: "aubrey-stearn"
+    type: talk
+    date: "2018-04-24"
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-24"
+    start_time: "12:05"
+    end_time: "12:55"
+  - title: "Ignite talks:"
+    type: ignite
+    date: "2018-04-24"
+    start_time: "12:55"
+    end_time: "13:25"
+  - title: "Intro to Open Space Discussions"
+    type: custom
+    date: "2018-04-24"
+    start_time: "13:25"
+    end_time: "13:55"
+  - title: "Open Space #1 & #2"
+    type: open-space
+    date: "2018-04-24"
+    start_time: "13:55"
+    end_time: "14:40"
+  - title: "Break"
+    type: break
+    date: "2018-04-24"
+    start_time: "14:40"
+    end_time: "14:55"
+  - title: "Open Space #3 & #4"
+    type: open-space
+    date: "2018-04-24"
+    start_time: "14:55"
+    end_time: "15:40"
+  - title: "Break"
+    type: break
+    date: "2018-04-24"
+    start_time: "15:40"
+    end_time: "15:55"
+  - title: "Open Space #5 & #6"
+    type: open-space
+    date: "2018-04-24"
+    start_time: "15:55"
+    end_time: "16:40"
+  - title: "Wrap-Up Of The Day"
+    type: custom
+    date: "2018-04-24"
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Mingle"
+    type: custom
+    date: "2018-04-24"
+    start_time: "17:00"
+    end_time: "18:30"
+  - title: "Dinner"
+    type: custom
+    date: "2018-04-24"
+    start_time: "18:30"
+    end_time: "21:00"
+
+    # Day2 below:
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2018-04-25"
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: "2018-04-25"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mike-long"
+    type: talk
+    date: "2018-04-25"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "09:45"
+    end_time: "10:05"
+  - title: "boyan-mihaylov"
+    type: talk
+    date: "2018-04-25"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "10:35"
+    end_time: "10:45"
+  - title: "gloria-hornero"
+    type: talk
+    date: "2018-04-25"
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "11:15"
+    end_time: "11:35"
+  - title: "Talk #4 - TBA"
+    type: custom
+    date: "2018-04-25"
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-25"
+    start_time: "12:05"
+    end_time: "12:55"
+  - title: "Ignites"
+    type: ignite
+    date: "2018-04-25"
+    start_time: "12:55"
+    end_time: "13:25"
+  - title: "Intro to Open Space Discussions"
+    type: custom
+    date: "2018-04-25"
+    start_time: "13:25"
+    end_time: "13:55"
+  - title: "Open Space #1 & #2"
+    type: open-space
+    date: "2018-04-25"
+    start_time: "13:55"
+    end_time: "14:40"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "14:40"
+    end_time: "14:55"
+  - title: "Open Space #3 & #4"
+    type: open-space
+    date: "2018-04-25"
+    start_time: "14:55"
+    end_time: "15:40"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "15:40"
+    end_time: "15:55"
+  - title: "Open Space #5 & #6"
+    type: open-space
+    date: "2018-04-25"
+    start_time: "15:55"
+    end_time: "16:40"
+  - title: "Wrap-Up Of The Day"
+    type: custom
+    date: "2018-04-25"
+    start_time: "16:40"
+    end_time: "17:00"
+
+ignites:
+  - title: "niels-harre"
+    date: "2018-04-24"

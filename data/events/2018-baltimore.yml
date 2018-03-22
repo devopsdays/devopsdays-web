@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Baltimore!" # Edit this to suit your prefe
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-03-21
-enddate: 2018-03-22
+startdate: 2018-03-22
+enddate: 2018-03-23
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-12-04 # start accepting talk proposals.
@@ -18,7 +18,7 @@ cfp_open: "false"
 cfp_link: "https://devopsdaysbaltimore2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2017-12-04 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-03-23 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2018-03-24 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdaysbaltimore2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -47,56 +47,77 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Delali Dzirasa"
-    employer: "Fearless"
+    role:  "Chairperson"
+    image: "delali-dzirasa.jpg"
+    employer: "Fearless Solutions"
     github: "deld"
     linkedin: "https://www.linkedin.com/in/delalidzirasa/"
+    facebook:  "https://www.facebook.com/delalid"
     website: "http://fearless.tech"
     twitter: "DelaliDzirasa"
-  - name: "Nathen Harvey"
+    bio: "Delali is Founder and President of Fearless Solutions, a software firm based out of Baltimore. Delali is a Certified Scrum Master and PMP® with a decade of experience leading agile software teams and programs. Delali graduated with a B.S. in Computer Engineering from UMBC in 2004. Delali always had a passion for entrepreneurship, and after working at a handful of technology firms, he founded Fearless in 2009.
+
+Delali strives to make a difference in technology and his surrounding community. He currently resides in Baltimore City with his family, where he is passionate about increasing the rate of city youth heading into STEM based fields."
   - name: "Annie Barrow"
-    employer: "Fearless"
+    employer: "Fearless Solutions"
     github: "abarrow1"
     linkedin: "https://www.linkedin.com/in/annie-barrow-345014125/"
     website: "http://fearless.tech"
-  - name: "Shannon Shepherd"
-    employer: "Fearless"
-    linkedin: "www.linkedin.com/in/shannon-shepherd315"
+  - name: "Arlene Barrow"
+    employer: "Fearless Solutions"
+    github: "arlenebarrow"
+    linkedin: "https://www.linkedin.com/in/arlenebarrow/"
     website: "http://fearless.tech"
-    twitter: "ca77vette"
-  - name: "Chris Stone"
-  - name: "Ramez Mourad"
-  - name: "Sameet Nasnodkar"
+  - name: "Charles Bushong"
+    employer: "Fearless Solutions"
+    twitter: "totalnerd"
+    github: "bushong1"
+    linkedin: "https://www.linkedin.com/in/charles-bushong"
+    image: "charles-bushong.jpg"
+    website: "https://fearless.tech"
+  - name: "Meghan Butler"
+    employer: "Fearless Solutions"
+    github: "megbutler"
+    linkedin: "https://www.linkedin.com/in/meghancbutler/"
+    website: "http://fearless.tech"
+    twitter: "_mcbee13"
+  - name: "Kevin Chung"
+    employer: "Under Armour"
+    github: "KRS-One"
+    website: "https://www.underarmour.com"
+  - name: "Nathen Harvey"
+    employer: "Chef"
+    twitter: "nathenharvey"
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
   - name: "Rajiv Kadayam"
     employer: "eGlobalTech"
     github: "rkadayam"
     linkedin: "https://www.linkedin.com/in/rajivkadayam/"
-    website: "www.eglobaltech.com"
+    website: "https://www.eglobaltech.com"
     twitter: "rkadayam"
-  - name: "Kevin Chung"
-    employer: "Under Armour"
-    github: "KRS-One"
-    website: "hhttps://www.underarmour.com"
-  - name: "Ryan Wetzelberger"
-  - name: "Arlene Barrow"
-    employer: "Fearless"
-    github: "arlenebarrow"
-    linkedin: "https://www.linkedin.com/in/arlenebarrow/"
-    website: "http://fearless.tech"
-  - name: "Nicole Yancey"
   - name: "Kelsey Krach"
-  - name: "Charles Bushong"
+  - name: "Ramez Mourad"
+    employer: "Cvent"
+    twitter: "ramezjm"
+  - name: "Sameet Nasnodkar"
   - name: "John Priest"
+  - name: "Shannon Shepherd"
+    employer: "Fearless Solutions"
+    linkedin: "www.linkedin.com/in/shannon-shepherd315"
+    website: "http://fearless.tech"
+    twitter: "ca77vette"
+  - name: "Chris Stone"
   - name: "Robert Treat"
     employer: "OmniTI"
     github: "xzilla"
     website: "https://omniti.com"
     twitter: "robtreat2" 
-  - name: "Meghan Butler"
-    employer: "Fearless"
-    github: "megbutler"
-    linkedin: "https://www.linkedin.com/in/meghancbutler/"
-    website: "http://fearless.tech"
-    twitter: "_mcbee13"
+  - name: "Ryan Wetzelberger"
+  - name: "Nicole Yancey"
 
 organizer_email: "organizers-baltimore-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-baltimore-2018@devopsdays.org" # Put your proposal email address here
@@ -145,9 +166,19 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: circonus
+    level: gold
+  - id: "540"
+    level: gold
+  - id: hashicorp
+    level: gold
   - id: appdynamics
     level: platinum
   - id: scalyr
+    level: platinum
+  - id: fearless
     level: platinum
   - id: cloudbolt
     level: platinum
@@ -155,9 +186,31 @@ sponsors:
     level: platinum
   - id: gitlab
     level: platinum
-  - id: fearless
+  - id: instana
+    level: platinum
+  - id: devopsdaysdc
+    level: platinum
+  - id: usds
+    level: platinum
+  - id: nutanix
+    level: platinum
+  - id: onyx-point
+    level: happyhour
+  - id: collabnet-versionone
     level: happyhour
   - id: asymmetrik
+    level: silver
+  - id: acesinc
+    level: silver
+  - id: metricly
+    level: silver
+  - id: elevenpeppers
+    level: silver
+  - id: bixal
+    level: silver
+  - id: clarity
+    level: silver
+  - id: wortech
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -181,3 +234,4 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+    max: 13

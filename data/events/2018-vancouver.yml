@@ -75,18 +75,40 @@ proposal_email: "proposals-vancouver-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-
    - id: treasuredata
      level: gold
    - id: trinimbus
      level: gold
    - id: scalyr
      level: gold
+   - id: influxdata
+     level: gold
+   - id: scalar
+     level: gold
+   - id: xmatters
+     level: gold
+   - id: salesforce
+     level: gold
+   - id: chef
+     level: gold
 
+   - id: dynatrace
+     level: silver
    - id: realtor-dot-com
      level: silver
+   - id: sourcedgroup
+     level: silver
 
+   - id: unbounce
+     level: bronze
+   - id: statsearchanalytics
+     level: bronze
+   
+   - id: polyglot
+     level: friends
    - id: ay-tech
+     level: friends
+   - id: hashicorp
      level: friends
 
    - id: papercall
@@ -115,8 +137,6 @@ sponsors:
   #   level: silver
   # - id: scalar
   #   level: silver
-  # - id: unbounce
-  #   level: silver
 
   # - id: itglue
   #   level: bronze
@@ -125,8 +145,6 @@ sponsors:
   # - id: samsung-rd
   #   level: bronze
   # - id: statsearchanalytics
-  #   level: bronze
-  # - id: sourcedgroup
   #   level: bronze
 
   # - id: ea
@@ -161,6 +179,7 @@ sponsor_levels:
     max: 2
   - id: friends
     label: Friends
+    max: 4
   - id: cfp
     label: CFP
     max: 1
