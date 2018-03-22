@@ -24,7 +24,7 @@ There are three ways to propose a topic at devopsdays:
 - Submissions must be made by one of the proposed presenters; **we do not accept proposals submitted on behalf of others**
 - Attempt to not give details to who you are, we prefer to judge based on content.
 - All presentations must conform to the code of conduct.
-- Preferably submit via [our CFP site](https://www.papercall.io/devopsdays-chicago-2018), however, we also will accept submissions by email: [{{< email_proposals >}}]
+- Proposals must be submitted via [our CFP site](https://www.papercall.io/devopsdays-chicago-2018). If you have questions about our CFP process, please email: [{{< email_proposals >}}]
 
 ### Ideas:
 This is what we would like to know. Do you have an answer?
