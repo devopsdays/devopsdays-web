@@ -70,11 +70,17 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: logzio
     level: silver
-#  - id: gtri
-#    level: bronze
+  - id: gtri
+    level: bronze
   - id: arista
     level: silver
   - id: xmatters
+    level: gold
+  - id: confluent
+    level: bronze
+  - id: waffleio
+    level: alt
+  - id: elastic
     level: gold
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -89,3 +95,5 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Silver
   - id: bronze
     label: Bronze
+  - id: alt
+    label: Alternative
