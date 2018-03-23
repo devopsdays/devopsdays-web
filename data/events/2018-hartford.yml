@@ -25,10 +25,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "41.767352, -72.673939" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hartford" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "41.762842,-72.6709113"
+location: Infinity Music Hall & Bistro
+location_address: 32 Front St. Hartford, CT 06103
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
