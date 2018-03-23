@@ -23,6 +23,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: conduct
   - name: location
+  - name: program
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -97,3 +98,209 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: alt
     label: Alternative
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-17
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Pete Cheslock"
+    type: talk
+    date: 2018-04-17
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Curtis Yanko"
+    type: talk
+    date: 2018-04-17
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Morning Break - VooDoo Donuts by Waffle.io"
+    type: custom
+    date: 2018-04-17
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Michael Stahnke"
+    type: talk
+    date: 2018-04-17
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-17
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "Leigh Capili"
+    type: talk
+    date: 2018-04-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-17
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2018-04-17
+    start_time: "13:30"
+    end_time: "14:40"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-17
+    start_time: "14:40"
+    end_time: "14:50"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-17
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Meera Subbarao"
+    type: talk
+    date: 2018-04-17
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-17
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Ado Kukic"
+    type: talk
+    date: 2018-04-17
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-17
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Erik Rygg"
+    type: talk
+    date: 2018-04-17
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space #4"
+    type: custom
+    date: 2018-04-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Elissa Shevinsky"
+    type: talk
+    date: 2018-04-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Close Day"
+    type: custom
+    date: 2018-04-17
+    start_time: "17:00"
+    end_time: "17:10"
+  - title: "Evening event"
+    type: custom
+    date: 2018-04-17
+    start_time: "17:30"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-18
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Christine Rohacz"
+    type: talk
+    date: 2018-04-18
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Corey Quinn"
+    type: talk
+    date: 2018-04-18
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Morning Break - VooDoo Donuts by Waffle.io"
+    type: custom
+    date: 2018-04-18
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Matthew Boeckman"
+    type: talk
+    date: 2018-04-18
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-18
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "Beau Christensen"
+    type: talk
+    date: 2018-04-18
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-18
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: custom
+    date: 2018-04-18
+    start_time: "13:40"
+    end_time: "14:40"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-18
+    start_time: "14:40"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-18
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Tom McLaughlin"
+    type: talk
+    date: 2018-04-18
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-18
+    start_time: "15:20"
+    end_time: "15:50"
+  - title: "Rizchel Dayao"
+    type: talk
+    date: 2018-04-18
+    start_time: "15:20"
+    end_time: "15:50"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Kris Nova"
+    type: talk
+    date: 2018-04-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space #4"
+    type: custom
+    date: 2018-04-18
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "James Bowes"
+    type: talk
+    date: 2018-04-18
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Sponsor Raffles and Closing"
+    type: custom
+    date: 2018-04-18
+    start_time: "17:00"
+    end_time: "17:20"
