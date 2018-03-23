@@ -147,8 +147,8 @@ program:
     date: "2018-04-24"
     start_time: "10:40"
     end_time: "10:45"
-  - title: "Talk #3 - TBA"
-    type: custom
+  - title: "thien-an-mac"
+    type: talk
     date: "2018-04-24"
     start_time: "10:45"
     end_time: "11:15"
@@ -167,7 +167,7 @@ program:
     date: "2018-04-24"
     start_time: "12:05"
     end_time: "12:55"
-  - title: "Ignites"
+  - title: "Ignite talks:"
     type: ignite
     date: "2018-04-24"
     start_time: "12:55"
@@ -250,8 +250,8 @@ program:
     date: "2018-04-25"
     start_time: "10:35"
     end_time: "10:45"
-  - title: "Talk #3 - TBA"
-    type: custom
+  - title: "gloria-hornero"
+    type: talk
     date: "2018-04-25"
     start_time: "10:45"
     end_time: "11:15"
@@ -310,3 +310,7 @@ program:
     date: "2018-04-25"
     start_time: "16:40"
     end_time: "17:00"
+
+ignites:
+  - title: "niels-harre"
+    date: "2018-04-24"
