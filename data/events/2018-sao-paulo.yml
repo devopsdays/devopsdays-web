@@ -21,7 +21,7 @@ registration_date_start: 2018-03-01 # start accepting registration. Leave blank 
 registration_date_end: 2018-05-31 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdays-sp-2018.eventbrite.com.br/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
   - name: ingressos
     icon: "pencil"
-    url: https://www.eventbrite.com.br/e/devopsdays-sp-2018-tickets-42971706531
+    url: /events/2018-sao-paulo/registration
 
  # - name: program
  #   icon: "book"
@@ -140,7 +140,7 @@ sponsor_levels:
     label: Happy Hour
     max: 1
   - id: gold
-    label: OUro
+    label: Ouro
     max: 4
   - id: silver
     label: Prata
