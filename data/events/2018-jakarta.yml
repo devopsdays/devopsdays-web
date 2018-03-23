@@ -106,6 +106,8 @@ sponsors:
     level: community
   - id:  tech-in-asia
     level: community
+  - id:  geekhunter
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
