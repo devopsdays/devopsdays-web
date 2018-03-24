@@ -260,8 +260,8 @@ program:
     date: "2018-04-25"
     start_time: "11:15"
     end_time: "11:35"
-  - title: "Talk #4 - TBA"
-    type: custom
+  - title: "giulio-vian"
+    type: talk
     date: "2018-04-25"
     start_time: "11:35"
     end_time: "12:05"
@@ -314,3 +314,5 @@ program:
 ignites:
   - title: "niels-harre"
     date: "2018-04-24"
+  - title: "mandi-walls"
+    date: "2018-04-25"

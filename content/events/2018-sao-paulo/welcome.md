@@ -5,10 +5,6 @@ aliases = ["/events/2018-sao-paulo"]
 Description = "devopsdays São Paulo 2018"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <div>
 <h2>DevOpsDays São Paulo 2018</h2>
 </div>
@@ -20,6 +16,10 @@ Description = "devopsdays São Paulo 2018"
       <p>O DevOpsDays virá para São Paulo em 2018!</p>
       <p>Acabando com um hiato de aproximadamente 8 anos, teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
     </div>
+</div>
+
+<div style="text-align:center;">
+  {{< event_logo >}}
 </div>
 
 <div class = "row">
