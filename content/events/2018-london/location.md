@@ -1,10 +1,12 @@
 +++
-Title = "Location"
-Type = "event"
-Description = "Location for devopsdays London 2018"
+date = "2016-12-17T13:55:35-05:00"
+title = "Location"
+type = "event"
+
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+The event will be held at the <a href="https://qeiicentre.london/">QEII Centre</a> in the heart of London.
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
+For directions, <a href="https://qeiicentre.london/getting-here/">click here</a>.
+
 <!-- {{< event_map >}} -->
