@@ -48,17 +48,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Amr Eid"
-employer: "IBM Egypt"
+    employer: "IBM Egypt"
   - name: "Sherien Sayed"
-employer: "DXC Technology"
+    employer: "DXC Technology"
   - name: "Ghada Soliman"
-employer: "Orange Labs"
+    employer: "Orange Labs"
   - name: "Ahmed Ameen"
-employer: "ITIDA - SECC"
+    employer: "ITIDA - SECC"
   - name: "Reham Saleh"
-employer: "ITIDA - SECC"
+    employer: "ITIDA - SECC"
   - name: "Sherine FaragAllah"
-employer: "ITIDA - SECC"
+    employer: "ITIDA - SECC"
 
 
 organizer_email: "cairo-2019@devopsdays.org" # Put your organizer email address here
