@@ -47,7 +47,7 @@ The [devopsdays code of conduct](/conduct) is based on the one from the [Geek Fe
 
 We'll set up the `organizers-cityname-year@devopsdays.org` mail alias for your team. This will let you have a standard email listed as a public-facing organizer point of contact. All organizers on your team need to be on this alias individually, and the global core team is also on this email alias. It's fine to use other email lists, chat programs, and other tools for your internal coordination and outgoing announcements, but we require that your event's published `organizer_email:` field be set to this for consistency and problem prevention.
 
-We'll also invite all your organizers to the global devopsdays organizer Slack team (with organizers from around the world!) so you can meet other organizers and share ideas. Using the global devopsdays organizer Slack is optional. The only people we'll invite to it are the people listed as organizers on your contact page. If you want to use Slack for attendees at your event, you should set up a different one.
+We'll also invite all your organizers to the global devopsdays organizer Slack team (with organizers from around the world!) so you can meet other organizers and share ideas. Using the global devopsdays organizer Slack is optional. The only people we'll invite to it are the people listed as organizers on your contact page, and if you join, it's a good idea to list your city in your Slack profile. If you want to use Slack for attendees at your event, you should set up a different one.
 
 
 ---
