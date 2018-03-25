@@ -7,13 +7,13 @@ Description = "Proponha uma palestra para o devopsdays São Paulo 2018"
 
 <hr>
 
-<h3>Como enviar sua proposta</h3> 
+<h3>Como enviar sua proposta</h3>
 
 Basta acessar e seguir as instruções em [https://www.papercall.io/devopsdays-sp-2018](https://www.papercall.io/devopsdays-sp-2018)
 
 <hr>
 
-<h3>Tipos de apresentações</h3> 
+<h3>Tipos de apresentações</h3>
 
 Há três tipos de de apresentações no DevOpsDays:
 <ol>
@@ -26,16 +26,16 @@ Há três tipos de de apresentações no DevOpsDays:
 
 <h3>Seleção dos trabalhos</h3>
 
-A escolha das palestras é parte arte e parte ciência; aqui estão alguns fatores que consideramos quando ter o melhor programa para nossa audiência local:
+A escolha das palestras é parte arte e parte ciência; aqui estão alguns dos fatores que nós consideraremos para conseguir alcançar a melhor programação possível para nosso público:
 
-- _grande apelo_: Como a sua apresentação se mostra para pessoas com diferentes experiências e conhecimentos? Apresentações muito técnicas precisam de mais níveis para fornecer valor para todos, os quais podem não ter o conhecimento específico na ferramenta.
-- _novos palestrantes locais_: Você é o único que pode contar sua história. Nós estamos muito interessados nos desafios e experiência de sucessos local. Nós estamos felizes para ajudar/mentorar os novos palestrantes que nos procurarem.
-- _vozes sub-representadas_: Nos gostaríamos de ouvir todas as vozes, incluso aquelas que são menos frequentes em eventos similares. Se você está num campo que não é considerado como um de tecnologia, você está em uma organização grande e tradicional, ou você é a única pessoa em sua organização com seus antecedentes, estamos interessados em sua experiência única.
-- _não enviar palestras por terceiros_: Este é um evento orientado pela comunidade e palestrantes precisam estar diretamente engajados com os organizadores e atendentes. Se uma empresa de relações públicas ou o departamento está propondo uma palestra, você já deve saber como um palestrante estará distante do processo.
-- _produtos e serviços_: Valorizamos muitos nossos palestrantes e apoiadores, não iremos aceitar uma palestra que tenda a ser uma apresentação do seu produto.
+- _grande apelo_: Como sua palestra será recebida por uma sala com pessoas com diferentes experiências e conhecimento? Conteúdo extremamente técnico precisa de “algo mais” para ser capaz de trazer valor para todos na sala, pois, por exemplo, alguns ouvintes podem não usar a ferramenta específica da qual você gostaria de falar.
+
+- _novos palestrantes locais_: Você é o único que pode contar sua história. Estamos interessados em desafios e sucessos sendo vividos na nossa área. Ficaremos felizes em oferecer suporte/mentoria para novos palestrantes que nos procurarem para tal. Se quiser algum apoio nosso, entre em contato conosco por <a href="/events/2018-sao-paulo/contato">aqui</a>.
+
+- _vozes sub-representadas_: Queremos ouvir todas as vozes, incluindo aquelas que não vem sendo representadas em eventos como o DevOps Days. Estamos comprometidos em promover um ambiente seguro para a diversidade e estamos disponíveis para oferecer qualquer suporte para que você se sinta confortável e confiante para enviar sua proposta. Se quiser algum apoio nosso, entre em contato conosco por <a href="/events/2018-sao-paulo/contato">aqui</a>.
+
+- _sem palestras de terceiros_: Este é um pequeno evento guiado pela comunidade, por isso os palestrantes precisam estar direta e verdadeiramente engajados com os organizadores e público ouvinte. Se uma empresa de relações públicas ou seu departamento de marketing está propondo sua palestra, você palestrante já demonstra estar distante desse processo.
+
+- _produtos e serviços_: Valorizamos muitos nossos palestrantes e apoiadores, não iremos aceitar palestras que tendam a ser uma apresentação do algum produto.
 
 <hr>
-
-<h3>Mais informações</h3>
-
-Se você faz parte de grupos pouco representados no universo de TI e gostaria de apresentar algo, mas não se sente seguro, <a href="/events/2018-sao-paulo/contato">contate</a> diretamente nossos organizadores para que possamos fornecer subsídios como mentoria, por exemplo, para que faça uma grande palestra com total segurança.
