@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: speakers
  # - name: propose
   - name: registration
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
  # - name: volunteers
@@ -104,12 +104,14 @@ sponsors:
     level: community
   - id: agile-indonesia
     level: community
-  - id:  tech-in-asia
-    level: community
   - id:  geekhunter
     level: community
+  - id:  tech-in-asia
+    level: media
+  - id:  event-jakarta
+    level: media
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -126,6 +128,9 @@ sponsor_levels:
     label: Silver
   - id: community
     label: Community
+  - id: media
+    label: Media
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -252,8 +257,8 @@ program:
     date: 2018-04-27
     start_time: "14:30"
     end_time: "15:05"
-  - title: "Closing Keynote"
-    type: custom
+  - title: "satty-bhens"
+    type: talk
     date: 2018-04-27
     start_time: "15:05"
     end_time: "15:50"
