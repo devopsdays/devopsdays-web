@@ -351,8 +351,8 @@ program:
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "logan-daigle"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
