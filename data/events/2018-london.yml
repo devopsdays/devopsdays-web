@@ -46,16 +46,30 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
+  - name: "Andy Steed"
+    twitter: "ip_darwin"
   - name: "bob walker"
     twitter: "rjw1"
-  - name: "Paula Kennedy"
-    twitter: "PaulaLKennedy"
+  - name: "Chris Mills"
+    twitter: "millscj01"
+  - name: "Dan Webb"
+    twitter: "dan_webb"
   - name: "Dawn Foster"
     twitter: "geekygirldawn"
-  - name: "Markos Rendell"
-    twitter: "markosrendell"
   - name: "Hannah Foxwell"
     twitter: "HannahFoxwell"
+  - name: "Jemma Bolland"
+    twitter: "jemolova"
+ - name: "Louise Paling"
+    twitter: "short_louise"
+  - name: "Markos Rendell"
+    twitter: "markosrendell"
+  - name: "Matt Saunders"
+    twitter: "cm6051"
+  - name: "Paula Kennedy"
+    twitter: "PaulaLKennedy"
 organizer_email: "organizers-london-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email address here
 
