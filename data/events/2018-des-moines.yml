@@ -160,7 +160,7 @@ program:
     date: "2018-04-12"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "Keynote"
+  - title: "Keynote - Andrew Clay Shafer"
     type: custom
     date: "2018-04-12"
     start_time: "9:15"
