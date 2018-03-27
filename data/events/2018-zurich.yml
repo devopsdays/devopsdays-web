@@ -148,6 +148,10 @@ sponsors:
   - id: exoscale
     level: bronze
     url: https://www.exoscale.com/?utm_source=devopsdayszurich2018URLutm_medium=emailURLutm_campaign=event
+  - id: powercoders
+    level: community
+  - id: jazoon
+    level: community
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -156,12 +160,16 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 1
   - id: gold
     label: Gold
-    max: 8
+    max: 9
   - id: silver
     label: Silver
     max: 2
   - id: bronze
     label: Bronze
+    max: 4
+  - id: community
+    label: Community
+    max: 4
 
 program:
   - title: "Registration & Welcome Coffee"
