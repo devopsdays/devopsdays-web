@@ -167,7 +167,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: bronze
     label: Bronze
   - id: community
-    label: community
+    label: Community
+    max: 4
 
 program:
   - title: "Registration & Welcome Coffee"
