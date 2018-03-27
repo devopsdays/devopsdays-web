@@ -160,12 +160,13 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 1
   - id: gold
     label: Gold
-    max: 8
+    max: 9
   - id: silver
     label: Silver
     max: 2
   - id: bronze
     label: Bronze
+    max: 4
   - id: community
     label: Community
     max: 4
