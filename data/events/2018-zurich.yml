@@ -267,6 +267,13 @@ program:
     date: 2018-05-02
     start_time: "17:00"
     end_time: "17:10"
+  - title: "Evening Event"
+    type: custom
+    date: 2018-05-02
+    start_time: "17:30"
+    end_time: "open end"
+    comments: "The evening event will take place at [Boilerroom](https://goo.gl/maps/mhk91oCHTqt).<br>
+    Beverages and snacks sponsored by [Atlassian](https://www.atlassian.com/)."
   - title: "Registration & Coffe"
     type: custom
     date: 2018-05-03
