@@ -85,8 +85,6 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
-  - id: opsgenie
-    level: platinum
   - id: pivotal
     level: platinum
   - id: dzone
