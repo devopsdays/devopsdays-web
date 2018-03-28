@@ -115,6 +115,8 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
+  - id: sumologic
+    level: silver
   - id: linkit
     level: recharge
   - id: fullstaq
