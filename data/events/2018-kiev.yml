@@ -77,6 +77,8 @@ proposal_email: "organizers-kiev-2018@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id:  intellias
+    level: silver
   - id: provectus
     level: bronze
   - id: percona
