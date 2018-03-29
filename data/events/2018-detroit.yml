@@ -62,6 +62,8 @@ team_members: # Name is the only required field for team members.
   - name: "Archie Cowan"
     employer: ITHAKA
     twitter: archiecowan
+  - name: "Shelby Hebel"
+    employer: Quicken Loans
 
 organizer_email: "organizers-detroit-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2018@devopsdays.org" # Put your proposal email address here
