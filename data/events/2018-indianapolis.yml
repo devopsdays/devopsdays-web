@@ -83,6 +83,10 @@ proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal
 sponsors:
   - id: aws
     level: gold
+  - id: influxdata
+    level: gold
+  - id: pivotal
+    level: gold
   - id: arresteddevops
     level: community
   - id: blacksintechnology
