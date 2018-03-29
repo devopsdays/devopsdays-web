@@ -219,7 +219,7 @@ would like to put together a custom package, let us know.
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">After party - Premium Banner placement on stage, multiple pitches and extra drink tickets</td>
-      <td style="padding: 5px" align="center">$5,000</td>
+      <td style="padding: 5px" align="center">$2,500</td>
     </tr>
   </tbody>
 </table>
