@@ -1,5 +1,5 @@
 +++
-date = "2017-03-06T19:04:13+02:00"
+date = "2018-03-28T19:04:13+02:00"
 title = "registration"
 type = "event"
 
