@@ -85,6 +85,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: pivotal
+    level: gold
   - id: arresteddevops
     level: community
   - id: blacksintechnology
