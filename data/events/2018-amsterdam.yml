@@ -99,17 +99,29 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: instana
+    level: gold
+  - id: umbrio
+    level: gold
+  - id: xebia
+    level: gold
   - id: olindata
     level: silver
   - id: mirabeau
     level: silver
   - id: redgate
     level: silver
+  - id: devoteam
+    level: silver
+  - id: innspire
+    level: silver
+  - id: elastic
+    level: silver
+  - id: sumologic
+    level: silver
   - id: linkit
     level: recharge
   - id: fullstaq
-    level: bronze
-  - id: devoteam
     level: bronze
   - id: s0l1dheroes
     level: bronze
@@ -137,7 +149,7 @@ sponsor_levels:
     max: "10"
   - id: silver
     label: Silver
-    max: 7
+    max: "7"
   - id: recharge
     label: "Power recharge"
     max: "1"

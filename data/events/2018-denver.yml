@@ -160,55 +160,49 @@ program:
     start_time: "13:30"
     end_time: "14:40"
 
+  - title: "aj-davis"
+    type: talk
+    date: 2018-04-17
+    start_time: "14:40"
+    end_time: "15:10"
+
   - title: "Open Space Opening"
     type: custom
     date: 2018-04-17
-    start_time: "14:40"
-    end_time: "14:50"
+    start_time: "15:15"
+    end_time: "15:25"
 
   - title: "Open Space #1"
     type: custom
     date: 2018-04-17
-    start_time: "14:50"
+    start_time: "15:25"
     end_time: "15:20"
 
   - title: "meera-subbarao"
     type: talk
     date: 2018-04-17
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "15:25"
+    end_time: "15:55"
 
   - title: "Open Space #2"
     type: custom
     date: 2018-04-17
-    start_time: "15:25"
-    end_time: "15:55"
+    start_time: "16:00"
+    end_time: "16:30"
 
   - title: "ado-kukic"
     type: talk
     date: 2018-04-17
-    start_time: "15:25"
-    end_time: "15:55"
+    start_time: "16:00"
+    end_time: "16:30"
 
   - title: "Open Space #3"
-    type: custom
-    date: 2018-04-17
-    start_time: "16:00"
-    end_time: "16:30"
-
-  - title: "erik-rygg"
-    type: talk
-    date: 2018-04-17
-    start_time: "16:00"
-    end_time: "16:30"
-
-  - title: "Open Space #4"
     type: custom
     date: 2018-04-17
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "elissa-shevinsky"
+  - title: "erik-rygg"
     type: talk
     date: 2018-04-17
     start_time: "16:30"
@@ -299,7 +293,7 @@ program:
     start_time: "14:45"
     end_time: "15:15"
 
-  - title: "tom-mcLaughlin"
+  - title: "tom-mclaughlin"
     type: talk
     date: 2018-04-18
     start_time: "14:45"

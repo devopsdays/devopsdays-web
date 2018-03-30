@@ -102,6 +102,8 @@ sponsors:
     level: silver 
   - id: contrast_security 
     level: silver 
+  - id: columntech
+    level: silver
   - id: beaconhill
     level: bronze
   - id: qci
@@ -128,6 +130,8 @@ sponsors:
     level: uranium
   - id: sidegarage
     level: community
+  - id: datadog
+    level: brass
       
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -146,6 +150,9 @@ sponsor_levels:
   - id: uranium
     label: Uranium
     max: 1
+  - id: brass
+    label: Bag and Lanyard
+    max: 1
   - id: community
     label: Community
 
@@ -160,8 +167,8 @@ program:
     date: "2018-04-12"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "kelsey-hightower"
-    type: talk
+  - title: "Keynote - Andrew Clay Shafer"
+    type: custom
     date: "2018-04-12"
     start_time: "9:15"
     end_time: "10:00"
@@ -351,8 +358,8 @@ program:
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
-  - title: "logan-daigle"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: "2018-04-13"
     start_time: "14:10"
     end_time: "14:40"
