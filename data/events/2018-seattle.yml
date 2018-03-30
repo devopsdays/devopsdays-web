@@ -133,6 +133,8 @@ sponsors:
     level: silver
   - id: cloudbees
     level: silver
+  - id: newrelic
+    level: silver
   - id: realself
     level: bronze
   - id: codefresh
