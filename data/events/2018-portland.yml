@@ -84,6 +84,10 @@ sponsors:
     level: gold
   - id: scalyr
     level: gold
+  - id: pivotal
+    level: gold
+  - id: waffleio
+    level: specialty
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
