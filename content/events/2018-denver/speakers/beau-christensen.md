@@ -1,7 +1,7 @@
 +++
 Title = "Beau Christensen"
 Twitter = "beauchristensen"
-image = "beau-christensen.jpg"
+image = "beau-christensen.png"
 type = "speaker"
 linktitle = "beau-christensen"
 

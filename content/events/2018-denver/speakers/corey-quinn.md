@@ -1,7 +1,7 @@
 +++
 Title = "Corey Quinn"
 Twitter = "QuinnyPig"
-image = ""
+image = "corey-quinn.jpeg"
 type = "speaker"
 linktitle = "corey-quinn"
 
