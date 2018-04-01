@@ -1,7 +1,7 @@
 +++
 Title = "AJ Davis"
 Twitter = "Metricrux"
-image = "aj-davis.jpeg"
+image = "aj-davis.jpg"
 type = "speaker"
 linktitle = "aj-davis"
 

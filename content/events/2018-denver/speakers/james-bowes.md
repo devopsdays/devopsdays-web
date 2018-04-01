@@ -1,7 +1,7 @@
 +++
 Title = "James Bowes"
 Twitter = "jrbowes"
-image = "james-bowes.jpeg"
+image = "james-bowes.jpg"
 type = "speaker"
 linktitle = "james-bowes"
 

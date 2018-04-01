@@ -1,7 +1,7 @@
 +++
 Title = "Rizchel Dayao"
 Twitter = "rizcheldayao"
-image = "rizchel-dayao.jpeg"
+image = "rizchel-dayao.jpg"
 type = "speaker"
 linktitle = "rizchel-dayao"
 

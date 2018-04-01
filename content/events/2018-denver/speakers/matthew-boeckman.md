@@ -1,7 +1,7 @@
 +++
 Title = "Matthew Boeckman"
 Twitter = "matthewboeckman"
-image = "matthew-boeckman.jpeg"
+image = "matthew-boeckman.jpg"
 type = "speaker"
 linktitle = "matthew-boeckman"
 

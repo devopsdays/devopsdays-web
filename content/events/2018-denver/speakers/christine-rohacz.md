@@ -1,7 +1,7 @@
 +++
 Title = "Christine Rohacz"
 Twitter = ""
-image = "christine-rohacz.jpeg"
+image = "christine-rohacz.jpg"
 type = "speaker"
 linktitle = "christine-rohacz"
 
