@@ -1,7 +1,7 @@
 +++
 Title = "Seth Vargo"
 Twitter = "sethvargo"
-image = "seth-vargo.jpeg"
+image = "seth-vargo.jpg"
 type = "speaker"
 linktitle = "seth-vargo"
 

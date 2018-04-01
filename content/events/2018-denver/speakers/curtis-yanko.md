@@ -1,7 +1,7 @@
 +++
 Title = "Curtis Yanko"
 Twitter = "onCommit"
-image = "curtis-yanko.jpeg"
+image = "curtis-yanko.jpg"
 type = "speaker"
 linktitle = "curtis-yanko"
 

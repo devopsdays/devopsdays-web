@@ -1,7 +1,7 @@
 +++
 Title = "Erik Rygg"
 Twitter = "errygg"
-image = "erik-rygg.jpeg"
+image = "erik-rygg.jpg"
 type = "speaker"
 linktitle = "erik-rygg"
 

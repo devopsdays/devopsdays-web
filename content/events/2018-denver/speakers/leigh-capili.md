@@ -1,7 +1,7 @@
 +++
 Title = "Leigh Capili"
 Twitter = "capileigh"
-image = "leigh-capili.jpeg"
+image = "leigh-capili.jpg"
 type = "speaker"
 linktitle = "leigh-capili"
 
