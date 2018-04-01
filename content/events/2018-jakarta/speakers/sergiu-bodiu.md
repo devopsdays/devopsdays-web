@@ -1,7 +1,7 @@
 +++
 Title = "Sergiu Bodiu"
 Twitter = "sergiu_bodiu"
-image = "sergiu-bodiu.jpeg"
+image = "sergiu-bodiu.jpg"
 type = "speaker"
 linktitle = "sergiu-bodiu"
 
