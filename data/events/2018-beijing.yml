@@ -81,8 +81,9 @@ proposal_email: "proposals-beijing-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: alauda
     level: gold
-  - id: jfrog
+  - id: jfrogcn
     level: gold
+    url: http://www.jfrogchina.com
   - id: huawei
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
