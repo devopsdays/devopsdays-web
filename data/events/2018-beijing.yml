@@ -79,11 +79,15 @@ proposal_email: "proposals-beijing-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: sponsorname
+  - id: alauda
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-  - id: arresteddevops
-    level: community
+  - id: jfrogcn
+    level: gold
+    url: http://www.jfrogchina.com
+  - id: huawei
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -94,7 +98,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 2
+    max: 10
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
