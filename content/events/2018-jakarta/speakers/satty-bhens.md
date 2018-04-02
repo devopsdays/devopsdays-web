@@ -2,7 +2,7 @@
 title = "Satty Bhens"
 twitter = "sattybhens"
 linkedin = "https://www.linkedin.com/in/sattybhens/"
-image = "satty-bhens.jpeg"
+image = "satty-bhens.jpg"
 type = "speaker"
 linktitle = ["satty-bhens"]
 +++
