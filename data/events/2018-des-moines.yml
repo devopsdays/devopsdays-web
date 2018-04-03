@@ -258,7 +258,7 @@ program:
     start_time: "14:45"
     end_time: "15:00"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: "2018-04-12"
     start_time: "15:00"
     end_time: "16:45"
@@ -374,7 +374,7 @@ program:
     start_time: "14:45"
     end_time: "15:00"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: "2018-04-13"
     start_time: "15:00"
     end_time: "16:45"
