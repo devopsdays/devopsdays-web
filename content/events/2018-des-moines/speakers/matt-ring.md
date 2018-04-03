@@ -2,6 +2,7 @@
 Title = "Matt Ring"
 Twitter = "mjring"
 type = "speaker"
+image = "matt-ring.jpg"
 linktitle = "matt-ring"
 
 +++
