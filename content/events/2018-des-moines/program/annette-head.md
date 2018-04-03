@@ -4,7 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "Think Like a Tester – Puzzles and Games to Inspire Better Testing"
 Type = "talk"
-Speakers = ["annette-head"]
+Speakers = ["annette-head","brian-kampling"]
 +++
 
 Great software testing relies on more than technical acumen. Testers must be curious and flexible in their approach to testing. With the entire Devops team responsible for quality, dedicated testers may not be the only teammates testing your team's software. This requires a mindset shift for anyone moving between developing and testing. 
