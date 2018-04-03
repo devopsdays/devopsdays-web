@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "There and Back Again (a DevOps Journey)"
+Title = "There And Back Again - A DevOps Journey"
 Type = "talk"
 Speakers = ["giulio-vian"]
 +++

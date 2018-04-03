@@ -1,6 +1,6 @@
 +++
 Title = "Gloria Hornero"
-Twitter = ""
+Twitter = "madamesheema"
 linkedin = "https://www.linkedin.com/in/gloriahornero/"
 Website = ""
 image = "gloria-hornero.png"
