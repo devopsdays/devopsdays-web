@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Ignite Talk with Anders Truelsen"
+Title = "Anders Truelsen - Ignite Talk"
 Type = "talk"
 Speakers = ["anders-truelsen"]
 +++

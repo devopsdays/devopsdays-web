@@ -211,12 +211,12 @@ program:
     type: custom
     date: "2018-04-24"
     start_time: "17:00"
-    end_time: "18:30"
-  - title: "Dinner"
+    end_time: "18:00"
+  - title: "Street Food Dinner"
     type: custom
     date: "2018-04-24"
-    start_time: "18:30"
-    end_time: "21:00"
+    start_time: "18:00"
+    end_time: "20:30"
 
     # Day2 below:
 
