@@ -84,6 +84,8 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: alt
   - id: elastic
     level: gold
+  - id: cloudbees
+    level: social
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: social
@@ -98,7 +100,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: bronze
     label: Bronze
   - id: alt
-    label: Alternative
+    label: Ancillary
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
