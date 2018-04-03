@@ -31,10 +31,10 @@ location: "Moscow, Holiday Inn Sokolniki" # Defaults to city, but you can make i
 location_address: "Rusakovskaya Str. 24, Moscow, 107014" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: program
-  - name: propose
-  - name: speakers
   - name: location
+# - name: program
+  - name: propose
+# - name: speakers
   - name: registration
   - name: sponsor
   - name: contact
