@@ -86,7 +86,12 @@ sponsors:
     url: http://www.jfrogchina.com
   - id: huawei
     level: gold
+    url: https://www.huaweicloud.com/devcloud/
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: osschina
+    level: community
+  - id: ciotimes
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
