@@ -152,6 +152,9 @@ sponsors:
     level: community
   - id: jazoon
     level: community
+  - id: oracle
+    level: bronze
+    url: https://cloud.oracle.com/
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
