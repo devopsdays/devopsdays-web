@@ -32,8 +32,8 @@ location: "Computer History Museum" # Defaults to city, but you can make it the 
 location_address: " 1401 N Shoreline Blvd, Mountain View, CA 94043" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://dodsv2018.busyconf.com/proposals/new
+#  - name: propose
+#    url: https://dodsv2018.busyconf.com/proposals/new
   - name: location
   - name: registration
     url: https://dodsv2018.busyconf.com/bookings/new
@@ -70,6 +70,26 @@ proposal_email: "proposals-silicon-valley-2018@devopsdays.org" # Put your propos
  # - id: arresteddevops
  #   level: community
 
+sponsors:
+  - id: logz
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: cyberark-conjur
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: contrast_security
+    level: silver
+  - id: kaizenops
+    level: silver
+  - id: chef
+    level: absponsor
+  - id: facebook
+    level: bronze
+  - id: nclouds
+    level: bronze
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -77,20 +97,20 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: psponsor
+    label: Evening Party
   - id: gold
     label: Gold
     max: 10
+  - id: absponsor
+    label: Afternoon Break
+    max: 2
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
     max: 10
+    max: 1
   - id: community
     label: Community
-  - id: psponsor
-    label: Evening Party Sponsor
-    max: 1
-  - id: absponsor
-    label: Afternoon Break
-    max: 2

@@ -92,9 +92,9 @@ proposal_email: "proposals-tel-aviv-2017@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-cloudify
+  - id: cloudify
     level: lanyard
-  - id: 2017-cloudify
+  - id: cloudify
     level: silver
   - id: twistlock
     level: lunch
@@ -112,7 +112,7 @@ sponsors:
     level: silver
   - id: logzio
     level: silver
-  - id: facebook
+  - id: facebook-before-20170607
     level: silver
   - id: walkme
     level: silver
@@ -132,13 +132,13 @@ sponsors:
     level: workshoproom
   - id: outbrain
     level: breakfast
-  - id: 2017-oracle
+  - id: oracle
     level: silver
   - id: microsoft
     level: day1happyhour
   - id: ziprecruiter
     level: day2happyhour
-  - id: facebook
+  - id: facebook-before-20170607
     level: giveaway
   - id: cyberarktlv
     level: silver

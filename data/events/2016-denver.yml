@@ -64,7 +64,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: morpheus
     level: silver
-  - id: digitalocean
+  - id: digitalocean-before-20170726
     level: silver
   - id: rt
     level: silver

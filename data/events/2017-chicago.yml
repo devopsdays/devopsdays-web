@@ -138,7 +138,7 @@ sponsors:
     level: community
   - id: opsgenie
     level: gold
-  - id: 2017-facebook
+  - id: facebook
     level: silver
   - id: kcura-relativity
     level: silver
@@ -172,7 +172,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: arista
     level: silver

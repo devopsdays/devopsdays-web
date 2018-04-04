@@ -148,7 +148,7 @@ sponsors:
     level: platinum
   - id: thoughtworks-gocd
     level: platinum
-  - id: 2017-digitalocean
+  - id: digitalocean
     level: platinum
   - id: ns1
     level: platinum
@@ -160,7 +160,7 @@ sponsors:
     level: gold
   - id: nutanix
     level: gold
-  - id: 2017-instana
+  - id: instana
     level: gold
   - id: mabl
     level: gold
@@ -170,7 +170,7 @@ sponsors:
     level: gold
   - id: threatstack
     level: platinum
-  - id: cyberark
+  - id: cyberark-before-20180203
     level: gold
   - id: pivotal
     level: gold
@@ -180,7 +180,7 @@ sponsors:
     level: platinum
   - id: victorops
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: influxdata-before-20171218
     level: gold
@@ -188,7 +188,7 @@ sponsors:
     level: gold
   - id: actblue
     level: gold
-  - id: 2017-veracode
+  - id: veracode
     level: gold
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

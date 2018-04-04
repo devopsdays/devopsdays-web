@@ -65,6 +65,10 @@ proposal_email: "proposals-charlotte-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: datadog
+    level: gold
+  - id: dellemc
+    level: gold
   - id: dynatrace
     level: gold
   - id: microsoft
@@ -73,23 +77,41 @@ sponsors:
     level: gold
   - id: oracle-dyn
     level: gold
+  - id: pivotal
+    level: gold
   - id: red-ventures
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: chef
     level: silver
-  - id: 2018-cyberark
+  - id: cloudbees
     level: silver
-  - id: 2018-kaizenOps
+  - id: cyberark
+    level: silver
+  - id: forty8fifty-labs
+    level: silver
+  - id: kaizenops
     level: silver
   - id: roundtowertechnologies
     level: silver
-  - id: 2018-instana
+  - id: influxdata-before-201802
+    level: silver
+  - id: instana
+    level: silver
+  - id: newrelic
+    level: silver
+  - id: portworx
     level: silver
   - id: thoughtworks-gocd
     level: silver
+  - id: spoken
+    level: silver
   - id: sumologic
     level: silver
+  - id: accenture
+    level: bronze
+  - id: relus
+    level: bronze
   - id: arresteddevops
     level: community
 

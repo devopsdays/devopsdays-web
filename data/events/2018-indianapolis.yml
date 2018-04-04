@@ -3,7 +3,7 @@ year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Indianapolis" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysINDY" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 status: "current"
-description: "Devopsdays is coming to Indianapolis!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Indianapolis!" # Edit this to suit your preferences
 ga_tracking_id: "UA-109430778-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -15,7 +15,7 @@ cfp_date_start: 2017-11-09 # start accepting talk proposals.
 cfp_date_end: 2018-03-02 # close your call for proposals.
 cfp_date_announce: 2017-11-09 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysindy" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2017-11-09" # start accepting registration. Leave blank if registration is not open yet
@@ -32,16 +32,16 @@ location: "Indianapolis Marriott Downtown" # Defaults to city, but you can make 
 location_address: "350 W Maryland St, Indianapolis, IN 46225" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
-  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
   - name: volunteer
     url: 'https://goo.gl/forms/HK3ZbmgV7rDTwRGs2'
+  - name: registration
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -81,7 +81,15 @@ proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: aws
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: pivotal
+    level: gold
   - id: arresteddevops
+    level: community
+  - id: blacksintechnology
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

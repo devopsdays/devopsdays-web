@@ -7,8 +7,8 @@ description: "Devopsdays is coming to Cape Town!"
 ga_tracking_id: "UA-105986234-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:
-enddate:
+startdate: 2018-09-20
+enddate: 2018-09-21
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:
@@ -24,9 +24,9 @@ registration_date_end:
 registration_closed:
 registration_link:
 
-coordinates: ""
-location: "Cape Town"
-location_address: ""
+coordinates: "-33.935600, 18.457423"
+location: "Hilton Doubletree, Woodstock, Cape Town"
+location_address: "31 Brickfield Rd, Woodstock, Cape Town, 7935"
 
 nav_elements:
  # - name: propose

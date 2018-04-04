@@ -107,11 +107,28 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
     <td bgcolor="#1581AB">&nbsp;</td>
   </tr>
 
+
+  <tr>
+   <td>Shared table for stickers and brochures</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Promotional present distributed with goodie bag</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+ </tr>
+
   <tr>
     <td>Maximum Packages available</td>
-    <td><center>1</center></td>
-    <td><center>6</center></td>
-    <td><center>8</center></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td><center>12</center></td>
   </tr>
 

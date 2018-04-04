@@ -4,11 +4,12 @@ Type = "event"
 Description = "Sponsor devopsdays Baltimore 2018"
 +++
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. 
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers.
 
-The following chart outlines our sponsorship packages. If you have questions or are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
+The following chart outlines our sponsorship packages. If you have questions or are interested in sponsoring, please check out our [Frequently Asked Questions](https://docs.google.com/document/d/1kd33p3QlWEy786C7Y2cfKtvxsmYXyXucu0KCbtpv__A/), or drop us an email at {{< email_organizers >}}.
 
-[Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)
+[Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)    
+[Check out our sponsor FAQ Here](https://docs.google.com/document/d/1kd33p3QlWEy786C7Y2cfKtvxsmYXyXucu0KCbtpv__A/)
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -30,7 +31,7 @@ The following chart outlines our sponsorship packages. If you have questions or 
 </tr>
 <tr class="hed2">
 <td></td>
-<td><strong>$0 USD</strong></td>
+<td><strong>SOLD OUT</strong></td>
 <td><strong>$0 USD</strong></td>
 <td><strong>$1,000 USD</strong></td>
 <td><strong>$3,000 USD</strong></td>
@@ -137,7 +138,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <hr/>
 ### Happy Hour - $5,000    
 
-Happy Hour will be held on Wednesday, March 21 from 4:30PM to 7:30PM.  Conference
+Happy Hour will be held on Thursday, March 22 from 5PM to 7:30PM.  Conference
 attendees will be invited to stick around for happy hour.  Additionally, we will
 invite other members of the Baltimore technical community to join us, space
 permitting.  The Happy Hour sponsorship includes some special perks not listed in the table above.  
@@ -151,27 +152,27 @@ permitting.  The Happy Hour sponsorship includes some special perks not listed i
 * 1 minute pitch to full audience, including streaming audience, during the conference
 * 5 minute pitch to the happy hour attendees
 
-### Silver - $1,000 
+### Silver - $1,000
 
 * 2 included tickets
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2018 event website
 
-### Gold - $3,000 
+### Gold - $3,000
 
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 3 in total
 * Shared table for swag/marketing/staffing
 
-### Platinum - $5,000 
+### Platinum - $5,000
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
 * 2 additional tickets, 5 in total
 * Full table for swag/marketing/staffing
 
-### Media - $0 
+### Media - $0
 
 The media sponsorship is ideal for podcasts, blogs, news outlets, and other
 media who support DevOps.  This sponsorship is free but we ask that you share
@@ -184,7 +185,7 @@ Community Sponsor.
 * Logo on DevOpsDays Baltimore 2018 event website
 * Please contact {{< email_organizers >}} for details about becoming a media sponsor.
 
-### Community - $0 
+### Community - SOLD OUT
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
 other communities who support DevOps.  This sponsorship is free but we ask that
@@ -195,8 +196,7 @@ become a Community Sponsor.
 * 10% discount code to share with your members
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2018 event website
-* Please contact {{< email_organizers >}} for details about becoming a community
-sponsor.
+* No additional community sponsorships are available.
 
 [Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2018.busyconf.com/bookings/new?discount=SPONSOR)
 

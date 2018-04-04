@@ -9,6 +9,8 @@ Full reference of all fields and features is located in [REFERENCE.md](https://g
 
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new script in [contrib](contrib/).
 
+If you want others in your team to be able to preview/approve changes before they are merged, we recommend you follow [these steps](https://github.com/devopsdays/devopsdays-web/tree/master/utilities/docs/workflow) to work with your own repo prior to submitting a PR.
+
 ## Events
 
 Use [add_new_event.sh](add_new_event.sh) to add a new event.
@@ -139,7 +141,9 @@ slides = ""
 Set `$DOD_YEAR` and `$DOD_CITY` and the scripts won't ask
 for the year and city every time.
 
-Here are some useful bash exports/aliases. Add them to your `.bashrc`:
+Here are some useful bash exports/aliases. Add them to your `.bashrc` or
+copy `.envrc.example` to `.envrc` and run `direnv allow`. See
+[direnv](https://direnv.net/) for more info.
 
 ```
 # devopsdays

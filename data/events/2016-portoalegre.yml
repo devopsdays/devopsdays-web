@@ -47,7 +47,7 @@ proposal_email: "proposals-portoalegre-2016@devopsdays.org" # Put your proposal 
 sponsors:
   - id: thoughtworks-services
     level: gold
-  - id: instruct
+  - id: instruct-before-20170630
     level: gold
   - id: e-core
     level: bronze

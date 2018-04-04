@@ -10,11 +10,11 @@ startdate: 2018-05-03 # The start date of your event. Leave blank if you don't h
 enddate: 2018-05-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-02-26 # start accepting talk proposals.
+cfp_date_end: 2018-04-01  # close your call for proposals.
+cfp_date_announce: 2018-05-03 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,9 +31,9 @@ location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but yo
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -165,6 +165,8 @@ proposal_email: "proposals-austin-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: victorops
+    level: happyhour
   - id: scalyr
     level: lanyard
   - id: scalyr
@@ -172,6 +174,26 @@ sponsors:
   - id: appdynamics
     level: communityleader
   - id: opsgenie
+    level: communityleader
+  - id: ns1
+    level: communityleader
+  - id: servicenow
+    level: communityleader
+  - id: xmatters
+    level: communityleader
+  - id: sonatype
+    level: communityleader
+  - id: contrast_security
+    level: communityleader
+  - id: ciscodevnet
+    level: communityleader
+  - id: chef
+    level: communityleader
+  - id: cloudbees
+    level: communityleader
+  - id: redhat
+    level: communityleader
+  - id: striveconsulting
     level: communityleader
 #  - id: samplesponsorname
 #    level: gold

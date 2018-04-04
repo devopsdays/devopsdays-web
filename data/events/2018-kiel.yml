@@ -82,20 +82,20 @@ proposal_email: "proposals-kiel-2018@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2018-coreadmin
+  - id: coreadmin
     level: silver
     # url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
   - id: diwish
     level: supporter
-  - id: 2018-kiwi-kiel
+  - id: kiwi-kiel
     level: venue
   - id: wobe-systems
     level: tshirt
   - id: thoughtworks-gocd
     level: gold
-  - id: 2018-objektspektrum
+  - id: objektspektrum
     level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

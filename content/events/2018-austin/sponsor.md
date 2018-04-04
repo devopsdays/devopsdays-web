@@ -6,7 +6,7 @@ Description = "Sponsor DevOpsDays Austin Summit 2018"
 
 This year DevOpsDays Austin is using a slightly different "summit" format which affects how sponsorships work.  Even if you have sponsored other DevOpsDays or previously sponsored DevOpsDays Austin, please read the changes for this year as many things have changed.
 
-[DevOpsDays Austin Summit 2018 Sponsor Prospectus](https://drive.google.com/open?id=17FHnDiv4ps0RgPETsZO9ZuhOZiq_aQdr)
+[DevOpsDays Austin Summit 2018 Sponsor Prospectus](https://drive.google.com/open?id=19jZ4OhZUyLxRoi-RX64o5cISWAkgO1ZH)
 
 Feel free to contact us at [{{< email_organizers >}}] with any questions.
 
@@ -36,7 +36,7 @@ Many DevOpsDays use a small conference format, where there is a sponsor hall wit
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info">Pay Now to Be a Community Leader!</a>
 
-View the [sponsor prospectus](https://drive.google.com/open?id=17FHnDiv4ps0RgPETsZO9ZuhOZiq_aQdr) for more details about the Community Leader sponsorship.
+View the [sponsor prospectus](https://drive.google.com/open?id=19jZ4OhZUyLxRoi-RX64o5cISWAkgO1ZH) for more details about the Community Leader sponsorship.
 
 ### Visibility Option (+$500)
 
@@ -47,5 +47,3 @@ For an additional $500, Community Leaders can have their logo posted as signage,
 * Wireless (1 available)
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info">Pay Now to Be a Community Leader with a Visibility Option!</a>
-
-<hr/>

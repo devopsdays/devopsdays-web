@@ -120,7 +120,7 @@ sponsors_accepted: "yes"
 sponsors:
   - id: pivotal
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: c2fo
     level: gold
@@ -132,7 +132,7 @@ sponsors:
     level: silver
   - id: cerner
     level: bronze
-  - id: aws
+  - id: aws-before-20180313
     level: bronze
   - id: adaptivesg
     level: silver
@@ -166,7 +166,7 @@ sponsors:
     level: community
   - id: gitlab
     level: social
-  - id: cyberark
+  - id: cyberark-before-20180203
     level: silver
   - id: bluebaytechnologies
     level: bronze
