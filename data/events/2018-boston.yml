@@ -158,7 +158,7 @@ sponsors:
   #   level: gold
   # - id: threatstack
   #   level: platinum
-  # - id: cyberark-before-20180203
+  # - id: cyberark
   #   level: gold
   # - id: pivotal
   #   level: gold
@@ -168,9 +168,9 @@ sponsors:
   #   level: platinum
   # - id: victorops
   #   level: platinum
-  # - id: appdynamics-before-20180316
+  # - id: appdynamics
   #   level: gold
-  # - id: influxdata-before-20181218
+  # - id: influxdata
   #   level: gold
   # - id: pagerduty
   #   level: gold
