@@ -2,9 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Ignite Talk"
+Title = "Going DevOps – more than a developer discipline"
 Type = "talk"
 Speakers = ["anders-truelsen"]
 +++
 
-**A more detailed text of this ignite is on the way.** 
+Continuous deployment of applications requires that teams are able to build, but that is far from the entire story.
+
+In many real-life scenarios you need to connect the entire chain from development through traditional ITIL governed change management to a hosting provider that may not be entirely comfortable with continuous changes.
