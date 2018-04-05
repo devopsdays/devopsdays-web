@@ -81,7 +81,7 @@ else
 fi
 
 echo "Add this to ../data/events/"$event_slug".yml under sponsors:"
-echo "  - id: " $sponsor_slug
+echo "  - id:" $sponsor_slug
 echo "    level: theirlevel"
 
 
