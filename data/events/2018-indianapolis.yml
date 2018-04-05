@@ -99,6 +99,8 @@ sponsors:
     level: community
   - id: indycode
     level: community
+  - id: leaf-software-solutions
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
