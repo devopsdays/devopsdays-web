@@ -127,6 +127,8 @@ sponsors:
     level: bronze
   - id: developers-nl
     level: bronze
+  - id: working-spirit
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 
 # TODO: Need to figure out sponsor levels for 2018 before opening this up
@@ -148,7 +150,7 @@ sponsor_levels:
     max: "1"
   - id: gold
     label: Gold
-    max: "10"
+    max: "8"
   - id: silver
     label: Silver
     max: "7"
