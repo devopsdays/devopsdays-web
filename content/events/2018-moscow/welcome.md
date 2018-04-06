@@ -5,6 +5,12 @@ aliases = ["/events/2018-moscow/"]
 Description = "devopsdays Moscow 2018"
 +++
 
+<h2>{{< event_start >}}</h2>
+
+
+**DevOpsDays is coming to {{< event_location >}}!**
+**<em>Конференция DevOpsDays приходит в {{< event_link page="location" text="Москву!" >}}</em>**
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->

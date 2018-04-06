@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for devopsdays Moscow 2018"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+<div style='float:left;'><a href='http://hi-sokolniki.ru/'><img alt="HolidayInnSokolniki" title="HolidayInnSokolniki" src="/img/sponsors/HolidayInnSokolniki.png" class="img-responsive company-logo" height="100px" width="100px"/></a></div>
 
 Moscow, Holiday Inn Sokolniki<br> 
 <a href="http://maps.google.com/?q=Rusakovskaya%20Str.%2024%2c%20Moscow%2c%20107014">Rusakovskaya Str. 24, Moscow, 107014 </a>
