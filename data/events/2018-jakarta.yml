@@ -106,11 +106,11 @@ sponsors:
     level: community
   - id:  geekhunter
     level: community
+  - id:  bncc
+    level: community
   - id:  tech-in-asia
     level: media
   - id:  event-jakarta
-    level: media
-  - id:  bncc
     level: media
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
@@ -249,7 +249,7 @@ program:
     date: 2018-04-27
     start_time: "12:00"
     end_time: "14:00"
-  - title: "Ignites"
+  - title: "Panel Discussion"
     type: custom
     date: 2018-04-27
     start_time: "14:00"
