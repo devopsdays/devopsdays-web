@@ -146,7 +146,7 @@ sponsor_levels:
     max: "1"
   - id: gold
     label: Gold
-    max: "10"
+    max: "8"
   - id: silver
     label: Silver
     max: "7"
