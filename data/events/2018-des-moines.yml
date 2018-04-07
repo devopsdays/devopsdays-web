@@ -232,7 +232,7 @@ program:
     date: "2018-04-12"
     start_time: "13:00"
     end_time: "13:30"
-  - title: "tyler-treat"
+  - title: "brandon-carlson"
     type: talk
     date: "2018-04-12"
     start_time: "13:35"
@@ -283,8 +283,8 @@ program:
     date: "2018-04-13"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "Keynote"
-    type: custom
+  - title: "tyler-treat"
+    type: talk
     date: "2018-04-13"
     start_time: "9:15"
     end_time: "10:00"
