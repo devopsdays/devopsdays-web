@@ -85,12 +85,12 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
-  - id: opsgenie
-    level: platinum
   - id: pivotal
     level: platinum
   - id: dzone
     level: community
+    id: influxdata
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
