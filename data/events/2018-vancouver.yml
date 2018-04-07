@@ -414,13 +414,13 @@ program:
     start_time: "14:30"
     end_time: "15:00"
     background_color: "#ABEBFF"
-  - title: "Open Space - Slot 5"
+  - title: "Open Space - Slot 4"
     type: custom
     date: 2018-04-21
     start_time: "15:00"
     end_time: "16:00"
     background_color: "#FFB566"
-  - title: "Open Space - Slot 6"
+  - title: "Open Space - Slot 5"
     type: custom
     date: 2018-04-21
     start_time: "16:00"
