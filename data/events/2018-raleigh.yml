@@ -89,6 +89,8 @@ sponsors:
     level: platinum
   - id: dzone
     level: community
+    id: influxdata
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -17,4 +17,5 @@ before_script:
 
 script:
   - ls
+  - for i in $(find . -type f -name "*.sh"); do bash -n $i; done
   - gulp min-html --cwd .

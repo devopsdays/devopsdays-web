@@ -125,6 +125,8 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: newrelic
+    level: gold
   - id: techtown
     level: silver
   - id: rightstar
@@ -132,8 +134,6 @@ sponsors:
   - id: contrast_security
     level: silver
   - id: cloudbees
-    level: silver
-  - id: newrelic
     level: silver
   - id: realself
     level: bronze
