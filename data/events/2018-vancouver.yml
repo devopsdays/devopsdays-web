@@ -307,6 +307,16 @@ program:
     date: 2018-04-20
     start_time: "17:15"
     end_time: "17:30"
+  - title: "Relocate for Party 🎉"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "After Party"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:45"
+    end_time: "21:30"
   - title: "Registration opens and Welcome Coffee"
     type: custom
     date: 2018-04-21
@@ -431,13 +441,3 @@ program:
     date: 2018-04-21
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Relocate to Blackbird for Party 🎉"
-    type: custom
-    date: 2018-04-21
-    start_time: "17:15"
-    end_time: "17:30"
-  - title: "After Party @ Blackbird"
-    type: custom
-    date: 2018-04-21
-    start_time: "17:45"
-    end_time: "21:30"
