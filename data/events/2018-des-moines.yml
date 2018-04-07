@@ -217,8 +217,8 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "matt-stratton"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
