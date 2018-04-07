@@ -217,8 +217,8 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "matt-stratton"
-    type: talk
+  - title: "TBD"
+    type: custom
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
@@ -232,7 +232,7 @@ program:
     date: "2018-04-12"
     start_time: "13:00"
     end_time: "13:30"
-  - title: "tyler-treat"
+  - title: "brandon-carlson"
     type: talk
     date: "2018-04-12"
     start_time: "13:35"
@@ -283,8 +283,8 @@ program:
     date: "2018-04-13"
     start_time: "9:00"
     end_time: "9:15"
-  - title: "Keynote"
-    type: custom
+  - title: "tyler-treat"
+    type: talk
     date: "2018-04-13"
     start_time: "9:15"
     end_time: "10:00"
@@ -390,4 +390,8 @@ ignites:
   - title: "matt-ring-john-van-roekel2"
     date: 2018-04-12
   - title: "pete-torres"
+    date: 2018-04-13
+  - title: "chuck-rolek"
+    date: 2018-04-13
+  - title: "vincent-mutambuki"
     date: 2018-04-13

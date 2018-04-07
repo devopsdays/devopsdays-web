@@ -21,7 +21,7 @@ coordinates: "49.282732, -123.121096" # The coordinates of your city. Get Latitu
 location: "UBC Robson Square" # Defaults to city, but you can make it the venue name.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-    # - name: program
+    - name: program
     # - name: livestream
     - name: sponsor
     - name: registration
@@ -162,10 +162,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 10
+    max: 1
   - id: gold
     label: Gold
-    max: 10
+    max: 8
   - id: silver
     label: Silver
   - id: bronze
@@ -182,3 +182,262 @@ sponsor_levels:
   - id: cfp
     label: CFP
     max: 1
+
+program:
+  - title: "Registration opens and Welcome Coffee"
+    type: custom
+    date: 2018-04-20
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Day 1 Opening Statements"
+    type: custom
+    date: 2018-04-20
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "Jan Ulrich: Path to Containers: Kubernetes in Production"
+    type: custom
+    date: 2018-04-20
+    start_time: "9:15"
+    end_time: "9:45"
+    background_color: "#ABEBFF"
+  - title: "Holly Burton: 5 Conversations I'm Sick of Having About Diversity"
+    type: custom
+    date: 2018-04-20
+    start_time: "9:45"
+    end_time: "10:15"
+    background_color: "#ABEBFF"
+  - title: "Message from Sponsors"
+    type: custom
+    date: 2018-04-20
+    start_time: "10:15"
+    end_time: "10:20"
+    background_color: "gold"
+  - title: "Break"
+    type: custom
+    date: 2018-04-20
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Emily Morehouse-Valcarcel: The AST and Me"
+    type: custom
+    date: 2018-04-20
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#ABEBFF"
+  - title: "Amin Yazdani: Psychology of Estimation: Faster is not always better"
+    type: custom
+    date: 2018-04-20
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ABEBFF"
+  - title: "Open Space Introduction"
+    type: custom
+    date: 2018-04-20
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2018-04-20
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (voting during)"
+    type: custom
+    date: 2018-04-20
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Opening"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Tiffany Longworth: Devops preppers: What the zombie apocalypse can teach us about incident management"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:35"
+    end_time: "13:40"
+    background_color: "#C3FFD7"
+  - title: "Vincent Janelle: I have a hammer and everything looks like a nail; infrastructure automation with ansible"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:40"
+    end_time: "13:45"
+    background_color: "#C3FFD7"
+  - title: "Kyle Young: On the Virtues of Being T-Shaped"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:45"
+    end_time: "13:50"
+    background_color: "#C3FFD7"
+  - title: "Heidi Waterhouse: The Devil's DevOps"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:50"
+    end_time: "13:55"
+    background_color: "#C3FFD7"
+  - title: "Shawn Sterling: Enterprise Problems – DevOps in Very Large Enterprise"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:55"
+    end_time: "14:00"
+    background_color: "#C3FFD7"
+  - title: "Open Space - Slot 1"
+    type: custom
+    date: 2018-04-20
+    start_time: "14:00"
+    end_time: "15:00"
+    background_color: "#FFB566"
+  - title: "Open Space - Slot 2"
+    type: custom
+    date: 2018-04-20
+    start_time: "15:00"
+    end_time: "16:00"
+    background_color: "#FFB566"
+  - title: "Open Space - Slot 3"
+    type: custom
+    date: 2018-04-20
+    start_time: "16:00"
+    end_time: "17:00"
+    background_color: "#FFB566"
+  - title: "Closing Comments"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "End of Day"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Relocate for Party 🎉"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "After Party"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:45"
+    end_time: "21:30"
+  - title: "Registration opens and Welcome Coffee"
+    type: custom
+    date: 2018-04-21
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Day 2 Opening Statements"
+    type: custom
+    date: 2018-04-21
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "Willy-Peter Schaub: Progressive exposure using deployment rings and feature flags"
+    type: custom
+    date: 2018-04-21
+    start_time: "9:15"
+    end_time: "9:45"
+    background_color: "#ABEBFF"
+  - title: "Jeremy Pierre: Developer to Manager (and back, and back again)"
+    type: custom
+    date: 2018-04-21
+    start_time: "9:45"
+    end_time: "10:15"
+    background_color: "#ABEBFF"
+  - title: "Message from Sponsors"
+    type: custom
+    date: 2018-04-21
+    start_time: "10:15"
+    end_time: "10:20"
+    background_color: "gold"
+  - title: "Break"
+    type: custom
+    date: 2018-04-21
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Kenzie Woodbridge: Everyone's a player (in a mid-90s MUD)"
+    type: custom
+    date: 2018-04-21
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#ABEBFF"
+  - title: "Will Whittaker: Bitrot: A Story of Maintenance Failure"
+    type: custom
+    date: 2018-04-21
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ABEBFF"
+  - title: "Open Space Introduction"
+    type: custom
+    date: 2018-04-21
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2018-04-21
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (voting during)"
+    type: custom
+    date: 2018-04-21
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Opening"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Aiden Brine: Building a Heroku Database Processing App"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:35"
+    end_time: "13:40"
+    background_color: "#C3FFD7"
+  - title: "Brenton Bartell: Coaching DevOps : Lessons from Sports"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:40"
+    end_time: "13:45"
+    background_color: "#C3FFD7"
+  - title: "Chad: Inertia: Simple Self-hosted Continuous Deployment"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:45"
+    end_time: "13:50"
+    background_color: "#C3FFD7"
+  - title: "Yaroslav Tkachenko: 10 tips for making Bash a sane programming language"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:50"
+    end_time: "13:55"
+    background_color: "#C3FFD7"
+  - title: "Heidi Waterhouse: Feature Flag Flops"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:55"
+    end_time: "14:00"
+    background_color: "#C3FFD7"
+  - title: "John Rauser: Dealing with Dark Debt in your Culture"
+    type: custom
+    date: 2018-04-21
+    start_time: "14:00"
+    end_time: "14:30"
+    background_color: "#ABEBFF"
+  - title: "Kris Nova: Moving an enterprise monolith to Kubernetes"
+    type: custom
+    date: 2018-04-21
+    start_time: "14:30"
+    end_time: "15:00"
+    background_color: "#ABEBFF"
+  - title: "Open Space - Slot 4"
+    type: custom
+    date: 2018-04-21
+    start_time: "15:00"
+    end_time: "16:00"
+    background_color: "#FFB566"
+  - title: "Open Space - Slot 5"
+    type: custom
+    date: 2018-04-21
+    start_time: "16:00"
+    end_time: "17:00"
+    background_color: "#FFB566"
+  - title: "Closing Comments"
+    type: custom
+    date: 2018-04-21
+    start_time: "17:00"
+    end_time: "17:15"
