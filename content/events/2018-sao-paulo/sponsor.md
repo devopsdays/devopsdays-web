@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays São Paulo 2018"
 +++
 <b>
-The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here])(https://drive.google.com/drive/folders/1YdoBY_heQZ3bbHqCqDqmarmIOKnawVli). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here])(https://drive.google.com/drive/folders/1YdoBY_heQZ3bbHqCqDqmarmIOKnawVli). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
 </b>
 
 
