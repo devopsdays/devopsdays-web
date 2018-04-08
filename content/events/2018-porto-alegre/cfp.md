@@ -5,6 +5,8 @@ Description = "Propose a talk for devopsdays Porto Alegre 2018"
 +++
   {{< cfp_dates >}}
 
+<center>**Link para submissões:** https://www.papercall.io/devopsdayspoa2018</center>
+
 <hr>
 
 ## Tipos de apresentações
@@ -13,7 +15,7 @@ Há três tipos de apresentações no devopsdays:
 
 1. Palestras de **15 minutos** apresentadas durante a conferência.
 2. **Ignite talk** durante a [seção ignite](/pages/ignite-talks-format), são slots de 5 minutos no qual os slides são alterados a cada 15 segundos (20 slides no total).
-3. **Open Space**: Se você gostaria de coordenar um grupo de discussão durante o evento, poderá fazê-lo numa sessão [Open Space](/pages/open-space-format). Não é necessário propor antes da conferência. Os tópicos são sugeridos durante a conferência. Se você quiser mostrar um produto ou serviço, você poderá fazê-lo como [patrocinador](../patrocinio) e mostrar uma demo na mesa respectiva dos patrocinadores.
+3. **Open Space**: Se você gostaria de coordenar um grupo de discussão durante o evento, poderá fazê-lo numa sessão [Open Space](/pages/open-space-format). Não é necessário propor antes da conferência. Os tópicos são sugeridos durante a conferência. Se você quiser mostrar um produto ou serviço, você poderá fazê-lo como [patrocinador](../sponsor) e mostrar uma demo na mesa respectiva dos patrocinadores.
 
 <hr>
 
