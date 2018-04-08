@@ -51,6 +51,16 @@ team_members: # Name is the only required field for team members.
   - name: "Michael Krivilev"
   - name: "Mariya Minailova"
   - name: "Sergey Rusanov"
+    employer: "Logrocon"
+    twitter: ""
+    bio: ""
+    image: "sergey-rusanov.jpg"
+
+  - name: "Ilya Zverev"
+    employer: "Logrocon"
+    twitter: ""
+    bio: ""
+    image: "ilya-zverev.jpg"
   - name: "Irina Puchkova"
   - name: "Vladislav Zavisnov"
 organizer_email: "organizers-moscow-2018@devopsdays.org" # Put your organizer email address here
@@ -64,12 +74,14 @@ sponsors:
   - id: Cleverics
     level: gold	
   - id: HolidayInnSokolniki
-    level: venuesponsor
+    level: venue
     url: http://hi-sokolniki.ru/ # Use this if you need to over-ride a sponsor URL. 
   - id: samplesponsorname
     level: gold	
   - id: arresteddevops
     level: community
+  - id: realitsm
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
