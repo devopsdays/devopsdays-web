@@ -312,6 +312,8 @@ program:
     end_time: "17:00"
 
 ignites:
+  - title: "lars-kruse"
+    date: "2018-04-24"
   - title: "niels-harre"
     date: "2018-04-24"
   - title: "allan-ebdrup"
@@ -324,6 +326,5 @@ ignites:
     date: "2018-04-25"
   - title: "anders-truelsen"
     date: "2018-04-25"
-  - title: "lars-kruse"
-    date: "2018-04-25"
+  
   

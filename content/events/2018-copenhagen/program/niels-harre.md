@@ -7,6 +7,6 @@ Type = "talk"
 Speakers = ["niels-harre"]
 +++
 
-**Implementing DevOps in an organization meet many challenges.**
+**Implementing DevOps in an organization meets many challenges.**
 
 It could include changes in tool stack, technology, and organizational structures. With the knowledge we have today, what learnings can we apply when implementing DevOps in an organization?
