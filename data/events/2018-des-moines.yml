@@ -217,8 +217,8 @@ program:
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "TBD"
-    type: custom
+  - title: "matt-ring-john-van-roekel"
+    type: talk
     date: "2018-04-12"
     start_time: "11:25"
     end_time: "11:55"
@@ -359,11 +359,6 @@ program:
     start_time: "14:10"
     end_time: "14:40"
   - title: "beau-lyddon"
-    type: talk
-    date: "2018-04-13"
-    start_time: "14:10"
-    end_time: "14:40"
-  - title: "matt-ring-john-van-roekel"
     type: talk
     date: "2018-04-13"
     start_time: "14:10"
