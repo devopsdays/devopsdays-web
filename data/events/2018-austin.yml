@@ -185,9 +185,15 @@ sponsors:
     level: communityleader
   - id: contrast_security
     level: communityleader
-  - id: cisco
+  - id: ciscodevnet
     level: communityleader
   - id: chef
+    level: communityleader
+  - id: cloudbees
+    level: communityleader
+  - id: redhat
+    level: communityleader
+  - id: striveconsulting
     level: communityleader
 #  - id: samplesponsorname
 #    level: gold

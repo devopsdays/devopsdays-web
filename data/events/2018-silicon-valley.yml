@@ -32,8 +32,8 @@ location: "Computer History Museum" # Defaults to city, but you can make it the 
 location_address: " 1401 N Shoreline Blvd, Mountain View, CA 94043" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://dodsv2018.busyconf.com/proposals/new
+#  - name: propose
+#    url: https://dodsv2018.busyconf.com/proposals/new
   - name: location
   - name: registration
     url: https://dodsv2018.busyconf.com/bookings/new
@@ -76,10 +76,18 @@ sponsors:
   - id: xmatters
     level: gold
   - id: cyberark-conjur
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: contrast_security
+    level: silver
+  - id: kaizenops
     level: silver
   - id: chef
     level: absponsor
   - id: facebook
+    level: bronze
+  - id: nclouds
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

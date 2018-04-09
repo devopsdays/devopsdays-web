@@ -50,7 +50,7 @@ team_members: # Name is the only required field for team members.
     twitter: "cacorriere"
 
   - name: "John Dyer"
-    image: "john-dyer.png"
+    image: "john-dyer.jpg"
     twitter: "thedyers"
 
   - name: "Andre Thenot"
@@ -58,7 +58,7 @@ team_members: # Name is the only required field for team members.
     twitter: "athenot"
 
   - name: "John Willis"
-    image: "john-willis.png"
+    image: "john-willis.jpg"
     twitter: "botchagalupe"
 
   - name: "Ann Vu"
@@ -89,7 +89,7 @@ sponsors:
     level: gold
   - id: scalyr
     level: gold
-  - id: dell
+  - id: dellemc
     level: gold
   - id: mesosphere
     level: gold
@@ -156,7 +156,7 @@ program:
     date: "2018-04-17"
     start_time: "09:45"
     end_time: "09:55"
-  - title: "talk-2"
+  - title: "jamie-knight"
     type: talk
     date: "2018-04-17"
     start_time: "09:55"
@@ -166,7 +166,7 @@ program:
     date: "2018-04-17"
     start_time: "10:25"
     end_time: "10:40"
-  - title: "talk-3"
+  - title: "seth-vargo"
     type: talk
     date: "2018-04-17"
     start_time: "10:40"
@@ -186,8 +186,8 @@ program:
     date: "2018-04-17"
     start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
-    type: custom
+  - title: "Ignite Talks:"
+    type: ignite
     date: "2018-04-17"
     start_time: "13:00"
     end_time: "13:30"
@@ -232,7 +232,7 @@ program:
     date: "2018-04-18"
     start_time: "09:00"
     end_time: "09:15"
-  - title: "talk-5"
+  - title: "elissa-shevinsky"
     type: talk
     date: "2018-04-18"
     start_time: "09:15"
@@ -242,7 +242,7 @@ program:
     date: "2018-04-18"
     start_time: "09:45"
     end_time: "09:55"
-  - title: "talk-6"
+  - title: "alex-harms"
     type: talk
     date: "2018-04-18"
     start_time: "09:55"
@@ -252,7 +252,7 @@ program:
     date: "2018-04-18"
     start_time: "10:25"
     end_time: "10:40"
-  - title: "talk-7"
+  - title: "dustin-bennett"
     type: talk
     date: "2018-04-18"
     start_time: "10:40"
@@ -262,7 +262,7 @@ program:
     date: "2018-04-18"
     start_time: "11:10"
     end_time: "11:20"
-  - title: "talk-8"
+  - title: "nathen-harvey"
     type: talk
     date: "2018-04-18"
     start_time: "11:20"
@@ -272,8 +272,8 @@ program:
     date: "2018-04-18"
     start_time: "11:50"
     end_time: "13:00"
-  - title: "Ignites"
-    type: custom
+  - title: "Ignite Talks:"
+    type: ignite
     date: "2018-04-18"
     start_time: "13:00"
     end_time: "13:30"
@@ -302,3 +302,24 @@ program:
     date: "2018-04-18"
     start_time: "16:45"
     end_time: "17:00"
+ignites:
+  - title: "matt-stratton"
+    date: "2018-04-17"
+  - title: "kayla-rodriguez"
+    date: "2018-04-17"
+  - title: "ravi-lachhman"
+    date: "2018-04-17"
+  - title: "bennett-gaddes"
+    date: "2018-04-17"
+  - title: "alicia-carr"
+    date: "2018-04-17"
+  - title: "lee-fox"
+    date: "2018-04-18"
+  - title: "rob-marlow"
+    date: "2018-04-18"
+  - title: "david-cameron"
+    date: "2018-04-18"
+  - title: "brian-pitts"
+    date: "2018-04-18"
+  - title: "ryan-lockard"
+    date: "2018-04-18"

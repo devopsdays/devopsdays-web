@@ -99,6 +99,10 @@ sponsors:
     level: silver
   - id:  apl
     level: community
+  - id:  assespro
+    level: community
+  - id:  fourlinux
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

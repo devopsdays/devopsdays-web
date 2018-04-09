@@ -87,15 +87,13 @@ sponsors:
     level: gold
   - id: slalom
     level: gold
-  - id: signalfx
-    level: gold
   - id: influxdata
     level: gold
   - id: pagerduty
     level: gold
   - id: ignw
     level: gold
-  - id: automic
+  - id: ca_tech
     level: gold
   - id: chef
     level: gold
@@ -111,17 +109,31 @@ sponsors:
     level: gold
   - id: portworx
     level: gold
-  - id: dell
+  - id: dellemc
     level: gold
   - id: launch-darkly
     level: gold
   - id: getty-images
+    level: gold
+  - id: victorops
+    level: gold
+  - id: tasktop
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: elastic
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: newrelic
     level: gold
   - id: techtown
     level: silver
   - id: rightstar
     level: silver
   - id: contrast_security
+    level: silver
+  - id: cloudbees
     level: silver
   - id: realself
     level: bronze
@@ -241,8 +253,8 @@ program:
     date: 2018-04-24
     start_time: "16:20"
     end_time: "16:50"
-  - title: "Tech Session TBA"
-    type: custom
+  - title: "doug-ireton"
+    type: workshop
     date: 2018-04-24
     start_time: "16:20"
     end_time: "16:50"
