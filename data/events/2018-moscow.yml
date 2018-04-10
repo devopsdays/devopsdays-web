@@ -98,7 +98,7 @@ sponsors:
     level: gold	
   - id: HolidayInnSokolniki
     level: venue
-    url: http://hi-sokolniki.ru/ # Use this if you need to over-ride a sponsor URL. 
+#    url: http://hi-sokolniki.ru/ # Use this if you need to over-ride a sponsor URL. 
   - id: samplesponsorname
     level: gold	
   - id: arresteddevops
