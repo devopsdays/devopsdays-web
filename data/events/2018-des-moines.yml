@@ -242,7 +242,7 @@ program:
     date: "2018-04-12"
     start_time: "13:15"
     end_time: "13:45"
-  - title: "brandon-carlson"
+  - title: "chad-thompson"
     type: talk
     date: "2018-04-12"
     start_time: "13:45"
@@ -373,7 +373,7 @@ program:
     date: "2018-04-13"
     start_time: "13:15"
     end_time: "13:45"
-  - title: "chad-thompson"
+  - title: "brandon-carlson"
     type: talk
     date: "2018-04-13"
     start_time: "13:45"
@@ -415,8 +415,10 @@ ignites:
   - title: "matt-ring-john-van-roekel2"
     date: 2018-04-12
   - title: "pete-torres"
-    date: 2018-04-13
+    date: 2018-04-12
   - title: "chuck-rolek"
     date: 2018-04-13
   - title: "vincent-mutambuki"
+    date: 2018-04-13
+  - title: "chad-thompson2"
     date: 2018-04-13

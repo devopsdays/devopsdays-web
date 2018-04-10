@@ -60,14 +60,14 @@ Description = "devopsdays Moscow 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Speakers</strong>
+    <strong>Speakers (<em>Спикеры</em>):</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Want to become a speaker? Tell us! <br>Хотите стать спикером? Напишите нам! <br>{{< email_organizers >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

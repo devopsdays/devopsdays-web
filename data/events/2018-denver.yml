@@ -35,8 +35,6 @@ team_members: # Name is the only required field for team members.
   - name: "Beau Christensen"
     twitter: "beauchristensen"
   - name: "Joe Thompson"
-  - name: "Hannah Klemme"
-    twitter: "msklemme"
   - name: "Nick Huanca"
     twitter: "NickHuanca"
   - name: "Ryan Koch"
