@@ -4,7 +4,6 @@ Talk_start_time = "17:00"
 Talk_end_time = "21:00"
 Title = "Evening Event"
 Type = "talk"
-Speakers = ["tim-gifford"]
 +++
 
 ## Party Details:
