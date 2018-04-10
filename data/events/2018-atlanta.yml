@@ -252,7 +252,7 @@ program:
     date: "2018-04-18"
     start_time: "10:25"
     end_time: "10:40"
-  - title: "dustin-bennett"
+  - title: "chris-short"
     type: talk
     date: "2018-04-18"
     start_time: "10:40"
@@ -303,8 +303,7 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
-  - title: "matt-stratton"
-    date: "2018-04-17"
+
   - title: "kayla-rodriguez"
     date: "2018-04-17"
   - title: "ravi-lachhman"
@@ -313,7 +312,7 @@ ignites:
     date: "2018-04-17"
   - title: "alicia-carr"
     date: "2018-04-17"
-  - title: "lee-fox"
+  - title: "valarie-regas"
     date: "2018-04-18"
   - title: "rob-marlow"
     date: "2018-04-18"
