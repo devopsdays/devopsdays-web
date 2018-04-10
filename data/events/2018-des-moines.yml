@@ -282,7 +282,7 @@ program:
     date: "2018-04-12"
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening Event"
+  - title: "evening-event"
     type: custom
     date: "2018-04-12"
     start_time: "17:00"
