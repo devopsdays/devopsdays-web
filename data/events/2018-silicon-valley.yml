@@ -77,14 +77,14 @@ sponsors:
     level: gold
   - id: cyberark-conjur
     level: gold
-  - id: dynatrace
-    level: gold
   - id: contrast_security
     level: silver
   - id: kaizenops
     level: silver
   - id: chef
     level: absponsor
+  - id: dynatrace
+    level: absponsor  
   - id: facebook
     level: bronze
   - id: nclouds
