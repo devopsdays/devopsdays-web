@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["lars-kruse"]
 +++
 
-T**he detailed description of this ignite talk is on the way**
+Back in 1969 - Dr. Elisabeth Kübler-Ross introduced her model of five stages in loss and grief: Denial, Anger, Bargaining, Depression and Acceptance. Join this ignite, to get a perspective on how the same five stages apply to corporations trying to adopt to DevOps and LEAN software development.

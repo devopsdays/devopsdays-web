@@ -103,6 +103,10 @@ sponsors:
     level: silver
   - id: macstadium
     level: silver
+  - id: suntrust
+    level: silver
+  - id: experitest
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -252,7 +256,7 @@ program:
     date: "2018-04-18"
     start_time: "10:25"
     end_time: "10:40"
-  - title: "dustin-bennett"
+  - title: "chris-short"
     type: talk
     date: "2018-04-18"
     start_time: "10:40"
@@ -303,7 +307,8 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
-  - title: "matt-stratton"
+
+  - title: "brian-pitts"
     date: "2018-04-17"
   - title: "kayla-rodriguez"
     date: "2018-04-17"
@@ -313,13 +318,11 @@ ignites:
     date: "2018-04-17"
   - title: "alicia-carr"
     date: "2018-04-17"
-  - title: "lee-fox"
+  - title: "valarie-regas"
     date: "2018-04-18"
   - title: "rob-marlow"
     date: "2018-04-18"
   - title: "david-cameron"
-    date: "2018-04-18"
-  - title: "brian-pitts"
     date: "2018-04-18"
   - title: "ryan-lockard"
     date: "2018-04-18"

@@ -20,7 +20,7 @@ cfp_open: "false"
 registration_date_start: 2017-12-20 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-02-27 # close registration. Leave blank if registration is not open yet.
 
-# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "https://www.eventbrite.com/e/devopsdays-jakarta-tickets-42226649044" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 #
@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
  # - name: propose
-  - name: registration
+ # - name: registration
  # - name: sponsor
   - name: contact
   - name: conduct
@@ -239,43 +239,43 @@ program:
     date: 2018-04-27
     start_time: "11:00"
     end_time: "11:35"
-  - title: "vincent-de-smet"
-    type: talk
-    date: 2018-04-27
-    start_time: "11:35"
-    end_time: "12:10"
   - title: "Lunch Break & Friday Prayer"
     type: custom
     date: 2018-04-27
-    start_time: "12:00"
-    end_time: "14:00"
+    start_time: "11:35"
+    end_time: "13:30"
   - title: "Panel Discussion"
     type: custom
     date: 2018-04-27
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "vincent-de-smet"
+    type: talk
+    date: 2018-04-27
     start_time: "14:00"
-    end_time: "14:30"
+    end_time: "14:35"
   - title: "rajesh-kumar"
     type: talk
     date: 2018-04-27
-    start_time: "14:30"
-    end_time: "15:05"
+    start_time: "14:35"
+    end_time: "15:10"
   - title: "satty-bhens"
     type: talk
     date: 2018-04-27
-    start_time: "15:05"
-    end_time: "15:50"
+    start_time: "15:10"
+    end_time: "15:55"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2018-04-27
-    start_time: "15:50"
-    end_time: "16:00"
+    start_time: "15:55"
+    end_time: "16:05"
   - title: "Open Spaces"
     type: custom
     date: 2018-04-27
-    start_time: "16:00"
-    end_time: "17:15"
+    start_time: "16:05"
+    end_time: "17:20"
   - title: "Close Day"
     type: custom
     date: 2018-04-27
-    start_time: "17:15"
+    start_time: "17:20"
     end_time: "17:30"

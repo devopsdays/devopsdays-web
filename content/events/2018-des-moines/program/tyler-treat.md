@@ -1,7 +1,7 @@
 +++
 Talk_date = "2018-04-12"
-Talk_start_time = "13:00"
-Talk_end_time = "13:30"
+Talk_start_time = "09:15"
+Talk_end_time = "10:00"
 Title = "The Future of Ops"
 Type = "talk"
 Speakers = ["tyler-treat"]
