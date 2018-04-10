@@ -283,7 +283,7 @@ program:
     start_time: "16:45"
     end_time: "17:00"
   - title: "evening-event"
-    type: custom
+    type: talk
     date: "2018-04-12"
     start_time: "17:00"
     end_time: "21:00"
