@@ -192,7 +192,7 @@ program:
     date: "2018-04-12"
     start_time: "10:15"
     end_time: "10:45"
-  - title: "Break With Snack"
+  - title: "Break"
     type: custom
     date: "2018-04-12"
     start_time: "10:45"
@@ -246,7 +246,7 @@ program:
     type: talk
     date: "2018-04-12"
     start_time: "13:45"
-    end_time: "14:45"
+    end_time: "14:30"
   - title: "Break"
     type: custom
     date: "2018-04-12"
@@ -267,7 +267,7 @@ program:
     date: "2018-04-12"
     start_time: "14:45"
     end_time: "15:15"
-  - title: "Break With Snack"
+  - title: "Break"
     type: custom
     date: "2018-04-12"
     start_time: "15:15"
