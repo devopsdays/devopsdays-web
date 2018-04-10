@@ -103,6 +103,10 @@ sponsors:
     level: silver
   - id: macstadium
     level: silver
+  - id: suntrust
+    level: silver
+  - id: experitest
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -304,6 +308,8 @@ program:
     end_time: "17:00"
 ignites:
 
+  - title: "brian-pitts"
+    date: "2018-04-17"
   - title: "kayla-rodriguez"
     date: "2018-04-17"
   - title: "ravi-lachhman"
@@ -317,8 +323,6 @@ ignites:
   - title: "rob-marlow"
     date: "2018-04-18"
   - title: "david-cameron"
-    date: "2018-04-18"
-  - title: "brian-pitts"
     date: "2018-04-18"
   - title: "ryan-lockard"
     date: "2018-04-18"
