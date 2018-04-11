@@ -282,8 +282,8 @@ program:
     date: "2018-04-12"
     start_time: "16:45"
     end_time: "17:00"
-  - title: "evening-event"
-    type: talk
+  - title: "Baratta’s at Forté - Evening Event (Click the \"Location\" link at the top of the page for more information)"
+    type: custom
     date: "2018-04-12"
     start_time: "17:00"
     end_time: "21:00"
