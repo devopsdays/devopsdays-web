@@ -1,7 +1,7 @@
 +++
 Title = "Chuck Rolek"
 type = "speaker"
-image = "chuck-rolek.jpeg"
+image = "chuck-rolek.jpg"
 linktitle = "chuck-rolek"
 
 +++
