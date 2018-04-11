@@ -39,11 +39,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "pencil"
     url: /events/2018-sao-paulo/registration
 
- # - name: program
- #   icon: "book"
+  # - name: program
+  #   icon: "book"
 
- # - name: speakers
- #   icon: "microphone"
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2018-sao-paulo/speakers
 
   - name: patrocínio
     url: /events/2018-sao-paulo/sponsor
