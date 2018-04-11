@@ -42,8 +42,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: program
   #   icon: "book"
 
-  - name: speakers
+  - name: palestrantes
     icon: "microphone"
+    url: /events/2018-sao-paulo/speakers
 
   - name: patrocínio
     url: /events/2018-sao-paulo/sponsor
