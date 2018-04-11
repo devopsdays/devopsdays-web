@@ -74,6 +74,9 @@ proposal_email: "proposals-vancouver-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+   - id: sensu
+     level: platinum
+
    - id: treasuredata
      level: gold
    - id: trinimbus
@@ -97,10 +100,14 @@ sponsors:
      level: silver
    - id: sourcedgroup
      level: silver
+   - id: worksafebc
+     level: silver
 
    - id: unbounce
      level: bronze
    - id: statsearchanalytics
+     level: bronze
+   - id: itglue
      level: bronze
    
    - id: polyglot
@@ -194,7 +201,7 @@ program:
     date: 2018-04-20
     start_time: "9:00"
     end_time: "9:15"
-  - title: "Jan Ulrich: Path to Containers: Kubernetes in Production"
+  - title: "Heidi Waterhouse: Y2K and Other Disappointing Disasters"
     type: custom
     date: 2018-04-20
     start_time: "9:15"
@@ -406,7 +413,7 @@ program:
     start_time: "13:50"
     end_time: "13:55"
     background_color: "#C3FFD7"
-  - title: "Heidi Waterhouse: Feature Flag Flops"
+  - title: "TBD"
     type: custom
     date: 2018-04-21
     start_time: "13:55"
