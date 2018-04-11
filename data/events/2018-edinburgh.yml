@@ -92,6 +92,8 @@ proposal_email: "proposals-edinburgh-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: freeagent
+    level: bronze
 #   - id: samplesponsorname
 #     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
@@ -110,8 +112,8 @@ sponsor_levels:
     max: 6
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+  # - id: community
+  #   label: Community
   - id: social
     label: Social
     max: 2
