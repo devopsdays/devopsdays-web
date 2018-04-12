@@ -129,6 +129,8 @@ sponsors:
     level: bronze
   - id: working-spirit
     level: bronze
+  - id: fastly
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 
 # TODO: Need to figure out sponsor levels for 2018 before opening this up
