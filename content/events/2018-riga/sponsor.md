@@ -62,7 +62,7 @@ networking, branding, and talent recruitment.</p>
   </tr>
   <tr>
     <td class="tg-y49x"></td>
-    <td class="tg-h7od">6 more available</td>
+    <td class="tg-h7od">4 more available</td>
     <td class="tg-h7od">2 more available</td>
   </tr>
   <tr>
