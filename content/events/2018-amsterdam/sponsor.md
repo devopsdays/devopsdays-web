@@ -47,12 +47,12 @@ Description = "Sponsor devopsdays Amsterdam 2018"
     <tr>
       <td style="padding-left: 5px">Included tickets</td>
       <td><center>1</center></td>
-      <td><center>2</center></td>
+      <td><center><strike>2</strike></center></td>
+      <td><center><strike>3</strike></center></td>
+      <td><center><strike>2</strike></center></td>
       <td><center>3</center></td>
-      <td><center>2</center></td>
-      <td><center>2</center></td>
       <td><center>3</center></td>
-      <td><center>3</center></td>
+      <td><center><strike>3</strike></center></td>
       <td><center>3</center></td>
     </tr>
     <tr>
