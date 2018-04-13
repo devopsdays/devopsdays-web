@@ -1,7 +1,7 @@
 +++
 Title = "Gustavo Pantuza"
 Twitter = "gpantuza"
-image = ""
+image = "gustavo-pantuza.jpg"
 website = "https://blog.pantuza.com"
 type = "speaker"
 linktitle = "gustavo-pantuza"

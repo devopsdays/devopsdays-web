@@ -1,7 +1,7 @@
 +++
 Title = "Rafael Barbosa"
 Twitter = "vamperst"
-image = ""
+image = "rafael-barbosa.jpg"
 website = "https://churrops.io/"
 type = "speaker"
 linktitle = "rafael-barbosa"

@@ -1,7 +1,7 @@
 +++
 Title = "Carla Crude"
 Twitter = "carlacrude"
-image = ""
+image = "carla-crude.jpg"
 website = "https://medium.com/@carlacrude"
 type = "speaker"
 linktitle = "carla-crude"

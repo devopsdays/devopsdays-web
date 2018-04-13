@@ -2,7 +2,7 @@
 Title = "Amanda Mattos"
 Twitter = ""
 linkedin = "https://www.linkedin.com/in/amandamattos/"
-image = ""
+image = "amanda-mattos.jpg"
 type = "speaker"
 linktitle = "amanda-mattos"
 

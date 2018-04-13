@@ -1,7 +1,7 @@
 +++
 Title = "Mateus Prado"
 Twitter = "mateusprado"
-image = ""
+image = "mateus-prado.jpg"
 linkedin = "https://www.linkedin.com/in/mateusprado"
 type = "speaker"
 linktitle = "mateus-prado"

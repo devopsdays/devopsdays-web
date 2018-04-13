@@ -1,7 +1,7 @@
 +++
 Title = "Eric Magalhães"
 Twitter = "ericovis"
-image = ""
+image = "eric-magalhaes.jpg"
 website = "https://emagalha.es/"
 type = "speaker"
 linktitle = "eric-magalhes"

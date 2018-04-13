@@ -1,7 +1,7 @@
 +++
 Title = "Paulo Gomes da Cruz Junior"
 Twitter = ""
-image = ""
+image = "paulo-gomes-da-cruz-junior.jpg"
 website = "https://medium.com/@paulushc"
 type = "speaker"
 linktitle = "paulo-gomes-da-cruz-junior"

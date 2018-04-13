@@ -1,10 +1,11 @@
 +++
-Title = "Natalia Manha"
-Twitter = "nataliamanha"
-website = "https://virtualteamsmanagement.com/"
-image = "natalia-manha.jpg"
+Title = "Kassiana Costa"
+Twitter = ""
+Linkedin = "https://www.linkedin.com/in/kassianacosta/"
+website = ""
+image = "kassiana-costa.jpg"
 type = "speaker"
-linktitle = "natalia-manha"
+linktitle = "kassiana-costa"
 
 +++
 
