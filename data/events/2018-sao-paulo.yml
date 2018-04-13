@@ -98,7 +98,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/magnologan"
 
   - name: "Rafael Gomes"
-    employer: "Stone Pagamentos"
+    employer: "Crossover"
     image: "gomex.jpg"
     twitter: "gomex"
     bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
