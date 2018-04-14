@@ -173,7 +173,7 @@ program:
     start_time: "9:30"
     end_time: "10:15"
 
-  - title: "Break"
+  - title: "Coffee-Break"
     type: custom
     date: "2018-06-06"
     start_time: "10:15"
@@ -221,7 +221,7 @@ program:
     start_time: "14:30"
     end_time: "15:00"
 
-  - title: "Coffee"
+  - title: "Coffee-Break"
     type: custom
     date: "2018-06-06"
     start_time: "15:00"
@@ -289,7 +289,7 @@ program:
     start_time: "9:50"
     end_time: "10:20"
 
-  - title: "Break"
+  - title: "Coffee-Break"
     type: custom
     date: "2018-06-07"
     start_time: "10:20"
@@ -331,7 +331,7 @@ program:
     start_time: "14:30"
     end_time: "15:00"
 
-  - title: "Coffee"
+  - title: "Coffee-Break"
     type: custom
     date: "2018-06-07"
     start_time: "15:00"
