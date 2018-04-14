@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = 'A "Especificação por Exemplo" trabalhando pro time'
+Title = 'Developer Experience: desbloqueando entregas ágeis '
 Type = "talk"
 Speakers = ["bruno-tavares"]
 +++
