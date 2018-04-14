@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Going DevOps – more than a developer discipline"
+Title = "Going DevOps – more than a Developer Discipline"
 Type = "talk"
 Speakers = ["anders-truelsen"]
 +++

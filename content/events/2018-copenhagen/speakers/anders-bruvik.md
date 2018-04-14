@@ -1,6 +1,6 @@
 +++
 Title = "Anders Bruvik"
-Twitter = ""
+Twitter = "https://twitter.com/bruvik"
 linkedin = "https://www.linkedin.com/in/bruvik/"
 Website = ""
 image = "anders-bruvik.png"
