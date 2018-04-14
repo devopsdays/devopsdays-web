@@ -39,8 +39,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "pencil"
     url: /events/2018-sao-paulo/registration
 
-  - name: program
+  - name: programação
     icon: "book"
+    url: /events/2018-sao-paulo/program
 
   - name: palestrantes
     icon: "microphone"
@@ -125,6 +126,8 @@ sponsors:
   - id: 10deploys
     level: community
   - id: prometheusbr
+    level: community
+  - id: papo-de-sysadmin
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
