@@ -1,7 +1,7 @@
 +++
 Title = "Gustavo Lichti"
 Twitter = "lichti"
-image = ""
+image = "gustavo-lichti.jpg"
 type = "speaker"
 linktitle = "gustavo-lichti"
 

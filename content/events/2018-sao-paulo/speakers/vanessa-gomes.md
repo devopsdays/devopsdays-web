@@ -1,7 +1,7 @@
 +++
 Title = "Vanessa Gomes"
 Twitter = "vanessagl2"
-image = ""
+image = "vanessa-gomes.jpg"
 type = "speaker"
 linktitle = "vanessa-gomes"
 

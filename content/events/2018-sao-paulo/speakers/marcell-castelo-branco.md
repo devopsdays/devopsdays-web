@@ -1,7 +1,7 @@
 +++
 Title = "Marcell Castelo Branco"
 Twitter = ""
-image = ""
+image = "marcell-castelo-branco.jpg"
 type = "speaker"
 linktitle = "marcell-castelo-branco"
 

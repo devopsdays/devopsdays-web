@@ -1,7 +1,7 @@
 +++
 Title = "Rafael Pereira de Lima"
 Twitter = ""
-image = ""
+image = "rafael-pereira-de-lima.jpg"
 type = "speaker"
 linktitle = "rafael-pereira-de-lima"
 
