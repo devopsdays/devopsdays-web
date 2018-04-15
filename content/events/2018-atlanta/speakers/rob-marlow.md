@@ -1,7 +1,6 @@
 +++
 Title = "Rob Marlow"
 Twitter = "ulikabbq"
-image = ""
 type = "speaker"
 linktitle = "rob-marlow"
 

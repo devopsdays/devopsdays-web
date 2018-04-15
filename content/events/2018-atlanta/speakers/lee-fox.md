@@ -1,7 +1,7 @@
 +++
 Title = "Lee Fox"
 Twitter = "FoxinATX"
-image = ""
+image = "lee-fox.jpg"
 type = "speaker"
 linktitle = "lee-fox"
 
