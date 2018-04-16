@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Code Reviews in DevOps"
+Title = "Don’t forget about process feedback loops"
 Type = "talk"
 Speakers = ["allan-ebdrup"]
 +++
 
-**A more detailed text of this ignite is on the way.** 
+**A more detailed abstract for this ignite is on its way.**
