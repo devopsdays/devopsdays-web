@@ -94,6 +94,10 @@ sponsors:
     level: bronze
   - id: waffleio
     level: specialty
+  - id: ignw
+    level: platinum
+  - id: kaizenops
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
