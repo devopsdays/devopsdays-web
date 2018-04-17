@@ -13,7 +13,9 @@ Thank you for being part of DevOpsDays Baltimore 2018! We hope you enjoyed the e
 
 The slides can be found on [DevOpsDays Baltimore SlideShare](https://www.slideshare.net/devopdsaysbaltimore/presentations)
 
-Individual session videos will be available soon, but the full streams are available now on YouTube for [Day 1](https://youtu.be/_XOjsVnmHmI?t=1726) and [Day 2](https://youtu.be/RqDHtxQCuIU?t=2193).
+Pictures of the event can be found on the [DevOpsDays Baltimore Facebook Page](https://www.facebook.com/pg/devopsdaysbmore/photos/?tab=album&album_id=1219320224868279).
+
+Individual session videos are available on the [ConFreaks DevOpsDays Baltimore 2018 page](http://confreaks.tv/events/devopsdaysbaltimore2018).  If hours of raw footage is more your speed, check out the full streams on YouTube for [Day 1](https://youtu.be/_XOjsVnmHmI?t=1726) and [Day 2](https://youtu.be/RqDHtxQCuIU?t=2193).
 
 <div class = "row">
   <div class = "col-md-2">
