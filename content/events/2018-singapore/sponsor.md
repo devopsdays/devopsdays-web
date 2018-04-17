@@ -16,7 +16,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 ## Why Sponsor Us?
 
-The DevOpsDays event mandate is to bring the highest quality speakers, experts, and the curious together. This is the third edition of DevOpsDays in Singapore and Southeast Asia.
+The DevOpsDays event mandate is to bring the highest quality speakers, experts, and the curious together. This is the fourth edition of DevOpsDays in Singapore and Southeast Asia.
 
 Singapore is not only one of the fastest growing startup hubs in the world but is also a trusted healthcare, telecom, and financial services nexus in Asia with strong investment in technology from the Government. We aim to attract representation from large enterprises and the startup community alike.
 
