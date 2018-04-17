@@ -265,7 +265,7 @@ program:
     date: 2018-04-24
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Evening event"
+  - title: "Evening event at Chef HQ"
     type: custom
     date: 2018-04-24
     start_time: "18:30"
