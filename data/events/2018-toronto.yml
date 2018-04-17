@@ -337,8 +337,8 @@ program:
     date: 2018-05-31
     start_time: "16:00"
     end_time: "16:45"
-  - title: "TechTalk - TBD"
-    type: custom
+  - title: "eric-maxwell"
+    type: workshop
     date: 2018-05-31
     start_time: "16:00"
     end_time: "16:45"
