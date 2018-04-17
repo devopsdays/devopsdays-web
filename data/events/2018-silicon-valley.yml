@@ -79,6 +79,8 @@ sponsors:
     level: gold
   - id: scalyr
     level: gold
+  - id: humio
+    level: gold
   - id: contrast_security
     level: silver
   - id: kaizenops
