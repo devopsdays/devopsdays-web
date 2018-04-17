@@ -191,6 +191,14 @@ sponsors:
     level: communityleader
   - id: cloudbees
     level: communityleader
+  - id: redhat
+    level: communityleader
+  - id: striveconsulting
+    level: communityleader
+  - id: cloudautomationsolutions
+    level: communityleader
+  - id: sumologic
+    level: communityleader
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   

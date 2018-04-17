@@ -137,7 +137,7 @@ team_members: # Name is the only required field for team members.
     application platforms as well as the expansion of his technical knowledge in development languages and CI/CD. 
     Beyond work, he is an avid baseball fan, and spends his free time as a musician and photographer."
 
-organizer_email: "organizers@devopsdayskc.org" # Put your organizer email address here
+organizer_email: "organizers-kansas-city-2018@devopsdays.org" # Put your organizer email address here
 #proposal_email: "proposals-kansas-city-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -146,6 +146,10 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
+  - id: plexpod
+    level: premium
+  - id: chocolatey
+    level: standard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -159,9 +163,10 @@ sponsor_levels:
     max: 1
   - id: premium
     label: Premium
-    max: 10 # This is the same as omitting the max limit.
+    max: 9 # This is the same as omitting the max limit.
   - id: standard
     label: Standard
+    max: 4
   - id: basic
     label: Basic
   - id: community

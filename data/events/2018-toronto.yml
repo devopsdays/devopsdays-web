@@ -96,12 +96,20 @@ sponsors:
     level: silver
   - id: sourcedgroup
     level: silver
+  - id: sourcedgroup
+    level: lanyard
   - id: cloudbees
     level: silver
   - id: cgi
     level: platinum
   - id: sonatype
     level: silver
+  - id: pagerduty
+    level: gold
+  - id: f5
+    level: gold
+  - id: ivedha
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -115,10 +123,13 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 12
+    max: 11
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: happyhour
     label: Happy Hour
     max: 1
@@ -326,7 +337,7 @@ program:
     date: 2018-05-31
     start_time: "16:00"
     end_time: "16:45"
-  - title: "julie-qiu"
+  - title: "eric-maxwell"
     type: workshop
     date: 2018-05-31
     start_time: "16:00"

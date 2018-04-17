@@ -25,14 +25,14 @@ registration_link: "https://devopsdays.istanbul/" # If you have a custom registr
 
 # Location
 #
-coordinates: "40.962189, 29.110926" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Dedeman Bostanci Istanbul" # Defaults to city, but you can make it the venue name.
+coordinates: "41.0609706,28.989477" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Radisson Blu Hotel, Istanbul Sisli" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-#  - name: location
+  - name: location
   - name: registration
  # - name: program
  # - name: speakers

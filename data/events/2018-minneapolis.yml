@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
-  - name: speakers
+#  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -118,6 +118,18 @@ sponsors:
     level: silver
   - id: bigswitchnetworks
     level: silver
+  - id: optum
+    level: silver
+  - id: velocity
+    level: community
+  - id: hackthegap
+    level: community
+  - id: softwaredefinedtalk
+    level: community
+  - id: blacksintechnology
+    level: community
+  - id: wwcodetc
+    level: community
 
 sponsors_accepted : "yes"
 
@@ -129,7 +141,5 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community

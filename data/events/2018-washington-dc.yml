@@ -10,8 +10,8 @@ enddate:  2018-06-07
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2018-03-09
-cfp_date_end:  2018-04-06
-cfp_date_announce:  2018-04-15
+cfp_date_end:  2018-04-15
+cfp_date_announce:  2018-04-22
 
 cfp_open: "true"
 cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
@@ -229,6 +229,20 @@ sponsors:
     level: platinum
   - id: pivotal
     level: platinum
+  - id: validatek
+    level: platinum
+  - id: sjtechcorp
+    level: platinum
+  - id: appdynamics
+    level: platinum
+  - id: aurotech
+    level: platinum
+  - id: gitlab
+    level: platinum
+  - id: comcast
+    level: gold
+  - id: swamp
+    level: gold
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

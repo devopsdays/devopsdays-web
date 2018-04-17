@@ -5,7 +5,7 @@ linkedin = "https://www.linkedin.com/in/jesuspiairo/"
 Website = "https://www.eduardopiairo.com/about/"
 image = "eduardo-piairo.png"
 type = "speaker"
-linktitle = "eduardo-piairo-basecone"
+linktitle = "eduardo-piairo"
 
 +++
 

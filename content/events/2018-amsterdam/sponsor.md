@@ -6,8 +6,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
 
 <br>
 <h5>
-<p>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
-<p>For more information please <a href="http://assets.devopsdays.org/events/2018/amsterdam/devopsdays_ams_2018_sponsorship_prospectus_v2.pdf">download and view to our prospectus</a>.</p>
+<p>We greatly value sponsors for this open event.  If you are interested in sponsoring and getting a copy of our prospectus, please drop us an email at [{{< email_organizers >}}].</p>
 </h5>
 <hr>
 <div style="width:90%" align="center">
@@ -15,188 +14,188 @@ Description = "Sponsor devopsdays Amsterdam 2018"
     <tr>
       <th style="width: 64%; padding: 5px"><i>Packages</i></th>
       <th style="width: 8%; padding: 5px"><center>Bronze</center></th>
-      <th style="width: 8%; padding: 5px"><center>Silver</center></th>
-      <th style="width: 8%; padding: 5px"><center>Gold</center></th>
-      <th style="width: 8%; padding: 5px"><center>Re-charge</center></th>
+      <th style="width: 8%; padding: 5px"><center><strike>Silver</strike></center></th>
+      <th style="width: 8%; padding: 5px"><center><strike>Gold</strike></center></th>
+      <th style="width: 8%; padding: 5px"><center><strike>Re-charge</strike></center></th>
       <th style="width: 8%; padding: 5px"><center>Coffee</center></th>
       <th style="width: 8%; padding: 5px"><center>Pre-event</center></th>
-      <th style="width: 8%; padding: 5px"><center>Beer</center></th>
+      <th style="width: 8%; padding: 5px"><center><strike>Beer</strike></center></th>
       <th style="width: 8%; padding: 5px"><center>BBQ</center></th>
     </tr>
     <tr>
       <td style="padding-left: 5px">Pricing</td>
       <td><center>€1000</center></td>
-      <td><center>€3000</center></td>
-      <td><center>€6000</center></td>
-      <td><center>€3000</center></td>
-      <td><center>€6000</center></td>
+      <td><center><strike>€3000</strike></center></td>
+      <td><center><strike>€6000</strike></center></td>
+      <td><center><strike>€3000</strike></center></td>
+      <td><center>€8500</center></td>
       <td><center>€8000</center></td>
-      <td><center>€10000</center></td>
+      <td><center><strike>€10000</strike></center></td>
       <td><center>€12000</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">&nbsp;</td>
       <th><center>Available!</center></th>
+      <th><center>Sold Out!</center></th>
+      <th><center>Sold Out!</center></th>
+      <th><center>Sold Out!</center></th>
       <th><center>Available!</center></th>
       <th><center>Available!</center></th>
-      <th><center>Available!</center></th>
-      <th><center>Available!</center></th>
-      <th><center>Available!</center></th>
-      <th><center>Available!</center></th>
+      <th><center>Sold Out!</center></th>
       <th><center>Available!</center></th>
     </tr>
     <tr>
       <td style="padding-left: 5px">Included tickets</td>
       <td><center>1</center></td>
-      <td><center>2</center></td>
+      <td><center><strike>2</strike></center></td>
+      <td><center><strike>3</strike></center></td>
+      <td><center><strike>2</strike></center></td>
       <td><center>3</center></td>
-      <td><center>2</center></td>
-      <td><center>2</center></td>
       <td><center>3</center></td>
-      <td><center>3</center></td>
+      <td><center><strike>3</strike></center></td>
       <td><center>3</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on event website</td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on event posters</td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on all email communication</td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo at re-charge center</td>
       <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on beer bottles</td>
       <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on coffee cups</td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo show during pre-event social</td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo show during BBQ</td>
       <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">High (small) table</td>
       <td><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Full table</td>
       <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">1 minute pitch to full audience</td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">additional 1 minute pitch</td>
       <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">swag bag insert</td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
+      <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
   </table>

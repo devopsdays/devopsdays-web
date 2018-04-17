@@ -3,15 +3,18 @@ Title = "Patrocínio"
 Type = "event"
 Description = "Sponsor devopsdays São Paulo 2018"
 +++
+<b>
+**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/drive/folders/1YdoBY_heQZ3bbHqCqDqmarmIOKnawVli)). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+</b>
 
 <b>
-Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, envie um email para [{{< email_organizers >}}].
+Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://goo.gl/Wr83ye)). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
 
 
 <hr>
 
-DevOpsDays é uma conferência auto organizada que depende de patrocínios. Não havendo estande de patrocinadores, as apresentações são focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento merecido no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a participarem ativamente do evento e se engajarem com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
+DevOpsDays é uma conferência auto organizada que depende de patrocínios. Não havendo estande de patrocinadores, apresentações focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento merecido no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a participarem ativamente do evento e se engajarem com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
 
 <p>
 Patrocinadores Platina, Happy Hour e Ouro terão mesas próprias, patrocinadores Prata terão uma mesa compartilhada entre si onde eles poderão interagir com os participantes interessado em conhecê-los durante as pausas. Todos os participantes serão bem-vindos a perguntarem o que desejarem durante as sessões open spaces, ressaltando que é uma conferência focada na comunidade, provavelmente um marketing muito agressivo funcionará contra você ao tentar causar uma boa impressão.
@@ -93,8 +96,8 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
             <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
             <td>&nbsp;</td>
-            <td bgcolor="gold">&nbsp;</td>
-            <td bgcolor="gold">&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
         </tr>
         <tr>
             <td>Logo nos nossos slides rotativos</td>

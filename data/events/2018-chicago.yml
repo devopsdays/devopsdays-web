@@ -14,13 +14,13 @@ cfp_date_start: 2018-03-19 # start accepting talk proposals.
 cfp_date_end: 2018-06-01  # close your call for proposals.
 cfp_date_announce: 2018-06-15  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-chicago-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-03-19  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-08-28 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdayschi2018.eventbrite.com/?aff=newsletter" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayschi2018.eventbrite.com/?aff=devopsdaysorg" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-night.jpg"
 
@@ -104,16 +104,29 @@ sponsors:
     level: gold
   - id: servercentral
     level: gold
-  - id: influxdata
-    level: silver
-  - id: pagerduty
-    level: gold
   - id: chef
     level: gold
+  - id: pagerduty
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: influxdata
+    level: silver
   - id: signal
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: mesosphere
+    level: silver
+  - id: kaizenops
+    level: silver
+  - id: mongodb
+    level: bronze
+  - id: kaizenops
+    level: live-transcription
   - id: arresteddevops
+    level: community
+  - id: cwdevs
+    level: community
+  - id: blacksintechnology
     level: community
 
 # sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
@@ -125,12 +138,15 @@ sponsors:
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 20
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10
   - id: bronze
     label: Bronze
+  - id: live-transcription
+    label: Live Transcription
+    max: 1
   - id: community
     label: Community
     

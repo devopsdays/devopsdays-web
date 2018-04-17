@@ -7,8 +7,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "New Zealand"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-11-05 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-11-06 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -28,10 +28,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-41.327594,174.807598" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Wellington" # Defaults to city, but you can make it the venue name.
+coordinates: "-41.285345,174.778711" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "TSB Bank Auditorium - Shed 6" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "TSB Bank Arena Queens Wharf, Wellington, New Zealand" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -99,23 +99,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: venue
-    label: Venue
-    max: 1
+  - id: silver
+    label: Silver
   - id: gold
     label: Gold
 #    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-#  - id: lanyard
-#    label: Lanyard
-#    max: 1
-  - id: media
-    label: Media
-    max: 1
-  - id: evening
-    label: Fun Evening Event
-    max: 1
+  - id: platinum
+    label: Platinum

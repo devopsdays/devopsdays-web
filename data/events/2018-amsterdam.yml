@@ -14,8 +14,8 @@ cfp_date_start: 2018-01-15  # start accepting talk proposals.
 cfp_date_end:  2018-04-01 # close your call for proposals.
 cfp_date_announce: 2018-04-16 # inform proposers of status
 
-cfp_open: "true"
-cfp_link: "https://www.papercall.io/dodams2018"
+cfp_open: "false"
+# cfp_link: "https://www.papercall.io/dodams2018"
 
 registration_closed: "true"
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,8 +31,8 @@ location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make 
 location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/dodams2018
+#  - name: propose
+#    url: https://www.papercall.io/dodams2018
   - name: location
   - name: registration
  # - name: program
@@ -99,19 +99,37 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: instana
+    level: gold
+  - id: umbrio
+    level: gold
+  - id: xebia
+    level: gold
   - id: olindata
     level: silver
   - id: mirabeau
     level: silver
   - id: redgate
     level: silver
+  - id: devoteam
+    level: silver
+  - id: innspire
+    level: silver
+  - id: elastic
+    level: silver
+  - id: sumologic
+    level: silver
   - id: linkit
     level: recharge
   - id: fullstaq
     level: bronze
-  - id: devoteam
-    level: bronze
   - id: s0l1dheroes
+    level: bronze
+  - id: developers-nl
+    level: bronze
+  - id: working-spirit
+    level: bronze
+  - id: fastly
     level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 
@@ -134,10 +152,10 @@ sponsor_levels:
     max: "1"
   - id: gold
     label: Gold
-    max: "10"
+    max: "8"
   - id: silver
     label: Silver
-    max: 7
+    max: "7"
   - id: recharge
     label: "Power recharge"
     max: "1"

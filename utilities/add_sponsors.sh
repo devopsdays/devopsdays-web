@@ -55,6 +55,9 @@ fi
 read -p "Enter sponsor url: " url
 [ -z "${url}" ] && url=''
 
+read -p "Enter sponsor twitter handle: " twitter
+[ -z "${twitter}" ] && twitter=''
+
 read -p "Enter path to PNG logo (must be at least 200px wide & have white or transparent background): " logo
 [ -z "${logo}" ] && logo=''
 
@@ -65,6 +68,10 @@ cp examples/data/sponsors/sponsorname.yml $sponsorfile
 SEDCMD "s/SPONSORNAME/$sponsorname/" $sponsorfile
 SEDCMD "s%URL%$url%" $sponsorfile
 
+if ! [ -z "${twitter}" ]; then
+  echo "twitter: \"${twitter}\"" >> $sponsorfile
+fi
+
 # Set logo
 
 if [ $logo ]; then
@@ -74,7 +81,7 @@ else
 fi
 
 echo "Add this to ../data/events/"$event_slug".yml under sponsors:"
-echo "  - id: " $sponsor_slug
+echo "  - id:" $sponsor_slug
 echo "    level: theirlevel"
 
 

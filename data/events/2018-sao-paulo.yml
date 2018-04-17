@@ -3,7 +3,7 @@ year: "2018" # The year of the event. Make sure it is in quotes.
 city: "São Paulo" # The displayed city name of the event. Capitalize it.
 event_twitter: "sp_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays está chegando em São Paulo!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
 startdate: 2018-06-06 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -21,7 +21,7 @@ registration_date_start: 2018-03-01 # start accepting registration. Leave blank 
 registration_date_end: 2018-05-31 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdays-sp-2018.eventbrite.com.br/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,13 +37,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
   - name: ingressos
     icon: "pencil"
-    url: https://www.eventbrite.com.br/e/devopsdays-sp-2018-tickets-42971706531
+    url: /events/2018-sao-paulo/registration
 
- # - name: program
- #   icon: "book"
+  - name: programação
+    icon: "book"
+    url: /events/2018-sao-paulo/program
 
- # - name: speakers
- #   icon: "microphone"
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2018-sao-paulo/speakers
 
   - name: patrocínio
     url: /events/2018-sao-paulo/sponsor
@@ -61,6 +63,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Bruno Dantas"
+    employer: "Safra"
+    image: "bruno-dantas.jpg"
+    twitter: "bdantasnet"
+    bio: "Developer by occupation, security officer by obligation."
+    linkedin: "https://www.linkedin.com/in/bdantas/"
 
   - name: "Daniela Vieira"
     employer: "VR Benefícios"
@@ -91,7 +99,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/magnologan"
 
   - name: "Rafael Gomes"
-    employer: "Stone Pagamentos"
+    employer: "Crossover"
     image: "gomex.jpg"
     twitter: "gomex"
     bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
@@ -119,6 +127,8 @@ sponsors:
     level: community
   - id: prometheusbr
     level: community
+  - id: papo-de-sysadmin
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -134,7 +144,7 @@ sponsor_levels:
     label: Happy Hour
     max: 1
   - id: gold
-    label: OUro
+    label: Ouro
     max: 4
   - id: silver
     label: Prata
@@ -143,3 +153,222 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Comunidade
+
+program:
+  - title: "Credenciamento e recepção"
+    type: custom
+    date: "2018-06-06"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-06-06"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "donovan-brown"
+    type: talk
+    date: "2018-06-06"
+    start_time: "9:30"
+    end_time: "10:15"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-06"
+    start_time: "10:15"
+    end_time: "10:40"
+  
+  - title: "eric-magalhes"
+    type: talk
+    date: "2018-06-06"
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "natalia-manha"
+    type: talk
+    date: "2018-06-06"
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "marcell-castelo-branco"
+    type: talk
+    date: "2018-06-06"
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-06-06"
+    start_time: "12:10"
+    end_time: "13:30"
+
+  - title: "gustavo-pantuza"
+    type: talk
+    date: "2018-06-06"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "joo-brito"
+    type: talk
+    date: "2018-06-06"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: "2018-06-06"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-06"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2018-06-06"
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: ""
+    type: talk
+    date: "2018-06-06"
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "vanessa-gomes"
+    type: talk
+    date: "2018-06-06"
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "bruno-tavares"
+    type: talk
+    date: "2018-06-06"
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2018-06-06"
+    start_time: "18:00"
+    end_time: "20:00"
+
+  # - title: "Open Space"
+  #   type: open-space
+  #   date: "2018-06-06"
+  #   start_time: "10:40"
+  #   end_time: "17:00"
+
+# Dia 07/07
+
+  - title: "Credenciamento, recepção e patrocinadores"
+    type: custom
+    date: "2018-06-07"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-06-07"
+    start_time: "9:00"
+    end_time: "9:20"
+
+  - title: "gustavo-lichti"
+    type: talk
+    date: "2018-06-07"
+    start_time: "9:20"
+    end_time: "9:50"
+
+  - title: "bernd-erk"
+    type: talk
+    date: "2018-06-07"
+    start_time: "9:50"
+    end_time: "10:20"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-07"
+    start_time: "10:20"
+    end_time: "10:50"
+  
+  - title: "kassiana-costa"
+    type: talk
+    date: "2018-06-07"
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "mateus-prado"
+    type: talk
+    date: "2018-06-07"
+    start_time: "11:20"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-06-07"
+    start_time: "12:10"
+    end_time: "13:30"
+
+  - title: "paulo-gomes-da-cruz-junior"
+    type: talk
+    date: "2018-06-07"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: ""
+    type: talk
+    date: "2018-06-07"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "carla-crude"
+    type: talk
+    date: "2018-06-07"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-07"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2018-06-07"
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "rafael-pereira-de-lima"
+    type: talk
+    date: "2018-06-07"
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "amanda-mattos"
+    type: talk
+    date: "2018-06-07"
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Out of the Box"
+    type: talk
+    date: "2018-06-07"
+    start_time: "17:00"
+    end_time: "17:45"
+
+  # - title: "Open Space"
+  #   type: open-space
+  #   date: "2018-06-07"
+  #   start_time: "10:40"
+  #   end_time: "17:00"
+
+  - title: "Fechamento"
+    type: custom
+    date: "2018-06-07"
+    start_time: "17:45"
+    end_time: "18:00  "

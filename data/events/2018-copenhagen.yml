@@ -32,7 +32,7 @@ location_address: "Mogens Dahl Concert Hall, København" #Optional - use the str
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -58,6 +58,8 @@ team_members: # Name is the only required field for team members.
   - name: "Jeppe Andersen"
     employer: "Momondo"
   - name: "Mariusz Bury"
+    employer: "Praqma"
+  - name: "Johan Abildskov"
     employer: "Praqma"
 organizer_email: "organizers-copenhagen-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-copenhagen-2018@devopsdays.org" # Put your proposal email address here
@@ -90,6 +92,8 @@ sponsors:
     level: silver
   - id: technologydenmark
     level: community
+  - id: almbrand
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -121,11 +125,6 @@ program:
     type: custom
     date: "2018-04-24"
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "Sponsors"
-    type: custom
-    date: "2018-04-24"
-    start_time: "09:15"
     end_time: "09:20"
   - title: "yves-hwang"
     type: talk
@@ -142,13 +141,13 @@ program:
     date: "2018-04-24"
     start_time: "10:10"
     end_time: "10:40"
-  - title: "Sponsors"
-    type: custom
+  - title: Short Break
+    type: break
     date: "2018-04-24"
     start_time: "10:40"
     end_time: "10:45"
-  - title: "Talk #3 - TBA"
-    type: custom
+  - title: "thien-an-mac"
+    type: talk
     date: "2018-04-24"
     start_time: "10:45"
     end_time: "11:15"
@@ -162,47 +161,47 @@ program:
     date: "2018-04-24"
     start_time: "11:35"
     end_time: "12:05"
-  - title: "Lunch"
+  - title: "Lunch Break"
     type: custom
     date: "2018-04-24"
     start_time: "12:05"
-    end_time: "12:55"
-  - title: "Ignites"
+    end_time: "12:50"
+  - title: "Ignite talks:"
     type: ignite
     date: "2018-04-24"
-    start_time: "12:55"
-    end_time: "13:25"
+    start_time: "12:50"
+    end_time: "13:30"
   - title: "Intro to Open Space Discussions"
     type: custom
     date: "2018-04-24"
-    start_time: "13:25"
-    end_time: "13:55"
-  - title: "Open Space #1 & #2"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Discussions 1/3"
     type: open-space
     date: "2018-04-24"
-    start_time: "13:55"
-    end_time: "14:40"
+    start_time: "14:00"
+    end_time: "14:45"
   - title: "Break"
     type: break
     date: "2018-04-24"
-    start_time: "14:40"
-    end_time: "14:55"
-  - title: "Open Space #3 & #4"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions 2/3"
     type: open-space
     date: "2018-04-24"
-    start_time: "14:55"
-    end_time: "15:40"
+    start_time: "15:00"
+    end_time: "15:45"
   - title: "Break"
     type: break
     date: "2018-04-24"
-    start_time: "15:40"
-    end_time: "15:55"
-  - title: "Open Space #5 & #6"
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions 3/3"
     type: open-space
     date: "2018-04-24"
-    start_time: "15:55"
+    start_time: "16:00"
     end_time: "16:40"
-  - title: "Wrap-Up Of The Day"
+  - title: "Wrap-up of the Day"
     type: custom
     date: "2018-04-24"
     start_time: "16:40"
@@ -211,12 +210,12 @@ program:
     type: custom
     date: "2018-04-24"
     start_time: "17:00"
-    end_time: "18:30"
-  - title: "Dinner"
+    end_time: "18:00"
+  - title: "Street Food Dinner"
     type: custom
     date: "2018-04-24"
-    start_time: "18:30"
-    end_time: "21:00"
+    start_time: "18:00"
+    end_time: "20:30"
 
     # Day2 below:
 
@@ -245,68 +244,90 @@ program:
     date: "2018-04-25"
     start_time: "10:05"
     end_time: "10:35"
-  - title: "Break"
+  - title: "Short Break"
     type: break
     date: "2018-04-25"
     start_time: "10:35"
-    end_time: "10:45"
-  - title: "Talk #3 - TBA"
-    type: custom
+    end_time: "10:40"
+  - title: "gloria-hornero"
+    type: talk
     date: "2018-04-25"
-    start_time: "10:45"
-    end_time: "11:15"
+    start_time: "10:40"
+    end_time: "11:10"
   - title: "Break"
     type: break
     date: "2018-04-25"
-    start_time: "11:15"
-    end_time: "11:35"
-  - title: "Talk #4 - TBA"
-    type: custom
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "giulio-vian"
+    type: talk
     date: "2018-04-25"
-    start_time: "11:35"
-    end_time: "12:05"
-  - title: "Lunch"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch Break"
     type: custom
     date: "2018-04-25"
     start_time: "12:05"
-    end_time: "12:55"
-  - title: "Ignites"
+    end_time: "12:50"
+  - title: "Ignite talks:"
     type: ignite
     date: "2018-04-25"
-    start_time: "12:55"
-    end_time: "13:25"
+    start_time: "12:50"
+    end_time: "13:30"
   - title: "Intro to Open Space Discussions"
     type: custom
     date: "2018-04-25"
-    start_time: "13:25"
-    end_time: "13:55"
-  - title: "Open Space #1 & #2"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Discussions 1/3"
     type: open-space
     date: "2018-04-25"
-    start_time: "13:55"
-    end_time: "14:40"
+    start_time: "14:00"
+    end_time: "14:45"
   - title: "Break"
     type: break
     date: "2018-04-25"
-    start_time: "14:40"
-    end_time: "14:55"
-  - title: "Open Space #3 & #4"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions 2/3"
     type: open-space
     date: "2018-04-25"
-    start_time: "14:55"
-    end_time: "15:40"
+    start_time: "15:00"
+    end_time: "15:45"
   - title: "Break"
     type: break
     date: "2018-04-25"
-    start_time: "15:40"
-    end_time: "15:55"
-  - title: "Open Space #5 & #6"
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions 3/3"
     type: open-space
     date: "2018-04-25"
-    start_time: "15:55"
+    start_time: "16:00"
     end_time: "16:40"
-  - title: "Wrap-Up Of The Day"
+  - title: "Wrap-up of the Day"
     type: custom
     date: "2018-04-25"
     start_time: "16:40"
     end_time: "17:00"
+
+ignites:
+  - title: "lars-kruse"
+    date: "2018-04-24"
+  - title: "niels-harre"
+    date: "2018-04-24"
+  - title: "anders-bruvik"
+    date: "2018-04-24"
+  - title: "lars-bendix"
+    date: "2018-04-24"
+  - title: "allan-ebdrup"
+    date: "2018-04-24"
+  - title: "mandi-walls"
+    date: "2018-04-25"
+  - title: "jeppe-andersen"
+    date: "2018-04-25"
+  - title: "laszlo-fogas"
+    date: "2018-04-25"
+  - title: "anders-truelsen"
+    date: "2018-04-25"
+  - title: "greg-wunderle"
+    date: "2018-04-25"
