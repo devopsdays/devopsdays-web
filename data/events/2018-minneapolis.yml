@@ -122,6 +122,10 @@ sponsors:
     level: silver
   - id: velocity
     level: community
+  - id: hackthegap
+    level: community
+  - id: softwaredefinedtalk
+    level: community
 
 sponsors_accepted : "yes"
 
