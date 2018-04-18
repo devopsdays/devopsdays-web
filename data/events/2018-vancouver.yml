@@ -401,7 +401,7 @@ program:
     start_time: "13:40"
     end_time: "13:45"
     background_color: "#C3FFD7"
-  - title: "Chad Lagore: The Art Of Monitoring"
+  - title: "Chad Lagore: Simple Self-hosted Continuous Deployment"
     type: custom
     date: 2018-04-21
     start_time: "13:45"
@@ -413,7 +413,7 @@ program:
     start_time: "13:50"
     end_time: "13:55"
     background_color: "#C3FFD7"
-  - title: "Sean Porter: "
+  - title: "Sean Porter: The Art Of Monitoring"
     type: custom
     date: 2018-04-21
     start_time: "13:55"
