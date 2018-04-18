@@ -155,6 +155,8 @@ sponsors:
   - id: oracle
     level: bronze
     url: https://cloud.oracle.com/
+  - id: geek-girls-carrots
+    level: community
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
