@@ -22,7 +22,7 @@ location: "UBC Robson Square" # Defaults to city, but you can make it the venue 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
     - name: program
-    # - name: livestream
+    - name: livestream
     - name: sponsor
     - name: registration
     - name: location
