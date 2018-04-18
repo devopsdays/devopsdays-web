@@ -121,7 +121,7 @@ program:
     date: "2018-04-24"
     start_time: "08:30"
     end_time: "09:00"
-  - title: "Welcome"
+  - title: "Welcome by Johan Abildskov"
     type: custom
     date: "2018-04-24"
     start_time: "09:00"
@@ -224,7 +224,7 @@ program:
     date: "2018-04-25"
     start_time: "08:30"
     end_time: "09:00"
-  - title: "Welcome"
+  - title: "Welcome by Johan Abildskov"
     type: custom
     date: "2018-04-25"
     start_time: "09:00"
@@ -267,7 +267,7 @@ program:
   - title: "Lunch Break"
     type: custom
     date: "2018-04-25"
-    start_time: "12:05"
+    start_time: "12:00"
     end_time: "12:50"
   - title: "Ignite talks:"
     type: ignite
