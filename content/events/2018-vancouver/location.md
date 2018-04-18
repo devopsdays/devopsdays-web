@@ -11,6 +11,10 @@ Description = "Location | devopsdays Vancouver 2018"
 
 <br/>
 
+<img src="/events/2018-vancouver/map-2018.png" width="598px" />
+
+<br/>
+
 ### Getting Here
 
 #### Transit
