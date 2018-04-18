@@ -169,6 +169,8 @@ sponsors:
     level: happyhour
   - id: scalyr
     level: lanyard
+  - id: devopsdotcom
+    level: media
   - id: scalyr
     level: communityleader
   - id: appdynamics
@@ -199,6 +201,8 @@ sponsors:
     level: communityleader
   - id: sumologic
     level: communityleader
+  - id: praecipio
+    level: communityleader
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
@@ -221,3 +225,6 @@ sponsor_levels:
   - id: communityleader
     label: Community Leader
     max: 20
+  - id: media
+    label: Media
+    max: 1
