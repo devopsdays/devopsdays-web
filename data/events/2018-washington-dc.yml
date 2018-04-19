@@ -89,13 +89,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davidbock/"
 
   - name: "Trevor Bryant"
-    employer: "CSRA"
+    employer: "ValidaTek, Inc"
     twitter: "apporima"
-    bio: ""
-    github: ""
+    bio: "Cybersecurity Engineer"
+    github: "https://github.com/trevorbryant"
     facebook: ""
-    website: ""
-    linkedin: ""
+    website: "https://keybase.io/trevorbryant"
+    linkedin: "https://www.linkedin.com/in/bryanttn/"
 
   - name: "Mark Cornick"
     employer: "Cava"
