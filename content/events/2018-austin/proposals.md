@@ -110,10 +110,6 @@ Attend this informative session and learn:
 * The pros and cons of DIY, virtualized, and hyperconverged container infrastructures
 * How purpose-built container infrastructure can slash costs, simplify management, and accelerate time to market
 
-#### Cloud Agnostic Provisioning and Deployment with Ansible (Geoff Purdy, Cameron Griffin)
-
-Modern cloud platforms provide rich sets of vendor specific tools, API's and services.  However sometimes business needs prevent committing to a single cloud provider.  In this talk we demonstrate how we use Ansible to perform one-click provisioning and deployment to AWS or Azure or Google Cloud Platform.
-
 #### Lessons learned after three years of automated deployments (Hector Villarreal)
 
 It all started with the best of intentions back in 2015. We wanted to do what was 'right': Infrastructure as code and an automated way to do deployments with a microservices architecture. A lot of work was done and decisions that were made at that time allowed us to accomplish those goals in record time... more or less. Three years later, we've outgrown that initial systemand a lot of decisions that were made with good intentions are hindering our growth today. In this session we'll talk about the lessons learned and what we're doing today to fix it.
