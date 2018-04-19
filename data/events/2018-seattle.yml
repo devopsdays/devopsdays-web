@@ -172,46 +172,46 @@ program:
     type: custom
     date: 2018-04-24
     start_time: "09:00"
-    end_time: "09:15"
+    end_time: "09:20"
   - title: "john-allspaw"
     type: talk
     date: 2018-04-24
-    start_time: "09:15"
-    end_time: "09:45"
+    start_time: "09:20"
+    end_time: "09:50"
   - title: "Sponsors"
     type: custom
     date: 2018-04-24
-    start_time: "09:45"
-    end_time: "09:55"
+    start_time: "09:50"
+    end_time: "10:00"
   - title: "scott-nasello"
     type: talk
     date: 2018-04-24
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "10:00"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2018-04-24
-    start_time: "10:25"
-    end_time: "10:40"
+    start_time: "10:30"
+    end_time: "10:44"
   - title: "sarah-hagan"
     type: talk
     date: 2018-04-24
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:45"
+    end_time: "11:15"
   - title: "Sponsors"
     type: custom
     date: 2018-04-24
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:15"
+    end_time: "11:25"
   - title: "jane-prusakova"
     type: talk
     date: 2018-04-24
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:25"
+    end_time: "11:55"
   - title: "Lunch"
     type: custom
     date: 2018-04-24
-    start_time: "11:50"
+    start_time: "11:55"
     end_time: "13:00"
   - title: "anjuan-simmons"
     type: talk
