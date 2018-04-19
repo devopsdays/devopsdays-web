@@ -8,8 +8,8 @@ services:
   - docker
 
 before_install:
-  - docker run --rm -e SITE_URL="https://wwww.devopsdays.org" -v $(pwd):/site devopsdays/docker-hugo-compiler
-
+  - docker run --name "hugo-server" -P -v $(pwd):/site jojomi/hugo
+  
 before_script:
 - npm install -g gulp
 - npm install
