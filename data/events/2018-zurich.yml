@@ -225,7 +225,7 @@ program:
   - title: "Opening Afternoon"
     type: custom
     date: 2018-05-02
-    start_time: "12:30"
+    start_time: "13:30"
     end_time: "13:35"
   - title: "Ignites"
     type: ignite
