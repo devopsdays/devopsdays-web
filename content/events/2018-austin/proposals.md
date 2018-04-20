@@ -180,6 +180,12 @@ In this session, you will learn how Threat Stack turns ideas into reality, quick
 
 Step Functions from AWS are a powerful tool that you can use to create state machines. By chaining together Lambdas and Actions with logic gates you can create complex, event-driven services that infinitely scale.
 
+#### Mock All The Things - Creating Integration and Load Tests with One Command (Samuel Manzer)
+
+Testing cloud-native distributed software architectures creates many headaches for developers.Accurately reproducing the production behavior of a modern application’s many dependencies in acontrolled CI/CD test environment is a time consuming and error-prone task. Mock All The Things(MATT) is a new tool that lets you create integration/performance tests from your application’s realtraffic with just a single command. MATT can then replay these integration tests in your CI/CDenvironment to ensure that your application always meets all functionality and performancerequirements. No more messing around with mocks of your dependencies or trying to run your entirestack on one box - MATT automatically creates any necessary mocks of your databases,downstream microservices, and any other networked dependencies.
+
+MATT is an early-stage, single-developer project built by the presenter. This talk will feature a livedemonstration of  MATT by deploying it against an example social media website. The demo willillustrate how MATT can capture all inbound and outbound traffic from a docker container in realtime, then save this traffic for later replay as an integration test. It will also demonstrate how MATT’sreplayer engine can automatically identify reproducible test ‘flows’ from a messy network dumpcontaining traffic from many different clients. Feedback will be sought from the audienceconcerning prioritization of improvements to this new technology.
+
 #### Kubernetes 201: You have Kubernetes up and running, now what? (Victor Trac)
 
 There are lots of guides and talks about getting Kubernetes installed and running, but there isn't a lot of information about logical next steps. This is a practical talk that covers common next steps like setting up access controls, metrics, logging, and more, based on experience running Kubernetes in production at multiple companies. This talk assumes a basic understanding of what Kubernetes is and some familiarity of Kubernetes resources.
