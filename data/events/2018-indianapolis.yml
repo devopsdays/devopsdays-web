@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
+  - id: redhat
+    level: gold
   - id: arresteddevops
     level: community
   - id: blacksintechnology
