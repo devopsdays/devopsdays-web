@@ -134,7 +134,12 @@ sponsors:
     level: community
   - id: solutiondesign
     level: silver
-
+  - id: aheadpuppet
+    level: platinum
+  - id: sumologic
+    level: gold
+  - id: countryfinancial
+    level: alacarte
 
 sponsors_accepted : "yes"
 
@@ -146,5 +151,7 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community
