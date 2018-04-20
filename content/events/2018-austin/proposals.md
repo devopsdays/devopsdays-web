@@ -21,13 +21,7 @@ Attendees will learn how we:
 * Built Documentation into the code
 * Reduce repetitive work
 * Enable local testing with minimal effort
-* Allow for sharing back to the larger community"
-
-#### The evolution of farm to table and code to customer (Aaron Kalin)
-
-Restaurants deliver delicious food while we deliver amazing products to our customers. How can DevOps evolve to deliver software to customers faster than ever before? We’ll take cues from the past, the present, and look to the future of DevOps while drawing inspiration from the restaurant industry.
-
-We’ll start by going over the history of DevOps culture with a jump to the past in the 90s all the way into today. There will be some comparisons to another career familiar to the speaker with the restaurant industry. This is where the talk title originates from. We’ll then continue these comparisons against similar fields to ours to try to find some answers as we look toward the next 5 or 10 years in DevOps with things like apprenticeship, diversity, and delivering applications to customers faster than ever before.
+* Allow for sharing back to the larger community
 
 #### Marie Curie, Open Source, Kickstarter and Women in Tech (Amanda Whaley)
 
