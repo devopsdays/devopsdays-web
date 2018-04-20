@@ -81,6 +81,12 @@ ATTN: Jennifer Fahey
 FOR: 4/24 DevOpsDays Seattle – The Conference Center
 ```
 
+### Loading / Unloading at venue
+
+Sponsors are welcome to come up to the WSCC Loading Dock for loading/unloading purposes.  The WSCC Loading Dock will be open from 6am-10pm on 4/24 and 4/25.
+
+<a href="https://assets.devopsdays.org/events/2018/seattle/WSCC-Loading-Dock-Map.pdf">Map to loading dock</a>
+
 ### Sponsor Tables
 
 #### Gold Sponsors
