@@ -201,7 +201,7 @@ program:
     date: "2018-04-24"
     start_time: "16:00"
     end_time: "16:40"
-  - title: "Wrap-up of the Day"
+  - title: "Wrap-up of the Day by Johan Abildskov"
     type: custom
     date: "2018-04-24"
     start_time: "16:40"
@@ -219,7 +219,7 @@ program:
 
     # Day2 below:
 
-  - title: "Registration & Breakfast"
+  - title: "Breakfast"
     type: custom
     date: "2018-04-25"
     start_time: "08:30"
@@ -304,7 +304,7 @@ program:
     date: "2018-04-25"
     start_time: "16:00"
     end_time: "16:40"
-  - title: "Wrap-up of the Day"
+  - title: "Wrap-up of the Day by Johan Abildskov"
     type: custom
     date: "2018-04-25"
     start_time: "16:40"
