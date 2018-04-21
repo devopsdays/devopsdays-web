@@ -129,6 +129,8 @@ sponsors:
     level: community
   - id: papo-de-sysadmin
     level: community
+  - id: test-girls
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -233,19 +235,19 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: ""
+  - title: "vanessa-gomes"
     type: talk
     date: "2018-06-06"
     start_time: "16:00"
     end_time: "16:30"
 
-  - title: "vanessa-gomes"
+  - title: "bruno-tavares"
     type: talk
     date: "2018-06-06"
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "bruno-tavares"
+  - title: "fernanda-weiden"
     type: talk
     date: "2018-06-06"
     start_time: "17:00"
@@ -319,7 +321,7 @@ program:
     start_time: "13:30"
     end_time: "14:00"
 
-  - title: ""
+  - title: "kelvin-ronny"
     type: talk
     date: "2018-06-07"
     start_time: "14:00"
