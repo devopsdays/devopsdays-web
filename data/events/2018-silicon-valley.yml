@@ -37,9 +37,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://dodsv2018.busyconf.com/bookings/new
- # - name: program
+  - name: program
   - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -120,3 +120,20 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2018-05-17
+    start_time: "08:00"
+    end_time: "12:00"
+  - title: "jennifer-davies"
+    type: custom
+    date: 2018-05-17
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "nicole-forsgren"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:15"
+    end_time: "09:45"
