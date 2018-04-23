@@ -28,6 +28,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
 #    url: https://cfp.devopsdays.ch
   - name: sponsor
+  - name: Ladies Night
+    url: https://www.meetup.com/DevOps-Meetup-Zurich/events/249832353/
   - name: contact
   - name: conduct
 
