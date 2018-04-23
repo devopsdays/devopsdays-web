@@ -142,6 +142,10 @@ sponsors:
     level: gold
   - id: countryfinancial
     level: alacarte
+  - id: sps_commerce
+    level: gold
+  - id: sps_commerce
+    level: alacarte
 
 sponsors_accepted : "yes"
 
