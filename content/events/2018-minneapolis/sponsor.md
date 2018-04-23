@@ -9,7 +9,7 @@ Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="htt
 Additional à la carte sponsorships are available:
 
 <ul>
-<li>lanyard - ($5000) - 1 slot available - your logo on the lanyards
+<li>lanyard - ($5000) - SOLD OUT
 </ul>
 
 <ul>
