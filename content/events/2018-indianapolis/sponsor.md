@@ -210,7 +210,7 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$500</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Day 1 Lunch - Signage provided and 3 minute pitch</td>
+      <td style="padding: 5px" aling="left"><del>Day 1 Lunch - Signage provided and 3 minute pitch</del></td>
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>
