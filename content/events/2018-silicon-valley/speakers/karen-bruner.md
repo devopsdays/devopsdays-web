@@ -2,7 +2,7 @@
 Title = "Karen Bruner"
 # image = "karen-bruner.jpg"
 type = "speaker"
-linktitle = "karen-bruner"
+linktitle = ["karen-bruner", "karen-bruner-cads-oakley"]
 Website = "https://www.Ascend.io"
 
 +++
