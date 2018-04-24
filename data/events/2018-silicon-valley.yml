@@ -131,9 +131,9 @@ program:
     type: custom
     date: 2018-05-17
     start_time: "08:00"
-    end_time: "12:00"
-  - title: "jennifer-davies"
-    type: custom
+    end_time: "09:00"
+  - title: "jennifer-davis"
+    type: talk
     date: 2018-05-17
     start_time: "09:00"
     end_time: "09:15"
@@ -142,3 +142,100 @@ program:
     date: 2018-05-17
     start_time: "09:15"
     end_time: "09:45"
+  - title: "tiffani-bell"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Morning Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "fatema-boxwala"
+    type: talk
+    date: 2018-05-17
+    start_time: "11:20"
+    end_time: "11:40"
+  - title: "katy-farmer"
+    type: talk
+    date: 2018-05-17
+    start_time: "11:45"
+    end_time: "12:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-17
+    start_time: "12:05"
+    end_time: "12:50"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "Open Space Planning"
+    type: open-space
+    date: 2018-05-17
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "amy-nguyen-taron-barber"
+    type: talk
+    date: 2018-05-17
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2018-05-17
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "artem-starostenko"
+    type: talk
+    date: 2018-05-17
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2018-05-17
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "noah-kantrowitz"
+    type: talk
+    date: 2018-05-17
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "Open Space Session 3"
+    type: open-space
+    date: 2018-05-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Open Space Session 3"
+    type: open-space
+    date: 2018-05-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Closing Remarks Day 1 - Connie-Lynne Villani"
+    type: custom
+    date: 2018-05-17
+    start_time: "17:00"
+    end_time: "17:15"
+ignites:
+  - title: "connie-lynne-villani"
+    date: 2018-05-17
+  - title: "marissa-knittel"
+    date: 2018-05-17
+  - title: "karen-bruner"
+    date: 2018-05-17
+  - title: "jay-gordon"
+    date: 2018-05-17
+  - title: "sanjay-shitole"
+    date: 2018-05-17
+  - title: "david-laulusa"
+    date: 2018-05-17
+  - title: "ryan-prior"
+    date: 2018-05-17
+  - title: "dustin-collins"
+    date: 2018-05-17
