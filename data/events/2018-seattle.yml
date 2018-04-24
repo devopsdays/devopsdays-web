@@ -268,7 +268,7 @@ program:
   - title: "Evening event at Chef HQ"
     type: custom
     date: 2018-04-24
-    start_time: "18:30"
+    start_time: "20:30"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
