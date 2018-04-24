@@ -1,5 +1,5 @@
 +++
-Title = "Fatema Boxwala"
+Title = "Noah Kantrowitz"
 # image = "noah-kantrowitz.jpg"
 type = "speaker"
 Twitter = "@kantrn"
