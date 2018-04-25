@@ -1,6 +1,6 @@
 +++
 Title = "Dustin Collins"
-# image = "david-laulusa.jpg"
+image = "dustin-collins.jpeg"
 Twitter = "@dustinmm80"
 type = "speaker"
 linktitle = ["dustin-collins"]

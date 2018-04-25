@@ -1,6 +1,6 @@
 +++
 Title = "Pedro Marques da Luz"
-# image = ".jpg"
+image = "pedro-marques-da-luz.jpeg"
 # Twitter = "@"
 type = "speaker"
 linktitle = ["james-geboski-pedro-marques-da-luz"]
