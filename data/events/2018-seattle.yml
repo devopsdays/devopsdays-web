@@ -338,37 +338,37 @@ program:
   - title: "Open Space #1"
     type: custom
     date: 2018-04-25
-    start_time: "14:40"
-    end_time: "15:20"
+    start_time: "14:25"
+    end_time: "15:05"
   - title: "jen-tong"
     type: workshop
     date: 2018-04-25
-    start_time: "14:40"
-    end_time: "15:10"
+    start_time: "14:25"
+    end_time: "14:55"
   - title: "Open Space #2"
     type: custom
     date: 2018-04-25
-    start_time: "15:30"
-    end_time: "16:10"
+    start_time: "15:15"
+    end_time: "15:55"
   - title: "billy-hoffman"
     type: workshop
     date: 2018-04-25
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:15"
+    end_time: "15:45"
   - title: "Open Space #3"
     type: custom
     date: 2018-04-25
-    start_time: "16:20"
-    end_time: "16:50"
+    start_time: "16:05"
+    end_time: "16:35"
   - title: "ren-lee"
     type: workshop
     date: 2018-04-25
-    start_time: "16:20"
-    end_time: "16:50"
+    start_time: "16:05"
+    end_time: "16:35"
   - title: "Closing"
     type: custom
     date: 2018-04-25
-    start_time: "17:00"
+    start_time: "16:45"
     end_time: "17:15"
 ignites:
   - title: "aaron-aldrich"
