@@ -10,6 +10,6 @@ linktitle = "allan-ebdrup"
 +++
 **Allan is CTO at Practio**
 
-Allan Ebdrup studied Computer Science at universities in Århus and København. He has worked 16 years in IT as self-employed, developer,IT-architect, enterprise-architect, tech & team-lead. 
+Allan Ebdrup studied Computer Science at universities in Århus and København. He has worked 20 years in IT as self-employed, developer, IT-architect, enterprise-architect, tech & team-lead and CTO.
 
-Three years ago Allan took the leap form working with technologies from the evil empires of Microsoft, Oracle and IBM to working exclusively with Open Source technologies like Node.js, NoSql and MongoDB. 
+For the past six years Allan has been working methodically with software development processes. Taking Continuous Delivery, DevOps, self organising teams, agile servant leader and agility to the extreme - further than most would go. He has given talks about this work and co-authored a few scientific papers.

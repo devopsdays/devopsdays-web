@@ -5,6 +5,10 @@ type = "event"
 
 +++
 
+<h1><mark>You're looking at a past event. <br><br>
+Go to <a href="/events/2018-minneapolis/sponsor/">devopsdays Minneapolis 2018</a> instead.</mark></h1><br><br>
+
+
 Platinum, Gold and Silver sponsorship packages are sold out. If you are interested in an à la carte sponsorship, please drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships that are still available:

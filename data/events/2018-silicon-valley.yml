@@ -77,19 +77,30 @@ sponsors:
     level: gold
   - id: cyberark-conjur
     level: gold
+  - id: scalyr
+    level: gold
+  - id: humio
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: circonus
+    level: gold
   - id: contrast_security
     level: silver
   - id: kaizenops
     level: silver
+  - id: redislabs
+    level: silver
   - id: chef
     level: absponsor
   - id: dynatrace
-    level: absponsor  
+    level: absponsor
   - id: facebook
     level: bronze
   - id: nclouds
     level: bronze
-
+  - id: mongodb
+    level: bronze
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

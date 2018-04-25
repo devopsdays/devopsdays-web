@@ -2,12 +2,12 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Bumpy rides towards Continuous Delivery destinations"
+Title = "Bumpy Rides towards Continuous Delivery Destinations"
 Type = "talk"
 Speakers = ["lars-bendix"]
 +++
 
-**Many are the roads that lead to CoDe (Continuous Delivery/Deployment) Paradise** - some are more bumpy than others and some have pitfalls that you should look out for.  
+Many are the roads that lead to CoDe (Continuous Delivery/Deployment) Paradise- some are more bumpy than others and some have pitfalls that you should look out for.
 
 So what are these (potential) problems and how can you address or avoid them? Fortunately, others have already gone down the CoDe roads and made some experience.
 

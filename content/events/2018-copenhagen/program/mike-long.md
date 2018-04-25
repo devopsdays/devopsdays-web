@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Structure Of DevOps Revolutions"
+Title = "The Structure of DevOps Revolutions"
 Type = "talk"
 Speakers = ["mike-long"]
 +++

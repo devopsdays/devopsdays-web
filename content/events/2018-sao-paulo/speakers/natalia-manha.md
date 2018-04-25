@@ -2,7 +2,7 @@
 Title = "Natalia Manha"
 Twitter = "nataliamanha"
 website = "https://virtualteamsmanagement.com/"
-image = ""
+image = "natalia-manha.jpg"
 type = "speaker"
 linktitle = "natalia-manha"
 

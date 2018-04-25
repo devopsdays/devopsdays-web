@@ -1,7 +1,6 @@
 +++
 Title = "David Cameron"
 Twitter = "dvcameron"
-image = ""
 type = "speaker"
 linktitle = "david-cameron"
 

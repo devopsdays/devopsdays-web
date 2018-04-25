@@ -104,16 +104,29 @@ sponsors:
     level: gold
   - id: servercentral
     level: gold
-  - id: influxdata
-    level: silver
-  - id: pagerduty
-    level: gold
   - id: chef
     level: gold
+  - id: pagerduty
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: influxdata
+    level: silver
   - id: signal
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: mesosphere
+    level: silver
+  - id: kaizenops
+    level: silver
+  - id: mongodb
+    level: bronze
+  - id: kaizenops
+    level: live-transcription
   - id: arresteddevops
+    level: community
+  - id: cwdevs
+    level: community
+  - id: blacksintechnology
     level: community
 
 # sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
@@ -125,12 +138,15 @@ sponsors:
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 20
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10
   - id: bronze
     label: Bronze
+  - id: live-transcription
+    label: Live Transcription
+    max: 1
   - id: community
     label: Community
     

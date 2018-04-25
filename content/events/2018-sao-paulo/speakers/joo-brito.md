@@ -1,7 +1,7 @@
 +++
 Title = "João Brito"
 Twitter = "juniorjbn"
-image = ""
+image = "joao-brito.jpg"
 type = "speaker"
 linktitle = "joo-brito"
 

@@ -62,7 +62,7 @@ networking, branding, and talent recruitment.</p>
   </tr>
   <tr>
     <td class="tg-y49x"></td>
-    <td class="tg-h7od">6 more available</td>
+    <td class="tg-h7od">4 more available</td>
     <td class="tg-h7od">2 more available</td>
   </tr>
   <tr>
@@ -197,7 +197,7 @@ help you further promote your company or cause:</p>
     <th class="tg-b44r">Price</th>
     <th class="tg-b44r">Benefit</th>
   </tr>
-  <tr>
+  <tr class="sold-out">
     <th class="tg-yzt1">Lanyards sponsor* </th>
     <th class="tg-yzt1">€ 900</th>
     <th class="tg-yzt1">Logo on lanyards </th>

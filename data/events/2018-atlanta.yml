@@ -93,7 +93,7 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20180423
     level: gold
   - id: mailchimp
     level: gold
@@ -154,8 +154,6 @@ program:
     date: "2018-04-17"
     start_time: "9:15"
     end_time: "9:45"
-    start_time: "09:00"
-    end_time: "09:15"
 
   - title: "Sponsors - Microsoft, Rigor, Instana"
     type: custom
@@ -323,6 +321,8 @@ ignites:
   - title: "valarie-regas"
     date: "2018-04-18"
   - title: "rob-marlow"
+    date: "2018-04-18"
+  - title: "rebecca-wheeler"
     date: "2018-04-18"
   - title: "david-cameron"
     date: "2018-04-18"
