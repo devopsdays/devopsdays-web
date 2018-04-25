@@ -1,6 +1,6 @@
 +++
 Title = "Nicole Forsgren"
-# image = "nicole-forsgren.jpg"
+image = "nicole-forsgren.jpeg"
 Twitter = "@nicolefv"
 type = "speaker"
 linktitle = ["nicole-forsgren"]

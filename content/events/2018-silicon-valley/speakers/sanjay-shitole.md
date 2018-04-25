@@ -1,6 +1,6 @@
 +++
 Title = "Sanjay Shitole"
-image = "sanjay-shitole.jpg"
+image = "sanjay-shitole.jpeg"
 
 type = "speaker"
 linktitle = ["sanjay-shitole"]

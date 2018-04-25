@@ -1,9 +1,9 @@
 +++
 Title = "Connie-Lynne Villani"
-# image = "david-laulusa.jpg"
-Twitter = "@dlaulusa"
+image = "connie-lynne-villani.jpeg"
+# Twitter = "@dlaulusa"
 type = "speaker"
-linktitle = ["connie-lynne-villani", "open-space-planning"]
+linktitle = ["connie-lynne-villani", "open-space-planning", "opening-day-2"]
 Website = "https://www.fastly.com"
 
 +++

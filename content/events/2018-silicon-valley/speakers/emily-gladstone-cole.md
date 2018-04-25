@@ -1,6 +1,6 @@
 +++
 Title = "Emily Gladstone Cole"
-image = "emily-gladstone-cole.jpg"
+image = "emily-gladstone-cole.jpeg"
 type = "speaker"
 Twitter = "@unixgeekem"
 linktitle = "emily-gladstone-cole"

@@ -1,6 +1,6 @@
 +++
 Title = "Katy Farmer"
-image = "katy-farmer.jpg"
+image = "katy-farmer.jpeg"
 type = "speaker"
 Twitter = "@TheKaterTot"
 linktitle = "katy-farmer"

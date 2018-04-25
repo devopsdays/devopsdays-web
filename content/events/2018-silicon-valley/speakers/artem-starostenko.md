@@ -1,6 +1,6 @@
 +++
 Title = "Artem Starostenko"
-image = "artem-starostenko.jpg"
+image = "artem-starostenko.jpeg"
 type = "speaker"
 Twitter = "@artemmkins"
 linktitle = "artem-starostenko"

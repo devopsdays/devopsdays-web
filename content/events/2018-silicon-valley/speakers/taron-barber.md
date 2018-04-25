@@ -1,6 +1,6 @@
 +++
 Title = "Taron Barber"
-image = "taron-barber.jpg"
+image = "taron-barber.jpeg"
 type = "speaker"
 Twitter = "@necrobuffalo"
 linktitle = ["taron-barber","amy-nguyen-taron-barber"]

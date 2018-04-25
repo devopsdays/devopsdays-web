@@ -1,6 +1,6 @@
 +++
 Title = "Marissa Knittel"
-image = "marissa-knittel.jpg"
+image = "marissa-knittel.jpeg"
 type = "speaker"
 linktitle = "marissa-knittel"
 Website = "https://www.cloverhealth.com/en/"

@@ -1,6 +1,6 @@
 +++
 Title = "Jennelle Crothers"
-image = "jennelle-crothers.jpg"
+image = "jennelle-crothers.jpeg"
 type = "speaker"
 Twitter = "@jkc137"
 linktitle = "jennelle-crothers"

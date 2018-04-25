@@ -1,6 +1,6 @@
 +++
 Title = "Tom McLaughlin"
-image = "tom-mcLaughlin.jpg"
+# image = "tom-mcLaughlin.jpg"
 Twitter = "@tmclaughbos"
 type = "speaker"
 linktitle = ["tom-mcLaughlin"]

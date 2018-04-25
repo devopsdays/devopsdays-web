@@ -1,6 +1,6 @@
 +++
 Title = "Fatema Boxwala"
-image = "fatema-boxwala.jpg"
+image = "fatema-boxwala.jpeg"
 type = "speaker"
 Twitter = "@fatty_box"
 linktitle = "fatema-boxwala"
