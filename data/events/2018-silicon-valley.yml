@@ -85,6 +85,8 @@ sponsors:
     level: gold
   - id: circonus
     level: gold
+  - id: treasuredata
+    level: gold
   - id: contrast_security
     level: silver
   - id: kaizenops
