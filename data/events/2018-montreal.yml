@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
-  - name: sponsor
+ # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -89,8 +89,11 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+  - id: coffee
+    label: Coffee
+  - id: lanyard
+    label: Lanyard
+  - id: lunch
+    label: Lunch
