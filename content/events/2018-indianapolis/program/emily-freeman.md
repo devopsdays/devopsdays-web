@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "This IS NOT Fine: Putting Out (Code) Fires"
+Title = "Opening Keynote: This IS NOT Fine: Putting Out (Code) Fires"
 Type = "talk"
 Speakers = ["emily-freeman"]
 +++

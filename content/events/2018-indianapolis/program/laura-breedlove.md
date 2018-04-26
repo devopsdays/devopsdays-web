@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps – Key Business Accelerator and Differentiator"
+Title = "Closing Keynote: DevOps – Key Business Accelerator and Differentiator"
 Type = "talk"
 Speakers = ["laura-breedlove"]
 +++
