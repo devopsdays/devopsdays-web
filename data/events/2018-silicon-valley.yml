@@ -172,6 +172,11 @@ program:
     date: 2018-05-17
     start_time: "12:50"
     end_time: "14:00"
+  - title: "matt-stratton"
+    type: workshop
+    date: 2018-05-17
+    start_time: "14:00"
+    end_time: "15:30"
   - title: "Open Space Planning"
     type: open-space
     date: 2018-05-17
