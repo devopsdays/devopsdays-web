@@ -142,7 +142,7 @@ DevOpsDays on their own terms.
 <hr/>
 ### Happy Hour - $7,000    
 
-Happy Hour will be held on Wednesday, June 21 from 5PM to 7:30PM.  Conference
+Happy Hour will be held on Wednesday, June 6 from 5PM to 7:30PM.  Conference
 attendees will be invited to the happy hour.  Additionally, we may invite other
 members of the DC technical community to join us, space permitting.  The Happy
 Hour sponsorship includes some special perks not listed in the table above.  
@@ -155,7 +155,7 @@ Hour sponsorship includes some special perks not listed in the table above.
 * Dedicated table for swag during the happy hour
 * 10% discount code to share with your community
 * 1 minute pitch to full audience during the conference
-* 3 pitch to the happy hour attendees
+* 3 minute pitch to the happy hour attendees
 
 ### Silver - $1,000
 
