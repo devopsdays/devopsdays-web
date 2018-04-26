@@ -1,7 +1,7 @@
 +++
 Title = "Luke Sneeringer"
 Twitter = ""
-image = ""
+image = "luke-sneeringer.jpg"
 type = "speaker"
 linktitle = "luke-sneeringer"
 
