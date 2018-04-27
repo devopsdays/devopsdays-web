@@ -4,7 +4,7 @@ image = "emily-gladstone-cole.jpeg"
 type = "speaker"
 Twitter = "@unixgeekem"
 linktitle = "emily-gladstone-cole"
-Website = "https://www.facebook.com"
+Website = "https://www.mz.com"
 
 +++
 
