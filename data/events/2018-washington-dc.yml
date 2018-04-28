@@ -247,6 +247,14 @@ sponsors:
     level: platinum
   - id: stsi
     level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: booz_allen_hamilton
+    level: happyhour
+  - id: govready
+    level: platinum
+  - id: harmonia
+    level: happyhour
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -261,6 +269,8 @@ sponsor_levels:
   - id: location_and_platinum
     label: Location and Platinum
     max: 1
+  - id: happyhour
+    label: Happy Hour
   - id: platinum
     label: Platinum
   - id: gold

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "You Can't Buy Kung Fu"
+Title = "Closing Keynote: You Can't Buy Kung Fu"
 Type = "talk"
 Speakers = ["mykel-alvis"]
 +++

@@ -59,14 +59,14 @@ industry practitioners and taste-makers.
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://www.devopsrex.fr/proposer-un-talk/">Proposer un talk !</a>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -91,7 +91,7 @@ industry practitioners and taste-makers.
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-     <i>(fr)</i> <a href="https://www.devopsrex.fr/devenir-sponsor/">Click here for more information</a>
+    <a href="https://www.devopsrex.fr/devenir-sponsor/">Devenir sponsor</a>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ industry practitioners and taste-makers.
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Get in touch with the organisers" >}}
   </div>
 </div>
 
