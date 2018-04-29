@@ -1,10 +1,11 @@
 +++
-Title = "Matt Stratton"
-image = "matt-stratton.jpeg"
-# Twitter = "@dustinmm80"
+Title = "Matty Stratton"
 type = "speaker"
-linktitle = ["matt-stratton"]
-Website = "https://www.pagerduty.com"
+image = "matt-stratton.jpeg"
+twitter = "mattstratton"
+github = "mattstratton"
+linkedin = "https://www.linkedin.com/in/mattstratton/"
+website = "https://www.arresteddevops.com"
 
 +++
 
