@@ -9,19 +9,29 @@ Description = "DevOpsDays Wellington 2018"
   {{< event_logo >}}
 </div> -->
 <div class="row">
-  <div class = "col-md-4">
-    <img alt="DevOpsDay Auckland 2017" src="/events/2018-wellington/logo-wide.png" class="img-fluid"/>
+  <div class = "col-md-12">
+    <div style="text-align:center;">
+      <img alt="DevOpsDay Auckland 2018" src="/events/2018-wellington/logo-wide.png" class="welcome-page-event-logo"/>
+    </div>
   </div>
-  <div class = "col-md-8">
+</div>
+<div class="row">
+  <div class = "col-md-8 offset-md-1">
     <br/>
-    The DevOpsDays NZ organising team is pleased to announce this year's conference is in Wellington.
+    The DevOpsDays NZ organising team is pleased to announce this year's conference is in Wellington on the 5th &amp; 6th of November at Shed 6, TSB Bank Arena.
     <br/><br/>
     If you're looking to contribute as a sponsor, then details can be found {{< event_link page="sponsor" text="on the sponsorship page" >}}
+    <br/><br/>
+    Stay tuned for information on our CFP and when our Blind Bird Tickets go on sale...
+    Here's a taste from last year's conference in Auckland
+    <br/><br/>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/qw7I1Pm1ZrU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <br/><br/>
   </div>
 </div>
 
 <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
@@ -29,17 +39,17 @@ Description = "DevOpsDays Wellington 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
-  <div class = "col-md-2">
+<div class = "row">
+  <div class = "col-md-2 offset-md-1">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
@@ -48,7 +58,7 @@ Description = "DevOpsDays Wellington 2018"
 </div> -->
 
 <!-- <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
@@ -57,7 +67,7 @@ Description = "DevOpsDays Wellington 2018"
 </div> -->
 
 <!-- <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
@@ -66,7 +76,7 @@ Description = "DevOpsDays Wellington 2018"
 </div> -->
 
 <!-- <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
@@ -75,7 +85,7 @@ Description = "DevOpsDays Wellington 2018"
 </div> -->
 
 <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
@@ -84,7 +94,7 @@ Description = "DevOpsDays Wellington 2018"
 </div>
 
 <div class = "row">
-  <div class = "col-md-2">
+  <div class = "col-md-2 offset-md-1">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
@@ -112,6 +122,6 @@ Description = "DevOpsDays Wellington 2018"
 
 <!--End mc_embed_signup-->
 <!-- Uncomment if you added your city twitter name -->
-<!--
+<br/><br/>
 {{< event_twitter >}}
--->
+
