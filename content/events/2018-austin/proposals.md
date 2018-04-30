@@ -15,8 +15,6 @@ There are 21 talk slots available. Attendees will be voting on site which of the
 1. [Implementing DevOps for Simultaneous Development of Source Code, Test and Simulation Platform](../program/behlul-sutarwala/) by [Behlul Sutarwala](../speakers/behlul-sutarwala/)
 1. [Monolith to Microservices: Managing Organizational Change](../program/tobias-dunn-krahn-and-mattius-mclaughlin/) by [Tobias Dunn-Krahn](../speakers/tobias-dunn-krahn/) and [Mattius McLaughlin](../speakers/mattius-mclaughlin/)
 1. [Know your Infrastructure - Caching AWS](../program/chase-evans/) by [Chase Evans](../speakers/chase-evans/)
-1. [Open Source Security in the Fast Fluid World of Containers](../program/daniel-nurmi-andrew-cathrow-zach-hill/) by [Daniel Nurmi](../speakers/daniel-nurmi/), [Andrew Cathrow](../speakers/andrew-cathrow/), and [Zach Hill](../speakers/zach-hill/)
-1. [Kubernetes for the konfused, a strategy toolkit for normals](../program/cote/) by [Coté](../speakers/cote/)
 1. [Network Audit using Ansible](../program/daniel-ney/) by [Daniel Ney](../speakers/daniel-ney/)
 1. [Security tips for AWS](../program/deniz-parlak/) by [Deniz Parlak](../speakers/deniz-parlak/)
 1. [Lessons learned after three years of automated deployments](../program/hector-villarreal/) by [Hector Villarreal](../speakers/hector-villarreal/)
