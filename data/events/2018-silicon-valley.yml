@@ -184,7 +184,7 @@ program:
     date: 2018-05-17
     start_time: "14:00"
     end_time: "15:00"
-  - title: "ami-nguyen-adam-barber"
+  - title: "amy-nguyen-adam-barber"
     type: talk
     date: 2018-05-17
     start_time: "15:00"
@@ -332,6 +332,8 @@ ignites:
     date: 2018-05-17
   - title: "karen-bruner"
     date: 2018-05-17
+  - title: "karen-bruner-cads-oakley"
+    date: 2018-05-17  
   - title: "jay-gordon"
     date: 2018-05-17
   - title: "sanjay-shitole"
