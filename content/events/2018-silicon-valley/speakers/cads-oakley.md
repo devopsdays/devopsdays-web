@@ -1,6 +1,6 @@
 +++
 Title = "Cads Oakley"
-# image = "cads-oakley.jpg"
+image = "cads-oakley.jpeg"
 Twitter = "@cadsoakley"
 type = "speaker"
 linktitle = ["karen-bruner-cads-oakley"]
