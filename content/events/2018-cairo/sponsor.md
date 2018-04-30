@@ -43,8 +43,8 @@ email at [{{< email_organizers >}}].
 <td width="420">
 <p>Company&rsquo;s logo on devopsdays Cairo page</p>
 </td>
-<td rowspan="3" width="180">
-<p>Sold Out</p>
+<td width="180">
+<p>&radic;</p>
 </td>
 <td width="180">
 <p>&radic;</p>
@@ -63,6 +63,9 @@ email at [{{< email_organizers >}}].
 <td width="180">
 <p>&radic;</p>
 </td>
+<td width="180">
+<p>&radic;</p>
+</td>
 <td width="143">
 <p>&radic;</p>
 </td>
@@ -73,6 +76,9 @@ email at [{{< email_organizers >}}].
 <tr>
 <td width="420">
 <p>Promo spot during talk intermissions</p>
+</td>
+<td width="180">
+&nbsp;
 </td>
 <td width="180">
 <p>&radic;</p>
