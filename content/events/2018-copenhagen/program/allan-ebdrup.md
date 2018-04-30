@@ -12,3 +12,9 @@ Speakers = ["allan-ebdrup"]
 However, to do effective DevOps, to self organize our teams intelligently and to continually improve our software development processes, we need just as effective feedback loops on how we actually do our work. What does it feel like to be a developer in our org and how can we improve that?
 
 I’ll be talking about simple stuff like stand-ups, regular 1-on-1s with your manager and retrospectives. It’s not rocket surgery, maybe even banal, but in my experience these simple ceremonies can shape culture and be instrumental to succeeding with continued improvements that bring about real change in the way we work and how we do DevOps.
+
+<hr>
+
+<h2>Slides from Allan's talk:</h2>
+
+[Click here to check the slides from this talk at DevOpsDays Copenhagen 2018!](https://drive.google.com/open?id=15A_VSglKBPwxCSevDsWRfpbBEQf5wiyj)
