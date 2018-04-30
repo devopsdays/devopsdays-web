@@ -184,7 +184,7 @@ program:
     date: 2018-05-17
     start_time: "14:00"
     end_time: "15:00"
-  - title: "amy-nguyen-taron-barber"
+  - title: "ami-nguyen-adam-barber"
     type: talk
     date: 2018-05-17
     start_time: "15:00"
@@ -341,4 +341,6 @@ ignites:
   - title: "ryan-prior"
     date: 2018-05-17
   - title: "dustin-collins"
+    date: 2018-05-17
+  - title: "adam-barber"
     date: 2018-05-17

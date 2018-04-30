@@ -3,7 +3,7 @@ Title = "Amy Nguyen"
 image = "amy-nguyen.jpeg"
 # Twitter = "@cadsoakley"
 type = "speaker"
-linktitle = ["amy-nguyen-taron-barber"]
+linktitle = ["ami-nguyen-adam-barber"]
 Website = "https://www.stripe.com/"
 
 +++
