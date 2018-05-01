@@ -36,23 +36,14 @@ Description = "DevOpsDays Washington, DC 2018"
   </div>
 </div>
 
-<div class="row">
-  <div class="col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class="col-md-8">
-    <a href="https://devopsdaysdc2018.busyconf.com/proposals/new">Propose a talk now</a>.  You have a great story and we want to hear from you!
-  </div>
-</div>
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://devopsdaysdc2018.busyconf.com/schedule">program</a>.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -100,6 +91,12 @@ Description = "DevOpsDays Washington, DC 2018"
 </div>
 
 <div class="row">
+  <div class="col-md-10">
+    <h2>Program Announced</h2>
+    <p>
+      Come to DevOpsDays DC to hear amazing talks from insightful speakers and to share with and learn from your peers.  The <a href="https://devopsdaysdc2018.busyconf.com/schedule">program is available now</a>.
+    </p>
+  </div>
   <div class="col-md-10">
     <h2>Why Attend?</h2>
 
