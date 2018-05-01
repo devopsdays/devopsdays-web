@@ -148,6 +148,10 @@ sponsors:
     level: alacarte
   - id: rundeck
     level: gold
+  - id: signalfx
+    level: platinum
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "yes"
 
