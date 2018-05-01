@@ -35,6 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: keynotes
   - name: proposals
   - name: location
+  - name: schedule
   - name: registration
  # - name: program
   - name: sponsor
@@ -71,23 +72,7 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/kgaekwad/"
     image: ""
-  - name: "Tom Hall"
-    twitter: "tmhall99"
-    employer: "American Campus Communities"
-    bio: "Tom instigated and helped organize the DevOpsDays Atlanta 2016 conference, as well as having attended DoD in Austin and Chicago in years prior. He worked as a Novell Certified Engineer in the mid to late 90's and more recently spent 5+ years managing the customer-facing enterprise products and solutions training labs at Dell in Round Rock. He is now a DevOps Engineering Manager at American Campus Communities."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/tmhall99/"
-    image: ""
   - name: "Marisa Sawatphadungkij"
-  - name: "Tom Duffield"
-    twitter: "tomduffield"
-    employer: "Chef"
-    bio: "Tom is a senior engineer with Chef Software who recently moved to Austin from the frigid north: Minnesota. Outside of work he loves playing table top games and spending time with his fiancé and dog."
-    github: "tduffield"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/thomasduffield/"
-    image: ""
   - name: "Ian Richardson"
   - name: "Scott Baldwin"
     twitter: "scottsbaldwin"
@@ -97,7 +82,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
     image: ""
-  - name: "Doug Palmer"
   - name: "Dan Zentgraf"
     twitter: "danzentgraf"
     employer: "CA Technologies"
@@ -106,23 +90,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/zentgraf/"
     image: ""
-  - name: "Chris Little"
-    twitter: "cshl1"
-    employer: ""
-    bio: "I am a long-term supporter and advocate of DevOps and of DevOps Days. Many years in IT, mostly in start-ups, some big companies, lots of different tech."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/cshlittle/"
-    image: ""
-  - name: "Revanth Reddy"
-    twitter: "revanthreddy"
-    employer: "National Instruments"
-    bio: "Software Engineer at National Instruments , Foodie and hackathon enthusiast"
-    github: "revanthreddy"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/revanth-anireddy-b7676616/"
-    image: ""
-  - name: "Peco Karayanev"
   - name: "William Hackett"
     twitter: "wchack"
     employer: "National Instruments"
@@ -157,8 +124,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/richardboydii/"
     image: ""
   - name: "Laura Wickett"
-  - name: "Paul Czarkowski"
-  - name: "Katelyn Parker"
   - name: "Carl Perry"
 organizer_email: "organizers-austin-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-austin-2018@devopsdays.org" # Put your proposal email address here
