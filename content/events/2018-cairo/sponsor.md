@@ -10,173 +10,150 @@ email at [{{< email_organizers >}}].
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not 
-
-have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the 
-
-opportunity to have short elevator pitches during the program and will get recognition on the website 
-
-and social media before, during and after the event. Sponsors are encouraged to represent themselves by 
-
-actively participating and engaging with the attendees as peers. Any attendee also has the opportunity 
-
-to demo products/projects as part of an open space session.
-<p>
-<table border="1" cellpadding="5">
+<p>Devopsdays is a self-organizing conference for practitioners. We do not sell product presentations, or distribute attendee contact lists. We have three available categories of sponsorships: <strong>Silver, Gold and Platinum.</strong></p>
+<p><strong>Silver sponsor</strong> will have the company&rsquo;s logo on devopsdays Cairo 2018 page; announcement in all promotional campaigns before, during and after the event; certificate of recognition; and promo spot during talk intermissions.</p>
+<p><strong>Golden sponsor</strong> will get the benefits of Silver sponsor in addition to a table to distribute promotional material and interact with those interested to come visit during breaks.</p>
+<p><strong>Platinum sponsor - we will have just ONE EXCLUSIVE sponsor!</strong> who will get the benefits of Gold sponsor in addition to logo on company&rsquo;s slide between breaks; 2-minutes presentation; and 2 free training tickets at specific courses offered by Software Engineering Competence Center.</p>
+<p><strong>Community Sponsor will </strong>have the company&rsquo;s logo on devopsdays Cairo 2018 page; announcement in all promotional campaigns before, during and after the event; and promo spot during talk intermissions.</p>
+<p>Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
+<table border="1">
 <tbody>
 <tr>
-<td>
-<p><strong>Type</strong></p>
+<td width="420">
+<p><strong>Packages</strong></p>
 </td>
-<td>
-<p><strong>Table to distribute promotional material</strong></p>
+<td width="180">
+<p><strong>Community Sponsor</strong></p>
 </td>
-<td>
-<p><strong>Company&rsquo;s logo on DevOpsDays Cairo page</strong></p>
+<td width="180">
+<p><strong>Silver</strong></p>
+<p><strong>EGP 3,000</strong></p>
 </td>
-<td>
-<p><strong>Announcement in SECC promotional campaigns</strong></p>
+<td width="143">
+<p><strong>Gold</strong></p>
+<p><strong>EGP 5,000&nbsp;</strong></p>
 </td>
-<td>
-<p><strong>Certificate of Recognition</strong></p>
-</td>
-<td>
-<p><strong>Promo spot during talk intermissions</strong></p>
-</td>
-<td>
-<p><strong>Logo on company&rsquo;s slide between breaks</strong></p>
-</td>
-<td>
-<p><strong>2-minutes presentation</strong></p>
-</td>
-<td>
-<p><strong>Other benefits (only for Platinum)</strong></p>
+<td width="188">
+<p><strong>Platinum</strong></p>
+<p><strong>EGP 20,000</strong></p>
+<p><strong>(exclusive sponsor)</strong></p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Silver</p>
-<p>EGP 3,000</p>
+<td width="420">
+<p>Company&rsquo;s logo on devopsdays Cairo page</p>
 </td>
-<td>
-<p>&times;</p>
-</td>
-<td>
+<td width="180">
 <p>&radic;</p>
 </td>
-<td>
+<td width="180">
 <p>&radic;</p>
 </td>
-<td>
+<td width="143">
 <p>&radic;</p>
 </td>
-<td>
+<td width="188">
 <p>&radic;</p>
-</td>
-<td>
-<p>&times;</p>
-</td>
-<td>
-<p>&times;</p>
-</td>
-<td>
-<p>&times;</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Gold</p>
-<p>EGP 5,000</p>
+<td width="420">
+<p>Announcement in promotional campaigns</p>
 </td>
-<td>
+<td width="180">
 <p>&radic;</p>
 </td>
-<td>
+<td width="180">
 <p>&radic;</p>
 </td>
-<td>
+<td width="143">
 <p>&radic;</p>
 </td>
-<td>
+<td width="188">
 <p>&radic;</p>
-</td>
-<td>
-<p>&radic;</p>
-</td>
-<td>
-<p>&times;</p>
-</td>
-<td>
-<p>&times;</p>
-</td>
-<td>
-<p>&times;</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Platinum</p>
-<p>EGP 20,000</p>
-<p>(exclusive sponsor)</p>
+<td width="420">
+<p>Promo spot during talk intermissions</p>
 </td>
-<td>
+<td width="180">
+&nbsp;
+</td>
+<td width="180">
 <p>&radic;</p>
 </td>
-<td>
+<td width="143">
 <p>&radic;</p>
 </td>
-<td>
+<td width="188">
 <p>&radic;</p>
-</td>
-<td>
-<p>&radic;</p>
-</td>
-<td>
-<p>&radic;</p>
-</td>
-<td>
-<p>&radic;</p>
-</td>
-<td>
-<p>&radic;</p>
-</td>
-<td>
-<p>2 free seats @SECC training</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Community Sponsor</p>
-<p>(NGOs)</p>
+<td width="420">
+<p>Certificate of recognition</p>
 </td>
-<td>
-<p>&times;</p>
-</td>
-<td>
+<td width="180">&nbsp;</td>
+<td width="180">
 <p>&radic;</p>
 </td>
-<td>
+<td width="143">
 <p>&radic;</p>
 </td>
-<td>
+<td width="188">
 <p>&radic;</p>
 </td>
-<td>
+</tr>
+<tr>
+<td width="420">
+<p>Table to distribute promotional material</p>
+</td>
+<td width="180">&nbsp;</td>
+<td width="180">&nbsp;</td>
+<td width="143">
 <p>&radic;</p>
 </td>
-<td>
-<p>&times;</p>
+<td width="188">
+<p>&radic;</p>
 </td>
-<td>
-<p>&times;</p>
+</tr>
+<tr>
+<td width="420">
+<p>Logo on company&rsquo;s slide between breaks</p>
 </td>
-<td>
-<p>&times;</p>
+<td width="180">&nbsp;</td>
+<td width="180">&nbsp;</td>
+<td width="143">&nbsp;</td>
+<td width="188">
+<p>&radic;</p>
+</td>
+</tr>
+<tr>
+<td width="420">
+<p>2-minutes presentation</p>
+</td>
+<td width="180">&nbsp;</td>
+<td width="180">&nbsp;</td>
+<td width="143">&nbsp;</td>
+<td width="188">
+<p>&radic;</p>
+</td>
+</tr>
+<tr>
+<td width="420">
+<p>2 free training seats at specific courses</p>
+</td>
+<td width="180">&nbsp;</td>
+<td width="180">&nbsp;</td>
+<td width="143">&nbsp;</td>
+<td width="188">
+<p>&radic;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p><p>
+<p>
 
 <!--
 <hr/>
