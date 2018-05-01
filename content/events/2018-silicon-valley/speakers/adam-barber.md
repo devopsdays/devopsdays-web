@@ -3,7 +3,7 @@ Title = "Adam Barber"
 image = "adam-barber.jpeg"
 type = "speaker"
 Twitter = "@necrobuffalo"
-linktitle = ["adam-barber","ami-nguyen-adam-barber"]
+linktitle = ["amy-nguyen-adam-barber"]
 Website = "https://www.nylas.com"
 
 +++
