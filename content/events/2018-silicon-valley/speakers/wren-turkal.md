@@ -1,6 +1,6 @@
 +++
 Title = "Wren Turkal"
-# image = "david-laulusa.jpg"
+image = "wren-turkal.jpeg"
 Twitter = "@w00tSpeaks"
 type = "speaker"
 linktitle = ["wren-turkal"]

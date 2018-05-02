@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -91,6 +91,8 @@ sponsors:
     level: bronze
   - id: pivotal
     level: bronze
+  - id: itera
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,13 +101,127 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+
+program:
+  - title: "Registration & Welcome Coffee"
+    type: custom
+    date: 2018-05-05
+    start_time: "09:00"
+    end_time: "09:50"
+  - title: "Opening / Dan Maher"
+    type: custom
+    date: 2018-05-05
+    start_time: "09:50"
+    end_time: "10:10"
+  - title: "Andrew Clay Shafer"
+    type: custom
+    date: 2018-05-05
+    start_time: "10:10"
+    end_time: "10:50"
+  - title: "Break"
+    type: custom
+    date: 2018-05-05
+    start_time: "10:50"
+    end_time: "11:05"
+  - title: "h-waldo-grunenwald"
+    type: talk
+    date: 2018-05-05
+    start_time: "11:05"
+    end_time: "11:45"
+  - title: "Break"
+    type: custom
+    date: 2018-05-05
+    start_time: "11:45"
+    end_time: "12:00"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2018-05-05
+    start_time: "12:00"
+    end_time: "12:40"
+  - title: "gerie-owen"
+    type: talk
+    date: 2018-05-05
+    start_time: "12:00"
+    end_time: "12:40"
+  - title: "Break"
+    type: custom
+    date: 2018-05-05
+    start_time: "12:40"
+    end_time: "12:50"
+  - title: "jelmer-snoeck"
+    type: talk
+    date: 2018-05-05
+    start_time: "12:50"
+    end_time: "13:30"
+  - title: "serhat-can"
+    type: talk
+    date: 2018-05-05
+    start_time: "12:50"
+    end_time: "13:30"
+  - title: "Lunch"
+    type: custom
+    date: 2018-05-05
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-05
+    start_time: "14:30"
+    end_time: "15:10"
+  - title: "Open Space Opening / Dan Maher"
+    type: open-space
+    date: 2018-05-05
+    start_time: "15:10"
+    end_time: "15:50"
+  - title: "Break"
+    type: custom
+    date: 2018-05-05
+    start_time: "15:50"
+    end_time: "16:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-05-05
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-05
+    start_time: "16:30"
+    end_time: "16:40"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-05-05
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "Break"
+    type: custom
+    date: 2018-05-05
+    start_time: "17:10"
+    end_time: "17:20"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-05-05
+    start_time: "17:20"
+    end_time: "17:50"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2018-05-05
+    start_time: "17:50"
+    end_time: "18:00"
+
+ignites:
+  - title: "ignite-anton-babenko"
+    date: 2018-05-05
+  - title: "ignite-peter-varhol1"
+    date: 2018-05-05
+  - title: "ignite-peter-varhol2"
+    date: 2018-05-05
+  - title: "ignite-serhat-can"
+    date: 2018-05-05
+  - title: "lightning-h-waldo-grunenwald"
+    date: 2018-05-05

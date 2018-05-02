@@ -82,3 +82,11 @@ Description = "devopsdays Copenhagen 2018"
 </div>
 
 {{< event_twitter >}}
+
+<br>
+
+## Pictures from DevOpsDays Copehagen 2018 
+
+<br>
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/code-conf/albums/72157692949287212" title="DevOpsDays CPH 2018"><img src="https://farm1.staticflickr.com/977/27826295698_00136266b7_c.jpg" width="800" height="534" alt="DevOpsDays CPH 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

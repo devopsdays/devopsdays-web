@@ -67,6 +67,8 @@ proposal_email: "proposals-copenhagen-2018@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 
+pictures: <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/code-conf/albums/72157692949287212" title="DevOpsDays CPH 2018"><img src="https://farm1.staticflickr.com/977/27826295698_00136266b7.jpg" width="500" height="333" alt="DevOpsDays CPH 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 sponsors:
   - id: praqma
     level: gold

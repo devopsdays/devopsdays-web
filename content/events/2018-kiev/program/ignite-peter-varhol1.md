@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Talking to People: The Forgotten DevOps Tool"
+Title = "Ignite: \"Talking to People: The Forgotten DevOps Tool\""
 Type = "talk"
 Speakers = ["peter-varhol"]
 +++
