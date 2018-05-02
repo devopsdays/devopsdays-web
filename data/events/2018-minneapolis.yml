@@ -152,6 +152,8 @@ sponsors:
     level: platinum
   - id: pagerduty
     level: gold
+  - id: morpheus
+    level: gold
 
 sponsors_accepted : "yes"
 
