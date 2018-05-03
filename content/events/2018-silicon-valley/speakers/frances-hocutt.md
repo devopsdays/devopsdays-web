@@ -1,7 +1,8 @@
 +++
 Title = "Frances Hocutt"
-# image = ".jpg"
-# Twitter = "@"
+image = "frances-hocutt.jpeg"
+#
+Twitter = "@"
 type = "speaker"
 linktitle = ["frances-hocutt"]
 Website = "https://www.rackspace.com/"
