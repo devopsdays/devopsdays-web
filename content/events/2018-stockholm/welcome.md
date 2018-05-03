@@ -5,9 +5,9 @@ aliases = ["/events/2018-stockholm"]
 Description = "devopsdays Stockholm 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:left;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -27,14 +27,14 @@ Description = "devopsdays Stockholm 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div> 
 
 <!-- <div class = "row">
   <div class = "col-md-2">
