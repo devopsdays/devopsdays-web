@@ -100,6 +100,10 @@ sponsors:
     level: bronze
   - id: itera
     level: bronze
+  - id: morshinska
+    level: partner
+  - id: box-catering-ua
+    level: partner
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,6 +117,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: partner
+    label: Partner
 
 program:
   - title: "Registration & Welcome Coffee"
