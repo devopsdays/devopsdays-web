@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "QAs and DevOps can be Good Friends"
 Type = "talk"
 Speakers = ["gloria-hornero"]
+YouTube ="KS4Q-0eDCJs" 
 +++
 
 **Although QAs and DevOps can be seen as two different roles, the truth is that they have more things in common than we think.**
