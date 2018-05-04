@@ -73,7 +73,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Victoriia Korobkina"
     employer: "Provectus"
-    twitter: ""
+    linkedin: "https://www.linkedin.com/in/victoriia-korobkina/"
+    facebook:  "https://www.facebook.com/victoriia.korobkina"
     bio: ""
     image: "victoriia-korobkina.jpg"
 
