@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Dr. Kübler-Ross' 5 Stages of Grief - Applied to the Process of Adopting DevOps"
 Type = "talk"
+youtube ="Dja3ry_6Qbk"
 Speakers = ["lars-kruse"]
 +++
 

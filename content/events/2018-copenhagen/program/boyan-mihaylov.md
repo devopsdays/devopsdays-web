@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Crafting a Robust Deployment Pipeline for the Financial Sector"
 Type = "talk"
+YouTube = "-cZbWkyTb6I" 
 Speakers = ["boyan-mihaylov"]
 +++
 
