@@ -154,6 +154,8 @@ sponsors:
     level: gold
   - id: morpheus
     level: gold
+  - id: thoughtworks-gocd
+    level: silver
 
 sponsors_accepted : "yes"
 
