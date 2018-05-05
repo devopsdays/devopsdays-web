@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["shawn-sterling", "nan-jiang"]
 +++
 
-Is it possible to implement DevOps style best practices in in organizations best described as an eight hundred pound gorilla (read: very large enterprise)? Some say no, but we at Sourced Group have been doing exactly that for the past 8 years and we’ve lived to tell a few tales about our experiences.
+Is it possible to implement DevOps style best practices in organizations best described as an eight hundred pound gorilla (read: very large enterprise)? Some say no, but we at Sourced Group have been doing exactly that for the past 8 years and we’ve lived to tell a few tales about our experiences.
 
 In this talk we will be going over some of the challenges that we’ve faced in the last couple years, and how we solved those problems using advanced cloud native patterns. We would like to showcase that implementing a DevOps methodology at very large enterprises is not only possible, but can be full of interesting problems that you might only see when dealing with the human and infrastructure scale that comes with the enterprise.
 
