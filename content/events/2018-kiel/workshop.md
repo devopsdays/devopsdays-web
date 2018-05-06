@@ -39,25 +39,16 @@ tags = ["kiel","kiel-2018"]
     <a href="/events/2018-kiel/workshop/avishai-ish-shalom-docker/">
     <strong>Docker from Scratch</strong><br />
     </a>
-    Location: tba <br />
+    Location: wobe-systems GmbH; Wittland 2-4; 24109 Kiel <br />
   <a href="/events/2018-kiel/speakers/avishai-ish-shalom/">
     Avishai Ish-Shalom
-  </a>
-  </div>
-  <div class = "col-md-3 box-lightorange">
-    <a href="/events/2018-kiel/workshop/alex-seriy/">
-    <strong>DevOps in a scaling environment</strong><br />
-    </a>
-    Location:  tba<br />
-  <a href="/events/2018-kiel/speakers/alex-seriy/">
-    Alex Seriy
   </a>
   </div>
   <div class = "col-md-3 box-grey">
     <a href="/events/2018-kiel/workshop/heinrich-hartmann/">
     <strong>Data science for Effective Operations</strong><br />
     </a>
-    Location:  tba<br />
+    Location:  Fleet 7; Holstenstraße 68a; 24103 Kiel<br />
   <a href="/events/2018-kiel/speakers/heinrich-hartmann/">
     Heinrich Hartmann
   </a>
@@ -74,25 +65,6 @@ tags = ["kiel","kiel-2018"]
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "col-md-12">
-    <time><h5>09:30-16:00</h5></time>
-  </div>
-</div>
-<div class = "row">
- <div class = "col-md-3 box">
-    <a href="/events/2018-kiel/workshop/christian-kniep/">
-    <strong>SWARM and Kubernetes with Docker – a use case</strong><br />
-    </a>
-    Location: tba <br />
-  <a href="/events/2018-kiel/speakers/christian-kniep/">
-    Christian Kniep
-  </a>
-  </div>
-</div>
-<!-- end timeslot div -->
-
-<!-- this div is repeated for each timeslot -->
-<div class = "row">
-  <div class = "col-md-12">
     <time><h5>09:00-12:30</h5></time>
   </div>
 </div>
@@ -101,7 +73,7 @@ tags = ["kiel","kiel-2018"]
     <a href="/events/2018-kiel/workshop/avishai-ish-shalom-resilient/">
     <strong>Resilient Design workshop</strong><br />
     </a>
-    Location: tba <br />
+    Location: wobe-systems GmbH; Wittland 2-4; 24109 Kiel <br />
   <a href="/events/2018-kiel/speakers/avishai-ish-shalom/">
     Avishai Ish-Shalom
   </a>
@@ -120,7 +92,7 @@ tags = ["kiel","kiel-2018"]
     <a href="/events/2018-kiel/workshop/avishai-ish-shalom-linux/">
     <strong>Linux Systems metrics workshop</strong><br />
     </a>
-    Location: tba <br />
+    Location: wobe-systems GmbH; Wittland 2-4; 24109 Kiel <br />
   <a href="/events/2018-kiel/speakers/avishai-ish-shalom/">
     Avishai Ish-Shalom
   </a>
