@@ -36,7 +36,11 @@ The following chart outlines our sponsorship packages.  Drop us an email at {{< 
 <td><strong>Silver</strong></td>
 <td><strong>Gold</strong></td>
 <td><strong>Platinum</strong></td>
-<td><strong>Happy Hour</strong></td>
+<td>
+  <strong><span style="text-decoration: line-through;">
+    Happy Hour
+  </span></strong>
+</td>
 </tr>
 <tr class="hed2">
 <td></td>
@@ -45,7 +49,7 @@ The following chart outlines our sponsorship packages.  Drop us an email at {{< 
 <td><strong>$1,000 USD</strong></td>
 <td><strong>$3,000 USD</strong></td>
 <td><strong>$5,000 USD</strong></td>
-<td><strong>$7,000 USD</strong></td>
+<td><strong>SOLD OUT</strong></td>
 </tr>
 <tr>
 <td>Logo on shared slide, rotating during breaks</td>
@@ -140,23 +144,6 @@ The best thing to do is send engineers to interact with the experts at
 DevOpsDays on their own terms.
 <p>
 <hr/>
-### Happy Hour - $7,000    
-
-Happy Hour will be held on Wednesday, June 6 from 5PM to 7:30PM.  Conference
-attendees will be invited to the happy hour.  Additionally, we may invite other
-members of the DC technical community to join us, space permitting.  The Happy
-Hour sponsorship includes some special perks not listed in the table above.  
-
-* 4 included tickets
-* Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays DC 2018 event website
-* Logo on all email communication
-* Dedicated table for swag during the conference
-* Dedicated table for swag during the happy hour
-* 10% discount code to share with your community
-* 1 minute pitch to full audience during the conference
-* 3 minute pitch to the happy hour attendees
-
 ### Silver - $1,000
 
 * 1 included ticket
@@ -203,6 +190,23 @@ become a Community Sponsor.
 * 10% discount code to share with your members
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2018 event website
+
+### Happy Hour - SOLD OUT
+
+Happy Hour will be held on Wednesday, June 6 from 5PM to 7:30PM.  Conference
+attendees will be invited to the happy hour.  Additionally, we may invite other
+members of the DC technical community to join us, space permitting.  The Happy
+Hour sponsorship includes some special perks not listed in the table above.  
+
+* 4 included tickets
+* Logo on shared slide, rotating during breaks
+* Logo on DevOpsDays DC 2018 event website
+* Logo on all email communication
+* Dedicated table for swag during the conference
+* Dedicated table for swag during the happy hour
+* 10% discount code to share with your community
+* 1 minute pitch to full audience during the conference
+* 3 minute pitch to the happy hour attendees
 
 [Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysdc2018.busyconf.com/bookings/new?discount=SPONSOR)
 
