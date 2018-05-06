@@ -261,7 +261,6 @@ program:
     date: 2018-05-17
     start_time: "10:30"
     end_time: "11:00"
-    comments: "powered by HCL America Inc."
   - title: "jon-hall"
     type: talk
     date: 2018-05-17
@@ -307,7 +306,6 @@ program:
     date: 2018-05-17
     start_time: "15:40"
     end_time: "16:00"
-    comments: "powered by HCL America Inc."
   - title: "siamak-sadeghianfar"
     type: talk
     date: 2018-05-17
