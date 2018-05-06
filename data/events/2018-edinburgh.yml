@@ -114,9 +114,6 @@ sponsor_levels:
     label: Bronze
   # - id: community
   #   label: Community
-  - id: social
-    label: Social
-    max: 2
   - id: diversity
     label: Diversity
     max: 3
