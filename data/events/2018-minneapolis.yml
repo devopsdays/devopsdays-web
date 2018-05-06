@@ -25,16 +25,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "44.972610,-93.272960"
-location: "Minneapolis" # Defaults to city, but you can make it the venue name.
+location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA
+" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
   - name: registration
- # - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -157,6 +158,7 @@ sponsors:
   - id: thoughtworks-gocd
     level: silver
 
+
 sponsors_accepted : "yes"
 
 sponsor_levels:
@@ -171,3 +173,191 @@ sponsor_levels:
     label: A La Carte
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-12
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "sharon-kennedy-vickers"
+    type: talk
+    date: 2018-07-12
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "amy-patton"
+    type: talk
+    date: 2018-07-12
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-12
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "lanice-sims"
+    type: talk
+    date: 2018-07-12
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "ronnie-chen"
+    type: talk
+    date: 2018-07-12
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-12
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-12
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-07-12
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Workshop 1"
+    type: custom
+    date: 2018-07-12
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2018-07-12
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-07-12
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2018-07-12
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Workshop 2"
+    type: custom
+    date: 2018-07-12
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Sponsor Happy Hour"
+    type: custom
+    date: 2018-07-12
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "Ignites & Evening Program"
+    type: ignite
+    date: 2018-07-12
+    start_time: "18:00"
+    end_time: "20:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-13
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "aditya-mukerjee"
+    type: talk
+    date: 2018-07-13
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "ian-coldwater"
+    type: talk
+    date: 2018-07-13
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-13
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "amy-chen"
+    type: talk
+    date: 2018-07-13
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "tim-gross"
+    type: talk
+    date: 2018-07-13
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-13
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-13
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2018-07-13
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Workshop 3"
+    type: custom
+    date: 2018-07-13
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "Break & Raffle"
+    type: custom
+    date: 2018-07-13
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2018-07-13
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-07-13
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Workshop 4"
+    type: custom
+    date: 2018-07-13
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Closing"
+    type: custom
+    date: 2018-07-13
+    start_time: "16:30"
+    end_time: "16:45"
+
