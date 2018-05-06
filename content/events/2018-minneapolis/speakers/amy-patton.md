@@ -1,6 +1,6 @@
 +++
 Title = "Amy Patton"
-Twitter = "TheAmyCode"
+Twitter = "pattonamyj"
 image = "amy-patton.png"
 type = "speaker"
 linktitle = "amy-patton"
