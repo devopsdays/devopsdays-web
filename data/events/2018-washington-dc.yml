@@ -13,7 +13,7 @@ cfp_date_start:  2018-03-09
 cfp_date_end:  2018-04-15
 cfp_date_announce:  2018-04-22
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
 
 registration_date_start: 2018-03-09
