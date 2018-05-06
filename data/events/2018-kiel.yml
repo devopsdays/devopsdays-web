@@ -209,7 +209,7 @@ program:
     start_time: "15:45"
     end_time: "16:00"
     comments: "powered by KPS-Concepts GmbH"
-  - title: "alex-seriy"
+  - title: "moritz-eysholdt"
     type: talk
     date: 2018-05-16
     start_time: "16:00"
@@ -220,7 +220,7 @@ program:
     start_time: "16:35"
     end_time: "17:00"
     comments: "powered by ASSPICK Versicherungsmakler GmbH"
-  - title: "christian-kniep"
+  - title: "sven-peters"
     type: talk
     date: 2018-05-16
     start_time: "17:00"
@@ -331,8 +331,6 @@ ignites:
     date: 2018-05-16
   - title: "daniel-berman"
     date: 2018-05-16
-  - title: "moritz-eysholdt"
-    date: 2018-05-17
   - title: "axel-giernas"
     date: 2018-05-17
       
