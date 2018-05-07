@@ -1,4 +1,7 @@
 +++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "The Rocky Path to Migrating Production Applications to Serverless Architecture"
 Type = "talk"
 Speakers = ["serhat-can"]

@@ -1,4 +1,7 @@
 +++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Welcome to devopsdays Amsterdam 6"
 Type = "talk"
 Speakers = ["peter-nijenhuis"]

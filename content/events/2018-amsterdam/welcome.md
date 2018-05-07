@@ -1,4 +1,6 @@
 +++
+City = "Amsterdam"
+Year = "2018"
 Title = "devopsdays Amsterdam 2018"
 Type = "welcome"
 aliases = ["/events/2018-amsterdam"]

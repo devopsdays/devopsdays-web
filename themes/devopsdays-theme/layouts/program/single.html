@@ -90,6 +90,9 @@
                                 -
                                 {{ $.Scratch.Get .title }}
                               </a><br/>
+                                {{- if .comments -}}
+                                  <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
+                                {{- end -}}
                               {{- else if eq .type "ignite" -}}
                               {{ .title }}
                               <!-- do ignite stuff here -->
