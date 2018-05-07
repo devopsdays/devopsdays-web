@@ -18,9 +18,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <th style="width: 8%; padding: 5px"><center><strike>Gold</strike></center></th>
       <th style="width: 8%; padding: 5px"><center><strike>Re-charge</strike></center></th>
       <th style="width: 8%; padding: 5px"><center>Coffee</center></th>
-      <th style="width: 8%; padding: 5px"><center>Pre-event</center></th>
       <th style="width: 8%; padding: 5px"><center><strike>Beer</strike></center></th>
-      <th style="width: 8%; padding: 5px"><center>BBQ</center></th>
     </tr>
     <tr>
       <td style="padding-left: 5px">Pricing</td>
@@ -29,9 +27,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td><center><strike>€6000</strike></center></td>
       <td><center><strike>€3000</strike></center></td>
       <td><center>€8500</center></td>
-      <td><center>€8000</center></td>
       <td><center><strike>€10000</strike></center></td>
-      <td><center>€12000</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">&nbsp;</td>
@@ -40,9 +36,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <th><center>Sold Out!</center></th>
       <th><center>Sold Out!</center></th>
       <th><center>Available!</center></th>
-      <th><center>Available!</center></th>
       <th><center>Sold Out!</center></th>
-      <th><center>Available!</center></th>
     </tr>
     <tr>
       <td style="padding-left: 5px">Included tickets</td>
@@ -51,9 +45,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td><center><strike>3</strike></center></td>
       <td><center><strike>2</strike></center></td>
       <td><center>3</center></td>
-      <td><center>3</center></td>
       <td><center><strike>3</strike></center></td>
-      <td><center>3</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on event website</td>
@@ -62,9 +54,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on event posters</td>
@@ -73,9 +63,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on all email communication</td>
@@ -84,9 +72,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo at re-charge center</td>
@@ -95,9 +81,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on beer bottles</td>
@@ -106,9 +90,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo on coffee cups</td>
@@ -117,9 +99,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo show during pre-event social</td>
@@ -128,9 +108,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Logo show during BBQ</td>
@@ -139,9 +117,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">High (small) table</td>
@@ -150,9 +126,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Full table</td>
@@ -161,9 +135,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">1 minute pitch to full audience</td>
@@ -172,9 +144,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">additional 1 minute pitch</td>
@@ -183,9 +153,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td><center>&nbsp;</center></td>
-      <td><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">swag bag insert</td>
@@ -194,9 +162,7 @@ Description = "Sponsor devopsdays Amsterdam 2018"
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
       <td bgcolor="gold"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
       <td bgcolor="#888888"><center>&nbsp;</center></td>
-      <td bgcolor="gold"><center>&nbsp;</center></td>
     </tr>
   </table>
   <hr/>

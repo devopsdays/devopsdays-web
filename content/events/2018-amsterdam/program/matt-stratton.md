@@ -1,4 +1,7 @@
 +++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "How Do You Infect Your Organization With Humane Ops?"
 Type = "talk"
 Speakers = ["matt-stratton"]

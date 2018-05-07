@@ -1,4 +1,7 @@
 +++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Chaos while deploying ML and making sure AI doesn't hurt your app"
 Type = "talk"
 Speakers = ["thiago-de-faria"]

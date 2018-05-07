@@ -144,6 +144,7 @@ program:
     date: 2018-05-17
     start_time: "09:15"
     end_time: "09:45"
+    comments: "location: TBD"
   - title: "tiffani-bell"
     type: talk
     date: 2018-05-17
@@ -333,7 +334,7 @@ ignites:
   - title: "karen-bruner"
     date: 2018-05-17
   - title: "karen-bruner-cads-oakley"
-    date: 2018-05-17  
+    date: 2018-05-17
   - title: "jay-gordon"
     date: 2018-05-17
   - title: "sanjay-shitole"
