@@ -6,7 +6,7 @@ description: "devopsdays is coming to Amsterdam!" # Edit this to suit your prefe
 ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2018-01-05
-startdate:  2018-06-28
+startdate:  2018-06-27
 enddate:  2018-06-29
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -146,18 +146,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: bbq
-    label: "Evening Event"
-    max: "1"
-  - id: preevent
-    label: "Pre Event Social"
+  - id: coffee
+    label: "Coffee"
     max: "1"
   - id: beer
     label: Beer
     max: "1"
   - id: gold
     label: Gold
-    max: "8"
+    max: "10"
   - id: silver
     label: Silver
     max: "7"
@@ -176,36 +173,36 @@ program:
     start_time: "08:00"
     end_time: "09:00"
 #9:00 to 11:30
-  - title: "workshop"
+  - title: "michael-hausenblas"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Main Room"
+  - title: "blackrock-partners"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: 'Small' Room"
+  - title: "erik-zeedijk"
     type: workshop
     date: 2018-06-27
     start_time: "09:00"
     end_time: "11:30"
     comments: "Location: TBD"
-  - title: "workshop"
+  - title: "mandi-walls"
     type: workshop
     date: 2018-06-27
     start_time: "09:00"
     end_time: "11:30"
     comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "09:00"
-    end_time: "11:30"
-    comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "09:00"
-    end_time: "11:30"
-    comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "09:00"
-    end_time: "11:30"
-    comments: "Location: TBD"
+#  - title: "james-pavey-1"
+#    type: workshop
+#    date: 2018-06-27
+#    start_time: "09:00"
+#    end_time: "11:30"
+#    comments: "Location: TBD"
 # Lunch
   - title: "Lunch Express (Fast) Break"
     type: custom
@@ -213,31 +210,31 @@ program:
     start_time: "11:30"
     end_time: "12:00"
 # 12:00 to 14:30
-  - title: "workshop"
+  - title: "andy-repton"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Main Room"
+  - title: "christina-aldan"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: 'Small' Room"
+  - title: "luca-maraschi"
     type: workshop
     date: 2018-06-27
     start_time: "12:00"
     end_time: "14:30"
     comments: "Location: TBD"
-  - title: "workshop"
+  - title: "anubhav-mishra"
     type: workshop
     date: 2018-06-27
     start_time: "12:00"
     end_time: "14:30"
     comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "12:00"
-    end_time: "14:30"
-    comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "12:00"
-    end_time: "14:30"
-    comments: "Location: TBD"
-  - title: "workshop"
+  - title: "philipp-krenn"
     type: workshop
     date: 2018-06-27
     start_time: "12:00"
@@ -251,25 +248,25 @@ program:
     end_time: "14:45"
 
 # 14:45 to 17:15
-  - title: "workshop"
+  - title: "bridget-kromhout-ws"
+    type: workshop
+    date: 2018-06-27
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: Main Room"
+  - title: "mark-heistek"
+    type: workshop
+    date: 2018-06-27
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: 'Small' Room"
+  - title: "andrew-farley"
     type: workshop
     date: 2018-06-27
     start_time: "14:45"
     end_time: "17:15"
     comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "14:45"
-    end_time: "17:15"
-    comments: "Location: TBD"
-  - title: "workshop"
-    type: workshop
-    date: 2018-06-27
-    start_time: "14:45"
-    end_time: "17:15"
-    comments: "Location: TBD"
-  - title: "workshop"
+  - title: "michael-ducy-ws"
     type: workshop
     date: 2018-06-27
     start_time: "14:45"
@@ -345,7 +342,7 @@ program:
     date: 2018-06-28
     start_time: "15:00"
     end_time: "15:30"
-  - title: "paul-czarkowski"
+  - title: "andrew-martin"
     type: talk
     date: 2018-06-28
     start_time: "15:00"
@@ -356,12 +353,6 @@ program:
     date: 2018-06-28
     start_time: "15:35"
     end_time: "16:05"
-  - title: "andrew-martin"
-    type: talk
-    date: 2018-06-28
-    start_time: "15:35"
-    end_time: "16:05"
-    comments: "Security Track | Location: Main Room"
   - title: "Open Space Session - Day 1 - #3"
     type: open-space
     date: 2018-06-28
@@ -431,9 +422,9 @@ program:
     date: 2018-06-29
     start_time: "13:15"
     end_time: "13:45"
-  - title: "Ignites Day 1"
+  - title: "Ignites Day 2"
     type: ignite
-    date: 2018-06-28
+    date: 2018-06-29
     start_time: "13:50"
     end_time: "14:15"
   - title: "Open Space Planning"
@@ -480,8 +471,18 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 
-#ignites:
-#  - title: "connie-lynne-villani"
-#    date: 2018-06-28
-#  - title: "marissa-knittel"
-#    date: 2018-06-28
+ignites:
+  - title: "jason-yee"
+    date: 2018-06-28
+  - title: "serhat-can-ig"
+    date: 2018-06-28
+  - title: "joep-weijers"
+    date: 2018-06-28
+  - title: "matt-stratton-ig"
+    date: 2018-06-28
+  - title: "jonah-meijers"
+    date: 2018-06-29
+  - title: "aditya-vadaganadam"
+    date: 2018-06-29
+  - title: "aernout-van-den-burg"
+    date: 2018-06-29
