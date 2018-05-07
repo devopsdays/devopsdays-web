@@ -73,6 +73,8 @@ proposal_email: "proposals-detroit-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: gold
+  - id: redhat
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
