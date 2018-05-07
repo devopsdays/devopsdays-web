@@ -483,8 +483,6 @@ program:
 ignites:
   - title: "jason-yee"
     date: 2018-06-28
-  - title: "serhat-can-ig"
-    date: 2018-06-28
   - title: "joep-weijers"
     date: 2018-06-28
   - title: "matt-stratton-ig"
@@ -492,6 +490,8 @@ ignites:
   - title: "jonah-meijers"
     date: 2018-06-29
   - title: "aditya-vadaganadam"
+    date: 2018-06-29
+  - title: "serhat-can-ig"
     date: 2018-06-29
   - title: "aernout-van-den-burg"
     date: 2018-06-29
