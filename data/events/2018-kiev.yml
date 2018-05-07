@@ -56,6 +56,7 @@ team_members: # Name is the only required field for team members.
     employer: "RingCentral"
     twitter: ""
     bio: ""
+    image: "dmitry-gutsalenko.jpg"
 
   - name: "Stas Ivashchenko"
     employer: "Provectus"
@@ -70,6 +71,19 @@ team_members: # Name is the only required field for team members.
     github: "delgod"
     linkedin: "https://www.linkedin.com/in/delgod/"
     image: "mykola-marzhan.jpg"
+
+  - name: "Victoriia Korobkina"
+    employer: "Provectus"
+    linkedin: "https://www.linkedin.com/in/victoriia-korobkina/"
+    facebook:  "https://www.facebook.com/victoriia.korobkina"
+    bio: ""
+    image: "victoriia-korobkina.jpg"
+
+  - name: "Daniel Maher"
+    employer: "DataDog"
+    twitter: "phrawzty"
+    bio: ""
+    image: "daniel-maher.jpg"
 
 organizer_email: "organizers-kiev-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-kiev-2018@devopsdays.org" # Put your proposal email address here
@@ -93,6 +107,10 @@ sponsors:
     level: bronze
   - id: itera
     level: bronze
+  - id: morshinska
+    level: partner
+  - id: box-catering-ua
+    level: partner
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -106,6 +124,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: partner
+    label: Partner
 
 program:
   - title: "Registration & Welcome Coffee"

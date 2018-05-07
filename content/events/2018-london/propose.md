@@ -6,8 +6,6 @@ Description = "Propose a talk for devopsdays London 2018"
   {{< cfp_dates >}}
 
 <hr>
-<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSdGb7ZUaUpUiH8ObK2OUBfeueGSU7pKLkZB4RqMh9aeKxjoeg/viewform#start=openform" target="_blank">Click here to propose a session</a></h2>
-
 <br/><strong>There are two ways to propose a topic:</strong>
 <ol>
   <li><strong><em>Main talk</em></strong>: 30 minute slots.</li>
@@ -35,6 +33,6 @@ Description = "Propose a talk for devopsdays London 2018"
 - <a href="https://medium.com/@hannahfoxwell/should-tech-conferences-be-more-inclusive-5a05a09cd302">Should Tech Conferences Be More Inclusive?</a>
 - <a href="http://randomness.org.uk/2017/05/21/Anonymising-talk-submissions-for-DevOpsDays-London.html">Anonymising talk submissions for DevOpsDays London</a>
 
+<br/><a href="https://docs.google.com/forms/d/e/1FAIpQLSdGb7ZUaUpUiH8ObK2OUBfeueGSU7pKLkZB4RqMh9aeKxjoeg/viewform#start=openform" target="_blank" class="btn btn-primary btn-lg btn-block">Propose a session</a>
 
-<br/><h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSdGb7ZUaUpUiH8ObK2OUBfeueGSU7pKLkZB4RqMh9aeKxjoeg/viewform#start=openform" target="_blank">Click here to propose a session</a></h2>
 <hr>
