@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -106,3 +106,107 @@ sponsor_levels:
   - id: community
     label: Community
     max: 5
+
+program:
+  - title: "Registration Opens"
+    type: custom
+    date: 2018-05-25
+    start_time: "8:30"
+    end_time: "9:00"
+    background_color: "#00B000"
+  - title: "Intro"
+    type: custom
+    date: 2018-05-25
+    start_time: "9:00"
+    end_time: "9:30"
+    background_color: "#00B000"
+  - title: "Plum Room - Monolith to Microservices: Managing Organizational Change - Tobias Dunn-Krahn & Mattius McLaughlin"
+    type: custom
+    date: 2018-05-25
+    start_time: "9:30"
+    end_time: "10:30"
+    background_color: "#B068FF"
+  - title: "Studio - What It's Like to a be a Woman in a Male-Dominated Industry - Emily Brenner"
+    type: custom
+    date: 2018-05-25
+    start_time: "9:30"
+    end_time: "10:00"  
+  - title: "Studio - Serverless - Jeffery Grajkowski"
+    type: custom
+    date: 2018-05-25
+    start_time: "10:00"
+    end_time: "10:30"  
+  - title: "Plum Room - Taming Infrastructure Workflow at Scale - Anubhav Mishra"
+    type: custom
+    date: 2018-05-25
+    start_time: "10:30"
+    end_time: "11:30"
+    background_color: "#B068FF"
+  - title: "Studio - Agility In Software Engineering - Chris Holland"
+    type: custom
+    date: 2018-05-25
+    start_time: "10:30"
+    end_time: "11:30"
+  - title: "Plum Room - ECS and ALB: A pattern for easy and efficient microservices on AWS - Jamie Starke"
+    type: custom
+    date: 2018-05-25
+    start_time: "11:30"
+    end_time: "12:30"
+    background_color: "#B068FF"
+  - title: "Studio - Beyond Tools: A human approach to DevOps - Eduardo Augusto Alves Camargo"
+    type: custom
+    date: 2018-05-25
+    start_time: "11:30"
+    end_time: "12:30"
+  - title: "Lunch - Catered"
+    type: custom
+    date: 2018-05-25
+    start_time: "12:30"
+    end_time: "1:30"
+    background_color: "#BDBDBD"
+  - title: "Plum Room - Challenges to Writing Cloud Native Applications - Vallery Lancey"
+    type: custom
+    date: 2018-05-25
+    start_time: "1:30"
+    end_time: "2:30"
+    background_color: "#B068FF"
+  - title: "Studio - Distributed brute force login attack - Peter Locke"
+    type: custom
+    date: 2018-05-25
+    start_time: "1:30"
+    end_time: "2:30"
+  - title: "Plum Room - Bitrot: A Story of Maintenance Failure - Will Whittaker"
+    type: custom
+    date: 2018-05-25
+    start_time: "2:30"
+    end_time: "3:30"
+    background_color: "#B068FF"
+  - title: "Studio - Break Things to Fix Things - Ijeoma Ezeonyebuchi"
+    type: custom
+    date: 2018-05-25
+    start_time: "2:30"
+    end_time: "3:30"
+  - title: "Plum Room - Q&A Panel on the state of hiring in Devops"
+    type: custom
+    date: 2018-05-25
+    start_time: "3:30"
+    end_time: "4:30"
+    background_color: "#B068FF"
+  - title: "Studio - Fixing Production in the Hospital"
+    type: custom
+    date: 2018-05-25
+    start_time: "3:30"
+    end_time: "4:30"
+  - title: "Unconference"
+    type: custom
+    date: 2018-05-25
+    start_time: "4:30"
+    end_time: "5:30"
+    background_color: "#BDBDBD"
+  - title: "Social - Pizza and beverages"
+    type: custom
+    date: 2018-05-25
+    start_time: "5:30"
+    end_time: "9:00"
+    background_color: "#BDBDBD"
+
