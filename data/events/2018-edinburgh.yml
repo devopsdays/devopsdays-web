@@ -67,7 +67,7 @@ With 18 years of experience in the software industry, Maria has previously worke
   - name: "Matthew Slane"
     employer: "Skyscanner"
     bio: "Senior Engineer at Skyscanner currently working as product owner for the Container Operations Squad building kubernetes platforms. Experienced with monitoring systems and cloud architecture. Enjoys homebrewing, boardgames, road cycling and being covered in cats."
-    image: "matt.png"
+    image: "matt.jpg"
     twitter: "@mjslane"
   - name: "Kevin Cross"
     employer: Cloudreach
@@ -84,7 +84,7 @@ With 18 years of experience in the software industry, Maria has previously worke
   - name: "Percy Perez"
     employer: "St-Andrews University"
     bio: "PhD student working at the School of Computer Science in how to apply Name Based Networking protocol (NDN) to decentralised mobile architectures such as Android and Linux based Mobile Adhoc Networks. Interested in automation and continuous delivery through software development and infrastructure optimization. Motivated by previous industrial experiences in Telecoms, mobile gaming companies and APAC investment banking systems."
-    image: "percy.png"
+    image: "percy.jpg"
     twitter: "@percyperezd"
 
 
