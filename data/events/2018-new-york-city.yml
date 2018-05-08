@@ -114,7 +114,7 @@ sponsors:
     level: silver
   - id: instana
     level: silver
-  - id: signalfx
+  - id: signalfx-before-20180508
     level: silver
   - id: opsgenie
     level: silver
