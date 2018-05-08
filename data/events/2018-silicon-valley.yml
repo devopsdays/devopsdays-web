@@ -88,7 +88,7 @@ sponsors:
   - id: treasuredata
     level: gold
   - id: contrast_security
-    level: silver
+    level: gold
   - id: kaizenops
     level: silver
   - id: redislabs
@@ -144,8 +144,7 @@ program:
     date: 2018-05-17
     start_time: "09:15"
     end_time: "09:45"
-    comments: "location: TBD"
-  - title: "tiffani-bell"
+  - title: "amy-nguyen-adam-barber"
     type: talk
     date: 2018-05-17
     start_time: "09:50"
