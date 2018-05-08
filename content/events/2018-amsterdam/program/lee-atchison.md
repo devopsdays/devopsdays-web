@@ -1,4 +1,7 @@
 +++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Monitoring the Dynamic Nature of Cloud Computing"
 Type = "talk"
 Speakers = ["lee-atchison"]

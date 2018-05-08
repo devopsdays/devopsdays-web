@@ -6,8 +6,8 @@ description: "devopsdays is coming to Amsterdam!" # Edit this to suit your prefe
 ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2018-01-05
-startdate:  2018-06-27
-enddate:  2018-06-29
+startdate: 2018-06-27
+enddate: 2018-06-29
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-01-15  # start accepting talk proposals.
@@ -19,7 +19,7 @@ cfp_open: "false"
 
 registration_date_start: 2018-01-31 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-06-25 # close registration. Leave blank if registration is not open yet.
-registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+# registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -39,7 +39,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: workshop
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -87,8 +86,10 @@ proposal_email: "proposals-amsterdam-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# Beer
   - id: newrelic
     level: beer
+# Golds
   - id: schubergphilis
     level: gold
   - id: stackstate
@@ -105,6 +106,10 @@ sponsors:
     level: gold
   - id: xebia
     level: gold
+# Recharge
+  - id: linkit
+    level: recharge
+# Silvers
   - id: olindata
     level: silver
   - id: mirabeau
@@ -119,8 +124,10 @@ sponsors:
     level: silver
   - id: sumologic
     level: silver
-  - id: linkit
-    level: recharge
+# Lanyard
+  - id: devon
+    level: lanyard
+# Bronze
   - id: fullstaq
     level: bronze
   - id: s0l1dheroes
@@ -133,9 +140,11 @@ sponsors:
     level: bronze
   - id: inuits
     level: bronze
+  - id: devon
+    level: bronze
+  - id: monkeyswithbuttons
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
-
-# TODO: Need to figure out sponsor levels for 2018 before opening this up
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -143,23 +152,346 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: bbq
-    label: "Evening Event"
-    max: "1"
-  - id: preevent
-    label: "Pre Event Social"
+  - id: coffee
+    label: "Coffee"
     max: "1"
   - id: beer
     label: Beer
     max: "1"
   - id: gold
     label: Gold
-    max: "8"
-  - id: silver
-    label: Silver
-    max: "7"
+    max: "10"
   - id: recharge
     label: "Power recharge"
     max: "1"
+  - id: silver
+    label: Silver
+    max: "7"
+  - id: lanyard
+    label: "Lanyard"
+    max: "1"
   - id: bronze
     label: Bronze
+
+# Program
+program:
+# workshop day
+  - title: "Registration (workshop day)"
+    type: custom
+    date: 2018-06-27
+    start_time: "08:00"
+    end_time: "09:00"
+#9:00 to 11:30
+  - title: "michael-hausenblas"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Main Room"
+  - title: "blackrock-partners"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: 'Small' Room"
+  - title: "erik-zeedijk"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: TBD"
+  - title: "mandi-walls"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: TBD"
+#  - title: "james-pavey-1"
+#    type: workshop
+#    date: 2018-06-27
+#    start_time: "09:00"
+#    end_time: "11:30"
+#    comments: "Location: TBD"
+# Lunch
+  - title: "Lunch Express (Fast) Break"
+    type: custom
+    date: 2018-06-27
+    start_time: "11:30"
+    end_time: "12:00"
+# 12:00 to 14:30
+  - title: "andy-repton"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Main Room"
+  - title: "christina-aldan"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: 'Small' Room"
+  - title: "luca-maraschi"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: TBD"
+  - title: "anubhav-mishra"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: TBD"
+  - title: "philipp-krenn"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: TBD"
+# break
+  - title: "Break"
+    type: custom
+    date: 2018-06-27
+    start_time: "14:30"
+    end_time: "14:45"
+
+# 14:45 to 17:15
+  - title: "bridget-kromhout-ws"
+    type: workshop
+    date: 2018-06-27
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: Main Room"
+  - title: "mark-heistek"
+    type: workshop
+    date: 2018-06-27
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: 'Small' Room"
+  - title: "andrew-farley"
+    type: workshop
+    date: 2018-06-27
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: TBD"
+  - title: "michael-ducy-ws"
+    type: workshop
+    date: 2018-06-27
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: TBD"
+# end of day
+  - title: "Have a beer on us!"
+    type: custom
+    date: 2018-06-27
+    start_time: "14:30"
+    end_time: "14:45"
+    comments: "Pakhuis de Zwijger bar"
+
+
+# day 1
+  - title: "Registration"
+    type: custom
+    date: 2018-06-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "peter-nijenhuis"
+    type: talk
+    date: 2018-06-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "bridget-kromhout"
+    type: talk
+    date: 2018-06-28
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "serhat-can"
+    type: talk
+    date: 2018-06-28
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-06-28
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "michael-ducy"
+    type: talk
+    date: 2018-06-28
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "arnold-van-wijnbergen"
+    type: talk
+    date: 2018-06-28
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-06-28
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "rachael-byrne"
+    type: talk
+    date: 2018-06-28
+    start_time: "13:05"
+    end_time: "13:35"
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2018-06-28
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-06-28
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "Open Space Session - Day 1 - #1"
+    type: open-space
+    date: 2018-06-28
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "andrew-martin"
+    type: talk
+    date: 2018-06-28
+    start_time: "15:00"
+    end_time: "15:30"
+    comments: "Security Track | Location: Main Room"
+  - title: "Open Space Session - Day 1 - #2"
+    type: open-space
+    date: 2018-06-28
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "geert-van-der-cruijsen-rene-van-osnabrugge"
+    type: talk
+    date: 2018-06-28
+    start_time: "15:35"
+    end_time: "16:05"
+    comments: "Security Track | Location: Main Room"
+  - title: "Open Space Session - Day 1 - #3"
+    type: open-space
+    date: 2018-06-28
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "Close Day / Wrap Up"
+    type: custom
+    date: 2018-06-28
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "BBQ / Evening Event"
+    type: custom
+    date: 2018-06-28
+    start_time: "17:00"
+    end_time: "21:00"
+    comments: "Location: Pakhuis de Zwijger courtyard"
+
+# day 2
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-06-29
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Day 2 Welcome"
+    type: custom
+    date: 2018-06-29
+    start_time: "09:30"
+    end_time: "09:40"
+  - title: "lee-atchison"
+    type: talk
+    date: 2018-06-29
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "thiago-de-faria"
+    type: talk
+    date: 2018-06-29
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Break"
+    type: custom
+    date: 2018-06-29
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "waldo-grunenwald"
+    type: talk
+    date: 2018-06-29
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "karen-cohen"
+    type: talk
+    date: 2018-06-29
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-06-29
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "emily-freeman"
+    type: talk
+    date: 2018-06-29
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2018-06-29
+    start_time: "13:50"
+    end_time: "14:15"
+  - title: "Open Space Planning"
+    type: open-space
+    date: 2018-06-29
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space Session - Day 2 - #1"
+    type: open-space
+    date: 2018-06-29
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "matt-stratton"
+    type: talk
+    date: 2018-06-29
+    start_time: "15:00"
+    end_time: "15:30"
+    comments: "HumanOps Track | Location: Main Room"
+  - title: "Open Space Session - Day 2 - #2"
+    type: open-space
+    date: 2018-06-29
+    start_time: "15:35"
+    end_time: "16:05"
+  - title: "dennis-traub"
+    type: talk
+    date: 2018-06-29
+    start_time: "15:35"
+    end_time: "16:05"
+    comments: "HumanOps Track | Location: Main Room"
+  - title: "Open Space Session - Day 2 - #3"
+    type: open-space
+    date: 2018-06-29
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "martijn-vermaat"
+    type: talk
+    date: 2018-06-29
+    start_time: "16:10"
+    end_time: "16:40"
+    comments: "HumanOps Track | Location: Main Room"
+  - title: "Close 6th anniversary of devopsdays Amsterdam"
+    type: custom
+    date: 2018-06-29
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "jason-yee"
+    date: 2018-06-28
+  - title: "joep-weijers"
+    date: 2018-06-28
+  - title: "matt-stratton-ig"
+    date: 2018-06-28
+  - title: "jonah-meijers"
+    date: 2018-06-29
+  - title: "aditya-vadaganadam"
+    date: 2018-06-29
+  - title: "serhat-can-ig"
+    date: 2018-06-29
+  - title: "aernout-van-den-burg"
+    date: 2018-06-29

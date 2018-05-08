@@ -1,4 +1,7 @@
 +++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Why Tooling (only) isn’t the answer"
 Type = "talk"
 Speakers = ["arnold-van-wijnbergen"]
