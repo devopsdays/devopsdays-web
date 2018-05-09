@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.17.0](https://github.com/devopsdays/devopsdays-theme/tree/1.17.0) (2018-05-09)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.16.0...1.17.0)
+
+**Closed issues:**
+
+- Allow comments on 'talk' and 'workshops' in programs [\#626](https://github.com/devopsdays/devopsdays-theme/issues/626)
+- Allow event\_links to pull arbitrary event data [\#623](https://github.com/devopsdays/devopsdays-theme/issues/623)
+- Shortcodes not compatible with hugo 0.32 [\#618](https://github.com/devopsdays/devopsdays-theme/issues/618)
+
 ## [1.16.0](https://github.com/devopsdays/devopsdays-theme/tree/1.16.0) (2018-01-16)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.15.0...1.16.0)
 
