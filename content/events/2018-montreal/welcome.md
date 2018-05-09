@@ -27,23 +27,25 @@ Description = "devopsdays Montreal 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Registration will open soon.
+    <!-- current link is ready, waiting for the ok from local organisers. -->
+    <!-- <A href=https://www.eventbrite.ca/e/devops-day-montreal-2018-tickets-45899626017>Registration is open</A> -->
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <A href=https://www.papercall.io/devopsdays-mtl-2018>Submit a talk</A>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -68,7 +70,7 @@ Description = "devopsdays Montreal 2018"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    <A href=https://docs.google.com/document/d/1CgsrBbL7PM_S6OQqKwKlIBE8AOGlNObYnK0DWrx4pFo/edit>Sponsor the conference!</A>
   </div>
 </div>
 
