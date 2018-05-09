@@ -1,2 +1,5 @@
 {{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
-<a href = "{{ (printf "events/%s/%s" $e.name (.Get "page")) | absURL }}">{{ .Get "text" }}</a>
+{{- $url := index $e (.Get "url-key") | default (printf "events/%s/%s" $e.name (.Get "page")) | absURL -}}
+{{- $txt := index $e (.Get "text-key") | default (.Get "text") -}}
+
+<a href = "{{ $url }}">{{ $txt }}</a>
