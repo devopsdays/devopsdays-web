@@ -72,7 +72,7 @@ sponsors:
     level: sponsor
   - id: scalyr
     level: sponsor
-  - id: signalfx
+  - id: signalfx-before-20180508
     level: sponsor
   - id: sensu
     level: startup
