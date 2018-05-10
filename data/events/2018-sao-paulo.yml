@@ -133,6 +133,8 @@ sponsors:
     level: community
   - id: qaladies
     level: community
+  - id: linuxtips
+    level: community
   - id: avenue-code
     level: bronze
   - id: timbira
@@ -363,7 +365,7 @@ program:
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "Out of the Box"
+  - title: "beth-viveiros"
     type: talk
     date: "2018-06-07"
     start_time: "17:00"
