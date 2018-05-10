@@ -135,6 +135,8 @@ sponsors:
     level: community
   - id: avenue-code
     level: bronze
+  - id: timbira
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -145,7 +147,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platina
-    max: 1
+    max: 2
   - id: happy_hour
     label: Happy Hour
     max: 1
@@ -185,13 +187,13 @@ program:
     start_time: "10:15"
     end_time: "10:40"
   
-  - title: "eric-magalhes"
+  - title: "bruno-tavares"
     type: talk
     date: "2018-06-06"
     start_time: "10:40"
     end_time: "11:10"
 
-  - title: "natalia-manha"
+  - title: "eric-magalhes"
     type: talk
     date: "2018-06-06"
     start_time: "11:10"
@@ -245,7 +247,7 @@ program:
     start_time: "16:00"
     end_time: "16:30"
 
-  - title: "bruno-tavares"
+  - title: "natalia-manha"
     type: talk
     date: "2018-06-06"
     start_time: "16:30"
@@ -377,4 +379,15 @@ program:
     type: custom
     date: "2018-06-07"
     start_time: "17:45"
-    end_time: "18:00  "
+    end_time: "18:00"
+
+ignites:
+
+  - title: "tatiane-paya"
+    date: "2018-06-06"
+  
+  - title: "luana-linares"
+    date: "2018-06-06"
+
+  - title: "victor-monteiro"
+    date: "2018-06-06"
