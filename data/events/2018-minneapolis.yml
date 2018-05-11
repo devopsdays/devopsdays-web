@@ -157,6 +157,10 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
+  - id: target
+    level: platinum
+  - id: merrill
+    level: gold
 
 
 sponsors_accepted : "yes"
