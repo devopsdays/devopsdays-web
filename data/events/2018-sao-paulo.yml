@@ -121,6 +121,16 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: agilitynetworks
+    level: platinum
+  - id: nubank
+    level: silver  
+  - id: getupcloud
+    level: silver
+  - id: avenue-code
+    level: bronze
+  - id: timbira
+    level: bronze
   - id: arresteddevops
     level: community
   - id: 10deploys
@@ -135,10 +145,9 @@ sponsors:
     level: community
   - id: linuxtips
     level: community
-  - id: avenue-code
-    level: bronze
-  - id: timbira
-    level: bronze
+  - id: femmeit
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
