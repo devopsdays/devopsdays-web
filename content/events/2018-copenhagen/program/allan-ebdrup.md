@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Don’t forget about process feedback loops"
 Type = "talk"
 Speakers = ["allan-ebdrup"]
+youtube ="6ETz4ZrqJq8" 
 +++
 
 **Build, Measure, Learn. The scientific method.** We instrument the solutions we build to get quantitative feedback on how they are used. We listen to feedback from users and we interview them to get qualitative feedback. We monitor the CPU and RAM usage of our systems, set up logging and alerts the get feedback on how our production servers are doing. Lots of feedback loops are well described and very effective.
