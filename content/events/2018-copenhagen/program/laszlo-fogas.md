@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Kubernetes is Not the Endgame"
 Type = "talk"
 Speakers = ["laszlo-fogas"]
+youtube ="dVpDiuVD3_I" 
 +++
 
 So you installed Kubernetes and gave people kubectl access to do their job. A job well done?
