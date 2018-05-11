@@ -12,6 +12,7 @@ Financial sector is typically characterized by high risk, bureaucracy, and regul
 
 <hr>
 
-<h2>Slides from the Boyan's talk:</h2>
+<h2>Slides from Boyan's talk:</h2>
+
 
 [Click here to check the slides from this talk at DevOpsDays Copenhagen 2018!](https://boyan.io/slides/2018/devopsdayscph/crafting-robust-deployment-pipeline-finance.pdf)
