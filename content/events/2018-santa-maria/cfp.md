@@ -5,7 +5,7 @@ Description = "Propose a talk for devopsdays Santa Maria 2018"
 +++
   {{< cfp_dates >}}
 
-<center>**Link para submissões:** https://www.papercall.io/devopsdayssm2018</center>
+<!-- <center>**Link para submissões:** https://www.papercall.io/devopsdayssm2018</center> -->
 
 <hr>
 
