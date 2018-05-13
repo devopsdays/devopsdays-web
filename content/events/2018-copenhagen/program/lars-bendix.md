@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Bumpy Rides towards Continuous Delivery Destinations"
 Type = "talk"
 Speakers = ["lars-bendix"]
+youtube ="MCGhsvyoGJM"
 +++
 
 Many are the roads that lead to CoDe (Continuous Delivery/Deployment) Paradise- some are more bumpy than others and some have pitfalls that you should look out for.

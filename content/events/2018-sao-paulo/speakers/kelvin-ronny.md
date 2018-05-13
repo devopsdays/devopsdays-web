@@ -1,6 +1,7 @@
 +++
 Title = "Kelvin Ronny"
-Twitter = "juniorjbn"
+Twitter = ""
+Linkedin = "https://www.linkedin.com/in/kelvin-ronny-2800293a/"
 image = "kelvin-ronny.jpg"
 type = "speaker"
 linktitle = "kelvin-ronny"

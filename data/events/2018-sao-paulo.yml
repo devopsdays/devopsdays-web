@@ -121,6 +121,16 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: agilitynetworks
+    level: platinum
+  - id: nubank
+    level: silver  
+  - id: getupcloud
+    level: silver
+  - id: avenue-code
+    level: bronze
+  - id: timbira
+    level: bronze
   - id: arresteddevops
     level: community
   - id: 10deploys
@@ -133,8 +143,11 @@ sponsors:
     level: community
   - id: qaladies
     level: community
-  - id: avenue-code
-    level: bronze
+  - id: linuxtips
+    level: community
+  - id: femmeit
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -145,7 +158,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platina
-    max: 1
+    max: 2
   - id: happy_hour
     label: Happy Hour
     max: 1
@@ -185,13 +198,13 @@ program:
     start_time: "10:15"
     end_time: "10:40"
   
-  - title: "eric-magalhes"
+  - title: "bruno-tavares"
     type: talk
     date: "2018-06-06"
     start_time: "10:40"
     end_time: "11:10"
 
-  - title: "natalia-manha"
+  - title: "eric-magalhes"
     type: talk
     date: "2018-06-06"
     start_time: "11:10"
@@ -245,7 +258,7 @@ program:
     start_time: "16:00"
     end_time: "16:30"
 
-  - title: "bruno-tavares"
+  - title: "natalia-manha"
     type: talk
     date: "2018-06-06"
     start_time: "16:30"
@@ -361,7 +374,7 @@ program:
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "Out of the Box"
+  - title: "beth-viveiros"
     type: talk
     date: "2018-06-07"
     start_time: "17:00"
@@ -377,4 +390,15 @@ program:
     type: custom
     date: "2018-06-07"
     start_time: "17:45"
-    end_time: "18:00  "
+    end_time: "18:00"
+
+ignites:
+
+  - title: "tatiane-paya"
+    date: "2018-06-06"
+  
+  - title: "luana-linares"
+    date: "2018-06-06"
+
+  - title: "victor-monteiro"
+    date: "2018-06-06"

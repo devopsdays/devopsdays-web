@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to Foster a DevOps Culture"
 Type = "talk"
 Speakers = ["thien-an-mac"]
+youtube ="08sfDkrmue0" 
 +++
 
 **I often hear folks say "it’s really challenging to work in a collaborative environment".** 

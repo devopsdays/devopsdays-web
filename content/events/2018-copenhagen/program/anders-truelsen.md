@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Going DevOps – more than a Developer Discipline"
 Type = "talk"
 Speakers = ["anders-truelsen"]
+youtube ="XWAVAshaEGo" 
 +++
 
 Continuous deployment of applications requires that teams are able to build, but that is far from the entire story.

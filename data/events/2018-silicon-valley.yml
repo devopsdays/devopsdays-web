@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
+  - id: appdynamics
+    level: gold
   - id: kaizenops
     level: silver
   - id: redislabs
