@@ -65,22 +65,22 @@ Description = "devopsdays Bengaluru 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>MORE DETAILS</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    <strong><a href="http://devopsdaysindia.org">CLICK HERE to get all the conference details!!</a></strong><br>
   </div>
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+        <strong><a href="http://devopsdaysindia.org/#section-contact">CLICK HERE to get in touch with the organizers.</a></strong>
   </div>
 </div>
-
+<br>
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
