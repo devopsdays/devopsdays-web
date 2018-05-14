@@ -156,6 +156,8 @@ sponsors:
     level: standard
   - id: sumologic
     level: premium
+  - id: thoughtworks-gocd
+    level: premium
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
