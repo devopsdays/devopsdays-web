@@ -25,7 +25,7 @@ registration_link: "https://www.townscript.com/e/dodi18" # If you have a custom 
 
 # Location
 #
-coordinates: "13.012541, 77.555277, 16z" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "13.012541, 77.555277" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Sheraton Grand Bangalore Hotel at Brigade Gateway" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
