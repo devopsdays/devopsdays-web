@@ -457,7 +457,7 @@ program:
     date: 2018-06-29
     start_time: "15:35"
     end_time: "16:05"
-  - title: "dennis-traub"
+  - title: "martijn-vermaat"
     type: talk
     date: 2018-06-29
     start_time: "15:35"
@@ -468,12 +468,6 @@ program:
     date: 2018-06-29
     start_time: "16:10"
     end_time: "16:40"
-  - title: "martijn-vermaat"
-    type: talk
-    date: 2018-06-29
-    start_time: "16:10"
-    end_time: "16:40"
-    comments: "HumanOps Track | Location: Main Room"
   - title: "Close 6th anniversary of devopsdays Amsterdam"
     type: custom
     date: 2018-06-29
