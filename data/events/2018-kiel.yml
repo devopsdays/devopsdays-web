@@ -228,9 +228,9 @@ program:
   - title: "Evening Event - Drinks, Food & Music!"
     type: custom
     date: 2018-05-16
-    start_time: "18:45"
+    start_time: "18:30"
     end_time: "open end" 
-    comments: "Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
+    comments: "Location: Pogue Mahone Irish Pub; Bergstraße 15, 24103 Kiel - Music: Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2018-05-17
