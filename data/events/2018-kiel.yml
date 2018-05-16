@@ -137,7 +137,7 @@ program:
     date: 2018-05-16
     start_time: "08:00"
     end_time: "09:00"    
-  - title: "Welcome by MC Sabine Wojcieszak - Daniel Günther, Minister-President of Schleswig-Holstein - Dr. Ulf Kämpfer, Mayor of the Land Capital Kiel - Werner Kässens, CEO of KiWi GmbH & Host"
+  - title: "Welcome by MC Sabine Wojcieszak - Daniel Günther, Minister-President of Schleswig-Holstein - Dr. Ulf Kämpfer, Mayor of the Land Capital Kiel"
     type: custom
     date: 2018-05-16
     start_time: "09:00"
@@ -228,9 +228,9 @@ program:
   - title: "Evening Event - Drinks, Food & Music!"
     type: custom
     date: 2018-05-16
-    start_time: "18:45"
+    start_time: "18:30"
     end_time: "open end" 
-    comments: "Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
+    comments: "Location: Pogue Mahone Irish Pub; Bergstraße 15, 24103 Kiel - Music: Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2018-05-17

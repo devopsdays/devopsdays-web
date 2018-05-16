@@ -75,6 +75,9 @@ organizer_email: "organizers-cape-town-2018@devopsdays.org"
 proposal_email: "proposals-cape-town-2018@devopsdays.org"
 
 sponsors:
+  - id: offerzen
+    level: gold
+    url: https://bit.ly/2L0JaOk
   - id: arresteddevops
     level: community
 
