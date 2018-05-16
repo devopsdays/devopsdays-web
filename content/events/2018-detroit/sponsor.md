@@ -65,6 +65,13 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
      <td bgcolor="#E9A916"></td>
   </tr>
   <tr>
+    <td>High Visibility Dedicated Sponsor Banner (x2)</td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td bgcolor="#E9A916"></td>
+  </tr>
+  <tr>
     <td>1 Minute Pitch To Full Audience (including streaming audience, if applicable)</td>
      <td></td>
      <td></td>
