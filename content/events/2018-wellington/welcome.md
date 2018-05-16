@@ -11,7 +11,7 @@ Description = "DevOpsDays Wellington 2018"
 <div class="row">
   <div class = "col-md-12">
     <div style="text-align:center;">
-      <img alt="DevOpsDay Auckland 2018" src="/events/2018-wellington/logo-wide.png" class="welcome-page-event-logo"/>
+      <img alt="DevOpsDays Wellington 2018" src="/events/2018-wellington/logo-wide.png" class="welcome-page-event-logo"/>
     </div>
   </div>
 </div>
@@ -43,10 +43,11 @@ Description = "DevOpsDays Wellington 2018"
     <br/>
     The DevOpsDays NZ organising team is pleased to announce this year's conference is in Wellington on the 5th &amp; 6th of November at Shed 6, TSB Bank Arena.
     <br/><br/>
-    If you're looking to contribute as a sponsor, then details can be found {{< event_link page="sponsor" text="on the sponsorship page" >}}
+    If you're looking to contribute as a sponsor, then details can be found {{< event_link page="sponsor" text="on the sponsorship page" >}}.
     <br/><br/>
-    Stay tuned for information on our CFP and when our Blind Bird Tickets go on sale...
-    Here's a taste from last year's conference in Auckland
+    {{< event_link page="registration" text="Registration" >}} is now open and our Blind Bird Tickets are now on sale. Stay tuned for information on our CFP.
+    <br/><br/>
+    Here's a taste from last year's conference in Auckland:
     <br/><br/>
      <iframe width="560" height="315" src="https://www.youtube.com/embed/qw7I1Pm1ZrU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     <br/><br/>
