@@ -93,7 +93,7 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
      <td bgcolor="#E9A916"></td>
   </tr>
   <tr>
-    <td>Shared Table for Schwag</td>
+    <td>Shared Table Space</td>
      <td></td>
      <td bgcolor="#E9A916"></td>
      <td></td>
