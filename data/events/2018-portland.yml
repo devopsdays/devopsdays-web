@@ -98,6 +98,10 @@ sponsors:
     level: platinum
   - id: kaizenops
     level: silver
+  - id: cloudbolt
+    level: gold
+  - id: recompiler
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
