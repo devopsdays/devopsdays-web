@@ -354,7 +354,7 @@ program:
     date: 2018-07-13
     start_time: "16:00"
     end_time: "16:45"
-  - title: "incidents"
+  - title: "incident-response"
     type: workshop
     date: 2018-07-13
     start_time: "15:15"
