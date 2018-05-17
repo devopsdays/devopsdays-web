@@ -11,8 +11,19 @@ just outside the District (but inside the Beltway!) Please see [USPTO's
 directions page](http://www.uspto.gov/about/contacts/locations/directions.jsp)
 for driving directions and parking information.
 
-## Transportation
+## Hotel
 
+We have secured a special rate for DevOpsDays DC attendees at the **Westin Alexandria**
+located one block from the USPTO.
+[Book here!](https://www.starwoodmeeting.com/events/start.action?id=1805162977&key=312FDA0D)
+The discounted Rate is good until **May 22, 2018**.
+
+Westin Alexandria<br>
+400 Courthouse Square<br>
+Alexandria, VA 22314<br>
+703-253-8600
+
+## Transportation
 
 DC and Northern Virginia traffic is consistently rated among the worst in the
 nation, so we recommend that you do not drive, especially if you are visiting
