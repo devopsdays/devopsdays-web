@@ -160,6 +160,8 @@ sponsors:
     level: premium
   - id: mesosphere
     level: premium
+  - id: influxdata
+    level: premium
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
