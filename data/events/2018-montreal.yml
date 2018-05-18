@@ -2,7 +2,7 @@ name: "2018-montreal" # The name of the event. Four digit year with the city nam
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Montreal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsmontreal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Montreal!" # Edit this to suit your preferences
+description: "devopsdays is coming to Montreal! / devopsdays arrive en ville!" # Edit this to suit your preferences
 ga_tracking_id: "UA-118473645-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -17,7 +17,7 @@ cfp_date_announce: 2018-07-16 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-mtl-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-05-11 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2018-05-18 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-10-09 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
@@ -33,7 +33,7 @@ location_address: "8 Queen Street, Montreal" #Optional - use the street address 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -61,6 +61,9 @@ team_members: # Name is the only required field for team members.
   - name: "Marc Pare"
     employer: "CloudOps"
     twitter: "MarcAlphonse"
+  - name: "Martin Goyette"
+    employer: "Agile Montreal"
+    twitter: "@agilemontreal"
 #  - name: "Sally Fields"
 #    employer: "Acme Anvil Co."
 #    github: "devopsdays"
@@ -78,6 +81,8 @@ sponsors:
     level: silver
   - id: 2018-agile-montreal
     level: community
+  - id: microsoft
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -88,17 +93,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: gold
-    label: Gold
+    label: Gold - Or
 #    max: 10
   - id: silver
-    label: Silver
+    label: Silver - Argent
   - id: bronze
     label: Bronze
   - id: coffee
-    label: Coffee
+    label: Coffee - Pause café
+#    max: 4
   - id: lanyard
-    label: Lanyard
+    label: Lanyard - Dragonne
   - id: lunch
-    label: Lunch
+    label: Lunch - Dîner
   - id: community
-    label: Community
+    label: Community - Communauté
