@@ -292,6 +292,11 @@ program:
     date: 2018-05-18
     start_time: "15:00"
     end_time: "15:30"
+  - title: using-log-management-to-shorten-mttr
+    type: workshop
+    date: 2018-05-18
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Afternoon Break"
     type: custom
     date: 2018-05-18
@@ -304,6 +309,11 @@ program:
     end_time: "16:25"
   - title: "Open Space Session 5"
     type: open-space
+    date: 2018-05-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: secrets-management-with-conjur-open-source
+    type: workshop
     date: 2018-05-18
     start_time: "16:00"
     end_time: "16:30"
