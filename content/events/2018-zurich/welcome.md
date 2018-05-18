@@ -102,3 +102,4 @@ Description = "devopsdays Zürich 2018"
    <!-- <a href="https://vimeo.com/219050548">Checkout our video!</a><br> -->
    <a href="https://www.flickr.com/photos/150616602@N02/sets/72157690847332020">Checkout our Photo Gallery</a>
   </div>
+</div>
