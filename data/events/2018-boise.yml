@@ -65,6 +65,22 @@ sponsors:
     level: gold
   - id: nutanix
     level: silver
+  - id: idahotechcouncil
+    level: community
+  - id: scentsy
+    level: silver
+  - id: 2016-intimetec
+    level: platinum
+  - id: tsheets
+    level: platinum
+  - id: involta
+    level: bronze
+  - id: elastic
+    level:  silver
+  - id: clearwater
+    level: silver
+  - id: taos
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -81,3 +97,5 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community
