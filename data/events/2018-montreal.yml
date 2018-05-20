@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "/events/2018-montreal/location/"
     icon: "map-o"
   - name: Registration - Inscription
-    url: "/events/2018-montreal/register/"
+    url: "/events/2018-montreal/registration/"
     icon: "user-plus"
   - name: Propose - Proposer
     url: "https://www.papercall.io/devopsdays-mtl-2018"
