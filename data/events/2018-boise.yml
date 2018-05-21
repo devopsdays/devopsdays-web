@@ -22,7 +22,7 @@ location_address: 850 W Front St, Boise, ID 83702
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
 #  - name: program
-  - name: propose
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: registration
@@ -65,6 +65,22 @@ sponsors:
     level: gold
   - id: nutanix
     level: silver
+  - id: idahotechcouncil
+    level: community
+  - id: scentsy
+    level: silver
+  - id: 2016-intimetec
+    level: platinum
+  - id: tsheets
+    level: platinum
+  - id: involta
+    level: bronze
+  - id: elastic
+    level:  silver
+  - id: clearwater
+    level: silver
+  - id: taos
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -81,3 +97,5 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community
