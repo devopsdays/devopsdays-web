@@ -43,7 +43,7 @@ proposal_email: "proposals-minneapolis-2014@devopsdays.org" # Put your proposal 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: compuware
+  - id: compuware-before-20180522
     level: gold
   - id: 2014-govdelivery
     level: gold
