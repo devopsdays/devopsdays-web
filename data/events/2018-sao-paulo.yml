@@ -123,13 +123,23 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: agilitynetworks
     level: platinum
+  - id: 2018-rancher
+    level: platinum
+  - id: globalweb
+    level: platinum
+  - id: brq
+    level: gold
   - id: nubank
     level: silver  
   - id: getupcloud
     level: silver
+  - id: creditas
+    level: silver
   - id: avenue-code
     level: bronze
   - id: timbira
+    level: bronze
+  - id: agenciagnu
     level: bronze
   - id: arresteddevops
     level: community
@@ -146,6 +156,8 @@ sponsors:
   - id: linuxtips
     level: community
   - id: femmeit
+    level: community
+  - id: giodesigner
     level: community
 
 
