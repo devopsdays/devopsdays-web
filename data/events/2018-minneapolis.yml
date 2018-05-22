@@ -163,6 +163,10 @@ sponsors:
     level: gold
   - id: carlsonwagonlit
     level: alacarte
+  - id: cargill
+    level: alacarte
+  - id: netapp
+    level: silver
 
 sponsors_accepted : "yes"
 
