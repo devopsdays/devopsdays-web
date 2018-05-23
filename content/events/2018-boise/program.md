@@ -9,6 +9,9 @@ type = "program"
 .program-element {
     margin-right: 0px !important
 }
+div.row div h3 {
+    text-align: center
+}
 </style>
 
 <div class = "row">
@@ -32,13 +35,13 @@ type = "program"
     <div class = "col-md-1 offset-md-1">
     </div>
     <div class = "col-md-2">
-        <h3> Track 1 </h3>
+        <h3> Main Ballroom<br>400AB </h3>
     </div>
     <div class = "col-md-2 offset-md-1">
-        <h3> Track 2 </h3>
+        <h3> Side Ballroom<br>400C </h3>
     </div>
     <div class = "col-md-2 offset-md-1">
-        <h3> Track 3 </h3>
+        <h3> Breakout Room<br>410C </h3>
     </div>
 </div>
 <div class = "row program-row">
@@ -62,7 +65,7 @@ type = "program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 program-element program-talk">
-    JD Mullin - The surprisingly healthy role that risk can play in your organization
+    JD Mullin - Risk: The surprisingly healthy role that risk can play in your organization
   </div>
 </div>
 <div class = "row program-row">
@@ -100,10 +103,10 @@ type = "program"
     <time>10:50-11:20</time>
   </div>
   <div class = "col-md-2 program-element program-talk">
-    Dave Nielsen - Redis in Containers, and Kubernetes and Serverless ... Oh My!
+    Pramod Sadalage - DevOps practices for the database team
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
-    Pramod Sadalage - DevOps practices for the database team
+    Dave Nielsen - Redis in Containers, and Kubernetes and Serverless ... Oh My!
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
     Chris Van Tuin - A DevOps State of Mind: Continuous Security with Kubernetes
@@ -163,10 +166,10 @@ type = "program"
     <time>2:10-2:40</time>
   </div>
   <div class = "col-md-2 program-element program-talk">
-    Deniz Parlak - Security tips for AWS
+    Chris Campbell - Running Docker in Production
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
-    Chris Campbell - Running Docker in Production
+    Deniz Parlak - Security tips for AWS
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
     Scott Jeide - 60 Developers, 0 QA, 700k Users: CI/CD at TSheets
