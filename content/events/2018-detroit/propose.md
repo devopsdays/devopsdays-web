@@ -4,11 +4,13 @@ title = "propose"
 type = "event"
 +++
   {{< cfp_dates >}}
-  
 
-# DevopsDays Detroit CFP
-## DevopsDays Detroit CFP closes August 6th, 2018
-### What we’re looking this year
+<hr/>
+[Submit your proposal](https://devopsdaysdetroit.typeform.com/to/XM3TPc)
+<hr/>
+
+# DevopsDays Detroit CFP closes August 6th, 2018
+## What we’re looking this year
 
 Types of Accepted Proposals 
 Ignite Sessions: 5-minute, auto-forwarding talk
@@ -17,7 +19,7 @@ Workshops: A 90-minute hands-on workshop for attendees to learn something new.
 
 The Ignite Talks are 5 minute talks with 20 slides (max.) which auto-advance. If you are not familiar with the Ignite Talk format, good examples can be found at: http://ignitetalks.io/.
 
-### Guidelines
+## Guidelines
 
  - Tell a story
  - Show don’t tell
@@ -25,7 +27,7 @@ The Ignite Talks are 5 minute talks with 20 slides (max.) which auto-advance. If
  - Submissions must be made by one of the presenters; we do not accept proposals submitted on behalf of others.
  - All presentations must conform to the code of conduct.
 
-### Ideas
+## Ideas
 
  - What are the most powerful feedback loops in your organization? How do you measure their efficacy? (e.g., developers on call for their own applications)
  - What changed as a result of this feedback loop?
@@ -39,7 +41,7 @@ Does your organization practice modern quality assurance methods like chaos or o
  - Has container technology risen above the hype in your organization? Tell us about what happened.
 
 
-### Our main criteria to make it to the top selection are:
+## Criteria
 
  - Broad appeal: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
  - New local presenters: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in the Detroit area. 
@@ -51,6 +53,9 @@ Original content: We will consider talks that have already been presented elsewh
 
 
 
+<hr/>
+[Submit your proposal](https://devopsdaysdetroit.typeform.com/to/XM3TPc)
+<hr/>
 
 
 
