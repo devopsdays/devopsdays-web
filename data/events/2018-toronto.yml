@@ -155,8 +155,8 @@ program:
     date: 2018-05-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Day 1 Keynote"
-    type: custom
+  - title: "steve-pereira"
+    type: talk
     date: 2018-05-30
     start_time: "09:15"
     end_time: "09:45"
@@ -331,7 +331,7 @@ program:
     date: 2018-05-31
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Break and 2:45 pm raffle in main ballroom"
+  - title: "Break and 3:45 pm raffle in main ballroom"
     type: custom
     date: 2018-05-31
     start_time: "15:30"
@@ -356,8 +356,6 @@ ignites:
   - title: "augusto-rosa"
     date: 2018-05-30
   - title: "simon-woodside"
-    date: 2018-05-30
-  - title: "logan-daigle"
     date: 2018-05-30
   - title: "karen-odegaard"
     date: 2018-05-30

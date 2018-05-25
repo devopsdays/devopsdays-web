@@ -84,22 +84,24 @@ proposal_email: "" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: ignw
+    level: platinum
   - id: columbia
     level: gold
   - id: scalyr
     level: gold
   - id: pivotal
     level: gold
+  - id: cloudbolt
+    level: gold
+  - id: rundeck
+    level: gold
+  - id: kaizenops
+    level: silver
   - id: bitnami
     level: bronze
   - id: waffleio
     level: specialty
-  - id: ignw
-    level: platinum
-  - id: kaizenops
-    level: silver
-  - id: cloudbolt
-    level: gold
   - id: recompiler
     level: community
 
