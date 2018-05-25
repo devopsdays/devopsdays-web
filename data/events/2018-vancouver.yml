@@ -36,7 +36,7 @@ team_members: # Name is the only required field for team members.
   #   role: "Benevolent Dictator"
   #   website: "https://www.example.com"
   #   twitter: "example"
-  #   image: "example_portrait.jpg" # put image here: /static/events/<your-event>/organizers/<imagefile> 
+  #   image: "example_portrait.jpg" # put image here: /static/events/<your-event>/organizers/<imagefile>
   #   bio: |
   #         # Markdown Supported!
   #         You can put whatever text you want in here.
@@ -79,7 +79,7 @@ sponsors:
 
    - id: treasuredata
      level: gold
-   - id: trinimbus
+   - id: trinimbus-before-20180524
      level: gold
    - id: scalyr
      level: gold
@@ -109,7 +109,7 @@ sponsors:
      level: bronze
    - id: itglue
      level: bronze
-   
+
    - id: polyglot
      level: friends
    - id: ay-tech
