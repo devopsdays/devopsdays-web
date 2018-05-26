@@ -245,12 +245,12 @@ program:
     date: 2018-05-30
     start_time: "16:45"
     end_time: "17:30"
-  - title: "Evening event"
+  - title: "Evening event at Duke of Cornwall"
     type: custom
     date: 2018-05-30
     start_time: "17:30"
     end_time: "20:30"
-    comments: "This will take place in the venue"
+    comments: "Located at 400 University Avenue"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-05-31
@@ -364,7 +364,7 @@ ignites:
   - title: "christine-rohacz"
     date: 2018-05-31
   - title: "donald-donovan"
-    date: 2018-05-31
+    date: 2018-05-30
   - title: "fawzy-manaa"
     date: 2018-05-31
   - title: "matty-stratton"
