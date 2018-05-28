@@ -102,22 +102,22 @@ sponsor_levels:
     label: Gold
     max: 12
   - id: day1lunch
-    label: day1Lunch
+    label: day 1 Lunch
     max: 1
   - id: day2lunch
-    label: day2Lunch
+    label: day 2 Lunch
     max: 1
   - id: day1breakfast
-    label: day1breakfast
+    label: day 1 breakfast
     max: 1
   - id: day2breakfast
-    label: day2breakfast
+    label: day 2 breakfast
     max: 1
   - id: day1coffee
-    label: day1coffee
+    label: day 1 coffee
     max: 1
   - id: day2coffee
-    label: day2coffee
+    label: day 2 coffee
     max: 1
   - id: day1happyhour
     label: Day 1 HappyHour
@@ -127,6 +127,9 @@ sponsor_levels:
     max: 1
   - id: workshoproom
     label: WorkShop Room
+    max: 1
+  - id: tshirt
+    label: tshirt
     max: 1
   - id: lanyard
     label: lanyard
