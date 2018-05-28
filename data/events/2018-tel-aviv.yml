@@ -85,7 +85,7 @@ proposal_email: "proposals-tel-aviv-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-cloudify
+  - id: cloudify
     level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -101,14 +101,23 @@ sponsor_levels:
   - id: silver
     label: Gold
     max: 12
-  - id: lunch
-    label: Lunch
+  - id: day1lunch
+    label: day1Lunch
     max: 1
-  - id: breakfast
-    label: breakfast
+  - id: day2lunch
+    label: day2Lunch
     max: 1
-  - id: coffee
-    label: Coffee
+  - id: day1breakfast
+    label: day1breakfast
+    max: 1
+  - id: day2breakfast
+    label: day2breakfast
+    max: 1
+  - id: day1coffee
+    label: day1coffee
+    max: 1
+  - id: day2coffee
+    label: day2coffee
     max: 1
   - id: day1happyhour
     label: Day 1 HappyHour
