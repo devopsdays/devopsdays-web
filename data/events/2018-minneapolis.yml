@@ -167,6 +167,10 @@ sponsors:
     level: alacarte
   - id: netapp
     level: silver
+  - id: redhat
+    level: gold
+  - id: datadog
+    level: gold
 
 sponsors_accepted : "yes"
 
