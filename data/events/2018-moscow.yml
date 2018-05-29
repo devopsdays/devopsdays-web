@@ -93,14 +93,13 @@ proposal_email: "proposals-moscow-2018@devopsdays.org" # Put your proposal email
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: Logrocon
-    level: gold
-  - id: Cleverics
-    level: gold	
-  - id: HolidayInnSokolniki
+    level: organizational
+  - id: holiday-inn-sokolniki
     level: venue
-#    url: http://hi-sokolniki.ru/ # Use this if you need to over-ride a sponsor URL. 
-  - id: samplesponsorname
-    level: gold	
+  - id: sbertech
+    level: platinum
+  - id: stoloto
+    level: gold
   - id: arresteddevops
     level: community
   - id: realitsm
@@ -113,15 +112,19 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: organizational 
+    label: Organizational 
+  - id: venuesponsor
+    label: Venue
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+#    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
-  - id: venuesponsor
-    label: Venue
   - id: community
     label: Community
