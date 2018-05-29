@@ -101,7 +101,9 @@ sponsors:
   - id: stoloto
     level: gold
   - id: redhat
-    level: opensource    
+    level: opensource
+  - id: microsoft
+    level: silver
   - id: arresteddevops
     level: community
   - id: realitsm
