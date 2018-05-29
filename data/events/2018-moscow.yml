@@ -104,6 +104,8 @@ sponsors:
     level: opensource
   - id: microsoft
     level: silver
+  - id: pvs-studio
+    level: silver
   - id: arresteddevops
     level: community
   - id: realitsm
