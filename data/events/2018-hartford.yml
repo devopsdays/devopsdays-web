@@ -15,13 +15,13 @@ cfp_date_end: 2018-08-03  # close your call for proposals.
 cfp_date_announce: 2018-08-17  # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://dodhart2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://dodhart2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-05-21 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-10-17 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2018-10-15 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://dodhart2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_link: "https://dodhart2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -124,6 +124,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: happyHour
+    label: Happy Hour
   - id: gold
     label: Gold
 #    max: 10
@@ -132,5 +134,7 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+  - id: mug
+    label: Mug
   - id: community
     label: Community
