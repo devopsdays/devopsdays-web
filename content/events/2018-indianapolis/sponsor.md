@@ -161,7 +161,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Give a 20 minute demo in the main hall during one of the open spaces</td>
+      <td>Give a 30 minute demo in the main hall during one of the open spaces</td>
       <td style="padding: 5px" bgcolor="peru"></td>
       <td style="padding: 5px" bgcolor="silver"></td>
       <td style="padding: 5px" bgcolor="gold"></td>
