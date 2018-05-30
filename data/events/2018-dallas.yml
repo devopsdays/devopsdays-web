@@ -6,8 +6,8 @@ description: "The same group of organizers that brought you DevOpsDays DFW 2 yea
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-08-31 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -17,6 +17,8 @@ cfp_date_announce:  # inform proposers of status
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
+masthead_background: "capone-confcntr.jpg"
+
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
@@ -25,11 +27,11 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Dallas" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "33.08412347956714, -96.80671317624937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Capital One Conference Center" # Defaults to city, but you can make it the venue name.
+location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 
+#
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
@@ -88,7 +90,7 @@ team_members: # Name is the only required field for team members.
     image: "mark-andersen.jpg"
   - name: "Ben Johnson"
     employer: "Organizer Role - "
-    role: "  "
+    role: "Particle41"
     bio: "Consummate Technology Leader with strong open source programming background and hands on skills in Ruby on Rails, PHP and NodeJS. Extensive experience with remote distributed development teams. Establish highest levels of quality through continuous integration, continuous delivery, and automated testing standards. Constant focus on results and ways to improve while having fun building highly scalable and highly secure applications."
     twitter: "benjohnson77"
     linkedin: "https://www.linkedin.com/in/benjaminrjohnson/"
@@ -148,7 +150,7 @@ team_members: # Name is the only required field for team members.
     image: "gpratt.jpg"   
   - name: "Jack Teoh"
     employer: "Organizer Role - Volunteers / Eventbrite Registration"
-    role: "   "
+    role: "Snowfall Technologies LLC"
     bio: "Jack Teoh started his DevOps journey by actively volunteering for DevOpsDays Austin since 2015 and participates in multiple user group in the DevOps space. He also started volunteering for DevOpsDays Dallas when it was just starting in 2016, then become one of the core local organizer. He enjoys helping out both at DevOpsDays Austin and DevOpsDays Dallas, because he gets to meet and interact with people who are liked minded sharing a common interest which is DevOps."
     twitter: "jaxteoh"
     linkedin: "https://www.linkedin.com/in/jackteoh/"
@@ -167,7 +169,7 @@ team_members: # Name is the only required field for team members.
 #   github: ""
     image: "mbalios.jpg"    
   - name: "Megan Bohl"
-    role: "Aspiring Junior DevOps Engineer / Technical Consultant"
+    role: "DevOps Engineer Intern"
     employer: "Organizer Role - Sponsor Coordinator / Fundraising"
     bio: "Megan is our Sponsor Liaison for DevOpsDays DFW 2017.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
     twitter: "MeganBohl"
@@ -209,7 +211,7 @@ As a recognized leader in the DevOps space with exemplary recommendations in the
     image: "rameshv.jpg"
   - name: "Steve Porter"
     employer: "Organizer Role - "
-    role: "Raytheon Intelligence and Information Systems"
+    role: "Raytheon IIS"
 #    bio: ""
 #    twitter: ""
     linkedin: "https://www.linkedin.com/in/steve-porter-b6582b15/"
