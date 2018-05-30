@@ -171,6 +171,10 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: sjtechcorp
+    level: silver
+  - id: appdynamics
+    level: silver
 
 sponsors_accepted : "yes"
 
