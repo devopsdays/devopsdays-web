@@ -18,6 +18,16 @@ DevOpsDays on their own terms.
 
 The following chart outlines our sponsorship packages.  Drop us an email at {{< email_organizers >}} If you have questions or are interested in sponsoring.
 
+**Setup And Teardown:** Sponsors will have access to set up booths
+from 3-5pm on Tuesday, June 5 and 7-8am on Wednesday, June 6.
+Sponsors are asked to have their booths torn down by 3pm on Thursday, June 7.
+
+This image shows the atrium of the USPTO, where platinum sponsors will
+have tables. Sponsors are situated on either side of a central food
+service table:
+
+![Platinum sponsors](https://pbs.twimg.com/media/CkihU3OWEAEnn8Z.jpg "Platinum sponsors")
+
 [Become A Sponsor For DevOpsDays DC 2018 Now!](https://devopsdaysdc2018.busyconf.com/bookings/new?discount=SPONSOR)
 
 <style>
