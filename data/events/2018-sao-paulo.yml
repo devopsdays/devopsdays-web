@@ -131,17 +131,19 @@ sponsors:
     level: happy_hour
   - id: brq
     level: gold
+  - id: vmware
+    level: gold
   - id: nubank
     level: silver  
   - id: getupcloud
     level: silver
   - id: creditas
     level: silver
+  - id: agenciagnu
+    level: silver
   - id: avenue-code
     level: bronze
   - id: timbira
-    level: bronze
-  - id: agenciagnu
     level: bronze
   - id: arresteddevops
     level: community
@@ -418,3 +420,7 @@ ignites:
 
   - title: "victor-monteiro"
     date: "2018-06-06"
+
+  - title: "igor-souza"
+    date: "2018-06-07"
+    
