@@ -22,6 +22,7 @@ We will also address Storage Engines, Storage Schemas, and Policies and how they
 Lastly we will show how it all works together with the help of  recent improvements in k8s snapshots and how they can be used to create 50 shades of green/blue CI/CD pipelines for stateful workloads
 
 To join this workshop, you will need:
+
 * a laptop with sufficient CPU and memory to run a k8s cluster using Vagrant
 * have your development environment with all your favorite tools with you
 * Interest in figuring out how to use k8s with persistent workloads
