@@ -109,6 +109,8 @@ sponsors:
     level: gold
   - id: sysdig
     level: gold
+  - id: mesosphere
+    level: gold
 # Recharge
   - id: linkit-50th
     level: recharge
