@@ -278,12 +278,6 @@ program:
     start_time: "14:45"
     end_time: "17:15"
     comments: "Location: 'Small' Room"
-  - title: "andrew-farley"
-    type: workshop
-    date: 2018-06-27
-    start_time: "14:45"
-    end_time: "17:15"
-    comments: "Location: TBD"
   - title: "michael-ducy-ws"
     type: workshop
     date: 2018-06-27
