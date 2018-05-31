@@ -28,10 +28,11 @@ coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude 
 location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+masthead_background: "skyline-ams.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#    url: https://www.papercall.io/dodams2018
+  - name: slack
+    url: http://bit.ly/2JoT0vc
   - name: location
   - name: registration
   - name: program
@@ -470,11 +471,11 @@ program:
     date: 2018-06-29
     start_time: "16:10"
     end_time: "16:40"
-  - title: "jaap-trouw"	
-    type: talk	
-    date: 2018-06-29	
-    start_time: "16:10"	
-    end_time: "16:40"	
+  - title: "jaap-trouw"
+    type: talk
+    date: 2018-06-29
+    start_time: "16:10"
+    end_time: "16:40"
     comments: "HumanOps Track | Location: Main Room"
   - title: "Close 6th anniversary of devopsdays Amsterdam"
     type: custom
