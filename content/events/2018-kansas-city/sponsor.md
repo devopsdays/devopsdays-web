@@ -25,7 +25,7 @@ Sponsors are responsible for providing high-res logos for use on the website and
   <thead>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Basic</a></u></b></center><center><b>$1,000</b></center></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Core</a></u></b></center><center><b>$1,000</b></center></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WJ3T6Q3RA9DMW">Standard</a></u></b></center></center><center><b>$3,000</b></center></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></b></center></center><center><b>$6,000</b></center></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VKA92EMUQMXKG">Ultimate</a></u></b></center></center><center><b>$10,000</b></center></th>
@@ -35,7 +35,7 @@ Sponsors are responsible for providing high-res logos for use on the website and
     <tr>
       <td style="border-bottom: 0; border-top: 0;"></td>
       <td style="padding: 4px 5px 0px 5px;">
-        <!-- Basic Paypal button  -->
+        <!-- Core Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="5LCE8CR2ZUH8J">
