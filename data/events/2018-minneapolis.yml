@@ -175,6 +175,8 @@ sponsors:
     level: silver
   - id: appdynamics
     level: silver
+  - id: saucelabs
+    level: silver
 
 sponsors_accepted : "yes"
 
