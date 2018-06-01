@@ -175,11 +175,11 @@ sponsor_levels:
     max: 1
   - id: premium
     label: Premium
-    max: 9 # This is the same as omitting the max limit.
+    max: 9
   - id: standard
     label: Standard
     max: 4
-  - id: basic
-    label: Basic
+  - id: core
+    label: Core
   - id: community
     label: Community
