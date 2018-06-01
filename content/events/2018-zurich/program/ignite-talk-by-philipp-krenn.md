@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["philipp-krenn"]
 youtube = ""
 vimeo = "272537160"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/building-distributed-systems-in-distributed-teams-philipp-krenn"
 slideshare = ""
 slides = ""
 +++

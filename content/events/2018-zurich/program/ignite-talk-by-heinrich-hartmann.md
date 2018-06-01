@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["heinrich-hartmann"]
 youtube = ""
 vimeo = "272537603"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/advanced-linux-performance-monitoring-with-ebpf-heinrich-hartmann"
 slideshare = ""
 slides = ""
 +++

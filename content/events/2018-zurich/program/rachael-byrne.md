@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["rachael-byrne"]
 youtube = ""
 vimeo = "272534109"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/dont-be-a-bystander-be-an-incident-commander-rachael-byrne"
 slideshare = ""
 slides = ""
 +++

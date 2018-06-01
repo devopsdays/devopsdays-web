@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["kris-buytaert"]
 youtube = ""
 vimeo = "272519813"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/is-there-a-future-for-devops-kris-buytaert"
 slideshare = ""
 slides = ""
 +++

@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["serhat-can"]
 youtube = ""
 vimeo = "271452612"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/devops-in-a-serverless-world-serhat-can"
 slideshare = ""
 slides = ""
 +++

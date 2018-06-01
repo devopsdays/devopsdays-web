@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["franziska-buehler"]
 youtube = ""
 vimeo = "271451246"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/web-application-firewall-friend-of-your-devops-chains-franziska-buhler"
 slideshare = ""
 slides = ""
 +++

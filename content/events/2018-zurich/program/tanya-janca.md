@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["tanya-janca"]
 youtube = ""
 vimeo = "271450144"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/security-is-everybodys-job-dot-dot-dot-literally-tanya-janca"
 slideshare = ""
 slides = ""
 +++

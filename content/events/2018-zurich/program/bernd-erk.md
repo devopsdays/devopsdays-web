@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["bernd-erk"]
 youtube = ""
 vimeo = "271450709"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/how-to-make-good-and-difficult-decisions-bernd-erk"
 slideshare = ""
 slides = ""
 +++

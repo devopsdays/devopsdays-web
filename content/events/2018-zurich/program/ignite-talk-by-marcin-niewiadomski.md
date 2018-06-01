@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["marcin-niewiadomski"]
 youtube = ""
 vimeo = "272538018"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/getting-configurations-under-control-first-steps-marcin-niewiadomski"
 slideshare = ""
 slides = ""
 +++
@@ -32,4 +32,4 @@ I'll also mention the importance of working with users and that value of them is
 important than technical excellence.
 
 It hope it will be inspiring for people who have a similar challenge in front of them, but
-somehow don't know how to start or don't believe such a simple thing will work.s
+somehow don't know how to start or don't believe such a simple thing will works.

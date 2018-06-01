@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["georgiana-gligor"]
 youtube = ""
 vimeo = "272535482"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/silo-based-architectures-for-high-availability-applications-georgiana-gligor"
 slideshare = ""
 slides = ""
 +++

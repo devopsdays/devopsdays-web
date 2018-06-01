@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["basil-brunner"]
 youtube = ""
 vimeo = "272531337"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/iterate-faster-with-immutable-infrastructure-basil-brunner"
 slideshare = ""
 slides = ""
 +++
