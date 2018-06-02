@@ -145,6 +145,8 @@ sponsors:
     level: bronze
   - id: timbira
     level: bronze
+  - id: kinghost
+    level: bronze
   - id: arresteddevops
     level: community
   - id: 10deploys
@@ -423,4 +425,6 @@ ignites:
 
   - title: "igor-souza"
     date: "2018-06-07"
-    
+  
+  - title: "emmanuel-brandao"
+    date: "2018-06-07"
