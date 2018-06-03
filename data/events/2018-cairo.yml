@@ -47,12 +47,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Ahmed Abdel Aziz"
+    employer: "IBM Egypt"
+    linkedin: "https://www.linkedin.com/in/theredfox/"
   - name: "Ahmed Ameen"
     employer: "ITIDA - SECC"
     linkedin: "https://www.linkedin.com/in/aameen79/"
-  - name: "Amr Eid"
-    employer: "IBM Egypt"
-    linkedin: "https://www.linkedin.com/in/amr-eid/"
   - name: "Ghada Soliman"
     employer: "Orange Labs"
     linkedin: "https://www.linkedin.com/in/ghada-soliman-2768063/"
@@ -81,6 +81,10 @@ proposal_email: "proposals-cairo-2018@devopsdays.org" # Put your proposal email 
 sponsors:
  - id: amecse
    level: community
+ - id: gizasystems
+   level: platinum
+ - id: advansys
+   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
  
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
