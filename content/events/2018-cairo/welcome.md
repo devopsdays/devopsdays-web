@@ -10,21 +10,15 @@ Description = "DevOpsDays Cairo 2018"
 </div>
   
 <div>
-**Happening for the first time in Egypt and Arab world!**
-
-**"DevOps Role in Digital Transformation"**
-
-About DevOpsDays:
-
-DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area.                                                                                        
-
-DevOpsDays Cairo 2018:
-
-DevOpsDays Cairo is a one-day event addressing DevOps as Digital Transformation Driver.  You can learn and share your knowledge with the people from all around the world while enjoying great culture in Egypt.  This year, SECC/ITIDA are organizing DevOpsDays Cairo 2018 in cooperation with DXC Technology, IBM and Orange Labs.
-
-Registration to attend the event will be opening soon.  We are currently at the stage of [Call for Proposals and Participation](https://www.papercall.io/devopsdays-cairo) to talk at the conference, as well as accepting [sponsorships](https://www.devopsdays.org/events/2018-cairo/sponsor/).
-
-Please stay tuned for more information about DevOpsDays Cairo 2018.
+<p><span style="color: #ff0000;"><strong>Happening for the first time in Egypt and Arab world!</strong></span></p>
+<p><span style="color: #333399;"><strong>&ldquo;DevOps Role in Digital Transformation&rdquo;</strong></span></p>
+<p>About DevOpsDays:</p>
+<p>Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area.</p>
+<p>DevOpsDays Cairo 2018:</p>
+<p>DevOpsDays Cairo is a one-day event addressing DevOps as Digital Transformation Driver. You can learn and share your knowledge with the people from all around the world while enjoying great culture in Egypt. This year, SECC/ITIDA are organizing DevOpsDays Cairo 2018 in cooperation with DXC Technology, IBM and Orange Labs.</p>
+<p>Registration to attend the event will be opening soon. We are currently at the stage of <a href="https://www.papercall.io/devopsdays-cairo">Call for Proposals and Participation</a> to talk at the conference, as well as accepting <a href="https://www.devopsdays.org/events/2018-cairo/sponsor/">sponsorships</a>.</p>
+<p>Please stay tuned for more information about DevOpsDays Cairo 2018.</p>
+  
 </div>
 
 <div class = "row">
