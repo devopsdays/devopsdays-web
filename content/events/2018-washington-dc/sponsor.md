@@ -18,6 +18,10 @@ DevOpsDays on their own terms.
 
 The following chart outlines our sponsorship packages.  Drop us an email at {{< email_organizers >}} If you have questions or are interested in sponsoring.
 
+## Sponsor FAQ
+
+Are you or your organization sponsoring DevOpsDays DC 2018?  Please check-out our [Sponsor FAQ](https://docs.google.com/document/d/1YD8htWFWVJw6c4VA2q8hIY9M3yvAFFN5vbc2Cxvrf9M/edit?usp=sharing) for the latest information you will need as you make your preparations for the event.
+
 **Setup And Teardown:** Sponsors will have access to set up booths
 from 3-5pm on Tuesday, June 5 and 7-8am on Wednesday, June 6.
 Sponsors are asked to have their booths torn down by 3pm on Thursday, June 7.
