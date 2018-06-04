@@ -9,7 +9,7 @@ type = "talk"
 speakers = ["paige-bernier"]
 youtube = ""
 vimeo = "271452246"
-speakerdeck = ""
+speakerdeck = "https://speakerdeck.com/dodzh/microservices-means-macrocommunication-paige-bernier"
 slideshare = ""
 slides = ""
 +++
