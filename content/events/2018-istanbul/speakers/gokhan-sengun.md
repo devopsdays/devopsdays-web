@@ -3,7 +3,7 @@ Title = "Gökhan Şengün"
 Website = "gokhansengun.com"
 Twitter = "gokhansengun"
 Github = ""
-image = "gokhan-sengun.png"
+image = "gokhan-sengun.jpg"
 type = "speaker"
 +++
 
