@@ -8,8 +8,8 @@ title = "Advanced Linux Performance Monitoring With eBPF"
 type = "talk"
 speakers = ["heinrich-hartmann"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "272537603"
+speakerdeck = "https://speakerdeck.com/dodzh/advanced-linux-performance-monitoring-with-ebpf-heinrich-hartmann"
 slideshare = ""
 slides = ""
 +++
