@@ -7,4 +7,4 @@ linktitle = "benjamin-ortega"
 
 +++
 
-Ben is a longtime MSP tech person and software maker who likes bike rides and sandwiches.
+Ben is a longtime MSP software maker, slow cyclist, and okay bowler. He works on the release engineering team at SmartThings in northeast Minneapolis.
