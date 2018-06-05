@@ -74,6 +74,8 @@ organizer_email: "organizers-cape-town-2018@devopsdays.org"
 proposal_email: "proposals-cape-town-2018@devopsdays.org"
 
 sponsors:
+  - id: zappi
+    level: platinum
   - id: offerzen
     level: gold
     url: https://bit.ly/2L0JaOk
@@ -83,6 +85,8 @@ sponsors:
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
   - id: silver
