@@ -114,6 +114,12 @@ sponsors:
     level: gold
   - id: datadog
     level: gold
+  - id: redhat
+    level: gold
+  - id: herzum
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: influxdata
     level: silver
   - id: signal
@@ -123,6 +129,8 @@ sponsors:
   - id: kaizenops
     level: silver
   - id: rancher
+    level: silver
+  - id: netapp
     level: silver
   - id: mongodb
     level: bronze
