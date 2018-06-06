@@ -181,6 +181,8 @@ sponsors:
     level: silver
   - id: herzum
     level: silver
+  - id: servicenow
+    level: gold
 
 sponsors_accepted : "yes"
 
