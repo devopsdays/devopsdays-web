@@ -90,6 +90,9 @@ sponsors:
 # Beer
   - id: newrelic
     level: beer
+# Coffee
+  - id: leaseweb
+    level: coffee
 # Golds
   - id: schubergphilis
     level: gold
