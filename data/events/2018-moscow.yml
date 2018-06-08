@@ -122,10 +122,12 @@ sponsors:
     level: reading
   - id: iidf
     level: media
+  - id: interfax
+    level: media
   - id: realitsm
     level: media
   - id: arresteddevops
-    level: community    
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
