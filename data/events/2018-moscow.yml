@@ -94,6 +94,8 @@ proposal_email: "proposals-moscow-2018@devopsdays.org" # Put your proposal email
 sponsors:
   - id: Logrocon
     level: organizational
+  - id: YEx
+    level: organizational  
   - id: holiday-inn-sokolniki
     level: venuesponsor
   - id: sbertech
