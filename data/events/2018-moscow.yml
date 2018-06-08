@@ -94,6 +94,8 @@ proposal_email: "proposals-moscow-2018@devopsdays.org" # Put your proposal email
 sponsors:
   - id: Logrocon
     level: organizational
+  - id: YEx
+    level: organizational  
   - id: holiday-inn-sokolniki
     level: venuesponsor
   - id: sbertech
@@ -112,12 +114,44 @@ sponsors:
     level: silver
   - id: croc
     level: bronze
-  - id: arresteddevops
-    level: community
+  - id: mailru
+    level: gi
+  - id: rambler
+    level: gi2
+  - id: mif
+    level: reading
+  - id: cleverics
+    level: reading
+  - id: iidf
+    level: media
+  - id: interfax
+    level: media
+  - id: it-events
+    level: media
+  - id: aciso
+    level: media
+  - id: ict-online
+    level: media
+  - id: ict2go
+    level: media
+  - id: globalcio
+    level: media
+  - id: scan
+    level: media
+  - id: jooble
+    level: media
+  - id: itsmf
+    level: media
+  - id: congress-tv
+    level: media
+  - id: upr
+    level: media
   - id: realitsm
     level: media
+  - id: arresteddevops
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -138,5 +172,13 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: gi
+    label: Global Internet
+  - id: gi2
+    label: General Information    
+  - id: reading
+    label: Reading
+  - id: media
+    label: Media
   - id: community
     label: Community
