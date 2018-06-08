@@ -114,6 +114,8 @@ sponsors:
     level: bronze
   - id: mailru
     level: gi
+  - id: rambler
+    level: gi2
   - id: cleverics
     level: reading
   - id: realitsm
@@ -144,6 +146,8 @@ sponsor_levels:
     label: Bronze
   - id: gi
     label: Global Internet
+  - id: gi2
+    label: General Information    
   - id: reading
     label: Reading
   - id: media
