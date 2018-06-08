@@ -114,10 +114,12 @@ sponsors:
     level: bronze
   - id: mailru
     level: gi
-  - id: arresteddevops
-    level: community
+  - id: cleverics
+    level: reading
   - id: realitsm
     level: media
+  - id: arresteddevops
+    level: community    
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -142,6 +144,8 @@ sponsor_levels:
     label: Bronze
   - id: gi
     label: Global Internet
+  - id: reading
+    label: Reading
   - id: media
     label: Media
   - id: community
