@@ -278,6 +278,12 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: devopsdaysbaltimore
+    level: platinum
+  - id: blackstone-federal
+    level: media
+  - id: hope-one-source
+    level: community
 
   # - id: samplesponsorname
   #   level: gold

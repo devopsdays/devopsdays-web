@@ -14,8 +14,8 @@ slideshare = ""
 slides = ""
 +++
 
-"With microservices every outage is like a murder mystery" is a common complaint. But it 
-doesn't have to be! This talk gives an overview on how to monitor applications from every 
+"With microservices every outage is like a murder mystery" is a common complaint. But it
+doesn't have to be! This talk gives an overview on how to monitor applications from every
 possible angle. We dive into:
 
 - System metrics: Keep track of network traffic and system load.

@@ -6,16 +6,16 @@ description: "Devopsdays is coming to Shanghai!" # Edit this to suit your prefer
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-08-17 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-08-18  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-08-18 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-08-19  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-05-18 # start accepting talk proposals.
+cfp_date_end: 2018-07-01 # close your call for proposals.
+cfp_date_announce: 2018-05-18  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "http://exinchina.mikecrm.com/EvmFYHo" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -26,12 +26,12 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "The Longemont Hotel, Shanghai" # Defaults to city, but you can make it the venue name.
+location: "Xinrong Wyndham Hotels, Shanghai" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "No.25 Ningguo Road, Yangpu, Shanghai" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -73,17 +73,33 @@ team_members: # Name is the only required field for team members.
     image: "zhang-le.jpg"
     linkedin: "https://www.linkedin.com/in/le-zhang-121b256b/"
     twitter: "overloadzy"
+  - name: "Wang Lijie"
+    image: "wang-lijie.jpg"
+    linkedin: "https://www.linkedin.com/in/lijie-wang-9984aba/"
+  - name: "Yao Dong"
+    #linkedin: "https://www.linkedin.com/in/franklinxu/"
+    image: "yao-dong.jpg"
+  - name: "Lin Weidan"
+    image: "lin-weidan.jpg"
+    linkedin: "https://www.linkedin.com/in/%E4%BC%9F%E4%B8%B9-%E6%9E%97-83175b114"
+    #twitter: "overloadzy"
 organizer_email: "organizers-shanghai-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-shanghai-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: alauda
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-  - id: arresteddevops
-    level: community
+  - id: jfrogcn
+    level: gold
+    url: http://www.jfrogchina.com
+  - id: huawei
+    level: gold
+    url: https://www.huaweicloud.com/devcloud/
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: ibestpractice
+    level: co-org
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -94,12 +110,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 2
+    max: 10
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
     max: 10
+  - id: co-org
+    label: Co-Orgnization
   - id: community
     label: Community

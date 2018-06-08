@@ -92,6 +92,11 @@ Description = "DevOpsDays Washington, DC 2018"
 
 <div class="row">
   <div class="col-md-10">
+    <h2>Live Stream</h2>
+    <p>
+      USPTO will be live streaming DevOpsDays DC 2018! If you can't join us in person, tune in at
+      <a href="https://livestream.com/uspto/DevOpsDays2018">https://livestream.com/uspto/DevOpsDays2018</a>.
+    </p>
     <h2>Program Announced</h2>
     <p>
       Come to DevOpsDays DC to hear amazing talks from insightful speakers and to share with and learn from your peers.  The <a href="https://devopsdaysdc2018.busyconf.com/schedule">program is available now</a>.  Join us to hear from:

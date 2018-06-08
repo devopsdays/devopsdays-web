@@ -13,6 +13,15 @@ Description = "devopsdays Amsterdam 2018"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Join our Slack!</strong>
+  </div>
+  <div class = "col-md-8">
+  <a href="https://bit.ly/2JoT0vc">Join our Slack to join in on the discussion!</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">

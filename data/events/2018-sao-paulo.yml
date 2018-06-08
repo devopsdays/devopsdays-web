@@ -131,17 +131,21 @@ sponsors:
     level: happy_hour
   - id: brq
     level: gold
+  - id: vmware
+    level: gold
   - id: nubank
     level: silver  
   - id: getupcloud
     level: silver
   - id: creditas
     level: silver
+  - id: agenciagnu
+    level: silver
   - id: avenue-code
     level: bronze
   - id: timbira
     level: bronze
-  - id: agenciagnu
+  - id: kinghost
     level: bronze
   - id: arresteddevops
     level: community
@@ -162,6 +166,8 @@ sponsors:
   - id: giodesigner
     level: community
   - id: easytaxi
+    level: community
+  - id: vbrownbagbrasil
     level: community
 
 
@@ -280,7 +286,7 @@ program:
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "fernanda-weiden"
+  - title: "luana-linares"
     type: talk
     date: "2018-06-06"
     start_time: "17:00"
@@ -413,8 +419,14 @@ ignites:
   - title: "tatiane-paya"
     date: "2018-06-06"
   
-  - title: "luana-linares"
-    date: "2018-06-06"
-
   - title: "victor-monteiro"
     date: "2018-06-06"
+
+  - title: "igor-souza"
+    date: "2018-06-06"
+  
+  - title: "emmanuel-brandao"
+    date: "2018-06-07"
+  
+  - title: "alexandre-stratikopoulos"
+    date: "2018-06-07"
