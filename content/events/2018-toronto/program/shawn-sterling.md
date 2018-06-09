@@ -20,3 +20,5 @@ We will be talking about some advanced patterns such as:
 - Frontloading governance and compliance at deployment time
 
 We will also talk about some of the “stranger than fiction” stories that we have encountered in dealings with very large enterprise.
+
+<a href="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_ShawnSterling_NanJiang.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_ShawnSterling_NanJiang_lores.jpg" alt="Graphic Recording Unleashing the Gorillacorn - DevOps in Very Large Enterprises" /></a>
