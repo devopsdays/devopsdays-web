@@ -183,6 +183,8 @@ sponsors:
     level: silver
   - id: servicenow
     level: gold
+  - id: stripe
+    level: alacarte
 
 sponsors_accepted : "yes"
 
