@@ -87,6 +87,10 @@ proposal_email: "proposals-tel-aviv-2018@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: cloudify
     level: lanyard
+  - id: cloudify
+    level: silver
+  - id: bigpanda
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
