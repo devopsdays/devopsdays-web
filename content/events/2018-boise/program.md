@@ -109,7 +109,7 @@ div.row div h3 {
     Dave Nielsen - Redis in Containers, and Kubernetes and Serverless ... Oh My!
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
-    Chris Van Tuin - A DevOps State of Mind: Continuous Security with Kubernetes
+    Matthew Barlocker - Fixing Production in the Hospital. Worst. Day. Ever.
   </div>
 </div>
 <div class = "row program-row">
@@ -191,10 +191,10 @@ div.row div h3 {
     Rajasree Talla - From a controlled chaos to a well-oiled machine
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
-    Trevor Carnahan - DevOps Journey at Microsoft
+    Chris Van Tuin - A DevOps State of Mind: Continuous Security with Kubernetes
   </div>
   <div class = "col-md-2 offset-md-1 program-element program-talk">
-    Matthew Barlocker - Fixing Production in the Hospital. Worst. Day. Ever.
+    Trevor Carnahan - DevOps Journey at Microsoft
   </div>
 </div>
 <div class = "row program-row">

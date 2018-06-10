@@ -8,8 +8,8 @@ title = "Web Application Firewall - Friend of your DevOps Chains"
 type = "talk"
 speakers = ["franziska-buehler"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "271451246"
+speakerdeck = "https://speakerdeck.com/dodzh/web-application-firewall-friend-of-your-devops-chains-franziska-buhler"
 slideshare = ""
 slides = ""
 +++

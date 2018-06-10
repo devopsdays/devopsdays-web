@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Phoenix!" # Edit this to suit your prefere
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-# startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-# enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-23 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-23  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 # cfp_date_start:  # start accepting talk proposals.
@@ -26,9 +26,9 @@ cfp_open: "false"
 # Location
 #
 coordinates: "33.448377, -112.074037" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Phoenix" # Defaults to city, but you can make it the venue name.
+location: "Galvanize" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "515 E Grant St, Phoenix, AZ 8500" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose

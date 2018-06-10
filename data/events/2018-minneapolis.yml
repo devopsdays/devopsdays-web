@@ -13,7 +13,7 @@ cfp_date_start: 2017-11-08
 cfp_date_end: 2018-04-08
 cfp_date_announce: 2018-05-06
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2017-11-08
@@ -31,7 +31,7 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 " #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -175,6 +175,16 @@ sponsors:
     level: silver
   - id: appdynamics
     level: silver
+  - id: saucelabs
+    level: silver
+  - id: granicus
+    level: silver
+  - id: herzum
+    level: silver
+  - id: servicenow
+    level: gold
+  - id: stripe
+    level: alacarte
 
 sponsors_accepted : "yes"
 
@@ -377,3 +387,23 @@ program:
     date: 2018-07-13
     start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+  - title: "sonia-gupta"
+    date: 2018-07-12
+  - title: "jamesha-fisher"
+    date: 2018-07-12
+  - title: "nick-tenbrink"
+    date: 2018-07-12
+  - title: "alvin-faisal"
+    date: 2018-07-12
+  - title: "jessica-schalz"
+    date: 2018-07-12
+  - title: "steve-grove"
+    date: 2018-07-12
+  - title: "benjamin-ortega"
+    date: 2018-07-12
+  - title: "david-washington"
+    date: 2018-07-12
+  - title: "shafer"
+    date: 2018-07-12

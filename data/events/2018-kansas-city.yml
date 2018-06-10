@@ -162,6 +162,16 @@ sponsors:
     level: premium
   - id: influxdata
     level: premium
+  - id: naic_nipr
+    level: premium
+  - id: chef
+    level: premium
+  - id: c2fo
+    level: premium
+  - id: sdtp
+    level: community
+  - id: stickermule
+    level: community
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -175,11 +185,11 @@ sponsor_levels:
     max: 1
   - id: premium
     label: Premium
-    max: 9 # This is the same as omitting the max limit.
+    max: 8
   - id: standard
     label: Standard
-    max: 4
-  - id: basic
-    label: Basic
+    max: 3
+  - id: core
+    label: Core
   - id: community
     label: Community
