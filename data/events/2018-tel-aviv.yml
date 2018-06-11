@@ -91,6 +91,8 @@ sponsors:
     level: silver
   - id: bigpanda
     level: silver
+  - id: oracle
+    level: silver
   - id: statscraft
     level: community
 
