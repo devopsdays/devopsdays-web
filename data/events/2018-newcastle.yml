@@ -65,8 +65,8 @@ team_members: # Name is the only required field for team members.
     # linkedin: "https://www.linkedin.com/in/sallyfields"
     # website: "https://mattstratton.com"
     # image: "sally-fields.jpg"
-organizer_email: "devops-days-newcastle-2018@googlegroups.com" # Put your organizer email address here
-proposal_email: "devops-days-newcastle-2018@googlegroups.com" # Put your proposal email address here
+organizer_email: "organizers-newcastle-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-newcastle-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
