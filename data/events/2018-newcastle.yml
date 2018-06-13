@@ -59,6 +59,7 @@ team_members: # Name is the only required field for team members.
   - name: "Mathew Finch"
   - name: "Jonathan Milgate"
   - name: "Damian Brady"
+  - name: "Lindsay Holmwood"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
     # facebook: "https://www.facebook.com/sally.fields"
