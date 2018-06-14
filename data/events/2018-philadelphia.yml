@@ -76,7 +76,7 @@ proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal
 sponsors:
   - id: dynatrace
     level: gold
-  - id: influx
+  - id: influxdata
     level: gold
   - id: appdynamics
     level: gold
