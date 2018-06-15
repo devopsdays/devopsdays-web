@@ -154,6 +154,10 @@ sponsors:
     level: standard
   - id: tek-systems
     level: standard
+  - id: stackify
+    level: standard
+  - id: appdynamics
+    level: premium
   - id: sumologic
     level: premium
   - id: thoughtworks-gocd
@@ -180,9 +184,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: ultimate
-    label: Ultimate
-    max: 1
+  # - id: ultimate
+  #   label: Ultimate
+  #   max: 1
   - id: premium
     label: Premium
     max: 8
