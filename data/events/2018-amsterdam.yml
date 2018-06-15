@@ -154,6 +154,8 @@ sponsors:
     level: bronze
   - id: openebs
     level: bronze
+  - id: portworx
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -356,7 +358,7 @@ program:
     type: ignite
     date: 2018-06-28
     start_time: "13:40"
-    end_time: "14:15"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-06-28

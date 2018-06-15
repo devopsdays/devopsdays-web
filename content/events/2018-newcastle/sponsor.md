@@ -1,12 +1,10 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Columbus 2018"
+Description = "Sponsor devopsdays Newcastle 2018"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
-
-<a href="https://drive.google.com/file/d/1qPVXCodN74hJw2OKp7TYRt3w7ll7Dfsb/view" target="_blank">Sponsorship Prospectus</a>
 
 <hr>
 

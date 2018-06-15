@@ -93,6 +93,8 @@ sponsors:
     level: gold
   - id: morpheus_data
     level: gold
+  - id: appdynamics
+    level: gold
   - id: arresteddevops
     level: community
   - id: blacksintechnology
@@ -338,4 +340,6 @@ ignites:
   - title: "martez-reed"
     date: 2018-07-24
   - title: "david-stacy"
+    date: 2018-07-24
+  - title: "austin-zellner"
     date: 2018-07-24

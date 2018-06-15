@@ -30,3 +30,5 @@ The Takeaways
 - Concrete problems identified when migrating monolithic apps to kubernetes
 - Concrete examples of ways to solve each of the problems
 - Identified bottlenecks along the way
+
+<a href="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_KrisNova.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_KrisNova_lores.jpg" alt="Graphic Recording Moving an enterprise monolith to Kubernetes" /></a>
