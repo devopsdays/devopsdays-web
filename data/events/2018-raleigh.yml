@@ -32,9 +32,11 @@ location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the st
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
- # - name: program
+  - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devops-days-raleigh-2018-tickets-42510017607"
+  - name: program
+    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -98,7 +100,7 @@ sponsors:
   - id: launch-darkly
     level: gold
   - id: sumologic
-    level: platinum  
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

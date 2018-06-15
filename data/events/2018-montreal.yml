@@ -6,8 +6,8 @@ description: "devopsdays is coming to Montréal! / devopsdays arrive en ville!" 
 ga_tracking_id: "UA-118473645-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-08 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-04-26 # start accepting talk proposals.
@@ -18,7 +18,7 @@ cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-mtl-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-05-18 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-10-09 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2018-10-10 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/devops-day-montreal-2018-tickets-45899626017" # valid link, not ok yet. 2018-05-09
@@ -74,6 +74,12 @@ team_members: # Name is the only required field for team members.
   - name: "Martin Goyette"
     employer: "Agile Montreal"
     twitter: "agilemontreal"
+  - name: "Donald Donovan"
+    employer: "CloudOps"
+  - name: "James Shubin"
+    employer: "purpleidea.com"
+    github: "purpleidea"
+    twitter: "purpleidea"
 #  - name: "Sally Fields"
 #    employer: "Acme Anvil Co."
 #    github: "devopsdays"
@@ -93,6 +99,10 @@ sponsors:
     level: community
   - id: microsoft
     level: gold
+  - id: dynatrace
+    level: bronze
+  - id: mesosphere
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

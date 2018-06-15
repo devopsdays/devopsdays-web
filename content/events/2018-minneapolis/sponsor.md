@@ -16,7 +16,7 @@ Additional à la carte sponsorships are available:
 <li><strike>Thursday all-day coffee ($3000) </strike> - <b>SOLD OUT</b>
 <li>Thursday breakfast ($2500) - <strike>1 slot sold,</strike> 1 slot available - signage by the breakfast service with your logo in the morning before sessions
 <li>Thursday lunch ($2500) - <strike>1 slot sold,</strike> 1 slot available - signage by the lunch service with your logo during lunch
-<li>Thursday afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
+<li>Thursday afternoon break ($1000) - <strike>1 slot sold,</strike> 1 slot available - signage by the snack area with your logo during the afternoon when snacks are available
 <li>Thursday evening happy hour ($4000) - 2 slots available - signage at the evening happy hour
 </ul>
 

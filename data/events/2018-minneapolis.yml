@@ -181,6 +181,10 @@ sponsors:
     level: silver
   - id: herzum
     level: silver
+  - id: servicenow
+    level: gold
+  - id: stripe
+    level: alacarte
 
 sponsors_accepted : "yes"
 

@@ -167,6 +167,8 @@ sponsors:
     level: community
   - id: easytaxi
     level: community
+  - id: vbrownbagbrasil
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -284,7 +286,7 @@ program:
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "fernanda-weiden"
+  - title: "luana-linares"
     type: talk
     date: "2018-06-06"
     start_time: "17:00"
@@ -417,14 +419,14 @@ ignites:
   - title: "tatiane-paya"
     date: "2018-06-06"
   
-  - title: "luana-linares"
-    date: "2018-06-06"
-
   - title: "victor-monteiro"
     date: "2018-06-06"
 
   - title: "igor-souza"
-    date: "2018-06-07"
+    date: "2018-06-06"
   
   - title: "emmanuel-brandao"
+    date: "2018-06-07"
+  
+  - title: "alexandre-stratikopoulos"
     date: "2018-06-07"
