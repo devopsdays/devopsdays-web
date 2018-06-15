@@ -1,10 +1,11 @@
 +++
-Title = "SPEAKERNAME"
-Twitter = "SPEAKERTWITTER"
-image = ""
+Title = "Filipp Hadelyants"
+Twitter = ""
+image = "filipp-handelyants.png"
 type = "speaker"
-linktitle = "SPEAKERSLUG"
+linktitle = ""
 
 +++
 
-SPEAKERBIO
+После окончания магистратуры по направлению "Компьютерный анализ и интерпретация данных" начал карьеру в команде PVS-Studio и уже несколько лет занимается разработкой и развитием этого статического анализатора кода.
+

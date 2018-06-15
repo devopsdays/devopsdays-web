@@ -1,10 +1,9 @@
 +++
-Title = "SPEAKERNAME"
-Twitter = "SPEAKERTWITTER"
-image = ""
+Title = "Kira Mametova"
+Twitter = ""
+image = "kira-memetova.png"
 type = "speaker"
-linktitle = "SPEAKERSLUG"
+linktitle = ""
 
 +++
 
-SPEAKERBIO
