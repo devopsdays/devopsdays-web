@@ -37,13 +37,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "map-o"
   - name: propose
     icon: "paper-plane"
+  - name: registration
+    icon: "pencil"
   - name: sponsor
     icon: "money"
   - name: contact
     icon: "envelope-o"
   - name: conduct
     icon: "handshake-o"
-# - name: registration
 # - name: program
 # - name: speakers
 # - name: example
@@ -173,16 +174,36 @@ team_members: # Name is the only required field for team members.
 #   website: ""
 #   github: ""
     image: "mbalios.jpg"    
-  - name: "Megan Bohl"
-    role: "DevOps Engineer Intern"
+  - name: "Jessica Clark"
+    role: "Capital One"
     employer: "Organizer Role - Sponsor Coordinator / Fundraising"
-    bio: "Megan is our Sponsor Liaison for DevOpsDays DFW 2017.  She is joining the tech community with more than 15 years experience in supply chain operations and marketing in the fashion and consumer goods industries.   Megan has a particular interest in DevOps concepts and is looking forward to expanding her knowledge at DevOpsDays DFW."
-    twitter: "MeganBohl"
-    linkedin: "https://www.linkedin.com/in/megan-bohl-gardner-60932310/"
+    bio: ""
+    twitter: ""
+    linkedin: ""
 #   facebook:
 #   website:
 #   github:
-    image: "megan.jpg"
+    image: ""
+  - name: "Roger Servey"
+    role: "Verizon"
+    employer: "Organizer Role - "
+    bio: ""
+    twitter: ""
+    linkedin: ""
+#   facebook:
+#   website:
+#   github:
+    image: ""
+  - name: "Charles Humphrey"
+    role: ""
+    employer: "Organizer Role - "
+    bio: ""
+    twitter: ""
+    linkedin: ""
+#   facebook:
+#   website:
+#   github:
+    image: ""
 #  - name: "Michael Hedgpeth"
 #    employer: "NCR"
 #    role: "Leadership Summit Organizer"
