@@ -3,7 +3,7 @@ Title = "Alexey Vahov"
 Twitter = ""
 image = "alexey-vahov.png"
 type = "speaker"
-linktitle = ""
+linktitle = "alexey-vahov"
 
 +++
 

@@ -3,7 +3,7 @@ Title = "Kira Mametova"
 Twitter = ""
 image = "kira-memetova.png"
 type = "speaker"
-linktitle = ""
+linktitle = "kira-memetova"
 
 +++
 

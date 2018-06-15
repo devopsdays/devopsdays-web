@@ -3,7 +3,7 @@ Title = "Kirill Vetchinkin"
 Twitter = ""
 image = "kirill-vetchinkin.png"
 type = "speaker"
-linktitle = "SPEAKERSLUG"
+linktitle = "kirill-vetchinkin"
 
 +++
 

@@ -3,7 +3,7 @@ Title = "Filipp Hadelyants"
 Twitter = ""
 image = "filipp-handelyants.png"
 type = "speaker"
-linktitle = ""
+linktitle = "filipp-handelyants"
 
 +++
 

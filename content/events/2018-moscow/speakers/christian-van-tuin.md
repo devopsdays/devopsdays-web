@@ -3,7 +3,7 @@ Title = "Christian Van Tuin"
 Twitter = ""
 image = "christian-van-tuin.png"
 type = "speaker"
-linktitle = ""
+linktitle = "christian-van-tuin"
 
 +++
 

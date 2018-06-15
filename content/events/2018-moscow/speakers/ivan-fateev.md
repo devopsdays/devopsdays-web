@@ -3,7 +3,7 @@ Title = "Ivan Fateev"
 Twitter = "poisonous_john"
 image = "ivan-fateev.png"
 type = "speaker"
-linktitle = ""
+linktitle = "ivan-fateev"
 
 +++
 

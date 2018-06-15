@@ -3,7 +3,7 @@ Title = "Pavel Mamontov"
 Twitter = ""
 image = "pavel-mamontov.png"
 type = "speaker"
-linktitle = ""
+linktitle = "pavel-mamontov"
 
 +++
 
