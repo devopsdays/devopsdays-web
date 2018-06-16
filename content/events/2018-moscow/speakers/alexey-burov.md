@@ -1,6 +1,5 @@
 +++
 Title = "Alexey Burov"
-Twitter = ""
 image = "alexey-burov.jpg"
 type = "speaker"
 linktitle = "alexey-burov"

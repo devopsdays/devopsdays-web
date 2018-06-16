@@ -1,6 +1,5 @@
 +++
 Title = "Alexander Krupenkin"
-Twitter = ""
 image = "alexander-krupenkin.jpg"
 type = "speaker"
 linktitle = "alexander-krupenkin"

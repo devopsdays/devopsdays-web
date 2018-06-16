@@ -1,6 +1,5 @@
 +++
 Title = "Vladimir Shishkin"
-Twitter = ""
 image = "vladimir-shishkin.jpg"
 type = "speaker"
 linktitle = "vladimir-shishkin"

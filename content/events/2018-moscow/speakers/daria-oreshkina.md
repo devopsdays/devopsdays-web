@@ -1,6 +1,5 @@
 +++
 Title = "Daria Oreshkina"
-Twitter = ""
 image = "daria-oreshkina.jpg"
 type = "speaker"
 linktitle = "daria-oreshkina"

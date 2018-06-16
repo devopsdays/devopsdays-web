@@ -1,6 +1,5 @@
 +++
 Title = "Andrey Nesterenko"
-Twitter = ""
 image = "andrey-nesterenko.jpg"
 type = "speaker"
 linktitle = "andrey-nesterenko"

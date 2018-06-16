@@ -1,6 +1,5 @@
 +++
 Title = "Christian Van Tuin"
-Twitter = ""
 image = "christian-van-tuin.jpg"
 type = "speaker"
 linktitle = "christian-van-tuin"

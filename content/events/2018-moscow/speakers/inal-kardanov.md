@@ -1,6 +1,5 @@
 +++
 Title = "Inal Kardanov"
-Twitter = ""
 image = "inal-kardanov.jpg"
 type = "speaker"
 linktitle = "inal-kardanov"

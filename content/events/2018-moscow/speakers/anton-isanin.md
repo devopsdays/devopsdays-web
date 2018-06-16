@@ -1,6 +1,5 @@
 +++
 Title = "Anton Isanin"
-Twitter = ""
 image = "anton-isanin.jpg"
 type = "speaker"
 linktitle = "anton-isanin"

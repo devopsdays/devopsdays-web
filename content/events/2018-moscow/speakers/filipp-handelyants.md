@@ -1,6 +1,5 @@
 +++
 Title = "Filipp Hadelyants"
-Twitter = ""
 image = "filipp-handelyants.jpg"
 type = "speaker"
 linktitle = "filipp-handelyants"

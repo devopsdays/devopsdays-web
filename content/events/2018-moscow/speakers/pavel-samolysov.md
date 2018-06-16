@@ -1,6 +1,5 @@
 +++
 Title = "Pavel Samolysov"
-Twitter = ""
 image = "pavel-samolysov.jpg"
 type = "speaker"
 linktitle = "pavel-samolysov"
