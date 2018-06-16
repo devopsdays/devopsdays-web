@@ -21,7 +21,7 @@ registration_date_start:
 registration_date_end:
 
 registration_closed:
-registration_link:
+registration_link: "https://www.quicket.co.za/events/48403-devopsdays-cape-town-2018/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 coordinates: "-33.935600, 18.457423"
 location: "Hilton Doubletree, Woodstock, Cape Town"
@@ -29,8 +29,8 @@ location_address: "31 Brickfield Rd, Woodstock, Cape Town, 7935"
 
 nav_elements:
   - name: propose
- # - name: location
- # - name: registration
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -91,7 +91,9 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
-  - id: bronze
-    label: Bronze
+  - id: basic
+    label: Basic
+  - id: starter
+    label: Starter
   - id: community
     label: Community
