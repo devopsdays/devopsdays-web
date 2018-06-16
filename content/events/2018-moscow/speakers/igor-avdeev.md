@@ -1,7 +1,7 @@
 +++
 Title = "Igor Avdeev"
 Twitter = ""
-image = "igor-avdeev.png"
+image = "igor-avdeev.jpg"
 type = "speaker"
 linktitle = "igor-avdeev"
 

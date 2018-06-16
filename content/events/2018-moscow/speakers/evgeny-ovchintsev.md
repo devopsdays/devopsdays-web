@@ -1,7 +1,7 @@
 +++
 Title = "Evgeny Ovchintev"
 Twitter = ""
-image = "evgeny-ovchintsev.png"
+image = "evgeny-ovchintsev.jpg"
 type = "speaker"
 linktitle = "evgeny-ovchintsev"
 

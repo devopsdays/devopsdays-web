@@ -1,7 +1,7 @@
 +++
 Title = "Kirill Vetchinkin"
 Twitter = ""
-image = "kirill-vetchinkin.png"
+image = "kirill-vetchinkin.jpg"
 type = "speaker"
 linktitle = "kirill-vetchinkin"
 
