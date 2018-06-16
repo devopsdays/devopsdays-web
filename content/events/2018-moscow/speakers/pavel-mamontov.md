@@ -1,7 +1,7 @@
 +++
 Title = "Pavel Mamontov"
 Twitter = ""
-image = "pavel-mamontov.png"
+image = "pavel-mamontov.jpg"
 type = "speaker"
 linktitle = "pavel-mamontov"
 

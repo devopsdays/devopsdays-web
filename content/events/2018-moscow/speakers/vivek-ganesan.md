@@ -2,7 +2,7 @@
 Title = "Vivek Ganesan"
 Website = "http://www.vivekganesan.com"
 Twitter = "vivek_ganesan"
-image = "vivek-ganesan.png"
+image = "vivek-ganesan.jpg"
 type = "speaker"
 linktitle = "vivek-ganesan"
 

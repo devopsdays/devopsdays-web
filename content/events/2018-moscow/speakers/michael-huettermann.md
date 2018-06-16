@@ -2,7 +2,7 @@
 Title = "Michael Huettermann"
 Website = "http://huettermann.net"
 Twitter = "huettermann"
-image = "michael-huettermann.png"
+image = "michael-huettermann.jpg"
 type = "speaker"
 linktitle = "michael-huettermann"
 

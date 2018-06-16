@@ -1,7 +1,7 @@
 +++
 Title = "Pavel Korostin"
 Twitter = ""
-image = "pavel-korostin.png"
+image = "pavel-korostin.jpg"
 type = "speaker"
 linktitle = "pavel-korostin"
 

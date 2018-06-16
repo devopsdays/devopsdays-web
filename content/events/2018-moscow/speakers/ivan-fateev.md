@@ -1,7 +1,7 @@
 +++
 Title = "Ivan Fateev"
 Twitter = "poisonous_john"
-image = "ivan-fateev.png"
+image = "ivan-fateev.jpg"
 type = "speaker"
 linktitle = "ivan-fateev"
 
