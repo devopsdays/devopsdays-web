@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Мастер-класс по SonarQube"
-Type = "workshop"
+Type = "talk"
 Speakers = ["filipp-handelyants"]
 +++
 

@@ -32,9 +32,9 @@ location_address: "Rusakovskaya Str. 24, Moscow, 107014" #Optional - use the str
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-# - name: program
+#  - name: program
   - name: propose
-# - name: speakers
+  - name: speakers
   - name: registration
   - name: sponsor
   - name: contact

@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Как употребить OpenShift Origin: от кода до прода"
-Type = "workshop"
+Type = "talk"
 Speakers = ["igor-avdeev", "evgeny-ovchintsev"]
 +++
 
