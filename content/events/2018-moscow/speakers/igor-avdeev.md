@@ -1,5 +1,5 @@
 +++
-Title = "Igor Avdeev"
+Title = "Игорь Авдеев"
 Twitter = ""
 image = "igor-avdeev.png"
 type = "speaker"

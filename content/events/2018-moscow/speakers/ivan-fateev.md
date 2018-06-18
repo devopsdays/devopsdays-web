@@ -1,5 +1,5 @@
 +++
-Title = "Ivan Fateev"
+Title = "Иван Фатеев"
 Twitter = "poisonous_john"
 image = "ivan-fateev.png"
 type = "speaker"
