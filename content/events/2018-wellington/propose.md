@@ -9,7 +9,7 @@ Description = "Propose a talk for DevOpsDays Wellington 2018"
 To submit a presentation visit our <a href="https://www.papercall.io/devopsdays-wellington-2018" target="_blank">Papercall</a> site.
 
 ### Conference Theme
-Our theme this year a the DevOps retrospective. "What new things are you doing? Why did you stop? Is DevOps giving you a new era of belonging or are you entering the trough of disillusionment? Is your team truly cross functional or are you still in a Ops team; DevOps by name only? Is SRE the same as DevOps? Can you keep up with all the new DevOps tooling? Are you more T shaped or more I shaped? Is DevOps working?
+Our theme this year is the DevOps retrospective. "What new things are you doing? Why did you stop? Is DevOps giving you a new era of belonging or are you entering the trough of disillusionment? Is your team truly cross functional or are you still in a Ops team; DevOps by name only? Is SRE the same as DevOps? Can you keep up with all the new DevOps tooling? Are you more T shaped or more I shaped? Is DevOps working?
 
 Presentations can reflect stories of change, stories of how things work or have never worked, how you had to adapt, or technology & tooling decisions that have produced great or not so great outcomes and how this represents the current state of your DevOps journey.
 
@@ -42,7 +42,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 - __No vendor pitches__: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 ### Submit
-To submit a presentation visit our <a href="https://www.papercall.io/2018-toronto" target="_blank">Papercall</a> site.
+To submit a presentation visit our <a href="https://www.papercall.io/devopsdays-wellington-2018" target="_blank">Papercall</a> site.
 
 - Be specific. We aren't mind readers (a description of about 20 lines is about right)
 - Detail is good, but not as important as explaining why your proposal would be interesting
@@ -50,23 +50,12 @@ To submit a presentation visit our <a href="https://www.papercall.io/2018-toront
 
 <hr>
 
-There are three ways to propose a topic at DevOpsDays:
+There are three ways to propose a topic at DevOpsDays Wellington:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
   <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
-
-<hr>
-
-Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
-
-- _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
-- _new local presenters_: You are the only one who can tell your story. We are very interested in the challenges and successes being experienced in our local area. We are happy to provide guidance/coaching for new speakers upon request.
-- _under-represented voices_: We want to hear all voices, including those that may speak less frequently at similar events. Whether you're in a field not typically thought of as a technology field, you're in a large, traditional organization, or you're the only person at your organization with your background, we are interested in your unique experience.
-- _original content_: We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn't likely to have already seen.
-- _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
-- _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
 
