@@ -1,5 +1,5 @@
 +++
-Title = "Andrey Nikolskiy"
+Title = "Андрей Никольский"
 Twitter = ""
 image = "andrey-nikolskiy.png"
 type = "speaker"

@@ -1,5 +1,5 @@
 +++
-Title = "Filipp Hadelyants"
+Title = "Филипп Хандельянц"
 Twitter = ""
 image = "filipp-handelyants.png"
 type = "speaker"

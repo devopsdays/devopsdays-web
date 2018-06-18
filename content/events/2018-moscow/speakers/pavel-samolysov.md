@@ -1,5 +1,5 @@
 +++
-Title = "Pavel Samolysov"
+Title = "Павел Самолысов"
 Twitter = ""
 image = "pavel-samolysov.png"
 type = "speaker"

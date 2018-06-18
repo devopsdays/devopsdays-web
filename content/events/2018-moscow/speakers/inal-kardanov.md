@@ -1,5 +1,5 @@
 +++
-Title = "Inal Kardanov"
+Title = "Инал Карданов"
 Twitter = ""
 image = "inal-kardanov.png"
 type = "speaker"

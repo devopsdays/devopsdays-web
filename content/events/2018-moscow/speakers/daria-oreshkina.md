@@ -1,5 +1,5 @@
 +++
-Title = "Daria Oreshkina"
+Title = "Дарья Орешкина"
 Twitter = ""
 image = "daria-oreshkina.png"
 type = "speaker"

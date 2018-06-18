@@ -1,5 +1,5 @@
 +++
-Title = "Alexey Vahov"
+Title = "Алексей Вахов"
 Twitter = ""
 image = "alexey-vahov.png"
 type = "speaker"

@@ -1,5 +1,5 @@
 +++
-Title = "Pavel Mamontov"
+Title = "Павел Мамонтов"
 Twitter = ""
 image = "pavel-mamontov.png"
 type = "speaker"
