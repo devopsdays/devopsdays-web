@@ -96,6 +96,20 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
+  - id: datadog
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: nike
+    level: gold
+  - id: morpheus_data
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: xmatters
+    level: gold
   - id: kaizenops
     level: silver
   - id: bitnami
