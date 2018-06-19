@@ -14,7 +14,7 @@ Description = "devopsdays Kansas City 2018"
 <br>
 DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, specialists in Mobile, VR, AI, BI, etc...
 
-This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup](//meetup.devopskc.com) and our [website](//devopskc.com).
+This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup](http://meetup.devopskc.com) and our [website](//devopskc.com).
 
 <b>Learning</b>
 <br>
