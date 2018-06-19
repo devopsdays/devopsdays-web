@@ -124,6 +124,8 @@ sponsors:
     level: gold
   - id: appdynamics
     level: platinum
+  - id: opsgenie
+    level: platinum
   # - id: samplesponsorname
   #   level: gold
   # - id: arresteddevops
@@ -140,8 +142,6 @@ sponsors:
   #   level: gold
   # - id: datadog
   #   level: gold
-  # - id: opsgenie
-  #   level: platinum
   # - id: thoughtworks-gocd
   #   level: platinum
   # - id: digitalocean
