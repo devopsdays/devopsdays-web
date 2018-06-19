@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays austin 2019"
+Title = "DevOpsDays Austin 2019"
 Type = "welcome"
 aliases = ["/events/2019-austin/"]
-Description = "devopsdays austin 2019"
+Description = "DevOpsDays Austin 2019"
 +++
 
 <!-- <div style="text-align:center;">
@@ -57,7 +57,7 @@ Description = "devopsdays austin 2019"
 Save the date!
 ===
 
-DevOpsDays will be returning to Austin May 2nd - 3rd 2019 for the **eigth year**. 
+DevOpsDays will be returning to Austin May 2nd - 3rd 2019 for the **eighth year**. 
 We'll be adding dates for talk proposals, sponsorships, and registration in the 
 Winter of 2018.
 
