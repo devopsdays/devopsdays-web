@@ -33,7 +33,7 @@ location_address: "Tel Aviv Convention Center, 101 Rokach Blvd"
 nav_elements: # List of pages you want to show up in the navigation of your page.
  - name: propose
  - name: location
- # - name: registration
+ - name: registration
  # - name: program
  # - name: speakers
  - name: sponsor
