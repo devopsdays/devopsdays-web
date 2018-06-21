@@ -107,19 +107,12 @@ gulp.task('responsive-sponsor-images', function() {
         .pipe(responsive({
             '*.png': [{
                 width: 200
-            }, {
-                width: 400,
-                rename: {
-                    suffix: '@2x'
-                }
+            }
             }],
             '*.jpg': [{
                 width: 200
-            }, {
-                width: 400,
-                rename: {
-                    suffix: '@2x'
-                }
+            }
+             
             }]
         }, {
             // global configuration
