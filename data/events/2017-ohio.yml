@@ -74,7 +74,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: appdynamics-before-20180316
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: silver
   - id: teksystems
     level: silver
