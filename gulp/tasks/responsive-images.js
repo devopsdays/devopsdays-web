@@ -107,13 +107,11 @@ gulp.task('responsive-sponsor-images', function() {
         .pipe(responsive({
             '*.png': [{
                 width: 200
-            }
             }],
             '*.jpg': [{
                 width: 200
             }
-             
-            }]
+            ]
         }, {
             // global configuration
             quality: 80,
