@@ -20,6 +20,7 @@ Description = "devopsdays Geneva 2018"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
+<!-- TOBE DEFINED 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -29,6 +30,7 @@ Description = "devopsdays Geneva 2018"
     {{< event_start >}}
   </div>
 </div>
+TOBE DEFINED -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -47,6 +49,8 @@ Description = "devopsdays Geneva 2018"
   </div>
 </div> -->
 
+<!-- TOBE DEFINED 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
@@ -55,6 +59,7 @@ Description = "devopsdays Geneva 2018"
    
   </div>
 </div>
+TOBE DEFINED -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -72,6 +77,8 @@ Description = "devopsdays Geneva 2018"
   </div>
 </div> -->
 
+<!-- TOBE DEFINED 
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -79,15 +86,18 @@ Description = "devopsdays Geneva 2018"
   <div class = "col-md-8">
   </div>
 </div>
+TOBE DEFINED -->
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
+    {{< event_link page="contact" text="Get in touch with the organisers" >}}
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
+<!-- Uncomment if you added your city twitter name 
 <br />
 {{< event_twitter >}}
+-->

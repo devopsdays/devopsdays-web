@@ -5,9 +5,6 @@ type = "event"
 
 +++
 
-## VERSION FRANCAISE
-
-https://www.devopsrex.fr/code-de-conduite/
 
 ## ANTI-HARASSMENT POLICY
 
