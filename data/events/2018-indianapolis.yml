@@ -105,6 +105,10 @@ sponsors:
     level: community
   - id: leaf-software-solutions
     level: alacarte
+  - id: indypy
+    level: community
+  - id: indyaws
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
