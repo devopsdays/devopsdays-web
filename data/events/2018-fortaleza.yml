@@ -53,10 +53,18 @@ team_members: # Name is the only required field for team members.
     image: "mayara_gouveia.jpg"
     github: "devopsdays"
   - name: "Mauricio Harley"
-    github: "devopsdays"
     linkedin: "https://www.linkedin.com/in/mauricioharley"
     website: "https://itharley.com"
     image: "mauricio_harley.jpg"
+  - name: "Ana Carla Cavalcante"
+    linkedin: "https://www.linkedin.com/in/ana-carla-cavalcante-62a40725/"
+    image: "ana_carla.jpg"
+  - name: "Jorge Santos"
+    linkedin: "https://www.linkedin.com/in/jorge-luiz-ba946329/"
+    image: "jorge_santos.jpg"
+  - name: "Renato Santos"
+    linkedin: "https://www.linkedin.com/in/renatodossantos/"
+    image: "renato_santos.jpg"
 organizer_email: "organizers-fortaleza-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2018@devopsdays.org" # Put your proposal email address here
 
