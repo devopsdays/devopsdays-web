@@ -64,7 +64,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Vincent De Smet"
     employer: ""
-    twitter: ""
+    twitter: "vincentdesmet"
     bio: ""
 
   - name: "Antonio Cocera"
