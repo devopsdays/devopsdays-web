@@ -4,7 +4,7 @@ var gulp = require('gulp'),
     runSequence = require('run-sequence');
 
 gulp.task('process-html', function(callback) {
-    runSequence('min-html',
+    runSequence('min-html', 'retina-html',
         callback
     )
 })
