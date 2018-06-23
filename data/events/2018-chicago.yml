@@ -31,11 +31,11 @@ location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the v
 location_address: "350 West Mart Center Drive, Chicago, IL 60654"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
