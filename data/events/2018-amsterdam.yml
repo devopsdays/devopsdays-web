@@ -392,6 +392,12 @@ program:
     date: 2018-06-28
     start_time: "16:10"
     end_time: "16:40"
+  - title: "alex-duivelshof"
+    type: talk
+    date: 2018-06-28
+    start_time: "16:10"
+    end_time: "16:40"
+    comments: "Security Track | Location: Grote Zaal"
   - title: "Close Day / Wrap Up"
     type: custom
     date: 2018-06-28
