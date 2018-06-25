@@ -73,7 +73,7 @@ sponsors:
     level: gold
   - id: e7solutions
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: newrelic
     level: gold
@@ -85,7 +85,7 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: silver
   - id: delphix
     level: silver

@@ -1,7 +1,7 @@
 +++
 Title = "Matt Williams"
 Twitter = "Technovangelist"
-image = ""
+image = "matt-williams.png"
 type = "speaker"
 linktitle = "matt-williams"
 

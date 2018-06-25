@@ -68,7 +68,7 @@ proposal_email: "proposals-madison-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: elastic
     level: gold
@@ -84,7 +84,7 @@ sponsors:
     level: silver
   - id: ipswitch
     level: silver
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: silver
   - id: sumologic
     level: silver

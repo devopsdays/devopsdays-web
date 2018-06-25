@@ -18,14 +18,14 @@ Description = "devopsdays Copenhagen 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -45,23 +45,23 @@ Description = "devopsdays Copenhagen 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +81,12 @@ Description = "devopsdays Copenhagen 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+
+<br>
+
+## Pictures from DevOpsDays Copehagen 2018 
+
+<br>
+
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/code-conf/albums/72157692949287212" title="DevOpsDays CPH 2018"><img src="https://farm1.staticflickr.com/977/27826295698_00136266b7_c.jpg" width="800" height="534" alt="DevOpsDays CPH 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

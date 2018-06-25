@@ -8,3 +8,5 @@ Watch this space for information about the venue including address, map/directio
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 <!-- {{< event_map >}} -->
+
+Radisson Blu Hotel - 19 Mayıs Mahallesi, 19 Mayıs Cd. No:2, 34360 Şişli/İstanbul

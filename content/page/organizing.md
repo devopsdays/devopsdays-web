@@ -33,15 +33,22 @@ You're going to need at least three people from three different organizations on
 
 ## Website, Email, and Slack
 
-When you have your initial team, [email the global core organizers](mailto:info@devopsdays.org) and we'll schedule a kickoff meeting with you. After chatting, we'll set up the @devopsdays.org mail aliases for your team. This will let you have a standard email for organizer contact and proposals. We'll also invite you to the Slack team so you can meet other organizers and share ideas. (Slack has an XMPP gateway if you'd prefer that.)
+When you have your initial team, [email the global core organizers](mailto:info@devopsdays.org) and we'll schedule a kickoff meeting with you. This will be an hour-long video call with your team.
 
-We prefer the city name for the actual email and site. Wider regional terms are less preferable since someone in a nearby city may want to have a devopsdays in a following year. Fun nicknames require too much dereferencing of pointers and so are best kept for slogans and t-shirt designs.
+After the kickoff meeting, we'll wait for you to send your initial pull request and for you to email us the email addresses and names of your organizer team. When we have those, we can officially set your event's tools up.
 
-One thing you'll want to do as soon as possible is get your event listed on the website by submitting a pull request to [https://github.com/devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web). The most up-to-date instructions can always be found on that repo's [README](https://github.com/devopsdays/devopsdays-web/blob/master/README.md).
+The way you get your event listed on the website is by submitting a pull request to [https://github.com/devopsdays/devopsdays-web](https://github.com/devopsdays/devopsdays-web). The instructions can be found on that repo's [README](https://github.com/devopsdays/devopsdays-web/blob/master/README.md).
 
-It's fine if you just list the organizers, the city, and say "coming soon". You don't have to have the date & venue set or open registration & the CFP right away.
+We prefer the city name for the actual email and site. Wider regional terms are less preferable since someone in a nearby city may want to host their own devopsdays. Fun nicknames require too much dereferencing of pointers and so are best kept for slogans and t-shirt designs.
+
+It's fine if you just list the organizers, the city, and say "coming soon". You don't need to have selected the date and venue yet; however, we won't merge a PR with dates unless it also has a venue listed. You also do not need to open registration or open the CFP right away.
 
 The [devopsdays code of conduct](/conduct) is based on the one from the [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) as well additions by Andrew Clay Shafer for [devopsdaysPGH 2014](/events/2014-pittsburgh/conduct/). You will need to have a code of conduct before your initial pull request will be merged.
+
+We'll set up the `organizers-cityname-year@devopsdays.org` mail alias for your team. This will let you have a standard email listed as a public-facing organizer point of contact. All organizers on your team need to be on this alias individually, and the global core team is also on this email alias. It's fine to use other email lists, chat programs, and other tools for your internal coordination and outgoing announcements, but we require that your event's published `organizer_email:` field be set to this for consistency and problem prevention.
+
+We'll also invite all your organizers to the global devopsdays organizer Slack team (with organizers from around the world!) so you can meet other organizers and share ideas. Using the global devopsdays organizer Slack is optional, and is also the best way to meet and chat with other devopsdays organizers, get help with the website and other tooling, and tap into the collective history and wisdom of devopsdays events from around the world! The only people we'll invite to this Slack are the people listed as organizers on your contact page, and if you join, it's a good idea to list your city in your Slack profile. If you want to use Slack for attendees at your event, you should set up a different one.
+
 
 ---
 
@@ -51,7 +58,7 @@ Every devopsdays event is different, but there are a few rules to keep in mind i
 
 - Inclusiveness and respect for differences are core devops values, and we invite you to help us make each devopsdays event a place that is welcoming and respectful to all participants. Your event will need to have a code of conduct.
 - These are community events, so your event must have an open call for proposals and accept registrations from the general public. Internal devops events focused on a specific organization or curated events with all speakers privately selected are wonderful and we encourage them, but they won't be listed as "devopsdays" events on this site.
-- These events are not for individual or corporate profit. If you have money left over, you can use it for your next event, to help other devopsdays events directly or via sending participants, or for [charity](/devops-gives-back/). The global core team does not have any ability to accept your money, but neither should it be making its way into anyone's pockets.
+- These events are not for individual or corporate profit. If you have money left over, you can use it for your next event, to help other devopsdays events directly or via sending participants, or for [charity](/devops-gives-back/). The global core team can (and will) accept donations in order to help us cover costs such as DNS and web hosting, but _only_ from conferences that use [Conference Ops](http://www.conferenceops.com/). In any case, leftover money should not be making its way into anyone's pockets.
 - Sponsors are much appreciated for their financial assistance, and they are welcome to participate in devopsdays events. They are never given attendee contact info by a devopsdays event's organizers, nor are they allowed to purchase speaking slots for talks or ignites at a devopsdays.
 
 ---
@@ -88,7 +95,7 @@ Now that you have assembled your team, the next step is choosing a date. We usua
 - Avoid overlapping dates with other devopsdays, especially nearby. We want to spread the events out; think of it as loadbalancing. All devopsdays events with their dates scheduled will be shown on the front page of [devopsdays.org](/).
 - Avoid overlap in dates with other important local events: with other events happening at the same time, your attendance rate might be affected negatively
 - 'Piggyback' after/before other events: it's a great way to get started, and as people might have traveled already, they can be potentially be interested in a pre or post event conference
-- Take a look at the [devops conferences site](http://devopsconferences.org/) so as to avoid accidentally scheduling during a time it may be more challenging to get the speakers and sponsors you want.
+- Keep on eye on other major industry events so as to avoid accidentally scheduling during a time when it may be more challenging to get the speakers and sponsors you want.
 - You cannot announce a date until you have two things: an agreement with a venue, and a way to handle money.
 - Look at a few two-day choices you can accept. When talking to a venue, you might find that they can accommodate you better during some parts of the week than others. Sometimes they may be fully booked a given week, but available the next.
 - Consider that if you schedule one or more day on a weekend, you are likely to see a significant drop-off of attendance on the weekend day(s). DevOps is part of people's work life, and the weekends are typically used for refreshing energy with family. We recommend choosing weekdays.

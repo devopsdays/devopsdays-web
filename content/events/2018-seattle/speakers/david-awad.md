@@ -1,6 +1,7 @@
 +++
 Title = "David Awad"
 Twitter = "realdavidawad"
+image = "david-awad.png"
 type = "speaker"
 linktitle = "david-awad"
 +++

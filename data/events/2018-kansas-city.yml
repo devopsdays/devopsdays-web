@@ -6,37 +6,37 @@ description: "Devopsdays is coming back to Kansas City!" # Edit this to suit you
 ga_tracking_id: "UA-93890142-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-#startdate: 2018-10-17 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#enddate: 2018-10-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-17 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2018-03-20 # start accepting talk proposals.
+cfp_date_end:  2018-06-17 # close your call for proposals.
+cfp_date_announce:  2018-03-20 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "http://cfp.devopsdayskc.org/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-03-20 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-18 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayskc.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: # "39.056770, -94.582303" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: # "Plexpod Westport Commons" # Defaults to city, but you can make it the venue name.
+coordinates: "39.056770, -94.582303" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Plexpod Westport Commons" # Defaults to city, but you can make it the venue name.
 #
-location_address: # "300 E 39th St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "300 E 39th St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -70,7 +70,11 @@ team_members: # Name is the only required field for team members.
     employer: Federal Reserve Bank of Kansas City
     image: cj-obermaier.jpg
     linkedin: https://www.linkedin.com/in/cj-obermaier-bb90a639/
-    bio: "Passionate about international business, open-source technology, eSports, and dogs."
+    bio: "CJ, his wife, two dogs and a cat, have lived in Kansas City, Missouri for four years. When he 
+    is not traveling the world with his wife, he works as a DevOps Engineer for the Federal Reserve Bank 
+    of Kansas City.  In addition to his work on software automation and infrastructure as code, he is 
+    considered an advocate for developing the DevOps culture throughout the Bank.  He is also actively 
+    involved in the Kansas City eSports scene as a co-owner of Good Game Kansas City."
   - name: "Ryan McNair"
     employer: SMRxT
     image: ryan-mcnair.jpg
@@ -142,23 +146,54 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
-
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+  - id: plexpod
+    level: premium
+  - id: chocolatey
+    level: standard
+  - id: tgs
+    level: standard
+  - id: tek-systems
+    level: standard
+  - id: stackify
+    level: standard
+  - id: appdynamics
+    level: premium
+  - id: sumologic
+    level: premium
+  - id: thoughtworks-gocd
+    level: premium
+  - id: mesosphere
+    level: premium
+  - id: influxdata
+    level: premium
+  - id: naic_nipr
+    level: premium
+  - id: chef
+    level: premium
+  - id: c2fo
+    level: premium
+  - id: sdtp
+    level: community
+  - id: 2018-kansas-city-stickermule
+    level: community
+    
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: ultimate
-    label: Ultimate
-    max: 1
+  # - id: ultimate
+  #   label: Ultimate
+  #   max: 1
   - id: premium
     label: Premium
-    max: 10 # This is the same as omitting the max limit.
+    max: 8
   - id: standard
     label: Standard
-  - id: basic
-    label: Basic
+    max: 3
+  - id: core
+    label: Core
   - id: community
     label: Community

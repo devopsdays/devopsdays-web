@@ -3,16 +3,16 @@ year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Philadelphia" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysPHL" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-61551732-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
 startdate: 2018-10-23 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2018-10-24 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-05-14  # start accepting talk proposals.
+cfp_date_end: 2018-07-14 # close your call for proposals.
+cfp_date_announce: 2018-08-14 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -26,14 +26,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "39.9500, -75.1667" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Chemical Heritage Foundation" # Defaults to city, but you can make it the venue name.
+location: "Science History Institute" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: " 315 Chestnut St, Philadelphia, PA 19106" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -48,6 +48,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Peter Shannon"
     employer: "Warner Bros. Digital Labs"
+    role: "Lead Organizer"
+    twitter: "peterjshan"
   - name: "Sarah Gray"
     employer: "PromptWorks"
   - name: "Clinton Wolfe"
@@ -62,7 +64,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "http://linkedin.com/in/hlmuludiang"
     email: "hilary.muludiang@gmail.com"
   - name: "Sam Hollis"
-    employer: "AWeber"
+    employer: "Animalz"
+    role: "Marketing Coordinator"
   - name: "Shaheen Beg"
     employer: "University of Pennsylvania"
 organizer_email: "organizers-philadelphia-2018@devopsdays.org" # Put your organizer email address here
@@ -71,7 +74,19 @@ proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: dynatrace
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: datadog
+    level: silver
+  - id: sonatype
+    level: silver
   - id: arresteddevops
+    level: community
+  - id: perfbytes
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

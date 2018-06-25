@@ -88,7 +88,7 @@ sponsors:
     level: gold
   - id: deloitte
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: bronze
   - id: highvail
     level: gold
@@ -96,10 +96,24 @@ sponsors:
     level: silver
   - id: sourcedgroup
     level: silver
+  - id: sourcedgroup
+    level: lanyard
   - id: cloudbees
     level: silver
   - id: cgi
     level: platinum
+  - id: sonatype
+    level: silver
+  - id: pagerduty
+    level: gold
+  - id: f5
+    level: gold
+  - id: ivedha
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: launch-darkly
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,10 +127,13 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 12
+    max: 11
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: happyhour
     label: Happy Hour
     max: 1
@@ -138,8 +155,8 @@ program:
     date: 2018-05-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Day 1 Keynote"
-    type: custom
+  - title: "steve-pereira"
+    type: talk
     date: 2018-05-30
     start_time: "09:15"
     end_time: "09:45"
@@ -228,12 +245,12 @@ program:
     date: 2018-05-30
     start_time: "16:45"
     end_time: "17:30"
-  - title: "Evening event"
+  - title: "Evening event at Duke of Cornwall"
     type: custom
     date: 2018-05-30
     start_time: "17:30"
     end_time: "20:30"
-    comments: "This will take place in the venue"
+    comments: "Located at 400 University Avenue"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-05-31
@@ -244,8 +261,8 @@ program:
     date: 2018-05-31
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Day 2 Keynote"
-    type: custom
+  - title: "nicole-forsgren"
+    type: talk
     date: 2018-05-31
     start_time: "09:15"
     end_time: "09:45"
@@ -314,7 +331,7 @@ program:
     date: 2018-05-31
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Break and 2:45 pm raffle in main ballroom"
+  - title: "Break and 3:45 pm raffle in main ballroom"
     type: custom
     date: 2018-05-31
     start_time: "15:30"
@@ -324,7 +341,7 @@ program:
     date: 2018-05-31
     start_time: "16:00"
     end_time: "16:45"
-  - title: "julie-qiu"
+  - title: "jason-harley-2"
     type: workshop
     date: 2018-05-31
     start_time: "16:00"
@@ -338,11 +355,7 @@ program:
 ignites:
   - title: "augusto-rosa"
     date: 2018-05-30
-  - title: "niall-byrne"
-    date: 2018-05-30
   - title: "simon-woodside"
-    date: 2018-05-30
-  - title: "logan-daigle"
     date: 2018-05-30
   - title: "karen-odegaard"
     date: 2018-05-30
@@ -351,7 +364,7 @@ ignites:
   - title: "christine-rohacz"
     date: 2018-05-31
   - title: "donald-donovan"
-    date: 2018-05-31
+    date: 2018-05-30
   - title: "fawzy-manaa"
     date: 2018-05-31
   - title: "matty-stratton"

@@ -58,7 +58,7 @@ proposal_email: "proposals-toronto-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: victorops
     level: gold
-  - id: deloitte
+  - id: deloitte-before-20180401
     level: gold
   - id: pivotal
     level: gold
@@ -72,7 +72,7 @@ sponsors:
     level: gold
   - id: cloudops
     level: gold
-  - id: trinimbus
+  - id: trinimbus-before-20180524
     level: gold
   - id: circleci
     level: happyhour

@@ -14,10 +14,10 @@ startdate:  2018-09-27
 enddate:  2018-09-28
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start: 2018-05-30  # start accepting talk proposals.
-#cfp_date_end: 2018-07-16  # close your call for proposals.
-#cfp_date_announce: 2018-07-30 # inform proposers of status
-#cfp_link: ""
+cfp_date_start: 2018-03-07  # start accepting talk proposals.
+cfp_date_end: 2018-06-06  # close your call for proposals.
+cfp_date_announce: 2018-08-17 # inform proposers of status
+#cfp_link: "https://www.papercall.io/devopsdays-riga-2018"
 
 # Registration dates
 #registration_date_start: YYYY-MM-DD
@@ -31,7 +31,7 @@ location: "Park Inn by Radisson Riga Valdemara" # Defaults to city, but you can 
 location_address: "Krogus iela 1, Riga LV-1048 Riga Latvia"
 
 # Team members
-team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Laura Arajuma", "Arturs Kovalenko", "Liene Jansone"]
+team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Dace Barone", "Arturs Kovalenko", "Liene Jansone"]
 
 # Emails
 organizer_email: "organizers-riga-2018@devopsdays.org" # Put your organizer email address here
@@ -40,35 +40,53 @@ proposal_email: "organizers-riga-2018@devopsdays.org"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: workshop
 #  - name: program
-#  - name: propose
-#    url: https://<url>
+  - name: propose
   - name: location
-#  - name: registration
-#  - name: speakers
-#  - name: sponsor
+  - name: tickets
+    url: http://tickets.devopsdays.lv/#/
+  - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # platinum
-  # - id: <sponsor_name>
-  #  level: platinum
+  #platinum
+  - id: accenture-latvia
+    level: platinum
+  - id: evolution-gaming
+    level: gold
+  - id: zabbix
+    level: gold
+  - id: chef
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
+  - id: papercall
+    level: silver
+  - id: 4financeit
+    level: silver
+# - id: ctco
+#    level: gold
+  - id: devclub-lv
+    level: friends
+  - id: berlin-baltic-nordic-net
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
-  #- id: platinum
-  #  label: Platinum
-  #  max: "5"
-  #- id: gold
-  #  label: Gold
-  #  max: "8"
-  #- id: silver
-  #  label: Silver
-  #  max: "12"
-  #- id: friends
-  #  label: Friends, media partners and other
+  - id: platinum
+    label: Platinum
+    max: "3"
+  - id: gold
+    label: Gold
+    max: "8"
+  - id: silver
+    label: Silver
+    max: "12"
+  - id: friends
+    label: Friends, media partners and other
 
 # ignites:  
   #- title: "speaker-mcspeaker"

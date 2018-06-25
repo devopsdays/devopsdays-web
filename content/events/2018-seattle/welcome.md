@@ -9,26 +9,9 @@ Description = "devopsdays Seattle 2018"
   {{< event_logo >}}
 </div> -->
 
-<style>
-  .sea-prev-year-video {
-    float: right;
-    max-width: 560px;
-  }
-  .sea-prev-year-video p {
-    font-weight: bold;
-  }
-</style>
-
-<div class="sea-prev-year-video">
-<p>Last Year's Keynote:</p>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yIlNTnA-zUs" frameborder="0" allowfullscreen></iframe>
-</div>
-
-# {{< event_link page="program" text="2018 Program Announced!" >}}
+# {{< event_link page="live-stream" text="Check out the live stream here starting at 9AM Pacific on April 24th!" >}}
 
 DevOpsDays is a unique combination of {{< event_link page="program" text="curated talks" >}} and attendee driven <a href="https://www.devopsdays.org/open-space-format/">open spaces</a>. This is a great opportunity to hear ideas from industry leading speakers and experience reports from practitioners as well as discuss your own topics with peers.
-
-## {{< event_link page="registration" text="Register to attend the conference!" >}}
 
 <!--
 <div class = "row">

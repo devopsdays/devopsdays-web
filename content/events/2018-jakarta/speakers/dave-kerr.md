@@ -1,7 +1,7 @@
 +++
 Title = "Dave Kerr"
 Twitter = "dwmkerr"
-image = "dave-kerr.jpeg"
+image = "dave-kerr.jpg"
 type = "speaker"
 linktitle = "dave-kerr"
 

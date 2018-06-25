@@ -100,7 +100,7 @@ sponsors:
     level: platinum
   - id: horizontalintegration
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: silver
   - id: logz
     level: gold
@@ -132,7 +132,7 @@ sponsors:
     level: silver
   - id: catchpoint
     level: silver
-  - id: signalfx
+  - id: signalfx-before-20180508
     level: silver
   - id: columnpuppet
     level: gold
@@ -156,7 +156,7 @@ sponsors:
     level: gold
   - id: healthpartners
     level: silver
-  - id: aws
+  - id: aws-before-20180313
     level: platinum
   - id: target
     level: gold
@@ -176,7 +176,7 @@ sponsors:
     level: alacarte
   - id: f5
     level: bronze
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: bronze
   - id: checkmarx
     level: bronze

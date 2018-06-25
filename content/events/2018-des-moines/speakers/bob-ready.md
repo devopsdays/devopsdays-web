@@ -2,6 +2,7 @@
 Title = "Bob Ready"
 Twitter = ""
 type = "speaker"
+image = "bob-ready.jpg"
 linktitle = "bob-ready"
 
 +++

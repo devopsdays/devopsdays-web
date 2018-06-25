@@ -1,4 +1,6 @@
 +++
+City = "Amsterdam"
+Year = "2018"
 Title = "Registration"
 Type = "event"
 Description = "Registration for devopsdays Amsterdam 2018"

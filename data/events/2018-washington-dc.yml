@@ -10,17 +10,17 @@ enddate:  2018-06-07
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2018-03-09
-cfp_date_end:  2018-04-06
-cfp_date_announce:  2018-04-15
+cfp_date_end:  2018-04-15
+cfp_date_announce:  2018-04-22
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
 
 registration_date_start: 2018-03-09
 registration_date_end: 2018-06-08
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysdc2018.busyconf.com/bookings/new"
 
 # Location
 #
@@ -30,10 +30,13 @@ location: "US Patent and Trademark Office" # The name of your location
 location_address: "600 Dulany Street, Alexandria, Virginia"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  # - name: propose
+  #   url: https://devopsdaysdc2018.busyconf.com/proposals/new
   - name: location
- # - name: registration
- # - name: program
+  - name: registration
+    url: https://devopsdaysdc2018.busyconf.com/bookings/new
+  - name: program
+    url: https://devopsdaysdc2018.busyconf.com/schedule
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -87,13 +90,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davidbock/"
 
   - name: "Trevor Bryant"
-    employer: "CSRA"
+    employer: "ValidaTek, Inc"
     twitter: "apporima"
-    bio: ""
-    github: ""
+    bio: "Cybersecurity Engineer"
+    github: "https://github.com/trevorbryant"
     facebook: ""
-    website: ""
-    linkedin: ""
+    website: "https://keybase.io/trevorbryant"
+    linkedin: "https://www.linkedin.com/in/bryanttn/"
 
   - name: "Mark Cornick"
     employer: "Cava"
@@ -217,6 +220,71 @@ sponsors:
     level: location_and_platinum
   - id: arresteddevops
     level: community
+  - id: chef
+    level: platinum
+  - id: eglobaltech
+    level: platinum
+  - id: excella
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: pivotal
+    level: platinum
+  - id: validatek
+    level: platinum
+  - id: sjtechcorp
+    level: platinum
+  - id: appdynamics
+    level: platinum
+  - id: aurotech
+    level: platinum
+  - id: gitlab
+    level: platinum
+  - id: comcast
+    level: gold
+  - id: swamp
+    level: gold
+  - id: sonatype
+    level: platinum
+  - id: stsi
+    level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: booz_allen_hamilton
+    level: happyhour
+  - id: govready
+    level: platinum
+  - id: harmonia
+    level: happyhour
+  - id: onyx-point
+    level: gold
+  - id: collabnet-versionone
+    level: platinum
+  - id: usds
+    level: platinum
+  - id: mesosphere
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: women-who-code-dc
+    level: community
+  - id: taphere
+    level: silver
+  - id: compuware
+    level: gold
+  - id: oneweb
+    level: platinum
+  - id: metis-machine
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: devopsdaysbaltimore
+    level: platinum
+  - id: blackstone-federal
+    level: media
+  - id: hope-one-source
+    level: community
+
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -231,6 +299,8 @@ sponsor_levels:
   - id: location_and_platinum
     label: Location and Platinum
     max: 1
+  - id: happyhour
+    label: Happy Hour
   - id: platinum
     label: Platinum
   - id: gold

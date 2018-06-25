@@ -70,3 +70,8 @@ increase_ulimit.sh
 
 # Visual Studio Code
 .vscode/
+.Ulysses-Group.plist
+
+# test files
+2017-canterlot/
+2017-ponyville/

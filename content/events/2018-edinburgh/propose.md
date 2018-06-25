@@ -27,9 +27,20 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<h3>How to submit a proposal</h3>
+
+To propose a talk or ignite, please fill out the <b><a href="https://goo.gl/forms/XaJBUgQB0mbdraPu1" target="_blank">application form</a></b>
+
+<em>Some advice for your submission:</em>
+<ul>
+	<li>It's always great to be specific; the more you can tell us the better, but please do keep it concise (e.g. 20 or so lines should be enough).</li>
+	<li>Detail is awesome, but not as important as explaining why your proposal would be interesting to conference attendees.</li>
+	<li>Multiple proposals from the same person are most definitely welcome - please just perform multiple submissions (i.e. one per proposal) as that would help us out massively in the selection process.</li> 
+</ul>
+
+<h3>Travel Expenses</h3>
+Speakers at Devopsdays Edinburgh will receive a free ticket for the 2-day conference. We also feel you should not incur out-of-pocket travel expenses in order to participate, so if your employer is unable to cover your travel expenses then we may be able to help.
+
+<hr/>
+<h3>Code of Conduct</h3>
+Please do review the event <a href="/events/2018-edinburgh/conduct/">code of conduct</a>.

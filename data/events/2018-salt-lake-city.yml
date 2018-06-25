@@ -103,11 +103,19 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: chef
+    level: gold
   - id: mesosphere
     level: silver
   - id: saltstack
     level: silver
   - id: accela
+    level: silver
+  - id: hailstone
+    level: silver
+  - id: elastic
+    level: silver
+  - id: bluematador
     level: silver
   - id: arresteddevops
     level: community

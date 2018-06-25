@@ -8,6 +8,14 @@ Description = "devopsdays Baltimore 2018"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
+## Thank you!!
+Thank you for being part of DevOpsDays Baltimore 2018! We hope you enjoyed the event despite the last minute changes to the schedule due to weather conditions. Please [share your feedback (good AND bad) with us by taking this anonymous survey](https://goo.gl/forms/VSMKsObfIEanpuo42) so we can make DevOpsDays Baltimore 2019 better.
+
+The slides can be found on [DevOpsDays Baltimore SlideShare](https://www.slideshare.net/devopdsaysbaltimore/presentations)
+
+Pictures of the event can be found on the [DevOpsDays Baltimore Facebook Page](https://www.facebook.com/pg/devopsdaysbmore/photos/?tab=album&album_id=1219320224868279).
+
+Individual session videos are available on the [ConFreaks DevOpsDays Baltimore 2018 page](http://confreaks.tv/events/devopsdaysbaltimore2018).  If hours of raw footage is more your speed, check out the full streams on YouTube for [Day 1](https://youtu.be/_XOjsVnmHmI?t=1726) and [Day 2](https://youtu.be/RqDHtxQCuIU?t=2193).
 
 <div class = "row">
   <div class = "col-md-2">
