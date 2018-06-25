@@ -9,9 +9,11 @@ Description = "Propose a talk for DevOpsDays Singapore 2018"
 
 ### Conference Theme
 
-Our theme this year is the DevOps retrospective. "What new things are you doing? Why did you stop? Is DevOps giving you a new era of belonging or are you entering the trough of disillusionment? Is your team truly cross functional or are you still in a Ops team; DevOps by name only? Is SRE the same as DevOps? Can you keep up with all the new DevOps tooling? Are you more T shaped or more I shaped? Is DevOps working?"
+Our theme this year is the DevOps feedback loop. As DevOps practioners, we need insights into our processes and how effectively our teams are operating (an indicator of how well our DevOps adoption strategy is working). We need insights into our system health (modern systems are dynamic: cloud, microservices, container-based architectures change state all the time, resulting in more complex failure scenarios). We need insights into the risks we are exposed to and finally, we need insights into user behaviour and experiences to drive our feature development.
 
-Presentations can reflect stories of change, stories of how things work or have never worked, how you had to adapt, or technology & tooling decisions that have produced great or not so great outcomes and how this represents the current state of your DevOps journey.
+in DevOps mode, feedback needs to be faster, it needs to be more accurate, and especially in a large organization it needs to connect not just with dev and ops, but with other stakeholders too – business owners, test and QA teams, security teams, and of course end users.
+
+We'd love to hear how you and your organisation tackle these challenges, about failures and successes related to your systems or teams, new tools and methods you have tried or came up with that have produced great or not so great outcomes.
 
 You are also welcome to submit proposals that you feel fall outside this theme.
 
