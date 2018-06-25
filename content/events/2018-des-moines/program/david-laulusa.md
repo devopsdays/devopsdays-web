@@ -4,6 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "Organizing for Diversity"
 Type = "talk"
+Youtube = "KSaaDyMqmW8"
 Speakers = ["david-laulusa"]
 +++
 

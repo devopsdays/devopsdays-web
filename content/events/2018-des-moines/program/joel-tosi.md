@@ -4,6 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "Fostering the Third Way - Your DevOps Dojo"
 Type = "talk"
+Youtube = "kOG13WPcx3A"
 Speakers = ["joel-tosi"]
 +++
 

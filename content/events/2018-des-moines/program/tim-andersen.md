@@ -4,6 +4,7 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "DevOps is a Game Changer, but are you winning?"
 Type = "talk"
+Youtube = "sd0pfS9YkTY"
 Speakers = ["tim-andersen"]
 +++
 
