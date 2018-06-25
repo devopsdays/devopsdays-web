@@ -1,7 +1,7 @@
 +++
 Title = "Morgan Meredith"
 Twitter = "mo_leigh"
-#image = "morgan-meredith.png"
+image = "morgan-meredith.png"
 type = "speaker"
 linktitle = "morgan-meredith"
 
