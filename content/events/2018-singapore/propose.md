@@ -7,6 +7,8 @@ Description = "Propose a talk for DevOpsDays Singapore 2018"
 
 <hr>
 
+To submit a presentation visit our <a href="https://www.papercall.io/devopsdays-singapore-2018" target="_blank">Papercall</a> site.
+
 ### Conference Theme
 
 Our theme this year is the DevOps feedback loop. As DevOps practioners, we need insights into our processes and how effectively our teams are operating (an indicator of how well our DevOps adoption strategy is working). We need insights into our system health (modern systems are dynamic: cloud, microservices, container-based architectures change state all the time, resulting in more complex failure scenarios). We need insights into the risks we are exposed to and finally, we need insights into user behaviour and experiences to drive our feature development.
@@ -27,8 +29,8 @@ We also encourage those who have not presented before and can offer support to a
 
 There are three ways to propose a topic at DevOpsDays Singapore:
 
-1. __A 30-minute talk__ presented during the conference, usually in the mornings.</li>
-1. __An Ignite talk__ presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
+1. __A 30-minute talk__ presented during the conference, usually in the mornings.
+1. __An Ignite talk__ presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).
 1. __Open Space__: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 
 ### Proposal Review Considerations
@@ -44,7 +46,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Submit
 
-To submit a presentation send an email to {{< email_proposals >}} with the following information
+To submit a presentation visit our <a href="https://www.papercall.io/devopsdays-singapore-2018" target="_blank">Papercall</a> site.
 
 1. Type (presentation, panel discussion, ignite)
 1. Proposal Title (can be changed later)
