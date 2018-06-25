@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:40"
 Title = "Building a self-sustaining Developer Community within your own walls"
 Type = "talk"
+Youtube = "ej3oxUzrq3s"
 Speakers = ["matt-ring","john-van-roekel"]
 +++
 

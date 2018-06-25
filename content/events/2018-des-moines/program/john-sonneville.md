@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Management is a Rewarding Career Path: Musings of a New Developer-Manager"
 Type = "talk"
+Youtube = "JvGAv6mRwQI"
 Speakers = ["john-sonneville"]
 +++
 

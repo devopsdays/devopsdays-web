@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Continuous Security Validation in Your CI/CD Pipeline"
 Type = "talk"
+Youtube = "QXTr1kx6cBk"
 Speakers = ["mike-douglas"]
 +++
 

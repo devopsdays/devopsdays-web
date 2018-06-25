@@ -4,6 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "Recognizing Zombies, Black Holes Tribbles, before you get eaten: Techniques to avoid cascading failure"
 Type = "talk"
+Youtube = "MWQZ4vDEeSk"
 Speakers = ["avery-regier"]
 +++
 

@@ -4,6 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "GitOps, Continuous Delivery, and Declarative Infrastructure"
 Type = "talk"
+Youtube = "KU11IMkt8Ao"
 Speakers = ["luke-amdor"]
 +++
 
