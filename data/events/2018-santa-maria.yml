@@ -101,11 +101,21 @@ sponsor_levels:
 sponsors:
  - id: appelsoft
    level: platinum
+ - id: jetimob
+   level: platinum
+ - id: deliverymuch
+   level: platinum
+
  - id: metrosoftsa
    level: silver
+
  - id: universidadefranciscana
    level: community
  - id: polvolouco
    level: community
  - id: revdebug
+   level: community
+ - id: jetbrains
+   level: community
+ - id: restaurantebabette
    level: community
