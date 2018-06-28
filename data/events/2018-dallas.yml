@@ -256,7 +256,7 @@ sponsors:
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: capitalone
-    level: location_and_platinum
+    level: location_and_diamond
   - id: arresteddevops
     level: community
   - id: devopslive
@@ -277,8 +277,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: location_and_platinum
-    label: Location & Platinum
+  - id: location_and_diamond
+    label: Location & Diamond
     max: 1
   - id: b4con
     label: B4CON
