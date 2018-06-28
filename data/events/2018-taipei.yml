@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Taipei!" # Edit this to suit your preferen
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  2018-09-11 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2018-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2018-09-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2018-09-12 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -25,10 +25,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "25.0191798,121.5280028" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Liberal Education Classroom Building, NTU" # Defaults to city, but you can make it the venue name.
+coordinates: "25.049388, 121.549675" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Fubon International Conference Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "No.1, Sec. 4, Roosevelt Rd., Da’an Dist., Taipei City 106, Taiwan" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "No.108, Sec. 1, Dunhua S. Rd., Songshan Dist., Taipei City" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose

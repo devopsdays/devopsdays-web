@@ -76,6 +76,12 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: chef
+    level: gold
+  - id: elastic
+    level: silver
+  - id: scalefactory
+    level: silver
   - id: arresteddevops
     level: community
 

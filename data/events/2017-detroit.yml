@@ -85,7 +85,7 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: silver
   - id: delphix
     level: silver

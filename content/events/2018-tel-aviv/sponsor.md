@@ -42,6 +42,7 @@ Sponsor morning pastries! Cover the cost of morning pastries, the first thing pe
 Sponsor Lunch! Cover lunch costs and you can brand it.
 
 <strike>Sponsor the Lanyards</strike> SOLD!
+<strike>Sponsor the T Shirts</strike> SOLD!
 
 Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.
 

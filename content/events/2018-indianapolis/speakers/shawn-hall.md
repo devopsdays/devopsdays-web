@@ -11,7 +11,7 @@ linktitle = "shawn-hall"
 
 Shawn Hall has almost 20 years of IT experience developing solutions
 that have been delighting customers most of those years. During his
-career he's has been involved in every aspect of software development
+career he has been involved in every aspect of software development
 lifecycle for companies large and small. As the Director of Next
 Generation Data Center Engineering at Kinney Group, Shawn currently
 leads an awesome team of engineers that are building innovative

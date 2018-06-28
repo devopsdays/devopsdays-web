@@ -4,6 +4,7 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "DevOps practices for the database team"
 Type = "talk"
+Youtube = "0ieWpt1latM"
 Speakers = ["pramod-sadalage"]
 +++
 

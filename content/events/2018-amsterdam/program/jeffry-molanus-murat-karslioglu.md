@@ -26,3 +26,7 @@ To join this workshop, you will need:
 * a laptop with sufficient CPU and memory to run a k8s cluster using Vagrant
 * have your development environment with all your favorite tools with you
 * Interest in figuring out how to use k8s with persistent workloads
+
+Please go through the prerequisites below, before the workshop to not lose to much time installing software during the event
+
+https://docs.google.com/document/d/1wHJv2L5tMLuOuR8wP_u1saEM-3Wwggda3BJVIclNEnU/edit?usp=sharing

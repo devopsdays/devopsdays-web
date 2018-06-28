@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Intro to CI/CD with AWS Developer Tools"
 Type = "talk"
+Youtube = "NQoDJu4aR-M"
 Speakers = ["darin-webb"]
 +++
 

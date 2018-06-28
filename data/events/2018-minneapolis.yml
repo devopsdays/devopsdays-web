@@ -185,6 +185,12 @@ sponsors:
     level: gold
   - id: stripe
     level: alacarte
+  - id: cloudbolt
+    level: gold
+  - id: technovation-mn
+    level: community
+  - id: cloudability
+    level: alacarte
 
 sponsors_accepted : "yes"
 
@@ -392,6 +398,8 @@ ignites:
   - title: "sonia-gupta"
     date: 2018-07-12
   - title: "jamesha-fisher"
+    date: 2018-07-12
+  - title: "kim-crayton"
     date: 2018-07-12
   - title: "nick-tenbrink"
     date: 2018-07-12

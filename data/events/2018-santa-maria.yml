@@ -11,7 +11,7 @@ enddate: "2018-08-04" # The end date of your event. Leave blank if you don't hav
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2018-05-19" # start accepting talk proposals.
-cfp_date_end: "2018-07-01" # close your call for proposals.
+cfp_date_end: "2018-07-08" # close your call for proposals.
 cfp_date_announce: "2018-07-09" # inform proposers of status
 
 cfp_open: "true"
@@ -21,7 +21,7 @@ registration_date_start: "2018-05-12" # start accepting registration. Leave blan
 registration_date_end: "2018-08-03" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.sympla.com.br/devops-day-santa-maria__288229" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://polvotickets.com.br/e/devopsday-sm" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "bgtitle.jpg"
 
@@ -99,5 +99,23 @@ sponsor_levels:
     label: Comunidade
 
 sponsors:
+ - id: appelsoft
+   level: platinum
+ - id: jetimob
+   level: platinum
+ - id: deliverymuch
+   level: platinum
+
+ - id: metrosoftsa
+   level: silver
+
  - id: universidadefranciscana
+   level: community
+ - id: polvolouco
+   level: community
+ - id: revdebug
+   level: community
+ - id: jetbrains
+   level: community
+ - id: restaurantebabette
    level: community

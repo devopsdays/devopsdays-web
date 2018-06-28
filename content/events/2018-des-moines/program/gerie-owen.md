@@ -4,6 +4,7 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "Does DevOps need Continuous Testing?"
 Type = "talk"
+Youtube = "FdbuMvaiBN0"
 Speakers = ["gerie-owen"]
 +++
 
