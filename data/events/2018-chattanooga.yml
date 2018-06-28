@@ -54,10 +54,6 @@ team_members: # Name is the only required field for team members.
   - name: "Cosette Newberry"
     image: "cosette-newberry.jpg"
     linkedin: "https://www.linkedin.com/in/cosettenewberry"
-  - name: "Ethan Rogers"
-    image: "ethan-rogers.jpg"
-    linkedin: "https://www.linkedin.com/in/ethanfrogers/"
-    github: "ethanfrogers"
   - name: "Rob Scott"
     image: "rob-scott.jpg"
     twitter: "robertjscott"
@@ -80,14 +76,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: diamond
+    label: Diamond
+    max: 2
   - id: platinum
     label: Platinum
+    max: 2
   - id: gold
     label: Gold
-#    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
