@@ -5,10 +5,6 @@ aliases = ["/events/2018-columbus"]
 Description = "devopsdays Columbus 2018"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -18,32 +14,32 @@ Description = "devopsdays Columbus 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  	<a href="https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -79,6 +75,10 @@ Description = "devopsdays Columbus 2018"
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
+</div>
+
+<div style="text-align:center;">
+  {{< event_logo >}}
 </div>
 
 <!-- Uncomment if you added your city twitter name -->

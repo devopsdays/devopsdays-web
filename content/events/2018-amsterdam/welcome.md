@@ -1,4 +1,6 @@
 +++
+City = "Amsterdam"
+Year = "2018"
 Title = "devopsdays Amsterdam 2018"
 Type = "welcome"
 aliases = ["/events/2018-amsterdam"]
@@ -7,6 +9,15 @@ Description = "devopsdays Amsterdam 2018"
 
 <div style="text-align:center;">
   {{< event_logo >}}
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Join our Slack!</strong>
+  </div>
+  <div class = "col-md-8">
+  <a href="https://bit.ly/2JoT0vc">Join our Slack to join in on the discussion!</a>
+  </div>
 </div>
 
 <div class = "row">
@@ -45,23 +56,23 @@ Description = "devopsdays Amsterdam 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

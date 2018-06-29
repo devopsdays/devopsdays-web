@@ -5,9 +5,9 @@ aliases = ["/events/2018-stockholm"]
 Description = "devopsdays Stockholm 2018"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+We're sorry to announce that DevOpsDays Stockholm is being rescheduled to later this year. Please watch this space for announcements on new dates.
+----
+
 
 <div class = "row">
   <div class = "col-md-2">
@@ -34,8 +34,8 @@ Description = "devopsdays Stockholm 2018"
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
-
+</div> 
+-->
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>

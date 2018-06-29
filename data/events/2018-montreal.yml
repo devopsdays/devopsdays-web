@@ -1,0 +1,139 @@
+name: "2018-montreal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Montréal" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsmontreal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "devopsdays is coming to Montréal! / devopsdays arrive en ville!" # Edit this to suit your preferences
+ga_tracking_id: "UA-118473645-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-10-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-04-26 # start accepting talk proposals.
+cfp_date_end: 2018-06-30 # close your call for proposals.
+cfp_date_announce: 2018-07-16 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdays-mtl-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-05-18 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-10 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.ca/e/devops-day-montreal-2018-tickets-45899626017" # valid link, not ok yet. 2018-05-09
+
+# Location
+#
+coordinates: "45.497588,-73.554170" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Montréal" # Defaults to city, but you can make it the venue name.
+#
+location_address: "8 Queen Street, Montréal" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Location - Localisation
+    url: "/events/2018-montreal/location/"
+    icon: "map-o"
+  - name: Registration - Inscription
+    url: "/events/2018-montreal/registration/"
+    icon: "user-plus"
+  - name: Propose - Proposer
+    url: "https://www.papercall.io/devopsdays-mtl-2018"
+    icon: "lightbulb-o"
+  - name: Sponsor - Sponsoriser
+    url: "/events/2018-montreal/sponsor/"
+    icon: "money"
+  - name: Contact - Contacter
+    url: "/events/2018-montreal/contact/"
+    icon: "envelope-o"
+  - name: Conduct - Conduite
+    url: "/events/2018-montreal/conduct/"
+    icon: "handshake-o"
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Kaycie Waldman"
+    employer: "CloudOps"
+    twitter: "kay_wald"
+  - name: "Julia Simon"
+    employer: "CloudOps"
+    twitter: "JuliaSimon14"
+  - name: "Pierre-Luc Dion"
+    employer: "cloud.ca"
+    github: "pdion891"
+    twitter: "pdion891"
+  - name: "Jean-Francois Nadeau"
+    employer: "ticketmaster"
+  - name: "Marc Pare"
+    employer: "CloudOps"
+    twitter: "MarcAlphonse"
+  - name: "Martin Goyette"
+    employer: "Agile Montreal"
+    twitter: "agilemontreal"
+  - name: "Donald Donovan"
+    employer: "CloudOps"
+  - name: "James Shubin"
+    employer: "purpleidea.com"
+    github: "purpleidea"
+    twitter: "purpleidea"
+#  - name: "Sally Fields"
+#    employer: "Acme Anvil Co."
+#    github: "devopsdays"
+#    facebook: "https://www.facebook.com/sally.fields"
+#    linkedin: "https://www.linkedin.com/in/sallyfields"
+#    website: "https://mattstratton.com"
+#    image: "sally-fields.jpg"
+organizer_email: "organizers-montreal-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-montreal-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: cloudops
+    level: silver
+  - id: 2018-agile-montreal
+    level: community
+  - id: microsoft
+    level: gold
+  - id: dynatrace
+    level: bronze
+  - id: mesosphere
+    level: silver
+  - id: signalfx
+    level: bronze  
+  - id: appdynamics
+    level: silver
+  - id: genetec
+    level: bronze
+  - id: bell_ca
+    level: bronze
+  
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold - Or
+#    max: 10
+  - id: silver
+    label: Silver - Argent
+  - id: bronze
+    label: Bronze
+  - id: coffee
+    label: Coffee - Pause café
+#    max: 4
+  - id: lanyard
+    label: Lanyard - Dragonne
+  - id: lunch
+    label: Lunch - Dîner
+  - id: community
+    label: Community - Communauté

@@ -36,23 +36,14 @@ Description = "DevOpsDays Washington, DC 2018"
   </div>
 </div>
 
-<div class="row">
-  <div class="col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class="col-md-8">
-    <a href="https://devopsdaysdc2018.busyconf.com/proposals/new">Propose a talk now</a>.  You have a great story and we want to hear from you!
-  </div>
-</div>
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://devopsdaysdc2018.busyconf.com/schedule">program</a>.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -100,6 +91,30 @@ Description = "DevOpsDays Washington, DC 2018"
 </div>
 
 <div class="row">
+  <div class="col-md-10">
+    <h2>Live Stream</h2>
+    <p>
+      USPTO will be live streaming DevOpsDays DC 2018! If you can't join us in person, tune in at
+      <a href="https://livestream.com/uspto/DevOpsDays2018">https://livestream.com/uspto/DevOpsDays2018</a>.
+    </p>
+    <h2>Program Announced</h2>
+    <p>
+      Come to DevOpsDays DC to hear amazing talks from insightful speakers and to share with and learn from your peers.  The <a href="https://devopsdaysdc2018.busyconf.com/schedule">program is available now</a>.  Join us to hear from:
+    </p>
+    <ul>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ad94d4b3e80630375000257">Kumar Garg</a> who helped shape science and technology policy for the Obama Administration.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ad80e191353bfe8cc000172">Elissa Shevinsky</a>, who will speak about DevOps for data privacy in her talk, "Security, Compliance, and Regulations".</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ab919e49e3f0832c400007e">Nell Shamrell-Harrington</a>, CTO and Senior Software Engineer, who will talk about her experience with DevOps in Politics.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ad41663012710c6bb0001bf">Michael Flores</a> from the IBM Federal Chief Technology Office who will talk about DevOps for Artificial Intelligence.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ac7e06ce2f1080e68000102">Meg Viar and Kim Borowicz</a> on the importance of incorporating accessibility best practices throughout our design and development.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ad41a4e012710c6bb0001cb">Julie Anoshechkina</a> from Booz Allen Hamilton on solving communication problems when implementing DevOps.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ac840347021cbcf2b0000ce">Will Slack</a>, Federalist Director at 18F, will share how he and his team covertly nudged government web managers to practice DevOps.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule#activity_5ac25f58e39577424d00008b">Jess Szmajda</a>, CTO at Optoro, will share how they have scaled operations successfully over the 8 year growth of their company.</li>
+      <li><a href="https://devopsdaysdc2018.busyconf.com/schedule">and more...</a>
+    </ul>
+
+    
+  </div>
   <div class="col-md-10">
     <h2>Why Attend?</h2>
 

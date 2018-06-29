@@ -150,7 +150,33 @@ sponsors:
     level: premium
   - id: chocolatey
     level: standard
-
+  - id: tgs
+    level: standard
+  - id: tek-systems
+    level: standard
+  - id: stackify
+    level: standard
+  - id: appdynamics
+    level: premium
+  - id: sumologic
+    level: premium
+  - id: thoughtworks-gocd
+    level: premium
+  - id: mesosphere
+    level: premium
+  - id: influxdata
+    level: premium
+  - id: naic_nipr
+    level: premium
+  - id: chef
+    level: premium
+  - id: c2fo
+    level: premium
+  - id: sdtp
+    level: community
+  - id: 2018-kansas-city-stickermule
+    level: community
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -158,16 +184,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: ultimate
-    label: Ultimate
-    max: 1
+  # - id: ultimate
+  #   label: Ultimate
+  #   max: 1
   - id: premium
     label: Premium
-    max: 9 # This is the same as omitting the max limit.
+    max: 8
   - id: standard
     label: Standard
-    max: 4
-  - id: basic
-    label: Basic
+    max: 3
+  - id: core
+    label: Core
   - id: community
     label: Community

@@ -31,11 +31,13 @@ location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but yo
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
+  - name: keynotes
+  - name: proposals
   - name: location
+  - name: schedule
   - name: registration
  # - name: program
- # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -70,23 +72,7 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/kgaekwad/"
     image: ""
-  - name: "Tom Hall"
-    twitter: "tmhall99"
-    employer: "American Campus Communities"
-    bio: "Tom instigated and helped organize the DevOpsDays Atlanta 2016 conference, as well as having attended DoD in Austin and Chicago in years prior. He worked as a Novell Certified Engineer in the mid to late 90's and more recently spent 5+ years managing the customer-facing enterprise products and solutions training labs at Dell in Round Rock. He is now a DevOps Engineering Manager at American Campus Communities."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/tmhall99/"
-    image: ""
   - name: "Marisa Sawatphadungkij"
-  - name: "Tom Duffield"
-    twitter: "tomduffield"
-    employer: "Chef"
-    bio: "Tom is a senior engineer with Chef Software who recently moved to Austin from the frigid north: Minnesota. Outside of work he loves playing table top games and spending time with his fiancé and dog."
-    github: "tduffield"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/thomasduffield/"
-    image: ""
   - name: "Ian Richardson"
   - name: "Scott Baldwin"
     twitter: "scottsbaldwin"
@@ -96,7 +82,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
     image: ""
-  - name: "Doug Palmer"
   - name: "Dan Zentgraf"
     twitter: "danzentgraf"
     employer: "CA Technologies"
@@ -105,23 +90,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/zentgraf/"
     image: ""
-  - name: "Chris Little"
-    twitter: "cshl1"
-    employer: ""
-    bio: "I am a long-term supporter and advocate of DevOps and of DevOps Days. Many years in IT, mostly in start-ups, some big companies, lots of different tech."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/cshlittle/"
-    image: ""
-  - name: "Revanth Reddy"
-    twitter: "revanthreddy"
-    employer: "National Instruments"
-    bio: "Software Engineer at National Instruments , Foodie and hackathon enthusiast"
-    github: "revanthreddy"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/revanth-anireddy-b7676616/"
-    image: ""
-  - name: "Peco Karayanev"
   - name: "William Hackett"
     twitter: "wchack"
     employer: "National Instruments"
@@ -156,8 +124,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/richardboydii/"
     image: ""
   - name: "Laura Wickett"
-  - name: "Paul Czarkowski"
-  - name: "Katelyn Parker"
   - name: "Carl Perry"
 organizer_email: "organizers-austin-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-austin-2018@devopsdays.org" # Put your proposal email address here
@@ -169,6 +135,8 @@ sponsors:
     level: happyhour
   - id: scalyr
     level: lanyard
+  - id: devopsdotcom
+    level: media
   - id: scalyr
     level: communityleader
   - id: appdynamics
@@ -177,7 +145,7 @@ sponsors:
     level: communityleader
   - id: ns1
     level: communityleader
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: communityleader
   - id: xmatters
     level: communityleader
@@ -198,6 +166,10 @@ sponsors:
   - id: cloudautomationsolutions
     level: communityleader
   - id: sumologic
+    level: communityleader
+  - id: praecipio
+    level: communityleader
+  - id: riverbed
     level: communityleader
 #  - id: samplesponsorname
 #    level: gold
@@ -221,3 +193,312 @@ sponsor_levels:
   - id: communityleader
     label: Community Leader
     max: 20
+  - id: media
+    label: Media
+    max: 1
+
+program:
+  - title: "Registration, Breakfast, Voting"
+    type: custom
+    date: 2018-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:00"
+    end_time: "09:13"
+  - title: "Happy Hour Sponsor"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:13"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "10:45"
+    end_time: "10:50"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: "Lunch"
+    type: custom
+    date: 2018-05-03
+    start_time: "12:05"
+    end_time: "12:50"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2018-05-03
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-03
+    start_time: "13:20"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-03
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "14:40"
+    end_time: "14:45"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "15:25"
+    end_time: "15:30"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: "Open Space Closing"
+    type: custom
+    date: 2018-05-03
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Chariot Shuttle Service to Happy Hour"
+    type: custom
+    date: 2018-05-03
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-05-03
+    start_time: "17:30"
+    end_time: "21:30"
+
+  - title: "Breakfast"
+    type: custom
+    date: 2018-05-04
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-05-04
+    start_time: "09:00"
+    end_time: "09:13"
+  - title: "Lanyard Sponsor"
+    type: custom
+    date: 2018-05-04
+    start_time: "09:13"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2018-05-04
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-04
+    start_time: "09:50"
+    end_time: "10:10"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2018-05-04
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-04
+    start_time: "10:55"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-05-04
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-04
+    start_time: "12:30"
+    end_time: "13:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "13:20"
+    end_time: "13:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-05-04
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:05"
+    end_time: "14:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:10"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:45"
+    end_time: "14:50"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:55"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "15:30"
+    end_time: "15:35"
+  - title: "Open Space #4"
+    type: custom
+    date: 2018-05-04
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: "Openspace Closing, Drawings"
+    type: custom
+    date: 2018-05-04
+    start_time: "16:15"
+    end_time: "17:00"
+ignites:
+  # title is the speaker firstname-lastname
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04

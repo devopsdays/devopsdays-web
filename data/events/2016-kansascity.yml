@@ -49,7 +49,7 @@ proposal_email: "proposals-kansascity-2016@devopsdays.org" # Put your proposal e
 sponsors:
   - id: pivotal
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: gold
   - id: 2016-techtowntraining
     level: gold

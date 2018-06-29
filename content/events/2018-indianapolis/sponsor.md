@@ -161,7 +161,14 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Give a 20 minute demo in the main hall during one of the open spaces</td>
+      <td>Give a 30 minute demo in the main hall during one of the open spaces</td>
+      <td style="padding: 5px" bgcolor="peru"></td>
+      <td style="padding: 5px" bgcolor="silver"></td>
+      <td style="padding: 5px" bgcolor="gold"></td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+    </tr>
+    <tr>
+      <td>After party sponsorship from a la carte section</td>
       <td style="padding: 5px" bgcolor="peru"></td>
       <td style="padding: 5px" bgcolor="silver"></td>
       <td style="padding: 5px" bgcolor="gold"></td>
@@ -210,7 +217,7 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$500</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Day 1 Lunch - Signage provided and 3 minute pitch</td>
+      <td style="padding: 5px" aling="left"><del>Day 1 Lunch - Signage provided and 3 minute pitch</del></td>
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>

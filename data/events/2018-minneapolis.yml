@@ -13,7 +13,7 @@ cfp_date_start: 2017-11-08
 cfp_date_end: 2018-04-08
 cfp_date_announce: 2018-05-06
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2017-11-08
@@ -25,16 +25,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "44.972610,-93.272960"
-location: "Minneapolis" # Defaults to city, but you can make it the venue name.
+location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA
+" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
-#  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -108,6 +109,8 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: silver
+  - id: victorops
+    level: gold
   - id: instana
     level: silver
   - id: pivotal
@@ -130,6 +133,66 @@ sponsors:
     level: community
   - id: wwcodetc
     level: community
+  - id: minnestar
+    level: community
+  - id: solutiondesign
+    level: silver
+  - id: aheadpuppet
+    level: platinum
+  - id: sumologic
+    level: gold
+  - id: countryfinancial
+    level: alacarte
+  - id: sps_commerce
+    level: gold
+  - id: sps_commerce
+    level: alacarte
+  - id: rundeck
+    level: gold
+  - id: signalfx
+    level: platinum
+  - id: pagerduty
+    level: gold
+  - id: morpheus
+    level: gold
+  - id: thoughtworks-gocd
+    level: silver
+  - id: target
+    level: platinum
+  - id: merrill
+    level: gold
+  - id: carlsonwagonlit
+    level: alacarte
+  - id: cargill
+    level: alacarte
+  - id: netapp
+    level: silver
+  - id: redhat
+    level: gold
+  - id: datadog
+    level: gold
+  - id: sjtechcorp
+    level: silver
+  - id: appdynamics
+    level: silver
+  - id: saucelabs
+    level: silver
+  - id: granicus
+    level: silver
+  - id: herzum
+    level: silver
+  - id: servicenow
+    level: gold
+  - id: stripe
+    level: alacarte
+  - id: cloudbolt
+    level: gold
+  - id: technovation-mn
+    level: community
+  - id: cloudability
+    level: alacarte
+  - id: docker
+    level: silver
 
 sponsors_accepted : "yes"
 
@@ -141,5 +204,216 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-12
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "sharon-kennedy-vickers"
+    type: talk
+    date: 2018-07-12
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "amy-patton"
+    type: talk
+    date: 2018-07-12
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-12
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "lanice-sims"
+    type: talk
+    date: 2018-07-12
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "ronnie-chen"
+    type: talk
+    date: 2018-07-12
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-12
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-12
+    start_time: "13:15"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-07-12
+    start_time: "14:15"
+    end_time: "13:00"
+  - title: "kubernetes"
+    type: workshop
+    date: 2018-07-12
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2018-07-12
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-07-12
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2018-07-12
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "container-security"
+    type: workshop
+    date: 2018-07-12
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Sponsor Happy Hour"
+    type: custom
+    date: 2018-07-12
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "Evening Program & Ignites"
+    type: ignite
+    date: 2018-07-12
+    start_time: "18:00"
+    end_time: "20:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-13
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "aditya-mukerjee"
+    type: talk
+    date: 2018-07-13
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "ian-coldwater"
+    type: talk
+    date: 2018-07-13
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-13
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "amy-chen"
+    type: talk
+    date: 2018-07-13
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "tim-gross"
+    type: talk
+    date: 2018-07-13
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-13
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-13
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2018-07-13
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "observability"
+    type: workshop
+    date: 2018-07-13
+    start_time: "13:15"
+    end_time: "14:45"
+  - title: "Break & 3pm Raffle"
+    type: custom
+    date: 2018-07-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2018-07-13
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-07-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "incident-response"
+    type: workshop
+    date: 2018-07-13
+    start_time: "15:15"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2018-07-13
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "sonia-gupta"
+    date: 2018-07-12
+  - title: "jamesha-fisher"
+    date: 2018-07-12
+  - title: "kim-crayton"
+    date: 2018-07-12
+  - title: "nick-tenbrink"
+    date: 2018-07-12
+  - title: "alvin-faisal"
+    date: 2018-07-12
+  - title: "jessica-schalz"
+    date: 2018-07-12
+  - title: "steve-grove"
+    date: 2018-07-12
+  - title: "benjamin-ortega"
+    date: 2018-07-12
+  - title: "david-washington"
+    date: 2018-07-12
+  - title: "shafer"
+    date: 2018-07-12

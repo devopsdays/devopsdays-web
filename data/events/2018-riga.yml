@@ -42,8 +42,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
   - name: propose
   - name: location
-#  - name: registration
-#  - name: speakers
+  - name: tickets
+    url: http://tickets.devopsdays.lv/#/
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -58,11 +59,19 @@ sponsors:
     level: gold
   - id: zabbix
     level: gold
+  - id: chef
+    level: gold
+  - id: thoughtworks-gocd
+    level: gold
   - id: papercall
+    level: silver
+  - id: 4financeit
     level: silver
 # - id: ctco
 #    level: gold
   - id: devclub-lv
+    level: friends
+  - id: berlin-baltic-nordic-net
     level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

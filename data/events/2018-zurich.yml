@@ -28,6 +28,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
 #    url: https://cfp.devopsdays.ch
   - name: sponsor
+  - name: Ladies Night
+    url: https://www.meetup.com/DevOps-Meetup-Zurich/events/249832353/
   - name: contact
   - name: conduct
 
@@ -155,6 +157,8 @@ sponsors:
   - id: oracle
     level: bronze
     url: https://cloud.oracle.com/
+  - id: geek-girls-carrots
+    level: community
 
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
@@ -219,62 +223,62 @@ program:
     type: custom
     date: 2018-05-02
     start_time: "12:30"
-    end_time: "13:30"
+    end_time: "14:00"
   - title: "Opening Afternoon"
     type: custom
     date: 2018-05-02
-    start_time: "12:30"
-    end_time: "13:35"
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "Ignites"
     type: ignite
     date: 2018-05-02
-    start_time: "13:35"
-    end_time: "13:50"
+    start_time: "14:05"
+    end_time: "14:20"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-05-02
-    start_time: "13:50"
-    end_time: "14:20"
+    start_time: "14:20"
+    end_time: "14:50"
   - title: "Open Space Session #1"
     type: open-space
     date: 2018-05-02
-    start_time: "14:20"
-    end_time: "15:05"
+    start_time: "14:50"
+    end_time: "15:35"
   - title: "workshop-with-mathis-kretz"
     type: workshop
     date: 2018-05-02
-    start_time: "14:20"
-    end_time: "16:05"
+    start_time: "14:50"
+    end_time: "16:30"
   - title: "workshop-with-brian-christner"
     type: workshop
     date: 2018-05-02
-    start_time: "14:20"
-    end_time: "16:55"
+    start_time: "14:50"
+    end_time: "17:20"
   - title: "Open Space Session #2"
     type: open-space
     date: 2018-05-02
-    start_time: "15:15"
-    end_time: "16:00"
+    start_time: "15:45"
+    end_time: "16:30"
   - title: "Open Space Session #3"
     type: open-space
     date: 2018-05-02
-    start_time: "16:10"
-    end_time: "16:55"
+    start_time: "16:35"
+    end_time: "17:20"
   - title: "workshop-with-philipp-krenn"
     type: workshop
     date: 2018-05-02
-    start_time: "16:10"
-    end_time: "16:55"
+    start_time: "16:35"
+    end_time: "17:20"
   - title: "Close Day & Logistics"
     type: custom
     date: 2018-05-02
-    start_time: "17:00"
-    end_time: "17:10"
+    start_time: "17:25"
+    end_time: "17:30"
   - title: "Evening Event"
     type: custom
     date: 2018-05-02
     start_time: "17:30"
-    end_time: "open end"
+    end_time: "opes end"
     comments: "The evening event will take place at [Boilerroom](https://goo.gl/maps/mhk91oCHTqt).<br>
     Beverages and snacks sponsored by [Pontine](https://www.pontine.com/)."
   - title: "Registration & Coffe"
@@ -292,7 +296,7 @@ program:
     date: 2018-05-03
     start_time: "09:15"
     end_time: "10:00"
-  - title: "georgiana-gligor"
+  - title: "christian-hirsig"
     type: talk
     date: 2018-05-03
     start_time: "10:00"
@@ -312,7 +316,7 @@ program:
     date: 2018-05-03
     start_time: "11:30"
     end_time: "12:00"
-  - title: "baruch-sadogursky"
+  - title: "georgiana-gligor"
     type: talk
     date: 2018-05-03
     start_time: "12:00"
@@ -321,69 +325,64 @@ program:
     type: custom
     date: 2018-05-03
     start_time: "12:30"
-    end_time: "13:30"
+    end_time: "14:00"
   - title: "Opening Afternoon"
     type: custom
     date: 2018-05-03
-    start_time: "13:30"
-    end_time: "13:35"
-  - title: "christian-hirsig"
-    type: talk
-    date: 2018-05-03
-    start_time: "13:35"
-    end_time: "13:50"
+    start_time: "14:00"
+    end_time: "14:05"
   - title: "Ignites"
     type: ignite
     date: 2018-05-03
-    start_time: "13:50"
-    end_time: "14:05"
+    start_time: "14:05"
+    end_time: "14:20"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-05-03
-    start_time: "14:05"
-    end_time: "14:35"
+    start_time: "14:20"
+    end_time: "14:50"
   - title: "Open Space Session #1"
     type: open-space
     date: 2018-05-03
-    start_time: "14:35"
-    end_time: "15:20"
+    start_time: "14:50"
+    end_time: "15:35"
   - title: "workshop-with-manuel-hutter"
     type: workshop
     date: 2018-05-03
-    start_time: "14:35"
-    end_time: "16:20"
+    start_time: "14:50"
+    end_time: "16:30"
   - title: "workshop-with-tanya-janca-and-nicole-becher"
     type: workshop
     date: 2018-05-03
-    start_time: "14:35"
-    end_time: "17:10"
+    start_time: "14:50"
+    end_time: "17:20"
   - title: "Open Space Session #2"
     type: open-space
     date: 2018-05-03
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "15:45"
+    end_time: "16:30"
   - title: "Open Space Session #3"
     type: open-space
     date: 2018-05-03
-    start_time: "16:25"
-    end_time: "17:10"
+    start_time: "16:35"
+    end_time: "17:20"
   - title: "workshop-with-torben-hoeft"
     type: workshop
     date: 2018-05-03
-    start_time: "16:25"
-    end_time: "17:10"
+    start_time: "16:35"
+    end_time: "17:20"
   - title: "Close Day & Farewell"
     type: custom
     date: 2018-05-03
-    start_time: "17:15"
-    end_time: "17:25"
+    start_time: "17:25"
+    end_time: "17:30"
 
 ignites:
   - title: "ignite-talk-by-serhat-can"
     date: 2018-05-02
   - title: "ignite-talk-by-nicole-becher"
     date: 2018-05-02
-  - title: "ignite-talk-by-maris-prabhakaran"
+  - title: "ignite-talk-by-kris-buytaert"
     date: 2018-05-02
   - title: "ignite-talk-by-philipp-krenn"
     date: 2018-05-03

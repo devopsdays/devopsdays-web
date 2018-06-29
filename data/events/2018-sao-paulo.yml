@@ -121,6 +121,32 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: agilitynetworks
+    level: platinum
+  - id: 2018-rancher
+    level: platinum
+  - id: globalweb
+    level: platinum
+  - id: bluedigital
+    level: happy_hour
+  - id: brq
+    level: gold
+  - id: vmware
+    level: gold
+  - id: nubank
+    level: silver  
+  - id: getupcloud
+    level: silver
+  - id: creditas
+    level: silver
+  - id: agenciagnu
+    level: silver
+  - id: avenue-code
+    level: bronze
+  - id: timbira
+    level: bronze
+  - id: kinghost
+    level: bronze
   - id: arresteddevops
     level: community
   - id: 10deploys
@@ -129,6 +155,21 @@ sponsors:
     level: community
   - id: papo-de-sysadmin
     level: community
+  - id: test-girls
+    level: community
+  - id: qaladies
+    level: community
+  - id: linuxtips
+    level: community
+  - id: femmeit
+    level: community
+  - id: giodesigner
+    level: community
+  - id: easytaxi
+    level: community
+  - id: vbrownbagbrasil
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -139,7 +180,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platina
-    max: 1
+    max: 2
   - id: happy_hour
     label: Happy Hour
     max: 1
@@ -179,13 +220,13 @@ program:
     start_time: "10:15"
     end_time: "10:40"
   
-  - title: "eric-magalhes"
+  - title: "bruno-tavares"
     type: talk
     date: "2018-06-06"
     start_time: "10:40"
     end_time: "11:10"
 
-  - title: "natalia-manha"
+  - title: "eric-magalhes"
     type: talk
     date: "2018-06-06"
     start_time: "11:10"
@@ -233,19 +274,19 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: ""
+  - title: "vanessa-gomes"
     type: talk
     date: "2018-06-06"
     start_time: "16:00"
     end_time: "16:30"
 
-  - title: "vanessa-gomes"
+  - title: "natalia-manha"
     type: talk
     date: "2018-06-06"
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "bruno-tavares"
+  - title: "luana-linares"
     type: talk
     date: "2018-06-06"
     start_time: "17:00"
@@ -319,7 +360,7 @@ program:
     start_time: "13:30"
     end_time: "14:00"
 
-  - title: ""
+  - title: "kelvin-ronny"
     type: talk
     date: "2018-06-07"
     start_time: "14:00"
@@ -355,7 +396,7 @@ program:
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "Out of the Box"
+  - title: "beth-viveiros"
     type: talk
     date: "2018-06-07"
     start_time: "17:00"
@@ -371,4 +412,21 @@ program:
     type: custom
     date: "2018-06-07"
     start_time: "17:45"
-    end_time: "18:00  "
+    end_time: "18:00"
+
+ignites:
+
+  - title: "tatiane-paya"
+    date: "2018-06-06"
+  
+  - title: "victor-monteiro"
+    date: "2018-06-06"
+
+  - title: "igor-souza"
+    date: "2018-06-06"
+  
+  - title: "emmanuel-brandao"
+    date: "2018-06-07"
+  
+  - title: "alexandre-stratikopoulos"
+    date: "2018-06-07"

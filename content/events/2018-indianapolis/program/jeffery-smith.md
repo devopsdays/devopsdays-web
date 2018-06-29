@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Creating Shared Contexts"
+Title = "Opening Keynote: Creating Shared Contexts"
 Type = "talk"
 Speakers = ["jeffery-smith"]
 +++

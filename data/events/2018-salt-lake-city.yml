@@ -113,6 +113,10 @@ sponsors:
     level: silver
   - id: hailstone
     level: silver
+  - id: elastic
+    level: silver
+  - id: bluematador
+    level: silver
   - id: arresteddevops
     level: community
 

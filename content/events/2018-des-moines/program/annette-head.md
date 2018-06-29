@@ -4,6 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "Think Like a Tester – Puzzles and Games to Inspire Better Testing"
 Type = "talk"
+Youtube = "nacYgre4YKg"
 Speakers = ["annette-head","brian-kampling"]
 +++
 

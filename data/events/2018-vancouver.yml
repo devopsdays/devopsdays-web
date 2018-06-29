@@ -22,7 +22,7 @@ location: "UBC Robson Square" # Defaults to city, but you can make it the venue 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
     - name: program
-    # - name: livestream
+    - name: livestream
     - name: sponsor
     - name: registration
     - name: location
@@ -36,7 +36,7 @@ team_members: # Name is the only required field for team members.
   #   role: "Benevolent Dictator"
   #   website: "https://www.example.com"
   #   twitter: "example"
-  #   image: "example_portrait.jpg" # put image here: /static/events/<your-event>/organizers/<imagefile> 
+  #   image: "example_portrait.jpg" # put image here: /static/events/<your-event>/organizers/<imagefile>
   #   bio: |
   #         # Markdown Supported!
   #         You can put whatever text you want in here.
@@ -79,13 +79,13 @@ sponsors:
 
    - id: treasuredata
      level: gold
-   - id: trinimbus
+   - id: trinimbus-before-20180524
      level: gold
    - id: scalyr
      level: gold
    - id: influxdata
      level: gold
-   - id: scalar
+   - id: scalar-cloudcheckr
      level: gold
    - id: xmatters
      level: gold
@@ -109,7 +109,7 @@ sponsors:
      level: bronze
    - id: itglue
      level: bronze
-   
+
    - id: polyglot
      level: friends
    - id: ay-tech
@@ -401,7 +401,7 @@ program:
     start_time: "13:40"
     end_time: "13:45"
     background_color: "#C3FFD7"
-  - title: "Chad: Inertia: Simple Self-hosted Continuous Deployment"
+  - title: "Chad Lagore: Simple Self-hosted Continuous Deployment"
     type: custom
     date: 2018-04-21
     start_time: "13:45"
@@ -413,7 +413,7 @@ program:
     start_time: "13:50"
     end_time: "13:55"
     background_color: "#C3FFD7"
-  - title: "TBD"
+  - title: "Sean Porter: The Art Of Monitoring"
     type: custom
     date: 2018-04-21
     start_time: "13:55"

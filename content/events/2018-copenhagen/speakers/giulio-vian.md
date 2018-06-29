@@ -6,6 +6,8 @@ Website = "http://blog.casavian.eu/"
 image = "giulio-vian.png"
 type = "speaker"
 linktitle = "giulio-vian"
+speakerdeck ="https://speakerdeck.com/eduardopiairo/deployment-pipeline-for-databases-1" 
+
 
 +++
 

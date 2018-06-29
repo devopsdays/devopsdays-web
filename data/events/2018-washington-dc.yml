@@ -13,7 +13,7 @@ cfp_date_start:  2018-03-09
 cfp_date_end:  2018-04-15
 cfp_date_announce:  2018-04-22
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
 
 registration_date_start: 2018-03-09
@@ -30,12 +30,13 @@ location: "US Patent and Trademark Office" # The name of your location
 location_address: "600 Dulany Street, Alexandria, Virginia"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://devopsdaysdc2018.busyconf.com/proposals/new
+  # - name: propose
+  #   url: https://devopsdaysdc2018.busyconf.com/proposals/new
   - name: location
   - name: registration
     url: https://devopsdaysdc2018.busyconf.com/bookings/new
- # - name: program
+  - name: program
+    url: https://devopsdaysdc2018.busyconf.com/schedule
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -89,13 +90,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/davidbock/"
 
   - name: "Trevor Bryant"
-    employer: "CSRA"
+    employer: "ValidaTek, Inc"
     twitter: "apporima"
-    bio: ""
-    github: ""
+    bio: "Cybersecurity Engineer"
+    github: "https://github.com/trevorbryant"
     facebook: ""
-    website: ""
-    linkedin: ""
+    website: "https://keybase.io/trevorbryant"
+    linkedin: "https://www.linkedin.com/in/bryanttn/"
 
   - name: "Mark Cornick"
     employer: "Cava"
@@ -243,6 +244,47 @@ sponsors:
     level: gold
   - id: swamp
     level: gold
+  - id: sonatype
+    level: platinum
+  - id: stsi
+    level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: booz_allen_hamilton
+    level: happyhour
+  - id: govready
+    level: platinum
+  - id: harmonia
+    level: happyhour
+  - id: onyx-point
+    level: gold
+  - id: collabnet-versionone
+    level: platinum
+  - id: usds
+    level: platinum
+  - id: mesosphere
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: women-who-code-dc
+    level: community
+  - id: taphere
+    level: silver
+  - id: compuware
+    level: gold
+  - id: oneweb
+    level: platinum
+  - id: metis-machine
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: devopsdaysbaltimore
+    level: platinum
+  - id: blackstone-federal
+    level: media
+  - id: hope-one-source
+    level: community
+
   # - id: samplesponsorname
   #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -257,6 +299,8 @@ sponsor_levels:
   - id: location_and_platinum
     label: Location and Platinum
     max: 1
+  - id: happyhour
+    label: Happy Hour
   - id: platinum
     label: Platinum
   - id: gold

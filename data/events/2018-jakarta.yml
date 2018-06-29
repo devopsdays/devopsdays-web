@@ -90,6 +90,8 @@ sponsors:
     level: silver
   - id: chef
     level: silver
+  - id: mckinsey
+    level: silver
   - id: agile-singapore
     level: community
   - id: singapore-devops-community

@@ -20,12 +20,11 @@ location_address: 850 W Front St, Boise, ID 83702
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-
-#  - name: program
-  - name: propose
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: registration
+  - name: program
   - name: location
-#  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -41,11 +40,14 @@ team_members: # Name is the only required field for team members.
   - name: "Brian Hartvigsen"
     employer: "Cisco"
     twitter: "tresni"
+    linkedin: "https://linkedin.com/in/tresni"
+    github: "tresni"
   - name: "Robert Meyer"
     employer: "Taos"
     twitter: "BDArcholite"
   - name: "Paul Remeis"
     employer: "In Time Tec"
+    twitter: PaulRemeis
   - name: "EJ Leitzinger"
     employer: "In Time Tec"
 organizer_email: "organizers-boise-2018@devopsdays.org" # Put your organizer email address here
@@ -57,6 +59,26 @@ sponsors:
   - id: hp
     level: silver
   - id: ddev
+    level: bronze
+  - id: redhat
+    level: gold
+  - id: nutanix
+    level: silver
+  - id: idahotechcouncil
+    level: community
+  - id: scentsy
+    level: silver
+  - id: 2016-intimetec
+    level: platinum
+  - id: tsheets
+    level: platinum
+  - id: involta
+    level: bronze
+  - id: elastic
+    level:  silver
+  - id: clearwater
+    level: silver
+  - id: taos
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -74,3 +96,5 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community
