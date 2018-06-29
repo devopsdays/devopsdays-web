@@ -191,6 +191,8 @@ sponsors:
     level: community
   - id: cloudability
     level: alacarte
+  - id: docker
+    level: silver
 
 sponsors_accepted : "yes"
 
