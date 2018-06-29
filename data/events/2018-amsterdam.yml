@@ -474,8 +474,9 @@ program:
     date: 2018-06-29
     start_time: "14:15"
     end_time: "14:45"
-  - title: "Open Space Session - Day 2 - #1"
-    type: open-space
+  - title: "open-space-one-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
     date: 2018-06-29
     start_time: "15:00"
     end_time: "15:30"
@@ -485,8 +486,9 @@ program:
     start_time: "15:00"
     end_time: "15:30"
     comments: "HumanOps Track | Location: Grote Zaal"
-  - title: "Open Space Session - Day 2 - #2"
-    type: open-space
+  - title: "open-space-two-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
     date: 2018-06-29
     start_time: "15:35"
     end_time: "16:05"
@@ -496,8 +498,9 @@ program:
     start_time: "15:35"
     end_time: "16:05"
     comments: "HumanOps Track | Location: Grote Zaal"
-  - title: "Open Space Session - Day 2 - #3"
-    type: open-space
+  - title: "open-space-three-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
     date: 2018-06-29
     start_time: "16:10"
     end_time: "16:40"
