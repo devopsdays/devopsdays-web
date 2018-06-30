@@ -52,7 +52,7 @@ Sponsors are responsible for providing high-res logos for use on the website and
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form> -->
       </td>
-      <td style="padding: 4px 5px 0px 5px;"><center><b>One left!</b></center>
+      <td style="padding: 4px 5px 0px 5px;"><center><b>Sold Out!</b></center>
         <!-- Premium Paypal button  -->
         <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
