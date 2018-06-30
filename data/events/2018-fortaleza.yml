@@ -31,12 +31,12 @@ location: "Universidade de Fortaleza" # Defaults to city, but you can make it th
 location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Informações
-    icon: "map-o"
-  - name: Palestrantes
-    icon: "microphone"
-  - name: Programação
-    icon: "book"
+#  - name: Informações
+#    icon: "map-o"
+#  - name: Palestrantes
+#    icon: "microphone"
+#  - name: Programação
+#    icon: "book"
 #  - name: Local
 #    icon: "map-o"
 #    url: /events/2018-fortaleza/location
