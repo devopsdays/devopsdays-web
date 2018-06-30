@@ -37,9 +37,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "microphone"
   - name: Programação
     icon: "book"
-  - name: Local
-    icon: "map-o"
-    url: /events/2018-fortaleza/location
+#  - name: Local
+#    icon: "map-o"
+#    url: /events/2018-fortaleza/location
 #  - name: Palestre (CFP)
 #    icon: "microphone"
 #    url: /events/2018-fortaleza/cfp
