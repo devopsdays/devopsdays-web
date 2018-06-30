@@ -193,6 +193,10 @@ sponsors:
     level: alacarte
   - id: docker
     level: silver
+  - id: bluematador
+    level: silver
+  - id: rubrik
+    level: silver
 
 sponsors_accepted : "yes"
 
