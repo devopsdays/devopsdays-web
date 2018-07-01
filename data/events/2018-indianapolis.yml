@@ -75,6 +75,7 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Chalfant"
     employer: "Leaf Software Solutions"
     twitter: "chalfant"
+    image: "chris-chalfant.png"
 
   - name: "Andrew Kaczorek"
     employer: "Leaf Software Solutions"
