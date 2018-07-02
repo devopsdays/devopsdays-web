@@ -133,9 +133,11 @@ team_members: # Name is the only required field for team members.
     image: jeff-stephens.jpg
     employer: C2FO
     linkedin: https://www.linkedin.com/in/jeff-stephens-6bb0928b/
-    bio: "Jeff has worked as a Linux Systems Administrator for the last 12 years. His current focus is cloud 
-    application platforms as well as the expansion of his technical knowledge in development languages and CI/CD. 
-    Beyond work, he is an avid baseball fan, and spends his free time as a musician and photographer."
+    twitter: tbplayer7
+    github: tbplayer7
+    bio: "Jeff has worked as a Linux Systems Administrator for the last 13 years.  His current focus is cloud 
+    application platforms.  Beyond work, he is an avid baseball fan, and spends his free time as a musician 
+    and photographer."
 
 organizer_email: "organizers-kansas-city-2018@devopsdays.org" # Put your organizer email address here
 #proposal_email: "proposals-kansas-city-2018@devopsdays.org" # Put your proposal email address here
@@ -173,6 +175,8 @@ sponsors:
   - id: c2fo
     level: premium
   - id: dynatrace
+    level: premium
+  - id: awg
     level: premium
   - id: sdtp
     level: community
