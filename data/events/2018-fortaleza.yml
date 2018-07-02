@@ -14,8 +14,8 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysfortaleza" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "unifor.jpg"
 
@@ -42,9 +42,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: Local
 #    icon: "map-o"
 #    url: /events/2018-fortaleza/location
-#  - name: Palestre (CFP)
-#    icon: "microphone"
-#    url: /events/2018-fortaleza/cfp
+  - name: Palestre (CFP)
+    icon: "microphone"
+    url: "https://www.papercall.io/devopsdaysfortaleza"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-fortaleza/conduta
@@ -97,6 +97,10 @@ Container Management and Cluster Docker)"
     image: "renato-santos.jpg"
   - name: "Jairo Junior"
     role: "Solution Architect"
+    bio: "Solution Architect at Red Hat a contributor to open source projects - from IRC discussions, mailing lists and project maintainer issues. Fanatic by tests, automation, CLI and troubleshooting. Occasionally writing texts in Slack and Telegram."
+    website: "https://jairojunior.github.io/"
+    twitter: "jjunior0x2A"
+    github: "https://github.com/jairojunior"
     image: "jairo-junior.jpg"
   - name: "Camila Correia"
     role: "Designer/QA Analyst"
