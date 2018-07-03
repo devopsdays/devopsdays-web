@@ -79,6 +79,10 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
+  - id: mesosphere
+    level: gold
+  - id: appdynamics
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
