@@ -63,6 +63,8 @@ proposal_email: "proposals-phoenix-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: sumologic
+    level: gold
   - id: arresteddevops
     level: community
   - id: qualimente
@@ -84,3 +86,13 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: happy-hour 
+    label: Happy Hour
+  - id: coffee 
+    label: Coffee
+  - id: breakfast 
+    label: Breakfast
+  - id: lunch 
+    label: Lunch 
+  - id: snack 
+    label: Snack 
