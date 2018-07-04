@@ -100,6 +100,40 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-porto-alegre-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-porto-alegre-2018@devopsdays.org" # Put your proposal email address here
 
+sponsors:
+  - id: arresteddevops
+    level: community
+  - id: umbler
+    level: bronze
+  - id: afropython
+    level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: nodegirlscode
+    level: community
+  - id: nodejs-porto-alegre
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 1
+#    - id: happy_hour
+#    label: Happy Hour
+#    max: 1
+  - id: gold
+    label: Ouro
+    max: 2
+  - id: silver
+    label: Prata
+    max: 3
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Comunidade
