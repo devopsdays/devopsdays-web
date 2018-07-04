@@ -15,7 +15,8 @@ Description = "DevOpsDays Wellington 2018"
 </div>
 <div class="col-md-7">
   The DevOpsDays NZ organising team is pleased to announce this year's conference is in Wellington on the 5th &amp; 6th of November at Shed 6, TSB Bank Arena.<br/><br/>
-  Stay tuned for information on our CFP.<br/><br/>
+  If you're looking to contribute as a sponsor, then details can be found on the <strong>{{< event_link page="sponsor" text="sponsorship page" >}}</strong>.
+  <br/><br/>
   <div class="row">
     <div class="col-md-2">
       <strong>Dates</strong>
