@@ -81,6 +81,7 @@ He's also computer forensics expert, and regular writer of PenTest Magazine and 
     image: "mauricio-harley.jpg"
   - name: "Ana Carla Cavalcante"
     role: "IT Infrastructure Coordinator"
+    bio: "IT Infrastructure Coordinator, with more than 20 years of career. Acted in some of the main outsourcing and technology companies in the country: from occupational health ERP to infrastructural technology in the banking sector, having also worked in the oil, gas, steel, and energy sectors. She graduated in Data Processing with specializations in Strategic Management of Projects and Information Systems. Certified in ITIL Intermediate (RCV, SOA and PPO), ISO 20000, ISO 27002, Human Change Management Professional, Green It Citizen, Scrum and Kanban."
     linkedin: "https://www.linkedin.com/in/ana-carla-cavalcante-62a40725/"
     image: "ana-carla.jpg"
   - name: "Jorge Santos"
@@ -104,7 +105,10 @@ Container Management and Cluster Docker)"
     image: "jairo-junior.jpg"
   - name: "Camila Correia"
     role: "Designer/QA Analyst"
+    bio: "Quality Assurance Specialist at OSF Global Services and certified tester foundation level professional (CTFL). Designer in spare times and co founder of Coffee Design (www.coffeedesign.com.br).
+Passionate and supportive of animals rights."
     linkedin: "https://www.linkedin.com/in/camila-correia-6082bb71/"
+    website: "www.coffeedesign.com.br"
     image: "camila-correia.jpg"
 organizer_email: "organizers-fortaleza-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2018@devopsdays.org" # Put your proposal email address here
@@ -112,9 +116,9 @@ proposal_email: "proposals-fortaleza-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: universidade-de-fortaleza
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+    url: https://www.unifor.br/ # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
