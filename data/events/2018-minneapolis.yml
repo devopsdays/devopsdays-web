@@ -199,6 +199,10 @@ sponsors:
     level: silver
   - id: azure-advocates
     level: silver
+  - id: avanade
+    level: silver
+  - id: overops
+    level: silver
 
 sponsors_accepted : "yes"
 
