@@ -117,6 +117,8 @@ sponsors:
     level: community
   - id: datadog
     level: silver
+  - id: eleven-fifty-academy
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
