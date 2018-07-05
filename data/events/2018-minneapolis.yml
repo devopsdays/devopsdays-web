@@ -203,6 +203,8 @@ sponsors:
     level: silver
   - id: overops
     level: silver
+  - id: gdimpls
+    level: community
 
 sponsors_accepted : "yes"
 
