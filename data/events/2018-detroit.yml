@@ -57,8 +57,6 @@ team_members: # Name is the only required field for team members.
   - name: "Aaron Maturen"
     employer: Cengage Learning
     twitter: atmaturen
-  - name: "Ryan Struber"
-    employer: Barracuda Networks
   - name: "Archie Cowan"
     employer: ITHAKA
     twitter: archiecowan
