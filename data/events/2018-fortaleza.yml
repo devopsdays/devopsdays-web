@@ -35,7 +35,7 @@ location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: Informações
 #    icon: "map-o"
-  - name: Palestrantes
+  - name: Speakers
     icon: "microphone"
 #  - name: Programação
 #    icon: "book"
