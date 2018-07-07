@@ -35,8 +35,9 @@ location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: Informações
 #    icon: "map-o"
-#  - name: Speakers
-#    icon: "microphone"
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2018-fortaleza/speakers
 #  - name: Programação
 #    icon: "book"
 #  - name: Local
@@ -122,7 +123,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+#sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -134,7 +135,7 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+#    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
