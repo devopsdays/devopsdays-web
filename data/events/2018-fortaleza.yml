@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    icon: "map-o"
   - name: Palestrantes
     icon: "microphone"
-    url: /events/2018-fortaleza/speakers
+    url: /events/2018-fortaleza/palestrantes
 #  - name: Programação
 #    icon: "book"
 #  - name: Local
