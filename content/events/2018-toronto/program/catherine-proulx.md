@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Shaky to solid: a test-based approach to legacy code"
 Type = "talk"
 Speakers = ["catherine-proulx"]
+youtube = "HQiPAu47lD4"
 +++
 
 We propose a pragmatic test-driven approach to the problem of inheriting unstable legacy code, based on real-life high-stakes projects. We will cover automated and manual testing with limited resources, but also strategies to build a culture of reliability, accountability and pride within a development team.
