@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Choose Your Own Deployment: Interactive Feature Flag Adventure"
 Type = "talk"
 Speakers = ["heidi-waterhouse"]
+youtube = "IkiUp_fM6go"
 +++
 
 We’ll use this format to explore how feature flags can work with CI/CD or other rapid deployment models, and how we can work to make deployments safer and faster incrementally.

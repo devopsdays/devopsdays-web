@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Nationwide's DevOps Journey to Accelerated Delivery"
 Type = "talk"
-Speakers = ["preston-waller"]
+Speakers = ["preston-waller", "jared-speno"]
 +++
 
 Using “The DevOps Handbook” as a guide, Nationwide is implementing

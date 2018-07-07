@@ -199,6 +199,12 @@ sponsors:
     level: silver
   - id: azure-advocates
     level: silver
+  - id: avanade
+    level: silver
+  - id: overops
+    level: silver
+  - id: gdimpls
+    level: community
 
 sponsors_accepted : "yes"
 
