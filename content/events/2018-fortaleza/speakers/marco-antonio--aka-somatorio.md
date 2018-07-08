@@ -3,7 +3,7 @@ Title = "Marco Antonio - a.k.a Somatorio"
 Twitter = ""
 image = ""
 type = "speaker"
-linktitle = "marco-antonio--aka-somatorio"
+linktitle = "marco-antonio-aka-somatorio"
 
 +++
 
