@@ -1,7 +1,7 @@
 +++
 Title = "Marco Antonio, a.k.a Somatorio"
 Twitter = ""
-image = ""
+image = "marco-antonio-aka-somatorio.jpg"
 type = "speaker"
 linktitle = "marco-antonio-aka-somatorio"
 
