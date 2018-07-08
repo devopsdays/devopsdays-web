@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = ""
 Type = "talk"
-Speakers = ["marco-antonio--aka-somatorio"]
+Speakers = ["marco-antonio-aka-somatorio"]
 +++
 
 
