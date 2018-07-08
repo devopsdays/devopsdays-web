@@ -53,7 +53,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Pré-inscrição
     icon: "user-plus"
 #    url: /events/2018-fortaleza/register
-    url: https://goo.gl/forms/PSQy5RTkdFSon3wt2"
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSf_R_G_hGcVufdBPMg7BhN1GRd8lSIGVWrxqUmDq9kaiInIsA/viewform?usp=sf_link"
   - name: Patrocinio
     icon: "money"
     url: /events/2018-fortaleza/patrocinio
