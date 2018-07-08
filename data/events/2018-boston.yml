@@ -128,6 +128,16 @@ sponsors:
     level: platinum
   - id: datadog
     level: gold
+  - id: threatstack
+    level: platinum
+  - id: cloudzero
+    level: platinum
+  - id: sensu
+    level: platinum
+  - id: instana
+    level: platinum
+  - id: dynatrace
+    level: gold
   # - id: samplesponsorname
   #   level: gold
   # - id: arresteddevops
@@ -156,14 +166,10 @@ sponsors:
   #   level: gold
   # - id: nutanix
   #   level: gold
-  # - id: instana
-  #   level: gold
   # - id: mabl
   #   level: gold
   # - id: turbinelabs
   #   level: gold
-  # - id: threatstack
-  #   level: platinum
   # - id: cyberark
   #   level: gold
   # - id: pivotal

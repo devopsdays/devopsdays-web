@@ -7,7 +7,7 @@ linktitle = "sonia-gupta"
 
 +++
 
-Sonia Gupta is currently a software developer at Ibotta, Inc. in Denver, CO. Prior to becoming a developer, Sonia was a lawyer in Louisiana. She served as a Public Defender in New Orleans after Hurricane Katrina, then as a Prosecutor, and finally as an Assistant Attorney General doing torts and Civil Rights litigation. 
+Sonia Gupta is currently a software developer in Denver, CO. Prior to becoming a developer, Sonia was a lawyer in Louisiana. She served as a Public Defender in New Orleans after Hurricane Katrina, then as a Prosecutor, and finally as an Assistant Attorney General doing torts and Civil Rights litigation. 
 
 Before initiating her career change, Sonia had no experience in programming and software development. She attended the Turing School of Software and Design where she learned best practices through a curriculum focused on Ruby and Rails development.
 

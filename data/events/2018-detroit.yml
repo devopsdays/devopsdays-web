@@ -57,8 +57,6 @@ team_members: # Name is the only required field for team members.
   - name: "Aaron Maturen"
     employer: Cengage Learning
     twitter: atmaturen
-  - name: "Ryan Struber"
-    employer: Barracuda Networks
   - name: "Archie Cowan"
     employer: ITHAKA
     twitter: archiecowan
@@ -78,6 +76,10 @@ sponsors:
   - id: influxdata
     level: gold
   - id: sumologic
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: appdynamics
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

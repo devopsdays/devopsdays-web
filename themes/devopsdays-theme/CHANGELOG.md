@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.18.0](https://github.com/devopsdays/devopsdays-theme/tree/1.18.0) (2018-07-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.17.0...1.18.0)
+
+**Implemented enhancements:**
+
+- Remove auto-capitalization of talk titles [\#629](https://github.com/devopsdays/devopsdays-theme/issues/629)
+
 ## [1.17.0](https://github.com/devopsdays/devopsdays-theme/tree/1.17.0) (2018-05-09)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.16.0...1.17.0)
 
