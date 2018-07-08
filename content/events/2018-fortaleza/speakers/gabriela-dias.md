@@ -1,7 +1,7 @@
 +++
 Title = "Gabriela Dias"
 Twitter = "gabyldias"
-image = ""
+image = "gabriela-dias.png"
 type = "speaker"
 linktitle = "gabriela-dias"
 
