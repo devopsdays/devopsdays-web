@@ -3,7 +3,7 @@ Title = "Rafael Gomes - a.k.a Gomex"
 Twitter = "gomex"
 image = ""
 type = "speaker"
-linktitle = "rafael-gomes--aka-gomex"
+linktitle = "rafael-gomes-aka-gomex"
 
 +++
 
