@@ -10,7 +10,7 @@ Description = "devopsdays Minneapolis 2018"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}} - {{< event_end >}} - registration has closed, but we'll have a livestream!
   </div>
 </div>
 
@@ -20,15 +20,6 @@ Description = "devopsdays Minneapolis 2018"
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
 
@@ -55,7 +46,7 @@ Description = "devopsdays Minneapolis 2018"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Thanks to our sponsors!" >}}
   </div>
 </div>
 
