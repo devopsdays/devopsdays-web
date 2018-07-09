@@ -179,234 +179,234 @@ sponsor_levels:
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "09:00"
     end_time: "09:15"
   - title: "donovan-brown"
     type: talk
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "09:15"
     end_time: "09:45"
   - title: "Sponsors"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "09:45"
     end_time: "09:55"
   - title: "lilia-gutnik"
     type: talk
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "09:55"
     end_time: "10:25"
   - title: "Break"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "10:25"
     end_time: "10:40"
   - title: "tiffany-longworth"
     type: talk
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "10:40"
     end_time: "11:10"
   - title: "Sponsors"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "11:10"
     end_time: "11:20"
   - title: "kim-bannerman"
     type: talk
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "11:20"
     end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "13:00"
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "13:30"
     end_time: "13:40"
   - title: "Open Space Opening"
     type: open-space
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "13:40"
     end_time: "14:15"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "14:15"
     end_time: "15:00"
   - title: "tom-mclaughlin"
     type: workshop
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "14:15"
     end_time: "15:00"
   - title: "Break"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "15:00"
     end_time: "15:15"
   - title: "attendee-suggested breakout discussions - Open Space #2"
     type: open-space
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "15:15"
     end_time: "16:00"
   - title: "eric-calabretta"
     type: workshop
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "15:15"
     end_time: "16:00"
   - title: "attendee-suggested breakout discussions - Open Space #3"
     type: open-space
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "16:00"
     end_time: "16:45"
   - title: "angel-rivera"
     type: workshop
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "16:00"
     end_time: "16:45"
   - title: "Close Day & Logistics"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "17:00"
     end_time: "17:15"
   - title: "Evening event"
     type: custom
-    date: 2017-08-28
+    date: 2018-08-28
     start_time: "18:00"
     end_time: "late"
     comments: "This will take place at the venue"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "09:00"
     end_time: "09:15"
   - title: "andrew-clay-shafer"
     type: talk
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "09:15"
     end_time: "09:45"
   - title: "Sponsors"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "09:45"
     end_time: "09:55"
   - title: "sonia-gupta"
     type: talk
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "09:55"
     end_time: "10:25"
   - title: "Break"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "10:25"
     end_time: "10:40"
   - title: "kris-nova"
     type: talk
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "10:40"
     end_time: "11:10"
   - title: "Sponsors"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "11:10"
     end_time: "11:20"
   - title: "quintessence-anx"
     type: talk
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "11:20"
     end_time: "11:50"
   - title: "Lunch (catered)"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "11:50"
     end_time: "13:00"
   - title: "aaron-kalin"
     type: talk
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "13:00"
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "13:30"
     end_time: "13:40"
   - title: "Ignites"
     type: ignite
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "13:40"
     end_time: "14:15"
   - title: "Open Space Opening"
     type: open-space
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "14:15"
     end_time: "14:45"
   - title: "attendee-suggested breakout discussions - Open Space #4"
     type: open-space
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "14:45"
     end_time: "15:30"
   - title: "matty-stratton"
     type: workshop
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "14:45"
     end_time: "15:30"
   - title: "Break"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "15:30"
     end_time: "15:45"
   - title: "attendee-suggested breakout discussions - Open Space #5"
     type: open-space
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "15:45"
     end_time: "16:30"
   - title: "chris-van-tuin"
     type: workshop
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "15:45"
     end_time: "16:30"
   - title: "Close Day & Farewell"
     type: custom
-    date: 2017-08-29
+    date: 2018-08-29
     start_time: "16:30"
     end_time: "17:00"
 ignites:
   - title: "katie-prizy"
-    date: 2017-08-28
+    date: 2018-08-28
   - title: "heidi-waterhouse"
-    date: 2017-08-28
+    date: 2018-08-28
   - title: "emily-freeman"
-    date: 2017-08-28
+    date: 2018-08-28
   - title: "martez-reed"
-    date: 2017-08-28
+    date: 2018-08-28
   - title: "ken-mugrage"
-    date: 2017-08-28
+    date: 2018-08-28
   - title: "jay-gordon"
-    date: 2017-08-29
+    date: 2018-08-29
   - title: "morgan-meredith"
-    date: 2017-08-29
+    date: 2018-08-29
   - title: "paul-czarkowski"
-    date: 2017-08-29
+    date: 2018-08-29
   - title: "joshua-zimmerman"
-    date: 2017-08-29
+    date: 2018-08-29
   - title: "Ignite Karaoke!"
-    date: 2017-08-29
+    date: 2018-08-29
     
