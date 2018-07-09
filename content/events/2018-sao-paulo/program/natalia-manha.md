@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Kanban para equipes de infraestrutura com STATIK"
 Type = "talk"
 Speakers = ["natalia-manha"]
+youtube = "VVNMHxczn8E"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Natalia_Manha-Kanban_para_equipes_de_infraestrutura_com_STATIK.pdf"
 +++
 
 Para gestores e membros de equipes de infraestrutura que precisam lidar com entregas contínuas, o STATIK é uma abordagem para implementação do Kanban que permite começar com o que a organização faz hoje, diferente de outras abordagens, o STATIK busca mudança evolucionária.

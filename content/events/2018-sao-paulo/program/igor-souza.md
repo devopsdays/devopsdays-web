@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "DevOps não é sobre velocidade, é sobre qualidade!"
 Type = "talk"
 Speakers = ["igor-souza"]
+youtube = "5332ntatIOk"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Igor_Souza_-_DevOpsNaoESobreAgilidade.pdf"
 +++
 
 Quando consumimos conteúdo sobre a cultura DevOps, na maioria das vezes, nos deparamos com a importância de utilizar ferramentas como Ansible, Terraform, Jenkins, Docker, Puppet para conseguir entregar valor mais rápido. No entanto, pouco é falado sobre como incorporar essas práticas a cultura organizacional. 

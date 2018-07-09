@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "DevOps Aviation: Lições aprendidas na Aviação"
 Type = "talk"
 Speakers = ["mateus-prado"]
+youtube = "iZJJmdj9zGA"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Mateus_Prado-DevOps Aviation-Licoes_aprendidas_na_Aviacao.pdf"
 +++
 
 Duas industrias que tem muita coisa em comum e nessa talk quero mostrar como podemos aprender com a aviação e trazer para o dia-dia da nossa área. DevOps é a palavra chave da revolução do nosso merdado, mas existem coisas em comum que outras industrias, como da aviação, já pratica há tempos

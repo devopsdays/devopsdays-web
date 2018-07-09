@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = 'Developer Experience: desbloqueando entregas ágeis '
 Type = "talk"
 Speakers = ["bruno-tavares"]
+youtube = "-bKe_WF9R6s"
+slideshare = ""
+slides = ["https://assets.devopsdays.org/events/2018/saopaulo/presentations/Bruno_Tavares_Developer_Experience_desbloqueando_entregas_ageis.pdf"]
 +++
 
 O conceito é simples: desbloquear o caminho para produção. Mas como lidar com essa experiência na prática?

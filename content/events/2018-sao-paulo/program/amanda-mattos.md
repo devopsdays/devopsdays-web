@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Code Debt Killers - Promovendo Continuous Code Quality com Gamificação"
 Type = "talk"
 Speakers = ["amanda-mattos"]
+youtube = "A1y9kNnSd_M"
+slideshare = "https://www.slideshare.net/AmandaMattos1/code-debts-killers-promovendo-continuous-code-quality-com-gamificao"
+slides = ""
 +++
 
 Apesar de essencial em estratégias de Entrega Contínua, frequentemente as verificações automáticas de qualidade de código são negligenciadas. As pressões e questões culturais criam resistência à antecipação de falhas. A gamificação é uma ferramenta poderosa para promover essas boas práticas.
