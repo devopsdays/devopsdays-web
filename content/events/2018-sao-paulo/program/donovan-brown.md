@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Enterprise transformation (and you can too)"
 Type = "talk"
 Speakers = ["donovan-brown"]
+youtube = "ZYFX9zYa0uo"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Donovan-Brown-Enterprise-transformation-and-you-can-too.pdf"
 +++
 
 “That would never work here.” You’ve likely heard this sentiment echo from your company’s conference rooms or board rooms (or maybe you’ve said it yourself). There are always reasons: established processes (with vested interests supporting them), legacy codebases and data centers (both with large install footprints), and scale (for some values of scale), to name just a few.

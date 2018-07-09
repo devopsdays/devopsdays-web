@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Mapeando 1 milhão de recursos em uma Cloud"
 Type = "talk"
 Speakers = ["victor-monteiro"]
+youtube = "iQ-vaoeNOxU"
+slideshare = "https://www.slideshare.net/vanessagomesl/entrega-contnua-e-aplicaes-em-produo"
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/ignite-Victor_Monteiro-Mapeando_1_milhao_de_recursos_numa_cloud.pdf"
 +++
 
 Como conseguimos mapear 1 milhão de recursos da Cloud da Globo.com espalhados em dezenas de sistemas num ambiente Everything as a Service.

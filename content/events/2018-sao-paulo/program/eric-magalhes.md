@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Implementando uma cultura DevOps efetiva"
 Type = "talk"
 Speakers = ["eric-magalhes"]
+youtube = "usCvtAD9Sas"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Eric-Magalhaes_Implementando uma_cultura_DevOps_efetiva.pdf"
 +++
 
 Quando se fala em DevOps há um grande apelo nas ferramentas e na agilidade que essa cultura pode trazer, se esquece porém dos problemas que a adoção pode gerar. Essa talk tem o intuito de discutir os principais fatores de sucesso na adoção de uma cultura DevOps com foco no recurso chave: As pessoas
