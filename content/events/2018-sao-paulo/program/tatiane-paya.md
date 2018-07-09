@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Tratando crises, como eliminar barreiras entre Operações e Desenvolvimento?"
 Type = "talk"
 Speakers = ["tatiane-paya"]
+youtube = "iQ-vaoeNOxU"
+slideshare = "https://www.slideshare.net/TatianePaya/tratando-crises"
+slides = ""
 +++
 
 Integrar os times de Operações e Desenvolvimento, sempre nos propõe grandes desafios. Afinal como atender as necessidades das entregas ágeis dos times de DEV para garantir a evolução do negócio e ao mesmo tempo manter a operação apta a manter este mesmo negócio operacional 24x7, os 365 dias do ano.
