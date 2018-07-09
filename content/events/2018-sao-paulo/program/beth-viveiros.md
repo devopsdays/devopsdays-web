@@ -7,5 +7,5 @@ Type = "talk"
 Speakers = ["beth-viveiros"]
 youtube = "GcxV9vMvUOA"
 slideshare = ""
-slides = 
+slides = ""
 +++
