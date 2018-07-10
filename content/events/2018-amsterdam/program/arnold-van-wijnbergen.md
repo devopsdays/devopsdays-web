@@ -6,7 +6,7 @@ Title = "Why Tooling (only) isn’t the answer"
 Type = "talk"
 Speakers = ["arnold-van-wijnbergen"]
 aliases = ["/events/2018-amsterdam/program/arnold-van-wijnbergen/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=12"
 slideshare = ""
 slides = ""
 +++
