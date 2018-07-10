@@ -124,6 +124,22 @@ sponsors:
     level: gold
   - id: instana
     level: gold
+  - id: appdynamics
+    level: gold
+  - id: servicenow
+    level: gold
+  - id: confluent
+    level: gold
+  - id: splunk
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: humio
+    level: gold
+  - id: allstate
+    level: gold
+  - id: lightstep
+    level: gold
   - id: influxdata
     level: silver
   - id: signal
@@ -140,12 +156,26 @@ sponsors:
     level: silver
   - id: activecampaign
     level: silver
+  - id: onemainfinancial
+    level: silver
   - id: isg-one
+    level: silver
+  - id: hyatt
+    level: silver
+  - id: nvisia
+    level: silver
+  - id: corptax
+    level: silver
+  - id: cloudbolt
     level: silver
   - id: mongodb
     level: bronze
+  - id: confluent
+    level: lanyard
   - id: kaizenops
     level: live-transcription
+  - id: allstate
+    level: transportation
   - id: arresteddevops
     level: community
   - id: cwdevs
@@ -164,14 +194,20 @@ sponsors:
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 20
+    max: 21
   - id: silver
     label: Silver
-    max: 10
+    max: 14
   - id: bronze
     label: Bronze
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: live-transcription
     label: Live Transcription
+    max: 1
+  - id: transportation
+    label: Transportation
     max: 1
   - id: community
     label: Community
