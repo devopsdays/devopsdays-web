@@ -6,7 +6,7 @@ Title = "Cloud, containers, k8s"
 Type = "talk"
 Speakers = ["bridget-kromhout"]
 aliases = ["/events/2018-amsterdam/program/bridget-kromhout/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=0"
 slideshare = ""
 slides = ""
 +++

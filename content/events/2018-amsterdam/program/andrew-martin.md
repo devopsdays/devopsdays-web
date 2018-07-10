@@ -6,7 +6,7 @@ Title = "Continuous Kubernetes Security"
 Type = "talk"
 Speakers = ["andrew-martin"]
 aliases = ["/events/2018-amsterdam/program/andrew-martin/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=UcjclSvTY_c&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=5"
 slideshare = ""
 slides = ""
 +++

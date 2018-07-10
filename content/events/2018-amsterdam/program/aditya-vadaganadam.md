@@ -6,7 +6,7 @@ Title = "Organizational changes - Ops (as we know) must die!"
 Type = "talk"
 Speakers = ["aditya-vadaganadam"]
 aliases = ["/events/2018-amsterdam/program/aditya-vadaganadam/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=14&start=330"
 slideshare = ""
 slides = ""
 +++
