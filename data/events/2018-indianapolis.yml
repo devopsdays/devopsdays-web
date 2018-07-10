@@ -54,19 +54,19 @@ team_members: # Name is the only required field for team members.
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
     website: "http://learnpuppet.com"
-    image: "garrett-honeycutt.png"
+    image: "garrett-honeycutt.jpg"
 
   - name: "Andrew Poland"
     employer: ""
     twitter: "fiznarp"
-    image: "andrew-poland.png"
+    image: "andrew-poland.jpg"
 
   - name: "Byron Schaller"
     employer: "Roundtower"
     twitter: "byronschaller"
     github: "byronschaller"
     linkedin: "https://www.linkedin.com/in/byronschaller"
-    image: "byron-schaller.png"
+    image: "byron-schaller.jpg"
 
   - name: "Bryan Smith"
     employer: "Tacit Labs"
@@ -75,7 +75,7 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Chalfant"
     employer: "Leaf Software Solutions"
     twitter: "chalfant"
-    image: "chris-chalfant.png"
+    image: "chris-chalfant.jpg"
 
   - name: "Andrew Kaczorek"
     employer: "Leaf Software Solutions"
