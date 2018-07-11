@@ -138,8 +138,10 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: gold
-  # - id: samplesponsorname
-  #   level: gold
+  - id: opsview
+    level: platinum
+  - id: everbridge
+    level: gold
   # - id: arresteddevops
   #   level: community
   # - id: microsoft

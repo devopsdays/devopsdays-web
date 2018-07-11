@@ -6,7 +6,7 @@ Title = "Rabobanks' journey to Agile and DevOps security"
 Type = "talk"
 Speakers = ["alex-duivelshof"]
 aliases = ["/events/2018-amsterdam/program/alex-duivelshof/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=7"
 slideshare = ""
 slides = ""
 +++

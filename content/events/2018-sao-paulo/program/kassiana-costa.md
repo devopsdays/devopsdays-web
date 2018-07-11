@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Decolando com Ágil & DevOps"
 Type = "talk"
 Speakers = ["kassiana-costa"]
+youtube = "ed-S8X53fiA"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Kassiana_Costa-Decolando_com_Agil_DevOps.pdf"
 +++
 
 Apresentar como combinar Ágil e DevOps para ajudar as empresas a decolarem com mais segurança, baixo custo e inovação possibilitando um trabalho colaborativo e inteligente para servir e encantar os passageiros neste voo. Então venham junto nesta viagem e não esqueçam o cartão de embarque :)

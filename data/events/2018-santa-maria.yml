@@ -105,10 +105,16 @@ sponsors:
    level: platinum
  - id: deliverymuch
    level: platinum
+ - id: microsoft
+   level: platinum
 
  - id: metrosoftsa
    level: silver
  - id: limonada
+   level: silver
+ - id: black-sul-software
+   level: silver
+ - id: syntesis
    level: silver
 
  - id: universidadefranciscana
@@ -120,4 +126,6 @@ sponsors:
  - id: jetbrains
    level: community
  - id: restaurantebabette
+   level: community
+ - id: kinghost
    level: community

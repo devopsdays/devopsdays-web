@@ -33,7 +33,6 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -206,7 +205,7 @@ sponsors:
   - id: gdimpls
     level: community
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum

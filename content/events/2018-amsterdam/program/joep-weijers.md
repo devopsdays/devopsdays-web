@@ -6,7 +6,7 @@ Title = "Extreme feedback in DevOps"
 Type = "talk"
 Speakers = ["joep-weijers"]
 aliases = ["/events/2018-amsterdam/program/joep-weijers/"]
-youtube = ""
+youtube = "https://youtu.be/UcjclSvTY_c?list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=4&start=335"
 slideshare = ""
 slides = ""
 +++

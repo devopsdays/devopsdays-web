@@ -6,7 +6,7 @@ Title = "That Product Team Really Brought That Room Together"
 Type = "talk"
 Speakers = ["waldo-grunenwald"]
 aliases = ["/events/2018-amsterdam/program/waldo-grunenwald/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=10"
 slideshare = ""
 slides = ""
 +++

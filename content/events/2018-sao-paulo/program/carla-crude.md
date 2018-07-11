@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = 'A "Especificação por Exemplo" trabalhando pro time'
 Type = "talk"
 Speakers = ["carla-crude"]
+youtube = "9HIta9CrfV8"
+slideshare = "https://www.slideshare.net/carlacrude/a-especificao-por-exemplo-trabalhando-pelo-time-palestra-devops-day-2018"
+slides = ""
 +++
 
 A especificação por exemplo (SbE) é um exercício de aproximação do negócio e deve ser clara para todo o time. Quando o time se aproxima do negócio o engajamento é maior. A SbE é o ‘core’ em forma de documentação viva desta interação. Mas…o que é e como ela pode catalizar o trabalho do time?

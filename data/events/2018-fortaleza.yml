@@ -37,20 +37,23 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    icon: "map-o"
   - name: Palestrantes
     icon: "microphone"
+    url: /events/2018-fortaleza/speakers
 #  - name: Programação
 #    icon: "book"
 #  - name: Local
 #    icon: "map-o"
 #    url: /events/2018-fortaleza/location
   - name: Palestre (CFP)
-    icon: "microphone"
+    icon: "user-plus"
     url: "https://www.papercall.io/devopsdaysfortaleza"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-fortaleza/conduta
 #  - name: Inscreva-se
-#    icon: "user-plus"
+  - name: Pré-inscrição
+    icon: "user-plus"
 #    url: /events/2018-fortaleza/register
+    url: "https://docs.google.com/forms/d/e/1FAIpQLSf_R_G_hGcVufdBPMg7BhN1GRd8lSIGVWrxqUmDq9kaiInIsA/viewform?usp=sf_link"
   - name: Patrocinio
     icon: "money"
     url: /events/2018-fortaleza/patrocinio
@@ -122,7 +125,7 @@ sponsors:
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -134,7 +137,7 @@ sponsor_levels:
 #    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+#    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
