@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Romero"
 Twitter = "infoslack"
-image = ""
+image = "danielromero.png"
 type = "speaker"
 linktitle = "daniel-romero"
 
