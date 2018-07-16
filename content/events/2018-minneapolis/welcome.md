@@ -10,7 +10,7 @@ Description = "devopsdays Minneapolis 2018"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}} - we're sold out, but if you can't make it, we'll have a livestream!
+    {{< event_start >}} - {{< event_end >}} - we're sold out, but if you can't make it, we'll have a <a href="https://youtu.be/-oQnyaqf2aQ">livestream</a>!
   </div>
 </div>
 

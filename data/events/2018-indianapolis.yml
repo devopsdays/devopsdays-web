@@ -121,6 +121,10 @@ sponsors:
     level: community
   - id: techpoint-foundation-for-youth
     level: community
+  - id: signalfx
+    level: silver
+  - id: sensu
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
