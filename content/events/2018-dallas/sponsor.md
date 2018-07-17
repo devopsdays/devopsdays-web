@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Dallas 2018"
 +++
 
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our by clicking <strong><a href="https://assets.devopsdays.org/events/2018/dallas/DevOpsDays_DFW_B4CON_Prospectus_2018.pdf">HERE</strong></a> or <strong><a href="mailto:organizers-dallas-2018@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202018">send us an email</a></strong>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus by clicking <strong><a href="https://assets.devopsdays.org/events/2018/dallas/DevOpsDays_DFW_B4CON_Prospectus_2018.pdf">HERE</strong></a> or <strong><a href="mailto:organizers-dallas-2018@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202018">send us an email</a></strong>.
 
 <hr>
 
