@@ -1,7 +1,7 @@
 +++
 Title = "Policies"
 Type = "event"
-Description = "Policies | devopsdays Vancouver 2018"
+Description = "Policies | devopsdays Vancouver 2019"
 +++
 
 ## Ticket Policies

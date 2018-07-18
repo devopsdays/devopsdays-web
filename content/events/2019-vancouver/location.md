@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location | devopsdays Vancouver 2018"
+Description = "Location | devopsdays Vancouver 2019"
 +++
 
 [800 Robson Street Downtown Vancouver Canada](http://robsonsquare.ubc.ca/find-us/)
