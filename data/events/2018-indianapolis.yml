@@ -127,6 +127,8 @@ sponsors:
     level: silver
   - id: roundtowertechnologies
     level: silver
+  - id: kinney-group
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
