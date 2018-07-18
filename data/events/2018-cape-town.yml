@@ -79,6 +79,8 @@ sponsors:
   - id: offerzen
     level: gold
     url: https://bit.ly/2L0JaOk
+  - id: luno
+    level: basic
   - id: arresteddevops
     level: community
 
