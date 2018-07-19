@@ -32,6 +32,7 @@ location_address: "309 King St, Newcastle, NSW Australia" #Optional - use the st
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+    url: "https://www.papercall.io/2018-devopsdaysnewy"
   - name: location
   - name: registration
  # - name: program
@@ -50,6 +51,9 @@ team_members: # Name is the only required field for team members.
     github: "krutisfood"
     twitter: "krutisfood"
     linkedin: "https://www.linkedin.com/in/kurtgardiner"
+  - name: "Hailey Martin"
+    github: "hlmartin"
+    linkedin: "https://www.linkedin.com/in/haileylmartin"
   - name: "Wayne Ingram"
     employer: "Mine Super"
     github: "opticpow"
@@ -57,11 +61,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/opticpow"
     website: "https://opticpow.io"
   - name: "Mathew Finch"
+    twitter: "Finchster"
+    github: "finchster"
   - name: "Jonathan Milgate"
     twitter: "This_is_Dog"
     linkedin: "https://www.linkedin.com/in/jonathan-milgate-a9106731/"
   - name: "Damian Brady"
+    twitter: "damovisa"
   - name: "Lindsay Holmwood"
+    twitter: "auxesis"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
     # facebook: "https://www.facebook.com/sally.fields"
