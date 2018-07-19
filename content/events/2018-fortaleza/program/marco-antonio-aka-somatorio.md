@@ -7,8 +7,6 @@ Type = "talk"
 Speakers = ["marco-antonio-aka-somatorio"]
 +++
 
-ABSTRACT
-
 Acha que não merece elogios? Acha que não é uma pessoa boa o suficiente? Talvez você sofra dessa sindrome.
 
 Tens a sensação de que está enganando as pessoas a sua volta sobre o quanto sabe sobre determinado assunto? Ou quem sabe acha que não merece os elogios que as pessoas te fazem? Possivelmente você sofre de Síndrome do Impostor e não está sozinho nessa, que tal conversarmos sobre isso?
