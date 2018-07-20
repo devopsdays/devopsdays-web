@@ -241,6 +241,8 @@ sponsors:
     level: location_and_diamond
   - id: improving
     level: b4con
+  - id: pagerduty
+    level: b4con
   - id: arresteddevops
     level: community
   - id: devopslive
