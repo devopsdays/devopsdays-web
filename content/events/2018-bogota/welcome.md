@@ -2,7 +2,7 @@
 Title = "devopsdays Bogota 2018"
 Type = "welcome"
 aliases = ["/events/2018-bogota"]
-Description = "devopsdays Bogota 2018"
+Description = "devopsdays Bogotá 2018"
 +++
 
 <!-- <div style="text-align:center;">
