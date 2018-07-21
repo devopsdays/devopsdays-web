@@ -134,6 +134,8 @@ sponsors:
     level: silver
   - id: mongodb
     level: gold
+  - id: elastic
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
