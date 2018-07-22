@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Let’s Challenge Common DevOps Assumptions: Health Tech Edition"
 Type = "talk"
 Speakers = ["simon-woodside"]
+youtube = "w4-DuhYLLBE"
 +++
 
 In DevOps, we know that these three things are true: systems are ephemeral; systems are homogeneous; and systems requirements are slow to change. But, what if these assumptions aren’t true at all?

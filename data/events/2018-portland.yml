@@ -110,6 +110,8 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: sensu
+    level: gold
   - id: kaizenops
     level: silver
   - id: bitnami

@@ -9,9 +9,9 @@ Watch this space for information about the venue including address, map/directio
 
 <h2>Conference Location</h2>
 
-* Hotel: Xinrong Wyndham Hotels Shanghai
-* Address: No.25 Ningguo Road, Yangpu, Shanghai, 200052, China
-* http://www.wyndhamxrhotel.com/map.html
+* Hotel: The Longemont Hotel Shanghai
+* Address: No.1116 West Yan An Road, Shanghai, China
+* http://www.thelongemonthotels.com/default-en.html
 
 
 

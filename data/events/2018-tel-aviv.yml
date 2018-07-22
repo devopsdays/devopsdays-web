@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: location
  - name: registration
  # - name: program
- # - name: speakers
+ - name: speakers
  - name: sponsor
  - name: contact
  - name: conduct
@@ -95,7 +95,13 @@ sponsors:
     level: lanyard
   - id: cloudify
     level: silver
+  - id: singular
+    level: silver
+  - id: facebook
+    level: silver
   - id: elastic
+    level: silver
+  - id: atlassian
     level: silver
   - id: yotpo
     level: tshirt

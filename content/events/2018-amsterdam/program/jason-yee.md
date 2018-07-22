@@ -6,7 +6,7 @@ Title = "Going Dutch: observaties over Nederlandse cultuur & DevOps"
 Type = "talk"
 Speakers = ["jason-yee"]
 aliases = ["/events/2018-amsterdam/program/jason-yee/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=4"
 slideshare = ""
 slides = ""
 +++

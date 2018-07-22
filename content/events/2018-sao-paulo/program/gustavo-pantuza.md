@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Automação de Access Control Lists através de Redes Definidas por Software"
 Type = "talk"
 Speakers = ["gustavo-pantuza"]
+youtube = "NTN_G_RyLeA"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Gustavo_Pantuza_-_Automacao_de_ACLS_atraves_de_SDN.pdf"
 +++
 
 Imagine garantir a liberação de acessos entre aplicações e serviços de forma automatizada e de baixo custo. Essa palestra apresentará como estruturamos a Cloud da Globo.com e como através da GloboNetworkAPI, OpenDaylight e Open vSwitch conseguimos implementar uma solução automatizada em SDN.

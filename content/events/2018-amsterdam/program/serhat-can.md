@@ -6,7 +6,7 @@ Title = "The Rocky Path to Migrating Production Applications to Serverless Archi
 Type = "talk"
 Speakers = ["serhat-can"]
 aliases = ["/events/2018-amsterdam/program/serhat-can/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=1"
 slideshare = ""
 slides = ""
 +++

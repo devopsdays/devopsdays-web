@@ -6,7 +6,7 @@ Title = "Scaling Sparta: Military Lessons for Growing A Dev Team"
 Type = "talk"
 Speakers = ["emily-freeman"]
 aliases = ["/events/2018-amsterdam/program/emily-freeman/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=13"
 slideshare = ""
 slides = ""
 +++

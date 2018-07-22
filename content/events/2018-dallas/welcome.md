@@ -8,7 +8,12 @@ description = "The same group of organizers that brought you DevOpsDays DFW 2 ye
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-##### Come join us and share on August 30 & 31 for a 2 day conference of presentations, talks and <br>experiences from other DevOps practitioners and keep the <b><a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a></b> principles <b>AWESOME</b>!!! 
+##### Come join us and share on August 30 & 31 for a 2 day conference of presentations, talks and <br>experiences from other DevOps practitioners and keep the <b><a href="http://devopsdictionary.com/wiki/CAMS">C.A.M.S.</a></b> principles <b>AWESOME</b>!!! ####
+<br>
+<strong>NOTE:</strong> On August 29th, we will be having a Leadership Summit. (<strong>BY NOMINATION ONLY</strong>)<br>
+Send nomination for consideration to attend the Leadership Summit to: <strong><a href="mailto:organizers-dallas-2018@devopsdays.org?subject=Nomination%20for%20DevOpsDays%20DFW%20Leadership%20Summit%20consideration...&body=">DevOpsDays DFW Organizers.</strong></a><br>
+The Leadership Summit will be a workshop that will be delivered by Author, Speaker, CTO at <a href="https://devops-research.com">DevOps Research and Assessment LLC (DORA)</a>, Jez Humble. More details TBA.
+
 <toggle>
 <div class = "row">
   <div class = "col-md-2">

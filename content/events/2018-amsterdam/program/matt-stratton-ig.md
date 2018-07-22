@@ -6,7 +6,7 @@ Title = "Talk Selection as Mockumentary Film Editing"
 Type = "talk"
 Speakers = ["matt-stratton"]
 aliases = ["/events/2018-amsterdam/program/matt-stratton-ig/"]
-youtube = ""
+youtube = "https://youtu.be/UcjclSvTY_c?list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=4&start=682"
 slideshare = ""
 slides = ""
 +++
