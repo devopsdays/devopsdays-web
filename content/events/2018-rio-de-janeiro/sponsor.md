@@ -1,19 +1,28 @@
 +++
-Title = "Sponsor"
+Title = "Patrocínio/Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Rio de Janeiro 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<b>
+**ENGLISH**: We greatly value sponsors for this open event.  If you are interested in sponsoring, you can find more details on our sponsor prospect in English version ([here](https://assets.devopsdays.org/events/2018/riodejaneiro/SponsorDevOpsDaysRJ_en.pdf)). Please, let us know if you need any information or suggestion, sending an email to [{{< email_organizers >}}].
+</b>
+
+<b>
+Valorizamos o apoio dos patrocinadores a este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://assets.devopsdays.org/events/2018/riodejaneiro/SponsorDevOpsDaysRJ_pt.pdf)). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
+</b>
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+DevOpsDays é uma conferência auto organizada que depende de patrocínios. Não havendo estande de patrocinadores, apresentações focadas em venda de produtos ou distribuição da lista dos participantes. Patrocinadores tem a oportunidade de falar brevemente durante o evento e terão o reconhecimento merecido no website e mídias sociais antes, durante e depois do evento. Patrocinadores são encorajados a participarem ativamente do evento e se engajarem com os participantes e seus pares. Qualquer participante do evento terá a oportunidade de testar os produtos/projetos como parte de uma sessão de open space.
+
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+O nossa recomendação é enviar seus especialistas técnicos para interagir com os outros especialistas que estarão no evento.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+
 <p>
+Há também oportunidades para patrocínios especiais exclusivos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:organizers-rj-2018@devopsdays.org@devopsdays.org?subject=DevOpsDays Rio de Janeiro - Patroc&iacute;nio">mande um email para nós</a>.
+</p>
 
 <!--
 <hr/>
