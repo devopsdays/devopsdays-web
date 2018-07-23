@@ -243,6 +243,8 @@ sponsors:
     level: b4con
   - id: pagerduty
     level: b4con
+  - id: chef
+    level: b4con
   - id: arresteddevops
     level: community
   - id: devopslive
