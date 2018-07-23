@@ -83,6 +83,8 @@ sponsors:
     level: gold
   - id: ithaka
     level: gold
+  - id: littlecaesars
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
