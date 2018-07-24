@@ -5,11 +5,11 @@ Description = "Sponsor devopsdays Rio de Janeiro 2018"
 +++
 
 <b>
-**ENGLISH**: We greatly value sponsors for this open event.  If you are interested in sponsoring, you can find more details on our sponsor prospect in English version ([here](https://assets.devopsdays.org/events/2018/riodejaneiro/SponsorDevOpsDaysRJ_en.pdf)). Please, let us know if you need any information or suggestion, sending an email to [{{< email_organizers >}}].
+**ENGLISH**: We greatly value sponsors for this open event. Please, let us know if you need any information or suggestion, sending an email to [{{< email_organizers >}}].
 </b>
 
 <b>
-Valorizamos o apoio dos patrocinadores a este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://assets.devopsdays.org/events/2018/riodejaneiro/SponsorDevOpsDaysRJ_pt.pdf)). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
+Valorizamos o apoio dos patrocinadores a este evento. Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
 
 <hr>
