@@ -54,7 +54,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
   </tr>
 </table>
 
-With any questions plaease contact {{< email_organizers >}}
+With any questions please contact {{< email_organizers >}}
 
 <!--
 <hr/>
