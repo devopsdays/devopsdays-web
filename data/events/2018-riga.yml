@@ -39,7 +39,7 @@ proposal_email: "organizers-riga-2018@devopsdays.org"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: workshop
-#  - name: program
+  - name: program
   - name: propose
   - name: location
   - name: tickets
@@ -92,10 +92,198 @@ sponsor_levels:
   #- title: "speaker-mcspeaker"
   #  date: 2018-09-27
 
-#program:
+program:
   # Day one
-  #- title: "Registration, Breakfast, and Sponsor Booths Open"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-09-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Conference opening show"
+    type: custom
+    date: 2018-09-27
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Talk 1 - Keynote day one"
+    type: custom
+    date: 2018-09-27
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Talk 2 -"
+    type: custom
+    date: 2018-09-27
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Talk 3 -"
+    type: custom
+    date: 2018-09-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Coffee break"
+    type: custom
+    date: 2018-09-27
+    start_time: "11:10"
+    end_time: "11:25"
+  - title: "Talk 4 -"
+    type: custom
+    date: 2018-09-27
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Talk 5 -"
+    type: custom
+    date: 2018-09-27
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-27
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Talk 6 -"
+    type: custom
+    date: 2018-09-27
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites x4"
+    type: custom
+    date: 2018-09-27
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "Openspace Opening and Voting"
+    type: custom
+    date: 2018-09-27
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "Coffee break"
+    type: custom
+    date: 2018-09-27
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Open Space 1 + Masterclass/Talk 7"
+    type: custom
+    date: 2018-09-27
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space 2 + Masterclass/Talk 8"
+    type: custom
+    date: 2018-09-27
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space 3 + Masterclass/Talk 9"
+    type: custom
+    date: 2018-09-27
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Break"
+    type: custom
+    date: 2018-09-27
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Wrap Up / interview audience / Lottery"
+    type: custom
+    date: 2018-09-27
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "ChillOps (Networking event)"
+    type: custom
+    date: 2018-09-27
+    start_time: "17:15"
+    end_time: "20:00"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-09-28
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Day 1 Wrap Up and Day 2 Opening"
+    type: custom
+    date: 2018-09-28
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Talk 1 - Keynote day two"
+    type: custom
+    date: 2018-09-28
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Talk 11 -"
+    type: custom
+    date: 2018-09-28
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Talk 12 -"
+    type: custom
+    date: 2018-09-28
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Coffee break"
+    type: custom
+    date: 2018-09-28
+    start_time: "11:10"
+    end_time: "11:25"
+  - title: "Talk 13 -"
+    type: custom
+    date: 2018-09-28
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Talk 14 -"
+    type: custom
+    date: 2018-09-28
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-28
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Talk 15 -"
+    type: custom
+    date: 2018-09-28
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites x4"
+    type: custom
+    date: 2018-09-28
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "Openspace Opening and Voting"
+    type: custom
+    date: 2018-09-28
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "Coffee break"
+    type: custom
+    date: 2018-09-28
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Open Space 1 + Masterclass/Talk 16"
+    type: custom
+    date: 2018-09-28
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space 2 + Masterclass/Talk 17"
+    type: custom
+    date: 2018-09-28
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Open Space 3 + Masterclass/Talk 18"
+    type: custom
+    date: 2018-09-28
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Break"
+    type: custom
+    date: 2018-09-28
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Conference closure / best speaker / sponsors lotteries"
+    type: custom
+    date: 2018-09-28
+    start_time: "17:00"
+    end_time: "17:15"
+  #- title: "ChillOps (Networking event)"
   #  type: custom
-  #  date: 2018-09-27
-  #  start_time: "08:00"
-  #  end_time: "09:00"
+  #  date: 2018-09-28
+  #  start_time: "17:15"
+  #  end_time: "20:00"
+
