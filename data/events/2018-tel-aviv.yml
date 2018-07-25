@@ -99,8 +99,6 @@ sponsors:
     level: silver
   - id: appsflyer
     level: silver
-  - id: appsflyer
-    level: coffee
   - id: facebook
     level: silver
   - id: elastic
@@ -146,7 +144,7 @@ sponsor_levels:
     label: day 2 breakfast
     max: 1
   - id: coffee
-    label: coffee sponsor
+    label: coffee
     max: 1
   - id: day1happyhour
     label: Day 1 HappyHour
