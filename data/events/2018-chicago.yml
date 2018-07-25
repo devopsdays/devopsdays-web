@@ -37,6 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: sponsor
+  - name: volunteer
+    icon: heart-o
   - name: contact
   - name: conduct
 # - name: example
@@ -149,6 +151,8 @@ sponsors:
   - id: lightstep
     level: gold
   - id: overops
+    level: gold
+  - id: morningstar
     level: gold
   - id: influxdata
     level: silver
