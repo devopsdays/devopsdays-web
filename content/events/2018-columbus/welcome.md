@@ -28,7 +28,8 @@ Description = "devopsdays Columbus 2018"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-  	<a href="https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010">Register to attend the conference!</a>
+  	<a href="https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010">Register to attend the conference!</a><br/>
+  	<span>DevOpsDays Columbus is offering scholarships for students, under-represented groups, and people between employers without funding. Please e-mail us directly to apply with your request.</span>
   </div>
 </div>
 
