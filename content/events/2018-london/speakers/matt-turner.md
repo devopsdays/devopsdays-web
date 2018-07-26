@@ -1,6 +1,7 @@
 +++
 Title = "Matt Turner"
 Twitter = "mt165pro"
+image = "matt-turner.jpg"
 type = "speaker"
 linktitle = "matt-turner"
 

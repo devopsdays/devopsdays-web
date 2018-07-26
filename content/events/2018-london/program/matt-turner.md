@@ -7,4 +7,8 @@ Type = "talk"
 Speakers = ["matt-turner"]
 +++
 
-Everyone says they're coding in Rust these days, but they're not. Every system has some bash-flavoured blu-tack hiding in the corners. But how well do you know this arcane, abstruse, annoying programming language? In 5 minutes, I'll educate, entertain, and inform you about a core part of the bash language - the simple conditional statement. This irreverent and funny talk, while yes, insulting bash quite a lot, will hopefully provide a whole bunch of "oh, that's why it does that" moments too.
+The network is back. But is it useful? While the momentum of containerization and kubernetes is well established, service meshes are a much-hyped, but still emerging field. What actually are they, and are they worth looking at?
+
+We'll explore what a service mesh is and what they claim to do for a typical microservices web backend. Are the claims of free and easy observability, resiliency, testing and security real? Are they useful during development, production, or both? How well do they work at the moment, and is the hassle really worth it?
+
+This session will also briefly cover how a service mesh works, giving you a mental model with which to explore and evaluate after the talk. I'll show a simple installation and demo, giving you all the knowledge to go home and try for yourself.
