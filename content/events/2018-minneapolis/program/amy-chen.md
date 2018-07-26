@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Iterative Technical Decisions"
 Type = "talk"
 Speakers = ["amy-chen"]
+slideshare = "https://www.slideshare.net/AmyChen62/iterative-technical-design"
 +++
 
 Designing software is hard. Writing code is hard. Deciding on technical tradeoffs is hard. Timelines are hard. TL;DR: everything is hard. Let’s talk about it!
