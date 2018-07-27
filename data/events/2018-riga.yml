@@ -31,7 +31,7 @@ location: "Park Inn by Radisson Riga Valdemara" # Defaults to city, but you can 
 location_address: "Krogus iela 1, Riga LV-1048 Riga Latvia"
 
 # Team members
-team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Dace Barone", "Arturs Kovalenko", "Liene Jansone"]
+team: ["Edgars Letinskis", "Uldis Karlovs-Karlovskis", "Dace Barone", "Arturs Kovalenko", "Liene Jansone", "Alexander Yartsev"]
 
 # Emails
 organizer_email: "organizers-riga-2018@devopsdays.org" # Put your organizer email address here
