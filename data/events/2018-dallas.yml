@@ -247,6 +247,8 @@ sponsors:
     level: b4con
   - id: rubrik
     level: b4con
+  - id: dynatrace
+    level: b4con
   - id: arresteddevops
     level: community
   - id: devopslive
