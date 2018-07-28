@@ -13,7 +13,7 @@ cfp_date_start: 2018-04-02  # start accepting talk proposals.
 cfp_date_end: 2018-06-22 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: ""
 
 registration_open: "true"
@@ -141,8 +141,10 @@ sponsors:
   - id: opsview
     level: platinum
   - id: everbridge
-    level: gold
+    level: platinum
   - id: puppet
+    level: platinum
+  - id: logz
     level: platinum
   # - id: arresteddevops
   #   level: community
@@ -180,8 +182,6 @@ sponsors:
   #   level: gold
   # - id: herzum
   #   level: gold
-  # - id: logz
-  #   level: platinum
   # - id: victorops
   #   level: platinum
   # - id: influxdata

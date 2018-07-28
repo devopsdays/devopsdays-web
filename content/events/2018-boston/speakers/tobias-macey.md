@@ -4,7 +4,7 @@ Twitter = "TobiasMacey"
 
 type = "speaker"
 website = "https://www.boundlessnotions.com/"
-
+image="tobias-macey.jpg"
 +++
 
 Tobias Macey is a dedicated engineer with experience spanning many years and even more domains. He currently manages and leads the Technical Operations team at MIT Open Learning where he designs and builds cloud infrastructure to power online access to education for the global MIT community.

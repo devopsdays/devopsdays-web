@@ -76,9 +76,13 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: appdynamics
+    level: gold
   - id: chef
     level: gold
   - id: elastic
+    level: silver
+  - id: opsview
     level: silver
   - id: scalefactory
     level: silver
@@ -211,18 +215,22 @@ program:
     start_time: "14:05"
     end_time: "17:00"
 
-# ignites:
-#   - title: ""
-#     date: 2018-09-20
-#   - title: ""
-#     date: 2018-09-20
-#   - title: ""
-#     date: 2018-09-20
-#   - title: ""
-#     date: 2018-06-29
-#   - title: ""
-#     date: 2018-06-29
-#   - title: ""
-#     date: 2018-06-29
-#   - title: ""
-#     date: 2018-06-29
+ignites:
+  - title: "markos-rendell"
+    date: 2018-09-20
+  - title: "alexandra-moore"
+    date: 2018-09-20
+  - title: "tomasz-tarczynski"
+    date: 2018-09-20
+  - title: "matt-turner"
+    date: 2018-09-20
+  - title: "jamie-tanna"
+    date: 2018-09-20
+  - title: "andrew-bean"
+    date: 2018-09-21
+  - title: "louise-paling"
+    date: 2018-09-21
+  - title: "philipp-krenn"
+    date: 2018-09-21
+  - title: "richard-marshall"
+    date: 2018-09-21

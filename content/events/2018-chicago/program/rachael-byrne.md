@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Don't Panic! Effective Incident Response"
 Type = "talk"
-Speakers = ["matty-stratton"]
+Speakers = ["rachael-byrne"]
 +++
 
 In today's world, service downtime has a significant impact on any business. Being able to respond quickly and proactively to issues can dramatically reduce the repercussions of any incident, both financial and reputational.
