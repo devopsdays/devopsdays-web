@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Florianópolis 2018"
+Description = "Sponsor devopsdays Belo Horizonte 2018"
 +++
 
 Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocinio, entre em contato pelo email [{{< email_organizers >}}].
@@ -15,8 +15,11 @@ Patrocinadores Ouro e Platina recebem uma mesa onde podem interagir com aqueles 
 
 <p>
 Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento.
+
+Em breve!
 <p>
 
+<!--
 ## Benefícios
 
 <style type="text/css">
@@ -107,7 +110,7 @@ Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos p
 
 A cota de patrocínio para empresas com sede fora do Brasil, preferencialmente deverá ser feito por meio de parceiro ou filial da empresa localizado no Brasil; aquisição de passagens aéreas de palestrantes internacionais; envio de material promocional como livros, camisetas, pendrives, pins, etc.
 
-
+-->
 <!--
 <hr/>
 
