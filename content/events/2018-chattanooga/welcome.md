@@ -82,3 +82,7 @@ Description = "devopsdays Chattanooga 2018"
 </div>
 
 {{< event_twitter >}}
+
+<div class = "row" style="text-align:center">
+  <img src="https://www.devopsdays.org/events/2018-chattanooga/logo-square.png" alt="Chattanooga DevOpsDays 2018 Logo" height="500" width="500">
+</div>
