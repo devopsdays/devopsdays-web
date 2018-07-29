@@ -1,10 +1,10 @@
 +++
-title = "Philip Smyth"
+title = "Oz Tiram"
 twitter = ""
 linkedin = ""
 website = ""
 image = ""
 type = "speaker"
-linktitle = ["philip-smyth"]
+linktitle = ["oz-tiram"]
 +++
 

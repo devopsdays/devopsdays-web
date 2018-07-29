@@ -1,10 +1,10 @@
 +++
-Title = "Jessica Ulyate"
-Twitter = ""
+title = "Jessica Ulyate"
+twitter = ""
+linkedin = ""
+website = ""
 image = ""
 type = "speaker"
-linktitle = "jessica-ulyate"
-
+linktitle = ["jessica-ulyate"]
 +++
-
 

@@ -20,10 +20,9 @@ In this talk, Pete Chestna, Director of Developer Engagement will share his
 insights into this transformation, the opportunity that it presents to developers
 as lifelong learners as well as practical advice to get started. Don’t miss the shift.
 Get ahead of it!
+
 What you will learn:
-1. How software development leaders used to think about the developers they
-hire
-2. How that is being transformed into a new breed of developer called the Full
-Spectrum Developer
-3. How you can get their ahead of demand and be more valuable to both your
-current and future employers
+
+* How software development leaders used to think about the developers they hire 
+* How that is being transformed into a new breed of developer called the Full Spectrum Developer
+* How you can get their ahead of demand and be more valuable to both your current and future employers
