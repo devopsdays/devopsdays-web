@@ -73,7 +73,6 @@ With 18 years of experience in the software industry, Maria has previously worke
     employer: Cloudreach
     bio: "DevOps Lead at Cloudreach working on infrastructure automation, spreading the word of DevOps and anything else that is required."
     image: "kevin.jpg"
-    twitter: kevinhcross
   - name: Mihaela 'Micky' Drumeva
     bio: "Development Operations engineer at SolarWinds working on programmable production infrastructure. Passionate about all things automation - provisioning infrastructure, deployment, verification."
   - name: "Paul Gillespie"
@@ -86,7 +85,14 @@ With 18 years of experience in the software industry, Maria has previously worke
     bio: "PhD student working at the School of Computer Science in how to apply Name Based Networking protocol (NDN) to decentralised mobile architectures such as Android and Linux based Mobile Adhoc Networks. Interested in automation and continuous delivery through software development and infrastructure optimization. Motivated by previous industrial experiences in Telecoms, mobile gaming companies and APAC investment banking systems."
     image: "percy.jpg"
     twitter: "@percyperezd"
-
+  - name: "Gavin Reynolds"
+    employer: "Chef"
+    bio: "Customer Success/DevOps Engineer at Chef Software"
+    image: "gavin.jpeg"
+  - name: "Cookie Lanfear"
+    employer: "Adobe"
+    bio: "DevOps Engineer at Adobe and Graduate Apprentice at Heriot-Watt University, originating from Canada with a degree in Psychology from the University of Victoria."
+    image: "cookie-lanfear.jpg"
 
 organizer_email: "organizers-edinburgh-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2018@devopsdays.org" # Put your proposal email address here
@@ -94,6 +100,10 @@ proposal_email: "proposals-edinburgh-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: chef
+    level: gold
+  - id: ecs-digital
+    level: gold
   - id: freeagent
     level: bronze
 #   - id: samplesponsorname
