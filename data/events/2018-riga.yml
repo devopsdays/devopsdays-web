@@ -7,7 +7,7 @@ description: "DevOpsDays is coming back to Riga!"
 ga_tracking_id: UA-105774008-1
 
 #The image, relative to static/events/YYYY-CITY that you want to be the background of the header on your page.
-#masthead_background: ""
+masthead_background: "riga-cover-2018-medium.png"
 
 # All dates are in unquoted 2017-MM-DD, like this: variable: 2016-01-05
 startdate:  2018-09-27
