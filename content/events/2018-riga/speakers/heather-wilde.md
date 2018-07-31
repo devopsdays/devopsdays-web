@@ -4,7 +4,7 @@ twitter = "heathriel"
 linkedin = ""
 image = "Heather_Wilde_web.png"
 type = "speaker"
-linktitle = ["heather-wild"]
+linktitle = ["heather-wilde"]
 +++
 
 <h3>CTO at <a href="https://roceteer.com/" target ="_blank">ROCeteer</a></h3>
