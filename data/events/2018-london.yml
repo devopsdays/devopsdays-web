@@ -84,6 +84,12 @@ sponsors:
     level: silver
   - id: opsview
     level: silver
+  - id: ticketmaster
+    level: silver
+  - id: datadog
+    level: silver
+  - id: altoros
+    level: silver
   - id: scalefactory
     level: silver
   - id: arresteddevops
