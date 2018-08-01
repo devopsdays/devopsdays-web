@@ -122,6 +122,9 @@ sponsors:
   - id: universidade-de-fortaleza
     level: gold
     url: https://www.unifor.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: ibis-hotels
+    level: community
+    url: https://ibis.accorhotels.com/brasil/index.pt-br.shtml # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
