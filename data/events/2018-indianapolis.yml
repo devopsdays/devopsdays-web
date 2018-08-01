@@ -41,6 +41,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: conduct
 #  - name: volunteer
 #    url: 'https://goo.gl/forms/HK3ZbmgV7rDTwRGs2'
+  - name: slack
+    url: 'https://goo.gl/4ND8ok'
   - name: registration
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -54,19 +56,19 @@ team_members: # Name is the only required field for team members.
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
     website: "http://learnpuppet.com"
-    image: "garrett-honeycutt.png"
+    image: "garrett-honeycutt.jpg"
 
   - name: "Andrew Poland"
     employer: ""
     twitter: "fiznarp"
-    image: "andrew-poland.png"
+    image: "andrew-poland.jpg"
 
   - name: "Byron Schaller"
     employer: "Roundtower"
     twitter: "byronschaller"
     github: "byronschaller"
     linkedin: "https://www.linkedin.com/in/byronschaller"
-    image: "byron-schaller.png"
+    image: "byron-schaller.jpg"
 
   - name: "Bryan Smith"
     employer: "Tacit Labs"
@@ -75,11 +77,12 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Chalfant"
     employer: "Leaf Software Solutions"
     twitter: "chalfant"
-    image: "chris-chalfant.png"
+    image: "chris-chalfant.jpg"
 
   - name: "Andrew Kaczorek"
     employer: "Leaf Software Solutions"
     github: "akaczorek"
+    image: "andrew-kaczorek.jpg"
 
 organizer_email: "organizers-indianapolis-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal email address here
@@ -121,6 +124,18 @@ sponsors:
     level: community
   - id: techpoint-foundation-for-youth
     level: community
+  - id: signalfx
+    level: silver
+  - id: sensu
+    level: silver
+  - id: roundtowertechnologies
+    level: silver
+  - id: kinney-group
+    level: silver
+  - id: mongodb
+    level: gold
+  - id: elastic
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

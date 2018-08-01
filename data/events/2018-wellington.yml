@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -89,7 +89,15 @@ proposal_email: "proposals-wellington-2018@devopsdays.org" # Put your proposal e
 sponsors:
   - id: 2016-bnz
     level: platinum
+  - id: assurity
+    level: gold
+  - id: integrationqa
+    level: gold
+  - id: 2016-pushpay
+    level: gold
   - id: flux
+    level: silver
+  - id: microsoftnzazure
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

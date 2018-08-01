@@ -30,9 +30,9 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -81,6 +81,10 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: ithaka
+    level: gold
+  - id: littlecaesars
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

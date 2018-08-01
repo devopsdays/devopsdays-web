@@ -10,16 +10,7 @@ Description = "devopsdays Minneapolis 2018"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}} - and if you can't make it, we'll have a livestream!
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Join the waitlist!" >}} - we may release a few tickets before the event.
+    {{< event_start >}} - {{< event_end >}} - we're sold out, but if you can't make it, we'll have a <a href="https://youtu.be/-oQnyaqf2aQ">livestream</a>!
   </div>
 </div>
 

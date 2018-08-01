@@ -43,18 +43,18 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
     </td>
-    <td>    
+   <td>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="XPCJREVYZF5JW">
         <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
-    </td> 
+    </td>
   </tr>
 </table>
 
-With any questions plaease contact {{< email_organizers >}}
+With any questions please contact {{< email_organizers >}}
 
 <!--
 <hr/>

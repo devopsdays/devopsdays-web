@@ -33,7 +33,6 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -281,7 +280,7 @@ program:
     type: open-space
     date: 2018-07-12
     start_time: "14:15"
-    end_time: "13:00"
+    end_time: "15:00"
   - title: "kubernetes"
     type: workshop
     date: 2018-07-12
