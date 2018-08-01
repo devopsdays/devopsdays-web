@@ -27,9 +27,9 @@ Description = "DevOpsDays Zürich 2018"
 -->
 <div class = "row">
   <div class = "col-md-12">
-    <p>First time here? Check out our last events and get hyped!</p>
-    <a href="https://www.devopsdays.org/events/2017-zurich/welcome/">DevOpsDays 2017 - Where it all started</a>
-    <a href="https://www.devopsdays.org/events/2018-zurich/welcome/">DevOpsDays 2018 - The Continuation</a>
+    <p>First time here? Check out our last events and get hyped!</p></br>
+    <a href="https://www.devopsdays.org/events/2017-zurich/welcome/">DevOpsDays 2017 - Where it all started</a></br>
+    <a href="https://www.devopsdays.org/events/2018-zurich/welcome/">DevOpsDays 2018 - The Continuation</a></br>
   </div>
 </div>
 
