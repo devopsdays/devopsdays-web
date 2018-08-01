@@ -1,5 +1,5 @@
 +++
-Title = "Quintessance Anx"
+Title = "Quintessence Anx"
 Twitter = "QuintessenceAnx"
 
 type = "speaker"
