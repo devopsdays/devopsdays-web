@@ -325,18 +325,12 @@ program:
     type: workshop
     date: 2018-09-29
     start_time: "09:00"
-    end_time: "17:00"    
-  - title: "philipp-krenn-workshop-1"
-    type: workshop
-    date: 2018-09-29
-    start_time: "09:00"
-    end_time: "17:00"    
-
+    end_time: "17:00"
 
 ignites:
   - title: "anton-arhipov-talk-1"
     date: 2018-09-27
-  - title: "anton-babenko-ignite-1"
+  - title: ""
     date: 2018-09-27
   - title: ""
     date: 2018-09-27
