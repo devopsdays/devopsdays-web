@@ -1,7 +1,7 @@
 +++
-Talk_date = "27.09.2018"
-Talk_start_time = "22:22"
-Talk_end_time = "22:22"
+Talk_date = "29.09.2018"
+Talk_start_time = "09:00"
+Talk_end_time = "17:00"
 Title = "Monitor Your Microservices — Logs, Metrics, Pings, and Traces"
 Type = "talk"
 youtube = ""

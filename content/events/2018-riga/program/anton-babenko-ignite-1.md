@@ -1,7 +1,7 @@
 +++
 Talk_date = "27.09.2018"
-Talk_start_time = "22:00"
-Talk_end_time = "22:30"
+Talk_start_time = "14:10"
+Talk_end_time = "14:15"
 Title = "What you see is what you get… for AWS infrastructure"
 Type = "talk"
 youtube = ""
