@@ -124,28 +124,23 @@ program:
     type: custom
     date: 2018-09-12
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "yuwei-ren"
+    end_time: "09:10"
+  - title: "peter-chestna"
     type: talk
     date: 2018-09-12
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-09-12
-    start_time: "09:45"
-    end_time: "09:55"
+    start_time: "09:10"
+    end_time: "09:40"
   - title: "jessica-ulyate"
     type: talk
     date: 2018-09-12
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "09:40"
+    end_time: "10:10"
   - title: "Break"
     type: custom
     date: 2018-09-12
-    start_time: "10:25"
+    start_time: "10:10"
     end_time: "10:40"
-  - title: "peter-chestna"
+  - title: "philip-smyth"
     type: talk
     date: 2018-09-12
     start_time: "10:40"
@@ -154,42 +149,57 @@ program:
     type: custom
     date: 2018-09-12
     start_time: "11:10"
-    end_time: "11:20"
-  - title: "dirk-lehmann"
+    end_time: "11:15"
+  - title: "subhas-dandapani"
     type: talk
     date: 2018-09-12
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch (catered)"
     type: custom
     date: 2018-09-12
-    start_time: "11:50"
+    start_time: "11:45"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-09-12
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2018-09-12
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
+    date: 2018-09-12
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "alexander-j-knipping"
+    type: talk
     date: 2018-09-12
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
+    date: 2018-09-12
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "derik-evangelista"
+    type: talk
     date: 2018-09-12
     start_time: "15:00"
     end_time: "15:45"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2018-09-12
     start_time: "16:00"
     end_time: "16:45"
+  - title: "kirill-zonov"
+    type: talk
+    date: 2018-09-12
+    start_time: "16:00"
+    end_time: "16:45"    
   - title: "Close Day"
     type: custom
     date: 2018-09-12
@@ -209,28 +219,23 @@ program:
     type: custom
     date: 2018-09-13
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "philip-smyth"
+    end_time: "09:10"
+  - title: "dirk-lehmann"
     type: talk
     date: 2018-09-13
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-09-13
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "serhat-can"
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "yuwei-ren"
     type: talk
     date: 2018-09-13
-    start_time: "09:55"
-    end_time: "10:25"
+    start_time: "09:40"
+    end_time: "10:10"
   - title: "Break"
     type: custom
     date: 2018-09-13
-    start_time: "10:25"
+    start_time: "10:10"
     end_time: "10:40"
-  - title: "talk-7"
+  - title: "serhat-can"
     type: talk
     date: 2018-09-13
     start_time: "10:40"
@@ -239,44 +244,76 @@ program:
     type: custom
     date: 2018-09-13
     start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-8"
-    type: talk
+    end_time: "11:15"
+  - title: "Talk: To Be Announced"
+    type: custom
     date: 2018-09-13
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:15"
+    end_time: "11:45"
   - title: "Lunch"
     type: custom
     date: 2018-09-13
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-09-13
     start_time: "13:00"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2018-09-13
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
+    date: 2018-09-13
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "oz-tiram"
+    type: talk
     date: 2018-09-13
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2018-09-13
     start_time: "15:00"
     end_time: "15:45"
+  - title: "florian-winkler"
+    type: talk
+    date: 2018-09-13
+    start_time: "15:00"
+    end_time: "15:45"     
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2018-09-13
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Closing"
+  - title: "manuel-stoessel"
+    type: talk
+    date: 2018-09-13
+    start_time: "16:00"
+    end_time: "16:45"    
+  - title: "Some closing words and saying good-bye"
     type: custom
     date: 2018-09-13
     start_time: "16:45"
     end_time: "17:00"
+ignites:
+  - title: "tomasz-tarcynski"
+    date: 2018-09-12
+  - title: "daiany-palacios"
+    date: 2018-09-13
+  - title: "schlomo-schapiro"
+    date: 2018-09-12
+  - title: "michael-huettermann"
+    date: 2018-09-12
+  - title: "toshaan-bharvani"
+    date: 2018-09-12
+  - title: "suresh-chandra-bose"
+    date: 2018-09-13
+  - title: "anders-bruvik"
+    date: 2018-09-12
+  - title: "daniel-maher"
+    date: 2018-09-13
