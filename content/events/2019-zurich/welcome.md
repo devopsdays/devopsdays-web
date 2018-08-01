@@ -9,8 +9,9 @@ Description = "DevOpsDays Zürich 2018"
 <!--
 <h3>{{< event_start >}} - {{< event_end >}}</h3>
 -->
+<!--
 <img src="/events/2018-zurich/logo.png" style="float:center"/>
-
+-->
 <strong>
   Harder, Better, Faster, Stronger. <br>Welcome to the third round of DevOpsDays 2019!
 </strong>
