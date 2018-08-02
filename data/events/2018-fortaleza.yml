@@ -143,6 +143,9 @@ sponsors:
     url: https://ibis.accorhotels.com/brasil/index.pt-br.shtml # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: f13
+    level: silver
+    url: https://www.f13.com.br/
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
