@@ -1,5 +1,5 @@
 +++
-Title = "Yulan Lin and Neeraj Tandoon"
+Title = "Yulan Lin and Neeraj Tandon"
 Twitter = "y3l2n"
 
 type = "speaker"
