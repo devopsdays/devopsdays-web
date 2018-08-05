@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "They Didn't Stop to Think if They Should: Machine Learning and the Internet of Unpatched Things"
 Type = "talk"
 Speakers = ["tim-gross"]
+youtube = "f0xVaipFlkE"
 +++
 
 Billions of edge computing devices have now been deployed in the so-called Internet of Things. And the combination of massive IoT data and machine learning promises to transform traditional industries like healthcare, manufacturing, and agriculture.
