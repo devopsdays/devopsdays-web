@@ -93,6 +93,29 @@ sponsor_levels:
   #  date: 2018-09-27
 
 program:
+  # Workshop day 1
+  - title: "Registration"
+    type: custom
+    date: 2018-09-26
+    start_time: "08:00"
+    end_time: "09:00"  
+  - title: "antonio-pigna-workshop-1"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"
+  - title: "scott-feinberg-workshop-1"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"
+  - title: "christina-aldan-workshop-1"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"       
+
+    
   # Day one
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
@@ -266,8 +289,8 @@ program:
     date: 2018-09-28
     start_time: "15:45"
     end_time: "16:15"
-  - title: "Open Space 3 + Masterclass/Talk 18"
-    type: custom
+  - title: "anton-babenko-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "16:20"
     end_time: "16:50"
@@ -286,6 +309,23 @@ program:
   #  date: 2018-09-28
   #  start_time: "17:15"
   #  end_time: "20:00"
+
+  # Workshop day 2
+  - title: "Registration"
+    type: custom
+    date: 2018-09-29
+    start_time: "08:00"
+    end_time: "09:00"  
+  - title: "anton-babenko-workshop-1"
+    type: workshop
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "17:00"
+  - title: "christina-aldan-workshop-2"
+    type: workshop
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "17:00"
 
 ignites:
   - title: "anton-arhipov-talk-1"

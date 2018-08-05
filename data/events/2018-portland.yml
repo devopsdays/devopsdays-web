@@ -116,7 +116,11 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: puppet
+    level: gold
   - id: kaizenops
+    level: silver
+  - id: overops
     level: silver
   - id: bitnami
     level: bronze
