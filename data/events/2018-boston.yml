@@ -146,14 +146,16 @@ sponsors:
     level: platinum
   - id: logz
     level: platinum
-  # - id: arresteddevops
-  #   level: community
-  # - id: microsoft
-  #   level: gold
-  # - id: 2016-onpage
-  #   level: gold
-  # - id: signifai
-  #   level: gold
+  - id: rundeck
+    level: gold
+  - id: cyberark
+    level: platinum
+  - id: slalom
+    level: gold
+  - id: circleci
+    level: gold
+  - id: catchpoint
+    level: gold
   # - id: treasuredata
   #   level: gold
   # - id: genians
@@ -175,8 +177,6 @@ sponsors:
   # - id: mabl
   #   level: gold
   # - id: turbinelabs
-  #   level: gold
-  # - id: cyberark
   #   level: gold
   # - id: pivotal
   #   level: gold
