@@ -5,18 +5,11 @@ aliases = ["/events/2018-newcastle/"]
 Description = "devopsdays Newcastle 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
 </div>
+
+<h2>{{< event_start >}} - {{< event_end >}}</h2>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -80,6 +73,8 @@ Description = "devopsdays Newcastle 2018"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
+
+<div style="font-weight: bolder; font-size: 125%">For more information visit our main site: <a href="https://devopsdaysnewy.org/">https://devopsdaysnewy.org/</a></div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--

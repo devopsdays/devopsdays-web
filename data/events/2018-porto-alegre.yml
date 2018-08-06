@@ -11,7 +11,7 @@ enddate: "2018-09-15"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2018-04-07"
-cfp_date_end: "2018-08-15"
+cfp_date_end: "2018-07-15"
 cfp_date_announce: "2018-08-01"
   
 cfp_open: "true"
@@ -110,6 +110,8 @@ sponsors:
     level: community
   - id: nodejs-porto-alegre
     level: community
+  - id: interop
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

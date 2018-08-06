@@ -37,6 +37,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: sponsor
+  - name: volunteer
+    icon: heart-o
   - name: contact
   - name: conduct
 # - name: example
@@ -93,6 +95,14 @@ team_members:
     linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
     github: "margaretvaltie"
     bio: "Margaret Valtierra is the Senior Marketing Specialist at Cohesive Networks.  She is responsible for growing Cohesive’s awareness through digital and written content creation, public relations, and community events. She organizes and leads the Chicago AWS user group. Previously, Margaret was VP of Operations at GreenPoint Partners, a sustainability consulting company for commercial real estate. At GreenPoint, Margaret managed the LEED building certification process for over 5 million square feet of commercial space and earned her LEED GA and LEED AP accreditations. Margaret has a BSM from Tulane University and is an AWS Certified Solutions Architect - Associate."
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
 
 organizer_email: "organizers-chicago-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-chicago-2018@devopsdays.org" # Put your proposal email address here
@@ -140,6 +150,10 @@ sponsors:
     level: gold
   - id: lightstep
     level: gold
+  - id: overops
+    level: gold
+  - id: morningstar
+    level: gold
   - id: influxdata
     level: silver
   - id: signal
@@ -167,6 +181,8 @@ sponsors:
   - id: corptax
     level: silver
   - id: cloudbolt
+    level: silver
+  - id: saucelabs
     level: silver
   - id: mongodb
     level: bronze
@@ -399,7 +415,7 @@ program:
     date: 2018-08-29
     start_time: "14:45"
     end_time: "15:30"
-  - title: "matty-stratton"
+  - title: "rachael-byrne"
     type: workshop
     date: 2018-08-29
     start_time: "14:45"
@@ -427,15 +443,15 @@ program:
 ignites:
   - title: "katie-prizy"
     date: 2018-08-28
-  - title: "heidi-waterhouse"
-    date: 2018-08-28
   - title: "emily-freeman"
     date: 2018-08-28
   - title: "martez-reed"
     date: 2018-08-28
   - title: "ken-mugrage"
     date: 2018-08-28
-  - title: "jay-gordon"
+  - title: "Ignite Karaoke!"
+    date: 2018-08-28
+  - title: "jeff-smith"
     date: 2018-08-29
   - title: "morgan-meredith"
     date: 2018-08-29
@@ -445,4 +461,3 @@ ignites:
     date: 2018-08-29
   - title: "Ignite Karaoke!"
     date: 2018-08-29
-    

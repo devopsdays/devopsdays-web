@@ -10,9 +10,9 @@ startdate:  2018-12-18
 enddate:  2018-12-19
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2018-07-01
+cfp_date_end:  2018-10-01
+cfp_date_announce:  2018-10-15
 
 cfp_open: "true"
 cfp_link: https://www.papercall.io/devopsdaystlv2018
@@ -97,6 +97,8 @@ sponsors:
     level: silver
   - id: singular
     level: silver
+  - id: appsflyer-2018
+    level: silver
   - id: facebook
     level: silver
   - id: elastic
@@ -141,11 +143,8 @@ sponsor_levels:
   - id: day2breakfast
     label: day 2 breakfast
     max: 1
-  - id: day1coffee
-    label: day 1 coffee
-    max: 1
-  - id: day2coffee
-    label: day 2 coffee
+  - id: coffee
+    label: coffee
     max: 1
   - id: day1happyhour
     label: Day 1 HappyHour

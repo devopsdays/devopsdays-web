@@ -80,12 +80,18 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: mesosphere
+    level: gold
+  - id: elastic
+    level: gold
   - id: datadog
     level: silver
   - id: sonatype
     level: silver
   - id: cerner
     level: silver
+  - id: ascensus
+    level: bronze
   - id: arresteddevops
     level: community
   - id: perfbytes

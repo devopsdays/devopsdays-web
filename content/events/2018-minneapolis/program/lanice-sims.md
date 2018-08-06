@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "From Intent to Impact"
 Type = "talk"
 Speakers = ["lanice-sims"]
+youtube = "gKLhiU8e9LE"
 +++
 
 Everyone wants the shiniest new tech tools. As we iteratively improve, we can see how flawed our existing environments are, which leads us to action. But are we really taking the time to understand why “devops” matters or what it means for us (since everyone has a definition or three)? Do we know what kind of future we’re building?

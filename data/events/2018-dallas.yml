@@ -106,8 +106,8 @@ team_members: # Name is the only required field for team members.
 #   image: "ben.jpg" 
   - name: "Carlos Nuñez"
     employer: "Organizer Role - CFP / Paper Review / Program Schedule"
-    role: "Contino"
-    bio: "Carlos is a Technical Principal at Contino which is a Global Enterprise DevOps and Cloud Transformation Consultancy company. His mission is to use the DevOps metholodogy and Agile delivery to enable every company in the Midwest and Southwest to be software-first tech companies through modern infrastructure, faster and safer software delivery and more transparent and influential IT organizations. <br><br>He's passionate about enabling faster, leaner businesses by breaking down silos between development, operations, marketing, sales and business development/operations. <br><br>On his off time, he enjoys road biking, working out, writing, visiting new breweries and doing badly at trivia."
+    role: "RoundTower Technologies, LLC"
+    bio: "Carlos is a Engineer at RoundTower Technologies, LLC which is a systems integrator that provides innovative solutions and services in the areas of data center infrastructure, converged platforms, cloud automation and orchestration, DevOps, and data analytics. His mission is to use the DevOps metholodogy and Agile delivery to enable every company in the Midwest and Southwest to be software-first tech companies through modern infrastructure, faster and safer software delivery and more transparent and influential IT organizations. <br><br>He's passionate about enabling faster, leaner businesses by breaking down silos between development, operations, marketing, sales and business development/operations. <br><br>Carlos is the Founder Organizer for HashiCorp Users Group of Dallas. On his off time, he enjoys road biking, working out, writing, visiting new breweries and doing badly at trivia."
     twitter: "easiestnameever"
     linkedin: "https://www.linkedin.com/in/carlosindfw/"
 #   facebook: ""
@@ -239,6 +239,16 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: capitalone
     level: location_and_diamond
+  - id: improving
+    level: b4con
+  - id: pagerduty
+    level: b4con
+  - id: chef
+    level: b4con
+  - id: rubrik
+    level: b4con
+  - id: dynatrace
+    level: b4con
   - id: arresteddevops
     level: community
   - id: devopslive
@@ -262,6 +272,8 @@ sponsor_levels:
   - id: location_and_diamond
     label: Location & Diamond
     max: 1
+  - id: leadership
+    label: Leadership Summit
   - id: b4con
     label: B4CON
     max: 20
