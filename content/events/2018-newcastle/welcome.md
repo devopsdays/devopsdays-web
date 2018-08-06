@@ -74,7 +74,7 @@ Description = "devopsdays Newcastle 2018"
   </div>
 </div>
 
-<div style="font-weight: bolder; font-size: 125%">For more information visit our principal site: <a href="https://devopsdaysnewy.org/">https://devopsdaysnewy.org/</a></div>
+<div style="font-weight: bolder; font-size: 125%">For more information visit our main site: <a href="https://devopsdaysnewy.org/">https://devopsdaysnewy.org/</a></div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
