@@ -95,7 +95,11 @@ sponsors:
     level: gold
   - id: 2016-pushpay
     level: gold
+  - id: 2016-oss
+    level: gold
   - id: flux
+    level: silver
+  - id: microsoftnzazure
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

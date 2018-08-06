@@ -112,7 +112,15 @@ sponsors:
     level: gold
   - id: sensu
     level: gold
+  - id: mesosphere
+    level: gold
+  - id: chef
+    level: gold
+  - id: puppet
+    level: gold
   - id: kaizenops
+    level: silver
+  - id: overops
     level: silver
   - id: bitnami
     level: bronze
@@ -334,6 +342,8 @@ ignites:
   - title: "maarika-krumhansl"
     date: 2018-09-12
   - title: "matthew-broberg"
+    date: 2018-09-12
+  - title: "david-laulusa"
     date: 2018-09-12
   - title: "aaron-aldrich"
     date: 2018-09-12

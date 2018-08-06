@@ -7,7 +7,7 @@ description: "DevOpsDays is coming back to Riga!"
 ga_tracking_id: UA-105774008-1
 
 #The image, relative to static/events/YYYY-CITY that you want to be the background of the header on your page.
-#masthead_background: ""
+masthead_background: "riga-cover-2018-medium.png"
 
 # All dates are in unquoted 2017-MM-DD, like this: variable: 2016-01-05
 startdate:  2018-09-27
@@ -93,6 +93,29 @@ sponsor_levels:
   #  date: 2018-09-27
 
 program:
+  # Workshop day 1
+  - title: "Registration"
+    type: custom
+    date: 2018-09-26
+    start_time: "08:00"
+    end_time: "09:00"  
+  - title: "antonio-pigna-workshop-1"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"
+  - title: "scott-feinberg-workshop-1"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"
+  - title: "christina-aldan-workshop-1"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"       
+
+    
   # Day one
   - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
@@ -109,8 +132,8 @@ program:
     date: 2018-09-27
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Talk 2 -"
-    type: custom
+  - title: "michiel-rook-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "10:05"
     end_time: "10:35"
@@ -124,8 +147,8 @@ program:
     date: 2018-09-27
     start_time: "11:10"
     end_time: "11:25"
-  - title: "Talk 4 -"
-    type: custom
+  - title: "scott-feinberg-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "11:25"
     end_time: "11:55"
@@ -139,13 +162,13 @@ program:
     date: 2018-09-27
     start_time: "12:30"
     end_time: "13:30"
-  - title: "Talk 6 -"
-    type: custom
+  - title: "heather-wilde-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Ignites x4"
-    type: custom
+  - title: "Ignites Day 1"
+    type: ignite
     date: 2018-09-27
     start_time: "14:05"
     end_time: "14:30"
@@ -169,8 +192,8 @@ program:
     date: 2018-09-27
     start_time: "15:45"
     end_time: "16:15"
-  - title: "Open Space 3 + Masterclass/Talk 9"
-    type: custom
+  - title: "andrew-martin-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "16:20"
     end_time: "16:50"
@@ -201,8 +224,8 @@ program:
     date: 2018-09-28
     start_time: "09:00"
     end_time: "09:30"
-  - title: "Talk 1 - Keynote day two"
-    type: custom
+  - title: "jon-hall-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "09:30"
     end_time: "10:00"
@@ -211,8 +234,8 @@ program:
     date: 2018-09-28
     start_time: "10:05"
     end_time: "10:35"
-  - title: "Talk 12 -"
-    type: custom
+  - title: "philipp-krenn-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "10:40"
     end_time: "11:10"
@@ -236,13 +259,13 @@ program:
     date: 2018-09-28
     start_time: "12:30"
     end_time: "13:30"
-  - title: "Talk 15 -"
-    type: custom
+  - title: "matty-stratton-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Ignites x4"
-    type: custom
+  - title: "Ignites Day 2"
+    type: ignite
     date: 2018-09-28
     start_time: "14:05"
     end_time: "14:30"
@@ -261,13 +284,13 @@ program:
     date: 2018-09-28
     start_time: "15:10"
     end_time: "15:40"
-  - title: "Open Space 2 + Masterclass/Talk 17"
-    type: custom
+  - title: "thiago-de-faria-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "15:45"
     end_time: "16:15"
-  - title: "Open Space 3 + Masterclass/Talk 18"
-    type: custom
+  - title: "anton-babenko-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "16:20"
     end_time: "16:50"
@@ -287,3 +310,37 @@ program:
   #  start_time: "17:15"
   #  end_time: "20:00"
 
+  # Workshop day 2
+  - title: "Registration"
+    type: custom
+    date: 2018-09-29
+    start_time: "08:00"
+    end_time: "09:00"  
+  - title: "anton-babenko-workshop-1"
+    type: workshop
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "17:00"
+  - title: "christina-aldan-workshop-2"
+    type: workshop
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "17:00"
+
+ignites:
+  - title: "anton-arhipov-talk-1"
+    date: 2018-09-27
+  - title: ""
+    date: 2018-09-27
+  - title: ""
+    date: 2018-09-27
+  - title: "antonio-pigna-talk-1"
+    date: 2018-09-27
+  - title: "christina-aldan-talk-1"
+    date: 2018-09-28
+  - title: "philipp-krenn-ignite-1"
+    date: 2018-09-28
+  - title: ""
+    date: 2018-09-28
+  - title: ""
+    date: 2018-09-28

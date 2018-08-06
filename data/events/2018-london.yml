@@ -84,6 +84,12 @@ sponsors:
     level: silver
   - id: opsview
     level: silver
+  - id: ticketmaster
+    level: silver
+  - id: datadog
+    level: silver
+  - id: altoros
+    level: silver
   - id: scalefactory
     level: silver
   - id: arresteddevops
@@ -147,7 +153,7 @@ program:
     date: 2018-09-20
     start_time: "11:25"
     end_time: "12:00"
-  - title: "velvet"
+  - title: "velvet-spors"
     type: talk
     date: 2018-09-20
     start_time: "12:00"

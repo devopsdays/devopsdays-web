@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "#causeascene"
 Type = "talk"
 Speakers = ["kim-crayton"]
+youtube = "dz--Gws3q3Y"
 +++
 
 #causeascene Alliance is a paid membership platform designed to help the tech community develop the knowledge and skills necessary for us to collectively shift the tide towards improving the experiences of all stakeholders:
