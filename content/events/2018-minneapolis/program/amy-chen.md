@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Iterative Technical Decisions"
+Title = "Iterative Technical Design"
 Type = "talk"
 Speakers = ["amy-chen"]
 slideshare = "https://www.slideshare.net/AmyChen62/iterative-technical-design"
