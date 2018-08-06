@@ -155,7 +155,12 @@ sponsors:
   - id: circleci
     level: gold
   - id: catchpoint
+    level: platinum
+  - id: elastic
+    level: platinum
+  - id: cloudbolt
     level: gold
+
   # - id: treasuredata
   #   level: gold
   # - id: genians
