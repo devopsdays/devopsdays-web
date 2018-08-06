@@ -6,7 +6,7 @@ Description = "Location for devopsdays Galway 2018"
 
 ### Event Location
 
-Devopsdays Galway 2018 will be held at <a href="https://www.thegalmont.com/" target="_blank">Galmont Hotel</a>(formerly Radisson Blu Galway), using the Inis Mor Ballroom on the ground floor for the conference. The Galmon Hotel & Spa is ideally located near the centre of Galway City, also known as the "City of the Tribes", only a few minutes walk from the train and bus stations.
+Devopsdays Galway 2018 will be held at <a href="https://www.thegalmont.com/" target="_blank">Galmont Hotel</a>(formerly Radisson Blu Galway), using the Inis Mor Ballroom on the ground floor for the conference. The Galmont Hotel & Spa is ideally located near the centre of Galway City, also known as the "City of the Tribes", only a few minutes walk from the train and bus stations.
 
 <div style="width: 550px; padding-bottom: 5px; margin: 0 auto;">
 {{< event_map >}}

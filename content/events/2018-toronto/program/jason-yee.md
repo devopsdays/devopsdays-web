@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "DevOps: The Next Generation"
 Type = "talk"
 Speakers = ["jason-yee", "rachel-lo", "elijah-andrews"]
+youtube = "oNqd3I4sjjY"
 +++
 
 We often talk about knocking down the silos and spreading DevOps culture at DevOpsDays, but it’s typically within the context of experienced engineers and developers. Unfortunately, the role of mentorship in DevOps and spreading DevOps culture to students and recent grads is often overlooked.

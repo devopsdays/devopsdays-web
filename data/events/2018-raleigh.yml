@@ -103,7 +103,19 @@ sponsors:
     level: platinum
   - id: datadog
     level: gold
-
+  - id: redgate
+    level: gold
+  - id: redhat
+    level: platinum
+  - id: servicenow
+    level: gold
+  - id: chef
+    level: platinum
+  - id: mesosphere
+    level: platinum
+  - id: forty8fifty-labs
+    level: platinum
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -111,13 +123,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     # max: 0 # This is the same as omitting the max limit.
-  - id: platinum
-    label: Platinum
   - id: community
     label: Community

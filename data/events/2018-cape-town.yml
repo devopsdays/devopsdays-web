@@ -56,13 +56,7 @@ team_members:
     linkedin: "https://www.linkedin.com/in/cobusbernard/"
     facebook: "https://www.facebook.com/cobusbernard"
     website: "http://cobus.io/"
-    bio: "Cobus is currently working with HealthQ Technologies and Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
-  - name: "Julia Quickfall"
-    image: "julia-quickfall.jpg"
-    employer: "Kurtosys Systems"
-    twitter: "julesquickfall"
-    linkedin: "https://www.linkedin.com/in/julia-quickfall-87382537/"
-    bio: "Julia is an Associate Product Manager at Kurtosys Systems. She got lured into the DevOps scene by hanging with the right people. She ensures that DevOpsDays looks good by taking care of design."
+    bio: "Cobus is currently working with Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
   - name: "Tom Bamford"
     image: "tom-bamford.jpg"
     employer: "@planet"
@@ -79,8 +73,14 @@ sponsors:
   - id: offerzen
     level: gold
     url: https://bit.ly/2L0JaOk
+  - id: equalexperts
+    level: gold
+  - id: luno
+    level: basic
   - id: arresteddevops
     level: community
+#   - id: 
+#     level: 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

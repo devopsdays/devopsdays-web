@@ -3,7 +3,7 @@ year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Porto Alegre" # The displayed city name of the event. Capitalize it.
 event_twitter: "poadevopsday" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "a vida é muito curta pra trabalho manual"
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-85374985-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: "2018-09-15"
@@ -11,7 +11,7 @@ enddate: "2018-09-15"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2018-04-07"
-cfp_date_end: "2018-07-01"
+cfp_date_end: "2018-07-15"
 cfp_date_announce: "2018-08-01"
   
 cfp_open: "true"
@@ -36,8 +36,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: poa.devopsdays.com.br
 #    url: http://poa.devopsdays.com.br/
 #    icon: "sitemap"
-#  - name: Informações
-#    icon: "map-o"
 #    url: http://poa.devopsdays.com.br/#informacoes
 #  - name: Palestrantes
 #    icon: "microphone"
@@ -54,9 +52,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-porto-alegre/conduta
-#  - name: Inscreva-se
-#    icon: "user-plus"
-#    url: http://poa.devopsdays.com.br/#ingressos
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: https://devopsdayspoa2018.eventize.com.br/index.php?pagina=4
   - name: Patrocinio
     icon: "money"
     url: /events/2018-porto-alegre/sponsor
@@ -80,8 +78,7 @@ team_members: # Name is the only required field for team members.
   - name: "Rafael Gomes"
     employer: ""
     twitter: "gomex"
-    bio: ""
-
+    bio: "Soteropolitano, hacker urbano, pai, consultor de infraestrutura e amante da cidade, formado na Universidade de Salvador no curso de Gestão de Redes.</br>Trabalho atualmente como especialista focado em infraestrutura como código, cultura devops e cloud.</br>Docker Captain: https://www.docker.com/community/docker-captains</br>Autor do livro \"Docker para desenvolvedores\": https://leanpub.com/dockerparadesenvolvedores"
   - name: "Guilherme Elias"
     employer: ""
     twitter: "guilhermelias"
@@ -100,6 +97,42 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-porto-alegre-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-porto-alegre-2018@devopsdays.org" # Put your proposal email address here
 
+sponsors:
+  - id: arresteddevops
+    level: community
+  - id: umbler
+    level: bronze
+  - id: afropython
+    level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: nodegirlscode
+    level: community
+  - id: nodejs-porto-alegre
+    level: community
+  - id: interop
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 1
+#    - id: happy_hour
+#    label: Happy Hour
+#    max: 1
+  - id: gold
+    label: Ouro
+    max: 2
+  - id: silver
+    label: Prata
+    max: 3
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Comunidade

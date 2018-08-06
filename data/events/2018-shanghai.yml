@@ -17,23 +17,23 @@ cfp_date_announce: 2018-05-18  # inform proposers of status
 cfp_open: "true"
 cfp_link: "http://exinchina.mikecrm.com/EvmFYHo" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-06-10 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-08-17 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://msite.31huiyi.com/m/1367934413?lc=1&sui=0WNauKvp" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Xinrong Wyndham Hotels, Shanghai" # Defaults to city, but you can make it the venue name.
+location: "The Longemont Hotel Shanghai" # Defaults to city, but you can make it the venue name.
 #
-location_address: "No.25 Ningguo Road, Yangpu, Shanghai" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "No.1116 West Yan An Road, Shanghai, China" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -89,7 +89,7 @@ proposal_email: "proposals-shanghai-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: alauda
+  - id: redhat
     level: gold
   - id: jfrogcn
     level: gold
@@ -97,6 +97,10 @@ sponsors:
   - id: huawei
     level: gold
     url: https://www.huaweicloud.com/devcloud/
+  - id: canwayit
+    level: gold
+  - id: cloudtogo
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: ibestpractice
     level: co-org

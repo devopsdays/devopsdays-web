@@ -14,7 +14,7 @@ cfp_date_start:  2018-04-27 # start accepting talk proposals.
 cfp_date_end: 2018-06-13 # close your call for proposals.
 cfp_date_announce: 2018-07-01 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-05-22 # start accepting registration. Leave blank if registration is not open yet
@@ -34,8 +34,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -76,9 +76,19 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: appdynamics
+    level: gold
   - id: chef
     level: gold
   - id: elastic
+    level: silver
+  - id: opsview
+    level: silver
+  - id: ticketmaster
+    level: silver
+  - id: datadog
+    level: silver
+  - id: altoros
     level: silver
   - id: scalefactory
     level: silver
@@ -110,3 +120,123 @@ sponsor_levels:
   - id: community
     label: Community
     max: 20
+
+program:
+# day 1
+  - title: "Breakfast"
+    type: custom
+    date: 2018-09-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Welcome"
+    type: custom
+    date: 2018-09-20
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "jeff-sussna"
+    type: talk
+    date: 2018-09-20
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "kate-whalen"
+    type: talk
+    date: 2018-09-20
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "Break"
+    type: custom
+    date: 2018-09-20
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "euan-finlay"
+    type: talk
+    date: 2018-09-20
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "velvet-spors"
+    type: talk
+    date: 2018-09-20
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2018-09-20
+    start_time: "12:35"
+    end_time: "13:05"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-20
+    start_time: "13:05"
+    end_time: "14:05"
+  - title: "Open Spaces Day 1"
+    type: open-space
+    date: 2018-09-20
+    start_time: "14:05"
+    end_time: "17:00"
+
+# # day 2
+  - title: "Breakfast"
+    type: custom
+    date: 2018-09-21
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "emma-button"
+    type: talk
+    date: 2018-09-21
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "ramez-hanna"
+    type: talk
+    date: 2018-09-21
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "Break"
+    type: custom
+    date: 2018-09-21
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "denise-yu"
+    type: talk
+    date: 2018-09-21
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "damon-edwards"
+    type: talk
+    date: 2018-09-21
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2018-09-21
+    start_time: "12:35"
+    end_time: "13:05"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-21
+    start_time: "13:05"
+    end_time: "14:05"
+  - title: "Open Spaces Day 2"
+    type: open-space
+    date: 2018-09-21
+    start_time: "14:05"
+    end_time: "17:00"
+
+ignites:
+  - title: "markos-rendell"
+    date: 2018-09-20
+  - title: "alexandra-moore"
+    date: 2018-09-20
+  - title: "tomasz-tarczynski"
+    date: 2018-09-20
+  - title: "matt-turner"
+    date: 2018-09-20
+  - title: "jamie-tanna"
+    date: 2018-09-20
+  - title: "andrew-bean"
+    date: 2018-09-21
+  - title: "louise-paling"
+    date: 2018-09-21
+  - title: "philipp-krenn"
+    date: 2018-09-21
+  - title: "richard-marshall"
+    date: 2018-09-21

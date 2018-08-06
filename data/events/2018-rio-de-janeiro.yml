@@ -2,20 +2,22 @@ name: "2018-rio-de-janeiro" # The name of the event. Four digit year with the ci
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Rio de Janeiro" # The displayed city name of the event. Capitalize it.
 event_twitter: "rj_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Rio de Janeiro!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+description: "Pela primeira vez no Rio de Janeiro - DevOpsDays - A Conferência que integra os profissionais de tecnologia!" # Edit this to suit your preferences
+ga_tracking_id: "UA-123371280-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-11-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-11-10 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: #2018-08-13 # start accepting talk proposals.
+cfp_date_end: #2018-09-13 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "rjwide.png"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -24,24 +26,32 @@ registration_closed: "" #set this to true if you need to manually close registra
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
-#
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Rio de Janeiro" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-22.8975426, -43.1824625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro de Convenções RB1"
+location_address: "Av. Rio Branco, 01 - Praça Mauá - Rio de Janeiro (Acesso pelo elevador panorâmico)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: Local
+    icon: "map-o"
+    url: /events/2018-rio-de-janeiro/local
+#  - name: Palestre (CFP)
+#    icon: "microphone"
+#    url:
+#  - name: Inscreva-se
+#    icon: "user-plus"
+#    url:
+#  - name: Programação
+#    icon: "book"
+#    url:
+  - name: Patrocínio
+    icon: "money"
+    url: /events/2018-rio-de-janeiro/patrocinio
+  - name: Código de Conduta
+    icon: "handshake-o"
+    url: /events/2018-rio-de-janeiro/conduta
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2018-rio-de-janeiro/contato
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -72,17 +82,29 @@ team_members: # Name is the only required field for team members.
     employer: "Microsoft"
     linkedin: "https://www.linkedin.com/in/rmmartins"   
     image: "ricardo-martins.jpg"     
-organizer_email: "organizers-rj-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-rj-2018@devopsdays.org" # Put your proposal email address here
+organizer_email: "organizers-riodejaneiro-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-riodejaneiro-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-  - id: arresteddevops
+  - id: compkids
+    level: familyops
+  - id: bitlu
+    level: familyops
+  - id: promove
+    level: bronze    
+  - id: 4linux
+    level: bronze        
+  - id: dynatrace
+    level: gold     
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: alura
+    level: learning    
+  - id: imasters
     level: community
+  - id: kinghost
+    level: gifts    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -91,13 +113,28 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platina
+  - id: happy_hour
+    label: Happy Hour
+    max: 1
+  - id: familyops
+    label: FamilyOps 
+  - id: host
+    label: Host
+    max: 1 
+  - id: coffee
+    label: Coffee
+    max: 3         
   - id: gold
-    label: Gold
-#    max: 10
+    label: Ouro
   - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    label: Prata
   - id: bronze
     label: Bronze
+  - id: learning
+    label: Continuous Learning
+  - id: gifts
+    label: Gifts       
   - id: community
-    label: Community
+    label: Comunidade

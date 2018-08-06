@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -85,12 +85,22 @@ proposal_email: "proposals-wellington-2018@devopsdays.org" # Put your proposal e
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: samplesponsorname
-#     level: gold
-#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: arresteddevops
-#     level: community
+# url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+sponsors:
+  - id: 2016-bnz
+    level: platinum
+  - id: assurity
+    level: gold
+  - id: integrationqa
+    level: gold
+  - id: 2016-pushpay
+    level: gold
+  - id: 2016-oss
+    level: gold
+  - id: flux
+    level: silver
+  - id: microsoftnzazure
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

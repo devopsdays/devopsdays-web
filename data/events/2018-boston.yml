@@ -13,7 +13,7 @@ cfp_date_start: 2018-04-02  # start accepting talk proposals.
 cfp_date_end: 2018-06-22 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: ""
 
 registration_open: "true"
@@ -33,8 +33,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: location
     icon: "pencil"
-  # - name: program
-  #   icon: "book"
+  - name: program
+    icon: "book"
   # - name: speakers
   #   icon: "microphone"
   - name: contact
@@ -128,16 +128,34 @@ sponsors:
     level: platinum
   - id: datadog
     level: gold
-  # - id: samplesponsorname
-  #   level: gold
-  # - id: arresteddevops
-  #   level: community
-  # - id: microsoft
-  #   level: gold
-  # - id: 2016-onpage
-  #   level: gold
-  # - id: signifai
-  #   level: gold
+  - id: threatstack
+    level: platinum
+  - id: cloudzero
+    level: platinum
+  - id: sensu
+    level: platinum
+  - id: instana
+    level: platinum
+  - id: dynatrace
+    level: gold
+  - id: opsview
+    level: platinum
+  - id: everbridge
+    level: platinum
+  - id: puppet
+    level: platinum
+  - id: logz
+    level: platinum
+  - id: rundeck
+    level: gold
+  - id: cyberark
+    level: platinum
+  - id: slalom
+    level: gold
+  - id: circleci
+    level: gold
+  - id: catchpoint
+    level: gold
   # - id: treasuredata
   #   level: gold
   # - id: genians
@@ -156,22 +174,14 @@ sponsors:
   #   level: gold
   # - id: nutanix
   #   level: gold
-  # - id: instana
-  #   level: gold
   # - id: mabl
   #   level: gold
   # - id: turbinelabs
-  #   level: gold
-  # - id: threatstack
-  #   level: platinum
-  # - id: cyberark
   #   level: gold
   # - id: pivotal
   #   level: gold
   # - id: herzum
   #   level: gold
-  # - id: logz
-  #   level: platinum
   # - id: victorops
   #   level: platinum
   # - id: influxdata
@@ -195,206 +205,244 @@ sponsor_levels:
   - id: gold
     label: Gold
   
-  - id: community
-    label: Community
+  # - id: community
+  #   label: Community
 
     
-# program:
-  # - title: "Registration, Breakfast, Sponsors"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "08:00"
-  #   end_time: "09:00"
-  # - title: "Opening Welcome"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "09:00"
-  #   end_time: "09:10"
-  # - title: "rob-cummings"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "09:10"
-  #   end_time: "09:45"
-  # - title: "tobias-macey"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "09:50"
-  #   end_time: "10:30"
-  # - title: "chloe-condon"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "09:50"
-  #   end_time: "10:30"
-  # - title: "Break"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "10:30"
-  #   end_time: "10:40"
-  # - title: "matthew-boeckman"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "10:40"
-  #   end_time: "11:15"
-  # - title: "corey-quinn"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "10:40"
-  #   end_time: "11:15"
-  # - title: "franklin-mosley"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "11:20"
-  #   end_time: "11:55"
-  # - title: "tom-mclaughlin"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "11:20"
-  #   end_time: "11:55"
-  # - title: "Lunch"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "11:50"
-  #   end_time: "13:00"
-  # - title: "david-n-blankedelman"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "12:57"
-  #   end_time: "13:15"
-  # - title: "ben-hagen"
-  #   type: talk
-  #   date: 2018-09-18
-  #   start_time: "13:15"
-  #   end_time: "14:05"
-  # - title: "Break"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "14:00"
-  #   end_time: "14:15"
-  # - title: "alizishaan-khatri"
-  #   type: workshop
-  #   date: 2018-09-18
-  #   start_time: "14:15"
-  #   end_time: "15:15"
-  # - title: "Open Space #1"
-  #   type: open-space
-  #   date: 2018-09-18
-  #   start_time: "14:15"
-  #   end_time: "15:15"
-  # - title: "Open Space #2"
-  #   type: open-space
-  #   date: 2018-09-18
-  #   start_time: "15:15"
-  #   end_time: "15:45"
-  # - title: "flynn"
-  #   type: workshop
-  #   date: 2018-09-18
-  #   start_time: "15:45"
-  #   end_time: "16:45"
-  # - title: "Open Space #3"
-  #   type: open-space
-  #   date: 2018-09-18
-  #   start_time: "16:00"
-  #   end_time: "16:45"
-  # - title: "Day One Wrap Up"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "16:45"
-  #   end_time: "17:00"
-  # - title: "Evening Event"
-  #   type: custom
-  #   date: 2018-09-18
-  #   start_time: "17:00"
-  #   end_time: "late"
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-09-24
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "katy-farmer"
+    type: talk
+    date: 2018-09-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "anton-gurov"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "tobias-macey"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-09-24
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "erik-peterson"
+    type: talk
+    date: 2018-09-24
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "jane-prusakova"
+    type: talk
+    date: 2018-09-24
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-24
+    start_time: "11:45"
+    end_time: "12:45"
+  - title: "Open Spaces Intro"
+    type: custom
+    date: 2018-09-24
+    start_time: "13:00"
+    end_time: "13:15"
+  - title: "tim-hartmann"
+    type: workshop
+    date: 2018-09-24
+    start_time: "13:00"
+    end_time: "15:00"
+  - title: "matt-surabian"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "yulan-lin"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "steve-pember"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "pete-cheslock"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Break"
+    type: custom
+    date: 2018-09-24
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "alicia-davis"
+    type: talk
+    date: 2018-09-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "david-danzilio"
+    type: talk
+    date: 2018-09-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2018-09-24
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Open Spaces 1"
+    type: open-space
+    date: 2018-09-24
+    start_time: "15:00"
+    end_time: "16:00"
+  - title: "Open Spaces 2"
+    type: open-space
+    date: 2018-09-24
+    start_time: "16:00"
+    end_time: "17:00"
+  - title: "Day One Wrap Up"
+    type: custom
+    date: 2018-09-24
+    start_time: "17:00"
+    end_time: "17:15"
   
-
-  # - title: "Registration, Breakfast, Sponsors"
-  #   type: custom
-  #   date: 2018-09-19
-  #   start_time: "08:00"
-  #   end_time: "09:00"
-  # - title: "Introduction"
-  #   type: custom
-  #   date: 2018-09-19
-  #   start_time: "09:00"
-  #   end_time: "09:10"
-  # - title: "yulan-lin"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "09:10"
-  #   end_time: "09:45"
-  # - title: "leon-fayer"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "09:53"
-  #   end_time: "10:30"
-  # - title: "adam-kaufman"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "09:53"
-  #   end_time: "10:30"
-  # - title: "Break"
-  #   type: custom
-  #   date: 2018-09-19
-  #   start_time: "10:30"
-  #   end_time: "10:40"
-  # - title: "rachael-byrne"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "10:40"
-  #   end_time: "11:15"
-  # - title: "ed-rousseau"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "10:40"
-  #   end_time: "11:15"
-  # - title: "michael-sacks"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "11:20"
-  #   end_time: "11:55"
-  # - title: "john-sawers"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "11:20"
-  #   end_time: "11:55"
-  # - title: "Lunch"
-  #   type: custom
-  #   date: 2018-09-19
-  #   start_time: "11:55"
-  #   end_time: "13:00"
-  # - title: "karen-fiumara"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "13:00"
-  #   end_time: "13:35"
-  # - title: "richard-li"
-  #   type: workshop
-  #   date: 2018-09-19
-  #   start_time: "13:50"
-  #   end_time: "14:50"
-  # - title: "Open Space #1"
-  #   type: open-space
-  #   date: 2018-09-19
-  #   start_time: "13:50"
-  #   end_time: "14:50"
-  # - title: "Open Space #2"
-  #   type: open-space
-  #   date: 2018-09-19
-  #   start_time: "14:50"
-  #   end_time: "15:35"
-  # - title: "Open Space #3"
-  #   type: open-space
-  #   date: 2018-09-19
-  #   start_time: "15:35"
-  #   end_time: "16:35"
-  # - title: "phil-lombardi"
-  #   type: talk
-  #   date: 2018-09-19
-  #   start_time: "15:35"
-  #   end_time: "16:35"
-  # - title: "Event Wrap Up"
-  #   type: custom
-  #   date: 2018-09-19
-  #   start_time: "16:35"
-  #   end_time: "17:00"
-
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-09-25
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "james-meickle"
+    type: talk
+    date: 2018-09-25
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-09-25
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "sarah-zelechoski"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "flynn"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "timothy-bonci"
+    type: talk
+    date: 2018-09-25
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "paul-bruce"
+    type: talk
+    date: 2018-09-25
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-25
+    start_time: "11:45"
+    end_time: "12:45"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2018-09-25
+    start_time: "13:00"
+    end_time: "15:00"
+  - title: "yegor-bugayenko"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "austen-novis"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "matty-stratton"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "oleg-chunikhin"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Break"
+    type: custom
+    date: 2018-09-25
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "speakera12"
+    type: talk
+    date: 2018-09-25
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "leena-s-n"
+    type: talk
+    date: 2018-09-25
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "garima-sharma"
+    type: workshop
+    date: 2018-09-25
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Open Spaces 3"
+    type: open-space
+    date: 2018-09-25
+    start_time: "15:00"
+    end_time: "16:00"
+  - title: "Open Spaces 4"
+    type: open-space
+    date: 2018-09-25
+    start_time: "16:00"
+    end_time: "17:00"
+  - title: "Day Two Wrap Up"
+    type: custom
+    date: 2018-09-25
+    start_time: "17:00"
+    end_time: "17:15"

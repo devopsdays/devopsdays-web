@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Breaking the Boundaries"
 Type = "talk"
 Speakers = ["rafael-pereira-de-lima"]
+youtube = "3NDYuff8XSY"
+slideshare = "https://www.slideshare.net/rafalima07/quebrando-as-barreiras-devops"
+slides = ""
 +++
 
 Nowadays is common to have discussions on how a software can be developed and deployed in a shorter amount of time and with better quality. Unfortunately, it is also common to have at least three separate teams to accomplish that, a dev team, a QA team and an OPS team. This is not agile and it is common that the QA team is either testing or automating an artifact that it is already developed or even deployed to production. It is also common the need to open a ticket for the OPS team to deploy the application.
