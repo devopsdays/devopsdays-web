@@ -2,6 +2,7 @@
 Title = "Patrocínio/Sponsor"
 Type = "event"
 Description = "Patrocine o devopsdays Rio de Janeiro 2018"
+aliases = ["/events/2018-rio-de-janeiro/sponsor"]
 +++
 
 <hr/>

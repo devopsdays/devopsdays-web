@@ -31,21 +31,27 @@ location: "Centro de Convenções RB1"
 location_address: "Av. Rio Branco, 01 - Praça Mauá - Rio de Janeiro (Acesso pelo elevador panorâmico)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-  - name: local
-    icon: "map-o"  
- # - name: registration
- # - name: program
- # - name: speakers
-  - name: patrocínio (sponsor)
-    url: /events/2018-rio-de-janeiro/sponsor  
-  - name: contacto (contact)
-    url: /events/2018-rio-de-janeiro/contact 
-  - name: código de conduta (conduct)
-    url: /events/2018-rio-de-janeiro/conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: Local
+    icon: "map-o"
+    url: /events/2018-rio-de-janeiro/local
+#  - name: Palestre (CFP)
+#    icon: "microphone"
+#    url:
+#  - name: Inscreva-se
+#    icon: "user-plus"
+#    url:
+#  - name: Programação
+#    icon: "book"
+#    url:
+  - name: Patrocínio
+    icon: "money"
+    url: /events/2018-rio-de-janeiro/patrocinio
+  - name: Código de Conduta
+    icon: "handshake-o"
+    url: /events/2018-rio-de-janeiro/conduta
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2018-rio-de-janeiro/contato
 
 
 # These are the same people you have on the mailing list and Slack channel.

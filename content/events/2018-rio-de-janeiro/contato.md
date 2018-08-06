@@ -2,9 +2,10 @@
 Title = "Contact"
 Type = "event"
 Description = "Contact information for devopsdays Rio de Janeiro 2018"
+aliases = ["/events/2018-rio-de-janeiro/contact"]
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Se você quiser entrar em contato conosco: {{< email_organizers >}}
 
 **Our local team**
 
