@@ -29,4 +29,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> visit <a href='https://www.papercall.io/2018-devopsdaysnewy'>www.papercall.io/2018-devopsdaysnewy</a>
+<strong>How to submit a proposal:</strong> visit <a href="https://www.papercall.io/2018-devopsdaysnewy">www.papercall.io/2018-devopsdaysnewy</a>
