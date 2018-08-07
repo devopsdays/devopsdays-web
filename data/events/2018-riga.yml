@@ -127,8 +127,8 @@ program:
     date: 2018-09-27
     start_time: "09:00"
     end_time: "09:30"
-  - title: "Talk 1 - Keynote day one"
-    type: custom
+  - title: "ken-mugrage-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "09:30"
     end_time: "10:00"
@@ -137,8 +137,8 @@ program:
     date: 2018-09-27
     start_time: "10:05"
     end_time: "10:35"
-  - title: "Talk 3 -"
-    type: custom
+  - title: "renee-lung-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "10:40"
     end_time: "11:10"
@@ -152,8 +152,8 @@ program:
     date: 2018-09-27
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Talk 5 -"
-    type: custom
+  - title: "jan-de-vries-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "12:00"
     end_time: "12:30"
@@ -182,13 +182,13 @@ program:
     date: 2018-09-27
     start_time: "14:50"
     end_time: "15:10"
-  - title: "Open Space 1 + Masterclass/Talk 7"
-    type: custom
+  - title: "karen-cohen-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "15:10"
     end_time: "15:40"
-  - title: "Open Space 2 + Masterclass/Talk 8"
-    type: custom
+  - title: "joep-piscaer-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "15:45"
     end_time: "16:15"
@@ -229,8 +229,8 @@ program:
     date: 2018-09-28
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Talk 11 -"
-    type: custom
+  - title: "neil-crawford-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "10:05"
     end_time: "10:35"
@@ -244,13 +244,13 @@ program:
     date: 2018-09-28
     start_time: "11:10"
     end_time: "11:25"
-  - title: "Talk 13 -"
-    type: custom
+  - title: "stas-zvinyatskovsky-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Talk 14 -"
-    type: custom
+  - title: "andrey-adamovich-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "12:00"
     end_time: "12:30"
@@ -342,5 +342,5 @@ ignites:
     date: 2018-09-28
   - title: ""
     date: 2018-09-28
-  - title: ""
+  - title: "jorge-hidalgo-ignite-1"
     date: 2018-09-28
