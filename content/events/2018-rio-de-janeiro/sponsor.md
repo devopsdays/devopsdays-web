@@ -119,7 +119,7 @@ Aproximadamente 200 profissionais de tecnologia irão participar do evento. Esta
           <tr>
             <th scope="row">Estande (mesa)</th>
             <td><center>-</center></td>
-            <td><center>-</center></td>
+            <td><center>Compartilhado</center></td>
             <td><center>Exclusivo</center></td>
             <td><center>Exclusivo</center></td>
             <td><center>Compartilhado</center></td>
