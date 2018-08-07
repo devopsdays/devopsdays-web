@@ -7,5 +7,6 @@ linktitle = "kelly-winzer"
 
 +++
 
-Tech Advocate Extrodinaire
+Tech Advocate Extraordinaire
+
 Kelly is the Program Director at LaunchCode KC, where she works to connect people of all backgrounds with jobs in tech. 

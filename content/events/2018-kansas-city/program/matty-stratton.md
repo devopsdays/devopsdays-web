@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Can a DevOps culture help avoid burnout?"
+Title = "The Four Agreements of Incident Response"
 Type = "talk"
 Speakers = ["matty-stratton"]
 +++

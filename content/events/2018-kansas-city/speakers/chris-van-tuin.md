@@ -1,9 +1,9 @@
 +++
 Title = "Chris Van Tuin"
 Twitter = "chrisvantuin"
-image = "chris-vantuin.jpg"
+image = "chris-van-tuin.jpg"
 type = "speaker"
-linktitle = "chris-vantuin"
+linktitle = "chris-van-tuin"
 
 +++
 

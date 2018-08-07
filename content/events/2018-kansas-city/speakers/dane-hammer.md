@@ -1,7 +1,7 @@
 +++
 Title = "Dane Hammer"
 Twitter = "devops_hobo"
-image = "dane-hammer.jpg"
+image = "dane-hammer.png"
 type = "speaker"
 linktitle = "dane-hammer"
 
