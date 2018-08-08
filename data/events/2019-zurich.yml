@@ -118,10 +118,12 @@ proposal_email: "organizers-zurich-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-
+- id: jazoon
+  level: community
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-
+- id: community
+  label: Community
 program:
 
 ignites:
