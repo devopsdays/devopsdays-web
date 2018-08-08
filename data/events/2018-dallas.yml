@@ -39,10 +39,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "paper-plane"
   - name: registration
     icon: "pencil"
-  - name: speakers
-    icon: bullhorn
   - name: program
     icon: "calendar-alt"
+  - name: speakers
+    icon: bullhorn
   - name: sponsor
     icon: "hand-holding-usd"
   - name: contact
