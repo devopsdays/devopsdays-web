@@ -89,6 +89,12 @@ team_members: # Name is the only required field for team members.
     image: "michaelbio.jpg"
   - name: "Jason Wolanyk"
     linkedin: https://www.linkedin.com/in/jasonwolanyk/
+
+  - name: "Hannah Klemme"
+    twitter: "msklemme"
+    linkedin: "https://www.linkedin.com/in/hannahklemme/"
+    bio: "Hannah is the Marketing Programs Manager at Threat Stack Inc, where she focuses on building and developing a programs that support the DevOps and security community. When she's not at work, you can find her outdoors hiking, running, playing soccer or reading one of her favorite non-fiction books."
+    image: "hannaklemme.jpg"
   # Asst. organizers: TBD if we can separate out
 
   - name: "Dave Fredricks"
