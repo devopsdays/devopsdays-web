@@ -1,7 +1,7 @@
 +++
 Title = "Aaron Aldrich"
 Twitter = "crayzeigh"
-
+image="aaron-aldrich.jpg"
 type = "speaker"
 website = "http://crayzeigh.com/"
 +++
