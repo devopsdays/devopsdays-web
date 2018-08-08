@@ -43,7 +43,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 </div>
 
 In addition to the above sponsorship packages, DevOpsDays Galway 2018 is open to focused sponsorship of items such as lanyards, accessibility services, morning break snacks, lunch, tea break snacks, and evening social event, which will be appropriately recognised on signage.<br/>
-Send email to {{ < email_organizers >}}
+Send email to {{< email_organizers >}}
 <br/>
 
 ### Community - €0
