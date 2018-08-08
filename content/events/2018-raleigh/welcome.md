@@ -9,6 +9,11 @@ Description = "devopsdays Raleigh 2018"
   {{< event_logo >}}
 </div> -->
 
+<strong>Join Us at the Happy Hour sponsored by Sonatype </strong>
+[Happy Hour RSVP HERE!](https://www.sonatype.com/us/devopsdays-raleigh) 
+(Note: First and Last Name required for Happy Hour capacity planning only.) 
+
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -63,7 +68,7 @@ Description = "devopsdays Raleigh 2018"
   </div>
 </div> -->
 
-Join Us at the Happy Hour sponsored by Sonatype [RSVP HERE!](https://www.sonatype.com/us/devopsdays-raleigh) (Note: First and Last Name required for Happy Hour capacity planning only.) 
+
 
 <div class = "row">
   <div class = "col-md-2">
