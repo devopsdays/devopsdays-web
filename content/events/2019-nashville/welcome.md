@@ -1,18 +1,13 @@
 +++
-Title = "devopsdays Raleigh 2018"
+Title = "devopsdays nashville 2019"
 Type = "welcome"
-aliases = ["/events/2018-raleigh"]
-Description = "devopsdays Raleigh 2018"
+aliases = ["/events/2019-nashville/"]
+Description = "devopsdays nashville 2019"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
-
-<strong>Join Us at the Happy Hour sponsored by Sonatype </strong>
-[Happy Hour RSVP HERE!](https://www.sonatype.com/us/devopsdays-raleigh) 
-(Note: First and Last Name required for Happy Hour capacity planning only.) 
-
 
 <div class = "row">
   <div class = "col-md-2">
@@ -23,23 +18,23 @@ Description = "devopsdays Raleigh 2018"
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -50,14 +45,14 @@ Description = "devopsdays Raleigh 2018"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -67,8 +62,6 @@ Description = "devopsdays Raleigh 2018"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-
 
 <div class = "row">
   <div class = "col-md-2">
@@ -88,6 +81,7 @@ Description = "devopsdays Raleigh 2018"
   </div>
 </div>
 
-
+<!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
-
+-->
