@@ -1,7 +1,7 @@
 +++
 Title = "Flynn"
 Twitter = "_flynn"
-
+image="flynn.jpg"
 type = "speaker"
 +++
 
