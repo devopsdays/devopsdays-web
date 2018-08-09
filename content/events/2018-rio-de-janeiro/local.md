@@ -2,6 +2,7 @@
 Title = "Local"
 Type = "event"
 Description = "O DevOpsDays Rio de Janeiro 2018 vai acontecer no Centro de Convenções RB1."
+aliases = ["/events/2018-rio-de-janeiro/location"]
 +++
 
 <hr/>

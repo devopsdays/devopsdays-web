@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Singapore 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}] or [download the prospectus](https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8) right away.
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}] or [download the prospectus](https://drive.google.com/open?id=118yubm8UhULQCDx3KGGVYj8kj7kKOLgl) right away.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
@@ -12,7 +12,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=118yubm8UhULQCDx3KGGVYj8kj7kKOLgl" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## Why Sponsor Us?
 
@@ -55,13 +55,16 @@ Our sponsorship packages are structured around how you can help be part of the c
         <strong>unlimited</strong>
       </td>
       <td style="text-align: center">
-        <strong>2</strong>
+        <strong>5</strong>
         <!--
         <span style="color: red">SOLD OUT</a>
         -->
       </td>
       <td style="text-align: center">
+        <strong>1</strong>
+        <!--
         <span style="color: red">SOLD OUT</a>
+        -->
       </td>
     </tr>
     <tr>
@@ -133,13 +136,17 @@ Our sponsorship packages are structured around how you can help be part of the c
     <tr>
       <td>Logo on attendee badge
       <td>Your logo will be placed on the attendee name badge. Size and placement to be determined by organizers
-      <td><center><span style="color: red">SOLD OUT</a></center>
+      <td>
+        <center>
+          1
+          <!-- <span style="color: red">SOLD OUT</span> -->
+        </center>
       <td>1500&nbsp;SGD
     </tr>
   </table>
 </div>
 
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=118yubm8UhULQCDx3KGGVYj8kj7kKOLgl" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## THE SMALL PRINT
 

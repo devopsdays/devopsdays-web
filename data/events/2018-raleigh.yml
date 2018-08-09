@@ -107,6 +107,19 @@ sponsors:
     level: gold
   - id: redhat
     level: platinum
+  - id: servicenow
+    level: gold
+  - id: chef
+    level: platinum
+  - id: mesosphere
+    level: platinum
+  - id: forty8fifty-labs
+    level: platinum
+  - id: sysdig
+    level: platinum
+  - id: netapp
+    level: gold
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

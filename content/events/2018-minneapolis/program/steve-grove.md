@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Why We Left Silicon Valley for Minnesota"
 Type = "talk"
 Speakers = ["steve-grove"]
+youtube = "Vv6IufZbqtw"
 +++
 
 When my wife, Mary, and I started telling people that we were leaving Silicon Valley to move to Minnesota, we were met with a variety of reactions. The most obvious was, “Oh, wow — it’s cold there, right?” Others asked, “What will you do for work?” Perhaps the oddest response was, “That seems really random!”
