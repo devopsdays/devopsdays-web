@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps, Diving, or Death....Choose 2!"
-Type = "ignite"
+Type = "talk"
 Speakers = ["matt-blasinski"]
 +++
 

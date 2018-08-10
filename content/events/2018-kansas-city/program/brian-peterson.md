@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Infrastructure as Code and Secrets Management"
-Type = "workshop"
+Type = "talk"
 Speakers = ["brian-peterson"]
 +++
 
