@@ -65,6 +65,10 @@ proposal_email: "proposals-phoenix-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: sumologic
     level: gold
+  - id: vincentbenjamin
+    level: gold
+  - id: new-context
+    level: bronze
   - id: arresteddevops
     level: community
   - id: qualimente
