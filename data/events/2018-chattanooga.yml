@@ -2,7 +2,7 @@ name: "2018-chattanooga" # The name of the event. Four digit year with the city 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Chattanooga!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Chattanooga for the first time on November 13, 2018 at the Chattanooga Convention Center. Our first keynote speaker will be John Willis, an author of The DevOps Handbook." # Edit this to suit your preferences
 ga_tracking_id: "UA-122945114-1"
 event_group: "Chattanooga"
 
@@ -13,18 +13,18 @@ startdate: "2018-11-13" # The start date of your event. Leave blank if you don't
 enddate: "2018-11-13" # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2018-08-13"  # start accepting talk proposals.
+cfp_date_start: "2018-08-10"  # start accepting talk proposals.
 cfp_date_end: "2018-09-20" # close your call for proposals.
 cfp_date_announce: "2018-10-04" # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://www.papercall.io/events/1382" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayschattanooga" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2018-08-10" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2018-11-12" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://chadevopsdays.ticketspice.com/devopsdays-chattanooga" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #

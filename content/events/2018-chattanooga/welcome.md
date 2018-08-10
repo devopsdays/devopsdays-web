@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Chattanooga 2018"
+Title = "DevOpsDays Chattanooga 2018"
 Type = "welcome"
 aliases = ["/events/2018-chattanooga/"]
-Description = "devopsdays Chattanooga 2018"
+Description = "DevOpsDays is coming to Chattanooga for the first time on November 13, 2018 at the Chattanooga Convention Center. Our first keynote speaker will be John Willis, an author of The DevOps Handbook."
 +++
 
 <div style="text-align:center;">
