@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Quick and Dirty DevSecOps"
-Type = "workshop"
+Type = "talk"
 Speakers = ["mike-rothman"]
 +++
 

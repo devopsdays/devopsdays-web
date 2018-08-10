@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Automating Stateful Applications with Kubernetes Operators"
-Type = "workshop"
+Type = "talk"
 Speakers = ["josh-wood"]
 +++
 

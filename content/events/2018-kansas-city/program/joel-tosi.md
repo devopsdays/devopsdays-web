@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Fostering the Third Way - Your DevOps Dojo"
-Type = "ignite"
+Type = "talk"
 Speakers = ["joel-tosi"]
 +++
 

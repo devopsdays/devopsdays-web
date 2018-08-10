@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Go With The Flow - An exercise in optimizing your delivery pipeline"
-Type = "workshop"
+Type = "talk"
 Speakers = ["mark-shead"]
 +++
 

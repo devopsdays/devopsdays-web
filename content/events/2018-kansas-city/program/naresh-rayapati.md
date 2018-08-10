@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Automate Everything: A Deep Dive into Jenkins Pipelines"
-Type = "workshop"
+Type = "talk"
 Speakers = ["naresh-rayapati"]
 +++
 

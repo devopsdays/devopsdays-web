@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Expanding the circle: A collaborative story on including QA in the DevOps conversation"
-Type = "ignite"
+Type = "talk"
 Speakers = ["kylie-schleicher"]
 +++
 

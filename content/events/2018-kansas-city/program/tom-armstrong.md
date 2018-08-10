@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Passing the CKAD / CKA exam"
-Type = "workshop"
+Type = "talk"
 Speakers = ["tom-armstrong"]
 +++
 

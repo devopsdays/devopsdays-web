@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Un-tagling the mess of the service mesh"
-Type = "workshop"
+Type = "talk"
 Speakers = ["dimitri-stiliadis"]
 +++
 
