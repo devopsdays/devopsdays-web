@@ -181,7 +181,15 @@ sponsors:
     level: community
   - id: 2018-kansas-city-stickermule
     level: community
-    
+  - id: rubrik
+    level: premium
+  - id: cerner
+    level: amenity
+  - id: sonatype
+    level: core
+  - id: shamrock
+    level: core
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -200,5 +208,9 @@ sponsor_levels:
     max: 3
   - id: core
     label: Core
+  - id: amenity
+    label: Amenity
+  - id: party
+    label: Party
   - id: community
     label: Community
