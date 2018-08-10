@@ -137,3 +137,7 @@ The community sponsorship is ideal for local meetups, co-working spaces, and oth
 * Please contact {{< email_organizers >}} for details about becoming a platinum sponsor.
 
 <hr/>
+
+<div class="col-md-3 col-sm-12">
+  <a href="https://assets.devopsdays.org/events/2018/galway/2018-galway/2018_DevOps_Days_Galway_Pitch_OnePager.pdf"><img src="/events/2018-galway/2018_DevOps_Days_Galway_Pitch_OnePager.jpg" class="img-fluid"></a>
+</div>
