@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Integrating Security In the CI/CD Pipeline"
-Type = "ignite"
+Type = "talk"
 Speakers = ["nick-coblentz"]
 +++
 

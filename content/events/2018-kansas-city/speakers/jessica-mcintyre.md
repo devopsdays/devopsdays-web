@@ -1,6 +1,6 @@
 +++
 Title = "Jessica McIntyre"
-#Twitter = "sykesjs"
+#Twitter = ""
 image = "jessica-mcintyre.jpg"
 type = "speaker"
 linktitle = "jessica-mcintyre"
