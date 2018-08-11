@@ -1,7 +1,7 @@
 +++
 Title = "Thiago Souza"
 Twitter = ""
-image = ""
+image = "thiago-souza.png"
 type = "speaker"
 linktitle = "thiago-souza"
 
