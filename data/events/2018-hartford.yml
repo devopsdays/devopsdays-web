@@ -92,12 +92,22 @@ proposal_email: "proposals-hartford-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: arresteddevops
-    level: community
   - id: compuware
     level: bronze
   - id: compuware
     level: mug
+  - id: sonatype
+    level: happyHour
+  - id: chef
+    level: gold
+  - id: 2018-rightstar
+    level: gold
+  - id: 2018-rightstar
+    level: mug
+  - id: cgi
+    level: bronze
+  - id: ctlwv
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -108,6 +118,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: happyHour
     label: Happy Hour
+    max: 1
   - id: gold
     label: Gold
 #    max: 10
@@ -118,5 +129,6 @@ sponsor_levels:
     label: Bronze
   - id: mug
     label: Mug
+    max: 8
   - id: community
     label: Community
