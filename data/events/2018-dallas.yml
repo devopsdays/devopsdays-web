@@ -254,6 +254,8 @@ sponsors:
     level: b4con
   - id: cloudbolt
     level: b4con
+  - id: mongodb
+    level: b4con
   - id: arresteddevops
     level: community
   - id: devopslive

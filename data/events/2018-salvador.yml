@@ -55,8 +55,6 @@ team_members: # Name is the only required field for team members.
   - name: "Matheus Andrade"
     twitter: "matheuslao"
   - name: "Thiago Colares"
-  - name: "Ana Siqueira"
-    twitter: "AnaKSiqueiira"
   - name: "Luiz Claudio"
     twitter: "luizclaudios"
   #- name: "Sally Fields"
