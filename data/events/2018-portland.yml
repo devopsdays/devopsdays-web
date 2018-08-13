@@ -119,6 +119,8 @@ sponsors:
     level: silver
   - id: overops
     level: silver
+  - id: nutanix
+    level: silver
   - id: bitnami
     level: bronze
   - id: waffleio
