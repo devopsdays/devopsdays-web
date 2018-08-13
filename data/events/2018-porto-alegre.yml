@@ -112,6 +112,14 @@ sponsors:
     level: community
   - id: interop
     level: gold
+  - id: kinghost
+    level: community
+  - id: packet
+    level: community
+  - id: accera
+    level: gold
+  - id: pydata-poa
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
