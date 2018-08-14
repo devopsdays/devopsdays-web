@@ -2,7 +2,7 @@ name: "2018-belem" # The name of the event. Four digit year with the city name i
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Belém" # The displayed city name of the event. Capitalize it.
 event_twitter: "tasafo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Belém!" # Edit this to suit your preferences
+description: "Pela primeira vez no Belém - DevOpsDays!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -29,16 +29,21 @@ location: "Belém" # Defaults to city, but you can make it the venue name.
 location_address: "Elephant Coworking - Av. Governador José Malcher, 153, Reduto, Belém, Pará" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
-  - name: location
-  # - name: registration
-  # - name: program
-  # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+  - name: Local
+    url: /events/2018-belem/local
+#  - name: Palestre (CFP)
+#    url:
+#  - name: Inscreva-se
+#    url:
+#  - name: Programação
+#    url:
+  - name: Patrocínio
+    url: /events/2018-belem/patrocinio
+  - name: Código de Conduta
+    url: /events/2018-belem/conduta
+  - name: Contato
+    url: /events/2018-belem/contato
 # - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -46,37 +51,37 @@ team_members: # Name is the only required field for team members.
   - name: "Paulo Igor"
     employer: "Idopter Labs"
     twitter: "pigodinho"
-    bio: "https://www.linkedin.com/in/pigodinho/"
+    linkedin: "https://www.linkedin.com/in/pigodinho/"
 
   - name: "Erysson Souza"
     employer: "OmnesCoin"
     twitter: "eryssonsouza"
-    bio: "https://www.linkedin.com/in/eryssonbarros/"
+    linkedin: "https://www.linkedin.com/in/eryssonbarros/"
 
   - name: "Fábio Figueiredo"
     employer: "TOTVS"
     twitter: "fabiolimaf"
-    bio: "https://www.linkedin.com/in/fabiolimaf/"
+    linkedin: "https://www.linkedin.com/in/fabiolimaf/"
 
   - name: "Thiago Soares"
     employer: "Prodepa"
     twitter: "thiagosoaresjr"
-    bio: "https://www.linkedin.com/in/thiagofsoares/"
+    linkedin: "https://www.linkedin.com/in/thiagofsoares/"
 
   - name: "Caio Bentes"
     employer: "Solus Tecnologia"
     twitter: "CaioMachida"
-    bio: "https://br.linkedin.com/in/caiosbentes"
+    linkedin: "https://br.linkedin.com/in/caiosbentes"
 
   - name: "Evandro Paes"
     employer: "Prodepa"
     twitter: "evandro_paes"
-    bio: "http://www.evandropaes.com"
+    website: "http://www.evandropaes.com"
 
   - name: "Luiz Sanches"
     employer: "Nomade Tecnologia"
     twitter: "luizsanxes"
-    bio: "https://www.linkedin.com/in/lsanches/"
+    linkedin: "https://www.linkedin.com/in/lsanches/"
 
 organizer_email: "organizers-belem-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-belem-2018@devopsdays.org" # Put your proposal email address here
@@ -108,12 +113,10 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: gold
-    label: Gold
-  #    max: 10
+    label: Ouro
   - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    label: Prata
   - id: bronze
     label: Bronze
   - id: community
-    label: Community
+    label: Comunidade

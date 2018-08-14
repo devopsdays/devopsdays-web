@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Belem 2018"
+Title = "devopsdays Belém 2018"
 Type = "welcome"
 aliases = ["/events/2018-belem/"]
-Description = "devopsdays Belem 2018"
+Description = "devopsdays Belém 2018"
 +++
 
 <!-- <div style="text-align:center;">
@@ -11,21 +11,21 @@ Description = "devopsdays Belem 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Location</strong>
+    <strong>Localização</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -56,6 +56,16 @@ Description = "devopsdays Belem 2018"
 
 <!-- <div class = "row">
   <div class = "col-md-2">
+    <strong>Programação</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="program" text="Veja a programação completa" >}}
+  </div>
+</div> -->
+
+
+<!-- <div class = "row">
+  <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
@@ -65,23 +75,21 @@ Description = "devopsdays Belem 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocinadores</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="patrocinio" text="Patrocine o evento!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contato" text="Entre em contato com a organização" >}}
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
