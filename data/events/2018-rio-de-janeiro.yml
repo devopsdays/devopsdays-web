@@ -99,6 +99,8 @@ sponsors:
   - id: dynatrace
     level: gold     
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: knowledge21
+    level: silver  
   - id: alura
     level: learning    
   - id: imasters
@@ -112,24 +114,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: platinum
-    label: Platina
-  - id: happy_hour
-    label: Happy Hour
-    max: 1
-  - id: familyops
-    label: FamilyOps 
-  - id: host
-    label: Host
-    max: 1 
-  - id: coffee
-    label: Coffee
-    max: 3         
+sponsor_levels:     
   - id: gold
     label: Ouro
   - id: silver
     label: Prata
+  - id: familyops
+    label: FamilyOps      
   - id: bronze
     label: Bronze
   - id: learning
