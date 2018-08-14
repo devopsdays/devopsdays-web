@@ -95,8 +95,8 @@ sponsors:
     level: lanyard
   - id: cloudify
     level: silver
-  - id: microsoft
-    level: silver
+#  - id: microsoft
+#    level: silver
   - id: singular
     level: silver
   - id: appsflyer-2018
