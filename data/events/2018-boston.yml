@@ -89,6 +89,12 @@ team_members: # Name is the only required field for team members.
     image: "michaelbio.jpg"
   - name: "Jason Wolanyk"
     linkedin: https://www.linkedin.com/in/jasonwolanyk/
+
+  - name: "Hannah Klemme"
+    twitter: "msklemme"
+    linkedin: "https://www.linkedin.com/in/hannahklemme/"
+    bio: "Hannah is the Marketing Programs Manager at Threat Stack Inc, where she focuses on building and developing a programs that support the DevOps and security community. When she's not at work, you can find her outdoors hiking, running, playing soccer or reading one of her favorite non-fiction books."
+    image: "hannaklemme.jpg"
   # Asst. organizers: TBD if we can separate out
 
   - name: "Dave Fredricks"
@@ -146,14 +152,21 @@ sponsors:
     level: platinum
   - id: logz
     level: platinum
-  # - id: arresteddevops
-  #   level: community
-  # - id: microsoft
-  #   level: gold
-  # - id: 2016-onpage
-  #   level: gold
-  # - id: signifai
-  #   level: gold
+  - id: rundeck
+    level: gold
+  - id: cyberark
+    level: platinum
+  - id: slalom
+    level: gold
+  - id: circleci
+    level: gold
+  - id: catchpoint
+    level: platinum
+  - id: elastic
+    level: platinum
+  - id: cloudbolt
+    level: gold
+
   # - id: treasuredata
   #   level: gold
   # - id: genians
@@ -175,8 +188,6 @@ sponsors:
   # - id: mabl
   #   level: gold
   # - id: turbinelabs
-  #   level: gold
-  # - id: cyberark
   #   level: gold
   # - id: pivotal
   #   level: gold

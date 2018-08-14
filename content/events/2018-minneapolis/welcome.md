@@ -5,12 +5,17 @@ aliases = ["/events/2018-minneapolis"]
 Description = "devopsdays Minneapolis 2018"
 +++
 
+
+Thanks for making devopsdays Minneapolis 2018 such a fantastic event! You can find slides and videos on the individual talk pages.
+
+<br>
+
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}} - we're sold out, but if you can't make it, we'll have a <a href="https://youtu.be/-oQnyaqf2aQ">livestream</a>!
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 

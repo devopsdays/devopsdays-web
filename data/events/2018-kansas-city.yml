@@ -31,11 +31,10 @@ location: "Plexpod Westport Commons" # Defaults to city, but you can make it the
 location_address: "300 E 39th St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -57,10 +56,10 @@ team_members: # Name is the only required field for team members.
   - name: "Dan Barker"
     twitter: "barkerd427"
     employer: "NAIC"
-    bio: "Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16, 
-    before transitioning to a career in technology as a Software Engineer, then a DevOps Engineer, 
-    a Software Development Manager, and now a Chief Architect. He’s leading the technical and cultural 
-    transformation for the NAIC, a non-profit focused on consumer protection in the insurance industry. 
+    bio: "Dan spent 12 years in the military as a mechanic on fighter jets, like the F-16,
+    before transitioning to a career in technology as a Software Engineer, then a DevOps Engineer,
+    a Software Development Manager, and now a Chief Architect. He’s leading the technical and cultural
+    transformation for the NAIC, a non-profit focused on consumer protection in the insurance industry.
     Dan is also an organizer of the DevOps KC Meetup and the DevOpsDays KC conference."
     image: dan-barker.jpg
     github: barkerd427
@@ -70,20 +69,20 @@ team_members: # Name is the only required field for team members.
     employer: Federal Reserve Bank of Kansas City
     image: cj-obermaier.jpg
     linkedin: https://www.linkedin.com/in/cj-obermaier-bb90a639/
-    bio: "CJ, his wife, two dogs and a cat, have lived in Kansas City, Missouri for four years. When he 
-    is not traveling the world with his wife, he works as a DevOps Engineer for the Federal Reserve Bank 
-    of Kansas City.  In addition to his work on software automation and infrastructure as code, he is 
-    considered an advocate for developing the DevOps culture throughout the Bank.  He is also actively 
+    bio: "CJ, his wife, two dogs and a cat, have lived in Kansas City, Missouri for four years. When he
+    is not traveling the world with his wife, he works as a DevOps Engineer for the Federal Reserve Bank
+    of Kansas City.  In addition to his work on software automation and infrastructure as code, he is
+    considered an advocate for developing the DevOps culture throughout the Bank.  He is also actively
     involved in the Kansas City eSports scene as a co-owner of Good Game Kansas City."
   - name: "Ryan McNair"
     employer: SMRxT
     image: ryan-mcnair.jpg
-    bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence 
-    company focused on software and IoT devices to monitor when patients do and don't take their medicine. 
-    Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of 
-    Electronic Health Record software and services to hospitals. Ryan is focused on successful technology 
-    implementations across the healthcare sector and sees DevOps as a powerful tool in the business value 
-    stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike 
+    bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence
+    company focused on software and IoT devices to monitor when patients do and don't take their medicine.
+    Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of
+    Electronic Health Record software and services to hospitals. Ryan is focused on successful technology
+    implementations across the healthcare sector and sees DevOps as a powerful tool in the business value
+    stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike
     trails and making sawdust in his basement workshop."
     linkedin: https://www.linkedin.com/in/ryanmcnair/
   - name: "Tom Martin"
@@ -98,36 +97,36 @@ team_members: # Name is the only required field for team members.
     image: chris-stein.jpg
     linkedin: https://LinkedIn.com/in/cdstein
     website: http://chrisstein.io
-    bio: "Chris has spent most of his career focusing on infrastructure automation. He's interested in 
+    bio: "Chris has spent most of his career focusing on infrastructure automation. He's interested in
     using new technologies and processes for continual improvement."
   - name: "Chase Pettet"
     employer: Wikimedia Foundation
     image: chase-pettet.jpg
     linkedin: https://www.linkedin.com/in/chase-pettet-68824777/
-    bio: "Chase has spent the last 15 years working on network and systems infrastructure with an emphasis 
+    bio: "Chase has spent the last 15 years working on network and systems infrastructure with an emphasis
     on Linux. He currently works for the Wikimedia Foundation solving problems."
   - name: "Bert Weidt"
     employer: VML
     image: bert-weidt.jpg
     linkedin: https://www.linkedin.com/in/bertweidt/
-    bio: "Systems Architect and Security guy, but involved in many aspects of Technology for clients of all 
-    sizes. DevOps has changed the world for how solutions are implemented both internally and delivered to 
-    clients globally. Looking forward to what's next, other than self-driving cars. DevOpsDays is a great forum 
+    bio: "Systems Architect and Security guy, but involved in many aspects of Technology for clients of all
+    sizes. DevOps has changed the world for how solutions are implemented both internally and delivered to
+    clients globally. Looking forward to what's next, other than self-driving cars. DevOpsDays is a great forum
     for sharing what's working, and talking about that thing that everyone wants most - innovation."
   - name: "Rebecca Sowers"
     image: rebecca-sowers.jpg
     employer: Cerner Corporation
     linkedin: https://www.linkedin.com/in/rebecca-sowers-931a8842/
-    bio: "Rebecca is currently a Service Portfolio Manager focusing on tools that monitor, automate, configure, 
-    and discover all layers of infrastructure. In her free time, she loves to do home renovation projects in her 
+    bio: "Rebecca is currently a Service Portfolio Manager focusing on tools that monitor, automate, configure,
+    and discover all layers of infrastructure. In her free time, she loves to do home renovation projects in her
     old 1903 \"money pit\"."
   - name: "Dustin Holub"
     employer: Technology Group Solutions
     image: dustin-holub.jpg
     linkedin: https://www.linkedin.com/in/dustinholub/
-    bio: "Dustin is an outgoing individual who believes that work and fun can be one in the same. After spending 
-    many years of his career in infrastructure silos, he was drawn to the DevOps culture and its emphasis on 
-    learning and solving problems together. Dustin spends his free time with his wife chasing their two small 
+    bio: "Dustin is an outgoing individual who believes that work and fun can be one in the same. After spending
+    many years of his career in infrastructure silos, he was drawn to the DevOps culture and its emphasis on
+    learning and solving problems together. Dustin spends his free time with his wife chasing their two small
     children, playing indoor soccer, or wondering when technology will completely free him from housework."
   - name: "Jeff Stephens"
     image: jeff-stephens.jpg
@@ -135,8 +134,8 @@ team_members: # Name is the only required field for team members.
     linkedin: https://www.linkedin.com/in/jeff-stephens-6bb0928b/
     twitter: tbplayer7
     github: tbplayer7
-    bio: "Jeff has worked as a Linux Systems Administrator for the last 13 years.  His current focus is cloud 
-    application platforms.  Beyond work, he is an avid baseball fan, and spends his free time as a musician 
+    bio: "Jeff has worked as a Linux Systems Administrator for the last 13 years.  His current focus is cloud
+    application platforms.  Beyond work, he is an avid baseball fan, and spends his free time as a musician
     and photographer."
 
 organizer_email: "organizers-kansas-city-2018@devopsdays.org" # Put your organizer email address here
@@ -145,7 +144,7 @@ organizer_email: "organizers-kansas-city-2018@devopsdays.org" # Put your organiz
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
   - id: plexpod
@@ -182,7 +181,13 @@ sponsors:
     level: community
   - id: 2018-kansas-city-stickermule
     level: community
-    
+  - id: rubrik
+    level: premium
+  - id: sonatype
+    level: core
+  - id: shamrock
+    level: core
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -201,5 +206,9 @@ sponsor_levels:
     max: 3
   - id: core
     label: Core
+  - id: amenity
+    label: Amenity
+  - id: party
+    label: Party
   - id: community
     label: Community

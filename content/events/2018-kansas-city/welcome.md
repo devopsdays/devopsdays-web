@@ -61,14 +61,14 @@ One of the great parts of DevOpsDays is Open Spaces, where all attendees contrib
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href = "https://sessionize.com/devopsdayskc/">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -79,14 +79,14 @@ One of the great parts of DevOpsDays is Open Spaces, where all attendees contrib
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

@@ -6,10 +6,13 @@ cd `dirname ${0}`
 
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
+GNUSED=$(which sed)
 SEDCMD(){
   if [[ $OSNAME == 'Linux' ]]; then
     sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' ]]; then
+  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
     sed -i '' "$@"
   fi
 }

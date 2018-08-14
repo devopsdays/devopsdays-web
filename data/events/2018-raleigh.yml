@@ -115,6 +115,12 @@ sponsors:
     level: platinum
   - id: forty8fifty-labs
     level: platinum
+  - id: sysdig
+    level: platinum
+  - id: netapp
+    level: gold
+  - id: signalsciences
+    level: gold
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

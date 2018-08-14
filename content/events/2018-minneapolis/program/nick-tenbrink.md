@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "From Corn Tortillas to APIs: Microservices as Taco Bell Ingredients"
 Type = "talk"
 Speakers = ["nick-tenbrink"]
+youtube = "Nr-aBjHWKow"
 +++
 
 Let's dive deep into the guacamole rabbit hole of why we should be thinking about Taco Bell as our inspiration when building our microservices. Who else does such gastronomical acrobatics with such few ingredients?

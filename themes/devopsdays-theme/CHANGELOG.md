@@ -1,6 +1,13 @@
 # Change Log
 
-## [1.18.0](https://github.com/devopsdays/devopsdays-theme/tree/1.18.0) (2018-07-03)
+## [1.19.0](https://github.com/devopsdays/devopsdays-theme/tree/1.19.0) (2018-08-09)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.18.0...1.19.0)
+
+**Implemented enhancements:**
+
+- Change mobile event menu from icons to collapsed menu [\#607](https://github.com/devopsdays/devopsdays-theme/issues/607)
+
+## [1.18.0](https://github.com/devopsdays/devopsdays-theme/tree/1.18.0) (2018-07-02)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.17.0...1.18.0)
 
 **Implemented enhancements:**
@@ -28,7 +35,6 @@
 
 **Implemented enhancements:**
 
-- Migrate from codekit to gulp [\#355](https://github.com/devopsdays/devopsdays-theme/issues/355)
 - Add "event\_group" optional key to event data file [\#61](https://github.com/devopsdays/devopsdays-theme/issues/61)
 
 **Fixed bugs:**

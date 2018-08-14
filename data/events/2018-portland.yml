@@ -49,6 +49,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Bill Weiss"
     twitter: "billweiss"
+    employer: "Rally Health"
   - name: "Alastair Drong"
     twitter: "dev_dull"
   - name: "Joe Nuspl"
@@ -56,18 +57,14 @@ team_members: # Name is the only required field for team members.
     employer: "Workday"
   - name: "Michelle Carroll"
     twitter: "miiiiiche"
-    employer: "Elastic"
   - name: "Rich Burroughs"
     twitter: "richburroughs"
-    employer: "Puppet"
   - name: "Scott Nasello"
     twitter: "scottnasello"
     employer: "Columbia Sportswear"
   - name: "Matt Greensmith"
     twitter: "mgreensmith"
-    employer: "Cozy"
   - name: "Megan Guiney"
-    employer: "OpenStack Foundation"
     twitter: "meganguiney"
   - name: "Tiffany Longworth"
     employer: "Puppet"
@@ -121,6 +118,8 @@ sponsors:
   - id: kaizenops
     level: silver
   - id: overops
+    level: silver
+  - id: nutanix
     level: silver
   - id: bitnami
     level: bronze
