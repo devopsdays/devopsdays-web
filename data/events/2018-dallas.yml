@@ -268,6 +268,8 @@ sponsors:
     level: community
   - id: devops-dfw
     level: community
+  - id: dfwpug
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -302,3 +304,205 @@ sponsor_levels:
     label: Community
     max: 5
 
+
+program:
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2018-08-29
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction - Jez Humble"
+    type: custom
+    date: 2018-08-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "workshop"
+    type: workshop
+    date: 2018-08-29
+    start_time: "09:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2018-08-29
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "workshop"
+    type: workshop
+    date: 2018-08-29
+    start_time: "11:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-08-29
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "B4CON - Hosted at the Marriott Legacy Town Center"
+    type: custom
+    date: 2018-08-29
+    start_time: "15:00"
+    end_time: "19:30"
+
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2018-08-30
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "welcome-day1"
+    type: talk
+    date: 2018-08-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jez-humble"
+    type: talk
+    date: 2018-08-30
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "bryan-finster"
+    type: talk
+    date: 2018-08-30
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-08-30
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "karith-foster"
+    type: talk
+    date: 2018-08-30
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "joel-tosi"
+    type: talk
+    date: 2018-08-30
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "michael-mucciarone"
+    type: talk
+    date: 2018-08-30
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-08-30
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2018-08-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space - Overview & Topic Proposal/Selection"
+    type: open-space
+    date: 2018-08-30
+    start_time: "13:30"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-08-30
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2018-08-30
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-08-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-08-30
+    start_time: "16:45"
+    end_time: "17:00"
+
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2018-08-31
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "welcome-day2"
+    type: talk
+    date: 2018-08-31
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "david-giambruno"
+    type: talk
+    date: 2018-08-31
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "ragu-srinivasan"
+    type: talk
+    date: 2018-08-31
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-08-31
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "richard-boyd"
+    type: talk
+    date: 2018-08-31
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "steve-fox"
+    type: talk
+    date: 2018-08-31
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "pam-dukes"
+    type: talk
+    date: 2018-08-31
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-08-31
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2018-08-31
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space - Topic Proposal/Selection"
+    type: open-space
+    date: 2018-08-31
+    start_time: "13:30"
+    end_time: "14:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-08-31
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "SPEAKER DISCUSSION PANEL"
+    type: custom
+    date: 2018-08-31
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing & Farewell"
+    type: custom
+    date: 2018-08-31
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30
+  - title: ""
+    date: 2018-08-30

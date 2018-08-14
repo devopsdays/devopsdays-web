@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Keynote Speaker"
+Title = "Opening Welcome by Capital One | Arjun Dugal, SVP Capital One Financial Services"
 Type = "talk"
-Speakers = ["jez-humble"]
+Speakers = [""]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
