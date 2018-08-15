@@ -27,4 +27,4 @@ Over the past 2 years, I have been working with several South African financial 
 
 - Tips for effective communication to key stakeholders and end users
 
-In this talk I will focus use AWS terminology to illustrate my point, however most of the lessons and key points are applicable to other cloud providers as well. The content of this talk will be structured in a way that it is both interesting and accessible to a large audience.
+In this talk I will use AWS terminology to illustrate my point, however most of the lessons and key points are applicable to other cloud providers as well. The content of this talk will be structured in a way that it is both interesting and accessible to a large audience.
