@@ -28,7 +28,6 @@ location: "Hilton Doubletree, Woodstock, Cape Town"
 location_address: "31 Brickfield Rd, Woodstock, Cape Town, 7935"
 
 nav_elements:
-  - name: propose
   - name: location
   - name: registration
  # - name: program
