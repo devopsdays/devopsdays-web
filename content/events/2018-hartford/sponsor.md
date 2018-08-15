@@ -1,10 +1,9 @@
 +++
 City = "Hartford"
 Year = "2018"
-title = "sponsor"
-type = "event"
-
-
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor DevOpsDays Hartford 2018"
 +++
 
 After a very successful inaugural event in 2017, DevOpsDays Hartford will be back in 2018! It will be held October 16 & 17 at Infinity Hall in Hartford. We’re expecting around 200 attendees. Sponsoring DevOpsDays will connect your business to the people who influence security, engineering, monitoring, quality, and product development in our local technical and business communities. If you are interested in supporting the community and raising your company's profile by being a sponsor, we have listed sponsorship opportunities in the table below.
