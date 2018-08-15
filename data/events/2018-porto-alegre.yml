@@ -37,12 +37,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: http://poa.devopsdays.com.br/
 #    icon: "sitemap"
 #    url: http://poa.devopsdays.com.br/#informacoes
-#  - name: Palestrantes
-#    icon: "microphone"
-#    url: http://poa.devopsdays.com.br/#palestrantes
-#  - name: Programação
-#    icon: "book"
-#    url: http://poa.devopsdays.com.br/#programacao
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2018-porto-alegre/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2018-porto-alegre/program
   - name: Local
     icon: "map-o"
     url: /events/2018-porto-alegre/location
@@ -112,6 +112,16 @@ sponsors:
     level: community
   - id: interop
     level: gold
+  - id: kinghost
+    level: community
+  - id: packet
+    level: community
+  - id: accera
+    level: gold
+  - id: pydata-poa
+    level: community
+  - id: neogrid
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -136,3 +146,147 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Comunidade
+
+
+
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: "2018-09-15"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-09-15"
+    start_time: "9:00"
+    end_time: "9:20"
+
+  - title: "fernando-ike"
+    type: talk
+    date: "2018-09-15"
+    start_time: "9:25"
+    end_time: "9:55"
+
+  - title: "julia-lamenza"
+    type: talk
+    date: "2018-09-15"
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "rodrigo-hurtado"
+    type: talk
+    date: "2018-09-15"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "wellington-silva"
+    type: talk
+    date: "2018-09-15"
+    start_time: "10:40"
+    end_time: "10:55"
+
+  - title: "natalia-raythz"
+    type: talk
+    date: "2018-09-15"
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "kelvin-ronny"
+    type: talk
+    date: "2018-09-15"
+    start_time: "11:15"
+    end_time: "11:30"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-09-15"
+    start_time: "11:30"
+    end_time: "11:45"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-09-15"
+    start_time: "11:50"
+    end_time: "12:50"
+
+  - title: "carla-souza"
+    type: talk
+    date: "2018-09-15"
+    start_time: "12:55"
+    end_time: "13:25"
+
+  - title: "fernando-silva"
+    type: talk
+    date: "2018-09-15"
+    start_time: "13:30"
+    end_time: "13:45"
+
+  - title: "elias-nogueira"
+    type: talk
+    date: "2018-09-15"
+    start_time: "13:50"
+    end_time: "14:05"
+
+  - title: "jairo-junior"
+    type: talk
+    date: "2018-09-15"
+    start_time: "14:10"
+    end_time: "14:25"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-09-15"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2018-09-15"
+    start_time: "14:45"
+    end_time: "14:55"
+
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2018-09-15"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2018-09-15"
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "Fishbowl"
+    type: custom
+    date: "2018-09-15"
+    start_time: "16:15"
+    end_time: "16:55"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2018-09-15"
+    start_time: "17:00"
+    end_time: "17:20"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2018-09-15"
+    start_time: "17:30"
+    end_time: "22:00"
+
+
+ignites:
+  - title: "marco-junior"
+    date: "2018-09-15"
+
+  - title: "uriel-ricardo"
+    date: "2018-09-15"
+
+  - title: "cassio-almeida"
+    date: "2018-09-15"
+
+  - title: "joao-assis"
+    date: "2018-09-15"
