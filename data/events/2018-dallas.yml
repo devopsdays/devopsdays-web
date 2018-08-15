@@ -346,16 +346,21 @@ program:
     type: custom
     date: 2018-08-30
     start_time: "08:00"
-    end_time: "09:00"
+    end_time: "08:45"
+  - title: "Mark Saum - Intro and Code of Conduct"
+    type: custom
+    date: 2018-08-30
+    start_time: "08:45"
+    end_time: "08:55"
   - title: "welcome-day1"
     type: talk
     date: 2018-08-30
-    start_time: "09:00"
-    end_time: "09:15"
+    start_time: "08:55"
+    end_time: "09:05"
   - title: "jez-humble"
     type: talk
     date: 2018-08-30
-    start_time: "09:15"
+    start_time: "09:05"
     end_time: "09:50"
   - title: "bryan-finster"
     type: talk
@@ -391,12 +396,17 @@ program:
     type: ignite
     date: 2018-08-30
     start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space - Overview & Topic Proposal/Selection"
+    end_time: "13:35"
+  - title: "Open Space - Overview & Topic Proposal"
     type: open-space
     date: 2018-08-30
-    start_time: "13:30"
+    start_time: "13:35"
     end_time: "14:45"
+  - title: "Open Space Selection"
+    type: open-space
+    date: 2018-08-30
+    start_time: "14:45"
+    end_time: "15:00"
   - title: "Open Space #1"
     type: open-space
     date: 2018-08-30
@@ -412,7 +422,7 @@ program:
     date: 2018-08-30
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Close Day & Logistics"
+  - title: "Close Day, Logistics, & Raffle"
     type: custom
     date: 2018-08-30
     start_time: "16:45"
@@ -422,16 +432,21 @@ program:
     type: custom
     date: 2018-08-31
     start_time: "08:00"
-    end_time: "09:00"
+    end_time: "08:45"
+  - title: "Lee Herrin - Intros"
+    type: custom
+    date: 2018-08-31
+    start_time: "08:45"
+    end_time: "08:55"
   - title: "welcome-day2"
     type: talk
     date: 2018-08-31
-    start_time: "09:00"
-    end_time: "09:15"
+    start_time: "08:55"
+    end_time: "09:05"
   - title: "david-giambruno"
     type: talk
     date: 2018-08-31
-    start_time: "09:15"
+    start_time: "09:05"
     end_time: "09:50"
   - title: "ragu-srinivasan"
     type: talk
@@ -468,22 +483,32 @@ program:
     date: 2018-08-31
     start_time: "13:00"
     end_time: "13:30"
-  - title: "Open Space - Topic Proposal/Selection"
+  - title: "Open Space - Topic Proposal"
     type: open-space
     date: 2018-08-31
     start_time: "13:30"
     end_time: "14:45"
+  - title: "Open Space Selection"
+    type: open-space
+    date: 2018-08-31
+    start_time: "14:45"
+    end_time: "15:00"
   - title: "Open Space #1"
     type: open-space
     date: 2018-08-31
     start_time: "15:00"
     end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2018-08-31
+    start_time: "15:45"
+    end_time: "16:00"
   - title: "SPEAKER DISCUSSION PANEL"
     type: custom
     date: 2018-08-31
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Closing & Farewell"
+  - title: "Closing, Raffle, & Farewell"
     type: custom
     date: 2018-08-31
     start_time: "16:45"
