@@ -88,6 +88,8 @@ proposal_email: "organizers-riodejaneiro-2018@devopsdays.org" # Put your proposa
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: gitlab
+    level: platinum 
   - id: compkids
     level: familyops
   - id: bitlu
@@ -107,6 +109,8 @@ sponsors:
     level: community
   - id: kinghost
     level: gifts    
+  - id: caelum
+    level: gifts
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -114,7 +118,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:     
+sponsor_levels:  
+  - id: platinum
+    label: Platina   
   - id: gold
     label: Ouro
   - id: silver
