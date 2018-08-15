@@ -81,7 +81,7 @@ sponsors:
 #   - id: 
 #     level: 
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 sponsor_levels:
   - id: platinum
