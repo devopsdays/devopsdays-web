@@ -1,9 +1,9 @@
 +++
 City = "Hartford"
 Year = "2018"
-title = "propose"
-type = "event"
-
+Type = "event"
+Title = "Propose"
+Description = "Propose a talk for DevOpsDays Hartford 2018"
 +++
   {{< cfp_dates >}}
 
