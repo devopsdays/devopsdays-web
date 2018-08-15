@@ -7,4 +7,5 @@ type = "speaker"
 linktitle = "julia-lamenza"
 +++
 
-Apaixonada por tecnologia e dissipar conhecimento. É DevOps e acha importante que esta cultura seja cada vez mais adotada e com isso vem  tentando   ajudar a melhorar o ambiente de trabalho  para as mulheres na área e  tentando encorajar as próximas gerações.
+Trabalha na Daitan Group.
+É apaixonada por tecnologia e dissipar conhecimento, é DevOps e acha importante que esta cultura seja cada vez mais adotada e com isso vem  tentando melhorar a diversidade na área e encorajar as próximas gerações.
