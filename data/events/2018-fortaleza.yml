@@ -50,10 +50,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: "handshake-o"
     url: /events/2018-fortaleza/conduta
 #  - name: Inscreva-se
-  - name: Pré-inscrição
+  - name: Ingressos
     icon: "user-plus"
 #    url: /events/2018-fortaleza/register
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSf_R_G_hGcVufdBPMg7BhN1GRd8lSIGVWrxqUmDq9kaiInIsA/viewform?usp=sf_link"
+    url: "https://devopsdaysfortaleza.eventize.com.br/"
   - name: Patrocinio
     icon: "money"
     url: /events/2018-fortaleza/patrocinio
@@ -113,6 +113,27 @@ Passionate and supportive of animals rights."
     linkedin: "https://www.linkedin.com/in/camila-correia-6082bb71/"
     website: "www.coffeedesign.com.br"
     image: "camila-correia.jpg"
+  - name: "Djavan Soeiro"
+    role: "Support Analyst"
+    bio: "IT Support Analyst with large experience in logs/monitoring the execution of processes and routines related to ​​network and data links, and support to direct customer service in help desk. Fan of open source technologies, information security, Fedora Linux user, and lover by aquarism. Chess player and novice on motocross tracks with friends."
+    linkedin: "https://www.linkedin.com/in/djavan-soeiro-74818b22/"
+    image: "djavan-soeiro.jpg"
+  - name: "Luciana Lima"
+    role: "Itil knowledge technician"
+    bio: "Itil knowledge technician, with experience of attendance in face and remote technical support to 8 years, were i attended The contact of several companies related to the Tecnology of the country.
+Graduated in analysis and development of Systems with specializations in analysis, projects and Systems Management. Certified in ITIL. It has International certifica te of article presented in an International symposium of innovation Tecnology and Systems."
+    linkedin: "https://www.linkedin.com/in/luciana-lima-a6b94226/"
+    image: "luciana-lima.jpg"
+  - name: "Camila Mamede"
+    role: "Entrepreneur"
+    bio: "MBA of Business Management, formed in Information System. He has worked in the area of ​​Project Management at Grupo Edson Queiroz and M Dias Branco and is currently undertaking projects. Owner of Carole Cozinha, which provides executive meals to over 40 companies in Fortaleza and already has more than 500 clients."
+    linkedin: "https://www.linkedin.com/in/camila-mamede-8a6b837b/"
+    image: "camila-mamede.jpg"
+  - name: "Ana Paula Oliveira"
+    role: "QA Analyst"
+    bio: "Graduate in Analysis and systems development. Certified CTFL and ITIL Foundations. Passionate about everything in Technology, with experience in IT Support and now as a Test Analyst."
+    linkedin: "https://www.linkedin.com/in/anaoliveira5/"
+    image: "ana-paula.jpg"
 organizer_email: "organizers-fortaleza-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2018@devopsdays.org" # Put your proposal email address here
 
@@ -122,8 +143,14 @@ sponsors:
   - id: universidade-de-fortaleza
     level: gold
     url: https://www.unifor.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: ibis-hotels
+    level: community
+    url: https://ibis.accorhotels.com/brasil/index.pt-br.shtml # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: f13
+    level: silver
+    url: https://www.f13.com.br/
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

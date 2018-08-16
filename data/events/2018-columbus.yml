@@ -89,6 +89,10 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: morpheus
+    level: gold
+  - id: chef
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community

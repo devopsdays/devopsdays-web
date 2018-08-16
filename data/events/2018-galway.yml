@@ -10,9 +10,9 @@ startdate: 2018-11-19
 enddate: 2018-11-20
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-08-01 # start accepting talk proposals.
+cfp_date_end: 2018-09-02 # close your call for proposals.
+cfp_date_announce: 2018-09-17  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -31,7 +31,7 @@ location: "Galmont (formerly Radisson Blu)" # Defaults to city, but you can make
 location_address: "Galmont, Lough Atalia Rd, Galway, Ireland"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -84,8 +84,8 @@ team_members: # Name is the only required field for team members.
     bio: |
       Italian living in Ireland. Passionate about free software. Linux user.
       Cloud System Engineer @ HPE. Stefano spends most of his time typing on
-      a keyboard and looking at an LCD screen. While not in front of a computer
-      you can find him riding his bicycle, swimming or walking around.
+      a keyboard and looking at an LCD screen. When not in front of a computer
+      you can find him cycling, swimming or walking around.
   - name: "Coleman Corrigan"
     image: "coleman-corrigan.jpg"
     employer: "OpenJaw"
@@ -98,6 +98,11 @@ team_members: # Name is the only required field for team members.
   - name: "Alan Duggan"
     image: "alan-duggan.jpg"
     employer: "HPE"
+    bio: |
+      Alan is a Multidimensional Engineer working for HPE. Working with people,
+      processes and tools to espouse DevOps ideals in an enterprise scale CD
+      solution. When not attending meetups he can be found walking the scenic
+      trails and hills of Galway.
   - name: "Joe Goggins"
     image: "joe-goggins.jpg"
     employer: "Aspect"
@@ -139,6 +144,7 @@ team_members: # Name is the only required field for team members.
     employer: "Woodgroup"
     twitter: "padraic.wade"
     linkedin: "https://www.linkedin.com/in/padraicwade/"
+    bio: DevOps and Cyber Security engineer for Woodplc Galway
   - name: "Rusty Weise"
     image: "rusty-weise.jpg"
     employer: "HPE"

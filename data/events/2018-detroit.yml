@@ -85,6 +85,12 @@ sponsors:
     level: gold
   - id: littlecaesars
     level: bronze
+  - id: chef
+    level: gold
+  - id: e7solutions
+    level: silver
+  - id: dynatrace
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

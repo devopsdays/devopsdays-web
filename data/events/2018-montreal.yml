@@ -111,6 +111,12 @@ sponsors:
     level: bronze
   - id: bell_ca
     level: bronze
+  - id: cloud_ca
+    level: lanyard
+  - id: container-solutions
+    level: gold
+  - id: cgi
+    level: lunch
   
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 
