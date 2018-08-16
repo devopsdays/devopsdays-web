@@ -242,6 +242,10 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: capitalone
     level: location_and_diamond
+  - id: beyondsoft
+    level: leadership
+  - id: cloudbees
+    level: leadership
   - id: improving
     level: b4con
   - id: pagerduty
