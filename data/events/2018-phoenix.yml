@@ -66,13 +66,17 @@ sponsors:
   - id: sumologic
     level: gold
   - id: vincentbenjamin
-    level: gold
+    level: lanyard 
   - id: new-context
     level: bronze
   - id: arresteddevops
     level: community
   - id: qualimente
     level: community
+  - id: mesosphere
+    level: gold
+  - id: isos
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -92,6 +96,8 @@ sponsor_levels:
     label: Community
   - id: happy-hour 
     label: Happy Hour
+  - id: lanyard 
+    label: Lanyard
   - id: coffee 
     label: Coffee
   - id: breakfast 
