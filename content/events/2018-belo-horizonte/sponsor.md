@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Belo Horizonte 2018"
+Description = "Patrocine o Belo Horizonte 2018"
 +++
 
 Nós valorizamos muito os patrocinadores deste evento. Caso esteja interessado em alguma cota de patrocinio, entre em contato pelo email [{{< email_organizers >}}].

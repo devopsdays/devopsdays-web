@@ -1,7 +1,7 @@
 +++
 Title = "Chamada de Trabalhos (CFP)"
 Type = "event"
-Description = "Propose a talk for devopsdays Belo Horizonte 2018"
+Description = "Proponha uma talk para o DevOpsDays Belo Horizonte 2018"
 +++
   {{< cfp_dates >}}
 
