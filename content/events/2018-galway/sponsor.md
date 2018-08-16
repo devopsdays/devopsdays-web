@@ -19,31 +19,75 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <hr/>
 
 <div style="width:590px">
-<table border=1 cellspacing=1>
+  <table border=1 cellspacing=1>
+    <tr>
+      <th><i>Benefits (prices ex VAT)</i></th>
+      <th><center><b><u>Bronze<br />(&euro; 500)</u></center></b></th>
+      <th><center><b><u>Silver<br />(&euro; 1,500)</u></center></b></th>
+      <th><center><b><u>Gold<br />(&euro; 3,000)</u></center></b></th>
+      <th><center><b><u>Platinum<br />(&euro; 4,500)</u></center></b></th>
+    </tr>
   <tr>
-    <th><i>Benefits (prices ex VAT)</i></th>
-    <th><center><b><u>Bronze<br />&euro;500</u></center></b></th>
-    <th><center><b><u>Silver<br />&euro;1500 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />&euro;3000 usd</u></center></b></th>
-    <th><center><b><u>Platinum<br />&euro;4500 usd</u></center></b></th>
+    <td>Tickets included</td>
+    <td align="center" bgcolor="gold">1</td>
+    <td align="center" bgcolor="gold">2</td>
+    <td align="center" bgcolor="gold">4</td>
+    <td align="center" bgcolor="gold">6</td>
   </tr>
-<tr><td>Tickets included</td><td align="center">1</td><td align="center">2</td><td align="center">4</td><td align="center">6</td></tr>
-<tr><td>Space in `Swag Bag` for promotional item</td><td align="center">&#10004;</td><td align="center">&#10004;</td><td align="center">&#10004;</td><td align="center">&#10004;</td></tr>
-<tr><td>Logo on interval rotating slide show</td><td align="center">Shared</td><td align="center">Shared</td><td align="center">Shared;</td><td align="center">Shared</td></tr>
-<tr><td>Logo on DevOpsDays Galway 2018 website</td><td align="center">&#10004;</td><td align="center">&#10004;</td><td align="center">&#10004;</td><td align="center">&#10004;</td></tr>
-<tr><td>Logo on email communication</td><td align="center">&nbsp;</td><td align="center">&#10004;</td><td align="center">&#10004;</td><td align="center">&#10004;</td></tr>
-<tr><td>Sponsor table space</td><td align="center">&nbsp;</td><td align="center">Shared</td><td align="center">Dedicated<br/>+socket</td>
-<td align="center">Dedicated<br/>+socket<br/>+monitor</td></tr>
-<tr><td>Audience address pitch</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">2 min</td>
-<td align="center">4 min</td></tr>
-<tr><td>Sponsor recognition on break out room vinyls, swag bag, conference printed media and intro/outro slides</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td><td align="center">&nbsp;</td>
-<td align="center">&#10004;</td></tr>
+  <tr>
+    <td>Space in `Swag Bag` for promotional item</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+  </tr>
+    <tr><td>Logo on interval rotating slide show</td>
+    <td align="center" bgcolor="gold">Shared</td>
+    <td align="center" bgcolor="gold">Shared</td>
+    <td align="center" bgcolor="gold">Dedicated</td>
+    <td align="center" bgcolor="gold">Dedicated</td>
+  </tr>
+  <tr>
+    <td>Logo on DevOpsDays Galway 2018 website</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+  </tr>
+  <tr>
+    <td>Logo on email communication</td>
+    <td align="center">&nbsp;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+  </tr>
+  <tr>
+    <td>Sponsor table space</td>
+    <td align="center">&nbsp;</td>
+    <td align="center" bgcolor="gold">Shared</td>
+    <td align="center" bgcolor="gold">Dedicated<br/>+socket</td>
+    <td align="center" bgcolor="gold">Dedicated<br/>+socket<br/>+monitor</td>
+  </tr>
+  <tr>
+    <td>Audience address pitch</td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td align="center" bgcolor="gold">2 min</td>
+    <td align="center" bgcolor="gold">4 min</td>
+  </tr>
+  <tr>
+    <td>Sponsor recognition on break out room vinyls, swag bag, conference printed media and intro/outro slides</td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td align="center">&nbsp;</td>
+    <td align="center" bgcolor="gold">&#10004;</td>
+  </tr>
 </table>
 <hr/>
 </div>
 
 In addition to the above sponsorship packages, DevOpsDays Galway 2018 is open to focused sponsorship of items such as lanyards, accessibility services, morning break snacks, lunch, tea break snacks, and evening social event, which will be appropriately recognised on signage.<br/>
-Send email to {{ < email_organizers >}}
+Send email to {{< email_organizers >}}
 <br/>
 
 ### Community - €0
@@ -93,3 +137,7 @@ The community sponsorship is ideal for local meetups, co-working spaces, and oth
 * Please contact {{< email_organizers >}} for details about becoming a platinum sponsor.
 
 <hr/>
+
+<div class="col-md-3 col-sm-12">
+  <a href="https://assets.devopsdays.org/events/2018/galway/2018-galway/2018_DevOps_Days_Galway_Pitch_OnePager.pdf"><img src="/events/2018-galway/2018_DevOps_Days_Galway_Pitch_OnePager.jpg" class="img-fluid"></a>
+</div>
