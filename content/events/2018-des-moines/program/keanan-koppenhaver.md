@@ -4,6 +4,8 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "Selling DevOps To Non-Technical Management"
 Type = "talk"
+Youtube = "jLIVrDA3cWw"
+Slides = "https://alphaparticle.com/dddsm/"
 Speakers = ["keanan-koppenhaver"]
 +++
 

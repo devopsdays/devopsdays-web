@@ -10,12 +10,12 @@ startdate:  2018-12-18
 enddate:  2018-12-19
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2018-07-01
+cfp_date_end:  2018-10-01
+cfp_date_announce:  2018-10-15
 
-cfp_open: "false"
-cfp_link: https://www.papercall.io/devopsdaystlv
+cfp_open: "true"
+cfp_link: https://www.papercall.io/devopsdaystlv2018
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -31,14 +31,14 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Tel Aviv Convention Center, 101 Rokach Blvd" 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
-  - name: location
- # - name: registration
+ - name: propose
+ - name: location
+ - name: registration
  # - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+ - name: speakers
+ - name: sponsor
+ - name: contact
+ - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -81,6 +81,10 @@ team_members: # Name is the only required field for team members.
     image: "ariel-moscowich.jpg"
   - name: "Andrei Burd"
     image: "andrei-burd.jpg"
+    twitter: "burdandrei"
+    github: "burdandrei"
+    linkedin: "https://www.linkedin.com/in/burdandrei/"
+
 organizer_email: "organizers-tel-aviv-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tel-aviv-2018@devopsdays.org" # Put your proposal email address here
 
@@ -91,13 +95,25 @@ sponsors:
     level: lanyard
   - id: cloudify
     level: silver
-  - id: bigpanda
+  - id: singular
     level: silver
-  - id: oracle
+  - id: appsflyer-2018
+    level: silver
+  - id: facebook
+    level: silver
+  - id: elastic
+    level: silver
+  - id: atlassian
+    level: silver
+  - id: yotpo
+    level: tshirt
+  - id: bigpanda
     level: silver
   - id: statscraft
     level: community
   - id: devopsloft
+    level: community
+  - id: revdebug
     level: community
   - id: logzio
     level: silver
@@ -127,11 +143,8 @@ sponsor_levels:
   - id: day2breakfast
     label: day 2 breakfast
     max: 1
-  - id: day1coffee
-    label: day 1 coffee
-    max: 1
-  - id: day2coffee
-    label: day 2 coffee
+  - id: coffee
+    label: coffee
     max: 1
   - id: day1happyhour
     label: Day 1 HappyHour

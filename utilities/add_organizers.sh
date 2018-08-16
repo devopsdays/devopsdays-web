@@ -9,10 +9,13 @@ OUT=$(mktemp /tmp/output.XXXXXXXXXX) || { echo "Failed to create temp file"; exi
 
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
+GNUSED=$(which sed)
 SEDCMD(){
   if [[ $OSNAME == 'Linux' ]]; then
     sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' ]]; then
+  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
     sed -i '' "$@"
   fi
 }

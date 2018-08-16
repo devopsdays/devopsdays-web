@@ -72,9 +72,11 @@ team_members: # Name is the only required field for team members.
   - name: "Peter Nijenhuis"
     twitter: "Peter_Nijenhuis"
   - name: "Chris Lennon"
-    twitter: "leapyearboy88"
+    twitter: "cdlennon"
   - name: "Daniel Paulus"
     twitter: "dpnl87"
+  - name: "Greg Trahair"
+    twitter: "geogdog"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
     # facebook: "https://www.facebook.com/sally.fields"
@@ -154,6 +156,8 @@ sponsors:
     level: bronze
   - id: openebs
     level: bronze
+  - id: portworx
+    level: bronze
    # url: https://schubergphilis.com # Use this if you need to over-ride a sponsor URL.
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -197,31 +201,31 @@ program:
     date: 2018-06-27
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: Main Room"
+    comments: "Location: Grote Zaal"
   - title: "blackrock-partners"
     type: workshop
     date: 2018-06-27
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: 'Small' Room"
-  - title: "erik-zeedijk-joost-van-wollingen"
-    type: workshop
-    date: 2018-06-27
-    start_time: "09:00"
-    end_time: "11:30"
-    comments: "Location: TBD"
+    comments: "Location: IJ Zaal"
   - title: "jeffry-molanus-murat-karslioglu"
     type: workshop
     date: 2018-06-27
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: TBD"
+    comments: "Location: Studio"
   - title: "mandi-walls"
     type: workshop
     date: 2018-06-27
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: TBD"
+    comments: "Location: Expo"
+  - title: "erik-zeedijk-joost-van-wollingen"
+    type: workshop
+    date: 2018-06-27
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: Workspace"
 #  - title: "james-pavey-1"
 #    type: workshop
 #    date: 2018-06-27
@@ -240,31 +244,32 @@ program:
     date: 2018-06-27
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: Main Room"
+    comments: "Location: Grote Zaal"
   - title: "christina-aldan"
     type: workshop
     date: 2018-06-27
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: 'Small' Room"
-  - title: "luca-maraschi"
-    type: workshop
-    date: 2018-06-27
-    start_time: "12:00"
-    end_time: "14:30"
-    comments: "Location: TBD"
-  - title: "anubhav-mishra"
-    type: workshop
-    date: 2018-06-27
-    start_time: "12:00"
-    end_time: "14:30"
-    comments: "Location: TBD"
+    comments: "Location: IJ Zaal"
   - title: "philipp-krenn"
     type: workshop
     date: 2018-06-27
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: TBD"
+    comments: "Location: Studio"
+  - title: "anubhav-mishra"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Expo"
+  - title: "luca-maraschi"
+    type: workshop
+    date: 2018-06-27
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Workspace"
+
 # break
   - title: "Break"
     type: custom
@@ -278,25 +283,25 @@ program:
     date: 2018-06-27
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: Main Room"
+    comments: "Location: Grote Zaal"
   - title: "mark-heistek"
     type: workshop
     date: 2018-06-27
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: 'Small' Room"
+    comments: "Location: IJ Zaal"
   - title: "michael-ducy-ws"
     type: workshop
     date: 2018-06-27
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: TBD"
+    comments: "Location: Studio"
   - title: "joe-gardiner"
     type: workshop
     date: 2018-06-27
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: TBD"
+    comments: "Location: Expo"
 # end of day
   - title: "Have a beer on us!"
     type: custom
@@ -356,39 +361,48 @@ program:
     type: ignite
     date: 2018-06-28
     start_time: "13:40"
-    end_time: "14:15"
+    end_time: "14:00"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-06-28
     start_time: "14:00"
     end_time: "15:00"
-  - title: "Open Space Session - Day 1 - #1"
-    type: open-space
+  - title: "open-space-one-day-one"
+    type: talk
     date: 2018-06-28
     start_time: "15:00"
     end_time: "15:30"
+    backgroud_color: "#ffb566"
   - title: "andrew-martin"
     type: talk
     date: 2018-06-28
     start_time: "15:00"
     end_time: "15:30"
-    comments: "Security Track | Location: Main Room"
-  - title: "Open Space Session - Day 1 - #2"
-    type: open-space
+    comments: "Security Track | Location: Grote Zaal"
+  - title: "open-space-two-day-one"
+    type: talk
     date: 2018-06-28
     start_time: "15:35"
     end_time: "16:05"
+    backgroud_color: "#ffb566"
   - title: "geert-van-der-cruijsen-rene-van-osnabrugge"
     type: talk
     date: 2018-06-28
     start_time: "15:35"
     end_time: "16:05"
-    comments: "Security Track | Location: Main Room"
-  - title: "Open Space Session - Day 1 - #3"
-    type: open-space
+    comments: "Security Track | Location: Grote Zaal"
+  - title: "open-space-three-day-one"
+    type: talk
     date: 2018-06-28
     start_time: "16:10"
     end_time: "16:40"
+    backgroud_color: "#ffb566"
+  - title: "alex-duivelshof"
+    type: talk
+    date: 2018-06-28
+    start_time: "16:10"
+    end_time: "16:40"
+    comments: "Security Track | Location: Grote Zaal"
   - title: "Close Day / Wrap Up"
     type: custom
     date: 2018-06-28
@@ -462,8 +476,9 @@ program:
     date: 2018-06-29
     start_time: "14:15"
     end_time: "14:45"
-  - title: "Open Space Session - Day 2 - #1"
-    type: open-space
+  - title: "open-space-one-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
     date: 2018-06-29
     start_time: "15:00"
     end_time: "15:30"
@@ -472,9 +487,10 @@ program:
     date: 2018-06-29
     start_time: "15:00"
     end_time: "15:30"
-    comments: "HumanOps Track | Location: Main Room"
-  - title: "Open Space Session - Day 2 - #2"
-    type: open-space
+    comments: "HumanOps Track | Location: Grote Zaal"
+  - title: "open-space-two-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
     date: 2018-06-29
     start_time: "15:35"
     end_time: "16:05"
@@ -483,9 +499,10 @@ program:
     date: 2018-06-29
     start_time: "15:35"
     end_time: "16:05"
-    comments: "HumanOps Track | Location: Main Room"
-  - title: "Open Space Session - Day 2 - #3"
-    type: open-space
+    comments: "HumanOps Track | Location: Grote Zaal"
+  - title: "open-space-three-day-two"
+    backgroud_color: "#ffb566"
+    type: talk
     date: 2018-06-29
     start_time: "16:10"
     end_time: "16:40"
@@ -494,7 +511,7 @@ program:
     date: 2018-06-29
     start_time: "16:10"
     end_time: "16:40"
-    comments: "HumanOps Track | Location: Main Room"
+    comments: "HumanOps Track | Location: Grote Zaal"
   - title: "Close 6th anniversary of devopsdays Amsterdam"
     type: custom
     date: 2018-06-29

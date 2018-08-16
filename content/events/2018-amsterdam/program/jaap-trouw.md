@@ -6,7 +6,7 @@ Title = "Complex Problem Solving (CPS) or You don't ask the right questions, and
 Type = "talk"
 Speakers = ["jaap-trouw"]
 aliases = ["/events/2018-amsterdam/program/jaap-trouw/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=17"
 slideshare = ""
 slides = ""
 +++

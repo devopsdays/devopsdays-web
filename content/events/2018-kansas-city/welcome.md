@@ -14,7 +14,7 @@ Description = "devopsdays Kansas City 2018"
 <br>
 DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, specialists in Mobile, VR, AI, BI, etc...
 
-This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup](//meetup.devopskc.com) and our [website](//devopskc.com).
+This conference is hosted by DevOpsKC, make sure to checkout our [monthly meetup](http://meetup.devopskc.com) and our [website](//devopskc.com).
 
 <b>Learning</b>
 <br>
@@ -61,14 +61,14 @@ One of the great parts of DevOpsDays is Open Spaces, where all attendees contrib
   </div>
 </div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href = "https://sessionize.com/devopsdayskc/">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -79,14 +79,14 @@ One of the great parts of DevOpsDays is Open Spaces, where all attendees contrib
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

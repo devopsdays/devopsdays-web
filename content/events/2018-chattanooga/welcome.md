@@ -1,13 +1,13 @@
 +++
-Title = "devopsdays Chattanooga 2018"
+Title = "DevOpsDays Chattanooga 2018"
 Type = "welcome"
 aliases = ["/events/2018-chattanooga/"]
-Description = "devopsdays Chattanooga 2018"
+Description = "DevOpsDays is coming to Chattanooga for the first time on November 13, 2018 at the Chattanooga Convention Center. Our first keynote speaker will be John Willis, an author of The DevOps Handbook."
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <img alt="DevOpsDays Chattanooga Logo" src="/events/2018-chattanooga/logo.png" width="600" height="524" />
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +36,14 @@ Description = "devopsdays Chattanooga 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +81,4 @@ Description = "devopsdays Chattanooga 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->

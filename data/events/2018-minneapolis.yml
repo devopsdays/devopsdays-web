@@ -2,7 +2,7 @@ name: "2018-minneapolis" # The name of the event. Four digit year with the city 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Minneapolis" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysmsp" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "devopsdays is returning to Minneapolis for a fifth year!"
+description: "devopsdays returned to Minneapolis for a fifth year!"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -33,7 +33,6 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -45,9 +44,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 team_members:
   - name: "Samantha Grumdahl"
-    employer: "University of Minnesota"
+    employer: "Target"
     twitter: "zruty"
-    bio: "Samantha works as a network and systems administrator for the College of Science and Engineering at the University of Minnesota. Providing IT support for a variety of academic departments and supporting researchers from all over the world allows her to bring a unique multicultural perspective. Her volunteer efforts are focused on increasing interest in the STEM fields, especially among women and minorities."
+    bio: "Many years ago, Samantha took a break from the science laboratory to check out the field of networking and never returned. Her volunteer efforts are focused on increasing interest in the STEM fields, especially among women and minorities."
     image: "samantha-grumdahl.jpg"
   - name: "Nate Anderson"
     employer: "SPS Commerce"
@@ -185,8 +184,28 @@ sponsors:
     level: gold
   - id: stripe
     level: alacarte
+  - id: cloudbolt
+    level: gold
+  - id: technovation-mn
+    level: community
+  - id: cloudability
+    level: alacarte
+  - id: docker
+    level: silver
+  - id: bluematador
+    level: silver
+  - id: rubrik
+    level: silver
+  - id: azure-advocates
+    level: silver
+  - id: avanade
+    level: silver
+  - id: overops
+    level: silver
+  - id: gdimpls
+    level: community
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
@@ -261,7 +280,7 @@ program:
     type: open-space
     date: 2018-07-12
     start_time: "14:15"
-    end_time: "13:00"
+    end_time: "15:00"
   - title: "kubernetes"
     type: workshop
     date: 2018-07-12
@@ -392,6 +411,8 @@ ignites:
   - title: "sonia-gupta"
     date: 2018-07-12
   - title: "jamesha-fisher"
+    date: 2018-07-12
+  - title: "kim-crayton"
     date: 2018-07-12
   - title: "nick-tenbrink"
     date: 2018-07-12

@@ -6,7 +6,7 @@ Title = "DevOps in a Cloud Native World"
 Type = "talk"
 Speakers = ["michael-ducy"]
 aliases = ["/events/2018-amsterdam/program/michael-ducy/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=2"
 slideshare = ""
 slides = ""
 +++

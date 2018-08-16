@@ -10,18 +10,18 @@ startdate: 2018-10-24 # The start date of your event. Leave blank if you don't h
 enddate: 2018-10-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-07-16 # start accepting talk proposals.
+cfp_date_end: 2018-08-20 # close your call for proposals.
+cfp_date_announce: 2018-08-15 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/2018-devopsdaysnewy" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-08-15 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-25 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsaustralia/devopsdays-newcastle-2018" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -31,9 +31,10 @@ location: "Newcastle" # Defaults to city, but you can make it the venue name.
 location_address: "309 King St, Newcastle, NSW Australia" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: "https://www.papercall.io/2018-devopsdaysnewy"
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -50,6 +51,9 @@ team_members: # Name is the only required field for team members.
     github: "krutisfood"
     twitter: "krutisfood"
     linkedin: "https://www.linkedin.com/in/kurtgardiner"
+  - name: "Hailey Martin"
+    github: "hlmartin"
+    linkedin: "https://www.linkedin.com/in/haileylmartin"
   - name: "Wayne Ingram"
     employer: "Mine Super"
     github: "opticpow"
@@ -57,9 +61,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/opticpow"
     website: "https://opticpow.io"
   - name: "Mathew Finch"
+    twitter: "Finchster"
+    github: "finchster"
   - name: "Jonathan Milgate"
+    twitter: "This_is_Dog"
+    linkedin: "https://www.linkedin.com/in/jonathan-milgate-a9106731/"
   - name: "Damian Brady"
+    twitter: "damovisa"
   - name: "Lindsay Holmwood"
+    twitter: "auxesis"
     # employer: "Acme Anvil Co."
     # github: "devopsdays"
     # facebook: "https://www.facebook.com/sally.fields"
@@ -75,8 +85,8 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+ #  - id: arresteddevops
+ #    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -85,9 +95,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
 #    max: 0 # This is the same as omitting the max limit.

@@ -6,7 +6,7 @@ Title = "We want you to care: rethinking product development at WeTransfer"
 Type = "talk"
 Speakers = ["martijn-vermaat"]
 aliases = ["/events/2018-amsterdam/program/martijn-vermaat/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=16"
 slideshare = ""
 slides = ""
 +++

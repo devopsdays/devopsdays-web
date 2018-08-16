@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Unifying Your Observability Pipeline"
 Type = "talk"
 Speakers = ["aditya-mukerjee"]
+speakerdeck = "https://speakerdeck.com/chimeracoder/unifying-your-observability-pipeline"
+youtube = "nEWPnqx7Qxw"
 +++
 
 “If a microservice falls down in the middle of a server farm, does my pager make a sound?”

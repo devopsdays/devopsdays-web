@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "Problemas!? Oba!"
 Type = "talk"
 Speakers = ["gustavo-lichti"]
+youtube = "1R2f8rNtNn4"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Gustavo_Litchi-Problemas_Oba.pdf"
 +++
 
 O objetivo dessa palestra é gerar provocações que possam estimular mudanças nas pessoas, de forma que passem a ver os problemas como oportunidades de evolução pessoal e profissional e que o grande gatilho das evoluções são os problemas.

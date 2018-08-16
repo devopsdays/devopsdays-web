@@ -5,6 +5,9 @@ Talk_end_time = ""
 Title = "From Zero to Hero - An evolution of a software lifecycle in a small company"
 Type = "talk"
 Speakers = ["paulo-gomes-da-cruz-junior"]
+youtube = ""
+slideshare = ""
+slides = "https://docs.google.com/presentation/d/1JtX-rApGzSyfbEteUY7I4XHAwWq5Qk6yI7WnJnDGmLs/edit#slide=id.p"
 +++
 
 Chaos! Despair! That was the scenario at Multiportal in 2012. Different versions in different customer environments. A nobody’s land, it was like the wild west. But then come’s to the rescue, the DevOps philosophy, to save us from the despair. Now, peace and calm rules, with CICD and plannings.

@@ -176,7 +176,7 @@ sponsors:
     level: alacarte
   - id: f5
     level: bronze
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: bronze
   - id: checkmarx
     level: bronze

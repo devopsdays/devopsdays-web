@@ -6,7 +6,7 @@ Title = "Security as Code"
 Type = "talk"
 Speakers = ["geert-van-der-cruijsen", "rene-van-osnabrugge"]
 aliases = ["/events/2018-amsterdam/program/geert-van-der-cruijsen-rene-van-osnabrugge/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=UcjclSvTY_c&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=6"
 slideshare = ""
 slides = ""
 +++

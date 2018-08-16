@@ -33,7 +33,8 @@ location_address: "583 E Broad St, Columbus, OH 43215" #Optional - use the stree
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -79,6 +80,18 @@ proposal_email: "proposals-columbus-2018@devopsdays.org" # Put your proposal ema
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: sumologic
+    level: gold
+  - id: redhat
+    level: gold
+  - id: rundeck
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: morpheus
+    level: gold
+  - id: chef
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops

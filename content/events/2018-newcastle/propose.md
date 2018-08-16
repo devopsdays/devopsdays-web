@@ -3,7 +3,9 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Newcastle 2018"
 +++
-  {{< cfp_dates >}}
+<!--  {{< cfp_dates >}} -->
+
+<h3>To propose a talk visit <a href='https://www.papercall.io/2018-devopsdaysnewy'>www.papercall.io/2018-devopsdaysnewy</a></h3>
 
 <hr>
 
@@ -27,9 +29,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>How to submit a proposal:</strong> visit <a href="https://www.papercall.io/2018-devopsdaysnewy">www.papercall.io/2018-devopsdaysnewy</a>

@@ -4,16 +4,18 @@ Type = "event"
 Description = "Sponsor devopsdays Dallas 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus by clicking <strong><a href="https://assets.devopsdays.org/events/2018/dallas/DevOpsDays_DFW_B4CON_Prospectus_2018.pdf">HERE</strong></a> or <strong><a href="mailto:organizers-dallas-2018@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202018">send us an email</a></strong>.
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+DevOpsDays DFW is a self-organizing conference for DevOps practitioners that is made possible by local volunteers and corporate sponsorships. We do not sell product presentations, nor do we distribute attendee contact lists. This is a community event that provides an opportunity for local current practitioners and those interested in learning, to benefit from the DevOps community. 
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+In 2018 we will host vendors and conference attendees on August 29th for DevOpsDays B4CON. This exciting event will be held the day prior to the conference (Aug 29th) and will provide an opportunity for more authentic, casual interactions and deeper technical discussions between vendor sponsors and conference attendees.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+Sponsors will have the opportunity to provide short elevator pitches during the DevOpsDays B4CON and will get recognition on the website and social media before, during and after the event.
 <p>
+
+
 
 <!--
 <hr/>

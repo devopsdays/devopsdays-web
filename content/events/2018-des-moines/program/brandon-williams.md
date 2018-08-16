@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:40"
 Title = "Let's choose Kaizen instead of \"The Rewrite\""
 Type = "talk"
+Youtube = "_aWNyuD_iyY"
 Speakers = ["brandon-williams"]
 +++
 

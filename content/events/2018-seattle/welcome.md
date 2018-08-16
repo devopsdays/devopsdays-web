@@ -9,9 +9,12 @@ Description = "devopsdays Seattle 2018"
   {{< event_logo >}}
 </div> -->
 
-# {{< event_link page="live-stream" text="Check out the live stream here starting at 9AM Pacific on April 24th!" >}}
+<div style="font-weight: bolder; font-size: 150%">
+Thank you Speakers, Attendees, Sponsors and Volunteers for making DevOpsDays Seattle 2018 a complete success!!
 
-DevOpsDays is a unique combination of {{< event_link page="program" text="curated talks" >}} and attendee driven <a href="https://www.devopsdays.org/open-space-format/">open spaces</a>. This is a great opportunity to hear ideas from industry leading speakers and experience reports from practitioners as well as discuss your own topics with peers.
+Videos from this year's talks have been added to each page in the {{< event_link page="program" text="awesome program!" >}}</div>
+
+<p>DevOpsDays is a unique combination of {{< event_link page="program" text="curated talks" >}} and attendee driven <a href="https://www.devopsdays.org/open-space-format/">open spaces</a>. This is a great opportunity to hear ideas from industry leading speakers and experience reports from practitioners as well as discuss your own topics with peers.</p>
 
 <!--
 <div class = "row">

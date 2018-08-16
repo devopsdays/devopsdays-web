@@ -4,6 +4,8 @@ Type = "talk"
 Speakers = ["scott-nasello"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EeA7KFl1hQc" frameborder="0" allowfullscreen></iframe>
+
 In this experience report we will catch up with Columbia Sportswear (a Microsoft enterprise) 3 years into their journey to modernize enterprise IT. In year 3 DevOps is being scaled across the IT with many application teams changing how they are working.
 
 * Year 1 - Getting started, Proofs of Concept, Making work visible, initial CHEF implementation

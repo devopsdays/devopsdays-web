@@ -6,7 +6,7 @@ Title = "Monitoring the Dynamic Nature of Cloud Computing"
 Type = "talk"
 Speakers = ["lee-atchison"]
 aliases = ["/events/2018-amsterdam/program/lee-atchison/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=8"
 slideshare = ""
 slides = ""
 +++

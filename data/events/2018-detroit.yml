@@ -30,9 +30,9 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -57,8 +57,6 @@ team_members: # Name is the only required field for team members.
   - name: "Aaron Maturen"
     employer: Cengage Learning
     twitter: atmaturen
-  - name: "Ryan Struber"
-    employer: Barracuda Networks
   - name: "Archie Cowan"
     employer: ITHAKA
     twitter: archiecowan
@@ -76,6 +74,22 @@ sponsors:
   - id: redhat
     level: gold
   - id: influxdata
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: ithaka
+    level: gold
+  - id: littlecaesars
+    level: bronze
+  - id: chef
+    level: gold
+  - id: e7solutions
+    level: silver
+  - id: dynatrace
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

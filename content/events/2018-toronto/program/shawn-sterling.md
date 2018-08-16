@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Unleashing the Gorillacorn - DevOps in Very Large Enterprises"
 Type = "talk"
 Speakers = ["shawn-sterling", "nan-jiang"]
+youtube = "9kWtmmt_048"
 +++
 
 Is it possible to implement DevOps style best practices in organizations best described as an eight hundred pound gorilla (read: very large enterprise)? Some say no, but we at Sourced Group have been doing exactly that for the past 8 years and we’ve lived to tell a few tales about our experiences.

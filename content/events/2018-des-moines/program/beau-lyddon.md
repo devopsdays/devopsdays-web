@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:40"
 Title = "What is Happening: Attempting to Understand Our Systems"
 Type = "talk"
+Youtube = "9WSJspQUhn0"
 Speakers = ["beau-lyddon"]
 +++
 

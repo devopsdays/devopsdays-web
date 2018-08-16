@@ -8,9 +8,7 @@ runSequence = require('run-sequence');
 //     )
 // });
 
-gulp.task('responsive-images', ['responsive-images-logos', 'responsive-speaker-images','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining'])
-
-
+gulp.task('responsive-images', ['responsive-images-logos', 'responsive-speaker-images-jpg','responsive-speaker-images-png','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining-jpg','responsive-images-remaining-png'])
 
 gulp.task('responsive-images-logos', function() {
     return gulp.src(['public/**/*logo-square.jpg', '!public/events/2015*/**', '!public/events/2016*/**'])
@@ -66,8 +64,8 @@ gulp.task('responsive-organizer-images', function() {
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('responsive-speaker-images', function() {
-    return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png', '!public/events/2015*/**', '!public/events/2016*/**'])
+gulp.task('responsive-speaker-images-png', function() {
+    return gulp.src(['public/**/speakers/*.png', '!public/events/2015*/**', '!public/events/2016*/**'])
         .pipe(responsive({
             '**/*.png': [{
                 width: 300,
@@ -78,7 +76,22 @@ gulp.task('responsive-speaker-images', function() {
                 rename: {
                     suffix: '@2x'
                 }
-            }],
+            }]
+        }, {
+            // global configuration
+            quality: 80,
+            errorOnEnlargement: false,
+            withoutEnlargement: false,
+            progressive: true,
+            silent: true,
+            withMetadata: false,
+        }))
+        .pipe(gulp.dest('dist'));
+});
+
+gulp.task('responsive-speaker-images-jpg', function() {
+    return gulp.src(['public/**/speakers/*.jpg', '!public/events/2015*/**', '!public/events/2016*/**'])
+        .pipe(responsive({
             '**/*.jpg': [{
                 width: 300,
                 height: 300
@@ -134,8 +147,8 @@ gulp.task('responsive-sponsor-images', function() {
 });
 
 
-gulp.task('responsive-images-remaining', function() {
-    return gulp.src(['public/**/*.png', 'public/**/*.jpg','public/**/*.jpeg',
+gulp.task('responsive-images-remaining-png', function() {
+    return gulp.src(['public/**/*.png',
             '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg','!public/**/speakers/*.jpg','!public/**/speakers/*.png','!public/**/organizers/*.png',  '!public/events/2015*/**', '!public/events/2016*/**'
         ])
         .pipe(responsive({
@@ -146,7 +159,27 @@ gulp.task('responsive-images-remaining', function() {
                 rename: {
                     suffix: '@2x'
                 }
-            }],
+            }]
+        }, {
+            // global configuration
+            quality: 80,
+            errorOnEnlargement: false,
+            withoutEnlargement: false,
+            errorOnUnusedImage: false,
+            progressive: true,
+            silent: true,
+            withMetadata: false,
+        }))
+        .pipe(gulp.dest('dist'));
+});
+
+gulp.task('responsive-images-remaining-jpg', function() {
+    return gulp.src(['public/**/*.jpg','public/**/*.jpeg',
+            '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg','!public/**/speakers/*.jpg','!public/**/speakers/*.png','!public/**/organizers/*.png',  '!public/events/2015*/**', '!public/events/2016*/**'
+        ])
+        .pipe(responsive({
+            // produce multiple images from one source
+
             '**/*.jpeg': [{
                 width: '100%'
             }, {

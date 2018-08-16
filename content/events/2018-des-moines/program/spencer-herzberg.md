@@ -4,6 +4,7 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "Sane Infrastructure Management with Terraform"
 Type = "talk"
+Youtube = "e5WB4z8XE7g"
 Speakers = ["spencer-herzberg"]
 +++
 
