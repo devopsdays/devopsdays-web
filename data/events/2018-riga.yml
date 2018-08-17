@@ -302,8 +302,8 @@ program:
     start_time: "15:10"
     end_time: "15:40"
 
-  - title: "Masterclass/Talk 16"
-    type: custom
+  - title: "eric-lars-talk-1"
+    type: talk
     date: 2018-09-28
     start_time: "15:10"
     end_time: "15:40"
@@ -369,7 +369,7 @@ ignites:
     date: 2018-09-27
   - title: "anton-babenko-ignite-1"
     date: 2018-09-27
-  - title: ""
+  - title: "juris-puce-talk-1"
     date: 2018-09-27
   - title: "antonio-pigna-talk-1"
     date: 2018-09-27
