@@ -1,5 +1,5 @@
 +++
-Title = "Karith Foster"
+Title = "Karith Foster (Special Guest Speaker)"
 Twitter = "KarithFoster"
 image = "karith-foster.png"
 type = "speaker"
