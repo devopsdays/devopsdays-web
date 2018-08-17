@@ -142,8 +142,8 @@ program:
     date: 2018-09-27
     start_time: "11:10"
     end_time: "11:25"
-  - title: "Talk 4"
-    type: custom
+  - title: "anton-babenko-talk-1"
+    type: talk
     date: 2018-09-27
     start_time: "11:25"
     end_time: "11:55"
@@ -326,8 +326,8 @@ program:
     start_time: "16:20"
     end_time: "16:50"
     
-  - title: "anton-babenko-talk-1"
-    type: talk
+  - title: "Talk"
+    type: custom
     date: 2018-09-28
     start_time: "16:20"
     end_time: "16:50"
@@ -367,7 +367,7 @@ program:
 ignites:
   - title: "anton-arhipov-talk-1"
     date: 2018-09-27
-  - title: ""
+  - title: "anton-babenko-ignite-1"
     date: 2018-09-27
   - title: ""
     date: 2018-09-27
