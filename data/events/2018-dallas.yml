@@ -41,8 +41,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     icon: bullhorn
   - name: registration
     icon: "pencil"
-  - name: propose
-    icon: "paper-plane"
   - name: sponsor
     icon: "hand-holding-usd"
   - name: contact

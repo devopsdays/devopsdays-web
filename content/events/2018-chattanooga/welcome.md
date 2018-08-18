@@ -41,7 +41,7 @@ Description = "DevOpsDays is coming to Chattanooga for the first time on Novembe
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <a href="https://www.papercall.io/devopsdayschattanooga" target="_blank">Propose a talk!</a>
   </div>
 </div>
 
