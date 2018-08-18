@@ -1,5 +1,4 @@
 +++
-Date = "2016-12-24T11:00:07-07:00"
 Title = "B4CON"
 Type = "event"
 Description = "B4CON DevOpsDays DFW 2018"

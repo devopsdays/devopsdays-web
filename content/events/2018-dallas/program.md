@@ -1,5 +1,5 @@
 +++
-Title = "devopsdays DFW - Program"
+Title = "Program"
 Type = "program"
 Description = "Program for devopsdays Dallas 2018"
 +++

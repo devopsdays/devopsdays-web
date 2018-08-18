@@ -34,19 +34,12 @@ location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 #
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-    icon: "map-o"
   - name: program
-    icon: "calendar-alt"
   - name: speakers
-    icon: bullhorn
   - name: registration
-    icon: "pencil"
   - name: sponsor
-    icon: "hand-holding-usd"
   - name: contact
-    icon: "envelope-o"
   - name: conduct
-    icon: "handshake-o"
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
