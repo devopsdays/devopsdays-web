@@ -13,6 +13,7 @@ Slides = ""
 Website = "https://www.linkedin.com/in/michaelmucciarone/"
 +++
 
+##### TALK ABSTRACT
 
 This talk will describe to attendees some steps they can take right now to ease their transition to multicloud deployments, as well as how they can accomplish multicloud deployments today using the 3 big clouds’ kubernetes as a service.
 

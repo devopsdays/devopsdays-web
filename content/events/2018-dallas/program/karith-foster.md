@@ -13,6 +13,8 @@ Slides = ""
 Website = ""
 +++
 
+##### TALK ABSTRACT
+
 Karith brings her wit, wisdom and humor to two of the hottest people topics in DevOps: Interpersonal Communication and Imposter Syndrome.
 
 Primary to breaking down silos in organizations is breaking down barriers between people who look at the world in very different ways.  Karith breaks us out of the traditional view of diversity and inclusion by offering a truly inclusive perspective on communication, learning, and creating an environment vital to organizational success. 

@@ -13,6 +13,8 @@ Slides = ""
 Website = "http://autoscalr.com/blog/"
 +++
 
+##### IGNITE TALK ABSTRACT
+
 Most of us use some sort of version control system; if you’re doing devops-y stuff, it’s likely you are using git. Using these follows a familiar pattern: You do some work, commit the work, and push it to a remote repository, perhaps creating a Pull Request or Merge Request for review.
 
 Here’s the thing – what you put into your commit messages matters. Those commit messages are either love letters to your future self, or hate mail. You’ve heard the maxim that code is written once and read many times, and the same goes for commit messages. Putting some thought into what you put into your commit messages (and making them readable) is important.

@@ -35,14 +35,14 @@ location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
     icon: "map-o"
-  - name: propose
-    icon: "paper-plane"
-  - name: registration
-    icon: "pencil"
   - name: program
     icon: "calendar-alt"
   - name: speakers
     icon: bullhorn
+  - name: registration
+    icon: "pencil"
+  - name: propose
+    icon: "paper-plane"
   - name: sponsor
     icon: "hand-holding-usd"
   - name: contact
@@ -519,19 +519,19 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: ""
+  - title: "ravi-lachhman"
     date: 2018-08-30
-  - title: ""
+  - title: "ivan-fan"
     date: 2018-08-30
-  - title: ""
+  - title: "david-ayers"
     date: 2018-08-30
-  - title: ""
+  - title: "khurrum-khan"
     date: 2018-08-30
-  - title: ""
+  - title: "james-thomas"
     date: 2018-08-30
-  - title: ""
+  - title: "mohamad-bayan"
     date: 2018-08-30
-  - title: ""
+  - title: "jane-prusakova"
     date: 2018-08-30
   - title: ""
     date: 2018-08-30
