@@ -1,7 +1,7 @@
 +++
 Title = "Julia Wester"
 Twitter = "EverydayKanban"
-image = "missing-avatar.png"
+image = "julia-wester.png"
 type = "speaker"
 linktitle = "julia-wester"
 
