@@ -2,7 +2,7 @@
 Title = "Uriel Ricardo"
 Twitter = ""
 linkedin = ""
-image = "uriel.jpg"
+image = "uriel-ricardo.jpg"
 type = "speaker"
 linktitle = "uriel-ricardo"
 +++

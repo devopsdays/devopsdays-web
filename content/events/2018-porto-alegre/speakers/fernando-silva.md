@@ -2,7 +2,7 @@
 Title = "Fernando Silva" #nome do palestrante
 Twitter = "fernandodebrand"
 linkedin = "" 
-image = "fernando_silva.jpeg"
+image = "fernando-silva.jpg"
 type = "speaker"
 linktitle = "fernando-silva"
 +++
