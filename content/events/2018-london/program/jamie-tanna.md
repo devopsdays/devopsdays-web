@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["jamie-tanna"]
 +++
 
-In this talk, I’ll take you through the basics of GitLab’s Continuous Integration platform, with a very simple web application. This will go through local development to production deployments in a controlled fashion, with automated builds through to deployment.
+I often want to test new things, but don’t have many full on projects. If I want to test a full deployment pipeline, from local development to production, I need something to deploy. So I’ve made my personal website super complicated.

@@ -76,22 +76,38 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+    # Gold
   - id: appdynamics
     level: gold
   - id: chef
     level: gold
-  - id: elastic
-    level: silver
-  - id: opsview
-    level: silver
-  - id: ticketmaster
+  - id: 2018-contino
+    level: gold
+  - id: instana
+    level: gold
+    # Silver
+  - id: altoros
     level: silver
   - id: datadog
     level: silver
-  - id: altoros
+  - id: dxw
+    level: silver
+  - id: elastic
+    level: silver
+  - id: engineerbetter
+    level: silver
+  - id: logz
+    level: silver
+  - id: opsview
     level: silver
   - id: scalefactory
     level: silver
+  - id: ticketmaster
+    level: silver
+    # Bronze
+  - id: altostack
+    level: bronze
+    # Community
   - id: arresteddevops
     level: community
 

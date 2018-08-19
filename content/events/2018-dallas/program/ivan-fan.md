@@ -13,6 +13,8 @@ Slides = ""
 Website = "https://www.ivanfanatic.com/"
 +++
 
+##### IGNITE TALK ABSTRACT
+
 Would like to describe the transformation process GE Digital has been going through with maintaining AWS Infrastructure from point and manual click to source controlled to peer-reviewed infrastructure as code.
 
 Describe some of the challenges faced during this transformation: 
