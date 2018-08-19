@@ -1,7 +1,7 @@
 +++
 Title = "Tiffany Longworth"
 Twitter = "thelongshanx"
-
+image="tiffanylongworth.jpg"
 type = "speaker"
 +++
 

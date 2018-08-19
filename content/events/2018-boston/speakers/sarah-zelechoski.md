@@ -1,7 +1,7 @@
 +++
 Title = "Sarah Zelechoski"
 Twitter = "szelechoski"
-
+image="sarahz.png"
 type = "speaker"
 +++
 
