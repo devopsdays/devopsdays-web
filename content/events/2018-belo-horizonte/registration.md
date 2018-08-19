@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Belo Horizonte 2018"
+Description = "Registre-se e adquira o ingresso para o DevOpsDays Belo Horizonte 2018"
 +++
 
 <div style="width:100%; text-align:left;">
