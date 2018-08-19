@@ -1,7 +1,7 @@
 +++
 Title = "Heidi Waterhouse"
 Twitter = "wiredferret"
-
+image="heidiwaterhouse.jpg"
 type = "speaker"
 website="http://www.heidiwaterhouse.com/"
 +++

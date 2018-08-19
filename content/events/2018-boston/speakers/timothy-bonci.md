@@ -4,7 +4,7 @@ Twitter = ""
 
 type = "speaker"
 linktitle = ""
-image = ""
+image = "tbonci.jpg"
 +++
 
 * Jack-of-all-trades, which is different from full-stack.
