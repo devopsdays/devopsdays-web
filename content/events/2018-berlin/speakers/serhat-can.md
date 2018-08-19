@@ -3,7 +3,7 @@ title = "Serhat Can"
 twitter = "srhtcn"
 linkedin = ""
 website = ""
-image = ""
+image = "serhat-can.jpg"
 type = "speaker"
 linktitle = ["serhat-can"]
 +++
