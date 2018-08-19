@@ -13,6 +13,8 @@ Slides = ""
 Website = ""
 +++
 
+##### TALK ABSTRACT
+
 Our goal at Verizon is to create a shared multi-tenant container platform to:
 
 * Accelerate our public cloud migration strategy

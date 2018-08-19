@@ -13,6 +13,8 @@ Slides = ""
 Website = "https://www.linkedin.com/in/bryan-finster/"
 +++
 
+##### TALK ABSTRACT
+
 Scaling a DevOps transformation is one of the biggest problems enterprises faces as they seek to accelerate value delivery. Some teams focus on the culture and automation changes in silos or with limited collaboration. Other teams may not understand the value and continue to deliver at a cadence they have always found comfortable. Tool fragmentation, process fragmentation, misunderstandings of how CI works or what CD actually is are constant struggles. At Walmart, we are taking an integrated approach to address this.
 
 * Community of interest: After a successful DevOps day, passionate developers formed a community to meet frequently and share what we are doing in each of our teams. As people ask questions, we point them to the community for answers. The core team of the community works closely with our delivery platform team to organize events and guide good processes.

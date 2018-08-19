@@ -34,21 +34,12 @@ location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 #
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-    icon: "map-o"
-  - name: propose
-    icon: "paper-plane"
-  - name: registration
-    icon: "pencil"
   - name: program
-    icon: "calendar-alt"
   - name: speakers
-    icon: bullhorn
+  - name: registration
   - name: sponsor
-    icon: "hand-holding-usd"
   - name: contact
-    icon: "envelope-o"
   - name: conduct
-    icon: "handshake-o"
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -147,16 +138,16 @@ team_members: # Name is the only required field for team members.
 #   website: ""
     github: "https://github.com/jaxteoh"
     image: "jack.jpg"
-  - name: "Mark Balios"
-    employer: "Organizer Role - Leadership / CFP / Paper Review / Program Schedule"
-    role: "Amazon Web Services"
+#  - name: "Mark Balios"
+#    employer: "Organizer Role - Leadership / CFP / Paper Review / Program Schedule"
+#    role: "Amazon Web Services"
 #    bio: ""
 #    twitter: "markbalios"
-    linkedin: "https://www.linkedin.com/in/markbalios/"
+#    linkedin: "https://www.linkedin.com/in/markbalios/"
 #   facebook:
 #   website: ""
 #   github: ""
-    image: "mbalios.jpg"    
+#    image: "mbalios.jpg"    
   - name: "Jessica Clark"
     role: "Capital One"
     employer: "Organizer Role - Sponsor Coordinator / Fundraising"
@@ -242,6 +233,10 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: capitalone
     level: location_and_diamond
+  - id: beyondsoft
+    level: leadership
+  - id: cloudbees
+    level: leadership
   - id: improving
     level: b4con
   - id: pagerduty
@@ -515,19 +510,19 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: ""
+  - title: "ravi-lachhman"
     date: 2018-08-30
-  - title: ""
+  - title: "ivan-fan"
     date: 2018-08-30
-  - title: ""
+  - title: "david-ayers"
     date: 2018-08-30
-  - title: ""
+  - title: "khurrum-khan"
     date: 2018-08-30
-  - title: ""
+  - title: "james-thomas"
     date: 2018-08-30
-  - title: ""
+  - title: "mohamad-bayan"
     date: 2018-08-30
-  - title: ""
+  - title: "jane-prusakova"
     date: 2018-08-30
   - title: ""
     date: 2018-08-30

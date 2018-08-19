@@ -3,7 +3,7 @@ title = "Daniel Maher"
 twitter = "phrawzty"
 linkedin = ""
 website = ""
-image = ""
+image = "daniel-maher.jpg"
 type = "speaker"
 linktitle = ["daniel-maher"]
 +++

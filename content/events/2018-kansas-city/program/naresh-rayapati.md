@@ -7,5 +7,13 @@ Type = "talk"
 Speakers = ["naresh-rayapati"]
 +++
 
-Maintainer of couple of Jenkins Plugins, Senior Software Engineer at Cerner.
-Naresh Rayapati has worked in Software for over a decade, in various Asian countries before he moved to USA. He is currently a Senior Software Engineer at Cerner Corporation, a leading provider of healthcare information technology. He is basically a very strong Java developer, working as a Big Data Engineer. In the recent years his focus has been on enabling DevOps practices in his current team. Naresh is also maintaining couple of Jenkins plugins since last several years. 
+The Jenkins Pipeline plugin is a game changer for Jenkins users. Based on a Domain Specific Language (DSL) in Groovy, the Pipeline plugin makes pipelines scriptable and it is an incredibly powerful way to develop complex, multi-step DevOps pipelines. These Pipelines are becoming the standard way to programmatically specify your CI flow, in this talk we will demo following things in detail:
+
+* Introduction to Jenkins Pipeline.
+* Scripted vs Declarative.
+* Shared Pipeline Libraries.
+* Pipeline as YAML.
+* Best Practices.
+* Tips and Tricks.
+
+The target audience is members of a development organization who are using Jenkins pipelines or planning to use to advance the CI/CD journey. 
