@@ -84,6 +84,10 @@ sponsors:
     level: partner
   - id: admin-magazine
     level: partner
+  - id: osb-alliance
+    level: partner
+  - id: 2016-norisnetwork
+    level: eveningevent
   - id: stackstate
     level: platinum
   - id: pivotal
@@ -92,6 +96,12 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
+  - id: questsoftware
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: burdaforward
+    level: gold
   - id: nubank_de
     level: silver
 
@@ -199,7 +209,7 @@ program:
     type: talk
     date: 2018-09-12
     start_time: "16:00"
-    end_time: "16:45"    
+    end_time: "16:45"
   - title: "Close Day"
     type: custom
     date: 2018-09-12
@@ -284,7 +294,7 @@ program:
     type: talk
     date: 2018-09-13
     start_time: "15:00"
-    end_time: "15:45"     
+    end_time: "15:45"
   - title: "Open Space #3"
     type: open-space
     date: 2018-09-13
@@ -294,7 +304,7 @@ program:
     type: talk
     date: 2018-09-13
     start_time: "16:00"
-    end_time: "16:45"    
+    end_time: "16:45"
   - title: "Some closing words and saying good-bye"
     type: custom
     date: 2018-09-13
