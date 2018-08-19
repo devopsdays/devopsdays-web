@@ -10,12 +10,12 @@ startdate: 2018-09-29 # The start date of your event. Leave blank if you don't h
 enddate: 2018-09-29 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2018-08-17 # start accepting talk proposals.
+cfp_date_end: 2018-09-09 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://papercall.io/devopsdaysbh" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -48,7 +48,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Amanda Pinto"
     employer: ""
-    twitter: ""
+    twitter: "devopsdaysbh"
     bio: ""
     image: "amanda-pinto.jpg"  
   - name: "André Almar"
@@ -56,40 +56,45 @@ team_members: # Name is the only required field for team members.
     twitter: ""
     bio: ""
     image: "andre-almar.jpg"
+  - name: "Ana Cláudia Grossi"
+    employer: ""
+    twitter: "devopsdaysbh"
+    image: "ana-claudia-grossi.jpg"
+    bio: ""
   - name: "Dalton Strauss"
     employer: ""
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     image: "dalton-strauss.jpg"
     bio: ""
   - name: "Daniel Reis"
     employer: ""
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     bio: ""
     image: "daniel-reis.jpg"
   - name: "Diego F. Duarte"
     employer: "Avenue Code."
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     bio: ""
     image: "diego-f-duarte.jpg"
   - name: "Gustavo Fagundes"
     employer: ""
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     image: "gustavo-fagundes.jpg"
     bio: ""
   - name: "Marco Antonio M. Junior (Somatório)"
     employer: ""
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     bio: ""
     image: "marco-antonio.jpg"
   - name: "Rafael Gomes (Gomex)"
     employer: ""
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     linkedin: "https://www.linkedin.com/in/rbgomes"
     bio: ""
     image: "rafael-gomes.jpg"
   - name: "Zandler Oliveira"
     employer: ""
-    twitter: "devopsdays"
+    twitter: "devopsdaysbh"
     bio: ""
     github: "devopsdaysbh"
     image: "zandler-oliveira.jpg"
