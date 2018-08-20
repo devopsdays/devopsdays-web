@@ -5,7 +5,7 @@ Description = "Proponha uma talk para o DevOpsDays Belo Horizonte 2018"
 +++
   {{< cfp_dates >}}
 
-<center>**Link para submissões:** Em breve!</center>
+<center>Link para submissões: https://www.papercall.io/devopsdaysbh</center>
 
 <hr>
 
@@ -33,7 +33,4 @@ A escolha das palestras é parte arte e parte ciência; aqui estão alguns fator
 
 ## Mais informações
 
-Se você faz parte de grupos pouco representados no universo de TI e gostaria de apresentar algo, mas não se sente seguro, [contate](/events/2018-florianópolis/contato) diretamente nossos organizadores para que possamos fornecer subsídios como mentoria, por exemplo, para que faça uma grande palestra com total segurança.
-
-
-Esta página foi adaptada da [página de CFP do devopsdays SP 2018](https://www.devopsdays.org/events/2018-sao-paulo/cfp/)
+Se você faz parte de grupos pouco representados no universo de TI e gostaria de apresentar algo, mas não se sente seguro, [contate](/events/2018-belo-horizonte/contato) diretamente nossos organizadores para que possamos fornecer subsídios como mentoria, por exemplo, para que faça uma grande palestra com total segurança.
