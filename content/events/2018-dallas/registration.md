@@ -9,21 +9,6 @@ Description = "Registration for devopsdays Dallas 2018"
 </div>
 <br>
 
-<hr>
-
-#### Diversity Scholarship Information
-The devopsdays DFW's diversity scholarship program provides support to those from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities who may not otherwise have the opportunity to attend devopsdays events for financial reasons.
-
-Equal access and diversity are important to the devopsdays DFW conference, and we aim to remove this obstacle. We want you at our events, and we want to help you get there!
-Scholarships are awarded based on a combination of need and impact. Selection limited and will be made by an assembled group of reviewers who will assess each applicant's request.
-
-Scholarship recipients will receive a complimentary registration pass. Please note, travel expenses are not covered under this scholarship and are the responsibility of the scholarship recipient. To apply for the scholarship, by visiting our <strong><a href=""> Diversity Scholarship Application - COMING SOON</a></strong>.
- 
-#### Eligibility
-Applicants must be from a traditionally underrepresented and/or marginalized group in the technology and/or open source communities including, but not limited to: persons identifying as LGBTQ, women, persons of color, and/or persons with disabilities; and be unable to attend without some financial assistance.
- 
-#### How to Apply
-To apply, please fill out the scholarship application. All application information will be kept confidential. Please allow the committee enough time to review the application. The accepted applicants will be notified via email the week of August 7-11. If you have any questions, please contact us at <strong><a href="mailto:organizers-dallas-2018@devopsdays.org">organizers-dallas-2018@devopsdays.org</a></strong>. 
 
 <br>
 <br>
