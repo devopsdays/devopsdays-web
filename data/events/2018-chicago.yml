@@ -184,10 +184,16 @@ sponsors:
     level: silver
   - id: saucelabs
     level: silver
+  - id: github
+    level: silver
   - id: mongodb
     level: bronze
+  - id: ca
+    level: evening
   - id: confluent
     level: lanyard
+  - id: hashicorp
+    level: meal
   - id: tempus
     level: meal
   - id: spantree
@@ -232,6 +238,9 @@ sponsor_levels:
     max: 14
   - id: bronze
     label: Bronze
+  - id: evening
+    label: Evening Event
+    max: 1
   - id: lanyard
     label: Lanyard
     max: 1
