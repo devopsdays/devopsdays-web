@@ -1,7 +1,7 @@
 +++
 Title = "James Meickle"
 Twitter = "jmeickle"
-
+image = "james-meickle.jpg"
 type = "speaker"
 website="http://permadeath.com/"
 +++
