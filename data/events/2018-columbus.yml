@@ -93,7 +93,11 @@ sponsors:
     level: gold
   - id: chef
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+  - id: 2015-covermymeds
+    level: gold
+  - id: nationwide
+    level: silver
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 
