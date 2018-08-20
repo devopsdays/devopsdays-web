@@ -1,7 +1,7 @@
 +++
 Title = "Timothy Bonci"
 Twitter = ""
-
+image = "timothy-bonci.jpg"
 type = "speaker"
 linktitle = ""
 +++
