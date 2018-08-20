@@ -2,7 +2,7 @@
 title = "Carla Souza"
 Twitter = ""
 linkedin = ""
-image = "carla.png"
+image = "carla-souza.png"
 type = "speaker"
 linktitle = "carla-souza"
 +++
