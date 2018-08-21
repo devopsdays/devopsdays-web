@@ -154,7 +154,7 @@ program:
     date: 2018-09-27
     start_time: "11:10"
     end_time: "11:25"
-  - title: "anton-babenko-talk-1"
+  - title: "anton-arhipov-talk-1"
     type: talk
     date: 2018-09-27
     start_time: "11:25"
@@ -377,7 +377,7 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "anton-arhipov-talk-1"
+  - title: "matty-stratton-ignite-1"
     date: 2018-09-27
   - title: "anton-babenko-ignite-1"
     date: 2018-09-27
