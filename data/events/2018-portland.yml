@@ -269,7 +269,7 @@ program:
     date: 2018-09-13
     start_time: "09:45"
     end_time: "09:55"
-  - title: "kate-taggart"
+  - title: "tbd"
     type: talk
     date: 2018-09-13
     start_time: "09:55"
@@ -324,7 +324,12 @@ program:
     date: 2018-09-13
     start_time: "15:30"
     end_time: "16:00"
-  - title: "abel-wang"
+  - title: "Break"
+    type: custom
+    date: 2018-09-13
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "jennifer-davis"
     type: talk
     date: 2018-09-13
     start_time: "16:20"
@@ -343,8 +348,6 @@ ignites:
   - title: "matthew-broberg"
     date: 2018-09-12
   - title: "david-laulusa"
-    date: 2018-09-12
-  - title: "aaron-aldrich"
     date: 2018-09-12
 
   - title: "patrick-obrien"
