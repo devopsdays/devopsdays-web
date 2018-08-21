@@ -2,7 +2,7 @@
 Title = "Natália Raythz"
 Twitter = "guriadeprograma"
 linkedin = "" 
-image = "natalia.jpeg"
+image = "natalia-raythz.jpg"
 type = "speaker"
 linktitle = "natalia-raythz"
 +++

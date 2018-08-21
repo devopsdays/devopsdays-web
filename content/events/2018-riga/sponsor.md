@@ -62,8 +62,8 @@ networking, branding, and talent recruitment.</p>
   </tr>
   <tr>
     <td class="tg-y49x"></td>
-    <td class="tg-h7od">8 available</td>
-    <td class="tg-h7od">3 available</td>
+    <td class="tg-h7od">3 more available</td>
+    <td class="tg-h7od">1 more available</td>
   </tr>
   <tr>
     <td class="tg-yzt1">Pricing</td>
@@ -212,8 +212,8 @@ help you further promote your company or cause:</p>
     <th class="tg-yzt1">€ 1,490</th>
     <th class="tg-yzt1">10 Branded discounted Diversity tickets for students, girls and people who pay from own pocket (if sponsor wants we can change scope of eligible people)</th>
   </tr>
-  <tr>
-    <th class="tg-yzt1">Beer sponsor* </th>
+  <tr class="sold-out">
+    <th class="tg-yzt1">Beer sponsor * </th>
     <th class="tg-yzt1">€ 1,300</th>
     <th class="tg-yzt1">Logo on beer bottles </th>
   </tr>

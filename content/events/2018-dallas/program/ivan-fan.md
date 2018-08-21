@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Managing AWS Infrastructure at Scale"
+Title = "Managing Cloud Infrastructure at Scale"
 Type = "talk"
 Speakers = ["ivan-fan"]
 Youtube = ""

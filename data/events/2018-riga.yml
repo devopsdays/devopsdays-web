@@ -55,9 +55,15 @@ sponsors:
   #platinum
   - id: accenture-latvia
     level: platinum
+  - id: cognizant
+    level: platinum
+  - id: cognizant
+    level: beer
   - id: evolution-gaming
     level: gold
   - id: zabbix
+    level: gold
+  - id: ctco
     level: gold
   - id: chef
     level: gold
@@ -65,10 +71,10 @@ sponsors:
     level: gold
   - id: papercall
     level: silver
-  - id: 4financeit
+  - id: 4finance
     level: silver
-# - id: ctco
-#    level: gold
+  - id: 4finance
+    level: lanyard
   - id: devclub-lv
     level: friends
   - id: berlin-baltic-nordic-net
@@ -82,9 +88,15 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: "8"
+  - id: beer
+    label: Beer
+    max: "1"
   - id: silver
     label: Silver
     max: "12"
+  - id: lanyard
+    label: Lanyard
+    max: "1"
   - id: friends
     label: Friends, media partners and other
 

@@ -2,7 +2,7 @@
 Title = "Elias Nogueira"
 Twitter = ""
 linkedin = "" 
-image = "elias_nogueira.jpeg"
+image = "elias-nogueira.jpg"
 type = "speaker"
 linktitle = "elias-nogueira"
 +++
