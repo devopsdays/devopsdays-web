@@ -417,7 +417,7 @@ program:
     date: 2018-08-30
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Close Day, Logistics, & Raffle"
+  - title: "Close Day & Logistics"
     type: custom
     date: 2018-08-30
     start_time: "16:45"
