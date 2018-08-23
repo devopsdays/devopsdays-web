@@ -160,7 +160,7 @@ team_members: # Name is the only required field for team members.
     image: "jessica.jpg"
   - name: "Roger Servey"
     role: "Verizon"
-    employer: "Organizer Role - Leadershiop Summit"
+    employer: "Organizer Role - Leadership Summit"
     bio: ""
     twitter: ""
     linkedin: ""
@@ -170,7 +170,7 @@ team_members: # Name is the only required field for team members.
     image: ""
   - name: "Charles Humphrey"
     role: ""
-    employer: "Organizer Role - "
+    employer: "Organizer Role - Backup Leadership Summit"
     bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
 <br><br>
 Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
@@ -202,9 +202,9 @@ As a recognized leader in the DevOps space with exemplary recommendations in the
     github: "mikerostx"
     image: "mike.jpg"
   - name: "Ramesh Venkataramiah"
-    employer: "Organizer Role - "
+    employer: "Organizer Role - CFP Organizing Committee / Backup Sponsor Liaison"
     role: "karmaPond"
-#    bio: ""
+    bio: "Ramesh is a technology expert with over 20 years of experience and demonstrated ability to architect and build differentiating capabilities, solve complex problems, and lead distributed teams towards shared strategic goals. Recently he is primarily focused on developing data products in data science area with specific emphasis on security/privacy and Predictive Modeling with Machine Learning/AI Tools.   Previously, he served as an Enterprise Architect, with multiple roles in Engineering and Product Development throughout matrix organizations, shared services, and collaborative teams among business units.<br><br>He has provided Hadoop/Spark technology advice to Microsoft Azure, Amazon AWS, T-Systems and Fujitsu networks (private cloud) to implement data science/analytics platforms and implemented Cloudera Hadoop platforms and applications on partner infrastructure by employing devops automation tools and services. As partner development architect, he developed reference architectures for deployment and implementation of Hadoop ecosystem services and optimized for better performance.<br><br>Ramesh is based in Dallas-Fort Worth area and has a Ph. D. from Texas A&M University. In his off time enjoys practicing Yoga, Tai Chi and Martial Arts."
 #    twitter: ""
     linkedin: "https://www.linkedin.com/in/ramesh-venkataramiah-359898a3/"
 #   facebook:
