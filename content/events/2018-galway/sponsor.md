@@ -135,7 +135,7 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
       </div>
     </div>
     <div class="col-md-3 col-sm-12">
-      <a href="https://assets.devopsdays.org/events/2018/galway/2018_DevOps_Days_Galway_Pitch_OnePager.pdf"><img src="/events/2018-galway/2018_DevOps_Days_Galway_Pitch_OnePager.jpg" class="img-fluid"></a>
+      <a href="https://assets.devopsdays.org/events/2018/galway/2018_DevOps_Days_Galway_Pitch_OnePager.pdf"><img src="/events/2018-galway/2018_DevOps_Days_Galway_Pitch_OnePager.png" class="img-fluid"></a>
     </div>
   </div>
 </div>
