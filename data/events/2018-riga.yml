@@ -338,8 +338,8 @@ program:
     start_time: "16:20"
     end_time: "16:50"
     
-  - title: "serhat-can-talk-1"
-    type: talk
+  - title: "Talk"
+    type: custom
     date: 2018-09-28
     start_time: "16:20"
     end_time: "16:50"
