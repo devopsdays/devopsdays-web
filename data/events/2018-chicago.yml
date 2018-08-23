@@ -184,10 +184,18 @@ sponsors:
     level: silver
   - id: saucelabs
     level: silver
+  - id: github
+    level: silver
   - id: mongodb
     level: bronze
+  - id: coyote
+    level: bronze
+  - id: ca
+    level: evening
   - id: confluent
     level: lanyard
+  - id: hashicorp
+    level: meal
   - id: tempus
     level: meal
   - id: spantree
@@ -232,6 +240,9 @@ sponsor_levels:
     max: 14
   - id: bronze
     label: Bronze
+  - id: evening
+    label: Evening Event
+    max: 1
   - id: lanyard
     label: Lanyard
     max: 1
@@ -291,7 +302,7 @@ program:
     date: 2018-08-28
     start_time: "11:10"
     end_time: "11:20"
-  - title: "kim-bannerman"
+  - title: "quintessence-anx"
     type: talk
     date: 2018-08-28
     start_time: "11:20"
@@ -359,9 +370,9 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-08-28
-    start_time: "18:00"
-    end_time: "late"
-    comments: "This will take place at the venue"
+    start_time: "17:15"
+    end_time: "21:00"
+    comments: "15th Floor of the Holiday Inn Mart Plaza. Badge Required."
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-08-29
@@ -402,7 +413,7 @@ program:
     date: 2018-08-29
     start_time: "11:10"
     end_time: "11:20"
-  - title: "quintessence-anx"
+  - title: "aaron-kalin"
     type: talk
     date: 2018-08-29
     start_time: "11:20"
@@ -412,8 +423,8 @@ program:
     date: 2018-08-29
     start_time: "11:50"
     end_time: "13:00"
-  - title: "aaron-kalin"
-    type: talk
+  - title: "Ignites"
+    type: ignite
     date: 2018-08-29
     start_time: "13:00"
     end_time: "13:30"
@@ -422,45 +433,45 @@ program:
     date: 2018-08-29
     start_time: "13:30"
     end_time: "13:40"
-  - title: "Ignites"
-    type: ignite
-    date: 2018-08-29
-    start_time: "13:40"
-    end_time: "14:15"
   - title: "Open Space Opening"
     type: open-space
     date: 2018-08-29
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "13:40"
+    end_time: "14:15"
   - title: "attendee-suggested breakout discussions - Open Space #4"
     type: open-space
     date: 2018-08-29
-    start_time: "14:45"
-    end_time: "15:30"
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "rachael-byrne"
     type: workshop
     date: 2018-08-29
-    start_time: "14:45"
-    end_time: "15:30"
+    start_time: "14:15"
+    end_time: "15:00"
   - title: "Break"
     type: custom
     date: 2018-08-29
-    start_time: "15:30"
-    end_time: "15:45"
+    start_time: "15:00"
+    end_time: "15:15"
   - title: "attendee-suggested breakout discussions - Open Space #5"
     type: open-space
     date: 2018-08-29
-    start_time: "15:45"
-    end_time: "16:30"
+    start_time: "15:15"
+    end_time: "16:00"
   - title: "chris-van-tuin"
     type: workshop
     date: 2018-08-29
-    start_time: "15:45"
-    end_time: "16:30"
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-08-29
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "Close Day & Farewell"
     type: custom
     date: 2018-08-29
-    start_time: "16:30"
+    start_time: "16:45"
     end_time: "17:00"
 ignites:
   - title: "katie-prizy"

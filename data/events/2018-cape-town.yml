@@ -78,8 +78,8 @@ sponsors:
     level: basic
   - id: arresteddevops
     level: community
-#   - id: 
-#     level: 
+  - id: lpi-za
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

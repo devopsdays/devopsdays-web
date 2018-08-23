@@ -104,6 +104,8 @@ sponsors:
     level: silver
   - id: snapbytes
     level: silver
+  - id: ca-comparex
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: devopsturkey
     level: community

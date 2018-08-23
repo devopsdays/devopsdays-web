@@ -73,7 +73,7 @@ team_members: # Name is the only required field for team members.
   - name: "Adriano Bastos"
     twitter: "aaobastos"
   - name: "Judy Marcelo"
-    twitter: "h3yitsjudy"
+    twitter: "arthriticcoder"
   - name: "Raf Gemmail"
     twitter: "fiqus"
   - name: "Peter Sellars"
@@ -95,7 +95,9 @@ sponsors:
     level: gold
   - id: 2016-pushpay
     level: gold
-  - id: 2016-oss
+  - id: oss
+    level: gold
+  - id: SECTION6
     level: gold
   - id: flux
     level: silver

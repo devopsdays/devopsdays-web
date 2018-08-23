@@ -151,6 +151,12 @@ sponsors:
   - id: f13
     level: silver
     url: https://www.f13.com.br/
+  - id: 4linux
+    level: community
+    url: https://www.4linux.com.br/
+  - id: 4devops
+    level: community
+    url: http://4devops.com.br/
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

@@ -31,7 +31,7 @@ location: "Oregon Convention Center" # Defaults to city, but you can make it the
 location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
  # - name: location
   - name: registration
     url: https://devopsdayspdx2018.busyconf.com/bookings/new
@@ -269,7 +269,7 @@ program:
     date: 2018-09-13
     start_time: "09:45"
     end_time: "09:55"
-  - title: "kate-taggart"
+  - title: "tbd"
     type: talk
     date: 2018-09-13
     start_time: "09:55"
@@ -324,7 +324,12 @@ program:
     date: 2018-09-13
     start_time: "15:30"
     end_time: "16:00"
-  - title: "abel-wang"
+  - title: "Break"
+    type: custom
+    date: 2018-09-13
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "jennifer-davis"
     type: talk
     date: 2018-09-13
     start_time: "16:20"

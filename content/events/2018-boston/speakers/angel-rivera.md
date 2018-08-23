@@ -1,6 +1,7 @@
 +++
 Title = "Angel Rivera"
 Twitter = "punkdata"
+image = "angel-rivera.png"
 type = "speaker"
 +++
 

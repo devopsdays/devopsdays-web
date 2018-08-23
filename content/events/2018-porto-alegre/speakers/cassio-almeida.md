@@ -2,7 +2,7 @@
 Title = "Cassio Almeida"
 Twitter = ""
 linkedin = ""
-image = "cassio.jpg"
+image = "cassio-almeida.jpg"
 type = "speaker"
 linktitle = "cassio-almeida"
 +++
