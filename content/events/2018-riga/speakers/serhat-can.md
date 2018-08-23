@@ -11,6 +11,8 @@ linktitle = ["serhat-can"]
 
 <p>Serhat Can is the Technical Evangelist for OpsGenie and organizer of Serverless Turkey, DevOps Turkey and İstanbul DevOpsDays”.</p>
 
+
+
 <!-- Facebook Pixel Code -->
 <script>
  !function(f,b,e,v,n,t,s)
