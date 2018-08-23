@@ -370,7 +370,7 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-08-28
-    start_time: "17:00"
+    start_time: "17:15"
     end_time: "21:00"
     comments: "15th Floor of the Holiday Inn Mart Plaza. Badge Required."
   - title: "Registration, Breakfast, Sponsors"
