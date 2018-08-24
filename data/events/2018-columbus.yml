@@ -35,8 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -95,6 +95,8 @@ sponsors:
     level: gold
   - id: 2015-covermymeds
     level: gold
+  - id: servicenow
+    level: gold
   - id: nationwide
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -122,3 +124,158 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+- title: "Registration and Breakfast" # Day 1 Start
+  type: custom
+  date: 2018-09-19
+  start_time: "8:00"
+  end_time: "9:00"
+
+- title: "Opening Welcome"
+  type: custom
+  date: 2018-09-19
+  start_time: "9:15"
+  end_time: "9:00"
+
+- title: "tiffany-longworth"
+  type: talk
+  date: 2018-09-19
+  start_time: "9:15"
+  end_time: "9:45"
+
+- title: "simon-harrison"
+  type: talk
+  date: 2018-09-19
+  start_time: "9:55"
+  end_time: "10:25"
+
+- title: "Break"
+  type: custom
+  date: 2018-09-19
+  start_time: "10:25"
+  end_time: "10:40"
+
+- title: "david-laribee"
+  type: talk
+  date: 2018-09-19
+  start_time: "10:40"
+  end_time: "11:15"
+
+- title: "john-willis"
+  type: talk
+  date: 2018-09-19
+  start_time: "11:20"
+  end_time: "11:50"
+
+- title: "Break"
+  type: custom
+  date: 2018-09-19
+  start_time: "12:00"
+  end_time: "12:00"
+
+- title: "Lunch"
+  type: custom
+  date: 2018-09-19
+  start_time: "12:00"
+  end_time: "1:00"
+
+- title: "Ignites"
+  type: ignite
+  date: 2018-09-19
+  start_time: "1:00"
+  end_time: "1:30"
+
+- title: "Open Spaces Voting"
+  type: open-space
+  date: 2018-09-19
+  start_time: "1:30"
+  end_time: "1:55"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2018-09-19
+  start_time: "2:00"
+  end_time: "4:45"
+
+- title: "Close of day"
+  type: custom
+  date: 2018-09-19
+  start_time: "4:45"
+  end_time: "5:00"
+
+- title: "Registration and Breakfast" # Day 2 start
+  type: custom
+  date: 2018-09-20
+  start_time: "8:00"
+  end_time: "9:00"
+
+- title: "angel-rivera"
+  type: talk
+  date: 2018-09-20
+  start_time: "9:15"
+  end_time: "9:45"
+
+- title: "jack-maher"
+  type: talk
+  date: 2018-09-20
+  start_time: "9:55"
+  end_time: "10:25"
+
+- title: "Break"
+  type: custom
+  date: 2018-09-20
+  start_time: "10:25"
+  end_time: "10:40"
+
+- title: "laura-maguire"
+  type: talk
+  date: 2018-09-20
+  start_time: "10:40"
+  end_time: "11:10"
+
+- title: "allie-richards"
+  type: talk
+  date: 2018-09-20
+  start_time: "11:20"
+  end_time: "11:55"
+
+- title: "Lunch"
+  type: custom
+  date: 2018-09-20
+  start_time: "12:00"
+  end_time: "1:00"
+
+- title: "Ignites"
+  type: ignite
+  date: 2018-09-20
+  start_time: "1:00"
+  end_time: "1:30"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2018-09-20
+  start_time: "1:30"
+  end_time: "4:00"
+
+- title: "Close of Event"
+  type: custom
+  date: 2018-09-20
+  start_time: "4:00"
+  end_time: "4:30"
+
+ignites:
+- title: "laura-maguire-ignite"
+  date: 2018-09-19
+- title: "asher-balkin"
+  date: 2018-09-19
+- title: "amy-bedinghaus"
+  date: 2018-09-19
+- title: "matt-williams"
+  date: 2018-09-19
+- title: "tiffany-longworth-ignite"
+  date: 2018-09-20
+- title: "chris-short"
+  date: 2018-09-20
+- title: "damian-synadinos"
+  date: 2018-09-20
