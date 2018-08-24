@@ -43,8 +43,6 @@ Description = "devopsdays Phoenix 2018"
     <p><strong>Sharing</strong></p>
 
     <p>One of the great parts of DevOpsDays is learning from other attendees.  There will be plenty of time to share success and failure stories with each other, get feedback on your next crazy idea, ask for help solving a real world problem you are facing when you go back to work on Wednesday.</p>
-
-    <h2>CFP is open now, you can submit your <a href="https://www.papercall.io/devopsday-phoenix-2018">talk</a> </h2>
 </br>
     <h2>Don't be left out get your {{< event_link page="registration" text="tickets" >}} today.</h2>
 
@@ -82,19 +80,17 @@ Description = "devopsdays Phoenix 2018"
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
-
+<!--
  <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <!-- overriding framework since it doesn't render html link -->
     <a href="https://www.papercall.io/devopsday-phoenix-2018">Propose a Talk!</a> 
-    <!--
     {{< event_link page="propose" text="Propose a talk!" >}}
-    -->
   </div>
 </div>
+-->
 <!--
  <div class = "row">
   <div class = "col-md-2">
