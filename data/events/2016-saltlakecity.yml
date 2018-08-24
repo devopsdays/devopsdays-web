@@ -69,7 +69,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: blackdiamond
   - id: ca_tech
     level: bluesquare
-  - id: victorops
+  - id: victorops-before-20180823
     level: bluesquare
   - id: vmware
     level: bluesquare
