@@ -6,15 +6,15 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
-## Reporting issues
-
-If you discover an issue with the theme, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new).
-
 ## Managing event content
 
 Reference documentation for the currently available theme is available in [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
 
 Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md).
+
+## Reporting issues
+
+If you discover an issue with the theme, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new).
 
 ## Binary files
 
