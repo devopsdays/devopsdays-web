@@ -12,7 +12,9 @@ If you discover an issue with the theme, please open an issue in the [devopsdays
 
 ## Managing event content
 
-Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md). Full documentation on the currently released theme is always found in  [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
+Reference documentation for the currently available theme is available in [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
+
+Instructions and utilities are available for [managing sponsors, events, speakers, and more](utilities/README.md).
 
 ## Binary files
 
