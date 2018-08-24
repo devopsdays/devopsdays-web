@@ -171,45 +171,18 @@ sponsors:
   - id: verizon
     level: platinum
   - id: newrelic
+    level: gold
+  - id: 2018-victorops
     level: platinum
-
-  # - id: treasuredata
+  - id: valiantys
+    level: gold
+  - id: googlecloud
+    level: gold
+  # - id: cloudsearch
   #   level: gold
-  # - id: genians
-  #   level: gold
-  # - id: thoughtworks-gocd
-  #   level: platinum
-  # - id: digitalocean
-  #   level: platinum
-  # - id: ns1
-  #   level: platinum
-  # - id: hackernest-bos
-  #   level: community
-  # - id: questsoftware
-  #   level: gold
-  # - id: verizon
-  #   level: gold
-  # - id: nutanix
-  #   level: gold
-  # - id: mabl
-  #   level: gold
-  # - id: turbinelabs
-  #   level: gold
-  # - id: pivotal
-  #   level: gold
-  # - id: herzum
-  #   level: gold
-  # - id: victorops
-  #   level: platinum
-  # - id: influxdata
-  #   level: gold
-  # - id: pagerduty
-  #   level: gold
-  # - id: actblue
-  #   level: gold
-  # - id: veracode
-  #   level: gold
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: redgate
+    level: gold
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -393,7 +366,7 @@ program:
     date: 2018-09-25
     start_time: "11:15"
     end_time: "11:45"
-  - title: "paul-bruce"
+  - title: "matty-stratton"
     type: talk
     date: 2018-09-25
     start_time: "11:15"
@@ -418,7 +391,7 @@ program:
     date: 2018-09-25
     start_time: "13:15"
     end_time: "13:45"
-  - title: "matty-stratton"
+  - title: "paul-bruce"
     type: talk
     date: 2018-09-25
     start_time: "13:45"

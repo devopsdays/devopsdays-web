@@ -1,7 +1,7 @@
 +++
 Title = "Expand Contract Pattern for Continuous Delivery of Databases"
 Type = "talk"
-Speakers = ["leenasn"]
+Speakers = ["leena-s-n"]
 +++
 Modifying the schema of a production database is hard. If something goes wrong, the impact on both customers and the team can be enormous. And it can be hard or even impossible to rollback a database schema change if things go wrong. The same is true for any architectural change for a production application.
 
