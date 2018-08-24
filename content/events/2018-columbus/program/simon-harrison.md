@@ -7,4 +7,3 @@ Type = "talk"
 Speakers = ["simon-harrison"]
 +++
 
-Summary
