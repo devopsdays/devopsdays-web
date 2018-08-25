@@ -37,8 +37,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: sponsor
-  - name: contact
+  - name: accessibility
   - name: conduct
+  - name: contact
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
