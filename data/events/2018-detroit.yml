@@ -10,9 +10,9 @@ ga_tracking_id: "UA-94092408-1" # Google Analytics tracking ID
 startdate:  2018-10-03
 enddate:  2018-10-04
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-05-23  # start accepting talk proposals.
-cfp_date_end: 2018-08-06 # close your call for proposals.
-cfp_date_announce: 2018-08-28 # inform proposers of status
+cfp_date_start: 2018-05-23T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-08-06T00:00:00-04:00 # close your call for proposals.
+cfp_date_announce: 2018-08-28T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://devopsdaysdetroit.typeform.com/to/XM3TPc" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.

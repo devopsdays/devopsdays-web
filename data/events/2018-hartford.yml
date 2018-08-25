@@ -10,9 +10,9 @@ startdate: 2018-10-16  # The start date of your event. Leave blank if you don't 
 enddate: 2018-10-17  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-05-21 # start accepting talk proposals.
-cfp_date_end: 2018-08-03  # close your call for proposals.
-cfp_date_announce: 2018-08-17  # inform proposers of status
+cfp_date_start: 2018-05-21T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2018-08-03T00:00:00-04:00  # close your call for proposals.
+cfp_date_announce: 2018-08-17T00:00:00-04:00  # inform proposers of status
 
 cfp_open: "true"
 # cfp_link: "https://dodhart2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.

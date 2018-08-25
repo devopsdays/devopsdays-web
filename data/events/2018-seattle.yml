@@ -10,9 +10,9 @@ startdate: 2018-04-24 # The start date of your event. Leave blank if you don't h
 enddate: 2018-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-10-09  # start accepting talk proposals.
-cfp_date_end: 2018-01-07 # close your call for proposals.
-cfp_date_announce: 2018-01-28 # inform proposers of status
+cfp_date_start: 2017-10-09T00:00:00-07:00  # start accepting talk proposals.
+cfp_date_end: 2018-01-07T00:00:00-08:00 # close your call for proposals.
+cfp_date_announce: 2018-01-28T00:00:00-08:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-seattle-2108" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
