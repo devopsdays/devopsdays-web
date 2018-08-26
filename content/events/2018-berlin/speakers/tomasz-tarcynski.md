@@ -3,7 +3,7 @@ title = "Tomasz Tarczyński"
 twitter = ""
 linkedin = ""
 website = ""
-image = ""
+image = "tomasz-tarcynski.jpg"
 type = "speaker"
 linktitle = ["tomasz-tarzynski"]
 +++

@@ -93,7 +93,7 @@ proposal_email: "organizers-kiev-2018@devopsdays.org" # Put your proposal email 
 sponsors:
   - id:  intellias
     level: silver
-  - id: cyberark
+  - id: cyberark-before-20180505
     level: silver
   - id: provectus
     level: bronze

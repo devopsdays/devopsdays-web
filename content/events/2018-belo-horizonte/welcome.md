@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Belo Horizonte 2018"
+Title = "DevOpsDays Belo Horizonte 2018"
 Type = "welcome"
 aliases = ["/events/2018-belo-horizonte/"]
-Description = "devopsdays Belo Horizonte 2018"
+Description = "DevOpsDays Belo Horizonte 2018"
 +++
 
 <div style="text-align:center;">
@@ -18,14 +18,14 @@ Description = "devopsdays Belo Horizonte 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +36,14 @@ Description = "devopsdays Belo Horizonte 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

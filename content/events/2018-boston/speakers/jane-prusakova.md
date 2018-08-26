@@ -1,6 +1,7 @@
 +++
 Title = "Jane Prusakova"
 Twitter = "jprusakova"
+image = "jane-prusakova.jpg"
 type = "speaker"
 website="https://softwareandotherthings.blogspot.com/"
 +++

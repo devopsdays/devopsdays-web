@@ -2,7 +2,7 @@
 Title = "Jairo Junior"
 Twitter = ""
 linkedin = "" 
-image = "jairo_junior.jpg"
+image = "jairo-junior.jpg"
 type = "speaker"
 linktitle = "jairo-junior"
 +++

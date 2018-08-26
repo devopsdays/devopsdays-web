@@ -1,7 +1,7 @@
 +++
 Title = "Philipp Krenn"
 Twitter = "xeraa"
-image = "philipp-krenn.jpeg"
+image = "philipp-krenn.jpg"
 type = "speaker"
 linktitle = "philipp-krenn"
 

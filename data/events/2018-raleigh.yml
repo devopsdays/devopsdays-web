@@ -125,7 +125,9 @@ sponsors:
     level: gold
   - id: puppet
     level: platinum
-    
+  - id: ine
+    level: gold
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

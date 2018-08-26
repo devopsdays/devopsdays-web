@@ -62,7 +62,7 @@ sponsors:
     level: gold
   - id: opsgenie
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: cyberark-before-20180203
     level: silver
@@ -70,7 +70,7 @@ sponsors:
     level: silver
   - id: arresteddevops
     level: community
-  - id: victorops
+  - id: victorops-before-20180823
     level: mug
   - id: code-monkey
     level: community
