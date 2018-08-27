@@ -88,7 +88,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: newrelic
     level: event
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: columbia
     level: silver

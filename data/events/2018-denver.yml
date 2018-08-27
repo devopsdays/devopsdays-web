@@ -60,7 +60,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: appdynamics
     level: platinum
-  - id: victorops
+  - id: victorops-before-20180823
     level: platinum
   - id: dome9
     level: silver

@@ -121,6 +121,10 @@ sponsors:
     level: silver
   - id: nutanix
     level: silver
+  - id: redhat
+    level: silver
+  - id: cloudbees
+    level: silver
   - id: bitnami
     level: bronze
   - id: waffleio

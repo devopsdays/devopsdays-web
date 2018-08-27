@@ -35,7 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://www.papercall.io/2018-devopsdaysnewy"
   - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: "https://devopsdaysnewy.org/#agenda"
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -82,8 +83,12 @@ proposal_email: "proposals-newcastle-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: assemblient
+    level: bronze
+  - id: 'cmd-solutions'
+    level: silver
+  - id: 'mudbath-digital'
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  #  - id: arresteddevops
  #    level: community
