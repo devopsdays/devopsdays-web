@@ -63,14 +63,10 @@ Estamos complacidos por su interés de participar como ponente en nuestro evento
 <br>
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Síganos / <i>Follow</i>:</strong>
+    <!--<strong>Síganos / <i>Follow</i>:</strong>-->
   </div>
     <div class = "col-md-30">
-    <a href="https://twitter.com/devopsdayspanama">Twitter</a><br>
-    <!-- <a href="https://linkedin.com/groups/7070120">LinkedIn</a><br> -->
-    <!-- <a href="https://speakerdeck.com/devopsdayspanama/">Speakerdeck</a><br> -->
-    <!-- <a href="https://www.youtube.com/channel/UC164HR_pJ1mdIKrorv88AQw">Youtube</a><br> -->
-    <!-- <a href="https://www.flickr.com/photos/devopsdayspanama/sets/72157686783672782">Flickr</a><br> -->
+    {{< event_twitter >}}
     </div>
 </div>  
 
