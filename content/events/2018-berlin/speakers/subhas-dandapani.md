@@ -3,7 +3,7 @@ title = "Subhas Dandapani"
 twitter = ""
 linkedin = ""
 website = "medium.com/@rdsubhas"
-image = ""
+image = "subhas-dandapani.jpg"
 type = "speaker"
 linktitle = ["subhas-dandapani"]
 +++
