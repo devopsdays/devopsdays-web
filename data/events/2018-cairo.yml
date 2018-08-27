@@ -83,8 +83,6 @@ sponsors:
    level: community
  - id: tafra
    level: community
- - id: wuzzuf
-   level: community
  - id: gizasystems
    level: platinum
  - id: advansys
@@ -94,6 +92,8 @@ sponsors:
  - id: fingerprint
    level: gold
  - id: infoglobe
+   level: gold
+ - id: wuzzuf
    level: gold
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
