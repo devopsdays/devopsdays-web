@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for devopsdays Cairo 2018"
 +++
 
-**devopsdays Cairo 2018** will be held initially at ITIDA building - Smart Village.
+**devopsdays Cairo 2018** will be held initially at Grand Nile Tower Hotel.
 
 Watch this space for updated information soon.
 
