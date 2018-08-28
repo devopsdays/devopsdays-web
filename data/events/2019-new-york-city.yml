@@ -61,6 +61,9 @@ team_members: # Name is the only required field for team members.
   - name: "Tom Reingold"
   - name: "Brian Kowalcyzk"
   - name: "Ceren Ercen"
+  - name: "Matt Kuritz"
+  - name: "Stephen Thomas"
+  - name: "Adarsh Shah"
 
 organizer_email: "organizers-new-york-city-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-new-york-city-2019@devopsdays.org" # Put your proposal email address here
