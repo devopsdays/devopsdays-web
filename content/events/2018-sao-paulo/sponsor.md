@@ -4,11 +4,11 @@ Type = "event"
 Description = "Sponsor devopsdays São Paulo 2018"
 +++
 <b>
-**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/drive/folders/1YdoBY_heQZ3bbHqCqDqmarmIOKnawVli)). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://assets.devopsdays.org/events/2018/saopaulo/devopsdays_sao_paulo_2018_-_prospecto_.english.pdf)). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
 </b>
 
 <b>
-Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://goo.gl/Wr83ye)). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
+Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://assets.devopsdays.org/events/2018/saopaulo/devopsdays_sao_paulo_2018_-_prospecto_portuguese.pdf)). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
 
 

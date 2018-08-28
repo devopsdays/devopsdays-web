@@ -1,9 +1,9 @@
 +++
 City = "Hartford"
 Year = "2018"
-title = "registration"
-type = "event"
-
+Title = "Registration"
+Type = "event"
+Description = "Registration for DevOpsDays Hartford 2018"
 
 +++
 

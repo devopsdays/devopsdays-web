@@ -56,7 +56,7 @@ proposal_email: "proposals-toronto-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: deloitte-before-20180401
     level: gold

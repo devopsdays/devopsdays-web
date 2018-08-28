@@ -263,7 +263,7 @@ Other offerings might be:
 As a reminder:
 
 - we do NOT offer speaker slots in return for sponsorship, and we want to maintain a standard policy on the pricing inside a given event.
-- we do NOT ever sell contact details of attendees. You can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
+- we do NOT ever give out or sell lists with contact details of attendees. You can share demographics in aggregate to give sponsors a feel for what kind of crowd will attend.
 
 ---
 

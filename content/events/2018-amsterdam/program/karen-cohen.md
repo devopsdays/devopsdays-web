@@ -6,7 +6,7 @@ Title = "Have your cake and eat it too"
 Type = "talk"
 Speakers = ["karen-cohen"]
 aliases = ["/events/2018-amsterdam/program/karen-cohen/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=11"
 slideshare = ""
 slides = ""
 +++

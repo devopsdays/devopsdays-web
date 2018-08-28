@@ -10,9 +10,9 @@ startdate:  2018-12-18
 enddate:  2018-12-19
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2018-07-01
+cfp_date_end:  2018-10-01
+cfp_date_announce:  2018-10-15
 
 cfp_open: "true"
 cfp_link: https://www.papercall.io/devopsdaystlv2018
@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: location
  - name: registration
  # - name: program
- # - name: speakers
+ - name: speakers
  - name: sponsor
  - name: contact
  - name: conduct
@@ -95,7 +95,17 @@ sponsors:
     level: lanyard
   - id: cloudify
     level: silver
+#  - id: microsoft
+#    level: silver
+  - id: singular
+    level: silver
+  - id: appsflyer-2018
+    level: silver
+  - id: facebook
+    level: silver
   - id: elastic
+    level: silver
+  - id: atlassian
     level: silver
   - id: yotpo
     level: tshirt
@@ -117,39 +127,36 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Platinum
-    max: 4
+  # - id: gold
+  #   label: Platinum
+  #   max: 4
   - id: silver
     label: Gold
     max: 12
-  - id: day1lunch
-    label: day 1 Lunch
-    max: 1
-  - id: day2lunch
-    label: day 2 Lunch
-    max: 1
-  - id: day1breakfast
-    label: day 1 breakfast
-    max: 1
-  - id: day2breakfast
-    label: day 2 breakfast
-    max: 1
-  - id: day1coffee
-    label: day 1 coffee
-    max: 1
-  - id: day2coffee
-    label: day 2 coffee
-    max: 1
-  - id: day1happyhour
-    label: Day 1 HappyHour
-    max: 1
-  - id: day2happyhour
-    label: Day 2 HappyHour
-    max: 1
-  - id: workshoproom
-    label: WorkShop Room
-    max: 1
+  # - id: day1lunch
+  #   label: day 1 Lunch
+  #   max: 1
+  # - id: day2lunch
+  #   label: day 2 Lunch
+  #   max: 1
+  # - id: day1breakfast
+  #   label: day 1 breakfast
+  #   max: 1
+  # - id: day2breakfast
+  #   label: day 2 breakfast
+  #   max: 1
+  # - id: coffee
+  #   label: coffee
+  #   max: 1
+  # - id: day1happyhour
+  #   label: Day 1 HappyHour
+  #   max: 1
+  # - id: day2happyhour
+  #   label: Day 2 HappyHour
+  #   max: 1
+  # - id: workshoproom
+  #   label: WorkShop Room
+  #   max: 1
   - id: tshirt
     label: tshirt
     max: 1
@@ -158,6 +165,6 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
-  - id: giveaway
-    label: GiveAway Bag
-    max: 1
+  # - id: giveaway
+  #   label: GiveAway Bag
+  #   max: 1

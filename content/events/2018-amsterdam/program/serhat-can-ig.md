@@ -6,7 +6,7 @@ Title = "DevOps in a Serverless World "
 Type = "talk"
 Speakers = ["serhat-can"]
 aliases = ["/events/2018-amsterdam/program/serhat-can-ig/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=14&start=660"
 slideshare = ""
 slides = ""
 +++

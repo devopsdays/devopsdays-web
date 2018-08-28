@@ -6,7 +6,7 @@ Title = "Chaos while deploying ML and making sure AI doesn't hurt your app"
 Type = "talk"
 Speakers = ["thiago-de-faria"]
 aliases = ["/events/2018-amsterdam/program/thiago-de-faria/"]
-youtube = ""
+youtube = "https://www.youtube.com/watch?v=76o64wuU4bA&list=PLPZ5ONwmU2M24yVB7g2pjt4R3HfSHBSUn&index=9"
 slideshare = ""
 slides = ""
 +++

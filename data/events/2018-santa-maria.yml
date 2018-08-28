@@ -33,36 +33,30 @@ location: "UFN/Unifra - Santa Maria, Brazil" # Defaults to city, but you can mak
 location_address: "Rua Silva Jardim, 1175, Bairro Rosário" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: sm.devopsdays.com.br
-#    url: http://sm.devopsdays.com.br/
-#    icon: "sitemap"
-#  - name: Informações
-#    icon: "map-o"
-#    url: http://sm.devopsdays.com.br/#informacoes
-#  - name: Palestrantes
-#    icon: "microphone"
-#    url: http://sm.devopsdays.com.br/#palestrantes
-#  - name: Programação
-#    icon: "book"
-#    url: http://sm.devopsdays.com.br/#programacao
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2018-santa-maria/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2018-santa-maria/program
   - name: Local
     icon: "map-o"
     url: /events/2018-santa-maria/location
-  - name: Palestre (CFP)
-    icon: "microphone"
-    url: /events/2018-santa-maria/cfp
+#  - name: Palestre (CFP)
+#    icon: "microphone"
+#    url: /events/2018-santa-maria/cfp
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-santa-maria/conduta
-#  - name: Inscreva-se
-#    icon: "user-plus"
-#    url: http://sm.devopsdays.com.br/#ingressos
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: https://polvotickets.com.br/e/devopsday-sm
   - name: Patrocinio
     icon: "money"
     url: /events/2018-santa-maria/sponsor
   - name: Contato
     icon: "envelope-o"
-    url: /events/2018-santa-maria/contact/
+    url: /events/2018-santa-maria/contact
 
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -105,10 +99,16 @@ sponsors:
    level: platinum
  - id: deliverymuch
    level: platinum
+ - id: azure-advocates
+   level: platinum
 
  - id: metrosoftsa
    level: silver
  - id: limonada
+   level: silver
+ - id: black-sul-software
+   level: silver
+ - id: syntesis
    level: silver
 
  - id: universidadefranciscana
@@ -121,3 +121,58 @@ sponsors:
    level: community
  - id: restaurantebabette
    level: community
+ - id: kinghost
+   level: community
+
+
+program:
+  - title: "Abertura"
+    type: custom
+    date: "2018-08-04"
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "tonin-bolzan"
+    type: talk
+    date: "2018-08-04"
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "tiago-lammers"
+    type: talk
+    date: "2018-08-04"
+    start_time: "09:30"
+    end_time: "10:30"
+  - title: "marco-antonio"
+    type: talk
+    date: "2018-08-04"
+    start_time: "10:30"
+    end_time: "11:30"
+  - title: "Almoço"
+    type: custom
+    date: "2018-08-04"
+    start_time: "11:30"
+    end_time: "13:00"
+  - title: "cristhian-bicca"
+    type: talk
+    date: "2018-08-04"
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "cristiano-diedrich"
+    type: talk
+    date: "2018-08-04"
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "Pausa"
+    type: custom
+    date: "2018-08-04"
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "marcelo-bellinaso"
+    type: talk
+    date: "2018-08-04"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Encerramento"
+    type: custom
+    date: "2018-08-04"
+    start_time: "16:45"
+    end_time: "17:00"

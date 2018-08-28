@@ -30,11 +30,11 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+#  - name: propose
   - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -57,8 +57,6 @@ team_members: # Name is the only required field for team members.
   - name: "Aaron Maturen"
     employer: Cengage Learning
     twitter: atmaturen
-  - name: "Ryan Struber"
-    employer: Barracuda Networks
   - name: "Archie Cowan"
     employer: ITHAKA
     twitter: archiecowan
@@ -83,6 +81,16 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: ithaka
+    level: gold
+  - id: littlecaesars
+    level: bronze
+  - id: chef
+    level: gold
+  - id: e7solutions
+    level: silver
+  - id: dynatrace
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,3 +107,194 @@ sponsor_levels:
     max: 4
   - id: bronze
     label: Bronze
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-03
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-03
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "armon-dadgar"
+    type: talk
+    date: 2018-10-03
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-03
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "kris-nova"
+    type: talk
+    date: 2018-10-03
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2018-10-03
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "zach-steindler"
+    type: talk
+    date: 2018-10-03
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-03
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "rachael-byrne"
+    type: talk
+    date: 2018-10-03
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-03
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "andrew-nicholson"
+    type: talk
+    date: 2018-10-03
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: 2018-10-03
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-03
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space Planning"
+    type: custom
+    date: 2018-10-03
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-10-03
+    start_time: "15:25"
+    end_time: "16:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-10-03
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-10-03
+    start_time: "16:55"
+    end_time: "17:40"
+  - title: "Day 1 Closing Remarks"
+    type: custom
+    date: 2018-10-03
+    start_time: "17:40"
+    end_time: "17:45"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-04
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-04
+    start_time: "09:30"
+    end_time: "09:45"
+  - title: "john-willis"
+    type: talk
+    date: 2018-10-04
+    start_time: "09:45"
+    end_time: "10:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-04
+    start_time: "10:30"
+    end_time: "11:15"
+  - title: "casey-rosenthal"
+    type: talk
+    date: 2018-10-04
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2018-10-04
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2018-10-04
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-04
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "tom-kowalski"
+    type: talk
+    date: 2018-10-04
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-04
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "mason-leung"
+    type: talk
+    date: 2018-10-04
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break"
+    type: custom
+    date: 2018-10-04
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-04
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "Open Space Planning"
+    type: custom
+    date: 2018-10-04
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-10-04
+    start_time: "15:25"
+    end_time: "16:10"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-10-04
+    start_time: "16:10"
+    end_time: "16:55"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-10-04
+    start_time: "16:55"
+    end_time: "17:40"
+  - title: "Closing & Raffle"
+    type: custom
+    date: 2018-10-04
+    start_time: "17:40"
+    end_time: "18:40"
+
+ignites:
+  - title: "luke-hospadoruk"
+    date: 2018-10-04
+  - title: "andrew-gardner"
+    date: 2018-10-03
+  - title: "chening-duker"
+    date: 2018-10-03
+

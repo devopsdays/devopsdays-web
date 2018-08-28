@@ -28,7 +28,7 @@ technologists and business people to attend, learn and share experiences.</p>
 
 <hr/>
 
-<p>By sponsoring DevOpsDays you ́ll get the opportunity to network and build
+<p>By sponsoring DevOpsDays you´ll get the opportunity to network and build
 relationships with highly motivated developers, sysadmins, IT executives and
 managers within the Latvian and other Baltic states DevOps communities. We aim
 to have up to 350 attendees and have 30-40% of attendees from abroad.</p>
@@ -62,8 +62,8 @@ networking, branding, and talent recruitment.</p>
   </tr>
   <tr>
     <td class="tg-y49x"></td>
-    <td class="tg-h7od">4 more available</td>
-    <td class="tg-h7od">2 more available</td>
+    <td class="tg-h7od">3 more available</td>
+    <td class="tg-h7od">1 more available</td>
   </tr>
   <tr>
     <td class="tg-yzt1">Pricing</td>
@@ -156,12 +156,6 @@ networking, branding, and talent recruitment.</p>
     <td class="tg-i9b1">x</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo on its own slide or promo video, rotating during breaks</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-i9b1">x</td>
-  </tr>
-  <tr>
     <td class="tg-yzt1">Logo on the badge</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
@@ -175,6 +169,12 @@ networking, branding, and talent recruitment.</p>
   </tr>
   <tr>
     <td class="tg-yzt1">1 minute pitch to full audience</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-i9b1">x</td>
+  </tr>      
+  <tr>
+    <td class="tg-yzt1">Logo on its own slide or promo video, rotating during breaks</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-i9b1">x</td>
@@ -208,33 +208,33 @@ help you further promote your company or cause:</p>
     <th class="tg-yzt1">Emphasized as Live-stream sponsor during live-stream</th>
   </tr>
   <tr>
-    <th class="tg-yzt1">Student sponsor for at least 10 tickets</th>
+    <th class="tg-yzt1">Diversity sponsor for at least 10 tickets</th>
     <th class="tg-yzt1">€ 1,490</th>
-    <th class="tg-yzt1">10 Branded discounted tickets for Students </th>
+    <th class="tg-yzt1">10 Branded discounted Diversity tickets for students, girls and people who pay from own pocket (if sponsor wants we can change scope of eligible people)</th>
   </tr>
-  <tr>
-    <th class="tg-yzt1">Beer sponsor* </th>
-    <th class="tg-yzt1">€ 2,600</th>
+  <tr class="sold-out">
+    <th class="tg-yzt1">Beer sponsor * </th>
+    <th class="tg-yzt1">€ 1,300</th>
     <th class="tg-yzt1">Logo on beer bottles </th>
   </tr>
   <tr>
     <th class="tg-yzt1">Dinners with speakers* </th>
-    <th class="tg-yzt1">€ 2,900</th>
+    <th class="tg-yzt1">€ 1,450</th>
     <th class="tg-yzt1">One-minute welcome pitch, roll-ups at dinners </th>
   </tr>
   <tr>
     <th class="tg-yzt1">Party sponsor* </th>
-    <th class="tg-yzt1">€ 4,900</th>
+    <th class="tg-yzt1">€ 2,900</th>
     <th class="tg-yzt1">One-minute pitch at party, roll-ups at party, mentioning in conference opening and closing </th>
   </tr>
   <tr>
     <th class="tg-yzt1">Venue sponsor* </th>
-    <th class="tg-yzt1">€ 4,900</th>
+    <th class="tg-yzt1">€ 2,900</th>
     <th class="tg-yzt1">Additional roll-ups at conference venue, mentioning in conference opening and closing</th>
   </tr>
   <tr>
     <th class="tg-yzt1">Lunch and break sponsor* </th>
-    <th class="tg-yzt1">€ 4,900</th>
+    <th class="tg-yzt1">€ 2,900</th>
     <th class="tg-yzt1">Additional roll-ups at lunch and break area, mentioning in conference opening and closing</th>
   </tr>
 </table>
@@ -248,3 +248,21 @@ packages**:
   <li>30 tickets provides 20% discount</li>
 </ul>
 * Only one of discounts can be applied.</p>
+
+<!-- Facebook Pixel Code -->
+<script>
+ !function(f,b,e,v,n,t,s)
+ {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+ n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+ if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+ n.queue=[];t=b.createElement(e);t.async=!0;
+ t.src=v;s=b.getElementsByTagName(e)[0];
+ s.parentNode.insertBefore(t,s)}(window, document,'script',
+ 'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '627303307635674');
+ fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+ src="https://www.facebook.com/tr?id=627303307635674&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->

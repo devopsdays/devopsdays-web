@@ -145,6 +145,8 @@ sponsors:
     level: bronze
   - id: timbira
     level: bronze
+  - id: 4linux
+    level: bronze
   - id: kinghost
     level: bronze
   - id: arresteddevops
@@ -429,4 +431,10 @@ ignites:
     date: "2018-06-07"
   
   - title: "alexandre-stratikopoulos"
+    date: "2018-06-07"
+
+  - title: "ignite-02-01"
+    date: "2018-06-07"
+
+  - title: "ignite-02-02"
     date: "2018-06-07"

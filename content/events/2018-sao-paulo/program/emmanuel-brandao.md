@@ -2,9 +2,12 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps em Enterprises: Problemas"
+Title = "Ignite - DevOps em Enterprises: Problemas"
 Type = "talk"
 Speakers = ["emmanuel-brandao"]
+youtube = "5332ntatIOk"
+slideshare = ""
+slides = "https://assets.devopsdays.org/events/2018/saopaulo/presentations/Emmanuel_Brandao-DevOps_em_Enterprises_Problemas.pdf"
 +++
 
 O movimento de DevOps foi bottom up, pois surgiu prioritariamente em pequenas empresas ou startups. Foi o modo que elas encontraram de tornar mais eficiente os seus processos e poder competir em segmentos diversos com grandes empresas. As grandes empresas, vendo esse movimento, começaram a se questionar se poderiam utilizar as mesmas técnicas e melhorar a sua entrega de software.
