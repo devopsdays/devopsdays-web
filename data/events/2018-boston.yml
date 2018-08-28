@@ -178,9 +178,17 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
-  # - id: cloudsearch
-  #   level: gold
+  - id: trinetx
+    level: platinum
+  - id: chaossearch
+    level: gold
   - id: redgate
+    level: gold
+  - id: neotys
+    level: gold
+  - id: carbonblack
+    level: gold
+  - id: cloudbees
     level: gold
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
