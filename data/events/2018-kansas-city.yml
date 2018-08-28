@@ -189,7 +189,9 @@ sponsors:
     level: core
   - id: cerner
     level: amenity
-    
+  - id: disruptops
+    level: party
+
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
