@@ -1,7 +1,7 @@
 +++
 Title = "Jennifer Davis"
 Twitter = "sigje"
-image = "missing-avatar.png"
+image = "jennifer-davis.png"
 type = "speaker"
 linktitle = "jennifer-davis"
 
