@@ -116,6 +116,11 @@ program:
     date: 2018-09-26
     start_time: "09:00"
     end_time: "17:00"
+  - title: "kranga-oginskis-workshop"
+    type: workshop
+    date: 2018-09-26
+    start_time: "09:00"
+    end_time: "17:00"
   - title: "christina-aldan-workshop-1"
     type: workshop
     date: 2018-09-26
