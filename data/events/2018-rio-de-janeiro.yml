@@ -19,11 +19,11 @@ cfp_link: "https://www.papercall.io/devopsdays-rj-2018" #if you have a custom li
 
 masthead_background: "rjwide.png"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-08-23 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-05 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-rio-de-janeiro-2018__342778" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 coordinates: "-22.8975426, -43.1824625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
@@ -37,9 +37,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Palestre (CFP)
     icon: "microphone"
     url: https://www.papercall.io/devopsdays-rj-2018
-#  - name: Inscreva-se
-#    icon: "user-plus"
-#    url:
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: https://www.sympla.com.br/devopsdays-rio-de-janeiro-2018__342778
 #  - name: Programação
 #    icon: "book"
 #    url:

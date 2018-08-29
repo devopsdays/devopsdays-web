@@ -188,11 +188,15 @@ sponsors:
     level: silver
   - id: mongodb
     level: bronze
+  - id: coyote
+    level: bronze
   - id: ca
     level: evening
   - id: confluent
     level: lanyard
   - id: hashicorp
+    level: meal
+  - id: discover
     level: meal
   - id: tempus
     level: meal
@@ -223,7 +227,7 @@ sponsors:
   - id: digitalocean
     level: community
 
-# sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -368,9 +372,9 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-08-28
-    start_time: "18:00"
-    end_time: "late"
-    comments: "This will take place at the venue"
+    start_time: "17:15"
+    end_time: "21:00"
+    comments: "15th Floor of the Holiday Inn Mart Plaza. Badge Required."
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-08-29

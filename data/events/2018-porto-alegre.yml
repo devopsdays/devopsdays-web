@@ -125,6 +125,14 @@ sponsors:
     level: community
   - id: neogrid
     level: silver
+  - id: thoughtworks-services
+    level: silver
+  - id: adp
+    level: silver
+  - id: linuxforall
+    level: community
+  - id: arqti
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

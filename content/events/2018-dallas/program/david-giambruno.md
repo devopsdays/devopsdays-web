@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Keynote Speaker"
+Title = "Keynote: Security, transformation, teams, werewolves, silver bullets and unicorns"
 Type = "talk"
 Speakers = ["david-giambruno"]
 Youtube = ""
