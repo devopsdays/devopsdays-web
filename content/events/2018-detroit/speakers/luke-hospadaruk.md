@@ -3,7 +3,7 @@ Title = "Luke Hospadoruk"
 Twitter = ""
 image = ""
 type = "speaker"
-linktitle = "luke-hospadoruk"
+linktitle = "luke-hospadaruk"
 
 +++
 
