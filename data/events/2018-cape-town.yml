@@ -229,6 +229,11 @@ program:
     date: 2018-09-21
     start_time: "14:30"
     end_time: "15:00"
+  - title: "ruaan-erasmus"
+    type: workshop
+    date: 2018-09-20
+    start_time: "15:00"
+    end_time: "16:45"
   - title: "Open Space #1"
     type: open-space
     date: 2018-09-21
