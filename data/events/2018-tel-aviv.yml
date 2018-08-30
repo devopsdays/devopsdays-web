@@ -95,8 +95,10 @@ sponsors:
     level: lanyard
   - id: cloudify
     level: silver
-#  - id: microsoft
-#    level: silver
+  - id: microsoft
+    level: silver
+  - id: microsoft
+    level: day1happyhour
   - id: singular
     level: silver
   - id: appsflyer-2018
@@ -148,12 +150,12 @@ sponsor_levels:
   # - id: coffee
   #   label: coffee
   #   max: 1
-  # - id: day1happyhour
-  #   label: Day 1 HappyHour
-  #   max: 1
-  # - id: day2happyhour
-  #   label: Day 2 HappyHour
-  #   max: 1
+  - id: day1happyhour
+    label: Day 1 HappyHour
+    max: 1
+  - id: day2happyhour
+    label: Day 2 HappyHour
+    max: 1
   # - id: workshoproom
   #   label: WorkShop Room
   #   max: 1
