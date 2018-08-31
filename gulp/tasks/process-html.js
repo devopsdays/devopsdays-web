@@ -3,11 +3,8 @@ var gulp = require('gulp'),
     imgRetina = require('gulp-img-retina');
     // runSequence = require('run-sequence');
 
-gulp.task('process-html', function(callback) {
-    runSequence('min-html', 'retina-html',
-        callback
-    )
-})
+
+
 
 gulp.task('copy-html', function(){
   return gulp.src('public/**/*.html')
@@ -35,3 +32,5 @@ gulp.task('retina-html', function() {
         })
         .pipe(gulp.dest('dist'));
 })
+
+gulp.task('process-html', gulp.series('min-html', 'retina-html'));
