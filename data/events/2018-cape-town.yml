@@ -17,10 +17,10 @@ cfp_date_announce: 2018-06-01
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayscpt2018"
 
-registration_date_start:
-registration_date_end:
+registration_date_start: 2018-06-01
+registration_date_end: 2018-09-20
 
-registration_closed:
+registration_closed: ""
 registration_link: "https://www.quicket.co.za/events/48403-devopsdays-cape-town-2018/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 coordinates: "-33.935600, 18.457423"
