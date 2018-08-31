@@ -191,7 +191,8 @@ sponsors:
     level: amenity
   - id: disruptops
     level: party
-
+  - id: elastic
+    level: amenity
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
