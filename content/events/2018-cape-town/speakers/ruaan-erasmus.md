@@ -1,8 +1,9 @@
 +++
 Title = "Ruaan Erasmus"
-Twitter = "RErasmus"
 image = "ruaan-erasmus.jpg"
 type = "speaker"
+twitter = "RErasmus"
+linktitle = "ruaan-erasmus"
 +++
 
 Ruaan is a programming professional with more than 12 years’ experience in the software development industry.
