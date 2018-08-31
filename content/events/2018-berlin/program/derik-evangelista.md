@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Workshop: Pipelines Done Right"
 Type = "talk"
-Speakers = ["derik-evangelista"]
+Speakers = ["derik-evangelista","diego-lemos"]
 +++
 
 ## Workshop

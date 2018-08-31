@@ -1,5 +1,5 @@
 +++
-Title = " Darin Morris"
+Title = "Darin Morris"
 image = "darin-morris.jpg"
 type = "speaker"
 linktitle = "darin-morris"
