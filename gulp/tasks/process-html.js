@@ -1,7 +1,7 @@
 var gulp = require('gulp'),
     htmlmin = require('gulp-htmlmin'),
-    imgRetina = require('gulp-img-retina'),
-    runSequence = require('run-sequence');
+    imgRetina = require('gulp-img-retina');
+    // runSequence = require('run-sequence');
 
 gulp.task('process-html', function(callback) {
     runSequence('min-html', 'retina-html',
@@ -28,7 +28,7 @@ gulp.task('min-html', function() {
 // min-html was taking forever
 
 gulp.task('retina-html', function() {
-    return gulp.src(['dist/**/*.html'])
+    return gulp.src(['dist/**/*.html',  '!dist/events/2015*/**', '!dist/events/2016*/**'])
         .pipe(imgRetina(retinaOpts))
         .on('error', function(e) {
             console.log(e.message);
