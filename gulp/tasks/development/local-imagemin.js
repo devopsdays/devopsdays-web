@@ -1,7 +1,6 @@
 var gulp = require('gulp'),
     imagemin = require('gulp-imagemin'),
     cache = require('gulp-cache');
-runSequence = require('run-sequence');
 
 
 
@@ -18,8 +17,6 @@ gulp.task('optimize-local-theme-images', function() {
 });
 
 
-gulp.task('optimize-local-images', function(callback) {
-    runSequence('optimize-local-content-images', 'optimize-local-theme-images',
-        callback
-    )
-})
+gulp.task('optimize-local-images', gulp.parallel('optimize-local-content-images', 'optimize-local-theme-images'));
+
+

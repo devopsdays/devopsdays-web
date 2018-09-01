@@ -17,11 +17,11 @@ cfp_date_announce:  # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://papercall.io/devopsdaysbh" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-08-31 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-09-29 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devops-days-belo-horizonte-2018__352215" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -32,13 +32,18 @@ location_address: "Av. Brasil, 2023 - Funcionários, Belo Horizonte - MG" #Optio
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
- # - name: registration
+  - name: localizacao
+    url: /events/2018-belo-horizonte/location
+  - name: ingressos
+    url: /events/2018-belo-horizonte/registration
  # - name: program
  # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+  - name: patrocinio
+    url: /events/2018-belo-horizonte/sponsor
+  - name: contato
+    url: /events/2018-belo-horizonte/contact
+  - name: conduta
+    url: /events/2018-belo-horizonte/conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -47,60 +52,48 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Amanda Pinto"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/amanda-pinto-b4217a42/"
+    # bio: ""
     image: "amanda-pinto.jpg"  
   - name: "André Almar"
-    employer: ""
-    twitter: ""
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/andrealmar/"
+    # bio: ""
     image: "andre-almar.jpg"
   - name: "Ana Cláudia Grossi"
-    employer: ""
-    twitter: "devopsdaysbh"
+    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
     image: "ana-claudia-grossi.jpg"
-    bio: ""
+    # bio: ""
   - name: "Dalton Strauss"
-    employer: ""
-    twitter: "devopsdaysbh"
+    linkedin: "https://www.linkedin.com/in/daltonstrauss/"
     image: "dalton-strauss.jpg"
-    bio: ""
+    # bio: ""
   - name: "Daniel Reis"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/danielreisp/"
+    # bio: ""
     image: "daniel-reis.jpg"
   - name: "Diego F. Duarte"
-    employer: "Avenue Code."
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/diego-f-duarte-926aa723/"
+    # bio: ""
     image: "diego-f-duarte.jpg"
   - name: "Gustavo Fagundes"
-    employer: ""
-    twitter: "devopsdaysbh"
+    linkedin: "https://www.linkedin.com/in/gustavofagundes/"
     image: "gustavo-fagundes.jpg"
-    bio: ""
+    # bio: ""
   - name: "Marco Antonio M. Junior (Somatório)"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    # bio: ""
     image: "marco-antonio.jpg"
   - name: "Rafael Gomes (Gomex)"
-    employer: ""
-    twitter: "devopsdaysbh"
     linkedin: "https://www.linkedin.com/in/rbgomes"
-    bio: ""
+    # bio: ""
     image: "rafael-gomes.jpg"
   - name: "Zandler Oliveira"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
-    github: "devopsdaysbh"
+    linkedin: "https://www.linkedin.com/in/zandler-oliveira/"
+    # bio: ""
     image: "zandler-oliveira.jpg"
-    facebook: ""
-    linkedin: ""
-    website: ""
+    # facebook: ""
+    # linkedin: ""
+    # website: ""
 organizer_email: "organizers-belo-horizonte-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-belo-horizonte-2018@devopsdays.org" # Put your proposal email address here
 

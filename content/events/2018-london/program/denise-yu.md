@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Partition Recovery Patterns: A comparative analysis explained through illustration"
+Title = "Why are Distributed Systems so hard? A network partition survival guide"
 Type = "talk"
 Speakers = ["denise-yu"]
 +++
 
-When choosing persistent data stores for your distributed system, it is important to understand how particular products trade off consistency, availability, and partition tolerance. This talk will begin with a refresher of the CAP theorem and its relevance to architecting modern software systems, then proceed with a whistle-stop tour of 2-3 popular open-source data products (ie. RabbitMQ, Kafka, Cassandra — final line-up TBD), their comparative design priorities, and suggestions for how they can effectively be utilised for production workloads. All technical explanations will occur in the form of original sketchnote-style illustrations, with the possibility of some live-sketching!
+Distributed systems are known for being notoriously difficult to wrangle. But why? This talk will cover a brief history of distributed databases, clear up some common myths about the CAP theorem, dig into why network partitions are inevitable, and close out by highlighting how a few popular open source projects manage the uncertainty created during a partition event. Almost all slides will contain original illustration featuring mischievous cats masquerading as sysadmins. By the end of this talk you will have a better understanding about the design trade-offs involved in architecting for distributed systems, and hopefully be inspired to pick up sketchnoting!
