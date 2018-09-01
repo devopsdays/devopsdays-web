@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["jules-clements"]
 +++
 
-We will discuss the delivery of multi-instance, rather than "muli-tennant" tooling for desired state management tools such as Ansible Tower and Puppet Enterprise.
+We will discuss the delivery of multi-instance, rather than "multi-tenant" tooling for desired state management tools such as Ansible Tower and Puppet Enterprise.
