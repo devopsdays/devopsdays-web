@@ -1,8 +1,8 @@
 name: "2018-montreal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2018" # The year of the event. Make sure it is in quotes.
-city: "Montréal" # The displayed city name of the event. Capitalize it.
+city: "Montreal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsmontreal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "devopsdays is coming to Montréal! / devopsdays arrive en ville!" # Edit this to suit your preferences
+description: "devopsdays is coming to Montreal! / devopsdays arrive en ville!" # Edit this to suit your preferences
 ga_tracking_id: "UA-118473645-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -26,11 +26,12 @@ registration_link: "https://www.eventbrite.ca/e/devops-day-montreal-2018-tickets
 # Location
 #
 coordinates: "45.497588,-73.554170" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Montréal" # Defaults to city, but you can make it the venue name.
+location: "Montreal" # Defaults to city, but you can make it the venue name.
 #
-location_address: "8 Queen Street, Montréal" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "8 Queen Street, Montreal" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: program
   - name: Location - Localisation
     url: "/events/2018-montreal/location/"
     icon: "map-o"
@@ -145,3 +146,254 @@ sponsor_levels:
     label: Lunch - Dîner
   - id: community
     label: Community - Communauté
+
+program:
+  - title: "Registration, Breakfast & Sponsor Setup"
+    type: custom
+    date: 2018-10-10
+    start_time: "08:15"
+    end_time: "09:15"
+
+  - title: "Welcome"
+    type: custom
+    date: 2018-10-10
+    start_time: "09:15"
+    end_time: "09:30"
+
+  - title: "alistair-croll"
+    type: talk
+    date: 2018-10-10
+    start_time: "09:30"
+    end_time: "10:00"
+
+  - title: "Speaker Change Buffer"
+    type: custom
+    date: 2018-10-10
+    start_time: "10:00"
+    end_time: "10:05"
+
+  - title: "Gold Sponsor #1"
+    type: sponsor
+    date: 2018-10-10
+    start_time: "10:05"
+    end_time: "10:10"
+
+  - title: "catherine-proulx"
+    type: talk
+    date: 2018-10-10
+    start_time: "10:10"
+    end_time: "10:40"
+
+  - title: "Break"
+    type: break
+    date: 2018-10-10
+    start_time: "10:40"
+    end_time: "11:10"
+    background_color: "#ff8282"
+
+  - title: "jason-yee"
+    type: talk
+    date: 2018-10-10
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "Speaker Change Buffer"
+    type: custom
+    date: 2018-10-10
+    start_time: "11:40"
+    end_time: "11:45"
+
+  - title: "james-shubin"
+    type: talk
+    date: 2018-10-10
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "Lunch"
+    type: break
+    date: 2018-10-10
+    start_time: "12:15"
+    end_time: "13:30"
+    background_color: "#ff8282"
+
+  - title: "Silver Sponsors (#1 & #2)"
+    type: sponsor
+    date: 2018-10-10
+    start_time: "13:30"
+    end_time: "13:35"
+
+  - title: "General Announcements"
+    type: custom
+    date: 2018-10-10
+    start_time: "13:35"
+    end_time: "13:40"
+
+  - title: "lenore-adam"
+    type: talk
+    date: 2018-10-10
+    start_time: "13:40"
+    end_time: "14:10"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-10-10
+    start_time: "14:10"
+    end_time: "14:25"
+
+  - title: "Break"
+    type: break
+    date: 2018-10-10
+    start_time: "14:25"
+    end_time: "14:55"
+    background_color: "#ff8282"
+
+  - title: "Open Spaces #1"
+    type: open-space
+    date: 2018-10-10
+    start_time: "14:55"
+    end_time: "15:35"
+
+  - title: "Open Spaces #2"
+    type: open-space
+    date: 2018-10-10
+    start_time: "15:35"
+    end_time: "16:15"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-10
+    start_time: "16:15"
+    end_time: "16:45"
+
+  - title: "Drinks & Entertainment"
+    type: custom
+    date: 2018-10-10
+    start_time: "16:45"
+    end_time: "19:30"
+
+
+  - title: "Breakfast"
+    type: custom
+    date: 2018-10-11
+    start_time: "08:45"
+    end_time: "09:45"
+
+  - title: "Welcome"
+    type: custom
+    date: 2018-10-11
+    start_time: "09:45"
+    end_time: "10:00"
+
+  - title: "keynote-tbd"
+    type: talk
+    date: 2018-10-11
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "Speaker Change Buffer"
+    type: custom
+    date: 2018-10-11
+    start_time: "10:30"
+    end_time: "10:35"
+
+  - title: "Gold Sponsor #2"
+    type: sponsor
+    date: 2018-10-11
+    start_time: "10:35"
+    end_time: "10:40"
+
+  - title: "toshaan-bharvani"
+    type: workshop
+    date: 2018-10-11
+    start_time: "10:40"
+    end_time: "12:10"
+
+  - title: "alex-gervais"
+    type: talk
+    date: 2018-10-11
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "Break"
+    type: break
+    date: 2018-10-11
+    start_time: "11:10"
+    end_time: "11:40"
+    background_color: "#ff8282"
+
+  - title: "vallery-lancey"
+    type: talk
+    date: 2018-10-11
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Lunch"
+    type: break
+    date: 2018-10-11
+    start_time: "12:10"
+    end_time: "13:25"
+    background_color: "#ff8282"
+
+  - title: "Silver Sponsors (#3 & #4)"
+    type: sponsor
+    date: 2018-10-11
+    start_time: "13:25"
+    end_time: "13:30"
+
+  - title: "General Announcements"
+    type: custom
+    date: 2018-10-11
+    start_time: "13:30"
+    end_time: "13:35"
+
+  - title: "tsvi-korren"
+    type: talk
+    date: 2018-10-11
+    start_time: "13:35"
+    end_time: "14:05"
+
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-10-11
+    start_time: "14:05"
+    end_time: "14:20"
+
+  - title: "Break"
+    type: break
+    date: 2018-10-11
+    start_time: "14:20"
+    end_time: "14:50"
+    background_color: "#ff8282"
+
+  - title: "Open Spaces #3"
+    type: open-space
+    date: 2018-10-11
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Open Spaces #4"
+    type: open-space
+    date: 2018-10-11
+    start_time: "15:30"
+    end_time: "16:10"
+
+  - title: "Closing Statement & Contest Draw"
+    type: custom
+    date: 2018-10-11
+    start_time: "16:10"
+    end_time: "16:30"
+
+
+ignites:
+  - title: "konstantin-ryabitsev"
+    date: 2018-10-10
+  - title: "kenzie-woodbridge"
+    date: 2018-10-10
+  - title: "jonathan-gold"
+    date: 2018-10-10
+  - title: "maxime-boisvert"
+    date: 2018-10-10
+  - title: "jody-mcintyre"
+    date: 2018-10-10
+  - title: "pierre-luc-dion"
+    date: 2018-10-10

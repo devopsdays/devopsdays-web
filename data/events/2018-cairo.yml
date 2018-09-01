@@ -15,7 +15,7 @@ cfp_date_start: 2018-04-24T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2018-07-19T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2018-08-08T00:00:00+02:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-cairo" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -26,16 +26,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "30.079061,31.019447" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Cairo" # Defaults to city, but you can make it the venue name.
+coordinates: "30.035311, 31.227133" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Grand Nile Tower Hotel - Cairo" # Defaults to city, but you can make it the venue name.
 
-location_address: "ITIDA building - Smart Village" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Grand Nile Tower Hotel" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
- # - name: registration
- # - name: program
+  - name: registration
+  - name: program
+    url: http://www.secc.org.eg/DevOpsDays_Cairo2018_Agenda.pdf
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -81,6 +82,8 @@ proposal_email: "proposals-cairo-2018@devopsdays.org" # Put your proposal email 
 sponsors:
  - id: amecse
    level: community
+ - id: tafra
+   level: community
  - id: gizasystems
    level: platinum
  - id: advansys
@@ -90,6 +93,8 @@ sponsors:
  - id: fingerprint
    level: gold
  - id: infoglobe
+   level: gold
+ - id: wuzzuf
    level: gold
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -112,4 +117,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 1
+    max: 4

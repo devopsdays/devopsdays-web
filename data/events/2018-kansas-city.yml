@@ -187,7 +187,13 @@ sponsors:
     level: core
   - id: shamrock
     level: core
-
+  - id: cerner
+    level: amenity
+  - id: disruptops
+    level: party
+  - id: elastic
+    level: amenity
+    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
