@@ -1,7 +1,7 @@
 +++
 Title = "Mrinal Mukherjee"
 Twitter = "mukherjee_mk"
-image = "placeholder-user.png"
+image = "mrinal-mukherjee.png"
 type = "speaker"
 linktitle = "mrinal-mukherjee"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Matt Brown"
 Twitter = "xleem"
-image = "placeholder-user.png"
+image = "matt-brown.jpg"
 type = "speaker"
 linktitle = "matt-brown"
 
