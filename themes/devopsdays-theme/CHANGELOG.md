@@ -1,5 +1,16 @@
 # Change Log
 
+## [1.19.1](https://github.com/devopsdays/devopsdays-theme/tree/1.19.1) (2018-08-20)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.0...1.19.1)
+
+**Implemented enhancements:**
+
+- Create search feature [\#633](https://github.com/devopsdays/devopsdays-theme/issues/633)
+
+**Fixed bugs:**
+
+- Long city names wrap in event navbar [\#638](https://github.com/devopsdays/devopsdays-theme/issues/638)
+
 ## [1.19.0](https://github.com/devopsdays/devopsdays-theme/tree/1.19.0) (2018-08-09)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.18.0...1.19.0)
 
