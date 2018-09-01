@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "A Trip Down CI/CD Lane"
-Type = "talk"
+Type = "ignite"
 Speakers = ["everett-toews"]
 +++
 

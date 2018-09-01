@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Continuously Testing govt.nz "
-Type = "talk"
+Type = "ignite"
 Speakers = ["allen-geer", "amanda-baker"]
 +++
 

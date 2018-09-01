@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Know Thy Enemy: How to Prioritize and Communicate Risks"
-Type = "talk"
+Type = "workshop"
 Speakers = ["matt-brown"]
 +++
 

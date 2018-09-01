@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Configuration Pipeline : Ruling the One Ring"
-Type = "talk"
+Type = "ignite"
 Speakers = ["jules-clements"]
 +++
 

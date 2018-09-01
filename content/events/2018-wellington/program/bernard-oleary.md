@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "AI for DevOps"
-Type = "talk"
+Type = "workshop"
 Speakers = ["bernard-oleary"]
 +++
 
