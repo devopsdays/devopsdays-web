@@ -35,7 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: http://www.secc.org.eg/DevOpsDays_Cairo2018_Agenda.pdf
  # - name: speakers
   - name: sponsor
   - name: contact
