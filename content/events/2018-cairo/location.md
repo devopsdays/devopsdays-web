@@ -8,7 +8,7 @@ Description = "Location for devopsdays Cairo 2018"
 
 
 <p><img src="https://t-ec.bstatic.com/images/hotel/max1280x900/151/151807169.jpg" alt="" /></p>
-<p>The luxurious landmark 5 star hotel &ldquo;Grand Nile Tower&rdquo; is poised directly on the magnificent Nile with a prime location in central Cairo, close to many cultural and tourists attractions. It is located in the Garden City area close to the centre of modern Cairo. The Cairo International Airport is approx. 20 km away from the hotel.</p>
+<p>The luxurious landmark 5 star hotel &ldquo;Grand Nile Tower&rdquo; is poised directly on the magnificent Nile with a prime location in central Cairo, close to many cultural and tourist attractions. It is located in the Garden City area close to the centre of modern Cairo. The Cairo International Airport is approx. 20 km away from the hotel.</p>
 
 
 Watch this space for updated information soon.
