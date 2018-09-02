@@ -110,8 +110,6 @@ Profissionais de tecnologia irão participar do evento. Esta é uma ótima oport
 <h2>Patrocínios Especiais</h2>
 Todos os patrocinadores terão, pelo menos, 1 anúncio do apoio nas redes sociais e seus logos expostos no site do evento e nos slides exibidos durante os <i>breaks</i>.
 
-<!--
-
 <table class="table table-bordered table-hover">
   <thead>
     <tr>
