@@ -7,6 +7,8 @@ Description = "Propose a talk for devopsdays edinburgh 2018"
 
 <hr>
 
+**Note that the CFP is now closed.**
+
 There are three ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
