@@ -6,7 +6,7 @@
     <div class="row">
         {{- range sort $.Site.Data.events "startdate" -}}
         {{- if .startdate -}}
-        {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
+        {{- if ge (time .enddate) now -}}
         {{- $.Scratch.Set "city" .city -}}
         {{- $.Scratch.Set "year" .year -}}
         {{- $.Scratch.Set "logo" "unset" -}}
@@ -24,7 +24,7 @@
                 {{- end -}}
                 <br/>
         {{- if ne .startdate .enddate -}}
-          {{- if eq (dateFormat "January" .startdate) (dateFormat "January" .enddate ) -}}
+          {{- if eq (time .startdate).Month (time .enddate).Month -}}
             <span class="homepage-grid-date">
             {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
             </span>
