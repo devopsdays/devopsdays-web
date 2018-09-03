@@ -38,9 +38,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Registration - Inscription
     url: "/events/2018-montreal/registration/"
     icon: "user-plus"
-  - name: Propose - Proposer
-    url: "https://www.papercall.io/devopsdays-mtl-2018"
-    icon: "lightbulb-o"
+#  - name: Propose - Proposer
+#    url: "https://www.papercall.io/devopsdays-mtl-2018"
+#    icon: "lightbulb-o"
   - name: Sponsor - Sponsoriser
     url: "/events/2018-montreal/sponsor/"
     icon: "money"
