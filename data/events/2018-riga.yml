@@ -40,6 +40,7 @@ proposal_email: "organizers-riga-2018@devopsdays.org"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: workshop
   - name: program
+  - name: activities
   - name: propose
   - name: location
   - name: tickets
