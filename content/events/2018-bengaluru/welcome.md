@@ -81,7 +81,5 @@ Description = "devopsdays Bengaluru 2018"
   </div>
 </div>
 <br>
-<!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
