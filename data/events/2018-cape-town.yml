@@ -76,6 +76,8 @@ sponsors:
     level: gold
   - id: luno
     level: basic
+  - id: nedbank
+    level: basic
   - id: arresteddevops
     level: community
   - id: lpi-za
