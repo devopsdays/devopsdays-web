@@ -1,7 +1,7 @@
 +++
 Title = "Patrick O'Brien"
 Twitter = "_patrick"
-image = "missing-avatar.png"
+image = "patrick-obrien.png"
 type = "speaker"
 linktitle = "patrick-obrien"
 

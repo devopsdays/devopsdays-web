@@ -10,9 +10,9 @@ startdate: 2018-09-11 # The start date of your event. Leave blank if you don't h
 enddate: 2018-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-02-15 # start accepting talk proposals.
-cfp_date_end: 2018-04-15 # close your call for proposals.
-cfp_date_announce: 2018-05-14 # inform proposers of status
+cfp_date_start: 2018-02-15T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-15T23:59:59-07:00 # close your call for proposals.
+cfp_date_announce: 2018-05-14T00:00:00-07:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://devopsdayspdx2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -273,7 +273,7 @@ program:
     date: 2018-09-13
     start_time: "09:45"
     end_time: "09:55"
-  - title: "tbd"
+  - title: "eric-shamow"
     type: talk
     date: 2018-09-13
     start_time: "09:55"
