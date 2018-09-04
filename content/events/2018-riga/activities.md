@@ -44,7 +44,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="http://www.lnmm.lv/resources/web/muzeji/LNMM/780x400xnc/Muzejs_maza.jpg" width="100%" />
+		<a href="http://www.lnmm.lv/en" target="_blank"><img src="lnmm.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://www.lnmm.lv/en" target="_blank">Latvian National Museum of Art</a> @ Jaņa Rozentāla laukums 1</h3>
@@ -56,7 +56,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="http://www.motormuzejs.lv/images/Parmuzeju_header.jpg" width="100%" />
+		<a href="http://www.motormuzejs.lv/index.php/en/" target="_blank"><img src="mm.jpeg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://www.motormuzejs.lv/index.php/en/" target="_blank">Riga Motor Museum</a> @ S. Eizenšteina Street 8</h3>
@@ -70,7 +70,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="https://www.liveriga.com/userfiles/images/ko-darit/muzeji-un-galerijas/visi-muzeji/latvijas-etnografiskais-brivdaba/009.jpg?w=780&mode=3:2|crop" width="100%" />
+		<a href="http://brivdabasmuzejs.lv/en/" target="_blank"><img src="bdm.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://brivdabasmuzejs.lv/en/" target="_blank">Latvian Ethnographic Open-air Museum</a> @ Brīvdabas street 21</h3>
@@ -83,7 +83,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="https://www.atputasbazes.lv/images/catalog/c0bd8e1b2458456e6e78b615749519f5/000/000/030/s7_3072.jpg" width="100%" />
+		<a href="http://www.mvm.lv/en/" target="_blank"><img src="medm.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://www.mvm.lv/en/" target="_blank">Pauls Stradins Museum for history of medicine</a> @ Antonijas iela 1</h3>
@@ -96,7 +96,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="http://g3.delphi.lv/images/pix/659x380/AYGMdH-l_Vs/1-dzelzcela-muzejs-001-45393824.jpg" width="100%" />
+		<a href="http://www.railwaymuseum.lv/en" target="_blank"><img src="dzm.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://www.railwaymuseum.lv/en" target="_blank">Latvian Railway History Museum</a> @ Uzvaras bulvāris 2A</h3>
@@ -109,7 +109,8 @@ h2, h3 { text-transform: uppercase; }
 <div class="section group">
 	<div class="col span_4_of_6">
 	<h2>Running routes near the venue</h2>
-	<p>Routes are for walking, running and cycling circuits for our guests to follow that start and end at our hotel. They are planned by our team members to help all fitness enthusiasts, from amateur joggers to keen runners and cyclists, keep up their fitness routine when they are traveling. Along the way, you will experience the best running and cycling routes the local area has to offer while discovering the surroundings. Simply choose one (or all) from below and start running: </p>
+	<p>Routes are for walking, running and cycling circuits for venue guests to follow that start and end at hotel. They are planned by hotel team members to help all fitness enthusiasts, from amateur joggers to keen runners and cyclists, keep up their fitness routine when they are traveling. Along the way, you will experience the best running and cycling routes the local area has to offer while discovering the surroundings. Simply choose one (or all) from below and start running.</p>
+	<p>Very special things for those who love to run, one of our <a href="https://www.devopsdays.org/events/2018-riga/program/kranga-oginskis-workshop/">Kubernetes workshop</a> trainers, <a href="https://www.devopsdays.org/events/2018-riga/speakers/antons-kranga/">Antons Kranga</a>, will be our running ambassador and will be happy to make some runs together</p>
 	</div>
 </div>
 <div class="section group">
@@ -137,19 +138,19 @@ h2, h3 { text-transform: uppercase; }
 <div class="section group">
 	<div class="col span_2_of_6">
 		<h3>THE BEACH AT ĶĪPSALA</h3>
-		<p><img src="http://admin.travelnews.lv/images//2014-NedzesamaFotoMape/20140611-KipsalaBrugis1.jpg" width="80%"></p>
+		<p><a href="http://kipsalaspludmale.lv/index.html"><img src="kipsala.jpg" width="80%"></a></p>
 		<p>On the left bank of the Daugava, a wonderful view of Old Town's panorama awaits you at Ķipsala Municipal Beeach. Swim, sunbathe, get active with volleyball or football, or try one of the bistros. Here you can gaze at the busy city while relaxing.</p>
 	</div>
 	<div class="col span_2_of_6">
 		<h3>KAYAKING IN RIGA</h3>
-		<p><img src="http://laivinieks.lv/wp-content/uploads/2013/10/IMG_5952-web.jpg" width="80%"></p>
+		<p><a href="http://laivinieks.lv/for-tourists/" target="_blank"><img src="kayaking.jpg" width="80%"></a></p>
 		<p><a href="http://laivinieks.lv/for-tourists/" target="_blank">Laivnieks.lv</a>, located just a few minutes away from the hotel, is offering guided, night and day kayak cruises. Check out their website for details.</p>
 	</div>
 </div>
 <div class="section group">
 	<div class="col span_2_of_6">
 		<h3>SIXT RENT A BICYCLE IN RIGA</h3>
-		<p><img src="https://www.liveriga.com/userfiles/images/ko-darit/aktiva-atputa/velo/sixt-velo-noma-riga/sixt-velo-noma-7.jpg?w=780&mode=3:2|crop" width="80%"></p>
+		<p><a href="https://www.sixtbicycle.lv/" target="_blank"><img src="sixt.jpeg" width="80%"></a></p>
 		<p>Sixt "rent a bicycle" is a self-service bike rental system in Riga and Jurmala, available for both residents and guests for everyday rides or holiday leisure. Bikers can use more than 250 bicycles available at 28 rental stations in Riga center, Old Town, and other Riga districts - Mežaparks, Pārdaugava, and Teika, as well as in Jurmala - Majori, Dzintari, Bulduri and at Lielupes Bridge.</p>
 		<p>Using Sixt rent-a-bike system you can take a bike at any Sixt rental station and return it to any other station 24/7. For example, rent a bike in Pardaugava and return it in the city center. Sixt operates within the international bicycle-sharing system Nextbike.</p>
 		<p>It's easy to register either via Sixt website <a href="https://www.sixtbicycle.lv/" target="_blank">www.sixt.lv/velo</a>, or via phone call <a href="+37167676780">+371 6767 6780</a>, or using Nextbike application</p>
@@ -157,7 +158,7 @@ h2, h3 { text-transform: uppercase; }
 	</div>
 	<div class="col span_2_of_6">
 		<h3>MIKELIS DAY FAIR IN OLD TOWN RIGA</h3>
-		<p><img src="http://www.latvia.travel/sites/default/files/styles/lightbox/public/events/16722229425_0ff9b2265c_k.jpg?itok=s9mZQXDO" width="80%"></p>
+		<p><a href="https://www.liveriga.com/en/1973-mikelis-day-fair-in-old-town-riga" target="_blank"><img src="mikelis.jpg" width="80%"></a></p>
 		<p><strong>29th of September</strong>. Mikelis Day is celebrated during the autumn solstice, when the sun turns towards winter - this is the time when daytime and nighttime is the same length and the astronomical autumn sets in. This is an important time of the year for farmers, when the most important jobs have been completed before winter and it is time to celebrate the harvest. Market squares will be full of Latvian grown pumpkins, apples, pears, cranberries, cowberries and much more. The ladies of the house will be offering homemade jams, cheeses, traditional pastries and home-basked bread. Everyone will be able to enjoy and purchase fresh honey, as well as smoked meats and fish. Meanwhile, local craftsmen will also be on hand offering traditional and contemporary linens, ceramics, jewelry, wooden items and much, much more.</p>
 		<p><strong>How to find there:</strong> Dome Square - you can walk from hotel,or take a public transport and go till stop Zikfīda Anna meierovica Bulvāris or 11 Novembra krastmala, then take a few min. walk.</p>
 	</div>
@@ -165,7 +166,7 @@ h2, h3 { text-transform: uppercase; }
 <div class="section group">
 	<div class="col span_2_of_6">
 		<h3>RIVER CRUISE</h3>
-		<p><img src="https://s.inyourpocket.com/gallery/112506.jpg" width="80%"></p>
+		<p><a href="https://rivercruises.lv/en/" target="_blank"><img src="rivercruise.jpg" width="80%"></a></p>
 		<p>River boat “VECRĪGA” and Canal boats “ANNABELLA” and “ARABELLA” – 11.Novembra krastmala, between Akmens and Vanšu bridges (next to Akmens bridge, opposite The Town Hall Square).</p>
 		<p>Canal boats “AMBER RĪGA” and “AURORA” – Riga canal, Radio Street 1 (opposite the Tea house “APSARA” ) and 100 meters from the Latvian National Opera.</p>
 		<p>Wooden rowing boats – Riga canal, Radio Street 1 (opposite the Tea house “APSARA” ) and 100 meters from the Latvian National Opera.</p>
@@ -173,7 +174,7 @@ h2, h3 { text-transform: uppercase; }
 	</div>
 	<div class="col span_2_of_6">
 		<h3>RIGA WATER TAXI</h3>
-		<p><img src="http://www.rigawatertaxi.lv/uploads/gallery/large_1045276058a9d3a.jpg" width="80%"></p>
+		<p><a href="http://www.rigawatertaxi.lv/gb/" target="_blank"><img src="watertaxi.jpg" width="80%"></a></p>
 		<p>The charm of Kronvalda Park, magnificent Opera building, authentic Riga Central Market area, enjoy these and other Riga treasures from a different angle hidden by the everyday rush!</p>
 		<p>More information and prices on website: <a href="http://www.rigawatertaxi.lv/gb/" target="_blank">RigaWaterTaxi.lv</a></p>
 	</div>
@@ -198,7 +199,7 @@ h2, h3 { text-transform: uppercase; }
 </div>
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="http://www.streetburgers.lv/webroot/files/uploads/images/11009105_783212275099520_5196459648096586977_n.jpg" width="100%" />
+		<a href="http://www.streetburgers.lv/ENG" target="_blank"><img src="street.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://www.streetburgers.lv/ENG" target="_blank">StreetBurgers</a> @ Meža street 4a</h3>
@@ -210,7 +211,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="http://en.fazenda.lv/wp-content/uploads/sites/4/2014/09/NOMETNU-RESTORANS-GALERIJA-6.jpg" width="100%" />
+		<a href="http://en.fazenda.lv/nometnu-iela/restorans/" target="_blank"><img src="fazenda.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://en.fazenda.lv/nometnu-iela/restorans/" target="_blank">Fazenda Bazārs</a> @ Nometņu street 7</h3>
@@ -221,7 +222,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="http://www.folkklubs.lv/_Resources/Persistent/9c65bee18a9317b559fdb1ae99de53694fd3989a/phoca-thumb-l-dgr-9488.jpg" width="100%" />
+		<a href="http://www.folkklubs.lv/en" target="_blank"><img src="ala.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="http://www.folkklubs.lv/en" target="_blank">Folkklubs Ala Pagrabs</a> @ Peldu street 19, Basement, Old town</h3>
@@ -232,7 +233,7 @@ h2, h3 { text-transform: uppercase; }
 
 <div class="section group">
 	<div class="col span_1_of_6">
-		<img src="https://www.lido.lv/shared/cache/slider-151746e69eb3.jpg" width="100%" />
+		<a href="https://www.lido.lv/en/" target="_blank"><img src="lido.jpg" width="100%" /></a>
 	</div>
 	<div class="col span_3_of_6">
 		<h3><a href="https://www.lido.lv/en/" target="_blank">Lido Leisure Centre</a> @ Krasta iela 76</h3>
