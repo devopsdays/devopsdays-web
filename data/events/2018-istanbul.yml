@@ -113,6 +113,18 @@ sponsors:
     level: community
   - id: istanbulflow
     level: community
+  - id: scturkey
+    level: community
+  - id: istanbuljug
+    level: community
+  - id: devnot
+    level: community
+  - id: kodcu
+    level: community
+  - id: agileturkey
+    level: community
+  - id: codefiction
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

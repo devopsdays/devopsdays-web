@@ -10,7 +10,7 @@ Description = "Location for DevOpsDays Panamá 2018"
 
 A pocos minutos del centro urbano de Panamá y frente al Canal, 120 hectáreas y más de 200 edificios de la antigua base militar de Clayton han sido transformados para convertirse en Ciudad del Saber,  una comunidad en la que la colaboración tiene como propósito la innovación empresarial y el cambio social, a través del conocimiento. / *A few minutes from the urban center of Panamá, and in front of the Canal, 120 hectares and more than 200 buildings of the former military base of Clayton have been transformed to become a City of Knowledge, a community in which collaboration is aimed at innovation business and social change, through knowledge.*
 
-**Dirección / Address**: Ciudad del Saber, Edificio # 104, Clayton, Ancón. Apartado 0843-03081, Panamá, Rep. de Panamá.
+**Dirección / Address**: Ciudad del Saber, Edificio #234, Clayton, Ancón. Apartado 0843-03081, Panamá, Rep. de Panamá.
  
 **Teléfono / Phone**: (507) 306-3700 
 

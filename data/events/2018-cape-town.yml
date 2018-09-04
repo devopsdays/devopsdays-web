@@ -219,7 +219,7 @@ program:
     date: 2018-09-21
     start_time: "13:00"
     end_time: "13:30"
-  - title: "Talk 5 (Marek)"
+  - title: "marek-denis"
     type: talk
     date: 2018-09-21
     start_time: "13:45"
