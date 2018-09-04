@@ -10,9 +10,9 @@ ga_tracking_id: "UA-94092408-1" # Google Analytics tracking ID
 startdate:  2018-10-03
 enddate:  2018-10-04
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-05-23  # start accepting talk proposals.
-cfp_date_end: 2018-08-06 # close your call for proposals.
-cfp_date_announce: 2018-08-28 # inform proposers of status
+cfp_date_start: 2018-05-23T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-08-06T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-08-28T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://devopsdaysdetroit.typeform.com/to/XM3TPc" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -108,6 +108,8 @@ sponsor_levels:
   - id: bronze
     label: Bronze
 
+
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -148,57 +150,62 @@ program:
     type: custom
     date: 2018-10-03
     start_time: "11:45"
-    end_time: "13:00"
+    end_time: "01:00"
   - title: "rachael-byrne"
     type: talk
     date: 2018-10-03
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "01:00"
+    end_time: "01:30"
   - title: "Sponsors"
     type: custom
     date: 2018-10-03
-    start_time: "13:30"
-    end_time: "14:15"
+    start_time: "01:30"
+    end_time: "02:15"
   - title: "andrew-nicholson"
     type: talk
     date: 2018-10-03
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "01:30"
+    end_time: "02:00"
   - title: "Break"
     type: custom
     date: 2018-10-03
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "02:00"
+    end_time: "02:15"
   - title: "Ignites"
     type: ignite
     date: 2018-10-03
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "02:15"
+    end_time: "02:45"
   - title: "Open Space Planning"
     type: custom
     date: 2018-10-03
-    start_time: "14:55"
-    end_time: "15:25"
+    start_time: "02:55"
+    end_time: "03:25"
   - title: "Open Space #1"
     type: open-space
     date: 2018-10-03
-    start_time: "15:25"
-    end_time: "16:10"
-  - title: "Open Space #2"
+    start_time: "03:25"
+    end_time: "04:10"
+  - title: "Open Space #1"
     type: open-space
     date: 2018-10-03
-    start_time: "16:10"
-    end_time: "16:55"
-  - title: "Open Space #3"
+    start_time: "04:10"
+    end_time: "04:55"
+  - title: "Open Space #1"
     type: open-space
     date: 2018-10-03
-    start_time: "16:55"
-    end_time: "17:40"
+    start_time: "04:55"
+    end_time: "05:40"
   - title: "Day 1 Closing Remarks"
     type: custom
     date: 2018-10-03
-    start_time: "17:40"
-    end_time: "17:45"
+    start_time: "05:40"
+    end_time: "05:45"
+  - title: "Evening Dinner & Party\nThe evening event will be held at the conference venue.\nHeavy appetizers, beer, wine, and non-alcoholic beverages will be served."
+    type: custom
+    date: 2018-10-03
+    start_time: "05:45"
+    end_time: "08:45"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-10-04
@@ -238,63 +245,62 @@ program:
     type: custom
     date: 2018-10-04
     start_time: "11:45"
-    end_time: "13:00"
+    end_time: "01:00"
   - title: "tom-kowalski"
     type: talk
     date: 2018-10-04
-    start_time: "13:00"
-    end_time: "13:30"
+    start_time: "01:00"
+    end_time: "01:30"
   - title: "Sponsors"
     type: custom
     date: 2018-10-04
-    start_time: "13:30"
-    end_time: "14:15"
+    start_time: "01:30"
+    end_time: "02:15"
   - title: "mason-leung"
     type: talk
     date: 2018-10-04
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "01:30"
+    end_time: "02:00"
   - title: "Break"
     type: custom
     date: 2018-10-04
-    start_time: "14:00"
-    end_time: "14:15"
+    start_time: "02:00"
+    end_time: "02:15"
   - title: "Ignites"
     type: ignite
     date: 2018-10-04
-    start_time: "14:15"
-    end_time: "14:45"
+    start_time: "02:15"
+    end_time: "02:45"
   - title: "Open Space Planning"
     type: custom
     date: 2018-10-04
-    start_time: "14:55"
-    end_time: "15:25"
+    start_time: "02:55"
+    end_time: "03:25"
   - title: "Open Space #1"
     type: open-space
     date: 2018-10-04
-    start_time: "15:25"
-    end_time: "16:10"
-  - title: "Open Space #2"
+    start_time: "03:25"
+    end_time: "04:10"
+  - title: "Open Space #1"
     type: open-space
     date: 2018-10-04
-    start_time: "16:10"
-    end_time: "16:55"
-  - title: "Open Space #3"
+    start_time: "04:10"
+    end_time: "04:55"
+  - title: "Open Space #1"
     type: open-space
     date: 2018-10-04
-    start_time: "16:55"
-    end_time: "17:40"
+    start_time: "04:55"
+    end_time: "05:40"
   - title: "Closing & Raffle"
     type: custom
     date: 2018-10-04
-    start_time: "17:40"
-    end_time: "18:40"
+    start_time: "05:40"
+    end_time: "06:40"
 
 ignites:
-  - title: "luke-hospadoruk"
+  - title: "luke-hospadaruk"
     date: 2018-10-04
   - title: "andrew-gardner"
     date: 2018-10-03
   - title: "chening-duker"
     date: 2018-10-03
-

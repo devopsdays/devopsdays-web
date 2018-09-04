@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
     responsive = require('gulp-responsive');
-runSequence = require('run-sequence');
+// runSequence = require('run-sequence');
 
 // gulp.task('responsive-images', function(callback) {
 //     runSequence('responsive-images-logos','responsive-sponsor-images',
@@ -8,7 +8,6 @@ runSequence = require('run-sequence');
 //     )
 // });
 
-gulp.task('responsive-images', ['responsive-images-logos', 'responsive-speaker-images-jpg','responsive-speaker-images-png','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining-jpg','responsive-images-remaining-png'])
 
 gulp.task('responsive-images-logos', function() {
     return gulp.src(['public/**/*logo-square.jpg', '!public/events/2015*/**', '!public/events/2016*/**'])
@@ -16,11 +15,11 @@ gulp.task('responsive-images-logos', function() {
             // produce multiple images from one source
 
             '**/*logo-square.jpg': [{
-                width: 300,
-                height: 300,
+                width: 250,
+                height: 250,
             }, {
-                width: 600,
-                height: 600,
+                width: 500,
+                height: 500,
                 rename: {
                     suffix: '@2x'
                 }
@@ -64,8 +63,8 @@ gulp.task('responsive-organizer-images', function() {
     .pipe(gulp.dest('dist'));
 });
 
-gulp.task('responsive-speaker-images-png', function() {
-    return gulp.src(['public/**/speakers/*.png', '!public/events/2015*/**', '!public/events/2016*/**'])
+gulp.task('responsive-speaker-images', function() {
+    return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png', '!public/events/2015*/**', '!public/events/2016*/**'])
         .pipe(responsive({
             '**/*.png': [{
                 width: 300,
@@ -76,22 +75,7 @@ gulp.task('responsive-speaker-images-png', function() {
                 rename: {
                     suffix: '@2x'
                 }
-            }]
-        }, {
-            // global configuration
-            quality: 80,
-            errorOnEnlargement: false,
-            withoutEnlargement: false,
-            progressive: true,
-            silent: true,
-            withMetadata: false,
-        }))
-        .pipe(gulp.dest('dist'));
-});
-
-gulp.task('responsive-speaker-images-jpg', function() {
-    return gulp.src(['public/**/speakers/*.jpg', '!public/events/2015*/**', '!public/events/2016*/**'])
-        .pipe(responsive({
+            }],
             '**/*.jpg': [{
                 width: 300,
                 height: 300
@@ -147,8 +131,8 @@ gulp.task('responsive-sponsor-images', function() {
 });
 
 
-gulp.task('responsive-images-remaining-png', function() {
-    return gulp.src(['public/**/*.png',
+gulp.task('responsive-images-remaining', function() {
+    return gulp.src(['public/**/*.png', 'public/**/*.jpg','public/**/*.jpeg',
             '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg','!public/**/speakers/*.jpg','!public/**/speakers/*.png','!public/**/organizers/*.png',  '!public/events/2015*/**', '!public/events/2016*/**'
         ])
         .pipe(responsive({
@@ -159,27 +143,7 @@ gulp.task('responsive-images-remaining-png', function() {
                 rename: {
                     suffix: '@2x'
                 }
-            }]
-        }, {
-            // global configuration
-            quality: 80,
-            errorOnEnlargement: false,
-            withoutEnlargement: false,
-            errorOnUnusedImage: false,
-            progressive: true,
-            silent: true,
-            withMetadata: false,
-        }))
-        .pipe(gulp.dest('dist'));
-});
-
-gulp.task('responsive-images-remaining-jpg', function() {
-    return gulp.src(['public/**/*.jpg','public/**/*.jpeg',
-            '!public/favicon*', '!public/apple-icon*', '!public/android-icon*', '!public/ms-icon*', '!public/**/sharing.jpg', '!**/logo-square.*', '!public/img/sponsor/*.*', '!public/**/organizers/*.jpg','!public/**/speakers/*.jpg','!public/**/speakers/*.png','!public/**/organizers/*.png',  '!public/events/2015*/**', '!public/events/2016*/**'
-        ])
-        .pipe(responsive({
-            // produce multiple images from one source
-
+            }],
             '**/*.jpeg': [{
                 width: '100%'
             }, {
@@ -206,3 +170,5 @@ gulp.task('responsive-images-remaining-jpg', function() {
         }))
         .pipe(gulp.dest('dist'));
 });
+
+gulp.task('responsive-images', gulp.parallel('responsive-images-logos', 'responsive-speaker-images','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining'))

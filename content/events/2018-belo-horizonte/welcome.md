@@ -11,7 +11,7 @@ Description = "DevOpsDays Belo Horizonte 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Datas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
@@ -20,28 +20,28 @@ Description = "DevOpsDays Belo Horizonte 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Location</strong>
+    <strong>Local</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
+    <strong>Ingressos</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    {{< event_link page="registration" text="Adquira seu ingresso aqui!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Talks</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Proponha uma talk" >}}
   </div>
 </div>
 
@@ -65,19 +65,19 @@ Description = "DevOpsDays Belo Horizonte 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Patrocine</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Quer ser um sponsor? Clique aqui!" >}}
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Entre em contato com os organizadores" >}}
   </div>
 </div>
 

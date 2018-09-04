@@ -7,8 +7,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "New York City"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: "2019-01-24"  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: "2019-01-25"  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -61,6 +61,9 @@ team_members: # Name is the only required field for team members.
   - name: "Tom Reingold"
   - name: "Brian Kowalcyzk"
   - name: "Ceren Ercen"
+  - name: "Matt Kuritz"
+  - name: "Stephen Thomas"
+  - name: "Adarsh Shah"
 
 organizer_email: "organizers-new-york-city-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-new-york-city-2019@devopsdays.org" # Put your proposal email address here
