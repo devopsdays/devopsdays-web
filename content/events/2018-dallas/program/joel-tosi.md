@@ -8,7 +8,7 @@ Speakers = ["joel-tosi","jennifer-guerra"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/fostering-the-third-way-your-devops-dojo"
 Slides = ""
 Website = "https://www.dojoandco.com/"
 +++
