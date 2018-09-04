@@ -8,7 +8,7 @@ Categories = []
 +++
 The third [DevOpsDays in Singapore](/events/2017-singapore/) was held at Microsoft Operations Offices on October 25th and 26th 2017 with participation of more than 200 attendees.
 
-![Group Photo](https://farm5.staticflickr.com/4654/39559971442_1f79c809da_z_d.jpg)
+![Group Photo](https://lh3.googleusercontent.com/msPoCkTxGeNeW5rrXxV6YP3_ZRn5dyWVyFZPf4tdrTU40dQW_N4dlNZY5BFAACe4qHgNgs3ZWZWbgAcelsZxI-9xYCRi-KfmCbh9GME-z7c3cpb3wyloLe2rGnlma4efc6sHqHZ28g=w800)
 
 Speakers came from Europe, USA and Asia and included viewpoints ranging from process automation to software and system engineering.
 
@@ -43,20 +43,20 @@ Thank you to everyone involved in this experience! See you on at the local [devo
 
 ## Keynote
 
-![Keynote](https://farm5.staticflickr.com/4481/37977723866_8a09898cfe_z_d.jpg)
+![Keynote](https://lh3.googleusercontent.com/7hP89HWYpHQ-NKqIhHPelS_WTpqTKqxXVTAeTpe0Xa6pnaZ778yUTG7ano7fgVSRdCChhj7rns_eiNiYoQHkr6qbVw6jyt_7gXCVKCWoVNpF-GCe03shExPHc2BWXPSiB2P3MuLuUA=w800)
 
 ## Food
 
-![Food](https://farm5.staticflickr.com/4457/37977709906_16a8935f17_z_d.jpg)
+![Food](https://lh3.googleusercontent.com/zk-NY3tQhWf57IUBepV3L-7vtuBW1e6RP0ybLyjfBEPiI8mYWQcTsNK5q-_wVUVkSyTwUoyRbNatRQ9drS5umwhzNkzAigtUUpYwR-_vNNhTiqzBT-xaSgTk-Gbm2v-E6AREem2Q5Q=w800)
 
 ## After Party
 
-![After Party](https://farm5.staticflickr.com/4500/38000899652_a9205e3638_z_d.jpg)
+![After Party](https://lh3.googleusercontent.com/bM6e9C3NI06M17FMSnzp8zJUDcvpMmLGHaSd1WmeeEV9IUBwPgid5U25cmteLp5n4gavFFB7YfgLAEaAfi0_-IUlCjaNSMKcA3JTLMr4myzZn6MxN8y-tk9G3DBm8KguYB_Fs85-Uw=w800)
 
 ## Open Spaces
 
-![Open Spaces](https://farm5.staticflickr.com/4484/37978128726_aa5851fe89_z_d.jpg)
+![Open Spaces](https://lh3.googleusercontent.com/inmA5E7hr7o_pgCg_Agcp1JqMxqddqs2NLaz2tRygPc7lWcIzVUuo0UNQ6561K9LFhePO834ihist99ulo3Hn_J_jXlKX5t3GFdv2APdr7fdbeg_JR5LP6LBfWhbCQ8Ra8MruyeRbg=w800)
 
-- Pictures: https://www.flickr.com/people/devopsdayssg/
+- Pictures: [Day 1](https://photos.google.com/b/108201534665279392783/share/AF1QipNSpIxT52jxGwLd9dYMZSdQlq0nYcR0_3HZs_Qt07lD1qJ-Mrss7B5bpGklDQHvNw?key=QWNneW41UktwWnEyY2Q5TUpTRllhRjZVdVAwVkJ3) & [Day 2](https://photos.google.com/b/108201534665279392783/share/AF1QipPvjUZEUk6Q78G6s9QaqeFhySBhFJEFe3qlZJt1hkrf7oYo1-n5ucYkpVfAIl0dAg?key=RDJQMmgtdzh5Vm9Gc0VLaUNJTDdWMkZtZ3pRcXNn)
 - Slides: https://speakerdeck.com/devopsdaysSG
 - Videos: https://www.youtube.com/channel/UCvKd52G5RaLAWVugTdY4pBA
