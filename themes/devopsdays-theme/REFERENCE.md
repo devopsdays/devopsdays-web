@@ -21,7 +21,8 @@
 [Pages and Frontmatter](#pages-and-frontmatter)   
 &emsp;[General Page Fields](#general-page-fields)   
 &emsp;[Talk Page Fields](#talk-page-fields)   
-&emsp;[Speaker Page Fields](#speaker-page-fields)   
+&emsp;[Speaker Page Fields](#speaker-page-fields)  
+&emsp;[Program Page Fields](#program-page-fields)  
 &emsp;[Blog Post Fields](#blog-post-fields)   
 [Shortcodes](#shortcodes)   
 &emsp;[google_form](#google_form)   
@@ -175,6 +176,7 @@ program:
     date: 2017-06-16
     start_time: "08:00"
     end_time: "09:00"
+    custom_url: "https://example.com/registration"
   - title: "Opening Welcome"
     type: custom
     date: 2017-06-16
@@ -182,15 +184,16 @@ program:
     end_time: "09:00"
 ```
 
-| Field Name         | Required | Description                                                                                                                                                                                                                                 | Example                                                                                                 |
-|--------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| `title`            | Yes      | The name of the program element. If it is a talk, ignite, or workshop, use the name of the talk/ignite/workshop file, minus the `.md` extension.                                                                                                       | "Opening Welcome" or "apple-jack"                                                                       |
-| `type`             | Yes      | The type for the program element. Valid choices are `custom`, `talk`, `ignite`, `workshop`, or `open-space`. This defines the color of the program element. `talk`, `ignite`, and `workshop` types will create a link to the program item named in `title`.            | talk                                                                                                    |
-| `date`             | Yes      | The date of the program element, in YYYY-MM-DD format.                                                                                                                                                                                      | 2017-06-16                                                                                              |
-| `start_time`       | Yes      | The start time of the program element.                                                                                                                                                                                                      | "08:00"                                                                                                 |
-| `end_time`         | Yes      | The end time of the program element.                                                                                                                                                                                                        | "13:40"                                                                                                 |
-| `comments`         | No       | Additional comments/notes about the program types `talk`, `workshop` and `custom` (for example, location of an evening event). Markdown is supported.                                                                                                                     | "This will be at the [Pony Club](http://www.mattstratton.com),1005 Ponyville Drive,Ponyville, IL,60612" |
-| `background_color` | No       | Allows the ability to override the color of the program element. Only the background color can be changed; please test to make sure the color works with the displayed text colors. Color is expressed in RGB HEX value. Must be in quotes. | "#FFFA99"                                                                                            |
+| Field Name         | Required | Description                                                                                                                                                                                                                                                 | Example                                                                                                 |
+|--------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| `title`            | Yes      | The name of the program element. If it is a talk, ignite, or workshop, use the name of the talk/ignite/workshop file, minus the `.md` extension.                                                                                                            | "Opening Welcome" or "apple-jack"                                                                       |
+| `type`             | Yes      | The type for the program element. Valid choices are `custom`, `talk`, `ignite`, `workshop`, or `open-space`. This defines the color of the program element. `talk`, `ignite`, and `workshop` types will create a link to the program item named in `title`. | talk                                                                                                    |
+| `date`             | Yes      | The date of the program element, in YYYY-MM-DD format.                                                                                                                                                                                                      | 2017-06-16                                                                                              |
+| `start_time`       | Yes      | The start time of the program element.                                                                                                                                                                                                                      | "08:00"                                                                                                 |
+| `end_time`         | Yes      | The end time of the program element.                                                                                                                                                                                                                        | "13:40"                                                                                                 |
+| `comments`         | No       | Additional comments/notes about the program types `talk`, `workshop` and `custom` (for example, location of an evening event). Markdown is supported.                                                                                                       | "This will be at the [Pony Club](http://www.mattstratton.com),1005 Ponyville Drive,Ponyville, IL,60612" |
+| `background_color` | No       | Allows the ability to override the color of the program element. Only the background color can be changed; please test to make sure the color works with the displayed text colors. Color is expressed in RGB HEX value. Must be in quotes.                 | "#FFFA99"                                                                                               |
+| `custom_url`       | No       | Replaces the URL for various program types to link to external URL or a URL of your choosing. Valid for `custom`, `talk`, `ignite`, `workshop`, or `open-space`                                                                                     | "https://example.com"                                                                                   |
 
 ##### Program Element Colors
 
@@ -213,12 +216,14 @@ ignites:
     date: 2017-06-16
   - title: "DevOps With Delight"
     date: 2017-06-16
+    custom_url: "https://example.com/ignites
 ```
 
-| Field Name | Required | Description                                                                                                                                   | Example                                  |
-|------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-| `title`    | Yes      | The title of the ignite. If it is named after the filename (without the `.md` extension` of a talk, it will generate a link to the talk page. | "matt-stratton" or "DevOps With Delight" |
-| `date`     | Yes      | The date of the ignite, in YYYY-MM-DD format.                                                                                                 | 2017-06-16                               |
+| Field Name   | Required | Description                                                                                                                                   | Example                                |
+|--------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
+| `title`      | Yes      | The title of the ignite. If it is named after the filename (without the `.md` extension` of a talk, it will generate a link to the talk page. | "matt-stratton" or "DevOps With Delight" |
+| `date`       | Yes      | The date of the ignite, in YYYY-MM-DD format.                                                                                                 | 2017-06-16                               |
+| `custom_url` | No       | Allows linking to URL off-site for various reasons.                                                                                           | "https://example.com/schedule"           |
 
 ## Pages and Frontmatter
 
@@ -274,6 +279,14 @@ Pages of the type `speaker` have a few additional frontmatter elements available
 | `github`   | No       | Speakers' GitHub username.                                                                                                                                                                                 | "mattstratton"                              |
 | `gitlab`   | No       | Speakers' GitLab username.                                                                                                                                                                                 | "mattstratton"                              |
 | `image`    | No       | The image for the speaker. This image is relative to the `static/events/YYYY-CITY/speakers` directory. It can be either .png or .jpg. It must be square, and 300px square, 600px square, or 900px square.  | "matt-stratton.jpg"                         |
+
+### Program Page Fields
+
+The page of type `program` has one additional frontmatter element.
+
+| Field Name | Required | Description                                              | Example |
+|------------|----------|----------------------------------------------------------|---------|
+| `icons`    | No       | Toggles display of slide/video icons on the program page | "true"  |
 
 ### Blog Post Fields
 
