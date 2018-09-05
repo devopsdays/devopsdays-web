@@ -1,7 +1,7 @@
 +++
 Title = "Alicia Davis"
 Twitter = "SepanikDavis"
-
+image="alicia-davis.jpeg"
 type = "speaker"
 
 +++
