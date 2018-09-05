@@ -11,6 +11,7 @@ Speakerdeck = ""
 Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/ethics-in-software-development-113012872"
 Slides = ""
 Website = "https://softwareandotherthings.blogspot.com/"
+
 +++
 
 ##### IGNITE TALK ABSTRACT
