@@ -1,7 +1,6 @@
 +++ Title = "Reham Saleh" image = "reham-saleh.jpeg" type = "speaker" linktitle = "reham-saleh" +++
 
-Mohamed works in the software development field since 2006.  He participated in the development of many enterprise software projects serving different industries. In 2010, Mohamed co-founded CodeZone and he is its Software Development Manager and till now.
+Reham has more than fourteen years of experience and helped many organizations, in Egypt ,Saudi Arabia and Kuwait, enhance their capabilities and achieve higher performance levels.   As an agile/scrum coach and trainer, she guides the organizations to transform towards being an agile enterprise starting from helping their teams to understand the core agile values and principles, formulating the agile teams to planning and managing the agile projects and programs. 
 
-Mohamed loves to learn and is very interested in topics such as improving software performance with a large amount of data, software design, software architecture and machine learning.  
-
-One of Mohamed's most important social goals is to enrich the Arabic content with deep technical topics that can be found on his blog (galaldev.blogspot.com.eg).
+Her interest is to focus on using the agile/scrum not just as a goal but as a strategic enabler for many verticals and business lines. Examples include using agile/scrum in software development, service delivery, system engineering and six sigma projects. 
+Reham works in coaching, training and assessing software development professionals and companies on CMMI, ITIL , technical practices and project management.
