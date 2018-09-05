@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Using Docker to build your software"
+Title = "Using Docker to Build Software"
 Type = "talk"
 Speakers = ["james-thomas"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/using-docker-to-build-software"
 Slides = ""
 Website = ""
 +++

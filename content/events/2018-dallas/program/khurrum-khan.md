@@ -8,7 +8,7 @@ Speakers = ["khurrum-khan"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/tool-selection-in-devops-pipeline-art-or-science"
 Slides = ""
 Website = ""
 +++
