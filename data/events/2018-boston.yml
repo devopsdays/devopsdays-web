@@ -190,8 +190,14 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
-  - id: ca
-    level: alacarte
+  # - id: ca
+  #   level: evening
+  # - id: launch-darkly
+  #   level: badges
+  # - id: genians
+  #   level: coffee
+  - id: arresteddevops
+    level: community
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -204,8 +210,14 @@ sponsor_levels:
 
   - id: gold
     label: Gold
-  - id: alacarte
-    label: a la carte
+  - id: evening
+    label: Monday Evening Event
+  - id: badges
+    label: Badges and Lanyards
+  - id: coffee
+    label: Coffee Service
+  - id: community
+    label: Community
   
   # - id: community
   #   label: Community
