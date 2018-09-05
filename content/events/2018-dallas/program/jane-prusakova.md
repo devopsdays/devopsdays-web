@@ -2,15 +2,16 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Ethics of software development"
+Title = "Ethics of Software Development"
 Type = "talk"
 Speakers = ["jane-prusakova"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/ethics-in-software-development-113012872"
 Slides = ""
 Website = "https://softwareandotherthings.blogspot.com/"
+
 +++
 
 ##### IGNITE TALK ABSTRACT
