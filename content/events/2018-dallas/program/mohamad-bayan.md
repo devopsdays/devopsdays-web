@@ -8,7 +8,7 @@ Speakers = ["mohamad-bayan"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/avoid-the-distributed-monolith"
 Slides = ""
 Website = ""
 +++

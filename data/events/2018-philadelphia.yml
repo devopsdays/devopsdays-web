@@ -149,7 +149,7 @@ program:
     date: 2018-10-23
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "katy-farmer"
     type: talk
     date: 2018-10-23
     start_time: "10:40"
@@ -204,6 +204,7 @@ program:
     date: 2018-10-23
     start_time: "19:00"
     end_time: "late"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-10-24
@@ -214,7 +215,7 @@ program:
     date: 2018-10-24
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "matty-stratton"
     type: talk
     date: 2018-10-24
     start_time: "09:15"
@@ -284,3 +285,7 @@ program:
     date: 2018-10-24
     start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+  - date: '2017-10-23'
+    title: sonia-sarda

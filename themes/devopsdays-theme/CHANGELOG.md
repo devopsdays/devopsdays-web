@@ -1,5 +1,22 @@
 # Change Log
 
+## [1.22.0](https://github.com/devopsdays/devopsdays-theme/tree/1.22.0) (2018-09-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.21.0...1.22.0)
+
+**Implemented enhancements:**
+
+- Allow URL link on "custom" program type [\#611](https://github.com/devopsdays/devopsdays-theme/issues/611)
+
+## [1.21.0](https://github.com/devopsdays/devopsdays-theme/tree/1.21.0) (2018-09-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.20.0...1.21.0)
+
+**Closed issues:**
+
+- Program should support links to slides and video [\#600](https://github.com/devopsdays/devopsdays-theme/issues/600)
+
+## [1.20.0](https://github.com/devopsdays/devopsdays-theme/tree/1.20.0) (2018-08-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.1...1.20.0)
+
 ## [1.19.1](https://github.com/devopsdays/devopsdays-theme/tree/1.19.1) (2018-08-20)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.0...1.19.1)
 

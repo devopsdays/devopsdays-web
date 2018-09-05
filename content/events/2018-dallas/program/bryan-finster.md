@@ -8,7 +8,7 @@ Speakers = ["bryan-finster","dana-finster"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/scaling-continuous-delivery-to-walmart"
 Slides = ""
 Website = "https://www.linkedin.com/in/bryan-finster/"
 +++
