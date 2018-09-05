@@ -68,6 +68,10 @@ team_members: # Name is the only required field for team members.
     role: "Marketing Coordinator"
   - name: "Shaheen Beg"
     employer: "University of Pennsylvania"
+  - name: "Damion Waltermeyer"
+    twitter: "Damionw"
+    linkedin: "https://www.linkedin.com/in/damionwaltermeyer/"
+    role: "Organizer"
 organizer_email: "organizers-philadelphia-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal email address here
 
