@@ -1,7 +1,7 @@
 +++
 Title = "Anton Gurov"
 Twitter = ""
-image="anton-gurov.jpeg"
+image="anton-gurov.jpg"
 type = "speaker"
 
 +++
