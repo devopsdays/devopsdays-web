@@ -193,6 +193,8 @@ sponsors:
     level: party
   - id: elastic
     level: amenity
+  - id: vml
+    level: premium
     
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
