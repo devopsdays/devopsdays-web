@@ -1,7 +1,7 @@
 +++
 Title = "Rob Richardson"
 Twitter = "rob_rich"
-image = ""
+image = "rob-richardson.png"
 type = "speaker"
 linktitle = "rob-richardson"
 
