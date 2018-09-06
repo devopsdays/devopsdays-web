@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Step up Your DevOps With Step Functions"
+Title = "Stepping Up Your DevOps With Step Functions"
 Type = "talk"
 Speakers = ["richard-boyd"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/stepping-up-your-devops-with-step-functions"
 Slides = ""
 Website = "https://richardboydii.com/"
 +++

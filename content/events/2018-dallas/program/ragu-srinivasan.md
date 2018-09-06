@@ -8,7 +8,7 @@ Speakers = ["ragu-srinivasan","ramesh-podila"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/cavemen-to-captains-using-kubernetes-to-evolve-devops-adoption"
 Slides = ""
 Website = ""
 +++
