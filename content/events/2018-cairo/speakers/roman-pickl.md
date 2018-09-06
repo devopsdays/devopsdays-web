@@ -1,4 +1,9 @@
-+++ Title = "Roman Pickl" image = "roman-pickl.jpg" type = "speaker" linktitle = "roman-pickl" +++
++++ 
+Title = "Roman Pickl" 
+image = "roman-pickl.jpg" 
+type = "speaker" 
+linktitle = "roman-pickl" 
++++
 
 Roman is a technical project manager at Elektrobit and former CTO at fluidtime. He has comprehensive experience in project management, the technical coordination of national and international projects and the optimisation of business and development processes. 
 

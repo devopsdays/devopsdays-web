@@ -1,6 +1,6 @@
 +++ 
 Title = "Ahmed  Abdelaziz" 
-image = "ahmed-abdelaziz.png" 
+image = "ahmed-abdelaziz.png"
 type = "speaker" 
 linktitle = "ahmed-abdelaziz" 
 +++
