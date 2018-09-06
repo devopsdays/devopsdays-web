@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Making Money with Data Science"
 Type = "talk"
 Speakers = ["lilia-gutnik"]
+slides = "https://noti.st/superlilia/WxCQmE/data-science-magic-profit"
 +++
 
 You can't throw a rock without running into a talk about the basics of data science and best practices for data hygiene. What's next? Shipping a data science-powered feature takes more than data collection, experimentation, and analysis - it takes magic. This talk will teach the magic based on the many ~mistakes~ *learning* opportunities that my team has experienced so that any team will feel inspired to build a customer-facing data science-based feature.
