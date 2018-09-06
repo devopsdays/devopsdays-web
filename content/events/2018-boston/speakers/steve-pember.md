@@ -1,7 +1,7 @@
 +++
 Title = "Steve Pember"
 Twitter = "svpember"
-
+image="steve-pember.jpeg"
 type = "speaker"
 +++
 
