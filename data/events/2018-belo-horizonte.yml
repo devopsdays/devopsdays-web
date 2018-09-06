@@ -36,8 +36,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2018-belo-horizonte/location
   - name: ingressos
     url: /events/2018-belo-horizonte/registration
- # - name: program
- # - name: speakers
+  - name: programação
+    url: /events/2018-belo-horizonte/program
+  - name: palestrantes
+    url: /events/2018-belo-horizonte/speakers
   - name: patrocinio
     url: /events/2018-belo-horizonte/sponsor
   - name: contato
@@ -104,6 +106,8 @@ sponsors:
     level: premium
   - id: dti
     level: premium
+  - id: maxmilhas
+    level: premium
   - id: devopsbh
     level: community
   - id: arresteddevops
@@ -119,8 +123,45 @@ sponsor_levels:
   - id: premium
     label: Premium 
     max: 0
-  - id: sponsors
-    label: 
+  - id: other
+    label: Other
     max: 0
   - id: community
     label: Community
+
+program:
+  - title: "Registro e abertura"
+    type: custom
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "rafael-gomex"
+    type: talk
+    date: 2018-09-29
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Coffee and break"
+    type: custom
+    date: 2018-09-29
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "henrique-bueno"
+    type: talk
+    date: 2018-09-29
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "marco-mendes"
+    type: talk
+    date: 2018-09-29
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "allan-sene"
+    type: talk
+    date: 2018-09-29
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Aĺmoço"
+    type: custom
+    date: 2018-09-29
+    start_time: "12:00"
+    end_time: "13:00"

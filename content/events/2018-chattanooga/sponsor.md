@@ -25,7 +25,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table style="text-align:center">
   <tr>
     <td colspan="3">
-      <img alt="Chattanooga DevOpsDays Sponsorship Tiers" src="/events/2018-chattanooga/chattanooga-2018-sponsor-table.png" width="808" height="657" />
+      <img alt="Chattanooga DevOpsDays Sponsorship Tiers" src="/events/2018-chattanooga/chattanooga-2018-sponsor-table.png" width="876" height="707" />
     </td>
   </tr>
 </table>
