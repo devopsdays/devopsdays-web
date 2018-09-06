@@ -8,7 +8,7 @@ Speakers = ["pam-dukes"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/developing-people-and-building-great-teams"
 Slides = ""
 Website = "http://pamdukes.com/"
 +++

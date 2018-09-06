@@ -2,6 +2,7 @@
 date = "2016-12-24T11:00:07-06:00"
 title = "Program"
 type = "program"
+icons = "True"
 description = "DevOpsDays Dallas 2017 program will be a single track, featuring speakers in the morning and open spaces in the afternoon."
 
 +++

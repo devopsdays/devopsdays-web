@@ -11,7 +11,7 @@ enddate: 2018-11-20
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-08-01 # start accepting talk proposals.
-cfp_date_end: 2018-09-02 # close your call for proposals.
+cfp_date_end: 2018-09-09 # close your call for proposals.
 cfp_date_announce: 2018-09-17  # inform proposers of status
 
 cfp_open: "true"
@@ -35,7 +35,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -167,6 +167,8 @@ proposal_email: "proposals-galway-2018@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: cisco
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

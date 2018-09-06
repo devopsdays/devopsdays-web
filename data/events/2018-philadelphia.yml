@@ -10,9 +10,9 @@ startdate: 2018-10-23 # The start date of your event. Leave blank if you don't h
 enddate: 2018-10-24 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-05-14  # start accepting talk proposals.
-cfp_date_end: 2018-07-14 # close your call for proposals.
-cfp_date_announce: 2018-08-14 # inform proposers of status
+cfp_date_start: 2018-05-14T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-07-14T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-08-14T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -68,6 +68,10 @@ team_members: # Name is the only required field for team members.
     role: "Marketing Coordinator"
   - name: "Shaheen Beg"
     employer: "University of Pennsylvania"
+  - name: "Damion Waltermeyer"
+    twitter: "Damionw"
+    linkedin: "https://www.linkedin.com/in/damionwaltermeyer/"
+    role: "Organizer"
 organizer_email: "organizers-philadelphia-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-philadelphia-2018@devopsdays.org" # Put your proposal email address here
 
@@ -149,7 +153,7 @@ program:
     date: 2018-10-23
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "katy-farmer"
     type: talk
     date: 2018-10-23
     start_time: "10:40"
@@ -204,6 +208,7 @@ program:
     date: 2018-10-23
     start_time: "19:00"
     end_time: "late"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-10-24
@@ -214,7 +219,7 @@ program:
     date: 2018-10-24
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "matty-stratton"
     type: talk
     date: 2018-10-24
     start_time: "09:15"
@@ -284,3 +289,7 @@ program:
     date: 2018-10-24
     start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+  - date: '2017-10-23'
+    title: sonia-sarda
