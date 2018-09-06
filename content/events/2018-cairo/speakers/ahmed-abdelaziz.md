@@ -1,4 +1,9 @@
-+++ Title = "Ahmed  Abdelaziz" image = "ahmed-abdelaziz.png" type = "speaker" linktitle = "ahmed-abdelaziz" +++
++++ 
+Title = "Ahmed  Abdelaziz" 
+image = "ahmed-abdelaziz.png" 
+type = "speaker" 
+linktitle = "ahmed-abdelaziz" 
++++
 
 Ahmed is a Worldwide DevOps Solution Architect working for IBM Cloud. He has over 20 years of experience in IT industry with a very wide background that stretches over software development, operating systems, networking, cloud technologies, Solution Architecture, DevOps, and offering management, to name a few. 
 
