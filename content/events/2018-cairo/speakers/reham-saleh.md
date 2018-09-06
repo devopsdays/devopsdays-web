@@ -1,4 +1,9 @@
-+++ Title = "Reham Saleh" image = "reham-saleh.jpeg" type = "speaker" linktitle = "reham-saleh" +++
++++ 
+Title = "Reham Saleh" 
+image = "reham-saleh.jpeg" 
+type = "speaker" 
+linktitle = "reham-saleh" 
++++
 
 Reham has more than fourteen years of experience and helped many organizations, in Egypt ,Saudi Arabia and Kuwait, enhance their capabilities and achieve higher performance levels.   As an agile/scrum coach and trainer, she guides the organizations to transform towards being an agile enterprise starting from helping their teams to understand the core agile values and principles, formulating the agile teams to planning and managing the agile projects and programs. 
 

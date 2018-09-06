@@ -34,10 +34,10 @@ location_address: "Grand Nile Tower Hotel" #Optional - use the street address of
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
+  - name: cairo
   - name: registration
   - name: program
-    url: http://www.secc.org.eg/DevOpsDays_Cairo2018_Agenda.pdf
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -99,7 +99,7 @@ sponsors:
  - id: wuzzuf
    level: gold
  - id: agilearena
-   level: sliver
+   level: silver
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -122,3 +122,97 @@ sponsor_levels:
   - id: community
     label: Community
     max: 7
+
+program:
+# day 1
+  - title: "Registration & Morning Coffee Break"
+    type: custom
+    date: 2018-09-17
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Welcome Note - Dr. Hossam Osman, SECC Chairman"
+    type: custom
+    date: 2018-09-17
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "Welcome Note - Ms. Maha Rashad, ITIDA CEO"
+    type: custom
+    date: 2018-09-17
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "andrew-shafer"
+    type: talk
+    date: 2018-09-17
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "ahmed-bahaa"
+    type: talk
+    date: 2018-09-17
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ahmed-dahab"
+    type: talk
+    date: 2018-09-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "ahmed-abdelaziz"
+    type: ignite
+    date: 2018-09-17
+    start_time: "12:00"
+    end_time: "12:05"
+  - title: "mina-fahmy"
+    type: ignite
+    date: 2018-09-17
+    start_time: "12:05"
+    end_time: "12:10"
+  - title: "Networking & Coffee Break"
+    type: custom
+    date: 2018-09-17
+    start_time: "12:10"
+    end_time: "12:45"
+  - title: "mohamed-fawzy"
+    type: talk
+    date: 2018-09-17
+    start_time: "12:45"
+    end_time: "13:15"
+  - title: "marcin-wielgus"
+    type: talk
+    date: 2018-09-17
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "roman-pickl"
+    type: talk
+    date: 2018-09-17
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "mohamed-galal"
+    type: talk
+    date: 2018-09-17
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "mohamed-adawi"
+    type: ignite
+    date: 2018-09-17
+    start_time: "14:45"
+    end_time: "14:50"
+  - title: "reham-saleh"
+    type: ignite
+    date: 2018-09-17
+    start_time: "14:50"
+    end_time: "14:55"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-09-17
+    start_time: "14:55"
+    end_time: "16:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-17
+    start_time: "16:00"
+    end_time: "17:30"
+  - title: "DevOpsDays Cairo 2018 Closure"
+    type: custom
+    date: 2018-09-17
+    start_time: "17:30"
+    end_time: "18:00"
+    

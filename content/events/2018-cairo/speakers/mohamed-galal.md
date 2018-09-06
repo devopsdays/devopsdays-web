@@ -1,4 +1,9 @@
-+++ Title = "Mohamed Galal" image = "mohamed-galal.png" type = "speaker" linktitle = "mohamed-galal" +++
++++ 
+Title = "Mohamed Galal" 
+image = "mohamed-galal.png" 
+type = "speaker"
+linktitle = "mohamed-galal" 
++++
 
 Mohamed works in the software development field since 2006.  He participated in the development of many enterprise software projects serving different industries. In 2010, Mohamed co-founded CodeZone and he is its Software Development Manager and till now.
 
