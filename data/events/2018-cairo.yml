@@ -130,10 +130,15 @@ program:
     date: 2018-09-17
     start_time: "09:00"
     end_time: "10:00"
-  - title: "Welcome Note - Dr. Hossam Osman, SECC Chairman<br>Welcome Note - Ms. Maha Rashad, ITIDA CEO"
+  - title: "Welcome Note - Dr. Hossam Osman, SECC Chairman"
     type: custom
     date: 2018-09-17
     start_time: "10:00"
+    end_time: "10:15"
+  - title: "Welcome Note - Ms. Maha Rashad, ITIDA CEO"
+    type: custom
+    date: 2018-09-17
+    start_time: "10:15"
     end_time: "10:30"
   - title: "andrew-shafer"
     type: talk
