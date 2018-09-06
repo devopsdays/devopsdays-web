@@ -41,7 +41,7 @@ Description = "DevOpsDays Singapore 2018"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a ignite!" >}}
+    {{< event_link page="propose" text="Propose an ignite!" >}}
   </div>
 </div>
 
