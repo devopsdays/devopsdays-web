@@ -14,6 +14,10 @@ DevOpsDays é uma conferência auto organizada que depende de patrocinadores. N�
 Patrocinadores Premium recebem uma mesa onde podem interagir com aqueles interessados em visitar durante os intervalos ou podem levar o seu próprio stand. Todos os participantes são bem-vindos a propor qualquer assunto que quiserem durante os Open Spaces, mas como esta conferência é focada na comunidade, uma propaganda pesada, sales pitch ou algo do tipo, provavelmente trabalhará contra você ao tentar causar uma boa impressão nos participantes.
 
 <p>
+
+Outros patrocinadores dependem de negociação com a organização e cada caso será avaliado. Mas temos certeza que podemos chegar num acordo em que ambas as partes saiam satsfeitas e possam desfrutar ao máximo do evento.
+
+<p>
 Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento.
 
 <p>
