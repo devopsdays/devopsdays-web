@@ -1,7 +1,7 @@
 +++
 Title = "Carlos Nunez"
 Twitter = "easiestnameever"
-image = ""
+image = "carlos-nunez.jpg"
 type = "speaker"
 linktitle = "carlos-nunez"
 
