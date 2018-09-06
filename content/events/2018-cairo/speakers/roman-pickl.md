@@ -1,4 +1,4 @@
-+++ 
++++
 Title = "Roman Pickl" 
 image = "roman-pickl.jpg" 
 type = "speaker" 

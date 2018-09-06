@@ -1,8 +1,8 @@
-+++ 
++++
 Talk_date = "" 
 Talk_start_time = "" 
 Talk_end_time = "" 
-Title = "Introduction to Kuberenetes" 
+Title = "Introduction to Kubernetes" 
 Type = "talk" 
 Speakers = ["marcin-wielgus"] 
 +++

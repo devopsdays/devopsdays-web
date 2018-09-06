@@ -1,4 +1,4 @@
-+++ 
++++
 Title = "Andrew Clay Shafer" 
 image = "andrew-shafer.png" 
 type = "speaker" 

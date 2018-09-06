@@ -156,12 +156,12 @@ program:
     start_time: "11:30"
     end_time: "12:00"
   - title: "ahmed-abdelaziz"
-    type: ignite
+    type: talk
     date: 2018-09-17
     start_time: "12:00"
     end_time: "12:05"
   - title: "mina-fahmy"
-    type: ignite
+    type: talk
     date: 2018-09-17
     start_time: "12:05"
     end_time: "12:10"
@@ -191,12 +191,12 @@ program:
     start_time: "14:15"
     end_time: "14:45"
   - title: "mohamed-adawi"
-    type: ignite
+    type: talk
     date: 2018-09-17
     start_time: "14:45"
     end_time: "14:50"
   - title: "reham-saleh"
-    type: ignite
+    type: talk
     date: 2018-09-17
     start_time: "14:50"
     end_time: "14:55"

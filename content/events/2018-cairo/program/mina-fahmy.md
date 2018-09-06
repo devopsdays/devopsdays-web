@@ -1,9 +1,9 @@
-+++ 
++++
 Talk_date =""  
 Talk_start_time = ""  
 Talk_end_time = "" 
-Title = "Find Z Commit!" 
-Type = "ignite" 
+Title = "Find Z Commit! (Ignite)" 
+Type = "talk" 
 Speakers = ["mina-fahmy"] 
 +++
 

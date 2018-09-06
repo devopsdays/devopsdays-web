@@ -1,4 +1,4 @@
-+++ 
++++
 Title = "Marcin Wielgus" 
 image = "marcin-wielgus.jpeg" 
 type = "speaker" 

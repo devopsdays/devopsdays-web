@@ -1,9 +1,9 @@
-+++ 
++++
 Talk_date = "" 
 Talk_start_time = "" 
 Talk_end_time = "" 
-Title = "Can We Automate SCRUM Ceremonies?" 
-Type = "ignite" 
+Title = "Can We Automate SCRUM Ceremonies? (Ignite)" 
+Type = "talk" 
 Speakers = ["reham-saleh"] 
 +++
 

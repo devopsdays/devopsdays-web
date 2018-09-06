@@ -1,4 +1,4 @@
-+++ 
++++
 Title = "Muhammad Adawi" 
 image = "mohamed-adawi.png" 
 type = "speaker" 

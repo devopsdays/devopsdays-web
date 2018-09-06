@@ -1,4 +1,4 @@
-+++ 
++++
 Title = "Mohamed Galal" 
 image = "mohamed-galal.png" 
 type = "speaker"

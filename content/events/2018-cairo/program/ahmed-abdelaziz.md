@@ -1,9 +1,9 @@
-+++ 
++++
 Talk_date =""  
 Talk_start_time = ""  
 Talk_end_time = "" 
-Title = "Enterprise DevOps, a Pragmatic Approach" 
-Type = "ignite" 
+Title = "Enterprise DevOps, a Pragmatic Approach (Ignite)" 
+Type = "talk" 
 Speakers = ["ahmed-abdelaziz"] 
 +++
 

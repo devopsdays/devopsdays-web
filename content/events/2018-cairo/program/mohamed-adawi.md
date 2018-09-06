@@ -1,9 +1,9 @@
-+++ 
++++
 Talk_date =""  
 Talk_start_time = ""  
 Talk_end_time = "" 
-Title = "DevOps Challenges in an Offshore/ Onshore Distributed Project" 
-Type = "ignite" 
+Title = "DevOps Challenges in an Offshore/ Onshore Distributed Project (Ignite)" 
+Type = "talk" 
 Speakers = ["mohamed-adawi"] 
 +++
 

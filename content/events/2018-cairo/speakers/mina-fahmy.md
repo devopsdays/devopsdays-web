@@ -1,4 +1,4 @@
-+++ 
++++
 Title = "Mina Fahmy" 
 image = "mina_fahmy.png" 
 type = "speaker" 
