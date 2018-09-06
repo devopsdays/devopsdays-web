@@ -82,7 +82,9 @@ proposal_email: "proposals-cairo-2018@devopsdays.org" # Put your proposal email 
 sponsors:
  - id: amecse
    level: community
- - id: tafra
+ - id: egyptinnovate
+   level: community
+ - id: foss
    level: community
  - id: gizasystems
    level: platinum
@@ -96,6 +98,8 @@ sponsors:
    level: gold
  - id: wuzzuf
    level: gold
+ - id: agilearena
+   level: sliver
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
@@ -117,4 +121,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 4
+    max: 7

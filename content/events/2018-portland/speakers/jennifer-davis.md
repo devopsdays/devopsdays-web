@@ -7,4 +7,4 @@ linktitle = "jennifer-davis"
 
 +++
 
-Jennifer is the co-author of Effective DevOps. She is a co-organizer of devopsdays Silicon Valley, and the founder of Coffeeops. Jennifer develops software to simplify building and managing infrastructure. She has spoken at a number of industry conferences about devops, tech culture, monitoring, and automation. When she's not working, she enjoys hiking Bay Area trails, learning to make things and quality time with her dog, George.
+Jennifer Davis is the co-author of Effective DevOps. In her day job, she is a senior site reliability engineer at RealSelf. Jennifer speaks about DevOps, tech culture, and monitoring and gives tutorials on a variety of technical topics.
