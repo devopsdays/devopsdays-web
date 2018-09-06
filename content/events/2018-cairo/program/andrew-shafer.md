@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Elemental DevOps" Type = "talk" Speakers = ["andrew-shafer"] +++
++++
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "Elemental DevOps" 
+Type = "talk" 
+Speakers = ["andrew-shafer"] 
++++
 
 devops is simple, not easy. 
 

@@ -1,4 +1,9 @@
-+++ Title = "Mohamed Fawzy" image = "mohamed-fawzy.jpg" type = "speaker" linktitle = "mohamed-fawzy" +++
++++
+Title = "Mohamed Fawzy" 
+image = "mohamed-fawzy.jpg" 
+type = "speaker" 
+linktitle = "mohamed-fawzy" 
++++
 
 
 Mohamed is a Team Lead with 8+ years of experience in complex and diverse environments supporting multiple clients. 

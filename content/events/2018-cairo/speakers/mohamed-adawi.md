@@ -1,4 +1,9 @@
-+++ Title = "Muhammad Adawi" image = "mohamed-adawi.png" type = "speaker" linktitle = "mohamed-adawi" +++
++++
+Title = "Muhammad Adawi" 
+image = "mohamed-adawi.png" 
+type = "speaker" 
+linktitle = "mohamed-adawi" 
++++
 
 
 Muhammad Adawi is a DevOps consultant at IBM with over 7 years of experience. He started his professional career at Hewlett-Packard back in 2011.  
