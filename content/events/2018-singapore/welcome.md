@@ -27,21 +27,21 @@ Description = "DevOpsDays Singapore 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Propose a ignite!" >}}
   </div>
 </div>
 
@@ -54,14 +54,14 @@ Description = "DevOpsDays Singapore 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,6 +81,14 @@ Description = "DevOpsDays Singapore 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Volunteer</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="volunteer" text="Sign up to volunteer at DevOpsDays Singapore 2018!" >}}
+  </div>
+</div>
+
 {{< event_twitter >}}
 
