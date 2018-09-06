@@ -17,25 +17,25 @@ cfp_date_announce: 2018-09-16T00:00:00+02:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdays-oslo-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-06-01 # start accepting registration. Leave blank if registration is not open yet
+registration_date_start: 2018-09-06 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-10-29 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdays-oslo.eventbrite.com/?aff=webpage" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "59.911057,  10.740069" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Oslo" # Defaults to city, but you can make it the venue name.
+location: "Sentralen, Oslo" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Sentralen, Øvre Slottsgate 3, 0157 Oslo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -105,3 +105,169 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-29
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Patricia Aass"
+    type: talk
+    date: 2018-10-29
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-29
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "Mike Place"
+    type: talk
+    date: 2018-10-29
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-10-29
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2018-10-29
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-29
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2018-10-29
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-29
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2018-10-29
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-10-29
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-10-29
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-10-29
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-10-29
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2018-10-29
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2018-10-29
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-30
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2018-10-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-30
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2018-10-30
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-10-30
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2018-10-30
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-30
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2018-10-30
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-30
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2018-10-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-10-30
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-10-30
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-10-30
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-10-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2018-10-30
+    start_time: "16:45"
+    end_time: "17:00"
