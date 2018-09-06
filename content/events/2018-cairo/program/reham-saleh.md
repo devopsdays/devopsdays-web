@@ -1,4 +1,11 @@
-+++ Talk_date = "" Talk_start_time = "" Talk_end_time = "" Title = "Can We Automate SCRUM Ceremonies?" Type = "ignite" Speakers = ["reham-saleh"] +++
++++ 
+Talk_date = "" 
+Talk_start_time = "" 
+Talk_end_time = "" 
+Title = "Can We Automate SCRUM Ceremonies?" 
+Type = "ignite" 
+Speakers = ["reham-saleh"] 
++++
 
 In this Ignite we will introduce how we converted DevOps Pipeline Plan from manual to automated, and how it saves time from 10 hours to 1.5 hours using by developing automation add-ins integrated with company ALM.
 
