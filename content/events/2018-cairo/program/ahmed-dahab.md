@@ -13,7 +13,7 @@ The talk will be about DevOps for mobile apps , it will focus on challenges and 
 
 -  talk about problems that mobile apps developers facing when developing their app for ios & android at the same time.
 
--  talk about Google Flutter and whatâ€™s unique about it.
+-  talk about Google Flutter and what is unique about it.
 
 -  talk about how Google Flutter can help developers  & DevOps to build their apps faster.
 
