@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Flying v. Driving: Myths, fears, and opportunity when going serverless"
 Type = "talk"
 Speakers = ["tom-mclaughlin"]
+speakerdeck = "https://speakerdeck.com/tmclaugh/flying-v-driving-myths-fears-and-opportunity-when-going-serverless-devops-days-chicago-2018"
 +++
 
 You own your availability but when is it better to leave your infrastructure primarily in the hands of AWS by building a serverless system? We'll explore this question using the analogy of flying versus driving to your destination. Flying requires you to put your safety in the hands of a pilot, flight crew, and airline and is routinely a safer form of transportation. Yet, many are still wary and prefer to drive which enables them to own their travel.
