@@ -15,7 +15,18 @@ Attendee Parking is available free of charge at the Woodward Lot, located on Bal
 <img src="../ccs_map.png"/>
 <br/><br/>
 <a name="hotel"><h2>Hotel Bookings</h2></a>
-Our room block reservations are pending at this time.
+We have a block of hotel rooms at _Holiday Inn Express & Suites Detroit Downtown_. When reserving your hotel stay, please use this <a href="https://www.hiexpress.com/redirect?path=hd&brandCode=EX&localeCode=en&regionCode=1&hotelCode=dttwb&_PMID=99801505&GPC=DDD&viewfullsite=true">link</a> (or code DDD) to register for special DevOpsDays pricing including:
+
+$119 per night for a standard room.
+
+$30 per night for valet parking.
+
+For transport between the hotel and the venue, check out https://qlinedetroit.com/. Uber and Lyft also operate in Detroit as well.
+
+
+
+
+
 <p>
 <h2>About the Taubman Center</h2>
 <p>
