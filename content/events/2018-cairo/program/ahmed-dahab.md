@@ -1,4 +1,11 @@
-+++ Talk_date =""  Talk_start_time = ""  Talk_end_time = "" Title = "Mobile DevOps using Google Flutter" Type = "talk" Speakers = ["ahmed-dahab"] +++
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Mobile DevOps using Google Flutter"
+Type = "talk"
+Speakers = ["ahmed-dahab"]
++++
 
 The talk will be about DevOps for mobile apps , it will focus on challenges and best practices for mobile apps developers , it will introduce Google Flutter which is mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time , it will list some of the DevOps challenges for mobile  apps development and how Google Flutter can solve it.
 
@@ -6,7 +13,7 @@ The talk will be about DevOps for mobile apps , it will focus on challenges and 
 
 -  talk about problems that mobile apps developers facing when developing their app for ios & android at the same time.
 
--  talk about Google Flutter and whatâ€™s unique about it.
+-  talk about Google Flutter and what is unique about it.
 
 -  talk about how Google Flutter can help developers  & DevOps to build their apps faster.
 

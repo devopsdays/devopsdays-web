@@ -1,4 +1,11 @@
-+++ Talk_date =""  Talk_start_time = ""  Talk_end_time = "" Title = "Enterprise DevOps, a Pragmatic Approach" Type = "ignite" Speakers = ["ahmed-abdelaziz"] +++
++++ 
+Talk_date =""  
+Talk_start_time = ""  
+Talk_end_time = "" 
+Title = "Enterprise DevOps, a Pragmatic Approach" 
+Type = "ignite" 
+Speakers = ["ahmed-abdelaziz"] 
++++
 
 Many companies and teams have already adopted DevOps one way or another,  however,  when it comes to larger enterprise-scale adoption it is still stagnated. 
 

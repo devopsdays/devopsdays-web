@@ -1,4 +1,11 @@
-+++ Talk_date =""  Talk_start_time = ""  Talk_end_time = "" Title = "Digital Journey" Type = "talk" Speakers = ["mohamed-fawzy"] +++
++++ 
+Talk_date =""  
+Talk_start_time = ""  
+Talk_end_time = "" 
+Title = "Digital Journey" 
+Type = "talk" 
+Speakers = ["mohamed-fawzy"] 
++++
 
 Nowadays digital transformation (a.k.a. DX) is a core strategy in any organization to enable the business reach a faster go to market, lower the cost, increase the quality, increase resilience and of course increase customer satisfaction. To achieve that new competencies are needed which revolve around agility, innovation, customer-centric, being people oriented and resilience. 
 
