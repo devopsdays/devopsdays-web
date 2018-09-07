@@ -1,6 +1,6 @@
 +++
 Title = "Reham Saleh" 
-image = "reham-saleh.jpeg" 
+image = "reham-saleh.jpg" 
 type = "speaker" 
 linktitle = "reham-saleh" 
 +++
