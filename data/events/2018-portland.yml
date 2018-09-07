@@ -125,10 +125,14 @@ sponsors:
     level: silver
   - id: cloudbees
     level: silver
+  - id: nginx
+    level: silver
   - id: bitnami
     level: bronze
   - id: waffleio
     level: specialty
+  - id: workday
+    level: evening
   - id: recompiler
     level: community
 
@@ -147,6 +151,8 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: evening
+    label: Evening Event
   - id: specialty
     label: Specialty
   - id: community
