@@ -18,5 +18,3 @@ Aqui você poderá comprar o seu ingresso através do sistema da Sympla. Selecio
 
 <br>
 <br>
-
-<h4>Nota: O segundo lote estará disponivel ainda nessa primeira semana de Setembro. Teremos tambem um terceiro lote eventualmente. Aguarde...</h4>
