@@ -1,4 +1,9 @@
-+++ Title = "Dr. Ahmed Bahaa" image = "ahmed-bahaa.png" type = "speaker" linktitle = "ahmed-bahaa" +++
++++
+Title = "Ahmed Bahaa" 
+image = "ahmed-bahaa.png" 
+type = "speaker" 
+linktitle = "ahmed-bahaa" 
++++
 
 Dr. Ahmed Bahaa, Ph.D. is a software engineer, consultant and a Microsoft Regional Director, currently living in Cairo, Egypt.  Ahmed is an Associate Professor at the Faculty of Computers and Information - Helwan University, and a Principal Technical Consultant of a Gold Microsoft Partner in Egypt that is called CompuPharaohs.  Ahmed is also an ISO advisory committee member who is responsible of producing the official worldwide ISO Arabic versions of IT standards.  
 

@@ -1,4 +1,11 @@
-+++ Talk_date =""  Talk_start_time = ""  Talk_end_time = "" Title = "Find Z Commit!" Type = "ignite" Speakers = ["mina-fahmy"] +++
++++
+Talk_date =""  
+Talk_start_time = ""  
+Talk_end_time = "" 
+Title = "Find Z Commit! (Ignite)" 
+Type = "talk" 
+Speakers = ["mina-fahmy"] 
++++
 
 There are many ways to measure the quality of a software product, but the first and foremost important factor is how the customers experience it. With both agile software development models & DevOps practices dominating the market, customers are more likely to keep up with the latest and greatest software versions from their vendors.
 

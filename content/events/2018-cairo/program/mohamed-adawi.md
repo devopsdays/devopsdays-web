@@ -1,4 +1,11 @@
-+++ Talk_date =""  Talk_start_time = ""  Talk_end_time = "" Title = "DevOps Challenges in an Offshore/ Onshore Distributed Project" Type = "ignite" Speakers = ["mohamed-adawi"] +++
++++
+Talk_date =""  
+Talk_start_time = ""  
+Talk_end_time = "" 
+Title = "DevOps Challenges in an Offshore/ Onshore Distributed Project (Ignite)" 
+Type = "talk" 
+Speakers = ["mohamed-adawi"] 
++++
 
 Offshoring parts of an IT project can dramatically reduce its cost. Adopting DevOps in such environments reduces the cost even more but also introduces new challenges. 
 

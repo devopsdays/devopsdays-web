@@ -1,4 +1,9 @@
-+++ Title = "Andrew Clay Shafer" image = "andrew-shafer.png" type = "speaker" linktitle = "andrew-shafer" +++
++++
+Title = "Andrew Clay Shafer" 
+image = "andrew-shafer.png" 
+type = "speaker" 
+linktitle = "andrew-shafer" 
++++
 
 Andrew Clay Shafer was devopsing before devops was a word.
 

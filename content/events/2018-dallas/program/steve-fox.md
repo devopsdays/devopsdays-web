@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Hidden Costs of Chasing the Mythical 'Five Nines' "
+Title = "Hidden Costs of Chasing the Mythical 'Five Nines' "
 Type = "talk"
 Speakers = ["steve-fox"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/hidden-costs-of-chasing-the-mythical-five-nines"
 Slides = ""
 Website = "http://autoscalr.com/blog/"
 +++

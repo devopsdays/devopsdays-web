@@ -1,4 +1,9 @@
-+++ Title = "Mina Fahmy" image = "mina_fahmy.png" type = "speaker" linktitle = "mina-fahmy" +++
++++
+Title = "Mina Fahmy" 
+image = "mina_fahmy.png" 
+type = "speaker" 
+linktitle = "mina-fahmy" 
++++
 
 Mina M. Fahmy is a DevOps Engineer from Mentor, A Siemens Business.
 

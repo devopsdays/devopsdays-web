@@ -1,7 +1,7 @@
 +++
 Title = "Andy Lowe"
 Twitter = "lowekeyone"
-image = ""
+image = "andy-lowe.jpg"
 type = "speaker"
 linktitle = "andy-lowe"
 
