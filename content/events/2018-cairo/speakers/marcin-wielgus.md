@@ -1,6 +1,6 @@
 +++
 Title = "Marcin Wielgus" 
-image = "marcin-wielgus.jpeg" 
+image = "marcin-wielgus.jpg" 
 type = "speaker" 
 linktitle = "marcin-wielgus" 
 +++
