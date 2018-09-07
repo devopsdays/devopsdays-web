@@ -172,7 +172,7 @@ program:
     start_time: "10:00"
     end_time: "10:05"
 
-  - title: "Gold Sponsor #1"
+  - title: "Microsoft, gold sponsor"
     type: sponsor
     date: 2018-10-10
     start_time: "10:05"
@@ -216,7 +216,7 @@ program:
     end_time: "13:30"
     background_color: "#ff8282"
 
-  - title: "Silver Sponsors (#1 & #2)"
+  - title: "CloudOps & Aqua Security, silver sponsors"
     type: sponsor
     date: 2018-10-10
     start_time: "13:30"
@@ -276,111 +276,111 @@ program:
     type: custom
     date: 2018-10-11
     start_time: "08:45"
-    end_time: "09:45"
+    end_time: "09:30"
 
   - title: "Welcome"
     type: custom
     date: 2018-10-11
-    start_time: "09:45"
-    end_time: "10:00"
+    start_time: "09:30"
+    end_time: "9:45"
 
   - title: "keynote-tbd"
     type: talk
     date: 2018-10-11
-    start_time: "10:00"
-    end_time: "10:30"
+    start_time: "9:45"
+    end_time: "10:15"
 
   - title: "Speaker Change Buffer"
     type: custom
     date: 2018-10-11
-    start_time: "10:30"
-    end_time: "10:35"
+    start_time: "10:15"
+    end_time: "10:20"
 
-  - title: "Gold Sponsor #2"
+  - title: "Container Solutions, gold sponsor"
     type: sponsor
     date: 2018-10-11
-    start_time: "10:35"
-    end_time: "10:40"
-
-  - title: "toshaan-bharvani"
-    type: workshop
-    date: 2018-10-11
-    start_time: "10:40"
-    end_time: "12:10"
+    start_time: "10:20"
+    end_time: "10:25"
 
   - title: "alex-gervais"
     type: talk
     date: 2018-10-11
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:30"
+    end_time: "11:00"
 
   - title: "Break"
     type: break
     date: 2018-10-11
-    start_time: "11:10"
-    end_time: "11:40"
+    start_time: "11:00"
+    end_time: "11:20"
     background_color: "#ff8282"
 
-  - title: "vallery-lancey"
+  - title: "talk"
     type: talk
     date: 2018-10-11
-    start_time: "11:40"
-    end_time: "12:10"
+    start_time: "11:20"
+    end_time: "11:50"
 
   - title: "Lunch"
     type: break
     date: 2018-10-11
-    start_time: "12:10"
-    end_time: "13:25"
+    start_time: "11:50"
+    end_time: "13:10"
     background_color: "#ff8282"
 
-  - title: "Silver Sponsors (#3 & #4)"
+  - title: "Mesosphere & AppDynamics, silver sponsors"
     type: sponsor
     date: 2018-10-11
-    start_time: "13:25"
-    end_time: "13:30"
+    start_time: "13:10"
+    end_time: "13:15"
 
   - title: "General Announcements"
     type: custom
     date: 2018-10-11
-    start_time: "13:30"
-    end_time: "13:35"
+    start_time: "13:15"
+    end_time: "13:20"
 
   - title: "tsvi-korren"
     type: talk
     date: 2018-10-11
-    start_time: "13:35"
-    end_time: "14:05"
+    start_time: "13:20"
+    end_time: "13:50"
 
   - title: "Open Space Opening"
     type: open-space
     date: 2018-10-11
-    start_time: "14:05"
-    end_time: "14:20"
+    start_time: "13:50"
+    end_time: "14:05"
 
   - title: "Break"
     type: break
     date: 2018-10-11
-    start_time: "14:20"
-    end_time: "14:50"
+    start_time: "14:05"
+    end_time: "14:25"
     background_color: "#ff8282"
 
   - title: "Open Spaces #3"
     type: open-space
     date: 2018-10-11
-    start_time: "14:50"
-    end_time: "15:30"
+    start_time: "14:25"
+    end_time: "15:10"
 
   - title: "Open Spaces #4"
     type: open-space
     date: 2018-10-11
-    start_time: "15:30"
-    end_time: "16:10"
+    start_time: "15:10"
+    end_time: "15:50"
+
+  - title: "toshaan-bharvani"
+    type: workshop
+    date: 2018-10-11
+    start_time: "14:30"
+    end_time: "16:00"
 
   - title: "Closing Statement & Contest Draw"
     type: custom
     date: 2018-10-11
-    start_time: "16:10"
+    start_time: "16:00"
     end_time: "16:30"
 
 
