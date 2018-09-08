@@ -1,7 +1,7 @@
 +++
 Title = "Braier Alves"
 Twitter = ""
-image = ""
+image = "braier-alves.png"
 type = "speaker"
 linktitle = "braier-alves"
 
