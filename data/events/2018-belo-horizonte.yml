@@ -223,7 +223,7 @@ program:
     type: talk
     date: 2018-09-29
     start_time: "14:30"
-    end_time: "15:30"
+    end_time: "15:00"
     comments: "DevStack - gerando ambientes de desenvolvimento isolados na AWS será uma pair talk"
   - title: "caio-rodrigues"
     type: talk
