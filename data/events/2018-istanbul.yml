@@ -127,8 +127,18 @@ sponsors:
     level: community
   - id: codefiction
     level: community
+  - id: sliconf
+    level: community
   - id: girisimcimuhabbeti
     level: community
+  - id: uretimbandi
+    level: community
+  - id: microsoft
+    level: gold
+  - id: getir
+    level: gold
+  - id: aws
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
