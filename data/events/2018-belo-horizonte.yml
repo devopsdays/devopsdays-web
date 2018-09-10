@@ -185,9 +185,9 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
-#Fishbow da tarde
+#Workshop da tarde
   - title: "Workshops da tarde"
-    type: workshop
+    type: custom
     date: 2018-09-29
     start_time: "13:00"
     end_time: "15:00"
