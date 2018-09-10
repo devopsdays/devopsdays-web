@@ -128,16 +128,28 @@ sponsor_levels:
     label: Community
 
 program:
+  ## Periodo da Manha
   - title: "Registro e abertura"
     type: custom
     date: 2018-09-29
-    start_time: "09:00"
+    start_time: "08:30"
     end_time: "09:15"
+
   - title: "rafael-gomex"
     type: talk
+    comments: Keynote da manhã
     date: 2018-09-29
     start_time: "09:15"
     end_time: "10:00"
+
+## Openspace
+  - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
+    type: open-space
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Sessoes de no max. 20 minutos para cada talk"
+
   - title: "Coffee and break"
     type: custom
     date: 2018-09-29
@@ -158,8 +170,89 @@ program:
     date: 2018-09-29
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Aĺmoço"
+
+## Periodo da tarde
+  - title: "Almoço"
     type: custom
     date: 2018-09-29
     start_time: "12:00"
     end_time: "13:00"
+
+#Fishbow da tarde
+  - title: "Rodas Fishbowl"
+    type: fishbowl
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+
+## openspace da tarde
+  - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
+    type: open-space
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+    comments: "Sessoes de no max. 20 minutos para cada talk"
+
+## Palestras da tarde
+  - title: "antonio-muniz"
+    type: talk
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: 2018-09-29
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "davidson-lopes"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:00"
+    end_time: "14:30"
+    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
+  - title: "leonardo-goncalves"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:00"
+    end_time: "14:30"
+    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
+
+  - title: "igor-brites"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:30"
+    end_time: "15:30"
+    comments: "DevStack - gerando ambientes de desenvolvimento isolados na AWS será uma pair talk"
+  - title: "caio-rodrigues"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:30"
+    end_time: "15:00"
+    comments: "DevStack - gerando ambientes de desenvolvimento isolados na AWS será uma pair talk"
+
+  - title: "Coffee and Break"
+    type: custom
+    date: 2018-09-29
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "zandler-oliveira"
+    type: talk
+    date: 2018-09-29
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "KEYNOTE A SER DEFINIDO"
+    type: custom
+    date: 2018-09-29
+    comments: Keynote de encerramento
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2018-09-29
+    start_time: "16:45"
+    end_time: "17:00"
