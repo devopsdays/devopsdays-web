@@ -92,6 +92,12 @@ sponsors:
     level: gold
   - id: columntech
     level: gold
+  - id: github
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: newrelic
+    level: gold
   - id: datadog
     level: silver
   - id: sonatype

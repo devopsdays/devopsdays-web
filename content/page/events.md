@@ -8,4 +8,4 @@ aliases = ["/calendar", "/events/calendar", "/devops-calendar", "/presentations"
 
 Learn how to [organize your own devopsdays event](/pages/organizing)!
 
-After each event, local organizers link to the slides and videos from their event; check individual event program pages for more info. The [devopsdays vimeo account](https://vimeo.com/devopsdays/albums) contains many videos from past events.
+After each event, local organizers link to slides and videos from their event; check individual event programs for more info. (Videos from some past events are collected in a [shared account](https://vimeo.com/devopsdays/albums); event videos since 2016 are linked from event programs.)

@@ -80,6 +80,9 @@ sponsors:
     level: friends
   - id: berlin-baltic-nordic-net
     level: friends
+  - id: alldaydevops
+    level: friends
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
