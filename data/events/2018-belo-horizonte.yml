@@ -185,6 +185,13 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
+#Fishbow da tarde
+  - title: "Workshops da tarde"
+    type: workshop
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+
 ## openspace da tarde
   - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
     type: open-space
