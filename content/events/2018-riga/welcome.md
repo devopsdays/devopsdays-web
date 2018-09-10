@@ -1,10 +1,10 @@
 +++
-Title = "Welcome"
+title = "Welcome"
 type = "event"
 aliases = ["/events/2018-riga"]
 tags = ["riga","riga-2018"]
-Heading = "DevOpsDays Riga 2018 - Welcome"
-Description = "DevOpsDays Riga 2018"
+heading = "DevOpsDays Riga 2018 - Welcome"
+description = "DevOpsDays Riga 2018"
 +++
 
 <div class="row">
@@ -13,7 +13,7 @@ Description = "DevOpsDays Riga 2018"
   </div>
 
   <div class="col-md-7">
-    <p>TThe first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events planned for 2018.</p>
+    <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events planned for 2018.</p>
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community. We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.</p>
     <p>We expect 350 people this year and will be holding the event on September 26-29, 2018 at the Park Inn by Radisson Riga Valdemara</p>
     <div class="d-flex flex-row">
