@@ -149,7 +149,7 @@ program:
     date: 2018-10-23
     start_time: "09:45"
     end_time: "09:55"
-  - title: ""
+  - title: "mauricio-linhares"
     type: talk
     date: 2018-10-23
     start_time: "09:55"
@@ -169,7 +169,7 @@ program:
     date: 2018-10-23
     start_time: "11:10"
     end_time: "11:20"
-  - title: ""
+  - title: "mike-rothman"
     type: talk
     date: 2018-10-23
     start_time: "11:20"
@@ -180,7 +180,7 @@ program:
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-10-23
     start_time: "13:00"
     end_time: "13:30"
@@ -194,6 +194,11 @@ program:
     date: 2018-10-23
     start_time: "14:00"
     end_time: "14:45"
+  - title: "incident-response"
+    type: workshop
+    date: 2018-10-23
+    start_time: "14:00"
+    end_time: "15:00"
   - title: "Open Space #2"
     type: custom
     date: 2018-10-23
@@ -235,7 +240,7 @@ program:
     date: 2018-10-24
     start_time: "09:45"
     end_time: "09:55"
-  - title: ""
+  - title: "garima-sharma"
     type: talk
     date: 2018-10-24
     start_time: "09:55"
@@ -245,7 +250,7 @@ program:
     date: 2018-10-24
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "jason-yee"
     type: talk
     date: 2018-10-24
     start_time: "10:40"
@@ -255,7 +260,7 @@ program:
     date: 2018-10-24
     start_time: "11:10"
     end_time: "11:20"
-  - title: ""
+  - title: "julia-duimovich"
     type: talk
     date: 2018-10-24
     start_time: "11:20"
@@ -297,5 +302,13 @@ program:
     end_time: "17:00"
 
 ignites:
-  - date: '2017-10-23'
-    title: sonia-sarda
+  - title: "sonia-sarda"
+    date: 2018-10-23
+  - title: "nicholas-canzoneri"
+    date: 2018-10-23
+  - title: "leon-fayer"
+    date: 2018-10-23
+  - title: "alan-koch"
+    date: 2018-10-23
+  - title: "aaron-aldrich"
+    date: 2018-10-23
