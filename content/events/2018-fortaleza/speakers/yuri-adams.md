@@ -1,7 +1,7 @@
 +++
 Title = "Yuri Adams"
 Twitter = "yuriadams"
-image = ""
+image = "yuri-adams.png"
 type = "speaker"
 linktitle = "yuri-adams"
 
