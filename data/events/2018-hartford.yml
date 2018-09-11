@@ -106,6 +106,8 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
+  - id: launch-darkly
+    level: gold
   - id: rightstar
     level: mug
   - id: cgi
