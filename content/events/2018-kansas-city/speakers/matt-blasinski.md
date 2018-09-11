@@ -1,5 +1,5 @@
 +++
-Title = "matt-blasinski"
+Title = "Matt Blasinski"
 Twitter = "mablasinski"
 image = "matt-blasinski.jpg"
 type = "speaker"
