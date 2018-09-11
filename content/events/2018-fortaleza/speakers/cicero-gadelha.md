@@ -1,7 +1,7 @@
 +++
 Title = "Cicero Gadelha"
 Twitter = ""
-image = ""
+image = "cicero-gadelha.png"
 type = "speaker"
 linktitle = "cicero-gadelha"
 
