@@ -104,7 +104,17 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: mesosphere
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: parasoft
+    level: silver
   - id: rightstar
+    level: mug
+  - id: launch-darkly
     level: mug
   - id: cgi
     level: bronze
