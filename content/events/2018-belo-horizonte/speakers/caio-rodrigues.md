@@ -1,6 +1,6 @@
 +++
 Title = "Caio Rodrigues"
-image = "no-photo.jpg"
+image = "caio-rodrigues.jpg"
 type = "speaker"
 linktitle = "caio-rodrigues"
 
