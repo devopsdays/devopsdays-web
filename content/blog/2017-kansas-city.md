@@ -61,22 +61,12 @@ The [videos of Day One](https://www.youtube.com/watch?v=B8DAwfjlf6A&list=PLH2p9s
 
 2016 Kansas City Organizers:
 
-<div class = "row">
-
-<div class = "col-md-4">
-<br>
-<br>
-   <h3> Kansas City 2016 organizers </h3>
-<br>
-   (left to right):
-<br>
-Tom Martin, Ryan McNair, Jeff Stephens, Chris Stein, Chase Pettet, Dan Barker, CJ Obermaier, Rebecca Sowers, Caleb Hyde, Bert Weidt, Aaron Blythe
-</div>
-
-<div class = "col-md-8">
 
 <iframe src="https://drive.google.com/file/d/1OVsRUG5aZ5lzOU7tf59vR_vSruD4ETfB/preview" width="420" height="315"></iframe>
-</div>
 
-</div>
+
+(left to right):
+<br>
+Tom Martin, Ryan McNair, Jeff Stephens, Chris Stein, Chase Pettet, Dan Barker, CJ Obermaier, Rebecca Sowers, Caleb Hyde, Bert Weidt, Aaron Blythe
+
 
