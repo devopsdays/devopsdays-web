@@ -471,21 +471,21 @@ program:
     start_time: "16:30"
     end_time: "17:00"
 ignites:
-  - title: "jeffrey-sykes"
-    date: 2018-10-17
   - title: "kylie-schleicher"
     date: 2018-10-17
-  - title: "elaine-yeung"
-    date: 2018-10-18
+  - title: "jeffrey-sykes"
+    date: 2018-10-17
   - title: "matt-blasinski"
     date: 2018-10-17
-  - title: "joel-tosi"
+  - title: "nick-coblentz"
+    date: 2018-10-17
+  - title: "elaine-yeung"
     date: 2018-10-17
   - title: "Ignite Karaoke!"
     date: 2018-10-17
   - title: "shahzad-zafar"
     date: 2018-10-18
-  - title: "nick-coblentz"
+  - title: "joel-tosi"
     date: 2018-10-18
   - title: "todd-brees"
     date: 2018-10-18
