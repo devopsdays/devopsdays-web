@@ -220,6 +220,7 @@ program:
     date: 2018-09-12
     start_time: "19:00"
     end_time: "late"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-09-13
