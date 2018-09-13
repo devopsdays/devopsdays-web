@@ -14,7 +14,7 @@ cfp_date_start: 2018-07-02 # start accepting talk proposals.
 cfp_date_end: 2018-09-02 # close your call for proposals.
 cfp_date_announce: 2018-09-16 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysfortaleza" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "unifor.jpg"
@@ -38,14 +38,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Palestrantes
     icon: "microphone"
     url: /events/2018-fortaleza/speakers
-#  - name: Programação
-#    icon: "book"
+  - name: Programação
+    icon: "book"
 #  - name: Local
 #    icon: "map-o"
 #    url: /events/2018-fortaleza/location
-  - name: Palestre (CFP)
-    icon: "user-plus"
-    url: "https://www.papercall.io/devopsdaysfortaleza"
+#  - name: Palestre (CFP)
+#    icon: "user-plus"
+#    url: "https://www.papercall.io/devopsdaysfortaleza"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-fortaleza/conduta
