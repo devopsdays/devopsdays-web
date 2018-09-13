@@ -125,7 +125,7 @@ program:
     date: 2018-09-20
     start_time: "10:30"
     end_time: "10:45"
-  - title: "mpho-mphego"
+  - title: "mark-derman"
     type: talk
     date: 2018-09-20
     start_time: "10:45"
@@ -201,7 +201,7 @@ program:
     date: 2018-09-21
     start_time: "10:30"
     end_time: "10:45"
-  - title: "mark-derman"
+  - title: "mpho-mphego"
     type: talk
     date: 2018-09-21
     start_time: "10:45"
@@ -258,4 +258,6 @@ ignites:
   - title: "keegan-carruthers-smith"
     date: 2018-09-20
   - title: "karl-fischer"
+    date: 2018-09-21
+  - title: "christo-goosen"
     date: 2018-09-21
