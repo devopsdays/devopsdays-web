@@ -1,7 +1,7 @@
 +++
 Title = "Misael Santos"
 Twitter = "misaelssantos"
-image = ""
+image = "misael-santos.png"
 type = "speaker"
 linktitle = "misael-santos"
 
