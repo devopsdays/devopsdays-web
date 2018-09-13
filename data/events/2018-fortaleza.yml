@@ -14,7 +14,7 @@ cfp_date_start: 2018-07-02 # start accepting talk proposals.
 cfp_date_end: 2018-09-02 # close your call for proposals.
 cfp_date_announce: 2018-09-16 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysfortaleza" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "unifor.jpg"
@@ -38,14 +38,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Palestrantes
     icon: "microphone"
     url: /events/2018-fortaleza/speakers
-#  - name: Programação
-#    icon: "book"
+  - name: Programação
+    icon: "book"
 #  - name: Local
 #    icon: "map-o"
 #    url: /events/2018-fortaleza/location
-  - name: Palestre (CFP)
-    icon: "user-plus"
-    url: "https://www.papercall.io/devopsdaysfortaleza"
+#  - name: Palestre (CFP)
+#    icon: "user-plus"
+#    url: "https://www.papercall.io/devopsdaysfortaleza"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-fortaleza/conduta
@@ -180,3 +180,169 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-20
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-20
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Gabriela Dias"
+    type: talk
+    date: 2018-10-20
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-20
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "Yuri Adams"
+    type: talk
+    date: 2018-10-20
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-10-20
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "Misael Santos"
+    type: talk
+    date: 2018-10-20
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-20
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "Daniel Romero"
+    type: talk
+    date: 2018-10-20
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-20
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2018-10-20
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-10-20
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-10-20
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-10-20
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-10-20
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2018-10-20
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2018-10-20
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-20
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-20
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Marco Antonio aka Somatorio"
+    type: talk
+    date: 2018-10-20
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-20
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "Cicero Gadelha"
+    type: talk
+    date: 2018-10-20
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-10-20
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "Braier Alves"
+    type: talk
+    date: 2018-10-20
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-20
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "Rafael Gomes aka Gomex"
+    type: talk
+    date: 2018-10-20
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-20
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2018-10-20
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-10-20
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-10-20
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-10-20
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-10-20
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2018-10-20
+    start_time: "16:45"
+    end_time: "17:00"
