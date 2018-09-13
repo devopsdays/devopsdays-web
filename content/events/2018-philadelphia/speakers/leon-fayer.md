@@ -1,6 +1,6 @@
 +++
 Title = "Leon Fayer"
-Twitter = "leonfayer"
+Twitter = "papa_fire"
 image = "leon-fayer.png"
 type = "speaker"
 linktitle = "leon-fayer"

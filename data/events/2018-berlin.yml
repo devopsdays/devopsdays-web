@@ -104,6 +104,8 @@ sponsors:
     level: gold
   - id: nubank_de
     level: silver
+  - id: delivery-hero
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -220,6 +222,7 @@ program:
     date: 2018-09-12
     start_time: "19:00"
     end_time: "late"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-09-13
@@ -245,7 +248,7 @@ program:
     date: 2018-09-13
     start_time: "10:10"
     end_time: "10:40"
-  - title: "serhat-can"
+  - title: "ken-mugrage"
     type: talk
     date: 2018-09-13
     start_time: "10:40"

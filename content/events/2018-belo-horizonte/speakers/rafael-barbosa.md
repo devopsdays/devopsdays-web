@@ -1,6 +1,6 @@
 +++
 Title = "Rafael Barbosa"
-image = "no-photo.jpg"
+image = "rafael-barbosa.jpg"
 type = "speaker"
 linktitle = "rafael-barbosa"
 

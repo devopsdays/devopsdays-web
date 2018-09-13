@@ -1,6 +1,6 @@
 +++
 Title = "Leonardo Gonçalves"
-image = "no-photo.jpg"
+image = "leonardo-goncalves.jpg"
 type = "speaker"
 linktitle = "leonardo-goncalves"
 

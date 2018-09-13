@@ -1,6 +1,6 @@
 +++
 Title = "Antonio Muniz"
-image = "no-photo.jpg"
+image = "antonio-muniz.jpg"
 type = "speaker"
 linktitle = "antonio-muniz"
 
