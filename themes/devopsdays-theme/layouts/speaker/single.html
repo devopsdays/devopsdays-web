@@ -16,10 +16,8 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
-
-            {{- $p := $.Site.GetPage (printf "events/%s/program/%s" $e.name ($.Scratch.Get "speaker")) -}}
-            {{- if $p -}}
-              {{- with $p -}}
+            {{- range where $.Site.Pages "Type" "talk" -}}
+              {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
                 <!-- Now we can display stuff! -->
                 {{- range .Params.speakers -}}
                   {{- if eq . ($.Scratch.Get "speaker") -}}
@@ -30,10 +28,12 @@
                   <a href = "{{ .Permalink | absURL }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
                 {{- end -}}
-              {{- end -}} <!-- end with -->
-            {{- end -}} <!-- end if $p -->
+              {{- end -}} <!-- end if eq $talk_slug $event_slug -->
+            {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
           </ul>
           </div>
+      <!-- </div>
+    </div> -->
   </div>
   <div class = "col-md-3 offset-md-1">
     {{- if isset .Params "image" -}}
