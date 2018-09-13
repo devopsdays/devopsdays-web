@@ -54,7 +54,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   #platinum
-  - id: accenture-latvia
+  - id: accenture-latvia-2018
     level: platinum
   - id: cognizant
     level: platinum
