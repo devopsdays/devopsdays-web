@@ -106,6 +106,8 @@ sponsors:
     level: premium
   - id: estabilis
     level: premium
+  - id: adaptnow
+    level: educational
   - id: devopsbh
     level: community
   - id: arresteddevops
@@ -121,8 +123,8 @@ sponsor_levels:
   - id: premium
     label: Premium 
     max: 0
-  - id: other
-    label: Other
+  - id: educational
+    label: Educational
     max: 0
   - id: community
     label: Community
