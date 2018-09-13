@@ -192,10 +192,10 @@ sponsors:
     level: gold
   # - id: ca
   #   level: evening
-  # - id: launch-darkly
-  #   level: badges
-  # - id: genians
-  #   level: coffee
+  - id: launch-darkly
+    level: alacarte
+  - id: genians
+    level: alacarte
   - id: arresteddevops
     level: community
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
@@ -210,12 +210,9 @@ sponsor_levels:
 
   - id: gold
     label: Gold
-  - id: evening
-    label: Monday Evening Event
-  - id: badges
-    label: Badges and Lanyards
-  - id: coffee
-    label: Coffee Service
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
+  
   - id: community
     label: Community
   
