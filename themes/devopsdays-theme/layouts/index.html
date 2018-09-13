@@ -6,7 +6,7 @@
     <div class="row">
         {{- range sort $.Site.Data.events "startdate" -}}
         {{- if .startdate -}}
-        {{- if ge (time .enddate) now -}}
+        {{- if ge (time .enddate) (now.AddDate 0 0 -1) -}}
         {{- $.Scratch.Set "city" .city -}}
         {{- $.Scratch.Set "year" .year -}}
         {{- $.Scratch.Set "logo" "unset" -}}
