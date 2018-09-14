@@ -4,7 +4,7 @@ city: "Saint Louis" # The displayed city name of the event. Capitalize it.
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 description: "DevOpsDays is coming to Saint Louis in 2018! It'll be a great opportunity to share knowledge, socialize, and have fun with other members of our great technical community." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2018-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:    # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.

@@ -5,9 +5,9 @@ event_twitter: "devopsmontreal" # Change this to the twitter handle for your eve
 description: "devopsdays is coming to Montreal! / devopsdays arrive en ville!" # Edit this to suit your preferences
 ga_tracking_id: "UA-118473645-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-10-10T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-11T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-04-26T00:00:00-04:00 # start accepting talk proposals.
@@ -17,8 +17,8 @@ cfp_date_announce: 2018-07-16T00:00:00-04:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-mtl-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-05-18 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-10-10 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-05-18T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-10T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.ca/e/devops-day-montreal-2018-tickets-45899626017" # valid link, not ok yet. 2018-05-09

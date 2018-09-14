@@ -4,9 +4,9 @@ city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 description: "DevOpsDays is returning to Southern California in 2018" # A short blurb of text to describe your event, defaults to common DevOpsDays description
 event_group: "Los Angeles"
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2018-03-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2018-03-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate:  2018-03-09T00:00:00-08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-03-09T23:59:59-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-01-10T00:00:00-08:00  # start accepting talk proposals.
 cfp_date_end: 2018-02-15T23:59:59-08:00 # close your call for proposals.
