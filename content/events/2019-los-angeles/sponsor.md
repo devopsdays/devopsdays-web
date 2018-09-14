@@ -19,8 +19,8 @@ If you are interested in sponsoring, please drop us an email at [{{< email_organ
     </tr>
     <tr>
       <td style="padding-left: 5px">Pricing</td>
-      <td><center>$500</center></td>
-      <td><center>$2000</center></td>
+      <td><center>$750</center></td>
+      <td><center>$2500</center></td>
     </tr>
     <tr>
       <td style="padding-left: 5px">Included tickets</td>
