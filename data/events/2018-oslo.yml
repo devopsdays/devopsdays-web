@@ -105,6 +105,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -116,7 +117,7 @@ program:
     date: 2018-10-29
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Patricia Aass"
+  - title: "patricia-aas"
     type: talk
     date: 2018-10-29
     start_time: "09:15"
@@ -126,7 +127,7 @@ program:
     date: 2018-10-29
     start_time: "09:45"
     end_time: "09:55"
-  - title: "Mike Place"
+  - title: "mike-place"
     type: talk
     date: 2018-10-29
     start_time: "09:55"
@@ -136,7 +137,7 @@ program:
     date: 2018-10-29
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "t-alexander-lystad"
     type: talk
     date: 2018-10-29
     start_time: "10:40"
@@ -146,7 +147,7 @@ program:
     date: 2018-10-29
     start_time: "11:10"
     end_time: "11:20"
-  - title: ""
+  - title: "daniela-soares-cruzes"
     type: talk
     date: 2018-10-29
     start_time: "11:20"
@@ -201,7 +202,7 @@ program:
     date: 2018-10-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "yegor-bugayenko"
     type: talk
     date: 2018-10-30
     start_time: "09:15"
@@ -211,7 +212,7 @@ program:
     date: 2018-10-30
     start_time: "09:45"
     end_time: "09:55"
-  - title: ""
+  - title: "marek-piatek"
     type: talk
     date: 2018-10-30
     start_time: "09:55"
@@ -221,7 +222,7 @@ program:
     date: 2018-10-30
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "debbie-levitt"
     type: talk
     date: 2018-10-30
     start_time: "10:40"
@@ -261,13 +262,13 @@ program:
     date: 2018-10-30
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2018-10-30
+#    start_time: "16:00"
+#    end_time: "16:45"
+  - title: "mike-long"
+    type: talk
     date: 2018-10-30
     start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2018-10-30
-    start_time: "16:45"
     end_time: "17:00"
