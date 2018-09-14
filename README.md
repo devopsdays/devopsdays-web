@@ -4,6 +4,7 @@
 # devopsdays-web
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
+
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
 ## Managing event content
