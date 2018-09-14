@@ -1,8 +1,8 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
-Title = ""
+Talk_date = "2018-10-29"
+Talk_start_time = "09:00"
+Talk_end_time = "09:30"
+Title = "Deconstructing Privilege"
 Type = "talk"
 Speakers = ["patricia-aas"]
 +++
