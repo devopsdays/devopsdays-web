@@ -61,9 +61,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andrealmar/"
     # bio: ""
     image: "andre-almar.jpg"
-  - name: "Ana Cláudia Grossi"
-    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
-    image: "ana-claudia-grossi.jpg"
+#   - name: "Ana Cláudia Grossi"
+#     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+#     image: "ana-claudia-grossi.jpg"
     # bio: ""
   - name: "Daniel Reis"
     linkedin: "https://www.linkedin.com/in/danielreisp/"
@@ -194,14 +194,6 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
-## openspace da tarde
-  - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
-    type: open-space
-    date: 2018-09-29
-    start_time: "13:00"
-    end_time: "15:00"
-    comments: "Sessoes de no max. 20 minutos para cada talk"
-
 ## Palestras da tarde
   - title: "antonio-muniz"
     type: talk
@@ -215,26 +207,14 @@ program:
     start_time: "13:30"
     end_time: "14:00"
 
-  - title: "davidson-lopes"
-    type: talk
-    date: 2018-09-29
-    start_time: "14:00"
-    end_time: "14:30"
-    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
-  - title: "leonardo-goncalves"
+  - title: "davidson-leonardo"
     type: talk
     date: 2018-09-29
     start_time: "14:00"
     end_time: "14:30"
     comments: "DevOps com GitLab e Kubernetes será uma pair talk"
 
-  - title: "igor-brites"
-    type: talk
-    date: 2018-09-29
-    start_time: "14:30"
-    end_time: "15:00"
-    comments: "DevStack - gerando ambientes de desenvolvimento isolados na AWS será uma pair talk"
-  - title: "caio-rodrigues"
+  - title: "igor-caio"
     type: talk
     date: 2018-09-29
     start_time: "14:30"
