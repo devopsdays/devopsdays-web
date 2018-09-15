@@ -4,6 +4,7 @@ Twitter = "mattray"
 image = "matt-ray.png"
 type = "speaker"
 linktitle = "matt-ray"
+linkedin = "https://www.linkedin.com/in/mhray/"
 
 +++
 Matt Ray is the Regional Manager and Solutions Architect for Asia Pacific and Japan for Chef. He has worked in large enterprise software companies and founded his own startups in a wide variety of industries including banking, retail, and government. He has been active in open source and DevOps communities for over two decades and has spoken at and helped organize many conferences and meetups. He currently resides

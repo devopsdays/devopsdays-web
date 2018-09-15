@@ -1,9 +1,11 @@
 +++
 Title = "Anugrah S"
-Twitter = ""
 image = "anugrah-s.jpg"
 type = "speaker"
 linktitle = "anugrah-s"
+website = "https://anukin.github.io/"
+linkedin = "https://www.linkedin.com/in/anugrah-nayar-6407a73b/"
+github = "anukin"
 
 +++
 

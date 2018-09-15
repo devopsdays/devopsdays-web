@@ -1,9 +1,11 @@
 +++
 Title = "Gleidson Nascimento"
 Twitter = "slaterx"
+github = "slaterx"
 image = "gleidson-nascimento.jpg"
 type = "speaker"
 linktitle = "gleidson-nascimento"
+linkedin = "https://www.linkedin.com/in/gleidson-nascimento-8604009"
 
 +++
 

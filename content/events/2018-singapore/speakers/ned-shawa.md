@@ -4,6 +4,7 @@ Twitter = "nedshawa"
 image = "ned-shawa.jpg"
 type = "speaker"
 linktitle = "ned-shawa"
+linkedin = "https://www.linkedin.com/in/neds1/"
 
 +++
 
