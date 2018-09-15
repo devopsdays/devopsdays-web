@@ -1,7 +1,7 @@
 +++
 Title = "Ned Shawa"
 Twitter = "nedshawa"
-image = "ned-shawa.jpeg"
+image = "ned-shawa.jpg"
 type = "speaker"
 linktitle = "ned-shawa"
 
