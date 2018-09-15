@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2018-10-29"
+Talk_start_time = "10:30"
+Talk_end_time = "11:00"
 Title = "Introduction to Event-Driven Infrastructure"
 Type = "talk"
 Speakers = ["mike-place"]

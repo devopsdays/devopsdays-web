@@ -13,11 +13,22 @@ dates for talk proposals, sponsorships, and registration in the fall of 2018.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div> 
+
+-->
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>CFP Dates</strong>
+  </div>
+  <div class = "col-md-8">
+    Monday, Oct 6th, 2018 - Sunday, Jan 6th, 2019
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Event Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}

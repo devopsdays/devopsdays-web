@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "A DevOps State of Mind: Continuous Security with Kubernetes"
 Type = "talk"
 Speakers = ["chris-van-tuin"]
+speakerdeck = "https://speakerdeck.com/cvantuin/a-devops-state-of-mind-continuous-security-with-kubernetes"
 +++
 
 With the rise of DevOps, containers are at the brink of becoming a pervasive technology in Enterprise IT to accelerate application delivery for the business. When it comes to adopting containers in the enterprise, Security is the highest adoption barrier. Is your organization ready to address the security risks with containers for your DevOps environment?  In this presentation, you’ll learn about:
