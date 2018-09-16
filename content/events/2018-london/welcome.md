@@ -6,7 +6,7 @@ Description = "devopsdays London 2018"
 +++
 <div class="row">
   <div class="col-md-4">
-    <img alt="DevOpsDays London 2017" src="/events/2018-london/logo.png" class="img-fluid">
+    <img alt="DevOpsDays London 2018" src="/events/2018-london/logo.png" class="img-fluid">
   </div>
 
   <div class="col-md-7">
@@ -23,11 +23,6 @@ Description = "devopsdays London 2018"
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2018-london/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
-<!--
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://docs.google.com/forms/d/e/1FAIpQLSdGb7ZUaUpUiH8ObK2OUBfeueGSU7pKLkZB4RqMh9aeKxjoeg/viewform#start=openform" target="_blank" rel="noopener"> <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk</a>
-        </div>
--->
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-london-2018-tickets-45511364717" target="_blank" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
         </div>
