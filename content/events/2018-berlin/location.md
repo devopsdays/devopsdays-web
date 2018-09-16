@@ -25,3 +25,13 @@ Address: Johannisstrasse 2, 10117 Berlin, Germany
 </p>
 
 {{< event_map >}}
+
+<p/>
+
+<h2>Evening Event</h2>
+<p style="font-weight:bold">
+Venue: Puro Sky Bar<br />
+Address: Tauentzienstr. 9-12, 10789 Berlin (in the Europacenter)
+<br>
+<a href="https://goo.gl/maps/Xkt2CBwWpYE2">Location on Google Maps</a>
+</p>

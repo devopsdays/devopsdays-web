@@ -61,9 +61,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andrealmar/"
     # bio: ""
     image: "andre-almar.jpg"
-  - name: "Ana Cláudia Grossi"
-    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
-    image: "ana-claudia-grossi.jpg"
+#   - name: "Ana Cláudia Grossi"
+#     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+#     image: "ana-claudia-grossi.jpg"
     # bio: ""
   - name: "Daniel Reis"
     linkedin: "https://www.linkedin.com/in/danielreisp/"
@@ -106,6 +106,8 @@ sponsors:
     level: premium
   - id: estabilis
     level: premium
+  - id: adaptnow
+    level: educational
   - id: devopsbh
     level: community
   - id: arresteddevops
@@ -121,23 +123,35 @@ sponsor_levels:
   - id: premium
     label: Premium 
     max: 0
-  - id: other
-    label: Other
+  - id: educational
+    label: Educational
     max: 0
   - id: community
     label: Community
 
 program:
+  ## Periodo da Manha
   - title: "Registro e abertura"
     type: custom
     date: 2018-09-29
-    start_time: "09:00"
+    start_time: "08:30"
     end_time: "09:15"
+
   - title: "rafael-gomex"
     type: talk
+    comments: Keynote da manhã
     date: 2018-09-29
     start_time: "09:15"
     end_time: "10:00"
+
+## Openspace
+  - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
+    type: open-space
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Sessoes de no max. 20 minutos para cada talk"
+
   - title: "Coffee and break"
     type: custom
     date: 2018-09-29
@@ -158,8 +172,76 @@ program:
     date: 2018-09-29
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Aĺmoço"
+
+## Periodo da tarde
+  - title: "Almoço"
     type: custom
     date: 2018-09-29
     start_time: "12:00"
     end_time: "13:00"
+
+#Fishbow da tarde
+  - title: "Rodas Fishbowl"
+    type: fishbowl
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+
+#Workshop da tarde
+  - title: "Workshops da tarde"
+    type: custom
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+
+## Palestras da tarde
+  - title: "antonio-muniz"
+    type: talk
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: 2018-09-29
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "davidson-leonardo"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:00"
+    end_time: "14:30"
+    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
+
+  - title: "igor-caio"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:30"
+    end_time: "15:00"
+    comments: "DevStack - gerando ambientes de desenvolvimento isolados na AWS será uma pair talk"
+
+  - title: "Coffee and Break"
+    type: custom
+    date: 2018-09-29
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "zandler-oliveira"
+    type: talk
+    date: 2018-09-29
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "KEYNOTE A SER DEFINIDO"
+    type: custom
+    date: 2018-09-29
+    comments: Keynote de encerramento
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2018-09-29
+    start_time: "16:45"
+    end_time: "17:00"

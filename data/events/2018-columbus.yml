@@ -7,8 +7,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "Columbus"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-09-19" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2018-09-20" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-09-19T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-09-20T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-05-11T00:00:00-04:00 # start accepting talk proposals.
@@ -108,7 +108,8 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: netjets
+    level: bronze
   - id: arresteddevops
     level: community
   - id: stickermule
@@ -144,8 +145,8 @@ program:
 - title: "Opening Welcome"
   type: custom
   date: 2018-09-19
-  start_time: "9:15"
-  end_time: "9:00"
+  start_time: "9:00"
+  end_time: "9:15"
 
 - title: "tiffany-longworth"
   type: talk
@@ -153,7 +154,7 @@ program:
   start_time: "9:15"
   end_time: "9:45"
 
-- title: "simon-harrison"
+- title: "jim-shingler"
   type: talk
   date: 2018-09-19
   start_time: "9:55"
@@ -169,7 +170,7 @@ program:
   type: talk
   date: 2018-09-19
   start_time: "10:40"
-  end_time: "11:15"
+  end_time: "11:10"
 
 - title: "john-willis"
   type: talk
@@ -180,7 +181,7 @@ program:
 - title: "Break"
   type: custom
   date: 2018-09-19
-  start_time: "12:00"
+  start_time: "11:50"
   end_time: "12:00"
 
 - title: "Lunch"
@@ -213,11 +214,23 @@ program:
   start_time: "4:45"
   end_time: "5:00"
 
+- title: "After Party"
+  type: custom
+  date: 2018-09-19
+  start_time: "5:00"
+  end_time: "9:00"
+
 - title: "Registration and Breakfast" # Day 2 start
   type: custom
   date: 2018-09-20
   start_time: "8:00"
   end_time: "9:00"
+
+- title: "Prior Day Recap" # Day 2 start
+  type: custom
+  date: 2018-09-20
+  start_time: "9:00"
+  end_time: "9:15"
 
 - title: "angel-rivera"
   type: talk
@@ -265,18 +278,18 @@ program:
   type: open-space
   date: 2018-09-20
   start_time: "1:30"
-  end_time: "4:00"
+  end_time: "4:45"
 
 - title: "Close of Event"
   type: custom
   date: 2018-09-20
-  start_time: "4:00"
-  end_time: "4:30"
+  start_time: "4:45"
+  end_time: "5:00"
 
 ignites:
 - title: "laura-maguire-ignite"
   date: 2018-09-19
-- title: "asher-balkin"
+- title: "chris-short"
   date: 2018-09-19
 - title: "amy-bedinghaus"
   date: 2018-09-19
@@ -284,7 +297,7 @@ ignites:
   date: 2018-09-19
 - title: "tiffany-longworth-ignite"
   date: 2018-09-20
-- title: "chris-short"
+- title: "asher-balkin"
   date: 2018-09-20
 - title: "damian-synadinos"
   date: 2018-09-20

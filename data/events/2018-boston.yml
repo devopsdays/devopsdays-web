@@ -5,8 +5,8 @@ event_twitter: "devopsdaysbos" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-24  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-09-24T00:00:00-04:00
+enddate: 2018-09-25T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-04-02T00:00:00-04:00  # start accepting talk proposals.
@@ -190,12 +190,12 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
-  # - id: ca
-  #   level: evening
-  # - id: launch-darkly
-  #   level: badges
-  # - id: genians
-  #   level: coffee
+  - id: ca
+    level: alacarte
+  - id: launch-darkly
+    level: alacarte
+  - id: genians
+    level: alacarte
   - id: arresteddevops
     level: community
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
@@ -210,12 +210,9 @@ sponsor_levels:
 
   - id: gold
     label: Gold
-  - id: evening
-    label: Monday Evening Event
-  - id: badges
-    label: Badges and Lanyards
-  - id: coffee
-    label: Coffee Service
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
+  
   - id: community
     label: Community
   

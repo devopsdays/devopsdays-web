@@ -5,9 +5,9 @@ event_twitter: "devopsdaysoslo" # Change this to the twitter handle for your eve
 description: "Devopsdays is coming to Oslo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-30  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-10-29T00:00:00+02:00
+enddate: 2018-10-30T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-04-16T00:00:00+02:00 # start accepting talk proposals.
@@ -17,8 +17,8 @@ cfp_date_announce: 2018-09-16T00:00:00+02:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://sessionize.com/devopsdays-oslo-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-09-06 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-10-29 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-09-06T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-29T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdays-oslo.eventbrite.com/?aff=webpage" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -105,6 +105,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -116,7 +117,7 @@ program:
     date: 2018-10-29
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Patricia Aass"
+  - title: "patricia-aas"
     type: talk
     date: 2018-10-29
     start_time: "09:15"
@@ -126,7 +127,7 @@ program:
     date: 2018-10-29
     start_time: "09:45"
     end_time: "09:55"
-  - title: "Mike Place"
+  - title: "mike-place"
     type: talk
     date: 2018-10-29
     start_time: "09:55"
@@ -136,7 +137,7 @@ program:
     date: 2018-10-29
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "t-alexander-lystad"
     type: talk
     date: 2018-10-29
     start_time: "10:40"
@@ -146,7 +147,7 @@ program:
     date: 2018-10-29
     start_time: "11:10"
     end_time: "11:20"
-  - title: ""
+  - title: "daniela-soares-cruzes"
     type: talk
     date: 2018-10-29
     start_time: "11:20"
@@ -201,7 +202,7 @@ program:
     date: 2018-10-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "yegor-bugayenko"
     type: talk
     date: 2018-10-30
     start_time: "09:15"
@@ -211,7 +212,7 @@ program:
     date: 2018-10-30
     start_time: "09:45"
     end_time: "09:55"
-  - title: ""
+  - title: "marek-piatek"
     type: talk
     date: 2018-10-30
     start_time: "09:55"
@@ -221,7 +222,7 @@ program:
     date: 2018-10-30
     start_time: "10:25"
     end_time: "10:40"
-  - title: ""
+  - title: "debbie-levitt"
     type: talk
     date: 2018-10-30
     start_time: "10:40"
@@ -261,13 +262,13 @@ program:
     date: 2018-10-30
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
+#  - title: "Open Space #3"
+#    type: custom
+#    date: 2018-10-30
+#    start_time: "16:00"
+#    end_time: "16:45"
+  - title: "mike-long"
+    type: talk
     date: 2018-10-30
     start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2018-10-30
-    start_time: "16:45"
     end_time: "17:00"
