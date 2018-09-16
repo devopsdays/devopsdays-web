@@ -65,10 +65,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
     image: "ana-claudia-grossi.jpg"
     # bio: ""
-  - name: "Dalton Strauss"
-    linkedin: "https://www.linkedin.com/in/daltonstrauss/"
-    image: "dalton-strauss.jpg"
-    # bio: ""
   - name: "Daniel Reis"
     linkedin: "https://www.linkedin.com/in/danielreisp/"
     # bio: ""
@@ -107,6 +103,8 @@ sponsors:
   - id: dti
     level: premium
   - id: maxmilhas
+    level: premium
+  - id: estabilis
     level: premium
   - id: devopsbh
     level: community

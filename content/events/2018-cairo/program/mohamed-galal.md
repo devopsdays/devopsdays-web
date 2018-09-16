@@ -1,4 +1,11 @@
-+++ Talk_date =""  Talk_start_time = ""  Talk_end_time = "" Title = "CodeZone journey from Adhoc to DevOps" Type = "talk" Speakers = ["mohamed-galal"] +++
++++
+Talk_date =""  
+Talk_start_time = ""  
+Talk_end_time = "" 
+Title = "CodeZone journey from Adhoc to DevOps" 
+Type = "talk" 
+Speakers = ["mohamed-galal"] 
++++
 
 In this talk, we will demonstrate how was CodeZone journey from Adhoc manual work, to implementing DevOps.
 

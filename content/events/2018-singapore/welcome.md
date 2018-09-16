@@ -2,7 +2,7 @@
 Title = "DevOpsDays Singapore 2018"
 Type = "welcome"
 aliases = ["/events/2018-singapore"]
-Description = "DevOpsDays Singapore 2018"
+Description = "DevOpsDays Singapore will take place October 11-12, 2018! We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2018 in Singapore."
 +++
 
 <div style="text-align:center;">
@@ -27,21 +27,21 @@ Description = "DevOpsDays Singapore 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Propose an ignite!" >}}
   </div>
 </div>
 
@@ -54,14 +54,14 @@ Description = "DevOpsDays Singapore 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,6 +81,5 @@ Description = "DevOpsDays Singapore 2018"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
 {{< event_twitter >}}
 
