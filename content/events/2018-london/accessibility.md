@@ -10,4 +10,8 @@ The venue is equipped with lifts, railed stairs and can accommodate further acce
 
 As we've done previously, we'll be providing live captioning for those with hearing impairments along with live signing during the talks. 
 
+We are also providing lanyards that show your photo permission choice, indicate if you want to talk to other attendees and your pronoun preference.
+
+Additional facilities include Gender neutral toilets and for those that need a break a Quiet room.
+
 We'll also be providing childcare services during the event.
