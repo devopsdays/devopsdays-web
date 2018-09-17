@@ -103,6 +103,8 @@ sponsors:
     level: silver
   - id: googlecloud
     level: silver
+  - id: gov-digital
+    level: silver
   - id: logz
     level: silver
   - id: opsview
