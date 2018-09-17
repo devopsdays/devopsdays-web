@@ -387,7 +387,7 @@ program:
     date: 2018-08-30
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignite Talks"
+  - title: ""
     type: ignite
     date: 2018-08-30
     start_time: "13:00"
@@ -510,6 +510,8 @@ program:
     end_time: "17:00"
 
 ignites:
+  - title: "ignite-talks"
+    date: 2018-08-30
   - title: "ravi-lachhman"
     date: 2018-08-30
   - title: "ivan-fan"
