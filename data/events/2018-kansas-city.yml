@@ -197,7 +197,7 @@ sponsors:
     level: premium
   - id: aporeto
     level: premium
-    
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -490,6 +490,8 @@ ignites:
   - title: "todd-brees"
     date: 2018-10-18
   - title: "jessica-mcintyre"
+    date: 2018-10-18
+  - title: "tom-cudd"
     date: 2018-10-18
   - title: "Ignite Karaoke!"
     date: 2018-10-18
