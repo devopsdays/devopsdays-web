@@ -1,7 +1,7 @@
 +++
 Title = "Jules Clements"
 Twitter = ""
-image = "placeholder-user.png"
+image = "jules-clements.jpg"
 type = "speaker"
 linktitle = "jules-clements"
 
