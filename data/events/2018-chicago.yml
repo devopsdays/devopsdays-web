@@ -6,18 +6,18 @@ description: "The group that brought you DevOpsDays Chicago 2014-2017 is back to
 ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-08-28
-enddate: 2018-08-29
+startdate: 2018-08-28T00:00:00-05:00
+enddate: 2018-08-29T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-03-19 # start accepting talk proposals.
-cfp_date_end: 2018-06-01  # close your call for proposals.
-cfp_date_announce: 2018-06-15  # inform proposers of status
+cfp_date_start: 2018-03-19T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-06-01T23:59:59-05:00  # close your call for proposals.
+cfp_date_announce: 2018-06-15T00:00:00-05:00  # inform proposers of status
 
 cfp_link: "https://www.papercall.io/devopsdays-chicago-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-03-19  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-08-28 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-03-19T00:00:00-05:00  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-08-28T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdayschi2018.eventbrite.com/?aff=devopsdaysorg" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -197,6 +197,8 @@ sponsors:
   - id: hashicorp
     level: meal
   - id: discover
+    level: meal
+  - id: microsoft
     level: meal
   - id: tempus
     level: meal

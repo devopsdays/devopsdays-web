@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Keynote: What We Learned from Five Years of Sciencing the Crap Out of DevOps"
+Title = "Keynote: What I Learned from 5 Years of Sciencing the Crap Out of DevOps"
 Type = "talk"
 Speakers = ["jez-humble"]
-Youtube = ""
+Youtube = "33Kd6DhqmuE"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/what-i-learned-from-5-years-of-sciencing-the-crap-out-of-devops"
 Slides = ""
 Website = ""
 +++

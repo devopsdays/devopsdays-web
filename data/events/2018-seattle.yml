@@ -5,14 +5,14 @@ event_twitter: "DevOpsDaysSEA" # Change this to the twitter handle for your even
 description: "DevOpsDays is coming to Seattle!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-04-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-04-24T00:00:00-07:00
+enddate: 2018-04-25T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-10-09  # start accepting talk proposals.
-cfp_date_end: 2018-01-07 # close your call for proposals.
-cfp_date_announce: 2018-01-28 # inform proposers of status
+cfp_date_start: 2017-10-09T00:00:00-07:00  # start accepting talk proposals.
+cfp_date_end: 2018-01-07T23:59:59-08:00 # close your call for proposals.
+cfp_date_announce: 2018-01-28T00:00:00-08:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-seattle-2108" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.

@@ -28,6 +28,11 @@ Description = "DevOpsDays Cape Town 2018 will take place September 20-21, 2018!"
               <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
             </a>
           </div>
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://instagram.com/devopsdayscpt">
+              <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram
+            </a>
+          </div>
         </div>
       </div>
     </div><!-- end a content element -->
@@ -54,11 +59,11 @@ Description = "DevOpsDays Cape Town 2018 will take place September 20-21, 2018!"
     <div class = "row">
       <div class = "col-md-12">
         <div class = "row justify-content-center">
-          <!-- <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdayscpt2018">
-              <i class="fa fa-microphone fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose a Talk
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2018-cape-town/program">
+              <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the program
             </a>
-          </div> -->
+          </div>
           <div class = "d-flex p-2">
             <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2018">
              <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend

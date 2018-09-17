@@ -153,34 +153,3 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
     <td style="text-align: right; color: #bbb;" colspan=4>Paypal payments include 3% service charge.<br/><a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a> for alternative payment information.</td>    
   </tr>
 </table>
-
-<h3 style="padding-top: 2em;">Ala carte opportunities</h3>
-
-<table style="border: 1px solid rgba(0,0,0,0.1); border-spacing: 10px;border-collapse: separate;">
-  <tr>
-    <th></th>
-    <th>Benefits</th>
-    <th>Cost</th>
-  </tr>
-  <tr>
-    <td style="font-weight:bold;">Lanyard Sponsor <br/><span style="color:#676">(limit 1)</span></td>
-    <td>Your logo exclusively on the conference badge lanyards</td>
-    <td>$3,000 USD</td>
-    <td style="text-align: right;" colspan=4>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="JYPPJZDDR9SZA">
-        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align: right; color: #bbb;" colspan=3>
-        Note: These options may be purchased in addition to, or in lieu of, the bronze, silver and gold selections.<br/>We are willing to work with your company, if you have any ideas just ask! <a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a>
-  </tr>
-</table>
-<span style="font-style: italic"></span>
-</div>
-<hr/>

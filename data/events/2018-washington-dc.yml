@@ -5,19 +5,19 @@ event_twitter: "devopsdaysdc"
 description: "A house divided against itself cannot stand."
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-startdate:  2018-06-06
-enddate:  2018-06-07
+startdate:  2018-06-06T00:00:00-04:00
+enddate: 2018-06-07T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2018-03-09
-cfp_date_end:  2018-04-15
-cfp_date_announce:  2018-04-22
+cfp_date_start:  2018-03-09T00:00:00-05:00
+cfp_date_end:  2018-04-15T23:59:59-04:00
+cfp_date_announce:  2018-04-22T00:00:00-04:00
 
 cfp_open: "false"
 cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
 
-registration_date_start: 2018-03-09
-registration_date_end: 2018-06-08
+registration_date_start: 2018-03-09T00:00:00-05:00
+registration_date_end: 2018-06-08T23:59:59-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdaysdc2018.busyconf.com/bookings/new"

@@ -5,12 +5,12 @@ event_twitter: "devopsdaysbos" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-24  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-09-24T00:00:00-04:00
+enddate: 2018-09-25T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-04-02  # start accepting talk proposals.
-cfp_date_end: 2018-06-22 # close your call for proposals.
+cfp_date_start: 2018-04-02T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-06-22T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
@@ -178,10 +178,26 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
-  # - id: cloudsearch
-  #   level: gold
+  - id: trinetx
+    level: platinum
+  - id: chaossearch
+    level: gold
   - id: redgate
     level: gold
+  - id: neotys
+    level: gold
+  - id: carbonblack
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: ca
+    level: alacarte
+  - id: launch-darkly
+    level: alacarte
+  - id: genians
+    level: alacarte
+  - id: arresteddevops
+    level: community
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -194,6 +210,11 @@ sponsor_levels:
 
   - id: gold
     label: Gold
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
+  
+  - id: community
+    label: Community
   
   # - id: community
   #   label: Community
@@ -215,6 +236,11 @@ program:
     date: 2018-09-24
     start_time: "09:30"
     end_time: "10:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "17:00"
   - title: "anton-gurov"
     type: talk
     date: 2018-09-24
@@ -255,11 +281,6 @@ program:
     date: 2018-09-24
     start_time: "11:45"
     end_time: "12:45"
-  - title: "Open Spaces Intro"
-    type: custom
-    date: 2018-09-24
-    start_time: "13:00"
-    end_time: "13:15"
   - title: "tim-hartmann"
     type: workshop
     date: 2018-09-24
@@ -305,21 +326,16 @@ program:
     date: 2018-09-24
     start_time: "15:00"
     end_time: "17:00"
-  - title: "Open Spaces 1"
-    type: open-space
-    date: 2018-09-24
-    start_time: "15:00"
-    end_time: "16:00"
-  - title: "Open Spaces 2"
-    type: open-space
-    date: 2018-09-24
-    start_time: "16:00"
-    end_time: "17:00"
   - title: "Day One Wrap Up"
     type: custom
     date: 2018-09-24
     start_time: "17:00"
     end_time: "17:15"
+  - title: "Evening Event Nearby with Garima Sharma: Let’s play a real life Dungeon and Dragons"
+    type: custom
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
   
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -331,6 +347,11 @@ program:
     date: 2018-09-25
     start_time: "09:00"
     end_time: "09:30"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "17:00"
   - title: "james-meickle"
     type: talk
     date: 2018-09-25
@@ -406,31 +427,6 @@ program:
     date: 2018-09-25
     start_time: "14:15"
     end_time: "14:30"
-  - title: "speakera12"
-    type: talk
-    date: 2018-09-25
-    start_time: "14:30"
-    end_time: "15:00"
-  - title: "leena-s-n"
-    type: talk
-    date: 2018-09-25
-    start_time: "14:30"
-    end_time: "15:00"
-  - title: "garima-sharma"
-    type: workshop
-    date: 2018-09-25
-    start_time: "15:00"
-    end_time: "17:00"
-  - title: "Open Spaces 3"
-    type: open-space
-    date: 2018-09-25
-    start_time: "15:00"
-    end_time: "16:00"
-  - title: "Open Spaces 4"
-    type: open-space
-    date: 2018-09-25
-    start_time: "16:00"
-    end_time: "17:00"
   - title: "Day Two Wrap Up"
     type: custom
     date: 2018-09-25

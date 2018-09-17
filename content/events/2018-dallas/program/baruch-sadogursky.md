@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps Theory vs. Practice: A Song of Ice and TireFire"
+Title = "DevOps Theory vs. Practice: A Song of Ice and Tire-Fire"
 Type = "talk"
 Speakers = ["baruch-sadogursky","william-manning"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/devops-theory-vs-practice-a-song-of-ice-and-tirefire"
 Slides = ""
 Website = "http://www.jfrog.com/"
 +++

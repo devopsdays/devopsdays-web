@@ -5,9 +5,9 @@ aliases = ["/events/2018-belem/"]
 Description = "devopsdays Belém 2018"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -63,7 +63,6 @@ Description = "devopsdays Belém 2018"
   </div>
 </div> -->
 
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
@@ -90,6 +89,5 @@ Description = "devopsdays Belém 2018"
     {{< event_link page="contato" text="Entre em contato com a organização" >}}
   </div>
 </div>
-
 
 {{< event_twitter >}}

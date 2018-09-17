@@ -5,9 +5,9 @@ event_twitter: "devopsdaysphx" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Phoenix!" # Edit this to suit your preferences
 ga_tracking_id: "UA-122312566-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-23 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-23  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00#
+startdate: 2018-10-23T00:00:00-07:00
+enddate: 2018-10-23T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 #cfp_date_start: 2018-07-01 # start accepting talk proposals.
@@ -35,12 +35,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -79,6 +78,11 @@ sponsors:
     level: gold
   - id: chef 
     level: gold
+  - id: allstate
+    level: gold
+  - id: cloudbolt
+    level: silver
+
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -110,3 +114,104 @@ sponsor_levels:
   - id: snack 
     label: Snack 
 
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kolton-andrus"
+    type: talk
+    date: 2018-10-23
+#    start_time: "11:20"
+#    end_time: "11:50"
+  - title: "andy-lowe"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:15"
+#    end_time: "09:45"
+  - title: "carlos-nunez"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:55"
+#    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-10-23
+#    start_time: "10:25"
+#    end_time: "10:40"
+  - title: "cat-swetel"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-23
+#    start_time: "11:10"
+#    end_time: "11:20"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2018-10-23
+#    start_time: "11:20"
+#    end_time: "11:50"
+  - title: "hattan-shobokshi"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:55"
+#    end_time: "10:25"
+  - title: "jasmine-hegman"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "Break"
+    type: custom
+    date: 2018-10-23
+#    start_time: "10:25"
+#    end_time: "10:40"
+  - title: "mark-gunnels"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "matt-williams"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "nick-willever"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "rob-richardson"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "stephen-kuenzli"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "wes-novack"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "christian-posta"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:15"
+#    end_time: "09:45"
+  - title: "Closing"
+    type: custom
+    date: 2018-10-23
+    start_time: "16:45"
+    end_time: "17:00"

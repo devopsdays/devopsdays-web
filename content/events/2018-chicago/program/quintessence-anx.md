@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Sensory Friendly Monitoring: Keeping the Noise Down"
 Type = "talk"
 Speakers = ["quintessence-anx"]
+slides = "https://github.com/quintessence/presentations/blob/master/sensory-friendly-monitoring/sensory-friendly-monitoring.pdf"
 +++
 Increasingly complex architecture generates a lot of noise, which in turn causes a catch-22: we need monitoring systems that generate appropriate levels of noise based on incident severity. In this talk, I'll be discussing sanity saving steps that teams can use to design lean monitoring systems.
 

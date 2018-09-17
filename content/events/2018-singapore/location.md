@@ -15,6 +15,9 @@ Take Exit J and follow the signs to 'One Marina Boulevard' or 'NTUC Ctr'. We're 
 
 {{< event_map >}}
 <br>
+# After Party
+
+Location: TBD
 
 # Travel Tips
 

@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Scaling Continuous Delivery to Walmart"
 Type = "talk"
 Speakers = ["bryan-finster","dana-finster"]
-Youtube = ""
+Youtube = "UJjjgEbIOfg"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/scaling-continuous-delivery-to-walmart"
 Slides = ""
 Website = "https://www.linkedin.com/in/bryan-finster/"
 +++

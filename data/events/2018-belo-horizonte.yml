@@ -17,11 +17,11 @@ cfp_date_announce:  # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://papercall.io/devopsdaysbh" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-08-31 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-09-29 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devops-days-belo-horizonte-2018__352215" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -32,13 +32,20 @@ location_address: "Av. Brasil, 2023 - Funcionários, Belo Horizonte - MG" #Optio
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
-  - name: location
- # - name: registration
- # - name: program
- # - name: speakers
-  - name: sponsor
-  - name: contact
-  - name: conduct
+  - name: localizacao
+    url: /events/2018-belo-horizonte/location
+  - name: ingressos
+    url: /events/2018-belo-horizonte/registration
+  - name: programação
+    url: /events/2018-belo-horizonte/program
+  - name: palestrantes
+    url: /events/2018-belo-horizonte/speakers
+  - name: patrocinio
+    url: /events/2018-belo-horizonte/sponsor
+  - name: contato
+    url: /events/2018-belo-horizonte/contact
+  - name: conduta
+    url: /events/2018-belo-horizonte/conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -47,69 +54,62 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Amanda Pinto"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/amanda-pinto-b4217a42/"
+    # bio: ""
     image: "amanda-pinto.jpg"  
   - name: "André Almar"
-    employer: ""
-    twitter: ""
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/andrealmar/"
+    # bio: ""
     image: "andre-almar.jpg"
-  - name: "Ana Cláudia Grossi"
-    employer: ""
-    twitter: "devopsdaysbh"
-    image: "ana-claudia-grossi.jpg"
-    bio: ""
-  - name: "Dalton Strauss"
-    employer: ""
-    twitter: "devopsdaysbh"
-    image: "dalton-strauss.jpg"
-    bio: ""
+#   - name: "Ana Cláudia Grossi"
+#     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+#     image: "ana-claudia-grossi.jpg"
+    # bio: ""
   - name: "Daniel Reis"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/danielreisp/"
+    # bio: ""
     image: "daniel-reis.jpg"
   - name: "Diego F. Duarte"
-    employer: "Avenue Code."
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/diego-f-duarte-926aa723/"
+    # bio: ""
     image: "diego-f-duarte.jpg"
   - name: "Gustavo Fagundes"
-    employer: ""
-    twitter: "devopsdaysbh"
+    linkedin: "https://www.linkedin.com/in/gustavofagundes/"
     image: "gustavo-fagundes.jpg"
-    bio: ""
+    # bio: ""
   - name: "Marco Antonio M. Junior (Somatório)"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    # bio: ""
     image: "marco-antonio.jpg"
   - name: "Rafael Gomes (Gomex)"
-    employer: ""
-    twitter: "devopsdaysbh"
     linkedin: "https://www.linkedin.com/in/rbgomes"
-    bio: ""
+    # bio: ""
     image: "rafael-gomes.jpg"
   - name: "Zandler Oliveira"
-    employer: ""
-    twitter: "devopsdaysbh"
-    bio: ""
-    github: "devopsdaysbh"
+    linkedin: "https://www.linkedin.com/in/zandler-oliveira/"
+    # bio: ""
     image: "zandler-oliveira.jpg"
-    facebook: ""
-    linkedin: ""
-    website: ""
+    # facebook: ""
+    # linkedin: ""
+    # website: ""
 organizer_email: "organizers-belo-horizonte-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-belo-horizonte-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+  - id: pucminas
+    level: premium
+  - id: dti
+    level: premium
+  - id: maxmilhas
+    level: premium
+  - id: estabilis
+    level: premium
+  - id: adaptnow
+    level: educational
+  - id: devopsbh
+    level: community
   - id: arresteddevops
     level: community
 
@@ -120,13 +120,128 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: premium
+    label: Premium 
+    max: 0
+  - id: educational
+    label: Educational
+    max: 0
   - id: community
     label: Community
+
+program:
+  ## Periodo da Manha
+  - title: "Registro e abertura"
+    type: custom
+    date: 2018-09-29
+    start_time: "08:30"
+    end_time: "09:15"
+
+  - title: "rafael-gomex"
+    type: talk
+    comments: Keynote da manhã
+    date: 2018-09-29
+    start_time: "09:15"
+    end_time: "10:00"
+
+## Openspace
+  - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
+    type: open-space
+    date: 2018-09-29
+    start_time: "09:00"
+    end_time: "12:00"
+    comments: "Sessoes de no max. 20 minutos para cada talk"
+
+  - title: "Coffee and break"
+    type: custom
+    date: 2018-09-29
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "henrique-bueno"
+    type: talk
+    date: 2018-09-29
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "marco-mendes"
+    type: talk
+    date: 2018-09-29
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "allan-sene"
+    type: talk
+    date: 2018-09-29
+    start_time: "11:30"
+    end_time: "12:00"
+
+## Periodo da tarde
+  - title: "Almoço"
+    type: custom
+    date: 2018-09-29
+    start_time: "12:00"
+    end_time: "13:00"
+
+#Fishbow da tarde
+  - title: "Rodas Fishbowl"
+    type: fishbowl
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+
+#Workshop da tarde
+  - title: "Workshops da tarde"
+    type: custom
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "15:00"
+
+## Palestras da tarde
+  - title: "antonio-muniz"
+    type: talk
+    date: 2018-09-29
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: 2018-09-29
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "davidson-leonardo"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:00"
+    end_time: "14:30"
+    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
+
+  - title: "igor-caio"
+    type: talk
+    date: 2018-09-29
+    start_time: "14:30"
+    end_time: "15:00"
+    comments: "DevStack - gerando ambientes de desenvolvimento isolados na AWS será uma pair talk"
+
+  - title: "Coffee and Break"
+    type: custom
+    date: 2018-09-29
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "zandler-oliveira"
+    type: talk
+    date: 2018-09-29
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "KEYNOTE A SER DEFINIDO"
+    type: custom
+    date: 2018-09-29
+    comments: Keynote de encerramento
+    start_time: "16:00"
+    end_time: "16:45"
+
+  - title: "Encerramento"
+    type: custom
+    date: 2018-09-29
+    start_time: "16:45"
+    end_time: "17:00"

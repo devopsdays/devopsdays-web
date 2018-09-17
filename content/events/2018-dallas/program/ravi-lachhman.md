@@ -8,7 +8,7 @@ Speakers = ["ravi-lachhman"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/the-12-layer-burrito-vs-the-12-factor-app"
 Slides = ""
 Website = "http://www.lachhman.io/"
 +++

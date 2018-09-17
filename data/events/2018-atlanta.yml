@@ -6,13 +6,13 @@ description: "Devopsdays is coming to Atlanta!" # Edit this to suit your prefere
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-04-17" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  "2018-04-18" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-04-17T00:00:00-04:00
+enddate: 2018-04-18T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  "2017-10-01"
-cfp_date_end:  "2018-02-28"
-cfp_date_announce:  "2018-03-05"
+cfp_date_start: 2017-10-01T00:00:00-04:00
+cfp_date_end: 2018-02-28T23:59:59-05:00
+cfp_date_announce: 2018-03-05T00:00:00-05:00
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysatl2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.

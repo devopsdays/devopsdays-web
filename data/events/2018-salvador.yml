@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Salvador!" # Edit this to suit your prefer
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-10-27" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  "2018-10-27" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-27T00:00:00-06:00
+enddate: 2018-10-27T23:59:59-06:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: "2018-07-16"  # start accepting talk proposals.
@@ -31,9 +31,10 @@ location: "Salvador" # Defaults to city, but you can make it the venue name.
 location_address: "UNIFACS Campus Paralela Av. Luís Viana Filho nº 3146 / 3100 - Pituaçu" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
+    url: "https://devopsdayssa2018.eventize.com.br/index.php?pagina=4"
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -72,7 +73,7 @@ proposal_email: "organizers-salvador-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: samplesponsorname
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
 

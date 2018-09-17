@@ -8,7 +8,7 @@ Speakers = ["david-ayers"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/get-committed"
 Slides = ""
 Website = "http://autoscalr.com/blog/"
 +++

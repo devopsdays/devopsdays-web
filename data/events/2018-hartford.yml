@@ -6,19 +6,19 @@ description: "Devopsdays is coming to Hartford!" # Edit this to suit your prefer
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-16  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-17  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-16T00:00:00-04:00
+enddate: 2018-10-17T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-05-21 # start accepting talk proposals.
-cfp_date_end: 2018-08-03  # close your call for proposals.
-cfp_date_announce: 2018-08-17  # inform proposers of status
+cfp_date_start: 2018-05-21T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2018-08-03T23:59:59-04:00  # close your call for proposals.
+cfp_date_announce: 2018-08-17T00:00:00-04:00  # inform proposers of status
 
 cfp_open: "true"
 # cfp_link: "https://dodhart2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-05-21 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-10-15 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-05-21T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-15T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 # registration_link: "https://dodhart2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,7 +33,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
-  # - name: program
+  - name: program
   # - name: speakers
   - name: sponsor
   - name: contact
@@ -69,10 +69,10 @@ team_members: # Name is the only required field for team members.
   - name: "Kristi Bathgate"
     twitter: "happyhappy0365"
     employer: "Travelers"
-    github: ""
+    github: "kristidem"
     website: ""
-    image: ""
-    bio: ""
+    image: "kristi-bathgate.jpg"
+    bio: "Kristi leads a DevOps Transformation and AppDev Office to help a Travelers line of business transform their applications with modern technologies and DevOps practices"
   - name: "Elizabeth Tobin"
     twitter: ""
     employer: "Cigna"
@@ -102,7 +102,19 @@ sponsors:
     level: gold
   - id: rightstar
     level: gold
+  - id: elastic
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: parasoft
+    level: silver
   - id: rightstar
+    level: mug
+  - id: launch-darkly
     level: mug
   - id: cgi
     level: bronze

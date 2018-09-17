@@ -1,104 +1,40 @@
 +++
-title = "welcome"
+title = "Welcome"
 type = "event"
 aliases = ["/events/2018-riga"]
 tags = ["riga","riga-2018"]
 heading = "DevOpsDays Riga 2018 - Welcome"
-Description = "DevOpsDays Riga 2018"
+description = "DevOpsDays Riga 2018"
 +++
 
-<div style="text-align:center;">
-<h2>{{< event_start >}} - {{< event_end >}}</h2>
-</div>
-
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div>
-
-**DevOpsDays is coming back to Riga, this time in {{< event_location >}}!**
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+<div class="row">
+  <div class="col-md-4">
+    <img alt="DevOpsDays Riga 2018" src="/events/2018-riga/logo.png" class="img-fluid">
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
-  </div>
-</div>
-
-<!--<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  <div class="col-md-7">
+    <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events planned for 2018.</p>
+    <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community. We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.</p>
+    <p>We expect 350 people this year and will be holding the event on September 26-29, 2018 at the Park Inn by Radisson Riga Valdemara</p>
+    <div class="d-flex flex-row">
+      <div class="col-md-12">
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2018-riga/program"> <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;Check out the program</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="http://tickets.devopsdays.lv/" target="_blank" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2018-riga/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
+        </div>
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2018-riga/activities"> <i class="fa fa-eye fa-lg"></i>&nbsp;&nbsp;&nbsp;Check what To do at Riga in addition to conference</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div> -->
-
-<!--<div class = "row">
-  <div class = "col-md-2">
-    <strong>Workshops</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="workshop" text="workshop." >}}
-  </div>
-</div> -->
-
-<!--<div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
-  </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
-  </div>
-</div>-->
-
-<!--<div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>-->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
-
-{{< event_twitter >}}
 
 <!-- Facebook Pixel Code -->
 <script>

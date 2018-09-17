@@ -7,20 +7,20 @@ description: "Devopsdays is coming to Cape Town!"
 ga_tracking_id: "UA-105986234-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-20
-enddate: 2018-09-21
+startdate: 2018-09-20T00:00:00+02:00
+enddate: 2018-09-21T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-06-01
-cfp_date_end: 2018-07-31
-cfp_date_announce: 2018-06-01
+cfp_date_start: 2018-06-01T00:00:00+02:00
+cfp_date_end: 2018-07-31T23:59:59+02:00
+cfp_date_announce: 2018-06-01T00:00:00+02:00
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayscpt2018"
 
-registration_date_start:
-registration_date_end:
+registration_date_start: 2018-06-01
+registration_date_end: 2018-09-20
 
-registration_closed:
+registration_closed: ""
 registration_link: "https://www.quicket.co.za/events/48403-devopsdays-cape-town-2018/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 coordinates: "-33.935600, 18.457423"
@@ -30,7 +30,7 @@ location_address: "31 Brickfield Rd, Woodstock, Cape Town, 7935"
 nav_elements:
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -76,6 +76,8 @@ sponsors:
     level: gold
   - id: luno
     level: basic
+  - id: nedbank
+    level: basic
   - id: arresteddevops
     level: community
   - id: lpi-za
@@ -96,3 +98,166 @@ sponsor_levels:
     label: Starter
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-20
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-09-20
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "joe-nuspl"
+    type: talk
+    date: 2018-09-20
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "jaco-greyling"
+    type: talk
+    date: 2018-09-20
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-09-20
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "mark-derman"
+    type: talk
+    date: 2018-09-20
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "pieter-breed"
+    type: talk
+    date: 2018-09-20
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-20
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-09-20
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "cari-liebenberg"
+    type: talk
+    date: 2018-09-20
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-09-20
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "cari-liebenberg-workshop"
+    type: workshop
+    date: 2018-09-20
+    start_time: "15:00"
+    end_time: "16:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-09-20
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-09-20
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event at Woodstock Lounge"
+    type: custom
+    date: 2018-09-20
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-21
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-09-21
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "graeme-glass"
+    type: talk
+    date: 2018-09-21
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "darin-morris"
+    type: talk
+    date: 2018-09-21
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-09-21
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "mpho-mphego"
+    type: talk
+    date: 2018-09-21
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "jared-naude"
+    type: talk
+    date: 2018-09-21
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-21
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-09-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "marek-denis"
+    type: talk
+    date: 2018-09-21
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-09-21
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "ruaan-erasmus"
+    type: workshop
+    date: 2018-09-21
+    start_time: "15:00"
+    end_time: "16:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-09-21
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-09-21
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event at venue"
+    type: custom
+    date: 2018-09-21
+    start_time: "18:00"
+    end_time: "late"
+
+ignites:
+  - title: "gunter-grodotzki"
+    date: 2018-09-20
+  - title: "keegan-carruthers-smith"
+    date: 2018-09-20
+  - title: "karl-fischer"
+    date: 2018-09-21
+  - title: "christo-goosen"
+    date: 2018-09-21

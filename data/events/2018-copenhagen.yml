@@ -6,19 +6,19 @@ description: "DevOpsDays is coming to Copenhagen for the first time. Don't miss 
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  2018-04-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2018-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2018-04-24T00:00:00+02:00
+enddate: 2018-04-25T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2018-01-10 # start accepting talk proposals.
-cfp_date_end:  2018-02-11 # close your call for proposals.
-cfp_date_announce:  2018-02-28 # inform proposers of status
+cfp_date_start:  2018-01-10T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2018-02-11T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce:  2018-02-28T00:00:00+01:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayscph" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-01-15 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-04-23 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-01-15T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-04-23T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.co.uk/e/devops-days-copenhagen-tickets-41996806579" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.

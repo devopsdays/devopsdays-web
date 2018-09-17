@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Containers, Kubernetes, and a service mesh - A game changer"
+Title = "Avoid the Distributed Monolith!!"
 Type = "talk"
 Speakers = ["mohamad-bayan"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/avoid-the-distributed-monolith"
 Slides = ""
 Website = ""
 +++

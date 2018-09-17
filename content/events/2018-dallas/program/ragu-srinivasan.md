@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "From Cavemen to Captains - Using Kubernetes to Realize the DevOps Promise at Large Enterprises"
+Title = "From Cavemen to Captains - Using Kubernetes to Evolve DevOps Adoption"
 Type = "talk"
 Speakers = ["ragu-srinivasan","ramesh-podila"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/cavemen-to-captains-using-kubernetes-to-evolve-devops-adoption"
 Slides = ""
 Website = ""
 +++

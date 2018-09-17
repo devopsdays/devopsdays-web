@@ -8,7 +8,7 @@ Speakers = ["david-giambruno"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/devsecops-through-blunt-force-trauma-im-the-trauma"
 Slides = ""
 Website = ""
 +++

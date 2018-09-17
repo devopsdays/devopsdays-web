@@ -5,23 +5,23 @@ event_twitter: "devopsdaysSG"
 description: "devopsdays is returning to Singapore for a 4th year!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-11 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-12 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-10-11T00:00:00+08:00
+enddate: 2018-10-12T23:59:59+08:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-07-05  # start accepting talk proposals.
 cfp_date_end: 2018-08-31  # close your call for proposals.
 cfp_date_announce: 2018-09-11  # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-09-06 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2017-10-10 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsdays-singapore/2018/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: "skyline-merlion.jpg"
 # Location
@@ -34,12 +34,13 @@ location_address: "#22-01, 1 Marina Blvd, Singapore" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
-#  - name: registration
-#  - name: program
-#  - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: volunteer
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -48,48 +49,61 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Sergiu Bodiu"
-    employer: ""
+    employer: "Standard Chartered"
     twitter: "sergiu_bodiu"
-    bio: ""
+    bio: "Sergiu Bodiu is a Cloud Architect at Standard Chartered. A frequent speaker and program committee member for tech conferences, he leads the devops community at home in Singapore."
+    image: "sergiu-bodiu.jpg"
 
   - name: "Abhishek Chowdhury"
-    employer: ""
-    twitter: ""
-    bio: ""
+    employer: "Credit Suisse"
+    twitter: "buaonline"
+    bio: "Abhishek Chowdhury is the lead DevOps Engineer at Credit Suisse APAC IT."
+    image: "abhishek-chowdhury.jpg"
 
   - name: "Matt Hitchcock"
-    employer: ""
+    employer: "Microsoft"
     twitter: ""
     bio: ""
 
   - name: "Vincent De Smet"
-    employer: ""
     twitter: "vincentdesmet"
     bio: ""
 
-  - name: "Antonio Cocera"
-    employer: ""
-    twitter: ""
-    bio: ""
+  - name: "Hugues Malphettes"
+    employer: "Standard Chartered"
+    twitter: "hmalphettes"
 
   - name: "Muthu Karuppi"
-    employer: ""
+    employer: "ThoughtWorks"
     twitter: ""
     bio: ""
 
 organizer_email: "organizers-singapore-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-singapore-2018@devopsdays.org" # Put your proposal email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
+
 sponsors:
   - id: microsoft
     level: platinum
+  - id: thoughtworks-gocd
+    level: gold
+  - id: ecs-digital
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: hashicorp
+    level: silver
+  - id: palo-it
+    level: silver
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
     level: community
   - id: singapore-spring-community
+    level: community
+  - id: stack-overflow
+    level: community
+  - id: jfrog
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -112,7 +126,7 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
     type: custom
     date: 2018-10-11
     start_time: "08:00"
@@ -122,159 +136,184 @@ program:
     date: 2018-10-11
     start_time: "09:00"
     end_time: "09:15"
-  - title: "talk-1"
+  - title: "ken-mugrage"
     type: talk
     date: 2018-10-11
     start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-10-11
-    start_time: "09:45"
     end_time: "09:55"
-  - title: "talk-2"
+  - title: "kelsey-pedersen"
     type: talk
     date: 2018-10-11
     start_time: "09:55"
-    end_time: "10:25"
+    end_time: "10:30"
   - title: "Break"
     type: custom
     date: 2018-10-11
-    start_time: "10:25"
+    start_time: "10:30"
     end_time: "10:40"
-  - title: "talk-3"
+  - title: "marcelo-bellinaso"
     type: talk
     date: 2018-10-11
     start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-10-11
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-4"
+    end_time: "11:15"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2018-10-11
-    start_time: "11:20"
+    start_time: "11:15"
     end_time: "11:50"
-  - title: "Lunch"
+  - title: "Announcements"
     type: custom
     date: 2018-10-11
     start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-11
+    start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignites"
+  - title: "Open Space Kickoff"
     type: custom
     date: 2018-10-11
     start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
+    end_time: "13:25"
+  - title: "aishwarya-kaneri"
+    type: talk
     date: 2018-10-11
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:25"
+    end_time: "14:10"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-11
+    start_time: "14:15"
+    end_time: "14:50"
   - title: "Open Space #1"
-    type: custom
-    date: 2018-10-11
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2018-10-11
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Open Space #3"
+  - title: "Break"
     type: custom
     date: 2018-10-11
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "15:45"
+    end_time: "15:55"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-10-11
+    start_time: "15:55"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-10-11
+    start_time: "16:40"
+    end_time: "17:25"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-10-11
+    start_time: "17:25"
+    end_time: "17:30"
+  - title: "Evening event"
+    comments: "Location TBD ([map](/events/2018-singapore/location/#after-party))"
+    type: custom
+    date: 2018-10-11
+    start_time: "17:30"
+    end_time: "late"
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-10-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-12
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "matt-ray"
+    type: talk
+    date: 2018-10-12
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "adrian-cole"
+    type: talk
+    date: 2018-10-12
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-10-12
+    start_time: "10:30"
+    end_time: "10:40"
+  - title: "gleidson-nascimento"
+    type: talk
+    date: 2018-10-12
+    start_time: "10:40"
+    end_time: "11:15"
+  - title: "ned-shawa"
+    type: talk
+    date: 2018-10-12
+    start_time: "11:15"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-10-12
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2018-10-12
+    start_time: "13:00"
+    end_time: "13:25"
+  - title: "anthony-rees"
+    type: talk
+    date: 2018-10-12
+    start_time: "13:25"
+    end_time: "14:10"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-12
+    start_time: "14:15"
+    end_time: "14:50"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-10-12
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2018-10-12
+    start_time: "15:45"
+    end_time: "15:55"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-10-12
+    start_time: "15:55"
+    end_time: "16:40"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-10-12
+    start_time: "16:40"
+    end_time: "17:25"
   - title: "Close Day"
     type: custom
-    date: 2018-10-11
-    start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening event"
-    type: custom
-    date: 2018-10-11
-    start_time: "19:00"
-    end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
     date: 2018-10-12
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2018-10-12
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "talk-5"
-    type: talk
-    date: 2018-10-12
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-10-12
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "talk-6"
-    type: talk
-    date: 2018-10-12
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2018-10-12
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "talk-7"
-    type: talk
-    date: 2018-10-12
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-10-12
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "talk-8"
-    type: talk
-    date: 2018-10-12
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2018-10-12
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2018-10-12
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2018-10-12
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
-    date: 2018-10-12
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
-    date: 2018-10-12
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
-    date: 2018-10-12
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2018-10-12
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:25"
+    end_time: "17:30"
 
+ignites:
+  - title: "ignite-baruch-sadogursky"
+    date: 2018-10-11
+  - title: "ignite-tbc"
+    date: 2018-10-11
+  - title: "ignite-tbc"
+    date: 2018-10-11
+  - title: "ignite-tbc"
+    date: 2018-10-11
+  - title: "ignite-tbc"
+    date: 2018-10-12
+  - title: "ignite-tbc"
+    date: 2018-10-12
+  - title: "ignite-tbc"
+    date: 2018-10-12
+  - title: "ignite-tbc"
+    date: 2018-10-12
+  - title: "ignite-tbc"
+    date: 2018-10-12

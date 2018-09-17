@@ -6,13 +6,13 @@ description: "The same group of organizers that brought you DevOpsDays DFW 2 yea
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-08-31 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-08-29T00:00:00-05:00
+enddate: 2018-08-31T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-06-10 # start accepting talk proposals.
-cfp_date_end: 2018-07-29  # close your call for proposals.
-cfp_date_announce: 2018-08-05 # inform proposers of status
+cfp_date_start: 2018-06-10T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-07-29T23:59:59-05:00  # close your call for proposals.
+cfp_date_announce: 2018-08-05T00:00:00-05:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -161,13 +161,13 @@ team_members: # Name is the only required field for team members.
   - name: "Roger Servey"
     role: "Verizon"
     employer: "Organizer Role - Leadership Summit"
-    bio: ""
+    bio: "Roger is a 20+ year International  IT Leader experienced with Software delivery for systems delivering multi billion dollar impacts to their Enterprises.  Roger currently leads Verizon's Engineering Practice Transformation Centers - DOJOs - Across the United States, where teams enter to learn new Agile Practices, DevOps Automantions and Cloud Technologies which speed time to value realization, drive efficiency and improve quality.<br><br>Focus Areas for Roger include: DevOps, Agile Development, Continuous Delivery, Lean Development, Software architecture and design, Pricing theory, Product Lifecycle Management, Onshore, Near Shore and Offshore project development (US, LATAM, EMEA, APAC) and Pricing Analytics.<br><br>Roger holds his Bachelors Degree from Southern Methodist University and is a continuous learner.  A Practitioner of constraint management and evangelist for DevOps measurement, speaking at OS Con 2018 and GLUCON 2018 on <strong><i>DevOps Measurement and Enter-Sourcing with Hygieia. That which is measured, improves!</i></strong>. "
     twitter: ""
     linkedin: ""
 #   facebook:
 #   website:
 #   github:
-    image: ""
+    image: "roger.jpg"
   - name: "Charles Humphrey"
     role: ""
     employer: "Organizer Role - Backup Leadership Summit"
@@ -387,7 +387,7 @@ program:
     date: 2018-08-30
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignite Talks"
+  - title: ""
     type: ignite
     date: 2018-08-30
     start_time: "13:00"
@@ -510,6 +510,8 @@ program:
     end_time: "17:00"
 
 ignites:
+  - title: "ignite-talks"
+    date: 2018-08-30
   - title: "ravi-lachhman"
     date: 2018-08-30
   - title: "ivan-fan"

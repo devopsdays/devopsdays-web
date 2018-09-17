@@ -6,19 +6,19 @@ description: "Devopsdays is coming back to Kansas City!" # Edit this to suit you
 ga_tracking_id: "UA-93890142-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-17 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-10-17T00:00:00-05:00
+enddate: 2018-10-18T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2018-03-20 # start accepting talk proposals.
-cfp_date_end:  2018-06-17 # close your call for proposals.
-cfp_date_announce:  2018-03-20 # inform proposers of status
+cfp_date_start:  2018-03-20T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end:  2018-06-17T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2018-03-20T00:00:00-05:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "http://cfp.devopsdayskc.org/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-03-20 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-10-18 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-03-20T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-18T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdayskc.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,7 +33,7 @@ location_address: "300 E 39th St, Kansas City, MO 64111" #Optional - use the str
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -47,11 +47,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Aaron Blythe"
     twitter: "ablythe"
-    employer: "New Relic"
+    employer: "NAIC"
     bio: "father, husband, hacker, software architect, genuinely interested in understanding things and making them better."
     image: aaron-blythe.jpg
     github: aaronblythe
-    website: https://aaronblythe.org
+    website: http://aaronblythe.com
     linkedin: https://www.linkedin.com/in/aaronblythe/
   - name: "Dan Barker"
     twitter: "barkerd427"
@@ -187,7 +187,18 @@ sponsors:
     level: core
   - id: shamrock
     level: core
-
+  - id: cerner
+    level: amenity
+  - id: disruptops
+    level: party
+  - id: elastic
+    level: amenity
+  - id: vml
+    level: premium
+  - id: aporeto
+    level: premium
+  - id: newrelic
+    level: amenity
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -212,3 +223,274 @@ sponsor_levels:
     label: Party
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-17
+    start_time: "09:00"
+    end_time: "09:25"
+  - title: "matthew-boeckman"
+    type: talk
+    date: 2018-10-17
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-17
+    start_time: "10:00"
+    end_time: "10:05"
+  - title: "kyle-sexton"
+    type: talk
+    date: 2018-10-17
+    start_time: "10:05"
+    end_time: "10:10"
+  - title: "aaron-spiegel"
+    type: talk
+    date: 2018-10-17
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Break"
+    type: custom
+    date: 2018-10-17
+    start_time: "10:40"
+    end_time: "10:55"
+  - title: "matty-stratton"
+    type: talk
+    date: 2018-10-17
+    start_time: "10:55"
+    end_time: "11:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-17
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: "dane-hammer"
+    type: talk
+    date: 2018-10-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-10-17
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-17
+    start_time: "13:00"
+    end_time: "13:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-17
+    start_time: "13:45"
+    end_time: "13:50"
+  - title: "waldo-g"
+    type: talk
+    date: 2018-10-17
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-10-17
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-10-17
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "tom-armstrong"
+    type: workshop
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "dimitri-stiliadis"
+    type: workshop
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "stephanie-hicks"
+    type: workshop
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "brian-peterson"
+    type: workshop
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "mark-shead"
+    type: workshop
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "david-hollinger"
+    type: workshop
+    date: 2018-10-17
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-10-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2018-10-17
+    start_time: "17:00"
+    end_time: "21:00"
+    comments: "Westport Room. Badge Required."
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-18
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "ana-medina"
+    type: talk
+    date: 2018-10-18
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-18
+    start_time: "09:40"
+    end_time: "09:45"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2018-10-18
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break"
+    type: custom
+    date: 2018-10-18
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2018-10-18
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-18
+    start_time: "11:00"
+    end_time: "11:05"
+  - title: "cory-kennedy"
+    type: talk
+    date: 2018-10-18
+    start_time: "11:05"
+    end_time: "11:35"
+  - title: "avindra-fernando"
+    type: talk
+    date: 2018-10-18
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-10-18
+    start_time: "12:05"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-18
+    start_time: "13:00"
+    end_time: "13:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-18
+    start_time: "13:45"
+    end_time: "13:50"
+  - title: "mike-julian"
+    type: talk
+    date: 2018-10-18
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-10-18
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-10-18
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "josh-wood"
+    type: workshop
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "cullen-mcdermott"
+    type: workshop
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "matty-stratton2"
+    type: workshop
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "naresh-rayapati"
+    type: workshop
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "rob-reynolds"
+    type: workshop
+    date: 2018-10-18
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2018-10-18
+    start_time: "16:30"
+    end_time: "17:00"
+ignites:
+  - title: "kylie-schleicher"
+    date: 2018-10-17
+  - title: "jeffrey-sykes"
+    date: 2018-10-17
+  - title: "matt-blasinski"
+    date: 2018-10-17
+  - title: "nick-coblentz"
+    date: 2018-10-17
+  - title: "elaine-yeung"
+    date: 2018-10-17
+  - title: "Ignite Karaoke!"
+    date: 2018-10-17
+  - title: "shahzad-zafar"
+    date: 2018-10-18
+  - title: "joel-tosi"
+    date: 2018-10-18
+  - title: "todd-brees"
+    date: 2018-10-18
+  - title: "jessica-mcintyre"
+    date: 2018-10-18
+  - title: "Ignite Karaoke!"
+    date: 2018-10-18

@@ -2,11 +2,21 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Operating Human Systems: Mean Time To Relationship v. Mean Time To Fallout"
+Title = "Batteries Included: Enabling Community Contribution"
 Type = "talk"
 Speakers = ["aaron-aldrich"]
 +++
 
-DevOps trends are clear on measuring systems Mean Time To Recovery rather than Mean Time Between Failures. I argue that worrying about time between failures actually causes more harm than worrying about recovery. But do we think of our human systems the same way as our digital? I’ll apply lessons learned in SysOps to HumanOps.
+"Pull Requests Welcome." A phrase to indicate you're open to community contribution, but it does nothing to help bring high-quality contribution quickly. Contributors have to ramp up in your code base, may not have a great test suite, etc. What steps can we take to enable that process?
 
-I’ll talk about how our complex social systems act like complex computer systems and how focusing on MTTR rather than MTBF is a good thing between people, not just machines. I'll cover the environmental requirements for focusing on MTTR and discuss potential conflict resolution steps for a jumping off point in your organization or community.
+This is the story of enabling easy, quality contributions for Elastic Beats. Our Beats project runs in unpredictable environments so we wanted our community to be able to build extensions for their needs as easily as possible.
+
+Attendees will learn how we:
+
+- Designed for customization
+- Built Documentation into the code
+- Reduce repetitive work
+- Enable local testing with minimal effort
+- Allow for sharing back to the larger community
+
+
