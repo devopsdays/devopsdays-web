@@ -86,7 +86,7 @@ Description = "DevOpsDays Wellington 2018"
         <b>Accommodation Options</b><br/>
         Wellington has plenty of hotels within walking distance of the venue. We can offer you discount codes at the following hotels close to the venue:<br/><br/>
         &nbsp;&nbsp;&nbsp;<a href="https://doubletree3.hilton.com/en/hotels/new-zealand/doubletree-by-hilton-wellington-WLGNTDI/index.html">DoubleTree by Hilton Wellington</a> - room bookings at <a href="http://group.doubletree.com/DevOpsDayConference2018">15% off</a><br/>
-        &nbsp;&nbsp;&nbsp;<a href="https://www.heritagehotels.co.nz/hotels/citylife-wellington">CityLife Wellington</a> - serviced rooms and apartments from <a href="https://heritage.staah.net/groupbe/index_be?display=flexiR&groupId=Nzk&checkIn=05-11-2018&checkOut=07-11-2018&display=flexiR&promoCode=DevOps1118&head_promo=DevOps1118&submit=Search&_ga=2.257744526.423986267.1536656174-1553810251.1536656174&propertyId=NzU=">$209</a>
+        &nbsp;&nbsp;&nbsp;<a href="https://www.heritagehotels.co.nz/hotels/citylife-wellington">CityLife Wellington</a> - serviced rooms and apartments from <a href="https://heritage.staah.net/groupbe/index_be?display=flexiR&groupId=Nzk&checkIn=04-11-2018&checkOut=07-11-2018&display=flexiR&promoCode=DevOps1118&head_promo=DevOps1118&submit=Search&_ga=2.257744526.423986267.1536656174-1553810251.1536656174&propertyId=NzU=">$209</a>
       </div>
     </div>
     <br/>
