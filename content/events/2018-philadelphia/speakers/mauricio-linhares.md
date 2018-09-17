@@ -1,6 +1,6 @@
 +++
 Title = "Maurício Linhares"
-Twitter = "mauriciolinhares"
+Twitter = "mauriciojr"
 image = "mauricio-linhares.png"
 type = "speaker"
 linktitle = "mauricio-linhares"

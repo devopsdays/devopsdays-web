@@ -5,9 +5,9 @@ event_twitter: "devopsdayspdx" # Change this to the twitter handle for your even
 description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-11 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-09-11T00:00:00-07:00
+enddate: 2018-09-13T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-02-15T00:00:00-08:00 # start accepting talk proposals.
@@ -257,7 +257,7 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-09-12
-    start_time: "19:00"
+    start_time: "18:00"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -357,8 +357,8 @@ ignites:
     date: 2018-09-12
   - title: "heidi-waterhouse-ignite"
     date: 2018-09-12
-  - title: "david-laulusa"
-    date: 2018-09-12
+#  - title: "david-laulusa"
+#    date: 2018-09-12
   - title: "aaron-aldrich-ignite"
     date: 2018-09-12
 

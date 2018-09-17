@@ -169,6 +169,8 @@ proposal_email: "proposals-galway-2018@devopsdays.org" # Put your proposal email
 sponsors:
   - id: cisco
     level: bronze
+  - id: aspect
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

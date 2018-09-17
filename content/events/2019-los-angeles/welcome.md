@@ -33,7 +33,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">

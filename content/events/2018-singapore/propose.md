@@ -8,8 +8,7 @@ Description = "Propose a talk for DevOpsDays Singapore 2018"
 <hr>
 
 <center>
-<h2>We still accept ignite proposals!</h2>
-<h2>Call for proposals is closed!</h2>
+<h2>The general CFP is closed; however, we are still accepting ignite proposals.</h2>
 </center>
 
 <br>

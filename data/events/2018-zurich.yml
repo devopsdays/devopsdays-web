@@ -4,8 +4,8 @@ city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-05-02
-enddate: 2018-05-03
+startdate: 2018-05-02T00:00:00+02:00
+enddate: 2018-05-03T23:59:59+02:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-10-01T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2018-01-31T23:59:59+01:00 # close your call for proposals.

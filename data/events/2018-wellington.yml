@@ -7,8 +7,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "New Zealand"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-11-05 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-11-06 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-11-05T00:00:00+13:00
+enddate: 2018-11-06T23:59:59+13:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-06-16T00:00:00+12:00 # start accepting talk proposals.
@@ -107,6 +107,8 @@ sponsors:
     level: silver
   - id: microsoftnzazure
     level: silver
+  - id: infoq
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -122,4 +124,6 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: media
+    label: Media
 

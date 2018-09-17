@@ -2,26 +2,26 @@ name: "2018-chattanooga" # The name of the event. Four digit year with the city 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays is coming to Chattanooga for the first time on November 13, 2018 at the Chattanooga Convention Center. Our first keynote speaker will be John Willis, an author of The DevOps Handbook." # Edit this to suit your preferences
+description: "DevOpsDays is coming to Chattanooga, Tennessee!" # Edit this to suit your preferences
 ga_tracking_id: "UA-122945114-1"
 event_group: "Chattanooga"
 
 masthead_background: "chattanooga-masthead.jpg"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-11-13" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2018-11-13" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-11-13T00:00:00-05:00
+enddate: 2018-11-13T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2018-08-10"  # start accepting talk proposals.
-cfp_date_end: "2018-09-20" # close your call for proposals.
-cfp_date_announce: "2018-10-04" # inform proposers of status
+cfp_date_start: 2018-08-10T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-09-20T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-10-04T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayschattanooga" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "2018-08-10" # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "2018-11-12" # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-08-10T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-12T00:00:00-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://chadevopsdays.ticketspice.com/devopsdays-chattanooga" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -31,14 +31,14 @@ registration_link: "https://chadevopsdays.ticketspice.com/devopsdays-chattanooga
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Chattanooga Convention Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1150 Carter St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -80,6 +80,8 @@ sponsors:
   - id: chatech
     level: platinum
   - id: chef
+    level: gold
+  - id: redhat
     level: gold
 
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

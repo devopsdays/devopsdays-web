@@ -86,8 +86,8 @@ Description = "devopsdays Phoenix 2018"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/devopsday-phoenix-2018">Propose a Talk!</a> 
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    The <a href="https://www.papercall.io/devopsday-phoenix-2018">CFP</a> for 2018 is closed. 
+    {{< event_link page="propose" text="2018 CFP" >}}
   </div>
 </div>
 -->
@@ -97,10 +97,7 @@ Description = "devopsdays Phoenix 2018"
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    The CFP closed on August 15th 2018, and talk selection is underway.
-<!--
     View the {{< event_link page="program" text="program." >}}
--->
   </div>
 </div> 
 
