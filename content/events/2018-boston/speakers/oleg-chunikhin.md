@@ -1,7 +1,7 @@
 +++
 Title = "Oleg Chunikhin"
 Twitter = "olgch"
-
+image="oleg-chunikhin.jpg"
 type = "speaker"
 +++
 

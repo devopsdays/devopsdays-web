@@ -8,7 +8,7 @@ Speakers = ["ivan-fan"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/managing-cloud-infrastructure-at-scale"
 Slides = ""
 Website = "https://www.ivanfanatic.com/"
 +++

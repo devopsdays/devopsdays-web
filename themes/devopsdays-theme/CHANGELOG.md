@@ -1,5 +1,47 @@
 # Change Log
 
+## [1.23.0](https://github.com/devopsdays/devopsdays-theme/tree/1.23.0) (2018-09-14)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.22.0...1.23.0)
+
+**Fixed bugs:**
+
+- fix datetime issues with CFP [\#476](https://github.com/devopsdays/devopsdays-theme/issues/476)
+
+**Closed issues:**
+
+- events disappearing from front page before enddate is over [\#656](https://github.com/devopsdays/devopsdays-theme/issues/656)
+- Build performance analysis [\#643](https://github.com/devopsdays/devopsdays-theme/issues/643)
+- Version 10 of node.js has been released [\#625](https://github.com/devopsdays/devopsdays-theme/issues/625)
+- Social button don't show for a speaker in the talk page [\#582](https://github.com/devopsdays/devopsdays-theme/issues/582)
+
+## [1.22.0](https://github.com/devopsdays/devopsdays-theme/tree/1.22.0) (2018-09-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.21.0...1.22.0)
+
+**Implemented enhancements:**
+
+- Allow URL link on "custom" program type [\#611](https://github.com/devopsdays/devopsdays-theme/issues/611)
+
+## [1.21.0](https://github.com/devopsdays/devopsdays-theme/tree/1.21.0) (2018-09-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.20.0...1.21.0)
+
+**Closed issues:**
+
+- Program should support links to slides and video [\#600](https://github.com/devopsdays/devopsdays-theme/issues/600)
+
+## [1.20.0](https://github.com/devopsdays/devopsdays-theme/tree/1.20.0) (2018-08-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.1...1.20.0)
+
+## [1.19.1](https://github.com/devopsdays/devopsdays-theme/tree/1.19.1) (2018-08-20)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.0...1.19.1)
+
+**Implemented enhancements:**
+
+- Create search feature [\#633](https://github.com/devopsdays/devopsdays-theme/issues/633)
+
+**Fixed bugs:**
+
+- Long city names wrap in event navbar [\#638](https://github.com/devopsdays/devopsdays-theme/issues/638)
+
 ## [1.19.0](https://github.com/devopsdays/devopsdays-theme/tree/1.19.0) (2018-08-09)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.18.0...1.19.0)
 

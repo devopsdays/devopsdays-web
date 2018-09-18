@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Dealing with Interpersonal Communication and Imposter Syndrome"
+Title = "StereoTyped 101"
 Type = "talk"
 Speakers = ["karith-foster"]
-Youtube = ""
+Youtube = "9HNtkYUR0us"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/stereotyped-101"
 Slides = ""
 Website = ""
 +++

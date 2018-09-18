@@ -5,11 +5,14 @@ event_twitter: "devopsdaysrox"
 event_logo: "logo-square.jpg"
 friendly: "2018-denver" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current".
-startdate: 2018-04-17 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2018-04-18 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2017-12-21
-cfp_date_end: 2018-02-28
-cfp_date_announce: 2018-03-01
+
+startdate: 2018-04-17T00:00:00-06:00
+enddate: 2018-04-18T23:59:59-06:00
+
+cfp_date_start: 2017-12-21T00:00:00-07:00
+cfp_date_end: 2018-02-28T23:59:59-07:00
+cfp_date_announce: 2018-03-01T00:00:00-07:00
+
 coordinates: "39.739236, -104.990251" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Denver" # The name of your location
 registration_open: "open"

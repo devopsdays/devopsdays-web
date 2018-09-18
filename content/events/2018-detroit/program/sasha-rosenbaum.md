@@ -7,8 +7,9 @@ Type = "talk"
 Speakers = ["sasha-rosenbaum"]
 +++
 
+As we venture into new fields, we sometimes forget to apply the lessons learned in the past. As machine learning (ML) becomes more accessible to developers without a data science degree, and ML models multiply, we begin to see a glaring deficiency. 
 
-When infrastructure automation concepts were first introduced, many IT professionals worried about automating themselves out of a job. Even today, as we make a push to automate all things, some professionals are still apprehensive. But as we are dealing with our day to day challenges, Artificial Intelligence (AI) is making progress, achieving human parity and even surpassing humans in many areas of expertise. As AI is changing retail, healthcare, finance, manufacturing and even creative arts, is it time to ask when it is going to arrive in IT?
+Many of the ML frameworks support easily building and tweaking ML models, but do not offer source control. To make matters worse, ML models often require prolonged trial and error, and even small changes in parameters can produce large changes in model accuracy. As developers test new models, it becomes difficult to roll back to previous versions, create a reliable CI/CD pipeline into the production environment and monitor the application after it is deployed. 
 
-In this talk, I will overview the definitions of AI, Machine Learning and Deep Learning, the differences between AI and traditional programming and how it affects the relative difficulty of tasks that could be solved by AI. I will discuss the incredible progress that was made in the field in recent decades, and review which types of jobs are less likely to be taken over by machines. Finally, I will discuss the potential ethical problems rising from the ubiquitous use of AI and present prominent researchers' predictions of how the future of humanity might unfold as AI continues to evolve. 
+In this talk, I will discuss the potential ways you could begin with the end in mind and build a reliable process for delivering your ML models into production.
 

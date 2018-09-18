@@ -1,7 +1,7 @@
 +++
 Title = "Matt Surabian"
 Twitter = "mattsurabian"
-
+image="matt-surabian.jpg"
 type = "speaker"
 website = "https://mattsurabian.com/"
 +++

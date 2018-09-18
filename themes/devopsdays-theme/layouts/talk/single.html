@@ -112,11 +112,10 @@
 
   {{- range .Params.speakers -}}
     {{- $.Scratch.Set "speakername" . -}}
-    {{- range where $.Site.Pages "Type" "speaker" -}}
-      {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
-        {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
-        <a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL}}">
-        {{- if isset .Params "image" -}}
+    {{- $p := $.Site.GetPage (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) -}}
+    {{- if $p -}}
+    {{- with $p -}}
+       {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
             <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
           {{- end -}}
@@ -167,8 +166,7 @@
         {{- end -}}
 
       {{- end -}}
-    {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
-  {{- end -}}
+    {{- end -}}<!-- end with -->
   {{- else -}}<!-- now show the old stuff -->
   <h2 class="talk-page">Speaker</h2>
   {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}

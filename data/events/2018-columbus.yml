@@ -7,13 +7,13 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "Columbus"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-09-19" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: "2018-09-20" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-09-19T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-09-20T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2018-05-11" # start accepting talk proposals.
-cfp_date_end: "2018-07-18" # close your call for proposals.
-cfp_date_announce: "2018-08-19" # inform proposers of status
+cfp_date_start: 2018-05-11T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2018-07-18T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-08-19T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayscolumbus2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -31,7 +31,7 @@ location: "The Bluestone" # Defaults to city, but you can make it the venue name
 location_address: "583 E Broad St, Columbus, OH 43215" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
     url: https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010
@@ -68,6 +68,8 @@ team_members: # Name is the only required field for team members.
     bio: "Renee’s been working in some part or another of IT for 27 years now.  She’s been a technical writer, a software instructor, a web application developer, a Remedy administrator, a business/system analyst, and a project manager – not necessarily in that order.  She’s fairly new to DevOps, but attending the 2016 DevOpsDays Ohio conference showed her that this is a culture she definitely wants to help promote and grow!"
     linkedin: "https://www.linkedin.com/in/reneeweldy"
   - name: "Sherry Stebens"
+    bio: "Sherry is an accomplished management professional positioned in the information technology field with a solid reputation as a strong leader. Proven ability to improve processes to gain efficiencies, drive for results and build solid relationships throughout all levels of an organization.  Strong leader with the ability to create and execute new and/or improved processes. Consistently practice and educate the use of Six Sigma techniques and Agile methodologies to problem solve and implement solutions for the betterment of an organization.
+    <br/><br/>Sherry has been a member of the DevOpsDays Columbus organizing committee since 2016."
   - name: "Warner Moore"
     bio: "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams.
     <br/><br/>As an international speaker, Warner has been invited to present to university students, technology professionals, and business leaders in a classroom setting as well as at conferences such as Startup Week, CloudDevelop, Path to Agility, InfoSec Summit, CodeMash, Security BSides, and DevOpsDays.
@@ -100,9 +102,16 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: cardinalsolutions
+    level: gold
+  - id: newrelic
+    level: gold
   - id: nationwide
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: elastic
+    level: silver
+  - id: netjets
+    level: bronze
   - id: arresteddevops
     level: community
   - id: stickermule
@@ -138,8 +147,8 @@ program:
 - title: "Opening Welcome"
   type: custom
   date: 2018-09-19
-  start_time: "9:15"
-  end_time: "9:00"
+  start_time: "9:00"
+  end_time: "9:15"
 
 - title: "tiffany-longworth"
   type: talk
@@ -147,7 +156,7 @@ program:
   start_time: "9:15"
   end_time: "9:45"
 
-- title: "simon-harrison"
+- title: "jim-shingler"
   type: talk
   date: 2018-09-19
   start_time: "9:55"
@@ -163,7 +172,7 @@ program:
   type: talk
   date: 2018-09-19
   start_time: "10:40"
-  end_time: "11:15"
+  end_time: "11:10"
 
 - title: "john-willis"
   type: talk
@@ -174,7 +183,7 @@ program:
 - title: "Break"
   type: custom
   date: 2018-09-19
-  start_time: "12:00"
+  start_time: "11:50"
   end_time: "12:00"
 
 - title: "Lunch"
@@ -207,11 +216,23 @@ program:
   start_time: "4:45"
   end_time: "5:00"
 
+- title: "After Party"
+  type: custom
+  date: 2018-09-19
+  start_time: "5:00"
+  end_time: "9:00"
+
 - title: "Registration and Breakfast" # Day 2 start
   type: custom
   date: 2018-09-20
   start_time: "8:00"
   end_time: "9:00"
+
+- title: "Prior Day Recap" # Day 2 start
+  type: custom
+  date: 2018-09-20
+  start_time: "9:00"
+  end_time: "9:15"
 
 - title: "angel-rivera"
   type: talk
@@ -259,18 +280,18 @@ program:
   type: open-space
   date: 2018-09-20
   start_time: "1:30"
-  end_time: "4:00"
+  end_time: "4:45"
 
 - title: "Close of Event"
   type: custom
   date: 2018-09-20
-  start_time: "4:00"
-  end_time: "4:30"
+  start_time: "4:45"
+  end_time: "5:00"
 
 ignites:
 - title: "laura-maguire-ignite"
   date: 2018-09-19
-- title: "asher-balkin"
+- title: "chris-short"
   date: 2018-09-19
 - title: "amy-bedinghaus"
   date: 2018-09-19
@@ -278,7 +299,7 @@ ignites:
   date: 2018-09-19
 - title: "tiffany-longworth-ignite"
   date: 2018-09-20
-- title: "chris-short"
+- title: "asher-balkin"
   date: 2018-09-20
 - title: "damian-synadinos"
   date: 2018-09-20

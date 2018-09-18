@@ -63,12 +63,16 @@ Estamos complacidos por su interés de participar como ponente en nuestro evento
 <br>
 <div class = "row">
   <div class = "col-md-2">
-    <!--<strong>Síganos / <i>Follow</i>:</strong>-->
+    <strong>Síganos / <i>Follow</i>:</strong>
   </div>
     <div class = "col-md-30">
-    {{< event_twitter >}}
+    <!--<a href="https://twitter.com/dodpanama">Twitter</a><br>-->
+    {{< event_twitter >}}<br>
+    <a href="https://speakerdeck.com/dodpanama/">Speakerdeck</a><br>
+    <a href="https://www.flickr.com/photos/dodpanama/albums">Flickr</a><br>
     </div>
 </div>  
+  
 
  
   

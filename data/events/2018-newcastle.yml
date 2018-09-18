@@ -5,23 +5,23 @@ event_twitter: "devopsdaysnewy" # Change this to the twitter handle for your eve
 description: "Devopsdays is coming to Newcastle! (Australia)" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-10-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-10-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-10-24T00:00:00+11:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-25T23:59:59+11:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-07-16 # start accepting talk proposals.
 cfp_date_end: 2018-08-20 # close your call for proposals.
 cfp_date_announce: 2018-08-15 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/2018-devopsdaysnewy" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-08-15 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-10-25 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://ti.to/devopsaustralia/devopsdays-newcastle-2018" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysnewy.org/#buy-tickets" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -83,6 +83,10 @@ proposal_email: "proposals-newcastle-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: rea-group
+    level: gold
+  - id: hays-australia
+    level: silver
   - id: assemblient
     level: bronze
   - id: 'cmd-solutions'

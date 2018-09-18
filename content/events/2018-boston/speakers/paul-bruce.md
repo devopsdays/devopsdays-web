@@ -1,7 +1,7 @@
 +++
 Title = "Paul Bruce"
 Twitter = "paulsbruce"
-
+image="paul-bruce.jpg"
 type = "speaker"
 website="http://paulsbruce.io/"
 +++

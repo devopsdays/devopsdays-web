@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Run Anywhere Mindset"
+Title = "The *Run Anywhere* Mindset"
 Type = "talk"
 Speakers = ["michael-mucciarone"]
-Youtube = ""
+Youtube = "DzxfNSV-ATY"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/the-run-anywhere-mindset"
 Slides = ""
 Website = "https://www.linkedin.com/in/michaelmucciarone/"
 +++

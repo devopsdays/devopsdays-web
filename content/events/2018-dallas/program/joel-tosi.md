@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Fostering the Third Way - Your DevOps Dojo"
 Type = "talk"
 Speakers = ["joel-tosi","jennifer-guerra"]
-Youtube = ""
+Youtube = "vW62q-dTJW8"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/fostering-the-third-way-your-devops-dojo"
 Slides = ""
 Website = "https://www.dojoandco.com/"
 +++

@@ -28,6 +28,11 @@ Description = "DevOpsDays Cape Town 2018 will take place September 20-21, 2018!"
               <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
             </a>
           </div>
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://instagram.com/devopsdayscpt">
+              <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram
+            </a>
+          </div>
         </div>
       </div>
     </div><!-- end a content element -->

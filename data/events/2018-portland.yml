@@ -5,14 +5,14 @@ event_twitter: "devopsdayspdx" # Change this to the twitter handle for your even
 description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-11 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-09-11T00:00:00-07:00
+enddate: 2018-09-13T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-02-15 # start accepting talk proposals.
-cfp_date_end: 2018-04-15 # close your call for proposals.
-cfp_date_announce: 2018-05-14 # inform proposers of status
+cfp_date_start: 2018-02-15T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-15T23:59:59-07:00 # close your call for proposals.
+cfp_date_announce: 2018-05-14T00:00:00-07:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://devopsdayspdx2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -125,10 +125,14 @@ sponsors:
     level: silver
   - id: cloudbees
     level: silver
+  - id: nginx
+    level: silver
   - id: bitnami
     level: bronze
   - id: waffleio
     level: specialty
+  - id: workday
+    level: evening
   - id: recompiler
     level: community
 
@@ -147,6 +151,8 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: evening
+    label: Evening Event
   - id: specialty
     label: Specialty
   - id: community
@@ -188,7 +194,7 @@ program:
     date: 2018-09-12
     start_time: "10:25"
     end_time: "10:40"
-  - title: "eric-shamow"
+  - title: "aaron-aldrich"
     type: talk
     date: 2018-09-12
     start_time: "10:40"
@@ -251,7 +257,7 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-09-12
-    start_time: "19:00"
+    start_time: "18:00"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -273,7 +279,7 @@ program:
     date: 2018-09-13
     start_time: "09:45"
     end_time: "09:55"
-  - title: "tbd"
+  - title: "eric-shamow"
     type: talk
     date: 2018-09-13
     start_time: "09:55"
@@ -349,11 +355,11 @@ ignites:
     date: 2018-09-12
   - title: "maarika-krumhansl"
     date: 2018-09-12
-  - title: "matthew-broberg"
+  - title: "heidi-waterhouse-ignite"
     date: 2018-09-12
-  - title: "david-laulusa"
-    date: 2018-09-12
-  - title: "aaron-aldrich"
+#  - title: "david-laulusa"
+#    date: 2018-09-12
+  - title: "aaron-aldrich-ignite"
     date: 2018-09-12
 
   - title: "patrick-obrien"

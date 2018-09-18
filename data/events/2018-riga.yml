@@ -9,19 +9,19 @@ ga_tracking_id: UA-105774008-1
 #The image, relative to static/events/YYYY-CITY that you want to be the background of the header on your page.
 masthead_background: "riga-cover-2018-medium.png"
 
-# All dates are in unquoted 2017-MM-DD, like this: variable: 2016-01-05
-startdate:  2018-09-27
-enddate:  2018-09-28
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate:  2018-09-27T00:00:00+03:00
+enddate: 2018-09-28T23:59:59+03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-03-07  # start accepting talk proposals.
-cfp_date_end: 2018-06-06  # close your call for proposals.
-cfp_date_announce: 2018-08-17 # inform proposers of status
+cfp_date_start: 2018-03-07T00:00:00+03:00  # start accepting talk proposals.
+cfp_date_end: 2018-06-06T23:59:59+03:00  # close your call for proposals.
+cfp_date_announce: 2018-08-17T00:00:00+03:00 # inform proposers of status
 #cfp_link: "https://www.papercall.io/devopsdays-riga-2018"
 
 # Registration dates
-#registration_date_start: YYYY-MM-DD
-#registration_date_end: YYYY-MM-DD
+#registration_date_start: YYYY-MM-DDTHH:MM:SS+TZ:TZ
+#registration_date_end: YYYY-MM-DDTHH:MM:SS+TZ:TZ
 #registration_closed: "false"
 #registration_link: ""
 
@@ -40,7 +40,8 @@ proposal_email: "organizers-riga-2018@devopsdays.org"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: workshop
   - name: program
-  - name: propose
+  - name: activities
+#  - name: propose
   - name: location
   - name: tickets
     url: http://tickets.devopsdays.lv/#/
@@ -53,7 +54,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   #platinum
-  - id: accenture-latvia
+  - id: accenture-latvia-2018
     level: platinum
   - id: cognizant
     level: platinum
@@ -78,6 +79,10 @@ sponsors:
   - id: devclub-lv
     level: friends
   - id: berlin-baltic-nordic-net
+    level: friends
+  - id: alldaydevops
+    level: friends
+  - id: devtraining
     level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

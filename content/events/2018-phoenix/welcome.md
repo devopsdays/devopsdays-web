@@ -10,7 +10,7 @@ Description = "devopsdays Phoenix 2018"
 <div class = "row">
   <div class = "col-md-3">
     <div style="float: left">
-      <img alt="DevOpsDays Phoenix 2017" src="/events/2017-phoenix/logo.png" style="max-width: 90%;padding: 0px 20px 20px 0px">
+      <img alt="DevOpsDays Phoenix 2018" src="/events/2018-phoenix/logo.png" style="max-width: 90%;padding: 0px 20px 20px 0px">
     </div>
   </div>
   <div class = "col-md-9">
@@ -19,7 +19,7 @@ Description = "devopsdays Phoenix 2018"
     <br>
     <p>DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, Specialists in Mobile, VR, AI, BI, etc…</p>
 
-    <p>Join at {{< event_location >}} where over 200 people will be participating in our first DevOpsDays Phoenix as we learn and share together.  <!-- We have a great set of {{< event_link page="schedule" text="talks" >}} and {{< event_link page="speakers" text="speakers" >}} lined up for you. --> </p>
+    <p>Join at {{< event_location >}} where over 200 people will be participating in our second DevOpsDays Phoenix as we learn and share together.  <!-- We have a great set of {{< event_link page="schedule" text="talks" >}} and {{< event_link page="speakers" text="speakers" >}} lined up for you. --> </p>
 
     <p><strong>Learning</strong></p>
 
@@ -86,12 +86,12 @@ Description = "devopsdays Phoenix 2018"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.papercall.io/devopsday-phoenix-2018">Propose a Talk!</a> 
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    The <a href="https://www.papercall.io/devopsday-phoenix-2018">CFP</a> for 2018 is closed. 
+    {{< event_link page="propose" text="2018 CFP" >}}
   </div>
 </div>
 -->
-<!--
+
  <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -100,7 +100,7 @@ Description = "devopsdays Phoenix 2018"
     View the {{< event_link page="program" text="program." >}}
   </div>
 </div> 
--->
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>

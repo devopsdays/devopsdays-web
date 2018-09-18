@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/devopsdays/devopsdays-web.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-web) [![Build status](https://ci.appveyor.com/api/projects/status/3lobrrssphdb20xd?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web)
-[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)](https://github.com/devopsdays/devopsdays-web/blob/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
+
 
 # devopsdays-web
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-web.svg)](https://greenkeeper.io/)
 This is the repo for managing [devopsdays.org](http://www.devopsdays.org).
 
 ## Managing event content

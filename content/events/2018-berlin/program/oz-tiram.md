@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Workshop: Secure Continuous Delivery in Kubernets Clusters"
 Type = "talk"
-Speakers = ["oz-tiram"]
+Speakers = ["oz-tiram","jonas-roeckl"]
 +++
 
 ## Workshop

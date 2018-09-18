@@ -1,7 +1,7 @@
 +++
 Title = "Yegor Bugayenko"
 Twitter = "yegor256"
-
+image="yegor-bugayenko.jpg"
 type = "speaker"
 website="https://www.yegor256.com/"
 +++
