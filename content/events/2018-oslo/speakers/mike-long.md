@@ -7,6 +7,6 @@ linktitle = "mike-long"
 
 +++
 
-MIT Sloan Management Review published an article in 2007 titled Avoiding the Alignment Trap in IT. What the researchers discovered is that organizations don’t become high performing by starting initiatives focused on aligning business and technology. Rather, only by improving delivery performance first was it possible to achieve IT Enabled Growth.
+CTO@Praqma, Devops/CI/CD/Cloud/Embedded
 
-This presentation shows why this is the case, what supporting evidence has accumulated in the last decade, and how to avoid the common traps that occur in digital transformations.
+Mike is a CTO at Praqma, a Continuous Delivery and Devops consulting company based in Scandinavia. He has extensive experience delivering software in various cultures and industries. He helps organize several community events and conferences, including CoDe Academy which teaches Continuous Delivery to university students. Mike is a trustee on the cyber-dojo foundation.

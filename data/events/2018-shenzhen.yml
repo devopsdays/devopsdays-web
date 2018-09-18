@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Shenzhen!" # Edit this to suit your prefer
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
-startdate: 2018-11-16T00:00:00+08:00
-enddate: 2018-11-17T23:59:59+08:00
+startdate: 2018-11-02T00:00:00+08:00
+enddate: 2018-11-03T23:59:59+08:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -17,23 +17,23 @@ cfp_date_announce:  # inform proposers of status
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-09-02 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-02 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "2018-11-02" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.bagevent.com/event/1797956" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hilton Shenzhen Futian" # Defaults to city, but you can make it the venue name.
+location: "Dayhello International Hotel" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: " NO.12 Bao tian 1st Road,Bao＇an District,Shenzhen Bao'an District Shenzhen 518102 China" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor

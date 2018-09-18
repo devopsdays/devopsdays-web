@@ -37,6 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: sponsor
+  - name: accessibility
   - name: contact
   - name: conduct
 # - name: example
@@ -101,6 +102,8 @@ sponsors:
   - id: engineerbetter
     level: silver
   - id: googlecloud
+    level: silver
+  - id: gov-digital
     level: silver
   - id: logz
     level: silver
@@ -219,6 +222,16 @@ program:
     date: 2018-09-20
     start_time: "14:05"
     end_time: "17:00"
+  - title: "Social Event"
+    type: custom
+    date: 2018-09-20
+    start_time: "17:00"
+    end_time: "19:00"
+  - title: "Evening Event at Skyloft"
+    type: custom
+    date: 2018-09-20
+    start_time: "19:00"
+    end_time: "23:00"
 
 # # day 2
   - title: "Breakfast"

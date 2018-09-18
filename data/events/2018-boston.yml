@@ -190,8 +190,8 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
-  # - id: ca
-  #   level: evening
+  - id: ca
+    level: alacarte
   - id: launch-darkly
     level: alacarte
   - id: genians
