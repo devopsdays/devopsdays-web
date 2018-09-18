@@ -237,8 +237,8 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: "KEYNOTE A SER DEFINIDO"
-    type: custom
+  - title: "regilberto-girao"
+    type: talk
     date: 2018-09-29
     comments: Keynote de encerramento
     start_time: "16:00"
