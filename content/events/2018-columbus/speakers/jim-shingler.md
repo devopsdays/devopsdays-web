@@ -1,7 +1,7 @@
 +++
 Title = "Jim Shingler"
 Twitter = ""
-image = ""
+image = "jim-shingler.png"
 type = "speaker"
 linktitle = "jim-shingler"
 
