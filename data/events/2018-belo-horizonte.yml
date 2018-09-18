@@ -198,7 +198,7 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
-## Palestras da tarde
+## Palestras da tarde - noite
   - title: "antonio-muniz"
     type: talk
     date: 2018-09-29
