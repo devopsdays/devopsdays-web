@@ -135,10 +135,16 @@ sponsor_levels:
 
 program:
   ## Periodo da Manha
-  - title: "Registro e abertura"
+  - title: "Credenciamento e registro"
     type: custom
     date: 2018-09-29
     start_time: "08:30"
+    end_time: "09:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2018-09-29
+    start_time: "09:00"
     end_time: "09:15"
 
   - title: "rafael-gomex"
