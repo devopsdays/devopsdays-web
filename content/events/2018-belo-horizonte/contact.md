@@ -10,6 +10,11 @@ Se desejar nos contactar, escreva-nos em: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+**Tambem, agradecimentos a**
+
+[Ana Cláudia Grossi](https://www.linkedin.com/in/ana-grossi-b8092019/)
+
+
 **Organizadores Core**
 
 {{< list_core >}}
