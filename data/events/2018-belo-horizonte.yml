@@ -106,6 +106,10 @@ sponsors:
     level: premium
   - id: estabilis
     level: premium
+  - id: dataminders
+    level: premium
+  - id: 4linux
+    level: educational
   - id: adaptnow
     level: educational
   - id: devopsbh
@@ -148,7 +152,7 @@ program:
   - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
     type: open-space
     date: 2018-09-29
-    start_time: "09:00"
+    start_time: "10:00"
     end_time: "12:00"
     comments: "Sessoes de no max. 20 minutos para cada talk"
 
@@ -194,7 +198,7 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
-## Palestras da tarde
+## Palestras da tarde - noite
   - title: "antonio-muniz"
     type: talk
     date: 2018-09-29
@@ -233,8 +237,8 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: "KEYNOTE A SER DEFINIDO"
-    type: custom
+  - title: "regilberto-girao"
+    type: talk
     date: 2018-09-29
     comments: Keynote de encerramento
     start_time: "16:00"
