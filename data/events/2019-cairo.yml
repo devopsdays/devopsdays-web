@@ -34,7 +34,7 @@ location_address: "Grand Nile Tower Hotel" #Optional - use the street address of
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: cairo
+  - name: local
 #  - name: registration
 #  - name: program
 #  - name: speakers
