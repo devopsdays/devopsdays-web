@@ -218,11 +218,11 @@ program:
   start_time: "4:45"
   end_time: "5:00"
 
-- title: "After Party"
+- title: "Happy Hour"
   type: custom
   date: 2018-09-19
   start_time: "5:00"
-  end_time: "9:00"
+  end_time: "7:00"
 
 - title: "Registration and Breakfast" # Day 2 start
   type: custom
