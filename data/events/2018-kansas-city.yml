@@ -38,6 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: justification
+    url: https://docs.google.com/document/d/1NNk5Y8ZIhjK7z1-vfAvSG0sBwY0RhOSG14o7pRBWG28/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
