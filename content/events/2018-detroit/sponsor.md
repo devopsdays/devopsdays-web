@@ -118,6 +118,7 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   </tr>
   <tr>
     <td></td>
-    <td style="text-align: right; color: #bbb;" colspan=4>Paypal payments include 3% service charge.<br/><a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a> for alternative payment information.</td>    
+    <td style="text-align: right; color: #bbb;" colspan=4>Paypal payments include 3% service charge.<br/><a href="mailto:organizers-detroit-2018@devopsdays.org?subject=DevOpsDays%20Detroit%202018%20Sponsorship">Email us</a> for alternative payment information.</td>
   </tr>
 </table>
+
