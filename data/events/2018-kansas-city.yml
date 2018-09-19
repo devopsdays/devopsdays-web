@@ -201,6 +201,8 @@ sponsors:
     level: premium
   - id: newrelic
     level: amenity
+  - id: kaizenops
+    level: amenity
   - id: infosec-conferences
     level: community
   - id: opensource
