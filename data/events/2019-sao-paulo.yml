@@ -1,6 +1,6 @@
 name: "2019-sao-paulo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
-city: "Sao Paulo" # The displayed city name of the event. Capitalize it.
+city: "São Paulo" # The displayed city name of the event. Capitalize it.
 event_twitter: "sp_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays está chegando em São Paulo!" # Edit this to suit your preferences
 ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
