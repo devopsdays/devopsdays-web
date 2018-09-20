@@ -73,8 +73,8 @@ team_members: # Name is the only required field for team members.
     - name: "Barry McCormick"
       employer: "Digital Harbor"
       image: "barry-mccormick.png"
-organizer_email: "organizers-salt-lake-city-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-salt-lake-city-2018@devopsdays.org"
+organizer_email: "organizers-salt-lake-city-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-salt-lake-city-2019@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
