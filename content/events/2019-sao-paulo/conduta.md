@@ -1,7 +1,7 @@
 +++
-Title = "Código de Contuda"
+Title = "Código de Conduta"
 Type = "event"
-Description = "Código de Contuda - devopsdays São Paulo 2019"
+Description = "Código de Conduta - devopsdays São Paulo 2019"
 +++
 
 ## Código de conduta
