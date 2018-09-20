@@ -1,7 +1,7 @@
 +++
 Title = "Damian Synadinos"
 Twitter = ""
-image = ""
+image = "damian-synadinos.png"
 type = "speaker"
 linktitle = "damian-synadinos"
 +++
