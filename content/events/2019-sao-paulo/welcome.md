@@ -14,7 +14,7 @@ Description = "devopsdays São Paulo 2019"
     <p style="font-size:large;">Location: TBD</p>-->
     <div style="padding-left: 10px">
       <p>O DevOpsDays virá para São Paulo em 2019!</p>
-      <p>Acabando com um hiato de aproximadamente 8 anos, teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
+      <p>Teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
     </div>
 </div>
 
