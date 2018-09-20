@@ -37,13 +37,13 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: local
-    url: /events/2019-sao-paulo/location
+    url: /events/2019-sao-paulo/local
     icon: "map-o"
   - name: contato
-    url: /events/2019-sao-paulo/contact
+    url: /events/2019-sao-paulo/contato
     icon: "envelope-o"
   - name: código de conduta
-    url: /events/2019-sao-paulo/conduct
+    url: /events/2019-sao-paulo/conduta
     icon: "handshake-o"
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
