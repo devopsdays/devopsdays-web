@@ -278,17 +278,29 @@ program:
   start_time: "1:00"
   end_time: "1:30"
 
-- title: "Open Spaces"
+- title: "Open Spaces Voting"
   type: open-space
   date: 2018-09-20
   start_time: "1:30"
-  end_time: "4:45"
+  end_time: "1:40"
+
+- title: "Ignite Karaoke"
+  type: open-space
+  date: 2018-09-20
+  start_time: "1:40"
+  end_time: "1:55"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2018-09-20
+  start_time: "2:00"
+  end_time: "3:45"
 
 - title: "Close of Event"
   type: custom
   date: 2018-09-20
-  start_time: "4:45"
-  end_time: "5:00"
+  start_time: "3:45"
+  end_time: "4:00"
 
 ignites:
 - title: "laura-maguire-ignite"
