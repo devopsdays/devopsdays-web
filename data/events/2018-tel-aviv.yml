@@ -107,8 +107,6 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
-  - id: atlassian
-    level: silver
   - id: yotpo
     level: tshirt
   - id: bigpanda
