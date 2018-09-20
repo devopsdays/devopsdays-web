@@ -17,7 +17,7 @@ Description = "DevOpsDays Cairo 2019"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
