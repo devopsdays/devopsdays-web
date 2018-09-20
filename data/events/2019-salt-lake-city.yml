@@ -7,7 +7,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate: 2019-05-14T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-05-15T6:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-15T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
