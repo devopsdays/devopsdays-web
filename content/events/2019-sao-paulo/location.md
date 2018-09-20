@@ -1,7 +1,7 @@
 +++
 Title = "Local"
 Type = "event"
-Description = "Location for Devopsdays São Paulo 2018"
+Description = "Local - Devopsdays São Paulo 2019"
 +++
 
 <p></p>
