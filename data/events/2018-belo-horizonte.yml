@@ -61,9 +61,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andrealmar/"
     # bio: ""
     image: "andre-almar.jpg"
-#   - name: "Ana Cláudia Grossi"
-#     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
-#     image: "ana-claudia-grossi.jpg"
+  - name: "Ana Cláudia Grossi"
+    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+    image: "ana-claudia-grossi.jpg"
     # bio: ""
   - name: "Daniel Reis"
     linkedin: "https://www.linkedin.com/in/danielreisp/"
@@ -107,6 +107,10 @@ sponsors:
   - id: estabilis
     level: premium
   - id: dataminders
+    level: premium
+  - id: knowledge21
+    level: premium
+  - id: bancointer
     level: premium
   - id: 4linux
     level: educational
