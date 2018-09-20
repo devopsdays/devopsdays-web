@@ -40,6 +40,7 @@ Description = "devopsdays São Paulo 2019"
   </div>
 </div>
 
+<!-- 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Ingressos</strong>
@@ -47,16 +48,17 @@ Description = "devopsdays São Paulo 2019"
   <div class = "col-md-8">
     {{< event_link page="registration" text="Obtenha seu ingresso!" >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Chamadas (CFP)</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="cfp" text="Proponha uma palestra!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -76,14 +78,14 @@ Description = "devopsdays São Paulo 2019"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Patrocínios</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Patrocine este evento!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
