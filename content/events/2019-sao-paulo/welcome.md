@@ -1,19 +1,19 @@
 +++
-Title = "devopsdays São Paulo 2018"
+Title = "devopsdays São Paulo 2019"
 Type = "welcome"
-aliases = ["/events/2018-sao-paulo"]
-Description = "devopsdays São Paulo 2018"
+aliases = ["/events/2019-sao-paulo"]
+Description = "devopsdays São Paulo 2019"
 +++
 
 <div>
-<h2>DevOpsDays São Paulo 2018</h2>
+<h2>DevOpsDays São Paulo 2019</h2>
 </div>
 
 <div>
     <!--<p style="font-size:large;">Date: TBD 2018</p>
     <p style="font-size:large;">Location: TBD</p>-->
     <div style="padding-left: 10px">
-      <p>O DevOpsDays virá para São Paulo em 2018!</p>
+      <p>O DevOpsDays virá para São Paulo em 2019!</p>
       <p>Acabando com um hiato de aproximadamente 8 anos, teremos de volta em São Paulo o DevOpsDays. Será uma ótima oportunidade de compartilhar conhecimento e histórias, de socializar, rever colegas, fazer novos amigos, aprender, ensinar e promover nossa grande e crescente comunidade.</p>
     </div>
 </div>
