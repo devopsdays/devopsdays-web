@@ -107,8 +107,6 @@ sponsors:
     level: silver
   - id: elastic
     level: silver
-  - id: atlassian
-    level: silver
   - id: yotpo
     level: tshirt
   - id: bigpanda
@@ -120,6 +118,8 @@ sponsors:
   - id: revdebug
     level: community
   - id: logzio
+    level: silver
+  - id: matrix-atlassian
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
