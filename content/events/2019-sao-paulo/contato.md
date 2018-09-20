@@ -1,7 +1,7 @@
 +++
 Title = "Contato"
 Type = "event"
-Description = "Contact information for Devopsdays São Paulo 2018"
+Description = "Contato - Devopsdays São Paulo 2019"
 +++
 
 Se você quiser entrar em contato conosco: {{< email_organizers >}}
