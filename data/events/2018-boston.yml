@@ -331,7 +331,12 @@ program:
     date: 2018-09-24
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Evening Event Nearby with Garima Sharma: Let’s play a real life Dungeon and Dragons"
+  - title: "Sponsored by CA: Special Evening Event, Banyon Bar + Refuge, 553 Tremont St (just a few doors west of the Cyclorama)"
+    type: custom
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
+  - title: "Also at the Banyon Bar: Garima Sharma: Let’s play a real life Dungeon and Dragons"
     type: custom
     date: 2018-09-24
     start_time: "17:30"
