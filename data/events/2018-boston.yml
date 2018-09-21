@@ -336,8 +336,8 @@ program:
     date: 2018-09-24
     start_time: "17:30"
     end_time: "21:00"
-  - title: "Also at the Banyon Bar: Garima Sharma: Let’s play a real life Dungeon and Dragons"
-    type: custom
+  - title: "garima-sharma"
+    type: talk
     date: 2018-09-24
     start_time: "17:30"
     end_time: "21:00"
