@@ -95,6 +95,7 @@ team_members: # Name is the only required field for team members.
   - name: "Adam Blackwell"
     employer: "MassMutual"
     bio: "Adam is a Site Reliability Engineer, he enjoys combining software and systems engineering to build and run large-scale fault-tolerant environments.  Before joining MassMutual, he was an Operations Engineer at Quantopian solving infrastructure and security problems in the financial space.  Adam studied Computer Science at Northeastern and enjoys spending time outside of the city in Maine.  When he’s not at his laptop he can be found skiing tall mountains or exploring far away oceans."
+    image: "adamblackwell.jpg"
 
 
   # Asst. organizers: TBD if we can separate out
@@ -331,8 +332,13 @@ program:
     date: 2018-09-24
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Evening Event Nearby with Garima Sharma: Let’s play a real life Dungeon and Dragons"
+  - title: "Sponsored by CA: Special Evening Event, Banyon Bar + Refuge, 553 Tremont St (just a few doors west of the Cyclorama)"
     type: custom
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
+  - title: "garima-sharma"
+    type: talk
     date: 2018-09-24
     start_time: "17:30"
     end_time: "21:00"

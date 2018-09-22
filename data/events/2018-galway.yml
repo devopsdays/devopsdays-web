@@ -171,6 +171,8 @@ sponsors:
     level: bronze
   - id: aspect
     level: silver
+  - id: avaya
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

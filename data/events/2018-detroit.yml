@@ -98,6 +98,12 @@ sponsors:
     level: silver
   - id: pluralsight
     level: silver
+  - id: russellvideo
+    level: AV
+  - id: autonomic
+    level: silver
+  - id: sonatype
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -114,6 +120,9 @@ sponsor_levels:
     max: 4
   - id: bronze
     label: Bronze
+  - id: AV
+    label: AV
+    max: 1
 
 
 

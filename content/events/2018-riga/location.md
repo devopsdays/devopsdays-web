@@ -30,15 +30,21 @@ Year = "2018"
 		<h2>Parking</h2>
 		<p>Hotel offers some free parking options near it's premises, however, these places are on first come, first serve basis, and are rather few, so it is a good idea to look for other options.</p>
 		<p>If you don't mind paying a few euros, it is possible to park your car within RISEBA/RTU parkin lot on Meža street 1a, check <a href="https://www.google.com/maps/dir//56.9445975,24.0809651/@56.9446232,24.077297,16z/data=!3m1!4b1!4m2!4m1!3e3">Google Maps</a>. Alternatively, you can also park your car in of the streets near Meža street for free.<p>
-	</div>
-	<div class="col-md-3">
 		<h2>Accommodations</h2>
 		<p>It is possible to reserve a room in the <a href="https://www.parkinn.com/hotel-valdemara-riga">Park Inn by Radisson Riga Valdemara</a>. City center is a few kilometers away from the hotel, however, there are other (cheaper) options nearby as well, for example, <a href="https://hotelbellevue.lv/en/contacts">Bellevue Park Hotel</a>.</p>
 	</div>
-	<div class="col-md-3">
+	<div class="col-md-6">
 		<h2>Taxi</h2>
-		<p>We recommend using the BalticTaxi cab company (Green taxis), who are this years official transport partners for DevOpsDays Riga. As such, for the days of the event, you can get 10% off, if you mention the password "DevOpsDays Riga".</p>
-		<p><strong>WARNING</strong>: Always check the prices of the cab, that are displayed on the passengers door. This does not apply to Baltic Taxi (or, for example, Taxify), however, a lot of third-party taxi providers may wish to charge double or triple the cost if you wish to get a taxi from Riga airport.</p>
+		<div class="row">
+		<div class="col-md-6">
+			<img src="baltic_taxi.jpg" width="100%">
+		</div>
+		<div class="col-md-6">
+			<p>We recommend using the BalticTaxi cab company (Green taxis), who are this years official transport partners for DevOpsDays Riga.</p> <h3>For the days of the event, you can get <strong>10% off</strong>, if you mention the password <strong>DevOpsDays</strong>. This offer is valid only if you book a taxi in advance by calling <strong><a href="tel:+37120008500">+371 20008500</a></strong></h3>
+			<p>Other trusted taxi providers are Taxify (via app) and RedCab</p>
+			<p><strong>WARNING</strong>: Always check the prices of the cab, that are displayed on the passengers door. This does not apply to Baltic Taxi (or, for example, Taxify), however, a lot of third-party taxi providers may wish to charge double or triple the cost if you wish to get a taxi from Riga airport.</p>
+		</div>
+	</div>
 	</div>
 </div>
 
@@ -85,7 +91,7 @@ Year = "2018"
 		<img src="2eur.jpg" width="100%">
 	</div>
 	<div class="col-md-2">
-		<h4>Buy ticket from the driver</h4>
+		<h4>Buy ticket in the bus</h4>
 		<img src="2eur-cont.jpg" width="100%">
 	</div>
 	<div class="col-md-2">
@@ -115,10 +121,16 @@ Year = "2018"
 <div class="row">
 	<div class="col-md-9">
 		<h3>How to get to the venue by public transport from the Riga center</h3>
-		<p>YThere are a lot of options how you can get to venue from the city center. Check out <a href="https://www.google.com/maps/dir/56.9469913,24.1200244/Park+Inn+by+Radisson+Riga+Valdemara,+Krogus+iela,+Zemgale+Suburb,+Riga">Google Maps</a>, and try to find the route best suited to your current location. Our recommendation would probably be to use the 1st or the 5th tram and get off at Kalnciema street, but there are other options available as well, for example, 9th trolleybus.</p>
+		<p>There are a lot of options how you can get to venue from the city center. Check out <a href="https://www.google.com/maps/dir/56.9469913,24.1200244/Park+Inn+by+Radisson+Riga+Valdemara,+Krogus+iela,+Zemgale+Suburb,+Riga">Google Maps</a>, and try to find the route best suited to your current location. Our recommendation would probably be to use the 1st or the 5th tram and get off at Kalnciema street, but there are other options available as well, for example, 9th trolleybus.</p>
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-md-9">
+		<h2>What to do and where to eat in Riga</h2>
+		<p>For this, we actually have a seperate page - you check out all the activities and places that DevOpsDays Riga organizers are recommending here in the <a href="https://www.devopsdays.org/events/2018-riga/location/">Activities</a> page</p>
+	</div>
+</div>
 
 </div>
 
