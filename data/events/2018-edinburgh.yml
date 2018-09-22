@@ -128,6 +128,3 @@ sponsor_levels:
     label: Bronze
   # - id: community
   #   label: Community
-  - id: diversity
-    label: Diversity
-    max: 3
