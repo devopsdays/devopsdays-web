@@ -102,6 +102,9 @@ sponsors:
   - id: hub728
     level: community
 
+  - id: omnescoin
+    level: community
+
   - id: elephant-coworking
     level: bronze
 
@@ -118,5 +121,7 @@ sponsor_levels:
     label: Prata
   - id: bronze
     label: Bronze
+  - id: safo
+    label: Safo
   - id: community
     label: Comunidade
