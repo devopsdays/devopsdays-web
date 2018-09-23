@@ -6,3 +6,4 @@ Title = "Simplifique a Gestão de Mudanças com DevOps"
 Type = "talk"
 Speakers = ["antonio-muniz"]
 +++
+
