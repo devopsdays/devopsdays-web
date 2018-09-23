@@ -57,7 +57,7 @@ Profissionais de tecnologia irão participar do evento. Esta é uma ótima oport
       </tr>
       <tr>
         <th scope="row">Inscrições para o evento</td>
-        <td><center>-</center></td>
+        <td><center>(preço especial)<a href="#1">1</a></sup></center></td>
         <td><center>1</center></td>
         <td><center>3</center></td>
         <td><center>5</center></td>
@@ -113,6 +113,6 @@ Profissionais de tecnologia irão participar do evento. Esta é uma ótima oport
   </table>
 </div>
 
-<p><small><a id="1">1</a>. Essa cota é válida apenas para empresas e iniciativas locais.</small></p>
+<p><small><a id="1">1</a>. Essa cota é válida apenas para empresas e iniciativas locais. O preço do ingresso para os patrocinadores será o mesmo valor do ingresso para estudantes com direito a até 3 ingressos (os nomes e emails das pessoas que serão contempladas com esses ingressos devem ser enviados a organização do evento para checagem na hora do credenciamento).</small></p>
 
 <p><small><a id="2">2</a>. Patrocinadores que irão apoiar e divulgar o evento na comunidade que representam.</small></p>
