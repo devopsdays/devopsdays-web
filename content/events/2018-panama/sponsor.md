@@ -5,23 +5,23 @@ type = "event"
 heading = "DevOpsDays Panama - Sponsor Info"
 +++
 
-<!-- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:none;}
 .tg td{font-size:14px;padding:5px 5px;border-style:solid;border-width:2px;border-color:#ffffff;overflow:hidden;word-break:normal;}
 .tg th{font-size:14px;font-weight:normal;padding:5px 5px;border-style:solid;border-color:#ffffff;border-width:2px;overflow:hidden;word-break:normal;}
-.tg .tg-y49x{background-color:#cb0000;color:#ffffff;vertical-align:top}
-.tg .tg-b44r{background-color:#cbcefb;vertical-align:top}
-.tg .tg-yzt1{background-color:#efefef;vertical-align:top}
-.tg .tg-mmvm{font-weight:bold;background-color:#cb0000;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-n100{background-color:#a0096b;vertical-align:top}
-.tg .tg-i9b1{background-color:#fe996b;vertical-align:top}
-.tg .tg-mtwr{background-color:#bbdaff;vertical-align:top}
-.tg .tg-c7c7{font-weight:bold;background-color:#cfcfcf}
-.tg .tg-h7od{background-color:#cb0000;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-.tg .tg-93t1{background-color:#68cbd0;vertical-align:top}
+.tg .tg-y49x{background-color:#cb0000;color:#ffffff;vertical-align:top;text-align:center;vertical-align:middle}
+.tg .tg-b44r{background-color:#cbcefb;vertical-align:top;text-align:center;vertical-align:middle}
+.tg .tg-yzt1{background-color:#efefef;vertical-align:top;vertical-align:middle}
+.tg .tg-mmvm{font-weight:bold;background-color:#cb0000;color:#ffffff;text-align:center;vertical-align:top;vertical-align:middle}
+.tg .tg-n100{background-color:#CCFFE5;vertical-align:top;text-align:center;vertical-align:middle}
+.tg .tg-i9b1{background-color:#fe996b;vertical-align:top;text-align:center;vertical-align:middle}
+.tg .tg-mtwr{background-color:#bbdaff;vertical-align:top;text-align:center;vertical-align:middle}
+.tg .tg-c7c7{font-weight:bold;background-color:#cfcfcf;text-align:center;vertical-align:middle}
+.tg .tg-h7od{background-color:#cb0000;color:#ffffff;text-align:center;vertical-align:middle}
+.tg .tg-yw4l{vertical-align:top;text-align:center}
+.tg .tg-93t1{background-color:#68cbd0;vertical-align:top;text-align:center}
 .tg .sold-out {text-decoration: line-through; color: #ccc; }
-</style> -->
+</style>
 
 <p>Apreciamos mucho a los patrocinadores que apoyan este evento abierto. Si usted está interesado en patrocinar, por favor envíenos un correo electrónico a [{{< email_organizers >}}].</p>
 
@@ -31,7 +31,6 @@ Los patrocinadores de nivel Oro y Platino se le asignará una mesa completa y lo
 
 Lo mejor que puede hacer es enviar ingenieros para interactuar con los expertos en DevOpsDays en sus propios términos.
 
-<br>
 <hr>
 
 <p><i>We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</i></p>
@@ -42,186 +41,179 @@ Gold and Platinum sponsors get a full table and Silver sponsors a shared table w
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.</i>
 <br>
-<br>
-<br>
 <hr/>
-Opciones y detalles de patrocinio /<i> Sponsorhip's options and details 
-<hr/>
-
-</br>
-
 <table class="tg">
   <tr>
-    <th class="tg-c7c7" rowspan="1">PAQUETES/PACKAGES</th>
-    <th class="tg-mmvm">BRONCE/BRONZE</th>
-    <th class="tg-mmvm">PLATA/SILVER</th>
-    <th class="tg-mmvm">ORO/GOLD<br></th>
-    <th class="tg-mmvm">PLATINO/PLATINUM<br></th>
+    <th class="tg-c7c7" rowspan="1">PACKAGES</th>
+    <th class="tg-mmvm">BRONZE</th>
+    <th class="tg-mmvm">SILVER</th>
+    <th class="tg-mmvm">GOLD<br></th>
+    <th class="tg-mmvm">PLATINUM<br></th>
   </tr>
   <tr>
-    <td class="tg-yzt1">Precio / <i>Pricing</i></td>
-    <td class="tg-mmvm">$ 1800</td>
-    <td class="tg-mmvm">$ 3200</td>
-    <td class="tg-mmvm">$ 5000</td>
-    <td class="tg-mmvm">$ 10000</td>
+    <td class="tg-yzt1">Pricing</td>
+    <td class="tg-n100">$ 1800</td>
+    <td class="tg-mtwr">$ 3200</td>
+    <td class="tg-b44r">$ 5000</td>
+    <td class="tg-i9b1">$ 10000</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Ticket de Conferencia / <i>Conference ticket</i></td>
+    <td class="tg-yzt1">Conference ticket</td>
     <td class="tg-n100">1</td>
     <td class="tg-mtwr">2</td>
     <td class="tg-b44r">3</td>
     <td class="tg-i9b1">6</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Mesa compartida / <i>Share Table</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Share Table</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-mtwr">X</td>
-    <td class="tg-b44r"></td>
-    <td class="tg-i9b1"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Mesa completa / <i>Full Table</i></td>
-    <td class="tg-n100"></td>
-    <td class="tg-mtwr"></td>
+    <td class="tg-yzt1">Full Table</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Selección de la ubicación de la mesa / <i>Choice of table location</i></td>
-    <td class="tg-n100"></td>
-    <td class="tg-mtwr"></td>
-    <td class="tg-b44r"></td>
+    <td class="tg-yzt1">Choice of table location</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en diapositiva compartida de las presentaciones y videos publicados / <i>Logo on shared slide in published slides and recorded video</i></td>
+    <td class="tg-yzt1">Logo on shared slide in published slides and recorded video</td>
     <td class="tg-n100">small</td>
     <td class="tg-mtwr">medium</td>
-    <td class="tg-b44r"></td>
-    <td class="tg-i9b1"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en diapositiva dedicada de las presentaciones y videos publicados / <i>Logo on dedicated slide in published slides and recorded video</i></td>
-    <td class="tg-n100"></td>
-    <td class="tg-mtwr"></td>
+    <td class="tg-yzt1">Logo on dedicated slide in published slides and recorded video</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
     <td class="tg-b44r">large</td>
     <td class="tg-i9b1">large</td>
   </tr>
   <tr>
-      <td class="tg-yzt1">1-minuto para hablar al público / <i>1-minute pitch to full audience</i></td>
-      <td class="tg-n100"></td>
+      <td class="tg-yzt1">1-minute pitch to full audience</td>
+      <td class="tg-yw4l"></td>
       <td class="tg-mtwr">X</td>
-      <td class="tg-b44r"></td>
-      <td class="tg-i9b1"></td>
+      <td class="tg-yw4l"></td>
+      <td class="tg-yw4l"></td>
   </tr>
   <tr>
-      <td class="tg-yzt1">5-minutos para hablar al público / <i>5-minute pitch to full audience</i></td>
-      <td class="tg-n100"></td>
-      <td class="tg-mtwr"></td>
+      <td class="tg-yzt1">5-minute pitch to full audience</td>
+      <td class="tg-yw4l"></td>
+      <td class="tg-yw4l"></td>
       <td class="tg-b44r">X</td>
       <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-      <td class="tg-yzt1">Demostración de producto (5min máximo) durante los Espacios Abiertos / <i>Demo a product (5min max) during Open Spaces</i></td>
-      <td class="tg-n100"></td>
-      <td class="tg-mtwr"></td>
-      <td class="tg-b44r"></td>
+      <td class="tg-yzt1">Demo a product (5min max) during Open Spaces</td>
+      <td class="tg-yw4l"></td>
+      <td class="tg-yw4l"></td>
+      <td class="tg-yw4l"></td>
       <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-      <td class="tg-yzt1">Logo en el sitio web y el salón de conferencias del evento / <i>Logo on event website and conference room</i></td>
-      <td class="tg-mtwr">X</td>
+      <td class="tg-yzt1">Logo on event website and conference room</td>
+      <td class="tg-n100">X</td>
       <td class="tg-mtwr">X</td>
       <td class="tg-b44r">X</td>
       <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-      <td class="tg-yzt1">Logo en diapositiva compartida, rotativa durante los intermedios / <i>Logo on shared slide, rotating during breaks</i></td>
+      <td class="tg-yzt1">Logo on shared slide, rotating during breaks</td>
       <td class="tg-n100">small</td>
       <td class="tg-mtwr">medium</td>
-      <td class="tg-b44r"></td>
-      <td class="tg-i9b1"></td>
+      <td class="tg-yw4l"></td>
+      <td class="tg-yw4l"></td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en diapositiva dedicada o video promocional, rotativo durante los intermedios / <i>Logo on its own slide or promo video, rotating during breaks</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Logo on its own slide or promo video, rotating during breaks</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">X</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Roll-up cercano al conferencista / <i>Roll-up next to the speakers</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Roll-up next to the speakers</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-i9b1">X</td>
-  </tr>
-  <tr>
-    <td class="tg-yzt1">Logo en la credencial / <i>Logo on the badge</i></td>
-    <td class="tg-n100"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Promoción en las redes sociales del evento / <i>Promotion on event's social networks</i></td>
+    <td class="tg-yzt1">Logo on the badge</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-i9b1">X</td>
+  </tr>
+  <tr>
+    <td class="tg-yzt1">Promotion on event's social networks</td>
     <td class="tg-n100">X</td>
     <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Incersión de Swag en módulo de acreditación / <i>Swag bag insert</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Swag bag insert</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Posibilidad de proveer premio para personas más activas en las <br>redes sociales del evento / <i>Possibility to provide prize to most active person in social<br>networks of the conference</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Possibility to provide prize to most active person in social<br>networks of the conference</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en todas las comunicaciones por email / <i>Logo on all email communication</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Logo on all email communication</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b44r">medium</td>
     <td class="tg-i9b1">large</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en las presentaciones de apertura y clausura del evento / <i>Logo on the presentation slides of the opening and closing event</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Logo on the presentation slides of the opening and closing event</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-b44r"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Roll-up de patrocinador en el registro / <i>Sponsor's roll-up in the registration</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Sponsor's roll-up in the registration</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b44r">1</td>
     <td class="tg-i9b1">2</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Ejecución de competencia o lotería / <i>Running a competition or lottery</i></td>
-    <td class="tg-n100"></td>
-    <td class="tg-yw4l">X</td>
+    <td class="tg-yzt1">Running a competition or lottery</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Acceso a cena con los conferencistas (en caso de efectuarse) / <i>Access to Dinner with speakers (if it happens)</i></td>
-    <td class="tg-n100"></td>
+    <td class="tg-yzt1">Access to Dinner with speakers (if it happens)</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Otras oportunidades  están disponibles a demanda / <i>Other opportunities available upon request</i></td>
-    <td class="tg-mtwr"></td>
+    <td class="tg-yzt1">Other opportunities available upon request</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
@@ -229,14 +221,9 @@ Opciones y detalles de patrocinio /<i> Sponsorhip's options and details
 
 </table>
 
-</br>
-
 *Adicionalmente está la modalidad de patrocinio "a la carta" para: pases a sesión GRATIS, TShirts, Lynards, libros, coffee breaks, cocktails, etc. Dejenos saber si esta interesado en patrocinar nuestro evento y trabajaremos en algo!
 <hr>
 <i>*Additional à la carte sponsorships are available for: FREE pass
 session, TShirts, Lynards, books, coffee breaks, cocktails, etc. Let us know if you’d like
 to support the event, and we’ll work something out!
 <i>
-
-Contacto /<i>Contact</i>: <p>[{{< email_organizers >}}]</p>
-
