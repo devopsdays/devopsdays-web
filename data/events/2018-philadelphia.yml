@@ -273,7 +273,7 @@ program:
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-10-24
     start_time: "13:00"
     end_time: "13:30"
@@ -314,3 +314,5 @@ ignites:
     date: 2018-10-23
   - title: "aaron-aldrich"
     date: 2018-10-23
+  - title: "matt-westgate"
+    date: 2018-10-24
