@@ -282,11 +282,6 @@ program:
     date: 2018-09-24
     start_time: "11:45"
     end_time: "12:45"
-  - title: "tim-hartmann"
-    type: workshop
-    date: 2018-09-24
-    start_time: "13:00"
-    end_time: "15:00"
   - title: "matt-surabian"
     type: talk
     date: 2018-09-24
@@ -322,6 +317,11 @@ program:
     date: 2018-09-24
     start_time: "14:30"
     end_time: "15:00"
+  - title: "tim-hartmann"
+    type: workshop
+    date: 2018-09-24
+    start_time: "15:00"
+    end_time: "17:00"
   - title: "angel-rivera"
     type: workshop
     date: 2018-09-24
@@ -403,11 +403,6 @@ program:
     date: 2018-09-25
     start_time: "11:45"
     end_time: "12:45"
-  - title: "mike-rothman"
-    type: workshop
-    date: 2018-09-25
-    start_time: "13:00"
-    end_time: "15:00"
   - title: "yegor-bugayenko"
     type: talk
     date: 2018-09-25
@@ -433,6 +428,11 @@ program:
     date: 2018-09-25
     start_time: "14:15"
     end_time: "14:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2018-09-25
+    start_time: "14:30"
+    end_time: "16:30"
   - title: "Day Two Wrap Up"
     type: custom
     date: 2018-09-25
