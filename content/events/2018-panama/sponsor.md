@@ -239,3 +239,4 @@ to support the event, and we’ll work something out!
 <i>
 
 Contacto /<i>Contact</i>: <p>[{{< email_organizers >}}]</p>
+
