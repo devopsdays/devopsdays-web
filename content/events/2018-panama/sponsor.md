@@ -101,7 +101,7 @@ Opciones y detalles de patrocinio /<i> Sponsorhip's options and details
     <td class="tg-i9b1"></td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en diapositiva dedicada de las presentaciones y videos publicados / </>Logo on dedicated slide in published slides and recorded video</i></td>
+    <td class="tg-yzt1">Logo en diapositiva dedicada de las presentaciones y videos publicados / <i>Logo on dedicated slide in published slides and recorded video</i></td>
     <td class="tg-n100"></td>
     <td class="tg-mtwr"></td>
     <td class="tg-b44r">large</td>
