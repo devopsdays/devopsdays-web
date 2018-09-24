@@ -94,7 +94,7 @@ Opciones y detalles de patrocinio /<i> Sponsorhip's options and details
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-    <td class="tg-yzt1">Logo en  diapositiva compartida de las presentaciones y videos publicados /<i> Logo on shared slide in published slides and recorded video</i></td>
+    <td class="tg-yzt1">Logo en diapositiva compartida de las presentaciones y videos publicados / <i>Logo on shared slide in published slides and recorded video</i></td>
     <td class="tg-n100">small</td>
     <td class="tg-mtwr">medium</td>
     <td class="tg-b44r"></td>
