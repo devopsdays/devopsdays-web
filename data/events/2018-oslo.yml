@@ -31,10 +31,10 @@ location: "Sentralen, Oslo" # Defaults to city, but you can make it the venue na
 location_address: "Sentralen, Øvre Slottsgate 3, 0157 Oslo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -82,8 +82,8 @@ proposal_email: "proposals-oslo-2018@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: chef
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
@@ -158,7 +158,7 @@ program:
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-10-29
     start_time: "13:00"
     end_time: "13:30"
@@ -243,7 +243,7 @@ program:
     start_time: "11:50"
     end_time: "13:00"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2018-10-30
     start_time: "13:00"
     end_time: "13:30"
@@ -272,3 +272,17 @@ program:
     date: 2018-10-30
     start_time: "16:00"
     end_time: "17:00"
+
+ignites:
+  - title: "daniel-maher"
+    date: 2018-10-29
+  - title: "gosia-krupa"
+    date: 2018-10-29
+  - title: "per-buer"
+    date: 2018-10-29
+  - title: "yihui-xu"
+    date: 2018-10-29
+  - title: "ken-mugrage"
+    date: 2018-10-30
+  - title: "sindre-lindstad"
+    date: 2018-10-29
