@@ -165,6 +165,9 @@ sponsors:
   - id: Mandic
     level: gold
     url: https://www.mandic.com.br/
+  - id: RedHat
+    level: gold
+    url: https://www.redhat.com/
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
