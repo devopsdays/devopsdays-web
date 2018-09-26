@@ -2,7 +2,7 @@ name: "2018-boston" # The name of the event. Four digit year with the city name 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
+description: "Devopsdays Boston 2018 was incredible. We hope you had a great time. We are getting started with planning for next year and look forward to seeing you again in Boston or at any of the other amazing DevOpsDays!" # Edit this to suit your preferences
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
 startdate: 2018-09-24T00:00:00-04:00
@@ -16,7 +16,7 @@ cfp_date_announce:  # inform proposers of status
 cfp_open: "false"
 cfp_link: ""
 
-registration_open: "true"
+registration_open: "false"
 registration_link: "https://www.eventbrite.com/e/devopsdays-boston-2018-tickets-44312573099"
 
 # Location
@@ -27,7 +27,6 @@ location: "The Cyclorama at Boston Center for the Arts" # Defaults to city, but 
 location_address: "539 Tremont St, Boston, MA 02116" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: registration
   - name: location
   - name: program
   - name: speakers
@@ -317,7 +316,7 @@ program:
     date: 2018-09-24
     start_time: "14:30"
     end_time: "15:00"
-  - title: "tim-hartmann"
+  - title: "tim-hartmann-steve-huff"
     type: workshop
     date: 2018-09-24
     start_time: "15:00"
