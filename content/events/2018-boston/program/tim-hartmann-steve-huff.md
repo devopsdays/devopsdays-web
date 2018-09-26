@@ -1,7 +1,7 @@
 +++
 Title = "Deploying Hashicorp Consul and Vault on AWS ECS"
 Type = "talk"
-Speakers = ["tim-hartmann"]
+Speakers = ["tim-hartmann", "steve-huff"]
 +++
 This talk is primarily directed at someone who would like to learn about how to get started using with Consul and Vault using opinionated Terraform modules to deploy ECS Tasks and Services. We also share our experience and code, and hopeful some entertaining stories about what we learned.
 
