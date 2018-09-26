@@ -96,6 +96,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: linode
+    level: gold
   - id: datadog
     level: silver
   - id: sonatype
