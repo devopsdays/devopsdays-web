@@ -162,6 +162,9 @@ sponsors:
   - id: 4devops
     level: community
     url: http://4devops.com.br/
+  - id: Mandic
+    level: gold
+    url: https://www.mandic.com.br/
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
