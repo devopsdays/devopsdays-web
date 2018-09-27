@@ -2,9 +2,9 @@
 Talk_date = "2018-20-10"
 Talk_start_time = "10:20"
 Talk_end_time = "10:45"
-Title = "E o Service Desk no mundo DevOps? Onde fica?"
+Title = "DevBlockOps: Devops em ambientes Blockchain"
 Type = "talk"
-Speakers = ["braier-alves"]
+Speakers = ["misael-santos"]
 +++
 
-A medida que mais empresas adotam as práticas de DevOps para melhorar o desempenho da infraestrutura fica a pergunta: Como mesclar isso com nossas atividades de gerenciamento de serviços de TI? Como o uso da cultura DevOps aumentou a produtividade de nossas equipes de Service Desk? Tópicos abordados: - Como se dava o gerenciamento de eventos e o impacto disso nos resultados com clientes; - Como se deu a introdução da cultura DevOps nas equipes; - Uso de ferramentas DevOps; - Como essas ferramentas automatizaram o serviço de atendimento aos clientes; - Como isso impactou nos resultados da equipe e como a equipe utiliza o tempo que antes era usado para “apagar incêndio”; - Exemplos reais do modo de trabalho de nossas soluções baseadas na cultura DevOps: * Identificação e resolução de problemas antes mesmo que o cliente percebesse (muitas vezes antes, até, que nossa equipe percebesse) * Comunicação com ChatOps entre nossos servers gerenciadores e equipes com uso de bots;
+A tecnologia de Blockchain traz consigo uma nova forma de pensar certos itens como: infraestrutura, segurança, distribuição de dados e distribuição de código. Afinal, teremos algum problema em gerenciar essa nova infraestrutura? Se a rede é de fato distribuída geograficamente entre organizações, como ficarão meus processos de publicação? Características como imutabilidade dos dados e dos chamados smart contracts são fatores que nos fazem pensar em mais rigor sobre o quê e quando devemos publicar algo em uma rede blockchain. A forma como iremos gerenciar novas versões do código irá mudar por conta disso? Teremos que nos preocupar em publicar novas versões do código em todos os nós de uma rede blockchain? Como podem ser realizados testes em uma rede blockchain e em seus smart contratcs sem que isso comprometa meu histórico de transações e meus dados? O quão fácil ou difícil pode ser eu tentar reproduzir ambientes completos de uma infraestrutura para blockchain para executar testes? Tudo que temos aprendido sobre a cultura devops (práticas, técnicas e ferramentas) são suficientes para lidar como este novo paradigma?
