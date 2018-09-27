@@ -151,7 +151,7 @@ program:
     date: 2018-10-23
     start_time: "09:45"
     end_time: "09:55"
-  - title: "mauricio-linhares"
+  - title: "garima-sharma"
     type: talk
     date: 2018-10-23
     start_time: "09:55"
@@ -242,7 +242,7 @@ program:
     date: 2018-10-24
     start_time: "09:45"
     end_time: "09:55"
-  - title: "garima-sharma"
+  - title: "mauricio-linhares"
     type: talk
     date: 2018-10-24
     start_time: "09:55"
