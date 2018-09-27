@@ -22,8 +22,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <table border=1 cellspacing=1>
   <tr>
     <th><center><b><u>Bronze</u></center></b></th>
-    <th><center><b><u>Silver</u>(sold out)</center></b></th>
-    <th><center><b><u>Gold</u>(sold out)</center></b></th>
+    <th><center><b><u>Silver</u></center></b></th>
+    <th><center><b><u>Gold</u></center></b></th>
   </tr>
 
   <tr>
@@ -35,6 +35,8 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
       </form>
     </td>
+    <td>Sold Out</td>
+    <td>Sold Out</td>
     <!-- <td>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
