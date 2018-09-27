@@ -110,6 +110,8 @@ sponsors:
     level: silver
   - id: ascensus
     level: bronze
+  - id: mongodb
+    level: bronze  
   - id: arresteddevops
     level: community
   - id: perfbytes
