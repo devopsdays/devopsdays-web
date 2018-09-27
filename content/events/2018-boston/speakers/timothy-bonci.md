@@ -1,10 +1,9 @@
 +++
 Title = "Timothy Bonci"
 Twitter = ""
-
+image = "timothy-bonci.jpg"
 type = "speaker"
 linktitle = ""
-image = ""
 +++
 
 * Jack-of-all-trades, which is different from full-stack.

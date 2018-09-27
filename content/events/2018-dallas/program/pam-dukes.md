@@ -5,13 +5,15 @@ Talk_end_time = ""
 Title = "Developing People and Building Great Teams"
 Type = "talk"
 Speakers = ["pam-dukes"]
-Youtube = ""
+Youtube = "EanDnBUbRtY"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/developing-people-and-building-great-teams"
 Slides = ""
 Website = "http://pamdukes.com/"
 +++
+
+##### TALK ABSTRACT
 
 Even though I am an Olympian and Stanford Graduate, I had become the Chief Minimizing Officer of my life. My recent breakthrough during Harada Training has changed my life and I want to share with you.
 

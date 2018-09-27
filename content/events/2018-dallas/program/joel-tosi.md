@@ -4,14 +4,16 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Fostering the Third Way - Your DevOps Dojo"
 Type = "talk"
-Speakers = ["joel-tosi"]
-Youtube = ""
+Speakers = ["joel-tosi","jennifer-guerra"]
+Youtube = "vW62q-dTJW8"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/fostering-the-third-way-your-devops-dojo"
 Slides = ""
 Website = "https://www.dojoandco.com/"
 +++
+
+##### TALK ABSTRACT
 
 In the DevOps Handbook, Gene Kim introduces the Third Way - The Technical Practices of Continual Learning. Enter the DevOps Dojo - an immersive environment where whole teams come together to learn and practice their skills while solving real business problems.
 

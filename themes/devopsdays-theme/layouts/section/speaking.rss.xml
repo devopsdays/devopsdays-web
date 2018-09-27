@@ -20,9 +20,9 @@
 <generator>Hugo -- gohugo.io</generator>
 {{- range sort $.Site.Data.events "startdate" -}}
   {{- if .startdate -}}
-    {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
+    {{- if ge (time .enddate) now -}}
       {{ if .cfp_date_end }}
-        {{ if ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) }}
+        {{ if ge (time .cfp_date_end) now }}
         <item>
           <title>devopsdays {{ .city }} {{ .year }}</title>
           <link>{{ (printf "events/%s" .name) | absURL }}</link>

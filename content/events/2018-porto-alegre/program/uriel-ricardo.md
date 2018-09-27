@@ -1,7 +1,7 @@
 +++
 Title = "Sharingan: Detectando Phishing"
 Type = "talk"
-Speakers = ["alexandre-stratikopoulos"]
+Speakers = ["uriel-ricardo"]
 +++
 
 O projeto Sharingan é resultado da necessidade de detectar de forma rápida e automática, possíveis Phishing's, permitindo a detecção antes mesmo da publicação do site malicioso. Partindo da análise de imagens contidas nos sites para ver se é um phishing de um banco ou até mesmo da Netflix.

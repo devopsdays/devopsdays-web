@@ -47,7 +47,7 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-denver-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-denver-2017@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: victorops
+  - id: victorops-before-20180823
     level: social
   - id: netapp
     level: gold

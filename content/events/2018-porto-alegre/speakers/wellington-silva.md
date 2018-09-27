@@ -2,7 +2,7 @@
 Title = "Wellington Figueira da Silva"
 Twitter = ""
 linkedin = ""
-image = "boina.jpeg"
+image = "wellington-silva.jpg"
 type = "speaker"
 linktitle = "wellington-silva"
 +++

@@ -5,19 +5,19 @@ event_twitter: "devopsdaysmsp" # Change this to the twitter handle for your even
 description: "devopsdays returned to Minneapolis for a fifth year!"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-07-12  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-07-13  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-07-12T00:00:00-05:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-07-13T23:59:59-05:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
-cfp_date_start: 2017-11-08
-cfp_date_end: 2018-04-08
-cfp_date_announce: 2018-05-06
+cfp_date_start: 2017-11-08T00:00:00-06:00
+cfp_date_end: 2018-04-08T23:59:59-05:00
+cfp_date_announce: 2018-05-06T00:00:00-05:00
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2017-11-08
-registration_date_end: 2018-07-06
+registration_date_start: 2017-11-08T00:00:00-06:00
+registration_date_end: 2018-07-06T23:59:59-05:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -108,7 +108,7 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: instana
     level: silver

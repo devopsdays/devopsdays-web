@@ -4,12 +4,12 @@ Type = "event"
 Description = "Contact information for devopsdays Belo Horizonte 2018"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Se desejar nos contactar, escreva-nos em: {{< email_organizers >}}
 
-**Our local team**
+**Nosso time local**
 
 {{< list_organizers >}}
 
-**The core devopsdays organizer group**
+**Organizadores Core**
 
 {{< list_core >}}

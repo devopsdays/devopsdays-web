@@ -2,21 +2,21 @@ name: "2018-boston" # The name of the event. Four digit year with the city name 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
+description: "Devopsdays Boston 2018 was incredible. We hope you had a great time. We are getting started with planning for next year and look forward to seeing you again in Boston or at any of the other amazing DevOpsDays!" # Edit this to suit your preferences
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-24  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-09-24T00:00:00-04:00
+enddate: 2018-09-25T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-04-02  # start accepting talk proposals.
-cfp_date_end: 2018-06-22 # close your call for proposals.
+cfp_date_start: 2018-04-02T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-06-22T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: ""
 
-registration_open: "true"
+registration_open: "false"
 registration_link: "https://www.eventbrite.com/e/devopsdays-boston-2018-tickets-44312573099"
 
 # Location
@@ -27,20 +27,11 @@ location: "The Cyclorama at Boston Center for the Arts" # Defaults to city, but 
 location_address: "539 Tremont St, Boston, MA 02116" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: "https://www.papercall.io/devopsdays-boston-2018"
-  #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-  - name: registration
   - name: location
-    icon: "pencil"
   - name: program
-    icon: "book"
-  # - name: speakers
-  #   icon: "microphone"
+  - name: speakers
   - name: contact
-    icon: "envelope-o"
   - name: conduct
-    icon: "handshake-o"
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -100,6 +91,12 @@ team_members: # Name is the only required field for team members.
     bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE 2675, daylights with the Neotys team as a Sr. Performance Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries around the world. You can learn more at: http://paulsbruce.io"
     website: "http://paulsbruce.io"
     image: "paulsbruce.jpg"
+  - name: "Adam Blackwell"
+    employer: "MassMutual"
+    bio: "Adam is a Site Reliability Engineer, he enjoys combining software and systems engineering to build and run large-scale fault-tolerant environments.  Before joining MassMutual, he was an Operations Engineer at Quantopian solving infrastructure and security problems in the financial space.  Adam studied Computer Science at Northeastern and enjoys spending time outside of the city in Maine.  When he’s not at his laptop he can be found skiing tall mountains or exploring far away oceans."
+    image: "adamblackwell.jpg"
+
+
   # Asst. organizers: TBD if we can separate out
 
   - name: "Dave Fredricks"
@@ -159,7 +156,7 @@ sponsors:
     level: platinum
   - id: rundeck
     level: gold
-  - id: cyberark-conjur
+  - id: cyberark
     level: platinum
   - id: slalom
     level: gold
@@ -171,44 +168,37 @@ sponsors:
     level: platinum
   - id: cloudbolt
     level: gold
-
-  # - id: treasuredata
-  #   level: gold
-  # - id: genians
-  #   level: gold
-  # - id: thoughtworks-gocd
-  #   level: platinum
-  # - id: digitalocean
-  #   level: platinum
-  # - id: ns1
-  #   level: platinum
-  # - id: hackernest-bos
-  #   level: community
-  # - id: questsoftware
-  #   level: gold
-  # - id: verizon
-  #   level: gold
-  # - id: nutanix
-  #   level: gold
-  # - id: mabl
-  #   level: gold
-  # - id: turbinelabs
-  #   level: gold
-  # - id: pivotal
-  #   level: gold
-  # - id: herzum
-  #   level: gold
-  # - id: victorops
-  #   level: platinum
-  # - id: influxdata
-  #   level: gold
-  # - id: pagerduty
-  #   level: gold
-  # - id: actblue
-  #   level: gold
-  # - id: veracode
-  #   level: gold
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+  - id: verizon
+    level: platinum
+  - id: newrelic
+    level: gold
+  - id: victorops
+    level: platinum
+  - id: valiantys
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: trinetx
+    level: platinum
+  - id: chaossearch
+    level: gold
+  - id: redgate
+    level: gold
+  - id: neotys
+    level: gold
+  - id: carbonblack
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: ca
+    level: alacarte
+  - id: launch-darkly
+    level: alacarte
+  - id: genians
+    level: alacarte
+  - id: arresteddevops
+    level: community
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -220,6 +210,11 @@ sponsor_levels:
 
   - id: gold
     label: Gold
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
+  
+  - id: community
+    label: Community
   
   # - id: community
   #   label: Community
@@ -241,6 +236,11 @@ program:
     date: 2018-09-24
     start_time: "09:30"
     end_time: "10:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "17:00"
   - title: "anton-gurov"
     type: talk
     date: 2018-09-24
@@ -281,22 +281,12 @@ program:
     date: 2018-09-24
     start_time: "11:45"
     end_time: "12:45"
-  - title: "Open Spaces Intro"
-    type: custom
-    date: 2018-09-24
-    start_time: "13:00"
-    end_time: "13:15"
-  - title: "tim-hartmann"
-    type: workshop
-    date: 2018-09-24
-    start_time: "13:00"
-    end_time: "15:00"
   - title: "matt-surabian"
     type: talk
     date: 2018-09-24
     start_time: "13:15"
     end_time: "13:45"
-  - title: "yulan-lin"
+  - title: "yulan-lin-neeraj-tandon"
     type: talk
     date: 2018-09-24
     start_time: "13:15"
@@ -326,26 +316,31 @@ program:
     date: 2018-09-24
     start_time: "14:30"
     end_time: "15:00"
-  - title: "angel-rivera"
+  - title: "tim-hartmann-steve-huff"
     type: workshop
     date: 2018-09-24
     start_time: "15:00"
     end_time: "17:00"
-  - title: "Open Spaces 1"
-    type: open-space
+  - title: "angel-rivera"
+    type: workshop
     date: 2018-09-24
     start_time: "15:00"
-    end_time: "16:00"
-  - title: "Open Spaces 2"
-    type: open-space
-    date: 2018-09-24
-    start_time: "16:00"
     end_time: "17:00"
   - title: "Day One Wrap Up"
     type: custom
     date: 2018-09-24
     start_time: "17:00"
     end_time: "17:15"
+  - title: "Sponsored by CA: Special Evening Event, Banyon Bar + Refuge, 553 Tremont St (just a few doors west of the Cyclorama)"
+    type: custom
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
+  - title: "garima-sharma"
+    type: talk
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
   
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -357,6 +352,11 @@ program:
     date: 2018-09-25
     start_time: "09:00"
     end_time: "09:30"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "17:00"
   - title: "james-meickle"
     type: talk
     date: 2018-09-25
@@ -392,7 +392,7 @@ program:
     date: 2018-09-25
     start_time: "11:15"
     end_time: "11:45"
-  - title: "paul-bruce"
+  - title: "matty-stratton"
     type: talk
     date: 2018-09-25
     start_time: "11:15"
@@ -402,11 +402,6 @@ program:
     date: 2018-09-25
     start_time: "11:45"
     end_time: "12:45"
-  - title: "mike-rothman"
-    type: workshop
-    date: 2018-09-25
-    start_time: "13:00"
-    end_time: "15:00"
   - title: "yegor-bugayenko"
     type: talk
     date: 2018-09-25
@@ -417,7 +412,7 @@ program:
     date: 2018-09-25
     start_time: "13:15"
     end_time: "13:45"
-  - title: "matty-stratton"
+  - title: "paul-bruce"
     type: talk
     date: 2018-09-25
     start_time: "13:45"
@@ -432,31 +427,11 @@ program:
     date: 2018-09-25
     start_time: "14:15"
     end_time: "14:30"
-  - title: "speakera12"
-    type: talk
-    date: 2018-09-25
-    start_time: "14:30"
-    end_time: "15:00"
-  - title: "leena-s-n"
-    type: talk
-    date: 2018-09-25
-    start_time: "14:30"
-    end_time: "15:00"
-  - title: "garima-sharma"
+  - title: "mike-rothman"
     type: workshop
     date: 2018-09-25
-    start_time: "15:00"
-    end_time: "17:00"
-  - title: "Open Spaces 3"
-    type: open-space
-    date: 2018-09-25
-    start_time: "15:00"
-    end_time: "16:00"
-  - title: "Open Spaces 4"
-    type: open-space
-    date: 2018-09-25
-    start_time: "16:00"
-    end_time: "17:00"
+    start_time: "14:30"
+    end_time: "16:30"
   - title: "Day Two Wrap Up"
     type: custom
     date: 2018-09-25

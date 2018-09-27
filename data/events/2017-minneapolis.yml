@@ -80,7 +80,7 @@ sponsors:
     level: community
   - id: saucelabs
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: platinum
   - id: chef
     level: silver

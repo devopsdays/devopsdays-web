@@ -65,7 +65,7 @@ sponsors:
     level: gold
   - id: saltstack
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: chef
     level: gold

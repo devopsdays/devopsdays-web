@@ -18,7 +18,7 @@ Description = "DevOpsDays Cairo 2018"
 <p>About DevOpsDays:</p>
 <p>DevOpsDays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area.</p>
 
-<p>Registration to attend the event will be opening soon. We are currently at the stage of <a href="https://www.papercall.io/devopsdays-cairo">Call for Proposals and Participation</a> to talk at the conference, as well as accepting <a href="https://www.devopsdays.org/events/2018-cairo/sponsor/">sponsorships</a>.</p>
+<p>The event is for FREE – <a href="http://www.secc.org.eg/Event_Registration.asp/">REGISTER NOW here</a>.</p>
 <p>Please stay tuned for more information about DevOpsDays Cairo 2018.</p>
   
 </div>
@@ -50,14 +50,14 @@ Description = "DevOpsDays Cairo 2018"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

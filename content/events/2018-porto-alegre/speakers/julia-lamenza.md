@@ -2,7 +2,7 @@
 Title = "Julia Lamenza"
 Twitter = ""
 linkedin = "" 
-image = "julia_lamenza.jpeg"
+image = "julia-lamenza.jpg"
 type = "speaker"
 linktitle = "julia-lamenza"
 +++

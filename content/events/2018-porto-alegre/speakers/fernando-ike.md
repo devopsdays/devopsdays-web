@@ -2,7 +2,7 @@
 Title = "Fernando Ike (fike)"
 Twitter = "fernandoike"
 linkedin = "" 
-image = "fike.jpeg"
+image = "fernando-ike.jpg"
 type = "speaker"
 linktitle = "fernando-ike"
 +++

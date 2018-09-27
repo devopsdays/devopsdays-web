@@ -2,16 +2,18 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Hidden Costs of Chasing the Mythical 'Five Nines' "
+Title = "Hidden Costs of Chasing the Mythical 'Five Nines' "
 Type = "talk"
 Speakers = ["steve-fox"]
-Youtube = ""
+Youtube = "hlpxTSjwnHU"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/hidden-costs-of-chasing-the-mythical-five-nines"
 Slides = ""
 Website = "http://autoscalr.com/blog/"
 +++
+
+##### TALK ABSTRACT
 
 “Five Nines” refers to the five nines in 99.999% available that is often synonymous with highly available. Does every highly available service require five nines? Not by a long shot. Yet the general state of the practice is to chase after this typically unrealistic goal almost blindly in many cases, often leading to unnecessarily high costs in both operational and development resources. Even less aggressive availability goals are often over-specified compared to true business drivers.
 

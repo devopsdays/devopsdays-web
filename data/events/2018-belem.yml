@@ -2,7 +2,7 @@ name: "2018-belem" # The name of the event. Four digit year with the city name i
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Belém" # The displayed city name of the event. Capitalize it.
 event_twitter: "tasafo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Pela primeira vez no Belém - DevOpsDays!" # Edit this to suit your preferences
+description: "Pela primeira vez na Região Norte do Brasil, em Belém do Pará - DevOpsDays!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -31,12 +31,12 @@ location_address: "Elephant Coworking - Av. Governador José Malcher, 153, Redut
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Local
     url: /events/2018-belem/local
-#  - name: Palestre (CFP)
-#    url:
-#  - name: Inscreva-se
-#    url:
-#  - name: Programação
-#    url:
+  - name: Palestre (CFP)
+    url: https://www.papercall.io/devopsdaysbelem
+  - name: Inscreva-se
+    url: https://www.eventbrite.com.br/e/devopsdays-belem-tickets-49644894215
+  #  - name: Programação
+  #    url:
   - name: Patrocínio
     url: /events/2018-belem/patrocinio
   - name: Código de Conduta
@@ -102,6 +102,9 @@ sponsors:
   - id: hub728
     level: community
 
+  - id: omnescoin
+    level: community
+
   - id: elephant-coworking
     level: bronze
 
@@ -118,5 +121,7 @@ sponsor_levels:
     label: Prata
   - id: bronze
     label: Bronze
+  - id: safo
+    label: Safo
   - id: community
     label: Comunidade

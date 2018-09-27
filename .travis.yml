@@ -13,7 +13,6 @@ before_install:
 before_script:
 - npm install -g gulp
 - npm install
-- cd public
 
 script:
   - ls

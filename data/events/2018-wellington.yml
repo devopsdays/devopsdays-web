@@ -7,13 +7,13 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "New Zealand"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-11-05 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-11-06 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-11-05T00:00:00+13:00
+enddate: 2018-11-06T23:59:59+13:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-06-16 # start accepting talk proposals.
-cfp_date_end: 2018-08-03 # close your call for proposals.
-cfp_date_announce: 2018-08-20  # inform proposers of status
+cfp_date_start: 2018-06-16T00:00:00+12:00 # start accepting talk proposals.
+cfp_date_end: 2018-08-03T23:59:59+12:00 # close your call for proposals.
+cfp_date_announce: 2018-08-20T00:00:00+12:00  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -73,7 +73,7 @@ team_members: # Name is the only required field for team members.
   - name: "Adriano Bastos"
     twitter: "aaobastos"
   - name: "Judy Marcelo"
-    twitter: "h3yitsjudy"
+    twitter: "arthriticcoder"
   - name: "Raf Gemmail"
     twitter: "fiqus"
   - name: "Peter Sellars"
@@ -91,16 +91,24 @@ sponsors:
     level: platinum
   - id: assurity
     level: gold
+  - id: datacom
+    level: gold
   - id: integrationqa
     level: gold
   - id: 2016-pushpay
     level: gold
-  - id: 2016-oss
+  - id: oss
     level: gold
+  - id: SECTION6
+    level: gold
+  - id: anz
+    level: silver
   - id: flux
     level: silver
   - id: microsoftnzazure
     level: silver
+  - id: infoq
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -116,4 +124,6 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: media
+    label: Media
 

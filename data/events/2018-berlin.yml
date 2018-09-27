@@ -6,13 +6,13 @@ description: "DevOpsDays is returning to Berlin, Germany!" # Edit this to suit y
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-09-12T00:00:00+02:00
+enddate: 2018-09-13T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-05-01  # start accepting talk proposals.
-cfp_date_end:  2018-06-30 # close your call for proposals.
-cfp_date_announce: 2018-07-15 # inform proposers of status
+cfp_date_start: 2018-05-01T00:00:00+02:00  # start accepting talk proposals.
+cfp_date_end:  2018-06-30T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2018-07-15T00:00:00+02:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -84,6 +84,10 @@ sponsors:
     level: partner
   - id: admin-magazine
     level: partner
+  - id: osb-alliance
+    level: partner
+  - id: 2016-norisnetwork
+    level: eveningevent
   - id: stackstate
     level: platinum
   - id: pivotal
@@ -92,7 +96,15 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
+  - id: questsoftware
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: burdaforward
+    level: gold
   - id: nubank_de
+    level: silver
+  - id: delivery-hero
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -199,7 +211,7 @@ program:
     type: talk
     date: 2018-09-12
     start_time: "16:00"
-    end_time: "16:45"    
+    end_time: "16:45"
   - title: "Close Day"
     type: custom
     date: 2018-09-12
@@ -210,6 +222,7 @@ program:
     date: 2018-09-12
     start_time: "19:00"
     end_time: "late"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-09-13
@@ -235,7 +248,7 @@ program:
     date: 2018-09-13
     start_time: "10:10"
     end_time: "10:40"
-  - title: "serhat-can"
+  - title: "ken-mugrage"
     type: talk
     date: 2018-09-13
     start_time: "10:40"
@@ -284,7 +297,7 @@ program:
     type: talk
     date: 2018-09-13
     start_time: "15:00"
-    end_time: "15:45"     
+    end_time: "15:45"
   - title: "Open Space #3"
     type: open-space
     date: 2018-09-13
@@ -294,7 +307,7 @@ program:
     type: talk
     date: 2018-09-13
     start_time: "16:00"
-    end_time: "16:45"    
+    end_time: "16:45"
   - title: "Some closing words and saying good-bye"
     type: custom
     date: 2018-09-13

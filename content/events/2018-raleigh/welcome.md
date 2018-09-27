@@ -37,7 +37,7 @@ Description = "devopsdays Raleigh 2018"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    <a href="https://www.eventbrite.com/e/devopsdays-raleigh-2018-tickets-42510017607">Register to attend the conference!</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ Description = "devopsdays Raleigh 2018"
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://devopsdaysraleigh2018.busyconf.com/schedule">program.</a>
   </div>
 </div>
 

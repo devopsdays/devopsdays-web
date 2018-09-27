@@ -55,7 +55,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: veritas
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: ca_tech
     level: gold

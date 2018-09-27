@@ -5,16 +5,16 @@ event_twitter: "poadevopsday" # Change this to the twitter handle for your event
 description: "a vida é muito curta pra trabalho manual"
 ga_tracking_id: "UA-85374985-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-09-15"
-enddate: "2018-09-15"
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00#
+startdate: 2018-09-15T00:00:00-03:00
+enddate: 2018-09-15T23:59:59-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2018-04-07"
-cfp_date_end: "2018-07-15"
-cfp_date_announce: "2018-08-01"
-  
-cfp_open: "true"
+cfp_date_start: 2018-04-07T00:00:00-03:00
+cfp_date_end: 2018-07-15T23:59:59-03:00
+cfp_date_announce: 2018-08-01T00:00:00-03:00
+
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdayspoa2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start:
@@ -46,9 +46,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Local
     icon: "map-o"
     url: /events/2018-porto-alegre/location
-  - name: Palestre (CFP)
-    icon: "microphone"
-    url: /events/2018-porto-alegre/cfp
+#  - name: Palestre (CFP)
+#    icon: "microphone"
+#    url: /events/2018-porto-alegre/cfp
   - name: Conduta
     icon: "handshake-o"
     url: /events/2018-porto-alegre/conduta
@@ -69,6 +69,7 @@ team_members: # Name is the only required field for team members.
     employer: ""
     twitter: "somatorio"
     bio: ""
+    image: "marco-junior.jpg"
 
   - name: "Cristiano Diedrich"
     employer: ""
@@ -78,7 +79,9 @@ team_members: # Name is the only required field for team members.
   - name: "Rafael Gomes"
     employer: ""
     twitter: "gomex"
-    bio: "Soteropolitano, hacker urbano, pai, consultor de infraestrutura e amante da cidade, formado na Universidade de Salvador no curso de Gestão de Redes.</br>Trabalho atualmente como especialista focado em infraestrutura como código, cultura devops e cloud.</br>Docker Captain: https://www.docker.com/community/docker-captains</br>Autor do livro \"Docker para desenvolvedores\": https://leanpub.com/dockerparadesenvolvedores"
+    bio: "Soteropolitano, hacker urbano, pai, consultor de infraestrutura e amante da cidade, formado na Universidade de Salvador no curso de Gestão de Redes.</br>Trabalho atualmente como especialista focado em infraestrutura como código, cultura devops e cloud.</br>[Docker Captain](https://www.docker.com/community/docker-captains)</br>Autor do livro [\"Docker para desenvolvedores\"](https://leanpub.com/dockerparadesenvolvedores)"
+    image: "rafael-gomes.jpg"
+
   - name: "Guilherme Elias"
     employer: ""
     twitter: "guilhermelias"
@@ -122,6 +125,14 @@ sponsors:
     level: community
   - id: neogrid
     level: silver
+  - id: thoughtworks-services
+    level: silver
+  - id: adp
+    level: silver
+  - id: linuxforall
+    level: community
+  - id: arqti
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

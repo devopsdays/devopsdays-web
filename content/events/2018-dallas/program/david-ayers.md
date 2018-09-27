@@ -8,10 +8,12 @@ Speakers = ["david-ayers"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/get-committed"
 Slides = ""
 Website = "http://autoscalr.com/blog/"
 +++
+
+##### IGNITE TALK ABSTRACT
 
 Most of us use some sort of version control system; if you’re doing devops-y stuff, it’s likely you are using git. Using these follows a familiar pattern: You do some work, commit the work, and push it to a remote repository, perhaps creating a Pull Request or Merge Request for review.
 

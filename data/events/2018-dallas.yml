@@ -6,13 +6,13 @@ description: "The same group of organizers that brought you DevOpsDays DFW 2 yea
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-08-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-08-31 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-08-29T00:00:00-05:00
+enddate: 2018-08-31T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-06-10 # start accepting talk proposals.
-cfp_date_end: 2018-07-29  # close your call for proposals.
-cfp_date_announce: 2018-08-05 # inform proposers of status
+cfp_date_start: 2018-06-10T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-07-29T23:59:59-05:00  # close your call for proposals.
+cfp_date_announce: 2018-08-05T00:00:00-05:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -34,21 +34,12 @@ location_address: "8036 Dominion Pkwy, Plano, TX 75024"
 #
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-    icon: "map-o"
-  - name: propose
-    icon: "paper-plane"
-  - name: registration
-    icon: "pencil"
   - name: program
-    icon: "calendar-alt"
   - name: speakers
-    icon: bullhorn
+  - name: registration
   - name: sponsor
-    icon: "hand-holding-usd"
   - name: contact
-    icon: "envelope-o"
   - name: conduct
-    icon: "handshake-o"
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -79,16 +70,16 @@ team_members: # Name is the only required field for team members.
     image: "mark.jpg"
   - name: "Lee Herrin"
     employer: "Organizer Role - Leadership / Corporate Outreach / Marketing / Social Media"
-    role: "Six Sents"
-    bio: "Lee Herrin is acting Marketing Organizer for DevOpsDays DFW. <br><br>Lee is an experienced technologist with a passion for solving problems. Whether technical, logistical, organizational - in every endeavor, Lee brings with him a high-level of integrity and an effective leadership style. His experience spans multiple disciplines including Employee Engagement, Distribution, IT Solutions Architecture, Virtual and Physical IT Infrastructure, and Cyber-security. <br><br>Lee is a volunteer for DevOpsDays DFW as a result of his passionate interest in DevOps (and DevSecOps) and the associated community of talented professionals. <br><br>Lee works with Six Sents - A machine learning predictive analytics and workforce intelligence platform as an Advisor for Partner and Channel Development. <br><br>Lee also volunteers his time acting as Prayer Team Chair for the DFW Technology Prayer Breakfast - a local faith-based nonprofit."
+    role: "Ancilla LLC"
+    bio: "Lee is an experienced technologist with a passion for solving problems. Whether technical, logistical, organizational - in every endeavor, Lee brings with him a high-level of integrity and an effective leadership style. His experience spans multiple disciplines including Employee Engagement, Distribution, IT Solutions Architecture, Virtual and Physical IT Infrastructure, and Cyber-security.<br><br>Lee is a volunteer for DevOpsDays DFW as a result of his passionate interest in DevOps (and DevSecOps) and the associated community of talented professionals.<br><br>Lee works with Ancilla LLC - As a Consultant and Project Director. Ancilla LLC provides consulting services for Cloud, CyberSecurity, Application Security and Organizational Excellence. Providing Organizations with Proven, Documented & Published Outcomes.<br><br>Lee also volunteers his time acting as Prayer Team Chair for the DFW Technology Prayer Breakfast - a local faith-based nonprofit."
     twitter: "TechnologicaLee"
     linkedin: "https://www.linkedin.com/in/wtleeherrin/"
 #   facebook: ""
-    website: "http://www.sixsents.com/"
+    website: "http://www.ancilla.io/"
 #   github: ""
     image: "lee.jpg"
   - name: "Mark Andersen"
-    employer: "Organizer Role - Leadership"
+    employer: "Organizer Role - Leadership / Venue Liaison"
     role: "Capital One"
     bio: "Mark loves DevOps and the cloud and has spend the last 2 years with Capital One going all in on DevOps and the Cloud. Mark leads DevOps for Capital One Auto Finance and is the Cloud Lead for public cloud accounts in Plano. Previously Mark has spent 14 years at Southwest Airlines in various software development and leadership roles."
     twitter: "mandersen94"
@@ -160,7 +151,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jessica Clark"
     role: "Capital One"
     employer: "Organizer Role - Sponsor Coordinator / Fundraising"
-    bio: ""
+    bio: "Jessica is currently a Scrum Master and Cloud Governance lead at Capital One Auto Finance, where she has spent the past 8 years holding various roles in the technology organization. This is her first year as an organizer for DevOpsDays Dallas."
     twitter: ""
     linkedin: "https://www.linkedin.com/in/jessica-clark-7248526/"
 #   facebook:
@@ -169,17 +160,17 @@ team_members: # Name is the only required field for team members.
     image: "jessica.jpg"
   - name: "Roger Servey"
     role: "Verizon"
-    employer: "Organizer Role - Leadershiop Summit"
-    bio: ""
+    employer: "Organizer Role - Leadership Summit"
+    bio: "Roger is a 20+ year International  IT Leader experienced with Software delivery for systems delivering multi billion dollar impacts to their Enterprises.  Roger currently leads Verizon's Engineering Practice Transformation Centers - DOJOs - Across the United States, where teams enter to learn new Agile Practices, DevOps Automantions and Cloud Technologies which speed time to value realization, drive efficiency and improve quality.<br><br>Focus Areas for Roger include: DevOps, Agile Development, Continuous Delivery, Lean Development, Software architecture and design, Pricing theory, Product Lifecycle Management, Onshore, Near Shore and Offshore project development (US, LATAM, EMEA, APAC) and Pricing Analytics.<br><br>Roger holds his Bachelors Degree from Southern Methodist University and is a continuous learner.  A Practitioner of constraint management and evangelist for DevOps measurement, speaking at OS Con 2018 and GLUCON 2018 on <strong><i>DevOps Measurement and Enter-Sourcing with Hygieia. That which is measured, improves!</i></strong>. "
     twitter: ""
     linkedin: ""
 #   facebook:
 #   website:
 #   github:
-    image: ""
+    image: "roger.jpg"
   - name: "Charles Humphrey"
     role: ""
-    employer: "Organizer Role - "
+    employer: "Organizer Role - Backup Leadership Summit"
     bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
 <br><br>
 Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
@@ -211,9 +202,9 @@ As a recognized leader in the DevOps space with exemplary recommendations in the
     github: "mikerostx"
     image: "mike.jpg"
   - name: "Ramesh Venkataramiah"
-    employer: "Organizer Role - "
+    employer: "Organizer Role - CFP Organizing Committee / Backup Sponsor Liaison"
     role: "karmaPond"
-#    bio: ""
+    bio: "Ramesh is a technology expert with over 20 years of experience and demonstrated ability to architect and build differentiating capabilities, solve complex problems, and lead distributed teams towards shared strategic goals. Recently he is primarily focused on developing data products in data science area with specific emphasis on security/privacy and Predictive Modeling with Machine Learning/AI Tools.   Previously, he served as an Enterprise Architect, with multiple roles in Engineering and Product Development throughout matrix organizations, shared services, and collaborative teams among business units.<br><br>He has provided Hadoop/Spark technology advice to Microsoft Azure, Amazon AWS, T-Systems and Fujitsu networks (private cloud) to implement data science/analytics platforms and implemented Cloudera Hadoop platforms and applications on partner infrastructure by employing devops automation tools and services. As partner development architect, he developed reference architectures for deployment and implementation of Hadoop ecosystem services and optimized for better performance.<br><br>Ramesh is based in Dallas-Fort Worth area and has a Ph. D. from Texas A&M University. In his off time enjoys practicing Yoga, Tai Chi and Martial Arts."
 #    twitter: ""
     linkedin: "https://www.linkedin.com/in/ramesh-venkataramiah-359898a3/"
 #   facebook:
@@ -396,7 +387,7 @@ program:
     date: 2018-08-30
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignite Talks"
+  - title: ""
     type: ignite
     date: 2018-08-30
     start_time: "13:00"
@@ -426,7 +417,7 @@ program:
     date: 2018-08-30
     start_time: "16:00"
     end_time: "16:45"
-  - title: "Close Day, Logistics, & Raffle"
+  - title: "Close Day & Logistics"
     type: custom
     date: 2018-08-30
     start_time: "16:45"
@@ -519,19 +510,21 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: ""
+  - title: "ignite-talks"
     date: 2018-08-30
-  - title: ""
+  - title: "ravi-lachhman"
     date: 2018-08-30
-  - title: ""
+  - title: "ivan-fan"
     date: 2018-08-30
-  - title: ""
+  - title: "david-ayers"
     date: 2018-08-30
-  - title: ""
+  - title: "khurrum-khan"
     date: 2018-08-30
-  - title: ""
+  - title: "james-thomas"
     date: 2018-08-30
-  - title: ""
+  - title: "mohamad-bayan"
+    date: 2018-08-30
+  - title: "jane-prusakova"
     date: 2018-08-30
   - title: ""
     date: 2018-08-30

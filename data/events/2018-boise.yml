@@ -5,12 +5,13 @@ event_twitter: "devopsdaysboise" # The twitter handle for your event, which is o
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2018-06-06 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2018-06-06 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2018-06-06T00:00:00-06:00
+enddate: 2018-06-06T23:59:59-06:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-02-15 # start accepting talk proposals.
-cfp_date_end:  2018-04-15 # close your call for proposals.
-cfp_date_announce: 2018-04-30 # inform proposers of status
+cfp_date_start: 2018-02-15T00:00:00-07:00 # start accepting talk proposals.
+cfp_date_end:  2018-04-15T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2018-04-30T00:00:00-06:00 # inform proposers of status
 
 # Location
 #

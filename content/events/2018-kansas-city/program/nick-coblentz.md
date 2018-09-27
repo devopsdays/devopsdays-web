@@ -2,9 +2,9 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Integrating Security In the CI/CD Pipeline"
+Title = "Practical Advice for Introducing Security Into a DevOps Process"
 Type = "talk"
 Speakers = ["nick-coblentz"]
 +++
 
-This presentation gives concrete examples of implementing open source security tools in a continuous integration pipeline. For example: jenkins, gauntlt, selenium, and arachni can be used to log into a web application, passively scan it for vulnerabilities, and then fail a build based on specific vulnerabilities that are identified. The conversation will also cover tips for rolling out these tools successfully.
+Security tools can be introduced throughout the DevOps process - not just on the continuous integration server. This talks discusses which category of tools fit where, the characteristics they must meet to keep up with the team's software development pace, and suggests specific open source or free tools you can use to get started. We will also discuss alternatives to breaking to CI build for security.

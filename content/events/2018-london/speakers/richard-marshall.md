@@ -1,7 +1,7 @@
 +++
 Title = "Richard Marshall"
 Twitter = "DevOpsStalker"
-image = "richard-marshall.jpeg"
+image = "richard-marshall.jpg"
 type = "speaker"
 linktitle = "richard-marshall"
 

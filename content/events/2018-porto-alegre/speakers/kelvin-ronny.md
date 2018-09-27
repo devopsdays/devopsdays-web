@@ -2,7 +2,7 @@
 Title = "Kelvin Ronny"
 Twitter = ""
 linkedin = "" 
-image = "kelvin.png"
+image = "kelvin-ronny.png"
 type = "speaker"
 linktitle = "kelvin-ronny"
 +++

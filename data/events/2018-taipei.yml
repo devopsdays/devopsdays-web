@@ -5,9 +5,9 @@ event_twitter: "DevOpsDaysTPE" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Taipei!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  2018-09-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2018-09-12 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate:  2018-09-10T00:00:00+08:00
+enddate: 2018-09-12T23:59:59+08:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -39,6 +39,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: devopsdays.tw
+    url: https://devopsdays.tw/
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site

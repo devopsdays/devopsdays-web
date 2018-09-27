@@ -80,7 +80,7 @@ sponsors:
     level: bluesquare
   - id: influxdata-before-20171218
     level: bluesquare
-  - id: victorops
+  - id: victorops-before-20180823
     level: bluesquare
   - id: logz-before-20170613
     level: blackdiamond

@@ -5,13 +5,15 @@ Talk_end_time = ""
 Title = "Scaling Continuous Delivery to Walmart"
 Type = "talk"
 Speakers = ["bryan-finster","dana-finster"]
-Youtube = ""
+Youtube = "UJjjgEbIOfg"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/scaling-continuous-delivery-to-walmart"
 Slides = ""
 Website = "https://www.linkedin.com/in/bryan-finster/"
 +++
+
+##### TALK ABSTRACT
 
 Scaling a DevOps transformation is one of the biggest problems enterprises faces as they seek to accelerate value delivery. Some teams focus on the culture and automation changes in silos or with limited collaboration. Other teams may not understand the value and continue to deliver at a cadence they have always found comfortable. Tool fragmentation, process fragmentation, misunderstandings of how CI works or what CD actually is are constant struggles. At Walmart, we are taking an integrated approach to address this.
 

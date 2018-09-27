@@ -2,7 +2,7 @@
 Title = "Marco Antonio Martins Junior (somatório)"
 Twitter = "somatorio"
 linkedin = ""
-image = "somatorio.jpeg"
+image = "marco-junior.jpg"
 type = "speaker"
 linktitle = "marco-junior"
 +++

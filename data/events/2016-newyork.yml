@@ -44,7 +44,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pivotal
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: ns1
     level: silver

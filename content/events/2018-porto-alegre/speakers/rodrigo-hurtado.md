@@ -2,7 +2,7 @@
 Title = "Rodrigo Caballero Hurtado"
 Twitter = ""
 linkedin = "" 
-image = "rodrigo.jpg"
+image = "rodrigo-hurtado.jpg"
 type = "speaker"
 linktitle = "rodrigo-hurtado"
 +++

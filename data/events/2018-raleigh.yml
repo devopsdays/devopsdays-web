@@ -5,20 +5,20 @@ event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Raleigh!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-09-10T00:00:00-04:00
+enddate: 2018-09-11T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-01-01 # start accepting talk proposals.
-cfp_date_end: 2018-04-01 # close your call for proposals.
-cfp_date_announce: 2018-05-15  # inform proposers of status
+cfp_date_start: 2018-01-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-01T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-05-15T00:00:00-04:00  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://goo.gl/forms/2UpFilKPOswrHcqp2"
 
-registration_date_start: 2018-01-24
-registration_date_end: 2018-09-11
+registration_date_start: 2018-01-24T00:00:00-05:00
+registration_date_end: 2018-09-11T23:59:59-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devops-days-raleigh-2018-tickets-42510017607" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -125,7 +125,11 @@ sponsors:
     level: gold
   - id: puppet
     level: platinum
-    
+  - id: ine
+    level: gold
+  - id: overops
+    level: gold
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

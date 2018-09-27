@@ -5,7 +5,7 @@ event_twitter: "devopsdayssthlm" # Change this to the twitter handle for your ev
 description: "Devopsdays is coming back to Stockholm!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
@@ -98,4 +98,3 @@ sponsor_levels:
     label: Space Gray
   - id: community
     label: Community
-
