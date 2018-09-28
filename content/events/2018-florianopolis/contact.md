@@ -4,9 +4,9 @@ Type = "event"
 Description = "Contact information for devopsdays  2018"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Se você prefere entrar em contato por: {{< email_organizers >}}
 
-**Our local team**
+**Nosso time local**
 
 {{< list_organizers >}}
 
