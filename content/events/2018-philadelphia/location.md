@@ -15,8 +15,10 @@ Address: <a href="https://goo.gl/maps/uj3z6J7s2k62">315 Chestnut St, Philadelphi
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.6584877310434!2d-75.14863168446004!3d39.949028091874375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6c884f0010fd7%3A0x9fdd2fbe5d2744d3!2sScience+History+Institute!5e0!3m2!1sen!2sus!4v1538159855904" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
+<br><br>
 ## How to get there
-The Science History Institute is located in Old City Philadelphia. It is easily accessible by public transportation. Has nearby parking and hotels
+The Science History Institute is located in Historic Old City Philadelphia. It is easily accessible by public transportation. There is nearby parking, and hotels.
 
 ### Public transportation
 All SEPTA Regional Rail Lines serve [Jefferson Station at 10th and Market Streets](https://goo.gl/maps/GxCfa9eLr212), which is a few blocks away.
