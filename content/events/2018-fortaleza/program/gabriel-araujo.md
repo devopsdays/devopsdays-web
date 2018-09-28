@@ -1,10 +1,10 @@
 +++
 Talk_date = "2018-20-10"
-Talk_start_time = "13:20"
-Talk_end_time = "13:45"
-Title = "Migrando desenvolvimento e infraestruturas tradicionais com Docker e Kubernetes"
+Talk_start_time = "16:10"
+Talk_end_time = "16:35"
+Title = "Alta disponibilidade com micro serviços em MultiCloud"
 Type = "talk"
-Speakers = ["cicero-gadelha"]
+Speakers = ["gabriel-araujo"]
 +++
 
-Na dúvida como começar a usar DevOps na sua empresa? Nessa palestra você poderá acompanhar uma timeline, descrevendo todas as etapas, desafios e soluções adotadas para migrar gradativamente seu ambiente com o apoio do Docker, Kubernetes, Infraestrutura como Códido, CI-CD e muito mais.
+A Palestra será sobre um cluster de docker swarm que será realizado através do ansible e provisionado na aws com a minha aplicação. Este mesmo cluster eu irei rodar na aws irei migrar com todos os dados que vão estar na AWS para o google cloud tambem através de código e o mesmo cluster. Assim eu posso realizar a migração da aplicação entre multi cloud.
