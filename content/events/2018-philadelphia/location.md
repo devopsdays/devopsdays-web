@@ -20,11 +20,21 @@ The Science History Institute is located in Old City Philadelphia. It is easily 
 
 ### Public transportation
 All SEPTA Regional Rail Lines serve [Jefferson Station at 10th and Market Streets](https://goo.gl/maps/GxCfa9eLr212), which is a few blocks away.
-[Market-Frankford Line](http://www.septa.org/service/mfl/), [2nd St Station](https://goo.gl/maps/J24WC6KdooH2), [5th St Independence Hall Station](https://goo.gl/maps/5urdF8zU1m72)
-[21 Bus](http://www.septa.org/maps/bus/pdf/021.pdf)[Chestnut St & 3rd St](https://goo.gl/maps/CynMWzpNnnF2)
+
+[Market-Frankford Line](http://www.septa.org/service/mfl/)
+
+*[2nd St Station](https://goo.gl/maps/J24WC6KdooH2)
+*[5th St Independence Hall Station](https://goo.gl/maps/5urdF8zU1m72)
+
+[21 Bus](http://www.septa.org/maps/bus/pdf/021.pdf)
+
+*[Chestnut St & 3rd St](https://goo.gl/maps/CynMWzpNnnF2)
 
 ### Parking
-[Bourse Garage](https://goo.gl/maps/hDRYiEtDc8Q2), 400 Ranstead Street, Enter on 4th Street
-[Park America](http://www.parkamerica.net/), 27 South 3rd Street
-[Patriot Parking](http://www.patriotparking.com/find-parking/101-market-street-market-street-garage/), 101 Market Street
-[Patriot Parking](http://www.patriotparking.com/find-parking/2nd-race-streets-bridge-lot/), 2nd and Race Streets
+
+Nearby Garages
+
+*[Bourse Garage](https://goo.gl/maps/hDRYiEtDc8Q2), 400 Ranstead Street, Enter on 4th Street
+*[Park America](http://www.parkamerica.net/), 27 South 3rd Street
+*[Patriot Parking](http://www.patriotparking.com/find-parking/101-market-street-market-street-garage/), 101 Market Street
+*[Patriot Parking](http://www.patriotparking.com/find-parking/2nd-race-streets-bridge-lot/), 2nd and Race Streets
