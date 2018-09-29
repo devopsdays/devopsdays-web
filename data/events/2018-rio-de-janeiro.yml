@@ -97,6 +97,8 @@ sponsors:
     level: platinum 
   - id: igcorporate
     level: platinum     
+  - id: microsoft
+    level: platinum
   - id: compkids
     level: familyops
   - id: bitlu
@@ -108,16 +110,22 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: elastic
-    level: gold         
+    level: gold 
+  - id: redhat
+    level: gold             
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
+    level: silver  
+  - id: daitan-group
     level: silver  
   - id: alura
     level: learning    
   - id: imasters
     level: community
   - id: womenindevops
-    level: community    
+    level: community 
+  - id: whomenwhocode
+    level: community   
   - id: kinghost
     level: gifts    
   - id: caelum
