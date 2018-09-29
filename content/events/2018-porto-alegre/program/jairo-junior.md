@@ -5,6 +5,7 @@ Talk_end_time = "14:25"
 Title = "Testando Roles Ansible com Molecule"
 Type = "talk"
 Speakers = ["jairo-junior"]
+Slides = "https://docs.google.com/presentation/d/1Vx0kJizGr7TKDDsdlsJoamYCAYn4VQSvlBJYmbAdCJY/edit?usp=sharing"
 +++
 
 Testes automatizados não apenas aumentam a qualidade do código produzido como também a velocidade do desenvolvimento e capacidade de mudança do seu código. Testes são a principal fonte de feedback ao longo do desenvolvimento e possibilitam um ciclo mais curto de entregas.

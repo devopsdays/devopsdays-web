@@ -91,10 +91,16 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: dellemc
+    level: gold   
   - id: hashicorp
     level: silver
   - id: palo-it
     level: silver
+  - id: vmware
+    level: silver
+  - id: chef
+    level: silver  
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -104,6 +110,8 @@ sponsors:
   - id: stack-overflow
     level: community
   - id: jfrog
+    level: community
+  - id: agile-singapore
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

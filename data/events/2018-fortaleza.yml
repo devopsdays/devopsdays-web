@@ -40,6 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2018-fortaleza/speakers
   - name: Programação
     icon: "book"
+    url: /events/2018-fortaleza/program
 #  - name: Local
 #    icon: "map-o"
 #    url: /events/2018-fortaleza/location
@@ -113,11 +114,11 @@ Passionate and supportive of animals rights."
     linkedin: "https://www.linkedin.com/in/camila-correia-6082bb71/"
     website: "www.coffeedesign.com.br"
     image: "camila-correia.jpg"
-  - name: "Djavan Soeiro"
-    role: "Support Analyst"
-    bio: "IT Support Analyst with large experience in logs/monitoring the execution of processes and routines related to ​​network and data links, and support to direct customer service in help desk. Fan of open source technologies, information security, Fedora Linux user, and lover by aquarism. Chess player and novice on motocross tracks with friends."
-    linkedin: "https://www.linkedin.com/in/djavan-soeiro-74818b22/"
-    image: "djavan-soeiro.jpg"
+  - name: "Edvaldo Junior"
+    role: "DevOps Intern"
+    bio: "Graduating in computer networks, Itil Foundation, devOps enthusiast, Grafana Monitoring, Computational Forensic Expertise, Network Internship and DevOps Adagri."
+    linkedin: "https://www.linkedin.com/in/edvaldo-junior/"
+    image: "edvaldo-junior.jpg"
   - name: "Luciana Lima"
     role: "Itil knowledge technician"
     bio: "Itil knowledge technician, with experience of attendance in face and remote technical support to 8 years, were i attended The contact of several companies related to the Tecnology of the country.
@@ -162,6 +163,12 @@ sponsors:
   - id: 4devops
     level: community
     url: http://4devops.com.br/
+  - id: mandic
+    level: gold
+    url: https://www.mandic.com.br/
+  - id: redhat
+    level: gold
+    url: https://www.redhat.com/
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -181,168 +188,88 @@ sponsor_levels:
   - id: community
     label: Community
 program:
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
+  - title: "Credenciamento, Breakfast e abertura do evento"
+    type: open-space
     date: 2018-10-20
     start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
+    end_time: "08:30"
+  - title: "jairo-junior"
+    type: talk
+    date: 2018-10-20
+    start_time: "08:30"
+    end_time: "08:55"
+  - title: "gabriela-dias"
+    type: talk
     date: 2018-10-20
     start_time: "09:00"
-    end_time: "09:15"
-  - title: "Gabriela Dias"
+    end_time: "09:35"
+  - title: "yuri-adams"
     type: talk
-    date: 2018-10-20
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
     date: 2018-10-20
     start_time: "09:45"
-    end_time: "09:55"
-  - title: "Yuri Adams"
+    end_time: "10:10"
+  - title: "misael-santos"
     type: talk
     date: 2018-10-20
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2018-10-20
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "Misael Santos"
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "daniel-romero"
     type: talk
     date: 2018-10-20
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-10-20
-    start_time: "11:10"
+    start_time: "10:55"
     end_time: "11:20"
-  - title: "Daniel Romero"
-    type: talk
+  - title: "Almoço"
+    type: open-space
     date: 2018-10-20
     start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
+    end_time: "12:30"
+  - title: "marco-antonio-aka-somatorio"
+    type: talk
     date: 2018-10-20
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
+    start_time: "12:35"
+    end_time: "13:10"
+  - title: "cicero-gadelha"
+    type: talk
     date: 2018-10-20
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
+    start_time: "13:20"
+    end_time: "13:45"
+  - title: "braier-alves"
+    type: talk
     date: 2018-10-20
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
+    start_time: "13:55"
+    end_time: "14:20"
+  - title: "rafael-gomes-aka-gomex"
+    type: talk
     date: 2018-10-20
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "Coffee-Break"
+    type: open-space
     date: 2018-10-20
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "camilla-martins"
+    type: talk
     date: 2018-10-20
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Close Day"
-    type: custom
+    start_time: "15:25"
+    end_time: "16:00"
+  - title: "gabriel-araujo"
+    type: talk
+    date: 2018-10-20
+    start_time: "16:10"
+    end_time: "16:35"
+  - title: "thiago-souza"
+    type: talk
     date: 2018-10-20
     start_time: "16:45"
-    end_time: "17:00"
-  - title: "Evening event"
-    type: custom
-    date: 2018-10-20
-    start_time: "19:00"
-    end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
-    type: custom
-    date: 2018-10-20
-    start_time: "08:00"
-    end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
-    date: 2018-10-20
-    start_time: "09:00"
-    end_time: "09:15"
-  - title: "Marco Antonio aka Somatorio"
+    end_time: "17:10"
+  - title: "marcelo-bill"
     type: talk
     date: 2018-10-20
-    start_time: "09:15"
-    end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
+    start_time: "17:20"
+    end_time: "17:55"
+  - title: "Encerramento"
+    type: open-space
     date: 2018-10-20
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: "Cicero Gadelha"
-    type: talk
-    date: 2018-10-20
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2018-10-20
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "Braier Alves"
-    type: talk
-    date: 2018-10-20
-    start_time: "10:40"
-    end_time: "11:10"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-10-20
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: "Rafael Gomes aka Gomex"
-    type: talk
-    date: 2018-10-20
-    start_time: "11:20"
-    end_time: "11:50"
-  - title: "Lunch"
-    type: custom
-    date: 2018-10-20
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2018-10-20
-    start_time: "13:00"
-    end_time: "13:30"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2018-10-20
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
-    date: 2018-10-20
-    start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
-    type: custom
-    date: 2018-10-20
-    start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
-    date: 2018-10-20
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing"
-    type: custom
-    date: 2018-10-20
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "18:00"
+    end_time: "18:30"

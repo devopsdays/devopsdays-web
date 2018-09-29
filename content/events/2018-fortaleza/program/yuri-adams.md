@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2018-20-10"
+Talk_start_time = "09:45"
+Talk_end_time = "10:10"
 Title = "Transformação Digital guiada por práticas DevOps e Data Analytics"
 Type = "talk"
 Speakers = ["yuri-adams"]

@@ -103,11 +103,15 @@ sponsors:
     level: silver
   - id: googlecloud
     level: silver
+  - id: gov-digital
+    level: silver
   - id: logz
     level: silver
   - id: opsview
     level: silver
   - id: scalefactory
+    level: silver
+  - id: sensu
     level: silver
   - id: ticketmaster
     level: silver
@@ -230,6 +234,7 @@ program:
     date: 2018-09-20
     start_time: "19:00"
     end_time: "23:00"
+    custom_url: "https://www.altitudelondon.com/contact-us/"
 
 # # day 2
   - title: "Breakfast"
