@@ -81,7 +81,5 @@ Description = "devopsdays New York City 2019"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
