@@ -100,7 +100,9 @@ sponsors:
   - id: vmware
     level: silver
   - id: chef
-    level: silver  
+    level: silver
+  - id: f5
+    level: silver
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -110,9 +112,14 @@ sponsors:
   - id: stack-overflow
     level: community
   - id: jfrog
-    level: community
+    level: travel
   - id: agile-singapore
     level: community
+  - id: gojek
+    level: travel
+  - id: solnet
+    level: travel
+    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -132,6 +139,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: travel
+    label: Travel
 
 program:
   - title: "Registration, Breakfast, and Sponsor Booths Open"
