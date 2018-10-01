@@ -100,7 +100,9 @@ sponsors:
   - id: vmware
     level: silver
   - id: chef
-    level: silver  
+    level: silver
+  - id: f5
+    level: silver
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
