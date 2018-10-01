@@ -44,6 +44,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Sponsor - Sponsoriser
     url: "/events/2018-montreal/sponsor/"
     icon: "money"
+  - name: Speakers - Conférencier
+    url: "/events/2018-montreal/speakers/"
   - name: Contact - Contacter
     url: "/events/2018-montreal/contact/"
     icon: "envelope-o"

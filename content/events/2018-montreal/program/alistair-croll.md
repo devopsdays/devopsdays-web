@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["alistair-croll"]
 +++
 
-Data Science and Critical Thinking: Data is behind every facet of business and society. But while we’re awash in data, we’re short on skepticism. Building on my work as a Visiting Executive at Harvard Business School, this talk shows how to think properly about data. It combines practical case studies, common pitfalls, and a clear framework for data lifecycles that everyone can understand, arming executive teams with the tools they need to survive and thrive in a data-driven era.
+Innovation, disruption, and discontinuity: Technology isn’t interesting. It’s the effects of technology, and the discontinuities they trigger, that alter fortunes, upend industries, and change society forever. A discontinuity is a change in how we think that makes the world unknowable and unrecognizable—but as this talk shows, there are ways to think about the future that help us prepare for such changes. It’s a wide-ranging, thought-provoking look at what the future might hold, and how to think about a world where unknowable change is the norm.
