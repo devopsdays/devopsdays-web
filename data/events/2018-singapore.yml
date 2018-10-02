@@ -72,11 +72,8 @@ team_members: # Name is the only required field for team members.
   - name: "Hugues Malphettes"
     employer: "Standard Chartered"
     twitter: "hmalphettes"
+    
 
-  - name: "Muthu Karuppi"
-    employer: "ThoughtWorks"
-    twitter: ""
-    bio: ""
 
 organizer_email: "organizers-singapore-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-singapore-2018@devopsdays.org" # Put your proposal email address here
@@ -121,6 +118,7 @@ sponsors:
     level: travel
   - id: solnet
     level: travel
+    
     
     
 
