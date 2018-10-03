@@ -169,8 +169,8 @@ program:
     start_time: "13:50"
     end_time: "14:05"
 
-  - title: "Em Breve"
-    type: custom
+  - title: "igor-macedo"
+    type: talk
     date: "2018-10-27"
     start_time: "14:10"
     end_time: "14:25"
