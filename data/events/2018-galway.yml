@@ -12,7 +12,7 @@ enddate: 2018-11-20
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-08-01 # start accepting talk proposals.
 cfp_date_end: 2018-09-09 # close your call for proposals.
-cfp_date_announce: 2018-09-17  # inform proposers of status
+cfp_date_announce: 2018-10-05  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
