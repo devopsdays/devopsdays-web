@@ -195,7 +195,7 @@ sponsors:
     level: party
   - id: elastic
     level: amenity
-  - id: vml
+  - id: 2018-vml
     level: premium
   - id: aporeto
     level: premium
