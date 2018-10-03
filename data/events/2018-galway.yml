@@ -135,10 +135,6 @@ team_members: # Name is the only required field for team members.
     bio: |
       Bryan is a Developer at Aspect where he works on CI/CD with Kubernetes,
       Jenkins and Scala/Spring applications in the AWS cloud.
-  - name: "Kim Tighe"
-    image: "kim-tighe.jpg"
-    employer: "DXC"
-    linkedin: "https://www.linkedin.com/in/kimtighe/"
   - name: "Padraic Wade"
     image: "padraic-wade.jpg"
     employer: "Woodgroup"
