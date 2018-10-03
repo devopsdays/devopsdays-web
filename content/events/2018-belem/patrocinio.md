@@ -57,7 +57,7 @@ Profissionais de tecnologia irão participar do evento. Esta é uma ótima oport
       </tr>
       <tr>
         <th scope="row">Inscrições para o evento</td>
-        <td><center>(preço especial)<a href="#1">1</a></sup></center></td>
+        <td><center>(preço especial)<sup><a href="#1">1</a></sup></center></td>
         <td><center>1</center></td>
         <td><center>3</center></td>
         <td><center>5</center></td>
