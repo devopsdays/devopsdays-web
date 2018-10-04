@@ -149,7 +149,7 @@ program:
     date: 2018-10-11
     start_time: "10:40"
     end_time: "11:15"
-  - title: "baruch-sadogursky"
+  - title: "ned-shawa"
     type: talk
     date: 2018-10-11
     start_time: "11:15"
@@ -240,7 +240,7 @@ program:
     date: 2018-10-12
     start_time: "10:40"
     end_time: "11:15"
-  - title: "ned-shawa"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2018-10-12
     start_time: "11:15"
