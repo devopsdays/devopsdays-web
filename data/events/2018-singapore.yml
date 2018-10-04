@@ -110,10 +110,14 @@ sponsors:
     level: community
   - id: stack-overflow
     level: community
-  - id: jfrog
-    level: travel
   - id: agile-singapore
     level: community
+  - id: women-who-code-sg
+    level: community
+  - id: pigeonhole
+    level: community
+  - id: jfrog
+    level: travel
   - id: gojek
     level: travel
   - id: solnet
