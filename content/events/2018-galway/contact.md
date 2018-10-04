@@ -10,6 +10,11 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+**Organizers emeritus**
+
+[Kim Tighe](https://www.linkedin.com/in/kimtighe/)
+
 **The core devopsdays organizer group**
 
 {{< list_core >}}
+
