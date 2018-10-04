@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Chocolatey Packaging Workshop"
+Title = "Chocolatey Packaging Workshop (Room 1P)"
 Type = "talk"
 Speakers = ["rob-reynolds"]
 +++

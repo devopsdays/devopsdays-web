@@ -178,7 +178,7 @@ program:
     date: 2018-10-11
     start_time: "10:40"
     end_time: "11:15"
-  - title: "baruch-sadogursky"
+  - title: "ned-shawa"
     type: talk
     date: 2018-10-11
     start_time: "11:15"
@@ -269,7 +269,7 @@ program:
     date: 2018-10-12
     start_time: "10:40"
     end_time: "11:15"
-  - title: "ned-shawa"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2018-10-12
     start_time: "11:15"
@@ -321,21 +321,23 @@ program:
     end_time: "17:30"
 
 ignites:
+  - title: "ignite-matt-ray"
+    date: 2018-10-11
+  - title: "ignite-isha-tripathi"
+    date: 2018-10-11
+  - title: "ignite-fabian-lim"
+    date: 2018-10-11
+  - title: "ignite-divya-vaishnavi"
+    date: 2018-10-11
+  - title: "ignite-shivin-vijai"
+    date: 2018-10-11
+  - title: "ignite-andrew-gregovic"
+    date: 2018-10-12
+  - title: "ignite-aries-youssefian"
+    date: 2018-10-12
+  - title: "ignite-david-varvel"
+    date: 2018-10-12
   - title: "ignite-baruch-sadogursky"
-    date: 2018-10-11
-  - title: "ignite-tbc"
-    date: 2018-10-11
-  - title: "ignite-tbc"
-    date: 2018-10-11
-  - title: "ignite-tbc"
-    date: 2018-10-11
-  - title: "ignite-tbc"
     date: 2018-10-12
-  - title: "ignite-tbc"
-    date: 2018-10-12
-  - title: "ignite-tbc"
-    date: 2018-10-12
-  - title: "ignite-tbc"
-    date: 2018-10-12
-  - title: "ignite-tbc"
+  - title: "ignite-joseph-matthias-goh"
     date: 2018-10-12

@@ -12,7 +12,7 @@ enddate: 2018-11-20
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-08-01 # start accepting talk proposals.
 cfp_date_end: 2018-09-09 # close your call for proposals.
-cfp_date_announce: 2018-09-17  # inform proposers of status
+cfp_date_announce: 2018-10-05  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -135,10 +135,6 @@ team_members: # Name is the only required field for team members.
     bio: |
       Bryan is a Developer at Aspect where he works on CI/CD with Kubernetes,
       Jenkins and Scala/Spring applications in the AWS cloud.
-  - name: "Kim Tighe"
-    image: "kim-tighe.jpg"
-    employer: "DXC"
-    linkedin: "https://www.linkedin.com/in/kimtighe/"
   - name: "Padraic Wade"
     image: "padraic-wade.jpg"
     employer: "Woodgroup"
@@ -172,6 +168,8 @@ sponsors:
   - id: aspect
     level: silver
   - id: avaya
+    level: silver
+  - id: smartbear
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

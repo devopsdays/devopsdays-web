@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Don't Panic! Effective Incident Response"
+Title = "Don't Panic! Effective Incident Response (Room 1N)"
 Type = "talk"
 Speakers = ["matty-stratton"]
 +++

@@ -6,7 +6,7 @@ description: "Devopsdays is coming back to Edinburgh in 2018!" # Edit this to su
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-11-01T00:00:00+00:00
+startdate: 2018-11-01
 enddate: 2018-11-02T23:59:59+00:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -34,8 +34,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
-#  - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -104,6 +104,10 @@ sponsors:
     level: gold
   - id: ecs-digital
     level: gold
+  - id: rancher
+    level: gold
+  - id: googlecloud
+    level: gold
   - id: freeagent
     level: bronze
   - id: ncredinburgh
@@ -128,6 +132,242 @@ sponsor_levels:
     label: Bronze
   # - id: community
   #   label: Community
-  - id: diversity
-    label: Diversity
-    max: 3
+
+
+program:
+# day 1
+  - title: "Registration and coffee"
+    type: custom
+    date: 2018-11-01
+    start_time: "08:00"
+    end_time: "09:05"
+  - title: "Opening welcome"
+    type: custom
+    date: 2018-11-01
+    start_time: "09:05"
+    end_time: "09:15"
+  - title: "paula-kennedy"
+    type: talk
+    date: 2018-11-01
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "peter-varhol-gerie-owen"
+    type: talk
+    date: 2018-11-01
+    start_time: "09:45"
+    end_time: "10:15"
+  - title: "Break + coffee"
+    type: custom
+    date: 2018-11-01
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "martin-woodward"
+    type: talk
+    date: 2018-11-01
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "giacomo-lozito"
+    type: talk
+    date: 2018-11-01
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Break"
+    type: custom
+    date: 2018-11-01
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "daniel-parry"
+    type: talk
+    date: 2018-11-01
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "louda-pea"
+    type: talk
+    date: 2018-11-01
+    start_time: "12:15"
+    end_time: "12:45"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-11-01
+    start_time: "12:45"
+    end_time: "13:45"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-01
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-01
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "Open Spaces Proposals"
+    type: open-space
+    date: 2018-11-01
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "coffee"
+    type: custom
+    date: 2018-11-01
+    start_time: "14:50"
+    end_time: "15:05"
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2018-11-01
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "change over"
+    type: custom
+    date: 2018-11-01
+    start_time: "15:35"
+    end_time: "15:40"
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2018-11-01
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "change over"
+    type: custom
+    date: 2018-11-01
+    start_time: "16:10"
+    end_time: "16:15"
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2018-11-01
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Return to main room"
+    type: custom
+    date: 2018-11-01
+    start_time: "16:45"
+    end_time: "16:50"
+  - title: "Day Close"
+    type: custom
+    date: 2018-11-01
+    start_time: "16:50"
+    end_time: "17:00"
+# day 2
+  - title: "Registration and coffee"
+    type: custom
+    date: 2018-11-02
+    start_time: "08:00"
+    end_time: "08:55"
+  - title: "Opening welcome"
+    type: custom
+    date: 2018-11-02
+    start_time: "08:55"
+    end_time: "09:00"
+  - title: "rachel-willmer"
+    type: talk
+    date: 2018-11-02
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "gerie-owen"
+    type: talk
+    date: 2018-11-02
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break + coffee"
+    type: custom
+    date: 2018-11-02
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "neil-crawford"
+    type: talk
+    date: 2018-11-02
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "sasha-rosenbaum"
+    type: talk
+    date: 2018-11-02
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2018-11-02
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "gal-bashan"
+    type: talk
+    date: 2018-11-02
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "sabine-wojcieszak"
+    type: talk
+    date: 2018-11-02
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-11-02
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-02
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-02
+    start_time: "14:00"
+    end_time: "14:15"
+  - title: "Open Spaces Proposals"
+    type: open-space
+    date: 2018-11-02
+    start_time: "14:15"
+    end_time: "14:35"
+  - title: "coffee"
+    type: custom
+    date: 2018-11-02
+    start_time: "14:35"
+    end_time: "14:50"
+  - title: "Open Spaces Session 1"
+    type: open-space
+    date: 2018-11-02
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "change over"
+    type: custom
+    date: 2018-11-02
+    start_time: "15:20"
+    end_time: "15:25"
+  - title: "Open Spaces Session 2"
+    type: open-space
+    date: 2018-11-02
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "change over"
+    type: custom
+    date: 2018-11-02
+    start_time: "15:55"
+    end_time: "16:00"
+  - title: "Open Spaces Session 3"
+    type: open-space
+    date: 2018-11-02
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Return to main room"
+    type: custom
+    date: 2018-11-02
+    start_time: "16:30"
+    end_time: "16:35"
+  - title: "Day Close"
+    type: custom
+    date: 2018-11-02
+    start_time: "16:35"
+    end_time: "16:45"
+
+
+ignites:
+  - title: "bob-walker"
+    date: 2018-11-01
+  - title: "gavin-campbell"
+    date: 2018-11-01
+  - title: "geoff-ballinger"
+    date: 2018-11-01
+  - title: "jason-yee"
+    date: 2018-11-01
+  - title: "michal-bryx"
+    date: 2018-11-01
+

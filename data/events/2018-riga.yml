@@ -84,6 +84,8 @@ sponsors:
     level: friends
   - id: devtraining
     level: friends
+  - id: rigas-dome
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
@@ -380,11 +382,11 @@ program:
     date: 2018-09-29
     start_time: "09:00"
     end_time: "17:00"
-  - title: "christina-aldan-workshop-2"
-    type: workshop
-    date: 2018-09-29
-    start_time: "09:00"
-    end_time: "17:00"
+#  - title: "christina-aldan-workshop-2"
+#    type: workshop
+#    date: 2018-09-29
+#    start_time: "09:00"
+#    end_time: "17:00"
 
 ignites:
   - title: "matty-stratton-ignite-1"
