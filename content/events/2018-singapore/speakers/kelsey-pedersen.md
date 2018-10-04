@@ -1,9 +1,11 @@
 +++
 Title = "Kelsey Pedersen"
 Twitter = "kelsey_pedersen"
+github = "kelseypedersen"
 image = "kelsey-pedersen.jpg"
 type = "speaker"
 linktitle = "kelsey-pedersen"
+linkdein = "https://www.linkedin.com/in/kelseypedersen/"
 
 +++
 
