@@ -1,7 +1,7 @@
 +++
 Title = "Andrew Gregovic"
 type = "speaker"
-image = "andrew-gregovic.jpg"
+image = "andrew-gregovic.jpeg"
 linktitle = "andrew-gregovic"
 linkedin = "https://www.linkedin.com/in/andrewgregovic/"
 

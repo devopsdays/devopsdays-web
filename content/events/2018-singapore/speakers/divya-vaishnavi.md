@@ -1,6 +1,7 @@
 +++
 Title = "Divya Vaishnavi"
 Twitter = "divyavaishnavi"
+image = "divya-vaishnavi.jpg"
 type = "speaker"
 linktitle = "divya-vaishnavi"
 linkedin = "https://www.linkedin.com/in/divya-vaishnavi-4827911b/"

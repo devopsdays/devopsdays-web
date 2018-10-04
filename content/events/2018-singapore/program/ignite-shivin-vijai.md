@@ -2,11 +2,11 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "A Research Study into DevOps bottlenecks"
+Title = "Identifying Release Candidate in Continues Delivery world"
 Type = "talk"
-Speakers = ["baruch-sadogursky"]
+Speakers = ["shivin-vijai"]
 +++
 
-We asked a Fortune 500 software delivery leaders what holds them back. This talk is the analysis of their insights on what bottlenecks they encountered in their DevOps journey. We share discoveries on what helped them to overcome the bottlenecks and how they plan to deliver even faster. Using this we define some unifying themes on what areas provide the greatest return in investments of time and resources.
+It's a difficult task for release managers to identify a release candidate on a daily/weekly/monthly basis. My abstract will help to visualize the qualified builds for customer release and will highlight the proposed one as release candidate based on input criteria.
 
 {{< event_link page="program" text="view full program" >}}

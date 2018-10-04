@@ -1,6 +1,6 @@
 +++
 Title = "Shivin Vijai"
-image = "shivin-vijai.jpg"
+image = "shivin-vijai.jpeg"
 type = "speaker"
 linktitle = "shivin-vijai"
 linkedin = "https://www.linkedin.com/in/shivin-vijai-2426167a/"

@@ -2,7 +2,7 @@
 Title = "Joseph Matthias Goh"
 type = "speaker"
 linktitle = "joseph-matthias-goh"
-image = "joseph-matthias-goh.jpg"
+image = "joseph-matthias-goh.jpeg"
 linkdein = "https://www.linkedin.com/in/josephmatthias"
 website = "https://medium.com/@joeir"
 

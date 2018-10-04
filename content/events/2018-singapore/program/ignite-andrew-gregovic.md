@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""Developer - DBA DevOps Dance for Dummies"
+Title = "Developer - DBA DevOps Dance for Dummies"
 Type = "talk"
 Speakers = ["andrew-gregovic"]
 +++

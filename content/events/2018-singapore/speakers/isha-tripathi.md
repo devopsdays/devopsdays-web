@@ -1,7 +1,7 @@
 +++
 Title = "Isha Tripathi"
 Twitter = "TripathiIsha"
-image = "isha-tripathi.jpg"
+image = "isha-tripathi.jpeg"
 type = "speaker"
 linktitle = "isha-tripathi"
 
