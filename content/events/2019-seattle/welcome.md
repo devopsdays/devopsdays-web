@@ -14,7 +14,6 @@ dates for talk proposals, sponsorships, and registration in the fall of 2018.
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> 
-
 -->
 
 <div class = "row">
