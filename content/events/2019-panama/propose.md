@@ -11,7 +11,7 @@ type = "event"
   - Spanish
   - English
   
-Estamos complacidos por su interés de participar como ponente en nuestro evento, DevOpsDays Panamá 2018. Le damos la bienvenida !!!. / *We’re excited that you want to be a speaker at our event, DevOpsDays Panamá 2018. Be welcome !!!*
+Estamos complacidos por su interés de participar como ponente en nuestro evento, DevOpsDays Panamá 2019. Le damos la bienvenida !!!. / *We’re excited that you want to be a speaker at our event, DevOpsDays Panamá 2019. Be welcome !!!*
 
 El comité organizador del DevOpsDays Panamá hace oficial la apertura del CFP. Estamos buscando presentaciones en los siguientes formatos / *The organizer team of DevOpsDays Panamá officially opens CFP. We are interesting in the following types of presentations* :
 
@@ -62,9 +62,9 @@ Adicionalmente se aceptarán presentaciones relacionadas con temas presentados e
   - Se aceptan múltiples propuestas...solo siga las otras reglas. / *Multiple proposals are welcome… just follow the other rules*
 
 
-El envío de sus propuestas debe hacerse empleando el sitio / *You can send your prupose vía*: **[PaperCall.io](https://www.papercall.io/devopsdayspanama-2018)** 
+El envío de sus propuestas debe hacerse empleando el sitio / *You can send your prupose vía*: **[PaperCall.io](https://www.papercall.io/devopsdayspanama-2019)** 
 
-El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2018-panama/program/). / El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2017-cuba/program/). / *The organizer team will select the presentations and notify their inclusion on [official event program](https://www.devopsdays.org/events/2017-cuba/program/)*
+El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2019-panama/program/). / El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2017-cuba/program/). / *The organizer team will select the presentations and notify their inclusion on [official event program](https://www.devopsdays.org/events/2019-panama/program/)*
 
 Si presenta algún problema o desea sugerir nuevos temas, por favor contáctenos: / *If you have any problem or suggest new topics, please contact us: {{< email_organizers subject="contact us" >}}*
 

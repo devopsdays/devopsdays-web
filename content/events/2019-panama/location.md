@@ -1,7 +1,7 @@
 +++
 Title = "Sede / Location"
 Type = "event"
-Description = "Location for DevOpsDays Panamá 2018"
+Description = "Location for DevOpsDays Panamá 2019"
 +++
 
 ## Ciudad del Saber
