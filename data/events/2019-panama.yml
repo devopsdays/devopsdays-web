@@ -1,22 +1,22 @@
-name: "2018-panama" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2018" # The year of the event. Make sure it is in quotes.
+name: "2019-panama" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Panamá" # The city name of the event. Capitalize it.
-friendly: "2018-panama" # Four digit year and the city name in lower-case. Don't forget the dash!
+friendly: "2019-panama" # Four digit year and the city name in lower-case. Don't forget the dash!
 event_twitter: "dodpanama"
 ga_tracking_id: "UA-124724975-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
-startdate: 2018-11-22 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-11-23 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-06-23  # start accepting talk proposals.
-cfp_date_end: 2018-10-10 # close your call for proposals.
-cfp_date_announce: 2018-10-13 # inform proposers of status
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
-cfp_open: "2018-06-23"
-cfp_link: "https://www.papercall.io/cfps/1249/submissions/new"
+cfp_open: ""
+cfp_link: ""
 
 registration_open: "false"
 registration_link: ""
@@ -68,24 +68,6 @@ team_members: # Name is the only required field for team members.
     website: "http://www.utp.ac.pa"
     github:
     image: "erick-agrazal.jpg"
-  - name: "Lydia Holnes"
-    employer: "Universidad Tecnológica de Panamá"
-    bio:
-    twitter:
-    linkedin:
-    facebook:
-    website: "http://www.utp.ac.pa"
-    github:
-    image: "lydia-holnes.jpg"
-  - name: "Víctor López"
-    employer: "Universidad Tecnológica de Panamá"
-    bio:
-    twitter:
-    linkedin:
-    facebook:
-    website: "http://www.utp.ac.pa"
-    github:
-    image: "victor-lopez.jpg"
   - name: "Yadier Perdomo"
     employer: "Universidad de las Ciencias Informáticas"
     bio:
@@ -96,8 +78,8 @@ team_members: # Name is the only required field for team members.
     github:
     image: "yadier-perdomo.jpg"
 
-organizer_email: "organizers-panama-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-panama-2018@devopsdays.org" # Put your proposal email address here
+organizer_email: "organizers-panama-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-panama-2019@devopsdays.org" # Put your proposal email address here
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # In this section, list the level of sponsorships and the label to use.
@@ -124,8 +106,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: cds
-    level: host
+#  - id: cds
+#    level: host
 #  - id: UTP
 #    level: gold
 #  - id: UCI
@@ -140,8 +122,8 @@ sponsors:
 #    level: community
 #  - id: stickermule
 #    level: community
-  - id: ado
-    level: community
+#  - id: ado
+#    level: community
   - id: addo-2018
     level: community
   - id: docker-havana
