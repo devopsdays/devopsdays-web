@@ -32,6 +32,7 @@ Novamente, é ideal que tenha lido a [documentação oficial](https://www.devops
 
 ## Quais são as regras para organizar?
 Elas estão disponíveis na [página oficial sobre organização de devopsdays](https://www.devopsdays.org/organizing/#rules), mas (ao menos no momento em que publicamos este texto) as regras são as seguintes (recomendo ler a página oficial para garantir que não houve mudança):
+
 - Inclusividade e respeito pelas diferenças são valores centrais da cultura devops, e nós te convidamos a fazer cada evento devopsdays um local que é receptível e respeitoso com todos os participantes. Seu evento deverá ter um código de conduta.
 - Estes eventos são de comunidade, então o seu evento deverá ter um processo de chamada de trabalhos aberto e aceitar submissões do público geral. Eventos internos de devops focados em uma empresa específica ou curados com todos os palestrantes escolhidos privadamente são maravilhosos e nós encorajamos eles, mas eles não serão listados como um evento "devopsdays" neste site.
 - Estes eventos não são para lucro individual ou corporativo. Se tiver dinheiro sobrando, você pode usá-lo para o seu próximo evento, para ajudar outros eventos devopsdays diretamente ou mandando participantes, ou para a caridade. A equipe global central pode (e irá) aceitar doações para nos ajudar a cobrir custos como DNS e web hosting, mas somente de conferências que usem o serviço da Conference Ops. Neste caso, dinheiro que sobra não vai para os bolsos de ninguém.
