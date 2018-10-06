@@ -1,0 +1,319 @@
+name: "2018-columbus" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Columbus" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysOhio" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Columbus!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Columbus"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-09-19T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-09-20T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-05-11T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2018-07-18T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-08-19T00:00:00-04:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayscolumbus2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "40.0120098, -82.9778019" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Bluestone" # Defaults to city, but you can make it the venue name.
+location_address: "583 E Broad St, Columbus, OH 43215" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: leadershipsummit
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ben Blanquera"
+  - name: "David Laulusa"
+    bio: "David has worked at Bell Labs, SAP and whole slew of companies in between. Three years ago when he started working at SAP, his boss handed him The Phoenix Project by Gene Kim and Continuous Delivery by Jez Humble and said, 'Read these and figure out this DevOps thing.' And he hasn’t stopped learning since.
+    <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."
+    twitter: "dlaulusa"
+    linkedin: "https://www.linkedin.com/in/davidlaulusa/"
+  - name: "J.D. Santen"
+    bio: "J.D. Santen is a developer who has been working in the telecommunications industry for over 18 years.  In that time, he’s seen network growth explode and the requirements to support it become more complicated.  J.D. has had a hand in building IT systems that are as resilient as the network they support."
+    linkedin: "https://www.linkedin.com/in/jdsanten"
+  - name: "John Lusk"
+  - name: "Kyle Jenkins"
+    employer: "Improving"
+    bio: "Kyle Jenkins is a full stack developer and consultant with Improving, a software development consulting and training company in Columbus, Ohio. He assists with organizing the DevOpsDays Columbus conference. While working directly with clients to accomplish projects, he always strives to improve the quality of code and life for the team. In his spare time, you may find him at a variety of user groups around town, or online playing video games with friends."
+    linkedin: "https://www.linkedin.com/in/kyle-jenkins"
+    twitter: "kjenkinsdev"
+    github: "kjenkins19"
+  - name: "Michael Ducy"
+  - name: "Michael Swartzbaugh"
+  - name: "Renee Weldy"
+    bio: "Renee’s been working in some part or another of IT for 27 years now.  She’s been a technical writer, a software instructor, a web application developer, a Remedy administrator, a business/system analyst, and a project manager – not necessarily in that order.  She’s fairly new to DevOps, but attending the 2016 DevOpsDays Ohio conference showed her that this is a culture she definitely wants to help promote and grow!"
+    linkedin: "https://www.linkedin.com/in/reneeweldy"
+  - name: "Sherry Stebens"
+    bio: "Sherry is an accomplished management professional positioned in the information technology field with a solid reputation as a strong leader. Proven ability to improve processes to gain efficiencies, drive for results and build solid relationships throughout all levels of an organization.  Strong leader with the ability to create and execute new and/or improved processes. Consistently practice and educate the use of Six Sigma techniques and Agile methodologies to problem solve and implement solutions for the betterment of an organization.
+    <br/><br/>Sherry has been a member of the DevOpsDays Columbus organizing committee since 2016."
+  - name: "Warner Moore"
+    bio: "Warner Moore is a driven technology leader and architect with a background in web operations and information security. He has focused his career in working with high growth organizations where technology is their business and product. Within these organizations, Warner has an accomplished record of building successful security programs and high performing technology teams.
+    <br/><br/>As an international speaker, Warner has been invited to present to university students, technology professionals, and business leaders in a classroom setting as well as at conferences such as Startup Week, CloudDevelop, Path to Agility, InfoSec Summit, CodeMash, Security BSides, and DevOpsDays.
+    <br/><br/>Warner is passionate about culture, innovation, and community. His passion reflects in his volunteer work leading organizations such as [Ohio LinuxFest] (https://ohiolinux.org/), [LOPSA] (http://lopsacbus.org/), [DevOpsDays] (https://www.devopsdays.org/events/2016-ohio/welcome/), and [Toastmasters] (http://2checkout.easy-speak.org/)."
+    linkedin: "https://www.linkedin.com/in/warnermoore"
+
+organizer_email: "organizers-columbus-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-columbus-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: sumologic
+    level: gold
+  - id: redhat
+    level: gold
+  - id: rundeck
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: morpheus
+    level: gold
+  - id: chef
+    level: gold
+  - id: 2015-covermymeds
+    level: gold
+  - id: servicenow
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: cardinalsolutions
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: nationwide
+    level: silver
+  - id: elastic
+    level: silver
+  - id: netjets
+    level: bronze
+  - id: arresteddevops
+    level: community
+  - id: stickermule
+    level: community
+  - id: zocodesign
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+- title: "Registration and Breakfast" # Day 1 Start
+  type: custom
+  date: 2018-09-19
+  start_time: "8:00"
+  end_time: "9:00"
+
+- title: "Opening Welcome"
+  type: custom
+  date: 2018-09-19
+  start_time: "9:00"
+  end_time: "9:15"
+
+- title: "tiffany-longworth"
+  type: talk
+  date: 2018-09-19
+  start_time: "9:15"
+  end_time: "9:45"
+
+- title: "jim-shingler"
+  type: talk
+  date: 2018-09-19
+  start_time: "9:55"
+  end_time: "10:25"
+
+- title: "Break"
+  type: custom
+  date: 2018-09-19
+  start_time: "10:25"
+  end_time: "10:40"
+
+- title: "david-laribee"
+  type: talk
+  date: 2018-09-19
+  start_time: "10:40"
+  end_time: "11:10"
+
+- title: "john-willis"
+  type: talk
+  date: 2018-09-19
+  start_time: "11:20"
+  end_time: "11:50"
+
+- title: "Break"
+  type: custom
+  date: 2018-09-19
+  start_time: "11:50"
+  end_time: "12:00"
+
+- title: "Lunch"
+  type: custom
+  date: 2018-09-19
+  start_time: "12:00"
+  end_time: "1:00"
+
+- title: "Ignites"
+  type: ignite
+  date: 2018-09-19
+  start_time: "1:00"
+  end_time: "1:30"
+
+- title: "Open Spaces Voting"
+  type: open-space
+  date: 2018-09-19
+  start_time: "1:30"
+  end_time: "1:55"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2018-09-19
+  start_time: "2:00"
+  end_time: "4:45"
+
+- title: "Close of day"
+  type: custom
+  date: 2018-09-19
+  start_time: "4:45"
+  end_time: "5:00"
+
+- title: "Happy Hour"
+  type: custom
+  date: 2018-09-19
+  start_time: "5:00"
+  end_time: "7:00"
+
+- title: "Registration and Breakfast" # Day 2 start
+  type: custom
+  date: 2018-09-20
+  start_time: "8:00"
+  end_time: "9:00"
+
+- title: "Prior Day Recap" # Day 2 start
+  type: custom
+  date: 2018-09-20
+  start_time: "9:00"
+  end_time: "9:15"
+
+- title: "angel-rivera"
+  type: talk
+  date: 2018-09-20
+  start_time: "9:15"
+  end_time: "9:45"
+
+- title: "jack-maher"
+  type: talk
+  date: 2018-09-20
+  start_time: "9:55"
+  end_time: "10:25"
+
+- title: "Break"
+  type: custom
+  date: 2018-09-20
+  start_time: "10:25"
+  end_time: "10:40"
+
+- title: "laura-maguire"
+  type: talk
+  date: 2018-09-20
+  start_time: "10:40"
+  end_time: "11:10"
+
+- title: "allie-richards"
+  type: talk
+  date: 2018-09-20
+  start_time: "11:20"
+  end_time: "11:55"
+
+- title: "Lunch"
+  type: custom
+  date: 2018-09-20
+  start_time: "12:00"
+  end_time: "1:00"
+
+- title: "Ignites"
+  type: ignite
+  date: 2018-09-20
+  start_time: "1:00"
+  end_time: "1:30"
+
+- title: "Open Spaces Voting"
+  type: open-space
+  date: 2018-09-20
+  start_time: "1:30"
+  end_time: "1:40"
+
+- title: "Ignite Karaoke"
+  type: open-space
+  date: 2018-09-20
+  start_time: "1:40"
+  end_time: "1:55"
+
+- title: "Open Spaces"
+  type: open-space
+  date: 2018-09-20
+  start_time: "2:00"
+  end_time: "3:45"
+
+- title: "Close of Event"
+  type: custom
+  date: 2018-09-20
+  start_time: "3:45"
+  end_time: "4:00"
+
+ignites:
+- title: "laura-maguire-ignite"
+  date: 2018-09-19
+- title: "chris-short"
+  date: 2018-09-19
+- title: "amy-bedinghaus"
+  date: 2018-09-19
+- title: "matt-williams"
+  date: 2018-09-19
+- title: "tiffany-longworth-ignite"
+  date: 2018-09-20
+- title: "asher-balkin"
+  date: 2018-09-20
+- title: "damian-synadinos"
+  date: 2018-09-20

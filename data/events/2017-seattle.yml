@@ -99,7 +99,7 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
-  - id: rei
+  - id: rei-before-20171219
     level: gold
   - id: accenture
     level: gold
@@ -111,9 +111,9 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
-  - id: aws
+  - id: aws-before-20180313
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: netapp
     level: silver
@@ -137,7 +137,7 @@ sponsors:
     level: silver
   - id: seattle-devops-meetup
     level: community
-  - id: seattle-coffeeops
+  - id: seattle-coffeeops-before-20180416
     level: community
   - id: geekwire
     level: community

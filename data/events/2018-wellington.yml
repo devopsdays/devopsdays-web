@@ -1,0 +1,357 @@
+name: "2018-wellington" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Wellington" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysnz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Wellington!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "New Zealand"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-11-05T00:00:00+13:00
+enddate: 2018-11-06T23:59:59+13:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-06-16T00:00:00+12:00 # start accepting talk proposals.
+cfp_date_end: 2018-08-03T23:59:59+12:00 # close your call for proposals.
+cfp_date_announce: 2018-08-20T00:00:00+12:00  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+masthead_background: "harbour.jpg"
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-41.285345,174.778711" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "TSB Bank Auditorium - Shed 6" # Defaults to city, but you can make it the venue name.
+#
+location_address: "TSB Bank Arena Queens Wharf, Wellington, New Zealand" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Reuben Dunn"
+    twitter: "DefSol"
+  - name: "Flavia Machado"
+    twitter: "flaviafmachado"
+  - name: "Adarsh Jupudi"
+    twitter: "cloudoperator"
+  - name: "Julian Simpson"
+    twitter: "builddoctor"
+  - name: "Nigel Charman"
+    twitter: "nigel_charman"
+  - name: "Emily Dwyer"
+  - name: "Will Robertson"
+    twitter: "mexisme"
+  - name: "Ben Vidulich"
+    twitter: "zl4bv"
+  - name: "Yogesh Shetty"
+    twitter: "_yogi_7"
+  - name: "BMK"
+    twitter: "lbmkrishna"
+  - name: "Judy Marcelo"
+    twitter: "arthriticcoder"
+  - name: "Peter Sellars"
+    twitter: "petersellars"
+  - name: "Catherine Edwards"
+    twitter: "CathyEdwards86"
+organizer_email: "organizers-wellington-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-wellington-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+sponsors:
+  - id: 2016-bnz
+    level: platinum
+  - id: assurity
+    level: gold
+  - id: datacom
+    level: gold
+  - id: integrationqa
+    level: gold
+  - id: 2016-pushpay
+    level: gold
+  - id: oss
+    level: gold
+  - id: SECTION6
+    level: gold
+  - id: anz
+    level: silver
+  - id: flux
+    level: silver
+  - id: microsoftnzazure
+    level: silver
+  - id: infoq
+    level: media
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    Max: 4
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: media
+    label: Media
+
+program:
+  - title: "Registration, Coffee/Tea, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-05
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-11-05
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "jeff-smith"
+    type: talk
+    date: 2018-11-05
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-05
+    start_time: "09:45"
+    end_time: "09:50"
+  - title: "francois-conil"
+    type: talk
+    date: 2018-11-05
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-11-05
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "transforming-bank"
+    type: talk
+    date: 2018-11-05
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-05
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: "ryan-mccarvill"
+    type: talk
+    date: 2018-11-05
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: "Open Space Intro, Topic and voting plan"
+    type: open-space
+    date: 2018-11-05
+    start_time: "12:05"
+    end_time: "12:20"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-11-05
+    start_time: "12:20"
+    end_time: "13:20"
+  - title: "Open Space Assignments"
+    type: open-space
+    date: 2018-11-05
+    start_time: "13:20"
+    end_time: "13:30"
+  - title: "matt-brown"
+    type: workshop
+    date: 2018-11-05
+    start_time: "13:20"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-11-05
+    start_time: "13:25"
+    end_time: "14:05"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-11-05
+    start_time: "14:10"
+    end_time: "14:50"
+  - title: "bernard-oleary"
+    type: workshop
+    date: 2018-11-05
+    start_time: "14:10"
+    end_time: "15:10"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-11-05
+    start_time: "14:55"
+    end_time: "15:35"
+  - title: "Break"
+    type: custom
+    date: 2018-11-05
+    start_time: "15:35"
+    end_time: "16:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-05
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-05
+    start_time: "16:00"
+    end_time: "16:05"
+  - title: "katrina-clokie"
+    type: talk
+    date: 2018-11-05
+    start_time: "16:20"
+    end_time: "17:05"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-11-05
+    start_time: "17:05"
+    end_time: "17:15"
+  - title: "Evening event"
+    type: custom
+    date: 2018-11-05
+    start_time: "17:30"
+    end_time: "21:00"
+    comments: "This will take place at the Ballroom Billards Saloon<br>
+    1st Floor, 68 Courtney Place<br>
+    Wellington"
+
+  - title: "Registration, Coffee/Tea, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-11-06
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "alison-polton-simon"
+    type: talk
+    date: 2018-11-06
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-06
+    start_time: "09:40"
+    end_time: "09:45"
+  - title: "anthony-borton"
+    type: talk
+    date: 2018-11-06
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-11-06
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "theresa-neate"
+    type: talk
+    date: 2018-11-06
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-06
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "mrinal-mukherjee"
+    type: talk
+    date: 2018-11-06
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Open Space Intro, Topic and voting plan"
+    type: open-space
+    date: 2018-11-06
+    start_time: "12:00"
+    end_time: "12:05"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-11-06
+    start_time: "12:05"
+    end_time: "13:05"
+  - title: "Open Space Assignments"
+    type: open-space
+    date: 2018-11-06
+    start_time: "13:05"
+    end_time: "13:10"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2018-11-06
+    start_time: "13:10"
+    end_time: "13:50"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2018-11-06
+    start_time: "13:55"
+    end_time: "14:35"
+  - title: "Open Space #6"
+    type: open-space
+    date: 2018-11-06
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: "Break"
+    type: custom
+    date: 2018-11-06
+    start_time: "15:20"
+    end_time: "15:45"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-06
+    start_time: "15:45"
+    end_time: "16:05"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-06
+    start_time: "16:05"
+    end_time: "16:10"
+  - title: "jessica-devita"
+    type: talk
+    date: 2018-11-06
+    start_time: "16:20"
+    end_time: "16:55"
+  - title: "Closing Remarks & Giveaways"
+    type: custom
+    date: 2018-11-06
+    start_time: "16:55"
+    end_time: "17:05"
+ignites:
+  - title: "everett-toews"
+    date: 2018-11-05
+  - title: "TBA"
+    date: 2018-11-05
+  - title: "TBA"
+    date: 2018-11-05
+  - title: "testing-govt-nz"
+    date: 2018-11-06
+  - title: "jules-clements"
+    date: 2018-11-06
+  - title: "TBA"
+    date: 2018-11-06
+

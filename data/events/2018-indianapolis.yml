@@ -2,44 +2,48 @@ name: "2018-indianapolis" # The name of the event. Four digit year with the city
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Indianapolis" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysINDY" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Indianapolis!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+status: "current"
+description: "DevOpsDays is coming to Indianapolis!" # Edit this to suit your preferences
+ga_tracking_id: "UA-109430778-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-07-23T00:00:00-04:00
+enddate: 2018-07-24T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-11-09T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-03-02T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2017-11-09T00:00:00-05:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysindy" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-11-09T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-07-24T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysindy.eventbrite.com/?aff=devopsdays" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "39.768502, -86.158047" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Indianapolis" # Defaults to city, but you can make it the venue name.
+coordinates: "39.766484, -86.164786" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Indianapolis Marriott Downtown" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "350 W Maryland St, Indianapolis, IN 46225" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+#  - name: propose
+  - name: location
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
+#  - name: volunteer
+#    url: 'https://goo.gl/forms/HK3ZbmgV7rDTwRGs2'
+  - name: slack
+    url: 'https://goo.gl/4ND8ok'
+  - name: registration
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
@@ -52,16 +56,33 @@ team_members: # Name is the only required field for team members.
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
     website: "http://learnpuppet.com"
+    image: "garrett-honeycutt.jpg"
 
   - name: "Andrew Poland"
     employer: ""
     twitter: "fiznarp"
+    image: "andrew-poland.jpg"
 
   - name: "Byron Schaller"
-    employer: ""
+    employer: "Roundtower"
     twitter: "byronschaller"
+    github: "byronschaller"
+    linkedin: "https://www.linkedin.com/in/byronschaller"
+    image: "byron-schaller.jpg"
 
   - name: "Bryan Smith"
+    employer: "Tacit Labs"
+    website: "http://tacitlabs.com/"
+
+  - name: "Chris Chalfant"
+    employer: "Leaf Software Solutions"
+    twitter: "chalfant"
+    image: "chris-chalfant.jpg"
+
+  - name: "Andrew Kaczorek"
+    employer: "Leaf Software Solutions"
+    github: "akaczorek"
+    image: "andrew-kaczorek.jpg"
 
 organizer_email: "organizers-indianapolis-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal email address here
@@ -69,10 +90,54 @@ proposal_email: "proposals-indianapolis-2018@devopsdays.org" # Put your proposal
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: aws
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: pivotal
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: redhat
+    level: gold
+  - id: morpheus_data
+    level: gold
+  - id: appdynamics
+    level: gold
   - id: arresteddevops
     level: community
+  - id: blacksintechnology
+    level: community
+  - id: techpoint
+    level: community
+  - id: indycode
+    level: community
+  - id: leaf-software-solutions
+    level: alacarte
+  - id: indypy
+    level: community
+  - id: indyaws
+    level: community
+  - id: datadog
+    level: silver
+  - id: eleven-fifty-academy
+    level: community
+  - id: techpoint-foundation-for-youth
+    level: community
+  - id: signalfx
+    level: silver
+  - id: sensu
+    level: silver
+  - id: roundtowertechnologies
+    level: silver
+  - id: kinney-group
+    level: silver
+  - id: mongodb
+    level: gold
+  - id: elastic
+    level: silver
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -87,5 +152,225 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: alacarte
+    label: Alacarte
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeffery-smith"
+    type: talk
+    date: 2018-07-23
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-23
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2018-07-23
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-07-23
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "ian-alford"
+    type: talk
+    date: 2018-07-23
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "jason-yee"
+    type: talk
+    date: 2018-07-23
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-23
+    start_time: "11:40"
+    end_time: "12:50"
+  - title: "christian-weber"
+    type: talk
+    date: 2018-07-23
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-07-23
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-23
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-23
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-07-23
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-07-23
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break - Afternoon snack in Expo Hall"
+    type: custom
+    date: 2018-07-23
+    start_time: "15:35"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-07-23
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "laura-breedlove"
+    type: talk
+    date: 2018-07-23
+    start_time: "16:50"
+    end_time: "17:20"
+  - title: "Close Day"
+    type: custom
+    date: 2018-07-23
+    start_time: "17:20"
+    end_time: "17:30"
+  - title: "Party at the Rathskeller"
+    type: custom
+    date: 2018-07-23
+    start_time: "18:30"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-24
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "emily-freeman"
+    type: talk
+    date: 2018-07-24
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-24
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "jared-quick"
+    type: talk
+    date: 2018-07-24
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-07-24
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "preston-waller"
+    type: talk
+    date: 2018-07-24
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2018-07-24
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-24
+    start_time: "11:40"
+    end_time: "12:50"
+  - title: "shawn-hall"
+    type: talk
+    date: 2018-07-24
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-07-24
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-24
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-24
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-07-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-07-24
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break - Afternoon snack in Expo Hall"
+    type: custom
+    date: 2018-07-24
+    start_time: "15:35"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-07-24
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "mykel-alvis"
+    type: talk
+    date: 2018-07-24
+    start_time: "16:50"
+    end_time: "17:20"
+  - title: "Close Day"
+    type: custom
+    date: 2018-07-24
+    start_time: "17:20"
+    end_time: "17:30"
+
+ignites:
+  - title: "heidi-waterhouse-ignite"
+    date: 2018-07-23
+  - title: "matt-stratton"
+    date: 2018-07-23
+  - title: "corey-quinn"
+    date: 2018-07-23
+  - title: "greg-greenlee"
+    date: 2018-07-23
+  - title: "jason-hand"
+    date: 2018-07-23
+  - title: "tiffany-longworth-ignite"
+    date: 2018-07-24
+  - title: "ken-mugrage"
+    date: 2018-07-24
+  - title: "martez-reed"
+    date: 2018-07-24
+  - title: "david-stacy"
+    date: 2018-07-24
+  - title: "austin-zellner"
+    date: 2018-07-24

@@ -6,14 +6,32 @@ type = "event"
   {{< cfp_dates >}}
 
 <hr>
+<center><b> Our Call for Papers has closed and we are evaluating submissions at this time. </b></center>
+<hr>
 
-There are three ways to propose a topic at devopsdays:
-<ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
-  <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
-</ol>
+It is a pleasure to invite you to participate in the 2018 devopsdays Boise Conference. The conference will take place at {{< event_location >}} in downtown Boise on {{< event_start >}}.
 
+For the past three years, we have partnered with devopsdays to present the premier DevOps themed conference for the Boise area. This is a technical conference aimed at sharing and improving the current software development practices of local technology businesses. Sharing these practices benefits all industries and makes our region more competitive and attractive to the constrained talent pool. This year we plan to inspire local technical and business leaders with a world class line up of presentations.
+
+Our main purpose in hosting this event is to create an opportunity for the software community to share leading edge technologies and processes that improve the speed, reliability, and security of software development. The presentations will focus on evolving technical and architectural practices and the methods needed to lead change efforts in software groups and organizations. The goal is to give leaders the tools and practices they need to develop and deploy software faster and to win in the marketplace.
+
+Prospective speakers are invited to contribute presentation outlines for general audience presentations and breakout sessions lasting 45 minutes. Topics cover the broad range of stories that detail improving software delivery through development and operations process improvements.
+
+Topics of interest include:
+
+* Continuous Integration: strategies to effectively coordinate developers.
+* Continuous Delivery: strategies to improve quality and frequency of code deployments.
+* Test Automation: best practices for creating reliable and maintainable automated tests.
+* Edge Computing: streamlining the flow of traffic from IoT devices and providing real-time local data analysis
+* Environment Management: efficient creation, deployment, and decommissioning of environment stacks for development, test, production.
+* Software Architecture: patterns to improve development efficiency through design
+* Moving to the Cloud: strategies for moving code from data center to cloud hosting service
+* Working with Legacy Code: how to improve throughput and reliability when working with tightly coupled systems
+* Software Pipelines: design and implementation of an effective pipeline
+* Monitoring: ensuring service uptime and quick resolution of issues
+* Agile Planning and Requirements Management
+
+Please feel free to propose additional topics that you think may be of interest!
 <hr>
 
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
@@ -27,9 +45,11 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<strong>How to submit a proposal:</strong> Send an email to {{< email_proposals >}} with the following information
 <ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li> 
+	<li>Abstract (several sentences explaining what attendees will learn)</li>
+    <li><i>Optional</i>: Slides or extended description
 </ol>
+
+We look forward to seeing you at the 2018 devopsdays Boise Conference!

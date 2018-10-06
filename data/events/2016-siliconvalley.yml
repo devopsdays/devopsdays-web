@@ -3,6 +3,8 @@ year: 2016 # The year of the event. Make sure it is in quotes.
 city: "Silicon Valley" # The city name of the event. Capitalize it.
 friendly: "2016-siliconvalley" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current".
+event_group: "Silicon Valley"
+
 startdate: 2016-06-24 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-06-25 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-04-01
@@ -15,7 +17,7 @@ team: ["Jennifer Davis", "Rob Berger", "Jamesha Fisher", "Linda Laubenheimer", "
 organizer_email: "organizers-siliconvalley-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-siliconvalley-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: bigpanda
+  - id: bigpanda-before-20171017
     level: gold
   - id: deis
     level: gold
@@ -27,7 +29,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: opsclarity
     level: gold
-  - id: redislabs
+  - id: redislabs-before-20180508
     level: gold
   - id: signalfx-before-20170602
     level: silver
@@ -49,7 +51,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: absponsor
   - id: dataloop
     level: absponsor
-  - id: victorops
+  - id: victorops-before-20180823
     level: csstation
   - id: netuitive
     level: csstation

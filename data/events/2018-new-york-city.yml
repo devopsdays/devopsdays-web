@@ -1,0 +1,351 @@
+name: "2018-new-york-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "New York City" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysNYC" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to New York City!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "New York City"
+speakers_verbose: "true"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate:  2018-01-18T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-01-19T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2017-10-12T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end:  2017-11-26T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce:  2017-12-03T00:00:00-05:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2018-tickets-39330760363"
+
+# Location
+#
+coordinates: 40.756681, -73.989649
+location: Microsoft Technology Center
+location_address: 11 Times Square
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+  - name: promote
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ross Clanton"
+    twitter: "RossClanton"
+    employer: "Verizon"
+    linkedin: "https://www.linkedin.com/in/rossclanton"
+    image: "ross-clanton.jpg"
+  - name: "Ceren Ercen"
+    image: "ceren-ercen.jpg"
+  - name: "Tom Limoncelli"
+    twitter: "YesThatTom"
+    employer: "Stack Overflow, Inc."
+    github: "TomOnTime"
+    image: "tom-limoncelli.jpg"
+  - name: "Jacki Damiano"
+    image: "jacki-damiano.jpg"
+    linkedin: "https://www.linkedin.com/in/jaclyn-damiano-0a4b432/"
+  - name: "Karen Whelan"
+    twitter: "corona_flga"
+    employer: "Verizon"
+    image: "karen-whelan.jpg"
+  - name: "Kristen Olah"
+    employer: "Verizon"
+    image: "kristen-olah.jpg"
+  - name: "Matt Walter"
+    twitter: "ohaiwalt"
+    employer: "Flatiron Health"
+    linkedin: "https://linkedin.com/in/ohaiwalt"
+    image: "matthew-walter.jpg"
+  - name: "Nick Maxwell"
+    twitter: "CoffinNailVGD"
+    employer: "Verizon"
+    linkedin: "https://www.linkedin.com/in/nick-maxwell-33169b56/"
+    github: "coffinnailvgd"
+    image: "nick-maxwell.jpg"
+#  - name: "Sally Fields"
+#    employer: "Acme Anvil Co."
+#    facebook: "https://www.facebook.com/sally.fields"
+#    linkedin: "https://www.linkedin.com/in/sallyfields"
+#    website: "https://mattstratton.com"
+#    image: "sally-fields.jpg"
+organizer_email: "organizers-new-york-city-2018@devopsdays.org" # Put your organizer email address here
+#proposal_email: "proposals-new-york-city-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: microsoft
+    level: venue
+  - id: mabl
+    level: gold
+  - id: chef
+    level: gold
+  - id: catchpoint
+    level: gold
+  - id: verizon
+    level: gold
+  - id: influxdata-before-201802
+    level: gold
+  - id: mongodb
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: puppet
+    level: gold
+  - id: thoughtworks-gocd
+    level: silver
+  - id: portworx
+    level: silver
+  - id: appdynamics-before-20180316
+    level: silver
+  - id: instana
+    level: silver
+  - id: signalfx-before-20180508
+    level: silver
+  - id: opsgenie
+    level: silver
+  - id: fastly
+    level: silver
+  - id: flatiron-health
+    level: bronze
+  - id: dbmaestro
+    level: bronze
+  - id: kaizenops-before-20180203
+    level: cc
+  - id: arresteddevops
+    level: community
+  - id: malwarebytes
+    level: lanyard
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
+  - id: cc
+    label: Closed Captioning
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: gold
+    label: Gold
+    max: 5
+  - id: silver
+    label: Silver
+    max: 4 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+    max: 1
+  - id: community
+    label: Community
+    max: 1
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2018-01-18"
+    start_time: "08:00"
+    end_time: "09:30"
+  - title: "Conference Open & Welcome"
+    type: custom
+    date: "2018-01-18"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "john-willis"
+    type: talk
+    date: "2018-01-18"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "kishore-jalleda"
+    type: talk
+    date: "2018-01-18"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "bridget-kromhout"
+    type: talk
+    date: "2018-01-18"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: "2018-01-18"
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "fong-jones-mckaig"
+    type: talk
+    date: "2018-01-18"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "manish-patel"
+    type: talk
+    date: "2018-01-18"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-01-18"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2018-01-18"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-01-18"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-01-18"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-01-18"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-01-18"
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "thomas-a-limoncelli"
+    type: talk
+    date: "2018-01-18"
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: "2018-01-18"
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening Social Event at Beer Authority, sponsored by NetApp (see above)"
+    type: custom
+    date: "2018-01-18"
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2018-01-19"
+    start_time: "08:00"
+    end_time: "09:30"
+  - title: "Opening Welcome"
+    type: custom
+    date: "2018-01-19"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "tanya-reilly"
+    type: talk
+    date: "2018-01-19"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: "2018-01-19"
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "peter-varhol"
+    type: talk
+    date: "2018-01-19"
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: "2018-01-19"
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "julie-qiu"
+    type: talk
+    date: "2018-01-19"
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "randy-shoup"
+    type: talk
+    date: "2018-01-19"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-01-19"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2018-01-19"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "Open Space Opening"
+    type: custom
+    date: "2018-01-19"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: custom
+    date: "2018-01-19"
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: custom
+    date: "2018-01-19"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: "2018-01-19"
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Raffles"
+    type: custom
+    date: "2018-01-19"
+    start_time: "16:15"
+    end_time: "16:30"
+  - title: "ryan-lockard"
+    type: talk
+    date: "2018-01-19"
+    start_time: "16:30"
+    end_time: "17:15"
+  - title: "Conference Close"
+    type: custom
+    date: "2018-01-19"
+    start_time: "17:15"
+    end_time: "17:30"
+ignites:
+  - title: "heidi-waterhouse-ig"
+    date: "2018-01-18"
+  - title: "jason-yee"
+    date: "2018-01-18"
+  - title: "mike-fiedler"
+    date: "2018-01-18"
+  - title: "dawn-parzych"
+    date: "2018-01-18"
+  - title: "jay-gordon"
+    date: "2018-01-19"
+  - title: "chris-short"
+    date: "2018-01-19"
+  - title: "gerie-owen"
+    date: "2018-01-19"
+  - title: "michael-ducy"
+    date: "2018-01-19"
+  - title: "aaron-aldrich"
+    date: "2018-01-19"

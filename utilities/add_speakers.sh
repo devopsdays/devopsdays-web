@@ -6,20 +6,33 @@ cd `dirname ${0}`
 
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
+GNUSED=$(which sed)
 SEDCMD(){
   if [[ $OSNAME == 'Linux' ]]; then
     sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' ]]; then
+  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
     sed -i '' "$@"
   fi
 }
 
 # Get year
-read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2017'
+default_year=$(date +"%Y")
+if [[ ! -z $DOD_YEAR ]] ; then
+  year="$DOD_YEAR"
+else
+  # We assume the current year (and also assume bash 3, because macs)
+  read -p "Enter your event year (default: $default_year): " year
+fi
+[ -z "${year}" ] && year="$default_year"
 
 # Get city
-read -p "Enter your city name: " city
+if [[ ! -z $DOD_CITY ]] ; then
+  city="$DOD_CITY"
+else
+  read -p "Enter your city name: " city
+fi
 city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 # Generate event slug
 event_slug=$year-$city_slug

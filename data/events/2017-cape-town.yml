@@ -3,7 +3,7 @@ name: "2017-cape-town"
 year: "2017"
 city: "Cape Town"
 event_twitter: "devopsdayscpt"
-description: DevopsDays is coming back to Cape Town!
+description: DevOpsDays is coming back to Cape Town!
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
 startdate: 2017-11-06
@@ -13,6 +13,8 @@ cfp_date_start: 2017-06-01  # start accepting talk proposals.
 cfp_date_end: 2017-07-31  # close your call for proposals.
 cfp_date_announce: 2017-08-08  # inform proposers of status
 
+registration_open: "true"
+
 coordinates: "-33.935600, 18.457423"
 location: "Hilton Doubletree, Woodstock, Cape Town"
 
@@ -20,9 +22,10 @@ ga_tracking_id: "UA-105986234-1"
 
 nav_elements:
   #  - name: program
-  - name: registration
-    url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
+  #- name: registration
+  #  url: https://www.quicket.co.za/events/22115-devopsdays-cape-town-2017/
   - name: location
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -64,7 +67,7 @@ team_members:
 organizer_email: "organizers-cape-town-2017@devopsdays.org"
 proposal_email: "proposals-cape-town-2017@devopsdays.org"
 
-sponsors_accepted: "yes"
+sponsors_accepted: "no"
 sponsor_levels:
   - id: platinum
     label: Platinum
@@ -72,26 +75,200 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 3
-  - id: silver
-    label: Silver
-    max: 3
   - id: basic
     label: Basic
-    max: 3
-#  - id: eventdinner
-#    label: "Event dinner"
-#    max: 1
-#  - id: closingevent
-#    label: "Closing drinks"
-#    max: 1
-#  - id: coffee
-#    label: "Coffee"
-#    max: 1
+    max: 1
+  - id: community
+    label: Community
 
 sponsors:
+ - id: obsidian
+   level: platinum
+   url: https://sites.elasticgrid.com/atlassian/devops-aw/obsidianza/
  - id: offerzen
+   level: gold
+   url: http://bit.ly/2xBHNm9
+ - id: microsoft
    level: gold
  - id: thoughtworks-gocd
    level: gold
  - id: zappistore
    level: gold
+ - id: ca-tech-za
+   level: basic
+   url: https://www.ca.com/content/dam/ca/us/files/industry-analyst-report/continuous-testing-as-a-digital-business-enabler.pdf
+ - id: lpi-za
+   level: community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-11-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-06
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "christian-witts"
+    type: talk
+    date: 2017-11-06
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "rahul-mahale"
+    type: talk
+    date: 2017-11-06
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2017-11-06
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "jaco-greyling"
+    type: talk
+    date: 2017-11-06
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "de-wet-blomerus"
+    type: talk
+    date: 2017-11-06
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-06
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-06
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-11-06
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "sherif-el-mahdi-day-1"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "grant-finnemore"
+    type: workshop
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-11-06
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-11-06
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-11-06
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Evening Event at Woodstock Lounge"
+    type: custom
+    date: 2017-11-06
+    start_time: "18:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2017-11-07
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2017-11-07
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "spencer-krum"
+    type: talk
+    date: 2017-11-07
+    start_time: "09:10"
+    end_time: "09:55"
+  - title: "duncan-phillips"
+    type: talk
+    date: 2017-11-07
+    start_time: "09:55"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2017-11-07
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "william-stewart"
+    type: talk
+    date: 2017-11-07
+    start_time: "10:45"
+    end_time: "11:20"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2017-11-07
+    start_time: "11:20"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-07
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-07
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2017-11-07
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "sherif-el-mahdi-day-2"
+    type: workshop
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "mark-clarke"
+    type: workshop
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "16:45"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-11-07
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-11-07
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-11-07
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing Event"
+    type: custom
+    date: 2017-11-07
+    start_time: "17:00"
+    end_time: "19:00"
+
+ignites:
+  - title: "reuben-honigwachs"
+    date: 2017-11-06
+  - title: "storm-joubert"
+    date: 2017-11-06
+  - title: "whitney-tennant"
+    date: 2017-11-07
+  - title: "kingori-maina"
+    date: 2017-11-07

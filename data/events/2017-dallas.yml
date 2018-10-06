@@ -154,7 +154,7 @@ sponsors:
     level: platinum
   - id: verizon
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: platinum
   - id: dellemc
     level: platinum
@@ -200,13 +200,13 @@ sponsors:
     level: workshop
   - id: arresteddevops
     level: media
-  - id: 2017-devopsdotcom
+  - id: devopsdotcom
     level: media
   - id: itrevolution
     level: media
   - id: devopslive
     level: community
-  - id: 2017-addo
+  - id: addo-2017
     level: community
   - id: hackernest-dfw
     level: community

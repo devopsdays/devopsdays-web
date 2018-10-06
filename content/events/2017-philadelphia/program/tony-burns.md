@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Continuous Delivery on ECS"
 Type = "talk"
 Speakers = ["tony-burns"]
+youtube = "yZ9_A7KlZqM"
 +++
 
 Amazon Elastic Container Service is an orchestration service for Docker containers in clusters of EC2 instances. We’ll dive into the details of how Capital One deployed its first ECS cluster, with full 

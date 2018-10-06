@@ -4,6 +4,7 @@ Talk_start_time = "11:40"
 Talk_end_time = "12:10"
 Title = "Serving Docker containers in an immutable infrastructure on AWS"
 Type = "talk"
+youtube = "-9I7NiC9Gdw"
 Speakers = ["niek-palm"]
 +++
 

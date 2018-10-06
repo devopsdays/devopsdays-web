@@ -11,7 +11,7 @@ Description = "devopsdays Berlin 2017"
 
 **DevOpsDays is returning to Berlin, Germany!**
 
-<div style="text-align:center;">
+<div style="text-align:center;padding-top: 100px;">
   {{< event_logo >}}
 </div>
 
@@ -33,13 +33,13 @@ Description = "devopsdays Berlin 2017"
   </div>
 </div>
 
-<!-- 
+<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.devops-berlin.de/">Registration will open soon</a> 
+    <a href="https://www.devops-berlin.de/">Registration</a>
   </div>
 </div>
 -->

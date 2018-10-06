@@ -9,4 +9,4 @@
 
 docker stop hugo-server
 docker rm   hugo-server
-docker run -tip 1313:1313 -v $(pwd):/site:cached -e VIRTUAL_HOST="${1}" --name hugo-server devopsdays/docker-hugo-server:v0.23
+docker run -tip 1313:1313 -v $(pwd):/src:cached -e HUGO_WATCH=1 --name hugo-server jojomi/hugo:0.30.2

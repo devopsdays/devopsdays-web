@@ -14,13 +14,13 @@ cfp_date_start:  2017-07-31
 cfp_date_end:  2017-10-01
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: https://www.papercall.io/devopsdaystlv
 
 registration_date_start: 2017-07-31
 registration_date_end: 2017-11-13
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -31,13 +31,13 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/devopsdaystlv
+#  - name: propose
+#    url: https://www.papercall.io/devopsdaystlv
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -67,7 +67,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/evgenyzislis/"
   - name: "Nati Cohen"
     image: "nati-cohen.jpg"
-  - name: "Sharone Zitsman"
+  - name: "Sharone Zitzman"
     image: "sharone-zitsman.jpg"
   - name: "Uri Cohen"
     image: "uri-cohen.jpg"
@@ -92,9 +92,9 @@ proposal_email: "proposals-tel-aviv-2017@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-cloudify
+  - id: cloudify
     level: lanyard
-  - id: 2017-cloudify
+  - id: cloudify
     level: silver
   - id: twistlock
     level: lunch
@@ -108,49 +108,60 @@ sponsors:
     level: bronze
   - id: bigpanda
     level: silver
-  - id: microsoftazure
+  - id: microsoft
     level: silver
   - id: logzio
     level: silver
-  - id: facebook
+  - id: facebook-before-20170607
     level: silver
+  - id: walkme
+    level: silver
+  - id: elastic
+    level: silver
+  - id: checkmarx
+    level: bronze
+  - id: akamai
+    level: bronze
+  - id: gitlab_il
+    level: bronze
+  - id: automat_it
+    level: bronze
+  - id: similarweb
+    level: bronze
   - id: quali
     level: workshoproom
   - id: outbrain
     level: breakfast
   - id: oracle
     level: silver
-  - id: microsoftazure
-    level: happyhour
-#  - id: elastic
-#    level: bronze
-#  - id: googlecloud
-#    level: silver
+  - id: microsoft
+    level: day1happyhour
+  - id: ziprecruiter
+    level: day2happyhour
+  - id: facebook-before-20170607
+    level: giveaway
+  - id: cyberarktlv
+    level: silver
+  - id: googlecloudtlv2017
+    level: silver
 
 
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Platinum
-    max: 4
+#  - id: gold
+#    label: Platinum
+#    max: 4
   - id: silver
     label: Gold
     max: 12
   - id: bronze
     label: Silver
-  - id: lanyard
-    label: lanyard
-    max: 1
-  - id: community
-    label: Community
-  - id: media
-    label: Media
   - id: lunch
     label: Lunch
     max: 1
@@ -160,12 +171,20 @@ sponsor_levels:
   - id: coffee
     label: Coffee
     max: 1
-  - id: happyhour
-    label: HappyHour
+  - id: day1happyhour
+    label: Day 1 HappyHour
     max: 1
-  - id: massage
-    label: Massage
+  - id: day2happyhour
+    label: Day 2 HappyHour
     max: 1
   - id: workshoproom
-    label: WorkShopRoom
+    label: WorkShop Room
+    max: 1
+  - id: lanyard
+    label: lanyard
+    max: 1
+  - id: community
+    label: Community
+  - id: giveaway
+    label: GiveAway Bag
     max: 1

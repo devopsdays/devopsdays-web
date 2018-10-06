@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "You Have A Data Lake, Now What?"
 Type = "talk"
 Speakers = ["alison-stanton"]
+youtube = "A7zbLLRNLDE"
 +++
 
 You have a data lake and you’re worried about drowning in it. This talk will address solutions and process for using what data you’ve collected effectively with your team and the rest of the organization. Practical and hands-on lessons covering the glamorous and not-so-glamorous next steps.

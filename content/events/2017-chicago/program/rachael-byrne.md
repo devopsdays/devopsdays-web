@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Don't be a Bystander, be an Incident Commander!"
 Type = "talk"
 Speakers = ["rachael-byrne"]
+youtube = "ljSFUDqc5cw"
 +++
 
 Many organizations have some kind of incident response process to coordinate during a major service outage. Some operationally mature companies incorporate a formal Incident Commander role in their process for a faster, more effective response. The Incident Commander serves as the final decision-maker during a major incident, delegating tasks and listening to input from subject matter experts in order to bring the incident to resolution. Whether or not a company has a formal process that includes an Incident Commander, most companies believe that your most senior engineer is best suited to lead an incident response. I challenge this assumption.

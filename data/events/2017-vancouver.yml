@@ -2,7 +2,7 @@ name: "2017-vancouver" # The name of the event. Four digit year with the city na
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Vancouver" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysyvr"
-status: "current" # Options are "past" or "current". Use "current" for upcoming.
+status: "past" # Options are "past" or "current". Use "current" for upcoming.
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
@@ -76,9 +76,9 @@ sponsors:
     level: gold
   - id: sumologic
     level: gold
-  - id: trinimbus
+  - id: trinimbus-before-20180524
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
 
   - id: chef

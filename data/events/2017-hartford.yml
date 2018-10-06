@@ -58,13 +58,19 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: victorops
+  - id: pagerduty
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: victorops-before-20180823
     level: silver
-  - id: cyberark
+  - id: cyberark-before-20180203
+    level: silver
+  - id: netapp
     level: silver
   - id: arresteddevops
     level: community
-  - id: victorops
+  - id: victorops-before-20180823
     level: mug
   - id: code-monkey
     level: community
@@ -72,6 +78,12 @@ sponsors:
     level: bronze
   - id: sonatype
     level: bronze
+  - id: checkmarx
+    level: bronze
+  - id: newrelic
+    level: bronze
+  - id: stickermule
+    level: stickers
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -94,6 +106,8 @@ sponsor_levels:
     max: 4
   - id: community
     label: Community
+  - id: stickers
+    label: Stickers
 
 program:
   - title: Registration Opens
@@ -181,11 +195,11 @@ program:
     date: 2017-10-10
     start_time: "16:55"
     end_time: "17:00"
-  - title: Evening Happy Hour @ The Society Room
+  - title: Evening Happy Hour @ The Society Room w/ Board Games by The Portal
     type: custom
     date: 2017-10-10
     start_time: "17:00"
-    end_time: "20:00"
+    end_time: "19:00"
 
   - title: "Registration Opens"
     type: custom

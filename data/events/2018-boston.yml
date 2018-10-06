@@ -1,0 +1,439 @@
+name: "2018-boston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Boston" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays Boston 2018 was incredible. We hope you had a great time. We are getting started with planning for next year and look forward to seeing you again in Boston or at any of the other amazing DevOpsDays!" # Edit this to suit your preferences
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-09-24T00:00:00-04:00
+enddate: 2018-09-25T23:59:59-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-04-02T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-06-22T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: ""
+
+registration_open: "false"
+registration_link: "https://www.eventbrite.com/e/devopsdays-boston-2018-tickets-44312573099"
+
+# Location
+#
+coordinates: "42.344447, -71.071291" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Cyclorama at Boston Center for the Arts" # Defaults to city, but you can make it the venue name.
+#
+location_address: "539 Tremont St, Boston, MA 02116" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: program
+  - name: speakers
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+
+  # Advisors: TBD if we can separate out
+
+
+  # Lead organizers: TBD if we can separate out
+
+  - name: "Michael T. Clark"
+    linkedin: http://www.linkedin.com/in/michaeltclark
+    twitter: "michaeltclark"
+    bio: "Michael is a veteran systems management professional. In a career that has ranged from academic computing to finance to manufacturing and now, professional services, he has worked as a front-line technician, a back-office systems engineer, an enterprise architect, and a leader of teams of 100+ technologists in hybrid WAN, large-scale domestic and global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is equally comfortable learning something new at a command line and in the C-suite helping senior executives make sense of their IT strategy and spend. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
+    image: "michaelclark.jpg"
+    employer: "Renaissance Tech & Media"
+  
+  - name: "Laura Stone"
+    bio: "Hi, I'm Laura. I believe that done is better than perfect, that iteration, simplicity, and customer feedback are keys to success, and that community-driven efforts lead to powerful change. When I'm not working (Senior Site Reliability Engineer at Klaviyo) or organizing the PyLadies Boston and Boston Devops meetups, I enjoy a nice cup of tea and board games with friends."
+    twitter: "tyrostone"
+    linkedin: "https://www.linkedin.com/in/lauraestone/"
+    github: "tyrostone"
+    image: "laurastone.jpg"
+
+
+  - name: "Matthew Williams"
+    twitter: "technovangelist"
+    employer: "Datadog"
+    github: "technovangelist"
+    facebook: "https://www.facebook.com/technovangelist"
+    linkedin: "https://www.linkedin.com/in/technovangelist"
+    website: "http://technovangelist.com"
+    image: "mattwilliams.jpg"
+    bio: "Matt Williams is an Evangelist at Datadog. He is passionate about the power of monitoring and metrics to make large-scale systems stable and manageable. So he tours the country speaking and writing about monitoring with Datadog. When he's not on the road, he's coding. You can find Matt on Twitter at @Technovangelist."
+
+
+  - name: "Don Luchini"
+    bio: "Don Luchini is a Boston-based DevOps engineer specializing in infrastructure management and deployment automation pipelines. Over the past ten years, he has acted in the corporate IT, quality assurance, software development, and release engineering spaces, encompassing a number of roles that now fall under the term 'DevOps'. He is currently the DevOps Team Lead at CloudHealth Technologies. In his spare time, he is a martial artist, radio enthusiast, and hobby photographer."
+    github: "don-code"
+    image: "donluchini.jpg"
+
+  - name: "Michael D'Aniello"
+    twitter: "MikeDaniello"
+    linkedin: "http://www.linkedin.com/in/michaeldaniello"
+    bio: "Michael works as a Site Reliability Engineer for Carbon Black, a SaaS security company in the Boston area. He has a passion for all things surrounding cloud design and architecture, building tools with Go, automating infrastructure provisioning, and deployment automation pipelines. While not tinkering with tech he can be found pressing arcade stick buttons, or banging on drums."
+    github: "MichaelDaniello"
+    image: "michaelbio.jpg"
+  - name: "Jason Wolanyk"
+    linkedin: https://www.linkedin.com/in/jasonwolanyk/
+
+  - name: "Hannah Klemme"
+    twitter: "msklemme"
+    linkedin: "https://www.linkedin.com/in/hannahklemme/"
+    bio: "Hannah is the Marketing Programs Manager at Threat Stack Inc, where she focuses on building and developing a programs that support the DevOps and security community. When she's not at work, you can find her outdoors hiking, running, playing soccer or reading one of her favorite non-fiction books."
+    image: "hannaklemme.jpg"
+
+  - name: "Paul Bruce"
+    bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE 2675, daylights with the Neotys team as a Sr. Performance Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries around the world. You can learn more at: http://paulsbruce.io"
+    website: "http://paulsbruce.io"
+    image: "paulsbruce.jpg"
+  - name: "Adam Blackwell"
+    employer: "MassMutual"
+    bio: "Adam is a Site Reliability Engineer, he enjoys combining software and systems engineering to build and run large-scale fault-tolerant environments.  Before joining MassMutual, he was an Operations Engineer at Quantopian solving infrastructure and security problems in the financial space.  Adam studied Computer Science at Northeastern and enjoys spending time outside of the city in Maine.  When he’s not at his laptop he can be found skiing tall mountains or exploring far away oceans."
+    image: "adamblackwell.jpg"
+
+
+  # Asst. organizers: TBD if we can separate out
+
+  - name: "Dave Fredricks"
+    bio: "Professionally, I help companies gain a competitive edge in technical resource management, planning, and execution. On the personal side, I am very passionate about teaching and learning. 'Learning with the intent to teach others'."
+    twitter: "dfreddy76"
+    image: "davefredricks.jpg"
+    role: Advisor
+
+  - name: "Cody Lazri"
+    twitter: "ti_au_"
+    employer: "Cogito"
+    bio: "E/em/eir/eirs. Trans non-binary devops-y nerd and social justice warrior. | ProdOps at Cogito. | Opinions mine."
+    image: "codylazri.jpg"
+    role: Advisor
+  # Example:
+  # - name: "Sally Fields"
+  #   employer: "Acme Anvil Co."
+  #   github: "devopsdays"
+  #   facebook: "https://www.facebook.com/sally.fields"
+  #   linkedin: "https://www.linkedin.com/in/sallyfields"
+  #   website: "https://mattstratton.com"
+  #   image: "sally-fields.jpg"
+
+organizer_email: "organizers-boston-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-boston-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: klaviyo
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: appdynamics
+    level: platinum
+  - id: opsgenie
+    level: platinum
+  - id: datadog
+    level: gold
+  - id: threatstack
+    level: platinum
+  - id: cloudzero
+    level: platinum
+  - id: sensu
+    level: platinum
+  - id: instana
+    level: platinum
+  - id: dynatrace
+    level: gold
+  - id: opsview
+    level: platinum
+  - id: everbridge
+    level: platinum
+  - id: puppet
+    level: platinum
+  - id: logz
+    level: platinum
+  - id: rundeck
+    level: gold
+  - id: cyberark
+    level: platinum
+  - id: slalom
+    level: gold
+  - id: circleci
+    level: gold
+  - id: catchpoint
+    level: platinum
+  - id: elastic
+    level: platinum
+  - id: cloudbolt
+    level: gold
+  - id: verizon
+    level: platinum
+  - id: newrelic
+    level: gold
+  - id: victorops
+    level: platinum
+  - id: valiantys
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: trinetx
+    level: platinum
+  - id: chaossearch
+    level: gold
+  - id: redgate
+    level: gold
+  - id: neotys
+    level: gold
+  - id: carbonblack
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: ca
+    level: alacarte
+  - id: launch-darkly
+    level: alacarte
+  - id: genians
+    level: alacarte
+  - id: arresteddevops
+    level: community
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+
+  - id: gold
+    label: Gold
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
+  
+  - id: community
+    label: Community
+  
+  # - id: community
+  #   label: Community
+
+    
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-09-24
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "katy-farmer"
+    type: talk
+    date: 2018-09-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "17:00"
+  - title: "anton-gurov"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "tobias-macey"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-09-24
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2018-09-24
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "erik-peterson"
+    type: talk
+    date: 2018-09-24
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "jane-prusakova"
+    type: talk
+    date: 2018-09-24
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-24
+    start_time: "11:45"
+    end_time: "12:45"
+  - title: "matt-surabian"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "yulan-lin-neeraj-tandon"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "steve-pember"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "pete-cheslock"
+    type: talk
+    date: 2018-09-24
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Break"
+    type: custom
+    date: 2018-09-24
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "alicia-davis"
+    type: talk
+    date: 2018-09-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "david-danzilio"
+    type: talk
+    date: 2018-09-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "tim-hartmann-steve-huff"
+    type: workshop
+    date: 2018-09-24
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2018-09-24
+    start_time: "15:00"
+    end_time: "17:00"
+  - title: "Day One Wrap Up"
+    type: custom
+    date: 2018-09-24
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Sponsored by CA: Special Evening Event, Banyon Bar + Refuge, 553 Tremont St (just a few doors west of the Cyclorama)"
+    type: custom
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
+  - title: "garima-sharma"
+    type: talk
+    date: 2018-09-24
+    start_time: "17:30"
+    end_time: "21:00"
+  
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-09-25
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "17:00"
+  - title: "james-meickle"
+    type: talk
+    date: 2018-09-25
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-09-25
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "sarah-zelechoski"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "flynn"
+    type: talk
+    date: 2018-09-25
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "timothy-bonci"
+    type: talk
+    date: 2018-09-25
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "matty-stratton"
+    type: talk
+    date: 2018-09-25
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-25
+    start_time: "11:45"
+    end_time: "12:45"
+  - title: "yegor-bugayenko"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "austen-novis"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "paul-bruce"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "oleg-chunikhin"
+    type: talk
+    date: 2018-09-25
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "Break"
+    type: custom
+    date: 2018-09-25
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2018-09-25
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "Day Two Wrap Up"
+    type: custom
+    date: 2018-09-25
+    start_time: "17:00"
+    end_time: "17:15"

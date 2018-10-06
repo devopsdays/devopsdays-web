@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Title: Management or Technical?"
 Type = "talk"
 Speakers = ["michael-stahnke"]
+youtube = "tGg15etIar8"
 +++
 
 Have you ever been pressed in your career about whether you want to go into management or be technical? I get asked this a lot. My answer is always, “why do I have to choose?” I’ll like to dive into the root of this question and then cover ways in which you can be a leader and still be a technical contributor. It’s a challenge, but certainly possible. I’ll draw on my experience over the last five years at Puppet, Inc.

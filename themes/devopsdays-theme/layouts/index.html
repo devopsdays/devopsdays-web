@@ -6,7 +6,8 @@
     <div class="row">
         {{- range sort $.Site.Data.events "startdate" -}}
         {{- if .startdate -}}
-        {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
+<!-- Subtracting a day is a patch for https://github.com/devopsdays/devopsdays-theme/issues/656 -->
+        {{- if ge (time .enddate) (now.AddDate 0 0 -1) -}}
         {{- $.Scratch.Set "city" .city -}}
         {{- $.Scratch.Set "year" .year -}}
         {{- $.Scratch.Set "logo" "unset" -}}
@@ -23,16 +24,10 @@
                 <a href="{{ (printf "events/%s" .name) | absURL}}"><img src="{{"img/event-logo-square.jpg" | absURL }}" class="img-fluid" alt="devopsdays {{ .city }}"/></a>
                 {{- end -}}
                 <br/>
-        {{- if ne .startdate .enddate -}}
-          {{- if eq (dateFormat "January" .startdate) (dateFormat "January" .enddate ) -}}
+      {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
             <span class="homepage-grid-date">
             {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2, 2006" .enddate }}<br />
             </span>
-          {{- else -}}
-            <span class="homepage-grid-date">
-            {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2, 2006" .enddate }}<br />
-            </span>
-          {{- end -}}
       {{- else -}}
             <span class="homepage-grid-date">
           {{ dateFormat "Jan 2, 2006" .startdate }}<br />

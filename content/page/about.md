@@ -8,11 +8,13 @@ aliases = ["/contact/"]
 
 +++
 
-Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Topics often include automation, testing, security, and organizational culture.
+Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area. 
+
+Most devopsdays events feature a combination of curated talks (see open [Calls for Proposals](/speaking/)) and self organized [open space](/open-space-format/) content. Topics often include automation, testing, security, and organizational culture.
 
 ### History
 
-The first devopsdays was held in Ghent, Belgium in 2009. Since then, devopsdays events have multiplied, and if there isn't one in your city, contact us about organizing one yourself!
+The first devopsdays was held in Ghent, Belgium in 2009. Since then, devopsdays events have multiplied, and if there isn't one in your city, [check out the information](/organizing/) about organizing one yourself!
 
 
 ### About the organization

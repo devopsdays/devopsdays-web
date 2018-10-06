@@ -1,15 +1,15 @@
 {{- $.Scratch.Add "events" "<table class = 'table sortable table-condensed'><thead><tr><th>City</th><th>&nbsp;&nbsp;CFP Closes</th><th>&nbsp;&nbsp;&nbsp;&nbsp;Event Starts</th></tr></thead><tbody>" -}}
 {{- range sort $.Site.Data.events "startdate" -}}
   {{- if .cfp_date_end -}}
-    {{- if and (ge (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) (dateFormat "2006-01-02" .cfp_date_start)) (ge (dateFormat "2006-01-02" .cfp_date_end) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
+    {{- if and (ge now (time .cfp_date_start)) (ge (time .cfp_date_end) now) -}}
       {{- $.Scratch.Add "events" "<tr><td><a href = '/events/" -}}
       {{- $.Scratch.Add "events" .name -}}
       {{- $.Scratch.Add "events" "/' class = 'speaking'>" -}}
       {{- $.Scratch.Add "events" .city -}}
       {{- $.Scratch.Add "events" "</a></td><td data-dateformat='YYYY-MM-DD'>&nbsp;&nbsp;" -}}
-      {{- $.Scratch.Add "events" .cfp_date_end -}}
+      {{- $.Scratch.Add "events" (dateFormat "2006-01-02" .cfp_date_end) -}}
       {{- $.Scratch.Add "events" "</td><td data-dateformat='YYYY-MM-DD'>&nbsp;&nbsp;&nbsp;&nbsp;" -}}
-      {{- $.Scratch.Add "events" .startdate -}}
+      {{- $.Scratch.Add "events" (dateFormat "2006-01-02" .startdate) -}}
       {{- $.Scratch.Add "events" "</td></tr>" -}}
     {{- end }} {{/* end: date is now or afterwards */}}
   {{- end }} {{/* end: if .cfp_date_end */}}

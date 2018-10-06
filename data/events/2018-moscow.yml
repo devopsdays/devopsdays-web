@@ -1,0 +1,377 @@
+name: "2018-moscow" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Moscow" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysMSK" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Moscow!" # Edit this to suit your preferences
+#ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-06-16T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-06-16T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-04-02T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2018-06-01T23:59:59+03:00 # close your call for proposals.
+cfp_date_announce: 2018-06-01T00:00:00+03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://goo.gl/forms/TYweAvJEEZ8zpPVG2" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-04-02T00:00:00+03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-06-15T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdays.timepad.ru/event/663105/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "55.787932,37.680616" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Moscow, Holiday Inn Sokolniki" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Rusakovskaya Str. 24, Moscow, 107014" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: devopsdays.ru
+    icon: "globe"
+    url: http://devopsdays.ru
+  - name: location
+  - name: program
+  - name: propose
+  - name: speakers
+  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Michael Krivilev"
+    employer: "Logrocon"
+    twitter: ""
+    bio: ""
+    image: "michael-krivilev.jpg"
+  - name: "Timur Karmazin"
+    employer: "Young Executive"
+    twitter: ""
+    bio: ""
+    image: "timur-karmazin.jpg"    
+  - name: "Irina Puchkova"
+    employer: "Young Executive"
+    twitter: ""
+    bio: ""
+    image: "irina-puchkova.jpg"
+  - name: "Mariya Minailova"
+    employer: "Logrocon"
+    twitter: ""
+    bio: ""
+    image: "mariya-minailova.jpg"
+  - name: "Ilya Zverev"
+    employer: "Logrocon"
+    twitter: "aristidas"
+    bio: ""
+    image: "ilya-zverev.jpg"
+  - name: "Sergey Rusanov"
+    employer: "Logrocon"
+    twitter: ""
+    bio: ""
+    image: "sergey-rusanov.jpg"
+  - name: "Vladislav Zavisnov"
+    employer: ""
+    twitter: ""
+    bio: ""
+    image: "vladislav-zavisnov.jpg"
+  - name: "Boris Zlobin"
+    employer: "Logrocon"
+    twitter: ""
+    bio: ""
+    image: "boris-zlobin.jpg"
+  - name: "Aleksey Lustin"
+    employer: ""
+    twitter: ""
+    bio: ""
+    image: "aleksey-lustin.jpg"
+organizer_email: "organizers-moscow-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-moscow-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: Logrocon
+    level: organizational
+  - id: YEx
+    level: organizational  
+  - id: holiday-inn-sokolniki
+    level: venuesponsor
+  - id: sbertech
+    level: platinum
+  - id: neoflex
+    level: gold
+  - id: stoloto
+    level: gold
+  - id: leroy-merlin
+    level: gold
+  - id: redhat
+    level: opensource
+  - id: microsoft
+    level: silver
+  - id: pvs-studio
+    level: silver
+  - id: croc
+    level: bronze
+  - id: mailru
+    level: gi
+  - id: rambler
+    level: gi2
+  - id: dmk
+    level: reading
+  - id: mif
+    level: reading
+  - id: cleverics
+    level: reading
+  - id: iidf
+    level: media
+  - id: interfax
+    level: media
+  - id: it-events
+    level: media
+  - id: aciso
+    level: media
+  - id: ict-online
+    level: media
+  - id: ict2go
+    level: media
+  - id: globalcio
+    level: media
+  - id: scan
+    level: media
+  - id: jooble
+    level: media
+  - id: itsmf
+    level: media
+  - id: congress-tv
+    level: media
+  - id: upr
+    level: media
+  - id: realitsm
+    level: media
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: organizational 
+    label: Organizational 
+  - id: venuesponsor
+    label: Venue
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: opensource
+    label: Open Source
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: gi
+    label: Global Internet
+  - id: gi2
+    label: General Information    
+  - id: reading
+    label: Reading
+  - id: media
+    label: Media
+  - id: community
+    label: Community
+
+
+# Program
+program:
+
+# day 1
+  - title: "РЕГИСТРАЦИЯ, ПРИВЕТСТВЕННЫЙ КОФЕ"
+    type: custom
+    date: 2018-06-16
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "ОТКРЫТИЕ КОНФЕРЕНЦИИ"
+    type: custom
+    date: 2018-06-16
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "anton-weiss"
+    type: talk
+    date: 2018-06-16
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "КОФЕ-БРЕЙК"
+    type: custom
+    date: 2018-06-16
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "christian-van-tuin"
+    type: talk
+    date: 2018-06-16
+    start_time: "11:00"
+    end_time: "11:30"
+    comments: "СЕКЦИЯ 1"
+  - title: "alexey-burov"
+    type: talk
+    date: 2018-06-16
+    start_time: "11:00"
+    end_time: "11:30"
+    comments: "СЕКЦИЯ 2"
+  - title: "vivek-ganesan"
+    type: talk
+    date: 2018-06-16
+    start_time: "11:30"
+    end_time: "12:00"
+    comments: "СЕКЦИЯ 1"
+  - title: "vladimir-shishkin"
+    type: talk
+    date: 2018-06-16
+    start_time: "11:30"
+    end_time: "12:00"
+    comments: "СЕКЦИЯ 2"
+  - title: "anton-isanin"
+    type: talk
+    date: 2018-06-16
+    start_time: "12:00"
+    end_time: "12:30"
+    comments: "СЕКЦИЯ 1"
+  - title: "andrey-nikolskiy"
+    type: talk
+    date: 2018-06-16
+    start_time: "12:00"
+    end_time: "12:30"
+    comments: "СЕКЦИЯ 2"
+  - title: "michael-huettermann"
+    type: talk
+    date: 2018-06-16
+    start_time: "12:30"
+    end_time: "13:00"
+    comments: "СЕКЦИЯ 1"
+  - title: "pavel-samolysov"
+    type: talk
+    date: 2018-06-16
+    start_time: "12:30"
+    end_time: "13:00"
+    comments: "СЕКЦИЯ 2"
+  - title: "ОБЕД и NETWORKING"
+    type: custom
+    date: 2018-06-16
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "ivan-fateev"
+    type: workshop
+    date: 2018-06-16
+    start_time: "13:00"
+    end_time: "14:00"
+    comments: "Мастер-классы"
+  - title: "filipp-handelyants"
+    type: workshop
+    date: 2018-06-16
+    start_time: "13:30"
+    end_time: "14:30"
+    comments: "Мастер-классы"
+  - title: "pavel-korostin"
+    type: talk
+    date: 2018-06-16
+    start_time: "14:30"
+    end_time: "15:00"
+    comments: "СЕКЦИЯ 1"
+  - title: "alexey-matveev"
+    type: talk
+    date: 2018-06-16
+    start_time: "14:30"
+    end_time: "15:00"
+    comments: "СЕКЦИЯ 2"
+  - title: "alexey-vahov"
+    type: talk
+    date: 2018-06-16
+    start_time: "15:00"
+    end_time: "15:30"
+    comments: "СЕКЦИЯ 1"
+  - title: "daria-oreshkina"
+    type: talk
+    date: 2018-06-16
+    start_time: "15:00"
+    end_time: "15:30"
+    comments: "СЕКЦИЯ 2"
+  - title: "kirill-vetchinkin"
+    type: talk
+    date: 2018-06-16
+    start_time: "15:30"
+    end_time: "16:00"
+    comments: "СЕКЦИЯ 1"
+  - title: "alexander-krupenkin"
+    type: talk
+    date: 2018-06-16
+    start_time: "15:30"
+    end_time: "16:00"
+    comments: "СЕКЦИЯ 2"
+  - title: "inal-kardanov"
+    type: talk
+    date: 2018-06-16
+    start_time: "16:00"
+    end_time: "16:30"
+    comments: "СЕКЦИЯ 1"
+  - title: "kira-memetova"
+    type: talk
+    date: 2018-06-16
+    start_time: "16:00"
+    end_time: "16:30"
+    comments: "СЕКЦИЯ 2"
+  - title: "andrey-beshkov"
+    type: talk
+    date: 2018-06-16
+    start_time: "16:30"
+    end_time: "17:00"
+    comments: "СЕКЦИЯ 1"
+  - title: "andrey-nesterenko"
+    type: talk
+    date: 2018-06-16
+    start_time: "16:30"
+    end_time: "17:00"
+    comments: "СЕКЦИЯ 2"
+  - title: "КОФЕ-БРЕЙК"
+    type: custom
+    date: 2018-06-16
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "IGNITES / Заявки на Open Space-сессии"
+    type: ignite
+    date: 2018-06-16
+    start_time: "17:30"
+    end_time: "18:00"
+  - title: "Подведение итогов / Призы и награждения"
+    type: custom
+    date: 2018-06-16
+    start_time: "18:00"
+    end_time: "18:30"
+  - title: "Open Space-сессии"
+    type: open-space
+    date: 2018-06-16
+    start_time: "18:30"
+    end_time: "20:00"
+    comments: "4 паралельных модерируемых - Открытых сессии"
+  - title: "igor-avdeev"
+    type: workshop
+    date: 2018-06-16
+    start_time: "18:30"
+    end_time: "19:30"
+    comments: "Мастер-классы"
+  - title: "VIP-прием"
+    type: custom
+    date: 2018-06-16
+    start_time: "20:00"
+    end_time: "21:30"

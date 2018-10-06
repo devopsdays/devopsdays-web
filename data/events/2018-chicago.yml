@@ -1,0 +1,500 @@
+name: "2018-chicago" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Chicago" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayschi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "The group that brought you DevOpsDays Chicago 2014-2017 is back together and planning the 2018 event. We’re encouraged by the feedback from previous year’s events and are determined to bring an improved experience and continue the DevOps conversation for 2018 in Chicago."
+ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-08-28T00:00:00-05:00
+enddate: 2018-08-29T23:59:59-05:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-03-19T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-06-01T23:59:59-05:00  # close your call for proposals.
+cfp_date_announce: 2018-06-15T00:00:00-05:00  # inform proposers of status
+
+cfp_link: "https://www.papercall.io/devopsdays-chicago-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-03-19T00:00:00-05:00  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-08-28T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdayschi2018.eventbrite.com/?aff=devopsdaysorg" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: "skyline-night.jpg"
+
+# Location
+#
+coordinates: "41.888242, -87.637856" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Holiday Inn Mart Plaza" # Defaults to city, but you can make it the venue name.
+location_address: "350 West Mart Center Drive, Chicago, IL 60654"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: volunteer
+    icon: heart-o
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members:
+  - name: "Jerry Cattell"
+    twitter: "jcattell"
+    image: "jerry-cattell.jpg"
+    bio: "Jerry Cattell is the Director of Technical Operations for [Tempus](https://www.tempus.com/) and a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops). In his free time, Jerry enjoys traveling, reading, and playing with new technologies."
+    linkedin: "https://www.linkedin.com/in/jerrycattell"
+  - name: "Brian Devlin"
+    twitter: "nilved"
+    image: "brian-devlin.jpg"
+  - name: "Joshua Goldman"
+    image: "joshua-goldman.jpg"
+  - name: "Cora Hays-Magan"
+    image: "cora-hays-magan.jpg"
+    twitter: "CorainChicago"
+    website: "http://corainchicago.github.io"
+    linkedin: "https://www.linkedin.com/in/corainchicago"
+    github: "corainChicago"
+    bio: "Cora became a developer after working in all the fun and exciting places, Central Asia, West Africa, and lovely Chicago.  In her household, the number of laptops outnumber the humans and cats combined."
+  - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    employer: "Chef Software, Inc"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
+  - name: "Allie Richards"
+    image: "allie-richards.jpg"
+    twitter: "hpuxgirl"
+    employer: "Centro"
+    linkedin: "https://www.linkedin.com/in/alexandra-richards-88b54a36/"
+    bio: "Allie Richards has been ops-ing since before the terms \"DevOps\" and \"Operations Engineering\" existed. She is passionate about command lines, automation and performance at scale. When not at work she can usually be found trying to read with a cat on her lap."
+  - name: "Matty Stratton"
+    image: "matt-stratton.jpg"
+    twitter: "mattstratton"
+    employer: "PagerDuty"
+    website: "https://www.mattstratton.com"
+    facebook: "https://www.facebook.com/matt.stratton"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    bio: "Matty Stratton is a DevOps Evangelist at [PagerDuty](https://www.pagerduty.com), where he help dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader devops community, and his license plate actually says \"DevOps\". He is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com) podcast. Matt lives in the Chicagoland area with his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with _Doctor Who_, _Firefly_, and _Game of Thrones_. And whiskey."
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "Cohesive Networks"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is the Senior Marketing Specialist at Cohesive Networks.  She is responsible for growing Cohesive’s awareness through digital and written content creation, public relations, and community events. She organizes and leads the Chicago AWS user group. Previously, Margaret was VP of Operations at GreenPoint Partners, a sustainability consulting company for commercial real estate. At GreenPoint, Margaret managed the LEED building certification process for over 5 million square feet of commercial space and earned her LEED GA and LEED AP accreditations. Margaret has a BSM from Tulane University and is an AWS Certified Solutions Architect - Associate."
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
+
+organizer_email: "organizers-chicago-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-chicago-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: morpheus_data
+    level: gold
+  - id: servercentral
+    level: gold
+  - id: chef
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: datadog
+    level: gold
+  - id: herzum
+    level: gold
+  - id: redhat
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: instana
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: servicenow
+    level: gold
+  - id: confluent
+    level: gold
+  - id: splunk
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: humio
+    level: gold
+  - id: allstate
+    level: gold
+  - id: lightstep
+    level: gold
+  - id: overops
+    level: gold
+  - id: morningstar
+    level: gold
+  - id: influxdata
+    level: silver
+  - id: signal
+    level: silver
+  - id: mesosphere
+    level: silver
+  - id: kaizenops
+    level: silver
+  - id: rancher
+    level: silver
+  - id: cmegroup
+    level: silver
+  - id: netapp
+    level: silver
+  - id: activecampaign
+    level: silver
+  - id: onemainfinancial
+    level: silver
+  - id: isg-one
+    level: silver
+  - id: hyatt
+    level: silver
+  - id: nvisia
+    level: silver
+  - id: corptax
+    level: silver
+  - id: cloudbolt
+    level: silver
+  - id: saucelabs
+    level: silver
+  - id: github
+    level: silver
+  - id: mongodb
+    level: bronze
+  - id: coyote
+    level: bronze
+  - id: ca
+    level: evening
+  - id: confluent
+    level: lanyard
+  - id: hashicorp
+    level: meal
+  - id: discover
+    level: meal
+  - id: microsoft
+    level: meal
+  - id: tempus
+    level: meal
+  - id: spantree
+    level: video
+  - id: kaizenops
+    level: live-transcription
+  - id: allstate
+    level: transportation
+  - id: arresteddevops
+    level: community
+  - id: cwdevs
+    level: community
+  - id: blacksintechnology
+    level: community
+  - id: gdichicago
+    level: community
+  - id: wwcchicago
+    level: community
+  - id: oreilly
+    level: community
+  - id: chicktech
+    level: community
+  - id: chicagotechevents
+    level: community
+  - id: chicago-innovation-roundtable
+    level: community
+  - id: digitalocean
+    level: community
+
+sponsors_accepted : "No" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 21
+  - id: silver
+    label: Silver
+    max: 14
+  - id: bronze
+    label: Bronze
+  - id: evening
+    label: Evening Event
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: meal
+    label: Meal
+    max: 6
+  - id: video
+    label: Video
+    max: 1
+  - id: live-transcription
+    label: Live Transcription
+    max: 1
+  - id: transportation
+    label: Transportation
+    max: 1
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-08-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-08-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "donovan-brown"
+    type: talk
+    date: 2018-08-28
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-08-28
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "lilia-gutnik"
+    type: talk
+    date: 2018-08-28
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-08-28
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2018-08-28
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-08-28
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2018-08-28
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-08-28
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-08-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-08-28
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-08-28
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-08-28
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "tom-mclaughlin"
+    type: workshop
+    date: 2018-08-28
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2018-08-28
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-08-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "eric-calabretta"
+    type: workshop
+    date: 2018-08-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2018-08-28
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2018-08-28
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-08-28
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening event"
+    type: custom
+    date: 2018-08-28
+    start_time: "17:15"
+    end_time: "21:00"
+    comments: "15th Floor of the Holiday Inn Mart Plaza. Badge Required."
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-08-29
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-08-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: 2018-08-29
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-08-29
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "sonia-gupta"
+    type: talk
+    date: 2018-08-29
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-08-29
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "kris-nova"
+    type: talk
+    date: 2018-08-29
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-08-29
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "aaron-kalin"
+    type: talk
+    date: 2018-08-29
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-08-29
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-08-29
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-08-29
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-08-29
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2018-08-29
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "rachael-byrne"
+    type: workshop
+    date: 2018-08-29
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2018-08-29
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2018-08-29
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "chris-van-tuin"
+    type: workshop
+    date: 2018-08-29
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-08-29
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2018-08-29
+    start_time: "16:45"
+    end_time: "17:00"
+ignites:
+  - title: "katie-prizy"
+    date: 2018-08-28
+  - title: "emily-freeman"
+    date: 2018-08-28
+  - title: "martez-reed"
+    date: 2018-08-28
+  - title: "ken-mugrage"
+    date: 2018-08-28
+  - title: "Ignite Karaoke!"
+    date: 2018-08-28
+  - title: "jeff-smith"
+    date: 2018-08-29
+  - title: "morgan-meredith"
+    date: 2018-08-29
+  - title: "paul-czarkowski"
+    date: 2018-08-29
+  - title: "joshua-zimmerman"
+    date: 2018-08-29
+  - title: "Ignite Karaoke!"
+    date: 2018-08-29

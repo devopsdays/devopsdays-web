@@ -15,8 +15,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: speakers
   - name: program
   - name: location
-  - name: registration
-    url: https://www.devops-berlin.de
   - name: sponsor
   - name: contact
   - name: conduct
@@ -31,6 +29,7 @@ team_members: # Name is the only required field for team members.
   - name: "Jens Brauer"
     twitter: "jensenb"
     employer: "AWS"
+  - name: "Marco Woitschitzky"
   - name: "Martin Alfke"
     twitter: "tuxmea"
     employer: "Example42"
@@ -52,7 +51,7 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-berlin-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-berlin-2017@devopsdays.org" # Put your proposal email address here
 
-sponsors_accepted: "yes"
+sponsors_accepted: "no"
 
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: linuxmagazin
@@ -67,10 +66,20 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: logz
     level: platinum
+  - id: 2016-idealo
+    level: platinum
+  - id: opsgenie
+    level: platinum
   - id: codecentric
     level: gold
   - id: kreuzwerker
     level: gold
+  - id: chef
+    level: gold
+  - id: solarisbank
+    level: silver
+  - id: burdaforward
+    level: silver
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: eveningevent

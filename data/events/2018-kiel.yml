@@ -6,16 +6,16 @@ description: "Devopsdays is coming to Kiel!" # Edit this to suit your preference
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-05-16  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-05-17  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-05-16T00:00:00+02:00
+enddate: 2018-05-17T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2017-10-02T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2017-12-15T00:00:00+01:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfIa7r1bDphxIk5k1hclulDDH7xeFbjqMiVNMg1s8nwWBPR7Q/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -33,9 +33,10 @@ location_address: "Fraunhoferstraße 13, 24118 Kiel" #Optional - use the street 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: workshop
+  - name: program
+  - name: speakers
   - name: location
   - name: sponsor
   - name: contact
@@ -65,6 +66,7 @@ team_members: # Name is the only required field for team members.
     bio: "Sabine works as Enthusiastic Agile & Devops Enabler at getNext IT. She helps companies in the tech industry to improve team communication, soft skills, culture and leadership. She is an experienced speaker at international conferences and author of many articles and blog posts on these issues."
 
   - name: "Wilhelm Hasselbring"
+    twitter: "whasselbring"
     bio: "Prof. Dr. Wilhelm (Willi) Hasselbring is professor of Software Engineering at Kiel University. In the competence cluster Software Systems Engineering (KoSSE), he coordinates technology transfer projects with (local) industry. In the excellence cluster Future Ocean, a large-scale collaborative project of Kiel University and GEOMAR, he is principal investigator and coordinator of the research area Ocean Observations."
 
   - name: "Wolfgang Bär"
@@ -80,11 +82,21 @@ proposal_email: "proposals-kiel-2018@devopsdays.org" # Put your proposal email a
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2018-coreadmin
+  - id: coreadmin
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+    # url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community
+  - id: diwish
+    level: supporter
+  - id: kiwi-kiel
+    level: venue
+  - id: wobe-systems
+    level: tshirt
+  - id: thoughtworks-gocd
+    level: gold
+  - id: objektspektrum
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -93,12 +105,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: silver
-    label: Silver
-    max: 10
   - id: gold
     label: Gold
     max: 5
+  - id: silver
+    label: Silver
+    max: 10
+  - id: venue
+    label: Venue
+    max: 1
   - id: evening
     label: Evening
     max: 1
@@ -108,8 +123,211 @@ sponsor_levels:
   - id: tshirt
     label: T-Shirt
     max: 1
-  - id: coffee
-    label: Coffee Break
+  - id: media
+    label: Media
     max: 2
   - id: contributor
     label: Contributor
+  - id: supporter
+    label: Supporting
+
+program:
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2018-05-16
+    start_time: "08:00"
+    end_time: "09:00"    
+  - title: "Welcome by MC Sabine Wojcieszak - Daniel Günther, Minister-President of Schleswig-Holstein - Dr. Ulf Kämpfer, Mayor of the Land Capital Kiel"
+    type: custom
+    date: 2018-05-16
+    start_time: "09:00"
+    end_time: "09:40"        
+  - title: "frank-hollenberg"
+    type: talk
+    date: 2018-05-16
+    start_time: "09:40"
+    end_time: "10:15"
+  - title: "geetika-tandon"
+    type: talk
+    date: 2018-05-16
+    start_time: "10:20"
+    end_time: "10:55"                
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2018-05-16
+    start_time: "10:55"
+    end_time: "11:00"                    
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "11:00"
+    end_time: "11:20"                    
+    comments: "powered by KPS-Concepts GmbH"
+  - title: "matteo-emili"
+    type: talk
+    date: 2018-05-16
+    start_time: "11:20"
+    end_time: "11:55"                    
+  - title: "felix-elliger"
+    type: talk
+    date: 2018-05-16
+    start_time: "12:00"
+    end_time: "12:35"                    
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-16
+    start_time: "12:40"
+    end_time: "13:00"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "13:00"
+    end_time: "14:00"                    
+  - title: "thiago-assuncao-de-faria"
+    type: talk
+    date: 2018-05-16
+    start_time: "14:00"
+    end_time: "14:35"                    
+  - title: "Open Space preparation"
+    type: open-space
+    date: 2018-05-16
+    start_time: "14:40"
+    end_time: "15:00"                                        
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2018-05-16
+    start_time: "15:00"
+    end_time: "15:30"                    
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2018-05-16
+    start_time: "15:30"
+    end_time: "16:00"                    
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "16:00"
+    end_time: "16:15"
+    comments: "powered by KPS-Concepts GmbH"
+  - title: "moritz-eysholdt"
+    type: talk
+    date: 2018-05-16
+    start_time: "16:15"
+    end_time: "16:50"
+  - title: "Reception with Beer & Soft Drinks"
+    type: custom
+    date: 2018-05-16
+    start_time: "16:50"
+    end_time: "17:15"
+    comments: "powered by ASSPICK Versicherungsmakler GmbH"
+  - title: "sven-peters"
+    type: talk
+    date: 2018-05-16
+    start_time: "17:15"
+    end_time: "17:50"
+  - title: "Evening Event - Drinks, Food & Music!"
+    type: custom
+    date: 2018-05-16
+    start_time: "18:30"
+    end_time: "open end" 
+    comments: "Location: Pogue Mahone Irish Pub; Bergstraße 15, 24103 Kiel - Music: Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
+  - title: "Registration and Welcome Coffee"
+    type: custom
+    date: 2018-05-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Welcome back! - MC Sabine Wojcieszak"
+    type: custom
+    date: 2018-05-17
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "avishai-ish-shalom"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "reinhard-naegele"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Sponsor Pitches"
+    type: custom
+    date: 2018-05-17
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "jon-hall"
+    type: talk
+    date: 2018-05-17
+    start_time: "11:00"
+    end_time: "11:35"
+  - title: "matthias-haensgen"
+    type: talk
+    date: 2018-05-17
+    start_time: "11:40"
+    end_time: "12:15"
+  - title: "mateo-burillo"
+    type: talk
+    date: 2018-05-17
+    start_time: "12:20"
+    end_time: "12:55"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "12:55"
+    end_time: "14:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-17
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Preparation of Open Space"
+    type: open-space
+    date: 2018-05-17
+    start_time: "14:20"
+    end_time: "14:40"
+  - title: "Open Space Session 3"
+    type: open-space
+    date: 2018-05-17
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space Session 4"
+    type: open-space
+    date: 2018-05-17
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Coffee Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "siamak-sadeghianfar"
+    type: talk
+    date: 2018-05-17
+    start_time: "16:00"
+    end_time: "16:35"
+  - title: "dirk-lehmann"
+    type: talk
+    date: 2018-05-17
+    start_time: "16:40"
+    end_time: "17:15"
+  - title: "Farewell! - MC Sabine Wojcieszak"
+    type: custom
+    date: 2018-05-17
+    start_time: "17:15"
+    end_time: "17:30"
+
+ignites:
+  - title: "daiany-palacios"
+    date: 2018-05-16
+  - title: "heinrich-hartmann"
+    date: 2018-05-16
+  - title: "daniel-berman"
+    date: 2018-05-16
+  - title: "axel-giernas"
+    date: 2018-05-17

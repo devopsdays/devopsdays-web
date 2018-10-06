@@ -1,0 +1,304 @@
+name: "2018-london" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "London" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to London!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-09-20T00:00:00+01:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   2018-09-21T00:00:00+01:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2018-04-27T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2018-06-13T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2018-07-01T00:00:00+01:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-05-22T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-09-19T23:59:59+01:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "51.507351, -0.127758" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "London" # Defaults to city, but you can make it the venue name.
+#
+location_address: "QEII Centre, Broad Sanctuary, Westminster" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: accessibility
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
+  - name: "Andy Steed"
+    twitter: "ip_darwin"
+  - name: "bob walker"
+    twitter: "rjw1"
+  - name: "Chris Mills"
+    twitter: "millscj01"
+  - name: "Dan Webb"
+    twitter: "dan_webb"
+  - name: "Dawn Foster"
+    twitter: "geekygirldawn"
+  - name: "Hannah Foxwell"
+    twitter: "HannahFoxwell"
+  - name: "Jemma Bolland"
+    twitter: "jemolova"
+  - name: "Louise Paling"
+    twitter: "short_louise"
+  - name: "Markos Rendell"
+    twitter: "markosrendell"
+  - name: "Matt Saunders"
+    twitter: "cm6051"
+  - name: "Paula Kennedy"
+    twitter: "PaulaLKennedy"
+organizer_email: "organizers-london-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+    # Gold
+  - id: appdynamics
+    level: gold
+  - id: chef
+    level: gold
+  - id: 2018-contino
+    level: gold
+  - id: instana
+    level: gold
+    # Silver
+  - id: accenture
+    level: silver
+  - id: altoros
+    level: silver
+  - id: datadog
+    level: silver
+  - id: district4
+    level: silver
+  - id: dxw
+    level: silver
+  - id: elastic
+    level: silver
+  - id: engineerbetter
+    level: silver
+  - id: googlecloud
+    level: silver
+  - id: gov-digital
+    level: silver
+  - id: logz
+    level: silver
+  - id: opsview
+    level: silver
+  - id: scalefactory
+    level: silver
+  - id: sensu
+    level: silver
+  - id: ticketmaster
+    level: silver
+  - id: which
+    level: silver
+    # Bronze
+  - id: altostack
+    level: bronze
+  - id: skybettingandgaming
+    level: bronze
+  - id: yelp
+    level: bronze
+    # Community
+  - id: leeds-devops
+    level: community
+  - id: manc-devops
+    level: community
+  - id: doxlon
+    level: community
+  - id: belfast-devops
+    level: community
+  - id: birmingham-devops
+    level: community
+  - id: bristol-devops
+    level: community
+  - id: edinburgh-devops
+    level: community
+  - id: northeast-devops
+    level: community
+  - id: sheffield-devops
+    level: community
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  # - id: evening
+  #   label: Evening Event
+  #   max: 1
+  # - id: platinum
+  #   label: Platinum
+  #   max: 1
+  - id: gold
+    label: Gold
+    max: 7
+  - id: silver
+    label: Silver
+    max: 12
+  - id: bronze
+    label: Bronze
+    max: 5
+  - id: community
+    label: Community
+    max: 20
+
+program:
+# day 1
+  - title: "Breakfast"
+    type: custom
+    date: 2018-09-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Welcome"
+    type: custom
+    date: 2018-09-20
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "jeff-sussna"
+    type: talk
+    date: 2018-09-20
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "kate-whalen"
+    type: talk
+    date: 2018-09-20
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "Break"
+    type: custom
+    date: 2018-09-20
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "euan-finlay"
+    type: talk
+    date: 2018-09-20
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "velvet-spors"
+    type: talk
+    date: 2018-09-20
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: "Ignites Day 1"
+    type: ignite
+    date: 2018-09-20
+    start_time: "12:35"
+    end_time: "13:05"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-20
+    start_time: "13:05"
+    end_time: "14:05"
+  - title: "Open Spaces Day 1"
+    type: open-space
+    date: 2018-09-20
+    start_time: "14:05"
+    end_time: "17:00"
+  - title: "Social Event"
+    type: custom
+    date: 2018-09-20
+    start_time: "17:00"
+    end_time: "19:00"
+  - title: "Evening Event at Skyloft"
+    type: custom
+    date: 2018-09-20
+    start_time: "19:00"
+    end_time: "23:00"
+    custom_url: "https://www.altitudelondon.com/contact-us/"
+
+# # day 2
+  - title: "Breakfast"
+    type: custom
+    date: 2018-09-21
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "emma-button"
+    type: talk
+    date: 2018-09-21
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "ramez-hanna"
+    type: talk
+    date: 2018-09-21
+    start_time: "10:35"
+    end_time: "11:05"
+  - title: "Break"
+    type: custom
+    date: 2018-09-21
+    start_time: "11:05"
+    end_time: "11:25"
+  - title: "denise-yu"
+    type: talk
+    date: 2018-09-21
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "damon-edwards"
+    type: talk
+    date: 2018-09-21
+    start_time: "12:00"
+    end_time: "12:35"
+  - title: "Ignites Day 2"
+    type: ignite
+    date: 2018-09-21
+    start_time: "12:35"
+    end_time: "13:05"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-21
+    start_time: "13:05"
+    end_time: "14:05"
+  - title: "Open Spaces Day 2"
+    type: open-space
+    date: 2018-09-21
+    start_time: "14:05"
+    end_time: "17:00"
+
+ignites:
+  - title: "markos-rendell"
+    date: 2018-09-20
+  - title: "alexandra-moore"
+    date: 2018-09-20
+  - title: "tomasz-tarczynski"
+    date: 2018-09-20
+  - title: "matt-turner"
+    date: 2018-09-20
+  - title: "jamie-tanna"
+    date: 2018-09-20
+  - title: "andrew-bean"
+    date: 2018-09-21
+  - title: "louise-paling"
+    date: 2018-09-21
+  - title: "philipp-krenn"
+    date: 2018-09-21
+  - title: "richard-marshall"
+    date: 2018-09-21

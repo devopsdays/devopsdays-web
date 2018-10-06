@@ -1,6 +1,7 @@
 +++
 Title = "Mindy Preston"
 Twitter = "mindypreston"
+image = "mindy-preston.jpg"
 type = "speaker"
 linktitle = "mindy-preston"
 

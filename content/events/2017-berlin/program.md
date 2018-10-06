@@ -96,7 +96,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-	    <a href="/events/2017-berlin/program/keshav-vasudevan/">Keshav Vasudevan - Understanding and Executing on API Developer Experience</a></br>
+	    <a href="/events/2017-berlin/program/ronan-trainor/">Ronan Trainor - Iterative API development through design and virtualization</a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -116,7 +116,6 @@ type = "event"
       <div class = "col-md-6 box">
         <strong>Ignites</strong><p>
 	    <a href="/events/2017-berlin/program/gerald-schmidt/">Gerald Schmidt - From scratch: Useful container services in 10MB or less</a></br>
-	    <a href="/events/2017-berlin/program/maris-prabhakaran-m/">Maris Prabhakaran M - HumBusDevSecOps - Missing block</a></br>
 	    <a href="/events/2017-berlin/program/patrick-j-hagerty/">Patrick J Hagerty - Chasing the Elk: Intro to ELK stack</a></br>
 	    <a href="/events/2017-berlin/program/philipp-krenn/">Philipp Krenn - Fighting Database Ransomware</a></br>
       </div>
@@ -183,6 +182,9 @@ type = "event"
       </div>
       <div class = "col-md-6 box">
         <strong>Evening Event</strong><br>
+        <a href="https://goo.gl/maps/vgnYcH6vqs82">Paulaner im Spreebogen</a><br>
+        Alt-Moabit 98<br>
+        10559 Berlin<br>
       </div>
     </div> <!-- end timeslot div -->
 
@@ -231,7 +233,7 @@ type = "event"
         <time>09:40-10:10</time>
       </div>
       <div class = "col-md-6 box">
-	    <a href="/events/2017-berlin/program/michael-koltsov/">Michael Koltsov - Serverless for the open source adepts</a></br>
+	    <a href="/events/2017-berlin/program/bernd-erk/">Bernd Erk - How to make good and difficult decisions</a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -267,7 +269,7 @@ type = "event"
         <time>11:15-11:45</time>
       </div>
       <div class = "col-md-6 box">
-        -
+	    <a href="/events/2017-berlin/program/jenny-duckett/">Jenny Duckett - Encouraging a culture of learning across your organisation </a></br>
       </div>
     </div> <!-- end timeslot div -->
     <!-- this div is repeated for each timeslot -->
@@ -332,7 +334,7 @@ type = "event"
         <strong>Open Space</strong><br />
         Open Space #3
         <strong>Hands-On Workshop</strong><br />
-	    <a href="/events/2017-berlin/program/ian-henry/">Habitat - Application automation and containerization with Habitat</a></br>
+	    <a href="/events/2017-berlin/program/thom-may/">Thom May - Habitat - Application automation and containerization with Habitat</a></br>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 2 -->

@@ -1,29 +1,18 @@
 # Production context: All deploys to the main
 # repository branch will inherit these settings.
 [context.production]
- #command = "bin/netlify.sh"
- #publish = "public/"
  command = "bin/netlify-production.sh"
  publish = "dist/"
  
-[context.production.environment]
-   HUGO_VERSION = "0.23"
-
-# Deploy Preview context: All Deploy Previews
-# will inherit these settings.
-[context.deploy-preview]
-  publish = "public/"
+ [context.deploy-preview]
   command = "bin/netlify.sh"
+  publish = "public/"
+ 
+[context.production.environment]
+   HUGO_VERSION = "0.46"
+   
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.23"
+  HUGO_VERSION = "0.46"
   
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.23"
-
-[context.test]
- command = "bin/netlify-production.sh"
- publish = "dist/"
-
-[context.updates-for-new-theme]
-  command = "bin/netlify-production.sh"
-  publish = "dist/"
+  HUGO_VERSION = "0.46"

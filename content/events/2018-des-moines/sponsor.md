@@ -28,6 +28,11 @@ Description = "Sponsor devopsdays Des Moines 2018"
         background-color: gold;
     }
 
+    .sub-title { 
+        font-weight: normal;
+        font-size: small;
+    }
+
     .bronze {
         background-color: peru;
     }
@@ -39,9 +44,13 @@ Description = "Sponsor devopsdays Des Moines 2018"
     .gold {
         background-color: gold;
     }
+
+    .uranium {
+        background-color: rgb(127, 255, 0);
+    }
 </style>
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an {{<email_organizers>}}.
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an <a href="mailto:organizers-des-moines-2018@devopsdays.org">email.</a>
     <hr/> 
     <p>
     devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths,
@@ -66,67 +75,94 @@ We greatly value sponsors for this open event. If you are interested in sponsori
                 <th>
                     Silver</th>
                 <th>
-                    Gold<br/>(1 Sponsorship)</th>
+                    Gold</th>
+                <th>
+                    Uranium<br/>
+                    <div class="sub-title">Party Sponsor</div></th>    
             </tr>
             <tr>
                 <td class="label">Price</td>
                 <td>1000 USD</td>
                 <td>3000 USD</td>
-                <td>6000 USD</td>
+                <td>5000 USD</td>
+                <td><a href="mailto:organizers-des-moines-2018@devopsdays.org?subject=Social Sponsorship">Contact us</a></td>
             </tr>
             <tr>
+                <td class="label">Pay via Paypal</td>
+                <td>Sold Out</td>
+                <td>Sold Out</td>
+                <td>Sold Out</td>
+                <td>Sold Out</td>
+            </tr> 
+            <tr>
                 <td class="label">Included tickets</td>
+                <td>1</td>
                 <td>2</td>
-                <td>2</td>
+                <td>4</td>
                 <td>4</td>
             </tr>
             <tr>
-                <td class="label">Logo on website</td>
+                <td class="label">Logo on event slides</td>
                 <td class="bronze">Small</td>
                 <td class="silver">Medium</td>
                 <td class="gold">Large</td>
+                <td class="uranium">Large</td>
             </tr>
             <tr>
                 <td class="label">Logo on pre-event communication</td>
                 <td class="bronze"></td>
                 <td class="silver"></td>
                 <td class="gold"></td>
-            </tr>
-            <tr>
-                <td class="label">Logo on T-Shirt</td>
-                <td class="bronze"></td>
-                <td class="silver"></td>
-                <td class="gold"></td>
+                <td class="uranium"></td>
             </tr>
             <tr>
                 <td class="label">Acknowledged during opening and closing ceremonies</td>
                 <td class="bronze"></td>
                 <td class="silver"></td>
                 <td class="gold"></td>
+                <td class="uranium"></td>
             </tr>
             <tr>
-                <td class="label">Swag bag insert</td>
+                <td class="label">Shared swag table</td>
                 <td class="bronze"></td>
+                <td class=""></td>
+                <td class=""></td>
+                <td class="uranium"></td>
+            </tr>
+            <tr>
+                <td class="label">Half table (staffed)</td>
+                <td class=""></td>
                 <td class="silver"></td>
+                <td class=""></td>
+                <td class=""></td>
+            </tr>
+            <tr>
+                <td class="label">Full table (staffed)</td>
+                <td class=""></td>
+                <td class=""></td>
                 <td class="gold"></td>
+                <td class=""></td>
             </tr>
             <tr>
                 <td class="label">1 minute pitch to audience (including streaming attendees if applicable)</td>
                 <td></td>
-                <td class="silver"></td>
+                <td class=""></td>
                 <td class="gold"></td>
+                <td class=""></td>
             </tr>
             <tr>
                 <td class="label">2 minute kickoff speech at social event</td>
                 <td></td>
                 <td></td>
-                <td class="gold"></td>
+                <td class=""></td>
+                <td class="uranium"></td>
             </tr>
             <tr>
                 <td class="label">Roll-up banners displayed at party</td>
                 <td></td>
                 <td></td>
-                <td class="gold"></td>
+                <td class=""></td>
+                <td class="uranium"></td>
             </tr>
         </table>
         <hr/> 

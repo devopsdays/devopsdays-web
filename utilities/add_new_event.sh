@@ -6,20 +6,32 @@ cd `dirname ${0}`
 
 # Detect OS for correct 'sed' syntax
 OSNAME=`uname`
+GNUSED=$(which sed)
 SEDCMD(){
   if [[ $OSNAME == 'Linux' ]]; then
     sed -i "$@"
-  elif [[ $OSNAME == 'Darwin' ]]; then
+  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
     sed -i '' "$@"
   fi
 }
 
-# We assume the current year (and also assume bash 3, because macs)
-read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2017'
+default_year=$(date +"%Y")
+if [[ ! -z $DOD_YEAR ]] ; then
+  year="$DOD_YEAR"
+else
+  # We assume the current year (and also assume bash 3, because macs)
+  read -p "Enter your event year (default: $default_year): " year
+fi
+[ -z "${year}" ] && year="$default_year"
 
+if [[ ! -z $DOD_CITY ]] ; then
+  city=$DOD_LUG_CITY
+else
+  read -p "Enter your city name: " city
+fi
 # We urlize the city slug
-read -p "Enter your city name: " city
 city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
 # Get event twitter handle
@@ -50,7 +62,7 @@ cp -r examples/content/events/yyyy-city ../content/events/$event_slug
 # Setting the creation date at the time the event is instantiated
 datestamp=$(date +%Y-%m-%dT%H:%M:%S%z | sed 's/^\(.\{22\}\)/\1:/')
 SEDCMD "s/2000-01-01T01:01:01-06:00/$datestamp/" ../content/events/$event_slug/*.md
-SEDCMD "s/yyyy-city/$event_slug/" ../content/events/$event_slug/index.md
+SEDCMD "s/yyyy-city/$event_slug/" ../content/events/$event_slug/welcome.md
 SEDCMD "s/CITY/$city/" ../content/events/$event_slug/*.md
 SEDCMD "s/YYYY/$year/" ../content/events/$event_slug/*.md
 

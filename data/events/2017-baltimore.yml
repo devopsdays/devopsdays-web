@@ -83,9 +83,9 @@ sponsors:
     level: platinum
   - id: circonus
     level: platinum
-  - id: victorops
+  - id: victorops-before-20180823
     level: platinum
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: platinum
   - id: chef
     level: platinum
@@ -127,7 +127,7 @@ sponsors:
     level: community
   - id: groundfloor
     level: community
-  - id: harbor_launch
+  - id: harborlaunch
     level: community
   - id: bw_tech
     level: community

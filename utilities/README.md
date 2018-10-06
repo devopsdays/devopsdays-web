@@ -9,6 +9,8 @@ Full reference of all fields and features is located in [REFERENCE.md](https://g
 
 New utilities and updates to existing utilities are welcome, as are suggestions for default content. Add new script in [contrib](contrib/).
 
+If you want others in your team to be able to preview/approve changes before they are merged, we recommend you follow [these steps](https://github.com/devopsdays/devopsdays-web/tree/master/utilities/docs/workflow) to work with your own repo prior to submitting a PR.
+
 ## Events
 
 Use [add_new_event.sh](add_new_event.sh) to add a new event.
@@ -133,3 +135,38 @@ speakerdeck = ""
 slideshare = ""
 slides = ""
 ```
+
+# Bash tips:
+
+Set `$DOD_YEAR` and `$DOD_CITY` and the scripts won't ask
+for the year and city every time.
+
+Here are some useful bash exports/aliases. Add them to your `.bashrc` or
+copy `.envrc.example` to `.envrc` and run `direnv allow`. See
+[direnv](https://direnv.net/) for more info.
+
+```
+# devopsdays
+export DOD_YEAR="2018"            # your year
+export DOD_CITY="new-york-city"   # your city
+export DODPATH=~/git/devopsdays-web   # location of Git files
+alias dod='cd $DODPATH'
+alias dods='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodp='cd $DODPATH/content/events/$DOD_YEAR-$DOD_CITY/program'
+alias dodi='cd $DODPATH/static/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodyml='dod && $EDITOR data/events/$DOD_YEAR-$DOD_CITY.yml'
+alias dodfind='dod && find data/events/$DOD_YEAR-$DOD_CITY.yml content/events/$DOD_YEAR-$DOD_CITY/{speakers,program} static/events/$DOD_YEAR-$DOD_CITY/speakers'
+alias dodhugo='dod && echo open http://localhost:1313 ; hugo server -w --baseUrl="http://localhost:1313"'
+```
+
+* `dod`  -- chdir to your base directory
+* `dods`  -- chdir to your devopsdays speaker files
+* `dodp`  -- chdir to your devopsdays program files
+* `dodi`  -- chdir to your devopsdays speaker JPGs (images)
+* `dodyml`  -- edit the YAML file
+* `dodhugo`  -- run hugo in "watch" mode
+* `dodfind`  -- Run "find" on your event's directories
+  *  Example: Find all the files for speaker "jane-doe"
+    * `dodfind -name '*jane-doe*'`
+  *  Example: Find all the files that mention "jane-doe"
+    * `dodfind -type f -print0 | xargs -0 grep jane-doe`

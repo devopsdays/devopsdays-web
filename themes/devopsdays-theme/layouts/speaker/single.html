@@ -11,43 +11,12 @@
   <div class = "col-md-4 offset-md-1">
     <span class="speaker-page content-text">
     {{ .Content }}
-    {{- if isset .Params "pronouns" -}}
-      {{- if ne .Params.pronouns "" -}}
-        My pronouns are {{ .Params.pronouns }}<br />
-      {{- end -}}
-    {{- end -}}
-    {{- if isset .Params "twitter" -}}
-      {{- if ne .Params.twitter "" -}}
-        <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
-      {{- end -}}
-    {{- end -}}
-    {{- if isset .Params "website" -}}
-      {{- if ne .Params.website "" -}}
-        <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i></a>&nbsp;
-      {{- end -}}
-    {{- end -}}
-    {{- if isset .Params "facebook" -}}
-      {{- if ne .Params.facebook "" -}}
-        <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a>&nbsp;
-      {{- end -}}
-    {{- end -}}
-    {{- if isset .Params "linkedin" -}}
-      {{- if ne .Params.linkedin "" -}}
-        <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>&nbsp;
-      {{- end -}}
-    {{- end -}}
-    {{- if isset .Params "github" -}}
-      {{- if ne .Params.github "" -}}
-        <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>&nbsp;
-      {{- end -}}
-    {{- end -}}
     </span>
 <div class="speaker-bio-talks">
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
-            {{- range where $.Site.Pages "Type" "talk" -}}
-              {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
+            {{ range where (where $.Site.Pages "Type" "talk") ".Dir" "=" (print "events/" $e.name "/program/") }}
                 <!-- Now we can display stuff! -->
                 {{- range .Params.speakers -}}
                   {{- if eq . ($.Scratch.Get "speaker") -}}
@@ -58,12 +27,9 @@
                   <a href = "{{ .Permalink | absURL }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
                 {{- end -}}
-              {{- end -}} <!-- end if eq $talk_slug $event_slug -->
-            {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
+            {{- end -}} <!-- end range where -->
           </ul>
           </div>
-      <!-- </div>
-    </div> -->
   </div>
   <div class = "col-md-3 offset-md-1">
     {{- if isset .Params "image" -}}
@@ -72,6 +38,60 @@
       {{- end -}}
       {{- else -}}
         <img src = {{ "img/speaker-default.jpg" | absURL }} class="img-fluid"  alt="{{ .Title }}"/><br />
+    {{- end -}}
+    {{- if isset .Params "twitter" -}}
+      {{- if ne .Params.twitter "" -}}
+        <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+      {{- if $e.speakers_verbose -}}
+        @{{ .Params.twitter }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "website" -}}
+      {{- if ne .Params.website "" -}}
+        <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if $e.speakers_verbose -}}
+        {{ .Params.website }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "facebook" -}}
+      {{- if ne .Params.facebook "" -}}
+        <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if $e.speakers_verbose -}}
+        {{ .Params.facebook }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "linkedin" -}}
+      {{- if ne .Params.linkedin "" -}}
+        <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if $e.speakers_verbose -}}
+        {{ .Params.linkedin }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "github" -}}
+      {{- if ne .Params.github "" -}}
+        <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if $e.speakers_verbose -}}
+        {{ .Params.github }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "pronouns" -}}
+      {{- if ne .Params.pronouns "" -}}
+        <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;
+      {{- if $e.speakers_verbose -}}
+        https://pronoun.is/{{ .Params.pronouns }}<br />
+      {{- end -}}
+      </a>
+      {{- end -}}
     {{- end -}}
   </div>
 </div>

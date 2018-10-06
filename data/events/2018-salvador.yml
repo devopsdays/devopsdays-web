@@ -1,0 +1,222 @@
+name: "2018-salvador" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Salvador" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysssa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Salvador!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-10-27T00:00:00-06:00
+enddate: 2018-10-27T23:59:59-06:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: "2018-07-16"  # start accepting talk proposals.
+cfp_date_end: "2018-08-19" # close your call for proposals.
+cfp_date_announce: "2018-09-01" # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayssalvador" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-12.972218, -38.501414" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Salvador" # Defaults to city, but you can make it the venue name.
+#
+location_address: "UNIFACS Campus Paralela Av. Luís Viana Filho nº 3146 / 3100 - Pituaçu" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+  - name: registration
+    url: "https://devopsdayssa2018.eventize.com.br/index.php?pagina=4"
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Rafael Gomes"
+    twitter: "gomex"
+  - name: "Robson Peixoto"
+    twitter: "robinhopeixoto"
+  - name: "Marco Júnior"
+    twitter: "somatorio"
+  - name: "Matheus Andrade"
+    twitter: "matheuslao"
+  - name: "Thiago Colares"
+  - name: "Luiz Claudio"
+    twitter: "luizclaudios"
+  #- name: "Sally Fields"
+  #  employer: "Acme Anvil Co."
+  #  github: "devopsdays"
+  #  facebook: "https://www.facebook.com/sally.fields"
+  #  linkedin: "https://www.linkedin.com/in/sallyfields"
+  #  website: "https://mattstratton.com"
+  #  image: "sally-fields.jpg"
+organizer_email: "organizers-salvador-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-salvador-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: "2018-10-27"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-10-27"
+    start_time: "9:00"
+    end_time: "9:20"
+
+  - title: "fernando-ike"
+    type: talk
+    date: "2018-10-27"
+    start_time: "9:25"
+    end_time: "9:55"
+
+  - title: "jairo-junior"
+    type: talk
+    date: "2018-10-27"
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "thais-freitas"
+    type: talk
+    date: "2018-10-27"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "caroline-ita"
+    type: talk
+    date: "2018-10-27"
+    start_time: "10:40"
+    end_time: "10:55"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-10-27"
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "thiago-souza"
+    type: talk
+    date: "2018-10-27"
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-10-27"
+    start_time: "11:50"
+    end_time: "12:50"
+
+  - title: "samanta-cicilia"
+    type: talk
+    date: "2018-10-27"
+    start_time: "12:55"
+    end_time: "13:25"
+
+  - title: "andrews-medina"
+    type: talk
+    date: "2018-10-27"
+    start_time: "13:30"
+    end_time: "13:45"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: "2018-10-27"
+    start_time: "13:50"
+    end_time: "14:05"
+
+  - title: "igor-macedo"
+    type: talk
+    date: "2018-10-27"
+    start_time: "14:10"
+    end_time: "14:25"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-10-27"
+    start_time: "14:30"
+    end_time: "14:40"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2018-10-27"
+    start_time: "14:45"
+    end_time: "14:55"
+
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2018-10-27"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2018-10-27"
+    start_time: "15:35"
+    end_time: "16:10"
+
+  - title: "Fishbowl"
+    type: custom
+    date: "2018-10-27"
+    start_time: "16:15"
+    end_time: "16:55"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2018-10-27"
+    start_time: "17:00"
+    end_time: "17:20"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2018-10-27"
+    start_time: "17:30"
+    end_time: ""
+
+ignites:
+  - title: "marco-junior"
+    date: "2018-10-27"

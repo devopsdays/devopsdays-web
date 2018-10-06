@@ -1,7 +1,7 @@
 +++
 Title = "Todd Benson"
 Twitter = "tgbenson"
-image = ""
+image = "todd-benson.jpg"
 type = "speaker"
 linktitle = "todd-benson"
 

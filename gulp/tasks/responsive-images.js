@@ -1,15 +1,12 @@
 var gulp = require('gulp'),
     responsive = require('gulp-responsive');
-runSequence = require('run-sequence');
+// runSequence = require('run-sequence');
 
 // gulp.task('responsive-images', function(callback) {
 //     runSequence('responsive-images-logos','responsive-sponsor-images',
 //         callback
 //     )
 // });
-
-gulp.task('responsive-images', ['responsive-images-logos', 'responsive-speaker-images','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining'])
-
 
 
 gulp.task('responsive-images-logos', function() {
@@ -173,3 +170,5 @@ gulp.task('responsive-images-remaining', function() {
         }))
         .pipe(gulp.dest('dist'));
 });
+
+gulp.task('responsive-images', gulp.parallel('responsive-images-logos', 'responsive-speaker-images','responsive-sponsor-images', 'responsive-organizer-images','responsive-images-remaining'))

@@ -134,7 +134,7 @@ sponsors:
     level: platinum
   - id: sjtechcorp
     level: platinum
-  - id:  excella
+  - id:  excella-before-20180314
     level: platinum
   - id:  circonus
     level: platinum
@@ -144,11 +144,11 @@ sponsors:
     level: platinum
   - id:  sparkpost
     level: platinum
-  - id:  victorops
+  - id:  victorops-before-20180823
     level: platinum
   - id:  signifai
     level: platinum
-  - id:  influxdata
+  - id:  influxdata-before-20171218
     level: gold
   - id:  aurotech
     level: gold
@@ -162,7 +162,7 @@ sponsors:
     level: gold
   - id:  techtown
     level: gold
-  - id:  instana
+  - id:  instana-before-20170810
     level: gold
   - id:  validatek
     level: gold
@@ -184,7 +184,7 @@ sponsors:
     level: community
   - id: women-who-code-dc
     level: community
-  - id:  blackstone-federal
+  - id:  2017-blackstone-federal
     level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

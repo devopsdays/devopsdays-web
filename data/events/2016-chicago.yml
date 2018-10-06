@@ -53,7 +53,7 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: ahead
     level: gold
@@ -109,7 +109,7 @@ sponsors:
     level: silver
   - id: herzum
     level: silver
-  - id: atlassian
+  - id: atlassian-before-20171216
     level: silver
   - id: drw
     level: bronze

@@ -1,0 +1,158 @@
+name: "2018-rio-de-janeiro" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Rio de Janeiro" # The displayed city name of the event. Capitalize it.
+event_twitter: "rj_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Pela primeira vez no Rio de Janeiro - DevOpsDays - A Conferência que integra os profissionais de tecnologia!" # Edit this to suit your preferences
+ga_tracking_id: "UA-123371280-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-11-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-11-10 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-08-13 # start accepting talk proposals.
+cfp_date_end: 2018-09-13 # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdays-rj-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "rjwide.png"
+
+registration_date_start: 2018-08-23 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-05 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devopsdays-rio-de-janeiro-2018__342778" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates: "-22.8975426, -43.1824625" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro de Convenções RB1"
+location_address: "Av. Rio Branco, 01 - Praça Mauá - Rio de Janeiro (Acesso pelo elevador panorâmico)" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Local
+    icon: "map-o"
+    url: /events/2018-rio-de-janeiro/local
+  - name: Palestre (CFP)
+    icon: "microphone"
+    url: https://www.papercall.io/devopsdays-rj-2018
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: https://www.sympla.com.br/devopsdays-rio-de-janeiro-2018__342778
+#  - name: Programação
+#    icon: "book"
+#    url:
+  - name: Patrocínio
+    icon: "money"
+    url: /events/2018-rio-de-janeiro/patrocinio
+  - name: Código de Conduta
+    icon: "handshake-o"
+    url: /events/2018-rio-de-janeiro/conduta
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2018-rio-de-janeiro/contato
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Amanda Mattos"
+    employer: ""
+    linkedin: "https://www.linkedin.com/in/amandamattos"
+    image: "amanda-mattos.jpg"
+
+  - name: "Camila Bastos"
+    employer: "Thoughtworks"   
+    linkedin: "https://www.linkedin.com/in/camila-bastos"
+    image: "camila-bastos.jpeg"
+
+  - name: "Cristine Dantas"
+    employer: "Petrobras"
+    linkedin: "https://www.linkedin.com/in/cristine-dantas-280666136/"
+    image: "cristine-dantas.jpg"
+
+  - name: "Igor Souza"
+    employer: "Stone Pagamentos"
+    linkedin: "https://www.linkedin.com/in/igordcsouza"
+    image: "igor-souza.jpg"    
+
+  - name: "Rafael Gomes"
+    employer: "Crossover"
+    image: "gomex.jpg"
+    twitter: "gomex"
+    bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
+    linkedin: "https://www.linkedin.com/in/rbgomes/"
+
+  - name: "Ricardo Martins"
+    employer: "Microsoft"
+    linkedin: "https://www.linkedin.com/in/rmmartins"   
+    image: "ricardo-martins.jpg"     
+organizer_email: "organizers-riodejaneiro-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-riodejaneiro-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: gitlab
+    level: platinum 
+  - id: igcorporate
+    level: platinum     
+  - id: microsoft
+    level: platinum
+  - id: compkids
+    level: familyops
+  - id: bitlu
+    level: familyops
+  - id: promove
+    level: bronze    
+  - id: 4linux
+    level: bronze        
+  - id: dynatrace
+    level: gold
+  - id: elastic
+    level: gold 
+  - id: redhat
+    level: gold             
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: knowledge21
+    level: silver  
+  - id: daitan-group
+    level: silver  
+  - id: alura
+    level: learning    
+  - id: imasters
+    level: community
+  - id: womenindevops
+    level: community 
+  - id: womenwhocode
+    level: community   
+  - id: kinghost
+    level: gifts    
+  - id: caelum
+    level: gifts
+  - id: 4devops
+    level: gifts    
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:  
+  - id: platinum
+    label: Platina   
+  - id: gold
+    label: Ouro
+  - id: silver
+    label: Prata
+  - id: familyops
+    label: FamilyOps      
+  - id: bronze
+    label: Bronze
+  - id: learning
+    label: Continuous Learning
+  - id: gifts
+    label: Gifts       
+  - id: community
+    label: Comunidade

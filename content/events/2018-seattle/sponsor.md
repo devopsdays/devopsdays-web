@@ -8,9 +8,9 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr />
 
-<p>DevOpsDays Seattle is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
+<p>DevOpsDays Seattle is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations, or distribute attendee contact lists. Gold sponsors have the opportunity to have short elevator pitches during the program. All sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
 
-<p>Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.</p>
+<p>Gold sponsors get a 6' table and Silver sponsors a share a 6' table with another sponsor where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.</p>
 
 <p>The best thing to do is send engineers to interact with the experts at DevOpsDays Seattle on their own terms.</p>
 
@@ -26,8 +26,28 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
         <th><center><b>Gold</b></center></th>
       </tr>
       <tr>
-        <td>Pricing</td><td>$1000</td><td>$4000</td><td>$7000</td>
+        <td>Pricing</td>
+        <td align="center">$1000</td>
+        <td align="center">$4000</td>
+        <td align="center">$7000</td>
       </tr>
+      <tr>
+        <th>Buy Now</th>
+        <td>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="F24MPPK5RC5Z8">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+          </form>
+        </td>
+        <td style="padding: 0px 10px 0px 10px;">
+          Sold Out
+        </td>
+        <td style="padding: 0px 10px 0px 10px">
+          Sold Out
+        </td>
+      </tr>  
       <tr>
         <td colspan="4">&nbsp;</td>
       </tr>

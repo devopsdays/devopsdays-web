@@ -116,7 +116,7 @@ proposal_email: "cfp@devopsdayschi.org"
 sponsors:
   - id: pivotal
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20171218
     level: gold
   - id: workiva
     level: gold
@@ -126,7 +126,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: netapp
     level: silver
@@ -138,7 +138,7 @@ sponsors:
     level: community
   - id: opsgenie
     level: gold
-  - id: 2017-facebook
+  - id: facebook
     level: silver
   - id: kcura-relativity
     level: silver
@@ -156,7 +156,7 @@ sponsors:
     level: gold
   - id: sproutsocial
     level: silver
-  - id: signal
+  - id: signal-before-20180815
     level: silver
   - id: checkmarx
     level: gold
@@ -172,7 +172,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
     level: gold
   - id: arista
     level: silver
@@ -192,7 +192,7 @@ sponsors:
     level: gold
   - id: humio
     level: lanyard
-  - id: allstate
+  - id: allstate-before-20180725
     level: gold
   - id: cmegroup
     level: silver

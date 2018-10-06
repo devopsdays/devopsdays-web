@@ -70,6 +70,10 @@ sponsors:
       level: silver
     - id: iyzico
       level: silver
+    - id: deloitte-tr
+      level: silver
+    - id: testinium
+      level: silver  
     - id: istanbulcoders
       level: community
     - id: dataistanbul
@@ -82,6 +86,26 @@ sponsors:
       level: community
     - id: frontendistanbul
       level: community
+    - id: agileturkey
+      level: community
+    - id: gdgistanbul
+      level: community
+    - id: openagile
+      level: community
+    - id: devnot
+      level: community
+    - id: springmeetup
+      level: community
+    - id: milliyet
+      level: media
+    - id: insider
+      level: supporter
+    - id: opsgenie
+      level: supporter
+    - id: putio
+      level: supporter
+    - id: xebialabs
+      level: platinium    
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -102,3 +126,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: media
+    label: Media
+  - id: supporter
+    label: Supporter  

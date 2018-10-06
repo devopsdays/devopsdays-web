@@ -1,0 +1,358 @@
+name: "2018-silicon-valley" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Silicon Valley" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayssv" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Silicon Valley!" # Edit this to suit your preferences
+ga_tracking_id: "UA-74608411-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Silicon Valley"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-05-17T00:00:00-07:00
+enddate: 2018-05-18T23:59:59-07:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-01-08T00:00:00-08:00  # start accepting talk proposals.
+cfp_date_end: 2018-02-09T23:59:59-08:00 # close your call for proposals.
+cfp_date_announce: 2018-02-16T00:00:00-08:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://dodsv2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-01-08T00:00:00-08:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-05-17T23:59:59-07:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://dodsv2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "37.414323 -122.077321" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Computer History Museum" # Defaults to city, but you can make it the venue name.
+#
+location_address: " 1401 N Shoreline Blvd, Mountain View, CA 94043" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+#    url: https://dodsv2018.busyconf.com/proposals/new
+  - name: location
+  - name: registration
+    url: https://dodsv2018.busyconf.com/bookings/new
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jennifer Davis"
+    twitter: "sigje"
+  - name: "Peter Mooshammer"
+    twitter: "pmoosh"
+  - name: "Wren Turkal"
+  - name: "Rob Berger"
+  - name: "Ilan Rabinovitch"
+  - name: "Dave Dash"
+
+organizer_email: "organizers-silicon-valley-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-silicon-valley-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+# sponsors:
+#  - id: samplesponsorname
+#    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+ # - id: arresteddevops
+ #   level: community
+
+sponsors:
+  - id: logz
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: cyberark-before-20180816
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: humio
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: circonus
+    level: gold
+  - id: treasuredata
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: appdynamics
+    level: gold
+  - id: gcp
+    level: gold
+  - id: kaizenops
+    level: silver
+  - id: redislabs
+    level: silver
+  - id: chef
+    level: absponsor
+  - id: dynatrace
+    level: absponsor
+  - id: facebook
+    level: bronze
+  - id: nclouds
+    level: bronze
+  - id: mongodb
+    level: bronze
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: absponsor
+    label: Afternoon Break
+    max: 2
+  - id: silver
+    label: Silver
+    max: 10 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+    max: 10
+    max: 1
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2018-05-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "nicole-forsgren"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "amy-nguyen-adam-barber"
+    type: talk
+    date: 2018-05-17
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Morning Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "fatema-boxwala"
+    type: talk
+    date: 2018-05-17
+    start_time: "11:20"
+    end_time: "11:40"
+  - title: "katy-farmer"
+    type: talk
+    date: 2018-05-17
+    start_time: "11:45"
+    end_time: "12:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-17
+    start_time: "12:05"
+    end_time: "12:50"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "matt-stratton"
+    type: workshop
+    date: 2018-05-17
+    start_time: "14:00"
+    end_time: "15:30"
+  - title: "Open Space Planning"
+    type: open-space
+    date: 2018-05-17
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "lisa-seelye"
+    type: talk
+    date: 2018-05-17
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space Session 1"
+    type: open-space
+    date: 2018-05-17
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2018-05-17
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "artem-starostenko"
+    type: talk
+    date: 2018-05-17
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "Open Space Session 2"
+    type: open-space
+    date: 2018-05-17
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "noah-kantrowitz"
+    type: talk
+    date: 2018-05-17
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "Open Space Session 3"
+    type: open-space
+    date: 2018-05-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Open Space Session 3"
+    type: open-space
+    date: 2018-05-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Closing Remarks Day 1 - Connie-Lynne Villani"
+    type: custom
+    date: 2018-05-17
+    start_time: "17:00"
+    end_time: "17:15"
+
+  - title: "Registration"
+    type: custom
+    date: 2018-05-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "opening-day-2"
+    type: talk
+    date: 2018-05-18
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "sarah-hagan"
+    type: talk
+    date: 2018-05-18
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "seth-vargo"
+    type: talk
+    date: 2018-05-18
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Morning Break"
+    type: custom
+    date: 2018-05-18
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "frances-hocutt"
+    type: talk
+    date: 2018-05-18
+    start_time: "11:20"
+    end_time: "11:40"
+  - title: "jennelle-crothers"
+    type: talk
+    date: 2018-05-18
+    start_time: "11:45"
+    end_time: "12:05"
+  - title: "adrian-cockcroft"
+    type: talk
+    date: 2018-05-18
+    start_time: "12:10"
+    end_time: "12:40"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-18
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "Open Space Planning"
+    type: open-space
+    date: 2018-05-18
+    start_time: "14:00"
+    end_time: "15:00"
+  - title: "emily-gladstone-cole"
+    type: talk
+    date: 2018-05-18
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space Session 4"
+    type: open-space
+    date: 2018-05-18
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: using-log-management-to-shorten-mttr
+    type: workshop
+    date: 2018-05-18
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Afternoon Break"
+    type: custom
+    date: 2018-05-18
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "eben-freeman"
+    type: talk
+    date: 2018-05-18
+    start_time: "16:00"
+    end_time: "16:25"
+  - title: "Open Space Session 5"
+    type: open-space
+    date: 2018-05-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: secrets-management-with-conjur-open-source
+    type: workshop
+    date: 2018-05-18
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: james-geboski-pedro-marques-da-luz
+    type: talk
+    date: 2018-05-18
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "Open Space Session 5"
+    type: open-space
+    date: 2018-05-18
+    start_time: "16:30"
+    end_time: "16:55"
+  - title: "Sponsor Giveaways"
+    type: custom
+    date: 2018-05-18
+    start_time: "17:00"
+    end_time: "17:10"
+  - title: "wren-turkal"
+    type: talk
+    date: 2018-05-18
+    start_time: "17:10"
+    end_time: "17:30"
+ignites:
+  - title: "connie-lynne-villani"
+    date: 2018-05-17
+  - title: "marissa-knittel"
+    date: 2018-05-17
+  - title: "karen-bruner"
+    date: 2018-05-17
+  - title: "karen-bruner-cads-oakley"
+    date: 2018-05-17
+  - title: "jay-gordon"
+    date: 2018-05-17
+  - title: "sanjay-shitole"
+    date: 2018-05-17
+  - title: "david-laulusa"
+    date: 2018-05-17
+  - title: "ryan-prior"
+    date: 2018-05-17
+  - title: "dustin-collins"
+    date: 2018-05-17

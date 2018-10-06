@@ -15,25 +15,23 @@ cfp_date_start: 2017-06-30  # start accepting talk proposals.
 cfp_date_end: 2017-08-31 # close your call for proposals.
 cfp_date_announce: 2017-09-05 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: ""
 cfp_link: ""
 
 registration_open: "true"
 registration_link: ""
 
 # Location
-coordinates: "22.66470981,-78.97318125" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hotel Valentín Perla Blanca" # Defaults to city, but you can make it the venue name.
-location_address: "Lagunas del Este, Cayo Santa María, Caibarién - Villa Clara, Cuba"
+coordinates: "23.195346,-81.129780" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel Melia Marina Varadero" # Defaults to city, but you can make it the venue name.
+location_address: "Varadero, Matanzas, Cuba"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: about
   - name: location
-#  - name: speakers
-#  - name: program
-#  - name: tickets
-#    url: https://www.eventbrite.com/e/devopsdays-denver-2017-tickets-31187069364
+  - name: speakers
+  - name: program
   - name: propose
   - name: registration
   - name: discount
@@ -89,34 +87,37 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-  - id: platinum
-    label: Platinum
-    max: "2"
-  - id: gold
-    label: Gold
-    max: "2"
-  - id: silver
-    label: Silver
-    max: "5"
+#  - id: platinum
+#    label: Platinum
+#    max: "0"
+#  - id: gold
+#    label: Gold
+#    max: "0"
+#  - id: silver
+#    label: Silver
+#    max: "0"
   - id: bronze
     label: Bronze
-    max: "7"
+    max: "0"
   - id: honorary
     label: Honorary
     max: "2"
   - id: media
     label: Media
-    max: "5"
+    max: "6"
   - id: community
     label: Community
-    max: "3"
+    max: "6"
+  - id: sticker
+    label: Sticker
+    max: "1"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: devopsinstitute
     level: bronze
-  - id: 2017-devopsdotcom
+  - id: clouding
     level: bronze
   - id: convencionuniversidadsantaclara
     level: honorary
@@ -124,11 +125,13 @@ sponsors:
     level: honorary
   - id: vlired
     level: honorary
-  - id: 2017-addo
+  - id: addo-2017
     level: media
   - id: itrevolution
     level: media
   - id: salt
+    level: media
+  - id: devopsdotcom
     level: media
   - id: oreilly
     level: media
@@ -144,3 +147,222 @@ sponsors:
     level: community
   - id: devopslinks
     level: community
+  - id: docker
+    level: community
+  - id: stickermule
+    level: sticker
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2017-10-23
+    start_time: "08:00"
+    end_time: "11:30"
+  - title: "Opening of Convention UCLV 2017"
+    type: custom
+    date: 2017-10-23
+    start_time: "11:30"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-23
+    start_time: "12:30"
+    end_time: "14:30"
+  - title: "Visit to the historic center of Santa Clara"
+    type: custom
+    date: 2017-10-23
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Transfer to Hotel Melia Marina Varadero"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:30"
+    end_time: "18:30"
+
+  - title: "Opening/Welcome"
+    type: custom
+    date: 2017-10-24
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "Speaker panel"
+    type: custom
+    date: 2017-10-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "ALLDAYDEVOPS 2017"
+    type: custom
+    date: 2017-10-24
+    start_time: "10:30"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-24
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Open Space - Overview & Topic Proposal/Selection"
+    type: open-space
+    date: 2017-10-24
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-24
+    start_time: "14:00"
+    end_time: "15:30"
+  - title: "Social Networking at the Hotel Bars"
+    type: custom
+    date: 2017-10-24
+    start_time: "19:00"
+    end_time: "21:00"
+
+  - title: "randy-shoup1"
+    type: talk
+    date: 2017-10-25
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "anesto-del-toro"
+    type: talk
+    date: 2017-10-25
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-25
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "rudy-gevaert"
+    type: talk
+    date: 2017-10-25
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "dayron-aguero"
+    type: talk
+    date: 2017-10-25
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "aymen-el-amri"
+    type: talk
+    date: 2017-10-25
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "yadier-perdomo"
+    type: talk
+    date: 2017-10-25
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-25
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2017-10-25
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-25
+    start_time: "14:00"
+    end_time: "15:30"
+  - title: "Social Networking at the Hotel Bars"
+    type: custom
+    date: 2017-10-25
+    start_time: "19:00"
+    end_time: "21:00"
+
+  - title: "alina-murphy-pat-dale"
+    type: talk
+    date: 2017-10-26
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "juan-carlos-gomez"
+    type: talk
+    date: 2017-10-26
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2017-10-26
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "conor-delanbanque"
+    type: talk
+    date: 2017-10-26
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "lee-fox"
+    type: talk
+    date: 2017-10-26
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "manuel-morejon"
+    type: talk
+    date: 2017-10-26
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "randy-shoup2"
+    type: talk
+    date: 2017-10-26
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-26
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2017-10-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "mike-rosado"
+    type: workshop
+    date: 2017-10-26
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Close event & Farewell"
+    type: custom
+    date: 2017-10-26
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Beach party"
+    type: custom
+    date: 2017-10-26
+    start_time: "21:00"
+    end_time: "23:00"
+
+  - title: "Close Day & Farewell of Convention UCLV 2017"
+    type: custom
+    date: 2017-10-27
+    start_time: "10:30"
+    end_time: "11:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-27
+    start_time: "12:30"
+    end_time: "14:30"
+  - title: "Transfer to Santa Clara/Havana"
+    type: custom
+    date: 2017-10-23
+    start_time: "15:00"
+    end_time: "20:00"
+
+ignites:
+  - title: "marialina-ballesteros"
+    date: 2017-10-25
+  - title: "genry-leyva"
+    date: 2017-10-25
+  - title: "hamler-rodriguez1"
+    date: 2017-10-25
+  - title: "arian-trujillo"
+    date: 2017-10-26
+  - title: "javier-ruiz-bosch"
+    date: 2017-10-26
+  - title: "ernesto-perez-jorge-armando"
+    date: 2017-10-26

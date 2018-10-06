@@ -1,0 +1,450 @@
+name: "2018-vancouver" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Vancouver" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysyvr"
+status: "current" # Options are "past" or "current". Use "current" for upcoming.
+description: "devopsdays is an inclusive, self-organizing conference for anyone interested in DevOps practices." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+
+startdate:  2018-04-20T00:00:00-07:00
+enddate: 2018-04-21T23:59:59-07:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-01-03T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end:  2018-02-26T23:59:59-08:00 # close your call for proposals.
+cfp_date_announce: 2018-03-05T00:00-08:00 # inform proposers of status
+cfp_link: "https://www.papercall.io/devopsdays-vancouver-2018"
+registration_open: "true"
+registration_link: "https://www.eventbrite.ca/e/devops-days-vancouver-2018-apr-20th-21st-tickets-41596196343?aff=es2"
+
+# Location
+coordinates: "49.282732, -123.121096" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UBC Robson Square" # Defaults to city, but you can make it the venue name.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+    - name: program
+    - name: livestream
+    - name: sponsor
+    - name: registration
+    - name: location
+    - name: contact
+    - name: conduct
+    - name: policies
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  # - name: "Example Organizer"
+  #   role: "Benevolent Dictator"
+  #   website: "https://www.example.com"
+  #   twitter: "example"
+  #   image: "example_portrait.jpg" # put image here: /static/events/<your-event>/organizers/<imagefile>
+  #   bio: |
+  #         # Markdown Supported!
+  #         You can put whatever text you want in here.
+  #   employer: "Example Corp"
+  #   facebook: "https://facebook.com/example"
+  #   github: "example"
+  #   gitlab: "example"
+  #   linkedin: "https://www.linkedin.com/in/example"
+  - name: "Kelly Shkuratoff"
+    role: "Primary Organizer"
+  - name: "Saem Ghani"
+  - name: "Jarrod Lombardo"
+    twitter: "jaberwocky"
+  - name: "Ronald Bow"
+    twitter: "rmkbow"
+  - name: "Ben Rabinovitch"
+  - name: "Nadir Merchant"
+  - name: "Kyle Young"
+    twitter: "ksgyoung"
+  - name: "Amin Yazdani"
+    twitter: "aminyazdani"
+  - name: "Camille Janicki"
+  - name: "Tyler Mauthe"
+    twitter: "tylermauthe"
+    github: "tylermauthe"
+    linkedin: "https://linkedin.com/in/tylermauthe"
+  - name: "Gillian Gunson"
+  - name: "Vincent Janelle"
+    twitter: "randomfrequency"
+
+
+organizer_email: "organizers-vancouver-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-vancouver-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+   - id: sensu
+     level: platinum
+
+   - id: treasuredata
+     level: gold
+   - id: trinimbus-before-20180524
+     level: gold
+   - id: scalyr
+     level: gold
+   - id: influxdata
+     level: gold
+   - id: scalar-cloudcheckr
+     level: gold
+   - id: xmatters
+     level: gold
+   - id: salesforce
+     level: gold
+   - id: chef
+     level: gold
+
+   - id: dynatrace
+     level: silver
+   - id: realtor-dot-com
+     level: silver
+   - id: sourcedgroup
+     level: silver
+   - id: worksafebc
+     level: silver
+
+   - id: unbounce
+     level: bronze
+   - id: statsearchanalytics
+     level: bronze
+   - id: itglue
+     level: bronze
+
+   - id: polyglot
+     level: friends
+   - id: ay-tech
+     level: friends
+   - id: hashicorp
+     level: friends
+
+   - id: papercall
+     level: cfp
+
+
+  # - id: boeing-vancouver
+  #   level: gold
+  # - id: deis
+  #   level: gold
+  # - id: demonware
+  #   level: gold
+  # - id: pivotal
+  #   level: gold
+  # - id: salesforce
+  #   level: gold
+  # - id: saucelabs
+  #   level: gold
+  # - id: sumologic
+  #   level: gold
+
+
+  # - id: chef
+  #   level: silver
+  # - id: netapp
+  #   level: silver
+  # - id: scalar
+  #   level: silver
+
+  # - id: itglue
+  #   level: bronze
+  # - id: opsgenie
+  #   level: bronze
+  # - id: samsung-rd
+  #   level: bronze
+  # - id: statsearchanalytics
+  #   level: bronze
+
+  # - id: ea
+  #   level: coffee
+
+  # - id: pearlfisher-adaptech
+  #   level: friends
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 8
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: amenities
+    label: Amenities
+    max: 4
+  - id: happyhour
+    label: Happy Hour
+    max: 2
+  - id: friends
+    label: Friends
+    max: 4
+  - id: cfp
+    label: CFP
+    max: 1
+
+program:
+  - title: "Registration opens and Welcome Coffee"
+    type: custom
+    date: 2018-04-20
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Day 1 Opening Statements"
+    type: custom
+    date: 2018-04-20
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "Heidi Waterhouse: Y2K and Other Disappointing Disasters"
+    type: custom
+    date: 2018-04-20
+    start_time: "9:15"
+    end_time: "9:45"
+    background_color: "#ABEBFF"
+  - title: "Holly Burton: 5 Conversations I'm Sick of Having About Diversity"
+    type: custom
+    date: 2018-04-20
+    start_time: "9:45"
+    end_time: "10:15"
+    background_color: "#ABEBFF"
+  - title: "Message from Sponsors"
+    type: custom
+    date: 2018-04-20
+    start_time: "10:15"
+    end_time: "10:20"
+    background_color: "gold"
+  - title: "Break"
+    type: custom
+    date: 2018-04-20
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Emily Morehouse-Valcarcel: The AST and Me"
+    type: custom
+    date: 2018-04-20
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#ABEBFF"
+  - title: "Amin Yazdani: Psychology of Estimation: Faster is not always better"
+    type: custom
+    date: 2018-04-20
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ABEBFF"
+  - title: "Open Space Introduction"
+    type: custom
+    date: 2018-04-20
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2018-04-20
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (voting during)"
+    type: custom
+    date: 2018-04-20
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Opening"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Tiffany Longworth: Devops preppers: What the zombie apocalypse can teach us about incident management"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:35"
+    end_time: "13:40"
+    background_color: "#C3FFD7"
+  - title: "Vincent Janelle: I have a hammer and everything looks like a nail; infrastructure automation with ansible"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:40"
+    end_time: "13:45"
+    background_color: "#C3FFD7"
+  - title: "Kyle Young: On the Virtues of Being T-Shaped"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:45"
+    end_time: "13:50"
+    background_color: "#C3FFD7"
+  - title: "Heidi Waterhouse: The Devil's DevOps"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:50"
+    end_time: "13:55"
+    background_color: "#C3FFD7"
+  - title: "Shawn Sterling: Enterprise Problems – DevOps in Very Large Enterprise"
+    type: custom
+    date: 2018-04-20
+    start_time: "13:55"
+    end_time: "14:00"
+    background_color: "#C3FFD7"
+  - title: "Open Space - Slot 1"
+    type: custom
+    date: 2018-04-20
+    start_time: "14:00"
+    end_time: "15:00"
+    background_color: "#FFB566"
+  - title: "Open Space - Slot 2"
+    type: custom
+    date: 2018-04-20
+    start_time: "15:00"
+    end_time: "16:00"
+    background_color: "#FFB566"
+  - title: "Open Space - Slot 3"
+    type: custom
+    date: 2018-04-20
+    start_time: "16:00"
+    end_time: "17:00"
+    background_color: "#FFB566"
+  - title: "Closing Comments"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "End of Day"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Relocate for Party 🎉"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:15"
+    end_time: "17:45"
+  - title: "After Party"
+    type: custom
+    date: 2018-04-20
+    start_time: "17:45"
+    end_time: "21:30"
+  - title: "Registration opens and Welcome Coffee"
+    type: custom
+    date: 2018-04-21
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Day 2 Opening Statements"
+    type: custom
+    date: 2018-04-21
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "Willy-Peter Schaub: Progressive exposure using deployment rings and feature flags"
+    type: custom
+    date: 2018-04-21
+    start_time: "9:15"
+    end_time: "9:45"
+    background_color: "#ABEBFF"
+  - title: "Jeremy Pierre: Developer to Manager (and back, and back again)"
+    type: custom
+    date: 2018-04-21
+    start_time: "9:45"
+    end_time: "10:15"
+    background_color: "#ABEBFF"
+  - title: "Message from Sponsors"
+    type: custom
+    date: 2018-04-21
+    start_time: "10:15"
+    end_time: "10:20"
+    background_color: "gold"
+  - title: "Break"
+    type: custom
+    date: 2018-04-21
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Kenzie Woodbridge: Everyone's a player (in a mid-90s MUD)"
+    type: custom
+    date: 2018-04-21
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#ABEBFF"
+  - title: "Will Whittaker: Bitrot: A Story of Maintenance Failure"
+    type: custom
+    date: 2018-04-21
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#ABEBFF"
+  - title: "Open Space Introduction"
+    type: custom
+    date: 2018-04-21
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "Open Space Proposals"
+    type: custom
+    date: 2018-04-21
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch (voting during)"
+    type: custom
+    date: 2018-04-21
+    start_time: "12:15"
+    end_time: "13:30"
+  - title: "Ignite Opening"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Aiden Brine: Building a Heroku Database Processing App"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:35"
+    end_time: "13:40"
+    background_color: "#C3FFD7"
+  - title: "Brenton Bartel: Coaching DevOps : Lessons from Sports"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:40"
+    end_time: "13:45"
+    background_color: "#C3FFD7"
+  - title: "Chad Lagore: Simple Self-hosted Continuous Deployment"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:45"
+    end_time: "13:50"
+    background_color: "#C3FFD7"
+  - title: "Yaroslav Tkachenko: 10 tips for making Bash a sane programming language"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:50"
+    end_time: "13:55"
+    background_color: "#C3FFD7"
+  - title: "Sean Porter: The Art Of Monitoring"
+    type: custom
+    date: 2018-04-21
+    start_time: "13:55"
+    end_time: "14:00"
+    background_color: "#C3FFD7"
+  - title: "John Rauser: Dealing with Dark Debt in your Culture"
+    type: custom
+    date: 2018-04-21
+    start_time: "14:00"
+    end_time: "14:30"
+    background_color: "#ABEBFF"
+  - title: "Kris Nova: Moving an enterprise monolith to Kubernetes"
+    type: custom
+    date: 2018-04-21
+    start_time: "14:30"
+    end_time: "15:00"
+    background_color: "#ABEBFF"
+  - title: "Open Space - Slot 4"
+    type: custom
+    date: 2018-04-21
+    start_time: "15:00"
+    end_time: "16:00"
+    background_color: "#FFB566"
+  - title: "Open Space - Slot 5"
+    type: custom
+    date: 2018-04-21
+    start_time: "16:00"
+    end_time: "17:00"
+    background_color: "#FFB566"
+  - title: "Closing Comments"
+    type: custom
+    date: 2018-04-21
+    start_time: "17:00"
+    end_time: "17:15"

@@ -48,7 +48,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: thoughtworks-products-before-20160602
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: logicmonitor
     level: gold
@@ -110,7 +110,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: oreilly
     level: media
-  - id: devopsdotcom
+  - id: devopsdotcom-before-20170823
     level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

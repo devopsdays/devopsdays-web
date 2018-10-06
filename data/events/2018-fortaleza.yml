@@ -1,0 +1,275 @@
+name: "2018-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Fortaleza" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Fortaleza!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-10-20 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-10-20 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-07-02 # start accepting talk proposals.
+cfp_date_end: 2018-09-02 # close your call for proposals.
+cfp_date_announce: 2018-09-16 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdaysfortaleza" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "unifor.jpg"
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-3.768304, -38.478437" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Universidade de Fortaleza" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: Informações
+#    icon: "map-o"
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2018-fortaleza/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2018-fortaleza/program
+#  - name: Local
+#    icon: "map-o"
+#    url: /events/2018-fortaleza/location
+#  - name: Palestre (CFP)
+#    icon: "user-plus"
+#    url: "https://www.papercall.io/devopsdaysfortaleza"
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2018-fortaleza/conduta
+#  - name: Inscreva-se
+  - name: Ingressos
+    icon: "user-plus"
+#    url: /events/2018-fortaleza/register
+    url: "https://devopsdaysfortaleza.eventize.com.br/"
+  - name: Patrocinio
+    icon: "money"
+    url: /events/2018-fortaleza/patrocinio
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2018-fortaleza/contato
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mayara Gouveia"
+    role: "Jr DevOps Engineer"
+    bio: "Sysadmin | DevSecOps | Information Security Specialist. Data Cabling System Furukawa Certificate, Fluke Networks, CompTIA Network +, Ethical Hacking Foundation and Fortinet Network Security Essentials 1. Network Forensics Expert. Guest Speaker in spare times. Mac OSX user. Experience with DevSecOps; AWS Cloud; GNU / Linux; Network routing and switching; Structured Cabling; Virtualization; IT services; WSO2."
+    linkedin: "https://www.linkedin.com/in/gb8may/"
+    website: "https://mayara.gouveia.info"
+    github: "https://github.com/gb8may"
+    twitter: "devopsdays"
+    github: "https://github.com/gb8may"
+    image: "mayara-gouveia.jpg"
+  - name: "Mauricio Harley"
+    role: "Senior Network/Security Engineer"
+    bio: "Maurício Harley is a Brazilian Data Center and Information Security professional with more than 20 years of experience on Enterprise, Service Provider and Data Center environments.  He possesses CISSP and double CCIE (Routing & Switching / Service Provider) certifications, as long as many other titles.  He's an awarded Linux collaborator being an active member of Rau-Tu Linux knowledge sharing project for years.  Besides designing new scenarios, he loves to build, deploy, integrate and troubleshoot solutions.  He's passionate about various topics, such as SDN, programming, Docker and Cloud Security.
+Maurício maintains its personal blog (https://itHarley.com) where he writes about Computer Netwoks, Cyber Security, and Cloud Computing. For many years, he was member of Cisco Data Center Tiger Team, a restricted and elite team of Cisco Data Center engineers in Latin America.
+He's also computer forensics expert, and regular writer of PenTest Magazine and Hakin9 magazines.  He's a member of CSA (Cloud Security Alliance) and ISOC (Internet Society)."
+    linkedin: "https://www.linkedin.com/in/mauricioharley"
+    website: "https://itharley.com"
+    twitter: "mauricioharley"
+    github: "https://github.com/mauricioharley"
+    image: "mauricio-harley.jpg"
+  - name: "Ana Carla Cavalcante"
+    role: "IT Infrastructure Coordinator"
+    bio: "IT Infrastructure Coordinator, with more than 20 years of career. Acted in some of the main outsourcing and technology companies in the country: from occupational health ERP to infrastructural technology in the banking sector, having also worked in the oil, gas, steel, and energy sectors. She graduated in Data Processing with specializations in Strategic Management of Projects and Information Systems. Certified in ITIL Intermediate (RCV, SOA and PPO), ISO 20000, ISO 27002, Human Change Management Professional, Green It Citizen, Scrum and Kanban."
+    linkedin: "https://www.linkedin.com/in/ana-carla-cavalcante-62a40725/"
+    image: "ana-carla.jpg"
+  - name: "Jorge Santos"
+    role: "Support Analyst"
+    linkedin: "https://www.linkedin.com/in/jorge-luiz-ba946329/"
+    bio: "Graduated in Computer Networks, LPIC-1 certifications: Linux System Administrator; - CompTIA Linux + (Powered by LPI);
+Specialist in solutions like (Management of configurations in DevOps practices with Puppet, Ansible, Chef)
+Container Management and Cluster Docker)"
+    image: "jorge-santos.jpg"
+  - name: "Renato Santos"
+    role: "Support Analyst"
+    bio: "Graduated in computer networks, passionate about technology and reserved conventional, multitasking, command line, admirer of photography, enthusiastic DevOps. Was in charge of the implementation of the ZABBIX monitoring system in the company M2M Solutions, SindiOnibus, Casas Freitas, Vector Contact Center and CRC , where I had great experience in Java technology using TOMCAT and automating services with the deployable tool Ansible applying the concept of DevOps. Ethical and professional way, I try to be sociable and educated respecting the limits of each one."
+    linkedin: "https://www.linkedin.com/in/renatodossantos/"
+    image: "renato-santos.jpg"
+  - name: "Jairo Junior"
+    role: "Solution Architect"
+    bio: "Solution Architect at Red Hat a contributor to open source projects - from IRC discussions, mailing lists and project maintainer issues. Fanatic by tests, automation, CLI and troubleshooting. Occasionally writing texts in Slack and Telegram."
+    website: "https://jairojunior.github.io/"
+    twitter: "jjunior0x2A"
+    github: "https://github.com/jairojunior"
+    image: "jairo-junior.jpg"
+  - name: "Camila Correia"
+    role: "Designer/QA Analyst"
+    bio: "Quality Assurance Specialist at OSF Global Services and certified tester foundation level professional (CTFL). Designer in spare times and co founder of Coffee Design (www.coffeedesign.com.br).
+Passionate and supportive of animals rights."
+    linkedin: "https://www.linkedin.com/in/camila-correia-6082bb71/"
+    website: "www.coffeedesign.com.br"
+    image: "camila-correia.jpg"
+  - name: "Edvaldo Junior"
+    role: "DevOps Intern"
+    bio: "Graduating in computer networks, Itil Foundation, devOps enthusiast, Grafana Monitoring, Computational Forensic Expertise, Network Internship and DevOps Adagri."
+    linkedin: "https://www.linkedin.com/in/edvaldo-junior/"
+    image: "edvaldo-junior.jpg"
+  - name: "Luciana Lima"
+    role: "Itil knowledge technician"
+    bio: "Itil knowledge technician, with experience of attendance in face and remote technical support to 8 years, were i attended The contact of several companies related to the Tecnology of the country.
+Graduated in analysis and development of Systems with specializations in analysis, projects and Systems Management. Certified in ITIL. It has International certifica te of article presented in an International symposium of innovation Tecnology and Systems."
+    linkedin: "https://www.linkedin.com/in/luciana-lima-a6b94226/"
+    image: "luciana-lima.jpg"
+  - name: "Camila Mamede"
+    role: "Entrepreneur"
+    bio: "MBA of Business Management, formed in Information System. He has worked in the area of ​​Project Management at Grupo Edson Queiroz and M Dias Branco and is currently undertaking projects. Owner of Carole Cozinha, which provides executive meals to over 40 companies in Fortaleza and already has more than 500 clients."
+    linkedin: "https://www.linkedin.com/in/camila-mamede-8a6b837b/"
+    image: "camila-mamede.jpg"
+  - name: "Ana Paula Oliveira"
+    role: "QA Analyst"
+    bio: "Graduate in Analysis and systems development. Certified CTFL and ITIL Foundations. Passionate about everything in Technology, with experience in IT Support and now as a Test Analyst."
+    linkedin: "https://www.linkedin.com/in/anaoliveira5/"
+    image: "ana-paula.jpg"
+  - name: "Wanderson Lopes"
+    role: "Support Analyst"
+    bio: "Graduated in systems analysis, where the first contact with technology was with game bots creation. Today daily experience creating scripts in vbs for automation helpdesk service."
+    linkedin: "https://www.linkedin.com/in/wandersonlopes"
+    image: "wanderson-lopes.jpg"
+organizer_email: "organizers-fortaleza-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-fortaleza-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: universidade-de-fortaleza
+    level: gold
+    url: https://www.unifor.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: ibis-hotels
+    level: community
+    url: https://ibis.accorhotels.com/brasil/index.pt-br.shtml # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+  - id: f13
+    level: silver
+    url: https://www.f13.com.br/
+  - id: 4linux
+    level: community
+    url: https://www.4linux.com.br/
+  - id: 4devops
+    level: community
+    url: http://4devops.com.br/
+  - id: mandic
+    level: gold
+    url: https://www.mandic.com.br/
+  - id: redhat
+    level: gold
+    url: https://www.redhat.com/
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Credenciamento, Breakfast e abertura do evento"
+    type: open-space
+    date: 2018-10-20
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "jairo-junior"
+    type: talk
+    date: 2018-10-20
+    start_time: "08:30"
+    end_time: "08:55"
+  - title: "gabriela-dias"
+    type: talk
+    date: 2018-10-20
+    start_time: "09:00"
+    end_time: "09:35"
+  - title: "yuri-adams"
+    type: talk
+    date: 2018-10-20
+    start_time: "09:45"
+    end_time: "10:10"
+  - title: "misael-santos"
+    type: talk
+    date: 2018-10-20
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "daniel-romero"
+    type: talk
+    date: 2018-10-20
+    start_time: "10:55"
+    end_time: "11:20"
+  - title: "Almoço"
+    type: open-space
+    date: 2018-10-20
+    start_time: "11:20"
+    end_time: "12:30"
+  - title: "marco-antonio-aka-somatorio"
+    type: talk
+    date: 2018-10-20
+    start_time: "12:35"
+    end_time: "13:10"
+  - title: "cicero-gadelha"
+    type: talk
+    date: 2018-10-20
+    start_time: "13:20"
+    end_time: "13:45"
+  - title: "braier-alves"
+    type: talk
+    date: 2018-10-20
+    start_time: "13:55"
+    end_time: "14:20"
+  - title: "rafael-gomes-aka-gomex"
+    type: talk
+    date: 2018-10-20
+    start_time: "14:30"
+    end_time: "14:55"
+  - title: "Coffee-Break"
+    type: open-space
+    date: 2018-10-20
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "camilla-martins"
+    type: talk
+    date: 2018-10-20
+    start_time: "15:25"
+    end_time: "16:00"
+  - title: "gabriel-araujo"
+    type: talk
+    date: 2018-10-20
+    start_time: "16:10"
+    end_time: "16:35"
+  - title: "thiago-souza"
+    type: talk
+    date: 2018-10-20
+    start_time: "16:45"
+    end_time: "17:10"
+  - title: "marcelo-bill"
+    type: talk
+    date: 2018-10-20
+    start_time: "17:20"
+    end_time: "17:55"
+  - title: "Encerramento"
+    type: open-space
+    date: 2018-10-20
+    start_time: "18:00"
+    end_time: "18:30"

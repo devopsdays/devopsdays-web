@@ -53,7 +53,7 @@ proposal_email: "proposals-telaviv-2016@devopsdays.org" # Put your proposal emai
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # Platinum
-  - id: facebook
+  - id: facebook-before-20170607
     level: gold
   - id: chef
     level: gold
@@ -62,13 +62,13 @@ sponsors:
     level: silver
   - id: similarweb
     level: silver
-  - id: bigpanda
+  - id: bigpanda-before-20171017
     level: silver
   - id: outbrain
     level: silver
   - id: yotpo
     level: silver
-  - id: redislabs
+  - id: redislabs-before-20180508
     level: silver
   - id: logz-before-20170613
     level: silver
@@ -78,11 +78,11 @@ sponsors:
     level: silver
   - id: ness
     level: silver
-  - id: cloudify
+  - id: cloudify-before-20170704
     level: silver
   - id: cloudinary
     level: silver
-  - id: aws
+  - id: aws-before-20180313
     level: silver
   - id: ibm
     level: silver
