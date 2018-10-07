@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["gal-bashan"]
 +++
 
-I am a senior developer at Epsagon, a startup focused on bringing observability to serverless cloud applications. I have a cyber-security background, with experience in reverse engineering, networks analysis and breaking things as a habit. Currently focused on using distributed tracing and AI technologies to tackle the unique observability challenges in serverless environments. Apart from that, I am a huge rock climbing enthusiast!
+Serverless and FaaS naturally fit microservices architectures. Observability of such systems is very complicated, since each microservice is separated and working asynchronously from the others. Distributed tracing is a key approach to understand such systems. In serverless, there are new challenges and opportunities which make distributed tracing a very interesting and useful technique for high observability.
