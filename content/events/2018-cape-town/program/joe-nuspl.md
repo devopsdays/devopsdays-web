@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "DevOps: Reflections on a Lifetime of Learning"
 Type = "talk"
 Speakers = ["joe-nuspl"]
+Speakerdeck = "https://speakerdeck.com/nvwls/devops-reflections-on-a-lifetime-of-learning"
 +++
 
 History shows us that we may not understand the significance of
