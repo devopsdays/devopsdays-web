@@ -5,7 +5,7 @@ Talk_end_time = "14:10"
 Title = "Build pipelines with TeamCity"
 Type = "talk"
 youtube = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-anton-arhipov-build-pipelines-with-teamcity"
 Speakers = ["anton-arhipov"]
 +++
 

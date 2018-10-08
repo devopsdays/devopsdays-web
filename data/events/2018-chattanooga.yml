@@ -87,8 +87,17 @@ sponsors:
     level: gold
   - id: epb
     level: gold
+  - id: cloudbees
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: appdynamics
+    level: gold
   - id: nutanix
     level: bronze
+  - id: teksystems
+    level: bronze
+    twitter: teksystems
   - id: crysdesigns
     level: community
 
