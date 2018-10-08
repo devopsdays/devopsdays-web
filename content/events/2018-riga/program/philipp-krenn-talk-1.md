@@ -5,7 +5,7 @@ Talk_end_time = "11:10"
 Title = "Centralized Logging Patterns"
 Type = "talk"
 youtube = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-philipp-krenn-centralized-logging-patterns"
 Speakers = ["philipp-krenn"]
 +++
 
