@@ -5,7 +5,7 @@ Talk_end_time = "14:00"
 Title = "How Do You Infect Your Organization With Humane Ops?"
 Type = "talk"
 youtube = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-matty-stratton-how-do-you-infect-your-organization-with-humane-ops"
 Speakers = ["matty-stratton"]
 +++
 
