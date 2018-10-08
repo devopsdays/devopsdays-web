@@ -5,7 +5,7 @@ Talk_end_time = "14:25"
 Title = "Multi-language Continuous Delivery Pipelines with Jenkins, Docker & OpenShift"
 Type = "talk"
 youtube = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-jorge-hidalgo-multilanguage-continuous-delivery-pipelines-with-jenkins-docker-openshift"
 Speakers = ["jorge-hidalgo"]
 +++
 

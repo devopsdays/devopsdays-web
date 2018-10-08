@@ -5,7 +5,7 @@ Talk_end_time = "10:00"
 Title = "DevOps and DevOpsDays - Where it started, where it is, where it's going"
 Type = "talk"
 youtube = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-ken-mugrage-devops-and-devopsdays-where-it-started-where-it-is-where-its-going"
 Speakers = ["ken-mugrage"]
 +++
 
