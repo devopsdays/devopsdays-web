@@ -1,6 +1,6 @@
 +++
 Talk_date = "2018-11-13"
-Title = "Slack Is Not Your Bash Prompt"
+Title = "12 Factor App vs 12 Layer Burrito"
 Type = "talk"
 Speakers = ["ravi-lachman"]
 +++
