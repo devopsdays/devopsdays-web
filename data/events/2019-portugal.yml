@@ -51,13 +51,15 @@ team_members: # Name is the only required field for team members.
     bio:
     linkedin: "https://www.linkedin.com/in/manuelpais/"
     twitter: "manupaisable"
-    website:
+    github: "manupaisable"
+    website: "https://www.manuelpais.net/"
     image:
   - name: "Eduardo Piairo"
     employer: "Natixis"
     bio:
     linkedin: "linkedin.com/in/eduardopiairo"
     twitter: "EdPiairo"
+    github: "eduardopiairo"
     website: "https://www.eduardopiairo.com/"
     image:
   - name: "Miguel Alho"
@@ -65,6 +67,7 @@ team_members: # Name is the only required field for team members.
     bio:
     linkedin:
     twitter: "MytyMyky"
+    github: "MiguelAlho"
     website:
     image:
   - name: "Marta Torneiro"
@@ -72,54 +75,63 @@ team_members: # Name is the only required field for team members.
     bio:
     linkedin: "https://www.linkedin.com/in/martatorneiro"
     twitter:
+    github:
     website:
     image: 
   - name: "Urbano Freitas"
     employer: "OutSystems"
     linkedin: "https://www.linkedin.com/in/urbanofreitas/"
     twitter: "UrbanoFreitas1"
+    github: "urbanofreitas"
     website:
     image:
   - name: "Cristina Rebelo"
     employer: "Meo"
     linkedin: "https://www.linkedin.com/in/crismr/"
     twitter: "crismr"
+    github: "Crismr71"
     website:
     image:
   - name: "Adnilson Delgado"
     employer: "Wundertax"
     linkedin: "https://www.linkedin.com/in/adnilson/"
     twitter: "delgadoadnilson"
+    github: "Adnilson"
     website:
     image:
   - name: "João Rodrigues"
     employer: "OutSystems"
     linkedin: "https://www.linkedin.com/in/joao-brandao-rodrigues"
     twitter: "joaoblrodrigues"
+    github: "joaobrodrigues"
     website:
     image:
   - name: "Miguel Antunes"
     employer: "OutSystems"
     linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
     twitter:
+    github: "micantunes"
     website:
     image:
   - name: "Ricardo Castro"
     employer: "Uphold Inc"
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
     twitter: "mccricardo"
+    github: "mccricardo"
     website:
     image:
   - name: "João Miranda"
     employer: "BPI"
     linkedin: "https://www.linkedin.com/in/jhosm/"
     twitter: "jhosm"
+    github: "jhosm"
     website:
     image:
   - name: "Elisete Cruz"
     employer: "Euronext"
     linkedin: "https://pt.linkedin.com/in/elisetecruz"
     twitter: "elisetedcruz"
+    github:
     website:
     image:
 
