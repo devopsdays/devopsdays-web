@@ -175,16 +175,16 @@ program:
     type: custom
     date: 2018-11-13T00:00:00-05:00
     start_time: "11:55"
-    end_time: "13:15"
-  - title: "Ignites"
-    type: custom
+    end_time: "13:10"
+  - title: "Lightning Talks"
+    type: ignite
     date: 2018-11-13T00:00:00-05:00
-    start_time: "13:15"
-    end_time: "13:45"
+    start_time: "13:10"
+    end_time: "13:40"
   - title: "Open Space Opening"
     type: custom
     date: 2018-11-13T00:00:00-05:00
-    start_time: "13:45"
+    start_time: "13:40"
     end_time: "14:00"
   - title: "m-scott-ford"
     type: talk
@@ -226,3 +226,13 @@ program:
     date: 2018-11-13T00:00:00-05:00
     start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+- title: "james-dean"
+  date: 2018-11-13
+- title: "josh-davis"
+  date: 2018-11-13
+- title: "marcus-young"
+  date: 2018-11-13
+- title: "ravi-lachman"
+  date: 2018-11-13
