@@ -178,7 +178,7 @@ program:
     end_time: "13:10"
   - title: "Lightning Talks"
     type: ignite
-    date: 2018-11-13T00:00:00-05:00
+    date: 2018-11-13
     start_time: "13:10"
     end_time: "13:40"
   - title: "Open Space Opening"
