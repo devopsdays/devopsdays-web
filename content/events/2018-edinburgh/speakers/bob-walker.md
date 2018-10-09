@@ -1,7 +1,6 @@
 +++
-Title = "Bob Walker"
+Title = "bob walker"
 Twitter = "@rjw1"
-image = ""
 type = "speaker"
 linktitle = "bob-walker"
 

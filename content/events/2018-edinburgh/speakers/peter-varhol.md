@@ -1,7 +1,6 @@
 +++
 Title = "Peter Varhol"
 Twitter = "@pvarhol"
-image = ""
 type = "speaker"
 linktitle = "peter-varhol"
 

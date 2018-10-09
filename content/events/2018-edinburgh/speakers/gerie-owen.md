@@ -1,7 +1,6 @@
 +++
 Title = "Gerie Owen"
 Twitter = "@GerieOwen"
-image = ""
 type = "speaker"
 linktitle = "gerie-owen"
 

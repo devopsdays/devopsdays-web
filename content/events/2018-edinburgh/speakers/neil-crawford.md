@@ -1,7 +1,6 @@
 +++
 Title = "Neil Crawford"
 Twitter = ""
-image = ""
 type = "speaker"
 linktitle = "neil-crawford"
 

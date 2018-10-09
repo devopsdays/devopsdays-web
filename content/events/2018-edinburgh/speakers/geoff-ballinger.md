@@ -1,7 +1,6 @@
 +++
 Title = "Geoff Ballinger"
 Twitter = "@geoffballinger"
-image = ""
 type = "speaker"
 linktitle = "geoff-ballinger"
 
