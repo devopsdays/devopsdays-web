@@ -15,7 +15,7 @@ icons = "TRUE"
       <table class = "table table-bordered table-responsive">
       <thead>
         <tr><th colspan="4" bgcolor="#f7f7f9"><b><center>Program Legend</center></b></th>
-        <tr><th bgcolor="#abebff">Full Talks</th><th bgcolor="#c3ffd7">Ignite Talks</th><th bgcolor="#ffb566">Open Spaces</th><th bgcolor="#FFFA99">Workshops</th>
+        <tr><th bgcolor="#abebff">Talks</th><th bgcolor="#c3ffd7">Ignite Talks</th><th bgcolor="#ffb566">Open Spaces</th><th bgcolor="#FFFA99">Workshops</th>
         </thead>
       </table>
   </div>
