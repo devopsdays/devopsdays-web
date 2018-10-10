@@ -84,6 +84,8 @@ proposal_email: "proposals-oslo-2018@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: acando
     level: partner
+  - id: arcticcircledc
+    level: partner
   - id: bekk
     level: partner
   - id: capra
