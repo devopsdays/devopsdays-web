@@ -201,7 +201,7 @@ program:
     type: workshop
     date: 2018-11-05
     start_time: "14:10"
-    end_time: "15:10"
+    end_time: "15:40"
   - title: "Open Space #3"
     type: open-space
     date: 2018-11-05
@@ -344,7 +344,7 @@ program:
 ignites:
   - title: "everett-toews"
     date: 2018-11-05
-  - title: "TBA"
+  - title: "jeff-smith-ignite"
     date: 2018-11-05
   - title: "TBA"
     date: 2018-11-05
@@ -352,6 +352,6 @@ ignites:
     date: 2018-11-06
   - title: "jules-clements"
     date: 2018-11-06
-  - title: "TBA"
+  - title: "nigel-charman"
     date: 2018-11-06
 
