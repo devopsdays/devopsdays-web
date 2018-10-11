@@ -7,10 +7,10 @@ event_twitter: "DevOpsZH"
 startdate: 2019-05-14
 enddate: 2019-05-15
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start: 2019-01-01 # start accepting talk proposals.
-#cfp_date_end: 2018-04-01 # close your call for proposals.
-#cfp_date_announce: 2019-01-02 # inform proposers of status
-#cfp_link: https://cfp.devopsdays.ch
+cfp_date_start: 2018-10-11 # start accepting talk proposals.
+cfp_date_end: 2019-01-10 # close your call for proposals.
+cfp_date_announce: 2019-03-01 # inform proposers of status
+cfp_link: https://cfp.devopsdays.ch
 registration_open: "false"
 
 # Location
@@ -25,8 +25,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: program
   - name: location
 #  - name: registration
-#  - name: propose
-#    url: https://cfp.devopsdays.ch
+  - name: propose
+    url: https://cfp.devopsdays.ch
 #  - name: sponsor
   - name: contact
   - name: conduct
