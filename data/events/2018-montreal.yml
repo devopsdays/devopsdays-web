@@ -200,12 +200,12 @@ program:
     type: talk
     date: 2018-10-10
     start_time: "11:50"
-    end_time: "12:12"
+    end_time: "12:30"
 
   - title: "Lunch"
     type: break
     date: 2018-10-10
-    start_time: "12:12"
+    start_time: "12:30"
     end_time: "13:40"
     background_color: "#ff8282"
 

@@ -17,7 +17,7 @@ cfp_date_start: 2018-08-10T00:00:00-04:00  # start accepting talk proposals.
 cfp_date_end: 2018-09-20T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce: 2018-10-04T00:00:00-04:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: false
 cfp_link: "https://www.papercall.io/devopsdayschattanooga" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-08-10T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
@@ -34,12 +34,12 @@ location: "Chattanooga Convention Center" # Defaults to city, but you can make i
 location_address: "1150 Carter St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-  - name: location
- # - name: registration
- # - name: program
+  # - name: propose
+  - name: program
   - name: speakers
+  - name: registration
   - name: sponsor
+  - name: location
   - name: contact
   - name: conduct
 # - name: example
@@ -124,3 +124,115 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "john-willis"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:05"
+  - title: "debbie-levitt"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "scott-callicutt"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "11:55"
+    end_time: "13:10"
+  - title: "Lightning Talks"
+    type: ignite
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "13:40"
+    end_time: "14:00"
+  - title: "m-scott-ford"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "chris-corriere"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "chris-rimondi"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:55"
+    end_time: "16:00"
+  - title: "jessica-deen"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+- title: "james-dean"
+  date: 2018-11-13T00:00:00-05:00
+- title: "josh-davis"
+  date: 2018-11-13T00:00:00-05:00
+- title: "marcus-young"
+  date: 2018-11-13T00:00:00-05:00
+- title: "ravi-lachman"
+  date: 2018-11-13T00:00:00-05:00

@@ -67,7 +67,8 @@ team_members: # Name is the only required field for team members.
 
   - name: "Vincent De Smet"
     twitter: "vincentdesmet"
-    bio: ""
+    bio: "Vincent De Smet is the lead DevOps engineer for Swatmobile and co-organiser for Kubernetes meetups in Singapore"
+    image: "vincent-desmet.jpg"
 
   - name: "Hugues Malphettes"
     employer: "Standard Chartered"
@@ -234,7 +235,7 @@ program:
     start_time: "17:25"
     end_time: "17:30"
   - title: "Evening event"
-    comments: "Location TBD ([map](/events/2018-singapore/location/#after-party))"
+    comments: "Location Brewerkz Riverside Point ([map](/events/2018-singapore/location/#after-party))"
     type: custom
     date: 2018-10-11
     start_time: "17:30"
