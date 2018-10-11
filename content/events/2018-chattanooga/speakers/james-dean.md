@@ -1,7 +1,8 @@
 +++
 Title = "James Dean"
 type = "speaker"
-linktitle = "james-deen"
+image = "james-dean.jpg"
+linktitle = "james-dean"
 
 +++
 
