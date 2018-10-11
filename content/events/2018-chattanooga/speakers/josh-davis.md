@@ -1,6 +1,7 @@
 +++
 Title = "Josh Davis"
 type = "speaker"
+image = "josh-davis.jpg"
 linktitle = "josh-davis"
 
 +++
