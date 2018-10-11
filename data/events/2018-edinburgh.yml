@@ -93,6 +93,8 @@ With 18 years of experience in the software industry, Maria has previously worke
     employer: "Adobe"
     bio: "DevOps Engineer at Adobe and Graduate Apprentice at Heriot-Watt University, originating from Canada with a degree in Psychology from the University of Victoria."
     image: "cookie-lanfear.jpg"
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
 
 organizer_email: "organizers-edinburgh-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2018@devopsdays.org" # Put your proposal email address here
