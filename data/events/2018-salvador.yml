@@ -76,6 +76,20 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: solutis
+    level: silver
+  - id: redhat
+    level: platinum
+  - id: unifacs
+    level: gold
+  - id: elastic
+    level: silver
+  - id: concrete
+    level: silver
+  - id: impulso
+    level: bronze
+  - id: g3solutions
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -84,6 +98,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: platinum
   - id: gold
     label: Gold
 #    max: 10
