@@ -191,6 +191,7 @@ Room locations for talks will be added soon.
       <div class = "col-md-9 box" style="color: #0082AB">
         <strong>Snack Break</strong><br />
       </div>
+    </div> <!-- end timeslot div -->
     <div class = "row">
       <div class = "col-md-3">
         <time>15:10-15:30</time>
@@ -198,7 +199,6 @@ Room locations for talks will be added soon.
       <div class = "col-md-9 box" style="color: #0082AB">
         <strong>Sponsors and Raffle</strong><br />Amphitheater
       </div>
-    </div> <!-- end timeslot div -->
     </div> <!-- end timeslot div -->
          <!-- this div is repeated for each timeslot -->
     <div class = "row">
