@@ -180,7 +180,7 @@ Room locations for talks will be added soon.
         <strong>{{< event_link page="program/thad-west" text="Culture and Collaboration in DevOps" >}}</strong><br />{{< event_link page="speakers/thad-west" text="Thad West" >}}<br />Room: TBD<br />Track: Getting Started
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/hattan-shobokshi" text="Automated Dev Environments with Docker" >}}</strong><br />{{< event_link page="speakers/hattan-shobokshi" text="Hattan Shobokshi" >}}<br />Room: TBD<br />Track: Advanced
+        TBD<br />Room: TBD<br />Track: Advanced
       </div>
     </div> <!-- end timeslot div -->
          <!-- this div is repeated for each timeslot -->
@@ -204,10 +204,10 @@ Room locations for talks will be added soon.
     <!-- this div is repeated for each timeslot -->
     <div class = "row">
       <div class = "col-md-3">
-        <time>16:00-16:15</time>
+        <time>16:00-18:00</time>
       </div>
       <div class = "col-md-9 box" style="color: #0082AB">
-        <strong>Thank You!</strong>
+        <strong>Happy Hour</strong>
       </div>
     </div> <!-- end timeslot div -->
   </div><!-- end day 1 -->
