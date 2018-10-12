@@ -14,7 +14,7 @@ Description = "devopsdays Phoenix 2018"
     </div>
   </div>
   <div class = "col-md-9">
-  
+
     <br>
     <br>
     <p>DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, Specialists in Mobile, VR, AI, BI, etc…</p>
@@ -25,8 +25,8 @@ Description = "devopsdays Phoenix 2018"
 
     <p><strong>Learning</strong></p>
 
-    <p>At DevOpsDays we discuss the culture and tools that can make organizations run better, deliver faster, and improve quality. 
-    
+    <p>At DevOpsDays we discuss the culture and tools that can make organizations run better, deliver faster, and improve quality.
+
     <p>This year we would like to focus on:</p>
 
     <ul>
@@ -40,15 +40,15 @@ Description = "devopsdays Phoenix 2018"
 
 <ul>
 <li>Keynotes: Kolton Andrus and Christian Posta</li>
-<li>Automation & Delivery: Wes Novack, Nick Willever, Hattan Shobokshi</li>
+<li>Automation & Delivery: Wes Novack, Nick Willever</li>
 <li>Kubernetes, Security & Databases: Carols Nunez, Rob Richardson, Chris Van Tuin</li>
 <li>Monitoring & Modeling: Jasmine Hegman, Mark Gunnels</li>
 <li>Culture: Andy Lowe, Cat Swetel, Stephen Kuenzli, Matt Williams</li>
 </ul>
 
-    
+
     <!-- This year’s list topics included: Security, Containers, BizOps, Scaling, and many other areas of interest. With a mix of in-depth talks and laser focused Ignite talks, you are sure to walk away having learned something new.--> </p>
-    
+
     <p>{{< event_link page="speakers" text="View details about speakers!" >}}<br /></p>
 <!--
     <p>{{< event_link page="schedule" text="View the scheduled talks!" >}}<br /></p>
@@ -57,13 +57,13 @@ Description = "devopsdays Phoenix 2018"
 
     <p>One of the great parts of DevOpsDays is learning from other attendees.  There will be plenty of time to share success and failure stories with each other, get feedback on your next crazy idea, ask for help solving a real world problem you are facing when you go back to work on Wednesday.</p>
 </br>
-  
+
     <br /><br />
 
     <h4>Interested in getting your company in front of the attendees and sponsoring the event, {{< event_link page="sponsor" text="please let us know!" >}}</h4>
 
     <br /><br />
-   
+
 
 
 <div class = "row">
@@ -71,7 +71,7 @@ Description = "devopsdays Phoenix 2018"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} 
+    {{< event_start >}}
   </div>
 </div>
 
@@ -98,7 +98,7 @@ Description = "devopsdays Phoenix 2018"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    The <a href="https://www.papercall.io/devopsday-phoenix-2018">CFP</a> for 2018 is closed. 
+    The <a href="https://www.papercall.io/devopsday-phoenix-2018">CFP</a> for 2018 is closed.
     {{< event_link page="propose" text="2018 CFP" >}}
   </div>
 </div>
@@ -111,7 +111,7 @@ Description = "devopsdays Phoenix 2018"
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> 
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
