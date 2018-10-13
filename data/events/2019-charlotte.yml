@@ -10,18 +10,18 @@ startdate: "2019-02-07"
 enddate: "2019-02-08"
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2018-10-15" # start accepting talk proposals.
-cfp_date_end:  "2018-11-30" # close your call for proposals.
-cfp_date_announce:  "2018-12-15" # inform proposers of status
+cfp_date_start: "2018-10-13" # start accepting talk proposals.
+cfp_date_end:  "2018-11-25" # close your call for proposals.
+cfp_date_announce:  "2018-12-05" # inform proposers of status
 
-cfp_open: "false"
-# cfp_link: "https://papercall.io/dodclt2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://papercall.io/dodclt2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-10-13T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-02-06T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.eventbrite.com/e/devopsdays-charlotte-2018-tickets-38783477425" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-charlotte-2019-tickets-51363183665" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
