@@ -10,9 +10,9 @@ startdate: 2019-02-07T00:00:00-05:00
 enddate: 2019-02-08T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: "2018-10-13" # start accepting talk proposals.
-cfp_date_end:  "2018-11-25" # close your call for proposals.
-cfp_date_announce:  "2018-12-05" # inform proposers of status
+cfp_date_start: 2018-10-13T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end:  2018-11-25T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce:  2018-12-05T00:00:00-05:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://papercall.io/dodclt2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
