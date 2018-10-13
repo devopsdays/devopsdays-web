@@ -1,5 +1,4 @@
 +++
-Date = "201-01-22T09:22:48+02:00"
 Title = "devopsdays Geneva 2019"
 Type = "welcome"
 aliases = ["/events/2019-geneva"]
