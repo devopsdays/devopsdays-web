@@ -101,7 +101,5 @@ TOBE DEFINED -->
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name
 <br />
 {{< event_twitter >}}
--->
