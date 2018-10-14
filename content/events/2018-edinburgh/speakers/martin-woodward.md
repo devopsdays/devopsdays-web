@@ -2,6 +2,7 @@
 Title = "Martin Woodward"
 Twitter = ""
 type = "speaker"
+image = "default.jpg"
 linktitle = "martin-woodward"
 
 +++

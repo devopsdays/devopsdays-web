@@ -2,6 +2,7 @@
 Title = "Neil Crawford"
 Twitter = ""
 type = "speaker"
+image = "neil-crawford.jpg"
 linktitle = "neil-crawford"
 
 +++

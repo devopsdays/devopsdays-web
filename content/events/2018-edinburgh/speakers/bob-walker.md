@@ -2,6 +2,7 @@
 Title = "bob walker"
 Twitter = "@rjw1"
 type = "speaker"
+image = "default.jpg"
 linktitle = "bob-walker"
 
 +++

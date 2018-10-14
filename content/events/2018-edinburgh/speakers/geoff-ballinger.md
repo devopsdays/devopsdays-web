@@ -2,6 +2,7 @@
 Title = "Geoff Ballinger"
 Twitter = "@geoffballinger"
 type = "speaker"
+image = "default.jpg"
 linktitle = "geoff-ballinger"
 
 +++
