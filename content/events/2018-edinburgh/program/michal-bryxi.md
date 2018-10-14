@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "When we believed the myth of a 'small project'"
 Type = "talk"
-Speakers = ["michal-bryx"]
+Speakers = ["michal-bryxi"]
 +++
 
 When we started our project we had just a high level vision. As we dissected the idea into smaller pieces questions started to appear. Which framework to use? Database? Hosting? There are a lot of questions and the whole Internet with the best™ technologies to solve our problems. Any silver bullet?

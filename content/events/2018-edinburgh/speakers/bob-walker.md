@@ -1,8 +1,8 @@
 +++
-Title = "Bob Walker"
+Title = "bob walker"
 Twitter = "@rjw1"
-image = ""
 type = "speaker"
+image = "default.jpg"
 linktitle = "bob-walker"
 
 +++

@@ -167,28 +167,22 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: coffee
-    label: Coffee
+    label: "Coffee"
     max: "1"
   - id: beer
     label: Beer
     max: "1"
-  - id: games
-    label: Games
-    max: "1"
-  - id: "foodtrucks"
-    label: "Food truck"
-    max: "4"
   - id: gold
     label: Gold
-    max: "8"
+    max: "10"
   - id: recharge
     label: "Power recharge"
     max: "1"
   - id: silver
     label: Silver
-    max: "8"
+    max: "7"
   - id: lanyard
-    label: Lanyard
+    label: "Lanyard"
     max: "1"
   - id: bronze
     label: Bronze

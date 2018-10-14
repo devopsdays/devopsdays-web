@@ -40,7 +40,7 @@ Description = "devopsdays Phoenix 2018"
 
 <ul>
 <li>Keynotes: Kolton Andrus and Christian Posta</li>
-<li>Automation & Delivery: Wes Novack, Nick Willever, Hattan Shobokshi</li>
+<li>Automation & Delivery: Wes Novack, Nick Willever</li>
 <li>Kubernetes, Security & Databases: Carols Nunez, Rob Richardson, Chris Van Tuin</li>
 <li>Monitoring & Modeling: Jasmine Hegman, Mark Gunnels</li>
 <li>Culture: Andy Lowe, Cat Swetel, Stephen Kuenzli, Matt Williams</li>

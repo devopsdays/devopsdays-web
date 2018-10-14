@@ -1,8 +1,8 @@
 +++
 Title = "Sabine Wojcieszak"
 Twitter = "@SabineBendixen"
-image = ""
 type = "speaker"
+image = "sabine-wojcieszak.jpg"
 linktitle = "sabine-wojcieszak"
 
 +++

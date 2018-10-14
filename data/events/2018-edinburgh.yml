@@ -110,6 +110,8 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: wood-mackenzie
+    level: gold
   - id: freeagent
     level: bronze
   - id: ncredinburgh
@@ -370,6 +372,6 @@ ignites:
     date: 2018-11-01
   - title: "jason-yee"
     date: 2018-11-01
-  - title: "michal-bryx"
+  - title: "michal-bryxi"
     date: 2018-11-01
 

@@ -1,7 +1,7 @@
 +++
 Title = "Louda Peña"
 Twitter = "@loudalouda"
-image = ""
+image = "louda-pena.jpg"
 type = "speaker"
 linktitle = "louda-pea"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Gavin Campbell"
 Twitter = ""
-image = ""
+image = "gavin-campbell.jpg"
 type = "speaker"
 linktitle = "gavin-campbell"
 
