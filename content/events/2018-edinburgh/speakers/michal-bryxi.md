@@ -1,9 +1,9 @@
 +++
 Title = "Michal Bryxí"
 Twitter = "@MichalBryxi"
-image = ""
 type = "speaker"
-linktitle = "michal-bryx"
+image = "michal-bryxi.jpeg"
+linktitle = "michal-bryxi"
 
 +++
 
