@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.23.1](https://github.com/devopsdays/devopsdays-theme/tree/1.23.1) (2018-10-15)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.23.0...1.23.1)
+
+**Fixed bugs:**
+
+- single-day events displaying incorrectly on welcome page [\#663](https://github.com/devopsdays/devopsdays-theme/issues/663)
+- images not resolving in static events [\#662](https://github.com/devopsdays/devopsdays-theme/issues/662)
+
 ## [1.23.0](https://github.com/devopsdays/devopsdays-theme/tree/1.23.0) (2018-09-14)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.22.0...1.23.0)
 
@@ -9,8 +17,6 @@
 
 **Closed issues:**
 
-- events disappearing from front page before enddate is over [\#656](https://github.com/devopsdays/devopsdays-theme/issues/656)
-- Build performance analysis [\#643](https://github.com/devopsdays/devopsdays-theme/issues/643)
 - Version 10 of node.js has been released [\#625](https://github.com/devopsdays/devopsdays-theme/issues/625)
 - Social button don't show for a speaker in the talk page [\#582](https://github.com/devopsdays/devopsdays-theme/issues/582)
 
