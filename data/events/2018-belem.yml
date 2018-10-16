@@ -108,6 +108,12 @@ sponsors:
   - id: elephant-coworking
     level: bronze
 
+  - id: adaptnow
+    level: platinum
+
+  - id: pluralsight
+    level: platinum
+
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -115,6 +121,8 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platina
   - id: gold
     label: Ouro
   - id: silver
