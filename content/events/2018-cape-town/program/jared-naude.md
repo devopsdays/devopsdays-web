@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Lessons learnt from taking SA Banks & Enterprises to Cloud"
 Type = "talk"
 Speakers = ["jared-naude"]
+Youtube = "https://www.youtube.com/watch?v=cdeQQDwNJQk"
 +++
 
 Over the past 2 years, I have been working with several South African financial services institutions including top banks on their cloud migration journey. To have a successful cloud journey, DevOps and automation play a key role, however many interesting challenges arise when you take a heavily regulated industry to cloud. In this talk I will share some of these challenges, horror stories and key lessons that I have learnt throughout this process including (but not limited to):
