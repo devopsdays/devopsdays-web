@@ -22,7 +22,7 @@ gulp.task('copy-other-images', function() {
 })
 
 gulp.task('copy-old-images', function () {
-  return gulp.src(['public/events/2015*/**/', 'public/events/**/2016*/**/', '!**/*.html'])
+  return gulp.src(['public/events/2015*/**/', 'public/events/2016*/**/*', '!**/*.html'])
     .pipe(gulp.dest('dist/events'));
 });
 

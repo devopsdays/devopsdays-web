@@ -77,7 +77,7 @@ Description = "devopsdays Phoenix 2018"
 
  <div class = "row">
   <div class = "col-md-2">
-    <strong>Location</strong>
+    <strong>Location & Parking Details  </strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
@@ -140,7 +140,15 @@ Description = "devopsdays Phoenix 2018"
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Twitter</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_twitter >}}
+  </div>
+</div>
+
 <!-- Uncomment if you added your city twitter name -->
 
-{{< event_twitter >}}
 

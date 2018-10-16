@@ -278,6 +278,12 @@ program:
     start_time: "09:15"
     end_time: "10:00"
     background_color: "#AED6F1"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "09:15"
+    end_time: "10:30"
+    background_color: "#ffccff"    
   - title: "camilla-martins"
     type: talk
     date: 2018-11-10
@@ -289,11 +295,23 @@ program:
     start_time: "10:30"
     end_time: "10:45"
     background_color: "#FDF2E9"
+  - title: "Lanche Infantil"
+    type: custom
+    date: 2018-11-10
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#d1d1e0"
   - title: "alisson-menezes"
     type: talk
     date: 2018-11-10
     start_time: "10:45"
     end_time: "11:15"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "11:00"
+    end_time: "12:15"
+    background_color: "#ffccff"      
   - title: "tamara-rosini"
     type: talk
     date: 2018-11-10
@@ -310,6 +328,12 @@ program:
     start_time: "12:15"
     end_time: "13:15"
     background_color: "#EDBB99"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "13:15"
+    end_time: "15:00"
+    background_color: "#ffccff"      
   - title: "Sponsor Time"
     type: sponsor
     date: 2018-11-10
@@ -329,7 +353,13 @@ program:
     type: open-space
     date: 2018-11-10
     start_time: "14:10"
-    end_time: "15:00"    
+    end_time: "15:00"  
+  - title: "Lanche Infantil"
+    type: custom
+    date: 2018-11-10
+    start_time: "15:00"
+    end_time: "15:30"
+    background_color: "#d1d1e0"      
   - title: "carla-crude"
     type: talk
     date: 2018-11-10
@@ -341,6 +371,12 @@ program:
     start_time: "15:30"
     end_time: "15:45"
     background_color: "#FDF2E9"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "15:30"
+    end_time: "16:45"
+    background_color: "#ffccff"       
   - title: "rodrigo-ramalho"
     type: talk
     date: 2018-11-10
