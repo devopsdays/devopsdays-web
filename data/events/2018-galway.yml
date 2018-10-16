@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -195,3 +195,215 @@ sponsor_levels:
     max: 6
   - id: community
     label: Community
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-19
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening of the Conference"
+    type: custom
+    date: 2018-11-19
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "joe-nuspl"
+    type: talk
+    date: 2018-11-19
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "jennifer-petoff"
+    type: talk
+    date: 2018-11-19
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-19
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "adrian-ryan"
+    type: talk
+    date: 2018-11-19
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2018-11-19
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "philip-griffiths"
+    type: talk
+    date: 2018-11-19
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-19
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "kenzie-woodbridge"
+    type: talk
+    date: 2018-11-19
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-19
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2018-11-19
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-19
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2018-11-19
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2018-11-19
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2018-11-19
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Close Day & Announcements"
+    type: custom
+    date: 2018-11-19
+    start_time: "17:45"
+    end_time: "18:00"
+
+  - title: "Evening Event - Networking ChillOps"
+    type: custom
+    date: 2018-11-19
+    start_time: "20:00"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2018-11-20
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "brian-scanlan"
+    type: talk
+    date: 2018-11-20
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "debbie-levitt"
+    type: talk
+    date: 2018-11-20
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-20
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "adopting-sre-in-enterprise-organizations"
+    type: talk
+    date: 2018-11-20
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2018-11-20
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "rich-archbold"
+    type: talk
+    date: 2018-11-20
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-20
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "jason-gwartz"
+    type: talk
+    date: 2018-11-20
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-20
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2018-11-20
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-20
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2018-11-20
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2018-11-20
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2018-11-20
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2018-11-20
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+  - title: "jakub-jarosz"
+    date: 2018-11-19
+  - title: "derek-kelly"
+    date: 2018-11-19
+  - title: "frank-farrell"
+    date: 2018-11-19
+  - title: "TBD"
+    date: 2018-11-19
+  - title: "diarmuid-ohara"
+    date: 2018-11-20
+  - title: "kealan-murphy"
+    date: 2018-11-20
+  - title: "paul-oconnor"
+    date: 2018-11-20
+  - title: "TBD"
+    date: 2018-11-20
