@@ -2,7 +2,9 @@ name: "2018-boston" # The name of the event. Four digit year with the city name 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays Boston 2018 was incredible. We hope you had a great time. We are getting started with planning for next year and look forward to seeing you again in Boston or at any of the other amazing DevOpsDays!" # Edit this to suit your preferences
+description: "Devopsdays Boston 2018 was incredible. We hope you had a great time. We are getting started with planning for next year and look forward to seeing you again in Boston or at any of the other amazing DevOpsDays!
+<br><br>
+<a href='https://drive.google.com/drive/folders/137zXLBI-CfQcnX7APulMZBRCqwllcrNu' target='_blank'><h3>Check out the photos from the event here</h3></a>" # Edit this to suit your preferences
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
 startdate: 2018-09-24T00:00:00-04:00
