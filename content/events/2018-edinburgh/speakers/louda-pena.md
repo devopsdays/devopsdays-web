@@ -3,7 +3,7 @@ Title = "Louda Peña"
 Twitter = "@loudalouda"
 image = "louda-pena.jpg"
 type = "speaker"
-linktitle = "louda-pea"
+linktitle = "louda-pena"
 
 +++
 
