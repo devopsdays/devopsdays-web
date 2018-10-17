@@ -83,17 +83,21 @@ proposal_email: "proposals-wellington-2018@devopsdays.org" # Put your proposal e
 sponsors:
   - id: 2016-bnz
     level: platinum
+  - id: oracle
+    level: platinum
   - id: assurity
     level: gold
   - id: datacom
     level: gold
   - id: integrationqa
     level: gold
-  - id: 2016-pushpay
+  - id: pushpay
     level: gold
   - id: oss
     level: gold
   - id: SECTION6
+    level: gold
+  - id: xero
     level: gold
   - id: anz
     level: silver
