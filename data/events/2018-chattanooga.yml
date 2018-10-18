@@ -93,6 +93,8 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: puppet
+    level: gold
   - id: nutanix
     level: bronze
   - id: teksystems
@@ -175,16 +177,16 @@ program:
     type: custom
     date: 2018-11-13T00:00:00-05:00
     start_time: "11:55"
-    end_time: "12:15"
+    end_time: "12:10"
   - title: "Lunch"
     type: custom
     date: 2018-11-13T00:00:00-05:00
-    start_time: "12:15"
-    end_time: "13:30"
+    start_time: "12:10"
+    end_time: "13:20"
   - title: "Lightning Talks"
     type: ignite
     date: 2018-11-13T00:00:00-05:00
-    start_time: "13:30"
+    start_time: "13:20"
     end_time: "14:00"
   - title: "m-scott-ford"
     type: talk
