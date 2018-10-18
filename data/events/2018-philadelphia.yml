@@ -93,8 +93,6 @@ sponsors:
     level: gold
   - id: columntech
     level: gold
-  - id: github
-    level: gold
   - id: googlecloud
     level: gold
   - id: newrelic
@@ -103,16 +101,18 @@ sponsors:
     level: gold
   - id: linode
     level: gold
+  - id: sonatype
+    level: gold    
   - id: datadog
     level: silver
-  - id: sonatype
+  - id: splunk
     level: silver
   - id: cerner
     level: silver
   - id: ascensus
     level: bronze
   - id: mongodb
-    level: bronze  
+    level: bronze
   - id: arresteddevops
     level: community
   - id: perfbytes
