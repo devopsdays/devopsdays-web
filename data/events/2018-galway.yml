@@ -165,6 +165,8 @@ proposal_email: "proposals-galway-2018@devopsdays.org" # Put your proposal email
 sponsors:
   - id: cisco
     level: bronze
+  - id: itag-skillnet
+    level: bronze
   - id: aspect
     level: silver
   - id: avaya
@@ -172,6 +174,8 @@ sponsors:
   - id: smartbear
     level: silver
   - id: googlecloud
+    level: silver
+  - id: genesys
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
