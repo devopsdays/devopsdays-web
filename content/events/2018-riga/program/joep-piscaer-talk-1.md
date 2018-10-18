@@ -4,7 +4,7 @@ Talk_start_time = "15:45"
 Talk_end_time = "16:15"
 Title = "Reducing inertia with Public Cloud and Open Source software is the key to a succesful DevOps transition"
 Type = "talk"
-youtube = ""
+youtube = "SOQw4hATIks"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-joep-piscaer-reducing-inertia-with-public-cloud-and-open-source-software-is-the-key-to-a-succesful-devops-transition"
 Speakers = ["joep-piscaer"]
 +++

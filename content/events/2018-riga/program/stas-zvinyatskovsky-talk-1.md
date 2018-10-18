@@ -4,7 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Transformation: how big can you dream?"
 Type = "talk"
-youtube = ""
+youtube = "gbnBBtQYjE0"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-stas-zvinyatskovsky-transformation-how-big-can-you-dream"
 Speakers = ["stas-zvinyatskovsky"]
 +++

@@ -4,7 +4,7 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "Trunk based development, continuous deployment and why you should adopt them"
 Type = "talk"
-youtube = ""
+youtube = "aNgWjSAjjtg"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-neil-crawford-trunk-based-development-continuous-deployment-and-why-you-should-adopt-them"
 Speakers = ["neil-crawford"]
 +++

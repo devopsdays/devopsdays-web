@@ -4,7 +4,7 @@ Talk_start_time = "9:30"
 Talk_end_time = "10:00"
 Title = "DevOps in the enterprise: how \"swarming\" can fix the problem of becoming a 3rd-line support team"
 Type = "talk"
-youtube = ""
+youtube = "CQyuG-Algzg"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-jon-hall-devops-in-the-enterprise-how-swarming-can-fix-the-problem-of-becoming-a-3rdline-support-team"
 Speakers = ["jon-hall"]
 +++
