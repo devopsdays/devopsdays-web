@@ -4,7 +4,7 @@ Talk_start_time = "13:30"
 Talk_end_time = "14:00"
 Title = "Keep Yourself Alive -Stopping the effects of Burnout"
 Type = "talk"
-youtube = ""
+youtube = "1sKMOwoweZQ"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-heather-wild-keep-yourself-alive-stopping-the-effects-of-burnout"
 Speakers = ["heather-wilde"]
 +++

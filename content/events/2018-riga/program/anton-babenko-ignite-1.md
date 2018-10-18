@@ -4,7 +4,7 @@ Talk_start_time = "14:05"
 Talk_end_time = "14:30"
 Title = "What you see is what you get… for AWS infrastructure"
 Type = "talk"
-youtube = ""
+youtube = "-PDXtQyx3Y8"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-anton-babenko-what-you-see-is-what-you-get-for-aws-infrastructure"
 Speakers = ["anton-babenko"]
 +++

@@ -4,7 +4,7 @@ Talk_start_time = "15:10"
 Talk_end_time = "15:40"
 Title = "Kubernetes as data platform"
 Type = "talk"
-youtube = ""
+youtube = "jXMZOR0nkJQ"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-eric-skoglund-lars-albertsson-kubernetes-as-data-platform"
 Speakers = ["eric-skoglund", "lars-albertsson"]
 +++

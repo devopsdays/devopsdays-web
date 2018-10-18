@@ -4,7 +4,7 @@ Talk_start_time = "10:05"
 Talk_end_time = "10:35"
 Title = "Database schema migrations with zero downtime"
 Type = "talk"
-youtube = ""
+youtube = "ka-PLyjV3AI"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-michiel-rook-database-schema-migrations-with-zero-downtime"
 Speakers = ["michiel-rook"]
 +++
