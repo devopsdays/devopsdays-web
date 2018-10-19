@@ -102,7 +102,9 @@ sponsors:
   - id: linode
     level: gold
   - id: sonatype
-    level: gold    
+    level: gold
+  - id: signalfx
+    level: gold
   - id: datadog
     level: silver
   - id: splunk
