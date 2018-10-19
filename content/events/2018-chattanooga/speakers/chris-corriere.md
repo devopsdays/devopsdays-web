@@ -1,6 +1,7 @@
 +++
 Title = "Chris Corriere"
 Twitter = "cacorriere"
+image = "chris-corriere.jpg"
 type = "speaker"
 linktitle = "chris-corriere"
 
