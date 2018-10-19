@@ -177,6 +177,8 @@ sponsors:
     level: silver
   - id: genesys
     level: silver
+  - id: hpe
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -184,10 +186,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
+sponsor_levels:  
   - id: gold
     label: Gold
     max: 2
