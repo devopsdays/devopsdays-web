@@ -1,6 +1,6 @@
 +++
 Description = "Schedule for devopsdays phoenix 2018"
-title = "Schedule"
+title = "DevOpsDaysPhx 2018 Schedule"
 type = "event"
 +++
 
@@ -77,7 +77,7 @@ Room locations for talks will be added soon.
         <time>10:45-11:15</time>
       </div>
       <div class = "col-md-3 box">
-      <strong>{{< event_link page="program/carlos-nunez" text="Building Kubernetes From Scratch, or How I Lost All Of My Hair" >}}</strong><br />{{< event_link page="speakers/carlos-nunez" text="Carlos Nunez" >}}<br /><br />
+      <strong>{{< event_link page="program/matt-chandler" text="Striking a balance: Weighing engineering and business concerns in software projects" >}}</strong><br />{{< event_link page="speakers/matt-chandler" text="Matt Chandler" >}}<br /><br />
         <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: TBD<br />Track: Anecdote
       </div>
       <div class = "col-md-3 box">
