@@ -40,19 +40,17 @@ Description = "devopsdays Phoenix 2018"
 
 <ul>
 <li>Keynotes: Kolton Andrus and Christian Posta</li>
-<li>Automation & Delivery: Wes Novack, Nick Willever</li>
-<li>Kubernetes, Security & Databases: Carols Nunez, Rob Richardson, Chris Van Tuin</li>
+<li>Automation & Delivery: Wes Novack, Nick Willever, and Brian Downs</li>
+<li>Kubernetes, Security & Databases: Rob Richardson, Chris Van Tuin</li>
 <li>Monitoring & Modeling: Jasmine Hegman, Mark Gunnels</li>
-<li>Culture: Andy Lowe, Cat Swetel, Stephen Kuenzli, Matt Williams</li>
+<li>Culture: Andy Lowe, Matt Chandler, Thad West, Cat Swetel, Stephen Kuenzli, Matt Williams</li>
 </ul>
 
 
-    <!-- This year’s list topics included: Security, Containers, BizOps, Scaling, and many other areas of interest. With a mix of in-depth talks and laser focused Ignite talks, you are sure to walk away having learned something new.--> </p>
+    <!-- <p>{{< event_link page="speakers" text="View details about speakers!" >}}<br /></p> -->
 
-    <p>{{< event_link page="speakers" text="View details about speakers!" >}}<br /></p>
-<!--
     <p>{{< event_link page="schedule" text="View the scheduled talks!" >}}<br /></p>
-    -->
+
     <p><strong>Sharing</strong></p>
 
     <p>One of the great parts of DevOpsDays is learning from other attendees.  There will be plenty of time to share success and failure stories with each other, get feedback on your next crazy idea, ask for help solving a real world problem you are facing when you go back to work on Wednesday.</p>
