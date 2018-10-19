@@ -180,7 +180,7 @@ Room locations for talks will be added soon.
         <strong>{{< event_link page="program/thad-west" text="Culture and Collaboration in DevOps" >}}</strong><br />{{< event_link page="speakers/thad-west" text="Thad West" >}}<br />Room: TBD<br />Track: Getting Started
       </div>
       <div class = "col-md-3 box">
-        TBD<br />Room: TBD<br />Track: Advanced
+      <strong>{{< event_link page="program/brian-downs" text="Leveraging Go to Build a FaaS Platform" >}}</strong><br />{{< event_link page="speakers/brian-downs" text="Brian Downs" >}}<br />Room: TBD<br />Track: Advanced
       </div>
     </div> <!-- end timeslot div -->
          <!-- this div is repeated for each timeslot -->
