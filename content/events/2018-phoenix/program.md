@@ -53,7 +53,7 @@ Room locations for talks will be added soon.
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/cat-swetel" text="5 Tips for Better Technical Meetings" >}}</strong><br />{{< event_link page="speakers/cat-swetel" text="Cat Swetel" >}}<br /><br />
         <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong>
-        <br />Room: TBD<br />Track: Anecdote
+        <br />Room: Amphitheater<br />Track: Anecdote
       </div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/rob-richardson-k8s" text="Kubernetes Test Drive" >}}</strong><br />{{< event_link page="speakers/rob-richardson" text="Rob Richardson" >}}<br />Room: TBD<br />Track: Getting Started
@@ -78,7 +78,7 @@ Room locations for talks will be added soon.
       </div>
       <div class = "col-md-3 box">
       <strong>{{< event_link page="program/matt-chandler" text="Striking a balance: Weighing engineering and business concerns in software projects" >}}</strong><br />{{< event_link page="speakers/matt-chandler" text="Matt Chandler" >}}<br /><br />
-        <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: TBD<br />Track: Anecdote
+        <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: Amphitheater<br />Track: Anecdote
       </div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/wes-novack" text="Automate AWS with the CLI and Shell Scripting" >}}</strong><br />{{< event_link page="speakers/wes-novack" text="Wes Novack" >}}<br />Room: TBD<br />Track: Getting Started
@@ -102,7 +102,7 @@ Room locations for talks will be added soon.
         <time>11:30-12:00</time>
       </div>
       <div class = "col-md-3 box">
-        <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: TBD<br />Track: Anecdote
+        <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: Amphitheater<br />Track: Anecdote
       </div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/mark-gunnels" text="DevOps Should Marry Graph Databases" >}}</strong><br />{{< event_link page="speakers/mark-gunnels" text="Mark Gunnels" >}}<br />Room: TBD<br />Track: Getting Started
@@ -125,8 +125,8 @@ Room locations for talks will be added soon.
       <div class = "col-md-3">
         <time>13:00-13:30</time>
       </div>
-      <div class = "col-md-3 box" style="color: #0082AB">
-        <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: TBD<br />Track: Anecdote
+      <div class = "col-md-3 box">
+        <strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: Amphitheater<br />Track: Anecdote
       </div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/rob-richardson" text="Database DevOps with Containers" >}}</strong><br />{{< event_link page="speakers/rob-richardson" text="Rob Richardson" >}}<br />Room: TBD<br />Track: Getting Started
@@ -150,7 +150,7 @@ Room locations for talks will be added soon.
         <time>13:45-14:15</time>
       </div>
       <div class = "col-md-3 box">
-				<strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: TBD<br />Track: Anecdote
+				<strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: Amphitheater<br />Track: Anecdote
 			</div>
       <div class = "col-md-3 box">
         <strong>{{< event_link page="program/stephen-kuenzli" text="Intro to Designing Systems and Processes" >}}</strong><br />{{< event_link page="speakers/stephen-kuenzli" text="Stephen Kuenzli" >}}<br />Room: TBD<br />Track: Getting Started
@@ -174,7 +174,7 @@ Room locations for talks will be added soon.
         <time>14:30-15:00</time>
       </div>
       <div class = "col-md-3 box">
-				<strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: TBD<br />Track: Anecdote
+				<strong>{{< event_link page="program/fail-stories" text="Case Studies / Fail Stories" >}}</strong><br />Room: Amphitheater<br />Track: Anecdote
 			</div>
         <div class = "col-md-3 box">
         <strong>{{< event_link page="program/thad-west" text="Culture and Collaboration in DevOps" >}}</strong><br />{{< event_link page="speakers/thad-west" text="Thad West" >}}<br />Room: TBD<br />Track: Getting Started
