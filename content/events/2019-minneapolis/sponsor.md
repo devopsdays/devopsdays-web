@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Minneapolis 2019"
 +++
 
-We greatly value sponsors for this community event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2019/minneapolis/devopsdays-minneapolis-2019-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this community event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2019/minneapolis/devopsdays-minneapolis-2019-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScKW7QgmFrb7_1q0QbUxqrcy5AbBFL9AmlkmRlfEfpaz60eFA/viewform">sponsorship form</a> or drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships are available:
 
@@ -17,18 +17,18 @@ Additional à la carte sponsorships are available:
 </ul>
 
 <ul>
-<li>Thursday all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
-<li>Thursday breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
-<li>Thursday lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
-<li>Thursday afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
-<li>Thursday evening happy hour ($4000) - 2 slots available - signage at the evening happy hour
+<li>Day 1 all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
+<li>Day 1 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
+<li>Day 1 lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
+<li>Day 1 afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
+<li>Day 1 evening happy hour ($4000) - 2 slots available - signage at the evening happy hour
 </ul>
 
 <ul>
-<li>Friday all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
-<li>Friday breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
-<li>Friday lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
-<li>Friday afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
+<li>Day 2 all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
+<li>Day 2 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
+<li>Day 2 lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
+<li>Day 2 afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
 </ul>
 
 These may be purchased in addition to (or in lieu of) the platinum, gold, and silver sponsorships in the prospectus. An à la carte sponsorship by itself does not come with a table; you must have a platinum, gold, or silver sponsorship to be assigned a table you can staff.
