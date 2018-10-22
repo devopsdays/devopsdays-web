@@ -70,7 +70,9 @@ team_members: # Name is the only required field for team members.
   - name: "Sarah Gruneisen"
     twitter: "SGruneisen"
   - name: "Jonah Meijers"
+    twitter: "stampherr"
   - name: "Sheela Nistala"
+    twitter: "sheelanistala"
 
 organizer_email: "organizers-amsterdam-2019@devopsdays.org" # Put your organizer email address here
 # proposal_email: "proposals-amsterdam-2019@devopsdays.org" # Put your proposal email address here
