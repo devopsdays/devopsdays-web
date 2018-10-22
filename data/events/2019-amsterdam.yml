@@ -70,7 +70,11 @@ team_members: # Name is the only required field for team members.
   - name: "Sarah Gruneisen"
     twitter: "SGruneisen"
   - name: "Jonah Meijers"
+    twitter: "stampherr"
   - name: "Sheela Nistala"
+    twitter: "sheelanistala"
+  - name: "Sean Bovaird"
+    twitter: "srbovaird"
 
 organizer_email: "organizers-amsterdam-2019@devopsdays.org" # Put your organizer email address here
 # proposal_email: "proposals-amsterdam-2019@devopsdays.org" # Put your proposal email address here
@@ -87,11 +91,17 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: coffee
-    label: "Coffee"
+    label: Coffee
     max: "1"
   - id: beer
     label: Beer
     max: "1"
+  - id: games
+    label: Games
+    max: "1"
+  - id: foodtrucks
+    label: "Food Trucks"
+    max: "4"
   - id: gold
     label: Gold
     max: "8"
@@ -102,7 +112,7 @@ sponsor_levels:
     label: Silver
     max: "8"
   - id: lanyard
-    label: "Lanyard"
+    label: Lanyard
     max: "1"
   - id: bronze
     label: Bronze

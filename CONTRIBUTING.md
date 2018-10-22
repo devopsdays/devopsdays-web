@@ -73,6 +73,7 @@ Make your changes, test them locally (see above), then push that branch up to `o
 1. Code changes that affect the overall site will be merged only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes should be made there, and when released, will be used in this repo.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-theme/issues) to track work, so feel free to create new issues if you like (or read/comment on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-theme/issues) so that it can be discussed by the team, prior to submitting a pull request.
+1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
 
 ### Only make changes to event content files
 "Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.

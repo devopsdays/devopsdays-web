@@ -91,11 +91,15 @@ sponsors:
   - id: sudocast
     level: community
   - id: softplan
-    level: gold
+    level: platinum
   - id: bry
     level: silver
-  - id: geekhunter
+  - id: geekhunterbr
     level: silver
+  - id: adaptnow
+    level: silver
+  - id: totalvoice
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -104,12 +108,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 2
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 3
   - id: bronze
     label: Bronze
   - id: community

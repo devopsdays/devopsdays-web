@@ -96,6 +96,8 @@ sponsors:
     level: partner
   - id: finn
     level: partner
+  - id: ibm
+    level: partner
   - id: intility
     level: partner
   - id: praqma
@@ -207,8 +209,8 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-10-29
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "23:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-10-30
@@ -249,7 +251,7 @@ program:
     date: 2018-10-30
     start_time: "11:10"
     end_time: "11:20"
-  - title: ""
+  - title: "viktorija-almazova"
     type: talk
     date: 2018-10-30
     start_time: "11:20"
@@ -303,3 +305,8 @@ ignites:
     date: 2018-10-30
   - title: "sindre-lindstad"
     date: 2018-10-29
+  - title: "tannaz-n-roshandel"
+    date: 2018-10-30
+  - title: christer-vaskinn
+    date: 2018-10-30
+

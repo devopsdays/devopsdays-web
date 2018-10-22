@@ -93,8 +93,6 @@ sponsors:
     level: gold
   - id: columntech
     level: gold
-  - id: github
-    level: gold
   - id: googlecloud
     level: gold
   - id: newrelic
@@ -103,16 +101,20 @@ sponsors:
     level: gold
   - id: linode
     level: gold
+  - id: sonatype
+    level: gold
+  - id: signalfx
+    level: gold
   - id: datadog
     level: silver
-  - id: sonatype
+  - id: splunk
     level: silver
   - id: cerner
     level: silver
   - id: ascensus
     level: bronze
   - id: mongodb
-    level: bronze  
+    level: bronze
   - id: arresteddevops
     level: community
   - id: perfbytes
@@ -320,8 +322,6 @@ ignites:
   - title: "aaron-aldrich"
     date: 2018-10-24
   - title: "matt-westgate"
-    date: 2018-10-24
-  - title: "jordan-albright"
     date: 2018-10-24
   - title: "jay-gordon"
     date: 2018-10-24

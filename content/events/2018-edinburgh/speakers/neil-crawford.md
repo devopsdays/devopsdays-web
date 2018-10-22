@@ -1,8 +1,8 @@
 +++
 Title = "Neil Crawford"
 Twitter = ""
-image = ""
 type = "speaker"
+image = "neil-crawford.jpg"
 linktitle = "neil-crawford"
 
 +++

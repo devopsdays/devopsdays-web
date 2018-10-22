@@ -6,7 +6,7 @@ Description = "Location for Devopsdays Florianópolis 2018"
 
 ## Auditório da Softplan
 
-![alt text](http://2.bp.blogspot.com/-iheMfVGjYGM/UPaio7dNJ-I/AAAAAAAAAfA/7nz-2ojpGsI/s1600/CamExterna+-cam+01.jpg "Softplan")
+![alt text](https://2.bp.blogspot.com/-iheMfVGjYGM/UPaio7dNJ-I/AAAAAAAAAfA/7nz-2ojpGsI/s1600/CamExterna+-cam+01.jpg "Softplan")
 
 *Sapiens Parque - Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000*
 

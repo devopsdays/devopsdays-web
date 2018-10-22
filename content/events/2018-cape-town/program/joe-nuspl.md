@@ -6,6 +6,7 @@ Title = "DevOps: Reflections on a Lifetime of Learning"
 Type = "talk"
 Speakers = ["joe-nuspl"]
 Speakerdeck = "https://speakerdeck.com/nvwls/devops-reflections-on-a-lifetime-of-learning"
+Youtube = "https://www.youtube.com/watch?v=h1jv6Gf-OzI"
 +++
 
 History shows us that we may not understand the significance of
