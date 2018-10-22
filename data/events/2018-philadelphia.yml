@@ -226,7 +226,7 @@ program:
   - title: "Evening event"
     type: custom
     date: 2018-10-23
-    start_time: "19:00"
+    start_time: "17:00"
     end_time: "late"
 
   - title: "Registration, Breakfast, Sponsors"
