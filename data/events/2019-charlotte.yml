@@ -98,8 +98,8 @@ sponsors:
 #     level: silver
 #   - id: roundtowertechnologies
 #     level: silver
-#   - id: influxdata-before-201802
-#     level: silver
+  - id: influxdata
+    level: gold
 #   - id: instana
 #     level: silver
 #   - id: newrelic
