@@ -54,7 +54,7 @@ Description = "DevOpsDays Wellington 2018"
       <strong>Sponsors</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+      All our sponsorship slots have been filled
     </div>
   </div>
   <div class="row">
