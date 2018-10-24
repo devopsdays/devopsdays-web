@@ -179,6 +179,8 @@ sponsors:
     level: silver
   - id: hpe
     level: gold
+  - id: chef
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
