@@ -258,6 +258,13 @@ program:
     date: 2018-11-01
     start_time: "16:50"
     end_time: "17:00"
+  - title: "Evening Reception and Networking"
+    type: custom
+    date: 2018-11-01
+    start_time: "17:00"
+    end_time: "20:00"
+
+
 # day 2
   - title: "Registration and coffee"
     type: custom
@@ -372,8 +379,6 @@ program:
 
 
 ignites:
-  - title: "bob-walker"
-    date: 2018-11-01
   - title: "gavin-campbell"
     date: 2018-11-01
   - title: "geoff-ballinger"
