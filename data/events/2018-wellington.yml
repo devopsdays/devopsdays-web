@@ -95,9 +95,13 @@ sponsors:
     level: gold
   - id: oss
     level: gold
+  - id: rancher
+    level: gold
   - id: redhatnz
     level: gold
   - id: SECTION6
+    level: gold
+  - id: sonatype
     level: gold
   - id: xero
     level: gold
