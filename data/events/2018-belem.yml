@@ -114,6 +114,9 @@ sponsors:
   - id: pluralsight
     level: platinum
 
+  - id: vibe
+    level: platinum
+
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -145,22 +148,22 @@ program:
     date: 2018-11-24
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Testes de Códigos de Infraestrutura (Gomex)"
+  - title: "Testes de Códigos de Infraestrutura (Gomex / Crossover)"
     type: custom
     date: 2018-11-24
     start_time: "09:15"
     end_time: "10:15"
-  - title: "Three Ways: porque eles ajudam tanto na implementação do DevOps no trabalho (Camilla Martins)"
+  - title: "Three Ways: porque eles ajudam tanto na implementação do DevOps no trabalho (Camilla Martins / ThoughtWorks)"
     type: custom
     date: 2018-11-24
     start_time: "10:15"
     end_time: "10:50"
-  - title: "Começando com DevOps em projetos pessoais (Iago Cavalcante)"
+  - title: "Começando com DevOps em projetos pessoais (Iago Cavalcante / SEFA-PA)"
     type: custom
     date: 2018-11-24
     start_time: "10:50"
     end_time: "11:25"
-  - title: "Escala já! Um relato sobre técnicas para alta escalabilidade de ambientes em cloud (Lucas Mousinho)"
+  - title: "Escala já! Um relato sobre técnicas para alta escalabilidade de ambientes em cloud (Lucas Mousinho / Moobi)"
     type: custom
     date: 2018-11-24
     start_time: "11:25"
@@ -170,22 +173,22 @@ program:
     date: 2018-11-24
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Construindo Dashboards para IoT (Carlos Souza)"
+  - title: "Construindo Dashboards para IoT (Carlos Souza / Pluralsight)"
     type: custom
     date: 2018-11-24
     start_time: "13:00"
     end_time: "14:00"
-  - title: "Pensando QA dos Conceitos a Prática, o QA fora da Caixa. QADevOps Mito ou Realidade? (Alessandra Martins)"
+  - title: "Pensando QA dos Conceitos a Prática, o QA fora da Caixa. QADevOps Mito ou Realidade? (Alessandra Martins / GS1)"
     type: custom
     date: 2018-11-24
     start_time: "14:00"
     end_time: "14:35"
-  - title: "a definir"
+  - title: "Otimizando Docker images com Nix (Thomaz Leite / Actor)"
     type: custom
     date: 2018-11-24
     start_time: "14:35"
     end_time: "15:10"
-  - title: "Do Zero para Nuvem com Arquitetura de Microserviços (Leandro Pantoja)"
+  - title: "Do Zero para Nuvem com Arquitetura de Microserviços (Leandro Pantoja / Grupo Mult)"
     type: custom
     date: 2018-11-24
     start_time: "15:10"
