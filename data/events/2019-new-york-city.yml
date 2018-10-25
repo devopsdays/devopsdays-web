@@ -98,7 +98,7 @@ sponsor_levels:
     max: 8
   - id: silver
     label: Silver
-    max: 7 # This is the same as omitting the max limit.
+    max: 7
   - id: bronze
     label: Bronze
     max: 5
