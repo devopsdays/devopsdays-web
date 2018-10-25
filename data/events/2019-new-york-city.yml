@@ -95,11 +95,12 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 8
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 7
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
