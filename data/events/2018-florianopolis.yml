@@ -31,9 +31,9 @@ location: "Auditório da Softplan"
 location_address: "Sapiens Parque - Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: Chamadas (CFP)
-    icon: "microphone"
-    url: https://www.papercall.io/devopsdays-fln-2018
+  #- name: Chamadas (CFP)
+    #icon: "microphone"
+    #url: https://www.papercall.io/devopsdays-fln-2018
 
   - name: local
     icon: "map-o"
