@@ -103,6 +103,8 @@ sponsors:
     level: silver
   - id: appsflyer-2018
     level: silver
+  - id: appsflyer-2018
+    level: day2happyhour
   - id: facebook
     level: silver
   - id: elastic
@@ -119,6 +121,8 @@ sponsors:
     level: community
   - id: logzio
     level: silver
+  - id: taboola
+    level: giveaway
   - id: matrix-atlassian
     level: silver
 
@@ -167,6 +171,6 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
-  # - id: giveaway
-  #   label: GiveAway Bag
-  #   max: 1
+  - id: giveaway
+    label: GiveAway Bag
+    max: 1
