@@ -14,7 +14,7 @@ cfp_date_start:  2018-07-01
 cfp_date_end:  2018-10-01
 cfp_date_announce:  2018-10-15
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: https://www.papercall.io/devopsdaystlv2018
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
