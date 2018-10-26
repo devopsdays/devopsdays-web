@@ -71,20 +71,20 @@ team_members: # Name is the only required field for team members.
     github: "perylemke"
     linkedin: "https://www.linkedin.com/in/perylemke"
     website: "http://www.sudocast.com.br"
-    image: "pery-lemke.png"
+    image: "pery-lemke.jpg"
 
   - name: "Sérgio Mendonça"
     email: "sergio.mendonca@gmail.com"
     employer: "Mettzer"
     linkedin: "https://www.linkedin.com/in/sergio-mendonca/"
-    image: "sergio-mendonca.png"
+    image: "sergio-mendonca.jpg"
 
   - name: "Jhonatan Morais"
     email: "jhonatancmorais@gmail.com"
     twitter: "jhonatancmorais"
     employer: "BRy Tecnologia"
     linkedin: "https://www.linkedin.com/in/jhonatancmorais/"
-    image: "jhonatan-morais.png"
+    image: "jhonatan-morais.jpg"
 
   - name: "Luciano Faustino"
     email: "lucianoborguetti@gmail.com"
@@ -92,20 +92,20 @@ team_members: # Name is the only required field for team members.
     github: "lborguetti"
     twitter: "lborguetti"
     linkedin: "https://www.linkedin.com/in/luciano-antonio-borguetti-faustino-6444b816/"
-    image: "luciano-faustino.png"
+    image: "luciano-faustino.jpg"
 
   - name: "Christopher Giese"
     email: "christopher.giese@gmail.com"
     employer: "Softplan"
     linkedin: "https://www.linkedin.com/in/christopher-giese-kblo-aba41917/"
-    image: "christopher-giese.png"
+    image: "christopher-giese.jpg"
 
   - name: "Evaldo Felipe"
     email: "contato@evaldofelipe.com"
     twitter: "evaldofelipe"
     employer: "Neoway"
     linkedin: "https://www.linkedin.com/in/evaldofelipe/"
-    image: "evaldo-felipe.png"
+    image: "evaldo-felipe.jpg"
 
 organizer_email: "organizers-floripa-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-floripa-2018@devopsdays.org" # Put your proposal email address here
