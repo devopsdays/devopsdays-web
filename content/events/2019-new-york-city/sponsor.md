@@ -10,7 +10,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 
 <hr/>
 
-<p>devopsdays NYC is a self-organizing conference for practitioners that depend on sponsorships. We do not sell presentation slots, or distribute attendee contact lists to sponsors. Gold sponsors may have the opportunity to offer a short message during the program, between talks. All sponsors will get recognition on the website and social media before, during, and after the event.</p>
+<p>devopsdays NYC is a self-organizing conference for practitioners that depends on sponsorships. We do not sell presentation slots, or distribute attendee contact lists to sponsors. Gold sponsors may have the opportunity to offer a short message during the program, between talks. All sponsors will get recognition on the website and social media before, during, and after the event.</p>
 
 <p>Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
 
