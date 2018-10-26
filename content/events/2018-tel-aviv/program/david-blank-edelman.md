@@ -4,5 +4,5 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = " "
 Type = "talk"
-Speakers = ["david-edelman"]
+Speakers = ["david-blank-edelman"]
 +++
