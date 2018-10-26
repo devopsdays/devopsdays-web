@@ -14,7 +14,7 @@ We greatly value sponsors for this open event. If you are interested in sponsori
 
 <p>Gold sponsors get a full table and Silver sponsors share a table with another sponsor where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces. Do note that this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.</p>
 
-<p>The best thing to do is send engineers to interact with the experts at DevOpsDays NYC on their own terms.</p>
+<p>The best thing to do is send engineers to interact with the experts at devopsdays NYC on their own terms.</p>
 
 <hr />
 
@@ -109,4 +109,20 @@ We greatly value sponsors for this open event. If you are interested in sponsori
   </div>
 
 </div>
+<li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
+<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
+<li><b>Live Captioning Sponsorship:</b>  Everyone at the event will see  your name every time they look up to see the CC screen at the event. We'll also mention you name
+in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is $5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
+<ul>
+<li>You will receive: Two (2) Tickets/li>
+<li>Logo on event website</li>
+<li>Logo on shared slide, rotation during breaks</li>
+<li>Logo on all email communication</li>
+<li>Logo on its own slide, rotating during breaks</li>
+<li>Shared table (split w/ 1 other sponsor);</li>
+<li>This tables will be located in the Radio City room. To ensure foot traffic, the room will also be used for the following: Distribution of DevOps Days t-shirts, all-day free beverage service (both days), and Open Spaces. </li>
+<li>Advertisement of Closed Captioning. The advertisement will be done either with a standup banner beside the closed captioning screen or built into the caption screen.</li>
+</ul>
+</li>
+</ul>
 <hr/>
