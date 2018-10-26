@@ -42,13 +42,13 @@ Sponsor morning pastries! Cover the cost of morning pastries, the first thing pe
 Sponsor Lunch! Cover lunch costs and you can brand it.
 
 <strike>Sponsor the Lanyards</strike> SOLD!
+
 <strike>Sponsor the T Shirts</strike> SOLD!
 
-Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.
+<strike>Sponsor Happy hour! You pay us nothing, but run Happy hour. You bring Beer and snacks and get a fun atmosphere at end of day. 
+                    Make sure the Beer flows like water and your brand will be the hero of the day!                </strike> SOLD!
 
-Sponsor Happy hour! You pay us nothing, but run Happy hour. You bring Beer and snacks and get a fun atmosphere at end of day. 
-                    Make sure the Beer flows like water and your brand will be the hero of the day!                
-* All edible and drinkable things must be purchased from venue supplier.
+Sponsor Coffee! Cover the Coffee costs and brand the coffee cart.
 
 Sponsor the WIFI! You get your name on the SSID.
 
