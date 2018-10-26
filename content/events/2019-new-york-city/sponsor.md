@@ -10,7 +10,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 
 <hr/>
 
-<p>devopsdays NYC is a self-organizing conference for practitioners that depends on sponsorships. We do not sell presentation slots, or distribute attendee contact lists to sponsors. Gold sponsors may have the opportunity to offer a short message during the program, between talks. All sponsors will get recognition on the website and social media before, during, and after the event.</p>
+<p>devopsdays NYC is a self-organizing conference for practitioners that depend on sponsorships. We do not sell presentation slots, or distribute attendee contact lists to sponsors. Gold sponsors may have the opportunity to offer a short message during the program, between talks. All sponsors will get recognition on the website and social media before, during, and after the event.</p>
 
 <p>Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
 
@@ -18,7 +18,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 
 <p>We recommend sponsors send their engineers to interact with the attendees at devopsdays NYC, on their own terms.</p>
 
-<hr />
+<hr/>
 
 <div style="width:100%;overflow:hidden">
   <div style="width:40%;float:left" align="center">
@@ -110,9 +110,8 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
     </table>
   </div>
 </div>
+<br/>
 <ul>
-<br>
-
 <li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
 
 <li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
