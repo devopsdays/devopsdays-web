@@ -6,15 +6,17 @@ Description = "Sponsor devopsdays NYC 2019"
 
 <br><br>
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
+We appreciate our sponsors for this Open Event! If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
 <hr/>
 
-<p>devopsdays NYC is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations, or distribute attendee contact lists. Gold sponsors have the opportunity to have short elevator pitches during the program. All sponsors will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
+<p>devopsdays NYC is a self-organizing conference for practitioners that depends on sponsorships. We do not sell presentation slots, or distribute attendee contact lists to sponsors. Gold sponsors may have the opportunity to offer a short message during the program, between talks. All sponsors will get recognition on the website and social media before, during, and after the event.</p>
 
-<p>Gold sponsors get a full table and Silver sponsors share a table with another sponsor where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces. Do note that this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.</p>
+<p>Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.</p>
 
-<p>The best thing to do is send engineers to interact with the experts at devopsdays NYC on their own terms.</p>
+<p>Gold sponsors get a full table and Silver sponsors share a table with another sponsor where they can interact with interested attendees during breaks. All attendees are welcome to propose any subject they want during the open spaces. This is a community-focused conference, so a traditional marketing tone will probably work against sponsors who want to engage with attendees.</p>
+
+<p>We recommend sponsors send their engineers to interact with the attendees at devopsdays NYC, on their own terms.</p>
 
 <hr />
 
@@ -107,8 +109,8 @@ We greatly value sponsors for this open event. If you are interested in sponsori
       </tr>
     </table>
   </div>
-
 </div>
+<ul>
 <li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
 
 <li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
