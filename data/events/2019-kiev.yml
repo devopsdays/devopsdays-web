@@ -87,6 +87,8 @@ proposal_email: "proposals-kiev-2019@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: provectus
     level: gold
+  - id: softserve
+    level: silver
   - id: percona
     level: bronze
   - id: ab-soft
