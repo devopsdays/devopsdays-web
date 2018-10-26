@@ -21,7 +21,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 <hr />
 
 <div style="width:100%;overflow:hidden">
-  <div style="width:50%;float:left" align="center">
+  <div style="width:40%;float:left" align="center">
     <table border=1 cellspacing=1>
       <tr>
         <th><i>Packages</i></th>
@@ -111,6 +111,8 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
   </div>
 </div>
 <ul>
+<br>
+
 <li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
 
 <li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
@@ -119,7 +121,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is $5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
 
 <ul>
-<li>You will receive: Two (2) Tickets/li>
+<li>You will receive: Two (2) Tickets</li>
 <li>Logo on event website</li>
 <li>Logo on shared slide, rotation during breaks</li>
 <li>Logo on all email communication</li>
