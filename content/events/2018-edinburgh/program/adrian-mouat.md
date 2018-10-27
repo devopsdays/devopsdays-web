@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["adrian-mouat"]
 +++
 
-Where I argue that Rust is a good language for building microservices, esp when running in containers on k8s etc
+The Rust language is quickly gaining traction in modern software development. In this talk I'll explain why I think Rust is particularly good for developing microservices, especially when they run in containers on platforms like Kubernetes.
