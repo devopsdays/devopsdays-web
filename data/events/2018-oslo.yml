@@ -155,26 +155,26 @@ program:
     type: custom
     date: 2018-10-29
     start_time: "10:25"
-    end_time: "10:40"
+    end_time: "10:50"
   - title: "t-alexander-lystad"
     type: talk
     date: 2018-10-29
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2018-10-29
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:20"
+    end_time: "11:30"
   - title: "daniela-soares-cruzes"
     type: talk
     date: 2018-10-29
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2018-10-29
-    start_time: "11:50"
+    start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
@@ -187,17 +187,17 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2018-10-29
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2018-10-29
     start_time: "15:00"
     end_time: "15:45"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2018-10-29
     start_time: "16:00"
     end_time: "16:45"
@@ -210,7 +210,18 @@ program:
     type: custom
     date: 2018-10-29
     start_time: "17:00"
+    end_time: "18:00"
+  - title: "Dinner"
+    type: custom
+    date: 2018-10-29
+    start_time: "18:00"
+    end_time: "20:00"
+  - title: "Evening event"
+    type: custom
+    date: 2018-10-29
+    start_time: "20:00"
     end_time: "23:00"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-10-30
@@ -240,26 +251,26 @@ program:
     type: custom
     date: 2018-10-30
     start_time: "10:25"
-    end_time: "10:40"
+    end_time: "10:50"
   - title: "debbie-levitt"
     type: talk
     date: 2018-10-30
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2018-10-30
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:20"
+    end_time: "11:30"
   - title: "viktorija-almazova"
     type: talk
     date: 2018-10-30
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2018-10-30
-    start_time: "11:50"
+    start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
@@ -272,12 +283,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2018-10-30
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2018-10-30
     start_time: "15:00"
     end_time: "15:45"
@@ -289,8 +300,13 @@ program:
   - title: "mike-long"
     type: talk
     date: 2018-10-30
-    start_time: "16:00"
-    end_time: "17:00"
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2018-10-30
+    start_time: "16:15"
+    end_time: "16:30"
 
 ignites:
   - title: "daniel-maher"

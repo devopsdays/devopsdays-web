@@ -105,6 +105,8 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
+  - id: techtowntraining
+    level: gold
   - id: datadog
     level: silver
   - id: splunk
@@ -223,11 +225,11 @@ program:
     date: 2018-10-23
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Evening event - food, drink, and socializing onsite"
     type: custom
     date: 2018-10-23
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:00"
+    end_time: "19:00"
 
   - title: "Registration, Breakfast, Sponsors"
     type: custom

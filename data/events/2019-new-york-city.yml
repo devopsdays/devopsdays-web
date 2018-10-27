@@ -1,7 +1,7 @@
 name: "2019-new-york-city" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "New York City" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdadaysNYC" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdaysNYC" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to New York City!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "New York City"
@@ -95,11 +95,12 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 8
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 7
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community

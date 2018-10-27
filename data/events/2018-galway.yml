@@ -64,6 +64,11 @@ team_members: # Name is the only required field for team members.
     employer: "Cisco"
     twitter: "destr0ya"
     linkedin: "https://www.linkedin.com/in/emmameehan3"
+    bio: |
+      Emma is a Software Engineer for Cisco, where she works on Java microservices for cloud-based 
+      collaboration technologies. She has recently graduated from NUI Galway with an honours degree 
+      in Computer Science & Information Technology, and has a passion for combat sports, 
+      particularly Muay Thai.
   - name: "Jon-Paul Sullivan"
     image: "jonpaul-sullivan.jpg"
     employer: "Cisco"
@@ -123,10 +128,6 @@ team_members: # Name is the only required field for team members.
       and providing CI/CD platforms. Noel is also an organiser for the DevOps
       Galway Meet-up. He also enjoys DIY or gardening and is a trainer with his
       local Ladies Gaelic Football club.
-  - name: "Lynda O'Leary"
-    image: "lynda-oleary.jpg"
-    employer: "HPE"
-    linkedin: "https://www.linkedin.com/in/lyndaoleary/"
   - name: "Bryan Solan"
     image: "bryan-solan.jpg"
     employer: "Aspect"
@@ -178,6 +179,8 @@ sponsors:
   - id: genesys
     level: silver
   - id: hpe
+    level: gold
+  - id: chef
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -394,13 +397,13 @@ program:
     end_time: "18:00"
 
 ignites:
-  - title: "jakub-jarosz"
+  - title: "shane-galvin"
     date: 2018-11-19
   - title: "derek-kelly"
     date: 2018-11-19
   - title: "frank-farrell"
     date: 2018-11-19
-  - title: "TBD"
+  - title: "desy-kristianti"
     date: 2018-11-19
   - title: "diarmuid-ohara"
     date: 2018-11-20
@@ -408,5 +411,5 @@ ignites:
     date: 2018-11-20
   - title: "paul-oconnor"
     date: 2018-11-20
-  - title: "TBD"
+  - title: "sean-meehan"
     date: 2018-11-20

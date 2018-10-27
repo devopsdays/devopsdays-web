@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["kenzie-woodbridge"]
 +++
 
-">N
+>N
 
 You have found a secret room! You gain 26xp.
 
@@ -27,5 +27,4 @@ You are dead!
 
 Other people: sometimes difficult to work with, impossible to predict. How can you get the right people involved in your technical project, keep them engaged, and prevent delays? Why do some people thrive despite poor documentation and how can you encourage them to document everything anyway?
 
-In this talk, I’ll explore strategies drawn from “Player Type Theory”. For 20 years, this theory has been employed by game designers to encourage stable long-term communities in online multiplayer games. I have used these strategies successfully in my workplace and they can work for you too."
-
+In this talk, I’ll explore strategies drawn from “Player Type Theory”. For 20 years, this theory has been employed by game designers to encourage stable long-term communities in online multiplayer games. I have used these strategies successfully in my workplace and they can work for you too.

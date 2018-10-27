@@ -1,7 +1,7 @@
 +++
 Title = "Rich Archbold"
-Twitter = ""
-image = ""
+LinkedIn = "https://www.linkedin.com/in/richardarchbold/"
+image = "rich-archibold.jpg"
 type = "speaker"
 linktitle = "rich-archbold"
 

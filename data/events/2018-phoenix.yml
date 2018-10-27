@@ -90,6 +90,8 @@ sponsors:
     level: silver
   - id: the-larry-phx
     level: community
+  - id: tibco
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

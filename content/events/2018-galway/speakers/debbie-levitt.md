@@ -1,7 +1,7 @@
 +++
 Title = "Debbie Levitt"
-Twitter = ""
-image = ""
+Twitter = "@DevOpsICU"
+image = "debbie-levitt.png"
 type = "speaker"
 linktitle = "debbie-levitt"
 
