@@ -217,7 +217,7 @@ program:
     date: 2018-11-09
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Almoço / Lunch"
+  - title: "Almoço / Lunch - Livre"
     type: custom
     date: 2018-11-09
     start_time: "12:15"
@@ -330,7 +330,7 @@ program:
     date: 2018-11-10
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Almoço / Lunch"
+  - title: "Almoço / Lunch - Livre"
     type: custom
     date: 2018-11-10
     start_time: "12:15"
