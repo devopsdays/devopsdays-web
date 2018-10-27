@@ -346,6 +346,12 @@ program:
     date: 2018-11-06
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Closing Reception"
+    type: custom
+    date: 2018-11-06
+    start_time: "17:00"
+    end_time: "17:45"
+    comments: "Drinks and nibbles with live screening of the Melbourne Cup"
 ignites:
   - title: "everett-toews"
     date: 2018-11-05
