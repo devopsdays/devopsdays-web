@@ -106,6 +106,8 @@ sponsors:
     level: familyops
   - id: bitlu
     level: familyops
+  - id: numa
+    level: familyops
   - id: promove
     level: bronze    
   - id: 4linux
@@ -115,13 +117,19 @@ sponsors:
   - id: elastic
     level: gold 
   - id: redhat
-    level: gold    
+    level: gold     
+  - id: markway
+    level: gold     
   - id: appdynamics
+    level: gold     
+  - id: radix
     level: gold          
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
   - id: daitan-group
+    level: silver  
+  - id: sonatype
     level: silver  
   - id: alura
     level: learning    
@@ -177,7 +185,7 @@ program:
     date: 2018-11-09
     start_time: "9:00"
     end_time: "9:15"
-  - title: "lauren-langdell"
+  - title: "mateus-prado"
     type: talk
     date: 2018-11-09
     start_time: "9:15"
@@ -251,7 +259,7 @@ program:
     date: 2018-11-09
     start_time: "15:30"
     end_time: "16:00"
-  - title: "mateus-prado"
+  - title: "lauren-langdell"
     type: talk
     date: 2018-11-09
     start_time: "16:00"
@@ -375,7 +383,7 @@ program:
     type: ignite
     date: 2018-11-10
     start_time: "15:30"
-    end_time: "16:45"
+    end_time: "17:00"
     background_color: "#ffccff"       
   - title: "rodrigo-ramalho"
     type: talk
@@ -386,13 +394,13 @@ program:
     type: talk
     date: 2018-11-10
     start_time: "16:15"
-    end_time: "16:45"
+    end_time: "17:00"
     background_color: "#AED6F1"
   - title: "Encerramento"
     type: custom
     date: 2018-11-10
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
 ignites:
   - title: "julia-lamenza"
     date: 2018-11-09  
