@@ -1,7 +1,8 @@
 +++
 Title = "Gadi Naor"
-#Twitter = ""
+Twitter = "@alcideio"
 image = "gadi_naor.jpg"
 type = "speaker"
 linktitle = "gadi-naor"
 +++
+
