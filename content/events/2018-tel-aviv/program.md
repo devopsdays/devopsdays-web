@@ -264,7 +264,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/avi-douglen">Value driven threat modelling - security by design <br><strong>Avi Douglen</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/elena-levi">TBD <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/elena-levi">Charts and visual lies <br><strong>Elena Levi</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
