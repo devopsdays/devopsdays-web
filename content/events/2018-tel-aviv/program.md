@@ -127,7 +127,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/sasha-rosenbaum">TBD<br/> <strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    <a href="/events/2018-tel-aviv/program/allisson-mcmillan">Workshop: TBD <br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn">Workshop: TBD <br/> <strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -139,7 +139,7 @@ heading = "devopsdays Tel Aviv - Program"
     TBD
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn">workshop <br><strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 
 <div class = "row">
@@ -153,7 +153,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/allisson-mcmillan">Workshop: TBD <br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn">Workshop: TBD <br/> <strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
