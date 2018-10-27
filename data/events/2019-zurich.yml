@@ -21,7 +21,7 @@ location: "Umweltarena Zürch" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: speakers
+  - name: speakers
 #  - name: program
   - name: location
 #  - name: registration
