@@ -229,7 +229,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/david-blank-edelman">TBD <br><strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/debbie-levitt">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -243,7 +243,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/avi-kivity">How to write a database <br><strong>Avi Kivity</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/debbie-levitt">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
