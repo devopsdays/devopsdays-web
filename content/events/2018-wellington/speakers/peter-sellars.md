@@ -1,6 +1,6 @@
 +++
 Title = "Peter Sellars"
-Twitter = ""
+Twitter = "petersellars"
 image = "peter-sellars.jpg"
 type = "speaker"
 linktitle = "peter-sellars"
