@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/ken-mugrage">TBD<br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/ken-mugrage">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/ado-kukic">TBD<br/> <strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -123,11 +123,11 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/events/2018-tel-aviv/program/aaron-wolf">Come with me if you want to code - the PiNet <br/> <strong>Aaron Wolf</strong>  </a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2018-tel-aviv/program/reuven-harrisson">TBD<br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/reuven-harrisson">DevOps Security - Is it really so difficult?<br/> <strong>Reuven Harrisson</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/sasha-rosenbaum">TBD<br/> <strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
-    <a href="/events/2018-tel-aviv/program/allisson-mcmillan">Workshop: TBD <br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn">Workshop: TBD <br/> <strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -139,7 +139,7 @@ heading = "devopsdays Tel Aviv - Program"
     TBD
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn">workshop <br><strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 
 <div class = "row">
@@ -153,7 +153,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/allisson-mcmillan">Workshop: TBD <br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn">Workshop: TBD <br/> <strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -225,11 +225,11 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/events/2018-tel-aviv/program/sabine-wojcieszak">TBD <br><strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2018-tel-aviv/program/anton-drukh">TBD <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/david-blank-edelman">TBD <br><strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/debbie-levitt">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -237,13 +237,13 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/yogev-levi">TBD <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/yogev-levi">Bootstrap new organisation - the Ops side of things<br><strong>Yogev Levi Shaked</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2018-tel-aviv/program/itai-freindinger">0Flake - Reaching reliable non-flaky tests <br><strong>Itai Freindinger</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/itai-friendinger">0Flake - Reaching reliable non-flaky tests <br><strong>Itai Freindinger</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/avi-kivity">How to write a database <br><strong>Avi Kivity</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/debbie-levitt">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -266,7 +266,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/elena-levi">Charts and visual lies <br><strong>Elena Levi</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -278,7 +278,7 @@ heading = "devopsdays Tel Aviv - Program"
     TBD
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 
 <div class = "row">
@@ -292,7 +292,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levit">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
