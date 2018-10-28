@@ -1,7 +1,7 @@
 +++
 Title = "Ken Mugrage"
 Twitter = "@kmugrage"
-image = "ken-mugrage.jpg"
+image = "ken-mugrage-web.png"
 type = "speaker"
 linktitle = "ken-mugrage"
 +++
