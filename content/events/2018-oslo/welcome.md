@@ -8,7 +8,8 @@ Description = "devopsdays Oslo 2018"
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
-
+<h3><a href="https://youtu.be/t3gilnY3XGQ">Watch the livestream from Monday Oct 29th here!</a></h3>
+{{< event_logo >}}
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
