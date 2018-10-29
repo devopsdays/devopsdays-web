@@ -45,7 +45,7 @@ team_members: # Name is the only required field for team members.
     image: "noemi-krusi.jpg"
   - name: "Nadine Biedermann"
     bio: "<p>Metaphorically, Nadine can conquer the world with her clever quips and her charme. Literally, Nadine's wit and her creativity will enhance your Marketing and Social Media experience of the DevOpsDays 2019.</p>"
-    linkedin: "www.linkedin.com/in/nadine-biedermann-46436516b"
+    linkedin: "https://www.linkedin.com/in/nadine-biedermann-46436516b"
     image: "nadine-biedermann.jpg"
   - name: "Julia Faust"
     bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
