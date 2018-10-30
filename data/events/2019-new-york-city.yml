@@ -82,6 +82,10 @@ sponsors:
     level: community
   - id: viacom
     level: venue
+  - id: contino
+    level: silver
+  - id: instana
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
