@@ -38,6 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: justification
+    url: https://docs.google.com/document/d/1NNk5Y8ZIhjK7z1-vfAvSG0sBwY0RhOSG14o7pRBWG28/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -199,6 +201,13 @@ sponsors:
     level: premium
   - id: newrelic
     level: amenity
+  - id: kaizenops
+    level: amenity
+  - id: infosec-conferences
+    level: community
+  - id: opensource
+    level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -436,7 +445,7 @@ program:
     date: 2018-10-18
     start_time: "15:30"
     end_time: "16:30"
-  - title: "mike-rothman"
+  - title: "rich-mogull"
     type: workshop
     date: 2018-10-18
     start_time: "14:30"
@@ -491,6 +500,8 @@ ignites:
   - title: "todd-brees"
     date: 2018-10-18
   - title: "jessica-mcintyre"
+    date: 2018-10-18
+  - title: "tom-cudd"
     date: 2018-10-18
   - title: "Ignite Karaoke!"
     date: 2018-10-18

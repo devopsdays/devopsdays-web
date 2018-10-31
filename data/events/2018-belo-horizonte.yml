@@ -61,9 +61,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andrealmar/"
     # bio: ""
     image: "andre-almar.jpg"
-#   - name: "Ana Cláudia Grossi"
-#     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
-#     image: "ana-claudia-grossi.jpg"
+  - name: "Ana Cláudia Grossi"
+    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+    image: "ana-claudia-grossi.jpg"
     # bio: ""
   - name: "Daniel Reis"
     linkedin: "https://www.linkedin.com/in/danielreisp/"
@@ -106,6 +106,14 @@ sponsors:
     level: premium
   - id: estabilis
     level: premium
+  - id: dataminders
+    level: premium
+  - id: knowledge21
+    level: premium
+  - id: bancointer
+    level: premium
+  - id: 4linux
+    level: educational
   - id: adaptnow
     level: educational
   - id: devopsbh
@@ -131,10 +139,16 @@ sponsor_levels:
 
 program:
   ## Periodo da Manha
-  - title: "Registro e abertura"
+  - title: "Credenciamento e registro"
     type: custom
     date: 2018-09-29
     start_time: "08:30"
+    end_time: "09:00"
+
+  - title: "Abertura"
+    type: custom
+    date: 2018-09-29
+    start_time: "09:00"
     end_time: "09:15"
 
   - title: "rafael-gomex"
@@ -148,7 +162,7 @@ program:
   - title: "Palestras Open Space - a ser definida na hora, como usual - Sessoes de no max. 20 minutos para cada talk"
     type: open-space
     date: 2018-09-29
-    start_time: "09:00"
+    start_time: "10:00"
     end_time: "12:00"
     comments: "Sessoes de no max. 20 minutos para cada talk"
 
@@ -194,7 +208,7 @@ program:
     start_time: "13:00"
     end_time: "15:00"
 
-## Palestras da tarde
+## Palestras da tarde - noite
   - title: "antonio-muniz"
     type: talk
     date: 2018-09-29
@@ -233,8 +247,8 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: "KEYNOTE A SER DEFINIDO"
-    type: custom
+  - title: "regilberto-girao"
+    type: talk
     date: 2018-09-29
     comments: Keynote de encerramento
     start_time: "16:00"

@@ -85,6 +85,8 @@ proposal_email: "proposals-newcastle-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: rea-group
     level: gold
+  - id: csa
+    level: gold
   - id: hays-australia
     level: silver
   - id: assemblient
@@ -92,6 +94,8 @@ sponsors:
   - id: 'cmd-solutions'
     level: silver
   - id: 'mudbath-digital'
+    level: bronze
+  - id: newy-tech-people
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  #  - id: arresteddevops
