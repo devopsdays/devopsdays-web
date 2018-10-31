@@ -227,7 +227,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/david-blank-edelman">TBD <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/david-blank-edelman">Implementing SRE practices: SLI/SLO deep dive<br><strong>David Blank Edelman</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/debbie-levitt">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
