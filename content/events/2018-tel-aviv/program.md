@@ -125,7 +125,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/reuven-harrisson">DevOps Security - Is it really so difficult?<br/> <strong>Reuven Harrisson</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/sasha-rosenbaum">TBD<br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/sasha-rosenbaum">When is AI taking over _my_ job?<br/> <strong>Sasha Rosenbaum</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
     <a href="/events/2018-tel-aviv/program/phillip-krenn">Workshop: TBD <br/> <strong>TBD</strong></a></div>
 </div> <!-- end timeslot div -->
