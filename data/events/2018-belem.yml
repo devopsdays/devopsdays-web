@@ -59,7 +59,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/eryssonbarros/"
 
   - name: "Fábio Figueiredo"
-    employer: "TOTVS"
+    employer: "SESI/SENAI"
     twitter: "fabiolimaf"
     linkedin: "https://www.linkedin.com/in/fabiolimaf/"
 
@@ -103,6 +103,9 @@ sponsors:
     level: community
 
   - id: omnescoin
+    level: community
+
+  - id: vue-norte
     level: community
 
   - id: elephant-coworking
