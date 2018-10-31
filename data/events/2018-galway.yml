@@ -12,7 +12,7 @@ enddate: 2018-11-20
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-08-01 # start accepting talk proposals.
 cfp_date_end: 2018-09-09 # close your call for proposals.
-cfp_date_announce: 2018-09-17  # inform proposers of status
+cfp_date_announce: 2018-10-05  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -64,6 +64,11 @@ team_members: # Name is the only required field for team members.
     employer: "Cisco"
     twitter: "destr0ya"
     linkedin: "https://www.linkedin.com/in/emmameehan3"
+    bio: |
+      Emma is a Software Engineer for Cisco, where she works on Java microservices for cloud-based 
+      collaboration technologies. She has recently graduated from NUI Galway with an honours degree 
+      in Computer Science & Information Technology, and has a passion for combat sports, 
+      particularly Muay Thai.
   - name: "Jon-Paul Sullivan"
     image: "jonpaul-sullivan.jpg"
     employer: "Cisco"
@@ -123,10 +128,6 @@ team_members: # Name is the only required field for team members.
       and providing CI/CD platforms. Noel is also an organiser for the DevOps
       Galway Meet-up. He also enjoys DIY or gardening and is a trainer with his
       local Ladies Gaelic Football club.
-  - name: "Lynda O'Leary"
-    image: "lynda-oleary.jpg"
-    employer: "HPE"
-    linkedin: "https://www.linkedin.com/in/lyndaoleary/"
   - name: "Bryan Solan"
     image: "bryan-solan.jpg"
     employer: "Aspect"
@@ -135,10 +136,6 @@ team_members: # Name is the only required field for team members.
     bio: |
       Bryan is a Developer at Aspect where he works on CI/CD with Kubernetes,
       Jenkins and Scala/Spring applications in the AWS cloud.
-  - name: "Kim Tighe"
-    image: "kim-tighe.jpg"
-    employer: "DXC"
-    linkedin: "https://www.linkedin.com/in/kimtighe/"
   - name: "Padraic Wade"
     image: "padraic-wade.jpg"
     employer: "Woodgroup"
@@ -169,10 +166,22 @@ proposal_email: "proposals-galway-2018@devopsdays.org" # Put your proposal email
 sponsors:
   - id: cisco
     level: bronze
+  - id: itag-skillnet
+    level: bronze
   - id: aspect
     level: silver
   - id: avaya
     level: silver
+  - id: smartbear
+    level: silver
+  - id: googlecloud
+    level: silver
+  - id: genesys
+    level: silver
+  - id: hpe
+    level: gold
+  - id: chef
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -180,10 +189,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-sponsor_levels:
-  - id: platinum
-    label: Platinum
-    max: 1
+sponsor_levels:  
   - id: gold
     label: Gold
     max: 2
@@ -195,3 +201,215 @@ sponsor_levels:
     max: 6
   - id: community
     label: Community
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-19
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening of the Conference"
+    type: custom
+    date: 2018-11-19
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "joe-nuspl"
+    type: talk
+    date: 2018-11-19
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "jennifer-petoff"
+    type: talk
+    date: 2018-11-19
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-19
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "adrian-ryan"
+    type: talk
+    date: 2018-11-19
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2018-11-19
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "philip-griffiths"
+    type: talk
+    date: 2018-11-19
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-19
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "kenzie-woodbridge"
+    type: talk
+    date: 2018-11-19
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-19
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2018-11-19
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-19
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2018-11-19
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2018-11-19
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2018-11-19
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Close Day & Announcements"
+    type: custom
+    date: 2018-11-19
+    start_time: "17:45"
+    end_time: "18:00"
+
+  - title: "Evening Event - Networking ChillOps"
+    type: custom
+    date: 2018-11-19
+    start_time: "20:00"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2018-11-20
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "brian-scanlan"
+    type: talk
+    date: 2018-11-20
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "debbie-levitt"
+    type: talk
+    date: 2018-11-20
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-20
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "adopting-sre-in-enterprise-organizations"
+    type: talk
+    date: 2018-11-20
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2018-11-20
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "rich-archbold"
+    type: talk
+    date: 2018-11-20
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-20
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "jason-gwartz"
+    type: talk
+    date: 2018-11-20
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-20
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2018-11-20
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-20
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2018-11-20
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2018-11-20
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2018-11-20
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2018-11-20
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+  - title: "shane-galvin"
+    date: 2018-11-19
+  - title: "derek-kelly"
+    date: 2018-11-19
+  - title: "frank-farrell"
+    date: 2018-11-19
+  - title: "desy-kristianti"
+    date: 2018-11-19
+  - title: "diarmuid-ohara"
+    date: 2018-11-20
+  - title: "kealan-murphy"
+    date: 2018-11-20
+  - title: "paul-oconnor"
+    date: 2018-11-20
+  - title: "sean-meehan"
+    date: 2018-11-20

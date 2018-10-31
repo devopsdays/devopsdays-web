@@ -4,13 +4,13 @@ city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-05-14
-enddate: 2019-05-15
+startdate: 2019-05-14T00:00:00+02:00
+enddate: 2019-05-15T23:59:59+02:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start: 2019-01-01 # start accepting talk proposals.
-#cfp_date_end: 2018-04-01 # close your call for proposals.
-#cfp_date_announce: 2019-01-02 # inform proposers of status
-#cfp_link: https://cfp.devopsdays.ch
+cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2019-03-01T23:59:59+01:00 # inform proposers of status
+cfp_link: https://cfp.devopsdays.ch
 registration_open: "false"
 
 # Location
@@ -21,12 +21,12 @@ location: "Umweltarena Zürch" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: speakers
+  - name: speakers
 #  - name: program
   - name: location
 #  - name: registration
-#  - name: propose
-#    url: https://cfp.devopsdays.ch
+  - name: propose
+    url: https://cfp.devopsdays.ch
 #  - name: sponsor
   - name: contact
   - name: conduct
@@ -45,8 +45,11 @@ team_members: # Name is the only required field for team members.
     image: "noemi-krusi.jpg"
   - name: "Nadine Biedermann"
     bio: "<p>Metaphorically, Nadine can conquer the world with her clever quips and her charme. Literally, Nadine's wit and her creativity will enhance your Marketing and Social Media experience of the DevOpsDays 2019.</p>"
-    linkedin: "www.linkedin.com/in/nadine-biedermann-46436516b"
+    linkedin: "https://www.linkedin.com/in/nadine-biedermann-46436516b"
     image: "nadine-biedermann.jpg"
+  - name: "Julia Faust"
+    bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
+    image: "julia-faust.jpg"
   - name: "Selina Reist"
     employer: "Federal Office of Information Technology"
     bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
@@ -66,17 +69,17 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     bio: "<p>I am passionate about everything agile and human centered. Having started my career in an old school waterfall environment more than 20 years ago as a software engineer and project manager, I am now happy to enable teams and large organisations to establish agile methods and DevOps. I specifically like the combination (and challenges) of technical and cultural aspects.</p>"
     Website: https://www.xing.com/profile/Carsten_Plum2/
     image: "carsten-plum.jpg"
-  - name: "Dirk Lehman"
-    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>In his current role, Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps practices.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
-    twitter: "doergn"
-    linkedin: "https://www.linkedin.com/in/dirk-lehmann-7712bb125/"
-    image: "dirk-lehmann.jpg"
   - name: "David Kilchenmann"
     bio: "<p>David is product manager at Puzzle ITC, an open-source IT company based in Bern & Zurich. He loves how the container technologies changed the way software is developed and run, but still sees a lot of potential within other organizations to adopt a DevOps mindset. At Puzzle he is working in the product management for several open source solutions like Hitobito, APPUiO, PuzzleTime & Liima. Before Puzzle he was leading the Swisscom Software Day for two iterations and promoting the Swisscom software culture within the company.</p>"
     employer: "Puzzle ITC"
     twitter: "DKilchenmann"
     linkedin: "https://www.linkedin.com/in/david-kilchenmann-004aaa68/"
     image: "david-kilchenmann.jpg"
+  - name: "Dirk Lehmann"
+    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>In his current role, Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps practices.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
+    twitter: "doergn"
+    linkedin: "https://www.linkedin.com/in/dirk-lehmann-7712bb125/"
+    image: "dirk-lehmann.jpg"
   - name: "Marcelo Ancelmo"
     twitter: "marceloancelmo"
     employer: ""
@@ -124,6 +127,12 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     linkedin: ""
     website: "https://tobrunet.ch/"
     image: "tobias-brunner.jpg"
+  - name: "Tobias Weinmann"
+    bio: "Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that \"we cannot solve our problems with the same thinking we used when we created them\" (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization."
+    linkedin: "https://www.linkedin.com/in/tobias-weinmann"
+    twitter: "Wankinobi75"
+    github: "tweinmann"
+    image: "tobias-weinmann.jpg"
   - name: "Vittorio Boccone"
     twitter: "drbokko"
     employer: "Dectris Ltd."

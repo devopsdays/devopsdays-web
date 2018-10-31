@@ -84,7 +84,14 @@ sponsors:
     level: silver
   - id: hiringsolved
     level: bronze
-
+  - id: googlecloud
+    level: gold
+  - id: inedo
+    level: silver
+  - id: the-larry-phx
+    level: community
+  - id: tibco
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

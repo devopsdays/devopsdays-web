@@ -67,16 +67,14 @@ team_members: # Name is the only required field for team members.
 
   - name: "Vincent De Smet"
     twitter: "vincentdesmet"
-    bio: ""
+    bio: "Vincent De Smet is the lead DevOps engineer for Swatmobile and co-organiser for Kubernetes meetups in Singapore"
+    image: "vincent-desmet.jpg"
 
   - name: "Hugues Malphettes"
     employer: "Standard Chartered"
     twitter: "hmalphettes"
+    
 
-  - name: "Muthu Karuppi"
-    employer: "ThoughtWorks"
-    twitter: ""
-    bio: ""
 
 organizer_email: "organizers-singapore-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-singapore-2018@devopsdays.org" # Put your proposal email address here
@@ -100,7 +98,11 @@ sponsors:
   - id: vmware
     level: silver
   - id: chef
-    level: silver  
+    level: silver
+  - id: f5
+    level: silver
+  - id: orbium
+    level: silver
   - id: singapore-devops-community
     level: community
   - id: singapore-devsecops-community
@@ -109,8 +111,21 @@ sponsors:
     level: community
   - id: stack-overflow
     level: community
-  - id: jfrog
+  - id: agile-singapore
     level: community
+  - id: women-who-code-sg
+    level: community
+  - id: pigeonhole
+    level: community
+  - id: jfrog
+    level: travel
+  - id: gojek
+    level: travel
+  - id: solnet
+    level: travel
+    
+    
+    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -130,6 +145,8 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: travel
+    label: Travel
 
 program:
   - title: "Registration, Breakfast, and Sponsor Booths Open"
@@ -162,7 +179,7 @@ program:
     date: 2018-10-11
     start_time: "10:40"
     end_time: "11:15"
-  - title: "baruch-sadogursky"
+  - title: "ned-shawa"
     type: talk
     date: 2018-10-11
     start_time: "11:15"
@@ -218,7 +235,7 @@ program:
     start_time: "17:25"
     end_time: "17:30"
   - title: "Evening event"
-    comments: "Location TBD ([map](/events/2018-singapore/location/#after-party))"
+    comments: "Location Brewerkz Riverside Point ([map](/events/2018-singapore/location/#after-party))"
     type: custom
     date: 2018-10-11
     start_time: "17:30"
@@ -253,7 +270,7 @@ program:
     date: 2018-10-12
     start_time: "10:40"
     end_time: "11:15"
-  - title: "ned-shawa"
+  - title: "baruch-sadogursky"
     type: talk
     date: 2018-10-12
     start_time: "11:15"
@@ -305,21 +322,23 @@ program:
     end_time: "17:30"
 
 ignites:
+  - title: "ignite-matt-ray"
+    date: 2018-10-11
+  - title: "ignite-isha-tripathi"
+    date: 2018-10-11
+  - title: "ignite-fabian-lim"
+    date: 2018-10-11
+  - title: "ignite-divya-vaishnavi"
+    date: 2018-10-11
+  - title: "ignite-shivin-vijai"
+    date: 2018-10-11
+  - title: "ignite-andrew-gregovic"
+    date: 2018-10-12
+  - title: "ignite-aries-youssefian"
+    date: 2018-10-12
+  - title: "ignite-david-varvel"
+    date: 2018-10-12
   - title: "ignite-baruch-sadogursky"
-    date: 2018-10-11
-  - title: "ignite-tbc"
-    date: 2018-10-11
-  - title: "ignite-tbc"
-    date: 2018-10-11
-  - title: "ignite-tbc"
-    date: 2018-10-11
-  - title: "ignite-tbc"
     date: 2018-10-12
-  - title: "ignite-tbc"
-    date: 2018-10-12
-  - title: "ignite-tbc"
-    date: 2018-10-12
-  - title: "ignite-tbc"
-    date: 2018-10-12
-  - title: "ignite-tbc"
+  - title: "ignite-joseph-matthias-goh"
     date: 2018-10-12

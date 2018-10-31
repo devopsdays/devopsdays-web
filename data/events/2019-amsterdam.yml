@@ -26,13 +26,16 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "52.376862, 4.922078" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Amsterdam" # Defaults to city, but you can make it the venue name.
+location: "Pakhuis de Zwijger - Amsterdam" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Piet Heinkade 179, 1019 HC Amsterdam" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+masthead_background: "skyline-ams.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: slack
+    url: http://bit.do/slackdodams
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -66,15 +69,19 @@ team_members: # Name is the only required field for team members.
     twitter: "geogdog"
   - name: "Sarah Gruneisen"
     twitter: "SGruneisen"
-    
+  - name: "Jonah Meijers"
+    twitter: "stampherr"
+  - name: "Sheela Nistala"
+    twitter: "sheelanistala"
+  - name: "Sean Bovaird"
+    twitter: "srbovaird"
+
 organizer_email: "organizers-amsterdam-2019@devopsdays.org" # Put your organizer email address here
 # proposal_email: "proposals-amsterdam-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: schubergphilis
-    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -83,13 +90,29 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: coffee
+    label: Coffee
+    max: "1"
+  - id: beer
+    label: Beer
+    max: "1"
+  - id: games
+    label: Games
+    max: "1"
+  - id: foodtrucks
+    label: "Food Trucks"
+    max: "4"
   - id: gold
     label: Gold
-#    max: 10
+    max: "8"
+  - id: recharge
+    label: "Power recharge"
+    max: "1"
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: "8"
+  - id: lanyard
+    label: Lanyard
+    max: "1"
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community

@@ -160,7 +160,7 @@ sponsors:
     level: silver
   - id: mesosphere
     level: silver
-  - id: kaizenops
+  - id: kaizenops-before-20181008
     level: silver
   - id: rancher
     level: silver
@@ -204,7 +204,7 @@ sponsors:
     level: meal
   - id: spantree
     level: video
-  - id: kaizenops
+  - id: kaizenops-before-20181008
     level: live-transcription
   - id: allstate
     level: transportation

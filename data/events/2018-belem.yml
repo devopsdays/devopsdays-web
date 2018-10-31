@@ -2,7 +2,7 @@ name: "2018-belem" # The name of the event. Four digit year with the city name i
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Belém" # The displayed city name of the event. Capitalize it.
 event_twitter: "tasafo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Pela primeira vez no Belém - DevOpsDays!" # Edit this to suit your preferences
+description: "Pela primeira vez na Região Norte do Brasil, em Belém do Pará - DevOpsDays!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
@@ -35,8 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: https://www.papercall.io/devopsdaysbelem
   - name: Inscreva-se
     url: https://www.eventbrite.com.br/e/devopsdays-belem-tickets-49644894215
-  #  - name: Programação
-  #    url:
+  - name: Programa
+    url: /events/2018-belem/programa
   - name: Patrocínio
     url: /events/2018-belem/patrocinio
   - name: Código de Conduta
@@ -83,8 +83,8 @@ team_members: # Name is the only required field for team members.
     twitter: "luizsanxes"
     linkedin: "https://www.linkedin.com/in/lsanches/"
 
-organizer_email: "organizers-belem-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-belem-2018@devopsdays.org" # Put your proposal email address here
+organizer_email: "devopsdays@tasafo.org" # Put your organizer email address here
+proposal_email: "devopsdays@tasafo.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -102,8 +102,20 @@ sponsors:
   - id: hub728
     level: community
 
+  - id: omnescoin
+    level: community
+
   - id: elephant-coworking
     level: bronze
+
+  - id: adaptnow
+    level: platinum
+
+  - id: pluralsight
+    level: platinum
+
+  - id: vibe
+    level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -112,11 +124,92 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platina
   - id: gold
     label: Ouro
   - id: silver
     label: Prata
   - id: bronze
     label: Bronze
+  - id: safo
+    label: Safo
   - id: community
     label: Comunidade
+
+program:
+  - title: "Credenciamento / Coffee-break ☕️"
+    type: custom
+    date: 2018-11-24
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "ABERTURA"
+    type: custom
+    date: 2018-11-24
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Testes de Códigos de Infraestrutura (Gomex / Crossover)"
+    type: custom
+    date: 2018-11-24
+    start_time: "09:15"
+    end_time: "10:15"
+  - title: "Three Ways: porque eles ajudam tanto na implementação do DevOps no trabalho (Camilla Martins / ThoughtWorks)"
+    type: custom
+    date: 2018-11-24
+    start_time: "10:15"
+    end_time: "10:50"
+  - title: "Começando com DevOps em projetos pessoais (Iago Cavalcante / SEFA-PA)"
+    type: custom
+    date: 2018-11-24
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Escala já! Um relato sobre técnicas para alta escalabilidade de ambientes em cloud (Lucas Mousinho / Moobi)"
+    type: custom
+    date: 2018-11-24
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "INTERVALO PARA ALMOÇO"
+    type: custom
+    date: 2018-11-24
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Construindo Dashboards para IoT (Carlos Souza / Pluralsight)"
+    type: custom
+    date: 2018-11-24
+    start_time: "13:00"
+    end_time: "14:00"
+  - title: "Pensando QA dos Conceitos a Prática, o QA fora da Caixa. QADevOps Mito ou Realidade? (Alessandra Martins / GS1)"
+    type: custom
+    date: 2018-11-24
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Otimizando Docker images com Nix (Thomaz Leite / Actor)"
+    type: custom
+    date: 2018-11-24
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Do Zero para Nuvem com Arquitetura de Microserviços (Leandro Pantoja / Grupo Mult)"
+    type: custom
+    date: 2018-11-24
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Coffee-break ☕️"
+    type: custom
+    date: 2018-11-24
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "FishBowl"
+    type: custom
+    date: 2018-11-24
+    start_time: "16:00"
+    end_time: "17:00"
+  - title: "Keynote de Encerramento (a definir)"
+    type: custom
+    date: 2018-11-24
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "ENCERRAMENTO"
+    type: custom
+    date: 2018-11-24
+    start_time: "18:00"
+    end_time: "18:15"

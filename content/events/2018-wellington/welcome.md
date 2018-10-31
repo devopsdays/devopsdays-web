@@ -46,7 +46,7 @@ Description = "DevOpsDays Wellington 2018"
       <strong>Propose</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="propose" text="Propose a talk!" >}}
+      The CFP has now closed
     </div>
   </div>
   <div class="row">
@@ -54,7 +54,15 @@ Description = "DevOpsDays Wellington 2018"
       <strong>Sponsors</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+      All our sponsorship slots have been filled
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-2">
+      <strong>Program</strong>
+    </div>
+    <div class="col-md-6">
+      Check out the {{< event_link page="program" text="program!" >}}
     </div>
   </div>
   <div class="row">
@@ -78,6 +86,12 @@ Description = "DevOpsDays Wellington 2018"
   <div class="row">
     <div class="col-md-12">
         You can also find more information about our <a href="/events/2018-wellington/registration">Diversity Scholarship here</a>.
+      </div>
+  </div>
+  <br/>
+    <div class="row">
+    <div class="col-md-12">
+          <strong>The program has just been published! <a href="/events/2018-wellington/program">Check it out!</a></strong>
       </div>
   </div>
   <br/>
@@ -124,22 +138,22 @@ Description = "DevOpsDays Wellington 2018"
   <!-- <div class = "d-flex flex-row">
   <div class="col-md-12">
     <div class="p-2">
-      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="/events/2018-wellington/sponsor"> 
+      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="/events/2018-wellington/sponsor">
         <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
       </a>
     </div>
     <div class="p-2">
-      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="/events/2018-wellington/contact"> 
+      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="/events/2018-wellington/contact">
         <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organisers
       </a>
     </div>
     <div class="p-2">
-      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="https://devopsdays-wellington-2018.lilregie.com/step1" target="_blank"> 
+      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="https://devopsdays-wellington-2018.lilregie.com/step1" target="_blank">
         <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
       </a>
     </div>
     <div class="p-2">
-      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="/events/2018-wellington/registration"> 
+      <a class="btn btn-primary btn-block" style="background-color: #0072A9; border-color: #0072A9;" href="/events/2018-wellington/registration">
         <i class="fa fa-transgender fa-lg"></i>&nbsp;&nbsp;&nbsp;Diversity Scholarship
       </a>
     </div>

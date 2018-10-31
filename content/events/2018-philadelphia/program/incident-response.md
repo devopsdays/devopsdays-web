@@ -16,5 +16,4 @@ In this workshop, attendees will:
 * Be introduced to the Incident Command System and learn how it can be adapted to other industries.
 * Walk through the basics of incident response best practices.
 * Discuss examples of formal incident response from multiple organizations.
-* Perform hands-on exercises to practice incident response skills.
 * Have the opportunity to share their real-world experiences with each other.

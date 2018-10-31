@@ -14,7 +14,7 @@ Description = "DevOpsDays is coming to Chattanooga for the first time on Novembe
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
