@@ -86,7 +86,7 @@ sponsors:
     level: silver
   - id: instana
     level: gold
-  - id: InfluxData
+  - id: influxdata
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
