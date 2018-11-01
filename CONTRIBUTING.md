@@ -10,7 +10,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo v0.46+](http://gohugo.io). [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
+1. Install [Hugo](http://gohugo.io). The version we use can be found in the `.travis.yml` file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
 1. Fork this repo.
 
 ### View site locally
