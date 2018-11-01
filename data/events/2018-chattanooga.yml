@@ -79,13 +79,13 @@ sponsors:
     level: platinum
   - id: chatech
     level: platinum
+  - id: epb
+    level: platinum
   - id: chef
     level: gold
   - id: redhat
     level: gold
   - id: infosystems
-    level: gold
-  - id: epb
     level: gold
   - id: cloudbees
     level: gold
@@ -95,6 +95,8 @@ sponsors:
     level: gold
   - id: puppet
     level: gold
+  - id: perficient
+    level: silver
   - id: nutanix
     level: bronze
   - id: teksystems
@@ -228,6 +230,11 @@ program:
     date: 2018-11-13T00:00:00-05:00
     start_time: "16:45"
     end_time: "17:00"
+  - title: "After Party Sponsored by Chef and Perficient"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "18:30"
 
 ignites:
 - title: "james-dean"
@@ -237,4 +244,8 @@ ignites:
 - title: "marcus-young"
   date: 2018-11-13T00:00:00-05:00
 - title: "ravi-lachman"
+  date: 2018-11-13T00:00:00-05:00
+- title: "summer-prince"
+  date: 2018-11-13T00:00:00-05:00
+- title: "kenn-kitchen"
   date: 2018-11-13T00:00:00-05:00
