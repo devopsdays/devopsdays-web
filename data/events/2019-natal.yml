@@ -1,0 +1,118 @@
+name: "2019-natal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Natal" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaynatal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Natal!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2019-03-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-03-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-11-15 # start accepting talk proposals.
+cfp_date_end: 2019-01-20 # close your call for proposals.
+cfp_date_announce: 2018-01-31 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdaysnatal" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "natal.jpg"
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-5.8117002, -35.203245" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "IFRN - Campus Natal Central" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Senador Salgado Filho, 1559 - Tirol" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Informações
+    icon: "map-o"
+    url: /events/2019-natal/location
+## Uncomment to show on page
+  # - name: Palestrantes
+  #   icon: "microphone"
+  #   url: /events/2019-natal/speakers
+  # - name: Programação
+  #   icon: "book"
+  #   url: /events/2019-natal/program
+  # - name: Local
+  #   icon: "map-o"
+  #   url: /events/2019-natal/location
+  # - name: Palestre (CFP)
+  #   icon: "user-plus"
+  #   url: "https://www.papercall.io/devopsdaysnatal"
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2019-natal/conduta
+  # - name: Ingressos
+  #   icon: "user-plus"
+  #   url: "https://devopsdaysnatal.eventize.com.br/"
+  # - name: Patrocinio
+  #   icon: "money"
+  #   url: /events/2019-natal/patrocinio
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2019-natal/contato
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  # - name: "Igor Oliveira"
+  #   role: "DevOps"
+  #   bio: "Software Developer | DevOps"
+  #   linkedin: "https://www.linkedin.com/in/igor-bezerra-9974b28b/"
+  #   website: "https://igorolivei.github.io"
+  #   github: "https://github.com/igorolivei"
+  #   twitter: "devopsday-natal"
+  #   image: "igor-oliveira.png"
+organizer_email: "organizers-natal-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-natal-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+
+# sponsors:
+#   - id: xxxx
+#     level: gold
+#     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Credenciamento, breakfast e abertura"
+    type: open-space
+    date: 2019-03-09
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "tbd"
+    type: talk
+    date: 2019-03-09
+    start_time: "16:10"
+    end_time: "16:35"
+  - title: "Encerramento"
+    type: open-space
+    date: 2019-03-09
+    start_time: "17:30"
+    end_time: "18:30"
