@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays NYC 2019"
 +++
 
-<br><br>
+<br/>
 
 We appreciate our sponsors for this Open Event! If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}.
 
@@ -112,12 +112,11 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 </div>
 <br/>
 <ul>
-<li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees.  The lanyard will be printed with your branding on it.  There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
+<li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees. The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
 
-<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect.  We are open to discussing ideas on how this might be achieved. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
+<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect. We are open to discussing ideas on how this might be achieved. There is only a single sponsorship available and it is $2,000. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
 
-<li><b>Live Captioning Sponsorship:</b>  Everyone at the event will see  your name every time they look up to see the CC screen at the event. We'll also mention you name
-in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is $5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
+<li><b>Live Captioning Sponsorship:</b>  Everyone at the event will see your name every time they look up to see the CC screen at the event. We'll also mention your name in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is $5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
 
 <ul>
 <li>You will receive: Two (2) Tickets</li>
