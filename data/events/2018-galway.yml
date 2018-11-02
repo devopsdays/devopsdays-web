@@ -182,8 +182,10 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: 2018-ibm
+    level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -192,10 +194,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:  
   - id: gold
     label: Gold
-    max: 2
+    max: 3
   - id: silver
     label: Silver
-    max: 4
+    max: 6
   - id: bronze
     label: Bronze
     max: 6
