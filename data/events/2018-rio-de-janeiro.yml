@@ -139,7 +139,7 @@ sponsors:
     level: community
   - id: womenindevops
     level: community 
-  - id: womenwhocode
+  - id: wwcoderecife
     level: community   
   - id: exin
     level: community   
@@ -270,6 +270,11 @@ program:
     date: 2018-11-09
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-11-09
+    start_time: "18:00"
+    end_time: "20:30"    
   - title: "Credenciamento e recepção"
     type: custom
     date: 2018-11-10
@@ -368,7 +373,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
     background_color: "#d1d1e0"      
-  - title: "carla-crude"
+  - title: "vanessa-almeida"
     type: talk
     date: 2018-11-10
     start_time: "15:00"
