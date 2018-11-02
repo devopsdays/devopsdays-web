@@ -84,7 +84,7 @@ used, group demo's and the like.
     <tr>
       <td>Shared swag table</td>
       <td style="padding: 5px" bgcolor="peru" align="center"><img width="25" src="/img/checkmark.png"></td>
-      <td style="padding: 5px" bgcolor="silver"</td>
+      <td style="padding: 5px" bgcolor="silver"></td>
       <td style="padding: 5px" bgcolor="gold"></td>
       <td style="padding: 5px" align="center"></td>
     </tr>
