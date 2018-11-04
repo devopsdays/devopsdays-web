@@ -50,8 +50,12 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Tom Limoncelli"
+    image: "tom-limoncelli.jpg"
+    twitter: "YesThatTom"
   - name: "Kristen A Olah"
+    image: "kristen-olah.jpg"
   - name: "Jaclyn M Damiano"
+    image: "jacki-damiano.jpg"
   - name: "Sumit Agarwal"
     image: "sumit-agarwal.jpg"
     twitter: "aga_sumit"
@@ -61,14 +65,17 @@ team_members: # Name is the only required field for team members.
   - name: "Jerome Moore"
   - name: "James Dadd"
   - name: "Jay Gordon"
+    image: "jay-gordon.png"
   - name: "Mani Soundararajan"
   - name: "Mark Birch"
   - name: "Tom Reingold"
   - name: "Brian Kowalcyzk"
   - name: "Ceren Ercen"
+    image: "ceren-ercen.jpg"
   - name: "Matt Kuritz"
   - name: "Stephen Thomas"
   - name: "Adarsh Shah"
+    image: "adarsh-shah.jpg"
 
 organizer_email: "organizers-new-york-city-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-new-york-city-2019@devopsdays.org" # Put your proposal email address here
