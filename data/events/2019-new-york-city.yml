@@ -73,7 +73,7 @@ team_members: # Name is the only required field for team members.
   - name: "James Dadd"
     employer: "fourTheorem Ltd"
   - name: "Jay Gordon"
-    image: "jay-gordon.png"
+    image: "jay-gordon.jpg"
     twitter: "jaydestro"
     github: "jaydestro"
   - name: "Mani Soundararajan"
