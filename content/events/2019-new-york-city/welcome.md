@@ -5,10 +5,6 @@ aliases = ["/events/2019-new-york-city/"]
 Description = "devopsdays New York City 2019"
 +++
 
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div>
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -83,3 +79,7 @@ Description = "devopsdays New York City 2019"
 
 
 {{< event_twitter >}}
+
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
