@@ -12,7 +12,7 @@ Description = "Registration for DevOpsDays Washington, DC 2019"
 <p>
     We invite participants from every part of our community to attend the event.
     To that end, we will offer free tickets and other acommodations to folks 
-    from under-represented areas of our community.  Contact the organizers 
+    from underrepresented areas of our community.  Contact the organizers 
     ({{< email_organizers >}}) for more information. 
 </p>
 <!-- </div> -->

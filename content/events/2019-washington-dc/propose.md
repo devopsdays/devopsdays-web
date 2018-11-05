@@ -46,7 +46,7 @@ whole room, some of whom might not use your specific tool.
 - _new presenters_: You are the only one who can tell your story. We are very 
 interested in the challenges and successes being experienced in our local area.
 We are happy to provide guidance/coaching for new speakers upon request.
-- _under-represented voices_: We want to hear all voices, including those that
+- _underrepresented voices_: We want to hear all voices, including those that
 may speak less frequently at similar events. Whether you are in a field not 
 typically thought of as a technology field, you are in a large, traditional 
 organization, or you are the only person at your organization with your 

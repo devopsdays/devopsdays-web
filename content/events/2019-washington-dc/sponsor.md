@@ -18,10 +18,10 @@ DevOpsDays on their own terms.
 
 The following chart outlines our sponsorship packages.  
 
-Sponsorships will be avialable for purchase once we have finalized a date and
+Sponsorships will be available for purchase once we have finalized a date and
 location for DevOpsDays Washington DC 2019.  In the meantime, please email the 
 organizers at {{< email_organizers >}} with any questions you may have about 
-sponsorsing the event.
+sponsoring the event.
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -210,9 +210,9 @@ sponsorship includes some special perks not listed in the table above.
 * 1 minute pitch to full audience during the conference
 * 3 minute pitch to the happy hour attendees
 
-Sponsorships will be avialable for purchase once we have finalized a date and
+Sponsorships will be available for purchase once we have finalized a date and
 location for DevOpsDays Washington DC 2019.  In the meantime, please email the 
 organizers at {{< email_organizers >}} with any questions you may have about 
-sponsorsing the event.
+sponsoring the event.
 
 <hr/>
