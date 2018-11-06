@@ -17,7 +17,12 @@ SEDCMD(){
   fi
 }
 
-default_year=$(date +"%Y")
+if [[ $(date +"%m") -ge 10 ]]; then
+  default_year=$(date -v +1y "+%Y")
+else
+  default_year=$(date +"%Y")
+fi 
+
 if [[ ! -z $DOD_YEAR ]] ; then
   year="$DOD_YEAR"
 else
