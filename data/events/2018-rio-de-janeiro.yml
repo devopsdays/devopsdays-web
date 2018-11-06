@@ -108,6 +108,8 @@ sponsors:
     level: familyops
   - id: numa
     level: familyops
+  - id: logica-mente
+    level: familyops
   - id: promove
     level: bronze    
   - id: 4linux
@@ -121,9 +123,7 @@ sponsors:
   - id: markway
     level: gold     
   - id: appdynamics
-    level: gold     
-  - id: radix
-    level: gold          
+    level: gold       
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
