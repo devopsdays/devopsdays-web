@@ -78,6 +78,10 @@ proposal_email: "proposals-seattle-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: thoughtworks-gocd
     level: gold
+  - id: influxdata
+    level: gold
+  - id: lagom-solutions
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
