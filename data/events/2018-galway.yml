@@ -184,6 +184,8 @@ sponsors:
     level: gold
   - id: 2018-ibm
     level: gold
+  - id: compustaff
+    level: lanyards
   - id: gdg-galway
     level: community
 
@@ -203,6 +205,8 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 6
+  - id: lanyards
+    label: Lanyard
   - id: community
     label: Community
 
