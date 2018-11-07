@@ -33,10 +33,10 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  # - name: location
+  - name: location
   # - name: registration
   # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -77,7 +77,7 @@ proposal_email: "proposals-geneva-2019@devopsdays.org" # Put your proposal email
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
+? sponsors
 #  - id: samplesponsorname
 #    level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -91,13 +91,19 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: event
+    label: Event
+    max: 1
   - id: gold
     label: Gold
-  #    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    # max: 0 # This is the same as omitting the max limit.
+    max: 8
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: 12
+  - id: mug
+    label: Mug
+    max: 8

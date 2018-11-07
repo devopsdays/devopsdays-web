@@ -34,7 +34,7 @@ location: "new-york-city" # Defaults to city, but you can make it the venue name
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
  # - name: registration
  # - name: program
@@ -49,25 +49,67 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Tom Limoncelli"
-  - name: "Kristen A Olah"
-  - name: "Jaclyn M Damiano"
   - name: "Sumit Agarwal"
+    role: "Co-Chair"
+    employer: "Broadridge Financial Solutions "
     image: "sumit-agarwal.jpg"
     twitter: "aga_sumit"
-  - name: "Russ Kaehler"
-  - name: "Khader Syed"
-  - name: "Jerome Moore"
   - name: "James Dadd"
-  - name: "Jay Gordon"
-  - name: "Mani Soundararajan"
-  - name: "Mark Birch"
-  - name: "Tom Reingold"
+    role: "Co-Chair"
+    employer: "fourTheorem Ltd"
+  - name: "Russ Kaehler"
+    role: "Co-Chair"
+    employer: "Verizon"
+    image: "russ-kaehler.jpg"
   - name: "Brian Kowalcyzk"
+    image: "brian-kowalcyzk.jpg"
+    role: "Co-Chair"
+    employer: "Verizon"
+    twitter: "Kowalcbt"
+    linkedin: "https://www.linkedin.com/in/brian-kowalczyk-b37a259a"
+  - name: "Khader Syed"
+    role: "Co-Chair"
+    employer: "AiCure"
+    image: "khader-syed.jpg"
+    linkedin: "https://www.linkedin.com/in/russ-kaehler-514187110"
+  - name: "Mark Birch"
+    image: "mark-birch.jpg"
+    employer: "Stack Overflow, Inc."
+    twitter: "marksbirch"
+    linkedin: "https://www.linkedin.com/in/marksbirch"
+  - name: "Jaclyn M Damiano"
+    employer: "Verizon"
+    image: "jacki-damiano.jpg"
   - name: "Ceren Ercen"
+    employer: "Grubhub/Seamless"
+    image: "ceren-ercen.jpg"
+  - name: "Jay Gordon"
+    image: "jay-gordon.jpg"
+    twitter: "jaydestro"
+    github: "jaydestro"
   - name: "Matt Kuritz"
-  - name: "Stephen Thomas"
+    image: "matt-kuritz.jpg"
+  - name: "Tom Limoncelli"
+    employer: "Stack Overflow, Inc."
+    image: "tom-limoncelli.jpg"
+    twitter: "YesThatTom"
+    github: "TomOnTime"
+  - name: "Jerome Moore"
+    employer: "WeBuildBlack"
+  - name: "Kristen A Olah"
+    employer: "Verizon"
+    image: "kristen-olah.jpg"
   - name: "Adarsh Shah"
+    image: "adarsh-shah.jpg"
+    employer: "Contino"
+    twitter: "shahadarsh"
+    linkedin: "https://www.linkedin.com/in/adarsh-shah"
+  - name: "Mani Soundararajan"
+  - name: "Tom Reingold"
+  - name: "Stephen Thomas"
+    employer: "iconectiv"
+    linkedin: "https://www.linkedin.com/in/steve-thomas-4746bb/"
+    image: "stephen-thomas.jpg"
 
 organizer_email: "organizers-new-york-city-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-new-york-city-2019@devopsdays.org" # Put your proposal email address here
@@ -86,6 +128,10 @@ sponsors:
     level: silver
   - id: instana
     level: gold
+  - id: influxdata
+    level: gold
+  - id: microsoftazure
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -182,8 +182,14 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: 2018-ibm
+    level: gold
+  - id: compustaff
+    level: lanyards
+  - id: gdg-galway
+    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -192,13 +198,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:  
   - id: gold
     label: Gold
-    max: 2
+    max: 3
   - id: silver
     label: Silver
-    max: 4
+    max: 6
   - id: bronze
     label: Bronze
     max: 6
+  - id: lanyards
+    label: Lanyard
   - id: community
     label: Community
 
@@ -407,7 +415,7 @@ ignites:
     date: 2018-11-19
   - title: "diarmuid-ohara"
     date: 2018-11-20
-  - title: "kealan-murphy"
+  - title: "noel-murphy"
     date: 2018-11-20
   - title: "paul-oconnor"
     date: 2018-11-20

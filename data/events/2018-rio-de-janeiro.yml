@@ -108,6 +108,8 @@ sponsors:
     level: familyops
   - id: numa
     level: familyops
+  - id: logica-mente
+    level: familyops
   - id: promove
     level: bronze    
   - id: 4linux
@@ -121,9 +123,7 @@ sponsors:
   - id: markway
     level: gold     
   - id: appdynamics
-    level: gold     
-  - id: radix
-    level: gold          
+    level: gold       
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
@@ -139,7 +139,7 @@ sponsors:
     level: community
   - id: womenindevops
     level: community 
-  - id: womenwhocode
+  - id: wwcoderecife
     level: community   
   - id: exin
     level: community   
@@ -270,6 +270,11 @@ program:
     date: 2018-11-09
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-11-09
+    start_time: "18:00"
+    end_time: "20:30"    
   - title: "Credenciamento e recepção"
     type: custom
     date: 2018-11-10
@@ -368,7 +373,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
     background_color: "#d1d1e0"      
-  - title: "carla-crude"
+  - title: "vanessa-almeida"
     type: talk
     date: 2018-11-10
     start_time: "15:00"
