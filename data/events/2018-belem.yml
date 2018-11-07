@@ -31,12 +31,14 @@ location_address: "Elephant Coworking - Av. Governador José Malcher, 153, Redut
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Local
     url: /events/2018-belem/local
-  - name: Palestre (CFP)
-    url: https://www.papercall.io/devopsdaysbelem
+#  - name: Palestre (CFP)
+#    url: https://www.papercall.io/devopsdaysbelem
   - name: Inscreva-se
     url: https://www.eventbrite.com.br/e/devopsdays-belem-tickets-49644894215
   - name: Programa
     url: /events/2018-belem/programa
+  - name: Palestrantes
+    url: /events/2018-belem/speakers
   - name: Patrocínio
     url: /events/2018-belem/patrocinio
   - name: Código de Conduta
@@ -190,8 +192,8 @@ program:
     date: 2018-11-24
     start_time: "14:00"
     end_time: "14:35"
-  - title: "Thomaz Leite - Otimizando Docker images com Nix"
-    type: custom
+  - title: "thomaz-leite"
+    type: talk
     date: 2018-11-24
     start_time: "14:35"
     end_time: "15:10"
@@ -207,11 +209,11 @@ program:
     end_time: "16:00"
     background_color: "#FDF2E9"
   - title: "FishBowl"
-    type: open-space
+    type: fish-bowl
     date: 2018-11-24
     start_time: "16:00"
     end_time: "17:00"
-  - title: "Keynote de Encerramento (a definir)"
+  - title: "artur-tupiassu"
     type: talk
     date: 2018-11-24
     start_time: "17:00"
