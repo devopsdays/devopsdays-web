@@ -104,7 +104,6 @@ team_members: # Name is the only required field for team members.
     employer: "Contino"
     twitter: "shahadarsh"
     linkedin: "https://www.linkedin.com/in/adarsh-shah"
-  - name: "Mani Soundararajan"
   - name: "Tom Reingold"
   - name: "Stephen Thomas"
     employer: "iconectiv"
