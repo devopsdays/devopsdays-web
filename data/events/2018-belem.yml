@@ -122,6 +122,9 @@ sponsors:
   - id: vibe
     level: platinum
 
+  - id: sql-norte
+    level: community
+
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
