@@ -60,7 +60,7 @@ team_members: # Name is the only required field for team members.
     employer: "fourTheorem Ltd"
     twitter: "jimmus69"
     github: "jimmus69"
-    linkedin: "linkedin.com/in/daddjames"
+    linkedin: "https://linkedin.com/in/daddjames"
   - name: "Russ Kaehler"
     role: "Co-Chair"
     employer: "Verizon"
