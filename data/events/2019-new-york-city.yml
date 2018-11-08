@@ -135,6 +135,8 @@ sponsors:
     level: gold
   - id: microsoftazure
     level: silver
+  - id: gitlab
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
