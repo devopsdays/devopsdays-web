@@ -108,7 +108,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ryanwetzelberger/"
     twitter: "rwetzelberger"
     website: "https://cloudnetworkjourney.com"
-    image: "ryan-wetzelberger.png"
+    image: "ryan-wetzelberger.jpg"
     
 
 organizer_email: "organizers-baltimore-2019@devopsdays.org" # Put your organizer email address here
