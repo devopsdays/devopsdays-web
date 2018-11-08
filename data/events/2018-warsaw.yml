@@ -2,6 +2,9 @@ name: "2018-warsaw" # The name of the event. Four digit year with the city name 
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Warsaw" # The city name of the event. Capitalize it.
 friendly: "2018-warsaw" # Four digit year and the city name in lower-case. Don't forget the dash!
+event_twitter: "devopsdayswaw"
+description: "DevOpsDays is returning to Warsaw, Poland!" # Edit this to suit your preferences
+
 
 startdate: 2018-11-19T00:00:00+01:00
 enddate: 2018-11-20T23:59:59+01:00
@@ -11,11 +14,16 @@ cfp_date_start: 2018-04-21T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2018-09-30T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2018-04-21T00:00:00+02:00 # inform proposers of status
 
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
 # Location
 #
 coordinates: "52.257397,21.056204" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Warsaw" # Defaults to city, but you can make it the venue name.
 #
+location_address: "Wyższa Szkoła Menedżerska. ul Kawęczyńska 36, 03-772 Warszawa" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
@@ -33,11 +41,15 @@ team_members: # Name is the only required field for team members.
   - name: Agnieszka Piwowarczyk
   - name: Janusz Kamieński
   - name: Marcin Mazurek
-  - name: Paweł Bartusch
+    twitter: "mazuchna"
+    employer: "Allegro.pl"
   - name: Maciej Lasyk
   - name: Piotr Szwed
+  - name: Andrzej Grzesik
+  - name: Rafał Małanij
+  - name: Maciej Strzelecki
   - name: Paulina Tomaszewska
-  - name: Katarzyna Ropek
+
 
 organizer_email: "organizers-warsaw-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-warsaw-2018@devopsdays.org" # Put your proposal email address here
