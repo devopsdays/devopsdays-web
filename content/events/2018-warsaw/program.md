@@ -1,6 +1,5 @@
 +++
 Title = "Program"
-Title = "program"
 Description = "Program for devopsdays Warsaw 2018"
 +++
 
