@@ -75,7 +75,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Coffee Time (not sponsored yet)!</a>
+    <a href="https://www.fiverr.com/">Coffee Time Sponsored by Fiverr!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -217,7 +217,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Coffee Time (not sponsored yet))!</a>
+    <a href="https://www.fiverr.com/">Coffee Time Sponsored by Fiverr!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
