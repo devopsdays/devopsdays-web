@@ -123,14 +123,18 @@ sponsors:
   - id: markway
     level: gold     
   - id: appdynamics
-    level: gold       
+    level: gold     
+  - id: radix
+    level: gold         
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
   - id: daitan-group
     level: silver  
   - id: sonatype
-    level: silver  
+    level: silver   
+  - id: stone-pagamentos
+    level: bronze  
   - id: alura
     level: learning    
   - id: adaptnow
