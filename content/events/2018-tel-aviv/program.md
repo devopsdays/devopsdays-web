@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/ken-mugrage">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/ken-mugrage-talk">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/ado-kukic">TBD<br/> <strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -136,7 +136,10 @@ heading = "devopsdays Tel Aviv - Program"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
-    TBD
+    <a href="/events/2018-tel-aviv/program/nati-cohen">WAT.tf  <strong>Nati Cohen</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/omer-hamerman">CI/CD doesn't necessarily mean Jenkins  <strong>Omer Hamerman</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/ran-leibman">Pcapy and dpkt - tcpdump on steroids <strong>Ran Leibman</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/gil-zellner">The unsung glory of internal tools <strong>Gil Zellner</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/phillip-krenn">workshop <br><strong>TBD</strong></a></div>
@@ -275,7 +278,10 @@ heading = "devopsdays Tel Aviv - Program"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
-    TBD
+    <a href="/events/2018-tel-aviv/program/boaz-shuster">Data Science in DevOps/SysOps  <strong>Boaz Shuster</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/ken-mugrage-ignite"> 26 Feature Branches and other tales from the wild  <strong>Ken Mugrage</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/maish-saidel">The mis-use of the Hebrew technical language שיר הפיצ'פוצ'ים <strong>Maish Saidel-Keesing</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn-ignite">Building Distributed Systems in Distributed Teams  <strong>Phillip Krenn</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
