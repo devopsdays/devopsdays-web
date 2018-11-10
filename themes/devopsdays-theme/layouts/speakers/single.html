@@ -33,25 +33,32 @@
 </div>
 
 <!-- old stuff -->
+
+
 {{- if ne ($.Scratch.Get "speakers-exist") "true" -}}
   {{ .Content }}
-
-  {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}
-    <div class="row">
-      <div class="col-md-12 col-lg-3">
-          <img alt = "{{ $s.name }}" src = "{{ (printf "events/%s/speakers/%s.jpg" $e.name $fname) | absURL }}" class="speakers-page old-speaker">
+{{- $.Scratch.Set "yeardir" (printf "data/speakers/%s/" (print (chomp $e.year))) -}}
+{{- $.Scratch.Set "citydir" (substr $e.name 5) -}}
+{{- if (where (readDir "data/speakers") "Name" (chomp $e.year)) -}}
+  {{- if (where (readDir ($.Scratch.Get "yeardir")) "Name" ($.Scratch.Get "citydir")) -}}
+    {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}
+      <div class="row">
+        <div class="col-md-12 col-lg-3">
+            <img alt = "{{ $s.name }}" src = "{{ (printf "events/%s/speakers/%s.jpg" $e.name $fname) | absURL }}" class="speakers-page old-speaker">
+        </div>
+        <div class= "col-md-12 col-lg-9 old-speaker-bio speakers-page">
+          <h3><a href="{{ (printf "events/%s/program/%s" $e.name $fname) | absURL}}">{{ $s.name }}</a></h3>
+          {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
+          {{ if $s.website }}Website: <a href="{{ $s.website }}">{{ $s.website }}</a><br>{{ end }}
+          {{ if $s.pronouns }}Pronouns: {{ $s.pronouns }}{{ end }}
+        <br>
+        {{ $s.bio | markdownify }}
+      <hr>
+        </div>
       </div>
-      <div class= "col-md-12 col-lg-9 old-speaker-bio speakers-page">
-         <h3><a href="{{ (printf "events/%s/program/%s" $e.name $fname) | absURL}}">{{ $s.name }}</a></h3>
-         {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
-         {{ if $s.website }}Website: <a href="{{ $s.website }}">{{ $s.website }}</a><br>{{ end }}
-         {{ if $s.pronouns }}Pronouns: {{ $s.pronouns }}{{ end }}
-       <br>
-       {{ $s.bio | markdownify }}
-    <hr>
-      </div>
-    </div>
 
+    {{- end -}} <!-- end ranging over old stuff-->
+  {{- end -}}
 {{- end -}}
 <style>
 img.old-speaker {
