@@ -23,25 +23,27 @@ Description = "Sponsor devopsdays Geneva 2018"
 
 We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}
 
+**See details in our [presentation slides](https://drive.google.com/file/d/1cCjPfcQCoXPZQu8m43YhwDp1KX3N-9Ui/view?usp=sharing)**.
+
 <hr>
 
-|                                                                        |     EVENT     |     GOLD      |    SILVER     |    BRONZE     |     MUG     |
-| ---------------------------------------------------------------------- | :-----------: | :-----------: | :-----------: | :-----------: | :---------: |
-|                                                                        | **9'000 CHF** | **6'000 CHF** | **3'000 CHF** | **1'500 CHF** | **500 CHF** |
-| **Number of sponsors**                                                 |       1       |       6       |       8       |      12       |      8      |
-| **Free tickets**                                                       |       4       |       4       |       2       |       1       |      0      |
-| Logo on event **website**                                              |       ✔       |       ✔       |       ✔       |       ✔       |             |
-| Logo on **shared slides**, rotating during breaks                      |               |               |       ✔       |       ✔       |             |
-| Logo on **dedicated slides**, rotating during breaks                   |       ✔       |       ✔       |               |               |             |
-| Logo on **all emails** communication                                   |       ✔       |       ✔       |       ✔       |               |             |
-| 1 Minute **pitch to full audience**                                    |       ✔       |       ✔       |               |               |             |
-| 3 Minutes **pitch during evening event**                               |       ✔       |               |               |               |             |
-| **Dedicated table** space                                              |       ✔       |       ✔       |               |               |             |
-| **Shared table** space                                                 |               |               |       ✔       |               |             |
-| Mention on **social media + Roll up + Program**                        |       ✔       |       ✔       |       ✔       |               |             |
-| **Flyer and/or sticker** (bring by the sponsor) **in the visitor bag** |       ✔       |       ✔       |       ✔       |       ✔       |             |
-| Logo **printed on visitor bag**                                        |       ✔       |       ✔       |               |               |             |
-| Logo **printed on Mug**                                                |               |               |               |               |      ✔      |
+|                                                                           |     EVENT     |     GOLD      |    SILVER     |    BRONZE     |     MUG     |
+| ------------------------------------------------------------------------- | :-----------: | :-----------: | :-----------: | :-----------: | :---------: |
+|                                                                           | **9'000 CHF** | **6'000 CHF** | **3'000 CHF** | **1'500 CHF** | **500 CHF** |
+| **Number of sponsors**                                                    |       1       |       6       |       8       |      12       |      8      |
+| **Free tickets**                                                          |       4       |       4       |       2       |       1       |      0      |
+| Logo on event **website**                                                 |       ✔       |       ✔       |       ✔       |       ✔       |             |
+| Logo on **shared slides**, displayed during breaks (rotation)             |               |               |       ✔       |       ✔       |             |
+| Logo on **dedicated slides**, displayed during breaks (rotation)          |       ✔       |       ✔       |               |               |             |
+| Logo on **all emails** communication                                      |       ✔       |       ✔       |       ✔       |               |             |
+| 1 Minute **pitch to full audience**                                       |       ✔       |       ✔       |               |               |             |
+| 3 Minutes **pitch during evening event**                                  |       ✔       |               |               |               |             |
+| **Private table** space                                                   |       ✔       |       ✔       |               |               |             |
+| **Shared table** space                                                    |               |               |       ✔       |               |             |
+| Mention on **social media + Roll up + Program**                           |       ✔       |       ✔       |       ✔       |               |             |
+| **Flyer and/or sticker** (supplied by the sponsor) **in the visitor bag** |       ✔       |       ✔       |       ✔       |       ✔       |             |
+| Logo **printed on visitor bag**                                           |       ✔       |       ✔       |               |               |             |
+| Logo **printed on Mug**                                                   |               |               |               |               |      ✔      |
 
 <!--
 <hr/>
