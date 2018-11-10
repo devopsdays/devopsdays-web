@@ -5,7 +5,6 @@ friendly: "2018-warsaw" # Four digit year and the city name in lower-case. Don't
 event_twitter: "devopsdayswaw"
 description: "DevOpsDays is returning to Warsaw, Poland!" # Edit this to suit your preferences
 
-
 startdate: 2018-11-19T00:00:00+01:00
 enddate: 2018-11-20T23:59:59+01:00
 
@@ -13,6 +12,7 @@ enddate: 2018-11-20T23:59:59+01:00
 cfp_date_start: 2018-04-21T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2018-09-30T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2018-04-21T00:00:00+02:00 # inform proposers of status
+cfp_open: "false"
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -27,11 +27,11 @@ location_address: "Wyższa Szkoła Menedżerska. ul Kawęczyńska 36, 03-772 War
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  
-#  - name: program
-  - name: propose
+  - name: program
+#  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: registration
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct

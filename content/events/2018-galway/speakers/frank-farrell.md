@@ -1,7 +1,9 @@
 +++
 Title = "Frank Farrell"
 Twitter = ""
-image = ""
+Github = "frankfarrell"
+LinkedIn = "https://www.linkedin.com/in/frank-farrell-44529a93/"
+image = "frank-farrell.png"
 type = "speaker"
 linktitle = "frank-farrell"
 
