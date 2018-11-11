@@ -1,7 +1,7 @@
 +++
 Title = "Brian Scanlan"
-Twitter = ""
-image = ""
+Twitter = "brian_scanlan"
+image = "brian-scanlan.jpg"
 type = "speaker"
 linktitle = "brian-scanlan"
 
