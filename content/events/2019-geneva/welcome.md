@@ -29,9 +29,9 @@ Les intervenants DevOpsDays Geneva présenteront non seulement des applications 
 
 **SPEAKERS** : Si vous souhaitez partager votre expérience autour du DevOps et animer l’une de nos conférences ou workshops, contactez-nous à {{< email_organizers >}}pour recevoir le dossier d’inscription des intervenants.
 
-**VISITEURS** : pour assister à ces deux journées et tout savoir sur le DevOps, vous pourrez très bientôt vous inscrire sur lien Evenbrite et bénéficier de tarifs avantageux pour les premiers inscrits !
+**VISITEURS** : pour assister à ces deux journées et tout savoir sur le DevOps, vous pouvez vous inscrire sur [cette page](https://www.eventbrite.fr/e/devopsdays-geneva-2019-tickets-51449144777) et bénéficier de tarifs avantageux pour les premiers inscrits !
 
-**La langue principale de cette conférence sera le français.**
+**Cette conférence sera en français et en anglais.**
 
 <hr/>
 
@@ -48,10 +48,9 @@ DevOpsDays Geneva speakers will present not only practical applications of the D
 
 **SPEAKERS**: If you would like to share your DevOps experience and host one of our conferences or workshops, contact us at {{< email_organizers >}} to receive the application form.
 
-**VISITORS**: To attend these two days and know everything about DevOps, please register on Eventbrite link and benefit early registration preferential rates !
-_(the Eventbrite link will be available soon)_
+**VISITORS**: To attend these two days and know everything about DevOps, please register on [this page](https://www.eventbrite.fr/e/devopsdays-geneva-2019-tickets-51449144777) and benefit early registration preferential rates !
 
-**The principal language of this conference will be French.**
+**This conference will be in French and in English.**
 
 <br />
 
@@ -77,13 +76,14 @@ _(the Eventbrite link will be available soon)_
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
+    <a href='https://www.eventbrite.fr/e/devopsdays-geneva-2019-tickets-51449144777' target='blank'>Eventbrite</a>
   </div>
-</div> -->
+</div>
 
 <!-- TOBE DEFINED
 
@@ -105,24 +105,23 @@ TOBE DEFINED -->
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
+    <a href='/events/2019-geneva/speakers/'>Want to talk ?</a>
   </div>
-</div> -->
-
-<!-- TOBE DEFINED
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
+    <a href='/events/2019-geneva/sponsor/'>We need you !</a>
   </div>
 </div>
-TOBE DEFINED -->
 
 <div class = "row">
   <div class = "col-md-2">
