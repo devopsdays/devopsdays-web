@@ -1,7 +1,7 @@
 +++
 Title = "Derek Kelly"
-Twitter = ""
-image = ""
+LinkedIn = "https://www.linkedin.com/in/derek-kelly-04356122/"
+image = "derek-kelly.jpg"
 type = "speaker"
 linktitle = "derek-kelly"
 
