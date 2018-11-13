@@ -125,6 +125,12 @@ sponsors:
   - id: sql-norte
     level: community
 
+  - id: w3as
+    level: platinum
+
+  - id: redhat
+    level: platinum
+
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
