@@ -10,7 +10,7 @@ Description = "DevOpsDays Chicago is coming back in 2019! The group that brought
 
 From fledgling startups to established industry, the Midwest is home to a large, vibrant technology community. Chicago, in particular, has been a flurry of activity in the past several years, drawing attention from around the globe.
 <br><br>
-DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2019 event will be the fifth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
+DevOpsDays Chicago brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2019 event will be the sixth time we have held DevOpsDays Chicago, and it should be bigger and better than ever before!
 <br><br>
 The format of DevOpsDays Chicago includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event.
 <div class = "row">
