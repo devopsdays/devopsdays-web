@@ -117,17 +117,6 @@ team_members: # Name is the only required field for team members.
       Center. He is interested in highly reliable and scalable systems in the cloud,
       monitoring of cloud services and constant quality improvements through
       continuous integration, continuous deployment, metrics and automation.
-  - name: "Noel Healy"
-    image: "noel-healy.jpg"
-    employer: "Cisco"
-    linkedin: "https://www.linkedin.com/in/noel-healy-5797a328"
-    bio: |
-      Noel Healy is an AWS Platform Engineer working with Cisco Systems Galway.
-      He has achieved three AWS certifications in System Operations, Development
-      and Architecture and his experience lies in infrastructure, virtualization,
-      and providing CI/CD platforms. Noel is also an organiser for the DevOps
-      Galway Meet-up. He also enjoys DIY or gardening and is a trainer with his
-      local Ladies Gaelic Football club.
   - name: "Bryan Solan"
     image: "bryan-solan.jpg"
     employer: "Aspect"
