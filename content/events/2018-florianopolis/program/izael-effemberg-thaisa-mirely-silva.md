@@ -8,7 +8,7 @@ Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""
 Slides = ""
-Speakers = ["izael-effemberg", "thais-freitas"]
+Speakers = ["izael-effemberg", "thaisa-mirely-silva"]
 +++
 
 ## Resumo
