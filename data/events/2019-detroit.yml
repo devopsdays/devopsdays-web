@@ -1,0 +1,88 @@
+name: "2019-detroit" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Detroit" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysdet"
+description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+status: "current"
+ga_tracking_id: "UA-94092408-1" # Google Analytics tracking ID
+
+# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+startdate:  #2018-10-03T00:00:00-04:00
+enddate: #2018-10-04T23:59:59-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: #2018-05-23T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: #2018-08-06T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: #2018-08-28T00:00:00-04:00 # inform proposers of status
+
+cfp_open: # "true"
+cfp_link: # "https://devopsdaysdetroit.typeform.com/to/XM3TPc" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "42.331034, -83.046382" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "A. Alfred Taubman Center for Design Education, College for Creative Studies" # The name of your location
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+#  - name: registration
+#  - name: program
+#  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Dave Barnett"
+    employer: ITHAKA
+  - name: "Archie Cowan"
+    employer: ITHAKA
+    twitter: archiecowan
+  - name: "Allison Green"
+  - name: "Shelby Hebel"
+    employer: Quicken Loans
+  - name: "Blair Hicks"
+    employer: Cisco
+    twitter: tuxdbird
+  - name: "Mario Loria"
+    employer: orchestructure.io
+    twitter: marioploria
+  - name: "Aaron Maturen"
+    employer: Cengage
+    twitter: atmaturen
+
+organizer_email: "organizers-detroit-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-detroit-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+# sponsor_levels:
+#   - id: gold
+#     label: gold
+#     max: 8
+#   - id: av
+#     label: av
+#     max: 1
+
+program:
+
+ignites:
+  
