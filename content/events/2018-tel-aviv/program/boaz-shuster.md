@@ -7,8 +7,5 @@ Type = "talk"
 Speakers = ["boaz-shuster"]
 +++
 
-I’ve barely seen anyone doing “data-science” on CI/CD. I have seen companies that give log collecting platform with a nice “insight” features but none of them are what I need when I am working on CI/CD.
-
-In this talk I will do my best to demonstrate what else can we do with data to improve CI/CD
-
-
+I will explain how collecting data from your continuous integration and delivery environments can help improve production releases.
+This talk is inspired by my previous job where I had the chance to boost the release pipeline using metrics and data.
