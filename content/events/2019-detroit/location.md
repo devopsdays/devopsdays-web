@@ -1,7 +1,7 @@
 +++
-date = "2016-12-11T14:38:53-05:00"
-title = "location"
-type = "event"
+Title = "Location"
+Type = "event"
+Description = "Location for devopsdays Detroit 2019"
 +++
 
 
