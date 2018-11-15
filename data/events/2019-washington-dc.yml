@@ -273,13 +273,13 @@ team_members: # Name is the only required field for team members.
 
   - name: "Shawn Wells"
     employer: "Red Hat"
-    twitter: ""
+    twitter: "@shawndwells"
     bio: ""
-    image: ""
-    github: ""
+    image: "shawn-wells.jpg"
+    github: "https://github.com/shawndwells"
     facebook: ""
-    linkedin: ""
-    website: ""
+    linkedin: "https://www.linkedin.com/in/shawndwells/"
+    website: "https://medium.com/shawndwells"
 
 
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
