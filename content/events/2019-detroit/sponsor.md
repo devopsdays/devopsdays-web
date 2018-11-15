@@ -1,10 +1,9 @@
 +++
-date = "2016-12-11T14:38:53-05:00"
-title = "sponsor"
-type = "event"
-
-
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor devopsdays Detroit 2019"
 +++
+
 
 <h3>About</h3>
 <p>
