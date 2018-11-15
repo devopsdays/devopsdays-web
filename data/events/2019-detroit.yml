@@ -3,10 +3,9 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Detroit" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdet"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
-status: "current"
 ga_tracking_id: "UA-94092408-1" # Google Analytics tracking ID
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate:  #2018-10-03T00:00:00-04:00
 enddate: #2018-10-04T23:59:59-04:00
 
