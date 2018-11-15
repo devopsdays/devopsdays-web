@@ -22,5 +22,5 @@ variety of products and services offered by sponsors, but sponsors also get the 
 a friendly environment. DevOpsDays 2018 attracted over 300 attendees, a 20% increase from the previous year. 
 </p>
 <h3>Contact</h3>
-<p>General inquiries and sponorships:  [{{< email_organizers >}}]</p>
+<p>General inquiries and sponsorships:  [{{< email_organizers >}}]</p>
 <hr>
