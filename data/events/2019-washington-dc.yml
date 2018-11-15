@@ -79,9 +79,9 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Trevor Bryant"
-    employer: "ValidaTek, Inc"
+    employer: "Epigen Technology"
     twitter: "apporima"
-    bio: "Cybersecurity Engineer"
+    bio: "Senior Security Architect"
     github: "https://github.com/trevorbryant"
     facebook: ""
     website: "https://keybase.io/trevorbryant"
