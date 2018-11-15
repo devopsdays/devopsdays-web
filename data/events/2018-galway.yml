@@ -183,6 +183,8 @@ sponsors:
     level: community
   - id: coding-grace
     level: community
+  - id: devops-galway
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
