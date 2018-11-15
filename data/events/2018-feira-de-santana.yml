@@ -28,12 +28,13 @@ registration_link: "https://devopsdaysfsa.eventize.com.br/" # If you have a cust
 coordinates: "-12.260625, -38.945680" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Feira de Santana" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "UNIFACS Campus Santa Mônica Rua Rio Tinto, 152 - Santa Mônica - Feira de Santana - BA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
+    url: "http://devopsdaysfsa.eventize.com.br"
  # - name: program
  # - name: speakers
   - name: sponsor
