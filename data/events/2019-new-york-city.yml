@@ -28,14 +28,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "new-york-city" # Defaults to city, but you can make it the venue name.
+coordinates: "40.757922, -73.986261" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Viacom" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1515 Broadway, New York, NY 10036" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -139,6 +139,8 @@ sponsors:
     level: silver
   - id: newrelic
     level: gold
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -159,5 +161,14 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+  - id: registration
+    label: Registration
+    max: 1
+  - id: social
+    label: Evening Social
+    max: 1
+  - id: captioning
+    label: Live Captioning
+    max: 1
   - id: community
     label: Community
