@@ -118,7 +118,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Greg Elin"
     employer: "GovReady PBC"
-    twitter: "@gregelin"
+    twitter: "gregelin"
     bio: ""
     github: "gregelin"
     facebook: ""
@@ -253,13 +253,13 @@ team_members: # Name is the only required field for team members.
 
   - name: "Derek Weeks"
     employer: "Sonatype"
-    twitter: ""
+    twitter: "weekstweets"
     bio: ""
     image: ""
     github: ""
     facebook: ""
-    linkedin: ""
-    website: ""
+    linkedin: "https://www.linkedin.com/in/derekeweeks/"
+    website: "http://www.sonatype.com/"
 
   - name: "Bill Weiss"
     employer: "Rally Health"
