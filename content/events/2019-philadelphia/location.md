@@ -1,7 +1,6 @@
 +++
 City = "Philadelphia"
 Year = "2019"
-date = "2019-02-28"
 title = "location"
 type = "event"
 
