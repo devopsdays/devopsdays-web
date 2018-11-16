@@ -66,7 +66,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/stephen-nelson-smith">Keynote 2: <strong>Stephen Nelson-Smith</strong> - TBD</a>
+    <a href="/events/2018-tel-aviv/program/adi-shacham-shavit">Keynote 2: <strong>Adi Shacham Shavit</strong> TBD</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -208,7 +208,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/adi-shacham-shavit">Keynote 2: <strong>Adi Shacham Shavit</strong> TBD</a>
+    <a href="/events/2018-tel-aviv/program/stephen-nelson-smith">Keynote 2: <strong>Stephen Nelson-Smith</strong> - TBD</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
