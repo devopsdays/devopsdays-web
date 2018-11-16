@@ -49,7 +49,7 @@ team_members: # Name is the only required field for team members.
   - name: "Holly Bazemore"
     employer: "Amazon Web Services"
     twitter: "https://twitter.com/hfbazemore"
-    bio: ""
+    bio: "Holly Bazemore leads the AWS Artificial Intelligence and Machine Learning team for government regions. Her team focuses on customer experience, deployments, new feature creation and operations for services like SageMaker and Rekognition.  Holly has over 20 years of technology operations, project management, communications and leadership experience and aims to empower and delight her customers through technology. She is a passionate DevOps advocate and experienced practitioner."
     image: "holly-bazemore.jpg"
     github: ""
     facebook: ""
