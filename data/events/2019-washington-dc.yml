@@ -117,13 +117,13 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Greg Elin"
-    employer: "gregelin"
-    twitter: "GovReady"
+    employer: "GovReady PBC"
+    twitter: "@gregelin"
     bio: ""
-    github: ""
+    github: "gregelin"
     facebook: ""
-    website: ""
-    linkedin: ""
+    website: "http://govready.com"
+    linkedin: "https://www.linkedin.com/in/greg-elin-b8885b4/"
 
   - name: "Sam Freund"
     employer: "Rally Health"
