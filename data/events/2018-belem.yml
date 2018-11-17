@@ -72,7 +72,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Thiago Soares"
     employer: "Prodepa"
-    image: "thiago-soares.png"
+    image: "thiago-soares.jpg"
     twitter: "thiagosoaresjr"
     github: "thiagosoares"
     linkedin: "https://www.linkedin.com/in/thiagofsoares/"
