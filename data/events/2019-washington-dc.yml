@@ -156,13 +156,13 @@ team_members: # Name is the only required field for team members.
     website: ""
 
   - name: "David Hodge"
-    employer: ""
-    twitter: ""
+    employer: "Independent"
+    twitter: "davezen1"
     bio: ""
-    image: ""
-    github: ""
+    image: "david-hodge.jpg"
+    github: "davezen1"
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/davidyuctanhodge/"
     website: ""
 
   - name: "Robb Kidd"
