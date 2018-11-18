@@ -1,5 +1,23 @@
 # Change Log
 
+## [1.24.1](https://github.com/devopsdays/devopsdays-theme/tree/1.24.1) (2018-11-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.24.0...1.24.1)
+
+**Closed issues:**
+
+- one-day events being listed incorrectly in front-page sidebar [\#676](https://github.com/devopsdays/devopsdays-theme/issues/676)
+
+## [1.24.0](https://github.com/devopsdays/devopsdays-theme/tree/1.24.0) (2018-11-10)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.23.1...1.24.0)
+
+**Implemented enhancements:**
+
+- Add "Deploys by Netlify" badge to footer [\#669](https://github.com/devopsdays/devopsdays-theme/issues/669)
+
+**Fixed bugs:**
+
+- Speaker page template errors if there are no speakers [\#673](https://github.com/devopsdays/devopsdays-theme/issues/673)
+
 ## [1.23.1](https://github.com/devopsdays/devopsdays-theme/tree/1.23.1) (2018-10-15)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.23.0...1.23.1)
 

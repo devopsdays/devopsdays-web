@@ -102,6 +102,10 @@ sponsors:
   - id: teksystems
     level: bronze
     twitter: teksystems
+  - id: reactiveops
+    level: bronze
+  - id: stratusgrid
+    level: bronze
   - id: crysdesigns
     level: community
 
@@ -122,6 +126,7 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
+    max: 7
   - id: silver
     label: Silver
   - id: bronze
@@ -210,6 +215,11 @@ program:
     date: 2018-11-13T00:00:00-05:00
     start_time: "14:35"
     end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:10"
+    end_time: "15:25"
   - title: "chris-rimondi"
     type: talk
     date: 2018-11-13T00:00:00-05:00

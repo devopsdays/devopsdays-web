@@ -31,7 +31,7 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Tel Aviv Convention Center, 101 Rokach Blvd" 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- - name: propose
+# - name: propose
  - name: location
  - name: registration
  - name: program
@@ -107,6 +107,9 @@ sponsors:
     level: day2happyhour
   - id: facebook
     level: silver
+  - id: fiverr
+    level: coffee
+    url: https://www.fiverr.com/jobs/offices/tlv
   - id: elastic
     level: silver
   - id: yotpo
@@ -151,9 +154,9 @@ sponsor_levels:
   # - id: day2breakfast
   #   label: day 2 breakfast
   #   max: 1
-  # - id: coffee
-  #   label: coffee
-  #   max: 1
+  - id: coffee
+    label: coffee
+    max: 1
   - id: day1happyhour
     label: Day 1 HappyHour
     max: 1

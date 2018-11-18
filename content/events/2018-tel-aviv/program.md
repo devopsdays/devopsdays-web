@@ -75,7 +75,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Coffee Time (not sponsored yet)!</a>
+    <a href="https://www.fiverr.com/">Coffee Time Sponsored by Fiverr!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -98,7 +98,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:40-12:20</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/ken-mugrage">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/ken-mugrage-talk">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/ado-kukic">TBD<br/> <strong>TBD</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -136,7 +136,10 @@ heading = "devopsdays Tel Aviv - Program"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
-    TBD
+    <a href="/events/2018-tel-aviv/program/nati-cohen">WAT.tf  <strong>Nati Cohen</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/omer-hamerman">CI/CD doesn't necessarily mean Jenkins  <strong>Omer Hamerman</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/ran-leibman">Pcapy and dpkt - tcpdump on steroids <strong>Ran Leibman</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/gil-zellner">The unsung glory of internal tools <strong>Gil Zellner</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/phillip-krenn">workshop <br><strong>TBD</strong></a></div>
@@ -214,7 +217,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:50-11:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Coffee Time (not sponsored yet))!</a>
+    <a href="https://www.fiverr.com/">Coffee Time Sponsored by Fiverr!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -223,7 +226,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/sabine-wojcieszak">TBD <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/sabine-wojcieszak">Culture eats improvement before breakfast  <br><strong>Sabine Wojcieszak</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -243,7 +246,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/avi-kivity">How to write a database <br><strong>Avi Kivity</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/debbie-levitt">DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/debbie-levitt">(continued) DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -275,7 +278,10 @@ heading = "devopsdays Tel Aviv - Program"
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
-    TBD
+    <a href="/events/2018-tel-aviv/program/boaz-shuster">Data Science in DevOps/SysOps  <strong>Boaz Shuster</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/ken-mugrage-ignite"> 26 Feature Branches and other tales from the wild  <strong>Ken Mugrage</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/maish-saidel">The mis-use of the Hebrew technical language שיר הפיצ'פוצ'ים <strong>Maish Saidel-Keesing</strong></a><br/>
+    <a href="/events/2018-tel-aviv/program/phillip-krenn-ignite">Building Distributed Systems in Distributed Teams  <strong>Phillip Krenn</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>

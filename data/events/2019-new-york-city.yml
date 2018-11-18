@@ -135,6 +135,12 @@ sponsors:
     level: gold
   - id: microsoftazure
     level: silver
+  - id: gitlab
+    level: silver
+  - id: newrelic
+    level: gold
+  - id: pagerduty
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -155,5 +161,14 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+  - id: registration
+    label: Registration
+    max: 1
+  - id: social
+    label: Evening Social
+    max: 1
+  - id: captioning
+    label: Live Captioning
+    max: 1
   - id: community
     label: Community
