@@ -57,7 +57,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/amir-shevat">Keynote: <strong>Amir Shevat</strong> - TBD</a>
+    <a href="/events/2018-tel-aviv/program/jono-bacon">Keynote: <strong>Jono Bacon</strong> TBD</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -66,7 +66,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/stephen-nelson-smith">Keynote 2: <strong>Stephen Nelson-Smith</strong> - TBD</a>
+    <a href="/events/2018-tel-aviv/program/adi-shacham-shavit">Keynote 2: <strong>Adi Shacham Shavit</strong> How to design your team for scale</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -100,7 +100,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/events/2018-tel-aviv/program/ken-mugrage-talk">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2018-tel-aviv/program/ado-kukic">TBD<br/> <strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/bobby-johnson">Papers Please! A Non-Dystopian Look at Modern Authentication<br/> <strong>Bobby Johnson</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/nitzan-shapira">How to handle errors and retries in a stateless environment<br/> <strong>Nitzan Shapira</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
@@ -199,7 +199,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/jono-bacon">Keynote: <strong>Jono Bacon</strong> TBD</a>
+    <a href="/events/2018-tel-aviv/program/amir-shevat">Keynote: <strong>Amir Shevat</strong> TBD</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -208,7 +208,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>10:00-10:50</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/adi-shacham-shavit">Keynote 2: <strong>Adi Shacham Shavit</strong> TBD</a>
+    <a href="/events/2018-tel-aviv/program/stephen-nelson-smith">Keynote 2: <strong>Stephen Nelson-Smith</strong> 16 Guidelines for a Happy Life: Applying an Ancient Tibetan Text to the World of Work</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -269,7 +269,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/elena-levi">Charts and visual lies <br><strong>Elena Levi</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-weiss">Introduction to Monitoring and Instrumentation with Prometheus <br><strong>Anton Weiss</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -284,7 +284,7 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2018-tel-aviv/program/phillip-krenn-ignite">Building Distributed Systems in Distributed Teams  <strong>Phillip Krenn</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-weiss">(continued) Introduction to Monitoring and Instrumentation with Prometheus <br><strong>Anton Weiss</strong></a></div>
 </div> <!-- end timeslot div -->
 
 <div class = "row">
@@ -298,7 +298,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-weiss">(continued) Introduction to Monitoring and Instrumentation with Prometheus <br><strong>Anton Weiss</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
