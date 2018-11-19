@@ -29,7 +29,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "40.757933 -73.986429" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Viacom, 1515 Broadway, New York, NY 10036" # Defaults to city, but you can make it the venue name.
+location: "Viacom" # Defaults to city, but you can make it the venue name.
 #
 location_address: "1515 Broadway, New York, NY 10036" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
