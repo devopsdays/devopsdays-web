@@ -183,6 +183,8 @@ sponsors:
     level: community
   - id: coding-grace
     level: community
+  - id: devops-galway
+    level: community
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -300,7 +302,7 @@ program:
     start_time: "17:45"
     end_time: "18:00"
 
-  - title: "Evening Event - Networking ChillOps"
+  - title: "Evening Event - Networking ChillOps @ An Púcán (Forster Street)"
     type: custom
     date: 2018-11-19
     start_time: "20:00"

@@ -53,12 +53,11 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
         </td>
-        <td style="padding: 0px 10px 0px 10px">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="K4WESGZ8HBES6">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        <td width="125px" style="padding: 0px 10px 0px 10px">
+          <a class="btn btn-success btn-sm" href="mailto:organizers-new-york-city-2019@devopsdays.org?subject=Gold%20Sponsorship%20Enquiry">
+          Still Available,
+          <br/> 
+          email the organizers</a>
           </form>
         </td>
       </tr>  

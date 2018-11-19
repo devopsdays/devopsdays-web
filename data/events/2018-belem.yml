@@ -52,37 +52,43 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Paulo Igor"
     employer: "Idopter Labs"
+    image: "paulo-igor.jpg"
     twitter: "pigodinho"
+    github: "pigor"
     linkedin: "https://www.linkedin.com/in/pigodinho/"
 
-  - name: "Erysson Souza"
-    employer: "OmnesCoin"
-    twitter: "eryssonsouza"
-    linkedin: "https://www.linkedin.com/in/eryssonbarros/"
+  - name: "Felipe Iketani"
+    employer: "Gistia Labs"
+    image: "felipe-iketani.jpg"
+    twitter: "felipe_ik"
+    github: "felipeik"
+    linkedin: "https://www.linkedin.com/in/felipe-iketani-a8a10326/"
 
   - name: "Fábio Figueiredo"
     employer: "SESI/SENAI"
+    image: "fabio-figueiredo.jpg"
     twitter: "fabiolimaf"
     linkedin: "https://www.linkedin.com/in/fabiolimaf/"
 
   - name: "Thiago Soares"
     employer: "Prodepa"
+    image: "thiago-soares.jpg"
     twitter: "thiagosoaresjr"
+    github: "thiagosoares"
     linkedin: "https://www.linkedin.com/in/thiagofsoares/"
-
-  - name: "Caio Bentes"
-    employer: "Solus Tecnologia"
-    twitter: "CaioMachida"
-    linkedin: "https://br.linkedin.com/in/caiosbentes"
 
   - name: "Evandro Paes"
     employer: "Prodepa"
+    image: "evandro-paes.jpg"
     twitter: "evandro_paes"
+    linkedin: "https://www.linkedin.com/in/evandrompaes/"
     website: "http://www.evandropaes.com"
 
   - name: "Luiz Sanches"
-    employer: "Nomade Tecnologia"
+    employer: "Nômade Tecnologia"
+    image: "luiz-sanches.jpg"
     twitter: "luizsanxes"
+    github: "luizsanches"
     linkedin: "https://www.linkedin.com/in/lsanches/"
 
 organizer_email: "devopsdays@tasafo.org" # Put your organizer email address here
@@ -129,6 +135,12 @@ sponsors:
     level: platinum
 
   - id: redhat
+    level: platinum
+
+  - id: techlead
+    level: platinum
+
+  - id: dynatrace
     level: platinum
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link

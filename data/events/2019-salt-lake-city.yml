@@ -10,12 +10,12 @@ startdate: 2019-05-14T08:00:00-06:00 # The start date of your event. Leave blank
 enddate: 2019-05-15T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-11-15T07:01:00-06:00  # start accepting talk proposals.
+cfp_date_end: 2019-01-07T07:01:00-06:00 # close your call for proposals.
+cfp_date_announce:  2018-11-15T07:01:00-06:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/slcdod2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -33,7 +33,7 @@ location_address: "322 11000 S, South Jordan, UT 84095" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: slcdevopsdays.org
     url: https://www.slcdevopsdays.org
- # - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  # - name: program
