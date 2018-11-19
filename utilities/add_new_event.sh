@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 set -e
 
 cd `dirname ${0}`
@@ -18,7 +19,8 @@ SEDCMD(){
 }
 
 if [[ $(date +"%m") -ge 10 ]]; then
-  default_year=$(date -v +1y "+%Y")
+#  default_year=$(date -v +1y "+%Y")
+  default_year=$(echo $(echo `date +"%Y"` + 1) | bc)
 else
   default_year=$(date +"%Y")
 fi 
