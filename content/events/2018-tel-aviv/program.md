@@ -269,7 +269,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/elena-levi">Charts and visual lies <br><strong>Elena Levi</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-weiss">Introduction to Monitoring and Instrumentation with Prometheus <br><strong>Anton Weiss</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
@@ -284,7 +284,7 @@ heading = "devopsdays Tel Aviv - Program"
     <a href="/events/2018-tel-aviv/program/phillip-krenn-ignite">Building Distributed Systems in Distributed Teams  <strong>Phillip Krenn</strong> </a><br/>
     </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-weiss">(continued) Introduction to Monitoring and Instrumentation with Prometheus <br><strong>Anton Weiss</strong></a></div>
 </div> <!-- end timeslot div -->
 
 <div class = "row">
@@ -298,7 +298,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
-    <a href="/events/2018-tel-aviv/program/omri-bahumi">workshop <br><strong>TBD</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-weiss">(continued) Introduction to Monitoring and Instrumentation with Prometheus <br><strong>Anton Weiss</strong></a></div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
