@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevOps ICU: Improving DevOps Results by (Correctly) Integrating UX"
+Title = "Workshop: DevOps ICU: Improving DevOps Results by (Correctly) Integrating UX"
 Type = "talk"
 Speakers = ["debbie-levitt"]
 +++
