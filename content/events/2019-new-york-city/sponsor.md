@@ -54,10 +54,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
           </form>
         </td>
         <td width="125px" style="padding: 0px 10px 0px 10px">
-          <a class="btn btn-success btn-sm" href="mailto:organizers-new-york-city-2019@devopsdays.org?subject=Gold%20Sponsorship%20Enquiry">
-          Still Available,
-          <br/> 
-          email the organizers</a>
+          <a class="btn btn-success btn-sm" href="mailto:organizers-new-york-city-2019@devopsdays.org?subject=Gold%20Sponsorship%20Enquiry">Available. Please email us.</a>
           </form>
         </td>
       </tr>  
