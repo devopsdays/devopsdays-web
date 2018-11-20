@@ -199,7 +199,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/amir-shevat">Keynote: <strong>Amir Shevat</strong> TBD</a>
+    <a href="/events/2018-tel-aviv/program/amir-shevat">Keynote: <strong>Amir Shevat</strong> 10 secrets from Amazon and Google to make your company awesome</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
