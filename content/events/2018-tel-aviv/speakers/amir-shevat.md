@@ -1,7 +1,7 @@
 +++
 Title = "Amir Shevat"
 #Twitter = ""
-image = "amir_shevat.jpg"
+image = "amir-shevat.jpg"
 type = "speaker"
 linktitle = "amir-shevat"
 +++
