@@ -62,7 +62,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jrnmagalhaes/"
 
   - name: "Francisco Santos"
-    employer: "Blive"
+    employer: "Bliive"
     twitter: "cbo317110"
     github: "cbo317110"
     linkedin: "https://www.linkedin.com/in/francisco-santos-820535148/"
