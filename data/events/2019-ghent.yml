@@ -4,6 +4,7 @@ city: "Ghent" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming BACK to Ghent!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Ghent"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
