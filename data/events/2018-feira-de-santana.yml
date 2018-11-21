@@ -71,7 +71,7 @@ team_members: # Name is the only required field for team members.
     employer: "AdMobilize"
     twitter: "di3goleite"
     github: "di3goleite"
-    website: "https://di3goleite.github.io"
+    website: "https://di3goleite.xyz/"
     linkedin: "https://www.linkedin.com/in/di3goleite/"
 
   - name: "Júnior Mascarenhas"
