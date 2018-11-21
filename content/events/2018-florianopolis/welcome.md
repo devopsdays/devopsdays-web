@@ -52,7 +52,7 @@ Description = "devopsdays 2018"
     <strong>Programação</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="program" text="Veja a nossa progamação." >}}
+    {{< event_link page="program" text="Veja a nossa programação." >}}
   </div>
 </div>
 
