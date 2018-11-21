@@ -56,7 +56,7 @@ team_members: # Name is the only required field for team members.
   - name: "Stefan Goethals"
     twitter: "zipkid"
   - name: "Yves Hanoulle"
-  - name: "YvesHanoulle"
+    twitter: "YvesHanoulle"
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
   - name: "Yvo van Doorn"
