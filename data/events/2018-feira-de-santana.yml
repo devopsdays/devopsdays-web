@@ -61,11 +61,17 @@ team_members: # Name is the only required field for team members.
     website: "https://jrnmagalhaes.github.io"
     linkedin: "https://www.linkedin.com/in/jrnmagalhaes/"
 
+  - name: "Francisco Santos"
+    employer: "Bliive"
+    twitter: "cbo317110"
+    github: "cbo317110"
+    linkedin: "https://www.linkedin.com/in/francisco-santos-820535148/"
+
   - name: "Diego Leite"
     employer: "AdMobilize"
     twitter: "di3goleite"
     github: "di3goleite"
-    website: "https://di3goleite.github.io"
+    website: "https://di3goleite.xyz/"
     linkedin: "https://www.linkedin.com/in/di3goleite/"
 
   - name: "Júnior Mascarenhas"
