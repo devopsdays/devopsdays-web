@@ -48,41 +48,34 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Manuel Pais" 
     employer: "Independent"
-    bio:
+    bio: "Manuel Pais is an independent DevOps and Continuous Delivery Consultant, focused on teams and flow. Manuel helps organizations adopting DevOps and Continuous Delivery (both from technical and human perspectives) via strategic assessments, practical workshops and technical coaching. He's also the DevOps lead for InfoQ. Tweets @manupaisable. Blogs https://medium.com/@manupaisable. Manuel is co-author of a book on 'Software Releasability (http://releasabilitybook.com)' and another on 'Team Topologies(http://teamtopologies.com)'."
     linkedin: "https://www.linkedin.com/in/manuelpais/"
     twitter: "manupaisable"
     github: "manupaisable"
     website: "https://www.manuelpais.net/"
-    image:
+    image: manuel-pais.jpg
   - name: "Eduardo Piairo"
     employer: "Natixis"
-    bio:
+    bio: "Deployment pipeline craftsman always ready to learn new ways to implement Source Control, Continuous Integration and Continuous Delivery for databases, applications and infrastructure. The deployment pipeline it's my favorite technical and cultural tool. DevOps Whisperer with automation, collaboration and communication as priorities. Background as database administrator with special interest in database changes management and data modeling."
     linkedin: "linkedin.com/in/eduardopiairo"
     twitter: "EdPiairo"
     github: "eduardopiairo"
     website: "https://www.eduardopiairo.com/"
-    image:
+    image: eduardo-piairo.jpg
   - name: "Miguel Alho"
     employer: "FARO Technologies"
-    bio:
-    linkedin:
+    bio: "Full-time, 14-years-in-the-making, software engineer with a DevOps and Craftsmanship mindset. Previously, I worked mainly as a dev freelancer, but also as a consultant, school teacher, media producer and project manager. I'm a very big fan of TDD as a development practice, very fond of microservices, of automating as much as possible in the dev, build and deploy pipeline, but also in finding ways to augment individual and team learning experiences."
+    linkedin: "https://www.linkedin.com/in/miguel-alho-9982331/"
     twitter: "MytyMyky"
     github: "MiguelAlho"
-    website:
-    image:
+    website: "http://www.miguelalho.pt"
+    image: miguel-alho.jpg
   - name: "Marta Torneiro"
     employer: "Blip - Paddy Power Betfair"
     bio:
     linkedin: "https://www.linkedin.com/in/martatorneiro"
     twitter:
     github:
-    website:
-    image: 
-  - name: "Urbano Freitas"
-    employer: "OutSystems"
-    linkedin: "https://www.linkedin.com/in/urbanofreitas/"
-    twitter: "UrbanoFreitas1"
-    github: "urbanofreitas"
     website:
     image:
   - name: "Cristina Rebelo"
@@ -119,7 +112,7 @@ team_members: # Name is the only required field for team members.
     twitter: "mccricardo"
     github: "mccricardo"
     website:
-    image:
+    image: ricardo-castro.jpg
   - name: "João Miranda"
     employer: "BPI"
     linkedin: "https://www.linkedin.com/in/jhosm/"
@@ -133,7 +126,7 @@ team_members: # Name is the only required field for team members.
     twitter: "elisetedcruz"
     github:
     website:
-    image:
+    image: elisete-cruz.jpg
 
 organizer_email: "organizers-portugal-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal email address here
