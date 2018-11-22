@@ -13,12 +13,12 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 <table border="1" width="100%" style="padding: 5px; border-collapse: collapse; border: 1px solid black;">
   <tr>
     <th></th>
-    <th><center><b><u>Platin (Entrance)<br /></center></b></th>
-    <th><center><b><u>Platin (Coffee)<br /></center></b></th>
-    <th><center><b><u>Platin (Planet)<br /></center></b></th>
-    <th><center><b><u>Gold<br/></u></center></b></th>
+    <th><center><b><u>Bronze<br/></u></center></b></th>
     <th><center><b><u>Silver<br/></u></center></b></th>
-    <th><center><b><u>Bronze<br/>1'500.- CHF</u></center></b></th>
+    <th><center><b><u>Gold<br/></u></center></b></th>
+    <th><center><b><u>Planet<br/></center></b></th>
+    <th><center><b><u>Coffee<br/></center></b></th>
+    <th><center><b><u>Entrance<br/></center></b></th>
   </tr>
 
   <tr>
@@ -27,15 +27,12 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
    <td><center>unlimited</center></td>
     <td><center>8</center></td>
     <td><center>1</center></td>
-
-<td><center>1</center></td>
-
-<td><center>1</center></td>
-
-</tr>
+    <td><center>1</center></td>
+    <td><center>1</center></td>
+  </tr>
 
   <tr>
-    <td><b>Mentioning on (Social) Media <a href="https://twitter.com/DevOpsZH">Twitter</a>,<a href="https://www.linkedin.com/company/devopsdays-zurich">LinkedIn</a>, Mails</b></td>
+    <td>Mentioning on (Social) Media</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -45,7 +42,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Mentioning on Website <a href="https://www.devopsdays.org/events/2019-zurich/welcome/">Sponsorship page</a></td>
+    <td>Mentioning on Website</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -65,12 +62,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Mentioning On-Site<br>
-        <ol>
-            <li type="square">
-                Posters/Banners
-            </li>
-        </ol>
+    <td>Mentioning on Slides during Break<br>
     </td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -81,7 +73,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at Evening Event<br>(Banner, ...)</td>
+    <td>Logo at Evening Event</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -91,7 +83,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at Coffee Lounge<br>(Banner, …)</td>
+    <td>Logo at Coffee Lounge</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -101,7 +93,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at ???<br>(Banner, …)</td>
+    <td>Logo in Main Hall</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -111,7 +103,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Mentioning in Live Stream/Recordings (Ads) before Keynotes (Possible? t.b.d.)</td>
+    <td>Mentioning in Live Streaming</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -121,7 +113,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>1min Pitch on stage<br>(before Ignites)</td>
+    <td>1 min Pitch on Stage</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -141,8 +133,8 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-   <td>Booth size (m³)</td>
-    <td>&nbsp;</td>
+   <td>Booth size (m²)</td>
+    <td>no booth</td>
     <td>10</td>
     <td>20</td>
     <td>40</td>
@@ -152,12 +144,12 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 
   <tr>
     <td>Price (CHF) (w/o VAT)</td>
-    <td>2.500</td>
-    <td>5.000</td>
-    <td>10.000</td>
-    <td>20.000</td>
-    <td>20.000</td>
-    <td>20.000</td>
+    <td>2'500.-</td>
+    <td>5'000.-</td>
+    <td>10'000.-</td>
+    <td>20'000.-</td>
+    <td>20'000.-</td>
+    <td>20'000.-</td>
  </tr>
 </table>
 
