@@ -13,12 +13,12 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 <table border="1" width="100%" style="padding: 5px; border-collapse: collapse; border: 1px solid black;">
   <tr>
     <th></th>
+    <th><center><b><u>Bronze<br/></u></center></b></th>
+    <th><center><b><u>Silver<br/></u></center></b></th>
+    <th><center><b><u>Gold<br/></u></center></b></th>
     <th><center><b><u>Platin (Entrance)<br /></center></b></th>
     <th><center><b><u>Platin (Coffee)<br /></center></b></th>
     <th><center><b><u>Platin (Planet)<br /></center></b></th>
-    <th><center><b><u>Gold<br/></u></center></b></th>
-    <th><center><b><u>Silver<br/></u></center></b></th>
-    <th><center><b><u>Bronze<br/>1'500.- CHF</u></center></b></th>
   </tr>
 
   <tr>
