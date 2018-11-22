@@ -147,12 +147,12 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 
   <tr>
     <td>Price (CHF) (w/o VAT)</td>
-    <td>2.500</td>
-    <td>5.000</td>
-    <td>10.000</td>
-    <td>20.000</td>
-    <td>20.000</td>
-    <td>20.000</td>
+    <td>2'500.-</td>
+    <td>5'000.-</td>
+    <td>10'000.-</td>
+    <td>20'000.-</td>
+    <td>20'000.-</td>
+    <td>20'000.-</td>
  </tr>
 </table>
 
