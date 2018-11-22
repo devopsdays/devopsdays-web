@@ -16,9 +16,9 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
     <th><center><b><u>Bronze<br/></u></center></b></th>
     <th><center><b><u>Silver<br/></u></center></b></th>
     <th><center><b><u>Gold<br/></u></center></b></th>
-    <th><center><b><u>Platin (Entrance)<br /></center></b></th>
-    <th><center><b><u>Platin (Coffee)<br /></center></b></th>
-    <th><center><b><u>Platin (Planet)<br /></center></b></th>
+    <th><center><b><u>Platin (Planet)<br/></center></b></th>
+    <th><center><b><u>Platin (Coffee)<br/></center></b></th>
+    <th><center><b><u>Platin (Entrance)<br/></center></b></th>
   </tr>
 
   <tr>
