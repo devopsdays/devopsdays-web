@@ -35,7 +35,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 </tr>
 
   <tr>
-    <td><b>Mentioning on (Social) Media <a href="https://twitter.com/DevOpsZH">Twitter</a>,<a href="https://www.linkedin.com/company/devopsdays-zurich">LinkedIn</a>, Mails</b></td>
+    <td><b>Mentioning on (Social) Media</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -45,7 +45,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Mentioning on Website <a href="https://www.devopsdays.org/events/2019-zurich/welcome/">Sponsorship page</a></td>
+    <td>Mentioning on Website</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -65,12 +65,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Mentioning On-Site<br>
-        <ol>
-            <li type="square">
-                Posters/Banners
-            </li>
-        </ol>
+    <td>Mentioning on Slides during Break<br>
     </td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -81,7 +76,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at Evening Event<br>(Banner, ...)</td>
+    <td>Logo at Evening Event</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -91,7 +86,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at Coffee Lounge<br>(Banner, …)</td>
+    <td>Logo at Coffee Lounge</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -101,7 +96,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at ???<br>(Banner, …)</td>
+    <td>Logo at ???</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -111,7 +106,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Mentioning in Live Stream/Recordings (Ads) before Keynotes (Possible? t.b.d.)</td>
+    <td>Mentioning in Live Streaming</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -121,7 +116,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>1min Pitch on stage<br>(before Ignites)</td>
+    <td>1min Pitch on Stage</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
