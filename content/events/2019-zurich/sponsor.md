@@ -16,9 +16,9 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
     <th><center><b><u>Bronze<br/></u></center></b></th>
     <th><center><b><u>Silver<br/></u></center></b></th>
     <th><center><b><u>Gold<br/></u></center></b></th>
-    <th><center><b><u>Platin (Planet)<br/></center></b></th>
-    <th><center><b><u>Platin (Coffee)<br/></center></b></th>
-    <th><center><b><u>Platin (Entrance)<br/></center></b></th>
+    <th><center><b><u>Planet<br/></center></b></th>
+    <th><center><b><u>Coffee<br/></center></b></th>
+    <th><center><b><u>Entrance<br/></center></b></th>
   </tr>
 
   <tr>
@@ -27,15 +27,12 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
    <td><center>unlimited</center></td>
     <td><center>8</center></td>
     <td><center>1</center></td>
-
-<td><center>1</center></td>
-
-<td><center>1</center></td>
-
-</tr>
+    <td><center>1</center></td>
+    <td><center>1</center></td>
+  </tr>
 
   <tr>
-    <td><b>Mentioning on (Social) Media</td>
+    <td>Mentioning on (Social) Media</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -96,7 +93,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo at ???</td>
+    <td>Logo in Main Hall</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -116,7 +113,7 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>1min Pitch on Stage</td>
+    <td>1 min Pitch on Stage</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -136,8 +133,8 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-   <td>Booth size (m³)</td>
-    <td>&nbsp;</td>
+   <td>Booth size (m²)</td>
+    <td>no booth</td>
     <td>10</td>
     <td>20</td>
     <td>40</td>
