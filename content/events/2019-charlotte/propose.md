@@ -4,12 +4,12 @@ Type = "event"
 Description = "Propose a talk for devopsdays Charlotte 2019"
 +++
   {{< cfp_dates >}}
-<!-- 
+ 
 <hr>
 
-## Have something to share? Submit your proposal via Papercall.io [here](https://www.papercall.io/dodclt2018)!
+## Have something to share? Submit your proposal via Papercall.io [here](https://www.papercall.io/dodclt2019)!
 
-<hr> -->
+<hr>
 
 There are three ways to propose a topic at devopsdays:
 <ol>

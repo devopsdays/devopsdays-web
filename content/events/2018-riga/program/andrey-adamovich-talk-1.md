@@ -4,7 +4,7 @@ Talk_start_time = "12:00"
 Talk_end_time = "12:30"
 Title = "DevOps Transformations: Tools vs Culture"
 Type = "talk"
-youtube = ""
+youtube = "UOfad93Xc5M"
 slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-andrey-adamovich-devops-transformations-tools-vs-culture"
 Speakers = ["andrey-adamovich"]
 +++

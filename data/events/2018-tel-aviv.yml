@@ -14,7 +14,7 @@ cfp_date_start:  2018-07-01
 cfp_date_end:  2018-10-01
 cfp_date_announce:  2018-10-15
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: https://www.papercall.io/devopsdaystlv2018
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,10 +31,10 @@ location: "Tel Aviv" # Defaults to city, but you can make it the venue name.
 location_address: "Tel Aviv Convention Center, 101 Rokach Blvd" 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- - name: propose
+# - name: propose
  - name: location
  - name: registration
- # - name: program
+ - name: program
  - name: speakers
  - name: sponsor
  - name: contact
@@ -103,8 +103,13 @@ sponsors:
     level: silver
   - id: appsflyer-2018
     level: silver
+  - id: appsflyer-2018
+    level: day2happyhour
   - id: facebook
     level: silver
+  - id: fiverr
+    level: coffee
+    url: https://www.fiverr.com/jobs/offices/tlv
   - id: elastic
     level: silver
   - id: yotpo
@@ -119,6 +124,8 @@ sponsors:
     level: community
   - id: logzio
     level: silver
+  - id: taboola
+    level: giveaway
   - id: matrix-atlassian
     level: silver
 
@@ -147,9 +154,9 @@ sponsor_levels:
   # - id: day2breakfast
   #   label: day 2 breakfast
   #   max: 1
-  # - id: coffee
-  #   label: coffee
-  #   max: 1
+  - id: coffee
+    label: coffee
+    max: 1
   - id: day1happyhour
     label: Day 1 HappyHour
     max: 1
@@ -167,6 +174,6 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
-  # - id: giveaway
-  #   label: GiveAway Bag
-  #   max: 1
+  - id: giveaway
+    label: GiveAway Bag
+    max: 1

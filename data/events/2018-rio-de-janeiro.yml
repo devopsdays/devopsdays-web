@@ -106,6 +106,10 @@ sponsors:
     level: familyops
   - id: bitlu
     level: familyops
+  - id: numa
+    level: familyops
+  - id: logica-mente
+    level: familyops
   - id: promove
     level: bronze    
   - id: 4linux
@@ -115,14 +119,22 @@ sponsors:
   - id: elastic
     level: gold 
   - id: redhat
-    level: gold    
+    level: gold     
+  - id: markway
+    level: gold     
   - id: appdynamics
-    level: gold          
+    level: gold     
+  - id: radix
+    level: gold         
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
   - id: daitan-group
     level: silver  
+  - id: sonatype
+    level: silver   
+  - id: stone-pagamentos
+    level: bronze  
   - id: alura
     level: learning    
   - id: adaptnow
@@ -131,7 +143,7 @@ sponsors:
     level: community
   - id: womenindevops
     level: community 
-  - id: womenwhocode
+  - id: wwcoderecife
     level: community   
   - id: exin
     level: community   
@@ -177,7 +189,7 @@ program:
     date: 2018-11-09
     start_time: "9:00"
     end_time: "9:15"
-  - title: "lauren-langdell"
+  - title: "mateus-prado"
     type: talk
     date: 2018-11-09
     start_time: "9:15"
@@ -209,7 +221,7 @@ program:
     date: 2018-11-09
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Almoço / Lunch"
+  - title: "Almoço / Lunch - Livre"
     type: custom
     date: 2018-11-09
     start_time: "12:15"
@@ -251,7 +263,7 @@ program:
     date: 2018-11-09
     start_time: "15:30"
     end_time: "16:00"
-  - title: "mateus-prado"
+  - title: "lauren-langdell"
     type: talk
     date: 2018-11-09
     start_time: "16:00"
@@ -262,6 +274,11 @@ program:
     date: 2018-11-09
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-11-09
+    start_time: "18:00"
+    end_time: "20:30"    
   - title: "Credenciamento e recepção"
     type: custom
     date: 2018-11-10
@@ -278,6 +295,12 @@ program:
     start_time: "09:15"
     end_time: "10:00"
     background_color: "#AED6F1"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "09:15"
+    end_time: "10:30"
+    background_color: "#ffccff"    
   - title: "camilla-martins"
     type: talk
     date: 2018-11-10
@@ -289,11 +312,23 @@ program:
     start_time: "10:30"
     end_time: "10:45"
     background_color: "#FDF2E9"
+  - title: "Lanche Infantil"
+    type: custom
+    date: 2018-11-10
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#d1d1e0"
   - title: "alisson-menezes"
     type: talk
     date: 2018-11-10
     start_time: "10:45"
     end_time: "11:15"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "11:00"
+    end_time: "12:15"
+    background_color: "#ffccff"      
   - title: "tamara-rosini"
     type: talk
     date: 2018-11-10
@@ -304,12 +339,18 @@ program:
     date: 2018-11-10
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Almoço / Lunch"
+  - title: "Almoço / Lunch - Livre"
     type: custom
     date: 2018-11-10
     start_time: "12:15"
     end_time: "13:15"
     background_color: "#EDBB99"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "13:15"
+    end_time: "15:00"
+    background_color: "#ffccff"      
   - title: "Sponsor Time"
     type: sponsor
     date: 2018-11-10
@@ -329,8 +370,14 @@ program:
     type: open-space
     date: 2018-11-10
     start_time: "14:10"
-    end_time: "15:00"    
-  - title: "carla-crude"
+    end_time: "15:00"  
+  - title: "Lanche Infantil"
+    type: custom
+    date: 2018-11-10
+    start_time: "15:00"
+    end_time: "15:30"
+    background_color: "#d1d1e0"      
+  - title: "vanessa-almeida"
     type: talk
     date: 2018-11-10
     start_time: "15:00"
@@ -341,6 +388,12 @@ program:
     start_time: "15:30"
     end_time: "15:45"
     background_color: "#FDF2E9"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "15:30"
+    end_time: "17:00"
+    background_color: "#ffccff"       
   - title: "rodrigo-ramalho"
     type: talk
     date: 2018-11-10
@@ -350,13 +403,13 @@ program:
     type: talk
     date: 2018-11-10
     start_time: "16:15"
-    end_time: "16:45"
+    end_time: "17:00"
     background_color: "#AED6F1"
   - title: "Encerramento"
     type: custom
     date: 2018-11-10
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
 ignites:
   - title: "julia-lamenza"
     date: 2018-11-09  

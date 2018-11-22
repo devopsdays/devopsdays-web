@@ -39,6 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: postevent
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -93,6 +94,12 @@ With 18 years of experience in the software industry, Maria has previously worke
     employer: "Adobe"
     bio: "DevOps Engineer at Adobe and Graduate Apprentice at Heriot-Watt University, originating from Canada with a degree in Psychology from the University of Victoria."
     image: "cookie-lanfear.jpg"
+  - name: "Andy Burgin"
+    twitter: "andyburgin"
+    image: "andy-burgin.jpg"
+    employer: "Sky Betting and Gaming"
+    bio: "Andy is a Platform Engineer at Sky Betting and Gaming. He considers himself a Kubernetes and Hadoop fettler, spending a far too much of his spare time making Raspberry Pis do things they shouldn't.
+He was a small part of the organising team for DevOpsDays London 2018 and has been runing the Devops meetup in Leeds for 5 years hosting over 40 events. He's attended and spoke at a bunch of DevOps conferences and in his words is 'an all round DevOps nuisance'."
 
 organizer_email: "organizers-edinburgh-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2018@devopsdays.org" # Put your proposal email address here
@@ -108,9 +115,15 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: wood-mackenzie
+    level: gold
+  - id: solarwinds-msp
+    level: gold
   - id: freeagent
     level: bronze
   - id: ncredinburgh
+    level: bronze
+  - id: gbg
     level: bronze
 #   - id: samplesponsorname
 #     level: gold
@@ -181,7 +194,7 @@ program:
     date: 2018-11-01
     start_time: "11:45"
     end_time: "12:15"
-  - title: "louda-pea"
+  - title: "louda-pena"
     type: talk
     date: 2018-11-01
     start_time: "12:15"
@@ -246,6 +259,13 @@ program:
     date: 2018-11-01
     start_time: "16:50"
     end_time: "17:00"
+  - title: "Evening Reception and Networking"
+    type: custom
+    date: 2018-11-01
+    start_time: "17:00"
+    end_time: "20:00"
+
+
 # day 2
   - title: "Registration and coffee"
     type: custom
@@ -360,14 +380,18 @@ program:
 
 
 ignites:
-  - title: "bob-walker"
-    date: 2018-11-01
   - title: "gavin-campbell"
     date: 2018-11-01
   - title: "geoff-ballinger"
     date: 2018-11-01
   - title: "jason-yee"
     date: 2018-11-01
-  - title: "michal-bryx"
+  - title: "michal-bryxi"
     date: 2018-11-01
+  - title: "andy-burgin"
+    date: 2018-11-02
+  - title: "adrian-mouat"
+    date: 2018-11-02
+  - title: "bob-walker"
+    date: 2018-11-02
 

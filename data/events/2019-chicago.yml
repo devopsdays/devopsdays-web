@@ -1,0 +1,129 @@
+name: "2019-chicago" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Chicago" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysChi" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
+ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+masthead_background: "skyline-night.jpg"
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chicago" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+ # - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members:
+  - name: "Jerry Cattell"
+    twitter: "jcattell"
+    image: "jerry-cattell.jpg"
+    bio: "Jerry Cattell is the Director of Technical Operations for [Tempus](https://www.tempus.com/) and a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops). In his free time, Jerry enjoys traveling, reading, and playing with new technologies."
+    linkedin: "https://www.linkedin.com/in/jerrycattell"
+  - name: "Albert Cheung"
+  - name: "Brian Devlin"
+    twitter: "nilved"
+    image: "brian-devlin.jpg"
+  - name: "Cora Hays-Magan"
+    image: "cora-hays-magan.jpg"
+    twitter: "CorainChicago"
+    website: "http://corainchicago.github.io"
+    linkedin: "https://www.linkedin.com/in/corainchicago"
+    github: "corainChicago"
+    bio: "Cora became a developer after working in all the fun and exciting places, Central Asia, West Africa, and lovely Chicago.  In her household, the number of laptops outnumber the humans and cats combined."
+  - name: "Christian Herro"
+    twitter: "christianherro"
+    image: "christian-herro.jpg"
+  - name: "Kevin Reedy"
+    image: "kevin-reedy.jpg"
+    employer: "Chef Software, Inc"
+    twitter: "kevinreedy"
+    website: "https://kevinreedy.net"
+    linkedin: "https://www.linkedin.com/in/kevinreedy"
+    github: "kevinreedy"
+    bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
+  - name: "Matty Stratton"
+    image: "matt-stratton.jpg"
+    twitter: "mattstratton"
+    employer: "PagerDuty"
+    website: "https://www.mattstratton.com"
+    linkedin: "https://www.linkedin.com/in/mattstratton"
+    github: "mattstratton"
+    bio: "Matty Stratton is a HumanOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He lives in San Francisco and has three awesome kids - Henry, Joey, and Sophia, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
+  - name: "Margaret Valtierra"
+    image: "margaret-valtie.jpg"
+    employer: "BreakFree Solutions"
+    twitter: "margaretvaltie"
+    linkedin: "https://www.linkedin.com/in/margaretvaltierra/"
+    github: "margaretvaltie"
+    bio: "Margaret Valtierra is a Solutions Engineer at BreakFree Solutions. She is an AWS Certified Solutions Architect and has a Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge. Margaret runs the AWS Chicago user group and is a co-organizer for DevOpsDays Chicago. When not at work she can usually be found at the dog park with her dog, Peanut."
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
+organizer_email: "organizers-chicago-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-chicago-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

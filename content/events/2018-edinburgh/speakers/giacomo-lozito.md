@@ -1,8 +1,8 @@
 +++
 Title = "Giacomo Lozito"
 Twitter = ""
-image = ""
 type = "speaker"
+image = "giacomo-lozito.jpg"
 linktitle = "giacomo-lozito"
 
 +++

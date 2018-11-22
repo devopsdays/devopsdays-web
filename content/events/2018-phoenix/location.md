@@ -16,12 +16,9 @@ Description = "Location for devopsdays Phoenix 2018"
 <br>
 <h4>Galvanize Phoenix Campus Parking Information</h4>
 
-<p>
-There is limited parking available on campus. For large events, we strongly encourage attendees to take public
-transportation, carpool or utilize ridesharing services. There are additional parking garages not reflected on this
-map that are a 8-10 minute walk to campus.
+<p>We have purchased 125 parking spaces at <a href="https://www.google.com/maps/place/609+East+Lincoln+Street+Parking/@33.4408416,-112.0665553,375m/data=!3m1!1e3!4m8!1m2!2m1!1s609+East+Lincoln+Street+Parking,+609+E+Lincoln+St,+Phoenix,+AZ+85034!3m4!1s0x872b11f423d31b11:0x5021f1fb7ffe961!8m2!3d33.4414917!4d-112.0659275">609 East Lincoln Street Parking located at 609 E Lincoln St, Phoenix, AZ 85034.</a>
 </p>
-<img src="/events/2017-phoenix/GalvanizeParking.png">
+<p><img src="/events/2018-phoenix/devopsdaysphx-parking.png"></p>
 
 <h4>Traveling to Campus:</h4>
 

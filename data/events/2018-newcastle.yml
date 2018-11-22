@@ -89,9 +89,15 @@ sponsors:
     level: gold
   - id: csa
     level: gold
+  - id: pagerduty
+    level: gold
   - id: hays-australia
     level: silver
   - id: cmd-solutions
+    level: silver
+  - id: hudson
+    level: silver
+  - id: sumologic
     level: silver
   - id: assemblient
     level: bronze
@@ -107,7 +113,7 @@ sponsors:
  #  - id: arresteddevops
  #    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

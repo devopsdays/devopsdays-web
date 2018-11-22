@@ -51,15 +51,19 @@
   <div class = "row">
     <div class="col-xs-12 col-md-8">
       <h1 class = "welcome-page">devopsdays {{$e.city}}</h1>
-        <span class="welcome-page-date">
-        {{- if $e.startdate -}}
-          {{- if ne $e.startdate $e.enddate }}
-            {{- dateFormat "January 2" $e.startdate -}} - {{- dateFormat "2, 2006" $e.enddate -}}
-          {{- else -}}
-            {{- dateFormat "January 2" $e.startdate -}}
-          {{- end -}}
-        {{ end }}
-        </span>
+
+    {{- if $e.startdate -}}
+      {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
+            <span class="welcome-page-date">
+            {{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}<br />
+            </span>
+      {{- else -}}
+            <span class="welcome-page-date">
+          {{ dateFormat "January 2, 2006" $e.startdate }}<br />
+            </span>
+      {{- end -}}
+    {{- end -}}
+
         <br />
 
         {{- if $e.location -}}

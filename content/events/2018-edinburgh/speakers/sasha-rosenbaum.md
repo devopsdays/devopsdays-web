@@ -1,8 +1,8 @@
 +++
 Title = "Sasha Rosenbaum"
 Twitter = "@DivineOps"
-image = ""
 type = "speaker"
+image = "sasha-rosenbaum.jpg"
 linktitle = "sasha-rosenbaum"
 
 +++

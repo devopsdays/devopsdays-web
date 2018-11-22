@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "DevOps and the Future of Information Security"
 Type = "talk"
 Speakers = ["darin-morris"]
+Youtube = "https://www.youtube.com/watch?v=i_7pd92y7Qo"
 +++
 
 DevOps is making organizations more efficient by breaking down barriers between software development and IT operations teams, but this new way of working also creates potential for new security risks and vulnerabilities.

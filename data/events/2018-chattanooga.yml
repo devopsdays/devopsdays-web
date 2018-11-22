@@ -79,13 +79,13 @@ sponsors:
     level: platinum
   - id: chatech
     level: platinum
+  - id: epb
+    level: platinum
   - id: chef
     level: gold
   - id: redhat
     level: gold
   - id: infosystems
-    level: gold
-  - id: epb
     level: gold
   - id: cloudbees
     level: gold
@@ -93,11 +93,19 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: puppet
+    level: gold
+  - id: perficient
+    level: silver
   - id: nutanix
     level: bronze
   - id: teksystems
     level: bronze
     twitter: teksystems
+  - id: reactiveops
+    level: bronze
+  - id: stratusgrid
+    level: bronze
   - id: crysdesigns
     level: community
 
@@ -118,6 +126,7 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
+    max: 7
   - id: silver
     label: Silver
   - id: bronze
@@ -171,20 +180,20 @@ program:
     date: 2018-11-13T00:00:00-05:00
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Lunch"
+  - title: "Open Space Intro"
     type: custom
     date: 2018-11-13T00:00:00-05:00
     start_time: "11:55"
-    end_time: "13:10"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "12:10"
+    end_time: "13:20"
   - title: "Lightning Talks"
     type: ignite
     date: 2018-11-13T00:00:00-05:00
-    start_time: "13:10"
-    end_time: "13:40"
-  - title: "Open Space Opening"
-    type: custom
-    date: 2018-11-13T00:00:00-05:00
-    start_time: "13:40"
+    start_time: "13:20"
     end_time: "14:00"
   - title: "m-scott-ford"
     type: talk
@@ -206,6 +215,11 @@ program:
     date: 2018-11-13T00:00:00-05:00
     start_time: "14:35"
     end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:10"
+    end_time: "15:25"
   - title: "chris-rimondi"
     type: talk
     date: 2018-11-13T00:00:00-05:00
@@ -226,6 +240,11 @@ program:
     date: 2018-11-13T00:00:00-05:00
     start_time: "16:45"
     end_time: "17:00"
+  - title: "After Party Sponsored by Chef and Perficient"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "18:30"
 
 ignites:
 - title: "james-dean"
@@ -235,4 +254,8 @@ ignites:
 - title: "marcus-young"
   date: 2018-11-13T00:00:00-05:00
 - title: "ravi-lachman"
+  date: 2018-11-13T00:00:00-05:00
+- title: "summer-prince"
+  date: 2018-11-13T00:00:00-05:00
+- title: "kenn-kitchen"
   date: 2018-11-13T00:00:00-05:00

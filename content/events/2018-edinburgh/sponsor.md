@@ -17,13 +17,15 @@ Devopsdays is a great opportunity to network and build relationships with highly
 <br>
 <h3>Contact For More Details</h3>
 If you are interested in one of the packages below, offering a special sponsorship, or you have creative ideas about how you could support the event in another way then please do drop us an email at {{< email_organizers >}}.
+
 <hr/>
 <div style="width:590px; margin: 0 auto;">
+<b>Note that our Gold sponsorship packages are now sold out.</b>
 <table border=1 cellspacing=1 cellpadding=3 style="color:#003CB6" bordercolor="003CB6">
   <tr>
     <th><i>Sponsorship medal packages</i></th>
     <th><center><b>Bronze<br />£500<br />(gbp)</center></b></th>
-    <th><center><b>Gold<br />£3,500<br />(gbp)</center></b></th>
+    <th><center><del><b>Gold<br />£3,500<br />(gbp)</del></center></b></th>
   </tr>
 <tr>
   <td>Total Packages Available</td>

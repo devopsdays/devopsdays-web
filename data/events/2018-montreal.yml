@@ -74,8 +74,8 @@ team_members: # Name is the only required field for team members.
   - name: "Marc Pare"
     employer: "CloudOps"
     twitter: "MarcAlphonse"
-  - name: "Martin Goyette"
-    employer: "Agile Montreal"
+#  - name: "Martin Goyette"
+#    employer: "Agile Montreal"
     twitter: "agilemontreal"
   - name: "Donald Donovan"
     employer: "CloudOps"
@@ -200,12 +200,12 @@ program:
     type: talk
     date: 2018-10-10
     start_time: "11:50"
-    end_time: "12:12"
+    end_time: "12:30"
 
   - title: "Lunch"
     type: break
     date: 2018-10-10
-    start_time: "12:12"
+    start_time: "12:30"
     end_time: "13:40"
     background_color: "#ff8282"
 
