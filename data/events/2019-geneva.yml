@@ -11,15 +11,15 @@ startdate: 2019-02-21T08:00:00+01:00 # The start date of your event. Leave blank
 enddate: 2019-02-22T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2018-11-01T08:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-01T08:00:00+01:00 # close your call for proposals.
+cfp_date_announce: 2019-01-07T08:00:00+01:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-11-01T08:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-01-01T08:00:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -32,9 +32,10 @@ location: "Geneva" # Defaults to city, but you can make it the venue name.
 location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
   - name: location
   - name: registration
+  - name: newsletter
   # - name: program
   - name: speakers
   - name: sponsor
@@ -51,38 +52,42 @@ team_members: # Name is the only required field for team members.
     employer: "Hidora"
     website: "https://hidora.com/"
     twitter: matthieurobin
+    image: matthieu.jpg
   - name: "Matteo Mazzeri"
     employer: "Enalean"
     linkedin: "https://www.linkedin.com/in/mazzeri"
     twitter: "matemaz"
     website: "https://tuleap.org/"
+    image: matteo.jpg
+  - name: "Lucie de Romemont"
+    linkedin: "https://www.linkedin.com/in/lucie-de-romemont-3a371341"
+    employer: "AdExcel Consulting SA"
+    website: "http://www.adexcel-consulting.com/"
+    image: lucie.jpg
   - name: "Tim Izzo"
     employer: "Octree"
     linkedin: "https://www.linkedin.com/in/tim-izzo/"
     twitter: 5ika_
     website: "https://octree.ch/"
+    image: tim.jpg
   - name: "Xavier von Aarburg"
     employer: "Octree"
     linkedin: "https://www.linkedin.com/in/xaviervonaarburg/"
     #    github: "devopsdays"
     website: "https://octree.ch/"
     twitter: XvAarburg
-  - name: "Lucie de Romemont"
-    linkedin: "https://www.linkedin.com/in/lucie-de-romemont-3a371341"
-    employer: "AdExcel Consulting SA"
-    website: "http://www.adexcel-consulting.com/"
-#    image: "sally-fields.jpg"
+    image: xavier.jpg
 organizer_email: "organizers-geneva-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-geneva-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-? sponsors
-#  - id: samplesponsorname
-#    level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+sponsors:
+  - id: hidora
+    level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: adexcel
+    level: gold
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
