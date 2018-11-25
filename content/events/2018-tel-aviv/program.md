@@ -129,10 +129,17 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-9 box">
     <a href="/events/2018-tel-aviv/program/avi-shitrit">(continued) Workshop: Kubernetes From Zero to Hero <br/> <strong>Avi Shitrit</strong></a></div>
 </div> <!-- end timeslot div -->
-<!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
-    <time>14:10-14:40</time>
+    <time>14:10-14:20</time>
+  </div>
+  <div class = "col-md-8 col-md-offset-2 box">
+    <a href="https://www.fiverr.com/">Coffee Time Sponsored by Fiverr!</a>
+  </div>
+</div> <!-- end timeslot div -->
+<div class = "row">
+  <div class = "box-lightorange col-md-2 col-md-offset-0">
+    <time>14:20-14:50</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
@@ -147,7 +154,7 @@ heading = "devopsdays Tel Aviv - Program"
 
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
-    <time>14:30-16:00</time>
+    <time>14:50-16:00</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/pages/open-space-format">Openspaces</a></div>
@@ -274,7 +281,15 @@ heading = "devopsdays Tel Aviv - Program"
 <!-- this div is repeated for each timeslot -->
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
-    <time>14:10-14:40</time>
+    <time>14:10-14:20</time>
+  </div>
+  <div class = "col-md-8 col-md-offset-2 box">
+    <a href="https://www.fiverr.com/">Coffee Time Sponsored by Fiverr!</a>
+  </div>
+</div> <!-- end timeslot div -->
+<div class = "row">
+  <div class = "box-lightorange col-md-2 col-md-offset-0">
+    <time>14:20-14:50</time>
   </div>
   <div class = "col-md-6 col-md-offset-2 box">
     Ignites: <br/>
@@ -289,7 +304,7 @@ heading = "devopsdays Tel Aviv - Program"
 
 <div class = "row">
   <div class = "box-lightorange col-md-2 col-md-offset-0">
-    <time>14:40-16:00</time>
+    <time>14:50-16:00</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/pages/open-space-format">Openspaces</a></div>
