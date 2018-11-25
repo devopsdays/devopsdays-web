@@ -77,6 +77,7 @@ team_members: # Name is the only required field for team members.
     website: "https://octree.ch/"
     twitter: XvAarburg
     image: xavier.jpg
+#    image: "sally-fields.jpg"
 organizer_email: "organizers-geneva-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-geneva-2019@devopsdays.org" # Put your proposal email address here
 
