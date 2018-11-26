@@ -90,6 +90,8 @@ sponsors:
     level: gold
   - id: softserve
     level: silver
+  - id: triangu
+    level: silver
   - id: percona
     level: bronze
   - id: ab-soft
