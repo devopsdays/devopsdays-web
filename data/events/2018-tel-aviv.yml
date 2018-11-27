@@ -122,6 +122,8 @@ sponsors:
     level: community
   - id: revdebug
     level: community
+  - id: opsschool
+    level: community
   - id: logzio
     level: silver
   - id: taboola
