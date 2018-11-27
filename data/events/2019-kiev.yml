@@ -90,11 +90,15 @@ sponsors:
     level: gold
   - id: softserve
     level: silver
+  - id: valtech
+    level: silver
   - id: triangu
     level: silver
   - id: percona
     level: bronze
   - id: ab-soft
+    level: bronze
+  - id: pivotal
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
