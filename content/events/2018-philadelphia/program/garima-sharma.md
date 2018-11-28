@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Let’s play a real life Dungeon and Dragons"
 Type = "talk"
 Speakers = ["garima-sharma"]
+youtube = "WmizLzszopw"
 +++
 
 D&D is a brief concept discussed in SRE book. A number of engineering teams use this technique to prepare team members for going on-call. The idea is to re-investigate a recent on-call incident, with the team. The team tells the dungeon master what they would do or query to understand or solve the problem, and the dungeon master tells the team what happens with each action or observation.
