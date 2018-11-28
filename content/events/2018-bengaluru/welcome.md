@@ -77,7 +77,7 @@ Description = "devopsdays Bengaluru 2018"
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-        <strong><a href="http://devopsdaysindia.org/#section-contact">CLICK HERE to get in touch with the organizers.</a></strong>
+        <strong><a href="https://devopsdaysindia.org/#contact">CLICK HERE to get in touch with the organizers.</a></strong>
   </div>
 </div>
 <br>
