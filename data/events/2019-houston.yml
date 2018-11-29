@@ -60,7 +60,10 @@ team_members: # Name is the only required field for team members.
     twitter: "DevlinLiles"
     github: "devlinliles"
     bio: "Devlin Liles is a President at Improving – Houston, 6 time Microsoft MVP, and a passionate technologist."
-  - name: "Julia Hall"
+  - name: "Julia Ito"
+    employer: "Endurance Corporation"
+    linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
+    bio: "Product Manager and technology passionate, loves delivering solutions that matter faster and better."
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
@@ -73,11 +76,15 @@ team_members: # Name is the only required field for team members.
     website: "https://rch.fyi/"
     bio: "Design thinking agile geek and DevOps enthusiast obsessed with wicked problems"
   - name: "Shravan Arra"
+    employer: "The Altus Group"
+    linkedin: "https://www.linkedin.com/in/shravanarra/"
+    twitter: "shravanarra"
+    bio: "Shravan has 20+ years of software industry experience holding positions from programming to leadership roles both in commercial organizations and Non-Profit organizations.  He has been associated with a highly successful Agile Leadership Network Houston user group for many years in many leadership positions.  Combines his strong technical background with influencing modern development practices in his teams to transform teams and deliver high valued applications.  Currently serving as Director of Development Operations at The Altus Group.  Long time Houstonian, loves to watch the Texans."
   - name: "Svetlana Kryukova"
     employer: "Two Sigma Solutions"
     linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
     github: "skryukova"
-    bio: "Software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems."
+    bio: "Software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
 organizer_email: "organizers-houston-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-houston-2019@devopsdays.org" # Put your proposal email address here
 
