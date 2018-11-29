@@ -74,7 +74,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ryanhillard/"
     github: "rchillard"
     website: "https://rch.fyi/"
-    bio: "Design thinking agile geek and DevOps enthusiast obsessed with wicked problems"
+    bio: "Design thinking agile geek and DevOps enthusiast obsessed with wicked problems."
   - name: "Shravan Arra"
     employer: "The Altus Group"
     linkedin: "https://www.linkedin.com/in/shravanarra/"
@@ -85,6 +85,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
     github: "skryukova"
     bio: "Software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
+
 organizer_email: "organizers-houston-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-houston-2019@devopsdays.org" # Put your proposal email address here
 
