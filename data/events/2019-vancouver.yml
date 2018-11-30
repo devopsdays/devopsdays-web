@@ -29,10 +29,10 @@ location: "UBC Robson Square" # Defaults to city, but you can make it the venue 
 location_address: "800 Robson St, Vancouver, BC V6Z 3B7" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+ #  - name: registration
+ #  - name: program
+ #  - name: speakers
+  - name: location
   - name: propose
   - name: sponsor
   - name: contact
