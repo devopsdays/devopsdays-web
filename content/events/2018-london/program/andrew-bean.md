@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Five hops to DevOps – Changing the culture around software deployment in the public sector"
 Type = "talk"
 Speakers = ["andrew-bean"]
+youtube = "Q9ehPE14axI"
+pdf = "https://assets.devopsdays.org/events/2018/london/slides/Andrew Bean - Five hops to DevOps.pdf"
 +++
 
 DevOps isn’t just for tech start-ups and large software houses.  The British Geological Survey (BGS) is the world’s oldest geological survey.  We collect data and undertake research to understand earth and environmental processes.  This information is used to create models, maps, and services for the public, industry and government.  Software development in the organisation is diverse and varied, ranging from individual scientists’ models and simulations to public-facing websites, mobile apps and desktop applications.
