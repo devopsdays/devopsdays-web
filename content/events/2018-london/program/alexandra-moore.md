@@ -6,7 +6,7 @@ Title = "Taking the 3 Ways of DevOps on the Road"
 Type = "talk"
 Speakers = ["alexandra-moore"]
 youtube = "X1Ud2V-6iSc"
-pdf = "https://assets.devopsdays.org/events/2018/london/slides/Alex Moore - 3 Ways On Road.pdf"
+slides = "https://assets.devopsdays.org/events/2018/london/slides/Alex Moore - 3 Ways On Road.pdf"
 +++
 
 I'd like to share a workshop with you, using the Three Ways of DevOps to inspire creative, innovative thinking.  This doesn't just work for people in Dev or Ops but also managers, test professionals, support teams and people from other business areas.
