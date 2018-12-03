@@ -32,7 +32,8 @@ Description = "devopsdays Baltimore 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Coming soon!
+    <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->
   </div>
 </div>
 

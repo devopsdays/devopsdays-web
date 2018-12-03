@@ -3,6 +3,9 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Bengaluru 2018"
 +++
+
+<b style="color:red;">The CFP has been closed. Consider trying again next year.</b>
+
   {{< cfp_dates >}}
 
 <hr>

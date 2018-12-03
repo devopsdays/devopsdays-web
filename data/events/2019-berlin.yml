@@ -50,8 +50,6 @@ team_members: # Name is the only required field for team members.
   - name: "Bernd Erk"
     twitter: "gethash"
     employer: "NETWAYS"
-  - name: "Ingmar Krusch"
-    twitter: "ingmarkrusch"
   - name: "Jessica Ulyate"
     twitter: "JulyAte"
   - name: "Marco Woitschitzky"
