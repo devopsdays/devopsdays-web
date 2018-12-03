@@ -102,7 +102,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/sam-bellen">Papers Please! A Non-Dystopian Look at Modern Authentication<br/> <strong>Sam Bellen</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/nitzan-shapira">How to handle errors and retries in a stateless environment<br/> <strong>Nitzan Shapira</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
     <a href="/events/2018-tel-aviv/program/avi-shitrit">(continued) Workshop: Kubernetes From Zero to Hero <br/> <strong>Avi Shitrit</strong></a></div>
 </div> <!-- end timeslot div -->
@@ -235,7 +235,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/events/2018-tel-aviv/program/ken-mugrage-talk">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/nitzan-shapira">How to handle errors and retries in a stateless environment<br/> <strong>Nitzan Shapira</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/david-blank-edelman">Implementing SRE practices: SLI/SLO deep dive<br><strong>David Blank Edelman</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
