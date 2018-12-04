@@ -6,22 +6,27 @@ Description = "Sponsor DevOpsDays Washington, DC 2019"
 
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends
 on your sponsorships. We do not have vendor booths, sell product presentations,
-or distribute attendee contact lists. Sponsors have the opportunity to have 
+or distribute attendee contact lists. Sponsors have the opportunity to have
 short elevator pitches during the program and will get recognition on the
 website and social media before, during, and after the event. Sponsors are
 encouraged to represent themselves by actively participating and engaging with
-the attendees as peers. Any attendee also has the opportunity to demonstrate 
+the attendees as peers. Any attendee also has the opportunity to demonstrate
 products or projects as part of an open space session.
 
 The best thing to do is send practitioners to interact with their peers at
 DevOpsDays on their own terms.
 
-The following chart outlines our sponsorship packages.  
+Early [sponsorships are available
+now](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
+These sponsorships are being made available before the date and location of
+DevOpsDays DC have been confirmed.  We are targeting June, 2019 for the
+conference but there are no guarantees that we will find a [location that
+meets our criteria](/events/2019-washington-dc/location/) with availability.
 
-Sponsorships will be available for purchase once we have finalized a date and
-location for DevOpsDays Washington DC 2019.  In the meantime, please email the 
-organizers at {{< email_organizers >}} with any questions you may have about 
-sponsoring the event.
+Please email the organizers at {{< email_organizers >}} with any questions
+you may have about sponsoring the event.
+
+The following chart outlines our sponsorship packages.
 
 <style>
   table.sponsorship            { border-collapse: collapse; }
@@ -45,9 +50,9 @@ sponsoring the event.
     <td></td>
     <td><strong>$0 USD</strong></td>
     <td><strong>$0 USD</strong></td>
-    <td><strong>TBD</strong></td>
-    <td><strong>TBD</strong></td>
-    <td><strong>TBD</strong></td>
+    <td><strong>$1,000 USD</strong></td>
+    <td><strong>$3,000 USD</strong></td>
+    <td><strong>$5,000 USD</strong></td>
     <td><strong>TBD</strong></td>
   </tr>
   <tr>
@@ -146,26 +151,32 @@ sponsoring the event.
 
 <hr/>
 
-### Silver - Price TBD
+### Silver - Price $1,000 USD
 
 * 1 included ticket
 * 10% discount code to share with your community
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2019 event website
 
-### Gold - Price TBD
+[Become a Silver Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
+
+### Gold - Price $3,000 USD
 
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 2 in total
 * Shared table for swag/marketing/staffing
 
-### Platinum - Price TBD
+[Become a Gold Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
+
+### Platinum - Price $5,000 USD
 
 * All benefits of Gold sponsors
 * 1 minute pitch to full audience, including streaming audience
 * 2 additional tickets, 4 in total
 * Full table for swag/marketing/staffing
+
+[Become a Platinum Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
 
 ### Media - $0
 
@@ -181,6 +192,10 @@ Sponsor.
 * Please contact {{< email_organizers >}} for details about becoming a media
 sponsor.
 
+Please email the organizers at {{< email_organizers >}} about becoming a media
+sponsor.
+
+
 ### Community - $0
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
@@ -193,12 +208,15 @@ become a Community Sponsor.
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2019 event website
 
+Please email the organizers at {{< email_organizers >}} about becoming a
+community sponsor.
+
 ### Happy Hour - Price TBD
 
 Happy Hour will be held one evening of the event.  All conference attendees will
-be invited to the happy hour.  Additionally, we may invite other members of the 
-DC technical community to join us, space permitting.  The Happy Hour 
-sponsorship includes some special perks not listed in the table above.  
+be invited to the happy hour.  Additionally, we may invite other members of the
+DC technical community to join us, space permitting.  The Happy Hour
+sponsorship includes some special perks not listed in the table above.
 
 * 4 included tickets
 * Logo on shared slide, rotating during breaks
@@ -210,9 +228,25 @@ sponsorship includes some special perks not listed in the table above.
 * 1 minute pitch to full audience during the conference
 * 3 minute pitch to the happy hour attendees
 
-Sponsorships will be available for purchase once we have finalized a date and
-location for DevOpsDays Washington DC 2019.  In the meantime, please email the 
-organizers at {{< email_organizers >}} with any questions you may have about 
-sponsoring the event.
+Please email the organizers at {{< email_organizers >}} about becoming a
+community sponsor.
 
+Early [sponsorships are available
+now](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
+These sponsorships are being made available before the date and location of
+DevOpsDays DC have been confirmed.  We are targeting June, 2019 for the
+conference but there are no guarantees that we will find a [location that
+meets our criteria](/events/2019-washington-dc/location/) with availability.
+
+We are excited to have you sponsor our event.  We also understand that there
+are sometimes circumstances that may cause you to need to withdraw that
+sponsorship.  Refunds for sponsorships are available according to the following
+schedule:
+
+* Before 1 April 2019 - 100% refund is available
+* Between 1 April and 15 May 2019 - 90% refund is available
+* After 15 May 2019 - No refund is available
+
+Please email the organizers at {{< email_organizers >}} with any questions
+you may have about sponsoring the event or requesting a refund.
 <hr/>
