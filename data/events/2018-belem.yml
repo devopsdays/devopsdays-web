@@ -43,6 +43,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: /events/2018-belem/patrocinio
   - name: Código de Conduta
     url: /events/2018-belem/conduta
+  - name: Certificados
+    url: https://certifico.tasafo.org/
   - name: Contato
     url: /events/2018-belem/contato
 # - name: example
