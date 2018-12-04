@@ -60,6 +60,7 @@ team_members:
   - name: "Brian Devlin"
     twitter: "nilved"
     image: "brian-devlin.jpg"
+    bio: "Brian is a father who lives in the suburbs. He enjoys board games and beverages, in no specific order. He may or may not have a shadow Twitter account. Once, Brian vaulted over the Chicago River, but that could have been in his imagination. Brian invented DevOps, but not the DevOps you know."
   - name: "Jeremy Fryer"
     image: "default-male.jpg"
   - name: "Cora Hays-Magan"
