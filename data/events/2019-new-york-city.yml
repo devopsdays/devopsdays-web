@@ -147,6 +147,12 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: chaossearch
+    level: silver
+  # - id: rancher
+  #   level: silver
+  # - id: tasktop
+  #   level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
