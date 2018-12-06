@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2019-tickets-52281502381" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "1515 Broadway, New York, NY 10036" #Optional - use the street
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -74,6 +74,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/brian-kowalczyk-b37a259a"
   - name: "Khader Syed"
     role: "Co-Chair"
+    employer: "AiCure"
     image: "khader-syed.jpg"
   - name: "Mark Birch"
     image: "mark-birch.jpg"
@@ -139,6 +140,12 @@ sponsors:
   - id: newrelic
     level: gold
   - id: pagerduty
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: codefresh
+    level: gold
+  - id: chef
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

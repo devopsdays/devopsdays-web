@@ -52,6 +52,10 @@ team_members: # Name is the only required field for team members.
   - name: "Emily Bache"
     twitter: "emilybache"
     employer: Praqma
+  - name: "Jan Ivar Beddari"
+    twitter: "beddari"
+    image: "jan-ivar-beddari.jpg"
+    employer: "Saefspring"
   - name: "Jasmine Crozier"
     twitter: "jasminecph"
     employer: Praqma
@@ -65,6 +69,7 @@ team_members: # Name is the only required field for team members.
     website: "https://www.loweschmidt.se"
     facebook: "https://www.facebook.com/lowe.h.schmidt"
     linkedin: "https://www.linkedin.com/in/loweschmidt/"
+    image: "lowe-schmidt.jpg"
 organizer_email: "organizers-stockholm-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-stockholm-2019@devopsdays.org" # Put your proposal email address here
 

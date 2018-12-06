@@ -1,13 +1,13 @@
 +++
-Title = "devopsdays Stockholm 2018"
+Title = "devopsdays Raleigh 2019"
 Type = "welcome"
-aliases = ["/events/2018-stockholm"]
-Description = "devopsdays Stockholm 2018"
+aliases = ["/events/2019-raleigh/"]
+Description = "devopsdays Raleigh 2019"
 +++
 
-We're sorry to announce that DevOpsDays Stockholm is being rescheduled to later this year. Please watch this space for announcements on new dates.
-----
-
+<!-- <div style="text-align:center;">
+  {{< event_logo >}}
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -34,8 +34,8 @@ We're sorry to announce that DevOpsDays Stockholm is being rescheduled to later 
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> 
--->
+</div> -->
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>

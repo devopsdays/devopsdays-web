@@ -49,7 +49,7 @@ sponsors_accepted: "no"
 sponsors:
   - id: pivotal
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: elastic
     level: gold
