@@ -155,6 +155,12 @@ sponsors:
   #   level: silver
   - id: puppet
     level: gold
+  - id: verizon
+    level: gold
+  # - id: f5
+  #   level: captioning
+  # - id: victorops
+  #   level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
