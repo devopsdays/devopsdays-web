@@ -116,6 +116,7 @@ team_members:
     github: "margaretvaltie"
     bio: "Margaret Valtierra is a Solutions Engineer at BreakFree Solutions. She is an AWS Certified Solutions Architect and has a Cloud Security Alliance (CSA) Certificate of Cloud Security Knowledge. Margaret runs the AWS Chicago user group and is a co-organizer for DevOpsDays Chicago. When not at work she can usually be found at the dog park with her dog, Peanut."
   - name: "Hari Vedam"
+    employer: "Discover"
     bio: "Hari Vedam is a cloud engineer.  He is an avid technologist.    His experience includes IT architecture, front-end development, and public + private cloud. When he is not playing with the cloud, his free time includes cooking, reading, and watching movies, especially Marvel."
     image: "hari-vedam.jpg"
     linkedin: "https://www.linkedin.com/in/hariv82"
