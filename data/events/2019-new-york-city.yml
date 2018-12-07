@@ -149,16 +149,16 @@ sponsors:
     level: gold
   - id: chaossearch
     level: silver
-  # - id: rancher
-  #   level: silver
+  - id: rancher
+    level: silver
   # - id: tasktop
   #   level: silver
   - id: puppet
     level: gold
   - id: verizon
     level: gold
-  # - id: f5
-  #   level: captioning
+  - id: f5
+    level: captioning
   # - id: victorops
   #   level: gold
 
