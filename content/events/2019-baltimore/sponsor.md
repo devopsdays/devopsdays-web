@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Baltimore 2019"
+Description = "Sponsor DevOpsDays Baltimore 2019"
 +++
 
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. DevOpsDays Baltimore does not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers at DevOpsDays on their own terms.
@@ -38,11 +38,11 @@ Sponsorships will be available for purchase in December 2018. In the meantime, p
       <td></td>
       <td><strong>$0 USD</strong></td>
       <td><strong>$0 USD</strong></td>
+      <td><strong>$1,000</strong></td>
+      <td><strong>$3,000</strong></td>
+      <td><strong>$5,000</strong></td>
       <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
+      <td><strong>$5,000</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
