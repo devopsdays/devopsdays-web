@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Baltimore 2019"
+Title = "DevOpsDays Baltimore 2019"
 Type = "welcome"
 aliases = ["/events/2019-baltimore/"]
-Description = "devopsdays Baltimore 2019"
+Description = "DevOpsDays Baltimore 2019"
 +++
 
 <div style="text-align:center;">
@@ -14,7 +14,7 @@ Description = "devopsdays Baltimore 2019"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}} - Targeting April 2019
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
