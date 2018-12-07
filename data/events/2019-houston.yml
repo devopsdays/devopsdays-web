@@ -14,7 +14,7 @@ cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/2019-houston" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -32,22 +32,14 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-    icon: "paper-plane"
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
 #  - name: location
-#    icon: "map-o"
 #  - name: program
-#    icon: "book"
 #  - name: registration
-#    icon: "pencil"
 #  - name: speakers
-#    icon: "microphone"
   - name: sponsor
-    icon: "money"
   - name: contact
-    icon: "envelope-o"
   - name: conduct
-    icon: "handshake-o"
 
 
 # These are the same people you have on the mailing list and Slack channel.
