@@ -36,7 +36,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
 #  - name: location
 #    icon: "map-o"
-#   icon: "" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #  - name: program
 #    icon: "book"
 #  - name: registration
