@@ -159,7 +159,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/pages/open-space-format">Openspaces</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-     </div>
+    <a href="/events/2018-tel-aviv/program/hyde-park">Self organizing ignites<br/> <strong>Hyde Park</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
@@ -309,7 +309,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/pages/open-space-format">Openspaces</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-     </div>
+    <a href="/events/2018-tel-aviv/program/open-source">Self organizing ignites<br/> <strong>Open source tooling</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
