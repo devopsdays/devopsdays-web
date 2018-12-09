@@ -126,6 +126,8 @@ sponsors:
     level: community
   - id: logzio
     level: silver
+  - id: automat_it
+    level: bronze
   - id: taboola
     level: giveaway
   - id: matrix-atlassian
@@ -143,6 +145,9 @@ sponsor_levels:
   #   max: 4
   - id: silver
     label: Gold
+    max: 12
+  - id: bronze
+    label: Silver
     max: 12
   # - id: day1lunch
   #   label: day 1 Lunch

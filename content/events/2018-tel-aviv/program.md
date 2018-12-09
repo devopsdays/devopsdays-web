@@ -84,7 +84,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/karen-cohen">My Tiny Phoenix Project <br/> <strong>Karen Cohen</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/aaron-wolf">Come with me if you want to code - the PiNet <br/> <strong>Aaron Wolf</strong>  </a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/michael-arenzon">Deploy and Destroy: Testing Environments<br/> <strong>Michael Arenzon</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -121,7 +121,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>13:30-14:10</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/aaron-wolf">Come with me if you want to code - the PiNet <br/> <strong>Aaron Wolf</strong>  </a></div>
+    <a href="/events/2018-tel-aviv/program/karen-cohen">My Tiny Phoenix Project <br/> <strong>Karen Cohen</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/reuven-harrisson">DevOps Security - Is it really so difficult?<br/> <strong>Reuven Harrisson</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
