@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Everyone's a player (in a mid-90s MUD)"
 Type = "talk"
 Speakers = ["kenzie-woodbridge"]
+Slides = "https://docs.google.com/presentation/d/e/2PACX-1vRno8_ciPVbbMWsbPEM4VRZgtG7tQfVf_uwzo76TrG9V1CuJ0GMlsvj_blzAx4AfzL-Ilnv_k75pbZX/embed"
 +++
 
 >N
