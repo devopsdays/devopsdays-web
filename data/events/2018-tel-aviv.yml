@@ -132,6 +132,10 @@ sponsors:
     level: giveaway
   - id: matrix-atlassian
     level: silver
+  - id: wix
+    level: aluminum
+    url: https://www.wix.engineering
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -148,6 +152,9 @@ sponsor_levels:
     max: 12
   - id: bronze
     label: Silver
+    max: 12
+  - id: aluminum
+    label: Bronze
     max: 12
   # - id: day1lunch
   #   label: day 1 Lunch
