@@ -1,10 +1,10 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Baltimore 2019"
+Description = "Location for DevOpsDays Baltimore 2019"
 +++
 
-DevOpsDays Baltimore will be held at UMBC's Columbus Center.
+DevOpsDays Baltimore will be held at UMBC's Columbus Center (IMET).
 
 <img src="/img/imet.jpg" width="580" height="360" alt="UMBC Columbus Center" />
 

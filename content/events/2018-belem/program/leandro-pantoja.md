@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Do Zero para Nuvem com Arquitetura de Microsserviços"
 Type = "talk"
 Speakers = ["leandro-pantoja"]
+Slides = "https://drive.google.com/file/d/1lJFRxDOWiXj9voKc7GmfHXcXajdWX9MJ/view"
 +++
 
 Disponibilizar aplicações de forma rápida e automatizada é desafio para empresas em ambientes locais ou na nuvem. Problemas ocorrem desde a geração até a disponibilização de uma aplicação. Por isso, é necessário prover um processo para garantir entrega de ambiente e aplicações de forma ágil.

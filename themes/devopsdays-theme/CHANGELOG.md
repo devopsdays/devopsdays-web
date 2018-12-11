@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.25.0](https://github.com/devopsdays/devopsdays-theme/tree/1.25.0) (2018-11-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.24.1...1.25.0)
+
+**Fixed bugs:**
+
+- Organizer cards are of varying sizes [\#678](https://github.com/devopsdays/devopsdays-theme/issues/678)
+
 ## [1.24.1](https://github.com/devopsdays/devopsdays-theme/tree/1.24.1) (2018-11-11)
 [Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.24.0...1.24.1)
 

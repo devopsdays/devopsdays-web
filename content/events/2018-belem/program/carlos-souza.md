@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Construindo Dashboards para IoT"
 Type = "talk"
 Speakers = ["carlos-souza"]
+Slides = "https://www.dropbox.com/s/7b1j6drj4vtaezv/devops-day-belem.pdf"
 +++
 
 Nesta palestra, iremos analisar a construção de um dashboard para monitoramento de dispositivos Raspberry Pi. Aprenderemos como utilizar diferentes tecnologias e práticas de systems programming para deployment na "nuvem ™", tornando nosso sistema acessível de qualquer lugar do mundo.
