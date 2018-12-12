@@ -160,24 +160,24 @@ sponsors:
   level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-- id: community
-  label: Community
-- id: bronze
-  label: Bronze
-- id: silver
-  label: Silver
-- id: gold
-  label: Gold
-  max: 8
-- id: planet
-  label: Planet
+- id: entrance
+  label: Entrance
   max: 1
 - id: coffee
   label: Coffee
   max: 1
-- id: entrance
-  label: Entrance
+- id: planet
+  label: Planet
   max: 1
+- id: gold
+  label: Gold
+  max: 8
+- id: silver
+  label: Silver
+- id: bronze
+  label: Bronze
+- id: community
+  label: Community
 program:
 
 ignites:
