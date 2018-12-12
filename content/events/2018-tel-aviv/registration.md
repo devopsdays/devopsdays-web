@@ -9,11 +9,6 @@ Description = "Registration for devopsdays Tel Aviv 2018"
 # FAQ
 
 
-## Can I only register for day 1?
-Unfortunately, no. 
-We price DevOps Days Tickets as 2-day tickets only.  
-Once we sell out, there may be 2nd day tickets available - but they will not be significantly cheaper.
-
 ## Can I register with Direct Transfer\Cheques and other alternate payment methods?
 If you are registering a group of 10 or more people please email us.
 
@@ -27,3 +22,13 @@ We also give out free tickets to special populations (IDF members, SheCodes, etc
 We do this in order to create the conference we would want to attend.
 
 This costs money, and we do not profit from this, so we cannot afford to give you a discount.
+
+## Can I only register for day 1?
+Unfortunately, no. 
+We price DevOps Days Tickets as 2-day tickets only.  
+Once we sell out, there may be 2nd day tickets available - but they will not be significantly cheaper.
+<!-- 
+For that, please sign up below.
+<h3>DevopsDays Tel Aviv 2018 is sold out! You can sign up for the mailing list for tickets for  below</h3>
+<iframe src="https://goo.gl/forms/PkPeFdhK0x6vgVe42" width="760" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+!-->
