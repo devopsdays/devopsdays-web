@@ -48,7 +48,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
         <td style="padding: 0px 10px 0px 10px;">
           <a class="btn btn-success btn-sm" href="mailto:organizers-new-york-city-2019@devopsdays.org?subject=Silver%20Sponsorship%20Enquiry">Available. Please email us.</a>
         </td>
-        <td width="125px" style="padding: 0px 10px 0px 10px">
+        <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
           <span class="btn btn-danger btn-sm">Sold out.</span>
         </td>
       </tr>  
