@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Toronto 2018"
+Title = "devopsdays Toronto 2019"
 Type = "welcome"
-aliases = ["/events/2018-toronto"]
-Description = "devopsdays Toronto 2018"
+aliases = ["/events/2019-toronto/"]
+Description = "devopsdays Toronto 2019"
 +++
 
 <div style="text-align:center;">
@@ -11,33 +11,37 @@ Description = "devopsdays Toronto 2018"
 
 </br>
 
-devopsdays Toronto is back for its fifth year and we're growing. Our new venue will allow us to have 700 attendees.
+devopsdays Toronto is back for its sixth year at the end of May 2019. We're working out the final details with a great new venue. In the next couple of weeks we'll share dates, details on the venue and open up our call for proposals. Start thinking of session ideas.
 </br>
 
-<div class = "row">
+<!-- <div style="text-align:center;">
+  {{< event_logo >}}
+</div> -->
+
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Registration" >}} is open
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div> -->
 
@@ -46,27 +50,27 @@ devopsdays Toronto is back for its fifth year and we're growing. Our new venue w
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    Thank you for all of your submissions. We're selecting talks and confirming with speakers. We should be able to announce our program soon.
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -90,6 +94,7 @@ devopsdays Toronto is back for its fifth year and we're growing. Our new venue w
 <!--
 {{< event_twitter >}}
 -->
+
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">

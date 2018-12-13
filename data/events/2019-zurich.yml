@@ -154,8 +154,28 @@ sponsors:
   level: community
 - id: swiss-perl-workshop
   level: community
+- id: vshn
+  level: entrance
+- id: swiss-re
+  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+- id: entrance
+  label: Entrance
+  max: 1
+- id: coffee
+  label: Coffee
+  max: 1
+- id: planet
+  label: Planet
+  max: 1
+- id: gold
+  label: Gold
+  max: 8
+- id: silver
+  label: Silver
+- id: bronze
+  label: Bronze
 - id: community
   label: Community
 program:
