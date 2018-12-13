@@ -10,9 +10,11 @@ All attendees also have the opportunity to demonstrate products or projects as p
 
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-The following chart outlines our sponsorship packages at a high level, which are further detailed below.
+## [Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)  
 
-Sponsorships will be available for purchase in December 2018. In the meantime, please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
+Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
+
+The following chart outlines our sponsorship packages at a high level, which are further detailed below.
 
 
 <style>
