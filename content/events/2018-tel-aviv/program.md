@@ -38,7 +38,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>08:00-09:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Registration, Breakfast (not sponsored yet), and Sponsor Booths Open
+    Registration, Breakfast, and Sponsor Booths Open
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -112,7 +112,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>12:20-13:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch (not sponsored yet)!</a>
+    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -187,7 +187,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>08:00-09:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Registration, Breakfast (not sponsored yet)), and Sponsor Booths Open
+    Registration, Breakfast, and Sponsor Booths Open
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -261,7 +261,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>12:20-13:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch (not sponsored yet))!</a>
+    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
