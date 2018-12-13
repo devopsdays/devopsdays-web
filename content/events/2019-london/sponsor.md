@@ -34,7 +34,7 @@ Description = "Sponsor DevOpsDays London 2019"
               <center>Gold</center>
             </th>
             <th scope="col">
-              <center>Platinum<sup><a href="#1">1</a></sup></center>
+              <center>Platinum</center>
             </th>
           </tr>
         </thead>
@@ -85,7 +85,7 @@ Description = "Sponsor DevOpsDays London 2019"
             </td>
           </tr>
           <tr>
-            <th scope="row">Stand Size<sup><a href="#2">2</a></sup></th>
+            <th scope="row">Stand Size</th>
             <td class="table-warning">
               <center>&nbsp;</center>
             </td>
@@ -101,7 +101,7 @@ Description = "Sponsor DevOpsDays London 2019"
 
           </tr>
           <tr>
-            <th scope="row">Delegate Address<sup><a href="#3">3</a></sup></th>
+            <th scope="row">Delegate Address</th>
             <td class="table-warning">
               <center>&nbsp;</center>
             </td>
@@ -127,20 +127,7 @@ education, government, and consulting.</p>
 
 
 <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
-<!--<p>Number of Delegates: This year we intend to sell over 400 tickets.</p>-->
 </div>
-      <hr/>
-      <ul class="list-unstyled">
-        <li>
-          <p><small><a id="1">1</a>. Our Platinum Inclusivity sponsorship money will be put towards additional elements that make our event more  inclusive. We will offer 1 Platinum Sponsorship packages and funds from these will go towards offering childcare, sign  language / closed captioning and distribution of 50 free tickets to groups that support under-represented people in tech.</small></p>
-        </li>
-        <li>
-          <p><small><a id="2">2</a>. Sponsors will be able to locate stands close to the main conference room and the catering space, for further details of layout of venue please contact us.</small></p>
-        </li>
-        <!--<li>
-          <p><small><a id="3">3</a>. A one-minute presentation to the audience is available for Platinum, the Evening Event and Gold packages only.</small></p>
-        </li>-->
-      </ul>
     </div>
     </div>
     <!--<div class="col-md-3 col-sm-12">
