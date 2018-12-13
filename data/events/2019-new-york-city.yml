@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -192,3 +192,213 @@ sponsor_levels:
     max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2019-01-24"
+    start_time: "08:45"
+    end_time: "09:15"
+  - title: "dominica-degrandis"
+    type: talk
+    date: "2019-01-24"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-24"
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "jaclyn-damiano"
+    type: talk
+    date: "2019-01-24"
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Coffee"
+    type: custom
+    date: "2019-01-24"
+    start_time: "10:40"
+    end_time: "11:25"
+  - title: "gaurav-gargate"
+    type: talk
+    date: "2019-01-24"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space Organizing"
+    type: custom
+    date: "2019-01-24"
+    start_time: "11:55"
+    end_time: "12:25"
+  - title: "Lunch"
+    type: custom
+    date: "2019-01-24"
+    start_time: "12:25"
+    end_time: "13:40"
+  - title: "Open Space #1"
+    type: custom
+    date: "2019-01-24"
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Open Space Break"
+    type: custom
+    date: "2019-01-24"
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "Open Space #2"
+    type: custom
+    date: "2019-01-24"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space Break"
+    type: custom
+    date: "2019-01-24"
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space #3"
+    type: custom
+    date: "2019-01-24"
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: "2019-01-24"
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-01-24"
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-24"
+    start_time: "16:30"
+    end_time: "16:40"
+  - title: "quintessence-anx"
+    type: talk
+    date: "2019-01-24"
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "matty-stratton"
+    type: talk
+    date: "2019-01-24"
+    start_time: "17:10"
+    end_time: "17:40"
+  - title: "Evening Social Event"
+    type: custom
+    date: "2019-01-24"
+    start_time: "19:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2019-01-25"
+    start_time: "08:45"
+    end_time: "09:15"
+  - title: "liz-fongjones"
+    type: talk
+    date: "2019-01-25"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-25"
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "jessica-kerr"
+    type: talk
+    date: "2019-01-25"
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Coffee"
+    type: custom
+    date: "2019-01-25"
+    start_time: "10:40"
+    end_time: "11:25"
+  - title: "rob-boll"
+    type: talk
+    date: "2019-01-25"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space Organizing"
+    type: custom
+    date: "2019-01-25"
+    start_time: "11:55"
+    end_time: "12:25"
+  - title: "Lunch"
+    type: custom
+    date: "2019-01-25"
+    start_time: "12:25"
+    end_time: "13:40"
+  - title: "Open Space #1"
+    type: custom
+    date: "2019-01-25"
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Open Space Break"
+    type: custom
+    date: "2019-01-25"
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "Open Space #2"
+    type: custom
+    date: "2019-01-25"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space Break"
+    type: custom
+    date: "2019-01-25"
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space #3"
+    type: custom
+    date: "2019-01-25"
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: "2019-01-25"
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-01-25"
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-25"
+    start_time: "16:30"
+    end_time: "16:40"
+  - title: "alex-hidalgo"
+    type: talk
+    date: "2019-01-25"
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "peter-chestna"
+    type: talk
+    date: "2019-01-25"
+    start_time: "17:10"
+    end_time: "17:40"
+
+ignites:
+  - title: "heidi-waterhouse"
+    date: "2019-01-24"
+  - title: "eva-parish"
+    date: "2019-01-24"
+  - title: "amitai-schleier"
+    date: "2019-01-24"
+  - title: "robert-conley-rogers"
+    date: "2019-01-24"
+  - title: "david-ayers"
+    date: "2019-01-24"
+  - title: "anton-babenko"
+    date: "2019-01-25"
+  - title: "jody-lent"
+    date: "2019-01-25"
+  - title: "mohammed-salah-adawi"
+    date: "2019-01-25"
+  - title: "tiffany-longworth"
+    date: "2019-01-25"
+  - title: "jay-gordon"
+    date: "2019-01-25"
