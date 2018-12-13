@@ -93,6 +93,7 @@ team_members: # Name is the only required field for team members.
     github: "jaydestro"
   - name: "Matt Kuritz"
     image: "matt-kuritz.jpg"
+    github: "kuritz"
   - name: "Tom Limoncelli"
     employer: "Stack Overflow, Inc."
     image: "tom-limoncelli.jpg"
@@ -151,8 +152,8 @@ sponsors:
     level: silver
   - id: rancher
     level: silver
-  # - id: tasktop
-  #   level: silver
+  - id: tasktop
+    level: silver
   - id: puppet
     level: gold
   - id: verizon
@@ -161,6 +162,9 @@ sponsors:
     level: captioning
   # - id: victorops
   #   level: gold
+  # - id: signalfx
+  #   level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
