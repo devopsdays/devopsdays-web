@@ -76,11 +76,10 @@ Make your changes, test them locally (see above), then push that branch up to `o
 1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
 
 ### How Changes are Merged
-A maintainer will merge the PR if it is mergable, as soon as the checks pass. If you do not want your PR merged immediately, you should add a `[WIP]` tag to it. Full example:
-
-```
-[WIP][CITY-2050] Create New Event
-```
+- A maintainer will merge the PR if it is mergable, as soon as the checks pass.
+- If you do not want your PR merged immediately, in most cases you should not open the PR.
+- Our [workflow guide](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/docs/workflow/README.md) provides solutions to most `WIP` use cases without opening a PR.
+- Questions about specific cases not covered in the guide can be be asked in the #website channel on devopsdays slack.
 
 ### Only make changes to event content files
 "Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.
