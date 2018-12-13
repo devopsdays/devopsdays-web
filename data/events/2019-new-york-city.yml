@@ -160,9 +160,13 @@ sponsors:
     level: gold
   - id: f5
     level: captioning
+  - id: rundeck
+    level: silver
   # - id: victorops
   #   level: gold
   # - id: signalfx
+  #   level: gold
+  # - id: sonatype
   #   level: gold
 
 
