@@ -79,12 +79,12 @@ sponsors:
 #     level: gold
 #   - id: opsgenie
 #     level: gold
-#   - id: oracle-dyn
-#     level: gold
+  - id: gitlab
+    level: silver
 #   - id: pivotal
 #     level: gold
-#   - id: red-ventures
-#     level: gold
+  - id: red-ventures
+    level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: chef
 #     level: silver

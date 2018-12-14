@@ -91,8 +91,12 @@ sponsors:
     level: gold
   - id: serial
     level: silver
+  - id: exoscale
+    level: bronze
   - id: trivadis
     level: bronze
+  - id: oracle
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
