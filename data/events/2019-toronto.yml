@@ -2,7 +2,7 @@ name: "2019-toronto" # The name of the event. Four digit year with the city name
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Toronto" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysTO" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Be part of the sixth devopsdays Toronto!" # Edit this to suit your preferences
+description: "Be part of the sixth DevOpsDays Toronto!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00

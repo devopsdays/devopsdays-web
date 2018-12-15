@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Toronto 2019"
+Title = "DevOpsDays Toronto 2019"
 Type = "welcome"
 aliases = ["/events/2019-toronto/"]
-Description = "devopsdays Toronto 2019"
+Description = "DevOpsDays Toronto 2019"
 +++
 
 <div style="text-align:center;">
@@ -11,7 +11,7 @@ Description = "devopsdays Toronto 2019"
 
 </br>
 
-devopsdays Toronto is back for its sixth year at the end of May 2019. We're working out the final details with a great new venue. In the next couple of weeks we'll share dates, details on the venue and open up our call for proposals. Start thinking of session ideas.
+DevOpsDays Toronto is back for its sixth year at the end of May 2019. We're working out the final details with a great new venue. In the next couple of weeks we'll share dates, details on the venue and open up our call for proposals. Start thinking of session ideas.
 </br>
 
 <!-- <div style="text-align:center;">
@@ -106,7 +106,7 @@ devopsdays Toronto is back for its sixth year at the end of May 2019. We're work
 <div id="mc_embed_signup">
 <form action="//devopsdays.us12.list-manage.com/subscribe/post?u=9af4b8dabb471b1a393e57f53&amp;id=4859f773a9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Subscribe to the devopsdays Toronto mailing list to stay current on the latest conference news.</label>
+	<label for="mce-EMAIL">Subscribe to the DevOpsDays Toronto mailing list to stay current on the latest conference news.</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9af4b8dabb471b1a393e57f53_4859f773a9" tabindex="-1" value=""></div>
