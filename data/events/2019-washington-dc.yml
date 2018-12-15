@@ -299,6 +299,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: happyhour
     label: Happy Hour
+  - id: captioning
+    label: Live Caption
   - id: platinum
     label: Platinum
   - id: gold
