@@ -1,7 +1,7 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Toronto 2019"
+Description = "Propose a talk for DevOpsDays Toronto 2019"
 +++
   {{< cfp_dates >}}
 
@@ -9,7 +9,7 @@ Description = "Propose a talk for devopsdays Toronto 2019"
 
 ### Equal Opportunity
 
-devopsdays Toronto is committed to creating a diverse environment and is proud to invite people of all backgrounds and profiles to submit presentation proposals. All potential speakers will receive consideration without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, ability or age.
+DevOpsDays Toronto is committed to creating a diverse environment and is proud to invite people of all backgrounds and profiles to submit presentation proposals. All potential speakers will receive consideration without regard to race, colour, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, ability or age.
 
 For more information, please see our published {{< event_link page="conduct" text="Code of Conduct" >}}.
 
