@@ -33,7 +33,7 @@ The following chart outlines our sponsorship packages.
   table.sponsorship td         { text-align: left; border: 1px solid #000; padding: 3px; }
   table.sponsorship tr.hed1 td { border-bottom: 0px; }
   table.sponsorship tr.hed2 td { border-top: 0px; }
-  table.sponsorship td.yes     { background-color: #888; }
+  table.sponsorship td.yes     { background-color: #888; text-align: center; }
 </style>
 <table class="sponsorship">
   <tbody>
@@ -59,52 +59,52 @@ The following chart outlines our sponsorship packages.
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Logo on DevOpsDays DC 2019 event website</td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Logo on all email communication</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Shared table for swag/marketing during conference</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>1 minute pitch to full audience</td>
@@ -112,16 +112,16 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
   </tr>
   <tr>
   <tr>
     <td>1 included ticket total</td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
@@ -132,7 +132,7 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
@@ -144,7 +144,7 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
   </tr>
   <tr>
@@ -153,9 +153,9 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
-    <td class="yes"> </td>
+    <td class="yes">&#9989;</td>
   </tr>
   </tbody>
 </table>
