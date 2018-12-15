@@ -172,7 +172,7 @@ The following chart outlines our sponsorship packages.
 ### Platinum - Price $5,000 USD
 
 * All benefits of Gold sponsors
-* 1 minute pitch to full audience, including streaming audience
+* 1 minute pitch to full audience, including streaming audience (provided we are able to stream the videos)
 * 2 additional tickets, 4 in total
 * Full table for swag/marketing/staffing
 
