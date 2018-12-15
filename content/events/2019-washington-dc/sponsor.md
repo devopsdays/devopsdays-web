@@ -44,6 +44,7 @@ The following chart outlines our sponsorship packages.
     <td><strong>Silver</strong></td>
     <td><strong>Gold</strong></td>
     <td><strong>Platinum</strong></td>
+    <td><strong>Live Captions</strong></td>
     <td><strong>Happy Hour</strong></td>
   </tr>
   <tr class="hed2">
@@ -53,10 +54,12 @@ The following chart outlines our sponsorship packages.
     <td><strong>$1,000 USD</strong></td>
     <td><strong>$3,000 USD</strong></td>
     <td><strong>$5,000 USD</strong></td>
+    <td><strong>$5,000 USD</strong></td>
     <td><strong>TBD</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
+    <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
@@ -72,12 +75,14 @@ The following chart outlines our sponsorship packages.
     <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
+    <td class="yes"> </td>
   </tr>
   <tr>
     <td>Logo on all email communication</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
+    <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
@@ -89,6 +94,7 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="yes"> </td>
     <td class="no"> </td>
+    <td class="no"> </td>
     <td class="yes"> </td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
@@ -96,6 +102,7 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
+    <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
   </tr>
@@ -106,6 +113,7 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="yes"> </td>
+    <td class="no"> </td>
     <td class="yes"> </td>
   </tr>
   <tr>
@@ -114,6 +122,7 @@ The following chart outlines our sponsorship packages.
     <td class="yes"> </td>
     <td class="yes"> </td>
     <td class="yes"> </td>
+    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
@@ -126,6 +135,17 @@ The following chart outlines our sponsorship packages.
     <td class="yes"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
+    <td class="no"> </td>
+  </tr>
+  <tr>
+    <td>3 included tickets total</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="yes"> </td>
+    <td class="no"> </td>
   </tr>
   <tr>
     <td>4 included tickets total</td>
@@ -134,6 +154,7 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="yes"> </td>
+    <td class="no"> </td>
     <td class="yes"> </td>
   </tr>
   </tbody>
@@ -177,6 +198,18 @@ The following chart outlines our sponsorship packages.
 * Full table for swag/marketing/staffing
 
 [Become a Platinum Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
+
+### Live Captions - Price $5,000 USD
+
+The conference will provide live captioning of all presentations.  The captions will be available in the event space and transcripts will be available online after the event.
+
+* 3 tickets
+* full table for swag/marketing
+* logo on site and emails
+* thanked by the MC each day
+* Sign on the captioning monitors - "Live captioning sponsored by $COMPANY NAME"
+
+[Become the Live Captions Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
 
 ### Media - $0
 
