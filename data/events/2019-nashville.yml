@@ -51,6 +51,8 @@ team_members: # Name is the only required field for team members.
   - name: "Don Bauer"
     twitter: "devopsdon"
   - name: "Mike Noe"
+    twitter: "noe_mike"
+  - name: "Michael Brown"
 organizer_email: "organizers-nashville-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-nashville-2019@devopsdays.org" # Put your proposal email address here
 
