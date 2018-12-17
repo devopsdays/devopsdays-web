@@ -80,6 +80,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: appdynamics
+    level: gold
   - id: lagom-solutions
     level: silver
 
