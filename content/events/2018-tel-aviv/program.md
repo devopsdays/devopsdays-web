@@ -251,7 +251,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/itai-friendinger">0Flake - Reaching reliable non-flaky tests <br><strong>Itai Freindinger</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/avi-kivity">How to write a database <br><strong>Avi Kivity</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/avishai-ish-shalom">cloud native: the cattle the pets and the germs <br><strong>Avishai Ish Shalom</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
     <a href="/events/2018-tel-aviv/program/debbie-levitt">(workshop continued) DevOps ICU: Improving DevOps Results by (Correctly Integrating UX) <br><strong>Debbie Levitt</strong></a></div>
 </div> <!-- end timeslot div -->
