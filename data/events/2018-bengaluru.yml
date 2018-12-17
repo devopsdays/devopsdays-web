@@ -76,7 +76,7 @@ team_members: # Name is the only required field for team members.
     github: "asheet-bhaskar"
     image: "asheet.jpg"
 
-organizer_email: "satish@emergingtechs.in" # Put your organizer email address here
+organizer_email: "organizers-bengaluru-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-bengaluru-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -96,7 +96,7 @@ sponsors:
     level: silver
   - id: f5
     level: silver
-  - id: sumo-logic
+  - id: sumologic
     level: drinks
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 

@@ -38,7 +38,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>08:00-09:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Registration, Breakfast (not sponsored yet), and Sponsor Booths Open
+    Registration, Breakfast, and Sponsor Booths Open
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -57,7 +57,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>09:10-10:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="/events/2018-tel-aviv/program/jono-bacon">Keynote: <strong>Jono Bacon</strong> TBD</a>
+    <a href="/events/2018-tel-aviv/program/jono-bacon">Keynote: <strong>Jono Bacon</strong> Hacking Humans</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -84,7 +84,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>11:00-11:40</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/karen-cohen">My Tiny Phoenix Project <br/> <strong>Karen Cohen</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/aaron-wolf">Come with me if you want to code - the PiNet <br/> <strong>Aaron Wolf</strong>  </a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/michael-arenzon">Deploy and Destroy: Testing Environments<br/> <strong>Michael Arenzon</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -102,7 +102,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/sam-bellen">Papers Please! A Non-Dystopian Look at Modern Authentication<br/> <strong>Sam Bellen</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
-    <a href="/events/2018-tel-aviv/program/nitzan-shapira">How to handle errors and retries in a stateless environment<br/> <strong>Nitzan Shapira</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
   <div class = "col-md-2 col-md-offset-9 box">
     <a href="/events/2018-tel-aviv/program/avi-shitrit">(continued) Workshop: Kubernetes From Zero to Hero <br/> <strong>Avi Shitrit</strong></a></div>
 </div> <!-- end timeslot div -->
@@ -112,7 +112,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>12:20-13:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch (not sponsored yet)!</a>
+    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -121,7 +121,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>13:30-14:10</time>
   </div>
   <div class = "col-md-2 col-md-offset-0 box">
-    <a href="/events/2018-tel-aviv/program/aaron-wolf">Come with me if you want to code - the PiNet <br/> <strong>Aaron Wolf</strong>  </a></div>
+    <a href="/events/2018-tel-aviv/program/karen-cohen">My Tiny Phoenix Project <br/> <strong>Karen Cohen</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
     <a href="/events/2018-tel-aviv/program/reuven-harrisson">DevOps Security - Is it really so difficult?<br/> <strong>Reuven Harrisson</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
@@ -159,7 +159,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/pages/open-space-format">Openspaces</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-     </div>
+    <a href="/events/2018-tel-aviv/program/hyde-park">Self organizing ignites<br/> <strong>Hyde Park</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">
@@ -187,7 +187,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>08:00-09:00</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    Registration, Breakfast (not sponsored yet)), and Sponsor Booths Open
+    Registration, Breakfast, and Sponsor Booths Open
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -235,7 +235,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/events/2018-tel-aviv/program/ken-mugrage-talk">Want to do the DevOps? Change Everything<br/> <strong>Ken Mugrage</strong></a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-    <a href="/events/2018-tel-aviv/program/anton-drukh">Observability, the practical approach<br><strong>Anton Drukh</strong></a></div>
+    <a href="/events/2018-tel-aviv/program/nitzan-shapira">How to handle errors and retries in a stateless environment<br/> <strong>Nitzan Shapira</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
     <a href="/events/2018-tel-aviv/program/david-blank-edelman">Implementing SRE practices: SLI/SLO deep dive<br><strong>David Blank Edelman</strong></a></div>
   <div class = "col-md-2 col-md-offset-8 box">
@@ -261,7 +261,7 @@ heading = "devopsdays Tel Aviv - Program"
     <time>12:20-13:30</time>
   </div>
   <div class = "col-md-8 col-md-offset-2 box">
-    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch (not sponsored yet))!</a>
+    <a href="https://www.devopsdays.org/events/2018-tel-aviv/sponsor/">Lunch!</a>
   </div>
 </div> <!-- end timeslot div -->
 <!-- this div is repeated for each timeslot -->
@@ -309,7 +309,7 @@ heading = "devopsdays Tel Aviv - Program"
   <div class = "col-md-2 col-md-offset-0 box">
     <a href="/pages/open-space-format">Openspaces</a></div>
   <div class = "col-md-2 col-md-offset-3 box">
-     </div>
+    <a href="/events/2018-tel-aviv/program/open-source">Self organizing ignites<br/> <strong>Open source tooling</strong></a></div>
   <div class = "col-md-2 col-md-offset-6 box">
      </div>
   <div class = "col-md-2 col-md-offset-8 box">

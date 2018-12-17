@@ -89,6 +89,14 @@ sponsors:
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: adexcel
     level: gold
+  - id: serial
+    level: silver
+  - id: exoscale
+    level: bronze
+  - id: trivadis
+    level: bronze
+  - id: oracle
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -110,6 +118,3 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 12
-  - id: mug
-    label: Mug
-    max: 8

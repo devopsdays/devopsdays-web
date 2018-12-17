@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: registration
  - name: program
  - name: speakers
- - name: sponsor
+# - name: sponsor
  - name: contact
  - name: conduct
 # - name: example
@@ -85,7 +85,7 @@ team_members: # Name is the only required field for team members.
     github: "burdandrei"
     linkedin: "https://www.linkedin.com/in/burdandrei/"
 
-organizer_email: "satish@emergingtechs.in" # Put your organizer email address here
+organizer_email: "organizers-tel-aviv-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tel-aviv-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
@@ -126,12 +126,18 @@ sponsors:
     level: community
   - id: logzio
     level: silver
+  - id: automat_it
+    level: bronze
   - id: taboola
     level: giveaway
   - id: matrix-atlassian
     level: silver
+  - id: wix
+    level: aluminum
+    url: https://www.wix.engineering
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -143,6 +149,12 @@ sponsor_levels:
   #   max: 4
   - id: silver
     label: Gold
+    max: 12
+  - id: bronze
+    label: Silver
+    max: 12
+  - id: aluminum
+    label: Bronze
     max: 12
   # - id: day1lunch
   #   label: day 1 Lunch

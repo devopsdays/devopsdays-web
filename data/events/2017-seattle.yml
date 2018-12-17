@@ -68,7 +68,7 @@ proposal_email: "proposals-seattle-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: thoughtworks-gocd
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: deis
     level: gold

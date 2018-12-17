@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Baltimore 2019"
+Description = "Sponsor DevOpsDays Baltimore 2019"
 +++
 
 DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. DevOpsDays Baltimore does not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. We recommend sending practitioners to interact with their peers at DevOpsDays on their own terms.
@@ -10,9 +10,11 @@ All attendees also have the opportunity to demonstrate products or projects as p
 
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-The following chart outlines our sponsorship packages at a high level, which are further detailed below.
+## [Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)  
 
-Sponsorships will be available for purchase in December 2018. In the meantime, please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
+Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
+
+The following chart outlines our sponsorship packages at a high level, which are further detailed below.
 
 
 <style>
@@ -38,11 +40,11 @@ Sponsorships will be available for purchase in December 2018. In the meantime, p
       <td></td>
       <td><strong>$0 USD</strong></td>
       <td><strong>$0 USD</strong></td>
+      <td><strong>$1,000</strong></td>
+      <td><strong>$3,000</strong></td>
+      <td><strong>$5,000</strong></td>
       <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
-      <td><strong>TBD</strong></td>
+      <td><strong>$5,000</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>

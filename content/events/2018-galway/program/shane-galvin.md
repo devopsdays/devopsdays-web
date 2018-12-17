@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Microservice Automated Testing on Kubernetes "
 Type = "talk"
 Speakers = ["shane-galvin"]
+slideshare = "https://www.slideshare.net/ShaneGalvin1/microservice-automated-testing-on-kubernetes"
 +++
 
 Microservices and Kubernetes are transforming the way we approach application development and deployment. 
