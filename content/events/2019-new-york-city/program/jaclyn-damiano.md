@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["jaclyn-damiano"]
 +++
 
-
+This talk lends its perspective from my 17+ years of experience as a woman in business/IT. I explain how I’ve formed my perspective and a recent predicament I faced at work that caused me to take action. I delve into some research I’ve come across in figuring out why it is so hard to find women willing to stand out at work. I then make some recommendations for next steps in order to make women more visible at work. I gave a lightning format of this talk at DOES earlier this year, and would like to expand it to a full 30 minute talk.
