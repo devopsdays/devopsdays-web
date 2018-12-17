@@ -162,10 +162,10 @@ sponsors:
     level: captioning
   - id: rundeck
     level: silver
-  # - id: victorops
-  #   level: gold
-  # - id: signalfx
-  #   level: gold
+  - id: victorops
+    level: gold
+  - id: signalfx
+    level: gold
   # - id: sonatype
   #   level: gold
 
