@@ -45,13 +45,13 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
         </td>
-        <td style="padding: 0px 10px 0px 10px;">
-          <a class="btn btn-success btn-sm" href="mailto:organizers-new-york-city-2019@devopsdays.org?subject=Silver%20Sponsorship%20Enquiry">Available. Please email us.</a>
+        <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
+          <span class="btn btn-danger btn-sm">Sold out.</span>
         </td>
         <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
           <span class="btn btn-danger btn-sm">Sold out.</span>
         </td>
-      </tr>  
+      </tr>
       <tr>
         <td colspan="4">&nbsp;</td>
       </tr>
