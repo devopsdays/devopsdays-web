@@ -158,12 +158,15 @@ sponsors:
   level: entrance
 - id: swiss-re
   level: gold
+<<<<<<< HEAD
 - id: swisscom
   url: https://job.swisscom.ch/ict/de?showclose=1
   level: coffee
 - id: oracle2019
   level: silver
   url: https://developer.oracle.com/
+=======
+>>>>>>> b33261f5338a551a98b926ed83359b8b18af4b60
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: entrance
@@ -184,6 +187,22 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   label: Bronze
 - id: community
   label: Community
+- id: bronze
+  label: Bronze
+- id: silver
+  label: Silver
+- id: gold
+  label: Gold
+  max: 8
+- id: planet
+  label: Planet
+  max: 1
+- id: coffee
+  label: Coffee
+  max: 1
+- id: entrance
+  label: Entrance
+  max: 1
 program:
 
 ignites:
