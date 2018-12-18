@@ -232,8 +232,8 @@ program:
     date: "2019-01-24"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Open Space Organizing"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
     date: "2019-01-24"
     start_time: "11:55"
     end_time: "12:25"
@@ -242,28 +242,28 @@ program:
     date: "2019-01-24"
     start_time: "12:25"
     end_time: "13:40"
-  - title: "Open Space #1"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
     date: "2019-01-24"
     start_time: "13:40"
     end_time: "14:10"
-  - title: "Open Space Break"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: "2019-01-24"
     start_time: "14:10"
     end_time: "14:20"
-  - title: "Open Space #2"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
     date: "2019-01-24"
     start_time: "14:20"
     end_time: "14:50"
-  - title: "Open Space Break"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: "2019-01-24"
     start_time: "14:50"
     end_time: "15:00"
-  - title: "Open Space #3"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
     date: "2019-01-24"
     start_time: "15:00"
     end_time: "15:30"
@@ -328,8 +328,8 @@ program:
     date: "2019-01-25"
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Open Space Organizing"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
     date: "2019-01-25"
     start_time: "11:55"
     end_time: "12:25"
@@ -338,28 +338,28 @@ program:
     date: "2019-01-25"
     start_time: "12:25"
     end_time: "13:40"
-  - title: "Open Space #1"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
     date: "2019-01-25"
     start_time: "13:40"
     end_time: "14:10"
-  - title: "Open Space Break"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: "2019-01-25"
     start_time: "14:10"
     end_time: "14:20"
-  - title: "Open Space #2"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
     date: "2019-01-25"
     start_time: "14:20"
     end_time: "14:50"
-  - title: "Open Space Break"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: "2019-01-25"
     start_time: "14:50"
     end_time: "15:00"
-  - title: "Open Space #3"
-    type: custom
+  - title: "Open Space(Attendee Led Breakout Session) #3"
+    type: open-space
     date: "2019-01-25"
     start_time: "15:00"
     end_time: "15:30"
