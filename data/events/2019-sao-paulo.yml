@@ -96,6 +96,11 @@ team_members: # Name is the only required field for team members.
     bio: "Formado em Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara de Santos e MBA em Arquitetura de redes e Cloud Computing pela FIAP. Certificado como AWS Certified Solutions Architect e Comptia Cloud. 
     Atua na Concrete em projetos de Cloud Computing com os Big Players Amazon Web Services e Microsoft Azure e Professor convidado no MBA em Gestão de TI e Computação em Nuvem da UFSCar/2017-2018. Desbravando caminhos na Public Cloud através de soluções escaláveis e de alta disponibilidade."
     linkedin: "https://www.linkedin.com/in/tancredo-inomata-012619a2/"
+  - name: "Camila Francisco dos Santos"
+    employer: "VR Benefícios"
+    image: "camila-santos.jpg"
+    bio: "Software Quality Analyst."
+    linkedin: "https://www.linkedin.com/in/camilafrasan/"
 organizer_email: "organizers-sao-paulo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal email address here
 
