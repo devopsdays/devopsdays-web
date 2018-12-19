@@ -82,12 +82,15 @@ sponsors:
 #     level: gold
   - id: gitlab
     level: silver
+<<<<<<< HEAD
 =======
    - id: rundeck
      level: gold
    - id: gitlab
      level: silver
 >>>>>>> add program and sponsor
+=======
+>>>>>>> 23440f55a4111fc1b16fc8626a737274dd602d8d
 #   - id: pivotal
 #     level: gold
   - id: red-ventures
