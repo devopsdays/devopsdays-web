@@ -21,7 +21,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.co.uk/e/devopsdays-copenhagen-2019-tickets-53721885606" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -33,7 +33,7 @@ location_address: "" #Optional - use the street address of your venue. This will
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
