@@ -77,22 +77,10 @@ sponsors:
 #     level: gold
 #   - id: microsoft
 #     level: gold
-<<<<<<< HEAD
-#   - id: opsgenie
-#     level: gold
+  - id: rundeck
+    level: gold
   - id: gitlab
     level: silver
-<<<<<<< HEAD
-=======
-   - id: rundeck
-     level: gold
-   - id: gitlab
-     level: silver
->>>>>>> add program and sponsor
-=======
->>>>>>> 23440f55a4111fc1b16fc8626a737274dd602d8d
-#   - id: pivotal
-#     level: gold
   - id: red-ventures
     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
