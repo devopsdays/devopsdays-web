@@ -77,12 +77,10 @@ sponsors:
 #     level: gold
 #   - id: microsoft
 #     level: gold
-#   - id: opsgenie
-#     level: gold
+  - id: rundeck
+    level: gold
   - id: gitlab
     level: silver
-#   - id: pivotal
-#     level: gold
   - id: red-ventures
     level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -91,12 +89,6 @@ sponsors:
 #   - id: cloudbees
 #     level: silver
 #   - id: cyberark-before-20180505
-#     level: silver
-#   - id: forty8fifty-labs
-#     level: silver
-#   - id: kaizenops
-#     level: silver
-#   - id: roundtowertechnologies
 #     level: silver
   - id: influxdata
     level: gold

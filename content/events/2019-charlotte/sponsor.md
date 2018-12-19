@@ -10,7 +10,7 @@ Description = "Sponsor devopsdays Charlotte 2019"
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations, or distribute attendee contact lists. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space/breakout session.
 <p>
 
 <strong>Gold Sponsorship ($5,000)</strong>
