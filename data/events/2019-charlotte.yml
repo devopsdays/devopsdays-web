@@ -77,10 +77,17 @@ sponsors:
 #     level: gold
 #   - id: microsoft
 #     level: gold
+<<<<<<< HEAD
 #   - id: opsgenie
 #     level: gold
   - id: gitlab
     level: silver
+=======
+   - id: rundeck
+     level: gold
+   - id: gitlab
+     level: silver
+>>>>>>> add program and sponsor
 #   - id: pivotal
 #     level: gold
   - id: red-ventures
@@ -91,12 +98,6 @@ sponsors:
 #   - id: cloudbees
 #     level: silver
 #   - id: cyberark-before-20180505
-#     level: silver
-#   - id: forty8fifty-labs
-#     level: silver
-#   - id: kaizenops
-#     level: silver
-#   - id: roundtowertechnologies
 #     level: silver
   - id: influxdata
     level: gold
