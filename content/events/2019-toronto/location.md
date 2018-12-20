@@ -1,10 +1,10 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Toronto 2019"
+Description = "Location for DevOpsDays Toronto 2019"
 +++
 
-For its sixth year, devopsdays Toronto moving to Evergreen Brick Works in the heart Toronto's Don Valley.
+For its sixth year, DevOpsDays Toronto moving to Evergreen Brick Works in the heart Toronto's Don Valley.
 
 <b><a href="https://www.evergreen.ca/evergreen-brick-works/visitor-info/" target="_blank">Evergreen Brick Works</a>:</b> 550 Bayview Ave, Toronto, ON M4W 3X8
 
@@ -29,4 +29,4 @@ Toronto is a world class city with a multitude of accomodation options in the do
 
 ### Tourism
 
-Come to Toronto for devopsdays, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?
+Come to Toronto for DevOpsDays, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?
