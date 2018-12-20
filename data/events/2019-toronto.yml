@@ -6,15 +6,14 @@ description: "Be part of the sixth DevOpsDays Toronto!" # Edit this to suit your
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:
-enddate:
+startdate: 2019-05-29
+enddate: 2019-05-30
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:   # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -26,13 +25,12 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "43.684746,-79.366061" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Evergreen Brick Works" # Defaults to city, but you can make it the venue name.
+location_address: "550 Bayview Ave, Toronto, ON M4W 3X8" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  #  - name: propose
- #  - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
