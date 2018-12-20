@@ -44,7 +44,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td><strong>$3,000</strong></td>
       <td><strong>$5,000</strong></td>
       <td><strong>TBD</strong></td>
-      <td><strong>$5,000</strong></td>
+      <td><strong>TBD</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
@@ -155,12 +155,16 @@ The following chart outlines our sponsorship packages at a high level, which are
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2019 event website
 
+[Become a Silver Sponsor](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR).
+
 ### Gold - $3,000 USD
 
 * All benefits of Silver sponsors
 * Logo on all email communication
 * 1 additional ticket, 3 in total
 * Shared table for swag/marketing/staffing
+
+[Become a Gold Sponsor](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR).
 
 ### Platinum - $5,000 USD
 
@@ -169,7 +173,9 @@ The following chart outlines our sponsorship packages at a high level, which are
 * 2 additional tickets, 5 in total
 * Full table for swag/marketing/staffing
 
-### Happy Hour - Price $5,000 USD
+[Become a Platinum Sponsor](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR).
+
+### Happy Hour - Price TBD
 
 Conference attendees will be invited to stick around for happy hour on the first day of the conference. Additionally, we will invite other members of the Baltimore technical community to join us, space permitting. The Happy Hour sponsorship includes some special perks not listed in the table above.
 
