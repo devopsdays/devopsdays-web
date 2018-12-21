@@ -1,7 +1,7 @@
 +++
 Title = "Amitai Schleier"
-Twitter = ""
-image = ""
+Twitter = "schmonz"
+image = "amitai-schleier.jpg"
 type = "speaker"
 linktitle = "amitai-schleier"
 
