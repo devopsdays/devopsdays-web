@@ -139,3 +139,7 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+
+sponsors:
+  - id:  wortech
+    level: silver
