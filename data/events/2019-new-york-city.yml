@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -304,7 +304,7 @@ program:
     date: "2019-01-25"
     start_time: "08:45"
     end_time: "09:15"
-  - title: "liz-fongjones"
+  - title: "liz-fong-jones"
     type: talk
     date: "2019-01-25"
     start_time: "09:15"

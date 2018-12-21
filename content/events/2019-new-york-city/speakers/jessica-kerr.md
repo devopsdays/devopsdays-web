@@ -1,7 +1,7 @@
 +++
 Title = "Jessica Kerr"
-Twitter = ""
-image = ""
+Twitter = "jessitron"
+image = "jessica-kerr.jpg"
 type = "speaker"
 linktitle = "jessica-kerr"
 

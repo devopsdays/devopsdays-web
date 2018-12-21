@@ -1,7 +1,7 @@
 +++
 Title = "Dominica DeGrandis"
 Twitter = ""
-image = ""
+image = "dominica-degrandis.jpg"
 type = "speaker"
 linktitle = "dominica-degrandis"
 

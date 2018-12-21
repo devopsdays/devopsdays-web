@@ -1,7 +1,7 @@
 +++
 Title = "David Ayers"
 Twitter = ""
-image = ""
+image = "david-ayers.jpg"
 type = "speaker"
 linktitle = "david-ayers"
 
