@@ -141,5 +141,7 @@ sponsor_levels:
     label: Community
 
 sponsors:
+  - id: appdynamics
+    level: platinum
   - id:  wortech
     level: silver
