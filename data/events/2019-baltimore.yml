@@ -139,3 +139,9 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+
+sponsors:
+  - id: appdynamics
+    level: platinum
+  - id:  wortech
+    level: silver
