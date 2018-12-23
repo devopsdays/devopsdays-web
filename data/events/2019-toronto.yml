@@ -64,7 +64,7 @@ proposal_email: "proposals-toronto-2019@devopsdays.org" # Put your proposal emai
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -73,16 +73,10 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 2
+    max: 3
   - id: gold
     label: Gold
-    max: 30
-  - id: silver
-    label: Silver
-    max: 10 # This is the same as omitting the max limit.
-  - id: badge
-    label: Badge
-    max: 1
-  - id: happyhour
-    label: Lunch/Happy Hour
-    max: 1
+    max: 25
+  - id: bronze
+    label: Bronze
+    max: 10
