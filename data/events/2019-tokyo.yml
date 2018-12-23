@@ -7,9 +7,11 @@ description: # A short blurb of text to describe your event, defaults to common 
 startdate: 2019-04-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2019-04-10 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:   # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2018-12-06T00:00:00+09:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-31T15:00:00+09:00  # close your call for proposals.
+cfp_date_announce: 2019-01-31T15:00:00+09:00 # inform proposers of status
+
+cfp_link: "https://confengine.com/devopsdays-tokyo-2019"
 
 # Location
 #
