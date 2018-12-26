@@ -17,7 +17,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <hr/>
 
-<div style="width:590px">
+<div style="width:800px">
 
 <table border=1 cellspacing=1>
 <style>
@@ -44,6 +44,33 @@ The best thing to do is send engineers to interact with the experts at devopsday
         <th><center>$3000</center></th>
         <th><center>$5000</center></th>
         <th><center>$8000</center></th>
+    </tr>
+    <tr>
+        <th style="text-align:left">Pay Now</th>
+        <th><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="7HCW43Y5TXEPG">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center></th>
+        <th><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="KNZDLHRPGPJGL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center></th>
+        <th><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="KHREL2UQ6HP9J">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center></th>
+        <th><center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3ZWKAEXK26UPW">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form></center></th>
     </tr>
     <tr>
         <td colspan="5"></td>
@@ -89,7 +116,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
 
     <tr>
-        <td>logo on dedicated slide, rotating during breaks</td>
+        <td class="l">Logo on dedicated slide, rotating during breaks</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
