@@ -311,3 +311,7 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
+
+sponsors:
+  - id: circleci
+    level: gold
