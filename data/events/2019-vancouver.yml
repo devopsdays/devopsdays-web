@@ -44,17 +44,31 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Kelly Shkuratoff"
+  - name: Kelly Shkuratoff
     role: "Primary Organizer"
-  - name: "Ronald Bow"
-    twitter: "rmkbow"
-    linkedin: "https://www.linkedin.com/in/ronaldbow"
-  - name: "Tyler Mauthe"
-    twitter: "tylermauthe"
-    github: "tylermauthe"
-    linkedin: "https://linkedin.com/in/tylermauthe"
-  - name: "Kyle Young"
-    twitter: "ksgyoung"
+    twitter: kshkuratoff
+  - name: Kyle Young
+    twitter: ksgyoung
+  - name: Ronald Bow
+    twitter: rmkbow
+  - name: Tyler Mauthe
+    twitter: tylermauthe
+  - name: Vincent Janelle
+    twitter: randomfrequency
+  - name: Ben Rabinovitch
+  - name: Amin Yazdani
+    twitter: aminyazdani
+  - name: Camille Janicki
+  - name: Gillian Gunson
+  - name: Jarrod Lombardo 
+    twitter: jaberwocky
+  - name: Samantha Toner
+  - name: Simone Payne
+  - name: Nadir Merchant
+  - name: Vicky Anastassiou
+    twitter: vanastassiou
+  - name: JAmes Atwill
+
 organizer_email: "organizers-vancouver-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal email address here
 
