@@ -61,7 +61,7 @@ team_members: # Name is the only required field for team members.
     website: "https://opensource.com"
     employer: "Red Hat"
   - name: "Chris Bailey"
-    twitter: "cbailey119"
+    twitter: "seebails"
     github: "nonstickzan"
   - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
