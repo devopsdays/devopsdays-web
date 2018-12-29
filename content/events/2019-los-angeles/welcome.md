@@ -7,7 +7,7 @@ Description = "devopsdays Los Angeles 2019"
 
 <h2>{{< event_start >}}</h2>
 
-<h3 style="color: black;"> <a href="https://www.devopsdays.org/events/2018-los-angeles/propose">The CFP is now open! Click here to propose a lighting talk!</a></h3>
+<h3 style="color: black;"> <a href="/events/2019-los-angeles/propose">The CFP is now open! Click here to propose a lighting talk!</a></h3>
 
 <p>We are proud to announce 8th Annual DevOps Day LA, to be held Friday, March 8, 2019, co-located with <a href='http://www.socallinuxexpo.org'>SCALE 17x</a>, at the {{< event_link page="location" text="Pasadena Convention Center" >}}.</p>
 
