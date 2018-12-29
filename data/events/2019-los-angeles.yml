@@ -31,6 +31,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ilan Rabinovitch"
   - name: "Jordan Schwartz"
   - name: "Christopher Webber"
+  - name: "Carlos Meza"
   - name: "Omar Alva"
 
 organizer_email: "organizers-los-angeles-2019@devopsdays.org"
