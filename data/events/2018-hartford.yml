@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
   - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -144,3 +144,185 @@ sponsor_levels:
     max: 8
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: break
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "j-paul-reed"
+    type: talk
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "kelley-hedley"
+    type: talk
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Morning Break"
+    type: break
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "john-k-sawers"
+    type: talk
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: break
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Spaces Kickoff & Organization"
+    type: custom
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Afternoon Break"
+    type: break
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "16:05"
+    end_time: "16:50"
+  - title: "Closing and Day 1 Recap"
+    type: custom
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "The Portal's Board Game Happy Hour sponsored by Sonatype"
+    type: custom
+    date: 2018-10-16T00:00:00-04:00
+    start_time: "17:00"
+    end_time: "19:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: break
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Day 2 Kickoff"
+    type: custom
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "timothy-bonci"
+    type: talk
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: break
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "peter-chestna"
+    type: talk
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "mike-newswanger"
+    type: talk
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: break
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Organization"
+    type: custom
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Afternoon Break"
+    type: break
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "15:50"
+    end_time: "16:35"
+  - title: "jim-jagielski"
+    type: talk
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Conference Closing & Giveaways"
+    type: custom
+    date: 2018-10-17T23:59:59-04:00
+    start_time: "17:05"
+    end_time: "17:30"
+
+ignites:
+  - title: "devils-devops"
+    date: 2018-10-16T00:00:00-04:00
+  - title: "rajasekar-narayanan"
+    date: 2018-10-16T00:00:00-04:00
+  - title: "odie-routh"
+    date: 2018-10-16T00:00:00-04:00
+  - title: "alan-kraft"
+    date: 2018-10-16T00:00:00-04:00
+  - title: "matt-westgate"
+    date: 2018-10-16T00:00:00-04:00
+  - title: "jay-gordon"
+    date: 2018-10-17T23:59:59-04:00
+  - title: "kelly-albrecht"
+    date: 2018-10-17T23:59:59-04:00
+  - title: "currently-happening"
+    date: 2018-10-17T23:59:59-04:00
+  - title: "lawrence-shea"
+    date: 2018-10-17T23:59:59-04:00

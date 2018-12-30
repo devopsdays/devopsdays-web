@@ -44,6 +44,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Sponsor - Sponsoriser
     url: "/events/2018-montreal/sponsor/"
     icon: "money"
+  - name: Speakers - Conférencier
+    url: "/events/2018-montreal/speakers/"
   - name: Contact - Contacter
     url: "/events/2018-montreal/contact/"
     icon: "envelope-o"
@@ -72,8 +74,8 @@ team_members: # Name is the only required field for team members.
   - name: "Marc Pare"
     employer: "CloudOps"
     twitter: "MarcAlphonse"
-  - name: "Martin Goyette"
-    employer: "Agile Montreal"
+#  - name: "Martin Goyette"
+#    employer: "Agile Montreal"
     twitter: "agilemontreal"
   - name: "Donald Donovan"
     employer: "CloudOps"
@@ -155,8 +157,9 @@ program:
     date: 2018-10-10
     start_time: "08:15"
     end_time: "09:15"
+    background_color: "#ff8282"
 
-  - title: "Welcome"
+  - title: "Opening Welcome"
     type: custom
     date: 2018-10-10
     start_time: "09:15"
@@ -168,12 +171,6 @@ program:
     start_time: "09:30"
     end_time: "10:00"
 
-  - title: "Speaker Change Buffer"
-    type: custom
-    date: 2018-10-10
-    start_time: "10:00"
-    end_time: "10:05"
-
   - title: "Microsoft, gold sponsor"
     type: sponsor
     date: 2018-10-10
@@ -183,82 +180,76 @@ program:
   - title: "catherine-proulx"
     type: talk
     date: 2018-10-10
-    start_time: "10:10"
-    end_time: "10:40"
+    start_time: "10:15"
+    end_time: "10:45"
 
   - title: "Break"
     type: break
     date: 2018-10-10
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:45"
+    end_time: "11:15"
     background_color: "#ff8282"
 
   - title: "jason-yee"
     type: talk
     date: 2018-10-10
-    start_time: "11:10"
-    end_time: "11:40"
-
-  - title: "Speaker Change Buffer"
-    type: custom
-    date: 2018-10-10
-    start_time: "11:40"
+    start_time: "11:15"
     end_time: "11:45"
 
   - title: "james-shubin"
     type: talk
     date: 2018-10-10
-    start_time: "11:45"
-    end_time: "12:15"
+    start_time: "11:50"
+    end_time: "12:30"
 
   - title: "Lunch"
     type: break
     date: 2018-10-10
-    start_time: "12:15"
-    end_time: "13:30"
+    start_time: "12:30"
+    end_time: "13:40"
     background_color: "#ff8282"
 
   - title: "CloudOps & Aqua Security, silver sponsors"
     type: sponsor
     date: 2018-10-10
-    start_time: "13:30"
-    end_time: "13:35"
+    start_time: "13:40"
+    end_time: "13:45"
 
   - title: "General Announcements"
     type: custom
     date: 2018-10-10
-    start_time: "13:35"
-    end_time: "13:40"
+    start_time: "13:45"
+    end_time: "13:50"
 
   - title: "lenore-adam"
     type: talk
     date: 2018-10-10
-    start_time: "13:40"
-    end_time: "14:10"
+    start_time: "13:50"
+    end_time: "14:20"
 
   - title: "Open Space Opening"
     type: open-space
     date: 2018-10-10
-    start_time: "14:10"
-    end_time: "14:30"
+    start_time: "14:20"
+    end_time: "14:40"
 
   - title: "Ignites"
     type: ignite
     date: 2018-10-10
-    start_time: "14:35"
-    end_time: "15:05"
+    start_time: "14:45"
+    end_time: "15:15"
 
   - title: "Break"
     type: break
     date: 2018-10-10
-    start_time: "15:05"
-    end_time: "15:25"
+    start_time: "15:01"
+    end_time: "15:35"
     background_color: "#ff8282"
 
   - title: "Open Spaces #1"
     type: open-space
     date: 2018-10-10
-    start_time: "15:25"
+    start_time: "15:35"
     end_time: "16:15"
 
   - title: "Open Spaces #2"
@@ -267,10 +258,16 @@ program:
     start_time: "16:15"
     end_time: "16:55"
 
+  - title: "Onespan sponsors"
+    type: sponsor
+    date: 2018-10-10
+    start_time: "16:55"
+    end_time: "17:00"
+
   - title: "Drinks & Entertainment"
     type: custom
     date: 2018-10-10
-    start_time: "16:55"
+    start_time: "17:00"
     end_time: "19:30"
 
 
@@ -279,36 +276,31 @@ program:
     date: 2018-10-11
     start_time: "08:45"
     end_time: "09:30"
+    background_color: "#ff8282"
 
-  - title: "Welcome"
+  - title: "Opening Welcome"
     type: custom
     date: 2018-10-11
     start_time: "09:30"
     end_time: "9:45"
 
-  - title: "keynote1-tbd"
+  - title: "daniel-koffler"
     type: talk
     date: 2018-10-11
     start_time: "9:45"
     end_time: "10:05"
 
-  - title: "keynote2-tbd"
+  - title: "adam-hooper"
     type: talk
     date: 2018-10-11
     start_time: "10:10"
     end_time: "10:30"
 
-  - title: "Speaker Change Buffer"
-    type: custom
-    date: 2018-10-11
-    start_time: "10:30"
-    end_time: "10:35"
-
   - title: "Container Solutions, gold sponsor"
     type: sponsor
     date: 2018-10-11
     start_time: "10:35"
-    end_time: "10:45"
+    end_time: "10:40"
 
   - title: "alex-gervais"
     type: talk
@@ -320,76 +312,76 @@ program:
     type: break
     date: 2018-10-11
     start_time: "11:15"
-    end_time: "11:35"
+    end_time: "11:45"
     background_color: "#ff8282"
 
   - title: "jesse-hurkens"
     type: talk
     date: 2018-10-11
-    start_time: "11:35"
-    end_time: "12:05"
+    start_time: "11:45"
+    end_time: "12:12"
 
   - title: "Lunch"
     type: break
     date: 2018-10-11
-    start_time: "12:05"
-    end_time: "13:25"
+    start_time: "12:12"
+    end_time: "13:30"
     background_color: "#ff8282"
 
   - title: "Mesosphere & AppDynamics, silver sponsors"
     type: sponsor
     date: 2018-10-11
-    start_time: "13:25"
-    end_time: "13:30"
+    start_time: "13:30"
+    end_time: "13:35"
 
   - title: "General Announcements"
     type: custom
     date: 2018-10-11
-    start_time: "13:30"
-    end_time: "13:35"
+    start_time: "13:35"
+    end_time: "13:40"
 
   - title: "tsvi-korren"
     type: talk
     date: 2018-10-11
-    start_time: "13:35"
-    end_time: "14:05"
+    start_time: "13:40"
+    end_time: "14:10"
 
   - title: "Open Space Opening"
     type: open-space
     date: 2018-10-11
-    start_time: "14:05"
-    end_time: "14:25"
+    start_time: "14:10"
+    end_time: "14:30"
 
   - title: "Break"
     type: break
     date: 2018-10-11
-    start_time: "14:25"
-    end_time: "14:45"
+    start_time: "14:30"
+    end_time: "14:50"
     background_color: "#ff8282"
 
   - title: "Open Spaces #3"
     type: open-space
     date: 2018-10-11
-    start_time: "14:45"
-    end_time: "15:25"
+    start_time: "14:50"
+    end_time: "15:30"
 
   - title: "Open Spaces #4"
     type: open-space
     date: 2018-10-11
-    start_time: "15:25"
-    end_time: "16:05"
+    start_time: "15:30"
+    end_time: "16:10"
 
   - title: "toshaan-bharvani"
     type: workshop
     date: 2018-10-11
-    start_time: "14:45"
-    end_time: "16:05"
+    start_time: "14:50"
+    end_time: "16:10"
 
   - title: "Closing Statement & Contest Draw"
     type: custom
     date: 2018-10-11
-    start_time: "16:10"
-    end_time: "16:40"
+    start_time: "16:15"
+    end_time: "16:45"
 
 
 ignites:
@@ -403,5 +395,5 @@ ignites:
     date: 2018-10-10
   - title: "jody-mcintyre"
     date: 2018-10-10
-  - title: "pierre-luc-dion"
+  - title: "adrian-todorov"
     date: 2018-10-10

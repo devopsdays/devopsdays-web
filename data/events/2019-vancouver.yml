@@ -10,12 +10,10 @@ startdate:  2019-03-29 # The start date of your event. Leave blank if you don't 
 enddate:  2019-03-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
-
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_date_start: 2018-11-27T08:00:00-08:00 # start accepting talk proposals.
+cfp_date_end:  2019-02-01T17:01:59-08:00 # close your call for proposals.
+cfp_date_announce: 2018-11-28T16:20-08:00 # inform proposers of status
+cfp_link: "https://www.papercall.io/devopsdays-vancouver-2019"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -31,12 +29,12 @@ location: "UBC Robson Square" # Defaults to city, but you can make it the venue 
 location_address: "800 Robson St, Vancouver, BC V6Z 3B7" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+ #  - name: registration
+ #  - name: program
+ #  - name: speakers
+  - name: location
+  - name: propose
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -46,17 +44,31 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Kelly Shkuratoff"
+  - name: Kelly Shkuratoff
     role: "Primary Organizer"
-  - name: "Ronald Bow"
-    twitter: "rmkbow"
-    linkedin: "https://www.linkedin.com/in/ronaldbow"
-  - name: "Tyler Mauthe"
-    twitter: "tylermauthe"
-    github: "tylermauthe"
-    linkedin: "https://linkedin.com/in/tylermauthe"
-  - name: "Kyle Young"
-    twitter: "ksgyoung"
+    twitter: kshkuratoff
+  - name: Kyle Young
+    twitter: ksgyoung
+  - name: Ronald Bow
+    twitter: rmkbow
+  - name: Tyler Mauthe
+    twitter: tylermauthe
+  - name: Vincent Janelle
+    twitter: randomfrequency
+  - name: Ben Rabinovitch
+  - name: Amin Yazdani
+    twitter: aminyazdani
+  - name: Camille Janicki
+  - name: Gillian Gunson
+  - name: Jarrod Lombardo 
+    twitter: jaberwocky
+  - name: Samantha Toner
+  - name: Simone Payne
+  - name: Nadir Merchant
+  - name: Vicky Anastassiou
+    twitter: vanastassiou
+  - name: JAmes Atwill
+
 organizer_email: "organizers-vancouver-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal email address here
 
@@ -64,7 +76,7 @@ proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal em
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

@@ -12,7 +12,7 @@ enddate: 2018-11-10 # The end date of your event. Leave blank if you don't have 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-08-13 # start accepting talk proposals.
 cfp_date_end: 2018-09-13 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_announce: 2018-10-04  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-rj-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -34,15 +34,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Local
     icon: "map-o"
     url: /events/2018-rio-de-janeiro/local
-  - name: Palestre (CFP)
+#  - name: Palestre (CFP)
+#    icon: "microphone"
+#    url: https://www.papercall.io/devopsdays-rj-2018
+  - name: Palestrantes (Speakers)
     icon: "microphone"
-    url: https://www.papercall.io/devopsdays-rj-2018
+    url: "/events/2018-rio-de-janeiro/speakers/"   
   - name: Inscreva-se
     icon: "user-plus"
     url: https://www.sympla.com.br/devopsdays-rio-de-janeiro-2018__342778
-#  - name: Programação
-#    icon: "book"
-#    url:
+  - name: programação
+    icon: "book"
+    url: /events/2018-rio-de-janeiro/program
   - name: Patrocínio
     icon: "money"
     url: /events/2018-rio-de-janeiro/patrocinio
@@ -97,9 +100,15 @@ sponsors:
     level: platinum 
   - id: igcorporate
     level: platinum     
+  - id: microsoftazure
+    level: platinum
   - id: compkids
     level: familyops
   - id: bitlu
+    level: familyops
+  - id: numa
+    level: familyops
+  - id: logica-mente
     level: familyops
   - id: promove
     level: bronze    
@@ -108,16 +117,36 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: elastic
+    level: gold 
+  - id: redhat
+    level: gold     
+  - id: markway
+    level: gold     
+  - id: appdynamics
+    level: gold     
+  - id: radix
     level: gold         
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
+  - id: daitan-group
+    level: silver  
+  - id: sonatype
+    level: silver   
+  - id: stone-pagamentos
+    level: bronze  
   - id: alura
     level: learning    
+  - id: adaptnow
+    level: learning       
   - id: imasters
     level: community
   - id: womenindevops
-    level: community    
+    level: community 
+  - id: wwcoderecife
+    level: community   
+  - id: exin
+    level: community   
   - id: kinghost
     level: gifts    
   - id: caelum
@@ -148,3 +177,245 @@ sponsor_levels:
     label: Gifts       
   - id: community
     label: Comunidade
+
+program:
+  - title: "Credenciamento e recepção"
+    type: custom
+    date: 2018-11-09
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Abertura"
+    type: custom
+    date: 2018-11-09
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "mateus-prado"
+    type: talk
+    date: 2018-11-09
+    start_time: "9:15"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "analia-irigoyen"
+    type: talk
+    date: 2018-11-09
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee-Break"
+    type: custom
+    date: 2018-11-09
+    start_time: "10:30"
+    end_time: "10:45"
+    background_color: "#FDF2E9"
+  - title: "cristian-trucco"
+    type: talk
+    date: 2018-11-09
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "monica-arruda"
+    type: talk
+    date: 2018-11-09
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "davi-garcia"
+    type: talk
+    date: 2018-11-09
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Almoço / Lunch - Livre"
+    type: custom
+    date: 2018-11-09
+    start_time: "12:15"
+    end_time: "13:15"
+    background_color: "#EDBB99"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: 2018-11-09
+    start_time: "13:15"
+    end_time: "13:40"
+  - title: "Sponsor Time"
+    type: sponsor
+    date: 2018-11-09
+    start_time: "13:40"
+    end_time: "13:45"
+  - title: "carol-valencia"
+    type: talk
+    date: 2018-11-09
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "steve-fox"
+    type: talk
+    date: 2018-11-09
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "flavia-nobre"
+    type: talk
+    date: 2018-11-09
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Coffee-Break"
+    type: custom
+    date: 2018-11-09
+    start_time: "15:15"
+    end_time: "15:30"
+    background_color: "#FDF2E9"
+  - title: "lucas-tito"
+    type: talk
+    date: 2018-11-09
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "lauren-langdell"
+    type: talk
+    date: 2018-11-09
+    start_time: "16:00"
+    end_time: "16:45"
+    background_color: "#AED6F1"
+  - title: "Encerramento Dia 1"
+    type: custom
+    date: 2018-11-09
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-11-09
+    start_time: "18:00"
+    end_time: "20:30"    
+  - title: "Credenciamento e recepção"
+    type: custom
+    date: 2018-11-10
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Abertura"
+    type: custom
+    date: 2018-11-10
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "marcelo-bellinaso"
+    type: talk
+    date: 2018-11-10
+    start_time: "09:15"
+    end_time: "10:00"
+    background_color: "#AED6F1"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "09:15"
+    end_time: "10:30"
+    background_color: "#ffccff"    
+  - title: "camilla-martins"
+    type: talk
+    date: 2018-11-10
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee-Break"
+    type: custom
+    date: 2018-11-10
+    start_time: "10:30"
+    end_time: "10:45"
+    background_color: "#FDF2E9"
+  - title: "Lanche Infantil"
+    type: custom
+    date: 2018-11-10
+    start_time: "10:30"
+    end_time: "11:00"
+    background_color: "#d1d1e0"
+  - title: "alisson-menezes"
+    type: talk
+    date: 2018-11-10
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "11:00"
+    end_time: "12:15"
+    background_color: "#ffccff"      
+  - title: "tamara-rosini"
+    type: talk
+    date: 2018-11-10
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "fernando-ike"
+    type: talk
+    date: 2018-11-10
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Almoço / Lunch - Livre"
+    type: custom
+    date: 2018-11-10
+    start_time: "12:15"
+    end_time: "13:15"
+    background_color: "#EDBB99"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "13:15"
+    end_time: "15:00"
+    background_color: "#ffccff"      
+  - title: "Sponsor Time"
+    type: sponsor
+    date: 2018-11-10
+    start_time: "13:15"
+    end_time: "13:20"
+  - title: "Open Spaces - Abertura"
+    type: custom
+    date: 2018-11-10
+    start_time: "13:20"
+    end_time: "13:35"    
+  - title: "Open Spaces - Sessão 1"
+    type: open-space
+    date: 2018-11-10
+    start_time: "13:35"
+    end_time: "14:10"
+  - title: "Open Spaces - Sessão 2"
+    type: open-space
+    date: 2018-11-10
+    start_time: "14:10"
+    end_time: "15:00"  
+  - title: "Lanche Infantil"
+    type: custom
+    date: 2018-11-10
+    start_time: "15:00"
+    end_time: "15:30"
+    background_color: "#d1d1e0"      
+  - title: "vanessa-almeida"
+    type: talk
+    date: 2018-11-10
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Coffee-Break"
+    type: custom
+    date: 2018-11-10
+    start_time: "15:30"
+    end_time: "15:45"
+    background_color: "#FDF2E9"
+  - title: "Oficinas Infantis"
+    type: ignite
+    date: 2018-11-10
+    start_time: "15:30"
+    end_time: "17:00"
+    background_color: "#ffccff"       
+  - title: "rodrigo-ramalho"
+    type: talk
+    date: 2018-11-10
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "gabriela-dias"
+    type: talk
+    date: 2018-11-10
+    start_time: "16:15"
+    end_time: "17:00"
+    background_color: "#AED6F1"
+  - title: "Encerramento"
+    type: custom
+    date: 2018-11-10
+    start_time: "17:00"
+    end_time: "17:15"
+ignites:
+  - title: "julia-lamenza"
+    date: 2018-11-09  
+  - title: "leonardo-matsumota"
+    date: 2018-11-09
+  - title: "fabiana-ravaneda"
+    date: 2018-11-09  
+  - title: "marcelo-coimbra"
+    date: 2018-11-09

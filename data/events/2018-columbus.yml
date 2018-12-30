@@ -33,14 +33,16 @@ location_address: "583 E Broad St, Columbus, OH 43215" #Optional - use the stree
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
-    url: https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010
+#  - name: registration
+#    url: https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010
   - name: program
   - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
   - name: leadershipsummit
+  - name: videos
+    url: https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -84,7 +86,7 @@ proposal_email: "proposals-columbus-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: redhat
     level: gold

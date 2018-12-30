@@ -1,6 +1,7 @@
 +++
 Title = "Adrian Cole"
 Twitter = "adrianfcole"
+github = "adriancole"
 image = "adrian-cole.jpg"
 type = "speaker"
 linktitle = "adrian-cole"

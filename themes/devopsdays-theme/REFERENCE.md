@@ -3,29 +3,29 @@
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:0 updateOnSave:1 -->
 
-[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)   
-&emsp;[General Fields](#general-fields)   
-&emsp;[Date-related Fields](#date-related-fields)   
-&emsp;[Branding Fields](#branding-fields)   
-&emsp;[Location Fields](#location-fields)   
-&emsp;[Navigation Fields](#navigation-fields)   
-&emsp;[Organizer Fields](#organizer-fields)   
-&emsp;&emsp;[Team Members](#team-members)   
-&emsp;&emsp;[Organizer Emails](#organizer-emails)   
-&emsp;[Sponsor fields](#sponsor-fields)   
-&emsp;&emsp;[Sponsor Levels](#sponsor-levels)   
-&emsp;[Program Fields](#program-fields)   
-&emsp;&emsp;[Program Items](#program-items)   
-&emsp;&emsp;&emsp;[Program Element Colors](#program-element-colors)   
-&emsp;&emsp;[Ignite Fields](#ignite-fields)   
-[Pages and Frontmatter](#pages-and-frontmatter)   
-&emsp;[General Page Fields](#general-page-fields)   
-&emsp;[Talk Page Fields](#talk-page-fields)   
-&emsp;[Speaker Page Fields](#speaker-page-fields)  
-&emsp;[Program Page Fields](#program-page-fields)  
-&emsp;[Blog Post Fields](#blog-post-fields)   
-[Shortcodes](#shortcodes)   
-&emsp;[google_form](#google_form)   
+[Fields in YYYY-CITY.yml](#fields-in-yyyy-cityyml)
+&emsp;[General Fields](#general-fields)
+&emsp;[Date-related Fields](#date-related-fields)
+&emsp;[Branding Fields](#branding-fields)
+&emsp;[Location Fields](#location-fields)
+&emsp;[Navigation Fields](#navigation-fields)
+&emsp;[Organizer Fields](#organizer-fields)
+&emsp;&emsp;[Team Members](#team-members)
+&emsp;&emsp;[Organizer Emails](#organizer-emails)
+&emsp;[Sponsor fields](#sponsor-fields)
+&emsp;&emsp;[Sponsor Levels](#sponsor-levels)
+&emsp;[Program Fields](#program-fields)
+&emsp;&emsp;[Program Items](#program-items)
+&emsp;&emsp;&emsp;[Program Element Colors](#program-element-colors)
+&emsp;&emsp;[Ignite Fields](#ignite-fields)
+[Pages and Frontmatter](#pages-and-frontmatter)
+&emsp;[General Page Fields](#general-page-fields)
+&emsp;[Talk Page Fields](#talk-page-fields)
+&emsp;[Speaker Page Fields](#speaker-page-fields)
+&emsp;[Program Page Fields](#program-page-fields)
+&emsp;[Blog Post Fields](#blog-post-fields)
+[Shortcodes](#shortcodes)
+&emsp;[google_form](#google_form)
 
 <!-- /MDTOC -->
 
@@ -61,6 +61,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `registration_date_end`   | YYYY-MM-DD | No       | The date you will close registration. Can be a blank value.                                                                                                                                                                   | 2016-01-05                                            |
 | `registration_closed`     | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
 | `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere"  |                                                                                   |
+| `sponsor_link`       | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                                         | "https://myurlhere"  |                                                                                   |
 
 ### Branding Fields
 

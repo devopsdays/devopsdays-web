@@ -83,25 +83,37 @@ proposal_email: "proposals-newcastle-2018@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: vibrato
+    level: platinum
   - id: rea-group
     level: gold
   - id: csa
     level: gold
+  - id: pagerduty
+    level: gold
   - id: hays-australia
+    level: silver
+  - id: cmd-solutions
+    level: silver
+  - id: hudson
+    level: silver
+  - id: sumologic-before-20181203
     level: silver
   - id: assemblient
     level: bronze
-  - id: 'cmd-solutions'
-    level: silver
-  - id: 'mudbath-digital'
+  - id: mudbath-digital
     level: bronze
   - id: newy-tech-people
+    level: bronze
+  - id: dius
+    level: bronze
+  - id: life-without-barriers
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  #  - id: arresteddevops
  #    level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

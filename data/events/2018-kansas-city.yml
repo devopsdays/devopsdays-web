@@ -161,7 +161,7 @@ sponsors:
     level: standard
   - id: appdynamics
     level: premium
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: premium
   - id: thoughtworks-gocd
     level: premium
@@ -195,12 +195,12 @@ sponsors:
     level: party
   - id: elastic
     level: amenity
-  - id: vml
+  - id: 2018-vml
     level: premium
   - id: aporeto
     level: premium
   - id: newrelic
-    level: amenity
+    level: premium
   - id: kaizenops
     level: amenity
   - id: infosec-conferences
@@ -400,13 +400,13 @@ program:
     date: 2018-10-18
     start_time: "11:00"
     end_time: "11:05"
-  - title: "cory-kennedy"
+  - title: "avindra-fernando"
     type: talk
     date: 2018-10-18
     start_time: "11:05"
     end_time: "11:35"
-  - title: "avindra-fernando"
-    type: talk
+  - title: "Arrested DevOps"
+    type: custom
     date: 2018-10-18
     start_time: "11:35"
     end_time: "12:05"
@@ -460,12 +460,12 @@ program:
     date: 2018-10-18
     start_time: "14:30"
     end_time: "16:30"
-  - title: "matty-stratton2"
+  - title: "naresh-rayapati"
     type: workshop
     date: 2018-10-18
     start_time: "14:30"
     end_time: "16:30"
-  - title: "naresh-rayapati"
+  - title: "matty-stratton2"
     type: workshop
     date: 2018-10-18
     start_time: "14:30"

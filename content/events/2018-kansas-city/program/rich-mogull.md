@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Quick and Dirty DevSecOps"
+Title = "Quick and Dirty DevSecOps (Room 1K)"
 Type = "talk"
 Speakers = ["rich-mogull"]
 +++

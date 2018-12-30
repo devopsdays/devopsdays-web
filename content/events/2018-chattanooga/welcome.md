@@ -14,7 +14,7 @@ Description = "DevOpsDays is coming to Chattanooga for the first time on Novembe
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
@@ -36,14 +36,14 @@ Description = "DevOpsDays is coming to Chattanooga for the first time on Novembe
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     <a href="https://www.papercall.io/devopsdayschattanooga" target="_blank">Propose a talk!</a>
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">

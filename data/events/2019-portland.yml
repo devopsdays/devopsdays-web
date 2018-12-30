@@ -1,0 +1,127 @@
+name: "2019-portland" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Portland" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayspdx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2019-09-10T00:00:00-07:00
+enddate: 2019-09-12T23:59:59-07:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: # start accepting talk proposals.
+cfp_date_end: # close your call for proposals.
+cfp_date_announce: # inform proposers of status
+
+cfp_open: "false"
+cfp_link: #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "45.528562, -122.663028" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Oregon Convention Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+ # - name: location
+ # - name: registration
+ #   url: https://devopsdayspdx2018.busyconf.com/bookings/new
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bill Weiss"
+    twitter: "billweiss"
+    employer: "Rally Health"
+  - name: "Alastair Drong"
+    twitter: "dev_dull"
+  - name: "Joe Nuspl"
+    twitter: "joenuspl"
+    employer: "Workday"
+  - name: "Michelle Carroll"
+    twitter: "miiiiiche"
+  - name: "Rich Burroughs"
+    twitter: "richburroughs"
+  - name: "Scott Nasello"
+    twitter: "scottnasello"
+    employer: "Columbia Sportswear"
+  - name: "Matt Greensmith"
+    twitter: "mgreensmith"
+  - name: "Megan Guiney"
+    twitter: "meganguiney"
+  - name: "Tiffany Longworth"
+    employer: "Puppet"
+  - name: "Will Ellett"
+    employer: "Cozy"
+  - name: Jason Yee
+    twitter: gitbisect
+    employer: "DataDog"
+
+
+organizer_email: "organizers-portland-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#  - id: ignw
+#    level: platinum
+#  - id: columbia
+#    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: evening
+    label: Evening Event
+  - id: specialty
+    label: Specialty
+  - id: community
+    label: Community
+
+program:
+#  - title: "Hack day! Bring yourself, some code, and a friend! Light snacks will be provided."
+#    type: custom
+#    date: 2018-09-11
+#    start_time: "Noon"
+#    end_time: "17:00"
+#  - title: "Registration, Breakfast, Sponsors"
+#    type: custom
+#    date: 2018-09-12
+#    start_time: "08:00"
+#    end_time: "09:00"
+
+ignites:
+#  - title: "ryan-whitehurst"
+#    date: 2018-09-12
+#  - title: "maarika-krumhansl"
+#    date: 2018-09-12
