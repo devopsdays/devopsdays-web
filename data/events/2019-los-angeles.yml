@@ -36,6 +36,7 @@ team_members: # Name is the only required field for team members.
   - name: "Christopher Webber"
   - name: "Carlos Meza"
   - name: "Omar Alva"
+  - name: "Chris Smith"
 
 organizer_email: "organizers-los-angeles-2019@devopsdays.org"
 proposal_email: "organizers-los-angeles-2019@devopsdays.org"
