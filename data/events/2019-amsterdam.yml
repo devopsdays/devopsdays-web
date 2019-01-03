@@ -101,6 +101,9 @@ sponsor_levels:
   - id: BBQ
     label: BBQ
     max: "1"
+  - id: "Social event"
+    label: social
+    max: "1"
   - id: coffee
     label: Coffee
     max: "1"
