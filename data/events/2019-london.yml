@@ -81,6 +81,9 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
+    # Evening Event
+  - id: f5
+    level: evening
     # Community
   - id: leeds-devops
     level: community
@@ -109,6 +112,9 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 3
+  - id: evening
+    label: Evening Event
+    max: 1
   - id: gold
     label: Gold
     max: 7
