@@ -54,6 +54,7 @@ team_members: # Name is the only required field for team members.
     employer: "Broadridge Financial Solutions "
     image: "sumit-agarwal.jpg"
     twitter: "aga_sumit"
+    linkedin: "https://www.linkedin.com/in/agarwalsumitfsdevconsultant/"
   - name: "James Dadd"
     role: "Co-Chair"
     image: "james-dadd.jpg"
@@ -101,15 +102,11 @@ team_members: # Name is the only required field for team members.
     github: "TomOnTime"
   - name: "Jerome Moore"
     employer: "WeBuildBlack"
-  - name: "Kristen A Olah"
-    employer: "Verizon"
-    image: "kristen-olah.jpg"
   - name: "Adarsh Shah"
     image: "adarsh-shah.jpg"
     employer: "Contino"
     twitter: "shahadarsh"
     linkedin: "https://www.linkedin.com/in/adarsh-shah"
-  - name: "Tom Reingold"
   - name: "Stephen Thomas"
     employer: "iconectiv"
     linkedin: "https://www.linkedin.com/in/steve-thomas-4746bb/"
@@ -169,6 +166,10 @@ sponsors:
   - id: sonatype
     level: gold
   - id: indellient
+    level: bronze
+  - id: stack-overflow
+    level: silver
+  - id: whitesource
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
