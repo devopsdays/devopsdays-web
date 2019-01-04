@@ -33,7 +33,7 @@ location_address: "QEII Centre, Broad Sanctuary, Westminster" #Optional - use th
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -110,6 +110,8 @@ sponsors:
   - id: opsview
     level: silver
   - id: scalefactory
+    level: silver
+  - id: sensu
     level: silver
   - id: ticketmaster
     level: silver
@@ -232,6 +234,7 @@ program:
     date: 2018-09-20
     start_time: "19:00"
     end_time: "23:00"
+    custom_url: "https://www.altitudelondon.com/contact-us/"
 
 # # day 2
   - title: "Breakfast"

@@ -38,6 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: justification
+    url: https://docs.google.com/document/d/1NNk5Y8ZIhjK7z1-vfAvSG0sBwY0RhOSG14o7pRBWG28/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -159,7 +161,7 @@ sponsors:
     level: standard
   - id: appdynamics
     level: premium
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: premium
   - id: thoughtworks-gocd
     level: premium
@@ -193,13 +195,17 @@ sponsors:
     level: party
   - id: elastic
     level: amenity
-  - id: vml
+  - id: 2018-vml
     level: premium
   - id: aporeto
     level: premium
   - id: newrelic
+    level: premium
+  - id: kaizenops
     level: amenity
   - id: infosec-conferences
+    level: community
+  - id: opensource
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -394,13 +400,13 @@ program:
     date: 2018-10-18
     start_time: "11:00"
     end_time: "11:05"
-  - title: "cory-kennedy"
+  - title: "avindra-fernando"
     type: talk
     date: 2018-10-18
     start_time: "11:05"
     end_time: "11:35"
-  - title: "avindra-fernando"
-    type: talk
+  - title: "Arrested DevOps"
+    type: custom
     date: 2018-10-18
     start_time: "11:35"
     end_time: "12:05"
@@ -439,7 +445,7 @@ program:
     date: 2018-10-18
     start_time: "15:30"
     end_time: "16:30"
-  - title: "mike-rothman"
+  - title: "rich-mogull"
     type: workshop
     date: 2018-10-18
     start_time: "14:30"
@@ -454,12 +460,12 @@ program:
     date: 2018-10-18
     start_time: "14:30"
     end_time: "16:30"
-  - title: "matty-stratton2"
+  - title: "naresh-rayapati"
     type: workshop
     date: 2018-10-18
     start_time: "14:30"
     end_time: "16:30"
-  - title: "naresh-rayapati"
+  - title: "matty-stratton2"
     type: workshop
     date: 2018-10-18
     start_time: "14:30"

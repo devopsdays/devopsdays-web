@@ -76,7 +76,7 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: mesosphere
     level: gold
@@ -98,6 +98,16 @@ sponsors:
     level: silver
   - id: pluralsight
     level: silver
+  - id: russellvideo
+    level: AV
+  - id: autonomic
+    level: silver
+  - id: sonatype
+    level: gold
+  - id: plex
+    level: gold
+  - id: proquest
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -114,6 +124,9 @@ sponsor_levels:
     max: 4
   - id: bronze
     label: Bronze
+  - id: AV
+    label: AV
+    max: 1
 
 
 

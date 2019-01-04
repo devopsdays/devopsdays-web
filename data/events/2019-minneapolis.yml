@@ -33,7 +33,7 @@ location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-24
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -105,6 +105,14 @@ proposal_email: "proposals-minneapolis-2019@devopsdays.org" # Put your proposal 
 sponsors:
   - id: arresteddevops
     level: community
+  - id: f5
+    level: gold
+  - id: f5
+    level: alacarte
+  - id: appdynamics
+    level: gold
+  - id: circleci
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,5 +127,7 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community

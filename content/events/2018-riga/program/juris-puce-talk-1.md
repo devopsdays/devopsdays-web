@@ -4,8 +4,8 @@ Talk_start_time = "14:05"
 Talk_end_time = "14:30"
 Title = "GDPR and other security regulation imposed challenges on software development"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "mLwVwZvopA8"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-juris-puce-gdpr-and-other-security-regulation-imposed-challenges-on-software-development"
 Speakers = ["juris-puce"]
 +++
 

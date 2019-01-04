@@ -33,7 +33,7 @@ location_address: "89 Chestnut Street, Toronto, ON, M5G 1R1" #Optional - use the
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+ # - name: registration
   - name: program
   - name: speakers
   - name: sponsor

@@ -23,25 +23,6 @@ Description = "devopsdays Columbus 2018"
   </div>
 </div>
 
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-  	<a href="https://www.eventbrite.com/e/devopsdays-columbus-2018-registration-46846790010">Register to attend the conference!</a><br/>
-  	<span>DevOpsDays Columbus is offering scholarships for students, under-represented groups, and people between employers without funding. Please e-mail us directly to apply with your request.</span>
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
-</div>
-
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -51,14 +32,14 @@ Description = "devopsdays Columbus 2018"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -78,11 +59,26 @@ Description = "devopsdays Columbus 2018"
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Videos</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg">View on Youtube!</a>
+  </div>
+</div>
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
+<br />
+<a href="https://www.youtube.com/channel/UCUOAwmKgK1frEKoa-KOrYxg">Videos are up on YouTube!</a>
+
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}
 -->
+
+
+

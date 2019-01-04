@@ -2,6 +2,7 @@
 Title = "Síndrome do Impostor: Você não está sozinho"
 Type = "talk"
 Speakers = ["marco-junior"]
+Slides = "http://somatorio.org/talks/sindrome-impostor/ignite/DevOpsDays-POA-2018"
 +++
 
 Acha que não merece elogios? Acha que não é uma pessoa boa o suficiente? Talvez você sofra dessa sindrome.

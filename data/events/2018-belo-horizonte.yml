@@ -61,9 +61,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andrealmar/"
     # bio: ""
     image: "andre-almar.jpg"
-#   - name: "Ana Cláudia Grossi"
-#     linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
-#     image: "ana-claudia-grossi.jpg"
+  - name: "Ana Cláudia Grossi"
+    linkedin: "https://www.linkedin.com/in/ana-grossi-b8092019/"
+    image: "ana-claudia-grossi.jpg"
     # bio: ""
   - name: "Daniel Reis"
     linkedin: "https://www.linkedin.com/in/danielreisp/"
@@ -76,6 +76,10 @@ team_members: # Name is the only required field for team members.
   - name: "Gustavo Fagundes"
     linkedin: "https://www.linkedin.com/in/gustavofagundes/"
     image: "gustavo-fagundes.jpg"
+    # bio: ""
+  - name: "Luiz Henrique G. Jr."
+    linkedin: "https://www.linkedin.com/in/luiz-henrique-g-jr-0725241a/"
+    image: "luiz-henrique.jpg"
     # bio: ""
   - name: "Marco Antonio M. Junior (Somatório)"
     linkedin: "https://www.linkedin.com/in/somatorio/"
@@ -107,6 +111,10 @@ sponsors:
   - id: estabilis
     level: premium
   - id: dataminders
+    level: premium
+  - id: knowledge21
+    level: premium
+  - id: bancointer
     level: premium
   - id: 4linux
     level: educational
@@ -205,11 +213,12 @@ program:
     end_time: "15:00"
 
 ## Palestras da tarde - noite
-  - title: "antonio-muniz"
+  - title: "davidson-leonardo"
     type: talk
     date: 2018-09-29
     start_time: "13:00"
     end_time: "13:30"
+    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
 
   - title: "rafael-barbosa"
     type: talk
@@ -217,12 +226,11 @@ program:
     start_time: "13:30"
     end_time: "14:00"
 
-  - title: "davidson-leonardo"
+  - title: "antonio-muniz"
     type: talk
     date: 2018-09-29
     start_time: "14:00"
     end_time: "14:30"
-    comments: "DevOps com GitLab e Kubernetes será uma pair talk"
 
   - title: "igor-caio"
     type: talk

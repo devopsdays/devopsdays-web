@@ -1,12 +1,19 @@
 +++
-Title = "Location"
+Title = "Local do evento"
 Type = "event"
-Description = "Location for devopsdays Florianópolis 2018"
+Description = "Localização para o Devopsdays Florianópolis 2018"
 +++
 
-O evento este ano irá ocorrer na UniRitter campus FAPA, auditório do prédio 4
-## Auditório da Softplan
-*Sapiens Parque - Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000*
+<div class = "row">
+  <div class = "col">
+    <hr />
+    <h2><a href="https://www.softplan.com.br/contato/">Auditório da Softplan</a></h2>
+    <h3>Sapiens Parque</h3>
+    Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000
+    <hr />
+  </div>
+</div>
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
+
+<p></p>

@@ -51,7 +51,7 @@ proposal_email: "proposals-denver-2018@devopsdays.org" # Put your proposal email
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: opsgenie
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: platinum
   - id: mesosphere
     level: gold

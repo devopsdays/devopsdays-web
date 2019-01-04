@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "DevOps is dead, Servers are dying, and I don't feel so great myself."
 Type = "talk"
 Speakers = ["paul-czarkowski"]
+vimeo = "297681583"
 +++
 
 

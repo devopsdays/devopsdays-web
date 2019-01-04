@@ -35,8 +35,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
   - name: registration
     url: "https://devopsdayssa2018.eventize.com.br/index.php?pagina=4"
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -76,6 +76,20 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: solutis
+    level: silver
+  - id: redhat
+    level: platinum
+  - id: unifacs
+    level: gold
+  - id: elastic
+    level: silver
+  - id: concrete
+    level: silver
+  - id: impulso
+    level: bronze
+  - id: g3solutions
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -84,6 +98,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -94,3 +110,129 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: "2018-10-27"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-10-27"
+    start_time: "9:00"
+    end_time: "9:20"
+
+  - title: "fernando-ike"
+    type: talk
+    date: "2018-10-27"
+    start_time: "9:25"
+    end_time: "9:55"
+
+  - title: "jairo-junior"
+    type: talk
+    date: "2018-10-27"
+    start_time: "10:00"
+    end_time: "10:15"
+
+  - title: "thais-freitas"
+    type: talk
+    date: "2018-10-27"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "caroline-ita"
+    type: talk
+    date: "2018-10-27"
+    start_time: "10:40"
+    end_time: "10:55"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-10-27"
+    start_time: "11:00"
+    end_time: "11:15"
+
+  - title: "thiago-souza"
+    type: talk
+    date: "2018-10-27"
+    start_time: "11:15"
+    end_time: "11:45"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-10-27"
+    start_time: "11:50"
+    end_time: "12:50"
+
+  - title: "samanta-cicilia"
+    type: talk
+    date: "2018-10-27"
+    start_time: "12:55"
+    end_time: "13:25"
+
+  - title: "andrews-medina"
+    type: talk
+    date: "2018-10-27"
+    start_time: "13:30"
+    end_time: "13:45"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: "2018-10-27"
+    start_time: "13:50"
+    end_time: "14:05"
+
+  - title: "igor-macedo"
+    type: talk
+    date: "2018-10-27"
+    start_time: "14:10"
+    end_time: "14:25"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2018-10-27"
+    start_time: "14:30"
+    end_time: "14:40"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2018-10-27"
+    start_time: "14:45"
+    end_time: "14:55"
+
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2018-10-27"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2018-10-27"
+    start_time: "15:35"
+    end_time: "16:10"
+
+  - title: "Fishbowl"
+    type: custom
+    date: "2018-10-27"
+    start_time: "16:15"
+    end_time: "16:55"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2018-10-27"
+    start_time: "17:00"
+    end_time: "17:20"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2018-10-27"
+    start_time: "17:30"
+    end_time: ""
+
+ignites:
+  - title: "marco-junior"
+    date: "2018-10-27"

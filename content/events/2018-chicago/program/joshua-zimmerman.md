@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Are You My Devops?"
 Type = "talk"
 Speakers = ["joshua-zimmerman"]
+vimeo = "297683353"
 +++
 
 In this exciting new adaptation of P.D. Eastman’s classic children’s book, “Are You My Mother?”, a junior engineer wades through the numerous definitions of devops as they try to figure out what their “devops” is. What will they learn on their journey? How snarky will the narrator get?
