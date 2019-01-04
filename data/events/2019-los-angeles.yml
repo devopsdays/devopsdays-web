@@ -64,3 +64,5 @@ sponsor_levels:
 sponsors:
   - id: logdna
     level: sponsor
+  - id: sumologic
+    level: sponsor
