@@ -84,7 +84,13 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: datadog
+    level: gold
+  - id: chef
+    level: gold
   - id: lagom-solutions
+    level: silver
+  - id: gravitational
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
