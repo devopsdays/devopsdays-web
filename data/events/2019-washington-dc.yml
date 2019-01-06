@@ -313,5 +313,7 @@ sponsor_levels:
     label: Media
 
 sponsors:
+  - id: pyramid-systems
+    level: platinum
   - id: circleci
     level: gold
