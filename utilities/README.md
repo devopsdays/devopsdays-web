@@ -122,7 +122,7 @@ Use [add_program.sh](add_program.sh) to add the program for your event. The prog
 
 
 ### Speaker Images
-The headshots for your speaker images should be approximately 500px wide. They will display fluidly based upon the screen size and versions for high-density display (ex. Retina) will also be created at build time. They must be in JPG format and named with the `.jpg` extension.
+The headshots for your speaker images can be either .png or .jpg. They must be square, and 300px square, 600px square, or 900px square. If they are not square, they will be cropped at build time to the production site (note; image processing does not occur when running Hugo locally or in a deploy preview)
 
 # Adding slides and video
 
