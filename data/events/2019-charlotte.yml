@@ -83,6 +83,8 @@ sponsors:
     level: silver
   - id: red-ventures
     level: gold
+  - id: victorops
+    level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: chef
 #     level: silver
