@@ -1,8 +1,8 @@
 name: "2019-poznan" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Poznań" # The city name of the event. Capitalize it.
-event_twitter: "devopsdayspoz"
-description: "DevOpsDays is comaing to Poznań"
+event_twitter: "DevOpsDaysPoz"
+description: "DevOpsDays is coming to Poznań!"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 
