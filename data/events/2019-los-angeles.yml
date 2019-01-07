@@ -62,6 +62,8 @@ sponsor_levels:
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: datadog
+    level: sponsor
   - id: logdna
     level: sponsor
   - id: sumologic
