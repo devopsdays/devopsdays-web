@@ -11,18 +11,18 @@ enddate: 2019-03-09 # The end date of your event. Leave blank if you don't have 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-12-28 # start accepting talk proposals.
-cfp_date_end: 2019-02-10 # close your call for proposals.
-cfp_date_announce: 2019-02-11 # inform proposers of status
+cfp_date_end: 2019-02-15 # close your call for proposals.
+cfp_date_announce: 2019-02-16 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://speakerfight.com/events/devopsdays-natal/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://speakerfight.com/events/devopsday-natal-2019/" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "natal.jpg"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -40,15 +40,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: Palestrantes
   #   icon: "microphone"
   #   url: /events/2019-natal/speakers
-  # - name: Programação
-  #   icon: "book"
-  #   url: /events/2019-natal/program
-  # - name: Local
-  #   icon: "map-o"
-  #   url: /events/2019-natal/location
-  # - name: Palestre (CFP)
-  #   icon: "user-plus"
-  #   url: "https://www.papercall.io/devopsdaysnatal"
+  - name: Programação
+    icon: "book"
+    url: /events/2019-natal/program
+  - name: Local
+    icon: "map-o"
+    url: /events/2019-natal/location
+  - name: Palestre (CFP)
+    icon: "user-plus"
+    url: "https://speakerfight.com/events/devopsday-natal-2019/"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2019-natal/conduta
@@ -198,10 +198,10 @@ program:
   - title: "tbd"
     type: talk
     date: 2019-03-09
-    start_time: "16:10"
-    end_time: "16:35"
+    start_time: "08:40"
+    end_time: "17:20"
   - title: "Encerramento"
     type: open-space
     date: 2019-03-09
     start_time: "17:30"
-    end_time: "18:30"
+    end_time: "17:55"
