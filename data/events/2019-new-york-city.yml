@@ -172,7 +172,7 @@ sponsors:
   - id: whitesource
     level: bronze
   - id: wavefront
-    level: gold
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
