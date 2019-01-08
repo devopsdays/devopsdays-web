@@ -60,7 +60,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_Denver_%20April&utm_medium=banner
   - id: dellemc
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: chef
     level: gold

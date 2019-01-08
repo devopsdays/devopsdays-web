@@ -20,7 +20,11 @@
             {{- if ( $e.startdate) or (ge (dateFormat "2006-01-02" $e.startdate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now))) -}}
               {{- if ne $e.sponsors_accepted "no" -}}
                 {{- if or (not $level.max) (lt ($.Scratch.Get $level.id) $level.max) -}}
-                  <a href = "{{ (printf "events/%s/sponsor" $e.name) | absURL }}" class="sponsor-cta">
+                  {{- with $e.sponsor_link -}}
+                    <a href = "{{ . }}" class="sponsor-cta">
+                  {{- else -}}
+                    <a href = "{{ (printf "events/%s/sponsor" $e.name) | absURL }}" class="sponsor-cta">
+                  {{- end -}}
                     <i>Become a {{ $level.label }} Sponsor!</i>
                   </a>
                 {{- end -}}

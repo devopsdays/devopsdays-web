@@ -4,16 +4,46 @@ Type = "event"
 Description = "Sponsor devopsdays Geneva 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<style>
+  thead th {
+    padding: 0 2.5rem;
+  }
+
+  tbody tr:nth-child(2) td {
+    padding-bottom: 2rem;
+  }
+
+  tbody tr:not(:first-child) {
+    border-top: 1px solid #BDBDBD;
+  }
+  tbody td {
+    padding: 0.5rem 0;
+  }
+</style>
+
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an email at {{< email_organizers >}}
+
+**See details in our [presentation slides](https://drive.google.com/file/d/1cCjPfcQCoXPZQu8m43YhwDp1KX3N-9Ui/view?usp=sharing)**.
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+|                                                                           |     EVENT     |     GOLD      |    SILVER     |    BRONZE     |     MUG     |
+| ------------------------------------------------------------------------- | :-----------: | :-----------: | :-----------: | :-----------: | :---------: |
+|                                                                           | **9'000 CHF** | **6'000 CHF** | **3'000 CHF** | **1'500 CHF** | **500 CHF** |
+| **Number of sponsors**                                                    |       1       |       6       |       8       |      12       |      8      |
+| **Free tickets**                                                          |       4       |       4       |       2       |       1       |      0      |
+| Logo on event **website**                                                 |       ✔       |       ✔       |       ✔       |       ✔       |             |
+| Logo on **shared slides**, displayed during breaks (rotation)             |               |               |       ✔       |       ✔       |             |
+| Logo on **dedicated slides**, displayed during breaks (rotation)          |       ✔       |       ✔       |               |               |             |
+| Logo on **all emails** communication                                      |       ✔       |       ✔       |       ✔       |               |             |
+| 1 Minute **pitch to full audience**                                       |       ✔       |       ✔       |               |               |             |
+| 3 Minutes **pitch during evening event**                                  |       ✔       |               |               |               |             |
+| **Private table** space                                                   |       ✔       |       ✔       |               |               |             |
+| **Shared table** space                                                    |               |               |       ✔       |               |             |
+| Mention on **social media + Roll up + Program**                           |       ✔       |       ✔       |       ✔       |               |             |
+| **Flyer and/or sticker** (supplied by the sponsor) **in the visitor bag** |       ✔       |       ✔       |       ✔       |       ✔       |             |
+| Logo **printed on visitor bag**                                           |       ✔       |       ✔       |               |               |             |
+| Logo **printed on Mug**                                                   |               |               |               |               |      ✔      |
 
 <!--
 <hr/>

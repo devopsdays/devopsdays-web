@@ -3,6 +3,8 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Oslo" # The city name of the event. Capitalize it.
 event_twitter: "devopsdaysoslo"
 description: "DevopsDays is coming to Oslo!"
+status: "past"
+event_group: "Oslo"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
 startdate: 2017-11-01  # The start date of your event. Leave blank if you don't have a venue reserved yet.

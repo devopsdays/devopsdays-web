@@ -9,7 +9,7 @@ We greatly value sponsors for this community event. Platinum, Gold, and Silver s
 Additional à la carte sponsorships are available:
 
 <ul>
-<li>Live captioning - ($6000) - 1 slot available - your logo on captioning screens during breaks and  your logo with credit as captioning sponsor in the completed videos; visible credit at all times.
+<li><strike>Live captioning - ($6000)</strike> - <b>SOLD OUT</b></li>
 </ul>
 
 <ul>
