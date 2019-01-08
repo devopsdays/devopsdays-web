@@ -32,12 +32,12 @@ location: "Geneva" # Defaults to city, but you can make it the venue name.
 location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   - name: location
   - name: registration
   - name: newsletter
-  # - name: program
-  - name: speakers
+  - name: program
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -104,6 +104,10 @@ sponsors:
   - id: nutanix
     level: gold
   - id: smartwave
+    level: silver
+  - id: dbi-services
+    level: silver
+  - id: cross-systems
     level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
