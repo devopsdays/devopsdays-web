@@ -16,17 +16,30 @@ There will be some maths content, but it will be relatively light and hopefully 
 
 People will need to have the following installed (all of this works on any platform - Windows/Linux/Mac):
 
-• Git version control software <br/>
-• Jupyter Notebook: http://jupyter.org/install <br/>
-• Python (which is a prerequisite for Jupyter anyway) <br/>
-• Pip: https://pip.pypa.io/en/stable/installing/ <br/>
-• Python libraries: <br/>
-• sklearn:  http://scikit-learn.org/stable/ <br/>
-• numpy:  http://www.numpy.org/ <br/>
-• pandas: https://pandas.pydata.org/ <br/>
-• matplotlib: https://matplotlib.org/ <br/>
+<ul>
+ <li>Git: <a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a></li>
+ <li>Postman (or equivalent): <a href="https://www.getpostman.com/" target="_blank">https://www.getpostman.com/</a></li>
+ <li>A code editor (Bernard will be using VS Code)</li>
+ <li>Jupyter Notebook: <a href="http://jupyter.org/install" target="_blank">http://jupyter.org/install</a></li>
+ <li>Python (prerequisite for Jupyter): <a href="https://www.python.org/" target="_blank">https://www.python.org/</a></li>
+ <li>Python libraries:</li>
+ <ul>
+   <li>Sci-Kit Learn: <a href="http://scikit-learn.org/stable/" target="_blank">http://scikit-learn.org/stable/</a></li>
+   <li><ul><li>$ pip install scikit-learn</li></ul></li>
+   <li>Pandas: <a href="https://pandas.pydata.org/" target="_blank">https://pandas.pydata.org/</a></li>
+   <li><ul><li>$ pip install pandas</li></ul></li>
+   <li>Flask: <a href="http://flask.pocoo.org/" target="_blank">http://flask.pocoo.org/</a></li>
+   <li><ul><li>$ pip install flask</li><li>$ pip install flask_debug</li></ul></li>
+   <li>Optional libraries:</li>
+   <li>
+    <ul>
+     <li>MatPlotLib:<a href="https://matplotlib.org/" target="_blank">https://matplotlib.org/</a></li>
+     <li>NumPy: <a href="http://www.numpy.org/" target="_blank">http://www.numpy.org/</a></li>
+    </ul>
+   </li>
+  </ul>
+<ul>
 
-Will spend a few minutes at the start of the tutorial making sure that everyone has these setup correctly anyway.  
 
 
 

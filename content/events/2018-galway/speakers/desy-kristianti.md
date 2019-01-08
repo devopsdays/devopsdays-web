@@ -2,6 +2,7 @@
 Title = "Desy Kristianti"
 Twitter = "@dessskris"
 LinkedIn = "https://uk.linkedin.com/in/desyk"
+Website = "https://about.me/desy.kristianti"
 image = "desy-kristianti.jpg"
 type = "speaker"
 linktitle = "desy-kristianti"
