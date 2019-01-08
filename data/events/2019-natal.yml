@@ -40,9 +40,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: Palestrantes
   #   icon: "microphone"
   #   url: /events/2019-natal/speakers
-  # - name: Programação
-  #   icon: "book"
-  #   url: /events/2019-natal/program
+  - name: Programação
+    icon: "book"
+    url: /events/2019-natal/program
   - name: Local
     icon: "map-o"
     url: /events/2019-natal/location
@@ -198,10 +198,10 @@ program:
   - title: "tbd"
     type: talk
     date: 2019-03-09
-    start_time: "16:10"
-    end_time: "16:35"
+    start_time: "08:40"
+    end_time: "17:20"
   - title: "Encerramento"
     type: open-space
     date: 2019-03-09
     start_time: "17:30"
-    end_time: "18:30"
+    end_time: "17:55"
