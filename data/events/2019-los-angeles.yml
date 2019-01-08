@@ -63,6 +63,8 @@ sponsor_levels:
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: datadog
+    level: codefresh  
+  - id: datadog
     level: sponsor
   - id: logdna
     level: sponsor
