@@ -62,9 +62,11 @@ sponsor_levels:
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: codefresh
+    level: sponsor
   - id: datadog
-    level: codefresh  
-  - id: datadog
+    level: sponsor
+  - id: dynatrace
     level: sponsor
   - id: logdna
     level: sponsor
