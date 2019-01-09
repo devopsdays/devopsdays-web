@@ -85,6 +85,10 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
+  - id: signalfx
+    level: silver
+  - id: diamanti
+    level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #   - id: chef
 #     level: silver
