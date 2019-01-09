@@ -109,6 +109,8 @@ sponsors:
     level: silver
   - id: cross-systems
     level: silver
+  - id: globaz
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
