@@ -42,7 +42,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
-
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Chris Corriere"
@@ -78,7 +77,15 @@ proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: cloudzero
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: pagerduty
+    level: gold
+    url: https://www.pagerduty.com/?utm_medium=event&utm_source=devopsdays&utm_campaign=atl-sponsorship # Use this if you need to over-ride a sponsor URL.
+  - id: appdynamics
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: contino
+    level: gold
   - id: arresteddevops
     level: community
 
