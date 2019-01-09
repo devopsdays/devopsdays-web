@@ -98,6 +98,8 @@ proposal_email: "proposals-houston-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: collabnet-versionone
+    level: platinum
   - id: twosigma
     level: gold
   - id: fearless
