@@ -78,7 +78,15 @@ proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: cloudzero
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: pagerduty
+    level: gold
+    url: https://www.pagerduty.com/?utm_medium=event&utm_source=devopsdays&utm_campaign=atl-sponsorship # Use this if you need to over-ride a sponsor URL.
+  - id: appdynamics
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: contino
+    level: gold
   - id: arresteddevops
     level: community
 
