@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Pensando QA dos Conceitos a Prática, o QA fora da Caixa. QADevOps Mito ou Realidade?"
 Type = "talk"
 Speakers = ["alessandra-martins"]
+Slides = "https://github.com/Adolce/DevOpsDays_BEL2018/blob/master/QADEVOPS_Mito_ou_Realidade.pdf"
 +++
 
 Hoje um dos principais desafios no tange a ciclo de vida de desenvolvimento de software, além de tempo e custo, é a automação dos testes e a automação do fluxo envolvendo os processos DevOps de Continuous Integration e Continuous Delivery.

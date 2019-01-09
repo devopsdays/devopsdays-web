@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Checklists: What’s your Brown M&M?"
 Type = "talk"
 Speakers = ["jay-gordon"]
+youtube = "YSqPQCnvQC4"
 +++
 
 Whether it's launching a rocket to the moon or deploying an application with Kubernetes, checklists are important. They help provide a reasonable expectation of things that should work in the specific situation you are in. In the case of technology, checklists can help ensure your application remains resilient in times of trouble.

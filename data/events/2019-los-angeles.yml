@@ -8,7 +8,7 @@ event_group: "Los Angeles"
 startdate:  2019-03-08 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2019-03-08 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-01-10  # start accepting talk proposals.
+cfp_date_start: 2018-12-19  # start accepting talk proposals.
 cfp_date_end: 2019-02-15 # close your call for proposals.
 cfp_date_announce: 2019-02-24 # inform proposers of status.
 
@@ -34,7 +34,9 @@ team_members: # Name is the only required field for team members.
   - name: "Ilan Rabinovitch"
   - name: "Jordan Schwartz"
   - name: "Christopher Webber"
+  - name: "Carlos Meza"
   - name: "Omar Alva"
+  - name: "Chris Smith"
 
 organizer_email: "organizers-los-angeles-2019@devopsdays.org"
 proposal_email: "organizers-los-angeles-2019@devopsdays.org"
@@ -55,3 +57,18 @@ sponsor_levels:
   - id: lanyard
     label: "Lanyard"
     max: 1
+
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: codefresh
+    level: sponsor
+  - id: datadog
+    level: sponsor
+  - id: dynatrace
+    level: sponsor
+  - id: logdna
+    level: sponsor
+  - id: sumologic
+    level: sponsor

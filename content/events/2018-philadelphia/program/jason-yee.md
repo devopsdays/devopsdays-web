@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Burnout: community problem, community solution"
 Type = "talk"
 Speakers = ["jason-yee"]
+youtube = "lEN9BHZXoKU"
 +++
 
 It’s the middle of the night and you’re awakened by a phone call. What could it be? You’re not on-call this week. You glance at the caller-ID and see that it’s a teammate who has been struggling at work. Maybe it’s a serious outage and they’re escalating it to you? You answer the call to discover your teammate is having a mental health crisis. What do you do?

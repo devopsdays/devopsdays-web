@@ -7,7 +7,4 @@ Type = "talk"
 Speakers = ["carol-valencia"]
 +++
 
- A talk esta relacionado aos trabalho que venho fazendo na área de implantação e manutenção do cluster kubernetes.
- Como recuperar um cluster kubernetes ? Mostrar o uso de algumas ferramentas que nos ajudem com backup e disaster recovery.
- Conhecendo mais o etcd, e opções nativas de backup.
- Demos de ferramentas que nos ajudem no DR.
+Ferramentas em kubernetes para usar em casos de migração, recuperação de desastre, etc. Apresentarei um demo para mostrar os passos básicos da instalação e uso.

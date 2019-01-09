@@ -1,0 +1,130 @@
+name: "2019-houston" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Houston" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Houston!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+startdate:  2019-04-16 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-04-17 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-12-01 # start accepting talk proposals.
+cfp_date_end: 2019-01-31 # close your call for proposals.
+cfp_date_announce: 2019-02-14 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/2019-houston" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "29.780910, -95.560937" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city, but you can make it the venue name.
+#
+location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+#   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
+  - name: location
+#  - name: program
+#  - name: registration
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Dan Collins"
+    employer: "Current Analytics Corporation"
+    linkedin: "https://www.linkedin.com/in/thedancollins/"
+    facebook: "https://www.facebook.com/realdancollins"
+    github: "thedancollins"
+    website: "http://thedancollins.com/"
+    twitter: "realdancollins"
+    bio: "Dan is a U of H graduate with over 20 years of experience in software and systems development.  In the Microsoft-heavy world of Houston retail energy systems, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines.  Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017.  The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
+  - name: "Devlin Liles"
+    employer: "Improving - Houston"
+    linkedin: "https://www.linkedin.com/in/devlinliles/"
+    twitter: "DevlinLiles"
+    github: "devlinliles"
+    bio: "Devlin is a President at Improving – Houston, 6 time Microsoft MVP, and a passionate technologist."
+  - name: "Julia Ito"
+    employer: "Endurance Corporation"
+    linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
+    bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
+  - name: "Keegan Cotton"
+    employer: "Datadog"
+    linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
+    twitter: "keegancotton"
+    bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
+  - name: "Reggie Davis"
+    employer: "Global Custom Commerce"
+    twitter: "madblkman"
+    linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
+    bio: "Reggie is a self-taught programmer turned cloud engineer who has a passion for designing cloud architecture, increasing developer efficiency through the practice of DevOps, and improving the culture of technology by creating highly collaborative environments. Co-founder of the meetup group, 'Tech for the Culture' and co-organizer of Ng-Houston."
+  - name: "Ryan Hillard"
+    employer: "U.S. Small Business Administration"
+    linkedin: "https://www.linkedin.com/in/ryanhillard/"
+    github: "rchillard"
+    website: "https://rch.fyi/"
+    bio: "Ryan is a design thinking agile geek and DevOps enthusiast obsessed with wicked problems."
+  - name: "Shravan Arra"
+    employer: "The Altus Group"
+    linkedin: "https://www.linkedin.com/in/shravanarra/"
+    twitter: "shravanarra"
+    bio: "Shravan has 20+ years of software industry experience holding positions from programming to leadership roles both in commercial organizations and Non-Profit organizations.  He has been associated with a highly successful Agile Leadership Network Houston user group for many years in many leadership positions.  Combines his strong technical background with influencing modern development practices in his teams to transform teams and deliver high valued applications.  Currently serving as Director of Development Operations at The Altus Group.  Long time Houstonian, loves to watch the Texans."
+  - name: "Svetlana Kryukova"
+    employer: "Two Sigma Solutions"
+    linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
+    github: "skryukova"
+    bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
+
+organizer_email: "organizers-houston-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-houston-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: collabnet-versionone
+    level: platinum
+  - id: twosigma
+    level: gold
+  - id: fearless
+    level: bronze
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

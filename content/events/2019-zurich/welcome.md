@@ -77,7 +77,6 @@ Description = "DevOpsDays Zürich 209"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -86,7 +85,6 @@ Description = "DevOpsDays Zürich 209"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>

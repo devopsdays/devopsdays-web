@@ -55,16 +55,24 @@ team_members: # Name is the only required field for team members.
     website: "http://accenture.com"
     image: "jamesgress.jpg"
   - name: "Bill Bensing"
+    twitter: "bill_bensing"
     employer: "WB3Tech"
-  - name: "Jess Ladika"
-    employer: "Kforce"
+    github: "WB3Tech"
+    linkedin: "https://www.linkedin.com/in/billbensing"
+    website: "http://wb3tech.com"
+    image: "billbensing.jpg"
   - name: "Keith Sartain"
     employer: "ConnectWise"
+    facebook: "https://www.facebook.com/kbsartain"
+    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
+    website: "http://connectwise.com"
+  - name: "Jess Ladika"
+    employer: "Kforce"
   - name: "Devon Ford"
     employer: "TEKsystems"
   
 
-organizer_email: "james.m.gress@accenture.com" # Put your organizer email address here
+organizer_email: "organizers-tampa-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tampa-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Quick and Dirty DevSecOps"
 Type = "talk"
 Speakers = ["mike-rothman"]
+youtube = "div4sYm0kpU"
 +++
 
 Many DevOps devotees have heard about security and maybe even read a few blog posts about DevSecOps. But you get busy building code, eliminating WIP, and eliminating tech debt. That doesn’t leave a lot of time to make sure the code you are actually deploying is secure. But the power of DevOps is that you can build security in once, and it’s there. And even better, you don’t have to be a security expert to be able to start deploying more secure code.
