@@ -21,7 +21,7 @@ Description = "DevOpsDays Denver 2019!"
 
 <div style="font-size: 1.3em;">
   <p>
-    [CFP IS OPEN!!! Please check it out here!](https://www.papercall.io/dod-den-2019).
+    <a href="https://www.papercall.io/dod-den-2019">CFP IS OPEN!!! Please check it out here!</a>
   </p>
 </div>
 * * *
