@@ -23,7 +23,7 @@ Description = "Contact information for devopsdays Geneva 2018"
 | Holacracy & DevOps, retour d'expérience                             | [Tim Izzo](https://www.linkedin.com/in/tim-izzo/) & [Thomas Bertrand](https://www.linkedin.com/in/thomas-bertrand-51164585/) | [Octree](https://octree.ch)                           |
 | Déployer Vault et Consul sur Kubernetes                             | [Vincent Sevel](https://www.linkedin.com/in/vincent-sevel)                                                                   |                                                       |
 | Faster, Cheaper, Leaner: Horizontally Scaling a CI Pipeline         | [Yorgos Saslis-Lagoudakis](https://www.linkedin.com/in/gsaslis/)                                                             | [Redhat](https://redhat.com)                          |
-| Monitoring as an entry point for collalboration         | [Julien Pivotto](https://roidelapluie.be)                                                             |                           |
+| Monitoring as an entry point for collaboration         | [Julien Pivotto](https://roidelapluie.be)                                                             | [Inuits](https://inuits.eu)                  |
 
 # Workshops
 
