@@ -88,6 +88,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: rei
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
