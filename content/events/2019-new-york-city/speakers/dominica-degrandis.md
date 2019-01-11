@@ -6,5 +6,3 @@ type = "speaker"
 linktitle = "dominica-degrandis"
 
 +++
-
-
