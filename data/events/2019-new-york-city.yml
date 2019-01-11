@@ -84,7 +84,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/marksbirch"
   - name: "Jaclyn M Damiano"
     employer: "Verizon"
-    image: "jacki-damiano.jpg"
+    image: "jaclyn-damiano.jpg"
   - name: "Ceren Ercen"
     employer: "Grubhub/Seamless"
     image: "ceren-ercen.jpg"
