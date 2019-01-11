@@ -62,6 +62,14 @@ team_members: # Name is the only required field for team members.
     github: "eduardopiairo"
     website: "https://www.eduardopiairo.com/"
     image: eduardo-piairo.jpg
+  - name: "João Miranda"
+    employer: "Banco BPI"
+    bio: "João started his career in 2000, at the height of the dot-com bubble. That enlightening experience led him to the conclusion that agile practices (and now DevOps) are the best way to respond to the business needs of almost all organizations. He currently is IT manager at a large portuguese bank, where he helps to remove all friction that may hinder development teams fast pace."
+    linkedin: "https://www.linkedin.com/in/jhosm/"
+    twitter: "jhosm"
+    github: "jhosm"
+    website:
+    image: joao-miranda.png
   - name: "Miguel Alho"
     employer: "FARO Technologies"
     bio: "Full-time, 14-years-in-the-making, software engineer with a DevOps and Craftsmanship mindset. Previously, I worked mainly as a dev freelancer, but also as a consultant, school teacher, media producer and project manager. I'm a very big fan of TDD as a development practice, very fond of microservices, of automating as much as possible in the dev, build and deploy pipeline, but also in finding ways to augment individual and team learning experiences."
