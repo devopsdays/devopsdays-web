@@ -179,6 +179,8 @@ sponsors:
     level: bronze
   - id: wavefront
     level: silver
+  - id: logz
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
