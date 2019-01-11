@@ -34,7 +34,8 @@ location: "Mile High Station and Iron Works" # Defaults to city, but you can mak
 location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+    url: https://www.papercall.io/dod-den-2019
   - name: location
  # - name: registration
  # - name: program
