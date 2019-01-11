@@ -1,5 +1,5 @@
 theme = "devopsdays-theme"
-baseurl = "https://www.devopsdays.org/"
+baseurl = "https://devopsdayspt.azurewebsites.net/"
 # baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 GoogleAnalytics = "UA-9713393-1"
