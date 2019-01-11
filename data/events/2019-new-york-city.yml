@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
+  # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -84,7 +84,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/marksbirch"
   - name: "Jaclyn M Damiano"
     employer: "Verizon"
-    image: "jacki-damiano.jpg"
+    image: "jaclyn-damiano.jpg"
   - name: "Ceren Ercen"
     employer: "Grubhub/Seamless"
     image: "ceren-ercen.jpg"
@@ -101,7 +101,7 @@ team_members: # Name is the only required field for team members.
     twitter: "YesThatTom"
     github: "TomOnTime"
   - name: "Jerome Moore"
-    image: "jerome-moore.png"
+    image: "jerome-moore.jpg"
     employer: "WeBuildBlack"
   - name: "Adarsh Shah"
     image: "adarsh-shah.jpg"
@@ -185,8 +185,10 @@ sponsors:
     level: bronze
   - id: pure-storage
     level: registration
+  - id: cloudbees
+    level: bronze
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
