@@ -75,6 +75,16 @@ proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: appdynamics
+    level: gold
+  - id: codefresh
+    level: gold
+  - id: influxdata
+    level: gold 
+  - id: signalfx
+    level: gold
+  - id: salesforce
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
