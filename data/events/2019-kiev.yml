@@ -22,7 +22,7 @@ registration_date_start: 2019-01-01 # start accepting registration. Leave blank 
 registration_date_end: 2019-05-17 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayskyiv.2event.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -68,7 +68,7 @@ team_members: # Name is the only required field for team members.
   - name: "Mykola Marzhan"
     employer: "Percona"
     twitter: ""
-    bio: "Mykola has been working as Release/DevOps Engineer for 10 years and most of his career has focused on automation of release procedures, development of monitoring, update and deployment systems."
+    bio: "Mykola has been shorting “Time-to-market” in software companies more than ten years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
     github: "delgod"
     linkedin: "https://www.linkedin.com/in/delgod/"
     image: "mykola-marzhan.jpg"
@@ -99,6 +99,8 @@ sponsors:
   - id: ab-soft
     level: bronze
   - id: pivotal
+    level: bronze
+  - id: inuits
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
