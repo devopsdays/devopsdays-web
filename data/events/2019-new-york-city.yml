@@ -185,7 +185,7 @@ sponsors:
     level: bronze
   - id: pure-storage
     level: registration
-  - id: cloudbees
+  - id: cloudbees-codeship
     level: bronze
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
