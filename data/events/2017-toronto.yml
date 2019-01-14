@@ -97,7 +97,7 @@ sponsors:
     level: gold
   - id: redhat
     level: silver
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: lunch
   - id: pagerduty
     level: gold

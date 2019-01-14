@@ -80,7 +80,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pagerduty
     level: gold
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: gold
   - id: cloudbees-before-20161025
     level: gold
