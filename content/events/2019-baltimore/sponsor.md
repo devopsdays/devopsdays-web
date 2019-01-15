@@ -10,7 +10,7 @@ All attendees also have the opportunity to demonstrate products or projects as p
 
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-## [Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)  
+## [Become A Sponsor For DevOpsDays 2019 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)  
 
 Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 
@@ -218,5 +218,11 @@ become a Community Sponsor.
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2019 event website
 * Please contact {{< email_organizers >}} for details about becoming a media sponsor.
+
+We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
+
+* Before 28 February 2019 - 100% refund is available
+* Between 1 March 2019 and 2 April 2019 - 90% refund is available
+* After 2 April 2019 - No refund is available
 
 <hr/>
