@@ -143,5 +143,7 @@ sponsor_levels:
 sponsors:
   - id: appdynamics
     level: platinum
+  - id: onyx-point
+    level: gold
   - id:  wortech
     level: silver

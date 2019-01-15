@@ -4,11 +4,15 @@ Type = "welcome"
 aliases = ["/events/2019-baltimore/"]
 Description = "DevOpsDays Baltimore 2019"
 +++
+# [Register Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new)
 
-<div style="text-align:center;">
+<br/>
+<br/>
+<div style="text-align:left;">
   {{< event_logo >}}
 </div>
-
+<br/>
+<br/>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -32,8 +36,7 @@ Description = "DevOpsDays Baltimore 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    Coming soon!
-    <!-- {{< event_link page="registration" text="Register to attend the conference!" >}} -->
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
 </div>
 
@@ -84,3 +87,5 @@ Description = "DevOpsDays Baltimore 2019"
 
 
 {{< event_twitter >}}
+<hr/>
+# [Register Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new)
