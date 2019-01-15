@@ -219,10 +219,6 @@ become a Community Sponsor.
 * Logo on DevOpsDays Baltimore 2019 event website
 * Please contact {{< email_organizers >}} for details about becoming a media sponsor.
 
-We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
-
-* Before 28 February 2019 - 100% refund is available
-* Between 1 March 2019 and 2 April 2019 - 90% refund is available
-* After 2 April 2019 - No refund is available
+*Sponsor Cancellation Policy*: If you need to adjust or cancel your sponsorship, please email {{< email_organizers >}}. We will consider partial sponsor refunds based on the nature and timing of your request.
 
 <hr/>
