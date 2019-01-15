@@ -48,40 +48,40 @@ The following chart outlines our sponsorship packages at a high level, which are
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Baltimore 2019 event website</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Logo on all email communication</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Shared table for swag/marketing during conference</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -91,9 +91,9 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>1 minute pitch to full audience (including streaming audience)</td>
@@ -101,14 +101,14 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>1 included ticket total</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -119,7 +119,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td>2 included tickets total</td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -130,7 +130,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -141,9 +141,9 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
   </tbody>
 </table>
