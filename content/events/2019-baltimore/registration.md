@@ -4,7 +4,7 @@ Type = "event"
 Description = "Registration for DevOpsDays Baltimore 2019"
 +++
 
-## [Register Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new)
+# [Register Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new)
 
 We're excited to have you join us for DevOpsDays in Baltimore! Please email the organizing team at {{< email_organizers >}} if you have any questions or issues.
 
