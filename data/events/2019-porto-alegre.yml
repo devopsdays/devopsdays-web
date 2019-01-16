@@ -69,7 +69,7 @@ team_members: # Name is the only required field for team members.
     facebook: "cristiano.diedrich"
     linkedin: "https://www.linkedin.com/in/cristianodiedrich"
     bio: "Formado em sistemas de informação, trabalho atualmente como Chapter Leader de Infraestrutura na Umbler, uma startup de hosting sob demanda, atuo na pesquisa e desenvolvimento de soluções para hosting e PaaS. Sou apaixonado por linux e tecnologias open-source, áreas que conheço a muitos anos."
-    image: "cristiano-diedrich.png"
+    image: "cristiano-diedrich.jpg"
   - name: "Fabricia Doria"
   - name: "Guilherme Elias"
     twitter: "guilhermelias"
