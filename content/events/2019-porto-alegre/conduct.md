@@ -73,7 +73,7 @@ Assédio e outras violações do código de conduta reduzem o valor do evento pa
 Pessoas como você fazem o nosso evento um lugar melhor, e você pode fazer denúncias de forma anônima ou pessoalmente.
 
 ### Comunicação anônima 
-Você pode nos comunicar anonimamente por [aqui](https://docs.google.com/forms/d/e/1FAIpQLSeYCF36d70cFR2yqJQ5tZLNe_34HzbTaXF_JnP7AURyIjRauA/viewform?usp=sf_link).
+Você pode nos comunicar anonimamente por [aqui](https://docs.google.com/forms/d/e/1FAIpQLScMi_npwJZEltlJDDq_NIUnBraF2BVrEcCkce3QF7rPrX0pig/viewform?usp=sf_link).
 
 A comunicação anônima é para garantir seu total conforto, embora não seja possível informar você sobre a conclusão do ocorrido. Garantimos, porém, que tomaremos todas as providências para assegurar um evento livre de assédio.
 
