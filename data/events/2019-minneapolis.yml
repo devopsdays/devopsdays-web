@@ -115,6 +115,8 @@ sponsors:
     level: gold
   - id: datadog
     level: silver
+  - id: infinitecampus
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
