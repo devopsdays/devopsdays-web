@@ -5,7 +5,9 @@ aliases = ["/events/2019-porto-alegre/"]
 Description = "devopsdays porto-alegre 2019"
 +++
 
+<div style="text-align:center;">
   {{< event_logo >}}
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -16,6 +18,7 @@ Description = "devopsdays porto-alegre 2019"
   </div>
 </div>
 
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
@@ -58,6 +61,8 @@ Description = "devopsdays porto-alegre 2019"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
+  </div>
+</div> 
 
 <div class = "row">
   <div class = "col-md-2">
@@ -78,6 +83,4 @@ Description = "devopsdays porto-alegre 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
