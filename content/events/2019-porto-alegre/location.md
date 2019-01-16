@@ -8,7 +8,7 @@ O evento este ano será na Faculdade SENAI de tecnologia.
 
 ![Faculdade SENAI de tecnologia](/events/2019-porto-alegre/faculdade-senai.png)
 
-
+O local possui estacionamento gratuito
 
 ### Como chegar
 A faculdade fica na Av. Assis Brasil, 8450, Sarandi, Porto Alegre/RS, logo em frente à FIERGS

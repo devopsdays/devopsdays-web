@@ -25,6 +25,7 @@ Description = "devopsdays porto-alegre 2019"
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -61,8 +62,6 @@ Description = "devopsdays porto-alegre 2019"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-  </div>
-</div> 
 
 <div class = "row">
   <div class = "col-md-2">
