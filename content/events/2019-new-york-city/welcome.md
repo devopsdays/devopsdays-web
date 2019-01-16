@@ -28,7 +28,7 @@ Description = "devopsdays New York City 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Sorry! We're sold out for 2019. See you next year!
   </div>
 </div>
 
