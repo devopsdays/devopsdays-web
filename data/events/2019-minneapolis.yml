@@ -119,6 +119,8 @@ sponsors:
     level: silver
   - id: hackthegap
     level: community
+  - id: softwaredefinedtalk
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
