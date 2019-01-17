@@ -70,6 +70,8 @@ sponsors:
     level: sponsor
   - id: dynatrace
     level: sponsor
+  - id: launchdarkly
+    level: sponsor
   - id: logdna
     level: sponsor
   - id: "releaseteam"
