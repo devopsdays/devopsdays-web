@@ -187,6 +187,10 @@ sponsors:
     level: registration
   - id: cloudbees-codeship
     level: bronze
+  - id: viacom
+    level: social
+  - id: googlecloud
+    level: social
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
