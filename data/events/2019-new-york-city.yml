@@ -36,7 +36,7 @@ location_address: "1515 Broadway, New York, NY 10036" #Optional - use the street
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   - name: program
   - name: speakers
   # - name: sponsor
