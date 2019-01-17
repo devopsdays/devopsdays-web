@@ -85,14 +85,20 @@ team_members: # Name is the only required field for team members.
     github: "joaobrodrigues"
     website:
     image:
+  - name: "Manuel Pais"
+    employer: "Independent"
+    bio: "Independent DevOps and Continuous Delivery Consultant, focused on teams and flow. Manuel helps organizations adopting DevOps and Continuous Delivery (both from technical and human perspectives) via strategic assessments, practical workshops and technical coaching. He's also the DevOps lead for InfoQ. Tweets https://twitter.com/manupaisable. Blogs https://medium.com/@manupaisable. Manuel is co-author of a book on Software Releasability (http://releasabilitybook.com) and another on Team Topologies (http://teamtopologies.com)." 
+    linkedin: "https://www.linkedin.com/in/martatorneiro"
+    twitter: "manupaisable"
+    github: "manupaisable"
+    website: "https://www.manuelpais.net/"
+    image: manuel-pais.jpg
   - name: "Marta Torneiro"
     employer: "Blip - Paddy Power Betfair"
     bio: 
     linkedin: "https://www.linkedin.com/in/martatorneiro"
     twitter: 
     github: 
-    website:
-    image:
   - name: "Miguel Alho"
     employer: "FARO Technologies"
     bio: "Full-time, 14-years-in-the-making, software engineer with a DevOps and Craftsmanship mindset. Previously, I worked mainly as a dev freelancer, but also as a consultant, school teacher, media producer and project manager. I'm a very big fan of TDD as a development practice, very fond of microservices, of automating as much as possible in the dev, build and deploy pipeline, but also in finding ways to augment individual and team learning experiences."
