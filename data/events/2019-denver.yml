@@ -84,6 +84,8 @@ sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsors:
 - id: circleci
   level: silver
+- id: rundeck
+  level: gold
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -102,6 +104,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 6
-  - id: community
-    label: Community
+  - id: supporter
+    label: Supporter
     max: 4
