@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Bogota 2018"
+Title = "devopsdays Bogota 2019"
 Type = "welcome"
-aliases = ["/events/2018-bogota"]
-Description = "devopsdays Bogotá 2018"
+aliases = ["/events/2019-bogota"]
+Description = "devopsdays Bogotá 2019"
 +++
 
 <!-- <div style="text-align:center;">

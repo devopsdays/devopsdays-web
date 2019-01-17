@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Bogotá 2018"
+Description = "Location for devopsdays Bogotá 2019"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
