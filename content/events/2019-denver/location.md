@@ -2,7 +2,7 @@
 City = "Denver"
 Year = "2019"
 title = "Location"
-type = "Event"
+type = "event"
 
 +++
 
