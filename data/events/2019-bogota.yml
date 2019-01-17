@@ -1,6 +1,6 @@
 name: "2019-bogota" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
-city: "Bogota" # The city name of the event. Capitalize it.
+city: "Bogotá" # The city name of the event. Capitalize it.
 event_twitter: "devopsdayscityabbr" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Bogotá, Colombia!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -61,8 +61,9 @@ team_members: # Name is the only required field for team members.
     bio: "Ingeniero de sistemas con experiencia en implementación de prácticas, procesos y tecnologias DevOps en industrias como banca, telcos, aviancaión y productos. entrenadr en metodologias agiles, cultura DevOps y plataformas y aplicaciones de automatización."
     image: "rafael.jpg"
     twitter: "@rafaelMartAng"
-organizer_email: "organizers-city-year@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-city-year@devopsdays.org" # Put your proposal email address here
+
+organizer_email: "organizers-bogota-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-bogota-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
