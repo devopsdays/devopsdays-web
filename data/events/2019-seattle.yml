@@ -90,9 +90,15 @@ sponsors:
     level: gold
   - id: rei
     level: gold
+  - id: xmatters
+    level: gold
+  - id: rundeck
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
+    level: silver
+  - id: gitlab
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
