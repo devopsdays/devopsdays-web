@@ -13,15 +13,15 @@ Description = "Sponsor DevopsDays Denver!"
   <a href="https://drive.google.com/file/d/1vkjjGbKi0O98fvQqVmMmU3dsrxEM1qEd/view">Prospectus PDF</a>
 </div>
 <hr/>
-<!--div>
+<div>
   <h4>Sponsor Pay Links</h4>
   <table>
     <tr>
-      <th style="text-align: center;">Supporter</th>
-      <th style="text-align: center;">Silver</th>
-      <th style="text-align: center;">Gold</th>
-      <th style="text-align: center;">Platinum</th>
-      <th style="text-align: center;">Happy Hour Social</th>
+      <th style="text-align: center;">Supporter (max 4)</th>
+      <th style="text-align: center;">Silver (max 6)</th>
+      <th style="text-align: center;">Gold (max 6)</th>
+      <th style="text-align: center;">Platinum (max 4)</th>
+      <th style="text-align: center;">Happy Hour Social (max 1)</th>
     </tr>
     <tr style="text-align: center;">
       <td>
@@ -61,10 +61,11 @@ Description = "Sponsor DevopsDays Denver!"
         $8,500
       </td>
       <td>
-        Please contact via email.<br/>
+        Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
         $9,000
       </td>
     </tr>
   </table>
+  <p>Please note that we will take down links as slots sell out.</p>
 </div>
-<hr/-->
+<hr/>
