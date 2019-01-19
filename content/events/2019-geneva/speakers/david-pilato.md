@@ -1,6 +1,6 @@
 +++
 Title = "David Pilato"
-Twitter = "https://twitter.com/dadoonet"
+Twitter = "dadoonet"
 image = "david-pilato.jpg"
 type = "speaker"
 linktitle = "david-pilato"
