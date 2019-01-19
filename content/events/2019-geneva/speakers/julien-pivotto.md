@@ -1,6 +1,6 @@
 +++
 Title = "Julien Pivotto"
-Twitter = "https://twitter.com/roidelapluie"
+Twitter = "roidelapluie"
 image = "julien-pivotto.jpg"
 type = "speaker"
 linktitle = "julien-pivotto"
