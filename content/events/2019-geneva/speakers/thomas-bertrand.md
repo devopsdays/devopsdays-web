@@ -1,6 +1,6 @@
 +++
 Title = "Thomas Bertrand"
-Twitter = "https://twitter.com/gibtmirdas"
+Twitter = "gibtmirdas"
 image = "thomas-bertrand.jpg"
 type = "speaker"
 linktitle = "thomas-bertrand"
