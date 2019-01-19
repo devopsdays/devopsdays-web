@@ -1,6 +1,6 @@
 +++
 Title = "Manuel Vacelet"
-Twitter = "https://twitter.com/vaceletm"
+Twitter = "vaceletm"
 Linkedin = "https://www.linkedin.com/in/tim-izzo/"
 image = "manuel-vacelet.jpg"
 type = "speaker"
