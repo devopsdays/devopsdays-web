@@ -1,6 +1,6 @@
 +++
 Title = "Tim Izzo"
-Twitter = "https://twitter.com/5ika_"
+Twitter = "5ika_"
 image = "tim-izzo.jpg"
 type = "speaker"
 linktitle = "tim-izzo"
