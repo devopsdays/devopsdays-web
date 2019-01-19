@@ -1,6 +1,6 @@
 +++
 Title = "Vincent Sevel"
-Twitter = "https://twitter.com/vincent_sevel"
+Twitter = "vincent_sevel"
 image = "vincent-sevel.jpg"
 type = "speaker"
 linktitle = "vincent-sevel"
