@@ -1,6 +1,6 @@
 +++
 Title = "Ignat Korchagin"
-Twitter = "https://twitter.com/secumod"
+Twitter = "secumod"
 image = "ignat-korchagin.jpg"
 type = "speaker"
 linktitle = "ignat-korchagin"
