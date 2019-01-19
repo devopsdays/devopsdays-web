@@ -1,6 +1,6 @@
 +++
 Title = "Daniel Maher"
-Twitter = "https://twitter.com/phrawzty"
+Twitter = "phrawzty"
 image = "daniel-maher.jpg"
 type = "speaker"
 linktitle = "daniel-maher"
