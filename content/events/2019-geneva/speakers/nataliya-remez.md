@@ -1,6 +1,6 @@
 +++
 Title = "Nataliya Remez"
-Twitter = "https://twitter.com/nat_remez"
+Twitter = "nat_remez"
 image = "nataliya-remez.jpg"
 type = "speaker"
 linktitle = "nataliya-remez"
