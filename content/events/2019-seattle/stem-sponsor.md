@@ -16,7 +16,7 @@ The rules:
 * These are "first come, first served" with a maximum of 3 spots available
 * Must be a registered 501\(c)(3) non-profit or government organization dedicated to STEM education for under represented persons
 * Must offer services in the greater Seattle area
-* Must have people available to be at the sponsor table educating our attendees about your organization
+* Must have people available to be at the sponsor table during the entire event to educate our attendees about your organization
 * Must agree to comply with our {{< event_link page="conduct" text="code of conduct" >}}.
 * We reserve the right to determine eligibility, and our decision is final
 
