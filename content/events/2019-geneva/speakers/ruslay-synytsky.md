@@ -1,6 +1,6 @@
 +++
 Title = "Ruslan Synytsky"
-Twitter = "https://twitter.com/siruslan"
+Twitter = "siruslan"
 image = "ruslan-synytsky.jpg"
 type = "speaker"
 linktitle = "ruslan-synytsky"
