@@ -28,7 +28,7 @@ Description = "devopsdays New York City 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    Sorry! We're sold out for 2019. See you next year!
+    Sorry! We're sold out for 2019. See you next year! (There is no waiting list as we are slightly oversold.)
   </div>
 </div>
 
