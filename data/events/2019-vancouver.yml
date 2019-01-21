@@ -80,11 +80,17 @@ sponsors:
     level: gold
   - id: codefresh
     level: gold
+  - id: dynatrace
+    level: gold
   - id: influxdata
     level: gold 
+  - id: salesforce
+    level: gold
   - id: signalfx
     level: gold
-  - id: salesforce
+  - id: sonatype
+    level: gold
+  - id: xmatters
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
