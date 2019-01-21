@@ -35,7 +35,7 @@ location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the stre
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
