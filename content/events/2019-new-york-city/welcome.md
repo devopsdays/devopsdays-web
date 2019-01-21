@@ -77,6 +77,15 @@ Description = "devopsdays New York City 2019"
   </div>
 </div>
 
+<div class = "row">
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Slack</strong></h4>
+  </div>
+  <div class = "col-md-9">
+    <h4 class="my-3"><small> Join the <a href="https://launchpass.com/nycdevops" target="_blank">NYC Devops Slack Workspace</a></small></h4>
+  </div>
+</div>
+
 <div class = "row my-3">
   {{< event_twitter >}}
 </div>
