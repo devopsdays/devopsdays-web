@@ -317,8 +317,8 @@ program:
   - title: "Evening Social Event"
     type: custom
     date: "2019-01-24"
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:40"
+    end_time: "19:45"
 
   - title: "Registration, Breakfast, Sponsor Booths Open"
     type: custom
