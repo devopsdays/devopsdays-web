@@ -86,8 +86,6 @@ sponsors:
   level: silver
 - id: rundeck
   level: gold
-- id: releaseteam_tasktop
-  level: silver
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
