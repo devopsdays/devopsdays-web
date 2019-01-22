@@ -83,7 +83,7 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: mesosphere
     level: gold
@@ -101,7 +101,7 @@ sponsors:
     level: gold
   - id: linode
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
   - id: signalfx
     level: gold

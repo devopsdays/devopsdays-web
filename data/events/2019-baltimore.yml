@@ -143,6 +143,8 @@ sponsor_levels:
 sponsors:
   - id: appdynamics
     level: platinum
+  - id: fearless
+    level: platinum
   - id: onyx-point
     level: gold
   - id:  wortech
