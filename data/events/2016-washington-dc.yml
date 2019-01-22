@@ -139,7 +139,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: solidfire
     level: silver
-  - id: fearless
+  - id: fearless-before-20180801
     level: silver
   - id: saucelabs
     level: platinum
