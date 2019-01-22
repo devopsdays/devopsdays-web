@@ -6,7 +6,7 @@ Description = "devopsdays New York City 2019"
 +++
 
 <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Dates</strong></h4>
   </div>
   <div class = "col-md-9">
@@ -15,7 +15,7 @@ Description = "devopsdays New York City 2019"
 </div>
 
 <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Program</strong></h4>
   </div>
   <div class = "col-md-9">
@@ -24,7 +24,7 @@ Description = "devopsdays New York City 2019"
 </div>
 
 <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Location</strong></h4>
   </div>
   <div class = "col-md-9">
@@ -33,7 +33,7 @@ Description = "devopsdays New York City 2019"
 </div>
 
 <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Register</strong></h4>
   </div>
   <div class = "col-md-9">
@@ -42,7 +42,7 @@ Description = "devopsdays New York City 2019"
 </div>
 
 <!-- <div class = "row my-3">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><small><strong>Propose</strong></small></h4>
   </div>
   <div class = "col-md-9">
@@ -51,7 +51,7 @@ Description = "devopsdays New York City 2019"
 </div> -->
 
 <!-- <div class = "row my-3">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><small><strong>Speakers</strong></small></h4>
   </div>
   <div class = "col-md-9">
@@ -60,7 +60,7 @@ Description = "devopsdays New York City 2019"
 </div> -->
 
 <!-- <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><small><strong>Sponsors</strong></small></h4>
   </div>
   <div class = "col-md-9">
@@ -69,7 +69,7 @@ Description = "devopsdays New York City 2019"
 </div> -->
 
 <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Contact</strong></h4>
   </div>
   <div class = "col-md-9">
@@ -78,7 +78,7 @@ Description = "devopsdays New York City 2019"
 </div>
 
 <div class = "row">
-  <div class = "col-md-1 mx-3 px-0">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Slack</strong></h4>
   </div>
   <div class = "col-md-9">
@@ -86,8 +86,13 @@ Description = "devopsdays New York City 2019"
   </div>
 </div>
 
-<div class = "row my-3">
-  {{< event_twitter >}}
+<div class = "row">
+  <div class = "col-md-1 mx-5 px-0">
+    <h4 class="my-3"><strong>Twitter</strong></h4>
+  </div>
+  <div class = "col-md-9">
+    <div class="my-3">{{< event_twitter >}}</div>
+  </div>
 </div>
 
 <div style="text-align:center;">
