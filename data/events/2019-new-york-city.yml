@@ -227,12 +227,12 @@ program:
   - title: "Registration, Breakfast, Sponsor Booths Open"
     type: custom
     date: "2019-01-24"
-    start_time: "08:45"
-    end_time: "09:15"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "dominica-degrandis"
     type: talk
     date: "2019-01-24"
-    start_time: "09:15"
+    start_time: "09:00"
     end_time: "10:00"
   - title: "Sponsors"
     type: custom
@@ -323,12 +323,12 @@ program:
   - title: "Registration, Breakfast, Sponsor Booths Open"
     type: custom
     date: "2019-01-25"
-    start_time: "08:45"
-    end_time: "09:15"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "liz-fong-jones"
     type: talk
     date: "2019-01-25"
-    start_time: "09:15"
+    start_time: "09:00"
     end_time: "10:00"
   - title: "Sponsors"
     type: custom
