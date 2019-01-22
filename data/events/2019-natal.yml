@@ -1,7 +1,8 @@
 name: "2019-natal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Natal" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays-natal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdaysnatal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
 description: "DevOpsDays is coming to Natal!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -19,11 +20,11 @@ cfp_link: "https://speakerfight.com/events/devopsday-natal-2019/" # if you have 
 
 masthead_background: "natal.jpg"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-22 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-03-06 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysnatal.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -52,9 +53,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Conduta
     icon: "handshake-o"
     url: /events/2019-natal/conduta
-  # - name: Ingressos
-  #   icon: "user-plus"
-  #   url: "https://devopsdaysnatal.eventize.com.br/"
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://devopsdaysnatal.eventize.com.br/"
   # - name: Patrocinio
   #   icon: "money"
   #   url: /events/2019-natal/patrocinio
