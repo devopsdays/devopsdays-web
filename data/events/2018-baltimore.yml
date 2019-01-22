@@ -158,7 +158,7 @@ sponsors:
     level: media
   - id: opsgenie
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
   - id: contrast_security
     level: gold
@@ -174,7 +174,7 @@ sponsors:
     level: gold
   - id: hashicorp
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: platinum
   - id: scalyr
     level: platinum

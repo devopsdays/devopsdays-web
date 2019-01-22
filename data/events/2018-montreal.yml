@@ -108,7 +108,7 @@ sponsors:
     level: silver
   - id: signalfx
     level: bronze
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: silver
   - id: genetec
     level: bronze
