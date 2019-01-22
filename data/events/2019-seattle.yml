@@ -94,11 +94,15 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
+  - id: humio
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
     level: silver
   - id: gitlab
+    level: silver
+  - id: signalfx
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
