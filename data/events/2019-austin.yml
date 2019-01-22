@@ -127,9 +127,13 @@ proposal_email: "proposals-austin-2019@devopsdays.org" # Put your proposal email
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: sponsor-id
-#     level: sponsor-level
+sponsors:
+  - id: circleci
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: rundeck
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

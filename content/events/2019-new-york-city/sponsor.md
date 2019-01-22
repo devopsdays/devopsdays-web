@@ -37,13 +37,8 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
       </tr>
       <tr>
         <th>Buy Now</th>
-        <td style="padding: 0px 10px 0px 10px;">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="VK9RKMQLA9JNY">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form>
+        <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
+          <span class="btn btn-danger btn-sm">Sold out.</span>
         </td>
         <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
           <span class="btn btn-danger btn-sm">Sold out.</span>
@@ -102,9 +97,9 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 </div>
 <br/>
 <ul>
-<li><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees. The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
+<li><strike><b>Registration Sponsorship:</b>  Everyone at the event will be wearing a lanyard and this represents a great opportunity to get your name in front of all attendees. The lanyard will be printed with your branding on it. There is only a single sponsorship available and it is $5,000. For sponsoring Registration, please drop us an email at {{< email_organizers >}}</li>
 
-<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect. We are open to discussing ideas on how this might be achieved. There is only a single sponsorship available and it is $2,000. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
+<li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect. We are open to discussing ideas on how this might be achieved. There is only a single sponsorship available and it is $2,000. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</strike></li>
 
 <li><strike><b>Live Captioning Sponsorship:</b> Everyone at the event will see your name every time they look up to see the CC screen at the event. We'll also mention your name in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is \$5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
 

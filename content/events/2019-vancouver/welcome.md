@@ -5,9 +5,9 @@ aliases = ["/events/2019-vancouver"]
 Description = "Welcome | devopsdays Vancouver 2019"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 
 <div class = "row">
@@ -28,14 +28,14 @@ Description = "Welcome | devopsdays Vancouver 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href = "https://www.eventbrite.ca/e/devops-days-vancouver-2019-apr-20th-21st-tickets-41596196343?aff=es2">Register to attend the conference!</a>
+    <a href = "https://www.eventbrite.ca/e/devops-days-vancouver-2019-mar-29th-30th-tickets-53622560522">Register to attend the conference!</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

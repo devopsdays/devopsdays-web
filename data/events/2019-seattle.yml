@@ -14,11 +14,11 @@ cfp_date_start: 2018-10-08 # start accepting talk proposals.
 cfp_date_end: 2019-01-06 # close your call for proposals.
 cfp_date_announce: 2019-02-01 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://sessionize.com/devopsdays-seattle-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-08 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-04-23 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -29,13 +29,13 @@ coordinates: "47.612671, -122.332026" # The coordinates of your city. Get Latitu
 location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 location_address: "705 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
-
+# 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -88,6 +88,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: rei
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
@@ -110,3 +112,205 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-24
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "jeffrey-snover"
+    type: talk
+    date: 2018-04-24
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-24
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: ""
+    type: talk
+    date: 2018-04-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-04-24
+    start_time: "10:30"
+    end_time: "10:44"
+  - title: ""
+    type: talk
+    date: 2018-04-24
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-24
+    start_time: "11:15"
+    end_time: "11:25"
+  - title: ""
+    type: talk
+    date: 2018-04-24
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-24
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: ""
+    type: talk
+    date: 2018-04-24
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-04-24
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-24
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-24
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: ""
+    type: workshop
+    date: 2018-04-24
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-24
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: ""
+    type: workshop
+    date: 2018-04-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-24
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: ""
+    type: workshop
+    date: 2018-04-24
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2018-04-24
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2018-04-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-25
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: ""
+    type: talk
+    date: 2018-04-25
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-04-25
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: ""
+    type: talk
+    date: 2018-04-25
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-25
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: ""
+    type: talk
+    date: 2018-04-25
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-25
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: ""
+    type: talk
+    date: 2018-04-25
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-04-25
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-25
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-25
+    start_time: "14:25"
+    end_time: "15:05"
+  - title: ""
+    type: workshop
+    date: 2018-04-25
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-25
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: ""
+    type: workshop
+    date: 2018-04-25
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-25
+    start_time: "16:05"
+    end_time: "16:35"
+  - title: ""
+    type: workshop
+    date: 2018-04-25
+    start_time: "16:05"
+    end_time: "16:35"
+  - title: "Closing"
+    type: custom
+    date: 2018-04-25
+    start_time: "16:45"
+    end_time: "17:15"

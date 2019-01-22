@@ -19,9 +19,14 @@ Description = "DevOpsDays Denver 2019!"
   </p>
 </div>
 
+<div style="font-size: 1.3em;">
+  <p>
+    <a href="https://www.papercall.io/dod-den-2019">CFP IS OPEN!!! Please check it out here!</a>
+  </p>
+</div>
 * * *
 
-<div class = "row" style="font-size: 1.2em;">
+<div class = "row" style="font-size: 1.5em;">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>

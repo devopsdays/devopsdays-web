@@ -163,9 +163,9 @@ sponsors:
       level: donuts
     - id:  microsoftazure-before-20171017
       level: lunch
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: cmccd
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
