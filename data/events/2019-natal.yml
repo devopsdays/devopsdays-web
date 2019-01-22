@@ -20,11 +20,11 @@ cfp_link: "https://speakerfight.com/events/devopsday-natal-2019/" # if you have 
 
 masthead_background: "natal.jpg"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-22 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-03-06 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" # set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysnatal.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -53,9 +53,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Conduta
     icon: "handshake-o"
     url: /events/2019-natal/conduta
-  # - name: Ingressos
-  #   icon: "user-plus"
-  #   url: "https://devopsdaysnatal.eventize.com.br/"
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://devopsdaysnatal.eventize.com.br/"
   # - name: Patrocinio
   #   icon: "money"
   #   url: /events/2019-natal/patrocinio
