@@ -93,7 +93,7 @@ sponsors:
   - id: opsgenie
     level: bluesquare
     url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_SLC_%20May&utm_medium=banner
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: bluesquare
   - id: elastic
     level: blackdiamond

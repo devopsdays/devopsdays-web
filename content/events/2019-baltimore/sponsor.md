@@ -10,7 +10,7 @@ All attendees also have the opportunity to demonstrate products or projects as p
 
 All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
 
-## [Become A Sponsor For DevOpsDays 2018 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)  
+## [Become A Sponsor For DevOpsDays 2019 Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR)  
 
 Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 
@@ -48,40 +48,40 @@ The following chart outlines our sponsorship packages at a high level, which are
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Logo on DevOpsDays Baltimore 2019 event website</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Logo on all email communication</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Shared table for swag/marketing during conference</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -91,9 +91,9 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>1 minute pitch to full audience (including streaming audience)</td>
@@ -101,14 +101,14 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>1 included ticket total</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -119,7 +119,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td>2 included tickets total</td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -130,7 +130,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -141,9 +141,9 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
-      <td class="yes">X</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
   </tbody>
 </table>
@@ -218,5 +218,7 @@ become a Community Sponsor.
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays Baltimore 2019 event website
 * Please contact {{< email_organizers >}} for details about becoming a media sponsor.
+
+*Sponsor Cancellation Policy*: If you need to adjust or cancel your sponsorship, please email {{< email_organizers >}}. We will consider partial sponsor refunds based on the nature and timing of your request.
 
 <hr/>

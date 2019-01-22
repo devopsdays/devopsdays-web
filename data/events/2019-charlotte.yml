@@ -87,6 +87,10 @@ sponsors:
     level: gold
   - id: vividcortex
     level: silver
+  - id: dynatrace
+    level: gold
+  - id: softed
+    level: silver
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

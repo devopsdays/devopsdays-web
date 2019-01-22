@@ -6,79 +6,89 @@ Description = "devopsdays New York City 2019"
 +++
 
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Dates</strong></h4>
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Location</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_location >}}
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>{{< event_start >}} - {{< event_end >}}</small></h4>
   </div>
 </div>
 
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Program</strong></h4>
   </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>View the {{< event_link page="program" text="Event Schedule." >}}</small></h4>
   </div>
 </div>
+
+<div class = "row">
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Location</strong></h4>
+  </div>
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>{{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Register</strong></h4>
+  </div>
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>Sorry! We're sold out for 2019. See you next year! (There is no waiting list as we are slightly oversold.)</small></h4>
+  </div>
+</div>
+
+<!-- <div class = "row my-3">
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><small><strong>Propose</strong></small></h4>
+  </div>
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>{{< event_link page="propose" text="Propose a talk!" >}}</small></h4>
+  </div>
+</div> -->
+
+<!-- <div class = "row my-3">
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><small><strong>Speakers</strong></small></h4>
+  </div>
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>Check out the {{< event_link page="speakers" text="speakers!" >}}</small></h4>
+  </div>
+</div> -->
 
 <!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><small><strong>Sponsors</strong></small></h4>
   </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>{{< event_link page="sponsor" text="Sponsor the conference!" >}}</small></h4>
   </div>
 </div> -->
 
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Program</strong>
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Contact</strong></h4>
   </div>
-  <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>{{< event_link page="contact" text="Get in touch with the organizers" >}}</small></h4>
   </div>
 </div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Speakers</strong>
-  </div>
-  <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
-  </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div> -->
 
 <div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
+  <div class = "col-md-1 mx-3 px-0">
+    <h4 class="my-3"><strong>Slack</strong></h4>
   </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+  <div class = "col-md-9">
+    <h4 class="my-3"><small> Join the <a href="https://launchpass.com/nycdevops" target="_blank">NYC Devops Slack Workspace</a></small></h4>
   </div>
 </div>
 
-
-{{< event_twitter >}}
+<div class = "row my-3">
+  {{< event_twitter >}}
+</div>
 
 <div style="text-align:center;">
   {{< event_logo >}}

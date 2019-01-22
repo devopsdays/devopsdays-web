@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: newsletter
   - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -54,7 +54,7 @@ team_members: # Name is the only required field for team members.
     twitter: matthieurobin
     image: matthieu.jpg
   - name: "Matteo Mazzeri"
-    employer: "Enalean"
+    employer: "Tuleap"
     linkedin: "https://www.linkedin.com/in/mazzeri"
     twitter: "matemaz"
     website: "https://tuleap.org/"
@@ -132,3 +132,162 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 12
+
+program:
+  # Day 1
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2019-02-21"
+    start_time: "08:00"
+    end_time: "09:10"
+  - title: "Welcome Speech"
+    type: custom
+    date: "2019-02-21"
+    start_time: "09:10"
+    end_time: "09:30"
+  - title: "yorgos-saslis-lagoudakis"
+    type: talk
+    date: "2019-02-21"
+    start_time: "09:30"
+    end_time: "10:30"
+  - title: "raphael-hiet"
+    type: talk
+    date: "2019-02-21"
+    start_time: "10:30"
+    end_time: "11:30"
+  - title: "Morning coffee break"
+    type: custom
+    date: "2019-02-21"
+    start_time: "11:30"
+    end_time: "12:10"
+  - title: "tim-izzo"
+    type: talk
+    date: "2019-02-21"
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "Lunch"
+    type: custom
+    date: "2019-02-21"
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "nataliya-remez"
+    type: talk
+    date: "2019-02-21"
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "manuel-vacelet"
+    type: talk
+    date: "2019-02-21"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Afternoon coffee break"
+    type: tcustom
+    date: "2019-02-21"
+    start_time: "16:30"
+    end_time: "17:10"
+  - title: "ruslan-synytsky"
+    type: talk
+    date: "2019-02-21"
+    start_time: "17:10"
+    end_time: "18:10"
+  - title: "raffaele-tarantino"
+    type: talk
+    date: "2019-02-21"
+    start_time: "18:10"
+    end_time: "19:00"
+  - title: "Dinner"
+    type: custom
+    date: "2019-02-21"
+    start_time: "19:00"
+
+  # Day 2
+  - title: "Breakfast"
+    type: custom
+    date: "2019-02-22"
+    start_time: "08:30"
+    end_time: "09:10"
+  - title: "Welcom speech"
+    type: custom
+    date: "2019-02-22"
+    start_time: "09:10"
+    end_time: "09:20"
+  - title: "pj-hagerty"
+    type: talk
+    date: "2019-02-22"
+    start_time: "09:20"
+    end_time: "10:20"
+  - title: "krikor-maroukian"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "09:20"
+    end_time: "10:20"
+  - title: "julien-pivotto"
+    type: talk
+    date: "2019-02-22"
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "david-barbarin"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "Morning coffee break"
+    type: custom
+    date: "2019-02-22"
+    start_time: "11:20"
+    end_time: "12:00"
+  - title: "arun-kumar-singh"
+    type: talk
+    date: "2019-02-22"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "david-pilato"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Lunch"
+    type: custom
+    date: "2019-02-22"
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "ramon-medrano-llamas"
+    type: talk
+    date: "2019-02-22"
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "valentin-cabourdin"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "vincent-sevel"
+    type: talk
+    date: "2019-02-22"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "ignat-korchagin"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Afternoon coffee break"
+    type: custom
+    date: "2019-02-22"
+    start_time: "16:30"
+    end_time: "17:10"
+  - title: "jihai-zhou"
+    type: talk
+    date: "2019-02-22"
+    start_time: "17:10"
+    end_time: "18:00"
+  - title: "daniel-maher"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "17:10"
+    end_time: "18:00"
+  - title: "ron-yishai"
+    type: talk
+    date: "2019-02-22"
+    start_time: "18:00"
+    end_time: "18:50"

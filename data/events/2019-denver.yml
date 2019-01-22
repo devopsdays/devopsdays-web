@@ -34,13 +34,13 @@ location: "Mile High Station and Iron Works" # Defaults to city, but you can mak
 location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
-    url: https://www.papercall.io/dod-den-2019
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: CFP Link
+    url: https://www.papercall.io/dod-den-2019
   - name: contact
   - name: conduct
 # - name: example
@@ -81,6 +81,11 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-denver-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-denver-2019@devopsdays.org" # Put your proposal email address here
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
+sponsors:
+- id: circleci
+  level: silver
+- id: rundeck
+  level: gold
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -99,6 +104,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 6
-  - id: community
-    label: Community
+  - id: supporter
+    label: Supporter
     max: 4

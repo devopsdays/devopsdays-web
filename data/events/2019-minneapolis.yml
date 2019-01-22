@@ -6,15 +6,14 @@ description: "Devopsdays Minneapolis will return in 2019!" # Edit this to suit y
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-08-06  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-08-07 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-08-06
+enddate: 2019-08-07
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:
+cfp_date_end:
+cfp_date_announce:
 
-cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,7 +30,7 @@ location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue
 location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
   - name: registration
  # - name: program
@@ -115,6 +114,12 @@ sponsors:
     level: gold
   - id: datadog
     level: silver
+  - id: infinitecampus
+    level: silver
+  - id: hackthegap
+    level: community
+  - id: softwaredefinedtalk
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -172,7 +172,7 @@ sponsors:
     level: gold
   - id: sjtechcorp
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: silver
   - id: saucelabs
     level: silver
