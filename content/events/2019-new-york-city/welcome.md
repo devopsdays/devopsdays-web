@@ -90,8 +90,11 @@ Description = "devopsdays New York City 2019"
   <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Twitter</strong></h4>
   </div>
-  <div class = "col-md-9">
+  <div class = "col-md-2">
     <div class="my-3">{{< event_twitter >}}</div>
+  </div>
+  <div class = "col-md-7">
+    <div class="my-3"><a href="https://twitter.com/intent/tweet?button_hashtag=devopsdaysnyc&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #devopsdaysnyc</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
   </div>
 </div>
 
