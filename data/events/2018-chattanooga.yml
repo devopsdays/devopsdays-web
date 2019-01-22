@@ -89,9 +89,9 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: puppet
     level: gold

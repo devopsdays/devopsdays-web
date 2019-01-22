@@ -69,7 +69,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: pivotal
     level: platinum
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: community
   - id: apprenda
     level: platinum
