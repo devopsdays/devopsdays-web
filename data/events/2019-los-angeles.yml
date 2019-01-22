@@ -74,7 +74,13 @@ sponsors:
     level: sponsor
   - id: logdna
     level: sponsor
+  - id: newrelic
+    level: sponsor
+  - id: redgate
+    level: sponsor
   - id: "releaseteam"
+    level: sponsor
+  - id: "sonatype"
     level: sponsor
   - id: sumologic
     level: sponsor
