@@ -75,6 +75,8 @@ proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: dynatrace
+    level: platinum
   - id: cloudzero
     level: gold
   - id: pagerduty
@@ -87,6 +89,12 @@ sponsors:
   - id: contino
     level: gold
   - id: datadog
+    level: gold
+  - id: rundeck
+    level: gold
+  - id: codefresh
+    level: gold
+  - id: sonatype
     level: gold
   - id: arresteddevops
     level: community
