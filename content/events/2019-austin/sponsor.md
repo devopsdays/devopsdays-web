@@ -10,7 +10,7 @@ Description = "Sponsor devopsdays austin 2019"
 
 <a href="https://drive.google.com/file/d/136ifKhcqWX8pfKsOryN4Kh4MkNpdYzM-/view" class="btn btn-info">Download the DevOpsDays Austin Summit 2019 Sponsor Prospectus</a>
 
-Austin hosts one of the leading annual DevOpsDays events, now in its **eigth** year. Every year Austin is one of the best attended and reviewed DevOpsDays events. Sponsoring DevOpsDays connects your company to local technical and business minds who influence decisions in security, monitoring, operations, engineering, quality, and product development.
+Austin hosts one of the leading annual DevOpsDays events, now in its **eighth** year. Every year Austin is one of the best attended and reviewed DevOpsDays events. Sponsoring DevOpsDays connects your company to local technical and business minds who influence decisions in security, monitoring, operations, engineering, quality, and product development.
 
 Feel free to contact us at [{{< email_organizers >}}] with any questions.
 
@@ -40,7 +40,7 @@ Open Spaces events and Happy Hour are scheduled in other rooms in the same upsta
 
 ### Lanyard Sponsor ($5000)
 
-~~Only 1 available!~~ **Pending**
+~~Only 1 available!~~ **Sold!**
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info" style="display:none">Pay Now to Put Your Logo on the Lanyard!</a>
 
