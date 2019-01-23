@@ -1,6 +1,7 @@
 +++
 Title = "Jody Lent"
 Twitter = ""
+image = "jody-lent.jpg"
 type = "speaker"
 linktitle = "jody-lent"
 
