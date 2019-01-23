@@ -78,6 +78,8 @@ team_members: # Name is the only required field for team members.
   - name: Ryan Koch
     employer: ""
     twitter: ryanckoch
+  - name: "Mikaela Gallagher"
+    employer: "Austin Fraser"
 organizer_email: "organizers-denver-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-denver-2019@devopsdays.org" # Put your proposal email address here
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
