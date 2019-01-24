@@ -10,11 +10,11 @@ startdate: 2019-04-10T00:00:00+07:00 # The start date of your event. Leave blank
 enddate: 2019-04-11T23:59:59+07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-22T00:00:00+07:00 # start accepting talk proposals.
+cfp_date_end: 2019-02-15T23:59:59+07:00 # close your call for proposals.
+cfp_date_announce: 2019-02-20T00:00:00+07:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://bit.ly/DevOps_CallForProposal" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -26,12 +26,11 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Bank BRI Corporate University" # Defaults to city, but you can make it the venue name.
-#
-location_address: "Jl. RM. Harsono No.2, RT.6/RW.7, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota, Jakarta 12550" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Jl. RM. Harsono No.2, RT.6/RW.7, Ragunan, Jakarta 12550" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  # - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -64,11 +63,16 @@ organizer_email: "organizers-jakarta-2019@devopsdays.org" # Put your organizer e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  # - id: bri
-  #   level: platinum
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: bri
+    level: track
+  - id: ekipa
+    level: gold
+  - id:  bncc
+    level: community
+  - id:  geekhunter
+    level: community
+  - id: sarccom
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -77,6 +81,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: track
+    label: Track
+    max: 1
   - id: platinum
     label: Platinum
     max: 2 
