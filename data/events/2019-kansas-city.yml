@@ -123,9 +123,11 @@ team_members: # Name is the only required field for team members.
   - name: "Dustin Holub"
     employer: Technology Group Solutions
     image: dustin-holub.jpg
+    twitter: ThePVD
+    github: ThePVD
     linkedin: https://www.linkedin.com/in/dustinholub/
     bio: "Dustin is an outgoing individual who believes that work and fun can be one in the same. After spending
-    many years of his career in infrastructure silos, he was drawn to the DevOps culture and its emphasis on
+    many years of his career in infrastructure silos, he was drawn to DevOps culture and emphasis on
     learning and solving problems together. Dustin spends his free time with his wife chasing their two small
     children, playing indoor soccer, or wondering when technology will completely free him from housework."
   - name: "Jeff Stephens"
@@ -139,10 +141,18 @@ team_members: # Name is the only required field for team members.
     and photographer."
   - name: "Chris Fisher"
     employer: "NAIC"
+    image: chris-fisher.jpg
+    bio: "Chris started her career as a high school history teacher. After transitioning to software training (where she was never required to call anyone’s parents!) she found her career path in technology. Currently managing a team of Business Analysts and Software Quality Engineers at the NAIC, she is passionate about ensuring that functional teams are just as much a part of the DevOps journey as the technical teams. Outside of work Chris enjoys spending time with her family and planning their next travel adventures."
   - name: "Kayla Crowder"
     employer: Pinsight
+    image: kayla-crowder.jpg
+    linkedin: https://www.linkedin.com/in/kaylacrowder/
+    bio: "Kayla is a technology polymath and server whisperer who has spent her career focusing on making things better for all players involved in producing and consuming technology. She is a firm believer in security as a process and practice makes perfect. Kayla, her partner, and their five kids live on a small farm surrounded by forest and hiking trails. In her free time she can be found ignoring all things tech in favor of spending time in nature with her family and dogs."
   - name: "DaShaun Carter"
     employer: Pivotal
+    image: dashaun-carter.jpg
+    linkedin: https://www.linkedin.com/in/dashaun/
+    bio: "DaShaun Carter is a Platform Architect for Pivotal. Before working at Pivotal, DaShaun worked for several startups, marketing/advertising agencies, an information security company and Garmin. DaShaun likes to do CrossFit and enjoys marathons, triathlons and the other endurance events in between. DaShaun and his wife were both professional cheerleaders, and they continue to work on the perfect cheer with their 4 children."
 
 organizer_email: "organizers-kansas-city-2019@devopsdays.org" # Put your organizer email address here
 #proposal_email: "proposals-kansas-city-2019@devopsdays.org" # Put your proposal email address here
