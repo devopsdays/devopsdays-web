@@ -25,6 +25,15 @@ Description = "devopsdays New York City 2019"
 
 <div class = "row">
   <div class = "col-md-1 mx-5 px-0">
+    <h4 class="my-3"><strong>Open Space</strong></h4>
+  </div>
+  <div class = "col-md-9">
+    <h4 class="my-3"><small>View the open space schedule <a href="https://docs.google.com/spreadsheets/d/1-2yhfjtKJTGDnTPf1FAFHifLlmt5qz3-SpZ_Af8iWe8" target="_blank">here</a></small></h4>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-1 mx-5 px-0">
     <h4 class="my-3"><strong>Location</strong></h4>
   </div>
   <div class = "col-md-9">
