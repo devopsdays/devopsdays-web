@@ -90,6 +90,9 @@ sponsors:
   # Golds
   - id: f5
     level: gold
+  # Lanyards
+  - id: developers-nl
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
