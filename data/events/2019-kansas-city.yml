@@ -142,6 +142,7 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Fisher"
     employer: "NAIC"
     image: chris-fisher.jpg
+    linkedin: http://linkedin.com/in/christine-ketterlin-fisher-835b2046
     bio: "Chris started her career as a high school history teacher. After transitioning to software training (where she was never required to call anyone’s parents!) she found her career path in technology. Currently managing a team of Business Analysts and Software Quality Engineers at the NAIC, she is passionate about ensuring that functional teams are just as much a part of the DevOps journey as the technical teams. Outside of work Chris enjoys spending time with her family and planning their next travel adventures."
   - name: "Kayla Crowder"
     employer: Pinsight
