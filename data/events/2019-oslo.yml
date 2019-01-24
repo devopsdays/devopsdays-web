@@ -8,8 +8,8 @@ event_logo: "logo.png"
 event_group: "Oslo"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-10-28T00:00:00+02:00
-enddate: 2019-10-29T23:59:59+02:00
+startdate: 2019-10-22T00:00:00+02:00
+enddate: 2019-10-23T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
