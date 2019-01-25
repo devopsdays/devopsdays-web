@@ -84,6 +84,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold 
+  - id: launch-darkly
+    level: gold
   - id: salesforce
     level: gold
   - id: signalfx
