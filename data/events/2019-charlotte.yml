@@ -93,6 +93,10 @@ sponsors:
     level: silver
   - id: sonatype
     level: gold
+  - id: mongodb
+    level: bronze
+  - id: cyberark
+    level: bronze
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
