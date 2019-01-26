@@ -11,11 +11,12 @@ startdate: 2019-05-02 # The start date of your event. Leave blank if you don't h
 enddate:  2019-05-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-28 # start accepting talk proposals.
+cfp_date_end: 2019-02-22 # close your call for proposals.
+cfp_date_announce: 2019-03-04 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
+# https://www.papercall.io/devopsdays-austin-2019
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,7 +32,7 @@ location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but yo
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
