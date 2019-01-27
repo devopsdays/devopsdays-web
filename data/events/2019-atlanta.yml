@@ -96,6 +96,10 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: etrade
+    level: gold
+  - id: influxdata
+    level: gold
   - id: arresteddevops
     level: community
 
