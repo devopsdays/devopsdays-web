@@ -83,3 +83,6 @@ Description = "devopsdays Houston 2019"
 
 <!-- Uncomment if you added your city twitter name -->
 {{< event_twitter >}}
+
+<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US </script>
+<script type="IN/FollowCompany" data-id="35523918" ></script>
