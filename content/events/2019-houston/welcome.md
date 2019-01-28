@@ -80,9 +80,13 @@ Description = "devopsdays Houston 2019"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-<!-- Uncomment if you added your city twitter name -->
+<div class = "row">
+<div class = "col-md-2">
 {{< event_twitter >}}
-
-<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US </script>
-<script type="IN/FollowCompany" data-id="35523918" ></script>
+</div>
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US 
+    authorize: true
+</script>
+<script type="IN/FollowCompany" data-id="35523918"></script>
+</div>
