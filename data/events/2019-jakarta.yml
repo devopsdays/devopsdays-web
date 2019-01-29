@@ -65,6 +65,8 @@ organizer_email: "organizers-jakarta-2019@devopsdays.org" # Put your organizer e
 sponsors:
   - id: bri
     level: track
+  - id:  naradacode
+    level: platinum
   - id: ekipa
     level: gold
   - id:  bncc
@@ -73,6 +75,12 @@ sponsors:
     level: community
   - id: sarccom
     level: community
+  - id: devops-indonesia
+    level: community
+  - id: isqa
+    level: community
+  - id: tekno-event
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
