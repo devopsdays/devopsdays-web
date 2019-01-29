@@ -10,6 +10,8 @@ Description = "Sponsor devopsdays austin 2019"
 
 <a href="https://drive.google.com/file/d/136ifKhcqWX8pfKsOryN4Kh4MkNpdYzM-/view" class="btn btn-info">Download the DevOpsDays Austin Summit 2019 Sponsor Prospectus</a>
 
+Event dates: {{< event_start >}} - {{< event_end >}}
+
 Austin hosts one of the leading annual DevOpsDays events, now in its **eighth** year. Every year Austin is one of the best attended and reviewed DevOpsDays events. Sponsoring DevOpsDays connects your company to local technical and business minds who influence decisions in security, monitoring, operations, engineering, quality, and product development.
 
 Feel free to contact us at [{{< email_organizers >}}] with any questions.
@@ -26,9 +28,9 @@ This year, DevOpsDays Austin is planning a special Happy Hour at the end of Day 
 
 ### Platinum Sponsor ($7000)
 
-**Only 3 available!**
+~~Only 3 available!~~ **Pending**
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info">Pay Now to be a Plantinum Sponsor!</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info" style="display:none">Pay Now to be a Plantinum Sponsor!</a>
 
 In past years, sponsors have inquired about using the luxury boxes within the venue for discussion areas, consulting / solution areas, and similar uses. This year, we are opening up opportunities for sponsors to utilize the rooms. These boxes are located upstairs of the main stage area - in the same "loft" space as the Open Spaces part of the program. 
 
