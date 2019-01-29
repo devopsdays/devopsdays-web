@@ -5,6 +5,11 @@ aliases = ["/events/2019-vancouver"]
 Description = "Welcome | devopsdays Vancouver 2019"
 +++
 
+
+<strong>
+  Email us at: <a href="mailto:organizers-vancouver-2019@devopsdays.org?subject=devopsdays Vancouver - 2019">organizers-vancouver-2019@devopsdays.org</a>
+</strong>
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
