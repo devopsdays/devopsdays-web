@@ -70,6 +70,8 @@ sponsors:
     level: sponsor
   - id: dynatrace
     level: sponsor
+  - id: electriccloud
+    level: sponsor
   - id: launchdarkly
     level: sponsor
   - id: logdna
@@ -79,7 +81,7 @@ sponsors:
   - id: redgate
     level: sponsor
   - id: "releaseteam"
-    level: sponsor
+    level: startup
   - id: "sonatype"
     level: sponsor
   - id: sumologic
