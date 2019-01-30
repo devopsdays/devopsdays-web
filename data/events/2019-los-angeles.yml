@@ -66,6 +66,8 @@ sponsors:
     level: lanyard
   - id: codefresh
     level: sponsor
+  - id: cyberark
+    level: sponsor
   - id: datadog
     level: sponsor
   - id: dynatrace
