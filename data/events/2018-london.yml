@@ -78,7 +78,7 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
     # Gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: chef
     level: gold

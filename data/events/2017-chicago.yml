@@ -120,7 +120,7 @@ sponsors:
     level: gold
   - id: workiva
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: servercentral
     level: gold
@@ -176,7 +176,7 @@ sponsors:
     level: gold
   - id: arista
     level: silver
-  - id: diamanti
+  - id: diamanti-before-20190108
     level: gold
   - id: dynatrace
     level: gold

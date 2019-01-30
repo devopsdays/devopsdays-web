@@ -65,7 +65,7 @@ team_members: # Name is the only required field for team members.
     website: "https://opensource.com"
     employer: "Red Hat"
   - name: "Chris Bailey"
-    twitter: "cbailey119"
+    twitter: "seebails"
     github: "nonstickzan"
   - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
@@ -93,13 +93,13 @@ sponsors:
     level: community
   - id: influxdata
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: launch-darkly
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: platinum
   - id: datadog
     level: gold

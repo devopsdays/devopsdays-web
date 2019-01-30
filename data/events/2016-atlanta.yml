@@ -40,7 +40,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: victorops-before-20180823
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: redislabs-before-20180508
     level: gold
@@ -66,7 +66,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: media
   - id: arresteddevops
     level: media
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: media
   - id: devopsdotcom-before-20170823
     level: media

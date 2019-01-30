@@ -80,7 +80,17 @@ Description = "devopsdays atlanta 2019"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
+<div style="text-align:center;">
+<h3>"Just Keep Swimming" with <a href="https://www.map-camp.com/_pages/2019-04_Atlanta/">Map Camp</a> &amp; <a href="https://atlanta.serverlessdays.io/">Serverlessdays</a> Atlanta</h3>
+with Presentations from <a href="https://twitter.com/swardley">Simon Wardley</a> &amp; <a href="https://twitter.com/littleidea">Andrew Clay Shafer</a>
+<br/><br/>
+  {{< event_logo >}}
+  <p>
+Devopsdays Atlanta is returning for the 4th consecutive year! 
+<br/>
+We have the pleasure of co-hosting this <strong>3 track event</strong> with the 1st Map Camp outside of the UK & an inaugural
+serverlessdays Atlanta at <a href="https://www.georgiaaquarium.org/">The Georgia Aquarium</a>. 
+</div>
 <!-- Uncomment if you added your city twitter name -->
 <!--
 {{< event_twitter >}}

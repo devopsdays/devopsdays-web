@@ -8,12 +8,16 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 
 <hr>
 
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not sell product presentations or distribute attendee contact lists. Sponsors have the opportunity to give a short elevator pitch during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
+Platinum &amp; Gold sponsors get a full table where they can interact with any intrested attendees. All attendees, including sponsors, are encouraged to propose any subject they want during the open spaces. However, this is a community-focused conference and heavy marketing will probably work against you.
 <p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
+The best thing to do is send practitioners to interact with the guests at devopsdays on their own terms.
 <p>
+<strong>Platinum &amp; Gold sponsors will be listed as <a href="https://www.meetup.com/DevOpsATL/">devOpsATL Meetup</a> sponsors for 2019 &amp; included in our meetup e-mail communications.</strong>
+<p>
+Please see our <a href="https://github.com/devopsdays/devopsdays-assets/raw/master/events/2019/atlanta/devopsdays_Atlanta_2019_prospectus.pdf">prospectus</a> and contact us at [{{< email_organizers >}}] for more information on sponsoring devopsdays Atlanta 2019.
+<img style="margin:auto;display: block;" src='/events/2019-atlanta/sponsorship-table.jpg' >
 
 <!--
 <hr/>

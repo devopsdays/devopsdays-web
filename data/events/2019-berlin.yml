@@ -18,8 +18,8 @@ cfp_data_announce: 2019-09-30T23:59:59+02:00
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-12-01T00:00:00+02:00
+registration_date_end: 2019-11-27T00:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -34,7 +34,7 @@ location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street addr
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -50,8 +50,6 @@ team_members: # Name is the only required field for team members.
   - name: "Bernd Erk"
     twitter: "gethash"
     employer: "NETWAYS"
-  - name: "Ingmar Krusch"
-    twitter: "ingmarkrusch"
   - name: "Jessica Ulyate"
     twitter: "JulyAte"
   - name: "Marco Woitschitzky"
@@ -71,7 +69,8 @@ team_members: # Name is the only required field for team members.
     twitter: "oseemann"
   - name: "Ralph Angenendt"
     twitter: "lestighaniker"
-    employer: "ImmobilienScout24"
+    employer: "Scout24"
+    github: "range"
   - name: "Ravi Yadav"
     twitter: "ravi_yadav_de"
     employer: "ImmobilienScout24"
@@ -81,6 +80,10 @@ team_members: # Name is the only required field for team members.
     twitter: "simonhoenscheid"
   - name: "Travis Theune"
     twitter: "tenminutesout"
+  - name: "Carlos Tadeu Panato Jr"
+    twitter: "comedordexis"
+    github: "cpanato"
+    employer: "Mattermost"
 
 #  - name: "John Doe"
 #  - name: "Jane Smith"

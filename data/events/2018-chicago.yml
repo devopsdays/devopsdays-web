@@ -130,11 +130,11 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: instana
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: servicenow
     level: gold

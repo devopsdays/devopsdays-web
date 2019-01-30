@@ -73,11 +73,11 @@ sponsors:
     level: platinum
   - id: opsgenie
     level: platinum
-  - id: fearless
+  - id: fearless-before-20180801
     level: platinum
   - id: redhat
     level: platinum
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: platinum
   - id: ns1
     level: platinum

@@ -76,7 +76,7 @@ sponsors:
     level: community
   - id: phishme
     level: bronze
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: checkmarx
     level: bronze

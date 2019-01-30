@@ -122,7 +122,7 @@ sponsors:
     level: gold     
   - id: markway
     level: gold     
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold     
   - id: radix
     level: gold         
@@ -131,7 +131,7 @@ sponsors:
     level: silver  
   - id: daitan-group
     level: silver  
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver   
   - id: stone-pagamentos
     level: bronze  

@@ -124,7 +124,7 @@ proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: swisscom
+  - id: swisscom-before-20190117
     level: gold
   - id: pontine
     level: gold

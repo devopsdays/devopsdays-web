@@ -17,8 +17,8 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
     <th><center><b><u>Silver<br/></u></center></b></th>
     <th><center><b><u>Gold<br/></u></center></b></th>
     <th><center><b><u>Planet<br/></center></b></th>
-    <th><center><b><u>Coffee<br/></center></b></th>
-    <th><center><b><u>Entrance<br/></center></b></th>
+    <th><center><b><u>Coffee<br/><font color="red">SOLD OUT</font></center></b></th>
+    <th><center><b><u>Entrance<br/><font color="red">SOLD OUT</font></center></b></th>
   </tr>
 
   <tr>

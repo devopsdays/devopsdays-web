@@ -76,11 +76,11 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: mesosphere
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: ithaka
     level: gold
@@ -102,7 +102,7 @@ sponsors:
     level: AV
   - id: autonomic
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
   - id: plex
     level: gold

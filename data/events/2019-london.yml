@@ -2,23 +2,23 @@ name: "2019-london" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "London" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to London!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to London!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-09-26T00:00:00+00:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-27T00:00:00+00:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-16T00:00:00+00:00
+cfp_date_end: 2019-05-26T23:59:59+00:00
+cfp_date_announce: 2019-06-26T00:00:00+00:00
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-25T00:00:00+00:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-11-27T00:00:00+00:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -27,16 +27,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 coordinates: "51.507351, -0.127758" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "London" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+# - name: program
+# - name: speakers
   - name: sponsor
+  - name: accessibility
   - name: contact
   - name: conduct
 # - name: example
@@ -53,10 +54,13 @@ team_members: # Name is the only required field for team members.
     website: "https://randomness.org.uk"
   - name: "Chris Mills"
     twitter: "millscj01"
+    website: "https://christophermills.co.uk"
   - name: "Dan Webb"
     twitter: "dan_webb"
   - name: "Dawn Foster"
     twitter: "geekygirldawn"
+  - name: "Dominique Top"
+    twitter: "devopsdom"
   - name: "Hannah Foxwell"
     twitter: "HannahFoxwell"
   - name: "Jemma Bolland"
@@ -78,6 +82,9 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
+    # Evening Event
+  - id: f5
+    level: evening
     # Community
   - id: leeds-devops
     level: community
@@ -95,6 +102,12 @@ sponsors:
     level: community
   - id: sheffield-devops
     level: community
+  - id: london-devops
+    level: community
+  - id: cloud-native-london
+    level: community
+  - id: docker-london
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -105,18 +118,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 1
-  - id: gold
-    label: Gold
-    max: 8
+    max: 3
   - id: evening
     label: Evening Event
     max: 1
+  - id: gold
+    label: Gold
+    max: 7
   - id: silver
     label: Silver
     max: 12
   - id: bronze
     label: Bronze
-    max: 20
+    max: 5
   - id: community
     label: Community

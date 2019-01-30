@@ -1,47 +1,58 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays copenhagen 2019"
+Description = "Sponsor devopsdays Copenhagen 2019"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+**We greatly value sponsors for this open event. If you are interested, please email us at {{< email_organizers >}}.**
 
-<hr>
-
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
 <p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
+DevOpsDays is a self-organizing conference that brings together leaders in Software Development and IT Operations to collaborate and learn from each other. It is both a technical conference and a conference focusing on culture, processes, and structures within organizations. We encourage both technologists and managers to attend, learn, and share experiences.
 
-<!--
-<hr/>
+### Become a Sponsor
 
-<div style="width:590px">
+As a self-organizing conference, DevOpsDays depends on sponsorships. By partnering with DevOpsDays you´ll get the opportunity to network and build relationships with highly motivated developers, sysadmins, IT executives, and managers within the burgeoning Scandinavian DevOps community.
+<p>
+Our sponsorship packages are constructed to offer our partners lead generation, networking, branding, and talent recruitment.
+
+
+<div style="width:700px">
 <table border=1 cellspacing=1>
   <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
+    <th>Packages</th>
+    <th><center><b><u>Gold Sponsor</u></center></b></th>
+    <th><center><b><u>Silver Sponsor</u></center></b></th>
+    <th><center><b><u>Community Sponsor</u></center></b></th>
   </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
+<tr><td>Price</td><td>6000 EUR</td><td>4000 EUR</td><td>2000 EUR</td></tr>
+<tr><td>Tickets included</td><td> 6 </td><td>4</td><td>2</td></tr>
+<tr><td>Additional ticket discount</td><td> 20% </td><td>15%</td><td>n/a</td></tr>
+<tr><td>Sponsor booth (incl. table & power)</td><td> 3 meter-wide </td><td> 1 meter-wide </td><td>n/a</td></tr>
+<tr><td>One-minute sponsor pitch</td><td>Yes</td><td>Yes</td><td>n/a</td></tr>
+
+<tr><td>Logo on website</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Logo on email communication</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
 </table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
+</div>
+
 <br/>
-<br/>
+
+### Exclusive Sponsorship Add-ons
+
+- Dinner Sponsor for 2700 EUR <br/>
+- Party Sponsor for 2000 EUR <br/>
+- Lunch Sponsor for 2000 EUR <br/>
+- Breakfast Sponsor for 1500 EUR <br/>
+- Cake Sponsor (logo on top) for 1500 EUR <br/>
+- Lanyard sponsor for 1500 EUR <br/>
+- Popcorn sponsor for 1.500 EUR (the venue is a cinema) <br/>
+- Get your logo on a matrix light frame at the venue for 1.500 EUR <br/>
+
+If you are interested in sponsorship add-ons, or have a creative idea about how you can support the event, please send us an email at {{< email_organizers >}}.
+
+
+
+<!--
 
 <br>
 <br>
@@ -63,4 +74,3 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </div>
 
 -->
-<hr/>

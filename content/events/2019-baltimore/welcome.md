@@ -1,20 +1,24 @@
 +++
-Title = "devopsdays Baltimore 2019"
+Title = "DevOpsDays Baltimore 2019"
 Type = "welcome"
 aliases = ["/events/2019-baltimore/"]
-Description = "devopsdays Baltimore 2019"
+Description = "DevOpsDays Baltimore 2019"
 +++
+# [Register Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new)
 
-<div style="text-align:center;">
+<br/>
+<br/>
+<div style="text-align:left;">
   {{< event_logo >}}
 </div>
-
+<br/>
+<br/>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}} - Targeting April 2019
+    {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
 
@@ -83,3 +87,5 @@ Description = "devopsdays Baltimore 2019"
 
 
 {{< event_twitter >}}
+<hr/>
+# [Register Now!](https://devopsdaysbaltimore2019.busyconf.com/bookings/new)
