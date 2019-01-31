@@ -97,6 +97,10 @@ sponsors:
     level: bronze
   - id: redhat
     level: gold
+  - id: cloudbees-codeship
+    level: bronze
+  - id: servicenow
+    level: silver
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
