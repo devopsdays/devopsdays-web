@@ -97,6 +97,11 @@ team_members: # Name is the only required field for team members.
     image: "diego-souza.jpg"
     bio: "SysAdmin - Devops Enthusiast, but I'm not devops"
     linkedin: "https://www.linkedin.com/in/dsouzasccp/"
+  - name: "Taiana Nunes"
+    employer: "SOMOS Educacao"
+    image: "taiana-nunes.jpg"
+    bio: QA analyst, learning automation, mother, Candy Crush addict and beer lover."
+    linkedin: "https://www.linkedin.com/in/taiananunes/"
   - name: "Tancredo Inomata"
     employer: "Concrete Solutions"
     image: "tancredo-inomata.jpg"
@@ -112,11 +117,6 @@ team_members: # Name is the only required field for team members.
     github: "somatorio"
     facebook: "https://facebook.com/osomatorio"
     website: "http://somatorio.org"
-  - name: "Taiana Nunes"
-    employer: "SOMOS Educacao"
-    image: "taiana-nunes.jpg"
-    bio: QA analyst, learning automation, mother, Candy Crush addict and beer lover."
-    linkedin: "https://www.linkedin.com/in/taiananunes/"
 
 organizer_email: "organizers-sao-paulo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal email address here
