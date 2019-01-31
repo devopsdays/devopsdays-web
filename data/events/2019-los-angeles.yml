@@ -66,9 +66,13 @@ sponsors:
     level: lanyard
   - id: codefresh
     level: sponsor
+  - id: cyberark
+    level: sponsor
   - id: datadog
     level: sponsor
   - id: dynatrace
+    level: sponsor
+  - id: electriccloud
     level: sponsor
   - id: launchdarkly
     level: sponsor
@@ -79,7 +83,7 @@ sponsors:
   - id: redgate
     level: sponsor
   - id: "releaseteam"
-    level: sponsor
+    level: startup
   - id: "sonatype"
     level: sponsor
   - id: sumologic
