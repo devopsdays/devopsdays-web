@@ -6,8 +6,8 @@ description: "devopsdays is coming to Portugal!" # Edit this to suit your prefer
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2019-06-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-06-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -25,10 +25,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Portugal" # Defaults to city, but you can make it the venue name.
+coordinates: "38.707073, -9.148971" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Lisbon, Portugal" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "EDP - Energias de Portugal, Av. 24 de Julho 12A, 1249-300 Lisboa" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -109,6 +109,7 @@ team_members: # Name is the only required field for team members.
     image: miguel-alho.jpg
   - name: "Miguel Antunes"
     employer: "OutSystems"
+    bio:
     linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
     twitter:
     github: "micantunes"
@@ -116,11 +117,20 @@ team_members: # Name is the only required field for team members.
     image:
   - name: "Ricardo Castro"
     employer: "Uphold Inc"
+    bio:
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
     twitter: "mccricardo"
     github: "mccricardo"
     website:
     image: ricardo-castro.jpg
+  - name: "Sérgio Amorim"
+    employer: "EDP"
+    bio:
+    linkedin: "https://www.linkedin.com/in/saamorim/"
+    twitter: "sacamorim"
+    github: 
+    website:
+    image: 
   
 
 organizer_email: "organizers-portugal-2019@devopsdays.org" # Put your organizer email address here
