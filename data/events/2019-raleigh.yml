@@ -105,3 +105,5 @@ sponsor_levels:
     # max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: happyhour
+    label: Happy Hour
