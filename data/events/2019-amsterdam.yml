@@ -87,11 +87,16 @@ sponsors:
   # BBQ
   - id: schubergphilis
     level: BBQ
+  # Beer
+  - id: newrelic
+    level: beer
   # Coffee
   - id: f5
     level: foodtrucks
   # Golds
   - id: f5
+    level: gold
+  - id: newrelic
     level: gold
   # Lanyards
   - id: developers-nl
