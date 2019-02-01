@@ -84,6 +84,9 @@ organizer_email: "organizers-amsterdam-2019@devopsdays.org" # Put your organizer
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # BBQ
+  - id: schubergphilis
+    level: BBQ
   # Coffee
   - id: f5
     level: foodtrucks
