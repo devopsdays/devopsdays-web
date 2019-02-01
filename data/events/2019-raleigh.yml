@@ -84,6 +84,10 @@ sponsors:
      level: platinum
    - id: sumologic
      level: platinum
+   - id: microsoft
+     level: gold
+   - id: techtown
+     level: platinum
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
