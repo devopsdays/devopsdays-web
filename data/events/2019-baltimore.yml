@@ -145,7 +145,11 @@ sponsors:
     level: platinum
   - id: fearless
     level: platinum
+  - id: palantir
+    level: platinum
   - id: onyx-point
+    level: gold
+  - id: gitlab
     level: gold
   - id:  wortech
     level: silver

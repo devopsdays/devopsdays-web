@@ -1,15 +1,15 @@
 +++
-Title = "DevOpsDays Tampa 2019"
+Title = "DevOpsDays Tampa Bay 2019"
 Type = "welcome"
 aliases = ["/events/2019-tampa/"]
-Description = "DevOpsDays Tampa 2019"
+Description = "DevOpsDays Tampa Bay 2019"
 +++
 
 Save the date!
 ===
 
-DevOpsDays will be returning to Tampa in March 2019 for our first year. We'll be adding
-dates for talk proposals, sponsorships, and registration in Mid November of 2018.
+DevOpsDays will be returning to Tampa Bay in June 2019 for our first year. We'll be adding
+dates for talk proposals, sponsorships, and registration in Mid February of 2019.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -84,7 +84,7 @@ dates for talk proposals, sponsorships, and registration in Mid November of 2018
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    Sponsor information available in the fall of 2018
+    Sponsor information available in the early February 2019
   </div>
 </div>
 
