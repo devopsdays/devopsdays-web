@@ -60,7 +60,7 @@ team_members: # Name is the only required field for team members.
     github: "WB3Tech"
     linkedin: "https://www.linkedin.com/in/billbensing"
     website: "http://wb3tech.com"
-    image: "billbensing.png"
+    image: "billbensing.jpg"
   - name: "Karen Whelan"
     twitter: "corona_flga"
     employer: "Verizon"
