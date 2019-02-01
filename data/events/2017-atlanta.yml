@@ -86,7 +86,7 @@ sponsors:
     level: silver
   - id: coxautomotive
     level: silver  	
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: coxautomotive
     level: wifi

@@ -2,44 +2,45 @@ name: "2019-denver" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Denver" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysrox" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Denver!" # Edit this to suit your preferences
+description: "DevOpsDays Denver Coming Up!" # Edit this to suit your preferences
 friendly: "2019-denver" # Four digit year and the city name in lower-case. Don't forget the dash!
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-04-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-09 # start accepting talk proposals.
+cfp_date_end: 2019-03-03 # close your call for proposals.
+cfp_date_announce: 2019-03-18 # inform proposers of status
 
-cfp_open: ""
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/dod-den-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-registration_date_end:  # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-20 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-04-29 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_closed: "false" # set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 masthead_background: ""
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
+coordinates: "39.740050, -105.016551" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Mile High Station and Iron Works" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: CFP Link
+    url: https://www.papercall.io/dod-den-2019
   - name: contact
   - name: conduct
 # - name: example
@@ -51,20 +52,44 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Tavis Aitken"
     twitter: "tavisto"
+    employer: "Splunk"
   - name: "Jason Hand"
     twitter: "jasonhand"
+    employer: "Microsoft"
   - name: "Beau Christensen"
     twitter: "beauchristensen"
-  - name: "Joe Thompson"
+    employer: "Splunk"
   - name: "Nick Huanca"
     twitter: "NickHuanca"
+    employer: ReactiveOps
   - name: "Carla Murray"
+    employer: "Oracle Data Cloud"
+    twitter: carlajmurray
   - name: "Matt Knox"
     twitter: "mknox42"
+    employer: "Sphero"
+  - name: Joe Thompson
+    employer: Blinker
+  - name: Andy Suderman
+    twitter: SudermanJr
+    employer: ReactiveOps
+  - name: Evan DeCoste
+    employer: Austin Fraser
+  - name: Ryan Koch
+    employer: ""
+    twitter: ryanckoch
+  - name: "Mikaela Gallagher"
+    employer: "Austin Fraser"
 organizer_email: "organizers-denver-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-denver-2019@devopsdays.org" # Put your proposal email address here
-
-sponsors_accepted : "" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
+sponsors:
+- id: circleci
+  level: silver
+- id: rundeck
+  level: gold
+- id: chef
+  level: silver
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -72,15 +97,17 @@ sponsors_accepted : "" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: social
-    label: Social Hour
+    label: Social Hour Event
     max: 1
+  - id: platinum
+    label: Platinum
+    max: 4
   - id: gold
     label: Gold
-#    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+    max: 6
+  - id: supporter
+    label: Supporter
+    max: 4

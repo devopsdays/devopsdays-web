@@ -6,6 +6,7 @@ Title = "Change Management for Humans"
 Type = "talk"
 Speakers = ["tiffany-longworth"]
 slideshare = "https://www.slideshare.net/TiffanyLongworth/change-management-for-humans"
+vimeo = "296619691"
 +++
 
 Unfortunately, rolling out changes for humans is not as easy as merging a pull request. How many times have you seen a new project management tool get rolled out, sometimes with much fanfare and polish, and just not get adopted? Have you ever seen your company announce a new business unit which led to a minor revolt? How scary is the word “reorganization”? If you have ideas on how your group’s processes could be better, want to launch a new tool that will work better as your company grows, or have to adjust the way you do things to meet new regulations, learning the basics of change management will help you to get your plans going, launch them effectively, and ensure they stick around.

@@ -1,7 +1,8 @@
 +++
 Title = "Philip Griffiths"
-Twitter = ""
-image = ""
+Twitter = "@ThePGriffiths"
+LinkedIn = "https://www.linkedin.com/in/philipleonardgriffiths/"
+image = "phillip-griffiths.jpeg"
 type = "speaker"
 linktitle = "philip-griffiths"
 

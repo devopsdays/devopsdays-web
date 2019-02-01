@@ -53,7 +53,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: elastic
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: techlifecolumbus
     level: support

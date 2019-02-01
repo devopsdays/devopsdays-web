@@ -5,9 +5,10 @@ Talk_end_time = ""
 Title = "Everyone's a player (in a mid-90s MUD)"
 Type = "talk"
 Speakers = ["kenzie-woodbridge"]
+Slides = "https://docs.google.com/presentation/d/e/2PACX-1vRno8_ciPVbbMWsbPEM4VRZgtG7tQfVf_uwzo76TrG9V1CuJ0GMlsvj_blzAx4AfzL-Ilnv_k75pbZX/embed"
 +++
 
-">N
+>N
 
 You have found a secret room! You gain 26xp.
 
@@ -27,5 +28,4 @@ You are dead!
 
 Other people: sometimes difficult to work with, impossible to predict. How can you get the right people involved in your technical project, keep them engaged, and prevent delays? Why do some people thrive despite poor documentation and how can you encourage them to document everything anyway?
 
-In this talk, I’ll explore strategies drawn from “Player Type Theory”. For 20 years, this theory has been employed by game designers to encourage stable long-term communities in online multiplayer games. I have used these strategies successfully in my workplace and they can work for you too."
-
+In this talk, I’ll explore strategies drawn from “Player Type Theory”. For 20 years, this theory has been employed by game designers to encourage stable long-term communities in online multiplayer games. I have used these strategies successfully in my workplace and they can work for you too.

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Psychological Safety and DevOps"
 Type = "talk"
 Speakers = ["matt-westgate"]
+youtube = "KPd4gTCwxps"
 +++
 
 Have you ever been in a meeting and had a question you didn't know if it was okay to ask? I mean, nobody else is asking the question, so you assume you should know... and the meeting silently marches on. 

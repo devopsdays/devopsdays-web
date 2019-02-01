@@ -13,7 +13,7 @@ Once they’re gone they’re gone.
 Unfortunately we are not able to offer discounts for volume purchases.
 
 ### What is the refund policy?
-There are no refunds for DevopsDays Vancouver 2018.
+There are no refunds for DevopsDays Vancouver 2019.
 
 ### What?  Why not?
 We are a volunteer run conference and have limited capacity to offer refunds.  We apologize for the inconvenience.
@@ -29,5 +29,5 @@ If you’re attending as part of a sponsor group, your company representative wi
 
 ### Sponsorship ticket contact
 
-Please contact <a href="mailto:mailto:organizers-vancouver-2018@devopsdays.org">organizers-vancouver-2017@devopsdays.org</a> for assistance if you are the company representative and need assistance
+Please contact <a href="mailto:mailto:organizers-vancouver-2019@devopsdays.org">organizers-vancouver-2019@devopsdays.org</a> for assistance if you are the company representative and need assistance
 

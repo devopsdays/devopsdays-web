@@ -2,7 +2,7 @@
 Title = "Daniel Parry"
 Twitter = ""
 type = "speaker"
-image = "default.jpg"
+image = "daniel-parry.jpg"
 linktitle = "daniel-parry"
 
 +++

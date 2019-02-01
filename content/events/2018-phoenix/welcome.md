@@ -19,7 +19,7 @@ Description = "devopsdays Phoenix 2018"
     <br>
     <p>DevOpsDays is a conference for not only Developers and Systems/Operations Engineers, but everyone across the spectrum involved in creating or managing technical solutions in any industry. This includes Security, QA, UX, Management, as well as, Specialists in Mobile, VR, AI, BI, etc…</p>
 
-    <p>Join us at {{< event_location >}} where over 200 people will be participating in our second DevOpsDays Phoenix as we learn and share together.  <!-- We have a great set of {{< event_link page="schedule" text="talks" >}} and {{< event_link page="speakers" text="speakers" >}} lined up for you. --> </p>
+    <p>Join us at {{< event_location >}} where over 200 people will be participating in our second DevOpsDays Phoenix as we learn and share together.  We have a great set of {{< event_link page="program" text="talks" >}} and {{< event_link page="speakers" text="speakers" >}} lined up for you. </p>
 
   <h2>Don't be left out get your {{< event_link page="registration" text="tickets" >}} today.</h2>
 
@@ -49,7 +49,7 @@ Description = "devopsdays Phoenix 2018"
 
     <!-- <p>{{< event_link page="speakers" text="View details about speakers!" >}}<br /></p> -->
 
-    <p>{{< event_link page="schedule" text="View the scheduled talks!" >}}<br /></p>
+    <p>{{< event_link page="program" text="View the scheduled talks!" >}}<br /></p>
 
     <p><strong>Sharing</strong></p>
 

@@ -1,6 +1,7 @@
 name: "2019-kiev" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Kyiv" # The displayed city name of the event. Capitalize it.
+event_group: "Kiev"
 event_twitter: "days_dev" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Kyiv!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
@@ -21,7 +22,7 @@ registration_date_start: 2019-01-01 # start accepting registration. Leave blank 
 registration_date_end: 2019-05-17 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayskyiv.2event.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -67,7 +68,7 @@ team_members: # Name is the only required field for team members.
   - name: "Mykola Marzhan"
     employer: "Percona"
     twitter: ""
-    bio: "Mykola has been working as Release/DevOps Engineer for 10 years and most of his career has focused on automation of release procedures, development of monitoring, update and deployment systems."
+    bio: "Mykola has been shorting “Time-to-market” in software companies more than ten years. Most of his career he has been focused on the automation of release procedures, and on the development of monitoring, update and deployment systems."
     github: "delgod"
     linkedin: "https://www.linkedin.com/in/delgod/"
     image: "mykola-marzhan.jpg"
@@ -87,9 +88,21 @@ proposal_email: "proposals-kiev-2019@devopsdays.org" # Put your proposal email a
 sponsors:
   - id: provectus
     level: gold
+  - id: softserve
+    level: silver
+  - id: valtech
+    level: silver
+  - id: triangu
+    level: silver
   - id: percona
     level: bronze
   - id: ab-soft
+    level: bronze
+  - id: pivotal
+    level: bronze
+  - id: inuits
+    level: bronze
+  - id: shalb
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

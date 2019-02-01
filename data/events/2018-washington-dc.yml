@@ -3,7 +3,7 @@ year: "2018"
 city: "Washington, DC"
 event_twitter: "devopsdaysdc"
 description: "A house divided against itself cannot stand."
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-131045075-2"
 
 startdate:  2018-06-06T00:00:00-04:00
 enddate: 2018-06-07T23:59:59-04:00
@@ -234,7 +234,7 @@ sponsors:
     level: platinum
   - id: sjtechcorp
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: platinum
   - id: aurotech
     level: platinum
@@ -244,7 +244,7 @@ sponsors:
     level: gold
   - id: swamp
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: platinum
   - id: stsi
     level: platinum

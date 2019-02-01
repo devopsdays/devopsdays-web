@@ -60,7 +60,7 @@ team_members: # Name is the only required field for team members.
     github: "davidasnider"
     facebook: "https://www.facebook.com/david.snider.731"
     linkedin: "https://www.linkedin.com/in/davidasnider/"
-    image: "david-snider.png"
+    image: "david-snider.jpg"
   - name: "Allia DeAngelis"
     twitter: "adeangelis"
     employer: "NCR"
@@ -78,11 +78,11 @@ team_members: # Name is the only required field for team members.
     twitter: "brettgpalmer"
     employer: "Department of Workforce Services"
     linkedin: "http://www.linkedin.com/in/brett-palmer-161177"
-    image: "brett-palmer.png"
+    image: "brett-palmer.jpg"
   - name: "Maria Bates"
   - name: "Barry McCormick"
     employer: "Digital Harbor"
-    image: "barry-mccormick.png"
+    image: "barry-mccormick.jpg"
 organizer_email: "organizers-salt-lake-city-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-salt-lake-city-2018@devopsdays.org" # Put your proposal email address here
 
@@ -101,7 +101,7 @@ sponsors:
     level: gold
   - id: scalyr
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: chef
     level: gold
