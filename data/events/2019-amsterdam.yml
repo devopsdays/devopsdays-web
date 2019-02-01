@@ -84,11 +84,16 @@ organizer_email: "organizers-amsterdam-2019@devopsdays.org" # Put your organizer
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # Beer
+  - id: newrelic
+    level: beer
   # Coffee
   - id: f5
     level: foodtrucks
   # Golds
   - id: f5
+    level: gold
+  - id: newrelic
     level: gold
   # Lanyards
   - id: developers-nl
