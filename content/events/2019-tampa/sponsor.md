@@ -1,12 +1,12 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor DevOpsDays Tampa 2019"
+Description = "Sponsor DevOpsDays Tampa Bay 2019"
 +++
 
 <br><br>
 
-Sponsorship information will be available in the Mid November of 2018. 
+Sponsorship information will be available in the Mid February of 2019. 
 ====
 
 <!--
