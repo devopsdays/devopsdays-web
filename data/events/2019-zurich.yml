@@ -164,6 +164,8 @@ sponsors:
 - id: oracle2019
   level: silver
   url: https://developer.oracle.com/
+- id: nine
+  level: bronze
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: entrance
