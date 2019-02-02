@@ -1,7 +1,7 @@
 +++
 Title = "Kubernetes Operability Tooling"
 Type = "talk"
-Speakers = ["bridget-kromhout"]
+Speakers = ["bridget-kromhout","brendan-burns"]
 +++
 
 Artisanally hand-crafting our own container hosting solutions can be a fun learning experience, but for repeatable production use, let's look at how to deploy and manage Kubernetes in a reproducible fashion.
