@@ -189,12 +189,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2019-04-24
     start_time: "14:10"
     end_time: "14:40"
-  - title: "Open Space #1"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
     date: 2019-04-24
     start_time: "14:50"
     end_time: "15:30"
@@ -203,8 +203,8 @@ program:
     date: 2019-04-24
     start_time: "14:50"
     end_time: "15:30"
-  - title: "Open Space #2"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
     date: 2019-04-24
     start_time: "15:40"
     end_time: "16:10"
@@ -213,8 +213,8 @@ program:
     date: 2019-04-24
     start_time: "15:40"
     end_time: "16:10"
-  - title: "Open Space #3"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
     date: 2019-04-24
     start_time: "16:20"
     end_time: "16:50"
@@ -228,6 +228,12 @@ program:
     date: 2019-04-24
     start_time: "17:00"
     end_time: "17:15"
+  - title: "Evening Reception"
+    type: custom
+    date: 2019-04-24
+    start_time: "17:15"
+    end_time: "19:30"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-04-25
@@ -289,12 +295,12 @@ program:
     start_time: "13:40"
     end_time: "14:15"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2019-04-25
     start_time: "14:15"
     end_time: "14:40"
-  - title: "Open Space #1"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
     date: 2019-04-25
     start_time: "14:50"
     end_time: "15:30"
@@ -303,8 +309,8 @@ program:
     date: 2019-04-25
     start_time: "14:50"
     end_time: "15:30"
-  - title: "Open Space #2"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
     date: 2019-04-25
     start_time: "15:40"
     end_time: "16:10"
@@ -313,8 +319,8 @@ program:
     date: 2019-04-25
     start_time: "15:40"
     end_time: "16:10"
-  - title: "Open Space #3"
-    type: custom
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
     date: 2019-04-25
     start_time: "16:20"
     end_time: "16:50"
