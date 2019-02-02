@@ -2,12 +2,12 @@ name: "2019-portugal" # The name of the event. Four digit year with the city nam
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Portugal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspt" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "devopsdays is coming to Portugal!" # Edit this to suit your preferences
+description: "devopsdays is coming to Portugal for the first time!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2019-06-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-06-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -25,10 +25,10 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Portugal" # Defaults to city, but you can make it the venue name.
+coordinates: "38.707073, -9.148971" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Lisbon, Portugal" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "EDP - Energias de Portugal, Av. 24 de Julho 12A, 1249-300 Lisboa" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
@@ -46,82 +46,92 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Manuel Pais" 
-    employer: "Independent"
-    bio:
-    linkedin: "https://www.linkedin.com/in/manuelpais/"
-    twitter: "manupaisable"
-    website:
-    image:
-  - name: "Eduardo Piairo"
-    employer: "Natixis"
-    bio:
-    linkedin: "linkedin.com/in/eduardopiairo"
-    twitter: "EdPiairo"
-    website: "https://www.eduardopiairo.com/"
-    image:
-  - name: "Miguel Alho"
-    employer: "FARO Technologies"
-    bio:
-    linkedin:
-    twitter: "MytyMyky"
-    website:
-    image:
-  - name: "Marta Torneiro"
-    employer: "Blip - Paddy Power Betfair"
-    bio:
-    linkedin: "https://www.linkedin.com/in/martatorneiro"
-    twitter:
-    website:
-    image: 
-  - name: "Urbano Freitas"
-    employer: "OutSystems"
-    linkedin: "https://www.linkedin.com/in/urbanofreitas/"
-    twitter: "UrbanoFreitas1"
-    website:
-    image:
   - name: "Cristina Rebelo"
     employer: "Meo"
+    bio: "With more than 10 years of experience in complex project management, Cristina is passionate for project management, especially using agile approaches as a means to optimize time and resources.Currently she manages a team of 20+ developing Meo TV. With a degree in Management, a graduation at Universidade Católica Portuguesa and two project management certifications, blogger and writer, married and mother of two, she often participates as speaker/host in public interest events."
     linkedin: "https://www.linkedin.com/in/crismr/"
     twitter: "crismr"
+    github: "Crismr71"
+    website:
+    image: cristina-rebelo.jpg
+  - name: "Eduardo Piairo"
+    employer: "Natixis"
+    bio: "Deployment pipeline craftsman always ready to learn new ways to implement Source Control, Continuous Integration and Continuous Delivery for databases, applications and infrastructure. The deployment pipeline it's my favorite technical and cultural tool. DevOps Whisperer with automation, collaboration and communication as priorities. Background as database administrator with special interest in database changes management and data modeling."
+    linkedin: "linkedin.com/in/eduardopiairo"
+    twitter: "EdPiairo"
+    github: "eduardopiairo"
+    website: "https://www.eduardopiairo.com/"
+    image: eduardo-piairo.jpg
+  - name: "Elisete Cruz"
+    employer: "Euronext"
+    bio: 
+    linkedin: "https://pt.linkedin.com/in/elisetecruz"
+    twitter: "elisetedcruz"
+    github:
     website:
     image:
-  - name: "Adnilson Delgado"
-    employer: "Wundertax"
-    linkedin: "https://www.linkedin.com/in/adnilson/"
-    twitter: "delgadoadnilson"
+  - name: "João Miranda"
+    employer: "Banco BPI"
+    bio: "João started his career in 2000, at the height of the dot-com bubble. That enlightening experience led him to the conclusion that agile practices (and now DevOps) are the best way to respond to the business needs of almost all organizations. He currently is IT manager at a large portuguese bank, where he helps to remove all friction that may hinder development teams fast pace."
+    linkedin: "https://www.linkedin.com/in/jhosm/"
+    twitter: "jhosm"
+    github: "jhosm"
     website:
-    image:
+    image: joao-miranda.png
   - name: "João Rodrigues"
     employer: "OutSystems"
     linkedin: "https://www.linkedin.com/in/joao-brandao-rodrigues"
     twitter: "joaoblrodrigues"
+    github: "joaobrodrigues"
     website:
     image:
+  - name: "Manuel Pais"
+    employer: "Independent"
+    bio: "Independent DevOps and Continuous Delivery Consultant, focused on teams and flow. Manuel helps organizations adopting DevOps and Continuous Delivery (both from technical and human perspectives) via strategic assessments, practical workshops and technical coaching. He's also the DevOps lead for InfoQ. Tweets https://twitter.com/manupaisable. Blogs https://medium.com/@manupaisable. Manuel is co-author of a book on Software Releasability (http://releasabilitybook.com) and another on Team Topologies (http://teamtopologies.com)." 
+    linkedin: "https://www.linkedin.com/in/martatorneiro"
+    twitter: "manupaisable"
+    github: "manupaisable"
+    website: "https://www.manuelpais.net/"
+    image: manuel-pais.jpg
+  - name: "Marta Torneiro"
+    employer: "Blip - Paddy Power Betfair"
+    bio: 
+    linkedin: "https://www.linkedin.com/in/martatorneiro"
+    twitter: 
+    github: 
+  - name: "Miguel Alho"
+    employer: "FARO Technologies"
+    bio: "Full-time, 14-years-in-the-making, software engineer with a DevOps and Craftsmanship mindset. Previously, I worked mainly as a dev freelancer, but also as a consultant, school teacher, media producer and project manager. I'm a very big fan of TDD as a development practice, very fond of microservices, of automating as much as possible in the dev, build and deploy pipeline, but also in finding ways to augment individual and team learning experiences."
+    linkedin: "https://www.linkedin.com/in/miguel-alho-9982331/"
+    twitter: "MytyMyky"
+    github: "MiguelAlho"
+    website: "http://www.miguelalho.pt"
+    image: miguel-alho.jpg
   - name: "Miguel Antunes"
     employer: "OutSystems"
+    bio:
     linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
     twitter:
+    github: "micantunes"
     website:
     image:
   - name: "Ricardo Castro"
     employer: "Uphold Inc"
+    bio:
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
     twitter: "mccricardo"
+    github: "mccricardo"
     website:
-    image:
-  - name: "João Miranda"
-    employer: "BPI"
-    linkedin: "https://www.linkedin.com/in/jhosm/"
-    twitter: "jhosm"
+    image: ricardo-castro.jpg
+  - name: "Sérgio Amorim"
+    employer: "EDP"
+    bio:
+    linkedin: "https://www.linkedin.com/in/saamorim/"
+    twitter: "sacamorim"
+    github: 
     website:
-    image:
-  - name: "Elisete Cruz"
-    employer: "Euronext"
-    linkedin: "https://pt.linkedin.com/in/elisetecruz"
-    twitter: "elisetedcruz"
-    website:
-    image:
+    image: 
+  
 
 organizer_email: "organizers-portugal-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal email address here
