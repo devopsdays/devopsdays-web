@@ -186,8 +186,8 @@ program:
   - title: "Ignites"
     type: ignite
     date: 2019-04-23
-    start_time: "13:30"
-    end_time: "14:00"
+    start_time: "13:40"
+    end_time: "14:10"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-04-23
