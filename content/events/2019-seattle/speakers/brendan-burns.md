@@ -1,6 +1,6 @@
 +++
 Title = "Brendan Burns"
-Twitter = ""
+Twitter = "brendandburns"
 image = "Brendan_Burns.jpg"
 type = "speaker"
 linktitle = "brendan-burns"
