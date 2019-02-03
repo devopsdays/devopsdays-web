@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
  # - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -130,201 +130,227 @@ sponsor_levels:
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2018-04-24
+    date: 2019-04-24
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2018-04-24
+    date: 2019-04-24
     start_time: "09:00"
-    end_time: "09:20"
+    end_time: "09:15"
   - title: "jeffrey-snover"
     type: talk
-    date: 2018-04-24
-    start_time: "09:20"
-    end_time: "09:50"
+    date: 2019-04-24
+    start_time: "09:15"
+    end_time: "09:55"
   - title: "Sponsors"
     type: custom
-    date: 2018-04-24
-    start_time: "09:50"
-    end_time: "10:00"
-  - title: ""
+    date: 2019-04-24
+    start_time: "09:55"
+    end_time: "10:05"
+  - title: "leena-s-n"
     type: talk
-    date: 2018-04-24
-    start_time: "10:00"
-    end_time: "10:30"
+    date: 2019-04-24
+    start_time: "10:05"
+    end_time: "10:35"
   - title: "Break"
     type: custom
-    date: 2018-04-24
-    start_time: "10:30"
-    end_time: "10:44"
-  - title: ""
+    date: 2019-04-24
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "peter-chestna"
     type: talk
-    date: 2018-04-24
-    start_time: "10:45"
-    end_time: "11:15"
+    date: 2019-04-24
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
-    date: 2018-04-24
-    start_time: "11:15"
-    end_time: "11:25"
-  - title: ""
+    date: 2019-04-24
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "karthik-gaekwad"
     type: talk
-    date: 2018-04-24
-    start_time: "11:25"
-    end_time: "11:55"
+    date: 2019-04-24
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2018-04-24
-    start_time: "11:55"
-    end_time: "13:00"
-  - title: ""
+    date: 2019-04-24
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "christine-yen"
     type: talk
-    date: 2018-04-24
-    start_time: "13:00"
-    end_time: "13:30"
+    date: 2019-04-24
+    start_time: "13:10"
+    end_time: "13:40"
   - title: "Ignites"
     type: ignite
-    date: 2018-04-24
+    date: 2019-04-24
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space Opening"
-    type: custom
-    date: 2018-04-24
-    start_time: "14:00"
-    end_time: "14:30"
-  - title: "Open Space #1"
-    type: custom
-    date: 2018-04-24
-    start_time: "14:40"
-    end_time: "15:20"
-  - title: ""
-    type: workshop
-    date: 2018-04-24
-    start_time: "14:40"
-    end_time: "15:10"
-  - title: "Open Space #2"
-    type: custom
-    date: 2018-04-24
-    start_time: "15:30"
+    type: open-space
+    date: 2019-04-24
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-04-24
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "burns-kromhout"
+    type: talk
+    date: 2019-04-24
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-04-24
+    start_time: "15:40"
     end_time: "16:10"
-  - title: ""
-    type: workshop
-    date: 2018-04-24
-    start_time: "15:30"
-    end_time: "16:00"
-  - title: "Open Space #3"
-    type: custom
-    date: 2018-04-24
+  - title: "ryan-lopopolo"
+    type: talk
+    date: 2019-04-24
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-04-24
     start_time: "16:20"
     end_time: "16:50"
-  - title: ""
-    type: workshop
-    date: 2018-04-24
+  - title: "matt-griscom"
+    type: talk
+    date: 2019-04-24
     start_time: "16:20"
     end_time: "16:50"
   - title: "Close Day"
     type: custom
-    date: 2018-04-24
+    date: 2019-04-24
     start_time: "17:00"
     end_time: "17:15"
+  - title: "Evening Reception"
+    type: custom
+    date: 2019-04-24
+    start_time: "17:15"
+    end_time: "19:30"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
-    date: 2018-04-25
+    date: 2019-04-25
     start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
-    date: 2018-04-25
+    date: 2019-04-25
     start_time: "09:00"
     end_time: "09:15"
-  - title: ""
+  - title: "kris-nova"
     type: talk
-    date: 2018-04-25
+    date: 2019-04-25
     start_time: "09:15"
-    end_time: "09:45"
+    end_time: "09:55"
   - title: "Sponsors"
     type: custom
-    date: 2018-04-25
-    start_time: "09:45"
-    end_time: "09:55"
-  - title: ""
-    type: talk
-    date: 2018-04-25
+    date: 2019-04-25
     start_time: "09:55"
-    end_time: "10:25"
+    end_time: "10:05"
+  - title: "gopal-brugalette"
+    type: talk
+    date: 2019-04-25
+    start_time: "10:05"
+    end_time: "10:35"
   - title: "Break"
     type: custom
-    date: 2018-04-25
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: ""
+    date: 2019-04-25
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "jane-miceli"
     type: talk
-    date: 2018-04-25
-    start_time: "10:40"
-    end_time: "11:10"
+    date: 2019-04-25
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
-    date: 2018-04-25
-    start_time: "11:10"
-    end_time: "11:20"
-  - title: ""
-    type: talk
-    date: 2018-04-25
+    date: 2019-04-25
     start_time: "11:20"
-    end_time: "11:50"
+    end_time: "11:30"
+  - title: "cat-swetel"
+    type: talk
+    date: 2019-04-25
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
-    date: 2018-04-25
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: ""
+    date: 2019-04-25
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "john-willis"
     type: talk
-    date: 2018-04-25
-    start_time: "13:00"
-    end_time: "13:30"
+    date: 2019-04-25
+    start_time: "13:10"
+    end_time: "13:40"
   - title: "Ignites"
     type: ignite
-    date: 2018-04-25
-    start_time: "13:30"
-    end_time: "14:00"
+    date: 2019-04-25
+    start_time: "13:40"
+    end_time: "14:15"
   - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-25
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-04-25
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "steven-colon"
+    type: talk
+    date: 2019-04-25
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-04-25
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "maarika-krumhansl"
+    type: talk
+    date: 2019-04-25
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-04-25
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "lucy-wyman"
+    type: talk
+    date: 2019-04-25
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
     type: custom
-    date: 2018-04-25
-    start_time: "14:00"
-    end_time: "14:30"
-  - title: "Open Space #1"
-    type: custom
-    date: 2018-04-25
-    start_time: "14:25"
-    end_time: "15:05"
-  - title: ""
-    type: workshop
-    date: 2018-04-25
-    start_time: "14:25"
-    end_time: "14:55"
-  - title: "Open Space #2"
-    type: custom
-    date: 2018-04-25
-    start_time: "15:15"
-    end_time: "15:55"
-  - title: ""
-    type: workshop
-    date: 2018-04-25
-    start_time: "15:15"
-    end_time: "15:45"
-  - title: "Open Space #3"
-    type: custom
-    date: 2018-04-25
-    start_time: "16:05"
-    end_time: "16:35"
-  - title: ""
-    type: workshop
-    date: 2018-04-25
-    start_time: "16:05"
-    end_time: "16:35"
-  - title: "Closing"
-    type: custom
-    date: 2018-04-25
-    start_time: "16:45"
+    date: 2019-04-25
+    start_time: "17:00"
     end_time: "17:15"
+
+ignites:
+  - title: lowell-young
+    date: 2019-04-24
+  - title: ashina-sipiora
+    date: 2019-04-24
+  - title: heidi-waterhouse
+    date: 2019-04-24
+  - title: attendees
+    date: 2019-04-24
+  - title: dawn-parzych
+    date: 2019-04-25
+  - title: sam-king
+    date: 2019-04-25
+  - title: jen-peck
+    date: 2019-04-25
+  - title: stephanie-hippo
+    date: 2019-04-25
+  - title: attendees
+    date: 2019-04-25
