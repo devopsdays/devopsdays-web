@@ -79,8 +79,8 @@ team_members: # Name is the only required field for team members.
     image: "lin-weidan.jpg"
     linkedin: "https://www.linkedin.com/in/%E4%BC%9F%E4%B8%B9-%E6%9E%97-83175b114"
     #twitter: "overloadzy"
-organizer_email: "organizers-beijing-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-beijing-2018@devopsdays.org" # Put your proposal email address here
+organizer_email: "organizers-beijing-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-beijing-2019@devopsdays.org" # Put your proposal email address here
 
 
 # List all of your sponsors here along with what level of sponsorship they have.

@@ -115,7 +115,7 @@ Description = "DevOpsDays Beijing 2019"
 -------
 
 ### Follow Official DevOpsDays Wechat
-![DevOpsDays Official Wechat](/events/2018-beijing/days-weichat-logo-foot.jpg)
+![DevOpsDays Official Wechat](/events/2019-beijing/days-weichat-logo-foot.jpg)
 
 <!-- Uncomment if you added your city twitter name -->
 <!--
