@@ -33,7 +33,7 @@ location_address: "EDP - Energias de Portugal, Av. 24 de Julho 12A, 1249-300 Lis
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
