@@ -11,8 +11,7 @@ Description = "DevOpsDays Toronto 2019"
 
 </br>
 
-DevOpsDays Toronto is back for its sixth year at the end of May 2019. We're working out the final details with a great new venue. In the next couple of weeks we'll share dates, details on the venue and open up our call for proposals. Start thinking of session ideas.
-</br>
+DevOpsDays Toronto is back for its sixth year at the end of May 2019.</br>
 
 <div class = "row">
   <div class = "col-md-2">
