@@ -15,4 +15,9 @@ Description = "Registration for devopsdays portugal 2019"
     <!-- for basic styles include a link to our stylesheet. -->
     <!-- fancy something more adventurous? Copy it and roll your own! -->
     <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+
 </div>
+
+</br>
+
+You can always use the following link: [ti.to/devopsdays-portugal/2019] (https://ti.to/devopsdays-portugal/2019)
