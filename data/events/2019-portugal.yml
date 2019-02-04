@@ -3,7 +3,7 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Portugal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspt" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "devopsdays is coming to Portugal for the first time!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-133818809-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
 startdate:  2019-06-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -11,8 +11,8 @@ enddate:  2019-06-04 # The end date of your event. Leave blank if you don't have
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-02-04 # start accepting talk proposals.
-cfp_date_end:  2019-04-31 # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_end:  2019-03-31 # close your call for proposals.
+cfp_date_announce: # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysportugal2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
