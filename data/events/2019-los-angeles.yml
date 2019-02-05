@@ -64,6 +64,8 @@ sponsor_levels:
 sponsors:
   - id: "aws"
     level: lanyard
+  - id: cloudbees
+    level: sponsor
   - id: codefresh
     level: sponsor
   - id: cirro
