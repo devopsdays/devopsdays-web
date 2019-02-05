@@ -112,6 +112,8 @@ sponsors:
     level: silver
   - id: signalfx
     level: silver
+  - id: chef
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -130,6 +132,9 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: evening
+    label: Evening Event
+    max: 1
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -232,7 +237,7 @@ program:
     date: 2019-04-23
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Evening Reception"
+  - title: "Evening Reception sponsored by Chef"
     type: custom
     date: 2019-04-23
     start_time: "17:15"
