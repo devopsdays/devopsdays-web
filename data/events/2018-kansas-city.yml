@@ -159,9 +159,9 @@ sponsors:
     level: standard
   - id: stackify
     level: standard
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: premium
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: premium
   - id: thoughtworks-gocd
     level: premium
@@ -185,7 +185,7 @@ sponsors:
     level: community
   - id: rubrik
     level: premium
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: core
   - id: shamrock
     level: core

@@ -1,7 +1,8 @@
 +++
 Title = "Jason Gwartz"
-Twitter = ""
-image = ""
+Twitter = "@jasongwartz"
+LinkedIn = "https://www.linkedin.com/in/jason-gwartz/"
+image = "jason-gwartz.jpg"
 type = "speaker"
 linktitle = "jason-gwartz"
 

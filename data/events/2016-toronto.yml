@@ -62,7 +62,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: lunch
   - id: oreilly
     level: community
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: lunch
   - id: 2016-sumologic
     level: gold

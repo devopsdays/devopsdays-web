@@ -1,15 +1,23 @@
 +++
-Title = "Contact"
+Title = "Contato"
 Type = "event"
-Description = "Contact information for devopsdays  2018"
+Description = "Informações de contato para o Devopsdays Florianópolis 2018"
 +++
 
-Se você prefere entrar em contato por: {{< email_organizers >}}
+<div class = "row">
+  <div class = "col">
+    <hr />
+    Se você tiver alguma dúvida e quiser entrar em contato conosco envie um e-mail para: {{< email_organizers >}}
+    <hr />
+  </div>
+</div>
 
-**Nosso time local**
+### Organizadores do devopsdays Florianópolis
+
+<p></p>
 
 {{< list_organizers >}}
 
-**The core devopsdays organizer group**
+### The core devopsdays organizer group
 
 {{< list_core >}}

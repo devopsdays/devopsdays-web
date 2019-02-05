@@ -1,0 +1,155 @@
+name: "2019-baltimore"
+year: "2019"
+city: "Baltimore"
+event_twitter: "devopsdaysbmore"
+description: "DevOpsDays is coming back to Baltimore!"
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+startdate: 2019-04-24  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-12-01 # start accepting talk proposals.
+cfp_date_end: 2019-02-03 # close your call for proposals.
+cfp_date_announce: 2019-02-18 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://devopsdaysbaltimore2019.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: "2019-01-31" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2020-01-01" # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+#TODO: Uncomment this when registration opens
+registration_link: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "39.286400, -76.605606"
+location: "Baltimore’s Institute of Marine and Environmental Technology (Columbus Center)"
+location_address: "701 E Pratt St., Baltimore, MD 21202"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Meghan Butler"
+    role:  "Chairperson"
+    employer: "Fearless Solutions"
+    github: "megbutler"
+    linkedin: "https://www.linkedin.com/in/meghancbutler/"
+    website: "http://fearless.tech"
+    twitter: "_mcbee13"
+    image: "meghan-butler.jpg"
+  - name: "Luke Samuels"
+    role:  "Chairperson"
+    employer: "Fearless"
+    github: "degenerateddevops"
+    linkedin: "https://www.linkedin.com/in/lukesamuels/"
+    twitter: "degeneratedevop"
+    website: "http://fearless.tech"
+  - name: "Jon Aumann"
+    employer: "ICX Media"
+    github: "jaumann"
+    linkedin: "https://www.linkedin.com/in/jaumann/"
+    twitter: "jaumann"
+    website: "https://icxmedia.com"
+    image: "jon-aumann.jpg"
+  - name: "Charles Bushong"
+    employer: "Fearless Solutions"
+    twitter: "totalnerd"
+    github: "bushong1"
+    linkedin: "https://www.linkedin.com/in/charles-bushong"
+    image: "charles-bushong.jpg"
+    website: "https://fearless.tech"
+  - name: "Kevin Chung"
+    employer: "Under Armour"
+    github: "KRS-One"
+    website: "https://www.underarmour.com"
+    linkedin: "https://www.linkedin.com/in/chung-kevin/"
+  - name: "Ryan Frantz"
+    employer: "Bloomberg"
+    github: "ryanfrantz"
+    twitter: "ryan_frantz"
+    website: "http://ryanfrantz.com/"
+    image: "ryan-frantz.jpg"
+  - name: "Nathen Harvey"
+    employer: "Google"
+    twitter: "nathenharvey"
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
+  - name: "Sameet Nasnodkar"
+    employer: "Northrop Grumman"
+    github: "sameetn"
+    linkedin: "https://www.linkedin.com/in/sameetnasnodkar/"
+    twitter: "sameet"
+  - name: "Chris Stone"
+  - name: "Robert Treat"
+    employer: "OmniTI"
+    github: "xzilla"
+    website: "https://omniti.com"
+    twitter: "robtreat2"
+    linkedin: "https://www.linkedin.com/in/robtreat/"
+    image: "robert-treat.jpg"
+  - name: "Ryan Wetzelberger"
+    employer: "Amobee, Inc"
+    github: "ryanwetzelberger"
+    linkedin: "https://www.linkedin.com/in/ryanwetzelberger/"
+    twitter: "rwetzelberger"
+    website: "https://cloudnetworkjourney.com"
+    image: "ryan-wetzelberger.jpg"
+
+
+organizer_email: "organizers-baltimore-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-baltimore-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: media
+    label: Media
+  - id: community
+    label: Community
+
+sponsors:
+  - id: appdynamics
+    level: platinum
+  - id: fearless
+    level: platinum
+  - id: palantir
+    level: platinum
+  - id: onyx-point
+    level: gold
+  - id: gitlab
+    level: gold
+  - id:  wortech
+    level: silver

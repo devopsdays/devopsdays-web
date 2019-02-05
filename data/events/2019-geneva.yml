@@ -4,22 +4,22 @@ city: "Geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
 description: "Devopsdays is coming to Geneva!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
 startdate: 2019-02-21T08:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2019-02-22T17:00:00+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2018-11-01T08:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-01T08:00:00+01:00 # close your call for proposals.
+cfp_date_announce: 2019-01-08T08:00:00+01:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-11-01T08:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-01-01T08:00:00+01:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,10 +33,11 @@ location_address: "Campus de Battelle, Rue de la Tambourine 17, 1227 Carouge" #O
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
-  # - name: location
-  # - name: registration
-  # - name: program
-  # - name: speakers
+  - name: location
+  - name: registration
+  - name: newsletter
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -50,27 +51,32 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/robinmatthieu/"
     employer: "Hidora"
     website: "https://hidora.com/"
-    twitter: https://twitter.com/matthieurobin
+    twitter: matthieurobin
+    image: matthieu.jpg
   - name: "Matteo Mazzeri"
-    employer: "Enalean"
+    employer: "Tuleap"
     linkedin: "https://www.linkedin.com/in/mazzeri"
     twitter: "matemaz"
     website: "https://tuleap.org/"
+    image: matteo.jpg
+  - name: "Lucie de Romemont"
+    linkedin: "https://www.linkedin.com/in/lucie-de-romemont-3a371341"
+    employer: "AdExcel Consulting SA"
+    website: "http://www.adexcel-consulting.com/"
+    image: lucie.jpg
   - name: "Tim Izzo"
     employer: "Octree"
     linkedin: "https://www.linkedin.com/in/tim-izzo/"
-    twitter: https://twitter.com/5ika_
+    twitter: 5ika_
     website: "https://octree.ch/"
+    image: tim.jpg
   - name: "Xavier von Aarburg"
     employer: "Octree"
     linkedin: "https://www.linkedin.com/in/xaviervonaarburg/"
     #    github: "devopsdays"
     website: "https://octree.ch/"
-    twitter: https://twitter.com/XvAarburg
-  - name: "Lucie de Romemont"
-    linkedin: "https://www.linkedin.com/in/lucie-de-romemont-3a371341"
-    employer: "AdExcel Consulting SA"
-    website: "http://www.adexcel-consulting.com/"
+    twitter: XvAarburg
+    image: xavier.jpg
 #    image: "sally-fields.jpg"
 organizer_email: "organizers-geneva-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-geneva-2019@devopsdays.org" # Put your proposal email address here
@@ -78,11 +84,33 @@ proposal_email: "proposals-geneva-2019@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
-#    level: gold
-#  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: hidora
+    level: gold
+  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: adexcel
+    level: gold
+  - id: tuleap
+    level: gold
+  - id: serial
+    level: silver
+  - id: exoscale
+    level: bronze
+  - id: trivadis
+    level: bronze
+  - id: oracle
+    level: silver
+  - id: xebialabs
+    level: gold
+  - id: nutanix
+    level: gold
+  - id: smartwave
+    level: silver
+  - id: dbi-services
+    level: silver
+  - id: cross-systems
+    level: silver
+  - id: globaz
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -91,13 +119,175 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: event
+    label: Event
+    max: 1
   - id: gold
     label: Gold
-  #    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    # max: 0 # This is the same as omitting the max limit.
+    max: 8
   - id: bronze
     label: Bronze
-  - id: community
-    label: Community
+    max: 12
+
+program:
+  # Day 1
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2019-02-21"
+    start_time: "08:00"
+    end_time: "09:10"
+  - title: "Welcome Speech"
+    type: custom
+    date: "2019-02-21"
+    start_time: "09:10"
+    end_time: "09:30"
+  - title: "yorgos-saslis-lagoudakis"
+    type: talk
+    date: "2019-02-21"
+    start_time: "09:30"
+    end_time: "10:30"
+  - title: "raphael-hiet"
+    type: talk
+    date: "2019-02-21"
+    start_time: "10:30"
+    end_time: "11:30"
+  - title: "Morning coffee break"
+    type: custom
+    date: "2019-02-21"
+    start_time: "11:30"
+    end_time: "12:10"
+  - title: "tim-izzo"
+    type: talk
+    date: "2019-02-21"
+    start_time: "12:10"
+    end_time: "13:00"
+  - title: "Lunch"
+    type: custom
+    date: "2019-02-21"
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "nataliya-remez"
+    type: talk
+    date: "2019-02-21"
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "manuel-vacelet"
+    type: talk
+    date: "2019-02-21"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Afternoon coffee break"
+    type: custom
+    date: "2019-02-21"
+    start_time: "16:30"
+    end_time: "17:10"
+  - title: "ruslan-synytsky"
+    type: talk
+    date: "2019-02-21"
+    start_time: "17:10"
+    end_time: "18:10"
+  - title: "raffaele-tarantino"
+    type: talk
+    date: "2019-02-21"
+    start_time: "18:10"
+    end_time: "19:00"
+  - title: "Dinner"
+    type: custom
+    date: "2019-02-21"
+    start_time: "19:00"
+
+  # Day 2
+  - title: "Breakfast"
+    type: custom
+    date: "2019-02-22"
+    start_time: "08:30"
+    end_time: "09:10"
+  - title: "Welcom speech"
+    type: custom
+    date: "2019-02-22"
+    start_time: "09:10"
+    end_time: "09:20"
+  - title: "pj-hagerty"
+    type: talk
+    date: "2019-02-22"
+    start_time: "09:20"
+    end_time: "10:20"
+  - title: "krikor-maroukian"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "09:20"
+    end_time: "10:20"
+  - title: "julien-pivotto"
+    type: talk
+    date: "2019-02-22"
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "david-barbarin"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "10:20"
+    end_time: "11:20"
+  - title: "Morning coffee break"
+    type: custom
+    date: "2019-02-22"
+    start_time: "11:20"
+    end_time: "12:00"
+  - title: "arun-kumar-singh"
+    type: talk
+    date: "2019-02-22"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "david-pilato"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Lunch"
+    type: custom
+    date: "2019-02-22"
+    start_time: "13:00"
+    end_time: "14:30"
+  - title: "ramon-medrano-llamas"
+    type: talk
+    date: "2019-02-22"
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "valentin-cabourdin"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "vincent-sevel"
+    type: talk
+    date: "2019-02-22"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "ignat-korchagin"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Afternoon coffee break"
+    type: custom
+    date: "2019-02-22"
+    start_time: "16:30"
+    end_time: "17:10"
+  - title: "jihai-zhou"
+    type: talk
+    date: "2019-02-22"
+    start_time: "17:10"
+    end_time: "18:00"
+  - title: "daniel-maher"
+    type: workshop
+    date: "2019-02-22"
+    start_time: "17:10"
+    end_time: "18:00"
+  - title: "ron-yishai"
+    type: talk
+    date: "2019-02-22"
+    start_time: "18:00"
+    end_time: "18:50"

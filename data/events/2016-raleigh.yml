@@ -63,13 +63,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: pagerduty
     level: platinum
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: platinum
   - id: thoughtworks-products
     level: platinum
   - id: pivotal
     level: platinum
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: community
   - id: apprenda
     level: platinum

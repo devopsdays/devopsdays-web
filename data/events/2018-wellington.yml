@@ -35,13 +35,14 @@ location_address: "TSB Bank Arena Queens Wharf, Wellington, New Zealand" #Option
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
   - name: registration
   - name: program
   - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: postevent
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -91,17 +92,27 @@ sponsors:
     level: gold
   - id: integrationqa
     level: gold
+  - id: micro-focus
+    level: gold
   - id: pushpay
     level: gold
   - id: oss
     level: gold
+  - id: rancher
+    level: gold
+  - id: redhatnz
+    level: gold
   - id: SECTION6
+    level: gold
+  - id: sonatype-before-20190121
     level: gold
   - id: xero
     level: gold
   - id: anz
     level: silver
   - id: flux
+    level: silver
+  - id: hashicorp
     level: silver
   - id: microsoftnzazure
     level: silver
@@ -194,13 +205,13 @@ program:
   - title: "Open Space #1"
     type: open-space
     date: 2018-11-05
-    start_time: "13:25"
-    end_time: "14:05"
+    start_time: "13:30"
+    end_time: "14:10"
   - title: "Open Space #2"
     type: open-space
     date: 2018-11-05
-    start_time: "14:10"
-    end_time: "14:50"
+    start_time: "14:15"
+    end_time: "14:55"
   - title: "bernard-oleary"
     type: workshop
     date: 2018-11-05
@@ -209,12 +220,12 @@ program:
   - title: "Open Space #3"
     type: open-space
     date: 2018-11-05
-    start_time: "14:55"
-    end_time: "15:35"
+    start_time: "15:00"
+    end_time: "15:40"
   - title: "Break"
     type: custom
     date: 2018-11-05
-    start_time: "15:35"
+    start_time: "15:40"
     end_time: "16:00"
   - title: "Ignites"
     type: ignite
@@ -224,18 +235,18 @@ program:
   - title: "Sponsors"
     type: custom
     date: 2018-11-05
-    start_time: "16:00"
-    end_time: "16:05"
+    start_time: "16:20"
+    end_time: "16:25"
   - title: "katrina-clokie"
     type: talk
     date: 2018-11-05
-    start_time: "16:20"
-    end_time: "17:05"
+    start_time: "16:25"
+    end_time: "17:10"
   - title: "Close Day & Logistics"
     type: custom
     date: 2018-11-05
-    start_time: "17:05"
-    end_time: "17:15"
+    start_time: "17:10"
+    end_time: "17:20"
   - title: "Evening event"
     type: custom
     date: 2018-11-05
@@ -324,33 +335,34 @@ program:
     type: custom
     date: 2018-11-06
     start_time: "15:20"
-    end_time: "15:45"
+    end_time: "15:40"
   - title: "Ignites"
     type: ignite
     date: 2018-11-06
-    start_time: "15:45"
-    end_time: "16:05"
-  - title: "Sponsors"
-    type: custom
-    date: 2018-11-06
-    start_time: "16:05"
-    end_time: "16:10"
+    start_time: "15:40"
+    end_time: "16:00"
   - title: "jessica-devita"
     type: talk
     date: 2018-11-06
-    start_time: "16:20"
-    end_time: "16:55"
+    start_time: "16:00"
+    end_time: "16:45"
   - title: "Closing Remarks & Giveaways"
     type: custom
     date: 2018-11-06
-    start_time: "16:55"
-    end_time: "17:05"
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Closing Reception"
+    type: custom
+    date: 2018-11-06
+    start_time: "17:00"
+    end_time: "17:45"
+    comments: "Drinks and nibbles with live screening of the Melbourne Cup"
 ignites:
   - title: "everett-toews"
     date: 2018-11-05
   - title: "jeff-smith-ignite"
     date: 2018-11-05
-  - title: "TBA"
+  - title: "peter-sellars"
     date: 2018-11-05
   - title: "testing-govt-nz"
     date: 2018-11-06

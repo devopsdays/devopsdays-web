@@ -1,6 +1,6 @@
 {{- range sort $.Site.Data.events "startdate" -}}
   {{- if .startdate -}}
-    {{- if ge (time .enddate) now -}}
+    {{- if ge (time .enddate) (now.AddDate 0 0 -1) -}}
       {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year-displayed" "false" -}}
@@ -18,7 +18,7 @@
         <h4 class="left-nav-months">{{ dateFormat "January" .startdate }}</h4>
         {{- $.Scratch.Set "month-displayed" "true" -}}
       {{- end -}}
-      {{- if ne .startdate .enddate }}
+      {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
         {{- if eq (time .startdate).Month (time .enddate).Month -}}
           <a href = "{{ (printf "events/%s" .name ) | absURL }}" class = "left-nav-event">
         {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:

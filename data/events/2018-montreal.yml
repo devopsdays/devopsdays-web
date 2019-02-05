@@ -74,8 +74,8 @@ team_members: # Name is the only required field for team members.
   - name: "Marc Pare"
     employer: "CloudOps"
     twitter: "MarcAlphonse"
-  - name: "Martin Goyette"
-    employer: "Agile Montreal"
+#  - name: "Martin Goyette"
+#    employer: "Agile Montreal"
     twitter: "agilemontreal"
   - name: "Donald Donovan"
     employer: "CloudOps"
@@ -108,7 +108,7 @@ sponsors:
     level: silver
   - id: signalfx
     level: bronze
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: silver
   - id: genetec
     level: bronze

@@ -4,6 +4,9 @@ city: "Oslo" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysoslo" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Oslo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_logo: "logo-square.jpg"
+status: "past"
+event_group: "Oslo"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate: 2018-10-29T00:00:00+02:00
@@ -20,7 +23,7 @@ cfp_link: "https://sessionize.com/devopsdays-oslo-2018" #if you have a custom li
 registration_date_start: 2018-09-06T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2018-10-29T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdays-oslo.eventbrite.com/?aff=webpage" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -36,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
+#   - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -155,26 +158,26 @@ program:
     type: custom
     date: 2018-10-29
     start_time: "10:25"
-    end_time: "10:40"
+    end_time: "10:50"
   - title: "t-alexander-lystad"
     type: talk
     date: 2018-10-29
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2018-10-29
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:20"
+    end_time: "11:30"
   - title: "daniela-soares-cruzes"
     type: talk
     date: 2018-10-29
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2018-10-29
-    start_time: "11:50"
+    start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
@@ -187,17 +190,17 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2018-10-29
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2018-10-29
     start_time: "15:00"
     end_time: "15:45"
   - title: "Open Space #3"
-    type: custom
+    type: open-space
     date: 2018-10-29
     start_time: "16:00"
     end_time: "16:45"
@@ -210,7 +213,18 @@ program:
     type: custom
     date: 2018-10-29
     start_time: "17:00"
+    end_time: "18:00"
+  - title: "Dinner"
+    type: custom
+    date: 2018-10-29
+    start_time: "18:00"
+    end_time: "20:00"
+  - title: "Evening event"
+    type: custom
+    date: 2018-10-29
+    start_time: "20:00"
     end_time: "23:00"
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-10-30
@@ -221,7 +235,7 @@ program:
     date: 2018-10-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "yegor-bugayenko"
+  - title: "ken-mugrage-2"
     type: talk
     date: 2018-10-30
     start_time: "09:15"
@@ -240,26 +254,26 @@ program:
     type: custom
     date: 2018-10-30
     start_time: "10:25"
-    end_time: "10:40"
+    end_time: "10:50"
   - title: "debbie-levitt"
     type: talk
     date: 2018-10-30
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Sponsors"
     type: custom
     date: 2018-10-30
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "11:20"
+    end_time: "11:30"
   - title: "viktorija-almazova"
     type: talk
     date: 2018-10-30
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2018-10-30
-    start_time: "11:50"
+    start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
@@ -272,12 +286,12 @@ program:
     start_time: "13:30"
     end_time: "14:00"
   - title: "Open Space #1"
-    type: custom
+    type: open-space
     date: 2018-10-30
     start_time: "14:00"
     end_time: "14:45"
   - title: "Open Space #2"
-    type: custom
+    type: open-space
     date: 2018-10-30
     start_time: "15:00"
     end_time: "15:45"
@@ -289,8 +303,13 @@ program:
   - title: "mike-long"
     type: talk
     date: 2018-10-30
-    start_time: "16:00"
-    end_time: "17:00"
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2018-10-30
+    start_time: "16:15"
+    end_time: "16:30"
 
 ignites:
   - title: "daniel-maher"

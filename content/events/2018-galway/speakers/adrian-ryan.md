@@ -1,7 +1,8 @@
 +++
 Title = "Adrian Ryan"
 Twitter = ""
-image = ""
+LinkedIn = "https://www.linkedin.com/in/adrian-ryan-9542442/"
+image = "adrian-ryan.jpg"
 type = "speaker"
 linktitle = "adrian-ryan"
 

@@ -1,0 +1,208 @@
+name: "2019-natal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Natal" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysnatal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+description: "DevOpsDays is coming to Natal!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2019-03-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-03-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-12-28 # start accepting talk proposals.
+cfp_date_end: 2019-02-15 # close your call for proposals.
+cfp_date_announce: 2019-02-16 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://speakerfight.com/events/devopsday-natal-2019/" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "natal.jpg"
+
+registration_date_start: 2019-01-22 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-03-06 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysnatal.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-5.8117002, -35.203245" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "IFRN - Campus Natal Central" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Senador Salgado Filho, 1559 - Tirol" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Informações
+    icon: "map-o"
+    url: /events/2019-natal/location
+## Uncomment to show on page
+  # - name: Palestrantes
+  #   icon: "microphone"
+  #   url: /events/2019-natal/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2019-natal/program
+  - name: Local
+    icon: "map-o"
+    url: /events/2019-natal/location
+  - name: Palestre (CFP)
+    icon: "user-plus"
+    url: "https://speakerfight.com/events/devopsday-natal-2019/"
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2019-natal/conduta
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://devopsdaysnatal.eventize.com.br/"
+  # - name: Patrocinio
+  #   icon: "money"
+  #   url: /events/2019-natal/patrocinio
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2019-natal/contato
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ariane Silveira Correa"
+    role: "Empresa Junior de Ciencias e Tecnologia (EJECT)"
+    bio: "Técnica em eletrotécnica (SENAI), graduanda em Ciencias e Tecnologia (UFRN), assessora de projetos da EJECT."
+    linkedin: ""
+    website: ""
+    github: "https://github.com/arianesc"
+    twitter: "devopsdays-natal"
+    image: "ariane-correa.jpg"
+
+  - name: "Clara Nobre"
+    role: "Analista de Suporte Corporativo, na Tink!"
+    bio: "Técnica em T.I. com ênfase em Redes de Computadores, trabalho com infraestrutura e redes Linux como Analisa de Suporte de Infraestrutura na empresa Tink! e desde então me mantive em atividades envolvendo Cloud Computing, Software Livre, Open Source, Maker, CTF, Hacking e Segurança da Informação. "
+    linkedin: "https://www.linkedin.com/in/claranobre"
+    website: ""
+    github: "https://github.com/claranobre"
+    twitter: "@_claranobre"
+    image: "clara-nobre.jpg"
+
+  - name: "Esther Aragão da Silva Santana"
+    role: "Estudante de TADS no IFRN/CNAT"
+    bio: "Técnica em Programação de Jogos Digitais e graduanda em TADS, me apaixonei pelas linhas de código através de um projeto do Code Girl em 2015, desde então contribuo em projetos como PyLadies, Code Girl e CADES, estou iniciando minha jornada DevOps"
+    linkedin: ""
+    website: ""
+    github: "https://github.com/estheraragaos"
+    twitter: "@estheraragaos"
+    image: "esther-aragao.jpg"
+
+  - name: "Genilson Filho"
+    role: "Estagiário Sinfo"
+    bio: "Técnico em Informática pelo IFRN e graduadp em Ciências e Tecnologia. Graduando em Engenharia da Computação. Trabalhar com TI há pouco mais de 5 anos."
+    linkedin: "https://www.linkedin.com/in/jgdsfilho"
+    website: ""
+    github: "https://github.com/jgdsfilho"
+    twitter: "devopsdays-natal"
+    image: "genilson-filho.jpg"
+
+  - name: "Igor Oliveira"
+    role: "Consultor DevOps"
+    bio: "Técnico em Informática pelo IFRN e graduando em Análise e Desenvolvimento de Sistemas, começou a trabalhar com TI há mais de 4 anos. Já atuou como desenvolvedor backend e frontend com diversas tecnologias, até que, ao começar a estudar práticas DevOps no início de 2018, passou a procurar se aprofundar cada vez mais nessa cultura. Atualmente trabalha principalmente com Infra as Code e consultoria na melhoria de processos e implantação de práticas e ferramentas DevOps."
+    linkedin: "https://www.linkedin.com/in/igor-bezerra-9974b28b/"
+    website: ""
+    github: "https://github.com/igorolivei"
+    twitter: "devopsdays-natal"
+    image: "igor-oliveira.jpg"
+
+  - name: "Helenita Maciel Gurgel"
+    role: "UI/Web Designer e Ilustradora independente"
+    bio: "Graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas, com enfâse na criação e implementação de interfaces web e mobile. Apaixonada por design e tecnologia, estou aprendendo a unir o melhor dos dois mundos. "
+    linkedin: "https://www.linkedin.com/in/helenitagurgel/"
+    website: "https://www.behance.net/helenitagurgel"
+    github: "https://github.com/helenitagurgel"
+    twitter: "devopsdays-natal"
+    image: "helenita-gurgel.jpg"
+
+  - name: "Hiago Hubert"
+    role: "Engenheiro de DevOps"
+    bio: "Formado em Análise e Desenvolvimento de Sistemas pelo IFRN, trabalha com desenvolvimento de software há 10 anos. Atualmente trabalha na implantação de ferramentas e práticas de DevOps na Anchor Loans, empresa do ramo financeiro do Estados Unidos. "
+    linkedin: "https://www.linkedin.com/in/hiago-hubert-0a786549/"
+    website: "http://hiagohubert.github.io/"
+    github: "https://github.com/hiagohubert/"
+    twitter: "@HubertHiago"
+    image: "hiago-hubert.jpg"
+
+  - name: "Julio Lira"
+    role: "Estagiário de infraestrutura"
+    bio: "Sou estagiário de infraestrutura na ESIG, trabalhei durante 3 anos com desenvolvimento web como freelancer, fundei a comunidade WebDevRN e migrei para a área de infraestrutura e segurança já a mais de um ano."
+    linkedin: "linkedin.com/in/jul10l1r4/"
+    website: "jul10l1r4.github.io"
+    github: "github.com/jul10l1r4"
+    twitter: "devopsdays-natal"
+    image: "julio-lira.jpg"
+
+  - name: "Leonardo Ataide Minora"
+    role: "Professor at IFRN/CNAT"
+    bio: "iniciei na área em cursos extracurriculares na ETFRN (atualmente IFRN) em cursos de lógica de progtramação com Pascal e desde então tenho me envolvido com dev em ensino, projetos (pessoais, profissionais), grupos [(java, js, dart, etc), ux, chatbots, software livre, gdg, etc], entre outros. Atualmente estou professor de Programação orientada a serviços, sistemas operacionais e gerência de projetos com alguns projetos de dev em andamento e outros já escalonados."
+    linkedin: "https://www.linkedin.com/in/leominora/"
+    website: "http://diatinf.ifrn.edu.br/doku.php?id=pessoal:docente:efetivo:minora"
+    github: "https://github.com/leonardo-minora/"
+    twitter: "@leonardominora"
+    image: "leonardo-minora.jpg"
+
+  - name: "Lorys Shimosaki"
+    role: "Estagiária em Infraestrutura no SENAC."
+    bio: "Técnica em T.I. com ênfase em Web. Além do estágio em que atuo na parte de infraestrutura e criação de sistemas, faço freelance com conserto de hardware. Comecei na área há pouco mais de 2 anos. Tenho competência básica em linguagens como Java, Javascript, Ruby e Python."
+    linkedin: ""
+    website: ""
+    github: "https://github.com/Minaguche"
+    twitter: "@minaguche"
+    image: "lorys-shimosaki.jpg"
+
+  - name: "Matheus Oliveira"
+    bio: "Entusiasta de software livre desde 2013,onde busca aplicar soluções de software livre e/ou open source em seu dia a dia,porém não esquecendo uma antiga paixão pela segurança da informação, sempre de olho nas CVE's. Com grande espirito empreendedor e engajamento com as comunidades sempre em busca da melhor solução para os problemas."
+    linkedin: "https://www.linkedin.com/in/matheus-0liveira/"
+    github: "github.com/matholiveira91"
+    twitter: "@Matheus_0liveira"
+    image: "matheus-oliveira.jpg"
+
+organizer_email: "organizers-natal-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-natal-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+
+# sponsors:
+#   - id: xxxx
+#     level: gold
+#     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Credenciamento, breakfast e abertura"
+    type: open-space
+    date: 2019-03-09
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "tbd"
+    type: talk
+    date: 2019-03-09
+    start_time: "08:40"
+    end_time: "17:20"
+  - title: "Encerramento"
+    type: open-space
+    date: 2019-03-09
+    start_time: "17:30"
+    end_time: "17:55"

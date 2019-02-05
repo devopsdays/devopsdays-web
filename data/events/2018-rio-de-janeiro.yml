@@ -106,6 +106,10 @@ sponsors:
     level: familyops
   - id: bitlu
     level: familyops
+  - id: numa
+    level: familyops
+  - id: logica-mente
+    level: familyops
   - id: promove
     level: bronze    
   - id: 4linux
@@ -115,14 +119,22 @@ sponsors:
   - id: elastic
     level: gold 
   - id: redhat
-    level: gold    
-  - id: appdynamics
-    level: gold          
+    level: gold     
+  - id: markway
+    level: gold     
+  - id: appdynamics-before-20190121
+    level: gold     
+  - id: radix
+    level: gold         
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: knowledge21
     level: silver  
   - id: daitan-group
     level: silver  
+  - id: sonatype-before-20190121
+    level: silver   
+  - id: stone-pagamentos
+    level: bronze  
   - id: alura
     level: learning    
   - id: adaptnow
@@ -131,7 +143,7 @@ sponsors:
     level: community
   - id: womenindevops
     level: community 
-  - id: womenwhocode
+  - id: wwcoderecife
     level: community   
   - id: exin
     level: community   
@@ -177,7 +189,7 @@ program:
     date: 2018-11-09
     start_time: "9:00"
     end_time: "9:15"
-  - title: "lauren-langdell"
+  - title: "mateus-prado"
     type: talk
     date: 2018-11-09
     start_time: "9:15"
@@ -209,7 +221,7 @@ program:
     date: 2018-11-09
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Almoço / Lunch"
+  - title: "Almoço / Lunch - Livre"
     type: custom
     date: 2018-11-09
     start_time: "12:15"
@@ -251,7 +263,7 @@ program:
     date: 2018-11-09
     start_time: "15:30"
     end_time: "16:00"
-  - title: "mateus-prado"
+  - title: "lauren-langdell"
     type: talk
     date: 2018-11-09
     start_time: "16:00"
@@ -262,6 +274,11 @@ program:
     date: 2018-11-09
     start_time: "16:45"
     end_time: "17:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-11-09
+    start_time: "18:00"
+    end_time: "20:30"    
   - title: "Credenciamento e recepção"
     type: custom
     date: 2018-11-10
@@ -322,7 +339,7 @@ program:
     date: 2018-11-10
     start_time: "11:45"
     end_time: "12:15"
-  - title: "Almoço / Lunch"
+  - title: "Almoço / Lunch - Livre"
     type: custom
     date: 2018-11-10
     start_time: "12:15"
@@ -360,7 +377,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
     background_color: "#d1d1e0"      
-  - title: "carla-crude"
+  - title: "vanessa-almeida"
     type: talk
     date: 2018-11-10
     start_time: "15:00"
@@ -375,7 +392,7 @@ program:
     type: ignite
     date: 2018-11-10
     start_time: "15:30"
-    end_time: "16:45"
+    end_time: "17:00"
     background_color: "#ffccff"       
   - title: "rodrigo-ramalho"
     type: talk
@@ -386,13 +403,13 @@ program:
     type: talk
     date: 2018-11-10
     start_time: "16:15"
-    end_time: "16:45"
+    end_time: "17:00"
     background_color: "#AED6F1"
   - title: "Encerramento"
     type: custom
     date: 2018-11-10
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:15"
 ignites:
   - title: "julia-lamenza"
     date: 2018-11-09  

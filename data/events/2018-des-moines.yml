@@ -88,11 +88,11 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: workiva
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: granular
     level: gold

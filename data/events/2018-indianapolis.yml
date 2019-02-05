@@ -96,13 +96,13 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: redhat
     level: gold
   - id: morpheus_data
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: arresteddevops
     level: community
