@@ -117,7 +117,7 @@ team_members: # Name is the only required field for team members.
     image:
   - name: "Ricardo Castro"
     employer: "Uphold Inc"
-    bio:
+    bio: "DevOps and Site Reliability Engineer at Uphold building highly performant, reliable and scalable systems. Strong believer in culture and team work. Open source passionate, taekwondo amateur and metal lover."
     linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
     twitter: "mccricardo"
     github: "mccricardo"
