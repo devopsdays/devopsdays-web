@@ -105,6 +105,12 @@ proposal_email: "proposals-minneapolis-2019@devopsdays.org" # Put your proposal 
 sponsors:
   - id: arresteddevops
     level: community
+  - id: f5
+    level: gold
+  - id: f5
+    level: alacarte
+  - id: appdynamics
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -119,5 +125,7 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: alacarte
+    label: A La Carte
   - id: community
     label: Community

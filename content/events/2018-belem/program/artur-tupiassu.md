@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "A jornada DevOps do Serpro e a plataforma Estaleiro"
 Type = "talk"
 Speakers = ["artur-tupiassu"]
+Slides = "https://www.slideshare.net/secret/D8giYxQkCvkBsh"
 +++
 
 Muitas empresas já passaram, estão passando ou pretendem passar por processos de transformação ágil. Nestes processos de profunda mudança cultural nas organizações, um dos maiores desafios é a absorção daquilo que muitos tem chamado de cultura, filosofia ou práticas DevOps.

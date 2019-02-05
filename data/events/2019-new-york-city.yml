@@ -24,20 +24,20 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-nyc-2019-tickets-52281502381" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "new-york-city" # Defaults to city, but you can make it the venue name.
+coordinates: "40.757933 -73.986429" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Viacom" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "1515 Broadway, New York, NY 10036" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
- # - name: program
+  - name: location
+  - name: registration
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -63,8 +63,9 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://linkedin.com/in/daddjames"
   - name: "Russ Kaehler"
     role: "Co-Chair"
-    employer: "Verizon"
+    employer: "AiCure"
     image: "russ-kaehler.jpg"
+    linkedin: "https://www.linkedin.com/in/russ-kaehler-514187110"
   - name: "Brian Kowalcyzk"
     image: "brian-kowalcyzk.jpg"
     role: "Co-Chair"
@@ -75,7 +76,6 @@ team_members: # Name is the only required field for team members.
     role: "Co-Chair"
     employer: "AiCure"
     image: "khader-syed.jpg"
-    linkedin: "https://www.linkedin.com/in/russ-kaehler-514187110"
   - name: "Mark Birch"
     image: "mark-birch.jpg"
     employer: "Stack Overflow, Inc."
@@ -93,6 +93,7 @@ team_members: # Name is the only required field for team members.
     github: "jaydestro"
   - name: "Matt Kuritz"
     image: "matt-kuritz.jpg"
+    github: "kuritz"
   - name: "Tom Limoncelli"
     employer: "Stack Overflow, Inc."
     image: "tom-limoncelli.jpg"
@@ -137,6 +138,37 @@ sponsors:
     level: silver
   - id: gitlab
     level: silver
+  - id: newrelic
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: codefresh
+    level: gold
+  - id: chef
+    level: gold
+  - id: chaossearch
+    level: silver
+  - id: rancher
+    level: silver
+  - id: tasktop
+    level: silver
+  - id: puppet
+    level: gold
+  - id: verizon
+    level: gold
+  - id: f5
+    level: captioning
+  - id: rundeck
+    level: silver
+  - id: victorops
+    level: gold
+  - id: signalfx
+    level: gold
+  # - id: sonatype
+  #   level: gold
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -157,5 +189,224 @@ sponsor_levels:
   - id: bronze
     label: Bronze
     max: 5
+  - id: registration
+    label: Registration
+    max: 1
+  - id: social
+    label: Evening Social
+    max: 1
+  - id: captioning
+    label: Live Captioning
+    max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2019-01-24"
+    start_time: "08:45"
+    end_time: "09:15"
+  - title: "dominica-degrandis"
+    type: talk
+    date: "2019-01-24"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-24"
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "jaclyn-damiano"
+    type: talk
+    date: "2019-01-24"
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Coffee"
+    type: custom
+    date: "2019-01-24"
+    start_time: "10:40"
+    end_time: "11:25"
+  - title: "gaurav-gargate"
+    type: talk
+    date: "2019-01-24"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: "2019-01-24"
+    start_time: "11:55"
+    end_time: "12:25"
+  - title: "Lunch"
+    type: custom
+    date: "2019-01-24"
+    start_time: "12:25"
+    end_time: "13:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: "2019-01-24"
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2019-01-24"
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: "2019-01-24"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2019-01-24"
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: "2019-01-24"
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: "2019-01-24"
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-01-24"
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-24"
+    start_time: "16:30"
+    end_time: "16:40"
+  - title: "quintessence-anx"
+    type: talk
+    date: "2019-01-24"
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "matty-stratton"
+    type: talk
+    date: "2019-01-24"
+    start_time: "17:10"
+    end_time: "17:40"
+  - title: "Evening Social Event"
+    type: custom
+    date: "2019-01-24"
+    start_time: "19:00"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: "2019-01-25"
+    start_time: "08:45"
+    end_time: "09:15"
+  - title: "liz-fongjones"
+    type: talk
+    date: "2019-01-25"
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-25"
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: "jessica-kerr"
+    type: talk
+    date: "2019-01-25"
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "Coffee"
+    type: custom
+    date: "2019-01-25"
+    start_time: "10:40"
+    end_time: "11:25"
+  - title: "rob-boll"
+    type: talk
+    date: "2019-01-25"
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: "2019-01-25"
+    start_time: "11:55"
+    end_time: "12:25"
+  - title: "Lunch"
+    type: custom
+    date: "2019-01-25"
+    start_time: "12:25"
+    end_time: "13:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: "2019-01-25"
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2019-01-25"
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: "2019-01-25"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: "2019-01-25"
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space(Attendee Led Breakout Session) #3"
+    type: open-space
+    date: "2019-01-25"
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: "2019-01-25"
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-01-25"
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Sponsors"
+    type: custom
+    date: "2019-01-25"
+    start_time: "16:30"
+    end_time: "16:40"
+  - title: "alex-hidalgo"
+    type: talk
+    date: "2019-01-25"
+    start_time: "16:40"
+    end_time: "17:10"
+  - title: "peter-chestna"
+    type: talk
+    date: "2019-01-25"
+    start_time: "17:10"
+    end_time: "17:40"
+
+ignites:
+  - title: "heidi-waterhouse"
+    date: "2019-01-24"
+  - title: "eva-parish"
+    date: "2019-01-24"
+  - title: "amitai-schleier"
+    date: "2019-01-24"
+  - title: "robert-conley-rogers"
+    date: "2019-01-24"
+  - title: "david-ayers"
+    date: "2019-01-24"
+  - title: "anton-babenko"
+    date: "2019-01-25"
+  - title: "jody-lent"
+    date: "2019-01-25"
+  - title: "mohammed-salah-adawi"
+    date: "2019-01-25"
+  - title: "tiffany-longworth"
+    date: "2019-01-25"
+  - title: "jay-gordon"
+    date: "2019-01-25"

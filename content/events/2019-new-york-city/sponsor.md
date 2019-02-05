@@ -45,23 +45,13 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
           </form>
         </td>
-        <td style="padding: 0px 10px 0px 10px;">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="KY46ZJV5HCRDS">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form>
+        <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
+          <span class="btn btn-danger btn-sm">Sold out.</span>
         </td>
-        <td style="padding: 0px 10px 0px 10px">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="K4WESGZ8HBES6">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form>
+        <td width="125px" align="center" style="padding: 0px 10px 0px 10px">
+          <span class="btn btn-danger btn-sm">Sold out.</span>
         </td>
-      </tr>  
+      </tr>
       <tr>
         <td colspan="4">&nbsp;</td>
       </tr>
@@ -116,7 +106,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 
 <li><b>Thursday Evening Social Sponsorship:</b>  Your chance to plan and host the social event on Thursday for all attendees of the DevOpsDays event. This will be the official Thursday night networking / after-hours event and therefore will appear as such on all marketing materials. While we understand such events may include alcohol, it would be preferable for the focus to be on the socializing aspect. We are open to discussing ideas on how this might be achieved. There is only a single sponsorship available and it is $2,000. For sponsoring the Thursday Evening Social, please drop us an email at {{< email_organizers >}}</li>
 
-<li><b>Live Captioning Sponsorship:</b>  Everyone at the event will see your name every time they look up to see the CC screen at the event. We'll also mention your name in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is $5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
+<li><strike><b>Live Captioning Sponsorship:</b> Everyone at the event will see your name every time they look up to see the CC screen at the event. We'll also mention your name in the description of any online videos that include captioning. The videos will be online soon after the event and will be freely available for years. There is only a single sponsorship available and it is \$5,000. For sponsoring Live Captionining, please drop us an email at {{< email_organizers >}}
 
 <ul>
 <li>You will receive: Two (2) Tickets</li>
@@ -126,7 +116,7 @@ We appreciate our sponsors for this Open Event! If you are interested in sponsor
 <li>Logo on its own slide, rotating during breaks</li>
 <li>Shared table (split w/ 1 other sponsor);</li>
 <li>Advertisement of Closed Captioning. The advertisement will be done either with a standup banner beside the closed captioning screen or built into the caption screen.</li>
-</ul>
+</ul></strike>
 </li>
 </ul>
 <hr/>
