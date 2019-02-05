@@ -5,10 +5,6 @@ aliases = ["/events/2019-portugal/"]
 Description = "devopsdays portugal 2019"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -17,6 +13,8 @@ Description = "devopsdays portugal 2019"
     {{< event_start >}} - {{< event_end >}}
   </div>
 </div>
+
+
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +79,20 @@ Description = "devopsdays portugal 2019"
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<div class = "row">
+  <div class = "col-md-2">
+    {{< event_twitter >}}
+  </div>
+</div>
+
+
+<div style="text-align:center;">
+
+  <p><b>DevOpsDays Portugal 2019 is powered by the  <a href="https://www.meetup.com/pt-BR/DevOps-Lisbon/">DevOps Lisbon</a> &amp; <a href="https://www.meetup.com/devopsporto/">DevOps Porto</a>, the two main meetup groups dedicated to DevOps in Portugal.</b></p>
+
+<p><b>This will be the first DevOpsDays organized in Portugal; we have chosen Lisbon as the first city to host the event, and hope to alternate with Porto (and other cities) each year.</b></p>
+
+<p><b> The conference this year will focus on real world experience reports from diverse organizations in Portugal and abroad. Covered topics will include Culture, Automation, Lean, Measurement, and Sharing (CALMS), and others. </b></p>
+
+  {{< event_logo >}}
+</div>
