@@ -66,13 +66,19 @@ sponsors:
     level: lanyard
   - id: codefresh
     level: sponsor
+  - id: cirro
+    level: sponsor
   - id: cyberark
     level: sponsor
   - id: datadog
     level: sponsor
+  - id: diamanti
+    level: sponsor
   - id: dynatrace
     level: sponsor
   - id: electriccloud
+    level: sponsor
+  - id: eliassen-group
     level: sponsor
   - id: launchdarkly
     level: sponsor
