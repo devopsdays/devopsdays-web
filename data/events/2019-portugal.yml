@@ -21,7 +21,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devopsdays-portugal/2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -64,12 +64,12 @@ team_members: # Name is the only required field for team members.
     image: eduardo-piairo.jpg
   - name: "Elisete Cruz"
     employer: "Euronext"
-    bio: 
+    bio: "Devops Engineer, Tools and Automation at Euronext. She started her career in the IT world 7 years ago. Her journey has been mainly in the Release Management role, but she had an adventure in development for 1 year. She is a fan of the DevOps culture." 
     linkedin: "https://pt.linkedin.com/in/elisetecruz"
     twitter: "elisetedcruz"
     github:
     website:
-    image:
+    image: elisete-cruz.jpg
   - name: "João Miranda"
     employer: "Banco BPI"
     bio: "João started his career in 2000, at the height of the dot-com bubble. That enlightening experience led him to the conclusion that agile practices (and now DevOps) are the best way to respond to the business needs of almost all organizations. He currently is IT manager at a large portuguese bank, where he helps to remove all friction that may hinder development teams fast pace."
