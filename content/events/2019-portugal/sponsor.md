@@ -4,63 +4,151 @@ Type = "event"
 Description = "Sponsor devopsdays portugal 2019"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+**We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].**
 
-<hr>
-
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
-<p>
-Gold sponsors get a full table and Silver sponsors a shared table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
-
-<!--
 <hr/>
 
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on shared slide, rotating during breaks</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on all email communication</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>logo on its own slide, rotating during breaks</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr></tr>
-<tr><td>2 additional tickets (4 in total)</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>4 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-<tr><td>shared table for swag</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td></tr>
-<tr><td>booth/table space</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
+## Become a Sponsor
 
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
+* **Be part of the first DevOps dedicated conference in Portugal**
+* **Associate your company brand with a DevOps global brand**
+* **Contribute to the local DevOps reality promotion and growth**
+* **Learn from experts and practitioners**
+* **Direct contact and networking with a growing DevOps community**  
+
+<p>As a not-for-profit conference organized by a team of volunteers, the sponsorship will be used to support the conference expenses. The goal is to provide the best experience to attendees, speakers and sponsors.</p>
+
+<hr/>
+
+## Sponsorship Levels
+
+<p>The available slots for each sponsorship level will be assigned in a ​<b>first come, first serve</b> basis. We will reply to requests as soon as possible, to allow you to take advantage of the sponsor level benefits as early as possible.</p>
+
+#### Bronze
+
+* Logo in event website
+* Logo on video recordings (publicly available
+* Provide swag for attendees (optional)
+
+#### Silver
+
+All benefits from Bronze level sponsors PLUS:
+
+* Roll-up in the lunch area 
+* Logo in the conference poster located in the registration area 
+* Logo displayed in the main screen between sessions 
+* Booth space in conference area (possibly shared table) 
+
+#### Gold
+
+All benefits from Bronze level sponsors PLUS:
+
+* Booth space in conference area (dedicated table) 
+* 2-minute pitch to full audience during primetime 
+* Logo is presented with higher relevance (size and position) at conference poster, main screen, website 
+
+<hr/>
+
+## Sponsorship Plans Overview
+
+<div style="width:700px">
+  <table border=1 cellspacing=1>
+    <tr>
+      <th>Sponsorship Plan</th>
+      <th><center><b><u>Gold Sponsor</u></center></b></th>
+      <th><center><b><u>Silver Sponsor</u></center></b></th>
+      <th><center><b><u>Bronze Sponsor</u></center></b></th>
+      <th><center><b><u>Community Sponsor</u></center></b></th>
+    </tr>
+    <tr>
+      <td>Price</td>
+      <td>5000 EUR</td>
+      <td>3000 EUR</td>
+      <td>1000 EUR</td>
+      <td>0 EUR</td>
+    </tr>
+    <tr>
+      <td>Max sponsors</td>
+      <td>5</td>
+      <td>6</td>
+      <td>10</td>
+      <td>unlimited</td>
+    </tr>
+      <td>Tickets included</td>
+      <td>4</td>
+      <td>2</td>
+      <td>1</td>
+      <td>10% discount</td>
+    </tr>
+    <tr>
+      <td>2-minute pitch to full audience</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Booth space (dedicated table)</td>
+      <td>Yes (2 people)</td>
+      <td>No</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Booth space (shared table)</td>
+      <td>No</td>
+      <td>Yes (1 person)</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Logo in the poster in registration area</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Logo in min screen between sessions</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Roll-up at lunch area</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Swag (flyer, sticker, others, brought by the sponsor)</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Logo on event website</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td>Logo on video recordings (publicly available)</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+    <td>Recognition as a sponsor in social media</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+      <td>Yes</td>
+    </tr>
+  </table>
 </div>
-
--->
-<hr/>
