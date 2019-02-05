@@ -109,7 +109,7 @@ All benefits from Bronze level sponsors PLUS:
       <td>No</td>
     </tr>
     <tr>
-      <td>Logo in min screen between sessions</td>
+      <td>Logo in main screen between sessions</td>
       <td>Yes</td>
       <td>Yes</td>
       <td>No</td>
