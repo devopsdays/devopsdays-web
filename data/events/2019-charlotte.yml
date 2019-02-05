@@ -103,6 +103,8 @@ sponsors:
     level: silver
   - id: jfrog
     level: silver
+  - id: ahead-appdynamics
+    level: gold
 #  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
