@@ -8,20 +8,14 @@ type = "event"
 <br><br>
 ## Thank you for sponsoring DevOpsDays Seattle!
 
-As you probably know, DevOpsDays is a volunteer run not-for-profit event. Our
-goal is to help people learn about DevOps, and we couldn’t do it without your
-support. Thank You!!
+As you probably know, DevOpsDays is a volunteer run not-for-profit event. Our goal is to help people learn about DevOps, and we couldn’t do it without your support. Thank You!!
 
 ### Book your hotel rooms!
 
-A lot of hotels in Seattle sell out in the spring. It’s a good idea to book any
-rooms you’ll need as soon as possible. We don't have an official hotel, but there
-are many in the area.
+A lot of hotels in Seattle sell out in the spring. It’s a good idea to book any rooms you’ll need as soon as possible. We don't have an official hotel, but there are many in the area.
 
 ### Register your attendees.
-You’ll receive a registration code to be given to people who will be attending
-on behalf of your company. Please don’t wait to have them register once you receive
-your code! We’d like to have an accurate count as soon as possible. 
+You’ll receive a registration code to be given to people who will be attending on behalf of your company. Please don’t wait to have them register once you receive your code! We’d like to have an accurate count as soon as possible. 
 
 ### Venue Location
 <a href="https://www.wscc.com/venues/conference-center">The Conference Center at WSCC</a><br>
@@ -30,8 +24,7 @@ Seattle, WA 98101<br>
 <a href="https://www.wscc.com/directions">Directions and Parking</a>
 
 ### Dates and Times
-This year’s event is on April 23rd and 24th, 2019. A more detailed schedule will
-be posted soon.
+This year’s event is on April 23rd and 24th, 2019. A detailed program can be found at http://www.devopsdays.org/events/2019-seattle/conduct/. Please note the speaker schedule is subjeect to change.
 
 * Booth set up - 7:00AM April 23rd
 * Registration opens - 8:00AM April 23rd (you'll want to be ready to talk to people
@@ -72,6 +65,10 @@ not allowed in either the alley or at the Loading Dock.
 
 ### Sponsor Tables
 
+You will be able to choose the location in the venue of your sponsor table. Once we have finalized the layout (probably in early March) we will send out emails to sponsors in batches of 5 per day in the order the sponsorship was paid for. The email will contain a link to a page where you can choose your sponsor table. It's very important that you choose your table as soon as you receive this email for the best choice. 
+
+With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
+
 #### Gold Sponsors
 * 6 foot table with two chairs
 * Power available at table
@@ -84,9 +81,9 @@ recommended
 * WiFi is shared with the conference attendees, bandwidth heavy demos are not
 recommended
 
-The sponsor area will be set up to encourage people to hang out and enjoy coffee
-breaks and meals. It isn’t designed like a big trade show with aisles of booths.
-You should bring retractable banners instead of traditional trade show booths.
+The sponsor area will be set up to encourage people to hang out and enjoy coffee breaks and meals. It isn’t designed like a big trade show with aisles of booths. You should bring retractable banners instead of traditional trade show booths.
+
+**IMPORTANT - Banners of the "don't bring this" style will not be allowed! We feel it's important to make sure the people who follow the rules aren't placed at a disadvantage for doing so.**
 
 <img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/banner_styles.png">
 
