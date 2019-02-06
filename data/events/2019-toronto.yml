@@ -6,16 +6,15 @@ description: "Be part of the sixth DevOpsDays Toronto!" # Edit this to suit your
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:
-enddate:
+startdate: 2019-05-29
+enddate: 2019-05-30
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:   # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-01-02T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end:  2019-02-15T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2018-03-08T00:00:00-05:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodto2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -26,14 +25,13 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 # Location
 #
 coordinates: "43.684746,-79.366061" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location: "Evergreen Brick Works" # Defaults to city, but you can make it the venue name.
+location_address: "550 Bayview Ave, Toronto, ON M4W 3X8" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- #  - name: propose
- #  - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -65,8 +63,12 @@ proposal_email: "proposals-toronto-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: indellient
+    level: gold
+  - id: xmatters
+    level: gold
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -75,16 +77,10 @@ sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 2
+    max: 3
   - id: gold
     label: Gold
-    max: 30
-  - id: silver
-    label: Silver
-    max: 10 # This is the same as omitting the max limit.
-  - id: badge
-    label: Badge
-    max: 1
-  - id: happyhour
-    label: Lunch/Happy Hour
-    max: 1
+    max: 25
+  - id: bronze
+    label: Bronze
+    max: 10

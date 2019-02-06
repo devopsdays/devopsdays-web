@@ -134,7 +134,7 @@ sponsors:
     level: bronze
   - id: atos
     level: gold
-  - id: swisscom
+  - id: swisscom-before-20190117
     level: gold
     url: https://job.swisscom.ch/ict/de?showclose=1
   - id: atlassian

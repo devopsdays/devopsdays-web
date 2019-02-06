@@ -22,7 +22,7 @@ registration_date_end: "2020-01-01" # close registration. Leave blank if registr
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 #TODO: Uncomment this when registration opens
-#registration_link: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -139,3 +139,17 @@ sponsor_levels:
     label: Media
   - id: community
     label: Community
+
+sponsors:
+  - id: appdynamics
+    level: platinum
+  - id: fearless
+    level: platinum
+  - id: palantir
+    level: platinum
+  - id: onyx-point
+    level: gold
+  - id: gitlab
+    level: gold
+  - id:  wortech
+    level: silver

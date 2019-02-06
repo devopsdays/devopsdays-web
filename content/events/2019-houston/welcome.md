@@ -27,14 +27,14 @@ Description = "devopsdays Houston 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -54,14 +54,14 @@ Description = "devopsdays Houston 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -80,6 +80,13 @@ Description = "devopsdays Houston 2019"
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
 </div>
-
-<!-- Uncomment if you added your city twitter name -->
+<div class = "row">
+<div class = "col-md-2">
 {{< event_twitter >}}
+</div>
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US 
+    authorize: true
+</script>
+<script type="IN/FollowCompany" data-id="35523918"></script>
+</div>

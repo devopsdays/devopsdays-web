@@ -119,11 +119,12 @@ team_members: # Name is the only required field for team members.
   - name: "Greg Elin"
     employer: "GovReady PBC"
     twitter: "gregelin"
-    bio: ""
+    bio: "Greg Elin is the founder of GovReady PBC, a public benefit corporation building software to automate the cyber security compliance process. He brings the unique perspective of high quality, enterprise data management to all his work in cybersecurity and compliance.  Before founding GovReady, Mr. Elin was the first Chief Data Officer at the Federal Communication Commission, where he also briefly served as Acting CIO. Before the FCC, he created Sunlight Foundation's Sunlight Labs as tent-pole organization in open government data."
+    image: "greg-elin.jpg"
     github: "gregelin"
-    facebook: ""
     website: "http://govready.com"
     linkedin: "https://www.linkedin.com/in/greg-elin-b8885b4/"
+    role: "Registration"
 
   - name: "Sam Freund"
     employer: "Rally Health"
@@ -311,3 +312,9 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
+
+sponsors:
+  - id: pyramid-systems
+    level: platinum
+  - id: circleci
+    level: gold

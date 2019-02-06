@@ -61,7 +61,7 @@ team_members: # Name is the only required field for team members.
     website: "https://opensource.com"
     employer: "Red Hat"
   - name: "Chris Bailey"
-    twitter: "cbailey119"
+    twitter: "seebails"
     github: "nonstickzan"
   - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
@@ -80,7 +80,14 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
-
+   - id: dynatrace
+     level: platinum
+   - id: sumologic
+     level: platinum
+   - id: microsoft
+     level: gold
+   - id: techtown
+     level: platinum
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -98,3 +105,5 @@ sponsor_levels:
     # max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: happyhour
+    label: Happy Hour

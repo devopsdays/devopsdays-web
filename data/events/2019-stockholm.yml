@@ -54,14 +54,16 @@ team_members: # Name is the only required field for team members.
     employer: Praqma
   - name: "Jan Ivar Beddari"
     twitter: "beddari"
-    image: "jan-ivar-beddari.jpg"
-    employer: "Saefspring"
+    employer: "Safespring"
   - name: "Jasmine Crozier"
     twitter: "jasminecph"
     employer: Praqma
   - name: "Johan Virtanen"
     twitter: "Jo_Virtanen"
     employer: Praqma
+  - name: "Jonas Linde"
+    twitter: "kraaakan"
+    employer: B3 Init
   - name: "Lowe Schmidt"
     employer: "Qapital"
     twitter: "loweschmidt"
@@ -69,11 +71,12 @@ team_members: # Name is the only required field for team members.
     website: "https://www.loweschmidt.se"
     facebook: "https://www.facebook.com/lowe.h.schmidt"
     linkedin: "https://www.linkedin.com/in/loweschmidt/"
-    image: "lowe-schmidt.jpg"
-  - name: "Jonas Linde"
   - name: "Mark Baker"
     employer: "EA"
     twitter: "markltbaker"
+  - name: "Matthias Grüter"
+    employer: "Spotify"
+    twitter: "mattgruter"
   - name: "Tony Collander"
     employer: "Valtech"
     twitter: "tonycollander"

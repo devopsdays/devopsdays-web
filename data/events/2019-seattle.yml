@@ -14,11 +14,11 @@ cfp_date_start: 2018-10-08 # start accepting talk proposals.
 cfp_date_end: 2019-01-06 # close your call for proposals.
 cfp_date_announce: 2019-02-01 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://sessionize.com/devopsdays-seattle-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-08 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-04-23 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -29,13 +29,13 @@ coordinates: "47.612671, -122.332026" # The coordinates of your city. Get Latitu
 location: "Seattle" # Defaults to city, but you can make it the venue name.
 #
 location_address: "705 Pike St, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
-
+# 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
  # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -84,8 +84,36 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
+  - id: datadog
+    level: gold
+  - id: chef
+    level: gold
+  - id: rei
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: rundeck
+    level: gold
+  - id: humio
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: codefresh
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: catchpoint
+    level: gold
   - id: lagom-solutions
     level: silver
+  - id: gravitational
+    level: silver
+  - id: gitlab
+    level: silver
+  - id: signalfx
+    level: silver
+  - id: chef
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -104,3 +132,234 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: evening
+    label: Evening Event
+    max: 1
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeffrey-snover"
+    type: talk
+    date: 2019-04-23
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-23
+    start_time: "09:55"
+    end_time: "10:05"
+  - title: "leena-s-n"
+    type: talk
+    date: 2019-04-23
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2019-04-23
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "peter-chestna"
+    type: talk
+    date: 2019-04-23
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-23
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "karthik-gaekwad"
+    type: talk
+    date: 2019-04-23
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-04-23
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "christine-yen"
+    type: talk
+    date: 2019-04-23
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-04-23
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-23
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-04-23
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "burns-kromhout"
+    type: talk
+    date: 2019-04-23
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-04-23
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "ryan-lopopolo"
+    type: talk
+    date: 2019-04-23
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-04-23
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "matt-griscom"
+    type: talk
+    date: 2019-04-23
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2019-04-23
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening Reception sponsored by Chef"
+    type: custom
+    date: 2019-04-23
+    start_time: "17:15"
+    end_time: "19:30"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-24
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kris-nova"
+    type: talk
+    date: 2019-04-24
+    start_time: "09:15"
+    end_time: "09:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-24
+    start_time: "09:55"
+    end_time: "10:05"
+  - title: "gopal-brugalette"
+    type: talk
+    date: 2019-04-24
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2019-04-24
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "jane-miceli"
+    type: talk
+    date: 2019-04-24
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-24
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "cat-swetel"
+    type: talk
+    date: 2019-04-24
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-04-24
+    start_time: "12:00"
+    end_time: "13:10"
+  - title: "john-willis"
+    type: talk
+    date: 2019-04-24
+    start_time: "13:10"
+    end_time: "13:40"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-04-24
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-24
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-04-24
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "steven-colon"
+    type: talk
+    date: 2019-04-24
+    start_time: "14:50"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-04-24
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "maarika-krumhansl"
+    type: talk
+    date: 2019-04-24
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-04-24
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "lucy-wyman"
+    type: talk
+    date: 2019-04-24
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2019-04-24
+    start_time: "17:00"
+    end_time: "17:15"
+
+ignites:
+  - title: lowell-young
+    date: 2019-04-23
+  - title: ashina-sipiora
+    date: 2019-04-23
+  - title: heidi-waterhouse
+    date: 2019-04-23
+  - title: attendees
+    date: 2019-04-23
+  - title: dawn-parzych
+    date: 2019-04-24
+  - title: sam-king
+    date: 2019-04-24
+  - title: jen-peck
+    date: 2019-04-24
+  - title: stephanie-hippo
+    date: 2019-04-24
+  - title: attendees
+    date: 2019-04-24

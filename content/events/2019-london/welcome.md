@@ -23,9 +23,9 @@ Description = "devopsdays London 2019"
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2019-london/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
         </div>
-        <!--<div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-london-2018-tickets-45511364717" target="_blank" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
-        </div>-->
+        <div class="p-2">
+          <a class="btn btn-secondary btn-block" href="/events/2019-london/registration" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
+        </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2019-london/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>
         </div>

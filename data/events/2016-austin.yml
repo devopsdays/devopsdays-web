@@ -104,7 +104,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: riverbed
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver
   - id: leankit
     level: bronze

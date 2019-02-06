@@ -21,7 +21,7 @@ registration_date_start: 2018-10-08 # start accepting registration. Leave blank 
 registration_date_end: 2019-05-03 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://www.eventbrite.com/e/devopsdays-nashville-2019-tickets-51147898742" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://pheedloop.com/register/devopsdaysnashville/attendee/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -53,12 +53,15 @@ team_members: # Name is the only required field for team members.
   - name: "Mike Noe"
     twitter: "noe_mike"
   - name: "Michael Brown"
+    twitter: "justrmichaelb"
 organizer_email: "organizers-nashville-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-nashville-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: codefresh
+    level: gold
  # - id: samplesponsorname
  #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   

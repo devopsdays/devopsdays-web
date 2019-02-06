@@ -2,20 +2,20 @@ name: "2019-detroit" # The name of the event. Four digit year with the city name
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Detroit" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdet"
-description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "DevOpsDays Detroit's 6th Year!" # A short blurb of text to describe your event, defaults to common DevOpsDays description
 ga_tracking_id: "UA-94092408-1" # Google Analytics tracking ID
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  #2018-10-03T00:00:00-04:00
-enddate: #2018-10-04T23:59:59-04:00
+startdate: 2019-10-23
+enddate:   2019-10-24
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: #2018-05-23T00:00:00-04:00  # start accepting talk proposals.
-cfp_date_end: #2018-08-06T23:59:59-04:00 # close your call for proposals.
-cfp_date_announce: #2018-08-28T00:00:00-04:00 # inform proposers of status
+cfp_date_start:    2019-02-13 # start accepting talk proposals.
+cfp_date_end:      2019-07-30 # close your call for proposals.
+cfp_date_announce: 2019-08-06 # inform proposers of status
 
-cfp_open: # "true"
-cfp_link: # "https://devopsdaysdetroit.typeform.com/to/XM3TPc" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devopsdaysdet2019/"  #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -30,7 +30,7 @@ location: "A. Alfred Taubman Center for Design Education, College for Creative S
 #
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
   - name: location
 #  - name: registration
 #  - name: program

@@ -7,8 +7,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "Ghent"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-10-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-30  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -49,20 +49,40 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Kris Buytaert"
     twitter: "KrisBuytaert"
+    github: "KrisBuytaert"
+    linkedin: "https://www.linkedin.com/in/krisbuytaert"
   - name: "Patrick Debois"
     twitter: "patrickdebois"
+    github: "jedi4ever"
+    linkedin: "https://be.linkedin.com/in/patrickdebois"
   - name: "Rudy Gevaert"
     twitter: "rgevaert"
+    github: "rgevaert"
+    linkedin: "https://be.linkedin.com/in/rudygevaert/"
   - name: "Stefan Goethals"
     twitter: "zipkid"
+    github: "zipkid"
+    linkedin: "https://be.linkedin.com/in/zipkid"
   - name: "Yves Hanoulle"
     twitter: "YvesHanoulle"
+    github: "yveshanoulle"
+    linkedin: "https://be.linkedin.com/in/yveshanoulle"
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
+    github: "HarmB"
+    linkedin: "https://nl.linkedin.com/in/harmboertien"
   - name: "Yvo van Doorn"
     twitter: "yvov"
+    github: "yvovandoorn"
+    linkedin: "https://nl.linkedin.com/in/yvovandoorn"
   - name: "Mine Heck"
     twitter: "Mine_Akman"
+    github: "mineheck"
+    linkedin: "https://nl.linkedin.com/in/mine-heck-85a2bb46"
+  - name: "Toshaan Bharvani"
+    twitter: "toshywoshy"
+    github: "toshywoshy"
+    linkedin: "https://www.linkedin.com/in/toshaan"
 
 
 

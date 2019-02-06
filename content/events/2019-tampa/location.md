@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Tampa 2019"
+Description = "Location for devopsdays Tampa Bay 2019"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.

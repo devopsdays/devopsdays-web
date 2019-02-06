@@ -11,48 +11,43 @@ Description = "DevOpsDays Toronto 2019"
 
 </br>
 
-DevOpsDays Toronto is back for its sixth year at the end of May 2019. We're working out the final details with a great new venue. In the next couple of weeks we'll share dates, details on the venue and open up our call for proposals. Start thinking of session ideas.
-</br>
+DevOpsDays Toronto is back for its sixth year at the end of May 2019.</br>
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

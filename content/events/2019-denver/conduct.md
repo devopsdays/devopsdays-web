@@ -6,16 +6,7 @@ type = "event"
 
 +++
 
-
-Please read the anti-harassment policy and code of conduct following the important contact information:
-
-* Local law enforcement: Denver Police - Non-Emergency Help [720-913-2000](tel:720-913-2000), Emergency call 911
-* Sexual assault hotlines: The Blue Bench: English [303-322-7273](tel:303-322-7273), Spanish [303-329-0031](tel:303-329-0031), [1-888-394-8044](tel:1-888-394-8044)
-* Medical Emergency: Call 911
-* Local taxi companies: [Yellow Cab](http://www.denveryellowcab.com) - [303-777-7777](tel:303-777-7777),
-[Metro Taxi](http://www.metrotaxidenver.com/) [303-333-3333](tel:303-333-3333)
-
-##ANTI-HARASSMENT POLICY
+## ANTI-HARASSMENT POLICY
 
 DevOpsDays Denver is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
@@ -31,7 +22,7 @@ Conference staff can be identified by distinct staff badges. Conference staff wi
 
 We expect participants to adhere to the code of conduct at all conference venues and conference-related social events.
 
-##CODE OF CONDUCT
+## CODE OF CONDUCT
 
 I. I am an attendee at devopsdays, learning from and sharing with other devopsdays attendees in an effort to better myself and my industry. I co-create the experience with fellow attendees. I am prepared to give my energy, presence and sensitivity to creating the best possible experience for myself and others.
 
@@ -44,4 +35,13 @@ IV. If I am offended or harassed, I will inform people around me who make me fee
 V. I understand that people are different and I attempt to be forgiving of others actions at the level of their sincere intent, but my priority is protecting my safety and the safety of others. I will act without hesitation or reservation until there are no question of the safety of all parties.
 
 VI. I trust the devopsdays organizers and attendees will co-create the best possible experience for everyone involved, as I will. I believe devopsdays is about empowering people and I will not forget I am empowered to create a safe and nurturing environment. If I or any other attendee violates this aspect of the event, I expect the conference organizers to protect the attendees by direct action, including expelling those in violation and contacting the proper authorities.
+
+
+### Important Contact Information:
+* {{< event_link page="contact" text="Organizer Information">}}
+* Local law enforcement: Denver Police - Non-Emergency Help [720-913-2000](tel:720-913-2000), Emergency call 911
+* Sexual assault hotlines: The Blue Bench: English [303-322-7273](tel:303-322-7273), Spanish [303-329-0031](tel:303-329-0031), [1-888-394-8044](tel:1-888-394-8044)
+* Medical Emergency: Call 911
+* Local taxi companies: [Yellow Cab](http://www.denveryellowcab.com) - [303-777-7777](tel:303-777-7777),
+[Metro Taxi](http://www.metrotaxidenver.com/) [303-333-3333](tel:303-333-3333)
 

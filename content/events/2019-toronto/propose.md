@@ -33,4 +33,8 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 ### Submit
 
-The link to our submission site will be available soon.
+To submit a talk visit our <a href="https://www.papercall.io/dodto2019" target="_blank">Papercall</a> site.
+
+- Be specific... we aren't mind readers (a description of about 20 lines is about right)
+- Detail is good... but not as important as explaining why your proposal would be interesting
+- Multiple proposals welcome... just follow the other rules

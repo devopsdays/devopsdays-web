@@ -4,20 +4,29 @@ Year ="2019"
 title = "welcome"
 type = "event"
 aliases = ["/events/2019-denver"]
-Description = "devopsdays Denver 2019"
-
-
+Description = "DevOpsDays Denver 2019!"
 +++
 
 <h2>{{< event_start >}} - {{< event_end >}}</h2>
 
-<div style="text-align:center;">
+<div style="text-align:right; float: right;">
   {{< event_logo >}}
 </div>
 
-DevOpsDays is back for its 5th annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}
+<div style="font-size: 1.5em;">
+  <p>
+    DevOpsDays is back for its 5th annual event in the Rocky Mountains {{< event_start >}} - {{< event_end >}}! We're excited to announce a new {{< event_link page="location" text="location">}}.
+  </p>
+</div>
 
-<div class = "row">
+<div style="font-size: 1.3em;">
+  <p>
+    <a href="https://www.papercall.io/dod-den-2019">CFP IS OPEN!!! Please check it out here!</a>
+  </p>
+</div>
+* * *
+
+<div class = "row" style="font-size: 1.5em;">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>

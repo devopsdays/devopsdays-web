@@ -36,10 +36,10 @@ location_address: "1515 Broadway, New York, NY 10036" #Optional - use the street
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   - name: program
- # - name: speakers
-  - name: sponsor
+  - name: speakers
+  # - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -54,6 +54,7 @@ team_members: # Name is the only required field for team members.
     employer: "Broadridge Financial Solutions "
     image: "sumit-agarwal.jpg"
     twitter: "aga_sumit"
+    linkedin: "https://www.linkedin.com/in/agarwalsumitfsdevconsultant/"
   - name: "James Dadd"
     role: "Co-Chair"
     image: "james-dadd.jpg"
@@ -83,7 +84,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/marksbirch"
   - name: "Jaclyn M Damiano"
     employer: "Verizon"
-    image: "jacki-damiano.jpg"
+    image: "jaclyn-damiano.jpg"
   - name: "Ceren Ercen"
     employer: "Grubhub/Seamless"
     image: "ceren-ercen.jpg"
@@ -100,20 +101,22 @@ team_members: # Name is the only required field for team members.
     twitter: "YesThatTom"
     github: "TomOnTime"
   - name: "Jerome Moore"
+    image: "jerome-moore.jpg"
     employer: "WeBuildBlack"
-  - name: "Kristen A Olah"
-    employer: "Verizon"
-    image: "kristen-olah.jpg"
   - name: "Adarsh Shah"
     image: "adarsh-shah.jpg"
     employer: "Contino"
     twitter: "shahadarsh"
     linkedin: "https://www.linkedin.com/in/adarsh-shah"
-  - name: "Tom Reingold"
   - name: "Stephen Thomas"
     employer: "iconectiv"
     linkedin: "https://www.linkedin.com/in/steve-thomas-4746bb/"
     image: "stephen-thomas.jpg"
+  - name: "Matthew Walter"
+    employer: "Flatiron Health"
+    twitter: "ohaiwalt"
+    linkedin: "https://www.linkedin.com/in/ohaiwalt/"
+    image: "matthew-walter.jpg"
 
 organizer_email: "organizers-new-york-city-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-new-york-city-2019@devopsdays.org" # Put your proposal email address here
@@ -166,11 +169,30 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
-  # - id: sonatype
-  #   level: gold
+  - id: sonatype
+    level: gold
+  - id: indellient
+    level: bronze
+  - id: stack-overflow
+    level: silver
+  - id: whitesource
+    level: bronze
+  - id: wavefront
+    level: silver
+  - id: logz
+    level: bronze
+  - id: pure-storage
+    level: bronze
+  - id: pure-storage
+    level: registration
+  - id: cloudbees-codeship
+    level: bronze
+  - id: viacom
+    level: social
+  - id: googlecloud
+    level: social
 
-
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -205,12 +227,12 @@ program:
   - title: "Registration, Breakfast, Sponsor Booths Open"
     type: custom
     date: "2019-01-24"
-    start_time: "08:45"
-    end_time: "09:15"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "dominica-degrandis"
     type: talk
     date: "2019-01-24"
-    start_time: "09:15"
+    start_time: "09:00"
     end_time: "10:00"
   - title: "Sponsors"
     type: custom
@@ -295,18 +317,18 @@ program:
   - title: "Evening Social Event"
     type: custom
     date: "2019-01-24"
-    start_time: "19:00"
-    end_time: "late"
+    start_time: "17:40"
+    end_time: "19:45"
 
   - title: "Registration, Breakfast, Sponsor Booths Open"
     type: custom
     date: "2019-01-25"
-    start_time: "08:45"
-    end_time: "09:15"
-  - title: "liz-fongjones"
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "liz-fong-jones"
     type: talk
     date: "2019-01-25"
-    start_time: "09:15"
+    start_time: "09:00"
     end_time: "10:00"
   - title: "Sponsors"
     type: custom
@@ -394,7 +416,7 @@ ignites:
     date: "2019-01-24"
   - title: "eva-parish"
     date: "2019-01-24"
-  - title: "amitai-schleier"
+  - title: "jody-lent"
     date: "2019-01-24"
   - title: "robert-conley-rogers"
     date: "2019-01-24"
@@ -402,7 +424,7 @@ ignites:
     date: "2019-01-24"
   - title: "anton-babenko"
     date: "2019-01-25"
-  - title: "jody-lent"
+  - title: "amitai-schleier"
     date: "2019-01-25"
   - title: "mohammed-salah-adawi"
     date: "2019-01-25"
