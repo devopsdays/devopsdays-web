@@ -6,7 +6,7 @@ year = "2019"
 +++
 {{< cfp_dates >}}
 <br />
-It is a pleasure to invite you to participate in the {{< param year >}} devopsdays Boise Conference. The conference will take place at {{< event_location >}} in downtown Boise on {{< event_start >}}.
+It is a pleasure to invite you to participate in the  devopsdays Boise Conference. The conference will take place at {{< event_location >}} in downtown Boise on {{< event_start >}}.
 
 This is a technical conference aimed at sharing and improving the current software development practices of local technology businesses. Sharing these practices benefits all industries and makes our region more competitive and attractive to the constrained talent pool. Every year we plan to inspire local technical and business leaders with a world class line up of presentations.
 
@@ -50,4 +50,4 @@ Choosing talks is part art, part science; here are some factors we consider when
   <li><i>Optional</i>: Slides or extended description
 </ol>
 
-We look forward to seeing you at the {{< param year >}} devopsdays Boise Conference!
+We look forward to seeing you at the  devopsdays Boise Conference!
