@@ -104,6 +104,8 @@ sponsors:
     level: gold
   - id: catchpoint
     level: gold
+  - id: overops
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
