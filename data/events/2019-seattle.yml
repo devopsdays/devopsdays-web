@@ -106,6 +106,8 @@ sponsors:
     level: gold
   - id: overops
     level: gold
+  - id: taf
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
