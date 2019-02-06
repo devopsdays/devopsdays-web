@@ -86,6 +86,8 @@ proposal_email: "proposals-copenhagen-2019@devopsdays.org" # Put your proposal e
 sponsors:
   - id: praqma
     level: gold
+  - id: thoughtworks-gocd
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
