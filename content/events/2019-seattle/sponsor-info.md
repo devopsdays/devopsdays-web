@@ -65,9 +65,12 @@ not allowed in either the alley or at the Loading Dock.
 
 ### Sponsor Tables
 
-You will be able to choose the location in the venue of your sponsor table. Once we have finalized the layout (probably in early March) we will send out emails to sponsors in batches of 5 per day in the order the sponsorship was paid for. The email will contain a link to a page where you can choose your sponsor table. It's very important that you choose your table as soon as you receive this email for the best choice. 
+Gold sponsors will be able to choose the location in the venue of your sponsor table. Once we have finalized the layout (probably in early March) we will send out emails to sponsors in batches of 5 per day in the order the sponsorship was paid for. The email will contain a link to a page where you can choose your sponsor table. It's very important that you choose your table as soon as you receive this email for the best choice. 
 
 With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
+
+Floor Plan<br>
+<a href="/events/2019-seattle/floor-plan.jpg"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/floor-plan.jpg"></a>
 
 #### Gold Sponsors
 * 6 foot table with two chairs
