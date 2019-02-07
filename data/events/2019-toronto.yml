@@ -67,6 +67,12 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: blendedperspectives
+    level: gold
+  - id: sourcedgroup
+    level: gold
+  - id: rundeck
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
