@@ -1,9 +1,9 @@
 +++
-Title = "Michal Chichra"
+Title = "Michal Cichra"
 Github = "mikz"
-image = "michal-chichra.jpg"
+image = "michal-cichra.jpg"
 type = "speaker"
-linktitle = "michal-chichra"
+linktitle = "michal-cichra"
 +++
 
 Working on 3scale API Management for the last 7 years. From Ruby on Rails to OpenResty and API Gateway.
