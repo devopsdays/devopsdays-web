@@ -6,8 +6,8 @@ description: "Devopsdays is coming to Edinburgh!" # Edit this to suit your prefe
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-10-17  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-10-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -32,7 +32,7 @@ location_address: "" #Optional - use the street address of your venue. This will
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
