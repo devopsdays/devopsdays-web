@@ -71,22 +71,22 @@ You can find more details in our <a href="https://assets.devopsdays.org/events/2
         <td>Included tickets</td><td align="center">1</td><td align="center">2</td><td align="center">4</td>
       </tr>
       <tr>
-        <td>Logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Logo on event website</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Promotion on social media</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Promotion on social media</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Logo on event posters</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Logo on event posters</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Full table</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Full table</td><td align="center">Not Included</td><td align="center">Not Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Shared table</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+        <td>Shared table</td><td align="center">Not Included</td><td align="center" bgcolor="gold">Included</td><td align="center">Not Included</td>
       </tr>
       <tr>
-        <td>1 minute pitch to full audience</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>1 minute pitch to full audience</td><td align="center">Not Included</td><td align="center">Not Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
     </table>
   </div>
