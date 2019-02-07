@@ -47,18 +47,18 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Laura Caceres"
-    employer: "DevOpsColombia"
+    employer: ""
     bio: "Ingeniero de sistemas especializado en ingeniería de software, con experiencia en tranformaciones digitales consultoria e implementacion de DevOps."
     image: "laura.jpg"
     twitter: "@amapolita177"
   - name: "Carlos Zapata"
-    employer: "Globant"
+    employer: ""
     bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros."
     image: "carlos.jpg"
     # twitter: "@"
   - name: "Rafael Martinez"
-    employer: "Avianca"
-    bio: "Ingeniero de sistemas con experiencia en implementación de prácticas, procesos y tecnologias DevOps en industrias como banca, telcos, aviancaión y productos. entrenadr en metodologias agiles, cultura DevOps y plataformas y aplicaciones de automatización."
+    employer: ""
+    bio: "Ingeniero de sistemas con experiencia en implementación de prácticas, procesos y tecnologias DevOps en industrias como banca, telcos, aviancaión y productos. entrenador en metodologias agiles, cultura DevOps y plataformas y aplicaciones de automatización."
     image: "rafael.jpg"
     twitter: "@rafaelMartAng"
 
