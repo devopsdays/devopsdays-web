@@ -125,6 +125,10 @@ proposal_email: "proposals-austin-2019@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: newrelic
+    level: platinum
+  - id: codefresh
+    level: platinum
   - id: oracle
     level: lanyard
   - id: circleci
@@ -133,6 +137,16 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
+  - id: signalfx
+    level: gold
+  - id: gravitational
+    level: gold
+  - id: f5
+    level: gold
+  - id: dell
+    level: gold
+  - id: f5
+    level: mealandsnack
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -155,4 +169,7 @@ sponsor_levels:
     max: 20
   - id: silver
     label: Silver
+    max: 10
+  - id: mealandsnack
+    label: Meal and Snack
     max: 10
