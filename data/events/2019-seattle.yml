@@ -116,6 +116,8 @@ sponsors:
     level: silver
   - id: signalfx
     level: silver
+  - id: redhat
+    level: silver
   - id: chef
     level: evening
 
