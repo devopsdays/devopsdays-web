@@ -88,7 +88,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
                 <td><a href='mailto:organizers-des-moines-2019@devopsdays.org?subject=Lanyard Sponsorship'>Contact us</a></td>
             </tr>
             <tr>
-                <td class="label">Pay via Paypal</td>
+                <td class="label">Pay via Wave</td>
                 <td>
                 <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" /></a>
                 </td>

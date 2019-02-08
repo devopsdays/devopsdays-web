@@ -17,11 +17,11 @@ cfp_date_announce:  2018-12-30T00:00:00-06:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysdesmoines2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-01T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://eventbrite.com/e/devopsdays-des-moines-2019-tickets-54007008416" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -32,7 +32,7 @@ location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  #  - name: registration
+  - name: registration
   - name: propose
   #  - name: program
   #  - name: speakers
@@ -81,12 +81,17 @@ proposal_email: "proposals-des-moines-2019@devopsdays.org" # Put your proposal e
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-#  - id: samplesponsorname
-#    level: gold
-# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+sponsors:
+  - id: john-deere
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: trility
+    level: gold
+  - id: oreilly
+    level: community
+  - id: sidegarage
+    level: community    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
