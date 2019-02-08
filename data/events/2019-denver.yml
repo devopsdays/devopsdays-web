@@ -94,6 +94,10 @@ sponsors:
   level: silver
 - id: releaseteam_tasktop
   level: silver
+- id: signalfx
+  level: silver
+- id: influxdata
+  level: gold
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
