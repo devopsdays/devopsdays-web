@@ -281,6 +281,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/shawndwells/"
     website: "https://medium.com/shawndwells"
 
+  - name: "Peter Burkholder"
+    employer: "18F"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOps"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
+    website: ""
 
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
