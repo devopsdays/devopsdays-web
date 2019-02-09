@@ -34,7 +34,7 @@ location_address: 720 Douglas St, Victoria, BC V8W 3M7 #Optional - use the stree
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
