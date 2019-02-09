@@ -252,7 +252,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td align="center"><i class="fa fa-heart fa-4x"></i></td>
       <td>Meals & Snack</td>
       <td>$6,000</td>
-      <td>YYour logo on buffet lines and a dedicated space in lunch area</td>
+      <td>Your logo on buffet lines and a dedicated space in lunch area</td>
       <td>6</td>
       <td>2</td>
     </tr>
