@@ -1,12 +1,12 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for devopsdays montevideo 2019"
+Description = "Información de contacto para DevOpsDays Montevideo 2019"
 +++
 
-If you'd like to contact us by email: {{< email_organizers >}}
+Estamos utilizando https://github.com/devopsdaysmvd/Info como entorno de colaboración, abierto a todos quienes quieran sumarse de alguna manera a la organización de este evento. También se puede contactar a los organizadores por e-mail en {{< email_organizers >}}
 
-**Our local team**
+**Organizadores locales**
 
 {{< list_organizers >}}
 
