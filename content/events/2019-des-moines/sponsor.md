@@ -90,7 +90,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
             <tr>
                 <td class="label">Pay via Wave</td>
                 <td>
-                <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”><img src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" /></a>
+                    <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”>
+                        <img src="/events/2019-des-moines/paynow.gif"/>
+                    </a>
                 </td>
                 <td></td>
                 <td></td>
