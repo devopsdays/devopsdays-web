@@ -47,4 +47,4 @@ Last day to reserve rooms is __April 28, 2019__.
 
 ### Tourism
 
-Come to Toronto for DevOpsDays, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?
+Come to Toronto for DevOpsDays, but check <a href="https://www.seetorontonow.com/" target="_blank">Tourism Toronto</a> for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?
