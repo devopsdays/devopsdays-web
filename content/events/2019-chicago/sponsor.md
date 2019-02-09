@@ -98,84 +98,84 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     </tr>
     <tr>
       <td>Logo on DevOpsDays Chicago website</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
     </tr>
     <tr>
       <td>Social media shout-out</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
     </tr>
     <tr>
       <td>Logo on marketing materials</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on slides at breaks</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on participant emails</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Booth space in sponsor area (with chair)</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on banner in sponsor area</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Logo on banner at evening event</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Shout-out from MC's at kickoff and again at breaks</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Dedicated logo slide during breaks</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Dedicated sponsor booth in sponsor area (with chair)</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>One-minute pitch between talks (includes live-stream audience)</td>
-      <td><img src = "/events/2018-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/yak-head.png"></td>
       <td></td>
       <td></td>
       <td></td>
@@ -277,6 +277,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2018/chicago/2018-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-chicago/DOD_Chi_Prospectus_2019.png" class="img-fluid""></a>
+<a href = "https://assets.devopsdays.org/events/2018/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-chicago/DOD_Chi_Prospectus_2019.png" class="img-fluid""></a>
 </div>
 </div>
