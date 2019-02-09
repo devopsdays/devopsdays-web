@@ -26,7 +26,7 @@ Description = "devopsdays Victoria 2019"
     {{< event_location >}}
   </div>
 </div>
- 
+
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
