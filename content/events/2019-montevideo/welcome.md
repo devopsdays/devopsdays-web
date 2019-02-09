@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays montevideo 2019"
+Title = "DevOpsDays Montevideo 2019"
 Type = "welcome"
 aliases = ["/events/2019-montevideo/"]
-Description = "devopsdays montevideo 2019"
+Description = "DevOpsDays Montevideo 2019"
 +++
 
 <!-- <div style="text-align:center;">
@@ -11,7 +11,7 @@ Description = "devopsdays montevideo 2019"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Dates</strong>
+    <strong>Fechas</strong>
   </div>
   <div class = "col-md-8">
     {{< event_start >}} - {{< event_end >}}
@@ -74,7 +74,7 @@ Description = "devopsdays montevideo 2019"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contact</strong>
+    <strong>Contacto</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
@@ -82,6 +82,5 @@ Description = "devopsdays montevideo 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->

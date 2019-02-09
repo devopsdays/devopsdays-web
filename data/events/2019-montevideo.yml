@@ -2,7 +2,7 @@ name: "2019-montevideo" # The name of the event. Four digit year with the city n
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Montevideo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMVD" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays proximamente en Montevideo!" # Edit this to suit your preferences
+description: "DevOpsDays próximamente en Montevideo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
@@ -10,7 +10,6 @@ startdate:  # The start date of your event. Leave blank if you don't have a venu
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
@@ -24,7 +23,7 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: -34.906460, -56.198330 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Montevideo, Uruguay" # Defaults to city, but you can make it the venue name.
 #
 location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
@@ -45,25 +44,39 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+
   - name: "Juan Andrés Antoniuk"
     twitter: "andresantoniuk"
     linkedin: "https://www.linkedin.com/in/andresantoniuk/"
+    gihub: "andresantoniuk"
+    image: "andresantoniuk.jpg"
+
   - name: "Miguel Castro"
     twitter: "netascom"
     linkedin: "https://www.linkedin.com/in/miguel-castro-1bb44b1b/"
     employer: "NetAscom"
+    image: "miguelcastro.jpg"
+
   - name: "Genry Leyva González"
     twitter: "genrylg"
     linkedin: "https://www.linkedin.com/in/genrylg/"
     employer: "Arnaldo C. Castro S.A."
+    gihub: "genrylg"
+    image: "genry-devops.jpg"
+
   - name: "Enrique Verdes"
     twitter: "EnriqueVerdes"
     linkedin: "https://www.linkedin.com/in/enriqueverdes/"
-    employer: "AT"
+    employer: "AT Innovando Juntos"
+    github: "everdes-at"
+    image: "enriqueverdes.jpg"
+
   - name: "Xavier Verdino"
     twitter: "XavierVerdino1"
     linkedin: "https://www.linkedin.com/in/xavier-verdino-001a9b20/"
     employer: "Pyxis"
+    image: "xavierverdino.jpg"
+
 organizer_email: "organizers-montevideo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal email address here
 
