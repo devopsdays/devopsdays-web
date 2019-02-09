@@ -12,12 +12,12 @@ enddate: 2019-04-11T18:00:00-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-01-09T00:00:00-02:00 # start accepting talk proposals.
-cfp_date_end:  2019-02-09T23:59:59-03:00 # close your call for proposals.
+cfp_date_end:  2019-02-10T23:59:59-03:00 # close your call for proposals.
 cfp_date_announce: 2019-02-19T00:00:00-02:00 # inform proposers of status
 
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdays-sp-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-01-09T00:00:00-02:00 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-05-02T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
