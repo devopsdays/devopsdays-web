@@ -27,6 +27,24 @@ Union Station is a main transit hub for Toronto. You can get there by Via Rail, 
 
 Toronto is a world class city with a multitude of accomodation options in the downtown core. All are an easy Uber or Lyft ride to the venue.
 
+We've arranged a room block at <a href="https://www.thebroadviewhotel.ca" target="_blank">The Broadview Hotel</a>.
+
+Online reservations
+
+1. Visit <a href="https://www.thebroadviewhotel.ca" target="_blank">www.thebroadviewhotel.ca</a>
+1. Click on “book a room.”
+1. Click on “add code”
+1. Corporate code: 30086
+1. Choose your stay dates and your rate will show
+
+Telephone reservations
+
+1. Toll-free number - (844) 362-8439
+1. Mention that is for an upcoming group reservation and the code is: 30086
+1. The agent will be able to provide you with a discounted rate.
+
+Last day to reserve rooms is __April 28, 2019__.
+
 ### Tourism
 
 Come to Toronto for DevOpsDays, but check Tourism Toronto for more information on tourist packages and hotels. Sometimes a package deal can make travel less expensive and more fun. What is your interest: opera, ballet, live theatre, art gallery, museums, shopping, music, sports?
