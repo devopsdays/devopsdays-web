@@ -277,6 +277,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2018/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-chicago/DOD_Chi_Prospectus_2019.png" class="img-fluid""></a>
+<a href = "https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-chicago/DOD_Chi_Prospectus_2019.png" class="img-fluid""></a>
 </div>
 </div>
