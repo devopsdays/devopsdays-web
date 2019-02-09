@@ -34,6 +34,7 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
     </div>
     <div class = "row">
   <div class = "col-md-6">
+  
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -51,6 +52,7 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
+
 </div>
 
 <!--End mc_embed_signup-->
@@ -61,10 +63,27 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
 
   </div>
   <div class = "col-md-6 pull-md-6">
+    <div class = "row"><!-- begin a content element -->
+      <div class = "col-md-12">
+      <div class = "row justify-content-center">
+        <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-chicago/sponsor">
+            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+          </a>
+        </div>
+        <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-chicago/contact">
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          </a>
+        </div>
+        </div>
+      </div>
+    </div> <!-- end a content element -->
 <h2>The DevOps Yak is Back!</h2>
 <img src = "/events/2019-chicago/yak.png" class = "img-fluid">
 
   </div>
+
 </div>
 
 <p class="font-italic">Header image By King of Hearts (Own work) [<a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a> or <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>], <a href="https://commons.wikimedia.org/wiki/File%3AChicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg">via Wikimedia Commons</a></p>
