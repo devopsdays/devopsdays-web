@@ -7,7 +7,7 @@ description = "Interested in sponsoring DevOpsDays Chicago 2019? We greatly valu
 +++
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">send us an email</a>.
 
 <hr>
 
@@ -51,7 +51,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202018%20Sponsorship">Email us</a> if you prefer to pay by check
+      <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=DevOpsDays%20Chicago%202019%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
       <td></td>
     </tr>
@@ -66,7 +66,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
         <!-- 
-        <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">Contact us</a> -->
+        <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
       </td>
       <td>
         <!-- silver Paypal button  -->
@@ -76,7 +76,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-        <!-- <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">Contact us</a> -->
+        <!-- <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
       </td>
       <td>
         <!-- bronze Paypal button  -->
@@ -185,7 +185,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <h2>Special Sponsorships</h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsorships@devopsdayschi.org">sponsorship@devopsdayschi.org</a>.
+All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsors-chicago-2019@devopsdays.org">sponsors-chicago-2019@devopsdays.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
