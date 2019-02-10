@@ -7,7 +7,7 @@ description = "Interested in sponsoring DevOpsDays Chicago 2019? We greatly valu
 +++
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">send us an email</a>.
 
 <hr>
 
@@ -24,7 +24,6 @@ marketing will probably work against you when trying to make a good
 impression on the attendees.
 <br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
-<br>
 <br><br>
 <h2>Sponsorship Packages</h2>
 
@@ -51,7 +50,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td colspan="3"><small>
       Note: Paypal payments include 3% service charge.
       <br>
-      <a href="mailto:sponsorships@devopsdayschi.org?subject=DevOpsDays%20Chicago%202018%20Sponsorship">Email us</a> if you prefer to pay by check
+      <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=DevOpsDays%20Chicago%202019%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
       <td></td>
     </tr>
@@ -66,7 +65,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
         <!-- 
-        <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">Contact us</a> -->
+        <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
       </td>
       <td>
         <!-- silver Paypal button  -->
@@ -76,7 +75,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-        <!-- <a href="mailto:sponsorships@devopsdayschi.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202018">Contact us</a> -->
+        <!-- <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
       </td>
       <td>
         <!-- bronze Paypal button  -->
@@ -87,7 +86,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
       </td>
-      <td></td>
+      <td><a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Chicago%202019">Contact us</a></td>
     </tr>
     <tr>
       <td>Tickets Included</td>
@@ -185,7 +184,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <h2>Special Sponsorships</h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsorships@devopsdayschi.org">sponsorship@devopsdayschi.org</a>.
+All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsors-chicago-2019@devopsdays.org">sponsors-chicago-2019@devopsdays.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
@@ -204,9 +203,9 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
       <td>Evening Event</td>
       <td>$15,000</td>
-      <td>Can be split by two sponsors</td>
+      <td>Pay for drinks, food and entertainment - get an exclusive space for the night. Can be split by two sponsors</td>
       <td>4</td>
-      <td>1</td>
+      <td>2</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-wifi fa-4x"></i></td>
@@ -249,7 +248,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>1</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-heart fa-4x"></i></td>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
       <td>Meals & Snack</td>
       <td>$6,000</td>
       <td>Your logo on buffet lines and a dedicated space in lunch area</td>
@@ -257,7 +256,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td align="center"><i class="fa fa-heart fa-4x"></i></td>
       <td>Scholarships</td>
       <td>Varies</td>
       <td>Provide tickets for under-indexed groups to attend</td>
@@ -272,11 +271,13 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
   <br/>
   <br/>
   Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
-  <br/>
+  <br/><br/>
+  <b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
+<br><br>
 </div>
 </div>
 </div>
 <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-chicago/DOD_Chi_Prospectus_2019.png" class="img-fluid""></a>
+<a href = "https://assets.devopsdays.org/events/2019/chicago/2019-chicago-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-chicago/DOD_Chi_Prospectus_2019.jpg" class="img-fluid""></a>
 </div>
 </div>
