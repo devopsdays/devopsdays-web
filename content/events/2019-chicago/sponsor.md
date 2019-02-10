@@ -185,7 +185,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
 
 <h2>Special Sponsorships</h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsorships@devopsdayschi.org">sponsorship@devopsdayschi.org</a>.
+All special sponsors will have their logo displayed on the DevOpsDays Chicago website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsorships@devopsdayschi.org">sponsorship@devopsdayschi.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
