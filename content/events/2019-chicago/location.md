@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "DevOpsDays Chicago 2018 will be taking place at the UIC Forum, 725 West Roosevelt Road, Chicago, IL 60608"
+Description = "DevOpsDays Chicago 2019 will be taking place at the UIC Forum, 725 West Roosevelt Road, Chicago, IL 60608"
 +++
 
 Event will be taking place at the UIC Forum.
