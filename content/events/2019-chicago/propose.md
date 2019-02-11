@@ -10,7 +10,7 @@ Description = "Propose a talk for devopsdays Chicago 2019"
 There are four ways to propose a topic at devopsdays:
 <ol>
   <li><strong><em>A 30-minute talk</em></strong> presented to the entire conference audience, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes talks with slides auto-advancing every 15 seconds (20 slides total.</li>
+  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes talks with slides auto-advancing every 15 seconds (20 slides total).</li>
    <li><strong><em>A Workshop</em></strong> presented during the conference, usually in the afternoon. These are 45 minutes long.</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
