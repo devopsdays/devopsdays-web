@@ -9,8 +9,8 @@ Description = "Propose a talk for devopsdays Chicago 2019"
 
 There are four ways to propose a topic at devopsdays:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference, usually in the mornings.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes slots with slides changing every 15 seconds (20 slides total.</li>
+  <li><strong><em>A 30-minute talk</em></strong> presented to the entire conference audience, usually in the mornings.</li>
+  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (scheduling varies). These are 5 minutes talks with slides auto-advancing every 15 seconds (20 slides total).</li>
    <li><strong><em>A Workshop</em></strong> presented during the conference, usually in the afternoon. These are 45 minutes long.</li>
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 </ol>
@@ -20,8 +20,8 @@ There are four ways to propose a topic at devopsdays:
 ### General Guidelines:
 
 - The theme for the conference is **“The Practical Application of DevOps”**. Please consider this in your proposals.
-- Be concise.
-- Add as much detail as you can.
+- Be concise, but include as much detail as is necessary to convey your idea.
+- Please provide at least three concrete takeaways that the audience will get from your talk
 - Multiple entries are welcome.
 - Submissions must be made by one of the proposed presenters; **we do not accept proposals submitted on behalf of others**
 - Attempt to not give details to who you are, we prefer to judge based on content.
@@ -31,9 +31,10 @@ There are four ways to propose a topic at devopsdays:
 ### Ideas:
 This is what we would like to know. Do you have an answer?
 
-- DevOps movement has been around for a few years now: Did anyone find out if it really helped your organization? Are there numbers for this?
+- DevOps movement has been around for a few years now: Has it really helped your organization? Are there numbers for this?
 - Did the culture of DevOps spread to other parts of your company? If not, why?
 - Is DevOps the magic silver bullet which solved all your problems? What are the problems it didn’t solve (although you thought it would)?
+- Was there one tool or methodology in particular that was key to your organization's DevOps transformation? Tell us about the role it played and how it moved the needle.
 - Were there unexpected problems during your cultural change into DevOps?
 - Did the required skill-set of people change after starting to do things DevOps-Style?
 - Did people leave because you “went DevOps”? Was this good or bad or both?
