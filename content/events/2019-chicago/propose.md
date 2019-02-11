@@ -66,7 +66,7 @@ Our main criteria to make it to the top selection are:
 - **Under-represented voices:** We want to hear all voices, including those that may speak less frequently at similar events. Whether you’re in a field not typically thought of as a technology field, you’re in a large, traditional organization, or you’re the only person at your organization with your background, we are interested in your unique experience.
 - **original content:** We will consider talks that have already been presented elsewhere, but we prefer talks that the local area isn’t likely to have already seen.
 - **No third-party submissions:** This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you’ve already shown that as a speaker you’re distant from the process.
-- **No vendor pitches:** As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product. You can demo at your table or during Open Spaces.
+- **No vendor pitches:** As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product. If you’d like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
 - **Open Space Fodder:** Will this talk help generate discussion during the Open Spaces?
 
 #### Even more tips
