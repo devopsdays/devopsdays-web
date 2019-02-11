@@ -79,10 +79,3 @@ Our main criteria to make it to the top selection are:
 <hr>
 
 <strong>How to submit a proposal:</strong> How to submit a proposal: Visit our [CFP Site and submit a proposal there](https://www.papercall.io/devopsdays-chicago-2019). If you run into any problems, please don’t hesitate to contact us by email at [{{< email_proposals >}}].
-
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
-
