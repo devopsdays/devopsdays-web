@@ -13,7 +13,7 @@ enddate: 2019-11-28T23:59:59+02:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-02-12T00:00:00+02:00
 cfp_date_end: 2019-07-31T23:59:59+02:00
-cfp_date_announce: 2019-08-15:59:59+02:00
+cfp_date_announce: 2019-08-15T59:59+02:00
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/2019-berlin" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
