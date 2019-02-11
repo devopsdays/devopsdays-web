@@ -11,12 +11,12 @@ startdate: 2019-11-27T00:00:00+02:00
 enddate: 2019-11-28T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-03-01T00:00:00+02:00
-cfp_date_end: 2019-09-15T23:59:59+02:00
-cfp_data_announce: 2019-09-30T23:59:59+02:00
+cfp_date_start: 2019-02-12T00:00:00+02:00
+cfp_date_end: 2019-07-15T23:59:59+02:00
+cfp_data_announce: 2019-08-15:59:59+02:00
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/2019-berlin" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-12-01T00:00:00+02:00
 registration_date_end: 2019-11-27T00:00:00+02:00 # close registration. Leave blank if registration is not open yet.
@@ -32,14 +32,14 @@ location: "Kalkscheune Berlin" # Defaults to city, but you can make it the venue
 location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
+  - name: conduct
   - name: location
   - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
-  - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
