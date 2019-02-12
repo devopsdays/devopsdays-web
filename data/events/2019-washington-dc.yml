@@ -325,5 +325,7 @@ sponsor_levels:
 sponsors:
   - id: pyramid-systems
     level: platinum
+  - id: excella
+    level: platinum
   - id: circleci
     level: gold
