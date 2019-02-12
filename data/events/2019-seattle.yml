@@ -108,6 +108,10 @@ sponsors:
     level: gold
   - id: taf
     level: gold
+  - id: puppet
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
