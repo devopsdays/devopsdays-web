@@ -147,8 +147,14 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: nvisium
+    level: gold
+  - id: contrast_security
+    level: gold
   - id: f5
     level: mealandsnack
+  - id: devopsdotcom
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -172,6 +178,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: media
+    label: Media
+    max: 1
   - id: mealandsnack
     label: Meal and Snack
     max: 10
