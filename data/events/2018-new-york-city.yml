@@ -106,7 +106,7 @@ sponsors:
     level: gold
   - id: puppet
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: silver
   - id: portworx
     level: silver
