@@ -122,6 +122,12 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
+  - id: seattle-coffeeops
+    level: community
+  - id: eastside-coffeeops
+    level: community
+  - id: wsealug
+    level: community
   - id: chef
     level: evening
 
