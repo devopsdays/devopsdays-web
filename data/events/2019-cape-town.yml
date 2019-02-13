@@ -35,7 +35,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: speakers
   - name: sponsor
   - name: propose
-    url: https://www.papercall.io/devopsdayscpt2019
   - name: contact
   - name: conduct
 
