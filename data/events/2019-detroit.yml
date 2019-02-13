@@ -53,6 +53,8 @@ team_members: # Name is the only required field for team members.
     employer: Cisco
     twitter: tuxdbird
   - name: "Aimme Keener"
+    employer: Autonomic
+    twitter: AimmeKeener
   - name: "Mario Loria"
     employer: orchestructure.io
     twitter: marioploria
@@ -60,6 +62,8 @@ team_members: # Name is the only required field for team members.
     employer: Cengage
     twitter: atmaturen
   - name: "Rex Roof"
+    employer: "Blue Newt Software"
+    twitter: rexroof
 
 organizer_email: "organizers-detroit-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2019@devopsdays.org" # Put your proposal email address here
