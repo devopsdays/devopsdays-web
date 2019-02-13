@@ -80,7 +80,7 @@ proposal_email: "organizers-seattle-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: rei
     level: gold

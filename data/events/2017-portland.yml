@@ -126,7 +126,7 @@ sponsors:
       level: cmccd
     - id: tripwire
       level: bronze
-    - id: thoughtworks-gocd
+    - id: thoughtworks-gocd-before-20190213
       level: silver
     - id: pagerduty
       level: gold
