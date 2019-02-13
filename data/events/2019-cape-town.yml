@@ -11,11 +11,11 @@ startdate: 2019-09-05
 enddate: 2019-09-06
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:
-cfp_date_end:
+cfp_date_start: 2019-02-18
+cfp_date_end: 2019-08-01
 cfp_date_announce:
 
-cfp_link: ""
+cfp_link: "https://www.papercall.io/devopsdayscpt2019"
 
 registration_date_start:
 registration_date_end:
@@ -34,6 +34,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: sponsor
+  - name: propose
+    url: https://www.papercall.io/devopsdayscpt2019
   - name: contact
   - name: conduct
 
