@@ -85,6 +85,9 @@ sponsors:
     # Evening Event
   - id: f5
     level: evening
+    # Silver
+  - id: tecknuovo
+    level: silver
     # Community
   - id: leeds-devops
     level: community
