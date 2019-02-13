@@ -52,7 +52,9 @@ Lanyard sponsorships come with two complimentary event tickets.
 
 ### Gold Sponsor ($5000)
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info">Pay Now to be a Gold Sponsor!</a>
+**Sold out!**
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info" style="display:none">Pay Now to be a Gold Sponsor!</a>
 
 Gold packages are the most popular DevOpsDays Austin sponsorship package.This is the package with a table in the vendor area of our event. We locate food service in the sponsor area and otherwise take effort to drive attendee foot traffic into and through the area.
 
