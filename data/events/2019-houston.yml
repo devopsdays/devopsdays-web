@@ -115,6 +115,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: mongodb
+    level: gold
   - id: fearless
     level: bronze
   - id: firemon
