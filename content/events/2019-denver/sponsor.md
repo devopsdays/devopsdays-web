@@ -47,7 +47,7 @@ Description = "Sponsor DevopsDays Denver!"
       </td>
       <td>
         Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $9,000
+        $8,000
       </td>
     </tr>
   </table>
