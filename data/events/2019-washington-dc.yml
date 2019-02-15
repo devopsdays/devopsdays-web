@@ -242,14 +242,14 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Robert Treat"
-    employer: "OmniTI"
+    employer: "credativ"
     twitter: "robtreat2"
     bio: ""
     image: "robert-treat.jpg"
     github: "xzilla"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/robtreat/"
-    website: "https://omniti.com"
+    website: "https://www.linkedin.com/company/credativ-llc/"
 
   - name: "Derek Weeks"
     employer: "Sonatype"
