@@ -20,9 +20,9 @@ Feel free to contact us at [{{< email_organizers >}}] with any questions.
 
 ### Happy Hour ($8000)
 
-**Only 2 available!**
+~~Only 2 available!~~ **Pending**
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info">Pay Now to Sponsor the Happy Hour!</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info" style="display:none">Pay Now to Sponsor the Happy Hour!</a>
 
 This year, DevOpsDays Austin is planning a special Happy Hour at the end of Day 1. The Happy Hour event will be hosted on the main level of the event and will have food and alcoholic beverages. We have opportunities for two sponsors to have signage and space specifically dedicated to them for the duration of the happy hour and the opportunity to make announcements at the happy hour.
 
