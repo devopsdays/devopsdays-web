@@ -14,7 +14,7 @@ cfp_date_start:  2019-01-01T00:00:00-06:00 # start accepting talk proposals.
 cfp_date_end:  2019-02-08T23:59:00-06:00 # close your call for proposals.
 cfp_date_announce:  2018-12-30T00:00:00-06:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysdesmoines2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-01-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
@@ -33,7 +33,7 @@ location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
-  - name: propose
+#  - name: propose
   #  - name: program
   #  - name: speakers
   - name: sponsor
