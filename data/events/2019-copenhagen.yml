@@ -154,8 +154,13 @@ program:
     date: 2019-04-03
     start_time: "11:15"
     end_time: "11:30"
-  - title: "Talk"
+  - title: "felix-wu"
     type: talk
+    date: 2019-04-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "bruno-amaro-almeida"
+    type: workshop
     date: 2019-04-03
     start_time: "11:30"
     end_time: "12:00"
@@ -269,7 +274,7 @@ program:
     date: 2019-04-04
     start_time: "14:10"
     end_time: "14:25"
-  - title: "Talk"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-04-04
     start_time: "14:25"
