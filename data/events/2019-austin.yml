@@ -129,6 +129,8 @@ sponsors:
     level: platinum
   - id: codefresh
     level: platinum
+  - id: vmware
+    level: platinum
   - id: oracle
     level: lanyard
   - id: circleci
