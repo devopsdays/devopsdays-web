@@ -12,9 +12,9 @@ enddate:  2019-04-17 # The end date of your event. Leave blank if you don't have
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-12-01 # start accepting talk proposals.
 cfp_date_end: 2019-01-31 # close your call for proposals.
-cfp_date_announce: 2019-02-14 # inform proposers of status
+cfp_date_announce: 2019-02-21 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/2019-houston" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2019-01-21" # start accepting registration. Leave blank if registration is not open yet
@@ -77,6 +77,7 @@ team_members: # Name is the only required field for team members.
   - name: "Reggie Davis"
     employer: "Global Custom Commerce"
     twitter: "madblkman"
+    image: "reginald-davis.jpg"
     linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
     bio: "Reggie is a self-taught programmer turned cloud engineer who has a passion for designing cloud architecture, increasing developer efficiency through the practice of DevOps, and improving the culture of technology by creating highly collaborative environments. Co-founder of the meetup group, 'Tech for the Culture' and co-organizer of Ng-Houston."
   - name: "Ryan Hillard" 
