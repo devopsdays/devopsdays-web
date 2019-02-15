@@ -1,7 +1,7 @@
 +++
 Title = "Allan Ebdrup"
 Twitter = "allanebdrup"
-image = "allan-ebdrup.jpeg"
+image = "allan-ebdrup.png"
 type = "speaker"
 linktitle = "allan-ebdrup"
 
