@@ -124,6 +124,8 @@ sponsors:
     level: silver
   - id: gitlab
     level: silver
+  - id: hostgator
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -140,10 +142,10 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
-    max: 9
+    max: 8
   - id: silver
     label: Silver
-    max: 2 # This is the same as omitting the max limit.
+    max: 4 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
