@@ -10,7 +10,7 @@ enddate:  2019-03-08 # The end date of your event. Leave blank if you don't have
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-12-19  # start accepting talk proposals.
 cfp_date_end: 2019-01-15 # close your call for proposals.
-cfp_date_announce: 2019-02-24 # inform proposers of status.
+cfp_date_announce: 2019-02-15 # inform proposers of status.
 
 # Location
 #
@@ -25,7 +25,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: contact
   - name: conduct
  # - name: registration
- # - name: program
+  - name: program
  # - name: speakers
 
 # These are the same people you have on the mailing list and Slack channel.
@@ -98,3 +98,50 @@ sponsors:
     level: sponsor
   - id: sumologic
     level: sponsor
+
+program:
+  - title: "Registration and Welcome"
+    type: custom
+    date: "2018-03-09"
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "The Death Star Postmortem - Gareth Greenway"
+    type: talk
+    date: "2019-03-08"
+    start_time: "10:10"
+    end_time: ":10:45"
+  - title: "Evolution of QA to GA: The Sensu Go Crucible - Nikki Attea"
+    type: talk
+    date: "2019-03-08"
+    start_time: "11:00"
+    end_time: ":11:45"
+  - title: "Lunch Break"
+    type: custom
+    date: "2018-03-09"
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Lightning Talks"
+    type: custom
+    date: "2018-03-09"
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "SRE-iously: Defining the Principles, Habits, and Practices of Site Reliability Engineering - Tori Wieldt"
+    type: talk
+    date: "2019-03-08"
+    start_time: "2:45"
+    end_time: "3:30"
+  - title: "Using SLOs and Error Budgets to Optimize for Reliability, Cost, and Release Velocity - Joe Whitaker"
+    type: talk
+    date: "2019-03-08"
+    start_time: "3:34"
+    end_time: "4:30"
+  - title: "Is Your DevOps Team Ready For Microservices - Winslow, Michael"
+    type: talk
+    date: "2019-03-08"
+    start_time: "4:45"
+    end_time: "5:30"
+  - title: "Sonatype Happy Hour (OFFSITE)"
+    type: talk
+    date: "2019-03-08"
+    start_time: "6:00"
+    end_time: "8:00"
