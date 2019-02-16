@@ -22,7 +22,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
   </div>
 </div>
 
-<!-->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
@@ -41,7 +40,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
   </div>
 </div>
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
@@ -59,7 +57,6 @@ DevOps Day LA is a single day event held annually in Southern California. This v
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">
