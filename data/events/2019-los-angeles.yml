@@ -102,46 +102,55 @@ sponsors:
 program:
   - title: "Registration and Welcome"
     type: custom
-    date: "2018-03-09"
+    date: "2019-03-08"
     start_time: "09:00"
     end_time: "10:00"
-  - title: "The Death Star Postmortem - Gareth Greenway"
+  - title: "gareth-greenaway"
     type: talk
     date: "2019-03-08"
-    start_time: "10:10"
-    end_time: ":10:45"
-  - title: "Evolution of QA to GA: The Sensu Go Crucible - Nikki Attea"
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "nikki-attea"
     type: talk
     date: "2019-03-08"
     start_time: "11:00"
-    end_time: ":11:45"
+    end_time: "11:45"
   - title: "Lunch Break"
     type: custom
-    date: "2018-03-09"
+    date: "2019-03-08"
     start_time: "12:00"
     end_time: "13:30"
   - title: "Lightning Talks"
-    type: custom
-    date: "2018-03-09"
+    type: ignite
+    date: "2019-03-08"
     start_time: "13:30"
     end_time: "14:30"
-  - title: "SRE-iously: Defining the Principles, Habits, and Practices of Site Reliability Engineering - Tori Wieldt"
+  - title: "tori-wieldt"
     type: talk
     date: "2019-03-08"
     start_time: "2:45"
     end_time: "3:30"
-  - title: "Using SLOs and Error Budgets to Optimize for Reliability, Cost, and Release Velocity - Joe Whitaker"
+  - title: "joe-whitaker"
     type: talk
     date: "2019-03-08"
-    start_time: "3:34"
+    start_time: "3:45"
     end_time: "4:30"
-  - title: "Is Your DevOps Team Ready For Microservices - Winslow, Michael"
+  - title: "michael-winslow"
     type: talk
     date: "2019-03-08"
     start_time: "4:45"
     end_time: "5:30"
-  - title: "Sonatype Happy Hour (OFFSITE)"
-    type: talk
+  - title: "Happy Hour (OFFSITE - Sponsored by Sonatype)"
+    type: custom 
     date: "2019-03-08"
     start_time: "6:00"
     end_time: "8:00"
+
+
+ignites:
+  - title: murriel-perez
+    date: 2019-03-08
+  - title: ryan-schaller
+    date: 2019-03-08
+  - title: nishant-rama 
+    date: 2019-03-08
