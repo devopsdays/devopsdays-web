@@ -16,6 +16,48 @@ There are three ways to propose a topic at devopsdays:
 
 <hr>
 
+_<strong>Suggested Speaker Topics</strong>_:
+
+- Real-world view of digital transformation and how it was (is being) done in your organization
+- Scaling DevOps
+- Driving the DevOps Journey - a view from the C-level
+- Game Devops and Backend: eg How does Fortnite scale ?
+- Self-Driving cars
+- Machine Learning, AI and how it affects DevOps
+- Building DevOps from the bottom up	
+- Culture change/Transforming a monolithic company
+- Transforming any size company
+- Overview of the Triangle market - trends, shifts, the future
+- Bridging the executive knowledge gap of DevOps
+- How to get executives on board with developing code straight to production
+- SRE: What is it? Why do you need to know about it?
+- DevOps Security Testing/DevSecOps
+- How big data, data analytics and data monitoring affects/integrates with DevOps
+- Business management tools, version control, how 
+- How things went wrong within a DevOps org and how we fixed it
+- Team collaboration and communication across the organization
+- Blockchain and how it relates to DevOps
+- Docker in AWS ECS - not just kubernetes
+- CI/CD with IOT or embedded systems
+- CI/CD in general and how to make it work in various sized organizations
+- BDD/ATDD/TDD
+- Performance testing
+- Personal path of how I became a DevOps Engineer
+- Demo and/or use case of using specific tools
+ - Jenkins Pipeline
+- Technical deep dives in Jenkins, Microservices, Kubernetes, Docker, Istio, Openshift
+ - Docker in AWS ECS and in production
+ - Kubernetes in containers
+ - Core OS/RHEL integration
+- Serverless DevOps
+- Essential tools for team growth
+- Decision engines
+- Networking DevOps
+- Orchestration
+- Automating customer deployments with distributed/hybrid architecture
+- How to best utilize Azure
+- Azure vs AWS - pros and cons
+
 Choosing talks is part art, part science; here are some factors we consider when trying to assemble the best possible program for our local audience:
 
 - _broad appeal_: How will your talk play out in a room of people with a variety of backgrounds? Technical deep dives need more levels to provide value for the whole room, some of whom might not use your specific tool.
