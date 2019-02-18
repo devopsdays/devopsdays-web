@@ -75,6 +75,10 @@ sponsors:
     level: gold
   - id: puppet
     level: gold
+  - id: influxdata
+    level: gold
+  - id: cloudbees
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
