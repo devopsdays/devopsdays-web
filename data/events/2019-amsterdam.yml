@@ -100,12 +100,17 @@ sponsors:
     level: gold
   - id: kpn-ict
     level: gold
+  - id: capgemini
+    level: gold
   # Silver
   - id: valtech
     level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
+  # Bronze
+  - id: utilus
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
