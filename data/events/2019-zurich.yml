@@ -155,12 +155,12 @@ sponsors:
 - id: swiss-perl-workshop
   level: community
 - id: vshn
-  level: entrance
+  level: platinum
 - id: swiss-re
   level: gold
 - id: swisscom
   url: https://job.swisscom.ch/ict/de?showclose=1
-  level: coffee
+  level: platinum
 - id: oracle2019
   level: silver
   url: https://developer.oracle.com/
@@ -173,14 +173,8 @@ sponsors:
   level: silver
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-- id: entrance
-  label: Entrance
-  max: 1
-- id: coffee
-  label: Coffee
-  max: 1
-- id: planet
-  label: Planet
+- id: platinum
+  label: Platinum
   max: 1
 - id: gold
   label: Gold
