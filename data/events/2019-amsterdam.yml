@@ -98,6 +98,9 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  # Silver
+  - id: valtech
+    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
