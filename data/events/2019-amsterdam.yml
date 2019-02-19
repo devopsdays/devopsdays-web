@@ -104,6 +104,9 @@ sponsors:
   # Lanyards
   - id: developers-nl
     level: lanyard
+  # Bronze
+  - id: utilus
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
