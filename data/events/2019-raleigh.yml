@@ -63,7 +63,6 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Bailey"
     twitter: "seebails"
     github: "nonstickzan"
-  - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
   - name: "RJ Williams"
     website: "http://techtowntraining.com"
