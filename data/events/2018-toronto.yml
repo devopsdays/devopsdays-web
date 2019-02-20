@@ -94,9 +94,9 @@ sponsors:
     level: gold
   - id: blendedperspectives
     level: silver
-  - id: sourcedgroup
+  - id: sourcedgroup-before-20190219
     level: silver
-  - id: sourcedgroup
+  - id: sourcedgroup-before-20190219
     level: lanyard
   - id: cloudbees
     level: silver
