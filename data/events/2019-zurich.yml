@@ -171,6 +171,10 @@ sponsors:
   url: http://www.bmcsoftware.ch/
 - id: itconcepts-schweiz
   level: silver
+- id: devops-meetup-zurich
+  level: community
+- id: devops-meetup-bern
+  level: community
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
