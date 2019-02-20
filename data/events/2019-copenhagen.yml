@@ -88,8 +88,12 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
+  - id: xebialabs
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: unity
+    level: community
+  - id: yousee
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -129,7 +133,7 @@ program:
     date: 2019-04-03
     start_time: "09:50"
     end_time: "10:00"
-  - title: "Talk"
+  - title: "allan-ebdrup"
     type: talk
     date: 2019-04-03
     start_time: "10:00"
@@ -154,8 +158,13 @@ program:
     date: 2019-04-03
     start_time: "11:15"
     end_time: "11:30"
-  - title: "Talk"
+  - title: "felix-wu"
     type: talk
+    date: 2019-04-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "bruno-amaro-almeida"
+    type: workshop
     date: 2019-04-03
     start_time: "11:30"
     end_time: "12:00"
@@ -269,7 +278,7 @@ program:
     date: 2019-04-04
     start_time: "14:10"
     end_time: "14:25"
-  - title: "Talk"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-04-04
     start_time: "14:25"
@@ -284,8 +293,12 @@ program:
     date: 2019-04-04
     start_time: "15:10"
     end_time: "15:40"
-  - title: "Wrap-up and goodbyes"
+  - title: "Wrap-up and Goodbyes"
     type: custom
     date: 2019-04-04
     start_time: "15:40"
     end_time: "16:00"
+
+ignites:
+  - title: "mike-long"
+    date: "2019-04-03"

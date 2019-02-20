@@ -10,12 +10,12 @@ startdate: 2019-10-01 # The start date of your event. Leave blank if you don't h
 enddate: 2019-10-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-01T00:00:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-04-01T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2019-05-15T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfXD9AhpWkMtFMBu1dIRGnIZCm7435E1YPn5qkCbVgoXKOFrw/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-12-01 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-10-02 # close registration. Leave blank if registration is not open yet.
@@ -88,6 +88,12 @@ sponsors:
      level: gold
    - id: techtown
      level: platinum
+   - id: ahead
+     level: platinum
+   - id: appdynamics
+     level: platinum
+   - id: logdna
+     level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

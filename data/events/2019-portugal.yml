@@ -80,11 +80,12 @@ team_members: # Name is the only required field for team members.
     image: joao-miranda.jpg
   - name: "João Rodrigues"
     employer: "OutSystems"
+    bio: "João Rodrigues started his career in 1999 as a C and C++ software developer. The first 8 years working for a large traditional multi-national gave him a deep waterfall practices knowledge. He leveraged this experience to better understand the benefits of the Agile Movement and how to break the wall between business and development to reduce the software cost creep. After 8 more years working as a software development consultant applying agile methodologies, João started his latest professional journey 3 years ago at OutSystems. His is now playing the role of DevOps Practice Lead focusing on delivering better low-code software faster."
     linkedin: "https://www.linkedin.com/in/joao-brandao-rodrigues"
     twitter: "joaoblrodrigues"
     github: "joaobrodrigues"
     website:
-    image:
+    image: joao-rodrigues.jpg
   - name: "Manuel Pais"
     employer: "Independent"
     bio: "Independent DevOps and Continuous Delivery Consultant, focused on teams and flow. Manuel helps organizations adopting DevOps and Continuous Delivery (both from technical and human perspectives) via strategic assessments, practical workshops and technical coaching. He's also the DevOps lead for InfoQ. Tweets https://twitter.com/manupaisable. Blogs https://medium.com/@manupaisable. Manuel is co-author of a book on Software Releasability (http://releasabilitybook.com) and another on Team Topologies (http://teamtopologies.com)." 
@@ -109,12 +110,12 @@ team_members: # Name is the only required field for team members.
     image: miguel-alho.jpg
   - name: "Miguel Antunes"
     employer: "OutSystems"
-    bio:
+    bio: "Miguel Antunes is a DevOps advocate and an active member of the DevOps community in Portugal. Passionate about software engineering practices, he sees in DevOps a way to maximize business impact by promoting engineering excellence through the entire software lifecycle. He was part of establishing the DevOps and Continuous Delivery mindset at OutSystems R&D, which reshaped the way we think about and deliver products."
     linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
     twitter:
     github: "micantunes"
     website:
-    image:
+    image: miguel-antunes.jpg
   - name: "Ricardo Castro"
     employer: "Uphold Inc"
     bio: "DevOps and Site Reliability Engineer at Uphold building highly performant, reliable and scalable systems. Strong believer in culture and team work. Open source passionate, taekwondo amateur and metal lover."
@@ -125,7 +126,7 @@ team_members: # Name is the only required field for team members.
     image: ricardo-castro.jpg
   - name: "Sérgio Amorim"
     employer: "EDP"
-    bio:
+    bio: "I’m a software engineer, from head to toes! I'm passionate about design practices, architecture, quality, code and efficiency. For me, there is nothing more satisfying that helping others to meet their goal. From small companies to enterprises companies, if there is a software challenge, you can count on me! Currently, I'm at EDP to instantiate DevOps. An excellent challenge!"
     linkedin: "https://www.linkedin.com/in/saamorim/"
     twitter: "sacamorim"
     github: 

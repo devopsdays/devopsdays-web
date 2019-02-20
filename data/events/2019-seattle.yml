@@ -108,6 +108,10 @@ sponsors:
     level: gold
   - id: taf
     level: gold
+  - id: puppet
+    level: gold
+  - id: launch-darkly
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
@@ -118,6 +122,12 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
+  - id: seattle-coffeeops
+    level: community
+  - id: eastside-coffeeops
+    level: community
+  - id: wsealug
+    level: community
   - id: chef
     level: evening
 

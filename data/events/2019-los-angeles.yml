@@ -10,7 +10,7 @@ enddate:  2019-03-08 # The end date of your event. Leave blank if you don't have
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-12-19  # start accepting talk proposals.
 cfp_date_end: 2019-01-15 # close your call for proposals.
-cfp_date_announce: 2019-02-24 # inform proposers of status.
+cfp_date_announce: 2019-02-15 # inform proposers of status.
 
 # Location
 #
@@ -21,12 +21,12 @@ location: "Pasadena Convention Center" # Defaults to city, but you can make it t
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: location
-  - name: propose
+#  - name: propose
   - name: contact
   - name: conduct
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -98,3 +98,59 @@ sponsors:
     level: sponsor
   - id: sumologic
     level: sponsor
+
+program:
+  - title: "Registration and Welcome"
+    type: custom
+    date: "2019-03-08"
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "gareth-greenaway"
+    type: talk
+    date: "2019-03-08"
+    start_time: "10:00"
+    end_time: "10:45"
+  - title: "nikki-attea"
+    type: talk
+    date: "2019-03-08"
+    start_time: "11:00"
+    end_time: "11:45"
+  - title: "Lunch Break"
+    type: custom
+    date: "2019-03-08"
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Lightning Talks"
+    type: ignite
+    date: "2019-03-08"
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "tori-wieldt"
+    type: talk
+    date: "2019-03-08"
+    start_time: "2:45"
+    end_time: "3:30"
+  - title: "joe-whitaker"
+    type: talk
+    date: "2019-03-08"
+    start_time: "3:45"
+    end_time: "4:30"
+  - title: "michael-winslow"
+    type: talk
+    date: "2019-03-08"
+    start_time: "4:45"
+    end_time: "5:30"
+  - title: "Happy Hour (OFFSITE - Sponsored by Sonatype)"
+    type: custom 
+    date: "2019-03-08"
+    start_time: "6:00"
+    end_time: "8:00"
+
+
+ignites:
+  - title: murriel-perez
+    date: 2019-03-08
+  - title: ryan-schaller
+    date: 2019-03-08
+  - title: nishant-rama 
+    date: 2019-03-08

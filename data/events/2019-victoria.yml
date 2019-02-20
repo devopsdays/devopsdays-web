@@ -59,12 +59,12 @@ proposal_email: # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id: xmatters
-#   level: gold
-# - id: quartech-systems
-#   level: silver
-# - id: bambora
-#   level: silver
+ - id: xmatters
+   level: gold
+ - id: quartech-systems
+   level: silver
+ - id: bambora
+   level: silver
 # - id: hashicorp
 #   level: bronze
 # - id: sendwithus

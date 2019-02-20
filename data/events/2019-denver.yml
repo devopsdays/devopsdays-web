@@ -98,6 +98,8 @@ sponsors:
   level: silver
 - id: influxdata
   level: gold
+- id: appdynamics
+  level: gold
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -107,15 +109,12 @@ sponsor_levels:
   - id: social
     label: Social Hour Event
     max: 1
-  - id: platinum
-    label: Platinum
-    max: 4
   - id: gold
     label: Gold
-    max: 6
+    max: 8
   - id: silver
     label: Silver
-    max: 6
+    max: 8
   - id: supporter
     label: Supporter
     max: 4

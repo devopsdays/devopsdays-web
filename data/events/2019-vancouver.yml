@@ -94,6 +94,22 @@ sponsors:
     level: gold
   - id: xmatters
     level: gold
+  - id: beanworks
+    level: silver
+  - id: cirro
+    level: silver
+  - id: diamanti
+    level: silver
+  - id: logdna
+    level: silver
+  - id: tasktop
+    level: silver
+  - id: lendesk
+    level: bronze
+  - id: safesoftware
+    level: amenities
+  - id: ay-tech
+    level: friends
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

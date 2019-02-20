@@ -62,7 +62,7 @@ proposal_email: "proposals-toronto-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: opsgenie
     level: gold
@@ -94,9 +94,9 @@ sponsors:
     level: gold
   - id: blendedperspectives
     level: silver
-  - id: sourcedgroup
+  - id: sourcedgroup-before-20190219
     level: silver
-  - id: sourcedgroup
+  - id: sourcedgroup-before-20190219
     level: lanyard
   - id: cloudbees
     level: silver
