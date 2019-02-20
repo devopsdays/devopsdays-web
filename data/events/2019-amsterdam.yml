@@ -111,6 +111,8 @@ sponsors:
   # Bronze
   - id: utilus
     level: bronze
+  - id: s0l1dheroes
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
