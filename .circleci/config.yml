@@ -20,7 +20,7 @@ jobs:
     working_directory: ~/devopsdays
     steps:
       - attach_workspace:
-        at: /src/public
+          at: /src/public
       - run:
           name: update-npm
           command: 'sudo npm install -g npm@5'
