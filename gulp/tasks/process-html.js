@@ -16,13 +16,21 @@ var retinaOpts = {
 };
 
 gulp.task('min-html', function() {
-    return gulp.src('public/**/*.html')
+    return gulp.src('workspace/public/**/*.html')
         .pipe(htmlmin({
             collapseWhitespace: true
         }))
         .pipe(gulp.dest('dist'));
 })
 // min-html was taking forever
+
+gulp.task('min-html-circle', function() {
+    return gulp.src('public/**/*.html')
+        .pipe(htmlmin({
+            collapseWhitespace: true
+        }))
+        .pipe(gulp.dest('dist'));
+})
 
 gulp.task('retina-html', function() {
     return gulp.src(['dist/**/*.html',  '!dist/events/2015*/**', '!dist/events/2016*/**'])

@@ -39,7 +39,7 @@ jobs:
             - ./node_modules
       - run:
           name: "Test build"
-          command: gulp min-html --cwd ~/devopsdays/workspace/public
+          command: gulp min-html-circle --cwd .
 
 workflows:
   version: 2
