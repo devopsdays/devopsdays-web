@@ -23,5 +23,5 @@ jobs:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v -s src/
       - run:
-          name: "Test Website"
+          name: "Test build"
           command: gulp min-html --cwd src/public
