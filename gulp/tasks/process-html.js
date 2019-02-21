@@ -16,7 +16,7 @@ var retinaOpts = {
 };
 
 gulp.task('min-html', function() {
-    return gulp.src('workspace/public/**/*.html')
+    return gulp.src('public/**/*.html')
         .pipe(htmlmin({
             collapseWhitespace: true
         }))
