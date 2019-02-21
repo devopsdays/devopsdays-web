@@ -63,7 +63,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
-  - id: devrelate_logo
+  - id: devrelate
     level: community
     url: http://devrelate.io
 
