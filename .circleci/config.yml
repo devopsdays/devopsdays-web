@@ -2,14 +2,14 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:0.53
       - image: circleci/node:4.8.2
+      - image: cibuilds/hugo:0.53
     working_directory: ~/devopsdays
     steps:
       - checkout
       - run:
           name: update-npm
-          command: 'npm install -g npm@5'
+          command: 'sudo npm install -g npm@5'
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
