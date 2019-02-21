@@ -1,0 +1,27 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/docker-hugo:0.53
+      - image: circleci/node:4.8.2
+    working_directory: ~/devopsdays
+    steps:
+      - checkout
+      - run:
+          name: update-npm
+          command: 'sudo npm install -g npm@5'
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: install-npm-wee
+          command: npm install
+      - save_cache:
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: "Run Hugo"
+          command: HUGO_ENV=production hugo -v -s src/
+      - run:
+          name: "Test Website"
+          command: gulp min-html --cwd src/public
