@@ -20,19 +20,19 @@ registration_date_start: 2019-02-13
 registration_date_end: 2019-09-27
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://ti.to/devops-days-buffalo-2019/dodBFLO2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
 #
-location_address: "CORNER OF ROCKWELL ROAD & CLEVELAND CIRCLE, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
