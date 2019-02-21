@@ -10,9 +10,9 @@ jobs:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v -s src/
       - persist_to_workspace:
-        root: src
-        paths: 
-          - public
+          root: src
+          paths: 
+            - public
 
   test:
     docker:
