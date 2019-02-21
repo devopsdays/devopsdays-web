@@ -3,24 +3,24 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:0.53
-    working_directory: ~/devopsdays
+    working_directory: /tmp
     steps:
       - checkout
       - run:
           name: "Run Hugo"
-          command: HUGO_ENV=production hugo -v -d src/public
+          command: HUGO_ENV=production hugo -v -d workspace/public
       - persist_to_workspace:
-          root: src
+          root: workspace
           paths: 
             - public
 
   test:
     docker:
       - image: circleci/node:4.8.2
-    working_directory: ~/devopsdays
+    working_directory: /tmp
     steps:
       - attach_workspace:
-          at: /src/public
+          at: /tmp/workspace
       - run:
           name: update-npm
           command: 'sudo npm install -g npm@5'
@@ -35,7 +35,7 @@ jobs:
             - ./node_modules
       - run:
           name: "Test build"
-          command: gulp min-html --cwd src/public
+          command: gulp min-html --cwd /tmp/workspace/public
 
 workflows:
   version: 2
