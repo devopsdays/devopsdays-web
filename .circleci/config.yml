@@ -8,7 +8,7 @@ jobs:
       - checkout
       - run:
           name: "Run Hugo"
-          command: HUGO_ENV=production hugo -v -s src/
+          command: HUGO_ENV=production hugo -v -d src/public
       - persist_to_workspace:
           root: src
           paths: 
