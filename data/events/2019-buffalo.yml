@@ -26,7 +26,6 @@ registration_link: "https://ti.to/devops-days-buffalo-2019/dodBFLO2019" # If you
 #
 coordinates: "42.9294872,-78.8844411" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
-#
 location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
