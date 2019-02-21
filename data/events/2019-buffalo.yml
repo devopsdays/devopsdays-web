@@ -30,7 +30,7 @@ location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
 location_address: "CORNER OF ROCKWELL ROAD & CLEVELAND CIRCLE, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
@@ -73,11 +73,12 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 5
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 5 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
