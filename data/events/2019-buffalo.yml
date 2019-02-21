@@ -14,7 +14,7 @@ cfp_date_start: 2019-02-13
 cfp_date_end: 2019-03-30
 cfp_date_announce: 2019-04-01
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dodbflo19" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-02-13
 registration_date_end: 2019-09-27
