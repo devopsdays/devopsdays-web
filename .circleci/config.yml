@@ -25,6 +25,9 @@ jobs:
       - run:
           name: update-npm
           command: 'sudo npm install -g npm@5'
+      - run: 
+          name: install-gulp
+          command: `sudo npm install -g gulp`
       - restore_cache:
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
