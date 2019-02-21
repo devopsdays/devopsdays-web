@@ -3,7 +3,7 @@ jobs:
   build:
     docker:
       - image: cibuilds/hugo:0.53
-    working_directory: /tmp
+    working_directory: ~/devopsdays
     steps:
       - checkout
       - run:
@@ -17,10 +17,10 @@ jobs:
   test:
     docker:
       - image: circleci/node:4.8.2
-    working_directory: /tmp
+    working_directory: ~/devopsdays
     steps:
       - attach_workspace:
-          at: /tmp/workspace
+          at: ~/devopsdays/workspace
       - run:
           name: update-npm
           command: 'sudo npm install -g npm@5'
@@ -35,7 +35,7 @@ jobs:
             - ./node_modules
       - run:
           name: "Test build"
-          command: gulp min-html --cwd /tmp/workspace/public
+          command: gulp min-html --cwd ~/devopsdays/workspace/public
 
 workflows:
   version: 2
