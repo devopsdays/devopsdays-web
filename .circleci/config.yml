@@ -19,6 +19,7 @@ jobs:
       - image: circleci/node:4.8.2
     working_directory: ~/devopsdays
     steps:
+      - checkout
       - attach_workspace:
           at: ~/devopsdays/workspace
       - run:
