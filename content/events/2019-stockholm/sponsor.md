@@ -46,8 +46,8 @@ peers.
 We greatly value sponsors for this open event. If you are interested, please email us at
 {{< email_organizers >}}.
 
-<table border=1 cellspacing=1>
-<tr><th>Packages                           </th><th>Gold Sponsor</th><th>Silver Sponsor</th><th>Community Sponsor</th></tr>
+<table border=1 cellpadding=5>
+  <tr><th>Packages                           </th><th>Gold Sponsor</th><th>Silver Sponsor</th><th>Community Sponsor</th></tr>
   <tr><td>Price                              </td><td>60000 SEK   </td><td>40000 SEK     </td><td>15000 SEK</td></tr>
   <tr><td>Tickets included                   </td><td>6           </td><td>4             </td><td>2</td></tr>
   <tr><td>Additional ticket discount         </td><td>20%         </td><td>15%           </td><td>n/a</td></tr>

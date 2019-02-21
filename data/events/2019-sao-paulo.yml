@@ -38,6 +38,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2019-sao-paulo/speakers
   - name: Chamadas (CFP)
     url: /events/2019-sao-paulo/cfp
     icon: "microphone"
