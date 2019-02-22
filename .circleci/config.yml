@@ -25,6 +25,9 @@ jobs:
       - run:
           name: update-npm
           command: 'sudo npm install -g npm@5'
+      - run:
+          name: npm-version
+          command: 'npm version'
       - run: 
           name: install-gulp
           command: 'sudo npm install -g gulp'
