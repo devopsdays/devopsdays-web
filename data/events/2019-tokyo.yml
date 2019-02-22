@@ -55,7 +55,21 @@ proposal_email: "proposals-tokyo-2019@devopsdays.org" # Put your proposal email 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors: []
+sponsors:
+  - id: f5
+    level: gold
+  - id: creationline
+    level: silver
+  - id: itpreneurs
+    level: silver
+  - id: inedo
+    level: silver
+  - id: ciandt
+    level: silver
+  - id: lac
+    level: bronze
+  - id: yappli
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
