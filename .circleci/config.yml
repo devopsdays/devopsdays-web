@@ -16,7 +16,7 @@ jobs:
 
   test:
     docker:
-      - image: circleci/node:4.8.2
+      - image: circleci/node:11.5.0
     working_directory: ~/devopsdays
     steps:
       - checkout
