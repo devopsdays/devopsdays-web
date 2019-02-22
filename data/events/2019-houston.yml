@@ -118,6 +118,12 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: solarwinds
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: elastic
+    level: gold
   - id: fearless
     level: bronze
   - id: firemon
