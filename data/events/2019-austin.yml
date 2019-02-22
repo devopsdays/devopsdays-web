@@ -12,7 +12,7 @@ enddate:  2019-05-03 # The end date of your event. Leave blank if you don't have
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-01-28 # start accepting talk proposals.
-cfp_date_end: 2019-02-22 # close your call for proposals.
+cfp_date_end: 2019-02-28 # close your call for proposals.
 cfp_date_announce: 2019-03-04 # inform proposers of status
 
 cfp_open: "true"
@@ -158,6 +158,8 @@ sponsors:
   - id: chaossearch
     level: gold
   - id: rancher
+    level: gold
+  - id: cloudbees
     level: gold
   - id: f5
     level: mealandsnack
