@@ -81,6 +81,10 @@ sponsors:
     level: gold
   - id: deloitte
     level: gold
+  - id: chef
+    level: gold
+  - id: elastic
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
