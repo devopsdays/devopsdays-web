@@ -38,6 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 # - name: example
