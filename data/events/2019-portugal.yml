@@ -96,10 +96,11 @@ team_members: # Name is the only required field for team members.
     image: manuel-pais.jpg
   - name: "Marta Torneiro"
     employer: "Blip - Paddy Power Betfair"
-    bio: 
+    bio: "Delivery Manager at Blip - Paddy Power Betfair, focused on people and Continuous Improvement. She started her professional path in the QA and has always been an enthusiast about the Agile and DevOps cultures and on exploring new ways to deliver working software quickly without compromising quality." 
     linkedin: "https://www.linkedin.com/in/martatorneiro"
     twitter: 
-    github: 
+    github:
+    image: marta-torneiro.jpg 
   - name: "Miguel Alho"
     employer: "FARO Technologies"
     bio: "Full-time, 14-years-in-the-making, software engineer with a DevOps and Craftsmanship mindset. Previously, I worked mainly as a dev freelancer, but also as a consultant, school teacher, media producer and project manager. I'm a very big fan of TDD as a development practice, very fond of microservices, of automating as much as possible in the dev, build and deploy pipeline, but also in finding ways to augment individual and team learning experiences."
@@ -140,11 +141,11 @@ proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
+ - id: edp
+   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
- # - id: arresteddevops
- #   level: community
+ - id: bitmaker
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

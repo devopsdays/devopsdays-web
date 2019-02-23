@@ -6,33 +6,32 @@ description: "DevOpsDays is coming back to Stockholm!" # Edit this to suit your 
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-09-17 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-03-01 # start accepting talk proposals.
+cfp_date_end: 2019-04-15 # close your call for proposals.
+cfp_date_announce: 2019-05-15 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dod-sthlm-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-03-01 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-09-16 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Stockholm" # Defaults to city, but you can make it the venue name.
+coordinates: "59.342430, 18.051708" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "7A Odenplan, Stockholm" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Norrtullsgatan 6, Stockholm" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -48,23 +47,32 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Anders Bruvik"
     twitter: "bruvik"
+    image: "anders-bruvik.jpg"
     employer: "Safespring"
   - name: "Emily Bache"
     twitter: "emilybache"
+    image: "emily-bache.jpg"
     employer: Praqma
   - name: "Jan Ivar Beddari"
     twitter: "beddari"
+    image: "jan-ivar-beddari.jpg"
     employer: "Safespring"
   - name: "Jasmine Crozier"
     twitter: "jasminecph"
+    image: "jasmine-crozier.jpg"
     employer: Praqma
   - name: "Johan Virtanen"
     twitter: "Jo_Virtanen"
     employer: Praqma
   - name: "Jonas Linde"
     twitter: "kraaakan"
+    github: "krakan"
+    image: "jonas-linde.jpg"
+    website: "https://jonaseel.se/"
+    linkedin: "https://www.linkedin.com/in/jonasjlinde/"
     employer: B3 Init
   - name: "Lowe Schmidt"
+    image: "lowe-schmidt.jpg"
     employer: "Qapital"
     twitter: "loweschmidt"
     github: "lsc"
@@ -75,6 +83,7 @@ team_members: # Name is the only required field for team members.
     employer: "EA"
     twitter: "markltbaker"
   - name: "Matthias Grüter"
+    image: "matthias-gruter.jpg"
     employer: "Spotify"
     twitter: "mattgruter"
   - name: "Tony Collander"
@@ -102,11 +111,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 0
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
   - id: community
     label: Community

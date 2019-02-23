@@ -106,6 +106,8 @@ sponsors:
     level: silver
   - id: globaz
     level: silver
+  - id: techfirm
+    level: bronze
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -114,9 +116,6 @@ sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: event
-    label: Event
-    max: 1
   - id: gold
     label: Gold
     max: 6
@@ -237,7 +236,7 @@ program:
     start_time: "12:00"
     end_time: "13:00"
   - title: "david-pilato"
-    type: workshop
+    type: talk
     date: "2019-02-22"
     start_time: "12:00"
     end_time: "13:00"

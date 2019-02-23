@@ -47,6 +47,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+  - name: "Ajay Bannai"
+    employer: "Current Analytics Corporation"
+    image: "ajay-bannai.jpg"
+    linkedin: "https://www.linkedin.com/in/ajay-bannai-934b066/"
+    bio: "With more than 26 years in IT software, Ajay has designed and built many systems covering data analysis, middleware systems and end user applications. Ajay has spent more than 12 years in the Retail Energy space and is a seasoned architect. Ajay is TOGAF certified and also a qualified Software Architect from Carnegie Mellon University."
   - name: "Dan Collins"
     employer: "Current Analytics Corporation"
     linkedin: "https://www.linkedin.com/in/thedancollins/"
@@ -56,13 +61,6 @@ team_members: # Name is the only required field for team members.
     twitter: "realdancollins"
     image: "dan-collins.jpg"
     bio: "Dan is a U of H graduate with over 20 years of experience in software and systems development.  In the Microsoft-heavy world of Houston retail energy systems, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines.  Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017.  The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
-  - name: "Devlin Liles"
-    employer: "Improving - Houston"
-    linkedin: "https://www.linkedin.com/in/devlinliles/"
-    twitter: "DevlinLiles"
-    github: "devlinliles"
-    image: "devlin-liles.jpg"
-    bio: "Devlin is a President at Improving – Houston, 6 time Microsoft MVP, and a passionate technologist."
   - name: "Julia Ito"
     employer: "Endurance Corporation"
     linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
@@ -117,6 +115,14 @@ sponsors:
   - id: influxdata
     level: gold
   - id: mongodb
+    level: gold
+  - id: chef
+    level: gold
+  - id: solarwinds
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: elastic
     level: gold
   - id: fearless
     level: bronze

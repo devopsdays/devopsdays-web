@@ -134,6 +134,10 @@ sponsors:
     level: platinum
   - id: magenic
     level: gold
+  - id: vmware
+    level: platinum
+  - id: ahead
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

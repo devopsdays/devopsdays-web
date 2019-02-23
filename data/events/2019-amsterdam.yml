@@ -6,7 +6,7 @@ description: "devopsdays Amsterdam is back for the 7th time!" # Edit this to sui
 ga_tracking_id: "UA-38891729-3" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-06-25 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-06-26 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2019-06-28 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -98,9 +98,23 @@ sponsors:
     level: gold
   - id: newrelic
     level: gold
+  - id: kpn-ict
+    level: gold
+  - id: capgemini
+    level: gold
+  - id: influxdata
+    level: gold
+  # Silver
+  - id: valtech
+    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
+  # Bronze
+  - id: utilus
+    level: bronze
+  - id: s0l1dheroes
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

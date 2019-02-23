@@ -88,6 +88,8 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
+  - id: xebialabs
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: unity
     level: community
@@ -266,7 +268,7 @@ program:
     date: 2019-04-04
     start_time: "13:25"
     end_time: "13:40"
-  - title: "Talk"
+  - title: "nataliya-remez"
     type: talk
     date: 2019-04-04
     start_time: "13:40"

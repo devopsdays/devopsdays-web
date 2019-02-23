@@ -2,7 +2,7 @@
 Title = "devopsdays Amsterdam 2019"
 Type = "welcome"
 aliases = ["/events/2019-amsterdam/"]
-Description = "devopsdays Amsterdam will take place June 25-28, 2019! The group that brought you devopsdays Amsterdam 2013-2018 is back together and planning the 2019 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2019 in Amsterdam."
+Description = "devopsdays Amsterdam will take place June 26-28, 2019! The group that brought you devopsdays Amsterdam 2013-2018 is back together and planning the 2019 event.  We're encouraged by the feedback from previous year's events and are determined to bring an improved experience and continue the DevOps conversation for 2019 in Amsterdam."
 +++
 
 <div class = "row">
@@ -12,7 +12,7 @@ From fledgling startups to established industry, the The Netherlands is home to 
 <br><br>
 devopsdays Amsterdam brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The 2019 event will be the seventh time we have held devopsdays Amsterdam, and it should be bigger and better than ever before!
 <br><br>
-We expect 500 people this year and will be holding the event on June 25-28, 2019 at the <a href="/events/2019-amsterdam/location">Pakhuis de Zwijger</a> in downtown Amsterdam.
+We expect 500 people this year and will be holding the event on June 26-28, 2019 at the <a href="/events/2019-amsterdam/location">Pakhuis de Zwijger</a> in downtown Amsterdam.
 <br><br>
 The format of devopsdays Amsterdam includes a single track of 30 minute talks in the morning of each event, followed by Ignite talks (5 minute, auto forwarding). We spend the rest of the afternoon in Open Spaces, which are considered a key portion of the event. For those not interested in the Open Spaces, we continue offering the single track around a specific theme (previously around Security and HumanOps).
 <div class = "row"><!-- begin a content element -->
