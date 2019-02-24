@@ -3,7 +3,7 @@ Title = "Mary Poppendieck"
 Website = "http://www.poppendieck.com"
 Twitter = "mpoppendieck"
 Github = ""
-image = "mary-poppendieck.png"
+image = "mary-poppendieck.jpg"
 type = "speaker"
 
 +++
