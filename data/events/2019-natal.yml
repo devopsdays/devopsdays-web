@@ -37,10 +37,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Informações
     icon: "map-o"
     url: /events/2019-natal/location
-## Uncomment to show on page
-  # - name: Palestrantes
-  #   icon: "microphone"
-  #   url: /events/2019-natal/speakers
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2019-natal/speakers
   - name: Programação
     icon: "book"
     url: /events/2019-natal/program
@@ -186,18 +185,78 @@ sponsor_levels:
   - id: community
     label: Community
 program:
-  - title: "Credenciamento, breakfast e abertura"
-    type: open-space
+  - title: "Credenciamento e breakfast"
+    type: custom
     date: 2019-03-09
     start_time: "08:00"
     end_time: "08:30"
-  - title: "tbd"
+  - title: "abertura"
+    type: talk
+    date: 2019-03-09
+    start_time: "08:30"
+    end_time: "08:40"
+  - title: "mateus-prado"
     type: talk
     date: 2019-03-09
     start_time: "08:40"
-    end_time: "17:20"
-  - title: "Encerramento"
-    type: open-space
+    end_time: "09:25"
+  - title: "matheus-ferraz"
+    type: talk
     date: 2019-03-09
-    start_time: "17:30"
+    start_time: "09:25"
+    end_time: "10:00"
+  - title: "fernando-fish"
+    type: talk
+    date: 2019-03-09
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "victor-torres"
+    type: talk
+    date: 2019-03-09
+    start_time: "10:35"
+    end_time: "11:10"
+  - title: "rafael-gomes-aka-gomex"
+    type: talk
+    date: 2019-03-09
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "Almoço"
+    type: custom
+    date: 2019-03-09
+    start_time: "11:45"
+    end_time: "13:45"
+  - title: "matheus-oliveira"
+    type: talk
+    date: 2019-03-09
+    start_time: "13:50"
+    end_time: "14:25"
+  - title: "izael-effemberg"
+    type: talk
+    date: 2019-03-09
+    start_time: "14:25"
+    end_time: "15:00"
+  - title: "priscilla-parodi"
+    type: talk
+    date: 2019-03-09
+    start_time: "15:00"
+    end_time: "15:55"
+  - title: "tbd"
+    type: talk
+    date: 2019-03-09
+    start_time: "15:55"
+    end_time: "16:30"
+  - title: "Coffee Break"
+    type: custom
+    date: 2019-03-09
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "aecio-pires"
+    type: talk
+    date: 2019-03-09
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2019-03-09
+    start_time: "17:45"
     end_time: "17:55"
