@@ -15,7 +15,7 @@ cfp_date_start: 2018-12-28 # start accepting talk proposals.
 cfp_date_end: 2019-02-15 # close your call for proposals.
 cfp_date_announce: 2019-02-16 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://speakerfight.com/events/devopsday-natal-2019/" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "natal.jpg"
@@ -154,8 +154,21 @@ proposal_email: "proposals-natal-2019@devopsdays.org" # Put your proposal email 
 #   - id: xxxx
 #     level: gold
 #     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
+sponsors:
+  - id: elastic
+    level: gold
+    url: https://elastic.co/
+  - id: adaptnow
+    level: community
+    url: https://www.adaptnow.com.br/
+  - id: ifrn
+    level: community
+    url: http://portal.ifrn.edu.br/
+  - id: 4linux
+    level: community
+    url: https://www.4linux.com.br/
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
