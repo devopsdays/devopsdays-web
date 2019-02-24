@@ -85,6 +85,9 @@ sponsors:
     # Evening Event
   - id: f5
     level: evening
+    # Gold
+  - id: circleci
+    level: gold
     # Silver
   - id: tecknuovo
     level: silver
