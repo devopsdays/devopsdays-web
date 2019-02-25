@@ -1,7 +1,7 @@
 +++
 Title = "Christian Hermanus"
 Twitter = ""
-image = ""
+image = "christian-hermanus.png"
 type = "speaker"
 linktitle = "christian-hermanus"
 

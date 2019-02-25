@@ -33,7 +33,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: location
  # - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
