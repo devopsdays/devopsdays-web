@@ -6,13 +6,13 @@ Description = "Location for devopsdays Stockholm 2019"
 
 ### 7A Odenplan
 
-Devopsdays Stockholm 2019 will be held in the *Loke* room at [7A Odenplan](https://www.7a.se/en/conference-event/venues/odenplan/) in Stockholm.
+Devopsdays Stockholm 2019 will be held in the *Loke* room at [7A Odenplan](https://www.7a.se/en/conference-event/venues/odenplan/) on Odengatan 65 in Stockholm.
 
 [![floor plan](7A-Odenplan-Planskiss.jpg)](https://www.7a.se/en/conference-event/venues/odenplan/)
 
 ### Public transport
 
-The closest subway station is Odenplan which is also a commuter train station. The Arlanda Express will take you from Arlanda airport to the Central station in 20 minutes. The commuter train is slower but will take you directly to Odenplan in 34 minutes.
+The closest subway station is *Odenplan* which is also a commuter train station. The Arlanda Express will take you from Arlanda airport to the Central station in 20 minutes. The commuter train is slower but will take you directly to Odenplan in 34 minutes.
 
 ### Walking
 
