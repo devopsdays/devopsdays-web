@@ -1,10 +1,24 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays hartford 2019"
+Description = "Location for DevOpsDays Hartford 2019"
 +++
 
-Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
+We're pleased to be back at Infinity Hall this year! Parking in the attached garage will be covered for the event.
 
-<!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
-<!-- {{< event_map >}} -->
+## Conference Venue
+
+{{< event_map >}}
+
+<p></p>
+
+**Infinity Hall**  
+32 Front Street  
+Hartford, CT 06103
+
+## Parking
+Ample parking is nearby in the available garages. DevOpsDays Hartford will cover your parking costs in the attached, **Front Street North** garage.
+
+**Front Street North Garage**  
+24 Front Street  
+Hartford, CT 06103
