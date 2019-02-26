@@ -2,7 +2,7 @@
 Title = "Daniel van Ham Colchete"
 Twitter = ""
 linkedin = ""
-image = ""
+image = "daniel-colchete.jpg"
 type = "speaker"
 linktitle = "daniel-colchete"
 

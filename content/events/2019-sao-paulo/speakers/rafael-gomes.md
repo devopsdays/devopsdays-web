@@ -2,7 +2,7 @@
 Title = "Rafael Gomes"
 Twitter = "gomex"
 linkedin = ""
-image = "rafael-gomes.png"
+image = "rafael-gomes.jpg"
 type = "speaker"
 linktitle = "rafael-gomes"
 website = "https://gomex.me/"
