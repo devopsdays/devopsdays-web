@@ -1,6 +1,6 @@
 +++
 Title = "Felix Wu"
-Twitter = "flxmu"
+Twitter = "flxwu"
 image = "felix-wu.png"
 type = "speaker"
 linktitle = "felix-wu"

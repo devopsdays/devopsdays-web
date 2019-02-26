@@ -70,7 +70,6 @@ team_members: # Name is the only required field for team members.
     employer: "Mærsk"
     image: "rasmus-hald.jpg"
 
-
 #  - name: "Sally Fields"
 #    employer: "Acme Anvil Co."
 #    github: "devopsdays"
@@ -85,6 +84,8 @@ proposal_email: "proposals-copenhagen-2019@devopsdays.org" # Put your proposal e
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: praqma
+    level: gold
+  - id: eficode
     level: gold
   - id: thoughtworks-gocd
     level: silver
@@ -301,4 +302,6 @@ program:
 
 ignites:
   - title: "mike-long"
+    date: "2019-04-03"
+  - title: "philipp-krenn"
     date: "2019-04-03"
