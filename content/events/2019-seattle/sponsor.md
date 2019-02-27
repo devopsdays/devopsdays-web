@@ -20,7 +20,7 @@ You can find more details in our <a href="https://assets.devopsdays.org/events/2
 
 <p>The best thing to do is send engineers to interact with the experts at DevOpsDays Seattle on their own terms.</p>
 
-**We are currently sold out on Silver and Gold sponsorships. It is possible that more will open up. If you would like either Silver or Gold level please contact us ASAP to get the best possible spot on the waiting list.**
+**We are currently sold out on Silver and Gold sponsorships.**
 
 
 <hr />
@@ -51,10 +51,10 @@ You can find more details in our <a href="https://assets.devopsdays.org/events/2
           </form>
         </td>
         <td style="padding: 0px 10px 0px 10px;">
-          <a href="mailto:organizers-seattle-2019@devopsdays.org">Contact Us</a>
+          Sold Out
         </td>
         <td style="padding: 0px 10px 0px 10px">
-          <a href="mailto:organizers-seattle-2019@devopsdays.org">Contact Us</a>
+          Sold Out
         </td>
       </tr>  
       <tr>
