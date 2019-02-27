@@ -150,6 +150,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 5
   - id: gold
     label: Gold
   - id: silver
