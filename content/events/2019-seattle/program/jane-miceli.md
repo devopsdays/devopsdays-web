@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Battles Wounds from a Cloud SRE.. And a few lessions"
+Title = "Battles Wounds from a Cloud SRE.. And a few lessons"
 Type = "talk"
 Speakers = ["jane-miceli"]
 +++
