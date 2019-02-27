@@ -143,7 +143,10 @@ proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal ema
 sponsors:
  - id: edp
    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+ - id: claranet
+   level: bronze
+ - id: laredoute
+   level: bronze   
  - id: bitmaker
    level: community
 
