@@ -4,7 +4,7 @@ Talk_start_time = "09:15"
 Talk_end_time = "09:45"
 Title = "Relax: Automation Replaces Tasks not People"
 Type = "talk"
-Speakers = "robert-reeves"
+Speakers = ["robert-reeves"]
 +++
 Automation is coming. Make no mistake, automation is a survival imperative for the business. However, automation is a difficult topic for IT and others who see automation as a threat to their job.
 
