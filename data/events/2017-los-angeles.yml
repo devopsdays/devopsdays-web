@@ -2,6 +2,7 @@ name: "2017-los-angeles" # The name of the event. Four digit year with the city 
 year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 description: "DevOpsDays is returning to Southern California in 2017" # A short blurb of text to describe your event, defaults to common DevOpsDays description
+event_group: "Los Angeles"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate:  2017-03-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -43,13 +44,13 @@ proposal_email: "organizers-los-angeles-2017@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: 2017-vdms
+  - id: vdms
     level: sponsor
   - id: datadog
     level: sponsor
   - id: 2016-carsdotcom
     level: sponsor
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: sponsor
   - id: opsgenie
     level: sponsor
@@ -59,9 +60,9 @@ sponsors:
     level: sponsor
   - id: versionone
     level: sponsor
-  - id: cyberark
+  - id: cyberark-before-20180203
     level: sponsor
-  - id: 2017-openx
+  - id: openx
     level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

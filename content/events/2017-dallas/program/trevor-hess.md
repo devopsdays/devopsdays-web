@@ -2,12 +2,12 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "TBA"
+Title = "Contributing to Open Source"
 Type = "talk"
 Speakers = ["trevor-hess"]
-Youtube = ""
+Youtube = "JIY5zf2g5iM"
 Vimeo = ""
-Speakerdeck = ""
+Speakerdeck = "https://speakerdeck.com/doddfwvol/doddfw2017-contributing-to-open-source"
 Slideshare = ""
 Slides = ""
 Website = ""
@@ -16,4 +16,5 @@ Github = "https://github.com/trevorghess"
 
 ##### TALK ABSTRACT
 
-<strong>TO BE ANNOUNCED</strong>
+<strong>Contributing to Open Source</strong><br>
+How the <strong>FORK</strong> do I contribute to open source software!?

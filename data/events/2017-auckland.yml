@@ -4,6 +4,7 @@ city: "Auckland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysnz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Auckland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "New Zealand"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-10-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -14,7 +15,7 @@ cfp_date_start: 2017-07-03 # start accepting talk proposals.
 cfp_date_end: 2017-08-05 # close your call for proposals.
 cfp_date_announce: 2017-08-25  # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-auckland-2017" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2017-07-15 # start accepting registration. Leave blank if registration is not open yet
@@ -39,8 +40,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -78,25 +79,58 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: SECTION6
+    level: gold
+  - id: redhat
+    level: gold
+  - id: 2016-oss
+    level: gold
+  - id: 2016-bnz
+    level: gold
+  - id: alc
+    level: gold
+  - id: platformsh
+    level: gold
   - id: k2
     level: silver
   - id: 2016-xero
     level: silver
   - id: 2016-solnet
     level: silver
+  - id: thoughtworks-gocd-before-20190213
+    level: silver
+  - id: flux-PS
+    level: silver
+  - id: chef
+    level: silver
+  - id: fairfax
+    level: silver
   - id: datacom
+    level: bronze
+  - id: SECTION6
+    level: evening
+  - id: icagile
+    level: bronze
+  - id: 2016-bnz
+    level: venue
+  - id: techday
+    level: media
+  - id: microsoftnz
     level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops
  #   level: community
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
   - id: gold
     label: Gold
 #    max: 10
@@ -108,8 +142,187 @@ sponsor_levels:
 #  - id: lanyard
 #    label: Lanyard
 #    max: 1
-#  - id: evening
-#    label: Fun Evening Event
-#    max: 1
+  - id: media
+    label: Media
+    max: 1
+  - id: evening
+    label: Fun Evening Event
+    max: 1
 #  - id: community
 #    label: Community
+program:
+  - title: "Registration, Coffee/Tea, and Sponsors"
+    type: custom
+    date: 2017-10-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-03
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "anthony-rees"
+    type: talk
+    date: 2017-10-03
+    start_time: "09:10"
+    end_time: "09:45"
+  - title: "john-bowker"
+    type: talk
+    date: 2017-10-03
+    start_time: "09:50"
+    end_time: "10:25"
+  - title: "Open Space Intro, Topics and Timeslots"
+    type: open-space
+    date: 2017-10-03
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "Morning Tea"
+    type: custom
+    date: 2017-10-03
+    start_time: "10:45"
+    end_time: "11:10"
+  - title: "anthony-angell"
+    type: talk
+    date: 2017-10-03
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "Open Space room assignments"
+    type: open-space
+    date: 2017-10-03
+    start_time: "11:45"
+    end_time: "11:50"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2017-10-03
+    start_time: "11:50"
+    end_time: "12:30"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-03
+    start_time: "12:30"
+    end_time: "13:30"
+  - title: "Open Space room assignments"
+    type: open-space
+    date: 2017-10-03
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2017-10-03
+    start_time: "13:35"
+    end_time: "14:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2017-10-03
+    start_time: "14:20"
+    end_time: "15:00"
+  - title: "Afternoon Tea"
+    type: custom
+    date: 2017-10-03
+    start_time: "15:00"
+    end_time: "15:25"
+  - title: "lindsay-holmwood"
+    type: talk
+    date: 2017-10-03
+    start_time: "15:25"
+    end_time: "16:00"
+  - title: "aurynn-shaw"
+    type: talk
+    date: 2017-10-03
+    start_time: "16:05"
+    end_time: "16:50"
+  - title: "Day 1 Closing & Fun night info"
+    type: custom
+    date: 2017-10-03
+    start_time: "16:50"
+    end_time: "16:55"
+  - title: "Fun Evening Program"
+    type: custom
+    date: 2017-10-03
+    start_time: "17:00"
+    end_time: "21:30"
+  - title: "Registration, Coffee/Tea, and Sponsors"
+    type: custom
+    date: 2017-10-04
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-10-04
+    start_time: "09:00"
+    end_time: "09:05"
+  - title: "michael-cote"
+    type: talk
+    date: 2017-10-04
+    start_time: "09:05"
+    end_time: "09:40"
+  - title: "sajeewa-dayaratne"
+    type: talk
+    date: 2017-10-04
+    start_time: "09:45"
+    end_time: "10:20"
+  - title: "Open Space Topics & Timeslots"
+    type: open-space
+    date: 2017-10-04
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "Morning Tea"
+    type: custom
+    date: 2017-10-04
+    start_time: "10:30"
+    end_time: "10:55"
+  - title: "marcus-bristol"
+    type: talk
+    date: 2017-10-04
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "Open Space Room Assignments"
+    type: open-space
+    date: 2017-10-04
+    start_time: "11:30"
+    end_time: "11:35"
+  - title: "Open Space #4"
+    type: open-space
+    date: 2017-10-04
+    start_time: "11:35"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: 2017-10-04
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Open Space Room Assignments"
+    type: open-space
+    date: 2017-10-04
+    start_time: "13:15"
+    end_time: "13:20"
+  - title: "Open Space #5"
+    type: open-space
+    date: 2017-10-04
+    start_time: "13:20"
+    end_time: "14:00"
+  - title: "Open Space #6"
+    type: open-space
+    date: 2017-10-04
+    start_time: "14:05"
+    end_time: "14:45"
+  - title: "Afternoon Tea"
+    type: custom
+    date: 2017-10-04
+    start_time: "14:45"
+    end_time: "15:10"
+  - title: "alison-polton-simon"
+    type: talk
+    date: 2017-10-04
+    start_time: "15:10"
+    end_time: "15:45"
+  - title: "sanjeev-sharma"
+    type: talk
+    date: 2017-10-04
+    start_time: "15:50"
+    end_time: "16:35"
+  - title: "Conference Closing"
+    type: custom
+    date: 2017-10-04
+    start_time: "16:35"
+    end_time: "16:45"

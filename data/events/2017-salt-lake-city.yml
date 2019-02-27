@@ -78,9 +78,9 @@ sponsors:
     level: blackdiamond
   - id: hpe
     level: bluesquare
-  - id: influxdata
+  - id: influxdata-before-20171218
     level: bluesquare
-  - id: victorops
+  - id: victorops-before-20180823
     level: bluesquare
   - id: logz-before-20170613
     level: blackdiamond
@@ -93,13 +93,13 @@ sponsors:
   - id: opsgenie
     level: bluesquare
     url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_SLC_%20May&utm_medium=banner
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: bluesquare
   - id: elastic
     level: blackdiamond
   - id: netapp
     level: blackdiamond
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: bluesquare
   - id: chef
     level: bluesquare

@@ -67,6 +67,8 @@ sponsors:
     level: platinum
   - id: chef
     level: gold
+  - id: docker
+    level: gold
   - id: ibm
     level: gold
   - id: netapp
@@ -81,8 +83,18 @@ sponsors:
     level: gold
   - id: extron
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: ca_tech
+    level: gold
+  - id: ally
+    level: silver
+  - id: platform9
+    level: silver
+  - id: sjtechcorp
+    level: silver
   - id: triangledevops
     level: community
   - id: spreedly

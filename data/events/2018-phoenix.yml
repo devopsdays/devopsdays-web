@@ -1,0 +1,226 @@
+name: "2018-phoenix" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Phoenix" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysphx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Phoenix!" # Edit this to suit your preferences
+ga_tracking_id: "UA-122312566-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00#
+startdate: 2018-10-23T00:00:00-07:00
+enddate: 2018-10-23T23:59:59-07:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+#cfp_date_start: 2018-07-01 # start accepting talk proposals.
+#cfp_date_end: 2018-07-31 # close your call for proposals.
+#cfp_date_announce:  # inform proposers of status
+
+cfp_open: "false"
+#cfp_link: https://www.papercall.io/devopsday-phoenix-2018 #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+
+registration_date_start: 2018-07-15 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-22 # close registration. Leave blank if registration is not open yet.
+
+# registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+# registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "33.448377, -112.074037" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Galvanize" # Defaults to city, but you can make it the venue name.
+#
+location_address: "515 E Grant St, Phoenix, AZ 8500" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jonathan Lowsley"
+  - name: "Tomasz Stechly"
+  - name: "Stephen Kuenzli"
+  - name: "Jeff Nickoloff"
+  - name: "Portia Dean"
+  - name: "Jill Rouleau"
+  - name: "Justin James"
+  - name: "Bryan Maamo"
+  - name: "Chris Huie"
+
+organizer_email: "organizers-phoenix-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-phoenix-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: sumologic-before-20181203
+    level: gold
+  - id: vincentbenjamin
+    level: lanyard 
+  - id: new-context
+    level: bronze
+  - id: arresteddevops
+    level: community
+  - id: qualimente
+    level: community
+  - id: mesosphere
+    level: gold
+  - id: isos
+    level: gold
+  - id: chef 
+    level: gold
+  - id: allstate
+    level: gold
+  - id: cloudbolt
+    level: silver
+  - id: hiringsolved
+    level: bronze
+  - id: googlecloud
+    level: gold
+  - id: inedo
+    level: silver
+  - id: the-larry-phx
+    level: community
+  - id: tibco
+    level: silver
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+  - id: happy-hour 
+    label: Happy Hour
+  - id: lanyard 
+    label: Lanyard
+  - id: coffee 
+    label: Coffee
+  - id: breakfast 
+    label: Breakfast
+  - id: lunch 
+    label: Lunch 
+  - id: snack 
+    label: Snack 
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-10-23
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-10-23
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kolton-andrus"
+    type: talk
+    date: 2018-10-23
+#    start_time: "11:20"
+#    end_time: "11:50"
+  - title: "andy-lowe"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:15"
+#    end_time: "09:45"
+  - title: "carlos-nunez"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:55"
+#    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-10-23
+#    start_time: "10:25"
+#    end_time: "10:40"
+  - title: "cat-swetel"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-10-23
+#    start_time: "11:10"
+#    end_time: "11:20"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2018-10-23
+#    start_time: "11:20"
+#    end_time: "11:50"
+  - title: "hattan-shobokshi"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:55"
+#    end_time: "10:25"
+  - title: "jasmine-hegman"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "Break"
+    type: custom
+    date: 2018-10-23
+#    start_time: "10:25"
+#    end_time: "10:40"
+  - title: "mark-gunnels"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "matt-williams"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "nick-willever"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "rob-richardson"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "stephen-kuenzli"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "wes-novack"
+    type: talk
+    date: 2018-10-23
+#    start_time: "10:40"
+#    end_time: "11:10"
+  - title: "christian-posta"
+    type: talk
+    date: 2018-10-23
+#    start_time: "09:15"
+#    end_time: "09:45"
+  - title: "Closing"
+    type: custom
+    date: 2018-10-23
+    start_time: "16:45"
+    end_time: "17:00"

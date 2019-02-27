@@ -30,7 +30,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
 #    url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-  - name: register
+#  - name: register
   - name: sponsor
   - name: contact
   - name: conduct
@@ -56,9 +56,9 @@ proposal_email: "proposals-toronto-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
-  - id: deloitte
+  - id: deloitte-before-20180401
     level: gold
   - id: pivotal
     level: gold
@@ -66,17 +66,17 @@ sponsors:
     level: gold
   - id: capitalonecanada
     level: gold
-  - id: blendedperspectives
+  - id: blendedperspectives-before-20190221
     level: gold
   - id: loyaltyone
     level: gold
   - id: cloudops
     level: gold
-  - id: trinimbus
+  - id: trinimbus-before-20180524
     level: gold
   - id: circleci
     level: happyhour
-  - id: sourcedgroup
+  - id: sourcedgroup-before-20190219
     level: lunch
   - id: dealer-fx
     level: bronze
@@ -97,7 +97,7 @@ sponsors:
     level: gold
   - id: redhat
     level: silver
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: lunch
   - id: pagerduty
     level: gold

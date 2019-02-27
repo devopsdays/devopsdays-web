@@ -1,0 +1,237 @@
+name: "2018-baltimore"
+year: "2018"
+city: "Baltimore"
+event_twitter: "DevOpsDaysBmore"
+description: "Devopsdays is coming to Baltimore!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-03-22T00:00:00-04:00
+enddate: 2018-03-23T23:59:59-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2017-12-04T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-01-07T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2018-01-15T00:00:00-05:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://devopsdaysbaltimore2018.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2017-12-04T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-03-24T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysbaltimore2018.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "39.286400, -76.605606" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Baltimore" # Defaults to city, but you can make it the venue name.
+#
+location_address: "701 E Pratt St., Baltimore, MD 21202" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: registration
+  - name: program
+    url: https://devopsdaysbaltimore2018.busyconf.com/schedule
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Delali Dzirasa"
+    role:  "Chairperson"
+    image: "delali-dzirasa.jpg"
+    employer: "Fearless Solutions"
+    github: "deld"
+    linkedin: "https://www.linkedin.com/in/delalidzirasa/"
+    facebook:  "https://www.facebook.com/delalid"
+    website: "http://fearless.tech"
+    twitter: "DelaliDzirasa"
+    bio: "Delali is Founder and President of Fearless Solutions, a software firm based out of Baltimore. Delali is a Certified Scrum Master and PMP® with a decade of experience leading agile software teams and programs. Delali graduated with a B.S. in Computer Engineering from UMBC in 2004. Delali always had a passion for entrepreneurship, and after working at a handful of technology firms, he founded Fearless in 2009.
+
+Delali strives to make a difference in technology and his surrounding community. He currently resides in Baltimore City with his family, where he is passionate about increasing the rate of city youth heading into STEM based fields."
+  - name: "Annie Barrow"
+    employer: "Fearless Solutions"
+    github: "abarrow1"
+    linkedin: "https://www.linkedin.com/in/annie-barrow-345014125/"
+    website: "http://fearless.tech"
+  - name: "Arlene Barrow"
+    employer: "Fearless Solutions"
+    github: "arlenebarrow"
+    linkedin: "https://www.linkedin.com/in/arlenebarrow/"
+    website: "http://fearless.tech"
+  - name: "Charles Bushong"
+    employer: "Fearless Solutions"
+    twitter: "totalnerd"
+    github: "bushong1"
+    linkedin: "https://www.linkedin.com/in/charles-bushong"
+    image: "charles-bushong.jpg"
+    website: "https://fearless.tech"
+  - name: "Meghan Butler"
+    employer: "Fearless Solutions"
+    github: "megbutler"
+    linkedin: "https://www.linkedin.com/in/meghancbutler/"
+    website: "http://fearless.tech"
+    twitter: "_mcbee13"
+  - name: "Kevin Chung"
+    employer: "Under Armour"
+    github: "KRS-One"
+    website: "https://www.underarmour.com"
+  - name: "Nathen Harvey"
+    employer: "Chef"
+    twitter: "nathenharvey"
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
+  - name: "Rajiv Kadayam"
+    employer: "eGlobalTech"
+    github: "rkadayam"
+    linkedin: "https://www.linkedin.com/in/rajivkadayam/"
+    website: "https://www.eglobaltech.com"
+    twitter: "rkadayam"
+  - name: "Kelsey Krach"
+  - name: "Ramez Mourad"
+    employer: "Cvent"
+    twitter: "ramezjm"
+  - name: "Sameet Nasnodkar"
+  - name: "John Priest"
+  - name: "Shannon Shepherd"
+    employer: "Fearless Solutions"
+    linkedin: "www.linkedin.com/in/shannon-shepherd315"
+    website: "http://fearless.tech"
+    twitter: "ca77vette"
+  - name: "Chris Stone"
+  - name: "Robert Treat"
+    employer: "OmniTI"
+    github: "xzilla"
+    website: "https://omniti.com"
+    twitter: "robtreat2" 
+  - name: "Ryan Wetzelberger"
+  - name: "Nicole Yancey"
+
+organizer_email: "organizers-baltimore-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-baltimore-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: bwtech
+    level: community
+  - id: jhtvfastforward
+    level: community
+  - id: betamore
+    level: community
+  - id: etcbaltimore
+    level: community
+  - id: baltimorepostgresql
+    level: community
+  - id: groundfloor
+    level: community
+  - id: harborlaunch
+    level: community
+  - id: consciousventurelabs
+    level: community
+  - id: tu-incubator
+    level: community
+  - id: aging-2-0-baltimore
+    level: community
+  - id: perfbytes
+    level: community
+  - id: code-in-the-schools
+    level: community
+  - id: spark
+    level: community
+  - id: technically-baltimore
+    level: media
+  - id: opsgenie
+    level: gold
+  - id: sonatype-before-20190121
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: swamp
+    level: gold
+  - id: datadog
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: circonus
+    level: gold
+  - id: "540"
+    level: gold
+  - id: hashicorp
+    level: gold
+  - id: appdynamics-before-20190121
+    level: platinum
+  - id: scalyr
+    level: platinum
+  - id: fearless-before-20180801
+    level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: gitlab
+    level: platinum
+  - id: instana
+    level: platinum
+  - id: devopsdaysdc
+    level: platinum
+  - id: usds-before-20180516
+    level: platinum
+  - id: nutanix
+    level: platinum
+  - id: onyx-point
+    level: happyhour
+  - id: collabnet-versionone
+    level: happyhour
+  - id: asymmetrik
+    level: silver
+  - id: acesinc
+    level: silver
+  - id: metricly
+    level: silver
+  - id: elevenpeppers
+    level: silver
+  - id: bixal
+    level: silver
+  - id: clarity
+    level: silver
+  - id: wortech
+    level: silver
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: media
+    label: Media
+  - id: community
+    label: Community
+    max: 13

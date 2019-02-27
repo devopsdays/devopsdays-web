@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "How to make a Unicorn: Finding Cybersecurity Talent in the Real World"
 Type = "talk"
 Speakers = ["franklin-mosley"]
-Youtube = ""
+Youtube = "taVe41KwVf0"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/FranklinMosley/how-to-make-a-unicorn-finding-cybersecurity-talent-in-the-real-world"
 Slides = ""
 Website = "https://www.linkedin.com/in/franklinmosley"
 +++

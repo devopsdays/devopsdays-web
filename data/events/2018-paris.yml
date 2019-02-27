@@ -1,0 +1,136 @@
+name: "2018-paris" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Paris" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsrex" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "La conférence devops 100% retour d’expérience" # Edit this to suit your preferences
+ga_tracking_id: "UA-81620980-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-10-16T00:00:00+02:00
+enddate: 2018-10-16T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-04-02T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2018-06-15T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2018-09-05T00:00:00+02:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.devopsrex.fr/proposer-un-talk/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-08-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-10-16T12:00:00+02:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.devopsrex.fr/#sinscrire" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "48.870564, 2.347487" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Paris" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Grand Rex, Boulevard Poissonnière, Paris" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+    url: https://www.devopsrex.fr/#lelieu
+  - name: registration
+  - name: program
+    url: https://www.devopsrex.fr/programme-2018/
+  - name: speakers
+    url: https://www.devopsrex.fr/#speakers
+  - name: sponsor
+    url: https://www.devopsrex.fr/devenir-sponsor/
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jonathan Clarke"
+    employer: "Normation"
+    twitter: "jooooooon42"
+    bio: ""
+  - name: "Valentin Napoli"
+    employer: "Normation"
+    twitter: ""
+    bio: ""
+  - name: "Daniel Maher"
+    twitter: "phrawzty"
+    employer: "Datadog"
+    bio: ""
+organizer_email: "organizers-paris-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "cfp@devopsrex.fr" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: ca_tech
+    level: platinum
+  - id: ibm
+    level: platinum
+  - id: rudder
+    level: platinum
+  - id: admantic
+    level: gold
+  - id: aneo
+    level: gold
+  - id: artifaktio
+    level: gold
+    url: https://bit.ly/2HGGrvk
+  - id: pivotal
+    level: gold
+  - id: projixi-europe
+    level: gold
+    url: https://bit.ly/2LPgMy7
+  - id: sonatype-before-20190121
+    level: gold
+  - id: worteks
+    level: gold
+  - id: compuware
+    level: silver
+    url: http://compuware.com/fr/solutions-logicielles-mainframe/
+  - id: datadog
+    level: silver
+  - id: drops
+    level: silver
+  - id: extia
+    level: silver
+  - id: its-group
+    level: silver
+  - id: objectif-libre
+    level: silver
+  - id: pagerduty
+    level: silver
+  - id: smile
+    level: silver
+    url: https://www.smile.eu/fr
+  - id: talentio
+    level: silver
+  - id: tricentis
+    level: silver
+    url: https://bit.ly/2PTlihN
+  - id: xebialabs
+    level: silver
+    url: https://bit.ly/1Yo4ZcI
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: media
+    label: Médias

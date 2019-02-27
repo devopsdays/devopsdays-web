@@ -1,0 +1,261 @@
+name: "2018-chattanooga" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Chattanooga" # The displayed city name of the event. Capitalize it.
+event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Chattanooga, Tennessee!" # Edit this to suit your preferences
+ga_tracking_id: "UA-122945114-1"
+event_group: "Chattanooga"
+
+masthead_background: "chattanooga-masthead.jpg"
+
+# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-11-13T00:00:00-05:00
+enddate: 2018-11-13T23:59:59-05:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-08-10T00:00:00-04:00  # start accepting talk proposals.
+cfp_date_end: 2018-09-20T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-10-04T00:00:00-04:00 # inform proposers of status
+
+cfp_open: false
+cfp_link: "https://www.papercall.io/devopsdayschattanooga" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-08-10T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-12T00:00:00-05:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://chadevopsdays.ticketspice.com/devopsdays-chattanooga" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chattanooga Convention Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "1150 Carter St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  - name: program
+  - name: speakers
+  - name: registration
+  - name: sponsor
+  - name: location
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Alex Herweyer"
+    image: "alex-herweyer.jpg"
+    linkedin: "https://www.linkedin.com/in/alex-herweyer-93374519"
+    github: "alexherweyer"
+  - name: "Cosette Newberry"
+    image: "cosette-newberry.jpg"
+    linkedin: "https://www.linkedin.com/in/cosettenewberry"
+  - name: "Rob Scott"
+    image: "rob-scott.jpg"
+    twitter: "robertjscott"
+    github: "robscott"
+  - name: "Marla Ilona"
+    image: "marla-ilona.jpg"
+  - name: "Chris Hurst"
+    image: "chris-hurst.jpg"
+
+organizer_email: "organizers-chattanooga-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-chattanooga-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: bcbst
+    level: diamond
+  - id: unum
+    level: diamond
+  - id: tva
+    level: platinum
+  - id: chatech
+    level: platinum
+  - id: epb
+    level: platinum
+  - id: chef
+    level: gold
+  - id: redhat
+    level: gold
+  - id: infosystems
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: sonatype-before-20190121
+    level: gold
+  - id: appdynamics-before-20190121
+    level: gold
+  - id: puppet
+    level: gold
+  - id: perficient
+    level: silver
+  - id: nutanix
+    level: bronze
+  - id: teksystems
+    level: bronze
+    twitter: teksystems
+  - id: reactiveops
+    level: bronze
+  - id: stratusgrid
+    level: bronze
+  - id: crysdesigns
+    level: community
+
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: diamond
+    label: Diamond
+    max: 2
+  - id: platinum
+    label: Platinum
+    max: 2
+  - id: gold
+    label: Gold
+    max: 7
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "john-willis"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:00"
+    end_time: "10:05"
+  - title: "debbie-levitt"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Break"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:35"
+    end_time: "10:50"
+  - title: "scott-callicutt"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "11:20"
+    end_time: "11:25"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Open Space Intro"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "11:55"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "12:10"
+    end_time: "13:20"
+  - title: "Lightning Talks"
+    type: ignite
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "13:20"
+    end_time: "14:00"
+  - title: "m-scott-ford"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:00"
+    end_time: "14:35"
+  - title: "chris-corriere"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "14:35"
+    end_time: "15:10"
+  - title: "Break"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:10"
+    end_time: "15:25"
+  - title: "chris-rimondi"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "15:55"
+    end_time: "16:00"
+  - title: "jessica-deen"
+    type: talk
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing Remarks"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "After Party Sponsored by Chef and Perficient"
+    type: custom
+    date: 2018-11-13T00:00:00-05:00
+    start_time: "17:00"
+    end_time: "18:30"
+
+ignites:
+- title: "james-dean"
+  date: 2018-11-13T00:00:00-05:00
+- title: "josh-davis"
+  date: 2018-11-13T00:00:00-05:00
+- title: "marcus-young"
+  date: 2018-11-13T00:00:00-05:00
+- title: "ravi-lachman"
+  date: 2018-11-13T00:00:00-05:00
+- title: "summer-prince"
+  date: 2018-11-13T00:00:00-05:00
+- title: "kenn-kitchen"
+  date: 2018-11-13T00:00:00-05:00

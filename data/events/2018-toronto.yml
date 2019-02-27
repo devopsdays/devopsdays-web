@@ -1,0 +1,371 @@
+name: "2018-toronto" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Toronto" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysTO" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Be part of the fifth devopsdays Toronto!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate:  2018-05-30T00:00:00-04:00
+enddate: 2018-05-31T23:59:59-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2017-12-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end:  2018-02-02T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2018-02-23T00:00:00-05:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/2018-toronto" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-01-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-05-29T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "43.654155,-79.385211" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Chestnut Conference Centre" # Defaults to city, but you can make it the venue name.
+#
+location_address: "89 Chestnut Street, Toronto, ON, M5G 1R1" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: location
+ # - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Steve Pereira"
+    twitter: "SteveElsewhere"
+  - name: "Erik Levinson"
+    twitter: "levinson0"
+  - name: "Chris Little"
+    twitter: "whatschrisdoing"
+  - name: "Abeer Rahman"
+    twitter: "abeer486"
+  - name: "Amy Mansell"
+    twitter: "ae_mansell"
+organizer_email: "organizers-toronto-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-toronto-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: thoughtworks-gocd-before-20190213
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: trinimbus
+    level: gold
+  - id: 1password
+    level: gold
+  - id: influxdata
+    level: silver
+  - id: scalar
+    level: silver
+  - id: hashicorp
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: puppet
+    level: silver
+  - id: victorops-before-20180823
+    level: gold
+  - id: capitalonecanada
+    level: gold
+  - id: loyaltyone
+    level: gold
+  - id: deloitte
+    level: gold
+  - id: servicenow-before-20180620
+    level: bronze
+  - id: highvail
+    level: gold
+  - id: blendedperspectives-before-20190221
+    level: silver
+  - id: sourcedgroup-before-20190219
+    level: silver
+  - id: sourcedgroup-before-20190219
+    level: lanyard
+  - id: cloudbees
+    level: silver
+  - id: cgi
+    level: platinum
+  - id: sonatype-before-20190121
+    level: silver
+  - id: pagerduty
+    level: gold
+  - id: f5
+    level: gold
+  - id: ivedha
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: launch-darkly
+    level: silver
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 11
+  - id: silver
+    label: Silver
+    max: 10 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: happyhour
+    label: Happy Hour
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
+  - id: bronze
+    label: Bronze
+    max: 5
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-05-30
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-05-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "steve-pereira"
+    type: talk
+    date: 2018-05-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-30
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "shawn-sterling"
+    type: talk
+    date: 2018-05-30
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "catherine-proulx"
+    type: talk
+    date: 2018-05-30
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-30
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "chris-short"
+    type: talk
+    date: 2018-05-30
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-30
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "emily-freeman"
+    type: talk
+    date: 2018-05-30
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-30
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "kris-nova"
+    type: workshop
+    date: 2018-05-30
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-30
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-05-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "matt-williams"
+    type: workshop
+    date: 2018-05-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2018-05-30
+    start_time: "16:45"
+    end_time: "17:30"
+  - title: "Evening event at Duke of Cornwall"
+    type: custom
+    date: 2018-05-30
+    start_time: "17:30"
+    end_time: "20:30"
+    comments: "Located at 400 University Avenue"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-05-31
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-05-31
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "nicole-forsgren"
+    type: talk
+    date: 2018-05-31
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-31
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "john-arthorne"
+    type: talk
+    date: 2018-05-31
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-31
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "jason-yee"
+    type: talk
+    date: 2018-05-31
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-31
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2018-05-31
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-31
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-31
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "jonathan-le-lous"
+    type: talk
+    date: 2018-05-31
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-31
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-31
+    start_time: "14:20"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2018-05-31
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "clay-smith"
+    type: workshop
+    date: 2018-05-31
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Break and 3:45 pm raffle in main ballroom"
+    type: custom
+    date: 2018-05-31
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2018-05-31
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "jason-harley-2"
+    type: workshop
+    date: 2018-05-31
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-05-31
+    start_time: "16:45"
+    end_time: "17:30"
+
+ignites:
+  - title: "augusto-rosa"
+    date: 2018-05-30
+  - title: "simon-woodside"
+    date: 2018-05-30
+  - title: "karen-odegaard"
+    date: 2018-05-30
+  - title: "jason-harley"
+    date: 2018-05-31
+  - title: "christine-rohacz"
+    date: 2018-05-31
+  - title: "donald-donovan"
+    date: 2018-05-30
+  - title: "fawzy-manaa"
+    date: 2018-05-31
+  - title: "matty-stratton"
+    date: 2018-05-31

@@ -3,8 +3,9 @@ year: 2009
 city: Ghent
 friendly: 2009-ghent
 status: past
-startdate: 2009-01-01
-enddate: 2009-01-02
+event_group: "Ghent"
+startdate: 2009-10-30
+enddate: 2009-10-31
 coordinates: "47.609895, -122.330259"
 navigationelements: ["welcome", "contact","location", "conduct","sponsor"]
 sponsors:

@@ -23,10 +23,8 @@ location: "The Society Room" # Defaults to city, but you can make it the venue n
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: program
-  - name: propose
-    url: https://www.papercall.io/devopsdays-hartford-2017 # The url setting is optional, and only if you want the navigation to link off-site
+  - name: registration
   - name: location
-#  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -60,16 +58,32 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: victorops
+  - id: pagerduty
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: victorops-before-20180823
+    level: silver
+  - id: cyberark-before-20180203
+    level: silver
+  - id: netapp
     level: silver
   - id: arresteddevops
     level: community
-  - id: victorops
+  - id: victorops-before-20180823
     level: mug
   - id: code-monkey
     level: community
   - id: phishme
     level: bronze
+  - id: sonatype-before-20190121
+    level: bronze
+  - id: checkmarx
+    level: bronze
+  - id: newrelic
+    level: bronze
+  - id: stickermule
+    level: stickers
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -92,6 +106,8 @@ sponsor_levels:
     max: 4
   - id: community
     label: Community
+  - id: stickers
+    label: Stickers
 
 program:
   - title: Registration Opens
@@ -179,11 +195,11 @@ program:
     date: 2017-10-10
     start_time: "16:55"
     end_time: "17:00"
-  - title: Evening Happy Hour @ The Society Room
+  - title: Evening Happy Hour @ The Society Room w/ Board Games by The Portal
     type: custom
     date: 2017-10-10
     start_time: "17:00"
-    end_time: "20:00"
+    end_time: "19:00"
 
   - title: "Registration Opens"
     type: custom

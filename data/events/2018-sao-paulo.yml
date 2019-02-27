@@ -1,0 +1,441 @@
+name: "2018-sao-paulo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "São Paulo" # The displayed city name of the event. Capitalize it.
+event_twitter: "sp_devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays está chegando em São Paulo!" # Edit this to suit your preferences
+ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "São Paulo"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-06-06T00:00:00-03:00
+enddate: 2018-06-07T23:59:59-03:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-02-14T00:00:00-02:00 # start accepting talk proposals.
+cfp_date_end: 2018-03-30T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2018-04-09T00:00:00-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-03-01T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-05-31T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: -23.573376, -46.649632 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel Century Paulista" # Defaults to city, but you can make it the venue name.
+location_address: "Rua Teixeira da Silva, 637 / 647 - Paraíso - São Paulo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: Chamadas (CFP)
+    url: /events/2018-sao-paulo/cfp
+    icon: "microphone"
+  - name: local
+    icon: "map-o"
+  - name: ingressos
+    icon: "pencil"
+    url: /events/2018-sao-paulo/registration
+
+  - name: programação
+    icon: "book"
+    url: /events/2018-sao-paulo/program
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2018-sao-paulo/speakers
+
+  - name: patrocínio
+    url: /events/2018-sao-paulo/sponsor
+    icon: "money"
+  - name: contato
+    icon: "envelope-o"
+  - name: código de conduta
+    url: /events/2018-sao-paulo/conduta
+    icon: "handshake-o"
+
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bruno Dantas"
+    employer: "Safra"
+    image: "bruno-dantas.jpg"
+    twitter: "bdantasnet"
+    bio: "Developer by occupation, security officer by obligation."
+    linkedin: "https://www.linkedin.com/in/bdantas/"
+
+  - name: "Daniela Vieira"
+    employer: "VR Benefícios"
+    image: "dani-vieira.jpg"
+    twitter: "danivieira"
+    bio: "Enabling companies to develop testing capabilities across DevOps."
+    linkedin: "https://www.linkedin.com/in/daniela-vieira-4680aa9/"
+
+  - name: "Fernando Ike"
+    employer: "QuintoAndar"
+    image: "fernando-ike.jpg"
+    twitter: "fernandoike"
+    bio: "DevOps Engineer, Na Estrada DevOps host and zombie hunter."
+    linkedin: "https://www.linkedin.com/in/fernandoike/"
+
+  - name: "Karoline Leite"
+    employer: "Creditas"
+    image: "karoline-leite.jpg"
+    twitter: "karolineleite"
+    bio: "Software Quality Engineer. In charge of Test Girls community. Agile testing, DevOps and good trips."
+    linkedin: "https://www.linkedin.com/in/karolxavierleite/"
+
+  - name: "Magno Logan"
+    employer: "TecBan"
+    image: "magnologan.jpg"
+    twitter: "magnologan"
+    bio: "Application Security Specialist and Secure Development Consultant. DevSecOps Enthusiast."
+    linkedin: "https://www.linkedin.com/in/magnologan"
+
+  - name: "Rafael Gomes"
+    employer: "Crossover"
+    image: "gomex.jpg"
+    twitter: "gomex"
+    bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
+    linkedin: "https://www.linkedin.com/in/rbgomes/"
+
+  - name: "Wellington F. Silva"
+    employer: "Easy"
+    image: "wsilva.jpg"
+    twitter: "_wsilva"
+    bio: "IT guy, used to be a drummer, loves to fly, father, speaker, author, coffee and Pizza addicted"
+    linkedin: "https://www.linkedin.com/in/wfsilva/"
+
+organizer_email: "organizers-sao-paulo-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-sao-paulo-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: agilitynetworks
+    level: platinum
+  - id: 2018-rancher
+    level: platinum
+  - id: globalweb
+    level: platinum
+  - id: bluedigital
+    level: happy_hour
+  - id: brq
+    level: gold
+  - id: vmware
+    level: gold
+  - id: nubank
+    level: silver  
+  - id: getupcloud
+    level: silver
+  - id: creditas
+    level: silver
+  - id: agenciagnu
+    level: silver
+  - id: avenue-code
+    level: bronze
+  - id: timbira
+    level: bronze
+  - id: 4linux
+    level: bronze
+  - id: kinghost
+    level: bronze
+  - id: arresteddevops
+    level: community
+  - id: 10deploys
+    level: community
+  - id: prometheusbr
+    level: community
+  - id: papo-de-sysadmin
+    level: community
+  - id: test-girls
+    level: community
+  - id: qaladies
+    level: community
+  - id: linuxtips
+    level: community
+  - id: femmeit
+    level: community
+  - id: giodesigner
+    level: community
+  - id: easytaxi
+    level: community
+  - id: vbrownbagbrasil
+    level: community
+
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 2
+  - id: happy_hour
+    label: Happy Hour
+    max: 1
+  - id: gold
+    label: Ouro
+    max: 4
+  - id: silver
+    label: Prata
+    max: 6 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Comunidade
+
+program:
+  - title: "Credenciamento e recepção"
+    type: custom
+    date: "2018-06-06"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-06-06"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "donovan-brown"
+    type: talk
+    date: "2018-06-06"
+    start_time: "9:30"
+    end_time: "10:15"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-06"
+    start_time: "10:15"
+    end_time: "10:40"
+  
+  - title: "bruno-tavares"
+    type: talk
+    date: "2018-06-06"
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "eric-magalhes"
+    type: talk
+    date: "2018-06-06"
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "marcell-castelo-branco"
+    type: talk
+    date: "2018-06-06"
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-06-06"
+    start_time: "12:10"
+    end_time: "13:30"
+
+  - title: "gustavo-pantuza"
+    type: talk
+    date: "2018-06-06"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "joo-brito"
+    type: talk
+    date: "2018-06-06"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "rafael-barbosa"
+    type: talk
+    date: "2018-06-06"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-06"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2018-06-06"
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "vanessa-gomes"
+    type: talk
+    date: "2018-06-06"
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "natalia-manha"
+    type: talk
+    date: "2018-06-06"
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "luana-linares"
+    type: talk
+    date: "2018-06-06"
+    start_time: "17:00"
+    end_time: "17:30"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2018-06-06"
+    start_time: "18:00"
+    end_time: "20:00"
+
+  # - title: "Open Space"
+  #   type: open-space
+  #   date: "2018-06-06"
+  #   start_time: "10:40"
+  #   end_time: "17:00"
+
+# Dia 07/07
+
+  - title: "Credenciamento, recepção e patrocinadores"
+    type: custom
+    date: "2018-06-07"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2018-06-07"
+    start_time: "9:00"
+    end_time: "9:20"
+
+  - title: "gustavo-lichti"
+    type: talk
+    date: "2018-06-07"
+    start_time: "9:20"
+    end_time: "9:50"
+
+  - title: "bernd-erk"
+    type: talk
+    date: "2018-06-07"
+    start_time: "9:50"
+    end_time: "10:20"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-07"
+    start_time: "10:20"
+    end_time: "10:50"
+  
+  - title: "kassiana-costa"
+    type: talk
+    date: "2018-06-07"
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "mateus-prado"
+    type: talk
+    date: "2018-06-07"
+    start_time: "11:20"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: "2018-06-07"
+    start_time: "12:10"
+    end_time: "13:30"
+
+  - title: "paulo-gomes-da-cruz-junior"
+    type: talk
+    date: "2018-06-07"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "kelvin-ronny"
+    type: talk
+    date: "2018-06-07"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "carla-crude"
+    type: talk
+    date: "2018-06-07"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2018-06-07"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2018-06-07"
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "rafael-pereira-de-lima"
+    type: talk
+    date: "2018-06-07"
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "amanda-mattos"
+    type: talk
+    date: "2018-06-07"
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "beth-viveiros"
+    type: talk
+    date: "2018-06-07"
+    start_time: "17:00"
+    end_time: "17:45"
+
+  # - title: "Open Space"
+  #   type: open-space
+  #   date: "2018-06-07"
+  #   start_time: "10:40"
+  #   end_time: "17:00"
+
+  - title: "Fechamento"
+    type: custom
+    date: "2018-06-07"
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+
+  - title: "tatiane-paya"
+    date: "2018-06-06"
+  
+  - title: "victor-monteiro"
+    date: "2018-06-06"
+
+  - title: "igor-souza"
+    date: "2018-06-06"
+  
+  - title: "emmanuel-brandao"
+    date: "2018-06-07"
+  
+  - title: "alexandre-stratikopoulos"
+    date: "2018-06-07"
+
+  - title: "ignite-02-01"
+    date: "2018-06-07"
+
+  - title: "ignite-02-02"
+    date: "2018-06-07"

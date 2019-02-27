@@ -1,0 +1,243 @@
+name: "2018-florianopolis"
+year: "2018"
+city: "Florianópolis"
+event_twitter: "devopsdaysfln"
+description: "A revolução já começou!"
+ga_tracking_id: ""
+event_group: "Florianópolis"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-11-24
+enddate: 2018-11-24
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2018-09-01
+cfp_date_end:  2018-10-24
+cfp_date_announce:  2018-11-01
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdays-fln-2018"
+
+registration_date_start: 2018-09-01
+registration_date_end: 2018-11-20
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.sympla.com.br/devopsdays-florianopolis---2018__356131"
+
+# Location
+# The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html.
+coordinates: "-27.4306442, -48.4429707"
+location: "Auditório da Softplan"
+location_address: "Sapiens Parque - Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  #- name: Chamadas (CFP)
+    #icon: "microphone"
+    #url: https://www.papercall.io/devopsdays-fln-2018
+
+  - name: local
+    icon: "map-o"
+    url: /events/2018-florianopolis/location
+
+  - name: ingressos
+    url: /events/2018-florianopolis/registration
+
+  - name: programação
+    url: /events/2018-florianopolis/program
+
+  - name: palestrantes
+    icon: "microphone"
+    url: /events/2018-florianopolis/speakers
+
+  - name: patrocínio
+    icon: "money"
+    url: /events/2018-florianopolis/sponsor
+
+  - name: contato
+    icon: "envelope-o"
+    url: /events/2018-florianopolis/contact
+
+  - name: código de conduta
+    icon: "handshake-o"
+    url: /events/2018-florianopolis/conduct
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Pery Lemke"
+    email: "pery.lemke@gmail.com"
+    twitter: "perylemke"
+    employer: "Nuveo"
+    github: "perylemke"
+    linkedin: "https://www.linkedin.com/in/perylemke"
+    website: "http://www.sudocast.com.br"
+    image: "pery-lemke.jpg"
+
+  - name: "Sérgio Mendonça"
+    email: "sergio.mendonca@gmail.com"
+    employer: "Mettzer"
+    linkedin: "https://www.linkedin.com/in/sergio-mendonca/"
+    image: "sergio-mendonca.jpg"
+
+  - name: "Jhonatan Morais"
+    email: "jhonatancmorais@gmail.com"
+    twitter: "jhonatancmorais"
+    employer: "BRy Tecnologia"
+    linkedin: "https://www.linkedin.com/in/jhonatancmorais/"
+    image: "jhonatan-morais.jpg"
+
+  - name: "Luciano Faustino"
+    email: "lucianoborguetti@gmail.com"
+    employer: "Neoway"
+    github: "lborguetti"
+    twitter: "lborguetti"
+    linkedin: "https://www.linkedin.com/in/luciano-antonio-borguetti-faustino-6444b816/"
+    image: "luciano-faustino.jpg"
+
+  - name: "Christopher Giese"
+    email: "christopher.giese@gmail.com"
+    employer: "Softplan"
+    linkedin: "https://www.linkedin.com/in/christopher-giese-kblo-aba41917/"
+    image: "christopher-giese.jpg"
+
+  - name: "Evaldo Felipe"
+    email: "contato@evaldofelipe.com"
+    twitter: "evaldofelipe"
+    employer: "Neoway"
+    linkedin: "https://www.linkedin.com/in/evaldofelipe/"
+    image: "evaldo-felipe.jpg"
+
+organizer_email: "organizers-floripa-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-floripa-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: sudocast
+    level: community
+  - id: infoqbr
+    level: support
+  - id: softplan
+    level: platinum
+  - id: bry
+    level: silver
+  - id: geekhunterbr
+    level: silver
+  - id: adaptnow
+    level: silver
+  - id: totalvoice
+    level: bronze
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 2
+  - id: silver
+    label: Silver
+    max: 3
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+  - id: support
+    label: Support
+program:
+  - title: "Recepção e credenciamento dos participantes"
+    type: custom
+    date: 2018-11-24
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "Coffee Break matutino"
+    type: custom
+    date: 2018-11-24
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Abertura do evento"
+    type: custom
+    date: 2018-11-24
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "Boas vindas Softplan"
+    type: custom
+    date: 2018-11-24
+    start_time: "09:10"
+    end_time: "09:20"
+  - title: "pedro-marques-da-luz"
+    type: talk
+    date: 2018-11-24
+    start_time: "09:20"
+    end_time: "10:05"
+  - title: "mateus-prado"
+    type: talk
+    date: 2018-11-24
+    start_time: "10:10"
+    end_time: "11:05"
+  - title: "izael-effemberg-thaisa-mirely-silva"
+    type: talk
+    date: 2018-11-24
+    start_time: "11:10"
+    end_time: "11:50"
+  - title: "henrique-bueno"
+    type: talk
+    date: 2018-11-24
+    start_time: "11:55"
+    end_time: "12:35"
+  - title: "Almoço"
+    type: custom
+    date: 2018-11-24
+    start_time: "12:35"
+    end_time: "13:30"
+  - title: "Retorno do almoço e reabertura do evento"
+    type: custom
+    date: 2018-11-24
+    start_time: "13:30"
+    end_time: "13:35"
+  - title: "Espaço dos patrocinadores"
+    type: custom
+    date: 2018-11-24
+    start_time: "13:35"
+    end_time: "14:00"
+  - title: "martin-spier"
+    type: talk
+    date: 2018-11-24
+    start_time: "14:10"
+    end_time: "15:10"
+  - title: "jose-pedro-de-santana-neto-simone-perazzoli"
+    type: talk
+    date: 2018-11-24
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Coffee Break vespertino"
+    type: custom
+    date: 2018-11-24
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "steve-fox"
+    type: talk
+    date: 2018-11-24
+    start_time: "16:35"
+    end_time: "17:15"
+  - title: "Sorteio de brindes"
+    type: custom
+    date: 2018-11-24
+    start_time: "17:20"
+    end_time: "17:40"
+  - title: "Encerramento do evento"
+    type: custom
+    date: 2018-11-24
+    start_time: "17:45"
+    end_time: "18:00"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-11-24
+    start_time: "18:00"
+    end_time: "00:00"

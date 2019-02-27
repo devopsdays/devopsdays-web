@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "A Better Technical Interview"
 Type = "talk"
 Speakers = ["sam-jones"]
+youtube = "t06BfYL-LAw"
 +++
 
 Let's make a valuable interview by setting better expectations and creating better evaluation techniques.

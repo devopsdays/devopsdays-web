@@ -42,7 +42,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: logicmonitor
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: pivotal
     level: gold
@@ -54,7 +54,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: qwinix
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: social
   - id: parasoft
     level: silver
@@ -64,11 +64,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: morpheus
     level: silver
-  - id: digitalocean
+  - id: digitalocean-before-20170726
     level: silver
   - id: rt
     level: silver
-  - id: atlassian
+  - id: atlassian-before-20171216
     level: silver
   - id: regis
     level: silver
@@ -76,7 +76,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: github
     level: silver
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: silver
   - id: tuliva
     level: silver

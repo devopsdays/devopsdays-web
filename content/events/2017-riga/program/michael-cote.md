@@ -4,6 +4,8 @@ Talk_start_time = "11:05"
 Talk_end_time = "11:35"
 Title = "The Death of Enterprise Architecture: defeating the DevOps, microservices, and cloud-native assassins "
 Type = "talk"
+youtube = "LNxT1qhKOMA"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2017-michael-cot-the-death-of-enterprise-architecture-defeating-the-devops-microservices-and-cloudnative-assassins"
 Speakers = ["michael-cote"]
 +++
 

@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Logs & Alerts, Not Just for Ops"
 Type = "talk"
 Speakers = ["kristen-womack"]
-pdf = "http://kristenwomack.io/DevOps-Minneapolis-Ignite-2017"
+pdf = "https://kristenwomack.io/DevOps-Minneapolis-Ignite-2017"
 youtube = "hJZEwvoaymI"
 +++
 

@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor DevOpsDays Singapore 2017"
 +++
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please <a href="mailto:organizers-singapore-2017@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2017">drop us an email</a> or [download the prospectus](https://drive.google.com/open?id=0B07tYym-SQCFUjBSdTFPVVM3Qnc) right away.
+We greatly value sponsors for this open event. If you are interested in sponsoring, please <a href="mailto:organizers-singapore-2017@devopsdays.org?subject=Sponsor DevOpsDays Singapore 2017">drop us an email</a> or [download the prospectus](https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8) right away.
 
 DevOpsDays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute the attendee contact lists.
 
@@ -12,7 +12,7 @@ Sponsors are encouraged to represent themselves by actively participating and en
 
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFUjBSdTFPVVM3Qnc" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## Why Sponsor Us?
 
@@ -55,7 +55,7 @@ Our sponsorship packages are structured around how you can help be part of the c
         <strong>unlimited</strong>
       </td>
       <td style="text-align: center">
-        <strong>6</strong>
+        <strong>2</strong>
         <!--
         <span style="color: red">SOLD OUT</a>
         -->
@@ -114,6 +114,7 @@ Our sponsorship packages are structured around how you can help be part of the c
     </tr>
   </table>
   <small>* Please reach out to us if you would like to purchase workshop passes. We have workshop only special pricing for our sponsors.</small>
+  <a name="additional-packages"></a>
   <h2>ALTERNATIVE SPONSORSHIP OPTIONS</h2>
   <p>In addition to the main sponsorship levels described in the table above, below are the stand-alone sponsorship options that can be purchased alternatively to a core sponsorship package.</p>
   <table class="table table-condensed table-hover">
@@ -132,17 +133,17 @@ Our sponsorship packages are structured around how you can help be part of the c
     <tr>
       <td>Logo on attendee badge
       <td>Your logo will be placed on the attendee name badge. Size and placement to be determined by organizers
-      <td><center>1</center>
+      <td><center><span style="color: red">SOLD OUT</a></center>
       <td>1500&nbsp;SGD
     </tr>
   </table>
 </div>
 
-<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFUjBSdTFPVVM3Qnc" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
+<div style="margin: 1.4em 0 2.4em 0;"><center><a href="https://drive.google.com/open?id=0B07tYym-SQCFaG03WmJ3ZVFkbG8" target="_blank" class="btn btn-primary btn-lg">Download Sponsorship Prospectus</a></center></div>
 
 ## THE SMALL PRINT
 
-WE CANNOT RELEASE ATTENDEE INFORMATION; SIZE & PLACEMENT OF LOGOS VARY ACCORDING TO SPONSORSHIP; PLEASE PROVIDE US WITH A VECTOR / HIGH RESOLUTION LOGO FOR THE PRINT PROGRAM. ALL INCLUDING <a href="https://en.wikipedia.org/wiki/Goods_and_Services_Tax_Singapore" target="_blank">GST</a>.
+WE CANNOT RELEASE ATTENDEE INFORMATION; SIZE & PLACEMENT OF LOGOS VARY ACCORDING TO SPONSORSHIP; PLEASE PROVIDE US WITH A VECTOR / HIGH RESOLUTION LOGO FOR THE PRINT PROGRAM. ALL EXCLUDING <a href="https://en.wikipedia.org/wiki/Goods_and_Services_Tax_Singapore" target="_blank">GST</a>.
 
 TO ALLOW US SUFFICIENT TIME TO PREPARE FOR AND ORGANISE THE MARKETING AND OTHER RELEVANT ACTIVITIES, PLEASE PROVIDE IN A TIMELY MANNER YOUR LOGO AND OTHER RELEVANT MATERIALS OR INFORMATION REQUIRED FOR SUCH PURPOSES.
 

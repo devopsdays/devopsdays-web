@@ -1,0 +1,504 @@
+name: "2018-austin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Austin" # The displayed city name of the event. Capitalize it.
+event_twitter: "DoDAustin" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Austin!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-05-03T00:00:00-05:00
+enddate: 2018-05-04T23:59:59-05:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-02-26T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-01T23:59:59-05:00  # close your call for proposals.
+cfp_date_announce: 2018-05-03T00:00:00-05:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "30.284901,-97.732391" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but you can make it the venue name.
+#
+location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+  - name: keynotes
+  - name: proposals
+  - name: location
+  - name: schedule
+  - name: registration
+ # - name: program
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ernest Mueller"
+    twitter: "ernestmueller"
+    employer: "AlienVault"
+    bio: "Ernest Mueller is Lean Systems Manager at AlienVault in Austin, TX. He organizes the CloudAustin user group, the Agile Austin DevOps SIG, and the DevOpsDays Austin conference, now in its sixth year. Along with his coauthor James, he wrote the DevOps Fundamentals course on lynda.com."
+    github: "ernestm"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/ernestmueller/"
+    image: ""
+  - name: "James Wickett"
+    twitter: "wickett"
+    employer: "Signal Sciences"
+    bio: ""
+    github: "wickett"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/wickett/"
+    image: ""
+  - name: "Karthik Gaekwad"
+    twitter: "iteration1"
+    employer: "Oracle"
+    bio: "I live in Austin, write @golang, and know stuff about burgers, containers and cloud. I organize @dodaustin, @container_days, @cloud_austin and DockerAustin."
+    github: "karthequian"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/kgaekwad/"
+    image: ""
+  - name: "Marisa Sawatphadungkij"
+  - name: "Ian Richardson"
+  - name: "Scott Baldwin"
+    twitter: "scottsbaldwin"
+    employer: "Oracle"
+    bio: "Scott has helped organize DevOps Days Austin since it started in 2012. His primary responsibility is the web site, although he has helped with sponsors in the past. He is currently hacking on Kubernetes at Oracle. He loves teams that care about happiness, vulnerability, and empathy. And he loves tennis."
+    github: "scottsbaldwin"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/scottsbaldwin/"
+    image: ""
+  - name: "Dan Zentgraf"
+    twitter: "danzentgraf"
+    employer: "CA Technologies"
+    bio: "Dan is a long time DevOps evangelist working with very large enterprises. He has been involved in the Agile / Lean / DevOps movement in a number of management, product management, and process consulting roles. In addition to the work stuff, he is active in the Austin community as a DevOpsDays organizer for the last 4 years as well as with the AgileAustin community as a program lead."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/zentgraf/"
+    image: ""
+  - name: "William Hackett"
+    twitter: "wchack"
+    employer: "National Instruments"
+    bio: "UT Grad. Long-time developer at National Instruments.  Currently managing the Cloud Team that was home to a number of the original DevOpsDays-Austin Organizers."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/william-hackett-4228252/"
+    image: ""
+  - name: "Chris Casey"
+  - name: "Boyd Hemphill"
+    twitter: "behemphi"
+    employer: "Victory CTO"
+    bio: "Boyd Hemphill is a DevOps raconteur and thought leader in the silicon hills of Austin Texas. Boyd founded Austin DevOps when he learned this thing he was doing had a name. Boyd also assists with the organization of DevOps Days Austin. In his professional life, Boyd has been a developer (PL/SQL and PHP), DBA (Oracle and MySQL), and system administrator.  He has even been a Director of DevOps and would enjoy you coming to poke fun at him for it."
+    github: "behemphi"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/boydhemphill/"
+    image: ""
+  - name: "Lee Thompson"
+    twitter: "stagr_lee"
+    employer: "AlienVault"
+    bio: "Lee has been an organizer/volunteer for DevOpsDays Austin since its founding and participated in the organization of the first US DevOpsDays event in Mountain View in 2010.  He keeps coming back to DevOpsDays because he still hasn't figured it all out yet.  When not messing with distributed applications, he's messing around with 240Z's and Airstreams."
+    github: "stagrlee"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/leewthompson/"
+    image: ""
+  - name: "Richard Boyd"
+    twitter: "richardboydii"
+    employer: "Bright Health"
+    bio: "Richard is the Senior DevOps Engineer for Bright Health in Austin. He's active in the Austin DevOps community and speaks at Meetups and conferences. In his spare time he enjoys camping and the checking out the local brewery scene."
+    github: "richardboydii"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/richardboydii/"
+    image: ""
+  - name: "Laura Wickett"
+  - name: "Carl Perry"
+organizer_email: "organizers-austin-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-austin-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: victorops-before-20180823
+    level: happyhour
+  - id: scalyr
+    level: lanyard
+  - id: devopsdotcom
+    level: media
+  - id: scalyr
+    level: communityleader
+  - id: appdynamics-before-20190121
+    level: communityleader
+  - id: opsgenie
+    level: communityleader
+  - id: ns1
+    level: communityleader
+  - id: servicenow-before-20180620
+    level: communityleader
+  - id: xmatters
+    level: communityleader
+  - id: sonatype-before-20190121
+    level: communityleader
+  - id: contrast_security
+    level: communityleader
+  - id: ciscodevnet
+    level: communityleader
+  - id: chef
+    level: communityleader
+  - id: cloudbees
+    level: communityleader
+  - id: redhat
+    level: communityleader
+  - id: striveconsulting
+    level: communityleader
+  - id: cloudautomationsolutions
+    level: communityleader
+  - id: sumologic-before-20181203
+    level: communityleader
+  - id: praecipio
+    level: communityleader
+  - id: riverbed
+    level: communityleader
+#  - id: samplesponsorname
+#    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+#  - id: arresteddevops
+#    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: happyhour
+    label: Happy Hour
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: communityleader
+    label: Community Leader
+    max: 20
+  - id: media
+    label: Media
+    max: 1
+
+program:
+  - title: "Registration, Breakfast, Voting"
+    type: custom
+    date: 2018-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:00"
+    end_time: "09:13"
+  - title: "Happy Hour Sponsor"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:13"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "10:00"
+    end_time: "10:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:10"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "10:45"
+    end_time: "10:50"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "10:50"
+    end_time: "11:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "11:25"
+    end_time: "11:30"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:05"
+  - title: "Lunch"
+    type: custom
+    date: 2018-05-03
+    start_time: "12:05"
+    end_time: "12:50"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2018-05-03
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-03
+    start_time: "13:20"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-03
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:15"
+    end_time: "14:40"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "14:40"
+    end_time: "14:45"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:25"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "15:25"
+    end_time: "15:30"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: ""
+    type: talk
+    date: 2018-05-03
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: "Open Space Closing"
+    type: custom
+    date: 2018-05-03
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Chariot Shuttle Service to Happy Hour"
+    type: custom
+    date: 2018-05-03
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Happy Hour"
+    type: custom
+    date: 2018-05-03
+    start_time: "17:30"
+    end_time: "21:30"
+
+  - title: "Breakfast"
+    type: custom
+    date: 2018-05-04
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Introduction"
+    type: custom
+    date: 2018-05-04
+    start_time: "09:00"
+    end_time: "09:13"
+  - title: "Lanyard Sponsor"
+    type: custom
+    date: 2018-05-04
+    start_time: "09:13"
+    end_time: "09:15"
+  - title: ""
+    type: talk
+    date: 2018-05-04
+    start_time: "09:15"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-05-04
+    start_time: "09:50"
+    end_time: "10:10"
+  - title: "Open Space Kickoff"
+    type: custom
+    date: 2018-05-04
+    start_time: "10:20"
+    end_time: "10:55"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-04
+    start_time: "10:55"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-05-04
+    start_time: "11:45"
+    end_time: "12:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-04
+    start_time: "12:30"
+    end_time: "13:20"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "13:20"
+    end_time: "13:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-05-04
+    start_time: "13:30"
+    end_time: "14:05"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:05"
+    end_time: "14:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:10"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:45"
+    end_time: "14:50"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-05-04
+    start_time: "14:55"
+    end_time: "15:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-04
+    start_time: "15:30"
+    end_time: "15:35"
+  - title: "Open Space #4"
+    type: custom
+    date: 2018-05-04
+    start_time: "15:35"
+    end_time: "16:10"
+  - title: "Openspace Closing, Drawings"
+    type: custom
+    date: 2018-05-04
+    start_time: "16:15"
+    end_time: "17:00"
+ignites:
+  # title is the speaker firstname-lastname
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-03
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04
+  - title: ""
+    date: 2018-05-04

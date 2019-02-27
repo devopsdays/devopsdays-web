@@ -1,9 +1,10 @@
 +++
 Talk_date = "18.09.2017"
-Talk_start_time = "10:20"
-Talk_end_time = "10:50"
+Talk_start_time = "10:40"
+Talk_end_time = "11:10"
 Title = "The Road to Continuous Deployment: a case study"
 Type = "talk"
+youtube = "5iMLL1S48HQ"
 Speakers = ["michiel-rook"]
 +++
 

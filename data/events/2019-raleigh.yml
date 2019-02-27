@@ -1,0 +1,119 @@
+name: "2019-raleigh" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Raleigh" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Raleigh!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+startdate: 2019-10-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-01-01T00:00:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-04-01T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2019-05-15T00:00:00-04:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfXD9AhpWkMtFMBu1dIRGnIZCm7435E1YPn5qkCbVgoXKOFrw/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-12-01 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-02 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2019-tickets-49944558519" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "35.782780, -78.685187" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "McKimmon Conference & Training Center" # Defaults to city, but you can make it the venue name.
+#
+location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devopsdays-raleigh-2019-tickets-49944558519"
+#  - name: program
+#    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
+ # - name: speakers
+  - name: sponsor
+  - name: propose
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Chris Knotts"
+  - name: "Josh Atwell"
+    twitter: "Josh_Atwell"
+  - name: "Nirmal Mehta"
+    twitter: "normalfaults"
+    github: "normalfaults"
+    webiste: "https://nirmal.io"
+  - name: "Katie Cothran"
+    twitter: "k_cothran"
+  - name: "Jason Hibbets"
+    twitter: "jhibbets"
+    github: "jhibbets"
+    website: "https://opensource.com"
+    employer: "Red Hat"
+  - name: "Chris Bailey"
+    twitter: "seebails"
+    github: "nonstickzan"
+  - name: "Kyle Anderson"
+  - name: "RJ Williams"
+    website: "http://techtowntraining.com"
+    employer: "Techtown"
+  - name: "Craig Cook"
+    twitter: "CraigCookIT"
+    website: "https://www.linkedin.com/in/craigcookit/"
+    employer: "IBM"
+
+organizer_email: "organizers-raleigh-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-raleigh-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+#  - id: samplesponsorname
+#    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
+   - id: dynatrace
+     level: platinum
+   - id: sumologic
+     level: platinum
+   - id: microsoft
+     level: gold
+   - id: techtown
+     level: platinum
+   - id: ahead
+     level: platinum
+   - id: appdynamics
+     level: platinum
+   - id: logdna
+     level: gold
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    # max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+  - id: happyhour
+    label: Happy Hour

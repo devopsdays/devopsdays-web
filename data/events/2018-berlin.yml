@@ -1,0 +1,334 @@
+name: "2018-berlin" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Berlin" # The displayed city name of the event. Capitalize it.
+event_twitter: "blndevops" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is returning to Berlin, Germany!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-09-12T00:00:00+02:00
+enddate: 2018-09-13T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-05-01T00:00:00+02:00  # start accepting talk proposals.
+cfp_date_end:  2018-06-30T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2018-07-15T00:00:00+02:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "52.524332,13.389849" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Kalkscheune Berlin" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Johannisstr. 2, 10117 Berlin" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Bernd Erk"
+    twitter: "gethash"
+    employer: "NETWAYS"
+  - name: "Marco Woitschitzky"
+    employer: "DB Systel GmbH"
+    github: "Woi"
+  - name: "Martin Alfke"
+    twitter: "tuxmea"
+    employer: "Example42"
+  - name: "Markus Neder"
+    twitter: "markusneder"
+    employer: "NETWAYS"
+  - name: "Michael Huettermann"
+    twitter: "huettermann"
+  - name: "Norman Messtorff"
+    twitter: "nmesstorff"
+    employer: "Deutsche Post E-POST Development"
+    website: "https://normes.org"
+  - name: "Ralph Angenendt"
+    twitter: "lestighaniker"
+    employer: "ImmobilienScout24"
+  - name: "Ravi Yadav"
+    twitter: "ravi_yadav_de"
+    employer: "ImmobilienScout24"
+  - name: "Sabrina Voigt"
+    twitter: "sakiddo"
+organizer_email: "organizers-berlin-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-berlin-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: linuxmagazin
+    level: partner
+  - id: netways
+    level: partner
+  - id: admin-magazine
+    level: partner
+  - id: osb-alliance
+    level: partner
+  - id: 2016-norisnetwork
+    level: eveningevent
+  - id: stackstate
+    level: platinum
+  - id: pivotal
+    level: platinum
+  - id: 2016-idealo
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: questsoftware
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: burdaforward
+    level: gold
+  - id: nubank_de
+    level: silver
+  - id: delivery-hero
+    level: silver
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: eveningevent
+    label: Evening Event
+    max: 1
+  - id: platinum
+    label: Platinum
+    max: 9
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: partner
+    label: Partner
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-09-12
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "peter-chestna"
+    type: talk
+    date: 2018-09-12
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "jessica-ulyate"
+    type: talk
+    date: 2018-09-12
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Break"
+    type: custom
+    date: 2018-09-12
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "philip-smyth"
+    type: talk
+    date: 2018-09-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-09-12
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "subhas-dandapani"
+    type: talk
+    date: 2018-09-12
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-09-12
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-09-12
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-09-12
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-09-12
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "alexander-j-knipping"
+    type: talk
+    date: 2018-09-12
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-09-12
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "derik-evangelista"
+    type: talk
+    date: 2018-09-12
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-09-12
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "kirill-zonov"
+    type: talk
+    date: 2018-09-12
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2018-09-12
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2018-09-12
+    start_time: "19:00"
+    end_time: "late"
+    comments: "The evening event will take place at [Puro Sky Lounge](https://goo.gl/maps/Xkt2CBwWpYE2) in the Europa Center, Tauentzienstraße 9-12, 10789 Berlin"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-09-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-09-13
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "dirk-lehmann"
+    type: talk
+    date: 2018-09-13
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "yuwei-ren"
+    type: talk
+    date: 2018-09-13
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "Break"
+    type: custom
+    date: 2018-09-13
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2018-09-13
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-09-13
+    start_time: "11:10"
+    end_time: "11:15"
+  - title: "tiago-pascoal"
+    type: talk
+    date: 2018-09-13
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: custom
+    date: 2018-09-13
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-09-13
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-09-13
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2018-09-13
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "oz-tiram"
+    type: talk
+    date: 2018-09-13
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2018-09-13
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "florian-winkler"
+    type: talk
+    date: 2018-09-13
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2018-09-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "manuel-stoessel"
+    type: talk
+    date: 2018-09-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Some closing words and saying good-bye"
+    type: custom
+    date: 2018-09-13
+    start_time: "16:45"
+    end_time: "17:00"
+ignites:
+  - title: "tomasz-tarcynski"
+    date: 2018-09-12
+  - title: "daiany-palacios"
+    date: 2018-09-13
+  - title: "schlomo-schapiro"
+    date: 2018-09-12
+  - title: "michael-huettermann"
+    date: 2018-09-12
+  - title: "toshaan-bharvani"
+    date: 2018-09-12
+  - title: "suresh-chandra-bose"
+    date: 2018-09-13
+  - title: "anders-bruvik"
+    date: 2018-09-12
+  - title: "daniel-maher"
+    date: 2018-09-13
+
+

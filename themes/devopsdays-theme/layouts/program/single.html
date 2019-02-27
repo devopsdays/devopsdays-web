@@ -4,6 +4,9 @@
   {{ .Content }}
 
   {{- $.Scratch.Set "first" "true" -}}
+  {{- with .Params.icons -}}
+    {{- $.Scratch.Set "icons" (. | upper ) -}}
+  {{- end -}}
 
   {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
 
@@ -13,6 +16,28 @@
   {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
     {{- $.Scratch.Set "base_file_name" .File.BaseFileName -}}
     {{- $.Scratch.Set .File.BaseFileName .Title -}}
+    {{- with .Params.vimeo -}}
+      {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://player.vimeo.com/video/%s" .) }}
+    {{- end -}}
+    {{- with .Params.youtube -}}
+      {{- $.Scratch.Set (printf "%s-video_link" ($.Scratch.Get "base_file_name")) (printf "https://www.youtube.com/embed/%s" .) }}
+    {{- end -}}
+    {{- with .Params.speakerdeck -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+    {{- end -}}
+    {{- with .Params.slideshare -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+    {{- end -}}
+    {{- with .Params.googleslides -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) (printf "https://docs.google.com/presentation/d/%s" .) }}
+    {{- end -}}
+    {{- with .Params.pdf -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+    {{- end -}}
+    {{- with .Params.slides -}}
+      {{- $.Scratch.Set (printf "%s-slides_link" ($.Scratch.Get "base_file_name")) . }}
+    {{- end -}}
+
     {{- if isset .Params "speakers" -}}
       {{- if ne .Params.speakers "" -}}
         {{- $.Scratch.Set "speaker_len" (.Params.speakers | len) -}}
@@ -80,16 +105,28 @@
                           </div>
                           <div class="col-lg-8 col-md-6 program-element {{ printf "program-%s" .type }}" {{ if .background_color }}style="background-color: {{ .background_color }}"{{end}}>
                             {{- if eq .type "custom" -}}
-                              {{ .title }}<br/>
+                              {{- if .custom_url -}}
+                                <a href="{{ .custom_url | safeURL }}">{{ .title }}<br/></a>
+                              {{- else -}}
+                                {{ .title }}<br/>
+                              {{- end -}}
                               {{- if .comments -}}
                                 <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
                               {{- end -}}
                               {{- else if or (eq .type "talk") (eq .type "workshop") -}}
-                              <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">
-                                {{ $.Scratch.Get (printf "%s-speaker" .title) }}
-                                -
-                                {{ $.Scratch.Get .title }}
-                              </a><br/>
+                              {{- if .custom_url -}}
+                                <a href="{{ .custom_url | safeURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
+                              {{- else -}}
+                                <a href="{{ (printf "events/%s/program/%s" $e.name .title) | absURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a><br/>
+                              {{- end -}}
+                              {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
+                                {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
+                                {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}
+                              {{- end -}}                           
+                                {{- if .comments -}}
+                                  <span class="program-page-desc">{{ .comments | markdownify }}<br/></span>
+                                {{- end -}}
+
                               {{- else if eq .type "ignite" -}}
                               {{ .title }}
                               <!-- do ignite stuff here -->
@@ -100,26 +137,35 @@
                                     {{- if ge $ignites_len 1 -}}
                                       <ul class="list-unstyled">
                                         {{- range where $e.ignites "date" ($.Scratch.Get "date") -}}
-                                        {{- if ($.Scratch.Get .title) -}}
                                           <li>
-                                            <a href="/events/{{ $e.name}}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }}
-                                              -
-                                              {{ $.Scratch.Get .title }}</a>
-                                          </li>
+                                          {{- if and ($.Scratch.Get .title) (.custom_url) -}}
+                                            <a href="{{ .custom_url | safeURL }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
+                                          {{- else if ($.Scratch.Get .title) -}}
+                                            <a href="/events/{{ $e.name }}/program/{{ .title }}">{{ $.Scratch.Get (printf "%s-speaker" .title) }} - {{ $.Scratch.Get .title }}</a>
                                           {{- else -}}
-                                          <li>
-                                            {{.title}}
+                                            {{ .title }}
+                                          {{- end -}}
+                                          {{- if eq  ($.Scratch.Get "icons")  "TRUE" -}}
+                                            {{- with ($.Scratch.Get (printf "%s-video_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-video-camera" aria-hidden="true"></i></a>&nbsp;{{- end -}}
+                                            {{- with ($.Scratch.Get (printf "%s-slides_link" .title)) -}}&nbsp;<a href="{{ . }}"><i class="fa fa-file-text-o" aria-hidden="true"></i></a>&nbsp;{{- end -}}  
+                                          {{- end -}}
                                           </li>
-                                        {{- end -}}
-                                        {{- end -}}
-                                    </ul>
-                                    {{- end -}}
+                                        {{- end -}}<!-- rang ignites-->
+                                      </ul>
+                                      {{- end -}} <!-- if ge $ignites_len 1 -->
                                   {{- end -}}
                                 {{- end -}}
                               <!-- end ignite stuff here -->
+                              <!-- do open-space stuff here -->
+                              {{- else if (eq .type "open-space") -}}
+                                {{- if .custom_url -}}
+                                  <a href="{{ .custom_url | safeURL }}">{{ .title }}</a><br/>
+                                {{- else -}}
+                                  <a href="{{ "open-space-format/" | absURL }}">{{ .title }}</a><br/>
+                                {{- end -}}
                               {{- else -}}
                                 {{ .title }}
-                            {{- end -}}
+                              {{- end -}}
                           </div>
                         </div>
                         {{- if eq (div ($.Scratch.Get "program_len") 2) ($.Scratch.Get "program_counter") -}}

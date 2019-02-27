@@ -115,6 +115,10 @@ sponsors:
     level: bronze 
   - id: intellimentsec
     level: bronze
+  - id: microsoft
+    level: gold
+  - id: oreilly
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -220,7 +224,7 @@ program:
     date: 2017-09-07
     start_time: "09:00"
     end_time: "10:00"
-  - title: "erik-sasha-romijn"
+  - title: "sasha-romijn"
     type: talk
     date: 2017-09-07
     start_time: "10:00"

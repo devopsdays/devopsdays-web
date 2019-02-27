@@ -48,7 +48,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: thoughtworks-products-before-20160602
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: logicmonitor
     level: gold
@@ -60,7 +60,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: bmc
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: solarwinds
     level: gold
@@ -104,13 +104,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: riverbed
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver
   - id: leankit
     level: bronze
   - id: oreilly
     level: media
-  - id: devopsdotcom
+  - id: devopsdotcom-before-20170823
     level: media
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.

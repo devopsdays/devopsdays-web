@@ -153,7 +153,7 @@ sponsors:
     level: gold
   - id: deis
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: ns1
     level: gold
@@ -171,17 +171,17 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: gold
   - id: signalsciences
     level: gold
   - id: newrelic
     level: gold
-  - id: cyberark
+  - id: cyberark-before-20180203
     level: gold
   - id: dellemc
     level: gold
-  - id: influxdata
+  - id: influxdata-before-20171218
     level: gold
   - id: cloudpassage
     level: gold
@@ -197,7 +197,7 @@ sponsors:
   - id: collabnet
     level: gold
     url: https://www.collab.net/DevOps
-  - id: facebook
+  - id: facebook-before-20170607
     level: gold
     url: https://code.facebook.com/posts/pe/
   - id: jfrog
@@ -231,9 +231,9 @@ sponsors:
     level: silver
   - id: atxtechevents
     level: media
-  - id: devopsdotcom
+  - id: devopsdotcom-before-20170823
     level: media
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: lanyard
   - id: linuxacademy
     level: hackathon

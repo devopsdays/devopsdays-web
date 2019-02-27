@@ -51,15 +51,19 @@
   <div class = "row">
     <div class="col-xs-12 col-md-8">
       <h1 class = "welcome-page">devopsdays {{$e.city}}</h1>
-        <span class="welcome-page-date">
-        {{- if $e.startdate -}}
-          {{- if ne $e.startdate $e.enddate }}
-            {{- dateFormat "January 2" $e.startdate -}} - {{- dateFormat "2, 2006" $e.enddate -}}
-          {{- else -}}
-            {{- dateFormat "January 2" $e.startdate -}}
-          {{- end -}}
-        {{ end }}
-        </span>
+
+    {{- if $e.startdate -}}
+      {{- if or (ne (time $e.startdate).Month (time $e.enddate).Month) (ne (time $e.startdate).Day (time $e.enddate).Day) -}}
+            <span class="welcome-page-date">
+            {{ dateFormat "January 2" $e.startdate }} - {{ dateFormat "2, 2006" $e.enddate }}<br />
+            </span>
+      {{- else -}}
+            <span class="welcome-page-date">
+          {{ dateFormat "January 2, 2006" $e.startdate }}<br />
+            </span>
+      {{- end -}}
+    {{- end -}}
+
         <br />
 
         {{- if $e.location -}}
@@ -79,13 +83,25 @@
         {{- if $e.city -}}
           {{- $.Scratch.Set "past-counter" 0 -}}
           {{- range sort $.Site.Data.events "startdate" -}}
-          {{- if .startdate -}} <!-- for some reason, it bails on the city Chicago, and also Paris -->
+          {{- if .startdate -}}
+
+            {{- if $e.event_group -}}
+              {{- if eq .event_group $e.event_group -}}
+                  {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
+                    <i>Other {{ $e.event_group }} Events</i><br />
+                    {{- $.Scratch.Set "past-counter" 1 -}}
+                  {{- end -}}
+                  {{- if ne .startdate $e.startdate -}}
+                    <a href = "{{ (printf "events/%s" .name) | absURL }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
+                  {{- end -}}
+              {{- end -}}
+            {{- else -}}
+
               {{- if eq (lower .city) (lower $e.city) -}}
                 {{- if and (ne .startdate $e.startdate) (ne ($.Scratch.Get "past-counter") 1 ) -}}
                   <i>Other {{ $e.city }} Events</i><br />
                   {{- $.Scratch.Set "past-counter" 1 -}}
                 {{- end -}}
-              {{- if eq (lower .city) (lower $e.city)}}
                 {{- if ne .startdate $e.startdate -}}
                   <a href = "{{ (printf "events/%s" .name) | absURL }}" class="welcome-page-masthead-link">{{ dateFormat "2006" .startdate }}</a> &nbsp;&nbsp;
                 {{- end -}}

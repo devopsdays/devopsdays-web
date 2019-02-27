@@ -1,0 +1,80 @@
+name: "2018-saint-louis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Saint Louis" # The displayed city name of the event. Capitalize it.
+status: "current" # Options are "past" or "current". Use "current" for upcoming.
+description: "DevOpsDays is coming to Saint Louis in 2018! It'll be a great opportunity to share knowledge, socialize, and have fun with other members of our great technical community." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:    # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:    # start accepting talk proposals.
+cfp_date_end:      # close your call for proposals.
+cfp_date_announce: # inform proposers of status
+
+# Location
+#
+coordinates: "38.7084, -90.4390" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Saint Louis" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ 
+#  - name: program
+#  - name: propose
+#    url: https://trello.com/b/qtP2nsVm/presentations # The url setting is optional, and only if you want the navigation to link off-site
+#  - name: location
+#  - name: registration
+  - name: sponsor
+  - name: contact
+  - name: conduct
+#  - name: policies
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Sabree Blackmon"
+    twitter: "heavypackets"
+  - name: "Phil Cryer"
+    twitter: "fak3r"
+  - name: "Jess Jackson"
+    twitter: "jess_d_jackson"
+  - name: "Matthew Perry"
+    twitter: "mlperry81"
+  - name: "Michael Lombardi"
+    twitter: "barbariankb"
+  - name: "Ken Maglio"
+    twitter: "kenmaglio"
+  - name: "Dan Kennedy"
+    twitter: "dan_b_kennedy"
+  - name: "Brian Coen"
+    twitter: "Bryan_Koen"
+  - name: "Steven Pritchard"
+    twitter: "silug"
+  - name: "Jeff McDowell"
+    twitter: "jeffmickd"
+
+
+organizer_email: "organizers-saint-louis-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-saint-louis-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors: {}
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

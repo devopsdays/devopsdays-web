@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Getting Good At System Failure Analysis"
 Type = "talk"
 Speakers = ["paul-hinze"]
+youtube = "4UFxCegosFc"
 +++
 
 Every failure is a mystery to be solved. Solving those mysteries is a skill that can be honed. Let’s talk about how to get better at figuring out what’s up when things go wrong! This is a talk full of both high level advice and concrete tips from somebody who loves fixing weird production issues.

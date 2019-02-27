@@ -1,7 +1,157 @@
 # Change Log
 
+## [1.26.0](https://github.com/devopsdays/devopsdays-theme/tree/1.26.0) (2018-12-21)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.25.0...1.26.0)
+
+**Closed issues:**
+
+- \[Enhancement\] Allow for custom sponsor sign up links [\#680](https://github.com/devopsdays/devopsdays-theme/issues/680)
+
+## [1.25.0](https://github.com/devopsdays/devopsdays-theme/tree/1.25.0) (2018-11-28)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.24.1...1.25.0)
+
+**Fixed bugs:**
+
+- Organizer cards are of varying sizes [\#678](https://github.com/devopsdays/devopsdays-theme/issues/678)
+
+## [1.24.1](https://github.com/devopsdays/devopsdays-theme/tree/1.24.1) (2018-11-11)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.24.0...1.24.1)
+
+**Closed issues:**
+
+- one-day events being listed incorrectly in front-page sidebar [\#676](https://github.com/devopsdays/devopsdays-theme/issues/676)
+
+## [1.24.0](https://github.com/devopsdays/devopsdays-theme/tree/1.24.0) (2018-11-10)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.23.1...1.24.0)
+
+**Implemented enhancements:**
+
+- Add "Deploys by Netlify" badge to footer [\#669](https://github.com/devopsdays/devopsdays-theme/issues/669)
+
+**Fixed bugs:**
+
+- Speaker page template errors if there are no speakers [\#673](https://github.com/devopsdays/devopsdays-theme/issues/673)
+
+## [1.23.1](https://github.com/devopsdays/devopsdays-theme/tree/1.23.1) (2018-10-15)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.23.0...1.23.1)
+
+**Fixed bugs:**
+
+- single-day events displaying incorrectly on welcome page [\#663](https://github.com/devopsdays/devopsdays-theme/issues/663)
+- images not resolving in static events [\#662](https://github.com/devopsdays/devopsdays-theme/issues/662)
+
+## [1.23.0](https://github.com/devopsdays/devopsdays-theme/tree/1.23.0) (2018-09-14)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.22.0...1.23.0)
+
+**Fixed bugs:**
+
+- fix datetime issues with CFP [\#476](https://github.com/devopsdays/devopsdays-theme/issues/476)
+
+**Closed issues:**
+
+- Version 10 of node.js has been released [\#625](https://github.com/devopsdays/devopsdays-theme/issues/625)
+- Social button don't show for a speaker in the talk page [\#582](https://github.com/devopsdays/devopsdays-theme/issues/582)
+
+## [1.22.0](https://github.com/devopsdays/devopsdays-theme/tree/1.22.0) (2018-09-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.21.0...1.22.0)
+
+**Implemented enhancements:**
+
+- Allow URL link on "custom" program type [\#611](https://github.com/devopsdays/devopsdays-theme/issues/611)
+
+## [1.21.0](https://github.com/devopsdays/devopsdays-theme/tree/1.21.0) (2018-09-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.20.0...1.21.0)
+
+**Closed issues:**
+
+- Program should support links to slides and video [\#600](https://github.com/devopsdays/devopsdays-theme/issues/600)
+
+## [1.20.0](https://github.com/devopsdays/devopsdays-theme/tree/1.20.0) (2018-08-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.1...1.20.0)
+
+## [1.19.1](https://github.com/devopsdays/devopsdays-theme/tree/1.19.1) (2018-08-20)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.19.0...1.19.1)
+
+**Implemented enhancements:**
+
+- Create search feature [\#633](https://github.com/devopsdays/devopsdays-theme/issues/633)
+
+**Fixed bugs:**
+
+- Long city names wrap in event navbar [\#638](https://github.com/devopsdays/devopsdays-theme/issues/638)
+
+## [1.19.0](https://github.com/devopsdays/devopsdays-theme/tree/1.19.0) (2018-08-09)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.18.0...1.19.0)
+
+**Implemented enhancements:**
+
+- Change mobile event menu from icons to collapsed menu [\#607](https://github.com/devopsdays/devopsdays-theme/issues/607)
+
+## [1.18.0](https://github.com/devopsdays/devopsdays-theme/tree/1.18.0) (2018-07-02)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.17.0...1.18.0)
+
+**Implemented enhancements:**
+
+- Remove auto-capitalization of talk titles [\#629](https://github.com/devopsdays/devopsdays-theme/issues/629)
+
+## [1.17.0](https://github.com/devopsdays/devopsdays-theme/tree/1.17.0) (2018-05-09)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.16.0...1.17.0)
+
+**Closed issues:**
+
+- Allow comments on 'talk' and 'workshops' in programs [\#626](https://github.com/devopsdays/devopsdays-theme/issues/626)
+- Allow event\_links to pull arbitrary event data [\#623](https://github.com/devopsdays/devopsdays-theme/issues/623)
+- Shortcodes not compatible with hugo 0.32 [\#618](https://github.com/devopsdays/devopsdays-theme/issues/618)
+
+## [1.16.0](https://github.com/devopsdays/devopsdays-theme/tree/1.16.0) (2018-01-16)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.15.0...1.16.0)
+
+**Closed issues:**
+
+- Speaker attributes obscure twitter name [\#612](https://github.com/devopsdays/devopsdays-theme/issues/612)
+
+## [1.15.0](https://github.com/devopsdays/devopsdays-theme/tree/1.15.0) (2018-01-03)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.2...1.15.0)
+
+**Implemented enhancements:**
+
+- Add "event\_group" optional key to event data file [\#61](https://github.com/devopsdays/devopsdays-theme/issues/61)
+
+**Fixed bugs:**
+
+- Default speaker image is too big [\#597](https://github.com/devopsdays/devopsdays-theme/issues/597)
+
+**Closed issues:**
+
+- Test issue for movebot [\#610](https://github.com/devopsdays/devopsdays-theme/issues/610)
+
+## [1.14.2](https://github.com/devopsdays/devopsdays-theme/tree/1.14.2) (2017-10-07)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.1...1.14.2)
+
+## [1.14.1](https://github.com/devopsdays/devopsdays-theme/tree/1.14.1) (2017-10-07)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.14.0...1.14.1)
+
+**Implemented enhancements:**
+
+- change organizers page to use https for twitter and github [\#595](https://github.com/devopsdays/devopsdays-theme/issues/595)
+
+**Fixed bugs:**
+
+- Version number in theme file needs to be a string [\#598](https://github.com/devopsdays/devopsdays-theme/issues/598)
+
+## [1.14.0](https://github.com/devopsdays/devopsdays-theme/tree/1.14.0) (2017-08-31)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.1...1.14.0)
+
+**Implemented enhancements:**
+
+- Add shortcodes for registration dates [\#592](https://github.com/devopsdays/devopsdays-theme/issues/592)
+- \[Enhancement\] Some people think 'Open Space' in the Program means not taken [\#583](https://github.com/devopsdays/devopsdays-theme/issues/583)
+
 ## [1.13.1](https://github.com/devopsdays/devopsdays-theme/tree/1.13.1) (2017-08-29)
-[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.1...1.13.1)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.13.0...1.13.1)
+
+## [1.13.0](https://github.com/devopsdays/devopsdays-theme/tree/1.13.0) (2017-08-29)
+[Full Changelog](https://github.com/devopsdays/devopsdays-theme/compare/1.12.1...1.13.0)
 
 **Fixed bugs:**
 

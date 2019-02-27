@@ -7,6 +7,11 @@ description = "devopsdays returns July 25 & 26 to downtown Minneapolis."
 
 +++
 
+
+<h1><mark>You're looking at a past event. <br><br>
+Go to <a href="/events/2018-minneapolis/welcome/">devopsdays Minneapolis 2018</a> instead.</mark></h1><br><br>
+
+
 **devopsdays is returning to {{< event_location >}} for a fourth year!**
 
 <div class = "row">

@@ -3,6 +3,8 @@ year: 2016 # The year of the event. Make sure it is in quotes.
 city: "Ohio" # The city name of the event. Capitalize it.
 friendly: "2016-ohio" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current".
+event_group: "Columbus"
+
 startdate: 2016-10-31 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-11-01 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 cfp_date_start: 2016-06-10
@@ -45,13 +47,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: ahead
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: netapp
     level: silver
   - id: elastic
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: techlifecolumbus
     level: support

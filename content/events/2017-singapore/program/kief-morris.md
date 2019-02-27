@@ -1,11 +1,11 @@
 +++
 Talk_date = "2017-10-25"
-Talk_start_time = "09:00"
-Talk_end_time = "09:30"
+Talk_start_time = "09:15"
+Talk_end_time = "09:45"
 Title = "Opening Keynote"
 Type = "talk"
 Speakers = ["kief-morris"]
-Youtube = ""
+Youtube = "kx-xVhm9QEU"
 Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""

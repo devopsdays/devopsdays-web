@@ -10,7 +10,7 @@ If you'd like to edit a specific devopsdays event site (and/or contribute code),
 
 ### Quick Overview
 
-1. Install [Hugo v0.22+](http://gohugo.io).
+1. Install [Hugo](http://gohugo.io). The version we use can be found in the `.travis.yml` file. [(Quick Install)](https://gohugo.io/getting-started/installing#binary-cross-platform)
 1. Fork this repo.
 
 ### View site locally
@@ -19,11 +19,6 @@ To watch for changes and rebuild on the fly, open a new terminal, change directo
 
 ```
 hugo server -w --baseUrl="http://localhost:1313"
-```
-
-If you are running Windows, change the command to 
-```
-hugo server -w --baseUrl="http://localhost:1313" --config config-windows.toml
 ```
 
 Now open `http://localhost:1313` in a browser and navigate to the content that you're editing - voilà!
@@ -53,7 +48,7 @@ Before starting any new change, it is essential that you `rebase` your local rep
 
 
  This confirms you are on the master branch locally, and then applies the changes from the upstream to your copy.
- 
+
 
 Create a new local [branch](https://help.github.com/articles/about-branches/) for your changes. This helps to keep things tidy!
 
@@ -78,6 +73,13 @@ Make your changes, test them locally (see above), then push that branch up to `o
 1. Code changes that affect the overall site will be merged only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes should be made there, and when released, will be used in this repo.
 1. We use [github issues](https://github.com/devopsdays/devopsdays-theme/issues) to track work, so feel free to create new issues if you like (or read/comment on existing ones).
 1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-theme/issues) so that it can be discussed by the team, prior to submitting a pull request.
+1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
+
+### How Changes are Merged
+- A maintainer will merge the PR if it is mergable, as soon as the checks pass.
+- If you do not want your PR merged immediately, in most cases you should not open the PR.
+- Our [workflow guide](https://github.com/devopsdays/devopsdays-web/blob/master/utilities/docs/workflow/README.md) provides solutions to most `WIP` use cases without opening a PR.
+- Questions about specific cases not covered in the guide can be be asked in the #website channel on devopsdays slack.
 
 ### Only make changes to event content files
 "Content" means anything inside the `/content/...`, `/data/...`, or `/static/...` directories.

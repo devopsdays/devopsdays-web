@@ -3,6 +3,8 @@ year: "2017" # The year of the event. Make sure it is in quotes.
 city: "Oslo" # The city name of the event. Capitalize it.
 event_twitter: "devopsdaysoslo"
 description: "DevopsDays is coming to Oslo!"
+status: "past"
+event_group: "Oslo"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
 startdate: 2017-11-01  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -16,7 +18,7 @@ cfp_date_announce: 2017-09-13
 cfp_open: "false"
 #cfp_link: "https://devopsdaysoslo.typeform.com/to/v1LcjK"
 
-registration_open: "true"
+registration_open: "false"
 registration_link: "https://www.eventbrite.co.uk/e/devopsdays-oslo-2017-tickets-32288225953"
 
 # Location
@@ -31,10 +33,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
 #  - name: propose
 #    url: https://devopsdaysoslo.typeform.com/to/N46Faw # The url setting is optional, and only if you want the navigation to link off-site
-  - name: location
-    icon: "map-o"
-  - name: registration
-    icon: "pencil"
+#  - name: location
+#    icon: "map-o"
+#  - name: registration
+#    icon: "pencil"
   - name: sponsor
     icon: "money"
   - name: contact
@@ -126,26 +128,30 @@ sponsors:
     level: gold
   - id: evry
     level: gold
-#  - id: chef-before-20170714
-#    level: gold
-#  - id: telenor-digital
-#    level: gold
-#  - id: praqma
-#    level: gold
-#  - id: knowit
-#    level: gold
-#  - id: microsoft
-#    level: gold
-#  - id: tripletex
-#    level: gold
-#  - id: atlassian
-#    level: gold
-#  - id: stackstate
-#    level: gold
-#  - id: soprasteria
-#    level: gold
-#  - id: intility
-#    level: gold
+  - id: chef
+    level: gold
+  - id: praqma
+    level: gold
+  - id: redpill-linpro
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: telia
+    level: platinum
+  - id: finn
+    level: gold
+  - id: soprasteria
+    level: gold
+  - id: intility
+    level: platinum
+  - id: redhat
+    level: community
+  - id: redhat
+    level: lunch
+  - id: fastly
+    level: community
+  - id: xebialabs-bv
+    level: community
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: platinum
@@ -156,18 +162,13 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: 8
   - id: community
     label: Community
-  - id: exclusive
-    label: Exclusive
+    max: 3
+  - id: lunch
+    label: Lunch
+    max: 1
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
-#speakers:
-#  - id: "jon doe"
-#    level: talk
-#
-#speaker_levels:
-#  - id: talk
-#    label: Talk
 program:
   - title: "Registration, breakfast, and sponsor booths open"
     type: custom
@@ -179,138 +180,166 @@ program:
     date: 2017-11-01
     start_time: "09:20"
     end_time: "09:30"
-  - title: "Keynote"
-    type: custom
+  - title: "mike-long"
+    type: talk
     date: 2017-11-01
     start_time: "09:30"
     end_time: "10:00"
-  - title: "TBA"
+  - title: "A word from our sponsors"
     type: custom
     date: 2017-11-01
     start_time: "10:00"
-    end_time: "10:30"
+    end_time: "10:10"
+  - title: "daniela-soares-cruzes"
+    type: talk
+    date: 2017-11-01
+    start_time: "10:10"
+    end_time: "10:40"
   - title: "Break"
     type: custom
     date: 2017-11-01
-    start_time: "10:30"
-    end_time: "10:40"
-  - title: "TBA"
-    type: custom
-    date: 2017-11-01
     start_time: "10:40"
-    end_time: "11:10"
-  - title: "TBA"
-    type: custom
+    end_time: "10:55"
+  - title: "stein-inge-morisbak"
+    type: talk
     date: 2017-11-01
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "jon-hare-winton"
+    type: talk
+    date: 2017-11-01
+    start_time: "11:30"
+    end_time: "12:05"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-11-01
-    start_time: "11:50"
-    end_time: "12:10"
+    start_time: "12:05"
+    end_time: "12:25"
   - title: "Lunch"
     type: custom
     date: 2017-11-01
-    start_time: "12:10"
+    start_time: "12:25"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "13:30"
     end_time: "14:30"
   - title: "Open Space breakout discussions #1"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "14:30"
     end_time: "15:10"
+  - title: "Open Space breakout discussions #2"
+    type: open-space
+    date: 2017-11-01
+    start_time: "15:10"
+    end_time: "15:50"
   - title: "Break"
     type: custom
     date: 2017-11-01
-    start_time: "15:10"
-    end_time: "15:20"
-  - title: "Open Space breakout discussions #2"
-    type: custom
-    date: 2017-11-01
-    start_time: "15:20"
+    start_time: "15:50"
     end_time: "16:00"
   - title: "Open Space breakout discussions #3"
-    type: custom
+    type: open-space
     date: 2017-11-01
     start_time: "16:00"
     end_time: "16:40"
+  - title: "Fun and drink"
+    type: custom
+    date: 2017-11-01
+    start_time: "16:40"
+    end_time: "17:10"
   - title: "Dinner and Evening event (at the same location as the conference)"
     type: custom
     date: 2017-11-01
-    start_time: "17:00"
+    start_time: "17:30"
     end_time: "late"
   - title: "Registration, breakfast, and sponsor booths open"
     type: custom
     date: 2017-11-02
     start_time: "08:30"
-    end_time: "09:20"
+    end_time: "09:25"
   - title: "Opening Welcome"
     type: custom
     date: 2017-11-02
-    start_time: "09:20"
+    start_time: "09:25"
     end_time: "09:30"
-  - title: "Keynote 1"
-    type: custom
+  - title: "hannah-foxwell"
+    type: talk
     date: 2017-11-02
     start_time: "09:30"
     end_time: "10:00"
-  - title: "Keynote 2"
+  - title: "A word from our sponsors"
     type: custom
     date: 2017-11-02
     start_time: "10:00"
-    end_time: "10:30"
-  - title: "Break"
-    type: custom
+    end_time: "10:10"
+  - title: "trond-arve-wasskog"
+    type: talk
     date: 2017-11-02
-    start_time: "10:30"
+    start_time: "10:10"
     end_time: "10:40"
-  - title: "TBA"
+  - title: "Break"
     type: custom
     date: 2017-11-02
     start_time: "10:40"
-    end_time: "11:10"
-  - title: "TBA"
-    type: custom
+    end_time: "10:55"
+  - title: "ramez-hanna"
+    type: talk
     date: 2017-11-02
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "10:55"
+    end_time: "11:30"
+  - title: "jessica-brown"
+    type: talk
+    date: 2017-11-02
+    start_time: "11:30"
+    end_time: "12:05"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2017-11-02
-    start_time: "11:50"
-    end_time: "12:10"
+    start_time: "12:05"
+    end_time: "12:25"
   - title: "Lunch"
     type: custom
     date: 2017-11-02
-    start_time: "12:10"
+    start_time: "12:25"
     end_time: "13:30"
   - title: "Open Space Opening"
-    type: custom
+    type: open-space
     date: 2017-11-02
     start_time: "13:30"
-    end_time: "14:30"
+    end_time: "14:00"
   - title: "Open Space breakout discussions #1"
-    type: custom
+    type: open-space
     date: 2017-11-02
-    start_time: "14:30"
-    end_time: "15:10"
-  - title: "Break"
-    type: custom
-    date: 2017-11-02
-    start_time: "15:10"
-    end_time: "15:20"
+    start_time: "14:00"
+    end_time: "14:45"
   - title: "Open Space breakout discussions #2"
-    type: custom
+    type: open-space
     date: 2017-11-02
-    start_time: "15:20"
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "mark-burgess"
+    type: talk
+    date: 2017-11-02
+    start_time: "15:30"
     end_time: "16:00"
-  - title: "Open Space breakout discussions #3"
-    type: custom
+
+ignites:
+  - title: "mandi-walls"
+    date: 2017-11-01
+  - title: "trond-hindenes"
+    date: 2017-11-01
+  - title: "anna-kennedy"
+    date: 2017-11-01
+  - title: "jack-danger"
+    date: 2017-11-01
+  - title: "tor-ledre"
     date: 2017-11-02
-    start_time: "16:00"
-    end_time: "16:40"
+  - title: "viktorija-almazova"
+    date: 2017-11-02
+  - title: "hans-kristian-flaatten"
+    date: 2017-11-02
+  - title: "anton-babenko"
+    date: 2017-11-02

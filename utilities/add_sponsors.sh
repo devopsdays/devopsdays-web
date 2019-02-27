@@ -2,12 +2,36 @@
 
 set -e
 
+cd `dirname ${0}`
+# Detect OS for correct 'sed' syntax
+OSNAME=`uname`
+GNUSED=$(which sed)
+SEDCMD(){
+  if [[ $OSNAME == 'Linux' ]]; then
+    sed -i "$@"
+  elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
+    sed -i "$@"
+  else
+    sed -i '' "$@"
+  fi
+}
+
 # Get year
-read -p "Enter your event year (default: $(date +"%Y")): " year
-[ -z "${year}" ] && year='2017'
+default_year=$(date +"%Y")
+if [[ ! -z $DOD_YEAR ]] ; then
+  year="$DOD_YEAR"
+else
+  # We assume the current year (and also assume bash 3, because macs)
+  read -p "Enter your event year (default: $default_year): " year
+fi
+[ -z "${year}" ] && year="$default_year"
 
 # Get city
-read -p "Enter your city name: " city
+if [[ ! -z $DOD_CITY ]] ; then
+  city="$DOD_CITY"
+else
+  read -p "Enter your city name: " city
+fi
 city_slug=$(echo $city | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 # Generate event slug
 event_slug=$year-$city_slug
@@ -19,7 +43,7 @@ echo "Adding new sponsors; use CTRL+C to stop..."
 
 # Gather info
 read -p "Enter sponsor name: " sponsorname
-sponsor_slug=$(echo $sponsorname | tr '-' ' ' | tr -dc '[:alpha:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
+sponsor_slug=$(echo $sponsorname | tr '-' ' ' | tr -dc '[:alnum:][:blank:]' | tr '[:upper:]' '[:lower:]'| tr 'āáǎàãâēéěèīíǐìōóǒòöūúǔùǖǘǚǜü' 'aaaaaaeeeeiiiiooooouuuuuuuuu' | tr ' ' '-')
 
 # set default sponsor yaml file
 sponsorfile="../data/sponsors/$sponsor_slug.yml"
@@ -34,23 +58,22 @@ fi
 read -p "Enter sponsor url: " url
 [ -z "${url}" ] && url=''
 
-# twitter handle
-read -p "Enter sponsor twitter handle (return for none): " twitter
+read -p "Enter sponsor twitter handle: " twitter
 [ -z "${twitter}" ] && twitter=''
-# remove @ if they added it
-twitter=$(echo $twitter | sed 's/@//')
 
-
-read -p "Enter path to 200x200 PNG logo: " logo
+read -p "Enter path to PNG logo (must be at least 200px wide & have white or transparent background): " logo
 [ -z "${logo}" ] && logo=''
 
 
 # Populate data file
 cp examples/data/sponsors/sponsorname.yml $sponsorfile
 
-sed -i '' "s/SPONSORNAME/$sponsorname/" $sponsorfile
-sed -i '' "s%URL%$url%" $sponsorfile
-sed -i '' "s/TWITTER/$twitter/" $sponsorfile
+SEDCMD "s/SPONSORNAME/$sponsorname/" $sponsorfile
+SEDCMD "s%URL%$url%" $sponsorfile
+
+if ! [ -z "${twitter}" ]; then
+  echo "twitter: \"${twitter}\"" >> $sponsorfile
+fi
 
 # Set logo
 
@@ -61,7 +84,7 @@ else
 fi
 
 echo "Add this to ../data/events/"$event_slug".yml under sponsors:"
-echo "  - id: " $sponsor_slug
+echo "  - id:" $sponsor_slug
 echo "    level: theirlevel"
 
 

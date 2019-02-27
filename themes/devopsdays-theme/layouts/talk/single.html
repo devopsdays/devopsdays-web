@@ -112,11 +112,10 @@
 
   {{- range .Params.speakers -}}
     {{- $.Scratch.Set "speakername" . -}}
-    {{- range where $.Site.Pages "Type" "speaker" -}}
-      {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
-        {{- if eq .File.BaseFileName ($.Scratch.Get "speakername") -}}
-        <a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL}}">
-        {{- if isset .Params "image" -}}
+    {{- $p := $.Site.GetPage (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) -}}
+    {{- if $p -}}
+    {{- with $p -}}
+       {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
             <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
           {{- end -}}
@@ -128,15 +127,46 @@
           </a></h4>
         {{- if isset .Params "twitter" -}}
           {{- if ne .Params.twitter "" -}}
-            <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
+            <a href = "https://twitter.com/{{ .Params.twitter }}"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a>
           {{- end -}}
         {{- end -}}
-          <span class="talk-page content-text">{{ .Content }}</span>
+        {{- if isset .Params "website" -}}
+          {{- if ne .Params.website "" -}}
+            <a href = "{{ .Params.website }}"><i class="fa fa-home fa-2x" aria-hidden="true"></i>&nbsp;</a>
+          {{- end -}}
+        {{- end -}}
+    {{- if isset .Params "facebook" -}}
+      {{- if ne .Params.facebook "" -}}
+        <a href = "{{ .Params.facebook }}"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i>&nbsp;</a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "linkedin" -}}
+      {{- if ne .Params.linkedin "" -}}
+        <a href = "{{ .Params.linkedin }}"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>&nbsp;</a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "github" -}}
+      {{- if ne .Params.github "" -}}
+        <a href = "https://github.com/{{ .Params.github }}"><i class="fa fa-github fa-2x" aria-hidden="true"></i>&nbsp;</a>
+      {{- end -}}
+    {{- end -}}
+    {{- if isset .Params "pronouns" -}}
+      {{- if ne .Params.pronouns "" -}}
+        <a href = "https://pronoun.is/{{ .Params.pronouns }}"><i class="fa fa-user fa-2x" aria-hidden="true"></i>&nbsp;</a>
+      {{- end -}}
+    {{- end -}}
+    <br />
+          <span class="talk-page content-text">
+          {{- if ge (countrunes .Content ) 200 -}}
+            {{ .Content | markdownify | truncate 200 " "}}<a href = "{{ .Permalink | absURL }}">...</a>
+          {{- else -}}
+            {{ .Content | markdownify }}
+          {{- end -}}
+          </span>
         {{- end -}}
 
       {{- end -}}
-    {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
-  {{- end -}}
+    {{- end -}}<!-- end with -->
   {{- else -}}<!-- now show the old stuff -->
   <h2 class="talk-page">Speaker</h2>
   {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}

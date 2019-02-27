@@ -1,0 +1,121 @@
+name: "2018-bengaluru" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Bengaluru" # The displayed city name of the event. Capitalize it.
+event_twitter: "DevOpsDaysIN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Bengaluru!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Bengaluru"
+
+# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-12-08T00:00:00+05:30
+enddate: 2018-12-09T23:59:59+05:30
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-05-10T00:00:00+05:30 # start accepting talk proposals.
+cfp_date_end: 2018-09-30T23:59:59+05:30  # close your call for proposals.
+cfp_date_announce: 2018-10-15T00:00:00+05:30 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/dodi18" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-05-10T00:00:00+05:30 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-12-08T23:59:59+05:30 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.townscript.com/e/dodi18" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "13.012541, 77.555277" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Sheraton Grand Bangalore Hotel at Brigade Gateway" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+# - name: program
+# - name: speakers
+# - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Satish Talim"
+    twitter: "IndianGuru"
+    linkedin: "https://in.linkedin.com/in/satishtalim"
+    image: "satish.jpg"
+  - name: "Sankalp Singh"
+    twitter: "SSankalp1"
+    linkedin: "https://in.linkedin.com/in/singhsankalp"
+    image: "sankalp.jpg"
+  - name: "Vijay Dhama"
+    twitter: "vjdhama"
+    linkedin: "https://in.linkedin.com/in/vjdhama"
+    image: "vijay.jpg"
+  - name: "Praveen Shukla"
+    twitter: "_praveenshukla"
+    linkedin: "https://www.linkedin.com/in/praveen-shukla-66b52b76/"
+    image: "praveen.jpg"
+  - name: "Budh Ram Gurung"
+    twitter: "budhrg"
+    github: "budhram"
+    image: "brg.jpg"
+  - name: "Tilak Lodha"
+    github: "tilaklodha"
+    linkedin: "https://www.linkedin.com/in/tilaklodha/"
+    image: "tilaklodha.jpg"
+  - name: "Asheet Bhaskar"
+    twitter: "asheet_bhaskar"
+    github: "asheet-bhaskar"
+    image: "asheet.jpg"
+
+organizer_email: "organizers-bengaluru-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-bengaluru-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: gojek
+    level: platinum
+  - id: atlassian
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: thoughtworks-services
+    level: gold
+  - id: openebs
+    level: silver
+  - id: redhat
+    level: silver
+  - id: f5
+    level: silver
+  - id: sumologic
+    level: drinks
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+    max: 3
+  - id: silver
+    label: Silver
+    max: 3
+  - id: drinks
+    label: Drinks
+    max: 1

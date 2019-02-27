@@ -1,0 +1,430 @@
+name: "2018-minneapolis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Minneapolis" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysmsp" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "devopsdays returned to Minneapolis for a fifth year!"
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-07-12T00:00:00-05:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2018-07-13T23:59:59-05:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+cfp_date_start: 2017-11-08T00:00:00-06:00
+cfp_date_end: 2018-04-08T23:59:59-05:00
+cfp_date_announce: 2018-05-06T00:00:00-05:00
+
+cfp_open: "false"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2017-11-08T00:00:00-06:00
+registration_date_end: 2018-07-06T23:59:59-05:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "44.972610,-93.272960"
+location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue name.
+#
+location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA
+" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+team_members:
+  - name: "Samantha Grumdahl"
+    employer: "Target"
+    twitter: "zruty"
+    bio: "Many years ago, Samantha took a break from the science laboratory to check out the field of networking and never returned. Her volunteer efforts are focused on increasing interest in the STEM fields, especially among women and minorities."
+    image: "samantha-grumdahl.jpg"
+  - name: "Nate Anderson"
+    employer: "SPS Commerce"
+    twitter: "NateDAnderson"
+    bio: "Nate is currently an Application Engineer at SPS Commerce. Nate is passionate about helping teams build, monitor and deploy highly reliable and scalable systems in the cloud. When not at work, you can usually find him discussing new technology or the latest season of Game of Thrones. He also enjoys biking, photography, space and anything sci-fi."
+    image: "nate-anderson.jpg"
+  - name: "Joe Laha"
+    employer: ""
+    twitter: "joelaha"
+    bio: "Joe Laha works in event technology, which is a fancy way of saying he's a professional flipchart jockey. He lives in Minneapolis' North Loop neighborhood with his partner Bridget Kromhout, their cats Iria & Nimoy, and way too much cycling-themed art. Aside from cycling, Joe enjoys homebrew, heavy metal guitar, and arguing about sci-fi TV of the 1990s."
+    image: "joe-laha.jpg"
+  - name: "Karen Odegaard"
+    employer: "Accenture"
+    twitter: "OdegaardKaren"
+    bio: "Karen Odegaard is an IT Senior Manager at Accenture leading enterprise cloud application strategy, solution design and delivery. She possesses over 13 years of experience driving service transformation, solution design and delivery efforts. Karen is passionate about IT, innovation, inspiring and leading teams to deliver organizationally changing technology driven transformation."
+    image: "karen-odegaard.jpg"
+  - name: "Heather Mickman"
+    employer: "Optum"
+    twitter: "hmickman"
+    bio: "Heather Mickman is VP Enterprise Services + Platforms at Optum. Throughout her career, she has built APIs to unlock enterprise data, created awesome platforms, led Ops organizations, and built supply chain software for Fortune 50 companies. Heather has a passion for technology, building high performing teams, driving a culture of innovation, and having fun along the way."
+    image: "heather-mickman.jpg"
+  - name: "Donnie Berkholz"
+    twitter: "dberkholz"
+    employer: "Carlson Wagonlit Travel"
+    bio: "Leading DevOps Transformation. VP, IT Service Delivery at Carlson Wagonlit Travel. Data-driven, business-focused tech strategist & leader with a deep background in open source & research. Advised startups to Fortune 50 enterprises. Led >250 developers, among 15+ years of software experience. Cited for expertise in Wired, The Register, CIO.com & The New Stack."
+    image: "donnie-berkholz.jpg"
+  - name: "Debbie Gillespie"
+    twitter: "deb0199"
+    employer: "Particle"
+    bio: "Debbie Gillespie is a Site Reliability Engineer for Particle where she spends her time automating all the things. Previous to Particle, she spent 15 years at the University of MN developing software and cultivating communities of practice."
+    image: "debbie-gillespie.jpg"
+  - name: "Bridget Kromhout"
+    employer: "Microsoft"
+    twitter: "bridgetkromhout"
+    bio: "Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis. She podcasts with Arrested DevOps, blogs at bridgetkromhout.com, and is active in a Twitterverse near you."
+    image: "bridget-kromhout.jpg"
+  - name: "Andy Fleener"
+    employer: "SportsEngine"
+    twitter: "andyfleener"
+    bio: "Andy Fleener is a Humanist, and a New View Safety Nerd who believes software is as much about the people building and running it as it is the people using it. He is a Platform Operations Manager at SportsEngine where he's been doing a mix of development and operations since 2011. Andy enjoys music, football, sushi, oxford commas, and laughing at all the things millennials are ruining."
+    image: "andy-fleener.jpg"
+  - name: "Andy Domeier"
+    employer: "SPS Commerce"
+    twitter: "ajdomie"
+    bio: "Andy has been in Technology Operations leadership with SPS Commerce for the past 12 years. SPS grows very aggressively creating an environment of persistent growth challenges. Andy spends many mental cycles collaborating to solve effective patterns for monitoring and operating complex changing systems."
+    image: "andy-domeier.jpg"
+
+organizer_email: "organizers-minneapolis-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-minneapolis-2018@devopsdays.org" # Put your proposal email address here
+
+sponsors:
+  - id: arresteddevops
+    level: community
+  - id: influxdata
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: scalyr
+    level: gold
+  - id: launch-darkly
+    level: silver
+  - id: victorops-before-20180823
+    level: gold
+  - id: instana
+    level: silver
+  - id: pivotal
+    level: gold
+  - id: mesosphere
+    level: silver
+  - id: arista
+    level: silver
+  - id: bigswitchnetworks
+    level: silver
+  - id: optum
+    level: silver
+  - id: velocity
+    level: community
+  - id: hackthegap
+    level: community
+  - id: softwaredefinedtalk
+    level: community
+  - id: blacksintechnology
+    level: community
+  - id: wwcodetc
+    level: community
+  - id: minnestar
+    level: community
+  - id: solutiondesign
+    level: silver
+  - id: aheadpuppet
+    level: platinum
+  - id: sumologic-before-20181203
+    level: gold
+  - id: countryfinancial
+    level: alacarte
+  - id: sps_commerce
+    level: gold
+  - id: sps_commerce
+    level: alacarte
+  - id: rundeck
+    level: gold
+  - id: signalfx
+    level: platinum
+  - id: pagerduty
+    level: gold
+  - id: morpheus
+    level: gold
+  - id: thoughtworks-gocd-before-20190213
+    level: silver
+  - id: target
+    level: platinum
+  - id: merrill
+    level: gold
+  - id: carlsonwagonlit
+    level: alacarte
+  - id: cargill
+    level: alacarte
+  - id: netapp
+    level: silver
+  - id: redhat
+    level: gold
+  - id: datadog
+    level: gold
+  - id: sjtechcorp
+    level: silver
+  - id: appdynamics-before-20190121
+    level: silver
+  - id: saucelabs
+    level: silver
+  - id: granicus
+    level: silver
+  - id: herzum
+    level: silver
+  - id: servicenow
+    level: gold
+  - id: stripe
+    level: alacarte
+  - id: cloudbolt
+    level: gold
+  - id: technovation-mn
+    level: community
+  - id: cloudability
+    level: alacarte
+  - id: docker
+    level: silver
+  - id: bluematador
+    level: silver
+  - id: rubrik
+    level: silver
+  - id: azure-advocates
+    level: silver
+  - id: avanade
+    level: silver
+  - id: overops
+    level: silver
+  - id: gdimpls
+    level: community
+
+sponsors_accepted : "no"
+
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 6
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: alacarte
+    label: A La Carte
+  - id: community
+    label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-12
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "sharon-kennedy-vickers"
+    type: talk
+    date: 2018-07-12
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "amy-patton"
+    type: talk
+    date: 2018-07-12
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-12
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "lanice-sims"
+    type: talk
+    date: 2018-07-12
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-12
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "ronnie-chen"
+    type: talk
+    date: 2018-07-12
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-12
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-12
+    start_time: "13:15"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2018-07-12
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "kubernetes"
+    type: workshop
+    date: 2018-07-12
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2018-07-12
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2018-07-12
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2018-07-12
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "container-security"
+    type: workshop
+    date: 2018-07-12
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Sponsor Happy Hour"
+    type: custom
+    date: 2018-07-12
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "Evening Program & Ignites"
+    type: ignite
+    date: 2018-07-12
+    start_time: "18:00"
+    end_time: "20:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-07-13
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "aditya-mukerjee"
+    type: talk
+    date: 2018-07-13
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "ian-coldwater"
+    type: talk
+    date: 2018-07-13
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2018-07-13
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "amy-chen"
+    type: talk
+    date: 2018-07-13
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-07-13
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "tim-gross"
+    type: talk
+    date: 2018-07-13
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2018-07-13
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-07-13
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2018-07-13
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "observability"
+    type: workshop
+    date: 2018-07-13
+    start_time: "13:15"
+    end_time: "14:45"
+  - title: "Break & 3pm Raffle"
+    type: custom
+    date: 2018-07-13
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2018-07-13
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2018-07-13
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "incident-response"
+    type: workshop
+    date: 2018-07-13
+    start_time: "15:15"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2018-07-13
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "sonia-gupta"
+    date: 2018-07-12
+  - title: "jamesha-fisher"
+    date: 2018-07-12
+  - title: "kim-crayton"
+    date: 2018-07-12
+  - title: "nick-tenbrink"
+    date: 2018-07-12
+  - title: "alvin-faisal"
+    date: 2018-07-12
+  - title: "jessica-schalz"
+    date: 2018-07-12
+  - title: "steve-grove"
+    date: 2018-07-12
+  - title: "benjamin-ortega"
+    date: 2018-07-12
+  - title: "david-washington"
+    date: 2018-07-12
+  - title: "shafer"
+    date: 2018-07-12

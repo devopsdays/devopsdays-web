@@ -55,13 +55,13 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: veritas
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: ca_tech
     level: gold
   - id: elastic
     level: silver
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: govdelivery
     level: silver

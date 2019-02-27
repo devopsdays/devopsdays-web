@@ -1,0 +1,335 @@
+name: "2018-copenhagen" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Copenhagen" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdayscph" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "DevOpsDays is coming to Copenhagen for the first time. Don't miss this great community event!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate:  2018-04-24T00:00:00+02:00
+enddate: 2018-04-25T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2018-01-10T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2018-02-11T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce:  2018-02-28T00:00:00+01:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayscph" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-01-15T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-04-23T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eventbrite.co.uk/e/devops-days-copenhagen-tickets-41996806579" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+
+coordinates: "55.663601, 12.576502" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Copenhagen" # Defaults to city, but you can make it the venue name.
+
+location_address: "Mogens Dahl Concert Hall, København" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Jasmine Crozier"
+    employer: "Praqma"
+  - name: "Adam Henriques"
+    employer: "Praqma"
+  - name: Jose Quaresma
+    employer: "Accenture"
+  - name: "Rasmus Hald"
+    employer: "Maersk"
+  - name: "Jeppe Andersen"
+    employer: "Momondo"
+  - name: "Mariusz Bury"
+    employer: "Praqma"
+  - name: "Johan Abildskov"
+    employer: "Praqma"
+organizer_email: "organizers-copenhagen-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-copenhagen-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+
+pictures: <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/code-conf/albums/72157692949287212" title="DevOpsDays CPH 2018"><img src="https://farm1.staticflickr.com/977/27826295698_00136266b7.jpg" width="500" height="333" alt="DevOpsDays CPH 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+sponsors:
+  - id: praqma
+    level: gold
+  - id: chef
+    level: gold
+  - id: ibm
+    level: gold
+  - id: atlassian
+    level: gold
+  - id: nnit
+    level: silver
+  - id: platformsh
+    level: silver
+  - id: cloudeon
+    level: silver
+  - id: phable
+    level: silver
+  - id: maersk
+    level: silver
+  - id: fastly
+    level: silver
+  - id: unity
+    level: silver
+  - id: technologydenmark
+    level: community
+  - id: almbrand
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 4
+  - id: silver
+    label: Silver
+    max: 10
+  - id: community
+    label: Community
+
+program:
+
+  #Day 1 below:
+
+  - title: "Registration & Breakfast"
+    type: custom
+    date: "2018-04-24"
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome by Johan Abildskov"
+    type: custom
+    date: "2018-04-24"
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "yves-hwang"
+    type: talk
+    date: "2018-04-24"
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: Break
+    type: break
+    date: "2018-04-24"
+    start_time: "09:50"
+    end_time: "10:10"
+  - title: "eduardo-piairo"
+    type: talk
+    date: "2018-04-24"
+    start_time: "10:10"
+    end_time: "10:40"
+  - title: Short Break
+    type: break
+    date: "2018-04-24"
+    start_time: "10:40"
+    end_time: "10:45"
+  - title: "thien-an-mac"
+    type: talk
+    date: "2018-04-24"
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
+    type: break
+    date: "2018-04-24"
+    start_time: "11:15"
+    end_time: "11:35"
+  - title: "aubrey-stearn"
+    type: talk
+    date: "2018-04-24"
+    start_time: "11:35"
+    end_time: "12:05"
+  - title: "Lunch Break"
+    type: custom
+    date: "2018-04-24"
+    start_time: "12:05"
+    end_time: "12:50"
+  - title: "Ignite talks:"
+    type: ignite
+    date: "2018-04-24"
+    start_time: "12:50"
+    end_time: "13:30"
+  - title: "Intro to Open Space Discussions"
+    type: custom
+    date: "2018-04-24"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Discussions 1/3"
+    type: open-space
+    date: "2018-04-24"
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break"
+    type: break
+    date: "2018-04-24"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions 2/3"
+    type: open-space
+    date: "2018-04-24"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: break
+    date: "2018-04-24"
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions 3/3"
+    type: open-space
+    date: "2018-04-24"
+    start_time: "16:00"
+    end_time: "16:40"
+  - title: "Wrap-up of the Day by Johan Abildskov"
+    type: custom
+    date: "2018-04-24"
+    start_time: "16:40"
+    end_time: "17:00"
+  - title: "Mingle"
+    type: custom
+    date: "2018-04-24"
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "Street Food Dinner"
+    type: custom
+    date: "2018-04-24"
+    start_time: "18:00"
+    end_time: "20:30"
+
+    # Day2 below:
+
+  - title: "Breakfast"
+    type: custom
+    date: "2018-04-25"
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome by Johan Abildskov"
+    type: custom
+    date: "2018-04-25"
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mike-long"
+    type: talk
+    date: "2018-04-25"
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "09:45"
+    end_time: "10:05"
+  - title: "boyan-mihaylov"
+    type: talk
+    date: "2018-04-25"
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Short Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "10:35"
+    end_time: "10:40"
+  - title: "gloria-hornero"
+    type: talk
+    date: "2018-04-25"
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "giulio-vian"
+    type: talk
+    date: "2018-04-25"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch Break"
+    type: custom
+    date: "2018-04-25"
+    start_time: "12:00"
+    end_time: "12:50"
+  - title: "Ignite talks:"
+    type: ignite
+    date: "2018-04-25"
+    start_time: "12:50"
+    end_time: "13:30"
+  - title: "Intro to Open Space Discussions"
+    type: custom
+    date: "2018-04-25"
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Discussions 1/3"
+    type: open-space
+    date: "2018-04-25"
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions 2/3"
+    type: open-space
+    date: "2018-04-25"
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: break
+    date: "2018-04-25"
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions 3/3"
+    type: open-space
+    date: "2018-04-25"
+    start_time: "16:00"
+    end_time: "16:40"
+  - title: "Wrap-up of the Day by Johan Abildskov"
+    type: custom
+    date: "2018-04-25"
+    start_time: "16:40"
+    end_time: "17:00"
+
+ignites:
+  - title: "lars-kruse"
+    date: "2018-04-24"
+  - title: "niels-harre"
+    date: "2018-04-24"
+  - title: "anders-bruvik"
+    date: "2018-04-24"
+  - title: "lars-bendix"
+    date: "2018-04-24"
+  - title: "allan-ebdrup"
+    date: "2018-04-24"
+  - title: "mandi-walls"
+    date: "2018-04-25"
+  - title: "jeppe-andersen"
+    date: "2018-04-25"
+  - title: "laszlo-fogas"
+    date: "2018-04-25"
+  - title: "anders-truelsen"
+    date: "2018-04-25"
+  - title: "greg-wunderle"
+    date: "2018-04-25"

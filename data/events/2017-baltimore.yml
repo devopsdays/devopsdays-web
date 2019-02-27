@@ -73,19 +73,19 @@ sponsors:
     level: platinum
   - id: opsgenie
     level: platinum
-  - id: fearless
+  - id: fearless-before-20180801
     level: platinum
   - id: redhat
     level: platinum
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: platinum
   - id: ns1
     level: platinum
   - id: circonus
     level: platinum
-  - id: victorops
+  - id: victorops-before-20180823
     level: platinum
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: platinum
   - id: chef
     level: platinum
@@ -127,7 +127,7 @@ sponsors:
     level: community
   - id: groundfloor
     level: community
-  - id: harbor_launch
+  - id: harborlaunch
     level: community
   - id: bw_tech
     level: community

@@ -2,6 +2,7 @@ name: "2017-ohio" # The name of the event. Four digit year with the city name in
 year: 2017 # The year of the event. Make sure it is in quotes.
 city: "Ohio" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysOhio"
+event_group: "Columbus"
 
 startdate: "2017-11-08" # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: "2017-11-09" # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
@@ -12,21 +13,14 @@ coordinates: "40.0120098, -82.9778019" # The coorodinates of your venue. Get Lat
 location: "The Bluestone" # The name of your location
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: contact
-  - name: propose
+  - name: program
+  - name: speakers
   - name: conduct
   - name: sponsor
-  - name: location
+  - name: "location/parking"
+    url: "/events/2017-ohio/location"
 
 team_members: # Name is the only required field for team members.
-#  - name: "---"
-#    employer: "---"
-#    bio: "---"
-#    twitter: "---"
-#    linkedin: "---"
-#    facebook: "---"
-#    website: "---"
-#    github: "---"
-#    image: "---"
   - name: "Andy Dyrcz"
     employer: "Express"
     bio: "Proud Member of Pipegreppers Union Local 614"
@@ -74,8 +68,24 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: ahead
     level: gold
-  - id: servicenow
+  - id: roundtowertechnologies
+    level: gold
+  - id: chef
+    level: gold
+  - id: appdynamics-before-20180316
+    level: gold
+  - id: servicenow-before-20180620
     level: silver
+  - id: teksystems
+    level: silver
+  - id: mesosphere
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: pagerduty
+    level: silver
+  - id: stickermule
+    level: support
 
 sponsors_accepted : "yes"
 
@@ -88,3 +98,156 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     label: Bronze
   - id: support
     label: Community and Supporting
+
+program:
+  - title: "Registration and Breakfast" # Day 1 Start
+    type: custom
+    date: 2017-11-08
+    start_time: "8:00"
+    end_time: "9:00" 
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2017-11-08
+    start_time: "9:15"
+    end_time: "9:00" 
+
+  - title: "barbara-bouldin"
+    type: talk
+    date: 2017-11-08
+    start_time: "9:15"
+    end_time: "9:45" 
+
+  - title: "preston-waller"
+    type: talk
+    date: 2017-11-08
+    start_time: "9:55"
+    end_time: "10:25" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-08
+    start_time: "10:25"
+    end_time: "10:40" 
+
+  - title: "barry-tarlton"
+    type: talk
+    date: 2017-11-08
+    start_time: "10:40"
+    end_time: "11:15" 
+
+  - title: "adarsh-shah"
+    type: talk
+    date: 2017-11-08
+    start_time: "11:20"
+    end_time: "11:50" 
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-08
+    start_time: "12:00"
+    end_time: "12:00" 
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-08
+    start_time: "12:00"
+    end_time: "1:00" 
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-08
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Open Spaces Voting"
+    type: open-space
+    date: 2017-11-08
+    start_time: "1:30"
+    end_time: "1:55"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2017-11-08
+    start_time: "2:00"
+    end_time: "4:45"
+
+  - title: "Close of day"
+    type: custom
+    date: 2017-11-08
+    start_time: "4:45"
+    end_time: "5:00"
+
+  - title: "Registration and Breakfast" # Day 2 start
+    type: custom
+    date: 2017-11-09
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "chris-mcfee"
+    type: talk
+    date: 2017-11-09
+    start_time: "9:15"
+    end_time: "9:45" 
+
+  - title: "aaron-kalin"
+    type: talk
+    date: 2017-11-09
+    start_time: "9:55"
+    end_time: "10:25"
+
+  - title: "Break"
+    type: custom
+    date: 2017-11-09
+    start_time: "10:25"
+    end_time: "10:40"
+
+  - title: "ryan-lockard"
+    type: talk
+    date: 2017-11-09
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "jason-hand"
+    type: talk
+    date: 2017-11-09
+    start_time: "11:20"
+    end_time: "11:55"
+
+  - title: "Lunch"
+    type: custom
+    date: 2017-11-09
+    start_time: "12:00"
+    end_time: "1:00"
+
+  - title: "Ignites"
+    type: ignite
+    date: 2017-11-09
+    start_time: "1:00"
+    end_time: "1:30"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: 2017-11-09
+    start_time: "1:30"
+    end_time: "4:00"
+
+  - title: "Close of Event"
+    type: custom
+    date: 2017-11-09
+    start_time: "4:00"
+    end_time: "4:30"
+
+ignites:
+  - title: "jerry-cattell"
+    date: 2017-11-08
+  - title: "neil-primmer"
+    date: 2017-11-08
+  - title: "tiffany-longworth"
+    date: 2017-11-08
+  - title: "tom-larrow"
+    date: 2017-11-09
+  - title: "michael-butler"
+    date: 2017-11-09
+  - title: "michael-pinnegar"
+    date: 2017-11-09

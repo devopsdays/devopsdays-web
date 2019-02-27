@@ -1,0 +1,6 @@
+{{- $e := (index $.Site.Data.events (index (split ($.Page.Permalink | relURL) "/") 2)) -}}
+{{- if $e.registration_date_end -}}
+  {{ dateFormat "Monday, Jan 2, 2006" $e.registration_date_end }}
+{{- else -}}
+  TBD
+{{- end -}}

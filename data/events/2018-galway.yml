@@ -1,0 +1,420 @@
+name: "2018-galway" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Galway" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysgal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming to Galway!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-11-19
+enddate: 2018-11-20
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-08-01 # start accepting talk proposals.
+cfp_date_end: 2018-09-09 # close your call for proposals.
+cfp_date_announce: 2018-10-05  # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2018-09-06 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-16 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "53.274193,-9.043818" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Galmont Hotel and Spa (formerly Radisson Blu)" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Galmont Hotel and Spa, Lough Atalia Rd, Galway, Ireland"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Darragh Bailey"
+    image: "darragh-bailey.jpg"
+    employer: "HPE"
+    twitter: "electrofelix"
+    github: "electrofelix"
+    linkedin: "https://www.linkedin.com/in/darragh-bailey"
+    bio: |
+      Darragh is a developer at HPE interested in all things CI/CD.
+      He has worked a number of tools which are Open Source including
+      <a href='https://github.com/openstack-infra/jenkins-job-builder'>Jenkins Job Builder</a>,
+      <a href='https://github.com/openstack/git-upstream'>git-upstream</a>, and
+      <a href='https://github.com/vagrant-libvirt/vagrant-libvirt'>vagrant-libvirt</a>.
+      Darragh is also an organizer for the DevOps Galway Meetup.
+  - name: "Emma Meehan"
+    image: "emma-meehan.jpg"
+    employer: "Cisco"
+    twitter: "destr0ya"
+    linkedin: "https://www.linkedin.com/in/emmameehan3"
+    bio: |
+      Emma is a Software Engineer for Cisco, where she works on Java microservices for cloud-based 
+      collaboration technologies. She has recently graduated from NUI Galway with an honours degree 
+      in Computer Science & Information Technology, and has a passion for combat sports, 
+      particularly Muay Thai.
+  - name: "Jon-Paul Sullivan"
+    image: "jonpaul-sullivan.jpg"
+    employer: "Cisco"
+    twitter: "j3p0uk"
+    github: "j3p0uk"
+    linkedin: "http://linkedin.com/in/jpsulli"
+    bio: |
+      JP is a Developer at Cisco, where he sates his knowledge for all things
+      DevOps by working on cloud deployments across AWS and Openstack, and
+      developing internal tools for development, deployment and operations of
+      cloud-based solutions.
+  - name: "Stefano Canepa"
+    image: "stefano-canepa.jpg"
+    employer: "HPE"
+    twitter: "scanepa"
+    github: "scanepa"
+    linkedin: "https://www.linkedin.com/in/stefanocanepa"
+    bio: |
+      Italian living in Ireland. Passionate about free software. Linux user.
+      Cloud System Engineer @ HPE. Stefano spends most of his time typing on
+      a keyboard and looking at an LCD screen. When not in front of a computer
+      you can find him cycling, swimming or walking around.
+  - name: "Coleman Corrigan"
+    image: "coleman-corrigan.jpg"
+    employer: "OpenJaw"
+    linkedin: "https://www.linkedin.com/in/coleman-corrigan-869a62"
+    twitter: "ColemanCorrigan"
+    bio: |
+      Coleman is a Cloud Systems Architect for Openjaw Technologies. He is a long
+      time advocate for open source and an engineer at heart, who spends his days
+      migrating customer environments onto AWS.
+  - name: "Alan Duggan"
+    image: "alan-duggan.jpg"
+    employer: "HPE"
+    bio: |
+      Alan is a Multidimensional Engineer working for HPE. Working with people,
+      processes and tools to espouse DevOps ideals in an enterprise scale CD
+      solution. When not attending meetups he can be found walking the scenic
+      trails and hills of Galway.
+  - name: "Joe Goggins"
+    image: "joe-goggins.jpg"
+    employer: "Aspect"
+    linkedin: "https://www.linkedin.com/in/joegoggins"
+    bio: |
+      Joe is a Developer at Aspect where he's building a Cloud Customer Engagement
+      Center. He is interested in highly reliable and scalable systems in the cloud,
+      monitoring of cloud services and constant quality improvements through
+      continuous integration, continuous deployment, metrics and automation.
+  - name: "Bryan Solan"
+    image: "bryan-solan.jpg"
+    employer: "Aspect"
+    linkedin: "https://www.linkedin.com/in/bryan-solan"
+    twitter: "bryji"
+    bio: |
+      Bryan is a Developer at Aspect where he works on CI/CD with Kubernetes,
+      Jenkins and Scala/Spring applications in the AWS cloud.
+  - name: "Padraic Wade"
+    image: "padraic-wade.jpg"
+    employer: "Woodgroup"
+    twitter: "padraic.wade"
+    linkedin: "https://www.linkedin.com/in/padraicwade/"
+    bio: DevOps and Cyber Security engineer for Woodplc Galway
+  - name: "Rusty Weise"
+    image: "rusty-weise.jpg"
+    employer: "HPE"
+    twitter: "miniman"
+    linkedin: "https://www.linkedin.com/in/rustyweise"
+    bio: |
+      Rusty's CV proudly states he is a Swiss Army Knife. He uprooted himself from
+      his home town of Portland, Oregon in 2015 to pursue a life goal of being an
+      ex-pat in Galway. Currently his days are spent on a monitoring and logging
+      solution in the Software Defined Cloud Group in Hewlett Packard Enterprise,
+      and volunteering. He fills every breath of spare time with learning the Celtic
+      harp, diligently studying Irish, being an apprentice potter, knitting, and
+      tinkering with his 1959 Austin Mini among many other activities.
+
+
+
+organizer_email: "organizers-galway-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-galway-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: cisco
+    level: bronze
+  - id: itag-skillnet
+    level: bronze
+  - id: aspect
+    level: silver
+  - id: avaya
+    level: silver
+  - id: smartbear
+    level: silver
+  - id: googlecloud
+    level: silver
+  - id: genesys
+    level: silver
+  - id: hpe
+    level: gold
+  - id: chef
+    level: gold
+  - id: 2018-ibm
+    level: gold
+  - id: compustaff
+    level: lanyards
+  - id: gdg-galway
+    level: community
+  - id: wwcodebelfast
+    level: community
+  - id: wwcodedublin
+    level: community
+  - id: coding-grace
+    level: community
+  - id: devops-galway
+    level: community
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:  
+  - id: gold
+    label: Gold
+    max: 3
+  - id: silver
+    label: Silver
+    max: 6
+  - id: bronze
+    label: Bronze
+    max: 6
+  - id: lanyards
+    label: Lanyard
+  - id: community
+    label: Community
+
+program:
+  # Day one
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-19
+    start_time: "08:30"
+    end_time: "09:30"
+  - title: "Opening of the Conference"
+    type: custom
+    date: 2018-11-19
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "joe-nuspl"
+    type: talk
+    date: 2018-11-19
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "jennifer-petoff"
+    type: talk
+    date: 2018-11-19
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-19
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "adrian-ryan"
+    type: talk
+    date: 2018-11-19
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2018-11-19
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "philip-griffiths"
+    type: talk
+    date: 2018-11-19
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-19
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "kenzie-woodbridge"
+    type: talk
+    date: 2018-11-19
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-19
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2018-11-19
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-19
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2018-11-19
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2018-11-19
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2018-11-19
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Close Day & Announcements"
+    type: custom
+    date: 2018-11-19
+    start_time: "17:45"
+    end_time: "18:00"
+
+  - title: "Evening Event - Networking ChillOps @ An Púcán (Forster Street)"
+    type: custom
+    date: 2018-11-19
+    start_time: "20:00"
+
+  # Day two
+  - title: "Registration, Breakfast, and Sponsor Booths Open"
+    type: custom
+    date: 2018-11-20
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "Day 2 - Opening Welcome"
+    type: custom
+    date: 2018-11-20
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "brian-scanlan"
+    type: talk
+    date: 2018-11-20
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "debbie-levitt"
+    type: talk
+    date: 2018-11-20
+    start_time: "10:35"
+    end_time: "11:05"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-20
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "adopting-sre-in-enterprise-organizations"
+    type: talk
+    date: 2018-11-20
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "sponsors"
+    type: custom
+    date: 2018-11-20
+    start_time:  "11:55"
+    end_time: "12:05"
+  - title: "rich-archbold"
+    type: talk
+    date: 2018-11-20
+    start_time: "12:10"
+    end_time: "12:40"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-11-20
+    start_time: "12:40"
+    end_time: "13:50"
+
+  - title: "jason-gwartz"
+    type: talk
+    date: 2018-11-20
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-11-20
+    start_time: "14:25"
+    end_time: "14:45"
+  - title: "Openspace Opening and Voting"
+    type: open-space
+    date: 2018-11-20
+    start_time: "14:50"
+    end_time: "15:30"
+
+  - title: "Break"
+    type: custom
+    date: 2018-11-20
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "Openspace 1"
+    type: open-space
+    date: 2018-11-20
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Openspace 2"
+    type: open-space
+    date: 2018-11-20
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Openspace 3"
+    type: open-space
+    date: 2018-11-20
+    start_time: "17:10"
+    end_time: "17:40"
+
+  - title: "Closing Day and Farewell"
+    type: custom
+    date: 2018-11-20
+    start_time: "17:45"
+    end_time: "18:00"
+
+ignites:
+  - title: "shane-galvin"
+    date: 2018-11-19
+  - title: "derek-kelly"
+    date: 2018-11-19
+  - title: "frank-farrell"
+    date: 2018-11-19
+  - title: "desy-kristianti"
+    date: 2018-11-19
+  - title: "diarmuid-ohara"
+    date: 2018-11-20
+  - title: "noel-murphy"
+    date: 2018-11-20
+  - title: "paul-oconnor"
+    date: 2018-11-20
+  - title: "sean-meehan"
+    date: 2018-11-20

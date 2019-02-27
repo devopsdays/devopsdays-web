@@ -2,20 +2,20 @@ name: "2018-seattle" # The name of the event. Four digit year with the city name
 year: "2018" # The year of the event. Make sure it is in quotes.
 city: "Seattle" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysSEA" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Seattle!" # Edit this to suit your preferences
+description: "DevOpsDays is coming to Seattle!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-04-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-04-24T00:00:00-07:00
+enddate: 2018-04-25T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-10-09T00:00:00-07:00  # start accepting talk proposals.
+cfp_date_end: 2018-01-07T23:59:59-08:00 # close your call for proposals.
+cfp_date_announce: 2018-01-28T00:00:00-08:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-seattle-2108" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -25,18 +25,19 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Seattle" # Defaults to city, but you can make it the venue name.
+coordinates: "47.612201, -122.331895" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "The Conference Center @ Convention Place" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "804 Pike Street, Seattle, WA 98101" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
-#  - name: sponsor
+ #   url: https://www.papercall.io/devopsdays-seattle-2108
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -67,6 +68,9 @@ team_members: # Name is the only required field for team members.
   - name: "Michael Towbin"
     twitter: "MichaelTowbin"
     image: "michael-towbin.jpg"
+  - name: "Julia Wester"
+    twitter: "EverydayKanban"
+    image: "julia-wester.jpg"
   - name: "Todd Wilson"
     twitter: "t1wilson"
     image: "todd-wilson.jpg"
@@ -76,13 +80,77 @@ proposal_email: "organizers-seattle-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: thoughtworks-gocd-before-20190213
+    level: gold
+  - id: rei
+    level: gold
+  - id: t-mobile
+    level: gold
+  - id: scalyr
+    level: gold
+  - id: slalom
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: ignw
+    level: gold
+  - id: ca_tech
+    level: gold
+  - id: chef
+    level: gold
+  - id: appdynamics-before-20190121
+    level: gold
+  - id: extrahop
+    level: gold
+  - id: opsgenie
+    level: gold
+  - id: sumologic-before-20181203
+    level: gold
+  - id: mabl
+    level: gold
+  - id: portworx
+    level: gold
+  - id: dellemc
+    level: gold
+  - id: launch-darkly-before-20180423
+    level: gold
+  - id: getty-images
+    level: gold
+  - id: victorops-before-20180823
+    level: gold
+  - id: tasktop
+    level: gold
+  - id: jfrog
+    level: gold
+  - id: elastic
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: techtown
+    level: silver
+  - id: rightstar-before-20180814
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id: cloudbees
+    level: silver
+  - id: realself
+    level: bronze
+  - id: codefresh
+    level: bronze
+  - id: seattle-coffeeops-before-20190213
+    level: community
 #  - id: samplesponsorname
 #    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -99,3 +167,226 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-24
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "john-allspaw"
+    type: talk
+    date: 2018-04-24
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-24
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "scott-nasello"
+    type: talk
+    date: 2018-04-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-04-24
+    start_time: "10:30"
+    end_time: "10:44"
+  - title: "sarah-hagan"
+    type: talk
+    date: 2018-04-24
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-24
+    start_time: "11:15"
+    end_time: "11:25"
+  - title: "jane-prusakova"
+    type: talk
+    date: 2018-04-24
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-24
+    start_time: "11:55"
+    end_time: "13:00"
+  - title: "anjuan-simmons"
+    type: talk
+    date: 2018-04-24
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-04-24
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-24
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-24
+    start_time: "14:40"
+    end_time: "15:20"
+  - title: "tom-mclaughlin"
+    type: workshop
+    date: 2018-04-24
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-24
+    start_time: "15:30"
+    end_time: "16:10"
+  - title: "michael-ducy"
+    type: workshop
+    date: 2018-04-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-24
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "doug-ireton"
+    type: workshop
+    date: 2018-04-24
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2018-04-24
+    start_time: "17:00"
+    end_time: "17:15"
+  - title: "Evening event at Chef HQ"
+    type: custom
+    date: 2018-04-24
+    start_time: "17:30"
+    end_time: "20:30"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "joe-beda"
+    type: talk
+    date: 2018-04-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-25
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2018-04-25
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2018-04-25
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "sam-guckenheimer"
+    type: talk
+    date: 2018-04-25
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-25
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "paul-czarkowski"
+    type: talk
+    date: 2018-04-25
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-25
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "rebecca-fitzhugh"
+    type: talk
+    date: 2018-04-25
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-04-25
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-25
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-25
+    start_time: "14:25"
+    end_time: "15:05"
+  - title: "jen-tong"
+    type: workshop
+    date: 2018-04-25
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-25
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "billy-hoffman"
+    type: workshop
+    date: 2018-04-25
+    start_time: "15:15"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-25
+    start_time: "16:05"
+    end_time: "16:35"
+  - title: "ren-lee"
+    type: workshop
+    date: 2018-04-25
+    start_time: "16:05"
+    end_time: "16:35"
+  - title: "Closing"
+    type: custom
+    date: 2018-04-25
+    start_time: "16:45"
+    end_time: "17:15"
+ignites:
+  - title: "aaron-aldrich"
+    date: 2018-04-24
+  - title: "ravi-kalaga"
+    date: 2018-04-24
+  - title: "dawn-parzych"
+    date: 2018-04-24
+  - title: "steven-lattin"
+    date: 2018-04-24
+  - title: "donnell-baker"
+    date: 2018-04-25
+  - title: "ed-anderson"
+    date: 2018-04-25
+  - title: "david-awad"
+    date: 2018-04-25
+  - title: "sarah-shewell"
+    date: 2018-04-25

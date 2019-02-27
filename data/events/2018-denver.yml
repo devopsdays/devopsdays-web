@@ -1,0 +1,349 @@
+name: "2018-denver" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: 2018 # The year of the event. Make sure it is in quotes.
+city: "Denver" # The city name of the event. Capitalize it.
+event_twitter: "devopsdaysrox"
+event_logo: "logo-square.jpg"
+friendly: "2018-denver" # Four digit year and the city name in lower-case. Don't forget the dash!
+status: "current" # Options are "past" or "current".
+
+startdate: 2018-04-17T00:00:00-06:00
+enddate: 2018-04-18T23:59:59-06:00
+
+cfp_date_start: 2017-12-21T00:00:00-07:00
+cfp_date_end: 2018-02-28T23:59:59-07:00
+cfp_date_announce: 2018-03-01T00:00:00-07:00
+
+coordinates: "39.739236, -104.990251" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Denver" # The name of your location
+registration_open: "open"
+registration_link: "https://www.eventbrite.com/e/devopsdays-denver-2018-tickets-41297850984?aff=dodorg"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+
+  - name: sponsor
+  - name: registration
+#  - name: propose
+  - name: contact
+  - name: conduct
+  - name: location
+  - name: program
+  - name: speakers
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Tavis Aitken"
+    twitter: "tavisto"
+  - name: "Jason Hand"
+    twitter: "jasonhand"
+  - name: "Beau Christensen"
+    twitter: "beauchristensen"
+  - name: "Joe Thompson"
+  - name: "Nick Huanca"
+    twitter: "NickHuanca"
+  - name: "Ryan Koch"
+    twitter: "ryanckoch"
+  - name: "Matt Knox"
+    twitter: "mknox42"
+
+
+organizer_email: "organizers-denver-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-denver-2018@devopsdays.org" # Put your proposal email address here
+sponsors: # List all of your sponsors here along with what level of sponsorship they have.
+  - id: opsgenie
+    level: gold
+  - id: sumologic-before-20181203
+    level: platinum
+  - id: mesosphere
+    level: gold
+  - id: freshtracks
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: releaseteam_qa
+    level: silver
+  - id: appdynamics-before-20190121
+    level: platinum
+  - id: victorops-before-20180823
+    level: platinum
+  - id: dome9
+    level: silver
+  - id: xero
+    level: silver
+  - id: wwt_asynchrony_labs
+    level: silver
+  - id: logzio
+    level: silver
+  - id: gtri
+    level: bronze
+  - id: arista
+    level: silver
+  - id: xmatters
+    level: gold
+  - id: confluent
+    level: bronze
+  - id: waffleio
+    level: alt
+  - id: elastic
+    level: gold
+  - id: cloudbees
+    level: social
+  - id: sendgrid
+    level: bronze
+  - id: craftsy
+    level: bronze
+
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: social
+    label: Social Hour
+    max: 1
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: bronze
+    label: Bronze
+  - id: alt
+    label: Ancillary
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-17
+    start_time: "08:00"
+    end_time: "09:00"
+
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-17
+    start_time: "09:00"
+    end_time: "09:10"
+
+  - title: "pete-cheslock"
+    type: talk
+    date: 2018-04-17
+    start_time: "09:10"
+    end_time: "09:40"
+
+  - title: "curtis-yanko"
+    type: talk
+    date: 2018-04-17
+    start_time: "09:40"
+    end_time: "10:10"
+
+  - title: "Morning Break - VooDoo Donuts by Waffle.io"
+    type: custom
+    date: 2018-04-17
+    start_time: "10:15"
+    end_time: "10:45"
+
+  - title: "michael-stahnke"
+    type: talk
+    date: 2018-04-17
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-17
+    start_time: "11:20"
+    end_time: "11:30"
+
+  - title: "leigh-capili"
+    type: talk
+    date: 2018-04-17
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-17
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Ignites"
+    type: custom
+    date: 2018-04-17
+    start_time: "13:30"
+    end_time: "14:40"
+
+  - title: "aj-davis"
+    type: talk
+    date: 2018-04-17
+    start_time: "14:40"
+    end_time: "15:10"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-17
+    start_time: "15:15"
+    end_time: "15:25"
+
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-17
+    start_time: "15:25"
+    end_time: "15:20"
+
+  - title: "meera-subbarao"
+    type: talk
+    date: 2018-04-17
+    start_time: "15:25"
+    end_time: "15:55"
+
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-17
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "ado-kukic"
+    type: talk
+    date: 2018-04-17
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-17
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "erik-rygg"
+    type: talk
+    date: 2018-04-17
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Close Day"
+    type: custom
+    date: 2018-04-17
+    start_time: "17:00"
+    end_time: "17:10"
+
+  - title: "Evening event"
+    type: custom
+    date: 2018-04-17
+    start_time: "17:30"
+    end_time: "late"
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2018-04-18
+    start_time: "08:00"
+    end_time: "09:00"
+
+# Day 2
+  - title: "Opening Welcome"
+    type: custom
+    date: 2018-04-18
+    start_time: "09:00"
+    end_time: "09:10"
+
+  - title: "christine-rohacz"
+    type: talk
+    date: 2018-04-18
+    start_time: "09:10"
+    end_time: "09:40"
+
+  - title: "corey-quinn"
+    type: talk
+    date: 2018-04-18
+    start_time: "09:40"
+    end_time: "10:10"
+
+  - title: "Morning Break - VooDoo Donuts by Waffle.io"
+    type: custom
+    date: 2018-04-18
+    start_time: "10:15"
+    end_time: "10:45"
+
+  - title: "matthew-boeckman"
+    type: talk
+    date: 2018-04-18
+    start_time: "10:50"
+    end_time: "11:20"
+
+  - title: "Sponsors"
+    type: custom
+    date: 2018-04-18
+    start_time: "11:20"
+    end_time: "11:30"
+
+  - title: "beau-christensen"
+    type: talk
+    date: 2018-04-18
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Lunch"
+    type: custom
+    date: 2018-04-18
+    start_time: "12:00"
+    end_time: "13:30"
+
+  - title: "Ignites"
+    type: custom
+    date: 2018-04-18
+    start_time: "13:40"
+    end_time: "14:40"
+
+  - title: "Open Space Opening"
+    type: custom
+    date: 2018-04-18
+    start_time: "14:40"
+    end_time: "14:45"
+
+  - title: "Open Space #1"
+    type: custom
+    date: 2018-04-18
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "tom-mclaughlin"
+    type: talk
+    date: 2018-04-18
+    start_time: "14:45"
+    end_time: "15:15"
+
+  - title: "Open Space #2"
+    type: custom
+    date: 2018-04-18
+    start_time: "15:20"
+    end_time: "15:50"
+
+  - title: "rizchel-dayao"
+    type: talk
+    date: 2018-04-18
+    start_time: "15:20"
+    end_time: "15:50"
+
+  - title: "Open Space #3"
+    type: custom
+    date: 2018-04-18
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "kris-nova"
+    type: talk
+    date: 2018-04-18
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "Open Space #4"
+    type: custom
+    date: 2018-04-18
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "james-bowes"
+    type: talk
+    date: 2018-04-18
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Sponsor Raffles and Closing"
+    type: custom
+    date: 2018-04-18
+    start_time: "17:00"
+    end_time: "17:20"

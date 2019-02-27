@@ -6,36 +6,36 @@ description: "Devopsdays is coming to Des Moines!" # Edit this to suit your pref
 ga_tracking_id: "UA-100057712-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-04-12T00:00:00-05:00
+enddate: 2018-04-13T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2017-11-06T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2018-01-14T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2018-02-15T00:00:00-06:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysdesmoines"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2017-12-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-04-01T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-des-moines-tickets-39855883019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Des Moines" # Defaults to city, but you can make it the venue name.
+coordinates: "41.591913,-93.622598" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
+#  - name: propose
+  - name: location
+  - name: registration
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -62,6 +62,10 @@ team_members: # Name is the only required field for team members.
     github: "jessiepuls"
     linkedin: "https://www.linkedin.com/in/jessiepuls"
     twitter: "jessiepuls"
+  - name: "Bo Schatzberg"
+    github: "BoSchatzberg"
+    linkedin: "https://www.linkedin.com/in/BoSchatzberg/"
+    twitter: "BoSchatzberg"
   - name: "Ethan Spoelstra"
     github: "espoelstra"
     linkedin: "https://www.linkedin.com/in/ethanspoelstra"
@@ -79,7 +83,56 @@ proposal_email: "proposals-des-moines-2018@devopsdays.org" # Put your proposal e
 #    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
-
+sponsors:
+  - id: trility
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: appdynamics-before-20190121
+    level: gold
+  - id: workiva
+    level: gold
+  - id: sumologic-before-20181203
+    level: gold
+  - id: granular
+    level: gold
+  - id: xebialabs
+    level: silver 
+  - id: john-deere
+    level: silver 
+  - id: contrast_security 
+    level: silver 
+  - id: columntech
+    level: silver
+  - id: beaconhill
+    level: bronze
+  - id: qci
+    level: bronze
+  - id: dice
+    level: bronze
+  - id: paragon
+    level: bronze
+  - id: realkinetic
+    level: bronze
+  - id: robert-half
+    level: bronze
+  - id: teksystems
+    level: bronze
+  - id: leantechniques
+    level: bronze
+  - id: mumosystems
+    level: bronze
+  - id: intl-fcstone
+    level: bronze
+  - id: meredith
+    level: bronze
+  - id: sourceallies
+    level: uranium
+  - id: sidegarage
+    level: community
+  - id: datadog
+    level: brass
+      
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
@@ -87,11 +140,285 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 2
   - id: bronze
     label: Bronze
+    max: 10
+  - id: uranium
+    label: Uranium
+    max: 1
+  - id: brass
+    label: Bag and Lanyard
+    max: 1
   - id: community
     label: Community
+
+program:
+  - title: "Breakfast and Registration"
+    type: custom
+    date: "2018-04-12"
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Opening Comments"
+    type: custom
+    date: "2018-04-12"
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: "2018-04-12"
+    start_time: "9:15"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "matt-busche"
+    type: talk
+    date: "2018-04-12"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "pramod-sadalage"
+    type: talk
+    date: "2018-04-12"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "tim-andersen"
+    type: talk
+    date: "2018-04-12"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "luke-amdor"
+    type: talk
+    date: "2018-04-12"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "annette-head"
+    type: talk
+    date: "2018-04-12"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "joel-tosi"
+    type: talk
+    date: "2018-04-12"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "darin-webb"
+    type: talk
+    date: "2018-04-12"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "mike-douglas"
+    type: talk
+    date: "2018-04-12"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "matt-ring-john-van-roekel"
+    type: talk
+    date: "2018-04-12"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-12"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: ignite
+    date: "2018-04-12"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "chad-thompson"
+    type: talk
+    date: "2018-04-12"
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "bryce-hemme"
+    type: talk
+    date: "2018-04-12"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "brandon-williams"
+    type: talk
+    date: "2018-04-12"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "bob-ready"
+    type: talk
+    date: "2018-04-12"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: "2018-04-12"
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: open-space
+    date: "2018-04-12"
+    start_time: "15:30"
+    end_time: "16:45"
+  - title: "Closing Comments"
+    type: custom
+    date: "2018-04-12"
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening Event - Baratta’s at Forté"
+    type: custom
+    date: "2018-04-12"
+    start_time: "17:00"
+    end_time: "21:00"
+
+  - title: "Breakfast and Registration"
+    type: custom
+    date: "2018-04-13"
+    start_time: "8:00"
+    end_time: "9:00"
+  - title: "Opening Comments"
+    type: custom
+    date: "2018-04-13"
+    start_time: "9:00"
+    end_time: "9:15"
+  - title: "tyler-treat"
+    type: talk
+    date: "2018-04-13"
+    start_time: "9:15"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "gerie-owen"
+    type: talk
+    date: "2018-04-13"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "spencer-herzberg"
+    type: talk
+    date: "2018-04-13"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "keanan-koppenhaver"
+    type: talk
+    date: "2018-04-13"
+    start_time: "10:15"
+    end_time: "10:45"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "10:45"
+    end_time: "11:00"
+  - title: "jamie-riedesel"
+    type: talk
+    date: "2018-04-13"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "avery-regier"
+    type: talk
+    date: "2018-04-13"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "david-laulusa"
+    type: talk
+    date: "2018-04-13"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "11:30"
+    end_time: "11:45"
+  - title: "wyatt-walter"
+    type: talk
+    date: "2018-04-13"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "peter-chestna"
+    type: talk
+    date: "2018-04-13"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "john-sonneville"
+    type: talk
+    date: "2018-04-13"
+    start_time: "11:45"
+    end_time: "12:15"
+  - title: "Lunch"
+    type: custom
+    date: "2018-04-13"
+    start_time: "12:15"
+    end_time: "13:15"
+  - title: "Ignites"
+    type: ignite
+    date: "2018-04-13"
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "brandon-carlson"
+    type: talk
+    date: "2018-04-13"
+    start_time: "13:45"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "ethan-harstad"
+    type: talk
+    date: "2018-04-13"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "beau-lyddon"
+    type: talk
+    date: "2018-04-13"
+    start_time: "14:45"
+    end_time: "15:15"
+  - title: "Break"
+    type: custom
+    date: "2018-04-13"
+    start_time: "15:15"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: open-space
+    date: "2018-04-13"
+    start_time: "15:30"
+    end_time: "16:45"
+  - title: "Closing Comments"
+    type: custom
+    date: "2018-04-13"
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "peter-chestna2"
+    date: 2018-04-12
+  - title: "matt-ring-john-van-roekel2"
+    date: 2018-04-12
+  - title: "pete-torres"
+    date: 2018-04-12
+  - title: "chuck-rolek"
+    date: 2018-04-13
+  - title: "vincent-mutambuki"
+    date: 2018-04-13
+  - title: "chad-thompson2"
+    date: 2018-04-13

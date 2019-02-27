@@ -1,0 +1,217 @@
+name: "2018-cairo" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2018" # The year of the event. Make sure it is in quotes.
+city: "Cairo" # The displayed city name of the event. Capitalize it.
+event_twitter: "" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Please stay tuned for more information about DevOpsDays Cairo 2018!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: ""
+
+# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
+startdate: 2018-09-17T00:00:00+02:00
+enddate: 2018-09-17T23:59:59+02:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-04-24T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2018-07-19T23:59:59+02:00 # close your call for proposals.
+cfp_date_announce: 2018-08-08T00:00:00+02:00 # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdays-cairo" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "30.035311, 31.227133" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Grand Nile Tower Hotel - Cairo" # Defaults to city, but you can make it the venue name.
+
+location_address: "Grand Nile Tower Hotel" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: propose
+  - name: location
+  - name: cairo
+  - name: registration
+  - name: program
+  - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Ahmed Abdel Aziz"
+    employer: "IBM Egypt"
+    linkedin: "https://www.linkedin.com/in/theredfox/"
+  - name: "Ahmed Ameen"
+    employer: "ITIDA - SECC"
+    linkedin: "https://www.linkedin.com/in/aameen79/"
+  - name: "Ghada Soliman"
+    employer: "Orange Labs"
+    linkedin: "https://www.linkedin.com/in/ghada-soliman-2768063/"
+  - name: "Mohamed Abdelrashid"
+    employer: "DXC Technology"
+    linkedin: "https://www.linkedin.com/in/mohamed-abdelrashid-2178006/"
+  - name: "Mohamed Fawzy"
+    employer: "DXC Technology"
+    linkedin: "https://www.linkedin.com/in/mobayomie/"
+  - name: "Omar Ewedah"
+    employer: "Orange Labs"
+    linkedin: "http://linkedin.com/in/omarewedah"
+  - name: "Reham Saleh"
+    employer: "ITIDA - SECC"
+    linkedin: "https://www.linkedin.com/in/reham-saleh-30405240/"
+  - name: "Sherine FaragAllah"
+    employer: "ITIDA - SECC"
+    linkedin: "https://www.linkedin.com/in/sherine-faragallah-1183b920/"
+
+
+organizer_email: "organizers-cairo-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-cairo-2018@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+ - id: amecse
+   level: community
+ - id: egyptinnovate
+   level: community
+ - id: foss
+   level: community
+ - id: gizasystems
+   level: platinum
+ - id: advansys
+   level: gold
+ - id: BBI
+   level: gold
+ - id: fingerprint
+   level: gold
+ - id: infoglobe
+   level: gold
+ - id: wuzzuf
+   level: gold
+ - id: agilearena
+   level: silver
+
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 1
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: community
+    label: Community
+    max: 7
+
+program:
+# day 1
+  - title: "Registration & Morning Coffee Break"
+    type: custom
+    date: 2018-09-17
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Welcome Note - Dr. Hossam Osman, SECC Chairman"
+    type: custom
+    date: 2018-09-17
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "Welcome Note - Ms. Maha Rashad, ITIDA CEO"
+    type: custom
+    date: 2018-09-17
+    start_time: "10:15"
+    end_time: "10:30"
+  - title: "andrew-shafer"
+    type: talk
+    date: 2018-09-17
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "ahmed-bahaa"
+    type: talk
+    date: 2018-09-17
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ahmed-dahab"
+    type: talk
+    date: 2018-09-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "ahmed-abdelaziz"
+    type: talk
+    date: 2018-09-17
+    start_time: "12:00"
+    end_time: "12:05"
+  - title: "mina-fahmy"
+    type: talk
+    date: 2018-09-17
+    start_time: "12:05"
+    end_time: "12:10"
+  - title: "Networking & Coffee Break"
+    type: custom
+    date: 2018-09-17
+    start_time: "12:10"
+    end_time: "12:45"
+  - title: "mohamed-fawzy"
+    type: talk
+    date: 2018-09-17
+    start_time: "12:45"
+    end_time: "13:15"
+  - title: "marcin-wielgus"
+    type: talk
+    date: 2018-09-17
+    start_time: "13:15"
+    end_time: "13:45"
+  - title: "roman-pickl"
+    type: talk
+    date: 2018-09-17
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "mohamed-galal"
+    type: talk
+    date: 2018-09-17
+    start_time: "14:15"
+    end_time: "14:45"
+  - title: "mohamed-adawi"
+    type: talk
+    date: 2018-09-17
+    start_time: "14:45"
+    end_time: "14:50"
+  - title: "reham-saleh"
+    type: talk
+    date: 2018-09-17
+    start_time: "14:50"
+    end_time: "14:55"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-09-17
+    start_time: "14:55"
+    end_time: "16:00"
+  - title: "Open Spaces"
+    type: open-space
+    date: 2018-09-17
+    start_time: "16:00"
+    end_time: "17:30"
+  - title: "DevOpsDays Cairo 2018 Closure"
+    type: custom
+    date: 2018-09-17
+    start_time: "17:30"
+    end_time: "18:00"

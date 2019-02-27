@@ -83,7 +83,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: eglobaltech
     level: platinum
-  - id: excella
+  - id: excella-before-20180314
     level: platinum
   - id: solarwinds
     level: platinum
@@ -119,7 +119,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: evident
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver
   - id: halvik
     level: silver
@@ -129,7 +129,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: phishme
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: cloudbees-before-20161025
     level: gold
@@ -139,7 +139,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: solidfire
     level: silver
-  - id: fearless
+  - id: fearless-before-20180801
     level: silver
   - id: saucelabs
     level: platinum

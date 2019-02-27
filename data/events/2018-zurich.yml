@@ -4,13 +4,14 @@ city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-05-02
-enddate: 2018-05-03
+startdate: 2018-05-02T00:00:00+02:00
+enddate: 2018-05-03T23:59:59+02:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-# cfp_date_start: 2016-11-01 # start accepting talk proposals.
-# cfp_date_end: 2017-02-01 # close your call for proposals.
-# cfp_date_announce: 2017-04-01 # inform proposers of status
-registration_open: "false"
+cfp_date_start: 2017-10-01T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2018-01-31T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2017-10-01T00:00:00+02:00 # inform proposers of status
+cfp_link: https://cfp.devopsdays.ch
+registration_open: "true"
 
 # Location
 #
@@ -20,36 +21,30 @@ location: "Zürich Winterthur" # Defaults to city, but you can make it the venue
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
-#  - name: speakers
-#  - name: program
-# - name: propose
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+  - name: speakers
+  - name: program
   - name: location
-#  - name: registration
-#  - name: sponsor
+  - name: registration
+#  - name: propose
+#    url: https://cfp.devopsdays.ch
+  - name: sponsor
+  - name: Ladies Night
+    url: https://www.meetup.com/DevOps-Meetup-Zurich/events/249832353/
   - name: contact
-#  - name: conduct
+  - name: conduct
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Martin Thalmann"
-    twitter: "martin_thalmann"
-    employer: "Swisscom AG"
-    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/martinthalmann/"
-    website: ""
-    image: "martin-thalmann.jpg"
-  - name: "Roderick Jonsson"
+  - name: "Noëmi Kruesi"
     twitter: ""
-    employer: ""
-    bio: "Linux System Engineer by profession and some times developer (symfony or java).<p> Working with CoreOS, Kubernetes, Openstack and Docker. <p> Loves tech trend spotting. <p> If you are passionate about DevOps technologies and finding out how they will influence the coming digital economy, then chat me up ;)"
+    employer: "Swisscom AG"
+    bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
+<p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
     github: ""
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/roderick-jonsson-b299ba88/"
+    linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
     website: ""
-    image: "roderick-jonsson.jpg"
+    image: "noemi-krusi.jpg"
   - name: "Bastian Widmer"
     twitter: "dasrecht"
     employer: "amazee.io"
@@ -61,6 +56,44 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
     linkedin: "http://ch.linkedin.com/in/bastianwidmer"
     website: "https://bastianwidmer.ch"
     image: "bastian-widmer.jpg"
+  - name: "Marcelo Ancelmo"
+    twitter: "marceloancelmo"
+    employer: ""
+    bio: "Marcelo S. Ancelmo is currently a Lead Technical Architect with Cognizant, delivering tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In more than fifteen years of practical IT field experience, he assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "marcelo-ancelmo.jpg"
+  - name: "Martin Thalmann"
+    twitter: "martin_thalmann"
+    employer: "Swisscom AG"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/martinthalmann/"
+    website: ""
+    image: "martin-thalmann.jpg"
+  - name: "Matías E. Fernández"
+    twitter: "matiasfrndz"
+    employer: "Swisscom AG"
+    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
+Keen learner and challenger of the status quo.<p>
+Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
+    github: "matiasfrndz"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
+    website: "https://matiasfrndz.ch/"
+    image: "matias-e-fernandez.jpg"
+  - name: "Roderick Jonsson"
+    twitter: ""
+    employer: ""
+    bio: "Linux System Engineer by profession and some times developer (python, symfony or java).<p> Working with CoreOS, Kubernetes, Openstack and Docker. <p> Loves tech trend spotting. <p> If you are passionate about DevOps technologies and finding out how they will influence the coming digital economy, then chat me up ;)"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/roderick-jonsson-b299ba88/"
+    website: "http://www.powerodit.ch"
+    image: "roderick-jonsson.jpg"
   - name: "Tobias Brunner"
     twitter: "tobruzh"
     employer: "VSHN AG"
@@ -73,50 +106,287 @@ Outside of his job, Bastian dedicates much of his time to organizing various con
   - name: "Vittorio Boccone"
     twitter: "drbokko"
     employer: "Dectris Ltd."
-    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily writing beautiful code for Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator. He's also a DevOps enthusiast, a Ham Radio operator, a tech-explorer, a geek, a hacker, a biker, not to mention a father and a husband."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
     github: "https://github.com/drbokko"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
     website: ""
     image: "vittorio-boccone.jpg"
-  - name: "Matías E. Fernández"
-    twitter: "matiasfrndz"
-    employer: "ERNI Consulting AG"
-    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
-Keen learner and challenger of the status quo.<p>
-Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
-    github: "matiasfrndz"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
-    website: "https://matiasfrndz.ch/"
-    image: "matias-e-fernandez.jpg"
-  - name: "Marcelo Ancelmo"
-    twitter: "marceloancelmo"
-    employer: ""
-    bio: "Marcelo S. Ancelmo is currently a Lead Technical Architect with Cognizant, delivering tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In more than fifteen years of practical IT field experience, he assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges."
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-    image: "marcelo-ancelmo.jpg"
-  - name: "Marcel Wolf"
-    twitter: "_marcelwolf"
-    employer: "codecentric AG"
-    bio: "Marcel is a manager of the Berlin branch of codecentric AG. His main IT related topics are DevOps, datacenter automation, change management, and Elixir. He is also a speaker, an author, and the organizer of various conferences and meetups."
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-    image: "marcel-wolf.jpg"
 
-organizer_email: "organizer@devopsdays.ch" # Put your organizer email address here
-proposal_email: "organizer@devopsdays.ch" # Put your proposal email address here
+
+organizer_email: "organizers-zurich-2018@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-zurich-2018@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pontine
+    level: Evening Event
+  - id: puzzle-itc
+    level: silver
+  - id: vshn
+    level: gold
+  - id: nine
+    level: gold
+  - id: mobiliar
+    level: silver
+  - id: dectris
+    level: bronze
+  - id: atos
+    level: gold
+  - id: swisscom-before-20190117
+    level: gold
+    url: https://job.swisscom.ch/ict/de?showclose=1
+  - id: atlassian
+    level: gold
+  - id: zhlke
+    level: gold
+  - id: swiss-re
+    level: gold
+  - id: netapp-schweiz
+    level: gold
+  - id:  redgate
+    level: gold
+  - id: exoscale
+    level: bronze
+    url: https://www.exoscale.com/?utm_source=devopsdayszurich2018URLutm_medium=emailURLutm_campaign=event
+  - id: powercoders
+    level: community
+  - id: jazoon
+    level: community
+  - id: oracle
+    level: bronze
+    url: https://cloud.oracle.com/
+  - id: geek-girls-carrots
+    level: community
 
-sponsors_accepted : "false" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+  - id: Evening Event
+    label: Evening Event
+    max: 1
+  - id: gold
+    label: Gold
+    max: 9
+  - id: silver
+    label: Silver
+    max: 2
+  - id: bronze
+    label: Bronze
+    max: 4
+  - id: community
+    label: Community
+    max: 4
 
 program:
+  - title: "Registration & Welcome Coffee"
+    type: custom
+    date: 2018-05-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2018-05-02
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "tanya-janca"
+    type: talk
+    date: 2018-05-02
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "bernd-erk"
+    type: talk
+    date: 2018-05-02
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-02
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "franziska-buehler"
+    type: talk
+    date: 2018-05-02
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ramon-medrano-llamas"
+    type: talk
+    date: 2018-05-02
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "paige-bernier"
+    type: talk
+    date: 2018-05-02
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-02
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2018-05-02
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-02
+    start_time: "14:05"
+    end_time: "14:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-02
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2018-05-02
+    start_time: "14:50"
+    end_time: "15:35"
+  - title: "workshop-with-mathis-kretz"
+    type: workshop
+    date: 2018-05-02
+    start_time: "14:50"
+    end_time: "16:30"
+  - title: "workshop-with-brian-christner"
+    type: workshop
+    date: 2018-05-02
+    start_time: "14:50"
+    end_time: "17:20"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2018-05-02
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2018-05-02
+    start_time: "16:35"
+    end_time: "17:20"
+  - title: "workshop-with-philipp-krenn"
+    type: workshop
+    date: 2018-05-02
+    start_time: "16:35"
+    end_time: "17:20"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2018-05-02
+    start_time: "17:25"
+    end_time: "17:30"
+  - title: "Evening Event"
+    type: custom
+    date: 2018-05-02
+    start_time: "17:30"
+    end_time: "opes end"
+    comments: "The evening event will take place at [Boilerroom](https://goo.gl/maps/mhk91oCHTqt).<br>
+    Beverages and snacks sponsored by [Pontine](https://www.pontine.com/)."
+  - title: "Registration & Coffe"
+    type: custom
+    date: 2018-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2018-05-03
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2018-05-03
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "christian-hirsig"
+    type: talk
+    date: 2018-05-03
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2018-05-03
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "basil-brunner"
+    type: talk
+    date: 2018-05-03
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "rachael-byrne"
+    type: talk
+    date: 2018-05-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "georgiana-gligor"
+    type: talk
+    date: 2018-05-03
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2018-05-03
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2018-05-03
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2018-05-03
+    start_time: "14:05"
+    end_time: "14:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2018-05-03
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space Session #1"
+    type: open-space
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "15:35"
+  - title: "workshop-with-manuel-hutter"
+    type: workshop
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "16:30"
+  - title: "workshop-with-tanya-janca-and-nicole-becher"
+    type: workshop
+    date: 2018-05-03
+    start_time: "14:50"
+    end_time: "17:20"
+  - title: "Open Space Session #2"
+    type: open-space
+    date: 2018-05-03
+    start_time: "15:45"
+    end_time: "16:30"
+  - title: "Open Space Session #3"
+    type: open-space
+    date: 2018-05-03
+    start_time: "16:35"
+    end_time: "17:20"
+  - title: "workshop-with-torben-hoeft"
+    type: workshop
+    date: 2018-05-03
+    start_time: "16:35"
+    end_time: "17:20"
+  - title: "Close Day & Farewell"
+    type: custom
+    date: 2018-05-03
+    start_time: "17:25"
+    end_time: "17:30"
+
+ignites:
+  - title: "ignite-talk-by-serhat-can"
+    date: 2018-05-02
+  - title: "ignite-talk-by-nicole-becher"
+    date: 2018-05-02
+  - title: "ignite-talk-by-kris-buytaert"
+    date: 2018-05-02
+  - title: "ignite-talk-by-philipp-krenn"
+    date: 2018-05-03
+  - title: "ignite-talk-by-heinrich-hartmann"
+    date: 2018-05-03
+  - title: "ignite-talk-by-marcin-niewiadomski"
+    date: 2018-05-03

@@ -80,13 +80,13 @@ sponsors:
       level: community
     - id: chef
       level: gold
-    - id: influxdata
+    - id: influxdata-before-20171218
       level: gold
     - id: symantec
       level: bronze
-    - id: aws
+    - id: aws-before-20180313
       level: gold
-    - id: victorops
+    - id: victorops-before-20180823
       level: silver
     - id: twistlock
       level: gold
@@ -126,7 +126,7 @@ sponsors:
       level: cmccd
     - id: tripwire
       level: bronze
-    - id: thoughtworks-gocd
+    - id: thoughtworks-gocd-before-20190213
       level: silver
     - id: pagerduty
       level: gold
@@ -136,7 +136,7 @@ sponsors:
       level: bronze
     - id: bitnami
       level: cmccd
-    - id: microsoft
+    - id: microsoftazure-before-20171017
       level: bronze
       twitter: '@vsts'
     - id: saltstack
@@ -161,11 +161,11 @@ sponsors:
       level: event
     - id:  keybanc
       level: donuts
-    - id:  microsoftazure
+    - id:  microsoftazure-before-20171017
       level: lunch
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: cmccd
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

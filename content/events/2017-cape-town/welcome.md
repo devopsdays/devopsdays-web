@@ -1,16 +1,35 @@
 +++
 date = "2017-01-21T10:28:40+02:00"
 title = "welcome"
-type = "event"
-aliases = ["/events/2017-cape-town"]
-Description = "devopsdays Cape Town 2017"
+type = "welcome"
+aliases = ["/events/2017-cape-town/"]
+Description = "DevOpsDays is coming back to Cape Town! Tickets on sale now."
 
 +++
+
+<h1 style="text-align: center;">
+<br>Looking for the topic suggestions for 2018?<br>
+Sorry, we made a mistake in our mail.<br>
+Go here ---> <a href="http://bit.ly/dodcpt18topic">2018 Open Spaces Topic Suggestions</a><br><br>
+</h1>
 
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>
-
+<div class="row">
+  <div class = "col-md-4 offset-md-4">
+    <a class="btn btn-primary btn-block" style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://docs.google.com/forms/d/e/1FAIpQLSfOZ1s9O-ghkioEByffVaNeZOmL70AF7mkyFkgogYDINe1jRA/viewform?usp=sf_link">
+      <i class="fa fa-comment fa-lg"></i>&nbsp;&nbsp;&nbsp;Open Spaces - Suggest a topic
+    </a>
+  </div>
+</div>
+<div class="row">
+  <div class = "col-md-4 offset-md-4">
+    <a class="btn btn-primary btn-block" style="margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2017-cape-town/program">
+      <i class="fa fa-calendar fa-lg"></i>&nbsp;&nbsp;&nbsp;See the program for DevOpsDays Cape Town 2017
+    </a>
+  </div>
+</div>
 <br>
 
 <div class = "row">
@@ -66,15 +85,6 @@ Description = "devopsdays Cape Town 2017"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">

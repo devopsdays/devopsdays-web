@@ -1,6 +1,7 @@
 +++
 Title = "Matt Blasinski"
 Twitter = "mablasinski"
+image = "matt-blasinski.jpg"
 type = "speaker"
 linktitle = "matt-blasinski"
 

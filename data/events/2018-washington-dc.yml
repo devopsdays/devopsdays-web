@@ -1,0 +1,313 @@
+name: "2018-washington-dc"
+year: "2018"
+city: "Washington, DC"
+event_twitter: "devopsdaysdc"
+description: "A house divided against itself cannot stand."
+ga_tracking_id: "UA-131045075-2"
+
+startdate:  2018-06-06T00:00:00-04:00
+enddate: 2018-06-07T23:59:59-04:00
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  2018-03-09T00:00:00-05:00
+cfp_date_end:  2018-04-15T23:59:59-04:00
+cfp_date_announce:  2018-04-22T00:00:00-04:00
+
+cfp_open: "false"
+cfp_link: "https://devopsdaysdc2018.busyconf.com/proposals/new"
+
+registration_date_start: 2018-03-09T00:00:00-05:00
+registration_date_end: 2018-06-08T23:59:59-04:00
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysdc2018.busyconf.com/bookings/new"
+
+# Location
+#
+coordinates: "38.8011545,-77.0659376" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "US Patent and Trademark Office" # The name of your location
+#
+location_address: "600 Dulany Street, Alexandria, Virginia"
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  # - name: propose
+  #   url: https://devopsdaysdc2018.busyconf.com/proposals/new
+  - name: location
+  - name: registration
+    url: https://devopsdaysdc2018.busyconf.com/bookings/new
+  - name: program
+    url: https://devopsdaysdc2018.busyconf.com/schedule
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Holly Bazemore"
+    employer: "Amazon Web Services"
+    twitter: "https://twitter.com/hfbazemore"
+    bio: ""
+    image: "holly-bazemore.jpg"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/hfbazemore/"
+    website: ""
+    role: "Co-chairperson"
+
+  - name: "Nathen Harvey"
+    employer: "Chef"
+    twitter: "nathenharvey"
+    bio: ""
+    image: "nathen-harvey.jpg"
+    github: "nathenharvey"
+    facebook: "https://www.facebook.com/nathenharvey"
+    linkedin: "https://www.linkedin.com/in/nathen"
+    website: "http://nathenharvey.com"
+    role: "Co-chairperson"
+
+  - name: "Jonathan Altman"
+    employer: "Capital One"
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "David Bock"
+    employer: "Excella Consulting"
+    twitter: "bokmann"
+    bio: ""
+    image: "david-bock.jpg"
+    github: "bokmann"
+    facebook: ""
+    website: ""
+    linkedin: "https://www.linkedin.com/in/davidbock/"
+
+  - name: "Trevor Bryant"
+    employer: "ValidaTek, Inc"
+    twitter: "apporima"
+    bio: "Cybersecurity Engineer"
+    github: "https://github.com/trevorbryant"
+    facebook: ""
+    website: "https://keybase.io/trevorbryant"
+    linkedin: "https://www.linkedin.com/in/bryanttn/"
+
+  - name: "Mark Cornick"
+    employer: "Cava"
+    twitter: "markcornick"
+    bio: ""
+    image: "mark-cornick.jpg"
+    github: "markcornick"
+    facebook: ""
+    website: "https://markcornick.com/"
+    linkedin: ""
+
+  - name: "Matthew Cupp"
+    employer: "GovReady"
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Derek Daczewitz"
+    employer: "Spaceflight Industries"
+    twitter: "derekdaczewitz"
+    bio: ""
+    image: "derek-daczewitz.jpg"
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Mike DelNegro"
+    employer: "Deltek"
+    twitter: "radiocats"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Greg Elin"
+    employer: "gregelin"
+    twitter: "GovReady"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Jeff Gallimore"
+    employer: "Excella Consulting"
+    twitter: "jgallimore"
+    bio: ""
+    image: "jeff-gallimore.jpg"
+    github: "jgallimore"
+    linkedin: "https://www.linkedin.com/in/jgallimore/"
+    website: "https://itsanicelife.com/"
+    facebook: ""
+
+  - name: "Victoria Guido"
+    employer: "Blackstone Technology Group"
+    twitter: "victoriaguido"
+    bio: ""
+    image: "victoria-guido.jpg"
+    linkedin: "https://www.linkedin.com/in/victorialguido/"
+    github: ""
+    facebook: ""
+    website: ""
+
+  - name: "Alan Kraft"
+    employer: "United States Patent and Trademark Office (USPTO)"
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "James Martin"
+    employer: ""
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Ramez Mourad"
+    employer: "Cvent"
+    twitter: "ramezjm"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Jason Simpson"
+    employer: "Metricly"
+    twitter: "jfsimpson1"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Robert Treat"
+    employer: "OmniTI"
+    twitter: "robtreat2"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+organizer_email: "organizers-washington-dc-2018@devopsdays.org"
+proposal_email: "proposals-washington-dc-2018@devopsdays.org"
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: uspto
+    level: location_and_platinum
+  - id: arresteddevops
+    level: community
+  - id: chef
+    level: platinum
+  - id: eglobaltech
+    level: platinum
+  - id: excella
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: pivotal
+    level: platinum
+  - id: validatek
+    level: platinum
+  - id: sjtechcorp
+    level: platinum
+  - id: appdynamics-before-20190121
+    level: platinum
+  - id: aurotech
+    level: platinum
+  - id: gitlab
+    level: platinum
+  - id: comcast
+    level: gold
+  - id: swamp
+    level: gold
+  - id: sonatype-before-20190121
+    level: platinum
+  - id: stsi
+    level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: booz_allen_hamilton
+    level: happyhour
+  - id: govready
+    level: platinum
+  - id: harmonia
+    level: happyhour
+  - id: onyx-point
+    level: gold
+  - id: collabnet-versionone
+    level: platinum
+  - id: usds
+    level: platinum
+  - id: mesosphere
+    level: platinum
+  - id: redhat
+    level: platinum
+  - id: women-who-code-dc
+    level: community
+  - id: taphere
+    level: silver
+  - id: compuware
+    level: gold
+  - id: oneweb
+    level: platinum
+  - id: metis-machine
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: devopsdaysbaltimore
+    level: platinum
+  - id: blackstone-federal
+    level: media
+  - id: hope-one-source
+    level: community
+
+  # - id: samplesponsorname
+  #   level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: location_and_platinum
+    label: Location and Platinum
+    max: 1
+  - id: happyhour
+    label: Happy Hour
+  - id: platinum
+    label: Platinum
+  - id: gold
+    label: Gold
+  - id: silver
+    label: Silver
+  - id: community
+    label: Community
+  - id: media
+    label: Media

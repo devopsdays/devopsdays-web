@@ -12,7 +12,7 @@
   {{- $.Scratch.Set "close-tag" "false" -}}
 {{- range sort $.Site.Data.events "startdate" -}}
   {{- if .startdate -}}
-    {{- if ge (dateFormat "2006-01-02" .enddate) (dateFormat "2006-01-02" (dateFormat "2006-01-02" now)) -}}
+    {{- if ge (time .enddate) now -}}
       {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year-displayed" "false" -}}
@@ -31,7 +31,7 @@
         {{- $.Scratch.Set "close-tag" "true" -}}
       {{- end -}}
       {{- if ne .startdate .enddate }}
-      {{- if eq (dateFormat "January" .startdate) (dateFormat "January" .enddate ) -}}
+      {{- if eq (time .startdate).Month (time .enddate).Month -}}
         <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "events-page-event">
       {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
       {{ .city }}

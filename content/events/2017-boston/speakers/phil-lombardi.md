@@ -4,7 +4,7 @@ Twitter = "thebiglombowski"
 
 type = "speaker"
 linktitle = "phil-lombardi"
-image = "logo-square.jpg"
+image = "phil-lombardi.jpg"
 +++
 
 

@@ -1,0 +1,208 @@
+name: "2019-zurich" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Zürich" # The city name of the event. Capitalize it.
+event_twitter: "DevOpsZH"
+
+# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+startdate: 2019-05-14T00:00:00+02:00
+enddate: 2019-05-15T23:59:59+02:00
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2019-03-01T23:59:59+01:00 # inform proposers of status
+cfp_link: https://cfp.devopsdays.ch
+registration_open: "true"
+
+# Location
+#
+coordinates: "47.424253, 8.367338" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Umweltarena Zürch" # Defaults to city, but you can make it the venue name.
+#
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+
+  - name: speakers
+#  - name: program
+  - name: location
+  - name: registration
+  - name: propose
+    url: https://cfp.devopsdays.ch
+  - name: sponsor
+  - name: contact
+  - name: conduct
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Noëmi Kruesi"
+    twitter: ""
+    employer: "Swisscom AG"
+    bio: "<p>It is a well-known fact that girls just wanna have fun. It is also known that companies that incorporate DevOps get more done. How do these two facts relate, you ask?</p>
+<p>Meet Noëmi Krüsi, a girl who gets stuff done. Her strengths and talents lie in design and administration. As a creative allrounder she will be assisting with the design and social media of the DevOpsDays 2018.</p>"
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/noëmi-krüsi-992436127/"
+    website: ""
+    image: "noemi-krusi.jpg"
+  - name: "Nadine Biedermann"
+    bio: "<p>Metaphorically, Nadine can conquer the world with her clever quips and her charme. Literally, Nadine's wit and her creativity will enhance your Marketing and Social Media experience of the DevOpsDays 2019.</p>"
+    linkedin: "https://www.linkedin.com/in/nadine-biedermann-46436516b"
+    image: "nadine-biedermann.jpg"
+  - name: "Julia Faust"
+    bio: "<p>Julia loves to communicate and to bring people and solutions together. As a Financial Controller for the IT development department of a Swiss Telco, she accompanies the transformation into an agile setup from the beginning.</p><p>DevOps principles such as \"build it, run it\", autonomy of the team, as well as short and reasonable planning processes motivate her a lot. Julia is thrilled by discussing the basic ideas and causes of agility and to inspire others.</p>"
+    image: "julia-faust.jpg"
+  - name: "Selina Reist"
+    employer: "Federal Office of Information Technology"
+    bio: "<p>I am an enthusiast for everything visual:photography, movies and animations, pictograms, infofraphics, visual design, graphical recordings, UX-Design. I also like to combine these skills in crossfunctional teams to enable app development, transformation processes and last but not least communicate and teach DevOps practices in large federal organizations</p>"
+    image: "selina-reist.jpg"
+  - name: "Bastian Widmer"
+    twitter: "dasrecht"
+    employer: "amazee.io"
+    bio: "Bastian takes care of systems since nearly 15 years. He is also an avid speaker and conference organizer.<p>
+The nature of his internet-centric position makes him very aware that we need to safeguard the openness and neutrality of the internet on a global scale. This is also why he engages in several groups in Switzerland to work on issues related to net neutrality, security, and surveillance.<p>
+Outside of his job, Bastian dedicates much of his time to organizing various conferences and gatherings such as TEDxBern, DrupalCons. Bastian is passionate about Architecture, Circular Economy, the future of work, digital revolution and the impact on society itself."
+    github: "dasrecht"
+    facebook: ""
+    linkedin: "http://ch.linkedin.com/in/bastianwidmer"
+    website: "https://bastianwidmer.ch"
+    image: "bastian-widmer.jpg"
+  - name: Carsten Plum
+    bio: "<p>I am passionate about everything agile and human centered. Having started my career in an old school waterfall environment more than 20 years ago as a software engineer and project manager, I am now happy to enable teams and large organisations to establish agile methods and DevOps. I specifically like the combination (and challenges) of technical and cultural aspects.</p>"
+    Website: https://www.xing.com/profile/Carsten_Plum2/
+    image: "carsten-plum.jpg"
+  - name: "David Kilchenmann"
+    bio: "<p>David is product manager at Puzzle ITC, an open-source IT company based in Bern & Zurich. He loves how the container technologies changed the way software is developed and run, but still sees a lot of potential within other organizations to adopt a DevOps mindset. At Puzzle he is working in the product management for several open source solutions like Hitobito, APPUiO, PuzzleTime & Liima. Before Puzzle he was leading the Swisscom Software Day for two iterations and promoting the Swisscom software culture within the company.</p>"
+    employer: "Puzzle ITC"
+    twitter: "DKilchenmann"
+    linkedin: "https://www.linkedin.com/in/david-kilchenmann-004aaa68/"
+    image: "david-kilchenmann.jpg"
+  - name: "Dirk Lehmann"
+    bio: "<p>Dirk is a DevOps evangelist and Continuous Delivery expert at SAP.</p><p>Since 2001 Dirk worked in various roles at SAP including Development and Operations.</br>Together with his former team \"TwoGo by SAP\" he established the first Continuous Delivery implementation at SAP, delivering value daily to their customers.</p><p>In his current role, Dirk is a Cloud Quality Coach at SAP with focus on Continuous Delivery and DevOps practices.</p><p>Dirk is a frequent speaker at international conferences on DevOps and Continuous Delivery.</p>"
+    twitter: "doergn"
+    linkedin: "https://www.linkedin.com/in/dirk-lehmann-7712bb125/"
+    image: "dirk-lehmann.jpg"
+  - name: "Marcelo Ancelmo"
+    twitter: "marceloancelmo"
+    employer: ""
+    bio: "Marcelo S. Ancelmo is currently a Lead Technical Architect with Cognizant, delivering tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In more than fifteen years of practical IT field experience, he assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges."
+    github: ""
+    facebook: ""
+    linkedin: ""
+    website: ""
+    image: "marcelo-ancelmo.jpg"
+  - name: "Martin Thalmann"
+    twitter: "martin_thalmann"
+    employer: "Swisscom AG"
+    bio: "I’m a passionate DevOps Enthusiast who strongly believes in the power of this movement. I’m currently helping a Swiss telco operator in adapting DevOps principles in a large enterprise. Beside that I’m co-organizer of the [DevOps Enthusiast Meetup in Zurich](https://www.meetup.com/DevOps-Meetup-Zurich/). I do have a background as a Software Engineer and experience in several Line- and Project-Management positions."
+    github: ""
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/martinthalmann/"
+    website: ""
+    image: "martin-thalmann.jpg"
+  - name: "Matías E. Fernández"
+    twitter: "matiasfrndz"
+    employer: "Swisscom AG"
+    bio: "DevOps evangelist, Kanban practitioner, Lean Startup advocate, Linux and OSS afficionado.<p>
+Keen learner and challenger of the status quo.<p>
+Enabling organisations to achieve outstanding and sustainable results that exceed customers’ expectations is his passion."
+    github: "matiasfrndz"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/matiasfrndz/"
+    website: "https://matiasfrndz.ch/"
+    image: "matias-e-fernandez.jpg"
+  - name: "Michael Krause"
+    bio: "<p>Michael has been focused and passionate in the area of Software Testing for more than 15 years.</p><p>He experienced firsthand in product development that the way how a team perceives quality and adapts testing using context-driven principles can be a key driver of implementing agile development techniques and DevOps.</p><p>He advocates that teams embrace and navigate complexity through sensemaking techniques and believes that a culture of relentless experimentation is a major source for innovation.</p><p>In his current role Michael enjoys to enable a large organization to adapt DevOps and agile Quality principles and fosters an agile mindset across development teams.</p><p>Having a long background in line management he has always seen himself as a coach for teams and people and believes in purpose, mastery and autonomy more than in role descriptions or yearly performance talks.</p>"
+    employer: "Swisscom AG"
+    linkedin: "https://www.linkedin.com/in/mikrause/"
+    image: "michael-krause.jpg"
+  - name: "Roderick Jonsson"
+    twitter: "RoderickJonsson"
+    linkedin: "https://ch.linkedin.com/in/roderickjonsson"
+    employer: "PowerodIT"
+    bio: "<p>DevOps Platform Architect with successful experience in enabling teams to achieve faster software delivery with high performance DevOps toolchains.</p><p>Specialized on Linux, Gitlab, Kubernetes, AWS and GCP</p><p>Working as a contractor for different companies around the world and building their fully automated cloud environments.</p>"
+    github: "Roderick-Jonsson"
+    facebook: ""
+    website: "http://www.powerodit.ch"
+    image: "roderick-jonsson.jpg"
+  - name: "Romano Roth"
+    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
+    image: "romano-roth.jpg"
+    employer: "Zühlke"
+    twitter: "RomanoRoth"
+    linkedin: "https://www.linkedin.com/in/romanoroth/"
+  - name: "Tobias Brunner"
+    twitter: "tobruzh"
+    employer: "VSHN AG"
+    bio: "Tobias (aka tobru) is a DevOps Engineer and Partner at VSHN and one of the founding members of VSHN. He loves Open Source and everything about state-of-the-art technologies like Docker, Kubernetes and OpenShift. In his day job he is responsible for the Container Platform team at VSHN, works on the next big thing and brings APPUiO - The Swiss Container Platform - to the next level."
+    github: "tobru"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/tobru/"
+    website: "https://tobru.ch/"
+    image: "tobias-brunner.jpg"
+  - name: "Tobias Weinmann"
+    bio: "Having worked as a developer, systems engineer and team lead in IT operations, the ideas and concepts behind DevOps are very close to my heart. As I am passionate about coding since my teenage years, I am fascinated by concepts like Infrastructure as Code, Social Coding, and cloud native technologies trying to get hands-on whenever possible. I enjoy lateral thinking and my basic premise is that \"we cannot solve our problems with the same thinking we used when we created them\" (Albert Einstein). In my current role I dedicate all my energy to introducing and spreading DevOps principles and practices in the broader organization."
+    linkedin: "https://www.linkedin.com/in/tobias-weinmann"
+    twitter: "Wankinobi75"
+    github: "tweinmann"
+    image: "tobias-weinmann.jpg"
+  - name: "Vittorio Boccone"
+    twitter: "drbokko"
+    employer: "Dectris Ltd."
+    bio: "Vittorio grew up in the a world where hardware and software are in perfect equilibrium. At 8 he started customizing and modifying anything with an engine or a CPU. Curious about the nature of things he later became a detector and accelerator physicist. After 13 years at CERN, he's now often seen at Dectris happily developing Dectris X-ray detectors. He's comfortable with any lab equipment, programming language or particle accelerator."
+    github: "https://github.com/drbokko"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/vittorio-boccone-1998a94/"
+    website: ""
+    image: "vittorio-boccone.jpg"
+
+
+organizer_email: "organizers-zurich-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-zurich-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+- id: jazoon
+  level: community
+- id: swiss-perl-workshop
+  level: community
+- id: vshn
+  level: platinum
+- id: swiss-re
+  level: gold
+- id: swisscom
+  url: https://job.swisscom.ch/ict/de?showclose=1
+  level: platinum
+- id: oracle2019
+  level: silver
+  url: https://developer.oracle.com/
+- id: nine
+  level: bronze
+- id: bmc
+  level: silver
+  url: http://www.bmcsoftware.ch/
+- id: itconcepts-schweiz
+  level: silver
+- id: devops-meetup-zurich
+  level: community
+- id: devops-meetup-bern
+  level: community
+- id: zhlke
+  level: bronze
+sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
+sponsor_levels: # In this section, list the level of sponsorships and the label to use.
+- id: platinum
+  label: Platinum
+  max: 1
+- id: gold
+  label: Gold
+  max: 8
+- id: silver
+  label: Silver
+- id: bronze
+  label: Bronze
+- id: community
+  label: Community
+program:
+
+ignites:
+

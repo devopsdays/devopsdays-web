@@ -1,10 +1,11 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2017-11-02"
+Talk_start_time = "09:30"
+Talk_end_time = "10:00"
 Title = "The end of sleepless nights on-call – How machine learning is set to transform IT Operations"
 Type = "talk"
 Speakers = ["hannah-foxwell"]
+youtube = "I4Jirvyx7TE"
 +++
 
 The human impact of on-call operations work should not be underestimated. As slaves to the pager we have lived through years of relentless stress, disturbed sleep and disrupted lives. That needs to end.

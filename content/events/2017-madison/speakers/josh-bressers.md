@@ -1,6 +1,7 @@
 +++
 Title = "Josh Bressers"
 Twitter = "joshbressers"
+image = "josh-bressers.jpg"
 type = "speaker"
 linktitle = "josh-bressers"
 

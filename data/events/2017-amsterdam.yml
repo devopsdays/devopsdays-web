@@ -47,7 +47,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   # gold
-  - id: atlassian
+  - id: atlassian-before-20171216
     level: gold
   - id: pivotal
     level: gold
@@ -57,11 +57,11 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: workiva
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: deloitte-digital
     level: gold
@@ -85,9 +85,9 @@ sponsors:
     level: bronze
   - id:  transip
     level: bronze
-  - id:  openebs
+  - id:  openebs-before-20180606
     level: bronze
-  - id: 2017-inuits
+  - id: inuits
     level: bronze
   - id:  tweakers-elect
     level: bronze
@@ -95,10 +95,11 @@ sponsors:
   - id: schubergphilis
     level: bbq
   # Pre-Event Social
-  - id: 2017-ams-opsgenie
+  - id: opsgenie
     level: preevent
+    url: "http://www.opsgenie.com?utm_source=Events&utm_medium=banner&utm_campaign=DevOpsDays_Amsterdam_June"
   # beer
-  - id: 2017-redhat
+  - id: redhat
     level: beer
   # community
 

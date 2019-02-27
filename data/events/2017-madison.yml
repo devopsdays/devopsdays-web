@@ -45,7 +45,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Michael Goodness"
+    image: "mike-goodness.jpg"
     twitter: "opsgoodness"
+    website: "http://http://opsgoodness.net"
+    linkedin: "https://www.linkedin.com/in/mgoodness"
+    github: "mgoodness"
   - name: "Christian Herro"
     twitter: "christianherro"
     image: "christian-herro.jpg"
@@ -64,7 +68,11 @@ proposal_email: "proposals-madison-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20180316
+    level: gold
+  - id: elastic
+    level: gold
+  - id: morpheus_data
     level: gold
   - id: arresteddevops
     level: community
@@ -72,10 +80,30 @@ sponsors:
     level: bronze
   - id: nextpoint
     level: bronze
+  - id: dynatrace
+    level: silver
   - id: ipswitch
     level: silver
+  - id: servicenow-before-20180620
+    level: silver
+  - id: sumologic-before-20181203
+    level: silver
+  - id: swamp
+    level: silver
+  - id: newrelic
+    level: silver
+  - id: cloudbolt
+    level: gold
+  - id: contrast_security
+    level: silver
+  - id: columntech
+    level: gold
+  - id: splunk
+    level: silver
+  - id: target
+    level: bronze
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -98,8 +126,8 @@ program:
     date: 2017-10-30
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
-    type: custom
+  - title: "Opening Remarks featuring Aaron Kalin"
+    type: custom 
     date: 2017-10-30
     start_time: "09:00"
     end_time: "09:15"
@@ -168,7 +196,7 @@ program:
     date: 2017-10-30
     start_time: "15:00"
     end_time: "15:45"
-  - title: "pj-hagerty"
+  - title: "kevin-paulisse"
     type: workshop
     date: 2017-10-30
     start_time: "15:00"
@@ -193,12 +221,16 @@ program:
     date: 2017-10-30
     start_time: "17:00"
     end_time: "21:00"
+    comments: "This will take place at [High Noon Saloon](https://www.high-noon.com/)<br>
+    701 E Washington Ave<br>
+    Madison, WI<br>
+    53703"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2017-10-31
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Remarks"
     type: custom
     date: 2017-10-31
     start_time: "09:00"
@@ -301,7 +333,7 @@ program:
 ignites:
   - title: "ryan-prior"
     date: 2017-10-30
-  - title: "peter-chestna"
+  - title: "ben-zvan"
     date: 2017-10-30
   - title: "amy-unger"
     date: 2017-10-30
@@ -311,7 +343,7 @@ ignites:
     date: 2017-10-30
   - title: "energize-your-workflow-with-clis"
     date: 2017-10-31
-  - title: "ben-zvan"
+  - title: "peter-chestna"
     date: 2017-10-31
   - title: "zachary-newman"
     date: 2017-10-31

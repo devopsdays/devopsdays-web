@@ -52,9 +52,9 @@ proposal_email: "proposals-charlotte-2017@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: opsgenie
     level: gold
@@ -76,11 +76,11 @@ sponsors:
     level: silver
   - id: techtowntraining
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
   - id: deis
     level: bronze
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: versionone
     level: bronze

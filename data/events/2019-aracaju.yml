@@ -1,0 +1,160 @@
+name: "2019-aracaju" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Aracaju" # The displayed city name of the event. Capitalize it.
+event_twitter: "dodaracaju" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
+description: "DevOpsDays is coming to Aracaju!" # Edit this to suit your preferences
+ga_tracking_id: "UA-133453281-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+startdate: 2019-06-08 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-06-08 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-02-10 # start accepting talk proposals.
+cfp_date_end: 2019-04-30 # close your call for proposals.
+cfp_date_announce: 2019-05-10 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsday-aracaju-2019" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "skyline-aju.jpg"
+
+registration_date_start: 2019-03-07 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-06-07 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysaracaju.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-10.966893, -37.060058" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UNIT - Campus Farolândia" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Murilo Dantas, 300 - Farolândia, Aracaju/SE" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+#  - name: Informações
+#    icon: "map-o"
+#    url: /events/2019-aracaju/location
+## Uncomment to show on page
+  - name: Local
+    icon: "map-o"
+    url: /events/2019-aracaju/location
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://devopsdaysaracaju.eventize.com.br/"
+  - name: Programação
+    icon: "book"
+    url: /events/2019-aracaju/program
+  - name: Palestre (CFP)
+    icon: "user-plus"
+    url: "https://www.papercall.io/devopsday-aracaju-2019"
+  # - name: Palestrantes
+  #   icon: "microphone"
+  #   url: /events/2019-aracaju/speakers
+  - name: Patrocinio
+    icon: "money"
+    url: /events/2019-aracaju/patrocinio
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2019-aracaju/contato
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2019-aracaju/conduta
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Igor Leonardo Eloy Macedo"
+    role: "Sysadmin no Banco do Estado de Sergipe (BANESE)"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/igor-macedo/"
+    website: "letsdoit.ilem.info"
+    github: ""
+    twitter: "@dodaracaju"
+    image: "igor-macedo.jpg"
+
+  - name: "Pablo Marques Menezes"
+    role: "Professor na Universidade Tiradentes (UNIT)"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/pablo-marques-menezes-2bb99a2b/"
+    website: ""
+    github: ""
+    twitter: "@dodaracaju"
+    image: "pablo-menezes.jpg"
+
+  - name: "Thiers Sousa"
+    role: "Gerente de TI na EBSERH"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/thiers-sousa-343ab620/"
+    website: ""
+    github: ""
+    twitter: "@dodaracaju"
+    image: "thiers-sousa.jpg"
+
+  - name: "Paulo Sizino Medeiros Moraes"
+    role: "Security Analist na Morphus Segurança da Informação"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/paulosizino/"
+    website: ""
+    github: ""
+    twitter: "@dodaracaju"
+    image: "paulo-sizino.jpg"
+
+  - name: "Francisco Rodrigues"
+    role: "Professor no Instituto Federal de Sergipe"
+    bio: ""
+    linkedin: "https://www.linkedin.com/in/francisco-rodrigues-77744317/"
+    website: ""
+    github: ""
+    twitter: "@dodaracaju"
+    image: "francisco-rodrigues.jpg"
+
+organizer_email: "organizers-aracaju-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "organizers-aracaju-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+
+# sponsors:
+#   - id: xxxx
+#     level: gold
+#     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
+
+sponsors:
+  - id: unit
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+#    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
+program:
+  - title: "Credenciamento, breakfast e abertura"
+    type: open-space
+    date: 2019-06-08
+    start_time: "08:00"
+    end_time: "08:30"
+  - title: "tbd"
+    type: talk
+    date: 2019-06-08
+    start_time: "08:40"
+    end_time: "17:00"
+  - title: "Encerramento"
+    type: open-space
+    date: 2019-06-08
+    start_time: "17:00"
+    end_time: "17:15"
