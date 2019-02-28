@@ -11,7 +11,7 @@ Mary Poppendieck started her career as a process control programmer, moved on to
 the IT department of a manufacturing plant, and then ended up in product development,
 where she was both a product champion and department manager.
 
-Mary considered retirement 1998, but instead found herself managing a government software
+Mary considered retirement in 1998, but instead found herself managing a government software
 project where she first encountered the word "waterfall." When Mary compared her
 experience in successful software and product development to the prevailing opinions about
 how to manage software projects, she decided the time had come for a new paradigm. She
