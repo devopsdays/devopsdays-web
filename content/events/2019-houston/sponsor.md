@@ -176,34 +176,32 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </div>
 
 <hr/>
-<br>
-<br>
-<table border=1 cellspacing=1 width="100%">
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors</center></b></th>
-  </tr>
-<tr><td class="l">What exactly will the sponsors have available to them in the sponsors’ room?</td>
-    <td class="l">Our facilities will provide to you a table 6’x30” covered with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, posters, table signs, rollup banners, etc. to decorate your space. If you plan to hang a banner on the wall, make sure you bring 3mm command strips as that is the only approved way to attach things to the wall.</td></tr>
-<tr><td class="l">What dates/times can we set up and tear down?</td>
-    <td class="l">You will get that information via email in early March.</td></tr>
-<tr><td class="l">How do we ship to the venue?</td>
-    <td class="l">Please coordinate all shipping needs with Norris Conference Center. You will get contact information via email in early March.</td></tr>
-<tr><td class="l">Whom should we send?</td>
-    <td class="l">This is a community event, so it is better to send engineers rather than sales people.</td></tr>
-<tr><td class="l">What should we expect regarding electricity? (how much, any fees, etc)</td>
-    <td class="l">There are no fees. Your table will be located along the wall with a number of power outlets. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</td></tr>
-<tr><td class="l">What should we expect regarding WiFi? (how much, any fees, etc)</td>
-    <td class="l">There will be a free WiFi, but wired connections will not be provided.</td></tr>
-<tr><td class="l">How do we get our free tickets to the event?</td>
-    <td class="l">An access code will be emailed to you in early March. Please have your attendees register by March 28</td></tr>
-<tr><td class="l">How much dedicated time will sponsors have with the attendees?</td>
-    <td class="l">We are working on a program schedule, please keep checking the website for updates.</td></tr>
-<tr><td class="l">Can we bring small giveaways, stickers, mugs, pens, etc.?</td>
-    <td class="l">Of course.</td></tr> 
-<tr><td class="l">Can we raffle off stuff (Lego sets, Amazon gift cards, iPads, etc.)?</td>
-    <td class="l">Sure.</td></tr>
-</table>
+<h2>Sponsor FAQ</h2>
+<dl>
+    <dt>What exactly will the sponsors have available to them in the sponsors’ room?</dt>
+    <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, posters, table signs, rollup banners, etc. to decorate your space. If you plan to hang a banner on the wall, make sure you bring 3mm command strips as that is the only approved way to attach things to the wall. Silver sponsors please remember that you will be sharing a table with another sponsor.</dd>
+    <dt>What dates/times can we set up and tear down?</dt>
+    <dd>Sponsors can access the room on April 15, 6pm-8pm or on April 16, starting at 6am.</dd>
+    <dt>How do we ship to the venue?</dt>
+    <dd>Please coordinate all shipping needs with Norris Conference Center. You will get contact information via email in early March.</dd>
+    <dt>What should we expect regarding electricity? (how much, any fees, etc)</dt>
+    <dd>There are no fees. Your table will be located along the wall with a number of power outlets. However, we suggest that you bring a few extension cords, as there may not be enough power outlets or they may not be close enough to your table to be reachable by a laptop/monitor cable.</dd>
+    <dt>What should we expect regarding WiFi? (how much, any fees, etc)</dt>
+    <dd>There will be a free WiFi, but wired connections will not be provided.</dd>
+    <dt>Whom should we send?</dt>
+    <dd>This is a community event, so it is better to send engineers rather than sales people.</dd>
+    <dt>As a Platinum/Gold sponsor, and we supposed to have 5- or 1- minute slot to address the attendees. When will that be? How will it work?</dt>
+    <dd>Platinum sponsors will address the attendees on the morning of April 16 and Gold sponsors will do the same on the morning of April 17. An email in early March will provide additional details.</dd>
+    <dt>How do we get our free tickets to the event?</dt>
+    <dd>An access code will be emailed to you in early March. Please have your attendees register by March 25</dd>
+    <dt>How much dedicated time will sponsors have with the attendees?</dt>
+    <dd>We are working on a program schedule, please keep checking the {{< event_link page="program" text="program" >}} for updates.</dd>
+    <dt>Can we bring small giveaways, stickers, mugs, pens, etc.?</dt>
+    <dd>Of course.</dd>
+    <dt>Can we raffle off stuff (Lego sets, gift cards, iPads, etc.)?</dt>
+    <dd>Yes.</dd>
+</dl>
+
 
 
 
