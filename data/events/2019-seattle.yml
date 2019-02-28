@@ -112,6 +112,10 @@ sponsors:
     level: gold
   - id: launch-darkly
     level: gold
+  - id: scca
+    level: gold
+  - id: slalom-build
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
