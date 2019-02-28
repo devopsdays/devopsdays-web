@@ -20,7 +20,7 @@ Feel free to contact us at [{{< email_organizers >}}] with any questions.
 
 ### Happy Hour ($8000)
 
-~~Only 2 available!~~ **Pending**
+**Sold out!**
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info" style="display:none">Pay Now to Sponsor the Happy Hour!</a>
 
@@ -28,7 +28,7 @@ This year, DevOpsDays Austin is planning a special Happy Hour at the end of Day 
 
 ### Platinum Sponsor ($7000)
 
-~~Only 3 available!~~ **Pending**
+**Sold out!**
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E7JGQEEB6XTRU" class="btn btn-info" style="display:none">Pay Now to be a Plantinum Sponsor!</a>
 
@@ -42,7 +42,7 @@ Open Spaces events and Happy Hour are scheduled in other rooms in the same upsta
 
 ### Lanyard Sponsor ($5000)
 
-~~Only 1 available!~~ **Sold!**
+**Sold out!**
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NDK4B5PHD99LN" class="btn btn-info" style="display:none">Pay Now to Put Your Logo on the Lanyard!</a>
 
