@@ -114,6 +114,8 @@ sponsors:
     level: gold
   - id: scca
     level: gold
+  - id: slalom-build
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
