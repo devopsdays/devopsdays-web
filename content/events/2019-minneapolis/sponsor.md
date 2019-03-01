@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Minneapolis 2019"
 +++
 
-We greatly value sponsors for this community event. Platinum, Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2019/minneapolis/devopsdays-minneapolis-2019-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScKW7QgmFrb7_1q0QbUxqrcy5AbBFL9AmlkmRlfEfpaz60eFA/viewform">sponsorship form</a> or drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this community event. <s>Platinum,</s><i>sold out</i> Gold, and Silver sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2019/minneapolis/devopsdays-minneapolis-2019-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScKW7QgmFrb7_1q0QbUxqrcy5AbBFL9AmlkmRlfEfpaz60eFA/viewform">sponsorship form</a> or drop us an email at [{{< email_organizers >}}].
 
 Additional à la carte sponsorships are available:
 
@@ -53,7 +53,7 @@ Sponsors have the opportunity to have short elevator pitches during the program 
     <th><i>packages</i></th>
     <th><center><b><u>Silver</u><br>$5,000</b></center></th>
     <th><center><b><u>Gold</u><br>$7,000</b></center></th>
-    <th><center><b><u>Platinum*</u><br>$10,000</b></center></th>
+    <th><center><b><u>Platinum*</u><br><s>$10,000</s><br>Sold Out</b></center></th>
   </tr>
 <tr><td>3 included tickets</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 <tr><td>3 additional tickets (6 in total)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
@@ -67,7 +67,7 @@ Sponsors have the opportunity to have short elevator pitches during the program 
 <tr><td>5 minute pitch to full audience in optimal timeslot (including streaming if applicable)</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td></tr>
 </table>
 
-* There are a limited number of Platinum sponsorships available.
+* There are a limited number of Platinum sponsorships available, and 2019 Platinum sponsorships are now sold out.
 
 </div>
 
