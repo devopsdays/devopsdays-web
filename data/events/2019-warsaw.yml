@@ -47,10 +47,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: Paulina Wędrychowska
-  - name: Janusz Kamieński
+  - name: "Janusz Kamieński"
     twitter: "jkamienski"
-  - name: Paulina Tomaszewska
+  - name: "Rafał Małanij"
+    twitter: "elgravel"
+  - name: "Maciej Strzelecki"
+    twitter: "mstrzele"
+  - name: "Paulina Tomaszewska"
+  - name: "Paulina Wędrychowska"
 organizer_email: "organizers-warsaw-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-warsaw-2019@devopsdays.org" # Put your proposal email address here
 
