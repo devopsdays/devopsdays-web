@@ -3,7 +3,7 @@ Title = "Victor Ferreira"
 Twitter = ""
 website = ""
 linkedin = ""
-image = "victor-ferreira"
+image = "victor-ferreira.png"
 type = "speaker"
 linktitle = "victor-ferreira"
 
