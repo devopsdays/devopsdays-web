@@ -20,9 +20,9 @@ Feel free to contact us at [{{< email_organizers >}}] with any questions.
 
 ### Happy Hour ($8000)
 
-**Only 2 available!**
+~~Only 2 available!~~ **Pending**
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info">Pay Now to Sponsor the Happy Hour!</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VWDJU8D6SF3DC" class="btn btn-info" style="display:none">Pay Now to Sponsor the Happy Hour!</a>
 
 This year, DevOpsDays Austin is planning a special Happy Hour at the end of Day 1. The Happy Hour event will be hosted on the main level of the event and will have food and alcoholic beverages. We have opportunities for two sponsors to have signage and space specifically dedicated to them for the duration of the happy hour and the opportunity to make announcements at the happy hour.
 
@@ -52,7 +52,9 @@ Lanyard sponsorships come with two complimentary event tickets.
 
 ### Gold Sponsor ($5000)
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info">Pay Now to be a Gold Sponsor!</a>
+**Sold out!**
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZUXRLSZNKH7GG" class="btn btn-info" style="display:none">Pay Now to be a Gold Sponsor!</a>
 
 Gold packages are the most popular DevOpsDays Austin sponsorship package.This is the package with a table in the vendor area of our event. We locate food service in the sponsor area and otherwise take effort to drive attendee foot traffic into and through the area.
 

@@ -34,7 +34,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -88,8 +88,12 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
+  - id: xebialabs
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: unity
+    level: community
+  - id: yousee
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -107,3 +111,194 @@ sponsor_levels:
     max: 10
   - id: community
     label: Community
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2019-04-03
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-03
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "matty-stratton"
+    type: talk
+    date: 2019-04-03
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "Break"
+    type: custom
+    date: 2019-04-03
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "allan-ebdrup"
+    type: talk
+    date: 2019-04-03
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2019-04-03
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "emily-bache"
+    type: talk
+    date: 2019-04-03
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "michiel-rook"
+    type: workshop
+    date: 2019-04-03
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
+    type: custom
+    date: 2019-04-03
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "felix-wu"
+    type: talk
+    date: 2019-04-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "bruno-amaro-almeida"
+    type: workshop
+    date: 2019-04-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "LUNCH"
+    type: custom
+    date: 2019-04-03
+    start_time: "12:00"
+    end_time: "12:50"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-04-03
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-03
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-04-03
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break"
+    type: custom
+    date: 2019-04-03
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-04-03
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2019-04-03
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2019-04-03
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Wrap-up of the Day"
+    type: custom
+    date: 2019-04-03
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Mingle & Dinner"
+    type: custom
+    date: 2019-04-03
+    start_time: "17:00"
+    end_time: "21:00"
+  - title: "Breakfast"
+    type: custom
+    date: 2019-04-04
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2019-04-04
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Keynote"
+    type: talk
+    date: 2019-04-04
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    type: custom
+    date: 2019-04-04
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "Ignite Karaoke"
+    type: ignite
+    date: 2019-04-04
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-04
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-04-04
+    start_time: "11:00"
+    end_time: "11:50"
+  - title: "LUNCH"
+    type: custom
+    date: 2019-04-04
+    start_time: "11:50"
+    end_time: "12:40"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-04-04
+    start_time: "12:40"
+    end_time: "13:25"
+  - title: "Break"
+    type: custom
+    date: 2019-04-04
+    start_time: "13:25"
+    end_time: "13:40"
+  - title: "nataliya-remez"
+    type: talk
+    date: 2019-04-04
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Break"
+    type: custom
+    date: 2019-04-04
+    start_time: "14:10"
+    end_time: "14:25"
+  - title: "aubrey-stearn"
+    type: talk
+    date: 2019-04-04
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Break"
+    type: custom
+    date: 2019-04-04
+    start_time: "14:55"
+    end_time: "15:10"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2019-04-04
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Wrap-up and Goodbyes"
+    type: custom
+    date: 2019-04-04
+    start_time: "15:40"
+    end_time: "16:00"
+
+ignites:
+  - title: "mike-long"
+    date: "2019-04-03"

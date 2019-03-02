@@ -128,6 +128,16 @@ sponsors:
     level: community
   - id: signalfx
     level: platinum
+  - id: redhat
+    level: platinum
+  - id: optum
+    level: platinum
+  - id: magenic
+    level: gold
+  - id: vmware
+    level: platinum
+  - id: ahead
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

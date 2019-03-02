@@ -52,12 +52,18 @@ team_members: # Name is the only required field for team members.
   - name: "Blair Hicks"
     employer: Cisco
     twitter: tuxdbird
+  - name: "Aimme Keener"
+    employer: Autonomic
+    twitter: AimmeKeener
   - name: "Mario Loria"
     employer: orchestructure.io
     twitter: marioploria
   - name: "Aaron Maturen"
     employer: Cengage
     twitter: atmaturen
+  - name: "Rex Roof"
+    employer: "Blue Newt Software"
+    twitter: rexroof
 
 organizer_email: "organizers-detroit-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2019@devopsdays.org" # Put your proposal email address here
@@ -65,6 +71,8 @@ proposal_email: "proposals-detroit-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: russellvideo
+    level: AV
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -73,15 +81,21 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-# sponsor_levels:
-#   - id: gold
-#     label: gold
-#     max: 8
-#   - id: av
-#     label: av
-#     max: 1
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 16
+  - id: silver
+    label: Silver
+    max: 4
+  - id: bronze
+    label: Bronze
+  - id: AV
+    label: AV
+    max: 1
 
 program:
 
 ignites:
   
+

@@ -10,7 +10,7 @@ Description = "devopsdays portugal 2019"
     <strong>Dates</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    <h2><strong>{{< event_start >}} - {{< event_end >}}</strong></h2>
   </div>
 </div>
 
@@ -34,14 +34,14 @@ Description = "devopsdays portugal 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    <h5><strong>{{< event_link page="propose" text="CFP OPEN - Propose a talk!" >}}</strong></h5>
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -66,7 +66,7 @@ Description = "devopsdays portugal 2019"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+     <h5><strong>{{< event_link page="sponsor" text="Sponsor the conference!" >}}</strong></h5>
   </div>
 </div>
 
@@ -75,7 +75,7 @@ Description = "devopsdays portugal 2019"
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    <h5><strong>{{< event_link page="contact" text="Get in touch with the organizers" >}}</strong></h5>
   </div>
 </div>
 
@@ -95,4 +95,5 @@ Description = "devopsdays portugal 2019"
 <p><b> The conference this year will focus on real world experience reports from diverse organizations in Portugal and abroad. Covered topics will include Culture, Automation, Lean, Measurement, and Sharing (CALMS), and others. </b></p>
 
   {{< event_logo >}}
+
 </div>

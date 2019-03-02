@@ -20,6 +20,9 @@ You can find more details in our <a href="https://assets.devopsdays.org/events/2
 
 <p>The best thing to do is send engineers to interact with the experts at DevOpsDays Seattle on their own terms.</p>
 
+**We are currently sold out on Silver and Gold sponsorships. It is possible that more will open up. If you would like either Silver or Gold level please contact us ASAP to get the best possible spot on the waiting list.**
+
+
 <hr />
 
 <div style="width:100%;overflow:hidden">
@@ -48,20 +51,10 @@ You can find more details in our <a href="https://assets.devopsdays.org/events/2
           </form>
         </td>
         <td style="padding: 0px 10px 0px 10px;">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="XSZA34MYCG3FS">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form>
+          <a href="mailto:organizers-seattle-2019@devopsdays.org">Contact Us</a>
         </td>
         <td style="padding: 0px 10px 0px 10px">
-          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LDL9YT3DT62DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-          </form>
+          <a href="mailto:organizers-seattle-2019@devopsdays.org">Contact Us</a>
         </td>
       </tr>  
       <tr>
@@ -71,22 +64,22 @@ You can find more details in our <a href="https://assets.devopsdays.org/events/2
         <td>Included tickets</td><td align="center">1</td><td align="center">2</td><td align="center">4</td>
       </tr>
       <tr>
-        <td>Logo on event website</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Logo on event website</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Promotion on social media</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Promotion on social media</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Logo on event posters</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Logo on event posters</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Full table</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>Full table</td><td align="center">Not Included</td><td align="center">Not Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
       <tr>
-        <td>Shared table</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+        <td>Shared table</td><td align="center">Not Included</td><td align="center" bgcolor="gold">Included</td><td align="center">Not Included</td>
       </tr>
       <tr>
-        <td>1 minute pitch to full audience</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td>
+        <td>1 minute pitch to full audience</td><td align="center">Not Included</td><td align="center">Not Included</td><td align="center" bgcolor="gold">Included</td>
       </tr>
     </table>
   </div>

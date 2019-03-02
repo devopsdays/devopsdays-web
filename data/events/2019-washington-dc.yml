@@ -232,6 +232,16 @@ team_members: # Name is the only required field for team members.
     website: "https://opensource.com/users/aaronrinehart"
     linkedin: "https://www.linkedin.com/in/aaronsrinehart/"
 
+  - name: "Steve Ross"
+    employer: "Endgame"
+    twitter: "@stevewritescode"
+    bio: "Steve Ross currently serves as Technical Director at Endgame, where he works on cloud services and data analysis for finding and stopping cybercrime. He is an advocate for small, cross-functional teams and ruthlessly ships software early and often!"
+    image: "steve-ross.jpg"
+    github: "stevewritescode"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/steveaross/"
+    website: ""
+
   - name: "Jason Simpson"
     employer: "Metricly"
     twitter: "jfsimpson1"
@@ -242,14 +252,14 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Robert Treat"
-    employer: "OmniTI"
+    employer: "credativ"
     twitter: "robtreat2"
     bio: ""
     image: "robert-treat.jpg"
     github: "xzilla"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/robtreat/"
-    website: "https://omniti.com"
+    website: "https://www.linkedin.com/company/credativ-llc/"
 
   - name: "Derek Weeks"
     employer: "Sonatype"
@@ -281,6 +291,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/shawndwells/"
     website: "https://medium.com/shawndwells"
 
+  - name: "Peter Burkholder"
+    employer: "18F"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOps"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
+    website: ""
 
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
@@ -315,6 +334,8 @@ sponsor_levels:
 
 sponsors:
   - id: pyramid-systems
+    level: platinum
+  - id: excella
     level: platinum
   - id: circleci
     level: gold

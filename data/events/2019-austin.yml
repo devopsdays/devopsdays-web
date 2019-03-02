@@ -34,7 +34,7 @@ location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street a
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -125,6 +125,14 @@ proposal_email: "proposals-austin-2019@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: solarwinds
+    level: happyhour
+  - id: newrelic
+    level: platinum
+  - id: codefresh
+    level: platinum
+  - id: vmware
+    level: platinum
   - id: oracle
     level: lanyard
   - id: circleci
@@ -133,6 +141,28 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
+  - id: signalfx
+    level: gold
+  - id: gravitational
+    level: gold
+  - id: f5
+    level: gold
+  - id: dell
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: nvisium
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: chaossearch
+    level: gold
+  - id: rancher
+    level: gold
+  - id: f5
+    level: mealandsnack
+  - id: devopsdotcom
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -155,4 +185,10 @@ sponsor_levels:
     max: 20
   - id: silver
     label: Silver
+    max: 10
+  - id: media
+    label: Media
+    max: 1
+  - id: mealandsnack
+    label: Meal and Snack
     max: 10

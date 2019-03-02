@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays São Paulo 2018"
 +++
 <b>
-**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/open?id=1lq6Wj1-schtuA101hkWMiQH1IPiKD9ep). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/open?id=1PMbc-o33JTxaXbz_DCVWtiT9VVqnSuhZ). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
 </b>
 
 <b>
@@ -47,9 +47,9 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
             <th>
                 <center><b><u>R$ 5000</u></center></b></th>
             <th>
-                <center><b><u>R$ 12000</u></center></b></th>
+                <center><b><u>R$ 8000</u></center></b></th>
             <th>
-                <center><b><u>R$ 18000</u></center></b></th>
+                <center><b><u>R$ 12000</u></center></b></th>
         </tr>
         <tr>
             <td></td>
