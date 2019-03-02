@@ -32,8 +32,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   # - name: location
  # - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -68,6 +68,8 @@ sponsors:
   - id:  naradacode
     level: platinum
   - id: ekipa
+    level: gold
+  - id: bukalapak
     level: gold
   - id:  bncc
     level: community
@@ -104,3 +106,150 @@ sponsor_levels:
     label: Community
   - id: media
     label: Media
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-10
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome by BRI"
+    type: custom
+    date: 2019-04-10
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mirco-hering"
+    type: talk
+    date: 2019-04-10
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "muhammad-ichsan-rahardianto"
+    type: talk
+    date: 2019-04-10
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "kamalika-majumder"
+    type: talk
+    date: 2019-04-10
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Coffee and Tea Break"
+    type: custom
+    date: 2019-04-10
+    start_time: "11:10"
+    end_time: "11:30"
+  - title: "kevin-web-page"
+    type: talk
+    date: 2019-04-10
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Ignites Session"
+    type: custom
+    date: 2019-04-10
+    start_time: "12:05"
+    end_time: "12:40"
+  - title: "Lunch Break"
+    type: custom
+    date: 2019-04-10
+    start_time: "12:40"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: custom
+    date: 2019-04-10
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "jihai-zhou"
+    type: talk
+    date: 2019-04-10
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "dheeraj-nayal"
+    type: talk
+    date: 2019-04-10
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Coffee and Tea Break"
+    type: custom
+    date: 2019-04-10
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "Closing Keynote"
+    type: custom
+    date: 2019-04-10
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Close Day"
+    type: custom
+    date: 2019-04-10
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-11
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Keynote"
+    type: custom
+    date: 2019-04-11
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "christian-hermanus"
+    type: talk
+    date: 2019-04-11
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Coffee and Tea Break"
+    type: custom
+    date: 2019-04-11
+    start_time: "10:20"
+    end_time: "10:40"
+  - title: "uli-hitzel"
+    type: talk
+    date: 2019-04-11
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "stefan-streichsbier"
+    type: talk
+    date: 2019-04-11
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Panel Discussion"
+    type: custom
+    date: 2019-04-11
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "Lunch Break"
+    type: custom
+    date: 2019-04-11
+    start_time: "12:20"
+    end_time: "13:30"
+  - title: "Open Space"
+    type: custom
+    date: 2019-04-11
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Ignites Session"
+    type: custom
+    date: 2019-04-11
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Talk 4"
+    type: custom
+    date: 2019-04-11
+    start_time: "14:40"
+    end_time: "15:10"
+  - title: "Coffee and Tea Break"
+    type: custom
+    date: 2019-04-11
+    start_time: "15:10"
+    end_time: "15:30"
+  - title: "Closing Keynote"
+    type: custom
+    date: 2019-04-11
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Close Day"
+    type: custom
+    date: 2019-04-11
+    start_time: "16:15"
+    end_time: "17:00"

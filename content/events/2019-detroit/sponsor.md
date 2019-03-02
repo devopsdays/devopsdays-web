@@ -11,7 +11,7 @@ We greatly value sponsors for this open event. See a <a href="https://assets.dev
 <hr>
 <h3>About</h3>
 <p>
-DevOps Days is dedicated to bringing systems administration and development together. Michigan, and Detroit specifically,
+devopsdays Detroit is dedicated to bringing systems administration and development together. Michigan, and Detroit specifically,
 is uniquely positioned to lead this integration due to its highly skilled engineers. We are a collection of makers with a
 common vision for excellence, change, and the grit to reinvent a city. Presentations will have a broad range of topics, with
 something for everyone. This conference is about much more than the tools we use. It is a forum for exploring the cultural
@@ -22,7 +22,7 @@ People in all stages of their career will be present from university students, t
 <p>
 Being a sponsor of this conference is of mutual benefit to sponsor and attendee. Not only are attendees able to enjoy the
 variety of products and services offered by sponsors, but sponsors also get the opportunity to interact with their audience in
-a friendly environment. DevOpsDays 2017 attracted over 300 attendees, a 20% increase from the previous year. 
+a friendly environment. devopsdays Detroit 2018 attracted over 300 attendees, a 20% increase from the previous year. 
 <h3>Contact</h3>
 General inquiries and sponorships:  [{{< email_organizers >}}]
 <hr>
@@ -37,44 +37,44 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   </tr>
   <tr>
     <td>Logo on Event Website</td>
-     <td bgcolor="#E9A916"></td>
-     <td bgcolor="#E9A916"></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
+     <td bgcolor="#D52B15"></td>
+     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Logo on Shared Slides, Rotating During Breaks</td>
-     <td bgcolor="#E9A916"></td>
-     <td bgcolor="#E9A916"></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
+     <td bgcolor="#D52B15"></td>
+     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Logo on All Email Communication</td>
      <td></td>
-     <td bgcolor="#E9A916"></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
+     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Logo on Its Own Slide, Rotating During Breaks</td>
      <td></td>
-     <td bgcolor="#E9A916"></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
+     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>1 Minute Pitch To Full Audience (including streaming audience, if applicable)</td>
      <td></td>
      <td></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Dedicated Table Space</td>
      <td></td>
      <td></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Shared Table Space</td>
      <td></td>
-     <td bgcolor="#E9A916"></td>
+     <td bgcolor="#D52B15"></td>
      <td></td>
   </tr>
   <tr>
@@ -91,18 +91,14 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   </tr>
   <tr>
     <td></td>
-    <td style="font-weight: bold; text-align: center">
-       Coming Soon
-    </td>
-    <td style="font-weight: bold; text-align: center">
-       Coming Soon
-    </td>
-    <td style="font-weight: bold; text-align: center">
-       Coming Soon
+    <td colspan=3>
+      <a href="/events/2019-detroit/sponsor-registration/" style="width: 100%; display: inline-block;  background-color:#D52B15;  padding: 5px; border:1px solid #241d13; color:#ffffff;font-size:15px;font-weight:bold;text-shadow:0px -1px 0px #7a2a1d; text-align: center">
+       pay online
+     </a>
     </td>
   </tr>
   <tr>
     <td></td>
-    <td style="text-align: right; color: #bbb;" colspan=4>Online payments include 3% service charge.<br/><a href="mailto:organizers-detroit-2019@devopsdays.org?subject=DevOpsDays%20Detroit%202019%20Sponsorship">Email us</a> for alternative payment information.</td>
+    <td style="text-align: right; color: #bbb;" colspan=4>Online payments include a service charge.<a href="mailto:organizers-detroit-2019@devopsdays.org?subject=DevOpsDays%20Detroit%202019%20Sponsorship">Email us</a> for alternative payment information.</td>
   </tr>
 </table>

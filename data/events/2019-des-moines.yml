@@ -82,12 +82,26 @@ proposal_email: "proposals-des-moines-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: cyberark
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: f5
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: granular
+    level: gold
   - id: john-deere
+    level: gold
+  - id: signalfx
     level: gold
   - id: sonatype
     level: gold
   - id: trility
     level: gold
+  - id: sourceallies
+    level: social    
   - id: oreilly
     level: community
   - id: sidegarage
