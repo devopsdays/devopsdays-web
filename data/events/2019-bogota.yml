@@ -11,8 +11,8 @@ enddate: 2019-05-26T18:00:00-05:00 # The end date of your event. Leave blank if 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-02-12T17:30:00-06:00  # start accepting talk proposals.
-cfp_date_end: 2019-04-15T17:30:00-06:00  # close your call for proposals.
-cfp_date_announce: 2019-04-30T17:30:00-06:00  # inform proposers of status
+cfp_date_end: 2019-05-01T23:59:00-06:00  # close your call for proposals.
+cfp_date_announce: 2019-05-13T23:59:00-06:00  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysbogota" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -25,17 +25,17 @@ registration_link: "https://devopsdays.co/entradas" # If you have a custom regis
 
 # Location
 #
-coordinates: "4.6097102, -74.081749" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "4.682563, -74.123580" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Centro de Excelencia Operacional Avianca" # Defaults to city, but you can make it the venue name.
 #
 location_address: "Dg. 25g ##95a-85, Bogotá, Cundinamarca" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: propose
   - name: sponsor
   - name: contact
   - name: conduct
