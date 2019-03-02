@@ -29,7 +29,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <strong>How to submit a proposal:</strong> Go to the following website and follow the instructions on that site. 
 ##### <a href="https://www.papercall.io/devopsdaysbogota">devopsdays Bogotá 2019 - PaperCall.io</a><br>
-If you run into any problems, please don't hesitate to contact us by email at [{{< email_proposals >}}].)
+If you run into any problems, please don't hesitate to contact us by email at [{{< email_proposals >}}].
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>
