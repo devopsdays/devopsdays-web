@@ -15,7 +15,7 @@ cfp_date_end: 2019-04-01T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce: 2019-05-15T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "https://docs.google.com/forms/d/e/1FAIpQLSfXD9AhpWkMtFMBu1dIRGnIZCm7435E1YPn5qkCbVgoXKOFrw/viewform" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2018-12-01 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-10-02 # close registration. Leave blank if registration is not open yet.
