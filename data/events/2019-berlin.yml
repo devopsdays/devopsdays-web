@@ -107,6 +107,8 @@ sponsors:
     level: partner
   - id: admin-magazine
     level: partner
+  - id: 2016-idealo
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
