@@ -140,6 +140,10 @@ sponsors:
     level: platinum
   - id: sysdig
     level: silver
+  - id: sps_commerce
+    level: platinum
+  - id: sps_commerce
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
