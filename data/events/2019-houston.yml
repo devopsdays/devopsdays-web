@@ -213,11 +213,21 @@ program:
     type: ignite
     date: 2019-04-16
     start_time: "13:30"
-    end_time: "14:00"
+    end_time: "14:15"
+  - title: "Coffee Break, Visit Sponsor Booths"
+    type: custom
+    date: 2019-04-16
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "sagar-karmarkar"
+    type: talk
+    date: 2019-04-16
+    start_time: "14:30"
+    end_time: "15:00"
   - title: "<UNDER CONSTRUCTION>"
     type: custom
     date: 2019-04-16
-    start_time: "14:00"
+    start_time: "15:00"
     end_time: "18:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
