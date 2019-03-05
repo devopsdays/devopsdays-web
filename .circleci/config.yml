@@ -6,8 +6,8 @@ jobs:
     steps:
       - checkout
       - run:
-        name: "Build site to GH Pages"
-        command: ./deploy.sh
+          name: "Build site to GH Pages"
+          command: ./deploy.sh
 
   build:
     docker:
