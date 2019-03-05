@@ -38,27 +38,30 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: programação
+    icon: "book"
+    url: /events/2019-sao-paulo/program
   - name: palestrantes
     icon: "microphone"
     url: /events/2019-sao-paulo/speakers
-  - name: Chamadas (CFP)
-    url: /events/2019-sao-paulo/cfp
-    icon: "microphone"
   - name: ingressos
     icon: "pencil"
     url: https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415
   - name: local
     url: /events/2019-sao-paulo/local
     icon: "map-o"
-  - name: contato
-    url: /events/2019-sao-paulo/contato
-    icon: "envelope-o"
   - name: código de conduta
     url: /events/2019-sao-paulo/conduta
     icon: "handshake-o"
   - name: patrocínio
     url: /events/2019-sao-paulo/sponsor
     icon: "money"
+  - name: Chamadas (CFP)
+    url: /events/2019-sao-paulo/cfp
+    icon: "microphone"
+  - name: contato
+    url: /events/2019-sao-paulo/contato
+    icon: "envelope-o"
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -158,4 +161,224 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  
+program:
+  - title: "Credenciamento e recepção"
+    type: custom
+    date: "2019-04-10"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-04-10"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "peter-shannon"
+    type: talk
+    date: "2019-04-10"
+    start_time: "9:30"
+    end_time: "10:15"
+    background_color: "#AED6F1"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-10"
+    start_time: "10:15"
+    end_time: "10:40"
+  
+  - title: "amanda-mattos"
+    type: talk
+    date: "2019-04-10"
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "luan-linares"
+    type: talk
+    date: "2019-04-10"
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "joao-brito"
+    type: talk
+    date: "2019-04-10"
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-04-10"
+    start_time: "12:10"
+    end_time: "13:30"
+    background_color: "#EDBB99"
+
+  - title: "lucas-santos"
+    type: talk
+    date: "2019-04-10"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "tatiane-paya"
+    type: talk
+    date: "2019-04-10"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-04-10"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-10"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2019-04-10"
+    start_time: "15:30"
+    end_time: "16:20"
+
+  - title: "victor-ferreira"
+    type: talk
+    date: "2019-04-10"
+    start_time: "16:20"
+    end_time: "16:50"
+
+  - title: "daniel-colchete"
+    type: talk
+    date: "2019-04-10"
+    start_time: "16:50"
+    end_time: "17:30"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2019-04-10"
+    start_time: "17:30"
+    end_time: "17:40"
+
+# Dia 10/04
+
+  - title: "Credenciamento, recepção e patrocinadores"
+    type: custom
+    date: "2019-04-11"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-04-11"
+    start_time: "9:00"
+    end_time: "9:15"
+
+  - title: ""
+    type: talk
+    date: "2019-04-11"
+    start_time: "9:15"
+    end_time: "9:45"
+
+  - title: "monica-cachoni"
+    type: talk
+    date: "2019-04-11"
+    start_time: "9:45"
+    end_time: "10:15"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-11"
+    start_time: "10:15"
+    end_time: "10:45"
+  
+  - title: "bruno-gurgel"
+    type: talk
+    date: "2019-04-11"
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "mateus-prado"
+    type: talk
+    date: "2019-04-11"
+    start_time: "11:15"
+    end_time: "11:45"
+
+
+  - title: "rafael-gomes"
+    type: talk
+    date: "2019-04-11"
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-04-11"
+    start_time: "12:10"
+    end_time: "13:30"
+    background_color: "#EDBB99"
+
+  - title: "diogo-nicoleti"
+    type: talk
+    date: "2019-04-11"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "edson-celio"
+    type: talk
+    date: "2019-04-11"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-04-11"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-11"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2019-04-11"
+    start_time: "15:30"
+    end_time: "16:20"
+
+  - title: "yago-nobre"
+    type: talk
+    date: "2019-04-11"
+    start_time: "16:20"
+    end_time: "16:50"
+
+  - title: ""
+    type: talk
+    date: "2019-04-11"
+    start_time: "16:50"
+    end_time: "17:30"
+    background_color: "#FFA3ED"
+
+  - title: "Fechamento"
+    type: custom
+    date: "2019-04-11"
+    start_time: "17:30"
+    end_time: "17:45"
+
+ignites:
+
+  - title: "daniel-requena"
+    date: "2019-04-10"
+  
+  - title: "eduardo-ximenes"
+    date: "2019-04-10"
+
+  - title: "fred-costa"
+    date: "2019-04-11"
+
+  - title: "danubia-barreto"
+    date: "2019-04-11"
   
