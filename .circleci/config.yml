@@ -8,9 +8,6 @@ jobs:
       - run:
         name: "Build site to GH Pages"
         command: ./deploy.sh
-    branches:
-      only:
-        - master
 
   build:
     docker:
