@@ -65,6 +65,7 @@ workflows:
             branches:
               ignore:
                 - master
+                - gh-pages
       - test:
           requires:
             - build
@@ -72,8 +73,10 @@ workflows:
             branches:
               ignore:
                 - master
+                - gh-pages
       - production:
           filters:
             branches:
               only:
                 - master
+                - gh-pages
