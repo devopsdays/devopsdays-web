@@ -19,7 +19,6 @@ If you'd like to contact us by email: {{< email_organizers >}}
 <li>Faye Thompson</li>
 <li>Mark Goodmanson</li>
 <li>Matt Stratton</li>
-<li>Michael Swartzbaugh</li>
 <li>Rob Kinyon</li>
 </ul>
 
