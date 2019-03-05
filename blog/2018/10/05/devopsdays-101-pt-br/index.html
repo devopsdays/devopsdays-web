@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.53" />
+<meta property="og:title" content="Devopsdays 101 (Pt-Br)" /><meta property="og:description" content="Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso." /><meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="name" content="devopsdays 101 (pt-br)"><meta itemprop="description" content="Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso."><meta itemprop="image" content="https://www.devopsdays.org/img/sharing.jpg" /><meta itemprop="wordCount" content="2010"><meta name="twitter:title" content="devopsdays 101 (pt-br)"/><meta name="twitter:description" content="Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso." /><meta name="twitter:site" content="@devopsdays"><meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<title>devopsdays 101 (pt-br)
+</title>
+<link rel="canonical" href="https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/">
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="https://www.devopsdays.org/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://www.devopsdays.org/css/googlemaps.css" rel="stylesheet">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.devopsdays.org/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.devopsdays.org/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.devopsdays.org/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.devopsdays.org/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.devopsdays.org/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.devopsdays.org/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.devopsdays.org/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.devopsdays.org/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.devopsdays.org/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.devopsdays.org/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.devopsdays.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.devopsdays.org/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.devopsdays.org/favicon-16x16.png">
+<link rel="manifest" href="https://www.devopsdays.org/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.devopsdays.org/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    <link href="https://www.devopsdays.org/blog/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+    <link href="https://www.devopsdays.org/blog/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+  
+
+</head>
+<body lang="">
+<nav class="navbar navbar-toggleable-md navbar-light">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">
+  <img src="https://www.devopsdays.org/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/about">about</a></li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row"><div class="col-md-8 push-md-2">
+
+<h1>devopsdays 101 (pt-br)</h1><small>by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</small>
+
+<p>Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.</p>
+
+<h2 id="devopsdays-é-um-evento-internacional-não-é-meio-grande-demais-para-a-minha-cidadezinha">devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha?</h2>
+
+<p>Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</p>
+
+<h2 id="e-quanto-ao-trabalho-é-muito-pesado-preciso-ter-experiência-prévia-em-organização-de-evento">E quanto ao trabalho, é muito pesado? Preciso ter experiência prévia em organização de evento?</h2>
+
+<p>Não! Eu diria que você precisa ter algum tempo disponível e vontade de aprender com outras pessoas que organizaram outros devopsdays, principalmente os que ocorreram no Brasil.
+Temos uma comunidade vibrante de organizadores que poderá lhe fornecer idéias, informações e até mesmo atuar colocando a mão na massa em algumas atividades.</p>
+
+<h2 id="quais-os-primeiros-passos">Quais os primeiros passos?</h2>
+
+<p>Tudo o que precisa saber está nesse link: <a href="https://www.devopsdays.org/organizing/">https://www.devopsdays.org/organizing/</a>, mas vou tentar resumir aqui para você já ter uma idéia.
+Os primeiros passos são:</p>
+
+<ul>
+<li>Enviar um email para o <em>core organizer team</em> pelo endereço <a href="mailto:info@devopsdays.org">info@devopsdays.org</a>, ter uma reunião com alguém da organização global (relaxa que vai ser um bate papo sobre o evento e o que planejam fazer)</li>
+<li>Enviar um <a href="https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md">Pull Request</a> para o <a href="https://github.com/devopsdays/devopsdays-web">repositório do site global</a></li>
+<li>Depois envie um novo email para <a href="mailto:info@devopsdays.org">info@devopsdays.org</a> com a lista das pessoas envolvidas na organização (Elas precisam estar no seu PR como <em>organizers</em>) com isso vai ser criado um email “organizers-sua-cidade-ano@devopsdays.org” que serve como lista para todos os organizadores locais receberem os emails e será enviado um convite para a plataforma de conversa dos organizadores (atualmente é no slack).</li>
+</ul>
+
+<h3 id="preciso-saber-inglês-então">Preciso saber inglês então?</h3>
+
+<p>Não é necessário pois temos um organizador global do Brasil (<a href="https://twitter.com/gomex">Gomex</a>), então pode enviar o email em português mesmo e a reunião será em pt-br, mas é sempre bom no mínimo compreender as conversas que ocorrem entre os organizadores, muita coisa útil é discutida lá.</p>
+
+<h3 id="tem-algum-formato-de-email-para-ser-enviado-que-informações-devo-mandar">Tem algum formato de email para ser enviado? Que informações devo mandar?</h3>
+
+<p>Você precisa dizer no email que tem interesse de organizar, informar a cidade e as pessoas envolvidas (nome e email). É <a href="https://www.devopsdays.org/organizing/#assembling-a-team">requerido</a> que as pessoas da organização sejam de ao menos três empresas/organizações diferentes. Se possível informe dias e horários para uma reunião online.</p>
+
+<p>Novamente, é ideal que tenha lido a <a href="https://www.devopsdays.org/organizing/">documentação oficial</a>, mas se tiver problemas com inglês fique tranquilo que discutiremos todos os pontos na reunião.</p>
+
+<h2 id="quais-são-as-regras-para-organizar">Quais são as regras para organizar?</h2>
+
+<p>Elas estão disponíveis na <a href="https://www.devopsdays.org/organizing/#rules">página oficial sobre organização de devopsdays</a>, mas (ao menos no momento em que publicamos este texto) as regras são as seguintes (recomendo ler a página oficial para garantir que não houve mudança):</p>
+
+<ul>
+<li>Inclusividade e respeito pelas diferenças são valores centrais da cultura devops, e nós te convidamos a fazer cada evento devopsdays um local que é receptível e respeitoso com todos os participantes. Seu evento deverá ter um código de conduta.</li>
+<li>Estes eventos são de comunidade, então o seu evento deverá ter um processo de chamada de trabalhos aberto e aceitar submissões do público geral. Eventos internos de devops focados em uma empresa específica ou curados com todos os palestrantes escolhidos privadamente são maravilhosos e nós encorajamos eles, mas eles não serão listados como um evento &ldquo;devopsdays&rdquo; neste site.</li>
+<li>Estes eventos não são para lucro individual ou corporativo. Se tiver dinheiro sobrando, você pode usá-lo para o seu próximo evento, para ajudar outros eventos devopsdays diretamente ou mandando participantes, ou para a caridade. A equipe global central pode (e irá) aceitar doações para nos ajudar a cobrir custos como DNS e web hosting, mas somente de conferências que usem o serviço da Conference Ops. Neste caso, dinheiro que sobra não vai para os bolsos de ninguém.</li>
+<li>Patrocinadores são muito apreciados pela sua assistência financeira, e eles são bem-vindos a participar em eventos devopsdays. Eles nunca podem receber informações de contato de organizadores de eventos devopsdays, nem são permitidos que se compre slots de palestra ou ignites em um devopsdays.</li>
+</ul>
+
+<h2 id="onde-eu-posso-organizar-o-local-não-costuma-ser-caro">Onde eu posso organizar? O local não costuma ser caro?</h2>
+
+<p>Basicamente, em qualquer lugar que vá acomodar o público. Instituições de educação costumam ser os melhores lugares para procurar, pois costumam não cobrar pelo espaço, faculdades costumam ter auditórios, é fácil para eles verem as vantagens de estarem ligados ao evento e mostrar o local que eles tem, etc… Caso não consiga com alguma instituição de ensino, procure empresas que se saiba que tem auditório, eles possivelmente iriam topar pelos mesmos motivos que instituições de ensino… Em último caso vem a opção de alugar um local, neste caso podes procurar empresas parceiras dispostas a ajudar com este custo.</p>
+
+<h2 id="como-posso-montar-a-melhor-equipe-de-organização">Como posso montar a melhor equipe de organização?</h2>
+
+<p>Geralmente os encontros técnicos (Meetup?) que ocorrem na sua cidade são uma boa. Uma mensagem nas redes sociais do tipo “Quero organizar um devopsdays na cidade <code>&lt;coloque sua cidade aqui&gt;</code>, quem ajuda?” e você pode inclusive marcar algumas pessoas que você sabe que se interessam pelo assunto nacionalmente (Ex. @gomex @somatorio) eles facilmente irão compartilhar seu pedido de ajuda.</p>
+
+<p>Não existe uma regra, mas quanto mais diversa for a equipe (gênero, área de atuação, local de trabalho, raça, etc.) melhor será a organização, pois haverá uma diversidade de idéias maior também.</p>
+
+<h2 id="como-gerenciar-a-parte-financeira-precisa-abrir-uma-empresa">Como gerenciar a parte financeira? Precisa abrir uma empresa?</h2>
+
+<p>Não precisa abrir empresa para organizar um devopsdays, nem mesmo para receber patrocínio ou lidar com o dinheiro! Você pode organizar os custos e fazer com que seus patrocinadores paguem os custos e peguem as notas diretamente de seus fornecedores. Isso exige algum esforço das pessoas que estão organizando, mas trabalho mesmo é abrir e manter uma empresa no Brasil.</p>
+
+<p>Alguns patrocinadores aceitam pagar a sua quota através de compra de ingressos especiais pela ferramenta de inscrição, ou seja, tudo legal e simples para a organização.</p>
+
+<p>Você pode optar por abrir empresa para tomar conta do dinheiro e lidar com todo custo de abertura (e fechamento). Seguindo esse modelo você receber patrocínios sem problemas algum, mas a desvantagem é o alto risco, pois você precisará investir muito dinheiro para começar. Nosso conselho é: Só siga esse caminho se tiver MUITO certo do sucesso de público para o tamanho do evento e já tiver experiência com esse tipo de coisa.</p>
+
+<p>Você pode contratar uma empresa para ser intermediária e pagar os custos que elas cobram para esse tipo de trabalho. Não temos nenhuma sugestão para isso, pois ainda não fizemos uso dessa opção, mas caso você seja a primeira pessoa a fazer, nos diga o que achou disso, para podermos compartilhar com os demais.</p>
+
+<p>Para gerenciar a parte financeira montamos uma <a href="https://docs.google.com/spreadsheets/d/1_VhPrkZuyUFqaQVvxPaCtqfX7OtH3fgGtTe2twKuEiY/edit#gid=0">planilha</a> baseada em parte nas planilhas usadas em São Paulo e em Porto Alegre (foram utilizados alguns pontos de cada uma), caso queira utilizá-la sinta-se à vontade (basta ir em &ldquo;File &gt; Download as &gt; Formato desejado&rdquo; ou entre em contato que damos um jeito), também aceitamos contribuições nela :)</p>
+
+<h3 id="como-vou-fazer-para-vender-os-ingressos">Como vou fazer para vender os ingressos?</h3>
+
+<p>Você deverá escolher uma plataforma de venda de ingressos. Temos experiência com algumas opções:</p>
+
+<ul>
+<li><a href="https://www.eventize.com.br/">https://www.eventize.com.br/</a> - Produto local, todas as vezes que tivemos problemas eles foram solucionados bem rápido. Eles oferecem boa opção para compra via empenho (necessário para governo comprar ingresso), emitem NF para as inscrições caso a organização solicite (cobram 10% do valor da nota) e pagam bem rápido em sua conta de pessoa física cadastrada na ferramenta deles.</li>
+<li><a href="https://www.eventbrite.com.br/">https://www.eventbrite.com.br/</a> - Produto internacional, o devopsdays que organizou com eles não gostou muito da experiência.</li>
+<li><a href="https://www.sympla.com.br/">https://www.sympla.com.br/</a> - Produto local, iniciamos uma conversa com eles, mas nenhum devopsdays no Brasil ainda tem experiência com eles. Parecem ser uma boa opção também.</li>
+</ul>
+
+<p>Nós sugerimos fazer uma pré-venda, que é basicamente lançar um formulário (Google forms? Algumas plataformas de inscrição possuem essa função também) para as pessoas, afim de obter uma ideia sobre quantas pessoas tem interesse, nesse formulário você pode até pegar algumas ideias de quais temas as pessoas mais desejam para o evento também, assim como perguntar o nível da pessoa.</p>
+
+<h3 id="como-conseguir-patrocinadores">Como conseguir patrocinadores?</h3>
+
+<p>Normalmente no primeiro ano será um pouco no tato mesmo, pois as empresas locais costumam a patrocinar de verdade depois que tudo estiver &ldquo;funcionando&rdquo;, ou seja, você já com grade, sendo fala na comunidade e afins. Sendo assim, não se preocupe com isso, normalmente a grana que entra na inscrição já cobre todos os custos no primeiro ano.</p>
+
+<p>Os outros organizadores podem indicar empresas que patrocinam nacionalmente, ou seja, esse pode ser um bom começo, mas também bater nas portas das empresas que precisam de profissionais nessa área é sempre uma boa ideia também.</p>
+
+<p>Todas as empresas pedem um documento com detalhes sobre patrocínio. Se precisar de um template para essa atividade, temos algumas opções para compartilhar.</p>
+
+<h2 id="dicas-de-como-divulgar-nas-redes">Dicas de como divulgar nas redes</h2>
+
+<p>Crie uma página no Facebook e uma conta no twitter, com a logo e nome do evento.</p>
+
+<p>Aconselhamos sempre usar uma imagem para cada divulgação nas redes. Elas funcionam melhor do que simples textos.</p>
+
+<p>Até então percebemos que a rede social que tem melhor retorno é Linkedin, então use os perfis pessoais de cada pessoa que está organizando e apoiando o evento para compartilhar essas novidades nas redes.</p>
+
+<p>A ideia é sempre que vocês lançarem uma notícia nas redes, pegue os links e mande direto no privado para que essas pessoas possam rapidamente compartilhar com poucos cliques.</p>
+
+<p>Os melhores horários para divulgação nas redes sociais são das 11:00 às 14:00 no meio da semana. Evite divulgar no final de semana, ao menos que seja MUITO necessário.</p>
+
+<p>Segue abaixo alguns exemplos de divulgações:</p>
+
+<ul>
+<li>&ldquo;Você sabia que teremos devopsdays aqui em <code>&lt;Coloque sua cidade aqui&gt;</code>&ldquo;</li>
+<li>&ldquo;Chamada de trabalho para o devopsdays <code>&lt;Cidade&gt;</code>, mande sua palestra&rdquo;</li>
+<li>&ldquo;Inscrições abertas, se inscrevam logo, pois os preços sobem a cada lote e esgotam rápido&rdquo;</li>
+<li>&ldquo;Palestrante X confirmado! Ele falará sobre Y, se inscreva aqui <code>&lt;link da app de inscrição&gt;</code>&rdquo; (Esse aqui você vai fazer bastante, pois a ideia é você fazer uma pessoa por pessoa)</li>
+<li>&ldquo;O fim do primeiro/segundo/terceiro lote é amanhã, não comprou ainda? Vai ficar mais caro, hein?&rdquo;</li>
+<li>&ldquo;Veja nossa grade completa&rdquo; (Esse aqui você deixa lá para perto do evento, pois é depois disso que costuma a bombar inscrições)</li>
+<li>&ldquo;Inscrições ESGOTADAS! Não comprou? Desculpa só ano que vem agora&hellip;&rdquo; (Isso é importante divulgar, para dar importância ao evento&rdquo;</li>
+</ul>
+
+<p>Conselho: Divulgue apenas duas vezes por semana, primeiro para não perder conteúdo e manter a constância e não inundar as pessoas, pois elas vão parar de seguir o evento se isso acontecer.</p>
+
+<h2 id="posso-chamar-quem-eu-quiser-para-palestrar-posso-só-convidar-pessoas-incríveis-e-o-evento-tá-feito">Posso chamar quem eu quiser para palestrar? Posso só convidar pessoas incríveis e o evento tá feito?</h2>
+
+<p>Não! A chamada de trabalho é obrigatória! Você pode convidar algumas pessoas, mas precisa abrir a chamada.</p>
+
+<h3 id="bem-então-como-funciona-esse-processo-de-cfp-e-como-chamar-pessoas-para-submeter">Bem, então como funciona esse processo de CFP? E como chamar pessoas para submeter?</h3>
+
+<p>Primeiro você precisa escolher alguma ferramenta para coletar as submissões, algumas pessoas usam <a href="https://www.google.com/forms/about/">Google Forms</a>, mas a maioria dos eventos no Brasil usam <a href="https://www.papercall.io/">PaperCall</a>.</p>
+
+<p>Basicamente você precisa pensar qual a disposição de palestras, com seus tempos, intervalos e afins.</p>
+
+<p>Segue abaixo algumas sugestões:</p>
+
+<ul>
+<li><a href="https://www.devopsdays.org/events/2018-salvador/program/">https://www.devopsdays.org/events/2018-salvador/program/</a></li>
+<li><a href="https://www.devopsdays.org/events/2018-belo-horizonte/program/">https://www.devopsdays.org/events/2018-belo-horizonte/program/</a></li>
+<li><a href="https://www.devopsdays.org/events/2018-sao-paulo/program/">https://www.devopsdays.org/events/2018-sao-paulo/program/</a></li>
+</ul>
+
+<h4 id="organizador-pode-palestrar">Organizador pode palestrar?</h4>
+
+<p>Pode sim, mas tem de passar pelo mesmo processo de CFP que os outros interessados em palestrar no evento. Indicamos que se dê prioridade para outros palestrantes que submetem, pois os organizadores acabam tendo várias obrigações durante o evento (e pode “pegar mal”, principalmente se muitos organizadores palestrarem)</p>
+
+<h2 id="tem-algum-material-para-compartilhar">Tem algum material para compartilhar?</h2>
+
+<p>Sim :)<br />
+Além da <a href="https://docs.google.com/spreadsheets/d/1_VhPrkZuyUFqaQVvxPaCtqfX7OtH3fgGtTe2twKuEiY/edit#gid=0">planilha</a> que já mencionamos temos um <a href="https://drive.google.com/drive/folders/16krt4-u2EpfHWGdc_5ed5sof0UHNliot?usp=sharing">exemplo de diretório</a> para organizar os arquivos do evento (foi assim que organizamos em Porto Alegre e Salvador), um <a href="https://gist.github.com/somatorio/4ed91d04c16a26419d98994083ff627f">checklist</a> de itens que consideramos importante levar em consideração/verificar durante a organização do evento e <a href="https://drive.google.com/drive/folders/1S0GP3MJRbHdwEaruKHdJAKEA6PvfApgX?usp=sharing">fotos</a> dos eventos que foram compartilhadas conosco.</p>
+
+<p>Aceitamos sugestões e contribuições em qualquer material (ou mesmo para novos).</p>
+
+<h2 id="isso-é-tudo">Isso é tudo?</h2>
+
+<p>Não, a idéia desse texto é estar em melhora contínua, por favor entre em contato conosco (somatorio@gmail.com) com dúvidas que não respondemos aqui, ou sugestões de novos itens a falarmos.</p>
+
+<p>Sinta-se à vontade de participar do <a href="http://t.me/devopsdaysbr">nosso grupo no telegram</a> também.</p>
+
+<div id="share"></div>
+<div class="row">
+  
+  <div class="col-md-12">
+    <nav>
+      <ul class="pagination">
+        
+          <li class="page-item">
+            <a href="https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/" class="page-link">
+              <span aria-hidden="true">&larr;</span>
+              Previous</a>
+          </li>
+          
+        
+          <li class="page-item disabled">
+            <a href="#" class="page-link">Next
+              <span aria-hidden="true">&rarr;</span>
+            </a>
+          </li>
+        
+      </ul>
+    </nav>
+  </div>
+</div>
+
+
+</div>
+              <div class="col-md-2 pull-md-8">
+                  <a href = "https://www.devopsdays.org/events" class="left-nav-navs">PAST EVENTS</a><br /><br /><h3 class="left-nav-year">2019</h3><h4 class="left-nav-months">March</h4><a href = "https://www.devopsdays.org/events/2019-los-angeles" class = "left-nav-event">
+        Mar 8:
+        Los Angeles
+      </a><br /><a href = "https://www.devopsdays.org/events/2019-natal" class = "left-nav-event">
+        Mar 9:
+        Natal
+      </a><br /><a href = "https://www.devopsdays.org/events/2019-vancouver" class = "left-nav-event">
+        Mar 29 - 30:
+        Vancouver
+          </a><br /><br /><h4 class="left-nav-months">April</h4><a href = "https://www.devopsdays.org/events/2019-copenhagen" class = "left-nav-event">
+        Apr 3 - 4:
+        Copenhagen
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-tokyo" class = "left-nav-event">
+        Apr 9 - 10:
+        Tokyo
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-atlanta" class = "left-nav-event">
+        Apr 9 - 10:
+        Atlanta
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-jakarta" class = "left-nav-event">
+        Apr 10 - 11:
+        Jakarta
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-sao-paulo" class = "left-nav-event">
+        Apr 10 - 11:
+        São Paulo
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-houston" class = "left-nav-event">
+        Apr 16 - 17:
+        Houston
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-seattle" class = "left-nav-event">
+        Apr 23 - 24:
+        Seattle
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-baltimore" class = "left-nav-event">
+        Apr 24 - 25:
+        Baltimore
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-denver" class = "left-nav-event">
+        Apr 29 - 30:
+        Denver
+          </a><br /><br /><h4 class="left-nav-months">May</h4><a href = "https://www.devopsdays.org/events/2019-austin" class = "left-nav-event">
+        May 2 - 3:
+        Austin
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-des-moines" class = "left-nav-event">
+        May 2 - 3:
+        Des Moines
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-nashville" class = "left-nav-event">
+        May 9 - 10:
+        Nashville
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-beijing" class = "left-nav-event">
+        May 11 - 12:
+        Beijing
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-zurich" class = "left-nav-event">
+        May 14 - 15:
+        Zürich
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-salt-lake-city" class = "left-nav-event">
+        May 14 - 15:
+        Salt Lake City
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-kiev" class = "left-nav-event">
+        May 17 - 18:
+        Kyiv
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-porto-alegre" class = "left-nav-event">
+        May 24 - 25:
+        Porto Alegre
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-bogota" class = "left-nav-event">
+        May 25 - 26:
+        Bogotá
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-toronto" class = "left-nav-event">
+        May 29 - 30:
+        Toronto
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-boise" class = "left-nav-event">
+        May 30:
+        Boise
+      </a><br /><a href = "https://www.devopsdays.org/events/2019-victoria" class = "left-nav-event">
+        May 30 - 31:
+        Victoria
+          </a><br /><br /><h4 class="left-nav-months">June</h4><a href = "https://www.devopsdays.org/events/2019-portugal" class = "left-nav-event">
+        Jun 3 - 4:
+        Portugal
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-aracaju" class = "left-nav-event">
+        Jun 8:
+        Aracaju
+      </a><br /><a href = "https://www.devopsdays.org/events/2019-amsterdam" class = "left-nav-event">
+        Jun 26 - 28:
+        Amsterdam
+          </a><br /><br /><h4 class="left-nav-months">July</h4><a href = "https://www.devopsdays.org/events/2019-indianapolis" class = "left-nav-event">
+        Jul 25 - 26:
+        Indianapolis
+          </a><br /><br /><h4 class="left-nav-months">August</h4><a href = "https://www.devopsdays.org/events/2019-minneapolis" class = "left-nav-event">
+        Aug 6 - 7:
+        Minneapolis
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-chicago" class = "left-nav-event">
+        Aug 27 - 28:
+        Chicago
+          </a><br /><br /><h4 class="left-nav-months">September</h4><a href = "https://www.devopsdays.org/events/2019-cape-town" class = "left-nav-event">
+        Sep 5 - 6:
+        Cape Town
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-cairo" class = "left-nav-event">
+        Sep 9:
+        Cairo
+      </a><br /><a href = "https://www.devopsdays.org/events/2019-portland" class = "left-nav-event">
+        Sep 10 - 12:
+        Portland
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-stockholm" class = "left-nav-event">
+        Sep 17 - 18:
+        Stockholm
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-istanbul" class = "left-nav-event">
+        Sep 19 - 20:
+        Istanbul
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-boston" class = "left-nav-event">
+        Sep 23 - 24:
+        Boston
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-buffalo" class = "left-nav-event">
+        Sep 26 - 27:
+        Buffalo
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-london" class = "left-nav-event">
+        Sep 26 - 27:
+        London
+          </a><br /><br /><h4 class="left-nav-months">October</h4><a href = "https://www.devopsdays.org/events/2019-raleigh" class = "left-nav-event">
+        Oct 1 - 2:
+        Raleigh
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-hartford" class = "left-nav-event">
+        Oct 2 - 3:
+        hartford
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-taipei" class = "left-nav-event">
+        Oct 16 - 18:
+        Taipei
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-edinburgh" class = "left-nav-event">
+        Oct 17 - 18:
+        Edinburgh
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-oslo" class = "left-nav-event">
+        Oct 22 - 23:
+        Oslo
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-philadelphia" class = "left-nav-event">
+        Oct 22 - 23:
+        Philadelphia
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-detroit" class = "left-nav-event">
+        Oct 23 - 24:
+        Detroit
+          </a><br /><a href = "https://www.devopsdays.org/events/2019-ghent" class = "left-nav-event">
+        Oct 28 - 30:
+        Ghent
+          </a><br /><br /><h4 class="left-nav-months">November</h4><a href = "https://www.devopsdays.org/events/2019-berlin" class = "left-nav-event">
+        Nov 27 - 28:
+        Berlin
+          </a><br /><h3 class="left-nav-year">TBD</h3><a href = "https://www.devopsdays.org/events/2018-saint-louis" class = "left-nav-event">Saint Louis</a><br /><a href = "https://www.devopsdays.org/events/2019-belo-horizonte" class = "left-nav-event">Belo Horizonte</a><br /><a href = "https://www.devopsdays.org/events/2019-cuba" class = "left-nav-event">Cuba</a><br /><a href = "https://www.devopsdays.org/events/2019-dallas" class = "left-nav-event">Dallas</a><br /><a href = "https://www.devopsdays.org/events/2019-johannesburg" class = "left-nav-event">Johannesburg</a><br /><a href = "https://www.devopsdays.org/events/2019-kansas-city" class = "left-nav-event">Kansas City</a><br /><a href = "https://www.devopsdays.org/events/2019-madison" class = "left-nav-event">Madison</a><br /><a href = "https://www.devopsdays.org/events/2019-montevideo" class = "left-nav-event">Montevideo</a><br /><a href = "https://www.devopsdays.org/events/2019-panama" class = "left-nav-event">Panamá</a><br /><a href = "https://www.devopsdays.org/events/2019-poznan" class = "left-nav-event">Poznań</a><br /><a href = "https://www.devopsdays.org/events/2019-tampa" class = "left-nav-event">Tampa</a><br /><a href = "https://www.devopsdays.org/events/2019-washington-dc" class = "left-nav-event">Washington, DC</a><br /></div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><p class="footer-content">Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</p><a href = "https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/"><h1 class = "footer-heading">Kansas City 2017 in review</h1></a><h2 class="footer-heading">by Aaron Blythe - 10 September, 2018</h2><p class="footer-content">On Sept 21st and 22nd, 2017, 350+ software practioners took over the Uptown Theater in Kansas City Missouri to discuss DevOps at <a href="https://devopsdays.org/events/2017-kansascity">DevOpsDays KC</a></p><a href="https://www.devopsdays.org/blog/index.xml">Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "https://www.devopsdays.org/events/2019-beijing" class = "footer-content">Beijing</a><br /><a href = "https://www.devopsdays.org/events/2019-bogota" class = "footer-content">Bogotá</a><br /><a href = "https://www.devopsdays.org/events/2019-victoria" class = "footer-content">Victoria</a><br /><a href = "https://www.devopsdays.org/events/2019-boise" class = "footer-content">Boise</a><br /><a href = "https://www.devopsdays.org/events/2019-portugal" class = "footer-content">Portugal</a><br /><a href = "https://www.devopsdays.org/events/2019-aracaju" class = "footer-content">Aracaju</a><br /><a href = "https://www.devopsdays.org/events/2019-amsterdam" class = "footer-content">Amsterdam</a><br /><a href = "https://www.devopsdays.org/events/2019-indianapolis" class = "footer-content">Indianapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-minneapolis" class = "footer-content">Minneapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-chicago" class = "footer-content">Chicago</a><br /><a href = "https://www.devopsdays.org/events/2019-cape-town" class = "footer-content">Cape Town</a><br /><a href = "https://www.devopsdays.org/events/2019-stockholm" class = "footer-content">Stockholm</a><br /><a href = "https://www.devopsdays.org/events/2019-istanbul" class = "footer-content">Istanbul</a><br /><a href = "https://www.devopsdays.org/events/2019-buffalo" class = "footer-content">Buffalo</a><br /><a href = "https://www.devopsdays.org/events/2019-london" class = "footer-content">London</a><br /><a href = "https://www.devopsdays.org/events/2019-raleigh" class = "footer-content">Raleigh</a><br /><a href = "https://www.devopsdays.org/events/2019-detroit" class = "footer-content">Detroit</a><br /><a href = "https://www.devopsdays.org/events/2019-berlin" class = "footer-content">Berlin</a><br />
+      <br />Propose a talk at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="https://www.devopsdays.org/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+
+<script src=https://www.devopsdays.org/js/devopsdays-min.js></script><script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'devopsdays'}, "facebook", "linkedin"],
+      text: 'devopsdays 101 (pt-br)',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>

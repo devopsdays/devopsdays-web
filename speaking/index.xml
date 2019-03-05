@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>devopsdays events with open CFP's</title>
+<atom:link href="https://www.devopsdays.org/events/index.xml" rel="self" type="application/rss+xml" />
+<link>https://www.devopsdays.org/speaking/</link>
+    <description>devopsdays events with open CFP's</description>
+<lastBuildDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</lastBuildDate>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<language>en-us</language>
+<copyright>Copyright 2016-2017 devopsdays</copyright>
+<generator>Hugo -- gohugo.io</generator>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+
+  
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Beijing 2019</title>
+          <link>https://www.devopsdays.org/events/2019-beijing</link>
+          <guid>https://www.devopsdays.org/events/2019-beijing</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays is coming to beijing!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Bogotá 2019</title>
+          <link>https://www.devopsdays.org/events/2019-bogota</link>
+          <guid>https://www.devopsdays.org/events/2019-bogota</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>¡Sé parte del primer devopsdays Bogota!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Victoria 2019</title>
+          <link>https://www.devopsdays.org/events/2019-victoria</link>
+          <guid>https://www.devopsdays.org/events/2019-victoria</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays Victoria Canada 2019!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Boise 2019</title>
+          <link>https://www.devopsdays.org/events/2019-boise</link>
+          <guid>https://www.devopsdays.org/events/2019-boise</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays is coming to Boise!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Portugal 2019</title>
+          <link>https://www.devopsdays.org/events/2019-portugal</link>
+          <guid>https://www.devopsdays.org/events/2019-portugal</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>devopsdays is coming to Portugal for the first time!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Aracaju 2019</title>
+          <link>https://www.devopsdays.org/events/2019-aracaju</link>
+          <guid>https://www.devopsdays.org/events/2019-aracaju</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays is coming to Aracaju!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Amsterdam 2019</title>
+          <link>https://www.devopsdays.org/events/2019-amsterdam</link>
+          <guid>https://www.devopsdays.org/events/2019-amsterdam</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>devopsdays Amsterdam is back for the 7th time!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Indianapolis 2019</title>
+          <link>https://www.devopsdays.org/events/2019-indianapolis</link>
+          <guid>https://www.devopsdays.org/events/2019-indianapolis</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays is coming to Indianapolis!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Minneapolis 2019</title>
+          <link>https://www.devopsdays.org/events/2019-minneapolis</link>
+          <guid>https://www.devopsdays.org/events/2019-minneapolis</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays Minneapolis will return in 2019!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Chicago 2019</title>
+          <link>https://www.devopsdays.org/events/2019-chicago</link>
+          <guid>https://www.devopsdays.org/events/2019-chicago</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays is coming to Chicago!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Cape Town 2019</title>
+          <link>https://www.devopsdays.org/events/2019-cape-town</link>
+          <guid>https://www.devopsdays.org/events/2019-cape-town</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays is coming to Cape Town!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+    
+  
+
+    
+  
+
+        
+        <item>
+          <title>devopsdays Stockholm 2019</title>
+          <link>https://www.devopsdays.org/events/2019-stockholm</link>
+          <guid>https://www.devopsdays.org/events/2019-stockholm</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays is coming back to Stockholm!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Istanbul 2019</title>
+          <link>https://www.devopsdays.org/events/2019-istanbul</link>
+          <guid>https://www.devopsdays.org/events/2019-istanbul</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays is coming to Istanbul!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+    
+  
+
+        
+        <item>
+          <title>devopsdays Buffalo 2019</title>
+          <link>https://www.devopsdays.org/events/2019-buffalo</link>
+          <guid>https://www.devopsdays.org/events/2019-buffalo</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays is coming to Buffalo!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays London 2019</title>
+          <link>https://www.devopsdays.org/events/2019-london</link>
+          <guid>https://www.devopsdays.org/events/2019-london</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays is coming to London!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+        
+        <item>
+          <title>devopsdays Raleigh 2019</title>
+          <link>https://www.devopsdays.org/events/2019-raleigh</link>
+          <guid>https://www.devopsdays.org/events/2019-raleigh</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays is coming to Raleigh!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+        
+        <item>
+          <title>devopsdays Detroit 2019</title>
+          <link>https://www.devopsdays.org/events/2019-detroit</link>
+          <guid>https://www.devopsdays.org/events/2019-detroit</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>DevOpsDays Detroit&#39;s 6th Year!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+    
+  
+
+        
+        <item>
+          <title>devopsdays Berlin 2019</title>
+          <link>https://www.devopsdays.org/events/2019-berlin</link>
+          <guid>https://www.devopsdays.org/events/2019-berlin</guid>
+          <pubDate>Tue, 5 Mar 2019 03:50:51 &#43;0000</pubDate>
+          
+            <description>Devopsdays is returning to Berlin!</description>
+          
+
+        </item>
+                
+    
+    
+  
+
+
+</channel>
+
+
+</rss>

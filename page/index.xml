@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on DevOpsDays</title>
+    <link>https://www.devopsdays.org/page/</link>
+    <description>Recent content in Pages on DevOpsDays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2017 11:24:58 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.devopsdays.org/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About devopsdays</title>
+      <link>https://www.devopsdays.org/about/</link>
+      <pubDate>Mon, 13 Feb 2017 11:24:58 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/about/</guid>
+      <description>Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area.
+Most devopsdays events feature a combination of curated talks (see open Calls for Proposals) and self organized open space content. Topics often include automation, testing, security, and organizational culture.
+History The first devopsdays was held in Ghent, Belgium in 2009.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://www.devopsdays.org/privacy/</link>
+      <pubDate>Fri, 19 Aug 2016 18:40:18 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/privacy/</guid>
+      <description>Privacy Policy(function (w,d) {var loader = function () {var s = d.createElement(&#34;script&#34;), tag = d.getElementsByTagName(&#34;script&#34;)[0]; s.src = &#34;//cdn.iubenda.com/iubenda.js&#34;; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener(&#34;load&#34;, loader, false);}else if(w.attachEvent){w.attachEvent(&#34;onload&#34;, loader);}else{w.onload = loader;}})(window, document); </description>
+    </item>
+    
+    <item>
+      <title>devopsdays code of conduct</title>
+      <link>https://www.devopsdays.org/conduct/</link>
+      <pubDate>Fri, 19 Aug 2016 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.devopsdays.org/conduct/</guid>
+      <description>Respect and empathy are core devops values. Devopsdays is dedicated to providing an environment where everyone in the devops community can learn and share in respectful, considerate collaboration.
+Every devopsdays event has a code of conduct, and we expect the organizer community before, during, and after the conferences to follow a similar code of conduct.
+Devopsdays is dedicated to providing a harassment-free experience for every participant, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or any other personal characteristics.</description>
+    </item>
+    
+    <item>
+      <title>Sponsor devopsdays</title>
+      <link>https://www.devopsdays.org/sponsor/</link>
+      <pubDate>Tue, 03 May 2016 13:04:25 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/sponsor/</guid>
+      <description>Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 40 events worldwide in 2016.
+Sponsoring devopsdays conferences gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.</description>
+    </item>
+    
+    <item>
+      <title>Devopsdays Gives Back</title>
+      <link>https://www.devopsdays.org/devops-gives-back/</link>
+      <pubDate>Thu, 14 Apr 2016 11:38:41 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/devops-gives-back/</guid>
+      <description>Introduction Below is a small summary of an open space that took place at Devopsdays Ghent (October, 2014). The goal of the open space was to find ways on how Devopsdays organizers and attendees can contribute to NGOs or other good causes.
+Two prior Devopsdays events donated some of the profits to charity. Devopsdays NY 2014 donated to the drilling of a well in Cambodia. Devopsdays Belgium 2014 donated to Manbarnootaaf VZW.</description>
+    </item>
+    
+    <item>
+      <title>Devopsdays - ignite talks format</title>
+      <link>https://www.devopsdays.org/ignite-talks-format/</link>
+      <pubDate>Thu, 14 Apr 2016 11:33:39 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/ignite-talks-format/</guid>
+      <description>If you have a strong devops-related message that you really want to share with the DevOps world, we encourage you to send us a proposal for an Ignite presentation.
+These are 5 minute talks with 20 slides which auto-advance. If you aren&amp;rsquo;t familiar with the format, good examples can be found at http://igniteshow.com/
+Tell us about tools, processes, tips, tricks, war stories, whatever&amp;hellip; make us laugh, make us cry, show us how to be more awesome&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Devopsdays - openspace concept</title>
+      <link>https://www.devopsdays.org/open-space-format/</link>
+      <pubDate>Thu, 14 Apr 2016 11:28:51 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/open-space-format/</guid>
+      <description>Most devopsdays events are a combination of curated talks and self organized conversations. The self organized content is known as &amp;ldquo;open spaces&amp;rdquo;. Open Spaces give attendees the opportunity to talk about anything they&amp;rsquo;d like. A person might suggest a topic they want to learn about, or one they feel like they can help others with. The topics range widely, from highly technical, to pure culture, to board games for networking.</description>
+    </item>
+    
+    <item>
+      <title>devopsdays events</title>
+      <link>https://www.devopsdays.org/events/</link>
+      <pubDate>Sun, 29 Nov 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://www.devopsdays.org/events/</guid>
+      <description>Learn how to organize your own devopsdays event!
+After each event, local organizers link to slides and videos from their event; check individual event programs for more info. (Videos from some past events are collected in a shared account; event videos since 2016 are linked from event programs.)</description>
+    </item>
+    
+    <item>
+      <title>Devopsdays - Organizing Guide</title>
+      <link>https://www.devopsdays.org/organizing/</link>
+      <pubDate>Sun, 22 Nov 2015 01:21:47 -0600</pubDate>
+      
+      <guid>https://www.devopsdays.org/organizing/</guid>
+      <description>Introduction Congratulations! The fact that you have reached this page means you at least have an interest in spreading the devops love to the world. Back in 2009 when we organized the first event, we were probably as excited as you are now. But we were also bit scared and full of questions: how does this work? how do we get sponsors? what is the first thing we have to do?</description>
+    </item>
+    
+  </channel>
+</rss>

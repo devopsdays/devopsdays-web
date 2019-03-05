@@ -1,0 +1,47 @@
+.box-green {
+  padding:0.75em;
+  margin-bottom:0.75em;
+  margin-top:0.75em;
+  background:#76d89a;
+}
+
+.box-blue {
+  padding:0.1em;
+  margin-bottom:0.1em;
+  background:#E5ECF9;
+}
+
+.box-redhat {
+  padding:0.75em;
+  margin-bottom:0.75em;
+  background:#cc0000;
+  font-family: 'OverpassRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.box-orange {
+  padding:0.75em;
+  margin-bottom:0.75em;
+  font-family: sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  background:#f18b21;
+}
+
+.centerstyle {
+  text-align:center;
+}
+
+.box-blue {
+  padding:1.5em;
+  margin-bottom:1.5em;
+  background:#E5ECF9;
+}
+
+.box-gray {
+  padding:1.5em;
+  margin-bottom:1.5em;
+  background:#e7e3e3;
+}
+

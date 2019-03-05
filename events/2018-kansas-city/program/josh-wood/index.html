@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.53" />
+<meta property="og:title" content="Automating Stateful Applications With Kubernetes Operators (Room 1L)" /><meta property="og:description" content="Kubernetes scales and manages stateless applications quite easily. Stateful applications can require more work. Databases, caching systems, and file stores are harder to dynamically manage with data intact, and sometimes come with their own notion of clustering. Operators are Kubernetes agents that know how to deploy, scale, manage, backup, and even upgrade complex, stateful applications.
+This tutorial will provide an update on the Operator pattern introduced by CoreOS, adopted by many community projects like Rook, Prometheus, and others, and supported by this spring’s release of the Operator Framework by Red Hat." /><meta property="og:type" content="talk" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2018-kansas-city/program/josh-wood/" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="name" content="Automating Stateful Applications with Kubernetes Operators (Room 1L)"><meta itemprop="description" content="Kubernetes scales and manages stateless applications quite easily. Stateful applications can require more work. Databases, caching systems, and file stores are harder to dynamically manage with data intact, and sometimes come with their own notion of clustering. Operators are Kubernetes agents that know how to deploy, scale, manage, backup, and even upgrade complex, stateful applications.
+This tutorial will provide an update on the Operator pattern introduced by CoreOS, adopted by many community projects like Rook, Prometheus, and others, and supported by this spring’s release of the Operator Framework by Red Hat."><meta itemprop="image" content="https://www.devopsdays.org/events/2018-kansas-city/sharing.jpg" /><meta itemprop="wordCount" content="137"><meta name="twitter:title" content="Automating Stateful Applications with Kubernetes Operators (Room 1L)"/><meta name="twitter:description" content="Kubernetes scales and manages stateless applications quite easily. Stateful applications can require more work. Databases, caching systems, and file stores are harder to dynamically manage with data intact, and sometimes come with their own notion of clustering. Operators are Kubernetes agents that know how to deploy, scale, manage, backup, and even upgrade complex, stateful applications.
+This tutorial will provide an update on the Operator pattern introduced by CoreOS, adopted by many community projects like Rook, Prometheus, and others, and supported by this spring’s release of the Operator Framework by Red Hat." /><meta name="twitter:site" content="@devopsdays"><meta name="twitter:creator" content="@devopsdayskc" /><meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<title>Automating Stateful Applications with Kubernetes Operators (Room 1L) - devopsdays Kansas City 2018
+</title>
+<link rel="canonical" href="https://www.devopsdays.org/events/2018-kansas-city/program/josh-wood/">
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+    
+      ga('create', 'UA-93890142-1', 'auto', 'clientTracker');
+      ga('clientTracker.send', 'pageview');
+    
+  
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="https://www.devopsdays.org/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://www.devopsdays.org/css/googlemaps.css" rel="stylesheet">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.devopsdays.org/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.devopsdays.org/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.devopsdays.org/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.devopsdays.org/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.devopsdays.org/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.devopsdays.org/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.devopsdays.org/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.devopsdays.org/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.devopsdays.org/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.devopsdays.org/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.devopsdays.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.devopsdays.org/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.devopsdays.org/favicon-16x16.png">
+<link rel="manifest" href="https://www.devopsdays.org/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.devopsdays.org/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="https://www.devopsdays.org/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="https://www.devopsdays.org/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+</head>
+<body lang="">
+<nav class="navbar navbar-toggleable-md navbar-light">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">
+  <img src="https://www.devopsdays.org/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-toggleable-md navbar-light">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar2">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <a href="https://www.devopsdays.org/events/2018-kansas-city" class="nav-link">Kansas City</a>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-kansas-city/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://devopsdayskc.eventbrite.com">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-kansas-city/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-kansas-city/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-kansas-city/sponsor">sponsor</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-kansas-city/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-kansas-city/conduct">conduct</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://docs.google.com/document/d/1NNk5Y8ZIhjK7z1-vfAvSG0sBwY0RhOSG14o7pRBWG28/edit?usp=sharing">justification</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">Automating Stateful Applications with Kubernetes Operators (Room 1L)</h2><br /><span class="talk-page content-text">
+        <p>Kubernetes scales and manages stateless applications quite easily. Stateful applications can require more work. Databases, caching systems, and file stores are harder to dynamically manage with data intact, and sometimes come with their own notion of clustering. Operators are Kubernetes agents that know how to deploy, scale, manage, backup, and even upgrade complex, stateful applications.</p>
+
+<p>This tutorial will provide an update on the Operator pattern introduced by CoreOS, adopted by many community projects like Rook, Prometheus, and others, and supported by this spring’s release of the Operator Framework by Red Hat. A follow-along demonstration will show the installation and use of an Operator on a OpenShift Kubernetes cluster.</p>
+
+<p>With an understanding of Operators in place, the session will go on to detail the Operator Framework and its main components, the Operator SDK and the Lifecycle management backplane.</p>
+
+      </span></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speaker</h2><img src = "https://www.devopsdays.org/events/2018-kansas-city/speakers/josh-wood.jpg" class="img-fluid"  alt="josh-wood"/><br /><br /><h4 class="talk-page"><a href = "https://www.devopsdays.org/events/2018-kansas-city/speakers/josh-wood">
+            Josh Wood
+          </a></h4><a href = "https://twitter.com/joshixisjosh9"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text">Developer Advocate
+Josh has worked in a variety of roles in innovative startups throughout his career, holding diverse titles from systems admin to product director and CTO. He is passionate about <a href = "https://www.devopsdays.org/events/2018-kansas-city/speakers/josh-wood/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Premium Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.plexpod.com"><img src = "/img/sponsors/plexpod.png" alt = "Plexpod" title = "Plexpod" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.appdynamics.com/"><img src = "/img/sponsors/appdynamics-before-20190121.png" alt = "AppDynamics" title = "AppDynamics" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sumologic.com/"><img src = "/img/sponsors/sumologic-before-20181203.png" alt = "SumoLogic" title = "SumoLogic" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://gocd.org/"><img src = "/img/sponsors/thoughtworks-gocd-before-20190213.png" alt = "GoCD" title = "GoCD" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://mesosphere.com/"><img src = "/img/sponsors/mesosphere.png" alt = "Mesosphere" title = "Mesosphere" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.influxdata.com/"><img src = "/img/sponsors/influxdata.png" alt = "InfluxData" title = "InfluxData" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://naic.org"><img src = "/img/sponsors/naic_nipr.png" alt = "naic_nipr" title = "naic_nipr" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://chef.io"><img src = "/img/sponsors/chef.png" alt = "Chef Software, Inc" title = "Chef Software, Inc" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://c2fo.com"><img src = "/img/sponsors/c2fo.png" alt = "C2FO" title = "C2FO" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.dynatrace.com/"><img src = "/img/sponsors/dynatrace.png" alt = "Dynatrace" title = "Dynatrace" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.awginc.com/"><img src = "/img/sponsors/awg.png" alt = "Associated Wholesale Grocers" title = "Associated Wholesale Grocers" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.rubrik.com/product/why-rubrik/"><img src = "/img/sponsors/rubrik.png" alt = "Rubrik" title = "Rubrik" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.vml.com/"><img src = "/img/sponsors/2018-vml.png" alt = "VML" title = "VML" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.aporeto.com/"><img src = "/img/sponsors/aporeto.png" alt = "Aporeto" title = "Aporeto" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.newrelic.com"><img src = "/img/sponsors/newrelic.png" alt = "New Relic" title = "New Relic" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Standard Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://chocolatey.org/"><img src = "/img/sponsors/chocolatey.png" alt = "Chocolatey Software, Inc." title = "Chocolatey Software, Inc." class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.tgs-mtc.com/"><img src = "/img/sponsors/tgs.png" alt = "Technology Group Solutions" title = "Technology Group Solutions" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.teksystems.com/"><img src = "/img/sponsors/tek-systems.png" alt = "Tek Systems" title = "Tek Systems" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://stackify.com"><img src = "/img/sponsors/stackify.png" alt = "stackify" title = "stackify" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Core Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-kansas-city/sponsor" class="sponsor-cta"><i>Become a Core Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sonatype.com/"><img src = "/img/sponsors/sonatype-before-20190121.png" alt = "Sonatype" title = "Sonatype" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.shamrocktradingcorp.com/"><img src = "/img/sponsors/shamrock.png" alt = "Shamrock Trading Corporation" title = "Shamrock Trading Corporation" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Amenity Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-kansas-city/sponsor" class="sponsor-cta"><i>Become a Amenity Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://engineering.cerner.com"><img src = "/img/sponsors/cerner.png" alt = "Cerner" title = "Cerner" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.elastic.co"><img src = "/img/sponsors/elastic.png" alt = "Elastic" title = "Elastic" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://kaizenops.io"><img src = "/img/sponsors/kaizenops.png" alt = "kaizenOps" title = "kaizenOps" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Party Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-kansas-city/sponsor" class="sponsor-cta"><i>Become a Party Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://disruptops.com/"><img src = "/img/sponsors/disruptops.png" alt = "DisruptOPS" title = "DisruptOPS" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Community Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-kansas-city/sponsor" class="sponsor-cta"><i>Become a Community Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.arresteddevops.com"><img src = "/img/sponsors/arresteddevops.png" alt = "Arrested DevOps" title = "Arrested DevOps" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://softwaredefinedtalk.com"><img src = "/img/sponsors/sdtp.png" alt = "Software Defined Talk Podcast" title = "Software Defined Talk Podcast" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.stickermule.com/supports/dodkc"><img src = "/img/sponsors/2018-kansas-city-stickermule.png" alt = "2018-kansas-city-stickermule" title = "2018-kansas-city-stickermule" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://infosec-conferences.com/"><img src = "/img/sponsors/infosec-conferences.png" alt = "infosec-conferences" title = "infosec-conferences" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://opensource.com"><img src = "/img/sponsors/opensource.png" alt = "opensource" title = "opensource" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><p class="footer-content">Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</p><a href = "https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/"><h1 class = "footer-heading">Kansas City 2017 in review</h1></a><h2 class="footer-heading">by Aaron Blythe - 10 September, 2018</h2><p class="footer-content">On Sept 21st and 22nd, 2017, 350+ software practioners took over the Uptown Theater in Kansas City Missouri to discuss DevOps at <a href="https://devopsdays.org/events/2017-kansascity">DevOpsDays KC</a></p><a href="https://www.devopsdays.org/blog/index.xml">Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "https://www.devopsdays.org/events/2019-beijing" class = "footer-content">Beijing</a><br /><a href = "https://www.devopsdays.org/events/2019-bogota" class = "footer-content">Bogotá</a><br /><a href = "https://www.devopsdays.org/events/2019-victoria" class = "footer-content">Victoria</a><br /><a href = "https://www.devopsdays.org/events/2019-boise" class = "footer-content">Boise</a><br /><a href = "https://www.devopsdays.org/events/2019-portugal" class = "footer-content">Portugal</a><br /><a href = "https://www.devopsdays.org/events/2019-aracaju" class = "footer-content">Aracaju</a><br /><a href = "https://www.devopsdays.org/events/2019-amsterdam" class = "footer-content">Amsterdam</a><br /><a href = "https://www.devopsdays.org/events/2019-indianapolis" class = "footer-content">Indianapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-minneapolis" class = "footer-content">Minneapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-chicago" class = "footer-content">Chicago</a><br /><a href = "https://www.devopsdays.org/events/2019-cape-town" class = "footer-content">Cape Town</a><br /><a href = "https://www.devopsdays.org/events/2019-stockholm" class = "footer-content">Stockholm</a><br /><a href = "https://www.devopsdays.org/events/2019-istanbul" class = "footer-content">Istanbul</a><br /><a href = "https://www.devopsdays.org/events/2019-buffalo" class = "footer-content">Buffalo</a><br /><a href = "https://www.devopsdays.org/events/2019-london" class = "footer-content">London</a><br /><a href = "https://www.devopsdays.org/events/2019-raleigh" class = "footer-content">Raleigh</a><br /><a href = "https://www.devopsdays.org/events/2019-detroit" class = "footer-content">Detroit</a><br /><a href = "https://www.devopsdays.org/events/2019-berlin" class = "footer-content">Berlin</a><br />
+      <br />Propose a talk at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="https://www.devopsdays.org/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+
+<script src=https://www.devopsdays.org/js/devopsdays-min.js></script><script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'devopsdayskc'}, "facebook", "linkedin"],
+      text: 'devopsdays Kansas City - 2018',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>

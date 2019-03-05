@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on DevOpsDays</title>
+    <link>https://www.devopsdays.org/blog/</link>
+    <description>Recent blogs in Blogs on DevOpsDays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Oct 2018 11:20:00 -0300</lastBuildDate>
+    <atom:link href="https://www.devopsdays.org/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>devopsdays 101 (pt-br)</title>
+      <link>https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/</link>
+      <pubDate>Fri, 05 Oct 2018 11:20:00 -0300</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/</guid>
+      <description>Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</description>
+    </item>
+    
+    <item>
+      <title>Kansas City 2017 in review</title>
+      <link>https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/</link>
+      <pubDate>Mon, 10 Sep 2018 16:31:00 -0600</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/</guid>
+      <description>On Sept 21st and 22nd, 2017, 330&#43; software practioners took over the Uptown Theater in Kansas City Missouri to discuss DevOps at DevOpsDays KC
+You can check out a recap here:
+ DevOpsDays Kansas City 2017 was held at the Uptown Theater at 3700 Broadway, which was added to the National Register of Historic Places in 1979. Uptown Theater was home to performances by Sting, Jason Bonham, Henry Rollins, Cyndi Lauper, Garbage, Sarah Silverman, Lyle Lovett, Dwight Yoakum, Ben Folds, Third Eye Blind, Melissa Etheridge, OK GO, Rusted Root, Elvis Costello, Merle Haggard, Loretta Lynn and many others over the last few years.</description>
+    </item>
+    
+    <item>
+      <title>Sao Paulo 2018 in review</title>
+      <link>https://www.devopsdays.org/blog/2018/08/13/sao-paulo-2018-in-review/</link>
+      <pubDate>Mon, 13 Aug 2018 21:01:03 -0300</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2018/08/13/sao-paulo-2018-in-review/</guid>
+      <description>Introduction This is a report with data stats and lessons learned about DevOpsDays Sao Paulo 2018, held on 06 and 07 of June at Hotel Century Flat.
+Goal Most events with DevOps subject in Brazil have more like Ops profile, others events that are trying to reach “DevOps public” add a track about that. But, often talks have subject around tools. We would like to discuss to invoke subjects beyond Infrastructure as Code and/or Continuous Delivery.</description>
+    </item>
+    
+    <item>
+      <title>Minneapolis 2017 and 2018</title>
+      <link>https://www.devopsdays.org/blog/2018/07/06/minneapolis-2017-and-2018/</link>
+      <pubDate>Fri, 06 Jul 2018 08:59:27 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2018/07/06/minneapolis-2017-and-2018/</guid>
+      <description>As we finish our 4th of July celebrations in Minnesota, many folks are looking at a summer packed full of outdoor activities and of course DevOpsDays Minneapolis! The approach of this year’s conference makes us reflect on last year’s event. As organizers of this event, we continue to be immensely proud of the high-quality content in combination with the great speakers we are able to bring to the stage in this community.</description>
+    </item>
+    
+    <item>
+      <title>Singapore 2017 in review</title>
+      <link>https://www.devopsdays.org/blog/2018/01/11/singapore-2017-in-review/</link>
+      <pubDate>Thu, 11 Jan 2018 23:33:36 +0800</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2018/01/11/singapore-2017-in-review/</guid>
+      <description>The third DevOpsDays in Singapore was held at Microsoft Operations Offices on October 25th and 26th 2017 with participation of more than 200 attendees.
+Speakers came from Europe, USA and Asia and included viewpoints ranging from process automation to software and system engineering.
+The conference is a mixture of organised formal presentations in the morning and informal self-organising open spaces in the afternoon.
+Attendees suggested topics via pigeonhole and voted throughout the day on the website which worked well.</description>
+    </item>
+    
+    <item>
+      <title>Cuba 2017 in review</title>
+      <link>https://www.devopsdays.org/blog/2017/12/12/cuba-2017-in-review/</link>
+      <pubDate>Tue, 12 Dec 2017 15:59:27 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2017/12/12/cuba-2017-in-review/</guid>
+      <description>Last October, 23-27 2017 we celebrated at Melia Marina Varadero the second annual event of DevOpsDays Cuba with participation of more than 120 delegates. The event was well received and of great interest to different educational institutions such as: Informatics Science University (UCI), Central University (UCLV) and others Universities from different regions of the country. In addition, the public sector was represented by professionals of companies related to Software Industry and Telecommunications services such as: DESOFT, DATYS, GEOCUBA, ETECSA, XETID, etc.</description>
+    </item>
+    
+    <item>
+      <title>Revisitando o DevOpsDays Brasília 2017</title>
+      <link>https://www.devopsdays.org/blog/2017/11/19/revisitando-o-devopsdays-bras%C3%ADlia-2017/</link>
+      <pubDate>Sun, 19 Nov 2017 06:51:36 -0200</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2017/11/19/revisitando-o-devopsdays-bras%C3%ADlia-2017/</guid>
+      <description>A Conferência  Sente o clima...   O DevOpsDays Brasília aconteceu em área central da Capital Federal em 07 e 08 de novembro de 2017. Este foi o segundo ano consecutivo que realizamos o DevOpsDays aqui pelo planalto central - Centro Oeste brasileiro.
+O evento foi realizado no Centro de Convenções do Hotel Grand Mercure - além de ser um local bonito e elegante, está muito bem localizado possuindo inúmeras facilidades em seu entorno como bancos, shoppings, restaurantes e belas atrações turísticas (exemplo: Torre de TV, feira de artesanato, Clube do Choro, Planetário de Brasília, Centro Cultural Funarte, Estádio Nacional Mané Garrinha).</description>
+    </item>
+    
+    <item>
+      <title>Auckland 2017 in review</title>
+      <link>https://www.devopsdays.org/blog/2017/10/15/auckland-2017-in-review/</link>
+      <pubDate>Sun, 15 Oct 2017 10:33:36 -0700</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2017/10/15/auckland-2017-in-review/</guid>
+      <description>Auckland 2017 in Review The conference The DevOpsDays conference was held in Auckland on the 3rd and 4th October 2017. This was the third DevOpsDays conference in New Zealand after the first one in Auckland (2013) and the second in Wellington last year.
+The venue was the beautiful and spacious Ellerslie Event Centre in Auckland. Around 230 DevOps enthusiasts attended the conference - coming from a wide spectrum of backgrounds viz.</description>
+    </item>
+    
+    <item>
+      <title>Seattle 2017 in review</title>
+      <link>https://www.devopsdays.org/blog/2017/04/30/seattle-2017-in-review/</link>
+      <pubDate>Sun, 30 Apr 2017 10:33:36 -0700</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2017/04/30/seattle-2017-in-review/</guid>
+      <description>this post was written by Ken Mugrage and represents my views of the event
+DevOpsDays Seattle 2017 was held at McCaw Hall on April 26th and 27th. Around 400 participants saw a mix of internationally known and local speakers talking about their challenges and successes.
+After the end of the event, we sent around a survey. The feedback has been overwhelmingly positive.
+Some things we think went well:
+ The speakers all did a great job.</description>
+    </item>
+    
+    <item>
+      <title>Kansas City 2016 in review</title>
+      <link>https://www.devopsdays.org/blog/2017/03/21/kansas-city-2016-in-review/</link>
+      <pubDate>Tue, 21 Mar 2017 16:31:00 -0600</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2017/03/21/kansas-city-2016-in-review/</guid>
+      <description>On October 20th and 21st, 2016, 208 software practioners met in a packed house in Kansas City Missouri at Musical Theater Heritage to discuss DevOps at DevOpsDays KC.
+You can check out a recap here:
+ The conference was a mixture of presentations and open spaces. Speakers came from both coasts and included viewpoints ranging from a high school student to a PhD, from seasoned executives to software and system engineers, from first time presenters to presenters with over 60 conferences speaking slots.</description>
+    </item>
+    
+    <item>
+      <title>Chicago 2016 in review</title>
+      <link>https://www.devopsdays.org/blog/2016/12/12/chicago-2016-in-review/</link>
+      <pubDate>Mon, 12 Dec 2016 16:31:00 -0600</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2016/12/12/chicago-2016-in-review/</guid>
+      <description>This post, written by Matt Stratton, first appeared on the Chef Blog on Sept 19, 2016
+DevOpsDays Chicago took place on August 30th &amp;amp;amp; 31st at Summit West in beautiful downtown Chicago. A sold-out, diverse crowd gathered for keynotes, presentations, lightning talks, and open spaces to learn, discuss, and promote all things DevOps.
+Day One The Presentations Leading off the presentations was a keynote by Adam Jacob, who discussed The Future of Automation.</description>
+    </item>
+    
+    <item>
+      <title>Minneapolis 2016 in review</title>
+      <link>https://www.devopsdays.org/blog/2016/08/08/minneapolis-2016-in-review/</link>
+      <pubDate>Mon, 08 Aug 2016 15:59:27 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2016/08/08/minneapolis-2016-in-review/</guid>
+      <description>The third devopsdays Minneapolis, held July 20-21 2016 at the Hilton Minneapolis, was a balancing act between explosive growth and continuing what worked from 2014 and 2015. We’re delighted to let you know that the survey results seem to indicate that participants liked it! We had about 700 people attend the event. (For comparison, 2015 had about 350 and 2014 had about 250.) 133 people filled out the post-event survey.</description>
+    </item>
+    
+    <item>
+      <title>Hockey Stick Growth</title>
+      <link>https://www.devopsdays.org/blog/2015/03/15/hockey-stick-growth/</link>
+      <pubDate>Sun, 15 Mar 2015 20:02:27 -0500</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2015/03/15/hockey-stick-growth/</guid>
+      <description>The explosion of devopsdays events in recent years is exciting for everyone in the community. Some of us have been in this space since before the first event in Ghent, while others are joining with the newest events coming online in 2015. In the last year we&amp;amp;rsquo;ve added new global core organizers, seen the originator of devopsdays (Patrick Debois) move into an advisory role, and been thrilled by rapid expansion in the numbers and locations of events.</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays Barcelona 2013</title>
+      <link>https://www.devopsdays.org/blog/2013/08/26/devopsdays-barcelona-2013/</link>
+      <pubDate>Mon, 26 Aug 2013 14:02:27 +0100</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2013/08/26/devopsdays-barcelona-2013/</guid>
+      <description>The first DevOpsDays Barcelona is scheduled for October 10th and 11th of 2013, registration is currently open, and of course we already made the call for papers available for all of you, who want to participate not only as a atendee on the event.
+If you register for the event before September 2nd, using the coupon WELOVEDEVOPS you will get a 15% discount on your tickets, so what are you waiting for?</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays Paris 2013</title>
+      <link>https://www.devopsdays.org/blog/2013/03/08/devopsdays-paris-2013/</link>
+      <pubDate>Fri, 08 Mar 2013 14:02:27 +0100</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2013/03/08/devopsdays-paris-2013/</guid>
+      <description>The first DevOpsDays Paris is scheduled for 18-19 April 2013, and while this blog post is a little late to the game, it&amp;amp;rsquo;s not yet too late for you to participate either as an attendee or a speaker.
+For those interested in attending, we&amp;amp;rsquo;re offering a 25% discount on tickets through the end of this week (17 March 2013) - just use the &amp;amp;ldquo;WELOVEDEVOPS&amp;amp;rdquo; code and you&amp;amp;rsquo;re all set.
+If you&amp;amp;rsquo;re more interested in speaking, the Call for Proposals is still open until 20 March 2013, so don&amp;amp;rsquo;t hesitate - submit your proposal today!</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays 2012 - Rome Final Speakerslist</title>
+      <link>https://www.devopsdays.org/blog/2012/08/30/devopsdays-2012-rome-final-speakerslist/</link>
+      <pubDate>Thu, 30 Aug 2012 20:16:57 +0100</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2012/08/30/devopsdays-2012-rome-final-speakerslist/</guid>
+      <description>In case you hadn&amp;amp;rsquo;t noticed yet .. Devopsdays Rome is on again ..
+And here&amp;amp;rsquo;s the list of speakers
+ You can&amp;amp;rsquo;t change culture, but you can influence behavior and behavior becomes culture. - Damon Edwards Failure is the new Success - Peter Halacsy The State of Open Source Monitoring: The good, the bad, the fucking terrible, and a glimpse into our future. - Jason Dixon Monitoring data.fao.org - Bryan Berry Metrics Driven Develpment - Mantas Klasavicius DevOps - One small step for business-IT alignment, one giant leap for infrastructure culture - Mark Burgess</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays 2011 - Mountain View T-Shirt Design Contest</title>
+      <link>https://www.devopsdays.org/blog/2011/04/26/devopsdays-2011-mountain-view-t-shirt-design-contest/</link>
+      <pubDate>Tue, 26 Apr 2011 23:16:57 +0100</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2011/04/26/devopsdays-2011-mountain-view-t-shirt-design-contest/</guid>
+      <description>For the upcoming DevOpsDays in Mountain View we&amp;amp;rsquo;re looking to create t-shirts based off of your design. We&amp;amp;rsquo;re going to run a design submission period, followed by a brief rating period. The design with the most votes will get printed on the back of the Devopsdays 2011 - Mountain View event shirt. How cool is that?
+Details In order to make the voting period safe, we&amp;amp;rsquo;ll be collecting submissions up to Midnight PDT on May 15th.</description>
+    </item>
+    
+    <item>
+      <title>DevOpsDays 2011 - Mountain View Announcement</title>
+      <link>https://www.devopsdays.org/blog/2011/04/13/devopsdays-2011-mountain-view-announcement/</link>
+      <pubDate>Wed, 13 Apr 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2011/04/13/devopsdays-2011-mountain-view-announcement/</guid>
+      <description>Announcing the 2011 DevOps Days - Mt. View What started in Ghent in 2009 and has travelled the world from Sydney to Sao Paulo to Boston is now coming BACK to Mountain View! That&amp;amp;rsquo;s right, following on the heels of an awesome 2-day event in Boston DevOps Days is rolling into town to cap off the Velocity Conference.
+This will be the seventh official DevOps Days event and it&amp;amp;rsquo;s sure to be a grand one.</description>
+    </item>
+    
+    <item>
+      <title>Boston Devopsdays 7-8 March 2011 Call for papers</title>
+      <link>https://www.devopsdays.org/blog/2011/01/08/boston-devopsdays-7-8-march-2011-call-for-papers/</link>
+      <pubDate>Sat, 08 Jan 2011 23:16:57 +0100</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2011/01/08/boston-devopsdays-7-8-march-2011-call-for-papers/</guid>
+      <description>Another year, another devopsdays! This time in the marvelous city of Boston.
+On 7 and 8 March 2011, we are organizing a new devopsdays. It will be a two event with conference talks in the morning and openspaces in the afternoon.
+It is kindly hosted by the Microsoft NERD Center
+You can contribute in one of the following ways:
+ Propose a session for the conference talks: it will be a 45 minute session where you can talk about the next big things happening in devops land, you&amp;amp;rsquo;re reflections on devops (good and bad), the experiences you want to share.</description>
+    </item>
+    
+    <item>
+      <title>devopsday Brazil 2010 - devops go samba!</title>
+      <link>https://www.devopsdays.org/blog/2010/11/04/devopsday-brazil-2010-devops-go-samba/</link>
+      <pubDate>Thu, 04 Nov 2010 11:38:11 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2010/11/04/devopsday-brazil-2010-devops-go-samba/</guid>
+      <description>Source: The ElectriClerk Agradecendo a ajuda do Daniel Cukier, temos o prazer de anunciar para voc&amp;amp;#234;s que um novo devopsdays est&amp;amp;#225; chegando. Dia 4 de dezembro de 2010, todos os devops v&amp;amp;#227;o para S&amp;amp;#227;o Paulo - Brazil - Rua Arab&amp;amp;#233;, 71 - Vila Clementino - perto do metr&amp;amp;#244; Santa Cruz . Ser&amp;amp;#225; um evento de um dia cheio de discuss&amp;amp;#227;o, parecido com o programa do devopsays US Se voc&amp;amp;#234; tem alguma ideia de discuss&amp;amp;#227;o ou apresenta&amp;amp;#231;&amp;amp;#227;o, sinta-se a vontade para enviar sua proposta para n&amp;amp;#243;s.</description>
+    </item>
+    
+    <item>
+      <title>devopsdays 2010 Hamburg - Final Program published</title>
+      <link>https://www.devopsdays.org/blog/2010/10/04/devopsdays-2010-hamburg-final-program-published/</link>
+      <pubDate>Mon, 04 Oct 2010 11:53:43 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2010/10/04/devopsdays-2010-hamburg-final-program-published/</guid>
+      <description>   Source We are proud to announce you the final program for devopsdays Hamburg.
+This will be a great lineup of international speakers.
+We hope you like the mix and come join the discussion live!
+Hamburg on 15 and 16 October 2010
+    </description>
+    </item>
+    
+    <item>
+      <title>Devopsdays Europe 2010 - Call for Speakers open</title>
+      <link>https://www.devopsdays.org/blog/2010/08/02/devopsdays-europe-2010-call-for-speakers-open/</link>
+      <pubDate>Mon, 02 Aug 2010 14:36:20 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2010/08/02/devopsdays-europe-2010-call-for-speakers-open/</guid>
+      <description>It&amp;amp;rsquo;s about one year since the first devopsdays 2009 took place in Belgium. Since then we have had successful conference in both Australia and the United States. Now we are back home in Europe. The details for the next devopsdays are: Location: East Hotel in Hamburg/Germany Date: Friday, 15th - Saturday 16th October 2010 (image Source)    We currently have a call for speakers open and hope to finalize the program around 15 of September.</description>
+    </item>
+    
+    <item>
+      <title>Velocity</title>
+      <link>https://www.devopsdays.org/blog/2010/06/09/velocity/</link>
+      <pubDate>Wed, 09 Jun 2010 07:25:26 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2010/06/09/velocity/</guid>
+      <description>ve&amp;amp;#183;loc&amp;amp;#183;i&amp;amp;#183;ty rapidity of motion or operation; swiftness; speed. If you&amp;amp;rsquo;ve heard me talk about Agile Infrastucture, or read my personal blog, you might have noticed that I frequently make references to Velocity. When we started planning DevOpsDays US, there was consensus from the beginning to backdraft Velocity.
+I have a hard time saying &amp;amp;lsquo;DevOps&amp;amp;rsquo; was born at any one time or any one place, as doing so ignores a large body of individual and organizational work, knowledge and experience, but Velocity has to be considered seminal in the course of the formation and articulation of DevOps ideas and ideals.</description>
+    </item>
+    
+    <item>
+      <title>The Panel Experiment and Ignite DevOps</title>
+      <link>https://www.devopsdays.org/blog/2010/05/16/the-panel-experiment-and-ignite-devops/</link>
+      <pubDate>Sun, 16 May 2010 23:08:03 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2010/05/16/the-panel-experiment-and-ignite-devops/</guid>
+      <description>When we first started organizing DevOpsDays for the US, we all had slightly different visions about what we wanted to see and what we wanted to participate in.  On one hand, some of us really wanted to use Open Space Technology as the basis for some if not all of the program, while some of us really wanted to have presentations. We all wanted to have a &amp;amp;lsquo;community&amp;amp;rsquo; event, but we also wanted to leverage the expertise in that community.</description>
+    </item>
+    
+    <item>
+      <title>Devopsday 2010 US - Call for proposals</title>
+      <link>https://www.devopsdays.org/blog/2010/02/13/devopsday-2010-us-call-for-proposals/</link>
+      <pubDate>Sat, 13 Feb 2010 13:17:18 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2010/02/13/devopsday-2010-us-call-for-proposals/</guid>
+      <description>Devopsday USA 2010 will be held in Mountain View, California on Friday, June 25, 2010. This event is inspired by and a continuation of the conversation from Devopsdays Belgium 2009
+As we put together an agenda, we are looking to YOU to help shape the event.
+The best way to ensure that you get the most out of this event is to make a proposal or suggestion about a topic in which you are interested!</description>
+    </item>
+    
+    <item>
+      <title>Devopsdays 2009 Belgium - Videos and presentations</title>
+      <link>https://www.devopsdays.org/blog/2009/12/21/devopsdays-2009-belgium-videos-and-presentations/</link>
+      <pubDate>Mon, 21 Dec 2009 20:07:17 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2009/12/21/devopsdays-2009-belgium-videos-and-presentations/</guid>
+      <description>Subject says it all ;-)
+Check out the presentation and video page.
+Enjoy!</description>
+    </item>
+    
+    <item>
+      <title>Devopsdays 2009 Belgium: A great success</title>
+      <link>https://www.devopsdays.org/blog/2009/11/11/devopsdays-2009-belgium-a-great-success/</link>
+      <pubDate>Wed, 11 Nov 2009 19:52:12 +0000</pubDate>
+      
+      <guid>https://www.devopsdays.org/blog/2009/11/11/devopsdays-2009-belgium-a-great-success/</guid>
+      <description>Thanks for everyone to participate! It was great, thanks to all the people! Check out our &amp;amp;lsquo;reactions page&amp;amp;rsquo; to see what people are saying.</description>
+    </item>
+    
+  </channel>
+</rss>

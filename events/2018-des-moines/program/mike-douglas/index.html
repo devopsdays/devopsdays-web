@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.53" />
+<meta property="og:title" content="Continuous Security Validation in Your CI/CD Pipeline" /><meta property="og:description" content="Transform security from afterthought to continuously validating security every step of the process. See how your CI/CD pipeline can perform continuous validation with every check-in including code analysis, OSS security scanning, and automated pen testing using VSTS and OWASP ZAP Docker containers" /><meta property="og:type" content="talk" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2018-des-moines/program/mike-douglas/" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="name" content="Continuous Security Validation in Your CI/CD Pipeline"><meta itemprop="description" content="Transform security from afterthought to continuously validating security every step of the process. See how your CI/CD pipeline can perform continuous validation with every check-in including code analysis, OSS security scanning, and automated pen testing using VSTS and OWASP ZAP Docker containers"><meta itemprop="image" content="https://www.devopsdays.org/events/2018-des-moines/sharing.jpg" /><meta itemprop="wordCount" content="42"><meta name="twitter:title" content="Continuous Security Validation in Your CI/CD Pipeline"/><meta name="twitter:description" content="Transform security from afterthought to continuously validating security every step of the process. See how your CI/CD pipeline can perform continuous validation with every check-in including code analysis, OSS security scanning, and automated pen testing using VSTS and OWASP ZAP Docker containers" /><meta name="twitter:site" content="@devopsdays"><meta name="twitter:creator" content="@devopsdaysdsm" /><meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<title>Continuous Security Validation in Your CI/CD Pipeline - devopsdays Des Moines 2018
+</title>
+<link rel="canonical" href="https://www.devopsdays.org/events/2018-des-moines/program/mike-douglas/">
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+    
+      ga('create', 'UA-100057712-1', 'auto', 'clientTracker');
+      ga('clientTracker.send', 'pageview');
+    
+  
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="https://www.devopsdays.org/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://www.devopsdays.org/css/googlemaps.css" rel="stylesheet">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.devopsdays.org/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.devopsdays.org/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.devopsdays.org/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.devopsdays.org/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.devopsdays.org/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.devopsdays.org/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.devopsdays.org/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.devopsdays.org/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.devopsdays.org/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.devopsdays.org/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.devopsdays.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.devopsdays.org/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.devopsdays.org/favicon-16x16.png">
+<link rel="manifest" href="https://www.devopsdays.org/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.devopsdays.org/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="https://www.devopsdays.org/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="https://www.devopsdays.org/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+</head>
+<body lang="">
+<nav class="navbar navbar-toggleable-md navbar-light">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">
+  <img src="https://www.devopsdays.org/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-toggleable-md navbar-light">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar2">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <a href="https://www.devopsdays.org/events/2018-des-moines" class="nav-link">Des Moines</a>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-des-moines/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.eventbrite.com/e/devopsdays-des-moines-tickets-39855883019">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-des-moines/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-des-moines/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-des-moines/sponsor">sponsor</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-des-moines/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-des-moines/conduct">conduct</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">Continuous Security Validation in Your CI/CD Pipeline</h2><div class="row">
+            <div class="col-md-12 youtube-video">
+              <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QXTr1kx6cBk">
+              </iframe>
+              </div>
+            </div>
+          </div><br /><span class="talk-page content-text">
+        <p>Transform security from afterthought to continuously validating security every step of the process.  See how your CI/CD pipeline can perform continuous validation with every check-in including code analysis, OSS security scanning, and automated pen testing using VSTS and OWASP ZAP Docker containers</p>
+
+      </span></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speaker</h2><img src = "https://www.devopsdays.org/events/2018-des-moines/speakers/mike-douglas.jpg" class="img-fluid"  alt="mike-douglas"/><br /><br /><h4 class="talk-page"><a href = "https://www.devopsdays.org/events/2018-des-moines/speakers/mike-douglas">
+            Mike Douglas
+          </a></h4><a href = "https://twitter.com/mikedouglasdev"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text">Mike Douglas is a Solution Consultant at Deliveron Consulting Services.  He specializes in working with development teams to implement DevOps and Application Lifecycle Management (ALM) solutions to <a href = "https://www.devopsdays.org/events/2018-des-moines/speakers/mike-douglas/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://trility.io/"><img src = "/img/sponsors/trility.png" alt = "Trility" title = "Trility" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.microsoft.com/"><img src = "/img/sponsors/microsoft.png" alt = "Microsoft" title = "Microsoft" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.appdynamics.com/"><img src = "/img/sponsors/appdynamics-before-20190121.png" alt = "AppDynamics" title = "AppDynamics" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.workiva.com/"><img src = "/img/sponsors/workiva.png" alt = "Workiva" title = "Workiva" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sumologic.com/"><img src = "/img/sponsors/sumologic-before-20181203.png" alt = "SumoLogic" title = "SumoLogic" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.granular.ag/"><img src = "/img/sponsors/granular.png" alt = "Granular" title = "Granular" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Silver Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://xebialabs.com/"><img src = "/img/sponsors/xebialabs.png" alt = "XebiaLabs" title = "XebiaLabs" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.deere.com/"><img src = "/img/sponsors/john-deere.png" alt = "John Deere" title = "John Deere" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.contrastsecurity.com/"><img src = "/img/sponsors/contrast_security.png" alt = "Contrast Security" title = "Contrast Security" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.columnit.com/"><img src = "/img/sponsors/columntech.png" alt = "Column Technologies" title = "Column Technologies" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Bronze Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.beaconhillstaffing.com/"><img src = "/img/sponsors/beaconhill.png" alt = "Beacon Hill Staffing" title = "Beacon Hill Staffing" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://qci.com/"><img src = "/img/sponsors/qci.png" alt = "QCI" title = "QCI" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.dice.com/"><img src = "/img/sponsors/dice.png" alt = "Dice.com" title = "Dice.com" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.paragonitpros.com/"><img src = "/img/sponsors/paragon.png" alt = "Paragon" title = "Paragon" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://realkinetic.com"><img src = "/img/sponsors/realkinetic.png" alt = "realkinetic" title = "realkinetic" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.roberthalf.com/"><img src = "/img/sponsors/robert-half.png" alt = "Robert Half" title = "Robert Half" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://teksystems.com/"><img src = "/img/sponsors/teksystems.png" alt = "TEKsystems" title = "TEKsystems" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.leantechniques.co/"><img src = "/img/sponsors/leantechniques.png" alt = "Lean TECHniques" title = "Lean TECHniques" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.mumosystems.com/"><img src = "/img/sponsors/mumosystems.png" alt = "Mumo Systems" title = "Mumo Systems" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.intlfcstone.com/"><img src = "/img/sponsors/intl-fcstone.png" alt = "INTL FCStone Inc." title = "INTL FCStone Inc." class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.meredith.com/"><img src = "/img/sponsors/meredith.png" alt = "Meredith" title = "Meredith" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Uranium Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.sourceallies.com"><img src = "/img/sponsors/sourceallies.png" alt = "Source Allies" title = "Source Allies" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Bag and Lanyard Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.datadoghq.com"><img src = "/img/sponsors/datadog.png" alt = "Datadog" title = "Datadog" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Community Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-des-moines/sponsor" class="sponsor-cta"><i>Become a Community Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://thesidegarage.com"><img src = "/img/sponsors/sidegarage.png" alt = "The Side Garage" title = "The Side Garage" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><p class="footer-content">Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</p><a href = "https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/"><h1 class = "footer-heading">Kansas City 2017 in review</h1></a><h2 class="footer-heading">by Aaron Blythe - 10 September, 2018</h2><p class="footer-content">On Sept 21st and 22nd, 2017, 350+ software practioners took over the Uptown Theater in Kansas City Missouri to discuss DevOps at <a href="https://devopsdays.org/events/2017-kansascity">DevOpsDays KC</a></p><a href="https://www.devopsdays.org/blog/index.xml">Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "https://www.devopsdays.org/events/2019-beijing" class = "footer-content">Beijing</a><br /><a href = "https://www.devopsdays.org/events/2019-bogota" class = "footer-content">Bogotá</a><br /><a href = "https://www.devopsdays.org/events/2019-victoria" class = "footer-content">Victoria</a><br /><a href = "https://www.devopsdays.org/events/2019-boise" class = "footer-content">Boise</a><br /><a href = "https://www.devopsdays.org/events/2019-portugal" class = "footer-content">Portugal</a><br /><a href = "https://www.devopsdays.org/events/2019-aracaju" class = "footer-content">Aracaju</a><br /><a href = "https://www.devopsdays.org/events/2019-amsterdam" class = "footer-content">Amsterdam</a><br /><a href = "https://www.devopsdays.org/events/2019-indianapolis" class = "footer-content">Indianapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-minneapolis" class = "footer-content">Minneapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-chicago" class = "footer-content">Chicago</a><br /><a href = "https://www.devopsdays.org/events/2019-cape-town" class = "footer-content">Cape Town</a><br /><a href = "https://www.devopsdays.org/events/2019-stockholm" class = "footer-content">Stockholm</a><br /><a href = "https://www.devopsdays.org/events/2019-istanbul" class = "footer-content">Istanbul</a><br /><a href = "https://www.devopsdays.org/events/2019-buffalo" class = "footer-content">Buffalo</a><br /><a href = "https://www.devopsdays.org/events/2019-london" class = "footer-content">London</a><br /><a href = "https://www.devopsdays.org/events/2019-raleigh" class = "footer-content">Raleigh</a><br /><a href = "https://www.devopsdays.org/events/2019-detroit" class = "footer-content">Detroit</a><br /><a href = "https://www.devopsdays.org/events/2019-berlin" class = "footer-content">Berlin</a><br />
+      <br />Propose a talk at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="https://www.devopsdays.org/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+
+<script src=https://www.devopsdays.org/js/devopsdays-min.js></script><script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'devopsdaysdsm'}, "facebook", "linkedin"],
+      text: 'devopsdays Des Moines - 2018',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>

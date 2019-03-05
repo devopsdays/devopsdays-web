@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.53" />
+<meta property="og:title" content="Iterate Faster With Immutable Infrastructure" /><meta property="og:description" content="What are the advantages of the Immutable Infrastructure concept compared to the proven system maintenance with configuration management tools such as Ansilbe, Chef or Puppet? After this presentation you will know why Immutable Infrastructure leads to a significantly increased release speed, faster feedback and more stability in your infrastructure. You will also have noticed that your previous investments in automation will continue to pay off.
+A particular focus will be on the benefits of Immutable Infrastructure in emergencies such as system failures, faulty deployments or hacking attacks." /><meta property="og:type" content="talk" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2018-zurich/program/basil-brunner/" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="name" content="Iterate faster with Immutable Infrastructure"><meta itemprop="description" content="What are the advantages of the Immutable Infrastructure concept compared to the proven system maintenance with configuration management tools such as Ansilbe, Chef or Puppet? After this presentation you will know why Immutable Infrastructure leads to a significantly increased release speed, faster feedback and more stability in your infrastructure. You will also have noticed that your previous investments in automation will continue to pay off.
+A particular focus will be on the benefits of Immutable Infrastructure in emergencies such as system failures, faulty deployments or hacking attacks."><meta itemprop="image" content="https://www.devopsdays.org/events/2018-zurich/sharing.jpg" /><meta itemprop="wordCount" content="148"><meta name="twitter:title" content="Iterate faster with Immutable Infrastructure"/><meta name="twitter:description" content="What are the advantages of the Immutable Infrastructure concept compared to the proven system maintenance with configuration management tools such as Ansilbe, Chef or Puppet? After this presentation you will know why Immutable Infrastructure leads to a significantly increased release speed, faster feedback and more stability in your infrastructure. You will also have noticed that your previous investments in automation will continue to pay off.
+A particular focus will be on the benefits of Immutable Infrastructure in emergencies such as system failures, faulty deployments or hacking attacks." /><meta name="twitter:site" content="@devopsdays"><meta name="twitter:creator" content="@DevOpsZH" /><meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<title>Iterate faster with Immutable Infrastructure - devopsdays Zürich 2018
+</title>
+<link rel="canonical" href="https://www.devopsdays.org/events/2018-zurich/program/basil-brunner/">
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="https://www.devopsdays.org/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://www.devopsdays.org/css/googlemaps.css" rel="stylesheet">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.devopsdays.org/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.devopsdays.org/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.devopsdays.org/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.devopsdays.org/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.devopsdays.org/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.devopsdays.org/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.devopsdays.org/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.devopsdays.org/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.devopsdays.org/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.devopsdays.org/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.devopsdays.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.devopsdays.org/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.devopsdays.org/favicon-16x16.png">
+<link rel="manifest" href="https://www.devopsdays.org/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.devopsdays.org/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="https://www.devopsdays.org/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="https://www.devopsdays.org/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+</head>
+<body lang="">
+<nav class="navbar navbar-toggleable-md navbar-light">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">
+  <img src="https://www.devopsdays.org/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-toggleable-md navbar-light">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar2">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <a href="https://www.devopsdays.org/events/2018-zurich" class="nav-link">Zürich</a>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/registration">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/sponsor">sponsor</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.meetup.com/DevOps-Meetup-Zurich/events/249832353/">Ladies Night</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2018-zurich/conduct">conduct</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">Iterate faster with Immutable Infrastructure</h2><br /><div class="row">
+            <div class="col-md-12 vimeo-video">
+              <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/272531337">
+              </iframe>
+              </div>
+            </div>
+          </div><span class="talk-page content-text">
+        <p>What are the advantages of the Immutable Infrastructure concept compared to the proven
+system maintenance with configuration management tools such as Ansilbe, Chef or Puppet?
+After this presentation you will know why Immutable Infrastructure leads to a
+significantly increased release speed, faster feedback and more stability in your
+infrastructure. You will also have noticed that your previous investments in automation
+will continue to pay off.</p>
+
+<p>A particular focus will be on the benefits of Immutable Infrastructure in emergencies such
+as system failures, faulty deployments or hacking attacks. Last but not least, it also
+shows how Immutable Infrastructure can be used profitably during the development phase.</p>
+
+<p>The presented practical example will demonstrate how a pipeline for Immutable
+Infrastructure based on open source tools can be implemented. It also shows how concepts
+known from software development, such as unit &amp; integration testing, can be applied to the
+management of infrastructure.</p>
+
+      </span><div class = "row">
+          <div class = "col" style="max-width:100%">
+            <h2 class="talk-page">Speakerdeck</h2>
+              
+<a class="embedly-card" data-card-controls="0" href="https://speakerdeck.com/dodzh/iterate-faster-with-immutable-infrastructure-basil-brunner">Iterate faster with Immutable Infrastructure</a>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+          </div>
+        </div></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speaker</h2><img src = "https://www.devopsdays.org/events/2018-zurich/speakers/basil-brunner.jpg" class="img-fluid"  alt="basil-brunner"/><br /><br /><h4 class="talk-page"><a href = "https://www.devopsdays.org/events/2018-zurich/speakers/basil-brunner">
+            Basil Brunner
+          </a></h4><a href = "https://twitter.com/myniva"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text"><p>Basil Brunner is a Software &amp; IT Operations Engineer. He is involved in the development
+and operation of SaaS applications. He attaches particular importance to leveraging the
+benefits of cloud </p><a href = "https://www.devopsdays.org/events/2018-zurich/speakers/basil-brunner/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Evening Event Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.pontine.com"><img src = "/img/sponsors/pontine.png" alt = "Pontine" title = "Pontine" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://vshn.ch/"><img src = "/img/sponsors/vshn.png" alt = "VSHN AG" title = "VSHN AG" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.nine.ch"><img src = "/img/sponsors/nine.png" alt = "Nine" title = "Nine" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://ch.atosconsulting.com/#!/competencies?section=methodologies"><img src = "/img/sponsors/atos.png" alt = "Atos" title = "Atos" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://job.swisscom.ch/ict/de?showclose=1"><img src = "/img/sponsors/swisscom-before-20190117.png" alt = "Swisscom AG" title = "Swisscom AG" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.atlassian.com"><img src = "/img/sponsors/atlassian.png" alt = "atlassian" title = "atlassian" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.zuehlke.com/ch/en/"><img src = "/img/sponsors/zhlke.png" alt = "Zühlke" title = "Zühlke" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.swissre.com"><img src = "/img/sponsors/swiss-re.png" alt = "Swiss Re" title = "Swiss Re" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.netapp.ch"><img src = "/img/sponsors/netapp-schweiz.png" alt = "NetApp Schweiz" title = "NetApp Schweiz" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.red-gate.com/solutions/database-devops/"><img src = "/img/sponsors/redgate.png" alt = "Redgate" title = "Redgate" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Silver Sponsors</h4></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.puzzle.ch"><img src = "/img/sponsors/puzzle-itc.png" alt = "Puzzle ITC" title = "Puzzle ITC" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.mobiliar.ch/"><img src = "/img/sponsors/mobiliar.png" alt = "mobiliar" title = "mobiliar" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Bronze Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-zurich/sponsor" class="sponsor-cta"><i>Become a Bronze Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.dectris.com"><img src = "/img/sponsors/dectris.png" alt = "Dectris" title = "Dectris" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.exoscale.com/?utm_source=devopsdayszurich2018URLutm_medium=emailURLutm_campaign=event"><img src = "/img/sponsors/exoscale.png" alt = "Exoscale" title = "Exoscale" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://cloud.oracle.com/"><img src = "/img/sponsors/oracle.png" alt = "oracle" title = "oracle" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Community Sponsors</h4><a href = "https://www.devopsdays.org/events/2018-zurich/sponsor" class="sponsor-cta"><i>Become a Community Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://powercoders.org"><img src = "/img/sponsors/powercoders.png" alt = "Powercoders" title = "Powercoders" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://jazoon.com"><img src = "/img/sponsors/jazoon.png" alt = "Jazoon" title = "Jazoon" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://geekgirlscarrots.org"><img src = "/img/sponsors/geek-girls-carrots.png" alt = "Geek Girls Carrots" title = "Geek Girls Carrots" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><p class="footer-content">Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</p><a href = "https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/"><h1 class = "footer-heading">Kansas City 2017 in review</h1></a><h2 class="footer-heading">by Aaron Blythe - 10 September, 2018</h2><p class="footer-content">On Sept 21st and 22nd, 2017, 350+ software practioners took over the Uptown Theater in Kansas City Missouri to discuss DevOps at <a href="https://devopsdays.org/events/2017-kansascity">DevOpsDays KC</a></p><a href="https://www.devopsdays.org/blog/index.xml">Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "https://www.devopsdays.org/events/2019-beijing" class = "footer-content">Beijing</a><br /><a href = "https://www.devopsdays.org/events/2019-bogota" class = "footer-content">Bogotá</a><br /><a href = "https://www.devopsdays.org/events/2019-victoria" class = "footer-content">Victoria</a><br /><a href = "https://www.devopsdays.org/events/2019-boise" class = "footer-content">Boise</a><br /><a href = "https://www.devopsdays.org/events/2019-portugal" class = "footer-content">Portugal</a><br /><a href = "https://www.devopsdays.org/events/2019-aracaju" class = "footer-content">Aracaju</a><br /><a href = "https://www.devopsdays.org/events/2019-amsterdam" class = "footer-content">Amsterdam</a><br /><a href = "https://www.devopsdays.org/events/2019-indianapolis" class = "footer-content">Indianapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-minneapolis" class = "footer-content">Minneapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-chicago" class = "footer-content">Chicago</a><br /><a href = "https://www.devopsdays.org/events/2019-cape-town" class = "footer-content">Cape Town</a><br /><a href = "https://www.devopsdays.org/events/2019-stockholm" class = "footer-content">Stockholm</a><br /><a href = "https://www.devopsdays.org/events/2019-istanbul" class = "footer-content">Istanbul</a><br /><a href = "https://www.devopsdays.org/events/2019-buffalo" class = "footer-content">Buffalo</a><br /><a href = "https://www.devopsdays.org/events/2019-london" class = "footer-content">London</a><br /><a href = "https://www.devopsdays.org/events/2019-raleigh" class = "footer-content">Raleigh</a><br /><a href = "https://www.devopsdays.org/events/2019-detroit" class = "footer-content">Detroit</a><br /><a href = "https://www.devopsdays.org/events/2019-berlin" class = "footer-content">Berlin</a><br />
+      <br />Propose a talk at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="https://www.devopsdays.org/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+
+<script src=https://www.devopsdays.org/js/devopsdays-min.js></script><script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'DevOpsZH'}, "facebook", "linkedin"],
+      text: 'devopsdays Zürich - 2018',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>

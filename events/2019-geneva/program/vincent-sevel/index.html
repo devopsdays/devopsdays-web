@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html itemscope lang="en-us">
+<head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta name="generator" content="Hugo 0.53" />
+<meta property="og:title" content="Déployer Vault Et Consul Sur Kubernetes" /><meta property="og:description" content="Les enjeux de Kubernetes dépassent largement le cadre feutré du déploiement des applications stateless 12 factors. A travers sa versatilité, Kubernetes s’affirme de manière croissante comme la plateforme universelle de déploiement.
+Kubernetes peut donc être utilisé pour déployer vos composants applicatifs, mais également les technologies d’infrastructure qui les soutiennent, y compris quand ces technologies ont été conçues avant l’émergence de Kubernetes.
+L’exercice d’intégration d’une technologie legacy dans Kubernetes est intéressant pour 2 raisons :" /><meta property="og:type" content="talk" />
+<meta property="og:url" content="https://www.devopsdays.org/events/2019-geneva/program/vincent-sevel/" /><meta property="og:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<meta property="fb:app_id" content="1904065206497317" /><meta itemprop="name" content="Déployer Vault et Consul sur Kubernetes"><meta itemprop="description" content="Les enjeux de Kubernetes dépassent largement le cadre feutré du déploiement des applications stateless 12 factors. A travers sa versatilité, Kubernetes s’affirme de manière croissante comme la plateforme universelle de déploiement.
+Kubernetes peut donc être utilisé pour déployer vos composants applicatifs, mais également les technologies d’infrastructure qui les soutiennent, y compris quand ces technologies ont été conçues avant l’émergence de Kubernetes.
+L’exercice d’intégration d’une technologie legacy dans Kubernetes est intéressant pour 2 raisons :"><meta itemprop="image" content="https://www.devopsdays.org/events/2019-geneva/sharing.jpg" /><meta itemprop="wordCount" content="260"><meta name="twitter:title" content="Déployer Vault et Consul sur Kubernetes"/><meta name="twitter:description" content="Les enjeux de Kubernetes dépassent largement le cadre feutré du déploiement des applications stateless 12 factors. A travers sa versatilité, Kubernetes s’affirme de manière croissante comme la plateforme universelle de déploiement.
+Kubernetes peut donc être utilisé pour déployer vos composants applicatifs, mais également les technologies d’infrastructure qui les soutiennent, y compris quand ces technologies ont été conçues avant l’émergence de Kubernetes.
+L’exercice d’intégration d’une technologie legacy dans Kubernetes est intéressant pour 2 raisons :" /><meta name="twitter:site" content="@devopsdays"><meta name="twitter:creator" content="@DevopsdaysGe" /><meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.devopsdays.org/img/sharing.jpg" />
+<title>Déployer Vault et Consul sur Kubernetes - devopsdays Geneva 2019
+</title>
+<link rel="canonical" href="https://www.devopsdays.org/events/2019-geneva/program/vincent-sevel/">
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-9713393-1', 'auto');
+ga('send', 'pageview');
+
+    
+      ga('create', 'UA-85366825-4', 'auto', 'clientTracker');
+      ga('clientTracker.send', 'pageview');
+    
+  
+
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<link href="https://www.devopsdays.org/css/site.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://www.devopsdays.org/css/googlemaps.css" rel="stylesheet">
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.devopsdays.org/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.devopsdays.org/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.devopsdays.org/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.devopsdays.org/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.devopsdays.org/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.devopsdays.org/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.devopsdays.org/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.devopsdays.org/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.devopsdays.org/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://www.devopsdays.org/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.devopsdays.org/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.devopsdays.org/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.devopsdays.org/favicon-16x16.png">
+<link rel="manifest" href="https://www.devopsdays.org/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://www.devopsdays.org/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+  
+    
+      <link href="https://www.devopsdays.org/events/index.xml" rel="alternate" type="application/rss+xml" title="DevOpsDays" />
+      <link href="https://www.devopsdays.org/events/index.xml" rel="feed" type="application/rss+xml" title="DevOpsDays" />
+    
+  
+
+</head>
+<body lang="">
+<nav class="navbar navbar-toggleable-md navbar-light">
+
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="/">
+  <img src="https://www.devopsdays.org/img/devopsdays-brain.png" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  DevOpsDays
+</a>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto"><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/events">events</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/blog">blog</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/sponsor">sponsor</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/speaking">speaking</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/organizing">organizing</a></li><li class="nav-item global-navigation"><a class = "nav-link" href="https://www.devopsdays.org/about">about</a></li></ul>
+  </div>
+</nav>
+<nav class="navbar event-navigation navbar-toggleable-md navbar-light">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar2">
+      <span class="navbar-toggler-icon"></span>
+  </button>
+  <a href="https://www.devopsdays.org/events/2019-geneva" class="nav-link">Geneva</a>
+  <div class="navbar-collapse collapse" id="navbar2">
+      <ul class="navbar-nav"><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/location">location</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/registration">registration</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/newsletter">newsletter</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/program">program</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/speakers">speakers</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/contact">contact</a>
+                </li><li class="nav-item active">
+                  <a class="nav-link" href="https://www.devopsdays.org/events/2019-geneva/conduct">conduct</a>
+                </li></ul>
+  </div>
+</nav>
+
+  <div class="container-fluid">
+        <div class="row">
+              <div class="col-md-12"><div class = "row">
+    <div class = "col-md-5 offset-md-1">
+    <h2 class="talk-page">Déployer Vault et Consul sur Kubernetes</h2><br /><span class="talk-page content-text">
+        <p>Les enjeux de Kubernetes dépassent largement le cadre feutré du déploiement des applications stateless 12 factors. A travers sa versatilité, Kubernetes s’affirme de manière croissante comme la plateforme universelle de déploiement.</p>
+
+<p>Kubernetes peut donc être utilisé pour déployer vos composants applicatifs, mais également les technologies d’infrastructure qui les soutiennent, y compris quand ces technologies ont été conçues avant l’émergence de Kubernetes.</p>
+
+<p>L’exercice d’intégration d’une technologie legacy dans Kubernetes est intéressant pour 2 raisons :</p>
+
+<ul>
+<li>La première est purement pédagogique : en se confrontant à l’intégration d’une technologie on est forcé de se poser les bonnes questions, d&rsquo;appréhender les concepts et la philosophie du produit, de comprendre les options à disposition et leurs limites. On ressort de l’exercice avec quelques bleus, mais surtout une connaissance accrue de la plateforme qui sera utile pour les intégrations futures d’applications legacy.</li>
+<li>La deuxième est pragmatique et utilitaire : l’intégration d’une technologie tierce dans Kubernetes offre une opportunité de réduire l’empreinte des intégrations sur mesure dans le système d’information et amène en même temps tous les avantages de Kubernetes en terme d’administrabilité : infrastructure as code, &lsquo;desired state&rsquo;, cycle de vie, surveillance, …</li>
+</ul>
+
+<p>Dans cette présentation nous prendrons l’exemple spécifique des technologies HashiCorp Vault &amp; Consul et montrerons comment elles peuvent s’intégrer dans une environnement Kubernetes. Nous évaluerons plusieurs aspects comme le stateful, l’exposition, la haute disponibilité, la sécurisation et la surveillance.
+A la fin de l&rsquo;exercice, nous aurons une solution prod-ready, mais surtout nous aurons acquis une expérience et une connaissance qui nous sera utile pour continuer sur le chemin de l’adoption de Kubernetes.</p>
+
+      </span></div>
+  <div class = "col-md-3 offset-md-1"><h2 class="talk-page">Speaker</h2><img src = "https://www.devopsdays.org/events/2019-geneva/speakers/vincent-sevel.jpg" class="img-fluid"  alt="vincent-sevel"/><br /><br /><h4 class="talk-page"><a href = "https://www.devopsdays.org/events/2019-geneva/speakers/vincent-sevel">
+            Vincent Sevel
+          </a></h4><a href = "https://twitter.com/vincent_sevel"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i>&nbsp;</a><br />
+          <span class="talk-page content-text">Vincent a 20+ années d’expérience dans le secteur IT, avec une prédominance pour le développement, l’architecture technique et l’intégration.
+Ses diverses missions l’ont conduit de la France à la <a href = "https://www.devopsdays.org/events/2019-geneva/speakers/vincent-sevel/">...</a></span>
+</div>
+</div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Gold Sponsors</h4><a href = "https://www.devopsdays.org/events/2019-geneva/sponsor" class="sponsor-cta"><i>Become a Gold Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.hidora.com"><img src = "/img/sponsors/hidora.png" alt = "hidora" title = "hidora" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.adexcel-consulting.com/"><img src = "/img/sponsors/adexcel.png" alt = "adexcel" title = "adexcel" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.tuleap.org/"><img src = "/img/sponsors/tuleap.png" alt = "Tuleap" title = "Tuleap" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://xebialabs.com/"><img src = "/img/sponsors/xebialabs.png" alt = "XebiaLabs" title = "XebiaLabs" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.nutanix.com"><img src = "/img/sponsors/nutanix.png" alt = "nutanix" title = "nutanix" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Silver Sponsors</h4><a href = "https://www.devopsdays.org/events/2019-geneva/sponsor" class="sponsor-cta"><i>Become a Silver Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.serial.ch/"><img src = "/img/sponsors/serial.png" alt = "serial" title = "serial" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://www.oracle.com/"><img src = "/img/sponsors/oracle.png" alt = "oracle" title = "oracle" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.smartwavesa.com"><img src = "/img/sponsors/smartwave.png" alt = "Smartwave" title = "Smartwave" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.dbi-services.com"><img src = "/img/sponsors/dbi-services.png" alt = "dbi services" title = "dbi services" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "http://cross-systems.com/"><img src = "/img/sponsors/cross-systems.png" alt = "Cross Systems" title = "Cross Systems" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://globaz.ch"><img src = "/img/sponsors/globaz.png" alt = "globaz" title = "globaz" class="img-fluid"></a>
+              </div></div><div class="row cta-row">
+          
+          <div class="col-md-12"><h4 class="sponsor-cta">Bronze Sponsors</h4><a href = "https://www.devopsdays.org/events/2019-geneva/sponsor" class="sponsor-cta"><i>Become a Bronze Sponsor!</i>
+                  </a></div>
+          </div><div class="row sponsor-row"><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.exoscale.com"><img src = "/img/sponsors/exoscale.png" alt = "Exoscale" title = "Exoscale" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://www.trivadis.com/"><img src = "/img/sponsors/trivadis.png" alt = "trivadis" title = "trivadis" class="img-fluid"></a>
+              </div><div class = "col-lg-1 col-md-2 col-4">
+                <a href = "https://techfirm.ch"><img src = "/img/sponsors/techfirm.png" alt = "TechFirm" title = "TechFirm" class="img-fluid"></a>
+              </div></div><br />
+</div></div>
+      </div>
+<nav class="navbar bottom navbar-light footer-nav-row" style="background-color: #bfbfc1;">
+  <div class = "row">
+    <div class = "col-md-12 footer-nav-background">
+      <div class = "row">
+            <div class = "col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">@DEVOPSDAYS</h3>
+      <div>
+          <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/devopsdays/lists/devopsdays" data-chrome="noheader" height="440"></a>
+
+          <script>
+              ! function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0],
+                      p = /^http:/.test(d.location) ? 'http' : 'https';
+                  if (!d.getElementById(id)) {
+                      js = d.createElement(s);
+                      js.id = id;
+                      js.src = p + "://platform.twitter.com/widgets.js";
+                      fjs.parentNode.insertBefore(js, fjs);
+                  }
+              }(document, "script", "twitter-wjs");
+          </script>
+      </div>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col footer-content">
+    <h3 class="footer-nav">BLOG</h3><a href = "https://www.devopsdays.org/blog/2018/10/05/devopsdays-101-pt-br/"><h1 class = "footer-heading">devopsdays 101 (pt-br)</h1></a><h2 class="footer-heading">by Marco Antonio Martins Junior (Somatório) and Rafael Gomes (Gomex) - 05 October, 2018</h2><p class="footer-content">Então você está pensando em organizar um devopsdays na sua cidade, hein? Nessa hora surgem várias dúvidas, as quais iremos responder da melhor maneira possível neste momento.
+devopsdays é um evento internacional, não é meio grande demais para a minha cidadezinha? Definitivamente não, quanto mais diversos forem os locais onde o evento ocorre, mais diversa a discussão em torno de DevOps será, e isso significa que o ponto de vista das pessoas da sua comunidade local ainda não foram colocados em pauta e é a cultura DevOps que está perdendo com isso.</p><a href = "https://www.devopsdays.org/blog/2018/09/10/kansas-city-2017-in-review/"><h1 class = "footer-heading">Kansas City 2017 in review</h1></a><h2 class="footer-heading">by Aaron Blythe - 10 September, 2018</h2><p class="footer-content">On Sept 21st and 22nd, 2017, 350+ software practioners took over the Uptown Theater in Kansas City Missouri to discuss DevOps at <a href="https://devopsdays.org/events/2017-kansascity">DevOpsDays KC</a></p><a href="https://www.devopsdays.org/blog/index.xml">Feed</a>
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+      <h3 class="footer-nav">CFP OPEN</h3><a href = "https://www.devopsdays.org/events/2019-beijing" class = "footer-content">Beijing</a><br /><a href = "https://www.devopsdays.org/events/2019-bogota" class = "footer-content">Bogotá</a><br /><a href = "https://www.devopsdays.org/events/2019-victoria" class = "footer-content">Victoria</a><br /><a href = "https://www.devopsdays.org/events/2019-boise" class = "footer-content">Boise</a><br /><a href = "https://www.devopsdays.org/events/2019-portugal" class = "footer-content">Portugal</a><br /><a href = "https://www.devopsdays.org/events/2019-aracaju" class = "footer-content">Aracaju</a><br /><a href = "https://www.devopsdays.org/events/2019-amsterdam" class = "footer-content">Amsterdam</a><br /><a href = "https://www.devopsdays.org/events/2019-indianapolis" class = "footer-content">Indianapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-minneapolis" class = "footer-content">Minneapolis</a><br /><a href = "https://www.devopsdays.org/events/2019-chicago" class = "footer-content">Chicago</a><br /><a href = "https://www.devopsdays.org/events/2019-cape-town" class = "footer-content">Cape Town</a><br /><a href = "https://www.devopsdays.org/events/2019-stockholm" class = "footer-content">Stockholm</a><br /><a href = "https://www.devopsdays.org/events/2019-istanbul" class = "footer-content">Istanbul</a><br /><a href = "https://www.devopsdays.org/events/2019-buffalo" class = "footer-content">Buffalo</a><br /><a href = "https://www.devopsdays.org/events/2019-london" class = "footer-content">London</a><br /><a href = "https://www.devopsdays.org/events/2019-raleigh" class = "footer-content">Raleigh</a><br /><a href = "https://www.devopsdays.org/events/2019-detroit" class = "footer-content">Detroit</a><br /><a href = "https://www.devopsdays.org/events/2019-berlin" class = "footer-content">Berlin</a><br />
+      <br />Propose a talk at an event near you!<br />
+  </div>
+  <div class="col-md-6 col-lg-3 footer-nav-col">
+    <h3 class="footer-nav">About</h3>
+    devopsdays is a worldwide community conference series for anyone interested in IT improvement.<br /><br />
+    <a href="/about/" class = "footer-content">About devopsdays</a><br />
+    <a href="/privacy/" class = "footer-content">Privacy Policy</a><br />
+    <a href="/conduct/" class = "footer-content">Code of Conduct</a>
+    <br />
+    <br />
+    <a href="https://www.netlify.com">
+      <img src="https://www.devopsdays.org/img/netlify-light.png" alt="Deploys by Netlify">
+    </a>
+</div>
+    </div>
+  </div>
+
+  </div>
+
+</nav>
+
+<script src=https://www.devopsdays.org/js/devopsdays-min.js></script><script>
+
+
+
+$(document).ready(function () {
+  
+
+  $("#share").jsSocials({
+      shares: ["email", {share: "twitter", via: 'DevopsdaysGe'}, "facebook", "linkedin"],
+      text: 'devopsdays Geneva - 2019',
+      showLabel: false,
+      showCount: false
+  });
+});
+
+</script>
+</body>
+</html>
