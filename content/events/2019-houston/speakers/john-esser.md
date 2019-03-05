@@ -1,7 +1,6 @@
 +++
 Title = "John Esser"
 Twitter = "johndesser"
-image = ""
 type = "speaker"
 linktitle = "john-esser"
 
