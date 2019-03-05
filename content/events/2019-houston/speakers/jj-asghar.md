@@ -1,7 +1,7 @@
 +++
 Title = "JJ Asghar"
 Twitter = "jjasghar"
-image = "blank.png"
+image = ""
 type = "speaker"
 linktitle = "jj-asghar"
 LinkedIn = "https://www.linkedin.com/in/jjasghar/"
