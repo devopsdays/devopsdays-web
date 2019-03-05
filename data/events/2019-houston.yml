@@ -179,7 +179,7 @@ program:
     start_time: "09:45"
     end_time: "10:00"
     background_color: "#D0D0D0"
-  - title: ""
+  - title: "h-waldo-grunenwald"
     type: talk
     date: 2019-04-16
     start_time: "10:00"
