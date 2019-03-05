@@ -10,9 +10,9 @@
     <div class="col-lg-3 col-md-6">
 
       <a href = "{{ .Permalink | absURL }}">
-        {{- if isset .Params "image" -}}
-          {{- if ne .Params.image "" -}}
-            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL}}" class="speakers-page img-fluid" alt="{{ .Title }}"/><br />
+        {{- with .Params.image -}}
+          {{- if ne . "" -}}
+            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .) | absURL}}" class="speakers-page img-fluid" alt="{{ $.Title }}"/><br />
           {{- end -}}
           {{- else -}}
             <img src = "{{"img/speaker-default.jpg" | absURL }}" class="speakers-page img-fluid"  alt="{{ .Title }}"/><br />

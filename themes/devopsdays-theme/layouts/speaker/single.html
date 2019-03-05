@@ -32,9 +32,9 @@
           </div>
   </div>
   <div class = "col-md-3 offset-md-1">
-    {{- if isset .Params "image" -}}
-      {{- if ne .Params.image "" -}}
-        <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) |absURL }}" class="img-fluid" alt="{{ .Title }}"/><br />
+    {{- with .Params.image -}}
+      {{- if ne . "" -}}
+        <img src = "{{ (printf "events/%s/speakers/%s" $e.name .) |absURL }}" class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
       {{- else -}}
         <img src = {{ "img/speaker-default.jpg" | absURL }} class="img-fluid"  alt="{{ .Title }}"/><br />

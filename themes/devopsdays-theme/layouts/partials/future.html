@@ -1,6 +1,6 @@
 {{- range sort $.Site.Data.events "startdate" -}}
   {{- if .startdate -}}
-    {{- if ge (time .enddate) (now.AddDate 0 0 -1) -}}
+    {{- if ge (time .enddate) now -}}
       {{- if ne ($.Scratch.Get "year") (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year" (dateFormat "2006" .startdate) -}}
         {{- $.Scratch.Set "year-displayed" "false" -}}
