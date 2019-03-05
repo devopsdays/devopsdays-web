@@ -67,7 +67,7 @@ team_members: # Name is the only required field for team members.
   - name: "Claire Moss"
     image: "claire-moss.jpg"
     twitter: "aclairefication"
-    
+
 
 organizer_email: "organizers-atlanta-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal email address here
@@ -102,6 +102,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: cisco-webex
+    level: silver
   - id: arresteddevops
     level: community
 

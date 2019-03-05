@@ -13,7 +13,7 @@ Additional à la carte sponsorships are available:
 </ul>
 
 <ul>
-<li>Lanyard - ($5000) - 1 slot available - your logo on the lanyards
+<li><strike>Lanyard - ($5000)</strike> - <b>SOLD OUT</b></li>
 </ul>
 
 <ul>
