@@ -1,5 +1,17 @@
 version: 2
 jobs:
+  production:
+    docker:
+      - image: cibuilds/hugo:0.53
+    steps:
+      - checkout
+      - run:
+        name: "Build site to GH Pages"
+        command: ./deploy.sh
+    branches:
+      only:
+        - master
+
   build:
     docker:
       - image: cibuilds/hugo:0.53
