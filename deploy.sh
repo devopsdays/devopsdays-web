@@ -5,7 +5,7 @@ git init
 git config user.name "Matt Stratton"
 git config user.email "matt.stratton@gmail.com"
 
-echo "www.devopsdays.com" > CNAME # domain your site will live at
+echo "www.devopsdays.org" > CNAME # domain your site will live at
 git add .
 git commit -m "Deploy from CircleCI" # this will always be the only commit in your gh-pages branch
 
