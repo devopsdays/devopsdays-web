@@ -74,9 +74,9 @@ workflows:
               ignore:
                 - master
                 - gh-pages
-      - production:
-          filters:
-            branches:
-              only:
-                - master
-                - gh-pages
+      # - production:
+      #     filters:
+      #       branches:
+      #         only:
+      #           - master
+      #           - gh-pages
