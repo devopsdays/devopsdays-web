@@ -63,7 +63,7 @@ workflows:
   version: 2
   build-test-deploy:
     jobs:
-      - build
+      - build:
           filters:
             branches:
               ignore:
