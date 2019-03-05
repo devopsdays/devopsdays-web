@@ -17,12 +17,6 @@ gulp.task('responsive-images-logos', function() {
             '**/*logo-square.jpg': [{
                 width: 250,
                 height: 250,
-            }, {
-                width: 500,
-                height: 500,
-                rename: {
-                    suffix: '@2x'
-                }
             }],
         }, {
             // global configuration
@@ -43,12 +37,6 @@ gulp.task('responsive-organizer-images', function() {
       '**/*.jpg': [{
         width: 300,
         height: 300,
-      }, {
-        width: 600,
-        height: 600,
-        rename: {
-          suffix: '@2x'
-        }
       }],
     }, {
       // global configuration
@@ -69,22 +57,10 @@ gulp.task('responsive-speaker-images', function() {
             '**/*.png': [{
                 width: 300,
                 height: 300
-            }, {
-                width: 600,
-                height: 600,
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '**/*.jpg': [{
                 width: 300,
                 height: 300
-            }, {
-                width: 600,
-                height: 600,
-                rename: {
-                    suffix: '@2x'
-                }
             }]
         }, {
             // global configuration
@@ -104,19 +80,9 @@ gulp.task('responsive-sponsor-images', function() {
         .pipe(responsive({
             '*.png': [{
                 width: 200
-            }, {
-                width: 400,
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '*.jpg': [{
                 width: 200
-            }, {
-                width: 400,
-                rename: {
-                    suffix: '@2x'
-                }
             }]
         }, {
             // global configuration
@@ -139,24 +105,12 @@ gulp.task('responsive-images-remaining', function() {
             // produce multiple images from one source
             '**/*.png': [{
                 width: '100%'
-            }, {
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '**/*.jpeg': [{
                 width: '100%'
-            }, {
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '**/*.jpg': [{
                 width: '100%'
-            }, {
-                rename: {
-                    suffix: '@2x'
-                }
             }]
         }, {
             // global configuration

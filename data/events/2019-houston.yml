@@ -179,7 +179,7 @@ program:
     start_time: "09:45"
     end_time: "10:00"
     background_color: "#D0D0D0"
-  - title: ""
+  - title: "h-waldo-grunenwald"
     type: talk
     date: 2019-04-16
     start_time: "10:00"
@@ -189,7 +189,7 @@ program:
     date: 2019-04-16
     start_time: "10:30"
     end_time: "10:45"
-  - title: ""
+  - title: "aaron-aldrich"
     type: talk
     date: 2019-04-16
     start_time: "10:45"
@@ -198,11 +198,11 @@ program:
     type: talk
     date: 2019-04-16
     start_time: "11:15"
-    end_time: "12:00"
+    end_time: "11:45"
   - title: "Lunch"
     type: "custom"
     date: 2019-04-16
-    start_time: "12:00"
+    start_time: "11:45"
     end_time: "13:00"
   - title: "erik-peterson"
     type: talk
@@ -251,12 +251,55 @@ program:
     start_time: "09:45"
     end_time: "10:00"
     background_color: "#D0D0D0"
+  - title: ""
+    type: talk
+    date: 2019-04-17
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Coffee Break, Visit Sponsor Booths"
+    type: custom
+    date: 2019-04-17
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: ""
+    type: talk
+    date: 2019-04-17
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: ""
+    type: talk
+    date: 2019-04-17
+    start_time: "11:15"
+    end_time: "11:45"
+  - title: "Lunch"
+    type: "custom"
+    date: 2019-04-17
+    start_time: "11:45"
+    end_time: "13:00"
+  - title: ""
+    type: talk
+    date: 2019-04-17
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Break, Visit Sponsor Booths"
+    type: "custom"
+    date: 2019-04-17
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "john-esser"
+    type: talk
+    date: 2019-04-17
+    start_time: "14:15"
+    end_time: "14:45"
   - title: "<UNDER CONSTRUCTION>"
     type: custom
     date: 2019-04-17
-    start_time: "10:00"
+    start_time: "14:45"
     end_time: "18:00"
 
 ignites:
   - title: "margaret-valtierra"
     date: "2019-04-16"
+  - title: "jj-asghar"
+    date: "2019-04-16"
+    

@@ -96,6 +96,8 @@ sponsors:
     level: community
   - id: yousee
     level: community
+  - id: atlassian
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -214,10 +216,15 @@ program:
     date: 2019-04-03
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Mingle & Dinner"
+  - title: "Mingle & Drinks"
     type: custom
     date: 2019-04-03
     start_time: "17:00"
+    end_time: "17:45"
+  - title: "Mingling Dinner"
+    type: custom
+    date: 2019-04-03
+    start_time: "17:45"
     end_time: "21:00"
   - title: "Breakfast"
     type: custom
