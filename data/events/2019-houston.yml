@@ -241,8 +241,8 @@ program:
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2019-04-16
-    start_time: "15:00"
-    end_time: "15:10"
+    start_time: "15:30"
+    end_time: "15:40"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2019-04-16
@@ -268,6 +268,12 @@ program:
     date: 2019-04-16
     start_time: "17:00"
     end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-04-16
+    start_time: "17:30"
+    end_time: "17:45"
+    background_color: "#D0D0D0"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-04-17
@@ -347,41 +353,46 @@ program:
     date: 2019-04-17
     start_time: "14:30"
     end_time: "15:00"
+  - title: "lee-barnes"
+    type: talk
+    date: 2019-04-17
+    start_time: "15:00"
+    end_time: "15:30"
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2019-04-17
-    start_time: "15:00"
-    end_time: "15:10"
+    start_time: "15:30"
+    end_time: "15:40"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2019-04-17
-    start_time: "15:10"
-    end_time: "15:40"
+    start_time: "15:40"
+    end_time: "16:10"
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2019-04-17
-    start_time: "15:40"
-    end_time: "15:50"
+    start_time: "16:10"
+    end_time: "16:20"
   - title: "Open Space (Attendee Led Breakout Session) #2"
     type: open-space
     date: 2019-04-17
-    start_time: "15:50"
-    end_time: "16:20"
+    start_time: "16:20"
+    end_time: "16:50"
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2019-04-17
-    start_time: "16:20"
-    end_time: "16:30"
+    start_time: "16:50"
+    end_time: "17:00"
   - title: "Open Space (Attendee Led Breakout Session) #3"
     type: open-space
     date: 2019-04-17
-    start_time: "16:30"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:30"
   - title: "Closing"
     type: custom
     date: 2019-04-17
-    start_time: "17:00"
-    end_time: "17:15"
+    start_time: "17:30"
+    end_time: "17:45"
     background_color: "#D0D0D0"
 
 ignites:
