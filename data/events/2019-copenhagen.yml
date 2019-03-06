@@ -281,6 +281,11 @@ program:
     date: 2019-04-04
     start_time: "13:40"
     end_time: "14:10"
+  - title: "morten-christensen"
+    type: workshop
+    date: 2019-04-04
+    start_time: "13:40"
+    end_time: "14:10"
   - title: "Break"
     type: custom
     date: 2019-04-04
@@ -311,4 +316,6 @@ ignites:
   - title: "mike-long"
     date: "2019-04-03"
   - title: "philipp-krenn"
+    date: "2019-04-03"
+  - title: "kasper-nissen"
     date: "2019-04-03"
