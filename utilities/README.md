@@ -122,7 +122,7 @@ Use [add_program.sh](add_program.sh) to add the program for your event. The prog
 
 
 ### Speaker Images
-The headshots for your speaker images can be either .png or .jpg. They must be square, and 300px square, 600px square, or 900px square. If they are not square, they will be cropped at build time to the production site (note; image processing does not occur when running Hugo locally or in a deploy preview)
+The headshots for your speaker images can be either .png or .jpg. They must be square, preferably 600px square. If they are not square, they will be cropped at build time to the production site (note; image processing does not occur when running Hugo locally or in a deploy preview)
 
 # Adding slides and video
 
@@ -147,7 +147,7 @@ copy `.envrc.example` to `.envrc` and run `direnv allow`. See
 
 ```
 # devopsdays
-export DOD_YEAR="2018"            # your year
+export DOD_YEAR="2019"            # your year
 export DOD_CITY="new-york-city"   # your city
 export DODPATH=~/git/devopsdays-web   # location of Git files
 alias dod='cd $DODPATH'

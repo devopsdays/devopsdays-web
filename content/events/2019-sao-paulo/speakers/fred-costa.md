@@ -2,7 +2,7 @@
 Title = "Fred Ricardo de Souza Costa"
 Twitter = "fredricardo"
 website = ""
-linkedin = ""
+linkedin = "https://www.linkedin.com/in/fredricardo"
 image = "fred-costa.jpg"
 type = "speaker"
 linktitle = "fred-costa"

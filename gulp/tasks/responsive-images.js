@@ -35,8 +35,8 @@ gulp.task('responsive-organizer-images', function() {
   return gulp.src(['public/**/organizers/*.jpg', '!public/events/2015*/**', '!public/events/2016*/**'])
     .pipe(responsive({
       '**/*.jpg': [{
-        width: 300,
-        height: 300,
+        width: 600,
+        height: 600,
       }],
     }, {
       // global configuration
@@ -55,12 +55,12 @@ gulp.task('responsive-speaker-images', function() {
     return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png', '!public/events/2015*/**', '!public/events/2016*/**'])
         .pipe(responsive({
             '**/*.png': [{
-                width: 300,
-                height: 300
+                width: 600,
+                height: 600
             }],
             '**/*.jpg': [{
-                width: 300,
-                height: 300
+                width: 600,
+                height: 600
             }]
         }, {
             // global configuration

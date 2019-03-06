@@ -1,5 +1,4 @@
 # Reference for devopsdays-theme
-
 # Table of contents
 <!-- MDTOC maxdepth:6 firsth1:0 numbering:0 flatten:0 bullets:0 updateOnSave:1 -->
 
@@ -307,3 +306,25 @@ This shortcode allows for the embedding of a Google form on a page, in a manner 
 ```
 {{< google_form "https://docs.google.com/forms/d/e/1FAIpQLScvv-ty_wEBlYkJaEC1OU0qqqbIHjf9JVa-Ptdo5TcHqz5EDA/viewform?usp=sf_link" >}}
 ```
+
+### tito_widget
+
+Using the tito shortcode enables the embedding of the tito sales widget described on their documentation (https://ti.to/docs/widget). To use it you just need to enter to event path of your tito event which will follow the URL of your event page. For example, if the URL is `https://ti.to/devopsdays-london/2019` your event path would be `devlopsdays-london/2019`. The shortcode also enables the other features described such as the ability to show specific tickets using the examples shown below
+
+```
+{{< tito_widget event="devopsdays-london/2019" >}}
+```
+
+To show only a specific ticket within the widget:
+
+```
+{{< tito_widget event="devopsdays-london/2019" releases="fiaurhghf2k">}}
+```
+
+To show discounted tickets on the page (they display as a striked through full-price along with the new price):
+
+```
+{{< tito_widget event="devopsdays-london/2019" discount-code="examplediscount" >}}
+```
+
+
