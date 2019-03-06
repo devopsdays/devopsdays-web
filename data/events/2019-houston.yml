@@ -197,7 +197,7 @@ program:
     date: 2019-04-16
     start_time: "10:45"
     end_time: "11:15"
-  - title: ""
+  - title: "ramesh-podila"
     type: talk
     date: 2019-04-16
     start_time: "11:15"
@@ -227,11 +227,26 @@ program:
     date: 2019-04-16
     start_time: "14:30"
     end_time: "15:00"
-  - title: "<UNDER CONSTRUCTION>"
-    type: custom
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
     date: 2019-04-16
     start_time: "15:00"
-    end_time: "18:00"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2019-04-16
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2019-04-16
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2019-04-16
+    start_time: "16:30"
+    end_time: "17:00"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-04-17
@@ -254,7 +269,7 @@ program:
     start_time: "09:45"
     end_time: "10:00"
     background_color: "#D0D0D0"
-  - title: ""
+  - title: "biswajit-das"
     type: talk
     date: 2019-04-17
     start_time: "10:00"
@@ -264,12 +279,12 @@ program:
     date: 2019-04-17
     start_time: "10:30"
     end_time: "10:45"
-  - title: ""
+  - title: "aaron-aldrich"
     type: talk
     date: 2019-04-17
     start_time: "10:45"
     end_time: "11:15"
-  - title: ""
+  - title: "oleg-atamanenko"
     type: talk
     date: 2019-04-17
     start_time: "11:15"
@@ -279,7 +294,7 @@ program:
     date: 2019-04-17
     start_time: "11:45"
     end_time: "13:00"
-  - title: ""
+  - title: "kevin-crawley"
     type: talk
     date: 2019-04-17
     start_time: "13:00"
@@ -294,11 +309,32 @@ program:
     date: 2019-04-17
     start_time: "14:15"
     end_time: "14:45"
-  - title: "<UNDER CONSTRUCTION>"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: 2019-04-17
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2019-04-17
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2019-04-17
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2019-04-17
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "Closing"
     type: custom
     date: 2019-04-17
-    start_time: "14:45"
-    end_time: "18:00"
+    start_time: "17:00"
+    end_time: "17:15"
+    background_color: "#D0D0D0"
 
 ignites:
   - title: "margaret-valtierra"
