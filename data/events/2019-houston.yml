@@ -124,15 +124,18 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
-  - id: fearless
-    level: bronze
+  - id: microsoft
+    level: gold
   - id: firemon
     level: silver
   - id: gitlab
     level: silver
   - id: hostgator
     level: silver
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: fearless
+    level: bronze
+  - id: aws
+    level: bronze
   - id: arresteddevops
     level: community
 
@@ -148,7 +151,7 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
-    max: 8
+    max: 9
   - id: silver
     label: Silver
     max: 4 # This is the same as omitting the max limit.
