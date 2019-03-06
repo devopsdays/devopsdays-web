@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["mirco-hering"]
 +++
 
-Mirco shares his experiences on http://notafactoryanymore.com and while speaking at international conferences. He is the author of “DevOps for the Modern Enterprise”, a book helping companies adopt Agile & DevOps and push through the transformation barriers caused by legacy technology and legacy thinking.
+To say it with Mark Twain: All happy DevOps adoptions are alike; each unhappy DevOps adoption is unhappy in its own way. In this talk I want to explore the new barriers of DevOps adoption. Gone are the days that DevOps is a new concept and lack of knowledge, skills or tools is the main blocker for adoption. Yet we don’t find many organisations who truly believe they have reached a mature state of DevOps. What are these barriers and what can we do about it? Come on this journey of exploration with me, where I share the good, bad and the ugly from my experiences with organisations around the globe.
