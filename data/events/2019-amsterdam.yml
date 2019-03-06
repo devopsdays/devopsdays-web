@@ -105,6 +105,8 @@ sponsors:
     level: gold
   - id: influxdata
     level: gold
+  - id: pivotal
+    level: gold
   # Silver
   - id: valtech
     level: silver
