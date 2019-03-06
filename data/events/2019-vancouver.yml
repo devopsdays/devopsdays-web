@@ -86,6 +86,8 @@ sponsors:
     level: gold 
   - id: launch-darkly
     level: gold
+  - id: microsoft
+    level: gold
   - id: salesforce
     level: gold
   - id: signalfx
@@ -100,11 +102,19 @@ sponsors:
     level: silver
   - id: diamanti
     level: silver
+  - id: gitlab
+    level: silver
   - id: logdna
+    level: silver
+  - id: movecanada
     level: silver
   - id: tasktop
     level: silver
+  - id: worksafebc
+    level: silver
   - id: lendesk
+    level: bronze
+  - id: unbounce
     level: bronze
   - id: safesoftware
     level: amenities
