@@ -187,66 +187,87 @@ program:
     date: 2019-04-16
     start_time: "10:00"
     end_time: "10:30"
-  - title: "Coffee Break, Visit Sponsor Booths"
+  - title: "Break, Visit Sponsor Booths"
     type: custom
     date: 2019-04-16
     start_time: "10:30"
-    end_time: "10:45"
+    end_time: "11:00"
   - title: "aaron-aldrich"
     type: talk
     date: 2019-04-16
-    start_time: "10:45"
-    end_time: "11:15"
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "ramesh-podila"
     type: talk
     date: 2019-04-16
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:30"
+    end_time: "12:00"
   - title: "Lunch"
     type: "custom"
     date: 2019-04-16
-    start_time: "11:45"
+    start_time: "12:00"
     end_time: "13:00"
-  - title: "erik-peterson"
-    type: talk
-    date: 2019-04-16
-    start_time: "13:00"
-    end_time: "13:30"
   - title: "Ignite Talks (more to come):"
     type: ignite
     date: 2019-04-16
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: 2019-04-16
     start_time: "13:30"
-    end_time: "14:15"
-  - title: "Coffee Break, Visit Sponsor Booths"
+    end_time: "14:00"
+  - title: "Break, Visit Sponsor Booths"
     type: custom
     date: 2019-04-16
-    start_time: "14:15"
+    start_time: "14:00"
     end_time: "14:30"
   - title: "sagar-karmarkar"
     type: talk
     date: 2019-04-16
     start_time: "14:30"
     end_time: "15:00"
-  - title: "Open Space (Attendee Led Breakout Session) Organizing"
-    type: open-space
+  - title: "erik-peterson"
+    type: talk
     date: 2019-04-16
     start_time: "15:00"
     end_time: "15:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2019-04-16
+    start_time: "14:30"
+    end_time: "15:30"
+    comments: "Where: Movie Studio Grill"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-16
+    start_time: "15:00"
+    end_time: "15:10"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2019-04-16
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-16
+    start_time: "16:10"
+    end_time: "16:20"
   - title: "Open Space (Attendee Led Breakout Session) #2"
     type: open-space
     date: 2019-04-16
-    start_time: "16:00"
-    end_time: "16:30"
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-16
+    start_time: "16:50"
+    end_time: "17:00"
   - title: "Open Space (Attendee Led Breakout Session) #3"
     type: open-space
     date: 2019-04-16
-    start_time: "16:30"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:30"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-04-17
@@ -274,55 +295,82 @@ program:
     date: 2019-04-17
     start_time: "10:00"
     end_time: "10:30"
-  - title: "Coffee Break, Visit Sponsor Booths"
+  - title: "Break, Visit Sponsor Booths"
     type: custom
     date: 2019-04-17
     start_time: "10:30"
-    end_time: "10:45"
+    end_time: "11:00"
   - title: "aaron-aldrich"
     type: talk
     date: 2019-04-17
-    start_time: "10:45"
-    end_time: "11:15"
+    start_time: "11:00"
+    end_time: "11:30"
   - title: "oleg-atamanenko"
     type: talk
     date: 2019-04-17
-    start_time: "11:15"
-    end_time: "11:45"
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "jj-asghar-istio"
+    type: workshop
+    date: 2019-04-17
+    start_time: "11:00"
+    end_time: "12:00"
+    comments: "Where: Movie Studio Grill"
   - title: "Lunch"
     type: "custom"
     date: 2019-04-17
-    start_time: "11:45"
+    start_time: "12:00"
     end_time: "13:00"
   - title: "kevin-crawley"
     type: talk
     date: 2019-04-17
     start_time: "13:00"
     end_time: "13:30"
-  - title: "Break, Visit Sponsor Booths"
-    type: "custom"
-    date: 2019-04-17
-    start_time: "13:30"
-    end_time: "14:15"
-  - title: "john-esser"
-    type: talk
-    date: 2019-04-17
-    start_time: "14:15"
-    end_time: "14:45"
   - title: "Open Space (Attendee Led Breakout Session) Organizing"
     type: open-space
     date: 2019-04-17
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "eddie-zaneski"
+    type: workshop
+    date: 2019-04-17
+    start_time: "13:00"
+    end_time: "14:00"
+    comments: "Where: Movie Studio Grill"
+  - title: "Break, Visit Sponsor Booths"
+    type: "custom"
+    date: 2019-04-17
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "john-esser"
+    type: talk
+    date: 2019-04-17
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-17
     start_time: "15:00"
-    end_time: "15:30"
+    end_time: "15:10"
   - title: "Open Space (Attendee Led Breakout Session) #1"
     type: open-space
     date: 2019-04-17
-    start_time: "15:30"
-    end_time: "16:00"
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-17
+    start_time: "15:40"
+    end_time: "15:50"
   - title: "Open Space (Attendee Led Breakout Session) #2"
     type: open-space
     date: 2019-04-17
-    start_time: "16:00"
+    start_time: "15:50"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-17
+    start_time: "16:20"
     end_time: "16:30"
   - title: "Open Space (Attendee Led Breakout Session) #3"
     type: open-space
