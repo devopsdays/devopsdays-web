@@ -88,6 +88,8 @@ sponsors:
     # Gold
   - id: circleci
     level: gold
+  - id: pivotal
+    level: gold
     # Silver
   - id: tecknuovo
     level: silver
