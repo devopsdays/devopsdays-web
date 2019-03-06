@@ -147,9 +147,21 @@ sponsors:
     level: platinum
   - id: palantir
     level: platinum
+  - id: excella
+    level: platinum
+  - id: chef
+    level: platinum
+  - id: puppet
+    level: platinum
+  - id: collabnet
+    level: platinum
+  - id: vmware
+    level: platinum
   - id: onyx-point
     level: gold
   - id: gitlab
+    level: gold
+  - id: signalfx
     level: gold
   - id:  wortech
     level: silver
