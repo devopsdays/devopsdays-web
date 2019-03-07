@@ -1,7 +1,7 @@
 +++
 Title = "Tiffany Longworth"
 Twitter = ""
-image = ""
+image = "tiffany-longworth.jpg"
 type = "speaker"
 linktitle = "tiffany-longworth"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Laura Maguire"
 Twitter = ""
-image = ""
+image = "laura-maguire.jpg"
 type = "speaker"
 linktitle = "laura-maguire"
 
