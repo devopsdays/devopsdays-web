@@ -98,10 +98,38 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
             <td bgcolor="gold">&nbsp;</td>          
         </tr>
         <tr>
-            <td>1 minuto de para falar com o público</td>
+            <td>1 minuto para falar com o público</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>3 minutos para falar com o público</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="gold">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Poster com logo na área de credenciamento</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="gold">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Logo em slide dedicado nos nossos slides rotativos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="gold">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Logo em um dos brindes do evento - a ser definido</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
         </tr>
     </table>
