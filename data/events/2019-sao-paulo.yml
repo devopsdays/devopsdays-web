@@ -133,6 +133,8 @@ sponsors:
   - id: newrelic
     level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: 4linux-2019
+    level: silver
   - id: adaptnow
     level: bronze
   - id: arresteddevops
@@ -145,6 +147,8 @@ sponsors:
     level: community
     url: https://www.estabil.is/?utm_source=devopsdaysp&utm_medium=sitedevopsday&utm_campaign=devopsdaysp
   - id: test-girls
+    level: community
+  - id: gatilho-kosmico
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
