@@ -29,7 +29,7 @@ location: "Evergreen Brick Works" # Defaults to city, but you can make it the ve
 location_address: "550 Bayview Ave, Toronto, ON M4W 3X8" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
  # - name: program
