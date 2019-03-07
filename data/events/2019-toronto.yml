@@ -85,8 +85,6 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
-  - id: elastic
-    level: gold
   - id: pagerduty
     level: gold
   - id: logdna
