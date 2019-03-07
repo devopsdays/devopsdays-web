@@ -199,11 +199,31 @@ program:
     date: 2019-03-29
     start_time: "12:15"
     end_time: "13:30"
-  - title: "Ignites"
+  - title: "Ignite Opening"
     type: custom
     date: 2019-03-29
     start_time: "13:30"
-    end_time: "14:00"
+    end_time: "13:35"
+  - title: "Jay Gordon: Checklists: Good Enough for NASA, good enough for your app!"
+    type: ignite
+    date: 2019-03-29
+    start_time: "13:35"
+    end_time: "13:40"
+  - title: "Jessie Ye: Scrumming Solo: No Scrum Master or Product Owner"
+    type: ignite
+    date: 2019-03-29
+    start_time: "13:40"
+    end_time: "13:45"
+  - title: "Tiffany Longworth: Tactical whimsey injection: Leveraging fun to get work done"
+    type: ignite
+    date: 2019-03-29
+    start_time: "13:45"
+    end_time: "13:50"
+  - title: "Laura Maguire: Mental models - why saying \"I didn't know it worked that way\" is a sign of expertise not incompetence"
+    type: ignite
+    date: 2019-03-29
+    start_time: "13:50"
+    end_time: "13:55"
   - title: "Open Space #1"
     type: custom
     date: 2019-03-29
@@ -279,11 +299,31 @@ program:
     date: 2019-03-30
     start_time: "12:15"
     end_time: "13:30"
-  - title: "Ignites"
+  - title: "Ignite Opening"
     type: custom
     date: 2019-03-30
     start_time: "13:30"
-    end_time: "14:00"
+    end_time: "13:35"
+  - title: "JJ Asghar: Everything you need to know about Kubernetes in 5 mins"
+    type: ignite
+    date: 2019-03-30
+    start_time: "13:35"
+    end_time: "13:40"
+  - title: "Shane Gearon: Jenkins in the Cloud, lessons learned migrating to kubernetes"
+    type: ignite
+    date: 2019-03-30
+    start_time: "13:40"
+    end_time: "13:45"
+  - title: "Callum Styan: Grafana Loki: Log Aggregation for Incident Investigations"
+    type: ignite
+    date: 2019-03-30
+    start_time: "13:45"
+    end_time: "13:50"
+  - title: "Amin Yazdani: DevOps for Startups"
+    type: ignite
+    date: 2019-03-30
+    start_time: "13:50"
+    end_time: "13:55"
   - title: "kenzie-woodbridge"
     type: talk
     date: 2019-03-30
