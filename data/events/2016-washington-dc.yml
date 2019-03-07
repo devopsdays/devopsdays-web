@@ -73,7 +73,7 @@ sponsors_accepted: "no"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: uspto
     level: platinum_and_venue
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
   - id: cloudpassage
     level: platinum
