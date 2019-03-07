@@ -91,6 +91,15 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # social
+  # exclusive
+  # gold
+  # silver
+  # bronze
+  - id: inuits
+    level: bronze
+  # community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
