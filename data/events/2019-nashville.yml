@@ -66,6 +66,18 @@ sponsors:
     level: silver
   - id: influxdata
     level: gold
+  - id: microsoft
+    level: gold
+  - id: chef
+    level: gold
+  - id: roundtowertechnologies
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: twistlock
+    level: bronze
+  - id: silexdatasolutions
+    level: gold
   - id: redhat
     level: community
   - id: shadow-soft
