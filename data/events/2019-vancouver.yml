@@ -164,47 +164,42 @@ program:
     date: 2019-03-29
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-03-29
-    start_time: "09:45"
-    end_time: "09:55"
   - title: "adron-hall"
     type: talk
     date: 2019-03-29
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2019-03-29
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "kris-nova"
-    type: talk
-    date: 2019-03-29
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Sponsors"
     type: custom
     date: 2019-03-29
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "10:15"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2019-03-29
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "kris-nova"
+    type: talk
+    date: 2019-03-29
+    start_time: "10:30"
+    end_time: "11:00"
   - title: "garland-kan"
     type: talk
     date: 2019-03-29
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Open Space Introduction and Proposals"
+    type: custom
+    date: 2019-03-29
+    start_time: "11:30"
+    end_time: "12:15"
   - title: "Lunch"
     type: custom
     date: 2019-03-29
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2019-03-29
-    start_time: "13:00"
+    start_time: "12:15"
     end_time: "13:30"
-  - title: "Open Space Opening"
+  - title: "Ignites"
     type: custom
     date: 2019-03-29
     start_time: "13:30"
@@ -213,26 +208,26 @@ program:
     type: custom
     date: 2019-03-29
     start_time: "14:00"
-    end_time: "14:45"
+    end_time: "15:00"
   - title: "Open Space #2"
     type: custom
     date: 2019-03-29
     start_time: "15:00"
-    end_time: "15:45"
+    end_time: "16:00"
   - title: "Open Space #3"
     type: custom
     date: 2019-03-29
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "17:00"
   - title: "Close Day"
     type: custom
     date: 2019-03-29
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:30"
   - title: "Evening event"
     type: custom
     date: 2019-03-29
-    start_time: "19:00"
+    start_time: "17:45"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -249,68 +244,68 @@ program:
     date: 2019-03-30
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-03-30
-    start_time: "09:45"
-    end_time: "09:55"
   - title: "tiffany-longworth"
     type: talk
     date: 2019-03-30
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break"
-    type: custom
-    date: 2019-03-30
-    start_time: "10:25"
-    end_time: "10:40"
-  - title: "don-burks"
-    type: talk
-    date: 2019-03-30
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "09:45"
+    end_time: "10:15"  
   - title: "Sponsors"
     type: custom
     date: 2019-03-30
-    start_time: "11:10"
-    end_time: "11:20"
+    start_time: "10:15"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2019-03-30
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "don-burks"
+    type: talk
+    date: 2019-03-30
+    start_time: "10:30"
+    end_time: "11:00"
   - title: "courtney-eckhardt"
     type: talk
     date: 2019-03-30
-    start_time: "11:20"
-    end_time: "11:50"
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Open Space Introduction and Proposals"
+    type: custom
+    date: 2019-03-30
+    start_time: "11:30"
+    end_time: "12:15"
   - title: "Lunch"
     type: custom
     date: 2019-03-30
-    start_time: "11:50"
-    end_time: "13:00"
-  - title: "Ignites"
-    type: custom
-    date: 2019-03-30
-    start_time: "13:00"
+    start_time: "12:15"
     end_time: "13:30"
-  - title: "Open Space Opening"
+  - title: "Ignites"
     type: custom
     date: 2019-03-30
     start_time: "13:30"
     end_time: "14:00"
-  - title: "Open Space #1"
-    type: custom
+  - title: "kenzie-woodbridge"
+    type: talk
     date: 2019-03-30
     start_time: "14:00"
-    end_time: "14:45"
-  - title: "Open Space #2"
+    end_time: "14:30"
+  - title: "sonia-gupta"
+    type: talk
+    date: 2019-03-30
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #4"
     type: custom
     date: 2019-03-30
     start_time: "15:00"
-    end_time: "15:45"
-  - title: "Open Space #3"
+    end_time: "16:00"
+  - title: "Open Space #5"
     type: custom
     date: 2019-03-30
     start_time: "16:00"
-    end_time: "16:45"
+    end_time: "17:00"
   - title: "Closing"
     type: custom
     date: 2019-03-30
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "17:00"
+    end_time: "17:30"
