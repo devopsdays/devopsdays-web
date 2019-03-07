@@ -85,6 +85,14 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: elastic
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: logdna
+    level: gold
+  - id: sonatype
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
