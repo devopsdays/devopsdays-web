@@ -31,8 +31,8 @@ location_address: "800 Robson St, Vancouver, BC V6Z 3B7" #Optional - use the str
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: registration
- #  - name: program
- #  - name: speakers
+   - name: program
+   - name: speakers
   - name: location
   - name: propose
   - name: sponsor
@@ -148,3 +148,169 @@ sponsor_levels:
     label: Friends
     max: 4
 
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-03-29
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-03-29
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2019-03-29
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-03-29
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "adron-hall"
+    type: talk
+    date: 2019-03-29
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-03-29
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "kris-nova"
+    type: talk
+    date: 2019-03-29
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-03-29
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "garland-kan"
+    type: talk
+    date: 2019-03-29
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-03-29
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2019-03-29
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-03-29
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-03-29
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-03-29
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-03-29
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-03-29
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-03-29
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-03-30
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-03-30
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "nisan-haramati"
+    type: talk
+    date: 2019-03-30
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-03-30
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "tiffany-longworth"
+    type: talk
+    date: 2019-03-30
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-03-30
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "don-burks"
+    type: talk
+    date: 2019-03-30
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-03-30
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "courtney-echkhardt"
+    type: talk
+    date: 2019-03-30
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-03-30
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: custom
+    date: 2019-03-30
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-03-30
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-03-30
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-03-30
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-03-30
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing"
+    type: custom
+    date: 2019-03-30
+    start_time: "16:45"
+    end_time: "17:00"
