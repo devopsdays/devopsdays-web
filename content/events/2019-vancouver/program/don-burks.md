@@ -6,5 +6,3 @@ Title = "GraphQL Security"
 Type = "talk"
 Speakers = ["don-burks"]
 +++
-
-Saturday
