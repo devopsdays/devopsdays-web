@@ -1,7 +1,7 @@
 +++
 Title = "Edson Celio"
 Twitter = "tuxpilgrim"
-linkedin = "https://github.com/diogonicoleti"
+linkedin = "https://www.linkedin.com/in/edsoncelio/"
 website = "https://edsoncelio.github.io/"
 image = "edson-celio.jpg"
 type = "speaker"
