@@ -53,7 +53,7 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: chef
     level: gold

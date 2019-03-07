@@ -51,7 +51,7 @@ proposal_email: "proposals-saltlakecity-2016@devopsdays.org" # Put your proposal
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: newrelic
     level: eveningsocial
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: blackdiamond
   - id: uhg_optum
     level: blackdiamond

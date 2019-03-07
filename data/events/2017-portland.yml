@@ -74,7 +74,7 @@ proposal_email: "proposals-portland-2017@devopsdays.org" # Put your proposal ema
 sponsors:
     - id: columbia
       level: gold
-    - id: pivotal
+    - id: pivotal-before-20190307
       level: gold
     - id: recompiler
       level: community
