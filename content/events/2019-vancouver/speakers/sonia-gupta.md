@@ -1,7 +1,7 @@
 +++
 Title = "Sonia Gupta"
 Twitter = ""
-image = ""
+image = "sonia-gupta.jpg"
 type = "speaker"
 linktitle = "sonia-gupta"
 
