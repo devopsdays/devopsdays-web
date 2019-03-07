@@ -87,6 +87,8 @@ sponsors:
     level: gold
   - id: eficode
     level: gold
+  - id: redhat
+    level: gold
   - id: thoughtworks-gocd
     level: silver
   - id: xebialabs
@@ -132,7 +134,6 @@ program:
     start_time: "09:20"
     end_time: "09:50"
   - title: "Break"
-    type: custom
     date: 2019-04-03
     start_time: "09:50"
     end_time: "10:00"
@@ -142,7 +143,6 @@ program:
     start_time: "10:00"
     end_time: "10:30"
   - title: "Break"
-    type: custom
     date: 2019-04-03
     start_time: "10:30"
     end_time: "10:45"
@@ -157,7 +157,6 @@ program:
     start_time: "10:45"
     end_time: "11:15"
   - title: "Break"
-    type: custom
     date: 2019-04-03
     start_time: "11:15"
     end_time: "11:30"
@@ -191,8 +190,13 @@ program:
     date: 2019-04-03
     start_time: "14:00"
     end_time: "14:45"
-  - title: "Break"
+  - title: "Mob Programming Session #1"
     type: custom
+    date: 2019-04-03
+    type: open-space
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break"
     date: 2019-04-03
     start_time: "14:45"
     end_time: "15:00"
@@ -201,8 +205,12 @@ program:
     date: 2019-04-03
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Break"
+  - title: "Mob Programming Session #2"
     type: custom
+    date: 2019-04-03
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
     date: 2019-04-03
     start_time: "15:45"
     end_time: "16:00"
@@ -221,7 +229,7 @@ program:
     date: 2019-04-03
     start_time: "17:00"
     end_time: "17:45"
-  - title: "Mingling Dinner"
+  - title: "Dinner & Mingle"
     type: custom
     date: 2019-04-03
     start_time: "17:45"
@@ -242,7 +250,6 @@ program:
     start_time: "09:15"
     end_time: "09:45"
   - title: "Break"
-    type: custom
     date: 2019-04-04
     start_time: "09:45"
     end_time: "10:00"
@@ -272,7 +279,6 @@ program:
     start_time: "12:40"
     end_time: "13:25"
   - title: "Break"
-    type: custom
     date: 2019-04-04
     start_time: "13:25"
     end_time: "13:40"
@@ -287,7 +293,6 @@ program:
     start_time: "13:40"
     end_time: "14:10"
   - title: "Break"
-    type: custom
     date: 2019-04-04
     start_time: "14:10"
     end_time: "14:25"
@@ -297,7 +302,6 @@ program:
     start_time: "14:25"
     end_time: "14:55"
   - title: "Break"
-    type: custom
     date: 2019-04-04
     start_time: "14:55"
     end_time: "15:10"
@@ -318,4 +322,6 @@ ignites:
   - title: "philipp-krenn"
     date: "2019-04-03"
   - title: "kasper-nissen"
+    date: "2019-04-03"
+  - title: "matthias-gruter"
     date: "2019-04-03"
