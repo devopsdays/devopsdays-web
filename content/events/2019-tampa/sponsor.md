@@ -102,14 +102,14 @@ achieved.
     </tr>
     <tr>
       <td>Event Posters</td>
-      <td style="padding: 5px" </td>
+      <td style="padding: 5px"> </td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
       <td>Speaker Cover Slides</td>
-      <td style="padding: 5px" </td>
-      <td style="padding: 5px" </td>
+      <td style="padding: 5px"> </td>
+      <td style="padding: 5px"> </td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
   </tbody>
