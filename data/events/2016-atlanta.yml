@@ -36,7 +36,7 @@ proposal_email: "proposals-atlanta-2016@devopsdays.org" # Put your proposal emai
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: versionone
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: victorops-before-20180823
     level: gold

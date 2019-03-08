@@ -47,7 +47,7 @@ ga_tracking_id: "UA-74738648-1"
 
 sponsors_accepted: "no"
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: sumologic-before-20181203
     level: gold

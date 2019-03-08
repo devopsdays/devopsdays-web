@@ -41,7 +41,7 @@ organizer_email: "organizers-minneapolis-2016@devopsdays.org" # Put your organiz
 proposal_email: "proposals-minneapolis-2016@devopsdays.org" # Put your proposal email address here
 sponsors_accepted: "no"
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: pivotal 
+  - id: pivotal-before-20190307 
     level: platinum
   - id: chef
     level: platinum

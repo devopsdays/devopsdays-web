@@ -112,7 +112,7 @@ sponsors:
     level: gold
   - id: instana
     level: silver
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: mesosphere
     level: silver

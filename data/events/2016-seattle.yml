@@ -14,7 +14,7 @@ team: ["Rob Cummings", "Dominica DeGrandis", "Dan Dicamillo", "Jeremy Dyche", "M
 organizer_email: "organizers-seattle-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-seattle-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: chef
     level: gold

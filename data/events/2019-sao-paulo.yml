@@ -120,10 +120,10 @@ team_members: # Name is the only required field for team members.
   - name: "Tancredo Inomata"
     employer: "Concrete Solutions"
     image: "tancredo-inomata.jpg"
-    bio: "Formado em Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara de Santos e MBA em Arquitetura de redes e Cloud Computing pela FIAP. Certificado como AWS Certified Solutions Architect e Comptia Cloud. 
+    bio: "Formado em Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara de Santos e MBA em Arquitetura de redes e Cloud Computing pela FIAP. Certificado como AWS Certified Solutions Architect e Comptia Cloud.
     Atua na Concrete em projetos de Cloud Computing com os Big Players Amazon Web Services e Microsoft Azure e Professor convidado no MBA em Gestão de TI e Computação em Nuvem da UFSCar/2017-2018. Desbravando caminhos na Public Cloud através de soluções escaláveis e de alta disponibilidade."
     linkedin: "https://www.linkedin.com/in/tancredo-inomata-012619a2/"
-    
+
 organizer_email: "organizers-sao-paulo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal email address here
 
@@ -133,6 +133,8 @@ sponsors:
   - id: newrelic
     level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: 4linux-2019
+    level: silver
   - id: adaptnow
     level: bronze
   - id: arresteddevops
@@ -140,6 +142,13 @@ sponsors:
   - id: 10deploys
     level: community
   - id: vbrownbagbrasil
+    level: community
+  - id: estabilis
+    level: community
+    url: https://www.estabil.is/?utm_source=devopsdaysp&utm_medium=sitedevopsday&utm_campaign=devopsdaysp
+  - id: test-girls
+    level: community
+  - id: gatilho-kosmico
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -161,7 +170,7 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-  
+
 program:
   - title: "Credenciamento e recepção"
     type: custom
@@ -187,7 +196,7 @@ program:
     date: "2019-04-10"
     start_time: "10:15"
     end_time: "10:40"
-  
+
   - title: "amanda-mattos"
     type: talk
     date: "2019-04-10"
@@ -292,7 +301,7 @@ program:
     date: "2019-04-11"
     start_time: "10:15"
     end_time: "10:45"
-  
+
   - title: "bruno-gurgel"
     type: talk
     date: "2019-04-11"
@@ -372,7 +381,7 @@ ignites:
 
   - title: "daniel-requena"
     date: "2019-04-10"
-  
+
   - title: "eduardo-ximenes"
     date: "2019-04-10"
 
@@ -381,4 +390,3 @@ ignites:
 
   - title: "danubia-barreto"
     date: "2019-04-11"
-  

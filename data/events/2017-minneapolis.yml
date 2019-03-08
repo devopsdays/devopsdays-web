@@ -72,7 +72,7 @@ proposal_email: "proposals-minneapolis-2017@devopsdays.org"
 sponsors:
   - id: arresteddevops
     level: community
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
   - id: microsoftazure-before-20171017
     level: silver
