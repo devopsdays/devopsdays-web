@@ -1,9 +1,11 @@
 +++
 Title = "Biswajit Das"
 Twitter = ""
+image = "biswajit-das.jpg"
 type = "speaker"
+LinkedIn = "https://www.linkedin.com/in/biswajitdas/"
 linktitle = "biswajit-das"
 
 +++
 
-Biswajit Das is a full stack test automation enthusiast with over 14+ years of professional experience and working for American International Group (AIG) as an Automation Architect. He earned a Masters degree in Computer Science and several accreditation from distinguished organizations. He designs, develops and implements test automation frameworks and best practices for functional, performance, responsive web, mobility, APIs testing and Continuous Delivery initiatives.
+Biswajit Das is an automation enthusiast, leading a test automation team at AIG Retirement Services Houston, Texas. He earned a Master’s degree in Computer Science and several accreditation from distinguished organizations in Insurance & Quality Engineering domain. He designs, develops and implements test automation frameworks and best practices to augment Continuous Testing needs for digital transformation initiative.  Biswajit is passionate about learning recent trends in Quality Engineering & DevOps space, and committed to deliver quality products to elevate consumer grade experiences through innovative tools and technologies.

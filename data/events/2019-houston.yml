@@ -47,11 +47,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Ajay Bannai"
-    employer: "Current Analytics Corporation"
-    image: "ajay-bannai.jpg"
-    linkedin: "https://www.linkedin.com/in/ajay-bannai-934b066/"
-    bio: "With more than 26 years in IT software, Ajay has designed and built many systems covering data analysis, middleware systems and end user applications. Ajay has spent more than 12 years in the Retail Energy space and is a seasoned architect. Ajay is TOGAF certified and also a qualified Software Architect from Carnegie Mellon University."
+#  - name: "Ajay Bannai"
+#    employer: "Current Analytics Corporation"
+#    image: "ajay-bannai.jpg"
+#    linkedin: "https://www.linkedin.com/in/ajay-bannai-934b066/"
+#    bio: "With more than 26 years in IT software, Ajay has designed and built many systems covering data analysis, middleware systems and end user applications. Ajay has spent more than 12 years in the Retail Energy space and is a seasoned architect. Ajay is TOGAF certified and also a qualified Software Architect from Carnegie Mellon University."
   - name: "Dan Collins"
     employer: "Current Analytics Corporation"
     linkedin: "https://www.linkedin.com/in/thedancollins/"
