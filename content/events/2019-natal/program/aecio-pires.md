@@ -1,7 +1,7 @@
 +++
 Talk_date = "2019-03-09"
-Talk_start_time = "17:00"
-Talk_end_time = "17:45"
+Talk_start_time = "13:50"
+Talk_end_time = "14:20"
 Title = "Integração e Entrega Contínua para um microsserviço usando Jenkins e outras ferramentas DevOps"
 Type = "talk"
 Speakers = ["aecio-pires", "janaina-militao"]
