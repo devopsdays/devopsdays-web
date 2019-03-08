@@ -146,6 +146,8 @@ sponsors:
  - id: claranet
    level: bronze
  - id: laredoute
+   level: bronze
+ - id: i2s
    level: bronze   
  - id: bitmaker
    level: community
