@@ -162,7 +162,7 @@ program:
     date: 2019-03-29
     start_time: "09:15"
     end_time: "09:45"
-  - title: "adron-hall"
+  - title: "nisan-haramati"
     type: talk
     date: 2019-03-29
     start_time: "09:45"
@@ -237,7 +237,7 @@ program:
     date: 2019-03-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "nisan-haramati"
+  - title: "adron-hall"
     type: talk
     date: 2019-03-30
     start_time: "09:15"
