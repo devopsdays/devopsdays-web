@@ -202,7 +202,13 @@ program:
     date: 2019-04-16
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2019-04-16
+    start_time: "11:00"
+    end_time: "12:00"
+    comments: "Where: Movie Studio Grill"
+  - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-16
     start_time: "12:00"
@@ -306,7 +312,7 @@ program:
     date: 2019-04-17
     start_time: "10:30"
     end_time: "11:00"
-  - title: "aaron-aldrich"
+  - title: "shaun-ladewig"
     type: talk
     date: 2019-04-17
     start_time: "11:00"
@@ -322,7 +328,7 @@ program:
     start_time: "11:00"
     end_time: "12:00"
     comments: "Where: Movie Studio Grill"
-  - title: "Lunch"
+  - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-17
     start_time: "12:00"
