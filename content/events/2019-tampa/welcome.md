@@ -8,8 +8,7 @@ Description = "DevOpsDays Tampa Bay 2019"
 Save the date!
 ===
 
-DevOpsDays will be returning to Tampa Bay in June 2019 for our first year. We'll be adding
-dates for talk proposals, sponsorships, and registration in Mid February of 2019.
+DevOpsDays will be coming to Tampa Bay June 7th of 2019 for our first year. We are accepting talk proposals, sponsorships, and registration will be soon open.
 
 <div style="text-align:center;">
   {{< event_logo >}}
