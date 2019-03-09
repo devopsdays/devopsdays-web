@@ -16,16 +16,12 @@ bridging the gaps and breaking down silos
 between development, operations, security
 and other business units. DevOpsDays is a
 grassroots event for professionals in Tech to
-network together and share ideas and chal-
-lenges relating to DevOps and Technology in
+network together and share ideas and challenges relating to DevOps and Technology in
 general. It is organized by peers who care and
-believe in collaboration, automation, measure-
-ment and constant improvement.
-DevOpsDays goal is to bring the highest quali-
-ty speakers, experts and contributors together
+believe in collaboration, automation, measurement and constant improvement.
+DevOpsDays goal is to bring the highest quality speakers, experts and contributors together
 for two days of “Teaching and Learning”. As an
-event sponsor, you will be branding your com-
-pany as ambassadors to the Tampa Bay
+event sponsor, you will be branding your company as ambassadors to the Tampa Bay
 DevOps Community. Your company will be
 recognized as a leader in the Tech community,
 exposing your brand, products, and services
@@ -33,10 +29,8 @@ to Tampa Bay’s Top Tech Talent. We expect
 200 attendees for this event.DevOpsDays
 goal is to bring the highest quality speakers,
 experts and contributors together for two days
-of “Teaching and Learning”. As an event spon-
-sor, you will be branding your company as
-ambassadors to the Tampa Bay DevOps Com-
-munity. Your company will be recognized as a
+of “Teaching and Learning”. As an event sponsor, you will be branding your company as
+ambassadors to the Tampa Bay DevOps Community. Your company will be recognized as a
 leader in the Tech community, exposing your
 brand, products, and services to Tampa Bay’s
 Top Tech Talent. We expect 200 attendees for
@@ -44,17 +38,14 @@ this event.
 
 <b>REGISTRATION SPONSOR</b>
 Everyone at the event will be wearing a
-lanyard and this represents a great opportuni-
-ty to get your name in front of all attendees.
+lanyard and this represents a great opportunity to get your name in front of all attendees.
 The lanyard will be printed with your branding
-on it. There is only a single sponsorship avail-
-able and it is $2,500.
+on it. There is only a single sponsorship available and it is $2,500.
 
 <b>EVENING SOCIAL SPONSOR</b>
 Your chance to plan and host the social event
-on Thursday for all attendees of the DevOps-
-Days event. This will be the ocial night net-
-working / after-hours event and therefore will
+on Thursday for all attendees of the DevOpsDays event. This will be the ocial night networking / 
+after-hours event and therefore will
 appear as such on all marketing materials.
 While we understand such events may include
 alcohol, it would be preferable for the focus to
