@@ -30,5 +30,14 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
 <hr>
+As a speaker we will provide you with:
+
+- a free ticket to the conference
+- free tickets for 2 other people and some discount codes
+- an invite to the speakers dinner the night before the conference starts
+
+in addition, if you are personally funding your attendance we have some budget to cover reasonable travel and accommodation costs.
+
+<hr>
 
 <center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>
