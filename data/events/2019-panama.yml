@@ -114,6 +114,9 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: host
     label: Host
     max: "1"
+  - id: platinum
+    label: Platinum
+    max: "0"
   - id: gold
     label: Gold
     max: "0"
