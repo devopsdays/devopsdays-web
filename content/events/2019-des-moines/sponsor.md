@@ -77,9 +77,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>1 of 10</td>
-                <td>0 of 1</td>
-                <td>0 of 1</td>
+                <td>1</td>
+                <td>Sold Out</td>
+                <td>Sold Out</td>
             </tr>
             <tr>
                 <td class="label">Price</td>
@@ -90,9 +90,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
             <tr>
                 <td class="label">Pay via Wave</td>
                 <td>
-                    <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”>
-                        <img src="/events/2019-des-moines/paynow.gif"/>
-                    </a>
+                    <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”>Pay Now</a>
                 </td>
                 <td></td>
                 <td></td>
