@@ -7,24 +7,24 @@ ga_tracking_id: "UA-124724975-1" # If you have your own Google Analytics trackin
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-09-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce: # inform proposers of status
+cfp_date_start: 2019-03-06 # start accepting talk proposals.
+cfp_date_end: 2019-06-06 # close your call for proposals.
+cfp_date_announce: 2019-06-13 # inform proposers of status
 
-cfp_open: ""
-cfp_link: ""
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/cfps/2011/submissions/new"
 
 registration_open: "false"
 registration_link: ""
 
 # Location
-coordinates: "9.001378, -79.582021" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Ciudad del Saber" # Defaults to city, but you can make it the venue name.
-location_address: "Ciudad del Saber, Edificio # 104, Clayton, Ancón. Apartado 0843-03081, Panamá, Rep. de Panamá."
+coordinates: "9.0247509,-79.5297084" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Universidad Tecnológica de Panamá" # Defaults to city, but you can make it the venue name.
+location_address: "Teatro auditorio UTP"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
@@ -41,24 +41,27 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Beatriz Aragón"
-    employer: "Universidad de las Ciencias Informáticas"
+
+  - name: "Abdel G. Martínez"
+    employer: "SOLUSOFT"
     bio:
-    twitter:
-    linkedin:
+    twitter: "abdelgmartinezl"
+    linkedin: "https://www.linkedin.com/in/abdelgmartinezl"
     facebook:
-    website: "http://www.uci.cu"
+    website:
     github:
-    image: "beatriz-aragon.jpg"
+    image: "abdel-g-martinez.jpeg"
+
   - name: "Enrique Carbonell"
-    employer: "DATYS"
+    employer: "PYXIS"
     bio:
     twitter: "kikicarbonell"
     linkedin: "https://www.linkedin.com/in/enrique-carbonell"
     facebook:
-    website: "http://www.datys.cu"
+    website: "http://www.pyxisportal.com"
     github:
     image: "enrique-carbonell.jpg"
+
   - name: "Erick Agrazal"
     employer: "Universidad Tecnológica de Panamá"
     bio:
@@ -68,6 +71,27 @@ team_members: # Name is the only required field for team members.
     website: "http://www.utp.ac.pa"
     github:
     image: "erick-agrazal.jpg"
+
+  - name: "Ivan Ho"
+    employer: "Universidad Tecnológica de Panamá"
+    bio:
+    twitter:
+    linkedin: "https://www.linkedin.com/in/ivanhoq"
+    facebook:
+    website: "http://www.utp.ac.pa"
+    github:
+    image: "ivan-ho.jpg"
+
+  - name: "Sebastian Vasquez"
+    employer: "Morgan & Morgan Abogados"
+    bio:
+    twitter: "sebasvasquezs"
+    linkedin:
+    facebook:
+    website: "https://www.morimor.com"
+    github:
+    image: "no-image-provided.jpg"
+
   - name: "Yadier Perdomo"
     employer: "Universidad de las Ciencias Informáticas"
     bio:
@@ -106,15 +130,11 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: cds
-#    level: host
-#  - id: UTP
-#    level: gold
+  - id: utp
+    level: host
 #  - id: UCI
 #    level: gold
 #  - id: SENACYT
-#    level: gold
-#  - id: vliruos
 #    level: gold
 #  - id: capacitaciones507
 #    level: gold
@@ -122,9 +142,7 @@ sponsors:
 #    level: community
 #  - id: stickermule
 #    level: community
-#  - id: ado
-#    level: community
-  - id: addo-2018
+  - id: addo
     level: community
   - id: docker-havana
     level: community
