@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays London 2019"
 
 <hr>
 
-<strong>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</strong>
+<center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>
 
 <hr>
 
@@ -31,4 +31,4 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</strong>
+<center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>
