@@ -24,6 +24,7 @@ Description = "Sponsor DevopsDays Denver!"
     </tr>
     <tr style="text-align: center;">
       <td>
+        2 left<br/>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="JTJLYYCUD2RXJ">
@@ -33,12 +34,11 @@ Description = "Sponsor DevopsDays Denver!"
         $500
       </td>
       <td style="background-color: #f0f0f0">
-        Almost Sold Out.<br/>Please contact via <br/><a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $4,500
+        Sold Out
       </td>
       <td>
-        Almost Sold Out.<br/>Please contact via <br/><a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $6,500
+        1 Spot Left<br/>
+        Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
       </td>
       <td style="background-color: #f0f0f0">
         Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
