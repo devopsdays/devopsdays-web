@@ -101,7 +101,9 @@ sponsors:
   - id: trility
     level: gold
   - id: sourceallies
-    level: social    
+    level: social
+  - id: aureon
+    level: lanyard 
   - id: oreilly
     level: community
   - id: sidegarage
