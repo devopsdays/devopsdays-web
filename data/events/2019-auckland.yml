@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
     image: "reuben-dunn.jpg"
     bio: "Reuben helps teams and organisations to build new capabilities and is currently working with some amazing people at Hypr (www.hypr.nz). Reuben lives in Auckland's Rural South East with his wife, 4 kids, 9 sheep and 2 dogs. Ngā Puhi/Ngati Pikiao/Tainui."
     linkedin: "https://www.linkedin.com/in/defsol"
-    github: https://github.com/defsol
+    github: "DefSol"
   - name: "Adarsh Jupudi"
     twitter: "cloudoperator"
   - name: "Flavia Machado"
