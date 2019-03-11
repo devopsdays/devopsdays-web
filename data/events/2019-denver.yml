@@ -114,6 +114,10 @@ sponsors:
   level: gold
 - id: slalom
   level: gold
+- id: mesosphere
+  level: social
+- id: invoca
+  level: supporter
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
