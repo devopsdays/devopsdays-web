@@ -5,9 +5,9 @@ aliases = ["/events/2019-london/"]
 Description = "devopsdays London 2019"
 +++
 <div class="row">
-  <!--<div class="col-md-4">
+  <div class="col-md-4">
     <img alt="DevOpsDays London 2019" src="/events/2019-london/logo.png" class="img-fluid">
-  </div>-->
+  </div>
 
   <div class="col-md-7">
     <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events in for 2018.</p>
