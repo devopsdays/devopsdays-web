@@ -132,6 +132,8 @@ proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: newrelic
     level: platinum
+  - id: dynatrace
+    level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: 4linux-2019
     level: silver
