@@ -142,11 +142,21 @@ team_members: # Name is the only required field for team members.
 <br><br>
 Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
     twitter: ""
-    linkedin: "https://www.linkedin.com/in/charles-q-humphrey-0721032/"
+    linkedin: "https://www.linkedin.com/in/ryandymek/"
 #   facebook:
     website: "http://www.talonmartialarts.com/"
 #   github:
     image: "charles.jpg"
+  - name: "Ryan Dymek"
+    role: "Dymek Solutions, Inc."
+    employer: ""
+    bio: ""
+    twitter: "RyanDymek"
+    linkedin: "https://www.linkedin.com/in/ryandymek/"
+#   facebook:
+    website: "https://www.dymekonline.com/"
+#   github:
+    image: "ryan.jpg"
 # - name: "Mike Rosado"
 #   employer: "Organizer Role - Website / devopsdays.org Global Core Organizer"
 #   role: "Independent Consultant"

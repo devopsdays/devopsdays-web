@@ -77,6 +77,8 @@ proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: dynatrace
     level: platinum
+  - id: coxautomotive
+    level: platinum
   - id: cloudzero
     level: gold
   - id: pagerduty
@@ -92,23 +94,25 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
-  - id: codefresh
-    level: gold
   - id: sonatype
     level: gold
-  - id: etrade
+  - id: codefresh
     level: gold
   - id: influxdata
     level: gold
+  - id: etrade
+    level: gold
   - id: chef
+    level: gold
+  - id: elastic
     level: gold
   - id: convox
     level: gold
   - id: electriccloud
     level: gold
-  - id: diamanti
-    level: gold
   - id: microsoft
+    level: gold
+  - id: fullstory
     level: gold
   - id: cisco-webex
     level: silver
