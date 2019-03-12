@@ -114,6 +114,10 @@ sponsors:
     level: gold
   - id: fullstory
     level: gold
+  - id: newrelic
+    level: gold
+  - id: rancher
+    level: gold
   - id: cisco-webex
     level: silver
   - id: arresteddevops
