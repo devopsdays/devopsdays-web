@@ -193,7 +193,6 @@ program:
   - title: "Mob Programming Session #1"
     type: custom
     date: 2019-04-03
-    type: open-space
     start_time: "14:00"
     end_time: "14:45"
   - title: "Break"
