@@ -91,7 +91,7 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
-  - id: xebialabs
+  - id: 2019-xebialabs
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: unity
@@ -193,7 +193,6 @@ program:
   - title: "Mob Programming Session #1"
     type: custom
     date: 2019-04-03
-    type: open-space
     start_time: "14:00"
     end_time: "14:45"
   - title: "Break"
