@@ -140,6 +140,8 @@ sponsors:
     level: community
   - id: chef
     level: evening
+  - id: logdna
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
