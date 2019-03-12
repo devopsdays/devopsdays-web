@@ -29,7 +29,7 @@ location_address: "Grand Memories Santa Maria All Inclusive, Cayo Santa Maria"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: about
-#  - name: location
+  - name: location
 #  - name: speakers
 #  - name: program
   - name: propose
