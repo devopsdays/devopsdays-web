@@ -24,6 +24,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 #TODO: Uncomment this when registration opens
 registration_link: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+
 # Location
 #
 coordinates: "39.286400, -76.605606"
@@ -34,7 +35,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #- name: propose
   - name: location
   - name: registration
- # - name: program
+    url: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new"
+  - name: program
+    url: "https://devopsdaysbaltimore2019.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
   - name: contact
