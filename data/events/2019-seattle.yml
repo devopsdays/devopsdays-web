@@ -116,6 +116,12 @@ sponsors:
     level: gold
   - id: slalom-build
     level: gold
+  - id: sonatype
+    level: gold
+  - id: pagerduty
+    level: gold
+  - id: site24x7
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
@@ -133,6 +139,8 @@ sponsors:
   - id: wsealug
     level: community
   - id: chef
+    level: evening
+  - id: logdna
     level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
