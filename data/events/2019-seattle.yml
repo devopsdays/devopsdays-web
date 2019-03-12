@@ -116,6 +116,8 @@ sponsors:
     level: gold
   - id: slalom-build
     level: gold
+  - id: cloudbees
+    level: gold
   - id: sonatype
     level: gold
   - id: pagerduty
