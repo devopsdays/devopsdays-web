@@ -134,6 +134,8 @@ sponsors:
     level: silver
   - id: redhat
     level: silver
+  - id: vmware
+    level: silver
   - id: seattle-coffeeops
     level: community
   - id: eastside-coffeeops
