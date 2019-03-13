@@ -11,7 +11,7 @@ enddate: 2019-09-12T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-03-07T00:00:00-07:00 # start accepting talk proposals.
-cfp_date_end: 2019-04-30T00:00:00-07:00 # close your call for proposals.
+cfp_date_end: 2019-04-16T00:00:00-07:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
 cfp_open: "true"
