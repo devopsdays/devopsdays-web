@@ -37,12 +37,10 @@ Description = "Sponsor DevopsDays Denver!"
         Sold Out
       </td>
       <td>
-        1 Spot Left<br/>
-        Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
+        Sold Out
       </td>
       <td style="background-color: #f0f0f0">
-        Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $8,000
+        Sponsored by Mesosphere!!
       </td>
     </tr>
   </table>
