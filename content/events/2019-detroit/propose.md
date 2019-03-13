@@ -1,20 +1,20 @@
 +++
-Title = "Propose"
-Type = "event"
+title = "propose"
+type = "event"
 Description = "Propose a talk for DevOpsDays Detroit 2019"
 +++
 
   {{< cfp_dates >}}
 
 <hr/>
-[Submit your proposal](https://sessionize.com/devopsdaysdet2019/)
+[Submit your proposal!](https://sessionize.com/devopsdaysdet2019/)
 <hr/>
 
 
 # DevopsDays Detroit CFP closes July 30th, 2019
 ## What we’re looking this year
 
-Types of Accepted Proposals 
+Types of Accepted Proposals
 
 - Ignite Talks: 5-minute, auto-forwarding talk.
 - Presentations: A 30-minute talk on a topic of your choice, with some time for questions.
@@ -58,5 +58,5 @@ The Ignite Talks are 5 minute talks with 20 slides (max., 15 seconds per slide) 
 - Open Space Fodder: Will this talk help generate discussion in the Open Spaces?
 
 <hr/>
-[Submit your proposal](https://sessionize.com/devopsdaysdet2019/)
+[Submit your proposal!](https://sessionize.com/devopsdaysdet2019/)
 <hr/>
