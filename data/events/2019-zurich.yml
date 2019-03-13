@@ -236,7 +236,7 @@ program:
     date: 2019-05-14
     start_time: "11:00"
     end_time: "11:30"
-  - title: "nicolas-byl"
+  - title: "huseyin-babal"
     type: talk
     date: 2019-05-14
     start_time: "11:30"
@@ -316,7 +316,7 @@ program:
     date: 2019-05-15
     start_time: "11:00"
     end_time: "11:30"
-  - title: "huseyin-babal"
+  - title: "nicolas-byl"
     type: talk
     date: 2019-05-15
     start_time: "11:30"
@@ -384,5 +384,5 @@ ignites:
     date: 2019-05-15
   - title: "ignite-talk-by-aras-bilgen"
     date: 2019-05-15
-  - title: "ignite-talk"
+  - title: "ignite-talk-by-albert-noll"
     date: 2019-05-15
