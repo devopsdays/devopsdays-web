@@ -10,12 +10,12 @@ startdate: 2019-04-24  # The start date of your event. Leave blank if you don't 
 enddate: 2019-04-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-12-01 # start accepting talk proposals.
-cfp_date_end: 2019-02-03 # close your call for proposals.
-cfp_date_announce: 2019-02-18 # inform proposers of status
+#cfp_date_start: 2018-12-01 # start accepting talk proposals.
+#cfp_date_end: 2019-02-03 # close your call for proposals.
+#cfp_date_announce: 2019-02-18 # inform proposers of status
 
-cfp_open: "true"
-cfp_link: "https://devopsdaysbaltimore2019.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_open: "false"
+#cfp_link: "https://devopsdaysbaltimore2019.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2019-01-31" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2020-01-01" # close registration. Leave blank if registration is not open yet.
@@ -24,6 +24,7 @@ registration_closed: "" #set this to true if you need to manually close registra
 #TODO: Uncomment this when registration opens
 registration_link: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
+
 # Location
 #
 coordinates: "39.286400, -76.605606"
@@ -31,10 +32,12 @@ location: "Baltimore’s Institute of Marine and Environmental Technology (Colum
 location_address: "701 E Pratt St., Baltimore, MD 21202"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ #- name: propose
   - name: location
   - name: registration
- # - name: program
+    url: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new"
+  - name: program
+    url: "https://devopsdaysbaltimore2019.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -156,6 +159,10 @@ sponsors:
   - id: collabnet
     level: platinum
   - id: vmware
+    level: platinum
+  - id: dynatrace
+    level: platinum
+  - id: redhat
     level: platinum
   - id: onyx-point
     level: gold
