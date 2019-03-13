@@ -21,7 +21,7 @@ registration_date_start: 2019-01-10 # start accepting registration. Leave blank 
 registration_date_end: 2019-06-25 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# Note: We use the HTML iframe solution to also advertise that we have direct to invoice as an option. 
+# Note: We use the HTML iframe solution to also advertise that we have direct to invoice as an option.
 #registration_link: "https://dodams2019.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
@@ -109,6 +109,8 @@ sponsors:
     level: gold
   # Silver
   - id: valtech
+    level: silver
+  - id: portworx
     level: silver
   # Lanyards
   - id: developers-nl
