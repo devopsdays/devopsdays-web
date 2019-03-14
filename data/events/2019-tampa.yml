@@ -104,7 +104,10 @@ proposal_email: "proposals-tampa-2019@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: nielsen
     level: venue
-    url: https://nielsen.com # Use this if you need to over-ride a sponsor URL.
+  - id: dynatrace
+    level: platinum
+  - id: gitlab
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
