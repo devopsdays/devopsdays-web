@@ -9,8 +9,8 @@
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Upcoming devopsdays events</title>
-<atom:link href="{{"events/index.xml" | absURL }}" rel="self" type="application/rss+xml" />
-<link>{{ .Permalink | absURL }}</link>
+<atom:link href="{{"/events/index.xml" }}" rel="self" type="application/rss+xml" />
+<link>{{ .Permalink }}</link>
     <description>Upcoming devopsdays events</description>
 <lastBuildDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" now }}</lastBuildDate>
 <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -27,8 +27,8 @@
       {{- else -}}
         <title>devopsdays {{ .city }} {{ .year }} is coming! {{ dateFormat "Monday, January 2, 2006" .startdate }} - {{ dateFormat "Monday, January 2, 2006" .enddate }}</title>
       {{- end -}}
-      <link>{{ (printf "events/%s" .name) | absURL }}</link>
-      <guid>{{ (printf "events/%s" .name) | absURL }}</guid>
+      <link>{{ (printf "/events/%s" .name) }}</link>
+      <guid>{{ (printf "/events/%s" .name) }}</guid>
       <pubDate>{{ dateFormat "Mon, 2 Jan 2006 15:04:05 -0700" now }}</pubDate>
       {{- if .description -}}
         <description>{{.description | markdownify | htmlEscape}}</description>

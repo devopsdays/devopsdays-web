@@ -117,12 +117,12 @@
     {{- with $p -}}
        {{- if isset .Params "image" -}}
           {{- if ne .Params.image "" -}}
-            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
+            <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .Params.image)  }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
           {{- end -}}
           {{- else -}}
-            <img src = "{{"img/speaker-default.jpg" | absURL }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
+            <img src = "{{"/img/speaker-default.jpg"  }}" class="img-fluid"  alt="{{ $.Scratch.Get "speakername" }}"/><br /><br />
         {{- end -}}
-          <h4 class="talk-page"><a href = "{{ (printf "events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) | absURL }}">
+          <h4 class="talk-page"><a href = "{{ (printf "/events/%s/speakers/%s" $e.name ($.Scratch.Get "speakername")) }}">
             {{ .Title }}
           </a></h4>
         {{- if isset .Params "twitter" -}}
@@ -158,7 +158,7 @@
     <br />
           <span class="talk-page content-text">
           {{- if ge (countrunes .Content ) 200 -}}
-            {{ .Content | markdownify | truncate 200 " "}}<a href = "{{ .Permalink | absURL }}">...</a>
+            {{ .Content | markdownify | truncate 200 " "}}<a href = "{{ .Permalink }}">...</a>
           {{- else -}}
             {{ .Content | markdownify }}
           {{- end -}}
@@ -173,7 +173,7 @@
   {{- if in ($.LinkTitle | urlize) $fname -}}
 <div class="row">
    <div class="col-md-12">
-       <img alt = "{{ $s.name }}" src = "{{ (printf "events/%s/speakers/%s.jpg" $e.name $fname) | absURL }}" class="img-responsive" width = "250px">
+       <img alt = "{{ $s.name }}" src = "{{ (printf "/events/%s/speakers/%s.jpg" $e.name $fname) }}" class="img-responsive" width = "250px">
    </div>
 </div>
 <div class = "row">
