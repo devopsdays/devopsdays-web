@@ -34,18 +34,17 @@ Description = "devopsdays Des Moines 2019"
     </div>
     <div class = "row">
       <div class = "col-md-12">
-      <div class = "row justify-content-center">
-        <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://twitter.com/DevOpsDaysDSM">
-            <i class="fa fa-twitter-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
-          </a>
-        </div>
-        <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.linkedin.com/in/devopsdays-desmoines-374931181/">
-            <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On LinkedIn
-          </a>
-        </div>
+        <div class = "row justify-content-center">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://twitter.com/DevOpsDaysDSM">
+              <i class="fa fa-twitter-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter
+            </a>
+          </div>
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.linkedin.com/in/devopsdays-desmoines-374931181/">
+              <i class="fa fa-linkedin-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On LinkedIn
+            </a>
+          </div>
+      </div>
     </div>
 </div>
-
-
