@@ -161,6 +161,13 @@ sponsors:
     level: gold
   - id: cloudbees
     level: gold
+  - id: electriccloud
+    level: gold
+  - id: redgate
+    level: gold
+    url: https://www.red-gate.com/
+  - id: pivotal
+    level: gold
   - id: f5
     level: mealandsnack
   - id: devopsdotcom
