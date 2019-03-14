@@ -5,13 +5,17 @@ event_twitter: "devopsdayscph" # Change this to the twitter handle for your even
 description: "Devopsdays is coming back to Copenhagen!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-04-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-04-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-04-03T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-04T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2018-12-04 # start accepting talk proposals.
-cfp_date_end:  2019-01-21 # close your call for proposals.
+cfp_date_start:  2018-12-04T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2019-01-21T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
@@ -96,9 +100,11 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: unity
     level: community
+  - id: atlassian
+    level: community
   - id: yousee
     level: community
-  - id: atlassian
+  - id: 3shape
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -193,7 +199,6 @@ program:
   - title: "Mob Programming Session #1"
     type: custom
     date: 2019-04-03
-    type: open-space
     start_time: "14:00"
     end_time: "14:45"
   - title: "Break"
@@ -298,6 +303,11 @@ program:
     end_time: "14:25"
   - title: "aubrey-stearn"
     type: talk
+    date: 2019-04-04
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "abdel-fettah"
+    type: workshop
     date: 2019-04-04
     start_time: "14:25"
     end_time: "14:55"

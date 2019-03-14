@@ -1,6 +1,6 @@
 +++
 Title = "Abdelfettah Sghiouar"
-Twitter = ""
+Twitter = "boredabdel"
 image = "abdelfettah-sghiouar.jpg"
 type = "speaker"
 linktitle = "abdelfettah-sghiouar"

@@ -7,7 +7,11 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_logo: "logo.png"
 event_group: "Oslo"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-10-22T00:00:00+02:00
 enddate: 2019-10-23T23:59:59+02:00
 

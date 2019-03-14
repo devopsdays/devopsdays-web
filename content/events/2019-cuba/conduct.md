@@ -1,5 +1,5 @@
 +++
-date = "2017-09-17T16:53:08+02:00"
+date = "2019-03-03T16:53:08+02:00"
 title = "Código de Conducta / Code of Conduct"
 type = "event"
 
