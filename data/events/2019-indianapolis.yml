@@ -103,6 +103,10 @@ sponsors:
     level: community
   - id: dynatrace
     level: gold
+  - id: indypy
+    level: community
+  - id: indyaws
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
