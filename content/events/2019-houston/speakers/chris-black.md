@@ -7,5 +7,5 @@ linktitle = "chris-black"
 
 +++
 
-I am a DevOps and DataOps engineer at Shell, working for the Shell Agile Hub and Shell.ai teams.
+Chris works at Shell on the Shell Agile Hub and Shell.ai team as a Senior Devops Engineer. He’s focusing on DataOps to help devops, data engineers, and data scientists collaborate.
 
