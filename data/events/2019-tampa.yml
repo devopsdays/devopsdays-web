@@ -105,6 +105,12 @@ sponsors:
   - id: nielsen
     level: venue
     url: https://nielsen.com # Use this if you need to over-ride a sponsor URL.
+  - id: dynatrace
+    level: platinum
+    url: https://dynatrace.com # Use this if you need to over-ride a sponsor URL.
+  - id: gitlab
+    level: platinum
+    url: https://gitlab.com # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
