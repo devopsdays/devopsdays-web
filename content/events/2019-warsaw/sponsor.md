@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Philadelphia 2019"
+Description = "Sponsor devopsdays Warsaw 2019"
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
@@ -15,16 +15,7 @@ Gold sponsors get a full table and Silver sponsors a shared table where they can
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<br>
-<center>
-## [Download Our Prospectus Here!](/events/2019-philadelphia/devopsdays_Philadelphia_2019_prospectus.pdf)
-</center>
-<br>
-
 <!--
-![Example image](/events/2019-philadelphia/devopsdays_Philadelphia_2019_prospectus_1.jpg)
-![Example image](/events/2019-philadelphia/devopsdays_Philadelphia_2019_prospectus_2.jpg)
-
 <hr/>
 
 <div style="width:590px">

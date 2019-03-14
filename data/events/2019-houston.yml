@@ -215,7 +215,7 @@ program:
     date: 2019-04-16
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignite Talks (more to come):"
+  - title: "Ignite Talks:"
     type: ignite
     date: 2019-04-16
     start_time: "13:00"
@@ -410,4 +410,9 @@ ignites:
     date: "2019-04-16"
   - title: "jay-gordon"
     date: "2019-04-16"
+  - title: "aaron-aldrich-ignite"
+    date: "2019-04-16"
+  - title: "chris-black"
+    date: "2019-04-16"
+    
     
