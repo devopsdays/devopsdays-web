@@ -96,9 +96,11 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: unity
     level: community
+  - id: atlassian
+    level: community
   - id: yousee
     level: community
-  - id: atlassian
+  - id: 3shape
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -297,6 +299,11 @@ program:
     end_time: "14:25"
   - title: "aubrey-stearn"
     type: talk
+    date: 2019-04-04
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "abdel-fettah"
+    type: workshop
     date: 2019-04-04
     start_time: "14:25"
     end_time: "14:55"
