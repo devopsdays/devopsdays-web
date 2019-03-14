@@ -6,5 +6,5 @@
   {{- else -}}
     {{- $.Scratch.Set "logo" "logo.png" -}}
   {{- end -}}
-  <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src="{{ (printf "events/%s/%s" $e.name ($.Scratch.Get "logo")) | absURL }}" class="welcome-page-event-logo"/>
+  <img alt="devopsdays {{ $e.city }} {{ $e.year }}" src="{{ (printf "/events/%s/%s" $e.name ($.Scratch.Get "logo")) }}" class="welcome-page-event-logo"/>
 {{- end -}}

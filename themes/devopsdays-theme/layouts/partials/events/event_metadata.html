@@ -5,13 +5,13 @@
 {{- if (where (readDir "static/events") "Name" $e.name) -}}
 
   {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "logo.jpg") -}}
-    {{- $.Scratch.Set "image_url" ((printf "events/%s/logo.jpg" $e.name) | absURL) -}}
+    {{- $.Scratch.Set "image_url" ((printf "/events/%s/logo.jpg" $e.name) ) -}}
   {{- else -}}
-    {{- $.Scratch.Set "image_url" ((printf "events/%s/logo.png" $e.name) | absURL) -}}
+    {{- $.Scratch.Set "image_url" ((printf "/events/%s/logo.png" $e.name) ) -}}
   {{- end -}}
 
 {{- else -}}
-    {{- $.Scratch.Set "image_url" ("img/event-logo-square.jpg" | absURL) -}}
+    {{- $.Scratch.Set "image_url" ("/img/event-logo-square.jpg" ) -}}
 {{- end -}}
 
 
@@ -30,7 +30,7 @@
     "name": "devopsdays {{ $e.city }} {{ $e.year }}",
     "startDate": "{{ $e.startdate }}",
     "endDate": "{{ $e.enddate }}",
-    "url": "{{ .Permalink | absURL }}",
+    "url": "{{ .Permalink  }}",
     "image": "{{ $.Scratch.Get "image_url" }}",
     "location": {
       "@type": "Place",

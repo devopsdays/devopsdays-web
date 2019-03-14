@@ -7,12 +7,12 @@
       {{- if eq $e.registration_open "true" -}}
         {{- if $e.registration_link -}}
           {{- if eq $e.registration_link "" -}}
-            {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) | absURL ) -}}
+            {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
           {{- else -}}
             {{- $.Scratch.Set "registration_link" $e.registration_link -}}
           {{- end -}}
         {{- else -}}
-          {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) | absURL ) -}}
+          {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
       {{- end -}}
       <div class = "col-auto  offset-1 offset-md-0 welcome-page-cta">
         <a href="{{ $.Scratch.Get "registration_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Register</a>
@@ -24,12 +24,12 @@
           {{- if and (ge now (time $e.registration_date_start)) (le now (time $e.registration_date_end)) -}}
             {{- if $e.registration_link -}}
               {{- if eq $e.registration_link "" -}}
-                {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) | absURL ) -}}
+                {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
               {{- else -}}
                 {{- $.Scratch.Set "registration_link" $e.registration_link -}}
               {{- end -}}
             {{- else -}}
-              {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) | absURL ) -}}
+              {{- $.Scratch.Set "registration_link" ((printf "/events/%s/registration" $e.name) ) -}}
             {{- end -}}
             {{- if $e.registration_closed -}}
               {{- if ne $e.registration_closed "true" -}}
@@ -54,12 +54,12 @@
       {{- if and (ge now (time $e.cfp_date_start)) (le now (time $e.cfp_date_end)) -}}
         {{- if $e.cfp_link -}}
           {{- if eq $e.cfp_link "" -}}
-            {{- $.Scratch.Set "cfp_link" ((printf "/events/%s/propose" $e.name) | absURL ) -}}
+            {{- $.Scratch.Set "cfp_link" ((printf "/events/%s/propose" $e.name) ) -}}
           {{- else -}}
             {{- $.Scratch.Set "cfp_link" $e.cfp_link -}}
           {{- end -}}
         {{- else -}}
-          {{- $.Scratch.Set "cfp_link" ((printf "/events/%s/propose" $e.name) | absURL ) -}}
+          {{- $.Scratch.Set "cfp_link" ((printf "/events/%s/propose" $e.name) ) -}}
         {{- end -}}
       <div class = "col-auto offset-1 offset-md-0 welcome-page-cta">
         <a href="{{ $.Scratch.Get "cfp_link" }}" class="btn jssocials-share-link event-cta-button" role="button" aria-pressed="true">Propose</a>
