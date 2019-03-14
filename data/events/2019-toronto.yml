@@ -91,7 +91,7 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
-  - id: slolam-build
+  - id: slalom-build
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
