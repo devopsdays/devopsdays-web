@@ -150,6 +150,8 @@ sponsors:
     level: evening
   - id: logdna
     level: evening
+  - id: oraclecloud
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -273,7 +275,7 @@ program:
     date: 2019-04-23
     start_time: "17:00"
     end_time: "17:15"
-  - title: "Evening Reception sponsored by Chef"
+  - title: "Evening Reception sponsored by Chef, LogDNA and Oracle"
     type: custom
     date: 2019-04-23
     start_time: "17:15"
