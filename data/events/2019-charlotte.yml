@@ -5,7 +5,11 @@ event_twitter: "devopsdays_clt" # Change this to the twitter handle for your eve
 description: "Devopsdays is coming back to Charlotte!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-02-07T00:00:00-05:00
 enddate: 2019-02-08T23:59:59-05:00
 

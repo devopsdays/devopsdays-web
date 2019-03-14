@@ -6,14 +6,18 @@ event_twitter: "dodpanama"
 ga_tracking_id: "UA-124724975-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
-startdate: 2019-09-24 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-09-25 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-09-24T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-25T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-03-06 # start accepting talk proposals.
-cfp_date_end: 2019-06-06 # close your call for proposals.
-cfp_date_announce: 2019-06-13 # inform proposers of status
+cfp_date_start: 2019-03-06T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2019-06-06T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2019-06-13T23:59:59-05:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/cfps/2011/submissions/new"
