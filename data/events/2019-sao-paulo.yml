@@ -6,7 +6,11 @@ description: "Devopsdays está chegando em São Paulo!" # Edit this to suit your
 ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "São Paulo"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-04-10T00:09:00-03:00
 enddate: 2019-04-11T18:00:00-03:00
 

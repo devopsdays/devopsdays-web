@@ -4,14 +4,8 @@
   {{-  $.Scratch.Set "sharing_title" "devopsdays" -}}
 {{- end -}}
 
-<!-- set strutured metadata -->
-{{- if .IsPage -}}
-  {{- if or (eq .Type "welcome") (eq .Type "event") -}}
-    {{- partial "events/event_metadata.html" . -}}
-  {{- end -}}
-{{- end -}}
 <!-- end metadata -->
-<script src={{"js/devopsdays-min.js" | absURL}}></script>
+<script src={{"/js/devopsdays-min.js"}}></script>
 {{- if .IsPage -}}
 
   {{ if eq (index (split (.Permalink | relURL) "/") 1) "events" }}

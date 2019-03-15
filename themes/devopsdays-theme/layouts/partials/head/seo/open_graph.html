@@ -5,22 +5,22 @@
   <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
 {{- end -}}
 <meta property="og:type" content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
-<meta property="og:url" content="{{ .Permalink | absURL }}" />
+<meta property="og:url" content="{{ .Permalink | relURL }}" />
 {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
   {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
   {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
   {{- if (where (readDir "static/events") "Name" $e.name) -}}
     {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") -}}
-      {{- $.Scratch.Set "sharing_url" ((printf "events/%s/sharing.jpg" $e.name ) | absURL) -}}
+      {{- $.Scratch.Set "sharing_url" ((printf "events/%s/sharing.jpg" $e.name ) ) -}}
     {{- else -}}
-      {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+      {{- $.Scratch.Set "sharing_url" ("/img/sharing.jpg" ) -}}
     {{- end -}}
   {{- end -}}
 {{- else -}}
   {{- with .Params.sharing_image -}}
-    {{- $.Scratch.Set "sharing_url" ( . | absURL ) -}}
+    {{- $.Scratch.Set "sharing_url" ( . ) -}}
   {{- else -}}
-    {{- $.Scratch.Set "sharing_url" ("img/sharing.jpg" | absURL ) -}}
+    {{- $.Scratch.Set "sharing_url" ("/img/sharing.jpg" ) -}}
   {{- end -}}
 {{- end -}}
 <meta property="og:image" content="{{ $.Scratch.Get "sharing_url" }}" />
