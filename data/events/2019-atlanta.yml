@@ -233,7 +233,7 @@ program:
     start_time: "12:35"
     end_time: "13:35"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2019-04-09
     start_time: "13:35"
     end_time: "14:05"
@@ -253,15 +253,20 @@ program:
     start_time: "15:15"
     end_time: "15:55"
   - title: "Open Space #3: Visit the Aquarium"
-    type: ignite
+    type: custom
     date: 2019-04-09
     start_time: "16:00"
     end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+    background_color: "#00A8A8"
   - title: "Evening event- at Suite ATL"
     type: custom
     date: 2019-04-09
     start_time: "17:00"
     end_time: "late"
+    custom_url: "http://suiteatl.com/"
+    
+
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-04-10
@@ -347,7 +352,7 @@ program:
     start_time: "12:35"
     end_time: "13:35"
   - title: "Ignites"
-    type: custom
+    type: ignite
     date: 2019-04-10
     start_time: "13:35"
     end_time: "14:05"
@@ -367,8 +372,28 @@ program:
     start_time: "15:15"
     end_time: "15:55"
   - title: "Open Space #3: Visit the Aquarium"
-    type: ignite
+    type: custom
     date: 2019-04-10
     start_time: "16:00"
     end_time: "16:45"
- 
+    background_color: "#00A8A8"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+
+ignites:
+  - title: "jj-asghar"
+    date: 2019-04-09
+  - title: "caroline-dickey"
+    date: 2019-04-09
+  - title: "aaron-aldrich"
+    date: 2019-04-09
+  - title: "jeff-lu"
+    date: 2019-04-09
+  
+  - title: "ian-rose"
+    date: 2019-04-10
+  - title: "arti-mashalkar"
+    date: 2019-04-10
+  - title: "ravi-lachman"
+    date: 2019-04-10
+  - title: "josh-atwell"
+    date: 2019-04-10
