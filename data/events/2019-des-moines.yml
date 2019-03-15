@@ -241,8 +241,8 @@ program:
     date: 2019-05-03
     start_time: "13:00"
     end_time: "13:30"
-  - title: "ryan-bergman"
-    type: talk
+  - title: ""
+    type: custom
     date: 2019-05-03
     start_time: "13:30"
     end_time: "14:30"
