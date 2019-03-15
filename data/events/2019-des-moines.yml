@@ -185,8 +185,8 @@ program:
     date: 2019-05-02
     start_time: "14:30"
     end_time: "14:45"
-  - title: ""
-    type: custom
+  - title: "brian-hostetter"
+    type: talk
     date: 2019-05-02
     start_time: "14:45"
     end_time: "15:30"
@@ -221,13 +221,18 @@ program:
     date: 2019-05-03
     start_time: "10:15"
     end_time: "11:00"
+  - title: "lee-barnes"
+    type: talk
+    date: 2019-05-03
+    start_time: "10:15"
+    end_time: "11:00"
   - title: "Break"
     type: custom
     date: 2019-05-03
     start_time: "11:00"
     end_time: "11:15"
   - title: "eric-hendricks"
-    type: custom
+    type: talk
     date: 2019-05-03
     start_time: "11:15"
     end_time: "12:00"
