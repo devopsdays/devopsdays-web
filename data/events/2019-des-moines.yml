@@ -266,11 +266,6 @@ program:
     date: 2019-05-03
     start_time: "15:30"
     end_time: "17:00"
-  - title: "Party!"
-    type: custom
-    date: 2019-05-03
-    start_time: "17:00"
-    end_time: "20:00"
 
 ignites:
   - title: "aaron-blythe"
