@@ -201,8 +201,6 @@ sponsors:
   level: gold
 - id: itris
   level: gold
-- id: avectris
-  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
