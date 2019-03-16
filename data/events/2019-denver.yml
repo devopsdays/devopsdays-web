@@ -43,8 +43,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
  # - name: speakers
   - name: sponsor
-  - name: CFP Link
-    url: https://www.papercall.io/dod-den-2019
+#  - name: CFP Link
+#    url: https://www.papercall.io/dod-den-2019
   - name: contact
   - name: conduct
 # - name: example
