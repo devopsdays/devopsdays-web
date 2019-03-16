@@ -35,7 +35,7 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: program
