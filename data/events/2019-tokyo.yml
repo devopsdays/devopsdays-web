@@ -30,6 +30,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  url: https://confengine.com/devopsdays-tokyo-2018/schedule
   - name: location
   - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-tokyo-2019-tickets-52857940523
   - name: sponsor
   - name: contact
   - name: conduct
