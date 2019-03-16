@@ -98,7 +98,7 @@ team_members: # Name is the only required field for team members.
     bio: "Enabling companies to develop testing capabilities across DevOps."
     linkedin: "https://www.linkedin.com/in/d-vieira/"
   - name: "Camila Santos"
-    employer: "VR Benefícios"
+    employer: "C6 Bank"
     image: "camila-santos.jpg"
     bio: "Software Test Analyst Senior, enthusiast DevOps and Agile culture, mother of a wonderful boy and don't dispense a good cold beer."
     linkedin: "https://www.linkedin.com/in/camilafrasan/"
@@ -141,6 +141,8 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: 4linux-2019
     level: silver
+  - id: cabify
+    level: silver
   - id: adaptnow
     level: bronze
   - id: arresteddevops
@@ -155,6 +157,10 @@ sponsors:
   - id: test-girls
     level: community
   - id: gatilho-kosmico
+    level: community
+  - id: infoqbr
+    level: community
+  - id: rails-girls-sp
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -290,7 +296,7 @@ program:
     start_time: "9:00"
     end_time: "9:15"
 
-  - title: ""
+  - title: "jaqueline-ramos"
     type: talk
     date: "2019-04-11"
     start_time: "9:15"
