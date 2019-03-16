@@ -2,9 +2,7 @@ name: "2019-london" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "London" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays is coming to London!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-
+description: "DevOpsDays is coming to London!" # Edit this to suit your preferences ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -91,6 +89,8 @@ sponsors:
     level: evening
     # Gold
   - id: circleci
+    level: gold
+  - id: influxdata
     level: gold
   - id: pivotal
     level: gold
