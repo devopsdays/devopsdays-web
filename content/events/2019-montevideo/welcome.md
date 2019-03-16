@@ -38,7 +38,7 @@ Description = "DevOpsDays Montevideo 2019"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Proponer</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Proponga una charla" >}}
