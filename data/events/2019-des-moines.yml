@@ -98,6 +98,8 @@ sponsors:
     level: gold
   - id: granular
     level: gold
+  - id: hashicorp
+    level: gold
   - id: john-deere
     level: gold
   - id: signalfx
