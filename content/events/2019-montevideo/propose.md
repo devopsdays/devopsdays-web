@@ -27,7 +27,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Follow the steps below. If you run into any issues, don't hesitate to email us at: [{{< email_proposals >}}] with any questions, or doubts you might needs answered to complete you CFP submission.
+<strong>How to submit a proposal:</strong> Follow the steps below. If you run into any issues, don't hesitate to email us at: [{{< email_proposals >}}] with any questions, or doubts you might need answered to complete your CFP submission.
 <ol>
   <li>Go to PaperCall.io at: https://www.papercall.io/devopsdaysmvd2019. Read the instructions, theen go to the bottom of the page, click on the button labeled <strong>"Speak at DevOpsDays Montevideo 2019!"</strong>, and complete the sections below.</li>
 	<li>Type (presentation, panel discussion, ignite)</li>
