@@ -17,13 +17,11 @@ Description = "Sponsor DevopsDays Denver!"
   <h4>Sponsor Pay Links</h4>
   <table>
     <tr style="background-color: silver;">
-      <th style="text-align: center;">Supporter (max 4)</th>
-      <th style="text-align: center;">Silver (max 8)</th>
-      <th style="text-align: center;">Gold (max 8)</th>
-      <th style="text-align: center;">Happy Hour Social</th>
+      <th style="text-align: center;">Supporter</th>
     </tr>
     <tr style="text-align: center;">
       <td>
+        1 left<br/>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
         <input type="hidden" name="cmd" value="_s-xclick">
         <input type="hidden" name="hosted_button_id" value="JTJLYYCUD2RXJ">
@@ -31,18 +29,6 @@ Description = "Sponsor DevopsDays Denver!"
         <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
         $500
-      </td>
-      <td style="background-color: #f0f0f0">
-        Almost Sold Out.<br/>Please contact via <br/><a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $4,500
-      </td>
-      <td>
-        Almost Sold Out.<br/>Please contact via <br/><a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $6,500
-      </td>
-      <td style="background-color: #f0f0f0">
-        Please contact via <a href="mailto:organizers-denver-2019@devopsdays.org">email</a>.<br/>
-        $8,000
       </td>
     </tr>
   </table>

@@ -11,8 +11,6 @@ slides = ""
 +++
 
 
-Como foi a sua experiência ao lidar com o seu último grande incidente? Entender como agir em equipe durante um grande incidente é essencial para limitar o seu impacto. Nesta palestra vamos aprender como a equipe Google SRE lida com grandes incidentes de forma rápida e efetiva.
+We had develop the best solutions for our business thru suppliers, delegating all tech skills and people in order to deliver SW, OPS and SEC. Facing the first symptoms of the lack of digital transf. we are under war mode. Do you wanna know how culture and mindset change are in a huge enterprise?
 
-Em todos os serviços que tem o suporte de uma equipe SRE há sempre a preparação para que este seja resistente a falhas. Mesmo assim, haverá um dia em que um grande incidente vai acontecer, e aí o impacto é determinado principalmente pelas práticas resposta de incidente da equipe responsável pelo serviço.
-
-O grande desafio é que a maioria das pessoas não tem uma resposta natural que favoreça uma resposta efetiva nestes casos. A equipe Google SRE tem um protocolo sobre como lidar com incidentes maiores de forma bastante efetiva. Nós vamos entender como o protocolo funciona e vamos falar sobre treinamentos de resposta de incidentes para as pessoas oncall para cada serviço.
+For many years, we developed the best solutions for our business thru suppliers, delegating all tech skills and people in order to deliver SW, OPS and SEC. Facing the first symptoms of the lack of digital transf. we are aim to re-invent our IT modus operandi and how we delivery our business solutions. This is not a easy path on a Enterprise, lots of culture and mindset changes are needed to move on. From global alignments and local decisions we wanna show how this journey have been happening in one of the biggest companies in the world.

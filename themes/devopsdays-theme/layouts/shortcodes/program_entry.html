@@ -10,7 +10,7 @@
     {{- with .Get "presenter" -}}
       {{- $fname := . -}}
       {{- $s := index $.Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) . -}}
-      -- <a href="{{ (printf "events/%s/program/%s" $e.name $fname) | absURL }}">{{ $s.name }}</a>
+      -- <a href="{{ (printf "/events/%s/program/%s" $e.name $fname) }}">{{ $s.name }}</a>
     {{- end -}}
   </div>
 </div> <!-- end timeslot div -->

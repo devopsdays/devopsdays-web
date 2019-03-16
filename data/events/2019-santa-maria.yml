@@ -1,0 +1,161 @@
+name: "2019-santa-maria" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Santa Maria" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdays"
+description: "Devopsdays está em Santa Maria!"
+ga_tracking_id: ""
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-08-24T00:00:00-03:00
+enddate: 2019-08-24T23:59:59-03:00
+
+cfp_date_start: 2019-03-12T00:00:00-03:00
+cfp_date_end: 2019-06-30T23:59:59-03:00
+cfp_date_announce: 2019-07-07T00:00:00-03:00
+
+cfp_open: "true"
+cfp_link: "/events/2019-santa-maria/cfp"
+
+registration_date_start: 2019-03-12T00:00:00-03:00
+registration_date_end: 2019-08-23T23:59:59-03:00
+
+registration_closed: "" # true/false
+registration_link: "https://polvotickets.com.br/e/devopsdayssm19"
+
+masthead_background: "bgtitle.jpg"
+
+coordinates: "-29.6822709,-53.869387"
+location: "Tecnoparque Santa Maria, Brazil"
+location_address: "Av. Pedro Cezar Saccol, 555 - Distrito Indidustrial"
+
+nav_elements:
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2019-santa-maria/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2019-santa-maria/program
+  - name: Local
+    icon: "map-o"
+    url: /events/2019-santa-maria/location
+  - name: Palestre (CFP)
+    icon: "microphone"
+    url: /events/2019-santa-maria/cfp
+  - name: Conduta
+    icon: "handshake-o"
+    url: /events/2019-santa-maria/conduta
+  - name: Inscreva-se
+    icon: "user-plus"
+    url: https://polvotickets.com.br/e/devopsdayssm19
+  - name: Patrocinio
+    icon: "money"
+    url: /events/2019-santa-maria/sponsor
+  - name: Contato
+    icon: "envelope-o"
+    url: /events/2019-santa-maria/contact
+
+
+team_members:
+  - name: "Tonin R. Bolzan"
+    employer: "Metrosoft S/A"
+    github: "tonybolzan"
+    facebook: "https://www.facebook.com/tonybolzan"
+    linkedin: "https://www.linkedin.com/in/tonin-r-bolzan-061926162"
+    website: "https://bolzan.io"
+
+  - name: "Leandro Rossi"
+  - name: "Jaime Maretoli"
+  - name: "Marcio Fiorenza"
+
+organizer_email: "organizers-santa-maria-2019@devopsdays.org"
+proposal_email: "proposals-santa-maria-2019@devopsdays.org"
+
+sponsors_accepted : "yes"
+
+sponsor_levels:
+  - id: platinum
+    label: Platina
+    max: 1
+  - id: gold
+    label: Ouro
+    max: 4
+  - id: silver
+    label: Prata
+    max: 0
+  - id: bronze
+    label: Bronze
+    max: 0
+  - id: community
+    label: Comunidade
+    max: 0
+
+sponsors:
+ - id: appelsoft
+   level: community
+ - id: metrosoftsa
+   level: community
+
+program:
+  - title: "Abertura"
+    type: custom
+    date: "2019-08-24"
+    start_time: "08:00"
+    end_time: "08:30"
+  
+  - title: "Palestra 1"
+    type: custom
+    date: "2019-08-24"
+    start_time: "08:30"
+    end_time: "09:30"
+  
+  - title: "Palestra 2"
+    type: custom
+    date: "2019-08-24"
+    start_time: "09:30"
+    end_time: "10:30"
+  
+  - title: "Palestra 3"
+    type: custom
+    date: "2019-08-24"
+    start_time: "10:30"
+    end_time: "11:30"
+  
+  - title: "Almoço"
+    type: custom
+    date: "2019-08-24"
+    start_time: "11:30"
+    end_time: "13:00"
+  
+  - title: "Palestra 4"
+    type: custom
+    date: "2019-08-24"
+    start_time: "13:00"
+    end_time: "14:00"
+  
+  - title: "Palestra 5"
+    type: custom
+    date: "2019-08-24"
+    start_time: "14:00"
+    end_time: "15:00"
+  
+  - title: "Pausa"
+    type: custom
+    date: "2019-08-24"
+    start_time: "15:00"
+    end_time: "15:30"
+  
+  - title: "Palestra 6"
+    type: custom
+    date: "2019-08-24"
+    start_time: "15:30"
+    end_time: "16:30"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2019-08-24"
+    start_time: "16:45"
+    end_time: "17:00"

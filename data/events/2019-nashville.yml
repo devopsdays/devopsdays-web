@@ -5,20 +5,24 @@ event_twitter: "devopsbna2019" # Change this to the twitter handle for your even
 description: "Devopsdays In Nashville returns in 2019" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-05-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-05-10 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-09T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-10T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-11-01 # start accepting talk proposals.
-cfp_date_end: 2019-02-01 # close your call for proposals.
-cfp_date_announce: 2019-03-01 # inform proposers of status
+cfp_date_start: 2018-11-01T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2019-02-01T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2019-03-01T23:59:59-06:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-10-08 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-05-03 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-10-08T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-03T23:59:59-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://pheedloop.com/register/devopsdaysnashville/attendee/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -77,6 +81,8 @@ sponsors:
   - id: twistlock
     level: bronze
   - id: silexdatasolutions
+    level: gold
+  - id: newrelic
     level: gold
   - id: redhat
     level: community

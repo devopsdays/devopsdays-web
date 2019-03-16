@@ -5,19 +5,23 @@ event_twitter: "DevOpsDaysBuf" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Buffalo!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-09-26
-enddate: 2019-09-27
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-09-26T00:00:00-04:00
+enddate: 2019-09-27T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-02-13
-cfp_date_end: 2019-03-30
-cfp_date_announce: 2019-04-01
+cfp_date_start: 2019-02-13T00:00:00-05:00
+cfp_date_end: 2019-03-30T23:59:59-04:00
+cfp_date_announce: 2019-04-01T23:59:59-04:00
 
 cfp_link: "https://www.papercall.io/dodbflo19" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2019-02-13
-registration_date_end: 2019-09-27
+registration_date_start: 2019-02-13T00:00:00-05:00
+registration_date_end: 2019-09-27T23:59:59-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://ti.to/devops-days-buffalo-2019/dodBFLO2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.

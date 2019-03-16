@@ -3,9 +3,14 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-05-14T00:00:00+02:00
 enddate: 2019-05-15T23:59:59+02:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
@@ -188,6 +193,14 @@ sponsors:
   level: community
 - id: zhlke
   level: bronze
+- id: googlecloud
+  level: platinum
+- id: avectris
+  level: bronze
+- id: netapp
+  level: gold
+- id: itris
+  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
@@ -234,7 +247,7 @@ program:
     date: 2019-05-14
     start_time: "11:00"
     end_time: "11:30"
-  - title: "nicolas-byl"
+  - title: "huseyin-babal"
     type: talk
     date: 2019-05-14
     start_time: "11:30"
@@ -314,7 +327,7 @@ program:
     date: 2019-05-15
     start_time: "11:00"
     end_time: "11:30"
-  - title: "huseyin-babal"
+  - title: "nicolas-byl"
     type: talk
     date: 2019-05-15
     start_time: "11:30"
@@ -382,5 +395,5 @@ ignites:
     date: 2019-05-15
   - title: "ignite-talk-by-aras-bilgen"
     date: 2019-05-15
-  - title: "ignite-talk"
+  - title: "ignite-talk-by-albert-noll"
     date: 2019-05-15

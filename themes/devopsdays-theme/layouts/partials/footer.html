@@ -48,7 +48,7 @@
       {{- range sort $.Site.Data.events "startdate" -}}
         {{- if .cfp_date_end -}}
           {{- if and (ge now (time .cfp_date_start)) (ge (time .cfp_date_end) now) -}}
-            <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "footer-content">{{ .city }}</a><br />
+            <a href = "{{ (printf "/events/%s" .name) }}" class = "footer-content">{{ .city }}</a><br />
           {{- end -}} {{/* end: date is now or afterwards */}}
         {{- end -}} {{/* end: if .cfp_date_end */}}
       {{- end -}} {{/* end: range sort $.Site.Data.events "startdate" */}}
@@ -63,7 +63,7 @@
     <br />
     <br />
     <a href="https://www.netlify.com">
-      <img src="{{ "img/netlify-light.png" | absURL }}" alt="Deploys by Netlify">
+      <img src="{{ "/img/netlify-light.png" }}" alt="Deploys by Netlify">
     </a>
 </div>
     </div>

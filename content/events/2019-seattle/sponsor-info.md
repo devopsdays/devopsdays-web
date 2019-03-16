@@ -70,7 +70,7 @@ Gold sponsors will be able to choose the location in the venue of your sponsor t
 With that said, we've been told that we have one of the most welcoming sponsor areas of any DevOpsDays event and will do everything in our power to make sure there's no such thing as a "bad table spot".
 
 Floor Plan<br>
-<a href="/events/2019-seattle/floor-plan.jpg"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/floor-plan.jpg"></a>
+<a href="/events/2019-seattle/2019-floor-plan.png"><img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2019-seattle/2019-floor-plan.png"></a>
 
 #### Gold Sponsors
 * 6 foot table with two chairs
