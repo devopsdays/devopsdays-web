@@ -5,9 +5,9 @@ aliases = ["/events/2019-montevideo/"]
 Description = "DevOpsDays Montevideo 2019"
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -36,14 +36,14 @@ Description = "DevOpsDays Montevideo 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Proponga una charla" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -68,7 +68,7 @@ Description = "DevOpsDays Montevideo 2019"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    {{< event_link page="sponsor" text="Patrocine la conferencia" >}}
   </div>
 </div>
 
@@ -77,7 +77,7 @@ Description = "DevOpsDays Montevideo 2019"
     <strong>Contacto</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    {{< event_link page="contact" text="Contactarse con los organizadores" >}}
   </div>
 </div>
 
