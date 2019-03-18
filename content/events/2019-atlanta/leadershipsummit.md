@@ -3,11 +3,14 @@ Title = "Leadership Summit"
 Type = "event"
 Description = ""
 +++
-
+<p>
 In the leadership summit we will be discussing strategic frameworks and case studies focused on value realization, change management, roadmapping, security and architecture. The leadership session is limited to 40 execs to provide an intimate setting for dialogue, inquiry, and learning.
-<br/><br/>
+</p>
+<p style="font-weight:bold">This event is on Monday April 8th at <a href="https://academy.gatech.edu/">The Historic Academy of Medicine</a>. Attendance is limited to 40 people.</p>
+<p style="font-weight:bold"> Admission is only $40, but requires an application. To apply for admission <a href="https://www.surveymonkey.com/r/AtlantaLeadershipSummit">please complete this survey.</a> </p>
 
-Leadership Summit Agenda:
+
+Monday, April 8th Leadership Summit Agenda:
 <table>
 <tr><td>9:00am&nbsp;</td><td>Doors Open - Book Signings w/ David Moschella &amp; John Willis</td></tr>
 <tr><td>9:30 - 9:45&nbsp;</td><td>Welcome</td></tr>
