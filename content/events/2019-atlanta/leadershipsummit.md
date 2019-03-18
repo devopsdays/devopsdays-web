@@ -28,7 +28,7 @@ Monday, April 8th Leadership Summit Agenda:
 
 <div class="row">
 <div class="">
-		<img src="/events/2019-atlanta/speakers/david-moschella.jpg" class="img-fluid" alt="David Moschella">
+		<img width="200" src="/events/2019-atlanta/speakers/david-moschella.jpg" class="img-fluid" alt="David Moschella">
 		<p>David Moschella - Seeing Digital</p>
 		<p style="padding-bottom: 30px;">The Post-Cloud era has already begun. A powerful wave of new technologies, including machine learning, smart products, software agents, wearables, blockchains, speech/facial recognition, robotics, augmented realities, algorithms, and 5G wireless bandwidth is creating a digital world that is pervasive, embedded, aware, and autonomous. It's less a cloud of services somewhere “out there,” than a ubiquitous Matrix of intelligent capabilities. Seeing Digital shows how these exciting innovations will transform the industries, organizations, and careers of the 2020s.</p>
 	</div>
