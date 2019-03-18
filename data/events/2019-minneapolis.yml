@@ -162,6 +162,8 @@ sponsors:
     level: platinum
   - id: technovation-mn
     level: community
+  - id: countryfinancial
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

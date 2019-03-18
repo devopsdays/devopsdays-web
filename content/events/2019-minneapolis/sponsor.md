@@ -19,7 +19,7 @@ Additional à la carte sponsorships are available:
 <ul>
 <li>Day 1 all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
 <li>Day 1 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
-<li>Day 1 lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
+<li>Day 1 lunch ($3500) - 1 slot available - signage by the lunch service with your logo during lunch
 <li>Day 1 afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
 <li>Day 1 evening happy hour ($4000) - 2 slots available - signage at the evening happy hour
 </ul>
@@ -28,7 +28,7 @@ Additional à la carte sponsorships are available:
 <li>Day 2 all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
 <li>Day 2 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
 <li>Day 2 lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
-<li>Day 2 afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
+<li>Day 2 afternoon break ($1000) - 1 slot available - signage by the snack area with your logo during the afternoon when snacks are available
 </ul>
 
 These may be purchased in addition to (or in lieu of) the platinum, gold, and silver sponsorships in the prospectus. An à la carte sponsorship by itself does not come with a table; you must have a platinum, gold, or silver sponsorship to be assigned a table you can staff.
