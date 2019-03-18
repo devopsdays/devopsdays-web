@@ -2,6 +2,7 @@
 Title = "John Esser"
 Twitter = "johndesser"
 type = "speaker"
+image = "john-esser.jpg"
 linktitle = "john-esser"
 
 +++
