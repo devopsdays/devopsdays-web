@@ -27,4 +27,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdV_obd_nrLTq8r0AkwYyBJxuRXxVcm7lRcDn7cQaR4FW-0Zg/viewform?embedded=true" width="760" height="1900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
