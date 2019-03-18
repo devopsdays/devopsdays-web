@@ -163,6 +163,7 @@ sponsor_levels:
     max: 4 
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
 program:
