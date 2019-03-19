@@ -1,7 +1,7 @@
 +++
 Title = "Eric Hendricks"
 Twitter = "Eric_TheITGuy"
-image = ""
+image = "eric-hendricks.jpg"
 type = "speaker"
 linktitle = "eric-hendricks"
 
