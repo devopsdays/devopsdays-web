@@ -3,9 +3,14 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-05-14T00:00:00+02:00
 enddate: 2019-05-15T23:59:59+02:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
@@ -22,7 +27,7 @@ location: "Umweltarena Zürch" # Defaults to city, but you can make it the venue
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: speakers
-#  - name: program
+  - name: program
   - name: location
   - name: registration
   - name: propose
@@ -188,6 +193,14 @@ sponsors:
   level: community
 - id: zhlke
   level: bronze
+- id: googlecloud
+  level: platinum
+- id: avectris
+  level: bronze
+- id: netapp
+  level: gold
+- id: itris
+  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
@@ -202,7 +215,185 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   label: Bronze
 - id: community
   label: Community
+
 program:
+  - title: "Registration & Welcome Coffee"
+    type: custom
+    date: 2019-05-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2019-05-14
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mary-poppendieck"
+    type: talk
+    date: 2019-05-14
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "talk-1"
+    type: talk
+    date: 2019-05-14
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-14
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "oleg-nenashev"
+    type: talk
+    date: 2019-05-14
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "huseyin-babal"
+    type: talk
+    date: 2019-05-14
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "jacqueline-sloves"
+    type: talk
+    date: 2019-05-14
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-05-14
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2019-05-14
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-14
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "areti-panou"
+    type: talk
+    date: 2019-05-14
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: 2019-05-14
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "workshop-with-peter-gfader-and-patrick-baumgartner"
+    type: workshop
+    date: 2019-05-14
+    start_time: "15:00"
+    end_time: "16:30"
+  - title: "workshop-with-matteo-baiguini-and-paolo-carta"
+    type: workshop
+    date: 2019-05-14
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-05-14
+    start_time: "17:20"
+    end_time: "17:30"
+  - title: "Registration & Coffe"
+    type: custom
+    date: 2019-05-15
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2019-05-15
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2019-05-15
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "florian-krausbeck"
+    type: talk
+    date: 2019-05-15
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-15
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "nicolas-frankel"
+    type: talk
+    date: 2019-05-15
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "nicolas-byl"
+    type: talk
+    date: 2019-05-15
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "adam-nowak"
+    type: talk
+    date: 2019-05-15
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-05-15
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2019-05-15
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-15
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "johan-abildskov"
+    type: talk
+    date: 2019-05-15
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: 2019-05-15
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "workshop-with-jochen-reinholdt"
+    type: workshop
+    date: 2019-05-15
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "workshop-with-jorge-salamero"
+    type: workshop
+    date: 2019-05-15
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-05-15
+    start_time: "17:20"
+    end_time: "17:30"
 
 ignites:
-
+  - title: "ignite-talk-by-mikhail-advani"
+    date: 2019-05-14
+  - title: "ignite-talk-by-matthias-fritschi"
+    date: 2019-05-14
+  - title: "ignite-talk-by-romano-roth"
+    date: 2019-05-14
+  - title: "ignite-talk-by-daniel-maher"
+    date: 2019-05-14
+  - title: "ignite-talk-by-bastian-bukatz"
+    date: 2019-05-15
+  - title: "ignite-talk-by-anton-babenko"
+    date: 2019-05-15
+  - title: "ignite-talk-by-alex-lichtenberger"
+    date: 2019-05-15
+  - title: "ignite-talk-by-aras-bilgen"
+    date: 2019-05-15
+  - title: "ignite-talk-by-albert-noll"
+    date: 2019-05-15

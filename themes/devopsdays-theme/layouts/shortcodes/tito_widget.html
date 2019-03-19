@@ -1,0 +1,4 @@
+<script src='https://js.tito.io/v1' async></script>
+<link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+<tito-widget event="{{ .Get "event"  }}" {{ if (.Get "releases") }} releases="{{ with .Get "releases" }}{{.}}{{ end }}"{{ end }} {{ if (.Get "discount-code" )}} discount-code="{{ with .Get "discount-code" }}{{ . }}{{ end }}"{{ end }}></tito-widget>
+

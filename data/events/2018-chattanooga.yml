@@ -4,7 +4,6 @@ city: "Chattanooga" # The displayed city name of the event. Capitalize it.
 event_twitter: "ChaDevOpsDays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Chattanooga, Tennessee!" # Edit this to suit your preferences
 ga_tracking_id: "UA-122945114-1"
-event_group: "Chattanooga"
 
 masthead_background: "chattanooga-masthead.jpg"
 

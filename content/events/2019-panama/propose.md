@@ -1,5 +1,5 @@
 +++
-date = "2018-06-17T16:53:08+02:00"
+date = "2019-03-03T16:53:08+02:00"
 title = "Proponer / Propose"
 type = "event"
 +++
@@ -62,7 +62,7 @@ Adicionalmente se aceptarán presentaciones relacionadas con temas presentados e
   - Se aceptan múltiples propuestas...solo siga las otras reglas. / *Multiple proposals are welcome… just follow the other rules*
 
 
-El envío de sus propuestas debe hacerse empleando el sitio / *You can send your prupose vía*: **[PaperCall.io](https://www.papercall.io/devopsdayspanama-2019)** 
+El envío de sus propuestas debe hacerse empleando el sitio / *You can send your prupose vía*: **[PaperCall.io](https://www.papercall.io/dodpan19)** 
 
 El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2019-panama/program/). / El comité organizador seleccionará las presentaciones notificando con antelación la inclusión en el [programa oficial del evento](https://www.devopsdays.org/events/2017-cuba/program/). / *The organizer team will select the presentations and notify their inclusion on [official event program](https://www.devopsdays.org/events/2019-panama/program/)*
 

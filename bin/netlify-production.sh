@@ -1,4 +1,4 @@
-# npm rebuild
+npm rebuild
 hugo version
 hugo --theme=devopsdays-theme --buildDrafts=false --baseURL="$URL/"
-# gulp
+gulp

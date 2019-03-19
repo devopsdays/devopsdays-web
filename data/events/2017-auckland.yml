@@ -77,7 +77,7 @@ organizer_email: "organisers-auckland-2017@devopsdays.org" # Put your organizer 
 sponsors:
   - id: 2016-assurity
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: SECTION6
     level: gold

@@ -1,39 +1,43 @@
 name: "2019-tampa" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
-city: "Tampa" # The displayed city name of the event. Capitalize it.
+city: "Tampa Bay" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaystampa" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Tampa Bay!" # Edit this to suit your preferences
 ga_tracking_id: "UA-127670911-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-06-07T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-06-07T23:59:59-04:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-03-08T00:00:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-04-12T23:59:59-04:00  # close your call for proposals.
+cfp_date_announce: 2019-04-19T23:59:59-04:00  # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-03-11T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-06-02T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "27.947896,-82.457335" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Tampa" # Defaults to city, but you can make it the venue name.
+coordinates: "28.047912,-82.655489" #  The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Tampa Bay" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "501 Brooker Creek Blvd, Oldsmar, FL 34677" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
+  - name: propose
+  - name: location
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -79,13 +83,22 @@ team_members: # Name is the only required field for team members.
     website: "http://www.teksystems.com/en"
     linkedin: "https://www.linkedin.com/in/devon-ford-997b30bb/"
     image: "devonford.jpg" 
+  - name: "Nathan Whitley"
+    employer: "Nielsen"
+    website: "http://www.nielsen.com/"
+    linkedin: "https://www.linkedin.com/in/nathan-whitley-24080253/"
+    image: "nathanwhitley.jpg" 
   - name: "Keith Sartain"
     employer: "ConnectWise"
     facebook: "https://www.facebook.com/kbsartain"
     linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
     website: "http://connectwise.com"
+    image: "keithsartain.jpg"
   - name: "Jess Ladika"
     employer: "Kforce"
+    image: "jessladika.jpg"
+    website: "http://kforce.com"
+
 
 organizer_email: "organizers-tampa-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tampa-2019@devopsdays.org" # Put your proposal email address here
@@ -93,11 +106,12 @@ proposal_email: "proposals-tampa-2019@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: accenture
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
- # - id: accenture
- #   level: community
+  - id: nielsen
+    level: venue
+  - id: dynatrace
+    level: platinum
+  - id: gitlab
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -106,13 +120,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: venue
+    label: Venue
+    max: 1
+  - id: diamond
+    label: Diamond
+    max: 2
+  - id: platinum
+    label: Platinum
+    max: 4 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
-    max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
-  - id: community
-    label: Community
+

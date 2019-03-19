@@ -6,14 +6,18 @@ description: "DevOpsDays Austin's 8th Year!" # Edit this to suit your preference
 
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-05-02 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-05-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-02T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-05-03T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-01-28 # start accepting talk proposals.
-cfp_date_end: 2019-02-28 # close your call for proposals.
-cfp_date_announce: 2019-03-11 # inform proposers of status
+cfp_date_start: 2019-01-28T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2019-02-28T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2019-03-11T23:59:59-05:00 # inform proposers of status
 
 cfp_open: "true"
 # https://www.papercall.io/devopsdays-austin-2019
@@ -160,6 +164,13 @@ sponsors:
   - id: rancher
     level: gold
   - id: cloudbees
+    level: gold
+  - id: electriccloud
+    level: gold
+  - id: redgate
+    level: gold
+    url: https://www.red-gate.com/
+  - id: pivotal
     level: gold
   - id: f5
     level: mealandsnack

@@ -50,7 +50,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pagerduty
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: accenture
     level: gold
@@ -68,7 +68,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: moog
     level: silver
-  - id: xebialabs
+  - id: xebialabs-before-20190312
     level: silver
   - id: nuagenetworks
     level: bronze

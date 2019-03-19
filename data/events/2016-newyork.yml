@@ -42,7 +42,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: overops
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: victorops-before-20180823
     level: silver

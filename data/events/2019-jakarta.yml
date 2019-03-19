@@ -5,7 +5,11 @@ event_twitter: "devopsdaysjkt" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Jakarta again!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-04-10T00:00:00+07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2019-04-11T23:59:59+07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
@@ -71,6 +75,10 @@ sponsors:
     level: gold
   - id: bukalapak
     level: gold
+  - id: google-cloud
+    level: gold
+  - id: devops-institute
+    level: community
   - id:  bncc
     level: community
   - id:  geekhunter
@@ -80,6 +88,8 @@ sponsors:
   - id: devops-indonesia
     level: community
   - id: isqa
+    level: community
+  - id: agile-circles
     level: community
   - id: tekno-event
     level: media
@@ -188,8 +198,8 @@ program:
     date: 2019-04-11
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Keynote"
-    type: custom
+  - title: "davy-trinugraha"
+    type: talk
     date: 2019-04-11
     start_time: "09:00"
     end_time: "09:45"
