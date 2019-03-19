@@ -18,14 +18,14 @@ Description = "devopsdays Poznań 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -84,4 +84,3 @@ Description = "devopsdays Poznań 2019"
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
-
