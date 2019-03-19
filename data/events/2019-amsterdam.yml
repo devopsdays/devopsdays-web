@@ -124,6 +124,8 @@ sponsors:
     level: bronze
   - id: s0l1dheroes
     level: bronze
+  - id: working-spirit
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
