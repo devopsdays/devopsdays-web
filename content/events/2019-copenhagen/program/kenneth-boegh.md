@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps at the Scale of Thousands at Uber"
 Type = "talk"
-Speakers = ["kenneth-bøgh"]
+Speakers = ["kenneth-boegh"]
 +++
 
 **Ignite talk**
