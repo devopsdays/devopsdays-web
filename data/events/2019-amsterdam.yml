@@ -116,8 +116,6 @@ sponsors:
     level: silver
   - id: portworx
     level: silver
-  - id: working-spirit
-    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
@@ -125,6 +123,8 @@ sponsors:
   - id: utilus
     level: bronze
   - id: s0l1dheroes
+    level: bronze
+  - id: working-spirit
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
