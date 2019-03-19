@@ -76,7 +76,7 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-santa-maria-2018@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-santa-maria-2018@devopsdays.org" # Put your proposal email address here
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For

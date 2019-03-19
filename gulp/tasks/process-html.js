@@ -41,4 +41,4 @@ gulp.task('retina-html', function() {
         .pipe(gulp.dest('dist'));
 })
 
-gulp.task('process-html', gulp.series('min-html', 'retina-html'));
+gulp.task('process-html', gulp.series('min-html'));

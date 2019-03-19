@@ -23,7 +23,7 @@
                   {{- with $e.sponsor_link -}}
                     <a href = "{{ . }}" class="sponsor-cta">
                   {{- else -}}
-                    <a href = "{{ (printf "events/%s/sponsor" $e.name) | absURL }}" class="sponsor-cta">
+                    <a href = "{{ (printf "/events/%s/sponsor" $e.name) }}" class="sponsor-cta">
                   {{- end -}}
                     <i>Become a {{ $level.label }} Sponsor!</i>
                   </a>

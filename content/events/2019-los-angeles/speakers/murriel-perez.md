@@ -1,7 +1,7 @@
 +++
 Title = "Murriel Perez"
 Twitter = "Self-Care for Systems at any Scale"
-image = "muriel-perez.jpg"
+image = "murriel-perez.jpg"
 type = "speaker"
 linktitle = "murriel-perez"
 

@@ -118,7 +118,7 @@ ga_tracking_id: "UA-93890142-1"
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors_accepted: "yes"
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: appdynamics-before-20180316
     level: gold

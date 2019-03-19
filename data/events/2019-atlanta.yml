@@ -5,20 +5,24 @@ event_twitter: "devopsdaysATL" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to the Georgia Aquarium!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-04-09  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-04-10  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-04-09T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-10T23:59:59-04:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-12-01  # start accepting talk proposals.
-cfp_date_end: 2019-02-28  # close your call for proposals.
-cfp_date_announce: 2019-03-08  # inform proposers of status
+cfp_date_start: 2018-12-01T00:00:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-02-28T23:59:59-05:00  # close your call for proposals.
+cfp_date_announce: 2019-03-08T23:59:59-05:00  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysatl2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-12-13 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-04-02 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-12-13T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-04-02T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdaysatl2019.eventbrite.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -30,12 +34,13 @@ location: "The Georgia Aquarium" # Defaults to city, but you can make it the ven
 location_address: "225 Baker St NW, Atlanta, GA 30313" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
+  - name: leadershipsummit
   - name: contact
   - name: conduct
 # - name: example
@@ -67,7 +72,7 @@ team_members: # Name is the only required field for team members.
   - name: "Claire Moss"
     image: "claire-moss.jpg"
     twitter: "aclairefication"
-    
+
 
 organizer_email: "organizers-atlanta-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal email address here
@@ -76,6 +81,8 @@ proposal_email: "proposals-atlanta-2019@devopsdays.org" # Put your proposal emai
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: dynatrace
+    level: platinum
+  - id: coxautomotive
     level: platinum
   - id: cloudzero
     level: gold
@@ -92,16 +99,32 @@ sponsors:
     level: gold
   - id: rundeck
     level: gold
-  - id: codefresh
-    level: gold
   - id: sonatype
     level: gold
-  - id: etrade
+  - id: codefresh
     level: gold
   - id: influxdata
     level: gold
+  - id: etrade
+    level: gold
   - id: chef
     level: gold
+  - id: elastic
+    level: gold
+  - id: convox
+    level: gold
+  - id: electriccloud
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: fullstory
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: rancher
+    level: gold
+  - id: cisco-webex
+    level: silver
   - id: arresteddevops
     level: community
 
@@ -124,3 +147,254 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-09
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-09
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-09
+    start_time: "09:15"
+    end_time: "09:25"
+  - title: "simon-wardley"
+    type: talk
+    date: 2019-04-09
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2019-04-09
+    start_time: "09:55"
+    end_time: "10:25"
+  
+  - title: "john-willis"
+    type: talk
+    date: 2019-04-09
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#E7AE8B"
+  - title: "tom-mclaughlin"
+    type: workshop
+    date: 2019-04-09
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "cat-swetel"
+    type: talk
+    date: 2019-04-09
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#ffb566"
+  
+  
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-04-09
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#E7AE8B"
+  - title: "kesha-williams"
+    type: workshop
+    date: 2019-04-09
+    start_time: "10:55"
+    end_time: "11:25"
+  - title: "jabe-bloom"
+    type: talk
+    date: 2019-04-09
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#ffb566"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2019-04-09
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-09
+    start_time: "11:55"
+    end_time: "12:05"
+  - title: "liz-fong-jones"
+    type: talk
+    date: 2019-04-09
+    start_time: "12:05"
+    end_time: "12:35"
+  - title: "Lunch"
+    type: custom
+    date: 2019-04-09
+    start_time: "12:35"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-04-09
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-04-09
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-04-09
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-04-09
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: custom
+    date: 2019-04-09
+    start_time: "16:00"
+    end_time: "16:45"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+    background_color: "#00A8A8"
+  - title: "Evening event- at Suite ATL"
+    type: custom
+    date: 2019-04-09
+    start_time: "17:00"
+    end_time: "late"
+    custom_url: "http://suiteatl.com/"
+    
+
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-10
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-10
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-10
+    start_time: "09:15"
+    end_time: "09:25"
+  - title: "andrew-clay-shafer"
+    type: talk
+    date: 2019-04-10
+    start_time: "09:25"
+    end_time: "09:55"
+  - title: "Break - divide room into tracks - visit sponsors"
+    type: custom
+    date: 2019-04-10
+    start_time: "09:55"
+    end_time: "10:25"
+  
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2019-04-10
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#E7AE8B"
+  - title: "adam-johnson"
+    type: workshop
+    date: 2019-04-10
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "valarie-regas"
+    type: talk
+    date: 2019-04-10
+    start_time: "10:25"
+    end_time: "10:55"
+    background_color: "#ffb566"
+  
+  
+  - title: "jessica-kerr"
+    type: talk
+    date: 2019-04-10
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#E7AE8B"
+  - title: "belinda-vennam"
+    type: workshop
+    date: 2019-04-10
+    start_time: "10:55"
+    end_time: "11:25"
+  - title: "tasshin-fogleman"
+    type: talk
+    date: 2019-04-10
+    start_time: "10:55"
+    end_time: "11:25"
+    background_color: "#ffb566"
+  
+
+  - title: "Break - rejoin rooms - visit sponsors"
+    type: custom
+    date: 2019-04-10
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-10
+    start_time: "11:55"
+    end_time: "12:05"
+  - title: "paul-johnston"
+    type: talk
+    date: 2019-04-10
+    start_time: "12:05"
+    end_time: "12:35"
+  - title: "Lunch"
+    type: custom
+    date: 2019-04-10
+    start_time: "12:35"
+    end_time: "13:35"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-04-10
+    start_time: "13:35"
+    end_time: "14:05"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-04-10
+    start_time: "14:05"
+    end_time: "14:35"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-04-10
+    start_time: "14:35"
+    end_time: "15:15"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-04-10
+    start_time: "15:15"
+    end_time: "15:55"
+  - title: "Open Space #3: Visit the Aquarium"
+    type: custom
+    date: 2019-04-10
+    start_time: "16:00"
+    end_time: "16:45"
+    background_color: "#00A8A8"
+    custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
+
+ignites:
+  - title: "jj-asghar"
+    date: 2019-04-09
+  - title: "caroline-dickey"
+    date: 2019-04-09
+  - title: "aaron-aldrich"
+    date: 2019-04-09
+  - title: "jeff-lu"
+    date: 2019-04-09
+  
+  - title: "ian-rose"
+    date: 2019-04-10
+  - title: "arti-mashalkar"
+    date: 2019-04-10
+  - title: "ravi-lachman"
+    date: 2019-04-10
+  - title: "josh-atwell"
+    date: 2019-04-10

@@ -114,7 +114,7 @@ proposal_email: "cfp@devopsdayschi.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: influxdata-before-20171218
     level: gold

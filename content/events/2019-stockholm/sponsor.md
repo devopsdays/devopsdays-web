@@ -95,10 +95,11 @@ This event is organized by the DevOpsDays Stockholm non-profit organization. For
 further information please contact the sponsorship team by email or phone:
 
 <table border=0>
-  <tr><td>Email:</td><td colspan=2>{{< email_organizers >}}
-  <tr><td style="width: 70px;height: 10px"></td></tr>
-  <tr><td>Phone:</td><td>Johan Virtanen</td><td>+46 730 810 252
-  <tr><td>       </td><td>Mark Baker    </td><td>+46 709 12 44 26
+  <tr><td>Email:</td><td colspan=2>{{< email_organizers >}}      </td></tr>
+  <tr><td style="width: 70px;height: 10px">                      </td></tr>
+  <tr><td>Phone:</td><td>Johan Virtanen </td><td>+46 730 810 252 </td></tr>
+  <tr><td>      </td><td>Mark Baker     </td><td>+46 709 12 44 26</td></tr>
+  <tr><td>      </td><td>Matthias Grüter</td><td>+46 706 566 283 </td></tr>
 </table>
 <br/>
 

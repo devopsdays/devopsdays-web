@@ -5,7 +5,11 @@ event_twitter: "devopsdaysdc"
 description: "A house divided against itself cannot stand."
 ga_tracking_id: "UA-131045075-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
@@ -126,16 +130,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/greg-elin-b8885b4/"
     role: "Registration"
 
-  - name: "Sam Freund"
-    employer: "Rally Health"
-    twitter: ""
-    bio: ""
-    image: ""
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
-
   - name: "Jeff Gallimore"
     employer: "Excella Consulting"
     twitter: "jgallimore"
@@ -242,15 +236,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/steveaross/"
     website: ""
 
-  - name: "Jason Simpson"
-    employer: "Metricly"
-    twitter: "jfsimpson1"
-    bio: ""
-    github: ""
-    facebook: ""
-    website: ""
-    linkedin: ""
-
   - name: "Robert Treat"
     employer: "credativ"
     twitter: "robtreat2"
@@ -260,26 +245,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/robtreat/"
     website: "https://www.linkedin.com/company/credativ-llc/"
-
-  - name: "Derek Weeks"
-    employer: "Sonatype"
-    twitter: "weekstweets"
-    bio: ""
-    image: ""
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/derekeweeks/"
-    website: "http://www.sonatype.com/"
-
-  - name: "Bill Weiss"
-    employer: "Rally Health"
-    twitter: "billweiss"
-    bio: ""
-    image: ""
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
 
   - name: "Shawn Wells"
     employer: "Red Hat"

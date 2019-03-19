@@ -6,7 +6,11 @@ description: "Devopsdays está chegando em São Paulo!" # Edit this to suit your
 ga_tracking_id: "UA-36355678-5" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "São Paulo"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-04-10T00:09:00-03:00
 enddate: 2019-04-11T18:00:00-03:00
 
@@ -38,27 +42,30 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: registration
  # - name: program
  # - name: speakers
+  - name: programação
+    icon: "book"
+    url: /events/2019-sao-paulo/program
   - name: palestrantes
     icon: "microphone"
     url: /events/2019-sao-paulo/speakers
-  - name: Chamadas (CFP)
-    url: /events/2019-sao-paulo/cfp
-    icon: "microphone"
   - name: ingressos
     icon: "pencil"
     url: https://www.sympla.com.br/devopsdays-sao-paulo-2019__377415
   - name: local
     url: /events/2019-sao-paulo/local
     icon: "map-o"
-  - name: contato
-    url: /events/2019-sao-paulo/contato
-    icon: "envelope-o"
   - name: código de conduta
     url: /events/2019-sao-paulo/conduta
     icon: "handshake-o"
   - name: patrocínio
     url: /events/2019-sao-paulo/sponsor
     icon: "money"
+  - name: Chamadas (CFP)
+    url: /events/2019-sao-paulo/cfp
+    icon: "microphone"
+  - name: contato
+    url: /events/2019-sao-paulo/contato
+    icon: "envelope-o"
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -91,7 +98,7 @@ team_members: # Name is the only required field for team members.
     bio: "Enabling companies to develop testing capabilities across DevOps."
     linkedin: "https://www.linkedin.com/in/d-vieira/"
   - name: "Camila Santos"
-    employer: "VR Benefícios"
+    employer: "C6 Bank"
     image: "camila-santos.jpg"
     bio: "Software Test Analyst Senior, enthusiast DevOps and Agile culture, mother of a wonderful boy and don't dispense a good cold beer."
     linkedin: "https://www.linkedin.com/in/camilafrasan/"
@@ -117,10 +124,10 @@ team_members: # Name is the only required field for team members.
   - name: "Tancredo Inomata"
     employer: "Concrete Solutions"
     image: "tancredo-inomata.jpg"
-    bio: "Formado em Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara de Santos e MBA em Arquitetura de redes e Cloud Computing pela FIAP. Certificado como AWS Certified Solutions Architect e Comptia Cloud. 
+    bio: "Formado em Análise e Desenvolvimento de Sistemas pela Fatec Rubens Lara de Santos e MBA em Arquitetura de redes e Cloud Computing pela FIAP. Certificado como AWS Certified Solutions Architect e Comptia Cloud.
     Atua na Concrete em projetos de Cloud Computing com os Big Players Amazon Web Services e Microsoft Azure e Professor convidado no MBA em Gestão de TI e Computação em Nuvem da UFSCar/2017-2018. Desbravando caminhos na Public Cloud através de soluções escaláveis e de alta disponibilidade."
     linkedin: "https://www.linkedin.com/in/tancredo-inomata-012619a2/"
-    
+
 organizer_email: "organizers-sao-paulo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal email address here
 
@@ -129,7 +136,13 @@ proposal_email: "proposals-sao-paulo-2019@devopsdays.org" # Put your proposal em
 sponsors:
   - id: newrelic
     level: platinum
+  - id: dynatrace
+    level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: 4linux-2019
+    level: silver
+  - id: cabify
+    level: silver
   - id: adaptnow
     level: bronze
   - id: arresteddevops
@@ -137,6 +150,17 @@ sponsors:
   - id: 10deploys
     level: community
   - id: vbrownbagbrasil
+    level: community
+  - id: estabilis
+    level: community
+    url: https://www.estabil.is/?utm_source=devopsdaysp&utm_medium=sitedevopsday&utm_campaign=devopsdaysp
+  - id: test-girls
+    level: community
+  - id: gatilho-kosmico
+    level: community
+  - id: infoqbr
+    level: community
+  - id: rails-girls-sp
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -158,4 +182,223 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-  
+
+program:
+  - title: "Credenciamento e recepção"
+    type: custom
+    date: "2019-04-10"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-04-10"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "peter-shannon"
+    type: talk
+    date: "2019-04-10"
+    start_time: "9:30"
+    end_time: "10:15"
+    background_color: "#AED6F1"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-10"
+    start_time: "10:15"
+    end_time: "10:40"
+
+  - title: "amanda-mattos"
+    type: talk
+    date: "2019-04-10"
+    start_time: "10:40"
+    end_time: "11:10"
+
+  - title: "luan-linares"
+    type: talk
+    date: "2019-04-10"
+    start_time: "11:10"
+    end_time: "11:40"
+
+  - title: "joao-brito"
+    type: talk
+    date: "2019-04-10"
+    start_time: "11:40"
+    end_time: "12:10"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-04-10"
+    start_time: "12:10"
+    end_time: "13:30"
+    background_color: "#EDBB99"
+
+  - title: "lucas-santos"
+    type: talk
+    date: "2019-04-10"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "tatiane-paya"
+    type: talk
+    date: "2019-04-10"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-04-10"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-10"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2019-04-10"
+    start_time: "15:30"
+    end_time: "16:20"
+
+  - title: "victor-ferreira"
+    type: talk
+    date: "2019-04-10"
+    start_time: "16:20"
+    end_time: "16:50"
+
+  - title: "daniel-colchete"
+    type: talk
+    date: "2019-04-10"
+    start_time: "16:50"
+    end_time: "17:30"
+
+  - title: "Encerramento"
+    type: custom
+    date: "2019-04-10"
+    start_time: "17:30"
+    end_time: "17:40"
+
+# Dia 10/04
+
+  - title: "Credenciamento, recepção e patrocinadores"
+    type: custom
+    date: "2019-04-11"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-04-11"
+    start_time: "9:00"
+    end_time: "9:15"
+
+  - title: "jaqueline-ramos"
+    type: talk
+    date: "2019-04-11"
+    start_time: "9:15"
+    end_time: "9:45"
+
+  - title: "monica-cachoni"
+    type: talk
+    date: "2019-04-11"
+    start_time: "9:45"
+    end_time: "10:15"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-11"
+    start_time: "10:15"
+    end_time: "10:45"
+
+  - title: "bruno-gurgel"
+    type: talk
+    date: "2019-04-11"
+    start_time: "10:45"
+    end_time: "11:15"
+
+  - title: "mateus-prado"
+    type: talk
+    date: "2019-04-11"
+    start_time: "11:15"
+    end_time: "11:45"
+
+
+  - title: "rafael-gomes"
+    type: talk
+    date: "2019-04-11"
+    start_time: "11:45"
+    end_time: "12:15"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-04-11"
+    start_time: "12:10"
+    end_time: "13:30"
+    background_color: "#EDBB99"
+
+  - title: "diogo-nicoleti"
+    type: talk
+    date: "2019-04-11"
+    start_time: "13:30"
+    end_time: "14:00"
+
+  - title: "edson-celio"
+    type: talk
+    date: "2019-04-11"
+    start_time: "14:00"
+    end_time: "14:30"
+
+  - title: "Ignite Talks:"
+    type: ignite
+    date: "2019-04-11"
+    start_time: "14:30"
+    end_time: "15:00"
+
+  - title: "Coffee-Break"
+    type: custom
+    date: "2019-04-11"
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "Open Space"
+    type: open-space
+    date: "2019-04-11"
+    start_time: "15:30"
+    end_time: "16:20"
+
+  - title: "yago-nobre"
+    type: talk
+    date: "2019-04-11"
+    start_time: "16:20"
+    end_time: "16:50"
+
+  - title: ""
+    type: talk
+    date: "2019-04-11"
+    start_time: "16:50"
+    end_time: "17:30"
+    background_color: "#FFA3ED"
+
+  - title: "Fechamento"
+    type: custom
+    date: "2019-04-11"
+    start_time: "17:30"
+    end_time: "17:45"
+
+ignites:
+
+  - title: "daniel-requena"
+    date: "2019-04-10"
+
+  - title: "eduardo-ximenes"
+    date: "2019-04-10"
+
+  - title: "fred-costa"
+    date: "2019-04-11"
+
+  - title: "danubia-barreto"
+    date: "2019-04-11"

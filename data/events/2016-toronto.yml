@@ -40,7 +40,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: chef
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: blendedperspectives-before-20190221
     level: gold
