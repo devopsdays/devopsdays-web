@@ -75,6 +75,10 @@ sponsors:
     level: gold
   - id: bukalapak
     level: gold
+  - id: google-cloud
+    level: gold
+  - id: devops-institute
+    level: community
   - id:  bncc
     level: community
   - id:  geekhunter
@@ -194,8 +198,8 @@ program:
     date: 2019-04-11
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Keynote"
-    type: custom
+  - title: "davy-trinugraha"
+    type: talk
     date: 2019-04-11
     start_time: "09:00"
     end_time: "09:45"

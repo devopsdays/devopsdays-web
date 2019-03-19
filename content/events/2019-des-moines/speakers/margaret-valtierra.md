@@ -1,7 +1,7 @@
 +++
 Title = "Margaret Valtierra"
 Twitter = "margaretvaltie"
-image = ""
+image = "margaret-valtierra.jpg"
 type = "speaker"
 linktitle = "margaret-valtierra"
 

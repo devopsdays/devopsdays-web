@@ -1,7 +1,7 @@
 +++
 Title = "Margaret Valtierra"
 Twitter = "margaretvaltie"
-image = "margaret-valtie.jpg"
+image = "margaret-valtierra.jpg"
 type = "speaker"
 linktitle = "margaret-valtierra"
 LinkedIn = "https://www.linkedin.com/in/margaretvaltierra"
