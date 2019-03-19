@@ -6,7 +6,7 @@ Description = "Location for devopsdays Bogotá 2019"
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.
 
-<<<<<<< HEAD
+
 <div style="float:left;">
   <img alt="DevOpsDays Bogotá 2019" src="/events/2019-bogota/edificio.jpg" style="max-width: 90%;">
 </div><br><br>
