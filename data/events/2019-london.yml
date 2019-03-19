@@ -95,7 +95,7 @@ sponsors:
   - id: pivotal
     level: gold
     # Silver
-   - id: datadog
+  - id: datadog
     level: silver
   - id: tecknuovo
     level: silver
