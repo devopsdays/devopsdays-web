@@ -113,6 +113,8 @@ sponsors:
   level: gold
 - id: mesosphere
   level: social
+- id: mesosphere
+  level: gold
 - id: invoca
   level: supporter
 
