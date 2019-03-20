@@ -126,6 +126,8 @@ sponsors:
     level: bronze
   - id: working-spirit
     level: bronze
+  - id: inuits
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
