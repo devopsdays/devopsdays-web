@@ -14,9 +14,9 @@ startdate: 2019-05-20T00:00:00+02:00 # The start date of your event. Leave blank
 enddate: 2019-05-20T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-03-20T00:00:00+02:00# start accepting talk proposals.
-cfp_date_end:  2019-04-20T00:00:00+02:00# close your call for proposals.
-cfp_date_announce:  2019-04-25T00:00:00+02:00# announce speakers.
+cfp_date_start:  2019-03-20T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2019-04-20T00:00:00+02:00 # close your call for proposals.
+cfp_date_announce:  2019-04-25T00:00:00+02:00 # announce speakers.
 
 cfp_link: "https://www.papercall.io/devopsdaypoznan2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
