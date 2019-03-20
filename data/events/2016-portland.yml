@@ -54,7 +54,7 @@ team_members:
 organizer_email: "organizers-portland-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portland-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: elastic
     level: gold
@@ -80,7 +80,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: pagerduty
     level: gold
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: gold
   - id: cloudbees-before-20161025
     level: gold

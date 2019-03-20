@@ -5,20 +5,24 @@ event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Raleigh!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-10-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-10-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-10-01T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-02T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-01T00:00:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-04-01T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2019-05-15T00:00:00-04:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-12-01 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-10-02 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-12-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-02T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-raleigh-2019-tickets-49944558519" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -38,6 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
+  - name: propose
   - name: contact
   - name: conduct
 # - name: example
@@ -63,11 +68,14 @@ team_members: # Name is the only required field for team members.
   - name: "Chris Bailey"
     twitter: "seebails"
     github: "nonstickzan"
-  - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
   - name: "RJ Williams"
     website: "http://techtowntraining.com"
     employer: "Techtown"
+  - name: "Craig Cook"
+    twitter: "CraigCookIT"
+    website: "https://www.linkedin.com/in/craigcookit/"
+    employer: "IBM"
 
 organizer_email: "organizers-raleigh-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-raleigh-2019@devopsdays.org" # Put your proposal email address here
@@ -80,7 +88,22 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
 #    level: community
-
+   - id: dynatrace
+     level: platinum
+   - id: sumologic
+     level: platinum
+   - id: microsoft
+     level: gold
+   - id: techtown
+     level: platinum
+   - id: ahead
+     level: platinum
+   - id: appdynamics
+     level: platinum
+   - id: logdna
+     level: gold
+   - id: triangledevops
+     level: community
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -98,3 +121,5 @@ sponsor_levels:
     # max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: happyhour
+    label: Happy Hour

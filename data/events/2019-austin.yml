@@ -6,16 +6,21 @@ description: "DevOpsDays Austin's 8th Year!" # Edit this to suit your preference
 
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-05-02 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-05-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-02T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-05-03T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-01-28T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2019-02-28T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2019-03-11T23:59:59-05:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
+# https://www.papercall.io/devopsdays-austin-2019
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -31,14 +36,15 @@ location: "Darrell K. Royal–Texas Memorial Stadium" # Defaults to city, but yo
 location_address: "405 E 23rd St, Austin, TX 78712" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
- # - name: registration
+  - name: schedule
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
+ # - name: propose
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -69,7 +75,6 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     linkedin: "https://www.linkedin.com/in/kgaekwad/"
     image: ""
-  - name: "Marisa Sawatphadungkij"
   - name: "Ian Richardson"
   - name: "Scott Baldwin"
     twitter: "scottsbaldwin"
@@ -81,19 +86,11 @@ team_members: # Name is the only required field for team members.
     image: ""
   - name: "Dan Zentgraf"
     twitter: "danzentgraf"
-    employer: "CA Technologies"
+    employer: "Datical"
     bio: "Dan is a long time DevOps evangelist working with very large enterprises. He has been involved in the Agile / Lean / DevOps movement in a number of management, product management, and process consulting roles. In addition to the work stuff, he is active in the Austin community as a DevOpsDays organizer for the last 4 years as well as with the AgileAustin community as a program lead."
     github: ""
     facebook: ""
     linkedin: "https://www.linkedin.com/in/zentgraf/"
-    image: ""
-  - name: "William Hackett"
-    twitter: "wchack"
-    employer: "National Instruments"
-    bio: "UT Grad. Long-time developer at National Instruments.  Currently managing the Cloud Team that was home to a number of the original DevOpsDays-Austin Organizers."
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/william-hackett-4228252/"
     image: ""
   - name: "Chris Casey"
   - name: "Boyd Hemphill"
@@ -106,7 +103,7 @@ team_members: # Name is the only required field for team members.
     image: ""
   - name: "Lee Thompson"
     twitter: "stagr_lee"
-    employer: "AlienVault"
+    employer: "Precision Autonomy"
     bio: "Lee has been an organizer/volunteer for DevOpsDays Austin since its founding and participated in the organization of the first US DevOpsDays event in Mountain View in 2010.  He keeps coming back to DevOpsDays because he still hasn't figured it all out yet.  When not messing with distributed applications, he's messing around with 240Z's and Airstreams."
     github: "stagrlee"
     facebook: ""
@@ -114,22 +111,72 @@ team_members: # Name is the only required field for team members.
     image: ""
   - name: "Richard Boyd"
     twitter: "richardboydii"
-    employer: "Bright Health"
-    bio: "Richard is the Senior DevOps Engineer for Bright Health in Austin. He's active in the Austin DevOps community and speaks at Meetups and conferences. In his spare time he enjoys camping and the checking out the local brewery scene."
+    employer: "Amazon Web Services"
+    bio: "Richard is active in the Austin DevOps community and speaks at Meetups and conferences. In his spare time he enjoys camping and the checking out the local brewery scene."
     github: "richardboydii"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/richardboydii/"
     image: ""
   - name: "Laura Wickett"
   - name: "Carl Perry"
+  - name: "Daria Ilic"
+  - name: "Tom Hall"
+  - name: "Peco Karayanev"
+  - name: "Asif Ahmad"
+  - name: "Bailey Moore"
 organizer_email: "organizers-austin-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-austin-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-# sponsors:
-#   - id: sponsor-id
-#     level: sponsor-level
+sponsors:
+  - id: solarwinds
+    level: happyhour
+  - id: newrelic
+    level: platinum
+  - id: codefresh
+    level: platinum
+  - id: vmware
+    level: platinum
+  - id: oracle
+    level: lanyard
+  - id: circleci
+    level: gold
+  - id: xmatters
+    level: gold
+  - id: rundeck
+    level: gold
+  - id: signalfx
+    level: gold
+  - id: gravitational
+    level: gold
+  - id: f5
+    level: gold
+  - id: dell
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: nvisium
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: chaossearch
+    level: gold
+  - id: rancher
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: electriccloud
+    level: gold
+  - id: redgate
+    level: gold
+    url: https://www.red-gate.com/
+  - id: pivotal
+    level: gold
+  - id: f5
+    level: mealandsnack
+  - id: devopsdotcom
+    level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -152,4 +199,10 @@ sponsor_levels:
     max: 20
   - id: silver
     label: Silver
+    max: 10
+  - id: media
+    label: Media
+    max: 1
+  - id: mealandsnack
+    label: Meal and Snack
     max: 10

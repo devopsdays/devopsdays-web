@@ -228,13 +228,13 @@ sponsors:
     level: platinum
   - id: cloudbees
     level: platinum
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
   - id: validatek
     level: platinum
   - id: sjtechcorp
     level: platinum
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: platinum
   - id: aurotech
     level: platinum
@@ -244,7 +244,7 @@ sponsors:
     level: gold
   - id: swamp
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: platinum
   - id: stsi
     level: platinum

@@ -3,9 +3,14 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Zürich" # The city name of the event. Capitalize it.
 event_twitter: "DevOpsZH"
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-05-14T00:00:00+02:00
 enddate: 2019-05-15T23:59:59+02:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
@@ -22,7 +27,7 @@ location: "Umweltarena Zürch" # Defaults to city, but you can make it the venue
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: speakers
-#  - name: program
+  - name: program
   - name: location
   - name: registration
   - name: propose
@@ -109,15 +114,26 @@ Enabling organisations to achieve outstanding and sustainable results that excee
     linkedin: "https://www.linkedin.com/in/matiasfrndz/"
     website: "https://matiasfrndz.ch/"
     image: "matias-e-fernandez.jpg"
+  - name: "Michael Krause"
+    bio: "<p>Michael has been focused and passionate in the area of Software Testing for more than 15 years.</p><p>He experienced firsthand in product development that the way how a team perceives quality and adapts testing using context-driven principles can be a key driver of implementing agile development techniques and DevOps.</p><p>He advocates that teams embrace and navigate complexity through sensemaking techniques and believes that a culture of relentless experimentation is a major source for innovation.</p><p>In his current role Michael enjoys to enable a large organization to adapt DevOps and agile Quality principles and fosters an agile mindset across development teams.</p><p>Having a long background in line management he has always seen himself as a coach for teams and people and believes in purpose, mastery and autonomy more than in role descriptions or yearly performance talks.</p>"
+    employer: "Swisscom AG"
+    linkedin: "https://www.linkedin.com/in/mikrause/"
+    image: "michael-krause.jpg"
   - name: "Roderick Jonsson"
-    twitter: ""
-    employer: ""
-    bio: "Linux System Engineer by profession and some times developer (python, symfony or java).<p> Working with CoreOS, Kubernetes, Openstack and Docker. <p> Loves tech trend spotting. <p> If you are passionate about DevOps technologies and finding out how they will influence the coming digital economy, then chat me up ;)"
-    github: ""
+    twitter: "RoderickJonsson"
+    linkedin: "https://ch.linkedin.com/in/roderickjonsson"
+    employer: "PowerodIT"
+    bio: "<p>DevOps Platform Architect with successful experience in enabling teams to achieve faster software delivery with high performance DevOps toolchains.</p><p>Specialized on Linux, Gitlab, Kubernetes, AWS and GCP</p><p>Working as a contractor for different companies around the world and building their fully automated cloud environments.</p>"
+    github: "Roderick-Jonsson"
     facebook: ""
-    linkedin: "https://www.linkedin.com/in/roderick-jonsson-b299ba88/"
     website: "http://www.powerodit.ch"
     image: "roderick-jonsson.jpg"
+  - name: "Romano Roth"
+    bio: "<p>I'm an experienced software consultant and DevOps enthusiast working at Zühlke. My passion lies in radically transforming monolithic waterfall IT organizations into scalable agile teams doing DevOps.</p>"
+    image: "romano-roth.jpg"
+    employer: "Zühlke"
+    twitter: "RomanoRoth"
+    linkedin: "https://www.linkedin.com/in/romanoroth/"
   - name: "Tobias Brunner"
     twitter: "tobruzh"
     employer: "VSHN AG"
@@ -155,25 +171,40 @@ sponsors:
 - id: swiss-perl-workshop
   level: community
 - id: vshn
-  level: entrance
+  level: platinum
 - id: swiss-re
   level: gold
 - id: swisscom
   url: https://job.swisscom.ch/ict/de?showclose=1
-  level: coffee
+  level: platinum
 - id: oracle2019
   level: silver
   url: https://developer.oracle.com/
+- id: nine
+  level: bronze
+- id: bmc
+  level: silver
+  url: http://www.bmcsoftware.ch/
+- id: itconcepts-schweiz
+  level: silver
+- id: devops-meetup-zurich
+  level: community
+- id: devops-meetup-bern
+  level: community
+- id: zhlke
+  level: bronze
+- id: googlecloud
+  level: platinum
+- id: avectris
+  level: bronze
+- id: netapp
+  level: gold
+- id: itris
+  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-- id: entrance
-  label: Entrance
-  max: 1
-- id: coffee
-  label: Coffee
-  max: 1
-- id: planet
-  label: Planet
+- id: platinum
+  label: Platinum
   max: 1
 - id: gold
   label: Gold
@@ -184,7 +215,185 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   label: Bronze
 - id: community
   label: Community
+
 program:
+  - title: "Registration & Welcome Coffee"
+    type: custom
+    date: 2019-05-14
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2019-05-14
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mary-poppendieck"
+    type: talk
+    date: 2019-05-14
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "talk-1"
+    type: talk
+    date: 2019-05-14
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-14
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "oleg-nenashev"
+    type: talk
+    date: 2019-05-14
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "huseyin-babal"
+    type: talk
+    date: 2019-05-14
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "jacqueline-sloves"
+    type: talk
+    date: 2019-05-14
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-05-14
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2019-05-14
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-14
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "areti-panou"
+    type: talk
+    date: 2019-05-14
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: 2019-05-14
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "workshop-with-peter-gfader-and-patrick-baumgartner"
+    type: workshop
+    date: 2019-05-14
+    start_time: "15:00"
+    end_time: "16:30"
+  - title: "workshop-with-matteo-baiguini-and-paolo-carta"
+    type: workshop
+    date: 2019-05-14
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-05-14
+    start_time: "17:20"
+    end_time: "17:30"
+  - title: "Registration & Coffe"
+    type: custom
+    date: 2019-05-15
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening"
+    type: custom
+    date: 2019-05-15
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "pj-hagerty"
+    type: talk
+    date: 2019-05-15
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "florian-krausbeck"
+    type: talk
+    date: 2019-05-15
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-15
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "nicolas-frankel"
+    type: talk
+    date: 2019-05-15
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "nicolas-byl"
+    type: talk
+    date: 2019-05-15
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "adam-nowak"
+    type: talk
+    date: 2019-05-15
+    start_time: "12:00"
+    end_time: "12:30"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-05-15
+    start_time: "12:30"
+    end_time: "14:00"
+  - title: "Opening Afternoon"
+    type: custom
+    date: 2019-05-15
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-15
+    start_time: "14:05"
+    end_time: "14:30"
+  - title: "johan-abildskov"
+    type: talk
+    date: 2019-05-15
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space"
+    type: open-space
+    date: 2019-05-15
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "workshop-with-jochen-reinholdt"
+    type: workshop
+    date: 2019-05-15
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "workshop-with-jorge-salamero"
+    type: workshop
+    date: 2019-05-15
+    start_time: "15:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-05-15
+    start_time: "17:20"
+    end_time: "17:30"
 
 ignites:
-
+  - title: "ignite-talk-by-mikhail-advani"
+    date: 2019-05-14
+  - title: "ignite-talk-by-matthias-fritschi"
+    date: 2019-05-14
+  - title: "ignite-talk-by-romano-roth"
+    date: 2019-05-14
+  - title: "ignite-talk-by-daniel-maher"
+    date: 2019-05-14
+  - title: "ignite-talk-by-bastian-bukatz"
+    date: 2019-05-15
+  - title: "ignite-talk-by-anton-babenko"
+    date: 2019-05-15
+  - title: "ignite-talk-by-alex-lichtenberger"
+    date: 2019-05-15
+  - title: "ignite-talk-by-aras-bilgen"
+    date: 2019-05-15
+  - title: "ignite-talk-by-albert-noll"
+    date: 2019-05-15

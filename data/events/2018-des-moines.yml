@@ -88,15 +88,15 @@ sponsors:
     level: gold
   - id: microsoft
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: workiva
     level: gold
   - id: sumologic-before-20181203
     level: gold
-  - id: granular
+  - id: granular-before-20190310
     level: gold
-  - id: xebialabs
+  - id: xebialabs-before-20190312
     level: silver 
   - id: john-deere
     level: silver 

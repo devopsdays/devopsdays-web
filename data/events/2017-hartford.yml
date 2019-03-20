@@ -54,7 +54,7 @@ organizer_email: "organizers-hartford-2017@devopsdays.org" # Put your organizer 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: chef
     level: gold
@@ -76,7 +76,7 @@ sponsors:
     level: community
   - id: phishme
     level: bronze
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: checkmarx
     level: bronze

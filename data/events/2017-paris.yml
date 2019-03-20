@@ -101,11 +101,11 @@ sponsors:
     level: gold
   - id: atlassian-before-20171216
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
-  - id: xebialabs
+  - id: xebialabs-before-20190312
     level: gold
   - id: admantic
     level: silver

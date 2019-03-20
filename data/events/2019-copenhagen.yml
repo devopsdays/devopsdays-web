@@ -5,13 +5,17 @@ event_twitter: "devopsdayscph" # Change this to the twitter handle for your even
 description: "Devopsdays is coming back to Copenhagen!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-04-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-04-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-04-03T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-04T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2018-12-04 # start accepting talk proposals.
-cfp_date_end:  2019-01-21 # close your call for proposals.
+cfp_date_start:  2018-12-04T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2019-01-21T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
@@ -31,11 +35,11 @@ location: "CinemaxX Copenhagen" # Defaults to city, but you can make it the venu
 location_address: "Fisketorvet, Kalvebod Brygge 57, 1560 Copenhagen V" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
- # - name: location
+#  - name: propose
+  - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -48,20 +52,27 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Adam Henriques"
     employer: "Praqma"
+    image: "adam-henriques.jpg"
   - name: "Andy Dyrcz"
     employer: "Linkfire"
     github: adyrcz
+    image: "andy-dyrcz.jpg"
   - name: "Jasmine Crozier"
     twitter: "jasminecph"
     employer: "Praqma"
+    image: "jasmine-crozier.jpg"
   - name: "Jeppe Andersen"
     twitter: "nocture"
     employer: "Momondo"
+    image: "jeppe-andersen.jpg"
   - name: "Johan Abildskov"
     twitter: "randomsort"
+    employer: "Praqma"
+    image: "johan-abildskov.jpg"
   - name: "Rasmus Hald"
     twitter: "RasmusHaldDK"
     employer: "Mærsk"
+    image: "rasmus-hald.jpg"
 
 #  - name: "Sally Fields"
 #    employer: "Acme Anvil Co."
@@ -76,10 +87,26 @@ proposal_email: "proposals-copenhagen-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: samplesponsorname
+  - id: praqma
     level: gold
+  - id: eficode
+    level: gold
+  - id: redhat
+    level: gold
+  - id: thoughtworks-gocd
+    level: silver
+  - id: xebialabs
+    level: silver
+  - id: microsoft
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
+  - id: unity
+    level: community
+  - id: atlassian
+    level: community
+  - id: yousee
+    level: community
+  - id: 3shape
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -97,3 +124,218 @@ sponsor_levels:
     max: 10
   - id: community
     label: Community
+
+program:
+  - title: "Registration & Breakfast"
+    type: custom
+    date: 2019-04-03
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-03
+    start_time: "09:00"
+    end_time: "09:20"
+  - title: "matty-stratton"
+    type: talk
+    date: 2019-04-03
+    start_time: "09:20"
+    end_time: "09:50"
+  - title: "Break"
+    date: 2019-04-03
+    start_time: "09:50"
+    end_time: "10:00"
+  - title: "allan-ebdrup"
+    type: talk
+    date: 2019-04-03
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break"
+    date: 2019-04-03
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "emily-bache"
+    type: talk
+    date: 2019-04-03
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "michiel-rook"
+    type: workshop
+    date: 2019-04-03
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "Break"
+    date: 2019-04-03
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "felix-wu"
+    type: talk
+    date: 2019-04-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "bruno-amaro-almeida"
+    type: workshop
+    date: 2019-04-03
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "LUNCH"
+    type: custom
+    date: 2019-04-03
+    start_time: "12:00"
+    end_time: "12:50"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-04-03
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-03
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-04-03
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Mob Programming Session #1"
+    type: custom
+    date: 2019-04-03
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break"
+    date: 2019-04-03
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-04-03
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Mob Programming Session #2"
+    type: custom
+    date: 2019-04-03
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    date: 2019-04-03
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2019-04-03
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Wrap-up of the Day"
+    type: custom
+    date: 2019-04-03
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Mingle & Drinks"
+    type: custom
+    date: 2019-04-03
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Dinner & Mingle"
+    type: custom
+    date: 2019-04-03
+    start_time: "17:45"
+    end_time: "21:00"
+  - title: "Breakfast"
+    type: custom
+    date: 2019-04-04
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2019-04-04
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "heidi-waterhouse"
+    type: talk
+    date: 2019-04-04
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break"
+    date: 2019-04-04
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "Ignite Karaoke"
+    type: ignite
+    date: 2019-04-04
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-04-04
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-04-04
+    start_time: "11:00"
+    end_time: "11:50"
+  - title: "LUNCH"
+    type: custom
+    date: 2019-04-04
+    start_time: "11:50"
+    end_time: "12:40"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-04-04
+    start_time: "12:40"
+    end_time: "13:25"
+  - title: "Break"
+    date: 2019-04-04
+    start_time: "13:25"
+    end_time: "13:40"
+  - title: "nataliya-remez"
+    type: talk
+    date: 2019-04-04
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "morten-christensen"
+    type: workshop
+    date: 2019-04-04
+    start_time: "13:40"
+    end_time: "14:10"
+  - title: "Break"
+    date: 2019-04-04
+    start_time: "14:10"
+    end_time: "14:25"
+  - title: "aubrey-stearn"
+    type: talk
+    date: 2019-04-04
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "abdel-fettah"
+    type: workshop
+    date: 2019-04-04
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "Break"
+    date: 2019-04-04
+    start_time: "14:55"
+    end_time: "15:10"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2019-04-04
+    start_time: "15:10"
+    end_time: "15:40"
+  - title: "Wrap-up and Goodbyes"
+    type: custom
+    date: 2019-04-04
+    start_time: "15:40"
+    end_time: "16:00"
+
+ignites:
+  - title: "mike-long"
+    date: "2019-04-03"
+  - title: "philipp-krenn"
+    date: "2019-04-03"
+  - title: "kasper-nissen"
+    date: "2019-04-03"
+  - title: "matthias-gruter"
+    date: "2019-04-03"
+  - title: "kenneth-boegh"
+    date: "2019-04-03"

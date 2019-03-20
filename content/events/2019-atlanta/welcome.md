@@ -82,7 +82,7 @@ Description = "devopsdays atlanta 2019"
 </div>
 <div style="text-align:center;">
 <h3>"Just Keep Swimming" with <a href="https://www.map-camp.com/_pages/2019-04_Atlanta/">Map Camp</a> &amp; <a href="https://atlanta.serverlessdays.io/">Serverlessdays</a> Atlanta</h3>
-with Presentations from <a href="https://twitter.com/swardley">Simon Wardley</a> &amp; <a href="https://twitter.com/littleidea">Andrew Clay Shafer</a>
+with Presentations from <a href="https://twitter.com/swardley">Simon Wardley</a>, <a href="https://twitter.com/littleidea">Andrew Clay Shafer</a>, <a href="https://twitter.com/lizthegrey">Liz Fong-Jones</a> &amp; <a href="https://twitter.com/paulDJohnston">Paul Johnston</a>
 <br/><br/>
   {{< event_logo >}}
   <p>

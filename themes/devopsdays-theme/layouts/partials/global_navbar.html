@@ -5,13 +5,13 @@
     <span class="navbar-toggler-icon"></span>
   </button>
   <a class="navbar-brand" href="/">
-  <img src="{{ "img/devopsdays-brain.png" | absURL }}" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
+  <img src="{{ "/img/devopsdays-brain.png" }}" height="30" class="d-inline-block align-top" alt="devopsdays Logo">
   {{ .Site.Title}}
 </a>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       {{- range .Site.Menus.main -}}
-          <li class="nav-item global-navigation"><a class = "nav-link" href="{{ .URL | absURL }}">{{ .Name }}</a></li>
+          <li class="nav-item global-navigation"><a class = "nav-link" href="{{ .URL }}">{{ .Name }}</a></li>
       {{- end -}}
     </ul>
   </div>

@@ -112,7 +112,7 @@ sponsors:
     level: gold
   - id: instana
     level: silver
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: mesosphere
     level: silver
@@ -154,7 +154,7 @@ sponsors:
     level: gold
   - id: morpheus
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: silver
   - id: target
     level: platinum
@@ -172,7 +172,7 @@ sponsors:
     level: gold
   - id: sjtechcorp
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: silver
   - id: saucelabs
     level: silver

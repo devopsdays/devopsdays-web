@@ -83,11 +83,11 @@ proposal_email: "proposals-singapore-2018@devopsdays.org" # Put your proposal em
 sponsors:
   - id: microsoft
     level: platinum
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: ecs-digital
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: dellemc
     level: gold   

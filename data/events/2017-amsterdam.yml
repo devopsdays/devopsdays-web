@@ -49,7 +49,7 @@ sponsors:
   # gold
   - id: atlassian-before-20171216
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: elastic
     level: gold
@@ -57,7 +57,7 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: workiva
     level: gold

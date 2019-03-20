@@ -158,7 +158,7 @@ sponsors:
     level: platinum
   - id: dellemc
     level: platinum
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: ns1
     level: gold
@@ -178,7 +178,7 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: f5
     level: gold
@@ -188,7 +188,7 @@ sponsors:
     level: gold  
   - id: orasi
     level: gold 
-  - id: xebialabs
+  - id: xebialabs-before-20190312
     level: gold   
   - id: netapp
     level: gold      

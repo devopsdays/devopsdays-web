@@ -4,11 +4,11 @@ Type = "event"
 Description = "Sponsor devopsdays São Paulo 2018"
 +++
 <b>
-**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/open?id=1lq6Wj1-schtuA101hkWMiQH1IPiKD9ep). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
+**ENGLISH**: The most Sao Paulo event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/open?id=1jNjZaJnWPiMHsmifG7KAYM7HpBv5CWhV). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
 </b>
 
 <b>
-Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://drive.google.com/open?id=1-vKIdUtC5NpvIFLvsAYKNMyfwjCRcGDI). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
+Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://drive.google.com/open?id=1G8SdyPyWfS73fc5CkO7ZRAlWJxBFNf-f). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
 
 
@@ -47,9 +47,9 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
             <th>
                 <center><b><u>R$ 5000</u></center></b></th>
             <th>
-                <center><b><u>R$ 12000</u></center></b></th>
+                <center><b><u>R$ 8000</u></center></b></th>
             <th>
-                <center><b><u>R$ 18000</u></center></b></th>
+                <center><b><u>R$ 12000</u></center></b></th>
         </tr>
         <tr>
             <td></td>
@@ -98,10 +98,38 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
             <td bgcolor="gold">&nbsp;</td>          
         </tr>
         <tr>
-            <td>1 minuto de para falar com o público</td>
+            <td>1 minuto para falar com o público</td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>3 minutos para falar com o público</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="gold">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Poster com logo na área de credenciamento</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="gold">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Logo em slide dedicado nos nossos slides rotativos</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td bgcolor="gold">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Logo em um dos brindes do evento - a ser definido</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
             <td bgcolor="gold">&nbsp;</td>
         </tr>
     </table>

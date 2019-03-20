@@ -1,0 +1,82 @@
+version: 2
+jobs:
+  production:
+    docker:
+      - image: cibuilds/hugo:0.53
+    steps:
+      - checkout
+      - run:
+          name: "Build site to GH Pages"
+          command: ./deploy.sh
+
+  build:
+    docker:
+      - image: cibuilds/hugo:0.53
+    working_directory: ~/devopsdays
+    steps:
+      - checkout
+      - run:
+          name: "Run Hugo"
+          command: HUGO_ENV=production hugo -v -d workspace/public
+      - persist_to_workspace:
+          root: workspace
+          paths: 
+            - public
+
+  test:
+    docker:
+      - image: circleci/node:11.5.0
+    working_directory: ~/devopsdays
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ~/devopsdays/workspace
+      - run:
+          name: update-npm
+          command: 'sudo npm install -g npm@6.4.1'
+      - run:
+          name: npm-version
+          command: 'npm version'
+      - run: 
+          name: install-gulp
+          command: 'sudo npm install -g gulp'
+      # - restore_cache:
+      #     key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: install-npm-stuff
+          command: npm install
+      # - save_cache:
+      #     key: dependency-cache-{{ checksum "package.json" }}
+      #     paths:
+      #       - ./node_modules
+      - run:
+          name: "List contents"
+          command: ls
+      - run:
+          name: "Test build"
+          command: gulp min-html --cwd workspace
+
+workflows:
+  version: 2
+  build-test-deploy:
+    jobs:
+      - build:
+          filters:
+            branches:
+              ignore:
+                - master
+                - gh-pages
+      - test:
+          requires:
+            - build
+          filters:
+            branches:
+              ignore:
+                - master
+                - gh-pages
+      # - production:
+      #     filters:
+      #       branches:
+      #         only:
+      #           - master
+      #           - gh-pages

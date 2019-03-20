@@ -67,9 +67,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: thoughtworks-products
     level: platinum
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: community
   - id: apprenda
     level: platinum

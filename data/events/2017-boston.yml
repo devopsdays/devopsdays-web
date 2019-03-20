@@ -146,7 +146,7 @@ sponsors:
     level: gold
   - id: opsgenie
     level: platinum
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: platinum
   - id: digitalocean
     level: platinum
@@ -172,7 +172,7 @@ sponsors:
     level: platinum
   - id: cyberark-before-20180203
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: herzum
     level: gold

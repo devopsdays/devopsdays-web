@@ -5,23 +5,27 @@ event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your ev
 description: "Devopsdays is coming to Houston!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  2019-04-16 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-04-17 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2019-04-16T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-04-17T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-12-01 # start accepting talk proposals.
-cfp_date_end: 2019-01-31 # close your call for proposals.
-cfp_date_announce: 2019-02-14 # inform proposers of status
+cfp_date_start: 2018-12-01T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-31T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2019-02-21T23:59:59-06:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/2019-houston" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2019-01-21T00:00:00-06:00" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2019-04-15T23:59:59-05:00" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2019-tickets-54629883452" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -31,11 +35,11 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
-#  - name: program
-#  - name: registration
+  - name: program
+  - name: registration
   - name: speakers
   - name: sponsor
   - name: contact
@@ -47,6 +51,11 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+#  - name: "Ajay Bannai"
+#    employer: "Current Analytics Corporation"
+#    image: "ajay-bannai.jpg"
+#    linkedin: "https://www.linkedin.com/in/ajay-bannai-934b066/"
+#    bio: "With more than 26 years in IT software, Ajay has designed and built many systems covering data analysis, middleware systems and end user applications. Ajay has spent more than 12 years in the Retail Energy space and is a seasoned architect. Ajay is TOGAF certified and also a qualified Software Architect from Carnegie Mellon University."
   - name: "Dan Collins"
     employer: "Current Analytics Corporation"
     linkedin: "https://www.linkedin.com/in/thedancollins/"
@@ -54,42 +63,43 @@ team_members: # Name is the only required field for team members.
     github: "thedancollins"
     website: "http://thedancollins.com/"
     twitter: "realdancollins"
+    image: "dan-collins.jpg"
     bio: "Dan is a U of H graduate with over 20 years of experience in software and systems development.  In the Microsoft-heavy world of Houston retail energy systems, he specializes in non-Microsoft technologies with an emphasis on lean methodology and automated software pipelines.  Dan is a recovering, former advocate of embedded IT, a blockchain gadfly and has been leading the Houston DevOps Meetup since June 2017.  The future is decentralized, distributed, renewable, sustainable and powered by Houston Texas."
-  - name: "Devlin Liles"
-    employer: "Improving - Houston"
-    linkedin: "https://www.linkedin.com/in/devlinliles/"
-    twitter: "DevlinLiles"
-    github: "devlinliles"
-    bio: "Devlin is a President at Improving – Houston, 6 time Microsoft MVP, and a passionate technologist."
   - name: "Julia Ito"
     employer: "Endurance Corporation"
     linkedin: "https://www.linkedin.com/in/julia-ito-9983721/"
+    image: "julia-ito.jpg"
     bio: "Julia is a Product Manager and technology passionate, who loves delivering solutions that matter faster and better."
   - name: "Keegan Cotton"
     employer: "Datadog"
     linkedin: "https://www.linkedin.com/in/keegan-cotton-a6602b1/"
+    image: "keegan-cotton.jpg"
     twitter: "keegancotton"
     bio: "Keegan is an Senior Account Executive at Datadog.  Both a West Point graduate and London Business School alumnus, Keegan has a 20 year track record as a catalyst for both large and small organizations - helping them grow into new markets across several continents.  Keegan has led organizations both in and out of uniform, and helped those organizations refine and execute on their business technology strategies.  Native Texan.  DevOps enthusiast.  Avid learner.  Proud father and husband."
   - name: "Reggie Davis"
     employer: "Global Custom Commerce"
     twitter: "madblkman"
+    image: "reginald-davis.jpg"
     linkedin: "https://www.linkedin.com/in/reginald-j-davis/"
     bio: "Reggie is a self-taught programmer turned cloud engineer who has a passion for designing cloud architecture, increasing developer efficiency through the practice of DevOps, and improving the culture of technology by creating highly collaborative environments. Co-founder of the meetup group, 'Tech for the Culture' and co-organizer of Ng-Houston."
-  - name: "Ryan Hillard"
+  - name: "Ryan Hillard" 
     employer: "U.S. Small Business Administration"
     linkedin: "https://www.linkedin.com/in/ryanhillard/"
     github: "rchillard"
+    image: "hillard-ryan.jpg"
     website: "https://rch.fyi/"
     bio: "Ryan is a design thinking agile geek and DevOps enthusiast obsessed with wicked problems."
   - name: "Shravan Arra"
     employer: "The Altus Group"
     linkedin: "https://www.linkedin.com/in/shravanarra/"
     twitter: "shravanarra"
+    image: "shravan-arra.jpg"
     bio: "Shravan has 20+ years of software industry experience holding positions from programming to leadership roles both in commercial organizations and Non-Profit organizations.  He has been associated with a highly successful Agile Leadership Network Houston user group for many years in many leadership positions.  Combines his strong technical background with influencing modern development practices in his teams to transform teams and deliver high valued applications.  Currently serving as Director of Development Operations at The Altus Group.  Long time Houstonian, loves to watch the Texans."
   - name: "Svetlana Kryukova"
     employer: "Two Sigma Solutions"
     linkedin: "https://www.linkedin.com/in/svetlana-kryukova/"
     github: "skryukova"
+    image: "svetlana-kryukova.jpg"
     bio: "Svetlana is a software development leader with over 20 years of experience in enterprise software. Passionate about building teams, creating new products and solving problems. Co-organizer of Houston DevOps Meetup since June 2018."
 
 organizer_email: "organizers-houston-2019@devopsdays.org" # Put your organizer email address here
@@ -98,11 +108,40 @@ proposal_email: "proposals-houston-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: collabnet-versionone
+    level: platinum
+  - id: dynatrace
+    level: platinum
   - id: twosigma
     level: gold
+  - id: datadog
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: mongodb
+    level: gold
+  - id: chef
+    level: gold
+  - id: solarwinds
+    level: gold
+  - id: cloudbees
+    level: gold
+  - id: elastic
+    level: gold
+  - id: microsoft
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: firemon
+    level: silver
+  - id: gitlab
+    level: silver
+  - id: hostgator
+    level: silver
   - id: fearless
     level: bronze
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: aws
+    level: bronze
   - id: arresteddevops
     level: community
 
@@ -118,11 +157,267 @@ sponsor_levels:
     max: 2
   - id: gold
     label: Gold
-#    max: 10
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 4 
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
+program:
+  - title: "Registration, Breakfast, Sponsor Booths Open"
+    type: custom
+    date: 2019-04-16
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-16
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "donovan-brown"
+    type: talk
+    date: 2019-04-16
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-16
+    start_time: "09:45"
+    end_time: "10:00"
+    background_color: "#D0D0D0"
+  - title: "h-waldo-grunenwald"
+    type: talk
+    date: 2019-04-16
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booths"
+    type: custom
+    date: 2019-04-16
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2019-04-16
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ramesh-podila"
+    type: talk
+    date: 2019-04-16
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2019-04-16
+    start_time: "11:00"
+    end_time: "12:00"
+    comments: "Where: Movie Studio Grill"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2019-04-16
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignite Talks:"
+    type: ignite
+    date: 2019-04-16
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: 2019-04-16
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Break, Visit Sponsor Booths"
+    type: custom
+    date: 2019-04-16
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "sagar-karmarkar"
+    type: talk
+    date: 2019-04-16
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "erik-peterson"
+    type: talk
+    date: 2019-04-16
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2019-04-16
+    start_time: "14:30"
+    end_time: "15:30"
+    comments: "Where: Movie Studio Grill"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-16
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2019-04-16
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-16
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2019-04-16
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-16
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2019-04-16
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-04-16
+    start_time: "17:30"
+    end_time: "17:45"
+    background_color: "#D0D0D0"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-04-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-04-17
+    start_time: "09:00"
+    end_time: "09:15"
+    background_color: "#D0D0D0"
+  - title: "robert-reeves"
+    type: talk
+    date: 2019-04-17
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-04-17
+    start_time: "09:45"
+    end_time: "10:00"
+    background_color: "#D0D0D0"
+  - title: "biswajit-das"
+    type: talk
+    date: 2019-04-17
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break, Visit Sponsor Booths"
+    type: custom
+    date: 2019-04-17
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "shaun-ladewig"
+    type: talk
+    date: 2019-04-17
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "oleg-atamanenko"
+    type: talk
+    date: 2019-04-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "jj-asghar-istio"
+    type: workshop
+    date: 2019-04-17
+    start_time: "11:00"
+    end_time: "12:00"
+    comments: "Where: Movie Studio Grill"
+  - title: "Lunch, Visit Sponsor Booths"
+    type: "custom"
+    date: 2019-04-17
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "kevin-crawley"
+    type: talk
+    date: 2019-04-17
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space (Attendee Led Breakout Session) Organizing"
+    type: open-space
+    date: 2019-04-17
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "eddie-zaneski"
+    type: workshop
+    date: 2019-04-17
+    start_time: "13:00"
+    end_time: "14:00"
+    comments: "Where: Movie Studio Grill"
+  - title: "Break, Visit Sponsor Booths"
+    type: "custom"
+    date: 2019-04-17
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "john-esser"
+    type: talk
+    date: 2019-04-17
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "lee-barnes"
+    type: talk
+    date: 2019-04-17
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-17
+    start_time: "15:30"
+    end_time: "15:40"
+  - title: "Open Space (Attendee Led Breakout Session) #1"
+    type: open-space
+    date: 2019-04-17
+    start_time: "15:40"
+    end_time: "16:10"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-17
+    start_time: "16:10"
+    end_time: "16:20"
+  - title: "Open Space (Attendee Led Breakout Session) #2"
+    type: open-space
+    date: 2019-04-17
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Open Space (Attendee Led Breakout Session) Break"
+    type: custom
+    date: 2019-04-17
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Open Space (Attendee Led Breakout Session) #3"
+    type: open-space
+    date: 2019-04-17
+    start_time: "17:00"
+    end_time: "17:30"
+  - title: "Closing"
+    type: custom
+    date: 2019-04-17
+    start_time: "17:30"
+    end_time: "17:45"
+    background_color: "#D0D0D0"
+
+ignites:
+  - title: "margaret-valtierra"
+    date: "2019-04-16"
+  - title: "jj-asghar"
+    date: "2019-04-16"
+  - title: "jay-gordon"
+    date: "2019-04-16"
+  - title: "aaron-aldrich-ignite"
+    date: "2019-04-16"
+  - title: "chris-black"
+    date: "2019-04-16"
+    
+    

@@ -1,14 +1,18 @@
 name: "2019-ghent" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Ghent" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdaysghent" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming BACK to Ghent!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "Ghent"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-10-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-10-30  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-10-28T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-30T23:59:59+01:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -26,14 +30,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Ghent" # Defaults to city, but you can make it the venue name.
+coordinates: "51.047665, 3.728371" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Vooruit" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Sint-Pietersnieuwstraat 23, 9000 Gent" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
@@ -49,22 +53,40 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Kris Buytaert"
     twitter: "KrisBuytaert"
+    github: "KrisBuytaert"
+    linkedin: "https://www.linkedin.com/in/krisbuytaert"
   - name: "Patrick Debois"
     twitter: "patrickdebois"
+    github: "jedi4ever"
+    linkedin: "https://be.linkedin.com/in/patrickdebois"
   - name: "Rudy Gevaert"
     twitter: "rgevaert"
+    github: "rgevaert"
+    linkedin: "https://be.linkedin.com/in/rudygevaert/"
   - name: "Stefan Goethals"
     twitter: "zipkid"
+    github: "zipkid"
+    linkedin: "https://be.linkedin.com/in/zipkid"
   - name: "Yves Hanoulle"
     twitter: "YvesHanoulle"
+    github: "yveshanoulle"
+    linkedin: "https://be.linkedin.com/in/yveshanoulle"
   - name: "Harm Boertien"
     twitter: "Harm_Ops"
+    github: "HarmB"
+    linkedin: "https://nl.linkedin.com/in/harmboertien"
   - name: "Yvo van Doorn"
     twitter: "yvov"
+    github: "yvovandoorn"
+    linkedin: "https://nl.linkedin.com/in/yvovandoorn"
   - name: "Mine Heck"
     twitter: "Mine_Akman"
+    github: "mineheck"
+    linkedin: "https://nl.linkedin.com/in/mine-heck-85a2bb46"
   - name: "Toshaan Bharvani"
-    tiwtter: "toshywoshy"
+    twitter: "toshywoshy"
+    github: "toshywoshy"
+    linkedin: "https://www.linkedin.com/in/toshaan"
 
 
 
@@ -73,6 +95,15 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  # social
+  # exclusive
+  # gold
+  # silver
+  # bronze
+  - id: inuits
+    level: bronze
+  # community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -81,13 +112,19 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: socialevent
+    label: Social Event
+  - id: exclusive
+    label: Exclusive
+    max: 1
   - id: gold
     label: Gold
-#    max: 10
+    max: 8
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 8
   - id: bronze
     label: Bronze
+    max: 10
   - id: community
     label: Community

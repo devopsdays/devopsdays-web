@@ -86,14 +86,14 @@ sponsors:
     level: blackdiamond
   - id: newrelic
     level: blackdiamond
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: blackdiamond
   - id: cloudpassage
     level: blackdiamond
   - id: opsgenie
     level: bluesquare
     url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_SLC_%20May&utm_medium=banner
-  - id: pure-storage
+  - id: pure-storage-before-20190114
     level: bluesquare
   - id: elastic
     level: blackdiamond
@@ -103,7 +103,7 @@ sponsors:
     level: bluesquare
   - id: chef
     level: bluesquare
-  - id: electriccloud
+  - id: electriccloud-before-20190320
     level: blackdiamond
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

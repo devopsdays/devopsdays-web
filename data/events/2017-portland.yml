@@ -74,7 +74,7 @@ proposal_email: "proposals-portland-2017@devopsdays.org" # Put your proposal ema
 sponsors:
     - id: columbia
       level: gold
-    - id: pivotal
+    - id: pivotal-before-20190307
       level: gold
     - id: recompiler
       level: community
@@ -126,7 +126,7 @@ sponsors:
       level: cmccd
     - id: tripwire
       level: bronze
-    - id: thoughtworks-gocd
+    - id: thoughtworks-gocd-before-20190213
       level: silver
     - id: pagerduty
       level: gold
@@ -163,9 +163,9 @@ sponsors:
       level: donuts
     - id:  microsoftazure-before-20171017
       level: lunch
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: cmccd
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

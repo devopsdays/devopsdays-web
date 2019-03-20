@@ -49,7 +49,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: stratasan
     level: beverage
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: netapp
     level: silver

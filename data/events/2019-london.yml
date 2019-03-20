@@ -2,23 +2,25 @@ name: "2019-london" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "London" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysLDN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays is coming to London!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+description: "DevOpsDays is coming to London!" # Edit this to suit your preferences ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-09-26T00:00:00+00:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-09-27T00:00:00+00:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-09-26T00:00:00+01:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-27T23:59:59+01:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-01-16T00:00:00+00:00
-cfp_date_end: 2019-05-26T23:59:59+00:00
-cfp_date_announce: 2019-06-26T00:00:00+00:00
+cfp_date_end: 2019-05-26T23:59:59+01:00
+cfp_date_announce: 2019-06-26T00:00:00+01:00
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-25T00:00:00+00:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-11-27T00:00:00+00:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -31,9 +33,9 @@ location: "London" # Defaults to city, but you can make it the venue name.
 location_address: "QEII Centre, Broad Sanctuary, Westminster"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
- # - name: registration
+  - name: registration
 # - name: program
 # - name: speakers
   - name: sponsor
@@ -85,6 +87,18 @@ sponsors:
     # Evening Event
   - id: f5
     level: evening
+    # Gold
+  - id: circleci
+    level: gold
+  - id: influxdata
+    level: gold
+  - id: pivotal
+    level: gold
+    # Silver
+  - id: datadog
+    level: silver
+  - id: tecknuovo
+    level: silver
     # Community
   - id: leeds-devops
     level: community

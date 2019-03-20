@@ -124,7 +124,7 @@ proposal_email: "proposals-zuerich-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: swisscom
+  - id: swisscom-before-20190117
     level: gold
   - id: pontine
     level: gold
@@ -134,7 +134,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: vshn
     level: silver
@@ -148,7 +148,7 @@ sponsors:
     level: silver
   - id: nine-before-20171216
     level: silver
-  - id: xebialabs
+  - id: xebialabs-before-20190312
     level: gold
   - id: puzzle-itc
     level: bronze

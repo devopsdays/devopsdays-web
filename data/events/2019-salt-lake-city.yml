@@ -2,10 +2,15 @@ name: "2019-salt-lake-city" # The name of the event. Four digit year with the ci
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysslc" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
 description: "Devopsdays is returning to Salt Lake City!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-05-14T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2019-05-15T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
@@ -14,14 +19,14 @@ cfp_date_start: 2018-11-15T07:01:00-06:00  # start accepting talk proposals.
 cfp_date_end: 2019-01-07T07:01:00-06:00 # close your call for proposals.
 cfp_date_announce:  2018-11-15T07:01:00-06:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/slcdod2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-28T07:01:00-06:00  # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-13T23:59:59-06:00    # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.slcdevopsdays.org/purchase-tickets/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -33,10 +38,10 @@ location_address: "322 11000 S, South Jordan, UT 84095" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: slcdevopsdays.org
     url: https://www.slcdevopsdays.org
-  - name: propose
- # - name: location
- # - name: registration
- # - name: program
+ # - name: propose
+  - name: location
+  - name: registration
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -52,40 +57,80 @@ team_members: # Name is the only required field for team members.
     - name: "Jason Vance"
       twitter: "jasonsvance"
       employer: "Accela, Inc."
+      linkedin: "https://www.linkedin.com/in/jason-s-vance/"
     - name: "Allia DeAngelis"
       twitter: "adeangelis"
-      employer: "NCR"
+      employer: "Accenture | SolutionsIQ"
+      linkedin: "https://www.linkedin.com/in/allia-deangelis-9847a01/"
     - name: "Trent Cameron"
       twitter: "tvc123"
-      employer: "Adobe"
+      employer: "Amazon aws"
+      linkedin: "https://www.linkedin.com/in/trentoncameron"
     - name: "Randall Mawhinnie"
       employer: "Virtustream, A Dell Technologies Business"
       twitter: "rmawhinnie"
+      linkedin: "https://www.linkedin.com/in/rmawhinnie/"
     - name: "Lindley White"
-      employer: "Teem"
+      employer: "WeWork"
       twitter: "lindleywhite"
+      linkedin: "https://www.linkedin.com/in/lindleywhite/"
     - name: "Brett Palmer"
       twitter: "brettgpalmer"
       employer: "Department of Workforce Services"
       linkedin: "http://www.linkedin.com/in/brett-palmer-161177"
       image: "brett-palmer.png"
     - name: "Maria Bates"
+      linkedin: "http://linkedin.com/in/mesbates"
     - name: "Barry McCormick"
       employer: "Digital Harbor"
+      linkedin: "https://www.linkedin.com/in/barry-mccormick-a41a727/"
       image: "barry-mccormick.png"
-    - name: "Curtis Salisbury"
-    - name: "Heather Walker"
+    - name: "Heather Blood"
+      employer: "Progressive Leasing"
+      linkedin: "https://www.linkedin.com/in/heather-blood-990505a6/"
+    - name: "Carlos Kidman"
+      employer: "Jane.com"
+      linkedin: "https://www.linkedin.com/in/carlos-kidman/"
+      twitter: "CarlosKidman"
+      bio: "Carlos Kidman is the QA Manager at Jane.com, but who would have thought that 'Magic the Gathering' would introduce him to QA in the first place? Now it's an integral part of his life. He started in QA Engineering, but quickly moved into Test Automation and grew to appreciate each player and role in the development game. He wants to share the love and joy he's found with QA and believes that a rising tide raises all ships. Carlos specializes in creating Test Automation Frameworks for UI, Integration, and Service tests, scaling tests and empowering developers and testers with CI/CD tools like Jenkins, Docker, and Kubernetes, and works closely with Infrastructure and DevOps organizations. Carlos is very active in the local tech community, founding both 'QA at the Point' and 'QA Utah' and is also a board member of SLC's DevOpsDays."
+      image: "carlos-kidman.png"
+    - name: "Claiton Weeks"
+      employer: "Virtustream / Dell Technologies"
+      linkedin: "https://www.linkedin.com/in/claiton-weeks/"
+      twitter: "vsc_sre"
 organizer_email: "organizers-salt-lake-city-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-salt-lake-city-2019@devopsdays.org"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #- id: samplesponsorname
-  #  level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+    - id: accela
+      level: gold
+    - id: chef
+      level: gold
+    - id: codefresh
+      level: gold
+    - id: dynatrace
+      level: gold
+    - id: influxdata
+      level: gold
+    - id: instana
+      level: gold
+    - id: newrelic
+      level: gold
+    - id: rundeck
+      level: gold
+    - id: sonatype
+      level: gold
+    - id: circleci
+      level: silver
+    - id: signalfx
+      level: silver
+    - id: accenture
+      level: lanyard
   #- id: arresteddevops
   #  level: community
+  #  url: "https://www.sponsorsurl.com/" # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -103,5 +148,22 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 6
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: community
     label: Community
+
+program:
+  # Day 1
+  - title: "Day 1: To be announced."
+    type: custom
+    date: "2019-05-14"
+    start_time: "08:00"
+    end_time: "18:00"
+  # Day 2
+  - title: "Day 2: To be announced."
+    type: custom
+    date: "2019-05-15"
+    start_time: "08:00"
+    end_time: "18:00"

@@ -5,7 +5,11 @@ event_twitter: "devopsdays_clt" # Change this to the twitter handle for your eve
 description: "Devopsdays is coming back to Charlotte!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-02-07T00:00:00-05:00
 enddate: 2019-02-08T23:59:59-05:00
 
@@ -69,14 +73,6 @@ proposal_email: "proposals-charlotte-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#   - id: datadog
-#     level: gold
-#   - id: dellemc
-#     level: gold
-#   - id: dynatrace
-#     level: gold
-#   - id: microsoft
-#     level: gold
   - id: rundeck
     level: gold
   - id: gitlab
@@ -85,33 +81,35 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
-#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#   - id: chef
-#     level: silver
-#   - id: cloudbees
-#     level: silver
-#   - id: cyberark-before-20180505
-#     level: silver
+  - id: signalfx
+    level: silver
+  - id: diamanti
+    level: gold
   - id: influxdata
     level: gold
-#   - id: instana
-#     level: silver
-#   - id: newrelic
-#     level: silver
-#   - id: portworx
-#     level: silver
-#   - id: thoughtworks-gocd
-#     level: silver
-#   - id: spoken
-#     level: silver
-#   - id: sumologic
-#     level: silver
-#   - id: accenture
-#     level: bronze
-#   - id: relus
-#     level: bronze
-#   - id: arresteddevops
-#     level: community
+  - id: sumologic
+    level: gold
+  - id: vividcortex
+    level: silver
+  - id: dynatrace
+    level: gold
+  - id: softed
+    level: silver
+  - id: sonatype
+    level: gold
+  - id: mongodb
+    level: bronze
+  - id: redhat
+    level: gold
+  - id: cloudbees-codeship
+    level: bronze
+  - id: servicenow
+    level: silver
+  - id: jfrog
+    level: silver
+  - id: ahead-appdynamics
+    level: gold
+#  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

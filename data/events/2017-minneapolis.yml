@@ -72,7 +72,7 @@ proposal_email: "proposals-minneapolis-2017@devopsdays.org"
 sponsors:
   - id: arresteddevops
     level: community
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
   - id: microsoftazure-before-20171017
     level: silver
@@ -90,7 +90,7 @@ sponsors:
     level: gold
   - id: veritas
     level: silver
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: platinum
   - id: mesosphere
     level: silver
@@ -152,7 +152,7 @@ sponsors:
     level: community
   - id: logicmonitor
     level: silver
-  - id: electriccloud
+  - id: electriccloud-before-20190320
     level: gold
   - id: healthpartners
     level: silver

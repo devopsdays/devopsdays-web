@@ -53,7 +53,7 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
   - id: redhat
     level: platinum
@@ -83,7 +83,7 @@ sponsors:
     level: gold
   - id: extron
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: dynatrace
     level: gold

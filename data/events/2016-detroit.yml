@@ -39,7 +39,7 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-detroit-2016@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-detroit-2016@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: rightbrain
     level: gold
@@ -67,7 +67,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: proquest
     level: bronze
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: bronze
   - id: oreilly
     level: media

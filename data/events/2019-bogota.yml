@@ -1,0 +1,101 @@
+name: "2019-bogota" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Bogotá" # The city name of the event. Capitalize it.
+event_twitter: "DevopsdaysB" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "¡Sé parte del primer devopsdays Bogota!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-25T08:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-26T18:00:00-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-02-12T17:30:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-05-01T23:59:00-05:00  # close your call for proposals.
+cfp_date_announce: 2019-05-13T23:59:00-05:00  # inform proposers of status
+
+cfp_open: "false"
+cfp_link: "https://www.papercall.io/devopsdaysbogota" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+masthead_background: "location.jpg"
+
+registration_date_start: 2019-03-01T17:30:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-24T17:30:00-06:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdays.co/entradas" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "4.682563, -74.123580" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro de Excelencia Operacional Avianca" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Dg. 25g ##95a-85, Bogotá, Cundinamarca" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: location
+ # - name: registration
+ # - name: program
+  - name: speakers
+  - name: propose
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Laura Caceres"
+    employer: ""
+    bio: "Ingeniero de sistemas especializado en ingeniería de software, con experiencia en tranformaciones digitales consultoria e implementacion de DevOps."
+    image: "laura.jpg"
+    twitter: "@amapolita177"
+  - name: "Carlos Zapata"
+    employer: ""
+    bio: "Ingeniero electrónico con una experiencia laboral de más de 20 años en el sector tecnológico y en Gestión de Proyectos. Formador en marcos, técnicas y prácticas de la transformación ágil organizacional, forjando estrategias de crecimiento orgánico en áreas de TI, innovación, diseño, implementacion de sistemas, riesgos, transformación digital, entre otros."
+    image: "carlos.jpg"
+    # twitter: "@"
+  - name: "Rafael Martinez"
+    employer: ""
+    bio: "Ingeniero de sistemas con experiencia en implementación de prácticas, procesos y tecnologias DevOps en industrias como banca, telcos, aviancaión y productos. entrenador en metodologias agiles, cultura DevOps y plataformas y aplicaciones de automatización."
+    image: "rafael.jpg"
+    twitter: "@rafaelMartAng"
+
+organizer_email: "organizers-bogota-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-bogota-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: avianca
+    level: diamond
+  - id: devopsinstitute
+    level: silver
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: diamond
+    label: diamond
+#    max: 1
+  - id: platinum
+    label: platinum
+    max: 0 # This is the same as omitting the max limit.
+  - id: gold
+    label: gold
+  - id: silver
+    label: silver

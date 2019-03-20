@@ -47,7 +47,7 @@ proposal_email: "proposals-kansascity-2016@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: servicenow-before-20180620
     level: gold

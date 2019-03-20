@@ -57,7 +57,7 @@ proposal_email: "proposals-philadelphia-2017@devopsdays.org" # Put your proposal
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: influxdata-before-20171218
     level: gold
@@ -65,7 +65,7 @@ sponsors:
     level: gold
   - id: micro-focus
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: signifai
     level: gold
@@ -75,7 +75,7 @@ sponsors:
     level: gold
   - id: ns1
     level: gold
-  - id: diamanti
+  - id: diamanti-before-20190108
     level: gold
   - id: appdynamics-before-20180316
     level: gold

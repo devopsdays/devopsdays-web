@@ -4,35 +4,37 @@ city: "Cuba" # The city name of the event. Capitalize it.
 friendly: "2019-cuba" # Four digit year and the city name in lower-case. Don't forget the dash!
 event_twitter: "devopsdayscuba"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-# Don't think thisis used anymore. - status: "" # Options are "past" or "current". Use "current" for upcoming.
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
-startdate:   # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-06-23T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-06-30T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:   # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-03-03T00:00:00-05:00  # start accepting talk proposals.
+cfp_date_end: 2019-04-24T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2019-04-30T23:59:59-04:00 # inform proposers of status
 
-cfp_open: ""
-cfp_link: ""
+cfp_link: "https://www.papercall.io/cfps/2028/submissions/new"
 
 registration_open: "false"
 registration_link: ""
 
 # Location
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "" # Defaults to city, but you can make it the venue name.
-location_address: ""
+coordinates: "22.65757,-79.029979,18z" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Villa Clara" # Defaults to city, but you can make it the venue name.
+location_address: "Grand Memories Santa Maria All Inclusive, Cayo Santa Maria"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 
   - name: about
-#  - name: location
+  - name: location
 #  - name: speakers
 #  - name: program
-#  - name: propose
+  - name: propose
 #  - name: registration
 #  - name: discount
 #  - name: sponsor
@@ -41,40 +43,44 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
+
   - name: "Enrique Carbonell"
-    employer: "DATYS"
+    employer: "PYXIS"
     bio:
     twitter: "kikicarbonell"
-    linkedin: "https://www.linkedin.com/in/enrique-carbonell/"
+    linkedin: "https://www.linkedin.com/in/enrique-carbonell"
     facebook:
-    website: "http://www.datys.cu/"
+    website: "http://www.pyxisportal.com"
     github:
     image: "enrique-carbonell.jpg"
+
   - name: "Manuel Oliver"
     employer: "Central University Martha Abreu of Las Villas"
     bio:
     twitter: "taqchi"
     linkedin: "https://www.linkedin.com/in/manuel-oliver-dominguez-5bb6b639/"
     facebook:
-    website: "http://www.uclv.edu.cu/"
+    website: "http://www.uclv.edu.cu"
     github:
     image: "manuel-oliver.jpg"
+
   - name: "Rudy Gevaert"
-    employer: "Ghent University"
+    employer: "GIG Technology"
     bio:
     twitter: "rgevaert"
-    linkedin: "https://www.linkedin.com/in/rudygevaert/"
+    linkedin: "https://www.linkedin.com/in/rudygevaert"
     facebook:
-    website: "http://www.ugent.be/"
+    website: "https://gig.tech"
     github:
     image: "rudy-gevaert.jpg"
+
   - name: "Yadier Perdomo"
     employer: "University of Informatic Sciences"
     bio:
     twitter: "ypc_cu"
     linkedin:
     facebook:
-    website: "http://www.uci.cu/"
+    website: "http://www.uci.cu"
     github:
     image: "yadier-perdomo.jpg"
 
@@ -87,9 +93,6 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimitted sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
-#  - id: platinum
-#    label: Platinum
-#    max: "0"
   - id: gold
     label: Gold
     max: "0"
@@ -101,25 +104,26 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
     max: "0"
   - id: honorary
     label: Honorary
-    max: "2"
-  - id: media
-    label: Media
-    max: "6"
+    max: "0"
+#  - id: media
+#    label: Media
+#    max: "0"
   - id: community
     label: Community
-    max: "6"
-#  - id: sticker
-#    label: Sticker
-#    max: "1"
+    max: "0"
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: vlired
     level: honorary
-  - id: ado
-    level: community
+  - id: convencionuniversidadsantaclara
+    level: honorary
+  - id: uclv
+    level: honorary
   - id: docker-havana
     level: community
   - id: addo
+    level: community
+  - id: devopslinks
     level: community

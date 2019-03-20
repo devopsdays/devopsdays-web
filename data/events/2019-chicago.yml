@@ -5,16 +5,20 @@ event_twitter: "devopsdaysChi" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Chicago!" # Edit this to suit your preferences
 ga_tracking_id: "UA-74738648-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-08-27T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-08-28T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-02-15T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2019-05-03T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2019-06-03T23:59:59-05:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -27,18 +31,18 @@ masthead_background: "skyline-night.jpg"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Chicago" # Defaults to city, but you can make it the venue name.
+coordinates: "41.866943,-87.646142" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "UIC Forum" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -107,7 +111,7 @@ team_members:
     website: "https://www.mattstratton.com"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matty Stratton is a HumanOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He lives in San Francisco and has three awesome kids - Henry, Joey, and Sophia, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
+    bio: "Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He lives in San Francisco and has three awesome kids, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "BreakFree Solutions"
@@ -129,11 +133,14 @@ proposal_email: "proposals-chicago-2019@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: rundeck
+    level: gold
+  - id: rancher
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -144,7 +151,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-#    max: 10
+    max: 0
   - id: silver
     label: Silver
     max: 0 # This is the same as omitting the max limit.

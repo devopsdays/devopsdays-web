@@ -1,29 +1,34 @@
 name: "2019-natal" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Natal" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays-natal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdaysnatal" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_logo: "logo-square.jpg"
 description: "DevOpsDays is coming to Natal!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-03-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-03-09 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-03-09T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-03-09T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-12-28 # start accepting talk proposals.
-cfp_date_end: 2019-02-10 # close your call for proposals.
-cfp_date_announce: 2019-02-11 # inform proposers of status
+cfp_date_start: 2018-12-28T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-02-15T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2019-02-16T23:59:59-03:00 # inform proposers of status
 
 cfp_open: "false"
-cfp_link: "https://speakerfight.com/events/devopsdays-natal/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://speakerfight.com/events/devopsday-natal-2019/" # if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "natal.jpg"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-22T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-03-06T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "" # set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdaysnatal.eventize.com.br" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,25 +41,24 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Informações
     icon: "map-o"
     url: /events/2019-natal/location
-## Uncomment to show on page
-  # - name: Palestrantes
-  #   icon: "microphone"
-  #   url: /events/2019-natal/speakers
-  # - name: Programação
-  #   icon: "book"
-  #   url: /events/2019-natal/program
-  # - name: Local
-  #   icon: "map-o"
-  #   url: /events/2019-natal/location
-  # - name: Palestre (CFP)
-  #   icon: "user-plus"
-  #   url: "https://www.papercall.io/devopsdaysnatal"
+  - name: Palestrantes
+    icon: "microphone"
+    url: /events/2019-natal/speakers
+  - name: Programação
+    icon: "book"
+    url: /events/2019-natal/program
+  - name: Local
+    icon: "map-o"
+    url: /events/2019-natal/location
+  - name: Palestre (CFP)
+    icon: "user-plus"
+    url: "https://speakerfight.com/events/devopsday-natal-2019/"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2019-natal/conduta
-  # - name: Ingressos
-  #   icon: "user-plus"
-  #   url: "https://devopsdaysnatal.eventize.com.br/"
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://devopsdaysnatal.eventize.com.br/"
   # - name: Patrocinio
   #   icon: "money"
   #   url: /events/2019-natal/patrocinio
@@ -92,21 +96,21 @@ team_members: # Name is the only required field for team members.
     image: "esther-aragao.jpg"
 
   - name: "Genilson Filho"
-    role: "Estagiário Sinfo"
+    role: "Desenvolvedor at Evolux"
     bio: "Técnico em Informática pelo IFRN e graduadp em Ciências e Tecnologia. Graduando em Engenharia da Computação. Trabalhar com TI há pouco mais de 5 anos."
     linkedin: "https://www.linkedin.com/in/jgdsfilho"
     website: ""
     github: "https://github.com/jgdsfilho"
-    twitter: "devopsdays-natal"
+    twitter: "@devopsdays-natal"
     image: "genilson-filho.jpg"
 
   - name: "Igor Oliveira"
-    role: "Consultor DevOps"
+    role: "Consultor DevOps at Instruct"
     bio: "Técnico em Informática pelo IFRN e graduando em Análise e Desenvolvimento de Sistemas, começou a trabalhar com TI há mais de 4 anos. Já atuou como desenvolvedor backend e frontend com diversas tecnologias, até que, ao começar a estudar práticas DevOps no início de 2018, passou a procurar se aprofundar cada vez mais nessa cultura. Atualmente trabalha principalmente com Infra as Code e consultoria na melhoria de processos e implantação de práticas e ferramentas DevOps."
     linkedin: "https://www.linkedin.com/in/igor-bezerra-9974b28b/"
     website: ""
     github: "https://github.com/igorolivei"
-    twitter: "devopsdays-natal"
+    twitter: "@devopsdays-natal"
     image: "igor-oliveira.jpg"
 
   - name: "Helenita Maciel Gurgel"
@@ -115,26 +119,8 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/helenitagurgel/"
     website: "https://www.behance.net/helenitagurgel"
     github: "https://github.com/helenitagurgel"
-    twitter: "devopsdays-natal"
+    twitter: "@devopsdays-natal"
     image: "helenita-gurgel.jpg"
-
-  - name: "Hiago Hubert"
-    role: "Engenheiro de DevOps"
-    bio: "Formado em Análise e Desenvolvimento de Sistemas pelo IFRN, trabalha com desenvolvimento de software há 10 anos. Atualmente trabalha na implantação de ferramentas e práticas de DevOps na Anchor Loans, empresa do ramo financeiro do Estados Unidos. "
-    linkedin: "https://www.linkedin.com/in/hiago-hubert-0a786549/"
-    website: "http://hiagohubert.github.io/"
-    github: "https://github.com/hiagohubert/"
-    twitter: "@HubertHiago"
-    image: "hiago-hubert.jpg"
-
-  - name: "Julio Lira"
-    role: "Estagiário de infraestrutura"
-    bio: "Sou estagiário de infraestrutura na ESIG, trabalhei durante 3 anos com desenvolvimento web como freelancer, fundei a comunidade WebDevRN e migrei para a área de infraestrutura e segurança já a mais de um ano."
-    linkedin: "linkedin.com/in/jul10l1r4/"
-    website: "jul10l1r4.github.io"
-    github: "github.com/jul10l1r4"
-    twitter: "devopsdays-natal"
-    image: "julio-lira.jpg"
 
   - name: "Leonardo Ataide Minora"
     role: "Professor at IFRN/CNAT"
@@ -171,8 +157,21 @@ proposal_email: "proposals-natal-2019@devopsdays.org" # Put your proposal email 
 #   - id: xxxx
 #     level: gold
 #     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
+sponsors:
+  - id: elastic
+    level: gold
+    url: https://elastic.co/
+  - id: adaptnow
+    level: community
+    url: https://www.adaptnow.com.br/
+  - id: ifrn
+    level: community
+    url: http://portal.ifrn.edu.br/
+  - id: 4linux
+    level: community
+    url: https://www.4linux.com.br/
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -190,18 +189,78 @@ sponsor_levels:
   - id: community
     label: Community
 program:
-  - title: "Credenciamento, breakfast e abertura"
-    type: open-space
+  - title: "Credenciamento e breakfast"
+    type: custom
     date: 2019-03-09
     start_time: "08:00"
     end_time: "08:30"
+  - title: "abertura"
+    type: talk
+    date: 2019-03-09
+    start_time: "08:30"
+    end_time: "08:40"
+  - title: "mateus-prado"
+    type: talk
+    date: 2019-03-09
+    start_time: "08:40"
+    end_time: "09:25"
+  - title: "matheus-ferraz"
+    type: talk
+    date: 2019-03-09
+    start_time: "09:25"
+    end_time: "10:00"
+  - title: "fernando-fish"
+    type: talk
+    date: 2019-03-09
+    start_time: "10:00"
+    end_time: "10:35"
+  - title: "victor-torres"
+    type: talk
+    date: 2019-03-09
+    start_time: "10:35"
+    end_time: "11:10"
+  - title: "rafael-gomes-aka-gomex"
+    type: talk
+    date: 2019-03-09
+    start_time: "11:10"
+    end_time: "11:45"
+  - title: "Almoço"
+    type: custom
+    date: 2019-03-09
+    start_time: "11:45"
+    end_time: "13:45"
+  - title: "matheus-oliveira"
+    type: talk
+    date: 2019-03-09
+    start_time: "13:50"
+    end_time: "14:25"
+  - title: "izael-effemberg"
+    type: talk
+    date: 2019-03-09
+    start_time: "14:25"
+    end_time: "15:00"
+  - title: "priscilla-parodi"
+    type: talk
+    date: 2019-03-09
+    start_time: "15:00"
+    end_time: "15:55"
   - title: "tbd"
     type: talk
     date: 2019-03-09
-    start_time: "16:10"
-    end_time: "16:35"
-  - title: "Encerramento"
-    type: open-space
+    start_time: "15:55"
+    end_time: "16:30"
+  - title: "Coffee Break"
+    type: custom
     date: 2019-03-09
-    start_time: "17:30"
-    end_time: "18:30"
+    start_time: "16:30"
+    end_time: "17:00"
+  - title: "aecio-pires"
+    type: talk
+    date: 2019-03-09
+    start_time: "17:00"
+    end_time: "17:45"
+  - title: "Encerramento"
+    type: custom
+    date: 2019-03-09
+    start_time: "17:45"
+    end_time: "17:55"

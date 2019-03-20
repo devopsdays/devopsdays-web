@@ -21,7 +21,7 @@ Description = "DevOpsDays Denver 2019!"
 
 * * *
 
-<div class = "row" style="font-size: 1.2em;">
+<div class = "row" style="font-size: 1.5em;">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>

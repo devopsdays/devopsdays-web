@@ -1,0 +1,139 @@
+name: "2019-porto-alegre" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Porto Alegre" # The displayed city name of the event. Capitalize it.
+event_twitter: "poadevopsday" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "A vida é muito curta pra trabalho manual" # Edit this to suit your preferences
+ga_tracking_id: "UA-85374985-2" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-24T00:00:00-03:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-25T23:59:59-03:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start: 2019-01-16T00:00:00-02:00  # start accepting talk proposals.
+cfp_date_end: 2019-02-28T23:59:59-03:00  # close your call for proposals.
+cfp_date_announce: 2019-03-15T23:59:59-03:00 # inform proposers of status
+
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdayspoa2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-02-27T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-24T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://devopsdayspoa2019.eventize.com.br/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "-29.980853,-51.115809" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Faculdade SENAI de Tecnologia" # Defaults to city, but you can make it the venue name.
+#
+location_address: "Av. Assis Brasil, 8450 - Sarandi, Porto Alegre - RS, 91010-004" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+  - name: propose
+  - name: location
+  - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+#  - name: "John Doe"
+#  - name: "Jane Smith"
+#    twitter: "devopsdays"
+#  - name: "Sally Fields"
+#    employer: "Acme Anvil Co."
+#    github: "devopsdays"
+#    facebook: "https://www.facebook.com/sally.fields"
+#    linkedin: "https://www.linkedin.com/in/sallyfields"
+#    website: "https://mattstratton.com"
+#    image: "sally-fields.jpg"
+#
+  - name: "Camila Mello de Freitas"
+    twitter: "kmilapoa"
+    image: "camila-freitas.jpg"
+  - name: "Camilla Martins"
+    bio: "Paulista, santista e alucinada pela Marvel. Fundadora da iniciativa NodeGirls e coordenadora do GDG Porto Alegre. Formada em ADS trabalho como Software Engineer na ThoughtWorks e sou desenvolvedora freelancer há mais de 6 anos, atualmente com foco em fullstack development. Nas horas vagas estou codando (também!) e cuidando de felinos e ratinhos de estimação."
+    twitter: "bayerndadepres"
+    image: "camilla-martins.jpg"
+  - name: "Cristiano Diedrich"
+    twitter: "omatofino"
+    facebook: "cristiano.diedrich"
+    linkedin: "https://www.linkedin.com/in/cristianodiedrich"
+    bio: "Formado em sistemas de informação, trabalho atualmente como Chapter Leader de Infraestrutura na Umbler, uma startup de hosting sob demanda, atuo na pesquisa e desenvolvimento de soluções para hosting e PaaS. Sou apaixonado por linux e tecnologias open-source, áreas que conheço a muitos anos."
+    image: "cristiano-diedrich.jpg"
+  - name: "Fabricia Doria"
+  - name: "Guilherme Elias"
+    twitter: "guilhermelias"
+  - name: "Julia Lamenza"
+    bio: "DevOps|SRE no Rio de Janeiro, adora aprender coisas novas e sempre está se atualizando no que ocorre no mundo tech.  Em seu tempo ocioso estuda mais e preenche gaps.  Tem como hobby viajar por ai."
+    image: "julia-lamenza.jpg"
+  - name: "Leonardo Martins"
+    bio: "Designer para Social Media, que gosta de trabalhar com criação de logo, apoiador da cultura DevOps (à sua maneira), designer dos eventos DevOpsDays PoA, DevOpsDays Salvador e DevOpsDays SP, fã de RPG's e diagramador nas horas vagas."
+    employer: "Dentalshop"
+    image: "leonardo-martins.jpg"
+  - name: "Marco Antonio Martins Junior (Somatório)"
+    employer: "Prefeitura Municipal de Esteio"
+    twitter: "somatorio"
+    github: "somatorio"
+    facebook: "https://facebook.com/osomatorio"
+    linkedin: "https://www.linkedin.com/in/somatorio/"
+    website: "http://somatorio.org"
+    bio: "Peão as a Service, entusiasta da cultura DevOps, organizador do meetup DevOps/SRE Porto Alegre, Docker community leader (Porto Alegre), fuçador convicto, roda praticamente tudo em containers, jogador noob sempre que posso."
+    image: "marco-junior.jpg"
+  - name: "Rachel Bins"
+  - name: "Rafael Gomes (Gomex)"
+    employer: "Crossover"
+    twitter: "gomex"
+    github: "gomex"
+    linkedin: "https://www.linkedin.com/in/rbgomes/"
+    website: "https://gomex.me"
+    bio: "Soteropolitano, hacker urbano e consultor de infraestrutura."
+  - name: "Ramon Schmidt"
+  - name: "Sebastian Webber"
+    twitter: "sebawebber"
+
+
+
+
+organizer_email: "organizers-porto-alegre-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-porto-alegre-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community

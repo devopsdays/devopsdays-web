@@ -2,20 +2,24 @@ name: "2019-portugal" # The name of the event. Four digit year with the city nam
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Portugal" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspt" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "devopsdays is coming to Portugal!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+description: "devopsdays is coming to Portugal for the first time!" # Edit this to suit your preferences
+ga_tracking_id: "UA-133818809-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2019-06-03T00:00:00+01:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-06-04T23:59:59+01:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-02-04T00:00:00+00:00 # start accepting talk proposals.
+cfp_date_end:  2019-03-31T23:59:59+00:00 # close your call for proposals.
+cfp_date_announce: 2019-04-10T23:59:59+01:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysportugal2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -25,17 +29,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Portugal" # Defaults to city, but you can make it the venue name.
+coordinates: "38.707073, -9.148971" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Lisbon, Portugal" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "EDP - Energias de Portugal, Av. 24 de Julho 12A, 1249-300 Lisboa" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
  # - name: location
- # - name: registration
+  - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -46,82 +50,94 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Manuel Pais" 
-    employer: "Independent"
-    bio:
-    linkedin: "https://www.linkedin.com/in/manuelpais/"
-    twitter: "manupaisable"
-    website:
-    image:
-  - name: "Eduardo Piairo"
-    employer: "Natixis"
-    bio:
-    linkedin: "linkedin.com/in/eduardopiairo"
-    twitter: "EdPiairo"
-    website: "https://www.eduardopiairo.com/"
-    image:
-  - name: "Miguel Alho"
-    employer: "FARO Technologies"
-    bio:
-    linkedin:
-    twitter: "MytyMyky"
-    website:
-    image:
-  - name: "Marta Torneiro"
-    employer: "Blip - Paddy Power Betfair"
-    bio:
-    linkedin: "https://www.linkedin.com/in/martatorneiro"
-    twitter:
-    website:
-    image: 
-  - name: "Urbano Freitas"
-    employer: "OutSystems"
-    linkedin: "https://www.linkedin.com/in/urbanofreitas/"
-    twitter: "UrbanoFreitas1"
-    website:
-    image:
   - name: "Cristina Rebelo"
     employer: "Meo"
+    bio: "With more than 10 years of experience in complex project management, Cristina is passionate for project management, especially using agile approaches as a means to optimize time and resources.Currently she manages a team of 20+ developing Meo TV. With a degree in Management, a graduation at Universidade Católica Portuguesa and two project management certifications, blogger and writer, married and mother of two, she often participates as speaker/host in public interest events."
     linkedin: "https://www.linkedin.com/in/crismr/"
     twitter: "crismr"
+    github: "Crismr71"
     website:
-    image:
-  - name: "Adnilson Delgado"
-    employer: "Wundertax"
-    linkedin: "https://www.linkedin.com/in/adnilson/"
-    twitter: "delgadoadnilson"
-    website:
-    image:
-  - name: "João Rodrigues"
-    employer: "OutSystems"
-    linkedin: "https://www.linkedin.com/in/joao-brandao-rodrigues"
-    twitter: "joaoblrodrigues"
-    website:
-    image:
-  - name: "Miguel Antunes"
-    employer: "OutSystems"
-    linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
-    twitter:
-    website:
-    image:
-  - name: "Ricardo Castro"
-    employer: "Uphold Inc"
-    linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
-    twitter: "mccricardo"
-    website:
-    image:
-  - name: "João Miranda"
-    employer: "BPI"
-    linkedin: "https://www.linkedin.com/in/jhosm/"
-    twitter: "jhosm"
-    website:
-    image:
+    image: cristina-rebelo.jpg
+  - name: "Eduardo Piairo"
+    employer: "Natixis"
+    bio: "Deployment pipeline craftsman always ready to learn new ways to implement Source Control, Continuous Integration and Continuous Delivery for databases, applications and infrastructure. The deployment pipeline it's my favorite technical and cultural tool. DevOps Whisperer with automation, collaboration and communication as priorities. Background as database administrator with special interest in database changes management and data modeling."
+    linkedin: "linkedin.com/in/eduardopiairo"
+    twitter: "EdPiairo"
+    github: "eduardopiairo"
+    website: "https://www.eduardopiairo.com/"
+    image: eduardo-piairo.jpg
   - name: "Elisete Cruz"
     employer: "Euronext"
+    bio: "Devops Engineer, Tools and Automation at Euronext. She started her career in the IT world 7 years ago. Her journey has been mainly in the Release Management role, but she had an adventure in development for 1 year. She is a fan of the DevOps culture." 
     linkedin: "https://pt.linkedin.com/in/elisetecruz"
     twitter: "elisetedcruz"
+    github:
     website:
-    image:
+    image: elisete-cruz.jpg
+  - name: "João Miranda"
+    employer: "Banco BPI"
+    bio: "João started his career in 2000, at the height of the dot-com bubble. That enlightening experience led him to the conclusion that agile practices (and now DevOps) are the best way to respond to the business needs of almost all organizations. He currently is IT manager at a large portuguese bank, where he helps to remove all friction that may hinder development teams fast pace."
+    linkedin: "https://www.linkedin.com/in/jhosm/"
+    twitter: "jhosm"
+    github: "jhosm"
+    website:
+    image: joao-miranda.jpg
+  - name: "João Rodrigues"
+    employer: "OutSystems"
+    bio: "João Rodrigues started his career in 1999 as a C and C++ software developer. The first 8 years working for a large traditional multi-national gave him a deep waterfall practices knowledge. He leveraged this experience to better understand the benefits of the Agile Movement and how to break the wall between business and development to reduce the software cost creep. After 8 more years working as a software development consultant applying agile methodologies, João started his latest professional journey 3 years ago at OutSystems. His is now playing the role of DevOps Practice Lead focusing on delivering better low-code software faster."
+    linkedin: "https://www.linkedin.com/in/joao-brandao-rodrigues"
+    twitter: "joaoblrodrigues"
+    github: "joaobrodrigues"
+    website:
+    image: joao-rodrigues.jpg
+  - name: "Manuel Pais"
+    employer: "Independent"
+    bio: "Independent DevOps and Continuous Delivery Consultant, focused on teams and flow. Manuel helps organizations adopting DevOps and Continuous Delivery (both from technical and human perspectives) via strategic assessments, practical workshops and technical coaching. He's also the DevOps lead for InfoQ. Tweets https://twitter.com/manupaisable. Blogs https://medium.com/@manupaisable. Manuel is co-author of a book on Software Releasability (http://releasabilitybook.com) and another on Team Topologies (http://teamtopologies.com)." 
+    linkedin: "https://www.linkedin.com/in/martatorneiro"
+    twitter: "manupaisable"
+    github: "manupaisable"
+    website: "https://www.manuelpais.net/"
+    image: manuel-pais.jpg
+  - name: "Marta Torneiro"
+    employer: "Blip - Paddy Power Betfair"
+    bio: "Delivery Manager at Blip - Paddy Power Betfair, focused on people and Continuous Improvement. She started her professional path in the QA and has always been an enthusiast about the Agile and DevOps cultures and on exploring new ways to deliver working software quickly without compromising quality." 
+    linkedin: "https://www.linkedin.com/in/martatorneiro"
+    twitter: 
+    github:
+    image: marta-torneiro.jpg 
+  - name: "Miguel Alho"
+    employer: "FARO Technologies"
+    bio: "Full-time, 14-years-in-the-making, software engineer with a DevOps and Craftsmanship mindset. Previously, I worked mainly as a dev freelancer, but also as a consultant, school teacher, media producer and project manager. I'm a very big fan of TDD as a development practice, very fond of microservices, of automating as much as possible in the dev, build and deploy pipeline, but also in finding ways to augment individual and team learning experiences."
+    linkedin: "https://www.linkedin.com/in/miguel-alho-9982331/"
+    twitter: "MytyMyky"
+    github: "MiguelAlho"
+    website: "http://www.miguelalho.pt"
+    image: miguel-alho.jpg
+  - name: "Miguel Antunes"
+    employer: "OutSystems"
+    bio: "Miguel Antunes is a DevOps advocate and an active member of the DevOps community in Portugal. Passionate about software engineering practices, he sees in DevOps a way to maximize business impact by promoting engineering excellence through the entire software lifecycle. He was part of establishing the DevOps and Continuous Delivery mindset at OutSystems R&D, which reshaped the way we think about and deliver products."
+    linkedin: "https://www.linkedin.com/in/miguelcostaantunes"
+    twitter:
+    github: "micantunes"
+    website:
+    image: miguel-antunes.jpg
+  - name: "Ricardo Castro"
+    employer: "Uphold Inc"
+    bio: "DevOps and Site Reliability Engineer at Uphold building highly performant, reliable and scalable systems. Strong believer in culture and team work. Open source passionate, taekwondo amateur and metal lover."
+    linkedin: "https://www.linkedin.com/in/ricardo-castro-9a039126/"
+    twitter: "mccricardo"
+    github: "mccricardo"
+    website:
+    image: ricardo-castro.jpg
+  - name: "Sérgio Amorim"
+    employer: "EDP"
+    bio: "I’m a software engineer, from head to toes! I'm passionate about design practices, architecture, quality, code and efficiency. For me, there is nothing more satisfying that helping others to meet their goal. From small companies to enterprises companies, if there is a software challenge, you can count on me! Currently, I'm at EDP to instantiate DevOps. An excellent challenge!"
+    linkedin: "https://www.linkedin.com/in/saamorim/"
+    twitter: "sacamorim"
+    github: 
+    website:
+    image: sergio-amorim.jpg
+  
 
 organizer_email: "organizers-portugal-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal email address here
@@ -129,11 +145,18 @@ proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
- # - id: samplesponsorname
- #   level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
- # - id: arresteddevops
- #   level: community
+ - id: edp
+   level: gold
+ - id: outsystems
+   level: gold
+ - id: claranet
+   level: bronze
+ - id: laredoute
+   level: bronze
+ - id: i2s
+   level: bronze   
+ - id: bitmaker
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

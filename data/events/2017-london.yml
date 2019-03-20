@@ -53,7 +53,7 @@ proposal_email: "proposals-london-2017@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: chef
     level: gold
@@ -224,7 +224,7 @@ program:
     date: 2017-09-07
     start_time: "09:00"
     end_time: "10:00"
-  - title: "erik-sasha-romijn"
+  - title: "sasha-romijn"
     type: talk
     date: 2017-09-07
     start_time: "10:00"

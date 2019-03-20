@@ -11,8 +11,7 @@ Description = "DevOpsDays Toronto 2019"
 
 </br>
 
-DevOpsDays Toronto is back for its sixth year at the end of May 2019. We're working out the final details with a great new venue. In the next couple of weeks we'll share dates, details on the venue and open up our call for proposals. Start thinking of session ideas.
-</br>
+DevOpsDays Toronto is back for its sixth year at the end of May 2019.</br>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -32,41 +31,41 @@ DevOpsDays Toronto is back for its sixth year at the end of May 2019. We're work
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
+</div>
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
-</div>
+</div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

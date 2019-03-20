@@ -61,9 +61,9 @@ proposal_email: "proposals-stockholm-2017@devopsdays.org" # Put your proposal em
 sponsors:
   - id: chef
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: opsgenie
     level: gold

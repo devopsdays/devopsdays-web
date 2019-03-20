@@ -3,9 +3,13 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Tokyo" # The displayed city name of the event. Capitalize it.
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-04-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-04-10 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-04-09T00:00:00+09:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-10T23:59:59+09:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-12-06T00:00:00+09:00 # start accepting talk proposals.
 cfp_date_end: 2019-01-31T15:00:00+09:00  # close your call for proposals.
@@ -26,6 +30,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   #  url: https://confengine.com/devopsdays-tokyo-2018/schedule
   - name: location
   - name: registration
+    url: https://www.eventbrite.com/e/devopsdays-tokyo-2019-tickets-52857940523
   - name: sponsor
   - name: contact
   - name: conduct
@@ -55,7 +60,22 @@ proposal_email: "proposals-tokyo-2019@devopsdays.org" # Put your proposal email 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors: []
+sponsors:
+  - id: f5
+    level: gold
+  - id: creationline
+    level: silver
+  - id: itpreneurs
+    level: silver
+    url: https://www.itpreneurs.co.jp/
+  - id: inedo
+    level: silver
+  - id: ciandt
+    level: silver
+  - id: lac
+    level: bronze
+  - id: yappli
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

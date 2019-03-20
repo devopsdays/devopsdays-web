@@ -70,7 +70,7 @@ proposal_email: "proposals-detroit-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: redhat
     level: gold
@@ -80,7 +80,7 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: ithaka
     level: gold
@@ -102,7 +102,7 @@ sponsors:
     level: AV
   - id: autonomic
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: gold
   - id: plex
     level: gold
