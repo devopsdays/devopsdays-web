@@ -114,6 +114,8 @@ sponsors:
     level: community
   - id: indyaws
     level: community
+  - id: appdynamics
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
