@@ -93,6 +93,13 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ralphrodkey"
     image: "ralph-rodkey.jpg"
 
+  - name: "Kenn White"
+    employer: "Open Crypto Audit Project"
+    website: "https://opencryptoaudit.org/people"
+    linkedin: "https://www.linkedin.com/in/biotech"
+    twitter: "kennwhite"
+    image: "kenn-white.jpg"
+
 organizer_email: "organizers-indianapolis-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-indianapolis-2019@devopsdays.org" # Put your proposal email address here
 
@@ -102,6 +109,12 @@ sponsors:
   - id: arresteddevops
     level: community
   - id: dynatrace
+    level: gold
+  - id: indypy
+    level: community
+  - id: indyaws
+    level: community
+  - id: appdynamics
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

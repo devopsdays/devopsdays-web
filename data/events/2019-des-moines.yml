@@ -34,13 +34,14 @@ coordinates: "41.591913,-93.622598" # The coordinates of your city. Get Latitude
 location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
 #
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# masthead_background: "header-dsm.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
 #  - name: propose
-  #  - name: program
-  #  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -97,6 +98,8 @@ sponsors:
     level: gold
   - id: granular
     level: gold
+  - id: hashicorp
+    level: gold
   - id: john-deere
     level: gold
   - id: signalfx
@@ -132,3 +135,142 @@ sponsor_levels:
     max: 1  
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Opening Welcome"
+    type: custom
+    date: 2019-05-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Keynote"
+    type: custom
+    date: 2019-05-02
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-02
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "eric-johnson"
+    type: talk
+    date: 2019-05-02
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-02
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: ""
+    type: custom
+    date: 2019-05-02
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-05-02
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-02
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "ryan-bergman"
+    type: talk
+    date: 2019-05-02
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-02
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "brian-hostetter"
+    type: talk
+    date: 2019-05-02
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2019-05-02
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Party!"
+    type: custom
+    date: 2019-05-02
+    start_time: "17:00"
+    end_time: "20:00"
+
+  - title: "Registration, Breakfast, Opening Welcome"
+    type: custom
+    date: 2019-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Keynote"
+    type: custom
+    date: 2019-05-03
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-03
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "matt-ring-nick-herrig"
+    type: talk
+    date: 2019-05-03
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "lee-barnes"
+    type: talk
+    date: 2019-05-03
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-03
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "eric-hendricks"
+    type: talk
+    date: 2019-05-03
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-05-03
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-03
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: ""
+    type: custom
+    date: 2019-05-03
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-03
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: ""
+    type: custom
+    date: 2019-05-03
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2019-05-03
+    start_time: "15:30"
+    end_time: "17:00"
+
+ignites:
+  - title: "aaron-blythe"
+    date: 2019-05-02
+  - title: "margaret-valtierra"
+    date: 2019-05-02

@@ -152,7 +152,7 @@ sponsors:
     level: community
   - id: logicmonitor
     level: silver
-  - id: electriccloud
+  - id: electriccloud-before-20190320
     level: gold
   - id: healthpartners
     level: silver

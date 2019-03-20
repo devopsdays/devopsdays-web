@@ -99,6 +99,10 @@ sponsors:
     level: gold
   - id: hashicorp
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: gitlab
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -113,6 +117,6 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 25
-  - id: bronze
-    label: Bronze
+  - id: silver
+    label: Silver
     max: 10

@@ -89,7 +89,7 @@ used, group demo's and the like.
       <td style="padding: 5px" align="center"></td>
     </tr>
     <tr>
-      <td>Logo collage one physical signage</td>
+      <td>Logo on physical signage</td>
       <td style="padding: 5px" bgcolor="peru"></td>
       <td style="padding: 5px" bgcolor="silver" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" bgcolor="gold" align="center"><img width="25" src="/img/checkmark.png"></td>

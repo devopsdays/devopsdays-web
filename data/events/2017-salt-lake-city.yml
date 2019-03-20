@@ -103,7 +103,7 @@ sponsors:
     level: bluesquare
   - id: chef
     level: bluesquare
-  - id: electriccloud
+  - id: electriccloud-before-20190320
     level: blackdiamond
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
