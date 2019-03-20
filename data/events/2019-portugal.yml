@@ -147,6 +147,8 @@ proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal ema
 sponsors:
  - id: edp
    level: gold
+ - id: outsystems
+   level: gold
  - id: claranet
    level: bronze
  - id: laredoute
