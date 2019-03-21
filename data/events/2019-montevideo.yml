@@ -3,7 +3,7 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Montevideo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMVD" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays próximamente en Montevideo!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-136337020-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -117,15 +117,51 @@ proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #- id: Pyxis
-  #  level: gold
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  #- id: NetAscom
-  #  level: gold
-  #- id: AT
-  #  level: gold
-  #- id: Arnaldo C. Castro
-  #  level: gold
+
+# Platino
+# ------------------------------------------------------------------------------
+  - id: pyxis
+    level: platinum
+
+# Oro
+# ------------------------------------------------------------------------------
+  - id: jpos
+    level: gold
+  #  url: "http://jpos.org/" # Use this if you need to over-ride a sponsor URL.
+
+  - id: netascom
+    level: gold
+  #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
+
+# Plata
+# ------------------------------------------------------------------------------
+
+# Comunidad
+# ------------------------------------------------------------------------------
+  - id: universidad-ort-uruguay
+    level: community
+
+  - id: azure-montevideo-meetup
+    level: community
+
+  - id: powershell-meetup-uy
+    level: community
+
+
+
+# TBD sponsors
+# ------------------------------------------------------------------------------
+  #- id: at-uruguay
+  #- id: arnaldocastro
+  #- id: elastic
+  #- id: microsoft
+  #- id: deloitte
+  #- id: dlocal
+  #- id: redhat
+  #- id: lenovo
+  #- id: mercadolibre
+  #- id: arkano
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -135,15 +171,16 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platino
+    label: Platinum
     max: 3
   - id: gold
-    label: Oro
+    label: Gold
     max: 6
   - id: silver
-    label: Plata
-    max: 10 # This is the same as omitting the max limit.
+    label: Silver
+    max: 10
   - id: bronze
-    label: Bronce
+    label: Bronze
   - id: community
-    label: Comunidad
+    label: Community
+    # max: 0 # This is the same as omitting the max limit.
