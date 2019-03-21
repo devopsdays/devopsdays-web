@@ -103,6 +103,10 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
+  - id: cloudops
+    level: gold
+  - id: loyaltyone
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -120,3 +124,6 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: lunch
+    label: Lunch
+    max: 2
