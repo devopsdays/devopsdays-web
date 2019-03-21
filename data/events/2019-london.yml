@@ -97,6 +97,8 @@ sponsors:
     # Silver
   - id: datadog
     level: silver
+  - id: pagerduty
+    level: silver
   - id: tecknuovo
     level: silver
     # Community
