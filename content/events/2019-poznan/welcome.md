@@ -5,9 +5,13 @@ aliases = ["/events/2019-poznan/"]
 Description = "devopsdays Poznań 2019"
 +++
 
-<!-- <div style="text-align:center;">
+<h3> {{< event_start >}} </h3>
+
+**DevOpsDays is coming to Poznań, Poland!**
+
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
