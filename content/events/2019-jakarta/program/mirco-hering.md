@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "New Barriers Of DevOps Transformation"
+Title = "Opening Keynote - New Barriers Of DevOps Transformation"
 Type = "talk"
 Speakers = ["mirco-hering"]
 +++

@@ -1,7 +1,7 @@
 +++
 Title = "Ryan Bergman"
 Twitter = "ryber"
-image = ""
+image = "ryan-bergman.jpg"
 type = "speaker"
 linktitle = "ryan-bergman"
 

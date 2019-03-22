@@ -5,11 +5,7 @@ event_twitter: "devopsdays_cn" # Change this to the twitter handle for your even
 description: "DevOpsDays is coming to beijing!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2019-01-04T00:00:00+02:00
-#   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
-
+# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate: 2019-05-11T00:00:00+08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate:  2019-05-12T00:00:00+08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
@@ -18,14 +14,14 @@ cfp_date_start: 2019-01-21T00:00:00+08:00 # start accepting talk proposals.
 cfp_date_end: 2019-03-15T00:00:00+08:00 # close your call for proposals.
 cfp_date_announce: 2019-04-01T00:00:00+08:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "http://devopsdays.mikecrm.com/Rhgn1mt" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-03-15T00:00:00+08:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-10T00:00:00+08:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.bagevent.com/event/DevOpsDays-BEIJING2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -35,9 +31,9 @@ location: "Hotel Nikko New Century Beijing" # Defaults to city, but you can make
 location_address: "No. 6 Southern Road Capital Gym , Haidian District , Beijing 100044" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -73,9 +69,6 @@ team_members: # Name is the only required field for team members.
     image: "zhang-le.jpg"
     linkedin: "https://www.linkedin.com/in/le-zhang-121b256b/"
     twitter: "overloadzy"
-  - name: "Wang Lijie"
-    image: "wang-lijie.jpg"
-    linkedin: "https://www.linkedin.com/in/lijie-wang-9984aba/"
   - name: "Yao Dong"
     #linkedin: "https://www.linkedin.com/in/franklinxu/"
     image: "yao-dong.jpg"

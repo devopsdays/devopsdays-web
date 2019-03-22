@@ -21,8 +21,10 @@ cfp_date_announce: 2019-05-13T23:59:00-05:00  # inform proposers of status
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysbogota" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2019-03-01T17:30:00-05:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-05-24T17:30:00-05:00 # close registration. Leave blank if registration is not open yet.
+masthead_background: "location.jpg"
+
+registration_date_start: 2019-03-01T17:30:00-06:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-24T17:30:00-06:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdays.co/entradas" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -38,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: propose
   - name: sponsor
   - name: contact
@@ -74,6 +76,8 @@ proposal_email: "proposals-bogota-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: avianca
     level: diamond
+  - id: devopsinstitute
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: arresteddevops
     level: community

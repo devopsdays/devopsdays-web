@@ -5,10 +5,19 @@ aliases = ["/events/2019-seattle/"]
 Description = "DevOpsDays Seattle 2019"
 +++
 
-Save the date!
+{{< event_link page="registration" text="Get your tickets now before they sell out!" >}}
 ===
 
-DevOpsDays will be returning to Seattle in April 2019 for the fourth year. 
+For the fourth year, DevOpsDays is returning to Seattle. We have a great program this year including talks from industry leaders on topics like... 
+
+* Kubernetes
+* Helm
+* security
+* databases 
+
+and much more. 
+
+Check out {{< event_link page="program" text="the program." >}}
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -60,14 +69,14 @@ DevOpsDays will be returning to Seattle in April 2019 for the fourth year.
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

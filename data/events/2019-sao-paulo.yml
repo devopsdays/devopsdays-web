@@ -158,9 +158,11 @@ sponsors:
     level: community
   - id: gatilho-kosmico
     level: community
-  - id: infoqbr
+  - id: infoq
     level: community
   - id: rails-girls-sp
+    level: community
+  - id: devtest-campinas
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

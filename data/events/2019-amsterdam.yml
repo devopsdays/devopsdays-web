@@ -111,10 +111,14 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: chef
+    level: gold
   # Silver
   - id: valtech
     level: silver
   - id: portworx
+    level: silver
+  - id: aqua_sec
     level: silver
   # Lanyards
   - id: developers-nl
@@ -123,6 +127,10 @@ sponsors:
   - id: utilus
     level: bronze
   - id: s0l1dheroes
+    level: bronze
+  - id: working-spirit
+    level: bronze
+  - id: inuits
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

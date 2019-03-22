@@ -2,7 +2,7 @@
 
 This document contains the technical details on how to set up [Hugo](https://gohugo.io/) (to see your edits locally before pushing them to GitHub), and how to prepare a pull request to make changes to content on the [devopsdays](https://www.devopsdays.org/) website.
 
-If you'd like to assist in contributing to the code itself (as opposed to the content) of the website, please see [devopsdays/devopsdays-theme](https://github.com/devopsdays/devopsdays-theme).
+If you'd like to assist in contributing to the code itself (as opposed to the content) of the website, please see the [devopsdays-theme CONTRIBUTING guidelines](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/CONTRIBUTING.md).
 
 ## Setup
 
@@ -75,9 +75,9 @@ This confirms you are on the master branch locally, and then applies the changes
 
 ### Guidelines
 
-1. Code changes that affect the overall site will be merged only in the [devopsdays-theme](https://github.com/devopsdays/devopsdays-theme) repo. Theme changes should be made there, and when released, will be used in the `devopsdays-web` repo.
-1. We use [github issues](https://github.com/devopsdays/devopsdays-theme/issues) to track work, so feel free to create new issues if you like (or read/comment/work on existing ones).
-1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-theme/issues) so that it can be discussed by the team, prior to submitting a pull request.
+1. Code changes for [devopsdays-theme](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/) should be made in a different PR from event content updates. 
+1. We use [github issues](https://github.com/devopsdays/devopsdays-web/issues) to track work, so feel free to create new issues if you like (or read/comment/work on existing ones).
+1. If you are proposing a change that affects the overall site, and is not tied to an existing issue, please open a [new issue](https://github.com/devopsdays/devopsdays-web/issues) so that it can be discussed by the team, prior to submitting a pull request.
 1. If you're using CRLF line terminators (like on Windows), the site won't build correctly if the first `+++` line of frontmatter in speaker and program files ends in a space like `+++ `. The [workaround](https://github.com/devopsdays/devopsdays-theme/issues/652) is to remove the trailing space.
 
 ### How Changes are Merged
