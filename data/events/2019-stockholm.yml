@@ -24,7 +24,7 @@ registration_date_start: 2019-03-08T00:00:00+01:00 # start accepting registratio
 registration_date_end: 2019-09-16T23:59:59+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://ti.to/devopsdays-stockholm/2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: # "https://ti.to/devopsdays-stockholm/2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "Odengatan 65, Stockholm" #Optional - use the street address o
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
