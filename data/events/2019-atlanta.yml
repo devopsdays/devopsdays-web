@@ -127,6 +127,8 @@ sponsors:
     level: gold
   - id: sysdig
     level: gold
+  - id: victorops
+    level: gold
   - id: cisco-webex
     level: silver
   - id: improving
