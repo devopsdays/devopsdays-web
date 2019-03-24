@@ -113,7 +113,7 @@ sponsors:
     level: partner
   - id: 2016-idealo
     level: platinum
-  - id: 2019-talentio-bln
+  - id: talentio
     level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
