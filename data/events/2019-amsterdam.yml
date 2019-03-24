@@ -96,8 +96,6 @@ sponsors:
   - id: newrelic
     level: beer
   # Coffee
-  - id: f5
-    level: foodtrucks
   # Golds
   - id: f5
     level: gold
@@ -123,6 +121,11 @@ sponsors:
   # Lanyards
   - id: developers-nl
     level: lanyard
+  # foodtrucks
+  - id: f5
+    level: foodtrucks
+  - id: fullstaq
+    level: foodtrucks
   # Bronze
   - id: utilus
     level: bronze
