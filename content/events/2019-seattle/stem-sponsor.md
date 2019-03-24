@@ -5,4 +5,4 @@ Description = "Free STEM Sponsorship"
 +++
 
 
-Sorry, there are no sponsorships still available
+Sorry, there are no sponsorships available
