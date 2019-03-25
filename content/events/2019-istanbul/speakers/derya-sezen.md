@@ -1,7 +1,7 @@
 +++
 Title = "Derya Sezen"
 Twitter = "derya_sezen"
-image = "deryaSezen.png"
+image = "deryaSezen.jpg"
 type = "speaker"
 linktitle = "derya-sezen"
 
