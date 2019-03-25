@@ -57,11 +57,11 @@ team_members: # Name is the only required field for team members.
     bio: ""
     image: "diana-tereshchenko.jpg"
 
-  - name: "Dmitry Gutsalenko"
-    employer: "RingCentral"
+  - name: "Yurii Rochniak"
+    employer: "Preply"
     twitter: ""
     bio: ""
-    image: "dmitry-gutsalenko.jpg"
+    image: "yurii-rochniak.jpg"
 
   - name: "Stas Ivashchenko"
     employer: "Provectus"
@@ -83,6 +83,12 @@ team_members: # Name is the only required field for team members.
     facebook:  "https://www.facebook.com/victoriia.korobkina"
     bio: ""
     image: "victoriia-korobkina.jpg"
+
+  - name: "Dmitry Gutsalenko"
+    employer: "RingCentral"
+    twitter: ""
+    bio: ""
+    image: "dmitry-gutsalenko.jpg"
 
 organizer_email: "organizers-kiev-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-kiev-2019@devopsdays.org" # Put your proposal email address here
