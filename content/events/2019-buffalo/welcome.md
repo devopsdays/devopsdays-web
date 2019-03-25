@@ -41,8 +41,7 @@ Description = "devopsdays Buffalo 2019"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    [Propose a talk!"](https://www.papercall.io/dodbflo19)
-  </div>
+    <a href="https://www.papercall.io/dodbflo19">Propose a talk!</a>  </div>
 </div>
 
 <!-- <div class = "row">
