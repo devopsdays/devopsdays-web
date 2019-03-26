@@ -32,36 +32,27 @@ Description = "devopsdays nashville 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://www.eventbrite.com/e/devopsdays-nashville-2019-tickets-51147898742">Register to attend the conference!</a>
+    <a href="https://pheedloop.com/register/devopsdaysnashville/attendee/">Register to attend the conference!</a>
   </div>
 </div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href="https://www.papercall.io/devopsdays-nashville-2019">Propose a talk!</a>
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://pheedloop.com/devopsdaysnashville/site/schedule/">event schedule.</a>
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the <a href="https://pheedloop.com/devopsdaysnashville/site/speakers/">speakers!</a>
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
