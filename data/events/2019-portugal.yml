@@ -154,7 +154,9 @@ sponsors:
  - id: laredoute
    level: bronze
  - id: i2s
-   level: bronze   
+   level: bronze
+ - id: gfi
+   level: bronze    
  - id: bitmaker
    level: community
 
