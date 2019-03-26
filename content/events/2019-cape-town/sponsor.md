@@ -4,7 +4,7 @@ Type = "event"
 Description = "Sponsor devopsdays Cape Town 2019"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please please check out our <a href="https://assets.devopsdays.org/events/2019/cape-town/2019-cape-town-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2019/cape-town/2019-cape-town-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or drop us an email at [{{< email_organizers >}}].
 
 <hr>
 
