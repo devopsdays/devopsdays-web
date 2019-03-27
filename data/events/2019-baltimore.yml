@@ -169,6 +169,10 @@ sponsors:
     level: platinum
   - id: contrast_security
     level: platinum
+  - id: cloudbolt
+    level: platinum
+  - id: googlecloud
+    level: platinum
   - id: onyx-point
     level: gold
   - id: gitlab
@@ -177,3 +181,5 @@ sponsors:
     level: gold
   - id:  wortech
     level: silver
+  - id:  stemnastics
+    level: community
