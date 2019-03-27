@@ -58,6 +58,8 @@ There is no shipping directly to the venue, so we have contracted a drayage comp
 
 <a href="https://assets.devopsdays.org/events/2019/seattle/DevOpsDays-Seattle-exhibitor-freight-kit.pdf">Click here to download the exhibitor freight kit</a>
 
+For outbound shipping only, there is a FedEx Office location across the street from the venue. Unlike some FedEx locations, this location does **not** offer a hold for pickup service so you should not send any incoming shipments there.
+
 ### Loading / Unloading at venue
 
 Sponsors are welcome to come up to the WSCC Loading Dock for loading/unloading purposes.  
