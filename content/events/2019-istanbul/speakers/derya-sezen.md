@@ -16,3 +16,6 @@ He is holding a Bachelor degree on Computer Engineering from Galatasaray Univers
 He has worked as Solution Architect and System Administrator at Turkcell Superonline, Technology Director at Credit Europe Bank and CTO at Ciceksepeti. He is currently working as Cloud and DevOps Consultant at kloia which we was one of the founder. 
 
 He is also DevOpsDays organizer and one of the Docker Community Leader
+
+Cloud and DevOps Consultant. I got into IT in 2003, worked as a developer, system admin, trainer, consultant and manager. I am holding a BA Computer Engineering from Galatasaray University, M.Sc. System and Control Engineering from Bogazici University and MBA from Heriot-Watt University. I am currently focused on developing myself towards Agile Development Practices and DevOps.
+
