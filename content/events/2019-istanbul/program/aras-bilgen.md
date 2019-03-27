@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Production Grade Microservices on Kubernetes"
+Title = "Using Design Methods to Establish Healthy DevOps Practices"
 Type = "talk"
 Speakers = ["aras-bilgen"]
 +++
