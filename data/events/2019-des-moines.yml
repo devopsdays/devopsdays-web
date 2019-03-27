@@ -238,6 +238,11 @@ program:
     date: 2019-05-03
     start_time: "11:15"
     end_time: "12:00"
+  - title: "russ-penning"
+    type: talk
+    date: 2019-05-03
+    start_time: "11:15"
+    end_time: "12:00"
   - title: "Lunch"
     type: custom
     date: 2019-05-03
