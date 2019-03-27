@@ -52,8 +52,11 @@ be to the attendees.
 
 ### Shipping
 
-We are working on a way for sponsors to ship to and from the venue. At this time
-there is no shipping available.
+There is no shipping directly to the venue, so we have contracted a drayage company to all you to ship items for the event.
+
+**Sponsors are responsible for any charges from using this third party vendor. Please read their instructions carefully to make sure there are no issues.**
+
+<a href="https://assets.devopsdays.org/events/2019/seattle/DevOpsDays-Seattle-exhibitor-freight-kit.pdf">Click here to download the exhibitor freight kit</a>
 
 ### Loading / Unloading at venue
 
