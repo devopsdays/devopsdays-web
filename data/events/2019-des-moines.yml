@@ -157,6 +157,11 @@ program:
     date: 2019-05-02
     start_time: "10:15"
     end_time: "11:00"
+  - title: "bobby-stockstead-robert-whalen"
+    type: talk
+    date: 2019-05-02
+    start_time: "10:15"
+    end_time: "11:00"
   - title: "Break"
     type: custom
     date: 2019-05-02
