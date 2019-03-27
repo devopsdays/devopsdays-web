@@ -167,8 +167,8 @@ program:
     date: 2019-05-02
     start_time: "11:00"
     end_time: "11:15"
-  - title: ""
-    type: custom
+  - title: "emily-nakashima"
+    type: talk
     date: 2019-05-02
     start_time: "11:15"
     end_time: "12:00"
