@@ -104,7 +104,7 @@ sponsors:
     level: community
   - id: atlassian
     level: community
-  - id: yousee
+  - id: nuuday
     level: community
   - id: 3shape
     level: community
@@ -168,7 +168,7 @@ program:
     date: 2019-04-03
     start_time: "11:15"
     end_time: "11:30"
-  - title: "felix-wu"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-04-03
     start_time: "11:30"
@@ -303,7 +303,7 @@ program:
     date: 2019-04-04
     start_time: "14:10"
     end_time: "14:25"
-  - title: "aubrey-stearn"
+  - title: "felix-wu"
     type: talk
     date: 2019-04-04
     start_time: "14:25"

@@ -142,8 +142,8 @@ program:
     date: 2019-05-02
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Keynote"
-    type: custom
+  - title: "christopher-hunt"
+    type: talk
     date: 2019-05-02
     start_time: "09:00"
     end_time: "10:00"
@@ -157,13 +157,18 @@ program:
     date: 2019-05-02
     start_time: "10:15"
     end_time: "11:00"
+  - title: "bobby-stockstead-robert-whalen"
+    type: talk
+    date: 2019-05-02
+    start_time: "10:15"
+    end_time: "11:00"
   - title: "Break"
     type: custom
     date: 2019-05-02
     start_time: "11:00"
     end_time: "11:15"
-  - title: ""
-    type: custom
+  - title: "emily-nakashima"
+    type: talk
     date: 2019-05-02
     start_time: "11:15"
     end_time: "12:00"
@@ -234,6 +239,11 @@ program:
     start_time: "11:00"
     end_time: "11:15"
   - title: "eric-hendricks"
+    type: talk
+    date: 2019-05-03
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "russ-penning"
     type: talk
     date: 2019-05-03
     start_time: "11:15"

@@ -201,6 +201,8 @@ sponsors:
   level: gold
 - id: itris
   level: gold
+- id: adnovum
+  level: bronze
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
@@ -232,7 +234,7 @@ program:
     date: 2019-05-14
     start_time: "09:15"
     end_time: "10:00"
-  - title: "talk-1"
+  - title: "noelle-daley"
     type: talk
     date: 2019-05-14
     start_time: "10:00"
@@ -297,7 +299,7 @@ program:
     date: 2019-05-14
     start_time: "17:20"
     end_time: "17:30"
-  - title: "Registration & Coffe"
+  - title: "Registration & Welcome Coffe"
     type: custom
     date: 2019-05-15
     start_time: "08:00"
@@ -386,6 +388,8 @@ ignites:
   - title: "ignite-talk-by-romano-roth"
     date: 2019-05-14
   - title: "ignite-talk-by-daniel-maher"
+    date: 2019-05-14
+  - title: "ignite-talk-by-ramon-medrano-llamas"
     date: 2019-05-14
   - title: "ignite-talk-by-bastian-bukatz"
     date: 2019-05-15

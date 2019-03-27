@@ -13,8 +13,8 @@ Description = "devopsdays Des Moines 2019"
   <div class = "col-md-4">
     <div class = "row justify-content-center">
       <div class = "d-flex p-2">
-        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-des-moines/sponsor">
-          <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.eventbrite.com/e/devopsdays-des-moines-2019-tickets-54007008416">
+          <i class="fa fa-group fa-lg"></i>&nbsp;&nbsp;&nbsp;Attend the Conference
         </a>
       </div>
       <div class = "d-flex p-2">

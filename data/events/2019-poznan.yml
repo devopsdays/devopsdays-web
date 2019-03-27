@@ -22,11 +22,11 @@ cfp_date_announce:  2019-04-25T00:00:00+02:00 # announce speakers.
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaypoznan2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-03-26T20:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-20T20:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayspoznan.evenea.pl/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -37,9 +37,9 @@ location_address: "ul. Za Bramką 1, Poznań" #Optional - use the street address
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose  
- # - name: registration
- # - name: program
+  - name: propose
+  - name: registration
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -123,3 +123,82 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2019-05-20
+    start_time: "08:30"
+    end_time: "09:15"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-05-20
+    start_time: "09:15"
+    end_time: "09:30"
+  - title: "keynote"
+    type: talk
+    date: 2019-05-20
+    start_time: "09:30"
+    end_time: "10:00"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "10:00"
+    end_time: "10:30"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "Coffee Break"
+    type: custom
+    date: 2019-05-20
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "10:45"
+    end_time: "11:15"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "11:15"
+    end_time: "11:45"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "11:45"
+    end_time: "12:15"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "Lunch"
+    type: custom
+    date: 2019-05-20
+    start_time: "12:15"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-20
+    start_time: "13:00"
+    end_time: "13:40"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "13:40"
+    end_time: "14:10"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "14:10"
+    end_time: "14:40"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "Open Space"
+    type: open-space
+    date: 2019-05-20
+    start_time: "14:40"
+    end_time: "16:30"
+  - title: "Closing ceremony and networking afterwards"
+    type: custom
+    date: 2019-05-20
+    start_time: "16:30"
+    end_time: "20:00"
