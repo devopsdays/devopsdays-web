@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: location
-#  - name: propose
+  - name: livestream
   - name: sponsor
   - name: contact
   - name: conduct
@@ -80,6 +80,8 @@ proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: armtreasuredata
+    level: platinum
   - id: appdynamics
     level: gold
   - id: codefresh
@@ -181,7 +183,7 @@ program:
     date: 2019-03-29
     start_time: "10:20"
     end_time: "10:30"
-  - title: "kris-nova"
+  - title: "tiffany-longworth"
     type: talk
     date: 2019-03-29
     start_time: "10:30"
@@ -246,7 +248,7 @@ program:
     date: 2019-03-30
     start_time: "09:15"
     end_time: "09:45"
-  - title: "tiffany-longworth"
+  - title: "kris-nova"
     type: talk
     date: 2019-03-30
     start_time: "09:45"
@@ -261,7 +263,7 @@ program:
     date: 2019-03-30
     start_time: "10:20"
     end_time: "10:30"
-  - title: "don-burks"
+  - title: "laura-maguire-30min"
     type: talk
     date: 2019-03-30
     start_time: "10:30"

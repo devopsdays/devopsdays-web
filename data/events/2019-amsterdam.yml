@@ -96,8 +96,6 @@ sponsors:
   - id: newrelic
     level: beer
   # Coffee
-  - id: f5
-    level: foodtrucks
   # Golds
   - id: f5
     level: gold
@@ -111,18 +109,33 @@ sponsors:
     level: gold
   - id: pivotal
     level: gold
+  - id: chef
+    level: gold
+  - id: vmware
+    level: gold
   # Silver
   - id: valtech
     level: silver
   - id: portworx
     level: silver
+  - id: aqua_sec
+    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
+  # foodtrucks
+  - id: f5
+    level: foodtrucks
+  - id: fullstaq
+    level: foodtrucks
   # Bronze
   - id: utilus
     level: bronze
   - id: s0l1dheroes
+    level: bronze
+  - id: working-spirit
+    level: bronze
+  - id: inuits
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

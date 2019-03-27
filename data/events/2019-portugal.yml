@@ -36,9 +36,9 @@ location_address: "EDP - Energias de Portugal, Av. 24 de Julho 12A, 1249-300 Lis
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
- # - name: location
+# - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -147,12 +147,16 @@ proposal_email: "proposals-portugal-2019@devopsdays.org" # Put your proposal ema
 sponsors:
  - id: edp
    level: gold
+ - id: outsystems
+   level: gold
  - id: claranet
    level: bronze
  - id: laredoute
    level: bronze
  - id: i2s
-   level: bronze   
+   level: bronze
+ - id: gfi
+   level: bronze    
  - id: bitmaker
    level: community
 
@@ -173,3 +177,208 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2019-06-03
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2019-06-03
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "mirco-hering"
+    type: talk
+    date: 2019-06-03
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Break"
+    date: 2019-06-03
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: "speaker-1.2"
+    type: talk
+    date: 2019-06-03
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Break"
+    date: 2019-06-03
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "speaker-1.3"
+    type: talk
+    date: 2019-06-03
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Break"
+    date: 2019-06-03
+    start_time: "11:30"
+    end_time: "11:40"
+  - title: "speaker-1.4"
+    type: talk
+    date: 2019-06-03
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Break"
+    date: 2019-06-03
+    start_time: "12:10"
+    end_time: "12:20"
+  - title: "speaker-1.5"
+    type: talk
+    date: 2019-06-03
+    start_time: "12:20"
+    end_time: "12:50"
+  - title: "LUNCH"
+    type: custom
+    date: 2019-06-03
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-06-03
+    start_time: "14:00"
+    end_time: "14:20"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-06-03
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-06-03
+    start_time: "14:50"
+    end_time: "15:10"
+  - title: "Break"
+    date: 2019-06-03
+    start_time: "15:10"
+    end_time: "15:20"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-06-03
+    start_time: "15:20"
+    end_time: "15:40"
+  - title: "Break"
+    date: 2019-06-03
+    start_time: "15:40"
+    end_time: "15:50"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2019-06-03
+    start_time: "15:50"
+    end_time: "16:10"
+  - title: "Wrap-up of the Day"
+    type: custom
+    date: 2019-06-03
+    start_time: "16:10"
+    end_time: "16:30"
+  #- title: "Mingle & Drinks"
+  #  type: custom
+  #  date: 2019-06-03
+  #  start_time: "17:00"
+  #  end_time: "17:45"
+  #- title: "Dinner & Mingle"
+  #  type: custom
+  #  date: 2019-06-03
+  #  start_time: "17:45"
+  #  end_time: "21:00"
+  - title: "Registration"
+    type: custom
+    date: 2019-06-04
+    start_time: "08:30"
+    end_time: "09:00"
+  - title: "Welcome"
+    type: custom
+    date: 2019-06-04
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "Keynote-speaker2.1"
+    type: talk
+    date: 2019-06-04
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Break"
+    date: 2019-06-04
+    start_time: "10:00"
+    end_time: "10:20"
+  - title: "speaker-2.2"
+    type: talk
+    date: 2019-06-04
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Break"
+    date: 2019-06-04
+    start_time: "10:50"
+    end_time: "11:00"
+  - title: "speaker-2.3"
+    type: talk
+    date: 2019-06-04
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "Break"
+    date: 2019-06-04
+    start_time: "11:30"
+    end_time: "11:40"
+  - title: "speaker-2.4"
+    type: talk
+    date: 2019-06-04
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Break"
+    date: 2019-06-04
+    start_time: "12:10"
+    end_time: "12:20"
+  - title: "speaker-2.5"
+    type: talk
+    date: 2019-06-04
+    start_time: "12:20"
+    end_time: "12:50"
+  - title: "LUNCH"
+    type: custom
+    date: 2019-06-04
+    start_time: "12:50"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-06-04
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-06-04
+    start_time: "14:30"
+    end_time: "14:50"
+  - title: "Break"
+    date: 2019-06-04
+    start_time: "14:50"
+    end_time: "15:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-06-04
+    start_time: "15:00"
+    end_time: "15:20"
+  - title: "Break"
+    date: 2019-06-04
+    start_time: "15:20"
+    end_time: "15:30"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2019-06-04
+    start_time: "15:30"
+    end_time: "15:50"
+  - title: "Wrap-up and Goodbyes"
+    type: custom
+    date: 2019-06-04
+    start_time: "15:50"
+    end_time: "16:15"
+
+ignites:
+  - title: "ignite-speaker1.1"
+    date: "2019-06-03"
+  - title: "ignite-speaker1.2"
+    date: "2019-06-03"
+  - title: "ignite-speaker1.3"
+    date: "2019-06-03"
+  - title: "ignite-speaker1.4"
+    date: "2019-06-03"

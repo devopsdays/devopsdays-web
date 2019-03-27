@@ -4,7 +4,7 @@ Type = "event"
 Description = ""
 +++
 <p>
-In the leadership summit we will be discussing strategic frameworks and case studies focused on value realization, change management, roadmapping, security and architecture. The leadership session is limited to 40 execs to provide an intimate setting for dialogue, inquiry, and learning.
+In the leadership summit we will be discussing strategic frameworks and case studies focused on value realization, change management, roadmapping, security and architecture. The leadership session is limited to 40 execs to provide an intimate setting for dialogue, inquiry, and learning. This is an opportunity to co-create the futures in our industries together & provide some contrast to the outcomes of the devopsdays + map camp + serverlessdays Atlanta 2019 event on April 9th & 10th. 
 </p>
 <p style="font-weight:bold">This event is on Monday April 8th at <a href="https://academy.gatech.edu/">The Historic Academy of Medicine</a>. Attendance is limited to 40 people.</p>
 <p style="font-weight:bold"> Admission is only $40, but requires an application. To apply for admission <a href="https://www.surveymonkey.com/r/AtlantaLeadershipSummit">please complete this survey.</a> </p>
@@ -21,6 +21,7 @@ Monday, April 8th Leadership Summit Agenda:
 <tr><td>1:15 - 2:15&nbsp;</td><td><a href="https://www.devopsdays.org/events/2019-atlanta/speakers/jabe-bloom/">Jabe Bloom</a> - Whole Work</td></tr>
 <tr><td>2:15 - 2:30&nbsp;</td><td>break</td></tr>
 <tr><td>2:30 - 3:30&nbsp;</td><td><a href="https://www.devopsdays.org/events/2019-atlanta/speakers/john-willis/">John Willis</a> - DevSecOps Kata</td></tr>
+<tr><td>4pm - 10pm&nbsp;</td><td>Catered Offsite Reception</td></tr>
 </table>
 
 <hr />

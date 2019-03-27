@@ -10,34 +10,36 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-05-20T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-20T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_date_start:  2019-03-20T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end:  2019-04-20T00:00:00+02:00 # close your call for proposals.
+cfp_date_announce:  2019-04-25T00:00:00+02:00 # announce speakers.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaypoznan2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-03-26T20:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-20T20:00:00+02:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayspoznan.evenea.pl/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Poznań" # Defaults to city, but you can make it the venue name.
+coordinates: "52.406222, 16.936121" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "+jeden" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "ul. Za Bramką 1, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
+  - name: location
+  - name: propose
+  - name: registration
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -49,13 +51,48 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Marcin Mazurek"
-    twitter: "mazuchna"
-  - name: "Tomasz Napierała"
-    twitter: "tzn"
+
+  - name: "Aleksandra Dondziak"
+    employer: "Allegro.pl"
+    linkedin: "https://www.linkedin.com/in/aleksandra-dondziak-915979b6/"
   - name: "Dariusz Dwornikowski"
     twitter: "7d1"
-  - name: "Katarzyna Mazurek"
+    employer: "Nordcloud"
+    linkedin: "https://www.linkedin.com/in/darekd/"
+  - name: "Jakub Jakubik"
+    employer: "Netguru S.A."
+    linkedin: "https://www.linkedin.com/in/jakubjakubik/"
+  - name: "Maciej Karnecki"
+    employer: "Egnyte Poland"
+    linkedin: "https://www.linkedin.com/in/maciej-karnecki-71893075/"
+  - name: "Marcin Mazurek"
+    employer: "Allegro.pl"
+    linkedin: "https://www.linkedin.com/in/mmazurek/"
+    twitter: "mazuchna"
+  - name: "Martyna Młynarczyk"
+    employer: "Centuria"
+    linkedin: "https://www.linkedin.com/in/martyna-m%C5%82ynarczyk-08a440107/"
+  - name: "Dawid Młynarz"
+    employer: "HolidayCheck AG"
+    linkedin: "https://www.linkedin.com/in/dawid-mlynarz/"
+  - name: "Tomasz Napierała"
+    twitter: "tzn"
+    linkedin: "https://www.linkedin.com/in/tnapierala/"
+  - name: "Daniel Pijanowski"
+    employer: "Allegro.pl"
+    linkedin: "https://www.linkedin.com/in/dpijanowski/"
+    twitter: "DPijanowski"
+  - name: "Monika Projs"
+    employer: "Egnyte Poland"
+    linkedin: "https://www.linkedin.com/in/monikaprojs/"
+  - name: "Łukasz Przybył"
+    employer: "HolidayCheck AG"
+    linkedin: "https://www.linkedin.com/in/%C5%82ukasz-przyby%C5%82-247a0569/"
+    twitter: "luprzybyl"
+  - name: "Bartek Stalewski"
+    employer: "Mirantis"
+    twitter: "eftepede"
+
 
 organizer_email: "organizers-poznan-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email address here
@@ -86,3 +123,82 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Registration"
+    type: custom
+    date: 2019-05-20
+    start_time: "08:30"
+    end_time: "09:15"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-05-20
+    start_time: "09:15"
+    end_time: "09:30"
+  - title: "keynote"
+    type: talk
+    date: 2019-05-20
+    start_time: "09:30"
+    end_time: "10:00"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "10:00"
+    end_time: "10:30"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "Coffee Break"
+    type: custom
+    date: 2019-05-20
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "10:45"
+    end_time: "11:15"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "11:15"
+    end_time: "11:45"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "11:45"
+    end_time: "12:15"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "Lunch"
+    type: custom
+    date: 2019-05-20
+    start_time: "12:15"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-20
+    start_time: "13:00"
+    end_time: "13:40"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "13:40"
+    end_time: "14:10"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "14:10"
+    end_time: "14:40"
+    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "Open Space"
+    type: open-space
+    date: 2019-05-20
+    start_time: "14:40"
+    end_time: "16:30"
+  - title: "Closing ceremony and networking afterwards"
+    type: custom
+    date: 2019-05-20
+    start_time: "16:30"
+    end_time: "20:00"

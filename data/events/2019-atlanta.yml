@@ -123,8 +123,18 @@ sponsors:
     level: gold
   - id: rancher
     level: gold
+  - id: diamanti
+    level: gold
+  - id: sysdig
+    level: gold
+  - id: victorops
+    level: gold
   - id: cisco-webex
     level: silver
+  - id: improving
+    level: bronze
+  - id: eliassen-group
+    level: bronze
   - id: arresteddevops
     level: community
 

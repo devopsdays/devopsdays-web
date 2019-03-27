@@ -72,7 +72,7 @@ sponsors:
   - id: xmatters
     level: gold
   - id: blendedperspectives
-    level: gold
+    level: platinum
   - id: sourcedgroup
     level: gold
   - id: rundeck
@@ -101,6 +101,14 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: gitlab
+    level: gold
+  - id: cloudops
+    level: gold
+  - id: loyaltyone
+    level: gold
+  - id: capitalonecanada
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -115,6 +123,9 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 25
-  - id: bronze
-    label: Bronze
+  - id: silver
+    label: Silver
     max: 10
+  - id: lunch
+    label: Lunch
+    max: 2

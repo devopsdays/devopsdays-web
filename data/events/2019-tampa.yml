@@ -112,6 +112,10 @@ sponsors:
     level: platinum
   - id: gitlab
     level: platinum
+  - id: datical
+    level: platinum
+  - id: accenture
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
