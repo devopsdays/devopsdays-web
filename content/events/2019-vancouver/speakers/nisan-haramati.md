@@ -1,6 +1,6 @@
 +++
 Title = "Nisan Haramati"
-Twitter = ""
+Twitter = "nisanharamati"
 image = "nisan-haramati.jpg"
 type = "speaker"
 linktitle = "nisan-haramati"
