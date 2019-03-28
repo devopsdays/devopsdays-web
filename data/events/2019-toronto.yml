@@ -109,6 +109,10 @@ sponsors:
     level: gold
   - id: capitalonecanada
     level: gold
+  - id: sps_commerce
+    level: gold
+  - id: sps_commerce
+    level: lanyard
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,6 +130,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: lunch
     label: Lunch
     max: 2
