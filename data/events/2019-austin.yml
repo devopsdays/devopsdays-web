@@ -173,6 +173,10 @@ sponsors:
     url: https://www.red-gate.com/
   - id: pivotal
     level: gold
+  - id: signalsciences
+    level: gold
+  - id: avinetworks
+    level: gold
   - id: f5
     level: mealandsnack
   - id: devopsdotcom
