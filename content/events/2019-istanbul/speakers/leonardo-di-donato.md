@@ -1,7 +1,7 @@
 +++
 Title = "Leonardo Di Donato"
 Twitter = "leodido"
-image = "leodido.png"
+image = "leodido.jpg"
 type = "speaker"
 linktitle = "leonardo-di-donato"
 
