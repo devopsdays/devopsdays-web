@@ -44,7 +44,7 @@ jobs:
       #     key: dependency-cache-{{ checksum "package.json" }}
       - run:
           name: install-npm-stuff
-          command: npm install --no-optional
+          command: npm rebuild
       # - save_cache:
       #     key: dependency-cache-{{ checksum "package.json" }}
       #     paths:
