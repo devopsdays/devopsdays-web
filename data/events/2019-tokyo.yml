@@ -65,6 +65,12 @@ proposal_email: "proposals-tokyo-2019@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: f5
     level: gold
+  - id: datadog
+    level: gold
+  - id: solace
+    level: gold
+  - id: softbank
+    level: gold
   - id: creationline
     level: silver
   - id: itpreneurs
@@ -72,7 +78,17 @@ sponsors:
     url: https://www.itpreneurs.co.jp/
   - id: inedo
     level: silver
+  - id: rakuten
+    level: silver
+    url: https://www.rakuten.co.jp/
+    twitter: RakutenJP
   - id: ciandt
+    level: silver
+  - id: auth0
+    level: silver
+  - id: mamezo
+    level: silver
+  - id: agilero
     level: silver
   - id: lac
     level: bronze
@@ -88,9 +104,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 3
   - id: bronze
     label: Bronze
