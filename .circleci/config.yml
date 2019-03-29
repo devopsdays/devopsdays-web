@@ -26,6 +26,8 @@ jobs:
   test:
     docker:
       - image: circleci/node:11.5.0
+        environment:
+          SHARP_DIST_BASE_URL: https://s3-us-west-2.amazonaws.com/sharp-distro/
     working_directory: ~/devopsdays
     steps:
       - checkout
