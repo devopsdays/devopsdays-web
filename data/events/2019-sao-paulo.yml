@@ -138,6 +138,14 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: platinum
+  - id: indracompany
+    level: platinum
+  - id: agility_2019
+    level: gold
+  - id:  c6bank 
+    level: gold
+  - id: instana
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: 4linux-2019
     level: silver
