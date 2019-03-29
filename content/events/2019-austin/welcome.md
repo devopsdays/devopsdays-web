@@ -20,21 +20,21 @@ Description = "DevOpsDays Austin 2019"
             <div class="col-md-2"><strong>Dates</strong></div>
             <div class="col-md-8">{{< event_start >}} - {{< event_end >}}</div>
         </div>
-        <!-- <div class="row">
-            <div class="col-md-2"><strong>Schedule</strong></div>
-            <div class="col-md-8">{{< event_link page="schedule" text="View the schedule!" >}}</div>
-        </div> -->
         <div class="row">
             <div class="col-md-2"><strong>Location</strong></div>
             <div class="col-md-8">{{< event_location >}}</div>
         </div>
         <div class="row">
+            <div class="col-md-2"><strong>Schedule</strong></div>
+            <div class="col-md-8">{{< event_link page="schedule" text="View the schedule!" >}}</div>
+        </div>
+        <!-- <div class="row">
           <div class="col-md-2"><strong>Talks</strong></div>
           <div class="col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-2"><strong>Register</strong></div>
-          <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
+          <div class="col-md-8">{{< event_link page="registration" text="Join the waiting list!" >}}</div>
         </div>
         <!-- <div class = "row">
           <div class = "col-md-2">
@@ -54,7 +54,7 @@ Description = "DevOpsDays Austin 2019"
         </div> -->
         <div class="row">
           <div class="col-md-2"><strong>Sponsors</strong></div>
-          <div class="col-md-8">{{< event_link page="sponsor" text="Sponsor the summit!" >}}</div>
+          <div class="col-md-8">{{< event_link page="sponsor" text="Become a sponsor!" >}}</div>
         </div>
         <div class="row">
           <div class="col-md-2"><strong>Contact</strong></div>
@@ -76,7 +76,7 @@ Join Us in Austin for Our 8th Year!
 DevOpsDays will be returning to Austin May 2nd - 3rd 2019 for the **eighth year**. 
 We'll be adding dates for talk proposals and registration soon.
 
-<a href="../propose" class="btn btn-info">Submit a Proposal!</a> <a href="../registration" class="btn btn-info">Register!</a> <a href="../sponsor" class="btn btn-info">Sponsor DevOpsDays Austin!</a>
+<a href="../schedule" class="btn btn-info">View the Schedule!</a> <a href="../registration" class="btn btn-info">Join the Waiting List!</a> <a href="../sponsor" class="btn btn-info">Sponsor DevOpsDays Austin!</a>
 
 If you'd like to get a feel for the lessons learned from DoDATX 2018 and how 
 we're going to be changing things around for 2019 [Ernest Meuller has done a great AAR write-up on it](https://theagileadmin.com/2018/05/29/devopsdays-austin-2018-retrospective-and-2019-prospectus/).
