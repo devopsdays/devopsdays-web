@@ -199,6 +199,12 @@ program:
     date: 2019-04-16
     start_time: "10:30"
     end_time: "11:00"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2019-04-16
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "Where: Studio Movie Grill"
   - title: "aaron-aldrich"
     type: talk
     date: 2019-04-16
@@ -209,12 +215,6 @@ program:
     date: 2019-04-16
     start_time: "11:30"
     end_time: "12:00"
-  - title: "angel-rivera"
-    type: workshop
-    date: 2019-04-16
-    start_time: "11:00"
-    end_time: "12:00"
-    comments: "Where: Movie Studio Grill"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-16
@@ -235,6 +235,12 @@ program:
     date: 2019-04-16
     start_time: "14:00"
     end_time: "14:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2019-04-16
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "Where: Studio Movie Grill"
   - title: "sagar-karmarkar"
     type: talk
     date: 2019-04-16
@@ -245,12 +251,6 @@ program:
     date: 2019-04-16
     start_time: "15:00"
     end_time: "15:30"
-  - title: "mike-rothman"
-    type: workshop
-    date: 2019-04-16
-    start_time: "14:30"
-    end_time: "15:30"
-    comments: "Where: Movie Studio Grill"
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2019-04-16
@@ -329,12 +329,12 @@ program:
     date: 2019-04-17
     start_time: "11:30"
     end_time: "12:00"
-  - title: "jj-asghar-istio"
+  - title: "brad-dausses"
     type: workshop
     date: 2019-04-17
-    start_time: "11:00"
+    start_time: "10:45"
     end_time: "12:00"
-    comments: "Where: Movie Studio Grill"
+    comments: "Where: Studio Movie Grill"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-17
@@ -350,17 +350,17 @@ program:
     date: 2019-04-17
     start_time: "13:30"
     end_time: "14:00"
-  - title: "eddie-zaneski"
-    type: workshop
-    date: 2019-04-17
-    start_time: "13:00"
-    end_time: "14:00"
-    comments: "Where: Movie Studio Grill"
   - title: "Break, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-17
     start_time: "14:00"
     end_time: "14:30"
+  - title: "eddie-zaneski"
+    type: workshop
+    date: 2019-04-17
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "Where: Studio Movie Grill"
   - title: "john-esser"
     type: talk
     date: 2019-04-17
