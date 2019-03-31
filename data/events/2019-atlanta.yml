@@ -129,6 +129,8 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
+  - id: vmware
+    level: gold
   - id: cisco-webex
     level: silver
   - id: improving
@@ -391,20 +393,23 @@ program:
     custom_url: "https://www.georgiaaquarium.org/wp-content/uploads/2019/02/Email_Brand-Anthem_01.47.mp4"
 
 ignites:
+  - title: "poppy-vila"
+    date: 2019-04-09
   - title: "jj-asghar"
     date: 2019-04-09
   - title: "caroline-dickey"
     date: 2019-04-09
   - title: "aaron-aldrich"
     date: 2019-04-09
-  - title: "jeff-lu"
-    date: 2019-04-09
+  
   
   - title: "ian-rose"
     date: 2019-04-10
-  - title: "arti-mashalkar"
+  - title: "jeff-lu"
     date: 2019-04-10
   - title: "ravi-lachman"
     date: 2019-04-10
   - title: "josh-atwell"
+    date: 2019-04-10
+  - title: "spencer-malone"
     date: 2019-04-10
