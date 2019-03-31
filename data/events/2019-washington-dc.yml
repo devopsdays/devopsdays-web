@@ -207,6 +207,15 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: ""
 
+  - name: "Jake Vanderdray"
+    employer: "Cvent"
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
   - name: "Karl Peña"
     employer: "ScientiaMobile"
     twitter: ""
