@@ -176,8 +176,8 @@ program:
     date: 2019-04-10
     start_time: "13:45"
     end_time: "14:15"
-  - title: "Talk - TBA"
-    type: custom
+  - title: "steve-shirkey"
+    type: talk
     date: 2019-04-10
     start_time: "14:25"
     end_time: "15:10"
@@ -191,8 +191,8 @@ program:
     date: 2019-04-10
     start_time: "15:40"
     end_time: "16:00"
-  - title: "steve-shirkey"
-    type: talk
+  - title: "Talk - TBA"
+    type: custom
     date: 2019-04-10
     start_time: "16:00"
     end_time: "16:30"
