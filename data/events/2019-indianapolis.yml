@@ -44,7 +44,7 @@ location: "Indianapolis Marriott Downtown"
 location_address: "350 W Maryland St, Indianapolis, IN 46225"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose #setup papercall first
+#  - name: propose #setup papercall first
   - name: location
 #  - name: program
 #  - name: speakers
