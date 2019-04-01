@@ -30,9 +30,9 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 # Fawcett Event Center,
-coordinates: "To Be Determine" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "To Be Determine" # Defaults to city, but you can make it the venue name.
-location_address: "To Be Determine" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "To Be Determined" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "To Be Determined" # Defaults to city, but you can make it the venue name.
+location_address: "To Be Determined" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
@@ -46,7 +46,7 @@ team_members: # Name is the only required field for team members.
   - name: "Leandro Fernandez"
   - name: "Xavier Portilla"
   - name: "Daniela Casetta"
-  - name: "Marcos Fermín"
+  - name: "Marcos Lobo"
   - name: "Christian Melendez"
 
 
