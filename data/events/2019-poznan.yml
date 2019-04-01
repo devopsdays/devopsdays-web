@@ -110,12 +110,12 @@ sponsors:
     level: bronze
   - id: tomtom
     level: silver
-  - id: mirantis
-    level: community
+#  - id: mirantis
+#    level: community
   - id: dell
     level: gold
   - id: trecom
-    level: silver
+    level: gold
   - id: containersolutions
     level: community
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
