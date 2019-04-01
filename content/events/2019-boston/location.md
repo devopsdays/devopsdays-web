@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for DevOps Days Boston 2018"
+Description = "Location for DevOps Days Boston 2019"
 +++
 
 ## [The Cyclorama at Boston Center for the Arts](http://www.bcaonline.org/venues/cyclorama.html) - 539 Tremont St, Boston, MA 02116
