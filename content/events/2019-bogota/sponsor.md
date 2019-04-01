@@ -1,8 +1,7 @@
 +++
-date = "2017-09-17T20:06:23+02:00"
 title = "Patrocinador / Sponsor"
 type = "event"
-heading = "DevOpsDays Panama - Sponsor Info"
+heading = "DevOpsDays Bogotá - Sponsor Info"
 +++
 
 <style type="text/css">
