@@ -82,17 +82,23 @@ proposal_email: "proposals-istanbul-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: devopsturkey
     level: community
+
   - id: buminio
     level: silver
-    
-#   - id: kloia
-#     level: gold
+
+  - id: agileturkey
+    level: community
+
+  - id: kloia
+    level: gold
+
 #   - id: opsgenie
 #     level: gold
-#   - id: t4a
-#     level: gold
-#   - id: vngrs
-#     level: gold
+
+  - id: t4a
+    level: gold
+  - id: vngrs
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
