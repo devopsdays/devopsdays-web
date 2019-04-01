@@ -148,9 +148,6 @@ sponsor_levels:
   - id: BBQ
     label: BBQ
     max: "1"
-  - id: "Social event"
-    label: social
-    max: "1"
   - id: beer
     label: Beer
     max: "1"
