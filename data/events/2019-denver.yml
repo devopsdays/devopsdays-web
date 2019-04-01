@@ -127,6 +127,9 @@ sponsors:
   level: supporter
 - id: percolate
   level: supporter
+- id: oraclecloud2019
+  level: coffee
+  url: https://cloud.oracle.com/
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -142,6 +145,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 8
+  - id: coffee
+    label: Coffee
+    max: 1
   - id: supporter
     label: Supporter
     max: 4
