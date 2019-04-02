@@ -88,6 +88,8 @@ sponsors:
   - id: f5
     level: evening
     # Gold
+  - id: appdynamics
+    level: gold
   - id: circleci
     level: gold
   - id: influxdata
