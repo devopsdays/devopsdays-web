@@ -140,6 +140,10 @@ sponsors:
     level: silver
   - id: vmware
     level: silver
+  - id: sysdig
+    level: bronze
+  - id: macstadium
+    level: bronze
   - id: seattle-coffeeops
     level: community
   - id: eastside-coffeeops
