@@ -193,7 +193,7 @@ sponsors:
     level: bronze
   - id: viacom
     level: social
-  - id: googlecloud
+  - id: googlecloud-before-20190402
     level: social
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
