@@ -52,6 +52,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Dilan Nery"
     employer: "AdMobilize"
+    image: "dilan-nery.jpg"
     twitter: "dilannery"
     github: "dilannery"
     website: "http://dilan.com.br/"
@@ -59,6 +60,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Ricardo Nogueira"
     employer: "Absam.io"
+    image: "ricardo-nogueira.jpg"
     twitter: "jrnmagalhaes"
     github: "jrnmagalhaes"
     website: "https://jrnmagalhaes.github.io"
@@ -66,6 +68,7 @@ team_members: # Name is the only required field for team members.
 
   - name: "Diego Leite"
     employer: "AdMobilize"
+    image: "diego-leite.jpg"
     twitter: "di3goleite"
     github: "di3goleite"
     website: "https://di3goleite.xyz/"
