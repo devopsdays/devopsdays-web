@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/devopsdays/devopsdays-web#readme",
   "devDependencies": {
-    "del": "~3.0.0",
+    "del": "~4.1.0",
     "gulp": "~4.0.0",
     "gulp-cache": "~1.1.0",
     "gulp-concat": "~2.6.1",
