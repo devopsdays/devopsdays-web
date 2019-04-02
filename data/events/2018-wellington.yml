@@ -84,7 +84,7 @@ proposal_email: "proposals-wellington-2018@devopsdays.org" # Put your proposal e
 sponsors:
   - id: 2016-bnz
     level: platinum
-  - id: oraclecloud
+  - id: oraclecloud-before-20190402
     level: platinum
   - id: assurity
     level: gold

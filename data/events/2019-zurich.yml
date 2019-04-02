@@ -177,9 +177,8 @@ sponsors:
 - id: swisscom
   url: https://job.swisscom.ch/ict/de?showclose=1
   level: platinum
-- id: oracle2019
+- id: oracle
   level: silver
-  url: https://developer.oracle.com/
 - id: nine
   level: bronze
 - id: bmc
