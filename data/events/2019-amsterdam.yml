@@ -159,9 +159,6 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: "8"
-  - id: games
-    label: "Arcade Games"
-    max: "1"
   - id: silver
     label: Silver
     max: "8"
