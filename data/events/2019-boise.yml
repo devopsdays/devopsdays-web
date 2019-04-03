@@ -79,12 +79,20 @@ sponsors:
   - id: arresteddevops
     level: community
   - id: taos
-    level: platinum
+    level: gold
   - id: 2016-intimetec
     level: platinum
   - id: sonatype
     level: silver
   - id: hp
+    level: silver
+  - id: signalfx
+    level: silver
+  - id: microsoft
+    level: silver
+  - id: redhat
+    level: silver
+  - id: clearwater
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
