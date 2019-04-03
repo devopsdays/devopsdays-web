@@ -7,13 +7,8 @@ linktitle = "borys-drozhak"
 
 +++
 
-- DevOps expert with a computer science background. I've been working on different project/product scales. Also had been working in outsourcing. And even had a time when I was working for web games(creating spec effects). 
+Borys Drozhak is software and system engineer who is specializing in high-load and high-velocity engineering problems. 
 
-- I'm passionate about recent discoveries within DevOps and how we can use Lean to improve our R&D's ROI. I use a lot of different methodology in my work, the most interesting for my colleagues it is TOC, which is a part of lean management, though not every DevOps understands it.
-Right now, I'm working on AI startup and we are automating DataScieince. We are trying to make a new kind of an engineer called AI engineer which is an evolution of software engineer. That engineer is gonna have the ability to execute AI on most of the projects just as we do with code today.
+He believes that as developers we can do much more than today. Current lack of decent methodologies and lack of Data Science skills prevents us from doing more with the limited time we have.
 
-- I got a lot of successful projects, so was training people in companies like SoftServe
-
-- I was working on scaleout projects for Cisco (in Ukraine we called it highload projects). For infrastructure as big as about 30 data centers.
-
-- in the field for 8 years 
+Borys played different roles within his career which allows him to see the bigger picture. He thinks that being just Full stack/DevOps is not enough in the real world. And it is not enough to add "Security" to the title. An engineer of the future will be able to manipulate with numbers as a data scientist and identify what is important to change in their organization as the best manufacturing managers do.
