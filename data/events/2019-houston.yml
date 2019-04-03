@@ -138,6 +138,8 @@ sponsors:
     level: silver
   - id: hostgator
     level: silver
+  - id: vmware
+    level: silver
   - id: fearless
     level: bronze
   - id: aws
