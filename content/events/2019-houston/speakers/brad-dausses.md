@@ -1,6 +1,6 @@
 +++
 Title = "Brad Dausses"
-image = ""
+image = "brad-dausses.jpg"
 type = "speaker"
 linktitle = "brad-dausses"
 LinkedIn = "https://www.linkedin.com/in/brad-dausses-2091532/"
