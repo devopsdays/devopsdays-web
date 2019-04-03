@@ -75,8 +75,10 @@ sponsors:
    level: bronze
  - id: arctiq
    level: bronze
-# - id: daitan-group
-#   level: bronze
+ - id: daitan-group
+   level: bronze
+# - id: daxiom
+#   level: friends
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 #  - id: arresteddevops
 #    level: community
