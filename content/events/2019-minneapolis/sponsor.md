@@ -21,7 +21,7 @@ Additional à la carte sponsorships are available:
 <li>Day 1 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
 <li>Day 1 lunch ($3500) - 1 slot available - signage by the lunch service with your logo during lunch
 <li>Day 1 afternoon break ($1000) - 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
-<li>Day 1 evening happy hour ($4000) - 2 slots available - signage at the evening happy hour
+<li>Day 1 evening happy hour ($4000) - 1 slot available - signage at the evening happy hour
 </ul>
 
 <ul>
