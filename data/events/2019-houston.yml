@@ -144,6 +144,8 @@ sponsors:
     level: bronze
   - id: aws
     level: bronze
+  - id: micro-focus
+    level: bronze
   - id: arresteddevops
     level: community
 
