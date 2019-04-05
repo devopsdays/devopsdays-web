@@ -77,9 +77,13 @@ sponsors:
     level: gold
   - id: bukalapak
     level: gold
-  - id: google-cloud
+  - id: googlecloud
     level: gold
   - id: ovo
+    level: gold
+  - id: f5
+    level: gold
+  - id: maxhub
     level: gold
   - id: devops-institute
     level: community
@@ -176,8 +180,8 @@ program:
     date: 2019-04-10
     start_time: "13:45"
     end_time: "14:15"
-  - title: "Steve Shirkey - TBA"
-    type: customs
+  - title: "steve-shirkey"
+    type: talk
     date: 2019-04-10
     start_time: "14:25"
     end_time: "15:10"
@@ -191,7 +195,7 @@ program:
     date: 2019-04-10
     start_time: "15:40"
     end_time: "16:00"
-  - title: "Closing Keynote"
+  - title: "Talk - TBA"
     type: custom
     date: 2019-04-10
     start_time: "16:00"
@@ -211,7 +215,7 @@ program:
     date: 2019-04-11
     start_time: "09:00"
     end_time: "09:45"
-  - title: "christian-hermanus"
+  - title: "stefan-streichsbier"
     type: talk
     date: 2019-04-11
     start_time: "09:55"
@@ -226,13 +230,13 @@ program:
     date: 2019-04-11
     start_time: "10:45"
     end_time: "11:15"
-  - title: "stefan-streichsbier"
+  - title: "christian-hermanus"
     type: talk
     date: 2019-04-11
     start_time: "11:25"
     end_time: "11:55"
-  - title: "Budi Kusmiantoro - How DevOps Revolutionize Indonesian Fintech Industry"
-    type: custom
+  - title: "budi-kusmiantoro"
+    type: talk
     date: 2019-04-11
     start_time: "12:05"
     end_time: "12:35"
@@ -261,8 +265,8 @@ program:
     date: 2019-04-11
     start_time: "15:20"
     end_time: "15:40"
-  - title: "Closing Keynote"
-    type: custom
+  - title: "cecep-mahbub-roqibuddin"
+    type: talk
     date: 2019-04-11
     start_time: "15:40"
     end_time: "16:25"

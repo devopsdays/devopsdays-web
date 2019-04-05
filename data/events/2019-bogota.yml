@@ -79,7 +79,7 @@ sponsors:
   - id: devopsinstitute
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
-  - id: arresteddevops
+  - id: itrevolution
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -99,3 +99,5 @@ sponsor_levels:
     label: gold
   - id: silver
     label: silver
+  - id: community
+    label: community

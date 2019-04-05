@@ -228,7 +228,7 @@ program:
     date: 2019-03-29
     start_time: "17:00"
     end_time: "17:30"
-  - title: "Evening event"
+  - title: "Evening event @ Steamworks"
     type: custom
     date: 2019-03-29
     start_time: "17:45"

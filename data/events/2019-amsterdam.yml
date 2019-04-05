@@ -120,6 +120,8 @@ sponsors:
     level: silver
   - id: aqua_sec
     level: silver
+  - id: saucelabs
+    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
@@ -148,9 +150,6 @@ sponsor_levels:
   - id: BBQ
     label: BBQ
     max: "1"
-  - id: "Social event"
-    label: social
-    max: "1"
   - id: beer
     label: Beer
     max: "1"
@@ -160,9 +159,6 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: "8"
-  - id: games
-    label: "Arcade Games"
-    max: "1"
   - id: silver
     label: Silver
     max: "8"

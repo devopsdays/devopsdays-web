@@ -1,7 +1,9 @@
 +++
 Title = "Oleg Atamanenko"
-Twitter = ""
+Twitter = "real_atamanenko"
 type = "speaker"
+Image = "oleg-atamanenko.jpg"
+LinkedIn = "https://www.linkedin.com/in/atamanenko/"
 linktitle = "oleg-atamanenko"
 
 +++

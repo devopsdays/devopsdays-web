@@ -166,6 +166,14 @@ sponsors:
     level: alacarte
   - id: nutanix
     level: gold
+  - id: oraclecloud
+    level: silver
+  - id: keyva
+    level: silver
+  - id: googlecloud
+    level: gold
+  - id: googlecloud
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

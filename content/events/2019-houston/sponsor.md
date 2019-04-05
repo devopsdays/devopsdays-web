@@ -56,7 +56,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form></center></th>
         <th valign="top"><center>
-        <span class="btn btn-danger btn-sm">Sold Out<br/>(1 Pending)</span> <br/>
+        <span class="btn btn-danger btn-sm">Sold Out</span> <br/>
         </center></th>
         <th valign="top"><center>
         <span class="btn btn-danger btn-sm">Sold Out</span>

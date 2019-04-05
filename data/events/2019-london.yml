@@ -88,6 +88,8 @@ sponsors:
   - id: f5
     level: evening
     # Gold
+  - id: appdynamics
+    level: gold
   - id: circleci
     level: gold
   - id: influxdata
@@ -102,6 +104,8 @@ sponsors:
   - id: tecknuovo
     level: silver
     # Community
+  - id: athens-project
+    level: community
   - id: leeds-devops
     level: community
   - id: manc-devops
@@ -117,6 +121,8 @@ sponsors:
   - id: northeast-devops
     level: community
   - id: sheffield-devops
+    level: community
+  - id: sous-chefs
     level: community
   - id: london-devops
     level: community

@@ -142,7 +142,7 @@ program:
     date: 2019-05-02
     start_time: "08:00"
     end_time: "09:00"
-  - title: "christopher-hunt"
+  - title: "pete-anderson"
     type: talk
     date: 2019-05-02
     start_time: "09:00"
@@ -167,6 +167,11 @@ program:
     date: 2019-05-02
     start_time: "11:00"
     end_time: "11:15"
+  - title: "jason-yee"
+    type: talk
+    date: 2019-05-02
+    start_time: "11:15"
+    end_time: "12:00"
   - title: "emily-nakashima"
     type: talk
     date: 2019-05-02
@@ -182,7 +187,7 @@ program:
     date: 2019-05-02
     start_time: "13:00"
     end_time: "13:30"
-  - title: "ryan-bergman"
+  - title: "christopher-hunt"
     type: talk
     date: 2019-05-02
     start_time: "13:30"
@@ -193,6 +198,11 @@ program:
     start_time: "14:30"
     end_time: "14:45"
   - title: "brian-hostetter"
+    type: talk
+    date: 2019-05-02
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "james-young"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
@@ -213,8 +223,8 @@ program:
     date: 2019-05-03
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Keynote"
-    type: custom
+  - title: "ryan-bergman"
+    type: talk
     date: 2019-05-03
     start_time: "09:00"
     end_time: "10:00"
@@ -258,8 +268,8 @@ program:
     date: 2019-05-03
     start_time: "13:00"
     end_time: "13:30"
-  - title: ""
-    type: custom
+  - title: "martin-schildroth"
+    type: talk
     date: 2019-05-03
     start_time: "13:30"
     end_time: "14:30"
@@ -268,8 +278,13 @@ program:
     date: 2019-05-03
     start_time: "14:30"
     end_time: "14:45"
-  - title: ""
-    type: custom
+  - title: "stephen-wilson"
+    type: talk
+    date: 2019-05-03
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "dustin-thostenson-skylar-watson"
+    type: talk
     date: 2019-05-03
     start_time: "14:45"
     end_time: "15:30"
@@ -284,3 +299,7 @@ ignites:
     date: 2019-05-02
   - title: "margaret-valtierra"
     date: 2019-05-02
+  - title: "kylee-tilley"
+    date: 2019-05-03
+  - title: "matt-busche"
+    date: 2019-05-03

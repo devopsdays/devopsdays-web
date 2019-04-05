@@ -177,9 +177,8 @@ sponsors:
 - id: swisscom
   url: https://job.swisscom.ch/ict/de?showclose=1
   level: platinum
-- id: oracle2019
+- id: oracle
   level: silver
-  url: https://developer.oracle.com/
 - id: nine
   level: bronze
 - id: bmc
@@ -203,6 +202,10 @@ sponsors:
   level: gold
 - id: adnovum
   level: bronze
+- id: switch
+  level: bronze
+- id: cloudbees
+  level: silver
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum

@@ -173,6 +173,16 @@ sponsors:
     url: https://www.red-gate.com/
   - id: pivotal
     level: gold
+  - id: signalsciences
+    level: gold
+  - id: avinetworks
+    level: gold
+  - id: riverbed
+    level: gold
+  - id: roguewave
+    level: gold
+  - id: cyberark
+    level: silver
   - id: f5
     level: mealandsnack
   - id: devopsdotcom

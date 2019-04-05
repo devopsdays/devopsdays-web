@@ -2,6 +2,7 @@
 Title = "Kevin Crawley"
 Twitter = "notsureifkevin"
 type = "speaker"
+image = "kevin-crawley.jpg"
 linktitle = "kevin-crawley"
 
 +++

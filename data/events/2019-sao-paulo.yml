@@ -138,6 +138,14 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: platinum
+  - id: indracompany
+    level: platinum
+  - id: agility_2019
+    level: gold
+  - id:  c6bank 
+    level: gold
+  - id: instana
+    level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: 4linux-2019
     level: silver
@@ -372,18 +380,17 @@ program:
     start_time: "15:30"
     end_time: "16:20"
 
-  - title: "yago-nobre"
+  - title: "fred-costa"
     type: talk
     date: "2019-04-11"
     start_time: "16:20"
     end_time: "16:50"
 
-  - title: ""
+  - title: "yago-nobre"
     type: talk
     date: "2019-04-11"
     start_time: "16:50"
     end_time: "17:30"
-    background_color: "#FFA3ED"
 
   - title: "Fechamento"
     type: custom
@@ -398,9 +405,6 @@ ignites:
 
   - title: "eduardo-ximenes"
     date: "2019-04-10"
-
-  - title: "fred-costa"
-    date: "2019-04-11"
 
   - title: "danubia-barreto"
     date: "2019-04-11"

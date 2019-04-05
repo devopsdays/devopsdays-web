@@ -20,7 +20,7 @@ Description = "DevOpsDays Hartford 2019"
           {{< event_start >}} - {{< event_end >}}
         </div>
       </div>
-      <!-- <div class="row" style="margin-bottom: 1rem;">
+      <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Location</strong>
         </div>
@@ -28,14 +28,14 @@ Description = "DevOpsDays Hartford 2019"
           {{< event_location >}}
         </div>
       </div>
-      <div class="row" style="margin-bottom: 1rem;">
+      <!-- <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Register</strong>
         </div>
         <div class="col-md-12">
           {{< event_link page="registration" text="Register to attend the conference!" >}}
         </div>
-      </div>
+      </div> -->
       <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Propose</strong>
@@ -44,7 +44,7 @@ Description = "DevOpsDays Hartford 2019"
           {{< event_link page="propose" text="Propose a talk!" >}}
         </div>
       </div>
-      <div class="row" style="margin-bottom: 1rem;">
+      <!-- <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Program</strong>
         </div>

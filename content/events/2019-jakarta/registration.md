@@ -16,6 +16,7 @@ Description = "Registration for devopsdays Jakarta 2019"
 <h2>Registration for the Workshop</h2>
 
 - https://bit.ly/DevOpsDaysJKTWorkshop
+- [Microsoft Workshop (Azure)](https://www.townscript.com/e/continuous-integration-with-azure-devops-010044?prS=&seS=)
 
 </div></div>
 </div>

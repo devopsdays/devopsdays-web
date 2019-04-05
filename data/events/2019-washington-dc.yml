@@ -10,29 +10,28 @@ ga_tracking_id: "UA-131045075-1"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-07-08T13:00:00
+enddate:  2019-07-09T22:00:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-04-01
+cfp_date_end:  2019-05-01
+cfp_date_announce:  2019-05-15
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://devopsdaysdc2019.busyconf.com/proposals/new"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-04-01T13:00:00
+registration_date_end: 2019-07-09T16:00:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysdc2019.busyconf.com/bookings/new"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Washington, DC" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "38.893837,-77.030952"
+location: "Ronald Reagan Building and International Trade Center, Washington, D.C."
+location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
@@ -112,13 +111,13 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Mike DelNegro"
-    employer: "Deltek"
+    employer: ""
     twitter: "radiocats"
     bio: ""
     github: ""
     facebook: ""
     website: ""
-    linkedin: ""
+    linkedin: "www.linkedin.com/in/mdelnegro"
 
   - name: "Greg Elin"
     employer: "GovReady PBC"
@@ -201,6 +200,15 @@ team_members: # Name is the only required field for team members.
   - name: "Ramez Mourad"
     employer: "Cvent"
     twitter: "ramezjm"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Jake Vanderdray"
+    employer: "Cvent"
+    twitter: ""
     bio: ""
     github: ""
     facebook: ""

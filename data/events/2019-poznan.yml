@@ -100,11 +100,29 @@ proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
+  - id: nordcloud
     level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
+  - id: dell
+    level: gold
+  - id: trecom
+    level: gold
+  - id: egnyte
+    level: silver
+  - id: tomtom
+    level: silver
+  - id: holidaycheck
+    level: bronze
+  - id: allegro
+    level: bronze
+  - id: mirantis
+    level: bronze
+  - id: letsmanageit
     level: community
+  - id: containersolutions
+    level: community
+    #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

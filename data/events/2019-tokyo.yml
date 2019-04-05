@@ -41,19 +41,21 @@ team_members: # Name is the only required field for team members.
     employer: "Creationline"
   - name: "Alex Papadimoulis"
     employer: "Inedo"
-    twitter: "apapadimoulis"
+    twitter: "apxld"
+  - name: "Sho Sato"
+    employer: "Inedo"
   - name: "Yasunobu Kawaguchi"
-    employer: "Rakuten"
-  - name: "Ryutaro Yoshiba"
-    employer: "Ryuzee.com"
-  - name: "Minoru Tsuka"
-    employer: "Yahoo! Japan"
-  - name: "Tsuyoshi Ushio"
-    employer: "Microsoft Corp."
+    employer: "Attractor"
   - name: "Hiro Arai"
     employer: "Creationline"
   - name: "Tadahiro Yasuda"
     employer: "Creationline"
+  - name: "Kenta Sasa"
+    employer: "Creationline"
+  - name: "Muneyuki Okamoto"
+    employer: "ITPreneurs Japan"
+  - name: "Toshiya Enami"
+    employer: "ITPreneurs Japan"  
 
 organizer_email: "organizers-tokyo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tokyo-2019@devopsdays.org" # Put your proposal email address here
@@ -63,6 +65,12 @@ proposal_email: "proposals-tokyo-2019@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: f5
     level: gold
+  - id: datadog
+    level: gold
+  - id: solace
+    level: gold
+  - id: softbank
+    level: gold
   - id: creationline
     level: silver
   - id: itpreneurs
@@ -70,7 +78,17 @@ sponsors:
     url: https://www.itpreneurs.co.jp/
   - id: inedo
     level: silver
-  - id: ciandt
+  - id: rakuten
+    level: silver
+    url: https://www.rakuten.co.jp/
+    twitter: RakutenJP
+  - id: cit
+    level: silver
+  - id: auth0
+    level: silver
+  - id: mamezou
+    level: silver
+  - id: agilergo
     level: silver
   - id: lac
     level: bronze
@@ -86,9 +104,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 4
   - id: silver
     label: Silver
-    max: 3
   - id: bronze
     label: Bronze
