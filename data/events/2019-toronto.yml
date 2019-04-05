@@ -113,6 +113,8 @@ sponsors:
     level: gold
   - id: sps_commerce
     level: lanyard
+  - id: intelliware
+    level: lunch
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
