@@ -206,7 +206,8 @@ program:
     date: 2019-04-16
     start_time: "10:45"
     end_time: "12:00"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
   - title: "aaron-aldrich"
     type: talk
     date: 2019-04-16
@@ -242,7 +243,8 @@ program:
     date: 2019-04-16
     start_time: "14:15"
     end_time: "15:30"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop and AWS account"
   - title: "sagar-karmarkar"
     type: talk
     date: 2019-04-16
@@ -326,7 +328,8 @@ program:
     date: 2019-04-17
     start_time: "10:45"
     end_time: "12:00"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "shaun-ladewig"
     type: talk
     date: 2019-04-17
@@ -362,7 +365,8 @@ program:
     date: 2019-04-17
     start_time: "14:15"
     end_time: "15:30"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and an accounts on GCP, Azure, AWS, or DO"
   - title: "john-esser"
     type: talk
     date: 2019-04-17
