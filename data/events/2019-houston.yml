@@ -366,7 +366,7 @@ program:
     start_time: "14:15"
     end_time: "15:30"
     comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
-      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and an accounts on GCP, Azure, AWS, or DO"
+      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and accounts on GCP, Azure, AWS, or DO"
   - title: "john-esser"
     type: talk
     date: 2019-04-17
