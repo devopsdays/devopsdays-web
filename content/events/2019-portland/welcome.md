@@ -41,7 +41,7 @@ Description = "devopsdays Portland 2019"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://sessionize.com/devopsdays-portland-2019/">Propose a talk!</a>
+    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
   </div>
 </div>
 
