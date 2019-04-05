@@ -174,6 +174,8 @@ sponsors:
     level: gold
   - id: googlecloud
     level: alacarte
+  - id: logzio
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
