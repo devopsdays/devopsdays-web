@@ -4,6 +4,7 @@ Twitter = ""
 image = "ipsito-banerjee.jpg"
 type = "speaker"
 linktitle = "ipsito-banerjee"
+LinkedIn = "https://www.linkedin.com/in/ipsito-banerjee-pmp%C2%AE-flmi-207aab67/"
 
 +++
 
