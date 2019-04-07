@@ -94,7 +94,7 @@ sponsors:
      level: platinum
    - id: microsoft
      level: gold
-   - id: techtown
+   - id: aspe
      level: platinum
    - id: ahead
      level: platinum
@@ -105,6 +105,8 @@ sponsors:
    - id: triangledevops
      level: community
    - id: gitlab
+     level: gold
+   - id: xmatters
      level: gold
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
