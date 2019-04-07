@@ -79,7 +79,7 @@ sponsors:
     level:  silver
   - id: clearwater
     level: silver
-  - id: taos-before-20190405
+  - id: taos
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

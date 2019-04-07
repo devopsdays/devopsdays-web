@@ -102,22 +102,22 @@ proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: nordcloud
     level: gold
-  - id: dell
-    level: gold
-  - id: trecom
-    level: gold
   - id: egnyte
-    level: silver
-  - id: tomtom
     level: silver
   - id: holidaycheck
     level: bronze
   - id: allegro
     level: bronze
-  - id: mirantis
-    level: bronze
+  - id: tomtom
+    level: silver
   - id: letsmanageit
     level: community
+#  - id: mirantis
+#    level: community
+  - id: dell
+    level: gold
+  - id: trecom
+    level: gold
   - id: containersolutions
     level: community
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.

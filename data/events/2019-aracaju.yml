@@ -126,14 +126,8 @@ proposal_email: "organizers-aracaju-2019@devopsdays.org" # Put your proposal ema
 #     url: https://xxxx/ # Use this if you need to over-ride a sponsor URL.
 
 sponsors:
-  - id: paggcerto
-    level: gold
   - id: unit
-    level: silver
-  - id: jobconnect
-    level: bronze
-  - id: tipolight
-    level: community
+    level: gold
   - id: liquet
     level: community
 
@@ -144,8 +138,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: platinum
-    label: platinum
+#  - id: platinum
+#    label: platinum
   - id: gold
     label: Gold
 #    max: 10

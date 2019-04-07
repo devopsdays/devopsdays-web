@@ -56,7 +56,7 @@ proposal_email: "proposals-boise-2016@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: 2016-victorops
     level: gold
-  - id: taos-before-20190405
+  - id: taos
     level: dinner
   - id: tesora
     level: bronze

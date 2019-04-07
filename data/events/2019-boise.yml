@@ -94,10 +94,6 @@ sponsors:
     level: silver
   - id: clearwater
     level: silver
-  - id: new-context
-    level: silver
-  - id: cradlepoint
-    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

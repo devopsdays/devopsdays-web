@@ -14,6 +14,3 @@ Yet, where do you start? Especially if you consider yourself a security novice. 
 In this workshop, you will learn what attackers look for first, and the best practices to make your technology stack much more secure quickly. Then you’ll get code to figure out if you are at risk and as well as scripts to make sure the issues are quickly fixed, and don’t happen again.  
 
 Why reinvent the wheel when you can get a quick and dirty tutorial on making your DevOps environment more secure? 
-
-<b>Location</b>: Studio Movie Grill<br/>
-<b>Required</b>: Laptop and AWS account<br/>

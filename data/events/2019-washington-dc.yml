@@ -111,13 +111,13 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Mike DelNegro"
-    employer: ""
+    employer: "Deltek"
     twitter: "radiocats"
     bio: ""
     github: ""
     facebook: ""
     website: ""
-    linkedin: "www.linkedin.com/in/mdelnegro"
+    linkedin: ""
 
   - name: "Greg Elin"
     employer: "GovReady PBC"

@@ -88,8 +88,6 @@ proposal_email: "proposals-des-moines-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: ahead
-    level: gold
   - id: cyberark
     level: gold
   - id: dynatrace
@@ -302,6 +300,4 @@ ignites:
   - title: "margaret-valtierra"
     date: 2019-05-02
   - title: "kylee-tilley"
-    date: 2019-05-03
-  - title: "matt-busche"
     date: 2019-05-03
