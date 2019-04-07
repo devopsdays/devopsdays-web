@@ -173,7 +173,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190405
     level: gold
   - id: indellient
     level: bronze
