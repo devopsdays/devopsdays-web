@@ -1,6 +1,7 @@
 +++
 Title = "Mirco Hering"
 Twitter = "mircohering"
+website = "https://notafactoryanymore.com/"
 image = "mirco-hering.jpg"
 type = "speaker"
 linktitle = "mirco-hering"
