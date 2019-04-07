@@ -1,13 +1,14 @@
 name: "2019-campinas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Campinas" # The displayed city name of the event. Capitalize it.
+event_logo: "logo-square.jpg"
 event_twitter: "devopsdayscamp" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Campinas!" # Edit this to suit your preferences
 # ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-10-04 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-10-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-10-25T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-25T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
@@ -25,10 +26,10 @@ registration_date_end: # close registration. Leave blank if registration is not 
 
 # Location
 #
-coordinates: "-22.900943, -47.057972" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "" # Defaults to city, but you can make it the venue name.
+coordinates: "-22.814226, -47.071268" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro de Convenções da Unicamp" # Defaults to city, but you can make it the venue name.
 #
-# location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Avenida Érico Veríssimo, 500 - Cidade Universitária - Barão Geraldo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Informações
@@ -99,10 +100,12 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id:
-#   level:
+  - id: infoq
+    level: supporter
+  - id: estabilis
+    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -117,8 +120,9 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-#    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: supporter
+    label: Supporter
