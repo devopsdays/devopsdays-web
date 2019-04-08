@@ -140,6 +140,9 @@ sponsors:
 
 # Comunidad
 # ------------------------------------------------------------------------------
+  - id: cuti
+    level: community
+
   - id: universidad-ort-uruguay
     level: community
 
@@ -148,6 +151,8 @@ sponsors:
 
   - id: powershell-meetup-uy
     level: community
+
+
 
 
 
