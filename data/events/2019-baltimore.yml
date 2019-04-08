@@ -181,6 +181,8 @@ sponsors:
     level: gold
   - id:  wortech
     level: silver
+  - id: aws
+    level: silver
   - id:  stemnastics
     level: community
   - id:  gigabyte_magazine
