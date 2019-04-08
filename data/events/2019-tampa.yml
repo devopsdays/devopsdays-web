@@ -110,8 +110,15 @@ sponsors:
     level: platinum
   - id: datical
     level: platinum
-  - id: accenture
+  - id: accenturesiq
     level: platinum
+  - id: jpmc
+    level: platinum
+  - id: delphix
+    level: platinum
+  - id: techdata
+    level: gold
+    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
