@@ -122,6 +122,8 @@ sponsors:
     level: silver
   - id: saucelabs
     level: silver
+  - id: devoteam
+    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
