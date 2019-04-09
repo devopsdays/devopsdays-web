@@ -86,6 +86,10 @@ sponsors:
     level: gold
   - id: netapp
     level: silver
+  - id: ena
+    level: bronze
+  - id: insight
+    level: silver
   - id: redhat
     level: community
   - id: shadow-soft
