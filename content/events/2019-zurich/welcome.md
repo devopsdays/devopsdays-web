@@ -4,7 +4,6 @@ title = "welcome"
 type = "event"
 aliases = ["/events/2019-zurich"]
 Description = "DevOpsDays Zürich 209"
-
 +++
 <!--
 <h3>{{< event_start >}} - {{< event_end >}}</h3>
