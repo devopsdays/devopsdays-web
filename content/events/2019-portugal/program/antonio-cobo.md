@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Moving Mountains: The Real-World Enterprise Journey to Continuous Delivery"
+Title = "Karaoke Ignite Talk"
 Type = "talk"
 Speakers = ["antonio-cobo"]
 +++
