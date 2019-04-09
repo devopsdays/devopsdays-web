@@ -179,15 +179,21 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
+  - id:  cei
+    level: gold
+  - id:  tenable
+    level: gold
   - id:  wortech
     level: silver
   - id: aws
     level: silver
+  - id:  techwell
+    level: media
   - id:  stemnastics
     level: community
   - id:  gigabyte_magazine
     level: community
-  - id:  techwell
-    level: media
-  - id:  cei
-    level: gold
+  - id:  bwit
+    level: community
+  - id:  spark
+    level: community
