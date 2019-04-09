@@ -129,6 +129,8 @@ sponsors:
   level: supporter
 - id: oraclecloud
   level: coffee
+- id: hashicorp
+  level: gold
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -313,8 +315,6 @@ ignites:
   - title: "- Mike Dorman"
     date: *day_one
   - title: "- Matt Blasinski"
-    date: *day_one
-  - title: "- Dave Thompson"
     date: *day_one
   - title: "- John Kimball"
     date: *day_one
