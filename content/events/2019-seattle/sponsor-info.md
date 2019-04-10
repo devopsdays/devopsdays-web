@@ -31,6 +31,12 @@ This year’s event is on April 23rd and 24th, 2019. A detailed program can be f
 by this time)
 * Tear down - approximately 4:00PM on April 24th.
 
+### Sponsor Pitch Schedule
+Gold sponsors have 1 minute for a pitch to the full audience. This time will be strictly enforced to make
+sure we stay on schedule! 
+
+<iframe width=700 height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQMBAS2c45N6OTxA1JkSpAm7bmBZu28fG_Ntv8-aE5FxdNAOmiPaek6MCvzbCUt0X2B8amuV3GRhNpE/pubhtml?gid=0&single=true&widget=true&headers=false"></iframe>
+
 ### Who to Send
 Of course this is up to you, but most attendees will be practitioners. It’s
 important to your success that you send people able to have practitioner level
