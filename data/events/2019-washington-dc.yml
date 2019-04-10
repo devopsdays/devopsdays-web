@@ -134,7 +134,7 @@ team_members: # Name is the only required field for team members.
     twitter: "jgallimore"
     bio: ""
     image: "jeff-gallimore.jpg"
-    github: "jgallimore"
+    github: "gallimorej"
     linkedin: "https://www.linkedin.com/in/jgallimore/"
     website: "https://itsanicelife.com/"
     facebook: ""
@@ -310,5 +310,8 @@ sponsors:
     level: platinum
   - id: excella
     level: platinum
+  - id: redhatgov
+    level: platinum
+    url: "https://go.redhat.com/public-sector?sc_cid=701f2000001OIyfAAG"
   - id: circleci
     level: gold

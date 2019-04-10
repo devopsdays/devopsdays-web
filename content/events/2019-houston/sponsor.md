@@ -48,7 +48,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
     </tr>
     <tr>
         <th style="text-align:left">Pay Now</th>
-        <th><center><span class="btn btn-warning btn-sm">3 left</span><br /><br />
+        <th><center><span class="btn btn-warning btn-sm">2 left</span><br /><br />
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7HCW43Y5TXEPG">

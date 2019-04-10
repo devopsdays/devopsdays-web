@@ -69,6 +69,9 @@ sponsors:
   - id: devrelate
     level: community
     url: http://devrelate.io
+  - id: acv_auctions
+    level: gold
+    url: https://www.acvauctions.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

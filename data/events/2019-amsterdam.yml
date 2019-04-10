@@ -96,6 +96,8 @@ sponsors:
   - id: newrelic
     level: beer
   # Coffee
+  - id: sentia
+    level: coffee
   # Golds
   - id: f5
     level: gold
@@ -122,6 +124,8 @@ sponsors:
     level: silver
   - id: saucelabs
     level: silver
+  - id: devoteam
+    level: silver
   # Lanyards
   - id: developers-nl
     level: lanyard
@@ -138,6 +142,8 @@ sponsors:
   - id: working-spirit
     level: bronze
   - id: inuits
+    level: bronze
+  - id: monkeyswithbuttons
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

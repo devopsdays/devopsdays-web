@@ -102,19 +102,25 @@ sponsors:
     level: silver
   - id: valtech
     level: silver
+  - id: ring-ukraine
+    level: silver
   - id: triangu
     level: silver
-  - id: ring-ukraine
+  - id: zone3000
+    level: silver
+  - id: ciklum
+    level: silver
+  - id: intellias
     level: silver
   - id: percona
     level: bronze
   - id: ab-soft
     level: bronze
+  - id: shalb
+    level: bronze
   - id: pivotal
     level: bronze
   - id: inuits
-    level: bronze
-  - id: shalb
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
