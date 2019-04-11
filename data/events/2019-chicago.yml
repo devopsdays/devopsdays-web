@@ -144,11 +144,11 @@ sponsors:
     level: silver
   - id: pagerduty
     level: gold
-  - id: Sauce Labs
+  - id: saucelabs
     level: silver
-  - id: Dynatrace
+  - id: dynatrace
     level: gold
-  - id: xMatters
+  - id: xmatters
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
