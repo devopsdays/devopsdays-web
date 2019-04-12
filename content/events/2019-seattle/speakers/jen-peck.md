@@ -1,6 +1,6 @@
 +++
 Title = "Jen Peck"
-Twitter = "jenpeck2020"
+Twitter = "devpeckops"
 image = "Jen_Peck.jpg"
 type = "speaker"
 linktitle = "jen-peck"
