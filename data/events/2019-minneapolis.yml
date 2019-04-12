@@ -34,11 +34,11 @@ location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue
 location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -186,7 +186,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 5
+    max: 7
   - id: gold
     label: Gold
   - id: silver
@@ -195,3 +195,200 @@ sponsor_levels:
     label: A La Carte
   - id: community
     label: Community
+
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-06
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-08-06
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "liz-fong-jones"
+    type: talk
+    date: 2019-08-06
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-06
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "yolonda-smith"
+    type: talk
+    date: 2019-08-06
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2019-08-06
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-06
+    start_time: "10:45"
+    end_time: "10:50"
+  - title: "jessica-kerr"
+    type: talk
+    date: 2019-08-06
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-06
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "nivia-henry"
+    type: talk
+    date: 2019-08-06
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-06
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-08-06
+    start_time: "13:15"
+    end_time: "14:15"
+  - title: "cnab"
+    type: workshop
+    date: 2019-08-06
+    start_time: "13:30"
+    end_time: "15:00"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-08-06
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-08-06
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-08-06
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "container-security"
+    type: workshop
+    date: 2019-08-06
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-08-06
+    start_time: "16:15"
+    end_time: "17:00"
+  - title: "Sponsor Happy Hour"
+    type: custom
+    date: 2019-08-06
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "Evening Program & Ignites"
+    type: ignite
+    date: 2019-08-06
+    start_time: "18:00"
+    end_time: "20:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-07
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-08-07
+    start_time: "09:00"
+    end_time: "09:10"
+  - title: "john-engelman"
+    type: talk
+    date: 2019-08-07
+    start_time: "09:10"
+    end_time: "09:40"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-07
+    start_time: "09:40"
+    end_time: "09:50"
+  - title: "martez-reed"
+    type: talk
+    date: 2019-08-07
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2019-08-07
+    start_time: "10:20"
+    end_time: "10:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-07
+    start_time: "10:45"
+    end_time: "10:50"
+  - title: "serena-tiede"
+    type: talk
+    date: 2019-08-07
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-07
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "alice-goldfuss"
+    type: talk
+    date: 2019-08-07
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-07
+    start_time: "12:00"
+    end_time: "13:15"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-08-07
+    start_time: "13:15"
+    end_time: "14:00"
+  - title: "chaos-engineering"
+    type: workshop
+    date: 2019-08-07
+    start_time: "13:15"
+    end_time: "14:45"
+  - title: "attendee-suggested breakout discussions - Open Space #4"
+    type: open-space
+    date: 2019-08-07
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break & 3pm Raffle"
+    type: custom
+    date: 2019-08-07
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "attendee-suggested breakout discussions - Open Space #5"
+    type: open-space
+    date: 2019-08-07
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "blameless-postmortems"
+    type: workshop
+    date: 2019-08-07
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "attendee-suggested breakout discussions - Open Space #6"
+    type: open-space
+    date: 2019-08-07
+    start_time: "16:15"
+    end_time: "17:00"
+
+ignites:
+  - title: "Ignite Talks TBD"
+    date: 2019-08-06
