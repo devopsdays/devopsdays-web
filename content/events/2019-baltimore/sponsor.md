@@ -14,6 +14,8 @@ All attendees are welcome to propose any subject they want during the open space
 
 Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 
+Have questions about sponsoring or about your organization's sponsorship? Checkout out our [sponsor FAQ](https://docs.google.com/document/d/1TpSm6KL9IPQah7EW2hs_QsibTgIFshpB9JxQMMbyVi0/edit?usp=sharing).
+
 The following chart outlines our sponsorship packages at a high level, which are further detailed below.
 
 
