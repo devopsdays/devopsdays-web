@@ -148,6 +148,8 @@ sponsors:
     level: bronze
   - id: macstadium
     level: bronze
+  - id: cmd
+    level: bronze
   - id: seattle-coffeeops
     level: community
   - id: eastside-coffeeops
