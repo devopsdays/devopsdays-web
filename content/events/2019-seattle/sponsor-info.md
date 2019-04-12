@@ -24,7 +24,7 @@ Seattle, WA 98101<br>
 <a href="https://www.wscc.com/directions">Directions and Parking</a>
 
 ### Dates and Times
-This year’s event is on April 23rd and 24th, 2019. A detailed program can be found at http://www.devopsdays.org/events/2019-seattle/conduct/. Please note the speaker schedule is subjeect to change.
+This year’s event is on April 23rd and 24th, 2019. A detailed program can be found at http://www.devopsdays.org/events/2019-seattle/program/. Please note the speaker schedule is subjeect to change.
 
 * Booth set up - 7:00AM April 23rd
 * Registration opens - 8:00AM April 23rd (you'll want to be ready to talk to people
@@ -97,13 +97,11 @@ recommended
 
 The sponsor area will be set up to encourage people to hang out and enjoy coffee breaks and meals. It isn’t designed like a big trade show with aisles of booths. You should bring retractable banners instead of traditional trade show booths.
 
-**IMPORTANT - Banners of the "don't bring this" style will not be allowed! We feel it's important to make sure the people who follow the rules aren't placed at a disadvantage for doing so.**
-
 <img style="max-width: 500px; padding: 0px 20px 20px 0px" src="/events/2017-seattle/banner_styles.png">
 
 ### A/V Rental<a id="av_rental">
 
-A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2019/seattle/devopsdays-2019-exhibitor-kit-form.pdf">this form</a>. Nobody has table numbers yet, so if ordering right away please use TBD for that information.
+A/V rental is available directly from the venue. All tables will have power and access to the shared wireless service. Anything else you require can be ordered with <a href="https://assets.devopsdays.org/events/2019/seattle/devopsdays-2019-exhibitor-kit-form.pdf">this form</a>. 
 
 ### Lead Collection
 We don’t share attendee information with sponsors.
