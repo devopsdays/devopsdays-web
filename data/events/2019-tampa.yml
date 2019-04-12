@@ -118,7 +118,11 @@ sponsors:
     level: platinum
   - id: techdata
     level: gold
-    
+  - id: connectwise
+    level: registration
+  - id: insight
+    level: gold
+        
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -136,6 +140,10 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 4 # This is the same as omitting the max limit.
+  - id: registration
+    label: Registration
   - id: gold
     label: Gold
+  - id: se
+    label: "Social Event"
 
