@@ -114,6 +114,8 @@ Most attendees will not have business cards, so you’ll want to have a way to
 capture this information. Some sponsors will bring slips of paper and a
 punchbowl, others will use something like Google Forms on a laptop or tablet.
 
+<a href="/events/2019-seattle/sponsor-content/drawings">Information for holding a drawing</a>
+
 ### Code of Conduct
 
 DevOpsDays is dedicated to providing a harassment-free conference experience
