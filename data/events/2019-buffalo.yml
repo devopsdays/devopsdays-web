@@ -75,6 +75,9 @@ sponsors:
   - id: torchio
     level: bronze
     url: https://torch.io
+  - id: starkandwayne
+    level: gold
+    url: https://starkandwayne.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
