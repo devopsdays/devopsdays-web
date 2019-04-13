@@ -83,6 +83,16 @@ team_members: # Name is the only required field for team members.
     github: "KRS-One"
     website: "https://www.underarmour.com"
     linkedin: "https://www.linkedin.com/in/chung-kevin/"
+
+  - name: "Mike DelNegro"
+    employer: ""
+    twitter: "radiocats"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: "www.linkedin.com/in/mdelnegro"
+
   - name: "Ryan Frantz"
     employer: "Bloomberg"
     github: "ryanfrantz"
