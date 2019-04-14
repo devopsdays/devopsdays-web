@@ -1,9 +1,8 @@
 +++
-date = "2016-12-14T09:04:52-06:00"
-title = "contact"
-type = "event"
-
-
+Title = "Contact"
+Type = "event"
+Description = "Contact information for devopsdays Saint Louis 2019"
+aliases = ["/events/2018-saint-louis/contact/"]
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}
