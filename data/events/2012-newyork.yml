@@ -6,12 +6,13 @@ status: "past" # Options are "past" or "current". Use "current" for upcoming.
 event_group: "New York City"
 
 # All dates are in unquoted 2012-MM-DD, like this:   variable: 2016-01-05
-startdate: 2013-01-17  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2013-01-18  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2013-01-17T00:00:00-05:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2013-01-18T23:59:59-05:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-01-01 # start accepting talk proposals.
-cfp_date_end: 2016-01-01 # close your call for proposals.
-cfp_date_announce: 2016-01-01 # inform proposers of status
+cfp_date_start: 2016-01-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2016-01-01T00:00:00-05:00 # close your call for proposals.
+cfp_date_announce: 2016-01-01T00:00:00-05:00 # inform proposers of status
 
 # Location
 #
