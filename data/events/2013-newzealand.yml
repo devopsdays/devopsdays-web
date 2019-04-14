@@ -6,8 +6,9 @@ status: "past" # Options are "past" or "current". Use "current" for upcoming.
 event_group: "New Zealand"
 
 # All dates are in unquoted 2013-MM-DD, like this:   variable: 2016-01-05
-startdate: 2013-03-08
-enddate: 2013-03-08
+startdate: 2013-03-08T00:00:00+13:00
+enddate: 2013-03-08T23:59:59+13:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.

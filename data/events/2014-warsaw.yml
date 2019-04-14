@@ -5,8 +5,9 @@ friendly: "2014-warsaw" # Four digit year and the city name in lower-case. Don't
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2014-MM-DD, like this:   variable: 2016-01-05
-startdate: 2014-09-25
-enddate: 2014-09-26
+startdate: 2014-09-25T00:00:00+01:00
+enddate: 2014-09-26T23:59:59+01:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.
