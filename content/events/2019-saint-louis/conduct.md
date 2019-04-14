@@ -1,8 +1,8 @@
 +++
-date = "2016-12-14T09:04:16-06:00"
-title = "conduct"
-type = "event"
-
+Title = "Conduct"
+Type = "event"
+Description = "Code of conduct for devopsdays Saint Louis 2019"
+aliases = ["/events/2018-saint-louis/conduct"]
 +++
 
 ## ANTI-HARASSMENT POLICY

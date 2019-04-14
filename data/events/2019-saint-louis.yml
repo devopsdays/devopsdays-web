@@ -1,8 +1,8 @@
-name: "2018-saint-louis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
-year: "2018" # The year of the event. Make sure it is in quotes.
+name: "2019-saint-louis" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Saint Louis" # The displayed city name of the event. Capitalize it.
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
-description: "DevOpsDays is coming to Saint Louis in 2018! It'll be a great opportunity to share knowledge, socialize, and have fun with other members of our great technical community." # A short blurb of text to describe your event, defaults to common DevOpsDays description
+description: "DevOpsDays is coming to Saint Louis in 2019! It'll be a great opportunity to share knowledge, socialize, and have fun with other members of our great technical community." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
 startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
@@ -54,8 +54,8 @@ team_members: # Name is the only required field for team members.
     twitter: "jeffmickd"
 
 
-organizer_email: "organizers-saint-louis-2018@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-saint-louis-2018@devopsdays.org" # Put your proposal email address here
+organizer_email: "organizers-saint-louis-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-saint-louis-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.

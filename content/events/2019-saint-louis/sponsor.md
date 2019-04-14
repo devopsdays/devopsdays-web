@@ -1,9 +1,8 @@
 +++
-date = "2016-12-14T10:10:42-06:00"
-title = "sponsor"
-type = "event"
-
-
+Title = "Sponsor"
+Type = "event"
+Description = "Sponsor devopsdays Saint Louis 2019"
+aliases = ["/events/2018-saint-louis/sponsor"]
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
