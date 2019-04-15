@@ -317,6 +317,8 @@ sponsors:
     level: platinum
   - id: circleci
     level: gold
+  - id: devopsdc-meetup
+    level: community
   - id: arresteddevops
     level: media
   - id: foodfight
