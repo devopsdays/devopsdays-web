@@ -14,7 +14,7 @@ All attendees are welcome to propose any subject they want during the open space
 The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
 <p>
 
-<p>Please see our <a href="/events/2019-chattanooga/devopsdays-chattanooga-2019-prospectus.pdf">prospectus</a> and contact us at [{{< email_organizers >}}] for more information on sponsoring devopsdays Chattanooga 2018.
+<p>Please see our <a href="/events/2019-chattanooga/devopsdays-chattanooga-2019-prospectus.pdf">prospectus</a> and contact us at [{{< email_organizers >}}] for more information on sponsoring devopsdays Chattanooga 2019.
 
 <p>
 
