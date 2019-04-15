@@ -302,6 +302,12 @@ program:
     date: 2019-05-14
     start_time: "17:20"
     end_time: "17:30"
+  - title: "Evening Event"
+    type: custom
+    date: 2019-05-14
+    start_time: "17:30"
+    end_time: "opes end"
+    comments: "The evening event will take place at the conference location."
   - title: "Registration & Welcome Coffe"
     type: custom
     date: 2019-05-15

@@ -5,11 +5,7 @@ event_twitter: "devopsdaystampa" # Change this to the twitter handle for your ev
 description: "Devopsdays is coming to Tampa Bay!" # Edit this to suit your preferences
 ga_tracking_id: "UA-127670911-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
-#   variable: 2019-01-04T00:00:00+02:00
-#   variable: 2019-01-05T23:59:59+02:00
-# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
-
+# All dates are in unquoted YYYY-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
 startdate: 2019-06-07T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2019-06-07T23:59:59-04:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
@@ -122,7 +118,11 @@ sponsors:
     level: platinum
   - id: techdata
     level: gold
-    
+  - id: connectwise
+    level: registration
+  - id: insight
+    level: gold
+        
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -140,6 +140,10 @@ sponsor_levels:
   - id: platinum
     label: Platinum
     max: 4 # This is the same as omitting the max limit.
+  - id: registration
+    label: Registration
   - id: gold
     label: Gold
+  - id: se
+    label: "Social Event"
 

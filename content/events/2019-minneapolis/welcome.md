@@ -41,27 +41,27 @@ Description = "devopsdays Minneapolis 2019"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    30min talk proposals are now closed. Ignite proposals will open soon!
+    {{< event_link page="propose" text="Propose an Ignite talk!" >}}
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the {{< event_link page="program" text="program." >}} Ignites coming soon!
   </div>
-</div> -->
+</div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    Check out the {{< event_link page="speakers" text="announced speakers!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

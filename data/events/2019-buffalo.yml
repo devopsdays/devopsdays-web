@@ -33,7 +33,7 @@ location: "Hotel Henry" # Defaults to city, but you can make it the venue name.
 location_address: "444 Forrest Avenue, BUFFALO, NY, 14213" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
  # - name: program
@@ -69,6 +69,18 @@ sponsors:
   - id: devrelate
     level: community
     url: http://devrelate.io
+  - id: acv_auctions
+    level: gold
+    url: https://www.acvauctions.com
+  - id: torchio
+    level: bronze
+    url: https://torch.io
+  - id: starkandwayne
+    level: gold
+    url: https://starkandwayne.com
+  - id: mandtbank
+    level: gold
+    url: https://www.mtb.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

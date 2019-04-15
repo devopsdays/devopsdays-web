@@ -130,6 +130,8 @@ sponsors:
     level: gold
   - id: split-software
     level: gold
+  - id: victorops
+    level: gold
   - id: lagom-solutions
     level: silver
   - id: gravitational
@@ -145,6 +147,8 @@ sponsors:
   - id: sysdig
     level: bronze
   - id: macstadium
+    level: bronze
+  - id: cmd
     level: bronze
   - id: seattle-coffeeops
     level: community
