@@ -36,8 +36,8 @@ location: "Chattanooga" # Defaults to city, but you can make it the venue name.
 location_address: "1150 Carter St, Chattanooga, TN 37402" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: registration
+  - name: propose
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
