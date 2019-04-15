@@ -2,7 +2,7 @@
 Title = "devopsdays Chattanooga 2019"
 Type = "welcome"
 aliases = ["/events/2019-chattanooga/"]
-Description = "DevOpsDays is returning to Chattanooga  on November 12, 2018 at the Chattanooga Convention Center."
+Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at the Chattanooga Convention Center."
 +++
 
 <!-- <div style="text-align:center;">
