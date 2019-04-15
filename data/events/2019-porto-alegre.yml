@@ -18,7 +18,7 @@ cfp_date_start: 2019-01-16T00:00:00-02:00  # start accepting talk proposals.
 cfp_date_end: 2019-02-28T23:59:59-03:00  # close your call for proposals.
 cfp_date_announce: 2019-03-15T23:59:59-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdayspoa2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-02-27T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -113,9 +113,34 @@ proposal_email: "proposals-porto-alegre-2019@devopsdays.org" # Put your proposal
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+#sponsors:
 sponsors:
-  - id: samplesponsorname
+  - id: arresteddevops
+    level: community
+  - id: afropython
+    level: community
+  - id: docker-porto-alegre
+    level: community
+  - id: nodegirlscode
+    level: community
+  - id: nodejs-porto-alegre
+    level: community
+  - id: linuxforall
+    level: community
+  - id: arqti
+    level: community
+  - id: oraex
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: dell
     level: gold
+  - id: globo
+    level: silver
+  - id: thoughtworks-services
+    level: silver
+  - id: aws
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -127,6 +152,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
@@ -137,3 +164,207 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  - title: "Credenciamento e coffee"
+    type: custom
+    date: "2019-05-24"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-05-24"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "andreza-rocha"
+    type: talk
+    date: "2019-05-24"
+    start_time: "9:40"
+    end_time: "10:20"
+
+  - title: "fernando-ike"
+    type: talk
+    date: "2019-05-24"
+    start_time: "10:30"
+    end_time: "10:50"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2019-05-24"
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "tatiane-paya"
+    type: talk
+    date: "2019-05-24"
+    start_time: "11:10"
+    end_time: "11:30"
+
+  - title: "bruna-grellt"
+    type: talk
+    date: "2019-05-24"
+    start_time: "11:40"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-05-24"
+    start_time: "12:00"
+    end_time: "14:00"
+
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2019-05-24"
+    start_time: "14:00"
+    end_time: "14:20"
+
+  - title: "mateus-prado"
+    type: talk
+    date: "2019-05-24"
+    start_time: "14:30"
+    end_time: "15:10"
+  
+  - title: "daniel-lara"
+    type: talk
+    date: "2019-05-24"
+    start_time: "15:20"
+    end_time: "15:40"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2019-05-24"
+    start_time: "15:50"
+    end_time: "16:10"
+  
+  - title: "aurora-lin"
+    type: talk
+    date: "2019-05-24"
+    start_time: "16:20"
+    end_time: "16:40"
+
+  - title: "wellington-silva"
+    type: talk
+    date: "2019-05-24"
+    start_time: "16:50"
+    end_time: "17:10"
+
+  - title: "Open Spaces"
+    type: open-space
+    date: "2019-05-24"
+    start_time: "17:20"
+    end_time: "18:20"
+
+  - title: "Encerramento Dia 1"
+    type: custom
+    date: "2019-05-24"
+    start_time: "18:20"
+    end_time: "18:40"
+  
+  - title: "Happy Hour"
+    type: custom
+    date: "2019-05-24"
+    start_time: "18:40"
+    end_time: "22:00"
+
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-05-25"
+    start_time: "9:00"
+    end_time: "9:30"
+
+  - title: "amanda-matos"
+    type: talk
+    date: "2019-05-25"
+    start_time: "9:40"
+    end_time: "10:20"
+
+  - title: "nana-raythz"
+    type: talk
+    date: "2019-05-25"
+    start_time: "10:30"
+    end_time: "10:50"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2019-05-25"
+    start_time: "10:50"
+    end_time: "11:10"
+
+  - title: "allan-moraes"
+    type: talk
+    date: "2019-05-25"
+    start_time: "11:10"
+    end_time: "11:30"
+
+  - title: "joao-brito"
+    type: talk
+    date: "2019-05-25"
+    start_time: "11:40"
+    end_time: "12:00"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-05-25"
+    start_time: "12:00"
+    end_time: "14:00"
+
+  - title: "Ignite Karaoke"
+    type: ignite
+    date: "2019-05-25"
+    start_time: "14:00"
+    end_time: "14:15"
+
+  - title: "wildt-lacerda"
+    type: talk
+    date: "2019-05-25"
+    start_time: "14:25"
+    end_time: "15:05"
+  
+  - title: "valdomiro-bilharvas"
+    type: talk
+    date: "2019-05-25"
+    start_time: "15:15"
+    end_time: "15:35"
+
+  - title: "Coffee Break"
+    type: custom
+    date: "2019-05-25"
+    start_time: "15:45"
+    end_time: "16:15"
+  
+  - title: "igor-bezerra"
+    type: talk
+    date: "2019-05-25"
+    start_time: "16:15"
+    end_time: "16:35"
+
+  - title: "riad-vargas"
+    type: talk
+    date: "2019-05-25"
+    start_time: "16:45"
+    end_time: "17:05"
+
+  - title: "Fishbowl"
+    type: open-space
+    date: "2019-05-25"
+    start_time: "17:05"
+    end_time: "18:00"
+
+ignites:
+  - title: "luis-aguirre"
+    date: "2019-05-24"
+
+  - title: "izael-ffemberg"
+    date: "2019-05-24"
+
+  - title: "jorge-leite"
+    date: "2019-05-24"
+
+  - title: "tiago-roberto"
+    date: "2019-05-24"
+
+
+    
