@@ -72,12 +72,12 @@ proposal_email: "proposals-chattanooga-2019@devopsdays.org" # Put your proposal 
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+#sponsors:
+#  - id: samplesponsorname
+#    level: gold
+# #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+#  - id: arresteddevops
+#    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -85,19 +85,14 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-#sponsor_levels:
-#  - id: diamond
-#    label: Diamond
-#    max: 2
-#  - id: platinum
-#    label: Platinum
-#    max: 2
-#  - id: gold
-#    label: Gold
-#    max: 7
-#  - id: silver
-#    label: Silver
-#  - id: bronze
-#    label: Bronze
-#  - id: community
-#    label: Community
+sponsor_levels:
+  - id: gold
+    label: Gold
+    max: 8
+  - id: silver
+    label: Silver
+    max: 10
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
