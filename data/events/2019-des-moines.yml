@@ -5,20 +5,25 @@ event_twitter: "devopsdaysdsm" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Des Moines!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-05-02 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-05-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-02T00:01:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-03T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2019-01-01T00:00:00-06:00 # start accepting talk proposals.
 cfp_date_end:  2019-02-08T23:59:00-06:00 # close your call for proposals.
-cfp_date_announce:  2018-12-30T00:00:00-06:00 # inform proposers of status
+# this should be the date you plan to announce your completed program
+#cfp_date_announce:  2018-12-30T00:00:00-06:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysdesmoines2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-01-01T00:00:00-06:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-05-01T00:00:00-06:00 # close registration. Leave blank if registration is not open yet.
+registration_date_end: 2019-05-01T00:00:00-05:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://eventbrite.com/e/devopsdays-des-moines-2019-tickets-54007008416" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -29,13 +34,14 @@ coordinates: "41.591913,-93.622598" # The coordinates of your city. Get Latitude
 location: "Iowa Events Center" # Defaults to city, but you can make it the venue name.
 #
 location_address: "730 3rd St, Des Moines, IA 50309" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+# masthead_background: "header-dsm.jpg"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
 #  - name: propose
-  #  - name: program
-  #  - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -82,6 +88,8 @@ proposal_email: "proposals-des-moines-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: ahead
+    level: gold
   - id: cyberark
     level: gold
   - id: dynatrace
@@ -91,6 +99,8 @@ sponsors:
   - id: gitlab
     level: gold
   - id: granular
+    level: gold
+  - id: hashicorp
     level: gold
   - id: john-deere
     level: gold
@@ -127,3 +137,171 @@ sponsor_levels:
     max: 1  
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Opening Welcome"
+    type: custom
+    date: 2019-05-02
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "pete-anderson"
+    type: talk
+    date: 2019-05-02
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-02
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "eric-johnson"
+    type: talk
+    date: 2019-05-02
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "bobby-stockstead-robert-whalen"
+    type: talk
+    date: 2019-05-02
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-02
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "jason-yee"
+    type: talk
+    date: 2019-05-02
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "emily-nakashima"
+    type: talk
+    date: 2019-05-02
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-05-02
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-02
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "christopher-hunt"
+    type: talk
+    date: 2019-05-02
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-02
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "brian-hostetter"
+    type: talk
+    date: 2019-05-02
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "james-young"
+    type: talk
+    date: 2019-05-02
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2019-05-02
+    start_time: "15:30"
+    end_time: "17:00"
+  - title: "Party!"
+    type: custom
+    date: 2019-05-02
+    start_time: "17:00"
+    end_time: "20:00"
+
+  - title: "Registration, Breakfast, Opening Welcome"
+    type: custom
+    date: 2019-05-03
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "ryan-bergman"
+    type: talk
+    date: 2019-05-03
+    start_time: "09:00"
+    end_time: "10:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-03
+    start_time: "10:00"
+    end_time: "10:15"
+  - title: "matt-ring-nick-herrig"
+    type: talk
+    date: 2019-05-03
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "lee-barnes"
+    type: talk
+    date: 2019-05-03
+    start_time: "10:15"
+    end_time: "11:00"
+  - title: "Break"
+    type: custom
+    date: 2019-05-03
+    start_time: "11:00"
+    end_time: "11:15"
+  - title: "eric-hendricks"
+    type: talk
+    date: 2019-05-03
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "russ-penning"
+    type: talk
+    date: 2019-05-03
+    start_time: "11:15"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-05-03
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-05-03
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "martin-schildroth"
+    type: talk
+    date: 2019-05-03
+    start_time: "13:30"
+    end_time: "14:30"
+  - title: "Break"
+    type: custom
+    date: 2019-05-03
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "stephen-wilson"
+    type: talk
+    date: 2019-05-03
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "dustin-thostenson-skylar-watson"
+    type: talk
+    date: 2019-05-03
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Open Spaces"
+    type: custom
+    date: 2019-05-03
+    start_time: "15:30"
+    end_time: "17:00"
+
+ignites:
+  - title: "aaron-blythe"
+    date: 2019-05-02
+  - title: "margaret-valtierra"
+    date: 2019-05-02
+  - title: "kylee-tilley"
+    date: 2019-05-03
+  - title: "matt-busche"
+    date: 2019-05-03

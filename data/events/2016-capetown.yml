@@ -5,8 +5,9 @@ friendly: "2016-capetown" # Four digit year and the city name in lower-case. Don
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-11-07
-enddate: 2016-11-08
+startdate: 2016-11-07T00:00:00+02:00
+enddate: 2016-11-08T23:59:59+02:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-07-01 # start accepting talk proposals.
 cfp_date_end: 2016-08-31 # close your call for proposals.

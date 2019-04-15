@@ -2,18 +2,25 @@ name: "2019-montevideo" # The name of the event. Four digit year with the city n
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Montevideo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMVD" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays próximamente en Montevideo!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+description: "DevOpsDays Montevideo; southern DevOpsDays on earth!" # Edit this to suit your preferences
+ga_tracking_id: "UA-136337020-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-08-21T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   2019-08-22T20:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-03-15T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-06-01T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2019-06-17T23:59:59-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysmvd2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -23,24 +30,27 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: -34.906460, -56.198330 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Montevideo, Uruguay" # Defaults to city, but you can make it the venue name.
+coordinates: -34.909549, -56.204406 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel NH Montevideo Columbia" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Rambla Gran Bretaña, 473, 11000 Montevideo - Uruguay" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
+  - name: propose
+    icon: "microphone"
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
- # - name: sponsor
+  - name: sponsor
+  - name: logo contest
+    icon: "pen"
+    url: "https://goo.gl/forms/BOx2sXlvxSBSfQEK2"
   - name: contact
   - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -50,12 +60,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/andresantoniuk/"
     gihub: "andresantoniuk"
     image: "andresantoniuk.jpg"
+    bio: "Experienced in making start-ups fail, learning how not to repeat same errors. Now enjoying digital transformation in the financial industry."
 
   - name: "Miguel Castro"
     twitter: "netascom"
     linkedin: "https://www.linkedin.com/in/miguel-castro-1bb44b1b/"
     employer: "NetAscom"
     image: "miguelcastro.jpg"
+    bio: "From discret electronic to networking, then to cloud; the unique constant: learning all the time. Not DevOps (yet), but I’m a fan."
 
   - name: "Genry Leyva González"
     twitter: "genrylg"
@@ -63,6 +75,28 @@ team_members: # Name is the only required field for team members.
     employer: "Arnaldo C. Castro S.A."
     gihub: "genrylg"
     image: "genry-devops.jpg"
+    bio: "DevOps enthusiast. Experienced software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success."
+
+  - name: "Pablo Nessi"
+    twitter: "NessiPablo"
+    linkedin: "https://www.linkedin.com/in/pablo-nessi/"
+    image: "pablonessi.jpg"
+    bio: "Passionate about continuous learning, seeker for high quality solutions and continuous improvement of software development processes."
+
+  - name: "Jorge Pais"
+    twitter: "jpais"
+    linkedin: "https://www.linkedin.com/in/jorgepais/"
+    employer: "Pyxis"
+    image: "jorgepais.jpg"
+    bio: "Systems Engineer working for 10 years in IT industry, with strong background on Microsoft infrastructure and services.
+    Currently working as Lead DevOps Engineer at Pyxis, rubbing some DevOps on everything related to Infrastructure and Operations"
+
+  - name: "Guillermo Talento"
+    twitter: "gtalentolane"
+    linkedin: "https://www.linkedin.com/in/gtalentolane/"
+    employer: "Software Testing Bureau"
+    image: "guillermotalento.jpg"
+    bio: "Over 30 years experience in IT. From 2001 focused on helping companies obtain the most from their software projects, through consultancy, mentoring and training services to improve the way they conceive, develop and implement software projects."
 
   - name: "Enrique Verdes"
     twitter: "EnriqueVerdes"
@@ -70,12 +104,16 @@ team_members: # Name is the only required field for team members.
     employer: "AT Innovando Juntos"
     github: "everdes-at"
     image: "enriqueverdes.jpg"
+    bio: "Old Linux SysAdmin dog learning new tricks."
+
 
   - name: "Xavier Verdino"
     twitter: "XavierVerdino1"
     linkedin: "https://www.linkedin.com/in/xavier-verdino-001a9b20/"
     employer: "Pyxis"
     image: "xavierverdino.jpg"
+    bio: "From IT guy to devops evangelist.... from  Have you tried turning it off and back on again? to \"do not lose time and redeploy all the infraestructrure\""
+
 
 organizer_email: "organizers-montevideo-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal email address here
@@ -83,15 +121,58 @@ proposal_email: "proposals-montevideo-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  #- id: Pyxis
-  #  level: gold
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  #- id: NetAscom
-  #  level: gold
-  #- id: AT
-  #  level: gold
-  #- id: Arnaldo C. Castro
-  #  level: gold
+
+# Platino
+# ------------------------------------------------------------------------------
+  - id: pyxis
+    level: platinum
+
+# Oro
+# ------------------------------------------------------------------------------
+  - id: jpos
+    level: gold
+  #  url: "http://jpos.org/" # Use this if you need to over-ride a sponsor URL.
+
+  - id: netascom
+    level: gold
+  #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
+
+# Plata
+# ------------------------------------------------------------------------------
+  - id: arkano
+    level: silver
+
+# Comunidad
+# ------------------------------------------------------------------------------
+  - id: cuti
+    level: community
+
+  - id: universidad-ort-uruguay
+    level: community
+
+  - id: azure-montevideo-meetup
+    level: community
+
+  - id: powershell-meetup-uy
+    level: community
+
+
+
+
+
+# TBD sponsors
+# ------------------------------------------------------------------------------
+  #- id: at-uruguay
+  #- id: arnaldocastro
+  #- id: elastic
+  #- id: microsoft
+  #- id: deloitte
+  #- id: dlocal
+  #- id: redhat
+  #- id: lenovo
+  #- id: mercadolibre
+  #- id: arkano
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -100,13 +181,17 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 3
   - id: gold
     label: Gold
-#    max: 10
+    max: 6
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+    # max: 0 # This is the same as omitting the max limit.

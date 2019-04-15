@@ -5,13 +5,17 @@ event_twitter: "devopsdayscph" # Change this to the twitter handle for your even
 description: "Devopsdays is coming back to Copenhagen!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-04-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-04-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-04-03T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-04T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2018-12-04 # start accepting talk proposals.
-cfp_date_end:  2019-01-21 # close your call for proposals.
+cfp_date_start:  2018-12-04T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end:  2019-01-21T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
@@ -31,7 +35,7 @@ location: "CinemaxX Copenhagen" # Defaults to city, but you can make it the venu
 location_address: "Fisketorvet, Kalvebod Brygge 57, 1560 Copenhagen V" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -93,12 +97,16 @@ sponsors:
     level: silver
   - id: xebialabs
     level: silver
+  - id: microsoft
+    level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: unity
     level: community
-  - id: yousee
-    level: community
   - id: atlassian
+    level: community
+  - id: nuuday
+    level: community
+  - id: 3shape
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -160,7 +168,7 @@ program:
     date: 2019-04-03
     start_time: "11:15"
     end_time: "11:30"
-  - title: "felix-wu"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-04-03
     start_time: "11:30"
@@ -295,8 +303,13 @@ program:
     date: 2019-04-04
     start_time: "14:10"
     end_time: "14:25"
-  - title: "aubrey-stearn"
+  - title: "rasmus-hald"
     type: talk
+    date: 2019-04-04
+    start_time: "14:25"
+    end_time: "14:55"
+  - title: "abdel-fettah"
+    type: workshop
     date: 2019-04-04
     start_time: "14:25"
     end_time: "14:55"
@@ -316,11 +329,13 @@ program:
     end_time: "16:00"
 
 ignites:
-  - title: "mike-long"
+  - title: "henrik-hoegh"
     date: "2019-04-03"
   - title: "philipp-krenn"
     date: "2019-04-03"
   - title: "kasper-nissen"
     date: "2019-04-03"
   - title: "matthias-gruter"
+    date: "2019-04-03"
+  - title: "kenneth-boegh"
     date: "2019-04-03"

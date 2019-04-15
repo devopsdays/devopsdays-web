@@ -16,15 +16,15 @@ When you're ready to add content, instructions and utilities are available for [
 
 ## Site-wide Hugo theme
 
-You may find that you want to improve the site in some way that's not specific to your event. We use a custom Hugo theme, and reference documentation is available in [themes/devopsdays-theme/REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
+You may find that you want to improve the site in some way that's not specific to your event. We use a custom Hugo theme, and reference documentation is available in [devopsdays-theme's REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
 
-The technical details for contributing to the site-wide theme's development are covered in [devopsdays-theme's CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md).
+The technical details for contributing to the site-wide theme's development are covered in [devopsdays-theme's CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/CONTRIBUTING.md).
 
-## Reporting issues & feature requests
+## Reporting problems & feature requests
 
-If you discover an issue with the site that isn't specific to an event's content, please open an issue in the [devopsdays-theme repo](https://github.com/devopsdays/devopsdays-theme/issues/new) and prepend the title with `[BUG]`.
+If you discover a problem with the site that isn't specific to an event's content, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[BUG]`.
 
-If there is a feature that you would like to see, please [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) to the theme repository and prepend the title with `[ENHANCEMENT]`.
+If there is a feature that you would like to see, please [open an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[ENHANCEMENT]`.
 
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 

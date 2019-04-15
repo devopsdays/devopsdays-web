@@ -75,9 +75,9 @@ All benefits from Bronze level sponsors PLUS:
       <td>unlimited</td>
     </tr>
       <td>Tickets included</td>
-      <td>4</td>
+      <td>10</td>
+      <td>5</td>
       <td>2</td>
-      <td>1</td>
       <td>10% discount</td>
     </tr>
     <tr>

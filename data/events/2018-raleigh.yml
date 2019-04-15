@@ -79,7 +79,7 @@ proposal_email: "proposals-raleigh-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: techtown
+  - id: techtown-before-20190407
     level: platinum
   - id: triangledevops
     level: community

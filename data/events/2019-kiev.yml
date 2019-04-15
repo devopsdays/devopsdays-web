@@ -6,20 +6,24 @@ event_twitter: "days_dev" # Change this to the twitter handle for your event suc
 description: "Devopsdays is coming to Kyiv!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-05-17 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-05-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-05-17T00:00:00+03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-05-18T23:59:59+03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-09-01 # start accepting talk proposals.
-cfp_date_end: 2019-03-01 # close your call for proposals.
+cfp_date_start: 2018-09-01T00:00:00+03:00 # start accepting talk proposals.
+cfp_date_end: 2019-03-01T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://goo.gl/forms/iuBcf8PbIiKKD42j2" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2019-01-01 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-05-17 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-01T00:00:00+02:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-05-17T23:59:59+03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdayskyiv.2event.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -40,6 +44,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: devopsdays.com.ua
+    url: https://devopsdays.com.ua/
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -53,11 +59,11 @@ team_members: # Name is the only required field for team members.
     bio: ""
     image: "diana-tereshchenko.jpg"
 
-  - name: "Dmitry Gutsalenko"
-    employer: "RingCentral"
+  - name: "Yurii Rochniak"
+    employer: "Preply"
     twitter: ""
     bio: ""
-    image: "dmitry-gutsalenko.jpg"
+    image: "yurii-rochniak.jpg"
 
   - name: "Stas Ivashchenko"
     employer: "Provectus"
@@ -80,6 +86,12 @@ team_members: # Name is the only required field for team members.
     bio: ""
     image: "victoriia-korobkina.jpg"
 
+  - name: "Dmitry Gutsalenko"
+    employer: "RingCentral"
+    twitter: ""
+    bio: ""
+    image: "dmitry-gutsalenko.jpg"
+
 organizer_email: "organizers-kiev-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-kiev-2019@devopsdays.org" # Put your proposal email address here
 
@@ -92,19 +104,27 @@ sponsors:
     level: silver
   - id: valtech
     level: silver
+  - id: ring-ukraine
+    level: silver
   - id: triangu
     level: silver
-  - id: ring-ukraine
+  - id: zone3000
+    level: silver
+  - id: ciklum
+    level: silver
+  - id: intellias
     level: silver
   - id: percona
     level: bronze
   - id: ab-soft
     level: bronze
+  - id: shalb
+    level: bronze
   - id: pivotal
     level: bronze
   - id: inuits
     level: bronze
-  - id: shalb
+  - id: attendify
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

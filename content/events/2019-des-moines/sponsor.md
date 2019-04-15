@@ -77,7 +77,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
             </tr>
             <tr>
                 <td class="label">Sponsorship Remaining (First come first serve)</td>
-                <td>1</td>
+                <td>Sold Out</td>
                 <td>Sold Out</td>
                 <td>Sold Out</td>
             </tr>
@@ -90,7 +90,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
             <tr>
                 <td class="label">Pay via Wave</td>
                 <td>
-                    <a href="https://link.waveapps.com/nxpaye-gc84pw" target=”_blank”>Pay Now</a>
+                    Sold Out!
                 </td>
                 <td></td>
                 <td></td>

@@ -6,20 +6,30 @@ description: "DevOpsDays Denver Coming Up!" # Edit this to suit your preferences
 friendly: "2019-denver" # Four digit year and the city name in lower-case. Don't forget the dash!
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-04-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-04-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-04-29T00:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-04-30T23:59:59-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Custom reusables
+dinner_date: &speaker_dinner  2019-04-28
+day_one_date: &day_one 2019-04-29
+day_two_date: &day_two 2019-04-30
+
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-01-09 # start accepting talk proposals.
-cfp_date_end: 2019-03-03 # close your call for proposals.
-cfp_date_announce: 2019-03-18 # inform proposers of status
+cfp_date_start: 2019-01-09T00:00:00-07:00 # start accepting talk proposals.
+cfp_date_end: 2019-03-03T23:59:59-07:00 # close your call for proposals.
+cfp_date_announce: 2019-03-18T23:59:59-06:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/dod-den-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2019-01-20 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-04-29 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-01-20T00:00:00-07:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-04-29T23:59:59-06:00 # close registration. Leave blank if registration is not open yet.
 
 #registration_closed: "false" # set this to true if you need to manually close registration before your registration end date
 #registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -36,11 +46,11 @@ location_address: "2027 W Colfax Ave, Denver, CO 80204" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+# - name: speakers
   - name: sponsor
-  - name: CFP Link
-    url: https://www.papercall.io/dod-den-2019
+#  - name: CFP Link
+#    url: https://www.papercall.io/dod-den-2019
   - name: contact
   - name: conduct
 # - name: example
@@ -68,18 +78,11 @@ team_members: # Name is the only required field for team members.
   - name: "Matt Knox"
     twitter: "mknox42"
     employer: "Sphero"
-  - name: Joe Thompson
-    employer: Blinker
-  - name: Andy Suderman
-    twitter: SudermanJr
-    employer: ReactiveOps
   - name: Evan DeCoste
     employer: Austin Fraser
   - name: Ryan Koch
     employer: ""
     twitter: ryanckoch
-  - name: "Mikaela Gallagher"
-    employer: "Austin Fraser"
 organizer_email: "organizers-denver-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-denver-2019@devopsdays.org" # Put your proposal email address here
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
@@ -116,8 +119,20 @@ sponsors:
   level: gold
 - id: mesosphere
   level: social
+- id: mesosphere
+  level: gold
 - id: invoca
   level: supporter
+- id: beeline
+  level: supporter
+- id: percolate
+  level: supporter
+- id: oraclecloud
+  level: coffee
+- id: hashicorp
+  level: gold
+- id: gitlab
+  level: gold
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -133,6 +148,186 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 8
+  - id: coffee
+    label: Coffee
+    max: 1
   - id: supporter
     label: Supporter
     max: 4
+
+# Program Schedule
+program:
+  # Speaker Dinner
+  - title: "Early Registration Pickup and Hang Out"
+    type: custom
+    date: *speaker_dinner
+    start_time: "17:30"
+    end_time: "20:00"
+  # Day One
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: *day_one
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: *day_one
+    start_time: "08:45"
+    end_time: "08:55"
+  # - title: "day-one-talk-one"
+  - title: "day-one-talk-one"
+    type: talk
+    date: *day_one
+    start_time: "08:55"
+    end_time: "09:25"
+  - title: "day-one-talk-two"
+    type: talk
+    date: *day_one
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "day-one-talk-three"
+    type: talk
+    date: *day_one
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Morning Break"
+    type: custom
+    date: *day_one
+    start_time: "10:35"
+    end_time: "10:45"
+  - title: "day-one-talk-four"
+    type: talk
+    date: *day_one
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "day-one-talk-five"
+    type: talk
+    date: *day_one
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: *day_one
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks! Featuring:"
+    type: ignite
+    date: *day_one
+    start_time: "13:45"
+    end_time: "14:25"
+  - title: "Open Space One"
+    type: open-space
+    date: *day_one
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Open Space Two"
+    type: open-space
+    date: *day_one
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Open Space Three"
+    type: open-space
+    date: *day_one
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space Four"
+    type: open-space
+    date: *day_one
+    start_time: "16:35"
+    end_time: "17:05"
+  - title: "Social Happy Hour - Sponsored by Mesosphere"
+    type: custom
+    date: *day_one
+    start_time: "17:30"
+    end_time: "20:30"
+  # Day Two
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: *day_two
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: *day_two
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "day-two-talk-one"
+    type: talk
+    date: *day_two
+    start_time: "08:55"
+    end_time: "09:25"
+  - title: "day-two-talk-two"
+    type: talk
+    date: *day_two
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "day-two-talk-three"
+    type: talk
+    date: *day_two
+    start_time: "10:05"
+    end_time: "10:35"
+  - title: "Morning Break"
+    type: custom
+    date: *day_two
+    start_time: "10:35"
+    end_time: "10:45"
+  - title: "day-two-talk-four"
+    type: talk
+    date: *day_two
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "day-two-talk-five"
+    type: talk
+    date: *day_two
+    start_time: "11:25"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: *day_two
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignite Talks! Featuring:"
+    type: ignite
+    date: *day_two
+    start_time: "13:45"
+    end_time: "14:25"
+  - title: "Open Space One"
+    type: open-space
+    date: *day_two
+    start_time: "14:50"
+    end_time: "15:20"
+  - title: "Open Space Two"
+    type: open-space
+    date: *day_two
+    start_time: "15:25"
+    end_time: "15:55"
+  - title: "Open Space Three"
+    type: open-space
+    date: *day_two
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Open Space Four"
+    type: open-space
+    date: *day_two
+    start_time: "16:35"
+    end_time: "17:05"
+
+ignites:
+  # Day One
+  - title: "- Mike Dorman"
+    date: *day_one
+  - title: "- Matt Blasinski"
+    date: *day_one
+  - title: "- John Kimball"
+    date: *day_one
+  - title: "- Kendall Miller"
+    date: *day_one
+  # Day Two
+  - title: "- Fawzy Manaa"
+    date: *day_two
+  - title: "- Mike Wyszinski"
+    date: *day_two
+  - title: "- Jeffrey Sykes"
+    date: *day_two
+  - title: "- Erik R. Rygg"
+    date: *day_two

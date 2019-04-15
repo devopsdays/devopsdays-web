@@ -5,9 +5,13 @@ event_twitter: "devopsdaysyvr" # Change this to the twitter handle for your even
 description: "devopsdays is an inclusive, self-organizing conference for anyone interested in DevOps practices." # A short blurb of text to describe your event, defaults to common DevOpsDays description
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate:  2019-03-29 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-03-30 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2019-03-29T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-03-30T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2018-11-27T08:00:00-08:00 # start accepting talk proposals.
@@ -34,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: location
-  - name: propose
+  - name: livestream
   - name: sponsor
   - name: contact
   - name: conduct
@@ -76,6 +80,8 @@ proposal_email: "proposals-vancouver-2019@devopsdays.org" # Put your proposal em
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: armtreasuredata
+    level: platinum
   - id: appdynamics
     level: gold
   - id: codefresh
@@ -92,7 +98,7 @@ sponsors:
     level: gold
   - id: signalfx
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190405
     level: gold
   - id: xmatters
     level: gold
@@ -177,7 +183,7 @@ program:
     date: 2019-03-29
     start_time: "10:20"
     end_time: "10:30"
-  - title: "kris-nova"
+  - title: "tiffany-longworth"
     type: talk
     date: 2019-03-29
     start_time: "10:30"
@@ -222,7 +228,7 @@ program:
     date: 2019-03-29
     start_time: "17:00"
     end_time: "17:30"
-  - title: "Evening event"
+  - title: "Evening event @ Steamworks"
     type: custom
     date: 2019-03-29
     start_time: "17:45"
@@ -242,7 +248,7 @@ program:
     date: 2019-03-30
     start_time: "09:15"
     end_time: "09:45"
-  - title: "tiffany-longworth"
+  - title: "kris-nova"
     type: talk
     date: 2019-03-30
     start_time: "09:45"
@@ -257,7 +263,7 @@ program:
     date: 2019-03-30
     start_time: "10:20"
     end_time: "10:30"
-  - title: "don-burks"
+  - title: "laura-maguire-30min"
     type: talk
     date: 2019-03-30
     start_time: "10:30"

@@ -28,13 +28,18 @@ Description = "devopsdays Houston 2019"
             <div class="col-md-2"><strong>Location</strong></div>
             <div class="col-md-8">{{< event_location >}}</div>
         </div>
-        <div class="row">
+<!--        <div class="row">
           <div class="col-md-2"><strong>Talks</strong></div>
           <div class="col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
-        </div>
+        </div> -->
         <div class="row">
           <div class="col-md-2"><strong>Register</strong></div>
           <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
+        </div>
+        <div class="row">
+            <div class="col-md-2"><strong>Slack</strong></div>
+            <div class="col-md-8">Join <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNTk0NzgyMDI0MTc4LTk1MTVmYTA0NGYzNTg5YTIxNGMwNTljZjc1OWJiNWU2OWZiZGRjZTc3MjllODVlYzJjMDE4MzYyNWYxMjE2Mjg">Houston DevOps</a> Slack workspace.
+            </div>
         </div>
         <div class = "row">
           <div class = "col-md-2">

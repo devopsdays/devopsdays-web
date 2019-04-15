@@ -7,6 +7,9 @@ description: "The group that brought you DevOpsDays Chicago 2014-2016 is back to
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-09-12T00:00:00-05:00
+enddate: 2017-09-13T23:59:59-05:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-04-14 # start accepting talk proposals.
 cfp_date_end: 2017-06-16 # close your call for proposals.

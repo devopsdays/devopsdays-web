@@ -4,8 +4,8 @@ city: "Minneapolis"
 description: "devopsdays is returning to Minneapolis for a fourth year!"
 event_twitter: "devopsdaysmsp"
 
-startdate: 2017-07-25
-enddate: 2017-07-26
+startdate: 2017-07-25T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-07-26T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 cfp_date_start: 2016-12-22
 cfp_date_end: 2017-04-09
@@ -152,7 +152,7 @@ sponsors:
     level: community
   - id: logicmonitor
     level: silver
-  - id: electriccloud
+  - id: electriccloud-before-20190320
     level: gold
   - id: healthpartners
     level: silver

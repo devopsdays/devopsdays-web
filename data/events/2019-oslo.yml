@@ -7,17 +7,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_logo: "logo.png"
 event_group: "Oslo"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-10-22T00:00:00+02:00
 enddate: 2019-10-23T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-03-20T12:00:00 # start accepting talk proposals.
+cfp_date_end: 2019-09-01T23:59:59 # close your call for proposals.
+cfp_date_announce: 2019-09-07T00:00:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://sessionize.com/devopsdays-oslo-2019/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -33,7 +37,7 @@ location: "Sentralen, Oslo" # Defaults to city, but you can make it the venue na
 location_address: "Sentralen, Øvre Slottsgate 3, 0157 Oslo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program

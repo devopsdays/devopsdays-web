@@ -6,8 +6,8 @@ event_twitter: "devopsdayscuba"
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-10-18  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-10-21 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-10-18T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-10-21T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 eventdates: ["2016-10-18","2016-10-19","2016-10-20","2016-10-21"]
 

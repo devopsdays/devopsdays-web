@@ -4,13 +4,17 @@ city: "Los Angeles" # The displayed city name of the event. Capitalize it.
 description: "DevOpsDays is returning to Southern California in 2019" # A short blurb of text to describe your event, defaults to common DevOpsDays description
 event_group: "Los Angeles"
 
-# All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2019-03-08 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-03-08 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2019-03-08T00:00:00-08:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-03-08T23:59:59-08:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-12-19  # start accepting talk proposals.
-cfp_date_end: 2019-01-15 # close your call for proposals.
-cfp_date_announce: 2019-02-15 # inform proposers of status.
+cfp_date_start: 2018-12-19T00:00:00-08:00  # start accepting talk proposals.
+cfp_date_end: 2019-01-15T23:59:59-08:00 # close your call for proposals.
+cfp_date_announce: 2019-02-15T23:59:59-08:00 # inform proposers of status.
 
 # Location
 #
@@ -78,7 +82,7 @@ sponsors:
     level: sponsor
   - id: dynatrace
     level: sponsor
-  - id: electriccloud
+  - id: electriccloud-before-20190320
     level: sponsor
   - id: eliassen-group
     level: sponsor
@@ -94,7 +98,7 @@ sponsors:
     level: sponsor
   - id: "releaseteam"
     level: startup
-  - id: "sonatype"
+  - id: sonatype-before-20190405
     level: sponsor
   - id: sumologic
     level: sponsor

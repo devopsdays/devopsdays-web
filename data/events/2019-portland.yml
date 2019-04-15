@@ -5,7 +5,11 @@ event_twitter: "devopsdayspdx" # Change this to the twitter handle for your even
 description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-09-10T00:00:00-07:00
 enddate: 2019-09-12T23:59:59-07:00
 
@@ -31,12 +35,12 @@ location: "Oregon Convention Center" # Defaults to city, but you can make it the
 location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  #   url: https://devopsdayspdx2018.busyconf.com/bookings/new
-  - name: program
-  - name: speakers
+ #  - name: program
+ # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -95,6 +99,10 @@ sponsors:
   - id: sensu
     level: gold
   - id: appdynamics
+    level: gold
+  - id: cloudbolt
+    level: gold
+  - id: influxdata
     level: gold
   - id: signalfx
     level: silver

@@ -5,23 +5,19 @@ aliases = ["/events/2019-seattle/"]
 Description = "DevOpsDays Seattle 2019"
 +++
 
-Save the date!
-===
 
-DevOpsDays will be returning to Seattle in April 2019 for the fourth year. 
+For the fourth year, DevOpsDays is returning to Seattle. We have a great program this year including talks from industry leaders on topics like... 
+
+* Kubernetes
+* Helm
+* security
+* databases 
+
+and much more. Check out {{< event_link page="program" text="the program." >}}
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>CFP Dates</strong>
-  </div>
-  <div class = "col-md-8">
-    Monday, Oct 8th, 2018 - Sunday, Jan 6th, 2019
-  </div>
-</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -43,31 +39,12 @@ DevOpsDays will be returning to Seattle in April 2019 for the fourth year.
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    <!-- <a href="https://sessionize.com/devopsdays-seattle-2019">Propose a talk</a> -->
-    <strong>Proposal submissions are closed!</strong>
-  </div>
-</div>
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

@@ -5,20 +5,24 @@ event_twitter: "DevOpsDaysHTown" # Change this to the twitter handle for your ev
 description: "Devopsdays is coming to Houston!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  2019-04-16 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2019-04-17 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  2019-04-16T00:00:00-05:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2019-04-17T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-12-01 # start accepting talk proposals.
-cfp_date_end: 2019-01-31 # close your call for proposals.
-cfp_date_announce: 2019-02-21 # inform proposers of status
+cfp_date_start: 2018-12-01T00:00:00-06:00 # start accepting talk proposals.
+cfp_date_end: 2019-01-31T23:59:59-06:00 # close your call for proposals.
+cfp_date_announce: 2019-02-21T23:59:59-06:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/2019-houston" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: "2019-01-21" # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "2019-04-15" # close registration. Leave blank if registration is not open yet.
+registration_date_start: "2019-01-21T00:00:00-06:00" # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: "2019-04-15T23:59:59-05:00" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devopsdays-houston-2019-tickets-54629883452" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -31,7 +35,7 @@ location: "Houston - CityCentre - Norris Conference Centers" # Defaults to city,
 location_address: "816 Town and Country Blvd #210, Houston, TX 77024" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
 #   url: "https://my-url.com" # The url setting is optional, and only if you want the navigation to link off-site
   - name: location
   - name: program
@@ -40,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-
+  - name: faq
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -52,6 +56,11 @@ team_members: # Name is the only required field for team members.
 #    image: "ajay-bannai.jpg"
 #    linkedin: "https://www.linkedin.com/in/ajay-bannai-934b066/"
 #    bio: "With more than 26 years in IT software, Ajay has designed and built many systems covering data analysis, middleware systems and end user applications. Ajay has spent more than 12 years in the Retail Energy space and is a seasoned architect. Ajay is TOGAF certified and also a qualified Software Architect from Carnegie Mellon University."
+  - name: "Briana Egan"
+    employer: "Agile Leadership Network in Houston"
+    twitter: ""
+    image: "briana-egan.jpg"
+    bio: "Briana Egan is currently the Vice-President of the Agile Leadership Network in Houston (ALN).  When she is not busy with the ALN she is a ScrumMaster for a Cloud Technology DevOps Team.  Briana holds a Masters Degree from the University of Joensuu (joensuun yliopisto) in Finland."
   - name: "Dan Collins"
     employer: "Current Analytics Corporation"
     linkedin: "https://www.linkedin.com/in/thedancollins/"
@@ -134,9 +143,13 @@ sponsors:
     level: silver
   - id: hostgator
     level: silver
+  - id: vmware
+    level: silver
   - id: fearless
     level: bronze
   - id: aws
+    level: bronze
+  - id: micro-focus
     level: bronze
   - id: arresteddevops
     level: community
@@ -159,6 +172,7 @@ sponsor_levels:
     max: 4 
   - id: bronze
     label: Bronze
+    max: 5
   - id: community
     label: Community
 program:
@@ -194,6 +208,13 @@ program:
     date: 2019-04-16
     start_time: "10:30"
     end_time: "11:00"
+  - title: "angel-rivera"
+    type: workshop
+    date: 2019-04-16
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
   - title: "aaron-aldrich"
     type: talk
     date: 2019-04-16
@@ -204,18 +225,12 @@ program:
     date: 2019-04-16
     start_time: "11:30"
     end_time: "12:00"
-  - title: "angel-rivera"
-    type: workshop
-    date: 2019-04-16
-    start_time: "11:00"
-    end_time: "12:00"
-    comments: "Where: Movie Studio Grill"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-16
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignite Talks (more to come):"
+  - title: "Ignite Talks:"
     type: ignite
     date: 2019-04-16
     start_time: "13:00"
@@ -230,6 +245,13 @@ program:
     date: 2019-04-16
     start_time: "14:00"
     end_time: "14:30"
+  - title: "mike-rothman"
+    type: workshop
+    date: 2019-04-16
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop and AWS account"
   - title: "sagar-karmarkar"
     type: talk
     date: 2019-04-16
@@ -240,12 +262,6 @@ program:
     date: 2019-04-16
     start_time: "15:00"
     end_time: "15:30"
-  - title: "mike-rothman"
-    type: workshop
-    date: 2019-04-16
-    start_time: "14:30"
-    end_time: "15:30"
-    comments: "Where: Movie Studio Grill"
   - title: "Open Space (Attendee Led Breakout Session) Break"
     type: custom
     date: 2019-04-16
@@ -314,6 +330,13 @@ program:
     date: 2019-04-17
     start_time: "10:30"
     end_time: "11:00"
+  - title: "brad-dausses"
+    type: workshop
+    date: 2019-04-17
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "shaun-ladewig"
     type: talk
     date: 2019-04-17
@@ -324,12 +347,6 @@ program:
     date: 2019-04-17
     start_time: "11:30"
     end_time: "12:00"
-  - title: "jj-asghar-istio"
-    type: workshop
-    date: 2019-04-17
-    start_time: "11:00"
-    end_time: "12:00"
-    comments: "Where: Movie Studio Grill"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-17
@@ -345,17 +362,18 @@ program:
     date: 2019-04-17
     start_time: "13:30"
     end_time: "14:00"
-  - title: "eddie-zaneski"
-    type: workshop
-    date: 2019-04-17
-    start_time: "13:00"
-    end_time: "14:00"
-    comments: "Where: Movie Studio Grill"
   - title: "Break, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-17
     start_time: "14:00"
     end_time: "14:30"
+  - title: "eddie-zaneski"
+    type: workshop
+    date: 2019-04-17
+    start_time: "14:15"
+    end_time: "15:30"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and accounts on GCP, Azure, AWS, or DO"
   - title: "john-esser"
     type: talk
     date: 2019-04-17
@@ -409,5 +427,11 @@ ignites:
   - title: "jj-asghar"
     date: "2019-04-16"
   - title: "jay-gordon"
+    date: "2019-04-16"
+  - title: "aaron-aldrich-ignite"
+    date: "2019-04-16"
+  - title: "chris-black"
+    date: "2019-04-16"
+  - title: "dan-kirkpatrick"
     date: "2019-04-16"
     

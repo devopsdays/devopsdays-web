@@ -6,19 +6,19 @@ description: "Devopsdays is coming to Tel Aviv!" # Edit this to suit your prefer
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-11-13
-enddate:  2017-11-14
+startdate: 2017-11-13T00:00:00+02:00
+enddate:  2017-11-14T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2017-07-31
-cfp_date_end:  2017-10-01
+cfp_date_start:  2017-07-31T00:00:00+03:00
+cfp_date_end:  2017-10-01T23:59:59+03:00
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: https://www.papercall.io/devopsdaystlv
 
-registration_date_start: 2017-07-31
-registration_date_end: 2017-11-13
+registration_date_start: 2017-07-31T00:00:00+03:00
+registration_date_end: 2017-11-13T23:59:59+02:00
 
 registration_closed: "true" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -132,7 +132,7 @@ sponsors:
     level: workshoproom
   - id: outbrain
     level: breakfast
-  - id: oracle
+  - id: oracle-before-20181214
     level: silver
   - id: microsoft
     level: day1happyhour

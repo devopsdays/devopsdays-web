@@ -5,19 +5,23 @@ event_twitter: "devopsdaysjkt" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Jakarta again!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
 startdate: 2019-04-10T00:00:00+07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2019-04-11T23:59:59+07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-01-22T00:00:00+07:00 # start accepting talk proposals.
-cfp_date_end: 2019-02-15T23:59:59+07:00 # close your call for proposals.
-cfp_date_announce: 2019-02-20T00:00:00+07:00 # inform proposers of status
+# cfp_date_start: 2019-01-22T00:00:00+07:00 # start accepting talk proposals.
+# cfp_date_end: 2019-02-15T23:59:59+07:00 # close your call for proposals.
+# cfp_date_announce: 2019-02-20T00:00:00+07:00 # inform proposers of status
 
-cfp_link: "https://bit.ly/DevOps_CallForProposal" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: "https://bit.ly/DevOps_CallForProposal" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-03-10T00:00:00+07:00
+registration_date_end: 2019-04-14T00:00:00+07:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -29,9 +33,9 @@ location: "Bank BRI Corporate University" # Defaults to city, but you can make i
 location_address: "Jl. RM. Harsono No.2, RT.6/RW.7, Ragunan, Jakarta 12550" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+  # - name: propose
   # - name: location
- # - name: registration
+  - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -67,10 +71,22 @@ sponsors:
     level: track
   - id:  naradacode
     level: platinum
+  - id: microsoft
+    level: platinum
   - id: ekipa
     level: gold
   - id: bukalapak
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: ovo
+    level: gold
+  - id: f5
+    level: gold
+  - id: maxhub
+    level: gold
+  - id: devops-institute
+    level: community
   - id:  bncc
     level: community
   - id:  geekhunter
@@ -83,7 +99,11 @@ sponsors:
     level: community
   - id: agile-circles
     level: community
+  - id: jvm
+    level: community
   - id: tekno-event
+    level: media
+  - id: tirtoid
     level: media
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -128,102 +148,102 @@ program:
   - title: "muhammad-ichsan-rahardianto"
     type: talk
     date: 2019-04-10
-    start_time: "10:05"
-    end_time: "10:35"
+    start_time: "10:10"
+    end_time: "10:40"
   - title: "kamalika-majumder"
     type: talk
     date: 2019-04-10
-    start_time: "10:40"
-    end_time: "11:10"
+    start_time: "10:50"
+    end_time: "11:20"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2019-04-10
-    start_time: "11:10"
-    end_time: "11:30"
+    start_time: "11:20"
+    end_time: "11:40"
   - title: "kevin-web-page"
     type: talk
     date: 2019-04-10
-    start_time: "11:30"
-    end_time: "12:00"
+    start_time: "11:40"
+    end_time: "12:10"
   - title: "Ignites Session"
     type: custom
     date: 2019-04-10
-    start_time: "12:05"
-    end_time: "12:40"
+    start_time: "12:20"
+    end_time: "12:50"
   - title: "Lunch Break"
     type: custom
     date: 2019-04-10
-    start_time: "12:40"
-    end_time: "13:30"
+    start_time: "12:50"
+    end_time: "13:45"
   - title: "Open Space"
     type: custom
     date: 2019-04-10
-    start_time: "13:30"
-    end_time: "14:00"
-  - title: "jihai-zhou"
+    start_time: "13:45"
+    end_time: "14:15"
+  - title: "steve-shirkey"
     type: talk
     date: 2019-04-10
-    start_time: "14:05"
-    end_time: "14:35"
+    start_time: "14:25"
+    end_time: "15:10"
   - title: "dheeraj-nayal"
     type: talk
     date: 2019-04-10
-    start_time: "14:40"
-    end_time: "15:10"
+    start_time: "15:10"
+    end_time: "15:40"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2019-04-10
-    start_time: "15:10"
-    end_time: "15:30"
-  - title: "Closing Keynote"
+    start_time: "15:40"
+    end_time: "16:00"
+  - title: "Talk - TBA"
     type: custom
     date: 2019-04-10
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "16:00"
+    end_time: "16:30"
   - title: "Close Day"
     type: custom
     date: 2019-04-10
-    start_time: "16:15"
-    end_time: "17:00"
+    start_time: "16:30"
+    end_time: "17:15"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-04-11
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Keynote"
-    type: custom
+  - title: "davy-trinugraha"
+    type: talk
     date: 2019-04-11
     start_time: "09:00"
     end_time: "09:45"
-  - title: "christian-hermanus"
-    type: talk
-    date: 2019-04-11
-    start_time: "09:50"
-    end_time: "10:20"
-  - title: "Coffee and Tea Break"
-    type: custom
-    date: 2019-04-11
-    start_time: "10:20"
-    end_time: "10:40"
-  - title: "uli-hitzel"
-    type: talk
-    date: 2019-04-11
-    start_time: "10:40"
-    end_time: "11:10"
   - title: "stefan-streichsbier"
     type: talk
     date: 2019-04-11
-    start_time: "11:15"
-    end_time: "11:45"
-  - title: "Panel Discussion"
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Coffee and Tea Break"
     type: custom
     date: 2019-04-11
-    start_time: "11:50"
-    end_time: "12:20"
+    start_time: "10:25"
+    end_time: "10:45"
+  - title: "uli-hitzel"
+    type: talk
+    date: 2019-04-11
+    start_time: "10:45"
+    end_time: "11:15"
+  - title: "christian-hermanus"
+    type: talk
+    date: 2019-04-11
+    start_time: "11:25"
+    end_time: "11:55"
+  - title: "budi-kusmiantoro"
+    type: talk
+    date: 2019-04-11
+    start_time: "12:05"
+    end_time: "12:35"
   - title: "Lunch Break"
     type: custom
     date: 2019-04-11
-    start_time: "12:20"
+    start_time: "12:35"
     end_time: "13:30"
   - title: "Open Space"
     type: custom
@@ -233,25 +253,25 @@ program:
   - title: "Ignites Session"
     type: custom
     date: 2019-04-11
-    start_time: "14:05"
-    end_time: "14:35"
-  - title: "Talk 4"
-    type: custom
+    start_time: "14:10"
+    end_time: "14:40"
+  - title: "jihai-zhou"
+    type: talk
     date: 2019-04-11
-    start_time: "14:40"
-    end_time: "15:10"
+    start_time: "14:50"
+    end_time: "15:20"
   - title: "Coffee and Tea Break"
     type: custom
     date: 2019-04-11
-    start_time: "15:10"
-    end_time: "15:30"
-  - title: "Closing Keynote"
-    type: custom
+    start_time: "15:20"
+    end_time: "15:40"
+  - title: "cecep-mahbub-roqibuddin"
+    type: talk
     date: 2019-04-11
-    start_time: "15:30"
-    end_time: "16:15"
+    start_time: "15:40"
+    end_time: "16:25"
   - title: "Close Day"
     type: custom
     date: 2019-04-11
-    start_time: "16:15"
+    start_time: "16:25"
     end_time: "17:00"

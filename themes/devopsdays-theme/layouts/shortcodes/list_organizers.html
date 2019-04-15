@@ -13,7 +13,7 @@
               {{ end }}
             </div>
             {{- if .image -}}
-              <img class="card-img-top organizer-image" src="{{ (printf "events/%s/organizers/%s" $e.name .image) | absURL }}" alt="{{ .name }}">
+              <img class="card-img-top organizer-image" src="{{ (printf "/events/%s/organizers/%s" $e.name .image) }}" alt="{{ .name }}">
             {{- end -}}
             <div class = "card-block">
               {{- if .employer -}}

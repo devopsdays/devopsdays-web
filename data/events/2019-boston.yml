@@ -3,52 +3,56 @@ year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Boston" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysbos" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming to Boston!" # Edit this to suit your preferences
-ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ga_tracking_id: "UA-137417319-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+ 
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate: 2019-09-23 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-09-24 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-09-23T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-09-24T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
+cfp_date_start: 2019-04-02T00:00:00-04:00 # start accepting talk proposals.
+cfp_date_end: 2019-06-22T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdays-boston-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-boston-2019-tickets-58956166481" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "42.344447, -71.071291" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "The Cyclorama at the Boston Center for the Arts" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "539 Tremont St, Boston, MA 02116" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
- # - name: program
- # - name: speakers
- # - name: sponsor
+  # - name: propose
+  - name: location
+  - name: registration
+  # - name: program
+  # - name: speakers
+  - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
+ 
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "Michael T. Clark"
+  - name: "Michael Thomas Clark"
     linkedin: http://www.linkedin.com/in/michaeltclark
     twitter: "michaeltclark"
-    bio: "Michael is a veteran systems management professional. In a career that has ranged from academic computing to finance to manufacturing and now, professional services, he has worked as a front-line technician, a back-office systems engineer, an enterprise architect, and a leader of teams of 100+ technologists in hybrid WAN, large-scale domestic and global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is equally comfortable learning something new at a command line and in the C-suite helping senior executives make sense of their IT strategy and spend. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
+    bio: "Michael is a veteran systems management professional. He has worked across multiple industry verticals as a software trainer, a front-line technician, a back-office engineer, an enterprise architect, and a manager of large-scale, global computing environments. His passions encompass envisioning, designing, building, and improving business and organizational systems of all varieties and at every scale. He is particularly passionate about helping systems professionals develop better ways to work together, improve the products they deliver, and most importantly, the culture of the workplaces in which we all labor."
     image: "michaelclark.jpg"
     employer: "Renaissance Tech & Media"
   
@@ -58,18 +62,6 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/lauraestone/"
     github: "tyrostone"
     image: "laurastone.jpg"
-
-
-  - name: "Matthew Williams"
-    twitter: "technovangelist"
-    employer: "Datadog"
-    github: "technovangelist"
-    facebook: "https://www.facebook.com/technovangelist"
-    linkedin: "https://www.linkedin.com/in/technovangelist"
-    website: "http://technovangelist.com"
-    image: "mattwilliams.jpg"
-    bio: "Matt Williams is an Evangelist at Datadog. He is passionate about the power of monitoring and metrics to make large-scale systems stable and manageable. So he tours the country speaking and writing about monitoring with Datadog. When he's not on the road, he's coding. You can find Matt on Twitter at @Technovangelist."
-
 
   - name: "Don Luchini"
     bio: "Don Luchini is a Boston-based DevOps engineer specializing in infrastructure management and deployment automation pipelines. Over the past ten years, he has acted in the corporate IT, quality assurance, software development, and release engineering spaces, encompassing a number of roles that now fall under the term 'DevOps'. He is currently the DevOps Team Lead at CloudHealth Technologies. In his spare time, he is a martial artist, radio enthusiast, and hobby photographer."
@@ -82,16 +74,16 @@ team_members: # Name is the only required field for team members.
     bio: "Michael works as a Site Reliability Engineer for Carbon Black, a SaaS security company in the Boston area. He has a passion for all things surrounding cloud design and architecture, building tools with Go, automating infrastructure provisioning, and deployment automation pipelines. While not tinkering with tech he can be found pressing arcade stick buttons, or banging on drums."
     github: "MichaelDaniello"
     image: "michaelbio.jpg"
-  - name: "Jason Wolanyk"
-    linkedin: https://www.linkedin.com/in/jasonwolanyk/
 
   - name: "Paul Bruce"
     bio: "Paul Bruce is a DevOps Advisor, helping to transform enterprise software teams and delivery practices. He currently serves in the role of Founder at Growgistics, is a working group member of IEEE 2675, daylights with the Neotys team as a Sr. Performance Engineer, moonlights as a Papa of two, and lives as a friend to all. He loves meat pies, picklebacks, and community work. His technical research wheelhouse includes cloud management, high availability service architecture, API design and experience, continuous testing at scale, and organizational learning frameworks. He writes, listens, and teaches about software delivery patterns in enterprises and key industries around the world. You can learn more at: http://paulsbruce.io"
     website: "http://paulsbruce.io"
     image: "paulsbruce.jpg"
+
   - name: "Adam Blackwell"
-    employer: "MassMutual"
-    bio: "Adam is a Site Reliability Engineer, he enjoys combining software and systems engineering to build and run large-scale fault-tolerant environments.  Before joining MassMutual, he was an Operations Engineer at Quantopian solving infrastructure and security problems in the financial space.  Adam studied Computer Science at Northeastern and enjoys spending time outside of the city in Maine.  When he’s not at his laptop he can be found skiing tall mountains or exploring far away oceans."
+    bio: "Adam is a Site Reliability Engineer. He enjoys combining software and systems engineering to build and run large-scale fault-tolerant environments.  Before joining MassMutual, he was an Operations Engineer at Quantopian solving infrastructure and security problems in the financial space.  Adam studied Computer Science at Northeastern and enjoys spending time outside of the city skiing tall mountains or exploring far away oceans."
+    linkedin: http://www.linkedin.com/in/adamblackwell
+    twitter: "adzuci"
     image: "adamblackwell.jpg"
 
 organizer_email: "organizers-boston-2019@devopsdays.org" # Put your organizer email address here
@@ -100,8 +92,8 @@ proposal_email: "proposals-boston-2019@devopsdays.org" # Put your proposal email
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+ # - id: samplesponsorname
+ #   level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -113,11 +105,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
+    max: 0 # This is the same as omitting the max limit.
   - id: gold
     label: Gold
-#    max: 10
-  - id: silver
-    label: Silver
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community

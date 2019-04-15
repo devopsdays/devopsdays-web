@@ -5,10 +5,10 @@ aliases = ["/events/2019-dallas/"]
 Description = "devopsdays Dallas 2019"
 +++
 
-<div style="text-align:center;">
+<div style="text-align:left;">
   {{< event_logo >}}
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -18,14 +18,14 @@ Description = "devopsdays Dallas 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div> 
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -82,6 +82,10 @@ Description = "devopsdays Dallas 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
+
+<br>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div class="addthis_horizontal_follow_toolbox"></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5724f5b54cc142a1"></script>
 {{< event_twitter >}}
--->

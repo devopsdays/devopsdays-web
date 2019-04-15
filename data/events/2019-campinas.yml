@@ -1,13 +1,14 @@
 name: "2019-campinas" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Campinas" # The displayed city name of the event. Capitalize it.
+event_logo: "logo-square.jpg"
 event_twitter: "devopsdayscamp" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Campinas!" # Edit this to suit your preferences
 # ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-10-04 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-10-04 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-10-25T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-25T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: # start accepting talk proposals.
@@ -25,10 +26,10 @@ registration_date_end: # close registration. Leave blank if registration is not 
 
 # Location
 #
-coordinates: "-22.900943, -47.057972" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-# location: "" # Defaults to city, but you can make it the venue name.
+coordinates: "-22.814226, -47.071268" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro de Convenções da Unicamp" # Defaults to city, but you can make it the venue name.
 #
-# location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Avenida Érico Veríssimo, 500 - Cidade Universitária - Barão Geraldo" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Informações
@@ -62,27 +63,36 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "André Déo"
+  - name: "Christiano Linuxmen"
     role: "Organizer"
-    linkedin: "https://www.linkedin.com/in/andr%C3%A9-d%C3%A9o-6446b58/"
-    image: "andre-deo.jpeg"
+    linkedin: "https://www.linkedin.com/in/linuxmen/"
+    image: "christiano-linuxmen.jpeg"
+    github: "christiano-linuxmen"
+    bio: "Digital Influencer e Evangelista de Tecnologia no Papo de Sysadmin, comunidade com o propósito de engajar, fomentar e esclarecer as demais organizações e empresas sobre DevOps, Cloud Computing, Arquitetura de Software, Segurança da Informação entre outros temas correlatos.
+    Atualmente é Community Leader da OWASP Chapter São Paulo, criador do Time Regional do Ubuntu em São Paulo, e coordena a área Cloud no TheDevConf que envolve as trilhas DevOps, DevOps Tools, Cloud, Containers e Software Security."
   - name: "Daniel Gines"
     role: "Organizer"
     linkedin: "https://www.linkedin.com/in/danielgines/"
     image: "daniel-gines.jpeg"
+    github: "danielgines"
   - name: "Eduardo Ximenes"
     role: "Organizer"
     linkedin: "https://www.linkedin.com/in/ximenesit/"
     image: "eduardo-ximenes.jpeg"
+    github: "ximenes"
+    bio: "Gerente de TI no iFood e tem mais de quinze anos de experiência em administração de servidores. Estudioso permanente de tecnologia, é amante de software livre, além de especialista em Cloud Computing e em ferramentas de gestão ágeis para infraestrutura."
   - name: "Igor Oliveira"
     role: "Organizer"
-    linkedin: "https://www.linkedin.com/in/igor-bezerra-9974b28b/"
-#    bio: ""
+    linkedin: "https://www.linkedin.com/in/igorolivei/"
     image: "igor-oliveira.jpg"
+    github: "igorolivei"
+    bio: "Técnico em Informática pelo IFRN e graduando em Análise e Desenvolvimento de Sistemas, começou a trabalhar com TI há mais de 4 anos.
+    Já atuou como desenvolvedor backend e frontend com diversas tecnologias, até que, ao começar a trabalhar com a cultura DevOps no início de 2018, passou a procurar se aprofundar cada vez mais nessa cultura. Atualmente trabalha principalmente com Infra as Code e consultoria na melhoria de processos e implantação de práticas e ferramentas DevOps."
   - name: "Matheus Fidelis"
     role: "Organizer"
     linkedin: "https://www.linkedin.com/in/msfidelis/"
     image: "matheus-fidelis.jpeg"
+    github: "msfidelis"
 
 organizer_email: "organizers-campinas-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal email address here
@@ -90,10 +100,12 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id:
-#   level:
+  - id: infoq
+    level: supporter
+  - id: estabilis
+    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -108,8 +120,9 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-#    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: supporter
+    label: Supporter

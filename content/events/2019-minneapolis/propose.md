@@ -3,16 +3,18 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Minneapolis 2019"
 +++
- {{< cfp_dates >}}
 
 <hr>
 
 There are three ways to propose a topic for devopsdays Minneapolis 2019:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference. We're currently accepting proposals for 30-minute talks via the form below.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (we have Ignites at our evening event on Tuesday night). These are 5 minutes slots with slides changing every 15 seconds (20 slides total). We will open the call for Ignite talks closer to the time of the conference.</li>
+  <li> We've selected our lineup of 30-minute & workshop {{< event_link page="speakers" text="speakers!" >}}
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
+  <li><strong>We're currently accepting proposals through May 24th for <em>an <a href="/pages/ignite-talks-format">Ignite talk</a></em></strong> presented during the Tuesday evening event. These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
 </ol>
+
+
+<iframe src="https://docs.google.com/forms/d/1cmTX8zzgy_Z81Vid1IHuqy8zGhEJPx4j13t0TgNFXNU/viewform?embedded=true" width="900" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <hr>
 
@@ -27,4 +29,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdV_obd_nrLTq8r0AkwYyBJxuRXxVcm7lRcDn7cQaR4FW-0Zg/viewform?embedded=true" width="760" height="1900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
