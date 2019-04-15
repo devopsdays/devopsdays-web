@@ -19,6 +19,8 @@ DevOpsDays on their own terms.
 Please email the organizers at {{< email_organizers >}} with any questions
 you may have about sponsoring the event.
 
+Have questions about sponsoring or about your organization's sponsorship? Check out our [sponsor FAQ](https://docs.google.com/document/d/1dbeMc-crgauwC5F1JnwKLSpDqx4oubsnpuGvNIA7eEc/edit?usp=sharing).
+
 The following chart outlines our sponsorship packages.
 
 <style>
@@ -88,7 +90,7 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
+    <td class="no"></td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
     <td class="no"> </td>
