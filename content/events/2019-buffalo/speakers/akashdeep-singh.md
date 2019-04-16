@@ -1,7 +1,7 @@
 +++
 Title = "Akashdeep Singh"
 Twitter = ""
-image = ""
+image = "akashdeep-singh.jpg"
 type = "speaker"
 linktitle = "akashdeep-singh"
 

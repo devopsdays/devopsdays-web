@@ -1,7 +1,7 @@
 +++
 Title = "Kenzie Woodbridge"
 Twitter = "rainbowkenz"
-image = ""
+image = "kenzie-woodbridge.jpg"
 type = "speaker"
 linktitle = "kenzie-woodbridge"
 

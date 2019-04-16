@@ -1,7 +1,7 @@
 +++
 Title = "H Waldo Grunenwald"
 Twitter = "gwaldo"
-image = ""
+image = "h-waldo-grunenwald.jpg"
 type = "speaker"
 linktitle = "h-waldo-grunenwald"
 

@@ -1,7 +1,7 @@
 +++
 Title = "Jennifer Petoff"
 Twitter = "jennski"
-image = ""
+image = "jennifer-petoff.jpg"
 type = "speaker"
 linktitle = "jennifer-petoff"
 
