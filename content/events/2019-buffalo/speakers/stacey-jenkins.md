@@ -1,7 +1,7 @@
 +++
 Title = "Stacey Jenkins"
 Twitter = "ConceptionCrux"
-image = ""
+image = "stacey-jenkins.png"
 type = "speaker"
 linktitle = "stacey-jenkins"
 
