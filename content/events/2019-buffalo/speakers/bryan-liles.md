@@ -1,9 +1,9 @@
 +++
-Title = "Bryan Lile"
+Title = "Bryan Liles"
 Twitter = "bryanl"
 image = ""
 type = "speaker"
-linktitle = "bryan-lile"
+linktitle = "bryan-liles"
 
 +++
 
