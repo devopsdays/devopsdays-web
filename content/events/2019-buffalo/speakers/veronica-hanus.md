@@ -1,7 +1,7 @@
 +++
 Title = "Veronica Hanus"
 Twitter = "veronica_hanus"
-image = ""
+image = "veronica-hanus.jpg"
 type = "speaker"
 linktitle = "veronica-hanus"
 

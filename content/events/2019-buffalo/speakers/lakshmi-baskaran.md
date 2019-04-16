@@ -1,7 +1,7 @@
 +++
 Title = "Lakshmi Baskaran"
 Twitter = ""
-image = ""
+image = "lakshmi-baskaran.jpg"
 type = "speaker"
 linktitle = "lakshmi-baskaran"
 

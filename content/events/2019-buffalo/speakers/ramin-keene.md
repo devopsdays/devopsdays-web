@@ -1,7 +1,7 @@
 +++
 Title = "Ramin Keene"
 Twitter = "rmn"
-image = ""
+image = "ramin-keene.png"
 type = "speaker"
 linktitle = "ramin-keene"
 
