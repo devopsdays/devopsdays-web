@@ -1,7 +1,7 @@
 +++
 Title = "Long Nguyen"
 Twitter = "lnguyen11288"
-image = ""
+image = "long-nguyen.png"
 type = "speaker"
 linktitle = "long-nguyen"
 
