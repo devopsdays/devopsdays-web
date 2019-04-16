@@ -16,3 +16,17 @@ Address: <a href="https://goo.gl/maps/Ww7JuPwSjys">501 Brooker Creek Blvd, Oldsm
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8375.027173670402!2d-82.65888425711566!3d28.046927154599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2ec7babf54cf7%3A0xc0d3acbf5d7ea89a!2s501+Brooker+Creek+Blvd%2C+Oldsmar%2C+FL+34677!5e0!3m2!1sen!2sus!4v1552314966676" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+<br>
+<br>
+
+## HOTEL: Courtyard Tampa Oldsmar
+<a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1555354828529&key=GRP&app=resvlink" target="_blank">
+  <img src="https://cache.marriott.com/marriottassets/marriott/TPAOL/tpaol-entrance-0040-hor-clsc.jpg?interpolation=progressive-bilinear&downsize=*:423px" style="border:0;">
+</a>
+
+Start Date: Thursday, June 6, 2019<br>
+End Date: Friday, June 7, 2019<br>
+Last Day to Book: Thursday, May 23, 2019
+
+Hotel(s) offering your special group rate: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1555354828529&key=GRP&app=resvlink" target="_blank">Courtyard Tampa Oldsmar for 134 USD per night book your group rate for DevOpsDays Tampa Bay </a>
+
