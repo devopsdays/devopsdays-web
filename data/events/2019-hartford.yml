@@ -16,7 +16,7 @@ enddate: 2019-10-03T23:59:59-04:00 # The end date of your event. Leave blank if 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-03-28T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2019-08-05T00:00:00-04:00 # close your call for proposals.
-cfp_date_announce: 2019-03-28T00:00:00-04:00 # inform proposers of status
+cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://devopsdayshfd.org/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
