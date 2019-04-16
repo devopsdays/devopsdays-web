@@ -3,7 +3,7 @@ Title = "Nell Shamrell-Harrington"
 Twitter = "nellshamrell"
 image = ""
 type = "speaker"
-linktitle = "nell-shamrellharrington"
+linktitle = "nell-shamrell-harrington"
 
 +++
 
