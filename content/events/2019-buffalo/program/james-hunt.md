@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["james-hunt"]
 +++
 
-James has spoken at the Linux Foundation’s Cloud Foundry Summits, private events, and training sessions.
+Backups are boring, unless you use them for more than just saving your bacon when you drop the wrong database. Starting from first principles, James will show you how you can use data protection for migration, test set constructions, and more!
