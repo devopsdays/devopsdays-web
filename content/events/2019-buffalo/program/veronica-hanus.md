@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["veronica-hanus"]
 +++
 
-How can someone who is just learning find the commenting style that is best for them as they learn, grow, ABSTRACT contribute? I did a survey of programmers & will be sharing what we can do to address comment use in a way that encourages a growth mindset and empowers everyone.
+How can someone who is just learning find the commenting style that is best for them as they learn, grow, & contribute? I did a survey of programmers & will be sharing what we can do to address comment use in a way that encourages a growth mindset and empowers everyone.
