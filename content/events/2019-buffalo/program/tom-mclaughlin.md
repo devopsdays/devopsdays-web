@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = ""
+Title = "Serverless DevOps: What do we do when the server goes away?"
 Type = "talk"
 Speakers = ["tom-mclaughlin"]
 +++
