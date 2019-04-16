@@ -69,6 +69,7 @@ team_members: # Name is the only required field for team members.
     twitter: "bayerndadepres"
     image: "camilla-martins.jpg"
   - name: "Cristiano Diedrich"
+    employer: "Umov.me"
     twitter: "omatofino"
     facebook: "cristiano.diedrich"
     linkedin: "https://www.linkedin.com/in/cristianodiedrich"
@@ -76,6 +77,7 @@ team_members: # Name is the only required field for team members.
     image: "cristiano-diedrich.jpg"
   - name: "Fabricia Doria"
   - name: "Guilherme Elias"
+    employer: "Umov.me"
     twitter: "guilhermelias"
   - name: "Julia Lamenza"
     bio: "DevOps|SRE no Rio de Janeiro, adora aprender coisas novas e sempre está se atualizando no que ocorre no mundo tech.  Em seu tempo ocioso estuda mais e preenche gaps.  Tem como hobby viajar por ai."
@@ -85,7 +87,7 @@ team_members: # Name is the only required field for team members.
     employer: "Dentalshop"
     image: "leonardo-martins.jpg"
   - name: "Marco Antonio Martins Junior (Somatório)"
-    employer: "Prefeitura Municipal de Esteio"
+    employer: "Compasso"
     twitter: "somatorio"
     github: "somatorio"
     facebook: "https://facebook.com/osomatorio"
@@ -95,7 +97,7 @@ team_members: # Name is the only required field for team members.
     image: "marco-junior.jpg"
   - name: "Rachel Bins"
   - name: "Rafael Gomes (Gomex)"
-    employer: "Crossover"
+    employer: "PayCertify"
     twitter: "gomex"
     github: "gomex"
     linkedin: "https://www.linkedin.com/in/rbgomes/"
@@ -142,8 +144,6 @@ sponsors:
   - id: aws
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
