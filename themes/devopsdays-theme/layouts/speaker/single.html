@@ -16,7 +16,7 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
-            {{ range where (where $.Site.Pages "Type" "talk") ".Dir" "=" (print "events/" $e.name "/program/") }}
+            {{ range where (where $.Site.Pages "Type" "talk") ".File.Dir" "=" (print "events/" $e.name "/program/") }}
                 <!-- Now we can display stuff! -->
                 {{- range .Params.speakers -}}
                   {{- if eq . ($.Scratch.Get "speaker") -}}
