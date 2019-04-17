@@ -157,7 +157,7 @@ program:
     date: 2019-05-20
     start_time: "09:15"
     end_time: "09:30"
-  - title: "keynote"
+  - title: "maciej-lasyk"
     type: talk
     date: 2019-05-20
     start_time: "09:30"
