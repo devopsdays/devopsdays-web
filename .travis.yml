@@ -8,7 +8,7 @@ services:
   - docker
 
 before_install:
-  - docker run --name "hugo-server" -P -v $(pwd):/src -v $(pwd)/public:/output jojomi/hugo:0.53
+  - docker run --name "hugo-server" -P -v $(pwd):/src -v $(pwd)/public:/output jojomi/hugo:0.55
 
 before_script:
 - npm install -g gulp
