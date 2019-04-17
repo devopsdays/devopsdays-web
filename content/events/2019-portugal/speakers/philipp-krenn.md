@@ -1,9 +1,9 @@
 +++
-Title = "Philipp Kren"
+Title = "Philipp Krenn"
 Twitter = "xeraa"
-image = "philipp-kren.jpg"
+image = "philipp-krenn.jpg"
 type = "speaker"
-linktitle = "philipp-kren"
+linktitle = "philipp-krenn"
 +++
 
 #### Speaker
