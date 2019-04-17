@@ -8,18 +8,12 @@ description = ""
 
 **¡DevOpsDays llega a Centro América, desde la República de Panamá!**
 
+Our event pages are in Spanish, but don't worry [You can translate it with the Google.](https://translate.google.com.uy/translate?sl=es&tl=en&u=https%3A%2F%2Fwww.devopsdays.org%2Fevents%2F2019-panama%2Fwelcome%2F)
+
+
 Participe y comparta experiencias en 2 días de conferencias, charlas y talleres. Intercambie con practicantes del DevOps y de los principios <a href="http://devopsdictionary.com/wiki/CAMS">C.A.L.M.S.</a>!!!
 
 Estamos complacidos por su interés de participar en nuestro evento, DevOpsDays Panamá 2019. Le damos la bienvenida !!!
-
-----------
-
-***DevOpsDays is coming to Central America, in Republic of Panama!***
-
-*Come, join us during 2 days of conferences, talks and workshops. Share experiences with other practitioners of DevOps and keep the <a href="http://devopsdictionary.com/wiki/CAMS">C.A.L.M.S.</a> principles!!!*
-
-*We’re excited that you want to be an attendee at our event, DevOpsDays Panamá 2019. Be welcome !!!*
-
 
 ----------
 
@@ -28,7 +22,7 @@ Estamos complacidos por su interés de participar en nuestro evento, DevOpsDays 
 <br>
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Fechas / <i>Dates</i>:</strong>
+    <strong>Fechas:</strong>
   </div>
   <div class = "col-md-30">
     {{< event_start >}} - {{< event_end >}}
@@ -37,7 +31,7 @@ Estamos complacidos por su interés de participar en nuestro evento, DevOpsDays 
 <br>
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Locación / <i>Location</i>:</strong>
+    <strong>Sede:</strong>
   </div>
   <div class = "col-md-30">
     {{< event_location >}}<br>
@@ -47,7 +41,7 @@ Estamos complacidos por su interés de participar en nuestro evento, DevOpsDays 
 <br>
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Contactos / <i>Contacts</i>:</strong>
+    <strong>Contactos:</strong>
   </div>
     <div class = "col-md-30">
     {{< event_link page="contact" text="Póngase en contacto con los organizadores..." >}}<br>
@@ -58,12 +52,11 @@ Estamos complacidos por su interés de participar en nuestro evento, DevOpsDays 
 <br>
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Síganos / <i>Follow</i>:</strong>
+    <strong>Síganos:</strong>
   </div>
     <div class = "col-md-30">
     {{< event_twitter >}}<br>
     <a href="https://speakerdeck.com/dodpanama/">Speakerdeck</a><br>
-    <a href="https://www.flickr.com/photos/dodpanama/albums">Flickr</a><br>
     </div>
 </div>  
   
