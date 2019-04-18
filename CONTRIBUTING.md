@@ -119,7 +119,9 @@ The following tests run when a PR is submitted:
 1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this test builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason.
 1. [Netlify](https://app.netlify.com/sites/devopsdays-web) - this test builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's a good idea to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
-### Sharing local changes (Advanced)
+## Advanced
+
+### Sharing local changes
 
 If you wish to show someone else your local changes without creating a pull request or committing you could utilize netlify dev.
 
