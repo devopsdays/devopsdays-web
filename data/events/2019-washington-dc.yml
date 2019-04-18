@@ -315,6 +315,9 @@ sponsors:
     url: "https://go.redhat.com/public-sector?sc_cid=701f2000001OIyfAAG"
   - id: dlt
     level: platinum
+  - id: chef
+    level: platinum
+    url: "https://chef.io/?utm_source=doddc"
   - id: circleci
     level: gold
   - id: devopsdc-meetup
