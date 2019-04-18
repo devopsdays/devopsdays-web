@@ -11,8 +11,8 @@ enddate: 2019-06-07  # The end date of your event. Leave blank if you don't have
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-03-08  # start accepting talk proposals.
-cfp_date_end: 2019-04-12  # close your call for proposals.
-cfp_date_announce: 2019-04-19  # inform proposers of status
+cfp_date_end: 2019-04-24  # close your call for proposals.
+cfp_date_announce: 2019-05-01  # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
