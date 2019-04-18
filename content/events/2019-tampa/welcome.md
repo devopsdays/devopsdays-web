@@ -5,10 +5,10 @@ aliases = ["/events/2019-tampa/"]
 Description = "DevOpsDays Tampa Bay 2019"
 +++
 
-Save the date!
+Latest news for DevOpsDays Tampa Bay - Ignite proposals extended to April 24th.
 ===
 
-DevOpsDays will be coming to Tampa Bay June 7th of 2019 for our first year. We are accepting talk proposals, sponsorships, and registration will be soon open.
+Inital selections have been made for speakers and have extended proposals for Ignite talks, don't delay it will only be for a few days. 
 
 <div style="text-align:center;">
   {{< event_logo >}}
