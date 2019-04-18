@@ -4,13 +4,13 @@ city: "Baltimore"
 event_twitter: "devopsdaysbmore"
 friendly: "2017-baltimore"
 
-startdate:  2017-03-07
-enddate:  2017-03-08
+startdate: 2017-03-07T00:00:00-05:00
+enddate: 2017-03-08T23:59:59-05:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-05-26
-cfp_date_end: 2016-12-09
-cfp_date_announce: 2017-01-06
+cfp_date_start: 2016-05-26T00:00:00-04:00
+cfp_date_end: 2016-12-09T23:59:59-05:00
+cfp_date_announce: 2017-01-06T23:59:59-05:00
 
 # Location
 coordinates: "39.286400, -76.605606" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html

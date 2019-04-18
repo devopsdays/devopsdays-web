@@ -5,12 +5,12 @@ friendly: "2016-brasilia" # Four digit year and the city name in lower-case. Don
 status: "current" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-11-18 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-11-18 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-11-18T00:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-11-18T23:59:59-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-08-15 # start accepting talk proposals.
-cfp_date_end: 2016-09-30 # close your call for proposals.
-cfp_date_announce: 2016-10-08 # inform proposers of status
+cfp_date_start: 2016-08-15T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2016-09-30T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2016-10-08T23:59:59-03:00 # inform proposers of status
 
 # Location
 #-15.792391, -47.887187 = Brasilia/DF

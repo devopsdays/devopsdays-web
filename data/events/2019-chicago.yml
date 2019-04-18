@@ -103,7 +103,7 @@ team_members:
     twitter: "DivineOps"
     website: "http://divineops.net"
     linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
-    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    bio: "Sasha Rosenbaum is a Program Manager on the Azure DevOps engineering team, focused on making the technology better aligned with open source software projects. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
     github: "DivineOps"
   - name: "Matty Stratton"
     image: "matt-stratton.jpg"
@@ -112,7 +112,7 @@ team_members:
     website: "https://www.mattstratton.com"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He lives in San Francisco and has three awesome kids, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
+    bio: "Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He has three awesome kids, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Morningstar"
@@ -150,6 +150,10 @@ sponsors:
     level: gold
   - id: xmatters
     level: silver
+  - id: f5
+    level: gold
+  - id: chef
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

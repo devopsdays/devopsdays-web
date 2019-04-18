@@ -4,7 +4,7 @@ city: "Bengaluru" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysIN" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Bengaluru!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-event_group: "Bengaluru"
+event_group: "India"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
 startdate: 2018-12-08T00:00:00+05:30

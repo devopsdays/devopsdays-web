@@ -41,7 +41,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: logo contest
     icon: "pen"
-    url: "https://goo.gl/forms/BOx2sXlvxSBSfQEK2"
+    url: "/events/2019-montevideo/logo/"
   - name: contact
   - name: conduct
 # - name: example
@@ -138,6 +138,9 @@ sponsors:
   - id: arkano
     level: silver
 
+  - id: overactive
+    level: silver
+
 # Comunidad
 # ------------------------------------------------------------------------------
   - id: cuti
@@ -151,9 +154,6 @@ sponsors:
 
   - id: powershell-meetup-uy
     level: community
-
-
-
 
 
 # TBD sponsors
