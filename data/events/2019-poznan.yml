@@ -102,7 +102,7 @@ proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: nordcloud
     level: gold
-  - id: dell
+  - id: delltechnologies
     level: gold
   - id: trecom
     level: gold
