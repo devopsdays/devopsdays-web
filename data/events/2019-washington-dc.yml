@@ -317,7 +317,7 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
-    url: "http://chef.io/?utm_source=doddc"
+    url: "https://chef.io/?utm_source=doddc"
   - id: circleci
     level: gold
   - id: devopsdc-meetup
