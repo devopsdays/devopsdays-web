@@ -15,7 +15,8 @@ cfp_date_end: 2019-04-24  # close your call for proposals.
 cfp_date_announce: 2019-05-01  # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+#cfp_link: "https://www.papercall.io/dodtampabay" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link:
 
 registration_date_start: 2019-03-11 # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2019-06-02 # close registration. Leave blank if registration is not open yet.
@@ -32,10 +33,14 @@ location_address: "501 Brooker Creek Blvd, Oldsmar, FL 34677" #Optional - use th
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+    url: /events/2019-tampa/propose
+    icon: "book"
   - name: location
+    icon: "map-o"
+    url: /events/2019-tampa/location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -54,6 +59,17 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/jamesgress"
     website: "http://accenture.com"
     image: "jamesgress.jpg"
+  - name: "Keith Sartain"
+    employer: "ConnectWise"
+    facebook: "https://www.facebook.com/kbsartain"
+    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
+    website: "http://connectwise.com"
+    image: "keithsartain.jpg"
+  - name: "Nathan Whitley"
+    employer: "Nielsen"
+    website: "http://www.nielsen.com/"
+    linkedin: "https://www.linkedin.com/in/nathan-whitley-24080253/"
+    image: "nathanwhitley.jpg" 
   - name: "Bill Bensing"
     twitter: "bill_bensing"
     employer: "WB3Tech"
@@ -61,12 +77,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/billbensing"
     website: "http://wb3tech.com"
     image: "billbensing.jpg"
-  - name: "Karen Whelan"
-    twitter: "corona_flga"
-    employer: "Verizon"
-    linkedin: "https://www.linkedin.com/in/karen-whelan-015914179/"
-    website: "http://verizon.com"
-    image: "KWhelanpic.jpg"
+  - name: "Jess Ladika"
+    employer: "Kforce"
+    image: "jessladika.jpg"
+    website: "http://kforce.com"
   - name: "Josh Stone"
     twitter: "stonejoshstone"
     employer: "Verizon"
@@ -74,26 +88,17 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/stonejoshstone"
     website: "http://verizon.com"
     image: "joshstone.jpg"   
+  - name: "Karen Whelan"
+    twitter: "corona_flga"
+    employer: "Verizon"
+    linkedin: "https://www.linkedin.com/in/karen-whelan-015914179/"
+    website: "http://verizon.com"
+    image: "KWhelanpic.jpg"
   - name: "Devon Ford"
     employer: "TEKsystems"
     website: "http://www.teksystems.com/en"
     linkedin: "https://www.linkedin.com/in/devon-ford-997b30bb/"
     image: "devonford.jpg" 
-  - name: "Nathan Whitley"
-    employer: "Nielsen"
-    website: "http://www.nielsen.com/"
-    linkedin: "https://www.linkedin.com/in/nathan-whitley-24080253/"
-    image: "nathanwhitley.jpg" 
-  - name: "Keith Sartain"
-    employer: "ConnectWise"
-    facebook: "https://www.facebook.com/kbsartain"
-    linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
-    website: "http://connectwise.com"
-    image: "keithsartain.jpg"
-  - name: "Jess Ladika"
-    employer: "Kforce"
-    image: "jessladika.jpg"
-    website: "http://kforce.com"
 
 
 organizer_email: "organizers-tampa-2019@devopsdays.org" # Put your organizer email address here
@@ -151,3 +156,10 @@ sponsor_levels:
   - id: se
     label: "Social Event"
 
+program:
+  - title: "andrew-c-shafer"
+    type: talk
+    date: 2019-06-07
+    start_time: 
+    end_time: 
+ 
