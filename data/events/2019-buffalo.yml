@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
   - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -75,6 +75,12 @@ sponsors:
   - id: torchio
     level: bronze
     url: https://torch.io
+  - id: starkandwayne
+    level: gold
+    url: https://starkandwayne.com
+  - id: mandtbank
+    level: gold
+    url: https://www.mtb.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

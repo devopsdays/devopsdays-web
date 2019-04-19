@@ -30,10 +30,10 @@ registration_link: "https://devopsdayspoznan.evenea.pl/" # If you have a custom 
 
 # Location
 #
-coordinates: "52.406222, 16.936121" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "+jeden" # Defaults to city, but you can make it the venue name.
+coordinates: "52.403126, 16.909987" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Green Room (Sala Zielona) MTP" # Defaults to city, but you can make it the venue name.
 #
-location_address: "ul. Za Bramką 1, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "East Gate MTP, ul Głogowska 14, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
