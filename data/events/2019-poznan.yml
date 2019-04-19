@@ -92,6 +92,9 @@ team_members: # Name is the only required field for team members.
   - name: "Bartek Stalewski"
     employer: "Mirantis"
     twitter: "eftepede"
+  - name: "Klaudia Jasniak"
+    employer: "JCommerce"
+    linkedin: "https://www.linkedin.com/in/klaudia-ja%C5%9Bniak-97283180/"
 
 
 organizer_email: "organizers-poznan-2019@devopsdays.org" # Put your organizer email address here
@@ -102,7 +105,7 @@ proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: nordcloud
     level: gold
-  - id: dell
+  - id: delltechnologies
     level: gold
   - id: trecom
     level: gold
@@ -157,7 +160,7 @@ program:
     date: 2019-05-20
     start_time: "09:15"
     end_time: "09:30"
-  - title: "keynote"
+  - title: "maciej-lasyk"
     type: talk
     date: 2019-05-20
     start_time: "09:30"
