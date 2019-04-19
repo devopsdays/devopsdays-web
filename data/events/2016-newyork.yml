@@ -7,6 +7,9 @@ event_group: "New York City"
 
 startdate: 2016-09-23 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
 enddate: 2016-09-24 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+startdate: 2016-09-23T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-09-24T23:59:59-04:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
 cfp_date_start: 2016-05-22
 cfp_date_end: 2016-07-15
 cfp_date_announce: 2016-08-16

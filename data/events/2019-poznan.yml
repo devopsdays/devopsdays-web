@@ -30,17 +30,17 @@ registration_link: "https://devopsdayspoznan.evenea.pl/" # If you have a custom 
 
 # Location
 #
-coordinates: "52.406222, 16.936121" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "+jeden" # Defaults to city, but you can make it the venue name.
+coordinates: "52.403126, 16.909987" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Green Room (Sala Zielona) MTP" # Defaults to city, but you can make it the venue name.
 #
-location_address: "ul. Za Bramką 1, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "East Gate MTP, ul Głogowska 14, Poznań" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: propose
   - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -102,23 +102,27 @@ proposal_email: "proposals-poznan-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: nordcloud
     level: gold
+  - id: dell
+    level: gold
+  - id: trecom
+    level: gold
+  - id: centuria
+    level: gold
   - id: egnyte
+    level: silver
+  - id: tomtom
     level: silver
   - id: holidaycheck
     level: bronze
   - id: allegro
     level: bronze
-  - id: tomtom
-    level: silver
+  - id: mirantis
+    level: bronze
   - id: letsmanageit
     level: community
-#  - id: mirantis
-#    level: community
-  - id: dell
-    level: gold
-  - id: trecom
-    level: gold
   - id: containersolutions
+    level: community
+  - id: poznan
     level: community
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
 #  - id: arresteddevops
@@ -158,13 +162,13 @@ program:
     date: 2019-05-20
     start_time: "09:30"
     end_time: "10:00"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
-  - title: "talk"
+#    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+  - title: "lukasz-lach"
     type: talk
     date: 2019-05-20
     start_time: "10:00"
     end_time: "10:30"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+#    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
   - title: "Coffee Break"
     type: custom
     date: 2019-05-20

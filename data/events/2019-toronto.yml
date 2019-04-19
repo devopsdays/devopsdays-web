@@ -113,6 +113,15 @@ sponsors:
     level: gold
   - id: sps_commerce
     level: lanyard
+  - id: intelliware
+    level: lunch
+  - id: cyberark
+    level: gold
+  - id: microsoft
+    level: gold
+    url: https://www.microsoft.com/en-ca/
+  - id: diamanti
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

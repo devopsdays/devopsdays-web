@@ -95,7 +95,7 @@ sponsors:
     level: gold
   - id: softed
     level: silver
-  - id: sonatype
+  - id: sonatype-before-20190405
     level: gold
   - id: mongodb
     level: bronze

@@ -2,7 +2,7 @@ name: "2019-campinas" # The name of the event. Four digit year with the city nam
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Campinas" # The displayed city name of the event. Capitalize it.
 event_logo: "logo-square.jpg"
-event_twitter: "devopsdayscamp" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdayscps" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "DevOpsDays is coming to Campinas!" # Edit this to suit your preferences
 # ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -11,12 +11,12 @@ startdate: 2019-10-25T08:00:00-03:00 # The start date of your event. Leave blank
 enddate: 2019-10-25T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: # start accepting talk proposals.
-cfp_date_end: # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-04-15T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-09-20T23:59:00-03:00 # close your call for proposals.
+cfp_date_announce: 2019-10-01T23:59:00-03:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdays-campinas-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -100,10 +100,12 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-# - id:
-#   level:
+  - id: infoq
+    level: supporter
+  - id: estabilis
+    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -118,8 +120,9 @@ sponsor_levels:
     max: 2
   - id: silver
     label: Silver
-#    max: 0 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
     label: Community
+  - id: supporter
+    label: Supporter

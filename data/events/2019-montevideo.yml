@@ -2,17 +2,17 @@ name: "2019-montevideo" # The name of the event. Four digit year with the city n
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Montevideo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMVD" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays próximamente en Montevideo!" # Edit this to suit your preferences
+description: "DevOpsDays Montevideo; southern DevOpsDays on earth!" # Edit this to suit your preferences
 ga_tracking_id: "UA-136337020-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-08-21T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:   2019-08-22T20:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start: 2019-03-17T00:00:00-03:00 # start accepting talk proposals.
-#cfp_date_end: 2019-06-01T23:59:59-03:00 # close your call for proposals.
-#cfp_date_announce: 2019-06-17T00:00:00-03:00 # inform proposers of status
+cfp_date_start: 2019-03-15T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-06-01T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2019-06-17T23:59:59-03:00 # inform proposers of status
 
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdaysmvd2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -26,22 +26,22 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: -34.906460, -56.198330 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Montevideo, Uruguay" # Defaults to city, but you can make it the venue name.
+coordinates: -34.909549, -56.204406 # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hotel NH Montevideo Columbia" # Defaults to city, but you can make it the venue name.
 #
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Rambla Gran Bretaña, 473, 11000 Montevideo - Uruguay" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
     icon: "microphone"
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
   - name: logo contest
     icon: "pen"
-    url: "https://goo.gl/forms/BOx2sXlvxSBSfQEK2"
+    url: "/events/2019-montevideo/logo/"
   - name: contact
   - name: conduct
 # - name: example
@@ -90,7 +90,7 @@ team_members: # Name is the only required field for team members.
   - name: "Guillermo Talento"
     twitter: "gtalentolane"
     linkedin: "https://www.linkedin.com/in/gtalentolane/"
-    employer: "Insight Latinoamerica"
+    employer: "Software Testing Bureau"
     image: "guillermotalento.jpg"
     bio: "Over 30 years experience in IT. From 2001 focused on helping companies obtain the most from their software projects, through consultancy, mentoring and training services to improve the way they conceive, develop and implement software projects."
 
@@ -135,9 +135,17 @@ sponsors:
 
 # Plata
 # ------------------------------------------------------------------------------
+  - id: arkano
+    level: silver
+
+  - id: overactive
+    level: silver
 
 # Comunidad
 # ------------------------------------------------------------------------------
+  - id: cuti
+    level: community
+
   - id: universidad-ort-uruguay
     level: community
 
@@ -146,7 +154,6 @@ sponsors:
 
   - id: powershell-meetup-uy
     level: community
-
 
 
 # TBD sponsors

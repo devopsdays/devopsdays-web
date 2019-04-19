@@ -5,8 +5,8 @@ friendly: "2016-amsterdam" # Four digit year and the city name in lower-case. Do
 
 # Datus and status
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
-startdate: 2016-06-29  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-07-01  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-06-29T00:00:00+02:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-07-01T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 cfp_date_start: 2016-01-15 # start accepting talk proposals.
 cfp_date_end: 2016-04-30 # close your call for proposals.
 cfp_date_announce: 2016-01-01 # inform proposers of status

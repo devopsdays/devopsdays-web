@@ -3,8 +3,10 @@ year: 2016
 city: "Washington, DC" # The city name of the event. Capitalize it.
 friendly: "2016-washington-dc" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current".
-startdate: 2016-06-08 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2016-06-09 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+
+startdate:  2016-06-08T00:00:00-04:00
+enddate: 2016-06-09T23:59:59-04:00
+
 cfp_date_start: 2016-04-01
 cfp_date_end: 2016-06-01
 cfp_date_announce: 2016-07-01
@@ -133,7 +135,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: cloudbees-before-20161025
     level: gold
-  - id: aspe
+  - id: aspe-before-20190407
     level: platinum
   - id: govready
     level: silver

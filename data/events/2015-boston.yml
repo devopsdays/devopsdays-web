@@ -5,8 +5,9 @@ friendly: "2015-boston" # Four digit year and the city name in lower-case. Don't
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2015-MM-DD, like this:   variable: 2016-01-05
-startdate: 2015-09-15  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2015-09-16  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2015-09-15T00:00:00-04:00
+enddate: 2015-09-16T23:59:59-04:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-01-01 # start accepting talk proposals.
 cfp_date_end: 2016-01-01 # close your call for proposals.

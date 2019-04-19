@@ -35,12 +35,12 @@ location: "Oregon Convention Center" # Defaults to city, but you can make it the
 location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+  - name: propose
  # - name: location
  # - name: registration
  #   url: https://devopsdayspdx2018.busyconf.com/bookings/new
-  - name: program
-  - name: speakers
+ #  - name: program
+ # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct

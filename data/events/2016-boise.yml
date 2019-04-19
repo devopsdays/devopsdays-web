@@ -5,12 +5,12 @@ friendly: "2016-boise" # Four digit year and the city name in lower-case. Don't 
 status: "past" # Options are "past" or "current". Use "current" for upcoming.
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-10-07  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-10-08  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-10-07T00:00:00-06:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-10-08T23:59:59-06:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-07-01
-cfp_date_end: 2016-07-31
-cfp_date_announce: 2016-08-14
+cfp_date_start: 2016-07-01T00:00:00-06:00
+cfp_date_end: 2016-07-31T23:59:59-06:00
+cfp_date_announce: 2016-08-14T23:59:59-06:00
 
 # Location
 #
@@ -56,7 +56,7 @@ proposal_email: "proposals-boise-2016@devopsdays.org" # Put your proposal email 
 sponsors:
   - id: 2016-victorops
     level: gold
-  - id: taos
+  - id: taos-before-20190405
     level: dinner
   - id: tesora
     level: bronze

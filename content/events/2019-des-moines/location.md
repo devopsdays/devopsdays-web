@@ -19,3 +19,15 @@ There is a paid parking lot available near the Iowa Event Center or there are se
 
 <!-- Uncomment this only if you have set the coordinates for your location in the config yaml. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html -->
 {{< event_map >}}
+
+<br/>
+
+## Hotel
+We have reserved a block of rooms at the Hilton Des Moines Downtown
+```
+435 Park Street
+Des Moines, Iowa, 50309
++1-515-241-1456 
+```
+## Block of Rooms
+Please use this <a href="https://www.hilton.com/en/hi/groups/personalized/D/DSMDIHH-DOD-20190501/index.jhtml?WT.mc_id=POG">link</a> to get our exclusive reduced rate.

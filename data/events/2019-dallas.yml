@@ -37,8 +37,8 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
- # - name: registration
- # - name: program
+  - name: program
+  - name: registration
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -238,3 +238,196 @@ sponsor_levels:
   - id: community
     label: Community
     max: 5
+
+program:
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "TBA - Intro and Code of Conduct"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-20
+    start_time: "08:55"
+    end_time: "09:05"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-20
+    start_time: "09:05"
+    end_time: "09:50"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-20
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2019-08-20
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-20
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-20
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-20
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-08-20
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: ""
+    type: ignite
+    date: 2019-08-20
+    start_time: "13:00"
+    end_time: "13:35"
+  - title: "Open Space - Overview & Topic Proposal"
+    type: open-space
+    date: 2019-08-20
+    start_time: "13:35"
+    end_time: "14:45"
+  - title: "Open Space Selection"
+    type: open-space
+    date: 2019-08-20
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-08-20
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2019-08-20
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-08-20
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-08-20
+    start_time: "16:45"
+    end_time: "17:00"
+
+  - title: "Registration, and Breakfast"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "TBA - Intros"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:45"
+    end_time: "08:55"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "08:55"
+    end_time: "09:05"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "09:05"
+    end_time: "09:50"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
+    type: custom
+    date: 2019-08-21
+    start_time: "10:20"
+    end_time: "10:30"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-08-21
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "WIP"
+    type: custom
+    date: 2019-08-21
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space - Topic Proposal"
+    type: open-space
+    date: 2019-08-21
+    start_time: "13:30"
+    end_time: "14:45"
+  - title: "Open Space Selection"
+    type: open-space
+    date: 2019-08-21
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-08-21
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break"
+    type: custom
+    date: 2019-08-21
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "SPEAKER DISCUSSION PANEL"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Closing, Raffle, & Farewell"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:45"
+    end_time: "17:00"
+
+ignites:
+  - title: "ignite-talks"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20
+  - title: "WIP"
+    date: 2019-08-20

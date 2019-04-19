@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-
+  - name: faq
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -56,6 +56,11 @@ team_members: # Name is the only required field for team members.
 #    image: "ajay-bannai.jpg"
 #    linkedin: "https://www.linkedin.com/in/ajay-bannai-934b066/"
 #    bio: "With more than 26 years in IT software, Ajay has designed and built many systems covering data analysis, middleware systems and end user applications. Ajay has spent more than 12 years in the Retail Energy space and is a seasoned architect. Ajay is TOGAF certified and also a qualified Software Architect from Carnegie Mellon University."
+  - name: "Briana Egan"
+    employer: "Agile Leadership Network in Houston"
+    twitter: ""
+    image: "briana-egan.jpg"
+    bio: "Briana Egan is currently the Vice-President of the Agile Leadership Network in Houston (ALN).  When she is not busy with the ALN she is a ScrumMaster for a Cloud Technology DevOps Team.  Briana holds a Masters Degree from the University of Joensuu (joensuun yliopisto) in Finland."
   - name: "Dan Collins"
     employer: "Current Analytics Corporation"
     linkedin: "https://www.linkedin.com/in/thedancollins/"
@@ -144,6 +149,8 @@ sponsors:
     level: bronze
   - id: aws
     level: bronze
+  - id: micro-focus
+    level: bronze
   - id: arresteddevops
     level: community
 
@@ -206,7 +213,8 @@ program:
     date: 2019-04-16
     start_time: "10:45"
     end_time: "12:00"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop, and accounts on GitHub, CircleCI, DockerHub."
   - title: "aaron-aldrich"
     type: talk
     date: 2019-04-16
@@ -242,7 +250,8 @@ program:
     date: 2019-04-16
     start_time: "14:15"
     end_time: "15:30"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop and AWS account"
   - title: "sagar-karmarkar"
     type: talk
     date: 2019-04-16
@@ -321,6 +330,13 @@ program:
     date: 2019-04-17
     start_time: "10:30"
     end_time: "11:00"
+  - title: "brad-dausses"
+    type: workshop
+    date: 2019-04-17
+    start_time: "10:45"
+    end_time: "12:00"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with RDP"
   - title: "shaun-ladewig"
     type: talk
     date: 2019-04-17
@@ -331,12 +347,6 @@ program:
     date: 2019-04-17
     start_time: "11:30"
     end_time: "12:00"
-  - title: "brad-dausses"
-    type: workshop
-    date: 2019-04-17
-    start_time: "10:45"
-    end_time: "12:00"
-    comments: "Where: Studio Movie Grill"
   - title: "Lunch, Visit Sponsor Booths"
     type: "custom"
     date: 2019-04-17
@@ -362,7 +372,8 @@ program:
     date: 2019-04-17
     start_time: "14:15"
     end_time: "15:30"
-    comments: "Where: Studio Movie Grill"
+    comments: "&nbsp; &nbsp; *Where*: Studio Movie Grill<br/>  
+      &nbsp; &nbsp; *Required*: Laptop with Kubernetes, kubectl, Helm, and accounts on GCP, Azure, AWS, or DO"
   - title: "john-esser"
     type: talk
     date: 2019-04-17
@@ -421,5 +432,6 @@ ignites:
     date: "2019-04-16"
   - title: "chris-black"
     date: "2019-04-16"
-    
+  - title: "dan-kirkpatrick"
+    date: "2019-04-16"
     
