@@ -83,6 +83,8 @@ sponsors:
     level: community
   - id: sonatype
     level: gold
+  - id: zivra
+    level: gold  
   - id: rosen
     level: gold
   - id: pagerduty
