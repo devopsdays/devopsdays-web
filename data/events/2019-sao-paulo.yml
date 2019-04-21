@@ -235,7 +235,7 @@ program:
     start_time: "11:10"
     end_time: "11:40"
 
-  - title: "joao-brito"
+  - title: "eduardo-ximenes"
     type: talk
     date: "2019-04-10"
     start_time: "11:40"
@@ -403,8 +403,20 @@ program:
     end_time: "17:45"
 
 ignites:
-  - title: "eduardo-ximenes"
+  - title: "rafael-zago"
+    date: "2019-04-10"
+
+  - title: "jonatan_baraldi"
+    date: "2019-04-10"
+
+  - title: "miguel-mattos"
     date: "2019-04-10"
 
   - title: "danubia-barreto"
+    date: "2019-04-11"
+
+  - title: "antonio-muniz"
+    date: "2019-04-11"
+
+  - title: "marco-junior"
     date: "2019-04-11"

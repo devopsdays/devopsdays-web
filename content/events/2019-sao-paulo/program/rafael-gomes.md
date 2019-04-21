@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["rafael-gomes"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://www.slideshare.net/linux.rafa/dockerizando-aplicaes-em-uma-fintech"
 +++
 
 Nessa apresentação falarei de todos os problemas e facilidades que tivemos na adoção do Docker como virtualização de aplicações, tanto no processo de desenvolvimento, com necessidades específicas, como em produção seguindo o 12factor apps em um ambiente critico do ponto de vista de disponibilidade.
