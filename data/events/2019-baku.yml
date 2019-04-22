@@ -2,7 +2,7 @@ name: "2019-baku" # The name of the event. Four digit year with the city name in
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Baku" # The displayed city name of the event. Capitalize it.
 event_twitter:  # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Be part of the sixth DevOpsDays Baku!" # Edit this to suit your preferences
+description: "Be part of the first DevOpsDays Baku!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2019-06-28T00:00:00-04:00
-enddate: 2019-06-29T23:59:59-04:00
+startdate: 
+enddate: 
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -33,115 +33,59 @@ location: "Baku" # Defaults to city, but you can make it the venue name.
 location_address: #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#  - name: location
-#  - name: registration
-#  - name: program
-#  - name: speakers
-#  - name: sponsor
-#  - name: contact
-#  - name: conduct
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
 
-# These are the same people you have on the mailing list and Slack channel.
-#team_members: # Name is the only required field for team members.
-#  - name: "Steve Pereira"
-#    twitter: "SteveElsewhere"
-#  - name: "Erik Levinson"
-#    twitter: "levinson0"
-#  - name: "Chris Little"
-#    twitter: "whatschrisdoing"
-#  - name: "Abeer Rahman"
-#    twitter: "abeer486"
-#  - name: "Suzan Mahboob"
-#    linkedin: https://linkedin.com/in/suzanmahboob/
-#  - name: "Elizabeth White"
-#  - name: "Tina Aprile"
 
-#organizer_email: "organizers-baku-2019@devopsdays.org" # Put your organizer email address here
-#proposal_email: "proposals-baku-2019@devopsdays.org" # Put your proposal email address here
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "John Doe"
+  - name: "Jane Smith"
+    twitter: "devopsdays"
+  - name: "Sally Fields"
+    employer: "Acme Anvil Co."
+    github: "devopsdays"
+    facebook: "https://www.facebook.com/sally.fields"
+    linkedin: "https://www.linkedin.com/in/sallyfields"
+    website: "https://mattstratton.com"
+    image: "sally-fields.jpg"
+
+organizer_email: "organizers-baku-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-baku-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
-#sponsors:
-#  - id: indellient
-#    level: gold
-#  - id: xmatters
-#    level: gold
-#  - id: blendedperspectives
-#    level: platinum
-#  - id: sourcedgroup
-#    level: gold
-#  - id: rundeck
-#    level: gold
-#  - id: puppet
-#    level: gold
-#  - id: influxdata
-#    level: gold
-#  - id: cloudbees
-#    level: gold
-#  - id: deloitte
-#    level: gold
-#  - id: chef
-#    level: gold
-#  - id: elastic
-#    level: gold
-#  - id: pagerduty
-#    level: gold
-#  - id: logdna
-#    level: gold
-#  - id: sonatype
-#    level: gold
-#  - id: slalom-build
-#    level: gold
-#  - id: hashicorp
-#    level: gold
-#  - id: dynatrace
-#    level: gold
-#  - id: gitlab
-#    level: gold
-#  - id: cloudops
-#    level: gold
-#  - id: loyaltyone
-#    level: gold
-#  - id: capitalonecanada
-#    level: gold
-#  - id: sps_commerce
-#    level: gold
-#  - id: sps_commerce
-#    level: lanyard
-#  - id: intelliware
-#    level: lunch
-#  - id: cyberark
-#    level: gold
-#  - id: microsoft
-#    level: gold
-#    url: https://www.microsoft.com/en-ca/
-#  - id: diamanti
-#    level: gold
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
 
-sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
-#sponsor_levels:
-#  - id: platinum
-#    label: Platinum
-#    max: 3
-#  - id: gold
-#    label: Gold
-#    max: 25
-#  - id: silver
-#    label: Silver
+sponsor_levels:
+  - id: gold
+    label: Gold
 #    max: 10
-#  - id: lanyard
-#    label: Lanyard
-#    max: 1
-#  - id: lunch
-#    label: Lunch
-#    max: 2
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
