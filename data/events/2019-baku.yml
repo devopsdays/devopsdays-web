@@ -61,8 +61,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: "Elizabeth White"
 #  - name: "Tina Aprile"
 
-#organizer_email: "organizers-toronto-2019@devopsdays.org" # Put your organizer email address here
-#proposal_email: "proposals-toronto-2019@devopsdays.org" # Put your proposal email address here
+#organizer_email: "organizers-baku-2019@devopsdays.org" # Put your organizer email address here
+#proposal_email: "proposals-baku-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
