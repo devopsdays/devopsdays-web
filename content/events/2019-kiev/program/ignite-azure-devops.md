@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["mykola-kotsabiuk"]
 +++
 
-I wold like to give a brief overview about Azure Boards, Azure Repos, Azure Test Plans and Azure Artifacts. And explain mode deep about Azure Pipelines. What is available in free and paid subscription. Also give a demo example how to set up CI/CD and integration with Github and Azure.
+I want to give a brief overview of Azure Boards, Azure Repos, Azure Test Plans and Azure Artifacts. And explain mode deep about Azure Pipelines what is available in a free and paid subscription. Also, give a demo example of how to set up CI/CD and integration with Github and Azure.
