@@ -66,6 +66,11 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/keith-sartain-630b441"
     website: "http://connectwise.com"
     image: "keithsartain.jpg"
+  - name: "Dhanasekar Chandran"
+    employer: "Nielsen"
+    website: "http://www.nielsen.com/"
+    linkedin: "https://www.linkedin.com/in/dhanasekar-chandran/"
+    image: "dhana.jpg" 
   - name: "Nathan Whitley"
     employer: "Nielsen"
     website: "http://www.nielsen.com/"
@@ -163,4 +168,4 @@ program:
     date: 2019-06-07
     start_time: 
     end_time: 
- 
+
