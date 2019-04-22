@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["eduardo-ximenes"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/ximenes/devops-no-ifood-como-e-o-nosso-dia-a-dia"
 +++
 
 Venha entender o dia a dia da operação e como tratamos a cultura DevOps. Além disso, mostrar um pouco das mudanças que tivemos nesses últimos anos baseado no crescimento da estrutura, app e times.
