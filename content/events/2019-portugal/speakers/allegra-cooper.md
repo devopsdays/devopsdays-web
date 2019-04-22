@@ -1,5 +1,6 @@
 +++
 Title = "Allegra Cooper"
+linkedin = "https://www.linkedin.com/in/allegra-cooper-27b0b041/"
 image = "allegra-cooper.jpg"
 type = "speaker"
 linktitle = "allegra-cooper"
