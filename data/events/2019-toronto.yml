@@ -122,6 +122,10 @@ sponsors:
     url: https://www.microsoft.com/en-ca/
   - id: diamanti
     level: gold
+  - id: highvail
+    level: gold
+  - id: victorops
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
