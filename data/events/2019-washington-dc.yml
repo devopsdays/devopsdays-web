@@ -189,12 +189,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Chuck Mountz"
     employer: "Comcast"
-    twitter: ""
-    bio: ""
+    twitter: "mountzcjr"
+    bio: "Chuck is a Product Engineering Sr Manager at Comcast. He leads a platform services team focused on delivering services and tools to help accelerate delivery for the greater Network Services Engineering organization.  Chuck is passionate about organizational culture, developing talent, fostering partnerships, and building enterprise-wide communities.  He co-founded, along with Holly Bazemore (co-lead of DevOpsDaysDC), the internal DevOpsDays events at Comcast.  Chuck is proud that these events have brought together over 900 employees in one of the largest tech communities at Comcast and that over 40 employees have had the opportunity to refine their presentation skills."
     image: ""
     github: ""
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/chuckmountzjr/"
     website: ""
 
   - name: "Ramez Mourad"
