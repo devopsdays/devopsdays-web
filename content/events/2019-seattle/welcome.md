@@ -5,6 +5,7 @@ aliases = ["/events/2019-seattle/"]
 Description = "DevOpsDays Seattle 2019"
 +++
 
+<iframe id="ls_embed_1555701394" src="https://livestream.com/accounts/5297578/events/8647641/player?width=960&height=540&enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false" width="960" height="540" frameborder="0" scrolling="no" allowfullscreen> </iframe>
 
 For the fourth year, DevOpsDays is returning to Seattle. We have a great program this year including talks from industry leaders on topics like... 
 
