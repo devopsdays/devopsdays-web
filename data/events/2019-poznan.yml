@@ -153,77 +153,81 @@ program:
   - title: "Registration"
     type: custom
     date: 2019-05-20
-    start_time: "08:30"
-    end_time: "09:15"
+    start_time: "08:00"
+    end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
     date: 2019-05-20
-    start_time: "09:15"
-    end_time: "09:30"
+    start_time: "09:00"
+    end_time: "09:15"
   - title: "maciej-lasyk"
     type: talk
     date: 2019-05-20
-    start_time: "09:30"
-    end_time: "10:00"
-#    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+    start_time: "09:15"
+    end_time: "09:45"
   - title: "lukasz-lach"
     type: talk
     date: 2019-05-20
-    start_time: "10:00"
-    end_time: "10:30"
-#    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "jan-mussler"
+    type: talk
+    date: 2019-05-20
+    start_time: "10:25"
+    end_time: "10:55"
   - title: "Coffee Break"
     type: custom
     date: 2019-05-20
-    start_time: "10:30"
-    end_time: "10:45"
-  - title: "talk"
-    type: talk
-    date: 2019-05-20
-    start_time: "10:45"
+    start_time: "11:00"
     end_time: "11:15"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
   - title: "talk"
     type: talk
     date: 2019-05-20
     start_time: "11:15"
     end_time: "11:45"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
   - title: "talk"
     type: talk
     date: 2019-05-20
-    start_time: "11:45"
-    end_time: "12:15"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+    start_time: "11:50"
+    end_time: "12:20"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "12:25"
+    end_time: "12:55"
   - title: "Lunch"
     type: custom
     date: 2019-05-20
-    start_time: "12:15"
-    end_time: "13:00"
+    start_time: "13:00"
+    end_time: "13:45"
   - title: "Ignites"
     type: ignite
     date: 2019-05-20
-    start_time: "13:00"
-    end_time: "13:40"
-  - title: "talk"
-    type: talk
-    date: 2019-05-20
-    start_time: "13:40"
+    start_time: "13:45"
     end_time: "14:10"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
   - title: "talk"
     type: talk
     date: 2019-05-20
-    start_time: "14:10"
-    end_time: "14:40"
-    custom_url: "https://www.papercall.io/devopsdaypoznan2019"
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "talk"
+    type: talk
+    date: 2019-05-20
+    start_time: "15:30"
+    end_time: "16:00"
   - title: "Open Space"
     type: open-space
     date: 2019-05-20
-    start_time: "14:40"
-    end_time: "16:30"
+    start_time: "16:00"
+    end_time: "18:00"
   - title: "Closing ceremony and networking afterwards"
     type: custom
     date: 2019-05-20
-    start_time: "16:30"
-    end_time: "20:00"
+    start_time: "18:00"
+    end_time: "18:15"
+
