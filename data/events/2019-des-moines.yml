@@ -204,7 +204,7 @@ program:
     date: 2019-05-02
     start_time: "14:45"
     end_time: "15:30"
-  - title: "stephen-wilson"
+  - title: "eric-hendricks"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
@@ -250,7 +250,7 @@ program:
     date: 2019-05-03
     start_time: "11:00"
     end_time: "11:15"
-  - title: "eric-hendricks"
+  - title: "stephen-wilson"
     type: talk
     date: 2019-05-03
     start_time: "11:15"
