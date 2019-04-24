@@ -128,6 +128,9 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
+    # Recharge
+  - id: leaseweb
+    level: recharge
   # Lanyards
   - id: developers-nl
     level: lanyard

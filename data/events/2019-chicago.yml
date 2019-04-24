@@ -68,7 +68,7 @@ team_members:
     bio: "Brian Devlin is (presumably) a human who enjoys activities of various natures. Brian is a father who lives in the suburbs. He enjoys board games and beverages, in no specific order. He may or may not have a shadow Twitter account. He tweets only during warm weather. Once, Brian vaulted over the Chicago River, but that could have been in his imagination. Brian invented DevOps, but not the DevOps you know."
   - name: "Jeremy Fryer"
     image: "default-male.jpg"
-  - name: "Cora Hays-Magan"
+  - name: "Cora Fedesna"
     image: "cora-hays-magan.jpg"
     employer: "Active Campaign"
     twitter: "CorainChicago"
@@ -89,6 +89,10 @@ team_members:
     image: "trevor-hess.jpg"
     employer: "Chef Software, Inc"
     bio: "Trevor Hess is a Partner Solution Architect focusing on Microsoft at Chef Software, working with Microsoft to ensure that Chef is delighting customers and prospects on Windows and the many parts inside Azure! Coming from a background in .NET Software Development and consulting, he has worked with several large multinational organizations to help kick start their journey to the cloud and the world of DevOps practices and principals. He is excited to engage in new experiences, and learning opportunities. Trevor enjoys having hearty discussions about DevOps as well organizational change and transformation."
+  - name: "Michael Lanyon"
+    image: "michael-lanyon.jpg"
+    employer: "Critical Mass"
+    bio: "Mike Lanyon is VP Technology for Critical Mass, an advertising agency where he has helped bring talent of all backgrounds together to create extraordinary digital experiences for customers. You can also find him riding & racing his bike with Chicago-based Burnham Racing, or relaxing with his wife Erin & two tabbies."
   - name: "Kevin Reedy"
     image: "kevin-reedy.jpg"
     employer: "Chef Software, Inc"
@@ -103,7 +107,7 @@ team_members:
     twitter: "DivineOps"
     website: "http://divineops.net"
     linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
-    bio: "Sasha Rosenbaum is a Cloud Solution Architect for Microsoft, helping large scale clients on their journey to Azure. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    bio: "Sasha Rosenbaum is a Program Manager on the Azure DevOps engineering team, focused on making the technology better aligned with open source software projects. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
     github: "DivineOps"
   - name: "Matty Stratton"
     image: "matt-stratton.jpg"
@@ -112,7 +116,7 @@ team_members:
     website: "https://www.mattstratton.com"
     linkedin: "https://www.linkedin.com/in/mattstratton"
     github: "mattstratton"
-    bio: "Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry thought leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He lives in San Francisco and has three awesome kids, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
+    bio: "Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops teams advance the practice of their craft and become more operationally mature. He collaborates with PagerDuty customers and industry leaders in the broader DevOps community, and back when he drove, his license plate actually said \"DevOps\". He has three awesome kids, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world."
   - name: "Margaret Valtierra"
     image: "margaret-valtie.jpg"
     employer: "Morningstar"
@@ -150,6 +154,12 @@ sponsors:
     level: gold
   - id: xmatters
     level: silver
+  - id: f5
+    level: gold
+  - id: chef
+    level: gold
+  - id: gitlab
+    level: silver 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

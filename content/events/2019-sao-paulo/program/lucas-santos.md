@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["lucas-santos"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/khaosdoctor/code-review-do-jeito-certo"
 +++
 
 Code review é um processo importante do desenvolvimento ágil de software e está presente no coração do open source. Mas, muitas vezes, achamos que rever código é simplesmente observar e criticar, quando, na realidade, todo o processo de revisão é tão importante quanto o código em si.

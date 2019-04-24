@@ -5,8 +5,9 @@ friendly: "2016-ohio" # Four digit year and the city name in lower-case. Don't f
 status: "past" # Options are "past" or "current".
 event_group: "Columbus"
 
-startdate: 2016-10-31 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2016-11-01 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+startdate: 2016-10-31T00:00:00-04:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2016-11-01T23:59:59-04:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
 cfp_date_start: 2016-06-10
 cfp_date_end: 2016-08-26
 cfp_date_announce: 2016-09-26

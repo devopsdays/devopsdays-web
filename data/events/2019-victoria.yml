@@ -39,7 +39,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -77,6 +77,8 @@ sponsors:
    level: bronze
  - id: daitan-group
    level: bronze
+ - id: tactec
+   level: friends
 # - id: daxiom
 #   level: friends
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
@@ -105,3 +107,184 @@ sponsor_levels:
   - id: friends
     label: friends
     max: 5
+
+program:
+  - title: "Registration Opens"
+    type: day1track
+    date: 2019-05-30
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#00CC0E"
+  - title: "Overcommit with confidence: protect critical workload in an active Kubernetes cluster"
+    type: day1track1
+    date: 2019-05-30
+    start_time: "09:15"
+    end_time: "10:00"
+    background_color: "#D9D500"
+  - title: "Bird of a feather"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "Goal Based DevOps"
+    type: day1track1
+    date: 2019-05-30
+    start_time: "10:00"
+    end_time: "10:50"
+    background_color: "#D9D500"
+  - title: "DevOps: The 7%"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "10:00"
+    end_time: "10:50"
+  - title: "break"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "10:50"
+    end_time: "11:00"
+    background_color: "#00CC0E"
+  - title: "Deliberate Practice versus the Long Feedback Loop"
+    type: day1track1
+    date: 2019-05-30
+    start_time: "11:00"
+    end_time: "11:50"
+    background_color: "#D9D500"
+  - title: "People are the biggest part of the process! Radically changing the development lifecycle within the government. For the citizens, with the citizens."
+    type: day1track2
+    date: 2019-05-30
+    start_time: "11:00"
+    end_time: "11:50"
+  - title: "lunch"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "11:50"
+    end_time: "13:20"
+    background_color: "#00CC0E"
+  - title: "Codifying Community Awareness with Git Driven Status Updates"
+    type: day1track1
+    date: 2019-05-30
+    start_time: "13:20"
+    end_time: "14:10"
+    background_color: "#D9D500"
+  - title: "Creating a Culture of Observability: A Case Study"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "13:20"
+    end_time: "14:10"
+  - title: "break"
+    type: day1track1
+    date: 2019-05-30
+    start_time: "14:10"
+    end_time: "14:30"
+    background_color: "#00CC0E"
+  - title: "Non-Functional Requirements and DevOps: An Integrated Research Project"
+    type: day1track1
+    date: 2019-05-30
+    start_time: "14:30"
+    end_time: "15:30"
+    background_color: "#D9D500"
+  - title: "Was a Tester and Woke Up to DevOps! Let's 'Pipe' This Line"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "Don't Shave That Yak. Why you might not need Kubernetes."
+    type: day1track1
+    date: 2019-05-30
+    start_time: "15:30"
+    end_time: "16:30"
+    background_color: "#D9D500" 
+  - title: "Bird of a feather"
+    type: day1track2
+    date: 2019-05-30
+    start_time: "15:30"
+    end_time: "16:30"
+  - title: "Registration Opens"
+    type: custom
+    date: 2019-05-31
+    start_time: "08:30"
+    end_time: "09:00"
+    background_color: "#00CC0E"
+  - title: "DevOps and the Database Bottleneck"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "09:15"
+    end_time: "10:00"
+    background_color: "#D9D500"
+  - title: "Deliver Business Value Through Code"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "09:15"
+    end_time: "10:00"
+  - title: "DevOps - Philosophy vs Practice"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "10:00"
+    end_time: "10:50"
+    background_color: "#D9D500"
+  - title: "Our experience adding Data Science to DevOps pipelines and vice-versa"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "10:00"
+    end_time: "10:50"
+  - title: "break"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "10:50"
+    end_time: "11:00"
+    background_color: "#00CC0E"
+  - title: "The DevOps First Amendment"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "11:00"
+    end_time: "11:50"
+    background_color: "#D9D500"
+  - title: "Deployment and management in the age of cloud distributed applications"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "11:00"
+    end_time: "11:50"
+  - title: "lunch"
+    type: day1track2
+    date: 2019-05-31
+    start_time: "11:50"
+    end_time: "13:20"
+  - title: "A DevOps State of Mind: Managing Microservices + Databases with Kubernetes"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "13:20"
+    end_time: "14:10"
+    background_color: "#D9D500"
+  - title: "Double, Double, Toil and Trouble! Top SRE Practices for DevOps"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "13:20"
+    end_time: "14:10"
+  - title: "break"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "14:10"
+    end_time: "14:30"
+    background_color: "#00CC0E"
+  - title: "Moving Gov't Support Teams to SRE Practices, and Visioning to WardelyMaps"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "14:30"
+    end_time: "15:30"
+    background_color: "#D9D500"
+  - title: "Bird of a feather"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "14:30"
+    end_time: "15:30"
+  - title: "A DevOps State of Mind: Continuous Security with Kubernetes"
+    type: day2track1
+    date: 2019-05-31
+    start_time: "15:30"
+    end_time: "16:30"
+    background_color: "#D9D500" 
+  - title: "Bird of a feather"
+    type: day2track2
+    date: 2019-05-31
+    start_time: "15:30"
+    end_time: "16:30"

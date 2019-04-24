@@ -8,11 +8,15 @@ Description = "DevOpsDays Baltimore 2019"
 
 <br/>
 <br/>
-<div style="text-align:left;">
+<div style="text-align:center;">
   {{< event_logo >}}
 </div>
 <br/>
 <br/>
+<div style='float:right; padding-left:20px;'>
+  <a class="twitter-timeline" data-width="400" data-height="400" data-theme="light" href="https://twitter.com/DevOpsDaysBmore">Tweets by DevOpsDaysBmore</a>
+  <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
@@ -49,14 +53,14 @@ Description = "DevOpsDays Baltimore 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Program</strong>
+    <strong>Schedule</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the {{< event_link page="schedule" text="schedule." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">

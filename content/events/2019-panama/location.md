@@ -17,7 +17,7 @@ de ella más de 50,000 profesionales. Esta Universidad se inició con seis carre
 técnico las que pasaron a ser en la actualidad más de cuarenta carreras de estudios avanzados, veintiocho carreras de 
 licenciatura y veintiún carreras técnicas.
 
-**Dirección / Address**: Avenida Universidad Tecnológica Campus Víctor Levi Sasso, Ciudad de Panamá, Panamá.
+**Dirección**: Avenida Universidad Tecnológica Campus Víctor Levi Sasso, Ciudad de Panamá, Panamá.
  
 **Website**: http://www.utp.ac.pa
 
@@ -32,5 +32,5 @@ licenciatura y veintiún carreras técnicas.
   </div>
 </div>  
 
-**Mapa / Map**
+**Mapa**
 {{< event_map >}}
