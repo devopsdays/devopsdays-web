@@ -90,6 +90,12 @@ sponsors:
     level: bronze
   - id: insight
     level: silver
+  - id: aws
+    level: bronze
+  - id: rancher
+    level: silver
+  - id: eventbrite
+    level: bronze
   - id: redhat
     level: community
   - id: shadow-soft
@@ -97,6 +103,8 @@ sponsors:
   - id: nashdevops
     level: community
   - id: cbsinteractive
+    level: community
+  - id: ntc
     level: community
  # - id: samplesponsorname
  #   level: gold
