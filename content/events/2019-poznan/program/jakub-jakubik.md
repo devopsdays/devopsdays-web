@@ -1,6 +1,6 @@
 +++
 Title = "To serve and protect (from gophers) "
-Type = "ignite"
+Type = "talk"
 Speakers = ["jakub-jakubik"]
 +++
 

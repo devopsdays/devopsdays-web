@@ -1,6 +1,6 @@
 +++
 Title = "Do you need cap on container? - why use Helm with Kubernetes"
-Type = "ignite"
+Type = "talk"
 Speakers = ["mikolaj-niedbala"]
 +++
 

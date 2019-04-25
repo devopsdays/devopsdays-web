@@ -1,6 +1,6 @@
 +++
-Title = "Talk Abstract"
-Type = "ignite"
+Title = "ETCD debugging saga"
+Type = "talk"
 Speakers = ["przemyslaw-koltermann"]
 +++
 

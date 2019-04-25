@@ -200,26 +200,36 @@ program:
     date: 2019-05-20
     start_time: "13:00"
     end_time: "13:45"
+  - title: "Ignites"
+    type: custom
+    date: 2019-05-20
+    start_time: "13:45"
+    end_time: "14:10"
+    background_color: "#aac3a2"
   - title: "jakub-jakubik"
-    type: ignite
+    type: talk
     date: 2019-05-20
     start_time: "13:45"
     end_time: "13:50"
+    background_color: "#55d352"
   - title: "przemyslaw-koltermann"
-    type: ignite
+    type: talk
     date: 2019-05-20
     start_time: "13:50"
     end_time: "13:55"
+    background_color: "#55d352"
   - title: "philipp-krenn"
-    type: ignite
+    type: talk
     date: 2019-05-20
     start_time: "13:55"
     end_time: "14:00"
+    background_color: "#55d352"
   - title: "mikolaj-niedbala"
-    type: ignite
+    type: talk
     date: 2019-05-20
     start_time: "14:00"
     end_time: "14:05"
+    background_color: "#55d352"
   - title: "Coffee Break"
     type: custom
     date: 2019-05-20
@@ -250,4 +260,14 @@ program:
     date: 2019-05-20
     start_time: "18:00"
     end_time: "18:15"
+
+ignites:
+  - title: "jakub-jakubik"
+    date: 2019-05-20
+  - title: "przemyslaw-koltermann"
+    date: 2019-05-20
+  - title: "philipp-krenn"
+    date: 2019-05-20
+  - title: "mikolaj-niedbala"
+    date: 2019-05-20
 

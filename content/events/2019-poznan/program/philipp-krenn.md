@@ -1,6 +1,6 @@
 +++
 Title = "Hands-On ModSecurity and Logging"
-Type = "ignite"
+Type = "talk"
 Speakers = ["philipp-krenn"]
 +++
 
