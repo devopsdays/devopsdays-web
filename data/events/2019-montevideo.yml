@@ -133,6 +133,9 @@ sponsors:
     level: gold
   #  url: "http://netascom.com/" # Use this if you need to over-ride a sponsor URL.
 
+  - id: elastic
+    level: gold
+
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
@@ -160,15 +163,11 @@ sponsors:
 # ------------------------------------------------------------------------------
   #- id: at-uruguay
   #- id: arnaldocastro
-  #- id: elastic
   #- id: microsoft
   #- id: deloitte
   #- id: dlocal
   #- id: redhat
   #- id: lenovo
-  #- id: mercadolibre
-  #- id: arkano
-
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
