@@ -59,34 +59,33 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
       <td></td>
       <td><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20DIAMOND%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
       <td>
-        <!-- platinum Paypal button 
+        <!-- platinum Paypal button --> 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <input type="hidden" name="hosted_button_id" value="GNR4HVH2BR4UA">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>  -->
-        <!-- 
-        <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019">Contact us</a> -->
+        </form>
+        <!-- <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019">Contact us</a> -->
       </td>
       <td>
-        <!-- gold Paypal button  
+        <!-- gold Paypal button -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="LUSEMWLZ7MKKW">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <input type="hidden" name="hosted_button_id" value="QGEFGDR6XFRP2">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
+        </form>
         <!-- <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20dDallas%202019">Contact us</a> -->
       </td>
       <td>
-        <!-- silver Paypal button  
+        <!-- silver Paypal button -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="DDXAP9S3324DC">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <input type="hidden" name="hosted_button_id" value="MCC6ADNWPHTGC">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form> -->
+        </form> 
       </td>
       <td><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
       <td><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
