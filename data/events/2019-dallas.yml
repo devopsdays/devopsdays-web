@@ -2,7 +2,7 @@ name: "2019-dallas" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row will be back again another year in 2019 planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex." # Edit this to suit your preferences
+description: <div style="font-weight:bold;color:#ffffff;text-align:left;vertical-align:top;vertical-align:middle">"<i>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row will be back again another year in 2019 planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</i>"</div> # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -204,6 +204,18 @@ sponsors:
 #  level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: media
+  - id: devopslive
+    level: community
+  - id: addo-2019
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
+    level: community
+  - id: dfwpug
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -213,20 +225,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: location_and_diamond
-    label: Location & Diamond
+  - id: diamond
+    label: Diamond
     max: 1
-  - id: leadership
-    label: Leadership Summit
-  - id: b4con
-    label: B4CON
-    max: 20
-# - id: gold
-#   label: Gold
-#   max: 10
-# - id: silver
-#   label: Silver
-#   max: 10
+  - id: platinum
+    label: Platinum
+    max: 10
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
 # - id: workshop
 #   label: Workshop
 #   max: 3
@@ -235,9 +245,10 @@ sponsor_levels:
 #   max: 0 # This is the same as omitting the max limit.
   - id: media
     label: Media
+    max: 5
   - id: community
     label: Community
-    max: 5
+    max: 10
 
 program:
   - title: "Registration, and Breakfast"
