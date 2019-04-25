@@ -186,6 +186,8 @@ sponsors:
   - id: aws
     level: silver
     url: https://aws.amazon.com/
+  - id: jeffersonfrank
+    level: silver
   - id: f5
     level: mealandsnack
   - id: signalfx
