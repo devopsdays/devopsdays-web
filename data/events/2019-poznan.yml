@@ -180,17 +180,17 @@ program:
     date: 2019-05-20
     start_time: "11:00"
     end_time: "11:15"
-  - title: "talk"
+  - title: "julia-syczewa"
     type: talk
     date: 2019-05-20
     start_time: "11:15"
     end_time: "11:45"
-  - title: "talk"
+  - title: "wolfram-kriesing"
     type: talk
     date: 2019-05-20
     start_time: "11:50"
     end_time: "12:20"
-  - title: "talk"
+  - title: "marcin-lepiarczyk-piotr-kruk"
     type: talk
     date: 2019-05-20
     start_time: "12:25"
@@ -200,22 +200,42 @@ program:
     date: 2019-05-20
     start_time: "13:00"
     end_time: "13:45"
-  - title: "Ignites"
+  - title: "jakub-jakubik"
     type: ignite
     date: 2019-05-20
     start_time: "13:45"
-    end_time: "14:10"
-  - title: "talk"
+    end_time: "13:50"
+  - title: "przemyslaw-koltermann"
+    type: ignite
+    date: 2019-05-20
+    start_time: "13:50"
+    end_time: "13:55"
+  - title: "philipp-krenn"
+    type: ignite
+    date: 2019-05-20
+    start_time: "13:55"
+    end_time: "14:00"
+  - title: "mikolaj-niedbala"
+    type: ignite
+    date: 2019-05-20
+    start_time: "14:00"
+    end_time: "14:05"
+  - title: "Coffee Break"
+    type: custom
+    date: 2019-05-20
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "michal-el-fartas"
     type: talk
     date: 2019-05-20
     start_time: "14:20"
     end_time: "14:50"
-  - title: "talk"
+  - title: "michal-rostecki"
     type: talk
     date: 2019-05-20
     start_time: "14:55"
     end_time: "15:25"
-  - title: "talk"
+  - title: "miroslaw-nagas"
     type: talk
     date: 2019-05-20
     start_time: "15:30"
