@@ -126,6 +126,8 @@ sponsors:
       level: silver
     - id: signalfx
       level: silver
+    - id: fidelity
+      level: silver
     - id: accenture
       level: lanyard
   #- id: arresteddevops
