@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How Gitlab Communicates Incidents"
+Title = "Communication in an Open Company"
 Type = "talk"
 Speakers = ["eric-hendricks"]
 +++
