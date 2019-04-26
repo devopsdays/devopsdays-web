@@ -20,11 +20,11 @@ cfp_date_announce:  # inform proposers of status
 
 cfp_link: "https://devopsdayshfd.org/cfp" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-04-26T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-03T00:00:00-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayshfd.org/registration" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
