@@ -180,17 +180,17 @@ program:
     date: 2019-05-20
     start_time: "11:00"
     end_time: "11:15"
-  - title: "talk"
+  - title: "julia-syczewa"
     type: talk
     date: 2019-05-20
     start_time: "11:15"
     end_time: "11:45"
-  - title: "talk"
+  - title: "wolfram-kriesing"
     type: talk
     date: 2019-05-20
     start_time: "11:50"
     end_time: "12:20"
-  - title: "talk"
+  - title: "marcin-lepiarczyk-piotr-kruk"
     type: talk
     date: 2019-05-20
     start_time: "12:25"
@@ -201,21 +201,51 @@ program:
     start_time: "13:00"
     end_time: "13:45"
   - title: "Ignites"
-    type: ignite
+    type: custom
     date: 2019-05-20
     start_time: "13:45"
     end_time: "14:10"
-  - title: "talk"
+    background_color: "#aac3a2"
+  - title: "jakub-jakubik"
+    type: talk
+    date: 2019-05-20
+    start_time: "13:45"
+    end_time: "13:50"
+    background_color: "#55d352"
+  - title: "przemyslaw-koltermann"
+    type: talk
+    date: 2019-05-20
+    start_time: "13:50"
+    end_time: "13:55"
+    background_color: "#55d352"
+  - title: "philipp-krenn"
+    type: talk
+    date: 2019-05-20
+    start_time: "13:55"
+    end_time: "14:00"
+    background_color: "#55d352"
+  - title: "mikolaj-niedbala"
+    type: talk
+    date: 2019-05-20
+    start_time: "14:00"
+    end_time: "14:05"
+    background_color: "#55d352"
+  - title: "Coffee Break"
+    type: custom
+    date: 2019-05-20
+    start_time: "14:10"
+    end_time: "14:20"
+  - title: "michal-el-fartas"
     type: talk
     date: 2019-05-20
     start_time: "14:20"
     end_time: "14:50"
-  - title: "talk"
+  - title: "michal-rostecki"
     type: talk
     date: 2019-05-20
     start_time: "14:55"
     end_time: "15:25"
-  - title: "talk"
+  - title: "miroslaw-nagas"
     type: talk
     date: 2019-05-20
     start_time: "15:30"
@@ -230,4 +260,14 @@ program:
     date: 2019-05-20
     start_time: "18:00"
     end_time: "18:15"
+
+ignites:
+  - title: "jakub-jakubik"
+    date: 2019-05-20
+  - title: "przemyslaw-koltermann"
+    date: 2019-05-20
+  - title: "philipp-krenn"
+    date: 2019-05-20
+  - title: "mikolaj-niedbala"
+    date: 2019-05-20
 

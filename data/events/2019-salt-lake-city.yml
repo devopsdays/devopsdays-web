@@ -80,6 +80,7 @@ team_members: # Name is the only required field for team members.
       linkedin: "http://www.linkedin.com/in/brett-palmer-161177"
       image: "brett-palmer.png"
     - name: "Maria Bates"
+      employer: "Fidelity Investments"
       linkedin: "http://linkedin.com/in/mesbates"
     - name: "Barry McCormick"
       employer: "Digital Harbor"
@@ -106,11 +107,15 @@ proposal_email: "proposals-salt-lake-city-2019@devopsdays.org"
 sponsors:
     - id: accela
       level: gold
+    - id: appdynamics
+      level: gold
     - id: chef
       level: gold
     - id: codefresh
       level: gold
     - id: dynatrace
+      level: gold
+    - id: gitlab
       level: gold
     - id: influxdata
       level: gold
@@ -122,14 +127,14 @@ sponsors:
       level: gold
     - id: sonatype
       level: gold
+    - id: splunk
+      level: gold
     - id: circleci
-      level: silver
-    - id: signalfx
       level: silver
     - id: fidelitycareers
       level: silver
-    - id: accenture
-      level: lanyard
+    - id: signalfx
+      level: silver
   #- id: arresteddevops
   #  level: community
   #  url: "https://www.sponsorsurl.com/" # Use this if you need to over-ride a sponsor URL.
@@ -156,16 +161,16 @@ sponsor_levels:
   - id: community
     label: Community
 
-program:
-  # Day 1
-  - title: "Day 1: To be announced."
-    type: custom
-    date: "2019-05-14"
-    start_time: "08:00"
-    end_time: "18:00"
-  # Day 2
-  - title: "Day 2: To be announced."
-    type: custom
-    date: "2019-05-15"
-    start_time: "08:00"
-    end_time: "18:00"
+# program:
+#   # Day 1
+#   - title: "Day 1: To be announced."
+#     type: custom
+#     date: "2019-05-14"
+#     start_time: "08:00"
+#     end_time: "18:00"
+#   # Day 2
+#   - title: "Day 2: To be announced."
+#     type: custom
+#     date: "2019-05-15"
+#     start_time: "08:00"
+#     end_time: "18:00"
