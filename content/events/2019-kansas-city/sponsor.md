@@ -2,17 +2,41 @@
 Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays kansas city 2019"
+
+
 +++
+
+<div class = "row">
+<div class = "col-md-8 col-sm-12">
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+
 <hr>
-devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during and after the event. Sponsors are encouraged to represent themselves by actively participating and engaging with the attendees as peers. Any attendee also has the opportunity to demo products/projects as part of an open space session.
+DevOpsDays is a self-organizing conference for practitioners that
+depends on sponsorships. We do not have large vendor booths or sell product
+presentations. Sponsors have the opportunity to have short elevator
+pitches during the program and will get recognition on the website
+and social media before, during and after the event. Sponsors are
+encouraged to represent themselves by actively participating and
+engaging with the attendees as peers. Any attendee also has the
+opportunity to demo products/projects as part of an open space
+session, but this is not 'that kind of conference' and heavy
+marketing will probably work against you when trying to make a good
+impression on the attendees.
+<br><br>
+The best thing to do is send engineers to interact with the experts at
+DevOpsDays on their own terms.
+<br><br>
 <p>
-Premium sponsors get a full table where they can interact with those interested to come visit during breaks. All attendees are welcome to propose any subject they want during the open spaces, but this is a community-focused conference, so heavy marketing will probably work against you when trying to make a good impression on the attendees.
-<p>
-The best thing to do is send engineers to interact with the experts at devopsdays on their own terms.
-<p>
-Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
+Premium sponsors get a full table where they can interact with those interested
+to come visit during breaks. All attendees are welcome to propose any subject
+they want during the open spaces, but this is a community-focused conference,
+so heavy marketing will probably work against you when trying to make a good
+impression on the attendees.
+
+Sponsors are responsible for providing high-res logos for use on the website and
+in promotional materials. The preferred file formats are EPS or AI.
 <hr/>
+<h2>Special Sponsorships</h2>
 <div class = "row">
 <div class = "col-sm-12">
   <table class = "table table-bordered table-responsive">
@@ -97,11 +121,67 @@ Sponsors are responsible for providing high-res logos for use on the website and
     </tbody>
   </table>
   <i><small>*Returning sponsors get a $1,000 discount</small></i>
-  <br/>
-  <br/>
-  <hr/>
-  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, wifi, etc. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:organizers-kansascity-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">send us an email</a>.
-  <br/>
+
+<h2>Special Sponsorships</h2>
+
+All special sponsors will have their logo displayed on the DevOpsDays Kansas City website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsors-chicago-2019@devopsdays.org">sponsors-chicago-2019@devopsdays.org</a>.
+<br/><br/>
+
+<table class = "table table-bordered table-responsive">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+      <th scope="col">Tickets Included</th>
+      <th scope="col">Number Available</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Breakfast</td>
+      <td>$1,500</td>
+      <td>Your logo on buffet lines and a dedicated space in buffet area from morning to lunch.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
+      <td>Lunch</td>
+      <td>$1,500</td>
+      <td>Your logo on buffet lines and a dedicated space in buffet area from lunch to evening.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
+      <td>All-day coffee</td>
+      <td>$1,500</td>
+      <td>Your logo stamped on coffee sleeves.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
+      <td>Lanyard</td>
+      <td>$4,000</td>
+      <td>Your logo and company colors. Typically provided by the sponsoring company.</td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-music fa-4x"></i></td>
+      <td>Evening Event</td>
+      <td>$4,000</td>
+      <td>Pay for drinks, food, and entertainment - get an exclusive space for the night.</td>
+      <td>4</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 <br>
 <br>
