@@ -87,8 +87,8 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form> 
       </td>
-      <td><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
-      <td><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
+      <td><a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
+      <td><a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
     </tr>
     <tr>
       <td>Tickets Included</td>
@@ -190,7 +190,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
 
 <h2>À La Carte Sponsorships</h2>
 
-All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20À%20La%20Carte%20Sponsoring%20DevOpsDays%20Dallas%202019">sponsors-dallas-2019@devopsdays.org</a>.
+All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20À%20La%20Carte%20Sponsoring%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
 <br/><br/>
 
 <table class="table table-bordered table-hover">
@@ -207,45 +207,78 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
   <tbody>
     <tr>
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
-      <td>Evening Event</td>
-      <td>$15,000</td>
-      <td>Pay for drinks, food and entertainment - get an exclusive space for the night. Can be split by two sponsors</td>
-      <td>4</td>
+      <td>Happy Hour</td>
+      <td>$6,000</td>
+      <td>Happy Hour will be held both evenings of the event. All conference attendees will be invited to a happy hour. The Happy Hour sponsorship includes some special perks not listed in the table above.
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
+      <td>2</td>
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-wifi fa-4x"></i></td>
-      <td>Wifi</td>
-      <td>$1,500</td>
-      <td>Custom network name and password</td>
-      <td>0</td>
+      <td align="center"><img src = "/events/2019-dallas/fa-backpack.png"></td>
+      <td>Backpack</td>
+      <td>$6,000</td>
+      <td>
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>The purchase of backpacks is included in the price.</li></td>
+      <td>1</td>
       <td>1</td>
     </tr>
-    <tr>
-      <td align="center"><i class="fa fa-pencil-square-o fa-4x"></i></td>
-      <td>Live Transcription</td>
-      <td>$2,000</td>
-      <td>Shout-out during opening remarks</td>
+        <tr>
+      <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
+      <td>Coffee Bar</td>
+      <td>$4,000</td>
+      <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding recognizing the sponsorship of the Happy Hour.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
       <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td align="center"><i class="fa fa-video-camera fa-4x"></i></td>
-      <td>Video</td>
-      <td>$7,000</td>
-      <td>Your logo on each video recording</td>
       <td>2</td>
-      <td>1</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
       <td>Lanyard</td>
-      <td>$4,500</td>
-      <td>Your logo and company colors</td>
-      <td>2</td>
+      <td>$3,000</td>
+      <td>
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>
+      <td>1</td>
       <td>1</td>
     </tr>
     <tr>
+      <td align="center"><i class="fa fa-plug fa-4x"></i></td>
+      <td>Bring Your Own Charging Station</td>
+      <td>$1,000</td>
+      <td>A vendor may provide their own mobile device charging stations with company logos to place in the lounge area during the event.
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each charging station deployed.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Charging stations are not provided and not included in the price.</li></td>
+      <td>0</td>
+      <td>5</td>
+    </tr>
+<!--  <tr>
       <td align="center"><i class="fa fa-car fa-4x"></i></td>
       <td>Transportation</td>
       <td>$3,000</td>
@@ -268,7 +301,7 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
       <td>Provide tickets for under-indexed groups to attend</td>
       <td>5</td>
       <td></td>
-    </tr>
+    </tr>  -->
   </tbody>
 </table>
 
@@ -276,9 +309,22 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
 <div class = "col-12">
   <br/>
   <br/>
-  Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
-  <br/><br/>
-  <b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
+<h2>Refund Policy</h2>
+We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
+<br><br>
+<h4>Diamond level and à la carte sponsorships</h4>
+ <li><i class="fa-li fa fa-check-square"></i>No refunds are available for Diamond sponsorships or à la carte sponsorships.</li>
+ <br>
+<h4>All other sponsorship levels</h4>
+ <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2019 - 80% refund is available.</li>
+ <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2019 - 75% refund is available.</li>
+ <li><i class="fa-li fa fa-check-square"></i>After August 1, 2019 - No refund is available.</li>
+ <br>
+Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
+
+Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
+<br/><br/>
+<b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
 <br><br>
 </div>
 </div>
