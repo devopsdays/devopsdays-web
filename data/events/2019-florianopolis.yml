@@ -129,6 +129,8 @@ proposal_email: "proposals-floripa-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: softplan
     level: platinum
+  - id: neoway
+    level: platinum
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -140,7 +142,7 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 1
+    max: 2
   - id: gold
     label: Gold
     max: 2
