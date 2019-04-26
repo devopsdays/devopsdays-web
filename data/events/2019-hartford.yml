@@ -35,7 +35,7 @@ location_address: "32 Front St. Hartford, CT 06103" #Optional - use the street a
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
  # - name: program
  # - name: speakers
   - name: sponsor
