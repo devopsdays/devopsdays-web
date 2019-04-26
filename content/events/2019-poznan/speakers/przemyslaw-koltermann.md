@@ -1,7 +1,7 @@
 +++
 Title = "Przemyslaw Koltermann"
 #Twitter = ""
-image = "przemyslaw-kolterman.png"
+image = "przemyslaw-koltermann.png"
 type = "speaker"
 linktitle = "przemyslaw-koltermann"
 +++
