@@ -137,11 +137,11 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
     </tr>
     <tr>
-      <td colspan="2">Discount code to share with your community</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>(50)tickets@20%</strong></td>
-      <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10)tickets@10%</strong></td>
-      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10)tickets@10%</strong></td>
-      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10)tickets@10%</strong></td>
+      <td colspan="2">20% Discount code to share with your community</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>(50) tickets</strong></td>
+      <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
     </tr>
     <tr>
       <td colspan="2">Logo on participant emails</td>
