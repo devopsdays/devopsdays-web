@@ -151,5 +151,5 @@ sponsor_levels:
     label: Lunch
     max: 2
   - id: party
-    label: Reception Party Sponsor
+    label: Reception Party
     max: 1
