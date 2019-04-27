@@ -183,7 +183,18 @@ sponsors:
     level: gold
   - id: cyberark
     level: silver
+  - id: aws
+    level: silver
+    url: https://aws.amazon.com/
+  - id: jeffersonfrank
+    level: silver
   - id: f5
+    level: mealandsnack
+  - id: signalfx
+    level: mealandsnack
+  - id: gravitational
+    level: mealandsnack
+  - id: rundeck
     level: mealandsnack
   - id: devopsdotcom
     level: media

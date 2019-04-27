@@ -169,7 +169,7 @@ program:
     date: 2019-05-02
     start_time: "11:00"
     end_time: "11:15"
-  - title: "jason-yee"
+  - title: "dustin-thostenson-skylar-watson"
     type: talk
     date: 2019-05-02
     start_time: "11:15"
@@ -189,7 +189,7 @@ program:
     date: 2019-05-02
     start_time: "13:00"
     end_time: "13:30"
-  - title: "christopher-hunt"
+  - title: "martin-schildroth"
     type: talk
     date: 2019-05-02
     start_time: "13:30"
@@ -199,12 +199,12 @@ program:
     date: 2019-05-02
     start_time: "14:30"
     end_time: "14:45"
-  - title: "brian-hostetter"
+  - title: "jason-yee"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
     end_time: "15:30"
-  - title: "james-young"
+  - title: "eric-hendricks"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
@@ -250,7 +250,7 @@ program:
     date: 2019-05-03
     start_time: "11:00"
     end_time: "11:15"
-  - title: "eric-hendricks"
+  - title: "stephen-wilson"
     type: talk
     date: 2019-05-03
     start_time: "11:15"
@@ -270,7 +270,7 @@ program:
     date: 2019-05-03
     start_time: "13:00"
     end_time: "13:30"
-  - title: "martin-schildroth"
+  - title: "christopher-hunt"
     type: talk
     date: 2019-05-03
     start_time: "13:30"
@@ -280,12 +280,12 @@ program:
     date: 2019-05-03
     start_time: "14:30"
     end_time: "14:45"
-  - title: "stephen-wilson"
+  - title: "james-young"
     type: talk
     date: 2019-05-03
     start_time: "14:45"
     end_time: "15:30"
-  - title: "dustin-thostenson-skylar-watson"
+  - title: "brian-hostetter"
     type: talk
     date: 2019-05-03
     start_time: "14:45"

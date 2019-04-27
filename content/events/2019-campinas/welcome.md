@@ -8,7 +8,7 @@ Description = "DevOpsDays Campinas 2019"
 <div class = "row">
   <div class="col-md-6">
     <div style="text-align:center;">
-      <img alt="devopsdays Campinas 2019" src="/events/2019-campinas/logo-horizontal.png" class="welcome-page-event-logo">
+      <img alt="devopsdays Campinas 2019" src="/events/2019-campinas/dod-cps.jpg" class="welcome-page-event-logo">
     </div>
   </div>
   <div class="col-md-6">

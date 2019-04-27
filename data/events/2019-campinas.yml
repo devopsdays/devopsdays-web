@@ -18,6 +18,8 @@ cfp_date_announce: 2019-10-01T23:59:00-03:00 # inform proposers of status
 cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdays-campinas-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
+masthead_background: "dod-cps-horizontal.jpg"
+
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
@@ -44,9 +46,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   # - name: Local
   #   icon: "map-o"
   #   url: /events/2019-campinas/location
-  # - name: Palestre (CFP)
-  #   icon: "user-plus"
-  #   url: "https://papercall.io/devopsdayscampinas"
+  - name: Palestre (CFP)
+    icon: "user-plus"
+    url: "https://www.papercall.io/devopsdays-campinas-2019"
   - name: Conduta
     icon: "handshake-o"
     url: /events/2019-campinas/conduta

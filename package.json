@@ -36,5 +36,8 @@
     "gulp-util": "~3.0.8",
     "gulp-watch": "~5.0.1",
     "require-dir": "~1.2.0"
+  },
+  "dependencies": {
+    "netlify-cli": "^2.11.10"
   }
 }
