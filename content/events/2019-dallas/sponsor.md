@@ -164,6 +164,13 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td colspan="2">Two (2) VIP backstage passes <strong>($1,000 value)</strong></td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 <br/>
