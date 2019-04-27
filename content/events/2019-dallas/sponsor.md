@@ -10,54 +10,49 @@ description = "Interested in sponsoring DevOpsDays Dallas 2019? We greatly value
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
 <br>
-We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our <a href="https://assets.devopsdays.org/events/2019/dallas/2019-dallas-devopsdays-prospectus.pdf" target="_blank">prospectus</a> or <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019">send us an email</a>.
+We greatly value sponsors for this community event. If you are interested in sponsoring, please check out our prospectus below. If you need a hard copy with more details, click here to <a href="https://assets.devopsdays.org/events/2019/dallas/DevOpsDaysDallas2019Sponsorships.pdf" target="_blank"><strong>download PDF</strong></a> or <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019"><strong>send us an email</strong></a>.
 
 <hr>
 
-DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers. 
+DevOpsDays is a self-organizing conference for DevOps practitioners that depends on your sponsorships. We do not have a traditional trade show conference floor, sell product presentations, or distribute attendee contact lists. Sponsors have the opportunity to have short elevator pitches during the program and will get recognition on the website and social media before, during, and after the event. Sponsors are encouraged to participate and engage with the attendees as peers.
 <br><br>
 Any attendee also has the opportunity to demonstrate products or projects as part of any of the Open Space sessions.  Platinum sponsors will also have access to a dedicated demo room to provide hands-on demos to individuals or small groups.  Be sure to send technical practitioners to interact with customers and peers at DevOpsDays on their own terms.
 <br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br><br>
-Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a> with any questions you may have about sponsoring the event.
+Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019"><strong>organizers-dallas-2019@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
 <br><br>
 <h2>Sponsorship Packages</h2>
 
 <table class="table table-bordered table-hover">
   <thead>
     <tr>
-      <th scope="col">THE GOODS</th>
-      <th scope="col">DIAMOND</th>
+      <th scope="col" colspan="2">THE GOODS</th>
+      <th scope="col" colspan="2">DIAMOND</th>
       <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
       <th scope="col">SILVER</th>
-      <th scope="col">MEDIAS</th>
-      <th scope="col">COMMUNITY</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Price</td>
-      <td>$45,000</td>
+      <td colspan="2">Price</td>
+      <td colspan="2">$45,000</td>
       <td>$12,000</td>
       <td>$8,000</td>
       <td>$4,000</td>
-      <td>Free</td>
-      <td>Free</td>
     </tr>
     <tr>
-      <td></td>
+      <td colspan="2"></td>
       <td colspan="5"><small>
       Note: PayPal payments include 3% service charge.
       <br>
       <a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=DevOpsDays%20Dallas%202019%20Sponsorship">Email us</a> if you prefer to pay by check
       </small></td>
-      <td></td>
     </tr>
     <tr>
-      <td></td>
-      <td><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20DIAMOND%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
+      <td colspan="2"></td>
+      <td colspan="2"><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20DIAMOND%20Sponsorship%20DevOpsDays%20Dallas%202019"><strong>CONTACT US</strong></a><br><strong>*Only One (1)*</strong><br>first come, first serve<br><strong>*Exp: May 25th*</strong></td>
       <td>
         <!-- platinum Paypal button --> 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -87,106 +82,133 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form> 
       </td>
-      <td><a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
-      <td><a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">Contact us</a></td>
-    </tr>
     <tr>
-      <td>Tickets Included</td>
-      <td>25</td>
+      <td colspan="2">Tickets Included</td>
+      <td colspan="2">25</td>
       <td>4</td>
       <td>2</td>
       <td>1</td>      
-      <td>1</td>
-      <td>1</td>
     </tr>
     <tr>
-      <td>Logo on DevOpsDays Dallas website</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2">Logo on DevOpsDays Dallas 2019 event website</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
     <tr>
-      <td>Social media shout-out</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2">Social Media recognition on Twitter, LinkedIn, Facebook, amoung others.</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
     <tr>
-      <td>Logo on marketing materials</td>
+      <td colspan="2">Shout-out from MC's at kickoff and again at breaks</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
+    </tr>
+      <td colspan="2">Logo on displayed in sponsor area & Social Networking Event</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td><img src = "/events/2019-dallas/boot.png"></td>
+      <td><img src = "/events/2019-dallas/boot.png"></td>
+      <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
     <tr>
-      <td>Logo on slides at breaks</td>
+      <td colspan="2">Dedicated table for swag/marketing/staffing</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Logo on participant emails</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Booth space in sponsor area (with chair)</td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/half-boot.png"></td>
+    </tr>
+    <tr>
+      <td colspan="2">Logo on a slide, rotating during breaks</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><br><strong>DEDICATED</strong></td>
+      <td><img src = "/events/2019-dallas/boot.png"><br><strong>DEDICATED</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><br><strong>shared</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><br><strong>shared</strong></td>
+    </tr>
+      <td colspan="2">Pitch to full audience, including streaming audience <br>(provided we are able to stream the videos)</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>5-minute</strong></td>
+      <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">Discount code to share with your community</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>(50)tickets@20%</strong></td>
+      <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10)tickets@10%</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10)tickets@10%</strong></td>
+      <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10)tickets@10%</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">Logo on participant emails</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td><img src = "/events/2019-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Logo on banner in sponsor area</td>
+      <td colspan="2">Dedicated demo room for customer presentations, workshops, etc.</td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Logo on banner at evening event</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Shout-out from MC's at kickoff and again at breaks</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dedicated logo slide during breaks</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Dedicated sponsor booth in sponsor area (with chair)</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>One-minute pitch between talks (includes live-stream audience)</td>
-      <td><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2">Five (5) minute greeting and introduction during the <strong>opening session each day</strong></td>
+      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
   </tbody>
 </table>
+<br/>
+<h2>Media / Community Sponsorships</h2>
+
+All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Media20or%20Community%20Sponsoring%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
+<br><br>
+<table class="table table-bordered table-hover">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Sponsorship</th>
+      <th scope="col">Price</th>
+      <th scope="col">Description</th>
+      <th scope="col">Number Available</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><i class="fa fa-microphone fa-4x"></i></td>
+      <td>Media</td>
+      <td>$0.00</td>
+      <td>The media sponsorship is ideal for podcasts, blogs, news outlets, and other media who support DevOps. This sponsorship is free but we ask that you share information about DevOpsDays Dallas with your audience in order to become a Media Sponsor.
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
+            <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2019 event website.</li>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td align="center"><i class="fa fa-handshake-o fa-4x"></td>
+      <td>Community</td>
+      <td>$0.00</td>
+      <td>The community sponsorship is ideal for local meetups, co-working spaces, and other non-commercial communities who support DevOps. This sponsorship is free, but we ask that you share information about DevOpsDays Dallas 2019 with your members in order to become a Community Sponsor.
+          <ul class="fa-ul">
+            <li><i class="fa-li fa fa-check-square"></i>One (1) ticket included.</li>
+            <li><i class="fa-li fa fa-check-square"></i>10% discount code for ten (10) tickets to share with your audience.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo on a shared slide, rotating during breaks.</li>
+            <li><i class="fa-li fa fa-check-square"></i>Logo on the DevOpsDays Dallas 2019 event website.</li>
+      <td>10</td>
+    </tr>
+  </tbody>
+</table>
+<br/><br/>
 
 <h2>À La Carte Sponsorships</h2>
 
@@ -200,7 +222,6 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
       <th scope="col">Sponsorship</th>
       <th scope="col">Price</th>
       <th scope="col">Description</th>
-      <th scope="col">Tickets Included</th>
       <th scope="col">Number Available</th>
     </tr>
   </thead>
@@ -218,7 +239,6 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
       <td>2</td>
-      <td>2</td>
     </tr>
     <tr>
       <td align="center"><img src = "/events/2019-dallas/fa-backpack.png"></td>
@@ -231,7 +251,6 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>The purchase of backpacks is included in the price.</li></td>
-      <td>1</td>
       <td>1</td>
     </tr>
         <tr>
@@ -247,7 +266,6 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
       <td>2</td>
-      <td>2</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
@@ -259,9 +277,7 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
             <li><i class="fa-li fa fa-check-square"></i>Logo and branding will be placed on the conference backpacks that are provided to all attendees.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
-            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>
-      <td>1</td>
-      <td>1</td>
+            <li><i class="fa-li fa fa-check-square"></i>The purchase of lanyards is included in the price.</li></td>      <td>1</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-plug fa-4x"></i></td>
@@ -275,7 +291,6 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>Charging stations are not provided and not included in the price.</li></td>
-      <td>0</td>
       <td>5</td>
     </tr>
 <!--  <tr>
@@ -304,32 +319,20 @@ All À La Carte sponsors will have their logo displayed on the DevOpsDays Dallas
     </tr>  -->
   </tbody>
 </table>
-
-<div class = "row">
-<div class = "col-12">
-  <br/>
   <br/>
 <h2>Refund Policy</h2>
 We are excited to have you sponsor our event. We also understand that there are sometimes circumstances that may cause you to need to withdraw that sponsorship. Refunds for sponsorships are available according to the following schedule:
 <br><br>
-<h4>Diamond level and à la carte sponsorships</h4>
- <li><i class="fa-li fa fa-check-square"></i>No refunds are available for Diamond sponsorships or à la carte sponsorships.</li>
+<h4>Diamond level and À La Carte sponsorships</h4>
+ <li><i class="fa-li fa fa-check-square"></i>No refunds are available for Diamond sponsorships or À La Carte sponsorships.</li>
  <br>
 <h4>All other sponsorship levels</h4>
  <li><i class="fa-li fa fa-check-square"></i>Before June 1, 2019 - 80% refund is available.</li>
  <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2019 - 75% refund is available.</li>
  <li><i class="fa-li fa fa-check-square"></i>After August 1, 2019 - No refund is available.</li>
- <br>
+<br>
 Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
-
-Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
-<br/><br/>
-<b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
 <br><br>
-</div>
-</div>
-</div>
-<!-- <div class = "col-md-4 col-sm-12">
-<a href = "https://assets.devopsdays.org/events/2019/dallas/2019-dallas-devopsdays-prospectus.pdf" target="_blank"><img src = "/events/2019-dallas/DOD_DFW_Prospectus_2019.jpg" class="img-fluid""></a> -->
-</div>
-</div>
+Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
+<br><br>
+<b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
