@@ -126,6 +126,10 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
+  - id: td-bank
+    level: platinum
+  - id: td-bank
+    level: party
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -149,3 +153,6 @@ sponsor_levels:
   - id: lunch
     label: Lunch
     max: 2
+  - id: party
+    label: Reception Party Sponsor
+    max: 1
