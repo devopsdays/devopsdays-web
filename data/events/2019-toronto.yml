@@ -144,9 +144,6 @@ sponsor_levels:
   - id: gold
     label: Gold
     max: 25
-  - id: silver
-    label: Silver
-    max: 10
   - id: lanyard
     label: Lanyard
     max: 1
