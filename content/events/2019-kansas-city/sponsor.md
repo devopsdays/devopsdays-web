@@ -8,7 +8,7 @@ Description = "Sponsor devopsdays kansas city 2019"
 
 <div class = "row">
 <div class = "col-md-8 col-sm-12">
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this open event.  If you are interested in sponsoring, please check out our <a href="/events/2019-kansas-city/2019-kansas-city-prospectus.pdf">prospectus</a> and drop us an email at [{{< email_organizers >}}].
 
 <hr>
 DevOpsDays is a self-organizing conference for practitioners that
@@ -202,3 +202,12 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
 </table>
 </div>
 -->
+</div>
+</div>
+</div>
+<div class = "col-md-4 col-sm-12">
+<a href = "/events/2019-kansas-city/2019-kansas-city-prospectus.pdf"><img src = "/events/2019-kansas-city/2019-kansas-city-prospectus.png" class="img-fluid""></a>
+</div>
+</div>
+
+<hr/>
