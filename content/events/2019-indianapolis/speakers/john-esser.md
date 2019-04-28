@@ -5,6 +5,7 @@ image = "john-esser.png"
 type = "speaker"
 linktitle = "john-esser"
 website = "http://www.veracitysolutions.com"
+Linkedin = "https://www.linkedin.com/in/johnesser/"
 
 +++
 

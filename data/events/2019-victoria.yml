@@ -121,7 +121,7 @@ program:
     start_time: "09:15"
     end_time: "10:00"
     background_color: "#D9D500"
-  - title: "Bird of a feather"
+  - title: "Was a Tester and Woke Up to DevOps! Let's 'Pipe' This Line"
     type: day1track2
     date: 2019-05-30
     start_time: "09:15"
@@ -183,7 +183,7 @@ program:
     start_time: "14:30"
     end_time: "15:30"
     background_color: "#D9D500"
-  - title: "Was a Tester and Woke Up to DevOps! Let's 'Pipe' This Line"
+  - title: "Bird of a feather"
     type: day1track2
     date: 2019-05-30
     start_time: "14:30"
@@ -249,6 +249,7 @@ program:
     date: 2019-05-31
     start_time: "11:50"
     end_time: "13:20"
+    background_color: "#00CC0E"
   - title: "A DevOps State of Mind: Managing Microservices + Databases with Kubernetes"
     type: day2track1
     date: 2019-05-31
