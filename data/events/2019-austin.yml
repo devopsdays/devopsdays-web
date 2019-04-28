@@ -181,6 +181,8 @@ sponsors:
     level: gold
   - id: roguewave
     level: gold
+  - id: googlecloud
+    level: gold
   - id: cyberark
     level: silver
   - id: aws
