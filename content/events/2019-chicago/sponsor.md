@@ -249,9 +249,9 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
     </tr>
     <tr>
       <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
-      <td>Meals & Snack</td>
+      <td>Lunch</td>
       <td>$6,000</td>
-      <td>Your logo on buffet lines and a dedicated space in lunch area</td>
+      <td>Sponsor 1 day of lunch and get a 1min pitch just before lunch</td>
       <td>6</td>
       <td>2</td>
     </tr>
