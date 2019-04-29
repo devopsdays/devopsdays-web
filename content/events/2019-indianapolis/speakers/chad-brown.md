@@ -1,7 +1,7 @@
 +++
 Title = "Chad Brown"
 Twitter = "chadsbrown"
-image = ""
+image = "chad-brown.png"
 type = "speaker"
 linktitle = "chad-brown"
 

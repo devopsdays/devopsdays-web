@@ -7,6 +7,6 @@ linktitle = "allie-richards"
 
 +++
 
-Allie has been working in infrastructure and operations for 18 years and
-is still excited by it! If you speak to her for more than a few minutes,
-she will most likely show you pictures of her three cats.
+After two decades in Ops, Allie has developed a certain sense of humor
+about all of it. She lives in Chicago with her husband and a veritable
+clowder of the cutest cats you've ever seen.

@@ -1,7 +1,7 @@
 +++
 Title = "Prabhu Barathi"
 Twitter = "prabhu_b"
-image = ""
+image = "prabhu-barathi.png"
 type = "speaker"
 linktitle = "prabhu-barathi"
 
