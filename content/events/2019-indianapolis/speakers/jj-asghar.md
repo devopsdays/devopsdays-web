@@ -4,6 +4,10 @@ Twitter = "jjasghar"
 image = "jj-asghar.png"
 type = "speaker"
 linktitle = "jj-asghar"
+Website = "https://jjasghar.github.io"
+Linkedin = "https://www.linkedin.com/in/jjasghar/"
+Pronouns = "he/him"
+Github = "jjasghar"
 
 +++
 
