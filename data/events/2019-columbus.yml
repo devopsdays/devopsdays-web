@@ -19,14 +19,14 @@ cfp_date_start: 2019-04-14T00:00:00-04:00 # start accepting talk proposals.
 cfp_date_end: 2019-07-13T23:59:59-04:00 # close your call for proposals.
 cfp_date_announce: 2019-08-13T00:00:00-04:00 # inform proposers of status
 
-cfp_open: "false"
+cfp_open: "true"
 cfp_link: "https://www.papercall.io/devopsdayscolumbus2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-04-11T00:00:00-04:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-09-20T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.eventbrite.com/e/devopsdays-columbus-2019-registration-59421995789" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 # Fawcett Event Center,
@@ -36,6 +36,8 @@ location_address: "2400 Olentangy River Rd, Columbus, OH 43210" #Optional - use 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
+  - name: propose
+  - name: registration
   - name: sponsor
   - name: contact
   - name: conduct
@@ -44,6 +46,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Ben Blanquera"
+  - name: "Bill Schwanitz"
+  - name: "Carmen Deardo"
   - name: "David Laulusa"
     bio: "David has worked at Bell Labs, SAP and whole slew of companies in between. Three years ago when he started working at SAP, his boss handed him The Phoenix Project by Gene Kim and Continuous Delivery by Jez Humble and said, 'Read these and figure out this DevOps thing.' And he hasn’t stopped learning since.
     <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."

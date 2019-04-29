@@ -81,7 +81,14 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
   - id: itrevolution
     level: community
-
+  - id: sonatype
+    level: gold
+  - id: zivra
+    level: gold  
+  - id: rosen
+    level: gold
+  - id: pagerduty
+    level: silver
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

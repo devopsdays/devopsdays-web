@@ -115,6 +115,8 @@ sponsors:
     level: gold
   - id: vmware
     level: gold
+  - id: googlecloud
+    level: gold
   # Silver
   - id: valtech
     level: silver
@@ -126,6 +128,9 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
+    # Recharge
+  - id: leaseweb
+    level: recharge
   # Lanyards
   - id: developers-nl
     level: lanyard

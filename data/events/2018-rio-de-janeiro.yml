@@ -6,21 +6,21 @@ description: "Pela primeira vez no Rio de Janeiro - DevOpsDays - A Conferência 
 ga_tracking_id: "UA-123371280-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-11-09 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-11-10 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-11-09T00:00:00-03:00
+enddate: 2018-11-10T23:59:59-03:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-08-13 # start accepting talk proposals.
-cfp_date_end: 2018-09-13 # close your call for proposals.
-cfp_date_announce: 2018-10-04  # inform proposers of status
+cfp_date_start: 2018-08-13T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2018-09-13T23:59:59-03:00 # close your call for proposals.
+cfp_date_announce: 2018-10-04T23:59:59-03:00  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdays-rj-2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "rjwide.png"
 
-registration_date_start: 2018-08-23 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-11-05 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-08-23T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-11-05T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.sympla.com.br/devopsdays-rio-de-janeiro-2018__342778" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.

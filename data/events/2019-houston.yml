@@ -44,7 +44,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
-
+  - name: faq
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -59,6 +59,7 @@ team_members: # Name is the only required field for team members.
   - name: "Briana Egan"
     employer: "Agile Leadership Network in Houston"
     twitter: ""
+    image: "briana-egan.jpg"
     bio: "Briana Egan is currently the Vice-President of the Agile Leadership Network in Houston (ALN).  When she is not busy with the ALN she is a ScrumMaster for a Cloud Technology DevOps Team.  Briana holds a Masters Degree from the University of Joensuu (joensuun yliopisto) in Finland."
   - name: "Dan Collins"
     employer: "Current Analytics Corporation"

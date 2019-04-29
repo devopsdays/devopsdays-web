@@ -6,8 +6,9 @@ event_twitter: "devopsdayscpt"
 description: DevOpsDays is coming back to Cape Town!
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2017-01-05
-startdate: 2017-11-06
-enddate: 2017-11-07
+startdate: 2017-11-06T00:00:00+02:00
+enddate: 2017-11-07T23:59:59+02:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-06-01  # start accepting talk proposals.
 cfp_date_end: 2017-07-31  # close your call for proposals.

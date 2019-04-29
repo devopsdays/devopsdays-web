@@ -5,8 +5,8 @@ event_twitter: "devopsdaysATL"
 description: # A short blurb of text to describe your event, defaults to common DevOpsDays description
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-04-18
-enddate:  2017-04-19
+startdate: 2017-04-18T00:00:00-04:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2017-04-19T23:59:59-04:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2017-01-05
 cfp_date_end:  2017-02-27

@@ -7,12 +7,12 @@
 {{- if or (eq .Type "welcome") (eq .Type "event") (eq .Type "speaker") (eq .Type "speakers") (eq .Type "talk") (eq .Type "program") -}}
   {{- $path := split ( .Permalink | relURL) "/" -}}
   {{- $event_slug := index $path 2 -}}
-  <meta itemprop="image" content="{{ (printf "/events/%s/sharing.jpg" $event_slug) }}" />
+  <meta itemprop="image" content="{{ (printf "https://www.devopsdays.org/events/%s/sharing.jpg" $event_slug) }}" />
 {{- else -}}
   {{- with .Params.sharing_image -}}
-    <meta itemprop="image" content="{{ . }}" />
+    <meta itemprop="image" content="https://www.devopsdays.org/{{ . }}" />
   {{- else -}}
-    <meta itemprop="image" content="{{ "/img/sharing.jpg" }}" />
+    <meta itemprop="image" content="{{ "https://www.devopsdays.org/img/sharing.jpg" }}" />
   {{- end -}}
 {{- end -}}
 {{- if .IsPage -}}
