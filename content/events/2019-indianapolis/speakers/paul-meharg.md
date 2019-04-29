@@ -1,6 +1,6 @@
 +++
 Title = "Paul Meharg"
-image = ""
+image = "paul-meharg.png"
 type = "speaker"
 linktitle = "paul-meharg"
 
