@@ -32,7 +32,7 @@ Description = "devopsdays Buffalo 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
   </div>
 </div>
 
@@ -82,4 +82,3 @@ Description = "devopsdays Buffalo 2019"
 
 
 {{< event_twitter >}}
-
