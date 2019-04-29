@@ -160,7 +160,7 @@ sponsors:
     level: gold
   - id: gitlab
     level: silver
-  - id: solarwind
+  - id: solarwinds
     level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
