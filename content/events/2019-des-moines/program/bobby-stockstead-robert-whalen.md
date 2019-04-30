@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Crowdsourcing Technology Governance"
+Title = "Crowdsourcing Technology Governance (breakout 2)"
 Type = "talk"
 Speakers = ["bobby-stockstead","robert-whalen"]
 +++

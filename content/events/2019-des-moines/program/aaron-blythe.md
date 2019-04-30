@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Failure and the Third Way"
+Title = "Failure and the Third Way (ballroom)"
 Type = "talk"
 Speakers = ["aaron-blythe"]
 +++

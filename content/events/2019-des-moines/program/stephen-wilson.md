@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Five Marks of a Hybrid Cloud Operating Model"
+Title = "The Five Marks of a Hybrid Cloud Operating Model (breakout 1)"
 Type = "talk"
 Speakers = ["stephen-wilson"]
 +++
