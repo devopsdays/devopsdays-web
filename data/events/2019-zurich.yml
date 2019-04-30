@@ -222,8 +222,6 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   label: Bronze
 - id: community
   label: Community
-- id: applause
-  label: gold
 
 program:
   - title: "Registration & Welcome Coffee"
