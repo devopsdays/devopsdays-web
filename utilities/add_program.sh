@@ -12,7 +12,7 @@ SEDCMD(){
     sed -i "$@"
   elif [[ $OSNAME == 'Darwin' && $GNUSED == '/usr/local/bin/sed' ]]; then
     sed -i "$@"
-  elif [[ $OSNAME == 'MINGW64_NT-6.1' ]]; then
+  elif [[ $OSNAME == MINGW64_NT* ]]; then
     sed -i "$@"
   else
     sed -i '' "$@"
