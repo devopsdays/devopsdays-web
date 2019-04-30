@@ -69,6 +69,8 @@ sponsors:
    level: silver
  - id: bambora
    level: silver
+ - id: workday
+   level: silver
  - id: hashicorp
    level: bronze
  - id: semaphore
