@@ -162,6 +162,12 @@ sponsors:
     level: silver
   - id: solarwinds
     level: gold 
+  - id: netapp
+    level: silver
+  - id: servercentraltg
+    level: silver
+  - id: itcrowdmeetup
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
