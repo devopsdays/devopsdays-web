@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Modeling Better Decisions"
+Title = "Modeling Better Decisions (breakout 2)"
 Type = "talk"
 Speakers = ["dustin-thostenson","skylar-watson"]
 +++

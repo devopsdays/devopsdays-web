@@ -139,7 +139,7 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "Registration, Breakfast, Opening Welcome"
+  - title: "Registration, Breakfast, Opening Welcome (ballroom)"
     type: custom
     date: 2019-05-02
     start_time: "08:00"
@@ -169,12 +169,12 @@ program:
     date: 2019-05-02
     start_time: "11:00"
     end_time: "11:15"
-  - title: "dustin-thostenson-skylar-watson"
+  - title: "emily-nakashima"
     type: talk
     date: 2019-05-02
     start_time: "11:15"
     end_time: "12:00"
-  - title: "emily-nakashima"
+  - title: "dustin-thostenson-skylar-watson"
     type: talk
     date: 2019-05-02
     start_time: "11:15"
@@ -199,28 +199,33 @@ program:
     date: 2019-05-02
     start_time: "14:30"
     end_time: "14:45"
-  - title: "jason-yee"
-    type: talk
-    date: 2019-05-02
-    start_time: "14:45"
-    end_time: "15:30"
   - title: "eric-hendricks"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Open Spaces"
+  - title: "jason-yee"
+    type: talk
+    date: 2019-05-02
+    start_time: "14:45"
+    end_time: "15:30"
+  - title: "Park Bench Panel (ballroom)"
     type: custom
     date: 2019-05-02
     start_time: "15:30"
+    end_time: "16:15"
+  - title: "Open Spaces (ballroom)"
+    type: open-space
+    date: 2019-05-02
+    start_time: "16:15"
     end_time: "17:00"
-  - title: "Party!"
+  - title: "Party! (reception area outside the ballroom)"
     type: custom
     date: 2019-05-02
     start_time: "17:00"
     end_time: "20:00"
 
-  - title: "Registration, Breakfast, Opening Welcome"
+  - title: "Registration, Breakfast, Opening Welcome (ballroom)"
     type: custom
     date: 2019-05-03
     start_time: "08:00"
@@ -235,12 +240,12 @@ program:
     date: 2019-05-03
     start_time: "10:00"
     end_time: "10:15"
-  - title: "matt-ring-nick-herrig"
+  - title: "lee-barnes"
     type: talk
     date: 2019-05-03
     start_time: "10:15"
     end_time: "11:00"
-  - title: "lee-barnes"
+  - title: "matt-ring-nick-herrig"
     type: talk
     date: 2019-05-03
     start_time: "10:15"
@@ -290,10 +295,15 @@ program:
     date: 2019-05-03
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Open Spaces"
+  - title: "Park Bench Panel (ballroom)"
     type: custom
     date: 2019-05-03
     start_time: "15:30"
+    end_time: "16:15"
+  - title: "Open Spaces (ballroom)"
+    type: open-space
+    date: 2019-05-03
+    start_time: "16:15"
     end_time: "17:00"
 
 ignites:
