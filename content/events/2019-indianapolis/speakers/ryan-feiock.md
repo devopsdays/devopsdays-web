@@ -4,6 +4,9 @@ Twitter = "ryanfeiock"
 image = "ryan-feiock.png"
 type = "speaker"
 linktitle = "ryan-feiock"
+Website = "https://www.psionline.com"
+Facebook = "https://www.facebook.com/psiexams"
+Linkedin = "https://www.linkedin.com/in/ryanfeiock/"
 
 +++
 
