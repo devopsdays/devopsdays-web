@@ -206,6 +206,8 @@ sponsors:
   level: bronze
 - id: cloudbees
   level: silver
+- id: applause
+  level: gold
 sponsors_accepted : "true" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
 - id: platinum
@@ -220,6 +222,8 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   label: Bronze
 - id: community
   label: Community
+- id: applause
+  label: gold
 
 program:
   - title: "Registration & Welcome Coffee"
