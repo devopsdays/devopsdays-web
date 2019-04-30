@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "“I’m not technical” and other lies"
+Title = "“I’m not technical” and other lies (ballroom)"
 Type = "talk"
 Speakers = ["margaret-valtierra"]
 +++

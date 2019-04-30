@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "DevSecOps: Key Controls For Modern Security Success"
+Title = "DevSecOps: Key Controls For Modern Security Success (breakout 1)"
 Type = "talk"
 Speakers = ["eric-johnson"]
 +++

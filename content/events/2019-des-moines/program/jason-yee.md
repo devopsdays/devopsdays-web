@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Chaos Engineering: breaking your systems to make them unbreakable"
+Title = "Chaos Engineering: breaking your systems to make them unbreakable (breakout 2)"
 Type = "talk"
 Speakers = ["jason-yee"]
 +++
