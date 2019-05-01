@@ -70,7 +70,7 @@ team_members:
     image: "default-male.jpg"
   - name: "Cora Fedesna"
     image: "cora-hays-magan.jpg"
-    employer: "Active Campaign"
+    employer: "ActiveCampaign"
     twitter: "CorainChicago"
     website: "http://corainchicago.github.io"
     linkedin: "https://www.linkedin.com/in/corainchicago"
