@@ -114,8 +114,8 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: socialevent
     label: Social Event
-  - id: exclusive
-    label: Exclusive
+  - id: platinum
+    label: Platinum
     max: 1
   - id: gold
     label: Gold
