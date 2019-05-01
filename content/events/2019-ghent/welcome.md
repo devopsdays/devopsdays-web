@@ -82,9 +82,7 @@ Description = "devopsdays Ghent 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
 
 <div class = "row justify-content-center">
   <div class = "col-md-6 text-center">
