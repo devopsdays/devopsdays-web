@@ -6,7 +6,7 @@ Description = "Registration for devopsdays Ghent 2019"
 
 <div class="row justify-content-center">
 
-<strong>DevOpsDays is returning to Ghent, Belgium for it's 10th year anniversary! Make sure to get your ticket before they are gone.</strong>
+<strong>DevOpsDays is returning to Ghent, Belgium for its 10th year anniversary! Make sure to get your ticket before they are gone.</strong>
 
 <link rel="stylesheet" type="text/css" href="https://devopsdays.gent/tickets/2019/widget/v1.css">
 <script type="text/javascript" src="https://devopsdays.gent/widget/v1.en.js" async></script>
