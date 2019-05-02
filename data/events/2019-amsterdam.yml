@@ -360,7 +360,7 @@ program:
     date: 2019-06-27
     start_time: "12:00"
     end_time: "13:00"
-  - title: ""
+  - title: "yan-cui"
     type: talk
     date: 2019-06-27
     start_time: "13:05"
@@ -429,51 +429,55 @@ program:
     date: 2019-06-28
     start_time: "08:00"
     end_time: "09:00"
+
   - title: "Day 2 Welcome"
     type: custom
     date: 2019-06-28
     start_time: "09:00"
-    end_time: "09:10"
+    end_time: "09:15"
+
   - title: "eric-han"
     type: talk
     date: 2019-06-28
     start_time: "09:15"
-    end_time: "09:45"
+    end_time: "09:55"
+
   - title: "matty-stratton"
     type: talk
     date: 2019-06-28
-    start_time: "09:50"
-    end_time: "10:20"
+    start_time: "10:00"
+    end_time: "10:30"
+
   - title: "Break"
     type: custom
     date: 2019-06-28
-    start_time: "10:20"
-    end_time: "10:30"
-  - title: "yan-cui"
-    type: talk
-    date: 2019-06-28
-    start_time: "10:35"
-    end_time: "11:05"
+    start_time: "10:30"
+    end_time: "10:45"
+
   - title: "tarah-cleveland"
     type: talk
     date: 2019-06-28
-    start_time: "11:10"
-    end_time: "11:40"
+    start_time: "10:50"
+    end_time: "11:20"
+
   - title: "bernd-erk"
     type: talk
     date: 2019-06-28
-    start_time: "11:45"
-    end_time: "12:15"
+    start_time: "11:25"
+    end_time: "11:55"
+
   - title: "Lunch Break"
     type: custom
     date: 2019-06-28
-    start_time: "12:15"
+    start_time: "12:00"
     end_time: "13:00"
+
   - title: "seth-vargo"
     type: talk
     date: 2019-06-28
     start_time: "13:05"
     end_time: "13:35"
+
   - title: "Ignites Day 2"
     type: ignite
     date: 2019-06-28
