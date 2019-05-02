@@ -15,7 +15,7 @@ cfp_date_start:  2019-04-29T00:00:00-03:00
 cfp_date_end:  2019-06-10T23:59:59-03:00
 cfp_date_announce: 2019-06-14T23:59:59-03:00
 
-cfp_link: ""
+cfp_link: "https://www.papercall.io/devopsdays-fln-2019"
 
 registration_date_start: 2019-04-29T00:00:00-03:00
 registration_date_end: 2019-07-22T23:59:59-03:00
@@ -29,10 +29,11 @@ coordinates: "-27.4306442, -48.4429707"
 location: "Auditório da Softplan"
 location_address: "Sapiens Parque - Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000"
 
+masthead_background: "dod-fln-horizontal.png"
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  #- name: Chamadas (CFP)
-    #icon: "microphone"
-    #url: https://www.papercall.io/devopsdays-fln-2019
+  - name: Chamadas (CFP)
+    icon: "microphone"
+    url: https://www.papercall.io/devopsdays-fln-2019
 
   - name: local
     icon: "map-o"
