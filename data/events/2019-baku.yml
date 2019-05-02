@@ -51,7 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Vusal Karimli"
     linkedin: "https://www.linkedin.com/in/vusalkarimli/"
-    image: "vusal.png"
+    image: "vusal.jpg"
   - name: "Mammad Karim"
     linkedin: "https://www.linkedin.com/in/mammadkarim/"
     image: "mammad.jpeg"
