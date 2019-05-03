@@ -82,6 +82,7 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Trevor Bryant"
+    image: "trevor-bryant.jpg"
     employer: "Epigen Technology"
     twitter: "apporima"
     bio: "I'm a Senior Information Security Architect specializing in the Risk Management Framework. I work with technology executives to ensure security practices are usable through cost-effective risk-based actions. I believe in not just modernizing, but delivering secured services."
