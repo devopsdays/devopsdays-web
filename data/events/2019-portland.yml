@@ -21,11 +21,11 @@ cfp_date_announce: # inform proposers of status
 cfp_open: "false"
 cfp_link: https://sessionize.com/devopsdays-portland-2019/
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-05-02T00:00:00-07:00
+registration_date_end: 2019-09-12T23:59:59-07:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayspdx2019.busyconf.com/bookings/new"
 
 # Location
 #
@@ -37,8 +37,8 @@ location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optio
 nav_elements: # List of pages you want to show up in the navigation of your page.
 # - name: propose
  # - name: location
- # - name: registration
- #   url: https://devopsdayspdx2018.busyconf.com/bookings/new
+  - name: registration
+    url: "https://devopsdayspdx2019.busyconf.com/bookings/new"
  #  - name: program
  # - name: speakers
   - name: sponsor
