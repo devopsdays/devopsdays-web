@@ -38,6 +38,15 @@ Description = "DevOpsDays Washington, DC 2019"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Diversity Scholarships</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://diversitytickets.org/en/events/434">Apply for a diversity scholarship.</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
