@@ -15,7 +15,7 @@ enddate:  2019-07-09T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2019-04-01T00:00:00-04:00
-cfp_date_end:  2019-05-01T23:59:59-04:00
+cfp_date_end:  2019-05-04T23:59:59-04:00
 cfp_date_announce:  2019-05-15T23:59:59-04:00
 
 cfp_open: "true"

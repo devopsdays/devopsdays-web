@@ -50,7 +50,7 @@ Description = "DevOpsDays Washington, DC 2019"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdaysdc2019.busyconf.com/proposals/new">Share your story, propose a talk!</a>
+    <a href="https://devopsdaysdc2019.busyconf.com/proposals/new">Share your story, propose a talk!</a> (CFP Closes Saturday, May 4, 2019)
   </div>
 </div>
 
