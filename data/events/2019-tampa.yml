@@ -132,6 +132,8 @@ sponsors:
     level: gold
   - id: agilethought
     level: gold
+  - id: verizon
+    level: diamond
         
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

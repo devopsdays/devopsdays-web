@@ -186,80 +186,90 @@ sponsor_levels:
     label: Bronze
 
 program:
+
 # workshop day
   - title: "Registration (workshop day)"
     type: custom
     date: 2019-06-26
     start_time: "08:00"
     end_time: "09:00"
+
 #9:00 to 11:30
-  - title: "anton-babenko-ws"
+  - title: "yan-cui-ws"
     type: workshop
     date: 2019-06-26
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: Grote Zaal"
-  - title: "jason-yee-ws"
+    comments: "Location: TBD"
+  - title: "david-mckay"
     type: workshop
     date: 2019-06-26
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: IJ Zaal"
-  - title: "mikhail-advani"
-    type: workshop
-    date: 2019-06-26
-    start_time: "09:00"
-    end_time: "11:30"
-    comments: "Location: Studio"
-  - title: "jude-pereira"
-    type: workshop
-    date: 2019-06-26
-    start_time: "09:00"
-    end_time: "11:30"
-    comments: "Location: Expo"
+    comments: "Location: TBD"
   - title: "wim-bonthuis"
     type: workshop
     date: 2019-06-26
     start_time: "09:00"
     end_time: "11:30"
-    comments: "Location: Workspace"
+    comments: "Location: TBD"
+  - title: "mikhail-advani"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: TBD"
+  - title: "michael-ducy"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: TBD"
+  - title: "nancy-beers"
+    type: workshop
+    date: 2019-06-26
+    start_time: "09:00"
+    end_time: "11:30"
+    comments: "Location: TBD"
+
 # Lunch
   - title: "Lunch Express (Fast) Break"
     type: custom
     date: 2019-06-26
     start_time: "11:30"
     end_time: "12:00"
+
 # 12:00 to 14:30
-  - title: "nancy-beers"
+  - title: "anton-babenko-ws"
     type: workshop
     date: 2019-06-26
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: Grote Zaal"
+    comments: "Location: TBD"
+  - title: "nathen-harvey"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: TBD"
   - title: "martijn-vandongen-ws1"
     type: workshop
     date: 2019-06-26
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: IJ Zaal"
-  - title: "martijn-vandongen-ws2"
-    type: workshop
-    date: 2019-06-26
-    start_time: "12:00"
-    end_time: "14:30"
-    comments: "Location: Studio"
+    comments: "Location: TBD"
   - title: "phillipp-krenn"
     type: workshop
     date: 2019-06-26
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: Expo"
-  - title: "matteo-pierro-nelis-boucke"
+    comments: "Location: TBD"
+  - title: "jude-pereira"
     type: workshop
     date: 2019-06-26
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: Workspace"
+    comments: "Location: TBD"
 
 # break
   - title: "Break"
@@ -269,30 +279,37 @@ program:
     end_time: "14:45"
 
 # 14:45 to 17:15
-  - title: "michael-ducy"
-    type: workshop
-    date: 2019-06-26
-    start_time: "14:45"
-    end_time: "17:15"
-    comments: "Location: Grote Zaal"
   - title: "stacey-jenkins"
     type: workshop
     date: 2019-06-26
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: IJ Zaal"
-  - title: "nathen-harvey"
+    comments: "Location: TBD"
+  - title: "martijn-vandongen-ws2"
     type: workshop
     date: 2019-06-26
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: Studio"
-  - title: "yan-cui-ws"
+    comments: "Location: TBD"
+  - title: "jason-yee-ws"
     type: workshop
     date: 2019-06-26
     start_time: "14:45"
     end_time: "17:15"
-    comments: "Location: Expo"
+    comments: "Location: TBD"
+  - title: "andrew-martin"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: TBD"
+  - title: "matteo-pierro-nelis-boucke"
+    type: workshop
+    date: 2019-06-26
+    start_time: "14:45"
+    end_time: "17:15"
+    comments: "Location: TBD"
+
 # end of day
   - title: "Have a beer on us!"
     type: custom
@@ -302,7 +319,7 @@ program:
     comments: "Pakhuis de Zwijger bar"
 
 
-# day 1
+# conference day 1
   - title: "Registration"
     type: custom
     date: 2019-06-27
@@ -343,7 +360,7 @@ program:
     date: 2019-06-27
     start_time: "12:00"
     end_time: "13:00"
-  - title: ""
+  - title: "yan-cui"
     type: talk
     date: 2019-06-27
     start_time: "13:05"
@@ -412,51 +429,55 @@ program:
     date: 2019-06-28
     start_time: "08:00"
     end_time: "09:00"
+
   - title: "Day 2 Welcome"
     type: custom
     date: 2019-06-28
     start_time: "09:00"
-    end_time: "09:10"
+    end_time: "09:15"
+
   - title: "eric-han"
     type: talk
     date: 2019-06-28
     start_time: "09:15"
-    end_time: "09:45"
+    end_time: "09:55"
+
   - title: "matty-stratton"
     type: talk
     date: 2019-06-28
-    start_time: "09:50"
-    end_time: "10:20"
+    start_time: "10:00"
+    end_time: "10:30"
+
   - title: "Break"
     type: custom
     date: 2019-06-28
-    start_time: "10:20"
-    end_time: "10:30"
-  - title: "yan-cui"
-    type: talk
-    date: 2019-06-28
-    start_time: "10:35"
-    end_time: "11:05"
+    start_time: "10:30"
+    end_time: "10:45"
+
   - title: "tarah-cleveland"
     type: talk
     date: 2019-06-28
-    start_time: "11:10"
-    end_time: "11:40"
+    start_time: "10:50"
+    end_time: "11:20"
+
   - title: "bernd-erk"
     type: talk
     date: 2019-06-28
-    start_time: "11:45"
-    end_time: "12:15"
+    start_time: "11:25"
+    end_time: "11:55"
+
   - title: "Lunch Break"
     type: custom
     date: 2019-06-28
-    start_time: "12:15"
+    start_time: "12:00"
     end_time: "13:00"
+
   - title: "seth-vargo"
     type: talk
     date: 2019-06-28
     start_time: "13:05"
     end_time: "13:35"
+
   - title: "Ignites Day 2"
     type: ignite
     date: 2019-06-28

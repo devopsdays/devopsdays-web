@@ -5,6 +5,7 @@ Talk_end_time = "09:45"
 Title = "Relax: Automation Replaces Tasks not People"
 Type = "talk"
 Speakers = ["robert-reeves"]
+slideshare = "https://www.slideshare.net/HoustonDevOps/devopsdays-houston-2019-robert-reeves-relax-automation-replaces-tasks-not-people"
 +++
 Automation is coming. Make no mistake, automation is a survival imperative for the business. However, automation is a difficult topic for IT and others who see automation as a threat to their job.
 

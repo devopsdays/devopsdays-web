@@ -98,6 +98,16 @@ sponsors:
     level: silver
   - id: cradlepoint
     level: gold
+  - id: chef
+    level: hh
+  - id: elastic
+    level: silver
+  - id: dynatrace
+    level: silver
+  - id: pagerduty
+    level: bronze
+  - id: balsam-brands
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -108,6 +118,9 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+  - id: hh
+    label: Happy Hour
+    max: 1
   - id: gold
     label: Gold
   - id: silver
