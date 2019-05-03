@@ -117,6 +117,8 @@ sponsors:
     level: gold
   - id: googlecloud
     level: gold
+  - id: microsoft
+    level: gold
   # Silver
   - id: valtech
     level: silver
