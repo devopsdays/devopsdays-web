@@ -100,8 +100,6 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
-  - id: cloudbolt
-    level: gold
   - id: influxdata
     level: gold
   - id: signalfx
