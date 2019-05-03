@@ -100,12 +100,14 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
-  - id: cloudbolt
-    level: gold
   - id: influxdata
     level: gold
   - id: signalfx
     level: silver
+  - id: cloudbolt_pdx_2019
+    level: gold
+  - id: splunk
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
