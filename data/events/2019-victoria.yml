@@ -83,8 +83,8 @@ sponsors:
    level: bronze
  - id: tactec
    level: friends
-# - id: daxiom
-#   level: friends
+ - id: daxiom
+   level: friends
 # #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.   
 #  - id: arresteddevops
 #    level: community
