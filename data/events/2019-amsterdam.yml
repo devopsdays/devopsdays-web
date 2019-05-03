@@ -130,6 +130,8 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
+  - id: eficode
+    level: silver
     # Recharge
   - id: leaseweb
     level: recharge
