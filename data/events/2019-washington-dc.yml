@@ -319,9 +319,15 @@ sponsors:
   - id: chef
     level: platinum
     url: "https://chef.io/?utm_source=doddc"
+  - id: stsi
+    level: platinum
+  - id: validatek
+    level: platinum
   - id: circleci
     level: gold
   - id: devopsdc-meetup
+    level: community
+  - id: black-code-collective
     level: community
   - id: arresteddevops
     level: media
