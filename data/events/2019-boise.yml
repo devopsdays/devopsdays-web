@@ -38,8 +38,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  # - name: program
+  # - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -51,7 +51,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Julie Gunderson"
-    employer: "Taos"
+    employer: "Pager Duty"
     twitter: "Julie_Gund"
   - name: "Stephen Spector"
     twitter: "SpectorID"
@@ -64,6 +64,7 @@ team_members: # Name is the only required field for team members.
   - name: "Robert Meyer"
     employer: "Taos"
     twitter: "BDArcholite"
+    github: "Robert-R-Meyer"
   - name: "Paul Remeis"
     employer: "In Time Tec"
     twitter: PaulRemeis
@@ -99,6 +100,8 @@ sponsors:
   - id: cradlepoint
     level: gold
   - id: chef
+    level: hh
+  - id: microsoft
     level: hh
   - id: elastic
     level: silver
