@@ -18,7 +18,7 @@ cfp_date_start:  2019-04-01T00:00:00-04:00
 cfp_date_end:  2019-05-04T23:59:59-04:00
 cfp_date_announce:  2019-05-15T23:59:59-04:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdaysdc2019.busyconf.com/proposals/new"
 
 registration_date_start: 2019-04-01T00:00:00-04:00
@@ -34,7 +34,6 @@ location: "Ronald Reagan Building and International Trade Center, Washington, D.
 location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
  # - name: program
