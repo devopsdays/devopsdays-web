@@ -108,9 +108,13 @@ sponsors:
   - id: b3init
     level: silver
   - id: ea
-    level: silver
+    level: community
   - id: citerus
     level: silver
+  - id: izettle
+    level: silver
+  - id: f5
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
