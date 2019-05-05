@@ -30,7 +30,6 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 #
 coordinates: "-12.972218, -38.501414" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Salvador" # Defaults to city, but you can make it the venue name.
-#
 location_address: "UFBA Campus Ondina - Auditório do Instituto de Matemática na Av. Adhemar de Barros, s/nº - Ondina, Salvador - BA, 40170-110" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
@@ -90,6 +89,10 @@ team_members: # Name is the only required field for team members.
   - name: "Daniele Valverde"
     github: "danielevalverde"
     image: "daniele-valverde.jpg"
+  - name: "Daniel Guedes"
+    github: "guedesnd"
+    twitter: "Daniel47524404"
+    image: "daniel-guedes.png"
 organizer_email: "organizers-salvador-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-salvador-2019@devopsdays.org" # Put your proposal email address here
 
