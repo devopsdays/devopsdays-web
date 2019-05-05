@@ -1,9 +1,11 @@
 +++
 Title = "Brian Weber"
 Twitter = "mistermocha"
-image = ""
+image = "brian-weber.png"
 type = "speaker"
 linktitle = "brian-weber"
+Pronouns = "he/him"
+Github = "mistermocha"
 
 +++
 

@@ -5,6 +5,7 @@ Talk_end_time = "11:15"
 Title = "Operating Human Systems: Mean Time To Relationship v. Mean Time Between Fallout"
 Type = "talk"
 Speakers = ["aaron-aldrich"]
+slides = "https://noti.st/crayzeigh/tDLpCI/operating-human-systems-mtbf-v-mttr"
 +++
 
 DevOps trends are clear on measuring systems Mean Time To Recovery rather than Mean Time Between Failures. I argue that worrying about time between failures actually causes more harm than worrying about recovery. But do we think of our human systems the same way as our digital? I’ll apply lessons learned in SysOps to HumanOps.

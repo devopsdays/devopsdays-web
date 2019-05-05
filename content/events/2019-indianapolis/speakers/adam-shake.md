@@ -1,7 +1,7 @@
 +++
 Title = "Adam Shake"
 Twitter = "gelfing"
-image = ""
+image = "adam-shake.png"
 type = "speaker"
 linktitle = "adam-shake"
 

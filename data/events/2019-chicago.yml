@@ -70,7 +70,7 @@ team_members:
     image: "default-male.jpg"
   - name: "Cora Fedesna"
     image: "cora-hays-magan.jpg"
-    employer: "Active Campaign"
+    employer: "ActiveCampaign"
     twitter: "CorainChicago"
     website: "http://corainchicago.github.io"
     linkedin: "https://www.linkedin.com/in/corainchicago"
@@ -159,7 +159,17 @@ sponsors:
   - id: chef
     level: gold
   - id: gitlab
-    level: silver 
+    level: silver
+  - id: solarwinds
+    level: gold 
+  - id: netapp
+    level: silver
+  - id: servercentraltg
+    level: silver
+  - id: itcrowdmeetup
+    level: community
+  - id: splunk
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How to Avoid Building the Wrong Thing 2-Weeks at a Time"
+Title = "How to Avoid Building the Wrong Thing 2-Weeks at a Time (ballroom)"
 Type = "talk"
 Speakers = ["pete-anderson"]
 +++

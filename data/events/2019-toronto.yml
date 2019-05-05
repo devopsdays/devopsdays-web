@@ -130,6 +130,8 @@ sponsors:
     level: platinum
   - id: td-bank
     level: party
+  - id: signalfx
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
