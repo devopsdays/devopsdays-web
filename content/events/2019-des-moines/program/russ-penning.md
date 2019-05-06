@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Not a Dinosaur, but a Crocodile: Eliminating Two Speed IT (breakout 2)"
 Type = "talk"
+Youtube = "QIaMnBLRipc"
 Speakers = ["russ-penning"]
 +++
 

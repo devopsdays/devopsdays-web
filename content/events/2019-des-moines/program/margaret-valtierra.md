@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "“I’m not technical” and other lies (ballroom)"
 Type = "talk"
+Youtube = "j-kgWo5oyB8"
 Speakers = ["margaret-valtierra"]
 +++
 

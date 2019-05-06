@@ -55,20 +55,25 @@ team_members: # Name is the only required field for team members.
   - name: "Aleksandra Dondziak"
     employer: "Allegro.pl"
     linkedin: "https://www.linkedin.com/in/aleksandra-dondziak-915979b6/"
+#    image:
   - name: "Dariusz Dwornikowski"
     twitter: "7d1"
     employer: "Nordcloud"
     linkedin: "https://www.linkedin.com/in/darekd/"
+    image: dariusz-dwornikowski.jpg
   - name: "Jakub Jakubik"
     employer: "Netguru S.A."
     linkedin: "https://www.linkedin.com/in/jakubjakubik/"
+    image: "jakub-jakubik.jpg"
   - name: "Maciej Karnecki"
     employer: "Egnyte Poland"
     linkedin: "https://www.linkedin.com/in/maciej-karnecki-71893075/"
+    image: maciej-karnecki.jpg
   - name: "Marcin Mazurek"
     employer: "Allegro.pl"
     linkedin: "https://www.linkedin.com/in/mmazurek/"
     twitter: "mazuchna"
+    image: marcin-mazurek.jpg
   - name: "Martyna Młynarczyk"
     employer: "Centuria"
     linkedin: "https://www.linkedin.com/in/martyna-m%C5%82ynarczyk-08a440107/"
@@ -85,10 +90,12 @@ team_members: # Name is the only required field for team members.
   - name: "Monika Projs"
     employer: "Egnyte Poland"
     linkedin: "https://www.linkedin.com/in/monikaprojs/"
+    image: monika-projs.jpg
   - name: "Łukasz Przybył"
     employer: "HolidayCheck AG"
     linkedin: "https://www.linkedin.com/in/%C5%82ukasz-przyby%C5%82-247a0569/"
     twitter: "luprzybyl"
+    image: lukasz-przybyl.jpg
   - name: "Bartek Stalewski"
     employer: "Mirantis"
     twitter: "eftepede"

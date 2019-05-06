@@ -4,6 +4,8 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevSecOps: Key Controls For Modern Security Success (breakout 1)"
 Type = "talk"
+Youtube = "H04goWfsJL0"
+Slides = "https://www.pumascan.com/resources/DevSecOps-Key-Controls-for-Modern-Security-Success/"
 Speakers = ["eric-johnson"]
 +++
 
