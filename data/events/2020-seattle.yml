@@ -49,16 +49,24 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+  - name: "Rob Cummings"
+    twitter: "opsrob"
+    image: "rob-cummings.jpg"
+  - name: "Dominica DeGrandis"
+    twitter: "dominicad"
+    image: "dominica-degrandis.jpg"
+  - name: "Jeremy Dyche"
+    twitter: "JD892011"
+    image: "jeremy-dyche.jpg"
+  - name: "Michael Goetz"
+    twitter: "michaelpgoetz"
+    image: "michael-goetz.jpg"
+  - name: "Ken Mugrage"
+    twitter: "kmugrage"
+    image: "ken-mugrage.jpg"
+  - name: "Michael Towbin"
+    twitter: "MichaelTowbin"
+    image: "michael-towbin.jpg"
 organizer_email: "organizers-seattle-2020@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-seattle-2020@devopsdays.org" # Put your proposal email address here
 
