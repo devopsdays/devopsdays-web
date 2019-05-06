@@ -251,7 +251,7 @@ program:
     date: 2019-06-03
     start_time: "15:10"
     end_time: "15:30"
-   - title: "Coffee Break"
+  - title: "Coffee Break"
     date: 2019-06-03
     start_time: "15:30"
     end_time: "16:00"
