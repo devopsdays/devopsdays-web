@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-03"
+Talk_start_time = "12:30"
+Talk_end_time = "13:00"
 Title = "Scaling Silos: Distributed Knowledge"
 Type = "talk"
 Speakers = ["grace-chang"]
