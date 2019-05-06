@@ -18,7 +18,7 @@ cfp_date_start: 2019-02-15T00:00:00-06:00 # start accepting talk proposals.
 cfp_date_end: 2019-05-03T23:59:59-05:00 # close your call for proposals.
 cfp_date_announce: 2019-06-03T23:59:59-05:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: “false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
@@ -37,7 +37,7 @@ location: "UIC Forum" # Defaults to city, but you can make it the venue name.
 location_address: "725 West Roosevelt Road, Chicago, Illinois 60608" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+ # - name: propose
   - name: location
  # - name: registration
  # - name: program
