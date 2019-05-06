@@ -153,6 +153,8 @@ sponsors:
    level: gold
  - id: devscope
    level: silver
+ - id: thoughtworks-gocd
+   level: silver
  - id: claranet
    level: bronze
  - id: laredoute
@@ -164,6 +166,14 @@ sponsors:
  - id: bitmaker
    level: community
  - id: apogep
+   level: community
+ - id: agileportugal
+   level: community
+ - id: agileconnect
+   level: community
+ - id: ptwit
+   level: community
+ - id: winb
    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
