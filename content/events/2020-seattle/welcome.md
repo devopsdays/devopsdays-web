@@ -5,6 +5,8 @@ aliases = ["/events/2020-seattle/"]
 Description = "devopsdays Seattle 2020"
 +++
 
+DevOpsDays is coming back to Seattle in 2020! We'll announce dates in the summer of 2019.
+
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
@@ -63,14 +65,14 @@ Description = "devopsdays Seattle 2020"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
