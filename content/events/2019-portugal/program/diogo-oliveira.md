@@ -1,7 +1,7 @@
 +++
 Talk_date = "2019-06-03"
-Talk_start_time = "11:10"
-Talk_end_time = "11:40"
+Talk_start_time = "11:50"
+Talk_end_time = "12:20"
 Title = "Moving Mountains: The Real-World Enterprise Journey to Continuous Delivery"
 Type = "talk"
 Speakers = ["diogo-oliveira"]
