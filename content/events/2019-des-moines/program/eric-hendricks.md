@@ -5,7 +5,7 @@ Talk_end_time = ""
 Title = "Communication in an Open Company (breakout 1)"
 Type = "talk"
 Speakers = ["eric-hendricks"]
-Youtube = "lhTZ6yLTBhg"
+Youtube = "zSWhd9eiVHw"
 Slides = "https://gitlab.com/eric_theitguy/talks"
 +++
 
