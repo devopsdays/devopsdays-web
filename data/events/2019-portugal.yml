@@ -197,6 +197,7 @@ program:
     start_time: "09:15"
     end_time: "10:00"
   - title: "Break"
+    type: custom
     date: 2019-06-03
     start_time: "10:00"
     end_time: "10:10"
@@ -206,24 +207,27 @@ program:
     start_time: "10:10"
     end_time: "10:40"
   - title: "Coffee Break"
+    type: custom
     date: 2019-06-03
     start_time: "10:40"
     end_time: "11:10"
-  - title: "diogo-oliveira"
+  - title: "manuel-pais"
     type: talk
     date: 2019-06-03
     start_time: "11:10"
     end_time: "11:40"
   - title: "Break"
+    type: custom
     date: 2019-06-03
     start_time: "11:40"
     end_time: "11:50"
-  - title: "manuel-pais"
+  - title: "diogo-oliveira"
     type: talk
     date: 2019-06-03
     start_time: "11:50"
     end_time: "12:20"
   - title: "Break"
+    type: custom
     date: 2019-06-03
     start_time: "12:20"
     end_time: "12:30"
@@ -243,6 +247,7 @@ program:
     start_time: "14:30"
     end_time: "15:00"
   - title: "Break"
+    type: custom
     date: 2019-06-03
     start_time: "15:00"
     end_time: "15:10"
@@ -252,6 +257,7 @@ program:
     start_time: "15:10"
     end_time: "15:30"
   - title: "Coffee Break"
+    type: custom
     date: 2019-06-03
     start_time: "15:30"
     end_time: "16:00"
@@ -266,6 +272,7 @@ program:
     start_time: "16:20"
     end_time: "16:40"
   - title: "Break"
+    type: custom
     date: 2019-06-03
     start_time: "16:40"
     end_time: "16:50"
@@ -305,6 +312,7 @@ program:
     start_time: "09:15"
     end_time: "10:00"
   - title: "Break"
+    type: custom
     date: 2019-06-04
     start_time: "10:00"
     end_time: "10:10"
@@ -314,6 +322,7 @@ program:
     start_time: "10:10"
     end_time: "10:40"
   - title: "Coffee Break"
+    type: custom
     date: 2019-06-04
     start_time: "10:40"
     end_time: "11:10"
@@ -323,6 +332,7 @@ program:
     start_time: "11:10"
     end_time: "11:40"
   - title: "Break"
+    type: custom
     date: 2019-06-04
     start_time: "11:40"
     end_time: "11:50"
@@ -332,6 +342,7 @@ program:
     start_time: "11:50"
     end_time: "12:20"
   - title: "Break"
+    type: custom
     date: 2019-06-04
     start_time: "12:20"
     end_time: "12:30"
@@ -345,7 +356,7 @@ program:
     date: 2019-06-04
     start_time: "13:00"
     end_time: "14:30"
-  - title: "pierre-vicent"
+  - title: "pierre-vincent"
     type: talk
     date: 2019-06-04
     start_time: "14:30"
@@ -359,21 +370,22 @@ program:
     type: open-space
     date: 2019-06-04
     start_time: "15:20"
-    end_time: "15:50"
+    end_time: "15:40"
   - title: "Break"
+    type: custom
     date: 2019-06-04
-    start_time: "15:50"
-    end_time: "16:00"
+    start_time: "15:40"
+    end_time: "15:50"
   - title: "Open Space Discussions #2"
     type: open-space
     date: 2019-06-04
-    start_time: "16:00"
-    end_time: "16:20"
+    start_time: "15:50"
+    end_time: "16:10"
   - title: "Wrap-up and Goodbyes"
     type: custom
     date: 2019-06-04
-    start_time: "16:200"
-    end_time: "16:40"
+    start_time: "16:10"
+    end_time: "16:30"
 
 ignites:
   - title: "pedro-pessoa"
