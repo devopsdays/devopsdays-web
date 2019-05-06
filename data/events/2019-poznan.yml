@@ -135,8 +135,8 @@ sponsors:
   - id: poznan
     level: community
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-#  - id: arresteddevops
-#    level: community
+  - id: splunk
+    level: socialevent
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -155,6 +155,8 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: socialevent
+    label: Social Event
 
 program:
   - title: "Registration"
