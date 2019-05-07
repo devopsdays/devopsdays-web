@@ -164,7 +164,9 @@ sponsors:
  - id: gfi
    level: bronze
  - id: itcenter
-   level: bronze  
+   level: bronze
+ - id: feedzai
+   level: bronze   
  - id: bitmaker
    level: community
  - id: apogep
