@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-04"
+Talk_start_time = "10:10"
+Talk_end_time = "10:40"
 Title = "A field guide to the Financial Times"
 Type = "talk"
 Speakers = ["rhys-evans"]

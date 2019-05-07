@@ -101,6 +101,8 @@ sponsors:
     level: gold
   - id: chef
     level: hh
+  - id: chef
+    level: silver
   - id: microsoft
     level: hh
   - id: elastic
