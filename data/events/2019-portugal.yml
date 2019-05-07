@@ -162,7 +162,9 @@ sponsors:
  - id: i2s
    level: bronze
  - id: gfi
-   level: bronze    
+   level: bronze
+ - id: itcenter
+   level: bronze  
  - id: bitmaker
    level: community
  - id: apogep
