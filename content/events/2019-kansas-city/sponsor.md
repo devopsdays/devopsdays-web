@@ -36,7 +36,7 @@ impression on the attendees.
 Sponsors are responsible for providing high-res logos for use on the website and
 in promotional materials. The preferred file formats are EPS or AI.
 <hr/>
-<h2>Special Sponsorships</h2>
+<h2>Sponsorship Packages</h2>
 <div class = "row">
 <div class = "col-sm-12">
   <table class = "table table-bordered table-responsive">

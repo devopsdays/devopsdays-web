@@ -178,13 +178,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
+  - id: premium
+    label: Premium
 #    max: 10
-  - id: silver
-    label: Silver
+  - id: special
+    label: Special
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: supporting
+    label: Supporting
   - id: community
     label: Community
