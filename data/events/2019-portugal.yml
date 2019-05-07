@@ -36,14 +36,14 @@ location_address: "EDP - Energias de Portugal, Av. 24 de Julho 12A, 1249-300 Lis
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
-# - name: location
+  - name: location
   - name: registration
   - name: program
   - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
+  - name: volunteers
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
 
