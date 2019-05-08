@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-04"
+Talk_start_time = "14:30"
+Talk_end_time = "15:00"
 Title = "Changing tyres on a moving car: our journey to zero-downtime deployments"
 Type = "talk"
 Speakers = ["pierre-vincent"]

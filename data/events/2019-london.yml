@@ -97,6 +97,8 @@ sponsors:
   - id: pivotal
     level: gold
     # Silver
+  - id: capitaloneuk
+    level: silver
   - id: datadog
     level: silver
   - id: pagerduty

@@ -47,7 +47,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose #setup papercall first
   - name: location
 #  - name: program
-#  - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -116,6 +116,8 @@ sponsors:
     level: community
   - id: appdynamics
     level: gold
+  - id: thoughtworks-gocd
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

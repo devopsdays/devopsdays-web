@@ -59,3 +59,6 @@ Se asignará nivel _Community_ a instituciones educativas, meetups y organizacio
 * Ser sponsor no da derecho a dar una charla; se debe participar en el CFP.
 * No se comparte con los sponsors la base de datos de participantes.
 * Estamos abiertos a considerar otras propuestas de patrocinio.
+
+---
+DevOpsDays Montevideo 2019 designó a BILESTAR S.A. como empresa encargada de las gestiones administrativas, cobranzas y pagos de acuerdo a las normativas vigentes en Uruguay.

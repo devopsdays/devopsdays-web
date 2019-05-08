@@ -6,7 +6,7 @@ Title = "Pipeline, automação e transparência para sua aplicação em produç�
 Type = "talk"
 Speakers = ["jaqueline-ramos"]
 youtube = ""
-slideshare = ""
+slideshare = "https://pt.slideshare.net/JaquelineRamos3/devops-days-sp-2019"
 slides = ""
 +++
 

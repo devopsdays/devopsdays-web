@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Checklists: Good Enough for NASA, good enough for your app!"
 Type = "talk"
 Speakers = ["jay-gordon"]
+slideshare = "https://www.slideshare.net/HoustonDevOps/devopsdays-houston-2019-jay-gordon-checklists-good-enough-for-nasa-good-enough-for-your-app"
 +++
 
 Whether it’s launching a rocket to the moon or deploying an application with Kubernetes, checklists are important. They help provide a reasonable expectation of things that should work in the specific situation you are in. In the case of technology, checklists can help ensure your application remains resilient in times of trouble.

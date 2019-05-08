@@ -170,12 +170,20 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: googlecloud
-    level: gold
-  - id: googlecloud
-    level: alacarte
   - id: logzio
     level: gold
+  - id: gitlab
+    level: gold
+  - id: mesosphere
+    level: gold
+  - id: merrill
+    level: gold
+  - id: victorops
+    level: gold
+  - id: netapp
+    level: silver
+  - id: netapp
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

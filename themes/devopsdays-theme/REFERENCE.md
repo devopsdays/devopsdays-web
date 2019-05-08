@@ -59,7 +59,7 @@ All dates are in unquoted YYYY-MM-DD, like this: `variable: 2016-01-05`, or like
 | `registration_date_start` | YYYY-MM-DD | No       | The date you will start accepting registration. Can be a blank value.                                                                                                                                                         | 2016-01-05                                            |
 | `registration_date_end`   | YYYY-MM-DD | No       | The date you will close registration. Can be a blank value.                                                                                                                                                                   | 2016-01-05                                            |
 | `registration_closed`     | String     | No       | Set this to "true" if you need to manually close registration before your registration end date.                                                                                                                              | "true"                                                |
-| `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere"  |                                                                                   |
+| `registration_link`       | String     | No       | If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.                                                                                         | "https://myurlhere" reference it like {{< event_link url-key="registration_link" text="Register to attend the conference!" >}} |                                                                                   |
 | `sponsor_link`       | String     | No       | If you have a custom sponsorship link, enter it here. This will control the "Become an X Sponsor!" links. It does NOT change the "Sponsor" button.                                                                                         | "https://myurlhere"  |                                                                                   |
 
 ### Branding Fields
@@ -326,5 +326,3 @@ To show discounted tickets on the page (they display as a striked through full-p
 ```
 {{< tito_widget event="devopsdays-london/2019" discount-code="examplediscount" >}}
 ```
-
-

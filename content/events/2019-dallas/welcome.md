@@ -9,6 +9,8 @@ Description = "devopsdays Dallas 2019"
   {{< event_logo >}}
 </div>
 <br>
+<h5>The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row will be back again another year in 2019 planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex.</h5>
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Dates</strong>
