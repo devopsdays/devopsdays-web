@@ -141,7 +141,15 @@ team_members: # Name is the only required field for team members.
       harp, diligently studying Irish, being an apprentice potter, knitting, and
       tinkering with his 1959 Austin Mini among many other activities.
   - name: "Steve McConville"
+    image: "steve-mcconville.jpg"
     employer: "Genesys"
+    twitter: "daikaiju"
+    linkedin: "https://www.linkedin.com/in/stevemcconville/"
+    bio: |
+      Steve is a technologist with 15 years experience performing both development
+      and operations roles. He recently joined Genesys AI lab in Galway as a
+      principal engineer working on data engineering and machine learning
+      infrastructure.
   - name: "Joseph Keenan"
     employer: "Cisco"
   - name: "Duncan Thomas"
