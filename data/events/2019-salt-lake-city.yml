@@ -115,8 +115,6 @@ sponsors:
       level: gold
     - id: dynatrace
       level: gold
-    - id: gitlab
-      level: gold
     - id: influxdata
       level: gold
     - id: instana
@@ -124,8 +122,6 @@ sponsors:
     - id: newrelic
       level: gold
     - id: rundeck
-      level: gold
-    - id: sonatype
       level: gold
     - id: victorops
       level: gold
