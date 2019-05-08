@@ -96,6 +96,8 @@ sponsors:
     level: silver
   - id: eventbrite
     level: bronze
+  - id: diamanti
+    level: gold
   - id: redhat
     level: community
   - id: shadow-soft
