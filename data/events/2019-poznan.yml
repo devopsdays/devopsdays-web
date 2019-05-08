@@ -55,7 +55,7 @@ team_members: # Name is the only required field for team members.
   - name: "Aleksandra Dondziak"
     employer: "Allegro.pl"
     linkedin: "https://www.linkedin.com/in/aleksandra-dondziak-915979b6/"
-#    image:
+    image: aleksandra-dondziak.jpg
   - name: "Dariusz Dwornikowski"
     twitter: "7d1"
     employer: "Nordcloud"
@@ -77,16 +77,20 @@ team_members: # Name is the only required field for team members.
   - name: "Martyna Młynarczyk"
     employer: "Centuria"
     linkedin: "https://www.linkedin.com/in/martyna-m%C5%82ynarczyk-08a440107/"
+    image: martyna-mlynarczyk.jpg
   - name: "Dawid Młynarz"
     employer: "HolidayCheck AG"
     linkedin: "https://www.linkedin.com/in/dawid-mlynarz/"
+    image: dawid-mlynarz.jpg
   - name: "Tomasz Napierała"
     twitter: "tzn"
     linkedin: "https://www.linkedin.com/in/tnapierala/"
+    image: tomasz-napierala.jpg
   - name: "Daniel Pijanowski"
     employer: "Allegro.pl"
     linkedin: "https://www.linkedin.com/in/dpijanowski/"
     twitter: "DPijanowski"
+    image: daniel-pijanowski.jpg
   - name: "Monika Projs"
     employer: "Egnyte Poland"
     linkedin: "https://www.linkedin.com/in/monikaprojs/"
@@ -103,6 +107,7 @@ team_members: # Name is the only required field for team members.
   - name: "Klaudia Jasniak"
     employer: "JCommerce"
     linkedin: "https://www.linkedin.com/in/klaudia-ja%C5%9Bniak-97283180/"
+    image: klaudia-jasniak.jpg
 
 
 organizer_email: "organizers-poznan-2019@devopsdays.org" # Put your organizer email address here
