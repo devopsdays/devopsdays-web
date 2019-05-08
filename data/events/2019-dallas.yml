@@ -35,8 +35,8 @@ location: "Plano Event Center" # Defaults to city, but you can make it the venue
 location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
+  - name: propose
   - name: program
   - name: registration
  # - name: speakers
