@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-04"
+Talk_start_time = "11:10"
+Talk_end_time = "11:40"
 Title = "Going 100% Kubernetes in a Production component"
 Type = "talk"
 Speakers = ["joao-vale"]

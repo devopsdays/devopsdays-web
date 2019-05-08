@@ -180,6 +180,10 @@ sponsors:
     level: gold
   - id: victorops
     level: gold
+  - id: netapp
+    level: silver
+  - id: netapp
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

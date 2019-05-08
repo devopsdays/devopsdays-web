@@ -36,7 +36,7 @@ impression on the attendees.
 Sponsors are responsible for providing high-res logos for use on the website and
 in promotional materials. The preferred file formats are EPS or AI.
 <hr/>
-<h2>Special Sponsorships</h2>
+<h2>Sponsorship Packages</h2>
 <div class = "row">
 <div class = "col-sm-12">
   <table class = "table table-bordered table-responsive">
@@ -44,7 +44,7 @@ in promotional materials. The preferred file formats are EPS or AI.
     <tr>
       <th><i>packages</i></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Supporting</a></u></b></center><center><b>$1,000</b></center></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium*</a></u></b></center><center><b>$6,000</b></center></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></b></center><center><b>$6,000</b></center></th>
     </tr>
     </thead>
     <tbody>
@@ -120,7 +120,6 @@ in promotional materials. The preferred file formats are EPS or AI.
     </tr>
     </tbody>
   </table>
-  <i><small>*Returning sponsors get a $1,000 discount</small></i>
 
 <h2>Special Sponsorships</h2>
 
