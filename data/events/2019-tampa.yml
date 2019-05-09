@@ -217,6 +217,11 @@ program:
     date: 2019-06-07
     start_time: 
     end_time:   
+  - title: "dave-meurer"
+    type: talk
+    date: 2019-06-07
+    start_time: 
+    end_time: 
   - title: "Ignites"
     type: ignite
     date: 2019-06-07
@@ -244,3 +249,4 @@ ignites:
     date: 2019-06-07
   - title: "timothy-adams"
     date: 2019-06-07
+  - title: "marklyton-holmes"
