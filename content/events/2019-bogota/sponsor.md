@@ -101,7 +101,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   <tr>
       <td class="tg-yzt1">5-minute pitch to full audience</td>
       <td class="tg-yw4l"></td>
-      <td class="tg-mtwr"></td>
+      <td class="tg-yw4l"></td>
       <td class="tg-b44r">X</td>
       <td class="tg-i9b1">X</td>
   </tr>
