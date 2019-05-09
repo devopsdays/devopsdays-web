@@ -179,6 +179,9 @@ sponsors:
    level: community
  - id: winb
    level: community
+ - id: pydata-pt
+   level: community
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
