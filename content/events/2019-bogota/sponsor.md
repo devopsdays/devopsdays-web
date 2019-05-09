@@ -112,13 +112,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td class="tg-yw4l"></td>
       <td class="tg-yw4l"></td>
   </tr>
-  <tr>
+<!--  <tr>
       <td class="tg-yzt1">40-minute pitch to full audience</td>
       <td class="tg-yw4l"></td>
       <td class="tg-mtwr"></td>
       <td class="tg-yw4l"></td>
       <td class="tg-yw4l"></td>
-  </tr>
+  </tr> -->
   <tr>
       <td class="tg-yzt1">Logo on event website and conference room</td>
       <td class="tg-n100">X</td>
