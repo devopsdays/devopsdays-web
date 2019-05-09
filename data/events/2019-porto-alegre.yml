@@ -119,6 +119,8 @@ proposal_email: "proposals-porto-alegre-2019@devopsdays.org" # Put your proposal
 sponsors:
   - id: arresteddevops
     level: community
+  - id: phprs
+    level: community
   - id: afropython
     level: community
   - id: docker-porto-alegre
