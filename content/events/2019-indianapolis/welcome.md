@@ -67,3 +67,15 @@ test and deploy software to a kubernetes cluster.
 Requirements and prerequisites for this session will be updated
 approximately one month before the event. Bring your laptop.
 </p>
+
+<br/>
+
+<h3><b>After party, July 25th</b></h3>
+<img style="float: center; max-width: 800px; padding: 0px 20px 20px 0px" src="/events/2019-indianapolis/indiana_city_brewing_co.png"></img>
+<p>
+Join us at <a href="http://indianacitybeer.com/">Indiana City Brewing Company</a>
+after the conference on July 25th at 6pm. We will have appetizers, beer
+and the famous Ignite Karaoke!
+
+The <a href="https://goo.gl/maps/pNQd3TF792wKeNQE8">address</a> is 24 Shelby Street, Indianapolis, IN 46202.
+</p>
