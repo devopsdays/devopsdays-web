@@ -143,6 +143,8 @@ sponsors:
     level: foodtrucks
   - id: fullstaq
     level: foodtrucks
+  - id: tergos
+    level: foodtrucks
   # Bronze
   - id: utilus
     level: bronze
