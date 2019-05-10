@@ -1,5 +1,5 @@
 +++
-Title = "dave-meurer"
+Title = "Dave Meurer"
 Twitter = "davemeurer"
 image = ""
 type = "speaker"
