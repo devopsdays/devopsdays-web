@@ -8,5 +8,5 @@ linktitle = "michal-rostecki"
 
 #### Speaker
 
-Programista w SUSE, obecnie zajmujący się głównie projektem Cilium i tematyką sieci dla kontenerów.
+Software Engineer at SUSE, working on Cilium project and Kubernetes networking.
 
