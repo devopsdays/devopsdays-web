@@ -184,6 +184,10 @@ sponsors:
     level: silver
   - id: netapp
     level: alacarte
+  - id: talend
+    level: silver
+  - id: codefresh
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
