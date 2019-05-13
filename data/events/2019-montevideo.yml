@@ -167,6 +167,9 @@ sponsors:
   - id: powershell-meetup-uy
     level: community
 
+  - id: stickermule
+    level: sticker
+    url: "https://www.stickermule.com/supports/devopsdaysmvd"
 
 # TBD sponsors
 # ------------------------------------------------------------------------------
@@ -199,3 +202,5 @@ sponsor_levels:
   - id: community
     label: Community
     # max: 0 # This is the same as omitting the max limit.
+  - id: sticker
+    label: Sticker
