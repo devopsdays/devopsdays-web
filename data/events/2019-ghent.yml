@@ -99,6 +99,8 @@ sponsors:
   # social
   # exclusive
   # gold
+  - id: pagerduty
+    level: gold
   # silver
   # bronze
   - id: inuits
