@@ -1,7 +1,7 @@
 +++
 Title = "Michael Fraser"
 Twitter = "1mfraser"
-image = ""
+image = "michael-j-fraser.jpg"
 type = "speaker"
 linktitle = "michael-fraser"
 +++

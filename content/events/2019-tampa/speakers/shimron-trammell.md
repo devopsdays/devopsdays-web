@@ -1,7 +1,7 @@
 +++
 Title = "Shimron Trammell"
 Twitter = "shimron"
-image = "shimron-trammell.jpg"
+image = "shimron_pic.jpg"
 type = "speaker"
 linktitle = "Shrmron Trammell"
 +++
