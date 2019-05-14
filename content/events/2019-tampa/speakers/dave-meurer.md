@@ -1,7 +1,7 @@
 +++
 Title = "Dave Meurer"
 Twitter = "davemeurer"
-image = ""
+image = "dave-meurer.png"
 type = "speaker"
 linktitle = "dave-meurer"
 +++

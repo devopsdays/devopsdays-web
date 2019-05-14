@@ -1,6 +1,6 @@
 +++
 Title = "Michael Fraser"
-Twitter = "1mfraser"
+Twitter = "itascode"
 image = "michael-j-fraser.jpg"
 type = "speaker"
 linktitle = "michael-fraser"
