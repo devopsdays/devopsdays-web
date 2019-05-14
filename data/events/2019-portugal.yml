@@ -167,6 +167,10 @@ sponsors:
    level: bronze
  - id: feedzai
    level: bronze   
+ - id: devopslisbon
+   level: community
+ - id: devopsporto
+   level: community
  - id: bitmaker
    level: community
  - id: apogep
@@ -179,6 +183,17 @@ sponsors:
    level: community
  - id: winb
    level: community
+ - id: geekgirlsportugal
+   level: community
+ - id: pydata-lx
+   level: community
+ - id: netponto
+   level: community
+ - id: dspt
+   level: community
+ - id: devopsbraga
+   level: community
+  
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -344,7 +359,7 @@ program:
     date: 2019-06-04
     start_time: "10:40"
     end_time: "11:10"
-  - title: "joao-vale"
+  - title: "k8s100"
     type: talk
     date: 2019-06-04
     start_time: "11:10"

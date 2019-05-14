@@ -170,7 +170,7 @@ sponsors:
   level: community
 - id: swiss-perl-workshop
   level: community
-- id: vshn
+- id: appuio
   level: platinum
 - id: swiss-re
   level: gold
@@ -308,7 +308,7 @@ program:
     type: custom
     date: 2019-05-14
     start_time: "17:30"
-    end_time: "opes end"
+    end_time: "21:00"
     comments: "The evening event will take place at the conference location."
   - title: "Registration & Welcome Coffe"
     type: custom

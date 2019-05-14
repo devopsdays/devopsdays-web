@@ -108,8 +108,14 @@ sponsors:
   - id: b3init
     level: silver
   - id: ea
-    level: silver
+    level: bronze
   - id: citerus
+    level: silver
+  - id: izettle
+    level: silver
+  - id: f5
+    level: gold
+  - id: diabol
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -124,5 +130,5 @@ sponsor_levels:
     max: 0
   - id: silver
     label: Silver
-  - id: community
-    label: Community
+  - id: bronze
+    label: Bronze

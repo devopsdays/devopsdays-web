@@ -65,15 +65,15 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   </tr>
   <tr>
     <td class="tg-yzt1">Share Table</td>
-    <td class="tg-yw4l">X</td>
-    <td class="tg-mtwr"></td>
+    <td class="tg-n100">X</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
     <td class="tg-yzt1">Full Table</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">X</td>
+    <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
@@ -81,7 +81,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <td class="tg-yzt1">Choice of table location</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">X</td>
+    <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>
   </tr>
   <tr>
@@ -99,26 +99,26 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <td class="tg-i9b1">large</td>
   </tr>
   <tr>
-      <td class="tg-yzt1">15-minute pitch to full audience</td>
-      <td class="tg-yw4l">X</td>
-      <td class="tg-mtwr"></td>
+      <td class="tg-yzt1">5-minute pitch to full audience</td>
       <td class="tg-yw4l"></td>
       <td class="tg-yw4l"></td>
+      <td class="tg-b44r">X</td>
+      <td class="tg-i9b1">X</td>
   </tr>
   <tr>
-      <td class="tg-yzt1">30-minute pitch to full audience</td>
+      <td class="tg-yzt1">2-minute pitch to full audience</td>
       <td class="tg-yw4l"></td>
       <td class="tg-mtwr">X</td>
       <td class="tg-yw4l"></td>
       <td class="tg-yw4l"></td>
   </tr>
-  <tr>
+<!--  <tr>
       <td class="tg-yzt1">40-minute pitch to full audience</td>
       <td class="tg-yw4l"></td>
       <td class="tg-mtwr"></td>
-      <td class="tg-yw4l">X</td>
-      <td class="tg-yw4l">X</td>
-  </tr>
+      <td class="tg-yw4l"></td>
+      <td class="tg-yw4l"></td>
+  </tr> -->
   <tr>
       <td class="tg-yzt1">Logo on event website and conference room</td>
       <td class="tg-n100">X</td>
@@ -156,7 +156,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
   </tr>
   <tr>
     <td class="tg-yzt1">Possibility to provide prize to most active person in social<br>networks of the conference</td>
-    <td class="tg-yw4l">X</td>
+    <td class="tg-n100">X</td>
     <td class="tg-mtwr">X</td>
     <td class="tg-b44r">X</td>
     <td class="tg-i9b1">X</td>

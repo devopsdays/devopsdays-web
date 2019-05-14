@@ -11,7 +11,7 @@ ga_tracking_id: "UA-109430778-1" # If you have your own Google Analytics trackin
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2019-07-25T00:00:00-04:00
+startdate: 2019-07-24T00:00:00-04:00
 enddate: 2019-07-26T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
@@ -46,7 +46,7 @@ location_address: "350 W Maryland St, Indianapolis, IN 46225"
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose #setup papercall first
   - name: location
-#  - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -118,6 +118,8 @@ sponsors:
     level: gold
   - id: thoughtworks-gocd
     level: silver
+  - id: ibm
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -136,3 +138,30 @@ sponsor_levels:
     label: Alacarte
   - id: community
     label: Community
+
+program:
+  - title: "Training day - Registration"
+    type: custom
+    date: 2019-07-24
+    start_time: "12:30"
+    end_time: "13:00"
+  - title: "Training - Kubernetes or GoCD"
+    type: custom
+    date: 2019-07-24
+    start_time: "13:00"
+    end_time: "17:00"
+  - title: "Happy hour appetizers"
+    type: custom
+    date: 2019-07-24
+    start_time: "17:00"
+    end_time: "18:00"
+  - title: "Day 1 - more info coming soon"
+    type: custom
+    date: 2019-07-25
+    start_time: "08:00"
+    end_time: "17:00"
+  - title: "Day 2 - more info coming soon"
+    type: custom
+    date: 2019-07-26
+    start_time: "08:00"
+    end_time: "17:00"

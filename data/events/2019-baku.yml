@@ -28,17 +28,17 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "40.4055427, 49.8467809" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+coordinates: "40.3961055, 49.815178" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Baku" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Ataturk avenue 89" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Qafqaz Baku City Hotel" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   - name: location
-  # - name: registration
+  - name: registration
   # - name: program
-  # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -74,6 +74,8 @@ proposal_email: "vusal@sup.az" # Put your proposal email address here
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: atltech
+    level: gold
+  - id: innoland
     level: gold
   #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: techacademy

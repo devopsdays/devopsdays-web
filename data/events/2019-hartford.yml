@@ -90,12 +90,12 @@ team_members: # Name is the only required field for team members.
     image: ""
     bio: ""
   - name: "Henry Quinn"
-    twitter: ""
-    employer: ""
-    github: ""
-    website: ""
-    image: ""
-    bio: ""
+    twitter: "Quinncuatro"
+    employer: "Clarity Software Solutions"
+    github: "Quinncuatro"
+    website: "https://henryneeds.coffee"
+    image: "henry-quinn.jpg"
+    bio: "Henry helped lead a cultural revolution at the US District Courts through the use of container technologies and will soon be starting a new gig at Clarity Software Solutions."
 organizer_email: "organizers-hartford-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-hartford-2019@devopsdays.org" # Put your proposal email address here
 
