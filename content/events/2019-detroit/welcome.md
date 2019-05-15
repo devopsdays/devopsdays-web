@@ -76,6 +76,6 @@ Description = "devopsdays Detroit 2019"
   <div class = "col-md-8">
     {{< event_link page="contact" text="Get in touch with the organizers" >}}
   </div>
-</div> 
+</div>
 
 {{< event_twitter >}}
