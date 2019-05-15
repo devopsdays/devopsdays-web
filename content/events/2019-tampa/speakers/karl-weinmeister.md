@@ -1,7 +1,7 @@
 +++
 Title = "Karl Weinmeister"
 Twitter = "kweinmeister"
-image = ""
+image = "karl-weinmeister.jpg"
 type = "speaker"
 linktitle = "karl-weinmeister"
 +++
