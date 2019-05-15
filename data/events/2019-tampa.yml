@@ -137,7 +137,9 @@ sponsors:
   - id: pivotal
     level: gold
   - id: ignw
-    level: gold        
+    level: gold     
+  - id: synopsys
+    level: diamond   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

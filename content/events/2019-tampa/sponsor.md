@@ -66,19 +66,14 @@ achieved.
 </td>
       <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>Sold Out<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br><br><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZWF76TZ9RUZ8E">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>Sold Out<br><br><br>
 </td>
     </tr>
     <tr>
       <td>Price</td>
       <td style="padding: 5px" align="center">$750</td>
       <td style="padding: 5px" align="center">$2,500</td>
-      <td style="padding: 5px" align="center">$7,500</td>
+      <td style="padding: 5px" align="center">$5,000</td> 
     </tr>
     <tr>
       <td>Included Tickets</td>
