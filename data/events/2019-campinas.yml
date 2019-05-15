@@ -20,11 +20,11 @@ cfp_link: "https://www.papercall.io/devopsdays-campinas-2019" #if you have a cus
 
 masthead_background: "dod-cps-horizontal.jpg"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-05-16T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-21T00:00:00-03:00 # close registration. Leave blank if registration is not open yet.
 
 # registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://www.sympla.com.br/devops-days-campinas-2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-campinas__530045" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -52,9 +52,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Conduta
     icon: "handshake-o"
     url: /events/2019-campinas/conduta
-  # - name: Ingressos
-  #   icon: "user-plus"
-  #   url: "https://devopsdayscampinas.eventize.com.br/"
+  - name: Ingressos
+    icon: "user-plus"
+    url: "https://www.sympla.com.br/devopsdays-campinas__530045"
   - name: Patrocinio
     icon: "money"
     url: /events/2019-campinas/patrocinio
