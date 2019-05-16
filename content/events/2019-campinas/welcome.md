@@ -68,4 +68,6 @@ Participe da primeira edição do DevOpsDays Campinas!
 
 O DevOpsDays terá sua primeira edição em Campinas no dia 25 de Outubro de 2019!
 
-Em breve abriremos o CFP e as inscrições.
+Call for papers aberto: https://www.papercall.io/devopsdays-campinas-2019 ! 
+
+Inscrições abertas: https://www.sympla.com.br/devopsdays-campinas__530045 !
