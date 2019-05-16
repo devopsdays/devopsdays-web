@@ -372,7 +372,9 @@ Specifically on eventbrite we usually:
 
 ## Setting your program
 
-We recommend a two day single-track program with the following structure:
+The following program structure has been proven successful by many events worldwide. Many of the program elements are not only good event practices, but underscore many of the most important aspects of a DevOps culture, including sharing of experiences and encouraging communcation between all present. 
+
+We strongly recommend that you follow this structure as closely as possible your first year, even if you have experience running other events. 
 
 - talks in the morning: this follows the traditional format of a speaker or panel
 - There is usually an introduction of about 15 minutes at the beginning of the conference from the organizers
