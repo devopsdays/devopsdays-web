@@ -128,6 +128,10 @@ proposal_email: "organizers-aracaju-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: paggcerto
     level: gold
+  - id: popcode
+    level: silver
+  - id: elastic
+    level: silver
   - id: unit
     level: silver
   - id: jobconnect
@@ -157,18 +161,128 @@ sponsor_levels:
   - id: community
     label: Community
 program:
-  - title: "Credenciamento, breakfast e abertura"
-    type: open-space
-    date: 2019-06-08
-    start_time: "08:00"
-    end_time: "08:30"
-  - title: "tbd"
+  - title: "Credenciamento e coffee break"
+    type: custom
+    date: "2019-06-08"
+    start_time: "8:00"
+    end_time: "9:00"
+
+  - title: "Abertura"
+    type: custom
+    date: "2019-06-08"
+    start_time: "9:00"
+    end_time: "9:10"
+
+  - title: "mateus-prado"
     type: talk
-    date: 2019-06-08
-    start_time: "08:40"
-    end_time: "17:00"
+    date: "2019-06-08"
+    start_time: "9:10"
+    end_time: "9:50"
+
+  - title: "eduardo-neves"
+    type: talk
+    date: "2019-06-08"
+    start_time: "9:50"
+    end_time: "10:05"
+
+  - title: "marcus-vinicius-aka-vinny"
+    type: talk
+    date: "2019-06-08"
+    start_time: "10:05"
+    end_time: "10:20"
+
+  - title: "mayara-gouveia"
+    type: talk
+    date: "2019-06-08"
+    start_time: "10:20"
+    end_time: "10:35"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2019-06-08"
+    start_time: "10:35"
+    end_time: "10:50"
+
+  - title: "gabriel-policante-e-mariana-albano"
+    type: talk
+    date: "2019-06-08"
+    start_time: "10:50"
+    end_time: "11:05"
+
+  - title: "camilla-martins"
+    type: talk
+    date: "2019-06-08"
+    start_time: "11:05"
+    end_time: "11:20"
+
+  - title: "euler-neto"
+    type: talk
+    date: "2019-06-08"
+    start_time: "11:20"
+    end_time: "11:35"
+
+  - title: "Perguntas"
+    type: custom
+    date: "2019-06-08"
+    start_time: "11:35"
+    end_time: "11:50"
+
+  - title: "Almoço"
+    type: custom
+    date: "2019-06-08"
+    start_time: "12:00"
+    end_time: "13:00"
+  
+  - title: "priscilla-parodi"
+    type: talk
+    date: "2019-06-08"
+    start_time: "13:20"
+    end_time: "14:00"
+  
+  - title: "valdomiro-bilharvas"
+    type: talk
+    date: "2019-06-08"
+    start_time: "14:05"
+    end_time: "14:20"
+  
+  - title: "jeremias-araujo"
+    type: talk
+    date: "2019-06-08"
+    start_time: "14:20"
+    end_time: "14:35"
+  
+  - title: "lanay-cardoso"
+    type: talk
+    date: "2019-06-08"
+    start_time: "14:35"
+    end_time: "14:50"
+  
+  - title: "Perguntas"
+    type: custom
+    date: "2019-06-08"
+    start_time: "14:50"
+    end_time: "15:00"
+
+  - title: "rafael-gomes-aka-gomex"
+    type: talk
+    date: "2019-06-08"
+    start_time: "15:00"
+    end_time: "15:40"
+  
+  - title: "Ignite Talks"
+    type: ignite
+    date: "2019-06-08"
+    start_time: "15:40"
+    end_time: "16:10"
+
+  - title: "Fishbowl"
+    type: open
+    date: "2019-06-08"
+    start_time: "16:10"
+    end_time: "16:50"
+
   - title: "Encerramento"
-    type: open-space
+    type: custom
     date: 2019-06-08
     start_time: "17:00"
     end_time: "17:15"
