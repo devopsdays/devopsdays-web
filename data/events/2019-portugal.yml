@@ -153,9 +153,15 @@ sponsors:
    level: gold
  - id: microsoft
    level: gold
+ - id: cgi
+   level: gold
  - id: devscope
    level: silver
  - id: thoughtworks-gocd
+   level: silver
+ - id: fujitsu-pt
+   level: silver
+ - id: xebialabs
    level: silver
  - id: claranet
    level: bronze
