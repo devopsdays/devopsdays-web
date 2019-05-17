@@ -77,8 +77,6 @@ sponsors:
     level: platinum
   - id: appdynamics
     level: gold
-  - id: logz
-    level: gold
   - id: arresteddevops
     level: community
 
