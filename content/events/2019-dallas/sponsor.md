@@ -137,7 +137,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
     </tr>
     <tr>
-      <td colspan="2">20% Discount code to share with your community</td>
+      <td colspan="2">20% Discount code provided to share with your client community</td>
       <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>(50) tickets</strong></td>
       <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
@@ -341,4 +341,4 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
 <br><br>
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
 <br><br>
-<b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off all additional registrations.
+<b>All sponsors attendees must be registered to attend</b>. We offer sponsors 20% off for any additional sponsor registration requests after <i>Tickets Included</i> have been consumed.
