@@ -193,7 +193,12 @@ sponsors:
    level: community
  - id: devopsbraga
    level: community
-  
+ - id: caceresdevops
+   level: community
+ - id: ticeleiria
+   level: community
+ - id: techeventsonline
+   level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

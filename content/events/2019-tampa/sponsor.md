@@ -42,16 +42,6 @@ lanyard and this represents a great opportunity to get your name in front of all
 The lanyard will be printed with your branding
 on it. There is only a single sponsorship available and it is $2,500.
 
-<b>EVENING SOCIAL SPONSOR</b>
-Your chance to plan and host the social event
-on Thursday for all attendees of the DevOpsDays event. This will be the ocial night networking / 
-after-hours event and therefore will
-appear as such on all marketing materials.
-While we understand such events may include
-alcohol, it would be preferable for the focus to
-be on the socializing aspect. We are open to
-discussing ideas on how this might be
-achieved.
 
 <table border="1">
   <tbody>
@@ -66,19 +56,14 @@ achieved.
 </td>
       <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>Sold Out<br><br><br>
 </td>
-      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br><br><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="ZWF76TZ9RUZ8E">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+      <td style="padding: 5px" align="center" valign="top"><b>Diamond</b><br>Sold Out<br><br><br>
 </td>
     </tr>
     <tr>
       <td>Price</td>
       <td style="padding: 5px" align="center">$750</td>
       <td style="padding: 5px" align="center">$2,500</td>
-      <td style="padding: 5px" align="center">$7,500</td>
+      <td style="padding: 5px" align="center">$5,000</td> 
     </tr>
     <tr>
       <td>Included Tickets</td>
