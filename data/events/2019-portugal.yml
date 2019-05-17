@@ -151,6 +151,8 @@ sponsors:
    level: gold
  - id: accenture-pt
    level: gold
+ - id: microsoft
+   level: gold
  - id: devscope
    level: silver
  - id: thoughtworks-gocd
