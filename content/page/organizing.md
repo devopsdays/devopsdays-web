@@ -372,7 +372,11 @@ Specifically on eventbrite we usually:
 
 ## Setting your program
 
-We recommend a two day single-track program with the following structure:
+DevOps encourages the free flow of information, sharing experiences, and communication among peers. The recommended structure of events reinforces and amplifies these practices.
+
+First time events should consult with a core organizer before altering the format. Doing so will ensure organizers benefit from our experience organizing and attending DevOpsDays all over the world.
+
+The recommended format includes:
 
 - talks in the morning: this follows the traditional format of a speaker or panel
 - There is usually an introduction of about 15 minutes at the beginning of the conference from the organizers
