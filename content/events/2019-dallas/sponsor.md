@@ -20,7 +20,7 @@ Any attendee also has the opportunity to demonstrate products or projects as par
 <br><br>
 The best thing to do is send engineers to interact with the experts at DevOpsDays on their own terms.
 <br><br>
-Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Dallas%202019"><strong>organizers-dallas-2019@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
+Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202019"><strong>organizers-dallas-2019@devopsdays.org</strong></a> with any questions you may have about sponsoring the event.
 <br><br>
 <h2>Sponsorship Packages</h2>
 
@@ -337,7 +337,7 @@ We are excited to have you sponsor our event. We also understand that there are 
  <li><i class="fa-li fa fa-check-square"></i>Between June 2 and July 31, 2019 - 75% refund is available.</li>
  <li><i class="fa-li fa fa-check-square"></i>After August 1, 2019 - No refund is available.</li>
 <br>
-Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Community%20Sponsorship%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
+Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a> with any questions you may have about sponsoring the event or requesting a refund.
 <br><br>
 Sponsors are responsible for providing high-res logos for use on the website and in promotional materials.  The preferred file formats are EPS or AI.
 <br><br>
