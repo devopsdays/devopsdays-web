@@ -134,6 +134,8 @@ sponsors:
     level: gold
   - id: index-exchange
     level: gold
+  - id: ontario-teachers-pension-plan
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
