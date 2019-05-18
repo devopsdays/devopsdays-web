@@ -137,7 +137,7 @@ sponsors:
   - id: index-exchange
     level: gold
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -146,10 +146,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 3
+    max: 2
   - id: gold
     label: Gold
-    max: 25
+    max: 32
   - id: lanyard
     label: Lanyard
     max: 1
@@ -158,4 +158,7 @@ sponsor_levels:
     max: 2
   - id: party
     label: Reception Party
+    max: 1
+  - id: charging
+    label: ChargingStations
     max: 1
