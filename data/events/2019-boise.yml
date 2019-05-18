@@ -113,6 +113,16 @@ sponsors:
     level: bronze
   - id: balsam-brands
     level: silver
+  - id: gitlab
+    level: gold
+  - id: involta
+    level: silver
+  - id: truckstopdotcom
+    level: silver
+  - id: simplot
+    level: silver
+  - id: kount
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
