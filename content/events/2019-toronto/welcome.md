@@ -36,7 +36,7 @@ DevOpsDays Toronto is back for its sixth year at the end of May 2019.</br>
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    Registration for this year's conference is closed.
   </div>
 </div>
 
