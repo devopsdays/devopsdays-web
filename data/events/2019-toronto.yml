@@ -160,5 +160,5 @@ sponsor_levels:
     label: Reception Party
     max: 1
   - id: charging
-    label: ChargingStations
+    label: Charging Stations
     max: 1
