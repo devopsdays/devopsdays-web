@@ -29,7 +29,7 @@ coordinates: "-27.4306442, -48.4429707"
 location: "Auditório da Softplan"
 location_address: "Sapiens Parque - Av. Luiz Boiteux Piazza, 1302 - Cachoeira do Bom Jesus, Florianópolis - SC, 88056-000"
 
-masthead_background: "dod-fln-horizontal.png"
+masthead_background: "header.jpeg"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Chamadas (CFP)
     icon: "microphone"
