@@ -16,7 +16,7 @@ cfp_date_start: 2018-10-11T00:00:00+02:00 # start accepting talk proposals.
 cfp_date_end: 2019-01-10T23:59:59+01:00 # close your call for proposals.
 cfp_date_announce: 2019-03-01T23:59:59+01:00 # inform proposers of status
 cfp_link: https://cfp.devopsdays.ch
-registration_open: "true"
+registration_open: "false"
 
 # Location
 #
@@ -30,8 +30,6 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: location
   - name: registration
-  - name: propose
-    url: https://cfp.devopsdays.ch
   - name: sponsor
   - name: contact
   - name: conduct
