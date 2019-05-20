@@ -55,7 +55,7 @@ team_members: # Name is the only required field for team members.
     website: "https://idevops.cloud"
     github: "https://github.com/gb8may"
     twitter: "devopsdaysce"
-    github: "https://github.com/gb8may"
+    github: "gb8may"
     image: "mayara-gouveia.jpg"
   - name: "Jehnyffen Alves"
     role: "QA Analyst"
