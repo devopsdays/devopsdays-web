@@ -1,7 +1,7 @@
 name: "2019-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Fortaleza" # The displayed city name of the event. Capitalize it.
-event_twitter: "devopsdays" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+event_twitter: "devopsdaysce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devopsdays is coming again to Fortaleza in 2019!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
@@ -54,15 +54,14 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/gb8may/"
     website: "https://idevops.cloud"
     github: "https://github.com/gb8may"
-    twitter: "devopsdays"
+    twitter: "devopsdaysce"
     github: "https://github.com/gb8may"
     image: "mayara-gouveia.jpg"
   - name: "Jehnyffen Alves"
     role: "QA Analyst"
-    github: ""
-    facebook: ""
+    bio: "Solutions-focused QA tester with 8+ years with full system development lifecycle experience, including designing, developing and implementing manual and automated test plans, test cases and test processes."
+    github: "https://github.com/jehny"
     linkedin: "https://www.linkedin.com/in/jehnyffen-alves/"
-    website: ""
     image: "jehnyffen-alves.jpg"
   - name: "Ana Carla Cavalcante"
     role: "IT Infrastructure Coordinator"
@@ -70,7 +69,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/ana-carla-cavalcante-62a40725/"
     image: "ana-carla.jpg"
   - name: "Ana Aguilar"
-    role: ""
+    role: "DevOps Analyst"
     bio: ""
     linkedin: ""
     image: ""
@@ -80,14 +79,16 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/renatodossantos/"
     image: "renato-santos.jpg"
   - name: "Edson Celio"
-    role: ""
-    bio: ""
-    linkedin: ""
-    image: ""
+    role: "Systems Developer"
+    bio: "Currently systems developer at Grendene S/A, where he operates in the development of embedded systems and also in the application of improvements within the team (continuous integration, continued delivery and continuous deployment), using mainly Jenkins and Ansible. Enthusiast of DevOps culture, seeking to participate in the communities and events, either as participant, organizer or speaker. In the vacant hours, actively participates in discussions of Internet governance, where he has already been part of fellowship programs for ISOC, LACNIC, ICANN and CGIbr."
+    linkedin: "https://www.linkedin.com/in/edsoncelio/"
+    github: "https://github.com/edsoncelio/"
+    twitter: "tuxpilgrim"
+    image: "edson-celio.jpg"
   - name: "Cassio Moreira"
-    role: ""
+    role: "DevOps Engineer"
     bio: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/cassiomoreira/"
     image: ""
 organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-fortaleza-2019@devopsdays.org" # Put your proposal email address here
