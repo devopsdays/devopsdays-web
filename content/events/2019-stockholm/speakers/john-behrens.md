@@ -1,6 +1,6 @@
 +++
 title = "John Behrens"
-image = ""
+image = "john-behrens.jpg"
 twitter = "webconsultseu"
 website = "http://www.skills-for-teams.com"
 type = "speaker"
