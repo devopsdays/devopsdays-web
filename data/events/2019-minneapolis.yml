@@ -188,6 +188,8 @@ sponsors:
     level: silver
   - id: codefresh
     level: gold
+  - id: cargill
+    level: alacarte
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
