@@ -1,7 +1,8 @@
 +++
-Title = "Gerie Owen"
-Twitter = "GerieOwen"
+title = "Gerie Owen"
+twitter = "GerieOwen"
 website = "http://www.gerieowen.com"
+linkedin = "https://www.linkedin.com/in/gerieowen/"
 image = "gerie-owen.jpg"
 type = "speaker"
 linktitle = "gerie-owen"

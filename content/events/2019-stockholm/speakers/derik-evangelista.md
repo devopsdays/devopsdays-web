@@ -1,8 +1,6 @@
 +++
 title = "Derik Evangelista"
 twitter = "kirederik"
-linkedin = ""
-website = ""
 image = "derik-evangelista.png"
 type = "speaker"
 linktitle = "derik-evangelista"

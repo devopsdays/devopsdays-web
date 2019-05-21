@@ -1,6 +1,6 @@
 +++
-Title = "Sindre Lindstad"
-Twitter = "sindreli"
+title = "Sindre Lindstad"
+twitter = "sindreli"
 image = "sindre-lindstad.png"
 website = "https://sindrelindstad.com"
 type = "speaker"

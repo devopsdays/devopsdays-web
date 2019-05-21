@@ -1,8 +1,8 @@
 +++
 title = "Johan Bäckström"
-image = ""
+image = "johan-bäckström.jpg"
 twitter = ""
-website = ""
+linkedin = "https://www.linkedin.com/in/johan-backstrom/"
 type = "speaker"
 linktitle = "johan-bäckström"
 
