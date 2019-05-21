@@ -188,6 +188,10 @@ sponsors:
     level: silver
   - id: codefresh
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: googlecloud
+    level: alacarte
   - id: cargill
     level: alacarte
 
