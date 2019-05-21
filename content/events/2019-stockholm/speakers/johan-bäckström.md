@@ -2,7 +2,7 @@
 title = "Johan Bäckström"
 image = "johan-bäckström.jpg"
 twitter = ""
-linkedin = "johan-backstrom"
+linkedin = "https://www.linkedin.com/in/johan-backstrom/"
 type = "speaker"
 linktitle = "johan-bäckström"
 

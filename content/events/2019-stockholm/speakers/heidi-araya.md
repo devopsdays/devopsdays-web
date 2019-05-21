@@ -2,7 +2,7 @@
 title = "Heidi Araya"
 image = "heidi-araya.png"
 twitter = "HeidiAraya"
-linkedin = "heidiaraya"
+linkedin = "https://www.linkedin.com/in/heidiaraya/"
 type = "speaker"
 linktitle = "heidi-araya"
 +++

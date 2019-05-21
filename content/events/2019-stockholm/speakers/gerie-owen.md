@@ -2,7 +2,7 @@
 title = "Gerie Owen"
 twitter = "GerieOwen"
 website = "http://www.gerieowen.com"
-linkedin = "gerieowen"
+linkedin = "https://www.linkedin.com/in/gerieowen/"
 image = "gerie-owen.jpg"
 type = "speaker"
 linktitle = "gerie-owen"
