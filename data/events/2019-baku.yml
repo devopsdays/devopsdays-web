@@ -69,7 +69,8 @@ team_members: # Name is the only required field for team members.
     image: "ismayil.jpeg"
   - name: "Fidan Baxishli"
     image: "fidan.jpg"
-  - name: "Naseh Badalov"https://www.linkedin.com/in/nasehbadalov/"
+  - name: "Naseh Badalov"
+    linkedin: "https://www.linkedin.com/in/nasehbadalov/"
     image: "naseh.jpg"
 organizer_email: "vusal@sup.az" # Put your organizer email address here
 proposal_email: "vusal@sup.az" # Put your proposal email address here
