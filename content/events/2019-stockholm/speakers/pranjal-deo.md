@@ -1,5 +1,5 @@
 +++
-Title = "Pranjal Deo"
+title = "Pranjal Deo"
 linkedin = "https://www.linkedin.com/in/pranjal-deo-56840230/"
 image = "pranjal-deo.png"
 type = "speaker"
