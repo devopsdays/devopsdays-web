@@ -125,6 +125,8 @@ sponsors:
     level: silver
   - id: healthwise
     level: platinum
+  - id: rubrik
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
