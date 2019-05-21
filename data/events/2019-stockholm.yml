@@ -117,6 +117,8 @@ sponsors:
     level: gold
   - id: diabol
     level: silver
+  - id: spotify
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
