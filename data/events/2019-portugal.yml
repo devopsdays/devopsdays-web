@@ -436,9 +436,9 @@ program:
     end_time: "16:30"
 
 ignites:
-  - title: "pedro-pessoa"
-    date: "2019-06-03"
   - title: "antonio-cobo"
+    date: "2019-06-03"
+  - title: "pedro-pessoa"
     date: "2019-06-03"
   - title: "daniel-maher"
     date: "2019-06-03"
