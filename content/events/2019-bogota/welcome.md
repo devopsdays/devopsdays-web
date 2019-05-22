@@ -45,14 +45,14 @@ Description = "devopsdays Bogotá 2019"
   </div>
 </div> 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the <a href="https://devopsdays.co/programa">program</a>.
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
