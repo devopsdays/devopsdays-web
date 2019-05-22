@@ -136,6 +136,10 @@ sponsors:
     level: gold
   - id: ontario-teachers-pension-plan
     level: gold
+  - id: cmd
+    level: charging
+  - id: codefresh
+    level: gold
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
