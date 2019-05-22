@@ -1,0 +1,123 @@
+name: "2019-fortaleza" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Fortaleza" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdaysce" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devopsdays is coming again to Fortaleza in 2019!" # Edit this to suit your preferences
+ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+
+# All dates are in unquoted 2019-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow 2019-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# Leave CFP dates blank if you don't know yet, or set all three at once.
+cfp_date_start:  # start accepting talk proposals.
+cfp_date_end:  # close your call for proposals.
+cfp_date_announce:  # inform proposers of status
+
+cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: # close registration. Leave blank if registration is not open yet.
+
+registration_closed: "" #set this to true if you need to manually close registration before your registration end date
+registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+#
+coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "" # Defaults to city, but you can make it the venue name.
+#
+location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ # - name: propose
+ # - name: location
+ # - name: registration
+ # - name: program
+ # - name: speakers
+  - name: sponsor
+  - name: contact
+  - name: conduct
+# - name: example
+#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
+
+
+# These are the same people you have on the mailing list and Slack channel.
+team_members: # Name is the only required field for team members.
+  - name: "Mayara Gouveia"
+    role: "DevOps Engineer"
+    bio: "DevOps | SysAdmin | Information Security Specialist. CIO on iDevOps. DevOps Professional, Agil Scrum Foundation, Data Cabling System Furukawa Certificate, Fluke Networks, CompTIA Network +, Ethical Hacking Foundation, Fortinet Network Security Essentials 1 and 2. Network Forensics Expert. Guest Speaker in spare times. Mac OSX user. Experience with DevSecOps; AWS Cloud; GNU / Linux; Network routing and switching; Structured Cabling; Virtualization; IT services."
+    linkedin: "https://www.linkedin.com/in/gb8may/"
+    website: "https://idevops.cloud"
+    github: "https://github.com/gb8may"
+    twitter: "devopsdaysce"
+    github: "gb8may"
+    image: "mayara-gouveia.jpg"
+  - name: "Jehnyffen Alves"
+    role: "QA Analyst"
+    bio: "Solutions-focused QA tester with 8+ years with full system development lifecycle experience, including designing, developing and implementing manual and automated test plans, test cases and test processes."
+    linkedin: "https://www.linkedin.com/in/jehnyffen-alves/"
+    website: "http://cantocerto.com.br/"
+    github: "https://github.com/jehny"
+    image: "jehnyffen-alves.jpg"
+  - name: "Ana Carla Cavalcante"
+    role: "Infrastructure Coordinator"
+    bio: "IT Infrastructure Coordinator, with more than 20 years of career. Acted in some of the main outsourcing and technology companies in the country: from occupational health ERP to infrastructural technology in the banking sector, having also worked in the oil, gas, steel, and energy sectors. She graduated in Data Processing with specializations in Strategic Management of Projects and Information Systems. Certified in ITIL Intermediate (RCV, SOA and PPO), ISO 20000, ISO 27002, Human Change Management Professional, Green It Citizen, Scrum and Kanban."
+    linkedin: "https://www.linkedin.com/in/ana-carla-cavalcante-62a40725/"
+    image: "ana-carla.jpg"
+  - name: "Ana Aguilar"
+    role: "DevOps Analyst"
+    bio: "Graduated in network of computers with specialization in security information. Certified in Network security essentials - Watchguard and WatchGuard Threat Detection and Response - TDR. I have a lot of experience working with Linux, Amazon, Zabbix monitoring systems and administration firewall. 5+ years experience of career. Design, develop, and maintain automation systems and tools."
+    image: "ana-aguilar.jpg"
+  - name: "Renato Santos"
+    role: "Infrastructure Analyst"
+    bio: "Graduated in computer networks, passionate about technology and reserved conventional, multitasking, command line, admirer of photography, enthusiastic DevOps. Was in charge of the implementation of the ZABBIX monitoring system in the company M2M Solutions, SindiOnibus, Casas Freitas, Vector Contact Center and CRC , where I had great experience in Java technology using TOMCAT and automating services with the deployable tool Ansible applying the concept of DevOps. Ethical and professional way, I try to be sociable and educated respecting the limits of each one."
+    linkedin: "https://www.linkedin.com/in/renatodossantos/"
+    image: "renato-santos.jpg"
+  - name: "Edson Celio"
+    role: "Systems Developer"
+    bio: "Currently systems developer at Grendene S/A, where he operates in the development of embedded systems and also in the application of improvements within the team (continuous integration, continued delivery and continuous deployment), using mainly Jenkins and Ansible. Enthusiast of DevOps culture, seeking to participate in the communities and events, either as participant, organizer or speaker. In the vacant hours, actively participates in discussions of Internet governance, where he has already been part of fellowship programs for ISOC, LACNIC, ICANN and CGIbr."
+    linkedin: "https://www.linkedin.com/in/edsoncelio/"
+    github: "edsoncelio"
+    twitter: "tuxpilgrim"
+    image: "edson-celio.jpg"
+  - name: "Cassio Moreira"
+    role: "DevOps Engineer"
+    bio: "Sysadmin,  SFCP, DEPC, UEWA. IT Professional with over 2 years of experience with Cloud services. Provide solutions to: Web Hosting; Highly Disponibility/Scalable Servers and Services; Monitoring; Automation tasks; CI/CD. DevOps culture enthusiast and guest speaker at sometimes as well."
+    linkedin: "https://www.linkedin.com/in/cassiomoreira/"
+    website: "https://cassioliveiram.com.br/"
+    github: "cassioliveiram"
+    image: "cassio-moreira.jpg"
+organizer_email: "organizers-fortaleza-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-fortaleza-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+ #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: arresteddevops
+    level: community
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
+  - id: community
+    label: Community
