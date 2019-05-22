@@ -34,7 +34,7 @@ location: "The Cyclorama at the Boston Center for the Arts" # Defaults to city, 
 location_address: "539 Tremont St, Boston, MA 02116" # Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  # - name: propose
+  - name: propose
   - name: location
   - name: registration
   # - name: program
@@ -86,21 +86,27 @@ team_members: # Name is the only required field for team members.
     twitter: "adzuci"
     image: "adamblackwell.jpg"
 
-  - name: "Jessie Paskiewicz"
-    bio: "Jessie is a marketing professional based in the suburbs of Boston. Since graduating from UMass Lowell in 2017, Jessie’s work has exposed her to a variety of different industries, including cybersecurity and technology. Her passion for marketing lies in its blend of technical tasks and creative input, especially in the form of email campaigns, event planning, and graphic design. When Jessie is not working, she is often found asking strangers if she can pet their dog or seeking out a new experience in the form of food, music, or travel."
-    linkedin: https://www.linkedin.com/in/jessiepask
-    image: "jessiepaskiewicz.jpg"
-    employer: "Genians"
-
 organizer_email: "organizers-boston-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-boston-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: f5
+    level: platinum
+  - id: irobot
+    level: platinum
+  - id: splunk
+    level: platinum
+  - id: influxdata
+    level: platinum
   - id: klaviyo
     level: platinum
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: pegasystems
+    level: gold
+  - id: rancher
+    level: gold
   - id: arresteddevops
     level: community
 
