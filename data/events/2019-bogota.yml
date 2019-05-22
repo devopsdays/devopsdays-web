@@ -90,12 +90,13 @@ sponsors:
     level: gold
   - id: pagerduty
     level: silver
-  - id: revdebug
-    level: community
   - id: kleer
     level: graphic
+  - id: revdebug
+    level: community
   - id: gigtech
     level: community
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -113,7 +114,9 @@ sponsor_levels:
     label: gold
   - id: silver
     label: silver
+  - id: graphic
+    label: graphic    
   - id: community
     label: community
-  - id: graphic
-    label: graphic
+
+    
