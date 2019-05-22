@@ -1,10 +1,10 @@
 +++
 title = "Mikael Sundberg"
-image = "mikael.sundberg.jpg"
+image = "mikael-sundberg.jpg"
 twitter = "msundb"
 website = ""
 type = "speaker"
-linktitle = "mikael.sundberg"
+linktitle = "mikael-sundberg"
 
 +++
 
