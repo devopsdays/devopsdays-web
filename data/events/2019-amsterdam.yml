@@ -117,8 +117,8 @@ sponsors:
 #    level: gold
   - id: googlecloud
     level: gold
-#  - id: microsoft
-#    level: gold
+  - id: microsoft
+    level: gold
   # Silver
   - id: valtech
     level: silver
@@ -154,7 +154,7 @@ sponsors:
     level: bronze
   - id: inuits
     level: bronze
-  - id: monkeyswithbuttons
+  - id: thoughtworks-services
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
