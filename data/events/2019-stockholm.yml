@@ -18,6 +18,7 @@ cfp_date_start: 2019-03-01T00:00:00+01:00 # start accepting talk proposals.
 cfp_date_end: 2019-04-15T23:59:59+02:00 # close your call for proposals.
 cfp_date_announce: 2019-05-15T23:59:59+02:00 # inform proposers of status
 
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/dod-sthlm-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-03-08T00:00:00+01:00 # start accepting registration. Leave blank if registration is not open yet
@@ -34,18 +35,14 @@ location: "7A Odenplan, Stockholm" # Defaults to city, but you can make it the v
 location_address: "Odengatan 65, Stockholm" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+# - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
-# - name: example
-#   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
-#   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
-
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -134,3 +131,202 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+
+program:
+  - title: "Registration, Breakfast & Sponsors"
+    type: custom
+    date: 2019-09-17
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-17
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2019-09-17
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Gold Sponsors"
+    date: 2019-09-17
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "felisia-martini-derik-evangelista"
+    type: talk
+    date: 2019-09-17
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break - 25 min"
+    date: 2019-09-17
+    start_time: "10:25"
+    end_time: "10:50"
+  - title: "john-behrens"
+    type: talk
+    date: 2019-09-17
+    start_time: "10:50"
+    end_time: "11:20"
+  - title: "Silver Sponsors"
+    date: 2019-09-17
+    start_time: "11:20"
+    end_time: "11:30"
+  - title: "pranjal-deo"
+    type: talk
+    date: 2019-09-17
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "lunch"
+    type: custom
+    date: 2019-09-17
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-09-17
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-09-17
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-09-17
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break - 15 min"
+    date: 2019-09-17
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-09-17
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "Break - 15 min"
+    date: 2019-09-17
+    start_time: "15:45"
+    end_time: "16:00"
+  - title: "Open Space Discussions #3"
+    type: open-space
+    date: 2019-09-17
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "kris-buytaert"
+    type: talk
+    date: 2019-09-17
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Day One Closing"
+    type: custom
+    date: 2019-09-17
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening Event"
+    type: custom
+    date: 2019-09-17
+    start_time: "17:30"
+    end_time: "23:00"
+
+  - title: "Breakfast & Sponsors"
+    type: custom
+    date: 2019-09-18
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Second Day Welcome"
+    type: custom
+    date: 2019-09-18
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "johan-bäckström"
+    type: talk
+    date: 2019-09-18
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Break - 15 min"
+    date: 2019-09-18
+    start_time: "09:45"
+    end_time: "10:00"
+  - title: "gerie-owen"
+    type: talk
+    date: 2019-09-18
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Break - 15 min"
+    date: 2019-09-18
+    start_time: "10:30"
+    end_time: "10:45"
+  - title: "johan-abildskov"
+    type: talk
+    date: 2019-09-18
+    start_time: "10:45"
+    end_time: "11.15"
+  - title: "Break - 15 min"
+    date: 2019-09-18
+    start_time: "11:15"
+    end_time: "11:30"
+  - title: "heidi-araya"
+    type: talk
+    date: 2019-09-18
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-18
+    start_time: "12:00"
+    end_time: "13:00"
+  - title: "Ignite Talks"
+    type: ignite
+    date: 2019-09-18
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-09-18
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Discussions #1"
+    type: open-space
+    date: 2019-09-18
+    start_time: "14:00"
+    end_time: "14:45"
+  - title: "Break - 15 min"
+    date: 2019-09-18
+    start_time: "14:45"
+    end_time: "15:00"
+  - title: "Open Space Discussions #2"
+    type: open-space
+    date: 2019-09-18
+    start_time: "15:00"
+    end_time: "15:45"
+  - title: "aubrey-stearn"
+    type: talk
+    date: 2019-09-18
+    start_time: "15:45"
+    end_time: "16:15"
+  - title: "Day Two Closing"
+    type: custom
+    date: 2019-09-18
+    start_time: "16:15"
+    end_time: "16:30"
+
+ignites:
+  - title: "mikael-sundberg"
+    date: "2019-09-17"
+  - title: "jj-asghar"
+    date: "2019-09-17"
+  - title: "daniel-maher"
+    date: "2019-09-17"
+  - title: "sindre-lindstad"
+    date: "2019-09-17"
+  - title: "krikor-maroukian"
+    date: "2019-09-17"
+  - title: "waldo-g"
+    date: "2019-09-17"
+  - title: "philipp-krenn"
+    date: "2019-09-18"
+  - title: "pia-fåk-sunnanbo"
+    date: "2019-09-18"
+  - title: "mark-baker"
+    date: "2019-09-18"
