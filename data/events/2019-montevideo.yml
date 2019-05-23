@@ -147,6 +147,14 @@ sponsors:
   - id: pedidosya
     level: silver
 
+# Bronze
+# ------------------------------------------------------------------------------
+  - id: deloitte
+    level: bronze
+
+  - id: intrados
+    level: bronze
+
 
 # Comunidad
 # ------------------------------------------------------------------------------
@@ -180,7 +188,7 @@ sponsors:
   #- id: at-uruguay
   #- id: arnaldocastro
   #- id: microsoft
-  #- id: deloitte
+
   #- id: dlocal
   #- id: redhat
   #- id: lenovo
