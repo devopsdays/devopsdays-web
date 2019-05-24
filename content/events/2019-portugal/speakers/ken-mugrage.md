@@ -15,7 +15,7 @@ Ken Mugrage teaches Continuous Delivery and DevOps for ThoughtWorks. He’s a co
 
 ### Quick Q&A With Ken Mugrage
 
-> *We had a chance to catch up with Rhys and ask him a few questions about his experience with Continuous delivery and DevOpsDays.*
+> *We had a chance to catch up with Ken and ask him a few questions about his experience with Continuous delivery and DevOpsDays.*
 
 **[Miguel Alho](/events/2019-portugal/contact/): Hi Ken! You had the opportunity of being a part of great group at Thoughtworks that has defined and spread many of the good practices associated with Continuous Delivery. What has that been like?**
 
