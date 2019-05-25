@@ -69,7 +69,7 @@ Cada evento es llevado a cabo por [voluntarios locales](events/2019-montevideo/c
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="speakers" text="ver speakers" >}}
+    {{< event_link page="speakers" text="Ver speakers" >}}
   </div>
 </div>
 

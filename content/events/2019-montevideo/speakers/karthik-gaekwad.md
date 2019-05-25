@@ -4,6 +4,7 @@ Twitter = "iteration1"
 image = "karthik-gaekwad.png"
 type = "speaker"
 linktitle = "karthik-gaekwad"
+Website = "https://theagileadmin.com/about/karthik/"
 
 +++
 

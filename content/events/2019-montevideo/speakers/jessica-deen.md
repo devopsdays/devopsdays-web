@@ -4,6 +4,7 @@ Twitter = "JLDeen"
 image = "jessica-deen.png"
 type = "speaker"
 linktitle = "jessica-deen"
+Website = "https://jessicadeen.com/"
 
 +++
 
