@@ -19,7 +19,7 @@ slideshare = "https://www.slideshare.net/HoustonDevOps/devopsdays-houston-2019-k
             });
         </script>
         <a href="https://slideslive.com/38915141">Practical Guide to Not Building Another (DevOps) Silo
-by Kevin Crawley</a>&nbsp;by&nbsp;<a href="https://slideslive.com/devopsdays/devopsdays-houston">DevOpsDays Houston</a> 
+by Kevin Crawley</a>&nbsp;from&nbsp;<a href="https://slideslive.com/devopsdays-houston">DevOpsDays Houston</a> 
     <br/><br/>
     </div>
 </div>

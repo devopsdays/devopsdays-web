@@ -18,7 +18,7 @@ slides = "https://noti.st/crayzeigh/ElEYue/heresy-and-evangelism-schism-in-the-c
                 autoPlay: false // change to true to autoplay the embedded presentation
             });
         </script>
-        <a href="https://slideslive.com/38915151">Heresy and Evangelism: Schism in the Church of Monitoring by Aaron Aldrich</a>&nbsp;by&nbsp;<a href="https://slideslive.com/devopsdays/devopsdays-houston">DevOpsDays Houston</a> 
+        <a href="https://slideslive.com/38915151">Heresy and Evangelism: Schism in the Church of Monitoring by Aaron Aldrich</a>&nbsp;from&nbsp;<a href="https://slideslive.com/devopsdays-houston">DevOpsDays Houston</a> 
     <br/><br/>
     </div>
 </div>
