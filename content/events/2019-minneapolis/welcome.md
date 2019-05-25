@@ -41,7 +41,7 @@ Description = "devopsdays Minneapolis 2019"
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose an Ignite talk!" >}}
+    {{< event_link page="propose" text="Proposals for Ignite talks are now closed and we plan to announce selections by June 14th." >}}
   </div>
 </div>
 
