@@ -18,7 +18,7 @@ slideshare = "https://www.slideshare.net/HoustonDevOps/devopsdays-houston-2019-d
                 autoPlay: false // change to true to autoplay the embedded presentation
             });
         </script>
-        <a href="https://slideslive.com/38915149">Enterprise Transformation (and You Can Too) by Donovan Brown</a>&nbsp;by&nbsp;<a href="https://slideslive.com/devopsdays/devopsdays-houston">DevOpsDays Houston</a> 
+        <a href="https://slideslive.com/38915149">Enterprise Transformation (and You Can Too) by Donovan Brown</a>&nbsp;from&nbsp;<a href="https://slideslive.com/devopsdays-houston">DevOpsDays Houston</a> 
     <br/><br/>
     </div>
 </div>
