@@ -13,12 +13,9 @@ Our event pages are in Spanish, but don't worry [Google translator is your frien
 
 Llega a Uruguay la primera edición de DevOpsDays; una oportunidad única de compartir experiencias en dos días de conferencias, charlas y talleres.
 
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div>
+DevOpsDays es una serie de conferencias técnicas que se desarrollan a lo largo del mundo, cubriendo temas de desarrollo de software, Infraestructura de TI, Operaciones de TI, y la intersección entre ellas. El primer DevopsDay se realizó en Ghent, Bélgica, en 2009. A partir de ahí, los eventos se han multiplicado.
 
-<br>
-Nuestro logo surgió de un concurso abierto; [ver detalles aquí](/events/2019-montevideo/logo/).
+Cada evento es llevado a cabo por [voluntarios locales](events/2019-montevideo/contact/). La mayoría de los eventos presentan una combinación de charlas seleccionadas y espacios abiertos.
 
 ----------
 
@@ -67,14 +64,14 @@ Nuestro logo surgió de un concurso abierto; [ver detalles aquí](/events/2019-m
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
-    Check out the {{< event_link page="speakers" text="speakers!" >}}
+    {{< event_link page="speakers" text="ver speakers" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -97,3 +94,12 @@ Nuestro logo surgió de un concurso abierto; [ver detalles aquí](/events/2019-m
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
+
+----------
+
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
+
+<br>
+Nuestro logo surgió de un concurso abierto; [ver detalles aquí](/events/2019-montevideo/logo/).
