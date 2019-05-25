@@ -15,7 +15,7 @@ Llega a Uruguay la primera edición de DevOpsDays; una oportunidad única de com
 
 DevOpsDays es una serie de conferencias técnicas que se desarrollan a lo largo del mundo, cubriendo temas de desarrollo de software, Infraestructura de TI, Operaciones de TI, y la intersección entre ellas. El primer DevopsDay se realizó en Ghent, Bélgica, en 2009. A partir de ahí, los eventos se han multiplicado.
 
-Cada evento es llevado a cabo por [voluntarios locales](events/2019-montevideo/contact/). La mayoría de los eventos presentan una combinación de charlas seleccionadas y espacios abiertos.
+Cada evento es llevado a cabo por [voluntarios locales](/events/2019-montevideo/contact). La mayoría de los eventos presentan una combinación de charlas seleccionadas y espacios abiertos.
 
 ----------
 
