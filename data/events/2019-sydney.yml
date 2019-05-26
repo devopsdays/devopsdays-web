@@ -1,0 +1,66 @@
+name: "2019-sydney" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+year: "2019" # The year of the event. Make sure it is in quotes.
+city: "Sydney" # The displayed city name of the event. Capitalize it.
+event_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
+description: "Devops Down Under 10 year anniversary edition" # Edit this to suit your preferences
+ga_tracking_id: "UA-140872809-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+startdate: 2019-10-10T00:00:00+10:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-11T23:59:59+02:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+
+# CFP
+cfp_date_start: 2019-05-27T00:00:00+10:00 # start accepting talk proposals.
+cfp_date_end: 2019-09-01T23:59:59+02:00 # close your call for proposals.
+cfp_link: "https://sessionize.com/dodsyd2019/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+
+registration_date_start: 2019-06-03T00:00:00+10:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-11T00:00:00+10:00 # close registration. Leave blank if registration is not open yet.
+registration_link: "https://ti.to/devopsaustralia/sydney-2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+
+# Location
+coordinates: "-33.865143, 151.209900" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Hilton Sydney" # Defaults to city, but you can make it the venue name.
+location_address: "488 George St, Sydney NSW 2000" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+
+nav_elements: # List of pages you want to show up in the navigation of your page.
+ - name: propose
+ - name: sponsor
+ - name: contact
+ - name: conduct
+
+team_members:
+  - name: "Artem Yakimenko"
+  - name: "Jamie Wilkinson"
+  - name: "Jess Belliveau"
+  - name: "Jordan Simonovski"
+    twitter: "_jsimonovski"
+  - name: "Lindsay Holmwood"
+    twitter: "auxesis"
+  - name: "Michael Sverdlik"
+    twitter: "m1keil"
+  - name: "Molly Rowe"
+  - name: "Peter Viertel"
+
+organizer_email: "organizers-sydney-2019@devopsdays.org" # Put your organizer email address here
+proposal_email: "proposals-sydney-2019@devopsdays.org" # Put your proposal email address here
+
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
+sponsors:
+  - id: samplesponsorname
+    level: gold
+
+sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+
+# In this section, list the level of sponsorships and the label to use.
+# You may optionally include a "max" attribute to limit the number of sponsors per level. For
+# unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
+# sponsorship for a specific level, it is best to remove the level.
+sponsor_levels:
+  - id: gold
+    label: Gold
+#    max: 10
+  - id: silver
+    label: Silver
+    max: 0 # This is the same as omitting the max limit.
+  - id: bronze
+    label: Bronze
