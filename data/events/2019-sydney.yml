@@ -4,16 +4,16 @@ city: "Sydney" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdownunder" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 description: "Devops Down Under 10 year anniversary edition" # Edit this to suit your preferences
 ga_tracking_id: "UA-140872809-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
-startdate: 2019-10-10T00:00:00+10:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-10-11T23:59:59+10:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-10-10T00:00:00+11:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-10-11T23:59:59+11:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # CFP
-cfp_date_start: 2019-05-27T00:00:00+10:00 # start accepting talk proposals.
-cfp_date_end: 2019-09-01T23:59:59+10:00 # close your call for proposals.
+cfp_date_start: 2019-05-27T00:00:00+11:00 # start accepting talk proposals.
+cfp_date_end: 2019-09-01T23:59:59+11:00 # close your call for proposals.
 cfp_link: "https://sessionize.com/dodsyd2019/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2019-06-03T00:00:00+10:00 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2019-10-11T00:00:00+10:00 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-06-03T00:00:00+11:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-10-11T00:00:00+11:00 # close registration. Leave blank if registration is not open yet.
 registration_link: "https://ti.to/devopsaustralia/sydney-2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
