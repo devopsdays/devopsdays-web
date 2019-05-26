@@ -49,16 +49,57 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
-  - name: "John Doe"
-  - name: "Jane Smith"
-    twitter: "devopsdays"
-  - name: "Sally Fields"
-    employer: "Acme Anvil Co."
-    github: "devopsdays"
-    facebook: "https://www.facebook.com/sally.fields"
-    linkedin: "https://www.linkedin.com/in/sallyfields"
-    website: "https://mattstratton.com"
-    image: "sally-fields.jpg"
+
+- name: "Sharone Zitzman"
+  employer: "AppsFlyer"
+  twitter: "shar1z"
+  bio: "Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love. Having built both the DevOps Israel and Cloud Native & OSS Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. You can find her on Twitter or Github as @shar1z."
+  image: "sharone-zitzman.jpg"
+  github: "shar1z"
+  linkedin: "https://www.linkedin.com/in/sharonez/"
+
+- name: "Andrei Burd"
+  employer: "SeatGeek"
+  twitter: ""
+  bio: ""
+  image: "andrei-burd.jpg"
+
+- name: "Ariel Moskovich"
+  employer: "AppsFlyer"
+  twitter: "relmos"
+  bio: ""
+  image: "ariel-moskovich.jpg"
+
+- name: "Gil Zellner"
+  employer: "AppsFlyer"
+  twitter: "heathenaspargus"
+  bio: ""
+  image: "gil-zellner.jpg"
+
+- name: "Daniela Kortin"
+  employer: "ProdOps.io"
+  twitter: ""
+  bio: ""
+
+- name: "Daniel Berman"
+  employer: "Logz.io"
+  twitter: "proudboffin"
+  bio: ""
+  image: "daniel-berman.jpg"
+
+- name: "John Zenou"
+  employer: "Windward"
+  twitter: "zenoujohn"
+  bio: ""
+  image: "johnathan-zenou.jpg"
+
+- name: "Alon Becker"
+  employer: "Ziprecruiter"
+  twitter: "alonbecker"
+  bio: ""
+ 
+# name: "Sally Fields" //  employer: "Acme Anvil Co."  github: "devopsdays" // facebook: "https://www.facebook.com/sally.fields" // linkedin: "https://www.linkedin.com/in/sallyfields" // website: "https://mattstratton.com" // image: "sally-fields.jpg" // 
+
 organizer_email: "organizers-tel-aviv-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-tel-aviv-2019@devopsdays.org" # Put your proposal email address here
 
