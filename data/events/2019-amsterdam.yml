@@ -105,16 +105,16 @@ sponsors:
     level: gold
   - id: kpn-ict
     level: gold
-  - id: capgemini
-    level: gold
+#  - id: capgemini
+#    level: gold
   - id: influxdata
     level: gold
   - id: pivotal
     level: gold
   - id: chef
     level: gold
-  - id: vmware
-    level: gold
+#  - id: vmware
+#    level: gold
   - id: googlecloud
     level: gold
   - id: microsoft
@@ -130,11 +130,11 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
-  - id: eficode
-    level: silver
+#  - id: eficode
+#    level: silver
     # Recharge
-  - id: leaseweb
-    level: recharge
+#  - id: leaseweb
+#    level: recharge
   # Lanyards
   - id: developers-nl
     level: lanyard
@@ -143,8 +143,8 @@ sponsors:
     level: foodtrucks
   - id: fullstaq
     level: foodtrucks
-  - id: tergos
-    level: foodtrucks
+#  - id: tergos
+#    level: foodtrucks
   # Bronze
   - id: utilus
     level: bronze
@@ -154,7 +154,7 @@ sponsors:
     level: bronze
   - id: inuits
     level: bronze
-  - id: monkeyswithbuttons
+  - id: thoughtworks-services
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -179,9 +179,10 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: "8"
-  - id: recharge
-    label: "Power recharge"
-    max: "1"
+# re-enable when sponsorship is confirmed
+#  - id: recharge
+#    label: "Power recharge"
+#    max: "1"
   - id: lanyard
     label: Lanyard
     max: "1"

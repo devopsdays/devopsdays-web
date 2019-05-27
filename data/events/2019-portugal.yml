@@ -151,9 +151,17 @@ sponsors:
    level: gold
  - id: accenture-pt
    level: gold
+ - id: microsoft
+   level: gold
+ - id: cgi
+   level: gold
  - id: devscope
    level: silver
  - id: thoughtworks-gocd
+   level: silver
+ - id: fujitsu-pt
+   level: silver
+ - id: xebialabs
    level: silver
  - id: claranet
    level: bronze
@@ -428,9 +436,9 @@ program:
     end_time: "16:30"
 
 ignites:
-  - title: "pedro-pessoa"
-    date: "2019-06-03"
   - title: "antonio-cobo"
+    date: "2019-06-03"
+  - title: "pedro-pessoa"
     date: "2019-06-03"
   - title: "daniel-maher"
     date: "2019-06-03"

@@ -7,7 +7,10 @@ linktitle = "leonardo-di-donato"
 
 +++
 
-Leonardo is an Open Source Software Engineer at InfluxData where he maintains the infrastructure and API layers for InfluxCloud.
-His interests range from theoretical aspects of computer science to machine learning to distributed systems.
-He is the creator of influxdata/go-syslog, a blazingly fast Golang parser for syslog message and transport.
+Open Source Software Engineer @Sysdig
+
+Leonardo is an Open Source Software Engineer at Sysdig in the Office of the CTO.
+He is in charge of the Open Source methodologies and projects of Sysdig.
+At the same time he mainly takes care of Falco, a Container Native Runtime security project sandboxed by the CNCF.
 He is also involved in the Linux Foundation's eBPF project (IO Visor) as a maintainer of kubectl-trace project.
+He's also the creator of go-syslog, a blazingly fast Golang parser for syslog messages and transports, and of kubectl-dig, a tool to have deep visibility into Kubernetes directly from the kubectl.

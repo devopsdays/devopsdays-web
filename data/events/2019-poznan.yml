@@ -143,6 +143,8 @@ sponsors:
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: splunk
     level: socialevent
+  - id: olx
+    level: workshop
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -163,6 +165,8 @@ sponsor_levels:
     label: Community
   - id: socialevent
     label: Social Event
+  - id: workshop
+    label: Workshop
 
 program:
   - title: "Registration"
@@ -195,7 +199,7 @@ program:
     date: 2019-05-20
     start_time: "11:00"
     end_time: "11:15"
-  - title: "julia-syczewa"
+  - title: "adam-dubiel-joanna-debska"
     type: talk
     date: 2019-05-20
     start_time: "11:15"
@@ -255,7 +259,7 @@ program:
     date: 2019-05-20
     start_time: "14:20"
     end_time: "14:50"
-  - title: "michal-rostecki"
+  - title: "lukasz-przybyl"
     type: talk
     date: 2019-05-20
     start_time: "14:55"

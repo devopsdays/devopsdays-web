@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: logo contest
     icon: "pen"
@@ -144,6 +144,22 @@ sponsors:
   - id: overactive
     level: silver
 
+  - id: pedidosya
+    level: silver
+
+# Bronze
+# ------------------------------------------------------------------------------
+  - id: deloitte
+    level: bronze
+    url: http://www.deloitte.com/uy
+
+  - id: intrados
+    level: bronze
+
+  - id: nexa
+    level: bronze
+
+
 # Comunidad
 # ------------------------------------------------------------------------------
   - id: cuti
@@ -176,7 +192,7 @@ sponsors:
   #- id: at-uruguay
   #- id: arnaldocastro
   #- id: microsoft
-  #- id: deloitte
+
   #- id: dlocal
   #- id: redhat
   #- id: lenovo
