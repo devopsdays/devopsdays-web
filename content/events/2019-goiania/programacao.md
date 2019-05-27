@@ -1,7 +1,7 @@
 +++
 Title = "Programação"
 Type = "program"
-Description = "Programação - devopsdays Goiânia 2019"
+Description = "Programação - DevOpsDays Goiânia 2019"
 +++
 
 <hr>
