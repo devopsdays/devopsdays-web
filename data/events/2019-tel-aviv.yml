@@ -80,6 +80,7 @@ team_members: # Name is the only required field for team members.
   employer: "ProdOps.io"
   twitter: ""
   bio: ""
+  image: "daniela-kortin.jpg"
 
 - name: "Daniel Berman"
   employer: "Logz.io"
@@ -94,9 +95,10 @@ team_members: # Name is the only required field for team members.
   image: "johnathan-zenou.jpg"
 
 - name: "Alon Becker"
-  employer: "Ziprecruiter"
+  employer: "ZipRecruiter"
   twitter: "alonbecker"
   bio: ""
+  image: "alon-becker.jpg"
  
 # name: "Sally Fields" //  employer: "Acme Anvil Co."  github: "devopsdays" // facebook: "https://www.facebook.com/sally.fields" // linkedin: "https://www.linkedin.com/in/sallyfields" // website: "https://mattstratton.com" // image: "sally-fields.jpg" // 
 
