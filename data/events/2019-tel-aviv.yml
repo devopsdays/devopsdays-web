@@ -114,9 +114,8 @@ proposal_email: "proposals-tel-aviv-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: appsflyer-2018
+  - id: appsflyer
     level: organizer
-    url: https://appsflyer.com # Use this if you need to over-ride a sponsor URL.
   - id: statscraft
     level: community
   - id: opsschool
