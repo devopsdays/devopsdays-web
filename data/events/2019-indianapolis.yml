@@ -147,7 +147,12 @@ program:
     date: 2019-07-24
     start_time: "12:30"
     end_time: "13:00"
-  - title: "Training - Kubernetes or GoCD"
+  - title: "Training - Kubernetes Training by IBM"
+    type: custom
+    date: 2019-07-24
+    start_time: "13:00"
+    end_time: "17:00"
+  - title: "Training - Cloud Native Continuous Delivery with GoCD by ThoughtWorks"
     type: custom
     date: 2019-07-24
     start_time: "13:00"
@@ -157,13 +162,210 @@ program:
     date: 2019-07-24
     start_time: "17:00"
     end_time: "18:00"
-  - title: "Day 1 - more info coming soon"
+  - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-07-25
     start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-07-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "brian-weber"
+    type: talk
+    date: 2019-07-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-07-25
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "mykel-alvis"
+    type: talk
+    date: 2019-07-25
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-07-25
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "gerie-owen"
+    type: talk
+    date: 2019-07-25
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "paul-meharg"
+    type: talk
+    date: 2019-07-25
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Lunch"
+    type: custom
+    date: 2019-07-25
+    start_time: "11:40"
+    end_time: "12:50"
+  - title: "baruch-sadogursky"
+    type: talk
+    date: 2019-07-25
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-07-25
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-07-25
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2019-07-25
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-07-25
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-07-25
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break - Afternoon snack in Expo Hall"
+    type: custom
+    date: 2019-07-25
+    start_time: "15:35"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-07-25
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-07-25
+    start_time: "16:45"
     end_time: "17:00"
-  - title: "Day 2 - more info coming soon"
+  - title: "Party at Indiana City Brewing Co."
+    type: custom
+    date: 2019-07-25
+    start_time: "18:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-07-26
     start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-07-26
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "john-esser"
+    type: talk
+    date: 2019-07-26
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-07-26
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "louda-pena"
+    type: talk
+    date: 2019-07-26
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-07-26
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "ramin-keene"
+    type: talk
+    date: 2019-07-26
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "tom-mclaughlin"
+    type: talk
+    date: 2019-07-26
+    start_time: "11:10"
+    end_time: "11:40"
+  - title: "Lunch"
+    type: custom
+    date: 2019-07-26
+    start_time: "11:40"
+    end_time: "12:50"
+  - title: "ian-alford"
+    type: talk
+    date: 2019-07-26
+    start_time: "12:50"
+    end_time: "13:20"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-07-26
+    start_time: "13:20"
+    end_time: "13:50"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-07-26
+    start_time: "13:50"
+    end_time: "14:20"
+  - title: "Break"
+    type: custom
+    date: 2019-07-26
+    start_time: "14:20"
+    end_time: "14:30"
+  - title: "Open Space #1"
+    type: open-space
+    date: 2019-07-26
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-07-26
+    start_time: "15:05"
+    end_time: "15:35"
+  - title: "Break - Afternoon snack in Expo Hall"
+    type: custom
+    date: 2019-07-26
+    start_time: "15:35"
+    end_time: "16:15"
+  - title: "Open Space #3"
+    type: open-space
+    date: 2019-07-26
+    start_time: "16:15"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-07-26
+    start_time: "16:45"
     end_time: "17:00"
+
+ignites:
+  - title: "tiffany-longworth"
+    date: 2019-07-25
+  - title: "prabhu-barathi"
+    date: 2019-07-25
+  - title: "allie-richards-goldengirls"
+    date: 2019-07-25
+  - title: "jj-asghar"
+    date: 2019-07-25
+  - title: "chad-brown"
+    date: 2019-07-25
+  - title: "allie-richards"
+    date: 2019-07-26
+  - title: "martez-reed"
+    date: 2019-07-26
+  - title: "adam-shake"
+    date: 2019-07-26
+  - title: "jesse-butler"
+    date: 2019-07-26
+  - title: "ryan-feiock"
+    date: 2019-07-26
