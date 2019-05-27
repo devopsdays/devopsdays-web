@@ -176,6 +176,8 @@ sponsors:
  - id: feedzai
    level: bronze
  - id: intrasurance
+   level: bronze 
+ - id: vodafone-pt
    level: bronze   
  - id: devopslisbon
    level: community
