@@ -2,33 +2,33 @@ name: "2019-goiania" # The name of the event. Four digit year with the city name
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Goiânia" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysgyn" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays está chegando em Goiânia!" # Edit this to suit your preferences
+description: "DevOpsDays está chegando em Goiânia!" # Edit this to suit your preferences
 ga_tracking_id: "UA-139150829-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
+event_group: "Goiânia"
 
 # All dates are in unquoted 2019-MM-DD, like this:   variable: 2016-01-05
-startdate: 2019-08-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-08-03 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-08-03T08:00:00-03:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2019-08-03T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-05-27T00:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-06-23T23:06:00-03:00 # close your call for proposals.
+cfp_date_announce: 2019-07-01T21:00:00-03:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/devopsdaysgyn2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-05-27T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-08-02T23:59:59-03:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://www.sympla.com.br/devopsdays-goiania-2019__537592" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Goiânia" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "-16.687634, 49.260604" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "ACIEG" # Defaults to city, but you can make it the venue name.
+location_address: "Rua 14, 50 - Setor Oeste, Goiânia/GO" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  - name: Chamadas (CFP)
@@ -37,14 +37,15 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
  - name: local
    icon: "map-o"
+   url: /events/2019-goiania/local
 
- - name: ingressos
+ - name: inscrições
    icon: "ticket"
    url: /events/2019-goiania/registration
 
  - name: programação
    icon: "calendar"
-   url: /events/2019-goiania/program
+   url: /events/2019-goiania/programacao
 
  - name: palestrantes
    icon: "microphone"
@@ -52,14 +53,14 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
  - name: patrocínio
    icon: "money"
-   url: /events/2019-goiania/sponsor
-
- - name: contato
-   icon: "envelope-o"
+   url: /events/2019-goiania/patrocinio
 
  - name: código de conduta
    icon: "handshake-o"
    url: /events/2019-goiania/conduta
+   
+ - name: contato
+   icon: "envelope-o"
 
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
@@ -82,6 +83,7 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/brunocroh/"
     image: "bruno-rodrigues.jpg"
   - name: "Franzwagner Ternus"
+    email: franzwagner.str@gmail.com
     github: "strund3r"
     twitter: "strund3r"
     linkedin: "https://www.linkedin.com/in/franzwagner-ternus/"
