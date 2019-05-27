@@ -1,6 +1,6 @@
 +++
 Title = "Nicole Forsgren"
-#Twitter = ""
+#Twitter = "nicolefv"
 image = "nicole_forsgren.jpg"
 type = "speaker"
 linktitle = "nicole-forsgren"
