@@ -119,7 +119,7 @@ team_members: # Name is the only required field for team members.
     website: "https://www.linkedin.com/company/credativ-llc/"
     twitter: "robtreat2"
     linkedin: "https://www.linkedin.com/in/robtreat/"
-    image: "robert-treat.png"
+    image: "robert-treat.jpg"
   - name: "Ryan Wetzelberger"
     employer: "Amobee, Inc"
     github: "ryanwetzelberger"
