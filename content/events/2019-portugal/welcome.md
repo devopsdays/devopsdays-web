@@ -147,7 +147,7 @@ Description = "devopsdays portugal 2019"
         <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
           <div class="content__gdpr">
             <!--<label>Communication Permissions</label>-->
-            <p>By subscribing our newsletter you accept to receive by email information from DevOpsDays Portugal.</p>
+            <p>By subscribing our newsletter you accept to receive by email information from DevOpsDays Portugal. You can unsubscribe at any time by clicking the link in the footer of our emails.</p>
             <!--<fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
               <label class="checkbox subfield" for="gdpr_325"><input type="checkbox" id="gdpr_325" name="gdpr[325]"
                   value="Y" class="av-checkbox "><span>Email</span> </label><label class="checkbox subfield"
@@ -156,8 +156,6 @@ Description = "devopsdays portugal 2019"
                 for="gdpr_333"><input type="checkbox" id="gdpr_333" name="gdpr[333]" value="Y"
                   class="av-checkbox "><span>Customized Online Advertising</span> </label>
             </fieldset>-->
-            <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information
-              about our privacy practices, please visit our website.</p>
           </div>
           <div class="content__gdprLegal">
             <p>We use MailChimp as our marketing platform. By clicking below to subscribe, you acknowledge that your
@@ -192,6 +190,3 @@ Description = "devopsdays portugal 2019"
     </div>
   </div>
 </div>
-
-
-
