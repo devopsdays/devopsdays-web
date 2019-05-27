@@ -10,8 +10,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2019-06-28 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2019-06-28 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -24,7 +24,7 @@ registration_date_start: # start accepting registration. Leave blank if registra
 registration_date_end: # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "https://devopsdays.ticketsetup.com" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
@@ -36,7 +36,7 @@ location_address: "Qafqaz Sahil Baku Hotel" #Optional - use the street address o
 nav_elements: # List of pages you want to show up in the navigation of your page.
   # - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   # - name: program
   - name: speakers
   - name: sponsor
