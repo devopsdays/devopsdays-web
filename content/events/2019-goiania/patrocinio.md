@@ -1,14 +1,13 @@
 +++
 Title = "Patrocínio"
 Type = "event"
-Description = "Patrocínio - devopsdays Goiânia 2019"
+Description = "Patrocínio - DevOpsDays Goiânia 2019"
 +++
-<!--
-<b>
-**ENGLISH**: The most Goiania event pages is portuguese. If you wish to sponsor our event, take look our sponsor prospect in English version ([here](https://drive.google.com/open?id=1lq6Wj1-schtuA101hkWMiQH1IPiKD9ep). Please, let us know whether you have any question, to request information or suggestion, send email to [{{< email_organizers >}}].
-</b>
--->
 
+<hr>
+<b>Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia sobre as nossas cotas em nosso nosso prospecto **[aqui](https://docs.google.com/presentation/d/1oMKyRPTza6XpqKqrasUOtzRQHUqzcSoy2eXn_k858rU/)**. Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].</b>
+
+<!--
 <b>
 Valorizamos muito a importância dos patrocinadores para este evento. Se você está interessado em patrocinar, leia abaixo sobre as nossas cotas ou em nosso nosso prospecto ([aqui](https://docs.google.com/presentation/d/1oMKyRPTza6XpqKqrasUOtzRQHUqzcSoy2eXn_k858rU). Se tiver alguma dúvida, esclarecimento ou sugestão, envie um email para [{{< email_organizers >}}].
 </b>
@@ -109,4 +108,6 @@ O nossa recomendação é enviar seus especialistas técnicos para interagir com
 
 </div>
 <p>
-Há também oportunidades para patrocínios especiais exclusivos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:organizers-goiania-2019@devopsdays.org?subject=DevOpsDays Goi&acirc;nia - Patroc&iacute;nio">mande um email para nós</a>.</p>
+Há também oportunidades para patrocínios especiais exclusivos. Se você está interessado em um patrocínio especial ou tem uma ideia criativa sobre como pode apoiar o evento, <a href="mailto:organizers-goiania-2019@devopsdays.org?subject=DevOpsDays Goi&acirc;nia - Patroc&iacute;nio">mande um email para nós</a>.
+</p>
+-->
