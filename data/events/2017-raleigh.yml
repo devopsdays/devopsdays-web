@@ -55,7 +55,7 @@ proposal_email: "proposals-raleigh-2017@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal-before-20190307
     level: platinum
-  - id: redhat
+  - id: redhat-before-20190528
     level: platinum
   - id: microsoft
     level: platinum

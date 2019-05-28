@@ -135,6 +135,9 @@ sponsors:
 
   - id: elastic
     level: gold
+  
+  - id: redhat
+    level: gold
 
 # Plata
 # ------------------------------------------------------------------------------
@@ -145,6 +148,9 @@ sponsors:
     level: silver
 
   - id: pedidosya
+    level: silver
+
+  - id: genexus
     level: silver
 
 # Bronze
@@ -194,7 +200,6 @@ sponsors:
   #- id: microsoft
 
   #- id: dlocal
-  #- id: redhat
   #- id: lenovo
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

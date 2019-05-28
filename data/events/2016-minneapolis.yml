@@ -105,7 +105,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: merrill
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: silver
   - id: github
     level: gold
