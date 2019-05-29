@@ -105,7 +105,7 @@ sponsors:
     level: gold
   - id: redgate
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: platinum
   - id: servicenow
     level: gold

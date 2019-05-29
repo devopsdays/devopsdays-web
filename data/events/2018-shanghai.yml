@@ -89,7 +89,7 @@ proposal_email: "proposals-shanghai-2018@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: jfrogcn
     level: gold

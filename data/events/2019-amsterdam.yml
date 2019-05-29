@@ -130,8 +130,8 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
-#  - id: eficode
-#    level: silver
+  - id: eficode
+    level: silver
     # Recharge
 #  - id: leaseweb
 #    level: recharge
@@ -178,7 +178,7 @@ sponsor_levels:
     max: "8"
   - id: silver
     label: Silver
-    max: "8"
+    max: "7"
 # re-enable when sponsorship is confirmed
 #  - id: recharge
 #    label: "Power recharge"
@@ -188,7 +188,7 @@ sponsor_levels:
     max: "1"
   - id: foodtrucks
     label: "Food Trucks"
-    max: "4"
+    max: "3"
   - id: bronze
     label: Bronze
 

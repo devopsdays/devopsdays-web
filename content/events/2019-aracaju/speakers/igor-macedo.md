@@ -1,10 +1,10 @@
 +++
 Title = "Igor Macedo"
-#Twitter = "jjunior0x2A"
 #linkedin = "" 
 image = "igor-macedo.png"
 type = "speaker"
 linktitle = "igor-macedo"
+
 +++
 
-Automation enthusiastic and sysadmin and BANESE. Always excited about problem solving, Linux and programing. Eventually you will see a new post on my blog, about my discoveries.
+Sysadmin no BANESE desde 2014 e mestre em sistemas e computação. Entusiasta de automação e armazenamento baseado em software. Sempre muito empolgado c tudo relacionado a software livre, "problem solving" e programação com script. Eventualmente publico minhas descobertas em meu blog.
