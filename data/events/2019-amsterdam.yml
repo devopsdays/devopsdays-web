@@ -133,8 +133,8 @@ sponsors:
   - id: eficode
     level: silver
     # Recharge
-#  - id: leaseweb
-#    level: recharge
+  - id: leaseweb
+    level: recharge
   # Lanyards
   - id: developers-nl
     level: lanyard
