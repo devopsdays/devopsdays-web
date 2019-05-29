@@ -1,8 +1,8 @@
 +++
-Title = "Renê Soares"
+Title = "Rene Soares"
 #Twitter = ""
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "rene-soares.jpg"
 type = "speaker"
 linktitle = "rene-soares"
 +++

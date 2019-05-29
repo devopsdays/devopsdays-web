@@ -1,7 +1,7 @@
 +++
 Title = "Igor Macedo"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "igor-macedo.jpg"
 type = "speaker"
 linktitle = "igor-macedo"
 

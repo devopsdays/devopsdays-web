@@ -1,7 +1,7 @@
 +++
 Title = "Diego Oliveira"
 Twitter = ""
-image = "igor-macedo.png"
+image = "diego-oliveira.jpg"
 type = "speaker"
 linktitle = "diego-oliveira"
 
