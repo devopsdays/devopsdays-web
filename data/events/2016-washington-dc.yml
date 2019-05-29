@@ -103,7 +103,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: platinum
   - id: customink
     level: platinum
-  - id: redhat
+  - id: redhat-before-20190528
     level: platinum
   - id: ansible
     level: platinum

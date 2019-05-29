@@ -72,7 +72,7 @@ proposal_email: "proposals-detroit-2018@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: pivotal-before-20190307
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: influxdata
     level: gold

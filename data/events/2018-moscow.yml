@@ -114,7 +114,7 @@ sponsors:
     level: gold
   - id: leroy-merlin
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: opensource
   - id: microsoft
     level: silver
