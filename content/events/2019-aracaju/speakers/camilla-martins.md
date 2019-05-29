@@ -2,7 +2,7 @@
 Title = "Camilla Martins"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "camilla-martins.jpg"
 type = "speaker"
 linktitle = "igor-macedo"
 +++

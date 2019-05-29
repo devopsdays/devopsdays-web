@@ -2,7 +2,7 @@
 Title = "Euler Neto"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "euler-neto.jpg"
 type = "speaker"
 linktitle = "euler-neto"
 +++
