@@ -143,6 +143,8 @@ sponsors:
     #url: https://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: splunk
     level: socialevent
+  - id: olx
+    level: workshop
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -163,6 +165,8 @@ sponsor_levels:
     label: Community
   - id: socialevent
     label: Social Event
+  - id: workshop
+    label: Workshop
 
 program:
   - title: "Registration"

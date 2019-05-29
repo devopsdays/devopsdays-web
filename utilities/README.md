@@ -146,6 +146,25 @@ slideshare = ""
 slides = ""
 ```
 
+## Embedding Videos Other than Vimeo or YouTube
+You can embed video other than YouTube or Vimeo on talk pages by adding the embed script to a talk file (such as `content/events/2017-ponyville/program/rainbow-dash.md`) and enclosing it into a `<div>` section. Here is an example of embedding a SlidesLive.com video:
+```
++++
+
+<div>
+   <div id="presentation-embed-38915149"></div>
+   <script src='https://slideslive.com/embed_presentation.js'></script>
+   <script>
+       embed = new SlidesLiveEmbed('presentation-embed-38915149', {
+           presentationId: '38915149',
+           autoPlay: false // change to true to autoplay the embedded presentation
+       });
+   </script>
+</div>
+
+```
+
+
 # Bash tips:
 
 Set `$DOD_YEAR` and `$DOD_CITY` and the scripts won't ask
