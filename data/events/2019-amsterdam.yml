@@ -179,10 +179,9 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: "7"
-# re-enable when sponsorship is confirmed
-#  - id: recharge
-#    label: "Power recharge"
-#    max: "1"
+  - id: recharge
+    label: "Power recharge"
+    max: "1"
   - id: lanyard
     label: Lanyard
     max: "1"
