@@ -78,7 +78,7 @@ team_members: # Name is the only required field for team members.
 
 - name: "Gil Zellner"
   employer: "AppsFlyer"
-  twitter: "heathenaspargus"
+  twitter: "heathenasparagus"
   bio: ""
   image: "gil-zellner.jpg"
 
