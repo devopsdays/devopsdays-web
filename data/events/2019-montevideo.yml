@@ -135,7 +135,7 @@ sponsors:
 
   - id: elastic
     level: gold
-  
+
   - id: redhat
     level: gold
 
@@ -150,8 +150,8 @@ sponsors:
   - id: pedidosya
     level: silver
 
-#  - id: genexus
-#    level: silver
+  - id: genexus
+    level: silver
 
 # Bronze
 # ------------------------------------------------------------------------------
