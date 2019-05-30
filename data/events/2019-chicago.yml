@@ -173,7 +173,11 @@ sponsors:
   - id: googlecloud
     level: gold
   - id: appdynamics
-    level: gold 
+    level: gold
+  - id: bcbsil
+    level: gold
+  - id: coyote
+    level: bronze 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
