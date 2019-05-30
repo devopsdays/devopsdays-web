@@ -68,6 +68,9 @@ team_members: # Name is the only required field for team members.
     image: "taelar-bybee.jpg"
     linkedin: "https://www.linkedin.com/in/taelar-bybee-6b5984176"
   - name: "Tony Harper"
+    image: "tony-harper.jpg"
+    linkedin: "https://www.linkedin.com/in/trharper/"
+    twitter: "https://twitter.com/agileexplorer"
 
 organizer_email: "organizers-chattanooga-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-chattanooga-2019@devopsdays.org" # Put your proposal email address here
