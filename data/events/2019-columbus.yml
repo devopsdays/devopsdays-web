@@ -83,8 +83,10 @@ proposal_email: "proposals-columbus-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-#  - id: sumologic-before-20181203
-#    level: gold
+  - id: F5
+    level: gold
+  - id: Sysdig
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
