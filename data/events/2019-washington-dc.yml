@@ -324,11 +324,17 @@ sponsors:
     level: platinum
   - id: onyx-point
     level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: googlecloud
+    level: platinum
   - id: circleci
     level: gold
   - id: devopsdc-meetup
     level: community
   - id: black-code-collective
+    level: community
+  - id: womenwhocodedc
     level: community
   - id: arresteddevops
     level: media
