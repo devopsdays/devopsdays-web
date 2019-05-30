@@ -1,7 +1,7 @@
 +++
 Title = "Karissa Peth"
 Twitter = "karissapeth"
-image = ""
+image = "karissa-peth.png"
 type = "speaker"
 linktitle = "karissa-peth"
 
