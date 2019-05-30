@@ -167,6 +167,8 @@ organizer_email: "organizers-kansas-city-2019@devopsdays.org" # Put your organiz
 sponsors:
   - id: gitlab
     level: premium
+  - id: dynatrace
+    level: premium
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community

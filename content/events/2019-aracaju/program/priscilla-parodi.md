@@ -2,7 +2,7 @@
 Talk_date = "2019-03-09"
 Talk_start_time = "15:00"
 Talk_end_time = "15:55"
-Title = "Observabilidade com Elastic Stack"
+Title = "Instrodução ao Elastic Stack"
 Type = "talk"
 Speakers = ["priscilla-parodi"]
 +++

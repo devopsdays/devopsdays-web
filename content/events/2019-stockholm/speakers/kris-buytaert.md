@@ -1,8 +1,8 @@
 +++
-Title = "Kris Buytaert"
-Website = "http://www.krisbuytaert.be/blog/"
-Twitter = "krisbuytaert"
-Github = ""
+title = "Kris Buytaert"
+website = "http://www.krisbuytaert.be/blog/"
+twitter = "krisbuytaert"
+github = ""
 image = "kris-buytaert.jpg"
 type = "speaker"
 +++

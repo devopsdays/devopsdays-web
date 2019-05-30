@@ -14,7 +14,7 @@ If you like his talk, please consider donating to [Refugee Support](https://www.
 
 *** 
 
-### Quick Q&A With Rhys
+### Quick Q&A With Rhys Evans
 
 > *We had a chance to catch up with Rhys and ask him a few questions about transformations and graph DBs.*
 

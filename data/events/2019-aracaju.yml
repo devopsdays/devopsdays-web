@@ -51,9 +51,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Programação
     icon: "book"
     url: /events/2019-aracaju/program
-  - name: Palestre (CFP)
-    icon: "user-plus"
-    url: "https://www.papercall.io/devopsday-aracaju-2019"
+#  - name: Palestre (CFP)
+#    icon: "user-plus"
+#    url: "https://www.papercall.io/devopsday-aracaju-2019"
   # - name: Palestrantes
   #   icon: "microphone"
   #   url: /events/2019-aracaju/speakers
@@ -179,7 +179,7 @@ program:
     start_time: "9:10"
     end_time: "9:50"
 
-  - title: "eduardo-neves"
+  - title: "valdomiro-bilharvas"
     type: talk
     date: "2019-06-08"
     start_time: "9:50"
@@ -191,7 +191,7 @@ program:
     start_time: "10:05"
     end_time: "10:20"
 
-  - title: "mayara-gouveia"
+  - title: "camilla-martins"
     type: talk
     date: "2019-06-08"
     start_time: "10:20"
@@ -203,13 +203,13 @@ program:
     start_time: "10:35"
     end_time: "10:50"
 
-  - title: "gabriel-policante-e-mariana-albano"
+  - title: "diego-oliveira"
     type: talk
     date: "2019-06-08"
     start_time: "10:50"
     end_time: "11:05"
 
-  - title: "camilla-martins"
+  - title: "lanay-cardoso"
     type: talk
     date: "2019-06-08"
     start_time: "11:05"
@@ -227,52 +227,64 @@ program:
     start_time: "11:35"
     end_time: "11:50"
 
+  - title: "Fechamento da manhã"
+    type: custom
+    date: "2019-06-08"
+    start_time: "11:50"
+    end_time: "12:00"
+  
   - title: "Almoço"
     type: custom
     date: "2019-06-08"
     start_time: "12:00"
     end_time: "13:00"
   
+  - title: "Retorno do almoço"
+    type: custom
+    date: "2019-06-08"
+    start_time: "13:00"
+    end_time: "13:10"
+
   - title: "priscilla-parodi"
     type: talk
     date: "2019-06-08"
-    start_time: "13:20"
-    end_time: "14:00"
+    start_time: "13:15"
+    end_time: "13:55"
   
-  - title: "valdomiro-bilharvas"
+  - title: "mayara-gouveia"
     type: talk
     date: "2019-06-08"
-    start_time: "14:05"
-    end_time: "14:20"
+    start_time: "13:55"
+    end_time: "14:10"
   
   - title: "jeremias-araujo"
     type: talk
     date: "2019-06-08"
-    start_time: "14:20"
-    end_time: "14:35"
+    start_time: "14:10"
+    end_time: "14:25"
   
-  - title: "lanay-cardoso"
+  - title: "eduardo-neves"
     type: talk
     date: "2019-06-08"
-    start_time: "14:35"
-    end_time: "14:50"
+    start_time: "14:25"
+    end_time: "14:40"
   
   - title: "Perguntas"
     type: custom
     date: "2019-06-08"
-    start_time: "14:50"
-    end_time: "15:00"
+    start_time: "14:40"
+    end_time: "14:55"
 
   - title: "rafael-gomes-aka-gomex"
     type: talk
     date: "2019-06-08"
-    start_time: "15:00"
-    end_time: "15:40"
+    start_time: "14:55"
+    end_time: "15:35"
   
   - title: "Ignite Talks"
     type: ignite
     date: "2019-06-08"
-    start_time: "15:40"
+    start_time: "15:35"
     end_time: "16:10"
 
   - title: "Fishbowl"
@@ -283,6 +295,19 @@ program:
 
   - title: "Encerramento"
     type: custom
-    date: 2019-06-08
+    date: "2019-06-08"
+    start_time: "16:50"
+    end_time: "17:00"
+
+  - title: "Happy Hour"
+    type: custom
+    date: "2019-06-08"
     start_time: "17:00"
-    end_time: "17:15"
+    end_time: ""
+
+ignites:
+  - title: "rene-soares"
+    date: "2019-06-08"
+  - title: "igor-macedo"
+    date: "2019-06-08"
+  

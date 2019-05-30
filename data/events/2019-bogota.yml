@@ -39,7 +39,8 @@ location_address: "Dg. 25g ##95a-85, Bogotá, Cundinamarca" #Optional - use the 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
  # - name: registration
- # - name: program
+  - name: program
+    url: https://devopsdays.co/programa
   - name: speakers
   - name: propose
   - name: sponsor
@@ -89,12 +90,21 @@ sponsors:
     level: gold
   - id: pagerduty
     level: silver
-  - id: revdebug
-    level: community
   - id: kleer
     level: graphic
+  - id: revdebug
+    level: community
   - id: gigtech
     level: community
+  - id: cloudbees
+    level: gold
+  - id: devopsco
+    level: platinum
+  - id: devco
+    level: gold
+  - id: greensqa
+    level: silver
+
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
@@ -112,7 +122,8 @@ sponsor_levels:
     label: gold
   - id: silver
     label: silver
+  - id: graphic
+    label: graphic    
   - id: community
     label: community
-  - id: graphic
-    label: graphic
+

@@ -2,7 +2,7 @@
 Title = "Marcus Vinicius - a.k.a Vinny"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "marcus-vinicius-aka-vinny.jpg"
 type = "speaker"
 linktitle = "igor-macedo"
 +++

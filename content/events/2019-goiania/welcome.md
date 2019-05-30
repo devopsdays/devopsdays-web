@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Goiânia 2019"
+Title = "DevOpsDays Goiânia 2019"
 Type = "welcome"
 aliases = ["/events/2019-goiania"]
-Description = "devopsdays Goiânia 2019"
+Description = "DevOpsDays Goiânia 2019"
 +++
 
 <div>
@@ -24,10 +24,10 @@ Description = "devopsdays Goiânia 2019"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Datas</strong>
+    <strong>Data</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+    {{< event_start >}}
   </div>
 </div>
 
@@ -36,29 +36,28 @@ Description = "devopsdays Goiânia 2019"
     <strong>Local</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="local" text="" >}}
+    {{< event_link page="local" text="ACIEG" >}}
   </div>
 </div>
 
-<!-- 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Ingressos</strong>
+    <strong>Inscrição</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Obtenha seu ingresso!" >}}
+    {{< event_link page="registration" text="Faça sua inscrição!" >}}
   </div>
-</div> -->
+</div>
 
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Chamadas (CFP)</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="cfp" text="Proponha uma palestra!" >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -78,14 +77,14 @@ Description = "devopsdays Goiânia 2019"
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Patrocínios</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Patrocine este evento!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -99,4 +98,3 @@ Description = "devopsdays Goiânia 2019"
 <!-- Uncomment if you added your city twitter name -->
 
 {{< event_twitter >}}
-

@@ -2,7 +2,7 @@
 Title = "Eduardo Neves"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "eduardo-neves.jpg"
 type = "speaker"
 linktitle = "eduardo-neves"
 +++

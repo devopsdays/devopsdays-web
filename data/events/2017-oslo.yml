@@ -144,9 +144,9 @@ sponsors:
     level: gold
   - id: intility
     level: platinum
-  - id: redhat
+  - id: redhat-before-20190528
     level: community
-  - id: redhat
+  - id: redhat-before-20190528
     level: lunch
   - id: fastly
     level: community

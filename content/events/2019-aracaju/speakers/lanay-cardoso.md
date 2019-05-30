@@ -2,7 +2,7 @@
 Title = "Lanay Cardoso"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "lanay-cardosos.jpg"
 type = "speaker"
 linktitle = "lanay-cardoso"
 +++

@@ -92,7 +92,7 @@ team_members: # Name is the only required field for team members.
   - name: "Daniel Guedes"
     github: "guedesnd"
     twitter: "Daniel47524404"
-    image: "daniel-guedes.png"
+    image: "daniel-guedes.jpg"
 organizer_email: "organizers-salvador-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-salvador-2019@devopsdays.org" # Put your proposal email address here
 
