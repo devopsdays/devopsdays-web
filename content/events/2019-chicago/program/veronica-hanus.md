@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "What makes OS 'friendly'?: Lessons from a beginner's tour of six popular projects"
+Title = "What makes OSS 'friendly'?: Lessons from a beginner's tour of six popular projects"
 Type = "talk"
 Speakers = ["veronica-hanus"]
 +++
