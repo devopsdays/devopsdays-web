@@ -178,7 +178,10 @@ sponsors:
  - id: intrasurance
    level: bronze 
  - id: vodafone-pt
-   level: bronze   
+   level: bronze
+ - id: bosch
+   level: bronze
+   url: https://www.bosch.pt/
  - id: devopslisbon
    level: community
  - id: devopsporto
