@@ -2,7 +2,7 @@ name: "2019-montevideo" # The name of the event. Four digit year with the city n
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Montevideo" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevOpsDaysMVD" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays Montevideo; southern DevOpsDays on earth!" # Edit this to suit your preferences
+description: "DevOpsDays Montevideo; southernmost DevOpsDays on earth!" # Edit this to suit your preferences
 ga_tracking_id: "UA-136337020-1" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: location
  # - name: registration
  # - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: logo contest
     icon: "pen"
@@ -136,6 +136,9 @@ sponsors:
   - id: elastic
     level: gold
 
+  - id: redhat
+    level: gold
+
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
@@ -146,6 +149,21 @@ sponsors:
 
   - id: pedidosya
     level: silver
+
+  - id: genexus
+    level: silver
+
+# Bronze
+# ------------------------------------------------------------------------------
+  - id: deloitte
+    level: bronze
+    url: http://www.deloitte.com/uy
+
+  - id: intrados
+    level: bronze
+
+  - id: nexa
+    level: bronze
 
 
 # Comunidad
@@ -180,9 +198,8 @@ sponsors:
   #- id: at-uruguay
   #- id: arnaldocastro
   #- id: microsoft
-  #- id: deloitte
+
   #- id: dlocal
-  #- id: redhat
   #- id: lenovo
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

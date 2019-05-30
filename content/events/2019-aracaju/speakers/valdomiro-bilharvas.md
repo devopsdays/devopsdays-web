@@ -2,7 +2,7 @@
 Title = "Valdomiro Bilharvas"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "valdomiro-bilharvas.jpg"
 type = "speaker"
 linktitle = "igor-macedo"
 +++

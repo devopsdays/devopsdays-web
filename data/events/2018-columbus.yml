@@ -88,7 +88,7 @@ proposal_email: "proposals-columbus-2018@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: sumologic-before-20181203
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: rundeck
     level: gold

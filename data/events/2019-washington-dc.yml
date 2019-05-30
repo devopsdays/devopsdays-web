@@ -247,7 +247,7 @@ team_members: # Name is the only required field for team members.
   - name: "Robert Treat"
     employer: "credativ"
     twitter: "robtreat2"
-    bio: ""
+    bio: "Having spent his early years building data-intensive, real-time systems within the Fortune 500, Robert now runs U.S. operations for credativ, a technical services firm providing open source based web application development and infrastructure management. Author and speaker at conferences worldwide, Robert is a recognized industry expert on topics including databases, DevOps, and Open Source. He occasionally blogs at https://xzilla.net."
     image: "robert-treat.jpg"
     github: "xzilla"
     facebook: ""

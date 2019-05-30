@@ -136,6 +136,8 @@ sponsors:
     level: gold
   - id: loadsmart
     level: gold
+  - id: "3778"
+    level: silver
   - id: sudocast
     level: community 
 

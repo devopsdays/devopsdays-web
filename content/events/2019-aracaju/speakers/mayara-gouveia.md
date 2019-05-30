@@ -2,7 +2,7 @@
 Title = "Mayara Gouveia"
 #Twitter = "jjunior0x2A"
 #linkedin = "" 
-image = "igor-macedo.png"
+image = "mayara-gouveia.jpg"
 type = "speaker"
 linktitle = "igor-macedo"
 +++

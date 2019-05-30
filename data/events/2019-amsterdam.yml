@@ -117,8 +117,8 @@ sponsors:
 #    level: gold
   - id: googlecloud
     level: gold
-#  - id: microsoft
-#    level: gold
+  - id: microsoft
+    level: gold
   # Silver
   - id: valtech
     level: silver
@@ -130,11 +130,11 @@ sponsors:
     level: silver
   - id: devoteam
     level: silver
-#  - id: eficode
-#    level: silver
+  - id: eficode
+    level: silver
     # Recharge
-#  - id: leaseweb
-#    level: recharge
+  - id: leaseweb
+    level: recharge
   # Lanyards
   - id: developers-nl
     level: lanyard
@@ -154,7 +154,7 @@ sponsors:
     level: bronze
   - id: inuits
     level: bronze
-  - id: monkeyswithbuttons
+  - id: thoughtworks-services
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -178,17 +178,16 @@ sponsor_levels:
     max: "8"
   - id: silver
     label: Silver
-    max: "8"
-# re-enable when sponsorship is confirmed
-#  - id: recharge
-#    label: "Power recharge"
-#    max: "1"
+    max: "7"
+  - id: recharge
+    label: "Power recharge"
+    max: "1"
   - id: lanyard
     label: Lanyard
     max: "1"
   - id: foodtrucks
     label: "Food Trucks"
-    max: "4"
+    max: "3"
   - id: bronze
     label: Bronze
 
