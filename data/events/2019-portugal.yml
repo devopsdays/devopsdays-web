@@ -180,7 +180,8 @@ sponsors:
  - id: vodafone-pt
    level: bronze
  - id: bosch
-   level: bronze   
+   level: bronze
+   url: https://www.bosch.pt/
  - id: devopslisbon
    level: community
  - id: devopsporto
