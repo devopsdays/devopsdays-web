@@ -176,7 +176,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
 <br/>
 <h2>Media / Community Sponsorships</h2>
 
-All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20Media20or%20Community%20Sponsoring%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
+All Media / Community sponsors are entities we value as pillars of continuous learning in our community. If you would like to discuss these sponsorships with us, just ask! Email us at: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
 <br>
 <table class="table table-bordered table-hover">
   <thead>
@@ -218,7 +218,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
 <br>
 <h2>À La Carte Sponsorships</h2>
 
-À La Carte sponsorships will be available after May 26th if no Diamond sponsorship is sold. À La Carte items are only available to Platinum or Gold sponsors.  We can be creative with these sponsorships, so just ask! Email us: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=Interested%20in%20À%20La%20Carte%20Sponsoring%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
+À La Carte sponsorships will be available after May 26th if no Diamond sponsorship is sold. À La Carte items are only available to Platinum or Gold sponsors.  We can be creative with these sponsorships, so just ask! Email us: <a href="mailto:organizers-dallas-2019@devopsdays.org?subject=General%20Questions%20Regarding%20Sponsorship%20of%20DevOpsDays%20Dallas%202019">organizers-dallas-2019@devopsdays.org</a>.
 <br/>
 
 <table class="table table-bordered table-hover">
