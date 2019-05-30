@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["jay-gordon"]
 +++
 
-In 2015 the viral internet moment of ""The Dress"" occurred that completely changed what I knew about deploying production web servers.  As the on-call resource over the evening I saw web traffic that peaked at 670,000 active visitors on BuzzFeed.com. In this talk, I share lessons on the moment.
+In 2015 the viral internet moment of "The Dress" occurred that completely changed what I knew about deploying production web servers.  As the on-call resource over the evening I saw web traffic that peaked at 670,000 active visitors on BuzzFeed.com. In this talk, I share lessons on the moment.
 
 After a day of managing a physical datacenter build and dealing with a bunch of llamas getting loose in Los Angeles, I came home to what I hoped was an average evening.  After a meal and a quick shower my phone began blowing up with alerts.  My wife was sitting on the couch and turned to me, and asked "oh is that about the dress?"  I ask her, "what dress?"
 
