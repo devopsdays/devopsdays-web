@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays London 2019"
 
 <hr>
 
-<center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>
+<center><h2>Our CFP is now closed</h2></center>
 
 <hr>
 
@@ -46,6 +46,4 @@ we would like to help you with your talk.
 
 Several of the committee are veteran speakers and can provide help and suggestions
 to make your talk better should it be selected.
-<hr>
 
-<center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>
