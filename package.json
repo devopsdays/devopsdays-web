@@ -23,7 +23,7 @@
     "gulp-concat": "~2.6.1",
     "gulp-htmlmin": "~5.0.1",
     "gulp-hub": "~4.2.0",
-    "gulp-imagemin": "5.0.2",
+    "gulp-imagemin": "6.0.0",
     "gulp-img-retina": "0.0.4",
     "gulp-rename": "~1.4.0",
     "gulp-responsive": "~2.11.0",
