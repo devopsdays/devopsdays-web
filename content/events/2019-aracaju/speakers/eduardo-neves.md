@@ -5,6 +5,7 @@ Title = "Eduardo Neves"
 image = "eduardo-neves.jpg"
 type = "speaker"
 linktitle = "eduardo-neves"
+
 +++
 
-Administrador de sistemas a mais de 16 anos, tendo atuado em empresas de diversas áreas do conhecimento como segurança, infraestrutura, finanças e governo. Atualmente trabalha como analista de segurança da Guard Tecnologia, e também atua como Security Research no Papo de Sysadmin. Já palestrou em diversos eventos nacionais e internacionais, além de ser um assíduo contribuidor nas comunidades mundo afora.
+Administrador de sistemas a mais de 16 anos, tendo atuado em empresas de diversas Ã¡reas do conhecimento como seguranÃ§a, infraestrutura, finanÃ§as e governo. Atualmente trabalha como analista de seguranÃ§a da Guard Tecnologia, e tambÃ©m atua como Security Research no Papo de Sysadmin. JÃ¡ palestrou em diversos eventos nacionais e internacionais, alÃ©m de ser um assÃ­duo contribuidor nas comunidades mundo afora.

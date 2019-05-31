@@ -5,6 +5,7 @@ Title = "Euler Neto"
 image = "euler-neto.jpg"
 type = "speaker"
 linktitle = "euler-neto"
+
 +++
 
-Security Information is something that I really like, so I never stop to study about it. But, as I�m not made of iron, my weekends are a precious time to sit, drink beer, watch sports, listen music and read books.
+Analista de Segurança da Informação, Perito Forense Computacional, membro da APECOF (Associação dos peritos em computação forense), certificado CompTIA Security+ e CySA+.
