@@ -81,6 +81,9 @@ sponsors:
   - id: mandtbank
     level: gold
     url: https://www.mtb.com
+  - id: adrianroselli
+    level: community
+    url: http://adrianroselli.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

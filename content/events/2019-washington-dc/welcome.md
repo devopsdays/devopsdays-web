@@ -38,10 +38,19 @@ Description = "DevOpsDays Washington, DC 2019"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Diversity Scholarships</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="https://diversitytickets.org/en/events/434">Apply for a diversity scholarship.</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdaysdc2019.busyconf.com/proposals/new">Share your story, propose a talk!</a>
+    The <a href="https://devopsdaysdc2019.busyconf.com/proposals/new">CFP</a> is closed.  Speaker notifications are planned for May 15.
   </div>
 </div>
 

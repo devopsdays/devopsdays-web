@@ -62,3 +62,5 @@ Se asignará nivel _Community_ a instituciones educativas, meetups y organizacio
 
 ---
 DevOpsDays Montevideo 2019 designó a BILESTAR S.A. como empresa encargada de las gestiones administrativas, cobranzas y pagos de acuerdo a las normativas vigentes en Uruguay.
+
+[Sponsor Prospect](https://github.com/devopsdaysmvd/assets/raw/master/sponsor-prospect/sponsor-prospectus-devopsdaysmvd.pdf)

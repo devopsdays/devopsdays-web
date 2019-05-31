@@ -89,7 +89,7 @@ sponsors:
   - id: smartx
     level: silver
   # silver
-  - id: appsflyer
+  - id: appsflyer-before-20180801
     level: bronze
   - id: elastic
     level: bronze
