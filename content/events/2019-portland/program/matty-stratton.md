@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Hot Takes, Myths, And Fake News - Why Everyone Is Wrong About DevOps Except For Me"
+Title = "Hot Takes, Myths, And Other Falsehoods - Why Everyone Is Wrong About DevOps Except For Me"
 Type = "talk"
 Speakers = ["matty-stratton"]
 +++
