@@ -88,7 +88,7 @@ table.blueTable tfoot .links a{
 </tr>
 <tr>
 <td>11:00 - 11:50 - Oak Bay</td>
-<td>neil peterson</td>
+<td>Neil Peterson</td>
 <td>Deployment and management in the age of cloud distributed applications - Application architecture is evolving to include managed cloud services. Deployment and management of these application brings a new set of considerations. This talk will detail these considerations and demonstrate emerging options for deployment and management of cloud integrated applications.</td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ table.blueTable tfoot .links a{
 </tr>
 <tr>
 <td>14:30 - 15:30 - Saanich Room</td>
-<td>thor wolpert</td>
+<td>Thor Wolpert</td>
 <td>Moving Gov't Support Teams to SRE Practices, and Visioning to WardelyMaps - It isn’t the initial vision or employee skills that is wrong, it’s how the applications supported and evolve.
 
 The Registry is breaking the cycle of build and replace by using WardelyMaps to manage the lifecycle and progression of services, while continuously improving via an SRE approach.</td>
