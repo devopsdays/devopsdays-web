@@ -11,4 +11,4 @@ Matty Stratton is a DevOps Advocate at PagerDuty, where he helps dev and ops tea
 
 Matty has over 20 years experience in IT operations, ranging from large financial institutions such as JPMorganChase and internet firms, including Apartments.com. He is a sought-after speaker internationally, presenting at Agile, DevOps, and ITSM focused events, including ChefConf, DevOpsDays, Interop, PINK, and others worldwide. Matty is the founder and co-host of the popular [Arrested DevOps](https://www.arresteddevops.com) podcast, as well as a global organizer of the [DevOpsDays](https://www.devopsdays.org) set of conferences.
 
-He lives in San Francisco and has three awesome kids - Henry, Joey, and Sophia, who he loves just a little bit more than he loves *Doctor Who*. He is currently on a mission to discover the best pho in the world.
+He lives in Chicago and has three awesome kids, whom he loves just a little bit more than he loves Doctor Who. He is currently on a mission to discover the best phở in the world.
