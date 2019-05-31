@@ -500,7 +500,7 @@ program:
     date: 2019-06-28
     start_time: "15:00"
     end_time: "15:30"
-  - title: ""
+  - title: "adam-sandor"
     type: talk
     date: 2019-06-28
     start_time: "15:00"
