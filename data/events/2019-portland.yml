@@ -158,7 +158,7 @@ program:
     date: 2019-09-11
     start_time: "09:00"
     end_time: "09:15"
-  - title: "kim-gene"
+  - title: "gene-kim"
     type: talk
     date: 2019-09-11
     start_time: "09:15"
