@@ -214,7 +214,7 @@ program:
   - title: "Lunch & Diamond Talks"
     type: custom
     date: 2019-06-07
-    start_time: "12:50"
+    start_time: "11:50"
     end_time: "12:50"
   - title: "Open Spaces"
     type: custom
