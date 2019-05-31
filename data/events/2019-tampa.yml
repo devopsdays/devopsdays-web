@@ -140,6 +140,8 @@ sponsors:
     level: gold     
   - id: synopsys
     level: diamond   
+  - id: apexsystems
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -181,11 +183,6 @@ program:
     start_time: 
     end_time: 
   - title: "heather-l-cole"
-    type: talk
-    date: 2019-06-07
-    start_time: 
-    end_time: 
-  - title: "james-gress"
     type: talk
     date: 2019-06-07
     start_time: 

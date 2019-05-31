@@ -26,7 +26,7 @@ Address: <a href="https://goo.gl/maps/Ww7JuPwSjys">501 Brooker Creek Blvd, Oldsm
 
 Start Date: Thursday, June 6, 2019<br>
 End Date: Friday, June 7, 2019<br>
-Last Day to Book: Thursday, May 23, 2019
+Last Day to Book: Thursday, June 3, 2019
 
 Hotel(s) offering your special group rate: <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1555354828529&key=GRP&app=resvlink" target="_blank">Courtyard Tampa Oldsmar for 134 USD per night book your group rate for DevOpsDays Tampa Bay </a>
 
