@@ -19,6 +19,15 @@ Address: <a href="https://goo.gl/maps/Ww7JuPwSjys">501 Brooker Creek Blvd, Oldsm
 <br>
 <br>
 
+Parking Guide
+<br>
+<a>
+  <img src="/events/2019-tampa/contributers/tampaparking.png" style="height:450px;" style="border:2;">
+</a>
+
+<br>
+<br>
+
 ## HOTEL: Courtyard Tampa Oldsmar
 <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1555354828529&key=GRP&app=resvlink" target="_blank">
   <img src="https://cache.marriott.com/marriottassets/marriott/TPAOL/tpaol-entrance-0040-hor-clsc.jpg?interpolation=progressive-bilinear&downsize=*:423px" style="border:0;">
