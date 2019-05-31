@@ -7,4 +7,4 @@ linktitle = "igor-macedo"
 
 +++
 
-Sysadmin no BANESE desde 2014 e mestre em sistemas e computação. Entusiasta de automação e armazenamento baseado em software. Sempre muito empolgado c tudo relacionado a software livre, "problem solving" e programação com script. Eventualmente publico minhas descobertas em meu blog.
+Sysadmin no BANESE desde 2014 e mestre em sistemas e computaÃ§Ã£o. Entusiasta de automaÃ§Ã£o e armazenamento baseado em software. Sempre muito empolgado com tudo relacionado a software livre, "problem solving" e programaÃ§Ã£o com script. Eventualmente publico minhas descobertas em meu blog.

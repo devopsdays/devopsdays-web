@@ -4,7 +4,8 @@ Title = "Marcus Vinicius - a.k.a Vinny"
 #linkedin = "" 
 image = "marcus-vinicius-aka-vinny.jpg"
 type = "speaker"
-linktitle = "igor-macedo"
+linktitle = "marcus-vinicius-aka-vinny"
+
 +++
 
-Marcus Vinicius Rodrigues Andrade, bacharel em Sistemas de InformaÁ„o pela UNIT - Universidade Tiradentes, Desenvolvedor h· 18 anos e Arquiteto de SoluÁıes do BANESE h· 6 anos.
+Marcus Vinicius Rodrigues Andrade, bacharel em Sistemas de Informa√ß√£o pela UNIT - Universidade Tiradentes, Desenvolvedor h√° 18 anos e Arquiteto de Solu√ß√µes do BANESE h√° 6 anos.

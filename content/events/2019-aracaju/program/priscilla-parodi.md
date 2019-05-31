@@ -2,9 +2,10 @@
 Talk_date = "2019-03-09"
 Talk_start_time = "15:00"
 Talk_end_time = "15:55"
-Title = "Instrodução ao Elastic Stack"
+Title = "IntroduÃ§Ã£o ao Elastic Stack"
 Type = "talk"
 Speakers = ["priscilla-parodi"]
+
 +++
 
-Ao falarmos sobre observabilidade a reação mais comum é “O que é isso?”, mas também coisas como “Acabamos de lançar uma iniciativa de observabilidade mas ainda estamos descobrindo exatamente como fazer isso” e finalmente, algumas organizações já consideram observabilidade parte integrante de como projetam e constroem seus produtos e serviços. Dado que o termo ainda está ganhando força nessa palestra irei desmistificar o que é observabilidade para nós da Elastic, como nós entendemos isso e como utilizar o Stack com esse intuito.
+Ao falarmos sobre observabilidade a reaÃ§Ã£o mais comum Ã© â€œO que Ã© isso?â€, mas tambÃ©m coisas como â€œAcabamos de lanÃ§ar uma iniciativa de observabilidade mas ainda estamos descobrindo exatamente como fazer issoâ€ e finalmente, algumas organizaÃ§Ãµes jÃ¡ consideram observabilidade parte integrante de como projetam e constroem seus produtos e serviÃ§os. Dado que o termo ainda estÃ¡ ganhando forÃ§a nessa palestra irei desmistificar o que Ã© observabilidade para nÃ³s da Elastic, como nÃ³s entendemos isso e como utilizar o Stack com esse intuito.
