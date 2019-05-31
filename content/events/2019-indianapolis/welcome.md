@@ -69,6 +69,33 @@ approximately one month before the event. Bring your laptop.
 </p>
 
 <br/>
+<br/>
+
+<h3><b>Navigating Your DevOps Journey by John Esser of Veracity Solutions</b></h3>
+<img style="float: right; max-width: 200px; padding: 0px 20px 20px 0px" src="/img/sponsors/veracity-solutions.png"></img>
+<p>
+This workshop is geared towards senior technical leaders and
+organizational change agents (executives, directors, senior architects,
+heads of Agile/DevOps Centers of Excellence, etc.). A recent workshop
+attendee commented, "Attending this workshop was worth the price of the
+ticket alone!"
+
+Senior leaders embarking on a DevOps initiative often struggle to
+determine where to start, what to do, and how to approach the journey.
+The advantages of DevOps are well-documented, but it is estimated that
+over the next 5 years, 75% of DevOps initiatives will fail to fully meet
+the expectations of the business and stakeholders. This is a fully
+interactive workshop with a seasoned DevOps transformation expert. We
+will discuss practical steps and actions specifically around culture,
+practices, and technology that a leader can take to significantly
+increase the probability of a successful DevOps transformation. We will
+view DevOps holistically through the six core disciplines and step
+through a diagnostic to raise awareness of problematic areas and discuss
+potential solutions. Attendees will be given a succinct, but practical
+guide, "Navigating Your DevOps Journey."
+</p>
+
+<br/>
 
 <h3><b>After party, July 25th</b></h3>
 <img style="float: center; max-width: 800px; padding: 0px 20px 20px 0px" src="/events/2019-indianapolis/indiana_city_brewing_co.png"></img>
