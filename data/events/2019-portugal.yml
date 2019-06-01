@@ -163,6 +163,8 @@ sponsors:
    level: silver
  - id: xebialabs
    level: silver
+ - id: man
+   level: silver
  - id: claranet
    level: bronze
  - id: laredoute
@@ -178,7 +180,10 @@ sponsors:
  - id: intrasurance
    level: bronze 
  - id: vodafone-pt
-   level: bronze   
+   level: bronze
+ - id: bosch
+   level: bronze
+   url: https://www.bosch.pt/
  - id: devopslisbon
    level: community
  - id: devopsporto
