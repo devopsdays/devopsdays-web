@@ -23,16 +23,16 @@ Our event pages are in Spanish, but don't worry [Google translator is your frien
     <h2>¿Quiénes deberían asistir?</h2>
     <ul>
       <li>
-        Practicantes de DevOps que quieran compartir sobre los desafíos, historias de guerra, problemas y soluciones que surjan de su experiencia. 
+        Practicantes de DevOps que quieran compartir sobre los desafíos, historias de guerra, problemas y soluciones que surjan de su experiencia.
       </li>
       <li>
-        Desarrolladores, Operadores de IT, Testers, Técnicos de Seguridad o cualquier otro profesional de TI que quiera conocer más sobre las prácticas DevOps y como incluirlas en su día a día. 
+        Desarrolladores, Operadores de IT, Testers, Técnicos de Seguridad o cualquier otro profesional de TI que quiera conocer más sobre las prácticas DevOps y como incluirlas en su día a día.
       </li>
       <li>
         Tomadores de decisión que tengan interés en conocer más sobre la cultura y en cómo adoptar DevOps en sus empresas para acelerar la entrega de valor a sus clientes.
       </li>
       <li>
-        Estudiantes que quieran integrarse a una comunidad dinámica, en constante crecimiento y en la vanguardia tecnológica. 
+        Estudiantes que quieran integrarse a una comunidad dinámica, en constante crecimiento y en la vanguardia tecnológica.
       </li>
     </ul>
   </div>
@@ -56,14 +56,14 @@ Our event pages are in Spanish, but don't worry [Google translator is your frien
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
-    <strong>Register</strong>
+    <strong>Ingresos</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+    {{< event_link page="registration" text="Comprar entradas!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
