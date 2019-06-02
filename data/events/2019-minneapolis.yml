@@ -410,5 +410,23 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "Ignite Talks TBD"
+  - title: "heidi-waterhouse"
+    date: 2019-08-06
+  - title: "emma-sax"
+    date: 2019-08-06
+  - title: "chelsey-mckinney"
+    date: 2019-08-06
+  - title: "megan-tischler"
+    date: 2019-08-06
+  - title: "brianna-mccullough"
+    date: 2019-08-06
+  - title: "steve-pereira"
+    date: 2019-08-06
+  - title: "jenn-strater"
+    date: 2019-08-06
+  - title: "steve-persch"
+    date: 2019-08-06
+  - title: "peg-mickelson"
+    date: 2019-08-06
+  - title: "jason-yee"
     date: 2019-08-06
