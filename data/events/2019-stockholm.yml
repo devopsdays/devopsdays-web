@@ -116,6 +116,8 @@ sponsors:
     level: silver
   - id: spotify
     level: silver
+  - id: king
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
