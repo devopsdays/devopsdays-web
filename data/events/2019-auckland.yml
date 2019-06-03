@@ -2,7 +2,7 @@ name: "2019-auckland" # The name of the event. Four digit year with the city nam
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Auckland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysnz" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "Devopsdays is coming to Auckland!" # Edit this to suit your preferences
+description: "Devopsdays is returning to Auckland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 event_group: "New Zealand"
 
@@ -12,44 +12,43 @@ event_group: "New Zealand"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-#startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-#enddate:   # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2019-10-21T00:00:00+13:00
+enddate:   2019-10-22T23:59:59+13:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-#cfp_date_start:  # start accepting talk proposals.
-#cfp_date_end:  # close your call for proposals.
-#cfp_date_announce:  # inform proposers of status
+cfp_date_start:     2019-06-01T00:00:00+12:00
+cfp_date_end:       2019-07-19T23:59:59+12:00
+cfp_date_announce:  2019-08-12T00:00:00+12:00
 
-#cfp_open: "false"
-#cfp_link: "https://www.papercall.io/devopsdays-auckland-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+# cfp_link: "https://www.papercall.io/devopsdays-auckland-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-#registration_date_start:  # start accepting registration. Leave blank if registration is not open yet
-#registration_date_end:  # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-06-01T00:00:00+12:00
+registration_date_end:   2019-10-21T00:00:00+13:00
 
-masthead_background: "harbour-bridge.jpg"
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-#registration_link: "/events/2019-auckland/registration/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_link: "https://event-5932-43a6.lilregie.com/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # event_logo: "logo.png"
-# masthead_background: "" # If you have a custom background header image...
+masthead_background: "auckland-skyline.jpg"
 
 # Location
 #
-#coordinates: "-36.890673,174.803209" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-#location: "Auckland" # Defaults to city, but you can make it the venue name.
+coordinates: "-36.851831,174.761512" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Aotea Centre Auckland" # Defaults to city, but you can make it the venue name.
 #
-#location_address: "Ellerslie Event Centre, 80 Ascot Avenue, Remuera, Auckland" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Aotea Centre, 50 Mayoral Dr, Auckland, 1010" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
-#  - name: location
-#  - name: registration
+ - name: propose
+ - name: location
+ - name: registration
 #  - name: program
 #  - name: speakers
-#  - name: sponsor
-  - name: contact
-  - name: conduct
+ - name: sponsor
+ - name: contact
+ - name: conduct
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -63,20 +62,45 @@ team_members: # Name is the only required field for team members.
     bio: "Reuben helps teams and organisations to build new capabilities and is currently working with some amazing people at Hypr (www.hypr.nz). Reuben lives in Auckland's Rural South East with his wife, 4 kids, 9 sheep and 2 dogs. Ngā Puhi/Ngati Pikiao/Tainui."
     linkedin: "https://www.linkedin.com/in/defsol"
     github: "DefSol"
-  - name: "Adarsh Jupudi"
-    twitter: "cloudoperator"
-  - name: "Flavia Machado"
-    twitter: "flaviafmachado"
-  - name: "Judy Marcelo"
-    twitter: "arthriticcoder"
   - name: "Nigel Charman"
     twitter: "nigel_charman"
+    bio: "Nigel leads Assurity’s DevOps team in Wellington (assurity.nz) and is the lead for the Concordion open-source project (concordion.org). In his spare time, he helps restore native wildlife with the Tanera Gully Restoration Project."
+    linkedin: "https://www.linkedin.com/in/nigelcharman"
+    github: "nigelcharman"
+    image: "nigel-charman.jpg"
+  - name: "Adarsh Jupudi"
+    twitter: "cloudoperator"
+    image: "default-male.jpg"
+    linkedin: "https://www.linkedin.com/in/jcadarsh"
+  - name: "Flavia Machado"
+    twitter: "flaviafmachado"
+    image: "default-female.jpg"
+  - name: "Judy Marcelo"
+    twitter: "arthriticcoder"
+    image: "default-female.jpg"
   - name: "Peter Sellars"
     twitter: "petersellars"
-  - name: "Yogesh Shetty"
-    twitter: "_yogi_7"
-organizer_email: "organisers-auckland-2019@devopsdays.org" # Put your organizer email address here
-#proposal_email: "proposals-auckland-2019@devopsdays.org" # Put your proposal email address here
+    image: "default-male.jpg"
+    github: "petersellars"
+    linkedin: "https://www.linkedin.com/in/petersellars"
+  - name: "Paul Milbank"
+    twitter: "PaulMilbank"
+    image: "default-male.jpg"
+  - name: "Catherine Edwards"
+    twitter: "CathyEdwards86"
+    image: "default-female.jpg"
+  - name: "Julian Simpson"
+    twitter: "builddoctor"
+    image: "default-male.jpg"
+  - name: "Mrinal Mukherjee"
+    twitter: "mukherjee_mk"
+    image: "default-male.jpg"
+  - name: "Nicole Retter"
+    twitter: "FoghornNZ"
+    image: "default-female.jpg"
+
+organizer_email:  "organisers-auckland-2019@devopsdays.org" # Put your organizer email address here
+proposal_email:   "proposals-auckland-2019@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -117,3 +141,5 @@ sponsor_levels:
 #    date: 2019-MM-DD
 #    start_time: "08:00"
 #    end_time: "09:00"
+
+# Watch Triggered
