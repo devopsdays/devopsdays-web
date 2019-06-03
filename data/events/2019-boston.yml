@@ -109,6 +109,14 @@ sponsors:
     level: gold
   - id: arresteddevops
     level: community
+  - id: google
+    level: platinum
+  - id: appdynamics
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: logzio
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
