@@ -7,4 +7,4 @@ Type = "talk"
 Speakers = ["emma-sax"]
 +++
 
-There’s an old and famous phrase: “Those who can’t do, teach.” It’s designed to be funny, but it insinuates that those who teach “don’t”. Probably closer to the truth: those that love to spend time with people (especially children) and want to help others may find passion in teaching, but that doesn’t mean that our teachers can’t “do.” In fact when people take the time to teach others (and review others’ work), they often learn even more than what they would’ve learned otherwise.
+Some people say that the best thing you can do to test your knowledge of a topic is to explain it to someone else; so it follows that when people take the time to review others’ work, they often learn more than what they would’ve learned otherwise. Recently, I felt a similar experience in which I was asked to review a college student’s senior capstone project, which happened to focus on DevOps. l’d like to share what I learned through that process, what I discovered I already knew (even if I didn’t know I knew it), and how I bring that knowledge into my career and life going forward.
