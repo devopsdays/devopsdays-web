@@ -177,7 +177,9 @@ sponsors:
   - id: bcbsil
     level: gold
   - id: coyote
-    level: bronze 
+    level: bronze
+  - id: awschicago_ugroup
+    level: community 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
