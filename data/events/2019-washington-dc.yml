@@ -36,7 +36,8 @@ location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: https://devopsdaysdc2019.busyconf.com/schedule
  # - name: speakers
   - name: sponsor
   - name: contact
