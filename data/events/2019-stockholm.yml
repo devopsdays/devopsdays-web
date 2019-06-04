@@ -109,7 +109,7 @@ sponsors:
   - id: citerus
     level: silver
   - id: izettle
-    level: silver
+    level: bronze
   - id: f5
     level: gold
   - id: diabol
@@ -117,6 +117,8 @@ sponsors:
   - id: spotify
     level: silver
   - id: king
+    level: silver
+  - id: thoughtworks-services
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
