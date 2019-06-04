@@ -78,7 +78,7 @@ on it. There is only a single sponsorship available and it is $2,500.
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Intermission Slides</td>
+      <td>Logo on intermission slides</td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
