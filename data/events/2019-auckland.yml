@@ -21,14 +21,14 @@ cfp_date_end:       2019-07-19T23:59:59+12:00
 cfp_date_announce:  2019-08-12T00:00:00+12:00
 
 cfp_open: "true"
-# cfp_link: "https://www.papercall.io/devopsdays-auckland-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+# cfp_link: #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-06-01T00:00:00+12:00
 registration_date_end:   2019-10-21T00:00:00+13:00
 
 
 #registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-# registration_link: "https://event-5932-43a6.lilregie.com/" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+# registration_link: # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # event_logo: "logo.png"
 masthead_background: "auckland-skyline.jpg"
