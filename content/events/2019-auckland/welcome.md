@@ -19,7 +19,7 @@ Description = "DevOpsDays Auckland 2019"
     <div class="row">
       <div class="col-md-6">
         <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://event-5932-43a6.lilregie.com">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://devopsdays-auckland.lilregie.com/">
           <i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;Blind Bird Tickets now available - Book Now!</a>
         </div>
       </div>

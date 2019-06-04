@@ -7,7 +7,14 @@ Description = "Register for DevOpsDays Auckland 2019!"
 <hr/>
 
 ### Registration
-<p><strong>Blind Bird Tickets available - <a href="https://event-5932-43a6.lilregie.com"target="blank">BOOK NOW</a></strong></p>
+   <div class="row">
+      <div class="col-md-6">
+        <div class = "d-flex p-2">
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://devopsdays-auckland.lilregie.com/">
+          <i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;Blind Bird Tickets now available - Book Now!</a>
+        </div>
+      </div>
+    </div>
 
 ### Diversity Scholarship Information
 <p>The DevOpsDays Auckland’s diversity scholarship program provides support to those from traditionally underrepresented and/or marginalized groups in the technology and/or open source communities who may not otherwise have the opportunity to attend DevOpsDays events for financial reasons.
