@@ -105,8 +105,6 @@ sponsors:
   - id: aws
     level: gold
   - id: infoq
-    level: supporter
-  - id: estabilis
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -128,5 +126,3 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-  - id: supporter
-    label: Supporter
