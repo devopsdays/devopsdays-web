@@ -5,36 +5,39 @@ event_twitter: "devopsdaysdc"
 description: "A house divided against itself cannot stand."
 ga_tracking_id: "UA-131045075-1"
 
-# All dates are in unquoted 2019-MM-DD or YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T23:59:59+02:00
-startdate:  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
+#   variable: 2019-01-04T00:00:00+02:00
+#   variable: 2019-01-05T23:59:59+02:00
+# Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
+
+startdate: 2019-07-08T00:00:00-04:00
+enddate:  2019-07-09T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start:  2019-04-01T00:00:00-04:00
+cfp_date_end:  2019-05-04T23:59:59-04:00
+cfp_date_announce:  2019-05-15T23:59:59-04:00
 
 cfp_open: "false"
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://devopsdaysdc2019.busyconf.com/proposals/new"
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-04-01T00:00:00-04:00
+registration_date_end: 2019-07-09T23:59:59-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdaysdc2019.busyconf.com/bookings/new"
 
 # Location
 #
-coordinates: "" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Washington, DC" # Defaults to city, but you can make it the venue name.
-#
-location_address: "" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+coordinates: "38.893837,-77.030952"
+location: "Ronald Reagan Building and International Trade Center, Washington, D.C."
+location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: https://devopsdaysdc2019.busyconf.com/schedule
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -79,12 +82,13 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Trevor Bryant"
+    image: "trevor-bryant.jpg"
     employer: "Epigen Technology"
     twitter: "apporima"
-    bio: "Senior Security Architect"
+    bio: "I'm a Senior Information Security Architect specializing in the Risk Management Framework. I work with technology executives to ensure security practices are usable through cost-effective risk-based actions. I believe in not just modernizing, but delivering secured services."
     github: "https://github.com/trevorbryant"
     facebook: ""
-    website: "https://keybase.io/trevorbryant"
+    website: "apporima.com"
     linkedin: "https://www.linkedin.com/in/bryanttn/"
 
   - name: "Sue Chand"
@@ -108,39 +112,30 @@ team_members: # Name is the only required field for team members.
     linkedin: ""
 
   - name: "Mike DelNegro"
-    employer: "Deltek"
+    employer: ""
     twitter: "radiocats"
     bio: ""
     github: ""
     facebook: ""
     website: ""
-    linkedin: ""
+    linkedin: "www.linkedin.com/in/mdelnegro"
 
   - name: "Greg Elin"
     employer: "GovReady PBC"
     twitter: "gregelin"
-    bio: ""
+    bio: "Greg Elin is the founder of GovReady PBC, a public benefit corporation building software to automate the cyber security compliance process. He brings the unique perspective of high quality, enterprise data management to all his work in cybersecurity and compliance.  Before founding GovReady, Mr. Elin was the first Chief Data Officer at the Federal Communication Commission, where he also briefly served as Acting CIO. Before the FCC, he created Sunlight Foundation's Sunlight Labs as tent-pole organization in open government data."
+    image: "greg-elin.jpg"
     github: "gregelin"
-    facebook: ""
     website: "http://govready.com"
     linkedin: "https://www.linkedin.com/in/greg-elin-b8885b4/"
-
-  - name: "Sam Freund"
-    employer: "Rally Health"
-    twitter: ""
-    bio: ""
-    image: ""
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
+    role: "Registration"
 
   - name: "Jeff Gallimore"
     employer: "Excella Consulting"
     twitter: "jgallimore"
     bio: ""
     image: "jeff-gallimore.jpg"
-    github: "jgallimore"
+    github: "gallimorej"
     linkedin: "https://www.linkedin.com/in/jgallimore/"
     website: "https://itsanicelife.com/"
     facebook: ""
@@ -195,17 +190,26 @@ team_members: # Name is the only required field for team members.
 
   - name: "Chuck Mountz"
     employer: "Comcast"
-    twitter: ""
-    bio: ""
+    twitter: "mountzcjr"
+    bio: "Chuck is a Product Engineering Sr Manager at Comcast. He leads a platform services team focused on delivering services and tools to help accelerate delivery for the greater Network Services Engineering organization.  Chuck is passionate about organizational culture, developing talent, fostering partnerships, and building enterprise-wide communities.  He co-founded, along with Holly Bazemore (co-lead of DevOpsDaysDC), the internal DevOpsDays events at Comcast.  Chuck is proud that these events have brought together over 900 employees in one of the largest tech communities at Comcast and that over 40 employees have had the opportunity to refine their presentation skills."
     image: ""
     github: ""
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/chuckmountzjr/"
     website: ""
 
   - name: "Ramez Mourad"
     employer: "Cvent"
     twitter: "ramezjm"
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
+  - name: "Jake Vanderdray"
+    employer: "Cvent"
+    twitter: ""
     bio: ""
     github: ""
     facebook: ""
@@ -231,44 +235,25 @@ team_members: # Name is the only required field for team members.
     website: "https://opensource.com/users/aaronrinehart"
     linkedin: "https://www.linkedin.com/in/aaronsrinehart/"
 
-  - name: "Jason Simpson"
-    employer: "Metricly"
-    twitter: "jfsimpson1"
-    bio: ""
-    github: ""
+  - name: "Steve Ross"
+    employer: "Endgame"
+    twitter: "@stevewritescode"
+    bio: "Steve Ross currently serves as Technical Director at Endgame, where he works on cloud services and data analysis for finding and stopping cybercrime. He is an advocate for small, cross-functional teams and ruthlessly ships software early and often!"
+    image: "steve-ross.jpg"
+    github: "stevewritescode"
     facebook: ""
+    linkedin: "https://www.linkedin.com/in/steveaross/"
     website: ""
-    linkedin: ""
 
   - name: "Robert Treat"
-    employer: "OmniTI"
+    employer: "credativ"
     twitter: "robtreat2"
-    bio: ""
+    bio: "Having spent his early years building data-intensive, real-time systems within the Fortune 500, Robert now runs U.S. operations for credativ, a technical services firm providing open source based web application development and infrastructure management. Author and speaker at conferences worldwide, Robert is a recognized industry expert on topics including databases, DevOps, and Open Source. He occasionally blogs at https://xzilla.net."
     image: "robert-treat.jpg"
     github: "xzilla"
     facebook: ""
     linkedin: "https://www.linkedin.com/in/robtreat/"
-    website: "https://omniti.com"
-
-  - name: "Derek Weeks"
-    employer: "Sonatype"
-    twitter: "weekstweets"
-    bio: ""
-    image: ""
-    github: ""
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/derekeweeks/"
-    website: "http://www.sonatype.com/"
-
-  - name: "Bill Weiss"
-    employer: "Rally Health"
-    twitter: "billweiss"
-    bio: ""
-    image: ""
-    github: ""
-    facebook: ""
-    linkedin: ""
-    website: ""
+    website: "https://www.linkedin.com/company/credativ-llc/"
 
   - name: "Shawn Wells"
     employer: "Red Hat"
@@ -280,6 +265,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/shawndwells/"
     website: "https://medium.com/shawndwells"
 
+  - name: "Peter Burkholder"
+    employer: "18F"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOps"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
+    facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
+    website: ""
 
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
@@ -291,6 +285,7 @@ sponsors:
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsor_link: "https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -313,5 +308,39 @@ sponsor_levels:
     label: Media
 
 sponsors:
+  - id: pyramid-systems
+    level: platinum
+  - id: excella
+    level: platinum
+  - id: redhatgov
+    level: platinum
+    url: "https://go.redhat.com/public-sector?sc_cid=701f2000001OIyfAAG"
+  - id: dlt
+    level: platinum
+  - id: chef
+    level: platinum
+    url: "https://chef.io/?utm_source=doddc"
+  - id: stsi
+    level: platinum
+  - id: validatek
+    level: platinum
+  - id: onyx-point
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: googlecloud
+    level: platinum
   - id: circleci
     level: gold
+  - id: devopsdc-meetup
+    level: community
+  - id: black-code-collective
+    level: community
+  - id: womenwhocodedc
+    level: community
+  - id: arresteddevops
+    level: media
+  - id: foodfight
+    level: media
+  - id: cybersecurity-magazine
+    level: media

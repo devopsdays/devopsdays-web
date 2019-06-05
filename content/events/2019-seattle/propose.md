@@ -1,7 +1,7 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for devopsdays Seattle 2019"
+Description = "Propose a talk for DevOpsDays Seattle 2019"
 +++
   {{< cfp_dates >}}
 

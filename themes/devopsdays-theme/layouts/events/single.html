@@ -30,20 +30,13 @@
         {{- $.Scratch.Set "month-displayed" "true" -}}
         {{- $.Scratch.Set "close-tag" "true" -}}
       {{- end -}}
-      {{- if ne .startdate .enddate }}
-      {{- if eq (time .startdate).Month (time .enddate).Month -}}
-        <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "events-page-event">
+      {{- if or (ne (time .startdate).Month (time .enddate).Month) (ne (time .startdate).Day (time .enddate).Day) -}}
+        <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
       {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "2" .enddate }}:
       {{ .city }}
         </a><br />
       {{- else -}}
-    <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "events-page-event">
-      {{ dateFormat "Jan 2" .startdate }} - {{ dateFormat "Jan 2" .enddate }}:
-      {{ .city }}
-    </a><br />
-      {{- end -}}
-      {{- else -}}
-      <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "events-page-event">
+      <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">
         {{ dateFormat "Jan 2" .startdate }}:
         {{ .city }}
       </a><br />
@@ -56,7 +49,7 @@
 <h4 class="events-page-months">TBD</h4>
 {{- range $.Site.Data.events -}}
   {{- if not .startdate -}}
-    <a href = "{{ (printf "events/%s" .name) | absURL }}" class = "events-page-event">{{ .city }}</a><br />
+    <a href = "{{ (printf "/events/%s" .name) }}" class = "events-page-event">{{ .city }}</a><br />
   {{- end -}}
 {{- end -}}
 </div>

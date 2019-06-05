@@ -15,24 +15,28 @@ the community by encouraging participation, open-mindedness, learning, and
 safety in every interaction. Behavior outside of our community guidelines is 
 unacceptable and should and will not be tolerated by anyone.
 
+## Intent
+
+DevOpsDaysDC is dedicated to providing a harassment-free experience for participants at all of our events. DevOpsDays events are working conferences intended for professional networking and collaboration within the devops community. They exist to encourage the open exchange of ideas and expression and require an environment that recognizes the inherent worth of every person and group. While attending DevOpsDaysDC, any participants, including members, speakers, attendees, volunteers, sponsors, exhibitors, booth staff and anyone else associated with the event, should not engage in harassment in any form.
+
 ## The Quick Version
 
 Our conference is dedicated to providing a harassment-free conference experience
-for everyone, regardless of gender, age, sexual orientation, disability,
-physical appearance, body size, race, or religion (or lack thereof). We do not
-tolerate harassment of conference participants in any form. Sexual language and
-imagery is not appropriate for any conference venue, including talks, workshops,
-parties, Twitter and other online media. Conference participants violating these
-rules may be sanctioned or expelled from the conference without a refund at the
-sole discretion of the conference organizers.
+for everyone, regardless of gender, gender identity and expression, age, sexual
+orientation, disability, physical appearance, body size, race, or religion (or
+lack thereof). We do not tolerate harassment of conference participants in any
+form. Sexual language and imagery is not appropriate for any conference venue,
+including talks, workshops, parties, Twitter and other online media. Conference
+participants violating these rules may be sanctioned or expelled from the
+conference without a refund at the sole discretion of the conference organizers.
 
 ## The Less Quick Version
 
-Harassment includes offensive verbal comments related to gender, age, sexual
-orientation, disability, physical appearance, body size, race, religion, sexual
-images in public spaces, deliberate intimidation, stalking, following, harassing
-photography or recording, sustained disruption of talks or other events,
-inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes offensive verbal comments related to gender, gender identity
+and expression, age, sexual orientation, disability, physical appearance, body size,
+race, religion, sexual images in public spaces, deliberate intimidation, stalking,
+following, harassing photography or recording, sustained disruption of talks or other
+events, inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply 
 immediately.

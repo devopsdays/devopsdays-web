@@ -27,9 +27,5 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
-<ol>
-	<li>Type (presentation, panel discussion, ignite)</li>
-	<li>Proposal Title (can be changed later)</li>
-	<li>Description (several sentences explaining what attendees will learn)</li>
-</ol>
+<strong>How to submit a proposal:</strong> We are using Papercall.io this year to manage proposals. Please go to <a href="https://www.papercall.io/devopsdaysportugal2019">https://www.papercall.io/devopsdaysportugal2019</a> and fill out the submission form.
+

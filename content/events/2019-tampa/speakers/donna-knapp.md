@@ -1,0 +1,9 @@
++++
+Title = "Donna Knapp"
+Twitter = ""
+image = ""
+type = "speaker"
+linktitle = "donna-knapp"
++++
+
+Donna has more than 30 years of experience in the IT industry and is currently ITSM Academy’s Curriculum Development Manager. Donna’s years of practical experience and love of learning show in her engaging and informative speaking style and many certifications including: ITIL® Expert, Certified Process Design Engineer, DevOps Foundation, DevOps Leader, Certified DevOps Test Engineer, Certified Scrum Master, Certified Agile Service Manager, Certified Agile Process Owner, Knowledge-Centered Support and VeriSM Foundation certified. Donna is the author of The ITSM Process Design Guide: Developing, Reengineering, and Improving IT Service Management (which serves as the foundation for the Certified Process Design Engineer qualification), as well as two college textbooks, A Guide to Service Desk Concepts, Fourth Edition and A Guide to Customer Service Skills for Service Desk Professionals, Fourth Edition. Donna was the lead developer for the DevOps Institute’s DevOps Foundation course and is also the author of its ITSM for DevOps and Certified Agile Process Owner (CAPO) courses. Donna recently teamed with Mike Orzen (co-author of Lean IT) to develop a Value Stream Mapping for Facilitators course and is also a member of the ITIL® 4 examination panel. Donna is a huge fan of W. Edwards Deming and is so notorious for evoking his wisdom that she has her own drinking game (#donnasaiddeming). As a citizen of Oldsmar, Donna also takes great pleasure in knowing that the founder of her town – R. E. Olds – was talking about ‘flow’ way before we were all born.

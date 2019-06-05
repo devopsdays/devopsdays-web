@@ -9,13 +9,13 @@
     <!-- Now we can display stuff! -->
     <div class="col-lg-3 col-md-6">
 
-      <a href = "{{ .Permalink | absURL }}">
-        {{- if isset .Params "image" -}}
-          {{- if ne .Params.image "" -}}
-            <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) | absURL}}" class="speakers-page img-fluid" alt="{{ .Title }}"/><br />
+      <a href = "{{ .Permalink }}">
+        {{- with .Params.image -}}
+          {{- if ne . "" -}}
+            <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="speakers-page img-fluid" alt="{{ $.Title }}"/><br />
           {{- end -}}
           {{- else -}}
-            <img src = "{{"img/speaker-default.jpg" | absURL }}" class="speakers-page img-fluid"  alt="{{ .Title }}"/><br />
+            <img src = "{{"/img/speaker-default.jpg" }}" class="speakers-page img-fluid"  alt="{{ .Title }}"/><br />
         {{- end -}}
       </a>
 
@@ -44,10 +44,10 @@
     {{- range $fname, $s := index .Site.Data.speakers (print (chomp $e.year)) (substr $e.name 5) -}}
       <div class="row">
         <div class="col-md-12 col-lg-3">
-            <img alt = "{{ $s.name }}" src = "{{ (printf "events/%s/speakers/%s.jpg" $e.name $fname) | absURL }}" class="speakers-page old-speaker">
+            <img alt = "{{ $s.name }}" src = "{{ (printf "/events/%s/speakers/%s.jpg" $e.name $fname) }}" class="speakers-page old-speaker">
         </div>
         <div class= "col-md-12 col-lg-9 old-speaker-bio speakers-page">
-          <h3><a href="{{ (printf "events/%s/program/%s" $e.name $fname) | absURL}}">{{ $s.name }}</a></h3>
+          <h3><a href="{{ (printf "/events/%s/program/%s" $e.name $fname) }}">{{ $s.name }}</a></h3>
           {{ if $s.twitter }} <a href="https://twitter.com/{{ $s.twitter }}">@{{ $s.twitter }}</a><br>{{ end }}
           {{ if $s.website }}Website: <a href="{{ $s.website }}">{{ $s.website }}</a><br>{{ end }}
           {{ if $s.pronouns }}Pronouns: {{ $s.pronouns }}{{ end }}

@@ -98,7 +98,7 @@ sponsors:
      level: silver
    - id: realtor-dot-com
      level: silver
-   - id: sourcedgroup
+   - id: sourcedgroup-before-20190219
      level: silver
    - id: worksafebc
      level: silver
@@ -127,7 +127,7 @@ sponsors:
   #   level: gold
   # - id: demonware
   #   level: gold
-  # - id: pivotal
+  # - id: pivotal-before-20190307
   #   level: gold
   # - id: salesforce
   #   level: gold

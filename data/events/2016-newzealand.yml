@@ -7,8 +7,9 @@ status: "past" # Options are "past" or "current". Use "current" for upcoming.
 event_group: "New Zealand"
 
 # All dates are in unquoted 2016-MM-DD, like this:   variable: 2016-01-05
-startdate: 2016-09-29  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2016-09-30  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2016-09-29T00:00:00+13:00
+enddate: 2016-09-30T23:59:59+13:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2016-06-21  # start accepting talk proposals.
 cfp_date_end: 2016-07-29  # close your call for proposals.

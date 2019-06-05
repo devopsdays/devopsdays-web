@@ -1,5 +1,5 @@
 +++
-date = "2017-09-17T16:53:08+02:00"
+date = "2019-03-03T16:53:08+02:00"
 title = "Sobre el evento / About"
 type = "event"
 +++
@@ -15,9 +15,7 @@ En los últimos años se ha evidenciado que las técnicas utilizadas en el desar
 Algunos llaman a este fenómeno DevOps otros Administración Ágil de Sistemas.
  
 DevOpsDays es el espacio idóneo para la realización de conferencias técnicas dirigidas a desarrolladores, administradores de sistemas y cualquier otra persona involucrada en la tecnología, sea experto o principiante.
- 
-Para más información sobre este tipo de conferencias puede visitar el sitio oficial: http://devopsdays.org
- 
+  
 Dentro de los temas que usualmente se presentan en este tipo de espacios y sobre los que nos gustaría intercambiar experiencias se encuentran:
  
 

@@ -23,8 +23,8 @@ registration_link: ""
 
 # Location
 coordinates: "23.195346,-81.129780" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Hotel Melia Marina Varadero" # Defaults to city, but you can make it the venue name.
-location_address: "Varadero, Matanzas, Cuba"
+location: "Varadero" # Defaults to city, but you can make it the venue name.
+location_address: "Hotel Melia Marina Varadero"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
 

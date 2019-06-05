@@ -1,0 +1,13 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Taming the Change Management Beast"
+Type = "talk"
+Speakers = ["donna-knapp"]
+youtube = ""
+slideshare = ""
+slides = ""
++++
+
+You sometimes hear that DevOps and IT service management (ITSM)/ITIL® aren’t compatible. As a former Change Manager, I can see clearly that organizations that are successfully adopting DevOps practices aren’t achieving that success without ITSM. Nor do they become high performing with overly-rigorous ITSM processes. This is particularly true when it comes to the dreaded IT change management process. The key message of this ignite talk is that we can all agree on the ‘what’ and ‘why’ of the change management process – which is to maximize the number of successful IT changes while at the same time protecting customers and users from the adverse effect of changes. It’s the ‘how’ of change management where things often go astray (e.g., having to submit a request for change (RFC) or having changes approved by a Change Advisory Board (CAB) that only meets once a week. So how can we adapt the IT change management process in support of DevOps? Main points covered will include: •	For development teams – if you think you are producing quality changes, prove it. Educate your ITSM counterparts on concepts such as peer reviews, continuous testing and the ability to quickly roll back changes or push out fixes when something goes wrong… all of which support the goals of change management. •	For ITSM change practitioners – lighten up! Work with your DevOps counterparts to work out the minimum viable process required when changes are being made through a trusted and secure CI/CD pipeline. Look for ways to introduce ‘just enough control’, optimally in an automated way by introducing policy as code. •	For both – manage the flow of information. Work together to understand each other’s information requirements and how work gets done. Figure out a way to ensure everyone has the information they need, when and where they need it, to function in a ‘work as usual’ way. Let’s face it, ITSM processes have a bad reputation. Often deservedly so. They can be a real constraint in the IT value stream; particularly when those processes have become bloated and bureaucratic over time. So how do we reach common ground? Not by pitting ITSM and DevOps against each other. Rather, the key is to understand that neither stands alone. Nor do they have to be at odds. They both, at the end of the day, are about delivering value, and so let’s figure how to do that together.

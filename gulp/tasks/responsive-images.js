@@ -17,12 +17,6 @@ gulp.task('responsive-images-logos', function() {
             '**/*logo-square.jpg': [{
                 width: 250,
                 height: 250,
-            }, {
-                width: 500,
-                height: 500,
-                rename: {
-                    suffix: '@2x'
-                }
             }],
         }, {
             // global configuration
@@ -41,14 +35,8 @@ gulp.task('responsive-organizer-images', function() {
   return gulp.src(['public/**/organizers/*.jpg', '!public/events/2015*/**', '!public/events/2016*/**'])
     .pipe(responsive({
       '**/*.jpg': [{
-        width: 300,
-        height: 300,
-      }, {
         width: 600,
         height: 600,
-        rename: {
-          suffix: '@2x'
-        }
       }],
     }, {
       // global configuration
@@ -67,24 +55,12 @@ gulp.task('responsive-speaker-images', function() {
     return gulp.src(['public/**/speakers/*.jpg', 'public/**/speakers/*.png', '!public/events/2015*/**', '!public/events/2016*/**'])
         .pipe(responsive({
             '**/*.png': [{
-                width: 300,
-                height: 300
-            }, {
                 width: 600,
-                height: 600,
-                rename: {
-                    suffix: '@2x'
-                }
+                height: 600
             }],
             '**/*.jpg': [{
-                width: 300,
-                height: 300
-            }, {
                 width: 600,
-                height: 600,
-                rename: {
-                    suffix: '@2x'
-                }
+                height: 600
             }]
         }, {
             // global configuration
@@ -104,19 +80,9 @@ gulp.task('responsive-sponsor-images', function() {
         .pipe(responsive({
             '*.png': [{
                 width: 200
-            }, {
-                width: 400,
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '*.jpg': [{
                 width: 200
-            }, {
-                width: 400,
-                rename: {
-                    suffix: '@2x'
-                }
             }]
         }, {
             // global configuration
@@ -139,24 +105,12 @@ gulp.task('responsive-images-remaining', function() {
             // produce multiple images from one source
             '**/*.png': [{
                 width: '100%'
-            }, {
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '**/*.jpeg': [{
                 width: '100%'
-            }, {
-                rename: {
-                    suffix: '@2x'
-                }
             }],
             '**/*.jpg': [{
                 width: '100%'
-            }, {
-                rename: {
-                    suffix: '@2x'
-                }
             }]
         }, {
             // global configuration

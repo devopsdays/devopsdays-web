@@ -14,9 +14,6 @@ Description = "Sponsor DevOpsDays London 2019"
 
       </div>
       <h3>Sponsorship Packages</h3>
-      <div class="alert alert-info">
-        We are offering the following packages (<strong>all prices are excluding VAT @20%</strong>):
-      </div>
       <div class="table-responsive">
       <table class="table table-bordered table-hover table-responsive-md">
         <thead class="thead-light">
@@ -130,7 +127,8 @@ education, government, and consulting.</p>
 </div>
     </div>
     </div>
-    <!--<div class="col-md-3 col-sm-12">
-      <a href="https://assets.devopsdays.org/events/2018/london/devopsdays-london-2018-prospectus.pdf"><img src="/events/2018-london/devopsdays-london-2018-prospectus.jpg" class="img-fluid"></a>
-    </div>-->
+    <div class="col-md-3 col-sm-12">
+      <a href="https://assets.devopsdays.org/events/2019/london/devopsdays-london-2019-brochure.pdf"><img src="https://assets.devopsdays.org/events/2019/london/thumbnail.jpg" class="img-fluid"></a>
+    </div>
+
   </div>
