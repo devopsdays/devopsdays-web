@@ -178,8 +178,10 @@ sponsors:
     level: gold
   - id: coyote
     level: bronze
-  - id: slalom 
+  - id: slalom
     level: gold
+  - id: awschicago_ugroup
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
