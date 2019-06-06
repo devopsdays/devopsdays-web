@@ -252,10 +252,14 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>Lunch</td>
       <td>$6,000</td>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <td>Sponsor 1 day of lunch and get a 1min pitch just before lunch</td>
 =======
       <td>Sponsor 1 day and get 1min talk before lunch</td>
 >>>>>>> added solarwinds and clarified lunch
+=======
+      <td>Sponsor 1 day and get 1min talk before lunch</td>
+>>>>>>> c90950f4a68f4bc7d44c8242d58e2650cec7bf32
       <td>6</td>
       <td>2</td>
     </tr>
