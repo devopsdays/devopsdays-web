@@ -1,7 +1,7 @@
 +++
 Title = "Roberto Cárdenas Isla"
 Twitter = ""
-image = ""
+image = "r-cardenas.jpg"
 type = "speaker"
 linktitle = "roberto-isla"
 +++
