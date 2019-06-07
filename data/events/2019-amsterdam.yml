@@ -132,6 +132,8 @@ sponsors:
     level: silver
   - id: eficode
     level: silver
+  - id: cyberark
+    level: silver
     # Recharge
   - id: leaseweb
     level: recharge
