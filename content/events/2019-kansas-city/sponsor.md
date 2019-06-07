@@ -127,7 +127,7 @@ in promotional materials. The preferred file formats are EPS or AI.
 
 <h2><a id="special">Special Sponsorships</a></h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Kansas City website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us at [{{< email_organizers >}}].
+All special sponsors will have their logo displayed on the DevOpsDays Kansas City website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us at [{{< email_organizers >}}].
 <br/><br/>
 
 <table class = "table table-bordered table-responsive">
