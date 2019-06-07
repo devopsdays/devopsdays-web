@@ -213,12 +213,14 @@ sponsor_levels:
     max: 7
   - id: gold
     label: Gold
+    max: 15
   - id: silver
     label: Silver
   - id: alacarte
     label: A La Carte
   - id: community
     label: Community
+    max: 6
 
 
 program:
@@ -227,7 +229,7 @@ program:
     date: 2019-08-06
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Welcome, Sponsor"
     type: custom
     date: 2019-08-06
     start_time: "09:00"
@@ -327,7 +329,7 @@ program:
     date: 2019-08-07
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Welcome, Sponsor"
     type: custom
     date: 2019-08-07
     start_time: "09:00"
