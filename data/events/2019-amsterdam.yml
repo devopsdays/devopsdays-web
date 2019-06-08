@@ -134,6 +134,8 @@ sponsors:
     level: silver
   - id: cyberark
     level: silver
+  - id: dasa
+    level: silver
     # Recharge
   - id: leaseweb
     level: recharge
