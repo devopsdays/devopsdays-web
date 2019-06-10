@@ -169,7 +169,7 @@ sponsors:
     level: silver
   - id: itcrowdmeetup
     level: community
-  - id: splunk
+  - id: splunkvictorops
     level: gold
   - id: googlecloud
     level: gold
@@ -183,6 +183,9 @@ sponsors:
     level: gold
   - id: awschicago_ugroup
     level: community
+  - id: signalfx
+    level: silver
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
