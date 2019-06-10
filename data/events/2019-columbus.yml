@@ -101,6 +101,12 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: chef
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: tasktop
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
