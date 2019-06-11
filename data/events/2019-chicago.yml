@@ -207,7 +207,6 @@ sponsor_levels:
     label: Community
   - id: wifi
     label: Wifi Sponsor
-=======
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
