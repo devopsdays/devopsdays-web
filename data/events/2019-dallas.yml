@@ -225,6 +225,14 @@ sponsors:
     level: gold
   - id: liatrio
     level: silver
+  - id: instana
+    level: silver
+  - id: signalfx
+    level: platinum
+  - id: statefarm
+    level: platinum
+  - id: securecodewarrior
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
