@@ -113,8 +113,8 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-#  - id: vmware
-#    level: gold
+  - id: vmware
+    level: gold
   - id: googlecloud
     level: gold
   - id: microsoft
