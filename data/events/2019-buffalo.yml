@@ -84,6 +84,9 @@ sponsors:
   - id: adrianroselli
     level: community
     url: http://adrianroselli.com
+  - id: newrelic
+    level: silver
+    url: https://newrelic.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
