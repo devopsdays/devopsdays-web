@@ -332,10 +332,15 @@ sponsors:
     level: platinum
   - id: googlecloud
     level: platinum
+  - id: signalfx
+    level: platinum
   - id: circleci
     level: gold
   - id: sts
     level: gold
+  - id: gitlab
+    level: gold
+    url: "https://about.gitlab.com/"
   - id: devopsdc-meetup
     level: community
   - id: black-code-collective
