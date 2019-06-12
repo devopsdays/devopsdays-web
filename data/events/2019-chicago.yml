@@ -211,6 +211,8 @@ sponsor_levels:
     label: Community
   - id: wifi
     label: Wifi
+    max: 1
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
