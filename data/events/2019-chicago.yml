@@ -154,7 +154,7 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: xmatters
-    level: silver
+    level: gold
   - id: f5
     level: gold
   - id: chef
@@ -187,6 +187,10 @@ sponsors:
     level: silver
   - id: objective
     level: wifi
+  - id: opploans
+    level: silver
+  - id: logdna
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -206,7 +210,9 @@ sponsor_levels:
   - id: community
     label: Community
   - id: wifi
-    label: Wifi Sponsor
+    label: Wifi
+    max: 1
+
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
