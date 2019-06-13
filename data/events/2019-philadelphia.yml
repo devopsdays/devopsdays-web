@@ -79,6 +79,10 @@ sponsors:
     level: platinum
   - id: appdynamics
     level: gold
+  - id: victorops
+    level: gold
+  - id: overops
+    level: silver
   - id: arresteddevops
     level: community
 
