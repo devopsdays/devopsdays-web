@@ -47,12 +47,8 @@ on it. There is only a single sponsorship available and it is $2,500.
   <tbody>
     <tr>
       <td></td>
-      <td style="padding: 5px" align="middle"><b>Gold</b><br>2 Left<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="MBTAQC3R6XBFN">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+      </td>
+      <td style="padding: 5px" align="center" valign="top"><b>Gold</b><br>Sold Out<br><br><br>
 </td>
       <td style="padding: 5px" align="center" valign="top"><b>Platinum</b><br>Sold Out<br><br><br>
 </td>
@@ -78,7 +74,7 @@ on it. There is only a single sponsorship available and it is $2,500.
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Intermission Slides</td>
+      <td>Logo on intermission slides</td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>

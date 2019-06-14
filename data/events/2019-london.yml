@@ -105,6 +105,9 @@ sponsors:
     level: silver
   - id: tecknuovo
     level: silver
+    # Bronze
+  - id: veracode
+    level: bronze
     # Community
   - id: athens-project
     level: community

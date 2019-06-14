@@ -102,7 +102,7 @@ guide, "Navigating Your DevOps Journey."
 <p>
 Join us at <a href="http://indianacitybeer.com/">Indiana City Brewing Company</a>
 after the conference on July 25th at 6pm. We will have appetizers, beer
-and the famous Ignite Karaoke!
+and the famous Ignite Karaoke hosted by <a href="https://twitter.com/thelongshanx">Tiffany Longworth</a>!
 
 The <a href="https://goo.gl/maps/pNQd3TF792wKeNQE8">address</a> is 24 Shelby Street, Indianapolis, IN 46202.
 </p>

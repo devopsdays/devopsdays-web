@@ -1,4 +1,4 @@
-name: "2019-stockholm" # The name of the event. Four digit year with the city name in lower-case, with no spaces.
+name: "2019-stockholm" # The name of the event. Four digit year with the city name in lower-case, with no spaces
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Stockholm" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayssthlm" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
@@ -109,12 +109,16 @@ sponsors:
   - id: citerus
     level: silver
   - id: izettle
-    level: silver
+    level: bronze
   - id: f5
     level: gold
   - id: diabol
     level: silver
   - id: spotify
+    level: silver
+  - id: king
+    level: silver
+  - id: thoughtworks-services
     level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

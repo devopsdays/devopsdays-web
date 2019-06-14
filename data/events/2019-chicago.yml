@@ -40,9 +40,10 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: propose
   - name: location
  # - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
+  - name: volunteer
   - name: contact
   - name: conduct
 # - name: example
@@ -57,6 +58,14 @@ team_members:
     image: "jerry-cattell.jpg"
     bio: "Jerry Cattell is the Director of Technical Operations for [Tempus](https://www.tempus.com/) and a co-organizer of the [DevOps Chicago meetup group](http://meetup.com/devops). In his free time, Jerry enjoys traveling, reading, and playing with new technologies."
     linkedin: "https://www.linkedin.com/in/jerrycattell"
+  - name: "Sasha Rosenbaum"
+    image: "sasha-rosenbaum.jpg"
+    employer: "Microsoft"
+    twitter: "DivineOps"
+    website: "http://divineops.net"
+    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
+    bio: "Sasha Rosenbaum is a Program Manager on the Azure DevOps engineering team, focused on making the technology better aligned with open source software projects. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
+    github: "DivineOps"
   - name: "Albert Cheung"
     linkedin: "http://www.linkedin.com/in/albcheung"
     image: "albert-cheung.jpg"
@@ -66,8 +75,9 @@ team_members:
     twitter: "nilved"
     image: "brian-devlin.jpg"
     bio: "Brian Devlin is (presumably) a human who enjoys activities of various natures. Brian is a father who lives in the suburbs. He enjoys board games and beverages, in no specific order. He may or may not have a shadow Twitter account. He tweets only during warm weather. Once, Brian vaulted over the Chicago River, but that could have been in his imagination. Brian invented DevOps, but not the DevOps you know."
-  - name: "Jeremy Fryer"
+  - name: "Joshua Goldman"
     image: "default-male.jpg"
+    bio: "Joshua Goldman is a lead Site Reliability Engineer and a former SRE Manager at SecureWorks a Managed Security Service Provider.  He is currently working creating a home brew style automation platform for incident management.   His other interests include volunteering with animal rescue in the Chicagoland area and outdoor activities that involve the nasty yellow ball in the sky."
   - name: "Cora Fedesna"
     image: "cora-hays-magan.jpg"
     employer: "ActiveCampaign"
@@ -101,14 +111,6 @@ team_members:
     linkedin: "https://www.linkedin.com/in/kevinreedy"
     github: "kevinreedy"
     bio: "Kevin Reedy is an infrastructure developer from Chicago that currently works for Chef as a Customer Architect. In his free time, he enjoys brewing beer, snowboarding, DJing, and promising that he'll update his blog more often."
-  - name: "Sasha Rosenbaum"
-    image: "sasha-rosenbaum.jpg"
-    employer: "Microsoft"
-    twitter: "DivineOps"
-    website: "http://divineops.net"
-    linkedin: "https://www.linkedin.com/in/sasha-rosenbaum"
-    bio: "Sasha Rosenbaum is a Program Manager on the Azure DevOps engineering team, focused on making the technology better aligned with open source software projects. Sasha is passionate about DevOps, company culture and collaboration in IT teams."
-    github: "DivineOps"
   - name: "Matty Stratton"
     image: "matt-stratton.jpg"
     twitter: "mattstratton"
@@ -153,7 +155,7 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: xmatters
-    level: silver
+    level: gold
   - id: f5
     level: gold
   - id: chef
@@ -168,7 +170,7 @@ sponsors:
     level: silver
   - id: itcrowdmeetup
     level: community
-  - id: splunk
+  - id: victorops
     level: gold
   - id: googlecloud
     level: gold
@@ -177,7 +179,19 @@ sponsors:
   - id: bcbsil
     level: gold
   - id: coyote
-    level: bronze 
+    level: bronze
+  - id: slalom
+    level: gold
+  - id: awschicago_ugroup
+    level: community
+  - id: signalfx
+    level: silver
+  - id: objective
+    level: wifi
+  - id: opploans
+    level: silver
+  - id: logdna
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -196,3 +210,234 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+  - id: wifi
+    label: Wifi
+    max: 1
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-08-27
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "jeff-smith"
+    type: talk
+    date: 2019-08-27
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "kylie-schleicher"
+    type: talk
+    date: 2019-08-27
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-08-27
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "kevin-harriss"
+    type: talk
+    date: 2019-08-27
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-27
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "lakshmi-baskaran"
+    type: talk
+    date: 2019-08-27
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-27
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-08-27
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-08-27
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-08-27
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "jessie-frazelle"
+    type: workshop
+    date: 2019-08-27
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-08-27
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-08-27
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "garima-sharma"
+    type: workshop
+    date: 2019-08-27
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "attendee-suggested breakout discussions - Open Space #3"
+    type: open-space
+    date: 2019-08-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Arrested DevOps LIVE!"
+    type: custom
+    date: 2019-08-27
+    start_time: "16:00"
+    end_time: "16:45"
+  - title: "Close Day"
+    type: custom
+    date: 2019-08-27
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-08-27
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-08-28
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "pete-cheslock"
+    type: talk
+    date: 2019-08-28
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "holly-allen"
+    type: talk
+    date: 2019-08-28
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-08-28
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "baron-schwartz"
+    type: talk
+    date: 2019-08-28
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "karissa-peth"
+    type: talk
+    date: 2019-08-28
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-28
+    start_time: "11:50"
+    end_time: "13:00"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-08-28
+    start_time: "13:00"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-28
+    start_time: "13:30"
+    end_time: "13:40"
+  - title: "Open Space Opening"
+    type: open-space
+    date: 2019-08-28
+    start_time: "13:40"
+    end_time: "14:15"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-08-28
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "jennifer-petoff-nathen-harvey"
+    type: workshop
+    date: 2019-08-28
+    start_time: "14:15"
+    end_time: "15:00"
+  - title: "Break"
+    type: custom
+    date: 2019-08-28
+    start_time: "15:00"
+    end_time: "15:15"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-08-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "nick-petrovits-allen-nelson"
+    type: workshop
+    date: 2019-08-28
+    start_time: "15:15"
+    end_time: "16:00"
+  - title: "Raffles and Closing Ceremony"
+    type: custom
+    date: 2019-08-28
+    start_time: "16:00"
+    end_time: "16:45"
+ignites:
+  - title: "veronica-hanus"
+    date: 2019-08-27
+  - title: "jay-gordon"
+    date: 2019-08-27
+  - title: "adam-shake"
+    date: 2019-08-27
+  - title: "j-paul-reed"
+    date: 2019-08-27
+  - title: "michael-stahnke"
+    date: 2019-08-27
+  - title: "jason-yee"
+    date: 2019-08-28
+  - title: "heidi-waterhouse"
+    date: 2019-08-28
+  - title: "aaron-blythe"
+    date: 2019-08-28
+  - title: "martez-reed"
+    date: 2019-08-28
+  - title: "joshua-zimmerman"
+    date: 2019-08-28

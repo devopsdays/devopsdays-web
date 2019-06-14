@@ -5,7 +5,7 @@ aliases = ["/events/2019-tampa/"]
 Description = "DevOpsDays Tampa Bay 2019"
 +++
 
-Latest news for DevOpsDays Tampa Bay - Marriott hotel rates extended until June 2nd.
+Latest news for DevOpsDays Tampa Bay - A few seats left, register now!
 ===
 
 <div style="text-align:center;">

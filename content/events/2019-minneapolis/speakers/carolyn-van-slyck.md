@@ -1,6 +1,6 @@
 +++
 Title = "Carolyn Van Slyck"
-Twitter = "jrrickard"
+Twitter = "carolynvs"
 image = "carolyn-van-slyck.png"
 type = "speaker"
 linktitle = "carolyn-van-slyck"
