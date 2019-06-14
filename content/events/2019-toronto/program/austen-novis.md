@@ -14,3 +14,5 @@ Implementing IaC at scale still requires significant investment, and many compan
 Just in Time Infrastructure (JiTI) which is a term my team created, looks to solve some of these difficulties by tying the infrastructure code more closely to the application code. This serves the purpose of isolating the infrastructure as much as possible, coupling infrastructure versions to application versions, and allowing applications to potentially be shared and scaled across accounts.
 
 This talk will cover the origination of JiTI and the problems it is designed to solve, dive into the benefits and limitations of utilizing JiTI, and end with a working example.
+
+<a href="https://assets.devopsdays.org/events/2019/toronto/AustinNovis_CloudInf_Lg.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2019/toronto/AustinNovis_CloudInf.png" alt="Graphic Recording Just in Time Cloud Infrastructure - Redefining the Relationship Between Applications and Cloud Infrastructure" /></a>

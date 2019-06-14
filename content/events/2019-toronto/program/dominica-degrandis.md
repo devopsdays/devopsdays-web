@@ -14,3 +14,5 @@ In order to solve these problems, it's useful to find & fix the fragmented work 
 - Complexity drives necessary specialization
 - Specialization causes expensive disconnects
 - How to deal with the resulting communication debt
+
+<a href="https://assets.devopsdays.org/events/2019/toronto/DDegrandis_Connections_Lg.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2019/toronto/DDegrandis_Connections.png" alt="Graphic Recording Making Connections Visible - How to Defrag your Value Stream" /></a>

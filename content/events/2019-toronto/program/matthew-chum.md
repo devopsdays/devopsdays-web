@@ -18,3 +18,5 @@ Stages of DevOps (Dys)Function:
 3. One size fits all.
 
 There are multiple ways to solve a problem. How can we deliver efficiently at scale across organizational groups? Automation was not the final frontier. These are the voyages of Enterprises like Genesys. Its five-year mission: transition from the days of lift and shift automation to embracing DevOps and microservices.
+
+<a href="https://assets.devopsdays.org/events/2019/toronto/MChum_MGhai_Shortcuts_Lg.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2019/toronto/MChum_MGhai_Shortcuts.png" alt="Graphic Recording Shortcuts and Scenic Routes - Deconstructing DevOps" /></a>

@@ -14,3 +14,5 @@ Join Greg Szabo down the rabbit hole in Amazon’s world of serverless technolog
 We will walk through multiple use-cases of implementing Amazon’s Lambda (with S3, CloudFront, ACM, Route 53, DynamoDB, CloudFormation) and other AWS technologies that might help your security-oriented friends (CloudWatch, CloudTrail, SSM, KMS, Organizations, Billing alerts), sprinkled with some other helpers for good measures, like Terraform, GitHub, CircleCI and Google’s Go language for a complete Continuous Integration experience. For a basic infrastructure setup, this might just be enough.
 
 Well, as long as you’re not interested in more complex applications (where shall I put my docker containers) or decent monitoring (should I host or should I pay?). There’re lots to talk about.
+
+<a href="https://assets.devopsdays.org/events/2019/toronto/GregSzabo_TalesfrServerless_Lg.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2019/toronto/GregSzabo_TalesfrServerless.png" alt="Graphic Recording Tales from the Serverless" /></a>
