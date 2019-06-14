@@ -207,7 +207,7 @@ program:
     end_time: "09:00"
 
 #9:00 to 11:30
-  - title: "yan-cui-ws"
+  - title: "emile-vanhaaren-suzanne-meerdink"
     type: workshop
     date: 2019-06-26
     start_time: "09:00"
@@ -291,7 +291,7 @@ program:
     end_time: "14:45"
 
 # 14:45 to 17:15
-  - title: "stacey-jenkins"
+  - title: "yan-cui-ws"
     type: workshop
     date: 2019-06-26
     start_time: "14:45"
@@ -454,7 +454,7 @@ program:
     start_time: "09:15"
     end_time: "09:55"
 
-  - title: "matty-stratton"
+  - title: "thiago-defaria"
     type: talk
     date: 2019-06-28
     start_time: "10:00"
@@ -472,7 +472,7 @@ program:
     start_time: "10:50"
     end_time: "11:20"
 
-  - title: "thiago-defaria"
+  - title: "matty-stratton"
     type: talk
     date: 2019-06-28
     start_time: "11:25"
@@ -545,7 +545,7 @@ program:
 ignites:
   - title: "jason-yee-ig"
     date: 2019-06-27
-  - title: "alessandro-vozza"
+  - title: "anton-babenko-ig"
     date: 2019-06-27
   - title: "phillipp-krenn-ig"
     date: 2019-06-27
@@ -553,7 +553,5 @@ ignites:
     date: 2019-06-28
   - title: "noam-tenne"
     date: 2019-06-28
-  - title: "kelly-obriant"
-    date: 2019-06-28
-  - title: "anton-babenko-ig"
+  - title: "alessandro-vozza"
     date: 2019-06-28
