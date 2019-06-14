@@ -165,6 +165,8 @@ sponsors:
     level: bronze
   - id: eg_innovations
     level: bronze
+  - id: xebia
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
