@@ -494,11 +494,11 @@ program:
     type: ignite
     date: 2019-06-28
     start_time: "13:40"
-    end_time: "14:10"
+    end_time: "14:00"
   - title: "Open Space Planning"
     type: open-space
     date: 2019-06-28
-    start_time: "14:15"
+    start_time: "14:05"
     end_time: "14:45"
   - title: "open-space-one-day-two"
     backgroud_color: "#ffb566"
