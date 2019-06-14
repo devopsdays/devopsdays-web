@@ -149,6 +149,9 @@ sponsors:
     level: foodtrucks
   - id: tergos
     level: foodtrucks
+  # Wine
+  - id: indigo-amsterdam
+    level: wine
   # Bronze
   - id: utilus
     level: bronze
@@ -194,6 +197,9 @@ sponsor_levels:
   - id: foodtrucks
     label: "Food Trucks"
     max: "3"
+  - id: wine
+    label: "Wine"
+    max: "1"
   - id: bronze
     label: Bronze
 
