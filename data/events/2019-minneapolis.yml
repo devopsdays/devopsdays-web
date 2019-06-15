@@ -218,6 +218,7 @@ sponsor_levels:
     max: 15
   - id: silver
     label: Silver
+    max: 13
   - id: alacarte
     label: A La Carte
   - id: community
