@@ -99,7 +99,7 @@ sponsors:
     level: gold
   - id: mongodb
     level: bronze
-  - id: redhat-before-20190528
+  - id: redhat
     level: gold
   - id: cloudbees-codeship
     level: bronze

@@ -139,7 +139,7 @@ sponsor_levels:
     label: Community
 
 program:
-  - title: "Registration, Breakfast, Opening Welcome (ballroom)"
+  - title: "Registration, Breakfast, Opening Welcome"
     type: custom
     date: 2019-05-02
     start_time: "08:00"
@@ -169,12 +169,12 @@ program:
     date: 2019-05-02
     start_time: "11:00"
     end_time: "11:15"
-  - title: "emily-nakashima"
+  - title: "jason-yee"
     type: talk
     date: 2019-05-02
     start_time: "11:15"
     end_time: "12:00"
-  - title: "dustin-thostenson-skylar-watson"
+  - title: "emily-nakashima"
     type: talk
     date: 2019-05-02
     start_time: "11:15"
@@ -189,7 +189,7 @@ program:
     date: 2019-05-02
     start_time: "13:00"
     end_time: "13:30"
-  - title: "martin-schildroth"
+  - title: "christopher-hunt"
     type: talk
     date: 2019-05-02
     start_time: "13:30"
@@ -199,33 +199,28 @@ program:
     date: 2019-05-02
     start_time: "14:30"
     end_time: "14:45"
-  - title: "eric-hendricks"
+  - title: "brian-hostetter"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
     end_time: "15:30"
-  - title: "jason-yee"
+  - title: "james-young"
     type: talk
     date: 2019-05-02
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Park Bench Panel (ballroom)"
+  - title: "Open Spaces"
     type: custom
     date: 2019-05-02
     start_time: "15:30"
-    end_time: "16:15"
-  - title: "Open Spaces (ballroom)"
-    type: open-space
-    date: 2019-05-02
-    start_time: "16:15"
     end_time: "17:00"
-  - title: "Party! (reception area outside the ballroom)"
+  - title: "Party!"
     type: custom
     date: 2019-05-02
     start_time: "17:00"
     end_time: "20:00"
 
-  - title: "Registration, Breakfast, Opening Welcome (ballroom)"
+  - title: "Registration, Breakfast, Opening Welcome"
     type: custom
     date: 2019-05-03
     start_time: "08:00"
@@ -240,12 +235,12 @@ program:
     date: 2019-05-03
     start_time: "10:00"
     end_time: "10:15"
-  - title: "lee-barnes"
+  - title: "matt-ring-nick-herrig"
     type: talk
     date: 2019-05-03
     start_time: "10:15"
     end_time: "11:00"
-  - title: "matt-ring-nick-herrig"
+  - title: "lee-barnes"
     type: talk
     date: 2019-05-03
     start_time: "10:15"
@@ -255,7 +250,7 @@ program:
     date: 2019-05-03
     start_time: "11:00"
     end_time: "11:15"
-  - title: "stephen-wilson"
+  - title: "eric-hendricks"
     type: talk
     date: 2019-05-03
     start_time: "11:15"
@@ -275,7 +270,7 @@ program:
     date: 2019-05-03
     start_time: "13:00"
     end_time: "13:30"
-  - title: "christopher-hunt"
+  - title: "martin-schildroth"
     type: talk
     date: 2019-05-03
     start_time: "13:30"
@@ -285,25 +280,20 @@ program:
     date: 2019-05-03
     start_time: "14:30"
     end_time: "14:45"
-  - title: "james-young"
+  - title: "stephen-wilson"
     type: talk
     date: 2019-05-03
     start_time: "14:45"
     end_time: "15:30"
-  - title: "brian-hostetter"
+  - title: "dustin-thostenson-skylar-watson"
     type: talk
     date: 2019-05-03
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Park Bench Panel (ballroom)"
+  - title: "Open Spaces"
     type: custom
     date: 2019-05-03
     start_time: "15:30"
-    end_time: "16:15"
-  - title: "Open Spaces (ballroom)"
-    type: open-space
-    date: 2019-05-03
-    start_time: "16:15"
     end_time: "17:00"
 
 ignites:

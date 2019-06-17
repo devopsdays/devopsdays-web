@@ -108,18 +108,6 @@ sponsors:
      level: gold
    - id: xmatters
      level: gold
-   - id: rancher
-     level: gold
-   - id: netapp
-     level: gold
-   - id: clearwater
-     level: silver
-   - id: pagertree
-     level: silver
-   - id: optum
-     level: platinum
-   - id: cloudbees
-     level: platinum
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.

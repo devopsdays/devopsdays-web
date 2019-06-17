@@ -1,7 +1,7 @@
 +++
 Title = "Lukasz Lach"
 Twitter = "llachpl"
-image = "lukasz-lach.png"
+image = "lukaszlach.png"
 type = "speaker"
 linktitle = "lukasz-lach"
 +++

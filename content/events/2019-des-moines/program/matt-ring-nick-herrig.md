@@ -2,9 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Bottleneck Effect: Using Value Stream Maps to Improve Delivery Flow (breakout 2)"
+Title = "The Bottleneck Effect: Using Value Stream Maps to Improve Delivery Flow"
 Type = "talk"
-Youtube = "9T5rjb5xiEY"
 Speakers = ["matt-ring","nick-herrig"]
 +++
 

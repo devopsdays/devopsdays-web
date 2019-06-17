@@ -5,8 +5,6 @@ event_twitter: "devopsdaysbmore"
 description: "DevOpsDays is coming back to Baltimore!"
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-masthead_background: "bmore_skyline_inner_harbor.jpg"
-
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
@@ -23,7 +21,7 @@ cfp_date_announce: 2019-02-18T23:59:59-05:00 # inform proposers of status
 cfp_link: "https://devopsdaysbaltimore2019.busyconf.com/proposals/new" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2019-01-31T00:00:00-05:00" # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: "2019-03-26T00:00:00-05:00" # close registration. Leave blank if registration is not open yet.
+registration_date_end: "2020-01-01T00:00:00-05:00" # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 # Uncomment this when registration opens
@@ -40,7 +38,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  #- name: propose
   - name: location
   - name: registration
-  - name: schedule
+    url: "https://devopsdaysbaltimore2019.busyconf.com/bookings/new"
+  - name: program
+    url: "https://devopsdaysbaltimore2019.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -83,16 +83,6 @@ team_members: # Name is the only required field for team members.
     github: "KRS-One"
     website: "https://www.underarmour.com"
     linkedin: "https://www.linkedin.com/in/chung-kevin/"
-
-  - name: "Mike DelNegro"
-    employer: ""
-    twitter: "radiocats"
-    bio: ""
-    github: ""
-    facebook: ""
-    website: ""
-    linkedin: "www.linkedin.com/in/mdelnegro"
-
   - name: "Ryan Frantz"
     employer: "Bloomberg"
     github: "ryanfrantz"
@@ -175,15 +165,13 @@ sponsors:
     level: platinum
   - id: dynatrace
     level: platinum
-  - id: redhat-before-20190528
+  - id: redhat
     level: platinum
   - id: contrast_security
     level: platinum
   - id: cloudbolt
     level: platinum
   - id: googlecloud
-    level: platinum
-  - id: jfrog
     level: platinum
   - id: onyx-point
     level: gold
@@ -199,7 +187,7 @@ sponsors:
     level: silver
   - id: aws
     level: silver
-  - id:  techwell-before-20190612
+  - id:  techwell
     level: media
   - id:  stemnastics
     level: community
@@ -208,10 +196,4 @@ sponsors:
   - id:  bwit
     level: community
   - id:  spark
-    level: community
-  - id:  hack-baltimore
-    level: community
-  - id:  dcast
-    level: community
-  - id:  womenwhocodedc
     level: community

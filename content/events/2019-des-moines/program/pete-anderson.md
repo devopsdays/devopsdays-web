@@ -2,10 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "How to Avoid Building the Wrong Thing 2-Weeks at a Time (ballroom)"
+Title = "How to Avoid Building the Wrong Thing 2-Weeks at a Time"
 Type = "talk"
-Youtube = "SCXchhV-AGg"
-Slides = "https://www.slideshare.net/slideshow/embed_code/key/ac907Qx7u6i35a"
 Speakers = ["pete-anderson"]
 +++
 

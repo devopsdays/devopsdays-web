@@ -1,7 +1,7 @@
 +++
-Talk_date = "2019-06-03"
-Talk_start_time = "11:10"
-Talk_end_time = "11:40"
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
 Title = "Product Teams Need A Family Too - Fundamental Team Topologies for Flow"
 Type = "talk"
 Speakers = ["manuel-pais"]

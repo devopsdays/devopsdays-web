@@ -14,8 +14,6 @@ All attendees are welcome to propose any subject they want during the open space
 
 Please email the organizers at {{< email_organizers >}} with any questions you may have about sponsoring the event. Additionally, if you are interested in sponsoring and have a new idea of how you can contribute to the conference, email the organizers and we’re happy to consider your request!
 
-Have questions about sponsoring or about your organization's sponsorship? Checkout out our [sponsor FAQ](https://docs.google.com/document/d/1TpSm6KL9IPQah7EW2hs_QsibTgIFshpB9JxQMMbyVi0/edit?usp=sharing).
-
 The following chart outlines our sponsorship packages at a high level, which are further detailed below.
 
 
@@ -35,6 +33,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td><strong>Silver</strong></td>
       <td><strong>Gold</strong></td>
       <td><strong>Platinum</strong></td>
+      <td><strong>Video Streaming</strong></td>
       <td><strong>Happy Hour</strong></td>
     </tr>
     <tr class="hed2">
@@ -45,9 +44,11 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td><strong>$3,000</strong></td>
       <td><strong>$5,000</strong></td>
       <td><strong>TBD</strong></td>
+      <td><strong>TBD</strong></td>
     </tr>
     <tr>
       <td>Logo on shared slide, rotating during breaks</td>
+      <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
@@ -63,12 +64,14 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>Logo on all email communication</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
+      <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
@@ -81,12 +84,14 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
+      <td class="no"> </td>
     </tr>
       <td>Full table for swag/marketing during conference</td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
+      <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
     </tr>
@@ -98,11 +103,13 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
+      <td class="yes">✅</td>
     </tr>
     <tr>
       <td>1 included ticket total</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
+      <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
@@ -116,6 +123,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
+      <td class="no"> </td>
     </tr>
     <tr>
       <td>3 included tickets total</td>
@@ -125,6 +133,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="yes">✅</td>
       <td class="no"> </td>
       <td class="no"> </td>
+      <td class="no"> </td>
     </tr>
     <tr>
       <td>5 included tickets total</td>
@@ -132,6 +141,7 @@ The following chart outlines our sponsorship packages at a high level, which are
       <td class="no"> </td>
       <td class="no"> </td>
       <td class="no"> </td>
+      <td class="yes">✅</td>
       <td class="yes">✅</td>
       <td class="yes">✅</td>
     </tr>
@@ -165,7 +175,7 @@ The following chart outlines our sponsorship packages at a high level, which are
 
 [Become a Platinum Sponsor](https://devopsdaysbaltimore2019.busyconf.com/bookings/new?discount=SPONSOR).
 
-### Happy Hour - Contact {{< email_organizers >}} for details
+### Happy Hour - Price TBD
 
 Conference attendees will be invited to stick around for happy hour on the first day of the conference. Additionally, we will invite other members of the Baltimore technical community to join us, space permitting. The Happy Hour sponsorship includes some special perks not listed in the table above.
 
@@ -177,6 +187,11 @@ Conference attendees will be invited to stick around for happy hour on the first
 * Dedicated table for swag during the happy hour
 * 1 minute pitch to full audience, including streaming audience, during the conference
 * 5 minute pitch to the happy hour attendees
+
+
+### Video Streaming - Price TBD
+
+The Video Streaming Sponsorship is currently being explored with video conferencing vendors to determine a fair price and what perks may be able to be offered (such as company logo being displayed continuously through the video stream/on the videos posted after the event). Please contact {{< email_organizers >}} and let us know if you may be interested in this sponsorship if it becomes available.
 
 ### Media - $0
 

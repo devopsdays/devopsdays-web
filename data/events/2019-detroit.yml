@@ -52,6 +52,8 @@ team_members: # Name is the only required field for team members.
     employer: ITHAKA
     twitter: archiecowan
   - name: "Allison Green"
+  - name: "Shelby Hebel"
+    employer: Quicken Loans
   - name: "Blair Hicks"
     employer: Cisco
     twitter: tuxdbird
@@ -76,12 +78,6 @@ proposal_email: "proposals-detroit-2019@devopsdays.org" # Put your proposal emai
 sponsors:
   - id: russellvideo
     level: AV
-  - id: chef
-    level: gold
-  - id: dynatrace
-    level: gold
-  - id: devopsish
-    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

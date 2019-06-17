@@ -2,9 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Taking A Software-First Approach To The Cloud (breakout 1)"
+Title = "Taking A Software-First Approach To The Cloud"
 Type = "talk"
-Youtube = "CTb73Ukizxw"
 Speakers = ["james-young"]
 +++
 

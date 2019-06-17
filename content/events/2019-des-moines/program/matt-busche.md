@@ -2,9 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Web Performance: Where do I start? (ballroom)"
+Title = "Web Performance: Where do I start?"
 Type = "talk"
-Youtube = "Xg6FAU7s61g"
 Speakers = ["matt-busche"]
 +++
 
