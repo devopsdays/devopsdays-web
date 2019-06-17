@@ -5,25 +5,14 @@ aliases = ["/events/2019-tampa/"]
 Description = "DevOpsDays Tampa Bay 2019"
 +++
 
-Save the date!
+Latest news for DevOpsDays Tampa Bay - A few seats left, register now!
 ===
-
-DevOpsDays will be coming to Tampa Bay June 7th of 2019 for our first year. We are accepting talk proposals, sponsorships, and registration will be soon open.
 
 <div style="text-align:center;">
   {{< event_logo >}}
 </div> 
 
 
-<div class = "row" >
-  <div class = "col-md-2">
-    <strong></strong>
-    
-  </div>
-  <div class = "col-md-8">
-    {{< cfp_dates >}}
-  </div>
-</div>
 
 <br>
 <br>
@@ -36,64 +25,46 @@ DevOpsDays will be coming to Tampa Bay June 7th of 2019 for our first year. We a
     {{< event_start >}}
   </div>
 </div>
-
-
-
-
-<!-- <div class = "row">
+ <div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
-
-<!-- <div class = "row">
+</div> 
+<div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="propose" text="Propose a talk!" >}}
-  </div>
 </div>
-
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div> -->
-
-<!-- <div class = "row">
+</div>
+<div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
   </div>
   <div class = "col-md-8">
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
-</div> -->
-
-<!-- <div class = "row">
+</div>
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    Sponsor information available in the early February 2019
+    {{< event_link page="sponsors" text="Sponsors for DevOpsDays Tampa Bay" >}}
   </div>
-</div> -->
-
+</div>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>

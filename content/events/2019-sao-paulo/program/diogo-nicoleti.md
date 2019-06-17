@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["diogo-nicoleti"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/danielcolchete/resposta-de-incidentes-na-equipe-google-sre"
 +++
 
 Vamos conversar sobre a cultura de postmortem e como ela pode nos ajudar a aprender com nossas falhas. Iremos discutir boas práticas e desafios para escrever um postmortem de alta qualidade e como esta cultura vem ajudando a ContaAzul a melhorar seus processos e a qualidade dos serviços.

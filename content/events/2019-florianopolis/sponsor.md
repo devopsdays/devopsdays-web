@@ -11,6 +11,7 @@ Description = "Sponsor devopsdays Florianópolis 2019"
     <p>Patrocinadores são encorajados a se representarem pela participação ativa e se engajarem com os participantes como pares.</p>
     <p>Patrocinadores Platinum recebem uma mesa onde podem interagir com aqueles interessados em visitar durante os intervalos.</p>
     <p>Provavelmente a melhor coisa a se fazer é enviar seus especialistas técnicos para interagir com os participantes do evento.</p>
+    <p>Plano de patrocínio: Para obter nosso material gráfico contendo todas as informações sobre o evento, <a href="https://drive.google.com/file/d/18QuV0ky-MqeipfGU7q2HzomPs-oSc31h">clique aqui</a> para realizar o download.</p>
     <hr />
      <h2>Benefícios</h2>
     <style type="text/css">

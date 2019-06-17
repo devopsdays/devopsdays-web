@@ -13,7 +13,6 @@ If you'd like to contact us by email: {{< email_organizers >}}
 <i>Historic</i>
 
 <ul>
-<li>Bill Schwanitz</li>
 <li>Dan Greenleaf</li>
 <li>Dan Sajner</li>
 <li>Faye Thompson</li>

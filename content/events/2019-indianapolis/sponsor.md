@@ -30,11 +30,18 @@ beginning of each day. We will name the rooms, as they last, after
 Gold sponsors and place signage with your logo outside the room. Gold
 sponsors will get their logos displayed on our recorded talks.
 <p>
-Platinum sponsor will get naming rights to the main hall, 30 minutes to
+Platinum sponsors will get naming rights to the main hall, 30 minutes to
 demo their product during one of the open spaces and access to use a
 break out room which could be used for things like recording
 testimonials, focus groups, UI/UX research to see how your products are
 used, group demo's and the like.
+<p>
+Naming rights are handled in the order the sponsorships are received.
+The first Platinum sponsor will receive naming rights to the main
+functional space and then subsequent Platinum sponsors will get naming
+rights to the break out rooms. Gold sponsors will then get naming rights
+to the break out rooms as they are available in the order the
+sponsorships are received.
 <p>
 
 <table border="1">
@@ -124,7 +131,7 @@ used, group demo's and the like.
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-    <td>Naming rights to a breakout room (three available)</td>
+    <td>Naming rights to a breakout room (while availability lasts)</td>
       <td style="padding: 5px" bgcolor="peru"></td>
       <td style="padding: 5px" bgcolor="silver"></td>
       <td style="padding: 5px" bgcolor="gold" align="center"><img width="25" src="/img/checkmark.png"></td>

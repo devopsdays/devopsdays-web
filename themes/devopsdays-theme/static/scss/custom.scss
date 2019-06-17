@@ -6,10 +6,8 @@ html {
 
 body {
   font-size: 1em;
-  // font-family: 'Roboto', sans-serif;
   font-weight: 300;
   color: #000000;
-  // padding-top: 105px;
 }
 
 .fixed-top-2 {
@@ -87,10 +85,8 @@ b, strong {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   font-size: 9pt;
-  // color: #000000;
   color: green;
   text-transform: uppercase;
-
 }
 
 .event-navigation-icon {
@@ -184,34 +180,19 @@ a.footer-content {
   background-color: #f7f7f7;
   padding-top: 20px;
   border-top: 2px solid #0082AB;
-  // background-color: desaturate( #0082AB, 80% );
   padding-left:40px;
   padding-right:40px;
 }
 
- .footer-nav-col {
-   padding-bottom: 30px;
- }
- //
- // .footer-nav-col:first-child {
- //  //  margin-left: 50 !important;
- //   border-top-width:thick;
- //   border-top-color:red;
- // }
- //
- // .footer-nav-col:last-child {
- //   margin-right: 0 !important;
- // }
+.footer-nav-col {
+  padding-bottom: 30px;
+}
 
 .footer-nav-row {
   margin-top:20px;
 }
 
 /* Sponsors */
-
-.sponsor-image {
-
-}
 
 .sponsor-row {
   display: flex;
@@ -234,7 +215,6 @@ a.footer-content {
 
 a.sponsor-cta {
   color: #0082AB;
-  // color: #fff;
 }
 
 /* Homepage */
@@ -266,7 +246,6 @@ a.sponsor-cta {
   width: 100%;
   margin: auto;
   text-align: center;
-
 }
 
 .homepage-grid-city a {
@@ -474,7 +453,6 @@ color: #000000;
 h2.talk-page {
   font-size: 2em;
   font-weight: 700;
-  // text-transform: capitalize;
 }
 h3.talk-page {
   font-size: 1.5em;
@@ -484,8 +462,6 @@ h3.talk-page {
 
 h1.welcome-page {
   color: #FFF;
-  // text-shadow: 1px 1px 2px #000000;
-  // text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .welcome-page-date {
@@ -516,7 +492,6 @@ a:hover.welcome-page-masthead-link {
 
 .welecome-page-masthead-venue {
   font-size: 1.2em;
-
 }
 
 .welcome-page-cta {
@@ -532,18 +507,15 @@ a:hover.welcome-page-masthead-link {
 }
 
 @media only screen and (min-width: 768px) {
-
   .welcome-page-cta:first-child {
     margin-left: 0px;
     margin-right: 5px;
   }
-
 }
 
 .welcome-page-event-logo {
   max-width: 50%;
 }
-
 
 .organizer-card {
   padding-bottom: 20px;
@@ -555,12 +527,9 @@ a:hover.welcome-page-masthead-link {
 }
 
 @media only screen and (min-width: 1024px) {
-
   .event-page-nav-home {
     padding-left: 1.25rem;
-
   }
-
 }
 
 .events-page-col {
@@ -586,9 +555,6 @@ a:hover.welcome-page-masthead-link {
   margin-left: 0px;
 }
 
-// .event-cta-button:last-child {
-//   margin-left: 5px;
-// }
 .event-cta-button {
   margin-left: 5px;
 }
@@ -596,9 +562,6 @@ a:hover.welcome-page-masthead-link {
 
 // Program page items
 
-.program-page {
-
-}
 h3.program-page {
   margin-top:8px;
 }
@@ -610,17 +573,14 @@ h3.program-page {
 .program-element {
   overflow: hidden;
   height: 1%
-
 }
 
 @media only screen and (min-width: 768px) {
-
   .program-element {
     border-radius: 5px;
     margin-right: 5px;
     overflow: hidden;
     height: 1%
-
   }
 }
 

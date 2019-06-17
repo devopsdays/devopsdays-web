@@ -5,12 +5,13 @@ description: # A short blurb of text to describe your event, defaults to common 
 event_twitter: "DevOpsDaysLDN"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-09-06
-enddate:  2017-09-07
+startdate: 2017-09-06T00:00:00+00:00
+enddate: 2017-09-07T23:59:59+00:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-04-20 # start accepting talk proposals.
-cfp_date_end: 2017-05-31 # close your call for proposals.
-cfp_date_announce: 2017-06-14 # inform proposers of status
+cfp_date_start: 2017-04-20T00:00:00+01:00 # start accepting talk proposals.
+cfp_date_end: 2017-05-31T23:59:59+01:00 # close your call for proposals.
+cfp_date_announce: 2017-06-14T23:59:59+01:00 # inform proposers of status
 
 # Location
 #

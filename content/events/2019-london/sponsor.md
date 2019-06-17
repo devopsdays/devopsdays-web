@@ -14,9 +14,6 @@ Description = "Sponsor DevOpsDays London 2019"
 
       </div>
       <h3>Sponsorship Packages</h3>
-      <div class="alert alert-info">
-        We are offering the following packages and any payments paid by <strong>March 16th 2019</strong> will get 5% discount (<strong>all prices are excluding VAT @20%</strong>):
-      </div>
       <div class="table-responsive">
       <table class="table table-bordered table-hover table-responsive-md">
         <thead class="thead-light">

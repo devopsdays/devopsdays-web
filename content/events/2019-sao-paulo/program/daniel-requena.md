@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["daniel-requena"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/drequena/canary-release-com-kubernetes-e-istio"
 +++
 
 O Kubernetes suporta algumas técnicas de Deploy nativas,mas nenhuma delas dá o poder e abre tantas possibilidades como o Istio faz.Nessa talk falarei como fazer Canary Release utilizando Istio, entenderemos sua arquitetura e entraremos em tópicos como gerenciamento de tráfego, fault injection e mais.

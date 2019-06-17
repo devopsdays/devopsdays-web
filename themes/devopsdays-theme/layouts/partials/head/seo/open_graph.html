@@ -10,17 +10,17 @@
   {{- $e := (index $.Site.Data.events (index (split (.Permalink | relURL) "/") 2)) -}}
   {{- $.Scratch.Set "contentdir" (printf "static/events/%s/" $e.name) -}}
   {{- if (where (readDir "static/events") "Name" $e.name) -}}
-    {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "sharing.jpg") -}}
-      {{- $.Scratch.Set "sharing_url" ((printf "events/%s/sharing.jpg" $e.name ) ) -}}
+    {{- if (where (readDir ($.Scratch.Get "contentdir")) "Name" "https://www.devopsdays.org/sharing.jpg") -}}
+      {{- $.Scratch.Set "sharing_url" ((printf "https://www.devopsdays.org/events/%s/sharing.jpg" $e.name ) ) -}}
     {{- else -}}
-      {{- $.Scratch.Set "sharing_url" ("/img/sharing.jpg" ) -}}
+      {{- $.Scratch.Set "sharing_url" ("https://www.devopsdays.org/img/sharing.jpg" ) -}}
     {{- end -}}
   {{- end -}}
 {{- else -}}
   {{- with .Params.sharing_image -}}
     {{- $.Scratch.Set "sharing_url" ( . ) -}}
   {{- else -}}
-    {{- $.Scratch.Set "sharing_url" ("/img/sharing.jpg" ) -}}
+    {{- $.Scratch.Set "sharing_url" ("https://www.devopsdays.org/img/sharing.jpg" ) -}}
   {{- end -}}
 {{- end -}}
 <meta property="og:image" content="{{ $.Scratch.Get "sharing_url" }}" />

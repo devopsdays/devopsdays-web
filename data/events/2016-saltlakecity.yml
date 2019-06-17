@@ -3,8 +3,8 @@ year: 2016 # The year of the event. Make sure it is in quotes.
 city: "Salt Lake City" # The city name of the event. Capitalize it.
 friendly: "2016-saltlakecity" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "past" # Options are "past" or "current".
-startdate: 2016-06-14 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2016-06-15 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
+startdate: 2016-06-14T00:00:00-06:00
+enddate: 2016-06-15T23:59:59-06:00
 cfp_date_start: 2016-02-01
 cfp_date_end: 2016-04-19
 cfp_date_announce: 2016-05-03

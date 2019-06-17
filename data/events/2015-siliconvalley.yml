@@ -6,8 +6,8 @@ status: "past" # Options are "past" or "current". Use "current" for upcoming.
 event_group: "Silicon Valley"
 
 # All dates are in unquoted 2015-MM-DD, like this:   variable: 2016-01-05
-startdate: 2015-11-06
-enddate: 2015-11-07
+startdate: 2015-11-06T00:00:00-08:00
+enddate: 2015-11-07T23:59:59-08:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
 cfp_date_end:  # close your call for proposals.

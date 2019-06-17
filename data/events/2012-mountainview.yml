@@ -6,12 +6,12 @@ status: "past" # Options are "past" or "current". Use "current" for upcoming.
 event_group: "Silicon Valley"
 
 # All dates are in unquoted 2012-MM-DD, like this:   variable: 2016-01-05
-startdate: 2012-06-28  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2012-06-29  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2012-06-28T00:00:00-08:00  # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2012-06-29T23:59:59-08:00  # The end date of your event. Leave blank if you don't have a venue reserved yet.
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2016-01-01 # start accepting talk proposals.
-cfp_date_end: 2016-01-01 # close your call for proposals.
-cfp_date_announce: 2016-01-01 # inform proposers of status
+cfp_date_start: 2016-01-01T00:00:00-08:00 # start accepting talk proposals.
+cfp_date_end: 2016-01-01T00:00:00-08:00 # close your call for proposals.
+cfp_date_announce: 2016-01-01T00:00:00-08:00 # inform proposers of status
 
 # Location
 #

@@ -169,7 +169,7 @@ There are also opportunities for exclusive special sponsorships. We'll have spon
 </div>
 
 <hr/>
-<h2>Sponsor FAQ</h2>
+<a name="FAQ"><h2>Sponsor FAQ</h2><a/>
 <dl>
     <dt>What exactly will the sponsors have available to them in the sponsors’ room?</dt>
     <dd>We will provide a table 6’x30” with a black tablecloth and a couple of chairs. You are welcome to bring your own tablecloth, posters, table signs, rollup banners, etc. to decorate your space. If you plan to hang a banner on the wall, make sure you bring 3mm command strips as that is the only approved way to attach things to the wall. Silver sponsors please remember that you will be sharing a table with another sponsor.</dd>

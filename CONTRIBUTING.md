@@ -119,6 +119,45 @@ The following tests run when a PR is submitted:
 1. [Appveyor](https://ci.appveyor.com/project/DevOpsDays/devopsdays-web) - this test builds Hugo on Windows, to ensure that no Windows-incompatible files have been included. If Appveyor tests fail, merge at your own discretion, based upon the failure reason.
 1. [Netlify](https://app.netlify.com/sites/devopsdays-web) - this test builds the site, and hosts an ephemeral preview version of it (viewable by clicking on the "details" link next to the test once it has turned green). It's a good idea to view this "deploy preview" if the PR has changed anything significant (adding a sponsor, etc, probably not...but changing content in a large way? Yes.)
 
+## Local Previews
+
+### Sharing local changes with Netlify Dev
+
+If you wish to show someone else your local changes without creating a pull request or committing you could utilize netlify dev.
+
+Firstly make sure `netlify dev` is installed
+
+```
+npm install netlify-cli -g
+```
+
+If you're not authenticated with netlify, do so with the following command. Note that you may need an account.
+
+```
+netlify login
+```
+
+Now use `netlify dev` to share your local changes
+
+```
+netlify dev --live
+```
+
+You'll then be given a URL to share:
+
+```console
+Waiting for localhost:1313.
+Connected!
+◈ Installing Live Tunnel Client
+◈ Creating Live Tunnel for 33459a04-9379-473d-8517-a25a208ef36a
+
+   ┌──────────────────────────────────────────────────────────────────────┐
+   │                                                                      │
+   │   ◈ Server now ready on https://devopsdays-web-936f59.netlify.live   │
+   │                                                                      │
+   └──────────────────────────────────────────────────────────────────────┘
+```
+
 ## Credits
 
 Thanks to Jess Frazelle [@jfrazelle](https://github.com/jfrazelle) for clueing us into the awesome previews with [Netlify](https://www.netlify.com)!

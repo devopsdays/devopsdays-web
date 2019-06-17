@@ -1,6 +1,6 @@
 +++
 Title = "Jane Miceli"
-Twitter = "janemicelli"
+Twitter = "janemiceli"
 image = "Jane_Miceli.jpg"
 type = "speaker"
 linktitle = "jane-miceli"

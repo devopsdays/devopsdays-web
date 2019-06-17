@@ -10,19 +10,19 @@ ga_tracking_id: "UA-131045075-1"
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
-startdate: 2019-07-08T13:00:00
-enddate:  2019-07-09T22:00:00
+startdate: 2019-07-08T00:00:00-04:00
+enddate:  2019-07-09T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2019-04-01
-cfp_date_end:  2019-05-01
-cfp_date_announce:  2019-05-15
+cfp_date_start:  2019-04-01T00:00:00-04:00
+cfp_date_end:  2019-05-04T23:59:59-04:00
+cfp_date_announce:  2019-05-15T23:59:59-04:00
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://devopsdaysdc2019.busyconf.com/proposals/new"
 
-registration_date_start: 2019-04-01T13:00:00
-registration_date_end: 2019-07-09T16:00:00
+registration_date_start: 2019-04-01T00:00:00-04:00
+registration_date_end: 2019-07-09T23:59:59-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://devopsdaysdc2019.busyconf.com/bookings/new"
@@ -34,10 +34,10 @@ location: "Ronald Reagan Building and International Trade Center, Washington, D.
 location_address: "1300 Pennsylvania Ave NW, Washington, D.C. 20004"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
+    url: https://devopsdaysdc2019.busyconf.com/schedule
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -190,12 +190,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Chuck Mountz"
     employer: "Comcast"
-    twitter: ""
-    bio: ""
+    twitter: "mountzcjr"
+    bio: "Chuck is a Product Engineering Sr Manager at Comcast. He leads a platform services team focused on delivering services and tools to help accelerate delivery for the greater Network Services Engineering organization.  Chuck is passionate about organizational culture, developing talent, fostering partnerships, and building enterprise-wide communities.  He co-founded, along with Holly Bazemore (co-lead of DevOpsDaysDC), the internal DevOpsDays events at Comcast.  Chuck is proud that these events have brought together over 900 employees in one of the largest tech communities at Comcast and that over 40 employees have had the opportunity to refine their presentation skills."
     image: ""
     github: ""
     facebook: ""
-    linkedin: ""
+    linkedin: "https://www.linkedin.com/in/chuckmountzjr/"
     website: ""
 
   - name: "Ramez Mourad"
@@ -248,7 +248,7 @@ team_members: # Name is the only required field for team members.
   - name: "Robert Treat"
     employer: "credativ"
     twitter: "robtreat2"
-    bio: ""
+    bio: "Having spent his early years building data-intensive, real-time systems within the Fortune 500, Robert now runs U.S. operations for credativ, a technical services firm providing open source based web application development and infrastructure management. Author and speaker at conferences worldwide, Robert is a recognized industry expert on topics including databases, DevOps, and Open Source. He occasionally blogs at https://xzilla.net."
     image: "robert-treat.jpg"
     github: "xzilla"
     facebook: ""
@@ -278,13 +278,10 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: arresteddevops
-    level: community
+# Sponsoring!
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsor_link: "https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR"
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -306,6 +303,8 @@ sponsor_levels:
   - id: media
     label: Media
 
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: pyramid-systems
     level: platinum
@@ -314,5 +313,49 @@ sponsors:
   - id: redhatgov
     level: platinum
     url: "https://go.redhat.com/public-sector?sc_cid=701f2000001OIyfAAG"
+  - id: dlt
+    level: platinum
+  - id: chef
+    level: platinum
+    url: "https://chef.io/?utm_source=doddc"
+  - id: stsi
+    level: platinum
+  - id: validatek
+    level: platinum
+  - id: onyx-point
+    level: platinum
+  - id: cloudbees
+    level: platinum
+  - id: palantir
+    level: platinum
+  - id: googlecloud
+    level: platinum
+  - id: signalfx
+    level: platinum
+  - id: split-software
+    level: platinum
+  - id: capitalone
+    level: platinum
   - id: circleci
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: sts
+    level: gold
+  - id: gitlab
+    level: gold
+    url: "https://about.gitlab.com/"
+  - id: devopsdc-meetup
+    level: community
+  - id: black-code-collective
+    level: community
+  - id: womenwhocodedc
+    level: community
+  - id: techwell
+    level: community
+  - id: arresteddevops
+    level: media
+  - id: foodfight
+    level: media
+  - id: cybersecurity-magazine
+    level: media

@@ -133,7 +133,7 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
     <tr>
       <td>Booth space in sponsor area (with chair)</td>
       <td><img src = "/events/2019-chicago/yak-head.png"></td>
-      <td><img src = "/events/2019-chicago/yak-head.png"></td>
+      <td><img src = "/events/2019-chicago/half_yak.png"></td>
       <td></td>
       <td></td>
     </tr>
@@ -249,9 +249,9 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
     </tr>
     <tr>
       <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
-      <td>Meals & Snack</td>
+      <td>Lunch</td>
       <td>$6,000</td>
-      <td>Your logo on buffet lines and a dedicated space in lunch area</td>
+      <td>Sponsor 1 day and get 1min talk before lunch</td>
       <td>6</td>
       <td>2</td>
     </tr>

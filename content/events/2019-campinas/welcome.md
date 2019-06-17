@@ -8,7 +8,7 @@ Description = "DevOpsDays Campinas 2019"
 <div class = "row">
   <div class="col-md-6">
     <div style="text-align:center;">
-      <img alt="devopsdays Campinas 2019" src="/events/2019-campinas/logo-horizontal.png" class="welcome-page-event-logo">
+      <img alt="devopsdays Campinas 2019" src="/events/2019-campinas/dod-cps.jpg" class="welcome-page-event-logo">
     </div>
   </div>
   <div class="col-md-6">
@@ -68,4 +68,6 @@ Participe da primeira edição do DevOpsDays Campinas!
 
 O DevOpsDays terá sua primeira edição em Campinas no dia 25 de Outubro de 2019!
 
-Em breve abriremos o CFP e as inscrições.
+Call for papers aberto: https://www.papercall.io/devopsdays-campinas-2019 ! 
+
+Inscrições abertas: https://www.sympla.com.br/devopsdays-campinas__530045 !

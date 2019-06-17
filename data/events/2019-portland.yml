@@ -2,7 +2,7 @@ name: "2019-portland" # The name of the event. Four digit year with the city nam
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Portland" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdayspdx" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "DevOpsDays is coming to Portland!" # Edit this to suit your preferences
+description: "DevOpsDays is back in Portland!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -11,21 +11,21 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2019-09-10T00:00:00-07:00
-enddate: 2019-09-12T23:59:59-07:00
+enddate: 2019-09-11T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-03-07T00:00:00-07:00 # start accepting talk proposals.
 cfp_date_end: 2019-04-16T00:00:00-07:00 # close your call for proposals.
 cfp_date_announce: # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: https://sessionize.com/devopsdays-portland-2019/
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-05-02T00:00:00-07:00
+registration_date_end: 2019-09-11T23:59:59-07:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_link: "https://devopsdayspdx2019.busyconf.com/bookings/new"
 
 # Location
 #
@@ -35,10 +35,10 @@ location: "Oregon Convention Center" # Defaults to city, but you can make it the
 location_address: "777 NE Martin Luther King Jr Blvd, Portland, OR 97232" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-#  - name: propose
+# - name: propose
  # - name: location
- # - name: registration
- #   url: https://devopsdayspdx2018.busyconf.com/bookings/new
+  - name: registration
+    url: "https://devopsdayspdx2019.busyconf.com/bookings/new"
   - name: program
   - name: speakers
   - name: sponsor
@@ -66,7 +66,6 @@ team_members: # Name is the only required field for team members.
   - name: "Megan Guiney"
     twitter: "meganguiney"
   - name: "Tiffany Longworth"
-    employer: "Puppet"
   - name: "Will Ellett"
     employer: "Cozy"
   - name: Jason Yee
@@ -100,12 +99,26 @@ sponsors:
     level: gold
   - id: appdynamics
     level: gold
-  - id: cloudbolt
-    level: gold
   - id: influxdata
+    level: gold
+  - id: cloudbolt_pdx_2019
+    level: gold
+  - id: victorops
+    level: gold
+  - id: influx-data
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: rancher
     level: gold
   - id: signalfx
     level: silver
+  - id: googlecloud
+    level: quiet-room
+  - id: xmatters
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,23 +139,222 @@ sponsor_levels:
     label: Evening Event
   - id: specialty
     label: Specialty
+  - id: quiet-room
+    label: Quiet Room
   - id: community
     label: Community
 
 program:
-#  - title: "Hack day! Bring yourself, some code, and a friend! Light snacks will be provided."
-#    type: custom
-#    date: 2018-09-11
-#    start_time: "Noon"
-#    end_time: "17:00"
-#  - title: "Registration, Breakfast, Sponsors"
-#    type: custom
-#    date: 2018-09-12
-#    start_time: "08:00"
-#    end_time: "09:00"
+  - title: "Hack day! Bring yourself, some code, and a friend!"
+    type: custom
+    date: 2019-09-10
+    start_time: "Noon"
+    end_time: "17:00"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-11
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-11
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "gene-kim"
+    type: talk
+    date: 2019-09-11
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-11
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "kenzie-woodbridge"
+    type: talk
+    date: 2019-09-11
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-09-11
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "thai-wood"
+    type: talk
+    date: 2019-09-11
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-11
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "andy-fleener"
+    type: talk
+    date: 2019-09-11
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-09-11
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-11
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-09-11
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-09-11
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-09-11
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-09-11
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2019-09-11
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-09-11
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Close Day"
+    type: custom
+    date: 2019-09-11
+    start_time: "16:50"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-09-11
+    start_time: "18:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-12
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-12
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "courtney-eckhardt"
+    type: talk
+    date: 2019-09-12
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-12
+    start_time: "09:45"
+    end_time: "09:55"
+  - title: "dave-stanke"
+    type: talk
+    date: 2019-09-12
+    start_time: "09:55"
+    end_time: "10:25"
+  - title: "Break"
+    type: custom
+    date: 2019-09-12
+    start_time: "10:25"
+    end_time: "10:40"
+  - title: "paige-bernier"
+    type: talk
+    date: 2019-09-12
+    start_time: "10:40"
+    end_time: "11:10"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-09-12
+    start_time: "11:10"
+    end_time: "11:20"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2019-09-12
+    start_time: "11:20"
+    end_time: "11:50"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-09-12
+    start_time: "11:50"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-12
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-09-12
+    start_time: "13:30"
+    end_time: "14:10"
+  - title: "Open Space #1"
+    type: custom
+    date: 2019-09-12
+    start_time: "14:20"
+    end_time: "14:50"
+  - title: "Open Space #2"
+    type: custom
+    date: 2019-09-12
+    start_time: "14:55"
+    end_time: "15:25"
+  - title: "Open Space #3"
+    type: custom
+    date: 2019-09-12
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Break"
+    type: custom
+    date: 2019-09-12
+    start_time: "16:00"
+    end_time: "16:20"
+  - title: "deepak-giridharagopal"
+    type: talk
+    date: 2019-09-12
+    start_time: "16:20"
+    end_time: "16:50"
+  - title: "Closing"
+    type: custom
+    date: 2019-09-12
+    start_time: "16:50"
+    end_time: "17:00"
 
 ignites:
-#  - title: "ryan-whitehurst"
-#    date: 2018-09-12
-#  - title: "maarika-krumhansl"
-#    date: 2018-09-12
+  - title: "allie-richards"
+    date: 2019-09-11
+  - title: "matty-stratton"
+    date: 2019-09-11
+  - title: "ashina-sipiora"
+    date: 2019-09-11
+  - title: "aaron-aldrich-ignite"
+    date: 2019-09-11
+  - title: "nell-shamrellharrington"
+    date: 2019-09-11
+
+  - title: "dawn-parzych"
+    date: 2019-09-12
+  - title: "josh-berkus"
+    date: 2019-09-12
+  - title: "matt-busche"
+    date: 2019-09-12
+  - title: "jay-gordon"
+    date: 2019-09-12
+  - title: "laura-janusek"
+    date: 2019-09-12

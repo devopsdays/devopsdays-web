@@ -19,6 +19,8 @@ DevOpsDays on their own terms.
 Please email the organizers at {{< email_organizers >}} with any questions
 you may have about sponsoring the event.
 
+Have questions about sponsoring or about your organization's sponsorship? Check out our [sponsor FAQ](https://docs.google.com/document/d/1dbeMc-crgauwC5F1JnwKLSpDqx4oubsnpuGvNIA7eEc/edit?usp=sharing).
+
 The following chart outlines our sponsorship packages.
 
 <style>
@@ -88,7 +90,7 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
+    <td class="no"></td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
     <td class="no"> </td>
@@ -110,6 +112,15 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
   </tr>
   <tr>
+    <td>5 minute pitch during happy hour</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="yes">&#9989;</td>
+  </tr>
   <tr>
     <td>1 included ticket total</td>
     <td class="yes">&#9989;</td>
@@ -239,10 +250,12 @@ community sponsor.
 
 ### Happy Hour - - Price $8,000 USD
 
-Happy Hour will be held one evening of the event.  All conference attendees will
-be invited to the happy hour.  Additionally, we may invite other members of the
-DC technical community to join us, space permitting.  The Happy Hour
-sponsorship includes some special perks not listed in the table above.
+Happy Hour will be held the evening of Monday, July 8 immediately following the
+day's conference activities. All conference attendees will be invited to the
+happy hour.  Additionally, we may invite other members of the DC technical
+community to join us, space permitting.  There are two Happy Hour sponsorships
+available, each of which includes some special perks not listed in the table
+above.
 
 * 4 included tickets
 * Logo on shared slide, rotating during breaks
@@ -252,7 +265,7 @@ sponsorship includes some special perks not listed in the table above.
 * Dedicated table for swag during the happy hour
 * 10% discount code to share with your community
 * 1 minute pitch to full audience during the conference
-* 3 minute pitch to the happy hour attendees
+* 5 minute pitch to the happy hour attendees
 
 Please email the organizers at {{< email_organizers >}} about becoming a
 community sponsor.

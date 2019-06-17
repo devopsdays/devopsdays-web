@@ -7,7 +7,7 @@ Type = "talk"
 Speakers = ["edson-celio"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://pt.slideshare.net/edsoncelio2013/aplicando-prticas-devops-no-fluxo-de-desenvolvimento-de-aplicaes-embarcadas"
 +++
 
 Desenvolver para sistemas embarcados para muitos é algo problemático, dado que a maior parte do tempo (além do desenvolvimento) é usada para testar. Para tornar esse processo mais rápido e confiável é possível aplicar técnicas e ferramentas de Integração Contínua, e é disso que vamos falar um pouco.
