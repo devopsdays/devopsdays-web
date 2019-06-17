@@ -17,7 +17,7 @@ DevOpsDays DC 2019 will be held at the
 
 We have secured a special rate for DevOpsDays DC attendees at the **W Washington, D.C.**, a six minute walk from the Ronald Reagan Building.
 
-The [discounted rate of $259 pre night is available until **June 25, 2019**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1560455935877&key=GRP&app=resvlink).
+The [discounted rate of $259 per night is available until **June 25, 2019**](https://www.marriott.com/event-reservations/reservation-link.mi?id=1560455935877&key=GRP&app=resvlink).
 
 [Book your stay now](https://www.marriott.com/event-reservations/reservation-link.mi?id=1560455935877&key=GRP&app=resvlink)!
 
