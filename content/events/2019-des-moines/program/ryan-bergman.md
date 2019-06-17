@@ -2,9 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Walking into Mordor: The History and Future of DevOps (ballroom)"
+Title = "Walking into Mordor: The History and Future of DevOps"
 Type = "talk"
-Youtube = "k6_xlRUNzF0"
 Speakers = ["ryan-bergman"]
 +++
 

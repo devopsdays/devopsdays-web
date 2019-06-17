@@ -2,9 +2,8 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Failure and the Third Way (ballroom)"
+Title = "Failure and the Third Way"
 Type = "talk"
-Youtube = "zjMQslSpDBY"
 Speakers = ["aaron-blythe"]
 +++
 

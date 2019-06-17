@@ -7,7 +7,7 @@ Description = "Propose a talk for devopsdays London 2019"
 
 <hr>
 
-<center><h2>Our CFP is now closed</h2></center>
+<center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>
 
 <hr>
 
@@ -39,11 +39,19 @@ As a speaker we will provide you with:
 in addition, if you are personally funding your attendance we have some budget to cover reasonable travel and accommodation costs.
 
 <hr>
-### Help with your talk
+### Help with your submission
 
 If you are a first time speaker and/or from an under represented group in technology
-we would like to help you with your talk.
+we would like to help you with your talk submission.
 
-Several of the committee are veteran speakers and can provide help and suggestions
-to make your talk better should it be selected.
+Several of the committee are veteran speakers and are happy to help you with your ideas
+and submission to our CFP and if your talk is selected will help you make it even more awesome.
 
+This year we also have the services of a professional copy editor
+who can help make your abstract better.
+
+If you would like any help please fill in this [form](https://goo.gl/forms/wyy8NsjYNSK2CXCB2)
+
+<hr>
+
+<center><h2>[Submit your talk](https://goo.gl/forms/aTrI1S8O9iiq11eU2)</h2></center>

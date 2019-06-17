@@ -28,20 +28,20 @@ Description = "DevOpsDays Hartford 2019"
           {{< event_location >}}
         </div>
       </div>
-      <div class="row" style="margin-bottom: 1rem;">
+      <!-- <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Register</strong>
         </div>
         <div class="col-md-12">
-          {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
+          {{< event_link page="registration" text="Register to attend the conference!" >}}
         </div>
-      </div>
+      </div> -->
       <div class="row" style="margin-bottom: 1rem;">
         <div class="col-md-12">
           <strong>Propose</strong>
         </div>
         <div class="col-md-12">
-          {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
+          {{< event_link page="propose" text="Propose a talk!" >}}
         </div>
       </div>
       <!-- <div class="row" style="margin-bottom: 1rem;">

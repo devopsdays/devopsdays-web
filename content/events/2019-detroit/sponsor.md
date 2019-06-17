@@ -34,11 +34,9 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
     <td style="font-weight: bold; text-align: center">Bronze</td>
     <td style="font-weight: bold; text-align: center">Silver</td>
     <td style="font-weight: bold; text-align: center">Gold</td>
-    <td style="font-weight: bold; text-align: center">Platinum</td>
   </tr>
   <tr>
     <td>Logo on Event Website</td>
-     <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
@@ -48,12 +46,10 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
      <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
-     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Logo on All Email Communication</td>
      <td></td>
-     <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
   </tr>
@@ -62,18 +58,9 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
      <td></td>
      <td bgcolor="#D52B15"></td>
      <td bgcolor="#D52B15"></td>
-     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
-    <td>1 Minute Pitch To Full Audience</td>
-     <td></td>
-     <td></td>
-     <td bgcolor="#D52B15"></td>
-     <td></td>
-  </tr>
-  <tr>
-    <td>5 Minute Pitch To Full Audience</td>
-     <td></td>
+    <td>1 Minute Pitch To Full Audience (including streaming audience, if applicable)</td>
      <td></td>
      <td></td>
      <td bgcolor="#D52B15"></td>
@@ -83,13 +70,11 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
      <td></td>
      <td></td>
      <td bgcolor="#D52B15"></td>
-     <td bgcolor="#D52B15"></td>
   </tr>
   <tr>
     <td>Shared Table Space</td>
      <td></td>
      <td bgcolor="#D52B15"></td>
-     <td></td>
      <td></td>
   </tr>
   <tr>
@@ -97,18 +82,16 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
     <td style="font-weight: bold; text-align: center">2</td>
     <td style="font-weight: bold; text-align: center">4</td>
     <td style="font-weight: bold; text-align: center">6</td>
-    <td style="font-weight: bold; text-align: center">8</td>
   </tr>
   <tr>
     <td style="font-weight: bold">Cost</td>
     <td style="font-weight: bold; text-align: center">$1,000 USD</td>
     <td style="font-weight: bold; text-align: center">$3,000 USD</td>
     <td style="font-weight: bold; text-align: center">$6,000 USD</td>
-    <td style="font-weight: bold; text-align: center">$10,000 USD</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan=4>
+    <td colspan=3>
       <a href="/events/2019-detroit/sponsor-registration/" style="width: 100%; display: inline-block;  background-color:#D52B15;  padding: 5px; border:1px solid #241d13; color:#ffffff;font-size:15px;font-weight:bold;text-shadow:0px -1px 0px #7a2a1d; text-align: center">
        pay online
      </a>
@@ -116,6 +99,6 @@ General inquiries and sponorships:  [{{< email_organizers >}}]
   </tr>
   <tr>
     <td></td>
-    <td style="text-align: right; color: #bbb;" colspan=5>Online payments include a service charge.<a href="mailto:organizers-detroit-2019@devopsdays.org?subject=DevOpsDays%20Detroit%202019%20Sponsorship">Email us</a> for alternative payment information.</td>
+    <td style="text-align: right; color: #bbb;" colspan=4>Online payments include a service charge.<a href="mailto:organizers-detroit-2019@devopsdays.org?subject=DevOpsDays%20Detroit%202019%20Sponsorship">Email us</a> for alternative payment information.</td>
   </tr>
 </table>

@@ -1,7 +1,7 @@
 +++
 Title = "Shaun Mouton"
 Twitter = "sdmouton"
-image = "shaun-mouton.png"
+image = ""
 type = "speaker"
 linktitle = "shaun-mouton"
 

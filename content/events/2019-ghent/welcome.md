@@ -82,10 +82,12 @@ Description = "devopsdays Ghent 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
+<!--
 {{< event_twitter >}}
+-->
 
-<div class = "row justify-content-center">
-  <div class = "col-md-6 text-center">
+<div class = "row">
+  <div class = "col-md-6">
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

@@ -98,10 +98,6 @@ sponsors:
    level: community
  - id: metrosoftsa
    level: community
- - id: jetbrains
-   level: community
- - id: revdebug
-   level: community
 
 program:
   - title: "Abertura"
