@@ -50,7 +50,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Richard Fojta"
-    bio: "I've been working in Software Development for more than 15 years. I prefer medium-size companies with medium-size projects and relative fast feedback loop. I've started organizing Prague DevOps meetup 3 years ago. It has helped me to meet and get to know a lot of companies, people and technologies that are DevOps-oriented. I'm currently learning how to be a good parent, which is costing me a lot of time, but I would like to keep in touch with communities and people with free mind. My current hobbies are minimalism, lean and kata practices and because DevOps is based on Kanban and/or Lean Manufacturing I consider it a gateway to a better life."
+    bio: "I've been working in Software Development for more than 15 years. I prefer medium-size companies with medium-size projects and relative fast feedback loop. I've started organizing Prague DevOps meetup 3 years ago. It has helped me to meet and get to know a lot of companies, people and technologies that are DevOps-oriented. I'm currently learning how to be a good parent, which is costing me a lot of time, but I would like to keep in touch with communities and people with free mind."
     image: "r_fojta.jpg"
   - name: "Petr Bursa"
     bio: "I’ve been working in marketing for the past 4 years. Started during studies in 180 Degrees Consulting, NGO, then moved to corporate sphere with EPAM Systems, where I am currently taking care of Marketing and CSR for Czech Republic."
