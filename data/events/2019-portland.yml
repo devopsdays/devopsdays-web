@@ -11,7 +11,7 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2019-09-10T00:00:00-07:00
-enddate: 2019-09-11T23:59:59-07:00
+enddate: 2019-09-12T23:59:59-07:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2019-03-07T00:00:00-07:00 # start accepting talk proposals.
@@ -345,7 +345,7 @@ ignites:
     date: 2019-09-11
   - title: "aaron-aldrich-ignite"
     date: 2019-09-11
-  - title: "nell-shamrellharrington"
+  - title: "tbd"
     date: 2019-09-11
 
   - title: "dawn-parzych"
