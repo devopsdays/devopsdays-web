@@ -294,7 +294,7 @@ program:
     start_time: "12:00"
     end_time: "14:30"
     comments: "Location: Expo (1st floor)"
-  - title: "dan-maher"
+  - title: "daniel-maher"
     type: workshop
     date: 2019-06-26
     start_time: "12:00"
