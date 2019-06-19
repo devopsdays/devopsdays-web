@@ -105,8 +105,8 @@ sponsors:
     level: gold
   - id: kpn-ict
     level: gold
-#  - id: capgemini
-#    level: gold
+  - id: capgemini
+    level: gold
   - id: influxdata
     level: gold
   - id: pivotal
