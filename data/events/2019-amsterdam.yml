@@ -293,7 +293,13 @@ program:
     date: 2019-06-26
     start_time: "12:00"
     end_time: "14:30"
-    comments: "Location: Expo"
+    comments: "Location: Expo (1st floor)"
+  - title: "dan-maher"
+    type: workshop
+    date: 2019-06-26
+    start_time: "12:00"
+    end_time: "14:30"
+    comments: "Location: Workspace (2nd floor)"
 
 # break
   - title: "Break"
