@@ -201,17 +201,17 @@ sponsors:
 
 # Media
 # ------------------------------------------------------------------------------
-  - id: deployandome
+  - id: montevideocomm
     level: media
 
-  - id: montevideocomm
+  - id: deployandome
     level: media
 
 
 # Social Wall
 # ------------------------------------------------------------------------------
-  - id: socialwall
-    level: idatha
+  - id: idatha
+    level: socialwall
 
 
 # TBD sponsors
