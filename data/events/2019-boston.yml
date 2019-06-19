@@ -94,6 +94,8 @@ proposal_email: "proposals-boston-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: f5
     level: platinum
+  - id: f5
+    level: alacarte
   - id: irobot
     level: platinum
   - id: victorops
@@ -119,6 +121,8 @@ sponsors:
     level: gold
   - id: circleci
     level: platinum
+  - id: verizon
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -135,3 +139,5 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
+  - id: alacarte
+    label: a la carte (badges, lanyards, coffee, evening event)
