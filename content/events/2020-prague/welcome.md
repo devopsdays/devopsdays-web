@@ -1,9 +1,11 @@
 +++
-Title = "devopsdays Portland 2019"
+Title = "Devopsdays Prague 2020"
 Type = "welcome"
-aliases = ["/events/2019-portland/"]
-Description = "devopsdays Portland 2019"
+aliases = ["/events/2020-prague/"]
+Description = "Devopsdays Prague 2020"
 +++
+
+DevOpsDays is coming to Prague in 2020! We'll announce dates in the summer of 2019.
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
@@ -27,32 +29,32 @@ Description = "devopsdays Portland 2019"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    <a href="https://devopsdayspdx2019.busyconf.com/bookings/new">Register to attend the conference!</a>
+    {{< event_link page="registration" text="Register to attend the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Propose</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
     View the {{< event_link page="program" text="program." >}}
   </div>
-</div>
+</div> -->
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -63,14 +65,14 @@ Description = "devopsdays Portland 2019"
   </div>
 </div> -->
 
-<div class = "row">
+<!-- <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div>
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
