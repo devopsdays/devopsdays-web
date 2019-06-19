@@ -12,10 +12,14 @@ If you'd like to contact us by email: {{< email_organizers >}}
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5724f5b54cc142a1"></script>
 {{< event_twitter >}}
 
+
 **Our local team**
 
 {{< list_organizers >}}
 
 **The core devopsdays organizer group**
+
+<i>Emeritus Local Organizers</i><br>
+Mike Rosado, Annie Hedgpeth, Michael Hedgepeth, Megan Bohl, Carlos Nuñez
 
 {{< list_core >}}
