@@ -20,6 +20,6 @@ If you'd like to contact us by email: {{< email_organizers >}}
 **The core devopsdays organizer group**
 
 <i>Emeritus Local Organizers</i><br>
-Mike Rosado, Annie Hedgpeth, Michael Hedgepeth, Megan Bohl, Carlos Nuñez
+Mike Rosado, John Jelinek, Ben Johnson, Annie Hedgpeth, Michael Hedgepeth, Megan Bohl, Carlos Nuñez
 
 {{< list_core >}}
