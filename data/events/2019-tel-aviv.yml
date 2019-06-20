@@ -130,7 +130,6 @@ sponsors:
     level: organizer
   - id: elastic
     level: gold
-    url: https://elastic.co
   - id: statscraft
     level: community
   - id: opsschool
