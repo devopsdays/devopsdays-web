@@ -191,6 +191,12 @@ sponsors:
     level: silver
   - id: logdna
     level: silver
+  - id: zoro
+    level: silver
+  - id: instana
+    level: silver
+  - id: circleci
+    level: silver 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
