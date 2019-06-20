@@ -204,6 +204,8 @@ sponsors:
     level: gold
   - id: pepperdata
     level: gold
+  - id: logdna
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
