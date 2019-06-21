@@ -347,6 +347,8 @@ sponsors:
     url: "https://about.gitlab.com/"
   - id: newrelic
     level: gold
+  - id: collabnet-versionone
+    level: gold
   - id: devopsdc-meetup
     level: community
   - id: black-code-collective
