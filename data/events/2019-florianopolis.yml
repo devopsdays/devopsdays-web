@@ -210,12 +210,13 @@ program:
     date: 2019-07-27
     start_time: "13:35"
     end_time: "13:40"
-  - title: "rafael-barbosa"
+  - title: "rodolpho-eckhardt"
     type: talk
     date: 2019-07-27
     start_time: "13:40"
     end_time: "14:15"
-  - title: "tatiane-paya"
+    background_color: "#cc99ff"
+  - title: "rafael-barbosa"
     type: talk
     date: 2019-07-27
     start_time: "14:15"
@@ -231,22 +232,21 @@ program:
     start_time: "15:25"
     end_time: "16:15"
     backgroud_color: "#ffb566"
-  - title: "yago-nobre"
+  - title: "tatiane-paya"
     type: talk
     date: 2019-07-27
     start_time: "16:15"
     end_time: "16:50"
-  - title: "rafael-gomes-igor-souza"
+  - title: "yago-nobre"
     type: talk
     date: 2019-07-27
     start_time: "16:50"
     end_time: "17:25"
-  - title: "rodolpho-eckhardt"
+  - title: "rafael-gomes-igor-souza"
     type: talk
     date: 2019-07-27
     start_time: "17:25"
     end_time: "18:15"
-    background_color: "#cc99ff"
   - title: "Sorteio de Brindes"
     type: custom
     date: 2019-07-27
