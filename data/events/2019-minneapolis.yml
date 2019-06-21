@@ -170,8 +170,6 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: logzio
-    level: gold
   - id: gitlab
     level: gold
   - id: mesosphere
