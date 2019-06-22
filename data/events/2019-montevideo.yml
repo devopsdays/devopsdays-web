@@ -153,6 +153,10 @@ sponsors:
   - id: genexus
     level: silver
 
+  - id: stb
+    level: silver
+
+
 # Bronze
 # ------------------------------------------------------------------------------
   - id: deloitte
