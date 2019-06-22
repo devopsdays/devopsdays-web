@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Biggest Room in the World"
+Title = "The Art of Continuous Improvement"
 Type = "talk"
 Speakers = ["megan-tischler"]
 +++

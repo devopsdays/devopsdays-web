@@ -64,11 +64,11 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
               <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose to talk
             </a>
           </div>
-          <!-- <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2018">
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2019">
              <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
             </a>
-          </div> -->
+          </div>
        </div>
      </div>
     </div>

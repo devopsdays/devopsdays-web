@@ -278,11 +278,7 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
 
-# List all of your sponsors here along with what level of sponsorship they have.
-# Check data/sponsors/ to use sponsors already added by others.
-sponsors:
-  - id: arresteddevops
-    level: community
+# Sponsoring!
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_link: "https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR"
@@ -307,6 +303,8 @@ sponsor_levels:
   - id: media
     label: Media
 
+# List all of your sponsors here along with what level of sponsorship they have.
+# Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: pyramid-systems
     level: platinum
@@ -315,7 +313,7 @@ sponsors:
   - id: redhatgov
     level: platinum
     url: "https://go.redhat.com/public-sector?sc_cid=701f2000001OIyfAAG"
-  - id: dlt
+  - id: checkmarx
     level: platinum
   - id: chef
     level: platinum
@@ -328,15 +326,38 @@ sponsors:
     level: platinum
   - id: cloudbees
     level: platinum
+  - id: palantir
+    level: platinum
   - id: googlecloud
     level: platinum
+  - id: signalfx
+    level: platinum
+  - id: split-software
+    level: platinum
+  - id: capitalone
+    level: platinum
+  - id: appdynamics
+    level: platinum
   - id: circleci
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: sts
+    level: gold
+  - id: gitlab
+    level: gold
+    url: "https://about.gitlab.com/"
+  - id: newrelic
+    level: gold
+  - id: collabnet-versionone
     level: gold
   - id: devopsdc-meetup
     level: community
   - id: black-code-collective
     level: community
   - id: womenwhocodedc
+    level: community
+  - id: techwell
     level: community
   - id: arresteddevops
     level: media

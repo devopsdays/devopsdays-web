@@ -60,6 +60,7 @@ team_members: # Name is the only required field for team members.
     <br/><br/>David has been a member of the DevOpsDays Ohio organizing committee since it's inception. He's also Co-Organizer of the DevOps Columbus Meetup."
     twitter: "dlaulusa"
     linkedin: "https://www.linkedin.com/in/davidlaulusa/"
+  - name: "Jack Maher"
   - name: "J.D. Santen"
     bio: "J.D. Santen is a developer who has been working in the telecommunications industry for over 18 years.  In that time, he’s seen network growth explode and the requirements to support it become more complicated.  J.D. has had a hand in building IT systems that are as resilient as the network they support."
     linkedin: "https://www.linkedin.com/in/jdsanten"
@@ -101,6 +102,14 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: chef
+    level: gold
+  - id: contrast_security
+    level: gold
+  - id: tasktop
+    level: silver
+  - id: liatrio
+    level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 

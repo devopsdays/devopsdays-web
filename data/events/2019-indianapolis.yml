@@ -126,6 +126,10 @@ sponsors:
     level: bronze
   - id: blacksintechnology
     level: community
+  - id: victorops
+    level: gold
+  - id: redhat
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -112,6 +112,15 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
   </tr>
   <tr>
+    <td>5 minute pitch during happy hour</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="no"> </td>
+    <td class="yes">&#9989;</td>
+  </tr>
   <tr>
     <td>1 included ticket total</td>
     <td class="yes">&#9989;</td>

@@ -78,6 +78,12 @@ sponsors:
     level: AV
   - id: chef
     level: gold
+  - id: dynatrace
+    level: gold
+  - id: devopsish
+    level: bronze
+  - id: appdynamics
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
