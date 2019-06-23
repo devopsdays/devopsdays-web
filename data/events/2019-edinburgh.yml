@@ -80,6 +80,12 @@ team_members: # Name is the only required field for team members.
     bio: "PhD student working at the School of Computer Science in how to apply Name Based Networking protocol (NDN) to decentralised mobile architectures such as Android and Linux based Mobile Adhoc Networks. Interested in automation and continuous delivery through software development and infrastructure optimization. Motivated by previous industrial experiences in Telecoms, mobile gaming companies and APAC investment banking systems."
     image: "percy.jpg"
     twitter: "@percyperezd"
+  - name: "Kora Przybyszewska"
+    employer: ""
+    bio: "A Life-Science focused Senior Scientist experienced with project management and community engagement. Her background revolves around Microbiology, Cell & Molecular Biology, but believes that IT and Tech can help to improve our understanding of the world. Passionate about Outdoors, Mountaineering, and Photography."
+    image: "korek.jpg"
+    twitter: "@knprzybyszewska"
+ 
  
 organizer_email: "organizers-edinburgh-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-edinburgh-2019@devopsdays.org" # Put your proposal email address here
