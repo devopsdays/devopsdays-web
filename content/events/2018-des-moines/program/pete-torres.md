@@ -7,14 +7,6 @@ Type = "talk"
 Speakers = ["pete-torres"]
 +++
 
-"# Keeping Secrets 
-
-A discussion about protecting sensitive data found within our systems automation work 
-
-
-
-## description
-
 As Systems Engineers progress into infrastructure as code, how do we protect sensitive data found within our automation work?  let's talk about secrets and some of the tools available for keeping them, as well as step through a demonstration of using secrets in a puppet module.
 
 This talk will discuss a few open source solutions available such as Conjur, Hashicorp Vault, and Encrypted Yaml.  

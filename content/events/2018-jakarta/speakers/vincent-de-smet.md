@@ -1,7 +1,7 @@
 +++
 Title = "Vincent De Smet"
 Twitter = "vincentdesmet"
-image = "vincent-de-smet.jpeg"
+image = "vincent-de-smet.jpg"
 type = "speaker"
 linktitle = "vincent-de-smet"
 +++

@@ -6,6 +6,8 @@ type = "event"
   {{< cfp_dates >}}
 
 <hr>
+<center><b> Our Call for Papers has closed and we are evaluating submissions at this time. </b></center>
+<hr>
 
 It is a pleasure to invite you to participate in the 2018 devopsdays Boise Conference. The conference will take place at {{< event_location >}} in downtown Boise on {{< event_start >}}.
 

@@ -4,6 +4,8 @@ Type = "talk"
 Speakers = ["ravi-kalaga"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NV89MRlghbg" frameborder="0" allowfullscreen></iframe>
+
 For the last 22months, my team and I have been leading a large DevOps Transformation at a Large Healthcare Insurer and Provider in the Bay Area. This talk will high-light how we went about doing it and talk about the painful realities of achieving a real DevOps Transformation.
 
 * Started with a 3 day 40 people Value Stream Mapping exercise high-lighting the flow of a release from Planning to Production. The entire release lasted 3 months and that’s a normal cycle.

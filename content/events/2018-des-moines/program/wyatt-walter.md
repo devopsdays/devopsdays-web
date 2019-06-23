@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "DashboardOps: Understanding how we diagnose incidents to create better dashboards"
 Type = "talk"
+Youtube = "WDi1Vgg0aZw"
 Speakers = ["wyatt-walter"]
 +++
 

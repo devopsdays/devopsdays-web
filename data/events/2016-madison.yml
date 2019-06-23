@@ -55,9 +55,9 @@ sponsors:
     level: silver
   - id: arresteddevops
     level: community
-  - id: victorops
+  - id: victorops-before-20180823
     level: silver
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: adorable
     level: event

@@ -4,8 +4,9 @@ city: "Austin" # The displayed city name of the event. Capitalize it.
 event_twitter: "DoDAustin"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2017-05-04
-enddate:  2017-05-05
+startdate: 2017-05-04T00:00:00-05:00
+enddate: 2017-05-05T23:59:59-05:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  2017-01-23
 cfp_date_end:  2017-02-14
@@ -149,11 +150,11 @@ sponsors:
   - id: opsgenie
     level: happyhour
     url: https://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Austin_%20May&utm_medium=banner
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: deis
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: ns1
     level: gold
@@ -171,7 +172,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: gold
   - id: signalsciences
     level: gold
@@ -233,7 +234,7 @@ sponsors:
     level: media
   - id: devopsdotcom-before-20170823
     level: media
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: lanyard
   - id: linuxacademy
     level: hackathon

@@ -95,8 +95,7 @@ Description = "devopsdays Kiel 2018"
 
 ### Coffee Break Sponsor
 
-KPS-Concepts GmbH, Schönkirchen</br>
-HCL America Inc.
+KPS-Concepts GmbH, Schönkirchen
 
 ### Happy Hour Sponsor
 

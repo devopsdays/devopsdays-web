@@ -5,11 +5,9 @@ aliases = ["/events/2018-porto-alegre"]
 Description = "devopsdays Porto Alegre 2018"
 +++
 
-<!--
 <div style="text-align:center;">
   <a href="http://poa.devopsdays.com.br/">{{< event_logo >}}</a>
 </div>
--->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -79,7 +77,7 @@ Description = "devopsdays Porto Alegre 2018"
     <strong>Contato</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Entre em contato com a organização" >}}
+    {{< event_link page="contato" text="Entre em contato com a organização" >}}
   </div>
 </div>
 

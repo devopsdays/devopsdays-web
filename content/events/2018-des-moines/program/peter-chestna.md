@@ -4,6 +4,7 @@ Talk_start_time = "11:25"
 Talk_end_time = "11:55"
 Title = "Not a free lunch – Managing your open source program"
 Type = "talk"
+Youtube = "Vsty2K8Bg_U"
 Speakers = ["peter-chestna"]
 +++
 

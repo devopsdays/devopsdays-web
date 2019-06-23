@@ -5,20 +5,20 @@ event_twitter: "devopsdaysrdu" # Change this to the twitter handle for your even
 description: "Devopsdays is coming to Raleigh!" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
-# All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-09-10 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-09-11 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+# All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:   variable: 2016-01-05T01:02:03-05:00
+startdate: 2018-09-10T00:00:00-04:00
+enddate: 2018-09-11T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2018-01-01 # start accepting talk proposals.
-cfp_date_end: 2018-04-01 # close your call for proposals.
-cfp_date_announce: 2018-05-15  # inform proposers of status
+cfp_date_start: 2018-01-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2018-04-01T23:59:59-04:00 # close your call for proposals.
+cfp_date_announce: 2018-05-15T00:00:00-04:00  # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://goo.gl/forms/2UpFilKPOswrHcqp2"
 
-registration_date_start: 2018-01-24
-registration_date_end: 2018-09-11
+registration_date_start: 2018-01-24T00:00:00-05:00
+registration_date_end: 2018-09-11T23:59:59-04:00
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "https://www.eventbrite.com/e/devops-days-raleigh-2018-tickets-42510017607" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -32,9 +32,11 @@ location_address: "1101 Gorman Street, Raleigh, NC 27606" #Optional - use the st
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
- # - name: registration
- # - name: program
+  - name: location
+  - name: registration
+    url: "https://www.eventbrite.com/e/devops-days-raleigh-2018-tickets-42510017607"
+  - name: program
+    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -63,7 +65,7 @@ team_members: # Name is the only required field for team members.
     website: "https://opensource.com"
     employer: "Red Hat"
   - name: "Chris Bailey"
-    twitter: "cbailey119"
+    twitter: "seebails"
     github: "nonstickzan"
   - name: "Andrew Sullivan"
   - name: "Kyle Anderson"
@@ -77,7 +79,7 @@ proposal_email: "proposals-raleigh-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: techtown
+  - id: techtown-before-20190407
     level: platinum
   - id: triangledevops
     level: community
@@ -85,12 +87,48 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
-  - id: opsgenie
-    level: platinum
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: platinum
   - id: dzone
     level: community
+  - id: influxdata
+    level: gold
+  - id: sonatype-before-20190121
+    level: gold
+  - id: appdynamics-before-20190121
+    level: gold
+  - id: launch-darkly
+    level: gold
+  - id: sumologic-before-20181203
+    level: platinum
+  - id: datadog
+    level: gold
+  - id: redgate
+    level: gold
+  - id: redhat-before-20190528
+    level: platinum
+  - id: servicenow
+    level: gold
+  - id: chef
+    level: platinum
+  - id: mesosphere
+    level: platinum
+  - id: forty8fifty-labs
+    level: platinum
+  - id: sysdig
+    level: platinum
+  - id: netapp
+    level: gold
+  - id: signalsciences
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: puppet
+    level: platinum
+  - id: ine
+    level: gold
+  - id: overops
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -99,13 +137,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10
   - id: silver
     label: Silver
     # max: 0 # This is the same as omitting the max limit.
-  - id: platinum
-    label: Platinum
   - id: community
     label: Community

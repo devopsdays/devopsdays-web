@@ -50,7 +50,7 @@ Description = "Sponsor devopsdays Des Moines 2018"
     }
 </style>
 
-We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an <a href="mailto:organizers-des-moines-2018@devopsdays.org">email.</a>
+We greatly value sponsors for this open event. If you are interested in sponsoring, please drop us an <a href="mailto:organizers-des-moines-2019@devopsdays.org">email.</a>
     <hr/> 
     <p>
     devopsdays is a self-organizing conference for practitioners that depends on sponsorships. We do not have vendor booths,

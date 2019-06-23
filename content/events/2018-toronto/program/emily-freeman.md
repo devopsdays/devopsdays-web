@@ -25,3 +25,5 @@ Firefighters have clear procedures and a strong hierarchy. The first truck at a 
 Which sounds a lot like the tight, orderly process of a deploy rollback or hotfix. _Just kidding._
 
 This talk will focus on how firefighters approach a fire — before, during and after an incident — and how we can apply those strategies to our own (admittedly much less dangerous) fires.
+
+<a href="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_EmilyFreeman.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_EmilyFreeman lores.jpg" alt="Graphic Recording This IS NOT Fine: Putting Out (Code) Fires" /></a>

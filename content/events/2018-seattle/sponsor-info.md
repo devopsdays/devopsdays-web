@@ -58,11 +58,36 @@ space discussions. This is your best chance to show off how valuable you can
 be to the attendees.
 
 ### Shipping
-The venue does not offer direct shipping / receiving.
+**IMPORTANT NEW INFORMATION**
 
-There is a FedEx Office location in the Convention Center, across the street from
-the Conference Center where we'll be. You can find more information, including
-hours and contact information at https://local.fedex.com/wa/seattle/office-5161/.
+We had previously shared information for a FedEx center to receive shipments.
+
+* The onsite FedEx office **will not** be able to receive your shipments after all.
+* The onsite FedEx office **will** be the best option for shipping things out.
+
+The venue has a limited ability to accept shipments. Some things to be aware of
+
+* **Shipments must be received on April 23rd, 2018.**
+* **Please let us know how many packages you're shipping in advance**
+* **The venue will not assume any liability or tracking reponsbility for your packages**
+* **The venue does not have the ability to ship out afterwards.** Again, there is a FedEx office location onsite which can help with this. If you are using a service other than FedEx you'll need to make your own arrangements. They venue does not have a pick up location for any other service.
+
+```
+Delivery Address:
+TO: WSCC
+1315 Hubbell Place
+Seattle, WA 98101
+ATTN: Jennifer Fahey
+FOR: 4/24 DevOpsDays Seattle – The Conference Center
+```
+
+### Loading / Unloading at venue
+
+Sponsors are welcome to come up to the WSCC Loading Dock for loading/unloading purposes.  
+The WSCC Loading Dock will be open from 6am-10pm on 4/24 and 4/25. Long term parking is 
+not allowed in either the alley or at the Loading Dock.
+
+<a href="https://assets.devopsdays.org/events/2018/seattle/WSCC-Loading-Dock-Map.pdf">Map to loading dock</a>
 
 ### Sponsor Tables
 

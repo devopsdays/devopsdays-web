@@ -94,13 +94,12 @@ Description = "devopsdays Zürich 2018"
   </div>
 </div>
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Event impressions</strong>
   </div>
   <div class = "col-md-8">
-   <a href="https://vimeo.com/219050548">Checkout our video!</a><br> 
-   <a href="https://www.flickr.com/photos/150616602@N02/albums/72157683712222866">Checkout our Photo Gallery</a>
+   <a href="https://vimeo.com/272155403">Checkout our video!</a><br>
+   <a href="https://www.flickr.com/photos/150616602@N02/sets/72157690847332020">Checkout our Photo Gallery</a>
   </div>
--->
+</div>

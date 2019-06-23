@@ -161,7 +161,14 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
     </tr>
     <tr>
-      <td>Give a 20 minute demo in the main hall during one of the open spaces</td>
+      <td>Give a 30 minute demo in the main hall during one of the open spaces</td>
+      <td style="padding: 5px" bgcolor="peru"></td>
+      <td style="padding: 5px" bgcolor="silver"></td>
+      <td style="padding: 5px" bgcolor="gold"></td>
+      <td style="padding: 5px" align="center"><img width="25" src="/img/checkmark.png"></td>
+    </tr>
+    <tr>
+      <td>After party sponsorship from a la carte section</td>
       <td style="padding: 5px" bgcolor="peru"></td>
       <td style="padding: 5px" bgcolor="silver"></td>
       <td style="padding: 5px" bgcolor="gold"></td>
@@ -210,7 +217,7 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$500</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Day 1 Lunch - Signage provided and 3 minute pitch</td>
+      <td style="padding: 5px" aling="left"><del>Day 1 Lunch - Signage provided and 3 minute pitch</del></td>
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>
@@ -219,58 +226,8 @@ would like to put together a custom package, let us know.
     </tr>
     <tr>
       <td style="padding: 5px" aling="left">After party - Premium Banner placement on stage, multiple pitches and extra drink tickets</td>
-      <td style="padding: 5px" align="center">$5,000</td>
+      <td style="padding: 5px" align="center">$2,500</td>
     </tr>
   </tbody>
 </table>
-
-
-<!--
-<hr/>
-
-<div style="width:590px">
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>packages</i></th>
-    <th><center><b><u>Bronze<br />1000 usd</u></center></b></th>
-    <th><center><b><u>Silver<br />3000 usd</u></center></b></th>
-    <th><center><b><u>Gold<br />5000 usd</u></center></b></th>
-    <th></th>
-  </tr>
-<tr><td>2 included tickets</td>
-<tr><td>logo on event website</td>
-<tr><td>logo on shared slide, rotating during breaks</td>
-<tr><td>logo on all email communication</td>
-<tr><td>logo on its own slide, rotating during breaks</td>
-<tr><td>1 minute pitch to full audience (including streaming audience)</td>
-<tr><td>2 additional tickets (4 in total)</td>
-<tr><td>4 additional tickets (6 in total)</td>
-<tr><td>shared table for swag</td>
-<tr><td>booth/table space</td>
-</table>
-<hr/>
-There are also opportunities for exclusive special sponsorships. We'll have sponsors for various events with special privileges for the sponsors of these events. If you are interested in special sponsorships or have a creative idea about how you can support the event, send us an email.
-<br/>
-<br/>
-
-<br>
-<br>
-<table border=1 cellspacing=1>
-  <tr>
-    <th><i>Sponsor FAQ</i></th>
-    <th><center><b>Answers to questions frequently asked by sponsors&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</center></b></th>
-    <th></th>
-  </tr>
-<tr><td>What dates/times can we set up and tear down?</td><td></td></tr>
-<tr><td>How do we ship to the venue?</td><td></td></tr>
-<tr><td>How do we ship from the venue?</td><td></td></tr>
-<tr><td>Whom should we send?</td><td></td></tr>
-<tr><td>What should we expect regarding electricity? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>What should we expect regarding WiFi? (how much, any fees, etc)</td><td></td></tr>
-<tr><td>How do we order additional A/V equipment?</td><td></td></tr>
-<tr><td>Additional important details</td><td></td></tr>
-</table>
-</div>
-
--->
 <hr/>

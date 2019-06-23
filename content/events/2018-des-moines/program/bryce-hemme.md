@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:40"
 Title = "How Granular Agronomy Exited Their Data Center and Performed a Lift-and-Shift to AWS"
 Type = "talk"
+Youtube = "z-MfIQdIsgI"
 Speakers = ["bryce-hemme"]
 +++
 

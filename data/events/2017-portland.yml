@@ -5,8 +5,8 @@ event_twitter: "devopsdayspdx"
 friendly: "2017-portland"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-08-01 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2017-08-02 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-08-01T00:00:00-07:00
+enddate: 2017-08-02T23:59:59-07:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-03-04 # start accepting talk proposals.
 cfp_date_end: 2017-05-09 # close your call for proposals.
@@ -74,7 +74,7 @@ proposal_email: "proposals-portland-2017@devopsdays.org" # Put your proposal ema
 sponsors:
     - id: columbia
       level: gold
-    - id: pivotal
+    - id: pivotal-before-20190307
       level: gold
     - id: recompiler
       level: community
@@ -86,7 +86,7 @@ sponsors:
       level: bronze
     - id: aws-before-20180313
       level: gold
-    - id: victorops
+    - id: victorops-before-20180823
       level: silver
     - id: twistlock
       level: gold
@@ -122,11 +122,11 @@ sponsors:
       level: cmccd
     - id: puppet
       level: cmccd
-    - id: redhat
+    - id: redhat-before-20190528
       level: cmccd
     - id: tripwire
       level: bronze
-    - id: thoughtworks-gocd
+    - id: thoughtworks-gocd-before-20190213
       level: silver
     - id: pagerduty
       level: gold
@@ -163,9 +163,9 @@ sponsors:
       level: donuts
     - id:  microsoftazure-before-20171017
       level: lunch
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: cmccd
-    - id:  diamanti
+    - id:  diamanti-before-20190108
       level: silver
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link

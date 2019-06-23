@@ -4,6 +4,8 @@ Type = "talk"
 Speakers = ["sarah-shewell"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/febq0JEIq_A" frameborder="0" allowfullscreen></iframe>
+
 After one DevOps transformation in a leadership role I sought out another as an individual contributor. This gave me unique insight on how all levels experience the change curve. These are the lessons I wish I had known and want to share with every leader who is aspiring to be transformational.
 
 Talk Description

@@ -2,18 +2,17 @@
 City = "Amsterdam"
 Year = "2018"
 date = "2017-12-13T21:17:00-06:00"
-heading = "devopsdays Amsterdam - Event Location"
-title = "Event Location"
+Title = "Event Location"
 type = "event"
-tags = ["amsterdam","amsterdam-2016"]
+Description = "devopsdays Amsterdam 2018 being held at Pakhuis de Zwijger"
 +++
 
 ### Conference Location
 
 The conference is located at [Pakhuis de Zwijger](http://www.dezwijger.nl/ "Website of Pakhuis de Zwijger")
 
-Piet Heinkade 179  
-1019 HC Amsterdam  
+Piet Heinkade 179
+1019 HC Amsterdam
 The Netherlands
 
 {{< event_map >}}
@@ -22,8 +21,8 @@ The Netherlands
 
 ### Transportation
 
-Amsterdam has a fantastic public transportation system.  
-- Buses [48](http://maps.gvb.nl/en/lijnen/48), [246](http://maps.gvb.nl/en/lijnen/246) and [759](http://maps.gvb.nl/en/lijnen/759) stop right in front of the conference.  
+Amsterdam has a fantastic public transportation system.
+- Buses [48](http://maps.gvb.nl/en/lijnen/48), [246](http://maps.gvb.nl/en/lijnen/246) and [759](http://maps.gvb.nl/en/lijnen/759) stop right in front of the conference.
 - Tram [26](http://maps.gvb.nl/en/lijnen/26), departing from Amsterdam Centraal Station (main train station in the city).
 
 More information can be obtained by using the [GVB](http://en.gvb.nl/) or [9292](http://9292.nl/en) websites. Both have excellent apps in the iOS ([GVB](https://itunes.apple.com/nl/app/gvb/id370393784) & [9292](https://itunes.apple.com/nl/app/9292/id556557690)) and Google Play ([GVB](https://play.google.com/store/apps/details?id=nl.moopmobility.gvb&hl=en)) & [9292](https://play.google.com/store/apps/details?id=nl.negentwee&hl=en)) store. Other apps (like Google Maps) have great integration as well.
@@ -34,7 +33,7 @@ You can purchase an "OV chipkaart" at Amsterdam Centraal and most large metro st
 
 #### Alternative methods of transportation
 - [Taxis](http://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around/taxis)
-- [Rent A Bike](http://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around/rental/bike-hire)  
+- [Rent A Bike](http://www.iamsterdam.com/en/visiting/plan-your-trip/getting-around/rental/bike-hire)
 
 ### Accommodations
 Amsterdam has amazing hotels and incredible amount of Airbnbs spread out all over the city that allows you to experience life as an Amsterdammer (Beware of the dark red bike paths!). Besides Airbnbs, here is a list of hotels that are near to the [Pakhuis de Zwijger](http://www.dezwijger.nl/ "Website of Pakhuis de Zwijger").

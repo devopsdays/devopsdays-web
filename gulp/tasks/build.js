@@ -1,5 +1,4 @@
-var gulp = require('gulp'),
-    runSequence = require('run-sequence');
+var gulp = require('gulp');
 /**
  * Run all tasks needed for a build in defined order
  */

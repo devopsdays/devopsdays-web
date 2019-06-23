@@ -8,8 +8,8 @@ title = "DevOps in a Serverless World"
 type = "talk"
 speakers = ["serhat-can"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "271452612"
+speakerdeck = "https://speakerdeck.com/dodzh/devops-in-a-serverless-world-serhat-can"
 slideshare = ""
 slides = ""
 +++

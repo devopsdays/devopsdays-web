@@ -1,5 +1,5 @@
-var gulp = require('gulp'),
-  runSequence = require('run-sequence');
+var gulp = require('gulp');
+  // runSequence = require('run-sequence');
 
 gulp.task('preprod', function (callback) {
   runSequence('responsive-images', 'copy-js', 'copy-css', 'process-html', 'revision', 'revision-update', 'copy-static-files',

@@ -27,14 +27,6 @@ DevOpsDays is back for its 4th annual event in the Rocky Mountains {{< event_sta
 </div>
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Volunteer</strong>
-  </div>
-  <div class = "col-md-8">
-    Interested in volunteering? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfHwpinaTlo4XuZZTMrEa3-ThidarYwId1UEAdiHJSh0U8WEA/viewform?usp=sf_link">Sign up here</a>!
-  </div>
-</div>
-<div class = "row">
-  <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">

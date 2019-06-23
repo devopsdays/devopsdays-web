@@ -5,11 +5,14 @@ event_twitter: "devopsdaysrox"
 event_logo: "logo-square.jpg"
 friendly: "2018-denver" # Four digit year and the city name in lower-case. Don't forget the dash!
 status: "current" # Options are "past" or "current".
-startdate: 2018-04-17 # The start date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-enddate: 2018-04-18 # The end date of your event, in YYYY-MM-DD format. Leave blank if you don't have a date yet.
-cfp_date_start: 2017-12-21
-cfp_date_end: 2018-02-28
-cfp_date_announce: 2018-03-01
+
+startdate: 2018-04-17T00:00:00-06:00
+enddate: 2018-04-18T23:59:59-06:00
+
+cfp_date_start: 2017-12-21T00:00:00-07:00
+cfp_date_end: 2018-02-28T23:59:59-07:00
+cfp_date_announce: 2018-03-01T00:00:00-07:00
+
 coordinates: "39.739236, -104.990251" # The corrodinates of your venue. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
 location: "Denver" # The name of your location
 registration_open: "open"
@@ -19,7 +22,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 
   - name: sponsor
   - name: registration
-  - name: propose
+#  - name: propose
   - name: contact
   - name: conduct
   - name: location
@@ -35,8 +38,6 @@ team_members: # Name is the only required field for team members.
   - name: "Beau Christensen"
     twitter: "beauchristensen"
   - name: "Joe Thompson"
-  - name: "Hannah Klemme"
-    twitter: "msklemme"
   - name: "Nick Huanca"
     twitter: "NickHuanca"
   - name: "Ryan Koch"
@@ -50,7 +51,7 @@ proposal_email: "proposals-denver-2018@devopsdays.org" # Put your proposal email
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
   - id: opsgenie
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: platinum
   - id: mesosphere
     level: gold
@@ -60,9 +61,9 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: releaseteam_qa
     level: silver
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: platinum
-  - id: victorops
+  - id: victorops-before-20180823
     level: platinum
   - id: dome9
     level: silver
@@ -84,6 +85,12 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: alt
   - id: elastic
     level: gold
+  - id: cloudbees
+    level: social
+  - id: sendgrid
+    level: bronze
+  - id: craftsy
+    level: bronze
 
 sponsor_levels: # In this section, list the level of sponsorships and the label to use.
   - id: social
@@ -98,7 +105,7 @@ sponsor_levels: # In this section, list the level of sponsorships and the label 
   - id: bronze
     label: Bronze
   - id: alt
-    label: Alternative
+    label: Ancillary
 program:
   - title: "Registration, Breakfast, Sponsors"
     type: custom
@@ -160,55 +167,49 @@ program:
     start_time: "13:30"
     end_time: "14:40"
 
+  - title: "aj-davis"
+    type: talk
+    date: 2018-04-17
+    start_time: "14:40"
+    end_time: "15:10"
+
   - title: "Open Space Opening"
     type: custom
     date: 2018-04-17
-    start_time: "14:40"
-    end_time: "14:50"
+    start_time: "15:15"
+    end_time: "15:25"
 
   - title: "Open Space #1"
     type: custom
     date: 2018-04-17
-    start_time: "14:50"
+    start_time: "15:25"
     end_time: "15:20"
 
   - title: "meera-subbarao"
     type: talk
     date: 2018-04-17
-    start_time: "14:50"
-    end_time: "15:20"
+    start_time: "15:25"
+    end_time: "15:55"
 
   - title: "Open Space #2"
     type: custom
     date: 2018-04-17
-    start_time: "15:25"
-    end_time: "15:55"
+    start_time: "16:00"
+    end_time: "16:30"
 
   - title: "ado-kukic"
     type: talk
     date: 2018-04-17
-    start_time: "15:25"
-    end_time: "15:55"
+    start_time: "16:00"
+    end_time: "16:30"
 
   - title: "Open Space #3"
-    type: custom
-    date: 2018-04-17
-    start_time: "16:00"
-    end_time: "16:30"
-
-  - title: "erik-rygg"
-    type: talk
-    date: 2018-04-17
-    start_time: "16:00"
-    end_time: "16:30"
-
-  - title: "Open Space #4"
     type: custom
     date: 2018-04-17
     start_time: "16:30"
     end_time: "17:00"
 
-  - title: "elissa-shevinsky"
+  - title: "erik-rygg"
     type: talk
     date: 2018-04-17
     start_time: "16:30"
@@ -299,7 +300,7 @@ program:
     start_time: "14:45"
     end_time: "15:15"
 
-  - title: "tom-mcLaughlin"
+  - title: "tom-mclaughlin"
     type: talk
     date: 2018-04-18
     start_time: "14:45"

@@ -47,20 +47,20 @@ team_members: # Name is the only required field for team members.
 organizer_email: "organizers-denver-2017@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-denver-2017@devopsdays.org" # Put your proposal email address here
 sponsors: # List all of your sponsors here along with what level of sponsorship they have.
-  - id: victorops
+  - id: victorops-before-20180823
     level: social
   - id: netapp
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: opsgenie
     level: gold
     url: http://www.opsgenie.com/?utm_source=Events&utm_campaign=DevOpsDays_Denver_%20April&utm_medium=banner
   - id: dellemc
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: chef
     level: gold
@@ -68,7 +68,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: mesosphere
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: regis
     level: gold
@@ -86,7 +86,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: lanyard
   - id: asg
     level: lanyard
-  - id: techtown
+  - id: techtown-before-20190407
     level: bronze
   - id: workday
     level: bronze

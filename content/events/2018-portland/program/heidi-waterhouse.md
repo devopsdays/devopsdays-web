@@ -1,0 +1,14 @@
++++
+Talk_date = ""
+Talk_start_time = ""
+Talk_end_time = ""
+Title = "Disaster Resilience the Waffle House Way: Flat-tops, feature flags, and finite state machines"
+Type = "talk"
+Speakers = ["heidi-waterhouse"]
++++
+
+Waffle House has a hurricane disaster plan. It has everything that you want from your IT disaster plans, including contact trees, failover states, and runbooks on partial operation. I think if we took some time to look at how other industries handle outages, we could construct better state machines about our own up/down conditions. I also think that we could use status instrumentation to trigger feature flags that route people to different versions of our products, depending on status.
+
+This talk explores lessons about state that we can adapt from the world outside computers, how to quantify them using a finite state machine, and then how to explore implementing them automatically while we are in a less-than-perfect condition.
+
+Audiences will leave with a new way to think about resilience in the face of downtime and the shades of down that can still be operational. They may also depart with a deep need for smothered hashbrowns.

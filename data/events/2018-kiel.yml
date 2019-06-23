@@ -6,12 +6,12 @@ description: "Devopsdays is coming to Kiel!" # Edit this to suit your preference
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: 2018-05-16  # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2018-05-17  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-05-16T00:00:00+02:00
+enddate: 2018-05-17T23:59:59+02:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2017-10-02 # start accepting talk proposals.
-cfp_date_end: 2017-12-15 # close your call for proposals.
+cfp_date_start: 2017-10-02T00:00:00+02:00 # start accepting talk proposals.
+cfp_date_end: 2017-12-15T00:00:00+01:00 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "false"
@@ -93,7 +93,7 @@ sponsors:
     level: venue
   - id: wobe-systems
     level: tshirt
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: objektspektrum
     level: media
@@ -137,100 +137,100 @@ program:
     date: 2018-05-16
     start_time: "08:00"
     end_time: "09:00"    
-  - title: "Welcome! - MC Sabine Wojcieszak & (tba)"
+  - title: "Welcome by MC Sabine Wojcieszak - Daniel Günther, Minister-President of Schleswig-Holstein - Dr. Ulf Kämpfer, Mayor of the Land Capital Kiel"
     type: custom
     date: 2018-05-16
     start_time: "09:00"
-    end_time: "09:15"        
+    end_time: "09:40"        
   - title: "frank-hollenberg"
     type: talk
     date: 2018-05-16
-    start_time: "09:15"
-    end_time: "09:50"
+    start_time: "09:40"
+    end_time: "10:15"
   - title: "geetika-tandon"
     type: talk
     date: 2018-05-16
-    start_time: "09:55"
-    end_time: "10:30"                
+    start_time: "10:20"
+    end_time: "10:55"                
   - title: "Sponsor Pitches"
     type: custom
     date: 2018-05-16
-    start_time: "10:30"
-    end_time: "10:40"                    
+    start_time: "10:55"
+    end_time: "11:00"                    
   - title: "Coffee Break"
     type: custom
     date: 2018-05-16
-    start_time: "10:40"
-    end_time: "11:00"                    
+    start_time: "11:00"
+    end_time: "11:20"                    
     comments: "powered by KPS-Concepts GmbH"
   - title: "matteo-emili"
     type: talk
     date: 2018-05-16
-    start_time: "11:00"
-    end_time: "11:35"                    
+    start_time: "11:20"
+    end_time: "11:55"                    
   - title: "felix-elliger"
     type: talk
     date: 2018-05-16
-    start_time: "11:40"
-    end_time: "12:15"                    
-  - title: "thiago-assuncao-de-faria"
-    type: talk
-    date: 2018-05-16
-    start_time: "12:20"
-    end_time: "12:55"                    
-  - title: "Lunch Break"
-    type: custom
-    date: 2018-05-16
-    start_time: "12:55"
-    end_time: "14:00"                    
+    start_time: "12:00"
+    end_time: "12:35"                    
   - title: "Ignites"
     type: ignite
     date: 2018-05-16
+    start_time: "12:40"
+    end_time: "13:00"
+  - title: "Lunch Break"
+    type: custom
+    date: 2018-05-16
+    start_time: "13:00"
+    end_time: "14:00"                    
+  - title: "thiago-assuncao-de-faria"
+    type: talk
+    date: 2018-05-16
     start_time: "14:00"
-    end_time: "14:20"
+    end_time: "14:35"                    
   - title: "Open Space preparation"
     type: open-space
     date: 2018-05-16
-    start_time: "14:20"
-    end_time: "14:45"                                        
+    start_time: "14:40"
+    end_time: "15:00"                                        
   - title: "Open Space Session 1"
     type: open-space
     date: 2018-05-16
-    start_time: "14:45"
-    end_time: "15:15"                    
+    start_time: "15:00"
+    end_time: "15:30"                    
   - title: "Open Space Session 2"
     type: open-space
     date: 2018-05-16
-    start_time: "15:15"
-    end_time: "15:45"                    
+    start_time: "15:30"
+    end_time: "16:00"                    
   - title: "Coffee Break"
     type: custom
     date: 2018-05-16
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "16:00"
+    end_time: "16:15"
     comments: "powered by KPS-Concepts GmbH"
-  - title: "alex-seriy"
+  - title: "moritz-eysholdt"
     type: talk
     date: 2018-05-16
-    start_time: "16:00"
-    end_time: "16:35"
+    start_time: "16:15"
+    end_time: "16:50"
   - title: "Reception with Beer & Soft Drinks"
     type: custom
     date: 2018-05-16
-    start_time: "16:35"
-    end_time: "17:00"
+    start_time: "16:50"
+    end_time: "17:15"
     comments: "powered by ASSPICK Versicherungsmakler GmbH"
-  - title: "christian-kniep"
+  - title: "sven-peters"
     type: talk
     date: 2018-05-16
-    start_time: "17:00"
-    end_time: "17:35"
+    start_time: "17:15"
+    end_time: "17:50"
   - title: "Evening Event - Drinks, Food & Music!"
     type: custom
     date: 2018-05-16
-    start_time: "17:35"
+    start_time: "18:30"
     end_time: "open end" 
-    comments: "Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
+    comments: "Location: Pogue Mahone Irish Pub; Bergstraße 15, 24103 Kiel - Music: Riding a Dead Horse - Band from Kiel http://www.ridingadeadhorse.com" 
   - title: "Registration and Welcome Coffee"
     type: custom
     date: 2018-05-17
@@ -261,7 +261,6 @@ program:
     date: 2018-05-17
     start_time: "10:30"
     end_time: "11:00"
-    comments: "powered by HCL America Inc."
   - title: "jon-hall"
     type: talk
     date: 2018-05-17
@@ -307,7 +306,6 @@ program:
     date: 2018-05-17
     start_time: "15:40"
     end_time: "16:00"
-    comments: "powered by HCL America Inc."
   - title: "siamak-sadeghianfar"
     type: talk
     date: 2018-05-17
@@ -331,28 +329,5 @@ ignites:
     date: 2018-05-16
   - title: "daniel-berman"
     date: 2018-05-16
-  - title: "moritz-eysholdt"
-    date: 2018-05-17
   - title: "axel-giernas"
     date: 2018-05-17
-      
-  
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-    
-    
-
-    
-                                                                                                      

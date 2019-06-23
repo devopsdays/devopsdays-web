@@ -6,13 +6,13 @@ description: "Devopsdays is coming to Atlanta!" # Edit this to suit your prefere
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate: "2018-04-17" # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  "2018-04-18" # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2018-04-17T00:00:00-04:00
+enddate: 2018-04-18T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  "2017-10-01"
-cfp_date_end:  "2018-02-28"
-cfp_date_announce:  "2018-03-05"
+cfp_date_start: 2017-10-01T00:00:00-04:00
+cfp_date_end: 2018-02-28T23:59:59-05:00
+cfp_date_announce: 2018-03-05T00:00:00-05:00
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysatl2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
@@ -83,7 +83,7 @@ sponsors:
     level: gold
   - id: chef
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: opsgenie
     level: gold
@@ -93,16 +93,22 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
-  - id: launch-darkly
+  - id: launch-darkly-before-20180423
     level: gold
   - id: mailchimp
     level: gold
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver
   - id: sjtechcorp
     level: silver
   - id: macstadium
     level: silver
+  - id: suntrust
+    level: silver
+  - id: experitest
+    level: bronze
+  - id: countryfinancial
+    level: bronze
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -148,10 +154,8 @@ program:
     date: "2018-04-17"
     start_time: "9:15"
     end_time: "9:45"
-    start_time: "09:00"
-    end_time: "09:15"
 
-  - title: "Sponsors"
+  - title: "Sponsors - Microsoft, Rigor, Instana"
     type: custom
     date: "2018-04-17"
     start_time: "09:45"
@@ -171,7 +175,7 @@ program:
     date: "2018-04-17"
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Sponsors - App Dynamics, Chef, Dell EMC"
     type: custom
     date: "2018-04-17"
     start_time: "11:10"
@@ -217,7 +221,7 @@ program:
     date: "2018-04-17"
     start_time: "16:45"
     end_time: "17:00"
-  - title: "Evening event"
+  - title: "Evening event at Taco Mac"
     type: custom
     date: "2018-04-17"
     start_time: "19:00"
@@ -237,7 +241,7 @@ program:
     date: "2018-04-18"
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Sponsors"
+  - title: "Sponsors - Launch Darkly, Scalyr, Mail Chimp"
     type: custom
     date: "2018-04-18"
     start_time: "09:45"
@@ -252,12 +256,12 @@ program:
     date: "2018-04-18"
     start_time: "10:25"
     end_time: "10:40"
-  - title: "dustin-bennett"
+  - title: "chris-short"
     type: talk
     date: "2018-04-18"
     start_time: "10:40"
     end_time: "11:10"
-  - title: "Sponsors"
+  - title: "Sponsors - Ops Genie, Mesosphere"
     type: custom
     date: "2018-04-18"
     start_time: "11:10"
@@ -303,7 +307,8 @@ program:
     start_time: "16:45"
     end_time: "17:00"
 ignites:
-  - title: "matt-stratton"
+
+  - title: "brian-pitts"
     date: "2018-04-17"
   - title: "kayla-rodriguez"
     date: "2018-04-17"
@@ -313,13 +318,13 @@ ignites:
     date: "2018-04-17"
   - title: "alicia-carr"
     date: "2018-04-17"
-  - title: "lee-fox"
+  - title: "valarie-regas"
     date: "2018-04-18"
   - title: "rob-marlow"
     date: "2018-04-18"
-  - title: "david-cameron"
+  - title: "rebecca-wheeler"
     date: "2018-04-18"
-  - title: "brian-pitts"
+  - title: "david-cameron"
     date: "2018-04-18"
   - title: "ryan-lockard"
     date: "2018-04-18"

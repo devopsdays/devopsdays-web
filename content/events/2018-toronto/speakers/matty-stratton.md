@@ -11,4 +11,4 @@ Matty Stratton is a DevOps Evangelist at PagerDuty, where he help dev and ops te
 
 Matty has over 20 years experience in IT operations, ranging from large financial institutions such as JPMorganChase and internet firms, including Apartments.com. He has given presentations at ITSM focused events, ChefConf, DevOpsDays, Interop, PINK, and various local groups within the Chicagoland area. He is the founder and co-host of the popular [Arrested DevOps podcast](https://www.arresteddevops.com).
 
-He lives in the Chicagoland area with his wife Andrea, their cat Fancy, and his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.
+He lives in the Chicagoland area with his three kids, Henry, Joey, and Sophia. He also has an unhealthy obsession with Doctor Who, Firefly, and Game of Thrones. And whiskey.

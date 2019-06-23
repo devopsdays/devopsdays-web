@@ -1,4 +1,6 @@
 +++
+City = "Amsterdam"
+Year = "2018"
 Title = "Contact"
 Type = "event"
 Description = "Contact information for devopsdays Amsterdam 2018"

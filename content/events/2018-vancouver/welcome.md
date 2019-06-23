@@ -30,15 +30,6 @@ Description = "Welcome | devopsdays Vancouver 2018"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
-  </div>
-  <div class = "col-md-8">
-    <a href = "https://www.papercall.io/devopsdays-vancouver-2018">Propose a talk!</a>
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
@@ -55,14 +46,14 @@ Description = "Welcome | devopsdays Vancouver 2018"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    {{< event_link page="program" text="View the program." >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -100,5 +91,5 @@ Description = "Welcome | devopsdays Vancouver 2018"
   </div>
 </div>
 
-
+<br>
 {{< event_twitter >}}

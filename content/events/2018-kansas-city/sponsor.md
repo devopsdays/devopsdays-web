@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Interested in sponsoring DevOpsDays Kansas City 2017? We greatly value sponsors for this open event."
+Description = "Interested in sponsoring DevOpsDays Kansas City 2018? We greatly value sponsors for this open event."
 +++
 
 <div class = "row">
@@ -25,17 +25,17 @@ Sponsors are responsible for providing high-res logos for use on the website and
   <thead>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Basic</a></u></b></center><center><b>$1,000</b></center></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WJ3T6Q3RA9DMW">Standard</a></u></b></center></center><center><b>$3,000</b></center></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></b></center></center><center><b>$6,000</b></center></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VKA92EMUQMXKG">Ultimate</a></u></b></center></center><center><b>$10,000</b></center></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Core</a></u></b></center><center><b>$1,000</b></center></th>
+      <th><center><b><u><a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Standard</a></u></b></center></center><center><b>$3,000</b></center></th>
+      <th><center><b><u><a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Premium</a></u></b></center></center><center><b>$6,000</b></center></th>
+      <th><center><b><u><a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Ultimate</a></u></b></center></center><center><b>$10,000</b></center></th>
     </tr>
     </thead>
     <tbody>
     <tr>
       <td style="border-bottom: 0; border-top: 0;"></td>
       <td style="padding: 4px 5px 0px 5px;">
-        <!-- Basic Paypal button  -->
+        <!-- Core Paypal button  -->
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="5LCE8CR2ZUH8J">
@@ -43,32 +43,32 @@ Sponsors are responsible for providing high-res logos for use on the website and
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
       </td>
-      <td style="padding: 4px 5px 0px 5px;">
+      <td style="padding: 4px 5px 0px 5px;"><center><b>Sold Out!</b></center>
         <!-- Standard Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="WJ3T6Q3RA9DMW">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
       </td>
-      <td style="padding: 4px 5px 0px 5px;">
+      <td style="padding: 4px 5px 0px 5px;"><center><b>Sold Out!</b></center>
         <!-- Premium Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="KUJUTPDCQ3MXS">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form> -->
       </td>
-      <td style="padding: 4px 5px 0px 5px;">
+      <td style="padding: 4px 5px 0px 5px;"><center><b>Sold Out!</b></center>
         <!-- Ultimate Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="VKA92EMUQMXKG">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        </form>-->
       </td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ Sponsors are responsible for providing high-res logos for use on the website and
   <br/>
   <br/>
   <hr/>
-  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, wifi, etc. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:organizers-kansascity-2017@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">send us an email</a>.
+  There are also opportunities for exclusive special sponsorships. We have sponsorships available for the evening event, video recording, live transcription, wifi, etc. If you are interested in special sponsorships or have a creative idea about how you can support the event, <a href="mailto:organizers-kansascity-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">send us an email</a>.
   <br/>
   <br/> <!--
   <table border=1 cellspacing=1>

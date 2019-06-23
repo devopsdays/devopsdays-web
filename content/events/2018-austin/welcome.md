@@ -17,16 +17,20 @@ Description = "devopsdays Austin Summit 2018"
             <div class="col-md-8">{{< event_start >}} - {{< event_end >}}</div>
         </div>
         <div class="row">
+            <div class="col-md-2"><strong>Schedule</strong></div>
+            <div class="col-md-8">{{< event_link page="schedule" text="View the schedule!" >}}</div>
+        </div>
+        <div class="row">
             <div class="col-md-2"><strong>Location</strong></div>
             <div class="col-md-8">{{< event_location >}}</div>
         </div>
         <div class="row">
-          <div class="col-md-2"><strong>Register</strong></div>
-          <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
+          <div class="col-md-2"><strong>Talks</strong></div>
+          <div class="col-md-8">{{< event_link page="proposals" text="Review proposed talks!" >}}</div>
         </div>
         <div class="row">
-          <div class="col-md-2"><strong>Propose</strong></div>
-          <div class="col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
+          <div class="col-md-2"><strong>Register</strong></div>
+          <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
         </div>
         <!-- <div class = "row">
           <div class = "col-md-2">

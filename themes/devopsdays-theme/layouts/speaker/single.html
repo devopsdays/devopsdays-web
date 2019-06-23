@@ -16,8 +16,7 @@
      <h3>{{ .Title }} at {{ $e.city }} {{$e.year}}</h3>
           <ul class="list-group">
             {{- $.Scratch.Set "speaker" .File.BaseFileName -}}
-            {{- range where $.Site.Pages "Type" "talk" -}}
-              {{- if eq (index (split (.Permalink | relURL) "/") 2) $e.name -}}
+            {{ range where (where $.Site.Pages "Type" "talk") ".File.Dir" "=" (print "events/" $e.name "/program/") }}
                 <!-- Now we can display stuff! -->
                 {{- range .Params.speakers -}}
                   {{- if eq . ($.Scratch.Get "speaker") -}}
@@ -25,23 +24,20 @@
                   {{- end -}}
                 {{- end -}}
                 {{- if eq ($.Scratch.Get "display") "true" -}}
-                  <a href = "{{ .Permalink | absURL }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
+                  <a href = "{{ .Permalink }}" class= "list-group-item list-group-item-action">{{ .Title }}</a>
                   {{ $.Scratch.Set "display" "false" }}
                 {{- end -}}
-              {{- end -}} <!-- end if eq $talk_slug $event_slug -->
-            {{- end -}} <!-- end range where $.Site.Pages "Type" "speaker" -->
+            {{- end -}} <!-- end range where -->
           </ul>
           </div>
-      <!-- </div>
-    </div> -->
   </div>
   <div class = "col-md-3 offset-md-1">
-    {{- if isset .Params "image" -}}
-      {{- if ne .Params.image "" -}}
-        <img src = "{{ (printf "events/%s/speakers/%s" $e.name .Params.image) |absURL }}" class="img-fluid" alt="{{ .Title }}"/><br />
+    {{- with .Params.image -}}
+      {{- if ne . "" -}}
+        <img src = "{{ (printf "/events/%s/speakers/%s" $e.name .) }}" class="img-fluid" alt="{{ $.Title }}"/><br />
       {{- end -}}
       {{- else -}}
-        <img src = {{ "img/speaker-default.jpg" | absURL }} class="img-fluid"  alt="{{ .Title }}"/><br />
+        <img src = {{ "/img/speaker-default.jpg"}} class="img-fluid"  alt="{{ .Title }}"/><br />
     {{- end -}}
     {{- if isset .Params "twitter" -}}
       {{- if ne .Params.twitter "" -}}

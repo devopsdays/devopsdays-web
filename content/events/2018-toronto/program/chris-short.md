@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "What the Military Taught Me about DevOps"
 Type = "talk"
 Speakers = ["chris-short"]
+youtube = "TIE1rKkJWyY"
 +++
 
 This talk breaks down how the military practiced most of the things we value in technology organizations today. From visualizing work to failing fast (sometimes too fast) to diversity, this talk takes you on a journey through my time in the Air Force and pulls from lessons learned prior to my time in the service.
@@ -26,3 +27,5 @@ Conflict Resolution - The best idea rose to the top of teams. Rank seldom matter
 Conclusion:
 
 I cannot stress how invaluable my time was in the Air Force. It made me who I am but it also taught me a lot of what DevOps is today. Don’t overlook veterans in your attempts to diversify.
+
+<a href="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_ChrisShort.jpg" target="_blank"><img src="https://assets.devopsdays.org/events/2018/toronto/DevOpsDaysTO_May30_2018_ChrisShort_lores.jpg" alt="Graphic Recording What the Military Taught Me about DevOps" /></a>

@@ -1,7 +1,6 @@
 +++
 Title = "Abdurrachman Mappuji"
-Twitter = "mappuji"
-image = "abdurrachman-mappuji.jpeg"
+Twitter = ""
 type = "speaker"
 linktitle = "abdurrachman-mappuji"
 

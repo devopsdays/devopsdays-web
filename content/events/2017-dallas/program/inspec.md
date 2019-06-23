@@ -12,7 +12,7 @@ Slideshare = ""
 Slides = ""
 Website = ""
 +++
-### {{< event_link page="program" text="on Monday 8/28/17 from 8:30am until 1:30pm">}}
+{{< event_link page="program" text="on Monday 8/28/17 from 8:30am until 1:30pm">}}
 ### Click <strong>[here](https://www.eventbrite.com/e/devopsdays-dfw-2017-tickets-33482024637?=InSpecWS#tickets)</strong> to purchase ticket.<br>
 <strong>NOTE: </strong>You <strong>MUST</strong> be registered to attend the conference in order to attend the workshop.
 <br>

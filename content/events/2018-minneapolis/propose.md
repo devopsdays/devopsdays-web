@@ -3,16 +3,18 @@ Title = "Propose"
 Type = "event"
 Description = "Propose a talk for devopsdays Minneapolis 2018"
 +++
- {{< cfp_dates >}}
 
 <hr>
 
 There are three ways to propose a topic for devopsdays Minneapolis 2018:
 <ol>
-  <li><strong><em>A 30-minute talk</em></strong> presented during the conference. We're currently accepting proposals for 30-minute talks via the form below.</li>
-  <li><strong><em>An Ignite talk</em></strong> presented during the <a href="/pages/ignite-talks-format">Ignite sessions</a> (we have Ignites at our evening event on Thursday night). These are 5 minutes slots with slides changing every 15 seconds (20 slides total). We will open the call for Ignite talks closer to the time of the conference.</li>
+  <li> We've selected our lineup of 30-minute {{< event_link page="speakers" text="speakers!" >}}
   <li><strong><em>Open Space</em></strong>: If you'd like to lead a group discussion during the attendee-suggested <a href="/pages/open-space-format">Open Space</a> breakout sessions, it is not necessary to propose it ahead of time. Those topics are suggested in person at the conference. If you'd like to demo your product or service, you should <a href="../sponsor">sponsor the event</a> and demo it at your table.
+  <li><strong>We're currently accepting proposals through May 31th for <em>an <a href="/pages/ignite-talks-format">Ignite talk</a></em></strong> presented during the Thursday evening event. These are 5 minutes slots with slides changing every 15 seconds (20 slides total).</li>
 </ol>
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdMzFvcSPsoSHwzUF-rzRJZ-aKs_2_fg35mgzJSUrxjrWiO4Q/viewform?embedded=true" width="900" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <hr>
 
@@ -25,6 +27,3 @@ Choosing talks is part art, part science; here are some factors we consider when
 - _no third-party submissions_: This is a small community-driven event, and speakers need to be directly engaged with the organizers and attendees. If a PR firm or your marketing department is proposing the talk, you've already shown that as a speaker you're distant from the process.
 - _no vendor pitches_: As much as we value vendors and sponsors, we are not going to accept a talk that appears to be a pitch for your product.
 
-<hr>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScPsrM_JqCIMWpeMVo-qyiQcx9-bgNKQGMAtRfQHCojO53iuw/viewform?embedded=true" width="760" height="1900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

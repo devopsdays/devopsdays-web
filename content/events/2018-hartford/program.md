@@ -1,15 +1,14 @@
 +++
 Title = "Program"
 Type = "program"
-Description = "Program for DevOpsDays Hartford 2018"
+Description = "Program for devopsdays hartford 2018"
+Icons = "false"
 +++
 
 <div class = "row">
   <div class = "col">
     <hr />
-    If you are new to the Open Space concept you may <a href="/pages/open-space-format">want to read some more details</a>.
-
-    Note: The order of the speakers may change up to the start of the event. Times are subject to change based on reality.
+    If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.
     <hr />
   </div>
 </div>

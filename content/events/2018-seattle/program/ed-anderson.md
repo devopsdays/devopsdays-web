@@ -4,6 +4,8 @@ Type = "talk"
 Speakers = ["ed-anderson"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RAt_P6Pj7r4" frameborder="0" allowfullscreen></iframe>
+
 serverless, sweet #serverless, why did they have to name you something so easily shamed?
 At RealSelf, we first tried adopting AWS Lambda as part of a customer facing feature in mid 2016. We knew both code and our cloud quite well, but our first #serverless attempt ended in failure because we didn’t yet understand appropriate use of this new approach to operating.
 

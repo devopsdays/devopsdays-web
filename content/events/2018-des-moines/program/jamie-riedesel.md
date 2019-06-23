@@ -4,6 +4,7 @@ Talk_start_time = "10:50"
 Talk_end_time = "11:20"
 Title = "Getting Observability out of your Monitoring System"
 Type = "talk"
+Youtube = "m7L8-csIjns"
 Speakers = ["jamie-riedesel"]
 +++
 

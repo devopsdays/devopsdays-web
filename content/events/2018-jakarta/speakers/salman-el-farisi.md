@@ -1,6 +1,6 @@
 +++
 Title = "Salman El Farisi"
-image = "salman-el-farisi.jpeg"
+image = "salman-el-farisi.jpg"
 type = "speaker"
 linktitle = "salman-el-farisi"
 

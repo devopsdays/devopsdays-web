@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:40"
 Title = "Ok, I'm Convinced About DevOps ... Now What?"
 Type = "talk"
+Youtube = "IqbI0mwJ5eA"
 Speakers = ["bob-ready"]
 +++
 

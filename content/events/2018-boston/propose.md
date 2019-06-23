@@ -1,15 +1,15 @@
 +++
 Title = "Propose"
 Type = "event"
-Description = "Propose a talk for DevOps Days Boston 2017"
+Description = "Propose a talk for DevOps Days Boston 2018"
 +++
 <center>
-  <b>Call for proposals opens Tuesday, Apr 25, 2017.</b><br>
-  <b>Call for proposals closes Saturday, Jul 1, 2017.</b><br>
+  <b>Call for proposals opens Monday, Apr 2, 2018.</b><br>
+  <b>Call for proposals closes Saturday, June 22, 2018.</b><br>
   </center>
 <hr>
 
-## Have something to share? Submit your proposal [here](https://www.papercall.io/devopsdays-boston-2017)!
+## Have something to share? Submit your proposal [here](https://www.papercall.io/devopsdays-boston-2018)!
 
 There are three ways to propose a topic at devopsdays:
 <ol>

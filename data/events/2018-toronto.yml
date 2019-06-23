@@ -6,19 +6,19 @@ description: "Be part of the fifth devopsdays Toronto!" # Edit this to suit your
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2018-MM-DD, like this:   variable: 2016-01-05
-startdate:  2018-05-30 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2018-05-31 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate:  2018-05-30T00:00:00-04:00
+enddate: 2018-05-31T23:59:59-04:00
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  2017-12-01 # start accepting talk proposals.
-cfp_date_end:  2018-02-02 # close your call for proposals.
-cfp_date_announce:  2018-02-23 # inform proposers of status
+cfp_date_start:  2017-12-01T00:00:00-05:00 # start accepting talk proposals.
+cfp_date_end:  2018-02-02T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce:  2018-02-23T00:00:00-05:00 # inform proposers of status
 
 cfp_open: "false"
 cfp_link: "https://www.papercall.io/2018-toronto" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: 2018-01-01 # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: 2018-05-29 # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2018-01-01T00:00:00-05:00 # start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2018-05-29T23:59:59-04:00 # close registration. Leave blank if registration is not open yet.
 
 registration_closed: "" #set this to true if you need to manually close registration before your registration end date
 registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
@@ -33,7 +33,7 @@ location_address: "89 Chestnut Street, Toronto, ON, M5G 1R1" #Optional - use the
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
   - name: location
-  - name: registration
+ # - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -62,7 +62,7 @@ proposal_email: "proposals-toronto-2018@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: opsgenie
     level: gold
@@ -80,30 +80,40 @@ sponsors:
     level: silver
   - id: puppet
     level: silver
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
-  - id: capitalonecanada
+  - id: capitalonecanada-before-20190321
     level: gold
   - id: loyaltyone
     level: gold
   - id: deloitte
     level: gold
-  - id: servicenow
+  - id: servicenow-before-20180620
     level: bronze
-  - id: highvail
+  - id: highvail-before-20190502
     level: gold
-  - id: blendedperspectives
+  - id: blendedperspectives-before-20190221
     level: silver
-  - id: sourcedgroup
+  - id: sourcedgroup-before-20190219
     level: silver
+  - id: sourcedgroup-before-20190219
+    level: lanyard
   - id: cloudbees
     level: silver
   - id: cgi
     level: platinum
-  - id: sonatype
+  - id: sonatype-before-20190121
     level: silver
   - id: pagerduty
     level: gold
+  - id: f5
+    level: gold
+  - id: ivedha
+    level: bronze
+  - id: elastic
+    level: bronze
+  - id: launch-darkly
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -117,10 +127,13 @@ sponsor_levels:
     max: 1
   - id: gold
     label: Gold
-    max: 12
+    max: 11
   - id: silver
     label: Silver
     max: 10 # This is the same as omitting the max limit.
+  - id: lanyard
+    label: Lanyard
+    max: 1
   - id: happyhour
     label: Happy Hour
     max: 1
@@ -142,7 +155,7 @@ program:
     date: 2018-05-30
     start_time: "09:00"
     end_time: "09:15"
-  - title: "nicole-forsgren"
+  - title: "steve-pereira"
     type: talk
     date: 2018-05-30
     start_time: "09:15"
@@ -232,12 +245,12 @@ program:
     date: 2018-05-30
     start_time: "16:45"
     end_time: "17:30"
-  - title: "Evening event"
+  - title: "Evening event at Duke of Cornwall"
     type: custom
     date: 2018-05-30
     start_time: "17:30"
     end_time: "20:30"
-    comments: "This will take place in the venue"
+    comments: "Located at 400 University Avenue"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2018-05-31
@@ -248,8 +261,8 @@ program:
     date: 2018-05-31
     start_time: "09:00"
     end_time: "09:15"
-  - title: "Day 2 Keynote"
-    type: custom
+  - title: "nicole-forsgren"
+    type: talk
     date: 2018-05-31
     start_time: "09:15"
     end_time: "09:45"
@@ -318,7 +331,7 @@ program:
     date: 2018-05-31
     start_time: "14:45"
     end_time: "15:30"
-  - title: "Break and 2:45 pm raffle in main ballroom"
+  - title: "Break and 3:45 pm raffle in main ballroom"
     type: custom
     date: 2018-05-31
     start_time: "15:30"
@@ -328,7 +341,7 @@ program:
     date: 2018-05-31
     start_time: "16:00"
     end_time: "16:45"
-  - title: "julie-qiu"
+  - title: "jason-harley-2"
     type: workshop
     date: 2018-05-31
     start_time: "16:00"
@@ -342,11 +355,7 @@ program:
 ignites:
   - title: "augusto-rosa"
     date: 2018-05-30
-  - title: "niall-byrne"
-    date: 2018-05-30
   - title: "simon-woodside"
-    date: 2018-05-30
-  - title: "logan-daigle"
     date: 2018-05-30
   - title: "karen-odegaard"
     date: 2018-05-30
@@ -355,9 +364,8 @@ ignites:
   - title: "christine-rohacz"
     date: 2018-05-31
   - title: "donald-donovan"
-    date: 2018-05-31
+    date: 2018-05-30
   - title: "fawzy-manaa"
     date: 2018-05-31
   - title: "matty-stratton"
     date: 2018-05-31
-

@@ -33,3 +33,5 @@ Choosing talks is part art, part science; here are some factors we consider when
 	<li>Proposal Title (can be changed later)</li>
 	<li>Description (several sentences explaining what attendees will learn)</li>
 </ol>
+
+Submit a proposal online: http://www.wyndhamxrhotel.com/map.html

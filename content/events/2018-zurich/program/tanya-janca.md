@@ -8,8 +8,8 @@ title = "Security is everybody's job ... literally."
 type = "talk"
 speakers = ["tanya-janca"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "271450144"
+speakerdeck = "https://speakerdeck.com/dodzh/security-is-everybodys-job-dot-dot-dot-literally-tanya-janca"
 slideshare = ""
 slides = ""
 +++

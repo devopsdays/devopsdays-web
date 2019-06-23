@@ -9,7 +9,8 @@ We greatly value sponsors for this open event.  If you are interested in sponsor
 <hr>
 
 
-DevOpsDays is a self-organizing non-profit conference for practitioners which depends on sponsorship to make the conference affordable to everyone. We do not have vendor booth, sell product presentations or distribute attendee contact lists. Depending on the sponsor packages you chose, there are different opportunities like booth tables, elevator pitches, logo on website and further more. We encourage our sponsors to represent themselves by actively taking part and engaging with the attendees as peers. As a sponsor you are free to do anything like a lottery or what ever. Any attendee – and also the sponsors have the possibility to demo products / projects as a part of an open space. All sponsors are recommended to accept the code of conduct. We are aiming at 150 attendees in 2018.
+DevOpsDays is a self-organizing non-profit conference for practitioners which depends on sponsorship to make the conference affordable to everyone. We do not have vendor booth, sell product presentations or distribute attendee contact lists. Depending on the sponsor packages you chose, there are different opportunities like booth tables, elevator pitches, logo on website and further more. We encourage our sponsors to represent themselves by actively taking part and engaging with the attendees as peers. As a sponsor you are free to do anything like a lottery, quiz or
+whatever you like. Any attendee – and also the sponsors have the possibility to demo products / projects as a part of an open space. All sponsors are recommended to accept the code of conduct. We are aiming at 120-130 attendees in 2018.
 <p>
 On behalf of all attendees and organizers we thank all sponsors for their support!
 <p>
@@ -66,6 +67,16 @@ If we have money left after the conference, it will be given to a social project
   <tr>
     <td>Logo all emails</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
   </tr>
+
+  <tr>
+    <td>Logo at start of videos</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo at end of videos</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
+  </tr>
+
+
   <tr>
     <td>1 min. pitch at conference</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td bgcolor="gold">&nbsp;</td><td>&nbsp;</td>
   </tr>
@@ -97,17 +108,17 @@ If we have money left after the conference, it will be given to a social project
 
 <hr/>
 <h3 id="gold-sponsor">Gold Sponsor</h3>
-<p>All Gold Sponsors get a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays. They will also be mentioned in social media. Gold sponsors get a one minute pitch at the conference and will be named as gold sponsor. They are free to use the giveaway bags. 3 tickets are included.</p>
+<p>All Gold Sponsors get a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays as well as at the beginning and at the end of the videos. They will also be mentioned in social media. Gold sponsors get a one minute pitch at the conference and will be named as gold sponsor. They are free to use the giveaway bags. 3 tickets are included.</p>
 <h3 id="silver-sponsor">Silver Sponsor</h3>
-<p>All Silver Sponsors may present their information at a full table. The logo will be presented on the website and all emails, printings and displays. They will also be mentioned in social media. Silver Sponsors will be named as silver sponsor. They are free to use the giveaway bags. 2 tickets are included.</p>
+<p>All Silver Sponsors may present their information at a full table. The logo will be presented on the website and all emails, printings and displays and at the end of the videos. They will also be mentioned in social media. Silver Sponsors will be named as silver sponsor. They are free to use the giveaway bags. 2 tickets are included.</p>
 <h3 id="evening-sponsor">Evening Sponsor</h3>
-<p>The Evening Sponsor gets a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays. The Evening Sponsor will also be mentioned in social media and get a one minute pitch at the conference. The Evening Sponsor will be named as it during the whole conference and at the evening of the social event. They are free to use the giveaway bags. 5 tickets are included.</p>
+<p>The Evening Sponsor gets a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays as well as at the beginning and at the end of the videos.. The Evening Sponsor will also be mentioned in social media and get a one minute pitch at the conference. The Evening Sponsor will be named as it during the whole conference and at the evening of the social event. They are free to use the giveaway bags. 5 tickets are included.</p>
 <h3 id="speaker-s-dinner-sponsor">Speaker´s Dinner Sponsor</h3>
-<p>The Speaker´s Dinner Sponsor gets a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays. The Speaker´s Dinner Sponsor will also be mentioned in social media and get a one minute pitch at the conference. The Speaker´s Dinner Sponsor will be named as it during the whole conference and at the evening of the Speaker´s Dinner. They are free to use the giveaway bags. 4 tickets are included.</p>
+<p>The Speaker´s Dinner Sponsor gets a full table to present their products and information. The logo will be presented on the website and all emails, printings and displays and at the end of the videos. The Speaker´s Dinner Sponsor will also be mentioned in social media and get a one minute pitch at the conference. The Speaker´s Dinner Sponsor will be named as it during the whole conference and at the evening of the Speaker´s Dinner. They are free to use the giveaway bags. 4 tickets are included.</p>
 <h3 id="coffee-break-sponsor">Coffee Break Sponsor</h3>
 <p>The Coffee Break Sponsor may present their information at a shared table (half). Their name will be listed on the website. The Coffee Break Sponsor will also be mentioned in social media. The Coffee Break Sponsor will be named as it during the day of sponsoring the coffee breaks and may put the logo on the buffet. They are free to use the giveaway bags. 1 ticket included.</p>
 <h3 id="t-shirt-sponsor">T-Shirt Sponsor</h3>
-<p>The T-Shirt Sponsor gets a full table to present products and information. The logo will be presented on the website and all emails, printings and displays, and also on one arm of the conference T-Shirts. They will also be mentioned in social media. T-Shirt Sponsors get a one minute pitch at the conference and will be named as T-Shirt Sponsor. They are free to use the giveaway bags. 2 tickets are included.</p>
+<p>The T-Shirt Sponsor gets a full table to present products and information. The logo will be presented on the website and all emails, printings and displays, and also on one arm of the conference T-Shirts. They will also be mentioned in social media as well as the logo will be presented at the beginning and at the end of the videos. T-Shirt Sponsors get a one minute pitch at the conference and will be named as T-Shirt Sponsor. They are free to use the giveaway bags. 2 tickets are included.</p>
 
 <!--
 <br/>

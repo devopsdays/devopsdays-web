@@ -1,4 +1,6 @@
 +++
+City = "Amsterdam"
+Year = "2018"
 Title = "Conduct"
 Type = "event"
 Description = "Code of conduct for devopsdays Amsterdam 2018"

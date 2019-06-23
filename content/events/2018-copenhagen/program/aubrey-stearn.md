@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "What My Dad taught Me about ChatOps"
 Type = "talk"
 Speakers = ["aubrey-stearn"]
+youtube ="Cd8Vm1BDWb0"
 +++
 
 My dad once told me about a guy from Birmingham, a martial artist who’d learned tai-kwon-do, who could do jujitsu and would box.

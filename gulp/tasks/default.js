@@ -1,5 +1,6 @@
-var gulp = require('gulp'),
-  runSequence = require('run-sequence');
+var gulp = require('gulp');
+var HubRegistry = require('gulp-hub');
+  // runSequence = require('run-sequence');
 
 // gulp.task('default', function (callback) {
 //   runSequence('copy-js', 'copy-css', 'copy-images', 'copy-html', 'revision', 'revision-update', 'copy-static-files',
@@ -7,9 +8,17 @@ var gulp = require('gulp'),
 //   )
 // })
 
-gulp.task('default', function (callback) {
-  runSequence('responsive-images', 'copy-static-files', 'copy-js', 'copy-css', 'process-html')
-})
+// gulp.task('default', function (callback) {
+//   runSequence('responsive-images', 'copy-static-files', 'copy-js', 'copy-css', 'process-html')
+// })
+
+// load some files into the registry
+var hub = new HubRegistry(['tasks/*.js']);
+
+// tell gulp to use the tasks just loaded
+gulp.registry(hub);
+
+gulp.task('default', gulp.series('responsive-images', 'copy-static-files', 'copy-js', 'copy-css', 'process-html'))
 
 // removing optimize-images from the sequence as it causes netlify to timeout
 

@@ -4,6 +4,8 @@ Type = "talk"
 Speakers = ["tom-mclaughlin"]
 +++
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sKjC3LDaXI0" frameborder="0" allowfullscreen></iframe>
+
 Going serverless is a lot like deciding to fly instead of driving. Flying is routinely safer than driving to your destination but requires a high level of trust in your airline and many are still scared. We’ll explore going serverless by confronting fears and examining it’s new issues.
 
 You own your availability but when is it better to leave your infrastructure primarily in the hands of AWS by building a serverless system? We’ll explore this question using the analogy of flying versus driving to your destination. Flying requires you to put your safety in the hands of a pilot, flight crew, and airline and is routinely a safer form of transportation. Yet, many are still wary and prefer to drive which enables them to own their travel.

@@ -1,6 +1,6 @@
 +++
 Title = "Thomas Rothe"
-image = "thomas-rothe.jpeg"
+image = "thomas-rothe.jpg"
 Twitter = "th_rothe"
 type = "speaker"
 linktitle = "thomas-rothe"

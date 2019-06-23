@@ -7,8 +7,9 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 event_group: "New Zealand"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate: 2017-10-03 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2017-10-04  # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-10-03T00:00:00+13:00
+enddate: 2017-10-04T23:59:59+13:00
+
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-07-03 # start accepting talk proposals.
@@ -77,11 +78,11 @@ organizer_email: "organisers-auckland-2017@devopsdays.org" # Put your organizer 
 sponsors:
   - id: 2016-assurity
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: SECTION6
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: 2016-oss
     level: gold
@@ -97,7 +98,7 @@ sponsors:
     level: silver
   - id: 2016-solnet
     level: silver
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: silver
   - id: flux-PS
     level: silver

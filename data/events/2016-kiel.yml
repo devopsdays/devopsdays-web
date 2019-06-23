@@ -3,8 +3,8 @@ year: 2016
 city: "Kiel"
 friendly: "2016-kiel"
 status: "past"
-startdate: 2016-05-11
-enddate: 2016-05-12
+startdate: 2016-05-11T00:00:00+02:00
+enddate: 2016-05-12T23:59:59+02:00
 coordinates: "54.3233, 10.1228"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.

@@ -42,9 +42,9 @@ The best thing to do is send engineers to interact with the experts at devopsday
 </table>
 </div>
 <hr/>
-### Evening event package
+### Evening event package (already sold!)
 <p>
-In addition to the standard sponsoring packages we are offering an <b>exclusiv evening event sponsoring</b> for 7500 EUR. The evening event sponsor package includes all Platinum benefits and an exlusive evening event branding.
+<strike>In addition to the standard sponsoring packages we are offering an <b>exclusiv evening event sponsoring</b> for 7500 EUR. The evening event sponsor package includes all Platinum benefits and an exlusive evening event branding.</strike>
 </p>
 <hr/>
 <p>

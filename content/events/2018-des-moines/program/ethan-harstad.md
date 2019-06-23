@@ -4,6 +4,7 @@ Talk_start_time = "14:10"
 Talk_end_time = "14:40"
 Title = "Building a Global Scale Image Processing Pipeline"
 Type = "talk"
+Youtube = "V4NMZdlgD9o"
 Speakers = ["ethan-harstad"]
 +++
 

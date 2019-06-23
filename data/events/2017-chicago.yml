@@ -7,6 +7,9 @@ description: "The group that brought you DevOpsDays Chicago 2014-2016 is back to
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
 startdate: 2017-09-12 # The start date of your event. Leave blank if you don't have a venue reserved yet.
 enddate: 2017-09-13 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2017-09-12T00:00:00-05:00
+enddate: 2017-09-13T23:59:59-05:00
+
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-04-14 # start accepting talk proposals.
 cfp_date_end: 2017-06-16 # close your call for proposals.
@@ -114,19 +117,19 @@ proposal_email: "cfp@devopsdayschi.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: influxdata-before-20171218
     level: gold
   - id: workiva
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: servercentral
     level: gold
   - id: chef
     level: gold
-  - id: victorops
+  - id: victorops-before-20180823
     level: gold
   - id: netapp
     level: silver
@@ -156,11 +159,11 @@ sponsors:
     level: gold
   - id: sproutsocial
     level: silver
-  - id: signal
+  - id: signal-before-20180815
     level: silver
-  - id: checkmarx
+  - id: checkmarx-before-20190621
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: mesosphere
     level: silver
@@ -176,7 +179,7 @@ sponsors:
     level: gold
   - id: arista
     level: silver
-  - id: diamanti
+  - id: diamanti-before-20190108
     level: gold
   - id: dynatrace
     level: gold
@@ -192,7 +195,7 @@ sponsors:
     level: gold
   - id: humio
     level: lanyard
-  - id: allstate
+  - id: allstate-before-20180725
     level: gold
   - id: cmegroup
     level: silver
