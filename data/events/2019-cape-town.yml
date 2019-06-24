@@ -25,19 +25,18 @@ registration_date_start:
 registration_date_end:
 
 registration_closed: ""
-registration_link: ""
+registration_link: "https://www.quicket.co.za/events/51759-devopsdays-cape-town-2019/"
 
 coordinates: "-33.935600, 18.457423"
 location: "Hilton Doubletree, Woodstock, Cape Town"
 location_address: "31 Brickfield Rd, Woodstock, Cape Town, 7935"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
- # - name: location
- # - name: registration
  # - name: program
- # - name: speakers
+  - name: location
+  - name: registration
   - name: sponsor
+  - name: speakers
   - name: propose
   - name: contact
   - name: conduct
@@ -62,6 +61,10 @@ team_members:
     facebook: "https://www.facebook.com/cobusbernard"
     website: "http://cobus.io/"
     bio: "Cobus is currently working with Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
+  - name: "Roxanne Davids"
+    image: "roxanne-davids.jpg"
+    twitter: "@ourfirepath"
+    bio: "Developer in IT Security Space."
   - name: "Tom Bamford"
     image: "tom-bamford.jpg"
     employer: "@planet"
@@ -75,6 +78,8 @@ proposal_email: "proposals-cape-town-2019@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: zappi
+    level: gold
   - id: arresteddevops
     level: community
 

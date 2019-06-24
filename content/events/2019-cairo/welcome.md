@@ -11,6 +11,9 @@ Description = "DevOpsDays Cairo 2019"
 <p>Please stay tuned for more information about DevOpsDays Cairo 2019 :)</p>
   
 </div>
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

@@ -4,6 +4,8 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "The Incremental Path to Observability (breakout 1)"
 Type = "talk"
+Youtube = "vK-aJxChyPQ"
+Slides = "https://www.slideshare.net/eanakashima/the-incremental-path-to-observability-143271611"
 Speakers = ["emily-nakashima"]
 +++
 

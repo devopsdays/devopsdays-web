@@ -161,9 +161,9 @@ sponsors:
     level: silver
   - id: signal-before-20180815
     level: silver
-  - id: checkmarx
+  - id: checkmarx-before-20190621
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: mesosphere
     level: silver

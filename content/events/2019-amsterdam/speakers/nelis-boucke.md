@@ -1,8 +1,8 @@
 +++
 Title = "Nelis Boucké"
-Linkedin = ""
+Linkedin = "https://www.linkedin.com/in/nelis/"
 Website = ""
-Twitter = ""
+Twitter = "nelisboucke"
 image = "nelis-boucke.jpg"
 type = "speaker"
 linktitle = "nelis-boucke"

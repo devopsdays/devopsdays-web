@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-04"
+Talk_start_time = "9:15"
+Talk_end_time = "10:00"
 Title = "Blameless Postmortem Culture"
 Type = "talk"
 Speakers = ["pranjal-deo"]

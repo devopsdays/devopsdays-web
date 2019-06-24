@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "The Five Marks of a Hybrid Cloud Operating Model (breakout 1)"
 Type = "talk"
+Youtube = "3d6heJKvTg8"
 Speakers = ["stephen-wilson"]
 +++
 

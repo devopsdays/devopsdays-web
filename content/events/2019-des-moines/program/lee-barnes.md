@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Effective Test Automation in DevOps - Moving Towards Continuous Testing (breakout 1)"
 Type = "talk"
+Youtube = "tUCyODUnVJE"
 Speakers = ["lee-barnes"]
 +++
 

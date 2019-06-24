@@ -1,7 +1,7 @@
 +++
 Title = "Suresh Chandra Bose Ganesh Bose"
 Twitter = "gsubose"
-image = ""
+image = "suresh-chandra-bose.jpg"
 type = "speaker"
 linktitle = "suresh-chandra"
 +++

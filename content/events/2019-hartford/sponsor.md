@@ -133,9 +133,16 @@ All special sponsors will have their logo displayed on the DevOpsDays Hartford w
     </tr>
     <tr>
       <td>Live Transcription</td>
-      <td>$2,000</td>
+      <td>$4,000</td>
       <td>Shout-out during opening remarks</td>
       <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Coffee</td>
+      <td>$2,000</td>
+      <td>Sign near coffee, "Coffee provided by: $You"</td>
+      <td>1</td>
       <td>1</td>
     </tr>
   </tbody>

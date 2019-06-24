@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Crowdsourcing Technology Governance (breakout 2)"
 Type = "talk"
+Youtube = "dBa1Kr8TlrQ"
 Speakers = ["bobby-stockstead","robert-whalen"]
 +++
 

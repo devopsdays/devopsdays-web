@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "A Cloud Journey - How am I going to sell this? (breakout 2)"
 Type = "talk"
+Youtube = "X98ELuUOq8Q"
 Speakers = ["brian-hostetter"]
 +++
 

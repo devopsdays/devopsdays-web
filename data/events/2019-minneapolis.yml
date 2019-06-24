@@ -34,7 +34,7 @@ location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue
 location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
   - name: registration
   - name: program
@@ -170,12 +170,42 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: logzio
-    level: gold
   - id: gitlab
     level: gold
   - id: mesosphere
     level: gold
+  - id: merrill
+    level: gold
+  - id: victorops
+    level: gold
+  - id: netapp
+    level: silver
+  - id: netapp
+    level: alacarte
+  - id: talend
+    level: silver
+  - id: codefresh
+    level: gold
+  - id: googlecloud
+    level: gold
+  - id: googlecloud
+    level: alacarte
+  - id: cargill
+    level: alacarte
+  - id: overops
+    level: silver
+  - id: xmatters
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id: target
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: pepperdata
+    level: gold
+  - id: logdna
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -189,12 +219,15 @@ sponsor_levels:
     max: 7
   - id: gold
     label: Gold
+    max: 15
   - id: silver
     label: Silver
+    max: 13
   - id: alacarte
     label: A La Carte
   - id: community
     label: Community
+    max: 6
 
 
 program:
@@ -203,7 +236,7 @@ program:
     date: 2019-08-06
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Welcome, Sponsor"
     type: custom
     date: 2019-08-06
     start_time: "09:00"
@@ -303,7 +336,7 @@ program:
     date: 2019-08-07
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Welcome, Sponsor"
     type: custom
     date: 2019-08-07
     start_time: "09:00"
@@ -390,5 +423,23 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "Ignite Talks TBD"
+  - title: "heidi-waterhouse"
+    date: 2019-08-06
+  - title: "emma-sax"
+    date: 2019-08-06
+  - title: "chelsey-mckinney"
+    date: 2019-08-06
+  - title: "megan-tischler"
+    date: 2019-08-06
+  - title: "brianna-mccullough"
+    date: 2019-08-06
+  - title: "steve-pereira"
+    date: 2019-08-06
+  - title: "jenn-strater"
+    date: 2019-08-06
+  - title: "steve-persch"
+    date: 2019-08-06
+  - title: "peg-mickelson"
+    date: 2019-08-06
+  - title: "jason-yee"
     date: 2019-08-06

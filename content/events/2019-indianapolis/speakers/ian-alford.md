@@ -1,7 +1,7 @@
 +++
 Title = "Ian Alford"
 Twitter = "IanAlford"
-Website = "library.nd.edu"
+Website = "https://library.nd.edu"
 Linkedin = "https://www.linkedin.com/in/ialford/"
 Pronouns = "he/him/his"
 Github = "ialford"

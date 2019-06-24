@@ -10,7 +10,10 @@ youtube = ""
 slideshare = ""
 slides = ""
 +++
-Professional (IT) manager with an university degree in Economics and more than 20 years’ experience in (IT) project management, supplier/vendor - management, organizational transformation/change (Agile & DevOps) and IT Risk management:
-In 1996 started at Cap Gemini. In the 12 years till 2008 worked at several customers in public and finance sector.
-In 2008 started at ING as project manager. After several IT project/programmes, since march 2011 IT manager for multiple entities: Domestic Bank, Financial Markets and Enterprise Services.
-Since begin 2017 started in the domain of IT Risk, with special focus on IT Change management (Agile based) and automation in the domain of IT Risk.
+
+The ING Think Forward strategy is to become the next generation digital bank. To support this ambition as an IT organization, we in the first place have the obligation to comply with all kinds (security) regulations.
+Next to the need to comply with these so called non-functional requirements, we are innovating on all kinds of topics like, Agile Way of Working, Continuous Delivery, DevOps, use of pipelines and shift left principles.
+The constant challenge is to align these developments with the way auditors look at our organization. The Dear Auditor is a story of how we try to connect the world of engineers & auditors, especially related to IT Risk.
+
+Do you want to hear what I learned, what worked / didn't work, what will be the next steps……I'll see you in Amsterdam
+

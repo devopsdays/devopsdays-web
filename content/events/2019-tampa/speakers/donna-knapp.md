@@ -1,7 +1,7 @@
 +++
 Title = "Donna Knapp"
 Twitter = ""
-image = ""
+image = "donna-knapp.jpg"
 type = "speaker"
 linktitle = "donna-knapp"
 +++

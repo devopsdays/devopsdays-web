@@ -6,7 +6,7 @@ Title = "Case Study: DevOps Bringing Paradigm Shift to Quality Assurance"
 Type = "talk"
 Speakers = ["monica-cachoni"]
 youtube = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/MnicaArrudaCachoni/devopsday-2019"
 slides = ""
 +++
 

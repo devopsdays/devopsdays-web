@@ -5,6 +5,8 @@ image = "martez-reed.png"
 website = "https://www.greenreedtech.com"
 type = "speaker"
 linktitle = "martez-reed"
+Linkedin = "https://www.linkedin.com/in/martezreed"
+Github = "martezr"
 
 +++
 

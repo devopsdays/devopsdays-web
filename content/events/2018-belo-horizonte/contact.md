@@ -10,6 +10,12 @@ Se desejar nos contactar, escreva-nos em: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
+**Acesse tambem nossas redes sociais e fique por dentro de tudo do evento:**
+
+Linkedin: https://www.linkedin.com/company/devopsdaysbh/
+Instagram: https://www.instagram.com/devopsdaysbh/
+Facebook: https://www.facebook.com/devOpsdaysbh/
+
 **Organizadores Core**
 
 {{< list_core >}}
