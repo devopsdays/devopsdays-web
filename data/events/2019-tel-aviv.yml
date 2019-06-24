@@ -130,6 +130,8 @@ sponsors:
     level: organizer
   - id: elastic
     level: gold
+  - id: bigpanda
+    level: gold
   - id: statscraft
     level: community
   - id: opsschool
