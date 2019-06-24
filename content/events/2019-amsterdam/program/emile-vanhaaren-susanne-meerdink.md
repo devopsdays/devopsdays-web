@@ -10,7 +10,6 @@ youtube = ""
 slideshare = ""
 slides = ""
 +++
-KPN ICT Consulting uses Design Thinking as development tool. Design Thinking is a way of working with a strong focus on realizing a design, what is feasible and useful. During this workshop the starting point is a brief overview of a company which must change the way of working due to the move to a cloud native based containerized application platform.
-With the help of some specific ‘tools’ we like to introduce the participants to Design Thinking. In our experience Design Thinking is very useful to support a situation as described above.
+KPN ICT Consulting uses Design Thinking as development tool. Design Thinking is a way of working with a strong focus on realizing a design, that is feasible and useful. During this workshop the starting point is a DevOps team that develops a sleep analyzing application. We are going to find out how design thinking can help developers get more insight out of user feedback and reduce the amount of times they go through the loop. With the help of some specific tools we like to introduce the participants to design thinking.
 
-No dedicated knowledge needed. Only some experience in DevOps
+No dedicated knowledge needed. Only some experience in DevOps.
