@@ -110,6 +110,9 @@ sponsors:
   - id: f13-2019
     level: silver
     url: https://www.f13.com.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: idevops
+    level: community
+    url: https://idevops.cloud/ # Use this if you need to over-ride a sponsor URL.
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
