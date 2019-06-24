@@ -107,6 +107,10 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: f13-2019
+    level: silver
+    url: https://www.f13.com.br/ # Use this if you need to over-ride a sponsor URL.
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
