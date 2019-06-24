@@ -35,7 +35,7 @@ Estande no local
 
 SILVER:
 
-Patrocinadores que contribuíram com quantias de R$ 1.000,00 à R$ 2.000,00
+Patrocinadores que contribuíram com quantias de R$ 1.000,00 à R$ 1.999,00
 
 
 BENEFÍCIOS:
@@ -55,7 +55,7 @@ Estande
 
 BONZE:
 
-Patrocinadores que contribuíram com quantias de R$ 500,00 à R$ 1.000,00
+Patrocinadores que contribuíram com quantias de R$ 500,00 à R$ 999,00
 
 
 BENEFÍCIOS:
