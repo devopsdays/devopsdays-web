@@ -50,7 +50,7 @@ Description = "devopsdays sydney 2019"
         <strong>Propose</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="propose" text="Submit your Proposal!" >}}
+        {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
       </div>
     </div>
     <div class="row">
@@ -58,7 +58,7 @@ Description = "devopsdays sydney 2019"
         <strong>Sponsors</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="sponsor" text="Sponsor DevOps Auckland 2019!" >}}
+        {{< event_link page="sponsor" text="Sponsor DevOps Sydney 2019!" >}}
       </div>
     </div>
     <div class="row">
