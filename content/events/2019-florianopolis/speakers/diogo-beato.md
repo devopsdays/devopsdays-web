@@ -1,5 +1,5 @@
 +++
-Title = "Diego Beato"
+Title = "Diogo Beato"
 Linkedin = "https://br.linkedin.com/in/diogobeato"
 Website = ""
 Twitter = "dvbeato"
