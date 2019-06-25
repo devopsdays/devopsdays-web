@@ -1,7 +1,7 @@
 +++
 Title = "Tatiane Paya"
 Twitter = ""
-image = ""
+image = "tatiane-paia.png"
 type = "speaker"
 linktitle = "tatiane-paya"
 
