@@ -199,7 +199,9 @@ sponsors:
   - id: circleci
     level: silver
   - id: activecampaign
-    level: lanyard 
+    level: lanyard
+  - id: jumpcloud
+    level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
