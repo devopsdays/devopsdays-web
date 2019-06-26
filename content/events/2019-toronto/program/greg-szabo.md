@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Tales from the Serverless"
 Type = "talk"
 Speakers = ["greg-szabo"]
+slides = "https://drive.google.com/open?id=0B-xlDaVBJWNscTBBcU56QzRTVzFPTzBOTmk3cHJITkozQk9R"
 +++
 
 How would you architect an IT company if you can start out cloud-native? No data centers to worry about and no on-premise infrastructure. How long would it take you to fall back on building yet another virtual server? That’s not what we imagined for the cloud.

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Breaking Hero Behaviour With Systems Thinking"
 Type = "talk"
 Speakers = ["chris-trotter"]
+slides = "https://drive.google.com/file/d/1QMOulwV55PMOX7yd4c6JCB6W950nqdDS/view"
 +++
 
 In a world where decibel management often wins out over the right thing, where fast results are demanded every day, and tech debt piles up unheeded, we are daily faced with the problem of being a hero. By saving the day, we avert disaster, win the contract, make the sale - but what else is going on deeper down, and why is it so common for us to not even realize we are choosing this path?

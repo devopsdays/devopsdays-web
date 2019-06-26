@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Shortcuts and Scenic Routes - Deconstructing DevOps"
 Type = "talk"
 Speakers = ["matthew-chum", "monti-ghai"]
+slides = "https://drive.google.com/file/d/16PLLtKzwtRtwP7pQGG3AxYqlbrP_D0l2/view"
 +++
 
 We've all heard about the promise of DevOps, and the benefits of things like automation, microservices, containers and Cloud-native architecture. A lot of this is grounded in legitimate innovation and real-world success, but what about the struggles that often go along with it? It may not always be the case, but in our experience, change can be difficult, frustrating and challenging to the whole organization.
