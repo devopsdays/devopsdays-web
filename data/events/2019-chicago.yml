@@ -197,7 +197,11 @@ sponsors:
   - id: instana
     level: silver
   - id: circleci
-    level: silver 
+    level: silver
+  - id: activecampaign
+    level: lanyard
+  - id: jumpcloud
+    level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -219,6 +223,10 @@ sponsor_levels:
   - id: wifi
     label: Wifi
     max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+
 
 program:
   - title: "Registration, Breakfast, Sponsors"
