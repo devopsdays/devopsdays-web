@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Containerizing Legacy Applications With dynamic file-based configurations and secrets"
 Type = "talk"
 Speakers = ["andrew-kirkpatrick"]
+slides = "https://github.com/magickatt/ContainerisingLegacyApplicationsTalk"
 +++
 
 Most applications nowadays are designed with containers in mind, or older projects are updated to be run within them. But what if you don’t have the time, resources or the authority to modify your applications?
