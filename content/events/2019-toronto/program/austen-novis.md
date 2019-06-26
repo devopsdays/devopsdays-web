@@ -6,6 +6,7 @@ Title = "Just in Time Cloud Infrastructure - Redefining the Relationship Between
 Type = "talk"
 Speakers = ["austen-novis"]
 slides = "https://docs.google.com/presentation/d/e/2PACX-1vSNm_LRQQSH76P2bmOnSBvk_W8cYFRvsgZ22e2GZMkWT0Fg96tBmadItXuL7bI1e7v25zv_AIQkPFyd/pub"
+youtube = "DaHL2itWZeg"
 +++
 
 Most cloud engineers are familiar with the paradigm of Infrastructure as Code (IaC), which provides the ability to model and deploy your cloud infrastructure via code, or code-generated configuration files. IaC drastically reduces the reliance on manual processes such as creating separate configurations for multiple environments, helps minimize misconfiguration mistakes through automated testing and version control, and can significantly speed up deployment times through CI/CD pipelines.
