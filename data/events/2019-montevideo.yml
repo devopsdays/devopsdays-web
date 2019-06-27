@@ -156,6 +156,9 @@ sponsors:
   - id: stb
     level: silver
 
+  - id: accsa
+    level: silver
+
 
 # Bronze
 # ------------------------------------------------------------------------------
@@ -283,7 +286,7 @@ program:
     start_time: "09:50"
     end_time: "10:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-21
     start_time: "10:30"
@@ -325,7 +328,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-21
     start_time: "15:30"
@@ -381,7 +384,7 @@ program:
     start_time: "10:00"
     end_time: "10:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-22
     start_time: "10:30"
@@ -423,7 +426,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-22
     start_time: "15:30"
