@@ -1,7 +1,7 @@
 +++
 Title = "Monica Cachoni"
 Twitter = ""
-image = ""
+image = "monica-cachoni.png"
 type = "speaker"
 linktitle = "monica-cachoni"
 
