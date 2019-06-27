@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps and Legacy Code"
 Type = "talk"
-Speakers = ["oliver-hankeln"]
+Speakers = ["oliver-hankeln", "peter-gotz"]
 +++
 
 Unfortunately we can't all work in startup companies. 
