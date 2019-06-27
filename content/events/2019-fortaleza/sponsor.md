@@ -53,7 +53,7 @@ Oportunidade de receber agradecimento formal no início de cada sessão de apres
 Estande
 
 
-BONZE:
+BRONZE:
 
 Patrocinadores que contribuíram com quantias de R$ 500,00 à R$ 999,00
 
