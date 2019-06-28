@@ -202,6 +202,10 @@ sponsors:
     level: lanyard
   - id: jumpcloud
     level: gold 
+  - id: morpheusdata
+    level: silver
+  - id: mongodb
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
