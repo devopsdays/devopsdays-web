@@ -39,7 +39,7 @@ location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cav
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
   - name: speakers
@@ -105,17 +105,17 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+ # - id: arresteddevops
+ #   level: community
   - id: f13-2019
     level: silver
     url: https://www.f13.com.br/ # Use this if you need to over-ride a sponsor URL.
   - id: idevops
     level: community
     url: https://idevops.cloud/ # Use this if you need to over-ride a sponsor URL.
-#  - id: universidade-de-fortaleza
-#    level: gold
-#    url: https://www.unifor.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: uni7
+    level: gold
+    url: https://www.uni7.edu.br/ # Use this if you need to over-ride a sponsor URL.
 
 
 
