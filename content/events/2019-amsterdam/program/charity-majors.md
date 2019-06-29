@@ -8,7 +8,7 @@ Speakers = ["charity-majors"]
 aliases = ["/events/2019-amsterdam/program/charity-majors/"]
 youtube = ""
 slideshare = ""
-slides = ""
+slides = "https://speakerdeck.com/charity/observability-and-complex-systems-devopsdays-ams"
 +++
 Distributed systems, microservices, containers and schedulers, polyglot persistence .. modern infrastructure patterns are fluid and dynamic, chaotic and transient. So why are we still using LAMP-stack era tools to debug and monitor them? We'll cover some of the many shortcomings of traditional metrics and logs (and APM tools backed by metrics or logs), and show how complexity is their kryptonite.
 
