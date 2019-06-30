@@ -132,6 +132,10 @@ sponsors:
     level: gold
   - id: bigpanda
     level: gold
+  - id: yotpo
+    level: silver
+  - id: yotpo
+    level: coffee
   - id: statscraft
     level: community
   - id: opsschool
@@ -158,6 +162,8 @@ sponsor_levels:
     label: Silver
   - id: happy hour
     label: Happy Hour
+  - id: coffee
+    label: Coffee
   - id: swag
     label: Swag
   - id: community
