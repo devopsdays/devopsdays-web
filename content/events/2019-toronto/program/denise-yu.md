@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Feedback Week - An Experiment in Empathetic, Effective Feedback Gathering"
 Type = "talk"
 Speakers = ["denise-yu"]
+slides = "https://www.dropbox.com/s/c0ocxfbbks50hji/Feedback%20Week%20DevOpsDaysTO.pdf"
 +++
 
 In retrospect, Feedback Week was so simple, that I was shocked to learn that no one had tried it before.

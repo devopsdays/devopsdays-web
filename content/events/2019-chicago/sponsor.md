@@ -58,13 +58,13 @@ The best thing to do is send engineers to interact with the experts at DevOpsDay
       <td></td>
       <td>
         <!-- gold Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+        <!-- form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
           <input type="hidden" name="cmd" value="_s-xclick">
           <input type="hidden" name="hosted_button_id" value="S9SCLZP3USU7L">
           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
-        <!-- 
+         
         <a href="mailto:sponsors-chicago-2019@devopsdays.org?subject=Interested%20in%20Sponsoring%20DevOpsDays%20Chicago%202019">Contact us</a> -->
       </td>
       <td>
@@ -208,14 +208,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-wifi fa-4x"></i></td>
-      <td>Wifi</td>
-      <td>$1,500</td>
-      <td>Custom network name and password</td>
-      <td>0</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td align="center"><i class="fa fa-pencil-square-o fa-4x"></i></td>
       <td>Live Transcription</td>
       <td>$2,000</td>
@@ -228,14 +220,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>Video</td>
       <td>$7,000</td>
       <td>Your logo on each video recording</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
-      <td>Lanyard</td>
-      <td>$4,500</td>
-      <td>Your logo and company colors</td>
       <td>2</td>
       <td>1</td>
     </tr>
@@ -253,7 +237,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>$6,000</td>
       <td>Sponsor 1 day and get 1min talk before lunch</td>
       <td>6</td>
-      <td>2</td>
+      <td>1</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-heart fa-4x"></i></td>

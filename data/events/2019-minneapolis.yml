@@ -170,8 +170,6 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: logzio
-    level: gold
   - id: gitlab
     level: gold
   - id: mesosphere
@@ -202,7 +200,15 @@ sponsors:
     level: silver
   - id: target
     level: gold
+  - id: sumologic
+    level: gold
   - id: pepperdata
+    level: gold
+  - id: logdna
+    level: silver
+  - id: jumpcloud
+    level: gold
+  - id: chef
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
