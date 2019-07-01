@@ -11,6 +11,8 @@ Registation ends {{< registration_end >}}
 
 Registration for DevOpsDays Galway 2019 is now open. If you have any questions please contact us at {{< email_organizers >}}.
 
+<!-- tickets widget -->
+
 <div style="width:100%; text-align:left;">
 <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
 <script src='https://js.tito.io/v1' async></script>
@@ -54,15 +56,17 @@ Galway is also well serviced by a number of Bed & Breakfast venues on College Ro
 [^1]: For those wishing to stay at The Galmont Hotel and Spa, just mention that you are attending the conference to avail of a special rate.
 -->
 
+<!-- some custom styles to tailor the tickets and register interest form -->
+
 <style>
-#tito-previous-releases::before {
+.tito-ticket-list::before {
   display: inline-block;
   width: 100%;
   height: 40px;
   line-height: 40px;
   vertical-align: middle;
   color: #0082AB;
-  content: "{{< registration_start >}} - {{< registration_end >}}";
+  content: "{{< event_start >}} - {{< event_end >}}";
   padding-left: 15px;
   background-color: rgb(240, 240, 240);
   border-bottom: 1px solid lightgray;
@@ -82,5 +86,6 @@ Galway is also well serviced by a number of Bed & Breakfast venues on College Ro
 
 .tito-wrapper {
   padding: 0px;
+  margin-bottom: 0px;
 }
 </style>
