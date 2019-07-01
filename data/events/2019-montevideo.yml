@@ -268,8 +268,8 @@ program:
     start_time: "08:00"
     end_time: "09:00"
 
-  - title: "Opening & Welcome Panel"
-    type: custom
+  - title: "opening"
+    type: talk
     date: 2019-08-21
     start_time: "09:00"
     end_time: "09:40"
