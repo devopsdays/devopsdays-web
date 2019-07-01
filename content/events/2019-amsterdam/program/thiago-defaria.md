@@ -7,8 +7,8 @@ Type = "talk"
 Speakers = ["thiago-defaria"]
 aliases = ["/events/2019-amsterdam/program/thiago-defaria/"]
 youtube = ""
-slideshare = ""
-slides = ""
+slideshare = "https://www.slideshare.net/ThiagoFaria12/devopsdays-amsterdam-2019-torching-architecture-ivory-towers"
+slides = "https://www.slideshare.net/ThiagoFaria12/devopsdays-amsterdam-2019-torching-architecture-ivory-towers"
 +++
 Ten years of DevOps and few businesses changed how they do a very crucial IT aspect: *Architecture*.
 

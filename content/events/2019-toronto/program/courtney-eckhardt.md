@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "How to Have an Operational Incident (a crash course)"
 Type = "talk"
 Speakers = ["courtney-eckhardt"]
+slides = "https://drive.google.com/file/d/1wNARVP5RlGeKfXwAbPyoIbvXxz098-vM/view"
+youtube = "yOg34Jh2vr8"
 +++
 
 What happens at your company when a service goes down? Hopefully an alarm fires somewhere and someone gets paged, but then what? Does the person who got paged fix it all themselves (and do they feel as isolated as that sounds)? What if they don’t know how- is there a procedure for them to get help? Do you have a protocol for deciding when the incident is over?

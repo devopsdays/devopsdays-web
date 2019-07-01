@@ -22,7 +22,7 @@ cfp_date_announce:  2019-08-07T00:00:00-03:00 # inform proposers of status
 cfp_open: "false"
 cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-masthead_background: "unifor.jpg"
+masthead_background: "uni7-frente.png"
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -32,14 +32,14 @@ registration_link: "" # If you have a custom registration link, enter it here. T
 
 # Location
 #
-coordinates: "-3.768304, -38.478437" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Universidade de Fortaleza" # Defaults to city, but you can make it the venue name.
+coordinates: "-3.7710272, -38.4858382" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
+location: "Centro Universitário 7 de Setembro" # Defaults to city, but you can make it the venue name.
 #
-location_address: "Av. Washington Soares, 1321 - Edson Queiroz" #Optional - use the street address of your venue. This will show up on the welcome page if set.
+location_address: "Av. Almirante Maximiniano da Fonseca, 1395 - Eng. Luciano Cavalcante" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
  # - name: propose
- # - name: location
+  - name: location
  # - name: registration
  # - name: program
   - name: speakers
@@ -105,17 +105,17 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: arresteddevops
-    level: community
+ # - id: arresteddevops
+ #   level: community
   - id: f13-2019
     level: silver
     url: https://www.f13.com.br/ # Use this if you need to over-ride a sponsor URL.
   - id: idevops
     level: community
     url: https://idevops.cloud/ # Use this if you need to over-ride a sponsor URL.
-  - id: universidade-de-fortaleza
+  - id: uni7
     level: gold
-    url: https://www.unifor.br/ # Use this if you need to over-ride a sponsor URL.
+    url: https://www.uni7.edu.br/ # Use this if you need to over-ride a sponsor URL.
 
 
 

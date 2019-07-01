@@ -202,7 +202,7 @@ sponsors:
     level: lanyard
   - id: jumpcloud
     level: gold 
-  - id: morpheusdata
+  - id: morpheus_data
     level: silver
   - id: mongodb
     level: gold
