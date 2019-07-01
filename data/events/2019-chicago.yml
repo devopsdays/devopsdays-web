@@ -192,6 +192,20 @@ sponsors:
     level: silver
   - id: logdna
     level: silver
+  - id: zoro
+    level: silver
+  - id: instana
+    level: silver
+  - id: circleci
+    level: silver
+  - id: activecampaign
+    level: lanyard
+  - id: jumpcloud
+    level: gold 
+  - id: morpheus_data
+    level: silver
+  - id: mongodb
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -213,6 +227,10 @@ sponsor_levels:
   - id: wifi
     label: Wifi
     max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+
 
 program:
   - title: "Registration, Breakfast, Sponsors"

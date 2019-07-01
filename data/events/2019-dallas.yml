@@ -235,6 +235,14 @@ sponsors:
     level: gold
   - id: pagerduty
     level: silver
+  - id: verizon
+    level: gold
+  - id: usaa
+    level: silver
+  - id: logdna
+    level: silver    
+#  - id: azulsystems
+#    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Keynote - Cloud Native Banking: como o Nubank usa imutabilidade na nuvem para atender milhões de clientes"
+Title = "(Keynote) - Cloud Native Banking: como o Nubank usa imutabilidade na nuvem para atender milhões de clientes"
 Type = "talk"
 Speakers = ["alexandre-cisneiros", "diogo-beato"]
 aliases = ["/events/2019-florianopolis/program/alexandre-cisneiros-diogo-beato/"]

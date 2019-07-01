@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Introduction to Provisioning Cloud Infrastructure With Terraform"
 Type = "talk"
 Speakers = ["jason-harley"]
+slideshare = "https://www.slideshare.net/JasonHarley3/building-immutable-machine-images-with-packer-and-ansible"
 +++
 
 Terraform is a declarative and powerful provisioning tool that has seen an explosion in use and supported technology since its initial release in July, 2014.
