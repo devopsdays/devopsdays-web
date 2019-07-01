@@ -1,7 +1,7 @@
 +++
 Title = "Cicilia Pinto"
 Twitter = ""
-image = ""
+image = "cicilia-pinto.png"
 type = "speaker"
 linktitle = "cicilia-pinto"
 
