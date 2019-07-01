@@ -1,7 +1,7 @@
 +++
 Title = "Lanay Marques"
 Twitter = ""
-image = ""
+image = "lanay-marques.png"
 type = "speaker"
 linktitle = "lanay-marques"
 
