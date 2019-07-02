@@ -65,7 +65,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
               <td align="center">Dedicated</td>
             </tr>
             <tr>
-              <th scope="row">Logo on DevOpsDays Galway 2018 website</th>
+              <th scope="row">Logo on DevOpsDays Galway 2019 website</th>
               <td align="center">&#10004;</td>
               <td align="center">&#10004;</td>
               <td align="center">&#10004;</td>
