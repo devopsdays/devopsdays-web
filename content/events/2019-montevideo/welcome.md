@@ -79,7 +79,7 @@ Our event pages are in Spanish, but don't worry [Google translator is your frien
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="Ver programa" >}}
+    {{< event_link page="program" text="Ver programa" >}}
   </div>
 </div>
 
