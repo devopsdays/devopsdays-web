@@ -240,7 +240,9 @@ sponsors:
   - id: usaa
     level: silver
   - id: logdna
-    level: silver    
+    level: silver
+  - id: sysdig
+    level: silver
 #  - id: azulsystems
 #    level: silver
 
