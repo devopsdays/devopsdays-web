@@ -40,7 +40,6 @@ The following chart outlines our sponsorship packages.
     <td><strong>Gold</strong></td>
     <td><strong>Platinum</strong></td>
     <td><strong>Live Captions</strong></td>
-    <td><strong>Happy Hour</strong></td>
   </tr>
   <tr class="hed2">
     <td></td>
@@ -50,11 +49,9 @@ The following chart outlines our sponsorship packages.
     <td><strong>$4,000 USD</strong></td>
     <td><strong>$6,000 USD</strong></td>
     <td><strong>$6,000 USD</strong></td>
-    <td><strong>$8,000 USD</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
-    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
@@ -70,14 +67,12 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Logo on all email communication</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
@@ -90,14 +85,12 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"></td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
   </tr>
@@ -109,24 +102,12 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
-  </tr>
-  <tr>
-    <td>5 minute pitch during happy hour</td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>1 included ticket total</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
-    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
@@ -139,7 +120,6 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
   </tr>
   <tr>
     <td>3 included tickets total</td>
@@ -149,7 +129,6 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
-    <td class="no"> </td>
   </tr>
   <tr>
     <td>4 included tickets total</td>
@@ -159,7 +138,6 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
   </tr>
   </tbody>
 </table>
@@ -244,28 +222,6 @@ become a Community Sponsor.
 * 10% discount code to share with your members
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2019 event website
-
-Please email the organizers at {{< email_organizers >}} about becoming a
-community sponsor.
-
-### Happy Hour - - Price $8,000 USD
-
-Happy Hour will be held the evening of Monday, July 8 immediately following the
-day's conference activities. All conference attendees will be invited to the
-happy hour.  Additionally, we may invite other members of the DC technical
-community to join us, space permitting.  There are two Happy Hour sponsorships
-available, each of which includes some special perks not listed in the table
-above.
-
-* 4 included tickets
-* Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays DC 2019 event website
-* Logo on all email communication
-* Dedicated table for swag during the conference
-* Dedicated table for swag during the happy hour
-* 10% discount code to share with your community
-* 1 minute pitch to full audience during the conference
-* 5 minute pitch to the happy hour attendees
 
 Please email the organizers at {{< email_organizers >}} about becoming a
 community sponsor.
