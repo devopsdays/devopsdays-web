@@ -29,6 +29,21 @@ The following chart outlines our sponsorship packages.
   table.sponsorship tr.hed1 td { border-bottom: 0px; text-align: center; }
   table.sponsorship tr.hed2 td { border-top: 0px; text-align: center; }
   table.sponsorship td.yes     { text-align: center; }
+  .stamp {
+    box-shadow: 0 0 0 3px blue, 0 0 0 2px blue inset;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 5px 2px;
+    line-height: 22px;
+    color: blue;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    opacity: 0.4;
+    width: 130px;
+    transform: rotate(-5deg);
+  }
 </style>
 <table class="sponsorship">
   <tbody>
@@ -46,9 +61,9 @@ The following chart outlines our sponsorship packages.
     <td><strong>$1,500 USD</strong></td>
     <td><strong>$4,000 USD</strong></td>
     <td><strong>$6,000 USD</strong></td>
-    <td><strong>$0 USD</strong></td>
-    <td><strong>$0 USD</strong></td>
-    <td><strong>SOLD OUT</strong></td>
+    <td><strong class="stamp">CLOSED</strong></td>
+    <td><strong class="stamp">CLOSED</strong></td>
+    <td><strong class="stamp">SOLD OUT</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
