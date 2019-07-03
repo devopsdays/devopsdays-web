@@ -34,21 +34,21 @@ The following chart outlines our sponsorship packages.
   <tbody>
   <tr class="hed1">
     <td><strong>Packages</strong></td>
-    <td><strong>Community</strong></td>
-    <td><strong>Media</strong></td>
     <td><strong>Silver</strong></td>
     <td><strong>Gold</strong></td>
     <td><strong>Platinum</strong></td>
-    <td><strong>Live Captions</strong></td>
+    <td><strong><span style="text-decoration: line-through;">Community</span></strong></td>
+    <td><strong><span style="text-decoration: line-through;">Media</span></strong></td>
+    <td><strong><span style="text-decoration: line-through;">Live Captions</span></strong></td>
   </tr>
   <tr class="hed2">
     <td></td>
-    <td><strong>$0 USD</strong></td>
-    <td><strong>$0 USD</strong></td>
     <td><strong>$1,500 USD</strong></td>
     <td><strong>$4,000 USD</strong></td>
     <td><strong>$6,000 USD</strong></td>
-    <td><strong>$6,000 USD</strong></td>
+    <td><strong>$0 USD</strong></td>
+    <td><strong>$0 USD</strong></td>
+    <td><strong>SOLD OUT</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
@@ -71,53 +71,53 @@ The following chart outlines our sponsorship packages.
   <tr>
     <td>Logo on all email communication</td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Shared table for swag/marketing during conference</td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>1 minute pitch to full audience</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="no"> </td>
   </tr>
   <tr>
     <td>1 included ticket total</td>
     <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
   </tr>
   <tr>
     <td>2 included tickets total</td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
   </tr>
@@ -134,9 +134,9 @@ The following chart outlines our sponsorship packages.
     <td>4 included tickets total</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="no"> </td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ The following chart outlines our sponsorship packages.
 
 [Become a Platinum Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
 
-### Live Captions - Price $6,000 USD
+### <span style="text-decoration: line-through;">Live Captions</span> - SOLD OUT
 
 The conference will provide live captioning of all presentations.  The captions will be available in the event space and transcripts will be available online after the event.
 
@@ -191,9 +191,7 @@ The conference will provide live captioning of all presentations.  The captions 
 * thanked by the MC each day
 * Sign on the captioning monitors - "Live captioning sponsored by $COMPANY NAME"
 
-[Become the Live Captions Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
-
-### Media - $0 USD
+### <span style="text-decoration: line-through;">Media</span> - SOLD OUT
 
 The media sponsorship is ideal for podcasts, blogs, news outlets, and other
 media who support DevOps.  This sponsorship is free but we ask that you share
@@ -211,7 +209,7 @@ Please email the organizers at {{< email_organizers >}} about becoming a media
 sponsor.
 
 
-### Community - $0 USD
+### <span style="text-decoration: line-through;">Community</span> - SOLD OUT
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
 other communities who support DevOps.  This sponsorship is free but we ask that
