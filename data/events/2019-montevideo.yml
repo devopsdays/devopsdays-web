@@ -139,6 +139,9 @@ sponsors:
   - id: redhat
     level: gold
 
+  - id: sabre
+    level: gold
+
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
