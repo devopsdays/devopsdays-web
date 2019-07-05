@@ -118,6 +118,10 @@ sponsors:
   - id: uni7
     level: gold
     url: https://www.uni7.edu.br/ # Use this if you need to over-ride a sponsor URL.
+  - id: osf
+    level: bronze
+  - id: jaguah
+    level: silver
 
 
 
