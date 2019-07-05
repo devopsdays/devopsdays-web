@@ -42,7 +42,7 @@ Description = "devopsdays sydney 2019"
         <strong>Register</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="registration" text="Register to attend the conference!" >}}
+        {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
       </div>
     </div>
     <div class="row">
