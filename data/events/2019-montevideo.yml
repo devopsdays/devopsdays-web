@@ -123,6 +123,13 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: oracle-linux
+    level: platinum
+
+  - id: oracle-mysql
+    level: platinum
+
+
 # Oro
 # ------------------------------------------------------------------------------
   - id: jpos
