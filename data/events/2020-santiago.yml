@@ -69,7 +69,7 @@ team_members: # Name is the only required field for team members.
     website: "http://variacode.com/site/"
 #    github: ""
     image: "benjamin.jpg"
-  - name: "Rosa Angela Medina Colmenares"
+  - name: "Rosangela Medina"
     employer: "Consultora Independiente"
 #    role: ""
 #    bio: ""
@@ -118,7 +118,7 @@ team_members: # Name is the only required field for team members.
     facebook: ""
     website: "http://www.researchgate.net/profile/Reisel_Gonzalez_Perez"
     github: ""
-    image: ".jpg"
+    image: "reisel.jpg"
 
 organizer_email: "organizers-santiago-2020@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-santiago-2020@devopsdays.org" # Put your proposal email address here
