@@ -173,6 +173,11 @@ program:
     date: 2019-07-24
     start_time: "13:00"
     end_time: "17:00"
+  - title: "Training - Navigating Your DevOps Journey by John Esser of Veracity Solutions"
+    type: custom
+    date: 2019-07-24
+    start_time: "13:00"
+    end_time: "17:00"
   - title: "Happy hour appetizers"
     type: custom
     date: 2019-07-24
