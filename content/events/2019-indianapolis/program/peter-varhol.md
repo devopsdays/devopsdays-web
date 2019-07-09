@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Enabling Digital Transformation Through DevOps"
 Type = "talk"
-Speakers = ["gerie-owen"]
+Speakers = ["peter-varhol"]
 +++
 
 To be successful in today’s business environment, virtually all

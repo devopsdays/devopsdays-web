@@ -213,7 +213,7 @@ program:
     date: 2019-07-25
     start_time: "10:25"
     end_time: "10:40"
-  - title: "gerie-owen"
+  - title: "peter-varhol"
     type: talk
     date: 2019-07-25
     start_time: "10:40"
@@ -371,6 +371,8 @@ program:
 
 ignites:
   - title: "tiffany-longworth"
+    date: 2019-07-25
+  - title: "martez-reed-intelligentpipelines"
     date: 2019-07-25
   - title: "allie-richards-goldengirls"
     date: 2019-07-25
