@@ -185,7 +185,7 @@ program:
     date: 2019-07-24
     start_time: "17:00"
     end_time: "18:00"
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration and Breakfast"
     type: custom
     date: 2019-07-25
     start_time: "08:00"
@@ -280,7 +280,7 @@ program:
     date: 2019-07-25
     start_time: "18:00"
     end_time: "late"
-  - title: "Registration, Breakfast, Sponsors"
+  - title: "Registration and Breakfast"
     type: custom
     date: 2019-07-26
     start_time: "08:00"
