@@ -1,7 +1,7 @@
 +++
 Title = "Jeferson Noronha"
 Twitter = "badtux_"
-image = ""
+image = "jeferson-noronha.jpg"
 type = "speaker"
 linktitle = "jeferson-noronha"
 
