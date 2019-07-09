@@ -130,6 +130,12 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: nutanix
+    level: gold
+  - id: oraclecloud
+    level: alacarte
+  - id: gitlab
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -163,6 +169,11 @@ program:
     start_time: "13:00"
     end_time: "17:00"
   - title: "Training - Cloud Native Continuous Delivery with GoCD by ThoughtWorks"
+    type: custom
+    date: 2019-07-24
+    start_time: "13:00"
+    end_time: "17:00"
+  - title: "Training - Navigating Your DevOps Journey by John Esser of Veracity Solutions"
     type: custom
     date: 2019-07-24
     start_time: "13:00"
@@ -202,7 +213,7 @@ program:
     date: 2019-07-25
     start_time: "10:25"
     end_time: "10:40"
-  - title: "gerie-owen"
+  - title: "peter-varhol"
     type: talk
     date: 2019-07-25
     start_time: "10:40"
@@ -361,7 +372,7 @@ program:
 ignites:
   - title: "tiffany-longworth"
     date: 2019-07-25
-  - title: "prabhu-barathi"
+  - title: "martez-reed-intelligentpipelines"
     date: 2019-07-25
   - title: "allie-richards-goldengirls"
     date: 2019-07-25

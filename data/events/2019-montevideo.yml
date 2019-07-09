@@ -123,6 +123,13 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: oracle-linux
+    level: platinum
+
+  - id: oracle-mysql
+    level: platinum
+
+
 # Oro
 # ------------------------------------------------------------------------------
   - id: jpos
@@ -137,6 +144,9 @@ sponsors:
     level: gold
 
   - id: redhat
+    level: gold
+
+  - id: sabre
     level: gold
 
 # Plata
@@ -154,6 +164,9 @@ sponsors:
     level: silver
 
   - id: stb
+    level: silver
+
+  - id: accsa
     level: silver
 
 
@@ -265,8 +278,8 @@ program:
     start_time: "08:00"
     end_time: "09:00"
 
-  - title: "Opening & Welcome Panel"
-    type: custom
+  - title: "opening"
+    type: talk
     date: 2019-08-21
     start_time: "09:00"
     end_time: "09:40"
@@ -283,7 +296,7 @@ program:
     start_time: "09:50"
     end_time: "10:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-21
     start_time: "10:30"
@@ -325,7 +338,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-21
     start_time: "15:30"
@@ -381,7 +394,7 @@ program:
     start_time: "10:00"
     end_time: "10:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-22
     start_time: "10:30"
@@ -423,7 +436,7 @@ program:
     start_time: "15:00"
     end_time: "15:30"
 
-  - title: "Cofee Break - Sponsor Hall"
+  - title: "Coffee Break - Sponsor Hall"
     type: break
     date: 2019-08-22
     start_time: "15:30"

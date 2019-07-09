@@ -125,6 +125,14 @@ sponsors:
     level: platinum
   - id: logdna
     level: gold
+  - id: signalfx
+    level: gold
+  - id: overops
+    level: gold
+  - id: jumpcloud
+    level: platinum
+  - id: netapp
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

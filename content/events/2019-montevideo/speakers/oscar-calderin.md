@@ -2,7 +2,7 @@
 Title = "Oscar Calderin"
 Twitter = "ocalderin13"
 Linkedin = "https://www.linkedin.com/in/ocalderin14/"
-image = ""
+image = "oscar-calderin.png"
 type = "speaker"
 linktitle = "oscar-calderin"
 
