@@ -15,7 +15,7 @@ cfp_date_start: 2019-05-27T00:00:00-03:00 # start accepting talk proposals.
 cfp_date_end: 2019-06-23T23:06:00-03:00 # close your call for proposals.
 cfp_date_announce: 2019-07-01T21:00:00-03:00 # inform proposers of status
 
-cfp_open: "true"
+cfp_open: "false"
 cfp_link: "https://www.papercall.io/devopsdaysgyn2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-05-27T00:00:00-03:00 # start accepting registration. Leave blank if registration is not open yet
@@ -112,6 +112,8 @@ sponsors:
   - id: samplesponsorname
     level: gold
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
+  - id: caco-moreira
+    level: silver
   - id: devopsgo
     level: community
   - id: docker-goiania
@@ -138,6 +140,7 @@ sponsor_levels:
 #    max: 10
   - id: community
     label: Comunidade
+
 program:
   - title: "Credenciamento & Coffee-Break"
     type: custom
@@ -155,26 +158,26 @@ program:
   #   date: 2019-08-03T08:00:00-03:00
   #   start_time: "09:15"
   #   end_time: "10:00"
-  - title: "Keynote"
-    type: custom
+  - title: "guto-carvalho"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "09:15"
     end_time: "10:00"
     background_color: "#FF8300"
-  - title: "Talk 1"
-    type: custom
+  - title: "barbara-cabral"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "10:00"
     end_time: "10:30"
     background_color: "#99E6FF"
-  - title: "Talk 2"
-    type: custom
+  - title: "rafael-braga"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "10:30"
     end_time: "11:00"
     background_color: "#99E6FF"
-  - title: "Talk 3"
-    type: custom
+  - title: "rafael-barbosa"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "11:00"
     end_time: "11:45"
@@ -184,26 +187,26 @@ program:
     date: 2019-08-03T08:00:00-03:00
     start_time: "11:45"
     end_time: "13:30"
-  - title: "Talk 4"
-    type: custom
+  - title: "marcelo-paiva"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "13:30"
     end_time: "14:00"
     background_color: "#99E6FF"
-  - title: "Talk 5"
-    type: custom
+  - title: "raphael-moura"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "14:00"
     end_time: "14:30"
     background_color: "#99E6FF"
-  - title: "Talk 6"
-    type: custom
+  - title: "sidney-cirqueira"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "14:30"
     end_time: "15:00"
     background_color: "#99E6FF"
-  - title: "Talk 7"
-    type: custom
+  - title: "alline-oliveira"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "15:00"
     end_time: "15:30"
@@ -213,13 +216,13 @@ program:
     date: 2019-08-03T08:00:00-03:00
     start_time: "15:30"
     end_time: "16:00"
-  - title: "Talk 8"
-    type: custom
+  - title: "joao-neto"
+    type: talk
     date: 2019-08-03T08:00:00-03:00
     start_time: "16:00"
     end_time: "16:30"
     background_color: "#99E6FF"
-  - title: "Ignite Talks"
+  - title: "Fishbowl"
     type: custom
     date: 2019-08-03T08:00:00-03:00
     start_time: "16:30"
