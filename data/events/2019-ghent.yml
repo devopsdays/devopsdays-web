@@ -107,6 +107,8 @@ sponsors:
     level: gold
   - id: rancher
     level: gold
+  - id: sentia
+    level: gold
   # silver
   - id: dpg-media
     level: silver
