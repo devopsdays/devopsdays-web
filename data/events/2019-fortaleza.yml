@@ -124,6 +124,8 @@ sponsors:
     level: silver
   - id: hostweb
     level: silver
+  - id: aws
+    level: gold
 
 
 
