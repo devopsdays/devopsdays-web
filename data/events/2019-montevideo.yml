@@ -123,6 +123,13 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: oracle-linux
+    level: platinum
+
+  - id: oracle-mysql
+    level: platinum
+
+
 # Oro
 # ------------------------------------------------------------------------------
   - id: jpos
@@ -137,6 +144,9 @@ sponsors:
     level: gold
 
   - id: redhat
+    level: gold
+
+  - id: sabre
     level: gold
 
 # Plata
@@ -157,6 +167,9 @@ sponsors:
     level: silver
 
   - id: accsa
+    level: silver
+
+  - id: netlabs
     level: silver
 
 

@@ -210,6 +210,14 @@ sponsors:
     level: gold
   - id: chef
     level: gold
+  - id: mnclude
+    level: community
+  - id: newrelic
+    level: gold
+  - id: newrelic
+    level: alacarte
+  - id: atomist
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

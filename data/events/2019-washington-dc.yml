@@ -288,12 +288,10 @@ sponsor_link: "https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONS
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-  - id: captioning
-    label: Live Caption
   - id: platinum
     label: Platinum
+  - id: captioning
+    label: Live Caption
   - id: gold
     label: Gold
   - id: silver
@@ -340,6 +338,8 @@ sponsors:
     level: platinum
   - id: circleci
     level: gold
+  - id: govready
+    level: captioning
   - id: dynatrace
     level: gold
   - id: sts
