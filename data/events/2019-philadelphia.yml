@@ -84,11 +84,15 @@ sponsors:
   - id: dynatrace
     level: gold
   - id: netapp
-    level: silver
+    level: gold
+  - id: sonatype
+    level: gold
   - id: overops
     level: silver
   - id: arresteddevops
     level: community
+  - id: linode
+    level: lanyard
 
 sponsors_accepted : "yes"
 
@@ -99,6 +103,8 @@ sponsor_levels:
     label: Gold
   - id: silver
     label: Silver
+  - id: lanyard
+    label: Lanyard
   - id: community
     label: Community
 
