@@ -155,7 +155,9 @@ sponsors:
   - id: chef
     level: gold
   - id: gitlab
-    level: silver 
+    level: silver
+  - id: activecampaign
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
