@@ -265,14 +265,14 @@ sponsor_levels:
   - id: community
     label: Community
     # max: 0 # This is the same as omitting the max limit.
+  - id: socialevent
+    label: Social Event
   - id: sticker
     label: Sticker
   - id: media
     label: Media
   - id: socialwall
     label: Social Wall
-  - id: socialevent
-    label: Social Event
 
 # Program
 # ------------------------------------------------------------------------------
