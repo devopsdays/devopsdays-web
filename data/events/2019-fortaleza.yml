@@ -126,7 +126,10 @@ sponsors:
     level: gold
   - id: hostweb
     level: silver
-
+  - id: linuxtips
+    level: community
+  - id: estabilis
+    level: community
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
