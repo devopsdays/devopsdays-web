@@ -219,6 +219,11 @@ sponsors:
     level: sticker
     url: "https://www.stickermule.com/supports/devopsdaysmvd"
 
+# Social Event
+# ------------------------------------------------------------------------------
+  - id: microsoft
+    level: socialevent
+
 # Media
 # ------------------------------------------------------------------------------
   - id: montevideocomm
@@ -237,9 +242,6 @@ sponsors:
 # TBD sponsors
 # ------------------------------------------------------------------------------
   #- id: at-uruguay
-  #- id: arnaldocastro
-  #- id: microsoft
-
   #- id: lenovo
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -269,6 +271,8 @@ sponsor_levels:
     label: Media
   - id: socialwall
     label: Social Wall
+  - id: socialevent
+    label: Social Event
 
 # Program
 # ------------------------------------------------------------------------------
