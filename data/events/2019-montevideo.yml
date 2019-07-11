@@ -149,6 +149,9 @@ sponsors:
   - id: sabre
     level: gold
 
+  - id: atvmware
+    level: gold
+
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
