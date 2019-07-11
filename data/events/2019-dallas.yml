@@ -2,7 +2,7 @@ name: "2019-dallas" # The name of the event. Four digit year with the city name 
 year: "2019" # The year of the event. Make sure it is in quotes.
 city: "Dallas" # The displayed city name of the event. Capitalize it.
 event_twitter: "devopsdaysdfw" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
-description: "The same group of seasoned organizers that brought you DevOpsDays DFW several years in a row will be back again another year in 2019 planning what they believe will be an even more awesome event. They were encouraged and motivated by the feedback received from previous year's events, which is why they are determined to bring an even better experience this year and improve the DevOps conversation throughout the DFW Metroplex." # Edit this to suit your preferences
+description: "" # Edit this to suit your preferences
 ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted YYYY-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -14,11 +14,11 @@ startdate: 2019-08-20T00:00:00-05:00 # The start date of your event. Leave blank
 enddate: 2019-08-21T23:59:59-05:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-05-09T09:00:00-05:00 # start accepting talk proposals.
+cfp_date_end: 2019-07-08T23:59:59-05:00 # close your call for proposals.
+cfp_date_announce: 2019-07-15T12:00:00-05:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/dod-dfw-2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 masthead_background: "PlanoEventCenter.jpg"
 
@@ -35,11 +35,11 @@ location: "Plano Event Center" # Defaults to city, but you can make it the venue
 location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
   - name: location
+  - name: propose
   - name: program
   - name: registration
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -80,16 +80,16 @@ team_members: # Name is the only required field for team members.
     website: "https://www.capitalone.com/"
     github: "https://github.com/mandersen94/"
     image: "mark-andersen.jpg" 
-  - name: "Carlos Nuñez"
-    employer: "Organizer Role - CFP / Paper Review / Program Schedule"
-    role: "RoundTower Technologies, LLC"
-    bio: "Carlos is a Engineer at RoundTower Technologies, LLC which is a systems integrator that provides innovative solutions and services in the areas of data center infrastructure, converged platforms, cloud automation and orchestration, DevOps, and data analytics. His mission is to use the DevOps metholodogy and Agile delivery to enable every company in the Midwest and Southwest to be software-first tech companies through modern infrastructure, faster and safer software delivery and more transparent and influential IT organizations. <br><br>He's passionate about enabling faster, leaner businesses by breaking down silos between development, operations, marketing, sales and business development/operations. <br><br>Carlos is the Founder Organizer for HashiCorp Users Group of Dallas. On his off time, he enjoys road biking, working out, writing, visiting new breweries and doing badly at trivia."
-    twitter: "easiestnameever"
-    linkedin: "https://www.linkedin.com/in/carlosindfw/"
-#   facebook: ""
-    website: ""
-    github: "https://github.com/carlosonunez"
-    image: "carlos.jpg"
+#  - name: "Carlos Nuñez"
+#    employer: "Organizer Role - CFP / Paper Review / Program Schedule"
+#    role: "RoundTower Technologies, LLC"
+#    bio: "Carlos is a Engineer at RoundTower Technologies, LLC which is a systems integrator that provides innovative solutions and services in the areas of data center infrastructure, converged platforms, cloud automation and orchestration, DevOps, and data analytics. His mission is to use the DevOps metholodogy and Agile delivery to enable every company in the Midwest and Southwest to be software-first tech companies through modern infrastructure, faster and safer software delivery and more transparent and influential IT organizations. <br><br>He's passionate about enabling faster, leaner businesses by breaking down silos between development, operations, marketing, sales and business development/operations. <br><br>Carlos is the Founder Organizer for HashiCorp Users Group of Dallas. On his off time, he enjoys road biking, working out, writing, visiting new breweries and doing badly at trivia."
+#    twitter: "easiestnameever"
+#    linkedin: "https://www.linkedin.com/in/carlosindfw/"
+#    facebook: ""
+#    website: ""
+#    github: "https://github.com/carlosonunez"
+#    image: "carlos.jpg"
   - name: "Franklin Mosley"
     employer: "Organizer Role - CFP (Lead) / Paper Review / Program Schedule"
     role: "PagerDuty"
@@ -204,7 +204,49 @@ sponsors:
 #  level: gold
 #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
+    level: media
+  - id: devopslive
     level: community
+  - id: addo
+    level: community
+  - id: ansible-dallas
+    level: community
+  - id: ansible-fw
+    level: community
+  - id: devops-dfw
+    level: community
+  - id: dfwpug
+    level: community
+  - id: dynatrace
+    level: silver
+  - id: stackrox
+    level: gold
+  - id: victorops
+    level: gold
+  - id: liatrio
+    level: silver
+  - id: instana
+    level: silver
+  - id: signalfx
+    level: platinum
+  - id: statefarm
+    level: platinum
+  - id: securecodewarrior
+    level: gold
+  - id: pagerduty
+    level: silver
+  - id: verizon
+    level: gold
+  - id: usaa
+    level: silver
+  - id: logdna
+    level: silver
+  - id: sysdig
+    level: silver
+  - id: rundeck
+    level: gold
+  - id: azulsystems
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -213,20 +255,18 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: location_and_diamond
-    label: Location & Diamond
+  - id: diamond
+    label: Diamond
     max: 1
-  - id: leadership
-    label: Leadership Summit
-  - id: b4con
-    label: B4CON
-    max: 20
-# - id: gold
-#   label: Gold
-#   max: 10
-# - id: silver
-#   label: Silver
-#   max: 10
+  - id: platinum
+    label: Platinum
+    max: 10
+  - id: gold
+    label: Gold
+    max: 10
+  - id: silver
+    label: Silver
+    max: 10
 # - id: workshop
 #   label: Workshop
 #   max: 3
@@ -235,9 +275,10 @@ sponsor_levels:
 #   max: 0 # This is the same as omitting the max limit.
   - id: media
     label: Media
+    max: 5
   - id: community
     label: Community
-    max: 5
+    max: 10
 
 program:
   - title: "Registration, and Breakfast"

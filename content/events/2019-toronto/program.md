@@ -1,6 +1,6 @@
 +++
 Title = "Program"
-Type = "event"
+Type = "program"
 Description = "Program for DevOpsDays Toronto 2019"
 +++
 
@@ -11,18 +11,3 @@ Description = "Program for DevOpsDays Toronto 2019"
     <hr />
   </div>
 </div>
-
-<script src="https://pheedloop.s3.amazonaws.com/embed/embed.js"></script>
-<link rel="stylesheet" type="text/css" href="https://pheedloop.s3.amazonaws.com/embed/embed.css" />
-
-<a class="pheedloop-popup-10875 popup-btn">Schedule</a>
-<div id="pheedloop-embed-10875"></div>
-
-<script type="text/javascript">
-  createSection({
-    event: 'dodto19',
-    section: '10875',
-    height: 2000,
-    popup: false
-  });
-</script>

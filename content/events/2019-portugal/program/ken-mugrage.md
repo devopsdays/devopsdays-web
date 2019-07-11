@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-04"
+Talk_start_time = "12:30"
+Talk_end_time = "13:00"
 Title = "Modern Continuous Delivery - A story of 3 real projects"
 Type = "talk"
 Speakers = ["ken-mugrage"]

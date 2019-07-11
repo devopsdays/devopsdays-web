@@ -132,6 +132,8 @@ proposal_email: "proposals-austin-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: solarwinds
     level: happyhour
+  - id: ciscodevnet
+    level: happyhour
   - id: newrelic
     level: platinum
   - id: codefresh
@@ -181,9 +183,24 @@ sponsors:
     level: gold
   - id: roguewave
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: victorops
+    level: gold
   - id: cyberark
     level: silver
+  - id: aws
+    level: silver
+    url: https://aws.amazon.com/
+  - id: jeffersonfrank
+    level: silver
   - id: f5
+    level: mealandsnack
+  - id: signalfx
+    level: mealandsnack
+  - id: gravitational
+    level: mealandsnack
+  - id: rundeck
     level: mealandsnack
   - id: devopsdotcom
     level: media

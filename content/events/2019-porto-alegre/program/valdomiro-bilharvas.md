@@ -2,7 +2,7 @@
 Talk_date = "2019-05-25"
 Talk_start_time = "15:15"
 Talk_end_time = "15:35"
-Title = "Squads mais eficientes com Devops"
+Title = "Squads mais eficientes com DevOps"
 Type = "talk"
 Speakers = ["valdomiro-bilharvas"]
 +++

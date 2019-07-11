@@ -126,6 +126,8 @@ sponsors:
     level: bronze
   - id: attendify
     level: bronze
+  - id: microsoft
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

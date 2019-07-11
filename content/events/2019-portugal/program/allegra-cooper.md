@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-06-03"
+Talk_start_time = "10:10"
+Talk_end_time = "10:40"
 Title = "Applying Shift Left Test Strategy for Higher Quality"
 Type = "talk"
 Speakers = ["allegra-cooper"]

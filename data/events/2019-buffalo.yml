@@ -36,7 +36,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #  - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
   - name: speakers
   - name: sponsor
   - name: contact
@@ -81,6 +81,15 @@ sponsors:
   - id: mandtbank
     level: gold
     url: https://www.mtb.com
+  - id: adrianroselli
+    level: community
+    url: http://adrianroselli.com
+  - id: newrelic
+    level: silver
+    url: https://newrelic.com
+  - id: bcbswny
+    level: gold
+    url: https://www.bcbswny.com/content/wny/careers.html
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -100,3 +109,155 @@ sponsor_levels:
     max: 5
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "bryan-liles"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "jennifer-petoff"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "chris-van-tuin"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors - M&T Technology"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "10:50"
+    end_time: "10:55"
+  - title: "jameson-hampton"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "akashdeep-singh"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "aaron-aldrich"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "Ignites from Waldo G, Long Nguyen, JJ Ashgar, and Bill Chapman"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "stacey-jenkins"
+    type: talk
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Close Day"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "17:15"
+    end_time: "17:30"
+  - title: "Evening event"
+    type: custom
+    date: 2019-09-26T00:00:00-04:00
+    start_time: "19:00"
+    end_time: "late"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "08:00"
+    end_time: "08:45"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "08:45"
+    end_time: "09:00"
+  - title: "ken-mugrage"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "09:00"
+    end_time: "09:30"
+  - title: "nell-shamrell-harrington"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "09:40"
+    end_time: "10:10"
+  - title: "tom-mclaughlin"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "10:20"
+    end_time: "10:50"
+  - title: "Sponsors - ACV Auctions"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "10:50"
+    end_time: "10:55"
+  - title: "Sponsors - Stark & Wayne"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "10:55"
+    end_time: "11:00"
+  - title: "veronica-hanus"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "ramin-keene"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "11:40"
+    end_time: "12:10"
+  - title: "Lunch"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "12:10"
+    end_time: "13:30"
+  - title: "james-hunt"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "13:30"
+    end_time: "14:00"
+  - title: "Open Space Opening"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "lakshmi-baskaran"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "16:10"
+    end_time: "16:40"
+  - title: "fawzy-manaa"
+    type: talk
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "16:45"
+    end_time: "17:15"
+  - title: "Closing"
+    type: custom
+    date: 2019-09-27T23:59:59-04:00
+    start_time: "17:15"
+    end_time: "17:30"

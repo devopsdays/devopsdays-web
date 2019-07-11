@@ -42,6 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: justification
+    url: https://docs.google.com/document/d/1_bxlAO8Q2le-hSVYaoEbBQ1nG3ftT838NM5xAoeZ0h8/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -165,8 +167,12 @@ organizer_email: "organizers-kansas-city-2019@devopsdays.org" # Put your organiz
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: gitlab
+    level: premium
+  - id: dynatrace
+    level: premium
+  - id: contrast_security
+    level: premium
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
@@ -178,13 +184,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: gold
-    label: Gold
+  - id: premium
+    label: Premium
 #    max: 10
-  - id: silver
-    label: Silver
+  - id: special
+    label: Special
     max: 0 # This is the same as omitting the max limit.
-  - id: bronze
-    label: Bronze
+  - id: supporting
+    label: Supporting
   - id: community
     label: Community

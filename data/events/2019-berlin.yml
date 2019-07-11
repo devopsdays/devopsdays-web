@@ -111,10 +111,16 @@ sponsors:
     level: partner
   - id: admin-magazine
     level: partner
+  - id: sparheld
+    level: partner
+  - id: polarsquad
+    level: platinum
   - id: 2016-idealo
     level: platinum
   - id: talentio
     level: platinum
+  - id: 2016-norisnetwork
+    level: eveningevent
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
