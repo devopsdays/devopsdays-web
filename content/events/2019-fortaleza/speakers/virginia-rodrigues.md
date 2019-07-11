@@ -1,7 +1,7 @@
 +++
 Title = "Virginia Rodrigues"
 Twitter = ""
-image = ""
+image = "virginia-rodrigues.png"
 type = "speaker"
 linktitle = "virginia-rodrigues"
 
