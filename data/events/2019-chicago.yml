@@ -239,7 +239,7 @@ sponsor_levels:
     label: Lanyard
     max: 1
   - id: transcription
-    level: Live transcription
+    level: Live Transcription
     max: 1
   - id: lunch
     level: Lunch
