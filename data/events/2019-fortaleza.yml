@@ -130,6 +130,10 @@ sponsors:
     level: community
   - id: estabilis
     level: community
+  - id: portfolio
+    level: gold
+  - id: platformbuilders
+    level: silver
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
