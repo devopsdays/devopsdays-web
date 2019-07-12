@@ -222,6 +222,8 @@ sponsors:
     level: community
   - id: microsoftazure
     level: silver
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
