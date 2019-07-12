@@ -210,6 +210,10 @@ sponsors:
     level: silver
   - id: activecampaign
     level: silver
+  - id: discover
+    level: lunch
+  - id: oraclecloud
+    level: transcription
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -234,6 +238,12 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
+  - id: transcription
+    level: Live transcription
+    max: 1
+  - id: lunch
+    level: Lunch
+    max: 2
 
 
 program:
