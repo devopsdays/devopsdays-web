@@ -212,6 +212,14 @@ sponsors:
     level: gold
   - id: mnclude
     level: community
+  - id: newrelic
+    level: gold
+  - id: newrelic
+    level: alacarte
+  - id: atomist
+    level: silver
+  - id: wwcodetc
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

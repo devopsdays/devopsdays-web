@@ -208,6 +208,10 @@ sponsors:
     level: gold
   - id: tempus
     level: silver
+  - id: activecampaign
+    level: silver
+  - id: discover
+    level: lunch
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -218,10 +222,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
@@ -232,6 +236,12 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
+  - id: transcription
+    level: Live transcription
+    max: 1
+  - id: lunch
+    level: Lunch
+    max: 2
 
 
 program:
