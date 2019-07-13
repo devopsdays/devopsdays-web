@@ -11,6 +11,7 @@ Resilience Engineering (RE) is both multidisciplinary field of study as well as 
 
 * [Video](https://youtu.be/9f4-Z8Tasa8)
 * [Slides](https://speakerdeck.com/jallspaw/resilience-engineering-how-and-what)
+* [Audio](http://traffic.libsyn.com/devopsdays/resilience-engineeing-john-allspaw.mp3)
 * [Transcript](/events/2019-washington-dc/transcripts/resilience-engineering.pdf")
 
 
