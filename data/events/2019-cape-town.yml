@@ -80,6 +80,10 @@ proposal_email: "proposals-cape-town-2019@devopsdays.org"
 sponsors:
   - id: zappi
     level: gold
+  - id: gitlab
+    level: gold
+  - id: elastic
+    level: gold
   - id: arresteddevops
     level: community
 
