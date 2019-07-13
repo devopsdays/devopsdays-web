@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2019-07-08"
+Talk_start_time = "09:20"
+Talk_end_time = "10:00"
 Title = "Resilience Engineering: The What and How"
 Type = "talk"
 Speakers = ["john-allspaw"]
@@ -12,7 +12,7 @@ Resilience Engineering (RE) is both multidisciplinary field of study as well as 
 * [Video](https://youtu.be/9f4-Z8Tasa8)
 * [Slides](https://speakerdeck.com/jallspaw/resilience-engineering-how-and-what)
 * [Audio](http://traffic.libsyn.com/devopsdays/resilience-engineeing-john-allspaw.mp3)
-* [Transcript](/events/2019-washington-dc/transcripts/resilience-engineering.pdf")
+* [Transcript](/events/2019-washington-dc/transcripts/resilience-engineering.pdf)
 
 
 ## Video
