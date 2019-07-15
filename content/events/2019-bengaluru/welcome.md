@@ -1,9 +1,13 @@
 +++
-Title = "DevopsDays Madrid 2020"
+Title = "devopsdays Bengaluru 2019"
 Type = "welcome"
-aliases = ["/events/2020-madrid"]
-Description = "DevopsDays Madrid 2020"
+aliases = ["/events/2019-bengaluru/"]
+Description = "devopsdays Bengaluru 2019"
 +++
+
+<!-- <div style="text-align:center;">
+  {{< event_logo >}}
+</div> -->
 
 <div class = "row">
   <div class = "col-md-2">
@@ -20,6 +24,24 @@ Description = "DevopsDays Madrid 2020"
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Register</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose</strong>
+  </div>
+  <div class = "col-md-8">
+    {{< event_link page="propose" text="Propose a talk!" >}}
   </div>
 </div>
 
@@ -43,29 +65,21 @@ Description = "DevopsDays Madrid 2020"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>MORE DETAILS</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+    <strong><a href="http://devopsdaysindia.org">CLICK HERE to get all the conference details!!</a></strong><br>
   </div>
 </div>
-
+<br>
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
+    <strong><a href="https://devopsdaysindia.org/#contact">CLICK HERE to get in touch with the organizers.</a></strong>
   </div>
 </div>
+<br>
 
-<div style="text-align:center;">
-  {{< event_logo >}}
-</div>
-<br />
-
-
-<!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->

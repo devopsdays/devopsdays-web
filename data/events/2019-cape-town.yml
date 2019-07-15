@@ -54,13 +54,13 @@ team_members:
     bio: "Adrian is VP of Engineering at SweepSouth. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
   - name: "Cobus Bernard"
     image: "cobus-bernard.jpg"
-    employer: "Blue Battleship"
+    employer: "Amazon Web Services"
     twitter: "cobusbernard"
     github: "cobusbernard"
     linkedin: "https://www.linkedin.com/in/cobusbernard/"
     facebook: "https://www.facebook.com/cobusbernard"
     website: "http://cobus.io/"
-    bio: "Cobus is currently working with Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
+    bio: "Cobus is the AWS Senior Technical Evangelist for Sub-Saharan Africa. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
   - name: "Roxanne Davids"
     image: "roxanne-davids.jpg"
     twitter: "@ourfirepath"
@@ -79,6 +79,12 @@ proposal_email: "proposals-cape-town-2019@devopsdays.org"
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: zappi
+    level: gold
+  - id: gitlab
+    level: gold
+  - id: elastic
+    level: gold
+  - id: equalexperts
     level: gold
   - id: arresteddevops
     level: community

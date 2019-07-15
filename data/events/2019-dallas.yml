@@ -247,6 +247,10 @@ sponsors:
     level: gold
   - id: azulsystems
     level: silver
+  - id: chef
+    level: gold
+  - id: newrelic
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

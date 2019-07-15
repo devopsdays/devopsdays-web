@@ -214,6 +214,14 @@ sponsors:
     level: lunch
   - id: oraclecloud
     level: transcription
+  - id: microsoft
+    level: gold
+  - id: vmware
+    level: gold
+  - id: workiva
+    level: gold
+  - id: newrelic
+    level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -239,10 +247,10 @@ sponsor_levels:
     label: Lanyard
     max: 1
   - id: transcription
-    level: Live Transcription
+    label: Live Transcription
     max: 1
   - id: lunch
-    level: Lunch
+    label: Lunch
     max: 2
 
 

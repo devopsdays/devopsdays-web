@@ -1,7 +1,7 @@
 +++
 Title = "Contact"
 Type = "event"
-Description = "Contact information for DevopsDays Madrid 2020"
+Description = "Contact information for devopsdays Bengaluru 2019"
 +++
 
 If you'd like to contact us by email: {{< email_organizers >}}
@@ -10,6 +10,6 @@ If you'd like to contact us by email: {{< email_organizers >}}
 
 {{< list_organizers >}}
 
-**The core DevopsDays organizer group**
+**The core devopsdays organizer group**
 
 {{< list_core >}}
