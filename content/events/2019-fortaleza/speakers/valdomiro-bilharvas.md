@@ -1,7 +1,7 @@
 +++
 Title = "Valdomiro Bilharvas"
 Twitter = ""
-image = ""
+image = "valdomiro-bilharvas.png"
 type = "speaker"
 linktitle = "valdomiro-bilharvas"
 
