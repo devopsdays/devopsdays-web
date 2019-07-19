@@ -78,7 +78,7 @@ in promotional materials. The preferred file formats are EPS or AI.
     </tr>
     <tr>
       <td style="border-bottom: 0; border-top: 0;"></td>
-      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
+      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship">Email us</a> if you prefer to pay by check</td>
     </tr>
     <tr>
       <td>Included tickets</td>
