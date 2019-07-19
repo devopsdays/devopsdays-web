@@ -96,8 +96,10 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # platinum
+  - id: puppet
+    level: platinum
   # social
-  # exclusive
   # gold
   - id: pagerduty
     level: gold
@@ -108,6 +110,8 @@ sponsors:
   - id: rancher
     level: gold
   - id: sentia
+    level: gold
+  - id: elastic
     level: gold
   # silver
   - id: dpg-media
