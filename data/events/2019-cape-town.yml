@@ -86,6 +86,8 @@ sponsors:
     level: gold
   - id: equalexperts
     level: gold
+  - id: offerzen
+    level: gold
   - id: arresteddevops
     level: community
 
