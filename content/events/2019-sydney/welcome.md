@@ -31,22 +31,6 @@ Description = "devopsdays sydney 2019"
     </div>
     <div class="row">
       <div class="col-md-2">
-        <strong>Location</strong>
-      </div>
-      <div class="col-md-6">
-        {{< event_location >}}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <strong>Register</strong>
-      </div>
-      <div class="col-md-6">
-        {{< event_link url-key="registration_link" text="Register to attend the conference!" >}}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
         <strong>Propose</strong>
       </div>
       <div class="col-md-6">
@@ -63,10 +47,10 @@ Description = "devopsdays sydney 2019"
     </div>
     <div class="row">
       <div class="col-md-2">
-        <strong>Contact</strong>
+        <strong>Visit</strong>
       </div>
       <div class="col-md-6">
-        {{< event_link page="contact" text="Get in touch with the organizers" >}}
+        <a href="https://www.devopsdayssydney.org">Official Website</a>
       </div>
     </div>
   </div>
