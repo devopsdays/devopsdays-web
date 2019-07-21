@@ -92,13 +92,14 @@ sponsors:
   - id: kloia
     level: gold
 
-#   - id: opsgenie
-#     level: gold
 
   - id: t4a
     level: gold
   - id: vngrs
     level: gold
+
+  - id: logo-yazilim
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

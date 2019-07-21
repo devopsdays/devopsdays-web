@@ -42,6 +42,8 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: sponsor
   - name: contact
   - name: conduct
+  - name: justification
+    url: https://docs.google.com/document/d/1_bxlAO8Q2le-hSVYaoEbBQ1nG3ftT838NM5xAoeZ0h8/edit?usp=sharing
 # - name: example
 #   icon: "map-o" # This is a font-awesome icon that will display on small screens. Choose at http://fontawesome.io/icons/
 #   url: http://mycfp.com # The url setting is optional, and only if you want the navigation to link off-site
@@ -170,6 +172,8 @@ sponsors:
   - id: dynatrace
     level: premium
   - id: contrast_security
+    level: premium
+  - id: chef
     level: premium
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops

@@ -200,10 +200,30 @@ sponsors:
     level: silver
   - id: target
     level: gold
+  - id: sumologic
+    level: gold
   - id: pepperdata
     level: gold
   - id: logdna
     level: silver
+  - id: jumpcloud
+    level: gold
+  - id: chef
+    level: gold
+  - id: mnclude
+    level: community
+  - id: newrelic
+    level: gold
+  - id: newrelic
+    level: alacarte
+  - id: atomist
+    level: silver
+  - id: wwcodetc
+    level: community
+  - id: microsoftazure
+    level: silver
+  - id: blacksintechnology
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

@@ -4,34 +4,29 @@ Type = "event"
 Description = "Sponsor devopsdays Minneapolis 2019"
 +++
 
-We greatly value sponsors for this community event. <s>Platinum</s><i> (sold out)</i>, <s>Gold</s><i> (sold out)</i>, and <s>Silver</s><i>(sold out)</i> sponsorship packages are detailed in our <a href="https://assets.devopsdays.org/events/2019/minneapolis/devopsdays-minneapolis-2019-prospectus.pdf">prospectus</a>. If you are interested in sponsoring, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLScKW7QgmFrb7_1q0QbUxqrcy5AbBFL9AmlkmRlfEfpaz60eFA/viewform">sponsorship form</a> or drop us an email at [{{< email_organizers >}}].
+We greatly value sponsors for this community event. Thank you for supporting devopsdays!
 
-Additional à la carte sponsorships are available:
-
-<ul>
-<li><strike>Live captioning - ($6000)</strike> - <b>SOLD OUT</b></li>
-</ul>
-
-<ul>
-<li><strike>Lanyard - ($5000)</strike> - <b>SOLD OUT</b></li>
-</ul>
+A few à la carte sponsorships are still available; drop us an email at [{{< email_organizers >}}] if you'd like to sponsor.
 
 <ul>
 <li>Day 1 all-day coffee ($3000) - 1 slot available - signage by the coffee displays with your logo throughout the day
 <li>Day 1 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
-<li><strike>Day 1 lunch ($3500)</strike> - <b>SOLD OUT</b></li>
-<li>Day 1 afternoon break ($1000) - 1 slots available - signage by the snack area with your logo during the afternoon when snacks are available
-<li>Day 1 evening happy hour ($4000) - 1 slot available - signage at the evening happy hour
-</ul>
-
-<ul>
-<li><strike>Day 2 all-day coffee ($3000)</strike> - <b>SOLD OUT</b></li>
+<li>Day 1 afternoon break ($1000) - 1 of 2 slots available - signage by the snack area with your logo during the afternoon when snacks are available
 <li>Day 2 breakfast ($2500) - 2 slots available - signage by the breakfast service with your logo in the morning before sessions
 <li>Day 2 lunch ($3500) - 2 slots available - signage by the lunch service with your logo during lunch
-<li><strike>Day 2 afternoon break ($1000)</strike> - <b>SOLD OUT</b></li>
 </ul>
 
-These may be purchased in addition to (or in lieu of) the platinum, gold, and silver sponsorships in the prospectus. An à la carte sponsorship by itself does not come with a table; you must have a platinum, gold, or silver sponsorship to be assigned a table you can staff.
+Platinum, Gold, and Silver sponsorship packages are sold out for 2019; no further tables are available. An à la carte sponsorship by itself does not come with a table; you must have a platinum, gold, or silver sponsorship to be assigned a table you can staff.
+
+<ul>
+<li><strike>Live captioning - ($6000, 1 slot)</strike> - <b>SOLD OUT</b></li>
+<li><strike>Lanyard - ($5000, 1 slot)</strike> - <b>SOLD OUT</b></li>
+<li><strike>Day 1 lunch ($3500, 2 slots)</strike> - <b>SOLD OUT</b></li>
+<li><strike>Day 1 evening happy hour ($4000, 2 slots)</strike> - <b>SOLD OUT</b> - signage at the evening happy hour
+<li><strike>Day 2 all-day coffee ($3000, 1 slot)</strike> - <b>SOLD OUT</b></li>
+<li><strike>Day 2 afternoon break ($1000, 2 slots)</strike> - <b>SOLD OUT</b></li>
+</ul>
+
 
 Devopsdays is a community-organized conference for practitioners. We keep costs low for attendees with the help of sponsors. Our global organization's [sponsorship guidelines](https://www.devopsdays.org/sponsor/) state that we cannot sell talk slots, nor can we distribute attendee contact lists. The greatest value in sponsoring is in directly interacting with local devops community members.
 

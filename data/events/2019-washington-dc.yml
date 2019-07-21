@@ -38,7 +38,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: registration
   - name: program
     url: https://devopsdaysdc2019.busyconf.com/schedule
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -91,15 +91,15 @@ team_members: # Name is the only required field for team members.
     website: "apporima.com"
     linkedin: "https://www.linkedin.com/in/bryanttn/"
 
-  - name: "Sue Chand"
-    employer: ""
-    twitter: ""
-    bio: ""
-    image: ""
-    github: ""
+  - name: "Peter Burkholder"
+    employer: "18F"
+    twitter: "@pburkholder"
+    bio: "Geophysicist turned DevOps"
+    image: "peter-burkholder.jpg"
+    github: "https://github.com/pburkholder"
     facebook: ""
+    linkedin: "https://www.linkedin.com/in/pburkholder/"
     website: ""
-    linkedin: ""
 
   - name: "Derek Daczewitz"
     employer: "Spaceflight Industries"
@@ -207,15 +207,6 @@ team_members: # Name is the only required field for team members.
     website: ""
     linkedin: ""
 
-  - name: "Jake Vanderdray"
-    employer: "Cvent"
-    twitter: ""
-    bio: ""
-    github: ""
-    facebook: ""
-    website: ""
-    linkedin: ""
-
   - name: "Karl Peña"
     employer: "ScientiaMobile"
     twitter: ""
@@ -255,6 +246,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/robtreat/"
     website: "https://www.linkedin.com/company/credativ-llc/"
 
+  - name: "Jake Vanderdray"
+    employer: "Cvent"
+    twitter: ""
+    bio: ""
+    github: ""
+    facebook: ""
+    website: ""
+    linkedin: ""
+
   - name: "Shawn Wells"
     employer: "Red Hat"
     twitter: "@shawndwells"
@@ -265,15 +265,15 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/shawndwells/"
     website: "https://medium.com/shawndwells"
 
-  - name: "Peter Burkholder"
-    employer: "18F"
-    twitter: "@pburkholder"
-    bio: "Geophysicist turned DevOps"
-    image: "peter-burkholder.jpg"
-    github: "https://github.com/pburkholder"
-    facebook: ""
-    linkedin: "https://www.linkedin.com/in/pburkholder/"
+  - name: "Dayton Williams"
+    employer: "GovReady PBC"
+    twitter: ""
+    bio: ""
+    image: "dayton-williams.jpg"
+    github: ""
+    linkedin: "https://www.linkedin.com/in/dayton-williams/"
     website: ""
+    facebook: ""
 
 organizer_email: "organizers-washington-dc-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-washington-dc-2019@devopsdays.org" # Put your proposal email address here
@@ -288,12 +288,10 @@ sponsor_link: "https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONS
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: happyhour
-    label: Happy Hour
-  - id: captioning
-    label: Live Caption
   - id: platinum
     label: Platinum
+  - id: captioning
+    label: Live Caption
   - id: gold
     label: Gold
   - id: silver
@@ -340,6 +338,8 @@ sponsors:
     level: platinum
   - id: circleci
     level: gold
+  - id: govready
+    level: captioning
   - id: dynatrace
     level: gold
   - id: sts
@@ -351,6 +351,8 @@ sponsors:
     level: gold
   - id: collabnet-versionone
     level: gold
+  - id: comcast
+    level: silver
   - id: devopsdc-meetup
     level: community
   - id: black-code-collective

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "Making Connections Visible - How to Defrag your Value Stream"
 Type = "talk"
 Speakers = ["dominica-degrandis"]
+slides = "https://drive.google.com/file/d/1WIYAh5diEnAJXCqS4tt6TjJeYip8HrnV/view"
+youtube = "P1iFAnGb0AM"
 +++
 
 How many different silos is your organization at the mercy of? How much time theft occurs from chasing down information across disparate systems?The hardest thing we do is communicate across teams. Discovering what’s going on and where things are at is a challenge when work flows are disconnected.

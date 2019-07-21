@@ -112,8 +112,6 @@ sponsors:
     level: bronze
   - id: f5
     level: gold
-  - id: diabol
-    level: silver
   - id: spotify
     level: silver
   - id: king
@@ -333,4 +331,6 @@ ignites:
   - title: "pia-fåk-sunnanbo"
     date: "2019-09-18"
   - title: "mark-baker"
+    date: "2019-09-18"
+  - title: "abdellfetah-sghiouar"
     date: "2019-09-18"

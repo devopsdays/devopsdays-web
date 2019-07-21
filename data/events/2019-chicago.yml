@@ -197,7 +197,33 @@ sponsors:
   - id: instana
     level: silver
   - id: circleci
-    level: silver 
+    level: silver
+  - id: activecampaign
+    level: lanyard
+  - id: jumpcloud
+    level: gold 
+  - id: morpheus_data
+    level: silver
+  - id: mongodb
+    level: gold
+  - id: tempus
+    level: silver
+  - id: activecampaign
+    level: silver
+  - id: discover
+    level: lunch
+  - id: oraclecloud
+    level: transcription
+  - id: microsoft
+    level: gold
+  - id: vmware
+    level: gold
+  - id: workiva
+    level: gold
+  - id: newrelic
+    level: gold 
+  - id: heroku
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -208,10 +234,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: gold
     label: Gold
-    max: 0
+    max: 10
   - id: silver
     label: Silver
-    max: 0 # This is the same as omitting the max limit.
+    max: 10 # This is the same as omitting the max limit.
   - id: bronze
     label: Bronze
   - id: community
@@ -219,6 +245,16 @@ sponsor_levels:
   - id: wifi
     label: Wifi
     max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: transcription
+    label: Live Transcription
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
+
 
 program:
   - title: "Registration, Breakfast, Sponsors"

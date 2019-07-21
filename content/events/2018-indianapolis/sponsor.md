@@ -197,7 +197,7 @@ would like to put together a custom package, let us know.
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>
-      <td style="padding: 5px" aling="left">Exclusive lanyrd sponsor</td>
+      <td style="padding: 5px" aling="left">Exclusive lanyard sponsor</td>
       <td style="padding: 5px" align="center">$1,000</td>
     </tr>
     <tr>
