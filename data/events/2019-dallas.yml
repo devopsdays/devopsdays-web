@@ -263,6 +263,8 @@ sponsors:
     level: gold
   - id: splitio
     level: gold
+  - id: mesosphere
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
