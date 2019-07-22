@@ -87,12 +87,12 @@ sponsors:
   - id: newrelic
     level: silver
     url: https://newrelic.com
-<<<<<<< HEAD
   - id: bcbswny
     level: gold
     url: https://www.bcbswny.com/content/wny/careers.html
-=======
->>>>>>> [BUF-2019] Adding New Relic as a Sponsor
+  - id: verizonmedia
+    level: bronze
+    url: https://www.verizonmedia.com
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
