@@ -90,9 +90,12 @@ sponsors:
   - id: bcbswny
     level: gold
     url: https://www.bcbswny.com/content/wny/careers.html
+<<<<<<< HEAD
   - id: verizonmedia
     level: bronze
     url: https://www.verizonmedia.com
+=======
+>>>>>>> cf570a26644925cf902bdf5a92a6d0e68aa5865a
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
