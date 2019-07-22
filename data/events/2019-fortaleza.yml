@@ -138,6 +138,8 @@ sponsors:
     level: silver
   - id: alura
     level: community
+  - id: redhat
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
