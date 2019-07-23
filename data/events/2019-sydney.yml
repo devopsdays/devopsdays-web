@@ -56,10 +56,14 @@ proposal_email: "proposals-sydney-2019@devopsdays.org" # Put your proposal email
 sponsors:
   - id: lendi
     level: platinum
+  - id: buildkite
+    level: platinum
   - id: vibrato
     level: gold
   - id: octopus-deploy
     level: bronze
+  - id: code-partners
+    level: coffee
 
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
@@ -78,3 +82,5 @@ sponsor_levels:
     label: Silver
   - id: bronze
     label: Bronze
+  - id: coffee
+    label: Coffee
