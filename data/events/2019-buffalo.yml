@@ -92,6 +92,10 @@ sponsors:
     url: https://www.bcbswny.com/content/wny/careers.html
   - id: verizonmedia
     level: bronze
+  - id: utilant
+    level: silver
+  - id: revdebug
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
