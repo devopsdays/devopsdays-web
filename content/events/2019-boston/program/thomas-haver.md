@@ -1,5 +1,5 @@
 ---
-title: "Building Cost Visibility For Your Kubernetes Clusters"
+title: "The Test Automation Firehose: Be Strategic and Tactical"
 Type: "talk"
 Speakers: ["thomas-haver"]
 
