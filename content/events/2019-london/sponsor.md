@@ -122,6 +122,7 @@ education, government, and consulting.</p>
 
 <p>If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].</p>
 
+<p>To ensure that your logo is included on our banners during the event we have a deadline for payment of the 26th of August 2019 for your sponsorship</p>
 
 <p>Location: DevOpsDays London will be returning to the QEII Centre in London.</p>
 </div>

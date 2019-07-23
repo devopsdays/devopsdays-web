@@ -149,6 +149,9 @@ sponsors:
   - id: sabre
     level: gold
 
+  - id: atvmware
+    level: gold
+
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
@@ -216,6 +219,9 @@ sponsors:
     level: community
 
   - id: testinguy
+    level: community
+
+  - id: auy
     level: community
 
   - id: stickermule

@@ -208,6 +208,24 @@ sponsors:
     level: gold
   - id: tempus
     level: silver
+  - id: activecampaign
+    level: silver
+  - id: discover
+    level: lunch
+  - id: oraclecloud
+    level: transcription
+  - id: microsoft
+    level: gold
+  - id: wavefront
+    level: gold
+  - id: workiva
+    level: gold
+  - id: newrelic
+    level: gold 
+  - id: heroku
+    level: bronze
+  - id: mavenwave
+    level: gold 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -232,6 +250,12 @@ sponsor_levels:
   - id: lanyard
     label: Lanyard
     max: 1
+  - id: transcription
+    label: Live Transcription
+    max: 1
+  - id: lunch
+    label: Lunch
+    max: 2
 
 
 program:
@@ -390,25 +414,30 @@ program:
     date: 2019-08-28
     start_time: "11:20"
     end_time: "11:50"
-  - title: "Lunch"
+  - title: "Sponsors"
     type: custom
     date: 2019-08-28
     start_time: "11:50"
+    end_time: "12:00"
+  - title: "Lunch"
+    type: custom
+    date: 2019-08-28
+    start_time: "12:00"
     end_time: "13:00"
   - title: "Ignites"
     type: ignite
     date: 2019-08-28
     start_time: "13:00"
     end_time: "13:30"
-  - title: "Sponsors"
-    type: custom
-    date: 2019-08-28
-    start_time: "13:30"
-    end_time: "13:40"
   - title: "Open Space Opening"
     type: open-space
     date: 2019-08-28
-    start_time: "13:40"
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "Sponsor Giveaways"
+    type: "custom"
+    date: 2019-08-28
+    start_time: "13:50"
     end_time: "14:15"
   - title: "attendee-suggested breakout discussions - Open Space #1"
     type: open-space
@@ -435,7 +464,7 @@ program:
     date: 2019-08-28
     start_time: "15:15"
     end_time: "16:00"
-  - title: "Raffles and Closing Ceremony"
+  - title: "Closing Ceremony"
     type: custom
     date: 2019-08-28
     start_time: "16:00"

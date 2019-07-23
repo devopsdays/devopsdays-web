@@ -140,6 +140,12 @@ sponsors:
     level: silver
   - id: sonatype
     level: silver
+  - id: newrelic
+    level: platinum
+  - id: kerauno
+    level: silver
+  - id: tailored-automation
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

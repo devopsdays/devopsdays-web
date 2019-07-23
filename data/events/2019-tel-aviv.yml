@@ -129,14 +129,22 @@ proposal_email: "proposals-tel-aviv-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: appsflyer
     level: organizer
+  - id: spotinst
+    level: platinum
   - id: elastic
     level: gold
   - id: bigpanda
     level: gold
+  - id: skywiz
+    level: gold
   - id: yotpo
+    level: silver
+  - id: aerospike
     level: silver
   - id: yotpo
     level: coffee
+  - id: aerospike
+    level: swag
   - id: statscraft
     level: community
   - id: opsschool
