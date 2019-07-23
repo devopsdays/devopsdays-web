@@ -113,6 +113,8 @@ sponsors:
     # Charity
   - id: osmi
     level: charity
+  - id: techmums
+    level: charity
     # Community
   - id: athens-project
     level: community
