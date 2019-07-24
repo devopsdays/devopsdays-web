@@ -92,6 +92,8 @@ sponsors:
     level: gold
   - id: circleci
     level: gold
+  - id: chef
+    level: gold
   - id: influxdata
     level: gold
   - id: pivotal
@@ -108,10 +110,14 @@ sponsors:
   - id: tecknuovo
     level: silver
     # Bronze
+  - id: buildkite
+    level: bronze
   - id: veracode
     level: bronze
     # Charity
   - id: osmi
+    level: charity
+  - id: techmums
     level: charity
     # Community
   - id: athens-project
