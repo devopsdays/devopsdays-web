@@ -87,6 +87,10 @@ sponsors:
     level: gold
   - id: bcbst
     level: gold
+  - id: saucelabs
+    level: silver
+  - id: compuware
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
