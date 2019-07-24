@@ -46,51 +46,51 @@ The best thing to do is send engineers to interact with the experts at devopsday
             <tr>
               <th scope="row">Tickets included</th>
               <td align="center">&nbsp;</td>
-              <td align="center">1</td>
-              <td align="center">2</td>
-              <td align="center">4</td>
+              <td align="center" bgcolor="gold">1</td>
+              <td align="center" bgcolor="gold">2</td>
+              <td align="center" bgcolor="gold">4</td>
             </tr>
             <tr>
               <th scope="row">Space in `Swag Bag` for promotional item</th>
               <td align="center">&nbsp;</td>
-              <td align="center">&#10004;</td>
-              <td align="center">&#10004;</td>
-              <td align="center">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
             </tr>
             <tr>
               <th scope="row">Logo on interval rotating slide show</th>
-              <td align="center">Shared</td>
-              <td align="center">Shared</td>
-              <td align="center">Shared</td>
-              <td align="center">Dedicated</td>
+              <td align="center" bgcolor="gold">Shared</td>
+              <td align="center" bgcolor="gold">Shared</td>
+              <td align="center" bgcolor="gold">Shared</td>
+              <td align="center" bgcolor="gold">Dedicated</td>
             </tr>
             <tr>
               <th scope="row">Logo on DevOpsDays Galway 2019 website</th>
-              <td align="center">&#10004;</td>
-              <td align="center">&#10004;</td>
-              <td align="center">&#10004;</td>
-              <td align="center">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
             </tr>
             <tr>
               <th scope="row">Logo on email communication</th>
               <td align="center">&nbsp;</td>
               <td align="center">&nbsp;</td>
-              <td align="center">&#10004;</td>
-              <td align="center">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
+              <td align="center" bgcolor="gold">&#10004;</td>
             </tr>
             <tr>
               <th scope="row">Sponsor table space</th>
-              <td align="center">Shared table for promotional material</td>
-              <td align="center">Pop-up 1 space + shared table for promotional material</td>
-              <td align="center">Dedicated<br/>Half table (approx 1m) + socket</td>
-              <td align="center">Dedicated<br/>+socket<br/>Full table (approx 2m) + socket</td>
+              <td align="center" bgcolor="gold">Shared table for promotional material</td>
+              <td align="center" bgcolor="gold">Pop-up 1 space + shared table for promotional material</td>
+              <td align="center" bgcolor="gold">Dedicated<br/>Half table (approx 1m) + socket</td>
+              <td align="center" bgcolor="gold">Dedicated<br/>+socket<br/>Full table (approx 2m) + socket</td>
             </tr>
             <tr>
               <th scope="row">Audience address pitch</th>
               <td align="center">&nbsp;</td>
               <td align="center">&nbsp;</td>
               <td align="center">&nbsp;</td>
-              <td align="center">2 min</td>
+              <td align="center" bgcolor="gold">2 min</td>
             </tr>
           </tbody>
         </table>
