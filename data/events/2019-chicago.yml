@@ -279,7 +279,7 @@ program:
     date: 2019-08-27
     start_time: "09:45"
     end_time: "09:55"
-  - title: "kylie-schleicher"
+  - title: "heidi-waterhouse-2"
     type: talk
     date: 2019-08-27
     start_time: "09:55"
@@ -316,7 +316,7 @@ program:
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-28
+    date: 2019-08-27
     start_time: "13:30"
     end_time: "13:40"
   - title: "Open Space Opening"
