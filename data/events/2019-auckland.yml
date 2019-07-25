@@ -125,6 +125,12 @@ proposal_email:   "proposals-auckland-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: buildkite
+    level: gold
+  - id: rancher
+    level: gold
+  - id: 2019-section6
+    level: gold
   - id: xero
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
