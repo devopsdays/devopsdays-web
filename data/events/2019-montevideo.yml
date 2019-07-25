@@ -123,6 +123,9 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: lenovo
+    level: platinum
+
   - id: oracle-linux
     level: platinum
 
@@ -173,6 +176,9 @@ sponsors:
     level: silver
 
   - id: netlabs
+    level: silver
+
+  - id: igv
     level: silver
 
 
