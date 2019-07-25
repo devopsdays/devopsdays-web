@@ -118,7 +118,7 @@ sponsors:
     level: bronze
   - id: microsoft
     level: gold
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
