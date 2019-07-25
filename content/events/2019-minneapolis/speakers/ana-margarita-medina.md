@@ -1,9 +1,10 @@
 +++
-Title = "Ana Medina"
+Title = "Ana Margarita Medina"
 Twitter = "Ana_M_Medina"
 image = "ana-medina.png"
 type = "speaker"
-linktitle = "ana-medina"
+linktitle = "ana-margarita-medina"
+aliases = ["/events/2019-minneapolis/speakers/ana-medina/"]
 
 +++
 
