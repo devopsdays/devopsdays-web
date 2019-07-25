@@ -4,7 +4,7 @@ Twitter = "Ana_M_Medina"
 image = "ana-medina.png"
 type = "speaker"
 linktitle = "ana-margarita-medina"
-aliases = ["/events/2019-minneapolis/speaker/ana-medina/"]
+aliases = ["/events/2019-minneapolis/speakers/ana-medina/"]
 
 +++
 
