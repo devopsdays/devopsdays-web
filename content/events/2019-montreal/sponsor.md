@@ -3,7 +3,7 @@ Title = "Sponsor"
 Type = "event"
 Description = "Sponsor devopsdays Montreal 2019"
 +++
-Nous apprécions beaucoup les commandiatires de notre évènement. Si vous aimeriez contribuer, <b>lisez les informations <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/DevOps Days Sponsorship Deck 2019.pdf" target="_blank">ici</a></b> et envoyez-nous un courriel: [{{< email_organizers >}}].
+Nous apprécions beaucoup les commandiatires de notre événement. Si vous aimeriez contribuer, <b>lisez les informations <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/DevOps%20Days%20Sponsorship%20Deck%202019.pdf" target="_blank">ici</a></b> et envoyez-nous un courriel: [{{< email_organizers >}}].
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please <b>check out the <a href="https://objects-qc.cloud.ca/v1/5ef827605f884961b94881e928e7a250/Julia/DevOps%20Days%20Sponsorship%20Deck%202019.pdf" target="_blank">prospectus</a></b> and  email us at [{{< email_organizers >}}].
 

@@ -4,13 +4,13 @@ Type = "event"
 Description = "Location for devopsdays Montreal 2019"
 +++
 
-La seconde édition de devopsdays Montréal sera a l'[Double Tree Hilton](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/maps-directions/index.html).
+La seconde édition de devopsdays Montréal sera à l'hôtel [DoubleTree Hilton](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/maps-directions/index.html).
 <br>
 1255 Jeanne-Mance St<br>
 Montreal, QC  H5B 1E5<br>
 Canada<br>
 
-The second edition of devopsdays Montréal will take place at [Double Tree Hilton](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/maps-directions/index.html).
+The second edition of devopsdays Montréal will take place at [DoubleTree Hilton](https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/maps-directions/index.html) hotel.
 <br>
 1255 Jeanne-Mance St<br>
 Montreal, QC  H5B 1E5<br>
