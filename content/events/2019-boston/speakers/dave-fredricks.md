@@ -1,7 +1,7 @@
 +++
-Title = "David Fredericks"
+Title = "Dave Fredricks"
 Twitter = "dfreddy76"
-image = "david-fredericks.jpg"
+image = "dave-fredricks.jpg"
 type = "speaker"
 linkedin = "https://www.linkedin.com/in/davidfredricks1/"
 website="https://www.linkedin.com/pulse/devops-needs-great-managers-david-fredricks?trk=mp-author-card"
