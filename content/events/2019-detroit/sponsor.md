@@ -26,7 +26,7 @@ a friendly environment. devopsdays Detroit 2018 attracted over 300 attendees, a 
 <h3>Community Sponsorships</h3>
 <p>
 We are excited to offer community sponsorships. This is not a paid sponsorship.
-Instead, this sponsorship is extended to conference, media and meetups in the Sotheastern 
+Instead, this sponsorship is extended to conference, media and meetups in the Southeastern 
 Michigan area who wish to exchange a spot on our banner for a spot on
 their own. Building community in the area is a worthwhile goal and we're all in
 this together! Community sponsors must be:</p>
