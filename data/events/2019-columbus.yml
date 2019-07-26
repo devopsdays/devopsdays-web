@@ -108,7 +108,11 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: 2015-datarobot
+    level: gold
   - id: newrelic
+    level: gold
+  - id: hcl
     level: gold
   - id: tasktop
     level: silver
