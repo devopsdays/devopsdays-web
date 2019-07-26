@@ -137,6 +137,10 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
+  - id: slalom
+    level: platinum
+  - id: facebook
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
