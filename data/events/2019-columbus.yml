@@ -108,6 +108,12 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: datarobot
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: hcl
+    level: gold
   - id: tasktop
     level: silver
   - id: upstart
@@ -117,6 +123,8 @@ sponsors:
   - id: instana
     level: silver
   - id: signalfx
+    level: silver
+  - id: netjets
     level: silver
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
