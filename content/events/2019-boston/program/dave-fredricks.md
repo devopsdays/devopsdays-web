@@ -1,7 +1,7 @@
 ---
 title: "FOMO? Take Control of Your Career and Life!"
 Type: "talk"
-Speakers: ["david-fredericks"]
+Speakers: ["dave-fredricks"]
 
 ---
 Our industry has been exploding! This has been amazing for growth and financial advancement of the industry, but comes with a huge negative cost to the workforce.
