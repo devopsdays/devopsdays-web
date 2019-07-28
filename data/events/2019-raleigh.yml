@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
   - name: "Nirmal Mehta"
     twitter: "normalfaults"
     github: "normalfaults"
-    webiste: "https://nirmal.io"
+    website: "https://nirmal.io"
   - name: "Katie Cothran"
     twitter: "k_cothran"
   - name: "Jason Hibbets"
