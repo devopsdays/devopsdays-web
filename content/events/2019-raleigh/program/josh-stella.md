@@ -15,10 +15,10 @@ The number one cause of cloud data breaches is infrastructure misconfiguration, 
 
 Josh will examine the common cloud infrastructure misconfigurations that put data at risk and provide a live demonstration of how attackers exploit these vulnerabilities. He will also show how to thwart those attacks by:
 
--Deploying chaos engineering against their own test cloud environments
--Measuring cloud security resilience using Mean Time to Remediation (MTTR)
--Evaluating and using different tools to automatically remediate misconfiguration without human intervention
--Identifying critical cloud resources in order to prioritize their security efforts
--Building security collaboration between Security, Application Teams, and Operations
+* Deploying chaos engineering against their own test cloud environments
+* Measuring cloud security resilience using Mean Time to Remediation (MTTR)
+* Evaluating and using different tools to automatically remediate misconfiguration without human intervention
+* Identifying critical cloud resources in order to prioritize their security efforts
+* Building security collaboration between Security, Application Teams, and Operations
 
 Attendees will learn how cloud security chaos engineering will ensure their cloud security efforts cover all critical cloud resources, such as network configuration, security group rules, identity and access management, and resource access policies; address all related policies, such as GDPR, HIPAA, NIST 800-53, PCI, CIS Benchmark, and internal enterprise security policies; and enable automatic recovery from all misconfiguration events.
