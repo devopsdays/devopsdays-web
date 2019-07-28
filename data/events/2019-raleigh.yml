@@ -200,7 +200,7 @@ program:
     start_time: "10:30"
     end_time: "12:00"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2019-10-01
     start_time: "10:30"
     end_time: "12:00"
@@ -235,7 +235,7 @@ program:
     start_time: "13:40"
     end_time: "13:45"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2019-10-01
     start_time: "13:50"
     end_time: "15:50"
@@ -370,7 +370,7 @@ program:
     start_time: "13:40"
     end_time: "13:45"
   - title: "Open Spaces"
-    type: custom
+    type: open-space
     date: 2019-10-02
     start_time: "13:50"
     end_time: "15:50"
