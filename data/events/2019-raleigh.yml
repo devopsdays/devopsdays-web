@@ -40,7 +40,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
     url: "https://www.eventbrite.com/e/devopsdays-raleigh-2019-tickets-49944558519"
   - name: program
 #    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: propose
   - name: contact
