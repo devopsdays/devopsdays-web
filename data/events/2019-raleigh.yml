@@ -42,7 +42,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 #    url: "https://devopsdaysraleigh2018.busyconf.com/schedule"
   - name: speakers
   - name: sponsor
-  - name: propose
+  # - name: propose
   - name: contact
   - name: conduct
 # - name: example
@@ -204,7 +204,7 @@ program:
     date: 2019-10-01
     start_time: "10:30"
     end_time: "12:00"
-  - title: "chris-merz"
+  - title: "christopher-merz"
     type: talk
     date: 2019-10-01
     start_time: "10:30"
@@ -224,40 +224,10 @@ program:
     date: 2019-10-01
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignites Intro"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2019-10-01
     start_time: "13:00"
-    end_time: "13:05"
-  - title: "ethan-fritz"
-    type: talk
-    date: 2019-10-01
-    start_time: "13:05"
-    end_time: "13:10"
-  - title: "sanket-godbole"
-    type: talk
-    date: 2019-10-01
-    start_time: "13:10"
-    end_time: "13:15"
-  - title: "matt-lavin"
-    type: talk
-    date: 2019-10-01
-    start_time: "13:20"
-    end_time: "13:25"
-  - title: "paige-cote"
-    type: talk
-    date: 2019-10-01
-    start_time: "13:25"
-    end_time: "13:30"
-  - title: "waldo-grunenwald"
-    type: talk
-    date: 2019-10-01
-    start_time: "13:30"
-    end_time: "13:35"
-  - title: "adam-lefkowitz"
-    type: talk
-    date: 2019-10-01
-    start_time: "13:35"
     end_time: "13:40"
   - title: "Ignite Karaoke"
     type: custom
@@ -329,7 +299,7 @@ program:
     date: 2019-10-02
     start_time: "09:00"
     end_time: "09:10"
-  - title: "dave-rogers"
+  - title: "david-rogers"
     type: talk
     date: 2019-10-02
     start_time: "09:10"
@@ -354,7 +324,7 @@ program:
     date: 2019-10-02
     start_time: "10:30"
     end_time: "12:00"
-  - title: "david-stanke"
+  - title: "dave-stanke"
     type: workshop
     date: 2019-10-02
     start_time: "10:30"
@@ -389,40 +359,10 @@ program:
     date: 2019-10-02
     start_time: "12:00"
     end_time: "13:00"
-  - title: "Ignites Intro"
-    type: custom
+  - title: "Ignites"
+    type: ignite
     date: 2019-10-02
     start_time: "13:00"
-    end_time: "13:05"
-  - title: "jessica-repka"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:05"
-    end_time: "13:10"
-  - title: "ravi-lachmann"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:10"
-    end_time: "13:15"
-  - title: "wendy-rashke"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:20"
-    end_time: "13:25"
-  - title: "craig-cook"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:25"
-    end_time: "13:30"
-  - title: "adam-lefkowitz"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:30"
-    end_time: "13:35"
-  - title: "khadijah-anderson"
-    type: talk
-    date: 2019-10-02
-    start_time: "13:35"
     end_time: "13:40"
   - title: "Ignite Karaoke"
     type: custom
@@ -479,3 +419,27 @@ program:
     date: 2019-10-02
     start_time: "16:10"
     end_time: "17:10"
+
+ignites:
+  - title: "ethan-fritz"
+    date: 2019-10-01
+  - title: "sanket-godbole"
+    date: 2019-10-01
+  - title: "matt-lavin"
+    date: 2019-10-01
+  - title: "paige-cote"
+    date: 2019-10-01
+  - title: "waldo-grunenwald"
+    date: 2019-10-01
+  - title: "adam-lefkowitz"
+    date: 2019-10-01
+  - title: "jessica-repka"
+    date: 2019-10-02
+  - title: "wendy-rashke"
+    date: 2019-10-02
+  - title: "craig-cook"
+    date: 2019-10-02
+  - title: "adam-lefkowitz"
+    date: 2019-10-02
+  - title: "khadijah-anderson"
+    date: 2019-10-02

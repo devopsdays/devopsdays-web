@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Learning From Failure: How We Learned a Better Way"
-Type = "ignite"
+Type = "talk"
 Speakers = ["craig-cook"]
 +++
 

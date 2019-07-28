@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "What to do when your foundation fails you - Disaster Recovery and Contingency Planning for Platforms"
-Type = "ignite"
+Type = "talk"
 Speakers = ["khadijah-anderson"]
 +++
 

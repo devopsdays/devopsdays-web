@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Expand your DevOps Practice and your Value to the Organization"
-Type = "workshop"
+Type = "talk"
 Speakers = ["marguerite-bryan"]
 +++
 

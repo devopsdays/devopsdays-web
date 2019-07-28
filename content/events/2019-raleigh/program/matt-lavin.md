@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Fully automated production deployments with HIPAA HITRUST compliance"
-Type = "ignite"
+Type = "talk"
 Speakers = ["matt-lavin"]
 +++
 It's possible to have rapid feature delivery and happy developers without sacrificing high security and compliance. At LifeOmic, we've built an automated change management system that allows production deployments without slow human approval. We maintain HIPAA and HITRUST compliance while still allowing continuous delivery.

@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps Heroes - Adding Automation Integration to your Toolbox"
-Type = "workshop"
+Type = "talk"
 Speakers = ["eric-d-schabell"]
 +++
 

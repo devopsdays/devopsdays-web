@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Site Reliability Engineering and the art of SLOs"
-Type = "workshop"
+Type = "talk"
 Speakers = ["dave-stanke", "ben-bley"]
 +++
 

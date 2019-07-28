@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Doughnut Dilemma - a Lesson in Resource Managers"
-Type = "ignite"
+Type = "talk"
 Speakers = ["ravi-lachhman"]
 +++
 

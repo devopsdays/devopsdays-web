@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Over the Ant Hill to Gradle"
-Type = "ignite"
+Type = "talk"
 Speakers = ["ethan-fritz"]
 +++
 
