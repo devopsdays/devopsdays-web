@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "This IS the Genertaive Culture You Are Looking For"
+Title = "This IS the Generative Culture You Are Looking For"
 Type = "talk"
 Speakers = ["logan-daigle"]
 +++
