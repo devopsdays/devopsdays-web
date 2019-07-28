@@ -1,6 +1,6 @@
 +++
 Title = "Dave Stanke"
-Twitter = "davestanke"
+Twitter = "davidstanke"
 image = ""
 type = "speaker"
 linktitle = "dave-stanke"
