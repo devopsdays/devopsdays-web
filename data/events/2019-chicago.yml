@@ -226,6 +226,11 @@ sponsors:
     level: bronze
   - id: mavenwave
     level: gold 
+  - id: launch-darkly
+    level: silver
+  - id: chicago-devops
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
