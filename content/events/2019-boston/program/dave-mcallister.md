@@ -1,5 +1,5 @@
 ---
-title: "Building Cost Visibility For Your Kubernetes Clusters"
+title: "Seeing RED: Why multi-dimensional monitoring matters"
 Type: "talk"
 Speakers: ["dave-mcallister"]
 

@@ -62,24 +62,17 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Garrett Honeycutt"
-    employer: "LearnPuppet.com"
-    twitter: "learnpuppet"
+    employer: "Tailored Automation"
+    twitter: "_ghoneycutt"
     github: "ghoneycutt"
     linkedin: "https://www.linkedin.com/in/garretthoneycutt"
-    website: "http://learnpuppet.com"
+    website: "https://tailoredautomation.io"
     image: "garrett-honeycutt.jpg"
 
   - name: "Andrew Poland"
     employer: ""
     twitter: "fiznarp"
     image: "andrew-poland.jpg"
-
-  - name: "Byron Schaller"
-    employer: "Roundtower"
-    twitter: "byronschaller"
-    github: "byronschaller"
-    linkedin: "https://www.linkedin.com/in/byronschaller"
-    image: "byron-schaller.jpg"
 
   - name: "Bryan Smith"
     employer: "Tacit Labs"
@@ -145,6 +138,8 @@ sponsors:
   - id: kerauno
     level: silver
   - id: tailored-automation
+    level: gold
+  - id: mongodb
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link

@@ -137,6 +137,10 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
+  - id: slalom
+    level: platinum
+  - id: facebook
+    level: platinum
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -237,7 +241,7 @@ program:
     date: 2019-09-23
     start_time: "13:35"
     end_time: "14:05"
-  - title: "david-fredericks"
+  - title: "dave-fredricks"
     type: talk
     date: 2019-09-23
     start_time: "14:10"

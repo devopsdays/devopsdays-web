@@ -226,6 +226,11 @@ sponsors:
     level: bronze
   - id: mavenwave
     level: gold 
+  - id: launch-darkly
+    level: silver
+  - id: chicago-devops
+    level: community
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -279,7 +284,7 @@ program:
     date: 2019-08-27
     start_time: "09:45"
     end_time: "09:55"
-  - title: "kylie-schleicher"
+  - title: "heidi-waterhouse-2"
     type: talk
     date: 2019-08-27
     start_time: "09:55"
@@ -316,7 +321,7 @@ program:
     end_time: "13:30"
   - title: "Sponsors"
     type: custom
-    date: 2019-08-28
+    date: 2019-08-27
     start_time: "13:30"
     end_time: "13:40"
   - title: "Open Space Opening"
@@ -367,7 +372,7 @@ program:
   - title: "Evening event"
     type: custom
     date: 2019-08-27
-    start_time: "19:00"
+    start_time: "17:00"
     end_time: "late"
   - title: "Registration, Breakfast, Sponsors"
     type: custom

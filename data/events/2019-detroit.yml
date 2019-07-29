@@ -58,9 +58,6 @@ team_members: # Name is the only required field for team members.
   - name: "Aimme Keener"
     employer: Autonomic
     twitter: AimmeKeener
-  - name: "Mario Loria"
-    employer: StockX
-    twitter: marioploria
   - name: "Aaron Maturen"
     employer: Cengage
     twitter: atmaturen
@@ -86,6 +83,10 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
+  - id: orchestructure
+    level: community
+  - id: croniclepress
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -102,6 +103,9 @@ sponsor_levels:
     max: 4
   - id: bronze
     label: Bronze
+  - id: community
+    label: Community
+    max: 2
   - id: AV
     label: AV
     max: 1

@@ -29,6 +29,15 @@ Description = "devopsdays edinburgh 2019"
 
 <div class = "row">
   <div class = "col-md-2">
+    <strong>Accommodation</strong>
+  </div>
+  <div class = "col-md-8">
+    <a href="www.hotels.tv/devopsdays_edinburgh_2019">Partnered with hotels.tv</a>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">

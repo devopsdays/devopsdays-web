@@ -38,7 +38,7 @@ If you are interested in one of the packages below, offering a special sponsorsh
 </tr>
 <tr>
   <td>Number of tickets included in package</td>
-  <td bgcolor="005EB8" style="color:white" ><center><i>1</i></center></td>
+  <td bgcolor="005EB8" style="color:white" ><center><i>2</i></center></td>
   <td bgcolor="005EB8" style="color:white" ><center><i>4</i></center></td>
 </tr>
 <tr>
