@@ -1,8 +1,7 @@
 +++
 Title = "Deborah Wood"
 Twitter = "Debs_za"
-image = ""
-#image = "deborah-wood.png"
+image = "deborah-wood.png"
 type = "speaker"
 linktitle = "deborah-wood"
 
