@@ -43,7 +43,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: program
   - name: speakers
   - name: sponsor
-  - name: volunteer
+  # - name: volunteer
   - name: contact
   - name: conduct
 # - name: example
@@ -368,7 +368,8 @@ program:
     type: custom
     date: 2019-08-27
     start_time: "17:00"
-    end_time: "late"
+    end_time: "20:30"
+    comments: "UIC Forum. Badge Required."
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-08-28
