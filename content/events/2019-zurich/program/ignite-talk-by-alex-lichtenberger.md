@@ -8,8 +8,8 @@ title = "What is your done?"
 type = "talk"
 speakers = ["alex-lichtenberger"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344504467"
+speakerdeck = "https://speakerdeck.com/dodzh/what-is-your-done-alex-lichtenberger"
 slideshare = ""
 slides = ""
 +++

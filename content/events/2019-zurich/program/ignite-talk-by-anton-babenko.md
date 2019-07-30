@@ -8,9 +8,9 @@ title = "What you see is what you get … for AWS infrastructure"
 type = "talk"
 speakers = ["anton-babenko"]
 youtube = ""
-vimeo = ""
+vimeo = "344513143"
 speakerdeck = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/AntonBabenko/what-you-see-is-what-you-get-for-aws-infrastructure-147794357"
 slides = ""
 +++
 
