@@ -8,8 +8,8 @@ title = "Better On-Call the SRE Way?"
 type = "talk"
 speakers = ["ramon-medrano-llamas"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344516642"
+speakerdeck = "https://speakerdeck.com/dodzh/better-on-call-the-sre-way-ramon-medrano-llamas"
 slideshare = ""
 slides = ""
 +++
