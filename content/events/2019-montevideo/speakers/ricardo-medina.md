@@ -2,7 +2,7 @@
 Title = "Ricardo Medina"
 Twitter = "rmedinaday"
 Linkedin = "https://www.linkedin.com/in/rmedinaday"
-image = "ricardo-medina.png"
+image = "sin-foto.png"
 type = "speaker"
 linktitle = "ricardo-medina"
 
