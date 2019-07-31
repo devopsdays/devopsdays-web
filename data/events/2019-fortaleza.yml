@@ -146,7 +146,8 @@ sponsors:
     level: silver
   - id: pmgt
     level: silver
-
+  - id: edna-nogueira
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
