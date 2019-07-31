@@ -8,8 +8,8 @@ title = "Reliability Engineering – The Essential Discipline for Complex System
 type = "talk"
 speakers = ["mary-poppendieck"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "343501495"
+speakerdeck = "https://speakerdeck.com/dodzh/reliability-engineering-mary-poppendieck"
 slideshare = ""
 slides = ""
 +++

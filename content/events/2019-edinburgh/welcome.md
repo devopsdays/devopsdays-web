@@ -32,7 +32,7 @@ Description = "devopsdays edinburgh 2019"
     <strong>Accommodation</strong>
   </div>
   <div class = "col-md-8">
-    <a href="www.hotels.tv/devopsdays_edinburgh_2019">Partnered with hotels.tv</a>
+    <a href="https://www.hotels.tv/devopsdays_edinburgh_2019">Partnered with hotels.tv</a>
   </div>
 </div>
 
