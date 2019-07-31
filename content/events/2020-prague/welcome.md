@@ -5,11 +5,11 @@ aliases = ["/events/2020-prague/"]
 Description = "Devopsdays Prague 2020"
 +++
 
-DevOpsDays is coming to Prague in 2020! We'll announce dates in the summer of 2019.
+DevOpsDays is coming to Prague in 2020!
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -20,14 +20,14 @@ DevOpsDays is coming to Prague in 2020! We'll announce dates in the summer of 20
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
+</div>
 
 <!-- <div class = "row">
   <div class = "col-md-2">
@@ -65,14 +65,14 @@ DevOpsDays is coming to Prague in 2020! We'll announce dates in the summer of 20
   </div>
 </div> -->
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -83,7 +83,21 @@ DevOpsDays is coming to Prague in 2020! We'll announce dates in the summer of 20
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
-{{< event_twitter >}}
--->
+<div class = "row">
+  <div class = "col-md-12">
+    <div class = "row justify-content-center">
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://twitter.com/DevOpsDaysPrg">
+        <i class="fa fa-twitter fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Twitter</a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #418ede;" href="https://www.instagram.com/devopsdays.prague">
+        <i class="fa fa-instagram fa-lg"></i>&nbsp;&nbsp;&nbsp;Follow Us On Instagram</a>
+      </div>
+      <div class = "d-flex p-2">
+        <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #418ede; border-color: #96b418edefe6;" href="https://www.facebook.com/DevOpsdaysPrague">
+        <i class="fa fa-facebook-square fa-lg"></i>&nbsp;&nbsp;&nbsp;Like Us On Facebook</a>
+      </div>
+    </div>
+  </div>
+</div>
