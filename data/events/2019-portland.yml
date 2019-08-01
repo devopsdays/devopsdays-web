@@ -131,6 +131,10 @@ sponsors:
     level: gold
   - id: netapp
     level: silver
+  - id: netapp
+    level: lanyard
+  - id: vacasa
+    level: on-call-tables
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -153,6 +157,10 @@ sponsor_levels:
     label: Specialty
   - id: quiet-room
     label: Quiet Room
+  - id: lanyard
+    label: Lanyard
+  - id: on-call-tables
+    label: On-call Tables
   - id: community
     label: Community
 
