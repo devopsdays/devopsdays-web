@@ -55,8 +55,6 @@ team_members: # Name is the only required field for team members.
     image: "alex-herweyer.jpg"
     linkedin: "https://www.linkedin.com/in/alex-herweyer-93374519"
     github: "alexherweyer"
-  - name: "Ruth Kaiser"
-    image: "ruth-kaiser.jpg"
   - name: "Chris Hurst"
     image: "chris-hurst.jpg"
   - name: "Aaron Sachs"
