@@ -125,6 +125,12 @@ sponsors:
     level: gold
   - id: dynatrace
     level: gold
+  - id: sonatype
+    level: gold
+  - id: redhat
+    level: gold
+  - id: netapp
+    level: silver
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
