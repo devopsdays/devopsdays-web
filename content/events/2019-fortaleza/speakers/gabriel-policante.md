@@ -1,7 +1,7 @@
 +++
 Title = "Gabriel Policante"
 Twitter = ""
-image = ""
+image = "gabriel-policante.png"
 type = "speaker"
 linktitle = "gabriel-policante"
 
