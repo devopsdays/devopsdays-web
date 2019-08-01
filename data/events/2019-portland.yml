@@ -145,22 +145,29 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 1
   - id: gold
     label: Gold
+    max: 16
   - id: silver
     label: Silver
+    max: 12
   - id: bronze
     label: Bronze
   - id: evening
     label: Evening Event
+    max: 2
   - id: specialty
     label: Specialty
   - id: quiet-room
     label: Quiet Room
+    max: 1
   - id: lanyard
     label: Lanyard
+    max: 1
   - id: on-call-table
     label: On-call Table
+    max: 1
   - id: community
     label: Community
 
