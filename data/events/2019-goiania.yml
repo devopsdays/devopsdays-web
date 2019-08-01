@@ -111,6 +111,8 @@ organizer_email: "organizers-goiania-2019@devopsdays.org" # Put your organizer e
 sponsors:
   - id: totvs
     level: platinum
+  - id: senai-go
+    level: silver
   - id: cocoa-design
     level: bronze
   - id: onx-solutions
