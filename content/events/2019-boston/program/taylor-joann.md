@@ -3,7 +3,7 @@ title: "Are you including the fastest growing minority in your devOps? Influence
 Type: "talk"
 Speakers: ["taylor-anne-snook","joann-becker"]
 ---
-What's it like for a person with disabilities to try to use an inaccessible website? The answer is frustrating. See for yourself during a live demonstration by JoAnn Becker, a native user of screen reader assistive technology. Get a real user's perspective and then learn what to do about it:
-
-1. How to incorporate digital accessibility into each stage of design and development to avoid costly "bolted on" fixes.
-2. How to build digital accessibility into your organization's processes for all roles, including Marketing, Purchasing, Recruitment, Designers, Content Authors, Developers, Acceptance testing, and Quality assurance. 
+One billion people worldwide have a disability and experts predict that this number will grow at an accelerated rate. What type of experience does this population have when trying to use an inaccessible website, either at work or while booking travel or shopping online? A frustrating one. At this live demonstration, get the user's perspective and see how screen reader assistive technology processes data that isn't accessible and learn:
+1. How to incorporate digital accessibility into each stage of design and development across all job functions (including Marketing, Purchasing, Recruitment, Designers, Content Authors, Developers, Acceptance Testing, and Quality Assurance).
+2. Why it's critical to consider accessibility from the outset to avoid costly "bolted on" fixes.
+3. How to create the most inclusive experience for everyone, including those with cognitive, mobility or sensory impairments.
