@@ -134,7 +134,7 @@ sponsors:
   - id: netapp
     level: lanyard
   - id: vacasa
-    level: on-call-tables
+    level: on-call-table
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -159,8 +159,8 @@ sponsor_levels:
     label: Quiet Room
   - id: lanyard
     label: Lanyard
-  - id: on-call-tables
-    label: On-call Tables
+  - id: on-call-table
+    label: On-call Table
   - id: community
     label: Community
 
