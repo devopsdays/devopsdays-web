@@ -1,18 +1,13 @@
 +++
-Title = "Adrian Cockcroft"
-image = "adrian-cockcroft.png"
-Twitter = "@adrianco"
+Title = "Ross Clanton"
+image = "ross-clanton.png"
+Twitter = "@RossClanton"
 type = "speaker"
-linktitle = ["adrian-cockcroft"]
-Website = "https://aws.amazon.com"
+linktitle = ["ross-clanton"]
+Website = "https://www.verizon.com"
 
 +++
 
 ### <strong>KEYNOTE SPEAKER</strong>
 
-Adrian Cockcroft, Vice President Cloud Architecture Strategy, Amazon Web Services
-Adrian Cockcroft has had a long career working at the leading edge of technology, and is fascinated by what happens next. In his role at AWS, Cockcroft is focused on the needs of cloud native and “all-in” customers, and leads the AWS open source community development team.
-
-Prior to AWS, Cockcroft started out as a developer in the UK, joined Sun Microsystems and then moved to the United States in 1993, ending up as a Distinguished Engineer. Cockcroft left Sun in 2004, was a founding member of eBay research labs, and started at Netflix in 2007. He initially directed a team working on personalization algorithms and then became cloud architect, helping teams scale and migrate to AWS. As Netflix shared its architecture publicly, Cockcroft became a regular speaker at conferences and executive summits, and he created and led the Netflix open source program. In 2014, he joined VC firm Battery Ventures, promoting new ideas around DevOps, microservices, cloud and containers, and moved into his current role at AWS in October 2016. During 2017 he recruited a team of experienced open source technologists and gave keynote presentations at AWS Summits and many other events around the world.
-
-Cockcroft holds a degree in Applied Physics from The City University, London and is a published author of four books, notably Sun Performance and Tuning (Prentice Hall, 1998).
+Ross has led multiple technology transformation and innovation initiatives across Verizon and Target. He is also an active collaborator in growing and strengthening the Enterprise DevOps community through his work with the DevOps Enterprise Forum, his podcast – The Goat Farm, and involvement in DevOps events nationally. Ross has had proven success establishing transformation strategy, driving culture change, scaling technology practices/skills through Dojo’s, and driving platform strategies (Cloud, DevOps, API’s) to improve technical excellence in some of the largest technology organizations in the world. His passion for DevOps stems not only from the fact that it improves business outcomes, but that it can also improve engagement and overall happiness of people working in technology.
