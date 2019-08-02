@@ -267,6 +267,8 @@ sponsors:
     level: gold
   - id: mesosphere
     level: gold
+  - id: beyondsoft
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
