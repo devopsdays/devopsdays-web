@@ -8,10 +8,10 @@ title = "Turning the Quality of Your Deployment Pipeline into a Team Task"
 type = "talk"
 speakers = ["areti-panou"]
 youtube = ""
-vimeo = ""
+vimeo = "344393508"
 speakerdeck = ""
 slideshare = ""
-slides = ""
+slides = "https://noti.st/unremarkableqa/0YTzhg"
 +++
 
 It is around 16:00 on a Friday afternoon and somebody from the other end of the office says

@@ -89,6 +89,8 @@ sponsors:
     level: gold
   - id: overops
     level: silver
+  - id: instana
+    level: silver
   - id: arresteddevops
     level: community
   - id: linode

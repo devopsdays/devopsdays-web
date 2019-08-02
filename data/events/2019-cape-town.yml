@@ -44,23 +44,23 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members:
   - name: "Adrian Moisey"
     image: "adrian-moisey.jpg"
-    employer: "SweepSouth"
+    employer: "SalesLoft"
     twitter: "adrianmoisey"
     github: "adrianmoisey"
     gitlab: "adrianmoisey"
     linkedin: "https://www.linkedin.com/in/adrian-moisey-b6705744"
     facebook: "https://www.facebook.com/adrianbmoisey"
     website: "https://adrianmoisey.gitlab.io/"
-    bio: "Adrian is VP of Engineering at SweepSouth. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
+    bio: "Adrian is a Systems Engineer at SalesLoft. He is involved with the DevOps scene in Cape Town, organises meetups and is active on the local ZATech slack group."
   - name: "Cobus Bernard"
     image: "cobus-bernard.jpg"
-    employer: "Blue Battleship"
+    employer: "Amazon Web Services"
     twitter: "cobusbernard"
     github: "cobusbernard"
     linkedin: "https://www.linkedin.com/in/cobusbernard/"
     facebook: "https://www.facebook.com/cobusbernard"
     website: "http://cobus.io/"
-    bio: "Cobus is currently working with Prodigy Finance to establish a devops culture. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
+    bio: "Cobus is the AWS Senior Technical Evangelist for Sub-Saharan Africa. He started the Cape Town DevOps meetups in 2015 and tries to spread the DevOps gospel after spending years in both dev and ops."
   - name: "Roxanne Davids"
     image: "roxanne-davids.jpg"
     twitter: "@ourfirepath"
@@ -80,6 +80,16 @@ proposal_email: "proposals-cape-town-2019@devopsdays.org"
 sponsors:
   - id: zappi
     level: gold
+  - id: gitlab
+    level: gold
+  - id: elastic
+    level: gold
+  - id: equalexperts
+    level: gold
+  - id: offerzen
+    level: gold
+  - id: 2016-takealot-cape-town
+    level: silver
   - id: arresteddevops
     level: community
 

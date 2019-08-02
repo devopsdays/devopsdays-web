@@ -14,9 +14,9 @@ Additional facilities include gender neutral toilets and for those that need a b
 
 As we've done previously, we'll be providing live captioning for those with hearing impairments along with live signing during the talks.
 
-## Child Care Services
+## Free Child Care Services
 
-We will be providing childcare services during the event.
+We will be providing free child care services during the event.
 
 ## Venue Accessibility
 

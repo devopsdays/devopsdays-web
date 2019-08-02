@@ -69,7 +69,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: sonatype-before-20190121
     level: bronze
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: arresteddevops
     level: media

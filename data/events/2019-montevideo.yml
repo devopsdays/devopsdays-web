@@ -123,6 +123,9 @@ sponsors:
   - id: pyxis
     level: platinum
 
+  - id: lenovo
+    level: platinum
+
   - id: oracle-linux
     level: platinum
 
@@ -149,6 +152,9 @@ sponsors:
   - id: sabre
     level: gold
 
+  - id: atvmware
+    level: gold
+
 # Plata
 # ------------------------------------------------------------------------------
   - id: arkano
@@ -170,6 +176,9 @@ sponsors:
     level: silver
 
   - id: netlabs
+    level: silver
+
+  - id: igv
     level: silver
 
 
@@ -215,9 +224,20 @@ sponsors:
   - id: itrevolution
     level: community
 
+  - id: testinguy
+    level: community
+
+  - id: auy
+    level: community
+
   - id: stickermule
     level: sticker
     url: "https://www.stickermule.com/supports/devopsdaysmvd"
+
+# Social Event
+# ------------------------------------------------------------------------------
+  - id: microsoft
+    level: socialevent
 
 # Media
 # ------------------------------------------------------------------------------
@@ -237,9 +257,6 @@ sponsors:
 # TBD sponsors
 # ------------------------------------------------------------------------------
   #- id: at-uruguay
-  #- id: arnaldocastro
-  #- id: microsoft
-
   #- id: lenovo
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -263,6 +280,8 @@ sponsor_levels:
   - id: community
     label: Community
     # max: 0 # This is the same as omitting the max limit.
+  - id: socialevent
+    label: Social Event
   - id: sticker
     label: Sticker
   - id: media

@@ -183,16 +183,26 @@ Throughout his career, he has provided strategic direction to meet organizationa
 #   website: ""
 #   github: ""
     image: "rameshv.jpg"
-# - name: ""
+  - name: "Scott Purgerson"
 #   employer: "Organizer Role - "
-#   role: ""
+    role: "Automation Anywhere"
 #   bio: ""
 #   twitter: ""
 #   linkedin: "https://"
 #   facebook:
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
+#   image: ".jpg"
+# - name: ""
+#   employer: "Organizer Role - "
+#   role: ""
+#   bio: ""
+    twitter: "PurgersonScott"
+    linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
+#   facebook:
+#   website: ""
+#   github: ""
+    image: "scott.jpg"  
 
 organizer_email: "organizers-dallas-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2019@devopsdays.org" # Put your proposal email address here
@@ -250,6 +260,12 @@ sponsors:
   - id: chef
     level: gold
   - id: circleci
+    level: gold
+  - id: newrelic
+    level: gold
+  - id: splitio
+    level: gold
+  - id: mesosphere
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
