@@ -122,8 +122,32 @@ sponsors:
     level: bronze
   - id: jaguah
     level: silver
-
-
+  - id: aws
+    level: gold
+  - id: hostweb
+    level: silver
+  - id: linuxtips
+    level: community
+  - id: estabilis
+    level: community
+  - id: portfolio
+    level: gold
+  - id: platformbuilders
+    level: silver
+  - id: atlantico
+    level: silver
+  - id: alura
+    level: community
+  - id: redhat
+    level: gold
+  - id: wiser
+    level: bronze
+  - id: elastic
+    level: silver
+  - id: pmgt
+    level: silver
+  - id: edna-nogueira
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

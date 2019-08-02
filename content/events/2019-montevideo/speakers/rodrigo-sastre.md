@@ -1,9 +1,7 @@
 +++
 Title = "Rodrigo Sastre"
 Twitter = ""
-image = ""
+image = "sin-foto.png"
 type = "speaker"
 linktitle = "rodrigo-sastre"
 +++
-
-

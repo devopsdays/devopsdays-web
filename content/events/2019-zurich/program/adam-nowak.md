@@ -8,9 +8,9 @@ title = "How we killed DevOps by creating a dedicated DevOps team"
 type = "talk"
 speakers = ["adam-nowak"]
 youtube = ""
-vimeo = ""
+vimeo = "344506525"
 speakerdeck = ""
-slideshare = ""
+slideshare = "https://www.slideshare.net/AdamNowak40/20190515-how-we-killed-devops-by-creating-a-dedicated-devops-team"
 slides = ""
 +++
 

@@ -194,14 +194,6 @@ All special sponsors will have their logo displayed on the DevOpsDays Chicago we
       <td>2</td>
     </tr>
     <tr>
-      <td align="center"><i class="fa fa-pencil-square-o fa-4x"></i></td>
-      <td>Live Transcription</td>
-      <td>$2,000</td>
-      <td>Shout-out during opening remarks</td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
-    <tr>
       <td align="center"><i class="fa fa-video-camera fa-4x"></i></td>
       <td>Video</td>
       <td>$7,000</td>
