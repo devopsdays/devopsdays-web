@@ -18,27 +18,27 @@ Description = "devopsdays Montreal 2019"
   </div>
 </div>
 
-<!-- <div class = "row">
+<div class = "row">
   <div class = "col-md-2">
     <strong>Location</strong>
   </div>
   <div class = "col-md-8">
     {{< event_location >}}
   </div>
-</div> -->
-
-<!-- <div class = "row">
-  <div class = "col-md-2">
-    <strong>Register</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
-  </div>
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Propose</strong>
+    <strong>Register - Inscription</strong>
+  </div>
+  <div class = "col-md-8">
+     <A href=https://www.eiseverywhere.com/devopsdaysmontreal2019 target="_blank">Register to attend the conference! / Assister à la conférence</A>
+  </div>
+</div>
+
+<div class = "row">
+  <div class = "col-md-2">
+    <strong>Propose - Proposer</strong>
   </div>
   <div class = "col-md-8">
     <A href=https://dodmtl.ca/dodmtl19/ target="_blank">Submit a talk / Soumettre une présentation</A>
@@ -65,7 +65,7 @@ Description = "devopsdays Montreal 2019"
 
 <div class = "row">
   <div class = "col-md-2">
-    <strong>Sponsors</strong>
+    <strong>Sponsors - Commanditaires</strong>
   </div>
   <div class = "col-md-8">
     {{< event_link page="sponsor" text="Sponsor the conference! / Commanditer l'évenement!" >}}
@@ -82,9 +82,8 @@ Description = "devopsdays Montreal 2019"
 </div>
 
 <!-- Uncomment if you added your city twitter name -->
-<!--
 {{< event_twitter >}}
--->
+
 
 ----
 {{< cfp_dates >}}
