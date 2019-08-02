@@ -259,6 +259,8 @@ sponsors:
     level: silver
   - id: chef
     level: gold
+  - id: circleci
+    level: gold
   - id: newrelic
     level: gold
   - id: splitio
