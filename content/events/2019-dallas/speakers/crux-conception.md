@@ -1,5 +1,5 @@
 +++
-Title = "Crux Conception"
+Title = "Crux Conception, M. Psych"
 Twitter = "ConceptionCrux"
 image = "crux-conception.png"
 type = "speaker"
