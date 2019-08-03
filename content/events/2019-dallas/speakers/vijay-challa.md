@@ -4,7 +4,7 @@ image = "vijay-challa.png"
 Twitter = "vijaychalla"
 type = "speaker"
 linktitle = ["vijay-challa"]
-Website = "https://www.verizon.com"
+Website = ""
 
 +++
 

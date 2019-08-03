@@ -1,7 +1,7 @@
 +++
 Title = "Damon Edwards"
 image = "damon-edwards.png"
-Twitter = "@damonedwards"
+Twitter = "damonedwards"
 type = "speaker"
 linktitle = ["damon-edwards"]
 Website = "https://www.rundeck.com"
