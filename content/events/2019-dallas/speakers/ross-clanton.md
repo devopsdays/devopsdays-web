@@ -1,7 +1,7 @@
 +++
 Title = "Ross Clanton"
 image = "ross-clanton.png"
-Twitter = "@RossClanton"
+Twitter = "RossClanton"
 type = "speaker"
 linktitle = ["ross-clanton"]
 Website = "https://www.verizon.com"

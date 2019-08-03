@@ -1,7 +1,7 @@
 +++
 Title = "Michael Nygard"
 image = "michael-nygard.png"
-Twitter = "@mtnygard"
+Twitter = "mtnygard"
 type = "speaker"
 linktitle = ["michael-nygard"]
 Website = ""
