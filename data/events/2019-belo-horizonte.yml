@@ -82,21 +82,10 @@ team_members: # Name is the only required field for team members.
     linkedin: "https://www.linkedin.com/in/luiz-henrique-g-jr-0725241a/"
     image: "luiz-henrique.jpg"
     bio: ""
-  - name: "Marco Antonio M. Junior (Somatório)"
-    linkedin: "https://www.linkedin.com/in/somatorio/"
-    bio: ""
-    image: "marco-antonio.jpg"
-  - name: "Rafael Gomes (Gomex)"
-    linkedin: "https://www.linkedin.com/in/rbgomes"
-    bio: ""
-    image: "rafael-gomes.jpg"
   - name: "Zandler Oliveira"
     linkedin: "https://www.linkedin.com/in/zandler-oliveira/"
     bio: ""
     image: "zandler-oliveira.jpg"
-#   facebook: ""
-#   linkedin: ""
-#   website: ""
 
 organizer_email: "organizers-belo-horizonte-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your proposal email address here
@@ -105,7 +94,9 @@ proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your propos
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
   - id: pucminas
-    level: premium
+    level: platina
+  - id: 4yousee
+    level: bronze
   - id: devopsbh
     level: community
   - id: devops-bootcamp
@@ -120,10 +111,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: premium
-    label: Premium
+  - id: platina
+    label: Platina
+  - id: ouro
+    label: Ouro
+  - id: prata
+    label: Prata
+  - id: bronze
+    label: Bronze
   - id: community
     label: Community
-
-
-
