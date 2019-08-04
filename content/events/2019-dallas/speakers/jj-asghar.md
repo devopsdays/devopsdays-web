@@ -5,6 +5,7 @@ Twitter = "jjasghar"
 type = "speaker"
 linktitle = ["jj-asghar"]
 Website = "http://jjasghar.github.io/"
+LinkedIn = "https://www.linkedin.com/in/jjasghar/"
 
 +++
 

@@ -4,7 +4,7 @@ image = "vijay-challa.png"
 Twitter = "challa_naidu"
 type = "speaker"
 linktitle = ["vijay-challa"]
-Website = ""
+LinkedIn = "http://linkedin.com/in/vijayrchalla"
 
 +++
 

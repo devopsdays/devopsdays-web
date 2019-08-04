@@ -5,6 +5,7 @@ Twitter = "wizbjorn"
 type = "speaker"
 linktitle = ["bjorn-edwin"]
 Website = "https://www.liatrio.com/author/bjorn-edwin"
+LinkedIn = "https://www.linkedin.com/in/bjornedwin/"
 
 +++
 

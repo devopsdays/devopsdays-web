@@ -5,6 +5,7 @@ Twitter = "RossClanton"
 type = "speaker"
 linktitle = ["ross-clanton"]
 Website = "https://www.verizon.com"
+LinkedIn = "https://www.linkedin.com/in/ross-clanton-1723841/"
 
 +++
 

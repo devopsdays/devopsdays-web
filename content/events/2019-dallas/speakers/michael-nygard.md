@@ -5,6 +5,7 @@ Twitter = "mtnygard"
 type = "speaker"
 linktitle = ["michael-nygard"]
 Website = ""
+LinkedIn = "https://www.linkedin.com/in/mtnygard/"
 
 +++
 

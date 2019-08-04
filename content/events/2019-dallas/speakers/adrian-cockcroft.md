@@ -5,6 +5,7 @@ Twitter = "adrianco"
 type = "speaker"
 linktitle = ["adrian-cockcroft"]
 Website = "https://aws.amazon.com"
+LinkedIn = https://www.linkedin.com/in/adriancockcroft/
 
 +++
 
