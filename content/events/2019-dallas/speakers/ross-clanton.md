@@ -1,5 +1,5 @@
 +++
-Title = "Ross Clanton"
+Title = "KEYNOTE: Ross Clanton"
 image = "ross-clanton.png"
 Twitter = "RossClanton"
 type = "speaker"

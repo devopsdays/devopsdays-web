@@ -10,7 +10,7 @@ Vimeo = ""
 Speakerdeck = ""
 Slideshare = ""
 Slides = ""
-Website = "https://www.linkedin.com/in/vijaychalla/"
+Website = "http://linkedin.com/in/vijayrchalla"
 +++
 
 ##### TALK ABSTRACT
@@ -20,8 +20,8 @@ On cloud, traditional policy agent based provisioning of SSO becomes a huge bott
 Here is a set of our accomplishments at a very high level, that I would like to share as part of the talk:
 
 * Seamless/ transparent scaling, updating of authentication/ security layer, with zero touchpoint to application infrastructure.
-* Flexible policy enforcement point to support current platform, while migrating towards standards-based system. 
-* Continuous Authentication by policy enforcement in various categories like IP monitoring, Device fingerprinting, session hijacking, real time URL blocking. 
+* Flexible policy enforcement point to support current platform, while migrating towards standards-based system.
+* Continuous Authentication by policy enforcement in various categories like IP monitoring, Device fingerprinting, session hijacking, real time URL blocking.
 * Continuous Enforcement and real time configuration of levels of assurance to online assets/ endpoints.
 * Uniform protection across the organization, with self service capabilities.
 * Preventing fraud, by intercepting and evaluating traffic towards backend systems/ app to app communication.

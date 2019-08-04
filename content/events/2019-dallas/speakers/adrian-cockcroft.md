@@ -1,5 +1,5 @@
 +++
-Title = "Adrian Cockcroft"
+Title = "KEYNOTE: Adrian Cockcroft"
 image = "adrian-cockcroft.png"
 Twitter = "adrianco"
 type = "speaker"
