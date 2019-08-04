@@ -4,7 +4,7 @@ image = "steve-shangguan.png"
 Twitter = "shangz"
 type = "speaker"
 linktitle = ["steve-shangguan"]
-Website = "https://www.linkedin.com/in/shangz/"
+LinkedIn = "https://www.linkedin.com/in/shangz/"
 
 +++
 

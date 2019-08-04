@@ -5,6 +5,7 @@ Twitter = "AaronAMell"
 type = "speaker"
 linktitle = ["aaron-mell"]
 Website = "https://lumindigital.com/"
+LinkedIn = "https://www.linkedin.com/in/aaron-mell-87b05415/"
 
 +++
 

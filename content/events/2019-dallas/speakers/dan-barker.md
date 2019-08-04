@@ -5,6 +5,7 @@ image = "dan-barker.png"
 type = "speaker"
 linktitle = ["dan-barker"]
 Website = "https://danbarker.codes/"
+LinkedIn = "https://www.linkedin.com/in/dan-barker/"
 
 +++
 

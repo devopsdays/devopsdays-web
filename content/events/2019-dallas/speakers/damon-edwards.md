@@ -5,6 +5,7 @@ Twitter = "damonedwards"
 type = "speaker"
 linktitle = ["damon-edwards"]
 Website = "https://www.rundeck.com"
+LinkedIn = "https://www.linkedin.com/in/damonedwards/"
 
 +++
 

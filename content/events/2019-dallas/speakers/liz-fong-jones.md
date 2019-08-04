@@ -1,9 +1,10 @@
 +++
-Title = "Liz Fong-Jones"
+Title = "KEYNOTE: Liz Fong-Jones"
 Twitter = "lizthegrey"
 image = "liz-fong-jones.png"
 type = "speaker"
 linktitle = "liz-fong-jones"
+LinnkedIn = "https://www.linkedin.com/in/efong/"
 
 +++
 
