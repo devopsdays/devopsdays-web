@@ -8,8 +8,8 @@ title = "Battle of the Circuit Breaker: Hystrix vs Istio"
 type = "talk"
 speakers = ["nicolas-frankel"]
 youtube = ""
-vimeo = ""
-speakerdeck = ""
+vimeo = "344515687"
+speakerdeck = "https://speakerdeck.com/dodzh/battle-of-the-circuit-breakers-resilience4j-vs-istio-nicolas-frankel"
 slideshare = ""
 slides = ""
 +++

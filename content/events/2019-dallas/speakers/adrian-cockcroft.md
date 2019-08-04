@@ -1,7 +1,7 @@
 +++
 Title = "Adrian Cockcroft"
 image = "adrian-cockcroft.png"
-Twitter = "@adrianco"
+Twitter = "adrianco"
 type = "speaker"
 linktitle = ["adrian-cockcroft"]
 Website = "https://aws.amazon.com"

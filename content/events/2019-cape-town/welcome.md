@@ -42,11 +42,11 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
      <div class = "row"><!-- begin a content element -->
       <div class = "col-md-12">
       <div class = "row justify-content-center">
-        <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/sponsor">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference
-          </a>
-        </div>
+          <div class = "d-flex p-2">
+            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2019">
+             <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
+            </a>
+          </div>
         <div class = "d-flex p-2">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/contact">
             <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
@@ -56,22 +56,6 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
       </div>
     </div><!-- end a content element -->
 
-    <div class = "row">
-      <div class = "col-md-12">
-        <div class = "row justify-content-center">
-          <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="https://www.papercall.io/devopsdayscpt2019">
-              <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;Propose to talk
-            </a>
-          </div>
-          <div class = "d-flex p-2">
-            <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="http://qkt.io/dodcpt2019">
-             <i class="fa fa-user-circle fa-lg"></i>&nbsp;&nbsp;&nbsp;Register to Attend
-            </a>
-          </div>
-       </div>
-     </div>
-    </div>
     <div class = "row">
       <div class = "col-12">
         <img src = "/events/2019-cape-town/logo.png" class = "img-fluid">

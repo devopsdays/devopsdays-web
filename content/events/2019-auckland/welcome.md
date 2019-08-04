@@ -20,7 +20,7 @@ Description = "DevOpsDays Auckland 2019"
       <div class="col-md-6">
         <div class = "d-flex p-2">
           <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px;   background-color: #418ede; border-color: #418ede;" href="https://devopsdays-auckland.lilregie.com/">
-          <i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;Early Bird Tickets now available - Book Now!</a>
+          <i class="fa fa-ticket"></i>&nbsp;&nbsp;&nbsp;Book now - limited tickets available!</a>
         </div>
       </div>
     </div>
@@ -56,7 +56,7 @@ Description = "DevOpsDays Auckland 2019"
       <strong>Propose</strong>
     </div>
     <div class="col-md-6">
-      {{< event_link page="propose" text="Submit your Proposal!" >}}
+      The CFP has now closed
     </div>
   </div>
   <div class="row">

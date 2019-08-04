@@ -90,6 +90,17 @@ sponsors:
   - id: bcbswny
     level: gold
     url: https://www.bcbswny.com/content/wny/careers.html
+  - id: verizonmedia
+    level: bronze
+  - id: utilant
+    level: silver
+  - id: revdebug
+    level: community
+  - id: dynatrace
+    level: silver
+  - id: datadog
+    level: silver
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -166,7 +177,7 @@ program:
     date: 2019-09-26T00:00:00-04:00
     start_time: "14:00"
     end_time: "16:00"
-  - title: "Ignites from Waldo G, Long Nguyen, JJ Ashgar, and Bill Chapman"
+  - title: "Ignites from Waldo G, Long Nguyen, and Adrian Roselli"
     type: custom
     date: 2019-09-26T00:00:00-04:00
     start_time: "16:10"

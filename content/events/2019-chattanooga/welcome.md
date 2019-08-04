@@ -5,9 +5,9 @@ aliases = ["/events/2019-chattanooga/"]
 Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at the Chattanooga Convention Center."
 +++
 
-<!-- <div style="text-align:center;">
+<div style="text-align:center;">
   {{< event_logo >}}
-</div> -->
+</div>
 
 <div class = "row">
   <div class = "col-md-2">
@@ -81,7 +81,6 @@ Description = "DevOpsDays is returning to Chattanooga  on November 12, 2019 at t
   </div>
 </div>
 
-<!-- Uncomment if you added your city twitter name -->
-<!--
+
 {{< event_twitter >}}
--->
+

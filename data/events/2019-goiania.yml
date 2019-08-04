@@ -109,11 +109,14 @@ organizer_email: "organizers-goiania-2019@devopsdays.org" # Put your organizer e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: samplesponsorname
-    level: gold
- #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  - id: caco-moreira
+  - id: totvs
+    level: platinum
+  - id: senai-go
     level: silver
+  - id: cocoa-design
+    level: bronze
+  - id: onx-solutions
+    level: bronze
   - id: devopsgo
     level: community
   - id: docker-goiania
@@ -130,13 +133,15 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
   - id: platinum
-    label: Platinum
-#    max: 1
+    label: Diamante
+    max: 1
   - id: gold
     label: Ouro
 #    max: 5
   - id: silver
     label: Prata
+  - id: bronze
+    label: Bronze
 #    max: 10
   - id: community
     label: Comunidade

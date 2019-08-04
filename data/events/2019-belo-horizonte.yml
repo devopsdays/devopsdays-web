@@ -104,6 +104,12 @@ proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your propos
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: pucminas
+    level: premium
+  - id: devopsbh
+    level: community
+  - id: devops-bootcamp
+    level: community
   - id: arresteddevops
     level: community
 
@@ -114,6 +120,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: premium
+    label: Premium
   - id: community
     label: Community
+
+
 

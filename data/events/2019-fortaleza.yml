@@ -138,6 +138,16 @@ sponsors:
     level: silver
   - id: alura
     level: community
+  - id: redhat
+    level: gold
+  - id: wiser
+    level: bronze
+  - id: elastic
+    level: silver
+  - id: pmgt
+    level: silver
+  - id: edna-nogueira
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
