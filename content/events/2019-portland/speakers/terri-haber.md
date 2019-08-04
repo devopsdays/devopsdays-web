@@ -1,7 +1,7 @@
 +++
 Title = "Terri Haber"
 Twitter = ""
-image = ""
+image = "terri-haber.jpg"
 type = "speaker"
 linktitle = "terri-haber"
 
