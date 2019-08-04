@@ -11,6 +11,7 @@ When building reliable services unexpected user behavior can prove deadly. Yet f
 
 * [Video](https://youtu.be/pcPxyc_NFrs)
 * [Slides](https://speakerdeck.com/mbellotti/interdisciplinary-engineering)
+* [Audio](http://traffic.libsyn.com/devopsdays/Interdisciplinary-Engineering.mp3)
 
 ## Video
 
