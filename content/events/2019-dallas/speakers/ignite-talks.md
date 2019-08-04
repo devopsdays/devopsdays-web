@@ -2,8 +2,8 @@
 Title = "Ignite Talks"
 Twitter = ""
 image = ""
-type = "speaker"
-linktitle = "ignite-talks"
+type = ""
+linktitle = ""
 
 +++
 
