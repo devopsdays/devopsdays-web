@@ -262,7 +262,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
         <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
       <td>Coffee Bar</td>
-      <td>$4,000</td>
+      <td>$6,000</td>
       <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>
