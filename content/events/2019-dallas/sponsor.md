@@ -99,7 +99,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
     <tr>
       <td colspan="2">Social Media recognition on Twitter, LinkedIn, Facebook, amoung others.</td>
       <td colspan="2"><img src = ""></td>
-      <td><img src = ""></td>
+      <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
