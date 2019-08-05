@@ -1,7 +1,7 @@
 +++
 Title = "Diego Cavalcanti"
 Twitter = ""
-image = ""
+image = "diego-cavalcanti.png"
 type = "speaker"
 linktitle = "diego-cavalcanti"
 
