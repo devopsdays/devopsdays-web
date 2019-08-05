@@ -3,10 +3,10 @@ Title = "Program"
 Type = "program"
 Description = "Program for devopsdays Dallas 2019" 
 +++
-<img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
+<!--- <img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
 <div class = "row">
   <div class = "col">
-    <hr />
+    <hr /> -->
 <h5>If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br>
 <p><p>
 Our <img alt="DoDDFW Slack" src="/events/2019-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/enQtNDE0MDkzODE5MDU4LTUwNWFkYTBmNTE2MDIxZWNmN2IwNTBmNjFmZjk3ZjdlZGI2MTk4ZWZkMThkZDkxMzQ2NzNiYjY1YjlmZjZiM2Q">here</a></strong> to join.<br>

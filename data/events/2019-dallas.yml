@@ -323,8 +323,8 @@ program:
     date: 2019-08-20
     start_time: "09:05"
     end_time: "09:50"
-  - title: "Talk #1"
-    type: custom
+  - title: "damon-edwards"
+    type: talk
     date: 2019-08-20
     start_time: "09:50"
     end_time: "10:20"
@@ -333,8 +333,8 @@ program:
     date: 2019-08-20
     start_time: "10:20"
     end_time: "10:30"
-  - title: "Talk #2"
-    type: custom
+  - title: "quintessence-anx"
+    type: talk
     date: 2019-08-20
     start_time: "10:30"
     end_time: "11:00"
@@ -343,12 +343,12 @@ program:
     date: 2019-08-20
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Talk #3"
-    type: custom
+  - title: "dana-finster"
+    type: talk
     date: 2019-08-20
     start_time: "11:30"
     end_time: "12:00"
-  - title: "~~~~~~~~ Lunch (catered) ~~~~~~~~ Open Space - Overview"
+  - title: "Lunch (catered) | Open Space - Overview"
     type: custom
     date: 2019-08-20
     start_time: "12:00"
@@ -363,8 +363,8 @@ program:
     date: 2019-08-20
     start_time: "13:35"
     end_time: "13:50"
-  - title: "Talk #4"
-    type: custom
+  - title: "vijay-challa"
+    type: talk
     date: 2019-08-20
     start_time: "13:50"
     end_time: "14:20"  
@@ -419,8 +419,8 @@ program:
     date: 2019-08-21
     start_time: "09:05"
     end_time: "09:50"
-  - title: "Talk #5"
-    type: custom
+  - title: "derek-weeks"
+    type: talk
     date: 2019-08-21
     start_time: "09:50"
     end_time: "10:20"
@@ -429,8 +429,8 @@ program:
     date: 2019-08-21
     start_time: "10:20"
     end_time: "10:30"  
-  - title: "Talk #6"
-    type: custom
+  - title: "crux-conception"
+    type: talk
     date: 2019-08-21
     start_time: "10:30"
     end_time: "11:00"
@@ -439,12 +439,12 @@ program:
     date: 2019-08-21
     start_time: "11:00"
     end_time: "11:30"
-  - title: "Talk #7"
-    type: custom
+  - title: "dan-barker"
+    type: talk
     date: 2019-08-21
     start_time: "11:30"
     end_time: "12:00"
-  - title: "~~~~~~~~ Lunch (catered) ~~~~~~~~ Open Space - Overview"
+  - title: "Lunch (catered) | Open Space - Overview"
     type: custom
     date: 2019-08-21
     start_time: "12:00"
