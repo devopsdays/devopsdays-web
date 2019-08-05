@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Master Tooling for Containers with DevOps"
+Title = "From Zero to DevOps Superhero: The Container Edition"
 Type = "talk"
 Speakers = ["jessica-deen"]
 +++

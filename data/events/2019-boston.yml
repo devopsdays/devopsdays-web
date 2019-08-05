@@ -141,8 +141,14 @@ sponsors:
     level: platinum
   - id: facebook
     level: platinum
+  - id: atomiccoffeeroasters
+    level: alacarte
   - id: cyberark
     level: platinum
+  - id: threatstack
+    level: gold
+  - id: sweagle
+    level: startup
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -161,6 +167,8 @@ sponsor_levels:
     label: Community
   - id: alacarte
     label: a la carte (badges, lanyards, coffee, evening event)
+  - id: startup
+    label: start-up alley
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -284,8 +292,8 @@ program:
     date: 2019-09-24
     start_time: "09:00"
     end_time: "09:30"
-  - title: "TBD"
-    type: custom
+  - title: "taylor-joann"
+    type: talk
     date: 2019-09-24
     start_time: "09:30"
     end_time: "10:00"

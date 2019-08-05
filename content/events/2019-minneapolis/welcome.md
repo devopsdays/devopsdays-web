@@ -32,7 +32,9 @@ Description = "devopsdays Minneapolis 2019"
     <strong>Register</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="registration" text="Register to attend the conference!" >}}
+
+Ticket sales have ended, but you'll be able to watch a livestream! We'll link it here on Tuesday.
+
   </div>
 </div>
 
@@ -59,7 +61,7 @@ Description = "devopsdays Minneapolis 2019"
     <strong>Sponsors</strong>
   </div>
   <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
+Sponsorships have closed; please join us in 2020!
   </div>
 </div>
 

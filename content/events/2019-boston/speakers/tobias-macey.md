@@ -1,7 +1,7 @@
 +++
 Title = "Tobias Macey"
 Twitter = "TobiasMacey"
-image = "tobias-macey.png"
+image = "tobias-macey.jpg"
 type = "speaker"
 linkedin = "http://linkedin.com/in/tmacey"
 github = "blarghmatey"

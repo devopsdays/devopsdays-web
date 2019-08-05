@@ -20,22 +20,25 @@ cfp_date_announce: 2019-10-01T00:00:00-04:00 # inform proposers of status
 
 cfp_link: "https://dodmtl.ca/dodmtl19/" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
-registration_date_start: # start accepting registration. Leave blank if registration is not open yet
-registration_date_end: # close registration. Leave blank if registration is not open yet.
+registration_date_start: 2019-07-29T00:00:00-04:00# start accepting registration. Leave blank if registration is not open yet
+registration_date_end: 2019-11-04T20:00:00-04:00# close registration. Leave blank if registration is not open yet.
 
-registration_closed: "" #set this to true if you need to manually close registration before your registration end date
-registration_link: "" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
+registration_closed: "false" #set this to true if you need to manually close registration before your registration end date
+registration_link: "https://www.eiseverywhere.com/devopsdaysmontreal2019" # If you have a custom registration link, enter it here. This will control the Registration menu item as well as the "Register" button.
 
 # Location
 #
 coordinates: "45.506622,-73.564563" # The coordinates of your city. Get Latitude and Longitude of a Point: http://itouchmap.com/latlong.html
-location: "Montreal" # Defaults to city, but you can make it the venue name.
+location: "Montreal, DoubleTree Hilton hotel" # Defaults to city, but you can make it the venue name.
 location_address: "Double Tree Hilton in Montreal: 1255 Jeanne-Mance St, Montreal, QC H5B 1E5" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: Propose - Proposer
     url: "/events/2019-montreal/propose/"
     icon: "lightbulb-o"
+  - name: Registration - Inscription
+    url: "https://www.eiseverywhere.com/devopsdaysmontreal2019"
+    icon: "user-plus"
   - name: Sponsor - Sponsoriser
     url: "/events/2019-montreal/sponsor/"
     icon: "money"
@@ -52,9 +55,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: Location - Localisation
     url: "/events/2019-montreal/location/"
     icon: "map-o"
-#  - name: Registration - Inscription
-#    url: "/events/2019-montreal/registration/"
-#    icon: "user-plus"
+
 
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
@@ -84,6 +85,7 @@ team_members: # Name is the only required field for team members.
   - name: "Ian Crosby"
     employer: "Container Solutions"
   - name: "Michael McCliment"
+    employer: "Ubisoft"
     github: "cornazano"
     twitter: "cornazano"
 #  Template - name: "Sally Fields"

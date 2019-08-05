@@ -8,4 +8,4 @@ linktitle = "alline-oliveira"
 
 +++
 
-Alline Oliveira é uma Developer Expert devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, dentre outras. Hoje é CEO e CTO da fintech Crebit.
+Alline Oliveira é uma Developer Expert devido a seu trabalho em Cloud Computing. Já desenvolveu para Nike, Citibank, Qualcomm, Universidade da California, TAM, dentre outras. Hoje é CEO/CTO da fintech Crebit e consultora de inovação da B. Innovation.
