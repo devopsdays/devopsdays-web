@@ -33,7 +33,7 @@ Description = "devopsdays Minneapolis 2019"
   </div>
   <div class = "col-md-8">
 
-Ticket sales have ended, but you'll be able to watch a livestream! We'll link it here on Tuesday.
+Ticket sales have ended, but you can to watch our <a href="https://youtu.be/x6SheZjzmsU">livestream</a>! 
 
   </div>
 </div>
