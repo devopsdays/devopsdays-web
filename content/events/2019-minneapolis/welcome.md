@@ -43,7 +43,7 @@ Ticket sales have ended, but you can watch our <a href="https://youtu.be/x6SheZj
     <strong>Program</strong>
   </div>
   <div class = "col-md-8">
-    View the {{< event_link page="program" text="program." >}}
+    View the {{< event_link page="program" text="program" >}} or check out <a href="https://docs.google.com/spreadsheets/d/1kbQUJeV_La28xA2tLSnEWtVKFfWqD7MwXm9hiI08K_8/edit#gid=2100858314">Open Space</a>.
   </div>
 </div>
 
