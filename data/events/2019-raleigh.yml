@@ -121,7 +121,7 @@ sponsors:
   - id: optum
     level: platinum
   - id: cloudbees
-    level: gold
+    level: platinum
   - id: chef
     level: platinum
   - id: signalfx
@@ -133,6 +133,8 @@ sponsors:
   - id: puppet
     level: gold
   - id: vaco
+    level: gold
+  - id: zenergy
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
