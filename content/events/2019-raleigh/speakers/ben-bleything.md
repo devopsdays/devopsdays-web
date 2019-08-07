@@ -1,10 +1,8 @@
 +++
-Title = "Ben Bley"
+Title = "Ben Bleything"
 Twitter = "bleything"
 image = ""
 type = "speaker"
-linktitle = "ben-bley"
+linktitle = "ben-bleything"
 
 +++
-
-
