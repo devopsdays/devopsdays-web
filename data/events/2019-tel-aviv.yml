@@ -137,11 +137,17 @@ sponsors:
     level: organizer
   - id: spotinst
     level: platinum
+  - id: aws
+    level: platinum
   - id: elastic
     level: gold
   - id: bigpanda
     level: gold
   - id: skywiz
+    level: gold
+  - id: logz
+    level: gold
+  - id: jfrog
     level: gold
   - id: yotpo
     level: silver
