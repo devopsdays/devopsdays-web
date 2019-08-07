@@ -90,6 +90,8 @@ sponsors:
     level: gold
   - id: 2016-takealot-cape-town
     level: silver
+  - id: googledevelopers
+    level: basic
   - id: arresteddevops
     level: community
 
