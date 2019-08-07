@@ -25,4 +25,5 @@ Description = "devopsdays Geneva 2020"
   }
 </style>
 
-Soon here DevopsDays Geneva 2020 information will be available.
+Devopdays Geneva 2020 information will be available here soon.
+
