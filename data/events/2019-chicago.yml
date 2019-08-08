@@ -238,6 +238,8 @@ sponsors:
     level: bronze 
   - id: bevsechops
     level: community
+  - id: checkpoint
+    level: bronze 
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
