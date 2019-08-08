@@ -1,7 +1,7 @@
 +++
 Title = "Registration"
 Type = "event"
-Description = "Registration for devopsdays Geneva 2020"
+Description = "Registration for DevOpsDays Geneva 2020"
 +++
 
 Soon our registration information will be available here
