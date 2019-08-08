@@ -116,6 +116,8 @@ sponsors:
     level: gold
   - id: hcl
     level: gold
+  - id: gitlab
+    level: gold
   - id: tasktop
     level: silver
   - id: upstart
