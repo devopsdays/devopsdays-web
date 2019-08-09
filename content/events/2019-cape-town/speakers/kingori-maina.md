@@ -1,6 +1,7 @@
 +++
 Title = "King'ori Maina"
 Twitter = "itskingori"
+website = "https://kingori.co/"
 image = "kingori-maina.jpg"
 type = "speaker"
 linktitle = "kingori-maina"
