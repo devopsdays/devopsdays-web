@@ -149,6 +149,8 @@ sponsors:
     level: gold
   - id: sweagle
     level: startup
+  - id: instana
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
