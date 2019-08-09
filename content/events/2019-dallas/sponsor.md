@@ -28,7 +28,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
   <thead>
     <tr>
       <th scope="col" colspan="2">THE GOODS</th>
-      <th scope="col" colspan="2">DIAMOND</th>
+      <th scope="col" colspan="2"><s>DIAMOND</s></th>
       <th scope="col">PLATINUM</th>
       <th scope="col">GOLD</th>
       <th scope="col">SILVER</th>
@@ -37,7 +37,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
   <tbody>
     <tr>
       <td colspan="2">Price</td>
-      <td colspan="2">$45,000</td>
+      <td colspan="2"><s>$45,000</s></td>
       <td>$12,000</td>
       <td>$8,000</td>
       <td>$4,000</td>
@@ -52,7 +52,7 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
     </tr>
     <tr>
       <td colspan="2"></td>
-      <td colspan="2"><a href="mailto:sponsors-dallas-2019@devopsdays.org?subject=Interested%20in%20DIAMOND%20Sponsorship%20DevOpsDays%20Dallas%202019"><strong>CONTACT US</strong></a><br><strong>*Only One (1)*</strong><br>first come, first serve<br><strong>*Exp: May 25th*</strong></td>
+      <td colspan="2"><img src = "/events/2019-dallas/not_available.png"></td>
       <td>
         <!-- platinum Paypal button --> 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -84,89 +84,89 @@ Please email the organizers at <a href="mailto:organizers-dallas-2019@devopsdays
       </td>
     <tr>
       <td colspan="2">Tickets Included</td>
-      <td colspan="2">25</td>
+      <td colspan="2"><s>25</s></td>
       <td>4</td>
       <td>2</td>
       <td>1</td>      
     </tr>
     <tr>
       <td colspan="2">Logo on DevOpsDays Dallas 2019 event website</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Social Media recognition on Twitter, LinkedIn, Facebook, amoung others.</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Shout-out from MC's at kickoff and again at breaks</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
       <td colspan="2">Logo on displayed in sponsor area & Social Networking Event</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Dedicated table for swag/marketing/staffing</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td><img src = "/events/2019-dallas/half-boot.png"></td>
     </tr>
     <tr>
       <td colspan="2">Logo on a slide, rotating during breaks</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><br><strong>DEDICATED</strong></td>
+      <td colspan="2"><img src = ""><br><strong></strong></td>
       <td><img src = "/events/2019-dallas/boot.png"><br><strong>DEDICATED</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><br><strong>shared</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><br><strong>shared</strong></td>
     </tr>
       <td colspan="2">Pitch to full audience, including streaming audience <br>(provided we are able to stream the videos)</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>5-minute</strong></td>
+      <td colspan="2"><img src = ""><strong><br></strong></td>
       <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>1-minute</strong></td>
     </tr>
     <tr>
       <td colspan="2">20% Discount code provided to share with your client community</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong><br>(50) tickets</strong></td>
+      <td colspan="2"><img src = ""><strong><br></strong></td>
       <td><strong><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
       <td><img src = "/events/2019-dallas/half-boot.png"><strong><br>(10) tickets</strong></td>
     </tr>
     <tr>
       <td colspan="2">Logo on participant emails</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Dedicated demo room for customer presentations, workshops, etc.</td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"></td>
+      <td colspan="2"><img src = ""></td>
       <td><img src = "/events/2019-dallas/boot.png"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Five (5) minute greeting and introduction during the <strong>opening session each day</strong></td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong></td>
+      <td colspan="2"><img src = ""><strong></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td colspan="2">Two (2) VIP backstage passes <strong>($1,000 value)</strong></td>
-      <td colspan="2"><img src = "/events/2019-dallas/boot.png"><strong></td>
+      <td colspan="2"><img src = ""><strong></td>
       <td></td>
       <td></td>
       <td></td>
@@ -262,7 +262,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
         <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
       <td>Coffee Bar</td>
-      <td>$4,000</td>
+      <td>$6,000</td>
       <td>A custom high-end coffee bar will be available in a large lounge area during the event. All conference attendees will be invited to receive a coffee. The attendees must get a ticket by interacting with a vendor to receive a free coffee.
           <ul class="fa-ul">
             <li><i class="fa-li fa fa-check-square"></i>One sponsorship available for each day of the conference.</li>

@@ -4,7 +4,8 @@ Twitter = "ConceptionCrux"
 image = "crux-conception.png"
 type = "speaker"
 linktitle = ["crux-conception"]
-Website = "https://www.linkedin.com/in/crux-conception/"
+LinkedIn = "https://www.linkedin.com/in/crux-conception/"
+Website = "https://www.speakermatch.com/profile/cruxconception/"
 
 +++
 

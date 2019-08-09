@@ -1,10 +1,11 @@
 +++
-Title = "Michael Nygard"
+Title = "KEYNOTE: Michael Nygard"
 image = "michael-nygard.png"
 Twitter = "mtnygard"
 type = "speaker"
 linktitle = ["michael-nygard"]
 Website = ""
+LinkedIn = "https://www.linkedin.com/in/mtnygard/"
 
 +++
 

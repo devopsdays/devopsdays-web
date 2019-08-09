@@ -4,6 +4,7 @@ image = "dana-finster.png"
 Twitter = "dana_finster"
 type = "speaker"
 linktitle = ["dana-finster"]
+LinkedIn = "https://www.linkedin.com/in/dana-finster-2b831097/"
 
 +++
 

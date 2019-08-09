@@ -5,6 +5,7 @@ Twitter = "weekstweets"
 type = "speaker"
 linktitle = ["derek-weeks"]
 Website = "https://www.sonatype.com"
+LinkedIn = "https://www.linkedin.com/in/derekeweeks/"
 
 +++
 
