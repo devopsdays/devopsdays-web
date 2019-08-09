@@ -317,7 +317,7 @@ program:
     date: 2019-08-20
     start_time: "08:45"
     end_time: "08:55"
-  - title: "Welcome - TBA"
+  - title: "Welcome - Mark Saum (Organizer)"
     type: custom
     date: 2019-08-20
     start_time: "08:55"
@@ -413,7 +413,7 @@ program:
     date: 2019-08-21
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Welcome - Mark Andersen"
+  - title: "Welcome - Mark Andersen (Organizer)"
     type: custom
     date: 2019-08-21
     start_time: "08:45"
