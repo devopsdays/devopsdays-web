@@ -57,7 +57,7 @@ team_members: # Name is the only required field for team members.
   - name: "Binh Chau"
     employer: "Cloud Partners"
     twitter: ""
-    image: "binh.png"
+    image: "binh.jpg"
     bio: "Binh is a proven product leader that have launched a number of innovative products for top-tiered companies.  She has a track record of creating product strategy and actionable roadmaps and translating them into impactful products for consumers and enterprises."
   - name: "Briana Egan"
     employer: "Agile Leadership Network in Houston"
