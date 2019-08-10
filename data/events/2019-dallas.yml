@@ -273,6 +273,10 @@ sponsors:
     level: gold
   - id: gitlab
     level: silver
+  - id: awsdeepdives
+    level: community
+  - id: kudo
+    level: community        
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
