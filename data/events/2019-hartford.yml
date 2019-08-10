@@ -87,7 +87,7 @@ team_members: # Name is the only required field for team members.
     employer: "Travelers"
     github: ""
     website: ""
-    image: ""
+    image: "kelley-hedley.jpg"
     bio: ""
   - name: "Henry Quinn"
     twitter: "Quinncuatro"
