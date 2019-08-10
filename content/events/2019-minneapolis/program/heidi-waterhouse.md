@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Find Your Business Value ~or~ Some Kind of Fiat Currency"
 Type = "talk"
+googleslides = "1pF_T_F58sGk13acuVHqKo_xZWUPkCDNKjm-TioTSZzw"
 Speakers = ["heidi-waterhouse"]
 +++
 
