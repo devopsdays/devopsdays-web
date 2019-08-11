@@ -253,22 +253,24 @@ sponsors:
     level: silver
   - id: sysdig
     level: silver
-  - id: rundeck
-    level: gold
-  - id: azulsystems
-    level: silver
   - id: chef
     level: gold
+  - id: rundeck
+    level: gold      
+  - id: azulsystems
+    level: silver
   - id: circleci
     level: gold
+  - id: splitio
+    level: gold    
   - id: newrelic
     level: gold
-  - id: splitio
-    level: gold
+  - id: beyondsoft
+    level: gold    
   - id: mesosphere
     level: gold
-  - id: beyondsoft
-    level: gold
+  - id: vmware
+    level: gold    
   - id: sonatype
     level: gold
   - id: gitlab
@@ -276,7 +278,7 @@ sponsors:
   - id: awsdeepdives
     level: community
   - id: kudo
-    level: community        
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
