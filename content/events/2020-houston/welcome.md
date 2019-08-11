@@ -22,6 +22,14 @@ Description = "devopsdays Houston 2020"
       <div class = "col-md-2"><strong>Contact</strong></div>
       <div class = "col-md-8">{{< event_link page="contact" text="Get in touch with the organizers" >}}</div>
     </div>
+    <!-- Slack -->
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Slack</strong>
+      </div>
+      <div class="col-md-8">Join <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNzIyMzk1MTIyOTYwLTFmMWI0NTg3YzE3M2Q2MDY0NjE5MjNjMTdhZWI5ODFkOWU0YzM1M2QwOGI3OGQ2NGJjNzcxOTU5NmY4OTA4NzI">Houston DevOps</a> Slack workspace.
+      </div>
+    </div>
     <!-- Twitter -->
     <div class="row">
       <div class="col-md-2"></div>
@@ -36,14 +44,6 @@ Description = "devopsdays Houston 2020"
           authorize: true
         </script>
         <script type="IN/FollowCompany" data-id="35523918"></script>
-      </div>
-    </div>
-    <!-- Slack -->
-    <div class="row">
-      <div class="col-md-2">
-        <strong>Slack</strong>
-      </div>
-      <div class="col-md-8">Join <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNTk0NzgyMDI0MTc4LTk1MTVmYTA0NGYzNTg5YTIxNGMwNTljZjc1OWJiNWU2OWZiZGRjZTc3MjllODVlYzJjMDE4MzYyNWYxMjE2Mjg">Houston DevOps</a> Slack workspace.
       </div>
     </div>
   </div>
