@@ -52,10 +52,16 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 # These are the same people you have on the mailing list and Slack channel.
 team_members: # Name is the only required field for team members.
   - name: "Zhou Jihai"
+    image: "zhou-jihai.jpg"
+    linkedin: https://www.linkedin.com/in/jihai-zhou-93632424
   - name: "Wu Fei"
+    image: "wu-fei.jpg"
   - name: "Li Qiang"
+    image: "li-qiang.jpg"
   - name: "Zhang Jie"
+    image: "zhang-jie.jpg"
   - name: "Wu Ting"
+    image: "wu-ting.jpg"
   - name: "Sun Zhenpeng"
     role: "Advisor"
     image: "sun-zhenpeng.jpg"
@@ -70,7 +76,7 @@ team_members: # Name is the only required field for team members.
     image: "zhang-le.jpg"
     linkedin: "https://www.linkedin.com/in/le-zhang-121b256b/"
     twitter: "overloadzy"
-    
+
 organizer_email: "organizers-shanghai-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-shanghai-2019@devopsdays.org" # Put your proposal email address here
 
