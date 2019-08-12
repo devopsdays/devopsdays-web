@@ -175,6 +175,8 @@ sponsors:
     level: premium
   - id: chef
     level: premium
+  - id: sonatype
+    level: premium
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community

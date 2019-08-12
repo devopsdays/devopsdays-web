@@ -137,7 +137,7 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
-  - id: slalom
+  - id: slalom-build
     level: platinum
   - id: facebook
     level: platinum
@@ -145,6 +145,12 @@ sponsors:
     level: alacarte
   - id: cyberark
     level: platinum
+  - id: threatstack
+    level: gold
+  - id: sweagle
+    level: startup
+  - id: instana
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -163,6 +169,8 @@ sponsor_levels:
     label: Community
   - id: alacarte
     label: a la carte (badges, lanyards, coffee, evening event)
+  - id: startup
+    label: start-up alley
 
 program:
   - title: "Registration, Breakfast, Sponsors"
@@ -235,8 +243,8 @@ program:
     date: 2019-09-23
     start_time: "13:00"
     end_time: "13:30"
-  - title: "TBD"
-    type: custom
+  - title: "arthur-maltson"
+    type: talk
     date: 2019-09-23
     start_time: "13:35"
     end_time: "14:05"
@@ -321,7 +329,7 @@ program:
     date: 2019-09-24
     start_time: "10:50"
     end_time: "11:20"
-  - title: "garland-kan"
+  - title: "joel-tosi"
     type: talk
     date: 2019-09-24
     start_time: "11:25"

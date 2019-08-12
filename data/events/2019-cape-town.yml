@@ -35,9 +35,9 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  # - name: program
   - name: location
   - name: registration
-  - name: sponsor
+#  - name: sponsor
   - name: speakers
-  - name: propose
+#  - name: propose
   - name: contact
   - name: conduct
 
@@ -88,12 +88,14 @@ sponsors:
     level: gold
   - id: offerzen
     level: gold
-  - id: 2016-takealot-cape-town
+  - id: takealot-group
     level: silver
+  - id: googledevelopers
+    level: basic
   - id: arresteddevops
     level: community
 
-sponsors_accepted : "yes"
+sponsors_accepted : "no"
 
 sponsor_levels:
   - id: platinum
