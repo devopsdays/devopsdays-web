@@ -101,7 +101,7 @@ proposal_email: "proposals-montreal-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-   - id: rancher
+   - id: rancher-before-20190812
      level: silver
    - id: treeptik
      level: silver
