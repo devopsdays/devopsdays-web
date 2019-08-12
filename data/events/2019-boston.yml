@@ -329,8 +329,8 @@ program:
     date: 2019-09-24
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD"
-    type: custom
+  - title: "joel-tosi"
+    type: talk
     date: 2019-09-24
     start_time: "11:25"
     end_time: "11:55"
