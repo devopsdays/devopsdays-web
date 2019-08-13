@@ -282,7 +282,9 @@ sponsors:
   - id: capitalone
     level: gold
   - id: capitalone
-    level: coffee    
+    level: coffee 
+  - id: kudelskisecurity-f5
+    level: gold   
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
