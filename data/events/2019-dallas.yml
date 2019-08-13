@@ -267,7 +267,7 @@ sponsors:
     level: gold
   - id: beyondsoft
     level: gold    
-  - id: mesosphere
+  - id: d2iq
     level: gold
   - id: vmware
     level: gold    
@@ -279,6 +279,10 @@ sponsors:
     level: community
   - id: kudo
     level: community
+  - id: capitalone
+    level: gold
+  - id: capitalone
+    level: coffee    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -299,8 +303,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
-# - id: workshop
-#   label: Workshop
+  - id: coffee
+    label: Coffee Bar
 #   max: 3
 # - id: bronze
 #   label: Bronze
