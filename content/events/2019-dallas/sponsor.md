@@ -271,7 +271,7 @@ All Media / Community sponsors are entities we value as pillars of continuous le
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on the DevOpsDays Dallas 2019 event website.</li>
             <li><i class="fa-li fa fa-check-square"></i>Recognition and logo on all email communication.</li>
             <li><i class="fa-li fa fa-check-square"></i>All beverages to be served are included in the price.</li></td>
-      <td>2</td>
+      <td><s>2</s>  <strong>1</strong></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
