@@ -1,7 +1,7 @@
 +++
 Title = "Daniel Oh"
 Twitter = "danieloh30"
-image = "daniel-oh.png"
+image = "daniel-oh.jpeg"
 type = "speaker"
 linktitle = "daniel-oh"
 
