@@ -161,7 +161,9 @@ sponsors:
  # - id: arresteddevops
  #   level: community
   - id: ibm
-    level: gold             
+    level: gold
+  - id: genesys
+    level: gold
   - id: avaya
     level: silver
   - id: aspect
