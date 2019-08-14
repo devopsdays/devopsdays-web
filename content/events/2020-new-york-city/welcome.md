@@ -87,3 +87,7 @@ DevOpsDays is coming back to New York City in 2020! We'll announce dates in the 
 <!--
 {{< event_twitter >}}
 -->
+
+<div style="text-align:center;">
+  {{< event_logo >}}
+</div>
