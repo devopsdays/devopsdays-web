@@ -221,7 +221,7 @@ program:
     date: 2019-10-01
     start_time: "11:00"
     end_time: "11:30"
-  - title: "josh-stella"
+  - title: "cory-watson"
     type: talk
     date: 2019-10-01
     start_time: "11:30"
@@ -351,7 +351,7 @@ program:
     date: 2019-10-02
     start_time: "10:30"
     end_time: "11:00"
-  - title: "cory-watson"
+  - title: "ricardo-green"
     type: talk
     date: 2019-10-02
     start_time: "11:00"

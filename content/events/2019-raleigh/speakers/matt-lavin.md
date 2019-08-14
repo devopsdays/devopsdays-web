@@ -1,7 +1,7 @@
 +++
 Title = "Matt Lavin"
 Twitter = "mdlavin"
-image = "matt-lavin.png"
+image = "matt-lavin.jpg"
 type = "speaker"
 linktitle = "matt-lavin"
 
