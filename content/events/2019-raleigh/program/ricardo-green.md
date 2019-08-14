@@ -4,10 +4,10 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Did Netflix Inadvertently Figure Out How to Better Secure the Cloud?"
 Type = "talk"
-Speakers = ["josh-stella"]
+Speakers = ["ricardo-green"]
 +++
 
-Netflix has long championed “chaos engineering” to ensure viewers’ “Stranger Things” binge watching sessions are not interrupted. Netflix is one of a growing number of companies including Nike, Amazon and Microsoft that leverage chaos engineering as a means of stress testing their cloud infrastructures against a variety of unpredictable cloud events, such as a loss of cloud resources or entire regions. This has enabled them to create highly resilient infrastructure environments and ensure reliable application delivery. 
+Netflix has long championed “chaos engineering” to ensure viewers’ “Stranger Things” binge watching sessions are not interrupted. Netflix is one of a growing number of companies including Nike, Amazon and Microsoft that leverage chaos engineering as a means of stress testing their cloud infrastructures against a variety of unpredictable cloud events, such as a loss of cloud resources or entire regions. This has enabled them to create highly resilient infrastructure environments and ensure reliable application delivery.
 
 This presentation by Fugue Founder and CTO Josh Stella will explain how these companies have also created a model that any organization can follow to improve the security of their cloud-based platforms.
 
