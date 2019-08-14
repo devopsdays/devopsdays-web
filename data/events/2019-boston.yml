@@ -107,7 +107,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: pegasystems
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
   - id: arresteddevops
     level: community
@@ -150,6 +150,8 @@ sponsors:
   - id: sweagle
     level: startup
   - id: instana
+    level: gold
+  - id: athenahealth
     level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
