@@ -102,6 +102,8 @@ sponsors:
     level: platina
   - id: 4yousee
     level: bronze
+  - id: bhs
+    level: bronze
   - id: devopsbh
     level: community
   - id: devops-bootcamp
@@ -126,3 +128,52 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  ## Periodo da Manha
+  - title: "Credenciamento e registro"
+    type: custom
+    date: 2019-09-28
+    start_time: "08:00"
+    end_time: "09:50"
+
+  - title: "Abertura e boas vindas"
+    type: custom
+    date: 2019-09-28
+    start_time: "08:50"
+    end_time: "09:00"
+
+  - title: "Keynote da Manha - A definir" #arquivo, caso talk
+    type: custom # talk
+    comments: Keynote da manhã
+    date: 2019-09-28
+    start_time: "09:00"
+    end_time: "09:40"
+
+  - title: "Patrocinadores" #arquivo, caso talk
+    type: custom # talk
+    comments: Palavrinha dos patrocinadores
+    date: 2019-09-28
+    start_time: "09:40"
+    end_time: "10:00"
+
+  - title: "Coffee Break" #arquivo, caso talk
+    type: custom # talk
+    comments: Intervalo
+    date: 2019-09-28
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "eduardo-ximenes"
+    type: talk
+    comments: DevOps e SRE Onde essas forças se cruzam - Eduardo Ximenes
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "gustavo-pantuza"
+    type: talk
+    comments: Building Reliable and Efficient Services through gRPC - Gustavo Pantuza
+    date: 2019-09-28
+    start_time: "11:00"
+    end_time: "11:30"

@@ -11,4 +11,8 @@ Taming the complex distributed systems we're responsible for requires changing n
 
 In this talk, you'll learn about several practices core to production excellence: giving everyone a stake in production, collaborating to ensure observability, measuring with Service Level Objectives, and prioritizing improvements using risk analysis.
 
-
+<b>Slides</b>
+<br>
+<iframe src="https://docs.google.com/file/d/19c8yeYM9wOJYjk83zd7ZLHmj55wKXJVA/preview" title="Liz Fong-Jones" width="600" height="300">
+  <p>Your browser does not support iframes; please see https://drive.google.com/file/d/19c8yeYM9wOJYjk83zd7ZLHmj55wKXJVA/view for the slides.</p>
+</iframe>

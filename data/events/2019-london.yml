@@ -89,6 +89,8 @@ sponsors:
     # Gold
   - id: appdynamics
     level: gold
+  - id: capgemini
+    level: gold
   - id: circleci
     level: gold
   - id: chef
@@ -107,6 +109,8 @@ sponsors:
   - id: capitaloneuk
     level: silver
   - id: datadog
+    level: silver
+  - id: globalknowledge
     level: silver
   - id: pagerduty
     level: silver
@@ -146,6 +150,8 @@ sponsors:
   - id: sheffield-devops
     level: community
   - id: sous-chefs
+    level: community
+  - id: tech-notts
     level: community
   - id: london-devops
     level: community

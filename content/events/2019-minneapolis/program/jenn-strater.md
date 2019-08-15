@@ -4,6 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Code as Art"
 Type = "talk"
+speakerdeck = "https://speakerdeck.com/jlstrater/code-as-art"
 Speakers = ["jenn-strater"]
 +++
 
