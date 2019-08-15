@@ -20,7 +20,7 @@ cfp_date_end: 2019-09-02 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://papercall.io/devopsdaysbh" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://papercall.io/devopsdaysbh2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2019-07-01" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2019-09-28" # close registration. Leave blank if registration is not open yet.
@@ -100,15 +100,21 @@ proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your propos
 sponsors:
   - id: pucminas
     level: platina
+  - id: smarttbot
+    level: prata
   - id: 4yousee
     level: bronze
   - id: bhs
     level: bronze
+  - id: izap
+    level: bronze
+  - id: vidadeprogramador
+    level: community
+  - id: digitalocean
+    level: community
   - id: devopsbh
     level: community
   - id: devops-bootcamp
-    level: community
-  - id: arresteddevops
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -177,3 +183,52 @@ program:
     date: 2019-09-28
     start_time: "11:00"
     end_time: "11:30"
+
+  - title: "Almoço" #arquivo, caso talk
+    type: custom # talk
+    comments: Almoço
+    date: 2019-09-28
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "Coffee Break" #arquivo, caso talk
+    type: custom # talk
+    comments: Intervalo
+    date: 2019-09-28
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "alexandre-borges"
+    type: talk
+    comments: Threats and Common System protections against Exploitation and Reversing - Alexandre Borges
+    date: 2019-09-28
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "joao-brito"
+    type: talk
+    comments: Kubernetes está acabado - João Brito
+    date: 2019-09-28
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "yago-bruno"
+    type: talk
+    comments: Migrando o Nubank para Kubernetes - Lições aprendidas
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Keynote de encerramento - Henrique bastos" #arquivo, caso talk
+    type: custom # talk
+    comments: Keynote da tarde
+    date: 2019-09-28
+    start_time: "17:00"
+    end_time: "17:40"
+
+  - title: "Encerramento, patrocinadores e sorteio de brindes" #arquivo, caso talk
+    type: custom # talk
+    comments: Encerramento, patrocinadores e sorteio de brindes
+    date: 2019-09-28
+    start_time: "17:40"
+    end_time: "18:00"
