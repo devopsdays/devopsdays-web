@@ -94,8 +94,8 @@ sponsors:
     level: gold
   - id: takealot
     level: silver
-#  - id: nedbank
-#    level: silver
+  - id: nedbank
+    level: silver
   - id: googledevelopers
     level: basic
   - id: arresteddevops
