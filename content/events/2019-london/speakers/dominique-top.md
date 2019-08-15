@@ -1,7 +1,7 @@
 +++
 Title = "Dominique Top"
 Twitter = "devopsdom"
-image = ""
+image = "dominique-top.png"
 type = "speaker"
 linktitle = "dominique-top"
 
