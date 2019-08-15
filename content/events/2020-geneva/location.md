@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Geneva 2020"
+Description = "Location for DevOpsDays Geneva 2020"
 +++
 
 The event will be taking place at

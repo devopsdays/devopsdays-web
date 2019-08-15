@@ -3,7 +3,7 @@ year: "2020" # The year of the event. Make sure it is in quotes.
 city: "Geneva" # The displayed city name of the event. Capitalize it.
 event_twitter: "DevopsdaysGe" # Change this to the twitter handle for your event such as devopsdayschi or devopsdaysmsp
 event_logo: "logo-square.jpg"
-description: "Devopsdays Geneva second edition!" # Edit this to suit your preferences
+description: "DevOpsDays is coming back to Geneva!" # Edit this to suit your preferences
 ga_tracking_id: "UA-85366825-4" # If you have your own Google Analytics tracking ID, enter it here. Example: "UA-74738648-1"
 
 # All dates are in unquoted 2020-MM-DDTHH:MM:SS+TZ:TZ, like this:
@@ -52,21 +52,38 @@ nav_elements: # List of pages you want to show up in the navigation of your page
 team_members: # Name is the only required field for team members.
   - name: "Matteo Mazzeri"
     employer: "ENALEAN"
-    twitter: "matemaz"
-    bio: "Polyglotte trans-disciplinaire, Matteo Mazzeri est speaker et community facilitator pour Enalean éditeur de la forge libre Tuleap. Il est co-fondateur des Responsive City Camps et co-organisateur de plusieurs conférences internationales. Il est également créateur de ponts et instigateur de solutions innovantes “human first” afin d’aider les entreprises et les collectivités a effectuer une transition numérique vertueuse."
-    linkedin: "https://www.linkedin.com/in/mazzeri"
-    twitter: "matemaz"
     website: "https://tuleap.org/"
+    twitter: "matemaz"
+    linkedin: "https://www.linkedin.com/in/mazzeri"
     image: matteo.jpg
+    bio: "Polyglotte trans-disciplinaire, Matteo Mazzeri est speaker et community facilitator pour Enalean éditeur de la forge libre Tuleap. Il est co-fondateur des Responsive City Camps et co-organisateur de plusieurs conférences internationales. Il est également créateur de ponts et instigateur de solutions innovantes “human first” afin d’aider les entreprises et les collectivités a effectuer une transition numérique vertueuse."
   - name: "Matthieu Robin"
-    linkedin: "https://www.linkedin.com/in/robinmatthieu/"
     employer: "Hidora"
     website: "https://hidora.com/"
-    twitter: matthieurobin
+    twitter: "matthieurobin"
+    linkedin: "https://www.linkedin.com/in/robinmatthieu/"
     image: matthieu.jpg
-  - name: "Frédric Deniger"
+    bio: ""
+  - name: "Frédéric Deniger"
+    employer: "CapeDev Technologies"
+    website: "https://capedev.tech/"
+    linkedin: "https://www.linkedin.com/in/deniger/"
+    twitter: "DenigerFrederic"
+    image: fred.jpg
+    bio: "Technical Team Leader with more than 15 years' experience managing complex IT projects in fast-paced environments. Dedicated team player with an in-depth knowledge of agile methodology and the ability to implement DevOps practices to reduce development times and improve quality. Results-focused and adaptable. Track record of delivering successful projects in a variety of sectors e.g. banking, scientific community, international organizations."
   - name: "Gaelle Delesderrier"
+    employer:  M.I.C.E. spirit
+    website: https://mice-spirit.com
+    linkedin: "https://www.linkedin.com/in/ga%C3%ABlle-delesderrier-019a6727/"
+    image: gaelle.jpg
+    bio: "Gaëlle, genevoise, active en agence événementielle depuis 10 ans, est notre spécialiste de l’incentive et une grande passionnée de la montagne. Faites-lui confiance pour l’organisation de vos séminaires, lancements de produits et incentives aussi bien en Suisse qu’à l’international. Elle saura vous dénicher les adresses exclusives et méconnues ainsi que les astuces qui feront de votre événement un succès. Elle vous guidera dans votre programme sur mesure pour créer un moment d’émotion et rendre votre expérience unique."
   - name: "Sen Catala"
+    employer:  M.I.C.E. spirit
+    website: https://mice-spirit.com
+    linkedin: "https://www.linkedin.com/in/sencatala/"
+    image: sen.jpg
+    bio: "Sen, de formation hôtelière, a 12 ans d’expérience dans l’organisation d’événements. Ses qualités sont la connaissance des grandes villes européennes qu’il a sillonnées tout au long de ces dernières années, ainsi qu’un réseau de partenaires de confiance. Fort de son expérience dans le domaine pharmaceutique, il saura répondre à vos problématiques de compliance. Avec son humour et sa bonne humeur, il saura vous écouter et trouver la solution correspondant à vos attentes."
+
 
 organizer_email: "organizers-geneva-2020@devopsdays.org" # Put your organizer email address here
 proposal_email: "organizers-geneva-2020+proposals@devopsdays.org" # Put your proposal email address here
