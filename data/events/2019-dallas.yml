@@ -140,28 +140,28 @@ team_members: # Name is the only required field for team members.
 #   website:
 #   github:
     image: "roger.jpg"
-  - name: "Charles Humphrey"
-    role: ""
-    employer: "Organizer Role - Backup Leadership Summit"
-    bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
-<br><br>
-Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
-    twitter: ""
-    linkedin: "https://www.linkedin.com/in/ryandymek/"
+#  - name: "Charles Humphrey"
+#    role: ""
+#    employer: "Organizer Role - Backup Leadership Summit"
+#    bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
+#<br><br>
+#Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
+#    twitter: ""
+#   linkedin: ""
 #   facebook:
-    website: "http://www.talonmartialarts.com/"
+#   website: "http://www.talonmartialarts.com/"
 #   github:
-    image: "charles.jpg"
-  - name: "Ryan Dymek"
-    role: "Dymek Solutions, Inc."
-    employer: ""
-    bio: ""
-    twitter: "RyanDymek"
-    linkedin: "https://www.linkedin.com/in/ryandymek/"
+#   image: "charles.jpg"
+# - name: "Ryan Dymek"
+#   role: "Dymek Solutions, Inc."
+#   employer: ""
+#   bio: ""
+#   twitter: "RyanDymek"
+#   linkedin: "https://www.linkedin.com/in/ryandymek/"
 #   facebook:
-    website: "https://www.dymekonline.com/"
+#   website: "https://www.dymekonline.com/"
 #   github:
-    image: "ryan.jpg"
+#   image: "ryan.jpg"
 # - name: "Mike Rosado"
 #   employer: "Organizer Role - Website / devopsdays.org Global Core Organizer"
 #   role: "Independent Consultant"
@@ -187,22 +187,23 @@ Throughout his career, he has provided strategic direction to meet organizationa
 #   employer: "Organizer Role - "
     role: "Automation Anywhere"
 #   bio: ""
-#   twitter: ""
-#   linkedin: "https://"
-#   facebook:
-#   website: ""
-#   github: ""
-#   image: ".jpg"
-# - name: ""
-#   employer: "Organizer Role - "
-#   role: ""
-#   bio: ""
     twitter: "PurgersonScott"
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
 #   facebook:
 #   website: ""
 #   github: ""
     image: "scott.jpg"  
+
+# - name: ""
+#   employer: "Organizer Role - "
+#   role: ""
+#   bio: ""
+#   twitter: ""
+#   linkedin: "https://"
+#   facebook:
+#   website: ""
+#   github: ""
+#   image: ".jpg"
 
 organizer_email: "organizers-dallas-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2019@devopsdays.org" # Put your proposal email address here
