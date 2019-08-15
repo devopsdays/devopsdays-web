@@ -217,7 +217,7 @@ program:
     date: 2019-09-17
     start_time: "16:00"
     end_time: "16:40"
-  - title: "kris-buytaert"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-09-17
     start_time: "16:50"
@@ -296,7 +296,7 @@ program:
     date: 2019-09-18
     start_time: "15:00"
     end_time: "15:40"
-  - title: "aubrey-stearn"
+  - title: "kris-buytaert"
     type: talk
     date: 2019-09-18
     start_time: "15:50"
