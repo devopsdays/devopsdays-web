@@ -170,19 +170,59 @@ program:
     start_time: "10:00"
     end_time: "10:30"
 
+  - title: "paulo-mendonca"
+    comments: Workshop
+    type: workshop
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+
   - title: "eduardo-ximenes"
     type: talk
-    comments: DevOps e SRE Onde essas forças se cruzam - Eduardo Ximenes
+    comments: Auditorio principal
     date: 2019-09-28
     start_time: "10:30"
     end_time: "11:00"
 
+  - title: "mateus-prado"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "Sala Devops 360"
+    type: custom
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+    
+  - title: "Sala Devops Carreira"
+    type: custom
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+
   - title: "gustavo-pantuza"
     type: talk
-    comments: Building Reliable and Efficient Services through gRPC - Gustavo Pantuza
+    comments: Auditorio principal
     date: 2019-09-28
     start_time: "11:00"
     end_time: "11:30"
+
+  - title: "osanam-junior"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "izael-effemberg"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "11:30"
+    end_time: "12:00"
 
   - title: "Almoço" #arquivo, caso talk
     type: custom # talk
@@ -190,6 +230,32 @@ program:
     date: 2019-09-28
     start_time: "12:00"
     end_time: "13:00"
+
+  - title: "jefferson-otoni"
+    comments: Workshop
+    type: workshop
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+
+  - title: "Sala Devops 360"
+    type: custom
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+
+  - title: "carol-valencia"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "Sala Devops Carreira"
+    type: custom
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "15:00"
 
   - title: "Coffee Break" #arquivo, caso talk
     type: custom # talk
@@ -200,21 +266,21 @@ program:
 
   - title: "alexandre-borges"
     type: talk
-    comments: Threats and Common System protections against Exploitation and Reversing - Alexandre Borges
+    comments: Auditorio principal
     date: 2019-09-28
     start_time: "15:30"
     end_time: "16:00"
 
   - title: "joao-brito"
     type: talk
-    comments: Kubernetes está acabado - João Brito
+    comments: Auditorio principal
     date: 2019-09-28
     start_time: "16:00"
     end_time: "16:30"
 
   - title: "yago-bruno"
     type: talk
-    comments: Migrando o Nubank para Kubernetes - Lições aprendidas
+    comments: Auditorio principal
     date: 2019-09-28
     start_time: "16:30"
     end_time: "17:00"
