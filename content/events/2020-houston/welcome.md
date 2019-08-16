@@ -5,16 +5,47 @@ aliases = ["/events/2020-houston/"]
 Description = "devopsdays Houston 2020"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Dates</strong>
+<div class="row">
+  <div class="col-md-3">
+      <div style="text-align:center;">{{< event_logo >}}</div>
   </div>
-  <div class = "col-md-8">
-    {{< event_start >}} - {{< event_end >}}
+  <div class="col-md-6">
+    <div class = "row">
+      <div class = "col-md-2"><strong>Dates</strong></div>
+      <div class = "col-md-8">{{< event_start >}} - {{< event_end >}}</div>
+    </div>
+    <div class = "row">
+      <div class = "col-md-2"><strong>Sponsors</strong></div>
+      <div class = "col-md-8">{{< event_link page="sponsor" text="Sponsor the conference!" >}}</div>
+    </div>
+    <div class = "row">
+      <div class = "col-md-2"><strong>Contact</strong></div>
+      <div class = "col-md-8">{{< event_link page="contact" text="Get in touch with the organizers" >}}</div>
+    </div>
+    <!-- Slack -->
+    <div class="row">
+      <div class="col-md-2">
+        <strong>Slack</strong>
+      </div>
+      <div class="col-md-8">Join <a href="https://join.slack.com/t/houstondevops/shared_invite/enQtNzIyMzk1MTIyOTYwLTFmMWI0NTg3YzE3M2Q2MDY0NjE5MjNjMTdhZWI5ODFkOWU0YzM1M2QwOGI3OGQ2NGJjNzcxOTU5NmY4OTA4NzI">Houston DevOps</a> Slack workspace.
+      </div>
+    </div>
+    <!-- Twitter -->
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">{{< event_twitter >}}</div>
+    </div>
+    <!-- LinkedIn -->
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-8">
+        <script src="https://platform.linkedin.com/in.js" type="text/javascript">
+          lang: en_US 
+          authorize: true
+        </script>
+        <script type="IN/FollowCompany" data-id="35523918"></script>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -62,24 +93,6 @@ Description = "devopsdays Houston 2020"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div> -->
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Sponsors</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="sponsor" text="Sponsor the conference!" >}}
-  </div>
-</div>
-
-<div class = "row">
-  <div class = "col-md-2">
-    <strong>Contact</strong>
-  </div>
-  <div class = "col-md-8">
-    {{< event_link page="contact" text="Get in touch with the organizers" >}}
-  </div>
-</div>
 
 <!-- Uncomment if you added your city twitter name -->
 <!--

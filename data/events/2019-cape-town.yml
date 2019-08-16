@@ -78,6 +78,10 @@ proposal_email: "proposals-cape-town-2019@devopsdays.org"
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: microsoft
+    level: platinum
+  - id: f5
+    level: platinum
   - id: zappi
     level: gold
   - id: gitlab
@@ -88,7 +92,9 @@ sponsors:
     level: gold
   - id: offerzen
     level: gold
-  - id: takealot-group
+  - id: takealot
+    level: silver
+  - id: nedbank
     level: silver
   - id: googledevelopers
     level: basic

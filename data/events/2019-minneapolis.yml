@@ -156,7 +156,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: dynatrace
     level: platinum

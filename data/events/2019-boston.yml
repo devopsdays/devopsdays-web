@@ -107,7 +107,7 @@ sponsors:
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: pegasystems
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
   - id: arresteddevops
     level: community
@@ -137,7 +137,7 @@ sponsors:
     level: platinum
   - id: chef
     level: platinum
-  - id: slalom
+  - id: slalom-build
     level: platinum
   - id: facebook
     level: platinum
@@ -149,6 +149,10 @@ sponsors:
     level: gold
   - id: sweagle
     level: startup
+  - id: instana
+    level: gold
+  - id: athenahealth
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -327,8 +331,8 @@ program:
     date: 2019-09-24
     start_time: "10:50"
     end_time: "11:20"
-  - title: "TBD"
-    type: custom
+  - title: "joel-tosi"
+    type: talk
     date: 2019-09-24
     start_time: "11:25"
     end_time: "11:55"

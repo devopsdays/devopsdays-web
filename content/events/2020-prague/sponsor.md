@@ -30,10 +30,26 @@ The best thing to do is send engineers to interact with the experts at devopsday
 
 <hr/>
 
+<h3>Sponsor Packages</h3>
+<p>
+We offer several sponsorship packages. And also special areas of the conference that can be covered in separate bundles.<br />
+All packages contain:
+<ul>
+<li>Materials/swag in bag for attendees
+<li>Logo on web
+<li>Logo on shared slide, rotating during breaks
+<li>Logo placement on printed materials
+<li>Logo on map in bulletin (if available)
+</ul>
+</p>
+<br />
+<br />
+
 <div align="center">
 <table border=1 cellspacing=1 cellpadding=10>
   <tr>
     <th></th>
+    <th><center>Starter<br />1000&nbsp;EUR</center></th>
     <th><center>Bronze<br />2500&nbsp;EUR</center></th>
     <th><center>Silver<br />3500&nbsp;EUR</center></th>
     <th><center>Gold<br />6000&nbsp;EUR</center></th>
@@ -41,6 +57,7 @@ The best thing to do is send engineers to interact with the experts at devopsday
   </tr>
   <tr>
     <td>Tickets</td>
+    <td bgcolor="#d9ead3">1</td>
     <td bgcolor="#d9ead3">2</td>
     <td bgcolor="#d9ead3">4</td>
     <td bgcolor="#d9ead3">5</td>
@@ -60,18 +77,21 @@ The best thing to do is send engineers to interact with the experts at devopsday
   </tr>
   <tr>
     <td>Discount for additional tickets</td>
+    <td bgcolor="#d9ead3">15</td>
     <td bgcolor="#d9ead3">25</td>
     <td bgcolor="#d9ead3">30</td>
     <td bgcolor="#d9ead3">35</td>
   </tr>
   <tr>
     <td>Booth</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">small</td>
     <td bgcolor="#d9ead3">medium</td>
     <td bgcolor="#d9ead3">large</td>
   </tr>
   <tr>
     <td>Extra booth entrance</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">1</td>
     <td bgcolor="#d9ead3">2</td>
     <td bgcolor="#d9ead3">3</td>
@@ -79,11 +99,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tr>
     <td>Banners/roll-ups on place</td>
     <td bgcolor="#d9ead3">1</td>
+    <td bgcolor="#d9ead3">1</td>
     <td bgcolor="#d9ead3">2</td>
     <td bgcolor="#d9ead3">3</td>
   </tr>
   <tr>
     <td>Banner/roll-up on main stage</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">1</td>
     <td bgcolor="#d9ead3">2</td>
@@ -91,11 +113,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tr>
     <td>Logo in newsletters</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Placement of company logo on social media</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
@@ -103,11 +127,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
   <tr>
     <td>Brochure</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">1/2 page</td>
     <td bgcolor="#d9ead3">1 page</td>
   </tr>
   <tr>
     <td>Thank you tweet</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
@@ -116,10 +142,12 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>Banner/roll-up on each stage</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Logo on the badge</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
@@ -128,16 +156,19 @@ The best thing to do is send engineers to interact with the experts at devopsday
     <td>Acknowledgements</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Running a game or lottery</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>
   </tr>
   <tr>
     <td>Promo messages in emails</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td bgcolor="#d9ead3">&nbsp;</td>

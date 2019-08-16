@@ -20,7 +20,7 @@ cfp_date_end: 2019-09-02 # close your call for proposals.
 cfp_date_announce:  # inform proposers of status
 
 cfp_open: "true"
-cfp_link: "https://papercall.io/devopsdaysbh" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://papercall.io/devopsdaysbh2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: "2019-07-01" # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: "2019-09-28" # close registration. Leave blank if registration is not open yet.
@@ -100,13 +100,21 @@ proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your propos
 sponsors:
   - id: pucminas
     level: platina
+  - id: smarttbot
+    level: prata
   - id: 4yousee
     level: bronze
+  - id: bhs
+    level: bronze
+  - id: izap
+    level: bronze
+  - id: vidadeprogramador
+    level: community
+  - id: digitalocean
+    level: community
   - id: devopsbh
     level: community
   - id: devops-bootcamp
-    level: community
-  - id: arresteddevops
     level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -126,3 +134,167 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
+
+program:
+  ## Periodo da Manha
+  - title: "Credenciamento e registro"
+    type: custom
+    date: 2019-09-28
+    start_time: "08:00"
+    end_time: "09:50"
+
+  - title: "Abertura e boas vindas"
+    type: custom
+    date: 2019-09-28
+    start_time: "08:50"
+    end_time: "09:00"
+
+  - title: "Keynote da Manha - A definir" #arquivo, caso talk
+    type: custom # talk
+    comments: Keynote da manhã
+    date: 2019-09-28
+    start_time: "09:00"
+    end_time: "09:40"
+
+  - title: "Patrocinadores" #arquivo, caso talk
+    type: custom # talk
+    comments: Palavrinha dos patrocinadores
+    date: 2019-09-28
+    start_time: "09:40"
+    end_time: "10:00"
+
+  - title: "Coffee Break" #arquivo, caso talk
+    type: custom # talk
+    comments: Intervalo
+    date: 2019-09-28
+    start_time: "10:00"
+    end_time: "10:30"
+
+  - title: "paulo-mendonca"
+    comments: Workshop
+    type: workshop
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+
+  - title: "eduardo-ximenes"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "mateus-prado"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "11:00"
+
+  - title: "Sala Devops 360"
+    type: custom
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+    
+  - title: "Sala Devops Carreira"
+    type: custom
+    date: 2019-09-28
+    start_time: "10:30"
+    end_time: "12:00"
+
+  - title: "gustavo-pantuza"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "osanam-junior"
+    type: talk
+    comments: Auditorio sexto andar
+    date: 2019-09-28
+    start_time: "11:00"
+    end_time: "11:30"
+
+  - title: "izael-effemberg"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "11:30"
+    end_time: "12:00"
+
+  - title: "Almoço" #arquivo, caso talk
+    type: custom # talk
+    comments: Almoço
+    date: 2019-09-28
+    start_time: "12:00"
+    end_time: "13:00"
+
+  - title: "jefferson-otoni"
+    comments: Workshop
+    type: workshop
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+
+  - title: "Sala Devops 360"
+    type: custom
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "15:00"
+
+  - title: "carol-valencia"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "13:00"
+    end_time: "13:30"
+
+  - title: "Sala Devops Carreira"
+    type: custom
+    date: 2019-09-28
+    start_time: "14:00"
+    end_time: "15:00"
+
+  - title: "Coffee Break" #arquivo, caso talk
+    type: custom # talk
+    comments: Intervalo
+    date: 2019-09-28
+    start_time: "15:00"
+    end_time: "15:30"
+
+  - title: "alexandre-borges"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "15:30"
+    end_time: "16:00"
+
+  - title: "joao-brito"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "16:00"
+    end_time: "16:30"
+
+  - title: "yago-bruno"
+    type: talk
+    comments: Auditorio principal
+    date: 2019-09-28
+    start_time: "16:30"
+    end_time: "17:00"
+
+  - title: "Keynote de encerramento - Henrique bastos" #arquivo, caso talk
+    type: custom # talk
+    comments: Keynote da tarde
+    date: 2019-09-28
+    start_time: "17:00"
+    end_time: "17:40"
+
+  - title: "Encerramento, patrocinadores e sorteio de brindes" #arquivo, caso talk
+    type: custom # talk
+    comments: Encerramento, patrocinadores e sorteio de brindes
+    date: 2019-09-28
+    start_time: "17:40"
+    end_time: "18:00"

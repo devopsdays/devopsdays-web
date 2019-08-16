@@ -149,9 +149,13 @@ sponsors:
     level: gold
   - id: jfrog
     level: gold
+  - id: newrelic
+    level: gold
   - id: yotpo
     level: silver
   - id: aerospike
+    level: silver
+  - id: wework
     level: silver
   - id: yotpo
     level: coffee
