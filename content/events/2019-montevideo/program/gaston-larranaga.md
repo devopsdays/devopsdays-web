@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "The IOs app for my daughter"
-Type = "ignite"
+Type = "talk"
 Speakers = ["gaston-larranaga"]
 +++
 

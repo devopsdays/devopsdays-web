@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "DesignOps - Incrementando el valor"
-Type = "ignite"
+Type = "talk"
 Speakers = ["lucia-bustamante"]
 +++
 

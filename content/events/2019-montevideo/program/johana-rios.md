@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Che vos, junior!! No estas solo, sumate a NahualUY"
-Type = "ignite"
+Type = "talk"
 Speakers = ["johana-rios"]
 +++
 

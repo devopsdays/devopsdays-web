@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Síndrome del impostor en DevSecOps"
-Type = "ignite"
+Type = "talk"
 Speakers = ["maemilia-irrazabal"]
 +++
 

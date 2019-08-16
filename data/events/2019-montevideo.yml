@@ -342,16 +342,10 @@ program:
     start_time: "12:15"
     end_time: "12:45"
 
-  - title: "rodolfo-pilas"
+  - title: "Ignites - Sesión 1"
     type: ignite
     date: 2019-08-21
     start_time: "12:50"
-    end_time: "12:55"
-
-  - title: "gaston-larranaga"
-    type: ignite
-    date: 2019-08-21
-    start_time: "12:55"
     end_time: "13:00"
 
   - title: "Lunch"
@@ -482,22 +476,10 @@ program:
     start_time: "16:00"
     end_time: "16:45"
 
-  - title: "maemilia-irrazabal"
+  - title: "Ignites - Sesión 2"
     type: ignite
     date: 2019-08-22
     start_time: "16:00"
-    end_time: "16:05"
-
-  - title: "lucia-bustamante"
-    type: ignite
-    date: 2019-08-22
-    start_time: "16:05"
-    end_time: "16:10"
-
-  - title: "johana-rios"
-    type: ignite
-    date: 2019-08-22
-    start_time: "16:10"
     end_time: "16:15"
 
   - title: "guillermo-chao"
@@ -517,3 +499,15 @@ program:
     date: 2019-08-22
     start_time: "18:00"
     end_time: "18:15"
+
+ignites:
+  - title: "gaston-larranaga"
+    date: 2019-08-21
+  - title: "rodolfo-pilas"
+    date: 2019-08-21
+  - title: "lucia-bustamante"
+    date: 2019-08-22
+  - title: "maemilia-irrazabal"
+    date: 2019-08-22
+  - title: "johana-rios"
+    date: 2019-08-22
