@@ -342,6 +342,18 @@ program:
     start_time: "12:15"
     end_time: "12:45"
 
+  - title: "rodolfo-pilas"
+    type: ignite
+    date: 2019-08-21
+    start_time: "12:50"
+    end_time: "12:55"
+
+  - title: "gaston-larranaga"
+    type: ignite
+    date: 2019-08-21
+    start_time: "12:55"
+    end_time: "13:00"
+
   - title: "Lunch"
     type: lunch
     date: 2019-08-21
@@ -464,11 +476,29 @@ program:
     start_time: "15:30"
     end_time: "16:00"
 
-  - title: "Open Spaces + Ignites"
+  - title: "Open Spaces"
     type: open-space
     date: 2019-08-22
     start_time: "16:00"
     end_time: "16:45"
+
+  - title: "maemilia-irrazabal"
+    type: ignite
+    date: 2019-08-22
+    start_time: "16:00"
+    end_time: "16:05"
+
+  - title: "lucia-bustamante"
+    type: ignite
+    date: 2019-08-22
+    start_time: "16:05"
+    end_time: "16:10"
+
+  - title: "johana-rios"
+    type: ignite
+    date: 2019-08-22
+    start_time: "16:10"
+    end_time: "16:15"
 
   - title: "guillermo-chao"
     type: talk
