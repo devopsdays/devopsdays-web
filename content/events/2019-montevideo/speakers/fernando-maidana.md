@@ -2,7 +2,7 @@
 Title = "Fernando Maidana"
 Twitter = ""
 Linkedin = ""
-image = "sin-foto.png"
+image = "fernando-maidana.png"
 type = "speaker"
 linktitle = "fernando-maidana"
 +++
