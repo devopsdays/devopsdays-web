@@ -1,7 +1,7 @@
 +++
 Title = "What the H** is Istio?"
 Type = "talk"
-Speakers = ["abdellfetah-sghiouar"]
+Speakers = ["abdelfettah-sghiouar"]
 +++
 
 **Ignite Talk**

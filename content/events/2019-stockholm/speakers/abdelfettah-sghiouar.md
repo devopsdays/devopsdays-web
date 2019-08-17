@@ -1,9 +1,9 @@
 +++
-title = "Abdellfetah Sghiouar"
-image = "abdellfetah-sghiouar.jpg"
+title = "Abdelfettah Sghiouar"
+image = "abdelfettah-sghiouar.jpg"
 twitter = "boredabdel"
 type = "speaker"
-linktitle = "abdellfetah-sghiouar"
+linktitle = "abdelfettah-sghiouar"
 
 +++
 
