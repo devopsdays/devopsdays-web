@@ -1,5 +1,5 @@
 +++
-Title = "Gareth McCumskey"
+Title = "Gareth Mc Cumskey"
 Twitter = "garethmcc"
 image = "gareth-mccumskey.jpg"
 type = "speaker"
