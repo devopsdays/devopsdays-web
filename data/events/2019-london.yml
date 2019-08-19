@@ -123,6 +123,12 @@ sponsors:
     # Bronze
   - id: buildkite
     level: bronze
+  - id: dxw
+    level: bronze
+  - id: enginetransformation
+    level: bronze
+  - id: skybet
+    level: bronze
   - id: veracode
     level: bronze
     # Charity
@@ -231,15 +237,20 @@ program:
     start_time: "13:05"
     end_time: "14:05"
   - title: "Open Spaces Day 1"
-    type: custom
+    type: open-space
     date: 2019-09-26T00:00:00+01:00
     start_time: "14:05"
     end_time: "17:00"
+  - title: "After event drinks"
+    type: custom
+    date: 2019-09-26T00:00:00+01:00
+    start_time: "1700"
+    end_time: "18:00"
   - title: "Evening Event"
     type: custom
     date: 2019-09-26T00:00:00+01:00
-    start_time: "17:00"
-    end_time: "19:00"
+    start_time: "18:00"
+    end_time: "23:00"
   - title: "Breakfast"
     type: custom
     date: 2019-09-27T23:59:59+01:00
@@ -276,7 +287,7 @@ program:
     start_time: "13:05"
     end_time: "14:05"
   - title: "Open Spaces Day 2"
-    type: custom
+    type: open-space
     date: 2019-09-27T23:59:59+01:00
     start_time: "14:05"
     end_time: "17:00"
