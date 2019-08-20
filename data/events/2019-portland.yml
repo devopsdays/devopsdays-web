@@ -138,6 +138,8 @@ sponsors:
     level: silver
   - id: ignw
     level: silver
+  - id: manage-engine
+    level: silver
 # Custom
   - id: googlecloud
     level: quiet-room
