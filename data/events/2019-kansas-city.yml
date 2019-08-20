@@ -37,7 +37,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
   - name: propose
   - name: location
   - name: registration
- # - name: program
+  - name: program
  # - name: speakers
   - name: sponsor
   - name: contact
@@ -202,3 +202,206 @@ sponsor_levels:
     label: Supporting
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-24
+    start_time: "09:00"
+    end_time: "09:25"
+  - title: "speaker1"
+    type: talk
+    date: 2019-10-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "speaker2"
+    type: talk
+    date: 2019-10-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Sponsor + Break"
+    type: custom
+    date: 2019-10-24
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "speaker3"
+    type: talk
+    date: 2019-10-24
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "speaker4"
+    type: talk
+    date: 2019-10-24
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-24
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-24
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "Sponsors + Announcements / Workshop Logistics"
+    type: custom
+    date: 2019-10-24
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "workshop1"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "workshop2"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "workshop3"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "workshop4"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "workshop5"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "speaker5"
+    type: talk
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Sponsors + Break"
+    type: custom
+    date: 2019-10-24
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "speaker6"
+    type: talk
+    date: 2019-10-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "speaker7"
+    type: talk
+    date: 2019-10-24
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-24
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-10-24
+    start_time: "17:00"
+    end_time: "21:00"
+    comments: "TBD"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "speaker8"
+    type: talk
+    date: 2019-10-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors + Open Space Kickoff"
+    type: custom
+    date: 2019-10-25
+    start_time: "09:40"
+    end_time: "09:45"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-10-25
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-10-25
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-25
+    start_time: "11:30"
+    end_time: "13:00"
+  - title: "Sponsors + Ignites"
+    type: ignite
+    date: 2019-10-25
+    start_time: "13:00"
+    end_time: "13:45"
+  - title: "Sponsors + Announcements / Workshop Logistics"
+    type: custom
+    date: 2019-10-25
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "workshop6"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "workshop7"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "workshop8"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "workshop9"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "workshop10"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "speaker9"
+    type: talk
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Sponsors + Break"
+    type: custom
+    date: 2019-10-25
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "speaker10"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "speaker11"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-25
+    start_time: "16:00"
+    end_time: "16:30" 
