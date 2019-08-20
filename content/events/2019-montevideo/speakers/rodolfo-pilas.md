@@ -5,6 +5,7 @@ Linkedin = "https://www.linkedin.com/in/pilasguru/"
 Website = "https://pilas.guru"
 type = "speaker"
 linktitle = "rodolfo-pilas"
+image = "rodolfo-pilas.png"
 +++
 
 Profesor de Redes Linux y Cloud Computing de la Universidad Católica del Uruguay; entrenador y examinador RedHat y de la certificación Linux Professional Institute. Ha dictado cursos en Universidades y entrenamiento en empresas sobre sistemas Linux en Uruguay, Argentina, Perú, Brasil y Venezuela.

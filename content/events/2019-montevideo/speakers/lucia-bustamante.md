@@ -2,6 +2,7 @@
 Title = "Lucía Bustamante"
 Twitter = "lubustaman"
 type = "speaker"
+image = "lucia-bustamante.png"
 linktitle = "lucia-bustamante"
 +++
 

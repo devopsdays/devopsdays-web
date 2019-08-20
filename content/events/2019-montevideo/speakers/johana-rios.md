@@ -1,6 +1,7 @@
 +++
 Title = "Johana Rios"
 Twitter = "JohanaRios95"
+image = "johana-rios.png"
 Linkedin= "https://www.linkedin.com/in/johana-r%C3%ADos-517606134/"
 type = "speaker"
 linktitle = "johana-rios"
