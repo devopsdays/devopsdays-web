@@ -18,6 +18,7 @@ cfp_date_start:  2019-04-16T00:00:00-05:00
 cfp_date_end:  2019-06-16T00:00:00-05:00
 cfp_date_announce:  2019-07-16T00:00:00-05:00
 
+cfp_open: "false"
 cfp_link: "https://cfp.devopsdayskc.org" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-04-16T00:00:00-05:00

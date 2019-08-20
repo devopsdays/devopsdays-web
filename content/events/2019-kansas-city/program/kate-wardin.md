@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Developer First: a New Leadership Mindset"
-Type = ""
+Type = "talk"
 Speakers = ["kate-wardin"]
 +++
 ABSTRACT

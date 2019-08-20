@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "Managing Kubernetes Traffic with Istio"
-Type = ""
+Type = "talk"
 Speakers = ["mofizur-rahman"]
 +++
 Developers are moving away from large monolithic apps in favor of small, focused microservices that speed up implementation and improve resiliency. Microservices and containers changed application design and deployment patterns, but along with them brought challenges like service discovery, routing, failure handling, security and visibility to microservices.

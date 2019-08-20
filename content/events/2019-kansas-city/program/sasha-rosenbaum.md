@@ -3,7 +3,7 @@ Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
 Title = "CI/CD for Machine Learning"
-Type = ""
+Type = "talk"
 Speakers = ["sasha-rosenbaum"]
 +++
 As we venture into new fields, we sometimes forget to apply the lessons learned in the past. As machine learning (ML) becomes more accessible to developers without a data science degree, and ML models multiply, we begin to see a glaring deficiency. 
