@@ -229,7 +229,7 @@ program:
     date: 2019-10-24
     start_time: "10:30"
     end_time: "11:00"
-  - title: "piotr-holubowicz "
+  - title: "piotr-holubowicz"
     type: talk
     date: 2019-10-24
     start_time: "11:00"
@@ -390,7 +390,7 @@ program:
     date: 2019-10-25
     start_time: "14:30"
     end_time: "15:00"
-  - title: "amber-vanderburg "
+  - title: "amber-vanderburg"
     type: talk
     date: 2019-10-25
     start_time: "15:00"
@@ -419,7 +419,7 @@ ignites:
     date: 2019-10-24
   - title: "curtis-blackthorne"
     date: 2019-10-25
-  - title: "jj-asgar"
+  - title: "jj-asghar"
     date: 2019-10-25
   - title: "douglas-heller"
     date: 2019-10-25
@@ -427,5 +427,3 @@ ignites:
     date: 2019-10-25
   - title: "Ignite Karaoke!"
     date: 2019-10-25
-
-
