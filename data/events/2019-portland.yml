@@ -141,6 +141,8 @@ sponsors:
 # Bronze
   - id: compuware
     level: bronze
+  - id: manage-engine
+    level: silver
 # Custom
   - id: googlecloud
     level: quiet-room
