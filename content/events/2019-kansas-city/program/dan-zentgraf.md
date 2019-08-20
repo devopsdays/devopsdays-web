@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "DevOps and the Database Bottleneck"
 Type = "talk"
-Speakers = ["Dan Zentgraf"]
+Speakers = ["dan-zentgraf"]
 +++
 Databases are central to just about every application system but remain a neglected topic when it comes to DevOps.
 Seriously - while application change delivery has evolved to where changes can be applied in amazingly short intervals, most enterprise databases still live in a silo that exists somewhere on the other side of a bureaucratic ticket-driven process from 2003.

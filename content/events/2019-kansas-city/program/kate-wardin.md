@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Developer First: a New Leadership Mindset"
 Type = ""
-Speakers = ["Kate Wardin"]
+Speakers = ["kate-wardin"]
 +++
 ABSTRACT
 Be prepared to challenge your preexisting perspectives of technical leadership as we explore non-traditional approaches and techniques in this immersive, hands-on workshop.  

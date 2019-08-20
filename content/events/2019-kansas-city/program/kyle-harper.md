@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Everyone is Technical: Owning Your Experience Bias"
 Type = "talk"
-Speakers = ["Kyle Harper"]
+Speakers = ["kyle-harper"]
 +++
 Do you consider yourself technical? What about peers in other roles? How does your perception of someone’s technical experience influence your behavior? We often refer to certain roles as “technical”, but everyone has a variety of experience and deep specialty. Despite our best intentions to treat everyone equal we may unconsciously discriminate against others based on our assumptions of their technical experience. This can result in unfairly modifying our interactions with certain roles, when quite likely coworkers in all roles could benefit from breadth and detail in our conversation.
  

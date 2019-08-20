@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Go Go Deepracer!"
 Type = ""
-Speakers = ["Steph Hicks"]
+Speakers = ["steph-hicks"]
 +++
 Developers, start your engines.
 

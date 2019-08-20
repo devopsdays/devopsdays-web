@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Cloud Incident Response: DevSecOps Style"
 Type = ""
-Speakers = ["Rich Mogull"]
+Speakers = ["rich-mogull"]
 +++
 We have red teams, blue teams, purple teams, black hats, white hats, SOCs and SIEMS... yet few organizations understand the fundamentals of incident response in a world where attackers use Terraform and serverless. This hands-on session will show DevOps pros how to leverage their skills for security incident response, and security pros how to adopt DevOps techniques to respond at the speed of Bash. Through a mix of presentation, demonstration, and a live-fire exercise we will:
 

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Coding the FinTech Enterprise"
 Type = "talk"
-Speakers = ["Seth Thoenen"]
+Speakers = ["seth-thoenen"]
 +++
 A few years ago, operating system configuration changes at Jack Henry & Associates were a very manual process. The Server Engineering team had a small, yet capable, team and had to manage OS layer and other configurations on 10,000+ systems. The entire team was burdened with an endless queue of cases from various stakeholders to implement configurations ranging from agent remediation to setting registry keys across a list of pre-defined systems. And, we had no way of knowing what current configurations looked like.
 

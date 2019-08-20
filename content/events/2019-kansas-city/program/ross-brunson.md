@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "From Sysadmin to DevOps Engineer - The Easier Way!"
 Type = "talk"
-Speakers = ["Ross Brunson"]
+Speakers = ["ross-brunson"]
 +++
 The days of being a sysadmin alone are nearly gone, and soon you MUST have developer operations skills to get even the most entry level job managing a rack of servers, of virtualized systems or your own AWS, Azure or Google Cloud environment!
 

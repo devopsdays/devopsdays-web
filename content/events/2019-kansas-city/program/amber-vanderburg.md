@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Collaborative Ownership "
 Type = "talk"
-Speakers = ["Amber Vanderburg"]
+Speakers = ["amber-vanderburg"]
 +++
 In this high energy and highly interactive chat, attendees will become equipped and empowered with the resources, knowledge, and application of creating an organization of collaborative ownership through a little theory, a lot of practical application, some fun stories of success and failure, and loads of wit. Collaborative ownership is how our organizations thrive.
 

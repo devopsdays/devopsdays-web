@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Argue Better with Active Listening"
 Type = "talk"
-Speakers = ["Waldo G"]
+Speakers = ["waldo-g"]
 +++
 Have you ever gotten into an argument because the statement that you made wasn't understood as you meant it?  Have you ever seen a simple disagreement go rapidly off the rails, and turn into a shouting match?
 

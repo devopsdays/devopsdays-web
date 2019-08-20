@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Adding Design to DevOps"
 Type = "talk"
-Speakers = ["Simon Yost"]
+Speakers = ["simon-yost"]
 +++
 After the Kubernetes cluster is stood up, Docker continuers are deployed, Jenkins jobs (or similar) are pushing code to production, your cloud app is humming along. Then, it happens: a new feature request.
 
