@@ -138,6 +138,9 @@ sponsors:
     level: silver
   - id: ignw
     level: silver
+# Bronze
+  - id: compuware
+    level: bronze
 # Custom
   - id: googlecloud
     level: quiet-room
