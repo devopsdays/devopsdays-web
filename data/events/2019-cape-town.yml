@@ -138,8 +138,8 @@ program:
     date: 2019-09-05
     start_time: "10:10"
     end_time: "10:15"
-  - title: "Speaker to be confirmed"
-    type: custom
+  - title: "andrew-newdigate"
+    type: talk
     date: 2019-09-05
     start_time: "10:15"
     end_time: "11:00"
@@ -269,6 +269,11 @@ program:
     date: 2019-09-06
     start_time: "16:15"
     end_time: "16:45"
+  - title: "herman-lintvelt"
+    type: workshop
+    date: 2019-09-06
+    start_time: "16:45"
+    end_time: "18:15"
   - title: "Open Space #1"
     type: open-space
     date: 2019-09-06
