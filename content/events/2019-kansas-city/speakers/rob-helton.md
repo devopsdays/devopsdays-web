@@ -6,6 +6,10 @@ type = "speaker"
 linktitle = "rob-helton"
 image = "rob-helton.jpg"
 +++
-Strategic innovation leader with extensive experience in product management across complex matrixed organizations. Recognized for ability to effectively collaborate with all levels of an organization; from product inception, development, to go-to-market implementations with demonstrable business impact. Proven track record of iterative product development with complex requirements across large scale teams & organizations. 
+Rob As the Product Director for Core Clinical Products, Rob is responsible for innovation and development that crosses the breadth of the electronic health record. Rob and his team lead the creation of foundational cross-solution capabilities, unifying and evolving previously siloed functionalities. 
 
-Expertise in product management, innovation, iterative design, client engagement, development strategy, and evolutionary systems. 
+First as a database developer, then later as a clinician, Rob has been involved with IP development and health care for over 15 years. He joined the Cerner team in 2015 as the market owner for Physical Rehabilitation, and then quickly migrated to the product management & development teams. Prior to Cerner, Rob was a practicing physical therapist and then the clinical transformation leader for a post-acute provider in Pennsylvania. 
+
+Rob is a graduate of Eastern Kentucky University and has a Bachelor of Arts in philosophy; in 2010 he achieved his Doctorate in physical therapy from Arcadia University in Glenside, Pennsylvania. 
+
+
