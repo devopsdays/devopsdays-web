@@ -84,6 +84,14 @@ proposal_email: "proposals-cairo-2019@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+ - id: amecse
+   level: community
+ - id: egyptinnovate
+   level: community
+ - id: foss
+   level: community
+ - id: f5-ni
+   level: gold
  #- id: amecse
  #  level: community
  #- id: egyptinnovate
@@ -108,4 +116,4 @@ sponsor_levels:
     max: 0 # This is the same as omitting the max limit.
   - id: community
     label: Community
-    max: 0
+    max: 3
