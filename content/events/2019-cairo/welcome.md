@@ -6,9 +6,11 @@ Description = "DevOpsDays Cairo 2019"
 +++
 
 <div>
-<p><span style="color: #ff0000;"><strong>Coming Soon!  </strong></span></p>
+<p><span style="color: #ff0000;"><strong>Unleash High Performance!</strong></span></p>
 
-<p>Please stay tuned for more information about DevOpsDays Cairo 2019 :)</p>
+<p>
+DevOpsDays Cairo is a one-day event addressing “Unleash High Performance”.  You can learn and share your knowledge with the people from all around the world while enjoying great culture in Egypt.  This year, SECC/ITIDA are organizing DevOpsDays Cairo 2019 in cooperation with DXC Technology, IBM Egypt and Orange Labs. </p> 
+<p>The event is for <strong>FREE</strong> – registration is coming soon.</p>
   
 </div>
 <div style="text-align:center;">
