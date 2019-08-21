@@ -5,9 +5,9 @@ aliases = ["/events/2018-salvador/"]
 Description = "devopsdays Salvador 2018"
 +++
 
-<!-- <div style="text-align:center;">
-  {{< event_logo >}}
-</div> -->
+<div style="text-align:center;">
+  <a href="http://salvador.devopsdays.com.br/">{{< event_logo >}}</a>
+</div>
 
 <div class = "row">
   <div class = "col-md-2">

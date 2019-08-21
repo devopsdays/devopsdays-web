@@ -2,11 +2,15 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "The Four Agreements of Incident Response"
+Title = "How Do You Infect Your Organization With Humane Ops?"
 Type = "talk"
 Speakers = ["matty-stratton"]
 +++
 
-Don Miguel Ruiz’s book, [The Four Agreements](https://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319/), presents a code of personal conduct based on ancient Toltec wisdom to help remove self-limiting structures and beliefs.
+<p>Richard Dawkins described memes as being a form of cultural propagation, which is a way for people to transmit social memories and cultural ideas to each other. Not unlike the way that DNA and life will spread from location to location, a meme idea will also travel from mind to mind.</p>
 
-Each of the Four Agreements can help us understand a more mature, effective, and humane approach to incident response in our organizations. In this talk, I will address how the Agreements can be expressed as a modality for Incident Response. Using the Agreements, it is easier to understand modern approaches to resolving incidents as effectively as possible, and even help reduce burnout as well!
+<p>Getting your organization to take a step back and look at how ops affects people (awareness of alert fatigue, burnout risk, proactive/reactive approaches) can be a tough challenge.</p>
+
+<p>In this talk, I will discuss how the very DNA of an organization can evolve through the use of actionable communications from all levels - management, strategy, and practitioners. The “virus” of humane ops will infect your organization, providing a more sustainable approach to on-call, incident resolution, post-mortems, and more. There also will be copious references to the Neal Stephenson classic novel, Snow Crash.</p>
+
+<p>After this talk, you will have ideas of practical approaches to effect change in your organization, regardless of your level of influence. While not every group will use the same “viruses”, you will take away a good understanding of where to get started as Patient Zero.</p>

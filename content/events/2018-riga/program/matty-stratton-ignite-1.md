@@ -4,8 +4,8 @@ Talk_start_time = "14:05"
 Talk_end_time = "14:30"
 Title = "Hot Takes, Myths, And Fake News - Why Everyone Is Wrong About DevOps Except For Me"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "0F6dy-LayAQ"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-matty-stratton-hot-takes-myths-and-fake-news-why-everyone-is-wrong-about-devops-except-for-me"
 Speakers = ["matty-stratton"]
 +++
 

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2018-10-10"
+Talk_start_time = "11h50"
+Talk_end_time = "12h12"
 Title = "Next Generation Config Mgmt: The Language"
 Type = "talk"
 Speakers = ["james-shubin"]

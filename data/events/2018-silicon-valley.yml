@@ -81,7 +81,7 @@ sponsors:
     level: gold
   - id: humio
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: circonus
     level: gold
@@ -89,11 +89,11 @@ sponsors:
     level: gold
   - id: contrast_security
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: gcp
     level: gold
-  - id: kaizenops
+  - id: kaizenops-before-20181008
     level: silver
   - id: redislabs
     level: silver

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Automate Everything: A Deep Dive into Jenkins Pipelines"
+Title = "Automate Everything: A Deep Dive into Jenkins Pipelines (Room 1O)"
 Type = "talk"
 Speakers = ["naresh-rayapati"]
 +++
@@ -16,4 +16,4 @@ The Jenkins Pipeline plugin is a game changer for Jenkins users. Based on a Doma
 * Best Practices.
 * Tips and Tricks.
 
-The target audience is members of a development organization who are using Jenkins pipelines or planning to use to advance the CI/CD journey. 
+The target audience is members of a development organization who are using Jenkins pipelines or planning to use to advance the CI/CD journey.

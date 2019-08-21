@@ -4,8 +4,8 @@ Talk_start_time = "14:05"
 Talk_end_time = "14:10"
 Title = "Fearing the Robot Overlords"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "HyBNNG0Q-KA"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-christina-aldan-fearing-the-robot-overlords"
 Speakers = ["christina-aldan"]
 +++
 

@@ -5,6 +5,8 @@ Talk_end_time = ""
 Title = "What is Cloud Native, and why should I care?"
 Type = "talk"
 Speakers = ["tomasz-tarczynski"]
+youtube = "DPV9Gr4Elv8"
+slides = "https://assets.devopsdays.org/events/2018/london/slides/Tomasz Tarczynski - What is Cloud Native and why should I care.pdf"
 +++
 
 We hear a lot about building cloud native applications and platforms. But what does it really mean?

@@ -2,7 +2,7 @@
 Talk_date = "26.09.2018"
 Talk_start_time = "09:00"
 Talk_end_time = "17:00"
-Title = "Owtf: my application is unsecure! Security test automation in DevSecOps"
+Title = "[CANCELLED] Owtf: my application is unsecure! Security test automation in DevSecOps"
 Type = "talk"
 youtube = ""
 slideshare = ""

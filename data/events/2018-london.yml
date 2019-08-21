@@ -33,7 +33,7 @@ location_address: "QEII Centre, Broad Sanctuary, Westminster" #Optional - use th
 nav_elements: # List of pages you want to show up in the navigation of your page.
 #  - name: propose
   - name: location
-  - name: registration
+  # - name: registration
   - name: program
   - name: speakers
   - name: sponsor
@@ -78,7 +78,7 @@ proposal_email: "proposals-london-2018@devopsdays.org" # Put your proposal email
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
     # Gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: chef
     level: gold
@@ -101,7 +101,7 @@ sponsors:
     level: silver
   - id: engineerbetter
     level: silver
-  - id: googlecloud
+  - id: googlecloud-before-20190402
     level: silver
   - id: gov-digital
     level: silver
@@ -110,6 +110,8 @@ sponsors:
   - id: opsview
     level: silver
   - id: scalefactory
+    level: silver
+  - id: sensu
     level: silver
   - id: ticketmaster
     level: silver
@@ -139,7 +141,7 @@ sponsors:
     level: community
   - id: northeast-devops
     level: community
-  - id: sheffield-devops
+  - id: sheffield-devops-before-20190519
     level: community
   - id: arresteddevops
     level: community
@@ -232,6 +234,7 @@ program:
     date: 2018-09-20
     start_time: "19:00"
     end_time: "23:00"
+    custom_url: "https://www.altitudelondon.com/contact-us/"
 
 # # day 2
   - title: "Breakfast"

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to set up a simple image building pipeline with Jenkins and Swarm"
 Type = "talk"
 Speakers = ["cari-liebenberg"]
+Youtube = "https://www.youtube.com/watch?v=YFxDaiXdI3M"
 +++
 
 You will be taken through a process of identifying the manual parts of creating Docker images. The manual steps usually include building the image using the latest code, tagging the image and pushing the image to Docker hub. Jenkins can help us isolate these manual steps and automate them. Using Jenkins you can monitor changes in a github repo, when changes are merged into a branch trigger unit tests to run, once all unit tests pass build your new updated image, tag it and push it to Docker hub.

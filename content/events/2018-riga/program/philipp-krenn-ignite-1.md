@@ -4,8 +4,8 @@ Talk_start_time = "16:10"
 Talk_end_time = "16:15"
 Title = "Building Distributed Systems in Distributed Teams"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "5W2qAUzS2R4"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-philipp-krenn-building-distributed-systems-in-distributed-teams"
 Speakers = ["philipp-krenn"]
 +++
 

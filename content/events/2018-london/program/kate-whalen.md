@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to leverage AWS features to secure and centrally monitor your accounts"
 Type = "talk"
 Speakers = ["kate-whalen"]
+youtube = "KQqB-hc2JxM"
 +++
 
 Security and AWS! Reports and alerts are useless if no one is fixing the issues found. Learn how The Guardian leveraged AWS tools to secure and centrally monitor multiple AWS accounts, then set out to inform and empower our engineering teams to adopt better security practices.

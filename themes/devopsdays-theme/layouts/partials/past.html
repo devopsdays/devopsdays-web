@@ -34,7 +34,7 @@ Chomping .year has the nice effect of turning an int into string. */}}
     {{- if .startdate -}}
       {{- if eq ( print (chomp (dateFormat "2006" .startdate))) (print (chomp ($.Scratch.Get "the_year"))) -}}
         {{- $.Scratch.Set "citydisplay" .city -}}
-        <a href="{{ (printf "events/%s" .name) | absURL }}" class = "events-page-event">{{ $.Scratch.Get "citydisplay" }}</a>
+        <a href="{{ (printf "/events/%s" .name) }}" class = "events-page-event">{{ $.Scratch.Get "citydisplay" }}</a>
         <br/>
       {{- end -}}
 

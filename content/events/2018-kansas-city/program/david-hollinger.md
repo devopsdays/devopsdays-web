@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Setting up a CI pipeline for Infrastructure Code"
+Title = "Setting up a CI pipeline for Infrastructure Code (Room 1P)"
 Type = "talk"
 Speakers = ["david-hollinger"]
 +++

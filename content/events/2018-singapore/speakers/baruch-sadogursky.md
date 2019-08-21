@@ -4,6 +4,7 @@ Twitter = "jbaruch"
 image = "baruch-sadogursky.jpg"
 type = "speaker"
 linktitle = "baruch-sadogursky"
+website = "http://www.jfrog.com"
 
 +++
 

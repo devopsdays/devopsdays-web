@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Alexa Skills: From Rubbish to Publish"
+Title = "Alexa Skills: From Rubbish to Publish (Room 1M)"
 Type = "talk"
 Speakers = ["stephanie-hicks"]
 +++
@@ -24,4 +24,4 @@ The plan is to make this an active workshop. You'll need your laptop, (or some c
 
 An alexa on your phone may help, but is not necessary.
 
-Let's have fun! 
+Let's have fun!

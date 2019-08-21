@@ -1,7 +1,6 @@
 +++
 Title = "James Shubin"
 Twitter = "purpleidea"
-image = "james-shubin.png"
 type = "speaker"
 linktitle = "james-shubin"
 

@@ -4,7 +4,7 @@ Talk_start_time = "10:40"
 Talk_end_time = "11:10"
 Title = "Activating Your Emotion Chip: Building Great DevOps Culture Through Mentorship, Coaching, and ❤️"
 Type = "talk"
-youtube = ""
+youtube = "YKWOk4T5qnc"
 slideshare = ""
 Speakers = ["renee-lung"]
 +++

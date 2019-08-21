@@ -4,8 +4,8 @@ Talk_start_time = "16:20"
 Talk_end_time = "16:50"
 Title = "Continuous Kubernetes Security"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "NBleYGoW3T0"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-andrew-martin-continuous-kubernetes-security"
 Speakers = ["andrew-martin"]
 +++
 

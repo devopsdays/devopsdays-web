@@ -4,8 +4,8 @@ Talk_start_time = "14:20"
 Talk_end_time = "14:25"
 Title = "Put the brAIn into your DevOps workflow"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "VEfNbXF2X9I"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-antonio-pigna-put-the-brain-into-your-devops-workflow"
 Speakers = ["antonio-pigna"]
 +++
 

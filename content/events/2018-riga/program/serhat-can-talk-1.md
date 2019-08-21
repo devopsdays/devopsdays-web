@@ -4,8 +4,8 @@ Talk_start_time = "16:20"
 Talk_end_time = "16:50"
 Title = "The Rocky Path to Migrating Production Applications to Serverless Architecture"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "OQ8T7cYj9hI"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-serhat-can-the-rocky-path-to-migrating-production-applications-to-serverless-architecture"
 Speakers = ["serhat-can"]
 +++
 

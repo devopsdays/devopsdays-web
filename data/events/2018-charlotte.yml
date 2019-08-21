@@ -78,7 +78,7 @@ sponsors:
     level: gold
   - id: oracle-dyn
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: red-ventures
     level: gold
@@ -91,7 +91,7 @@ sponsors:
     level: silver
   - id: forty8fifty-labs
     level: silver
-  - id: kaizenops
+  - id: kaizenops-before-20181008
     level: silver
   - id: roundtowertechnologies
     level: silver
@@ -103,11 +103,11 @@ sponsors:
     level: silver
   - id: portworx
     level: silver
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: silver
   - id: spoken
     level: silver
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: silver
   - id: accenture
     level: bronze

@@ -22,6 +22,14 @@ gulp.task('min-html', function() {
         }))
         .pipe(gulp.dest('dist'));
 })
+
+gulp.task('min-html-circle', function() {
+    return gulp.src('workspace/public/**/*.html')
+    .pipe(htmlmin({
+                collapseWhitespace: true
+            }))
+            .pipe(gulp.dest('dist'));
+    })
 // min-html was taking forever
 
 gulp.task('retina-html', function() {
@@ -33,4 +41,4 @@ gulp.task('retina-html', function() {
         .pipe(gulp.dest('dist'));
 })
 
-gulp.task('process-html', gulp.series('min-html', 'retina-html'));
+gulp.task('process-html', gulp.series('min-html'));

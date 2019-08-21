@@ -10,6 +10,7 @@ Description = "devopsdays London 2018"
   </div>
 
   <div class="col-md-7">
+    <p><b>Thanks for everything, see you next time. Don't worry if you missed it you can catch up on the event below!</b></p>
     <p>The first DevOpsDays was held in Ghent, Belgium in 2009. Since then, DevOpsDays events have multiplied and expanded globally with over 55 events planned for 2018.</p>
     <p>DevOpsDays is a worldwide series of community run technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. It is run by volunteers from community, for the benefit of the community.
       We are not a commercial conference and we believe that our focus on serving the community creates a truly unique experience for both delegates and sponsors.
@@ -21,10 +22,7 @@ Description = "devopsdays London 2018"
     <div class="d-flex flex-row">
       <div class="col-md-12">
         <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="/events/2018-london/sponsor"> <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Sponsor the Conference</a>
-        </div>
-        <div class="p-2">
-          <a class="btn btn-secondary btn-block" href="https://www.eventbrite.com/e/devopsdays-london-2018-tickets-45511364717" target="_blank" rel="noopener"> <i class="fa fa-ticket fa-lg"></i>&nbsp;&nbsp;&nbsp;Buy a ticket</a>
+          <a class="btn btn-secondary btn-block" href="https://www.youtube.com/watch?v=AbKhi8J3Kh8&list=PLuEbc43fHqLg3WvWvcPpzcI7PVAkuJvWm"> <i class="fa fa-video-camera fa-lg"></i>&nbsp;&nbsp;&nbsp;Watch the recordings</a>
         </div>
         <div class="p-2">
           <a class="btn btn-secondary btn-block" href="/events/2018-london/contact"> <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers</a>

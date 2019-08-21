@@ -5,6 +5,7 @@ Talk_end_time = "14:05"
 Title = "Provisionar ambientes para teste automatizado web com containers"
 Type = "talk"
 Speakers = ["elias-nogueira"]
+Slides = "https://www.slideshare.net/elias.nogueira/como-criar-e-executar-testes-paralelos-web-usando-selenium-e-containers"
 +++
 
 Você já deve ter sofrido ou estar sofrendo pela demora na execução dos testes automatizados web.

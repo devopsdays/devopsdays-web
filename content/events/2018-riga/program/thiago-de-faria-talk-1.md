@@ -4,8 +4,8 @@ Talk_start_time = "15:45"
 Talk_end_time = "16:15"
 Title = "Chaos while deploying ML and making sure AI doesn't hurt your app"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "6C72V5lM_LQ"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-thiago-de-faria-chaos-while-deploying-ml-and-making-sure-ai-doesnt-hurt-your-app"
 Speakers = ["thiago-de-faria"]
 +++
 

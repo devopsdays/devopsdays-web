@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Neurodiversity and the Essence of DevOps"
 Type = "talk"
 Speakers = ["jeff-sussna"]
+youtube = "AbKhi8J3Kh8"
 +++
 
 It’s been gratifying to see the DevOps community take up the challenge of making empathy the essence of what we do. We should be proud of ourselves as an example to other organizational transformation approaches. We still, though, have room to grow. Whether it’s NoOps, or cloud-native chauvinism, or labeling people on the autism spectrum as lacking the capacity for empathy, we create subtle separations and exclusions through language and practice. 

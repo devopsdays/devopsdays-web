@@ -7,7 +7,7 @@ Title = "Sponsor devopsdays"
 
 +++
 
-Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 40 events worldwide in 2016.
+Devopsdays is a community-organized not-for-profit conference series for practitioners. It began in Ghent, Belgium with one conference in 2009, and has grown to more than 73 events worldwide in 2019.
 
 Sponsoring devopsdays conferences gives your organization an opportunity to speak with practitioners, managers, and executives from companies of all sizes and industries. Whether your goals include recruiting new talent, opening new markets, or connecting with your existing customers, this event will be the place to have those conversations with experts and leaders in tech innovation.
 

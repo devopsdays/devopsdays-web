@@ -2,6 +2,8 @@
 Title = "A Importância da automação de testes no modelo ágil"
 Type = "talk"
 Speakers = ["cassio-almeida"]
+Slides = "https://www.slideshare.net/mobile/slideshow/embed_code/key/35FsVad2vx1K0n"
+Slideshare = "https://www.slideshare.net/mobile/slideshow/embed_code/key/35FsVad2vx1K0n"
 +++
 
 Quero compartilhar experiencias e trazer a discussão perguntas comuns e ajuda-los a encontrar respostas, perguntas como:

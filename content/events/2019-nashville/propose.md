@@ -27,7 +27,7 @@ Choosing talks is part art, part science; here are some factors we consider when
 
 <hr>
 
-<strong>How to submit a proposal:</strong> Send an email to [{{< email_proposals >}}] with the following information
+<strong>How to submit a proposal:</strong> Visit our <a href="https://www.papercall.io/devopsdays-nashville-2019">papercall.io page</a> and fill out the proposal form.
 <ol>
 	<li>Type (presentation, panel discussion, ignite)</li>
 	<li>Proposal Title (can be changed later)</li>

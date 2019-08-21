@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "The evolution of farm to table and code to customer"
 Type = "talk"
 Speakers = ["aaron-kalin"]
+vimeo = "297679391"
 +++
 
 Restaurants deliver delicious food while we deliver amazing products to our customers. How can DevOps evolve to deliver software to customers faster than ever before? We'll take cues from the past, the present, and look to the future of DevOps while drawing inspiration from the restaurant industry.

@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Managing people and other horror stories"
 Type = "talk"
 Speakers = ["ramez-hanna"]
+youtube = "7m49scWq9sM"
 +++
 
 Revisiting the role definition of the team lead (manager) describing it in simple terms that every engineer can relate to

@@ -1,5 +1,5 @@
 +++
-Title = "Let’s play a real life Dungeon and Dragons"
+Title = "Let’s play a real life Dungeon and Dragons - Held at the Banyan Bar"
 Type = "talk"
 Speakers = ["garima-sharma"]
 +++

@@ -49,7 +49,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: stratasan
     level: beverage
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: netapp
     level: silver
@@ -59,7 +59,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: bronze
   - id: cloudian
     level: bronze
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: icinga
     level: badges

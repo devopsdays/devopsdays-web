@@ -1,7 +1,7 @@
 +++
 Title = "David Laribee"
 Twitter = ""
-image = ""
+image = "david-laribee.png"
 type = "speaker"
 linktitle = "david-laribee"
 +++

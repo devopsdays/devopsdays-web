@@ -66,15 +66,15 @@ proposal_email: "proposals-seattle-2017@devopsdays.org" # Put your proposal emai
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: deis
     level: gold
   - id: slalom
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: opsgenie
     url: http://www.opsgenie.com?utm_source=Events&utm_campaign=DevOpsDays_Seattle_%20April&utm_medium=banner
@@ -125,7 +125,7 @@ sponsors:
     level: silver
   - id: cloudcoreo
     level: silver
-  - id: techtown
+  - id: techtown-before-20190407
     level: silver
   - id: spoken
     level: bronze

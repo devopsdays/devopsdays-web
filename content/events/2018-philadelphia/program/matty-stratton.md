@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How Do You Infect Your Organization With Humane Ops?"
 Type = "talk"
 Speakers = ["matty-stratton"]
+youtube = "N-YOcYf3SYk"
 +++
 
 Richard Dawkins described memes as being a form of cultural propagation, which is a way for people to transmit social memories and cultural ideas to each other. Not unlike the way that DNA and life will spread from location to location, a meme idea will also travel from mind to mind.

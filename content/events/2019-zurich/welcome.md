@@ -3,8 +3,7 @@ date = "2016-07-20T13:45:44+02:00"
 title = "welcome"
 type = "event"
 aliases = ["/events/2019-zurich"]
-Description = "DevOpsDays Zürich 209"
-
+Description = "DevOpsDays Zürich 2019"
 +++
 <!--
 <h3>{{< event_start >}} - {{< event_end >}}</h3>
@@ -69,7 +68,6 @@ Description = "DevOpsDays Zürich 209"
   </div>
 </div> -->
 
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Speakers</strong>
@@ -78,8 +76,6 @@ Description = "DevOpsDays Zürich 209"
     Check out the {{< event_link page="speakers" text="speakers!" >}}
   </div>
 </div>
--->
-<!--
 <div class = "row">
   <div class = "col-md-2">
     <strong>Sponsors</strong>
@@ -88,7 +84,6 @@ Description = "DevOpsDays Zürich 209"
     {{< event_link page="sponsor" text="Sponsor the conference!" >}}
   </div>
 </div>
--->
 <div class = "row">
   <div class = "col-md-2">
     <strong>Contact</strong>

@@ -7,8 +7,8 @@ friendly: "2017-amsterdam" # Four digit year and the city name in lower-case. Do
 ga_tracking_id: "UA-38891729-2"
 
 # All dates are in unquoted 2017-MM-DD, like this:   variable: 2016-01-05
-startdate:  2017-06-28
-enddate:  2017-06-30
+startdate:  2017-06-28T00:00:00+02:00
+enddate:  2017-06-30T23:59:59+02:00
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start: 2017-01-15  # start accepting talk proposals.
 cfp_date_end:  2017-04-01 # close your call for proposals.
@@ -49,7 +49,7 @@ sponsors:
   # gold
   - id: atlassian-before-20171216
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: elastic
     level: gold
@@ -57,7 +57,7 @@ sponsors:
     level: gold
   - id: stackstate
     level: gold
-  - id: thoughtworks-gocd
+  - id: thoughtworks-gocd-before-20190213
     level: gold
   - id: workiva
     level: gold
@@ -68,7 +68,7 @@ sponsors:
   - id: logz
     level: gold
   # silver
-  - id: valtech
+  - id: valtech-before-20190415
     level: silver
   - id: linkit
     level: silver
@@ -99,7 +99,7 @@ sponsors:
     level: preevent
     url: "http://www.opsgenie.com?utm_source=Events&utm_medium=banner&utm_campaign=DevOpsDays_Amsterdam_June"
   # beer
-  - id: redhat
+  - id: redhat-before-20190528
     level: beer
   # community
 

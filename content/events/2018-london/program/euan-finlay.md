@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Don't Panic!"
 Type = "talk"
 Speakers = ["euan-finlay"]
+youtube ="zRmr2iqyhX4"
 +++
 
 How to Cope Now You’re Responsible for Production

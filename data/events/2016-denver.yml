@@ -44,7 +44,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: victorops-before-20180823
     level: gold
-  - id: pivotal
+  - id: pivotal-before-20190307
     level: gold
   - id: thoughtworks-products-before-20160602
     level: gold
@@ -76,7 +76,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: github
     level: silver
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: silver
   - id: tuliva
     level: silver
@@ -94,7 +94,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: fortrust
     level: host
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: arresteddevops
     level: media

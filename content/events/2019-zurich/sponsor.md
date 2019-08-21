@@ -12,79 +12,29 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
 ### Sponsoring packages
 <table border="1" width="100%" style="padding: 5px; border-collapse: collapse; border: 1px solid black;">
   <tr>
-    <th><b>Packages</b></th>
-    <th><center><b><u>Evening<br /><font color="red">SOLD OUT</font></center></b></th>
-    <th><center><b><u>Gold<br /><font color="red">SOLD OUT</font></u></center></b></th>
-    <th><center><b><u>Silver<br /><font color="red">SOLD OUT</font></u></center></b></th>
-    <th><center><b><u>Bronze<br />1'500.- CHF</u></center></b></th>
+    <th></th>
+    <th><center><b><u>Bronze<br/></u></center></b></th>
+    <th><center><b><u>Silver<br/></u></center></b></th>
+    <th><center><b><u>Gold<br/></u></center></b></th>
+    <th><center><b><u>Planet<br/></center></b></th>
+    <th><center><b><u>Coffee<br/><font color="red">SOLD OUT</font></center></b></th>
+    <th><center><b><u>Entrance<br/><font color="red">SOLD OUT</font></center></b></th>
   </tr>
 
   <tr>
-    <td>Tickets (for sponsor booth staff and guests)</td>
-    <td><center>4</center></td>
-    <td><center>4</center></td>
-    <td><center>2</center></td>
+    <td># of packages</td>
+    <td><center>unlimited</center></td>
+   <td><center>unlimited</center></td>
+    <td><center>8</center></td>
+    <td><center>1</center></td>
+    <td><center>1</center></td>
     <td><center>1</center></td>
   </tr>
 
   <tr>
-    <td>Dedicated Table</td>
+    <td>Mentioning on (Social) Media</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Possibility to put on a max 3m billboard in the evening event location</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Possibility to put on a max 3m billboard in the hall *</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Shared table for Swag</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Possibility to put on one roll-up display, max 1 meter wide</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Logo on ist own slide, rotating during breaks</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Logo on shared slides, rotating during breaks</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-    <td bgcolor="#1581AB">&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td>Logo on event website</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -92,7 +42,9 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Logo on all email communication</td>
+    <td>Mentioning on Website</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
@@ -100,16 +52,50 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Thank you tweet</td>
+    <td>Swag Bag insert</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
   </tr>
 
+  <tr>
+    <td>Mentioning on Slides during Break<br>
+    </td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
 
   <tr>
-   <td>Shared table for stickers and brochures</td>
+    <td>Logo at Evening Event</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo at Coffee Lounge</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Logo in Main Hall</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
@@ -117,24 +103,54 @@ Please keep in mind, that you accept our Code of Conduct with sponsoring this ev
   </tr>
 
   <tr>
-    <td>Promotional present distributed with goodie bag</td>
+    <td>Mentioning in Live Streaming</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+    <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>1 min Pitch on Stage</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
     <td bgcolor="#1581AB">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td>Staff tickets included</td>
+    <td>1</td>
+    <td>2</td>
+    <td>4</td>
+    <td>5</td>
+    <td>5</td>
+    <td>5</td>
+  </tr>
+
+  <tr>
+   <td>Booth size (m²)</td>
+    <td>no booth</td>
+    <td>10</td>
+    <td>20</td>
+    <td>40</td>
+    <td>40</td>
+    <td>40</td>
+  </tr>
+
+  <tr>
+    <td>Price (CHF) (w/o VAT)</td>
+    <td>2'500.-</td>
+    <td>5'000.-</td>
+    <td>10'000.-</td>
+    <td>20'000.-</td>
+    <td>20'000.-</td>
+    <td>20'000.-</td>
  </tr>
-
-  <tr>
-    <td>Maximum Packages available</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><center>12</center></td>
-  </tr>
-
-  <tr>
-    <td><br/>* for gold sponsors in the foyer it is only possible to put on a max 1.8 Meter billboard</td>
-  </tr>
 </table>
 
 <br/>

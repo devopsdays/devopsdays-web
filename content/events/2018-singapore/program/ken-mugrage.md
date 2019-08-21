@@ -20,3 +20,5 @@ In this talk I'll point out several areas of focus when making the transition, a
 	<li>Evolutionary architecture - Adopting a technical architecture which is more testable and changeable is key to the ability to move fast. Taking advantage of microservices and platforms (such as PaaS) can help with this.
 	<li>Continuous Delivery - Continuous Delivery is more than just automating deployment. Making sure your software is going through things like security, performance and compliance testing in addition to ""standard"" tests.  I'll show ways to make sure your deployments are not only fast, but safe.
 </ul>
+
+{{< event_link page="program" text="View full program" >}}

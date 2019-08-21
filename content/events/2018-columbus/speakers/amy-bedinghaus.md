@@ -1,7 +1,7 @@
 +++
 Title = "Amy Bedinghaus"
 Twitter = ""
-image = ""
+image = "amy-bedinghaus.jpg"
 type = "speaker"
 linktitle = "amy-bedinghaus"
 +++

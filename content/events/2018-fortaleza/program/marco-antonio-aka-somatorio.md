@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2018-20-10"
+Talk_start_time = "12:35"
+Talk_end_time = "13:10"
 Title = "Síndrome do impostor: você não está sozinho"
 Type = "talk"
 Speakers = ["marco-antonio-aka-somatorio"]

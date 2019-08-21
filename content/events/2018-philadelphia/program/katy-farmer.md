@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to Be Happy Being Average"
 Type = "talk"
 Speakers = ["katy-farmer"]
+youtube = "Ii36dCSlUek"
 +++
 
 Growing up, I wore a lot of hand-me-downs. I thought I looked great--all three of my older siblings were cool. It didn’t matter how many times I tripped on my brother’s torn jnco jeans or how long my sister laughed when I got my head stuck in the armhole of her t-shirts. I wanted what they had because they were so influential in my life--even if I wasn’t comfortable and nothing ever fit.

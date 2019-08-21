@@ -4,6 +4,7 @@ Twitter = "AishwaryaKaneri"
 image = "aishwarya-kaneri.jpeg"
 type = "speaker"
 linktitle = "aishwarya-kaneri"
+linkedin = "https://www.linkedin.com/in/aishwaryakaneri/"
 
 +++
 

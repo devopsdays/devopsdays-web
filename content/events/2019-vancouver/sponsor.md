@@ -16,4 +16,4 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <p>
 
 
-<!-- <strong><a href="https://docs.google.com/document/d/1se7asDXct_f0rNddi87Rku5d2gek9JUv3Qb0IpiDC9Q/edit?usp=sharing">Please visit this link for full details on sponsorship</a></strong> -->
+<strong><a href="https://drive.google.com/open?id=1TAGNG_kGu0lWLtJKQr8WNRxE055uMjsB">Please visit this link for full details on sponsorship</a></strong>

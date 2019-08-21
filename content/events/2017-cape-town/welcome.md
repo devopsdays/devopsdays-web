@@ -7,6 +7,12 @@ Description = "DevOpsDays is coming back to Cape Town! Tickets on sale now."
 
 +++
 
+<h1 style="text-align: center;">
+<br>Looking for the topic suggestions for 2018?<br>
+Sorry, we made a mistake in our mail.<br>
+Go here ---> <a href="http://bit.ly/dodcpt18topic">2018 Open Spaces Topic Suggestions</a><br><br>
+</h1>
+
 <div style="text-align:center;">
   {{< event_logo >}}
 </div>

@@ -1,7 +1,7 @@
 +++
-Talk_date = ""
-Talk_start_time = ""
-Talk_end_time = ""
+Talk_date = "2018-20-10"
+Talk_start_time = "14:30"
+Talk_end_time = "14:55"
 Title = "Carreira DevOps, o que você precisa saber pra começar"
 Type = "talk"
 Speakers = ["rafael-gomes-aka-gomex"]

@@ -4,7 +4,9 @@ Type = "event"
 Description = "Sponsor DevOpsDays Wellington 2018"
 +++
 
-We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
+<br/>All our sponsorship slots have been filled.
+
+We greatly value sponsors for this open event.  If you are interested in sponsoring our event next year, please drop us an email at [{{< email_organizers >}}].
 
 <hr>
 Returning to Wellington, DevOpsDays provides an opportunity to expose your brand to the DevOps community across NZ - whether you're looking for talent, wanting to extend the reach of your brand or just show the latest and greatest wares. Sponsoring DevOpsDays in Wellington is a unique occasion to interact with technology professionals and gives your representatives a chance to connect with participants.

@@ -4,8 +4,8 @@ Talk_start_time = "12:00"
 Talk_end_time = "12:30"
 Title = "Realising the power of antifragility is like turning on the light in the DevOps room"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "BwABAMAo2bg"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-jan-de-vries-realising-the-power-of-antifragility-is-like-turning-on-the-light-in-the-devops-room"
 Speakers = ["jan-de-vries"]
 +++
 

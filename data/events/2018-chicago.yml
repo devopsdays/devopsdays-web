@@ -126,15 +126,15 @@ sponsors:
     level: gold
   - id: herzum
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: launch-darkly
     level: gold
-  - id: sumologic
+  - id: sumologic-before-20181203
     level: gold
   - id: instana
     level: gold
-  - id: appdynamics
+  - id: appdynamics-before-20190121
     level: gold
   - id: servicenow
     level: gold
@@ -160,9 +160,9 @@ sponsors:
     level: silver
   - id: mesosphere
     level: silver
-  - id: kaizenops
+  - id: kaizenops-before-20181008
     level: silver
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: cmegroup
     level: silver
@@ -204,7 +204,7 @@ sponsors:
     level: meal
   - id: spantree
     level: video
-  - id: kaizenops
+  - id: kaizenops-before-20181008
     level: live-transcription
   - id: allstate
     level: transportation
@@ -218,7 +218,7 @@ sponsors:
     level: community
   - id: wwcchicago
     level: community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: chicktech
     level: community

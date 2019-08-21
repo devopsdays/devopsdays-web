@@ -5,6 +5,7 @@ Talk_end_time = "10:15"
 Title = "Mulheres podem ser exemplos na tecnologia? Sim!"
 Type = "talk"
 Speakers = ["julia-lamenza"]
+Slides = "https://speakerdeck.com/julialameza/mulheres-podem-ser-exemplos-na-tecnologia-sim"
 +++
 
 Você já ouviu falar em Ada Lovelace, Grace Hopper e Joan Clarke? Essas foram algumas das mulheres que mais se destacaram na história da computação.

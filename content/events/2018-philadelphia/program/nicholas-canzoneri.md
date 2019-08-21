@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Command line first data analysis"
 Type = "talk"
 Speakers = ["nicholas-canzoneri"]
+youtube = "Vp3m2_YJ2Tk"
 +++
 
 As an operator of a system, you will often find yourself with data in CSV or unstructured log files that contain the answer to questions you have. Which IP address is hitting my server the most? How many requests came during this time frame? What kind of queries are getting written to the slow log? You want the answers to those questions as fast as possible and either you don't have log aggregation set up or inevitably there will some data that isn't flowing into it yet. Your data is probably on a remote server that is difficult to export from or you might even have a few gigs of data on your local machine.

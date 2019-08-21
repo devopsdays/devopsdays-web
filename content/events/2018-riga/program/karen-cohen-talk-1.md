@@ -4,8 +4,8 @@ Talk_start_time = "15:10"
 Talk_end_time = "15:40"
 Title = "My Tiny Phoenix Project"
 Type = "talk"
-youtube = ""
-slideshare = ""
+youtube = "MGofQWm2EXM"
+slideshare = "https://www.slideshare.net/DODRiga/devopsdaysriga-2018-karen-cohen-my-tiny-phoenix-project"
 Speakers = ["karen-cohen"]
 +++
 

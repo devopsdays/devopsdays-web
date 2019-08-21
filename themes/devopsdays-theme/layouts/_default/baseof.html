@@ -20,7 +20,7 @@
                   {{- block "main" . }} {{- end -}}
               </div>
               <div class="col-md-2 pull-md-8">
-                  <a href = "{{ "events" | absURL }}" class="left-nav-navs">PAST EVENTS</a><br />
+                  <a href = "{{ "/events" }}" class="left-nav-navs">PAST EVENTS</a><br />
                   {{- partial "future.html" . -}}
               </div>
             {{- end -}}
@@ -29,7 +29,7 @@
                 {{- block "main" . }} {{- end -}}
             </div>
             <div class="col-md-2 pull-md-8">
-                <a href = "{{ "events" | absURL }}" class="left-nav-navs">PAST EVENTS</a><br />
+                <a href = "{{ "/events"}}" class="left-nav-navs">PAST EVENTS</a><br />
                 {{- partial "future.html" . -}}
             </div>
         {{- end -}}
