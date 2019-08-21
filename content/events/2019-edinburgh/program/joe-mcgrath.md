@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Wrangling Data Science in a DevOps World"
 Type = "talk"
-Speakers = ["joe"]
+Speakers = ["joe-mcgrath"]
 +++
 
 Bringing the Data Science world into a modern DevOps Organisation can be tricky. With real world examples, I will share lessons that I learned while working alongside MLEngineers and Data Scientists to start to deliver AI Services to Production.
