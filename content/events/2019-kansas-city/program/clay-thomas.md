@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "Automating the boring stuff with Kubernetes"
 Type = "talk"
-Speakers = ["clay-thomas"]
+Speakers = ["clay-thomas", "austin-heimann", "cullen-mcdermott"]
 +++
 This workshop will discuss using Open Policy Agent to create admissions controllers in Kubernetes to enforce security, resource, and compliance policies as well as provide an example for simplifying some operational pains like external secrets retrieval. By the end of the workshop, participants will be more aware of problems that come with increased Kubernetes adoption as well as potential solutions for how to solve these problems. This workshop will focus on the user experience of both a cluster administrator and an applications developer as well as how both of their goals can be addressed by adopting these patterns.
 
