@@ -18,6 +18,7 @@ cfp_date_start:  2019-04-16T00:00:00-05:00
 cfp_date_end:  2019-06-16T00:00:00-05:00
 cfp_date_announce:  2019-07-16T00:00:00-05:00
 
+cfp_open: "false"
 cfp_link: "https://cfp.devopsdayskc.org" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-04-16T00:00:00-05:00
@@ -34,11 +35,11 @@ location: "Plexpod Westport Commons" # Defaults to city, but you can make it the
 location_address: "300 E 39th St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#   - name: propose
   - name: location
   - name: registration
   - name: program
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -214,12 +215,12 @@ program:
     date: 2019-10-24
     start_time: "09:00"
     end_time: "09:25"
-  - title: "speaker1"
+  - title: "jennifer-davis"
     type: talk
     date: 2019-10-24
     start_time: "09:30"
     end_time: "10:00"
-  - title: "speaker2"
+  - title: "paul-snider"
     type: talk
     date: 2019-10-24
     start_time: "10:00"
@@ -229,12 +230,12 @@ program:
     date: 2019-10-24
     start_time: "10:30"
     end_time: "11:00"
-  - title: "speaker3"
+  - title: "piotr-holubowicz"
     type: talk
     date: 2019-10-24
     start_time: "11:00"
     end_time: "11:30"
-  - title: "speaker4"
+  - title: "dan-zentgraf"
     type: talk
     date: 2019-10-24
     start_time: "11:30"
@@ -254,32 +255,32 @@ program:
     date: 2019-10-24
     start_time: "14:15"
     end_time: "14:30"
-  - title: "workshop1"
+  - title: "sasha-rosenbaum"
     type: workshop
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "workshop2"
+  - title: "joel-tosi"
     type: workshop
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "workshop3"
+  - title: "clay-thomas"
     type: workshop
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "workshop4"
+  - title: "tom-cudd"
     type: workshop
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "workshop5"
+  - title: "kate-wardin"
     type: workshop
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "speaker5"
+  - title: "rhia-dixon"
     type: talk
     date: 2019-10-24
     start_time: "14:30"
@@ -289,12 +290,12 @@ program:
     date: 2019-10-24
     start_time: "15:00"
     end_time: "15:30"
-  - title: "speaker6"
+  - title: "simon-yost"
     type: talk
     date: 2019-10-24
     start_time: "15:30"
     end_time: "16:00"
-  - title: "speaker7"
+  - title: "ross-brunson"
     type: talk
     date: 2019-10-24
     start_time: "16:00"
@@ -320,7 +321,7 @@ program:
     date: 2019-10-25
     start_time: "09:00"
     end_time: "09:15"
-  - title: "speaker8"
+  - title: "sonia-gupta"
     type: talk
     date: 2019-10-25
     start_time: "09:15"
@@ -355,32 +356,32 @@ program:
     date: 2019-10-25
     start_time: "13:45"
     end_time: "14:00"
-  - title: "workshop6"
+  - title: "rich-mogull"
     type: workshop
     date: 2019-10-25
     start_time: "14:00"
     end_time: "16:00"
-  - title: "workshop7"
+  - title: "justin-james"
     type: workshop
     date: 2019-10-25
     start_time: "14:00"
     end_time: "16:00"
-  - title: "workshop8"
+  - title: "steph-hicks"
     type: workshop
     date: 2019-10-25
     start_time: "14:00"
     end_time: "16:00"
-  - title: "workshop9"
+  - title: "mofizur-rahman"
     type: workshop
     date: 2019-10-25
     start_time: "14:00"
     end_time: "16:00"
-  - title: "workshop10"
+  - title: "steve-grossman"
     type: workshop
     date: 2019-10-25
     start_time: "14:00"
     end_time: "16:00"
-  - title: "speaker9"
+  - title: "kyle-harper"
     type: talk
     date: 2019-10-25
     start_time: "14:00"
@@ -390,12 +391,12 @@ program:
     date: 2019-10-25
     start_time: "14:30"
     end_time: "15:00"
-  - title: "speaker10"
+  - title: "amber-vanderburg"
     type: talk
     date: 2019-10-25
     start_time: "15:00"
     end_time: "15:30"
-  - title: "speaker11"
+  - title: "seth-thoenen"
     type: talk
     date: 2019-10-25
     start_time: "15:30"
@@ -405,3 +406,25 @@ program:
     date: 2019-10-25
     start_time: "16:00"
     end_time: "16:30" 
+
+ignites:
+  - title: "waldo-g"
+    date: 2019-10-24
+  - title: "kyle-sexton"
+    date: 2019-10-24
+  - title: "matt-blasinski"
+    date: 2019-10-24
+  - title: "kevin-reedy"
+    date: 2019-10-24
+  - title: "Ignite Karaoke!"
+    date: 2019-10-24
+  - title: "curtis-blackthorne"
+    date: 2019-10-25
+  - title: "jj-asghar"
+    date: 2019-10-25
+  - title: "douglas-heller"
+    date: 2019-10-25
+  - title: "roger-noah"
+    date: 2019-10-25
+  - title: "Ignite Karaoke!"
+    date: 2019-10-25
