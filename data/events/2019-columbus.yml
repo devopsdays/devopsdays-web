@@ -158,17 +158,21 @@ sponsor_levels:
     label: Community
 
 program:
-#- title: "Registration and Breakfast" # Day 1 Start
-#  type: custom
-#  date: 2018-09-19
-#  start_time: "8:00"
-#  end_time: "9:00"
-#
-#- title: "Opening Welcome"
-#  type: custom
-#  date: 2018-09-19
-#  start_time: "9:00"
-#  end_time: "9:15"
+- title: "Registration and Breakfast" # Day 1 Start
+  type: custom
+  date: 2018-09-18
+  start_time: "8:00"
+  end_time: "9:00"
+- title: "Opening Welcome"
+  type: custom
+  date: 2018-09-19
+  start_time: "9:00"
+  end_time: "9:15"
+- title: "courtney-kissler"
+  type: custom
+  date: 2018-09-19
+  start_time: "9:00"
+  end_time: "9:15"
 
 ignites:
 #- title: "laura-maguire-ignite"
