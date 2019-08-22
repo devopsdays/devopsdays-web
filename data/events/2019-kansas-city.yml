@@ -277,7 +277,7 @@ program:
     date: 2019-10-24
     start_time: "14:30"
     end_time: "16:30"
-  - title: "kate-wardin"
+  - title: "steph-hicks"
     type: workshop
     date: 2019-10-24
     start_time: "14:30"
@@ -368,7 +368,7 @@ program:
     date: 2019-10-25
     start_time: "14:00"
     end_time: "16:00"
-  - title: "steph-hicks"
+  - title: "kate-wardin"
     type: workshop
     date: 2019-10-25
     start_time: "14:00"
