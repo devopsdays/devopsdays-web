@@ -1,7 +1,7 @@
 +++
 Title = "Courtney Kissler"
 Twitter = "chawklady"
-image = "courtney-kissler.png"
+image = "courtney-kissler.jpg"
 type = "speaker"
 linktitle = "courtney-kissler"
 
