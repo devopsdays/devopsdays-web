@@ -1,7 +1,7 @@
 +++
 Title = "Marisa Grayson"
 Twitter = "MarisaGrayson"
-image = "marisa-grayson.jpg"
+image = "marisa-grayson.jpeg"
 type = "speaker"
 website = "https://www.researchgate.net/profile/Marisa_Grayson"
 +++
