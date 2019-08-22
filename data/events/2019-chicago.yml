@@ -239,7 +239,9 @@ sponsors:
   - id: bevsechops
     level: community
   - id: checkpoint
-    level: bronze 
+    level: bronze
+  - id: centro
+    level: scholarship 
 
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
@@ -271,7 +273,9 @@ sponsor_levels:
   - id: lunch
     label: Lunch
     max: 2
-
+  - id: scholarship
+    label: scholarship
+    max: 1
 
 program:
   - title: "Registration, Breakfast, Sponsors"

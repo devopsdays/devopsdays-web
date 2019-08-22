@@ -18,6 +18,7 @@ cfp_date_start:  2019-04-16T00:00:00-05:00
 cfp_date_end:  2019-06-16T00:00:00-05:00
 cfp_date_announce:  2019-07-16T00:00:00-05:00
 
+cfp_open: "false"
 cfp_link: "https://cfp.devopsdayskc.org" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2019-04-16T00:00:00-05:00
@@ -34,11 +35,11 @@ location: "Plexpod Westport Commons" # Defaults to city, but you can make it the
 location_address: "300 E 39th St, Kansas City, MO 64111" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#   - name: propose
   - name: location
   - name: registration
- # - name: program
- # - name: speakers
+  - name: program
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -179,6 +180,8 @@ sponsors:
     level: premium
   - id: nutanix
     level: premium
+  - id: circleci
+    level: premium
   - id: tgs
     level: supporting
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
@@ -202,3 +205,228 @@ sponsor_levels:
     label: Supporting
   - id: community
     label: Community
+
+program:
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-24
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-24
+    start_time: "09:00"
+    end_time: "09:25"
+  - title: "jennifer-davis"
+    type: talk
+    date: 2019-10-24
+    start_time: "09:30"
+    end_time: "10:00"
+  - title: "paul-snider"
+    type: talk
+    date: 2019-10-24
+    start_time: "10:00"
+    end_time: "10:30"
+  - title: "Sponsor + Break"
+    type: custom
+    date: 2019-10-24
+    start_time: "10:30"
+    end_time: "11:00"
+  - title: "piotr-holubowicz"
+    type: talk
+    date: 2019-10-24
+    start_time: "11:00"
+    end_time: "11:30"
+  - title: "dan-zentgraf"
+    type: talk
+    date: 2019-10-24
+    start_time: "11:30"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-24
+    start_time: "12:00"
+    end_time: "13:30"
+  - title: "Ignites"
+    type: ignite
+    date: 2019-10-24
+    start_time: "13:30"
+    end_time: "14:15"
+  - title: "Sponsors + Announcements / Workshop Logistics"
+    type: custom
+    date: 2019-10-24
+    start_time: "14:15"
+    end_time: "14:30"
+  - title: "sasha-rosenbaum"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "joel-tosi"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "clay-thomas"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "tom-cudd"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "kate-wardin"
+    type: workshop
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "16:30"
+  - title: "rhia-dixon"
+    type: talk
+    date: 2019-10-24
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "Sponsors + Break"
+    type: custom
+    date: 2019-10-24
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "simon-yost"
+    type: talk
+    date: 2019-10-24
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "ross-brunson"
+    type: talk
+    date: 2019-10-24
+    start_time: "16:00"
+    end_time: "16:30"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-24
+    start_time: "16:45"
+    end_time: "17:00"
+  - title: "Evening event"
+    type: custom
+    date: 2019-10-24
+    start_time: "17:00"
+    end_time: "21:00"
+    comments: "TBD"
+  - title: "Registration, Breakfast, Sponsors"
+    type: custom
+    date: 2019-10-25
+    start_time: "08:00"
+    end_time: "09:00"
+  - title: "Opening Welcome"
+    type: custom
+    date: 2019-10-25
+    start_time: "09:00"
+    end_time: "09:15"
+  - title: "sonia-gupta"
+    type: talk
+    date: 2019-10-25
+    start_time: "09:15"
+    end_time: "09:45"
+  - title: "Sponsors + Open Space Kickoff"
+    type: custom
+    date: 2019-10-25
+    start_time: "09:40"
+    end_time: "09:45"
+  - title: "attendee-suggested breakout discussions - Open Space #1"
+    type: open-space
+    date: 2019-10-25
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "attendee-suggested breakout discussions - Open Space #2"
+    type: open-space
+    date: 2019-10-25
+    start_time: "10:00"
+    end_time: "12:00"
+  - title: "Lunch (catered)"
+    type: custom
+    date: 2019-10-25
+    start_time: "11:30"
+    end_time: "13:00"
+  - title: "Sponsors + Ignites"
+    type: ignite
+    date: 2019-10-25
+    start_time: "13:00"
+    end_time: "13:45"
+  - title: "Sponsors + Announcements / Workshop Logistics"
+    type: custom
+    date: 2019-10-25
+    start_time: "13:45"
+    end_time: "14:00"
+  - title: "rich-mogull"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "justin-james"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "steph-hicks"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "mofizur-rahman"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "steve-grossman"
+    type: workshop
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "16:00"
+  - title: "kyle-harper"
+    type: talk
+    date: 2019-10-25
+    start_time: "14:00"
+    end_time: "14:30"
+  - title: "Sponsors + Break"
+    type: custom
+    date: 2019-10-25
+    start_time: "14:30"
+    end_time: "15:00"
+  - title: "amber-vanderburg"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:00"
+    end_time: "15:30"
+  - title: "seth-thoenen"
+    type: talk
+    date: 2019-10-25
+    start_time: "15:30"
+    end_time: "16:00"
+  - title: "Close Day & Logistics"
+    type: custom
+    date: 2019-10-25
+    start_time: "16:00"
+    end_time: "16:30" 
+
+ignites:
+  - title: "waldo-g"
+    date: 2019-10-24
+  - title: "kyle-sexton"
+    date: 2019-10-24
+  - title: "matt-blasinski"
+    date: 2019-10-24
+  - title: "kevin-reedy"
+    date: 2019-10-24
+  - title: "Ignite Karaoke!"
+    date: 2019-10-24
+  - title: "curtis-blackthorne"
+    date: 2019-10-25
+  - title: "jj-asghar"
+    date: 2019-10-25
+  - title: "douglas-heller"
+    date: 2019-10-25
+  - title: "roger-noah"
+    date: 2019-10-25
+  - title: "Ignite Karaoke!"
+    date: 2019-10-25

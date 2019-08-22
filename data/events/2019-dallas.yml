@@ -285,7 +285,9 @@ sponsors:
   - id: capitalone
     level: coffee 
   - id: kudelskisecurity-f5
-    level: gold   
+    level: gold
+  - id: quali
+    level: gold    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -325,40 +327,35 @@ program:
     date: 2019-08-20
     start_time: "08:00"
     end_time: "08:45"
-  - title: "Intro and Code of Conduct"
+  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
     type: custom
     date: 2019-08-20
     start_time: "08:45"
-    end_time: "08:55"
-  - title: "Welcome - Mark Saum (Organizer)"
-    type: custom
-    date: 2019-08-20
-    start_time: "08:55"
-    end_time: "09:05"
+    end_time: "09:00"
   - title: "adrian-cockcroft"
     type: talk
     date: 2019-08-20
-    start_time: "09:05"
-    end_time: "09:50"
+    start_time: "09:00"
+    end_time: "09:45"
   - title: "damon-edwards"
     type: talk
     date: 2019-08-20
-    start_time: "09:50"
-    end_time: "10:20"
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Break"
     type: custom
     date: 2019-08-20
-    start_time: "10:20"
-    end_time: "10:30"
+    start_time: "10:15"
+    end_time: "10:25"
   - title: "quintessence-anx"
     type: talk
     date: 2019-08-20
-    start_time: "10:30"
-    end_time: "11:00"
+    start_time: "10:25"
+    end_time: "10:55"
   - title: "Sponsors"
     type: custom
     date: 2019-08-20
-    start_time: "11:00"
+    start_time: "10:55"
     end_time: "11:30"
   - title: "dan-barker"
     type: talk
@@ -374,11 +371,11 @@ program:
     type: talk
     date: 2019-08-20
     start_time: "12:45"
-    end_time: "13:35"
+    end_time: "13:30"
   - title: "Sponsors"
     type: custom
     date: 2019-08-20
-    start_time: "13:35"
+    start_time: "13:30"
     end_time: "13:50"
   - title: "vijay-challa"
     type: talk
@@ -405,20 +402,20 @@ program:
     date: 2019-08-20
     start_time: "15:30"
     end_time: "16:15"
-  - title: "RAFFLE - Prize Giveaway"
+  - title: "Show & Tell what will be raffled on the 21st."
     type: custom
     date: 2019-08-20
     start_time: "16:15"
-    end_time: "16:45"
+    end_time: "16:20"
   - title: "Close Day & Logistics"
     type: custom
     date: 2019-08-20
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "16:20"
+    end_time: "16:30"
   - title: "Social Networking - Happy Hour"
     type: custom
     date: 2019-08-20
-    start_time: "17:00"
+    start_time: "16:30"
     end_time: "19:00"
 
   - title: "Registration & Breakfast"
@@ -430,21 +427,21 @@ program:
     type: custom
     date: 2019-08-21
     start_time: "08:45"
-    end_time: "09:05"
+    end_time: "09:00"
   - title: "ross-clanton"
     type: talk
     date: 2019-08-21
-    start_time: "09:05"
-    end_time: "09:50"
+    start_time: "09:00"
+    end_time: "09:45"
   - title: "derek-weeks"
     type: talk
     date: 2019-08-21
-    start_time: "09:50"
-    end_time: "10:20"
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Break"
     type: custom
     date: 2019-08-21
-    start_time: "10:20"
+    start_time: "10:15"
     end_time: "10:30"  
   - title: "crux-conception"
     type: talk
@@ -501,7 +498,7 @@ program:
     date: 2019-08-21
     start_time: "16:15"
     end_time: "16:20"  
-  - title: "Closing, Raffle, & Farewell"
+  - title: "Closing, Raffle Giveaway, & Farewell"
     type: custom
     date: 2019-08-21
     start_time: "16:20"
