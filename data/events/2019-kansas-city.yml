@@ -82,15 +82,15 @@ team_members: # Name is the only required field for team members.
     considered an advocate for developing the DevOps culture throughout the Bank.  He is also actively
     involved in the Kansas City eSports scene as a co-owner of Good Game Kansas City."
   - name: "Ryan McNair"
-    employer: SMRxT
+    employer: RSA
     image: ryan-mcnair.jpg
-    bio: "Ryan McNair is currently the Technical Product Owner for SMRxT Inc, a Medication Adherence
-    company focused on software and IoT devices to monitor when patients do and don't take their medicine.
-    Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, a provider of
-    Electronic Health Record software and services to hospitals. Ryan is focused on successful technology
-    implementations across the healthcare sector and sees DevOps as a powerful tool in the business value
-    stream for all SaaS products. Outside the office, you'll find Ryan tearing up the local mountain bike
-    trails and making sawdust in his basement workshop."
+    bio: "Ryan McNair is currently helping improve access to Digital Risk Management services at RSA Security, 
+    a Dell Technologies company. Previously, Ryan held multiple engineering and leadership positions at Cerner Corp, 
+    a provider of Electronic Health Record software and services to hospitals, and SMRxT, a Medication Adherence 
+    company focused on software and IoT devices to monitor when patients do and don’t take their medicine.  
+    Ryan is focused on successful technology implementations and sees DevOps as a powerful tool in the business 
+    value stream for all SaaS products. Outside the office, you’ll find Ryan tearing up the local mountain bike trails 
+    and making sawdust in his basement workshop."
     linkedin: https://www.linkedin.com/in/ryanmcnair/
   - name: "Tom Martin"
     employer: 27global
