@@ -108,6 +108,8 @@ sponsors:
     level: bronze
   - id: izap
     level: bronze
+  - id: dti
+    level: bronze
   - id: vidadeprogramador
     level: community
   - id: digitalocean
