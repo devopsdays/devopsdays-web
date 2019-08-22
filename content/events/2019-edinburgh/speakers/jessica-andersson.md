@@ -2,7 +2,7 @@
 Title = "Jessica Andersson"
 Twitter = "solidtubez"
 type = "speaker"
-image = ""
+image = "jessica-andersson.png"
 linktitle = "jessica-andersson"
 
 +++

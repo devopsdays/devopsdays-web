@@ -272,7 +272,7 @@ program:
     date: 2019-10-18
     start_time: "10:00"
     end_time: "10:15"
-  - title: "-"
+  - title: "vlatko-ivanovski"
     type: talk
     date: 2019-10-18
     start_time: "10:15"
@@ -360,7 +360,7 @@ program:
 
 
 ignites:
-  - title: "dave-stankel"
+  - title: "dave-stanke"
     date: 2019-10-17
   - title: "adarsh-shah"
     date: 2019-10-17

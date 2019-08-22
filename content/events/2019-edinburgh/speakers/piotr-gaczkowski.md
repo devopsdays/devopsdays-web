@@ -2,7 +2,7 @@
 Title = "Piotr Gaczkowski"
 Twitter = "doomhammerng"
 type = "speaker"
-image = ""
+image = "piotr-gaczkowski.jpg"
 linktitle = "piotr-gaczkowski"
 
 +++
