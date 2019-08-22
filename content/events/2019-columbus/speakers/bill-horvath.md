@@ -1,7 +1,7 @@
 +++
 Title = "Bill Horvath"
 Twitter = "billhorvath"
-image = "bill-horvath.jpg"
+image = "bill-horvath.jpeg"
 type = "speaker"
 website = "https://billhorvath.com/"
 +++

@@ -1,6 +1,6 @@
 +++
 Title = "James O'Donnel"
-image = "james-odonnell.jpg"
+image = "james-odonnell.jpeg"
 type = "speaker"
 +++
 

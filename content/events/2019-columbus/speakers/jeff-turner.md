@@ -1,7 +1,7 @@
 +++
 Title = "Jeff Turner"
 Twitter = "JeffroeBodine"
-image = "jeff-turner.jpg"
+image = "jeff-turner.jpeg"
 type = "speaker"
 +++
 

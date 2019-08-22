@@ -1,7 +1,7 @@
 +++
 Title = "Derek DeJonghe"
 Twitter = "DerekRBN"
-image = "derek-dejonghe.jpg"
+image = "derek-dejonghe.jpeg"
 type = "speaker"
 +++
 

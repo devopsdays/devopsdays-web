@@ -1,7 +1,7 @@
 +++
 Title = "Leon Stigter"
 Twitter = "LeonStigter"
-image = "leon-stigter.jpg"
+image = "leon-stigter.jpeg"
 type = "speaker"
 website = "https://retgits.com/"
 +++

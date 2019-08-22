@@ -1,7 +1,7 @@
 +++
 Title = "Jeff McKenzie"
 Twitter = "jeffreymckenzie"
-image = "jeff-mckenzie.jpg"
+image = "jeff-mckenzie.png"
 type = "speaker"
 website = "https://github.com/mcknz"
 +++
