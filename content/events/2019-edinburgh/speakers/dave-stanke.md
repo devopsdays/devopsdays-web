@@ -2,7 +2,7 @@
 Title = "Dave Stanke"
 Twitter = "davidstanke"
 type = "speaker"
-image = ""
+image = "dave-stanke.jpg"
 linktitle = "dave-stanke"
 
 +++
