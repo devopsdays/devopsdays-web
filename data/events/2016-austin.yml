@@ -81,7 +81,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: gold
   - id: deis
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
   - id: newrelic
     level: gold
@@ -109,7 +109,7 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: leankit
     level: bronze
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: devopsdotcom-before-20170823
     level: media

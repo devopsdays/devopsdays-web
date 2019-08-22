@@ -1,28 +1,8 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2cemxawbx0vtrt8e/branch/master?svg=true)](https://ci.appveyor.com/project/DevOpsDays/devopsdays-theme/branch/master)
-[![Build Status](https://travis-ci.org/devopsdays/devopsdays-theme.svg?branch=master)](https://travis-ci.org/devopsdays/devopsdays-theme)
-[![GitHub release](https://img.shields.io/github/release/devopsdays/devopsdays-theme.svg)](https://github.com/qubyte/rubidium/releases)
-[![license](https://img.shields.io/github/license/devopsdays/devopsdays-theme.svg)]()
-[![Greenkeeper badge](https://badges.greenkeeper.io/devopsdays/devopsdays-theme.svg)](https://greenkeeper.io/)
-[![Greenkeeper badge](https://img.shields.io/badge/roadmap-available-blue.svg)](https://www.devopsdays.org/roadmap)
-[![Greenkeeper badge](https://img.shields.io/badge/feedback-welcome-blue.svg)](https://www.devopsdays.org/ideas)
-
-[![Stories in Ready](https://badge.waffle.io/devopsdays/devopsdays-theme.svg?label=ready&title=Ready)](http://waffle.io/devopsdays/devopsdays-theme) [![Stories in Progress](https://badge.waffle.io/devopsdays/devopsdays-theme.svg?label=in%progress&title=In%20Progress)](http://waffle.io/devopsdays/devopsdays-theme) [![Needs Review](https://badge.waffle.io/devopsdays/devopsdays-theme.svg?label=needs-review&title=Needs%20Review)](http://waffle.io/devopsdays/devopsdays-theme)
-
-You can see progress on tasks at http://waffle.io/devopsdays/devopsdays-theme
-
-[![Throughput Graph](https://graphs.waffle.io/devopsdays/devopsdays-theme/throughput.svg)](https://waffle.io/devopsdays/devopsdays-theme/metrics)
-
 # devopsdays-theme
 
 devopsdays-theme is the Hugo theme for the [devopsdays](https://www.devopsdays.org) website.
 
-## QA Testing the New Theme
-While we are in development, your help is appreciated in identifying outstanding issues or defects. Please browse through the example site at https://dev.devopsdays.org, and if you idenfity something that is broken or missing, please [log an issue](https://github.com/devopsdays/devopsdays-theme/issues). We may mark it as a duplicate, etc, but log anything you find that seems wrong or broken.
-
-## Theme Layout
-Bear in mind that this theme lives in a separate repo from the main [devopsdays-web repo](https://github.com/devopsdays/devopsdays-web). No changes should be made to the `themes/devopsdays-theme` directory in `devopsdays-web`. If changes need to be made to the theme, they should be made in this repo, and a new version released, and the theme installed into `devopsdays-web`.
-
-All features are documented in [REFERENCE.md](https://github.com/devopsdays/devopsdays-theme/blob/master/REFERENCE.md).
+All features are documented in [REFERENCE.md](https://github.com/devopsdays/devopsdays-web/blob/master/themes/devopsdays-theme/REFERENCE.md).
 
 ## New Features
 
@@ -87,20 +67,11 @@ Author = "Bridget Kromhout"
 If an author is not specified, attempts to display it are ignored.
 
 ## Feature Requests
-If there is a feature in the theme that you would like to see, please [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) to this repository and prepend the title with `[ENHANCEMENT]`. If you discover an issue with the theme, [submit an issue](https://github.com/devopsdays/devopsdays-theme/issues/new) and prepend the title with `[BUG]`.
+If there is a feature in the theme that you would like to see, please [submit an issue](https://github.com/devopsdays/devopsdays-web/issues/new) to this repository and prepend the title with `[ENHANCEMENT]`. If you discover an issue with the theme, [submit an issue](https://github.com/devopsdays/devopsdays-web/issues/new) and prepend the title with `[BUG]`.
 
 If you would like to help prioritize enhancements, please upvote the original issue by [adding a reaction](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments).
 
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-theme/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
+See [CONTRIBUTING.md](https://github.com/devopsdays/devopsdays-web/blob/master/CONTRIBUTING.md) for details on our workflow, dev setup, and how to release new versions of the theme.
 
-
-## dev examples
-This is just a list of some POC urls to see examples:
-- [Home Page](https://dev.devopsdays.org/)
-- [Event Page](https://dev.devopsdays.org/events/2017-ponyville/welcome/)
-- [Talk Page with Single Speaker](https://dev.devopsdays.org/events/2017-hoofington/program/twilight-sparkle/)
-- [Talk Page With Multiple Speakers](https://dev.devopsdays.org/events/2017-ponyville/program/rainbow-dash/)
-- [Speaker Page](https://dev.devopsdays.org/events/2017-ponyville/speakers/fluttershy/)
-- [Program Page](https://dev.devopsdays.org/events/2017-ponyville/program/)

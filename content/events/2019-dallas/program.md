@@ -3,10 +3,10 @@ Title = "Program"
 Type = "program"
 Description = "Program for devopsdays Dallas 2019" 
 +++
-<img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
+<!--- <img alt="Work In Progress" src="/events/2019-dallas/wip.gif" style="max-width: 15%;">
 <div class = "row">
   <div class = "col">
-    <hr />
+    <hr /> -->
 <h5>If Open Space is new to you, you may be interested in <a href="/pages/open-space-format">more details about Open Space</a>.<br>
 <p><p>
 Our <img alt="DoDDFW Slack" src="/events/2019-dallas/slack.png" style="max-width: 100%;"><strong>Slack</strong> team is:<strong> <a href="https://doddfw.slack.com/">doddfw.slack.com</a></strong>.  Click <strong><a href="https://join.slack.com/t/doddfw/shared_invite/enQtNDE0MDkzODE5MDU4LTUwNWFkYTBmNTE2MDIxZWNmN2IwNTBmNjFmZjk3ZjdlZGI2MTk4ZWZkMThkZDkxMzQ2NzNiYjY1YjlmZjZiM2Q">here</a></strong> to join.<br>
@@ -18,9 +18,9 @@ DevOpsDays DFW Photo Gallery - click <strong><a href="https://photos.app.goo.gl/
 </div>
 <div>
 <b>Color Keys:</b>
-<div class="col-lg-4 col-md-3 program-element program-talk">Talk</div>
-<div class="col-lg-4 col-md-3 program-element program-ignite">Ignite</div>
-<div class="col-lg-4 col-md-3 program-element program-open-space">Open Space</div>
+<div class="col-lg-2 col-md-3 program-element program-talk">Talk</div>
+<div class="col-lg-2 col-md-3 program-element program-ignite">Ignite</div>
+<div class="col-lg-2 col-md-3 program-element program-open-space">Open Space</div>
 <!-- <div class="col-lg-4 col-md-3 program-element program-workshop">Workshop<br>(Leadership Summit - <strong>Nominations Only</strong>)</div> -->
 <br />
 <!-- <h3><b>NOTE:</b> <strong><a href="/events/2018-dallas/b4con/">B4CON</a></strong> is on Aug 29th, 2018 from 3:00pm - 7:30pm and will be hosted at the:<br> 

@@ -16,12 +16,13 @@ Do you hear a lot about continuous delivery and DevOps? Do you love what you hea
 In this workshop you will see how to approach continuous delivery in legacy codebases using a fast and maintainable automated test suite, mainly based on unit tests. You will pair with other participants to cover a (ugly) legacy application with a special type of test called golden master (aka approval tests), and explore how to refactor it to use meaningful domain concepts covered by tests.
 
 
-Prerequisites:
-* General coding knowledge in either java or javascript.
+Prerequisites: 
+
+* General coding knowledge in either java or javascript. 
 * A laptop with language and your favorite editor.
 
+You will get these new microskills: 
 
-You will get these new microskills:
 * Verify results
 * Using Code Coverage
 * Using Mutation Testing
@@ -29,10 +30,11 @@ You will get these new microskills:
 * Removing Duplication
 * Using your Editor effectively
 
-
 Workshop Outline:
-* Brief introductory of the legacy beast
-* Pairing to cover the application with a golden master, following a step-by-step guide
+
+* Brief introductory of the legacy beas
+* Pairing to cover the application with a golden master, following a step-by-step guide 
+* Reflection 
+* Pairing to refactor
 * Reflection
-* Pairing to extract domain concepts and cover them with unit tests
-* Reflection
+

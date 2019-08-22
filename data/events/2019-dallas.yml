@@ -36,10 +36,10 @@ location_address: "2000 East Spring Creek Parkway, Plano, TX 75074" #Optional - 
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: location
-  - name: propose
+# - name: propose
   - name: program
   - name: registration
- # - name: speakers
+  - name: speakers
   - name: sponsor
   - name: contact
   - name: conduct
@@ -140,28 +140,28 @@ team_members: # Name is the only required field for team members.
 #   website:
 #   github:
     image: "roger.jpg"
-  - name: "Charles Humphrey"
-    role: ""
-    employer: "Organizer Role - Backup Leadership Summit"
-    bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
-<br><br>
-Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
-    twitter: ""
-    linkedin: "https://www.linkedin.com/in/ryandymek/"
+#  - name: "Charles Humphrey"
+#    role: ""
+#    employer: "Organizer Role - Backup Leadership Summit"
+#    bio: "Charles is a senior technology leader with extensive experience designing and implementing business-focused IT strategies that drive organizational transformation. He can provide you advice based on his proven expertise in the design, development, delivery, and integration of emerging technologies and enterprise applications for stakeholders in the US and International markets. 
+#<br><br>
+#Throughout his career, he has provided strategic direction to meet organizational objectives and facilitated long-term gains in revenue, product development, and market leadership through innovative technology solutions. Additionally, he possess a record of building and leading high-performance teams that execute on global business strategies and customized solutions for complex business challenges."
+#    twitter: ""
+#   linkedin: ""
 #   facebook:
-    website: "http://www.talonmartialarts.com/"
+#   website: "http://www.talonmartialarts.com/"
 #   github:
-    image: "charles.jpg"
-  - name: "Ryan Dymek"
-    role: "Dymek Solutions, Inc."
-    employer: ""
-    bio: ""
-    twitter: "RyanDymek"
-    linkedin: "https://www.linkedin.com/in/ryandymek/"
+#   image: "charles.jpg"
+# - name: "Ryan Dymek"
+#   role: "Dymek Solutions, Inc."
+#   employer: ""
+#   bio: ""
+#   twitter: "RyanDymek"
+#   linkedin: "https://www.linkedin.com/in/ryandymek/"
 #   facebook:
-    website: "https://www.dymekonline.com/"
+#   website: "https://www.dymekonline.com/"
 #   github:
-    image: "ryan.jpg"
+#   image: "ryan.jpg"
 # - name: "Mike Rosado"
 #   employer: "Organizer Role - Website / devopsdays.org Global Core Organizer"
 #   role: "Independent Consultant"
@@ -183,6 +183,17 @@ Throughout his career, he has provided strategic direction to meet organizationa
 #   website: ""
 #   github: ""
     image: "rameshv.jpg"
+  - name: "Scott Purgerson"
+#   employer: "Organizer Role - "
+    role: "Automation Anywhere"
+#   bio: ""
+    twitter: "PurgersonScott"
+    linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
+#   facebook:
+#   website: ""
+#   github: ""
+    image: "scott.jpg"  
+
 # - name: ""
 #   employer: "Organizer Role - "
 #   role: ""
@@ -192,7 +203,7 @@ Throughout his career, he has provided strategic direction to meet organizationa
 #   facebook:
 #   website: ""
 #   github: ""
-#   image: ".jpg"  
+#   image: ".jpg"
 
 organizer_email: "organizers-dallas-2019@devopsdays.org" # Put your organizer email address here
 proposal_email: "proposals-dallas-2019@devopsdays.org" # Put your proposal email address here
@@ -237,6 +248,46 @@ sponsors:
     level: silver
   - id: verizon
     level: gold
+  - id: usaa
+    level: silver
+  - id: logdna
+    level: silver
+  - id: sysdig
+    level: silver
+  - id: chef
+    level: gold
+  - id: rundeck
+    level: gold      
+  - id: azulsystems
+    level: silver
+  - id: circleci
+    level: gold
+  - id: splitio
+    level: gold    
+  - id: newrelic
+    level: gold
+  - id: beyondsoft
+    level: gold    
+  - id: d2iq
+    level: gold
+  - id: vmware
+    level: gold    
+  - id: sonatype
+    level: gold
+  - id: gitlab
+    level: silver
+  - id: awsdeepdives
+    level: community
+  - id: kudo
+    level: community
+  - id: capitalone
+    level: gold
+  - id: capitalone
+    level: coffee 
+  - id: kudelskisecurity-f5
+    level: gold
+  - id: quali
+    level: gold    
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -257,8 +308,8 @@ sponsor_levels:
   - id: silver
     label: Silver
     max: 10
-# - id: workshop
-#   label: Workshop
+  - id: coffee
+    label: Coffee Bar
 #   max: 3
 # - id: bronze
 #   label: Bronze
@@ -271,194 +322,201 @@ sponsor_levels:
     max: 10
 
 program:
-  - title: "Registration, and Breakfast"
+  - title: "Registration & Breakfast"
     type: custom
     date: 2019-08-20
     start_time: "08:00"
     end_time: "08:45"
-  - title: "TBA - Intro and Code of Conduct"
+  - title: "Intro and Code of Conduct - Mark Saum (Organizer)"
     type: custom
     date: 2019-08-20
     start_time: "08:45"
-    end_time: "08:55"
-  - title: "WIP"
-    type: custom
+    end_time: "09:00"
+  - title: "adrian-cockcroft"
+    type: talk
     date: 2019-08-20
-    start_time: "08:55"
-    end_time: "09:05"
-  - title: "WIP"
-    type: custom
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "damon-edwards"
+    type: talk
     date: 2019-08-20
-    start_time: "09:05"
-    end_time: "09:50"
-  - title: "WIP"
-    type: custom
-    date: 2019-08-20
-    start_time: "09:50"
-    end_time: "10:20"
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Break"
     type: custom
     date: 2019-08-20
-    start_time: "10:20"
-    end_time: "10:30"
-  - title: "WIP"
+    start_time: "10:15"
+    end_time: "10:25"
+  - title: "quintessence-anx"
+    type: talk
+    date: 2019-08-20
+    start_time: "10:25"
+    end_time: "10:55"
+  - title: "Sponsors"
     type: custom
     date: 2019-08-20
-    start_time: "10:30"
-    end_time: "11:00"
-  - title: "WIP"
-    type: custom
-    date: 2019-08-20
-    start_time: "11:00"
+    start_time: "10:55"
     end_time: "11:30"
-  - title: "WIP"
-    type: custom
+  - title: "dan-barker"
+    type: talk
     date: 2019-08-20
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Lunch (catered) | Open Space - Overview"
     type: custom
     date: 2019-08-20
     start_time: "12:00"
-    end_time: "13:00"
-  - title: ""
-    type: ignite
+    end_time: "12:45"
+  - title: "liz-fong-jones"
+    type: talk
     date: 2019-08-20
-    start_time: "13:00"
-    end_time: "13:35"
-  - title: "Open Space - Overview & Topic Proposal"
+    start_time: "12:45"
+    end_time: "13:30"
+  - title: "Sponsors"
+    type: custom
+    date: 2019-08-20
+    start_time: "13:30"
+    end_time: "13:50"
+  - title: "vijay-challa"
+    type: talk
+    date: 2019-08-20
+    start_time: "13:50"
+    end_time: "14:20"  
+  - title: "Open Space - Topic Proposals & Selection"
     type: open-space
     date: 2019-08-20
-    start_time: "13:35"
-    end_time: "14:45"
-  - title: "Open Space Selection"
-    type: open-space
-    date: 2019-08-20
-    start_time: "14:45"
-    end_time: "15:00"
+    start_time: "14:20"
+    end_time: "14:30"
   - title: "Open Space #1"
     type: open-space
     date: 2019-08-20
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "14:30"
+    end_time: "15:15"
   - title: "Break"
     type: custom
     date: 2019-08-20
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "15:15"
+    end_time: "15:30"
   - title: "Open Space #2"
     type: open-space
     date: 2019-08-20
-    start_time: "16:00"
-    end_time: "16:45"
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Show & Tell what will be raffled on the 21st."
+    type: custom
+    date: 2019-08-20
+    start_time: "16:15"
+    end_time: "16:20"
   - title: "Close Day & Logistics"
     type: custom
     date: 2019-08-20
-    start_time: "16:45"
-    end_time: "17:00"
+    start_time: "16:20"
+    end_time: "16:30"
+  - title: "Social Networking - Happy Hour"
+    type: custom
+    date: 2019-08-20
+    start_time: "16:30"
+    end_time: "19:00"
 
-  - title: "Registration, and Breakfast"
+  - title: "Registration & Breakfast"
     type: custom
     date: 2019-08-21
     start_time: "08:00"
     end_time: "08:45"
-  - title: "TBA - Intros"
+  - title: "Welcome - Mark Andersen (Organizer)"
     type: custom
     date: 2019-08-21
     start_time: "08:45"
-    end_time: "08:55"
-  - title: "WIP"
-    type: custom
+    end_time: "09:00"
+  - title: "ross-clanton"
+    type: talk
     date: 2019-08-21
-    start_time: "08:55"
-    end_time: "09:05"
-  - title: "WIP"
-    type: custom
+    start_time: "09:00"
+    end_time: "09:45"
+  - title: "derek-weeks"
+    type: talk
     date: 2019-08-21
-    start_time: "09:05"
-    end_time: "09:50"
-  - title: "WIP"
-    type: custom
-    date: 2019-08-21
-    start_time: "09:50"
-    end_time: "10:20"
+    start_time: "09:45"
+    end_time: "10:15"
   - title: "Break"
     type: custom
     date: 2019-08-21
-    start_time: "10:20"
-    end_time: "10:30"
-  - title: "WIP"
-    type: custom
+    start_time: "10:15"
+    end_time: "10:30"  
+  - title: "crux-conception"
+    type: talk
     date: 2019-08-21
     start_time: "10:30"
     end_time: "11:00"
-  - title: "WIP"
-    type: custom
+  - title: "Ignite Talks"
+    type: ignite
     date: 2019-08-21
     start_time: "11:00"
     end_time: "11:30"
-  - title: "WIP"
-    type: custom
+  - title: "dana-finster"
+    type: talk
     date: 2019-08-21
     start_time: "11:30"
     end_time: "12:00"
-  - title: "Lunch (catered)"
+  - title: "Lunch (catered) | Open Space - Overview"
     type: custom
     date: 2019-08-21
     start_time: "12:00"
-    end_time: "13:00"
-  - title: "WIP"
-    type: custom
+    end_time: "12:45"
+  - title: "michael-nygard"
+    type: talk
     date: 2019-08-21
-    start_time: "13:00"
+    start_time: "12:45"
     end_time: "13:30"
-  - title: "Open Space - Topic Proposal"
+  - title: "Open Space - Topic Proposals & Selection"
     type: open-space
     date: 2019-08-21
     start_time: "13:30"
-    end_time: "14:45"
-  - title: "Open Space Selection"
-    type: open-space
-    date: 2019-08-21
-    start_time: "14:45"
-    end_time: "15:00"
+    end_time: "13:45"
   - title: "Open Space #1"
     type: open-space
     date: 2019-08-21
-    start_time: "15:00"
-    end_time: "15:45"
+    start_time: "13:45"
+    end_time: "14:30"
   - title: "Break"
     type: custom
     date: 2019-08-21
-    start_time: "15:45"
-    end_time: "16:00"
+    start_time: "14:30"
+    end_time: "14:45"
+  - title: "Open Space #2"
+    type: open-space
+    date: 2019-08-21
+    start_time: "14:45"
+    end_time: "15:30"
   - title: "SPEAKER DISCUSSION PANEL"
     type: custom
     date: 2019-08-21
-    start_time: "16:00"
-    end_time: "16:45"
-  - title: "Closing, Raffle, & Farewell"
+    start_time: "15:30"
+    end_time: "16:15"
+  - title: "Organizers Recognition"
     type: custom
     date: 2019-08-21
-    start_time: "16:45"
+    start_time: "16:15"
+    end_time: "16:20"  
+  - title: "Closing, Raffle Giveaway, & Farewell"
+    type: custom
+    date: 2019-08-21
+    start_time: "16:20"
     end_time: "17:00"
 
 ignites:
-  - title: "ignite-talks"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
-  - title: "WIP"
-    date: 2019-08-20
+#  - title: "ignite-talks"
+#    date: 2019-08-21
+  - title: "jj-asghar"
+    date: 2019-08-21
+  - title: "bjorn-edwin"
+    date: 2019-08-21
+  - title: "aaron-mell"
+    date: 2019-08-21
+  - title: "ian-holmes"
+    date: 2019-08-21
+  - title: "farrah-campbell"
+    date: 2019-08-21
+  - title: "steve-shangguan"
+    date: 2019-08-21
+

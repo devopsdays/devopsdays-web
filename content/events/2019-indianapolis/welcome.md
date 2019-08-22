@@ -64,8 +64,7 @@ agents, and set it up to use pipeline configurations as code.
 Once the server is provisioned, attendees will create pipelines which
 test and deploy software to a kubernetes cluster.
 
-Requirements and prerequisites for this session will be updated
-approximately one month before the event. Bring your laptop.
+Please bring your laptop.
 </p>
 
 <br/>

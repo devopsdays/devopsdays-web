@@ -35,7 +35,8 @@ location_address: "UFBA Campus Ondina - Auditório do Instituto de Matemática n
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://dodssalvador2019.eventize.com.br/index.php?pagina=4
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -98,12 +99,23 @@ proposal_email: "proposals-salvador-2019@devopsdays.org" # Put your proposal ema
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: simples-vet
+    level: silver
+  - id: sanar
+    level: platinum
+  - id: ufba
+    level: institutional
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: agilize
+    level: silver
+  - id: nTopus
+    level: gold
+
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -112,6 +124,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: institutional
+    label: Institutional
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10

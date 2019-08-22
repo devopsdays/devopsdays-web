@@ -29,32 +29,44 @@ The following chart outlines our sponsorship packages.
   table.sponsorship tr.hed1 td { border-bottom: 0px; text-align: center; }
   table.sponsorship tr.hed2 td { border-top: 0px; text-align: center; }
   table.sponsorship td.yes     { text-align: center; }
+  .stamp {
+    box-shadow: 0 0 0 3px blue, 0 0 0 2px blue inset;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 5px 2px;
+    line-height: 22px;
+    color: blue;
+    font-size: 24px;
+    text-transform: uppercase;
+    text-align: center;
+    opacity: 0.4;
+    width: 130px;
+    transform: rotate(-5deg);
+  }
 </style>
 <table class="sponsorship">
   <tbody>
   <tr class="hed1">
     <td><strong>Packages</strong></td>
-    <td><strong>Community</strong></td>
-    <td><strong>Media</strong></td>
     <td><strong>Silver</strong></td>
     <td><strong>Gold</strong></td>
     <td><strong>Platinum</strong></td>
-    <td><strong>Live Captions</strong></td>
-    <td><strong>Happy Hour</strong></td>
+    <td><strong><span style="text-decoration: line-through;">Community</span></strong></td>
+    <td><strong><span style="text-decoration: line-through;">Media</span></strong></td>
+    <td><strong><span style="text-decoration: line-through;">Live Captions</span></strong></td>
   </tr>
   <tr class="hed2">
     <td></td>
-    <td><strong>$0 USD</strong></td>
-    <td><strong>$0 USD</strong></td>
     <td><strong>$1,500 USD</strong></td>
     <td><strong>$4,000 USD</strong></td>
     <td><strong>$6,000 USD</strong></td>
-    <td><strong>$6,000 USD</strong></td>
-    <td><strong>$8,000 USD</strong></td>
+    <td><strong class="stamp">CLOSED</strong></td>
+    <td><strong class="stamp">CLOSED</strong></td>
+    <td><strong class="stamp">SOLD OUT</strong></td>
   </tr>
   <tr>
     <td>Logo on shared slide, rotating during breaks</td>
-    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
@@ -70,73 +82,56 @@ The following chart outlines our sponsorship packages.
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Logo on all email communication</td>
     <td class="no"> </td>
+    <td class="yes">&#9989;</td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>Shared table for swag/marketing during conference</td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"></td>
+    <td class="no"> </td>
+    <td class="no"> </td>
   </tr>
     <td>Full table for swag/marketing during conference</td>
     <td class="no"> </td>
     <td class="no"> </td>
+    <td class="yes">&#9989;</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
-    <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>1 minute pitch to full audience</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
-  </tr>
-  <tr>
-    <td>5 minute pitch during happy hour</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="yes">&#9989;</td>
   </tr>
   <tr>
     <td>1 included ticket total</td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="yes">&#9989;</td>
-    <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="no"> </td>
   </tr>
   <tr>
     <td>2 included tickets total</td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
+    <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="no"> </td>
@@ -149,17 +144,15 @@ The following chart outlines our sponsorship packages.
     <td class="no"> </td>
     <td class="no"> </td>
     <td class="yes">&#9989;</td>
-    <td class="no"> </td>
   </tr>
   <tr>
     <td>4 included tickets total</td>
     <td class="no"> </td>
     <td class="no"> </td>
-    <td class="no"> </td>
-    <td class="no"> </td>
     <td class="yes">&#9989;</td>
     <td class="no"> </td>
-    <td class="yes">&#9989;</td>
+    <td class="no"> </td>
+    <td class="no"> </td>
   </tr>
   </tbody>
 </table>
@@ -203,7 +196,7 @@ The following chart outlines our sponsorship packages.
 
 [Become a Platinum Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
 
-### Live Captions - Price $6,000 USD
+### <span style="text-decoration: line-through;">Live Captions</span> - SOLD OUT
 
 The conference will provide live captioning of all presentations.  The captions will be available in the event space and transcripts will be available online after the event.
 
@@ -213,9 +206,7 @@ The conference will provide live captioning of all presentations.  The captions 
 * thanked by the MC each day
 * Sign on the captioning monitors - "Live captioning sponsored by $COMPANY NAME"
 
-[Become the Live Captions Sponsor](https://devopsdaysdc2019.busyconf.com/bookings/new?discount=SPONSOR).
-
-### Media - $0 USD
+### <span style="text-decoration: line-through;">Media</span> - SOLD OUT
 
 The media sponsorship is ideal for podcasts, blogs, news outlets, and other
 media who support DevOps.  This sponsorship is free but we ask that you share
@@ -233,7 +224,7 @@ Please email the organizers at {{< email_organizers >}} about becoming a media
 sponsor.
 
 
-### Community - $0 USD
+### <span style="text-decoration: line-through;">Community</span> - SOLD OUT
 
 The community sponsorship is ideal for local meetups, co-working spaces, and
 other communities who support DevOps.  This sponsorship is free but we ask that
@@ -244,28 +235,6 @@ become a Community Sponsor.
 * 10% discount code to share with your members
 * Logo on shared slide, rotating during breaks
 * Logo on DevOpsDays DC 2019 event website
-
-Please email the organizers at {{< email_organizers >}} about becoming a
-community sponsor.
-
-### Happy Hour - - Price $8,000 USD
-
-Happy Hour will be held the evening of Monday, July 8 immediately following the
-day's conference activities. All conference attendees will be invited to the
-happy hour.  Additionally, we may invite other members of the DC technical
-community to join us, space permitting.  There are two Happy Hour sponsorships
-available, each of which includes some special perks not listed in the table
-above.
-
-* 4 included tickets
-* Logo on shared slide, rotating during breaks
-* Logo on DevOpsDays DC 2019 event website
-* Logo on all email communication
-* Dedicated table for swag during the conference
-* Dedicated table for swag during the happy hour
-* 10% discount code to share with your community
-* 1 minute pitch to full audience during the conference
-* 5 minute pitch to the happy hour attendees
 
 Please email the organizers at {{< email_organizers >}} about becoming a
 community sponsor.

@@ -96,14 +96,32 @@ proposal_email: "proposals-ghent-2019@devopsdays.org" # Put your proposal email 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # platinum
+  - id: puppet
+    level: platinum
   # social
-  # exclusive
   # gold
   - id: pagerduty
     level: gold
+  - id: googlecloud
+    level: gold
+  - id: hpe
+    level: gold
+  - id: rancher-before-20190812
+    level: gold
+  - id: sentia
+    level: gold
+  - id: elastic
+    level: gold
   # silver
+  - id: dpg-media
+    level: silver
+  - id: gitlab
+    level: silver
   # bronze
   - id: inuits
+    level: bronze
+  - id: s0l1dheroes
     level: bronze
   # community
 
@@ -114,11 +132,11 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
-  - id: socialevent
-    label: Social Event
   - id: platinum
     label: Platinum
     max: 1
+#  - id: socialevent
+#    label: Social Event
   - id: gold
     label: Gold
     max: 8

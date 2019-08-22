@@ -87,12 +87,14 @@ proposal_email: "" # Put your proposal email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+# Platinum
 #  - id: ignw
 #    level: platinum
 #  - id: columbia
 #    level: gold
 #  - id: ignw
 #    level: platinum
+# Gold
   - id: datadog
     level: gold
   - id: sensu
@@ -111,14 +113,45 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
-  - id: signalfx
-    level: silver
-  - id: googlecloud
-    level: quiet-room
   - id: xmatters
     level: gold
+  - id: chef
+    level: gold
+  - id: instana
+    level: gold
+  - id: dynatrace
+    level: gold
+  - id: sonatype
+    level: gold
+  - id: redhat
+    level: gold
+  - id: vmware
+    level: gold
+# Silver
+  - id: signalfx
+    level: silver
+  - id: netapp
+    level: silver
+  - id: hashicorp
+    level: silver
+  - id: ignw
+    level: silver
+# Bronze
+  - id: compuware
+    level: bronze
+  - id: manage-engine
+    level: silver
+# Custom
+  - id: googlecloud
+    level: quiet-room
+  - id: netapp
+    level: lanyard
+  - id: vacasa
+    level: on-call-table
+  - id: ignw
+    level: donut
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -129,27 +162,41 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
+    max: 1
   - id: gold
     label: Gold
+    max: 16
   - id: silver
     label: Silver
+    max: 12
   - id: bronze
     label: Bronze
   - id: evening
     label: Evening Event
+    max: 2
   - id: specialty
     label: Specialty
   - id: quiet-room
     label: Quiet Room
+    max: 1
+  - id: lanyard
+    label: Lanyard
+    max: 1
+  - id: on-call-table
+    label: On-call Table
+    max: 1
+  - id: donut
+    label: Donut
+    max: 1
   - id: community
     label: Community
 
 program:
-  - title: "Hack day! Bring yourself, some code, and a friend!"
-    type: custom
+  - title: "jj-asghar"
+    type: talk
     date: 2019-09-10
-    start_time: "Noon"
-    end_time: "17:00"
+    start_time: "12:00"
+    end_time: "TBD"
   - title: "Registration, Breakfast, Sponsors"
     type: custom
     date: 2019-09-11
@@ -345,7 +392,7 @@ ignites:
     date: 2019-09-11
   - title: "aaron-aldrich-ignite"
     date: 2019-09-11
-  - title: "tbd"
+  - title: "terri-haber"
     date: 2019-09-11
 
   - title: "dawn-parzych"
