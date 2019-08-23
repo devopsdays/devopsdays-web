@@ -1,7 +1,7 @@
 +++
 Title = "Charles Hepner"
 Twitter = "charleshepner"
-image = "charles-hepner.jpg"
+image = ""
 type = "speaker"
 +++
 

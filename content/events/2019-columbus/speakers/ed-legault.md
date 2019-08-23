@@ -1,7 +1,7 @@
 +++
 Title = "Ed LeGault"
 Twitter = "edlegault"
-image = "ed-legault.jpg"
+image = ""
 type = "speaker"
 +++
 
