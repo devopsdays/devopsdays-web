@@ -4,11 +4,13 @@ Type = "event"
 Description = "Location for devopsdays Cairo 2019"
 +++
 
-**devopsdays Cairo 2019** will be held at Grand Nile Tower Hotel.
+**devopsdays Cairo 2019** will be held at Royal Maxim Palace Kempinski.
 
 
-<p><img src="https://t-ec.bstatic.com/images/hotel/max1280x900/151/151807169.jpg" alt="" /></p>
-<p>The luxurious landmark 5 star hotel &ldquo;Grand Nile Tower&rdquo; is poised directly on the magnificent Nile with a prime location in central Cairo, close to many cultural and tourist attractions. It is located in the Garden City area close to the centre of modern Cairo. The Cairo International Airport is approx. 20 km away from the hotel.</p>
+
+<p><img src="https://media.kempinski.com/1663/exterior-dusk.jpg" width="100%" alt="" /></p>
+
+<p>Royal Maxim Palace Kempinski, a haven of tranquility in the heart of New Cairo.  Offering a range of palatial services, the 5 star hotel features the finest facilities coupled with the highest levels of service. The hotel’s optimum location on the city’s ring road and its close proximity to Cairo International Airport make it the perfect starting point from which to explore Cairo’s treasures.</p>
 
 
 Watch this space for updated information soon.

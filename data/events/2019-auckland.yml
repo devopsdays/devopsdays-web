@@ -45,7 +45,7 @@ nav_elements: # List of pages you want to show up in the navigation of your page
  - name: location
  - name: registration
 #  - name: program
-#  - name: speakers
+ - name: speakers
  - name: sponsor
  - name: contact
  - name: conduct
@@ -125,25 +125,29 @@ proposal_email:   "proposals-auckland-2019@devopsdays.org" # Put your proposal e
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
-  - id: googlecloud
-    level: platinum
   - id: 2019-nz-sumologic
     level: platinum
+  - id: googlecloud
+    level: platinum
   - id: buildkite
+    level: gold
+  - id: section6
+    level: gold
+  - id: rancher
     level: gold
   - id: hashicorp
     level: gold
   - id: pagerduty
     level: gold
-  - id: rancher
-    level: gold
-  - id: section6
-    level: gold
   - id: sonatype
     level: gold
+  - id: assurity
+    level: gold
+  - id: xero
+    level: silver
   - id: gitlab
     level: silver
-  - id: xero
+  - id: countdown
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops

@@ -127,12 +127,27 @@ sponsors:
     level: gold
   - id: redhat
     level: gold
+  - id: vmware
+    level: gold
 # Silver
   - id: signalfx
     level: silver
   - id: netapp
     level: silver
   - id: hashicorp
+    level: silver
+  - id: ignw
+    level: silver
+  - id: redislabs
+    level: silver
+  - id: invoca
+    level: silver
+  - id: circleci
+    level: silver
+# Bronze
+  - id: compuware
+    level: bronze
+  - id: manage-engine
     level: silver
 # Custom
   - id: googlecloud
@@ -141,6 +156,10 @@ sponsors:
     level: lanyard
   - id: vacasa
     level: on-call-table
+  - id: ignw
+    level: donut
+  - id: puppet
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -173,6 +192,9 @@ sponsor_levels:
     max: 1
   - id: on-call-table
     label: On-call Table
+    max: 1
+  - id: donut
+    label: Donut
     max: 1
   - id: community
     label: Community

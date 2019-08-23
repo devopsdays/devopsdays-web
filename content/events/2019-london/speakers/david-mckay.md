@@ -1,8 +1,7 @@
 +++
 Title = "David McKay"
 Twitter = "rawkode"
-# image = "david-mckay.png"
-image = ""
+image = "david-mckay.png"
 type = "speaker"
 linktitle = "david-mckay"
 

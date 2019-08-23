@@ -1,6 +1,6 @@
 +++
 Title = "Ian Cawood"
-image = "ian-cawood.jpg"
+image = "ian-cawood.png"
 type = "speaker"
 linktitle = "ian-cawood"
 +++
