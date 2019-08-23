@@ -118,6 +118,10 @@ sponsors:
     level: gold
   - id: gitlab
     level: gold
+  - id: appdynamics
+    level: gold
+  - id: vmware
+    level: gold
   - id: tasktop
     level: silver
   - id: upstart
@@ -130,6 +134,10 @@ sponsors:
     level: silver
   - id: netjets
     level: silver
+  - id: ahead
+    level: silver
+  - id: checkpoint
+    level: bronze
   - id: stickermule
     level: community
 

@@ -4,7 +4,7 @@ Talk_start_time = ""
 Talk_end_time = ""
 Title = "It Takes a Village to Raise a Product"
 Type = "talk"
-Speakers = ["paul-snider"]
+Speakers = ["paul-snider","rob-helton"]
 +++
 "I deal with the customers so the engineers don't have to! I have people skills! I am good at dealing with people!"
 
