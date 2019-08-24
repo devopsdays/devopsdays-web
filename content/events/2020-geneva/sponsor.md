@@ -1,7 +1,7 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Geneva 2020"
+Description = "Sponsor DevOpsDays Geneva 2020"
 +++
 
 

@@ -118,8 +118,20 @@ sponsors:
     level: silver
   - id: thoughtworks-services
     level: silver
+  - id: stickermule
+    level: bronze
+  - id: microsoft
+    level: gold
+  - id: praqma-eficode
+    level: gold
+  - id: solace
+    level: gold
+  - id: xebialabs
+    level: silver
+  - id: gitlab
+    level: silver
 
-sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
+sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 
 # In this section, list the level of sponsorships and the label to use.
 # You may optionally include a "max" attribute to limit the number of sponsors per level. For
@@ -150,28 +162,20 @@ program:
     date: 2019-09-17
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Gold Sponsors"
-    date: 2019-09-17
-    start_time: "09:45"
-    end_time: "09:55"
   - title: "felisia-martini-derik-evangelista"
     type: talk
     date: 2019-09-17
-    start_time: "09:55"
-    end_time: "10:25"
-  - title: "Break - 25 min"
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
     date: 2019-09-17
-    start_time: "10:25"
-    end_time: "10:50"
+    start_time: "10:20"
+    end_time: "10:55"
   - title: "john-behrens"
     type: talk
     date: 2019-09-17
-    start_time: "10:50"
-    end_time: "11:20"
-  - title: "Silver Sponsors"
-    date: 2019-09-17
-    start_time: "11:20"
-    end_time: "11:30"
+    start_time: "10:55"
+    end_time: "11:25"
   - title: "pranjal-deo"
     type: talk
     date: 2019-09-17
@@ -197,7 +201,7 @@ program:
     date: 2019-09-17
     start_time: "14:00"
     end_time: "14:45"
-  - title: "Break - 15 min"
+  - title: "Break"
     date: 2019-09-17
     start_time: "14:45"
     end_time: "15:00"
@@ -206,7 +210,7 @@ program:
     date: 2019-09-17
     start_time: "15:00"
     end_time: "15:45"
-  - title: "Break - 15 min"
+  - title: "Break"
     date: 2019-09-17
     start_time: "15:45"
     end_time: "16:00"
@@ -214,16 +218,16 @@ program:
     type: open-space
     date: 2019-09-17
     start_time: "16:00"
-    end_time: "16:45"
-  - title: "kris-buytaert"
+    end_time: "16:40"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-09-17
-    start_time: "16:45"
-    end_time: "17:15"
+    start_time: "16:50"
+    end_time: "17:20"
   - title: "Day One Closing"
     type: custom
     date: 2019-09-17
-    start_time: "17:15"
+    start_time: "17:20"
     end_time: "17:30"
   - title: "Evening Event"
     type: custom
@@ -234,7 +238,7 @@ program:
   - title: "Breakfast & Sponsors"
     type: custom
     date: 2019-09-18
-    start_time: "08:00"
+    start_time: "08:30"
     end_time: "09:00"
   - title: "Second Day Welcome"
     type: custom
@@ -246,28 +250,20 @@ program:
     date: 2019-09-18
     start_time: "09:15"
     end_time: "09:45"
-  - title: "Break - 15 min"
-    date: 2019-09-18
-    start_time: "09:45"
-    end_time: "10:00"
   - title: "gerie-owen"
     type: talk
     date: 2019-09-18
-    start_time: "10:00"
-    end_time: "10:30"
-  - title: "Break - 15 min"
+    start_time: "09:50"
+    end_time: "10:20"
+  - title: "Break"
     date: 2019-09-18
-    start_time: "10:30"
-    end_time: "10:45"
+    start_time: "10:20"
+    end_time: "10:55"
   - title: "johan-abildskov"
     type: talk
     date: 2019-09-18
-    start_time: "10:45"
-    end_time: "11.15"
-  - title: "Break - 15 min"
-    date: 2019-09-18
-    start_time: "11:15"
-    end_time: "11:30"
+    start_time: "10:55"
+    end_time: "11.25"
   - title: "heidi-araya"
     type: talk
     date: 2019-09-18
@@ -293,7 +289,7 @@ program:
     date: 2019-09-18
     start_time: "14:00"
     end_time: "14:45"
-  - title: "Break - 15 min"
+  - title: "Break"
     date: 2019-09-18
     start_time: "14:45"
     end_time: "15:00"
@@ -301,16 +297,16 @@ program:
     type: open-space
     date: 2019-09-18
     start_time: "15:00"
-    end_time: "15:45"
-  - title: "aubrey-stearn"
+    end_time: "15:40"
+  - title: "kris-buytaert"
     type: talk
     date: 2019-09-18
-    start_time: "15:45"
-    end_time: "16:15"
+    start_time: "15:50"
+    end_time: "16:20"
   - title: "Day Two Closing"
     type: custom
     date: 2019-09-18
-    start_time: "16:15"
+    start_time: "16:20"
     end_time: "16:30"
 
 ignites:
@@ -330,7 +326,7 @@ ignites:
     date: "2019-09-18"
   - title: "mark-baker"
     date: "2019-09-18"
-  - title: "abdellfetah-sghiouar"
+  - title: "abdelfettah-sghiouar"
     date: "2019-09-18"
   - title: "daniel-maher"
     date: "2019-09-18"
