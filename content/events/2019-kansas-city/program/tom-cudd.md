@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Quickly Extending into Testing with Docker"
+Title = "Quickly Extending into Testing with Docker (Room 1K)"
 Type = "talk"
 Speakers = ["tom-cudd"]
 +++

@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Cypress: Where Automated Web UI Testing Isn’t Just for QA Anymore"
+Title = "Cypress: Where Automated Web UI Testing Isn’t Just for QA Anymore (Room 1L)"
 Type = "talk"
 Speakers = ["justin-james"]
 +++
