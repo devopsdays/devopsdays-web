@@ -153,6 +153,10 @@ sponsors:
     level: gold
   - id: athenahealth
     level: gold
+  - id: oracle
+    level: alacarte
+  - id: stackrox
+    level: gold
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
