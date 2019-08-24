@@ -8,7 +8,7 @@ Speakers = ["quintessence-anx"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/unquantified-serendipity-diversity-in-development"
 Slides = ""
 Website = "https://www.linkedin.com/in/quintessenceanx/"
 +++

@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "SysAdmin to SRE: Solving DevOps' Last Mile Problem"
+Title = "SysAdmin to SRE: Solving the Last Mile Problem"
 Type = "talk"
 Speakers = ["damon-edwards"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/Rundeck/damon-edwards-sysadmin-to-sre-devops-days-dallas-2019"
 Slides = ""
 Website = "https://www.linkedin.com/in/damonedwards/"
 +++

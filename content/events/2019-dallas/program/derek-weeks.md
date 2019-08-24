@@ -8,7 +8,7 @@ Speakers = ["derek-weeks"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/exemplars-laggards-and-the-cautious-a-datadriven-look-at-highvelocity-software-development-practices"
 Slides = ""
 Website = "https://www.linkedin.com/in/derekeweeks/"
 +++

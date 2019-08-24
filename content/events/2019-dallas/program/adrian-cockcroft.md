@@ -2,13 +2,13 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Innovation at Speed"
+Title = "Speeding Up Innovation"
 Type = "talk"
 Speakers = ["adrian-cockcroft"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/speeding-up-innovation-166137298"
 Slides = ""
 Website = "https://www.linkedin.com/in/adriancockcroft/"
 +++
