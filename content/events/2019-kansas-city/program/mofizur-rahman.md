@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Managing Kubernetes Traffic with Istio"
+Title = "Managing Kubernetes Traffic with Istio (Room 1P)"
 Type = "talk"
 Speakers = ["mofizur-rahman"]
 +++
