@@ -138,6 +138,12 @@ sponsors:
     level: silver
   - id: ignw
     level: silver
+  - id: redislabs
+    level: silver
+  - id: invoca
+    level: silver
+  - id: circleci
+    level: silver
 # Bronze
   - id: compuware
     level: bronze
@@ -152,6 +158,8 @@ sponsors:
     level: on-call-table
   - id: ignw
     level: donut
+  - id: puppet
+    level: evening
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 

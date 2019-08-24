@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "GitLab Continuous Integration Workshop"
+Title = "GitLab Continuous Integration Workshop (Room 1N)"
 Type = "talk"
 Speakers = ["steve-grossman"]
 +++

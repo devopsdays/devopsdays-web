@@ -188,6 +188,7 @@ sponsors:
     level: silver
   - id: objective
     level: wifi
+    url: http://bit.ly/objectiveTDD
   - id: opploans
     level: silver
   - id: logdna

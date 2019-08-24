@@ -227,7 +227,7 @@ program:
     date: 2019-10-24
     start_time: "10:00"
     end_time: "10:30"
-  - title: "Sponsor + Break"
+  - title: "Sponsors + Break"
     type: custom
     date: 2019-10-24
     start_time: "10:30"
