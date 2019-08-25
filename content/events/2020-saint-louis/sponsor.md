@@ -1,8 +1,8 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Saint Louis 2019"
-aliases = ["/events/2018-saint-louis/sponsor"]
+Description = "Sponsor devopsdays Saint Louis 2020"
+aliases = ["/events/2018-saint-louis/sponsor","/events/2019-saint-louis/sponsor"]
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
