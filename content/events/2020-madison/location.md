@@ -1,7 +1,7 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Madison 2019"
+Description = "Location for devopsdays Madison 2020"
 +++
 
 Watch this space for information about the venue including address, map/direction, parking/transit, and any hotel details.

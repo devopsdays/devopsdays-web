@@ -1,8 +1,8 @@
 +++
-Title = "devopsdays Madison 2019"
+Title = "devopsdays Madison 2020"
 Type = "welcome"
-aliases = ["/events/2019-madison/"]
-Description = "devopsdays Madison 2019"
+aliases = ["/events/2020-madison/"]
+Description = "devopsdays Madison 2020"
 +++
 
 <!-- <div style="text-align:center;">
