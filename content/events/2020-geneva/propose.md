@@ -9,7 +9,7 @@ Description = "Propose a talk for DevOpsDays Geneva 2020"
 <hr>
 
 <!--
-<strong>How to submit a proposal:</strong> Fill the <a href='https://goo.gl/forms/3Rstd0c1PJR1kDcl2' target='_blank'>Google Form</a> or send an e-mail to {{< email_proposals >}} with the following information:
+<strong>How to submit a proposal:</strong> Fill the <a href='https://goo.gl/forms/3Rstd0c1PJR1kDcl2' target='_blank'>Google Form</a> or send an e-mail to {{< email_organizers >}} with the following information:
 <ol>
 <li>A title of less than 250 characters (can be tweeted)</li>
 <li>A summary of 100-150 words max. (will be in the program and the website)</li>
