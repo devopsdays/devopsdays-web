@@ -1,7 +1,8 @@
 +++
 Title = "Sponsor"
 Type = "event"
-Description = "Sponsor devopsdays Madison 2019"
+Description = "Sponsor devopsdays Madison 2020"
+aliases = ["/events/2019-madison/sponsor/"]
 +++
 
 We greatly value sponsors for this open event.  If you are interested in sponsoring, please drop us an email at [{{< email_organizers >}}].
