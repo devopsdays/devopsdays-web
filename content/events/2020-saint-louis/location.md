@@ -1,8 +1,8 @@
 +++
 Title = "Location"
 Type = "event"
-Description = "Location for devopsdays Saint Louis 2019"
-aliases = ["/events/2018-saint-louis/location/"]
+Description = "Location for devopsdays Saint Louis 2020"
+aliases = ["/events/2018-saint-louis/location/","/events/2019-saint-louis/location/"]
 +++
 
 ## Conference Location

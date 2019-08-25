@@ -1,8 +1,8 @@
 +++
 Title = "Conduct"
 Type = "event"
-Description = "Code of conduct for devopsdays Saint Louis 2019"
-aliases = ["/events/2018-saint-louis/conduct"]
+Description = "Code of conduct for devopsdays Saint Louis 2020"
+aliases = ["/events/2018-saint-louis/conduct","/events/2019-saint-louis/conduct"]
 +++
 
 ## ANTI-HARASSMENT POLICY
