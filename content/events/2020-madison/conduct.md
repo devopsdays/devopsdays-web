@@ -2,6 +2,7 @@
 Title = "Conduct"
 Type = "event"
 Description = "Code of conduct for devopsdays Madison 2020"
+aliases = ["/events/2019-madison/conduct/"]
 +++
 
 ## ANTI-HARASSMENT POLICY
