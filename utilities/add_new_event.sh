@@ -59,8 +59,8 @@ SEDCMD "s/yourlocation/$city/" $eventdatafile
 SEDCMD "s/yyyy-city/$event_slug/" $eventdatafile
 SEDCMD "s/devopsdayscityabbr/$twitter/" $eventdatafile
 
-# Name the email lists
-SEDCMD "s/city-year/$city_slug-$year/" $eventdatafile
+# Name the email list
+SEDCMD "s/city_email/$city_slug/" $eventdatafile
 
 # Seed initial files for event
 cp -r examples/content/events/yyyy-city ../content/events/$event_slug
