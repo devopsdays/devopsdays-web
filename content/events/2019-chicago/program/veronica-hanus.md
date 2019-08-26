@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = “To #comment or not?” A data-driven look at conflicting attitudes towards commenting and documentation"
+Title = "To #comment or not? A data-driven look at conflicting attitudes towards commenting and documentation"
 Type = "talk"
 Speakers = ["veronica-hanus"]
 +++
