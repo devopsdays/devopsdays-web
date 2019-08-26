@@ -157,6 +157,12 @@ sponsors:
     level: alacarte
   - id: stackrox
     level: gold
+  - id: klaviyo
+    level: alacarte
+  - id: dtonomy
+    level: startup
+  - id: cryptomove
+    level: startup
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
