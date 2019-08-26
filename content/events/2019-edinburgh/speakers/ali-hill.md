@@ -2,7 +2,7 @@
 Title = "Ali Hill"
 Twitter = "ali_hill91"
 type = "speaker"
-image = ""
+image = "ali-hill.jpg"
 linktitle = "ali-hill"
 
 +++
