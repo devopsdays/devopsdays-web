@@ -2,9 +2,9 @@
 Title = "Emanuil Tolev"
 Twitter = "emanuil_tolev"
 type = "speaker"
-image = ""
+image = "emanuil-tolev.png"
 linktitle = "emanuil-tolev"
 
 +++
 
-Emanuil is a community advocate with Elastic. He helped run a small open science web dev consultancy called Cottage Labs for 4 years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail.
+Emanuil is a Community Engineer with Elastic, the company behind the open source Elastic Stack (Elasticsearch, APM, Kibana, Beats, and Logstash). He's based in London. He used to be a freelance web developer + ops lead and ran a small open science web dev consultancy with partners for several years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail.
