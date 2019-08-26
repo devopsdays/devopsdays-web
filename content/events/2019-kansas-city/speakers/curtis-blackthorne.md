@@ -1,6 +1,6 @@
 +++
 Title = "Curtis Blackthorne"
-Twitter = "ccockerhamkc"
+Twitter = "CBlackthorneKC"
 Website = "https://ccockerhamkc.blogspot.com"
 type = "speaker"
 linktitle = "curtis-blackthorne"
