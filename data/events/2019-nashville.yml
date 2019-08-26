@@ -92,13 +92,13 @@ sponsors:
     level: silver
   - id: aws
     level: bronze
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: eventbrite
     level: bronze
   - id: diamanti
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: community
   - id: shadow-soft
     level: community

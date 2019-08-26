@@ -78,11 +78,11 @@ sponsors: # List all of your sponsors here along with what level of sponsorship 
     level: silver
   - id: cumulus
     level: silver
-  - id: redhat
+  - id: redhat-before-20190528
     level: silver
   - id: athenahealth
     level: silver
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: media
   - id: arresteddevops
     level: media

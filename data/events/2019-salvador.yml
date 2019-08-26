@@ -14,11 +14,11 @@ startdate: 2019-10-05T09:00:00-03:00  # The start date of your event. Leave blan
 enddate:  2019-10-05T18:00:00-03:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start:  # start accepting talk proposals.
-cfp_date_end:  # close your call for proposals.
-cfp_date_announce:  # inform proposers of status
+cfp_date_start: 2019-06-09T09:00:00-03:00 # start accepting talk proposals.
+cfp_date_end: 2019-07-10T18:00:00-03:00 # close your call for proposals.
+cfp_date_announce: 2019-08-10T18:00:00-03:00 # inform proposers of status
 
-cfp_link: "" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_link: "https://www.papercall.io/devopsdaysssa2019" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: # close registration. Leave blank if registration is not open yet.
@@ -33,9 +33,10 @@ location: "Salvador" # Defaults to city, but you can make it the venue name.
 location_address: "UFBA Campus Ondina - Auditório do Instituto de Matemática na Av. Adhemar de Barros, s/nº - Ondina, Salvador - BA, 40170-110" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
- # - name: propose
+  - name: propose
   - name: location
- # - name: registration
+  - name: registration
+    url: https://dodssalvador2019.eventize.com.br/index.php?pagina=4
  # - name: program
  # - name: speakers
   - name: sponsor
@@ -98,12 +99,23 @@ proposal_email: "proposals-salvador-2019@devopsdays.org" # Put your proposal ema
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
+
 sponsors:
-  - id: samplesponsorname
-    level: gold
+  - id: simples-vet
+    level: silver
+  - id: sanar
+    level: platinum
+  - id: ufba
+    level: institutional
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
   - id: arresteddevops
     level: community
+  - id: agilize
+    level: silver
+  - id: nTopus
+    level: gold
+
+
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -112,6 +124,10 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 # unlimited sponsors, omit the max attribute or set it to 0. If you want to prevent all
 # sponsorship for a specific level, it is best to remove the level.
 sponsor_levels:
+  - id: institutional
+    label: Institutional
+  - id: platinum
+    label: Platinum
   - id: gold
     label: Gold
 #    max: 10

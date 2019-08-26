@@ -189,7 +189,7 @@ sponsors:
     level: gold
   - id: actblue
     level: gold
-  - id: veracode
+  - id: veracode-before-20190613
     level: gold
 sponsors_accepted : "no" # Whether you want "Become a XXX Sponsor!" link
 

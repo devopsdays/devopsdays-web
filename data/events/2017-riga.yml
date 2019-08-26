@@ -58,7 +58,7 @@ sponsors:
   # silver
   - id: askfm
     level: silver
-  - id: redhat
+  - id: redhat-before-20190528
     level: silver
   - id: taxify
     level: silver

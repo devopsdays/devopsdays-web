@@ -126,7 +126,7 @@ sponsors:
     level: gold
   - id: herzum
     level: gold
-  - id: redhat
+  - id: redhat-before-20190528
     level: gold
   - id: launch-darkly
     level: gold
@@ -162,7 +162,7 @@ sponsors:
     level: silver
   - id: kaizenops-before-20181008
     level: silver
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: cmegroup
     level: silver
@@ -218,7 +218,7 @@ sponsors:
     level: community
   - id: wwcchicago
     level: community
-  - id: oreilly
+  - id: oreilly-before-20190725
     level: community
   - id: chicktech
     level: community

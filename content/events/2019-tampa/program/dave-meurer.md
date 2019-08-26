@@ -10,4 +10,10 @@ slideshare = ""
 slides = ""
 +++
 
-The following topics will be discussed: * Problem: Security Breaches (Revenue / Business Lost) * Application vs. Network Security Investment * Application Security Tool Landscape * 2018 State of Open Source * Real Life Examples: Embargo process & Apache Struts * Open Source Management Tools & Market Trends * Types of Open Source Scanning Algorithms * Programming Languages and how they affect Automatic Identification * Optimal Integration points in DevSecOps
+The following topics will be discussed: The following topics will be discussed: 
+* Modern Software Composition 
+* 2019 State of Open Source 
+* Real Life Examples: Embargo process & Apache Struts 
+* Open Source Management Tools & Market Trends 
+* Types of Open Source Scanning Algorithms 
+* Optimal Integration points in DevSecOps

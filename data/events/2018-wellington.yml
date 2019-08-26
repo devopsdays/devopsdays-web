@@ -86,7 +86,7 @@ sponsors:
     level: platinum
   - id: oraclecloud-before-20190402
     level: platinum
-  - id: assurity
+  - id: assurity-before-20190822
     level: gold
   - id: datacom
     level: gold
@@ -98,11 +98,11 @@ sponsors:
     level: gold
   - id: oss
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: gold
   - id: redhatnz
     level: gold
-  - id: SECTION6
+  - id: section6-before-20190725
     level: gold
   - id: sonatype-before-20190121
     level: gold

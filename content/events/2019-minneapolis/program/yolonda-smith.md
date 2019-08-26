@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Secure Enough: Building Security in Without Handcuffing the Business"
 Type = "talk"
 Speakers = ["yolonda-smith"]
+youtube = "38PPwSQxVRw"
 +++
 
 Balancing business requirements with security initiatives is tough. Not only are you concerned with scale, latency, resiliency, availability AND delivery of new features, but you also have to pore through mostly generic, sometimes contradictory guidance and 'hair on fire' exclamations from security claiming that the end is nigh because there's an instance of cross site scripting on a help page. Is cross site scripting really that bad in this case?

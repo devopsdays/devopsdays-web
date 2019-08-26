@@ -34,12 +34,12 @@ location: "Hilton Minneapolis" # Defaults to city, but you can make it the venue
 location_address: "1001 Marquette Avenue South, Minneapolis, Minnesota, 55403-2440, USA" #Optional - use the street address of your venue. This will show up on the welcome page if set.
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#  - name: propose
   - name: location
-  - name: registration
+#  - name: registration
   - name: program
   - name: speakers
-  - name: sponsor
+#  - name: sponsor
   - name: contact
   - name: conduct
 # - name: example
@@ -87,7 +87,7 @@ team_members:
   - name: "Bridget Kromhout"
     employer: "Microsoft"
     twitter: "bridgetkromhout"
-    bio: "Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis. She podcasts with Arrested DevOps, blogs at bridgetkromhout.com, and is active in a Twitterverse near you."
+    bio: "Bridget Kromhout is a Principal Program Manager at Microsoft, focusing on the open source Kubernetes ecosystem. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the devopsdays organization globally and the devops community at home in Minneapolis. She podcasts with Arrested DevOps, blogs at bridgetkromhout.com, and is active in a Twitterverse near you."
     image: "bridget-kromhout.jpg"
   - name: "Andy Fleener"
     employer: "SportsEngine"
@@ -100,8 +100,7 @@ team_members:
     bio: "Andy has been in Technology Operations leadership at SPS Commerce since 2005 and currently leads their System Operations, Reliability Engineering, and Continuous Improvement teams. SPS grows aggressively, creating a zany yet fun environment of persistent growth challenges. Andy spends many mental cycles collaborating to solve effective patterns for monitoring and operating complex changing systems."
     image: "andy-domeier.jpg"
 
-organizer_email: "organizers-minneapolis-2019@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-minneapolis-2019@devopsdays.org" # Put your proposal email address here
+organizer_email: "minneapolis@devopsdays.org" # Put your organizer email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
@@ -156,7 +155,7 @@ sponsors:
     level: gold
   - id: pagerduty
     level: gold
-  - id: rancher
+  - id: rancher-before-20190812
     level: silver
   - id: dynatrace
     level: platinum
@@ -170,8 +169,6 @@ sponsors:
     level: silver
   - id: keyva
     level: silver
-  - id: logzio
-    level: gold
   - id: gitlab
     level: gold
   - id: mesosphere
@@ -196,6 +193,38 @@ sponsors:
     level: alacarte
   - id: overops
     level: silver
+  - id: xmatters
+    level: silver
+  - id: contrast_security
+    level: silver
+  - id: target
+    level: gold
+  - id: sumologic
+    level: gold
+  - id: pepperdata
+    level: gold
+  - id: logdna
+    level: silver
+  - id: jumpcloud
+    level: gold
+  - id: chef
+    level: gold
+  - id: mnclude
+    level: community
+  - id: newrelic
+    level: gold
+  - id: newrelic
+    level: alacarte
+  - id: atomist
+    level: silver
+  - id: wwcodetc
+    level: community
+  - id: microsoftazure
+    level: gold
+  - id: blacksintechnology
+    level: community
+  - id: oreilly
+    level: community
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -209,12 +238,15 @@ sponsor_levels:
     max: 7
   - id: gold
     label: Gold
+    max: 15
   - id: silver
     label: Silver
+    max: 13
   - id: alacarte
     label: A La Carte
   - id: community
     label: Community
+    max: 6
 
 
 program:
@@ -223,7 +255,7 @@ program:
     date: 2019-08-06
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Welcome, Sponsor"
     type: custom
     date: 2019-08-06
     start_time: "09:00"
@@ -323,7 +355,7 @@ program:
     date: 2019-08-07
     start_time: "08:00"
     end_time: "09:00"
-  - title: "Opening Welcome"
+  - title: "Opening Welcome, Sponsor"
     type: custom
     date: 2019-08-07
     start_time: "09:00"
@@ -410,5 +442,23 @@ program:
     end_time: "17:00"
 
 ignites:
-  - title: "Ignite Talks TBD"
+  - title: "heidi-waterhouse"
+    date: 2019-08-06
+  - title: "emma-sax"
+    date: 2019-08-06
+  - title: "chelsey-mckinney"
+    date: 2019-08-06
+  - title: "megan-tischler"
+    date: 2019-08-06
+  - title: "brianna-mccullough"
+    date: 2019-08-06
+  - title: "steve-pereira"
+    date: 2019-08-06
+  - title: "jenn-strater"
+    date: 2019-08-06
+  - title: "steve-persch"
+    date: 2019-08-06
+  - title: "peg-mickelson"
+    date: 2019-08-06
+  - title: "jason-yee"
     date: 2019-08-06

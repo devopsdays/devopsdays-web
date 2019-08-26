@@ -46,7 +46,7 @@ Se asignará nivel _Community_ a instituciones educativas, meetups y organizacio
  <tr><td>Logo en slides rotativos individuales durante el evento</td><td>&nbsp;</td><td>&nbsp;</td><td>mediano</td><td>grande</td></tr>
  <tr><td>Logo en comunicaciones por e-mail</td><td>&nbsp;</td><td>&nbsp;</td><td>mediano</td><td>grande</td></tr>
  <tr><td>Logo en badge</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>
- <tr><td>Folletos en carpeta/bolsa de participante</td><td>&nbsp;</td><td>X</td><td>X</td><td>&nbsp;</td></tr>
+ <tr><td>Folletos en carpeta/bolsa de participante</td><td>&nbsp;</td><td>X</td><td>X</td><td>X</td></tr>
  <tr><td>presentación de 1 minuto a toda la audiencia</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td><td>&nbsp;</td></tr>
  <tr><td>presentación de 5 minutos a toda la audiencia</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>
  <tr><td>Roll-up en escenario</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>X</td></tr>

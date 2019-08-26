@@ -45,6 +45,7 @@ in promotional materials. The preferred file formats are EPS or AI.
       <th><i>packages</i></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Supporting</a></u></b></center><center><b>$1,000</b></center></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></b></center><center><b>$6,000</b></center></th>
+      <th><center><b><u><a href="#special">Special Sponsorships</a></u></b></center><center><b>$1,500 - $4,000</b></center></th>
     </tr>
     </thead>
     <tbody>
@@ -68,6 +69,8 @@ in promotional materials. The preferred file formats are EPS or AI.
           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
         </form>
       </td>
+      <td style="padding: 4px 5px 0px 5px;">
+          <center>      </td>
     </tr>
     <tr>
       <td style="border-bottom: 0; border-top: 0;"></td>
@@ -75,12 +78,13 @@ in promotional materials. The preferred file formats are EPS or AI.
     </tr>
     <tr>
       <td style="border-bottom: 0; border-top: 0;"></td>
-      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers-kansas-city-2018@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
+      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship">Email us</a> if you prefer to pay by check</td>
     </tr>
     <tr>
       <td>Included tickets</td>
       <td bgcolor="8DB3D4"><center><strong style="color:white;">1</strong></center></td>
       <td bgcolor="004784"><center><strong style="color:white;">4</strong></center></td>
+      <td rowspan=9 bgcolor="002E62" style="text-align:center;vertical-align:middle;"><strong style="color:white;">See Below</strong></td>
     </tr>
     <tr>
       <td>Acknowledgement during opening and closing ceremonies</td>
@@ -121,9 +125,9 @@ in promotional materials. The preferred file formats are EPS or AI.
     </tbody>
   </table>
 
-<h2>Special Sponsorships</h2>
+<h2><a id="special">Special Sponsorships</a></h2>
 
-All special sponsors will have their logo displayed on the DevOpsDays Kansas City website, a tweet before the conference, and a thank you during the conference. We do have some flexabilities with these sponsorships, so just ask! Email us: <a href="mailto:sponsors-chicago-2019@devopsdays.org">sponsors-chicago-2019@devopsdays.org</a>.
+All special sponsors will have their logo displayed on the DevOpsDays Kansas City website, a tweet before the conference, and a thank you during the conference. We do have some flexibilities with these sponsorships, so just ask! Email us at [{{< email_organizers >}}].
 <br/><br/>
 
 <table class = "table table-bordered table-responsive">

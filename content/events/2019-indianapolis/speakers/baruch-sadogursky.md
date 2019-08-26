@@ -4,12 +4,12 @@ image = "baruch-sadogursky.png"
 type = "speaker"
 linktitle = "baruch-sadogursky"
 
-Website = "www.jfrog.com"
+Website = "https://www.jfrog.com"
 Facebook = "http://facebook.com/jbaruch"
 Linkedin = "http://linkd.in/jbaruch"
 Pronouns = "he/him"
-Github = "http://github.com/jbaruch"
-Twitter = "http://twitter.com/jbaruch"
+Github = "jbaruch"
+Twitter = "jbaruch"
 
 +++
 

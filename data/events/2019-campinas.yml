@@ -102,10 +102,12 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  - id: aws
+    level: gold
   - id: infoq
-    level: supporter
-  - id: estabilis
     level: community
+  - id: elastic
+    level: bronze
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
@@ -126,5 +128,3 @@ sponsor_levels:
     label: Bronze
   - id: community
     label: Community
-  - id: supporter
-    label: Supporter
