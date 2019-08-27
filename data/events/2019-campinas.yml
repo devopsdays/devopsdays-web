@@ -104,6 +104,10 @@ proposal_email: "proposals-campinas-2019@devopsdays.org" # Put your proposal ema
 sponsors:
   - id: aws
     level: gold
+  - id: newrelic
+    level: gold
+  - id: globo
+    level: bronze
   - id: infoq
     level: community
   - id: elastic
