@@ -8,7 +8,7 @@ Speakers = ["vijay-challa"]
 Youtube = "XGfWrxyYeQQ"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/vijay-challa-sso-on-cloud-gateway-approach"
 Slides = ""
 Website = "http://linkedin.com/in/vijayrchalla"
 +++

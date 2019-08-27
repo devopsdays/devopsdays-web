@@ -8,7 +8,7 @@ Speakers = ["dan-barker"]
 Youtube = "wMf3YNTqDFc"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/dan-barker-understanding-risk-can-fund-transformation"
 Slides = ""
 Website = "https://www.linkedin.com/in/dan-barker/"
 +++
