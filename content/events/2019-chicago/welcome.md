@@ -87,11 +87,6 @@ The format of DevOpsDays Chicago includes a single track of 30 minute talks in t
             <i class="fa fa-book fa-lg"></i>&nbsp;&nbsp;&nbsp;View the Program
           </a>
         </div>
-        <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-chicago/registration">
-            <i class="fa fa-money fa-lg"></i>&nbsp;&nbsp;&nbsp;Register for the Conference
-          </a>
-        </div>
         </div>
       </div>
     </div> <!-- end a content element -->
