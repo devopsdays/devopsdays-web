@@ -8,7 +8,7 @@ Speakers = ["steve-shangguan"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/steve-shangguan-the-unreasonable-effectiveness-of-combining-and-correlating-logs-metrics-and-traces"
 Slides = ""
 Website = "https://www.linkedin.com/in/shangz/"
 +++

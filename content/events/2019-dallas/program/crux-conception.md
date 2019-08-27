@@ -8,7 +8,7 @@ Speakers = ["crux-conception"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/crux-conception-techlives-matter-hands-up-dont-reboot"
 Slides = ""
 Website = "https://www.linkedin.com/in/crux-conception/"
 +++

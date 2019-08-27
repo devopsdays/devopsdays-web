@@ -8,7 +8,7 @@ Speakers = ["bjorn-edwin"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/bjorn-edwin-start-your-own-devops-dojo-in-8-simple-steps"
 Slides = ""
 Website = "https://www.liatrio.com/author/bjorn-edwin"
 +++

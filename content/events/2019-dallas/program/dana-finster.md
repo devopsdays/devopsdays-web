@@ -8,7 +8,7 @@ Speakers = ["dana-finster"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/dana-finster-devops-do-the-math"
 Slides = ""
 Website = "https://www.linkedin.com/in/dana-finster-2b831097/"
 +++

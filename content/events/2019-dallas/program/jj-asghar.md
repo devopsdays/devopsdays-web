@@ -8,7 +8,7 @@ Speakers = ["jj-asghar"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/jj-asghar-everything-you-need-to-know-about-kubernetes-in-5-mins"
 Slides = ""
 Website = "http://jjasghar.github.io/"
 +++
