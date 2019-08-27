@@ -331,8 +331,8 @@ program:
   - title: "Sponsors + Open Space Kickoff"
     type: custom
     date: 2019-10-25
-    start_time: "09:40"
-    end_time: "09:45"
+    start_time: "09:45"
+    end_time: "10:00"
   - title: "attendee-suggested breakout discussions - Open Spaces"
     type: open-space
     date: 2019-10-25
