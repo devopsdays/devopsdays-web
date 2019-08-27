@@ -8,7 +8,7 @@ Speakers = ["farrah-campbell"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/farrah-campbell-open-mind-open-doors-change-your-narrative-and-achieve-what-is-possible"
 Slides = ""
 Website = ""
 +++

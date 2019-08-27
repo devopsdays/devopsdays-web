@@ -8,7 +8,7 @@ Speakers = ["aaron-mell"]
 Youtube = ""
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/aaron-mell-the-continuous-improvement-toolbox-postmortems"
 Slides = ""
 Website = "https://lumindigital.com/"
 +++
