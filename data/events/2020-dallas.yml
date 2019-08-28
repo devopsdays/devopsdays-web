@@ -185,12 +185,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Scott Purgerson"
 #   employer: "Organizer Role - "
-    role: "Automation Anywhere"
+    role: "Automation Anywhere, Inc."
 #   bio: ""
     twitter: "PurgersonScott"
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
 #   facebook:
-#   website: ""
+    website: "https://www.automationanywhere.com/"
 #   github: ""
     image: "scott.jpg"  
 
