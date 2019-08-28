@@ -188,7 +188,7 @@ sponsors:
   - id: arresteddevops
     level: community
   - id: plexpod
-    level: special
+    level: premium
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
