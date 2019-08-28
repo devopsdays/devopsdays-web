@@ -189,6 +189,8 @@ sponsors:
     level: community
   - id: plexpod
     level: premium
+  - id: sumologic
+    level: premium
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
