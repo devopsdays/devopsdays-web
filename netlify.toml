@@ -8,6 +8,12 @@
   command = "bin/netlify.sh"
   publish = "public/"
 
+ [context.branch-deploy]
+  command = "bin/netlify.sh"
+  publish = "public/"
+
+  
+
 [context.production.environment]
    HUGO_VERSION = "0.57.1"
 

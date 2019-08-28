@@ -3,6 +3,7 @@ Title = "María Emilia Irrazabal"
 Twitter = ""
 type = "speaker"
 linktitle = "maemilia-irrazabal"
+image = "maemilia-irrazabal.jpg"
 +++
 
 Licenciada en Análisis de Sistemas en la Universidad ORT Uruguay con especialización en Gestión de Seguridad de la Información.

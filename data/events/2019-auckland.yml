@@ -141,9 +141,13 @@ sponsors:
     level: gold
   - id: sonatype
     level: gold
+  - id: assurity
+    level: gold
   - id: xero
     level: silver
   - id: gitlab
+    level: silver
+  - id: countdown
     level: silver
  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
  # - id: arresteddevops

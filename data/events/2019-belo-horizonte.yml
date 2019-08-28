@@ -100,6 +100,10 @@ proposal_email: "proposals-belo-horizonte-2019@devopsdays.org" # Put your propos
 sponsors:
   - id: pucminas
     level: platina
+  - id: vanhack
+    level: platina
+  - id: grupomult
+    level: ouro
   - id: smarttbot
     level: prata
   - id: 4yousee
@@ -107,6 +111,8 @@ sponsors:
   - id: bhs
     level: bronze
   - id: izap
+    level: bronze
+  - id: dti
     level: bronze
   - id: vidadeprogramador
     level: community
