@@ -148,7 +148,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo on buffet lines and a dedicated space in buffet area from morning to lunch.</td>
       <td>1</td>
-      <td>2</td>
+      <td>SOLD OUT</td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-cutlery fa-4x"></i></td>
