@@ -87,6 +87,16 @@
         {{- end -}}
       {{- end -}}
 
+      {{- if isset .Params "notist" -}}
+        {{- if ne .Params.notist "" -}}
+        <div class = "row">
+          <div class = "col">
+            <p data-notist="{{ .Params.notist }}">View <a href="https://noti.st/{{ .Params.notist }}">{{ .Title }}</a> on Notist.</p><script async src="https://on.notist.cloud/embed/002.js"></script>
+          </div>
+        </div>
+        {{- end -}}
+      {{- end -}}
+
       {{- if isset .Params "slides" -}}
         {{- if ne .Params.slides "" -}}
         <div class = "row">
