@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to find (and retain) your hardest to hire positions"
 Type = "talk"
 Speakers = ["pete-cheslock"]
+slides = "https://assets.devopsdays.org/events/2019/chicago/pete-cheslock.pdf"
 +++
 
 Back in the spring of 2013, I had this idea floating around in my head.  I had watched so many companies spend countless time and energy in order to recruit the best staff possible.  But after you were in the door, it seems like none of them really cared about how you might retain all those people you spent years investing in.  I had to pleasure of giving my first conference talk ever at an event about this topic of "how to retain your hardest to hire positions".  Why do companies spend FAR more resources to hire new people, when losing any one of their existing employees would in many cases be a massive hit to the productivity of the company.  
