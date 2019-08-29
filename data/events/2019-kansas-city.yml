@@ -193,6 +193,7 @@ sponsors:
     level: premium
   - id: c2fo
     level: premium
+    url: https://stackoverflow.com/jobs/companies/c2fo#jobs-items
 
 sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 
