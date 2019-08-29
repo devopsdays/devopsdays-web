@@ -126,7 +126,7 @@ sponsors:
   - id: lenovo
     level: platinum
 
-  - id: oracle-linux
+  - id: oracle-linux-before-20190829
     level: platinum
 
   - id: oracle-mysql

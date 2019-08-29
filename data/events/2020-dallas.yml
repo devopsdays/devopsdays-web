@@ -185,12 +185,12 @@ team_members: # Name is the only required field for team members.
 
   - name: "Scott Purgerson"
 #   employer: "Organizer Role - "
-    role: "Automation Anywhere"
+    role: "Automation Anywhere, Inc."
 #   bio: ""
     twitter: "PurgersonScott"
     linkedin: "https://www.linkedin.com/in/scott-purgerson-5858224"
 #   facebook:
-#   website: ""
+    website: "https://www.automationanywhere.com/"
 #   github: ""
     image: "scott.jpg"  
 
@@ -224,13 +224,14 @@ team_members: # Name is the only required field for team members.
 #   facebook:
 #   website: ""
 #   github: ""
-    image: "jessicaa-sabugo.jpg"
+    image: "jessica-sabugo.jpg"
 
   - name: "Jim Baldwin"
     employer: "Organizer Role - "
-    role: "Toyota"
-#   bio: ""
-#   twitter: ""
+    role: "JP Morgan Chase"
+    bio: "Jim Baldwin has over 20 years in the IT field holding various positions from Systems Administration and Infrastructure Engineering to DevOps and Cloud Computing.  After attending DevOpsDays in Austin in 2015 and becoming DevOps awakened, Jim has spent his time honing his DevOps and Agile skills.  He is an advocate for Agile and Lean technologies and certified in SAFe and ITIL practices. <br><br>
+    Jim is currently a VP of Reliability Engineering at JP Morgan Chase in the Asset and Wealth Management division.  His responsibilities include maturing and mentoring other divisions in building their SRE teams and looking for opportunities to implement automation and lean practices.  He is also involved in JP Morgan's strategy to move to the public cloud and embrace a more modern DevOps tool chain."
+    twitter: "BaldwinJim"
     linkedin: "https://www.linkedin.com/in/jimbaldwin469/"
 #   facebook:
 #   website: ""
@@ -253,11 +254,11 @@ team_members: # Name is the only required field for team members.
     role: ""
 #   bio: ""
 #   twitter: ""
-#   linkedin: "https://"
+    linkedin: "https://www.linkedin.com/in/russellblack/"
 #   facebook:
 #   website: ""
 #   github: ""
-#   image: ".jpg"
+    image: "russell.jpg"
 
 #  - name: ""
 #    employer: "Organizer Role - "
