@@ -488,11 +488,12 @@ program:
     date: 2019-08-21
     start_time: "14:45"
     end_time: "15:30"
-  - title: "SPEAKER DISCUSSION PANEL"
+  - title: "SPEAKER DISCUSSION PANEL (Click here for video)"
     type: custom
     date: 2019-08-21
     start_time: "15:30"
     end_time: "16:15"
+    custom_url: "https://youtu.be/zlwOBFHT4X8"
   - title: "Organizers Recognition"
     type: custom
     date: 2019-08-21
@@ -511,12 +512,12 @@ ignites:
     date: 2019-08-21
   - title: "bjorn-edwin"
     date: 2019-08-21
-  - title: "aaron-mell"
-    date: 2019-08-21
   - title: "ian-holmes"
     date: 2019-08-21
   - title: "farrah-campbell"
     date: 2019-08-21
   - title: "steve-shangguan"
+    date: 2019-08-21
+  - title: "aaron-mell"
     date: 2019-08-21
 

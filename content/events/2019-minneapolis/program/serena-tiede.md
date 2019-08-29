@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Timber! Security Logging at UnitedHealth Group"
 Type = "talk"
 Speakers = ["serena-tiede"]
+youtube = "332Cvlkp3aE"
 +++
 
 Logs: they’re not interesting beyond debugging and service monitoring, until you’ve been breached and then everyone wants them. As your security people sift through the logs you find out that the logs aren’t standardized, and the logs on your compromised server have been erased.

@@ -48,8 +48,8 @@ Description = "DevOpsDays Cape Town 2019 will take place September 5-6, 2019!"
             </a>
           </div>
         <div class = "d-flex p-2">
-          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/contact">
-            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;Contact the Organizers
+          <a class="btn btn-primary btn-block"  style = "margin-top: 10px; margin-bottom: 10px; background-color: #96bfe6; border-color: #96bfe6;" href="/events/2019-cape-town/program">
+            <i class="fa fa-envelope-o fa-lg"></i>&nbsp;&nbsp;&nbsp;View the program
           </a>
         </div>
         </div>

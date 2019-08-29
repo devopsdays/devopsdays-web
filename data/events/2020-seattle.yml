@@ -9,9 +9,8 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 #   variable: 2019-01-04T00:00:00+02:00
 #   variable: 2019-01-05T23:59:59+02:00
 # Note: we allow 2020-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
-
-startdate: 2020-04-14 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate:  2020-04-15 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+startdate: 2020-04-14T00:00:00-07:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
+enddate:  2020-04-15T23:59:59-07:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
 cfp_date_start:  # start accepting talk proposals.
@@ -64,8 +63,22 @@ team_members: # Name is the only required field for team members.
   - name: "Michael Towbin"
     twitter: "MichaelTowbin"
     image: "michael-towbin.jpg"
-organizer_email: "organizers-seattle-2020@devopsdays.org" # Put your organizer email address here
-proposal_email: "proposals-seattle-2020@devopsdays.org" # Put your proposal email address here
+  - name: "Sarah Shewell"
+  - name: "Craig Barrett"
+  - name: "Saransh Lamba"
+  - name: "Amanda Edades"
+  - name: "Alina Anderson"
+  - name: "Dave Nash"
+  - name: "Jen Peck"
+  - name: "Jason Grimes"
+  - name: "Dawn Parzych"
+  - name: "Anna Yates"
+  - name: "Gretchen K Wagner"
+  - name: "Todd Seesz"
+  - name: "Jenn Henry"
+  - name: "Kevin Lin"
+organizer_email: "seattle@devopsdays.org" # Put your organizer email address here
+proposal_email: "seattle@devopsdays.org" # Put your proposal email address here
 
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.

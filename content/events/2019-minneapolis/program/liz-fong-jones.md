@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Cultivating Production Excellence: Taming Complex Distributed Systems (Opening Keynote)"
 Type = "talk"
 Speakers = ["liz-fong-jones"]
+youtube = "mCLwVwsg4JY"
 +++
 
 Taming the complex distributed systems we're responsible for requires changing not just the tools and technical approaches we use; it also requires changing who is involved in production, how they collaborate, and how we measure success.

@@ -2,9 +2,11 @@
 Title = "Adarsh Shah"
 Twitter = "shahadarsh"
 type = "speaker"
-image = ""
+image = "adarsh-shah.jpg"
 linktitle = "adarsh-shah"
 
 +++
 
-Adarsh Shah is a Technical Principal & Cloud Native Software Dev Practice Lead at Contino. He is also a Devops Days NYC Organizer. With over 14 years of Engineering & Leadership experience, Adarsh has a keen interest in building systems that add business value, and he is passionate about helping clients achieve continuous delivery by improving all 3 aspects of DevOps (people, process & technology). These days, Adarsh is excited about working with distributed systems architecture and cloud native technologies.
+Adarsh Shah is a Technology Leader, Coach, Hands-on Architect & a Change Agent with over 15 years of industry experience. He is also an organizer for Devopsdays NYC conference & devopsnyc meetup. Adarsh has a keen interest in building systems that add business value and is passionate about helping clients with digital transformation by improving both technical as well as non-technical aspects. These days, he is excited about working with distributed systems architecture and cloud native technologies. You can reach him on twitter at @shahadarsh.
+
+In his spare time, he enjoys playing cricket, traveling and trying new whiskies.

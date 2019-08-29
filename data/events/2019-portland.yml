@@ -203,7 +203,17 @@ program:
   - title: "jj-asghar"
     type: talk
     date: 2019-09-10
-    start_time: "12:00"
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "lilia-gutnik"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
+    end_time: "TBD"
+  - title: "stacy-watts"
+    type: talk
+    date: 2019-09-10
+    start_time: "13:00"
     end_time: "TBD"
   - title: "Registration, Breakfast, Sponsors"
     type: custom

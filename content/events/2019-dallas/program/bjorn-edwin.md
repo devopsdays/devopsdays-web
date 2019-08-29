@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Start Your Own DevOps Dojo in 8 Simple Steps"
 Type = "talk"
 Speakers = ["bjorn-edwin"]
-Youtube = ""
+Youtube = "JxV6BUmY-Wo"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/bjorn-edwin-start-your-own-devops-dojo-in-8-simple-steps"
 Slides = ""
 Website = "https://www.liatrio.com/author/bjorn-edwin"
 +++

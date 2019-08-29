@@ -5,10 +5,10 @@ Talk_end_time = ""
 Title = "Open Mind, Open Doors. Change your narrative and achieve what is possible."
 Type = "talk"
 Speakers = ["farrah-campbell"]
-Youtube = ""
+Youtube = "3GxGENtAM0s"
 Vimeo = ""
 Speakerdeck = ""
-Slideshare = ""
+Slideshare = "https://www.slideshare.net/DevOpsDaysDFW/farrah-campbell-open-mind-open-doors-change-your-narrative-and-achieve-what-is-possible"
 Slides = ""
 Website = ""
 +++
