@@ -112,8 +112,6 @@ sponsor_levels:
     label: Silver
   - id: basic
     label: Basic
-  - id: starter
-    label: Starter
   - id: community
     label: Community
 
