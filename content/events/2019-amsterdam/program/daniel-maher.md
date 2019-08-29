@@ -9,6 +9,7 @@ aliases = ["/events/2019-amsterdam/program/daniel-maher/"]
 youtube = ""
 slideshare = ""
 slides = ""
+notist = "phrawzty/fFM8tE"
 +++
 Interesting in speaking at a conference or meet-up, but don't know where to start? Have a great idea for a talk but your proposals keep getting rejected? Or maybe your talk has been accepted but you're nervous about being on stage?
 
