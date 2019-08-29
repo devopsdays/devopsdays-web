@@ -148,6 +148,12 @@ program:
     date: 2019-09-05
     start_time: "11:00"
     end_time: "11:30"
+  - title: Azure DevOps Introduction
+    type: custom
+    date: 2019-09-05
+    start_time: "11:00"
+    end_time: "11:30"
+    background_color: "#90ee90"
   - title: "rory-preddy"
     type: talk
     date: 2019-09-05
@@ -183,11 +189,25 @@ program:
     date: 2019-09-05
     start_time: "16:00"
     end_time: "16:45"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-05
+    background_color: "#90ee90"
+    start_time: "16:00"
+    end_time: "16:45"
+    comments: "Azure Labs"
   - title: "Open Space #2"
     type: open-space
     date: 2019-09-05
     start_time: "16:45"
     end_time: "17:30"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-05
+    background_color: "#90ee90"
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Azure Labs"
   - title: "Evening Event at Woodstock Lounge"
     type: custom
     date: 2019-09-05
@@ -269,11 +289,25 @@ program:
     date: 2019-09-06
     start_time: "16:00"
     end_time: "16:45"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-06
+    background_color: "#90ee90"
+    start_time: "16:00"
+    end_time: "16:45"
+    comments: "Azure Demos"
   - title: "Open Space #2"
     type: open-space
     date: 2019-09-06
     start_time: "16:45"
     end_time: "17:30"
+  - title: "azure-workshops"
+    type: workshop
+    date: 2019-09-06
+    background_color: "#90ee90"
+    start_time: "16:45"
+    end_time: "17:30"
+    comments: "Azure Demos"
   - title: "Closing drinks & snacks at hotel bar"
     type: custom
     date: 2019-09-06
