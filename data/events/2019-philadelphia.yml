@@ -93,6 +93,10 @@ sponsors:
     level: silver
   - id: instana
     level: silver
+  - id: signalfx
+    level: silver
+  - id: socketlabs
+    level: silver
   - id: arresteddevops
     level: community
   - id: linode
