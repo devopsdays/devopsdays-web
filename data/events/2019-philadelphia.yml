@@ -33,7 +33,7 @@ location: "Science History Institute"
 location_address: "315 Chestnut St, Philadelphia, PA 19106"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
-  - name: propose
+#- name: propose
   - name: location
   - name: registration
   - name: program
@@ -181,7 +181,7 @@ program:
     type: workshop
     date: 2019-10-23
     start_time: "13:30"
-    end_time: "16:00"
+    end_time: "15:30"
   - title: "Open Space Opening"
     type: custom
     date: 2019-10-22
@@ -277,7 +277,7 @@ program:
     type: workshop
     date: 2019-10-23
     start_time: "13:30"
-    end_time: "16:00"
+    end_time: "15:30"
   - title: "Open Space Opening"
     type: custom
     date: 2019-10-23
