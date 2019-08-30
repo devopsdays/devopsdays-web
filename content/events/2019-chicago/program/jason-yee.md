@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "How to shave a yak"
 Type = "talk"
 Speakers = ["jason-yee"]
+pdf = "https://assets.devopsdays.org/events/2019/chicago/JasonYee.pdf"
 +++
 
 In the IT world, we often talk about "Yak Shaving" - term to describe a chain of tasks that seem unrelated, but which are required in order to accomplish your primary goal.

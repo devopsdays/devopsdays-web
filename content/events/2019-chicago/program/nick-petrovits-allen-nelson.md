@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Migrating from VMs to K8s"
 Type = "talk"
 Speakers = ["nick-petrovits", "allen-nelson"]
+pdf = "https://assets.devopsdays.org/events/2019/chicago/nick-and-allen.pdf"
 +++
 
 Join us as we describe our migration from a limiting cloud deployment on long-running VMs with shared infrastructure to a streamlined immutable infrastructure built on top of Docker and K8s. We'll also discuss techniques to support local development during this transition.
