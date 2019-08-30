@@ -1,7 +1,7 @@
 +++
 Title = "Marco Coulter"
 Twitter = ""
-image = "Marco Coulter.png"
+image = ""
 type = "speaker"
 linktitle = "marco-coulter"
 
