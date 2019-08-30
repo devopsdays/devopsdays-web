@@ -113,12 +113,18 @@ sponsors:
     level: gold
   - id: elastic
     level: gold
+  - id: chef
+    level: gold
+  - id: atlassian
+    level: gold
   # silver
   - id: dpg-media
     level: silver
   - id: gitlab
     level: silver
   - id: cloudar
+    level: silver
+  - id: netways
     level: silver
   # bronze
   - id: inuits
