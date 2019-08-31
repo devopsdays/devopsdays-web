@@ -2,7 +2,7 @@
 Talk_date = ""
 Talk_start_time = ""
 Talk_end_time = ""
-Title = "Value Stream Mapping Workshop (Room 1Q)"
+Title = "Value Stream Mapping Workshop (Room 1P)"
 Type = "talk"
 Speakers = ["joel-tosi"]
 +++
