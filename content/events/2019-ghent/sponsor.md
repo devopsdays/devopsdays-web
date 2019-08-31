@@ -25,11 +25,11 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <dt>Where will the sponsors be located?</dt>
 <dd>For safety and convenience reasons we will split up the sponsors over two rooms and adjacent hallway. Both rooms will be used for food serving and bar. The hallway will be under constant passage of the visitors of the conference.</dd>
 
-<dt>Should be make ourselves accustomed with the code of conduct?</dt>
+<dt>Should we make ourselves accustomed with the code of conduct?</dt>
 <dd>The code of conduct applies to all participants of the conference. That includes the sponsors too. Please make sure that your employees have read and understood the {{< event_link page="conduct" text="code of conduct" >}}.</dd>
 
 <dt>What dates/times can we set up and tear down?</dt>
-<dd>Sponsors can access the rooms on October 28, 6pm-8pm or on October 29, starting at 7am. Platinum sponsors will get o pick the location of their booth first. Gold sponsors booth spaces will be first come first served. Tear down must be done before October 30 7pm.</dd>
+<dd>Sponsors can access the rooms on October 28, 6pm-8pm or on October 29, starting at 7am. Platinum sponsors will get to pick the location of their booth first. Gold sponsors booth spaces will be first come first served. Tear down must be done before October 30 7pm.</dd>
 
 <dt>How do we ship to the venue?</dt>
 <dd>Please coordinate all shipping needs with Maarten Dingens from Vooruit. NEED DETAILS HERE</dd>
@@ -43,11 +43,11 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <dt>Whom should we send?</dt>
 <dd>This is a community event, so it is better to send engineers rather than sales people.</dd>
 
-<dt>As a Platinum/Gold sponsor, and we supposed to have 2- or 1- minute slot to address the attendees. When will that be? How will it work?</dt>
+<dt>As a Platinum/Gold sponsor, we have a 1- or 2- minute slot to address the attendees. When will that be? How will it work?</dt>
 <dd>Sponsors will address the attendees on the morning of October 29. An email mid October will provide additional details.</dd>
 
 <dt>When can we eat during the conference?</dt>
-<dd>During breaks the attendees will spent the most time near your booth. To make the most of that time we suggest you eat just before the rush. The catering will be waiting for you and you will have first choice of our fabulous lunch and diner.</dd>
+<dd>During breaks the attendees will spent the most time near your booth. To make the most of that time we suggest you eat just before the rush. The catering will be waiting for you and you will have first choice of our fabulous lunch and dinner.</dd>
 
 <dt>How do we get our free tickets to the event?</dt>
 <dd>An access code will be emailed to you in early October. Please have your attendees register by October 14.</dd>
@@ -62,13 +62,13 @@ The best thing to do is send engineers to interact with the experts at devopsday
 <dd>Yes.</dd>
 
 <dt>Will be able to get/scan attendees' details?</dt>
-<dd>Unfortunately for private reasons we don't share such details. The name badges will not be scanable. We suggest to ask for our attendees business cards.</dd>
+<dd>Unfortunately for privacy reasons we don't share such details. The name badges will not be scannable. We suggest to ask for our attendees business cards.</dd>
 
 <dt>We want to rent 'x' for our booth.</dt>
-<dd>We suggest you make use of <a href="https://www.levipartyrental.be/">Levi Party Rental</a> for party equipment and <a href="https://www.swingverkoop.be">Swing verkoop</a> for AV equipment. When contacting them please mention DevOpsDays Ghent so they can arrange shipment in one time for all sponsors.  Please be reminded that everything your rent needs to be in the space allocated to you</dd>
+<dd>We suggest you make use of <a href="https://www.levipartyrental.be/">Levi Party Rental</a> for party equipment and <a href="https://www.swingverkoop.be">Swing verkoop</a> for AV equipment. When contacting them please mention DevOpsDays Ghent so they can arrange a single shipment for all sponsors.  Please be reminded that everything you rent should fit in the space allocated to you.</dd>
 
 <dt>Can we offer the attendees food/coffee?</dt>
-<dd>It's very kind to offer our attendees extra food but we will provide excellent foods and drinks during the full course of the conference. For safety reasons and to make sure the electric circuit doesn't blow we don't allow any kind of food making/heating machines.</dd>
+<dd>It's very kind to offer our attendees extra food but we will provide excellent foods and drinks during the full course of the conference. For safety reasons and to make sure the electric circuit can handle the load we don't allow any kind of food making/heating machines.</dd>
 
 <dt>How can we reach out to the attendees through Twitter & LinkedIn Announcements</dt>
 <dd>Please tweet with the hashtags #devopsdaysghent and #devopsdays. Before, during and after the event you can get announcments and stay in touch with us by following us on Twitter {{< event_twitter >}}</dd>
