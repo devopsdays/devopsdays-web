@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Document Like a Scientist"
 Type = "talk"
 Speakers = ["karissa-peth"]
+notist = "karissapeth/g3vUiw"
 +++
 
 Learn how scientists document their work and are able to pick up new experimental protocols quickly. Apply the concepts of scientific protocols to your documentation to make them more useful to yourself and your users.
