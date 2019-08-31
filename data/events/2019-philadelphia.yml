@@ -179,7 +179,7 @@ program:
     end_time: "16:00"
   - title: "tim-gross"
     type: workshop
-    date: 2019-10-23
+    date: 2019-10-22
     start_time: "13:30"
     end_time: "15:30"
   - title: "Open Space Opening"
