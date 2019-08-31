@@ -44,7 +44,7 @@ in promotional materials. The preferred file formats are EPS or AI.
     <tr>
       <th><i>packages</i></th>
       <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Supporting</a></u></b></center><center><b>$1,000</b></center></th>
-      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></b></center><center><b>$6,000</b></center></th>
+      <th><center><b><u><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship">Premium</a></u></b></center><center><b>$6,000</b></center></th>
       <th><center><b><u><a href="#special">Special Sponsorships</a></u></b></center><center><b>$1,500 - $4,000</b></center></th>
     </tr>
     </thead>
@@ -62,12 +62,7 @@ in promotional materials. The preferred file formats are EPS or AI.
       </td>
       <td style="padding: 4px 5px 0px 5px;">
         <!-- Premium Paypal button  -->
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-          <input type="hidden" name="cmd" value="_s-xclick">
-          <input type="hidden" name="hosted_button_id" value="KUJUTPDCQ3MXS">
-          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        <a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a>
       </td>
       <td style="padding: 4px 5px 0px 5px;">
           <center>      </td>
