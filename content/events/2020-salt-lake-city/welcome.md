@@ -1,16 +1,19 @@
 +++
-Title = "devopsdays Salt Lake City 2020"
+Title = "devopsdays Salt Lake City {{< year >}}"
 Type = "welcome"
 aliases = ["/events/2020-salt-lake-city/"]
-Description = "devopsdays Salt Lake City 2020"
+Description = "devopsdays Salt Lake City {{< year >}}"
 +++
 
 <!-- <div style="text-align:center;">
   {{< event_logo >}}
 </div> -->
 
-<h2>DevOpsDays is returning to Salt Lake City in June! We're just getting started with planning, so please check back for updates!</h2>
-
+<h2>DevOpsDays is returning to Salt Lake City in {{< event_month >}}!</h2>
+<h3>More information to come as we get everything planned out - stay tuned!</h3>
+<br><br>
+<h4>Our CFP is now open! Check it out here: {{< cfp_link >}}</h4>
+<br><hr><br>
 <div class="row">
     <div class="col-md-6">
         <div class="row">
@@ -25,10 +28,10 @@ Description = "devopsdays Salt Lake City 2020"
             <div class="col-md-2"><strong>Location</strong></div>
             <div class="col-md-8">{{< event_location >}}</div>
         </div>
-        <!-- <div class="row">
+        <div class="row">
           <div class="col-md-2"><strong>Propose</strong></div>
           <div class="col-md-8">{{< event_link page="propose" text="Propose a talk!" >}}</div>
-        </div>-->
+        </div>
         <!--<div class="row">
           <div class="col-md-2"><strong>Register</strong></div>
           <div class="col-md-8">{{< event_link page="registration" text="Register to attend the conference!" >}}</div>
@@ -61,9 +64,9 @@ Description = "devopsdays Salt Lake City 2020"
     </div>
 </div>
 <br><br>
-<h3>Join us for our 5th year in the Silicon Slopes!</h3>
+<h3>Join us for our {{< event_year_count >}} year in the Silicon Slopes!</h3>
 <h4>The conference for organizational excellence</h4>
 <a href="../registration" class="btn btn-info">Register!</a> <a href="../sponsor" class="btn btn-info">Sponsor DevOpsDays SLC!</a><br>
-Come join us on June 2 - 3, 2020 and find out how to level your expertise with those of us who strive for operational nirvana.
+Come join us on {{< event_month >}} {{< event_days >}}, {{< year >}} and find out how to level your expertise with those of us who strive for operational nirvana.
 <br>
 <br>
