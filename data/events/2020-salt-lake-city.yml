@@ -12,15 +12,15 @@ ga_tracking_id: "" # If you have your own Google Analytics tracking ID, enter it
 # Note: we allow YYYY-MM-DD for backward compatibility, but it can lead to unexpected behaviors (like your event disappearing from the front page during your last day)
 
 startdate: 2020-06-02T08:00:00-06:00 # The start date of your event. Leave blank if you don't have a venue reserved yet.
-enddate: 2020-06-03T18:00:00-06:00 # The end date of your event. Leave blank if you don't have a venue reserved yet.
+enddate: 2020-06-03T18:00:00-06:00   # The end date of your event. Leave blank if you don't have a venue reserved yet.
 
 # Leave CFP dates blank if you don't know yet, or set all three at once.
-cfp_date_start: 2019-11-15T07:01:00-06:00  # start accepting talk proposals.
+cfp_date_start: 2019-08-30T07:01:00-06:00  # start accepting talk proposals.
 cfp_date_end: 2020-01-07T07:01:00-06:00 # close your call for proposals.
-cfp_date_announce:  2019-11-15T07:01:00-06:00 # inform proposers of status
+cfp_date_announce:  2020-02-10T07:01:00-06:00 # inform proposers of status
 
-cfp_open: "false"
-cfp_link: "https://www.papercall.io/slcdod2018" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
+cfp_open: "true"
+cfp_link: "https://www.papercall.io/slcdod2020" #if you have a custom link for submitting proposals, add it here. This will control the Propose menu item as well as the "Propose" button.
 
 registration_date_start: 2020-01-28T07:01:00-06:00  # start accepting registration. Leave blank if registration is not open yet
 registration_date_end: 2020-06-01T23:59:59-06:00    # close registration. Leave blank if registration is not open yet.
@@ -38,7 +38,7 @@ location_address: "322 11000 S, South Jordan, UT 84095" #Optional - use the stre
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: slcdevopsdays.org
     url: https://www.slcdevopsdays.org
- # - name: propose
+  - name: propose
   - name: location
  # - name: registration
  # - name: program
