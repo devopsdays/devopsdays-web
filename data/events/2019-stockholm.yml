@@ -150,7 +150,7 @@ program:
   - title: "Registration, Breakfast & Sponsors"
     type: custom
     date: 2019-09-17
-    start_time: "08:30"
+    start_time: "08:00"
     end_time: "09:00"
   - title: "Opening Welcome"
     type: custom
@@ -219,7 +219,7 @@ program:
     date: 2019-09-17
     start_time: "16:00"
     end_time: "16:40"
-  - title: "aubrey-stearn"
+  - title: "heidi-araya"
     type: talk
     date: 2019-09-17
     start_time: "16:50"
@@ -264,7 +264,7 @@ program:
     date: 2019-09-18
     start_time: "10:55"
     end_time: "11.25"
-  - title: "heidi-araya"
+  - title: "aubrey-stearn"
     type: talk
     date: 2019-09-18
     start_time: "11:30"
