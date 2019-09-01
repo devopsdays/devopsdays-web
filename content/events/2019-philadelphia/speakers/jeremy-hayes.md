@@ -1,7 +1,7 @@
 +++
 Title = "Jeremy Hayes"
 Twitter = "fabulosity"
-image = ""
+image = "jeremy-hayes.jpg"
 type = "speaker"
 linktitle = "jeremy-hayes"
 
