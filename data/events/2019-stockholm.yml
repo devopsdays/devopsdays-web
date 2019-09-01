@@ -250,7 +250,7 @@ program:
     date: 2019-09-18
     start_time: "09:15"
     end_time: "09:45"
-  - title: "gerie-owen"
+  - title: "marcus-olsson"
     type: talk
     date: 2019-09-18
     start_time: "09:50"
@@ -330,4 +330,3 @@ ignites:
     date: "2019-09-18"
   - title: "daniel-maher"
     date: "2019-09-18"
- 
