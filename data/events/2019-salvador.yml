@@ -194,6 +194,7 @@ program:
     date: "2019-10-05"
     start_time: "13:00"
     end_time: "13:30"
+    background_color: "#AED6F1"
 
   - title: "tatiane-paya"
     type: talk
