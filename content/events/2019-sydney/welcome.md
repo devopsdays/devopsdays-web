@@ -17,8 +17,8 @@ Description = "devopsdays sydney 2019"
       Back in 2010, it was one of the first DevOpsDays events. Today it's a part of a huge global chain of community events world wide.
     </p>
     <p>
-      Come and join us for two days of talks, ignites and open spaces. Learn what's new, share ideas stories and
-      meet you colleauge.
+      Come and join us for two days of talks, ignites and open spaces. Learn what's new, share ideas and stories and
+      meet your colleagues.
     </p>
     <hr/>
     <div class="row">
@@ -29,6 +29,7 @@ Description = "devopsdays sydney 2019"
         {{< event_start >}} - {{< event_end >}}
       </div>
     </div>
+<!--
     <div class="row">
       <div class="col-md-2">
         <strong>Propose</strong>
@@ -37,6 +38,7 @@ Description = "devopsdays sydney 2019"
         {{< event_link url-key="cfp_link" text="Propose a talk!" >}}
       </div>
     </div>
+-->
     <div class="row">
       <div class="col-md-2">
         <strong>Sponsors</strong>
