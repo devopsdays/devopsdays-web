@@ -4,7 +4,7 @@ Type = "event"
 Description = "Location for devopsdays denver 2020"
 +++
 
-<div style="text-align: right; float: right;"><img src="https://www.milehighstation.com/wp-content/uploads/2018/09/5b3bb00fca66ad6e370660f0_MHS-Brand-Awareness-Instagram-1.jpg" height="450px"/></div>
+<div style="text-align: right; float: right;"><img src="/events/2020-denver/mile-high-station.jpg" height="450px"/></div>
 
 This year's event will be held at beautiful [Mile High Station](https://www.milehighstation.com/) and [Iron Works](https://ironworksdenver.co/), right next to Mile High Stadium.
 
