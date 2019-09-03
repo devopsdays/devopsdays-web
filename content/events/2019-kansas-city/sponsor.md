@@ -151,7 +151,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo on buffet lines and a dedicated space in buffet area from lunch to evening.</td>
       <td>1</td>
-      <td>2</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-coffee fa-4x"></i></td>
@@ -159,7 +159,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$1,500</td>
       <td>Your logo stamped on coffee sleeves.</td>
       <td>1</td>
-      <td>2</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-id-badge fa-4x"></i></td>
@@ -167,7 +167,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Your logo and company colors. Typically provided by the sponsoring company.</td>
       <td>2</td>
-      <td>1</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
     <tr>
       <td align="center"><i class="fa fa-music fa-4x"></i></td>
@@ -175,7 +175,7 @@ All special sponsors will have their logo displayed on the DevOpsDays Kansas Cit
       <td>$4,000</td>
       <td>Pay for drinks, food, and entertainment - get an exclusive space for the night.</td>
       <td>4</td>
-      <td>1</td>
+      <td><a href="mailto:organizers-kansas-city-2019@devopsdays.org?subject=DevOpsDays%20Kansas%20City%202019%20Sponsorship"><b>Contact us for availability!</b></a></td>
     </tr>
   </tbody>
 </table>
