@@ -5,6 +5,7 @@ Talk_end_time = ""
 Title = "Ethics in Computing: When Right and Wrong Stop Being Obvious"
 Type = "talk"
 Speakers = ["jeff-smith"]
+pdf = "https://assets.devopsdays.org/events/2019/chicago/jeff-smith.pdf"
 +++
 
 Ethics in computing sounds like a fairly straight forward proposition at first glance. But when you begin to peel back the complicated layers at which technology and its implementation converge, its anything but simple. In this talk we'll discuss some of the ethical and morale frameworks that we can apply to the computing industry. As we do that we'll discuss and ask ourselves the questions
