@@ -37,7 +37,7 @@ gulp.task('responsive-images-logos', function () {
     .pipe(imageResize({
       width : 250,
       height : 250,
-      imageMagick : true
+    //   imageMagick : true
     }))
     .pipe(gulp.dest('dist'));
 });
@@ -68,7 +68,7 @@ gulp.task('responsive-organizer-images', function () {
       width : 600,
       height : 600,
       crop: true,
-      imageMagick : true
+    //   imageMagick : true
     }))
     .pipe(gulp.dest('dist'));
 });
@@ -102,7 +102,7 @@ gulp.task('responsive-speaker-images', function () {
       width : 600,
       height : 600,
       crop: true,
-      imageMagick : true
+    //   imageMagick : true
     }))
     .pipe(gulp.dest('dist'));
 });
@@ -134,7 +134,7 @@ gulp.task('responsive-sponsor-images', function () {
     .pipe(imageResize({
       width : 200,
       height : 200,
-      imageMagick : true
+    //   imageMagick : true
     }))
     .pipe(gulp.dest('dist/img/sponsors'));
 });
