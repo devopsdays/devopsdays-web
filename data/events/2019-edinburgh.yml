@@ -156,7 +156,7 @@ program:
     date: 2019-10-17
     start_time: "09:05"
     end_time: "09:15"
-  - title: "ali-hill"
+  - title: "-"
     type: talk
     date: 2019-10-17
     start_time: "09:15"
@@ -304,12 +304,12 @@ program:
     date: 2019-10-18
     start_time: "11:15"
     end_time: "11:30"
-  - title: "-"
+  - title: "ali-hill"
     type: talk
     date: 2019-10-18
     start_time: "11:30"
     end_time: "12:00"
-  - title: "-"
+  - title: "nataliya-remez"
     type: talk
     date: 2019-10-18
     start_time: "12:00"
